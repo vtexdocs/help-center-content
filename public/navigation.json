@@ -38565,21 +38565,6 @@
             },
             {
               "name": {
-                "en": "Builder-hub error when trying to publish an app",
-                "es": "Error de Builder-hub al intentar publicar una aplicación",
-                "pt": "Erro do Builder-hub ao tentar publicar um aplicativo"
-              },
-              "slug": {
-                "en": "builderhub-error-when-trying-to-publish-an-app",
-                "es": "error-de-builderhub-al-intentar-publicar-una-aplicacion",
-                "pt": "erro-do-builderhub-ao-tentar-publicar-um-aplicativo"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "CLI's Windows installer doesn’t have a publisher",
                 "es": "El instalador de CLI para Windows no tiene editor",
                 "pt": "O instalador do Windows da CLI não tem um editor"
@@ -44877,6 +44862,21 @@
                 "en": "checkoutgraphql-could-not-handle-items-with-subscription-when-the-orderform-has-gifts",
                 "es": "checkoutgraphql-no-podia-manejar-articulos-con-suscripcion-cuando-el-orderform-tiene-regalos",
                 "pt": "checkoutgraphql-nao-pode-tratar-itens-com-assinatura-quando-o-formulario-de-pedido-tem-presentes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CheckoutOrderFormOwnership Cookie shipping information loss",
+                "es": "Pérdida de información de envío de cookies del formulario de pedido de pago",
+                "pt": "Perda de informações de envio do cookie CheckoutOrderFormOwnship"
+              },
+              "slug": {
+                "en": "checkoutorderformownership-cookie-shipping-information-loss",
+                "es": "perdida-de-informacion-de-envio-de-cookies-del-formulario-de-pedido-de-pago",
+                "pt": "perda-de-informacoes-de-envio-do-cookie-checkoutorderformownship"
               },
               "origin": "",
               "type": "markdown",
@@ -67770,6 +67770,21 @@
             },
             {
               "name": {
+                "en": "Product specification field is not displayed on PDP when its name matches the specification group name",
+                "es": "El campo de especificación del producto no se muestra en PDP cuando su nombre coincide con el nombre del grupo de especificación.",
+                "pt": "O campo de especificação do produto não é exibido na página de detalhes do produto (PDP) quando seu nome corresponde ao nome do grupo de especificações."
+              },
+              "slug": {
+                "en": "product-specification-field-is-not-displayed-on-pdp-when-its-name-matches-the-specification-group-name",
+                "es": "el-campo-de-especificacion-del-producto-no-se-muestra-en-pdp-cuando-su-nombre-coincide-con-el-nombre-del-grupo-de-especificacion",
+                "pt": "o-campo-de-especificacao-do-produto-nao-e-exibido-na-pagina-de-detalhes-do-produto-pdp-quando-seu-nome-corresponde-ao-nome-do-grupo-de-especificacoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product Summary Quantity does not work in regionalized stores",
                 "es": "La cantidad del resumen del producto no funciona en las tiendas regionalizadas",
                 "pt": "A quantidade do resumo do produto não funciona em lojas regionalizadas"
@@ -68063,6 +68078,21 @@
                 "en": "sitemap-retains-ghost-products-from-categories-removed-via-full-cleanup",
                 "es": "el-mapa-del-sitio-conserva-los-productos-fantasma-de-las-categorias-eliminadas-mediante-una-limpieza-completa",
                 "pt": "o-mapa-do-site-mantem-produtos-fantasmas-de-categorias-removidas-por-meio-de-uma-limpeza-completa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sitemap returns \"Account not found\" on public domains for stores split between Store Framework and FastStore",
+                "es": "El mapa del sitio devuelve \"Cuenta no encontrada\" en dominios públicos para tiendas divididas entre Store Framework y FastStore.",
+                "pt": "O Sitemap retorna \"Conta não encontrada\" em domínios públicos para lojas divididas entre Store Framework e FastStore."
+              },
+              "slug": {
+                "en": "sitemap-returns-account-not-found-on-public-domains-for-stores-split-between-store-framework-and-faststore",
+                "es": "el-mapa-del-sitio-devuelve-cuenta-no-encontrada-en-dominios-publicos-para-tiendas-divididas-entre-store-framework-y-faststore",
+                "pt": "o-sitemap-retorna-conta-nao-encontrada-em-dominios-publicos-para-lojas-divididas-entre-store-framework-e-faststore"
               },
               "origin": "",
               "type": "markdown",
