@@ -36,30 +36,30 @@ Please follow the instructions detailed below.
 
 ### Setting up the `priceTables` field in Master Data
 
-To use Price Tables, you must enable the `priceTables` field in the __Client__ entity in __Master Data__, which means that each customer in your store will have an attribute that indicates if it is associated with a specific price table.
+To use Price Tables, you must enable the `priceTables` field in the __Client__ entity in __Master Data__, which means that each customer in your store will have an attribute that indicates if they are associated with a specific price table.
 
 To do this, follow the steps below.
 
 1. In the VTEX Admin, go to *Store Settings > Storefront > Master Data*, or type *Master Data* in the search bar at the top of the page.
 2. Click on the gear icon next to __Profile System__.
-3. In the __Clientes__ row, click on the __pencil button__.
+3. In the __Clients__ row, click on the __pencil button__.
 4. Check the box next to __priceTables__.
-5. Now click on the __Schemas de Layout__ tab and drag the `priceTables` field from the __Campos disponíveis__ section to wherever you want - for example, to the box __Campos da coluna 1__. 
+5. Now click on the __Layout Schemas__ tab and drag the `priceTables` field from the __Available fields__ section to wherever you want - for example, to the box __Fields of Column 1__. 
 6. Click on __Save__.
 
 Now let's configure the new field for your __Customers__ entity.
 
 1. In Master Data, click on __Advanced settings__.
-2. Click on __Estrutura de dados__.
+2. Click on __Data Structure__.
 3. Select the __Data entities__ tab.
 4. On the CL (Customers) entity row, click on the __pencil button__.
 5. In the priceTables row, click on the __gear icon__.
 6. Check the box next to __Is filterable?__.
-7. In the __Domain__ field, you can enter a domain name for each price table. Press Enter to display additional fields. In the example in the image below, we entered two domains: `Gold` and` Silver`.
+7. In the __Domain__ field, you can enter a domain name for each price table. Press Enter to display additional fields. In the example in the image below, we entered two domains: `Gold` and `Silver`.
 Another way to use Price Tables is by declaring them directly on the customer form. If a new Price Table value is entered for a customer, that Price Table will be automatically created, without having been previously declared in Domains. To create more than one, separate them by commas. For example: `gold, silver`.
-9. When you finish, click on __Save__.
-10. In the row of the entity you have edited, click on the floppy disk icon to publish it.
-11. Then, click on the arrows icon to reindex it.
+8. When you finish, click on __Save__.
+9. In the row of the entity you have edited, click on the floppy disk icon to publish it.
+10. Then, click on the arrows icon to reindex it.
 
 > ℹ️ Each customer can have up to 5 Price Tables associated with them. When the customer has more than one Price Table linked to them, the system will follow the order in which the Price Tables were created to determine the price of each SKU. If the SKU does not have a price configured in the first Price Table, the system will look for a price in the second one, and so on. In case there is no price configured in any of the Price Tables, the base price will be applied.
 
@@ -79,7 +79,7 @@ Price tables are shown as columns of the price list, as are sales channels.
 
 ![Lista preços- EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/prices/price-list/setting-up-price-tables-for-specific-users_2.png)
 
-To update a fixed price in a specific table, on the column corresponding to that table, and then on __Define fixed prices__. 
+To update a fixed price in a specific table, click on the column corresponding to that table, and then on __Define fixed prices__. 
 
 To enter and update prices from a specific table via API, check out the [Pricing API documentation](https://developers.vtex.com/docs/api-reference/prices-and-fixed-prices#createeditfixedpricesonapricetableortradepolicy).
 
@@ -98,4 +98,4 @@ When Daniel, who is linked to the Silver price table, is logged into the store, 
 
 Breno, who is linked to the Gold price table, will see the prices set on this table. He would pay USD 60.50 for the same backpack.
 
-> ⚠️ The customer <strong> must </ strong> be authenticated — through token, password, Google, or Facebook — to see the prices that apply to them. Otherwise, the price shown will be the default price. Please note that entering the email address at checkout is not enough, since in this process the customer is identified, but not authenticated.
+> ⚠️ The customer must be authenticated — through token, password, Google, or Facebook — to see the prices that apply to them. Otherwise, the price shown will be the default price. Please note that entering the email address at checkout is not enough, since in this process the customer is identified, but not authenticated.

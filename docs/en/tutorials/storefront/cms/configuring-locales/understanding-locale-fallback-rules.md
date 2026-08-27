@@ -12,7 +12,7 @@ order: 2
 When [configuring locales](/en/docs/tutorials/configuring-locales), some types of content don't need localization. For example, you may have a banner image without text or a brand name that remains the same across all languages. Fallback strategies help you avoid duplicating this kind of content unnecessarily. Below are two common approaches:
 
 | Use case | Description |
-| :---- | :---- |
+| ---- | ---- |
 | [Default locale as fallback for other locales](#default-locale-as-fallback-for-other-locales) | Use when most content is shared, and other locales only override specific differences. |
 | [Core language fallback with regional variations](#core-language-fallback-with-regional-variations) | Use when managing regional variations that inherit from a core language locale. |
 

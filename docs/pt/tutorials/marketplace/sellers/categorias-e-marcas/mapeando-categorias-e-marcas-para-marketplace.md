@@ -88,7 +88,7 @@ Você pode baixar o modelo atualizado da planilha no botão **Baixar tabela atua
 
 1. Veja todas as marcas que estão na __coluna A__. Estes são os valores que você associará às marcas do seller na coluna C, durante o passo 2.    
 2. Preencha a __coluna B__ com a marca correspondente da coluna C.     
-3. Repita o processo até a __coluna C __ficar vazia.    
+3. Repita o processo até a __coluna C__ ficar vazia.    
 4. Salve o __arquivo XLS__ da planilha.    
 5. Em *Mapear marca*s, envie a planilha atualizada pelo botão __Atualizar mapeamento de marcas__.     
 

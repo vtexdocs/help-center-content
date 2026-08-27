@@ -56,4 +56,4 @@ Os crawlers do Search Console identificam os seguintes erros:
 ### Correction
 
 - **Mapping:** in case you identify important URLs, and intend to keep the link indexed, you will have to create a URL mapping on the VTEX portal by redirecting the traffic of the URL with error to a URL that is accessible and important. Know how to create URL mapping on VTEX.
-- **Indexation removal: **if you identify URLs with error with no importance for your store’s strategy, you will have to remove the URL indexation in the option “Excluir URL Indexada” of Google Search Console.
+- **Indexation removal:** if you identify URLs with error with no importance for your store’s strategy, you will have to remove the URL indexation in the option “Excluir URL Indexada” of Google Search Console.

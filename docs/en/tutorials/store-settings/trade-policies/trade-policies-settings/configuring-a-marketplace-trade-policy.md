@@ -52,7 +52,7 @@ Sellers can create promotions with different conditions for the marketplaces in 
 
 This configuration can be done in the *Promotions* module in all [promotions](/en/docs/tracks/campaigns-what-are-they-and-how-to-create-them) your store offers as a seller. To do this:
 
-1. Select the sales channel in the **Restrict sales channels **field. 
+1. Select the sales channel in the **Restrict sales channels** field. 
 2. Configure the origin of the promotions to `fulfillment / Delivered by me`. 
 
 If no sales channel is selected, the promotion will be available in all sales channels.

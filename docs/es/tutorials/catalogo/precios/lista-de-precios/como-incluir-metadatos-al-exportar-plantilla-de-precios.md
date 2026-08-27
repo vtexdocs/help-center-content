@@ -1,5 +1,5 @@
 ---
-title: 'Cómo incluir metadatos al exportar plantilla de precios'
+title: 'Incluyendo metadatos al exportar plantilla de precios'
 id: 4ELD4MlJ1mNsLtktGAMHVi
 status: PUBLISHED
 createdAt: 2019-05-27T21:21:41.695Z

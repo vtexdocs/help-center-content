@@ -30,7 +30,7 @@ Chamados urgentes têm prioridade para tratar incidentes críticos. Solicitaçõ
 As solicitações não urgentes são classificadas em três níveis de prioridade, conforme a tabela a seguir:
 
 | Nível | Descrição | Exemplo |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Alta | Funcionalidades importantes da sua loja VTEX estão indisponíveis ou extremamente lentas, sem solução alternativa viável. | Uma promoção não é aplicada ou os produtos não sincronizam entre o seller e o marketplace. |
 | Normal | Funcionalidades importantes da sua loja VTEX estão indisponíveis ou lentas, mas existe uma solução alternativa temporária. | *Um problema conhecido está afetando sua loja, mas uma solução temporária já está em vigor.* |
 | Baixa | Tarefas ou dúvidas relacionadas a recursos ou documentação. | É possível configurar feriados locais na plataforma? |

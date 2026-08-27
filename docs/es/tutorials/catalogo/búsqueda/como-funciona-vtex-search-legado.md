@@ -36,7 +36,7 @@ De acuerdo con el término buscado, el sistema puede renderizar los siguientes r
 
 Si el término buscado corresponde exactamente al nombre de una carpeta configurada en el CMS (es decir, a una landing page), esa carpeta será renderizada.
 
-> ⚠️ **Atención**: para que una carpeta pueda buscarse, esta debe poseer un layout.<br>**Aunque la búsqueda sea por una carpeta hija, el padre también requiere un layout.**
+> ⚠️ Para que una carpeta pueda buscarse, esta debe poseer un layout. Aunque la búsqueda sea por una carpeta hija, el padre también requiere un layout.
 
 ### 2. Marca
 

@@ -14,6 +14,7 @@ legacySlug: creating-a-product-collection
 locale: en
 subcategoryId: 3aExYJkji3NIu9Ks8bxbWx
 ---
+
 >⚠️ There are two ways to configure collections, through the CMS Portal (Legacy) or the [Collection module (Beta)](/docs/tutorials/creating-collections-beta). This article is about how to configure collections through the CMS Portal (Legacy).
 
 A product collection allows you to group catalog items based on criteria such as department, category, brand, release period, or specific SKUs, creating themed showcases for campaigns, seasonal events, or store-specific curated collections. This grouping makes it easier to organize and display related products, enhancing navigation and the customer shopping experience.
