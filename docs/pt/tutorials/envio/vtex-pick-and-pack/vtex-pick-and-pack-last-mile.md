@@ -58,7 +58,7 @@ Para desfazer uma seleção, abra o filtro e clique em `Limpar`.
 
 ### Status do serviço
 
-Os status a seguir se aplicam aos serviços das duas abas:
+Os status disponíveis dependem da configuração da integração com a transportadora. A tabela a seguir apresenta os status que podem ser aplicados aos serviços das duas abas. Portanto, os filtros exibem somente os status enviados pela transportadora. Por exemplo, uma transportadora pode enviar apenas os status **Criado** e **Entregue**.
 
 | Status | Descrição |
 | ------ | --------- |
@@ -136,7 +136,11 @@ Em qualquer etapa, você pode clicar em `Voltar` para revisar as informações j
 
 ### Serviços de coleta
 
-Nos serviços de coleta, a janela **Create pickup service** apresenta a **Instalação** onde o pedido ficará disponível, o endereço correspondente e a **Data estimada de retirada**. O endereço também aparece no resumo lateral, em **Retirada**.
+Nos serviços de coleta:
+
+1. Na janela **Create pickup service**, selecione a **Instalação** onde o pedido ficará disponível e informe a **Data estimada de retirada**. O endereço correspondente aparece no resumo lateral, em **Retirada**.
+2. Clique em `Continuar`.
+3. Clique em `Criar serviço`.
 
 ![vtex-pick-and-pack-last-mile_6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_6.png)
 
@@ -144,34 +148,46 @@ Nos serviços de coleta, a janela **Create pickup service** apresenta a **Instal
 
 ### Serviços de entrega
 
-Nos serviços de entrega, essa etapa é dividida em três telas.
+Nos serviços de entrega:
 
-Em **Informações de retirada**, você define onde a transportadora vai coletar os pacotes. A opção `Criar a partir do pedido` utiliza os dados do próprio pedido para preencher a origem. Selecione a **Instalação** desejada e informe a **Data prevista para coleta**.
+1. Em **Informações de retirada**, selecione a **Instalação** e informe a **Data prevista para coleta**. A opção `Criar a partir do pedido` preenche a origem com os dados do pedido.
 
-![vtex-pick-and-pack-last-mile_7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_7.png)
+    ![vtex-pick-and-pack-last-mile_7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_7.png)
 
-Em **Informações de entrega**, você define o destino dos pacotes, também a partir dos dados do pedido, e informa a **Data prevista para entrega**. O endereço de destino aparece no resumo lateral, em **Enviar para**.
+2. Clique em `Continuar`.
+3. Em **Informações de entrega**, confira o destino e informe a **Data prevista para entrega**. O endereço de destino aparece no resumo lateral, em **Enviar para**.
 
-![vtex-pick-and-pack-last-mile_8](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_8.png)
+    ![vtex-pick-and-pack-last-mile_8](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_8.png)
 
-Por fim, selecione a **Transportadora** responsável pela entrega entre as integrações ativas. A transportadora escolhida aparece no resumo lateral e recebe o serviço quando você clica em `Criar serviço`.
+4. Clique em `Continuar`.
+5. Selecione a **Transportadora** responsável pela entrega entre as integrações ativas. A transportadora escolhida aparece no resumo lateral.
+6. Clique em `Criar serviço`.
 
 ## Consultar detalhes do serviço
 
-Para ver mais informações sobre um serviço, clique na linha correspondente na tabela. Os detalhes são exibidos em um painel lateral, organizado nas abas **Detalhes** e **Observações**.
+Para ver mais informações sobre um serviço, clique na linha correspondente na tabela. Os detalhes são exibidos em um painel lateral, organizado nas abas **Details**, **Tracking**, **Attachment** e **Notes**.
 
 ![vtex-pick-and-pack-last-mile_9](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_9.png)
 
-No topo do painel, aparecem o identificador do pedido e o status atual do serviço. A aba **Detalhes** reúne as seguintes informações:
+No topo do painel, aparecem o identificador do pedido e o status atual do serviço. O menu de três pontos, à direita, permite baixar a etiqueta de rastreio gerada pelo Last Mile. O modelo da etiqueta é padrão e não pode ser personalizado.
+
+O conteúdo do painel varia conforme o tipo de serviço e as informações enviadas pela integração. O painel é organizado nas abas **Details**, **Tracking**, **Attachment** e **Notes**.
+
+A aba **Details** reúne as seguintes informações:
 
 * **Order ID:** número identificador do pedido.
 * **Buyer information:** nome, telefone e email do cliente.
-* **Pickup details:** intervalo de data e hora previsto para a retirada, nos serviços de coleta.
-* **Store:** loja de retirada, com o endereço completo.
+* **Pickup details:** intervalo de data e hora previsto para a retirada nos serviços de coleta.
+* **Store:** loja de retirada, com o endereço completo, nos serviços de coleta.
+* **Informações de coleta e entrega:** endereços e datas correspondentes a cada etapa, nos serviços de entrega.
 * **Pacote(s):** volumes do serviço, com o tipo de embalagem e a quantidade de itens. Clique no pacote para ver os itens que ele contém.
 * **Linha do tempo:** histórico do serviço, com data, hora e autor de cada evento, desde a criação até a última atualização de status.
 
-A aba **Observações** reúne as notas registradas no serviço.
+A aba **Tracking**, quando disponível, reúne informações adicionais de rastreio enviadas pela integração.
+
+A aba **Attachment** permite visualizar etiquetas e fotos do comprovante de entrega enviadas pela integração, quando disponíveis.
+
+A aba **Notes** reúne alertas de rota e mensagens enviadas em tempo real pela integração, quando disponíveis.
 
 ## Confirmar a retirada em loja
 
@@ -193,7 +209,7 @@ Se o cliente não recebeu o email ou não tem mais acesso a ele, você pode envi
 
 Para enviar um novo código, siga os passos abaixo:
 
-1. No Admin VTEX, acesse **Envio > Last Mile > Serviços de evnio**.
+1. No Admin VTEX, acesse **Envio > Last Mile > Serviços de envio**.
 2. Clique na aba **Retirada na loja**.
 3. Clique no pedido desejado.
 4. No rodapé do painel de detalhes, clique em `Send new code via email`.
@@ -241,19 +257,22 @@ Cada cartão apresenta o nome da empresa, os países atendidos e o status da int
 
 Para adicionar uma integração, siga os passos abaixo:
 
-1. Clique em `Adicionar Integração`.
-2. Na janela **Add Integration**, selecione a empresa desejada. As empresas já integradas na conta aparecem indisponíveis para seleção.
+1. No Admin VTEX, acesse **Envio > Last Mile > Integrações**.
+2. Clique em `Adicionar Integração`.
+3. Na janela **Add Integration**, selecione a empresa desejada. As empresas já integradas na conta aparecem indisponíveis para seleção.
 
     ![vtex-pick-and-pack-last-mile_15](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_15.png)
 
-3. Clique em `Continuar`.
-4. Ative a opção **Ativo** e preencha os campos de configuração.
+4. Clique em `Continuar`.
+5. Ative a opção **Ativo** e preencha os campos de configuração.
 
     > ℹ️ Cada empresa tem seus próprios campos de configuração, e algumas informações precisam ser obtidas diretamente com ela. Se necessário, entre em contato com o suporte da transportadora.
 
+    > ℹ️ Algumas integrações exigem o envio de credenciais à VTEX. Nesse caso, entre em contato com [Suporte VTEX](https://help.vtex.com/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex) para receber orientações sobre como enviar as informações necessárias.
+
     ![vtex-pick-and-pack-last-mile_16](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_16.png)
 
-5. Clique em `Criar`.
+6. Clique em `Criar`.
 
 Para editar uma integração existente, clique no cartão correspondente, faça as alterações desejadas e clique em `Atualizar`.
 
