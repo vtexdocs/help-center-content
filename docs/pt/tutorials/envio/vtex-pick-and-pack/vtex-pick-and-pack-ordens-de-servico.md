@@ -121,7 +121,7 @@ A aba **Pedidos** lista os pedidos que compõem a ordem de serviço. Para locali
 * **SKU:** identificador do item na plataforma.
 * **Categorias:** categorias do catálogo às quais o item está associado.
 
-![Aba no modal de detalhes da mordem de serviço](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-ordens-de-servico_5.png)
+![Aba no modal de detalhes da ordem de serviço](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-ordens-de-servico_5.png)
 
 ### Aprovações
 
