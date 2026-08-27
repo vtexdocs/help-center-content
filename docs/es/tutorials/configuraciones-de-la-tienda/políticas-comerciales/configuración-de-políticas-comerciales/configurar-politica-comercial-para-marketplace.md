@@ -92,7 +92,7 @@ Esta configuración se realiza en el módulo *Precios* mediante políticas comer
 
 ![ES Regra de preço](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/configuraciones-de-la-tienda/políticas-comerciales/configuración-de-políticas-comerciales/configurar-politica-comercial-para-marketplace_6.jpg)
 
-*En el ejemplo anterior, la regla de precios aplicó un *markup* a la política comercial «Marketplace» para los productos de la categoría «Fera-Fashion».* 
+*En el ejemplo anterior, la regla de precios aplicó un* markup* a la política comercial «Marketplace» para los productos de la categoría «Fera-Fashion».* 
 
 ## Estrategia de envío
 
@@ -104,7 +104,7 @@ Ambas configuraciones se realizan en el módulo *Estrategia de envío*. Al crear
 *En el ejemplo anterior, el muelle está asociado a la política comercial «Marketplace», que recibirá servicio de la transportadora «Transportadora A».*
 
 ![ES Estoque Politica](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/configuraciones-de-la-tienda/políticas-comerciales/configuración-de-políticas-comerciales/configurar-politica-comercial-para-marketplace_8.jpg)
-*En el ejemplo anterior, el stock está asociadao al "Muelle A", por lo que este será el *stock* que utilizarán las políticas comerciales vinculadas al "Muelle A".* 
+*En el ejemplo anterior, el stock está asociadao al "Muelle A", por lo que este será el* stock* que utilizarán las políticas comerciales vinculadas al "Muelle A".* 
 
 ## Integraciones
 Las políticas comerciales también se aplican a todas las integraciones en las que su tienda vende productos. A través de ellas, los *sellers* indican las condiciones de precio, catálogo, promociones, logística, pagos y estrategia de envío estarán disponibles para la venta en la integración con Netshoes, o Google Shopping, por ejemplo. 

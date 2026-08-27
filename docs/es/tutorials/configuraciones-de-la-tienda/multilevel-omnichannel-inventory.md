@@ -157,7 +157,7 @@ Actualmente, el valor del campo _Fulfillment endpoint_ del _seller_ tiene el sig
 
 `https://storeabc.vtexcommercestable.com.br/api/fulfillment?affiliateId=mkp&sc=2`
 
-Para habilitar la funcionalidad Multilevel omnichannel inventory, el nuevo valor del campo debe contener el _endpoint_ de **_checkout_, **en lugar del _endpoint_ de _fulfillment_:  
+Para habilitar la funcionalidad Multilevel omnichannel inventory, el nuevo valor del campo debe contener el _endpoint_ de **_checkout_,** en lugar del _endpoint_ de _fulfillment_:  
 
 `https://storeabc.vtexcommercestable.com.br/api/checkout?affiliateid=mkp&sc=2`
 

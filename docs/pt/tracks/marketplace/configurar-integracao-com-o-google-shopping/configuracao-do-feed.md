@@ -27,6 +27,6 @@ A utilização de **um feed complementar é opcional**, via de regra não será 
 
 Outra situação na qual a criação de um feed complementar pode ser vantajosa é quando você deseja mudar algo sobre um produto no Google Shopping, mas **não deseja alterar sua política comercial.**
 
-|**SAIBA MAIS**|
+|SAIBA MAIS|
 | ---------- |
 | Caso queira mais informações, confira os artigos do Google [sobre os feeds](https://support.google.com/merchants/answer/7439882?hl=pt-BR&ref_topic=3163841) e sobre [criar um feed complementar.](https://support.google.com/merchants/answer/7439058?hl=pt-BR)|

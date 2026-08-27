@@ -19,6 +19,8 @@ subcategoryId: l3DubpOCHBfKyF2ueg2Vs
 
 It provides insights into the performance of search results and [Autocomplete](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4gXFsEWjF7QF7UtI2GAvhL?&utm_source=autocomplete) search terms. This way, you can take actions to improve performance, such as creating redirects or adding synonyms.
 
+> ℹ️ If your store uses a headless web store or a mobile app built with Flutter or React Native, search impressions and clicks must be tracked manually using Activity Flow for this data to be collected. For implementation details, see [Tracking search analytics events in headless web stores](https://developers.vtex.com/docs/guides/tracking-search-analytics-events-in-headless-web-stores) and [Tracking search analytics events in mobile apps](https://developers.vtex.com/docs/guides/tracking-search-analytics-events-in-mobile-apps).
+
 Follow the steps below to access the page:
 
 1. In the VTEX Admin, go to **Storefront**, or type **Storefront** in the search bar at the top of the page.
@@ -54,7 +56,7 @@ The **Analytics** page allows you to combine different filters to limit the data
 
 *   **Search** or **Autocomplete**.
 *   **With results** or **With empty results**: choose between searches that returned results or searches that returned empty results.
-*   **All**, **Mobile **or **Desktop**: limit the devices on which the searches have been performed.
+*   **All**, **Mobile** or **Desktop**: limit the devices on which the searches have been performed.
 *   **Today**, **Yesterday**, **Last 7 days**, **Last 30 days**, and **Custom:** select the period you want to analyze. The **Custom** option allows you to set the start and end dates.
 
 The **Analytics** page only displays information for a maximum period of one month. To access data for a period of up to 6 months, please [export a CSV file](#exporting-reports).

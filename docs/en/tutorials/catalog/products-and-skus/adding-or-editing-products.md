@@ -35,7 +35,7 @@ To add a new product to the store catalog, follow these steps:
 4. Depending on the product category, the **Category attributes** step might appear with additional sections. Complete the fields as described in [Category attributes](#category-attributes).
 5. Click `Save`.
 
-> ❗ You can deactivate a product after creating it, but you can't delete a single product. The platform only allows bulk deleting products and SKUs in bulk via [Full Cleanup](/en/docs/tutorials/database-maintenance-full-cleanup).
+> ❗ You can deactivate a product after creating it, but you can't delete a single product. The platform only allows deleting products and SKUs in bulk via [Full Cleanup](/en/docs/tutorials/database-maintenance-full-cleanup).
 
 > ℹ️ If the product you created doesn't show in the storefront, check the article [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website) to learn how to solve the problem.
 
@@ -69,7 +69,7 @@ The [SEO](/en/docs/tutorials/improving-the-seo-of-product-listing-pages) (Search
   > ❗ When filling in the **Product URL**, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages: `a`, `meta`, `api` and `admin`.
 
 * **Page title:** Enter a name that will be displayed both on the product detail page (PDP) and in the browser tab. This field is crucial for SEO. Avoid using more than 60 characters.
-* **Meta description:** Provide a brief description of the category, preferably under 160 characters. This allows search engines to display the description correctly on results pages.
+* **Meta description:** Provide a brief description of the product, preferably under 160 characters. This allows search engines to display the description correctly on results pages.
 
 > ℹ️ As you complete these fields, **Google** will show a preview of the structure to be displayed on the website.
 
@@ -100,8 +100,8 @@ Depending on the product category, the **Category attributes** may be displayed 
 
 The table below shows examples of product specifications for products in different categories:
 
-| **Category** | **Product** | **Specification** | **Value** |
-| :---: | :---: | :---: | :---: |
+| Category | Product | Specification | Value |
+| --- | --- | --- | --- |
 | Clothes | Shirt | Fabric | Cotton |
 | Electronics | Cell phone | Battery duration | 12 hours |
 | Beverages | Wine | Country of origin | Chile |

@@ -187,8 +187,8 @@ On VTEX, it is important to understand the distinction between products and SKUs
 
 You should import products in the order shown in the table below:
 
-| **Action** | **Description** | **Methods** |
-| :--- | :--- | :--- |
+| Action | Description | Methods |
+| --- | --- | --- |
 | [1. Import products](https://developers.vtex.com/docs/guides/products) | Add products to the catalog. | <ul><li>Integration via the [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product).</li><li>Import from spreadsheets [(classic method](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#spreadsheet) and [Google Drive-import app)](https://developers.vtex.com/docs/apps/vtex.google-drive-import@0.x).</li><li>Manual input in the [VTEX Admin](/en/docs/tracks/adding-products).</li></ul> |
 | [2. Import product specifications](https://developers.vtex.com/docs/guides/product-specifications) | Complete the product specifications in the catalog. | <ul><li>Integration via the [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/specification).</li><li>Manual input in the [VTEX Admin](/en/docs/tutorials/adding-specifications-or-product-fields).</li></ul> |
 | [3. Add the products to the sales channel](https://developers.vtex.com/docs/guides/erp-integration-import-products#add-product-to-trade-policy) | Associate products with their respective [sales channels](/en/docs/tutorials/how-trade-policies-work) by defining specific rules (pricing, payments, shipping strategy, etc.) based on the sales channel or audience. Ensure that all products are at least added to the main sales channel. | <ul><li>Integration via the [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/salespolicy/-tradepolicyId-).</li><li>Manual input in the [VTEX Admin when adding a product](/en/docs/tracks/adding-products).</li></ul> |
@@ -297,8 +297,8 @@ Single sign-on is a method that allows users to authenticate on the platform usi
 
 **VTEX ID** is the service that identifies users on the platform. This service operates based on the audience, the business rules, and the type of persona that can interact with each VTEX module. The available audiences are:
 
-| **Audience** | **Context** | **Technology** |
-| :---: | :--- | :--- |
+| Audience | Context | Technology |
+| --- | --- | --- |
 | [VTEX Admin](https://developers.vtex.com/docs/guides/login-integration-guide-admin-saml2) | Identification in the [VTEX Admin](/en/docs/tutorials/vtex-admin-start-here) for store administrators and operators. | SAML 2.0 (Security Assertion Markup Language). |
 | [Webstore](https://developers.vtex.com/docs/guides/login-integration-guide-webstore-oauth2) | Identification in the VTEX storefront, intended for store customers. | OAuth 2.0 (Open Authorization). |
 

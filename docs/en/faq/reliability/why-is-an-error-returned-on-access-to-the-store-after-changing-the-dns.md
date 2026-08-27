@@ -14,7 +14,7 @@ locale: en
 legacySlug: why-is-an-error-returned-on-access-to-the-store-after-changing-the-dns
 ---
 
-The [DNS has been pointed](/en/tutorial/configuring-dns-pointing-to-vtex) and all the store URLs have been configured, but even so you cannot access the store? The problem may be in the __Account management__.
+The [DNS has been pointed to VTEX](/en/tutorial/configuring-dns-pointing-to-vtex) and all the store URLs have been configured, but even so you cannot access the store? The problem may be in the __Account management__.
 
 An essential step for a store to go into production is to configure this status in your account, in the __Account management__.
 

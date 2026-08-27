@@ -17,7 +17,7 @@ announcementSynopsisEN: 'VTEX will provide a new automatic integration with B2W 
 
 Starting November 1st, 2019, VTEX will provide a new automatic integration with B2W Coleta (“Pickup”) - one of the B2W logistics solutions.
 
-Now, you simply have to enable the service with B2W and request items be picked up from your distribution center. No additional VTEX setup is needed, you just have to follow the orders flow in admin.
+Now, you have to enable the service with B2W and request items be picked up from your distribution center. No additional VTEX setup is needed, you just have to follow the orders flow in admin.
 
 ## What changes
  

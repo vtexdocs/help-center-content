@@ -29,7 +29,7 @@ Esta página permite que você realize as seguintes ações:
 A página apresenta as seguintes informações em uma tabela: 
 
 | Colunas | Descrição |
-| :---- | :---- |
+| ---- | ---- |
 | Email | Email do usuário administrativo cadastrado no Admin VTEX. |
 | Perfis de acesso | Perfis de acesso associados ao usuário administrativo. |
 | MFA | Configuração de autenticação multifator (MFA), que pode ter status *Inativo* ou exibir o método configurado (*SMS* ou *Authenticator*). Saiba mais em [Habilitar login por autenticação de 2 fatores](/pt/docs/tutorials/habilitar-login-por-autenticacao-de-2-fatores). |
@@ -41,7 +41,7 @@ A barra de busca permite buscar pelo email dos usuários e exibe resultados em t
 Para gerenciar usuários administrativos, você precisa ter um [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) que contenha os [recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager) a seguir:
 
 | Nome do recurso | Chave do recurso (resource_key) | Descrição |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Edit Admin Users | EditAdminUsers | Permite criar, editar e remover usuários administrativos. |
 | View Admin Users | ViewAdminUsers | Permite visualizar informações de usuários e perfis de acesso. |
 

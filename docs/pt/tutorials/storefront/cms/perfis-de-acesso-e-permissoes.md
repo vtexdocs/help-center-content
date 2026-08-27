@@ -41,7 +41,7 @@ Os perfis de acesso são atribuídos pelo Admin VTEX. Nenhuma configuração é 
 A tabela a seguir mostra quais ações de gerenciamento de branches cada perfil de acesso pode realizar.
 
 | Ação | Content Producer | Content Editor | Content Administrator |
-| :---- | ----- | :---: | :---: |
+| ---- | ----- | --- | --- |
 | Salvar na branch `main` - Publica as alterações no storefront. | ❌ | ✅ | ✅ |
 | Remover da branch `main` - Despublica do storefront. | ❌ | ✅ | ✅ |
 | Fazer merge da branch - Promove uma feature branch para a branch main imediatamente ou em uma data agendada. | ❌ | ✅ | ✅ |
@@ -53,7 +53,7 @@ A tabela a seguir mostra quais ações de gerenciamento de branches cada perfil 
 A tabela a seguir mostra quais ações em nível de entrada cada perfil de acesso pode realizar.
 
 | Ação | Content Producer | Content Editor | Content Administrator |
-| :---- | ----- | :---: | :---: |
+| ---- | ----- | --- | --- |
 | Ver conteúdo - Navega pelas entradas em todas as branches. | ✅ | ✅ | ✅ |
 | Criar e editar entradas - Cria e modifica entradas de conteúdo em feature branches. | ✅ | ✅ | ✅ |
 | Excluir entradas - Exclui permanentemente uma entrada e todas as suas versões. Essa ação é irreversível. | ❌ | ❌ | ✅ |
@@ -63,7 +63,7 @@ A tabela a seguir mostra quais ações em nível de entrada cada perfil de acess
 A tabela a seguir mostra quais ações de configuração de loja cada perfil de acesso pode realizar.
 
 | Ação | Content Producer | Content Editor | Content Administrator |
-| :---- | :---- | :---: | :---: |
+| ---- | ---- | --- | --- |
 | Criar e configurar lojas - Configure lojas e gerencie configurações relacionadas, incluindo storefront, idiomas e configurações regionais. | ❌ | ❌ | ✅ |
 
 ## Casos de uso

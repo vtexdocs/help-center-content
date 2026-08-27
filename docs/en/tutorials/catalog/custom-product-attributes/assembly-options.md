@@ -23,7 +23,7 @@ In the example below, a store offers multiple assembly options for the Custom Be
 
 ![assembly-option-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/custom-product-attributes/assembly-options_1.png)
 
-You can combine [SKUs](/en/docs/tutorials/what-is-an-sku) to provide assembly options, such as the Bells add-ons Roman or the Bells add-ons 1-3 lines in the example above. If an item is out of stock, it will be shown as unavailable.
+You can combine [SKUs](/en/docs/tutorials/what-is-an-sku) to provide assembly options, such as *Bells add-ons Roman* or *Bells add-ons 1-3 lines* in the example above. If an item is out of stock, it will be shown as unavailable.
 
 This article will explain how to start using Assembly Options in your store.
 

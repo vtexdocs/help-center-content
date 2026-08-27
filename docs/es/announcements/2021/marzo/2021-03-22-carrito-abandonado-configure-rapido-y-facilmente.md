@@ -17,19 +17,19 @@ announcementSynopsisES: 'La nueva aplicación facilita el envío de emails a los
 
 Si un cliente potencial que visita su tienda ya ha añadido productos al carrito y se ha identificado con su _email_, esto es un fuerte indicio de intención de compra. Por lo tanto, la interrupción de este flujo de compra debe tratarse como una oportunidad perdida.
 
-Para recuperar esta venta, es habitual que las operaciones de _ecommerce _automaticen el envío de _emails _al cliente, presentándole el carrito abandonado y la opción de finalizar la compra en un solo clic.
+Para recuperar esta venta, es habitual que las operaciones de _ecommerce_ automaticen el envío de _emails_ al cliente, presentándole el carrito abandonado y la opción de finalizar la compra en un solo clic.
 
-Con la nueva aplicación [Carrito abandonado](https://apps.vtex.com/vtexlatam-abandoned-cart-service/p), configurar este tipo de _email _es más fácil y rápido.
+Con la nueva aplicación [Carrito abandonado](https://apps.vtex.com/vtexlatam-abandoned-cart-service/p), configurar este tipo de _email_ es más fácil y rápido.
 
 ## ¿Qué cambió?
 
 Anteriormente, era necesario realizar una serie de configuraciones en diferentes módulos, como Master Data, CMS y Centro de Mensajes.
 
-Después de instalar la aplicación, configure el envío y determine la plantilla del _email _en el Centro de Mensajes. Con esto, los clientes que no completen sus compras recibirán automáticamente un recordatorio de carrito abandonado.
+Después de instalar la aplicación, configure el envío y determine la plantilla del _email_ en el Centro de Mensajes. Con esto, los clientes que no completen sus compras recibirán automáticamente un recordatorio de carrito abandonado.
 
 ## ¿Por qué hicimos este cambio?
 
-La aplicación le permite configurar rápido y fácilmente el envío de _emails _que le ayudarán a recuperar ventas y aumentar su tasa de conversión.
+La aplicación le permite configurar rápido y fácilmente el envío de _emails_ que le ayudarán a recuperar ventas y aumentar su tasa de conversión.
 
 ## ¿Qué se necesita hacer?
 

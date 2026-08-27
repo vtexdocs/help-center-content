@@ -32,7 +32,7 @@ Actualmente existen dos versiones disponibles y puedes elegir la que mejor se ad
 Consulta la tabla a continuación para saber más sobre las funcionalidades de cada versión.
 
 | Funcionalidad | v1 | v2 | Más información |
-| :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | Interfaz gráfica | ✅ Sí | ❌ No | - |
 | API | ✅ Sí | ✅ Sí | - [Master Data API v1](https://developers.vtex.com/docs/api-reference/masterdata-api)<br>- [Master Data API v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2#overview) |
 | Importación y exportación de hojas de cálculo | ✅ Sí | ❌ No | - [Importar datos en Master Data v1](https://help.vtex.com/es/docs/tutorials/importar-datos-en-master-data-v1)<br>- [Exportación de datos de Master Data v1](https://help.vtex.com/es/docs/tutorials/exportacion-de-datos) |
@@ -123,8 +123,8 @@ VTEX crea automáticamente algunas entidades de datos para admitir funcionalidad
 
 ### Entidades nativas de Master Data v1
 
-| **Entidad** | **Descripción** |
-| :--- | :--- |
+| Entidad | Descripción |
+| --- | --- |
 | `ad` | Customer addresses |
 | `AS` | Availability Notifier (most likely source) |
 | `au` | Audit log |
@@ -151,8 +151,8 @@ VTEX crea automáticamente algunas entidades de datos para admitir funcionalidad
 
 ### Entidades nativas de Master Data v2
 
-| **Entidad** | **Descripción** |
-| :--- | :--- |
+| Entidad | Descripción |
+| --- | --- |
 | `account` | Digital Currency |
 | `affiliates` | Affiliates |
 | `affiliatesOrders` | Affiliates Commission Service |
@@ -295,7 +295,7 @@ Tanto la medición como la facturación siguen un ciclo mensual:
 - Al final de cada mes, se genera un snapshot del volumen de documentos almacenados en entidades no nativas.
 - Hasta el día 30 de cada mes, VTEX calcula los valores correspondientes al uso de Master Data y los créditos aplicables para la próxima factura.
 
-> ⚠️ Eliminar una entidad de datos a través de la interfaz de Master Data v1 no elimina los documentos (registros) ya almacenados. El volumen facturado permanece sin cambios hasta que los registros se eliminen mediante la API. Para eliminar documentos y reducir la facturación, consulta la guía [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) en el portal de desarrolladores.
+> ⚠️ Eliminar una entidad de datos a través de la interfaz de Master Data v1 **no** elimina los documentos (registros) ya almacenados. El volumen facturado permanece sin cambios hasta que los registros se eliminen mediante la API. Para eliminar documentos y reducir la facturación, consulta la guía [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) en el portal de desarrolladores.
 
 > ℹ️ Para hacer seguimiento del volumen de documentos en entidades personalizadas a lo largo del mes, consulta el dashboard **Uso de Master Data** en el Admin VTEX. Este dashboard se actualiza semanalmente y está destinado únicamente al seguimiento del uso. Las instrucciones de acceso están disponibles en Consultar el uso de Master Data en el Admin VTEX.
 

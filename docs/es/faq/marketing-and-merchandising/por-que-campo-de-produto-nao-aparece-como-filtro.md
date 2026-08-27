@@ -14,7 +14,7 @@ locale: es
 legacySlug: por-que-campo-de-produto-nao-aparece-como-filtro
 ---
 
-En categoría, existe la posibilidad de registrar campo de producto &#8211; o especificación de producto. En él, es posible marcar dos opciones de filtro: **Link no Menu Superior **y **Link no Menu Lateral. ** Esos links formarán los filtros en los menús principal o lateral. Pero, para que eso ocurra es necesario que el campo creado esté en los siguientes tipos:
+En categoría, existe la posibilidad de registrar campo de producto &#8211; o especificación de producto. En él, es posible marcar dos opciones de filtro: **Link no Menu Superior **y **Link no Menu Lateral.** Esos links formarán los filtros en los menús principal o lateral. Pero, para que eso ocurra es necesario que el campo creado esté en los siguientes tipos:
 
 - **Combo**
 - **Radio**

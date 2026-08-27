@@ -53,7 +53,7 @@ En la pestaña **General** puedes ver y editar la identificación básica de la 
 Para editar el nombre de la tienda haz clic en `Editar`. Puedes ver los siguientes campos:
 
 | Campo | Explicación |
-| :---- | :---- |
+| ---- | ---- |
 | **Nombre** | Nombre de la tienda mostrado en el CMS. |
 | **Storefront** | Implementación de storefront conectada al CMS, como FastStore o una implementación headless personalizada. |
 | **URL** | URL del storefront conectado a la tienda. |
@@ -72,6 +72,6 @@ La pestaña Configuración de compilación define cómo el CMS interactúa con e
 En esta pestaña se muestran los siguientes campos:
 
 | Nombre del campo | Descripción | Ejemplo del valor |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | **Repositorio de la tienda** | La URL del repositorio donde está alojado el código frontend de la tienda. Este repositorio se usa para identificar el proyecto de storefront relacionado con esta tienda. |  |
 | **Vista previa** | URL de webhook que proporciona la vista previa de las páginas en el CMS. | `https://{accountName}.vtex.app/api/preview` |

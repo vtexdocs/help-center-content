@@ -27,7 +27,7 @@ Alguns erros podem ocorrer durante a instalação de [certificados SSL customiza
 Para identificar o significado e verificar a ação corretiva específica para cada mensagem de erro, consulte a tabela abaixo:
 
 | Tipo de erro | Significado | Ação requerida |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | *Esse host não está incluído no certificado* | Você selecionou pelo menos um host que não corresponde aos hosts apresentados nos `AltNames` do certificado.| <ul><li>Remover o host destacado em vermelho para deixar de selecionar o host não mencionado no certificado.</li><li>Revisar o conteúdo dos `AltNames` do certificado utilizando uma ferramenta como o [Certificate Decoder](https://www.sslshopper.com/certificate-decoder.html) e, se necessário, obter outro certificado que inclua os hosts desejados.</li></ul> |
 | *Formato inválido*  | O certificado enviado tem formato inválido.   | Revisar o arquivo do certificado e garantir que seja um arquivo .CRT. |
 | *Esses hosts não existem mais* | Pelo menos um dos hosts enviados foi excluído da conta antes do certificado ser instalado. Isso pode acontecer, por exemplo, quando outro usuário do Admin apagar o host durante a configuração. Os hosts descritos aparecem destacados em vermelho. | Ao atualizar a página e preencher novamente o formulário, os hosts excluídos não estarão mais entre as opções possíveis. �? possível reconfigurar os hosts excluídos antes de instalar o certificado ou não selecionar os hosts excluídos. |

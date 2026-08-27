@@ -1,5 +1,5 @@
 ---
-title: 'Why is my order with available stock failing in Orders module?'
+title: 'Why is my order with available stock failing in the Orders module?'
 id: 2FZHMJFo8oyWW46gYSqqOc
 status: PUBLISHED
 createdAt: 2018-03-07T14:26:47.000Z
@@ -16,8 +16,8 @@ legacySlug: why-is-my-order-with-available-stock-failing-in-oms
 
 When the payment of an order takes many days to be approved, some reservations expire, causing possible errors in the [orders flow](/en/docs/tutorials/order-flow-and-status) in the **Orders** module, such as products with unavailable stock.
 
-The reserved status has an expiration period. If payment is not confirmed until this date, the SKU is released for other customers, avoiding unnecessary reservation of items.
+The reserved status has an expiration period. If payment is not confirmed by this date, the SKU is released for other customers, avoiding unnecessary reservation of items.
 
-In that particular case, since your stock was down and you did not have SKUs for both orders, one of them could not be delivered, causing the error in the order's workflow. It's as if the sale that happened in the middle of the reservation process took its inventory of surprise.
+In that particular case, since your stock was down and you did not have SKUs for both orders, one of them could not be delivered, causing the error in the order's workflow. It's as if the sale that happened in the middle of the reservation process took its inventory by surprise.
 
-The solution here is to add stock to this SKU, or to cancel the order, since your reservation has fallen, your SKU has been directed to another order and there was no actual available stock.
+The solution here is to add stock to this SKU, or to cancel the order, since your reservation has expired, your SKU has been directed to another order and there was no actual available stock.

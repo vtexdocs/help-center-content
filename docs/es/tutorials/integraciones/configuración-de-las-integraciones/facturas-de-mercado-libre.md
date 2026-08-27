@@ -21,8 +21,8 @@ Para consultar la página, debes acceder al Admin VTEX, en __*Marketplace > Merc
 
 En la tabla a continuación se describen los campos presentes en la interfaz:  
 
-| __Campo__    | __Descripción__    |
-| :-----------:|:-----------------:|
+| Campo    | Descripción    |
+| -----------|-----------------|
 |Fecha de inicio| Inicio del intervalo de tiempo que se consultará. La fecha de inicio debe ser anterior a la fecha de fin.|
 |Fecha de fin| Fin del intervalo de tiempo que se consultará.|
 

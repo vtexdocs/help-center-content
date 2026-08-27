@@ -34,7 +34,7 @@ A continuación se describen los datos disponibles en la plantilla.
 ### Pestaña Generadas
 
 | Columna | Descripción |
-| :---- | :---- |
+| ---- | ---- |
 | `id` | Código de identificación de la clave de API. |
 | `keyName` | Clave de API. |
 | `roles` | Roles asociados a la clave de API. |
@@ -47,7 +47,7 @@ A continuación se describen los datos disponibles en la plantilla.
 ### Pestaña Externas
 
 | Columna | Descripción |
-| :---- | :---- |
+| ---- | ---- |
 | `id` | Código de identificación de la clave de API. |
 | `keyName` | Clave de API. |
 | `roles` | Roles asociados a la clave de API. |

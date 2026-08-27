@@ -53,7 +53,7 @@ Sempre que você altera um conteúdo, uma nova versão é criada. Por exemplo, s
 Depois de realizar as alterações, você pode escolher entre as seguintes ações:
 
 | Ação | Descrição |
-| :---- | :---- |
+| ---- | ---- |
 | `Salvar na main` | Salva suas edições atuais diretamente na branch `main`, atualizando a versão publicada desse conteúdo e a vitrine visível aos compradores. |
 | `Salvar na branch` | Salva suas edições como uma nova versão apenas na branch selecionada (por exemplo, `black-friday`), mantendo a branch `main` inalterada. Use isso para trabalhar em rascunhos ou campanhas sem afetar o que está publicado na vitrine. |
 | `Descartar` | Exclui todas as alterações não salvas no formulário e restaura o conteúdo à sua última versão salva no `main` ou em outra branch, sem criar uma nova versão. Esta ação não pode ser desfeita. |
@@ -69,7 +69,7 @@ As versões salvas na branch `main` podem ser visualizadas e restauradas para pu
 Após visualizar, você pode escolher entre as seguintes ações:
 
 | Ação | Descrição |
-| :---- | :---- |
+| ---- | ---- |
 | `Restaurar na main` | Duplica a versão e publica-a na branch `main` como uma nova versão na vitrine. |
 | `Restaurar na branch` | Duplica a versão e a adiciona a um branch de destino para edição adicional, sem impactar a vitrine. |
 | `Fechar` | Fecha a versão anterior e retorna ao branch `main` sem aplicar nenhuma restauração. |
@@ -85,7 +85,7 @@ Branches facilitam a colaboração em equipe, alterações em massa de conteúdo
 ![branches-overview](https://vtexhelp.vtexassets.com/assets/docs/src/branch-overview-pt___b39313c4040dec56574d85d599184d93.png)
 
 | Funcionalidade | Descrição |
-| :---- | :---- |
+| ---- | ---- |
 | **Branches (`+`)** | Lista todos os branches da loja. Use o **`+`** para criar um novo branch. |
 | **Busca** | Encontra conteúdo pelo nome na branch e na loja atuais. |
 | **Filtro por tipo de conteúdo** | Filtra a lista de conteúdo por tipo (por exemplo, `home`, `pdp`, `landingPage`). |
