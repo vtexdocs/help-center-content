@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Organizations data export in B2B Suite",
+                    "es": "Exportación de datos de organizaciones en B2B Suite",
+                    "pt": "Exportação de dados de organizações no B2B Suite"
+                  },
+                  "slug": {
+                    "en": "2026-08-31-organizations-data-export-in-b2b-suite",
+                    "es": "2026-08-31-exportacion-de-datos-de-organizaciones-en-b2b-suite",
+                    "pt": "2026-08-31-exportacao-de-dados-de-organizacoes-no-b2b-suite"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Breaking change: New required permission for the Availability Notify app",
                     "es": "Breaking change: Nuevo permiso obligatorio para la aplicación Availability Notify",
                     "pt": "Breaking change: Nova permissão obrigatória para o app Availability Notify"
@@ -32574,6 +32589,21 @@
                         "en": "configuring-bulk-data-import-for-organizations-and-cost-centers",
                         "es": "configurar-la-importacion-en-masa-de-datos-de-organizaciones-y-centros-custo",
                         "pt": "configurando-a-importacao-em-massa-de-organizacoes-e-centros-de-custo"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Exporting organizations, cost centers, addresses, and users data (B2B Suite)",
+                        "es": "Exportar datos de organizaciones, centros de costo, direcciones y usuarios (B2B Suite)",
+                        "pt": "Exportando dados de organizações (B2B Suite)"
+                      },
+                      "slug": {
+                        "en": "exporting-organizations-data",
+                        "es": "exportar-datos-de-organizaciones",
+                        "pt": "exportando-dados-de-organizacoes"
                       },
                       "origin": "",
                       "type": "markdown",
