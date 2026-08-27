@@ -20,9 +20,9 @@ subcategoryId: 6riYYNZCpO8wyksi8Ksgyq
 This document assists in integrating a non-VTEX-hosted Marketplace with a VTEX-hosted Seller.
 
 The actions required to perform this integration on the Marketplace side can be divided into two blocks:
-- ** A) ** Actions regarding __catalog__ updates (change in catalog, price or SKU inventory);  
+- **A)** Actions regarding __catalog__ updates (change in catalog, price or SKU inventory);  
 
-- ** B) ** Actions regarding the sending and processing of __orders__ (cart simulation, order submission, dispatch authorization, receipt of invoice, carrier tracking and cancellation).
+- **B)** Actions regarding the sending and processing of __orders__ (cart simulation, order submission, dispatch authorization, receipt of invoice, carrier tracking and cancellation).
 
 In this article, you get an overview of the process of integrating both blocks, as well as access to the links with the each action's specific step-by-step.
 

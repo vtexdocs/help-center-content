@@ -18,7 +18,7 @@ order: 5
 O glossário a seguir reúne os principais termos e conceitos relacionados ao Retail Media:
 
 | Termo | Significado |
-| :---- | :---- |
+| ---- | ---- |
 | **Anunciante endêmico** | Marca que promove produtos diretamente relacionados ao portfólio do varejista. Por exemplo: quando uma marca anuncia seus eletrônicos em um ecommerce que já vende esses produtos. |
 | **Anunciante não endêmico** | Marca que anuncia em um varejo mesmo sem vender diretamente seus produtos naquele canal. Por exemplo: quando uma marca de automóveis faz campanhas em um marketplace que não comercializa automóveis. |
 | **ACOS (Advertising Cost of Sales)** | Custo de publicidade em relação à receita gerada. Fórmula: `ACOS = (Gastos com anúncios / Receita gerada) × 100`. Quanto menor o ACOS, mais eficiente a campanha. |

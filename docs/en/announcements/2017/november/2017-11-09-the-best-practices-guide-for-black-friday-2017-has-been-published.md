@@ -19,7 +19,7 @@ As in recent years, VTEX has created a guide on best practices to help our custo
 
 In it we present recommendations for each of the VTEX modules, highlighting the time in advance each of the most important actions should be taken with.
 
-To access the guide, simply enter the address below, replacing `{AccountName}` by the name of your store:
+To access the guide, enter the address below, replacing `{AccountName}` by the name of your store:
 
 `https://{AccountName}.vtexcommercestable.com.br/admin/surveys/en`
 
