@@ -70,14 +70,14 @@ For example, if the product description is changed, the integration will not upd
 ## 2. Inventory
 When a product is sent for the first time, the inventory is sent as well. However, it is discarded by Carrefour, as they only accept inventories for products already cataloged. This policy exists so that the inventory available in the marketplace is always the most up-to-date.
 
-However, when cataloging is complete, Carrefour does not notify VTEX. This means that our integration has no way of knowing when you can send inventories again, becoming dependent on updates made directly to the Inventory & shipping (VTEX module). As soon as Carrefour confirms the cataloging of your products, the marketplace will ask VTEX to send the inventories. But you can force this information to be sent by simply changing any stock in each of your SKUs.
+However, when cataloging is complete, Carrefour does not notify VTEX. This means that our integration has no way of knowing when you can send inventories again, becoming dependent on updates made directly to the Inventory & shipping (VTEX module). As soon as Carrefour confirms the cataloging of your products, the marketplace will ask VTEX to send the inventories. But you can force this information to be sent by changing any stock in each of your SKUs.
 
 Once products receive the first inveentory load, the update is made SKU by SKU whenever the inventory undergoes some change inside VTEX. This update is sent in batches every 6 minutes, which means the integration gathers all the updates from your store during 6 minutes and then sends everything at once. If the inventory update is taking longer than expected, there is probably a lot of information in queue to be updated.
 
 ## 3. Price
 When a product is first sent, the price is sent as well. However, it is discarded by Carrefour, as they only accept prices of products that have already been cataloged. This policy exists so that the price available in the marketplace is always the most up-to-date.
 
-However, Carrefour does not notify VTEX when everything has been approved. This means that our integration has no way of knowing when it's possible to send prices again, becoming dependent on updates made directly into VTEX Prices module. As soon as Carrefour confirms the cataloging of your products, the marketplace will ask VTEX to send the prices. But you can force this information by simply making price changes on each of your SKUs.
+However, Carrefour does not notify VTEX when everything has been approved. This means that our integration has no way of knowing when it's possible to send prices again, becoming dependent on updates made directly into VTEX Prices module. As soon as Carrefour confirms the cataloging of your products, the marketplace will ask VTEX to send the prices. But you can force this information by making price changes on each of your SKUs.
 
 Once products receive the first price load, the upgrade is made SKU by SKU whenever prices undergo any changes inside VTEX. This update is sent in batches every 6 minutes, which means the integration gathers all the updates from your store during 6 minutes and then sends everything at once. If the price update is taking longer than expected, there is probably a lot of information in queue to be updated.
 
@@ -89,7 +89,7 @@ _`Example 1`: A promotion that offers a 10% discount for a certain category._
 
 _`Example 2`: In the sales policy used in Carrefour, an SKU is priced at $ 10 with a fixed price of $ 15. The value that the integration sends to the marketplace is $ 15._
 
-> ⚠️ **Attention:** As the payment method is given in the marketplace, payment rules are also determined by it. Because of this, the integration can not send differentiated prices according to the payment method. <br /> *Ex: If the interest rate for installment payments is configured in VTEX, the price that is sent will still be the one that was returned by the fulfillment simulation.*
+> ⚠️ As the payment method is given in the marketplace, payment rules are also determined by it. Because of this, the integration can not send differentiated prices according to the payment method. <br /> *Ex: If the interest rate for installment payments is configured in VTEX, the price that is sent will still be the one that was returned by the fulfillment simulation.*
 
 ## 4. Benefits
 Unlike a benefit used for your store's website, a marketplace benefit only discounts the value of the product, but without indicating that it is a benefit. That is, the price sent is already modified and there is no benefit tag.

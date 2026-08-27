@@ -29,7 +29,7 @@ La página **Vínculos de SKU** le permite al _marketplace_ seguir y gestionar l
 
 La tabla a continuación contiene la descripción de las columnas de la lista de vínculos de SKU:
 
-| **Columna** | **Descripción** |
+| Columna | Descripción |
 | ---------- | ---------- |
 | SKU | Código numérico que identifica el [SKU](/es/docs/tracks/registrar-sku) del catálogo del marketplace. |
 | Seller | Nombre y ID del [_seller_ registrado](/es/docs/tutorials/agregar-seller) en el marketplace. |

@@ -105,7 +105,7 @@ You can find the desired option using the search bar or by clicking the dropdown
     * Tomorrow
     * Today
     * Late
-* **Invoiced date: **The date on which the order was invoiced:
+* **Invoiced date:** The date on which the order was invoiced:
     * Today
     * Yesterday
     * Last 7 days

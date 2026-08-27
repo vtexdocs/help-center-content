@@ -33,7 +33,7 @@ Na página de mapeamento, existe uma barra de busca que permite buscar a categor
 
 A lista de categorias da sua loja VTEX inclui o status de seu mapeamento por meio dos ícones:  
 
-| **Ícone** | **Status** | **Descrição** |
+| Ícone | Status | Descrição |
 | ---------- | ---------- | ---------- | 
 | <img class="shadow-4" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/integracao-shopee/mapeamento-de-categorias-e-atributos-dos-produtos-para-a-shopee_1.JPG" /> | **Mapeado**| Indica que o mapeamento da categoria foi concluído. | 
 | <img class="shadow-4" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/integracao-shopee/mapeamento-de-categorias-e-atributos-dos-produtos-para-a-shopee_2.JPG" /> | **Mapeamento incompleto** | A categoria está parcialmente mapeada, necessitando preencher seus atributos obrigatórios, indicados por meio de um asterisco, para mapeá-la. | 

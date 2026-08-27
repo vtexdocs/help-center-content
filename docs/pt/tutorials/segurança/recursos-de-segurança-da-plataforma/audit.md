@@ -106,7 +106,7 @@ Para buscar se um produto foi ativado no Catálogo em determinada data:
 1. Selecione a data desejada.
 2. No menu **Aplicação**, selecione _Catálogo (Admin)_.
 3. Adicione um filtro cuja **Ação** deve ser `Product Activation`.
-4. Adicione um filtro cujo **Detalhe do evento **deve ser `product id "X" activated`, onde `X` precisa ser substituído pelo ID do produto buscado.
+4. Adicione um filtro cujo **Detalhe do evento** deve ser `product id "X" activated`, onde `X` precisa ser substituído pelo ID do produto buscado.
 
 #### Alteração de preço
 
@@ -115,7 +115,7 @@ Para buscar se o preço de um SKU foi alterado em determinada data:
 1. Selecione a data desejada.
 2. No menu **Aplicação**, selecione _Preços_.
 3. Adicione um filtro cuja **Ação** deve ser `Put Price`.
-4. Adicione um filtro cujo **Detalhe do evento **deve ser o ID do SKU do item procurado.
+4. Adicione um filtro cujo **Detalhe do evento** deve ser o ID do SKU do item procurado.
 
 > ℹ️  Para identificar se a alteração de preço foi realizada por meio da importação de uma planilha de preços fixos, verifique a coluna **Autor** no resultado da busca. Se o autor for `vtex-service::pricing-wrk::Stable`, isso indica que o preço foi atualizado por uma planilha importada. Caso o autor seja um endereço de email de usuário, a alteração foi feita manualmente. 
 
@@ -126,7 +126,7 @@ Para buscar se um estoque foi deletado em determinada data:
 1. Selecione a data desejada.
 2. No menu **Aplicação**, selecione _Estoque & Entrega_.
 3. Adicione um filtro cuja **Ação** deve ser `Warehouse Delete`.
-4. Adicione um filtro cujo **Detalhe do evento **deve ser o ID do item procurado.
+4. Adicione um filtro cujo **Detalhe do evento** deve ser o ID do item procurado.
 
 #### Exclusão de transportadora
 

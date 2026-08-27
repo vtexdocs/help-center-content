@@ -80,6 +80,6 @@ To place the **Live Shopping** component on your project, follow the steps below
 8. In the **Live Shopping Player** field, paste the event ID you copied.
 9. Click `Save`.
 10. When you're ready to display the player on the storefront, click **Publish > Publish Now**. 
-11. (Optional) If the page version has been published before and the **Overwrite Published Version **window opens, click `Overwrite`.
+11. (Optional) If the page version has been published before and the **Overwrite Published Version** window opens, click `Overwrite`.
 
 After a few moments, the deploy will be completed and the status in the **Versions** section will change to `Published`.

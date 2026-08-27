@@ -48,7 +48,7 @@ Descarga la [Plantilla de mapeo de Dafiti](https://cdn.statically.io/gh/vtexdocs
 
 El modelo de la plantilla de mapeo proporcionado se divide en tres pestañas:
 
-| **Nombre de la pestaña** | **Descripción** | 
+| Nombre de la pestaña | Descripción | 
 | ---------- | ---------- | 
 | **Categories** | Ejecuta la equivalencia entre la categoría en VTEX y la categoría en Dafiti. |
 | **Attributenames** | Ejecuta la equivalencia entre el nombre del campo de la especificación en VTEX y el nombre de la variación/atributo en Dafiti. |
@@ -89,13 +89,13 @@ En este ejemplo, mapearemos una categoría de Vestimenta según cada columna.
 
 Pestaña **Categories**:
 
-| **VTEXCategoryId** | **DafitiCategoryId** | 
+| VTEXCategoryId | DafitiCategoryId | 
 | ---------- | ---------- |
 | 23 | 120 | 
 
 Pestaña **attributenames**:
 
-| **VTEXAttributenames** | **DafitiAttributenames** | **HasValueMapping** |
+| VTEXAttributenames | DafitiAttributenames | HasValueMapping |
 | ---------- | ---------- | ---------- |
 | Color | ColorFamily | Y |
 | Género | Gender | N |
@@ -106,7 +106,7 @@ Pestaña **attributenames**:
 
 Pestaña **attributevalues**:
 
-| **VTEXAttributevalues** | **DafitiAttributevalues** |
+| VTEXAttributevalues | DafitiAttributevalues |
 | ---------- | ---------- | 
 | Amarilla | Amarillo |
 | Roja | Rojo |

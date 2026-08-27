@@ -41,7 +41,7 @@ Ver una versión anterior te permite inspeccionar contenido anterior antes de de
 El formulario de la entrada se actualiza para mostrar el contenido como existía en ese momento. Puedes leer todos los campos y secciones, pero no puedes editar el contenido en esta vista. Después de verlo, puedes elegir una de las siguientes acciones:
 
 | Acción | Descripción |
-| :---- | :---- |
+| ---- | ---- |
 | Restaurar en main | Duplica la versión y la publica en la rama `main` como una nueva versión en el storefront. |
 | Restaurar en rama | Duplica la versión y la agrega a una rama seleccionada para seguir editándola, sin afectar el storefront. |
 | Cerrar | Cierra la versión anterior y vuelve al estado actual sin aplicar ningún cambio. |

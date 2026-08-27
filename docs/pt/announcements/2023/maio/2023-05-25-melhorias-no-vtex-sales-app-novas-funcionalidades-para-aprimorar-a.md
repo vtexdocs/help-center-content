@@ -23,7 +23,7 @@ Com o objetivo de aprimorar a experiência de compra do cliente nas lojas físic
 
 * **HTML na descrição do produto:** permite que a descrição de um produto contenha HTML, proporcionando uma maneira mais flexível e dinâmica de apresentar as informações.
 * **Venda de estoque local:** permite que o vendedor finalize uma compra usando apenas o aplicativo do VTEX Sales App, sem a necessidade de passar pelo checkout. Além disso, o VTEX Sales App possibilita que o vendedor agrupe em uma única transação produtos destinados à entrega em domicílio com outros que podem ser levados imediatamente. Saiba mais no artigo [Habilitar Venda de estoque local do VTEX Sales App](/pt/docs/tutorials/habilitar-venda-de-estoque-local-do-vtex-sales-app).
-* **Sugestões de produtos similares: **apresenta produtos similares na página do produto, oferecendo uma maior variedade de produtos e diversificando a escolha do cliente.
+* **Sugestões de produtos similares:** apresenta produtos similares na página do produto, oferecendo uma maior variedade de produtos e diversificando a escolha do cliente.
 * **Outras ofertas:** exibe na página de produto o melhor preço disponível, seja na loja virtual ou em outras lojas físicas.
 
 ## O que precisa ser feito?

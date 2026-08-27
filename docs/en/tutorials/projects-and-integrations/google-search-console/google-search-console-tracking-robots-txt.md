@@ -24,7 +24,7 @@ Go to: Store Settings > Storefront > Settings > SEO > Robots.txt
 For a better understanding of the content, see below a detailed description of the basic functions:
 
 - **Allow:** by using this word, you will allow the search tool crawler to browse and index the address given.
-- **Disallow: **you will be blocking the content given
+- **Disallow:** you will be blocking the content given
 
 In order to validate the content, you must:
 

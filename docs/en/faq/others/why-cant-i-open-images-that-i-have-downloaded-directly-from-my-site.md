@@ -29,6 +29,6 @@ In Google Chrome, which is compatible, all images (except GIF) will be supplied 
 You can open images in WebP on your computer using compatible programs or installing a codec for WebP.
 
 On the Google page [support for 
-WebP](https://developers.google.com/speed/webp/download), we can find libraries for various purposes, including a [codec for Windows](https://storage.googleapis.com/downloads.webmproject.org/releases/webp/WebpCodecSetup.exe). Installing it is enough to allow you to open them with the Windows image viewer and to see their miniatures in the folder.
+WebP](https://developers.google.com/speed/webp/download), we can find libraries for various purposes, including a [codec for Windows](https://storage.googleapis.com/downloads.webmproject.org/releases/webp/WebpCodecSetup.exe). Installing it is enough to allow you to open them with the Windows image viewer and to see their thumbnails in the folder.
 
 For Photoshop, you can use the plug-in created by [Telegraphics](http://telegraphics.com.au/sw/product/webpformat).

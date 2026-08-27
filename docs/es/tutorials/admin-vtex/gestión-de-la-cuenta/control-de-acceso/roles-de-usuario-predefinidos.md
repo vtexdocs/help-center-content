@@ -358,7 +358,7 @@ Este rol otorga acceso a todos los recursos del License Manager, excepto **Save 
 Tabla de recursos:
 
 | Nombre del recurso | Producto | Categoría | Descripción |
-| :---- | :---- | :---- | :---- |
+| ---- | ---- | ---- | ---- |
 | Payments Notification | PCI Gateway | Payment-NotifyPayments | Notificación de aprobación de pago mediante la API de Payments Gateway. |
 
 ## Seller Manager

@@ -32,7 +32,7 @@ There are currently two available versions, and you can choose the one that best
 Check the table below to learn more about how the features of each version differ.
 
 | Functionality | v1 | v2 | Learn more |
-| :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | Graphical interface | ✅ Yes | ❌ No | - |
 | API | ✅ Yes | ✅ Yes | - [Master Data API v1](https://developers.vtex.com/docs/api-reference/masterdata-api)<br>- [Master Data API v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2#overview) |
 | Spreadsheet import and export | ✅ Yes | ❌ No | - [Importing data to Master Data v1](/docs/tutorials/importing-data-into-master-data-v1)<br>- [Exporting data from Master Data v1](/docs/tutorials/exporting-data) |
@@ -123,8 +123,8 @@ Some data entities are automatically created by VTEX to support native platform 
 
 ### Master Data v1 native entities
 
-| **Entity** | **Description** |
-| :--- | :--- |
+| Entity | Description |
+| --- | --- |
 | `ad` | Customer addresses |
 | `AS` | Availability Notifier (most likely source) |
 | `au` | Audit log |
@@ -151,8 +151,8 @@ Some data entities are automatically created by VTEX to support native platform 
 
 ### Master Data v2 native entities
 
-| **Entity** | **Description** |
-| :--- | :--- |
+| Entity | Description |
+| --- | --- |
 | `account` | Digital Currency |
 | `affiliates` | Affiliates |
 | `affiliatesOrders` | Affiliates Commission Service |
@@ -295,7 +295,7 @@ Measurement and billing follow a monthly cycle:
 - At the end of each month, a snapshot of the number of documents stored in custom entities is generated.
 - By the 30th of each month, VTEX calculates the amounts related to Master Data usage and the applicable credits for the next invoice.
 
-> ⚠️ Deleting a data entity through the Master Data v1 interface does not remove the documents (records) already stored. The billed volume remains unchanged until the records are removed via the API. To delete documents and reduce billing, see the [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) guide on the Developers Portal.
+> ⚠️ Deleting a data entity through the Master Data v1 interface **doesn't** remove the documents (records) already stored. The billed volume remains unchanged until the records are removed via the API. To delete documents and reduce billing, see the [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) guide on the developer portal.
 
 > ℹ️ To track the number of documents in custom entities throughout the month, check the **Master Data usage** dashboard in the VTEX Admin. This dashboard is updated weekly and is intended only for usage tracking. To learn how to access it, see [Checking Master Data usage in the VTEX Admin](/docs/tutorials/checking-master-data-usage-in-the-vtex-admin).
 

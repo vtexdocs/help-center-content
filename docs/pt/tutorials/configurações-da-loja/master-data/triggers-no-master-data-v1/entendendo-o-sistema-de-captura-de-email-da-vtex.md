@@ -21,7 +21,7 @@ Para melhor compreensão, iremos apresentar um cenário (dividido em 3 etapas), 
 
 ### Etapa 1 (Preenchimento de email)
 
-| __Usuário__ | __Plataforma VTEX__ |
+| Usuário | Plataforma VTEX |
 |------------------|------------------|
 | Visita pela primeira vez o site da loja (usuário sem cadastro) e navega a procura do item desejado. | No navegador, o módulo Portal solicita que o RC.JS (request capture javascript) passe as informações adiante. |
 | Adiciona o produto ao carrinho e clica no botão `Fechar Pedido`. | O módulo Checkout envia ao RC.JS, a seguinte mensagem: “Olá, temos uma transação prestes a acontecer. Por favor, passe essa informação adiante”. |
@@ -29,19 +29,19 @@ Para melhor compreensão, iremos apresentar um cenário (dividido em 3 etapas), 
 
 ### Etapa 2 (Preenchimento de dados pessoais)
 
-| __Usuário__ | __Plataforma VTEX__ |
+| Usuário | Plataforma VTEX |
 |------------------|------------------|
 | Preenche as informações pessoais obrigatórias (nome, sobrenome e CPF). | A informação é encaminhada para o Profile System. Neste estágio, o e-mail é capturado apenas pelo Profile System, não pelo RC.JS. |
 
 ### Etapa 3 (Confirmação de envio de dados pessoais)
 
-| __Usuário__ | __Plataforma VTEX__ |
+| Usuário | Plataforma VTEX |
 |------------------|------------------|
 | Clica em `Ir para entrega`. | Checkout solicita que o RC.JS transfira o endereço de e-mail e as informações do carrinho para o Master Data (por meio do Profile System). |
 
 > ⚠️ Para que a função do [carrinho abandonado](/pt/docs/tutorials/acessar-o-carrinho-abandonado-dos-clientes) possa ser utilizada, é necessário que o usuário tenha preenchido as seguintes informações: e-mail, nome, sobrenome e CPF. A falta de um destes dados, impossibilita a utilização do carrinho abandonado.
 
-| __Usuário__ | __Plataforma VTEX__ |
+| Usuário | Plataforma VTEX |
 |------------------|------------------|
 | Preenche as informações de frete e pagamento. | O orderForm do Checkout torna-se um pedido e é transmitido para o OMS da VTEX. As informações completas do usuário (nome, sobrenome, e-mail, carrinho e todas as informações adicionais) são transmitidas para o Master Data. A captura de e-mail pode levar até 46 minutos para ser corretamente refletida no CRM. |
 

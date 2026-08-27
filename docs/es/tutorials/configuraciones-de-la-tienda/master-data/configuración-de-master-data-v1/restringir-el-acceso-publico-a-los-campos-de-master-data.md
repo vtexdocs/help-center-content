@@ -54,4 +54,4 @@ Dependiendo de los datos almacenados, el acceso público sin autenticación pued
 Después de seguir las instrucciones anteriores, es obligatorio disponer de un [rol](/es/docs/tutorials/roles) con los [permisos](/es/docs/tutorials/recursos-del-license-manager) necesarios para acceder a la información:
 
 * Al menos un recurso de la categoría **Generic resources** en el producto **Master Data**: **READONLY_USER_CRM**, **POWER_USER_CRM**, **NOREMOVE_USER_CRM** o **ADMIN_CRM**.
-* Al menos un recurso de la categoría **Dynamic storage generic resources** en el producto **Dynamic Storage**:** READONLY_USER_DS**, **NOREMOVE_USER_DS**, **POWER_USER_DS** o **ADMIN_DS**.
+* Al menos un recurso de la categoría **Dynamic storage generic resources** en el producto **Dynamic Storage**: **READONLY_USER_DS**, **NOREMOVE_USER_DS**, **POWER_USER_DS** o **ADMIN_DS**.

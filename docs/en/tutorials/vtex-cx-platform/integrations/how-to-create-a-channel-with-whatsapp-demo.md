@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-VTEX CX Platform allows you to test the WhatsApp bot quickly and efficiently through our Applications Module! To use this tool, simply follow these steps:
+VTEX CX Platform allows you to test the WhatsApp bot quickly and efficiently through our Applications Module! To use this tool, follow these steps:
 
 1. First, access the organization where the project you want to integrate is located.
 2. Find the project you want to integrate.

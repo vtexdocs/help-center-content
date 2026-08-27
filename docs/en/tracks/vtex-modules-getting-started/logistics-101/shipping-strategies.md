@@ -52,7 +52,7 @@ For cases where a store offers [pickup points](/en/docs/tutorials/pickup-points)
 
 The pickup point is displayed at checkout as a shipping option. The customer can choose between **delivery** and **pickup**.
 
-> ℹ️ The shipping strategy can also be configured via API. You can use the following APIs: <body> <ul> <li>[Loading docks API](https://developers.vtex.com/vtex-rest-api/reference/docks); <li>[Warehouses API](https://developers.vtex.com/vtex-rest-api/reference/createupdatewarehouse); <li>[Shipping policies API](https://developers.vtex.com/vtex-rest-api/reference/get_logistics-pvt-shipping-policies-id); <li>[Pickup points API](https://developers.vtex.com/vtex-rest-api/reference/listallpickupppoints). </ul> </body>
+> ℹ️ The shipping strategy can also be configured via API. You can use the following APIs: <ul> <li>[Loading docks API](https://developers.vtex.com/vtex-rest-api/reference/docks); <li>[Warehouses API](https://developers.vtex.com/vtex-rest-api/reference/createupdatewarehouse); <li>[Shipping policies API](https://developers.vtex.com/vtex-rest-api/reference/get_logistics-pvt-shipping-policies-id); <li>[Pickup points API](https://developers.vtex.com/vtex-rest-api/reference/listallpickupppoints). </ul>
 
 ### Configuration
 

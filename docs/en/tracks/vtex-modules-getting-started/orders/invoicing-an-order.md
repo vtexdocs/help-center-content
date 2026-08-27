@@ -38,7 +38,7 @@ The invoice requires attention to the following points:
 
 When the URL and tracking code are entered, with each delivery status update the customer will receive an email notifying them that the delivery has advanced.
 
-Conversation Tracker - the system that manages emails exchanged with the customer - depends on entering some value in this field. If you do not have a tracking number, simply enter any value to activate the notification system.
+Conversation Tracker - the system that manages emails exchanged with the customer - depends on entering some value in this field. If you do not have a tracking number, enter any value to activate the notification system.
 
 You can also enter the invoice via the[ Orders API](https://developers.vtex.com/vtex-rest-api/reference/invoice).
 

@@ -35,8 +35,8 @@ Una vez activado el botón de alternancia **Iniciar** puedes cerrar la página. 
 
 Una vez que el evento está activado, toda la configuración estará disponible para realizar los ajustes deseados. En la sección **Detalles** puedes consultar la siguiente información:
 
-| **Nombre del campo** | **Descripción** |
-| :---: | :--- |
+| Nombre del campo | Descripción |
+| --- | --- |
 | ID | ID del evento, identificador único del evento. |
 | Nombre del evento | Nombre del evento. |
 | Fuente UTM | [Fuente de parámetro UTM](/es/docs/tutorials/que-son-utm-source-utm-campaign-y-utm-medium) configurada para monitorear datos del evento. |

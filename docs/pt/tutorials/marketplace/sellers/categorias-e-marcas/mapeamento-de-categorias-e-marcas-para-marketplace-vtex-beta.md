@@ -59,7 +59,7 @@ Após mapear o seller, é necessário fazer a correspondência entre as categori
 
 O status do mapeamento de categorias no marketplace VTEX é indicado por ícones na coluna **Situação**, e vai corresponder a um dos seguintes casos:
 
-| **Ícone** | **Status** |
+| Ícone | Status |
 | ---------- | ---------- |
 | <img class="shadow-4" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/sellers/categorias-e-marcas/mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta_1.JPG" /> | **Mapeado:** o mapeamento da categoria foi concluído. | 
 | <img class="shadow-4" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/sellers/categorias-e-marcas/mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta_2.JPG" /> | **Erro no mapeamento:** houve um problema e o mapeamento não foi realizado. | 
@@ -82,7 +82,7 @@ Além de mapear as categorias, é necessário realizar o mapeamento das marcas c
 
 O status do mapeamento de marcas no marketplace VTEX é indicado por ícones na coluna **Situação**, e vai corresponder a um dos seguintes casos:
 
-| **Ícone** | **Status** |
+| Ícone | Status |
 | ---------- | ---------- |
 | <img class="shadow-4" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/sellers/categorias-e-marcas/mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta_4.JPG" /> | **Mapeado:** o mapeamento da categoria foi concluído. | 
 | <img class="shadow-4" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/sellers/categorias-e-marcas/mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta_5.JPG" /> | **Erro no mapeamento:** houve um problema e o mapeamento não foi realizado. | 

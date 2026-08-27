@@ -27,11 +27,11 @@ Puedes acceder a las métricas de ventas de tu tienda que indican el desempeño 
 
 En esa página, tendrás acceso a las siguientes métricas:
 
-- **Valor total de las ventas:** mostrará el valor total de las ventas de la tienda para los periodos seleccionados en el campo **Mostrar ** (azul) y el campo **Comparado con** (gris), indicando el porcentaje de aumento o disminución de las ventas en esta comparación.
-- **Número total de ventas:** mostrará el valor total de las ventas de la tienda para los periodos seleccionados en el campo **Mostrar ** (azul) y el campo **Comparado con** (gris), indicando el porcentaje de aumento o disminución de las ventas en esta comparación.
-- **Total de ítems vendidos:** mostrará el total de ítems vendidos de la tienda para los periodos seleccionados en el campo **Mostrar ** (azul) y el campo **Comparado con** (gris), indicando el porcentaje de aumento o disminución de las ventas en esta comparación.
-- **Ticket promedio:** mostrará el ticket promedio de la tienda para los periodos seleccionados en el campo **Mostrar ** (azul) y el campo **Comparado con** (gris), indicando el porcentaje de aumento o disminución de las ventas en esta comparación.
-- **Promedio de ítems por venta:** mostrará el promedio de ítems por venta de la tienda para los periodos seleccionados en el campo **Mostrar ** (azul) y el campo **Comparado con** (gris), indicando el porcentaje de aumento o disminución de las ventas en esta comparación.
+- **Valor total de las ventas:** mostrará el valor total de las ventas de la tienda para los periodos seleccionados en el campo **Mostrar** (azul) y el campo **Comparado con** (gris), indicando el porcentaje de aumento o disminución de las ventas en esta comparación.
+- **Número total de ventas:** mostrará el valor total de las ventas de la tienda para los periodos seleccionados en el campo **Mostrar** (azul) y el campo **Comparado con** (gris), indicando el porcentaje de aumento o disminución de las ventas en esta comparación.
+- **Total de ítems vendidos:** mostrará el total de ítems vendidos de la tienda para los periodos seleccionados en el campo **Mostrar** (azul) y el campo **Comparado con** (gris), indicando el porcentaje de aumento o disminución de las ventas en esta comparación.
+- **Ticket promedio:** mostrará el ticket promedio de la tienda para los periodos seleccionados en el campo **Mostrar** (azul) y el campo **Comparado con** (gris), indicando el porcentaje de aumento o disminución de las ventas en esta comparación.
+- **Promedio de ítems por venta:** mostrará el promedio de ítems por venta de la tienda para los periodos seleccionados en el campo **Mostrar** (azul) y el campo **Comparado con** (gris), indicando el porcentaje de aumento o disminución de las ventas en esta comparación.
 
 ## Acceder a las métricas de los vendedores
 
@@ -45,9 +45,9 @@ Para acceder a las métricas específicas de un vendedor, sigue los pasos a cont
 
 En esta página tendrás acceso a las siguientes métricas del vendedor seleccionado:
 
-- **Valor total de las ventas:** mostrará el valor total de las ventas del vendedor para los periodos seleccionados en el campo **Mostrar ** (azul) y el campo **Comparado con** (gris), indicando el porcentaje de aumento o disminución de las ventas en esta comparación.
-- **Número total de ventas:** mostrará el valor total de las ventas del vendedor para los periodos seleccionados en el campo **Mostrar ** (azul) y el campo **Comparado con** (gris), indicando el porcentaje de aumento o disminución de las ventas en esta comparación.
-- **Total de ítems vendidos:** mostrará el total de ítems vendidos por el vendedor para los periodos seleccionados en el campo **Mostrar ** (azul) y el campo **Comparado con** (gris), indicando el porcentaje de aumento o disminución de las ventas en esta comparación.
-- **Ticket promedio:** mostrará el ticket promedio del vendedor para los periodos seleccionados en el campo **Mostrar ** (azul) y el campo **Comparado con** (gris), indicando el porcentaje de aumento o disminución de las ventas en esta comparación.
-- **Promedio de ítems por venta:** mostrará el promedio de ítems por venta del vendedor para los periodos seleccionados en el campo **Mostrar ** (azul) y el campo **Comparado con** (gris), indicando el porcentaje de aumento o disminución de las ventas en esta comparación.
+- **Valor total de las ventas:** mostrará el valor total de las ventas del vendedor para los periodos seleccionados en el campo **Mostrar** (azul) y el campo **Comparado con** (gris), indicando el porcentaje de aumento o disminución de las ventas en esta comparación.
+- **Número total de ventas:** mostrará el valor total de las ventas del vendedor para los periodos seleccionados en el campo **Mostrar** (azul) y el campo **Comparado con** (gris), indicando el porcentaje de aumento o disminución de las ventas en esta comparación.
+- **Total de ítems vendidos:** mostrará el total de ítems vendidos por el vendedor para los periodos seleccionados en el campo **Mostrar** (azul) y el campo **Comparado con** (gris), indicando el porcentaje de aumento o disminución de las ventas en esta comparación.
+- **Ticket promedio:** mostrará el ticket promedio del vendedor para los periodos seleccionados en el campo **Mostrar** (azul) y el campo **Comparado con** (gris), indicando el porcentaje de aumento o disminución de las ventas en esta comparación.
+- **Promedio de ítems por venta:** mostrará el promedio de ítems por venta del vendedor para los periodos seleccionados en el campo **Mostrar** (azul) y el campo **Comparado con** (gris), indicando el porcentaje de aumento o disminución de las ventas en esta comparación.
 

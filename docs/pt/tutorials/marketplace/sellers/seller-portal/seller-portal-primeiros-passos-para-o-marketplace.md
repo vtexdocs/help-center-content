@@ -81,7 +81,7 @@ Uma vez que o seller aceite o convite do marketplace e finalize o registro da su
 
 Além de convidar e ativar sellers pelo Admin VTEX, também é possível que o marketplace realize essas etapas via API Rest. Isso é útil quando o marketplace deseja criar suas próprias soluções ou criar a conta do seller no Seller Portal em nome do seller. A tabela a seguir traz a relação de APIs sobre o assunto:
 
-| **Chamada** | **Descrição** |
+| Chamada | Descrição |
 | ---------- | ---------- |
 | [Invite Seller Lead](https://developers.vtex.com/vtex-rest-api/reference/createsellerlead) | Envia um email ao seller com link único para que ele se conecte ao marketplace. |
 | [List Seller Leads](https://developers.vtex.com/vtex-rest-api/reference/listsellerleads) | Lista os sellers convidados pelo marketplace para se conectarem a ele. |
