@@ -38595,6 +38595,21 @@
             },
             {
               "name": {
+                "en": "Builder-hub error when trying to publish an app",
+                "es": "Error de Builder-hub al intentar publicar una aplicación.",
+                "pt": "Erro do Builder-hub ao tentar publicar um aplicativo"
+              },
+              "slug": {
+                "en": "builderhub-error-when-trying-to-publish-an-app",
+                "es": "error-de-builderhub-al-intentar-publicar-una-aplicacion",
+                "pt": "erro-do-builderhub-ao-tentar-publicar-um-aplicativo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "CLI's Windows installer doesn’t have a publisher",
                 "es": "El instalador de CLI para Windows no tiene editor",
                 "pt": "O instalador do Windows da CLI não tem um editor"
