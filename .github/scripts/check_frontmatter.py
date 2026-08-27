@@ -77,8 +77,6 @@ file_errors = {}  # filename -> list of error strings
 filename_regex = re.compile(r'^[a-z0-9\-]+\.(md|mdx)$')
 
 for f in changed_files:
-    if f.status == 'removed':
-        continue
     print(f"- {f.filename}")
     content = repo.get_contents(f.filename, ref=pr.head.ref)
     text = content.decoded_content.decode('utf-8')
