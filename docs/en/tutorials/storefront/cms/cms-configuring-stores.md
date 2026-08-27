@@ -53,7 +53,7 @@ In the **General** tab, you can view and edit the store's basic identification a
 To edit the store name, click `Edit`. You can view the following fields:
 
 | Field | Description |
-| :---- | :---- |
+| ---- | ---- |
 | **Name** | Store name displayed in the CMS. |
 | **Storefront** | Storefront implementation connected to the CMS, such as FastStore or a custom headless implementation. |
 | **URL** | Storefront URL connected to the Store. |
@@ -72,6 +72,6 @@ The Build settings tab defines how CMS interacts with the storefront during prev
 In this tab, you will see the following fields:
 
 | Field name | Description | Value example |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | **Store repository** | The URL of the repository where the store’s frontend code is hosted. This repository is used to identify the storefront project related to this store. |  |
 | **Preview** | Webhook URL that provides the preview for pages in the CMS. | `https://{accountName}.vtex.app/api/preview` |

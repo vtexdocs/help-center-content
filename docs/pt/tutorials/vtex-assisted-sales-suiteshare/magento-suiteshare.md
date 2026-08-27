@@ -25,6 +25,6 @@ Na página seguinte, selecione **Visual** (Design) e então clique em **Cabeç
 
 Desça na página até encontrar o campo **Outros Scripts** e cole o código do VTEX Assisted Sales (SuiteShare) dentro dele. Não se esqueça de salvar as mudanças clicando no botão **Salvar Configurações**.
 
-> ⚠️ Você pode localizar o script do VTEX Assisted Sales (SuiteShare) acessando respectivamente o menu: ** Atrair > Chat > Editar > Instruções de instalação**.
+> ⚠️ Você pode localizar o script do VTEX Assisted Sales (SuiteShare) acessando respectivamente o menu: **Atrair > Chat > Editar > Instruções de instalação**.
 
 À partir de agora, aproveite todos os benefícios do chat no seu site.

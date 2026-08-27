@@ -39,8 +39,8 @@ Se puede acceder a esta funcionalidad a través del menú de navegación del **R
 
 Un release puede tener distintos status desde que se crea hasta que se publica o elimina, por ejemplo. En las páginas [Calendario](/es/docs/tutorials/planner-pagina-calendario-beta) y [Releases](/es/docs/tutorials/planner-pagina-de-releases-beta), el status de cada release se presenta asociado a un color, tal como se muestra en la tabla a continuación:
 
-| **Status** | **Color** | **Definición** |
-|:---:|:---:|:---:|
+| Status | Color | Definición |
+|---|---|---|
 | `Programado` |  | Hay una fecha definida para la publicación del release. |
 | `No programado` | Gris | No hay una fecha definida para la publicación del release. |
 | `En fila` | Verde (intermitente) | La publicación del release está en la etapa de implementación. Por lo tanto, el retailer no necesita hacer nada para que el release pase al siguiente status, el cual puede ser `Publicando` o `Error al publicar`. |

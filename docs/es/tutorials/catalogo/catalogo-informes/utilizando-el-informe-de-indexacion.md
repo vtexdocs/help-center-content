@@ -1,5 +1,5 @@
 ---
-title: 'Utilizar el Informe de Indexación'
+title: 'Entendiendo el Informe de Indexación'
 id: 4ikVpMhwByyS8sysaeOIm4
 status: PUBLISHED
 createdAt: 2017-07-04T13:10:40.431Z

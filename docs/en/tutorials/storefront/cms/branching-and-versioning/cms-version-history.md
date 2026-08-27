@@ -41,7 +41,7 @@ Viewing a previous version allows you to inspect past content before deciding wh
 The entry form updates to display the content as it existed then. You can read all fields and sections, but you can’t edit the content in this view. After viewing, you can choose one of the following actions:
 
 | Action | Description |
-| :---- | :---- |
+| ---- | ---- |
 | Restore to Main | Duplicates the version and publishes it to the main branch as a new version on the storefront. |
 | Restore to Branch  | Duplicates the version and adds it to a selected branch for further editing, without affecting the storefront. |
 | Close  | Closes the previous version and returns to the current state without applying any changes.  |

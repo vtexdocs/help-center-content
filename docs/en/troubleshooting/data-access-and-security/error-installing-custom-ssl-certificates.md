@@ -27,7 +27,7 @@ Some errors may occur during the installation of [custom SSL certificates](/en/d
 To identify the meaning of each error message and its corrective action, see the table below:
 
 | Error type | Meaning | Required action |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | *This host isn't included in the certificate* | You've selected at least one host that doesn't match the hosts listed in the certificate `AltNames`. | <ul><li>Remove the host highlighted in red to avoid selecting one that isn't included in the certificate.</li><li>Review the content of the certificate `AltNames` using a tool such as the [Certificate Decoder](https://www.sslshopper.com/certificate-decoder.html) and, if necessary, obtain another certificate with the desired hosts.</li></ul> |
 | *Invalid format* | The certificate sent has an invalid format. | Review the certificate file and make sure it's in CRT format. |
 | *These hosts no longer exist* | At least one sent host was deleted from the account before the certificate was installed. For example, when another Admin user deletes the host during the setup. These hosts are highlighted in red. | Refresh the page and complete the form again — the excluded hosts will no longer be among the available options. You can reconfigure the excluded hosts before installing the certificate, or leave them unselected. |

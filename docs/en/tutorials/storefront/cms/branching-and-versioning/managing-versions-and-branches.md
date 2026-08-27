@@ -52,7 +52,7 @@ Whenever you modify an Entry, a new version is created. For example, if we make 
 Once you have made the changes, you have the following actions to choose:
 
 | Action | Description |
-| :---- | :---- |
+| ---- | ---- |
 | `Save to main` | Saves your current edits directly to the `main` branch, updating the published version for that entry and updating the storefront visible to Buyers. |
 | `Save to branch` | Saves your edits as a new version only in the selected branch (for example, `black-friday`), keeping the `main` branch unchanged. Use this to work on drafts or campaigns without affecting what’s published to the storefront. |
 | `Discard` | Deletes all unsaved changes in the form and restores the entry to its last saved version in the `main` or other branch, without creating a new version. This action can't be undone. |
@@ -68,7 +68,7 @@ Versions saved to the `main` branch can be viewed and restored to publish conten
 Once viewed, you can choose from the following actions:
 
 | Action | Description |
-| :---- | :---- |
+| ---- | ---- |
 | `Restore to Main` | Duplicates the version and publishes it to the `main` branch as a new version on the storefront.  |
 | `Restore to branch` | Duplicates the version and adds it to a target branch for additional editing, without impacting the storefront.  |
 | `Close` | Closes the past version and returns you to the `main` branch without applying any restore. |
@@ -84,7 +84,7 @@ Branches facilitate team collaboration, bulk content changes across multiple pag
 ![branches-overview](https://vtexhelp.vtexassets.com/assets/docs/src/branch-overview-en___da4df316c071fdf04889c08bc55ebea3.png)
 
 | Feature | Description |
-| :---- | :---- |
+| ---- | ---- |
 | **Branches (`+`)** | Lists all branches for the store. Use the **`+`** to create a new branch. |
 | **Search** | Finds entries by name within the current branch and store. |
 | **Content-type filter** | Filters the entries list by content type (for example, `home`, `pdp`, `landingPage`). |

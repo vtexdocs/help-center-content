@@ -24,7 +24,7 @@ The **External** tab lists the API keys created by your account.
 The page displays the following information in a table:
 
 | Column | Description |
-| :---- | :---- |
+| ---- | ---- |
 | **Key/Owner** | API key, followed by the name of the external account that owns the key. |
 | **Roles** | Roles associated with the external API key. |
 | **Added On** | Date the external API key was added. |

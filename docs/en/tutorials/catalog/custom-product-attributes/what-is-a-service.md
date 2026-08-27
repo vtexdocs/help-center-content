@@ -1,5 +1,5 @@
 ---
-title: 'What is a Service?'
+title: 'Services'
 id: 46Ha8CEEQoC6Y40i6akG0y
 status: PUBLISHED
 createdAt: 2018-02-16T13:35:47.291Z
@@ -16,11 +16,11 @@ subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 order: 1
 ---
 
-A service is an item that may come with a product, optionally and with cost. It is used to assign a value, often emotional, but also of an additional service itself to an SKU. For example, a gift packaging, a distinctive ribbon, a gift card or a product installation.
+A service is an optional, priced item that may come with a product. It is used to assign a value to an SKU—often an emotional value, but also that of an additional service itself. For example, gift packaging, a distinctive ribbon, a gift card, or a product installation.
 
 > ⚠️ It's important to remember that a service is always charged. However, VTEX does not control the stock of a service. This is a responsibility of the marketplace or the seller.
 
-If your purchased product is a Brazilian National Team Shirt, the name of your service might be __Gift Packaging___, and it might be displayed during the order flow on the screen that you choose: product, cart or service.
+If your purchased product is a Brazilian National Team Shirt, the name of your service might be __Gift Packaging__, and it might be displayed during the order flow on the screen that you choose: product, cart or service.
 
 ### Related articles
 - [What is an attachment?](/en/docs/tutorials/what-is-an-attachment)

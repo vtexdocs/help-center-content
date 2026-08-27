@@ -70,7 +70,7 @@ The **Specifications** section may display different fields depending on the pro
 
 > ⚠️ If a SKU has specifications, they must be completed. For more information, see the article [Adding SKU specifications or fields](/en/docs/tutorials/adding-sku-specifications-or-fields).
 
-> ❗ It's not possible to create a SKU with the same values combination​ as another SKU. For example, if the combination of SKU A is color black and size S, it would not be possible to create SKU B with the color black and size S, as this would generate a conflict. However, if the SKU A was black and the SKU B color was blue, even if you kept the size S for both, there would be no conflict as the combinations would differ. It is worth mentioning that you can deactivate but not delete a single SKU.
+> ❗ It's not possible to create a SKU with the same combination of values as another SKU. For example, if the combination of SKU A is color black and size S, it would not be possible to create SKU B with the color black and size S, as this would generate a conflict. However, if SKU A was black and SKU B was blue, even if you kept the size S for both, there would be no conflict as the combinations would differ. It is worth mentioning that you can deactivate but not delete a single SKU.
 
 ## Media
 
@@ -85,8 +85,8 @@ In the **Images** field, clicking `Add` displays two options for uploading photo
 
 The table below shows the size limits and formats accepted for each image:
 
-| **File size and format** | **Description** |
-| :--- | :--- |
+| File size and format | Description |
+| --- | --- |
 | Maximum size in pixels | 5,000 x 5,000 pixels |
 | Minimum size in pixels | 600 x 600 pixels |
 | Maximum size in MB | 4 MB |
@@ -115,7 +115,7 @@ In addition to adding new images to an SKU, you can replicate images from one SK
 
 In the **Videos** field, click `+ Add` to open the **Add SKU media links** window. To add a video, enter its URL and then click `Apply`.
 
-A SKU can have up to 6 videos, and you can only add them using links from either the Vimeo or YouTube platforms**. The accepted formats are:
+A SKU can have up to 6 videos, and you can only add them using links from either the Vimeo or YouTube platforms. The accepted formats are:
 
 **Vimeo**
 
@@ -135,7 +135,7 @@ A SKU can have up to 6 videos, and you can only add them using links from either
 The fields in this section refer to the codes that identify the SKU:
 
 * **Reference code:** Unique reference code created to help merchants with catalog management.
-* **EAN/UPC:** The EAN (European Article Number) and the UPC (Universal Product Code) are in ternational identification codes corresponding to an item's barcode. Each SKU can be associated with only one of these codes, and they can be differentiated by the number of alphanumeric characters: 13 for the EAN and 12 for the UPC.
+* **EAN/UPC:** The EAN (European Article Number) and the UPC (Universal Product Code) are international identification codes corresponding to an item's barcode. Each SKU can be associated with only one of these codes, and they can be differentiated by the number of alphanumeric characters: 13 for the EAN and 12 for the UPC.
 * **Manufacturer code:** Code provided by the manufacturer to identify the SKU. If a SKU has a specific code, this field must be completed.
 
 ## Logistics
@@ -206,12 +206,12 @@ To configure cross-sell and up-sell options, follow the steps below:
 1. In the **Cross-sell and up-sell recommendations** section, click the add icon `+`.
 2. Select an option from the following:
 
-    * **Accessories:** Complimentary items suggested for the main product.
+    * **Accessories:** Complementary items suggested for the main product.
     * **Suggestions:** Product recommendations.
     * **Similar products:** Alternatives to the selected item or products with similar characteristics.
     * **Show together:** Suggestions for buying together.
 
-3. Click `Add SKUs`
+3. Click `Add SKUs`.
 4. Select the SKUs you want to add. You can use the search bar if you wish.
 5. Click `Apply`.
 

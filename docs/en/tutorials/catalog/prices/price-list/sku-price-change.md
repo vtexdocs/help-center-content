@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 4id9W3RDyw02CasOm2C2iy
 ---
 
-The platform offers three possibilities for updating prices, namely: each item manually using the admin by importing a spreadsheet and by integrating with the ERP. You will see in this article how to proceed in each of these manners for changing the mentioned information on the system; but before making changes using any of the options mentioned, it is important to pay close attention to the price change rule.
+The platform offers three possibilities for updating prices: each item manually using the Admin, by importing a spreadsheet, and by integrating with the ERP. You will see in this article how to proceed in each of these manners for changing the mentioned information on the system; but before making changes using any of the options mentioned, it is important to pay close attention to the price change rule.
 
 ## Price change rule
 
@@ -39,7 +39,7 @@ This updating normally occurs where a quick adjustment is needed to the SKU pric
 
 ## Fields of the SKU price change form
 
-These fields represent the information that is changed in any of the three manners mentioned. The difference is that whoever enters data manually, sees this form, when importing a spreadsheet, arranged in columns, while in the case of integration the request structure shows fields in the JSon format.
+These fields represent the information that is changed in any of the three manners mentioned. The difference is that whoever enters data manually, sees this form, when importing a spreadsheet, arranged in columns, while in the case of integration the request structure shows fields in the JSON format.
 
 - **ID:** code of the SKU you accessed.
 - **SKU:** name of the SKU.
@@ -50,7 +50,7 @@ These fields represent the information that is changed in any of the three manne
 - **Valor:** Mandatory field. The selling price of the product is registered here.
 - **Data inicial:** Mandatory field. This registers the start of the price validity period which, when registered or changed via integration with the ERP, and the date is not defined, shows 01/01/1900.
 - **Data final:** Mandatory field. This registers the end date of the price validity period which, when registered or changed via integration with the ERP, and the date is not defined, shows 31/12/4000.
-- **Política Comercial:** Mandatory field, but defaults to the main store’s policy. This field serves to define to what policy the price will be applied If only the price for the main store is registered, all other sales policies registered on the store will look to the same price as the main store. As prices are registered for specific policies, these policies will only consult their own price.
+- **Política Comercial:** Mandatory field, but defaults to the main store’s policy. This field serves to define to what policy the price will be applied. If only the price for the main store is registered, all other sales policies registered on the store will look to the same price as the main store. As prices are registered for specific policies, these policies will only consult their own price.
 - **Seller:** Optional field. Substitutes the price registered on the seller selected, according to the message displayed in the field itself.
 
 ## By importing spreadsheets
@@ -96,5 +96,5 @@ These are the spreadsheet columns that arrive at the user’s e-mail upon export
 
 ## Through integration with ERP
 
-This is usually configured when your store is being set up, and you and your technical team must follow the integration manual to avoid inconsistent integrations or any problem that might adversely affect the information that will be fed into the platform. The price update is performade via API, for information, access [Pricing API](https://developers.vtex.com/docs/api-reference/pricing-api#overview).
+This is usually configured when your store is being set up, and you and your technical team must follow the integration manual to avoid inconsistent integrations or any problem that might adversely affect the information that will be fed into the platform. The price update is performed via API. For more information, see the [Pricing API](https://developers.vtex.com/docs/api-reference/pricing-api#overview).
 

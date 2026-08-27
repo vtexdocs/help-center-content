@@ -46,8 +46,8 @@ La funcionalidad presenta algunas restricciones:
 
 La tabla a continuación presenta las principales ventajas del **Pago con tarjeta vía VTEX Sales App**:
 
-| **Tema** | **Descripción** |
-| :---: | :--- |
+| Tema | Descripción |
+| --- | --- |
 | **Rapidez y practicidad** | La lectura de la tarjeta del cliente y la opción de llenado automático (o manual) agilizan y facilitan la finalización de la compra. |
 | **Experiencia integrada y sin fricciones** | La realización de la compra y la confirmación del pago tienen lugar en **VTEX Sales App**, lo que elimina la necesidad de múltiples entornos para completar la venta y promueve una experiencia continua. |
 | **Compras seguras** | Durante la compra, el cliente sigue el escaneo de la tarjeta y el llenado (automático o manual) de los datos, que permanecen enmascarados y no se almacenan una vez finalizada la compra. |

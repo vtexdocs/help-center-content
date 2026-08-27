@@ -242,7 +242,7 @@ In this section, you can define the item details that will be shown in the mobil
 - **Assign product brands to**: Defines the space (BIN, zone, section, or aisle) where brands will be located.
 - **Assign product categories to**: Defines the space (BIN, zone, section, or aisle) where categories will be located.
 - **Enable dynamic barcodes**: When enabled `<i class="fas fa-toggle-on"></i>`, allows generating EANs based on:
-  | **Price**                                                                                                                     | **Weight**                                                                                                                      |
+  | Price                                                                                                                     | Weight                                                                                                                      |
   | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
   | Format:`Digit-Item-Price-CheckDigit` If the price is $12.90, the digits are converted as `01290`. Example: `20-01234-01290-1` | Format:`Digit-Item-Weight-CheckDigit` If the weight is 200 g, the digits are converted ass `00200`. Example: `20-01234-00200-1` |
 - **Dynamic barcode types**: Defines whether the dynamic barcodes will be based on price, weight, or item quantity. After selecting the barcode type, complete the fields with the numeric values of the code.

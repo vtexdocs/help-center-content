@@ -14,8 +14,8 @@ locale: en
 legacySlug: i-dont-recognize-the-reservation-id-of-an-order
 ---
 
-This might be happening because the orders you are viewing have not yet entered on the Integration tool, responsible for monitoring and writes marketplaces interactions log. This way, the ID numbers you see in your Admin still being those used by the marketplace, not those represented in VTEX standard and recognized by you in your order.
+This might be happening because the orders you are viewing have not yet entered the Integration tool, which is responsible for monitoring and writing marketplace interaction logs. This way, the ID numbers you see in your Admin are still those used by the marketplace, not those represented in the VTEX standard and recognized by you in your order.
 
-When this happens, you may contact the marketplace or wait a bit longer to verify if the order information was updated. If it did not entered the in Integrations tool, it might have been canceled or failed to be created.
+When this happens, you may contact the marketplace or wait a bit longer to verify if the order information was updated. If it did not enter the Integrations tool, it might have been canceled or failed to be created.
 
 If you prefer, check your order reservation information via Logistics API, using the [List reservation by ID](https://developers.vtex.com/docs/api-reference/logistics-api?endpoint=get-/api/logistics/pvt/inventory/reservations/-reservationId-) endpoint.

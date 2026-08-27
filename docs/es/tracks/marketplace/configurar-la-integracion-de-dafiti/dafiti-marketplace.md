@@ -23,7 +23,7 @@ En Dafiti puede vender productos de múltiples categorías, como moda, deportes,
 
 Por medio del conector nativo de VTEX, puede anunciar sus productos en Dafiti de forma sencilla y eficiente, garantizando una mayor visibilidad de sus productos y aumentando sus oportunidades de conversión.
 
-Dafiti opera actualmente en Brasil, Argentina, Chile y Colombia. Sin embargo, **el conector nativo de VTEX solo está disponible para la integración en Brasil y Colombia. **Se debe definir uno de estos países para configurar la integración, así la venta de sus productos se realizará exclusivamente en el país elegido.
+Dafiti opera actualmente en Brasil, Argentina, Chile y Colombia. Sin embargo, **el conector nativo de VTEX solo está disponible para la integración en Brasil y Colombia.** Se debe definir uno de estos países para configurar la integración, así la venta de sus productos se realizará exclusivamente en el país elegido.
 
 Antes de empezar, es necesario que [realice su registro en el portal de Dafiti](https://www.dafiti.com.co/). Cuando finalice esta etapa, puede continuar con la configuración de la integración.
 

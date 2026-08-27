@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3O1NvPgBPqE0qU88MSQaie
 ---
 
-For a better understanding of how to fill the [table of base prices](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29#spreadsheet), read the full description of each field below.
+For a better understanding of how to fill out the [table of base prices](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29#spreadsheet), read the full description of each field below.
 
 - **SKU ID**: The SKU ID is the number that a specific SKU is identified by. Have a look at our article to find out how you can [find a SKU ID](/en/docs/tutorials/finding-a-sku-id)
 
@@ -23,11 +23,11 @@ For a better understanding of how to fill the [table of base prices](/en/tracks/
 
 - **Base Price**: A product's reference sales price.
 
-- **List Price**: The list price functions as a SKU's former price assumed to be on sale. It's also known as the "original price" and can be shown in your store's window display. This field is optional when registering a price.
+- **List Price**: The list price functions as a SKU's former price, shown when the SKU is on sale. It's also known as the "original price" and can be shown in your store's window display. This field is optional when registering a price.
 
 > ❗ When filling out the spreadsheet for the **Cost Price**, **Base Price** and **List Price** fields, the characters must be the `General` type. Using other formats will result in errors when importing the spreadsheet.
 
-> ℹ️ In **Cost Price**, **Base Price** and **List Price**, you can insert decimal values separated by dot. Example: `4.95`.
+> ℹ️ In **Cost Price**, **Base Price** and **List Price**, you can insert decimal values separated by a period. Example: `4.95`.
 
 The next spreadsheet fields are optional, used only to make SKU identification easier. To view these fields in the spreadsheet, you'll need to select the *include metadata in exported tables* export option.
 
@@ -35,7 +35,7 @@ The next spreadsheet fields are optional, used only to make SKU identification e
 
 - **Product ID** (View Only): A product's ID as registered in the catalog.
 
-- **Product Name** (View Only): Product's name to which the SKU is linked. 
+- **Product Name** (View Only): Name of the product to which the SKU is linked. 
 
 - **Ref ID** (View Only): Unique reference code, usually created by a store's internal systems, that facilitates the catalog's product organization. 
 

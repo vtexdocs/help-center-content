@@ -25,7 +25,7 @@ In your VTEX Admin, access **Storefront > Site Editor** and you’ll see the mai
 
 ![Site Editor - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-for-store-framework/site-editor/site-editor-overview_1.png)
 
-| **Tool**    | **Description** |
+| Tool    | Description |
 | ----------  | ----------    |
 | Binding locale | Select the binding locale to which you want to apply content changes. For example, English (en-GB), Portuguese (pt-BR), or Spanish (es-AR). |
 | URL | Navigate between pages on your store.|

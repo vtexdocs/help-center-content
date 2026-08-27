@@ -45,7 +45,7 @@ Ao escolher a inscrição por email, você pode optar por receber notificações
 
 ## Status geral
 
-Nesta seção, você pode visualizar o status geral da plataforma, que pode ser _fully operational _(totalmente operacional), _experiencing issues_ (enfrentando problemas) ou _undergoing maintenance_ (em manutenção).
+Nesta seção, você pode visualizar o status geral da plataforma, que pode ser _fully operational_ (totalmente operacional), _experiencing issues_ (enfrentando problemas) ou _undergoing maintenance_ (em manutenção).
 
 Quando problemas ou manutenção estão afetando algum sistema, o componente impactado é apresentado, assim como uma explicação da ocorrência. Veja exemplos a seguir.
 

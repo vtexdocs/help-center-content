@@ -41,7 +41,7 @@ Los roles se asignan vía Admin VTEX. No se requiere configuración. Los tres ro
 La siguiente tabla muestra las acciones de gestión de ramas que puede realizar cada rol.
 
 | Acción | Content Producer | Content Editor | Content Administrator |
-| :---- | ----- | :---: | :---: |
+| ---- | ----- | --- | --- |
 | Guardar en la rama `main` | Publica las modificaciones en el storefront. | ❌ | ✅ | ✅ |
 | Remover de la rama `main` | Despublica del storefront. | ❌ | ✅ | ✅ |
 | Hacer merge de la rama | Promueve una rama de funcionalidad a la rama Main de inmediato o en una fecha programada. | ❌ | ✅ | ✅ |
@@ -53,7 +53,7 @@ La siguiente tabla muestra las acciones de gestión de ramas que puede realizar 
 La siguiente tabla muestra las acciones de nivel inicial que puede realizar cada rol.
 
 | Acción | Content Producer | Content Editor | Content Administrator |
-| :---- | ----- | :---: | :---: |
+| ---- | ----- | --- | --- |
 | Ver contenido | Explora entradas en todas las ramas. | ✅ | ✅ | ✅ |
 | Crear y editar entradas | Crea y modifica entradas de contenido en ramas de funcionalidad. | ✅ | ✅ | ✅ |
 | Eliminar entradas | Elimina de forma permanente una entrada y todas sus versiones. Esta acción es no se puede deshacer. | ❌ | ❌ | ✅ |
@@ -63,7 +63,7 @@ La siguiente tabla muestra las acciones de nivel inicial que puede realizar cada
 La siguiente tabla muestra qué acciones de configuración de la tienda puede realizar cada rol.
 
 | Acción | Content Producer | Content Editor | Content Administrator |
-| :---- | :---- | :---: | :---: |
+| ---- | ---- | --- | --- |
 | Crear y configurar tiendas | Configura tiendas y gestiona los ajustes relacionados, incluidas las configuraciones del storefront, los idiomas y la configuración regional. | ❌ | ❌ | ✅ |
 
 ## Casos de uso
