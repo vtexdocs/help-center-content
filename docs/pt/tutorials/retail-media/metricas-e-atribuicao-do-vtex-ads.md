@@ -1,12 +1,13 @@
 ---
 title: 'Métricas e atribuição do VTEX Ads'
 createdAt: '2026-07-01T10:00:00.000Z'
-updatedAt: '2026-07-14T10:00:00.000Z'
+updatedAt: '2026-08-21T10:00:00.000Z'
 contentType: tutorial
 productTeam: Others
 slugEN: vtex-ads-metrics-and-attribution
 locale: pt
 ---
+
 O [VTEX Ads](/pt/docs/tracks/retail-media) oferece um conjunto de métricas para ajudar anunciantes, publishers e agências de marketing a medir o desempenho das campanhas e o retorno sobre o investimento em publicidade. As métricas estão disponíveis em todos os dashboards do VTEX Ads como **cards de métricas** no topo de cada tela e como **colunas** nas tabelas correspondentes.
 
 Este artigo descreve as métricas disponíveis e o modelo de atribuição que determina como a plataforma credita conversões aos anúncios.
@@ -164,6 +165,58 @@ As métricas Halo medem o impacto indireto do anúncio em vendas de outros produ
 | **Receita Halo** | Receita de produtos não anunciados comprados no mesmo pedido influenciado pelo anúncio. | -       |
 | **Itens Halo**   | Quantidade de itens Halo vendidos.                                                      | -       |
 
+## Métricas de percentual de impressões
+
+O conjunto de métricas de **percentual de impressões** mostra quanto do volume total de oportunidades de leilão elegíveis o anúncio efetivamente capturou, e quanto foi perdido por classificação ou por orçamento insuficiente. As três métricas compartilham o mesmo denominador e, juntas, somam aproximadamente 100% do total de oportunidades.
+
+O denominador comum, chamado **Total de oportunidades**, corresponde à soma dos leilões elegíveis com orçamento disponível e dos leilões perdidos por falta de orçamento. Esse valor é uma estimativa, projetada a partir do histórico de distribuição de impressões e do tempo em que a campanha ficou inativa por orçamento insuficiente, e não corresponde a uma contagem exata de leilões.
+
+
+| Métrica                                                       | O que mede                                                                                                                                                                    | Fórmula                                                            |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| **Percentual de impressões**                                  | De todo o volume de oportunidades elegíveis, quanto o anúncio efetivamente recebeu de impressões.                                                                             | (Leilões vencidos / Total de oportunidades) × 100                  |
+| **Percentual de impressões perdidas (por classificação)**     | De todo o volume de oportunidades elegíveis, quanto foi perdido porque o anúncio ficou abaixo da concorrência na classificação do leilão.                                    | (Leilões perdidos por classificação / Total de oportunidades) × 100 |
+| **Percentual de impressões perdidas (por orçamento)**         | De todo o volume de oportunidades elegíveis, quanto foi perdido por falta de orçamento disponível para competir. Valor estimado.                                              | (Leilões perdidos por orçamento / Total de oportunidades) × 100    |
+
+
+A **classificação** é a posição do anúncio no ranking do leilão. Ela considera o lance (CPC) e outros fatores de relevância avaliados pelo ad server, e não apenas o valor do lance.
+
+A soma das três métricas corresponde a aproximadamente 100% do Total de oportunidades, permitindo identificar se a limitação de uma campanha vem de classificação, de orçamento ou de ambos.
+
+> ℹ️ Quando não há leilões elegíveis no período ou os dados ainda não foram coletados, as três métricas exibem "-".
+>
+> Um valor de 0% em **Percentual de impressões perdidas (por classificação)** ou em **Percentual de impressões perdidas (por orçamento)** indica que não houve perda daquele tipo no período.
+>
+> Um valor de 0% em **Percentual de impressões** indica que o anúncio não recebeu nenhuma impressão no período.
+
+### Como interpretar as métricas
+
+O percentual de impressões, isolado, mostra o tamanho da oportunidade capturada, mas não a causa da perda. As duas métricas de impressões perdidas indicam qual limitação atuou no período e, portanto, qual ajuste tende a ampliar a participação da campanha.
+
+
+| Métrica                                                   | Como interpretar                                                                                                                                                       | Ação recomendada                                                                                       |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| **Percentual de impressões**                              | Quanto maior, melhor: indica a fatia do inventário disputável que o anúncio de fato capturou. Um valor baixo não revela a causa por si só.                             | Consultar as duas métricas de impressões perdidas para identificar a limitação.                        |
+| **Percentual de impressões perdidas (por classificação)** | Quanto maior, pior: o anúncio disputou o leilão, mas não alcançou classificação suficiente para vencer. Um valor alto e constante ao longo do dia indica pouca competitividade. | Revisar o lance (CPC) da campanha, principal fator de classificação sob controle do anunciante.        |
+| **Percentual de impressões perdidas (por orçamento)**     | Quanto maior, pior: a campanha ficou sem saldo e deixou de disputar leilões em algum momento do período.                                                                | Aumentar o orçamento da campanha ou redistribuir o orçamento diário ao longo do período.               |
+
+
+Por exemplo, uma campanha com **58%** de percentual de impressões, **20%** de impressões perdidas por classificação e **22%** de impressões perdidas por orçamento capturou pouco mais da metade das oportunidades em que poderia ter aparecido. As perdas se dividem quase igualmente entre as duas causas: em 20% das oportunidades o anúncio disputou o leilão e não venceu, e em 22% a campanha não tinha saldo para disputar. Nesse cenário, apenas aumentar o orçamento resolveria cerca de metade da perda.
+
+### Onde encontrar as métricas
+
+As três métricas estão disponíveis como card opcional e como coluna opcional nas seguintes abas:
+
+- **Visão anunciante:** abas **publishers**, **campanhas** e **anúncios**.
+- **Visão publisher:** abas **anunciantes**, **campanhas** e **anúncios**.
+
+Também estão disponíveis nos seguintes relatórios:
+
+- **Relatório de anúncios (anunciante e publisher):** nova coluna.
+- **Relatório gerencial (publisher):** novo card na aba **Custo de oportunidade** e na seção **Campanhas** da aba **Anunciantes**.
+
+> ℹ️ Nos cards e nas colunas, os nomes das métricas aparecem abreviados como **% de impressões ganhas**, **% de imp. perdidas (por classificação)** e **% de imp. perdidas (por orçamento)**.
+
 ## Comportamento em janelas de data mistas
 
 A metodologia de atribuição dos produtos patrocinados (Sponsored Products) mudou em 1º de julho de 2026 e passou a incluir conversões por visualização, além das conversões por clique. Além disso, para todos os formatos, a taxa de conversão passou a usar as **visualizações** no denominador, em vez dos cliques usados anteriormente.
@@ -184,5 +237,6 @@ Para obter resultados consistentes, selecione o período de análise de acordo c
 - As métricas base e de conversão estão disponíveis historicamente, sem restrição de data.
 - O **ROAS por clique** não exibe dados anteriores a 25 de março de 2026.
 - A customização de cards e colunas é persistida entre sessões. Publisher e anunciante têm configurações independentes.
+- Os cards e colunas opcionais das métricas de **percentual de impressões** seguem a mesma persistência de customização entre sessões.
 - Quando não há dados para uma métrica, o campo exibe zero.
 
