@@ -11,8 +11,6 @@ hidden: false
 
 **Insights** é a página do Admin VTEX que apresenta dados sobre o desempenho da sua operação no VTEX Pick and Pack. No Admin VTEX, acesse **Envio > Pick and Pack > Insights**.
 
-> ⚠️ Os indicadores que dependem do status `Entregue` somente são calculados se a sua operação utiliza o [VTEX Pick and Pack Last Mile](https://help.vtex.com/pt/docs/tutorials/vtex-pick-and-pack-last-mile). Sem este módulo habilitado em sua loja, a VTEX não recebe a confirmação de entrega do pedido, e os indicadores **Tempo do ciclo do pedido**, **Tempo de envio**, **Precisão do prazo**, **Entrega no prazo** e **OTIF** são exibidos com erro.
-
 A página está organizada nas abas:
 
 - [Geral](#geral)
@@ -38,6 +36,8 @@ Os tempos de processamento indicam a duração de cada etapa do fulfillment, med
 | **Tempo de envio** | Período necessário para enviar um pedido. | Σ (data em `Entregue` − data em `Preparando envio`) / total de pedidos considerados |
 | **Tempo médio de processamento** | Intervalo entre o início da separação e a conclusão do empacotamento. | Σ (data em `Preparando envio` − data em `Pronto para separação`) / total de pedidos considerados |
 
+> ⚠️ Os indicadores **Tempo do ciclo do pedido** e **Tempo de envio** somente são calculados se a sua operação utiliza o [VTEX Pick and Pack Last Mile](https://help.vtex.com/pt/docs/tutorials/vtex-pick-and-pack-last-mile). Sem este módulo habilitado em sua loja, a VTEX não recebe a confirmação de entrega do pedido, e esses indicadores são exibidos com erro.
+>
 > ℹ️ Nos indicadores de tempo, entram no cálculo apenas os pedidos que passaram por ambos os status considerados. Consulte a descrição de cada status em [Fluxo e status de pedidos](https://help.vtex.com/pt/docs/tutorials/fluxo-e-status-de-pedidos).
 
 ### Indicadores de desempenho
@@ -49,15 +49,17 @@ Os indicadores de desempenho avaliam o resultado dos pedidos processados na oper
 | **Precisão do prazo** | Pedidos entregues dentro do prazo estimado, considerando a data de criação do pedido. | (pedidos entregues no prazo / total de pedidos entregues) x 100 | Entram no cálculo os pedidos criados no período selecionado, mesmo que entregues depois dele. Compara o prazo estimado com a data de entrega registrada no pedido. |
 | **Entrega no prazo** | Pedidos entregues dentro do prazo estimado, considerando a data de entrega. | (pedidos entregues no prazo / total de pedidos entregues) x 100 | Entram no cálculo os pedidos entregues no período selecionado, mesmo que tenham sido criados antes dele. Compara o prazo estimado com o momento exato do evento de entrega. |
 | **OTIF (On-Time in Full)** | Pedidos entregues no prazo e na quantidade corretos. | (pedidos perfeitos / total de pedidos do período) x 100 | O denominador considera todos os pedidos do período, independentemente do status. |
-| **Taxa de precisão** | Pedidos processados com os itens corretos, sem divergências. | (pedidos processados sem substituições ou rejeições / total de pedidos) x 100| - |
+| **Taxa de precisão** | Pedidos processados com os itens corretos, sem divergências. | (pedidos processados sem substituições ou rejeições / total de pedidos) x 100 | - |
 | **Taxa de fulfillment** | Pedidos atendidos com sucesso em relação ao total de pedidos recebidos. | (pedidos entregues sem substituições ou rejeições / total de pedidos) x 100 | - |
 | **Taxa de backorder** | Pedidos não atendidos imediatamente devido à falta de estoque disponível. | (pedidos com itens rejeitados por falta de estoque / total de pedidos) x 100 | Considera os itens rejeitados por falta de estoque, independentemente do status do pedido. |
 | **Taxa de devolução** | Pedidos devolvidos em relação ao total de pedidos processados. | (pedidos devolvidos / total de pedidos) x 100 | - |
 | **Taxa de separação de pedidos** | Volume de itens separados por hora na operação. | total de itens separados / horas decorridas | - |
 | **Taxa de empacotamento** | Volume de itens empacotados por hora na operação. | total de itens empacotados / horas decorridas | - |
 
-> ℹ️ O denominador do OTIF considera todos os pedidos do período, inclusive os que ainda estão em processamento, cancelados ou rejeitados. Por isso, pedidos que ainda não atingiram o status Entregue reduzem o indicador. O [Insights](https://help.vtex.com/pt/docs/tutorials/vtex-pick-and-pack-insights) usa o status do pedido na VTEX, que pode ser atualizado para Entregue por diferentes sistemas e fluxos, como o módulo [Last Mile](https://help.vtex.com/pt/docs/tutorials/vtex-pick-and-pack-last-mile).
-
+> ⚠️ Os indicadores **Precisão do prazo**, **Entrega no prazo** e **OTIF** somente são calculados se a sua operação utiliza o [VTEX Pick and Pack Last Mile](https://help.vtex.com/pt/docs/tutorials/vtex-pick-and-pack-last-mile). Sem este módulo habilitado em sua loja, a VTEX não recebe a confirmação de entrega do pedido, e esses indicadores são exibidos com erro.
+>
+> ℹ️ O denominador do OTIF considera todos os pedidos do período, inclusive os que ainda estão em processamento, cancelados ou rejeitados. Por isso, pedidos que ainda não atingiram o status Entregue reduzem o indicador. O Insights usa o status do pedido na VTEX, que pode ser atualizado para Entregue por diferentes sistemas e fluxos, como o módulo [Last Mile](https://help.vtex.com/pt/docs/tutorials/vtex-pick-and-pack-last-mile).
+>
 > ℹ️ A **Taxa de backorder** considera apenas rejeições cujo motivo contém a palavra "faltante". Para que o indicador reflita a sua operação, configure o motivo de rejeição por falta de estoque utilizando esse termo.
 
 ## Itens
@@ -82,5 +84,3 @@ Os seguintes indicadores estão disponíveis:
 - **Pacotes criados**: total de pacotes criados no período, comparado ao período anterior.
 - **Itens por pacote**: média de itens incluídos por pacote no período, comparada ao período anterior.
 - **Eficiência de empacotamento**: indicador de aproveitamento dos pacotes em relação à capacidade disponível.
-
-
