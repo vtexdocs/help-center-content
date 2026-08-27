@@ -8,28 +8,36 @@ slugEN: content-agent
 locale: en
 ---
 
-The Content agent edits your storefront content from a conversation. Instead of opening each entry and filling in fields manually, you describe the change you want, such as reordering the banners in the home hero or updating a campaign headline, and the agent applies it to the content in the CMS.
+> ℹ️ This feature is in beta, which means that we're working to improve it. If you have any questions, contact [our Support](https://support.vtex.com/hc/pt-br/requests).
 
-The agent works inside the same [branch-based model](https://help.vtex.com/docs/tutorials/managing-versions-and-branches) used by the rest of the CMS. Every edit it makes is saved to a branch as a new version, previewed in the storefront context, and only reaches Buyers when the branch is merged into `main`. This means the agent can't publish anything to the live storefront on its own.
+**Content agent** is an artificial intelligence assistant designed to edit your storefront content from a conversation. Instead of opening each entry and filling in fields manually, you describe the change you want, such as reordering the banners in the home hero or updating a campaign headline, and the agent applies it to the content in the CMS.
+
+The agent works inside the same [branch-based model](https://help.vtex.com/docs/tutorials/managing-versions-and-branches) used by the rest of the CMS. Every edit it makes is saved to a branch as a new version, previewed in the storefront context, and only reaches Buyers when the branch is merged into `main`.
 
 ![content-overview](https://vtexhelp.vtexassets.com/assets/docs/src/content-agent-1___a0cf9a9be4e354bc37e99d25f60502d8.png)
 
-> ⚠️ The Content agent is available for FastStore stores from v3 and above, and Headless Stores. If your store uses FastStore v1 or v2, see [Headless CMS (Legacy)](https://help.vtex.com/docs/tutorials/headless-cms-overview).
+## Before you begin
 
-## Accessing the Content agent
+Before using **Content agent**, make sure that:
 
-To use the Content agent, open the VTEX Admin and go to **Storefront > Content > Content**. The Content page has two tabs:
+* Your store uses FastStore v3 or above, or a Headless Store. If your store uses FastStore v1 or v2, see [Headless CMS (Legacy)](https://help.vtex.com/docs/tutorials/headless-cms-overview).
+* You have the Content Editor or Content Administrator role to merge branches into `main`. For more information, see [Roles and permissions](https://help.vtex.com/docs/tutorials/roles-and-permissions).
+* The account has fewer than 10 active branches, which is the limit per account.
 
-* **Store:** Displays a live preview of your storefront with the agent prompt below it. Use this tab to inspect the storefront and ask for changes.
+## Usage
+
+To interact with the agent and start editing your storefront content, in the VTEX Admin, go to **Content**. The Content page has two tabs:
+
+* **Overview:** Displays a live preview of your storefront with the agent prompt below it. Use this tab to inspect the storefront and ask for changes.
 * **Branches:** Lists all the branches in the account, so you can track and open the work in progress.
 
 The prompt at the bottom of the page is available on both tabs. To talk to the Content agent, select it in the agent selector next to the message field and describe what you want to change.
 
-## Content analytics
+### Overview tab
 
-![content-agent-analytics-tab](https://vtexhelp.vtexassets.com/assets/docs/src/content-agent-2___4c46ad153cd658fb20e431bfff81106b.png)
+![overview-tab](https://vtexhelp.vtexassets.com/assets/docs/src/content-agent-2___4c46ad153cd658fb20e431bfff81106b.png)
 
-At the top of the **Store** tab, a set of indicators summarizes the current state of your content:
+At the top of the **Content** tab, a set of indicators summarizes the current state of your content:
 
 | Indicator | Description |
 | :---- | :---- |
@@ -41,7 +49,9 @@ At the top of the **Store** tab, a set of indicators summarizes the current stat
 
 Below the indicators, the storefront preview shows the content as Buyers see it. You can switch between desktop and mobile views to check how a change behaves on each device.
 
-## Branches tab
+![overview-preview](https://vtexhelp.vtexassets.com/assets/docs/src/overview-preview___12df019e40bc71f7efba09b8331bcd4a.gif)
+
+### Branches tab
 
 ![content-agent-branches-tab](https://vtexhelp.vtexassets.com/assets/docs/src/content-agent-3___6e098ac70dfa6464b38e2b3a2c4a75a2.png)
 
@@ -58,6 +68,17 @@ The **Branches** tab lists every branch in the account with the following inform
 Use the search field to find a branch by name and the **Author** filter to see only the branches created by a specific user. To create a branch, click <i class="fas fa-plus" aria-hidden="true"></i>.
 
 > ℹ️ Each account can have up to 10 active branches. For more details on how branches work, see [Versions and branches](https://help.vtex.com/docs/tutorials/managing-versions-and-branches).
+
+## Capabilities
+
+The **Content agent** can receive text prompts and canvas selections to process editing tasks and respond with content changes applied to a branch, plus an updated preview.
+
+The **Content agent** allows you to:
+
+* Edit content items in a branch from a conversation, with the storefront preview (canvas) updated after each change.
+* Scope a change by selecting an element in the canvas, such as a whole hero carousel or a single banner, so the prompt no longer needs to describe where the change goes.
+* Apply changes to a specific store, branch, and locale, defined in the context below the message field.
+* Review every addition, edit, and removal in the changes drawer, including which user or agent made each change and when.
 
 ## Editing content with the agent
 
@@ -99,11 +120,38 @@ The Content agent doesn't publish content. After reviewing the changes in the br
 
 > ℹ️ Merging into `main` requires the Content Editor or Content Administrator role. For more information, see [Roles and permissions](https://help.vtex.com/docs/tutorials/roles-and-permissions).
 
-## Writing effective prompts
+### Prompt examples
 
-The following practices help the agent produce the result you expect:
+Below are some examples of content edits you can request:
+
+[LISTA A ESCREVER — ver observação abaixo]
+
+## Limitations
+
+* The Content agent doesn't publish content. After reviewing the changes in the branch, publish them by merging the branch into `main`, either immediately or on a scheduled date. For instructions, see [Publishing and scheduling changes](https://help.vtex.com/docs/tutorials/managing-versions-and-branches#publishing-and-scheduling-changes).
+* The agent never writes directly to `main`.
+* Changes apply only to the selected locale.
+* Changes saved to a branch can only be undone by discarding them.
+
+### Beta limitations
+
+**Content agent** is currently in the testing phase. During this period, the feature has the following limitations:
+
+[LISTA A ESCREVER]
+
+## Task examples
+
+### Example 1
+
+[A ESCREVER]
+
+### Example 2
+
+[A ESCREVER]
+
+## Best practices
 
 * **Be specific about the target.** Name the page and the section, or select the element in the canvas before writing the prompt.
 * **Describe one change at a time.** Sequential prompts are easier to review and undo than a single prompt with several unrelated requests.
 * **State the intent, not the implementation.** Describing the outcome you want, such as `make the hero show the summer collection first`, works better than describing field-by-field edits.
-* **Review before merging.** Always open the changes drawer and the preview before publishing to the storefront.
+* **Always confirm the branch before sending a prompt.** Changes are saved as new versions in that branch.
