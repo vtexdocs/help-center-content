@@ -1,7 +1,7 @@
 ---
 title: 'VTEX Pick and Pack: Insights'
 createdAt: 2024-01-05T17:27:08.558Z
-updatedAt: 2024-08-21T00:00:00.000Z
+updatedAt: 2026-08-21T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: vtex-pick-and-pack-insights
