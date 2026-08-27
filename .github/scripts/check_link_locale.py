@@ -124,6 +124,8 @@ file_errors = {}  # filename -> list of (link_display, message)
 slug_to_locale = build_slug_to_locale(load_navigation())
 
 for f in changed_files:
+    if f.status == "removed":
+        continue
     try:
         content = repo.get_contents(f.filename, ref=pr.head.ref)
         text = content.decoded_content.decode("utf-8")
