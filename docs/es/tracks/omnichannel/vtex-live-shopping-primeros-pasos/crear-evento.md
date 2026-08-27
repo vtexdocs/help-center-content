@@ -33,8 +33,8 @@ Después de completar estos pasos, la aplicación creará el evento, que figurar
 
 Un evento puede presentar alguno de los siguientes status:
 
-| **Status** | **Descripción** |
-| :---: | :--- |
+| Status | Descripción |
+| --- | --- |
 | Creado | Indica que creaste el evento con éxito. |
 | Iniciando | Indica que iniciaste el evento y se está comenzando el proceso para iniciar la transmisión en vivo. Esto puede tardar entre tres y cinco minutos. |
 | Activado | El evento está listo para que:<ul><li>Configures todas las funcionalidades.</li><li>Veas las claves para transmitir en vivo desde estudios externos y otras plataformas.</li><li>Incies la transmisión en vivo.</li></ul> |

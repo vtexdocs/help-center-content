@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 4id9W3RDyw02CasOm2C2iy
 ---
 
-Marketplace price updates depend on two factors:
+Marketplace price updates depend on these factors:
 
 - Editing product prices in the [price table](/en/docs/tracks/tabelas-de-preco-definicao-de-conceito) linked to the sales channel used by the marketplace integration.
 - [Product indexing](/en/docs/tutorials/understanding-how-indexation-works) after new prices are added. 

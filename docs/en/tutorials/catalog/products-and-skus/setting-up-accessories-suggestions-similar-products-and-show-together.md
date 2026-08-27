@@ -43,7 +43,7 @@ See below the possible cross-sell and upsell relationships between SKUs:
 
 You configure this at the SKU level in one of the following ways:
 
-- **Via [VTEX Admin](#via-vtex-admin:** Manually when [adding or editing SKUs](https://help.vtex.com/en/docs/tutorials/adding-or-editing-skus), or in bulk, [using a spreadsheet](https://help.vtex.com/en/docs/tutorials/exporting-and-importing-product-and-sku-specifications).
+- **Via [VTEX Admin](#via-the-vtex-admin):** Manually when [adding or editing SKUs](https://help.vtex.com/en/docs/tutorials/adding-or-editing-skus), or in bulk, [using a spreadsheet](https://help.vtex.com/en/docs/tutorials/exporting-and-importing-product-and-sku-specifications).
 - **Via [API Reference](#via-api-reference):** Using the SKU additional information API to create or update relationships, and the public cross-selling endpoints to retrieve these relationships for the storefront.
 
 >ℹ️ The storefront displays this information through CMS Portal (Legacy) controls and templates, such as `productsCrossSelling` and specific placeholders. Learn more about controls for templates in [List of template controls](https://developers.vtex.com/docs/guides/list-of-controls-for-templates).

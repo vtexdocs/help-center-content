@@ -168,7 +168,7 @@ For merchants operating in this scenario, it's important to understand the respo
 
 Below are the responsibilities involved in updating or sending new products and SKUs to external marketplaces:
 
-| **Player** | **Responsibilities** |
+| Player | Responsibilities |
 |---|---|
 | **VTEX** | Send a notification of a new product or SKU created or updated to the affiliate endpoint provided by the hub and added to the VTEX platform. |
 | **Partner connector (integration hub)** | Process the notification and send the updated product or SKU to the marketplace. <br /><br />This process encompasses many steps: checking if this SKU already exists in the marketplace and adding it if necessary, validating if the product is active and associating it with the marketplace's sales channel, running an order simulation to check the SKU's updated price and inventory, etc. |

@@ -90,7 +90,7 @@ Todos os lançamentos criados aparecem listados no Admin VTEX, em **Configuraç�
 
 Na aba `AGENDADOS`, a descrição de cada coluna é a seguinte:
 
-| **Coluna** | **Descrição** |
+| Coluna | Descrição |
 | ---------- | ---------- |
 | Nome | Nome que identifica o lançamento, definido na etapa de criação. Pode ser editado a qualquer hora, desde que o lançamento não esteja publicado. |
 | Última modificação | Tempo transcorrido desde a última alteração relacionada ao lançamento, tais como atualização, acréscimo ou exclusão de conteúdo. |

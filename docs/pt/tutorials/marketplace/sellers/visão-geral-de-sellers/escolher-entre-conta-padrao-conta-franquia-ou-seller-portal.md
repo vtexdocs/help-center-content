@@ -27,7 +27,7 @@ Na VTEX, existem três tipos de conta e cada uma permite atuar com um perfil de 
 
 A tabela a seguir apresenta os principais cenários de uso de cada tipo de conta:
 
-| **Seller Portal** | **Conta padrão** | **Conta franquia** |
+| Seller Portal | Conta padrão | Conta franquia |
 | ---------- | ---------- | ---------- |
 | O [Seller Portal](/pt/docs/tutorials/seller-portal-primeiros-passos) é indicado quando o marketplace VTEX deseja se conectar a um seller externo, ou seja, que não possui conta na VTEX. A funcionalidade permite o [compartilhamento de produtos](/pt/docs/tutorials/seller-portal-produtos-compartilhados) do marketplace VTEX com o seller, diminuindo a fricção e simplificando o gerenciamento da operação. Cada ambiente do Seller Portal criado integra o seller a um único marketplace VTEX. | A conta padrão é indicada para lojas que desejam realizar sua operação de ecommerce de forma completa, utilizando estratégias de [comércio unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv). A conta padrão pode atuar como seller VTEX, marketplace VTEX e se conectar a múltiplos marketplaces e [conectores nativos](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-conector-nativo-vtex). | A [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia) é estratégica para operações que desejam expandir suas vendas com a integração de lojas físicas, com a facilidade de herdar o catálogo de uma conta padrão. A conta franquia é comumente adotada por franqueados e representantes da marca. |
 
@@ -37,7 +37,7 @@ A seguir, há uma série de comparativos de como Seller Portal, conta padrão e 
 
 ## Conta
 
-| **Aspecto** | **Seller Portal** | **Conta padrão** | **Conta franquia** |
+| Aspecto | Seller Portal | Conta padrão | Conta franquia |
 | ---------- | ---------- | ---------- | ---------- |
 | Criar conta | A [criação de uma conta no Seller Portal](/pt/docs/tutorials/seller-portal-primeiros-passos-para-o-marketplace) pode ser feita tanto pelo Admin VTEX, quanto por [API](/pt/docs/tutorials/seller-portal-primeiros-passos-para-o-marketplace#acoes-por-api-rest). Primeiro, o marketplace VTEX solicita acesso ao Seller Portal junto ao seu Customer Success Manager (CSM). Após isso, o marketplace [convida](/pt/docs/tutorials/marketplace-convite-de-sellers) o seller e, depois do convite aceito, [ativa](/pt/docs/tutorials/marketplace-convite-de-sellers) o seller. | A VTEX e o cliente firmam um contrato e, após assinatura e aprovação interna, um novo ambiente é criado para o cliente na plataforma VTEX. | O cliente solicita a [criação da conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia#solicitar-criacao-de-conta-franquia) pelo [suporte](https://supporticket.vtex.com/support). É necessário ter o email do [usuário titular](/pt/docs/tracks/o-que-e-o-usuario-master) (Admin Master). |
 | [Usuário titular](/pt/docs/tracks/o-que-e-o-usuario-master) (Admin Master) | Há somente um usuário titular. Por padrão, o email do usuário titular é aquele que recebe o convite para o Seller Portal, mas esse email pode ser alterado. Somente o usuário titular pode [criar appKeys e appTokens](https://developers.vtex.com/vtex-rest-api/docs/getting-started-authentication). | Há um único usuário titular e, por padrão, ele é designado pelo email da pessoa que assinou o contrato com a VTEX. O usuário titular pode ser alterado e somente ele pode criar appKeys e appTokens. | Há um único usuário titular e, por padrão, ele é o mesmo da conta principal. O usuário titular pode ser alterado e somente ele pode criar appKeys e appTokens. |
@@ -45,7 +45,7 @@ A seguir, há uma série de comparativos de como Seller Portal, conta padrão e 
 
 ## Catálogo
 
-| **Aspecto** | **Seller Portal** | **Conta padrão** | **Conta franquia** |
+| Aspecto | Seller Portal | Conta padrão | Conta franquia |
 | ---------- | ---------- | ---------- | ---------- |
 | Herdar Catálogo | O Seller Portal permite ao marketplace VTEX definir um sortimento de produtos para [compartilhar](/pt/docs/tutorials/seller-portal-produtos-compartilhados) com o seller, que então configura preço e estoque para os produtos. O gerenciamento é feito no Seller Portal pela página **Produtos Compartilhados**. O seller não pode alterar o catálogo do marketplace VTEX e também não pode vender os produtos compartilhados em outros marketplaces. | A conta padrão não herda catálogo, pois é responsável por criar e gerenciar o próprio sortimento de produtos. A conta padrão dispõe de todas as funcionalidades do módulo **Catálogo**. | A conta franquia herda o catálogo da conta principal e não possui o módulo **Catálogo**. Alterações de catálogo precisam ser feitas na conta principal. |
 | Criar produto | O Seller Portal permite que o seller crie seus próprios produtos. Para isso, ele tem que ser [convidado](/pt/docs/tutorials/marketplace-convite-de-sellers) para o Seller Portal como um seller do tipo comum, e não um [seller white label](/pt/docs/tutorials/seller-white-label). Os produtos criados pelo seller precisam ser aprovados e [catalogados](/pt/docs/tutorials/sugerindo-e-aprovando-skus) pelo marketplace VTEX. | A conta padrão pode criar produtos e dispõe de todas as funcionalidades do módulo **Catálogo**. | A conta franquia não pode criar produtos e não dispõe do módulo **Catálogo**. |
@@ -58,7 +58,7 @@ A seguir, há uma série de comparativos de como Seller Portal, conta padrão e 
 
 ## Preço
 
-| **Aspecto** | **Seller Portal** | **Conta padrão** | **Conta franquia** |
+| Aspecto | Seller Portal | Conta padrão | Conta franquia |
 | ---------- | ---------- | ---------- | ---------- |
 | Herdar preço de outra conta | Quando o marketplace VTEX [convida](/pt/docs/tutorials/marketplace-convite-de-sellers) o seller para o Seller Portal escolhendo a opção [Seller White Label](/pt/docs/tutorials/seller-white-label), os produtos do seller herdam os preços do marketplace. No entanto, o seller pode editar os preços. | A conta padrão não herda preços de outra conta, é necessário cadastrá-los no seu próprio ambiente. | A conta franquia pode herdar preços da conta principal. |
 | Marketplace VTEX poder sobrescrever preço do seller | Quando o seller criado via convite for um seller comum, o preço deste pode ser sobrescrito, mas se for Seller white label, o preço não pode ser sobrescrito. | Sim. | Não, o marketplace VTEX pode apenas definir regras comerciais para a conta franquia. |
@@ -66,7 +66,7 @@ A seguir, há uma série de comparativos de como Seller Portal, conta padrão e 
 
 ## Promoções
 
-| **Aspecto** | **Seller Portal** | **Conta padrão** | **Conta franquia** |
+| Aspecto | Seller Portal | Conta padrão | Conta franquia |
 | ---------- | ---------- | ---------- | ---------- |
 | Seller poder criar [promoções](/pt/docs/tracks/como-funcionam-as-promocoes) | O seller cria e configura promoções diretamente no Seller Portal. Para mais detalhes sobre o processo de criação, acesse [Seller Portal: Criar uma promoção](/pt/docs/tutorials/seller-portal-criar-uma-promocao). | Pode criar e configurar promoções, além de realizar simulações de promoções. |
 | Determinar canal para promoção | O seller pode criar promoções. | Sim. | Sim. |
@@ -74,7 +74,7 @@ A seguir, há uma série de comparativos de como Seller Portal, conta padrão e 
 
 ## Pagamentos
 
-| **Aspecto** | **Seller Portal** | **Conta padrão** | **Conta franquia** |
+| Aspecto | Seller Portal | Conta padrão | Conta franquia |
 | ---------- | ---------- | ---------- | ---------- |
 | Refletir todos os meios de [pagamento](/pt/docs/tracks/configurar-um-conector-de-pagamentos) no Marketplace VTEX | Sim. | Sim. | Sim. |
 | Configurar pagamento para que pedidos com produtos de mais de um seller ofereçam somente meios de pagamento comuns aos sellers (Mínimo Múltiplo Comum) | Sim. | Sim. | Sim. |
@@ -86,7 +86,7 @@ A seguir, há uma série de comparativos de como Seller Portal, conta padrão e 
 
 ## Logística
 
-| **Aspecto** | **Seller Portal** | **Conta padrão** | **Conta franquia** |
+| Aspecto | Seller Portal | Conta padrão | Conta franquia |
 | ---------- | ---------- | ---------- | ---------- |
 | Segmentar [estratégias de envio](/pt/docs/tutorials/estrategia-de-envio) para marketplaces diferentes | Não, pois o seller vende em um único marketplace VTEX. | Sim. | Não, somente para a conta principal. |
 | Possuir estoque de segurança nativo da plataforma | Não. | Não. | Não. |
@@ -97,25 +97,25 @@ A seguir, há uma série de comparativos de como Seller Portal, conta padrão e 
 
 ## Master Data
 
-| **Aspecto** | **Seller Portal** | **Conta padrão** | **Conta franquia** |
+| Aspecto | Seller Portal | Conta padrão | Conta franquia |
 | ---------- | ---------- | ---------- | ---------- |
 | Seller poder acessar dados do consumidor ao vender em marketplace VTEX | O seller não tem acesso a dados nem email do consumidor. A troca de informações é entre consumidor e marketplace VTEX. | Quando a conta padrão vende no próprio ambiente, ela funciona tanto como seller quanto como marketplace, e tem acesso a dados do consumidor. O seller VTEX que vende em outro marketplace VTEX não tem acesso a dados do consumidor. | A conta franquia não tem acesso a dados nem email do consumidor. |
 
 ## CMS/IO/Fast Store
 
-| **Aspecto** | **Seller Portal** | **Conta padrão** | **Conta franquia** |
+| Aspecto | Seller Portal | Conta padrão | Conta franquia |
 | ---------- | ---------- | ---------- | ---------- |
 | Poder ter storefront | Não. | Sim. | Não. |
 
 ## Intelligent Search
 
-| **Aspecto** | **Seller Portal** | **Conta padrão** | **Conta franquia** |
+| Aspecto | Seller Portal | Conta padrão | Conta franquia |
 | ---------- | ---------- | ---------- | ---------- |
 | Ordenar busca com [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) no marketplace VTEX para apresentar resultados de 1P (first-party) antes de 3P (third-party) | Não. | Não. | Não. |
 
 ## Seller
 
-| **Aspecto** | **Seller Portal** | **Conta padrão** | **Conta franquia** |
+| Aspecto | Seller Portal | Conta padrão | Conta franquia |
 | ---------- | ---------- | ---------- | ---------- |
 | Conectar seller ao marketplace VTEX | O seller se conecta por meio de um [convite](/pt/docs/tutorials/marketplace-convite-de-sellers) enviado pelo marketplace VTEX. | O seller VTEX se conecta a um marketplace VTEX sendo [adicionado](/pt/docs/tutorials/adicionar-seller) pelo marketplace por meio do **Gerenciamento de Sellers**. | A conta franquia é criada automaticamente como seller da conta principal. |
 | Marketplace VTEX poder alterar cadastro do seller no **Gerenciamento de Sellers** | Sim. | Sim. | Sim. |
@@ -126,13 +126,13 @@ A seguir, há uma série de comparativos de como Seller Portal, conta padrão e 
 
 ## Marketplace
 
-| **Aspecto** | **Seller Portal** | **Conta padrão** | **Conta franquia** |
+| Aspecto | Seller Portal | Conta padrão | Conta franquia |
 | ---------- | ---------- | ---------- | ---------- |
 | Integrar com [marketplace externo](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-marketplace-externo) | Não. | Sim. | Não é possível integrar uma conta franquia a um marketplace externo, mas a conta franquia pode vender em marketplaces externos com a funcionalidade [Multilevel Omnichannel Inventory](/pt/docs/tutorials/multilevel-omnichannel-inventory). |
 | Integrar com múltiplos marketplaces VTEX | Cada ambiente do Seller Portal está conectado a um único marketplace VTEX. | Sim. | A conta franquia vende no marketplace VTEX da conta principal e não pode integrar com outros marketplaces. No entanto, a conta franquia pode vender produtos em marketplaces VTEX com a funcionalidade [Multilevel Omnichannel Inventory](/pt/docs/tutorials/multilevel-omnichannel-inventory). |
 
 ## ERP
 
-| **Aspecto** | **Seller Portal** | **Conta padrão** | **Conta franquia** |
+| Aspecto | Seller Portal | Conta padrão | Conta franquia |
 | ---------- | ---------- | ---------- | ---------- |
 | [Integrar com ERPs de mercado](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) | A integração de um ambiente no Seller Portal com [ERPs](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) só é possível por meio de [APIs](https://developers.vtex.com/vtex-rest-api/reference/marketplace-api-overview) e permite configurar preço, estoque e pedidos. Os produtos precisam ser criados manualmente no Seller Portal ou compartilhados com o marketplace VTEX. | Sim. | Sim. |

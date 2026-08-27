@@ -14,17 +14,17 @@ locale: en
 legacySlug: i-ve-activated-a-product-recurrence-but-it-doesnt-appear-on-the-site
 ---
 
-> ⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to [configure collections through the CMS](/en/docs/tutorials/adding-collections-cms).
+> ⚠️ There are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to [configure collections through the CMS](/en/docs/tutorials/adding-collections-cms).
 
-Whenever you change or create a subscription, you need to reindex your SKUs to make it work properly. In doing so, you will be saving the information that such SKU has an attachment (in this case, subscription) and should be treated differently.
+Whenever you change or create a subscription, you need to reindex your SKUs to make it work properly. In doing so, you will be saving the information that such a SKU has an attachment (in this case, a subscription) and should be treated differently.
 
-To re-index only the subscription SKUs, not your entire base, you can create a collection with the SKUs that are part of the subscription and manually include them so that only these SKUs are reindexed.
+To re-index only the subscription SKUs, not your entire catalog, you can create a collection with the SKUs that are part of the subscription and manually include them so that only these SKUs are reindexed.
 
 For manual inclusion of specific SKUs, follow these step-by-step instructions:
 
 1. In the Admin, enter the __CMS__.
 2. Click the __CMS__ folder.
-3. Then, in __Product Clusters (Collections)__.
+3. Then click __Product Clusters (Collections)__.
 4. Click __New collection__.
 5. Name your Collection (the other fields are not to be filled).
 6. Insert the SKUs in the field and __separate them with commas__.

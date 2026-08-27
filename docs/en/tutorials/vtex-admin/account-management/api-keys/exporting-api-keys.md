@@ -34,7 +34,7 @@ See the information available in the spreadsheet below.
 ### Generated tab
 
 | Column | Description |
-| :---- | :---- |
+| ---- | ---- |
 | `id` | API key identification code. |
 | `keyName` | API key. |
 | `roles` | Roles associated with the API key. |
@@ -47,7 +47,7 @@ See the information available in the spreadsheet below.
 ### External tabs
 
 | Column | Description |
-| :---- | :---- |
+| ---- | ---- |
 | `id` | API key identification code. |
 | `keyName` | API key. |
 | `roles` | Roles associated with the API key. |

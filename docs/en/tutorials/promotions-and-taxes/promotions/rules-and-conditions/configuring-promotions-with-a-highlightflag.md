@@ -100,7 +100,7 @@ This configuration involves editing the page template used for the product page 
 ### Shelves template
 
 1. In the VTEX Admin, go to **Storefront > Layout**, or type **Layout** in the search bar at the top of the page.
-2. Click **CMS > Shelves Templtes**.
+2. Click **CMS > Shelves Templates**.
 
    ![shelves-templates](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/rules-and-conditions/configuring-promotions-with-a-highlightflag_5.png)
 

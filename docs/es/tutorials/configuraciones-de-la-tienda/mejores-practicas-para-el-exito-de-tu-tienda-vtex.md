@@ -86,8 +86,8 @@ En esta sección te presentamos las mejores prácticas para dar seguimiento al s
 
 La plataforma VTEX está en constante evolución, y una excelente forma para que tanto tú como tu equipo se mantengan informados sobre los lanzamientos es consultando nuestros portales de documentación, que se detallan a continuación:
 
-| **Portal de documentación** | **Cómo acceder** |
-| :---: | :---: |
+| Portal de documentación | Cómo acceder |
+| --- | --- |
 | Help Center | Página: [Noticias](/es/announcements) |
 | Developer Portal | Página: [Release Notes](https://developers.vtex.com/updates/release-notes) |
 
@@ -118,8 +118,8 @@ VTEX ofrece una amplia gama de funcionalidades y productos, y es importante cono
 
 Por este motivo, ofrecemos una serie de contenidos de onboarding sobre la plataforma, que puedes consultar a continuación:
 
-| **Formato** | **Cómo acceder** | **Idioma** |
-| :---: | :--- | :--- |
+| Formato | Cómo acceder | Idioma |
+| --- | --- | --- |
 | Documentación | Help Center: [Guía de onboarding](/es/docs/tracks/introduccion-a-vtex) | Español, portugués e inglés. |
 | Videos | Sitio web: [Onboarding VTEX](https://sites.google.com/vtex.com.br/onboardingvtex/trilha) | Solamente disponible en portugués. |
 | Demos e ebooks | Sitio web: [vtex.com](https://vtex.com/co-es/resources) | Cada contenido está disponible en español, inglés o portugués, dependiendo de tu ubicación. |

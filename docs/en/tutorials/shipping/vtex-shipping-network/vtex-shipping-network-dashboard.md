@@ -17,7 +17,7 @@ subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 
 > ⚠️ This feature is not available for new customers.
 
-> ⚠️ Attention: This feature is in Open Beta stage.
+> ⚠️ This feature is in Open Beta stage.
 
 VTEX Shipping Network uses order tracking data directly from carriers, keeping you and your customer up to date on the status of each delivery. **VTEX Shipping Network dashboards** manage the data obtained from VTEX Shipping Network, so that you can extract intelligent information for your logistics management. 
 
@@ -77,7 +77,7 @@ The quarterly performance report is available in the **Performance** tab. To vie
 
 In the carrier performance table, you can monitor the performance of each carrier. The VTEX Shipping Network solution considers that the ideal on-time delivery performance should be higher than 95%.
 
-You can also view orders by their delivery status:** Invoiced**, **In transit** (orders with a tracking number assigned, which have not yet been delivered and are not delayed), **Delayed** (orders with a tracking number assigned, which have not yet been delivered and are delayed) and **Delivered**.
+You can also view orders by their delivery status:**Invoiced**, **In transit** (orders with a tracking number assigned, which have not yet been delivered and are not delayed), **Delayed** (orders with a tracking number assigned, which have not yet been delivered and are delayed) and **Delivered**.
 
 All VTEX Shipping Network carriers have a verified badge. You can see the pink badge on the performance table. Its purpose is to indicate which carriers are VTEX Shipping Network.
 

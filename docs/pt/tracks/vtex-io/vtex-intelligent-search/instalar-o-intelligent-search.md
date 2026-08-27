@@ -27,7 +27,7 @@ Algumas lojas possuem os aplicativos por padrão, enquanto outras precisam segui
 Um [Edition App](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app) é um conjunto predefinido de aplicativos essenciais que facilitam o desenvolvimento de uma loja. A depender do Edition App da sua loja, você pode ter os aplicativos do Intelligent Search por padrão ou precisar instalá-los, conforme a tabela:
 
 | Edition App | Descrição |
-| :---- | :---- |
+| ---- | ---- |
 | `vtex.edition-store@5.x` | O Intelligent Search já está incluído, por isso não é necessário instalar os aplicativos deste guia. Prossiga para [Iniciar integração com o Catálogo](/pt/docs/tracks/iniciar-integracao-com-o-catalogo). |
 | `vtex.edition-store@4.x` | Você precisa instalar os aplicativos de busca manualmente. Siga as instruções para [Instalar os aplicativos de busca](#instalar-os-aplicativos-de-busca). |
 | `vtex.edition-store@3.x` | Você precisa instalar os aplicativos de busca manualmente. Siga as instruções para [Instalar os aplicativos de busca](#instalar-os-aplicativos-de-busca). |

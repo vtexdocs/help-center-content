@@ -1,5 +1,5 @@
 ---
-title: 'How to view the catalog reindex log?'
+title: 'Viewing the catalog reindex log'
 id: 6cND6PhkaIgGsaeEQYyuMA
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:41.135Z
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-You may consult the log of when and who reindexed the base using the Full Clean Up tool, accessible through the following URL:
+You may consult the log of when and who reindexed the database using the Full Clean Up tool, accessible through the following URL:
 
 `https://{AccountName}.vtexcommercestable.com.br/admin/Site/fullcleanup.aspx`
 
@@ -24,11 +24,11 @@ In fact, any action taken on Full Clean Up is recorded on this page.
 ![fullcleanupLog](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/view-reindex-log_1.png)
 
 The log displays the following information for each action:
-- __Data__: date and time of action.
-- __Nome__: email of the user who requested the change (only the Sponsor user is allowed to perform Full Clean Up actions).
-- __Tipo__: shows the type of action taken.
-- __Mensagem__: indicates specifically what action was taken.
+- __Date__: date and time of action.
+- __Name__: email of the user who requested the change (only the Sponsor user is allowed to perform Full Clean Up actions).
+- __Type__: shows the type of action taken.
+- __Message__: indicates specifically what action was taken.
 
 ### Related articles
 
-- [Cleaning store's data base](/en/tutorial/understanding-how-to-maintain-a-database)
+- [Cleaning store's database](/en/tutorial/understanding-how-to-maintain-a-database)

@@ -16,15 +16,15 @@ tags:
 La lista de espera para el nuevo [VTEX CMS](https://help.vtex.com/es/docs/tutorials/cms-informacion-general) ya está abierta. Presenta un sistema de gestión de contenidos moderno y escalable, diseñado para ayudarte a crear, colaborar y gestionar contenidos de storefront de forma más eficiente.
 
 | ![Todo el contenido](https://vtexhelp.vtexassets.com/assets/docs/src/cms-all-content-es___afefaddf271e86e20ddcbfbdd0de5c27.gif) |
-|:---:|
+|---|
 | **Todos los contenidos:** crea, gestiona y publica todas tus páginas del storefront, layouts, plantillas y secciones globales desde un único dashboard. |
 
 | ![Ramas](https://vtexhelp.vtexassets.com/assets/docs/src/cms-ramas-es___6a11da91775038483dc37e4d49455d26.gif) |
-|:---:|
+|---|
 | **Ramas:** realiza cambios de contenido en entornos aislados y publícalos en el storefront en vivo cuando estén listos, sin afectar la tienda en producción. |
 
 | ![Tiendas](https://vtexhelp.vtexassets.com/assets/docs/src/cms-tiendas-es___280c75a48fbd2bf642b2529b43d71dfc.gif) |
-|:---:|
+|---|
 | **Tiendas:** vincula y gestiona múltiples storefronts desde un solo lugar, con URLs de vista previa, integraciones con repositorios y configuración regional por tienda. |
 
 ## ¿Qué cambió?

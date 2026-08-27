@@ -1,5 +1,5 @@
 ---
-title: 'How to set up the price range filter'
+title: 'Setting up the price range filter'
 id: tutorials_240
 status: PUBLISHED
 createdAt: 2017-04-27T22:12:49.904Z
@@ -29,5 +29,4 @@ In Price Ranges, click on “New Price Range” and fill in the fields below:
 - **Price from** – Minimum value of the filter;
 - **Price to** – Maximum value of the filter.
 
-
-_Unlike the registration of specificatios, for instance, the registration of price ranges is exclusive to each category, and does not follow the concept of inheritance. As such, different filters may be defined for a category, irrespective of its level on the category tree._
+> Unlike the registration of specifications, for instance, the registration of price ranges is exclusive to each category, and does not follow the concept of inheritance. As such, different filters may be defined for a category, irrespective of its level on the category tree.

@@ -52,8 +52,8 @@ Após a finalização da exportação, você receberá um email com um link para
 
 A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campos da planilha de importação de especificações de SKUs. Campos obrigatórios estão marcados com um asterisco (*).
 
-| **Campo** | **Descrição** | **Exemplo** |
-| :---: | :--- | :---: |
+| Campo | Descrição | Exemplo |
+| --- | --- | --- |
 | ID SKU* | Código numérico único que identifica o SKU. | 310119261 |
 | Nome SKU | Nome do SKU, ou seja, que identifica a variação do produto. | M |
 | Código de referência SKU | Código único de referência do SKU, criado para auxiliar o lojista na gestão do catálogo. Após ser criado, não é possível editá-lo pela planilha.Este campo é obrigatório, a menos que o campo **EAN/UPC** tenha sido preenchido. | camisa-cor |

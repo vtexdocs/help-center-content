@@ -77,7 +77,7 @@ Por ejemplo: el primer precio fijo es __$ 50.00__ y ​​su programación va de
 
 ### Competencia por el Criterio de Ítems Mínimos en el Carrito 
 
-En el caso de dos precios fijos registrados con intersección en el criterio de __ ítems mínimos en el carrito__, el precio de venta será el precio más bajo.
+En el caso de dos precios fijos registrados con intersección en el criterio de __ítems mínimos en el carrito__, el precio de venta será el precio más bajo.
 
 Imagine que registramos un precio fijo de $ 200.00 para __dos o más ítems en el carrito__ y otro precio fijo de $ 100.00 para __cinco o más ítems__. Podemos ver que existe una competencia de precios, ya que hay una intersección entre las reglas de ítem mínimo en el carrito.
 

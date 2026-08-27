@@ -34,7 +34,7 @@ A seguir, confira as informações disponíveis na planilha.
 ### Aba Geradas
 
 | Coluna | Descrição |
-| :---- | :---- |
+| ---- | ---- |
 | `id` | Código de identificação da chave de API. |
 | `keyName` | Chave de API. |
 | `roles` | Perfis de acesso associados à chave de API. |
@@ -47,7 +47,7 @@ A seguir, confira as informações disponíveis na planilha.
 ### Aba Externas
 
 | Coluna | Descrição |
-| :---- | :---- |
+| ---- | ---- |
 | `id` | Código de identificação da chave de API. |
 | `keyName` | Chave de API. |
 | `roles` | Perfis de acesso associados à chave de API. |
