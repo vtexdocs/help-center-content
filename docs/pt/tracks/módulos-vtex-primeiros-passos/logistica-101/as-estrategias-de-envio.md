@@ -38,7 +38,9 @@ Note que:
 * Envios são todos os despachos de pedidos da loja (entrega ou retirada).
 * Entrega é um tipo de envio em que o cliente recebe os itens comprados no ecommerce no seu endereço.
 
-### Como configurar
+> ℹ️ A VTEX suporta até 10.000 rotas de envio por conta. Uma rota é cada combinação possível entre doca, estoque, política de envio e [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) cadastrados na sua loja, ou seja, o número de rotas é o resultado da multiplicação dessas quatro entidades. Quando esse limite é ultrapassado, a quantidade disponível dos itens pode ser exibida de forma inconsistente na loja. Por isso, ao montar a sua estratégia de envio, evite criar combinações que não serão utilizadas.
+
+## Como configurar
 
 A ordem sugerida de configuração para o funcionamento esperado das [estratégias de envio](/pt/docs/tutorials/estrategia-de-envio) é:
 
@@ -53,8 +55,6 @@ Para os casos em que a loja oferece [pontos de retirada](/pt/docs/tutorials/pont
 O ponto de retirada fica disponível no checkout como uma opção de envio, e o cliente escolhe entre **Entrega** (transportadora) e **Retirada** (ponto de retirada).
 
 > ℹ️ As configurações da Estratégia de envio também podem ser feitas via API. Confira as APIs disponíveis: <ul> <li>[API de docas](https://developers.vtex.com/vtex-rest-api/reference/docks)</li> <li>[API de estoques](https://developers.vtex.com/vtex-rest-api/reference/createupdatewarehouse)</li> <li>[API de políticas de envio](https://developers.vtex.com/vtex-rest-api/reference/get_logistics-pvt-shipping-policies-id)</li> <li>[API de pontos de retirada](https://developers.vtex.com/vtex-rest-api/reference/listallpickupppoints)</li> </ul>
-
-### Como configurar
 
 Para [estratégias de envio](/pt/docs/tutorials/estrategia-de-envio) que utilizam pontos de retirada, a ordem de cadastro sugerida é:
 
@@ -93,4 +93,3 @@ Para cadastrar feriados na plataforma, você pode:
 É possível cadastrar horários de entrega para envios agendados de transportadoras e pontos de retirada. A funcionalidade **[Entrega agendada](/pt/docs/tutorials/entrega-agendada)** permite que a loja ofereça janelas de entrega para seus clientes.
 
 > ℹ️ O envio depende também do [custo de envio](/pt/docs/tutorials/custo-final-do-envio) que a sua loja oferece aos clientes. Esse assunto será abordado nos artigos seguintes. Para mais informações sobre como é feita a escolha das transportadoras para realizar uma entrega, consulte o artigo [Como funciona o cálculo do frete.](/pt/docs/tutorials/como-funciona-o-calculo-de-envio)
-
