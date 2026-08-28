@@ -19,20 +19,20 @@ A promotion is always configured as a discount related to a product, encompassin
 
 ## Percentage discount for an SKU
 
-For this configuration, you must set up a Take More for Less promotion, and select the desired SKU. Follow the instructions below.
+For this configuration, you must set up a More for Less promotion, and select the desired SKU. Follow the instructions below.
 
 1. In the VTEX Admin, go to *Promotions > Promotions*, or type *Promotions* in the search bar at the top of the page.
 2. Click on `Create Promotion`.
 3. Click on **More for Less**.
 4. Fill out the fields according to the documentation on [Creating a More for Less promotion
 ](/en/tutorial/creating-a-more-for-less-promotion--tutorials_325 "Creating a More for Less promotion").
-5. At **SKUs**, fill it out with the SKU to which the promotion will be applied.
-6. At **Every _ product (s)**, fill it out with the value **1**.
-7. At **The client will take _ products**, fill it out with the value **1**.
-8. For the promotion option, select **With a discount of**, and fill it out with the discount amount you wish to grant to the SKU.
+5. In the **SKUs** field, enter the SKU to which the promotion will be applied.
+6. In the **Every _ product (s)** field, enter the value **1**.
+7. In the **The client will take _ products** field, enter the value **1**.
+8. For the promotion option, select **With a discount of**, and enter the discount amount you wish to grant to the SKU.
 9. Click on `Save`.
 
-In this configuration, the SKU will be sold with a percentual discount. This promotion will not be applied in the shelf, only to the product page.
+In this configuration, the SKU will be sold with a percentage discount. This promotion will not be applied on the shelf, only on the product page.
 
 ## Buy One Get One (gift) for an SKU
 
@@ -41,9 +41,9 @@ This configuration is performed for Buy One Get One promotions, where you can se
 1. In the VTEX Admin, go to *Promotions > Promotions*, or type *Promotions* in the search bar at the top of the page.
 2. Click on `Create Promotion`.
 3. Click on **Buy One Get One**.
-4. Fill out the fields according to the documentation on [How the Buy One Get One (BoGo) promotion works](/en/tutorial/como-criar-promocoes) promotion works.
-5. At **What type and value of discount**, select the **Gift** option, and fill it out with the ID of the SKU you want to give as a gift.
-6. At **SKUs**, select the SKU to which the promotion will be applied.
+4. Fill out the fields according to the documentation on [How the Buy One Get One (BoGo) promotion works](/en/tutorial/como-criar-promocoes).
+5. In **What type and value of discount**, select the **Gift** option, and enter the ID of the SKU you want to give as a gift.
+6. In **SKUs**, select the SKU to which the promotion will be applied.
 7. Click on `Save`.
 
 In this promotion, the Gift will appear on the product page.

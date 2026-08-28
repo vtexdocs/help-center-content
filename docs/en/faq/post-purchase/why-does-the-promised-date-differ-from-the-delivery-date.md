@@ -18,9 +18,9 @@ When there is an error associated with the number of days of a [holiday](/en/doc
 
 When registering a holiday, if you fill in the __Start Date__ field correctly, but fill in the __End Date__ field incorrectly, and the holiday ends up being 1 year, 6 months or any undue period, the system understands that there was a registration error and automatically sets a smaller range to deliver the order.
 
-In such case, the order may have the estimated delivery date for the first available business day set by the system.
+In such a case, the order may have the estimated delivery date for the first available business day set by the system.
 
-If you have incoherent deadlines or disagreement between the promised date and delivery date, check out the __Holidays__ feature, as described below:
+If you have incoherent deadlines or a disagreement between the promised date and the delivery date, check out the __Holidays__ feature, as described below:
 
 1. In the VTEX Admin, go to __Store Settings > Shipping > Holidays__, or type __Holidays__ in the search bar at the top of the page.
 2. Check if the `Start Date` and `End Date` fields are filled in correctly.
