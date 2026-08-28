@@ -50,7 +50,7 @@ Para criar uma nova política de envio, siga os passos abaixo:
     * `Aceitar compras fora do horário de funcionamento`: ativa ou inativa o recebimento de compras fora do horário de funcionamento. Quando ativo, o intervalo de tempo do momento do pedido até o início horário, será somado ao tempo total da entrega.
     * Selecione o `Dia da semana`, e preencha `Horário de início` e `Horário de término`.
     * Para adicionar mais dias da semana, clique em `Adicionar janela de envio`.
-  * **Horário de coleta:** é onde você cadastra os horários em que a transportador coleta pacotes em seu estoque ou centro de distribuição, para em seguida enviá-los aos clientes finais. Caso o pedido seja feito antes do início do horário de coleta, nenhum tempo será adicionado ao tempo total da entrega. No entanto, se ele for feito após o horário de coleta, o intervalo de tempo do momento do pedido até o início horário, será somado ao tempo total da entrega.
+  * **Horário de coleta:** é onde você cadastra os horários em que a transportadora coleta pacotes em seu estoque ou centro de distribuição para em seguida enviá-los aos clientes finais. Caso o pedido seja feito antes do início do horário de coleta, nenhum tempo será adicionado ao tempo total da entrega. No entanto, se ele for feito após o horário de coleta, o intervalo de tempo do momento do pedido até o início do horário será somado ao tempo total da entrega.
     * Selecione o `Dia da semana` e preencha o `Horário da coleta`.
     * Para adicionar mais dias da semana, clique em `Adicionar horário de coleta`.
 
