@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Regionalized inventory on Magalu available in open beta",
+                    "es": "Inventario regionalizado en Magalu disponible en beta abierta",
+                    "pt": "Inventário regionalizado no Magalu disponível em open beta"
+                  },
+                  "slug": {
+                    "en": "2026-08-28-regionalized-inventory-available-for-magalu",
+                    "es": "2026-08-28-inventario-regionalizado-disponible-para-magalu",
+                    "pt": "2026-08-28-inventario-regionalizado-disponivel-para-o-magalu"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "New Impression Share metrics in VTEX Ads",
                     "es": "Nuevas métricas de porcentaje de impresiones en VTEX Ads",
                     "pt": "Novas métricas de percentual de impressões no VTEX Ads"
@@ -31167,6 +31182,21 @@
                     "en": "refurbished-products-on-mercado-libre",
                     "es": "productos-reacondicionados-en-mercado-libre",
                     "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Regionalized inventory on Magalu (Beta)",
+                    "es": "Inventario regionalizado en Magalu (Beta)",
+                    "pt": "Inventário regionalizado no Magalu (Beta)"
+                  },
+                  "slug": {
+                    "en": "regionalized-inventory-magalu",
+                    "es": "regionalized-inventory-magalu",
+                    "pt": "regionalized-inventory-magalu"
                   },
                   "origin": "",
                   "type": "markdown",
