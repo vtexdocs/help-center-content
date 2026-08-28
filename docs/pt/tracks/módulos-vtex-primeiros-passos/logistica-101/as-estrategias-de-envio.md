@@ -66,11 +66,11 @@ Para [estratégias de envio](/pt/docs/tutorials/estrategia-de-envio) que utiliza
 6. [Cadastro de geolocalização](/pt/docs/tutorials/gerenciar-geolocalizacao)
 7. Configuração dos pontos de retirada disponíveis no checkout
 
-> ⚠️ Confira os passos detalhados no artigo [Como configurar um ponto de retirada.](/pt/docs/tutorials/pontos-de-retirada#como-configurar)
+> ⚠️ Confira os passos detalhados no artigo [Como configurar um ponto de retirada](/pt/docs/tutorials/pontos-de-retirada#como-configurar).
 
 ## Tempo de envio e feriados
 
-Quando o cliente tem itens no checkout e adiciona os dados de localização, a plataforma estima o tempo de envio do pedido. Essa estimativa (também chamada SLA) é calculada considerando os seguintes critérios:
+Quando o cliente tem itens no checkout e adiciona os dados de localização, a plataforma estima o tempo de envio do pedido. Essa estimativa (também chamada de SLA) é calculada considerando os seguintes critérios:
 
 * Horários [configurados nos estoques](/pt/docs/tutorials/gerenciar-estoque#campos-de-cadastro).
 * Horários [configurados na doca](/pt/docs/tutorials/gerenciar-doca#campos-de-cadastro).
@@ -88,7 +88,7 @@ Para cadastrar feriados na plataforma, você pode:
 * Utilizar a seção [Feriados](/pt/docs/tutorials/cadastrar-feriados) no Admin VTEX.
 * Utilizar a [API de Feriados](https://developers.vtex.com/vtex-rest-api/reference/holidays).
 
-> ⚠️ É recomendado que o cadastro de feriados seja feito depois de configurar as [Estratégias de envio](/pt/docs/tutorials/estrategia-de-envio).
+> ⚠️ É recomendado que o cadastro de feriados seja feito depois de configurar as [estratégias de envio](/pt/docs/tutorials/estrategia-de-envio).
 
 É possível cadastrar horários de entrega para envios agendados de transportadoras e pontos de retirada. A funcionalidade **[Entrega agendada](/pt/docs/tutorials/entrega-agendada)** permite que a loja ofereça janelas de entrega para seus clientes.
 

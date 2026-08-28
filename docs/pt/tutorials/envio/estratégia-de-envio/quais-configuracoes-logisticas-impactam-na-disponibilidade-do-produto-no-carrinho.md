@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-Quando você configura corretamente o produto e ele [aparece como disponível na vitrine](/pt/faq/por-que-o-produto-nao-aparece-no-site), pode ocorrer do item se tornar indisponível quando adicionado no carrinho. Diferentes aspectos da [logística](/pt/docs/tutorials/fulfillment-logistica-vtex) podem estar envolvidos na indisponibilidade do produto no carrinho, e os temas a seguir permitem identificar as possíveis causas:
+Quando você configura corretamente o produto e ele [aparece como disponível na vitrine](/pt/faq/por-que-o-produto-nao-aparece-no-site), pode ocorrer de o item se tornar indisponível quando adicionado ao carrinho. Diferentes aspectos da [logística](/pt/docs/tutorials/fulfillment-logistica-vtex) podem estar envolvidos na indisponibilidade do produto no carrinho, e os temas a seguir permitem identificar as possíveis causas:
 
 * [Simulador de envio](#simulador-de-envio)
 * [Inventário](#inventario)
@@ -88,11 +88,11 @@ Com relação às configurações da transportadora, a lista a seguir apresenta 
 
 > ℹ️ As situações acima mencionadas devem ser consideradas no contexto da venda. Se existe uma única política de envio elegível para o envio do produto e as características deste produto estão fora das configurações aceitas pela transportadora, então não existe uma rota de envio válida e o produto se torna indisponível.
 
-Outras configurações da transportadora que podem impactar na disponibilidade do produto estão relacionadas ao peso e volumetria de itens, como será a seguir.
+Outras configurações da transportadora que podem impactar na disponibilidade do produto estão relacionadas ao peso e volumetria de itens, como será detalhado a seguir.
 
 ### Dimensões e fator cúbico de peso
 
-Com relação ao [fator cúbico de peso](/pt/docs/tutorials/como-o-peso-cubado-e-calculado), é preciso garantir que o produto se enquadre dentro das **Dimensões do pacote** configurados na política de envio. São elas:
+Com relação ao [fator cúbico de peso](/pt/docs/tutorials/como-o-peso-cubado-e-calculado), é preciso garantir que o produto se enquadre dentro das **Dimensões do pacote** configuradas na política de envio. São elas:
 
 * Soma das dimensões.
 * Maior aresta.
