@@ -33,7 +33,7 @@ Para alterar o formato da meta após o cadastro, siga as etapas abaixo:
 Abaixo, um exemplo ilustrado do processo de edição do ciclo de meta:
 
 <img
-  src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/gerentes/editar-formato-ciclo-meta-indeva_1.gif"
+  src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/metas/editar-formato-ciclo-meta-indeva_1.gif"
   alt="Exemplo de edição do ciclo da meta"
   loading="lazy"
 />

@@ -31,11 +31,13 @@ Removing this field will greatly increase the stability and performance of the o
 
 That is why it's crucial to remove it from integration.
 
-> ℹ️ **Attention:** This change only impacts integrations that depend on the delivery of the `items` field through the List Orders API.
+> ℹ️ This change only impacts integrations that depend on the delivery of the `items` field through the List Orders API. This change does **not** affect the Get Orders API. In it, the `items` field continues to exist and keeps being normally updated.
 
-> ℹ️ This change does **not** affect the Get Orders API. In it, the `items` field continues to exist and keeps being normally updated.
+**Get Order API request:** 
 
-> ℹ️ Get Order API request: `http://{{accountName}}.{{environment}}.com.br/api/oms/pvt/orders/{{orderId}}`
+```
+http://{{accountName}}.{{environment}}.com.br/api/oms/pvt/orders/{{orderId}}
+```
 
 ---
 

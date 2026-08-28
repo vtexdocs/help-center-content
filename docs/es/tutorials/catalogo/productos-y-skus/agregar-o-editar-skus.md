@@ -85,8 +85,8 @@ Al hacer clic en `Agregar` en el campo **Imágenes**, se muestran dos opciones p
 
 La siguiente tabla presenta los límites y formatos aceptados para las imágenes:
 
-| **Límites y formatos** | **Valores aceptados** |
-| :--- | :--- |
+| Límites y formatos | Valores aceptados |
+| --- | --- |
 | Tamaño máximo en píxeles | 5000 x 5000 píxeles |
 | Tamaño mínimo en píxeles | 600 x 600 píxeles |
 | Tamaño máximo en MB | 4 MB |

@@ -37,25 +37,17 @@ To determine which combination of logistics steps configured by the store is the
 The selection of logistics combinations is made according to the criteria below, applied in the following order:
 
 1. **Logistics route validation:** The logistics route combines the [shipping policy](/en/docs/tutorials/shipping-policy), [loading dock](/en/docs/tutorials/loading-dock) and [warehouse](/en/docs/tutorials/warehouse) able to cover the order criteria, including item availability and customer location. The VTEX platform analyzes which logistics routes cover the shipping in this first validation step. The following aspects are taken into account:
-<ul>
-  <li>**Shipping rate template attributes:**i.e., size, weight, ZIP code range and modal. The [shipping rate template](/en/docs/tutorials/shipping-rate-template) is filled out according to the [carrier’s](/en/docs/tutorials/carriers-on-vtex) service-providing contract. The carrier must fulfill the order per item features and customer location coverage.</li>
-  <li>**Inventory availability:** The stock is the physical location where items are stored, while [inventory](/en/docs/tutorials/managing-stock-items) is the list of SKUs of available stocks for sale. This criterion confirms the order items are available in a stock, and that the stock has at least one loading dock available.</li>
-</ul>
-<br>
-  > ⚠️ In case of a [kit](/en/docs/tutorials/what-is-a-bundle) shipment, there are two conditions: <ul> <li>The kit components must have the same [loading dock](/en/docs/tutorials/loading-dock).</li> <li>The kit components must be available in the [inventory](/en/docs/tracks/inventory).</li> </ul> For more information, please see the article [How to calculate the kit shipping rate](/en/docs/tutorials/how-to-calculate-the-kit-freight).
-
+    - **Shipping rate template attributes:** i.e., size, weight, ZIP code range and modal. The [shipping rate template](/en/docs/tutorials/shipping-rate-template) is filled out according to the [carrier’s](/en/docs/tutorials/carriers-on-vtex) service-providing contract. The carrier must fulfill the order per item features and customer location coverage.
+    - **Inventory availability:** The stock is the physical location where items are stored, while [inventory](/en/docs/tutorials/managing-stock-items) is the list of SKUs of available stocks for sale. This criterion confirms the order items are available in a stock, and that the stock has at least one loading dock available.
+    > ⚠️ In case of a [kit](/en/docs/tutorials/what-is-a-bundle) shipment, there are two conditions: <ul> <li>The kit components must have the same [loading dock](/en/docs/tutorials/loading-dock).</li> <li>The kit components must be available in the [inventory](/en/docs/tracks/inventory).</li> </ul> For more information, please see the article [How to calculate the kit shipping rate](/en/docs/tutorials/how-to-calculate-the-kit-freight).
 2. **Inventory prioritization:** The previously selected logistics routes are organized with the [inventory](/en/docs/tutorials/managing-stock-items) as a priority criterion. The lower the order of SKU quantity in stock, the higher the priority of the logistics route selection. So inventories with small item quantities are not blocked out. The logistics routes are listed in order, placing the top priority item in the first place and the lowest priority item in the last place.
 3. **Package grouping:** The VTEX platform calculates how the item orders may be split into packages to estimate the division into packages and [consignments](/en/docs/tutorials/setting-up-shipment).
 4. **Calculating price and shipping time:** The VTEX platform calculates the package price and shipping time, reordering the priority list of logistics routes according to the criteria below, in the following order:
-<ul>
-  <li>Lowest price</li>
-  <li>Shortest time</li>
-  <li>Lowest package split</li>
-  <li>[Priority loading docks](/en/docs/tutorials/managing-loading-docks#campos-de-cadastro)</li>
-</ul>
-<br>
-  > ℹ️ When there is a tie between loading docks, the tiebreak criterion is the [overhead](/en/docs/tutorials/managing-loading-docks), which represents a value in number of days that will determine the most advantageous loading dock for a given shipment. The lower the overhead, the higher the chances for a loading dock to be selected. Please note that the overhead is not considered when calculating the shipping time.
-
+    - Lowest price
+    - Shortest time
+    - Lowest package split
+    - [Priority loading docks](/en/docs/tutorials/managing-loading-docks#campos-de-cadastro)
+    > ℹ️ When there is a tie between loading docks, the tiebreak criterion is the [overhead](/en/docs/tutorials/managing-loading-docks), which represents a value in number of days that will determine the most advantageous loading dock for a given shipment. The lower the overhead, the higher the chances for a loading dock to be selected. Please note that the overhead is not considered when calculating the shipping time.
 5. **Exclusive criterion for the pickup option:** There is an additional step in the selection when analyzing [pickup points](/en/docs/tutorials/pickup-points). The VTEX platform creates a list of eligible pickup points, using as criterion the shortest distance between the pickup point and the customer's location.
 
 The final result of the logistics configuration selection is an ordered list of eligible logistics routes. During checkout, however, the customer will be able to choose from up to two carrier options for each shipping method:

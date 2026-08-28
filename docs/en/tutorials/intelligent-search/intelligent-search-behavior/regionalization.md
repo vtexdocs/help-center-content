@@ -15,6 +15,8 @@ locale: en
 subcategoryId: 30Kdgc6wJkMWgcXLB8mGr7
 ---
 
+> ℹ️ To display SKU availability based on the buyer's location, VTEX recommends enabling [Delivery Promise](/en/docs/tutorials/delivery-promise-beta) instead of Regionalization. In addition to being more accurate, Delivery Promise enables filters and badges for shipping options during navigation, such as same-day shipping and pickup at nearby pickup points. The feature is in the [Open Beta phase](/en/announcements/2026-07-01-delivery-promise-in-open-beta). To enable it, contact [our Support team](https://support.vtex.com/hc/en-us/requests).
+
 Regionalization is a feature of [VTEX Intelligent Search](/en/docs/tracks/overview-intelligent-search) that allows for the optimization of search results according to the availability of sellers in the customer's region. To install and configure VTEX Intelligent Search in your store, read our article about [Search](https://developers.vtex.com/docs/guides/search-overview).
 
 Regionalization uses a behavior from VTEX Intelligent Search called [Availability](/en/docs/tutorials/availability). It searches for products available in the inventory of sellers that serve a particular region.

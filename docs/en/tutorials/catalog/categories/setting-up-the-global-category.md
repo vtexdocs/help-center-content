@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
-The global category tree is the taxonomy created by Google for the [Merchant Center](https://support.google.com/merchants/answer/6324436), and which in VTEX system is pre-defined as a single tree.
+The global category tree is the taxonomy created by Google for the [Merchant Center](https://support.google.com/merchants/answer/6324436), and which in the VTEX system is pre-defined as a single tree.
 
 The same global categories are available for products from all stores.
 
@@ -35,7 +35,7 @@ The global category is only used in external integrations, for example with mark
 
 ### How to choose a global category?
 
-A good mapping makes the products of the store found in partners more effectively.
+A good mapping helps partners find the store's products more effectively.
 
 You should always choose the global category that most closely matches the products of the category in your store.
 
@@ -51,7 +51,7 @@ Defining a global category is mandatory. **You can use it to integrate a store w
 
 You must choose the global category that most closely matches your product. Your partners will be able to find your products easily if you map them well. The more specific the category is, the better.
 
-**Example:** if your store has a "Motherboards" category, you should choose the "Motherboards" as the global category rather than "Components and circuit boards" or "Electronics".
+**Example:** if your store has a "Motherboards" category, you should choose "Motherboards" as the global category rather than "Components and circuit boards" or "Electronics".
 
 Ideally, it would be best if you determined the global category in the category settings. This way, all products in a given category will belong to the same global category.
 

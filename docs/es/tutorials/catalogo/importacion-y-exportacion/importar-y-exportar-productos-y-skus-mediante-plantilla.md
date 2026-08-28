@@ -89,7 +89,7 @@ Después de que la operación termina, la ventana presenta los siguientes cambio
 La siguiente tabla presenta la descripción y el ejemplo de valor de los campos de la plantilla de importación de productos y SKUs. Los campos obligatorios están marcados con un asterisco (*).
 
 | Campo | Descripción | Ejemplo |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | ID Producto | Número único de identificación del producto. Puedes rellenar un ID personalizado o dejar el campo vacío, de forma que la plataforma genera el ID automáticamente. Si este campo ya está completado no se puede modificar. | 310117603 |
 | Nombre Producto* | Nombre del producto presentado a los clientes en la experiencia de navegación, puede tener hasta 150 caracteres. Por cuestiones de [SEO](/es/docs/tutorials/mejorar-el-seo-de-las-paginas-de-lista-de-productos), recomendamos:<ul><li>✅ Utilizar palabras simples</li><li>❌ Evitar otros idiomas</li><li>❌ Evitar ortografía compleja</li></ul> | Camiseta de algodón |
 | Producto activo | Indica si el [status del producto](/es/docs/tutorials/productos-y-skus#filtrar-por-status) será activo o inactivo. Este campo no se puede editar desde la plantilla, debe dejarse vacío. | (Deja el campo vacío) |

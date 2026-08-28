@@ -1,12 +1,13 @@
 ---
-title: 'Intelligent Search: how search result relevance works'
+title: "Relevance"
 createdAt: 2026-07-07T00:00:00.000Z
-updatedAt: 2026-07-07T00:00:00.000Z
+updatedAt: 2026-08-26T00:00:00.000Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 slugEN: intelligent-search-how-search-result-relevance-works
 locale: en
 ---
+
 Relevance is the core mechanism of [Intelligent Search](https://help.vtex.com/en/docs/tutorials/intelligent-search-overview). It defines which products display in search results and in what order. The goal is to ensure that the products most relevant to each query are displayed first, considering a series of automatic and configurable factors.
 
 The process happens in two main steps:
@@ -18,22 +19,30 @@ The process happens in two main steps:
 
 Intelligent Search tries to find products that match the search in sequential groups. As soon as a group returns results, the following groups aren't evaluated.
 
-| Group | Logic | Description | Priority |
-| :---- | :---- | :---- | :---- |
-| Group 1 | [AND without fuzzy](#operators-and-fuzzy-matching) | Searches products that contain all the query words exactly as typed, with no tolerance for variations or typos. | Highest priority |
-| Group 2 | [AND with fuzzy](#operators-and-fuzzy-matching) | Searches products with all the words but accepts small variations (example: typos, diacritical mark differences). |  |
-| Group 3 | [OR without fuzzy](#operators-and-fuzzy-matching) | Accepts products that contain any of the searched words, but requires an exact match. |  |
-| Group 4 | [OR with fuzzy](#operators-and-fuzzy-matching) | Last resort: accepts products with any of the words, with tolerance for variations. | Lowest priority |
+| Group   | Logic                                              | Description                                                                                                       | Priority         |
+| ------ | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | --------------- |
+| Group 1 | [AND without fuzzy](#operators-and-fuzzy-matching) | Searches products that contain all the query words exactly as typed, with no tolerance for variations or typos.   | Highest priority |
+| Group 2 | [AND with fuzzy](#operators-and-fuzzy-matching)    | Searches products with all the words but accepts small variations (example: typos, diacritical mark differences). |                  |
+| Group 3 | [OR without fuzzy](#operators-and-fuzzy-matching)  | Accepts products that contain any of the searched words, but requires an exact match.                             |                  |
+| Group 4 | [OR with fuzzy](#operators-and-fuzzy-matching)     | Last resort: accepts products with any of the words, with tolerance for variations.                               | Lowest priority  |
+
+> ℹ️ For OR fallback results (Groups 3 and 4), relevance weighs how often each matched word appears in a product and how rare that word is across the catalog, instead of just counting how many individual words matched. Rarer, more distinctive words (like a product name) carry more weight than common ones (like a unit of measurement), so the most relevant products surface first. For example, a search for "ibuprofen pain reliever 50 tablets" that falls back to OR ranks ibuprofen products above unrelated products that happen to also contain "50" and "tablets," such as a "50-tablet pill organizer."
 
 ### Operators and fuzzy matching
 
-* **AND and OR operators:** The operator defines whether the product needs to contain all the words in the search or just one of them. With AND, a search for "nike sneakers" only returns products that have both terms. With OR, it returns any product that contains "nike" or "sneakers", which can significantly broaden the results.
+- **AND and OR operators:** The operator defines whether the product needs to contain all the words in the search or just one of them. With AND, a search for "nike sneakers" only returns products that have both terms. With OR, it returns any product that contains "nike" or "sneakers", which can significantly broaden the results.
 
-* **Fuzzy:** Defines the tolerance for typos. Intelligent Search tries to correct what the user typed based on the items in the catalog. By default, terms with three to five characters accept one error, and terms with six or more characters accept two errors.
+- **Fuzzy:** Defines the tolerance for typos. Intelligent Search tries to correct what the user typed based on the items in the catalog. By default, terms with three to five characters accept one error, and terms with six or more characters accept two errors.
 
   The errors considered with fuzzy = 1 are: inserting an extra character, removing a character, changing a character, or swapping two adjacent characters. Blank spaces aren't considered in fuzzy matching. For these cases, we recommend using [synonyms](https://help.vtex.com/en/docs/tutorials/synonyms).
 
 > ℹ️ Intelligent Search automatically chooses the operator and the fuzzy level. The merchant doesn't control this behavior. The system starts with the most restrictive group (AND without fuzzy) and moves on to more permissive groups only if the previous one doesn't return results. For more details, see [Search behavior](https://help.vtex.com/en/docs/tutorials/search-behavior#autocorrect).
+
+### Stemming (word roots)
+
+Intelligent Search also normalizes singular and plural variations of the same word, unifying them into the same root before matching. For example, in English stores, a search for `sneaker` also finds products with `sneakers`.
+
+> ℹ️ VTEX fixed stemming inconsistencies in the English language analyzer for terms like `sticks`, `sharpies`, `its`, `bags`, `boards`, `books`, `bowls`, `cards`, `crackers`, `dividers`, `games`, `glue-sticks`, `k-cups`, `knives`, `nuts`, `rolls`, `shelves`, and `supplies`, whose plural forms weren't mapped correctly to the singular root. This fix isn't automatically applied to all accounts: to request it for an English store, contact [VTEX Support](https://supporticket.vtex.com/support). Learn more at [Search behavior](https://help.vtex.com/en/docs/tutorials/search-behavior#stemming-word-roots).
 
 ### Decision flow
 
@@ -49,16 +58,16 @@ Intelligent Search tries to find products that match the search in sequential gr
 
 After identifying matching products, Intelligent Search applies a scoring algorithm to define the display order. The table below lists the factors in descending order of priority:
 
-| # | Factor | Description | Example |
-| :---- | :---- | :---- | :---- |
-| 1 | Product promoted by a merchandising rule | Product explicitly prioritized by the merchant via a merchandising rule. | A rule promoting "Stayfree Overnight" → Displays at the top even if another pad matches the search better. |
-| 2 | Product added by a merchandising rule | Product forced to display in the results even without a direct match with the searched term. | "vitamin C" search → Displays "immunity bundle with vitamin C and zinc" due to a rule, even though it doesn't directly match the query. |
-| 3 | Full ID match | The buyer searched for the exact product ID. | "123456" search → Displays the product with that ID with high priority. |
-| 4 | Partial ID match | The buyer typed part of the product ID. | "123" search → Displays products like "123456" or "123789". |
-| 5 | All words + keyword | The product contains all searched words and there's a match with the product's keyword. | "facial sunscreen SPF 50" search → A product with the keyword "sunscreen" fully matches. |
-| 6 | All words (no keyword) | The product contains all the words, but there's no match with the keyword. | "protector sunscreen SPF 50" search → "body sunscreen protector SPF 50" matches the words, but without a keyword match. |
-| 7 | Product demoted by a merchandising rule | Product with reduced visibility set by the merchant via a merchandising rule. It still displays, but with less prominence. | A rule demoting flu products outside of the season → Displays the product below others in searches for "flu products". |
-| 8 | Product unavailable (out of stock) | Product out of stock, set to display anyway. Displayed at the end of the results. | "ibuprofen 200mg" search → Displays a product that's out of stock last, with an unavailability notification. |
+| #   | Factor                                   | Description                                                                                                                | Example                                                                                                                                 |
+| -- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Product promoted by a merchandising rule | Product explicitly prioritized by the merchant via a merchandising rule.                                                   | A rule promoting "Stayfree Overnight" → Displays at the top even if another pad matches the search better.                              |
+| 2   | Product added by a merchandising rule    | Product forced to display in the results even without a direct match with the searched term.                               | "vitamin C" search → Displays "immunity bundle with vitamin C and zinc" due to a rule, even though it doesn't directly match the query. |
+| 3   | Full ID match                            | The buyer searched for the exact product ID.                                                                               | "123456" search → Displays the product with that ID with high priority.                                                                 |
+| 4   | Partial ID match                         | The buyer typed part of the product ID.                                                                                    | "123" search → Displays products like "123456" or "123789".                                                                             |
+| 5   | All words + keyword                      | The product contains all searched words and there's a match with the product's keyword.                                    | "facial sunscreen SPF 50" search → A product with the keyword "sunscreen" fully matches.                                                |
+| 6   | All words (no keyword)                   | The product contains all the words, but there's no match with the keyword.                                                 | "protector sunscreen SPF 50" search → "body sunscreen protector SPF 50" matches the words, but without a keyword match.                 |
+| 7   | Product demoted by a merchandising rule  | Product with reduced visibility set by the merchant via a merchandising rule. It still displays, but with less prominence. | A rule demoting flu products outside of the season → Displays the product below others in searches for "flu products".                  |
+| 8   | Product unavailable (out of stock)       | Product out of stock, set to display anyway. Displayed at the end of the results.                                          | "ibuprofen 200mg" search → Displays a product that's out of stock last, with an unavailability notification.                            |
 
 > ℹ️ The exact scores assigned to each factor aren't disclosed publicly, as they're part of the intellectual property of the Intelligent Search relevance algorithm.
 
@@ -74,25 +83,33 @@ The keyword is the main word that defines the product. Intelligent Search automa
 
 **Examples:**
 
-| Language | Product name | Keyword | Rule |
-| :---- | :---- | :---- | :---- |
-| Portuguese | Protetor solar facial FPS 50 | protetor | 1st word |
-| Spanish | Protector solar facial FPS 50 | protector | 1st word |
-| English | Facial SPF 50 sunscreen | sunscreen | last word |
-|  |  |  |  |
-| Portuguese | Shampoo anticaspa Head and Shoulders | shampoo | 1st word |
-| Spanish | Champú anticaspa Head and Shoulders | champú | 1st word |
-| English | Head and Shoulders anti-dandruff shampoo | shampoo | last word |
-|  |  |  |  |
-| Portuguese | Ibuprofeno 400mg genérico | ibuprofeno | 1st word |
-| Spanish | Ibuprofeno 400mg genérico | ibuprofeno | 1st word |
-| English | Generic 400mg ibuprofen | ibuprofen | last word |
-|  |  |  |  |
-| Portuguese | Vitamina C 1000mg efervescente | vitamina | 1st word |
-| Spanish | Vitamina C 1000mg efervescente | vitamina | 1st word |
-| English | Effervescent 1000mg vitamin C | vitamin C | last word |
+| Language   | Product name                             | Keyword    | Rule      |
+| --------- | --------------------------------------- | --------- | -------- |
+| Portuguese | Protetor solar facial FPS 50             | protetor   | 1st word  |
+| Spanish    | Protector solar facial FPS 50            | protector  | 1st word  |
+| English    | Facial SPF 50 sunscreen                  | sunscreen  | last word |
+|            |                                          |            |           |
+| Portuguese | Shampoo anticaspa Head and Shoulders     | shampoo    | 1st word  |
+| Spanish    | Champú anticaspa Head and Shoulders      | champú     | 1st word  |
+| English    | Head and Shoulders anti-dandruff shampoo | shampoo    | last word |
+|            |                                          |            |           |
+| Portuguese | Ibuprofeno 400mg genérico                | ibuprofeno | 1st word  |
+| Spanish    | Ibuprofeno 400mg genérico                | ibuprofeno | 1st word  |
+| English    | Generic 400mg ibuprofen                  | ibuprofen  | last word |
+|            |                                          |            |           |
+| Portuguese | Vitamina C 1000mg efervescente           | vitamina   | 1st word  |
+| Spanish    | Vitamina C 1000mg efervescente           | vitamina   | 1st word  |
+| English    | Effervescent 1000mg vitamin C            | vitamin C  | last word |
 
 The product name keyword match and the brand match are cumulative: a product that matches both at the same time gets the highest possible score. Having just one of the two already gives an advantage over products with no keyword match at all.
+
+#### Keywords from specifications
+
+In addition to the product name and brand, you can configure product specifications to also generate keywords. When a specification is set to generate keywords, the values filled in it count as product keywords, with the same weight as keywords extracted from the name or brand.
+
+This setup is especially useful in catalogs where search-relevant information is stored in specifications, not in the product name. For example, this happens when the name doesn't describe the type, function, or other central attribute of the item.
+
+> ℹ️ This feature is available on demand. To enable it, contact [VTEX Support](https://supporticket.vtex.com/support).
 
 ### Merchandising rules
 
@@ -125,16 +142,16 @@ A product returned by a synonym but that has a keyword match will be more releva
 
 When two or more products have a similar relevance score, Intelligent Search uses the criteria from the [relevance rules](https://help.vtex.com/en/docs/tutorials/relevance-rules) configured by the merchant to break the tie. The available criteria are:
 
-| Criterion | Description |
-| :---- | :---- |
-| Discount | Products with a higher discount percentage get priority. |
-| Release date | Newer products are prioritized. |
-| Best sellers | Sorted by order volume. |
-| Best sellers by revenue | Sorted by total generated in sales. |
-| Popularity | Based on product interactions and views. |
-| Promotion | Products with an active promotion receive a higher score. |
-| Catalog score | Score set directly in the store's catalog. |
-| Available matrix variety | Products with more variations in stock are prioritized. |
+| Criterion                | Description                                               |
+| ----------------------- | -------------------------------------------------------- |
+| Discount                 | Products with a higher discount percentage get priority.  |
+| Release date             | Newer products are prioritized.                           |
+| Best sellers             | Sorted by order volume.                                   |
+| Best sellers by revenue  | Sorted by total generated in sales.                       |
+| Popularity               | Based on product interactions and views.                  |
+| Promotion                | Products with an active promotion receive a higher score. |
+| Catalog score            | Score set directly in the store's catalog.                |
+| Available matrix variety | Products with more variations in stock are prioritized.   |
 
 The impact of each criterion is determined by the weight configured by the merchant. If a priority criterion is set (example: "Best sellers"), it gets more priority in the tie-break. Otherwise, the system uses the normalized weighted sum of all active criteria.
 
@@ -142,21 +159,30 @@ The impact of each criterion is determined by the weight configured by the merch
 
 ### Search: "tylenol"
 
-| Product (brand) | Relevance | Reason |
-| :---- | :---- | :---- |
-| Reliever Tylenol 24 ct (Tylenol) | High | Keyword from the name "Tylenol" + brand "Tylenol": Double cumulative match, higher score. |
-| Tylenol PM Caplets 24 ct (Tylenol) | Tie\* | Only brand match "Tylenol": one keyword match. |
-| Pain Reliever Caplets Tylenol 24 ct (ValueMed) | Tie\* | Only keyword match from the name "Tylenol": one keyword match. Tie broken by the configured relevance criteria. |
+| Product (brand)                                | Relevance | Reason                                                                                                          |
+| --------------------------------------------- | -------- | -------------------------------------------------------------------------------------------------------------- |
+| Reliever Tylenol 24 ct (Tylenol)               | High      | Keyword from the name "Tylenol" + brand "Tylenol": Double cumulative match, higher score.                       |
+| Tylenol PM Caplets 24 ct (Tylenol)             | Tie\*     | Only brand match "Tylenol": one keyword match.                                                                  |
+| Pain Reliever Caplets Tylenol 24 ct (ValueMed) | Tie\*     | Only keyword match from the name "Tylenol": one keyword match. Tie broken by the configured relevance criteria. |
 
 \* Tie in relevance score. Both have exactly one keyword match. The final order between them is determined by the configured relevance criteria (example: best sellers, discount, release date).
 
 ### Search: "minoxidil"
 
-| Product (brand) | Relevance | Reason |
-| :---- | :---- | :---- |
-| 5% Hair Regrowth Treatment Minoxidil (Minoxidil) | High | Keyword from the name "Minoxidil" + brand "Minoxidil": double cumulative match. |
-| Minoxidil Foam Extra Strength 3-Month Supply (Minoxidil) | Tie\* | Only brand match "Minoxidil": one keyword match. |
-| 5% Hair Regrowth Treatment Minoxidil (Kirkland Signature) | Tie\* | Only keyword match from the name "Minoxidil": one keyword match. Tie broken by the configured relevance criteria. |
-| Minoxidil Hair Growth Shampoo (HairCare Plus) | Low | Keyword from the name is "Shampoo" and the brand is "HairCare Plus": no keyword or brand match, despite the word "Minoxidil" in the name. |
+| Product (brand)                                           | Relevance | Reason                                                                                                                                    |
+| -------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 5% Hair Regrowth Treatment Minoxidil (Minoxidil)          | High      | Keyword from the name "Minoxidil" + brand "Minoxidil": double cumulative match.                                                           |
+| Minoxidil Foam Extra Strength 3-Month Supply (Minoxidil)  | Tie\*     | Only brand match "Minoxidil": one keyword match.                                                                                          |
+| 5% Hair Regrowth Treatment Minoxidil (Kirkland Signature) | Tie\*     | Only keyword match from the name "Minoxidil": one keyword match. Tie broken by the configured relevance criteria.                         |
+| Minoxidil Hair Growth Shampoo (HairCare Plus)             | Low       | Keyword from the name is "Shampoo" and the brand is "HairCare Plus": no keyword or brand match, despite the word "Minoxidil" in the name. |
 
 \* Tie in relevance score. Both have exactly one keyword match. The final order between them is determined by the configured relevance criteria (example: best sellers, discount, release date).
+
+### Search: "frost free"
+
+| Product (name) | Relevance | Rationale |
+| :---- | :---- | :---- |
+| Refrigerator Duplex 400L (specification "Defrost technology": Frost Free) | High | The "Defrost technology" specification is configured to generate keywords. The value "Frost Free" matches the search and generates the same bonus as a keyword match, even though the term doesn't appear in the product name. |
+| Refrigerator 400L (specification "Defrost technology": Cyclic) | Low | The name contains "Refrigerator", but neither the name nor the specification value matches "frost free": there's no keyword match. |
+
+In this example, the term "frost free" doesn't appear in the first product's name, but it's filled in a specification configured to generate keywords. This ensures high relevance even when the most search-relevant information is in the specification, not in the name. This behavior is especially useful for catalogs where the product name doesn't describe all its relevant attributes.

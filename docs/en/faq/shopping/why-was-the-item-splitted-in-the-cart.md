@@ -1,5 +1,5 @@
 ---
-title: 'Why was the item splitted in the cart?'
+title: 'Why was the item split in the cart?'
 id: frequentlyAskedQuestions_350
 status: PUBLISHED
 createdAt: 2017-04-27T22:37:20.610Z
@@ -14,9 +14,9 @@ locale: en
 legacySlug: why-was-the-item-splitted-in-the-cart
 ---
 
-This scenario is presented when more than one item from the same SKU is splitted into more than one line in the cart. This occurs due to an action called apportionment - that is the division of a value among some items.
+This scenario is presented when more than one item from the same SKU is split into more than one line in the cart. This occurs due to an action called apportionment - that is the division of a value among some items.
 
- However, there are scenarios in which the discount amount is indivisible by the number of items, particularly in cases where the SKU has a multiplier unit. So, you need to give different discounts to items of the same SKU for the discount amount be correct. This ends up assigning different prices, and splitting each unit in a line.
+However, there are scenarios in which the discount amount is indivisible by the number of items, particularly in cases where the SKU has a multiplier unit. So, you need to give different discounts to items of the same SKU for the discount amount to be correct. This ends up assigning different prices, and splitting each unit onto its own line.
 
 The example below helps to understand this concept :
 

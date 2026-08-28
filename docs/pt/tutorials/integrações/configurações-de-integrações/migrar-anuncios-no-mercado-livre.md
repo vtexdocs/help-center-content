@@ -49,7 +49,7 @@ O produto cadastrado na VTEX só poderá ser mapeado com um anúncio no Mercado 
 
 A planilha possui as seguintes colunas:
 
-| **Colunas** | **Descrição** | **Preenchimento** |
+| Colunas | Descrição | Preenchimento |
 | ---------- | ---------- | ---------- |
 | **ID do Anúncio** | Identificação do anúncio na plataforma do Mercado Livre | Preencha a coluna com o ID do anúncio do Mercado Livre. Você poderá encontrar o ID na URL do anúncio no Mercado Livre, com ou sem hífen. Para clientes no Brasil, o código terá as iniciais MLB e uma sequência numérica em seguida, no seguinte formato: MLBXXXXXXXX (sem hífen). Por exemplo, a URL do anúncio de um produto no Mercado Livre é [https://produto.mercadolivre.com.br/MLB-1915806214](https://produto.mercadolivre.com.br/MLB-1915806214-tenis-all-estrela-white-star-cano-alto-botinha-30-off-_JM). Nesse caso, a ID do anúncio a ser utilizada nesta coluna da planilha é `MLB1915806214`. Clientes LATAM possuirão iniciais diferentes. Em caso de dúvida, acesse o admin da sua loja no Mercado Livre |
 | **ID do SKU** | Identificação do SKU na plataforma VTEX | Preencha a coluna com o ID do SKU anunciado no Mercado Livre. Para descobrir o **ID do SKU**, acesse no Admin VTEX *PRODUTOS > Catálogo > Produtos e SKUS*. Você visualizará uma sequência numérica correspondente ao ID do SKU na coluna **SKU**, entre parênteses |
@@ -59,7 +59,7 @@ A planilha possui as seguintes colunas:
 
 Segue um exemplo de como uma planilha pode ser montada.
 
-| **ID do Anúncio** | **ID do SKU**  | **ID da Variação** |
+| ID do Anúncio | ID do SKU  | ID da Variação |
 | ----------    | ---------- | ----------     |
 | MLB9999999999 | 123        | 29999999930    |
 | MLB9999999999 | 124        | 29999999931    |
