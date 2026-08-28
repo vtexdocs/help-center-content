@@ -58,7 +58,7 @@ The **Issues** tab contains all the offers that haven't been approved because th
 
 > ℹ️ The **Issues** tab doesn't have the option to request a correction.  
 
-To identify the issue of an offer, click the name of the product. This will open a window with the product information, an error message, and the offer reviewer.  
+To identify the issue of an offer, simply click the name of the product. This will open a window with the product information, an error message, and the offer reviewer.  
 
 ![received-skus-problems-tab](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/products/received-skus-beta_3.png)
 

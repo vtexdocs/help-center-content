@@ -53,7 +53,7 @@ If you need to add or remove items from your cart, you can keep the simulator wi
 
 ### Searching and filtering promotions
 
-The tool provides a search bar for finding promotions by product or promotion name. Additionally, you can filter promotions by **Promotion type** ([Regular](/en/docs/tracks/creating-regular-promotions), [Buy Together](/en/docs/tutorials/buy-together), [More for Less](/en/docs/tutorials/creating-a-more-for-less-promotion), [Progressive Discount](/en/docs/tutorials/progressive-discount), [Buy One Get One](/en/docs/tutorials/buy-one-get-one), or [Campaign Promotion](/en/docs/tutorials/campaign-promotion)) and **Discount** (Applied or Not Applied).
+The tool provides a search bar for finding promotions by product or promotion name. Additionally, you can filter promotions by **Promotion type** ([Regular](/en/docs/tracks/creating-regular-promotions), [Buy Together](/en/docs/tutorials/buy-together), [Get More for Less](/en/docs/tutorials/creating-a-more-for-less-promotion), [Progressive Discount](/en/docs/tutorials/progressive-discount), [Buy One, Get One](/en/docs/tutorials/buy-one-get-one), or [Campaign Promotion](/en/docs/tutorials/campaign-promotion)) and **Discount** (Applied or Not Applied).
 
 ### Viewing applied promotions details
 

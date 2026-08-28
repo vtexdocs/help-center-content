@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'We prevent expired cards from being selected during checkout, for a better shopping experience.'
 ---
 
-One of the main advantages of VTEX Smartcheckout™ is that it makes it easier for customers to repurchase. Customers need to enter their email addresses for their data to be filled in. And to complete the purchase, all they need to do is enter the security code of their previously saved cards. The entire process is fast and safe. 
+One of the main advantages of VTEX Smartcheckout™ is that it makes it easier for customers to repurchase. Customers simply need to enter their email addresses for their data to be filled in. And to complete the purchase, all they need to do is enter the security code of their previously saved cards. The entire process is fast and safe. 
 
 To continue enhancing this experience, we have included additional validation in the purchase flow to better handle expired cards.
 

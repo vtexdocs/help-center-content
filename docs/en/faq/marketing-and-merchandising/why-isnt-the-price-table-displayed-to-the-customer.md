@@ -16,7 +16,7 @@ legacySlug: why-isnt-the-price-table-displayed-to-the-customer
 
 It is possible that in some cases the store admin sets up the Price Table and its prices are not displayed to the customers.
 
-Follow the steps below in the Admin to check if the setup was done correctly.
+Follow the steps below in the Admin to check if the set up was done correctly.
 
 1. Access the __Catalog__.
 2. Click __Products and SKUs__.
@@ -24,7 +24,7 @@ Follow the steps below in the Admin to check if the setup was done correctly.
 
 After this initial verification, proceed as follows:
 1. Click on __Master Data__, in the Admin sidebar.
-2. Click to view the list of __Customer__ records in the application __Profile System__.
+2. Click to view the list of __Customers__ records in the application __Profile System__.
 3. Look for the __client__ in question.
 4. Check if the __Price Table__ field in the record is filled with the desired price table value.
 

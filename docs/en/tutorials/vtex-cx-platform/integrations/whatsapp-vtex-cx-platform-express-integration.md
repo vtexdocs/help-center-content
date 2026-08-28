@@ -37,11 +37,11 @@ However, if you're already logged into the Facebook account that will be used. C
 
 Then, just follow the steps to link your account.
 
-To begin, after logging into your Facebook account, click **"Get Started"** on the screen, and you will be redirected to the next page to continue the process.
+To begin, after logging into your Facebook account, simply click **"Get Started"** on the screen, and you will be redirected to the next page to continue the process.
 
 Accept the permissions, as they are necessary for VTEX CX Platform to access your WhatsApp Business account and enable the integrations. No data is shared, and the entire process is secure.
 
-First, you need to create your business account that will be linked to Meta, or select one of the already registered businesses. After selecting the option you need, click **"Continue"**.
+First, you need to create your business account that will be linked to Meta, or select one of the already registered businesses. After selecting the option you need, simply click **"Continue"**.
 
 At this stage, you will see a screen to configure the name and time zone of your WhatsApp Business Account (WABA) that is being created. Once this is set, your account on Meta's Cloud API will be ready. If you already have a WABA (WhatsApp Business API), it will appear, and you can select it.
 

@@ -83,7 +83,7 @@ The table below describes each one:
 * **Previously:** The `discountValue` and `incrementValue` fields defined the value of the change being made to the order by decreasing or increasing a value, respectively. The user calculated the change value, and the result was added to or subtracted from the order total amount using these fields.
   > **Example:** When adding a $50 item to a $100 order, the user would send the `incrementValue` as $50, and the system would update the order total to $150. To apply a $30 discount for the customer, the user had to send the `discountValue` of $30, resulting in a revised order total of $120.
 * **Now:** The new `manualDiscountValue` and `manualIncrementValue` fields set additional manual values to be added to or subtracted from the total order amount regardless of the modifications made. As the system automatically calculates the modifications (considering the price and conditions when the order was placed), the user can add or subtract values using the fields mentioned.
-  > **Example:** When adding a $50 item to a $100 order, the system automatically adjusts the total to $150. Users are not required to update the amount manually. If a discount of $30 is needed, users can send the `manualDiscountValue` field as $30, resulting in a new total of $120.
+  > **Example:** When adding a $50 item to a $100 order, the system automatically adjusts the total to $150. Users are not required to update the amount manually. If a discount of $30 is needed, users can simply send the `manualDiscountValue` field as $30, resulting in a new total of $120.
 
 ### Adding and removing items
 

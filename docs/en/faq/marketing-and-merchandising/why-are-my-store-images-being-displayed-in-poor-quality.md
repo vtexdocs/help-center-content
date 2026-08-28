@@ -16,9 +16,9 @@ legacySlug: images-with-poor-quality
 
 The reduction in image quality can occur during the automatic [image compression process](/en/docs/tutorials/image-compression).
 
-If you're using JPG or JPEG photos on your website, it's common for them to lose some quality due to conversion to the lossy [WebP](https://developers.google.com/speed/webp/) format. However, this loss shouldn't be too noticeable. To address this, try to upload the files again in a slightly higher resolution.
+If you're using JPG or JPEG photos on your website, it's common for them to lose some quality due to conversion to lossy [WebP](https://developers.google.com/speed/webp/) format. However, this loss shouldn't be too noticeable. To address this, try to upload the files again in a slightly higher resolution.
 
-For your store to display images with solid colors, detailed graphics, and high contrast, we recommend opting for PNG format. PNG is either optimized in the same format or converted to lossless WebP, which should preserve the quality of the original file.
+For your store to display images with solid colors, detailed graphics, and high contrast in your store, we recommend opting for PNG format. PNG is either optimized in the same format or converted to lossless WebP, which should preserve the quality of the original file.
 
 Another option is to use pre-optimized images using conversion tools for progressive JPEG photos or 8-bit PNGs for illustrations. By compressing the file beforehand, there’s a chance the format can be maintained without further recompression.
 

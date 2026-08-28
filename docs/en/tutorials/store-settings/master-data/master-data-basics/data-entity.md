@@ -27,7 +27,7 @@ With these concepts in mind, you can set up several data control scenarios in Ma
 
 > ⚠️ This article outlines the Master Data v1 operation. You should evaluate which Master Data version meets your needs or is in use in your operation. Learn more: <ul> <li>[Master Data version features](/en/docs/tutorials/master-data#available-versions)</li> <li>[Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics)</li> </ul>
 
-> ⚠️ Deleting a data entity through the Master Data v1 interface **doesn't** remove the documents (records) already stored. The billed volume remains unchanged until the records are removed via the API. To delete documents and reduce billing, see the [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) guide on the developer portal. See the [guide to fix](/docs/tutorials/master-data-billing-did-not-decrease-after-deleting-a-data-entity) this issue.
+> ⚠️ Deleting a data entity through the Master Data v1 interface does not remove the documents (records) already stored. The billed volume remains unchanged until the records are removed via the API. To delete documents and reduce billing, see the [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) guide on the Developers Portal. See the [step-by-step guide to fix](/docs/tutorials/master-data-billing-did-not-decrease-after-deleting-a-data-entity) this issue.
 
 ## Data types
 

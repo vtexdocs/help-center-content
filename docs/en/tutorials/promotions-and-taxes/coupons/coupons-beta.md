@@ -25,7 +25,7 @@ You can create and edit coupons in the VTEX Admin, in **Promotions** > [Coupons]
 
 ## Coupon types
 
-VTEX provides single coupons and coupon batches. See the description below and learn more about how to use each type of coupon.
+VTEX provides single coupons and coupon batches. See the description below and learn more on how to use each type of coupon.
 
 ### Single coupons
 
@@ -40,7 +40,7 @@ A single coupon can be useful in the following scenarios:
 
 ### Coupon batches
 
-Coupon batches group multiple promotional codes that have the same effect.
+Coupon batches are code groupers, which means they provide more than one promotional code with the same effect.
 
 A coupon batch can be useful in the following scenarios:
 

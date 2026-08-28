@@ -1,5 +1,5 @@
 ---
-title: "I've edited a placeholder and the site hasn't been updated. What should I do?"
+title: "I've edited a placeholder and the site hasn't been updated. What to do?"
 id: 3aYplfjwuQumeiEe20UUaO
 status: PUBLISHED
 createdAt: 2018-01-22T22:00:31.331Z
@@ -14,7 +14,7 @@ locale: en
 legacySlug: ive-edited-a-placeholder-and-the-site-hasnt-been-updated-what-to-do
 ---
 
-Stores often change layout placeholders in the CMS module without those changes being reflected live.
+It is usual for the store to make changes to the placeholders of a layout in the CMS module, and that such change is not reflected live.
 
 Usually this happens because the store saves the placeholder after the changes but does not save the layout.
 

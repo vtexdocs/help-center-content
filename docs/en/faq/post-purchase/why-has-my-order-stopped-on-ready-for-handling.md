@@ -16,7 +16,7 @@ legacySlug: why-has-my-order-stopped-on-ready-for-handling
 
 `Ready for Handling` is an order flow status that awaits the registration of the tax receipt in order to invoice it. The order will remain in this status until it is [invoiced](/en/docs/tracks/invoicing-an-order), which means the invoice has been added to the order.
 
-## Invoicing in the Orders module
+## Invoicing on Orders module
 
 To change the order status, you need to add the invoice via the [Order Invoice Notification](https://developers.vtex.com/vtex-rest-api/reference/invoicenotification) API or [manually](/en/docs/tracks/partial-invoices) through the VTEX Admin.
 
@@ -28,4 +28,4 @@ Pay attention to the following information to ensure that the invoice is generat
 
 ### Marketplace integration 
 
-If an order has been successfully invoiced in your ERP but remains in the Awaiting fulfillment status, the products may be unavailable in the marketplace API. In this case, please read the article [The order was billed in the ERP but remains in "Awaiting fulfillment" status. What should I do?](/en/faq/the-order-was-billed-in-the-erp-but-remains-in-the-preparing-delivery-status).
+If an order has been successfully invoiced in your ERP but remains in the Awaiting fulfillment status, the products may be unavailable in the marketplace API. In this case, please read the article [The order was billed in the ERP but remains in "Awaiting fulfillment" status. What to do?](/en/faq/the-order-was-billed-in-the-erp-but-remains-in-the-preparing-delivery-status).

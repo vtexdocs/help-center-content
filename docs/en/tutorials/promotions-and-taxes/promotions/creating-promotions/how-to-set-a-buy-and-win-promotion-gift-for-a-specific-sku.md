@@ -17,12 +17,12 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 
 This configuration is performed for __Buy One Get One__ promotions, where you can select which SKU will offer the gift.
 
-1. In the **Promotions & Taxes** module, go to __Benefits__.
+1. On the **Promotions & Taxes** module, access __Benefits__.
 2. Click on `New Benefit`.
 3. Click on `Buy One Get One`.
 4. Fill out the fields according to the article [How the Buy One Get One (BoGo) promotion works](/en/docs/tutorials/buy-one-get-one).
-5. At **What kind and amount of discount**, select the **Gift** option and complete the field by selecting the SKU to which the promotion will be applied.
-7. You can also select **Activate gift multiplier** to determine whether the gift is per order or per purchased item.
+5. At **What kind and amount of discount**, select the **Gift** option, and fill it out the field by selecting the SKU to which the promotion will be applied;
+7. There is the possibility to **Activate gift multiplier** to determine whether it will be a gift per order or per purchased item.
 8. Click on `Save`.
 
 In this promotion, the Gift will appear on the product page.

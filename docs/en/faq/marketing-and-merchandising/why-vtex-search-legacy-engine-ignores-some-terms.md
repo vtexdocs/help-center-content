@@ -1,5 +1,5 @@
 ---
-title: 'Why does the VTEX Search (Legacy) engine ignore some terms?'
+title: 'Why VTEX Search (Legacy) engine ignores some terms'
 id: 2AbmsbKOogeaeuoESGaWAs
 status: PUBLISHED
 createdAt: 2019-01-24T20:30:45.346Z
@@ -14,7 +14,7 @@ locale: en
 legacySlug: why-vtex-search-legacy-engine-ignores-some-terms
 ---
 
-> ⚠️ VTEX has two search options - VTEX Search (Legacy) and VTEX Intelligent Search. This article refers to the VTEX Search (Legacy). To learn more about VTEX Intelligent Search, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ **Warning**: VTEX has two search options - VTEX Search (Legacy) and VTEX Intelligent Search. This article refers to the VTEX Search (Legacy). To learn more about VTEX Intelligent Search, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 The article [How does VTEX Search (Legacy) work?](/en/docs/tutorials/how-does-vtex-search-legacy-work) illustrates the main rules that the search engine algorithm uses to display and prioritize the products based on a search term.
 
@@ -27,9 +27,9 @@ If a user looks for the term "A pair of Nike sneakers", for the search engine, t
 
 Thus, the VTEX Search (Legacy) engine contains a list of blocked (unimportant) words that assist in optimizing the result, as illustrated in the above example.
 
-See below for the complete list of blocked terms.
+See below the complete list of blocked terms.
 
-> ⚠️ Currently, the blocked words list contains only words in Portuguese.
+> ⚠️ Currently, the blocked words list contains only words in portuguese.
 
 ```
 a

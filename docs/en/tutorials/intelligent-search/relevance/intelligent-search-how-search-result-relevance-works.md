@@ -1,7 +1,7 @@
 ---
 title: "Relevance"
 createdAt: 2026-07-07T00:00:00.000Z
-updatedAt: 2026-08-26T00:00:00.000Z
+updatedAt: 2026-07-07T00:00:00.000Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 slugEN: intelligent-search-how-search-result-relevance-works
@@ -26,8 +26,6 @@ Intelligent Search tries to find products that match the search in sequential gr
 | Group 3 | [OR without fuzzy](#operators-and-fuzzy-matching)  | Accepts products that contain any of the searched words, but requires an exact match.                             |                  |
 | Group 4 | [OR with fuzzy](#operators-and-fuzzy-matching)     | Last resort: accepts products with any of the words, with tolerance for variations.                               | Lowest priority  |
 
-> ℹ️ For OR fallback results (Groups 3 and 4), relevance weighs how often each matched word appears in a product and how rare that word is across the catalog, instead of just counting how many individual words matched. Rarer, more distinctive words (like a product name) carry more weight than common ones (like a unit of measurement), so the most relevant products surface first. For example, a search for "ibuprofen pain reliever 50 tablets" that falls back to OR ranks ibuprofen products above unrelated products that happen to also contain "50" and "tablets," such as a "50-tablet pill organizer."
-
 ### Operators and fuzzy matching
 
 - **AND and OR operators:** The operator defines whether the product needs to contain all the words in the search or just one of them. With AND, a search for "nike sneakers" only returns products that have both terms. With OR, it returns any product that contains "nike" or "sneakers", which can significantly broaden the results.
@@ -37,12 +35,6 @@ Intelligent Search tries to find products that match the search in sequential gr
   The errors considered with fuzzy = 1 are: inserting an extra character, removing a character, changing a character, or swapping two adjacent characters. Blank spaces aren't considered in fuzzy matching. For these cases, we recommend using [synonyms](https://help.vtex.com/en/docs/tutorials/synonyms).
 
 > ℹ️ Intelligent Search automatically chooses the operator and the fuzzy level. The merchant doesn't control this behavior. The system starts with the most restrictive group (AND without fuzzy) and moves on to more permissive groups only if the previous one doesn't return results. For more details, see [Search behavior](https://help.vtex.com/en/docs/tutorials/search-behavior#autocorrect).
-
-### Stemming (word roots)
-
-Intelligent Search also normalizes singular and plural variations of the same word, unifying them into the same root before matching. For example, in English stores, a search for `sneaker` also finds products with `sneakers`.
-
-> ℹ️ VTEX fixed stemming inconsistencies in the English language analyzer for terms like `sticks`, `sharpies`, `its`, `bags`, `boards`, `books`, `bowls`, `cards`, `crackers`, `dividers`, `games`, `glue-sticks`, `k-cups`, `knives`, `nuts`, `rolls`, `shelves`, and `supplies`, whose plural forms weren't mapped correctly to the singular root. This fix isn't automatically applied to all accounts: to request it for an English store, contact [VTEX Support](https://supporticket.vtex.com/support). Learn more at [Search behavior](https://help.vtex.com/en/docs/tutorials/search-behavior#stemming-word-roots).
 
 ### Decision flow
 
@@ -102,14 +94,6 @@ The keyword is the main word that defines the product. Intelligent Search automa
 | English    | Effervescent 1000mg vitamin C            | vitamin C  | last word |
 
 The product name keyword match and the brand match are cumulative: a product that matches both at the same time gets the highest possible score. Having just one of the two already gives an advantage over products with no keyword match at all.
-
-#### Keywords from specifications
-
-In addition to the product name and brand, you can configure product specifications to also generate keywords. When a specification is set to generate keywords, the values filled in it count as product keywords, with the same weight as keywords extracted from the name or brand.
-
-This setup is especially useful in catalogs where search-relevant information is stored in specifications, not in the product name. For example, this happens when the name doesn't describe the type, function, or other central attribute of the item.
-
-> ℹ️ This feature is available on demand. To enable it, contact [VTEX Support](https://supporticket.vtex.com/support).
 
 ### Merchandising rules
 
@@ -177,12 +161,3 @@ The impact of each criterion is determined by the weight configured by the merch
 | Minoxidil Hair Growth Shampoo (HairCare Plus)             | Low       | Keyword from the name is "Shampoo" and the brand is "HairCare Plus": no keyword or brand match, despite the word "Minoxidil" in the name. |
 
 \* Tie in relevance score. Both have exactly one keyword match. The final order between them is determined by the configured relevance criteria (example: best sellers, discount, release date).
-
-### Search: "frost free"
-
-| Product (name) | Relevance | Rationale |
-| :---- | :---- | :---- |
-| Refrigerator Duplex 400L (specification "Defrost technology": Frost Free) | High | The "Defrost technology" specification is configured to generate keywords. The value "Frost Free" matches the search and generates the same bonus as a keyword match, even though the term doesn't appear in the product name. |
-| Refrigerator 400L (specification "Defrost technology": Cyclic) | Low | The name contains "Refrigerator", but neither the name nor the specification value matches "frost free": there's no keyword match. |
-
-In this example, the term "frost free" doesn't appear in the first product's name, but it's filled in a specification configured to generate keywords. This ensures high relevance even when the most search-relevant information is in the specification, not in the name. This behavior is especially useful for catalogs where the product name doesn't describe all its relevant attributes.

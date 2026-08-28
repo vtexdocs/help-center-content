@@ -14,7 +14,7 @@ locale: en
 legacySlug: 
 ---
 
-Within the VTEX platform, you may apply a [benefit](/en/tutorial/creating-promotions-for-a-cluster-of-customers) to only one given [cluster](/en/docs/tutorials/how-can-i-create-cluster-of-customers). That is, for only a specific group of customers.
+Within VTEX platform, you may apply a [benefit](/en/tutorial/creating-promotions-for-a-cluster-of-customers) to only one given [cluster](/en/docs/tutorials/how-can-i-create-cluster-of-customers). That is, for only a specific group of customers.
 
 There are cases, however, where this benefit is not viewed by some customers.
 
@@ -31,7 +31,7 @@ Make sure the value has been entered by following these steps:
 1. Enter __Promotions & Taxes__;
 2. Click __Benefits__;
 3. Select which __benefit__ you want to edit;
-4. Go to the section __"What are the conditions for the benefit to be valid?"__;!
+4. Go to the session __"What are the conditions for the benefit to be valid?"__;!
 5. Check which clusters are registered in __"Customers Cluster"__;
 
 ![EN - 7GcSb6BuF6JKnmGAggO3uA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-doesnt-my-benefit-work-for-a-client-cluster_1.png)
@@ -47,7 +47,7 @@ Let's say the value for a cluster is "GOLD". If the value entered in the platfor
 
 Therefore, the customer does not see the benefit. The same goes for other similar spellings, like "gold" or "Golds".
 
-To work around this scenario, follow the same steps as in the scenario where there's no value and correct possible typos in the value.
+To work around this scenario, follow the same steps as the scenario where there's no value and correct possible typos in the value.
 
 ## Use of two or more values
 

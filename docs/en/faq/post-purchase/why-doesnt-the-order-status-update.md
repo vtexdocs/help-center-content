@@ -14,7 +14,7 @@ locale: en
 legacySlug: why-doesnt-the-order-status-update
 ---
 
-This scenario may occur with three statuses, two in VTEX and one on the marketplace. A description follows below.
+This scenario may occur with três statuses, two in VTEX and one on the marketplace. A description follows below.
 
 ## Waiting for authorization to dispatch
 

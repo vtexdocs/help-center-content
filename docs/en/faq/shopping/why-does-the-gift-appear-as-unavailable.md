@@ -25,7 +25,7 @@ Even if you want to create an SKU that will be available to your customers merel
 
 If this SKU is selected as a gift at checkout, it will be free.
 
-That is, even if a gift has a registered price (a necessary condition for it to be displayed in the store), it will not be charged when selected as a gift.
+That is, __even if a gift has a registered price (necessary condition for it to be displayed in the store), it will not be charged when selected as a gift.__
 
 Apart from this, it's worth pointing out that cases exist in which a gift is __removed__ from the cart without any apparent reason. The reasons are the same as those that make this SKU appear as "unavailable": price or inventory not being registered, as well as registration not being activated.
 

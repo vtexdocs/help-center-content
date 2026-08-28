@@ -3,7 +3,7 @@ title: 'Data subject rights'
 id: 6imchxTx09icupKMbzHVIM
 status: PUBLISHED
 createdAt: 2023-04-26T18:56:45.938Z
-updatedAt: 2026-08-24T13:58:46.000Z
+updatedAt: 2023-06-22T21:47:26.569Z
 publishedAt: 2023-06-22T21:47:26.569Z
 firstPublishedAt: 2023-04-26T19:50:54.254Z
 contentType: tutorial
@@ -49,7 +49,7 @@ To export data from the Master Data v1 through the Admin dashboard, follow these
 2. Click the **Applications** tab.
 3. Click the view icon (on the right) of the desired data entity.
 ![Master Data view button](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/security/store-security/data-subject-rights_1.png)
-4. Use the [Master Data v1 filter](/en/docs/tutorials/filtering-data-on-master-data) to filter only the data for the desired user. Use the `email` or `user ID` as the filter field.
+4. Use the [Master Data v1 filter](/en/docs/tutorials/filtering-data-on-master-data#how-to-use-filters) to filter only the data for the desired user. Use the `email` or `user ID` as the filter field.
 5. Click `Export XLS`.
 6. Select the `Select all fields` option.
 7. If you want, change the email address to which you want to send the report.
@@ -57,7 +57,7 @@ To export data from the Master Data v1 through the Admin dashboard, follow these
 
 Repeat this step for customer data (**CL**) and address (**AD**) entities and any other entity you have configured to get personal information from your customers.
 
-> ℹ️ Learn more about [filtering data](/en/docs/tutorials/filtering-data-on-master-data) and [exporting data](/en/docs/tutorials/exporting-data) in the Master Data v1 interface.
+> ℹ️ Learn more about [filtering data](/en/docs/tutorials/filtering-data-on-master-data#how-to-use-filters) and [exporting data](/en/docs/tutorials/exporting-data) in the Master Data v1 interface.
 
 #### Master Data v2
 
@@ -89,13 +89,9 @@ Your customers can exercise their right to consent and rectify personal data usi
 
 ## Consent
 
-> ℹ️ The guidance below reflects common practices adopted by VTEX stores, but it does not replace a legal analysis of the legal basis applicable to your operation.
-
 The consent right allows your customers to state their agreement, often indicated by an opt-in checkbox, to how their data is processed and for what purposes.
 
-Consent is one of the legal bases provided for personal data processing, but it isn't the only one applicable to every situation. For purposes such as fulfilling an order (name, address, payment method) or issuing an invoice (tax ID, purchased items), other legal bases such as contract performance or compliance with a legal obligation may apply, depending on the analysis of your operation.
-
-Even so, consent is often adopted as a best practice for some store features, described below. We recommend that you evaluate, with legal support, the most appropriate legal basis for each data processing purpose in your store.
+Consent is not required in all situations. Explicit consent is not necessary if you use minimal information to complete an order (name, address, credit card) or issue an invoice (ID, items purchased). However, it is required for certain options that customers have in your store. See below for more details on these options and how to configure them, if necessary.
 
 ### Newsletter subscription
 
@@ -109,7 +105,7 @@ In case you need to [adjust the subscription status of a particular customer](ht
 
 The VTEX platform allows you to [set up abandoned cart automation](/en/docs/tutorials/setting-up-abandoned-carts). With this feature, you can configure automatic emailing to customers who have visited your store, added products to their cart, and ended the session without making a purchase.
 
-As a best practice, we recommend [setting up your abandoned cart automation](http://help.vtex.com/en/docs/tutorials/setting-up-abandoned-carts) to send emails only to [store newsletter subscribers](#newsletter-subscription), meaning customers who have the `isNewsletterOptIn` field set to `true` in the **CL** entity of the [Master Data v1](http://help.vtex.com/en/docs/tutorials/master-data). This setting helps align this communication with a consent practice, but we recommend evaluating with your legal team the most appropriate legal basis for this purpose in your operation.
+To ensure that you comply with the right to consent for this specific purpose, you should [set up your abandoned cart automation](/en/docs/tutorials/setting-up-abandoned-carts) to send emails only to [store newsletter subscribers](#newsletter-subscription). Customers subscribed to the newsletter have the `isNewsletterOptIn` field set to `true` in the **CL** entity of the [Master Data v1](/en/docs/tutorials/master-data).
 
 ### Notify me
 

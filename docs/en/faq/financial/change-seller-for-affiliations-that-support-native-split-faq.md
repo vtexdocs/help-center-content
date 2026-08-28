@@ -47,7 +47,7 @@ When the payment is settled, the system will send information about recipients a
 
 ### Is it possible to change the seller in affiliations with split for all payment methods?
 
-No. Split payments support the change seller feature only when made with one or two credit cards. This is because most of the payment providers settle the value immediately for payment methods such as “boleto” (a popular Brazilian offline payment method) or debit card. Therefore, we cannot offer a time window to change sellers in this case. 
+No. Split payments support the change seller feature only when made with one or two credit cards. This is because most of the payment providers settle the value immediately for payment methods such as “boleto” (popular Brazilian off-line payment method) or debit card. Therefore, we cannot offer a time window to change sellers in this case. 
 
 > ⚠️ If you make an attempt to change sellers with payment methods other than credit card, you will receive the following API call error message: "Error when updating additional data for transaction = 722726D8B04C4AAFB1EC945076FD2913. Payout split was already done".
 
@@ -57,7 +57,7 @@ Yes, you can issue partial and full refunds.
 
 ### What happens if the seller change results in an increase or decrease in the product and/or shipping cost?
 
-The amount charged to the final customer will remain the same. Therefore, the split payment will consider the original value and apply the commission and receivable division rules to this value.
+The value settled from the final customer will remain the same. Therefore, the split payment will consider the original value and apply the commission and receivable division rules to this value.
 
 For cases where the new seller has a higher price than the original seller’s, our change seller solution has a safety mechanism. This feature allows changing the seller only if the total cost difference (products + shipping) does not exceed a total of BRL 0.30.
 
@@ -84,8 +84,8 @@ See the receivables __distribution calculation__ of this case below:
 
 | Receiver     | Calculation     | Total     |
 | ---------- | ---------- | ---------- |
-| Marketplace Coinshop      | Commission x Product price = 10%(0,2%)       | 0,002 (illustrative only)       |
-| Partner 02       | Order's final price - Commission = 5,02-0,002       | 5,018 (illustrative only)       |
+| Marketplace Coinshop      | Comission x Product price = 10%(0,2%)       | 0,002 (illustrative only)       |
+| Partner 02       | Order's final price - Comission = 5,02-0,002       | 5,018 (illustrative only)       |
 
 Therefore, even though the price advertised by the seller Partner02 was BRL 0.30 — which combined with the shipping cost should make a total of BRL 5.30 — the amount divided was BRL 5.02.
 
@@ -101,8 +101,8 @@ The distribution of the receivables would be calculated as follows:
 
 | Receiver     | Calculation     | Total     |
 | ---------- | ---------- | ---------- |
-| Marketplace Coinshop       | Commission x Product price = 10%(0,60)        | 0,60 (illustrative only)      |
-| Japacoin       | Order's final price - Commission = 0,60-0,06      | 0,54 (illustrative only)       |
+| Marketplace Coinshop       | Comission x Product price = 10%(0,60)        | 0,60 (illustrative only)      |
+| Japacoin       | Order's final price - Comission = 0,60-0,06      | 0,54 (illustrative only)       |
 
 Even though the price advertised by the seller Japacoin was BRL 0.04, the amount divided was BRL 0.60.
 

@@ -18,7 +18,7 @@ If you think a product is being displayed in the wrong category, there are a few
 
 ## API Verification
 
-The first step is to perform a GET request to the Catalog API's [Get Product by ID](https://developers.vtex.com/vtex-rest-api/reference/catalog-api-get-product) endpoint.
+The first step is to perform a GET request to Catalog API's [Get Product by Id API](https://developers.vtex.com/vtex-rest-api/reference/catalog-api-get-product) endpoint.
 
 The response of this call brings the information of `DepartmentId` and `CategoryId`, as we may see in the image below:
 
@@ -32,10 +32,10 @@ Then you should compare this response to the Ids that appear in your category tr
 
 Ready! Now just compare the values and check if the data matches. 
 
-If the product is in the wrong category, change the product category. [Click here](/en/tutorial/registering-a-product) to learn how to register the product's category.
+If the product is in the wrong category, simply change the category product. [Click here](/en/tutorial/registering-a-product) to learn how to register the product's category.
 
 ## Similar Category
 
-At VTEX, you may register products in similar categories. With that, products that have similar categories will be displayed in the shop windows of those category pages.
+At VTEX, you may register products in similar categories. With that, products that have similar categories will be displayed in the shop windows of those categories pages.
 
 This may cause the impression that the product is being displayed in the wrong category. To check if your product has a similar category, visit our article on [how to set up similar categories](/en/docs/tutorials/setting-up-similar-categories).

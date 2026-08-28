@@ -153,7 +153,7 @@ Connectors that support idempotency typically show the following operational cha
 
 - When a merchant or acquirer reports a transactional issue, idempotence ensures that logs and responses are consistent and predictable.
 
-- The number of unnecessary calls to the provider is reduced. If the payment has already been processed, the connector can return the previously recorded response, avoiding the need for a new request to the acquirer.
+- The number of unnecessary calls to the provider is reduced. If the payment has already been processed, the connector can simply return the previously recorded response, avoiding the need for a new request to the acquirer.
 
 #### Implementing idempotency
 

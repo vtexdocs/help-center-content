@@ -40,6 +40,6 @@ By automatically installing the feature in stores, we have increased the number 
 ## What needs to be done?
 To use the Marketplace Network, you need to create a profile for your business, in order to be found by potential partners. To do so, log in to your VTEX Admin and go to  *Marketplace > Marketplace Network > Store Profile*. 
 
-Once you've registered, navigate the *Find Sellers* and *Find Marketplaces* tabs to find and contact potential partners. 
+Once you've registered, simply navigate the *Find Sellers* and *Find Marketplaces* tabs to find and contact potential partners. 
 
 Learn more in our documentation on the [Marketplace Network](/en/docs/tutorials/marketplaces-and-integrations). 

@@ -16,7 +16,7 @@ legacySlug: why-am-i-unable-to-change-product-information-on-the-marketplace
 
 The process for approving a product and SKU on the marketplace involves the evaluation and adjustment of all data pertaining to these items, such as name, reference code, product fields, SKU fields etc.
 
-Thus, when a product and its SKUs are accepted and integrated into the catalog of a marketplace, this product then belongs to that marketplace, and no longer to the seller. This means that some marketplaces will not process further changes made to the product, since these products have already been adapted to the marketplace’s catalog.
+Thus, when a product and its SKUs are accepted and integrated into the catalog of a marketplace, this product then belongs to that marketplace, and no longer to the seller. This means that some marketplaces will not process further changes made to the product, since these products have already been adapted to your store.
 
 This is because changes to all checked, changed and accepted data can no longer be made directly by the seller – as this product now belongs to the marketplace. Therefore, the recommended solution is communicating with the marketplace to implement these changes directly on the marketplace.
 Exceptions:

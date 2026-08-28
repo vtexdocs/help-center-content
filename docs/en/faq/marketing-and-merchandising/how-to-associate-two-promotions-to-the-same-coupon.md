@@ -1,5 +1,5 @@
 ---
-title: 'How to associate two promotions with the same coupon'
+title: 'How to associate two promotions to the same coupon'
 id: 4xz45k6idaMF9nzTqOL9ik
 status: PUBLISHED
 createdAt: 2019-02-22T15:33:19.922Z
@@ -14,9 +14,9 @@ locale: en
 legacySlug: how-to-sync-two-benefits-to-the-same-coupon
 ---
 
-When necessary, you can create a discount [coupon](/en/tutorial/creating-a-coupon) for the same amount as the total purchase. With this, the customer can make a new order without paying anything more for it.
+When necessary, you can create a discount [coupon](/en/tutorial/creating-a-coupon) with the same amount of the total purchase. With this, the customer can make a new order without paying anything more for it.
 
-Most commonly, this value covers two amounts: the product's nominal price and the shipping.
+The most common is that this value is relative to two amounts: the product's nominal price and the shipping.
 
 Because of this, you need to create two [regular promotions](/en/docs/tutorials/regular-promotion) related to the same coupon:
 

@@ -1,5 +1,5 @@
 ---
-title: 'I cannot edit SKUs. What should I do?'
+title: 'I can not edit SKUs. What to do?'
 id: kcHp9ealgWmmyuMCso2uc
 status: PUBLISHED
 createdAt: 2018-01-22T16:31:52.753Z
@@ -17,7 +17,7 @@ legacySlug: i-cannot-edit-skus
 If you're having trouble editing your SKUs, it's possible that one of the following scenarios is occurring:
 
 1. Some product or SKU field has been populated with invalid values.
-2. Some mandatory data is missing from the SKU registration.
+2. Any mandatory data is missing from the SKU registration.
 3. The product has reached the limit of registered SKUs.
 
 In these scenarios, it is common to see the following error message: `Error connecting to the backend server`.

@@ -28,7 +28,7 @@ The tasks are listed in two tabs:
 
 The number displayed next to the tab titles corresponds to the tasks in each category ("All" and "Mine"), which includes open and closed tasks. Scrolling the bar in each tab loads new tasks in the list.
 
-To exit VTEX DO, click the `X` icon or anywhere on the Order Listing page, outside the modal.
+To exit VTEX DO, simply click the `X` icon or anywhere on the Order Listing page, outside the modal.
 
 ## Searching and filtering tasks
 

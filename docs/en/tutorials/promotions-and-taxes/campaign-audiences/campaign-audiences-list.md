@@ -31,7 +31,7 @@ On this page, you can perform the following actions:
 
 To create a Campaign audience, in *Promotions > Campaign audience*, you must click the `New Campaign Audience` button and follow the steps described in the article [Creating a Campaign Audience](/en/docs/tutorials/creating-a-campaign-audience).
 
-> ⚠️ To activate the newly created campaign audience, you must associate it with a [Campaign promotion](/en/docs/tutorials/campaign-promotion).
+> ⚠️ To activate the newly created campaign audience, you must associate it to a [Campaign promotion](/en/docs/tutorials/campaign-promotion).
 
 ### Viewing campaign audiences
 
@@ -44,7 +44,7 @@ The campaign audiences are displayed in _cards_ containing the following informa
 * **Status:** Current availability status of the campaign audience.
     * **Active:** The campaign audience is available to use in your store's promotion campaigns, i.e. it is not archived.
     * **Inactive:** The campaign audience is not available to use in your store's promotion campaigns. This status is not permanent — you can reactivate a campaign audience at any time.
-* **Target audience:** Name of the [target audience](/en/docs/tutorials/campaign-audiences#target-audience) associated with the campaign audience.
+* **Target audience:** Name of the [target audience](/en/docs/tutorials/campaign-audiences#target-audience) associated to the campaign audience.
 
 To view the [archived](#archiving-a-campaign-audience) campaign audiences, next to the **Show** option, click **Archived**, as illustrated below:
 
@@ -54,9 +54,9 @@ To return to the campaign audiences which have not been archived, click **Not Ar
 
 ### Searching for a campaign audience
 
-If you need to check or change the settings for a particular campaign audience, you can find it using the search bar. To do so, type the campaign audience name, description, or target audience in the search bar.
+If you need to check or change the settings for a particular campaign audience, you can find it using the search bar. To do so, type in the search bar the campaign audience name, description or target audience.
 
-On the **Not Archived** tab, the search results display **Active** or **Inactive** campaign audiences which have not been archived. On the **Archived** tab, the search results display **Inactive** and archived campaign audiences.
+On the **Not Archived** tab, the search results display **Active** or **Inactive** campaign audiences which have not been archived. On the **Archived** tab, the search results display **Inactive** and archived campaigns.
 
 ### Archiving a campaign audience
 
@@ -68,12 +68,12 @@ You can archive campaign audiences which are no longer in use. By doing so, the 
 
 ### Editing a campaign audience
 
-To change any campaign audience settings, follow the steps below:
+To change any campaign settings, follow the steps below:
 
 1. In the VTEX Admin, in *Promotions > Campaign audience*, search for the campaign audience you want to change.
 2. Click on the card of the desired Campaign audience.
 3. Make the necessary changes on the campaign audience editing page. For more information on each of the available fields, please read the article Creating a Campaign Audience.
-4. If you made any changes to the target audience, click `Update`.
+4. If you made any changes to the target audience, click `Update.`
 5. Click `Save`.
 
 ## Learn more

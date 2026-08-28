@@ -46,7 +46,7 @@ The **Other** route is a standard route, which exists to the case the analyzed v
 
 Decision rules are a set of rules that we use to create routes, that is, parameters that will be checked to decide whether or not a contact should go through that path.
 
-To use a decision rule, select the rule type, then enter the value for comparison and finally define the category / name of the route to which this rule belongs. Each different category name will generate a new route with the same name. If you create more than one rule, but name it with the same category, all rules will point to the route with that name.
+To use a decision rule, simply select the rule type, then enter the value for comparison and finally define the category / name of the route to which this rule belongs. Each different category name will generate a new route with the same name. If you create more than one rule, but name it with the same category, all rules will point to the route with that name.
 
 The rules are tested by the platform in a stack form, from top to bottom. If you have more specific rules, but which can be encompassed by more generic options, it is important that you place your specific rules at the top and the most generic ones at the bottom of the list.
 
@@ -159,7 +159,7 @@ You can create several greeting and goodbye messages that will be different with
 
 ## Split by group membership
 
-Creates routes from groups in which the contact participates. To do this, select one of the contact groups existing in the organization.
+Creates routes from groups in which the contact participates. To do this, simply select one of the contact groups existing in the organization.
 
 It can be used to limit the access of certain groups to specific parts of flows.
 

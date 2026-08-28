@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-There are four ways to understand which promotions are being applied to the cart. Check out the following sections to understand them:
+There are three ways to understand which promotions are being applied to the cart. Check out the following sections to understand them:
 
 * [Orders management](#orders-management)
 * [Cart](#cart)
@@ -52,7 +52,7 @@ On the cart page, you can check the `orderForm`, which is a file in JSON format 
 
 Follow the step-by-step instructions to find the `orderForm` and identify the promotions applied:
 
-1. On the cart page, right-click the screen, and then click **Inspect**. Another option is to directly access **Developer Tools** using the `Ctrl+Shift+I` shortcut.
+1. At the cart, click the right button of the mouse on the screen, and then on **Inspect**. Another option is to directly access **Developer Tools** using the `Ctrl+Shift+I` shortcut.
 2. Click on `Network`.
 3. Check the **Preserve log** option.
 4. Reload the page.

@@ -69,4 +69,4 @@ After filling in the spreadsheet, access the Wish app, in admin, under Marketpla
   1. Click on "Load Spreadsheet";
   2. Choose the spreadsheet containing the data and click on "Send file".
   
-Having completed this step, save the integration and your products will be sent. 
+Having completed this step, simply save the integration and your products will be sent. 

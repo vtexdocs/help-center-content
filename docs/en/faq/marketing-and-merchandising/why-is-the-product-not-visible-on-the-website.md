@@ -64,7 +64,7 @@ To check the product settings, you must follow the steps below.
    > ⚠️ When adding a new product, you must associate it with a brand and a category that are active before it can be activated for the first time. However, once a product has been added and is active, deactivating the category and brand will not deactivate it completely. Products with inactive categories and brands become invisible in the store, which means they are not displayed in the search results and do not have their own pages. To make them unavailable, you must reset their quantity in stock to zero.
 
     * **Sales channels:** Check if the product is associated with a [sales channel](/en/docs/tutorials/how-trade-policies-work). If it's not, use the selection box to choose the sales channel with which you want to associate it.
-    * **Market launch date:** Check if the date for the product launch on market is correct. If the date is set in the future, the product will only be displayed on the website on the mentioned date.
+    * **Market launch date:** Check if the date for the product launch on market is correct. If the date is set in the future, the product will only be displayed on the website at the mentioned date.
     * **Show on site:** Check if the **Yes** option is selected. Otherwise, the product will not be displayed on the website.
     * **Product active:** Check if the **Yes** option is selected. Otherwise, the product will not be displayed.
     * **Show out of stock:** Check if the **Yes** option is selected — in this case, the expected behavior is that out-of-stock products will be shown in the store featuring a [Notify me](/en/docs/tutorials/setting-up-the-notify-me-option) button. If this option is not enabled, the product may not be displayed in the store because it is not available in stock.
@@ -92,7 +92,7 @@ On the SKUs page, in **Products > Catalog > Products and SKUs**, follow the inst
     | ![06-botao-indexed-info](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_6.png) | Allows you to view each **Seller** selling the SKU, the sales channel (**Policy**), the price (**Value**) and the SKU quantity in inventory (**Quantity**). |
 
 2. On the row displaying the product with the SKU you want to verify, click the down arrow <i class="fas fa-caret-down"></i>, next to the `Update` button.
-3. Click the **SKU** option to access the detailed SKU list.
+3. Click the **SKU** option to access the SKUs detailed list.
 4. In the **Status** column, check if the indicated situation is `Active`. If the SKUs are active, go to step 7.
 5. If a SKU appears as `Inactive`, click `Update` to view the SKU detailed information.
 
@@ -119,11 +119,11 @@ On the SKUs page, in **Products > Catalog > Products and SKUs**, follow the inst
 
 For a product to be displayed on the website, it needs to be [indexed](/en/docs/tutorials/understanding-how-indexation-works). The **Catalog** indexer allows you to view detailed information about each product and SKU indexing, following the steps below.
 
-1. In **Products > Catalog > Products and SKUs**, find the SKU you want to investigate in the list.
+1. In **Products > Catalog > Products and SKUs**, find in the list the SKU you want to investigate.
 2. On the row of the desired SKU, click the down arrow  <i class="fa-solid fa-sort-down"></i> next to the `Edit` button.
 3. Click the **Indexed info** option to check information on the product indexing.
 
-The indexing list displays each product SKU status. If any issue is detected, the index indicates `SKU is UNAVAILABLE` and mentions the cause of the error.
+The indexing list displays each product SKU status. If any issue is detected, the index indicates `SKU is UNAVAILABLE` and mentions the cause of error.
 
 In the example below, you can conclude that the SKU is unavailable because there are no items in stock:
 
@@ -143,7 +143,7 @@ In the **Prices** module, it's important to verify if your product SKU contains 
 
 1. Access **Products > Prices > Price list**.
 2. Check each SKU row and the column corresponding to the desired sales channel.
-    * If a price is displayed, the issue is not in the **Prices** module, so you can skip the next steps in this section.
+    * If a price is displayed, the issue is not in the **Prices** module, so you can jump the next steps in this section.
     * But if the displayed information is _No price yet_, this means that you must [create a base price](#creating-a-base-price).
 
 In the example illustrated below, there are two SKUs without a base price. This is why there is no calculated price in the sales channel column — only the information _No price yet_ is displayed.
@@ -154,13 +154,13 @@ In the example illustrated below, there are two SKUs without a base price. This 
 
 To create a base price in the VTEX Admin, follow the steps below:
 
-1. In **Products > Prices > Price list**, click the row of the desired SKU, in the first column. A sidebar will be displayed.
+1. In **Products > Prices > Price list**, click the row of the desired SKU, in the first column. A side bar will be displayed.
 2. In the **Cost price** field, fill in the SKU cost.
 3. In the **Initial markup** field, fill in the profit percentage you will obtain from selling the SKU.
 
     The base price will be automatically calculated based on the data provided in the previous steps.
 
-4. Click `X`, or click outside the sidebar, to save the price.
+4. Click `X` or in the area outside the side bar to save the price.
 
 You can also create base prices using a spreadsheet or the Pricing API. For more information, please see the steps described in the article [Adding a base price](/en/docs/tracks/cadastrar-preco-base).
 
@@ -210,7 +210,7 @@ Regardless of which CMS your store uses — Legacy Portal or VTEX IO — you mus
 3. Click the **Sites and channels** folder.
 4. Check the color of the icon <i class="fas fa-globe-americas"></i> displayed next to your website's name.
 
-    If the icon is blue, it means the binding is correct; you don’t need to do anything.
+    If the icon is blue, it means the binding is correct, you don’t need to do anything.
 
     If the icon is yellow, there is an error in the binding. In this case, you must follow the steps in the article [Website with error: how to fix it?](/en/faq/website-com-erro-como-ajustar) to correct the error.
 
@@ -242,7 +242,7 @@ Follow the steps below to check the template your page is using.
 
 For stores developed with VTEX IO, you need to check the following items in [your store theme](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-6-buildingyourownstoretheme) files.
 
-* Check if the product page (`product.jsonc`) is declared with all the blocks required for it to function correctly — [`product-images`](https://developers.vtex.com/docs/apps/vtex.store-components/productimages?_ga=2.124137738.1894771692.1651492195-816806259.1637870241), [`product-price`](https://developers.vtex.com/docs/apps/vtex.product-price), [`product-name`](https://developers.vtex.com/docs/apps/vtex.store-components/productname) and [`buy-button`](https://developers.vtex.com/docs/apps/vtex.store-components/buybutton) — as described on the [Product page](https://learn.vtex.com/docs/course-basic-blocks-step04pdp-lang-en). 
+* Check if the product page (`product.jsonc`) is declared with all the necessary blocks for a correct functioning — [`product-images`](https://developers.vtex.com/docs/apps/vtex.store-components/productimages?_ga=2.124137738.1894771692.1651492195-816806259.1637870241), [`product-price`](https://developers.vtex.com/docs/apps/vtex.product-price), [`product-name`](https://developers.vtex.com/docs/apps/vtex.store-components/productname) and [`buy-button`](https://developers.vtex.com/docs/apps/vtex.store-components/buybutton) — as described on the [Product page](https://learn.vtex.com/docs/course-basic-blocks-step04pdp-lang-en). 
 * Check if the [Search Result](https://developers.vtex.com/docs/apps/vtex.search-result) app and its `search-result-layout` block are properly declared in the template code, as indicated in the Search Result documentation.
 
 ## Learn more

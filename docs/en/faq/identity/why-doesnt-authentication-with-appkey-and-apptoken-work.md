@@ -1,5 +1,5 @@
 ---
-title: "Why doesn't authentication with appkey and apptoken work?"
+title: "Why authentication with appkey and apptoken doesn't work?"
 id: 3oReWVLDgLjXoKsMrUSy4m
 status: PUBLISHED
 createdAt: 2019-03-12T21:06:30.165Z
@@ -28,7 +28,7 @@ One of the reasons for integration errors can be a lack of association of the cr
 
 ## Mistyping
 
-Both keys should be filled out in their respective fields, without spaces and respecting case sensitivity. One small typing error can prevent an integration from working properly.
+Both keys should be filled out in their respective fields, without spacing and by respecting the __case sensitivity__. One small error while typing can impede the well-functioning of an integration.
 
 Check for possible errors by accessing __Account Management__ and __[Users](/en/docs/tutorials/managing-admin-users)__.
 

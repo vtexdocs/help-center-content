@@ -14,7 +14,7 @@ locale: en
 legacySlug: why-am-i-unable-to-include-the-promotion-seal-on-the-marketplace
 ---
 
-The promotion seal is a flag that appears at the front end of the store. For this flag to appear, there needs to be a tag in the HTML that is read by the CSS for display.
+The promotion seal is a flag that appears at the front end of the store. For this flag to appear, there needs to be a tag on the HTML which is read by the CSS for display.
 
 In other words, this configuration is only valid for the VTEX store, since the configuration depends on the store front and not on the integration of products and prices.
 

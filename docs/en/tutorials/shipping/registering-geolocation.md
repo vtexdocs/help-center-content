@@ -70,7 +70,7 @@ Please also enable all Google Cloud Platform APIs to ensure that the key works:
 
 ## How to edit a polygon
 
-If you need to change some delivery area of a polygon that already exists, you can edit the polygon as as you created it.
+If you need to change some delivery area of a polygon that already exists, you can edit the polygon as simply as you created it.
 
 1. In the VTEX Admin, go to **Store settings > Shipping > Geolocation shipping**, or type *Geolocation* in the search bar at the top of the page.    
 2. Click to **Edit** the desired polygon.

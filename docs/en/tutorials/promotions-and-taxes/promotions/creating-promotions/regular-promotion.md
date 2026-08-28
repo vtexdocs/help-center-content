@@ -41,7 +41,7 @@ To create the promotion in the VTEX Admin, follow the steps below:
 |  **Status** | Defines whether the promotion will be **Active** or **Inactive**. Active <i class="fas fa-toggle-on" aria-hidden="true"></i> applies the promotion based on the configured dates and times. Inactive <i class="fas fa-toggle-off" aria-hidden="true"></i> pauses it, even within the defined period. |
 |  **Description** | Sets the promotion objective, such as the campaign type or seasonality.  The limit is 10,000 characters. |
 |  **Start date and time** | Sets the exact date and time to activate the promotion automatically. |
-|  **End date and time** | Sets the exact date and time the promotion should end. After that, the campaign will be automatically deactivated. The end date and time must be later than the start date and time. |
+|  **End date and time** | Sets the exact date and time the promotion should end. After that, the campaign will be automatically deactivated. The end date must be greater than the start date and time. |
 |  **Use recurrence     settings** | Select this option to repeat the promotion on specific days and times automatically. This allows setting up seasonal actions for specific days and times. Once activated, configure the recurrence days and times following the campaign parameters. |
 
 ### Defining sellers
@@ -132,7 +132,7 @@ In this section, you define the conditions that must be met for the promotion to
   - **At least one of the following:** Applies the promotion if at least one of the cluster conditions is met.  
 
 - **Shipping location:** Applies the promotion based on the shipping address associated with the order. Conditions can be configured using the following criteria:  
-  - **Countries:** Allows selecting the shipping countries where the promotion will apply. You can add up to 50 countries to the list. The promotion will only apply to orders with shipping associated with the configured countries.  
+  - **Countries:** Allows selecting the shipping countries where the promotion will apply. You can add up to 50 countries to the list. The promotion will only apply to orders with shipping associated to the configured countries.  
   - **Postal codes:** Configures postal code ranges to limit the promotion to specific regions.      - **Choose Include or Exclude:** Defines whether the promotion will apply to the configured ranges (Include) or to the excluded values (Exclude).  
     - **Configure the postal code ranges:** Complete the "from" and "to" fields with the desired postal codes.  
     - **Add multiple ranges:** Use the *Add range* option to include multiple postal code ranges, following the campaign criteria.  
@@ -143,7 +143,7 @@ In this section, you define the conditions that must be met for the promotion to
 
 - **Number of installments:** Applies the promotion only if the number of installments is within the configured range.  
   - **Minimum no. of installments:** Sets the minimum number of installments required for the promotion to be valid.  
-  - **Maximum no. of installments:** Defines the maximum number of installments allowed. The promotion will apply only if the number of installments for the order is equal to or less than the defined value.  
+  - **Maximum no. of installments:** Defines the maximum number of installments allowed. The promotion will apply only if the order number of installments is equal to or less than the defined value.  
 
 > ℹ️ This condition doesn't apply to payments via boleto, gift card, or orders using multiple payment methods.
 
@@ -151,8 +151,8 @@ In this section, you define the conditions that must be met for the promotion to
 
 Set the following parameters if necessary:  
 
-- **UTM source:** Applies the discount when the customer navigates using the configured `utm_source` parameter.  
-- **UTM campaign:** Applies the discount when the customer navigates using the configured `utm_campaign` parameter.  
+- **UTM source:** Applies the discount when browsing occurs through the configured `utm_source` parameter.  
+- **UTM campaign:** Applies the discount when browsing occurs through the configured `utm_campaign` parameter.  
 - **Create coupon from the UTM parameters above:** Generates a coupon based on the UTM parameters entered in the `UTM source` and `UTM campaign` fields.  
 - **utmi_cp:** The discount will apply only if the navigation includes the `utmi_cp` parameter with its configured value. For more information, see the article [What are the internal UTMs utmi_cp, utmi_pc, and utmi_p]().  
 - **View linked coupons:** Allows viewing coupons already associated with the defined UTM parameters.  
@@ -161,7 +161,7 @@ Set the following parameters if necessary:
 
 Use this section to limit how many times the promotion can be applied in the store or per customer.  
 
-- **Limit the use of in-store promotions:** Sets the maximum number of times the promotion can be used across the store.  
+- **Limit the use of in-store promotions:** Sets the maximum number of promotion usage across the store.  
 - **Limit promotion usage per customer:** Restricts how many times each customer can use the promotion.  
 - **Limit the number of eligible items:** Allows setting a maximum number of items per order that can receive the discount. The behavior of this setting varies depending on the option selected in the "Customer gets" section.  
   - For the **Fixed amount**, **Fixed amount: formula**, and **Maximum price per item** conditions, the limit applies to the total items in the cart.  
@@ -178,6 +178,6 @@ Define whether the promotion can be combined with other promotions or manually a
 
 Use this section to visually highlight the promotion on products displayed on the store's product listing page.  
 
-- **Highlight promotion on products:** Displays a promotional badge on products affected by the promotion. For the highlight to work properly, you need to [configure how the highlight is displayed in the store's CMS module](/en/docs/tutorials/configuring-promotions-with-a-highlightflag).  
+- **Highlight promotion on products:** Displays a promotional badge on products affected by the promotion. For the highlight to work properly, you need to [configure visualization in the store's CMS module](/en/docs/tutorials/configuring-promotions-with-a-highlightflag).  
 - **Additional information:** Click `Create` to add custom fields with name and value, which can be used for store customizations.  
 

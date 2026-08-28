@@ -23,7 +23,7 @@ Promotion competition occurs when:
 - More than one promotion is applied to the same item.  
 - These promotions aren't [configured](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restricoes-e-limitacoes-de-uso) to allow combination.
 
-Learn more about some concepts of the Promotions module to understand how the selection of the promotion that will be applied works.  
+Learn more about some concepts of the Promotions module to understand how the promotion selection that will be applied works.  
 
 - [Promotion effects](#promotion-effects)  
 - [Promotion sorting rule](#promotion-sorting-rule)  
@@ -262,7 +262,7 @@ In this scenario, the order total would be **$546.25**.
     - Price before Promotion C (not affected by Promotion B): $500.  
     - Applying Promotion C (5%): $500 × (1 − 0.05) = $500 × 0.95 = **$475**.  
 
-- **Order total in scenario 2**  
+- **Order total in scenario 1**  
   - Final price of the t-shirt: **$71.25**  
   - Final price of the shoes: **$475.00**  
   - **Order total: $71.25 + $475.00 = $546.25**

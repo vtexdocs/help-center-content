@@ -28,7 +28,7 @@ If any of these attributes is wrongly entered (for example, if you attribute a c
 
 In this case, we have examples of two errors in the same message.
 
-The first indicates that an attribute whose code begins with the number `113000` is needed for the category selected and was not entered in the mapping worksheet. Look at the following worksheet:
+he first indicates that an attribute whose code begins with the number `113000` is needed for the category selected and was not entered in the mapping worksheet. Look at the following worksheet:
 
 ![Shot2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/channels/why-does-mercado-livre-return-attribution-errors-after-mapping_2.png)
 
@@ -38,7 +38,7 @@ The second error indicates that the attribute with a code beginning with the num
 
 The codes for each variation of an attribute start with the same number. For example, all the codes for **Cor principal** (primary color) start with 33000 and are in the following format: 33000_Amarelo_52007. The codes for **Cor secundária** (secondary color) start with 43000. Examples: 43000_Azul claro_52093 and 43000_Rosa_52058.
 
-To identify the attribute indicated in an error message, see the starting number of the code defined by Mercado Livre. Click on the name of your country to download the reference worksheet:
+To identify the attribute indicated in an error message, see the code start number defined by the Mercado Livre. Click on the name of your country to download the reference worksheet:
 
 - [Brazil](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/en/faq/channels/Brasil.zip)
 - [Argentina](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/en/faq/channels/Argentina.rar)

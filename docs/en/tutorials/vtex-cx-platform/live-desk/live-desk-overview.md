@@ -43,7 +43,7 @@ Quick replies allow you to register message templates for agile use during suppo
 You can use quick replies in two ways:
 
 - Open the panel by clicking the quick replies button, then click the desired message.
-- When registering the message, define a keyword as a shortcut. To use it, type `/` followed by the shortcut.
+- When registering the message, define a keyword as a shortcut. To use it, simply type `/` followed by the shortcut.
 
 You can navigate through messages with the keyboard arrows and press `Enter` to use the message. When you type the shortcut text, the tool also performs a specific search.
 

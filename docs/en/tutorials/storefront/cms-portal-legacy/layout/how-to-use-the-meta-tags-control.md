@@ -33,7 +33,7 @@ When this brand's page is loaded, it will contain this information in the `title
 
 For the __home page__ and the __search page__, the tag `meta name="description"` is populated with the information in the site's SEO section. To access this section, go to __Store Settings__>__Storefront__>__Settings__>__General__, and then the __SEO__ option.
 
-You can also set the `title` tag of the __home page__ via Admin, go to __Store Settings__>__Storefront__>__Settings__>__General__ and fill in the __Home Page title (Tag Title)__.
+You can also set the `title` tag of the __home page__ via Admin, simply go to __Store Settings__>__Storefront__>__Settings__>__General__ and fill in the __Home Page title (Tag Title)__.
 
 See an example of meta tags inserted by the `<vtex:metaTags/>` control for the page of the category "Climbing" of the store of account name "lojadobreno" below:
 

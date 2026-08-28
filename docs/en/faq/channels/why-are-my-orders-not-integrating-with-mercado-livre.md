@@ -31,14 +31,14 @@ From there onwards, you'll need to redo the integration process.
 
 Wait for about 15 minutes, then proceed with the following:
 
-8. Access the __integration registration__ page. Repeat the first five steps in this tutorial.
+8. Access the __integration registration__ page. Repeat the first five steps on this tutorial.
 9. Click on __activate__
 10. Click on __save configuration__
 
 Having done this, wait for 15 more minutes. The most important step of this process begins now:
 
 11. Access the Mercado Livre __panel__
-12. __Log in__ with the account you wish to integrate
+12. __Login__ with the account you wish to integrate
 13. Redo the __[authorization process](/en/docs/tracks/authorizing-mercado-livre-integration-in-vtex-panel)__
 14. __Save__ the configurations.
 

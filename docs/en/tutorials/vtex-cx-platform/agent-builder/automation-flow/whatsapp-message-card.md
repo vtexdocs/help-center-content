@@ -28,7 +28,7 @@ Choosing an interactive message provides an enhanced experience, allowing option
 ## Quick replies
 
 1. In the **header** , choose to send either **media** or **text**.
-2. If you select the text option for the header, write in the field next to it (header text).
+2. If you select the text option for the header, simply write in the field next to it (header text).
 3. If you select the media option for the header, use your media by uploading it from your device or pasting the URL. **Your media can be an image, video, PDF file, or audio.**
 
 4. Fill in the fields with **predefined messages** to speed up responses and provide a smoother, more efficient experience for users. At this stage, you can also **add a footer message**.

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
 ---
 
-The Campaign audience feature allows you to define the target audience for promotions. You can learn how to configure this feature in the article [Creating a campaign audience](/en/docs/tutorials/creating-a-campaign-audience).
+Campaign audience is a feature that allows you to define the target audience for promotions. You can learn how to configure this feature in the article[ Creating a campaign audience](/en/docs/tutorials/creating-a-campaign-audience).
 
 The feature consists of creating criteria for segmenting customers. Based on these criteria, the VTEX platform automatically validates whether customers are eligible for a particular campaign audience and, consequently, the associated [campaign promotions](/en/docs/tutorials/campaign-promotion).
 
@@ -25,11 +25,11 @@ For example: When creating a campaign audience for the fashion segment, you can 
 
 ## Target audience
 
-The target audience defines which users are eligible and under which conditions. If the campaign audience is active, the associated promotions are applied when the customer meets all the criteria defined for the target audience.
+The target audience segments the campaign audience's eligible users and conditions. If the campaign audience is active, the promotions associated with the campaign audience will be activated by meeting all the criteria defined for the target audience.
 
 ![campanha-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/campaign-audiences/campaign-audiences_1.png)
 
-When the campaign is active, eligible for the purchase context, and all its restrictions are met, that does not necessarily mean that all the campaign audience promotions associated with it will be applied. The restrictions defined in the [campaign promotion](/en/docs/tutorials/campaign-promotion) must also be met.
+When the campaign is activated, eligible for the purchase context and all its restrictions are met, it does not necessarily mean that all the campaign audience promotions associated with it will be applied. The restrictions defined in the[ campaign promotion](/en/docs/tutorials/campaign-promotion) must also be met.
 
 ## Learn more
 

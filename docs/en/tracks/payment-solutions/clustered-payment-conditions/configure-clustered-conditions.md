@@ -21,7 +21,7 @@ As mentioned, Clustered Payment Conditions establish that a payment condition wi
 
 Let’s take a look at how we should configure an exclusive payment condition for clusters.
 
-> ❗ You can only create five client clusters for each payment condition.  
+> ❗ **Warning**: you can only create five client clusters for each payment condition.  
 
 You can create a new payment condition by applying the clustering conditions. To do so, go to Admin > Payments > Settings > Payment Conditions.
 

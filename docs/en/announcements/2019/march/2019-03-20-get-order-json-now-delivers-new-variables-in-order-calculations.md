@@ -90,4 +90,4 @@ Another advantage is the possibility of having the calculation data made by the 
 
 It is critical to review the integrations that use the APIs Get Order, such as ERP, for example. Those who are not prepared to receive the new response must be adjusted before March 29, 2019.
 
-> ⚠️ For now, the change will occur only in the API. The Orders Management UI will not undergo any modification.
+Warning: for now, the change will occur only in the API. The Orders Management UI will not undergo any modification.

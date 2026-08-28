@@ -26,7 +26,7 @@ Only the following [regular promotions](/en/docs/tracks/creating-regular-promoti
 - Percentage price
 - Price tables
 
-The settings available for VTEX marketplaces are different from those of external marketplaces. Therefore, promotions in other marketplace environments are slightly different.
+The settings available for VTEX marketplaces are different from the ones of external marketplaces. Therefore, promotions in other marketplace environments are slightly different.
 
 ### Free and percentage shipping promotions
 
@@ -71,7 +71,7 @@ There are differences between the settings available for VTEX marketplaces and e
 | Applied to SKUs| The discount applies to the selected SKUs.| Yes| Yes|
 | Affiliates| The marketplace’s order identifier.  The discount applies to the selected affiliates.| Yes| Yes|
 | Sales channels| The discount applies to a sales channel list.| Yes| Yes|
-| Item price between| Sets the item price range for the promotion to apply.| Yes| Yes|
+| Item price between| Sets the sales channels applicable to the promotion.| Yes| Yes|
 
 ## Promotions unavailable for marketplaces
 

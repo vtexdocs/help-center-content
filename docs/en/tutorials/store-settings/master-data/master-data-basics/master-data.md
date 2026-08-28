@@ -295,7 +295,7 @@ Measurement and billing follow a monthly cycle:
 - At the end of each month, a snapshot of the number of documents stored in custom entities is generated.
 - By the 30th of each month, VTEX calculates the amounts related to Master Data usage and the applicable credits for the next invoice.
 
-> ⚠️ Deleting a data entity through the Master Data v1 interface **doesn't** remove the documents (records) already stored. The billed volume remains unchanged until the records are removed via the API. To delete documents and reduce billing, see the [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) guide on the developer portal.
+> ⚠️ Deleting a data entity through the Master Data v1 interface does not remove the documents (records) already stored. The billed volume remains unchanged until the records are removed via the API. To delete documents and reduce billing, see the [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) guide on the Developers Portal.
 
 > ℹ️ To track the number of documents in custom entities throughout the month, check the **Master Data usage** dashboard in the VTEX Admin. This dashboard is updated weekly and is intended only for usage tracking. To learn how to access it, see [Checking Master Data usage in the VTEX Admin](/docs/tutorials/checking-master-data-usage-in-the-vtex-admin).
 

@@ -21,7 +21,7 @@ A static group is where contacts need to be added or removed manually. For a con
 
 You can find the description of the flow charts for groups by clicking [here](/en/docs/tutorials/action-cards).
 
-To create a static group, navigate to the contacts page within the "**Studio**" module and click the **Create Group** button in the side menu.
+To create a static group, simply navigate to the contacts page within the "**Studio**" module and click the **Create Group** button in the side menu.
 
 After that, just choose the name of your group and create it by the pop-up that will appear.
 

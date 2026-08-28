@@ -1,5 +1,5 @@
 ---
-title: 'Información general de VTEX CX Platform'
+title: 'VTEX CX Platform: Visión de conjunto'
 createdAt: 2026-03-31T15:33:34.931Z
 updatedAt: 2026-08-11T00:00:00.000Z
 contentType: tutorial
@@ -10,36 +10,36 @@ locale: es
 
 > ℹ️ Para conocer VTEX CX Platform e implementarlo en tu negocio, [agenda una demostración](https://www.vtex.com/en-us/products/cx_platform/).
 
-**VTEX CX Platform** es la solución de comercio conversacional que permite crear agentes de inteligencia artificial (IA) autónomos para actuar en toda la jornada del cliente, desde el primer contacto hasta la posventa. Los agentes ejecutan acciones directamente en tu operación, como consultar el status de un pedido, aplicar promociones, finalizar la compra y recuperar carritos abandonados.
+**VTEX CX Platform** es la solución de commerce conversacional que te permite crear agentes de inteligencia artificial (IA) autónomos para actuar en todo el recorrido del cliente, desde el primer contacto hasta la posventa. Estos agentes ejecutan acciones directamente en tu operación, como consultar el estado de un pedido, aplicar promociones, finalizar la compra y recuperar carritos abandonados.
 
-La plataforma se conecta nativamente a tu operación de comercio, como pedidos, catálogo, checkout y promociones. Esto les da a los agentes acceso a datos en tiempo real y les permite resolver las solicitudes de los clientes de principio a fin en una sola conversación, en canales como WhatsApp, Shopping Assistant, voz, email y redes sociales.
+La plataforma se conecta de forma nativa a tu operación de commerce, como pedidos, catálogo, checkout y promociones. Esto da a los agentes acceso a datos en tiempo real y les permite resolver las solicitudes de los clientes de principio a fin en una sola conversación, en canales como WhatsApp, webchat, voz, email y redes sociales.
 
 ## Funcionalidades
 
-Algunas de las funcionalidades de **VTEX CX Platform** son:
+Conoce algunas de las funcionalidades de **VTEX CX Platform**:
 
-- Los **agentes autónomos** planifican y ejecutan tareas complejas, sin depender de flujos fijos y predefinidos.
-- El **concierge de productos** recomienda ítems con base en el catálogo, el stock y las promociones en tiempo real.
-- El **seguimiento de pedidos** informa el status en tiempo real mediante el acceso nativo al OMS.
-- Los **cambios, devoluciones y cancelaciones** se resuelven de principio a fin, sin intervención humana.
-- La **recuperación de carritos abandonados** recupera el engagement del cliente con contexto del producto y checkout directo en la conversación.
-- El **pago en el chat** finaliza la compra sin salir de la conversación, con Pix, crédito o débito.
-- Las **campañas conversacionales** promueven la reactivación, la reposición de stock y el upsell mediante mensajes con plantillas aprobadas.
-- El módulo **Analytics** ofrece datos y métricas sobre los chats de soporte y los resultados de la operación.
+- **Agentes autónomos** planifican y ejecutan tareas complejas sin depender de flujos fijos y predefinidos.
+- **Concierge de productos** recomienda ítems con base en el catálogo, el stock y las promociones en tiempo real.
+- **Seguimiento de pedidos** informa el estado en tiempo real mediante el acceso nativo al OMS.
+- **Cambios, devoluciones y cancelaciones** se resuelven de principio a fin sin intervención humana.
+- **Recuperación de carritos abandonados** vuelve a involucrar al cliente con el contexto del producto y checkout directo en la conversación.
+- **Pago en el chat** finaliza la compra sin salir de la conversación, con Pix, crédito o débito.
+- **Campañas conversacionales** promueven la reactivación, reposición de stock y upsell mediante mensajes con templates aprobados.
+- **Analytics** ofrece datos y métricas sobre las interacciones y los resultados de la operación.
 
 Este tutorial te ayuda a navegar por la plataforma y está dividido en las siguientes secciones:
 
-- [Registro e inicio de sesión](#registro-e-inicio-de-sesion)
-- [Crear organización y proyecto](#crear-organizacion-y-proyecto)
+- [Registrarse e iniciar sesión](#registrarse-e-iniciar-sesión)
+- [Crear organización y proyecto](#crear-organización-y-proyecto)
 - [Acceder al perfil](#acceder-al-perfil)
 - [Sistema de permisos](#sistema-de-permisos)
 - [Cambiar el idioma de la plataforma](#cambiar-el-idioma-de-la-plataforma)
 
-## Registro e inicio de sesión
+## Registrarse e iniciar sesión
 
-Al acceder a la plataforma puedes crear un registro gratuito o iniciar sesión en una cuenta existente.
+Al acceder a la plataforma, puedes crear un registro gratuito o iniciar sesión en una cuenta existente.
 
-Para crear un registro gratuito sigue los pasos a continuación:
+Para crear un registro gratuito, sigue los pasos a continuación:
 
 1. Accede a [VTEX CX Platform](https://accounts.weni.ai/auth/realms/weni/login-actions/registration?client_id=weni-webapp&tab_id=GrzDdSDmT-8&client_data=eyJydSI6Imh0dHBzOi8vZGFzaC53ZW5pLmFpL3Byb2plY3RzLzZjZjZiODIzLTFkYjktNDg5Ny04NTFmLWM2OTZlOTkxMjA2NS9zZXR0aW5ncy9wcm9qZWN0L3IvaW5pdCIsInJ0IjoiY29kZSIsInJtIjoiZnJhZ21lbnQiLCJzdCI6IjcwOGI1OTA4LTcwMTktNDcxMi05YTQ5LWY3OGRhMTM5MGM2OCJ9).
 2. Ingresa tu email y la contraseña deseada.
@@ -47,155 +47,152 @@ Para crear un registro gratuito sigue los pasos a continuación:
 
 También puedes registrarte con los siguientes proveedores: **GitHub**, **Google** y **Microsoft**.
 
-Si ya completaste el registro o recibiste una invitación para una organización, pero aún no tienes una cuenta en la plataforma completa los campos que se muestran en la pantalla y haz clic en `Siguiente`.
+Si completaste el registro o recibiste una invitación para una organización pero aún no tienes registro en la plataforma, completa los campos que se muestran en la pantalla y haz clic en `Continuar`.
 
-Para iniciar sesión en una cuenta existente sigue los pasos a continuación:
+Para iniciar sesión en una cuenta existente, sigue los pasos a continuación:
 
 1. Accede a [VTEX CX Platform](https://accounts.weni.ai/auth/realms/weni/protocol/openid-connect/auth?client_id=weni-webapp&redirect_uri=https%3A%2F%2Fdash.weni.ai%2Fprojects%2F6cf6b823-1db9-4897-851f-c696e9912065%2Fsettings%2Fproject%2Fr%2Finit&state=708b5908-7019-4712-9a49-f78da1390c68&response_mode=fragment&response_type=code&scope=email%20profile%20openid%20offline_access&code_challenge=FEKSvKUaU81i_zufbxFiZg40t-efyp6Krh2xutDxkSY&code_challenge_method=S256).
-2. Ingresa tu email y contraseña.
+2. Ingresa tu email y tu contraseña.
 3. Haz clic en `Iniciar sesión`.
 
-Si te registraste con **GitHub**, **Google** o **Microsoft** selecciona una de esas opciones para iniciar sesión.
+Si tu registro se hizo con **GitHub**, **Google** o **Microsoft**, selecciona una de esas opciones para iniciar sesión.
 
-### Llenar los datos de organización y proyecto
+### Completar los datos de organización y proyecto
 
-> ℹ️ Si tu organización ya existe y recibiste una invitación, llena los campos con nombres ficticios solo para registrarte en la plataforma. No es necesario usar los nombres reales de la empresa.
+> ℹ️ Si tu organización ya existe y fuiste invitado a ella, completa los campos con nombres ficticios solo para registrarte en la plataforma. No es necesario usar los nombres reales de la empresa.
 
-Después de llenar los campos, haz clic en `Siguiente`.
+Después de completar los campos, haz clic en `Continuar`.
 
-Luego, elige entre crear un agente personalizado o usar una plantilla.
+A continuación, elige entre crear un agente personalizado o usar un template.
 
-Para crear un agente personalizado llena los campos a continuación:
+Para crear un agente personalizado, completa los campos a continuación:
 
-1. **Nombre del agente**: nombre del agente, como "Soporte".
+1. **Nombre del agente**: nombre del agente, como "Atención".
 2. **Objetivo**: objetivo del agente, como "Resolver dudas de los clientes".
 
-> ℹ️ Define claramente el objetivo principal de tu agente al interactuar con los clientes, por ejemplo: "Ayudar a los clientes a encontrar productos adecuados para sus necesidades" o "Brindar soporte técnico". Esto orienta las conversaciones de forma directa y asertiva.
+> ℹ️ Define claramente el objetivo principal de tu agente al interactuar con los clientes, por ejemplo: "Ayudar a los clientes a encontrar productos adecuados a sus necesidades" o "Proporcionar soporte técnico". Esto orienta las conversaciones de forma directa y asertiva.
 
-3. **Contenido**: contenido de base del agente. Agregar el contenido es opcional en la etapa de registro. Se puede completar después.
+3. **Contenido**: contenido de base del agente. Completar el contenido es opcional en la etapa de registro y puede agregarse después.
 
-> ℹ️ Al incluir una base de contenido, le das a tu agente inteligente la capacidad de responder a los usuarios con mayor eficacia. Puedes importar información esencial arrastrando y soltando archivos (el texto se integra automáticamente), agregando contenido de sitios web o escribiendo lo que quieras en la base.
+> ℹ️ Al incluir una base de contenido, capacitas a tu agente inteligente para responder a los usuarios con más eficacia. Puedes importar información esencial arrastrando y soltando archivos, con el texto integrado automáticamente, insertando contenidos de sitios web o escribiendo lo que desees en la base.
 
-Las plantillas son flujos listos con fines específicos, divididos en tres categorías: soporte, integraciones y ventas. Al hacer clic en alguna de las tarjetas de una categoría, se muestra una ventana emergente que detalla el uso de la plantilla.
+Los templates son flujos listos con finalidades específicas, divididos en tres categorías: soporte, integraciones y ventas. Al hacer clic en una de las tarjetas de una categoría, se muestra un pop-up que detalla el uso del template.
 
-> ℹ️ Si eliges una plantilla, haz clic en la pestaña correspondiente y elige una de las plantillas disponibles.
+> ℹ️ Si optas por un template, haz clic en la pestaña correspondiente y elige uno de los templates disponibles.
 
-Haz clic en `Finalizar` para continuar.
+Haz clic en `Finalizar` para seguir adelante.
 
 ## Crear organización y proyecto
 
-Para crear una nueva organización sigue los pasos a continuación:
+Para crear una nueva organización, sigue los pasos a continuación:
 
-1. En la página de inicio de VTEX CX Platform haz clic en <i class="fas fa-plus" aria-hidden="true"></i>`Crear organización`.
+1. En la página inicial de VTEX CX Platform, haz clic en <i class="fas fa-plus" aria-hidden="true"></i>`Crear organización`.
 2. Ingresa un nombre para tu organización, la descripción de la organización y el nombre del proyecto.
-3. Haz clic en `Siguiente`.
-4. En la etapa de configuración del proyecto puedes elegir entre **Crear un agente personalizado** o **Usar plantilla**.
+3. Haz clic en `Continuar`.
+4. En la etapa de configuración del proyecto, puedes elegir entre **Crear un agente personalizado** o **Usar template**.
 
-Para crear un agente personalizado sigue las instrucciones a continuación:
+Para crear un agente personalizado, sigue los pasos a continuación:
 
-1. Completa el nombre del agente y su objetivo.
-2. Haz clic en <i class="fas fa-plus" aria-hidden="true"></i>`Agregar contenido`.
-
-- En ese campo puedes agregar información que el agente utilizará en tu proyecto, como archivos de catálogo o el sitio web de tu tienda. Después, haz clic en `Finalizar`.
-- Este paso es opcional al momento de crear una organización y el contenido se puede agregar después.
-
+1. Completa el nombre del agente y el objetivo de ese agente.
+2. A continuación, haz clic en <i class="fas fa-plus" aria-hidden="true"></i>`Agregar contenido`.
+  - En este campo, puedes agregar información que el agente usará en tu proyecto, como archivos de catálogo o el sitio web de tu tienda. Después, haz clic en `Finalizar`.
+  - Esta etapa es opcional en el momento de creación de una organización y el contenido puede agregarse después.
 3. Haz clic en `Finalizar`.
 
-Las plantillas son flujos listos con finalidades específicas, divididos en tres categorías: **Soporte**, **Integraciones** y **Ventas**.
+Los templates son flujos listos con finalidades específicas, divididos en tres categorías: **Soporte**, **Integraciones** y **Ventas**.
 
-Para usar una plantilla sigue las instrucciones a continuación:
+Para usar un template, sigue los pasos a continuación:
 
-1. Selecciona una de las plantillas, como _Soporte_ o _Captura de leads_, para ver más información.
-2. Haz clic en `Usar plantilla` para activar la plantilla.
+1. Selecciona uno de los templates, como _Soporte_ o _Captura de Leads_, para ver más información.
+2. Haz clic en `Usar template` para activar el template.
 3. Completa la descripción del proyecto.
 4. Haz clic en `Finalizar`.
 
-Crear un agente personalizado o elegir una plantilla es el último paso. Para entrar a tu proyecto haz clic en `Comenzar`.
+Después de crear un agente personalizado o elegir un template, se completa la última etapa. Para entrar en tu proyecto, haz clic en `Comenzar`.
 
-> ℹ️ Después de crear la organización y el proyecto, incluye a tu equipo configurando los permisos. Las personas que agregues a la organización tendrán acceso a todos sus proyectos. Para más información, consulta la sección [Sistema de permisos](#sistema-de-permisos).
+> ℹ️ Después de crear la organización y el proyecto, incluye a tu equipo configurando los permisos. Las personas agregadas a la organización tendrán acceso a todos los proyectos creados dentro de ella. Para saber más, consulta la sección [Sistema de permisos](#sistema-de-permisos).
 
-Para más información sobre cómo agregar o gestionar miembros de la organización o del proyecto, accede al artículo [Gestionar miembros de VTEX CX Platform](https://help.vtex.com/es/docs/tutorials/administrar-miembros-de-la-plataforma-vtex-cx).
+Para saber cómo agregar o gestionar miembros de la organización o del proyecto, accede al artículo [Gestionar miembros de VTEX CX Platform](https://help.vtex.com/es/docs/tutorials/gestionar-miembros-de-vtex-cx-platform).
 
 ## Cambiar el idioma de la plataforma
 
-Para cambiar el idioma sigue los pasos a continuación:
+Para cambiar el idioma, sigue los pasos a continuación:
 
 1. Haz clic en tu nombre de usuario.
 2. Haz clic en `Idioma`.
 3. Elige uno de los idiomas.
+  - Actualmente, la plataforma ofrece cuatro opciones de idioma: **English**, **Español**, **Português (Brasil)** y **Română**.
 
-- Por el momento, la plataforma ofrece cuatro opciones de idioma: **inglés**, **español**, **portugués (Brasil)** y **rumano**.
-
-> ℹ️ Si la plataforma no cambia el idioma, puedes cerrar sesión y volver a iniciar sesión o reiniciar el navegador.
+> ℹ️ Si la plataforma no cambia el idioma, puedes cerrar sesión y volver a iniciarla o reiniciar el navegador.
 
 ## Acceder al perfil
 
-La sección **Perfil** permite gestionar tu cuenta y editar preferencias personales, de seguridad y de notificaciones.
+La sección **Perfil** te permite gestionar tu cuenta y editar preferencias personales, de seguridad y notificaciones.
 
-En la pestaña **Perfil** puedes cambiar tu nombre, apellido, foto de perfil, número de contacto y contraseña.
+En la pestaña **Perfil**, puedes cambiar tu nombre, apellido, foto de perfil, número de contacto y contraseña.
 
-En **Preferencias**, puedes seleccionar los emails de VTEX CX Platform que deseas recibir.
+En **Preferencias**, seleccionas qué emails deseas recibir de VTEX CX Platform.
 
-En **Privacidad y seguridad** puedes activar la autenticación de dos factores siguiendo los pasos a continuación:
+En **Privacidad y seguridad**, puedes activar la autenticación de dos factores siguiendo los pasos a continuación:
 
 1. Haz clic en tu nombre de usuario.
 2. Haz clic en `Perfil`.
 3. Selecciona la sección **Privacidad y seguridad**.
-4. Habilita el botón `Activar autenticación`.
+4. Activa el botón `Habilitar autenticación`.
 5. Haz clic en `Guardar cambios`.
 
-Después de guardar, se cierra tu sesión de la plataforma automáticamente.
+Después de guardar, se cierra tu sesión en la plataforma automáticamente.
 
-Al iniciar sesión nuevamente sigue los pasos a continuación:
+Al iniciar sesión nuevamente, sigue los pasos a continuación:
 
-1. Abre la aplicación autenticadora de tu elección y escanea el código QR que se muestra en la pantalla.
-2. Ingresa en la plataforma el código de uso único que aparece en la aplicación.
+1. Abre la aplicación de autenticación de tu elección y escanea el código QR que se muestra en la pantalla.
+2. En la plataforma, ingresa el código de uso único que aparece en la aplicación.
 3. Haz clic en `Guardar` para completar la configuración.
 
-> ℹ️ A partir de ese momento, el inicio de sesión exigirá el código de verificación de tu aplicación autenticadora.
+> ℹ️ A partir de entonces, el inicio de sesión requerirá el código de verificación que se muestra en tu aplicación de autenticación.
 
-### Exigir autenticación en la organización
+### Solicitud de autenticación en la organización
 
-Para agregar una capa extra de seguridad a los proyectos y datos de tu organización puedes definir que solo usuarios con la autenticación de dos factores activada entren a la organización.
+Para agregar una capa extra de seguridad a los proyectos y datos de tu organización, puedes permitir que solo usuarios con la autenticación de dos factores habilitada ingresen a la organización.
 
-Para exigir la autenticación de dos factores en la organización sigue los pasos a continuación:
+Para solicitar la autenticación de dos factores en la organización, sigue los pasos a continuación:
 
-1. Haz clic en el ícono de <i class="fas fa-ellipsis-v" aria-hidden="true"></i> en la tarjeta de la organización.
+1. Haz clic en el ícono <i class="fas fa-ellipsis-v" aria-hidden="true"></i> en la tarjeta de la organización.
 2. Haz clic en `Configuración`.
 3. Selecciona la pestaña **Seguridad**.
-4. En **Autenticación de dos factores** haz clic en el botón de alternancia de **Activar autenticación**.
+4. En **Autenticación de dos factores**, haz clic en el botón de alternancia de **Activar autenticación**.
 5. Por último, haz clic en `Guardar cambios`.
 
 ## Sistema de permisos
 
-En VTEX CX Platform puedes gestionar diferentes permisos para cada usuario, que se dividen en dos grupos:
+En VTEX CX Platform, puedes gestionar diferentes permisos para cada usuario, divididos en dos grupos:
 
-- [Permisos de la organización](#permisos-de-la-organizacion)
+- [Permisos de la organización](#permisos-de-la-organización)
 - [Permisos del proyecto](#permisos-del-proyecto)
 
 ### Permisos de la organización
 
-Estos permisos se pueden agregar durante la creación de la organización o en cualquier momento desde el ícono de configuración de la organización.
+Estos permisos pueden agregarse en la etapa de creación de la organización o en cualquier momento mediante el ícono de configuración de la organización.
 
 Los permisos de la organización se describen a continuación:
 
 - **Admin:** tiene acceso completo a la plataforma y puede agregar nuevos miembros o cambiar los permisos de los miembros existentes.
-- **Financiero:** accede únicamente a la sección de facturación.
-- **Contribuidor:** puede crear nuevos proyectos y editar contenido.
-- **Marketing:** accede solo al módulo de **Contactos** y puede enviar plantillas de mensajes.
+- **Financiero:** accede solo al área de facturación.
+- **Contributor:** puede crear nuevos proyectos y editar contenido.
+- **Marketing:** accede solo al módulo de **Contactos** y puede enviar templates de mensajes.
 
 > ⚠️ Los permisos de la organización se aplican a todos los proyectos dentro de ella.
 
 ### Permisos del proyecto
 
-También es posible agregar permisos a un proyecto específico, y no necesariamente a toda la organización. Para acceder a las opciones haz clic en `Gestionar miembros` en el proyecto deseado.
+También es posible agregar permisos a un proyecto específico, y no necesariamente a toda la organización. Para acceder a las opciones, haz clic en `Gestionar miembros` en el proyecto deseado.
 
-Los permisos de proyecto son los siguientes:
+Los permisos del proyecto son los siguientes:
 
-- **Moderador:** tiene acceso completo de administrador en un proyecto. Puede realizar cualquier modificación o configuración del proyecto.
-- **Contribuidor:** puede editar contenido (por ejemplo, flujos, instrucciones, plantillas de mensajes).
-- **Visualizador:** solo puede leer información, como flujos, contactos y mensajes, pero no puede editarla.
-- **Marketing:** tiene acceso a los módulos **Campañas** y **Contactos** para configurar y gestionar el envío de campañas con plantillas.
-- **Soporte humano:** permiso exclusivo de los representantes humanos. Solo tiene acceso al módulo **Live Desk**.
+- **Moderador:** tiene acceso completo de administrador de un proyecto. Puede realizar cualquier cambio o configuración del proyecto.
+- **Contributor:** puede editar contenido (por ejemplo, flujos, instrucciones, templates de mensajes).
+- **Viewer:** solo lee información, como flujos, contactos, mensajes, pero no puede editarla.
+- **Marketing:** tiene acceso a los módulos **Campañas** y **Contactos** para configurar y gestionar envíos de campañas con templates.
+- **Human support:** permiso exclusivo del agente humano. Solo tiene acceso al módulo **Live Desk**.
 
-> ⚠️ Los permisos de un proyecto se aplican específicamente a ese proyecto y pueden ser diferentes de los permisos de la organización. Por ejemplo, si un usuario tiene permiso de administrador en la organización y de visualizador en un proyecto, puede realizar modificaciones en toda la organización, excepto en el proyecto en el que fue designado como visualizador. En ese proyecto, no puede editar la información, solo verla.
+> ⚠️ Los permisos de un proyecto se aplican específicamente al proyecto y pueden ser diferentes de los permisos de organización. Por ejemplo, si un usuario tiene permiso de Admin en la organización y de Viewer en un proyecto, puede realizar modificaciones en toda la organización, excepto en el proyecto en el que fue designado como Viewer. En ese proyecto, no puede editar la información, solo visualizarla.

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-The [Regular Promotion](/en/docs/tutorials/regular-promotion) offers discounts in a flexible way, combining multiple conditions, restrictions and benefits. One of the possibilities of this type of promotion is to provide a reward value to your customers, i.e., a credit that acts as cashback to be used in future store purchases. The purpose of this type of discount is to generate loyalty through recurrence of purchases, i.e. to offer an incentive for customers to return to shop in the store.
+The [Regular Promotion](/en/docs/tutorials/regular-promotion) offers discounts in a flexible way, combining multiple conditions, restrictions and benefits. One of the possibilities of this type of promotion is to provide a reward value to your customers, i.e. a credit that acts as cashback to be used in future store purchases. The purpose of this type of discount is to generate loyalty through recurrence of purchases, i.e. to offer an incentive for customers to return to shop in the store.
 
 In this article, we explain:
 - [Types of reward values](#types-of-reward-values)
@@ -36,7 +36,7 @@ The **nominal reward value** adds a fixed credit amount to the user's account in
 * **Nominal value for rewards program:** Credit amount that will be added to the customer's account in your store.
 * **Apply reward credit when the order status changes to:** Field to define from which order status the credit will be made available. The options are **Invoiced** or **Payment Approved**.
 
-In the following example, customers will earn R$10.00 in store credit when the order status changes to **Invoiced**.
+In the following example, the customers will earn R$10,00 in store credit when the order status changes to **Invoiced**.
 
 ![vf-nominal-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/rules-and-conditions/regular-promotion-with-reward-value_1.png)
 
@@ -81,7 +81,7 @@ Read the following sections for more details on reward values in other contexts:
 
 ### Orders management
 
-When a customer places an order that is eligible to receive a reward credit, you can view the applied promotion and value in the VTEX Admin under **Orders management > All Orders** on the Order details page.
+When a customer places an order which is eligible to receive a reward credit, you can view the applied promotion and value in the VTEX Admin under **Orders management > All Orders** on the Order details page.
 
 The name of the promotion applied to the order appears in the **Sales and marketing** section:
 
@@ -99,7 +99,7 @@ If you use the new [Order details (Beta)](/en/docs/tutorials/order-details-page)
 
 ![interacoes-neworders-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/rules-and-conditions/regular-promotion-with-reward-value_4.png)
 
-Consider that the promotion applied to the order illustrated offers a **percentage reward value** of **50%**. Therefore, the customer earned a credit of `R$ 54.28` for future purchases, which is equivalent to **50%** of `R$ 108.55`, the total value of the order.
+Consider that the promotion applied to the order illustrated offers a **percentage reward value** of **50%**. Therefore, the client earned a credit of `R$ 54.28` for  future purchases, which is equivalent to **50%** of `R$ 108.55`, the total value of the order.
 
 ### Checkout
 
@@ -109,7 +109,7 @@ The reward value available for use is displayed to your store customers at the *
 
 The applied value can be used to calculate the payment. To do so, the customer must click on `use credit` and then enter the value they want to use.
 
-Note that the value will be deducted from the other method of payment selected. In the following example, the _boleto_ shows the amount of `R$ 113.50`, which corresponds to `R$ 167.80` minus the reward value used (`R$ 54.30`).
+Note that the value will be discounted from the other method of payment selected. In the following example, the _boleto_ shows the amount of `R$ 113.50`, which corresponds to `R$ 167.80` minus the reward value used (`R$ 54.30`).
 
 ![checkout-2-pt (1)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/rules-and-conditions/regular-promotion-with-reward-value_6.png)
 

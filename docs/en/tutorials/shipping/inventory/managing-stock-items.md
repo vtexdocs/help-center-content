@@ -57,7 +57,7 @@ The total quantity of items on the **Inventory Management** page is updated in r
 
 ### Search filters
 
-In the **Inventory Management** page, to perform a search, type the name or SKU ID and click <i class="fa-solid fa-magnifying-glass"></i> the magnifying glass icon. To use filters, see the available oenions:
+In the **Inventory Management** page, to perform a search, simply type the name or SKU ID and click <i class="fa-solid fa-magnifying-glass"></i> the magnifying glass icon. To use filters, see the available oenions:
 
 - **Last update:** shows the updated number of items in stock. You can enter a value `Greater than or equal to`, `Less than or equal to`, or `Between` two values. If you do not enter a value, `All` items will be displayed.
 - **Reserved:** shows the reserved items. You can enter a value `Greater than or equal to`, `Less than or equal to`, or `Between` two values. If you do not enter a value, `All` items will be displayed.

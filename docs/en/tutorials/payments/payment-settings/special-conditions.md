@@ -126,7 +126,7 @@ How to configure the issuing bank in the payment condition
 
 Suppose that Banco do Brasil offers its clients using Ourocard both debit and credit functions.
 
-To offer this special condition in your store, select "Brazil" in the __When the country is__ field, and "Banco do Brasil" in the __When the issuing bank is__ field.
+To offer this special condition in your store, simply select "Brazil" in the __When the country is__ field, and "Banco do Brasil" in the __When the issuing bank is__ field.
 
 #### Card Level
 

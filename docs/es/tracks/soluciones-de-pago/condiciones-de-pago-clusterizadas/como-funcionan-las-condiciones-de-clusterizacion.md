@@ -21,7 +21,7 @@ Estas condiciones, a su vez, se basan en los datos que el Master Data almacena s
 
 De esta manera, las reglas de plazo y de pago en cuotas se aplicarán al consumidor o los consumidores que se ajusten a la condición o las condiciones.
 
-> ❗ Solo se permite crear cinco clústeres de clientes por condición de pago.
+> ❗ **Atención**: solo se permite crear cinco clústeres de clientes por condición de pago.
 
 Para configurarlas, escoja una propiedad y, luego, seleccione los parámetros para crear un clúster.
 

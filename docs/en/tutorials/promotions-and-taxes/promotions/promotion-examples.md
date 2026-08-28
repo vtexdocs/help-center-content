@@ -26,7 +26,7 @@ $50 off $400 to $699.
 
 ## Scenario 2
 
-Extra savings on on-sale goods when spending between $250 and $499
+Extra savings on in sale goods when spending between $250 and $499
 
 - “An extra discount” is a [Regular Promotion](/en/docs/tracks/creating-regular-promotions) that accumulates with other benefits.
 - “$250 to $499” is a restriction that can be included with the minimum and maximum value of the order setting.
@@ -57,7 +57,7 @@ Save $100 on all leather jackets.
 Save $75 on all leather jackets and fashion jackets.
 
 - “$75” makes this a [Regular Promotion - Nominal](/en/docs/tracks/creating-regular-promotions).
-- “All leather jackets and fashion jackets” are a collection or category this benefit will be applied to.
+- “All Leather jackets” and fashion jackets are a collection or category this benefit will be applied to.
 
 ## Scenario 7
 
@@ -99,7 +99,7 @@ Purchase a sweater and save 50% on a classic or contemporary long sleeve shirt.
 
 ## Scenario 12
 
-Purchase any sweater and receive a specific pair of socks, or purchase two sweaters and receive two specific pairs of socks.
+Purchase any sweater and receive a specific pair of socks and purchase two sweaters and receive two specific pair of socks.
 
 - “Purchase a sweater and receive a specific sock” makes this a [Buy One Get One - Gift](/en/docs/tutorials/buy-one-get-one).
 - “Sweater” is a collection or the items this benefit will be applied to.
@@ -108,13 +108,13 @@ Purchase any sweater and receive a specific pair of socks, or purchase two sweat
 
 ## Scenario 13
 
-Purchase six specific pairs of socks and get one free.
+Purchase six specific pair of socks and get one free.
 
-- “Purchase six specific pairs of socks and get one free” makes this a [Buy One Get One - Gift](/en/docs/tutorials/buy-one-get-one).
+- “Purchase six specific pair of socks and get one free” makes this a [Buy One Get One - Gift](/en/docs/tutorials/buy-one-get-one).
 
 - “Sock” is the specific product and the gift of the promotion.
 
-- To “get one pair of socks for every six purchased” is a restriction that can be included with the minimum quantity of the sock.
+- To “get one pair of sock for every six purchased” is a restriction that can be included with the minimum quantity of the sock.
 
 ## Scenario 14
 
@@ -130,10 +130,10 @@ Save $50 for every $300 spent.
 
 - “$50” makes this a [Regular Promotion - Nominal](/en/docs/tracks/creating-regular-promotions).
 - “$300” is a restriction that can be included with the minimum value of the order setting or item price.
-- “On every $300” means creating multiple promotions (for $600, $900, and so on) with a minimum order value, and those promotions accumulate with other benefits.
+- “On every $300” is multiple promotions ($600, $900) with the minimum order value and that accumulates with other benefits.
 
 ## Scenario 16
-Spend $500 and get an individual coupon code with 20% off to be used on the next purchase.
+Spend $500 and get an individual coupon code with a 20% off to be used on the next purchase.
 
 - “20% off” makes this a [Regular Promotion - Percentage reward value](/en/docs/tracks/creating-regular-promotions). The reward credit is transferred to a [Gift Card](/en/docs/tutorials/gift-card).
 - “Spend $500” is a restriction that can be included with the minimum value of the order setting.
@@ -155,7 +155,7 @@ Buy 3 basic T-shirts and pay for only 1.
 
 -   [Creating a Buy Together promotion](/en/docs/tutorials/buy-together)
 
--   [Creating a More for Less promotion](/en/docs/tutorials/creating-a-more-for-less-promotion)
+-   [Creating More for Less promotion](/en/docs/tutorials/creating-a-more-for-less-promotion)
 
 -   [How the progressive discount works](/en/docs/tutorials/progressive-discount)
 

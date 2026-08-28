@@ -26,7 +26,7 @@ To see the code of the store's CSS files, follow the steps below.
 
 All the CSS files of your store will be listed.
 
-To access the code of a CSS file, enter the URL below, replacing `{FileName}` with the name of the CSS file, including the `.css` extension.
+To access the code of a CSS file, simply enter the URL below, replacing `{FileName}` with the name of the CSS file, including the `.css` extension.
 
 `https://{AccountName}.vteximg.com.br/arquivos/{FileName}`.
 

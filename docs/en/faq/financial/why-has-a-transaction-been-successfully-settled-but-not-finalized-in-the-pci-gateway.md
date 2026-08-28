@@ -1,5 +1,5 @@
 ---
-title: 'Why has a transaction been successfully settled but not finalized in Payments?'
+title: 'Why has a transaction been successfully settled but not finalized in the Payments?'
 id: 5kOSpUYvTyuUKOOws2A8Me
 status: PUBLISHED
 createdAt: 2017-05-22T17:47:40.705Z
@@ -14,7 +14,7 @@ locale: en
 legacySlug: why-has-a-transaction-been-successfully-captured-but-not-finalized-in-the-pci-gateway
 ---
 
-To answer this question, we have to understand the difference between the `Approved` and `Finished` statuses in Payments. A transaction appears as `Approved` when the risk has been analyzed and the transaction approved. 
+To answer this question, we have to understand the difference between `Approved` and `Finished` status in the Payments. A transaction appears as `Approved` when the risk has been analyzed and the transaction approved. 
 
 After approval, the amount of the transaction is settled. However, the status of the transaction does not then automatically change to `Finished`. For this to happen, the Tax Receipt for the order has to be entered in the **Orders** module.
 

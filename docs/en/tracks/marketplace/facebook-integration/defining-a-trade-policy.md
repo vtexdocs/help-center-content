@@ -22,6 +22,6 @@ The same sales channel can be applied to your VTEX store and one or more marketp
 - Offer a different selection of products on Facebook.
 - Send different prices to Facebook.
 
-To [request additional sales channels](/en/docs/tutorials/requesting-an-additional-trade-policy), fill out the [Sales Channel Release form](https://docs.google.com/forms/d/e/1FAIpQLSe9qCGB_KM_xsV5e9uNe06JE8tMZrWcv6EuHUOmqTiM8oRW7w/viewform). If you have any questions, please contact our Growth Operations team through *[Support](https://supporticket.vtex.com/support)* by selecting **Commercial** and `Create a sales channel`.
+To [request additional sales channels](/en/docs/tutorials/requesting-an-additional-trade-policy), simply fill out the [Sales Channel Release form](https://docs.google.com/forms/d/e/1FAIpQLSe9qCGB_KM_xsV5e9uNe06JE8tMZrWcv6EuHUOmqTiM8oRW7w/viewform). If you have any questions, please contact our Growth Operations team through *[Support](https://supporticket.vtex.com/support)* by selecting **Commercial** and `Create a sales channel`.
 
 For each additional sales channel, a monthly fee is charged, whether it is used for integration with certified marketplaces, partners, external or VTEX.

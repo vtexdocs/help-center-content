@@ -1,7 +1,7 @@
 ---
 title: 'Métricas y atribución de VTEX Ads'
 createdAt: '2026-05-04T10:00:00.000Z'
-updatedAt: '2026-08-21T10:00:00.000Z'
+updatedAt: '2026-07-28T10:00:00.000Z'
 contentType: tutorial
 productTeam: Others
 slugEN: vtex-ads-metrics-and-attribution
@@ -153,54 +153,6 @@ Las métricas halo miden el impacto indirecto de un anuncio en las ventas de otr
 | **Ingresos halo** | Ingresos de productos no anunciados comprados en el mismo pedido influenciado por el anuncio. | -       |
 | **Ítems halo**    | Cantidad de ítems halo vendidos.                                                              | -       |
 
-## Métricas de porcentaje de impresiones
-
-El conjunto de métricas de **porcentaje de impresiones** muestra cuánto del volumen total de oportunidades de subasta elegibles capturó efectivamente el anuncio, y cuánto se perdió por clasificación o por presupuesto insuficiente. Las tres métricas comparten el mismo denominador y, juntas, suman aproximadamente el 100% del total de oportunidades.
-
-El denominador común, llamado **Total de oportunidades**, corresponde a la suma de las subastas elegibles con presupuesto disponible y de las subastas perdidas por falta de presupuesto. Ese valor es una estimación, proyectada a partir del historial de distribución de impresiones y del tiempo en que la campaña quedó inactiva por presupuesto insuficiente, y no corresponde a un recuento exacto de subastas.
-
-| Métrica                                                    | Definición                                                                                                                                     | Fórmula                                                            |
-| ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| **Porcentaje de impresiones**                              | De todo el volumen de oportunidades elegibles, cuántas impresiones recibió efectivamente el anuncio.                                            | (Subastas ganadas / Total de oportunidades) × 100  |
-| **Porcentaje de impresiones perdidas (por clasificación)**  | De todo el volumen de oportunidades elegibles, cuánto se perdió porque el anuncio quedó por debajo de la competencia en la clasificación de la subasta. | (Subastas perdidas por clasificación / Total de oportunidades) × 100 |
-| **Porcentaje de impresiones perdidas (por presupuesto)**    | De todo el volumen de oportunidades elegibles, cuánto se perdió por falta de presupuesto disponible para competir. Valor estimado.              | (Subastas perdidas por presupuesto / Total de oportunidades) × 100 |
-
-La **clasificación** es la posición del anuncio en el ranking de la subasta. Considera la oferta (CPC) y otros factores de relevancia evaluados por el ad server, y no solo el valor de la oferta.
-
-La suma de las tres métricas corresponde a aproximadamente el 100% del Total de oportunidades, lo que permite identificar si la limitación de una campaña proviene de la clasificación, del presupuesto o de ambos.
-
-> ℹ️ Cuando no hay subastas elegibles en el periodo o los datos aún no se han recopilado, las tres métricas muestran "-".
->
-> Un valor de 0% en **Porcentaje de impresiones perdidas (por clasificación)** o en **Porcentaje de impresiones perdidas (por presupuesto)** indica que no hubo pérdida de ese tipo en el periodo.
->
-> Un valor de 0% en **Porcentaje de impresiones** indica que el anuncio no recibió ninguna impresión en el periodo.
-
-### Cómo interpretar las métricas
-
-El porcentaje de impresiones, de forma aislada, muestra el tamaño de la oportunidad capturada, pero no la causa de la pérdida. Las dos métricas de impresiones perdidas indican qué limitación actuó en el periodo y, por lo tanto, qué ajuste tiende a ampliar la participación de la campaña.
-
-| Métrica                                                   | Cómo interpretar                                                                                                                                              | Acción recomendada                                                                                    |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| **Porcentaje de impresiones**                             | Cuanto mayor, mejor: indica la porción del inventario disputable que el anuncio capturó efectivamente. Un valor bajo no revela la causa por sí solo.           | Consultar las dos métricas de impresiones perdidas para identificar la limitación.                    |
-| **Porcentaje de impresiones perdidas (por clasificación)** | Cuanto mayor, peor: el anuncio disputó la subasta, pero no alcanzó una clasificación suficiente para ganar. Un valor alto y constante a lo largo del día indica poca competitividad. | Revisar la oferta (CPC) de la campaña, el principal factor de clasificación bajo control del anunciante. |
-| **Porcentaje de impresiones perdidas (por presupuesto)**   | Cuanto mayor, peor: la campaña se quedó sin saldo y dejó de disputar subastas en algún momento del periodo.                                                    | Aumentar el presupuesto de la campaña o redistribuir el presupuesto diario a lo largo del periodo.     |
-
-Por ejemplo, una campaña con **58%** de porcentaje de impresiones, **20%** de impresiones perdidas por clasificación y **22%** de impresiones perdidas por presupuesto capturó poco más de la mitad de las oportunidades en las que podría haber aparecido. Las pérdidas se dividen casi por igual entre las dos causas: en el 20% de las oportunidades el anuncio disputó la subasta y no ganó, y en el 22% la campaña no tenía saldo para disputar. En ese escenario, aumentar solo el presupuesto resolvería cerca de la mitad de la pérdida.
-
-### Dónde encontrar las métricas
-
-Las tres métricas están disponibles como tarjeta opcional y como columna opcional en las siguientes pestañas:
-
-- **Vista anunciante:** pestañas **Publicadores**, **Campañas** y **Anuncios**.
-- **Vista publicador:** pestañas **Anunciantes**, **Campañas** y **Anuncios**.
-
-También están disponibles en los siguientes informes:
-
-- **Informe de anuncios (anunciante y publicador):** nueva columna.
-- **Informe gerencial (publicador):** nueva tarjeta en la pestaña **Costo de oportunidad** y en la sección **Campañas** de la pestaña **Anunciantes**.
-
-> ℹ️ En las tarjetas y en las columnas, los nombres de las métricas aparecen abreviados como **% de impresiones ganadas**, **% de imp. perdidas (por clasificación)** y **% de imp. perdidas (por presupuesto)**.
-
 ## Comportamiento en ventanas de fechas mixtas
 
 La metodología de atribución de los productos patrocinados cambió el 1 de julio de 2026 y comenzó a incluir conversiones por vista, además de las conversiones por clic. Además, para todos los formatos, la tasa de conversión comenzó a usar **vistas** en el denominador, en lugar del valor de clics usado anteriormente.
@@ -221,5 +173,4 @@ Para obtener resultados consistentes, selecciona el periodo de análisis de acue
 - Las métricas base y de conversión están disponibles con historial sin restricción de fecha.
 - El **ROAS por clic** no muestra datos anteriores al 25 de marzo de 2026.
 - La personalización de tarjetas y columnas se mantiene entre sesiones. Los publicadores y anunciantes tienen configuraciones independientes.
-- Las tarjetas y columnas opcionales de las métricas de **porcentaje de impresiones** siguen la misma persistencia de personalización entre sesiones.
 - Cuando no hay datos para una métrica, el campo muestra cero.

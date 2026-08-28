@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 ---
 
-> ⚠️ VTEX has two search options - VTEX Search (Legacy) and VTEX Intelligent Search. This article refers to the VTEX Search (Legacy). To learn more about VTEX Intelligent Search, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ **Warning**: VTEX has two search options - VTEX Search (Legacy) and VTEX Intelligent Search. This article refers to the VTEX Search (Legacy). To learn more about VTEX Intelligent Search, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 To make customer searches more accurate, VTEX Search (Legacy) engine ignores some terms that are very common. Some examples are the words "com" and "todo", from Portuguese, "that" and "with", from English, and "hace" and "uno", from Spanish. [See here the complete list of blocked terms](/en/faq/why-vtex-search-legacy-engine-ignores-some-terms).
 

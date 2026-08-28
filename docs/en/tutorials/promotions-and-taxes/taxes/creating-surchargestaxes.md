@@ -15,9 +15,9 @@ locale: en
 subcategoryId: 18Gsips3u48UYCu0Ku2sWm
 ---
 
-A tax/surcharge is the opposite of a promotion, that is, it is an additional percentage added to the product price in order to increase it. A surcharge can be configured on the basis of a range of conditions, such as postal code (CEP) range, department, the brand of the products, the customer cluster, and so on. The surcharge is added only in the shopping cart, in the area marked **Tax**.
+A tax/surcharge is the opposite of a promotion, that is, it is an additional percentage added to the product price in order to increase the value. A surcharge can be configured on the basis of a range of conditions, such as postal code (CEP) range, department, the brand of the products, the customer cluster, and so on. The surcharge is added only in the shopping cart, in the area marked **Tax**.
 
-The surcharge is applied according to how it is registered on the seller. So if your store’s shopping cart has another seller’s product, the surcharge to be applied to that product will be the one registered in the Admin of the seller that owns the product. Surcharges registered in the Pricing module will not be taken into account, even if this surcharge is associated with this product.
+The surcharge is applied in accordance with the registration done on the seller. So if your store’s shopping cart has another seller’s product, the surcharge to be applied to that product will be the one registered on the admin of the seller that owns the product. Surcharges registered in the Pricing module will not be taken into account, even if this surcharge is associated with this product.
 
 > ℹ️ Seller Portal accounts don’t have access to the Tax creation module. However, when creating a tax in VTEX Admin, if you want the tax to apply in the seller context, select the appropriate sales channel during configuration.
 
@@ -34,18 +34,18 @@ The surcharge is applied according to how it is registered on the seller. So if 
 
 - **Name**: name of the surcharge.
 - **Status**: activates or deactivates the surcharge.
-- **Description**: internal description of the surcharge. This field is intended for communication within your store, to make it clear whether the surcharge is based on some special rule, for example.
-- **Expiration Date**: date and time of the start and finish of the surcharge. Future dates and times can be used to schedule the application of the surcharge on the site. If it is configured in this manner, the surcharge will be shown as scheduled, until the date and time indicated are reached. While the surcharge is in effect, it will have active status and, when the end date and time are reached, the status will automatically change to inactive.
+- **Description**: internal description of the surcharge This field is intended for communication within your store, to make it clear whether the surcharge is based on some special rule, for example.
+- **Expiration Date**: date and time of the start and finish of the surcharge. Future dates and times can be used to schedule the application of the surcharge on the site. If it is configured in this manner, the surcharge will be shown as scheduled, until the date and time indicated are reached. While the surcharge is in effect, it will have active status and, when the defined date and time run out, the status will automatically change to inactive.
 - **What kind and amount of Tax?**:
   - **Percentage Tax**: a percentage of the value of the product to be added to the amount.
   - **Formula-based Tax Value**: the surcharge will apply the calculation entered in the field.
-  - **Shipping percentage tax**: percentage increase over freight value.
+  - **Shipping percentual tax**: percentage increase over freight value.
   - **Nominal tax**: additional tax with a predefined value.
 - **Sales Policy**: select the sales policies to which the surcharge will apply.
 
 ### To what items will this tax apply?
 
-- **Categories, Brands, Collections and Products:** The product must meet all registered conditions. E.g.: if a category and a brand are registered, the product must meet both conditions.
+- **Categories, Brands, Collections and Products:** it must meet all the conditions registered. E.g.: if a category and a brand are registered, the product must meet both conditions.
 
 ### What are the conditions for the tax to be valid?
 
@@ -55,10 +55,10 @@ The surcharge is applied according to how it is registered on the seller. So if 
 - **Customer cluster**: The surcharge will be applied if the customer is registered in the selected cluster.
 - **Shipping to postal code should**: The surcharge will be applied where the postal code meets the rule configured.
 - **Shipping Method**: The surcharge will be applied if the type of shipping is as registered.
-- **Payment method**: The tax will be applied if the payment method selected at checkout matches the payment method configured for the tax.
+- **Payment method**: Tax will be  applied if the payment method selected at checkout matches the payment method configured for tax purposes.
 
 ## Scheduling
 
-Scheduling of a surcharge occurs when it is created with a start date and time after the current date and time. Visually, it is possible to identify these surcharges on the home page of the Promotions & Taxes module by an orange strip in the upper right-hand corner of the surcharge card with the word ‘scheduled’. See below an example of how the surcharge card looks when scheduled.
+Scheduling of a surcharge occurs when it is created with an expiration date and time, beginning after the current one. Visually, it is possible to identify these surcharges on the home page of the Promotions & Taxes module by an orange strip in the upper right-hand corner of the surcharge card with the word ‘scheduled’. See below an example of how the surcharge card looks when scheduled.
 
 ![agendamento.en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/taxes/creating-surchargestaxes_1.png)

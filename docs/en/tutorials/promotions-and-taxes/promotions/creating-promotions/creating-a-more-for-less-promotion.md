@@ -34,20 +34,20 @@ In this article, we'll explain the steps required to set up a More for Less prom
 
 ## Creating a More for Less promotion
 1. In the VTEX Admin, go to **Promotions > Promotions**, or type **Promotions** in the search bar at the top of the page.
-2. Click `Create Promotion`.
+2. Click the `Create Promotion button`.
 3. Select the option More for Less and enter the required information. Below are details about the fields that you need to complete.
 4. Click `Save`.
 
 In this step, you will complete the general information for the promotion. Complete the following fields:
 
-| Field                     | Description |
+| Campo                     | Descrição |
 |---------------------------|-----------|
 | **Name**                  | Choose a descriptive name for the promotion (up to 150 characters). |
 | **Status**                | Define whether the promotion will be Active or Inactive. An Active promotion will be applied based on the configured dates and times. If Inactive, the promotion will be paused, even within the scheduled period. |
 | **Description**           | Write a brief description of the promotion (up to 10,000 characters), highlighting its main objectives. |
-| **Start date and time**       | Define the date and time the promotion will start. Set the exact date and time the promotion will be automatically activated. |
+| **Start date time**       | Define the date and time the promotion will start. Set the exact date and time the promotion will be automatically activated. |
 | **End date and End time** | Define the date and time the promotion will end. Set the exact date and time the promotion will be automatically deactivated. |
-| **Use recurrence settings** | Activate this option if you want the promotion to repeat automatically on specific days and times. Use it for weekly or monthly campaigns, or for campaigns set to specific intervals. |
+| **Use recurrence settings** | Activate this option if you want the promotion to repeat automatically on specific days and times. Use it for weekly, monthly, or campaigns set to specific intervals. |
 
 ### Defining participating sellers
 
@@ -77,7 +77,7 @@ Choose from the following options:
 - **Equal to:** Select the sales channels you want to include in the promotion.  
   This option allows you to determine the policies that will apply to the products eligible for the discount.
 
-- **Different from:** Select the sales channels you want to exclude from the promotion.  
+- **Different from:** Selects the sales channels you want to exclude from the promotion.  
   This option removes specific policies, ensuring the discount is not applied to products that use those business rules.
 
 - **All:** Select this option to apply the promotion to all sales channels without any restriction.  
@@ -94,10 +94,10 @@ Follow the instructions below to complete the fields:
 
 - **SKUs:**  
   Add the specific SKUs that will be part of the promotion, entering the product identifiers directly into the field.  
-  The limit for creating a More for Less promotion based on SKUs is 100 SKUs.
+  The limit for creating a buy more, pay less promotion conditioned by SKUs is 100 SKUs.
 
 - **Collections:**  
-  Select a product [collection](/en/docs/tutorials/creating-a-product-collection). This option simplifies promotion management for groups of items with similar characteristics.
+  Selects a product [collection](/en/docs/tutorials/creating-a-product-collection). This option simplifies promotion management for groups of items with similar characteristics.
 
 - **The customer gets [Y] of these [X] products with discount:**  
   Define how many products the customer can get a discount on when they meet the minimum configured quantity.  
@@ -163,8 +163,8 @@ To add a condition, follow the instructions below:
 - **UTM:** Configure the promotion to apply when the site is accessed via a URL with [UTM parameters](/en/docs/tutorials/what-are-the-internal-utms) or when a coupon linked to these parameters is used.  
   Set the UTM parameters according to the formatting rules, using only letters, numbers, hyphens, and underscores.  
   Set the following parameters if necessary:
-  - **utm_source:** Apply the discount when the customer navigates using the configured utm_source parameter.
-  - **utm_campaign:** Apply the discount when the customer navigates using the configured utm_campaign parameter.
+  - **utm_source:** Apply the discount when browsing occurs through the configured utm_source parameter.
+  - **utm_campaign:** Apply the discount when browsing occurs through the configured utm_campaign parameter.
   - **Create coupon from the UTM parameters above:** Generate a coupon based on the UTM parameters entered in the `UTM_source` and `UTM_campaign` fields.
   - **View linked coupons:** View the coupons that have already been associated with the defined UTM parameters.
 
@@ -175,7 +175,7 @@ To add a condition, follow the instructions below:
 
 ## Setting usage restrictions
 
-In this section, you will limit how many times the promotion can be used in the store or per customer.  
+In this section, you will determine whether the promotion can be combined with other promotions.  
 The available options are:
 
 - **Limit the use of the promotion in the store:**  
@@ -202,6 +202,6 @@ In this section, you can highlight the promotion on the product listing page and
 
 - **Highlight promotion on products:** Check this option to display the promotion directly on the product listing pages.
 
-> ⚠️ Remember to [configure this option in the CMS module](/en/docs/tutorials/configuring-promotions-with-a-highlightflag).
+> ⚠️ Remember [configure this option in the CMS module](/en/docs/tutorials/configuring-promotions-with-a-highlightflag).
 
 - **Additional information:** Click `Create` to add custom fields with name and value, which can be used for store customizations.

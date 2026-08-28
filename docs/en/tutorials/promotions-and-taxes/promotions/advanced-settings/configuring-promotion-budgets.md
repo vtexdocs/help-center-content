@@ -29,7 +29,7 @@ Currently, budget control only supports the following types of benefits:
 - **Progressive Discount:** Applies to the entire promotion.
 - **Regular:** Fixed amount price, percentage price, maximum price, and price table.
 
-> ⚠️ If the promotion benefit is changed to a type that doesn't support budget control, budget control will be automatically paused, but the setup won't be removed. The promotion will continue to be active without applying the spending threshold. If the promotion benefit changes to a supported type again, budget control will be reactivated, resuming the spending threshold.
+> ⚠️ If the promotion benefit is changed to a type that doesn't support budget control, the promotion will be automatically paused, but the setup won't be removed. The promotion will continue to be active without applying the spending threshold. If the promotion benefit changes to a supported type again, budget control will be reactivated, resuming the spending threshold.
 
 ## How the budget works
 The budget sets the maximum discount that can be applied while the promotion is active.
@@ -84,7 +84,8 @@ To remove the budget from a promotion, follow the steps below:
 
 1. In the VTEX Admin, go to **Promotions > Promotions**, or type **Promotions** in the search bar at the top of the page.
 2. Select the desired promotion.
-3. On the right, click the “Trash bin" <i class="far fa-trash-alt" aria-hidden="true"></i> icon next to **Budget**.
+3. Change the budget as desired.
+4. On the right, click the “Trash bin" <i class="far fa-trash-alt" aria-hidden="true"></i> icon next to **Budget**.
 5. In the confirmation window, click `Continue`.
 6. Click `Save`.
 

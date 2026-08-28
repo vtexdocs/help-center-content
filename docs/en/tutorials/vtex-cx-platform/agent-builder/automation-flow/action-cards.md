@@ -54,7 +54,7 @@ Stay tuned! Not all channels support text buttons. Currently, the channels that 
 
 1. **Attachments**
 
-It is also possible to send attachments to a user. These attachments can be photos, videos, audios and documents. To send these attachments, place the media link, or choose the file using your computer's file selector. Currently, you can add up to 3 attachments per card.
+It is also possible to send attachments to a user. These attachments can be photos, videos, audios and documents. To send these attachments, simply place the media link, or choose the file using your computer's file selector. Currently, you can add up to 3 attachments per card.
 
 Always make sure the channel your audience is working on supports the media you want to send.
 
@@ -106,7 +106,7 @@ Did you ask the age of your contact? You can save the value for later reference.
 
 Here you can send an email to someone. This email can be sent either to the contact running the flow or to anyone else. Keep in mind that email is not a conversation channel on the VTEX CX Platform, meaning that if someone replies to the sent email, it will go to the inbox of the email configured in the organization. To learn more, visit the [project settings](/en/docs/tutorials/general-project-settings) article.
 
-To send the email, fill in the recipient, subject, and message body in the corresponding fields.
+To send the email, simply fill in the recipient, subject, and message body in the corresponding fields.
 
 You can use this card to send quick reminders to a contact without spending on SMS or calls.
 
@@ -133,7 +133,7 @@ To decide who will be initiated by the flow, we can choose between three options
 2. Create a logical rule (usually based on contact fields) to filter the contacts that should enter the flow;
 3. Create a new contact, and that contact will be initiated in the flow;
 
-After deciding on these options, select a stream to start. Unlike Enter another flow, this card does not create route options, after all, it does not wait for the end of the child flows to continue executing the parent flow.
+After deciding on these options, simply select a stream to start. Unlike Enter another flow, this card does not create route options, after all, it does not wait for the end of the child flows to continue executing the parent flow.
 
 This card can be used to create reactive campaigns, such as notifying a group of the arrival of a new member.
 

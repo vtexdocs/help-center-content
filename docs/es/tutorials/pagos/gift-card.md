@@ -40,7 +40,7 @@ Para crear un nuevo vale de compra, siga los pasos a continuación:
    - **Doc. de identificación**: dato que identifica y define el vale para un cliente específico.
    - **Colección**: determina la colección de productos que define los ítems a los que se puede aplicar el vale.
 
-> ⚠️ Los campos “Valor” y “Fecha de vencimiento” deben completarse de forma **obligatoria**. De lo contrario, el vale no se guardará.
+> ⚠️ **Atención**: los campos “Valor” y “Fecha de vencimiento” deben completarse de forma **obligatoria**. De lo contrario, el vale no se guardará.
 
 > ❗ La funcionalidad de creación de tarjetas de regalo por colecciones de productos no está funcionando. Hay más información sobre este problema en el artículo [Collection functionality doesn't work on Giftcard](https://help.vtex.com/en/known-issues/collection-functionality-doesnt-work-on-giftcard).
 
@@ -66,7 +66,7 @@ Para crear más de un nuevo vale de compra al mismo tiempo (un lote), siga los p
    - **Fecha de vencimiento**: es la fecha de vigencia de uso de todos los vales de este lote.
    - **Colección**: determina la colección de productos que define los ítems a los que se pueden aplicar los vales.
 
-> ⚠️ Los campos “Cantidad de vales”, “Valor” y “Fecha de vencimiento” deben completarse de forma **obligatoria**. De lo contrario, los vales no se guardarán.
+> ⚠️ **Atención**: los campos “Cantidad de vales”, “Valor” y “Fecha de vencimiento” deben completarse de forma **obligatoria**. De lo contrario, los vales no se guardarán.
 
 > ❗ La funcionalidad de creación de tarjetas de regalo por colecciones de productos no está funcionando. Hay más información sobre este problema en el artículo [Collection functionality doesn't work on Giftcard](https://help.vtex.com/es/known-issues/collection-functionality-doesnt-work-on-giftcard).
 

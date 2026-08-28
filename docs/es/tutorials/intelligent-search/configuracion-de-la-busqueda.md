@@ -3,7 +3,7 @@ title: 'Configuración de la búsqueda'
 id: 1yNCDwz0k77ovSGqkTbZMv
 status: PUBLISHED
 createdAt: 2024-06-17T14:08:59.824Z
-updatedAt: 2026-08-26T00:00:00.000Z
+updatedAt: 2026-07-06T00:00:00.000Z
 publishedAt: 2025-04-24T15:27:15.330Z
 firstPublishedAt: 2024-06-17T14:10:20.364Z
 contentType: tutorial
@@ -32,8 +32,6 @@ La configuración general presenta las siguientes opciones relativas a [las espe
 * **Especificaciones buscables:** determina las especificaciones de producto que pueden ser buscadas por el motor de búsqueda.
 
     Por ejemplo, si una camisa no contiene un color en el nombre del producto, de manera predeterminada, Intelligent Search no identificará este atributo en una búsqueda de "camisa azul", lo que dará como resultado camisas de diferentes colores. Sin embargo, si la especificación de color está configurada como buscable, la búsqueda puede hacer que aparezcan camisas azules en las primeras posiciones.
-
-> ℹ️ Además del nombre del producto y la marca, es posible configurar especificaciones para generar también keywords, lo que aumenta la relevancia de productos cuyo valor de especificación corresponde a la búsqueda, incluso cuando el término no está en el nombre del producto. Esta función está disponible a pedido: para habilitarla, ponte en contacto con el [Soporte VTEX](https://supporticket.vtex.com/support). Más información en [Cómo funciona la relevancia de los resultados de búsqueda](https://help.vtex.com/es/docs/tutorials/intelligent-search-como-funciona-la-relevancia-de-los-resultados-de-busqueda#keyword-a-partir-de-especificaciones).
 
 ## Configuración de filtros
 

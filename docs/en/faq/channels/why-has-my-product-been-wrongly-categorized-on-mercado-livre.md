@@ -22,14 +22,14 @@ But in some cases this automatic definition does not place the product in the ri
 
 ## Defining the product category
 
-> ❗ This procedure does not cause the integration to update the category in Mercado Livre. Ideally, you should do this before integrating the product. If the product is already integrated, the solution is to delete the existing advertisement and integrate it again, with the category registered previously.
+> ❗ This procedure does not cause the integration to update the category in Mercado Livre. The ideal is to do it before integrating the product. If the product is already integrated, the solution is to delete the existing advertisement and integrate it again, with the category registered previously.
 
-Mercado Livre has a tool which automatically defines the category of each product shipped. This tool uses information such as the name of the product, and if it makes the wrong inference it may categorize the product wrongly. Thus the listing can appear in the incorrect category.
+Mercado Livre has a tool which automatically defines the category of each product shipped. This tool uses information such as the name of the product, and if it makes the wrong inference it may categorize the product wrongly. Thus the announcement can appear in the incorrect category.
 
 To fix this, you can [add a product specification](/en/tutorial/creating-a-product-field), **mandatorily** with the `categoria_meli` name. This specification will be able to be given different values, each of them representing a category in Mercado Livre.
 
 The values will be the category IDs. Click [here](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/en/faq/channels/MercadoLivre_CategoriasFixas.xlsx) to download a worksheet showing these values.
 
-After registering the specification, you must access each product record and enter the ID as shown in the worksheet.
+After registering the specification, you must access each product register and enter the ID as shown in the worksheet.
 
-**This setting is optional**, but it is a useful solution if you find that the Mercado Livre automatic categorization is making mistakes.
+**This setting is optional**. but it is a useful solution if you find that the Mercado Livre automatic categorization is making mistakes.

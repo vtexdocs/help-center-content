@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
 ---
 
-On the **New product** page, you can create products and their SKUs quickly and in Seller Portal. To access it on VTEX Admin, go to **Catalog** > **Products** and click on the `Create product` button.
+On the **New product** page, you can create products and their SKUs quickly and simply in Seller Portal. To access it on VTEX Admin, go to **Catalog** > **Products** and click on the `Create product` button.
 
 To create an active product, you need to keep the **Active** <i class="fas fa-toggle-on"></i> option selected in the upper right corner of the page. If you want to create an inactive product, click the <i class="fas fa-toggle-on"></i> button and note that the option will change to **Inactive**. You can activate it later via the product edit page or the product list.
 

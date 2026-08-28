@@ -23,7 +23,7 @@ There are two ways to access the flow export page.
 
 1. **First Path: Via flow editor**
 
-To access the export page through the flow editor, go to the options menu and click the "Export Definition" button.
+To access the export page through the flow editor, simply go to the options menu and click the "Export Definition" button.
 
 Or also through the Flow module
 
@@ -42,7 +42,7 @@ To export the flows you want, just select the ones you are interested in and the
 
 ## Import
 
-To access the flow import page, go to the options menu and click the "Import" button in the organization's general settings.
+To access the flow import page, simply go to the options menu and click the "Import" button in the organization's general settings.
 
 After that, on the import page, select the .json file created on the export page and press the "Import" button.
 

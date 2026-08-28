@@ -32,8 +32,8 @@ You can cancel an order with VTEX in three different ways:
 4. Click `Confirm`.
 
 - When the order is in `Ready for handling` or `Preparing Delivery` status, cancellation must be done twice. When you first click **Cancel**, the status changes to `Cancellation requested`.
-- When the order is already in the `Cancellation requested` status, click **Cancel** again to change the order to `Canceled`.
-- To continue with this order, enter the invoice.
+- When the order is already in the `Cancellation requested` status, simply click **Cancel** again to change the order to `Canceled`.
+- To continue with this order, simply enter the invoice.
 
 ## Cancellation through API Rest
 

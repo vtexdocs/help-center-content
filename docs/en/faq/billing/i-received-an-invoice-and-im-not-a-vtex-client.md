@@ -14,7 +14,7 @@ locale: en
 legacySlug: i-received-an-invoice-and-im-not-a-vtex-client
 ---
 
-VTEX currently operates with different platforms: VTEX, Loja Integrada, Integrando.se, Xtech, Biggy, CIA SHOP, and UniteU. If you do not use the VTEX ecommerce platform but are a client of one of the others, the services provided to them will also have their invoices issued under the VTEX CNPJ (Tax ID).
+VTEX currently operates with different platforms: VTEX, Loja Integrada, Integrando.se, Xtech, Biggy, CIA SHOP, and UniteU. If you do not use the VTEX ecommerce platform but are a client of one of the others, the services provided to them will also have their invoices issued under VTEX CNPJ (Tax ID).
 
 However, your financial support is still separated by brands. If you need to contact us, please use the corresponding channel:
 

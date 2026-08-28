@@ -93,7 +93,7 @@ Choose from the following options:
 
 ## Lists of Buy Together items and their discounts
 
-The **Buy Together** promotion allows you to combine products from two different lists to offer discounts to your shoppers. The first list contains the main products, which can activate the promotion when added to the cart. The second list serves as a complement, where adding items from this list together with items from the first list allows additional discounts.
+The **Buy Together** promotion allows you to combine products from two different lists to offer discounts to your shoppers. The first list contains the main products, which can activate the promotion when added to the cart. The second list serves as a complement, where adding items from this list together with items from the first allows for additional discounts.
 
 See below for how to configure **Lists 1 and 2** to activate discount conditions and ensure products are correctly combined in the shopping cart.
 
@@ -118,7 +118,7 @@ Define the conditions that will apply to the promotion. Conditions allow the pro
   - **Minimum order amount:** Set the minimum amount required for the promotion to activate. Choose which items to include in the calculation: only items included in the promotion, only items outside the promotion, or all items in the order.
   - **Maximum order amount:** Set the maximum amount allowed for the promotion to apply. Choose which items to include in the calculation: only items included in the promotion, only items outside the promotion, or all items in the order.
 
-- **Card BIN:** Apply this promotion when the customer uses cards from specific networks, banks, or categories identified by their BIN codes. Import a list of BINs saved in a .txt or .csv file, with each BIN on a separate row.
+- **Card BIN:** Apply this promotion when using cards from specific networks, banks, or categories identified by their BIN codes. Import a list of BINs saved in a .txt or .csv file, with each BIN on a separate row.
 
 - **Customer cluster:** Select an already created [customer cluster](/en/tutorial/como-criar-um-cluster-de-clientes) in Master Data, following the `field=value` or `field contains value` format. Then, choose one of the following options:
 
@@ -126,14 +126,14 @@ Define the conditions that will apply to the promotion. Conditions allow the pro
   - **At least one of the following:** Apply the promotion if at least one of the cluster criteria is met.
 
 - **UTM:**  Configure the promotion to apply when the site is accessed via a URL with UTM parameters or when a coupon linked to these parameters is used. Using these parameters is optional and allows you to apply discounts to specific campaigns. Set the UTM parameters according to the formatting rules, using only letters, numbers, hyphens, and underscores. If necessary, fill in the following parameters:
-  - **utm_source:** Apply the discount when the customer navigates using the configured utm_source parameter.
-  - **utm_campaign:** Apply the discount when the customer navigates using the configured utm_campaign parameter.
+  - **utm_source:** Apply the discount when browsing occurs with the utm_source parameter configured.
+  - **utm_campaign:** Apply the discount when browsing occurs with the utm_campaign parameter configured.
   - **Create coupon from the UTM parameters above:** Generate a coupon based on the UTM parameters entered in the "UTM_source" and "UTM_campaign" fields.
   - **View linked coupons:** View the coupons that have already been associated with the defined UTM parameters. When creating coupons from UTMs, do not use the name `new`, as this generates an invalid URL.
 
 ## Restrictions
 
-In this section, limit how many times the promotion can be used in the store or per customer. The available options are:
+In this section, determine whether the promotion can be combined with other promotions. The available options are:
 
 - **Limit the use of the promotion in the store:** Restricts the number of times the promotion can be used in the store.
 - **Limit the use of the promotion per customer:** Restricts the number of times each customer can use the promotion.

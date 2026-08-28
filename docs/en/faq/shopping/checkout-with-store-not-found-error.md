@@ -1,5 +1,5 @@
 ---
-title: 'Checkout with "store not found" error. What should I do?'
+title: 'Checkout with "store not found" error. What to do?'
 id: 23ZZv5zvfuAsSWCwOMIoQE
 status: PUBLISHED
 createdAt: 2017-11-29T14:00:08.262Z
@@ -18,7 +18,7 @@ When you enter the cart in your store, an error may appear on the screen with th
 
 This error indicates there's probably a flaw in your store's Account management setting. 
 
-To adjust these settings, follow the steps below:
+To adjust these settings, follow the step-by-step below:
 
 1. In the Admin menu, click __Account Management__.
 2. Access the __Accounts__ option.

@@ -70,14 +70,14 @@ For example, if the product description is changed, the integration will not upd
 ## 2. Inventory
 When a product is sent for the first time, the inventory is sent as well. However, it is discarded by Carrefour, as they only accept inventories for products already cataloged. This policy exists so that the inventory available in the marketplace is always the most up-to-date.
 
-However, when cataloging is complete, Carrefour does not notify VTEX. This means that our integration has no way of knowing when you can send inventories again, becoming dependent on updates made directly to the Inventory & shipping (VTEX module). As soon as Carrefour confirms the cataloging of your products, the marketplace will ask VTEX to send the inventories. But you can force this information to be sent by changing any stock in each of your SKUs.
+However, when cataloging is complete, Carrefour does not notify VTEX. This means that our integration has no way of knowing when you can send inventories again, becoming dependent on updates made directly to the Inventory & shipping (VTEX module). As soon as Carrefour confirms the cataloging of your products, the marketplace will ask VTEX to send the inventories. But you can force this information to be sent by simply changing any stock in each of your SKUs.
 
 Once products receive the first inveentory load, the update is made SKU by SKU whenever the inventory undergoes some change inside VTEX. This update is sent in batches every 6 minutes, which means the integration gathers all the updates from your store during 6 minutes and then sends everything at once. If the inventory update is taking longer than expected, there is probably a lot of information in queue to be updated.
 
 ## 3. Price
 When a product is first sent, the price is sent as well. However, it is discarded by Carrefour, as they only accept prices of products that have already been cataloged. This policy exists so that the price available in the marketplace is always the most up-to-date.
 
-However, Carrefour does not notify VTEX when everything has been approved. This means that our integration has no way of knowing when it's possible to send prices again, becoming dependent on updates made directly into VTEX Prices module. As soon as Carrefour confirms the cataloging of your products, the marketplace will ask VTEX to send the prices. But you can force this information by making price changes on each of your SKUs.
+However, Carrefour does not notify VTEX when everything has been approved. This means that our integration has no way of knowing when it's possible to send prices again, becoming dependent on updates made directly into VTEX Prices module. As soon as Carrefour confirms the cataloging of your products, the marketplace will ask VTEX to send the prices. But you can force this information by simply making price changes on each of your SKUs.
 
 Once products receive the first price load, the upgrade is made SKU by SKU whenever prices undergo any changes inside VTEX. This update is sent in batches every 6 minutes, which means the integration gathers all the updates from your store during 6 minutes and then sends everything at once. If the price update is taking longer than expected, there is probably a lot of information in queue to be updated.
 

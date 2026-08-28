@@ -34,7 +34,7 @@ In this section, you can review the information configured in the section [Promo
 
 - **Name:** the name of the promotion.
 - **Duration:** the period in which the promotion is valid.
-- **Recurrence:** the days of the week and the time of day when the promotion will be applied.
+- **Recurrence:** the days of the week and the time of day in which the promotion will be applied.
 - **Discount type:** the type of discount selected when configuring the promotion.
 - **Highlight:** a banner with the name of the promotion, displayed on the storefront and the product page.
 

@@ -47,4 +47,4 @@ You can customize your CSS file so that this class displays, for example, a cut 
 
 For example, in the case of a SKU that only the `Tamanho` specification will receive the unavailability class.
 
-If, in this case, you wanted the `Faixa` specification to receive the class instead, you would need to reverse the order of the specifications.
+If, in this case, you wanted the `Faixa` specification to receive the class instead, you would simply need to reverse the order of the specifications.

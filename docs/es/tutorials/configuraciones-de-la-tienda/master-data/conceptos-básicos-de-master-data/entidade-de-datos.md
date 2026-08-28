@@ -27,7 +27,7 @@ Estos conceptos permiten configurar los más diversos escenarios de control de d
 
 > ⚠️ Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar la versión de Master Data que satisface las necesidades de tu operación o que ya está en uso. Más información: <ul> <li>[Características de las versiones de Master Data](/es/docs/tutorials/master-data#versiones-disponibles)</li> <li>[Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics)</li> </ul>
 
-> ⚠️ Eliminar una entidad de datos a través de la interfaz de Master Data v1 **no** elimina los documentos (registros) ya almacenados. El volumen facturado permanece sin cambios hasta que los registros se eliminen mediante la API. Para eliminar documentos y reducir la facturación, consulta la guía [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) en el portal de desarrolladores. Consulta la [guía para resolver](/es/docs/tutorials/la-facturacion-de-master-data-no-disminuyo-despues-de-eliminar-una-entidad-de-datos) este problema.
+> ⚠️ Eliminar una entidad de datos a través de la interfaz de Master Data v1 no elimina los documentos (registros) ya almacenados. El volumen facturado permanece sin cambios hasta que los registros se eliminen mediante la API. Para eliminar documentos y reducir la facturación, consulta la guía [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) en el portal de desarrolladores. Consulta la [guía paso a paso para resolver](/es/docs/tutorials/la-facturacion-de-master-data-no-disminuyo-despues-de-eliminar-una-entidad-de-datos) este problema.
 
 ## Tipos de datos
 

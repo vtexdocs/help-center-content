@@ -14,13 +14,13 @@ locale: en
 legacySlug: why-isnt-the-product-or-sku-field-filter-bringing-any-result-in-the-search
 ---
 
-> ⚠️ VTEX has two search options - VTEX Search (Legacy) and VTEX Intelligent Search. This article refers to the VTEX Search (Legacy). To learn more about VTEX Intelligent Search, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ **Warning**: VTEX has two search options - VTEX Search (Legacy) and VTEX Intelligent Search. This article refers to the VTEX Search (Legacy). To learn more about VTEX Intelligent Search, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 You can use the search parameters to filter product fields or SKU fields in the store search.
 
 See how in the article [Search Parameters](/en/tutorial/search-parameters).
 
-But for the product or SKU field to work as a filter, the __Filter flag__ must be checked on the product field setup screen.
+But for the product or SKU field to work as a filter, the __Filter flag__ must be checked on the product field set up screen.
 
 To access this screen, follow the steps below:
 1. In the Catalog module, go to the __Products Management__ tab and click the __Category__ option.
