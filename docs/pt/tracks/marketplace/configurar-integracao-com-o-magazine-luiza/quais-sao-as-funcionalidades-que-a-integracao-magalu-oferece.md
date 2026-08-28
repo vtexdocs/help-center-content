@@ -3,7 +3,7 @@ title: 'Quais são as funcionalidades que a integração oferece?'
 id: 7IGiw1NmFIVuw2c9qIqvKj
 status: PUBLISHED
 createdAt: 2024-11-12T13:38:23.499Z
-updatedAt: 2024-11-12T13:43:31.665Z
+updatedAt: 2026-08-28T12:00:00.000Z
 publishedAt: 2024-11-12T13:43:31.665Z
 firstPublishedAt: 2024-11-12T13:42:25.344Z
 contentType: trackArticle
@@ -23,7 +23,8 @@ Além da integração básica, veja a seguir quais são as funcionalidades dispo
 |:------------------:|:------------:|
 | [Migração Direta Magazine Luiza](/pt/docs/tutorials/migracao-direta-magazine-luiza) | Para os sellers que estão migrando a integração da sua loja com o Magazine Luiza vindo de uma plataforma terceira. Você aprenderá como realizar a migração dos seus anúncios sem perder a relevância. |
 | [Fulfillment Magalu](/pt/docs/tutorials/fulfillment-magalu)  | O Magalu Fulfillment é um serviço que disponibiliza a operação de armazenamento e entrega do Magalu para seus produtos mais vendidos no marketplace. |
-| [Controle de estoque mínimo](/pt/docs/tutorials/controle-de-estoque-minimo-para-integracoes) | O controle de estoque mínimo é uma medida de segurança criada para impedir a venda de produtos com estoque menor ou igual ao definido pelo lojista na configuração da integração. |  
+| [Controle de estoque mínimo](/pt/docs/tutorials/controle-de-estoque-minimo-para-integracoes) | O controle de estoque mínimo é uma medida de segurança criada para impedir a venda de produtos com estoque menor ou igual ao definido pelo lojista na configuração da integração. |
+| [Inventário regionalizado no Magalu (Beta)](/pt/docs/tutorials/regionalized-inventory-magalu) | Permite vender no Magalu o estoque das contas franquia, com pedidos em cadeia cumpridos pelas próprias lojas. A configuração, incluindo a tolerância a divergência de preço, é feita no card da integração. A funcionalidade está em open beta. |  
 
 Para se manter informado sobre as atuallizações de integrações, acompanhe a página de [Novidades](/pt/announcements) da VTEX.
 
