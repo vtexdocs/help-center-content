@@ -92,4 +92,4 @@ Para cadastrar feriados na plataforma, você pode:
 
 É possível cadastrar horários de entrega para envios agendados de transportadoras e pontos de retirada. A funcionalidade **[Entrega agendada](/pt/docs/tutorials/entrega-agendada)** permite que a loja ofereça janelas de entrega para seus clientes.
 
-> ℹ️ O envio depende também do [custo de envio](/pt/docs/tutorials/custo-final-do-envio) que a sua loja oferece aos clientes. Esse assunto será abordado nos artigos seguintes. Para mais informações sobre como é feita a escolha das transportadoras para realizar uma entrega, consulte o artigo [Como funciona o cálculo do frete.](/pt/docs/tutorials/como-funciona-o-calculo-de-envio)
+> ℹ️ O envio depende também do [custo de envio](/pt/docs/tutorials/custo-final-do-envio) que a sua loja oferece aos clientes. Esse assunto será abordado nos artigos seguintes. Para mais informações sobre como é feita a escolha das transportadoras para realizar uma entrega, consulte o artigo [Como funciona o cálculo do frete](/pt/docs/tutorials/como-funciona-o-calculo-de-envio).
