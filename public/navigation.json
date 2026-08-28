@@ -34460,8 +34460,8 @@
             },
             {
               "name": {
-                "en": "Audit Overview",
-                "es": "Auditoría Overview",
+                "en": "Audit: Overview",
+                "es": "Auditoría: Información general",
                 "pt": "Auditoria Overview"
               },
               "slug": {
