@@ -31,7 +31,7 @@ Para criar uma nova política de envio, siga os passos abaixo:
 * **[Método de Envio](/pt/docs/tutorials/como-funciona-o-tipo-de-envio):** nome do tipo de entrega. Serve para separar os diferentes serviços de entrega. É o nome que será exibido na finalização de compra para o cliente. Ex. expresso vs. normal.
 * **[Upload de tarifas de envio](/pt/docs/tutorials/planilha-de-frete):** é a tabela com os valores e prazos de frete assumidos pela política de envio.
 * **[Dimensões do Pacote](/pt/docs/tutorials/como-funciona-o-empilhamento):**
-  * **Soma das dimensões:** limite de dimensão do pacote que leva em conta a soma da medida de todas as arestas do pacote. Ao atingir esse valor, ou a entrega é dividida em pacotes ou não é feita. Estes dados são passados pela transportadora no momento de fechamento do contrato com a mesma.
+  * **Soma das dimensões:** limite de dimensão do pacote que leva em conta a soma da medida de todas as arestas do pacote. Ao atingir esse valor, ou a entrega é dividida em pacotes ou não é feita. Estes dados são passados pela transportadora no momento de fechamento do contrato com ela.
   * **Maior aresta:** limite de tamanho da maior aresta do pacote. Ao atingir esse valor, ou a entrega é dividida em pacotes ou não é feita.
   * **[Fator de peso cúbico](/pt/docs/tutorials/como-o-peso-cubado-e-calculado):** fator que será utilizado para cálculo do peso cubado. Soma das medidas, dividida pelo fator cúbico.
   * **Fator de peso mínimo:** use o peso cúbico apenas se este passar deste valor. Limite de peso a partir do qual será considerado o cálculo do peso cubado para o frete.
