@@ -4,7 +4,7 @@ createdAt: 2026-08-28T00:00:00.000Z
 updatedAt: 2026-08-28T00:00:00.000Z
 contentType: updates
 productTeam: Privacy and Security
-slugEN: 2026-08-28-updates-to-vtexs-privacy-and-security-program
+slugEN: 2026-08-28-privacy-and-security-iso-iec-27701-recertification-and-updates-to-dpa-and-subprocessors
 locale: en
 announcementSynopsisPT: 'VTEX completed its ISO/IEC 27701 recertification, updated the Data Processing Addendum (DPA), and revised the platform''s subprocessor list.'
 tags:
@@ -35,4 +35,4 @@ These updates reinforce VTEX's ongoing commitment to protecting personal data, b
 
 ## What needs to be done?
 
-No action is needed. If you have questions about these updates or would like to discuss any topic related to data protection, contact VTEX's Data Protection team at dpo@vtex.com. You can also visit the [Trust Center](https://compliance.vtex.com) to learn more about VTEX's privacy program, certifications, and compliance documentation.
+No action is needed. If you have questions about these updates or would like to discuss any topic related to data protection, contact VTEX's Legal & Privacy team at dpo@vtex.com. You can also visit the [Trust Center](https://compliance.vtex.com) to learn more about VTEX's privacy program, certifications, and compliance documentation.
