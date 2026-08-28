@@ -34352,7 +34352,7 @@
                 {
                   "name": {
                     "en": "VTEX CX Platform: Overview",
-                    "es": "VTEX CX Platform: Visión de conjunto",
+                    "es": "Información general de VTEX CX Platform",
                     "pt": "Visão geral do VTEX CX Platform"
                   },
                   "slug": {
@@ -38588,6 +38588,21 @@
                 "en": "app-settings-are-not-erased-when-you-delete-the-app",
                 "es": "la-configuracion-de-la-aplicacion-no-se-borra-al-eliminarla",
                 "pt": "as-configuracoes-do-aplicativo-nao-sao-apagadas-quando-voce-exclui-o-aplicativo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Builder-hub error when trying to publish an app",
+                "es": "Error de Builder-hub al intentar publicar una aplicación.",
+                "pt": "Erro do Builder-hub ao tentar publicar um aplicativo"
+              },
+              "slug": {
+                "en": "builderhub-error-when-trying-to-publish-an-app",
+                "es": "error-de-builderhub-al-intentar-publicar-una-aplicacion",
+                "pt": "erro-do-builderhub-ao-tentar-publicar-um-aplicativo"
               },
               "origin": "",
               "type": "markdown",
