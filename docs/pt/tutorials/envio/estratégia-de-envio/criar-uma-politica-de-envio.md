@@ -54,7 +54,7 @@ Para criar uma nova política de envio, siga os passos abaixo:
     * Selecione o `Dia da semana` e preencha o `Horário da coleta`.
     * Para adicionar mais dias da semana, clique em `Adicionar horário de coleta`.
 
-> ⚠️ A **Janela de envio** e **Horário de coleta** são opções excludentes, pois um mesmo período não pode ser simultaneamente destinado a ações diferentes.
+> ⚠️ A **Janela de envio** e o **Horário de coleta** são opções excludentes, pois um mesmo período não pode ser simultaneamente destinado a ações diferentes.
 
 * **[Entrega agendada](/pt/docs/tutorials/entrega-agendada):** essa funcionalidade pode ser habilitada caso a política de envio ofereça o serviço de entrega agendada. É aqui que você deverá adicionar as janelas de entrega que ficarão disponíveis para o cliente ao final da compra. Para utilizar, habilite `entrega agendada` e preencha:
   * **Tempo máximo de entrega:** define o tempo máximo de entrega, deve ser preenchido com o tempo em dias.
