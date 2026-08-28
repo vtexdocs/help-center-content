@@ -34,7 +34,7 @@ Para criar uma nova política de envio, siga os passos abaixo:
   * **Soma das dimensões:** limite de dimensão do pacote que leva em conta a soma da medida de todas as arestas do pacote. Ao atingir esse valor, ou a entrega é dividida em pacotes ou não é feita. Estes dados são passados pela transportadora no momento de fechamento do contrato com a mesma.
   * **Maior aresta:** limite de tamanho da maior aresta do pacote. Ao atingir esse valor, ou a entrega é dividida em pacotes ou não é feita.
   * **[Fator de peso cúbico](/pt/docs/tutorials/como-o-peso-cubado-e-calculado):** fator que será utilizado para cálculo do peso cubado. Soma das medidas, dividida pelo fator cúbico.
-  * **Fator de peso mínimo:** use o peso cúbico apenas se este passar deste valor. Limite de peso onde, a partir dele, será considerado o cálculo do peso cubado para o frete.
+  * **Fator de peso mínimo:** use o peso cúbico apenas se este passar deste valor. Limite de peso a partir do qual será considerado o cálculo do peso cubado para o frete.
 * **Fins de semana e feriados:** os dias da semana para entregas. Marque as opções, para ativar a entrega nos seguintes cenários: `Entrega nos sábados`, `Entrega nos domingos`, `Entrega nos feriados`.
 
 > ⚠️ Para oferecer entregas em fins de semana, é preciso marcar as opções `Entrega nos sábados` e `Entrega nos domingos` e incluir o sábado e o domingo nas configurações de [Horário de funcionamento](/pt/docs/tutorials/horario-de-funcionamento-das-transportadoras) da política de envio. Se o dia estiver cadastrado no horário de funcionamento, mas a opção correspondente não estiver ativa, a entrega no fim de semana não será oferecida ao cliente no checkout.
