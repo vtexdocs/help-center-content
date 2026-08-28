@@ -46,7 +46,7 @@ Para criar uma nova política de envio, siga os passos abaixo:
   * **Valor máximo:** máximo valor aceito pela política de envio para realizar o frete.
 * **Relacionar pontos de retirada:** marque esta opção para abrir a seção de Pontos de retirada. Clique na lista suspensa e selecione entre `Tags dos pontos de retirada`, `Nomes dos pontos de retirada` e `Importar ponto de retirada de sellers` previamente cadastrados.
 * **[Horário de funcionamento](/pt/docs/tutorials/horario-de-funcionamento-das-transportadoras):** os horários em que a transportadora faz coletas e as janelas de tempo em que ela envia os itens para os clientes. Estas configurações influenciam o cálculo do tempo de entrega:
-  * **Janela de envio:** é onde você cadastra os períodos de funcionamento da transportadora, ou seja, os horários em que ela aceita o recebimento do pedido. Para configurar selecione a janela `Janela de envio`:
+  * **Janela de envio:** é onde você cadastra os períodos de funcionamento da transportadora, ou seja, os horários em que ela aceita o recebimento do pedido. Para configurar, selecione a janela `Janela de envio`:
     * `Aceitar compras fora do horário de funcionamento`: ativa ou inativa o recebimento de compras fora do horário de funcionamento. Quando ativo, o intervalo de tempo do momento do pedido até o início horário, será somado ao tempo total da entrega.
     * Selecione o `Dia da semana`, e preencha `Horário de início` e `Horário de término`.
     * Para adicionar mais dias da semana, clique em `Adicionar janela de envio`.
