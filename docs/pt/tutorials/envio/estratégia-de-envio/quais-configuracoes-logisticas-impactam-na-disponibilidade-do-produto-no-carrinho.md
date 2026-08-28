@@ -63,6 +63,8 @@ Com relação à estratégia de envio, a lista abaixo apresenta as principais si
 
 > ℹ️ Estas situações devem ser consideradas no contexto da venda. Ter um estoque inativo não causa a indisponibilidade do produto, mas quando somente um estoque atende à rota de envio e ele está inativo, o produto se torna indisponível no carrinho.
 
+> ℹ️ A VTEX suporta até 10.000 rotas de envio por conta. Uma rota é cada combinação possível entre doca, estoque, política de envio e [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) cadastrados na sua loja, ou seja, o número de rotas é o resultado da multiplicação dessas quatro entidades. Quando esse limite é ultrapassado, a quantidade disponível dos itens pode ser exibida de forma inconsistente na loja. Por isso, ao montar a sua estratégia de envio, evite criar combinações que não serão utilizadas.
+
 ## Configurações da política de envio
 
 [Política de envio](/pt/docs/tutorials/politica-de-envio) é um conjunto de regras e configurações que definem quais opções de envio serão apresentadas aos clientes na etapa do carrinho. Os principais aspectos de indisponibilidade do produto no carrinho com relação à política de envio são:
