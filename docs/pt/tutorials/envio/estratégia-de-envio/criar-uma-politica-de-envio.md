@@ -41,7 +41,7 @@ Para criar uma nova política de envio, siga os passos abaixo:
 
 * **[Modais ativos](/pt/docs/tutorials/como-funciona-o-modal):** especificações de produtos que necessitam de uma entrega especial. São as limitações de envio do produto que a política de envio permite. Marque as opções para ativar a entrega nos seguintes cenários: `químicos`, `eletrônicos`, `móveis`, `vidro`, `líquidos`, `colchões`, `refrigerados`, `pneus`, `linha branca` e `armas de fogo`.
 * **Itens do pacote:** descrição de valor e número de itens do pacote:
-  * **Valor mínimo:** valor mínimo aceito pela política de envio, para realizar o frete.
+  * **Valor mínimo:** valor mínimo aceito pela política de envio para realizar o frete.
   * **Mínimo de itens:** múltiplo mínimo da quantidade de itens aceita pela transportadora. Por exemplo, se for preenchido com o valor **3**, significa que a transportadora só realiza entregas que têm quantidades de itens múltiplos de três (3, 6, 9, 21…).
   * **Valor máximo:** máximo valor aceito pela política de envio para realizar o frete.
 * **Relacionar pontos de retirada:** marque esta opção, para abrir a seção de Pontos de retirada. Clique na lista suspensa e selecione entre `Tags dos pontos de retirada`, `Nomes dos pontos de retirada` e `Importar ponto de retirada de sellers` previamente cadastrados.
