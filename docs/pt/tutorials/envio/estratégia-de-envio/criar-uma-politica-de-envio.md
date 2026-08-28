@@ -57,7 +57,7 @@ Para criar uma nova política de envio, siga os passos abaixo:
 > ⚠️ A **Janela de envio** e o **Horário de coleta** são opções excludentes, pois um mesmo período não pode ser simultaneamente destinado a ações diferentes.
 
 * **[Entrega agendada](/pt/docs/tutorials/entrega-agendada):** essa funcionalidade pode ser habilitada caso a política de envio ofereça o serviço de entrega agendada. É aqui que você deverá adicionar as janelas de entrega que ficarão disponíveis para o cliente ao final da compra. Para utilizar, habilite `entrega agendada` e preencha:
-  * **Tempo máximo de entrega:** define o tempo máximo de entrega, deve ser preenchido com o tempo em dias.
+  * **Tempo máximo de entrega:** define o tempo máximo de entrega, que deve ser preenchido com o tempo em dias.
   * **Período de entrega:** define as janelas de entrega que a política de entrega realiza. Você deve adicionar os dias da semana, horários de `Início` e `Fim` da janela de entrega, e valor adicional. Clique em `Adicionar novo período de entrega` para adicionar mais janelas de entrega.
   * **Capacidade de entrega:** permite limitar quantos itens/pedidos podem ser entregues para cada janela de entrega. Essa funcionalidade pode ser habilitada, ou não. O uso ou não dessa funcionalidade não interfere no funcionamento da plataforma. Para saber mais sobre esses recursos consulte a [Entrega agendada](/pt/docs/tutorials/entrega-agendada) e [Gerenciar capacidade de entrega](/pt/docs/tutorials/gerenciar-capacidade-de-entrega). Caso seja habilitada você deve:
     * Escolher a unidade da capacidade de entrega entre `itens` e `pedidos`.
