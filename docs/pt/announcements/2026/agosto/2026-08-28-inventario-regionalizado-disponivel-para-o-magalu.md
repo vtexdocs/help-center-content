@@ -28,4 +28,4 @@ Os principais benefícios são:
 
 ## O que precisa ser feito?
 
-A funcionalidade está em open beta e para usá-la, a loja precisa ter arquitetura de franquia e a [integração com o Magalu](/pt/docs/tracks/magazine-luiza-marketplace) ativa na conta principal. Verifique o passo a passo completo no tutorial [Ship-From-Store for Magalu](/pt/docs/tutorials/regionalized-inventory-magalu).
+A funcionalidade está em open beta. Para usá-la, a loja precisa ter arquitetura de franquia e a [integração com o Magalu](/pt/docs/tracks/magazine-luiza-marketplace) ativa na conta principal. Verifique o passo a passo completo no tutorial [Ship-From-Store for Magalu](/pt/docs/tutorials/regionalized-inventory-magalu).
