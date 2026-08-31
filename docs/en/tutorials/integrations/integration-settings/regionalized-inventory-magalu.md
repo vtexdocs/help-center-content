@@ -1,5 +1,5 @@
 ---
-title: 'Regionalized inventory on Magalu (Beta)'
+title: 'Ship-From-Store for Magalu'
 createdAt: 2026-08-28T12:00:00.000Z
 updatedAt: 2026-08-28T12:00:00.000Z
 contentType: tutorial
