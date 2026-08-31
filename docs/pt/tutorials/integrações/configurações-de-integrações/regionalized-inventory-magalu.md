@@ -39,7 +39,7 @@ flowchart TB
 
 > ⚠️ Em pedidos em cadeia, a [regra global de Divergência de valores](/pt/docs/tutorials/regra-de-divergencia-de-valores) não se aplica. A tolerância que vale para este fluxo é a do card da integração Magalu, no campo **Percentual de tolerância na divergência do valor do pedido**. Sem esse percentual configurado, pedidos promocionais ou com desconto aplicado pelo marketplace podem ser bloqueados antes do processamento.
 
-## Configurando o Ship-From-Store for Magalu
+## Configurar o Ship-From-Store for Magalu
 
 A configuração é feita na conta principal. A loja precisa usar arquitetura de franquia, com a [integração Magalu](/pt/docs/tracks/magazine-luiza-marketplace) ativa e o estoque das contas franquia cadastrado e atualizado na VTEX.
 
