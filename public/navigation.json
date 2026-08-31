@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Privacy and security: ISO/IEC 27701 recertification and updates to DPA and subprocessors",
+                    "es": "Privacidad y seguridad: recertificación ISO/IEC 27701 y actualizaciones del DPA y subprocesadores",
+                    "pt": "Privacidade e segurança: recertificação ISO/IEC 27701 e atualizações em DPA e subprocessadores"
+                  },
+                  "slug": {
+                    "en": "2026-08-28-privacy-and-security-iso-iec-27701-recertification-and-updates-to-dpa-and-subprocessors",
+                    "es": "2026-08-28-privacidad-y-seguridad-recertificacion-iso-iec-27701-y-actualizaciones-del-dpa-y-subprocesadores",
+                    "pt": "2026-08-28-privacidade-e-seguranca-recertificacao-iso-iec-27701-e-atualizacoes-em-dpa-e-subprocessadores"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "New Impression Share metrics in VTEX Ads",
                     "es": "Nuevas métricas de porcentaje de impresiones en VTEX Ads",
                     "pt": "Novas métricas de percentual de impressões no VTEX Ads"
@@ -34352,7 +34367,7 @@
                 {
                   "name": {
                     "en": "VTEX CX Platform: Overview",
-                    "es": "VTEX CX Platform: Visión de conjunto",
+                    "es": "Información general de VTEX CX Platform",
                     "pt": "Visão geral do VTEX CX Platform"
                   },
                   "slug": {
@@ -38588,6 +38603,21 @@
                 "en": "app-settings-are-not-erased-when-you-delete-the-app",
                 "es": "la-configuracion-de-la-aplicacion-no-se-borra-al-eliminarla",
                 "pt": "as-configuracoes-do-aplicativo-nao-sao-apagadas-quando-voce-exclui-o-aplicativo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Builder-hub error when trying to publish an app",
+                "es": "Error de Builder-hub al intentar publicar una aplicación.",
+                "pt": "Erro do Builder-hub ao tentar publicar um aplicativo"
+              },
+              "slug": {
+                "en": "builderhub-error-when-trying-to-publish-an-app",
+                "es": "error-de-builderhub-al-intentar-publicar-una-aplicacion",
+                "pt": "erro-do-builderhub-ao-tentar-publicar-um-aplicativo"
               },
               "origin": "",
               "type": "markdown",
