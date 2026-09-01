@@ -66,7 +66,23 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "September",
+                "es": "Septiembre",
+                "pt": "Setembro"
+              },
+              "slug": {
+                "en": "2026-september",
+                "es": "2026-septiembre",
+                "pt": "2026-setembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
                 {
                   "name": {
                     "en": "Intelligent Search: Synonym conflict detection",
@@ -74,9 +90,9 @@
                     "pt": "Intelligent Search: detecção de sinônimos conflitantes"
                   },
                   "slug": {
-                    "en": "2026-08-05-intelligent-search-synonym-conflict-detection",
-                    "es": "2026-08-05-intelligent-search-deteccion-de-sinonimos-conflictivos",
-                    "pt": "2026-08-05-intelligent-search-deteccao-de-sinonimos-conflitantes"
+                    "en": "2026-09-01-intelligent-search-synonym-conflict-detection",
+                    "es": "2026-09-01-intelligent-search-deteccion-de-sinonimos-conflictivos",
+                    "pt": "2026-09-01-intelligent-search-deteccao-de-sinonimos-conflitantes"
                   },
                   "origin": "",
                   "type": "markdown",
