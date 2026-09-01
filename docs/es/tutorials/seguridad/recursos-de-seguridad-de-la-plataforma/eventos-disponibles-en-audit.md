@@ -41,10 +41,11 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 * [Ad Network](#ad-network)
 * [Tokens de tarjeta](#tokens-de-tarjeta)
 * [Unidades organizativas](#unidades-organizativas)
+* [Opciones de envío](#opciones-de-envio)
 
 > ℹ️ Si, en Audit, ves algún evento no incluido en esta lista, por favor, envíanos más información a través de la [página de feedback sobre documentación](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
-> ⚠️ En el módulo Audit, al hacer clic en los filtros de auditoría puedes encontrar **Opciones de envío**, **Profile System** y **Billing**, además de otras aplicaciones citadas a continuación. Estas opciónes se refieren a recursos internos o funcionalidades en beta cerrada, por lo que la mayoría de las cuentas no tendrán eventos asociados.
+> ⚠️ En el módulo Audit, al hacer clic en los filtros de auditoría puedes encontrar **Profile System** y **Billing**, además de otras aplicaciones citadas a continuación. Estas opciónes se refieren a recursos internos o funcionalidades en beta cerrada, por lo que la mayoría de las cuentas no tendrán eventos asociados.
 
 ## OMS
 
@@ -447,4 +448,16 @@ En la columna **Acción**, todos los eventos de Headless CMS (Legacy) también m
 | SaveOrganizationUnit | Creación de una unidad organizacional. | ID de la unidad organizacional. |
 | UpdateOrganizationUnit | Actualización del nombre de una unidad organizacional. | ID de la unidad organizacional. |
 | MoveOrganizationUnit | Creación de una jerarquía entre unidades organizacionales. | ID de la unidad organizacional superior e ID de la unidad organizacional inferior. |
+
+## Opciones de envío
+
+| Acción | Descripción del evento | Detalles del evento |
+|---|---|---|
+| DELIVERY_OPTION_CREATE | Creación de una opción de envío. | ID de la opción de envío. |
+| DELIVERY_OPTION_UPDATE | Actualización de una opción de envío. | ID de la opción de envío. |
+| DELIVERY_OPTION_DELETE | Eliminación de una opción de envío. | ID de la opción de envío. |
+| DELIVERY_OPTION_UPDATE_ACCOUNT_CONFIG | Actualización de la configuración de cuenta de Opciones de envío, como las preferencias de visualización en la vitrina. | Nombre de la cuenta. |
+| DELIVERY_OPTION_CHANGED_FILTER | Cambio en las opciones de envío usadas como filtro en la vitrina. | ID de la opción de envío. |
+| DELIVERY_OPTION_AUTOGENERATE_CREATE | Creación automática de una opción de envío a partir de una sugerencia. | ID de la opción de envío. |
+| DELIVERY_OPTION_AUTOGENERATE_UPDATE | Edición manual de una opción de envío generada automáticamente, que deja de tratarse como generada por la plataforma. | ID de la opción de envío. |
 
