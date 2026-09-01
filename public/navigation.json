@@ -38595,21 +38595,6 @@
             },
             {
               "name": {
-                "en": "Builder-hub error when trying to publish an app",
-                "es": "Error de Builder-hub al intentar publicar una aplicación.",
-                "pt": "Erro do Builder-hub ao tentar publicar um aplicativo"
-              },
-              "slug": {
-                "en": "builderhub-error-when-trying-to-publish-an-app",
-                "es": "error-de-builderhub-al-intentar-publicar-una-aplicacion",
-                "pt": "erro-do-builderhub-ao-tentar-publicar-um-aplicativo"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "CLI's Windows installer doesn’t have a publisher",
                 "es": "El instalador de CLI para Windows no tiene editor",
                 "pt": "O instalador do Windows da CLI não tem um editor"
@@ -39324,6 +39309,21 @@
                 "en": "quick-order-changes-items-quantity-when-a-more-for-less-promotion-is-applied",
                 "es": "pedido-rapido-cambia-la-cantidad-de-articulos-cuando-se-aplica-una-promocion-mas-por-menos",
                 "pt": "o-quick-order-altera-a-quantidade-do-item-quando-uma-promocao-more-for-less-e-aplicada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Quickorder App concurrency issues when adding items",
+                "es": "Problemas de concurrencia en la aplicación Quickorder al agregar artículos",
+                "pt": "Problemas de concorrência no aplicativo Quickorder ao adicionar itens."
+              },
+              "slug": {
+                "en": "quickorder-app-concurrency-issues-when-adding-items",
+                "es": "problemas-de-concurrencia-en-la-aplicacion-quickorder-al-agregar-articulos",
+                "pt": "problemas-de-concorrencia-no-aplicativo-quickorder-ao-adicionar-itens"
               },
               "origin": "",
               "type": "markdown",
@@ -45079,6 +45079,21 @@
             },
             {
               "name": {
+                "en": "Coupon code is not recorded in the order when applied with different letter case",
+                "es": "El código del cupón no se registra en el pedido cuando se aplica con mayúsculas o minúsculas diferentes.",
+                "pt": "O código do cupom não é registrado no pedido quando aplicado com letras maiúsculas e minúsculas diferentes."
+              },
+              "slug": {
+                "en": "coupon-code-is-not-recorded-in-the-order-when-applied-with-different-letter-case",
+                "es": "el-codigo-del-cupon-no-se-registra-en-el-pedido-cuando-se-aplica-con-mayusculas-o-minusculas-diferentes",
+                "pt": "o-codigo-do-cupom-nao-e-registrado-no-pedido-quando-aplicado-com-letras-maiusculas-e-minusculas-diferentes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Customer information being lost when it has some order with \"profileErrorOnLoading\"",
                 "es": "Se pierde la información del cliente cuando hay algún pedido con el error «profileErrorOnLoading»",
                 "pt": "As informações do cliente são perdidas quando há algum pedido com o código \"profileErrorOnLoading\""
@@ -46782,21 +46797,6 @@
                 "en": "purchase-cant-be-finished-and-returns-the-error-receiver-name-field-is-invalid",
                 "es": "la-compra-no-se-puede-finalizar-y-devuelve-el-error-el-campo-del-nombre-del-receptor-no-es-valido",
                 "pt": "a-compra-nao-pode-ser-concluida-e-retorna-o-erro-o-campo-do-nome-do-receptor-e-invalido"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Quickorder App concurrency issues when adding items",
-                "es": "Problemas de concurrencia en la aplicación Quickorder al agregar artículos",
-                "pt": "Problemas de concorrência no aplicativo Quickorder ao adicionar itens."
-              },
-              "slug": {
-                "en": "quickorder-app-concurrency-issues-when-adding-items",
-                "es": "problemas-de-concurrencia-en-la-aplicacion-quickorder-al-agregar-articulos",
-                "pt": "problemas-de-concorrencia-no-aplicativo-quickorder-ao-adicionar-itens"
               },
               "origin": "",
               "type": "markdown",
@@ -59978,7 +59978,7 @@
               "name": {
                 "en": "Error when processing the second refund or cancellation with the same value as the first",
                 "es": "Se ha producido un error al procesar el segundo reembolso o la segunda cancelación con el mismo importe que el primero",
-                "pt": "Erro ao processar o segundo reembolso ou cancelamento com o mesmo valor do primeiro"
+                "pt": "Erro ao processar o segundo reembolso ou cancelamento com o mesmo valor do primeiro."
               },
               "slug": {
                 "en": "error-when-processing-the-second-refund-or-cancellation-with-the-same-value-as-the-first",
@@ -60921,6 +60921,21 @@
             },
             {
               "name": {
+                "en": "My Cards - Verification transaction (AV) denied due to phone field always null, even when customer's phone is registered in profile",
+                "es": "Mis Tarjetas - La verificación de la transacción (AV) fue rechazada debido a que el campo del teléfono siempre está vacío, incluso cuando el teléfono del cliente está registrado en el perfil.",
+                "pt": "Meus Cartões - Transação de verificação (AV) negada devido ao campo de telefone estar sempre vazio, mesmo quando o telefone do cliente está cadastrado no perfil."
+              },
+              "slug": {
+                "en": "my-cards-verification-transaction-av-denied-due-to-phone-field-always-null-even-when-customers-phone-is-registered-in-profile",
+                "es": "mis-tarjetas-la-verificacion-de-la-transaccion-av-fue-rechazada-debido-a-que-el-campo-del-telefono-siempre-esta-vacio-incluso-cuando-el-telefono-del-cliente-esta-registrado-en-el-perfil",
+                "pt": "meus-cartoes-transacao-de-verificacao-av-negada-devido-ao-campo-de-telefone-estar-sempre-vazio-mesmo-quando-o-telefone-do-cliente-esta-cadastrado-no-perfil"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "My Cards footer is shivering when trying to add a new card",
                 "es": "El pie de página de mis tarjetas tiembla al intentar añadir una nueva tarjeta",
                 "pt": "O rodapé dos meus cartões está tremendo ao tentar adicionar um novo cartão"
@@ -61784,6 +61799,21 @@
                 "en": "second-payment-authorization-request-being-sent-within-an-interval-shorter-than-what-is-stated-in-firstretryattemptinseconds",
                 "es": "segunda-solicitud-de-autorizacion-de-pago-enviada-en-un-intervalo-inferior-al-indicado-en-firstretryattemptinseconds",
                 "pt": "segunda-solicitacao-de-autorizacao-de-pagamento-sendo-enviada-em-um-intervalo-menor-do-que-o-indicado-em-firstretryattemptinseconds"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Split refund recorded but never sent to the provider (external tax)",
+                "es": "Reembolso parcial registrado pero nunca enviado al proveedor (impuesto externo)",
+                "pt": "O reembolso dividido foi registrado, mas nunca enviado ao fornecedor (imposto externo)."
+              },
+              "slug": {
+                "en": "split-refund-recorded-but-never-sent-to-the-provider-external-tax",
+                "es": "reembolso-parcial-registrado-pero-nunca-enviado-al-proveedor-impuesto-externo",
+                "pt": "o-reembolso-dividido-foi-registrado-mas-nunca-enviado-ao-fornecedor-imposto-externo"
               },
               "origin": "",
               "type": "markdown",
@@ -65044,6 +65074,21 @@
                 "en": "fixed-price-being-created-on-trade-policy-1-when-saving-bundle-prices",
                 "es": "precio-fijo-que-se-crea-en-la-politica-comercial-1-al-guardar-los-precios-de-los-paquetes",
                 "pt": "preco-fixo-sendo-criado-na-politica-comercial-1-ao-economizar-precos-de-pacote"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Fixed Prices import may incorrectly report success when SKU column is formatted as a number",
+                "es": "La importación de precios fijos puede informar incorrectamente que se realizó correctamente cuando la columna SKU está formateada como un número.",
+                "pt": "A importação de preços fixos pode reportar incorretamente sucesso quando a coluna SKU estiver formatada como um número."
+              },
+              "slug": {
+                "en": "fixed-prices-import-may-incorrectly-report-success-when-sku-column-is-formatted-as-a-number",
+                "es": "la-importacion-de-precios-fijos-puede-informar-incorrectamente-que-se-realizo-correctamente-cuando-la-columna-sku-esta-formateada-como-un-numero",
+                "pt": "a-importacao-de-precos-fixos-pode-reportar-incorretamente-sucesso-quando-a-coluna-sku-estiver-formatada-como-um-numero"
               },
               "origin": "",
               "type": "markdown",
@@ -68772,6 +68817,21 @@
                 "en": "amazon-order-cancellation-flow",
                 "es": "amazon-proceso-de-cancelacion-de-pedidos",
                 "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon Silent Error when Connecting Amazon Integration",
+                "es": "Amazon Error silencioso al conectar la integración de Amazon",
+                "pt": "Amazon Erro silencioso ao conectar a integração com a Amazon"
+              },
+              "slug": {
+                "en": "amazon-silent-error-when-connecting-amazon-integration",
+                "es": "amazon-error-silencioso-al-conectar-la-integracion-de-amazon",
+                "pt": "amazon-erro-silencioso-ao-conectar-a-integracao-com-a-amazon"
               },
               "origin": "",
               "type": "markdown",
