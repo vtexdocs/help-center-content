@@ -5,7 +5,7 @@ updatedAt: 2026-09-01T12:00:00.000Z
 publishedAt: 2026-09-01T12:00:00.000Z
 contentType: updates
 productTeam: Intelligent Search
-slugEN: 2026-08-05-intelligent-search-synonym-conflict-detection
+slugEN: 2026-09-01-intelligent-search-synonym-conflict-detection
 locale: en
 announcementSynopsisEN: 'Intelligent Search now indicates when a term is already covered by another synonym, helping you avoid duplicates and relevance conflicts.'
 tags:
@@ -15,7 +15,7 @@ tags:
 
 VTEX launched a conflict detection layer in the Intelligent Search [synonym](https://help.vtex.com/en/docs/tutorials/synonyms) creation and editing flow, indicating when a term is already covered by an existing rule.
 
-![sinonimos-conflitantes-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2026/august/2026-08-05-intelligent-search-synonym-conflict-detection_1.png)
+![conflicting-synonyms-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2026/september/2026-09-01-intelligent-search-synonym-conflict-detection_1.png)
 
 ## What has changed?
 
