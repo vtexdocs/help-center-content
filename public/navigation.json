@@ -25,6 +25,37 @@
           "children": [
             {
               "name": {
+                "en": "September",
+                "es": "Septiembre",
+                "pt": "Setembro"
+              },
+              "slug": {
+                "en": "2026-september",
+                "es": "2026-septiembre",
+                "pt": "2026-setembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Intelligent Search: Synonym conflict detection",
+                    "es": "Intelligent Search: detección de sinónimos conflictivos",
+                    "pt": "Intelligent Search: detecção de sinônimos conflitantes"
+                  },
+                  "slug": {
+                    "en": "2026-09-01-intelligent-search-synonym-conflict-detection",
+                    "es": "2026-09-01-intelligent-search-deteccion-de-sinonimos-conflictivos",
+                    "pt": "2026-09-01-intelligent-search-deteccao-de-sinonimos-conflitantes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "August",
                 "es": "Agosto",
                 "pt": "Agosto"
