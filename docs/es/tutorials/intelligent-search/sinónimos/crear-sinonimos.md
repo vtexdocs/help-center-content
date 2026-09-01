@@ -41,6 +41,24 @@ La alteración puede tardar hasta dos horas en aplicarse.
 
 > ℹ️ Esta funcionalidad está disponible en VTEX Intelligent Search Multidioma. Lea nuestro artículo [VTEX Intelligent Search: configuración Multidioma](/es/docs/tutorials/vtex-intelligent-search-configuracion-multidioma#sinonimos) para saber más.
 
+### Detección de sinónimos conflictivos
+
+Al completar el campo **Términos** en el paso anterior, Intelligent Search verifica si los términos ingresados ya están cubiertos por otra regla de sinónimo existente en la tienda. Esta verificación ayuda a evitar duplicados y conflictos de relevancia, especialmente en tiendas con una gran cantidad de sinónimos configurados.
+
+Si un término ya está cubierto por otro sinónimo, aparece un aviso en el formulario informando cuántos sinónimos comparten los mismos términos. Haz clic en `Ver reglas conflictivas` para abrir en otra pestaña la página de **Sinónimos conflictivos**, que lista las reglas superpuestas con la siguiente información:
+
+| Columna | Descripción |
+|---|---|
+| Términos | Términos definidos en el sinónimo conflictivo. |
+| Creado el | Fecha de creación del sinónimo conflictivo. |
+| Estado | Situación del sinónimo conflictivo, que puede ser Activa o Inactiva. |
+
+Desde esta página, puedes revisar cada sinónimo conflictivo individualmente y [editarlo](https://help.vtex.com/es/docs/tutorials/lista-de-sinonimos#editar-sinonimo) o [eliminarlo](https://help.vtex.com/es/docs/tutorials/lista-de-sinonimos#eliminar-sinonimo), según sea necesario.
+
+Al hacer clic en `Guardar`, si hay un conflicto, se muestra una ventana de confirmación solicitando que confirmes el registro o la edición incluso con la superposición identificada.
+
+> ℹ️ La detección de conflictos no impide el registro del sinónimo. Solo alerta sobre superposiciones existentes en la base de datos, permitiéndote decidir si deseas ajustar las reglas registradas.
+
 ## Importar CSV
 
 Si existen muchos sinónimos para registrar, puedes hacer un archivo .csv y luego importarlo en el Admin.
