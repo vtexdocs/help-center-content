@@ -1,8 +1,8 @@
 ---
 title: 'Intelligent Search: detecção de sinônimos conflitantes'
-createdAt: 2026-08-05T12:00:00.000Z
-updatedAt: 2026-08-05T12:00:00.000Z
-publishedAt: 2026-08-05T12:00:00.000Z
+createdAt: 2026-09-01T12:00:00.000Z
+updatedAt: 2026-09-01T12:00:00.000Z
+publishedAt: 2026-09-01T12:00:00.000Z
 contentType: updates
 productTeam: Intelligent Search
 slugEN: 2026-08-05-intelligent-search-synonym-conflict-detection
