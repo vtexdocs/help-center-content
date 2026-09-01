@@ -25,6 +25,37 @@
           "children": [
             {
               "name": {
+                "en": "September",
+                "es": "Septiembre",
+                "pt": "Setembro"
+              },
+              "slug": {
+                "en": "2026-september",
+                "es": "2026-septiembre",
+                "pt": "2026-setembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Intelligent Search: Synonym conflict detection",
+                    "es": "Intelligent Search: detección de sinónimos conflictivos",
+                    "pt": "Intelligent Search: detecção de sinônimos conflitantes"
+                  },
+                  "slug": {
+                    "en": "2026-09-01-intelligent-search-synonym-conflict-detection",
+                    "es": "2026-09-01-intelligent-search-deteccion-de-sinonimos-conflictivos",
+                    "pt": "2026-09-01-intelligent-search-deteccao-de-sinonimos-conflitantes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "August",
                 "es": "Agosto",
                 "pt": "Agosto"
@@ -37,6 +68,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Privacy and security: ISO/IEC 27701 recertification and updates to DPA and subprocessors",
+                    "es": "Privacidad y seguridad: recertificación ISO/IEC 27701 y actualizaciones del DPA y subprocesadores",
+                    "pt": "Privacidade e segurança: recertificação ISO/IEC 27701 e atualizações em DPA e subprocessadores"
+                  },
+                  "slug": {
+                    "en": "2026-08-28-privacy-and-security-iso-iec-27701-recertification-and-updates-to-dpa-and-subprocessors",
+                    "es": "2026-08-28-privacidad-y-seguridad-recertificacion-iso-iec-27701-y-actualizaciones-del-dpa-y-subprocesadores",
+                    "pt": "2026-08-28-privacidade-e-seguranca-recertificacao-iso-iec-27701-e-atualizacoes-em-dpa-e-subprocessadores"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "New Impression Share metrics in VTEX Ads",
