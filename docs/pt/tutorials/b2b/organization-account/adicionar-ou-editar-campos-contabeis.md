@@ -48,7 +48,7 @@ Para editar as configurações de um campo contábil, siga os passos abaixo:
 1. Acesse a [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao).
 2. Clique no nome do campo contábil que deseja editar.
 3. Na tela do campo contábil, clique no ícone de configurações <i class="fas fa-cog" aria-hidden="true"></i> no topo da página.
-4. Em **Tipo de lista**, selecione **Lista personalizada** para gerenciar uma lista de valores exclusiva da unidade organizacional ou **Lista compartilhada** para usar a lista de valores definida pelo [contrato](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt), que é atualizada automaticamente.
+4. Em **Tipo de lista**, selecione **Lista personalizada** para gerenciar uma lista de valores exclusiva da unidade organizacional ou **Lista compartilhada** para usar a lista de valores definida pelo [contrato](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt), que a plataforma atualiza automaticamente.
 5. Em **Rótulo do campo**, edite o nome que identifica o campo contábil, se necessário.
 6. Em **Nível de entrada**, selecione se o campo contábil se aplica no nível do pedido ou do item.
 7. Em **Requisito de preenchimento**, selecione se o preenchimento do campo é obrigatório ou opcional.
@@ -76,7 +76,7 @@ Para editar um valor em um campo contábil, siga os passos abaixo:
 3. Na tela do campo contábil, clique no ícone de opções <i class="fas fa-ellipsis-v" aria-hidden="true"></i> ao lado do valor que deseja editar.
 4. Selecione uma das seguintes opções, de acordo com a ação desejada:
     - **Editar:** Altera o nome do valor do campo.
-    - **Definir como padrão:** Define o valor como padrão, que a plataforma preenche automaticamente em todos os pedidos em que o campo se aplica.
+    - **Definir como padrão:** Define o valor como padrão, que a plataforma preenche automaticamente em todos os pedidos aos quais o campo se aplica.
     - **Remover da unidade:** Remove o valor da unidade organizacional à qual está atribuído. Essa ação não exclui o valor do sistema.
     - **Excluir:** Exclui permanentemente o valor do sistema.
 
