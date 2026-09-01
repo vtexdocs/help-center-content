@@ -39286,6 +39286,21 @@
             },
             {
               "name": {
+                "en": "Quickorder App concurrency issues when adding items",
+                "es": "Problemas de concurrencia en la aplicación Quickorder al agregar artículos",
+                "pt": "Problemas de concorrência no aplicativo Quickorder ao adicionar itens."
+              },
+              "slug": {
+                "en": "quickorder-app-concurrency-issues-when-adding-items",
+                "es": "problemas-de-concurrencia-en-la-aplicacion-quickorder-al-agregar-articulos",
+                "pt": "problemas-de-concorrencia-no-aplicativo-quickorder-ao-adicionar-itens"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Sales channel configured in B2B Settings is not assigned after approving Organizations",
                 "es": "El canal de ventas configurado en Configuración B2B no se asigna después de aprobar Organizaciones",
                 "pt": "O canal de vendas configurado nas Configurações B2B não é atribuído após a aprovação das Organizações"
@@ -44869,6 +44884,21 @@
             },
             {
               "name": {
+                "en": "CheckoutOrderFormOwnership Cookie shipping information loss",
+                "es": "Pérdida de información de envío de cookies del formulario de pedido de pago",
+                "pt": "Perda de informações de envio do cookie CheckoutOrderFormOwnship"
+              },
+              "slug": {
+                "en": "checkoutorderformownership-cookie-shipping-information-loss",
+                "es": "perdida-de-informacion-de-envio-de-cookies-del-formulario-de-pedido-de-pago",
+                "pt": "perda-de-informacoes-de-envio-do-cookie-checkoutorderformownship"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "CheckoutOrderFormOwnership is lost/doesn't exist in some purchase flows",
                 "es": "La propiedad del formulario de pedido de pago se pierde o no existe en algunos flujos de compra.",
                 "pt": "A propriedade do formulário de pedido no checkout é perdida/não existe em alguns fluxos de compra."
@@ -45012,6 +45042,21 @@
                 "en": "country-selector-for-billing-address-while-in-international-mode-stays-restricted-to-the-delivery-countries",
                 "es": "el-selector-de-pais-para-la-direccion-de-facturacion-mientras-esta-en-modo-internacional-permanece-restringido-a-los-paises-de-entrega",
                 "pt": "o-seletor-de-pais-para-endereco-de-faturamento-enquanto-no-modo-internacional-permanece-restrito-aos-paises-de-entrega"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Coupon code is not recorded in the order when applied with different letter case",
+                "es": "El código del cupón no se registra en el pedido cuando se aplica con mayúsculas o minúsculas diferentes.",
+                "pt": "O código do cupom não é registrado no pedido quando aplicado com letras maiúsculas e minúsculas diferentes."
+              },
+              "slug": {
+                "en": "coupon-code-is-not-recorded-in-the-order-when-applied-with-different-letter-case",
+                "es": "el-codigo-del-cupon-no-se-registra-en-el-pedido-cuando-se-aplica-con-mayusculas-o-minusculas-diferentes",
+                "pt": "o-codigo-do-cupom-nao-e-registrado-no-pedido-quando-aplicado-com-letras-maiusculas-e-minusculas-diferentes"
               },
               "origin": "",
               "type": "markdown",
@@ -46722,21 +46767,6 @@
                 "en": "purchase-cant-be-finished-and-returns-the-error-receiver-name-field-is-invalid",
                 "es": "la-compra-no-se-puede-finalizar-y-devuelve-el-error-el-campo-del-nombre-del-receptor-no-es-valido",
                 "pt": "a-compra-nao-pode-ser-concluida-e-retorna-o-erro-o-campo-do-nome-do-receptor-e-invalido"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Quickorder App concurrency issues when adding items",
-                "es": "Problemas de concurrencia en la aplicación Quickorder al agregar artículos",
-                "pt": "Problemas de concorrência no aplicativo Quickorder ao adicionar itens."
-              },
-              "slug": {
-                "en": "quickorder-app-concurrency-issues-when-adding-items",
-                "es": "problemas-de-concurrencia-en-la-aplicacion-quickorder-al-agregar-articulos",
-                "pt": "problemas-de-concorrencia-no-aplicativo-quickorder-ao-adicionar-itens"
               },
               "origin": "",
               "type": "markdown",
@@ -59918,7 +59948,7 @@
               "name": {
                 "en": "Error when processing the second refund or cancellation with the same value as the first",
                 "es": "Se ha producido un error al procesar el segundo reembolso o la segunda cancelación con el mismo importe que el primero",
-                "pt": "Erro ao processar o segundo reembolso ou cancelamento com o mesmo valor do primeiro"
+                "pt": "Erro ao processar o segundo reembolso ou cancelamento com o mesmo valor do primeiro."
               },
               "slug": {
                 "en": "error-when-processing-the-second-refund-or-cancellation-with-the-same-value-as-the-first",
@@ -61724,6 +61754,21 @@
                 "en": "second-payment-authorization-request-being-sent-within-an-interval-shorter-than-what-is-stated-in-firstretryattemptinseconds",
                 "es": "segunda-solicitud-de-autorizacion-de-pago-enviada-en-un-intervalo-inferior-al-indicado-en-firstretryattemptinseconds",
                 "pt": "segunda-solicitacao-de-autorizacao-de-pagamento-sendo-enviada-em-um-intervalo-menor-do-que-o-indicado-em-firstretryattemptinseconds"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Split refund recorded but never sent to the provider (external tax)",
+                "es": "Reembolso parcial registrado pero nunca enviado al proveedor (impuesto externo)",
+                "pt": "O reembolso dividido foi registrado, mas nunca enviado ao fornecedor (imposto externo)."
+              },
+              "slug": {
+                "en": "split-refund-recorded-but-never-sent-to-the-provider-external-tax",
+                "es": "reembolso-parcial-registrado-pero-nunca-enviado-al-proveedor-impuesto-externo",
+                "pt": "o-reembolso-dividido-foi-registrado-mas-nunca-enviado-ao-fornecedor-imposto-externo"
               },
               "origin": "",
               "type": "markdown",
@@ -64991,6 +65036,21 @@
             },
             {
               "name": {
+                "en": "Fixed Prices import may incorrectly report success when SKU column is formatted as a number",
+                "es": "La importación de precios fijos puede informar incorrectamente que se realizó correctamente cuando la columna SKU está formateada como un número.",
+                "pt": "A importação de preços fixos pode reportar incorretamente sucesso quando a coluna SKU estiver formatada como um número."
+              },
+              "slug": {
+                "en": "fixed-prices-import-may-incorrectly-report-success-when-sku-column-is-formatted-as-a-number",
+                "es": "la-importacion-de-precios-fijos-puede-informar-incorrectamente-que-se-realizo-correctamente-cuando-la-columna-sku-esta-formateada-como-un-numero",
+                "pt": "a-importacao-de-precos-fixos-pode-reportar-incorretamente-sucesso-quando-a-coluna-sku-estiver-formatada-como-um-numero"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Flag 'Only apply discount to the cheapest shipping option' not working as expected",
                 "es": "La bandera 'Aplicar el descuento sólo a la opción de envío más barata' no funciona como se esperaba",
                 "pt": "Bandeira 'Aplicar desconto apenas à opção de remessa mais barata' não funcionando como esperado"
@@ -67755,6 +67815,21 @@
             },
             {
               "name": {
+                "en": "Product specification field is not displayed on PDP when its name matches the specification group name",
+                "es": "El campo de especificación del producto no se muestra en PDP cuando su nombre coincide con el nombre del grupo de especificación.",
+                "pt": "O campo de especificação do produto não é exibido na página de detalhes do produto (PDP) quando seu nome corresponde ao nome do grupo de especificações."
+              },
+              "slug": {
+                "en": "product-specification-field-is-not-displayed-on-pdp-when-its-name-matches-the-specification-group-name",
+                "es": "el-campo-de-especificacion-del-producto-no-se-muestra-en-pdp-cuando-su-nombre-coincide-con-el-nombre-del-grupo-de-especificacion",
+                "pt": "o-campo-de-especificacao-do-produto-nao-e-exibido-na-pagina-de-detalhes-do-produto-pdp-quando-seu-nome-corresponde-ao-nome-do-grupo-de-especificacoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product Summary Quantity does not work in regionalized stores",
                 "es": "La cantidad del resumen del producto no funciona en las tiendas regionalizadas",
                 "pt": "A quantidade do resumo do produto não funciona em lojas regionalizadas"
@@ -68697,6 +68772,21 @@
                 "en": "amazon-order-cancellation-flow",
                 "es": "amazon-proceso-de-cancelacion-de-pedidos",
                 "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon Silent Error when Connecting Amazon Integration",
+                "es": "Amazon Error silencioso al conectar la integración de Amazon",
+                "pt": "Amazon Erro silencioso ao conectar a integração com a Amazon"
+              },
+              "slug": {
+                "en": "amazon-silent-error-when-connecting-amazon-integration",
+                "es": "amazon-error-silencioso-al-conectar-la-integracion-de-amazon",
+                "pt": "amazon-erro-silencioso-ao-conectar-a-integracao-com-a-amazon"
               },
               "origin": "",
               "type": "markdown",
