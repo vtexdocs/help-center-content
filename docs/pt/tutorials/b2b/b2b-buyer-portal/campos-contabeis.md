@@ -75,7 +75,9 @@ Você pode definir os seguintes itens como padrão:
 
 - Endereço.
 - Cartão.
-- Campos contábeis do tipo `option` criados via API.
+- Campos contábeis com valores predefinidos: campos de lista criados na Conta da Organização e campos do tipo `option` criados via API.
+
+Para os campos criados na Conta da Organização, você define o valor padrão na página de detalhes do campo, usando a opção **Definir como padrão** no menu de opções do valor.
 
 > ℹ️ Para mais informações sobre como adicionar ou configurar campos contábeis, acesse [Adicionar ou editar campos contábeis](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-campos-contabeis).
 
@@ -106,7 +108,7 @@ Você pode usar campos contábeis como entidades vinculadas em alocações de bu
 ### Preencher automaticamente campos do checkout por unidade organizacional
 
 - **Cenário:** a empresa quer reduzir erros e tempo de compra em múltiplas unidades.
-- **Configuração:** definir valores padrão por unidade organizacional para endereço, cartão e campos do tipo `option` criados via API.
+- **Configuração:** definir valores padrão por unidade organizacional para endereço, cartão e campos contábeis com valores predefinidos.
 - **Resultado:** o checkout preenche os campos automaticamente após o login, reduzindo o esforço.
 
 ### Classificar projetos ou atividades

@@ -75,18 +75,18 @@ Para editar um valor em um campo contábil, siga os passos abaixo:
 2. Clique no nome do campo contábil que deseja editar.
 3. Na tela do campo contábil, clique no ícone de opções <i class="fas fa-ellipsis-v" aria-hidden="true"></i> ao lado do valor que deseja editar.
 4. Selecione uma das seguintes opções, de acordo com a ação desejada:
-    - **Rename:** Altera o nome do valor do campo.
-    - **Set as default:** Define o valor como padrão, que a plataforma preenche automaticamente em todos os pedidos em que o campo se aplica.
-    - **Remove from unit:** Remove o valor da unidade organizacional à qual está atribuído. Essa ação não exclui o valor do sistema.
-    - **Delete:** Exclui permanentemente o valor do sistema.
+    - **Editar:** Altera o nome do valor do campo.
+    - **Definir como padrão:** Define o valor como padrão, que a plataforma preenche automaticamente em todos os pedidos em que o campo se aplica.
+    - **Remover da unidade:** Remove o valor da unidade organizacional à qual está atribuído. Essa ação não exclui o valor do sistema.
+    - **Excluir:** Exclui permanentemente o valor do sistema.
 
-> ❗ Use a opção **Delete** com cuidado. Excluir um valor remove permanentemente o valor e todos os dados associados a ele em múltiplas unidades organizacionais, o que pode comprometer o acesso a informações históricas e de auditoria. Após a confirmação, você não pode desfazer essa ação.
+> ❗ Use a opção **Excluir** com cuidado. Excluir um valor remove permanentemente o valor e todos os dados associados a ele em múltiplas unidades organizacionais, o que pode comprometer o acesso a informações históricas e de auditoria. Após a confirmação, você não pode desfazer essa ação.
 
 ## Excluir campo contábil
 
 Ao excluir um campo contábil, você remove o campo de todas as unidades organizacionais e exclui permanentemente todos os seus valores e dados relacionados. A plataforma mantém apenas o histórico de uso do campo, para fins de auditoria.
 
-> ❗ Você não pode desfazer a exclusão de um campo contábil. Para excluir apenas um valor específico de um campo, use a opção **Delete**, descrita em [Editar valor em um campo contábil](#editar-valor-em-um-campo-contabil).
+> ❗ Você não pode desfazer a exclusão de um campo contábil. Para excluir apenas um valor específico de um campo, use a opção **Excluir** do menu de opções do valor, descrita em [Editar valor em um campo contábil](#editar-valor-em-um-campo-contabil).
 
 Para excluir um campo contábil, siga os passos abaixo:
 
