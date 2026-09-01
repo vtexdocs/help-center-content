@@ -38641,21 +38641,6 @@
             },
             {
               "name": {
-                "en": "Builder-hub error when trying to publish an app",
-                "es": "Error de Builder-hub al intentar publicar una aplicación.",
-                "pt": "Erro do Builder-hub ao tentar publicar um aplicativo"
-              },
-              "slug": {
-                "en": "builderhub-error-when-trying-to-publish-an-app",
-                "es": "error-de-builderhub-al-intentar-publicar-una-aplicacion",
-                "pt": "erro-do-builderhub-ao-tentar-publicar-um-aplicativo"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "CLI's Windows installer doesn’t have a publisher",
                 "es": "El instalador de CLI para Windows no tiene editor",
                 "pt": "O instalador do Windows da CLI não tem um editor"
@@ -60975,6 +60960,21 @@
                 "en": "missing-refund-requests-executing-multiples-solicitations",
                 "es": "faltan-solicitudes-de-devolucion-que-ejecutan-varias-solicitudes",
                 "pt": "solicitacoes-de-reembolso-ausentes-que-executam-multiplas-solicitacoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "My Cards - Verification transaction (AV) denied due to phone field always null, even when customer's phone is registered in profile",
+                "es": "Mis Tarjetas - La verificación de la transacción (AV) fue rechazada debido a que el campo del teléfono siempre está vacío, incluso cuando el teléfono del cliente está registrado en el perfil.",
+                "pt": "Meus Cartões - Transação de verificação (AV) negada devido ao campo de telefone estar sempre vazio, mesmo quando o telefone do cliente está cadastrado no perfil."
+              },
+              "slug": {
+                "en": "my-cards-verification-transaction-av-denied-due-to-phone-field-always-null-even-when-customers-phone-is-registered-in-profile",
+                "es": "mis-tarjetas-la-verificacion-de-la-transaccion-av-fue-rechazada-debido-a-que-el-campo-del-telefono-siempre-esta-vacio-incluso-cuando-el-telefono-del-cliente-esta-registrado-en-el-perfil",
+                "pt": "meus-cartoes-transacao-de-verificacao-av-negada-devido-ao-campo-de-telefone-estar-sempre-vazio-mesmo-quando-o-telefone-do-cliente-esta-cadastrado-no-perfil"
               },
               "origin": "",
               "type": "markdown",
