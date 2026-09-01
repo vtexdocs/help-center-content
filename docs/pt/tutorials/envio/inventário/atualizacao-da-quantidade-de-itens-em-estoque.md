@@ -17,9 +17,10 @@ subcategoryId: 3PQwnyOcNyYgawy06oe6gE
 
 A atualização de itens em [estoque](/pt/docs/tutorials/estoque) ocorre quando a loja altera, para mais ou para menos, a  quantidade de unidades de um SKU. Essa atualização ocorre por meio do **[Inventário ](/pt/docs/tutorials/gerenciar-itens-em-estoque)** na plataforma VTEX.
 
-Há três formas de realizar a atualização de itens em estoque:
+Há quatro formas de realizar a atualização de itens em estoque:
 
 * **Via API:** utilizando o endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
+* **Via API, em lote:** utilizando o [Batch Inventory Updates](https://developers.vtex.com/docs/guides/batch-inventory-updates), recurso que permite atualizar o estoque de um grande volume de SKUs de uma só vez. O envio é feito por meio de um arquivo CSV com as combinações de SKU, seller e estoque, processado de forma assíncrona, e a plataforma disponibiliza um relatório com os erros encontrados. Essa opção é indicada para atualizações completas do inventário e sincronizações massivas com outros sistemas. O recurso está em fase beta, com acesso restrito. Para solicitar acesso, entre em contato com o [Suporte VTEX](https://supporticket.vtex.com/support).
 * **Via Admin, por planilha:** utilizando a planilha de estoque gerada pela plataforma VTEX, através da exportação e importação da planilha atualizada. Essa opção possibilita a atualização massiva de dados. Saiba mais em [Importar e exportar planilha de estoque](/pt/docs/tutorials/importando-e-exportando-planilha-de-estoque).
 * **Via Admin, manualmente:** atualizando de forma manual um SKU por vez, conforme as orientações a seguir.
 
