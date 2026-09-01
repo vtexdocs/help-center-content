@@ -41,7 +41,7 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 * [Ad Network](#ad-network)
 * [Card tokens](#card-tokens)
 * [Organizational units](#organizational-units)
-* [Shipping Options](#shipping-options)
+* [Delivery Options](#delivery-options)
 
 > ℹ️ In case you encounter an event in Audit which has not been included in this list, please inform us through the [documentation feedback page](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
@@ -448,7 +448,9 @@ In the **Action** column, all Headless CMS (Legacy) events also display the foll
 | UpdateOrganizationUnit | Update of the name of an organizational unit. | Organizational unit ID. |
 | MoveOrganizationUnit | Creation of a hierarchy between organizational units. | Parent organizational unit ID and child organizational unit ID. |
 
-## Shipping Options
+## Delivery Options
+
+> ℹ️ [Delivery Options](/en/docs/tutorials/delivery-options-beta) is in open beta and appears as **Shipping Options** in the Audit filter options. These events are only recorded in accounts that use Delivery Options. In other accounts, searching for this application returns no results.
 
 | Action | Event description | Event details |
 |---|---|---|

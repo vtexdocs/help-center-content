@@ -451,6 +451,8 @@ En la columna **Acción**, todos los eventos de Headless CMS (Legacy) también m
 
 ## Opciones de envío
 
+> ℹ️ [Opciones de envío](/es/docs/tutorials/opciones-de-envio-beta) está en fase de open beta. Estos eventos solo se registran en cuentas que usan Opciones de envío. En las demás cuentas, la búsqueda por esta aplicación no devuelve resultados.
+
 | Acción | Descripción del evento | Detalles del evento |
 |---|---|---|
 | DELIVERY_OPTION_CREATE | Creación de una opción de envío. | ID de la opción de envío. |
