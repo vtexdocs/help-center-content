@@ -51,6 +51,6 @@ To set special conditions on payment methods, go to [Configuring payment special
 
 ## Setting up exclusive payment methods
 
-To configure exclusive Mercado Pago payment methods, go to [setting up Mercado Pago Offline and Wallet as payment methods](/en/tutorial/configurar-mercado-pago-offline-e-wallet-como-metodos-de-pagamentos).
+To configure exclusive Mercado Pago payment methods, go to [setting up Mercado Pago Offline and Wallet as payment methods](/en/docs/tutorials/setting-up-offline-payment-conditions-using-mercadopago).
 
 For more information about integration with Mercado Pago, access the [DevSite Mercado Pago](https://www.mercadopago.com.br/developers/en/guides/plugins/unofficial/vtex/gateway-affiliations).

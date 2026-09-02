@@ -27,7 +27,7 @@ As the first player in the flow, it's responsible for sending this information t
 
 As an intermediary between an e-commerce and its payment method used, the gateway acts as a terminal, integrating in all the transactions carried out between the players of the payment flow in a single place.
 
-By activating the [connectors](/en/docs/tutorials/what-is-the-connector) and registering [payment and anti-fraud providers](https://help.vtex.com/docs/tutorials/registering-gateway-affiliations), your client's shopping data can be sent to acquirers or other gateways and thus move on through the approval flow in financial institutions. 
+By activating the [connectors](/en/docs/tutorials/what-is-the-connector) and registering [payment and anti-fraud providers](https://help.vtex.com/en/docs/tutorials/registering-gateway-affiliations), your client's shopping data can be sent to acquirers or other gateways and thus move on through the approval flow in financial institutions.
 
 VTEX platform has its own [PCI](/en/docs/tutorials/what-is-the-pci-ssc) certified gateway, which means that data from any payment made in your store is protected according to the highest security standards.
 

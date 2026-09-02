@@ -50,7 +50,7 @@ To fix the problem, there are two options: Set up PagSeguro with redirect correc
 3. Click on the __Gateway Affiliations__ tab.
 4. Click the __+__ button in the upper right corner of the screen.
 5. Click on the __PagSeguro without redirect__ affiliation.
-6. Follow our [PagSeguro configuration tutorial without redirect](/en/tutorial/how-configure-the-pagseguro-without-redirect-transparent).
+6. Follow our [payment condition configuration tutorial](/en/docs/tutorials/how-to-configure-payment-conditions).
 
 ### Setting the Payment Condition
 
