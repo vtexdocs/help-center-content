@@ -3,7 +3,7 @@ title: 'Eventos disponíveis no Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2026-08-25T00:00:00.000Z
+updatedAt: 2026-09-01T00:00:00.000Z
 publishedAt: 2025-08-25T18:20:54.585Z
 firstPublishedAt: 2022-06-22T16:28:52.801Z
 contentType: tutorial
@@ -41,6 +41,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 * [Ad Network](#ad-network)
 * [Tokens de cartão](#tokens-de-cartao)
 * [Unidades organizacionais](#unidades-organizacionais)
+* [Agente de Otimização de Busca](#agente-de-otimizacao-de-busca)
 
 > ℹ️ Caso você visualize no Audit algum evento que não esteja listado aqui, por favor nos informe usando a [página de feedback de documentação](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
@@ -447,4 +448,14 @@ Na coluna **Ação**, todos os eventos do Headless CMS (Legacy) também apresent
 | SaveOrganizationUnit | Criação de uma unidade organizacional. | ID da unidade organizacional. |
 | UpdateOrganizationUnit | Atualização do nome de uma unidade organizacional. | ID da unidade organizacional. |
 | MoveOrganizationUnit | Criação de hierarquia entre unidades organizacionais. | ID da unidade organizacional de nível superior e ID da unidade organizacional de nível inferior. |
+
+## Agente de Otimização de Busca
+
+| Ação | Descrição do evento | Detalhes do evento |
+|---|---|---|
+| CreateSynonymRule | Criação de uma regra de sinônimo unidirecional. | ID da regra, termos (esquerda e direita), locales e se a regra está ativa. |
+| CreateBidirectionalSynonymRule | Criação de uma regra de sinônimo bidirecional. | ID da regra, termos (esquerda e direita), locales e se a regra está ativa. |
+| DeleteSynonymRule | Exclusão de uma regra de sinônimo. | ID da regra. |
+| ActivateSynonymRule | Ativação de uma regra de sinônimo. | ID da regra. |
+| DeactivateSynonymRule | Desativação de uma regra de sinônimo. | ID da regra. |
 

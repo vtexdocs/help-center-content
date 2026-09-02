@@ -3,7 +3,7 @@ title: 'Eventos disponibles en Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2026-08-25T00:00:00.000Z
+updatedAt: 2026-09-01T00:00:00.000Z
 publishedAt: 2025-08-25T18:20:54.585Z
 firstPublishedAt: 2022-06-22T16:28:52.801Z
 contentType: tutorial
@@ -41,6 +41,7 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 * [Ad Network](#ad-network)
 * [Tokens de tarjeta](#tokens-de-tarjeta)
 * [Unidades organizativas](#unidades-organizativas)
+* [Agente de Optimización de Búsqueda](#agente-de-optimizacion-de-busqueda)
 
 > ℹ️ Si, en Audit, ves algún evento no incluido en esta lista, por favor, envíanos más información a través de la [página de feedback sobre documentación](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
@@ -447,4 +448,14 @@ En la columna **Acción**, todos los eventos de Headless CMS (Legacy) también m
 | SaveOrganizationUnit | Creación de una unidad organizacional. | ID de la unidad organizacional. |
 | UpdateOrganizationUnit | Actualización del nombre de una unidad organizacional. | ID de la unidad organizacional. |
 | MoveOrganizationUnit | Creación de una jerarquía entre unidades organizacionales. | ID de la unidad organizacional superior e ID de la unidad organizacional inferior. |
+
+## Agente de Optimización de Búsqueda
+
+| Acción | Descripción del evento | Detalles del evento |
+|---|---|---|
+| CreateSynonymRule | Creación de una regla de sinónimo unidireccional. | ID de la regla, términos (izquierda y derecha), locales y si la regla está activa. |
+| CreateBidirectionalSynonymRule | Creación de una regla de sinónimo bidireccional. | ID de la regla, términos (izquierda y derecha), locales y si la regla está activa. |
+| DeleteSynonymRule | Eliminación de una regla de sinónimo. | ID de la regla. |
+| ActivateSynonymRule | Activación de una regla de sinónimo. | ID de la regla. |
+| DeactivateSynonymRule | Desactivación de una regla de sinónimo. | ID de la regla. |
 
