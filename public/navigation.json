@@ -7799,7 +7799,7 @@
               "children": [
                 {
                   "name": {
-                    "en": "New Master Data API increases configuration flexibility",
+                    "en": "Master Data: New Master Data API increases configuration flexibility",
                     "es": "La nueva API del Master Data aumenta la flexibilidad de  configuración",
                     "pt": "Nova API do Master Data aumenta flexibilidade de configuração"
                   },
@@ -7814,7 +7814,7 @@
                 },
                 {
                   "name": {
-                    "en": "New CDN gives more security and speed",
+                    "en": "New CDN provides greater security and speed",
                     "es": "Nueva CDN ofrece más seguridad y velocidad",
                     "pt": "Nova CDN oferece mais segurança e velocidade"
                   },
@@ -7890,7 +7890,7 @@
                 },
                 {
                   "name": {
-                    "en": "We're launching your personal data set up screen",
+                    "en": "We're launching the personal data setup screen",
                     "es": "Lanzamos la pantalla de configuración de sus datos personales",
                     "pt": "Lançamos a tela de configuração dos seus dados pessoais"
                   },
@@ -7935,7 +7935,7 @@
                 },
                 {
                   "name": {
-                    "en": "VTEX login now needs 2-factor authentication",
+                    "en": "VTEX login now requires 2-factor authentication",
                     "es": "Login en VTEX ahora necesita autenticación de 2 factores",
                     "pt": "Login na VTEX agora precisa de autenticação de 2 fatores"
                   },
@@ -8011,7 +8011,7 @@
                 },
                 {
                   "name": {
-                    "en": "We released the new Order Placed",
+                    "en": "We've released the new Order Placed page",
                     "es": "Ya está live el nuevo Order Placed",
                     "pt": "Lançamos o novo Order Placed"
                   },
@@ -8026,7 +8026,7 @@
                 },
                 {
                   "name": {
-                    "en": "As of 11/13 VTEX APIs will no longer support authentication via email and password",
+                    "en": "As of 11/13, VTEX APIs will no longer support authentication via email and password",
                     "es": "A partir de 13/11 APIs VTEX dejarán de soportar autenticación por email y contraseña",
                     "pt": "A partir de 13/11 APIs VTEX deixarão de suportar autenticação por e-mail e senha"
                   },
@@ -8071,7 +8071,7 @@
                 },
                 {
                   "name": {
-                    "en": "VTEX stores now have automatic image compiling to WebP",
+                    "en": "VTEX stores now have automatic image conversion to WebP",
                     "es": "Tiendas VTEX ahora tienen compresión automática de imágenes para WebP",
                     "pt": "Lojas VTEX agora têm compactação automática de imagens para WebP"
                   },
@@ -16469,7 +16469,7 @@
                   "children": [
                     {
                       "name": {
-                        "en": "Changing the logo on the bank slip",
+                        "en": "Changing the logo on the Boleto",
                         "es": "Cambiar el logotipo del boleto",
                         "pt": "Alterar o logotipo do boleto"
                       },
@@ -25313,14 +25313,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "How are the payments made through bank slips approved?",
-                    "es": "¿Cómo se hace la aprobación de  pago del boleto?",
-                    "pt": "Como é feita a aprovação de pagamento do boleto?"
+                    "en": "How are the payments made through Boletos approved?",
+                    "es": "How are the payments made through Boletos approved?",
+                    "pt": "How are the payments made through Boletos approved?"
                   },
                   "slug": {
-                    "en": "how-are-the-payments-made-through-bank-slips-approved",
-                    "es": "como-se-hace-la-aprobacion-de-pago-del-boleto",
-                    "pt": "como-e-feita-a-aprovacao-de-pagamento-do-boleto"
+                    "en": "how-are-the-payments-made-through-boletos-approved",
+                    "es": "",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25336,6 +25336,68 @@
                     "en": "bank-reconciliations",
                     "es": "conciliaciones-bancarias",
                     "pt": "conciliacoes-bancarias"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Conciliaciones bancarias",
+                "es": "Conciliaciones bancarias",
+                "pt": "Conciliação bancária"
+              },
+              "slug": {
+                "en": "conciliaciones-bancarias",
+                "es": "conciliaciones-bancarias-subcategoria",
+                "pt": "conciliação-bancária-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "es": "¿Cómo se hace la aprobación de  pago del boleto?",
+                    "pt": "Como é feita a aprovação de pagamento do boleto?",
+                    "en": "¿Cómo se hace la aprobación de  pago del boleto?"
+                  },
+                  "slug": {
+                    "es": "como-se-hace-la-aprobacion-de-pago-del-boleto",
+                    "pt": "como-e-feita-a-aprovacao-de-pagamento-do-boleto",
+                    "en": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Configuración de Pagos",
+                "es": "Configuración de Pagos",
+                "pt": "Configurações de Pagamentos"
+              },
+              "slug": {
+                "en": "configuracion-de-pagos",
+                "es": "configuracion-de-pagos-subcategoria",
+                "pt": "configurações-de-pagamentos-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "es": "Configurar boleto bancario",
+                    "pt": "Configurar boleto bancário",
+                    "en": "Configurar boleto bancario"
+                  },
+                  "slug": {
+                    "es": "como-configurar-boleto-bancario",
+                    "pt": "como-configurar-boleto-bancario",
+                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25404,14 +25466,14 @@
                 },
                 {
                   "name": {
-                    "en": "Configuring bank slips",
-                    "es": "Configurar boleto bancario",
-                    "pt": "Configurar boleto bancário"
+                    "en": "Configuring a Boleto",
+                    "es": "Configuring a Boleto",
+                    "pt": "Configuring a Boleto"
                   },
                   "slug": {
-                    "en": "how-to-configure-a-bank-slip",
-                    "es": "como-configurar-boleto-bancario",
-                    "pt": "como-configurar-boleto-bancario"
+                    "en": "how-to-configure-a-boleto",
+                    "es": "",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29395,14 +29457,14 @@
                 },
                 {
                   "name": {
-                    "en": "Why does payment with registered bank slip require authentication?",
-                    "es": "¿Por qué el pago por boleto registrado requiere autenticación?",
-                    "pt": "Por que o pagamento por boleto registrado exige autenticação?"
+                    "en": "Why does payment with registered Boleto require authentication?",
+                    "es": "Why does payment with registered Boleto require authentication?",
+                    "pt": "Why does payment with registered Boleto require authentication?"
                   },
                   "slug": {
-                    "en": "why-does-payment-with-registered-bank-slip-require-authentication",
-                    "es": "por-que-el-pago-por-boleto-registrado-requiere-autenticacion",
-                    "pt": "por-que-o-pagamento-por-boleto-registado-exige-autenticacao"
+                    "en": "why-does-payment-with-registered-boleto-require-authentication",
+                    "es": "",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29659,6 +29721,37 @@
                     "en": "where-do-i-see-the-payment-capture-date",
                     "es": "donde-veo-la-fecha-de-captura-del-pago",
                     "pt": "onde-vejo-a-data-de-captura-do-pagamento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Visión de conjunto de Pagos",
+                "es": "Visión de conjunto de Pagos",
+                "pt": "Pagamentos - Visão geral"
+              },
+              "slug": {
+                "en": "vision-de-conjunto-de-pagos",
+                "es": "vision-de-conjunto-de-pagos-subcategoria",
+                "pt": "visão-geral-de-pagamentos-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "es": "¿Por qué el pago por boleto registrado requiere autenticación?",
+                    "pt": "Por que o pagamento por boleto registrado exige autenticação?",
+                    "en": "¿Por qué el pago por boleto registrado requiere autenticación?"
+                  },
+                  "slug": {
+                    "es": "por-que-el-pago-por-boleto-registrado-requiere-autenticacion",
+                    "pt": "por-que-o-pagamento-por-boleto-registado-exige-autenticacao",
+                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
