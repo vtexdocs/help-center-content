@@ -11475,9 +11475,24 @@
                 },
                 {
                   "name": {
-                    "en": "4. Glossary",
-                    "es": "4. Glosario",
-                    "pt": "4. Glossário"
+                    "en": "4. CMS for FastStore",
+                    "es": "4. CMS for FastStore",
+                    "pt": "4. CMS for FastStore"
+                  },
+                  "slug": {
+                    "en": "cms-for-faststore",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "5. Glossary",
+                    "es": "5. Glosario",
+                    "pt": "5. Glossário"
                   },
                   "slug": {
                     "en": "glossary",
@@ -38689,6 +38704,21 @@
             },
             {
               "name": {
+                "en": "Builder-hub error when trying to publish an app",
+                "es": "Error de Builder-hub al intentar publicar una aplicación.",
+                "pt": "Erro do Builder-hub ao tentar publicar um aplicativo"
+              },
+              "slug": {
+                "en": "builderhub-error-when-trying-to-publish-an-app",
+                "es": "error-de-builderhub-al-intentar-publicar-una-aplicacion",
+                "pt": "erro-do-builderhub-ao-tentar-publicar-um-aplicativo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "CLI's Windows installer doesn’t have a publisher",
                 "es": "El instalador de CLI para Windows no tiene editor",
                 "pt": "O instalador do Windows da CLI não tem um editor"
@@ -45601,6 +45631,21 @@
                 "en": "incorrect-display-of-package-quantity-at-checkout",
                 "es": "visualizacion-incorrecta-de-la-cantidad-de-paquetes-en-la-caja",
                 "pt": "exibicao-incorreta-da-quantidade-da-embalagem-no-checkout"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Incorrect reward value in the orderForm when a promotion splits an item",
+                "es": "Valor de recompensa incorrecto en el formulario de pedido cuando una promoción divide un artículo.",
+                "pt": "Valor de recompensa incorreto no formulário de pedido quando uma promoção divide um item."
+              },
+              "slug": {
+                "en": "incorrect-reward-value-in-the-orderform-when-a-promotion-splits-an-item",
+                "es": "valor-de-recompensa-incorrecto-en-el-formulario-de-pedido-cuando-una-promocion-divide-un-articulo",
+                "pt": "valor-de-recompensa-incorreto-no-formulario-de-pedido-quando-uma-promocao-divide-um-item"
               },
               "origin": "",
               "type": "markdown",
@@ -60071,12 +60116,12 @@
             {
               "name": {
                 "en": "Error when processing the second refund or cancellation with the same value as the first",
-                "es": "Se ha producido un error al procesar el segundo reembolso o la segunda cancelación con el mismo importe que el primero",
+                "es": "Error al procesar el segundo reembolso o cancelación con el mismo valor que el primero.",
                 "pt": "Erro ao processar o segundo reembolso ou cancelamento com o mesmo valor do primeiro."
               },
               "slug": {
                 "en": "error-when-processing-the-second-refund-or-cancellation-with-the-same-value-as-the-first",
-                "es": "se-ha-producido-un-error-al-procesar-el-segundo-reembolso-o-la-segunda-cancelacion-con-el-mismo-importe-que-el-primero",
+                "es": "error-al-procesar-el-segundo-reembolso-o-cancelacion-con-el-mismo-valor-que-el-primero",
                 "pt": "erro-ao-processar-o-segundo-reembolso-ou-cancelamento-com-o-mesmo-valor-do-primeiro"
               },
               "origin": "",
@@ -68956,6 +69001,21 @@
                 "en": "category-mapping-via-xls-not-reprocessed-for-accounts-with-large-volume-of-suggestions",
                 "es": "la-asignacion-de-categorias-mediante-xls-no-se-reprocesa-para-cuentas-con-un-gran-volumen-de-sugerencias",
                 "pt": "o-mapeamento-de-categorias-via-xls-nao-e-reprocessado-para-contas-com-grande-volume-de-sugestoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Dafiti Error orders A task was canceled.",
+                "es": "Dafiti Error en las órdenes. Se canceló una tarea.",
+                "pt": "Dafiti Ordens com erro. Uma tarefa foi cancelada."
+              },
+              "slug": {
+                "en": "dafiti-error-orders-a-task-was-canceled",
+                "es": "dafiti-error-en-las-ordenes-se-cancelo-una-tarea",
+                "pt": "dafiti-ordens-com-erro-uma-tarefa-foi-cancelada"
               },
               "origin": "",
               "type": "markdown",
