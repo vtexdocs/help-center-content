@@ -25362,13 +25362,13 @@
                 {
                   "name": {
                     "en": "How are the payments made through Boletos approved?",
-                    "es": "How are the payments made through Boletos approved?",
-                    "pt": "How are the payments made through Boletos approved?"
+                    "es": "¿Cómo se hace la aprobación de  pago del boleto?",
+                    "pt": "Como é feita a aprovação de pagamento do boleto?"
                   },
                   "slug": {
                     "en": "how-are-the-payments-made-through-boletos-approved",
-                    "es": "",
-                    "pt": ""
+                    "es": "como-se-hace-la-aprobacion-de-pago-del-boleto",
+                    "pt": "como-e-feita-a-aprovacao-de-pagamento-do-boleto"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25384,68 +25384,6 @@
                     "en": "bank-reconciliations",
                     "es": "conciliaciones-bancarias",
                     "pt": "conciliacoes-bancarias"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Conciliaciones bancarias",
-                "es": "Conciliaciones bancarias",
-                "pt": "Conciliação bancária"
-              },
-              "slug": {
-                "en": "conciliaciones-bancarias",
-                "es": "conciliaciones-bancarias-subcategoria",
-                "pt": "conciliação-bancária-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "¿Cómo se hace la aprobación de  pago del boleto?",
-                    "pt": "Como é feita a aprovação de pagamento do boleto?",
-                    "en": "¿Cómo se hace la aprobación de  pago del boleto?"
-                  },
-                  "slug": {
-                    "es": "como-se-hace-la-aprobacion-de-pago-del-boleto",
-                    "pt": "como-e-feita-a-aprovacao-de-pagamento-do-boleto",
-                    "en": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Configuración de Pagos",
-                "es": "Configuración de Pagos",
-                "pt": "Configurações de Pagamentos"
-              },
-              "slug": {
-                "en": "configuracion-de-pagos",
-                "es": "configuracion-de-pagos-subcategoria",
-                "pt": "configurações-de-pagamentos-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "Configurar boleto bancario",
-                    "pt": "Configurar boleto bancário",
-                    "en": "Configurar boleto bancario"
-                  },
-                  "slug": {
-                    "es": "como-configurar-boleto-bancario",
-                    "pt": "como-configurar-boleto-bancario",
-                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25515,13 +25453,13 @@
                 {
                   "name": {
                     "en": "Configuring a Boleto",
-                    "es": "Configuring a Boleto",
-                    "pt": "Configuring a Boleto"
+                    "es": "Configurar boleto bancario",
+                    "pt": "Configurar boleto bancário"
                   },
                   "slug": {
                     "en": "how-to-configure-a-boleto",
-                    "es": "",
-                    "pt": ""
+                    "es": "como-configurar-boleto-bancario",
+                    "pt": "como-configurar-boleto-bancario"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29506,13 +29444,13 @@
                 {
                   "name": {
                     "en": "Why does payment with registered Boleto require authentication?",
-                    "es": "Why does payment with registered Boleto require authentication?",
-                    "pt": "Why does payment with registered Boleto require authentication?"
+                    "es": "¿Por qué el pago por boleto registrado requiere autenticación?",
+                    "pt": "Por que o pagamento por boleto registrado exige autenticação?"
                   },
                   "slug": {
                     "en": "why-does-payment-with-registered-boleto-require-authentication",
-                    "es": "",
-                    "pt": ""
+                    "es": "por-que-el-pago-por-boleto-registrado-requiere-autenticacion",
+                    "pt": "por-que-o-pagamento-por-boleto-registado-exige-autenticacao"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29769,37 +29707,6 @@
                     "en": "where-do-i-see-the-payment-capture-date",
                     "es": "donde-veo-la-fecha-de-captura-del-pago",
                     "pt": "onde-vejo-a-data-de-captura-do-pagamento"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Visión de conjunto de Pagos",
-                "es": "Visión de conjunto de Pagos",
-                "pt": "Pagamentos - Visão geral"
-              },
-              "slug": {
-                "en": "vision-de-conjunto-de-pagos",
-                "es": "vision-de-conjunto-de-pagos-subcategoria",
-                "pt": "visão-geral-de-pagamentos-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "¿Por qué el pago por boleto registrado requiere autenticación?",
-                    "pt": "Por que o pagamento por boleto registrado exige autenticação?",
-                    "en": "¿Por qué el pago por boleto registrado requiere autenticación?"
-                  },
-                  "slug": {
-                    "es": "por-que-el-pago-por-boleto-registrado-requiere-autenticacion",
-                    "pt": "por-que-o-pagamento-por-boleto-registado-exige-autenticacao",
-                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
