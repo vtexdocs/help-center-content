@@ -20340,6 +20340,21 @@
                 },
                 {
                   "name": {
+                    "en": "Content agent",
+                    "es": "Content agent",
+                    "pt": "Content agent"
+                  },
+                  "slug": {
+                    "en": "content-agent",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Roles and permissions",
                     "es": "Roles y permisos",
                     "pt": "Perfis de acesso e permissões"
