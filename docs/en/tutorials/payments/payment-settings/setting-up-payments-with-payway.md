@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the Payway payment provider. With this provider, your store can make sales through PayWay, cards (credit, debit, private label, co-branded), notes payable and bank slips.
+At VTEX, it is possible to integrate with the Payway payment provider. With this provider, your store can make sales through PayWay, cards (credit, debit, private label, co-branded), notes payable and Boletos.
 
 To configure Payway, follow the steps below:
 

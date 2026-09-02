@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the payment provider PagBrasilV2. Through this provider, your store can make sales using debit and credit cards, bank slips, ewallets, notes payable and PIX.
+At VTEX, it is possible to integrate with the payment provider PagBrasilV2. Through this provider, your store can make sales using debit and credit cards, Boletos, ewallets, notes payable and PIX.
 
 To configure PagBrasilV2, follow the steps below:
 
