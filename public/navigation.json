@@ -16351,6 +16351,69 @@
       "categories": [
         {
           "name": {
+            "en": "Admin VTEX",
+            "es": "Admin VTEX",
+            "pt": "Admin VTEX"
+          },
+          "slug": {
+            "en": "admin-vtex",
+            "es": "admin-vtex-subcategoria",
+            "pt": "admin-vtex-subcategoria"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Gestión de la cuenta",
+                "es": "Gestión de la cuenta",
+                "pt": "Gerenciamento da conta"
+              },
+              "slug": {
+                "en": "gestion-de-la-cuenta",
+                "es": "gestion-de-la-cuenta-categoria",
+                "pt": "gerenciamento-da-conta-categoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Cuentas",
+                    "es": "Cuentas",
+                    "pt": "Contas"
+                  },
+                  "slug": {
+                    "en": "cuentas",
+                    "es": "cuentas-subcategoria",
+                    "pt": "contas-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "es": "Cambiar el logotipo del boleto",
+                        "pt": "Alterar o logotipo do boleto",
+                        "en": "Cambiar el logotipo del boleto"
+                      },
+                      "slug": {
+                        "es": "cambiar-el-logotipo-del-boleto",
+                        "pt": "alterar-o-logotipo-do-boleto",
+                        "en": ""
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": {
             "en": "VTEX Admin",
             "es": "Admin VTEX",
             "pt": "Admin VTEX"
@@ -16467,21 +16530,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": [
-                    {
-                      "name": {
-                        "en": "Changing the logo on the Boleto",
-                        "es": "Cambiar el logotipo del boleto",
-                        "pt": "Alterar o logotipo do boleto"
-                      },
-                      "slug": {
-                        "en": "changing-the-logo-on-the-bank-slip",
-                        "es": "cambiar-el-logotipo-del-boleto",
-                        "pt": "alterar-o-logotipo-do-boleto"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
                     {
                       "name": {
                         "en": "Changing the store domain",
