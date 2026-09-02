@@ -106,6 +106,6 @@ The storefront features available in the VTEX Admin depend on the selected techn
 
 ## Next steps
 
-- [Storefront Development](https://developers.vtex.com/docs/storefront-development) — Explore the complete developer documentation for VTEX storefront solutions.
-- [Getting started with storefront solutions](https://developers.vtex.com/docs/guides/getting-started-with-storefront-solutions) — Compare the capabilities and development experience of each solution.
-- [Frontend implementation](https://help.vtex.com/docs/tracks/frontend-implementation) — Learn about the steps involved in implementing a storefront project.
+- [Storefront Development](https://developers.vtex.com/docs/storefront-development): Explore the complete developer documentation for VTEX storefront solutions.
+- [Getting started with storefront solutions](https://developers.vtex.com/docs/guides/getting-started-with-storefront-solutions): Compare the capabilities and development experience of each solution.
+- [Frontend implementation](https://help.vtex.com/docs/tracks/frontend-implementation): Learn about the steps involved in implementing a storefront project.
