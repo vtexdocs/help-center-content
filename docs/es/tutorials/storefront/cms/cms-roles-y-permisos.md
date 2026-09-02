@@ -1,5 +1,5 @@
 ---
-title: " CMS roles y permisos"
+title: "CMS roles y permisos"
 createdAt: "2026-07-08T10:00:00.219Z"
 updatedAt: "2026-08-13T10:00:00.219Z"
 contentType: tutorial
