@@ -20283,8 +20283,8 @@
                   },
                   "slug": {
                     "en": "cms-roles-and-permissions",
-                    "es": "roles-y-permisos",
-                    "pt": "perfis-de-acesso-e-permissoes"
+                    "es": "cms-roles-y-permisos",
+                    "pt": "cms-perfis-de-acesso-e-permissoes"
                   },
                   "origin": "",
                   "type": "markdown",
