@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the payment provider MercadoPagoV2. Through it, your store can receive payments using traditional methods, such as: bank slip, PIX, debit and credit cards, as well as through exclusive Mercado Pago methods, such as: MercadoPagoOff, MercadoPagoPro and MercadoPagoWallet.
+At VTEX, it is possible to integrate with the payment provider MercadoPagoV2. Through it, your store can receive payments using traditional methods, such as: Boleto, PIX, debit and credit cards, as well as through exclusive Mercado Pago methods, such as: MercadoPagoOff, MercadoPagoPro and MercadoPagoWallet.
 
 To configure MercadoPagoV2, follow the steps below:
 

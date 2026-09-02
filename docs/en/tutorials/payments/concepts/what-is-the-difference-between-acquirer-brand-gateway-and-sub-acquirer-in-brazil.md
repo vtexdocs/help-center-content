@@ -61,7 +61,7 @@ In the [credit card payment flow](/en/docs/tutorials/credit-card-basic-payment-f
 
 ## Issuing Bank
 
-The issuing bank is the financial institution responsible for the payment method, be it by bank slip, debit or credit card. It is the one who, when receiving the data of a purchase made in your store, will either authorize the sale or not (depending on the  available credit limit or available monetary resources in the user's account). If everything is OK, the bank collects the value.
+The issuing bank is the financial institution responsible for the payment method, be it by Boleto, debit or credit card. It is the one who, when receiving the data of a purchase made in your store, will either authorize the sale or not (depending on the  available credit limit or available monetary resources in the user's account). If everything is OK, the bank collects the value.
 
 This concept is important because it allows you to set up [special conditions](/en/docs/tutorials/special-conditions) for payments made through specific banks. In addition, for registered payment tickets, each bank has its own form of issuance.
 
