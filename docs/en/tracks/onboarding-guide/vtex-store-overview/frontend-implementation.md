@@ -42,15 +42,35 @@ Before implementing the frontend, you should configure the following steps in yo
 
 ## Frontend development technologies on VTEX
 
-VTEX has three different technologies for storefront development: [FastStore](#faststore), [Store Framework](#store-framework) and [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal). CMS Portal (Legacy) was VTEX's first technology for building storefronts, based on HTML, CSS, and JavaScript, and all development and code editing for this technology is done via the VTEX Admin.
+VTEX has three different technologies for storefront development: [FastStore](#faststore), [Store Framework](#store-framework), and [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal). CMS Portal (Legacy) was VTEX's first technology for building storefronts, based on HTML, CSS, and JavaScript, and all development and code editing for this technology is done via the VTEX Admin.
 
 > ⚠️ Although some stores still use it, the [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal) is a legacy technology and is no longer available to new stores starting with VTEX.
 
 The following sections are about the main characteristics and features of FastStore and Store Framework.
 
+## Implementation workflow
+
+Although the tools vary by technology, storefront implementations generally follow this workflow:
+
+```mermaid
+flowchart LR
+    A["Plan"] --> B["Prepare"]
+    B --> C["Develop"]
+    C --> D["Integrate"]
+    D --> E["Test"]
+    E --> F["Go live"]
+```
+
+1. **Plan:** Define the storefront scope, information architecture, design, integrations, and acceptance criteria.
+2. **Prepare:** Configure access, development environments, commerce data, and required apps or services.
+3. **Develop:** Implement pages, components, styling, and storefront behavior using the selected technology.
+4. **Integrate:** Connect content management, search, checkout, login, My Account, analytics, and any required external services.
+5. **Test:** Validate functionality, content, responsive behavior, accessibility, SEO, analytics, and performance.
+6. **Go live:** Complete production checks, deploy the storefront, point the store domain to it, and monitor the launch.
+
 ## FastStore
 
-FastStore is a fresh innovative storefront technology for development teams to create stores focused on performance and stability. It's also an easy-to-maintain technology when editing your store's pages.
+FastStore is a fresh, innovative storefront technology for development teams to create stores focused on performance and stability. It's also an easy-to-maintain technology when editing your store's pages.
 
 This technology is an open-source toolkit based on [React](https://react.dev/) and the [Jamstack](https://jamstack.org/) architecture. For more information, see the [FastStore](https://www.faststore.dev/docs) documentation portal.
 
@@ -64,8 +84,8 @@ The following table lists some of FastStore's main features:
 | [FastStore UI](https://developers.vtex.com/docs/guides/faststore/components-index) | Component library for ecommerce that provides basic features and design, enabling faster implementation and storefront customization. |
 | Headless technology | Customization process that separates the store code developed by the development team from the base code provided by VTEX. This simplifies updates to the store's frontend, allowing updates without impacting the customized code. |
 | [GitHub](https://github.com/) integration | Development teams can manage all storefront code using [GitHub](https://github.com/). |
-| [Headless CMS (Legacy)](https://developers.vtex.com/docs/guides/faststore/headless-cms-overview) | Content management system (CMS) that allows editing and creating new pages and previewing content changes. |
-| Automated checks | Functional tests and the store's performance and code quality assessment run continuously and automatically to identify slowdowns and bugs throughout the storefront development stage. |
+| [CMS](https://help.vtex.com/docs/tutorials/cms-overview) | Content management system (CMS) that allows editing and creating new pages and previewing content changes. |
+| Automated checks | Functional tests, store performance, and code quality assessments run continuously and automatically to identify slowdowns and bugs throughout the storefront development stage. |
 | [Intelligent Search](https://developers.vtex.com/docs/guides/faststore/getting-started-1-setting-up-your-environment#step-4-enabling-the-vtex-intelligent-search-app) integration | Autocomplete feature in the search bar, which also offers search suggestions and products based on configurable preferences. |
 | [Checkout](https://developers.vtex.com/docs/guides/faststore/go-live-3-integrating-the-vtex-checkout), [My Account and Login](https://developers.vtex.com/docs/guides/faststore/go-live-4-integrating-the-vtex-order-placed-and-my-account) integrations | Integration with other stages of the customer buying journey. VTEX stores previously developed using Store Framework can keep settings related to Checkout, My Account, and Login when migrated to FastStore, as they benefit from the same infrastructure. |
 
@@ -84,7 +104,7 @@ For more information, read the [What is VTEX Store Framework](https://developers
 
 ### Development environment
 
-When talking about frontend implementation, remember that [VTEX IO](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-io) is not a storefront building technology, but rather a development platform. The Store Framework is a technology for building storefronts that runs on VTEX IO, a cloud-based environment and development solution for customized apps and storefronts.
+When discussing frontend implementation, remember that [VTEX IO](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-io) is not a storefront-building technology but rather a development platform. The Store Framework is a technology for building storefronts that runs on VTEX IO, a cloud-based environment and development solution for customized apps and storefronts.
 
 This means that with VTEX IO, you develop your code locally. However, when it comes to deploying and running the store, VTEX IO manages the infrastructure, CI/CD, and security and takes care of the deployment process. The image below shows how these concepts relate to each other:
 
