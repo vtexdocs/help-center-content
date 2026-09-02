@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Master Data: bulk document deletion via API",
+                    "es": "Master Data: eliminación masiva de documentos vía API",
+                    "pt": "Master Data: exclusão em massa de documentos via API"
+                  },
+                  "slug": {
+                    "en": "2026-09-04-master-data-bulk-document-deletion-via-api",
+                    "es": "2026-09-04-master-data-eliminacion-masiva-de-documentos-via-api",
+                    "pt": "2026-09-04-master-data-exclusao-em-massa-de-documentos-via-api"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Intelligent Search: Synonym conflict detection",
                     "es": "Intelligent Search: detección de sinónimos conflictivos",
                     "pt": "Intelligent Search: detecção de sinônimos conflitantes"
@@ -7799,7 +7814,7 @@
               "children": [
                 {
                   "name": {
-                    "en": "New Master Data API increases configuration flexibility",
+                    "en": "Master Data: New Master Data API increases configuration flexibility",
                     "es": "La nueva API del Master Data aumenta la flexibilidad de  configuración",
                     "pt": "Nova API do Master Data aumenta flexibilidade de configuração"
                   },
@@ -7814,7 +7829,7 @@
                 },
                 {
                   "name": {
-                    "en": "New CDN gives more security and speed",
+                    "en": "New CDN provides greater security and speed",
                     "es": "Nueva CDN ofrece más seguridad y velocidad",
                     "pt": "Nova CDN oferece mais segurança e velocidade"
                   },
@@ -7890,7 +7905,7 @@
                 },
                 {
                   "name": {
-                    "en": "We're launching your personal data set up screen",
+                    "en": "We're launching the personal data setup screen",
                     "es": "Lanzamos la pantalla de configuración de sus datos personales",
                     "pt": "Lançamos a tela de configuração dos seus dados pessoais"
                   },
@@ -7935,7 +7950,7 @@
                 },
                 {
                   "name": {
-                    "en": "VTEX login now needs 2-factor authentication",
+                    "en": "VTEX login now requires 2-factor authentication",
                     "es": "Login en VTEX ahora necesita autenticación de 2 factores",
                     "pt": "Login na VTEX agora precisa de autenticação de 2 fatores"
                   },
@@ -8011,7 +8026,7 @@
                 },
                 {
                   "name": {
-                    "en": "We released the new Order Placed",
+                    "en": "We've released the new Order Placed page",
                     "es": "Ya está live el nuevo Order Placed",
                     "pt": "Lançamos o novo Order Placed"
                   },
@@ -8026,7 +8041,7 @@
                 },
                 {
                   "name": {
-                    "en": "As of 11/13 VTEX APIs will no longer support authentication via email and password",
+                    "en": "As of 11/13, VTEX APIs will no longer support authentication via email and password",
                     "es": "A partir de 13/11 APIs VTEX dejarán de soportar autenticación por email y contraseña",
                     "pt": "A partir de 13/11 APIs VTEX deixarão de suportar autenticação por e-mail e senha"
                   },
@@ -8071,7 +8086,7 @@
                 },
                 {
                   "name": {
-                    "en": "VTEX stores now have automatic image compiling to WebP",
+                    "en": "VTEX stores now have automatic image conversion to WebP",
                     "es": "Tiendas VTEX ahora tienen compresión automática de imágenes para WebP",
                     "pt": "Lojas VTEX agora têm compactação automática de imagens para WebP"
                   },
