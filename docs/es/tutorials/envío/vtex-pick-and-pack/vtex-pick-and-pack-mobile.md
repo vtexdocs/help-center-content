@@ -1,23 +1,17 @@
 ---
 title: 'VTEX Pick and Pack Mobile'
-id: 3i1K01CQlDBFYYp42WFOet
-status: PUBLISHED
 createdAt: 2024-04-04T20:42:46.548Z
-updatedAt: 2025-10-01T19:33:57.065Z
-publishedAt: 2025-10-01T19:33:57.065Z
-firstPublishedAt: 2024-04-06T01:59:46.300Z
+updatedAt: 2026-08-13T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: vtex-pick-and-pack-mobile
-legacySlug: vtex-pick-and-pack-mobile
 locale: es
-subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
+hidden: false
 ---
 
 > ℹ️ Si ya es cliente de VTEX y desea adoptar esta funcionalidad para su negocio, por favor, póngase en contacto con el [Soporte Comercial](/es/docs/tracks/soporte-comercial). Pueden aplicarse tarifas adicionales. Si aún no es cliente pero está interesado en esta solución, por favor, complete el [formulario de contacto](https://vtex.com/co-es/contacto/).
 
-La aplicación móvil de [VTEX Pick and Pack](/es/docs/tutorials/vtex-pick-and-pack-fulfillment) ayuda al alistador (profesional responsable de seleccionar y empacar los ítems en la instalación) en la preparación de los pedidos, desde el alistamiento de los ítems hasta el envío. Esto hace que el flujo de alistamiento y envío de los pedidos de la tienda sea más organizado y fluido.
+La aplicación móvil de [VTEX Pick and Pack](/es/docs/tutorials/vtex-pick-and-pack) ayuda al alistador (profesional responsable de seleccionar y empacar los ítems en la instalación) en la preparación de los pedidos, desde el alistamiento de los ítems hasta el envío. Esto hace que el flujo de alistamiento y envío de los pedidos de la tienda sea más organizado y fluido.
 
 ![pickpack-mobile-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-mobile_1.png)
 
