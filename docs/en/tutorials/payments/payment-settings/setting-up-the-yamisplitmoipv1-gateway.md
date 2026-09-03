@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the payment provider YamiSplitMoipV1. Through this provider, your store can make sales with credit cards and bank slips.
+At VTEX, it is possible to integrate with the payment provider YamiSplitMoipV1. Through this provider, your store can make sales with credit cards and Boletos.
 
 To configure YamiSplitMoipV1, follow the steps below:
 

@@ -1,7 +1,7 @@
 ---
 title: "Relevância"
 createdAt: 2026-07-07T00:00:00.000Z
-updatedAt: 2026-08-25T00:00:00.000Z
+updatedAt: 2026-08-26T00:00:00.000Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 slugEN: intelligent-search-how-search-result-relevance-works
@@ -38,6 +38,12 @@ O Intelligent Search tenta localizar produtos que correspondam à busca em grupo
   Os erros considerados com fuzzy = 1 são: inserir um caractere a mais, remover um caractere, trocar um caractere ou trocar dois caracteres lado a lado. Espaços em branco não são considerados no fuzzy. Para esses casos, recomenda-se o uso de [sinônimos](https://help.vtex.com/pt/docs/tutorials/sinonimos).
 
 > ℹ️ O Intelligent Search escolhe o operador e o nível de fuzzy automaticamente. O lojista não controla esse comportamento. O sistema começa pelo grupo mais restrito (AND sem fuzzy) e avança para grupos mais permissivos apenas se o anterior não retornar resultados. Para mais detalhes, consulte [Comportamento da busca](https://help.vtex.com/pt/docs/tutorials/comportamento-da-busca#autocorrecao).
+
+### Stemming (raiz das palavras)
+
+O Intelligent Search também normaliza variações de singular e plural de uma mesma palavra, unificando-as na mesma raiz antes da correspondência. Por exemplo, em lojas em inglês, uma busca por `sneaker` também encontra produtos com `sneakers`.
+
+> ℹ️ A VTEX corrigiu inconsistências de stemming no analisador de idioma inglês para termos como `sticks`, `sharpies`, `its`, `bags`, `boards`, `books`, `bowls`, `cards`, `crackers`, `dividers`, `games`, `glue-sticks`, `k-cups`, `knives`, `nuts`, `rolls`, `shelves` e `supplies`, cujas formas no plural não eram mapeadas corretamente para a raiz no singular. Essa correção não é aplicada automaticamente a todas as contas: para solicitá-la em uma loja em inglês, entre em contato com o [Suporte VTEX](https://supporticket.vtex.com/support). Saiba mais em [Comportamento da busca](https://help.vtex.com/pt/docs/tutorials/comportamento-da-busca#stemming-raiz-das-palavras).
 
 ### Fluxo de decisão
 
@@ -97,6 +103,14 @@ A keyword é a palavra principal que define o produto. O Intelligent Search a id
 | Inglês    | Effervescent 1000mg vitamin C            | vitamin C | última palavra |
 
 O match de keyword do nome do produto e o match de marca são cumulativos: um produto que bate com os dois ao mesmo tempo recebe a maior pontuação possível. Ter apenas um dos dois já garante vantagem sobre produtos sem nenhum match de keyword.
+
+#### Keyword a partir de especificações
+
+Além do nome do produto e da marca, é possível configurar especificações de produto para também gerar keyword. Quando uma especificação é definida para gerar keyword, os valores preenchidos nela passam a contar como keyword do produto, com o mesmo peso do keyword extraído do nome ou da marca.
+
+Essa configuração é especialmente útil em catálogos nos quais informações relevantes para a busca estão registradas em especificações, e não no nome do produto. Por exemplo, isso ocorre quando o nome não descreve o tipo, a função ou outro atributo central do item.
+
+> ℹ️ Este recurso está disponível sob demanda. Para habilitá-lo, entre em contato com o [Suporte VTEX](https://supporticket.vtex.com/support).
 
 ### Regras de merchandising
 
@@ -164,3 +178,12 @@ O impacto de cada critério é determinado pelo peso configurado pelo lojista. S
 | Pant Minoxidil 50mg/ml 50ml 3 Frascos (Ache)             | Baixa      | Keyword do nome é "Pant" e a marca é "Ache": nenhum match de keyword ou marca.                                      |
 
 \* Empate na pontuação de relevância. Ambos têm exatamente um match de keyword. A ordem final entre eles é determinada pelos critérios de relevância configurados (ex: mais vendidos, desconto, data de lançamento).
+
+### Busca: "frost free"
+
+| Produto (nome) | Relevância | Justificativa |
+| :---- | :---- | :---- |
+| Refrigerador Duplex 400L (especificação "Tecnologia de degelo": Frost Free) | Alta | A especificação "Tecnologia de degelo" está configurada para gerar keyword. O valor "Frost Free" corresponde à busca e gera o mesmo bônus de um match de keyword, mesmo o termo não aparecendo no nome do produto. |
+| Geladeira 400L (especificação "Tecnologia de degelo": Cíclico) | Baixa | O nome contém "Geladeira", mas nem o nome nem o valor da especificação correspondem a "frost free": não há match de keyword. |
+
+Nesse exemplo, o termo "frost free" não aparece no nome do primeiro produto, mas está preenchido em uma especificação configurada para gerar keyword. Isso garante alta relevância mesmo quando a informação mais relevante para a busca está na especificação, e não no nome. Esse comportamento é especialmente útil para catálogos em que o nome do produto não descreve todos os seus atributos relevantes.

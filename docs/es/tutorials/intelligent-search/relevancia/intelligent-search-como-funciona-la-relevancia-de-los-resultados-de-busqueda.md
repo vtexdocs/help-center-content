@@ -1,7 +1,7 @@
 ---
 title: "Relevancia"
 createdAt: 2026-07-07T00:00:00.000Z
-updatedAt: 2026-08-25T00:00:00.000Z
+updatedAt: 2026-08-26T00:00:00.000Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 slugEN: intelligent-search-how-search-result-relevance-works
@@ -37,6 +37,12 @@ Intelligent Search intenta buscar productos que correspondan a la búsqueda en g
   Los errores considerados con fuzzy = 1 son: insertar un carácter de más, remover un carácter, cambiar un carácter o intercambiar dos caracteres adyacentes. Los espacios en blanco no se toman en cuenta en el fuzzy. Para esos casos, se recomienda el uso de [sinónimos](https://help.vtex.com/es/docs/tutorials/sinonimos).
 
 > ℹ️ Intelligent Search elige el operador y el nivel de fuzzy automáticamente. El retailer no controla ese comportamiento. El sistema empieza por el grupo más restringido (AND sin fuzzy) y avanza hacia grupos más permisivos solo si el anterior no devuelve resultados. Para más detalles, consulta [Comportamiento de la búsqueda](https://help.vtex.com/es/docs/tutorials/comportamiento-de-busqueda).
+
+### Stemming (raíz de palabras)
+
+Intelligent Search también normaliza las variaciones de singular y plural de una misma palabra, unificándolas en la misma raíz antes de realizar la coincidencia. Por ejemplo, en tiendas en inglés, una búsqueda por `sneaker` también encuentra productos con `sneakers`.
+
+> ℹ️ VTEX corrigió inconsistencias de stemming en el analizador de idioma inglés para términos como `sticks`, `sharpies`, `its`, `bags`, `boards`, `books`, `bowls`, `cards`, `crackers`, `dividers`, `games`, `glue-sticks`, `k-cups`, `knives`, `nuts`, `rolls`, `shelves` y `supplies`, cuyas formas en plural no se mapeaban correctamente a la raíz en singular. Esta corrección no se aplica automáticamente a todas las cuentas: para solicitarla en una tienda en inglés, ponte en contacto con el [Soporte VTEX](https://supporticket.vtex.com/support). Obtén más información en [Comportamiento de la búsqueda](https://help.vtex.com/es/docs/tutorials/comportamiento-de-busqueda).
 
 ### Flujo de decisión
 
@@ -96,6 +102,14 @@ Una palabra clave es el término principal que define el producto. Intelligent S
 | Inglés    | Effervescent 1000mg vitamin C            | vitamin C     | última palabra |
 
 La coincidencia de palabra clave del nombre del producto y la coincidencia de marca son acumulativas: un producto que coincide con ambos al mismo tiempo recibe la mayor puntuación posible. Tener solo una de las dos ya garantiza una ventaja sobre productos sin ninguna coincidencia de palabra clave.
+
+#### Keyword a partir de especificaciones
+
+Además del nombre del producto y la marca, es posible configurar especificaciones de producto para generar también keywords. Cuando una especificación se define para generar keyword, los valores completados en ella pasan a contar como keyword del producto, con el mismo peso del keyword extraído del nombre o de la marca.
+
+Esta configuración es especialmente útil en catálogos en los que la información relevante para la búsqueda está registrada en especificaciones, y no en el nombre del producto. Por ejemplo, esto ocurre cuando el nombre no describe el tipo, la función u otro atributo central del ítem.
+
+> ℹ️ Esta función está disponible a pedido. Para habilitarla, ponte en contacto con el [Soporte VTEX](https://supporticket.vtex.com/support).
 
 ### Reglas de merchandising
 
@@ -163,3 +177,12 @@ El impacto de cada criterio se determina por el peso configurado por el retailer
 | Sistema GB solución para la alopecia, 60 ml (Sistema GB) | Baja       | La palabra clave del nombre es “Sistema GB” y la marca es “Sistema GB”: no hay coincidencia con “minoxidil” ni en la palabra clave ni en la marca.        |
 
 \* Empate en la puntuación de relevancia. Ambos tienen exactamente una coincidencia de palabra clave. El orden final se determina según los criterios de relevancia configurados (por ejemplo, productos más vendidos, descuento o fecha de release).
+
+### Búsqueda: "frost free"
+
+| Producto (nombre) | Relevancia | Justificación |
+| :---- | :---- | :---- |
+| Refrigerador Duplex 400L (especificación "Tecnología de descongelación": Frost Free) | Alta | La especificación "Tecnología de descongelación" está configurada para generar keyword. El valor "Frost Free" corresponde a la búsqueda y genera el mismo bonus de un match de keyword, incluso si el término no aparece en el nombre del producto. |
+| Refrigerador 400L (especificación "Tecnología de descongelación": Cíclico) | Baja | El nombre contiene "Refrigerador", pero ni el nombre ni el valor de la especificación corresponden a "frost free": no hay match de keyword. |
+
+En este ejemplo, el término "frost free" no aparece en el nombre del primer producto, pero está completado en una especificación configurada para generar keyword. Esto garantiza alta relevancia incluso cuando la información más relevante para la búsqueda está en la especificación, y no en el nombre. Este comportamiento es especialmente útil para catálogos en los que el nombre del producto no describe todos sus atributos relevantes.

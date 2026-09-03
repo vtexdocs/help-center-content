@@ -1,5 +1,5 @@
 ---
-title: "We're launching your personal data set up screen"
+title: "We're launching the personal data setup screen"
 id: 3MEbq0DfmMgo2WG4osYE8K
 status: PUBLISHED
 createdAt: 2017-11-14T20:55:55.931Z
@@ -17,15 +17,19 @@ announcementSynopsisEN: "Now it's easier to edit your personal VTEX Admin access
 
 It has become easier to edit your personal VTEX Admin access settings.
 
-VTEX ID team has created the My User screen, which can be easily accessed by the Admin topbar.
+## What has changed?
+
+The VTEX ID team has created the My User screen, which can be easily accessed from the Admin top bar.
 
 ![dadosPessoais](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2017/november/2017-11-14-were-launching-your-personal-data-set-up-screen_1.png)
 
-In this screen you can:
-- View your email registered on Admin.
+On this screen you can:
+- View your email registered in the Admin.
 - Edit your phone number.
 - Set up 2-factor authentication via SMS.
 - Set up 2-factor authentication through app.
 - Disable 2-factor authentication.
 
-See in more detail what you can do with the new My User screen in the article [Setting up personal data on the user's screen](/en/docs/tutorials/setting-up-personal-data-on-the-users-screen).
+## What needs to be done?
+
+See the article [Setting up personal data on the user's screen](/en/docs/tutorials/setting-up-personal-data-on-the-users-screen) for more details on what you can do with the new My User screen.
