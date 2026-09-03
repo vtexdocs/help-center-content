@@ -36,7 +36,7 @@ Learn more about [anti-fraud systems](/en/docs/tutorials/what-is-anti-fraud) and
 ## Protection against transaction attacks
 
 To access the documentation on this topic, insert your VTEX [account name](/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC#) below, click the button and login into the Admin panel.
-<InsertAccountName id="62oqbmi7uzlylgb0ha1hz3" />
+<InsertAccountName id="62oQBmi7UZlYlgb0Ha1hZ3" />
 
 ## reCAPTCHA v3 at Checkout
 
