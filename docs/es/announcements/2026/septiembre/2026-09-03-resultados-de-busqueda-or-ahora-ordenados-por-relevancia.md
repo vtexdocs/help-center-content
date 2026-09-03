@@ -22,7 +22,7 @@ Las búsquedas OR corresponden a cerca del 5% de todas las búsquedas, llegando 
 
 Ahora, los resultados de búsqueda OR se ordenan ponderando la frecuencia con la que aparece cada palabra encontrada en el producto y cuán rara es esa palabra en el catálogo, en lugar de solo contar cuántas palabras coincidieron. Las palabras más raras y distintivas, como el nombre de un producto, pesan más que las palabras comunes, como una unidad de medida, haciendo que los productos más relevantes aparezcan primero.
 
-Por ejemplo, una búsqueda de "analgésico ibuprofeno 200 comprimidos" que cae a OR ahora prioriza productos con "ibuprofeno", en lugar de ítems sin relación como "organizador 200 comprimidos", que también coincide con "200" y "comprimidos".
+Por ejemplo, una búsqueda de "analgésico paracetamol 50 tabletas" que cae a OR ahora prioriza productos con "paracetamol", en lugar de ítems sin relación como "organizador de 50 tabletas", que también coincide con "50" y "tabletas".
 
 ## ¿Por qué hicimos este cambio?
 
