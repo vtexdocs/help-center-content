@@ -1,7 +1,7 @@
 ---
 title: 'VTEX Ads metrics and attribution'
 createdAt: '2026-05-04T10:00:00.000Z'
-updatedAt: '2026-07-28T10:00:00.000Z'
+updatedAt: '2026-08-21T10:00:00.000Z'
 contentType: tutorial
 productTeam: Others
 slugEN: vtex-ads-metrics-and-attribution
@@ -153,6 +153,54 @@ Halo metrics measure an ad's indirect impact on sales of other non-advertised pr
 | **Halo revenue** | Revenue from non-advertised products purchased in the same order influenced by the ad. | -       |
 | **Halo items**   | Number of halo items sold.                                                             | -       |
 
+## Impression share metrics
+
+The **impression share** metric set shows how much of the total eligible auction opportunity volume the ad actually captured, and how much was lost to rank or insufficient budget. The three metrics share the same denominator and, together, add up to approximately 100% of total opportunities.
+
+The shared denominator, called **Total opportunities**, is the sum of eligible auctions with available budget and auctions lost due to lack of budget. This value is an estimate, projected from the historical impression distribution and the time the campaign was inactive due to insufficient budget, and doesn't correspond to an exact auction count.
+
+| Metric                                    | What it measures                                                                                                              | Formula                                                     |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| **Impression share**                      | Out of the total eligible opportunity volume, how many impressions the ad actually received.                                   | (Won auctions / Total opportunities) × 100  |
+| **Lost impression share (by rank)**       | Out of the total eligible opportunity volume, how much was lost because the ad ranked below the competition in the auction.    | (Auctions lost by rank / Total opportunities) × 100         |
+| **Lost impression share (by budget)**     | Out of the total eligible opportunity volume, how much was lost due to lack of available budget to compete. Estimated value.   | (Auctions lost by budget / Total opportunities) × 100       |
+
+**Rank** is the ad's position in the auction ranking. It considers the bid (CPC) and other relevance factors evaluated by the ad server, not just the bid amount.
+
+The sum of the three metrics corresponds to approximately 100% of Total opportunities, which allows you to identify whether a campaign is limited by rank, by budget, or by both.
+
+> ℹ️ When there are no eligible auctions in the period or the data hasn't been collected yet, the three metrics show "-".
+>
+> A value of 0% in **Lost impression share (by rank)** or in **Lost impression share (by budget)** means there was no loss of that type in the period.
+>
+> A value of 0% in **Impression share** means the ad received no impressions in the period.
+
+### How to interpret the metrics
+
+Impression share alone shows the size of the captured opportunity, but not the cause of the loss. The two lost impression share metrics indicate which limitation applied during the period and, therefore, which adjustment is more likely to increase the campaign's share.
+
+| Metric                                | How to interpret                                                                                                                                              | Recommended action                                                                        |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **Impression share**                  | The higher, the better: It indicates the share of the contestable inventory that the ad actually captured. A low value doesn't reveal the cause on its own.    | Check the two lost impression share metrics to identify the limitation.                   |
+| **Lost impression share (by rank)**   | The higher, the worse: The ad competed in the auction but didn't reach a high enough rank to win. A high, steady value throughout the day indicates low competitiveness. | Review the campaign bid (CPC), the main ranking factor under the advertiser's control.    |
+| **Lost impression share (by budget)** | The higher, the worse: The campaign ran out of funds and stopped competing in auctions at some point in the period.                                          | Increase the campaign budget or redistribute the daily budget across the period.          |
+
+For example, a campaign with **58%** impression share, **20%** lost impression share by rank, and **22%** lost impression share by budget captured a little more than half of the opportunities where it could have appeared. The losses are split almost evenly between the two causes: in 20% of the opportunities the ad competed in the auction and didn't win, and in 22% the campaign had no budget left to compete. In this scenario, increasing the budget alone would solve about half of the loss.
+
+### Where to find the metrics
+
+The three metrics are available as an optional card and as an optional column in the following tabs:
+
+- **Advertiser view:** **Publishers**, **Campaigns**, and **Ads** tabs.
+- **Publisher view:** **Advertisers**, **Campaigns**, and **Ads** tabs.
+
+They're also available in the following reports:
+
+- **Ads report (advertiser and publisher):** New column.
+- **Management report (publisher):** New card in the **Opportunity cost** tab and in the **Campaigns** section of the **Advertisers** tab.
+
+> ℹ️ In cards and columns, the metric names appear abbreviated as **% won impressions**, **% lost imp. (by rank)**, and **% lost imp. (by budget)**.
+
 ## Behavior in mixed date ranges
 
 The attribution methodology for sponsored products changed on July 1, 2026, and now includes view conversions in addition to click conversions. Additionally, for all formats, the conversion rate now uses **views** as the denominator, instead of the previously used clicks.
@@ -173,4 +221,5 @@ For consistent results, select the analysis period based on the methodology you 
 - Base and conversion metrics are available historically, with no date restrictions.
 - **ROAS per click** doesn't display data prior to March 25, 2026.
 - Card and column customization is persisted across sessions. Publishers and advertisers have independent configurations.
+- The optional cards and columns for **impression share** metrics follow the same customization persistence across sessions.
 - When there's no data for a metric, the field shows zero.

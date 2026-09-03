@@ -16,10 +16,14 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 order: 2
 ---
 
-Primero, vamos a aclarar qué significa la sigla SKU. Del inglés *Stock Keeping Unit*, o, en español, *Unidad Mantenida en Stock*, es la unidad física del producto. Esto significa que __el SKU es la variación del producto__. En él se contienen las características que lo convierten en un tipo específico de producto.
+SKU (*Stock Keeping Unit*) es la unidad física del producto en el stock. En el Catálogo de VTEX, el SKU corresponde a la variación del producto y contiene las características que lo convierten en un ítem específico, como color y tamaño.
 
-Si su tienda tiene un producto Camisa, los SKUs de este producto pueden ser __Camisa Azul__, __Camisa Roja__ y __Camisa Blanca__. Otra forma de clasificar sus SKUs podría ser: Camisa Azul G, Camisa Roja M y Camisa Blanca P.
+Por ejemplo, si el producto de tu tienda es "Camisa", los SKUs pueden ser "Camisa Azul", "Camisa Roja" y "Camisa Blanca". También puedes combinar características, como "Camisa Azul G", "Camisa Roja M" y "Camisa Blanca P".
 
-En la jerarquía del catálogo, el SKU está justo debajo del producto.
+En la jerarquía del Catálogo, el SKU está inmediatamente debajo del producto. Primero, defines la información del producto y, a continuación, creas los SKUs asociados.
 
-Estructuralmente, primero se define la información del producto para luego crear sus SKUs.
+## Más información
+
+* [Productos](/es/docs/tutorials/que-es-un-produto)
+* [Diferencias entre producto y SKU](/es/docs/tutorials/cual-es-la-diferencia-entre-producto-y-sku)
+* [Agregar o editar SKUs](/es/docs/tutorials/agregar-o-editar-skus)

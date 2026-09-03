@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-iugu is a VTEX partner solution that offers the following payment options through [transparent checkout](/en/docs/tutorials/what-is-transparent-checkout): credit card, pix and bank slip. Furthermore, it is possible to carry out [recurrence](/en/docs/tutorials/how-to-set-up-recurrence-in-payment-conditions) and [split payment](/en/docs/tutorials/split-payment) operations (receivables and transactions) between marketplaces.
+iugu is a VTEX partner solution that offers the following payment options through [transparent checkout](/en/docs/tutorials/what-is-transparent-checkout): credit card, pix and Boleto. Furthermore, it is possible to carry out [recurrence](/en/docs/tutorials/how-to-set-up-recurrence-in-payment-conditions) and [split payment](/en/docs/tutorials/split-payment) operations (receivables and transactions) between marketplaces.
 
 To add iugu to your store, follow the steps below:
 
@@ -26,17 +26,17 @@ To add iugu to your store, follow the steps below:
 5. If you wish to modify the identification name to be displayed for the iugu provider on the VTEX Admin screen, enter the information in the __Name__ field in __Basic Information__.
 6. In __Payment Control__, select whether you want to activate the provider in a test environment by clicking __Enable test mode__.
 7. If you want to use [payment split](/en/docs/tutorials/split-payment) in your store, select the option __Enable payout split and send payment recipients__ and indicate the __Accountable for payment processing charges__ and __Accountable for chargebacks__ (marketplace, sellers or marketplaces and sellers).
-8. If you wish to use the bank slip as a payment method, in __Provider fields__, fill in the field __Prazo de vencimento do boleto (em dias)__ with the same value configured in your customer area on the iugu portal.
+8. If you wish to use Boleto as a payment method, in __Provider fields__, fill in the field __Prazo de vencimento do boleto (em dias)__ with the same value configured in your customer area on the iugu portal.
 9. In __Tempo limite de validade do Pix (minutos)__, select the period available for the customer to make the payment through Pix.
 10. Click `Save`.
 
 ## Setting up payment conditions
 
-To process credit card, pix and bank slip payment methods with iugu in your store, follow the steps below:
+To process credit card, pix and Boleto payment methods with iugu in your store, follow the steps below:
 
 1. In the VTEX Admin, go to __Store Settings > Payment > Settings__, or type __Settings__ in the search bar at the top of the page.
 2. In the __Payment Conditions__ tab, click on the `+` button.
-3. Click on the desired payment method (credit card brand name, pix or bank slip).
+3. Click on the desired payment method (credit card brand name, pix or Boleto).
 4. Fill the __Condition name__ field with a name of your choice for identification.
 5. Activate the condition in the __Status__ field.
 6. In __Process with provider__ select the iugu option.
@@ -46,7 +46,7 @@ To process credit card, pix and bank slip payment methods with iugu in your stor
 
 After following the indicated steps, iugu provider may take up to 10 minutes to appear at your store's checkout as a payment option.
 
-> ⚠️ Before carrying out transactions by credit card, PIX or bank slip with iugu in your store, check whether these payment methods are already enabled in [your customer area on the iugu portal](https://dev.iugu.com/docs/configurando-conector-iugu-na-vtex#configurando-condi%C3%A7%C3%B5es-de-pagamento).
+> ⚠️ Before carrying out transactions by credit card, PIX or Boleto with iugu in your store, check whether these payment methods are already enabled in [your customer area on the iugu portal](https://dev.iugu.com/docs/configurando-conector-iugu-na-vtex#configurando-condi%C3%A7%C3%B5es-de-pagamento).
 
 ## Setting up split payment on the marketplace with iugu
 
@@ -75,5 +75,5 @@ After following the steps indicated, the payout split functionality with the iug
 To make [recurrence](/en/docs/tutorials/how-to-set-up-recurrence-in-payment-conditions) available as a special payment condition through iugu, it is necessary:
 
 - Enable recurrence mode in the VTEX Admin.
-- Configure credit card or bank slip payment methods in the VTEX Admin and iugu.
+- Configure credit card or Boleto payment methods in the VTEX Admin and iugu.
 - Configure the [subscriptions](/en/docs/tutorials/how-to-configure-subscriptions) functionality in your store.

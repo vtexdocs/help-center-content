@@ -3,7 +3,7 @@ title: 'Search behavior'
 id: B9o3JbV6utAinBJ1ETujs
 status: PUBLISHED
 createdAt: 2024-06-27T17:30:43.356Z
-updatedAt: 2026-08-25T00:00:00.000Z
+updatedAt: 2026-08-26T00:00:00.000Z
 publishedAt: 2025-06-24T19:21:01.124Z
 firstPublishedAt: 2024-06-27T17:33:21.153Z
 contentType: tutorial
@@ -50,6 +50,12 @@ Example: Suppose a customer wants to search for the term `ball`. Using the defau
 * `abll` (swap 2 characters next to each other)
 
 > ℹ️ Blank spaces aren't accounted for in *fuzzy* matching, so `base ball` won't be corrected to `baseball`. We recommend using [synonyms](/en/docs/tutorials/synonyms) for such cases.
+
+### Stemming
+
+Intelligent Search uses a language analyzer to normalize search terms, unifying singular and plural forms of the same word into a single stem. For example, in English-language stores, a search for `sneaker` also returns products that contain `sneakers`.
+
+> ℹ️ VTEX fixed stemming inconsistencies in the English language analyzer for terms such as `sticks`, `sharpies`, `its`, `bags`, `boards`, `books`, `bowls`, `cards`, `crackers`, `dividers`, `games`, `glue-sticks`, `k-cups`, `knives`, `nuts`, `rolls`, `shelves`, and `supplies`, whose plural forms weren't correctly mapped to the singular stem. This fix isn't applied automatically to all accounts: to request it for an English-language store, contact [VTEX Support](https://supporticket.vtex.com/support).
 
 ### Minimum result
 

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 
-Deposit Slip is a popular payment method in __Mexico__. Its operation is very similar to Brazilian bank slips, but with a difference: payment can only be made at authorized places.
+Deposit Slip is a popular payment method in __Mexico__. Its operation is very similar to Brazilian Boletos, but with a difference: payment can only be made at authorized places.
 
 ## How it works
 To pay with Deposit Slip, the user must choose this payment condition at the checkout. Then a barcode document with the payment information will be issued.

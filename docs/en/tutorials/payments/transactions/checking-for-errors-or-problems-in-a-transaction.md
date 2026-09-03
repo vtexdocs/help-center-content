@@ -21,7 +21,7 @@ The steps of a transaction are logged in a timeline, with the most recent intera
 
 VTEX gateway can communicate with acquirers, sub-acquirers, anti-frauds and other gateways. The __status changes in the transaction__ and the __partner's reply messages__ are displayed in boxes on the transaction details screen.
 
-> ℹ️ You can [click here](/en/docs/tutorials/credit-card-basic-payment-flow) to find out how the flow of a credit card transaction works. Also visit [our article](/en/docs/tutorials/registered-ticket-flow) with the basic scheme of a bank slip transaction.
+> ℹ️ You can [click here](/en/docs/tutorials/credit-card-basic-payment-flow) to find out how the flow of a credit card transaction works. Also visit [our article](/en/docs/tutorials/registered-ticket-flow) with the basic scheme of a Boleto transaction.
 
 ## Check the transaction status
 
