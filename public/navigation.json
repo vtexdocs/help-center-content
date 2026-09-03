@@ -35865,17 +35865,17 @@
             },
             {
               "name": {
-                "en": "VTEX Data Pipeline Beta",
-                "es": "VTEX Data Pipeline Beta",
-                "pt": "VTEX Data Pipeline Beta"
+                "en": "Data dictionary: VTEX Data Pipeline",
+                "es": "Diccionario de datos de VTEX: Data Pipeline",
+                "pt": "Dicionário VTEX Data Pipeline"
               },
               "slug": {
-                "en": "vtex-data-pipeline-beta-subcategory",
-                "es": "vtex-data-pipeline-beta-subcategoria",
-                "pt": "vtex-data-pipeline-beta-subcategoria"
+                "en": "data-dictionary-vtex-data-pipeline-beta",
+                "es": "diccionario-de-datos-de-vtex-data-pipeline-beta",
+                "pt": "dicionario-vtex-data-pipeline-beta"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -35917,21 +35917,6 @@
                     "en": "catalog-data-pipeline",
                     "es": "catalogo-data-pipeline",
                     "pt": "catalogo-data-pipeline"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Data dictionary: VTEX Data Pipeline",
-                    "es": "Diccionario de datos de VTEX: Data Pipeline",
-                    "pt": "Dicionário VTEX Data Pipeline"
-                  },
-                  "slug": {
-                    "en": "data-dictionary-vtex-data-pipeline-beta",
-                    "es": "diccionario-de-datos-de-vtex-data-pipeline-beta",
-                    "pt": "dicionario-vtex-data-pipeline-beta"
                   },
                   "origin": "",
                   "type": "markdown",
