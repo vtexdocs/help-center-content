@@ -1,12 +1,12 @@
 ---
 title: 'Intelligent Search: OR search results now ranked by relevance'
-slug: '2026-08-25-or-search-results-now-ranked-by-relevance'
+slug: '2026-09-03-or-search-results-now-ranked-by-relevance'
 hidden: false
-createdAt: 2026-08-25T00:00:00.000Z
-updatedAt: 2026-08-25T00:00:00.000Z
+createdAt: 2026-09-03T00:00:00.000Z
+updatedAt: 2026-09-03T00:00:00.000Z
 contentType: updates
 productTeam: Intelligent Search
-slugEN: '2026-08-25-or-search-results-now-ranked-by-relevance'
+slugEN: '2026-09-03-or-search-results-now-ranked-by-relevance'
 locale: en
 announcementSynopsisEN: 'OR search results are now ranked by relevance to the full search, instead of by the number of matching words.'
 tags:
@@ -34,5 +34,5 @@ No action is required. This ranking improvement is automatically applied to all 
 
 For more details, see:
 
-* [Relevance](https://help.vtex.com/en/docs/tutorials/intelligent-search-how-search-result-relevance-works#step-2-how-intelligent-search-ranks-results)
+* [Relevance](https://help.vtex.com/en/docs/tutorials/intelligent-search-how-search-result-relevance-works#step-1-how-intelligent-search-finds-results)
 * [Search behavior](https://help.vtex.com/en/docs/tutorials/search-behavior#minimum-result)

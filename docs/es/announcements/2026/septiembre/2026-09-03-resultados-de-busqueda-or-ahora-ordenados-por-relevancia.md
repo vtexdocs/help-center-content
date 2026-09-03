@@ -1,12 +1,12 @@
 ---
 title: 'Intelligent Search: resultados de búsqueda OR ahora ordenados por relevancia'
-slug: '2026-08-25-resultados-de-busqueda-or-ahora-ordenados-por-relevancia'
+slug: '2026-09-03-resultados-de-busqueda-or-ahora-ordenados-por-relevancia'
 hidden: false
-createdAt: 2026-08-25T00:00:00.000Z
-updatedAt: 2026-08-25T00:00:00.000Z
+createdAt: 2026-09-03T00:00:00.000Z
+updatedAt: 2026-09-03T00:00:00.000Z
 contentType: updates
 productTeam: Intelligent Search
-slugEN: '2026-08-25-or-search-results-now-ranked-by-relevance'
+slugEN: '2026-09-03-or-search-results-now-ranked-by-relevance'
 locale: es
 announcementSynopsisES: 'Los resultados de búsqueda OR ahora se ordenan por relevancia a la búsqueda completa, en lugar de por la cantidad de palabras que coincidieron.'
 tags:
@@ -34,5 +34,5 @@ No es necesaria ninguna acción. Esta mejora de ordenación se aplica automátic
 
 Para más detalles, consulta:
 
-* [Relevancia](https://help.vtex.com/es/docs/tutorials/intelligent-search-como-funciona-la-relevancia-de-los-resultados-de-busqueda#etapa-2-como-intelligent-search-ordena-los-resultados)
+* [Relevancia](https://help.vtex.com/es/docs/tutorials/intelligent-search-como-funciona-la-relevancia-de-los-resultados-de-busqueda#etapa-1-como-encuentra-intelligent-search-los-resultados)
 * [Comportamiento de búsqueda](https://help.vtex.com/es/docs/tutorials/comportamiento-de-busqueda#resultado-minimo)
