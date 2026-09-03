@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Intelligent Search: OR search results now ranked by relevance",
+                    "es": "Intelligent Search: resultados de búsqueda OR ahora ordenados por relevancia",
+                    "pt": "Intelligent Search: Resultados de busca OR agora ordenados por relevância"
+                  },
+                  "slug": {
+                    "en": "2026-09-03-or-search-results-now-ranked-by-relevance",
+                    "es": "2026-09-03-resultados-de-busqueda-or-ahora-ordenados-por-relevancia",
+                    "pt": "2026-09-03-resultados-de-busca-or-agora-ordenados-por-relevancia"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Intelligent Search: Synonym conflict detection",
                     "es": "Intelligent Search: detección de sinónimos conflictivos",
                     "pt": "Intelligent Search: detecção de sinônimos conflitantes"
