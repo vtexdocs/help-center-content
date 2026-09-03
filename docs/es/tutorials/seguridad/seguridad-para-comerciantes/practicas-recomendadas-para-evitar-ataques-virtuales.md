@@ -36,7 +36,7 @@ Aprende más sobre [sistemas antifraude](https://help.vtex.com/es/docs/tutorials
 
 Para acceder a la documentación, ingrese su [nombre de cuenta](https://help.vtex.com/es/docs/tutorials/que-es-account-name) VTEX a continuación, haz clic en el botón e inicia sesión en el Admin.
 
-<InsertAccountName id="62oqbmi7uzlylgb0ha1hz3" />
+<InsertAccountName id="62oQBmi7UZlYlgb0Ha1hZ3" />
 
 ## reCAPTCHA v3 en el checkout
 
