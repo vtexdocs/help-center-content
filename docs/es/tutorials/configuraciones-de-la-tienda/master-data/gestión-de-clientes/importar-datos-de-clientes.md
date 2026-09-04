@@ -29,15 +29,39 @@ Las siguientes tablas representan los datos o formatos necesarios para la import
 
 ### Campos personales
 
-<iframe src="https://vtexhelp.myvtex.com/tables/checkoutprofilepersonal/es" title="Campos personales obligatorios" frameBorder="0" width="100%" height="850"></iframe>
+<DataTable
+  src="data-tables/checkout-profile-personal.json"
+  columns={[
+    { key: 'country', label: 'País', type: 'country', sortable: true, filterable: true },
+    { key: 'fieldName', label: 'Nombre del campo', type: 'code', sortable: true, filterable: true },
+    { key: 'description', label: 'Descripción' },
+    { key: 'type', label: 'Tipo' },
+  ]}
+/>
 
 ### Campos de dirección
 
-<iframe src="https://vtexhelp.myvtex.com/tables/checkoutprofileaddress/es" title="Campos de dirección obligatorios" frameBorder="0" width="100%" height="850"></iframe>
+<DataTable
+  src="data-tables/checkout-profile-address.json"
+  columns={[
+    { key: 'country', label: 'País', type: 'country', sortable: true, filterable: true },
+    { key: 'fieldName', label: 'Nombre del campo', type: 'code', sortable: true, filterable: true },
+    { key: 'description', label: 'Descripción' },
+    { key: 'type', label: 'Tipo' },
+  ]}
+/>
 
 ### Campos corporativos
 
-<iframe src="https://vtexhelp.myvtex.com/tables/checkoutprofilecorporate/es" title="Campos corporativos obligatorios" frameBorder="0" width="100%" height="850"></iframe>
+<DataTable
+  src="data-tables/checkout-profile-corporate.json"
+  columns={[
+    { key: 'country', label: 'País', type: 'country', sortable: true, filterable: true },
+    { key: 'fieldName', label: 'Nombre del campo', type: 'code', sortable: true, filterable: true },
+    { key: 'description', label: 'Descripción' },
+    { key: 'type', label: 'Tipo' },
+  ]}
+/>
 
 ### Más información
 

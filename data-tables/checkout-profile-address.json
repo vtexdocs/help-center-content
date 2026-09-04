@@ -1,0 +1,5139 @@
+{
+  "updatedAt": "2026-09-04",
+  "en": [
+    {
+      "country": "AU",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "AU",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "AU",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "AU",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "AU",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "AT",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "AT",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "AT",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "AT",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "AT",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "BE",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "BE",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "BE",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "BE",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "BE",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "BO",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "BO",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "BO",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "BO",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "BO",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "BR",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "BR",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "BR",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "BR",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "BR",
+      "fieldName": "state",
+      "description": "Customer state",
+      "type": "Text"
+    },
+    {
+      "country": "BR",
+      "fieldName": "neighborhood",
+      "description": "Customer neighborhood",
+      "type": "Text"
+    },
+    {
+      "country": "BR",
+      "fieldName": "postalCode or geoCoordinates",
+      "description": "Postal code",
+      "type": "Eight or nine digits, with a hyphen"
+    },
+    {
+      "country": "BR",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "BR",
+      "fieldName": "number",
+      "description": "House number",
+      "type": "Alphanumeric text"
+    },
+    {
+      "country": "BR",
+      "fieldName": "receiverName",
+      "description": "Recipient name",
+      "type": "Text"
+    },
+    {
+      "country": "BG",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "BG",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "BG",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "BG",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "BG",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "CA",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "CA",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "CA",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "CA",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "CA",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "CL",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "CL",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "CL",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "CL",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "CL",
+      "fieldName": "state",
+      "description": "Customer state",
+      "type": "Text"
+    },
+    {
+      "country": "CL",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "CL",
+      "fieldName": "number",
+      "description": "House number",
+      "type": "Alphanumeric text"
+    },
+    {
+      "country": "CL",
+      "fieldName": "receiverName",
+      "description": "Recipient name",
+      "type": "Text"
+    },
+    {
+      "country": "CO",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "CO",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "CO",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "CO",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "CO",
+      "fieldName": "state",
+      "description": "Customer state",
+      "type": "Text"
+    },
+    {
+      "country": "CO",
+      "fieldName": "city",
+      "description": "Customer city",
+      "type": "Text"
+    },
+    {
+      "country": "CO",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "CO",
+      "fieldName": "number",
+      "description": "House number",
+      "type": "Alphanumeric text"
+    },
+    {
+      "country": "CO",
+      "fieldName": "receiverName",
+      "description": "Recipient name",
+      "type": "Text"
+    },
+    {
+      "country": "CR",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "CR",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "CR",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "CR",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "CR",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "HR",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "HR",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "HR",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "HR",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "HR",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "CZ",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "CZ",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "CZ",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "CZ",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "CZ",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "DK",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "DK",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "DK",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "DK",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "DK",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "DO",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "DO",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "DO",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "DO",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "DO",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "SV",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "SV",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "SV",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "SV",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "SV",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "FI",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "FI",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "FI",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "FI",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "FI",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "FR",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "FR",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "FR",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "FR",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "FR",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "DE",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "DE",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "DE",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "DE",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "DE",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "GR",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "GR",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "GR",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "GR",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "GR",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "HU",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "HU",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "HU",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "HU",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "HU",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "IN",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "IN",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "IN",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "IN",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "IN",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "ID",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "ID",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "ID",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "ID",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "ID",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "IE",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "IE",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "IE",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "IE",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "IE",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "IT",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "IT",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "IT",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "IT",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "IT",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "JM",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "JM",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "JM",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "JM",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "JM",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "JP",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "JP",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "JP",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "JP",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "JP",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "MT",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "MT",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "MT",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "MT",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "MT",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "NL",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "NL",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "NL",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "NL",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "NL",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "NZ",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "NZ",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "NZ",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "NZ",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "NZ",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "NI",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "NI",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "NI",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "NI",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "NI",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "PA",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "PA",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "PA",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "PA",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "PA",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "PY",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "PY",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "PY",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "PY",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "PY",
+      "fieldName": "state",
+      "description": "Customer state",
+      "type": "Text"
+    },
+    {
+      "country": "PY",
+      "fieldName": "city",
+      "description": "Customer city",
+      "type": "Text"
+    },
+    {
+      "country": "PY",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "PY",
+      "fieldName": "number",
+      "description": "House number",
+      "type": "Alphanumeric text"
+    },
+    {
+      "country": "PY",
+      "fieldName": "receiverName",
+      "description": "Recipient name",
+      "type": "Text"
+    },
+    {
+      "country": "PL",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "PL",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "PL",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "PL",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "PL",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "PT",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "PT",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "PT",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "PT",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "PT",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "PR",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "PR",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "PR",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "PR",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "PR",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "RO",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "RO",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "RO",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "RO",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "RO",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "RU",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "RU",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "RU",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "RU",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "RU",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "SM",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "SM",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "SM",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "SM",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "SM",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "SA",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "SA",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "SA",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "SA",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "SA",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "RS",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "RS",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "RS",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "RS",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "RS",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "SG",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "SG",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "SG",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "SG",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "SG",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "SK",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "SK",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "SK",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "SK",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "SK",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "ZA",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "ZA",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "ZA",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "ZA",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "ZA",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "KR",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "KR",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "KR",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "KR",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "KR",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "ES",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "ES",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "ES",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "ES",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "ES",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "SE",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "SE",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "SE",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "SE",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "SE",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "TH",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "TH",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "TH",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "TH",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "TH",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "UA",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "UA",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "UA",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "UA",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "UA",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "AE",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "AE",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "AE",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "AE",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "AE",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "GB",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "GB",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "GB",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "GB",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "GB",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "US",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "US",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "US",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "US",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "US",
+      "fieldName": "state",
+      "description": "Customer state",
+      "type": "Text"
+    },
+    {
+      "country": "US",
+      "fieldName": "city",
+      "description": "Customer city",
+      "type": "Text"
+    },
+    {
+      "country": "US",
+      "fieldName": "postalCode or geoCoordinates",
+      "description": "Postal code",
+      "type": "Eight or nine digits, with a hyphen"
+    },
+    {
+      "country": "US",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "US",
+      "fieldName": "receiverName",
+      "description": "Recipient name",
+      "type": "Text"
+    },
+    {
+      "country": "VE",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "VE",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "VE",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "VE",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "VE",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    },
+    {
+      "country": "MX",
+      "fieldName": "addressId",
+      "description": "Address ID",
+      "type": "Empty"
+    },
+    {
+      "country": "MX",
+      "fieldName": "addressName",
+      "description": "Customer ID",
+      "type": "ID field generated after importing customers"
+    },
+    {
+      "country": "MX",
+      "fieldName": "addressType",
+      "description": "Address type",
+      "type": "Text. The value must be \"residential\" or \"commercial\""
+    },
+    {
+      "country": "MX",
+      "fieldName": "country",
+      "description": "Country code",
+      "type": "Text. ISO 3166-1 country code"
+    },
+    {
+      "country": "MX",
+      "fieldName": "street",
+      "description": "Customer street address",
+      "type": "Text"
+    }
+  ],
+  "pt": [
+    {
+      "country": "AU",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "AU",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "AU",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "AU",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "AU",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "AT",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "AT",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "AT",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "AT",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "AT",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BE",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "BE",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "BE",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "BE",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "BE",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BO",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "BO",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "BO",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "BO",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "BO",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BR",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "BR",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "BR",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "BR",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "BR",
+      "fieldName": "state",
+      "description": "Estado do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BR",
+      "fieldName": "neighborhood",
+      "description": "Bairro do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BR",
+      "fieldName": "postalCode or geoCoordinates",
+      "description": "CEP",
+      "type": "Oito ou nove dígitos, com hífen"
+    },
+    {
+      "country": "BR",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BR",
+      "fieldName": "number",
+      "description": "Número residencial",
+      "type": "Texto alfanumérico"
+    },
+    {
+      "country": "BR",
+      "fieldName": "receiverName",
+      "description": "Nome do destinatário",
+      "type": "Texto"
+    },
+    {
+      "country": "BG",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "BG",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "BG",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "BG",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "BG",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CA",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "CA",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "CA",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "CA",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "CA",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CL",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "CL",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "CL",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "CL",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "CL",
+      "fieldName": "state",
+      "description": "Estado do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CL",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CL",
+      "fieldName": "number",
+      "description": "Número residencial",
+      "type": "Texto alfanumérico"
+    },
+    {
+      "country": "CL",
+      "fieldName": "receiverName",
+      "description": "Nome do destinatário",
+      "type": "Texto"
+    },
+    {
+      "country": "CO",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "CO",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "CO",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "CO",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "CO",
+      "fieldName": "state",
+      "description": "Estado do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CO",
+      "fieldName": "city",
+      "description": "Cidade do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CO",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CO",
+      "fieldName": "number",
+      "description": "Número residencial",
+      "type": "Texto alfanumérico"
+    },
+    {
+      "country": "CO",
+      "fieldName": "receiverName",
+      "description": "Nome do destinatário",
+      "type": "Texto"
+    },
+    {
+      "country": "CR",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "CR",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "CR",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "CR",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "CR",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "HR",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "HR",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "HR",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "HR",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "HR",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CZ",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "CZ",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "CZ",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "CZ",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "CZ",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DK",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "DK",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "DK",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "DK",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "DK",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DO",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "DO",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "DO",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "DO",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "DO",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SV",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "SV",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "SV",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "SV",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "SV",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "FI",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "FI",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "FI",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "FI",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "FI",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "FR",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "FR",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "FR",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "FR",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "FR",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DE",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "DE",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "DE",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "DE",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "DE",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "GR",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "GR",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "GR",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "GR",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "GR",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "HU",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "HU",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "HU",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "HU",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "HU",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IN",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "IN",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "IN",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "IN",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "IN",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ID",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "ID",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "ID",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "ID",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "ID",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IE",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "IE",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "IE",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "IE",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "IE",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IT",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "IT",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "IT",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "IT",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "IT",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "JM",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "JM",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "JM",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "JM",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "JM",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "JP",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "JP",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "JP",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "JP",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "JP",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "MT",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "MT",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "MT",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "MT",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "MT",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NL",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "NL",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "NL",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "NL",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "NL",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NZ",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "NZ",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "NZ",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "NZ",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "NZ",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NI",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "NI",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "NI",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "NI",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "NI",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PA",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "PA",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "PA",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "PA",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "PA",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PY",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "PY",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "PY",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "PY",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "PY",
+      "fieldName": "state",
+      "description": "Estado do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PY",
+      "fieldName": "city",
+      "description": "Cidade do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PY",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PY",
+      "fieldName": "number",
+      "description": "Número residencial",
+      "type": "Texto alfanumérico"
+    },
+    {
+      "country": "PY",
+      "fieldName": "receiverName",
+      "description": "Nome do destinatário",
+      "type": "Texto"
+    },
+    {
+      "country": "PL",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "PL",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "PL",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "PL",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "PL",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PT",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "PT",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "PT",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "PT",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "PT",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PR",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "PR",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "PR",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "PR",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "PR",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RO",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "RO",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "RO",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "RO",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "RO",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RU",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "RU",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "RU",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "RU",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "RU",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SM",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "SM",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "SM",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "SM",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "SM",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SA",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "SA",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "SA",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "SA",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "SA",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RS",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "RS",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "RS",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "RS",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "RS",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SG",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "SG",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "SG",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "SG",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "SG",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SK",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "SK",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "SK",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "SK",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "SK",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ZA",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "ZA",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "ZA",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "ZA",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "ZA",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "KR",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "KR",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "KR",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "KR",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "KR",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ES",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "ES",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "ES",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "ES",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "ES",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SE",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "SE",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "SE",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "SE",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "SE",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "TH",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "TH",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "TH",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "TH",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "TH",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "UA",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "UA",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "UA",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "UA",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "UA",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "AE",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "AE",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "AE",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "AE",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "AE",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "GB",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "GB",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "GB",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "GB",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "GB",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "US",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "US",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "US",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "US",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "US",
+      "fieldName": "state",
+      "description": "Estado do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "US",
+      "fieldName": "city",
+      "description": "Cidade do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "US",
+      "fieldName": "postalCode or geoCoordinates",
+      "description": "CEP",
+      "type": "Oito ou nove dígitos, com hífen"
+    },
+    {
+      "country": "US",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "US",
+      "fieldName": "receiverName",
+      "description": "Nome do destinatário",
+      "type": "Texto"
+    },
+    {
+      "country": "VE",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "VE",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "VE",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "VE",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "VE",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "MX",
+      "fieldName": "addressId",
+      "description": "ID do endereço",
+      "type": "Vazio"
+    },
+    {
+      "country": "MX",
+      "fieldName": "addressName",
+      "description": "ID do cliente",
+      "type": "Campo ID, gerado após importação de clientes"
+    },
+    {
+      "country": "MX",
+      "fieldName": "addressType",
+      "description": "Tipo do endereço",
+      "type": "Texto. O valor deve ser \"residential\" ou \"commercial\""
+    },
+    {
+      "country": "MX",
+      "fieldName": "country",
+      "description": "Código do país",
+      "type": "Texto. Código ISO 3166-1 do país"
+    },
+    {
+      "country": "MX",
+      "fieldName": "street",
+      "description": "Endereço do cliente",
+      "type": "Texto"
+    }
+  ],
+  "es": [
+    {
+      "country": "AU",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "AU",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "AU",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "AU",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "AU",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "AT",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "AT",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "AT",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "AT",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "AT",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BE",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "BE",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "BE",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "BE",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "BE",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BO",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "BO",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "BO",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "BO",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "BO",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BR",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "BR",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "BR",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "BR",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "BR",
+      "fieldName": "state",
+      "description": "Estado del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BR",
+      "fieldName": "neighborhood",
+      "description": "Barrio del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BR",
+      "fieldName": "postalCode or geoCoordinates",
+      "description": "Código postal",
+      "type": "Ocho o nueve dígitos, con guion"
+    },
+    {
+      "country": "BR",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BR",
+      "fieldName": "number",
+      "description": "Número residencial",
+      "type": "Texto alfanumérico"
+    },
+    {
+      "country": "BR",
+      "fieldName": "receiverName",
+      "description": "Nombre del destinatario",
+      "type": "Texto"
+    },
+    {
+      "country": "BG",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "BG",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "BG",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "BG",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "BG",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CA",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "CA",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "CA",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "CA",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "CA",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CL",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "CL",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "CL",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "CL",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "CL",
+      "fieldName": "state",
+      "description": "Estado del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CL",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CL",
+      "fieldName": "number",
+      "description": "Número residencial",
+      "type": "Texto alfanumérico"
+    },
+    {
+      "country": "CL",
+      "fieldName": "receiverName",
+      "description": "Nombre del destinatario",
+      "type": "Texto"
+    },
+    {
+      "country": "CO",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "CO",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "CO",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "CO",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "CO",
+      "fieldName": "state",
+      "description": "Estado del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CO",
+      "fieldName": "city",
+      "description": "Cidade do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CO",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CO",
+      "fieldName": "number",
+      "description": "Número residencial",
+      "type": "Texto alfanumérico"
+    },
+    {
+      "country": "CO",
+      "fieldName": "receiverName",
+      "description": "Nombre del destinatario",
+      "type": "Texto"
+    },
+    {
+      "country": "CR",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "CR",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "CR",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "CR",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "CR",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "HR",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "HR",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "HR",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "HR",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "HR",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CZ",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "CZ",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "CZ",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "CZ",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "CZ",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DK",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "DK",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "DK",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "DK",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "DK",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DO",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "DO",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "DO",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "DO",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "DO",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SV",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "SV",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "SV",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "SV",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "SV",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "FI",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "FI",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "FI",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "FI",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "FI",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "FR",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "FR",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "FR",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "FR",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "FR",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DE",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "DE",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "DE",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "DE",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "DE",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "GR",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "GR",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "GR",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "GR",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "GR",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "HU",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "HU",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "HU",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "HU",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "HU",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IN",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "IN",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "IN",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "IN",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "IN",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ID",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "ID",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "ID",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "ID",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "ID",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IE",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "IE",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "IE",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "IE",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "IE",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IT",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "IT",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "IT",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "IT",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "IT",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "JM",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "JM",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "JM",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "JM",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "JM",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "JP",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "JP",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "JP",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "JP",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "JP",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "MT",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "MT",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "MT",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "MT",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "MT",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NL",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "NL",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "NL",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "NL",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "NL",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NZ",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "NZ",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "NZ",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "NZ",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "NZ",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NI",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "NI",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "NI",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "NI",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "NI",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PA",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "PA",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "PA",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "PA",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "PA",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PY",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "PY",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "PY",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "PY",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "PY",
+      "fieldName": "state",
+      "description": "Estado del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PY",
+      "fieldName": "city",
+      "description": "Cidade do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PY",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PY",
+      "fieldName": "number",
+      "description": "Número residencial",
+      "type": "Texto alfanumérico"
+    },
+    {
+      "country": "PY",
+      "fieldName": "receiverName",
+      "description": "Nombre del destinatario",
+      "type": "Texto"
+    },
+    {
+      "country": "PL",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "PL",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "PL",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "PL",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "PL",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PT",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "PT",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "PT",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "PT",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "PT",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PR",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "PR",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "PR",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "PR",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "PR",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RO",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "RO",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "RO",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "RO",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "RO",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RU",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "RU",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "RU",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "RU",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "RU",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SM",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "SM",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "SM",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "SM",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "SM",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SA",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "SA",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "SA",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "SA",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "SA",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RS",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "RS",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "RS",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "RS",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "RS",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SG",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "SG",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "SG",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "SG",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "SG",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SK",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "SK",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "SK",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "SK",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "SK",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ZA",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "ZA",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "ZA",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "ZA",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "ZA",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "KR",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "KR",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "KR",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "KR",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "KR",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ES",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "ES",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "ES",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "ES",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "ES",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SE",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "SE",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "SE",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "SE",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "SE",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "TH",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "TH",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "TH",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "TH",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "TH",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "UA",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "UA",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "UA",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "UA",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "UA",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "AE",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "AE",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "AE",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "AE",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "AE",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "GB",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "GB",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "GB",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "GB",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "GB",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "US",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "US",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "US",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "US",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "US",
+      "fieldName": "state",
+      "description": "Estado del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "US",
+      "fieldName": "city",
+      "description": "Cidade do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "US",
+      "fieldName": "postalCode or geoCoordinates",
+      "description": "Código postal",
+      "type": "Ocho o nueve dígitos, con guion"
+    },
+    {
+      "country": "US",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "US",
+      "fieldName": "receiverName",
+      "description": "Nombre del destinatario",
+      "type": "Texto"
+    },
+    {
+      "country": "VE",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "VE",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "VE",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "VE",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "VE",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "MX",
+      "fieldName": "addressId",
+      "description": "ID de la dirección",
+      "type": "Vacío"
+    },
+    {
+      "country": "MX",
+      "fieldName": "addressName",
+      "description": "ID del cliente",
+      "type": "Campo ID. Generado después de importar clientes"
+    },
+    {
+      "country": "MX",
+      "fieldName": "addressType",
+      "description": "Tipo de dirección",
+      "type": "Texto. El valor debe ser \"residential\" o \"commercial\""
+    },
+    {
+      "country": "MX",
+      "fieldName": "country",
+      "description": "Código del país",
+      "type": "Texto. Código ISO 3166-1 del país"
+    },
+    {
+      "country": "MX",
+      "fieldName": "street",
+      "description": "Dirección del cliente",
+      "type": "Texto"
+    }
+  ]
+}
