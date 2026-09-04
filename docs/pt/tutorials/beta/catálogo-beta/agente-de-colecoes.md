@@ -29,7 +29,7 @@ Além de permitir realizar tudo o que era feito pela interface legada, o **Agent
 O **Agente de Coleções** está em beta, e durante este período a funcionalidade tem as seguintes limitações:
 
 - **Escopo:** inclui, para coleções e sortimentos, as ações de criação, edição, importação/exportação em massa e visualização do plano criado pelo agente antes da confirmação do usuário.
-- **Sortimento restrito:** a criação e o uso de sortimentos estão disponíveis apenas para cenários B2B.
+- **Sortimento restrito:** a criação e o uso de sortimentos estão disponíveis apenas para lojas que utilizam **B2B Buyer Portal**.
 - **Coleção ou sortimento por vez:** o agente atua sobre uma única coleção ou sortimento em cada operação de visualização, criação ou edição.
 - **Tempo de propagação:** uma coleção não fica visível imediatamente após a criação ou edição. O agente informa que a indexação está em andamento e que a propagação dos dados leva cerca de uma hora até que a coleção fique disponível para consulta.
 - **Verificação de pertencimento após a criação:** confirmar se um produto específico faz parte de uma coleção é confiável apenas após a criação e a indexação. Verificações de pertencimento antes da criação estão fora do escopo neste momento.
