@@ -11490,9 +11490,24 @@
                 },
                 {
                   "name": {
-                    "en": "4. Glossary",
-                    "es": "4. Glosario",
-                    "pt": "4. Glossário"
+                    "en": "4. CMS for FastStore",
+                    "es": "4. CMS for FastStore",
+                    "pt": "4. CMS for FastStore"
+                  },
+                  "slug": {
+                    "en": "cms-for-faststore",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "5. Glossary",
+                    "es": "5. Glosario",
+                    "pt": "5. Glossário"
                   },
                   "slug": {
                     "en": "glossary",
