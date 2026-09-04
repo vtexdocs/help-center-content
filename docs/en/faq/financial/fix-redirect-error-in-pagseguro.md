@@ -50,13 +50,13 @@ To fix the problem, there are two options: Set up PagSeguro with redirect correc
 3. Click on the __Gateway Affiliations__ tab.
 4. Click the __+__ button in the upper right corner of the screen.
 5. Click on the __PagSeguro without redirect__ affiliation.
-6. Follow our [PagSeguro configuration tutorial without redirect](/en/tutorial/how-configure-the-pagseguro-without-redirect-transparent).
+6. Follow our [payment condition configuration tutorial](/en/docs/tutorials/how-to-configure-payment-conditions).
 
 ### Setting the Payment Condition
 
 1. After successfully setting up the Gateway Affiliation in the previous step, click on the __Payment Conditions__ tab.
 2. Click the __+__ button in the upper right corner of the screen.
-3. Click the desired payment condition. In the case of PagSeguro Affiliation without redirect, this can be a [credit card](/en/docs/tutorials/how-to-configure-payment-conditions) or a [bank slip](/en/docs/tutorials/how-to-configure-a-bank-slip), for example.
+3. Click the desired payment condition. In the case of PagSeguro Affiliation without redirect, this can be a [credit card](/en/docs/tutorials/how-to-configure-payment-conditions) or a [Boleto](/en/docs/tutorials/how-to-configure-a-boleto), for example.
 4. In the __Status__ flag, select the __Active__ option.
 5. Under __Process with affiliation__, select the __PagSeguro without redirect__ affiliation registered in the previous step.
 6. Click __Save__.

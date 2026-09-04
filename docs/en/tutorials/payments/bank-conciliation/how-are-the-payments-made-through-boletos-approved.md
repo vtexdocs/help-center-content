@@ -1,5 +1,5 @@
 ---
-title: 'How are the payments made through bank slips approved?'
+title: 'How are the payments made through Boletos approved?'
 id: frequentlyAskedQuestions_489
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:53.873Z
@@ -9,13 +9,13 @@ firstPublishedAt: 2019-01-24T22:11:54.868Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slugEN: how-are-the-payments-made-through-bank-slips-approved
+slugEN: how-are-the-payments-made-through-boletos-approved
 legacySlug: how-are-the-payments-made-through-bank-slips-approved
 locale: en
 subcategoryId: 2tEO9ytK1aMO0i2oMayoQq
 ---
 
-Bank slips can be set up in two different ways: banking information may be recorded directly on the Payments section, or it may go through a payment gateway. [See our bank slip creation manual](/en/docs/tutorials/how-to-configure-a-bank-slip/).
+Boleto can be set up in two different ways: banking information may be recorded directly on the Payments section, or it may go through a payment gateway. [See our Boleto creation manual](/en/docs/tutorials/how-to-configure-a-boleto/).
 
 See below details regarding approval of each one of these types:
 

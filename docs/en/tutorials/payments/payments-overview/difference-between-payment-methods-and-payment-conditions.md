@@ -17,7 +17,7 @@ subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 
 The difference between these two concepts is subtle but fundamental to understanding the actions you need to take to start selling with your VTEX store.
 
-__Payment methods__ are the forms that can be used for the money to exchange hands and, thus, to make purchase and sale relationships viable. VTEX supports various payment methods such as credit and debit cards, bank slips, e-wallets, vouchers and many more.
+__Payment methods__ are the forms that can be used for the money to exchange hands and, thus, to make purchase and sale relationships viable. VTEX supports various payment methods such as credit and debit cards, Boletos, e-wallets, vouchers and many more.
 
 __Payment conditions__, on the other hand, are the rules that must be followed by a person who wants to buy in your store. In practice, payment conditions are the options that appear on the user's screen at checkout.
 
