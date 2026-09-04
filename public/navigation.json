@@ -20340,6 +20340,21 @@
                 },
                 {
                   "name": {
+                    "en": "CMS roles and permissions",
+                    "es": "CMS roles y permisos",
+                    "pt": "CMS perfis de acesso e permissões"
+                  },
+                  "slug": {
+                    "en": "cms-roles-and-permissions",
+                    "es": "cms-roles-y-permisos",
+                    "pt": "cms-perfis-de-acesso-e-permissoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Configuring stores",
                     "es": "Configurar tiendas",
                     "pt": "Configurar lojas"
@@ -20348,21 +20363,6 @@
                     "en": "cms-configuring-stores",
                     "es": "cms-configurar-tiendas",
                     "pt": "cms-configurar-lojas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Roles and permissions",
-                    "es": "Roles y permisos",
-                    "pt": "Perfis de acesso e permissões"
-                  },
-                  "slug": {
-                    "en": "roles-and-permissions",
-                    "es": "roles-y-permisos",
-                    "pt": "perfis-de-acesso-e-permissoes"
                   },
                   "origin": "",
                   "type": "markdown",

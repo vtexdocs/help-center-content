@@ -1,5 +1,5 @@
 ---
-title: "Perfis de acesso e permissões"
+title: "CMS perfis de acesso e permissões"
 createdAt: "2026-07-08T10:00:00.219Z"
 updatedAt: "2026-08-13T10:00:00.219Z"
 contentType: tutorial
