@@ -33768,6 +33768,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configurar o Shopping Assistant",
+                    "es": "Configurar o Shopping Assistant",
+                    "pt": "Configurar o Shopping Assistant"
+                  },
+                  "slug": {
+                    "en": "configure-shopping-assistant",
+                    "es": "configurar-el-shopping-assistant",
+                    "pt": "configurar-o-shopping-assistant"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Creating a Microsoft Teams channel",
                     "es": "Creación de un canal de Microsoft Teams",
                     "pt": "Integração com o Microsoft Teams"
@@ -34031,21 +34046,6 @@
                     "en": "ticketer-ticketer-on-rapid-pro",
                     "es": "ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro",
                     "pt": "ticketer-adicionando-servico-de-ticketer-no-rapidpro"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Web Chat Channel",
-                    "es": "Canal VTEX CX Platform web chat",
-                    "pt": "Canal de Web Chat"
-                  },
-                  "slug": {
-                    "en": "web-chat-channel",
-                    "es": "canal-web-chat",
-                    "pt": "canal-de-web-chat"
                   },
                   "origin": "",
                   "type": "markdown",
