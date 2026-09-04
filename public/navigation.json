@@ -19911,6 +19911,21 @@
                     },
                     {
                       "name": {
+                        "en": "Configuring zoom and thumbnails in CMS Portal (Legacy) stores",
+                        "es": "Configuring zoom and thumbnails in CMS Portal (Legacy) stores",
+                        "pt": "Configuring zoom and thumbnails in CMS Portal (Legacy) stores"
+                      },
+                      "slug": {
+                        "en": "setting-up-zoom-and-thumbnails-in-cms-portal-legacy-stores",
+                        "es": "",
+                        "pt": ""
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Enabling PWA push notifications in your store",
                         "es": "Habilitar las notificaciones PWA de la tienda",
                         "pt": "Habilitando notificações PWA da loja"
@@ -19964,21 +19979,6 @@
                         "en": "set-the-store-display-language",
                         "es": "definir-el-idioma-de-visualizacion-de-la-tienda",
                         "pt": "definir-o-idioma-de-exibicao-da-loja"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Setting up zoom and thumbnails in CMS Portal (Legacy) stores",
-                        "es": "Configurar el zoom y las miniaturas en tiendas CMS Portal (Legado)",
-                        "pt": "Configurando zoom e miniaturas em lojas CMS Portal (Legado)"
-                      },
-                      "slug": {
-                        "en": "setting-up-zoom-and-thumbnails-in-cms-portal-legacy-stores",
-                        "es": "configurar-el-zoom-y-las-miniaturas-en-tiendas-cms-portal-legado",
-                        "pt": "configurando-zoom-e-miniaturas-em-lojas-cms-portal-legado"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -20055,6 +20055,53 @@
                         "en": "customizing-your-stores-typography",
                         "es": "personalizar-la-tipografia-de-tu-tienda",
                         "pt": "personalizando-a-tipografia-da-sua-loja"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "CMS para Store Framework",
+                "es": "CMS para Store Framework",
+                "pt": "CMS para Store Framework"
+              },
+              "slug": {
+                "en": "cms-para-store-framework",
+                "es": "cms-para-store-framework-subcategoria",
+                "pt": "cms-para-store-framework-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Configuración de la Tienda - Storefront",
+                    "es": "Configuración de la Tienda - Storefront",
+                    "pt": "Configurações da Loja - Storefront"
+                  },
+                  "slug": {
+                    "en": "configuracion-de-la-tienda-storefront",
+                    "es": "configuracion-de-la-tienda---storefront-subcategoria",
+                    "pt": "configurações-da-loja---storefront-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "es": "Configurar zoom y miniaturas en tiendas CMS Portal (Legado)",
+                        "pt": "Configurando zoom e miniaturas em lojas CMS Portal (Legado)",
+                        "en": "Configurar zoom y miniaturas en tiendas CMS Portal (Legado)"
+                      },
+                      "slug": {
+                        "es": "configurar-el-zoom-y-las-miniaturas-en-tiendas-cms-portal-legado",
+                        "pt": "configurando-zoom-e-miniaturas-em-lojas-cms-portal-legado",
+                        "en": ""
                       },
                       "origin": "",
                       "type": "markdown",
@@ -38676,7 +38723,7 @@
             {
               "name": {
                 "en": "Builder-hub error when trying to publish an app",
-                "es": "Error de Builder-hub al intentar publicar una aplicación",
+                "es": "Error de Builder-hub al intentar publicar una aplicación.",
                 "pt": "Erro do Builder-hub ao tentar publicar um aplicativo"
               },
               "slug": {
@@ -39404,6 +39451,21 @@
                 "en": "quick-order-changes-items-quantity-when-a-more-for-less-promotion-is-applied",
                 "es": "pedido-rapido-cambia-la-cantidad-de-articulos-cuando-se-aplica-una-promocion-mas-por-menos",
                 "pt": "o-quick-order-altera-a-quantidade-do-item-quando-uma-promocao-more-for-less-e-aplicada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Quickorder App concurrency issues when adding items",
+                "es": "Problemas de concurrencia en la aplicación Quickorder al agregar artículos",
+                "pt": "Problemas de concorrência no aplicativo Quickorder ao adicionar itens."
+              },
+              "slug": {
+                "en": "quickorder-app-concurrency-issues-when-adding-items",
+                "es": "problemas-de-concurrencia-en-la-aplicacion-quickorder-al-agregar-articulos",
+                "pt": "problemas-de-concorrencia-no-aplicativo-quickorder-ao-adicionar-itens"
               },
               "origin": "",
               "type": "markdown",
@@ -42712,21 +42774,6 @@
             },
             {
               "name": {
-                "en": "RoundingMode changes do not work for percentual discounts",
-                "es": "Los cambios de RoundingMode no funcionan para los descuentos porcentuales",
-                "pt": "As alterações no RoundingMode não funcionam para descontos percentuais"
-              },
-              "slug": {
-                "en": "roundingmode-changes-do-not-work-for-percentual-discounts",
-                "es": "los-cambios-de-roundingmode-no-funcionan-para-los-descuentos-porcentuales",
-                "pt": "as-alteracoes-no-roundingmode-nao-funcionam-para-descontos-percentuais"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Sales channel info divergent between UI and API",
                 "es": "La información sobre los canales de venta difiere entre la interfaz de usuario y la API",
                 "pt": "Informações sobre o canal de vendas divergem entre a interface do usuário e a API"
@@ -42870,21 +42917,6 @@
                 "en": "similar-products-ui-brokes-with-too-many-products",
                 "es": "la-interfaz-de-usuario-de-los-productos-similares-deja-de-funcionar-cuando-hay-demasiados-productos",
                 "pt": "a-interface-do-usuario-de-produtos-semelhantes-fica-desorganizada-quando-ha-muitos-produtos"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Sitemap from subaccounts including products from other subaccounts and mainaccount",
-                "es": "Mapa del sitio de las subcuentas que incluye productos de otras subcuentas y de la cuenta principal",
-                "pt": "Mapa do site das subcontas, incluindo produtos de outras subcontas e da conta principal"
-              },
-              "slug": {
-                "en": "sitemap-from-subaccounts-including-products-from-other-subaccounts-and-mainaccount",
-                "es": "mapa-del-sitio-de-las-subcuentas-que-incluye-productos-de-otras-subcuentas-y-de-la-cuenta-principal",
-                "pt": "mapa-do-site-das-subcontas-incluindo-produtos-de-outras-subcontas-e-da-conta-principal"
               },
               "origin": "",
               "type": "markdown",
@@ -45024,6 +45056,21 @@
             },
             {
               "name": {
+                "en": "CheckoutOrderFormOwnership Cookie shipping information loss",
+                "es": "Pérdida de información de envío de cookies del formulario de pedido de pago",
+                "pt": "Perda de informações de envio do cookie CheckoutOrderFormOwnship"
+              },
+              "slug": {
+                "en": "checkoutorderformownership-cookie-shipping-information-loss",
+                "es": "perdida-de-informacion-de-envio-de-cookies-del-formulario-de-pedido-de-pago",
+                "pt": "perda-de-informacoes-de-envio-do-cookie-checkoutorderformownship"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "CheckoutOrderFormOwnership is lost/doesn't exist in some purchase flows",
                 "es": "La propiedad del formulario de pedido de pago se pierde o no existe en algunos flujos de compra.",
                 "pt": "A propriedade do formulário de pedido no checkout é perdida/não existe em alguns fluxos de compra."
@@ -45167,6 +45214,21 @@
                 "en": "country-selector-for-billing-address-while-in-international-mode-stays-restricted-to-the-delivery-countries",
                 "es": "el-selector-de-pais-para-la-direccion-de-facturacion-mientras-esta-en-modo-internacional-permanece-restringido-a-los-paises-de-entrega",
                 "pt": "o-seletor-de-pais-para-endereco-de-faturamento-enquanto-no-modo-internacional-permanece-restrito-aos-paises-de-entrega"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Coupon code is not recorded in the order when applied with different letter case",
+                "es": "El código del cupón no se registra en el pedido cuando se aplica con mayúsculas o minúsculas diferentes.",
+                "pt": "O código do cupom não é registrado no pedido quando aplicado com letras maiúsculas e minúsculas diferentes."
+              },
+              "slug": {
+                "en": "coupon-code-is-not-recorded-in-the-order-when-applied-with-different-letter-case",
+                "es": "el-codigo-del-cupon-no-se-registra-en-el-pedido-cuando-se-aplica-con-mayusculas-o-minusculas-diferentes",
+                "pt": "o-codigo-do-cupom-nao-e-registrado-no-pedido-quando-aplicado-com-letras-maiusculas-e-minusculas-diferentes"
               },
               "origin": "",
               "type": "markdown",
@@ -45587,6 +45649,21 @@
                 "en": "incorrect-display-of-package-quantity-at-checkout",
                 "es": "visualizacion-incorrecta-de-la-cantidad-de-paquetes-en-la-caja",
                 "pt": "exibicao-incorreta-da-quantidade-da-embalagem-no-checkout"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Incorrect reward value in the orderForm when a promotion splits an item",
+                "es": "Valor de recompensa incorrecto en el formulario de pedido cuando una promoción divide un artículo.",
+                "pt": "Valor de recompensa incorreto no formulário de pedido quando uma promoção divide um item."
+              },
+              "slug": {
+                "en": "incorrect-reward-value-in-the-orderform-when-a-promotion-splits-an-item",
+                "es": "valor-de-recompensa-incorrecto-en-el-formulario-de-pedido-cuando-una-promocion-divide-un-articulo",
+                "pt": "valor-de-recompensa-incorreto-no-formulario-de-pedido-quando-uma-promocao-divide-um-item"
               },
               "origin": "",
               "type": "markdown",
@@ -47117,6 +47194,21 @@
                 "en": "shipping-preview-does-not-use-sla-name-for-display-in-ui",
                 "es": "la-vista-previa-de-los-envios-no-utiliza-el-nombre-del-ans-para-su-visualizacion-en-la-interfaz-de-usuario",
                 "pt": "a-visualizacao-previa-da-expedicao-nao-usa-o-nome-sla-para-exibicao-na-interface-de-usuario"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shipping preview loops when an item has multiple delivery options and the freight price changes between simulations",
+                "es": "La vista previa del envío se repite cuando un artículo tiene varias opciones de entrega y el precio del flete cambia entre simulaciones.",
+                "pt": "A pré-visualização do frete entra em loop quando um item possui várias opções de entrega e o preço do frete muda entre as simulações."
+              },
+              "slug": {
+                "en": "shipping-preview-loops-when-an-item-has-multiple-delivery-options-and-the-freight-price-changes-between-simulations",
+                "es": "la-vista-previa-del-envio-se-repite-cuando-un-articulo-tiene-varias-opciones-de-entrega-y-el-precio-del-flete-cambia-entre-simulaciones",
+                "pt": "a-previsualizacao-do-frete-entra-em-loop-quando-um-item-possui-varias-opcoes-de-entrega-e-o-preco-do-frete-muda-entre-as-simulacoes"
               },
               "origin": "",
               "type": "markdown",
@@ -52396,6 +52488,21 @@
             },
             {
               "name": {
+                "en": "Intelligent Search returns products generated by SKU split with incorrect availability",
+                "es": "La búsqueda inteligente devuelve productos generados por división de SKU con disponibilidad incorrecta.",
+                "pt": "A Busca Inteligente retorna produtos gerados pela divisão de SKU com disponibilidade incorreta."
+              },
+              "slug": {
+                "en": "intelligent-search-returns-products-generated-by-sku-split-with-incorrect-availability",
+                "es": "la-busqueda-inteligente-devuelve-productos-generados-por-division-de-sku-con-disponibilidad-incorrecta",
+                "pt": "a-busca-inteligente-retorna-produtos-gerados-pela-divisao-de-sku-com-disponibilidade-incorreta"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Intelligent Search Synonyms does not re-create deleted synonyms",
                 "es": "La función «Búsqueda inteligente de sinónimos» no vuelve a crear los sinónimos eliminados",
                 "pt": "A função \"Pesquisa inteligente de sinônimos\" não recria sinônimos excluídos"
@@ -53943,6 +54050,21 @@
             },
             {
               "name": {
+                "en": "Search item field does not return anything in logistics simulation",
+                "es": "El campo de búsqueda de elementos no devuelve ningún resultado en la simulación logística.",
+                "pt": "O campo de pesquisa não retorna nenhum resultado na simulação logística."
+              },
+              "slug": {
+                "en": "search-item-field-does-not-return-anything-in-logistics-simulation",
+                "es": "el-campo-de-busqueda-de-elementos-no-devuelve-ningun-resultado-en-la-simulacion-logistica",
+                "pt": "o-campo-de-pesquisa-nao-retorna-nenhum-resultado-na-simulacao-logistica"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Shipping policy not prioritized due 'Reason: Dismissed as a matter of priority' even with better cost",
                 "es": "Política de envío no priorizada por 'Motivo: Descartado con carácter prioritario' incluso con mejor coste",
                 "pt": "Política de embarque não priorizada devido ao 'Motivo': Dispensada como prioridade' mesmo com melhor custo"
@@ -53990,12 +54112,12 @@
               "name": {
                 "en": "Shipping Policy with incorrect MaxVolume on spreadsheet does not show Message error on Simulation",
                 "es": "La política de envío con un volumen máximo incorrecto en la hoja de cálculo no muestra el mensaje de error en la simulación.",
-                "pt": "Política de envio com MaxVolume incorreto na planilha não mostra erro de mensagem na simulação"
+                "pt": "A política de envio com MaxVolume incorreto na planilha não exibe a mensagem de erro na simulação."
               },
               "slug": {
                 "en": "shipping-policy-with-incorrect-maxvolume-on-spreadsheet-does-not-show-message-error-on-simulation",
                 "es": "la-politica-de-envio-con-un-volumen-maximo-incorrecto-en-la-hoja-de-calculo-no-muestra-el-mensaje-de-error-en-la-simulacion",
-                "pt": "politica-de-envio-com-maxvolume-incorreto-na-planilha-nao-mostra-erro-de-mensagem-na-simulacao"
+                "pt": "a-politica-de-envio-com-maxvolume-incorreto-na-planilha-nao-exibe-a-mensagem-de-erro-na-simulacao"
               },
               "origin": "",
               "type": "markdown",
@@ -58967,7 +59089,7 @@
           },
           "slug": {
             "en": "others",
-            "es": "otro",
+            "es": "otros",
             "pt": "outros"
           },
           "origin": "",
@@ -60027,12 +60149,12 @@
             {
               "name": {
                 "en": "Error when processing the second refund or cancellation with the same value as the first",
-                "es": "Se ha producido un error al procesar el segundo reembolso o la segunda cancelación con el mismo importe que el primero",
-                "pt": "Erro ao processar o segundo reembolso ou cancelamento com o mesmo valor do primeiro"
+                "es": "Error al procesar el segundo reembolso o cancelación con el mismo valor que el primero.",
+                "pt": "Erro ao processar o segundo reembolso ou cancelamento com o mesmo valor do primeiro."
               },
               "slug": {
                 "en": "error-when-processing-the-second-refund-or-cancellation-with-the-same-value-as-the-first",
-                "es": "se-ha-producido-un-error-al-procesar-el-segundo-reembolso-o-la-segunda-cancelacion-con-el-mismo-importe-que-el-primero",
+                "es": "error-al-procesar-el-segundo-reembolso-o-cancelacion-con-el-mismo-valor-que-el-primero",
                 "pt": "erro-ao-processar-o-segundo-reembolso-ou-cancelamento-com-o-mesmo-valor-do-primeiro"
               },
               "origin": "",
@@ -60971,6 +61093,21 @@
             },
             {
               "name": {
+                "en": "My Cards - Verification transaction (AV) denied due to phone field always null, even when customer's phone is registered in profile",
+                "es": "Mis Tarjetas - La verificación de la transacción (AV) fue rechazada debido a que el campo del teléfono siempre está vacío, incluso cuando el teléfono del cliente está registrado en el perfil.",
+                "pt": "Meus Cartões - Transação de verificação (AV) negada devido ao campo de telefone estar sempre vazio, mesmo quando o telefone do cliente está cadastrado no perfil."
+              },
+              "slug": {
+                "en": "my-cards-verification-transaction-av-denied-due-to-phone-field-always-null-even-when-customers-phone-is-registered-in-profile",
+                "es": "mis-tarjetas-la-verificacion-de-la-transaccion-av-fue-rechazada-debido-a-que-el-campo-del-telefono-siempre-esta-vacio-incluso-cuando-el-telefono-del-cliente-esta-registrado-en-el-perfil",
+                "pt": "meus-cartoes-transacao-de-verificacao-av-negada-devido-ao-campo-de-telefone-estar-sempre-vazio-mesmo-quando-o-telefone-do-cliente-esta-cadastrado-no-perfil"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "My Cards footer is shivering when trying to add a new card",
                 "es": "El pie de página de mis tarjetas tiembla al intentar añadir una nueva tarjeta",
                 "pt": "O rodapé dos meus cartões está tremendo ao tentar adicionar um novo cartão"
@@ -61204,6 +61341,21 @@
                 "en": "order-stuck-in-payment-pending-despite-approved-transaction",
                 "es": "el-pedido-sigue-en-pago-pendiente-a-pesar-de-que-la-transaccion-ha-sido-aprobada",
                 "pt": "o-pedido-permanece-no-status-pagamento-pendente-apesar-de-a-transacao-ter-sido-aprovada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order Stuck in Payment Pending Despite Approved Transaction (OMS Reads Stale Status When Processing payment-approved)",
+                "es": "El pedido se queda atascado en estado de pago pendiente a pesar de que la transacción fue aprobada (el sistema de gestión de pedidos muestra un estado obsoleto al procesar el pago aprobado).",
+                "pt": "Pedido travado em \"Pagamento pendente\" apesar da transação ter sido aprovada (OMS lê status obsoleto ao processar pagamento aprovado)"
+              },
+              "slug": {
+                "en": "order-stuck-in-payment-pending-despite-approved-transaction-oms-reads-stale-status-when-processing-paymentapproved",
+                "es": "el-pedido-se-queda-atascado-en-estado-de-pago-pendiente-a-pesar-de-que-la-transaccion-fue-aprobada-el-sistema-de-gestion-de-pedidos-muestra-un-estado-obsoleto-al-procesar-el-pago-aprobado",
+                "pt": "pedido-travado-em-pagamento-pendente-apesar-da-transacao-ter-sido-aprovada-oms-le-status-obsoleto-ao-processar-pagamento-aprovado"
               },
               "origin": "",
               "type": "markdown",
@@ -61834,6 +61986,21 @@
                 "en": "second-payment-authorization-request-being-sent-within-an-interval-shorter-than-what-is-stated-in-firstretryattemptinseconds",
                 "es": "segunda-solicitud-de-autorizacion-de-pago-enviada-en-un-intervalo-inferior-al-indicado-en-firstretryattemptinseconds",
                 "pt": "segunda-solicitacao-de-autorizacao-de-pagamento-sendo-enviada-em-um-intervalo-menor-do-que-o-indicado-em-firstretryattemptinseconds"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Split refund recorded but never sent to the provider (external tax)",
+                "es": "Reembolso parcial registrado pero nunca enviado al proveedor (impuesto externo)",
+                "pt": "O reembolso dividido foi registrado, mas nunca enviado ao fornecedor (imposto externo)."
+              },
+              "slug": {
+                "en": "split-refund-recorded-but-never-sent-to-the-provider-external-tax",
+                "es": "reembolso-parcial-registrado-pero-nunca-enviado-al-proveedor-impuesto-externo",
+                "pt": "o-reembolso-dividido-foi-registrado-mas-nunca-enviado-ao-fornecedor-imposto-externo"
               },
               "origin": "",
               "type": "markdown",
@@ -62801,21 +62968,6 @@
             },
             {
               "name": {
-                "es": "Una expresión regular obsoleta para tarjetas de débito Mastercard nos está llevando a identificar erróneamente algunos BIN",
-                "pt": "Uma expressão regular desatualizada para cartões de débito Mastercard está fazendo com que identifiquemos erroneamente alguns BINs",
-                "en": "Una expresión regular obsoleta para tarjetas de débito Mastercard nos está llevando a identificar erróneamente algunos BIN"
-              },
-              "slug": {
-                "es": "una-expresion-regular-obsoleta-para-tarjetas-de-debito-mastercard-nos-esta-llevando-a-identificar-erroneamente-algunos-bin",
-                "pt": "uma-expressao-regular-desatualizada-para-cartoes-de-debito-mastercard-esta-fazendo-com-que-identifiquemos-erroneamente-alguns-bins",
-                "en": ""
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Unable to access My Credits \"An error occurred in your account\"",
                 "es": "No se puede acceder a Mis créditos \"Se ha producido un error en su cuenta\"",
                 "pt": "Não é possível acessar My Credits \"Ocorreu um erro em sua conta\""
@@ -63464,6 +63616,21 @@
             },
             {
               "name": {
+                "en": "Catalog database cannot handle Cyrillic characters on Sitemap",
+                "es": "La base de datos del catálogo no admite caracteres cirílicos en el mapa del sitio.",
+                "pt": "O banco de dados do catálogo não consegue lidar com caracteres cirílicos no mapa do site."
+              },
+              "slug": {
+                "en": "catalog-database-cannot-handle-cyrillic-characters-on-sitemap",
+                "es": "la-base-de-datos-del-catalogo-no-admite-caracteres-cirilicos-en-el-mapa-del-sitio",
+                "pt": "o-banco-de-dados-do-catalogo-nao-consegue-lidar-com-caracteres-cirilicos-no-mapa-do-site"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Category and Brand substitute words not being indexed",
                 "es": "Las palabras sustitutivas de «categoría» y «marca» no se indexan",
                 "pt": "Palavras-chave relacionadas a categorias e marcas não estão sendo indexadas"
@@ -63967,6 +64134,51 @@
                 "en": "shipping-promotion-does-not-generate-highlights-flags",
                 "es": "la-promocion-de-envios-no-genera-puntos-destacados-banderas",
                 "pt": "a-promocao-de-embarque-nao-gera-destaques-bandeiras"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sitemap from subaccounts including products from other subaccounts and mainaccount",
+                "es": "Mapa del sitio desde subcuentas que incluye productos de otras subcuentas y de la cuenta principal.",
+                "pt": "Mapa do site das subcontas, incluindo produtos de outras subcontas e da conta principal."
+              },
+              "slug": {
+                "en": "sitemap-from-subaccounts-including-products-from-other-subaccounts-and-mainaccount",
+                "es": "mapa-del-sitio-desde-subcuentas-que-incluye-productos-de-otras-subcuentas-y-de-la-cuenta-principal",
+                "pt": "mapa-do-site-das-subcontas-incluindo-produtos-de-outras-subcontas-e-da-conta-principal"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sitemap generation does not consider products from Account and SubAccount",
+                "es": "La generación del mapa del sitio no tiene en cuenta los productos de Cuenta y Subcuenta.",
+                "pt": "A geração do sitemap não considera produtos da Conta e da Subconta."
+              },
+              "slug": {
+                "en": "sitemap-generation-does-not-consider-products-from-account-and-subaccount",
+                "es": "la-generacion-del-mapa-del-sitio-no-tiene-en-cuenta-los-productos-de-cuenta-y-subcuenta",
+                "pt": "a-geracao-do-sitemap-nao-considera-produtos-da-conta-e-da-subconta"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sitemap returns NULL for all entries",
+                "es": "El mapa del sitio devuelve NULL para todas las entradas.",
+                "pt": "O Sitemap retorna NULL para todas as entradas."
+              },
+              "slug": {
+                "en": "sitemap-returns-null-for-all-entries",
+                "es": "el-mapa-del-sitio-devuelve-null-para-todas-las-entradas",
+                "pt": "o-sitemap-retorna-null-para-todas-as-entradas"
               },
               "origin": "",
               "type": "markdown",
@@ -65056,6 +65268,21 @@
             },
             {
               "name": {
+                "en": "Fixed Prices import may incorrectly report success when SKU column is formatted as a number",
+                "es": "La importación de precios fijos puede informar incorrectamente que se realizó correctamente cuando la columna SKU está formateada como un número.",
+                "pt": "A importação de preços fixos pode reportar incorretamente sucesso quando a coluna SKU estiver formatada como um número."
+              },
+              "slug": {
+                "en": "fixed-prices-import-may-incorrectly-report-success-when-sku-column-is-formatted-as-a-number",
+                "es": "la-importacion-de-precios-fijos-puede-informar-incorrectamente-que-se-realizo-correctamente-cuando-la-columna-sku-esta-formateada-como-un-numero",
+                "pt": "a-importacao-de-precos-fixos-pode-reportar-incorretamente-sucesso-quando-a-coluna-sku-estiver-formatada-como-um-numero"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Flag 'Only apply discount to the cheapest shipping option' not working as expected",
                 "es": "La bandera 'Aplicar el descuento sólo a la opción de envío más barata' no funciona como se esperaba",
                 "pt": "Bandeira 'Aplicar desconto apenas à opção de remessa mais barata' não funcionando como esperado"
@@ -65724,6 +65951,21 @@
                 "en": "roundingmode-ceilingfloor-not-working-properly-among-items-with-unitmultiplier-other-than-1",
                 "es": "el-modo-de-redondeo-ceilingfloor-no-funciona-correctamente-con-elementos-que-tienen-un-multiplicador-de-unidad-distinto-de-1",
                 "pt": "o-modo-de-arredondamento-ceilingfloor-nao-funciona-corretamente-em-itens-com-um-multiplicador-de-unidade-diferente-de-1"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "RoundingMode changes do not work for percentual discounts",
+                "es": "Los cambios en RoundingMode no funcionan para los descuentos porcentuales.",
+                "pt": "As alterações no modo de arredondamento não funcionam para descontos percentuais."
+              },
+              "slug": {
+                "en": "roundingmode-changes-do-not-work-for-percentual-discounts",
+                "es": "los-cambios-en-roundingmode-no-funcionan-para-los-descuentos-porcentuales",
+                "pt": "as-alteracoes-no-modo-de-arredondamento-nao-funcionam-para-descontos-percentuais"
               },
               "origin": "",
               "type": "markdown",
@@ -67146,12 +67388,12 @@
             {
               "name": {
                 "en": "Custom headers are not applied to all pages",
-                "es": "Las cabeceras personalizadas no se aplican a todas las páginas",
-                "pt": "Os cabeçalhos personalizados não são aplicados a todas as páginas"
+                "es": "Los encabezados personalizados no se aplican a todas las páginas.",
+                "pt": "Os cabeçalhos personalizados não são aplicados a todas as páginas."
               },
               "slug": {
                 "en": "custom-headers-are-not-applied-to-all-pages",
-                "es": "las-cabeceras-personalizadas-no-se-aplican-a-todas-las-paginas",
+                "es": "los-encabezados-personalizados-no-se-aplican-a-todas-las-paginas",
                 "pt": "os-cabecalhos-personalizados-nao-sao-aplicados-a-todas-as-paginas"
               },
               "origin": "",
@@ -67805,6 +68047,21 @@
             },
             {
               "name": {
+                "en": "Product specification field is not displayed on PDP when its name matches the specification group name",
+                "es": "El campo de especificación del producto no se muestra en PDP cuando su nombre coincide con el nombre del grupo de especificación.",
+                "pt": "O campo de especificação do produto não é exibido na página de detalhes do produto (PDP) quando seu nome corresponde ao nome do grupo de especificações."
+              },
+              "slug": {
+                "en": "product-specification-field-is-not-displayed-on-pdp-when-its-name-matches-the-specification-group-name",
+                "es": "el-campo-de-especificacion-del-producto-no-se-muestra-en-pdp-cuando-su-nombre-coincide-con-el-nombre-del-grupo-de-especificacion",
+                "pt": "o-campo-de-especificacao-do-produto-nao-e-exibido-na-pagina-de-detalhes-do-produto-pdp-quando-seu-nome-corresponde-ao-nome-do-grupo-de-especificacoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product Summary Quantity does not work in regionalized stores",
                 "es": "La cantidad del resumen del producto no funciona en las tiendas regionalizadas",
                 "pt": "A quantidade do resumo do produto não funciona em lojas regionalizadas"
@@ -68098,6 +68355,21 @@
                 "en": "sitemap-retains-ghost-products-from-categories-removed-via-full-cleanup",
                 "es": "el-mapa-del-sitio-conserva-los-productos-fantasma-de-las-categorias-eliminadas-mediante-una-limpieza-completa",
                 "pt": "o-mapa-do-site-mantem-produtos-fantasmas-de-categorias-removidas-por-meio-de-uma-limpeza-completa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sitemap returns \"Account not found\" on public domains for stores split between Store Framework and FastStore",
+                "es": "El mapa del sitio devuelve \"Cuenta no encontrada\" en dominios públicos para tiendas divididas entre Store Framework y FastStore.",
+                "pt": "O Sitemap retorna \"Conta não encontrada\" em domínios públicos para lojas divididas entre Store Framework e FastStore."
+              },
+              "slug": {
+                "en": "sitemap-returns-account-not-found-on-public-domains-for-stores-split-between-store-framework-and-faststore",
+                "es": "el-mapa-del-sitio-devuelve-cuenta-no-encontrada-en-dominios-publicos-para-tiendas-divididas-entre-store-framework-y-faststore",
+                "pt": "o-sitemap-retorna-conta-nao-encontrada-em-dominios-publicos-para-lojas-divididas-entre-store-framework-e-faststore"
               },
               "origin": "",
               "type": "markdown",
@@ -68634,6 +68906,37 @@
         },
         {
           "name": {
+            "en": "Marketplace in",
+            "es": "Marketplace in",
+            "pt": "Marketplace in"
+          },
+          "slug": {
+            "en": "marketplace-in",
+            "es": "marketplace-in",
+            "pt": "marketplace-in"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Markeplace-IN Suggestions API cursor pagination (_next) only covers Pending suggestions and may look like it stopped early",
+                "es": "Markeplace-IN La paginación del cursor de la API de sugerencias (_next) solo cubre las sugerencias pendientes y puede parecer que se detuvo antes de tiempo.",
+                "pt": "Markeplace-IN A paginação do cursor da API de sugestões (_next) abrange apenas sugestões pendentes e pode parecer que parou antes do tempo."
+              },
+              "slug": {
+                "en": "markeplacein-suggestions-api-cursor-pagination-next-only-covers-pending-suggestions-and-may-look-like-it-stopped-early",
+                "es": "markeplacein-la-paginacion-del-cursor-de-la-api-de-sugerencias-next-solo-cubre-las-sugerencias-pendientes-y-puede-parecer-que-se-detuvo-antes-de-tiempo",
+                "pt": "markeplacein-a-paginacao-do-cursor-da-api-de-sugestoes-next-abrange-apenas-sugestoes-pendentes-e-pode-parecer-que-parou-antes-do-tempo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
             "en": "Marketplace out",
             "es": "Marketplace out",
             "pt": "Marketplace out"
@@ -68708,6 +69011,21 @@
             },
             {
               "name": {
+                "en": "Amazon Silent Error when Connecting Amazon Integration",
+                "es": "Amazon Error silencioso al conectar la integración de Amazon",
+                "pt": "Amazon Erro silencioso ao conectar a integração com a Amazon"
+              },
+              "slug": {
+                "en": "amazon-silent-error-when-connecting-amazon-integration",
+                "es": "amazon-error-silencioso-al-conectar-la-integracion-de-amazon",
+                "pt": "amazon-erro-silencioso-ao-conectar-a-integracao-com-a-amazon"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Amazon SKU matching status reverts to \"Pending review\" after manual confirmation",
                 "es": "Amazon El estado de coincidencia de SKU vuelve a \"Pendiente de revisión\" después de la confirmación manual.",
                 "pt": "Amazon O status de correspondência do SKU volta para \"Aguardando revisão\" após confirmação manual."
@@ -68723,6 +69041,21 @@
             },
             {
               "name": {
+                "en": "AmazonMatch In some cases, SKU reverts to \"Pending Review\" after match confirmation, with no indication of Amazon's rejection reason",
+                "es": "AmazonCoincidencia En algunos casos, el SKU vuelve a estar en \"Pendiente de revisión\" después de la confirmación de la coincidencia, sin ninguna indicación del motivo del rechazo de Amazon.",
+                "pt": "AmazonMatch Em alguns casos, o SKU volta para \"Aguardando revisão\" após a confirmação da correspondência, sem nenhuma indicação do motivo da rejeição da Amazon."
+              },
+              "slug": {
+                "en": "amazonmatch-in-some-cases-sku-reverts-to-pending-review-after-match-confirmation-with-no-indication-of-amazons-rejection-reason",
+                "es": "amazoncoincidencia-en-algunos-casos-el-sku-vuelve-a-estar-en-pendiente-de-revision-despues-de-la-confirmacion-de-la-coincidencia-sin-ninguna-indicacion-del-motivo-del-rechazo-de-amazon",
+                "pt": "amazonmatch-em-alguns-casos-o-sku-volta-para-aguardando-revisao-apos-a-confirmacao-da-correspondencia-sem-nenhuma-indicacao-do-motivo-da-rejeicao-da-amazon"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Category mapping via XLS not reprocessed for accounts with large volume of suggestions",
                 "es": "La asignación de categorías mediante XLS no se reprocesa para cuentas con un gran volumen de sugerencias.",
                 "pt": "O mapeamento de categorias via XLS não é reprocessado para contas com grande volume de sugestões."
@@ -68731,6 +69064,21 @@
                 "en": "category-mapping-via-xls-not-reprocessed-for-accounts-with-large-volume-of-suggestions",
                 "es": "la-asignacion-de-categorias-mediante-xls-no-se-reprocesa-para-cuentas-con-un-gran-volumen-de-sugerencias",
                 "pt": "o-mapeamento-de-categorias-via-xls-nao-e-reprocessado-para-contas-com-grande-volume-de-sugestoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Dafiti Error orders A task was canceled.",
+                "es": "Dafiti Error en las órdenes. Se canceló una tarea.",
+                "pt": "Dafiti Ordens com erro. Uma tarefa foi cancelada."
+              },
+              "slug": {
+                "en": "dafiti-error-orders-a-task-was-canceled",
+                "es": "dafiti-error-en-las-ordenes-se-cancelo-una-tarea",
+                "pt": "dafiti-ordens-com-erro-uma-tarefa-foi-cancelada"
               },
               "origin": "",
               "type": "markdown",
