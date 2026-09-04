@@ -29,7 +29,7 @@ Con esta actualización, usted tiene más poder sobre el comportamiento de sus p
 
 ## ¿Cómo utilizar?
 
- 1. En el Admin, haga clic en **Tasas y promociones **
+ 1. En el Admin, haga clic en **Tasas y promociones**
  2. Haga clic en **Promociones**
  3. Haga clic en **Nueva promoción**
  4. Haga clic en la promoción deseada

@@ -15,7 +15,7 @@ trackSlugEN: facebook-integration
 order: 1
 ---
 
-> ℹ️ There is an integration with the [Facebook Business Extension and Conversions API](/en/docs/tracks/integration-with-facebook-business-extension) that should be your default selection when integrating with Facebook. This is valid even if the [Facebook Integration](/en/docs/tracks/facebook-integration) has already been completed because the app integration ensures that previous features as well as others work, such as the Conversions API and Facebook Pixels.
+> ℹ️ There is an integration with the [Meta Business Extension and Conversions API](/en/docs/tracks/integration-with-meta-business-extension) that should be your default selection when integrating with Facebook. This is valid even if the [Facebook Integration](/en/docs/tracks/facebook-integration) has already been completed because the app integration ensures that previous features as well as others work, such as the Conversions API and Facebook Pixels.
 
 [Facebook](https://about.fb.com) is the social network with the largest number of users in the world. Created in 2004, it is the platform where more than three billion people connect and share information every day.
 
@@ -27,6 +27,6 @@ A strategic presence on Facebook ensures greater visibility for your store and i
 
 Before proceeding with the integration setup, you must create a [Facebook account](https://www.facebook.com/) and a [Business Manager account](https://business.facebook.com/business/help/1710077379203657?id=180505742745347).
 
-|**LEARN MORE** |
-| ---------- |
-| For more information about the benefits and terms of use, read Facebook's article about [Business Manager](https://business.facebook.com/business/help/1710077379203657?id=180505742745347). |
+## Learn more
+
+For more information about the benefits and terms of use, read Facebook's article about [Business Manager](https://business.facebook.com/business/help/1710077379203657?id=180505742745347).

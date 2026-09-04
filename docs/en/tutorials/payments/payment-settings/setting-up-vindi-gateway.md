@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the Vindi payment provider. With this provider, your store can make sales through the credit cards, bank slips and Paypal.
+At VTEX, it is possible to integrate with the Vindi payment provider. With this provider, your store can make sales through the credit cards, Boletos and Paypal.
 
 To configure Vindi, follow the steps below:
 

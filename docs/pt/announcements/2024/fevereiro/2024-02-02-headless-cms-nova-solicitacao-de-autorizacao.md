@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Headless CMS (Legacy): nova solicitação de autorização'
 id: 7G056zzZmGFBztkRqhpUgj
 status: PUBLISHED

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Gerenciando Projetos'
 id: 42IpDFqTVTESH8DCypJMPM
 status: PUBLISHED
@@ -39,7 +39,7 @@ Para acessar a página de **Projetos**, entre no VTEX Admin e clique em **Storef
 
 ## Criar novo projeto
 
-Crie um novo projeto para sua loja definindo as configurações gerais, como **ID do projeto** e **URL base de produção**. Para conectar um projeto Headless CMS (Legacy) ao código-fonte do seu projeto, você também precisará definir webhooks e configurações de build, como *URL de build do webhook* e * URL de pré-visualização*.
+Crie um novo projeto para sua loja definindo as configurações gerais, como **ID do projeto** e **URL base de produção**. Para conectar um projeto Headless CMS (Legacy) ao código-fonte do seu projeto, você também precisará definir webhooks e configurações de build, como *URL de build do webhook* e *URL de pré-visualização*.
 
 O webhook é um endpoint HTTP que permite a comunicação automatizada entre o VTEX Headless CMS (Legacy) e o código-fonte do projeto. Ele permite, por exemplo, que o CMS notifique um projeto FastStore sobre alterações de conteúdo ou outros eventos, desencadeando ações como a sincronização de conteúdo em tempo real.
 

@@ -15,7 +15,7 @@ trackSlugEN: integracion-de-facebook
 order: 1
 ---
 
-> ℹ️ Hay una integración con la aplicación [Facebook Business Extension y Conversions API](/es/docs/tracks/facebook-business-extension) que debe ser tu selección predeterminada con Facebook. Esto es válido inclusive para los que ya realizaron la [Integración de Facebook](/es/docs/tracks/facebook), ya que la integración con la aplicación garantiza las funcionalidades anteriores y otras, como la API de conversiones y píxel de Facebook.
+> ℹ️ Hay una integración con la aplicación [Extensión de Meta para empresas y Conversions API](/es/docs/tracks/meta-business-extension) que debe ser tu selección predeterminada con Facebook. Esto es válido inclusive para los que ya realizaron la [Integración de Facebook](/es/docs/tracks/facebook), ya que la integración con la aplicación garantiza las funcionalidades anteriores y otras, como la API de conversiones y píxel de Facebook.
 
 [Facebook](https://about.fb.com/ltam/) es la red social con el mayor número de usuarios en el mundo. Creada en 2004, es la plataforma a través de la cual más de tres mil millones de personas se conectan y comparten información todos los días.
 
@@ -27,6 +27,6 @@ Una presencia estratégica en Facebook garantiza una mayor visibilidad de su tie
 
 Antes de continuar con los pasos de configuración de la integración, debe crear una [cuenta en Facebook](https://www.facebook.com/) y una [cuenta en el Administrador Comercial](https://business.facebook.com/business/help/1710077379203657?id=180505742745347).
 
-|**SEPA MÁS** |
+|SEPA MÁS |
 | ---------- |
 | Si desea más información sobre las ventajas y condiciones de uso, lea el artículo de Facebook acerca del [Administrador Comercial](https://business.facebook.com/business/help/113163272211510?id=180505742745347&recommended_by=1910428752389787). |

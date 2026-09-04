@@ -72,7 +72,7 @@ O segundo passo para o mapeamento é preencher o arquivo baixado. Trata-se de um
 
 Veja um exemplo de planilha preenchida:
 
-| **CategoryId** | **VTEX attribute name** | **Facebook attribute name** | **VTEX attribute value** | **Facebook attribute value** | 
+| CategoryId | VTEX attribute name | Facebook attribute name | VTEX attribute value | Facebook attribute value | 
 | ---------- | ---------- | ---------- | ---------- | ---------- | 
 | 23 | Cor | Color | Amarelo | Yellow |
 | 23 | Tamanho | Size | Pequeno | P |
@@ -108,8 +108,8 @@ Essas *labels* são úteis para:
 
 Ao criar o novo campo de especificação de produto preencha-os com os seguintes valores:
 
-| **Campo** | **Valor** |
-|:---: | :---: |
+| Campo | Valor |
+|--- | --- |
 | Nome do campo da especificação | `facebook-labels`|
 |Tipo de campo | Radio |
 

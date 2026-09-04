@@ -111,8 +111,8 @@ Depois de criada, a promoção será exibida em uma tabela com as seguintes colu
 
 Em **Configurações**, você pode ativar ou desativar as seguintes funcionalidades:
 
-| **Funcionalidade** | **Opção** |
-| :---: | :--- |
+| Funcionalidade | Opção |
+| --- | --- |
 | Chat | <ul><li>**Email obrigatório:** por padrão, para permitir que o público participe do chat ao vivo durante o evento, apenas o nome é obrigatório. Ao ativar este campo, o email também passa a ser obrigatório.</li><li>**Ativar envio de email:** com este campo ativo, se um espectador fizer uma pergunta e o administrador responder através do chat, um email com a resposta será enviado ao espectador. Isso ajuda a manter a interação com o público fora do chat.</li></ul> |
 | Reprodutor de mídia | <ul><li>**Número de espectadores:** exibe o número de espectadores assistindo o evento ao vivo. Este número não é cumulativo.</li><li>**Pop-up de transmissão:** permite exibir todo o componente do Live Shopping (chat, reprodutor de mídia e barra lateral do produto) em formato de pop-up, para destacar o evento enquanto o público assiste. O espectador pode fechar o pop-up a qualquer momento clicando no X no canto superior para retornar ao formato original.</li></ul> |
 | Produtos | <ul><li>**Aplicar impostos:** permite aplicar impostos a produtos exibidos durante o evento ao vivo. Com essa opção ativa, o módulo **Promoções > Taxas** irá exibir o preço do produto junto com o imposto aplicável.</li></ul> |

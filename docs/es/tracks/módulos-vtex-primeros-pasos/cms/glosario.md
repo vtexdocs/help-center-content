@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Glosario'
 id: 78y5kSB5GaS1XHH9qBr6mS
 status: PUBLISHED
@@ -33,7 +33,7 @@ La siguiente tabla de conceptos presenta terminologías del VTEX CMS.
 | Bloques   | Los bloques son componentes para crear el storefront en VTEX IO. Pueden ser: Bloques básicos, como [Rich Text](https://developers.vtex.com/vtex-developer-docs/docs/vtex-rich-text#rich-text) e [Info Card](https://developers.vtex.com/vtex-developer-docs/docs/vtex-store-components-infocard); Bloques layout, como [Slider layout](https://developers.vtex.com/vtex-developer-docs/docs/vtex-slider-layout) y Bloques personalizados que puedes desarrollar para tu tienda, como un bloque de conteo regresivo. |
 | Configuración regional | La configuración regional del *binding* a la que se van a aplicar los cambios de contenido. Por ejemplo: Inglés (en-GB), Portugués (pt-BR) y Español (es-AR). Artículos relacionados: [Gestionar el contenido según el binding](/es/docs/tutorials/gestionar-el-contenido-segun-el-binding) |
 | *Preview*    | El modo *preview* te permite visualizar al instante una versión del contenido de tu tienda en el [Site Editor](/es/docs/tutorials/site-editor-vision-general).|
-| *Workspace *  | Los *Workspaces* pueden entenderse como diferentes versiones de la misma cuenta VTEX. Esto significa que los cambios realizados en tu propio *workspace* no afectan a la versión activa (workspace de producción) de tu tienda ni al trabajo de otros desarrolladores. Hay dos tipos principales de workspaces en VTEX: **Workspace de desarrollo** - proporciona más libertad de desarrollo. **Workspace de producción** - soporta el tráfico de producción. Artículos relacionados: [Workspace](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-workspace).|
+| *Workspace*  | Los *Workspaces* pueden entenderse como diferentes versiones de la misma cuenta VTEX. Esto significa que los cambios realizados en tu propio *workspace* no afectan a la versión activa (workspace de producción) de tu tienda ni al trabajo de otros desarrolladores. Hay dos tipos principales de workspaces en VTEX: **Workspace de desarrollo** - proporciona más libertad de desarrollo. **Workspace de producción** - soporta el tráfico de producción. Artículos relacionados: [Workspace](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-workspace).|
 | Versión del contenido  | La versión de un bloque es una copia de su contenido en un momento determinado. Por ejemplo, un carrusel puede tener versiones predefinidas para futuras campañas de marketing, como el Black Friday y el Día de San Valentín, con banners de contenido específico.</br></br> Artículo relacionado: [Managing content versions](/es/docs/tutorials/gestion-de-versiones-de-contenido).|
 
 ## Legado

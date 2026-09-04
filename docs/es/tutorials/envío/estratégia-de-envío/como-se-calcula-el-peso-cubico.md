@@ -38,7 +38,7 @@ El cálculo del peso volumétrico se realiza efectuando la multiplicación de la
 
 Vea el ejemplo siguiente:
 
-![example_cubic_weight_es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/estratégia-de-envío/como-se-calcula-el-peso-cubico_1.jpg)
+![example_cubic_weight_es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/estratégia-de-envío/como-se-calcula-el-peso-cubico_1.png)
 
 - __Dimensiones del paquete:__ `50cm x 60cm x 15cm`
 - __Peso mínimo del paquete:__ `9kg`
