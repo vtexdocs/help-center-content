@@ -20341,28 +20341,13 @@
                 {
                   "name": {
                     "en": "CMS roles and permissions",
-                    "es": "CMS roles and permissions",
-                    "pt": "CMS roles and permissions"
+                    "es": "CMS roles y permisos",
+                    "pt": "CMS perfis de acesso e permissões"
                   },
                   "slug": {
                     "en": "cms-roles-and-permissions",
-                    "es": "",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "es": "CMS roles y permisos",
-                    "pt": "CMS perfis de acesso e permissões",
-                    "en": "CMS roles y permisos"
-                  },
-                  "slug": {
                     "es": "cms-roles-y-permisos",
-                    "pt": "cms-perfis-de-acesso-e-permissoes",
-                    "en": ""
+                    "pt": "cms-perfis-de-acesso-e-permissoes"
                   },
                   "origin": "",
                   "type": "markdown",
