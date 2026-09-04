@@ -16,7 +16,7 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 categoryCover: true
 ---
 
-Estratégia de envio é a relação entre estoque, doca e política de envio. A forma que   estoque, doca e política de envio se comunicam definirá a combinação de estrutura para entrega dos pedidos da loja.
+Estratégia de envio é a relação entre estoque, doca e política de envio. A forma como estoque, doca e política de envio se comunicam definirá a combinação de estrutura para entrega dos pedidos da loja.
 
 ![shipping_strategy_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estratégia-de-envio/estrategia-de-envio_1.png)
 
@@ -54,3 +54,4 @@ As configurações podem ser realizadas pelo Admin VTEX ou por API. Se você est
 | 2. [Doca](/pt/docs/tutorials/doca) | [Gerenciar doca](/pt/docs/tutorials/gerenciar-doca) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
 | 3. [Estoque](/pt/docs/tutorials/estoque) | [Gerenciar estoque](/pt/docs/tutorials/gerenciar-estoque) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |
 
+> ⚠️ Alterações nas configurações logísticas (estoque, doca e política de envio) não acionam automaticamente uma nova indexação do catálogo. Por isso, mesmo depois de corrigir a estratégia de envio, os produtos podem continuar indisponíveis no site até que o catálogo seja indexado novamente. Você pode acompanhar o processo na página [Histórico da indexação](/pt/docs/tutorials/historico-da-indexacao) e, caso os produtos permaneçam indisponíveis, [abrir um chamado para o Suporte VTEX](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex).
