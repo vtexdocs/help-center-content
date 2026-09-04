@@ -42,17 +42,37 @@ Before implementing the frontend, you should configure the following steps in yo
 
 ## Frontend development technologies on VTEX
 
-VTEX has three different technologies for storefront development: [FastStore](#faststore), [Store Framework](#store-framework) and [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal). CMS Portal (Legacy) was VTEX's first technology for building storefronts, based on HTML, CSS, and JavaScript, and all development and code editing for this technology is done via the VTEX Admin.
+VTEX has three different technologies for storefront development: [FastStore](#faststore), [Store Framework](#store-framework), and [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal). CMS Portal (Legacy) was VTEX's first technology for building storefronts, based on HTML, CSS, and JavaScript, and all development and code editing for this technology is done via the VTEX Admin.
 
 > ⚠️ Although some stores still use it, the [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal) is a legacy technology and is no longer available to new stores starting with VTEX.
 
 The following sections are about the main characteristics and features of FastStore and Store Framework.
 
+## Implementation workflow
+
+Although the tools vary by technology, storefront implementations generally follow this workflow:
+
+```mermaid
+flowchart LR
+    A["Plan"] --> B["Prepare"]
+    B --> C["Develop"]
+    C --> D["Integrate"]
+    D --> E["Test"]
+    E --> F["Go live"]
+```
+
+1. **Plan:** Define the storefront scope, information architecture, design, integrations, and acceptance criteria.
+2. **Prepare:** Configure access, development environments, commerce data, and required apps or services.
+3. **Develop:** Implement pages, components, styling, and storefront behavior using the selected technology.
+4. **Integrate:** Connect content management, search, checkout, login, My Account, analytics, and any required external services.
+5. **Test:** Validate functionality, content, responsive behavior, accessibility, SEO, analytics, and performance.
+6. **Go live:** Complete production checks, deploy the storefront, point the store domain to it, and monitor the launch.
+
 ## FastStore
 
-FastStore is a fresh innovative storefront technology for development teams to create stores focused on performance and stability. It's also an easy-to-maintain technology when editing your store's pages.
+FastStore is a fresh, innovative storefront technology for development teams to create stores focused on performance and stability. It's also an easy-to-maintain technology when editing your store's pages.
 
-This technology is an open-source toolkit based on [React](https://react.dev/) and the [Jamstack](https://jamstack.org/) architecture. For more information, see the [FastStore](https://www.faststore.dev/docs) documentation portal.
+This technology is an open-source toolkit based on [React](https://react.dev/) and the [Jamstack](https://jamstack.org/) architecture. For more information, see the [FastStore](https://developers.vtex.com/docs/guides/faststore) documentation portal.
 
 ### FastStore main features
 
@@ -60,12 +80,12 @@ The following table lists some of FastStore's main features:
 
 | Feature | Description |
 |---|---|
-| [Starter](https://starter.vtex.app/) | Functional template designed for fast store development, which seamlessly integrates the [FastStore UI](https://www.faststore.dev/components) components. It includes pages such as Home, product list pages (PLPs), product detail pages (PDPs), and minicart features. |
+| [Starter](https://starter.vtex.app/) | Functional template designed for fast store development, which seamlessly integrates the [FastStore UI](https://developers.vtex.com/docs/guides/faststore/components-index) components. It includes pages such as Home, product list pages (PLPs), product detail pages (PDPs), and minicart features. |
 | [FastStore UI](https://developers.vtex.com/docs/guides/faststore/components-index) | Component library for ecommerce that provides basic features and design, enabling faster implementation and storefront customization. |
 | Headless technology | Customization process that separates the store code developed by the development team from the base code provided by VTEX. This simplifies updates to the store's frontend, allowing updates without impacting the customized code. |
 | [GitHub](https://github.com/) integration | Development teams can manage all storefront code using [GitHub](https://github.com/). |
-| [Headless CMS (Legacy)](https://developers.vtex.com/docs/guides/faststore/headless-cms-overview) | Content management system (CMS) that allows editing and creating new pages and previewing content changes. |
-| Automated checks | Functional tests and the store's performance and code quality assessment run continuously and automatically to identify slowdowns and bugs throughout the storefront development stage. |
+| [CMS](https://help.vtex.com/docs/tutorials/cms-overview) | Content management system (CMS) that allows editing and creating new pages and previewing content changes. |
+| Automated checks | Functional tests, store performance, and code quality assessments run continuously and automatically to identify slowdowns and bugs throughout the storefront development stage. |
 | [Intelligent Search](https://developers.vtex.com/docs/guides/faststore/getting-started-1-setting-up-your-environment#step-4-enabling-the-vtex-intelligent-search-app) integration | Autocomplete feature in the search bar, which also offers search suggestions and products based on configurable preferences. |
 | [Checkout](https://developers.vtex.com/docs/guides/faststore/go-live-3-integrating-the-vtex-checkout), [My Account and Login](https://developers.vtex.com/docs/guides/faststore/go-live-4-integrating-the-vtex-order-placed-and-my-account) integrations | Integration with other stages of the customer buying journey. VTEX stores previously developed using Store Framework can keep settings related to Checkout, My Account, and Login when migrated to FastStore, as they benefit from the same infrastructure. |
 
@@ -84,7 +104,7 @@ For more information, read the [What is VTEX Store Framework](https://developers
 
 ### Development environment
 
-When talking about frontend implementation, remember that [VTEX IO](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-io) is not a storefront building technology, but rather a development platform. The Store Framework is a technology for building storefronts that runs on VTEX IO, a cloud-based environment and development solution for customized apps and storefronts.
+When discussing frontend implementation, remember that [VTEX IO](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-io) is not a storefront-building technology but rather a development platform. The Store Framework is a technology for building storefronts that runs on VTEX IO, a cloud-based environment and development solution for customized apps and storefronts.
 
 This means that with VTEX IO, you develop your code locally. However, when it comes to deploying and running the store, VTEX IO manages the infrastructure, CI/CD, and security and takes care of the deployment process. The image below shows how these concepts relate to each other:
 
@@ -130,7 +150,7 @@ The table below compares the two technologies based on their main features:
     <tr>
         <td>Starter (initial template)</td>
         <td>The [Store Theme](https://github.com/vtex-apps/store-theme) is the initial template the team can use as a basis to launch the store project or start from scratch.</td>
-        <td>The [FastStore Starter](https://starter.vtex.app/) is already available after completing the [FastStore Onboarding](https://www.faststore.dev/docs/getting-started/1-faststore-onboarding/overview). This allows the team to kick off the project with a base template focused on performance.</td>
+        <td>The [FastStore Starter](https://starter.vtex.app/) is already available after completing the [FastStore Onboarding](https://developers.vtex.com/docs/guides/faststore/getting-started-2-starting-the-project). This allows the team to kick off the project with a base template focused on performance.</td>
     </tr>
     <tr>
         <td>Performance</td>
@@ -177,7 +197,7 @@ The table below compares the two technologies based on their main features:
         </td>
         <td>
             <ul>
-                <li>[Official documentation](https://www.faststore.dev/docs)</li>
+                <li>[Official documentation](https://developers.vtex.com/docs/guides/faststore)</li>
             </ul>
         </td>
     </tr>
@@ -199,7 +219,7 @@ The table below compares the two technologies based on their main features:
     <tr>
         <td>Content Management Systems (CMS)</td>
         <td>Compatible with [Site Editor](/en/docs/tutorials/site-editor-overview).</td>
-        <td>Compatible with [Headless CMS (Legacy)](https://developers.vtex.com/docs/guides/faststore/headless-cms-overview).</td>
+        <td>Compatible with [CMS](https://help.vtex.com/docs/tutorials/cms-overview).</td>
     </tr>
 </table>
 
@@ -214,7 +234,7 @@ Before launching the store into production and [going live](/en/docs/tracks/plan
 
 ### Developing using FastStore
 
-The development team must start a new project with FastStore through the [Onboarding](https://www.faststore.dev/docs/getting-started/1-faststore-onboarding/overview) process. The team will have a basic, functional store based on [FastStore Starter](https://starter.vtex.app/) at the end of this process. After this, the following basic requirements for the page will have been implemented:
+The development team must start a new project with FastStore through the [Onboarding](https://developers.vtex.com/docs/guides/faststore/getting-started-2-starting-the-project) process. The team will have a basic, functional store based on [FastStore Starter](https://starter.vtex.app/) at the end of this process. After this, the following basic requirements for the page will have been implemented:
 
 - Home
 - *Product Listing Page* (PLP)
@@ -236,14 +256,12 @@ Below are the requirements for each topic:
   - [Inventory management](/en/docs/tutorials/managing-stock-items)
 - VTEX Intelligent Search
   - [Integrating the Intelligent Search app with the account](https://developers.vtex.com/docs/guides/faststore/getting-started-1-setting-up-your-environment#step-4-enabling-the-vtex-intelligent-search-app)
-- Headless CMS (Legacy) integration
-  - [Configuring Headless CMS (Legacy) in the account](https://developers.vtex.com/docs/guides/faststore/getting-started-5-integrating-your-project-with-the-headless-cms)
-  - [Defining content types and sections that will be available](https://www.faststore.dev/docs/headless-cms-integration/2-setting-up-the-headless-cms)
-  - Creating and editing pages using Headless CMS (Legacy) in the VTEX Admin
+- CMS integration
+  - [Getting started with CMS](https://developers.vtex.com/docs/guides/getting-started-with-cms)
 - Homepage
   - Editing the components and layouts already listed in [Starter](https://starter.vtex.app/)
 - Login page
-  - [VTEX Login integration](https://www.faststore.dev/docs/go-live/3-integrating-the-the-vtex-login)
+  - [VTEX Login integration](https://developers.vtex.com/docs/guides/faststore/go-live-2-integrating-the-vtex-login)
   - Editing the components and layouts already listed in [Starter](https://starter.vtex.app/)
 - Product Listing Page (PLP)
   - Editing the components and layouts already listed in [Starter](https://starter.vtex.app/office)
@@ -252,8 +270,8 @@ Below are the requirements for each topic:
 - Minicart configuration
   - Editing the components and layouts already listed in [Starter](https://starter.vtex.app/)
 - Checkout
-  - [VTEX Checkout](https://www.faststore.dev/docs/go-live/4-integrating-the-vtex-checkout) integration
-  - [VTEX Order Placed e My Account](https://www.faststore.dev/docs/go-live/5-integrating-the-vtex-order-placed-and-my-account) integration
+  - [VTEX Checkout](https://developers.vtex.com/docs/guides/faststore/go-live-3-integrating-the-vtex-checkout) integration
+  - [VTEX Order Placed e My Account](https://developers.vtex.com/docs/guides/faststore/go-live-4-integrating-the-vtex-order-placed-and-my-account) integration
 - Logistics
   - [Adding loading docks](/en/docs/tutorials/managing-loading-docks)
   - [Adding shipping strategies](/en/docs/tutorials/shipping-strategy)
@@ -261,10 +279,8 @@ Below are the requirements for each topic:
 - Payments
   - [Configuring the Notes Payable provider](/en/docs/tutorials/setting-up-the-notes-payable-conector)
   - [Adding gateway providers](/en/docs/tutorials/registering-gateway-affiliations/)
-- Performance and SEO
-  - Improving the store performance using the right[ technology](https://v1.faststore.dev/how-to-guides/performance) tools
-- Metrics
-  - Configuring the [Analytics](https://v1.faststore.dev/reference/sdk/analytics) module
+- Improving the store performance using the right[technology](https://developers.vtex.com/docs/guides/faststore/managing-performance-overview) tools.
+- [SEO](https://developers.vtex.com/docs/guides/faststore/seo-overview)
 
 ### Developing using Store Framework
 
@@ -288,7 +304,7 @@ Below are the requirements for each topic:
   - [Adding SKU prices](/en/docs/tracks/cadastrar-preco-base)
   - [Inventory management](/en/docs/tutorials/managing-stock-items)
 - VTEX Intelligent Search
-  - [Integrating the Intelligent Search app with the account](https://www.faststore.dev/docs/getting-started-requirements#enable-the-vtex-intelligent-search-app-in-your-account)
+  - [Integrating the Intelligent Search app with the account](https://developers.vtex.com/docs/guides/faststore/getting-started-1-setting-up-your-environment#step-4-enabling-the-vtex-intelligent-search-app)
 - Homepage
   - Editing the components and layouts already listed in [Starter](https://storetheme.vtex.com/)
 - Login page
