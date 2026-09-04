@@ -80,7 +80,7 @@ Nenhuma dessas opções é um espelho permanente do catálogo: o que compõe "to
 
 ## Realizar ações em coleções
 
-> ⚠️ Os exemplos de instruções apresentados a seguir são apenas para fins ilustrativos e não a única forma do agente executar uma ação.
+> ⚠️ Os exemplos de instruções apresentados a seguir são apenas para fins ilustrativos e não são a única forma do agente executar uma ação.
 
 Você pode realizar as seguintes ações:
 
