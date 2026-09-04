@@ -1,18 +1,11 @@
 ---
-title: 'Canal de Web Chat'
-id: 3Y0MyNe0kPEngpYOJG1qpo
-status: PUBLISHED
+title: 'Configurar o Shopping Assistant'
 createdAt: 2025-09-15T14:12:38.155Z
 updatedAt: 2026-09-04T20:05:00.000Z
-publishedAt: 2025-10-03T14:20:33.705Z
-firstPublishedAt: 2025-10-03T14:20:33.705Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: web-chat-channel
-legacySlug: canal-de-web-chat
+slugEN: configure-shopping-assistant
 locale: pt
-subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
 O canal de Web Chat da VTEX CX Platform, identificado na plataforma como **Shopping Assistant**, permite atender os visitantes do seu site com um agente de IA. Você personaliza o visual e o comportamento do widget e, em seguida, instala o chat no site com um script gerado pela plataforma.
@@ -26,8 +19,6 @@ Para abrir as configurações do Shopping Assistant, siga os passos a seguir:
 1. No projeto, acesse **Configurações > Canais**.
 2. Clique na aba **Meus aplicativos**.
 3. Na seção **Aplicativos configurados**, clique no card **Shopping Assistant** que deseja configurar.
-
-![Página Canais com a aba Meus aplicativos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/canal-de-web-chat_1.png)
 
 > ℹ️ Se o Shopping Assistant ainda não estiver em **Aplicativos configurados**, use a aba **Descoberta** para adicioná-lo ao projeto.
 
@@ -47,8 +38,6 @@ A aba **Aparência** define o visual do widget de chat. Para personalizar a apar
    - **CSS customizado:** envie um arquivo CSS para aplicar estilos próprios ao widget.
 6. Clique em `Salvar alterações`.
 
-![Aba Aparência do Shopping Assistant](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/canal-de-web-chat_2.png)
-
 ## Configurar as preferências
 
 A aba **Preferências** define o comportamento do chat. Para configurar as preferências, siga os passos a seguir:
@@ -56,8 +45,6 @@ A aba **Preferências** define o comportamento do chat. Para configurar as prefe
 1. Clique na aba **Preferências**.
 2. Ative ou desative as opções de cada seção, conforme a necessidade da loja.
 3. Clique em `Salvar alterações`.
-
-![Aba Preferências do Shopping Assistant](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/canal-de-web-chat_3.png)
 
 As opções estão agrupadas nas seções a seguir.
 
@@ -106,8 +93,6 @@ A aba **Código Script** gera o código para instalar o Shopping Assistant no si
 1. Clique na aba **Código Script**.
 2. Copie o código exibido.
 3. Cole o código acima da última tag `</body>` do seu site.
-
-![Aba Código Script do Shopping Assistant](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/canal-de-web-chat_4.png)
 
 (Opcional) Clique em `Baixar script` para baixar o arquivo do script.
 
