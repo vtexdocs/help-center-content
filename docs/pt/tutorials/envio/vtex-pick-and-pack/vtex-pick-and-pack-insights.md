@@ -37,7 +37,7 @@ Os tempos de processamento indicam a duração de cada etapa do fulfillment, med
 | **Tempo médio de processamento** | Intervalo entre o início da separação e a conclusão do empacotamento. | Σ (data em `Preparando envio` − data em `Pronto para separação`) / total de pedidos considerados |
 
 > ⚠️ Os indicadores **Tempo do ciclo do pedido** e **Tempo de envio** somente são calculados se a sua operação utiliza o [VTEX Pick and Pack Last Mile](https://help.vtex.com/pt/docs/tutorials/vtex-pick-and-pack-last-mile). Sem este módulo habilitado em sua loja, a VTEX não recebe a confirmação de entrega do pedido, e esses indicadores são exibidos com erro.
->
+
 > ℹ️ Nos indicadores de tempo, entram no cálculo apenas os pedidos que passaram por ambos os status considerados. Consulte a descrição de cada status em [Fluxo e status de pedidos](https://help.vtex.com/pt/docs/tutorials/fluxo-e-status-de-pedidos).
 
 ### Indicadores de desempenho
@@ -57,9 +57,9 @@ Os indicadores de desempenho avaliam o resultado dos pedidos processados na oper
 | **Taxa de empacotamento** | Volume de itens empacotados por hora na operação. | total de itens empacotados / horas decorridas | - |
 
 > ⚠️ Os indicadores **Precisão do prazo**, **Entrega no prazo** e **OTIF** somente são calculados se a sua operação utiliza o [VTEX Pick and Pack Last Mile](https://help.vtex.com/pt/docs/tutorials/vtex-pick-and-pack-last-mile). Sem este módulo habilitado em sua loja, a VTEX não recebe a confirmação de entrega do pedido, e esses indicadores são exibidos com erro.
->
+
 > ℹ️ O denominador do OTIF considera todos os pedidos do período, inclusive os que ainda estão em processamento, cancelados ou rejeitados. Por isso, pedidos que ainda não atingiram o status Entregue reduzem o indicador. O Insights usa o status do pedido na VTEX, que pode ser atualizado para Entregue por diferentes sistemas e fluxos, como o módulo [Last Mile](https://help.vtex.com/pt/docs/tutorials/vtex-pick-and-pack-last-mile).
->
+
 > ℹ️ A **Taxa de backorder** considera apenas rejeições cujo motivo contém a palavra "faltante". Para que o indicador reflita a sua operação, configure o motivo de rejeição por falta de estoque utilizando esse termo.
 
 ## Itens
