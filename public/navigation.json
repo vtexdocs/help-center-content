@@ -22713,12 +22713,12 @@
                 {
                   "name": {
                     "en": "VTEX Pick and Pack: Insights",
-                    "es": "VTEX Pick and Pack: Análisis",
+                    "es": "VTEX Pick and Pack: Insights",
                     "pt": "VTEX Pick and Pack: Insights"
                   },
                   "slug": {
                     "en": "vtex-pick-and-pack-insights",
-                    "es": "vtex-pick-and-pack-analisis",
+                    "es": "vtex-pick-and-pack-insights",
                     "pt": "vtex-pick-and-pack-insights"
                   },
                   "origin": "",
