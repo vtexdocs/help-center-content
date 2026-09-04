@@ -51,7 +51,7 @@ You can also add a **list price** that is linked to the SKU base price. However,
 
 - The request object has the following properties:
 
-| __Properties__ | __Types__ | __Description__ |
+| Properties | Types | Description |
 |------------------|-----------|-------------|
 | costPrice | integer | SKU Cost Price |
 | markup| integer | SKU Markup |
@@ -60,7 +60,7 @@ You can also add a **list price** that is linked to the SKU base price. However,
 
 - The response object has the following properties:
 
-| __Properties__ | __Types__ | __Description__ |
+| Properties | Types | Description |
 |------------------|-----------|-------------|
 | itemId| string| SKU ID |
 | costPrice | integer | SKU Cost Price |

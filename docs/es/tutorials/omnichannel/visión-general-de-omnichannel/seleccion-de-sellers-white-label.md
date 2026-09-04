@@ -83,7 +83,7 @@ La selección de hasta seis _sellers white label_ para el envío en la modalidad
 
 1. La plataforma VTEX considera la lista de todos los SKU que el cliente agregó al carrito.
 2. Se realiza una selección de los _sellers_ que entregan al menos un SKU de la lista en la región del cliente. No se tienen en cuenta los _sellers_ que, en su [inventario](/es/docs/tutorials/gestionar-items-en-inventario), no tienen todas las unidades de, por lo menos, uno de los SKU pedidos.
-  > Ejemplo: en un pedido de cinco camisas rojas y tres camisas blancas, el _seller _debe poder entregar, como mínimo, las cinco camisas rojas o las tres camisas blancas.
+  > Ejemplo: en un pedido de cinco camisas rojas y tres camisas blancas, el _seller_ debe poder entregar, como mínimo, las cinco camisas rojas o las tres camisas blancas.
 3. La plataforma VTEX selecciona al _seller_ que cubre más SKU de la lista. 
 4. Se realiza una nueva etapa de selección en la que no se tienen en cuenta los SKU que entrega el _seller_ ya elegido.
 5. Se selecciona el siguiente _seller_ que cubre más SKU, y así sucesivamente hasta cubrir todos los SKU del carrito.
@@ -145,7 +145,7 @@ La selección de un máximo de seis _sellers_ para la modalidad de envío en un 
 
 1. La plataforma VTEX considera la lista de todos los SKU que el cliente agregó al carrito.
 2. Se realiza una selección de los _sellers_ que entregan al menos un SKU de la lista en la región del cliente. Se desestiman los _sellers_ que, en su inventario, no tienen todas las unidades de, por lo menos, un SKU.
-  > Ejemplo: en un pedido de cinco camisas rojas y tres camisas blancas, el _seller _debe poder enviar, como mínimo, las cinco camisas rojas o las tres camisas blancas.
+  > Ejemplo: en un pedido de cinco camisas rojas y tres camisas blancas, el _seller_ debe poder enviar, como mínimo, las cinco camisas rojas o las tres camisas blancas.
 3. La plataforma VTEX selecciona a los _sellers_ que cubren la mayoría de los _ítems_ de la lista, garantizando así la mayor cobertura del carrito.
 4. De ese total, se selecciona a los _sellers_ con los puntos de recogida más cercanos a la dirección del cliente.
 5. Por ende, la selección se divide en dos frentes paralelos:
@@ -169,7 +169,7 @@ Un cliente agrega seis SKU al carrito y hay ocho _sellers_ que pueden entregar a
 
 Los valores de cada _seller_ se compararon en esta tabla:
 
-| **Sellers** | **Disponibilidad de SKU del total de 6 ítems**  | **Distancia entre la dirección del cliente y el punto de recogida** | **Costo para el envío en la modalidad de retiro en el punto de recogida** | **Tiempo de preparación del pedido para su retiro en el punto de recogida** |
+| Sellers | Disponibilidad de SKU del total de 6 ítems  | Distancia entre la dirección del cliente y el punto de recogida | Costo para el envío en la modalidad de retiro en el punto de recogida | Tiempo de preparación del pedido para su retiro en el punto de recogida |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
 |  Seller 1 | 5 | 1 km | 10 dólares | 1 día |
 |  Seller 2 | 4 | 1 km | 0 | 1 día |
@@ -191,7 +191,7 @@ Para definir los _sellers_ con la opción más económica para el envío en la m
 
 En la siguiente tabla se muestra el resultado de la selección de hasta tres _sellers_ para la opción más económica de envío en la modalidad de retiro en el punto de recogida:
 
-|**Posición en la selección** | **Sellers** | **Disponibilidad de SKU del total de 6 ítems** | **Distancia entre la dirección del cliente y el punto de recogida** | **Costo para el envío en la modalidad de retiro en el punto de recogida** | **Tiempo de preparación del pedido para su retiro en el punto de recogida** |
+|Posición en la selección | Sellers | Disponibilidad de SKU del total de 6 ítems | Distancia entre la dirección del cliente y el punto de recogida | Costo para el envío en la modalidad de retiro en el punto de recogida | Tiempo de preparación del pedido para su retiro en el punto de recogida |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | 1º |  Seller 1 | 5 | 1 km | 10 dólares | 1 día |
 | 2º |  Seller 4 | 5 | 5 km | 0 | 0 |
@@ -202,7 +202,7 @@ En la siguiente tabla se muestra el resultado de la selección de hasta tres _se
 | 7º |  Seller 8 | 2 | 5 km | 0 | 0 |
 | 8º |  Seller 7 | 1 | 10 km | 0 | 0 |
 
-- **_Seller_ 1 en primer lugar:** tiene cinco de los seis SKU en su _stock _y la menor distancia entre el punto de recogida y la dirección del cliente.
+- **_Seller_ 1 en primer lugar:** tiene cinco de los seis SKU en su _stock_  y la menor distancia entre el punto de recogida y la dirección del cliente.
 - **_Seller_ 4 en segundo lugar:** al igual que el _seller_ 1, tiene cinco SKU en su _stock_, pero la distancia es mayor.
 - **_Seller_ 2 en tercer lugar:** a pesar de empatar con el _seller_ 6 en los dos criterios principales, su costo es menor.
 
@@ -215,7 +215,7 @@ En paralelo, la plataforma VTEX selecciona a los _sellers_ con la opción más r
 
 En la tabla a continuación, se muestra el resultado de la selección de hasta tres _sellers_ para la opción más rápida de envío en la modalidad de retiro en el punto de recogida:
 
-| **Posición en la selección** | **Sellers** | **Disponibilidad de SKU del total de 6 ítems** | **Distancia entre la dirección del cliente y el punto de recogida** | **Tiempo de preparación del pedido para su retiro en el punto de recogida** | **Costo para el envío en la modalidad de retiro en el punto de recogida** |
+| Posición en la selección | Sellers | Disponibilidad de SKU del total de 6 ítems | Distancia entre la dirección del cliente y el punto de recogida | Tiempo de preparación del pedido para su retiro en el punto de recogida | Costo para el envío en la modalidad de retiro en el punto de recogida |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | 1º |  Seller 1 | 5 | 1 km | 1 día | 10 dólares |
 | 2º |  Seller 4 | 5 | 5 km | 0 | 0 |

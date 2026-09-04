@@ -23,7 +23,7 @@ Everything is correct and the zoom is still not displaying? Or it only appears f
 This image size can be set up through the following steps:
 1. Click __CMS__ in the Admin menu.
 2. Enter Settings.
-3. Click __File Types__ tab.
+3. Click the __File Types__ tab.
 
 ![Tipos de Arquivo EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-my-stores-zoom-not-working_1.png)
 
@@ -33,4 +33,4 @@ The 1000x1000 size means that the resulting zoom will display the image in that 
 
 I uploaded a 1200×1200 image. On my product page, it appears as 600×600 and, when I move the mouse over it, the zoom amplifies it to 1000×1000.
 
-Now, let’s say I have no image 1000x1000 in size, rather only 800×800. I can set up the “Produto – Zoom” in “Tipos de arquivos” to 800×800. On my product page, my image appears as 600×600, and when I move the mouse over it, the zoom amplifies it to 800×800. In this case, the amplification will be smaller because of the settings of the “Produto– Zoom” size.
+Now, let’s say I have no 1000×1000 image, only 800×800 images. I can set up the “Product – Zoom” in “File Types” to 800×800. On my product page, my image appears as 600×600, and when I move the mouse over it, the zoom amplifies it to 800×800. In this case, the amplification will be smaller because of the settings of the “Product – Zoom” size.

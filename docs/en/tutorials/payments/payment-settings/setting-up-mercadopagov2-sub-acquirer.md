@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the payment provider MercadoPagoV2. Through it, your store can receive payments using traditional methods, such as: bank slip, PIX, debit and credit cards, as well as through exclusive Mercado Pago methods, such as: MercadoPagoOff, MercadoPagoPro and MercadoPagoWallet.
+At VTEX, it is possible to integrate with the payment provider MercadoPagoV2. Through it, your store can receive payments using traditional methods, such as: Boleto, PIX, debit and credit cards, as well as through exclusive Mercado Pago methods, such as: MercadoPagoOff, MercadoPagoPro and MercadoPagoWallet.
 
 To configure MercadoPagoV2, follow the steps below:
 
@@ -35,7 +35,7 @@ To configure MercadoPagoV2, follow the steps below:
 14. In __Modo binário__ ("Binary Mode"), indicate whether the store should accept pending payments. Selecting "Yes" indicates that the payment approval process occurs instantly, and can be approved or rejected. Selecting "No" defines that the payment can remain in "pending" status (if it requires any action from the buyer) or "in process" (if manual review is required).
 15. In __Métodos de pagamento excluídos__ ("Excluded payment methods"), describe the payment methods you do not want to use through MercadoPagoV2 (optional). If you choose to leave this field blank, all available payment methods from MercadoPagoV2 will be available in your store.
 16. In __Tipos de pagamento excluídos__ ("Excluded payment types"), describe the specific credit and debit brands (Visa, Mastercard, among others) that you do not want to use through MercadoPagoV2 (optional). If you choose to leave this field blank, all available payment types from MercadoPagoV2 will be available in your store.
-17. In __Modo de processamento__ ("Processing Mode"), choose how you want to use MercadoPagoV2: as a subacquirer (aggregator) or gateway. For more information, access [What is a sub-acquirer?](/en/docs/tutorials/what-is-a-sub-acquirer) and [What is a payment gateway?](/en/docs/tutorials/what-is-a-payment-gateway).
+17. In __Modo de processamento__ ("Processing Mode"), choose how you want to use MercadoPagoV2: as a subacquirer (aggregator) or gateway. For more information, see [What is a sub-acquirer?](/en/docs/tutorials/what-is-a-sub-acquirer) and [What is a payment gateway?](/en/docs/tutorials/what-is-a-payment-gateway).
 18. In the __Integrator ID__ option, indicate the identifier code of the developer or agency that performs the Mercado Pago configuration.
 19. In the __Moeda__ ("Currency") option, choose whether the currency used for payment will be "Local" (each country) or "US Dollar" (USD).
 20. The __Merchant Account ID__ field identifies the merchant account. It is not necessary to fill it out.
@@ -51,6 +51,6 @@ To set special conditions on payment methods, go to [Configuring payment special
 
 ## Setting up exclusive payment methods
 
-To configure exclusive Mercado Pago payment methods, go to [setting up Mercado Pago Offline and Wallet as payment methods](/en/tutorial/configurar-mercado-pago-offline-e-wallet-como-metodos-de-pagamentos).
+To configure exclusive Mercado Pago payment methods, go to [setting up Mercado Pago Offline and Wallet as payment methods](/en/docs/tutorials/setting-up-offline-payment-conditions-using-mercadopago).
 
 For more information about integration with Mercado Pago, access the [DevSite Mercado Pago](https://www.mercadopago.com.br/developers/en/guides/plugins/unofficial/vtex/gateway-affiliations).

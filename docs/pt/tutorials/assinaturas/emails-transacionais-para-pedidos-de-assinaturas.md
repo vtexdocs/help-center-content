@@ -45,7 +45,7 @@ Não é preciso ativar o envio de emails manualmente, pois são enviados de form
 
 A tabela a seguir apresenta os templates de email padrão para **Assinaturas**:
 
-| **Nome do template** | **ID** | **Descrição** |
+| Nome do template | ID | Descrição |
 | --- | --- | --- |
 | Subscriptions - New | `vtexcommerce-subscriptions-create` | Nova assinatura criada com sucesso.<br><br>Existe um período de 30 minutos entre a criação da assinatura e o disparo da notificação do template `vtexcommerce-subscriptions-create`. |
 | Subscriptions - Edited | `vtexcommerce-subscriptions-update` | Assinatura atualizada com sucesso. |

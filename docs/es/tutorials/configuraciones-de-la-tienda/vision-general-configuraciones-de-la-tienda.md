@@ -1,5 +1,5 @@
 ---
-title: 'Configuraciones de la Tienda - Información general'
+title: 'Configuraciones de la Tienda'
 id: 6VtlMoid6iM9dP14X1CopT
 status: PUBLISHED
 createdAt: 2023-03-29T23:00:51.439Z
@@ -13,7 +13,6 @@ slugEN: store-settings-overview
 legacySlug: vision-general-configuraciones-de-la-tienda
 locale: es
 subcategoryId: 5RAUzLD6X9Wa1maenj1eGA
-order: 1
 ---
 
 La configuración de la tienda se aplica a tu tienda y a tu *storefront*, y está relacionada con la forma en que tus clientes interactúan con tu ecommerce. Hemos agrupado todas estas configuraciones en la sección **Configuración de la tienda** en el menú de navegación a la izquierda del Admin v4. Allí puedes acceder a las configuraciones de Pagos, Pedidos, Plantillas de email, Envío, Productos, Storefront, Canales e Intelligent Search. 

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2tEO9ytK1aMO0i2oMayoQq
 ---
 
-It is through the bank reconciliation that batch payments of orders closed with the bank slip option are approved. It is performed through the upload of a _.RET_ file, in CNAB 240 and CNAB 400 formats, which is provided daily by the bank, and contains information related to the identification of the slip, our number, date and payment value.
+It is through the bank reconciliation that batch payments of orders closed with the Boleto option are approved. It is performed through the upload of a _.RET_ file, in CNAB 240 and CNAB 400 formats, which is provided daily by the bank, and contains information related to the identification of the slip, our number, date and payment value.
 
 The complete flow is: purchase closed with slip option on the website&gt; order enters as Pending Payment&gt; slip is paid&gt; bank sends the file to the shop&gt; seller performs the reconciliation&gt; order follows flow to delivery.
 

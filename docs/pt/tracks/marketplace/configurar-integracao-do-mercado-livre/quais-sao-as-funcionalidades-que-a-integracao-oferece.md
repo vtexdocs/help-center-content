@@ -20,8 +20,8 @@ Ao finalizar a [integração](/pt/docs/tutorials/como-funciona-a-integracao-do-m
 
 Além da integração básica, veja a seguir quais são as funcionalidades disponíveis, para que serve cada uma e aproveite ao máximo a integração.  
 
-| **Funcionalidade** | **Descrição** |
-|:-:|:-----------:|
+| Funcionalidade | Descrição |
+|-|-----------|
 | [Migrar anúncios no Mercado Livre](/pt/docs/tutorials/migrar-anuncios-no-mercado-livre) | Para os sellers que estão migrando de plataforma de ecommerce, nessa documentação, você aprenderá como migrar os anúncios já cadastrados no Mercado Livre para a VTEX. |    
 | [Notas fiscais no Mercado Livre](/pt/docs/tutorials/notas-fiscais-do-mercado-livre) | Os sellers já integrados ao Mercado Livre, poderão consultar e fazer download das notas fiscais geradas na plataforma do marketplace. |  
 | [Match de anúncios Mercado Livre](/pt/docs/tracks/match-de-anuncios-mercado-livre) | Avalia os anúncios do seller para sugerir oportunidades de catálogo no Mercado Livre. |  

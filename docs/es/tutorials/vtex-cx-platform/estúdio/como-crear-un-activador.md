@@ -24,7 +24,7 @@ En este punto, tu chatbot está conectado a algún canal, pero para iniciar un f
 
 El mensaje comienza con la palabra clave: Si la frase escrita por el usuario comienza con la palabra clave, el flujo seleccionado se activará.
 
-El mensaje contiene solo la palabra clave: El flujo seleccionado se ejecutará si el usuario escribe **únicamente **el conjunto de palabras clave registrado.
+El mensaje contiene solo la palabra clave: El flujo seleccionado se ejecutará si el usuario escribe **únicamente** el conjunto de palabras clave registrado.
 
 - En "Flujo" se define el flujo que se iniciará.
 

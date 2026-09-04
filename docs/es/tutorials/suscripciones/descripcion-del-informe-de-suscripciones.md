@@ -39,8 +39,8 @@ El informe `subscriptionsWithStatus` devuelve datos de suscripciones basados en 
 
 Las columnas corresponden a información específica sobre la suscripción, conforme se describe a continuación.
 
-| **Nombre del campo** | **Descripción** |
-| :---: | :--- |
+| Nombre del campo | Descripción |
+| --- | --- |
 | ID | ID de la suscripción. |
 | Customer Email | Email del cliente. |
 | Customer Id | ID del cliente. |
@@ -76,8 +76,8 @@ El informe `subscriptionsScheduledBetweenDate` devuelve datos de suscripciones p
 
 Las columnas corresponden a información específica sobre la suscripción, conforme se describe a continuación.
 
-| **Nombre del campo** | **Descripción** |
-| :---: | :--- |
+| Nombre del campo | Descripción |
+| --- | --- |
 | ID | ID de la suscripción. |
 | Customer Email | Email del cliente. |
 | Customer Id | ID del cliente. |
@@ -113,8 +113,8 @@ El informe `subscriptionsUpdatedBetweenDate` devuelve datos de las suscripciones
 
 Las columnas corresponden a información específica sobre la suscripción, conforme se describe a continuación.
 
-| **Nombre del campo** | **Descripción** |
-| :---: | :--- |
+| Nombre del campo | Descripción |
+| --- | --- |
 | ID | ID de la suscripción. |
 | Customer Email | Email del cliente. |
 | Customer Id | ID del cliente. |
@@ -150,8 +150,8 @@ El informe `subscriptionsCreatedBetweenDate` devuelve datos de las suscripciones
 
 Las columnas corresponden a información específica sobre la suscripción, conforme se describe a continuación.
 
-| **Nombre del campo** | **Descripción** |
-| :---: | :--- |
+| Nombre del campo | Descripción |
+| --- | --- |
 | ID | ID de la suscripción. |
 | Customer Email | Email del cliente. |
 | Customer Id | ID del cliente. |
@@ -187,8 +187,8 @@ El informe `executionsBetweenDate` devuelve datos de las suscripciones ejecutada
 
 Las columnas corresponden a información específica sobre la suscripción, conforme se describe a continuación.
 
-| **Nombre del campo** | **Descripción** |
-| :---: | :--- |
+| Nombre del campo | Descripción |
+| --- | --- |
 | Id | ID de la suscripción. |
 | OrderGroup | ID del pedido generado al ejecutar el informe. |
 | Email | Email del cliente. |

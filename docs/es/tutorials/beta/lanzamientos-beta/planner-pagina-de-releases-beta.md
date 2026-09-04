@@ -34,7 +34,7 @@ Para acceder a la página **Releases** en el Admin VTEX, dirígete al menú de n
 
 ![Releases list view v3 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/lanzamientos-beta/planner-pagina-de-releases-beta_1.png)
 
-| **Campo** | **Descripción** |
+| Campo | Descripción |
 |---|---|
 | **Nombre** | Nombre que identifica el release, definido en la etapa de creación. Si no se publicó el release, se lo puede editar en cualquier momento. |
 | **Última modificación** | Tiempo transcurrido desde la última modificación del release. |

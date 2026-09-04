@@ -51,8 +51,8 @@ El catálogo de la tienda debe crearse siguiendo el orden de los pasos que se in
 
 La siguiente tabla muestra los principales ajustes de Catálogo para la tienda, según el orden de creación:
 
-| **Tema** | **Configuración en el Admin VTEX** | **Configuración por API** |
-| :--- | :--- | :--- |
+| Tema | Configuración en el Admin VTEX | Configuración por API |
+| --- | --- | --- |
 | 1. [Árbol de categorias](/es/docs/tutorials/catalogo-vision-general#categorias) | [Registrar categoría](/es/docs/tutorials/registrar-categoria) | - [Categories](https://developers.vtex.com/docs/guides/categories) <br> - [Create Category](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/category) |
 | 2. [Marcas](/es/docs/tracks/marcas-definicion-de-concepto) | [Registrar marcas](/es/docs/tutorials/registrando-marcas) | - [Brands](https://developers.vtex.com/docs/guides/brands) <br> - [Create Brand](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/brand) |
 | 3.1. [Especificaciones de producto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacion-de-producto) | [Registrar especificaciones o campos de producto](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto) | - [Product specifications](https://developers.vtex.com/docs/guides/product-specifications) <br> - [Create Specification](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/specification) |
@@ -106,8 +106,8 @@ El [SKU](/es/docs/tracks/sku-definicion-de-concepto) (_Stock Keeping Unit_) es u
 
 La siguiente tabla muestra los ajustes opcionales de Catálogo en VTEX:
 
-| **Funcionalidad** | **Descripción** | **Más información** |
-| :---: | :--- | :--- |
+| Funcionalidad | Descripción | Más información |
+| --- | --- | --- |
 | Colecciones | Una colección es la agrupación de dos o más productos que pueden compartir o no características específicas. <br> Se pueden crear colecciones para asociar productos en función de diversos criterios, como fechas conmemorativas, lanzamientos o productos más vendidos. | __Help Center__ <br> - [Colecciones - Definición del concepto](/es/docs/tracks/colecciones-definicion-del-concepto) <br> - [Registrar colecciones (beta)](/es/docs/tutorials/registrar-colecciones-beta)  <br> __Developer Portal__  <br> - [Create Collection](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/collection/) <br> - [Get All Inactive Collections](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog/pvt/collection/inactive) <br> - [Get All Collections](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pvt/collection/search) <br> - [Get Collections by search terms](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pvt/collection/search/-searchTerms-) <br> - [Import File Example](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog/pvt/collection/stockkeepingunit/importfileexample) <br> - [Add products to Collection by imported file](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/collection/-collectionId-/stockkeepingunit/importinsert) |
 | Anexos | Un anexo es una personalización opcional y gratuita del producto que se utiliza para añadir información a un SKU. | __Help Center__ <br> - [Registrar un anexo](/es/docs/tutorials/registrar-un-anexo) <br> - [Cómo crear un anexo de suscripción](/es/docs/tutorials/como-crear-un-anexo-de-suscripcion-en-el-modulo-catalogo) <br> - [¿Qué es un anexo?](/es/docs/tutorials/que-es-un-anexo)  <br> __Developer Portal__ <br> - [Catalog API - Attachment](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog/pvt/attachment/-attachmentid-) <br> - [Catalog API - SKU attachment](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/skuattachment) |
 | Assembly Options | Assembly Options es un tipo de anexo para casos complejos, como la personalización de productos, en los que es necesario gestionar diferentes combinaciones de productos, cantidad, ítems adicionales, costos y stock, y mostrar estas opciones en la página de producto. | __Developer Portal__ <br> - [Assembly Options](/es/docs/tutorials/assembly-options) <br> - [Assembly Option App](https://developers.vtex.com/docs/guides/assembly-options-app) |
@@ -126,8 +126,8 @@ Antes de configurar los precios de la tienda, hay que registrar en [Catálogo](#
 
 En la siguiente tabla se presentan los principales términos relacionados con el módulo:
 
-| **Término** | **Definición** |
-| :---: | :--- |
+| Término | Definición |
+| --- | --- |
 | Precios | Información de los valores de venta de los SKU de la tienda. |
 | [Tablas de precios](/es/docs/tracks/tablas-de-precio-definicion-de-concepto) | Conjunto de precios de los SKU que se pueden aplicar en un determinado contexto, como una [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial). Las tablas almacenan la información de los precios que se muestran en el storefront de la tienda. |
 | Precio de costo | Precio pagado por la tienda para adquirir el SKU. |
@@ -185,8 +185,8 @@ Antes de configurar las promociones de tu tienda, es necesario registrar el [Cat
 
 Consulta en la tabla a continuación los principales términos utilizados en este contexto:
 
-| **Término** | **Definición** |
-| :---: | :--- |
+| Término | Definición |
+| --- | --- |
 | Promoción | Descuento concedido al cliente, que puede estar asociado a uno o varios productos del carrito, a un envío o a un regalo. |
 | Cupón | Código promocional, formado por una secuencia de letras y números. Los cupones están asociados a promociones aplicadas al valor total del carrito. Así, al ingresar un código de cupón válido en el momento de la compra, el cliente puede obtener descuentos sobre el valor del pedido. |
 | Audiencia de campañas | La Audiencia de campañas es una funcionalidad que permite definir el [público objetivo](/es/docs/tutorials/audiencias-de-campanas#publico-objetivo) para una promoción. La funcionalidad consiste en crear criterios de segmentación de clientes. A partir de estos criterios, la plataforma VTEX comprueba automáticamente si los clientes son elegibles para una determinada audiencia de campañas, y en consecuencia, para las [promociones de campaña](/es/docs/tutorials/promocion-de-campana) asociadas. |
@@ -203,8 +203,8 @@ Los descuentos son, principalmente, de dos tipos:
 
 Hay seis tipos diferentes de promociones, cada una relacionada con un escenario distinto:
 
-| **Tipo de promoción** | **Definición** |
-| :---: | :--- |
+| Tipo de promoción | Definición |
+| --- | --- |
 | [Regular](/es/docs/tracks/crear-promocion-regular) | Promoción que permite a la tienda ofrecer descuentos de forma flexible, combinando múltiples condiciones, restricciones y beneficios.  |
 | [Comprar Juntos](/es/docs/tutorials/comprar-juntos-registro-de-promocion) | Promoción utilizada para conceder descuentos en productos cuando se agregan juntos al carrito. El descuento puede aplicarse a ambos productos. También existe la opción de que el descuento solo se aplique si se añade al carrito una determinada cantidad de uno de los productos. |
 | [Más Por Menos](/es/docs/tutorials/mas-por-menos) | Promoción utilizada para conceder un descuento cuando el cliente añade al carrito varias unidades del mismo producto. |
@@ -275,8 +275,8 @@ La siguiente tabla muestra los principales ajustes de logística de la tienda VT
 
 >  Recomendamos en primer lugar configurar la política de envío, en segundo lugar el muelle y, finalmente, el almacén.
 
-| **Tema** | **Configuración en el Admin VTEX** | **Configuración por API** |
-| :---: | :--- | :--- |
+| Tema | Configuración en el Admin VTEX | Configuración por API |
+| --- | --- | --- |
 | [Políticas de envío](#politica-de-envio) | [Política de Envío](/es/docs/tutorials/politica-de-envio) | [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) |
 | [Muelle](#muelle) | [Gestionar el muelle](/es/docs/tutorials/gestionar-el-muelle) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
 | [Almacén](#almacen) | [Gestionar almacenes](/es/docs/tutorials/gestionar-almacenes) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |
@@ -331,8 +331,8 @@ El [simulador de envío](/es/docs/tutorials/simulador-de-envio) permite al retai
 
 Para adaptarse a los distintos modelos de negocio, la plataforma VTEX ofrece una serie de ajustes opcionales, como se muestra en la tabla a continuación:
 
-| **Funcionalidad** | **Descripción** |
-| :---: | :--- |
+| Funcionalidad | Descripción |
+| --- | --- |
 | Puntos de recogida | Los [puntos de recogida](/es/docs/tutorials/puntos-de-recogida) son ubicaciones físicas que la tienda ha establecido para que los clientes recojan sus pedidos. Configurar puntos de recogida es una buena opción para las operaciones omnichannel, especialmente cuando hay un gran número de tiendas físicas, ya que cada tienda física puede convertirse en una opción para que el cliente recoja su pedido, aumentando la versatilidad de su red logística. |
 | Feriados | La funcionalidad [Feriados](/es/docs/tutorials/registrar-feriados) permite a la tienda establecer días en los que no se procesan envíos, y esto se tiene en cuenta al calcular el tiempo de envío del pedido. |
 | Reserva | La [reserva](/es/docs/tutorials/como-se-maneja-la-reserva) es una solución VTEX que impide que un mismo ítem se venda más de una vez. Cuando el cliente simplemente añade un producto al carrito, no se genera una reserva; su prioridad sobre el ítem solo se activa al finalizar la compra.|
