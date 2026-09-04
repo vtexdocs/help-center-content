@@ -33768,6 +33768,21 @@
                 },
                 {
                   "name": {
+                    "pt": "Configurar o Shopping Assistant",
+                    "en": "Configurar o Shopping Assistant",
+                    "es": "Configurar o Shopping Assistant"
+                  },
+                  "slug": {
+                    "pt": "configurar-o-shopping-assistant",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Creating a Microsoft Teams channel",
                     "es": "Creación de un canal de Microsoft Teams",
                     "pt": "Integração com o Microsoft Teams"
@@ -34040,12 +34055,12 @@
                   "name": {
                     "en": "Web Chat Channel",
                     "es": "Canal VTEX CX Platform web chat",
-                    "pt": "Canal de Web Chat"
+                    "pt": "Web Chat Channel"
                   },
                   "slug": {
                     "en": "web-chat-channel",
                     "es": "canal-web-chat",
-                    "pt": "configurar-o-shopping-assistant"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
