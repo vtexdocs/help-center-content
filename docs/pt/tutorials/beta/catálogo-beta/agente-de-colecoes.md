@@ -123,7 +123,7 @@ Depois de revisar o plano, confirme a operação para que o agente aplique as mu
 - O ID da nova coleção.
 - O nome da coleção (caso não tenha sido informado pelo usuário).
 
-> ❗ A propagação dos dados pode levar até cerca de uma hora para se refletir no Admin VTEX, a depender do volume de dados sendo processados.
+> ❗ A propagação dos dados pode levar cerca de uma hora para se refletir no Admin VTEX, a depender do volume de dados sendo processados.
 
 ### Criar coleção por meio de importação de planilha
 
