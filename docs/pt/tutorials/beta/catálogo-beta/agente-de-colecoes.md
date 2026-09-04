@@ -12,7 +12,7 @@ locale: pt
 
 O **Agente de Coleções** é um agente de inteligência artificial que permite criar e gerenciar coleções e sortimentos por meio de uma experiência conversacional no Admin VTEX. Este artigo explica o funcionamento do agente e apresenta quais ações em coleções e sortimentos você pode realizar de forma conversacional.
 
-A [coleção](https://help.vtex.com/pt/docs/tutorials/tipos-de-colecao) é o agrupamento de produtos, enquanto o sortimento é a entidade que agrupa coleções em cenários B2B. Com o **Agente de Coleções**, você fornece uma instrução (prompt) em linguagem natural por meio de uma interface conversacional e o agente operacionaliza isso em uma coleção ou sortimento.
+A [coleção](https://help.vtex.com/pt/docs/tutorials/tipos-de-colecao) é o agrupamento de produtos, enquanto o sortimento é a entidade que agrupa coleções em cenários com [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). Com o **Agente de Coleções**, você fornece uma instrução (prompt) em linguagem natural por meio de uma interface conversacional e o agente operacionaliza isso em uma coleção ou sortimento.
 
 > ⚠️ Atualmente, o sortimento é um recurso exclusivo para cenários B2B.
 
