@@ -66,7 +66,7 @@ Não existe, atualmente, uma forma automática de incluir todos os produtos do c
 
 - **Por categorias:** ao selecionar todas as categorias do catálogo, como todo produto precisa ter uma categoria, todos os produtos são incluídos.
 - **Por marcas:** ao selecionar todas as marcas, como todo produto precisa ter uma marca, todos os produtos são incluídos.
-- **Por especificação de produto:** ao selecionar uma especificação com o mesmo valor presente em todos os produtos. A especificação precisa estar ativa e ser do tipo combo (multi seleção) ou rádio (seleção única), pois o tipo texto não é suportado.
+- **Por especificação de produto:** ao selecionar uma especificação com o mesmo valor presente em todos os produtos. A especificação precisa estar ativa e ser do tipo combo (seleção múltipla) ou rádio (seleção única), pois o tipo texto não é suportado.
 
 Pontos de atenção comuns a essas opções:
 
@@ -80,17 +80,17 @@ Nenhuma dessas opções é um espelho permanente do catálogo: o que compõe "to
 
 ## Realizar ações em coleções
 
-> ⚠️ Os exemplos de instruções apresentados a seguir são apenas para fins ilustrativos e não são a única forma do agente executar uma ação.
+> ⚠️ Os exemplos de instruções apresentados a seguir são apenas para fins ilustrativos e não são a única forma de o agente executar uma ação.
 
 Você pode realizar as seguintes ações:
 
-- Criar uma coleção usando linguagem natural
+- Criar coleção usando linguagem natural
   - Revisar o plano de coleção
   - Aprovar o plano de coleção
 - Criar coleção por meio de importação de planilha
 - Verificar as relações em coleções
 - Editar e refinar a coleção
-- Buscar, filtrar e listar coleções
+- Buscar, listar e filtrar coleções
 
 ### Criar coleção usando linguagem natural
 
@@ -117,7 +117,7 @@ O plano de coleção apresentado pelo agente é um resumo que você deve revisar
 
 #### Aprovar o plano de coleção
 
-Depois de revisar o plano, confirme a operação para que o agente aplique as mudanças. Feito isso, o agente finaliza o processamento e informa por exemplo:
+Depois de revisar o plano, confirme a operação para que o agente aplique as mudanças. Feito isso, o agente finaliza o processamento e informa, por exemplo:
 
 - O status da operação (sucesso ou erro).
 - O ID da nova coleção.
@@ -181,7 +181,7 @@ Você pode realizar as seguintes ações:
 - Editar e refinar o sortimento
 - Buscar, listar e filtrar sortimentos
 
-> ⚠️ Atualmente, o sortimento é um recurso exclusivo para cenários B2B.
+> ⚠️ Atualmente, o sortimento é um recurso exclusivo para lojas que utilizam **B2B Buyer Portal**.
 
 ### Criar um sortimento com linguagem natural
 
