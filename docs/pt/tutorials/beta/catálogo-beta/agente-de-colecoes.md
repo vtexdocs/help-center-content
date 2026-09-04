@@ -100,6 +100,8 @@ Para criar uma coleção usando linguagem natural, digite na janela de conversa 
 - "Crie uma coleção com os produtos das categorias Eletrônicos e Informática, exceto os da marca Infotech."
 - "Crie uma coleção com todos os produtos da categoria Verão que têm a especificação Cor igual a Azul."
 
+Você pode usar uma instrução mais completa, como: "crie uma coleção com os produtos das categorias Eletrônicos e Informática que tenham a especificação Cor igual a Preto, exceto os da marca Infotech."
+
 Após inserir as instruções no chat, aperte `Enter` ou clique no botão de seta para cima no chat. O **Agente de Coleções** vai então interpretar a solicitação e montar a coleção com os critérios e as regras correspondentes. Ao terminar o processamento, o agente pode solicitar informações complementares.
 
 **Exemplo:** o agente recebeu o comando "Monte uma coleção com todos os produtos da categoria de ID 6", e, após o processamento, fez duas solicitações:
