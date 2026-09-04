@@ -104,21 +104,7 @@ Você pode usar uma instrução mais completa, como: "crie uma coleção com os 
 
 Após inserir as instruções no chat, aperte `Enter` ou clique no botão de seta para cima no chat. O **Agente de Coleções** vai então interpretar a solicitação e montar a coleção com os critérios e as regras correspondentes. Ao terminar o processamento, o agente pode solicitar informações complementares.
 
-**Exemplo:** o agente recebeu o comando "Monte uma coleção com todos os produtos da categoria de ID 6", e, após o processamento, fez duas solicitações:
-
-1. Um nome para a nova coleção
-2. Uma descrição para a coleção
-
-A resposta no chat deve seguir o mesmo padrão numérico, com a identificação dos números:
-
-1. Moda outono/inverno
-2. Artigos de moda para o inverno.
-
-A imagem abaixo apresenta um exemplo da criação de uma coleção:
-
-![criacao de colecao com ID de categoria](linkPlaceholder)
-
-Feito isso, o agente apresenta um plano do que será feito.
+**Exemplo:** o agente recebeu o comando "Monte uma coleção com todos os produtos da categoria de ID 6". Após o processamento, ele pode solicitar um nome e uma descrição para a coleção, e uma vez que o nome e a descrição forem informados, o agente apresenta um plano do que será feito.
 
 #### Revisar o plano de coleção
 
@@ -129,21 +115,13 @@ O plano de coleção apresentado pelo agente é um resumo que você deve revisar
 - [Regra de criação](#regras-do-funcionamento) a ser utilizada
 - Comportamento futuro para a inclusão de produtos na coleção
 
-A imagem abaixo apresenta um exemplo de plano de coleção a ser revisado:
-
-![resumo da colecao](linkPlaceholder)
-
 #### Aprovar o plano de coleção
 
-Depois de revisar o plano, confirme a operação para que o agente aplique as mudanças. Feito isso, o agente finaliza o processamento e informa:
+Depois de revisar o plano, confirme a operação para que o agente aplique as mudanças. Feito isso, o agente finaliza o processamento e informa por exemplo:
 
-- Sucesso da operação
-- ID da nova coleção
-- Nome da coleção
-
-A imagem abaixo apresenta um exemplo de operação finalizada:
-
-![sucesso_operacao](linkPlaceholder)
+- O status da operação (sucesso ou erro).
+- O ID da nova coleção.
+- O nome da coleção (caso não tenha sido informado pelo usuário).
 
 > ❗ A propagação dos dados pode levar até cerca de uma hora para se refletir no Admin VTEX, a depender do volume de dados sendo processados.
 
