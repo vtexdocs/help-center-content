@@ -15,10 +15,16 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Besides the security aspect, enabling HTTPS throughout the site is mandatory to complete the activation of the new CDN.'
 ---
 
-All VTEX stores must activate the HTTPS protocol in all their pages until __April 20__. This change will make your website much safer for your clients, especially because all data transfers will be encrypted.
+All VTEX stores must enable the HTTPS protocol on all their pages by __April 20__.
 
-Besides all the benefits in terms of information security, the HTTPS protocol ensures that your store will be better ranked by Google. Their search algorithm indexes secure sites over the ones which doesn't use HTTPS. This means that if your store has enabled the protocol throughout all it's pages, it will be easier to find by potential clients.
+## Why did we make this change?
 
-Enabling HTTPS is also a key requirement to use VTEX's new CDN, as announced [here](/en/announcements/all-stores-have-until-april-20th-to-activate-the-new-cdn). Available since October 2017 the new CDN will be mandatory starting in __April 20th__, and will enhance your website's performance.
+This change will make your website much safer for your clients, especially because all data transfers will be encrypted.
 
-To enable HTTPS in your whole store, follow the instructions of this [VTEX Help Article](/en/docs/tutorials/enable-https-throughout-the-site).
+Besides all the benefits in terms of information security, the HTTPS protocol ensures that your store will be better ranked by Google. Their search algorithm indexes secure sites over the ones that don't use HTTPS. This means that if your store has enabled the protocol throughout all its pages, it will be easier for potential customers to find.
+
+Enabling HTTPS is also a key requirement to use VTEX's new CDN, as announced [here](/en/announcements/all-stores-have-until-april-20th-to-activate-the-new-cdn). Available since October 2017, the new CDN will be mandatory starting on __April 20__, and will enhance your website's performance.
+
+## What needs to be done?
+
+To enable HTTPS in your whole store, follow the instructions in this [VTEX Help Article](/en/docs/tutorials/enable-https-throughout-the-site).

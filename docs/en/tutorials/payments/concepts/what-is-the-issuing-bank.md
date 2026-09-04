@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 
-Issuing Bank is the financial institution responsible for the payment method, be it bank slip, debit or credit cards. It is the one who, when receiving the data of a purchase made in your store, will authorize or not the sale (depending on the limit of credit or on the money available in the user's account). If everything is OK, the bank collects the value.
+Issuing Bank is the financial institution responsible for the payment method, be it Boleto, debit or credit cards. It is the one who, when receiving the data of a purchase made in your store, will authorize or not the sale (depending on the limit of credit or on the money available in the user's account). If everything is OK, the bank collects the value.
 
 This concept is important because it allows you to set up [special conditions](/en/docs/tutorials/special-conditions/) for payments made through specific banks. In addition, in the case of registered payment tickets, each bank has its own form of issuance.
 
