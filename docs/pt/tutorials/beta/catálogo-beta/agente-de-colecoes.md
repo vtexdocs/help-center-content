@@ -66,7 +66,7 @@ Não existe, atualmente, uma forma automática de incluir todos os produtos do c
 
 - **Por categorias:** ao selecionar todas as categorias do catálogo, como todo produto precisa ter uma categoria, todos os produtos são incluídos.
 - **Por marcas:** ao selecionar todas as marcas, como todo produto precisa ter uma marca, todos os produtos são incluídos.
-- **Por especificação de produto:** ao selecionar uma especificação com o mesmo valor presente em todos os produtos. A especificação precisa estar ativa e ser obrigatória.
+- **Por especificação de produto:** ao selecionar uma especificação com o mesmo valor presente em todos os produtos. A especificação precisa estar ativa e ser do tipo combo (multi seleção) ou rádio (seleção única), pois o tipo texto não é suportado.
 
 Pontos de atenção comuns a essas opções:
 
