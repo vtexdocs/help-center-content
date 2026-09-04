@@ -130,6 +130,21 @@
                 },
                 {
                   "name": {
+                    "en": "Intelligent Search: filters, keywords, and special character improvements",
+                    "es": "Intelligent Search: mejoras en filtros, keywords y caracteres especiales",
+                    "pt": "Intelligent Search: melhorias em filtros, keywords e caracteres especiais"
+                  },
+                  "slug": {
+                    "en": "2026-08-15-intelligent-search-filters-keywords-and-special-characters-improvements",
+                    "es": "2026-08-15-intelligent-search-mejoras-en-filtros-keywords-y-caracteres-especiales",
+                    "pt": "2026-08-15-intelligent-search-melhorias-em-filtros-keywords-e-caracteres-especiais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Orders: New orders listing available in open beta",
                     "es": "Pedidos: nueva lista de pedidos disponible en beta abierta",
                     "pt": "Pedidos: nova lista de pedidos disponível em beta aberto"
