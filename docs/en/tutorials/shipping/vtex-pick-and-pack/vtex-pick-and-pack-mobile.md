@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-> ℹ️ If you are already a VTEX customer and wish to adopt this functionality for your business, please contact [Commercial Support](/en/docs/tracks/commercial-support). Additional fees may apply. If you are not yet a customer but are interested in this solution, please fill out the [contact form](https://vtex.com/us-en/contact/).
+> ℹ️ If you are already a VTEX customer and wish to adopt this functionality for your business, please contact [Commercial Support](/en/docs/tracks/commercial-support). Additional fees may apply. If you are not yet a customer but are interested in this solution, please fill out the [contact form](https://www.vtex.com/en-us/get-started/).
 
 The [VTEX Pick and Pack](/en/docs/tutorials/vtex-pick-and-pack-fulfillment) mobile app helps the picker — the person who picks and packs items in the facility — handle orders, from picking to shipping. This makes the store's order picking and delivery flow smoother and more efficient.
 
@@ -24,24 +24,24 @@ The [VTEX Pick and Pack](/en/docs/tutorials/vtex-pick-and-pack-fulfillment) mobi
 Order handling is divided into three steps, following the usual store order flow:
 
 - [Create worksheets](#creating-worksheets)
-- [Picking](#picking)
+- [Picking](#picking-items)
 - [Packing](#packing)
 
 ## Menu
 
-The __VTEX Pick and Pack__ app menu provides the main features to help you navigate and complete tasks. Through it, you can access different areas of the app more efficiently.
+The **VTEX Pick and Pack** app menu provides the main features to help you navigate and complete tasks. Through it, you can access different areas of the app more efficiently.
 
 Tap the <i class="fas fa-grip-lines"></i> icon in the top-right corner to open the menu,  where you'll find the following fields:
 
-- <i class="fas fa-house"></i> __Summary__:  Takes you to the app's home screen.
+- <i class="fas fa-house"></i> **Summary**:  Takes you to the app's home screen.
 - <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-mobile_11.png" alt="pickpack-logout" width="30" height="30">: Logs out of the app.
-- <i class="fas fa-history"></i> __History__: Redirects to the history of completed worksheets.
-- <i class="fas fa-globe"></i> __Language__: Changes the app language.
-- __Change to__ <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-mobile_12.png" alt="pickpack-logout" width="35" height="30">: Changes the facility where the order picking will be done.
-- __Pending__: Redirects to the pending worksheets screen.
-- __To pack__: Redirects to the worksheets that are awaiting packing.
+- <i class="fas fa-history"></i> **History**: Redirects to the history of completed worksheets.
+- <i class="fas fa-globe"></i> **Language**: Changes the app language.
+- **Change to** <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-mobile_12.png" alt="pickpack-logout" width="35" height="30">: Changes the facility where the order picking will be done.
+- **Pending**: Redirects to the pending worksheets screen.
+- **To pack**: Redirects to the worksheets that are awaiting packing.
 - <i class="fas fa-bell"></i>: Notification area showing the latest changes to the worksheets.
-- __Claim your next task__ <i class="fas fa-arrow-right"></i>: Redirects to the screen for creating worksheets.
+- **Claim your next task** <i class="fas fa-arrow-right"></i>: Redirects to the screen for creating worksheets.
 
 To collapse the menu, tap `Close Menu` <i class="fas fa-chevron-right"></i>.
 
@@ -66,21 +66,21 @@ The app will then help you pack each order with its respective items.
 
 ## Creating worksheets
 
-The image of the tab below lists the orders that should be selected for [worksheets](#worksheets). 
+The image of the tab below lists the orders that should be selected for [worksheets](#worksheets).
 
 ![pickpack-ordemservico-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-mobile_2.png)
 
 The order list displays information as follows:
 
-| Order     | Delivery by     |
-| ---------- | ---------- |
-| Shows the order number along with the item quantity and total items.       | Order delivery due date.       |
+| Order | Delivery by |
+| ----- | ----------- |
+| Shows the order number along with the item quantity and total items. | Order delivery due date. |
 
 To create a worksheet, follow the steps below:
 
 1. Tap the menu <i class="fas fa-grip-lines"></i>.
-2.	Tap the `Claim your next task` <i class="fas fa-arrow-right"></i> button.
-3. Select the orders you want to add to the worksheet. To create a worksheet with all the orders, click <i class="fas fa-square"></i> `Select All`. 
+2. Tap the `Claim your next task` <i class="fas fa-arrow-right"></i> button.
+3. Select the orders you want to add to the worksheet. To create a worksheet with all the orders, click <i class="fas fa-square"></i> `Select All`.
 4. Click `Start Picking`.
 
 To search for an order, enter the order ID in the search bar. To filter the order list, tap  and select one or more of the following options:
@@ -97,7 +97,7 @@ The picking step consists of manually selecting the items listed in a [worksheet
 
 ### Pending worksheets
 
-The __Pending worksheets__ tab displays the list of worksheets that haven't been picked yet, as shown in the image below:
+The **Pending worksheets** tab displays the list of worksheets that haven't been picked yet, as shown in the image below:
 
 ![pickpack-pendente-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-mobile_3.png)
 
@@ -106,15 +106,15 @@ In this tab, you can select the worksheet ID if you only want to see the picked 
 If there are worksheets assigned to the picker, you can access them from the picking screen by following these steps:
 
 1. Tap the menu <i class="fas fa-grip-lines"></i>.
-2. Select __Pending__. A list will be displayed with the worksheets assigned to the picker in the picking step.
+2. Select **Pending**. A list will be displayed with the worksheets assigned to the picker in the picking step.
 3. Select the <i class="fas fa-arrow-right"></i> button on the worksheet of the order you want to pick.
 
 When clicking a worksheet, the following information is displayed:
 
-- __Items:__ Products to be picked from the worksheet.
-- __Activity__: Details of changes made to the worksheet, such as products added, quantities updated, and replacements.
-- __Info:__ General information about the worksheet and the order.
-- __Summary:__ Products that have already been picked.
+- **Items:** Products to be picked from the worksheet.
+- **Activity**: Details of changes made to the worksheet, such as products added, quantities updated, and replacements.
+- **Info:** General information about the worksheet and the order.
+- **Summary:** Products that have already been picked.
 
 ![pickpack-em-separacao-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-mobile_4.png)
 
@@ -130,7 +130,7 @@ By opening the  menu, the following options will be displayed:
 
 To pick an item, follow these steps:
 
-1. On the Picking screen, go to the __Items__ tab.
+1. On the Picking screen, go to the **Items** tab.
 2. Select the item you want to pick or swipe the product to the right.
     ![pickpack-item-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-mobile_5.png)
 3. Check the item quantity.
@@ -140,7 +140,7 @@ For products with weight or volume, confirm the measurements first, then confirm
 
 ![pickpack-item-peso-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-mobile_6.png)
 
-1. On the __Picking__ screen, go to the __Items__ tab.
+1. On the **Picking** screen, go to the **Items** tab.
 2. Select the item you want to pick or drag the product to the right.
 3. Enable the <i class="fas fa-toggle-on"></i> `Sync weight and price option` to automatically calculate and complete the total price of the item by its weight. Turn off the <i class="fas fa-toggle-off"></i> option if you want to manually enter the item's price and weight.
 4. Select `Confirm picking`.
@@ -148,7 +148,7 @@ For products with weight or volume, confirm the measurements first, then confirm
 To pick all the products from the worksheet at once, follow these steps:
 
 1. Tap the <i class="fas fa-ellipsis-v"></i> menu.
-2. Select the __Set as Ready for Packing__ option.
+2. Select the **Set as Ready for Packing** option.
 3. Select `Pick All Available Items`.
 
 Once picked, the products will be listed in the Summary tab.
@@ -170,7 +170,7 @@ This can be done in two ways:
 
 1. On the **Picking** screen, click the **Info** tab.
 2. On the desired order, click the <i class="fas fa-ellipsis-v"></i> menu.
-3. Click the **Add more units** option. 
+3. Click the **Add more units** option.
 4. Select the correct quantity. The quantity of items that can be changed by the picker is defined on the [Settings](/en/docs/tutorials/vtex-pick-and-pack-settings#separacao) page in the VTEX Admin.
 5. Click `Confirm action`.
 
@@ -198,11 +198,11 @@ The picker can manually add new products to an order after receiving a customer 
 
 ## Rejecting items
 
-There are some scenarios in which products may have to be rejected due to store settings and item availability. 
+There are some scenarios in which products may have to be rejected due to store settings and item availability.
 
 To reject a product from the worksheet, follow the steps below:
 
-1. Go to the __Items__ tab.
+1. Go to the **Items** tab.
 2. Select and swipe the product you want to reject to the left.
 3. Enter the reason for item rejection in the textbox.
     ![pickpack-item-recusa-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-mobile_7.png)
@@ -244,7 +244,7 @@ During packing, the picker organizes order items into their respective shipping 
 You can access the Packing page once you have [completed picking](#completing-the-picking-process) the items on a worksheet or by following these steps:
 
 1. Tap the menu <i class="fas fa-grip-lines"></i> .
-2. Tap __Start Packing__. A list will be displayed with the [worksheets](#worksheets) assigned to the picker in the packing step.
+2. Tap **Start Packing**. A list will be displayed with the [worksheets](#worksheets) assigned to the picker in the packing step.
 3. Select the worksheet you want to start packing.
    ![pickpack-item-pendente-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-mobile_9.png)
 
@@ -260,39 +260,39 @@ Follow the steps below to pack items:
 
 ### Custom package
 
-1. Under __Packing__, select the order you want to pack.
+1. Under **Packing**, select the order you want to pack.
 2. Select the `+` button to confirm the quantity of the product you want to add to the package.
 3. Tap `Pack Products`.
-4. Add a new package by selecting __Custom package__.
+4. Add a new package by selecting **Custom package**.
 5. Tap Pack Products.
 6. Complete the following fields:
    - Length in centimeters (cm).
    - Width in centimeters (cm).
    - Height in centimeters (cm).
    - Total weight of the package in kilograms (kg).
-7.	Tap `Confirm`.
+7. Tap `Confirm`.
 
 ### The product's own container
 
-1. Under __Packing__, select the order you want to pack.
+1. Under **Packing**, select the order you want to pack.
 2. Tap the `+` button to confirm the quantity of the product you want to add to the package.
 3. Tap `Pack Products`.
-4. Add a new package by selecting __No packing required__.
+4. Add a new package by selecting **No packing required**.
 5. Tap `Pack Products`.
 6. Tap `Confirm`.
 
 You need to repeat this procedure as many times as necessary to pack all the items from a worksheet.
 
-Items that have already been packed will be available in the __Packed Items__ tab.
+Items that have already been packed will be available in the **Packed Items** tab.
 
 ![pickpack-itemsempacotados-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-mobile_10.png)
 
 You can perform the following actions for each packed item by tapping the   button:
 
-- __View details__: Displays a window with the package details.
-- __Print labels__: Generates a label that will be attached to the package.
-- __Set location__: Registers the package location in a facility using the BIN code, which identifies a specific storage location in a warehouse.
-- __Remove package__: Removes the package from the __Packed Items__ list, so the item will need to be packed again.
+- **View details**: Displays a window with the package details.
+- **Print labels**: Generates a label that will be attached to the package.
+- **Set location**: Registers the package location in a facility using the BIN code, which identifies a specific storage location in a warehouse.
+- **Remove package**: Removes the package from the **Packed Items** list, so the item will need to be packed again.
 
 To delete an item from the package, tap the corresponding `X` button.
 
@@ -303,4 +303,3 @@ To finish packing, tap `Confirm Packing`.
 - [VTEX Pick and Pack](/en/docs/tutorials/vtex-pick-and-pack)
 - [VTEX Pick and Pack: FAQ](/en/docs/tutorials/vtex-pick-and-pack-faq)
 - [VTEX Pick and Pack: Settings](/en/docs/tutorials/vtex-pick-and-pack-settings)
-

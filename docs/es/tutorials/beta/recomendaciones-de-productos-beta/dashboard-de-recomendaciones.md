@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 6WyZwZfn89IsnNFNkTAi8d
 ---
 
-> ℹ️ Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si ya eres cliente VTEX y deseas adoptar esta funcionalidad en tu negocio, ponte en contacto con nuestro [Soporte comercial](https://help.vtex.com/es/docs/tracks/soporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente, pero te interesa esta solución, llena el <a [formulario de contacto](https://vtex.com/es-mx/contacto/).
+> ℹ️ Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si ya eres cliente VTEX y deseas adoptar esta funcionalidad en tu negocio, ponte en contacto con nuestro [Soporte comercial](https://help.vtex.com/es/docs/tracks/soporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente, pero te interesa esta solución, llena el <a [formulario de contacto](https://www.vtex.com/es-mx/empezar/).
 
 La página **Recomendaciones** presenta un dashboard que permite hacer seguimiento y analizar el desempeño de las estrategias de recomendación de productos de la tienda mediante métricas consolidadas y detalladas por estantería de productos.
 
@@ -28,7 +28,7 @@ Para acceder, en el Admin VTEX ve a _Storefront > Recomendaciones_.
 
 ## Información general
 
-La parte superior de la página presenta el desempeño agregado de las estrategias de recomendación configuradas en la tienda. Los datos varían según el [periodo seleccionado para análisis y comparación](#seleccionar-periodo) y los [filtros definidos](#filtrar-informacion).
+La parte superior de la página presenta el desempeño agregado de las estrategias de recomendación configuradas en la tienda. Los datos varían según el [periodo seleccionado para análisis y comparación](#seleccionar-periodo-de-analisis) y los [filtros definidos](#filtrar-informacion).
 
 La línea continua representa el periodo actual seleccionado, mientras que la línea punteada representa el periodo de comparación.
 
@@ -38,12 +38,12 @@ Haz clic en cada métrica para ver el gráfico correspondiente. El gráfico pres
 
 Las métricas disponibles son:
 
-| Métrica                 | Descripción                                                                                                                                                                                                                        | Información disponible al pasar el mouse sobre una fecha |
-| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| **Conversión por clic** | Porcentaje de clics en recomendaciones que resultaron en pedidos.                                                                                                                                                  | Clics, Pedidos, Conversión por clic                      |
+| Métrica                 | Descripción                                                                                                                                                                                        | Información disponible al pasar el mouse sobre una fecha |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| **Conversión por clic** | Porcentaje de clics en recomendaciones que resultaron en pedidos.                                                                                                                                  | Clics, Pedidos, Conversión por clic                      |
 | **Tasa de vistas**      | Porcentaje de vistas de estanterías de recomendación en relación con el total de vistas de página. La estrategia se genera cada vez que se carga la página, pero no siempre se registra una vista. | Vistas, Impresiones, Tasa de vistas                      |
-| **Tasa de clics**       | Tasa promedio de clics (CTR) en las recomendaciones.                                                                                                                                            | Clics, Vistas, Tasa de clics                             |
-| **Ingresos totales**    | Valor total de ingresos generados a partir de interacciones con recomendaciones.                                                                                                                                   | Ingresos                                                 |
+| **Tasa de clics**       | Tasa promedio de clics (CTR) en las recomendaciones.                                                                                                                                               | Clics, Vistas, Tasa de clics                             |
+| **Ingresos totales**    | Valor total de ingresos generados a partir de interacciones con recomendaciones.                                                                                                                   | Ingresos                                                 |
 
 ## Información sobre estanterías de productos
 
@@ -53,13 +53,13 @@ La tabla muestra el desempeño individual de cada estantería de recomendación 
 
 La página muestra la siguiente información sobre cada estantería de producto en una tabla:
 
-| Columna             | Descripción                                                                                                                                                                        |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Columna             | Descripción                                                                                                                                     |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | Estantería          | Nombre de la estantería de recomendación y su respectiva estrategia y contexto de visualización (por ejemplo, _home_, _pdp_, _cart_, _footer_). |
-| Tasa de vistas      | Porcentaje de vistas de la estantería respecto a las vistas de la página en la que está insertada.                                                                 |
-| Tasa de clics       | Porcentaje de clics en los productos de la estantería respecto al número de vistas.                                                                                |
-| Conversión por clic | Porcentaje de clics en la estantería que resultaron en pedidos.                                                                                                    |
-| Ventas              | Ingresos totales generados a partir de las interacciones con la estantería.                                                                                        |
+| Tasa de vistas      | Porcentaje de vistas de la estantería respecto a las vistas de la página en la que está insertada.                                              |
+| Tasa de clics       | Porcentaje de clics en los productos de la estantería respecto al número de vistas.                                                             |
+| Conversión por clic | Porcentaje de clics en la estantería que resultaron en pedidos.                                                                                 |
+| Ventas              | Ingresos totales generados a partir de las interacciones con la estantería.                                                                     |
 
 ### Ver detalles
 
@@ -79,12 +79,12 @@ En la pantalla de detalles, también puedes:
 
 Para copiar el identificador de una estantería de recomendación:
 
-3. En la fila de la estantería o en la página de detalles de la estantería, haz clic en el menú ⋮.
-4. Haz clic en **Copiar ID**.
+1. En la fila de la estantería o en la página de detalles de la estantería, haz clic en el menú ⋮.
+2. Haz clic en **Copiar ID**.
 
 El identificador puede ser utilizado para:
 
-- Implementar la estrategia en el storefront:  
+- Implementar la estrategia en el storefront:
   - **Store Framework**: Consulta la documentación del componente [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf).
   - **FastStore o Headless**: Consulta la guía [Integrating product recommendations in headless or FastStore web stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-or-faststore-web-stores).
   - **Mobile**: Consulta la guía [Integrating product recommendations in mobile stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-mobile-stores).

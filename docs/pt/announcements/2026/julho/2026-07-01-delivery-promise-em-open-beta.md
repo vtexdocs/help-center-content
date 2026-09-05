@@ -38,8 +38,8 @@ Por estar em fase Open Beta, a funcionalidade pode ser testada pelos lojistas in
 
 Para saber mais sobre como configurar e utilizar a funcionalidade, confira o artigo principal [Delivery Promise (Beta)](/pt/docs/tutorials/delivery-promise-beta) e os materiais complementares abaixo:
 
-* [Delivery Promise: FAQ](/pt/docs/tutorials/delivery-promise-faq)
-* [Setting up Delivery Promise components (Beta)](https://developers.vtex.com/docs/guides/setting-up-delivery-promise-components)
-* [Delivery Promise for FastStore](https://developers.vtex.com/docs/guides/faststore/features-delivery-promise)
-* [Delivery promise for headless stores (Beta)](https://developers.vtex.com/docs/guides/delivery-promise-for-headless-stores)
-* [Delivery Promise Library](https://www.figma.com/community/file/1545494767147168145)
+- [Delivery Promise: FAQ](/pt/docs/tutorials/delivery-promise-faq)
+- [Setting up Delivery Promise components (Beta)](https://developers.vtex.com/docs/guides/setting-up-delivery-promise-components)
+- [Delivery Promise for FastStore](https://developers.vtex.com/docs/guides/faststore/features-delivery-promise)
+- [Delivery promise for headless stores (Beta)](https://developers.vtex.com/docs/guides/delivery-promise-for-headless-stores)
+- [Delivery Promise Library](https://www.figma.com/community/file/1545494767147168145/delivery-promise-by-vtex)

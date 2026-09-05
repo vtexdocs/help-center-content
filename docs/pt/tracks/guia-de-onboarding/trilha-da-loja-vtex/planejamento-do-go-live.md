@@ -119,7 +119,7 @@ Após a conclusão dos testes e ajustes necessários, é preciso preparar a loja
   <tbody>
     <tr class="bb b--muted-3">
       <td class="t-body pa5" style="min-width: 10rem;">Store Framework ou FastStore (VTEX IO)</td>
-      <td class="t-body pa5" style="min-width: 10rem;">Solicitar o [apontamento interno de DNS para VTEX IO](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-io) por meio de um ticket para o [Suporte VTEX](https://supporticket.vtex.com/support).<br>Mais informações nos artigos:<ul><li>[Going live with a new store](https://developers.vtex.com/docs/guides/vtex-io-documentation-go-live) (Store Framework)</li><li>[Migrating your storefront from CMS Portal (Legacy) to Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-storefront-from-legacy-to-io)</li><li>[Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns) (FastStore)</li></ul></td>
+      <td class="t-body pa5" style="min-width: 10rem;">Solicitar o [apontamento interno de DNS para VTEX IO](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-io) por meio de um ticket para o [Suporte VTEX](https://supporticket.vtex.com/support).<br>Mais informações nos artigos:<ul><li>[Going live with a new store](https://developers.vtex.com/docs/guides/vtex-io-documentation-go-live) (Store Framework)</li><li>[Migrating your storefront from CMS Portal (Legacy) to Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-storefront-from-legacy-to-io)</li><li>[Configuring external DNS for a custom domain](https://developers.vtex.com/docs/guides/faststore/go-live-1-configuring-external-dns) (FastStore)</li></ul></td>
     </tr>
     <tr class="bb b--muted-3">
       <td class="t-body pa5" style="min-width: 10rem;">CMS Portal (Legado)</td>
@@ -149,7 +149,7 @@ No momento do go-live, após a confirmação do apontamento interno realizado na
 
 2. [Notificar apontamento](/pt/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#notificar-apontamento): para que a loja fique disponível ao público em geral, é preciso notificar a plataforma VTEX que o apontamento foi realizado. Para isso, é necessário salvar novamente as **Configurações da conta** no Admin VTEX.
 
-   > ℹ️ Se a loja tiver sido construída com [FastStore](https://help.vtex.com/pt/docs/tracks/implementacao-de-frontend#faststore), também será necessário seguir os passos descritos no artigo [Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns).
+   > ℹ️ Se a loja tiver sido construída com [FastStore](https://help.vtex.com/pt/docs/tracks/implementacao-de-frontend#faststore), também será necessário seguir os passos descritos no artigo [Configuring external DNS for a custom domain](https://developers.vtex.com/docs/guides/faststore/go-live-1-configuring-external-dns).
 
 Uma vez que as etapas acima forem concluídas, a loja estará disponível no domínio cadastrado para que clientes a acessem e realizem compras.
 

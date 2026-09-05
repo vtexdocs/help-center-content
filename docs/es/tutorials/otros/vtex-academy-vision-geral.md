@@ -64,7 +64,7 @@ En la pantalla principal de la plataforma tienes acceso a los siguientes recurso
 
 ### Menú principal
 
-En la parte superior izquierda de la pantalla principal, puedes acceder a **Favoritos** y a la [página oficial da VTEX](https://vtex.com/es-es/).
+En la parte superior izquierda de la pantalla principal, puedes acceder a **Favoritos** y a la [página oficial da VTEX](https://www.vtex.com/es-mx/).
 
 #### Favoritos
 
