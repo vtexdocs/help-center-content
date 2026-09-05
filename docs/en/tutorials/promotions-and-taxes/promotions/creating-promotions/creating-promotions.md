@@ -96,8 +96,7 @@ If you no longer want a promotion to be used, you can move it to the list of arc
 
  1. Access the **Promotions** menu.
  2. Click on **Promotions**.
- 3. Use the [search tools](searching-for-promotions) to find the promotion you  want to archive.
+ 3. Use the [search tools](#searching-for-promotions) to find the promotion you  want to archive.
  4. When you find the promotion you are looking for, click on the `Archive` button in the lower right corner of the card.
  5. Confirm the action by clicking on `Archive` again.
  6. To view the archived promotion, select the `Archived Promotions` option in the upper right corner of the page.
-

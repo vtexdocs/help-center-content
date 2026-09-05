@@ -41,7 +41,7 @@ Para começar, você precisa criar um **link** para cada número que irá aten
 
 ![Capturar dados do lead antes de iniciar uma conversa no WhatsApp 5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/conversational-commerce/suiteshare/capturar-dados-do-lead-antes-de-iniciar-uma-conversa-no-whatsapp_5.png)
 
-5. Para definir, basta clicar e selecionar o campo desejado. Além disso, você ainda pode ativar o modo robô. Acesse [https://whts.co/bot](\"https://whts.co/bot\") e faça um teste da experiência que seu cliente terá.
+5. Para definir, basta clicar e selecionar o campo desejado. Além disso, você ainda pode ativar o modo robô. Acesse [https://whts.co/bot](https://whts.co/bot) e faça um teste da experiência que seu cliente terá.
 
 6. Clique em `Finalizar`.
 

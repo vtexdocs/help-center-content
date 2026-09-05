@@ -54,8 +54,8 @@ A medida que las integraciones con sistemas externos se vuelven más complejas, 
 
 Las nuevas opciones de VTEX Shield proporcionan una capa adicional que permite:
 
-* Gestionar certificados SSL propios para cumplir políticas internas y auditorías.  
-* Exigir autenticación bidireccional entre sistemas para evitar accesos no autorizados.  
+* Gestionar certificados SSL propios para cumplir políticas internas y auditorías.
+* Exigir autenticación bidireccional entre sistemas para evitar accesos no autorizados.
 * Reducir riesgos en integraciones críticas y fortalecer la confianza entre las partes.
 
 Con estas funcionalidades, VTEX Shield cumple con las prácticas más avanzadas del mercado y atiende las crecientes demandas de seguridad de las operaciones digitales.
@@ -64,4 +64,4 @@ Con estas funcionalidades, VTEX Shield cumple con las prácticas más avanzadas 
 
 Si ya eres cliente de VTEX y deseas activar certificados SSL personalizados, mTLS u otras funcionalidades de VTEX Shield en tu tienda, ponte en contacto con [Soporte comercial](/es/docs/tracks/soporte-comercial) para solicitar la activación y realizar la configuración necesaria. Pueden aplicarse cargos adicionales.
 
-Si aún no eres cliente, pero te interesan estas funcionalidades, llena el [formulario de contacto](https://vtex.com/es-mx/contacto/).  
+Si aún no eres cliente, pero te interesan estas funcionalidades, llena el [formulario de contacto](https://www.vtex.com/es-mx/empezar/).

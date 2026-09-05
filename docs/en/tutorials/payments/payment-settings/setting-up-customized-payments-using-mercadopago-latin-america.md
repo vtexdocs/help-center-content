@@ -20,12 +20,14 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 You can use Mercado Pago to offer customized payments (using local credit cards) in your store. For this, you first need to register the [MercadoPagoV1 gateway affiliation](/en/tutorial/setting-up-mercadopagov1-sub-acquirer). Then, just follow the steps below:
 
 ## Set up customized payment (local cards in Latin America)
+
 1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
 2. On the __Custom Payments__ tab, click one of the __Config__ buttons under __Cobrands__.
-3. Fill in the form data according to the card you chose (check the information about cards from [Argentina](/en/faq/custom-payment-information-for-argentina), [Chile](/en/faq/information-about-chile-custom-payments), [Colombia](/en/faq/information-about-colombia-custom-payments) and [Uruguay](information-about-uruguay-custom-payments)).
+3. Fill in the form data according to the card you chose (check the information about cards from [Argentina](/en/faq/custom-payment-information-for-argentina), [Chile](/en/faq/information-about-chile-custom-payments), [Colombia](/en/faq/information-about-colombia-custom-payments) and [Uruguay](/en/faq/information-about-uruguay-custom-payments)).
 4. Click __Save__.
 
 ## Set up the payment condition
+
 1. After you click __Save__, you'll be redirected to the payment condition setting screen.
 2. Click the __Status__ button to enable this payment condition.
 3. Under __Process with affiliation__, choose __MercadoPagoV1__.
@@ -37,4 +39,5 @@ You can use Mercado Pago to offer customized payments (using local credit cards)
 When you complete both steps, the checkout of your store will begin to offer the customized payment you have registered.
 
 ### Related articles
+
 - [Setting up MercadoPagoV1 sub-acquirer](/en/tutorial/setting-up-mercadopagov1-sub-acquirer)

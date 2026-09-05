@@ -20,15 +20,15 @@ A configuração de **UTM** pode ser feita manualmente, digitando as configuraç
 
 Para que as **UTMS** configuradas funcionem corretamente, é necessário que **3 opções**, pelo menos, estejam configuradas no link: 
 
-1 - utm\_source.  
-2 - utm\_medium.  
-3 - utm\_campaign.
+1. `utm_source`.
+2. `utm_medium`.
+3. `utm_campaign`.
 
 ![UTMs1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/utms_1.png)
 
-Abaixo um exemplo de como o link deve ficar e como aparecerá no **RD Station**: 
+Abaixo um exemplo de como o link deve ficar e como aparecerá no **RD Station**:
 
-**[https://whts.co/marcelows](\"https://whts.co/marcelows\")**utm\_source=**facebook**&utm\_medium=cpc&utm\_campaign=nomecampanhaexemplo&utm\_term=palavrachaveYou
+`https://whts.co/marcelows?utm_source=facebook&utm_medium=cpc&utm_campaign=nomecampanhaexemplo&utm_term=palavrachaveYou`
 
 ![UTMs2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/utms_2.png)
 

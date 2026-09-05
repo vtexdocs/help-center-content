@@ -15,15 +15,15 @@ locale: en
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-> ℹ️ This feature is in closed beta, so only selected customers can access it now. If you want to implement it in the future, please complete our [form](https://vtex.com/us-en/contact/) apontaby entering the product name in the `Comments` field.
+> ℹ️ This feature is in closed beta, so only selected customers can access it now. If you want to implement it in the future, please complete our [form](https://www.vtex.com/en-us/get-started/) apontaby entering the product name in the `Comments` field.
 
 **Worksheets** is a VTEX Admin page to manage the worksheets used by pickers to group and pick the order items in real time. Pickers can group as many orders as they like in each worksheet.
 
 This page allows you to:
 
-* [Create worksheets](#create-worksheets)
-* [Search for worksheets](#search-for-worksheets)
-* [Filter worksheets](#filter-worksheets)
+* [Create worksheets](#creating-a-worksheet)
+* [Search for worksheets](#searching-for-a-worksheet)
+* [Filter worksheets](#filtering-worksheets)
 
 ![pick-pack-ordem-servico-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-worksheets_1.png)
 

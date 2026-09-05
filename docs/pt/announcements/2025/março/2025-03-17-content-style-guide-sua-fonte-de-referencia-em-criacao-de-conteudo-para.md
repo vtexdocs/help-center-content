@@ -34,7 +34,7 @@ O **Content Style Guide** fornece diretrizes de escrita e formatação que estã
 
 - [Formatação](https://contentguide.vtex.com/pt/docs/formatting): aplique regras essenciais de formatação para o conteúdo de produtos.
 
-- [Textos para interface](https://contentguide.vtex.com/pt/docs/user-interfaces): escreva textos consistentes para os elementos de interface, melhorando a usabilidade.
+- [Textos para interface](https://contentguide.vtex.com/pt/docs/interface-copy): escreva textos consistentes para os elementos de interface, melhorando a usabilidade.
 
 - [Documentação](https://contentguide.vtex.com/pt/docs/documentation): crie artigos claros e práticos para o Help Center e para o Developer Portal, transmitindo conhecimento efetivamente.
 
@@ -49,4 +49,3 @@ Com o **Content Style Guide**, queremos garantir que todo o conteúdo criado par
 - Garantir que o conteúdo de produto reflita os valores e a voz da VTEX.
 
 Se você escreve documentação, desenvolve interfaces de usuário ou colabora em projetos VTEX, o Content Style Guide está aqui para ajudar. Visite o portal [Content Style Guide](https://contentguide.vtex.com/pt) para explorar os recursos e começar a criar conteúdos alinhados com os padrões VTEX.
-

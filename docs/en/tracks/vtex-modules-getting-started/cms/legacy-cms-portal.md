@@ -41,7 +41,7 @@ This section is organized into folders and files with the following functions:
 
 - **Product Cluster (Collections):** Create product groups. You can use them to build Campaign or Product Collection landing pages that load specific product clusters.
 
-- **Sites and Channels:** Configure [your store's binding](/pt/docs/tutorials/o-que-e-binding) and other License Manager settings. To learn more, see the [CMS folder structure](/https://help.vtex.com/docs/tutorials/cms-folder-structure) article.
+- **Sites and Channels:** Configure [your store's binding](/en/docs/tutorials/o-que-e-binding) and other License Manager settings. To learn more, see the [CMS folder structure](https://help.vtex.com/docs/tutorials/cms-folder-structure) article.
 
 ## CMS Portal (Legacy) folder structure
 
@@ -55,7 +55,7 @@ To ensure proper navigation and indexing, every store must have the following fo
 - Login
 - Product
 
-![2 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/cms/cms-portal-legado_3.png)
+![2 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/legacy-cms-portal_3.png)
 
 > ⚠️ **Don't change** the names of the required folders. If these folders aren't named exactly as specified above, you'll encounter navigation and indexing issues. Because these folders refer to dynamic pages, their names don't appear in the customer's navigation or in the final URL paths, so they **don't affect the site's internationalization**. On the other hand, the names of **[layouts](https://help.vtex.com/docs/tutorials/what-are-layouts) within these folders** can be freely edited without affecting store functionality.
 

@@ -149,7 +149,7 @@ At the time of go-live, after confirming the internal pointing from the previous
 
 2. [Notify the pointing:](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#notifying-the-pointing) To make your store available to the general public, you must notify the VTEX platform that pointing has been completed. To do this, you must save your **Account settings** in the VTEX Admin again.
 
-   > ⚠️ If the store was built using[ FastStore](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#faststore), you will also need to follow the steps described in the[ Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns) article.
+   > ⚠️ If the store was built using[FastStore](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#faststore), you will also need to follow the steps described in the [Configuring external DNS for a custom domain](https://developers.vtex.com/docs/guides/faststore/go-live-1-configuring-external-dns) article.
 
 Once the above steps have been completed, the store will be available on the registered domain, allowing customers to access it and make purchases.
 

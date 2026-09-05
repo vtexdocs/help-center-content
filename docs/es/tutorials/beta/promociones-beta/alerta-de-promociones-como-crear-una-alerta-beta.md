@@ -35,7 +35,7 @@ Sigue las instrucciones a continuación para crear una nueva alerta:
    * **Descripción (opcional):** breve texto informativo sobre la alerta.
 4. Escoge las condiciones para activar la alerta, según se describe en la sección [Condiciones](#condiciones).
 5. Define las acciones preventivas que la alerta ejecutará, según se describe en la sección [Acciones preventivas](#acciones-preventivas).
-6. Determina las restricciones para la aplicación de la alerta, según se describe en la sección [Restricciones](restricciones-opcional). Este paso es opcional.
+6. Determina las restricciones para la aplicación de la alerta, según se describe en la sección [Restricciones](#restricciones-opcional). Este paso es opcional.
 7. Haz clic en `Guardar`.
 
 La nueva alerta de promoción se habrá creado con éxito.

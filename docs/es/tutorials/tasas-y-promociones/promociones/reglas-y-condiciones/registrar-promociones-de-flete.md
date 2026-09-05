@@ -34,7 +34,7 @@ A continuación, explicamos algunos escenarios que se pueden configurar en la pl
 
 ### Escenario 1:
 
-Si habilita la opción **Aplicar el descuento solo para la opción de envío más barata**, el descuento del flete se aplicará únicamente al valor de flete estimado más bajo. Esta opción ya aparece habilitada de manera predeterminada, pero la puede desactivar si prefiere configurar la promoción según el [Escenario 3](#escenario-3) o el [Escenario 4](escenario-4). 
+Si habilita la opción **Aplicar el descuento solo para la opción de envío más barata**, el descuento del flete se aplicará únicamente al valor de flete estimado más bajo. Esta opción ya aparece habilitada de manera predeterminada, pero la puede desactivar si prefiere configurar la promoción según el [Escenario 3](#escenario-3) o el [Escenario 4](#escenario-4). 
 
 Si la tienda configura la estrategia de envío __Retiro__, que tiene un costo de R$ 0,00 para el cliente, la promoción puede considerar este valor como el más bajo y no aplicar el descuento en los costos de envío. Para garantizar que la promoción funcione como se espera, aplicando el descuento de envío gratuito a los costos de envío, selecciona todos los métodos en el cuadro, excepto Retiro en Tienda.
 

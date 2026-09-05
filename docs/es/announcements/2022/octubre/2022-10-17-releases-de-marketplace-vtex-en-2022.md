@@ -69,7 +69,7 @@ La tabla a continuación presenta las nuevas funcionalidades, destinadas a las t
     <td>Gestión de anuncios</td>
   </tr>
   <tr>
-    <td>[Catalog API](link)</td>
+    <td><a href="https://developers.vtex.com/docs/api-reference/catalog-api">Catalog API</a></td>
   </tr>
 </tbody>
 </table>
