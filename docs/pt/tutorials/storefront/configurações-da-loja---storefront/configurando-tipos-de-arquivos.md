@@ -28,7 +28,7 @@ Para configurar os tipos dos arquivos de sua loja, siga estes passos:
 4. Preencha os campos descritos em [Campos do tipo de arquivo](#campos-do-tipo-de-arquivo).
 5. Clique em `Salvar`.
 
-> ⚠️ Não altere as dimensões de um tipo se já existirem imagens cadastradas com essa configuração. Se for necessário mudar o tamanho, apague e recadastre as imagens do tipo modificado.
+> ⚠️ Não altere as dimensões de um tipo se já existirem imagens cadastradas com essa configuração. Se for necessário alterar o tamanho, apague e recadastre as imagens do tipo modificado.
 
 #### Campos do tipo de arquivo
 
