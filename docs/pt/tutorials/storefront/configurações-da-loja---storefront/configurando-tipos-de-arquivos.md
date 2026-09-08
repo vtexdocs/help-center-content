@@ -57,6 +57,6 @@ Para corrigir uploads bloqueados, siga estes passos:
 1. No Admin VTEX, acesse **Configurações da loja > Storefront > Configurações > Tipos de arquivos**.
 2. Clique em `Editar` no tipo de imagem de produto afetado (por exemplo, `Produto - Principal` ou `Produto - Giga`).
 3. Aumente o valor de **Tamanho Máximo em KB** para um limite compatível com suas imagens (valores comuns na plataforma incluem limites da ordem de milhares de KB, como `3000KB`).
-4. Salve a configuração e tente o upload novamente no cadastro do SKU.
+4. Salve a configuração e tente fazer o upload novamente no cadastro do SKU.
 
-> ℹ️ Dimensões configuradas como `0px x 0px` costumam indicar ausência de restrição de largura/altura para aquele tipo. Já **0KB** no tamanho máximo bloqueia uploads.
+> ⚠️ Dimensões configuradas como `0px x 0px` costumam indicar ausência de restrição de largura/altura para aquele tipo. Já **0KB** no tamanho máximo bloqueia uploads.
