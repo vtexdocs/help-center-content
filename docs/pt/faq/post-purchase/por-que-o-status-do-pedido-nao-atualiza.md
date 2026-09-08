@@ -34,4 +34,4 @@ Nesse ponto, o pedido está aguardando para descer para o ERP. Enquanto isso nã
 
 Nesse ponto, o pedido já está integrado ao ERP da loja, aguardando todo o processo de separação, embalagem, faturamento e entrega à transportadora. Assim que o processo for concluído, a integração deve enviar para a VTEX os dados da nota fiscal, assim como os de rastreio.
 
-Se o valor informado da NF não for igual ao valor total do pedido, o status do pedido não será alterado para **Faturado. **Nesse caso, a VTEX entende que ocorreu um faturamento parcial e o status só mudará para **Faturado** quando o soma das notas fiscais for igual ao valor total do pedido.
+Se o valor informado da NF não for igual ao valor total do pedido, o status do pedido não será alterado para **Faturado.** Nesse caso, a VTEX entende que ocorreu um faturamento parcial e o status só mudará para **Faturado** quando o soma das notas fiscais for igual ao valor total do pedido.

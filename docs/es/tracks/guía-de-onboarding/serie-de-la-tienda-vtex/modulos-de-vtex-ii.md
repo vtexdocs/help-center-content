@@ -37,8 +37,8 @@ Los ajustes de pago descritos en esta serie pueden realizarse en cualquier momen
 
 La siguiente tabla muestra los principales agentes y términos utilizados en el contexto de este módulo:
 
-| **Término** | **Descripción** |
-| :---: | :--- |
+| Término | Descripción |
+| --- | --- |
 | **Gateway** | Sistema responsable de procesar la información de pago de una compra en el checkout. |
 | **Adquirente** | Empresa que procesa pagos con tarjeta de crédito y débito. |
 | **Subadquirente** | Empresa que procesa pagos y actúa como intermediaria entre adquirentes, proveedores antifraude y retailers. |
@@ -211,8 +211,8 @@ Una de las ventajas de **Mi cuenta** es que la funcionalidad hace que la comunic
 
 La siguiente tabla muestra algunos ajustes adicionales para el módulo Pedidos:
 
-| **Funcionalidad** | **Descripción** |
-| :---: | :--- |
+| Funcionalidad | Descripción |
+| --- | --- |
 | Suscripciones | [Suscripciones](/es/docs/tutorials/como-funciona-suscripciones) es un programador automático de pedidos para facilitar a los clientes de la tienda la realización de compras recurrentes. El cliente indica los ítems que desea comprar y la frecuencia con que deben realizarse pedidos automáticos.<br><br>[Configurar Suscripciones](/es/docs/tutorials/como-configurar-suscripciones) es especialmente interesante para modelos de negocio como supermercados y tiendas de productos para mascotas, donde los clientes consumen los mismos productos de forma habitual. |
 | Televentas | La solución de [televentas](/es/docs/tutorials/funcionalidades-de-televentas) permite al equipo de atención al cliente de la tienda una mayor autonomía para prestar servicio a los clientes. Al [configurar las funcionalidades de televentas](/es/docs/tutorials/como-configurar-las-funcionalidades-de-televentas) se habilita a los operadores de la tienda para realizar tareas como:<br><br>- Comprar en nombre de un cliente.<br>- Ajustar manualmente el precio de los ítems de un carrito.<br>- Modificar pedidos existentes.<br>- Gestionar la información del perfil de un cliente en [Mi cuenta](#funcionalidad-mi-cuenta). |
 | Divergencia de precios | En las [estrategias de marketplace](/es/docs/tutorials/estrategias-de-marketplace-en-vtex) de la tienda en el ecosistema VTEX, puede darse el caso de que el precio fijado por el seller sea diferente del precio ofrecido por el marketplace. Las promociones existentes en el marketplace, por ejemplo, pueden tener un impacto en el precio que el seller fijó para la venta de su producto.<br><br>Para evitar errores en el procesamiento de los pedidos, el seller VTEX puede [configurar reglas de divergencia de precios](/es/docs/tutorials/configuracion-de-regla-de-divergencia-de-valores) y establecer parámetros para autorizar automáticamente los pedidos con esta diferencia de precio entre seller y marketplace. Al crear reglas automáticas para aprobar o rechazar pedidos con divergencias de precios, la tienda evita tener que procesar manualmente cada ítem, logrando así una operación más eficiente. |

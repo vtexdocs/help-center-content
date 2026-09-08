@@ -1,5 +1,5 @@
 ---
-title: 'How to find customers that has ordered the most?'
+title: 'How to find customers that have ordered the most?'
 id: 4kAn1BR5cAm4OoegsSyiqi
 status: PUBLISHED
 createdAt: 2017-12-20T16:56:29.800Z
@@ -14,8 +14,8 @@ locale: en
 legacySlug: how-to-find-customers-that-has-ordered-the-most
 ---
 
-Currently VTEX does not have a report that lists store's end-consumers that has more orders.
+Currently VTEX does not have a report that lists the store’s end-consumers that have the most orders.
 
-Typically this information can obtained in ERPs, as they centralize all invoicing management.
+Typically this information can be obtained in ERPs, as they centralize all invoicing management.
 
 However, at VTEX you can access the **Orders** module and [export your orders](/en/docs/tutorials/exporting-orders-in-orders-module). With this data, you may craft your own report into a spreadsheet.

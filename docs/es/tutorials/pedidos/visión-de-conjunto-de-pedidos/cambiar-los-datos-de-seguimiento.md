@@ -35,7 +35,7 @@ Para cambiar los datos de un pedido manualmente, sigue los pasos a continuación
     * **Número de seguimiento:** número de seguimiento proporcionado por la transportadora.
     * **Clave de acceso:** rellena este campo cuando el sitio web de la transportadora utilice una clave de acceso para realizar la consulta mediante URL.
     * **URL de seguimiento:** enlace a la página de la transportadora para el seguimiento del pedido.
-    * **Seleccionar transportadora: **selecciona la transportadora que realizará la entrega.
+    * **Seleccionar transportadora:** selecciona la transportadora que realizará la entrega.
 7. Haz clic en `Guardar`.
 
 ![FaturaES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/visión-de-conjunto-de-pedidos/cambiar-los-datos-de-seguimiento_1.png)

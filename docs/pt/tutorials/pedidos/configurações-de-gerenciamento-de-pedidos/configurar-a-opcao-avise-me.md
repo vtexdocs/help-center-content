@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
 
-> ⚠️  Este artigo explica como configurar o **Avise-me** em lojas que utilizam o [CMS Portal (Legado)](/pt/docs/tracks/cms-portal-legado). Em lojas que utilizam [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), a configuração precisa ser feita seguindo os passos do guia [Availability Notify](https://developers.vtex.com/vtex-developer-docs/docs/vtex-availability-notify).
+> ⚠️  Este artigo explica como configurar o **Avise-me** em lojas que utilizam o [CMS Portal (Legado)](/pt/docs/tracks/cms-portal-legado). Em lojas que utilizam [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), a configuração precisa ser feita seguindo os passos do guia [Availability Notify](https://developers.vtex.com/docs/apps/vtex.availability-notify).
 
 Quando um produto está fora de [estoque](/pt/docs/tutorials/gerenciar-itens-em-estoque), o lojista pode optar por disponibilizar para o cliente o **Avise-me**. Essa funcionalidade permite que os clientes interessados sejam notificados por email quando o item voltar a ficar disponível.
 
@@ -23,13 +23,14 @@ Veja abaixo um exemplo de como a opção **Avise-me** é exibida em uma loja. Pa
 
 ![aviseme-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/configurações-de-gerenciamento-de-pedidos/configurar-a-opcao-avise-me_1.png)
 
-Assim que o item é reposto no estoque da loja, o sistema envia um email para o cliente automaticamente, informando que o produto já está disponível para compra. 
+Assim que o item é reposto no estoque da loja, o sistema envia um email para o cliente automaticamente, informando que o produto já está disponível para compra.
 
 Neste artigo, vamos detalhar as configurações necessárias para habilitar o **Avise-me**:
 
-* [Exibir a opção Avise-me](#exibir-a-opcao-avise-me)
-* [Configurar o template da página de produto](#configurar-o-template-da-pagina-de-produto)
-* [Configurar template de email de notificação](#configurar-template-de-email-de-notificacao)
+- [Exibir a opção Avise-me](#exibir-a-opção-avise-me)
+	- [Configurar o template da página de produto](#configurar-o-template-da-página-de-produto)
+- [Configurar template de email de notificação](#configurar-template-de-email-de-notificação)
+- [Saiba mais](#saiba-mais)
 
 ## Exibir a opção Avise-me
 
@@ -52,7 +53,7 @@ Em seguida, é necessário configurar o template da página de produto para exib
 
 ```html
 <div class="buy-button-box hidden-xs">
-	<vtex.cmc:BuyButton />
+  <vtex.cmc:BuyButton />
 </div><!-- .buy-button-box -->
 ```
 
@@ -68,6 +69,6 @@ Para configurar o template de emails de **Avise-me** a serem enviados para o cli
 
 ## Saiba mais
 
-* [Exportar os clientes cadastrados na notificação de disponibilidade (Avise-me)](/pt/docs/tutorials/exportar-os-clientes-cadastrados-no-avise-me)
-* [Inserir imagens no email de "Avise-me"](/pt/docs/tutorials/inserir-imagens-no-email-de-avise-me)
-* [O que fazer quando o "Avise-me" não está sendo exibido](/pt/faq/o-que-fazer-quando-o-avise-me-nao-esta-sendo-exibido)
+- [Exportar os clientes cadastrados na notificação de disponibilidade (Avise-me)](/pt/docs/tutorials/exportar-os-clientes-cadastrados-no-avise-me)
+- [Inserir imagens no email de "Avise-me"](/pt/docs/tutorials/inserir-imagens-no-email-de-avise-me)
+- [O que fazer quando o "Avise-me" não está sendo exibido](/pt/faq/o-que-fazer-quando-o-avise-me-nao-esta-sendo-exibido)

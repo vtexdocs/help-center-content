@@ -297,6 +297,14 @@
       "productId": "5"
     },
     {
+      "product": "Checkout",
+      "category": "CheckoutResources",
+      "resource": "Configure Order Form Expiration",
+      "key": "ConfigureOrderFormExpiration",
+      "resourceId": "2161483",
+      "productId": "5"
+    },
+    {
       "product": "Commerce Content",
       "category": "Branch",
       "resource": "Save to main branch",
@@ -350,6 +358,14 @@
       "resource": "Create Branch",
       "key": "CreateBranch",
       "resourceId": "2153204",
+      "productId": "115"
+    },
+    {
+      "product": "Commerce Content",
+      "category": "Branch",
+      "resource": "Manage Dev Branch",
+      "key": "ManageDevBranch",
+      "resourceId": "2158137",
       "productId": "115"
     },
     {
@@ -494,6 +510,22 @@
       "resource": "Delivery Promises ReprocessItem",
       "key": "DeliveryPromisesReprocessItem",
       "resourceId": "2118039",
+      "productId": "111"
+    },
+    {
+      "product": "Delivery Promises",
+      "category": "Activation",
+      "resource": "Activate Delivery Promise",
+      "key": "ActivateDeliveryPromise",
+      "resourceId": "2160552",
+      "productId": "111"
+    },
+    {
+      "product": "Delivery Promises",
+      "category": "Activation",
+      "resource": "View Delivery Promise Status",
+      "key": "ViewDeliveryPromiseStatus",
+      "resourceId": "2160553",
       "productId": "111"
     },
     {
@@ -1230,6 +1262,22 @@
       "resource": "Get Import Card Tokens Report",
       "key": "GetImportCardTokensReport",
       "resourceId": "2078849",
+      "productId": "114"
+    },
+    {
+      "product": "Payments",
+      "category": "Payments Fraud Protection",
+      "resource": "View Defense Mode",
+      "key": "ViewDefenseMode",
+      "resourceId": "2160773",
+      "productId": "114"
+    },
+    {
+      "product": "Payments",
+      "category": "Payments Fraud Protection",
+      "resource": "Manage Defense Mode",
+      "key": "ManageDefenseMode",
+      "resourceId": "2160774",
       "productId": "114"
     },
     {

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Managing Projects'
 id: 42IpDFqTVTESH8DCypJMPM
 status: PUBLISHED

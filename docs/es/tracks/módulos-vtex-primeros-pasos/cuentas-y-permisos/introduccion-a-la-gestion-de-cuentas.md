@@ -26,7 +26,7 @@ Después de iniciar sesión tendrás acceso al dashboard administrativo exclusiv
 
 Para acceder a **Configuración de la cuenta** haz clic en el avatar de tu perfil (marcado por la inicial de tu email) en la esquina superior derecha del Admin VTEX, y luego en **Configuración de la cuenta**.
 
-![Admin v4 account settings menu](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gestión-de-la-cuenta/vision-general-configuraciones-de-la-cuenta_1.jpg)
+![Admin v4 account settings menu](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/admin-vtex/gestión-de-la-cuenta/vision-general-configuraciones-de-la-cuenta_1.jpg)
 
 Consulta en esta sección las principales páginas para gestionar tu cuenta:
 

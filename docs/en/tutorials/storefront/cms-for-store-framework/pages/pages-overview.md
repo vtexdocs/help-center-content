@@ -1,5 +1,5 @@
 ---
-title: 'Pages - Overview'
+title: 'Pages'
 id: 5iBUUJbK5NqG6OxlDrGNzc
 status: PUBLISHED
 createdAt: 2021-12-15T20:09:14.461Z
@@ -26,7 +26,7 @@ In Pages, you can also create URL redirects to forward website visitors and sear
 
 In the VTEX Admin, go to **Storefront > Pages** and check out the main tools available in the interface.
 
-| **Tool** | **Description** |
+| Tool | Description |
 | ---------- | ---------- |
 | **Default** | Check out the custom pages of your store’s website. Pages are classified into **Default, Product, Product collections, and Not found (404).** |
 | **CREATE NEW** | Create a new landing page by choosing its Title, URL, Keywords, and template. **Product, Product collections** and **Not found (404)** pages cannot be created in the Admin, only in the store theme code. |
@@ -37,5 +37,5 @@ In the VTEX Admin, go to **Storefront > Pages** and check out the main tools ava
 
 Check out the following tutorials to start managing your storefront content:
 
-- [Creating landing pages per binding](/en/tutorial/criando-landing-pages-por-binding--3LQAoWx77P3gNoqI2Rtl5A?&utm_source=autocomplete)
+- [Creating landing pages per binding](/docs/tutorials/creating-landing-pages)
 - [Managing URL redirects per binding](/en/docs/tutorials/managing-redirects-per-binding)

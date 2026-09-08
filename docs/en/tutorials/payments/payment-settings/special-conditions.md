@@ -96,7 +96,7 @@ Allows a payment condition to be applied to a specific sales channel, or as many
 ![politica-comercial en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/special-conditions_3.png)
 
 1. Inside Payment Conditions, click on `Add special condition`.
-2. Then, click on `Sales Channel (Sales Channel)`.
+2. Then, click on `Sales Channel`.
 3. Select the desired policies.
 4. Save changes.
 
@@ -126,7 +126,7 @@ How to configure the issuing bank in the payment condition
 
 Suppose that Banco do Brasil offers its clients using Ourocard both debit and credit functions.
 
-To offer this special condition in your store, simply select "Brazil" in the __When the country is__ field, and "Banco do Brasil" in the __When the issuing bank is__ field.
+To offer this special condition in your store, select "Brazil" in the __When the country is__ field, and "Banco do Brasil" in the __When the issuing bank is__ field.
 
 #### Card Level
 

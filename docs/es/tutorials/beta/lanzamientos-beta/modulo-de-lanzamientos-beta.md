@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Módulo de Lanzamientos (Beta)'
 id: n2tN0WX5I6MJMbrJrS0Kb
 status: PUBLISHED
@@ -88,7 +88,7 @@ Todos los lanzamientos creados aparecen en una lista en el Admin VTEX en **Confi
 
 En la pestaña `PROGRAMADOS`, la descripción de cada columna es la siguiente:
 
-| **Columna** | **Descripción** |
+| Columna | Descripción |
 | ---------- | ---------- |
 | Nombre | Nombre que identifica el lanzamiento, definido en la etapa de creación. Si no se publicó el lanzamiento, se lo puede editar en cualquier momento. |
 | Último cambio | Tiempo transcurrido desde el último cambio relacionado con el lanzamiento, por ejemplo, una actualización, agregado o eliminación de contenido. |

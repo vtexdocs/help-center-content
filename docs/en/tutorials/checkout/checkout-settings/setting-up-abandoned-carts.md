@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Setting up Cart Abandonment (Trigger)'
 id: tutorials_740
 status: PUBLISHED

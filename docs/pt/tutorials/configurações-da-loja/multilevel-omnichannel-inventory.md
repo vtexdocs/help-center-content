@@ -75,7 +75,7 @@ Essa funcionalidade _Multilevel Omnichannel Inventory_ está disponível apenas 
 
 Não é possível distribuir recebíveis em toda a cadeia (marketplace, seller direto e sellers white label). Os pedidos de Multilevel Omnichannel Inventory estão restritos a ter o pagamento do pedido feito no marketplace. A conciliação e repasse de valores para sellers nível 3 deve ser feito por fora da VTEX, pois não há suporte nativo para essa etapa.
 
-É possível utilizar a solução de [split de pagamentos](/pt/docs/tutorials/split-de-pagamento) apenas para dividir recebíveis entre os níveis _marketplace_ e _seller direto _(nível 2). Nesse caso o recomendado é utilizar [split de recebíveis](/pt/tutorial/split-payment#split-de-recebiveis). 
+É possível utilizar a solução de [split de pagamentos](/pt/docs/tutorials/split-de-pagamento) apenas para dividir recebíveis entre os níveis _marketplace_ e _seller direto_(nível 2). Nesse caso o recomendado é utilizar [split de recebíveis](/pt/tutorial/split-payment#split-de-recebiveis). 
 
 Nesses casos, o seller direto se torna um recebedor dos itens de seus sellers white label e dos seus próprios itens, retirando as comissões configuradas na relação com o marketplace.
 

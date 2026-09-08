@@ -16,7 +16,7 @@ tags:
 
 O módulo [Capacidade operacional](/pt/docs/tutorials/capacidade-operacional) agora está disponível para todas as lojas VTEX. Essa funcionalidade é projetada para ajudar lojistas a gerenciar a capacidade dos sellers de receberem e prepararem pedidos. Assim, é possível monitorar a distribuição de pedidos entre os sellers e realizar ajustes para otimizar o fluxo operacional, promovendo uma malha logística mais eficiente.
 
-![operational_capacity_image_1_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/capacidade-operacional/capacidade-operacional_1.png)
+![operational_capacity_image_1_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/capacidade-operacional_1.png)
 
 ## O que mudou?
 

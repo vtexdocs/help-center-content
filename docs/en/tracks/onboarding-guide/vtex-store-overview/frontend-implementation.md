@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Frontend implementation'
 id: 67SCtUreXxKYWhZh8n0zvZ
 status: PUBLISHED

@@ -143,7 +143,7 @@ _This page follows the new VTEX Design System, with a clean, modern and easy-to-
 
 A seller's efficiency and strategic performance depend on their visibility over submitting offers to the marketplace and identifying and fixing errors during the process. To make this process easier, we have launched the [Offer Management](/en/tutorial/gestao-de-anuncios--7MRb9S78aBdZjFGpbuffpE) feature. 
 
-Until now, to get information about marketplace offers, sellers had to go to three different pages in the VTEX Admin: _Product, Price, _and_ Inventory_ under _Marketplace > Integrations_. In addition, identifying and fixing errors when submitting offers was hardly intuitive.
+Until now, to get information about marketplace offers, sellers had to go to three different pages in the VTEX Admin: _Product, Price,_ and _Inventory_ under _Marketplace > Integrations_. In addition, identifying and fixing errors when submitting offers was hardly intuitive.
 
 The new feature allows the seller to monitor their listings easily and to quickly fix shipping and product synchronization errors. It is available for products sent to to VTEX marketplaces. 
 

@@ -13,6 +13,7 @@ slugEN: campaign-audiences
 legacySlug: audiencias-de-campanhas
 locale: pt
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
+categoryCover: true
 ---
 
 Audiência de campanha é uma funcionalidade que permite definir o [público-alvo](#publico-alvo)para uma promoção. Para saber como configurar esse recurso, leia o artigo [Criar Audiência de campanha](/pt/docs/tutorials/criar-audiencia-de-campanha).

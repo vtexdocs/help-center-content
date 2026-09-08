@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Go-live your store'
 id: 1iP90RcJvlrfQhnlxM54wo
 status: PUBLISHED

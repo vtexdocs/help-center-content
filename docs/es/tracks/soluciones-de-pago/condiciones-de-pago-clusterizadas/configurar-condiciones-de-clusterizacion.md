@@ -21,7 +21,7 @@ Como hemos mencionado, Clustered Payment Conditions determina que una condición
 
 Aquí explicaremos cómo configurar una condición especial de pago a partir de clústeres.
 
-> ❗ **Atención**: solo se permite crear cinco clústeres de clientes por condición de pago.
+> ❗ Solo se permite crear cinco clústeres de clientes por condición de pago.
 
 ## Crear una nueva condición de pago
 

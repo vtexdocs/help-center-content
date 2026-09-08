@@ -58,7 +58,7 @@ All pages on the site must be changed individually according to the article [How
 
 You can change the protocol in all folders at once by using our API, documented [in this Postman collection](https://developers.vtex.com/docs/api-reference/legacy-cms-portal-api). 
 
-> ⚠️ **Warning:** avoid having HTTPS enabled on only a few pages. When you access an HTTPS page, then go to an HTTP page from the same store, the browser will try to read your resources forcibly over HTTPS, and this can cause problems. It is appropriate to enable HTTPS throughout the site at one time. The same goes for desktop and mobile websites (child website), where it is necessary to treat the HTTPS of both at the same time.
+> ⚠️ Avoid having HTTPS enabled on only a few pages. When you access an HTTPS page, then go to an HTTP page from the same store, the browser will try to read your resources forcibly over HTTPS, and this can cause problems. It is appropriate to enable HTTPS throughout the site at one time. The same goes for desktop and mobile websites (child website), where it is necessary to treat the HTTPS of both at the same time.
 
 ## Limitations
 

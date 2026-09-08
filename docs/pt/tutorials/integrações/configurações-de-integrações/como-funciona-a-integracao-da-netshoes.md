@@ -72,7 +72,7 @@ A Netshoes só aceita receber os estoques para produtos que já foram enviados c
 
 Depois que os produtos recebem a primeira carga de estoque, a atualização é feita SKU por SKU sempre que ocorre alguma alteração de estoque na VTEX.
 
-> ⚠️ **OBS:** os dados de estoque enviados para a Netshoes ficam registrados em nosso sistema por apenas **3 meses**.
+> ⚠️ **OBS:**os dados de estoque enviados para a Netshoes ficam registrados em nosso sistema por apenas** 3 meses**.
 
 ## Preços
 

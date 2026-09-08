@@ -19,8 +19,8 @@ Este artículo tiene como objetivo enunciar algunas buenas prácticas en relaci�
 
 La siguiente tabla presenta los límites y formatos aceptados para las imágenes:
 
-| **Límites y formatos** | **Valores aceptados** |
-| :--- | :--- |
+| Límites y formatos | Valores aceptados |
+| --- | --- |
 | Tamaño máximo en píxeles | 5000 x 5000 píxeles |
 | Tamaño mínimo en píxeles | 600 x 600 píxeles |
 | Tamaño máximo en MB | 4 MB |
@@ -43,5 +43,5 @@ Para obtener buenos resultados con sus imágenes y solucionar posibles problemas
 
 - [Registrar Producto](/es/docs/tracks/registrar-producto)
 - [Registrar SKU](/es/docs/tracks/registrar-sku)
-- [Importar imágenes por plantilla](/es/docs/tutorials/importando-imagenes-por-plantilla)
+- [Importar imágenes por plantilla](/es/docs/tutorials/importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla)
 

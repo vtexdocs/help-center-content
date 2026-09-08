@@ -32,7 +32,7 @@ La aplicación crea dos grupos de páginas después de ser instalada en tu entor
 
 La aplicación crea tres tipos de páginas para los afiliados, que disponen de ellas sin necesidad de acceder al Admin VTEX de su tienda, como se indica en la siguiente tabla:
 
-| **Tipo** | **URL** |
+| Tipo | URL |
 | ---------- | ---------- |
 | Páginas del afiliado | `{storeName.com}/affiliates/{affiliateSlug}` |
 | Página de perfil del afiliado | `{storeName.com}/affiliates/{affiliateSlug}/profile` |

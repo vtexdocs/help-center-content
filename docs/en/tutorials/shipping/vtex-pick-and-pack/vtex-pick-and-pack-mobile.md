@@ -181,7 +181,7 @@ The picker can manually add new products to an order after receiving a customer 
 ### By selecting the product
 
 1. On the **Picking** screen, click the <i class="fas fa-ellipsis-v"></i> menu.
-2. Click the **Add product to an order **option**.**
+2. Click the **Add product to an order** option.
 3. Select the order to which you want to add the new item.
 4. Scan the product barcode or search for it manually using the search bar.
 5. Select the desired quantity.

@@ -39,7 +39,7 @@ Para cadastrar a **trava de preço**, você precisa enviar um __POST__ para o se
 
 - O objeto do request tem as seguintes propriedades:
 
-| __Propriedades__ | __Tipos__ | __Descrição__ |
+| Propriedades | Tipos | Descrição |
 |------------------|-----------|-------------|
 | priceVariation | object | Variação de preço |
 | upperLimit | integer | Limite superior |

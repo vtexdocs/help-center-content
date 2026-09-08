@@ -34,8 +34,8 @@ Esta sección incluye la siguiente información:
 
 ## Características de los Datos
 
-| **Característica** | **Descripción** |
-|:------:|:-----:|
+| Característica | Descripción |
+|------|-----|
 | Fuente de Datos | Obtenidos del módulo marketplace. |
 | Disponibilidad | Admin VTEX |
 | Historial | El historial de datos comienza en septiembre de 2024. Los datos se conservan durante dos años a partir de 2024.|
@@ -45,8 +45,8 @@ Esta sección incluye la siguiente información:
 
 Los campos de la tabla se describen a continuación:
 
-|**Nombre de la Columna** | **Tipo de Columna** | **Descripción de la Columna**|
-|:---: |:---: |:---:|
+|Nombre de la Columna | Tipo de Columna | Descripción de la Columna|
+|--- |--- |---|
 |pk | bigint | Clave primaria que identifica exclusivamente cada fila.|
 |main_account | character varying(100) | Nombre de la cuenta principal asociada al vendedor.|
 |seller_id| character varying(100) | ID del vendedor.|
@@ -67,8 +67,8 @@ Los campos de la tabla se describen a continuación:
 
 Los campos de la tabla se describen a continuación:
 
-|**Nombre de la Columna** | **Tipo de Columna** | **Descripción de la Columna**|
-|:---:|:---:|:---:|
+|Nombre de la Columna | Tipo de Columna | Descripción de la Columna|
+|---|---|---|
 |main_account | character varying(100) | Nombre de la cuenta principal asociada al vendedor.|
 |seller_id | character varying(100) | ID del vendedor.|
 |seller_is_active | boolean | Indica si el vendedor está activo (true) o no (false).|
@@ -84,8 +84,8 @@ Los campos de la tabla se describen a continuación:
 
 Los campos de la tabla se describen a continuación:
 
-|**Nombre de la Columna**|**Tipo de Columna**|**Descripción de la Columna**|
-|:---:|:---:|:---:|
+|Nombre de la Columna|Tipo de Columna|Descripción de la Columna|
+|---|---|---|
 |main_account|character varying(100)|Nombre de la cuenta principal asociada al vendedor.|
 |seller_id|character varying(100)|ID del vendedor.|
 |seller_is_active|boolean|Indica si el vendedor está activo (true) o no (false).|
@@ -102,8 +102,8 @@ Los campos de la tabla se describen a continuación:
 
 Los campos de la tabla se describen a continuación:
 
-|**Nombre de la Columna**|**Tipo de Columna**|**Descripción de la Columna**|
-|:---:|:---:|:---:|
+|Nombre de la Columna|Tipo de Columna|Descripción de la Columna|
+|---|---|---|
 |main_account|character varying(100)|Nombre de la cuenta principal asociada al vendedor.|
 |seller_id|character varying(100)|ID del vendedor.|
 |seller_is_active|boolean|Indica si el vendedor está activo (true) o no (false).|
@@ -127,8 +127,8 @@ Los campos de la tabla se describen a continuación:
 
 Los campos de la tabla se describen a continuación:
 
-|**Nombre de la Columna**|**Tipo de Columna**|**Descripción de la Columna**|
-|:---:|:---:|:---:|
+|Nombre de la Columna|Tipo de Columna|Descripción de la Columna|
+|---|---|---|
 |main_account|character varying(100)|Nombre de la cuenta principal asociada al vendedor.|
 |seller_id|character varying(100)|ID del vendedor.|
 |seller_is_active|boolean|Indica si el vendedor está activo (true) o no (false).|
@@ -153,8 +153,8 @@ Los campos de la tabla se describen a continuación:
 
 La tabla *sellers_orders_items* almacena detalles de los ítems en pedidos realizados por vendedores del VTEX Seller Portal. Los campos de la tabla se describen a continuación:
 
-|**Nombre de la Columna** | **Tipo de Columna** | **Descripción de la Columna**|
-|:---:|:---:|:---:|
+|Nombre de la Columna | Tipo de Columna | Descripción de la Columna|
+|---|---|---|
 |item_id | character varying(65535) | Identificador único del ítem dentro del pedido. Puede asociarse con la tabla sellers_inventory para detalles adicionales.|
 |product_id | character varying(65535) | Identificador del producto asociado al ítem.|
 |order_id | character varying(16383) | Identificador único del pedido. Puede asociarse con las tablas de pedidos para detalles adicionales.|
@@ -195,8 +195,8 @@ La tabla *sellers_orders_items* almacena detalles de los ítems en pedidos reali
 
 La tabla *sellers_orders_rateandbenefitsidentifiers* contiene datos sobre promociones aplicadas a pedidos de vendedores. Los campos de la tabla se describen a continuación:
 
-|**Nombre de la Columna** | **Tipo de Columna** | **Descripción de la Columna**|
-|:---:|:---:|:---:|
+|Nombre de la Columna | Tipo de Columna | Descripción de la Columna|
+|---|---|---|
 |orderid | character varying(16383) | Identificador único de cada pedido.|
 |hostname | character varying(16383) | Nombre del host asociado al pedido, que indica el servidor o dominio que gestiona el pedido.|
 |marketplace_name | character varying(16383) | Nombre del marketplace asociado al pedido.|
@@ -215,8 +215,8 @@ La tabla `sku_binding` sirve como referencia cruzada entre los identificadores i
 
 Los campos de la tabla se describen a continuación:
 
-|**Nombre de la Columna** | **Tipo de Columna** | **Descripción de la Columna**|
-|:---:|:---:|:---:|
+|Nombre de la Columna | Tipo de Columna | Descripción de la Columna|
+|---|---|---|
 |sk_sku_binding | character varying | Clave sustituta para el registro de binding de SKU que identifica exclusivamente cada mapeo de SKU de un vendedor a un SKU del marketplace.|
 |sk_sku | character varying | Clave sustituta que referencia el SKU en la tabla item_catalog_silver.sku.|
 |sk_product | character varying | Clave sustituta que referencia el producto en la tabla item_catalog_silver.product.|

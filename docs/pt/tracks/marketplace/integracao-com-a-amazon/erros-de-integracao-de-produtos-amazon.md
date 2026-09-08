@@ -52,7 +52,7 @@ Para resolver esse erro, [configure a Categoria global](/pt/tracks/configurar-in
 
   Em ambos os erros, a [Categoria Global VTEX](/pt/docs/tracks/envio-de-produtos-para-amazon) do produto selecionado pelo seller exige o cadastro obrigatório dos atributos Department ou Material no produto, e o  preenchimento da [planilha de mapeamento](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#4-planilha-de-mapeamento). [Cadastre](/pt/docs/tracks/cadastrar-produto) o atributo no produto e preencha a planilha conforme o exemplo abaixo:  
 
-| **CategoryID** | **VariationTheme** | **Type** | **VTEXSpecification** | **AmazonSpecification** | **VTEXValue** | **AmazonValue** |
+| CategoryID | VariationTheme | Type | VTEXSpecification | AmazonSpecification | VTEXValue | AmazonValue |
 |-----|-----|-----|-----|-----|-----|-----|
 | 3 |  | Information | Gênero | Department | Feminino | Female |
 

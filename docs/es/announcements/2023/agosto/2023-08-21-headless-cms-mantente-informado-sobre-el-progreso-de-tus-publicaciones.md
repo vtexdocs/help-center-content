@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Headless CMS (Legacy): mantente informado sobre el progreso de tus publicaciones'
 id: 3ajb4FgE6nmqjblpSEg3SP
 status: PUBLISHED

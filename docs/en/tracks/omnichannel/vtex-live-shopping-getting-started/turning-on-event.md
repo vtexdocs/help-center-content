@@ -35,8 +35,8 @@ Once the **Turn on** switch is enabled, you can close the page if you want. Note
 
 Once the event is turned on, all configurations become available for setup. In the **Details** section, you’ll see the following information:
 
-| **Field name** | **Description** |
-| :---: | :--- |
+| Field name | Description |
+| --- | --- |
 | ID | Event ID, its unique identifier. |
 | Event name | Name of the event. |
 | UTM source | [UTM source](/en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium) configured to track event data. |

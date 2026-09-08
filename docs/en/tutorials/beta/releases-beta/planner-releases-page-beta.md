@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Releases: Releases page (Beta)'
 id: 2p7IiVD6K8i1iRiwHph5sw
 status: PUBLISHED
@@ -33,7 +33,7 @@ Go to the **Releases** navigation menu to access the **Releases** page in the VT
 
 ![Releases list view v2 - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/releases-beta/planner-releases-page-beta_1.png)
 
-| **Field** | **Description** |
+| Field | Description |
 |---|---|
 | **Name** | Name that identifies the release, defined during the creation. It can be edited at any time, as long as the release is not published. |
 | **Last Modified** | Time elapsed since the last modification to the release. |

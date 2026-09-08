@@ -53,6 +53,8 @@ En el Admin VTEX, accede a **Catálogo > Stock > Gestión de stock**, o escribe 
 
 La cantidad total de ítems en la página **Gestión de stock** se actualiza en tiempo real, pero puede haber un retraso de hasta 1 hora para que la información aparezca en el [historial de movimientos](/es/docs/tutorials/historial-de-movimientos-del-stock).
 
+> ℹ️ El [registro de actualizaciones](/es/docs/tutorials/historial-de-movimientos-del-stock) muestra el movimiento de los últimos 90 días (3 meses), con un límite de 50 movimientos por SKU. Los movimientos anteriores a este período de tiempo no están disponibles.
+
 ### Filtros
 
 En la página **Gestión del stock**, para realizar una búsqueda en la barra, simplemente escribe el nombre o el ID de SKU y haz clic en <i class="fa-solid fa-magnifying-glass"></i> la lupa. Para utilizar los filtros, consulta los filtros disponibles:

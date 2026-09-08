@@ -20,7 +20,7 @@ Durante y después del desarrollo de una tienda es habitual que surjan dudas sob
 
 La siguiente tabla muestra los principales temas relacionados con el soporte técnico:
 
-| **Tema** | **Descripción**  | **Artículos** |
+| Tema | Descripción  | Artículos |
 |----------|------------------|---------------|
 | [VTEX IO](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#entorno-de-desarrollo)             | VTEX IO es una plataforma de desarrollo en la nube con enfoque low-code, que posibilita a los desarrolladores crear soluciones de ecommerce. El objetivo es ofrecer una forma más económica y eficiente de desarrollar soluciones e integraciones personalizadas dentro del ecosistema VTEX. | [What is VTEX IO?](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework)                                                 |
 | [Store Framework](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework)     | Store Framework es una tecnología VTEX para la construcción de storefronts low-code y centrada en la componibilidad. Permite combinar distintas aplicaciones de VTEX IO para montar un storefront. | [What is VTEX Store Framework?](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework)<br><br>  [VTEX IO FAQ](https://developers.vtex.com/docs/guides/vtex-io-documentation-frequently-asked-questions)  |

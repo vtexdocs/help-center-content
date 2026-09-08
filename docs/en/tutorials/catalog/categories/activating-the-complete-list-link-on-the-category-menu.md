@@ -22,12 +22,12 @@ Look at the following example, for "Departamento 2":
 
 ![categoria.en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/categories/activating-the-complete-list-link-on-the-category-menu_1.png)
 
-The store has preferred to show only a few of its many categories in the menu.
+The store has chosen to show only a few of its many categories in the menu.
 
 You can configure this when registering the category, selecting **Menu with active link**.
 
 - If it is checked, the category appears in the menu.
-- If it is not checked, the category does not appear and the Lista Completa option will appear on the site.
+- If it is not checked, the category does not appear and the Complete List option will appear on the site.
 
 ![categoria2.en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/categories/activating-the-complete-list-link-on-the-category-menu_2.png)
 

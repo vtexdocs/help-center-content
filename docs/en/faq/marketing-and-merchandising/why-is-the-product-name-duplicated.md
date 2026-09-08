@@ -16,7 +16,7 @@ legacySlug: why-is-the-product-name-duplicated
 
 “Duplicated name” means that the same information is being shown twice, for example: _Porta Canetas - Porta Caneta Azul._
 
-This effect is caused by an error in the product/SKU register. See below a detailed explanation about this problem and how to fix it.
+This effect is caused by an error in the product/SKU register. See below for a detailed explanation of this problem and how to fix it.
 
 Based on the product above, see the following example:
 
@@ -26,15 +26,15 @@ When the SKU name is identical to the Product name, the system does not display 
 - **SKU Name:** Porta Caneta
 - The system will show: Porta Caneta**s** - Porta Caneta
 
-The words “Caneta**s**” and “Caneta”, which are respectively the product name and the SKU name, are diferente.
+The words “Caneta**s**” and “Caneta”, which are respectively the product name and the SKU name, are different.
 For this reason, both names are displayed.
 
 ### How to fix it
 
 To fix it, just use exactly the same words for the product and the SKU:
 
-- If the **Product Name **is: Porta Canetas
-- and the **SKU Name **is: Porta Canetas
+- If the **Product Name** is: Porta Canetas
+- and the **SKU Name** is: Porta Canetas
 - The system will show: Porta Canetas
 
 Or use only the product name complement in the SKU name:

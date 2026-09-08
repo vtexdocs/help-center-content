@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
 
-> ⚠️ Este articulo explica cómo configurar la opción **Avísame** en las tiendas que usan [CMS Portal (Legado)](/es/docs/tracks/cms-portal-legado). En las tiendas que usan [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), la configuración se debe hacer siguiendo los pasos de la guía [Availability Notify](https://developers.vtex.com/vtex-developer-docs/docs/vtex-availability-notify).
+> ⚠️ Este articulo explica cómo configurar la opción **Avísame** en las tiendas que usan [CMS Portal (Legado)](/es/docs/tracks/cms-portal-legado). En las tiendas que usan [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), la configuración se debe hacer siguiendo los pasos de la guía [Availability Notify](https://developers.vtex.com/docs/apps/vtex.availability-notify).
 
 Cuando no hay [stock](/es/docs/tutorials/gestionar-items-en-inventario) de un producto, el administrador de la tienda puede optar por ofrecer al cliente la opción **Avísame**. Esta funcionalidad permite que los clientes interesados en un producto reciban una notificación por email cuando el ítem vuelva a estar disponible.
 
@@ -23,19 +23,20 @@ A continuación, puedes ver un ejemplo de cómo se visualiza la opción **Avísa
 
 ![aviseme-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/configuración-de-gestión-de-pedidos/configurar-la-opcion-avisame_1.png)
 
-En cuanto el ítem ingrese de nuevo al stock de la tienda, el sistema envía automáticamente un email al cliente informándo le que el producto ya está disponible para la compra. 
+En cuanto el ítem ingrese de nuevo al stock de la tienda, el sistema envía automáticamente un email al cliente informándo le que el producto ya está disponible para la compra.
 
 En este artículo, describiremos en detalle las configuraciones necesarias para habilitar la opción **Avísame**:
 
-* [Mostrar la opción Avísame](#mostrar-la-opcion-avisame)
-* [Configurar la plantilla de la página de producto](#configurar-la-plantilla-de-la-pagina-de-producto)
-* [Configurar la plantilla del email de notificación](#configurar-la-plantilla-del-email-de-notificacion)
+- [Mostrar la opción Avísame](#mostrar-la-opción-avísame)
+  - [Configurar la plantilla de la página de producto](#configurar-la-plantilla-de-la-página-de-producto)
+- [Configurar la plantilla del email de notificación](#configurar-la-plantilla-del-email-de-notificación)
+- [Más información](#más-información)
 
 ## Mostrar la opción Avísame
 
 Para activar la opción **Avísame**, sigue las instrucciones a continuación:
 
-1. En el Admin VTEX, accede a **Configuración de la tienda > Storefront > Configuración**, o escribe *Storefront* en la barra de búsqueda en la parte superior de la página, y haga clic en *Configuración de la tienda / Storefront*. 
+1. En el Admin VTEX, accede a **Configuración de la tienda > Storefront > Configuración**, o escribe *Storefront* en la barra de búsqueda en la parte superior de la página, y haga clic en *Configuración de la tienda / Storefront*.
 2. Haz clic en la pestaña **General**.
 3. Selecciona la opción <a class="far fa-check-square"></a> **Mostrar «Avísame» cuando esté fora de stock**.
 4. Haz clic en `Guardar`.
@@ -60,7 +61,7 @@ A continuación, es necesario configurar la plantilla de la página de producto 
 
 Para configurar la plantilla del email de **Avísame** que recibirá el cliente, sigue las instrucciones a continuación.
 
-1. En el Admin VTEX, accede a **Configuración de la tienda > Plantillas de email > Plantillas**, o escribe **Plantillas** en la barra de búsqueda en la parte superior de la página. 
+1. En el Admin VTEX, accede a **Configuración de la tienda > Plantillas de email > Plantillas**, o escribe **Plantillas** en la barra de búsqueda en la parte superior de la página.
 2. Busca la frase «Let me know».
 3. Selecciona la plantilla **Let me know**.
 4. Accede al cuadro de texto **HTML** y edita el código como quieras.
@@ -68,6 +69,6 @@ Para configurar la plantilla del email de **Avísame** que recibirá el cliente,
 
 ## Más información
 
-* [Exportar los clientes registrados en la notificación de disponibilidad (Avísame)](/es/docs/tutorials/exportar-los-clientes-registrados-en-la-notificacion-de-disponibilidad)
-* [Insertar imágenes en el email de Avísame](/es/docs/tutorials/insertar-imagenes-en-el-email-de-avisame)
-* [Qué hacer cuando no aparece la opción Avísame](/es/faq/que-hacer-cuando-no-aparece-la-opcion-avisame)
+- [Exportar los clientes registrados en la notificación de disponibilidad (Avísame)](/es/docs/tutorials/exportar-los-clientes-registrados-en-la-notificacion-de-disponibilidad)
+- [Insertar imágenes en el email de Avísame](/es/docs/tutorials/insertar-imagenes-en-el-email-de-avisame)
+- [Qué hacer cuando no aparece la opción Avísame](/es/faq/que-hacer-cuando-no-aparece-la-opcion-avisame)

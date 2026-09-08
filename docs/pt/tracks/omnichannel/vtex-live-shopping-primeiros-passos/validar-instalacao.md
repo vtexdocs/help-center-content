@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Validar instalação'
 id: 1le8tz3fyBdb7kR4UdxTjZ
 status: PUBLISHED

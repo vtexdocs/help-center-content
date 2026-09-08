@@ -27,6 +27,6 @@ Una presencia estratégica en Facebook garantiza una mayor visibilidad de su tie
 
 Antes de continuar con los pasos de configuración de la integración, debe crear una [cuenta en Facebook](https://www.facebook.com/) y una [cuenta en el Administrador Comercial](https://business.facebook.com/business/help/1710077379203657?id=180505742745347).
 
-|**SEPA MÁS** |
+|SEPA MÁS |
 | ---------- |
 | Si desea más información sobre las ventajas y condiciones de uso, lea el artículo de Facebook acerca del [Administrador Comercial](https://business.facebook.com/business/help/113163272211510?id=180505742745347&recommended_by=1910428752389787). |

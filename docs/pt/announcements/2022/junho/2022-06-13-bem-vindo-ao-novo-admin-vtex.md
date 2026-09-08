@@ -68,7 +68,7 @@ Além de reorganizar a ordem das páginas, também mudamos alguns nomes do menu 
 #### Nomes das páginas
 
 |         Antes        |                      Agora                      |
-|:--------------------:|:-----------------------------------------------:|
+|--------------------|-----------------------------------------------|
 | Políticas comerciais | Canais de vendas                                |
 | Central de mensagens | Templates de e-mail                             |
 | Início               | Visão geral                                     |

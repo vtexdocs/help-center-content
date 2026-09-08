@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Setting up the Notify me option'
 id: 2VqVifQuf6Co2KG048Yu6e
 status: PUBLISHED
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
 
-> ⚠️ This article explains how to set up the **Notify me** feature in stores that use [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal). For stores using [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), the setup follows the steps described in the [Availability Notify](https://developers.vtex.com/vtex-developer-docs/docs/vtex-availability-notify) guide.
+> ⚠️ This article explains how to set up the **Notify me** feature in stores that use [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal). For stores using [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), the setup follows the steps described in the [Availability Notify](https://developers.vtex.com/docs/apps/vtex.availability-notify) guide.
 
 When a product is out of [stock](/en/docs/tutorials/managing-stock-items), the retailer may choose to make the **Notify me** feature available to the customer. This feature allows interested customers to be notified by email when the item is available again.
 
@@ -23,13 +23,14 @@ See below an example of how the **Notify me** option is displayed in a store. To
 
 ![aviseme-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-management-settings/setting-up-the-notify-me-option_1.png)
 
-As soon as the item is back in stock, the system automatically sends an email to the customer informing them that the product is available for purchase again. 
+As soon as the item is back in stock, the system automatically sends an email to the customer informing them that the product is available for purchase again.
 
 In this article, we will go through the necessary steps for setting up the **Notify me** feature:
 
-* [Displaying the "Notify me" option](#displaying-the-notify-me-option)
-* [Setting up the product page template](#setting-up-the-product-page-template)
-* [Setting up the notification email template](#setting-up-the-notification-email-template)
+- [Displaying the "Notify me" option](#displaying-the-notify-me-option)
+  - [Setting up the product page template](#setting-up-the-product-page-template)
+- [Setting up the notification email template](#setting-up-the-notification-email-template)
+- [Learn more](#learn-more)
 
 ## Displaying the "Notify me" option
 
@@ -61,14 +62,13 @@ Next, you must set up the product page template for displaying the **Notify me**
 To set up the **Notify me** template for the emails which will be sent to the customers, follow the instructions below.
 
 1. In the VTEX Admin, go to **Store Settings > Email Templates > Templates**, or type **Templates** in the search bar at the top of the page.
-3. Type "Let me know" in the search field.
-4. Select the **Let me know** template.
-5. Go to the **HTML** text box and edit the code as you want.
-6. Click `Save`.
+2. Type "Let me know" in the search field.
+3. Select the **Let me know** template.
+4. Go to the **HTML** text box and edit the code as you want.
+5. Click `Save`.
 
 ## Learn more
 
-* [Exporting customers who signed up for the availability notification (Notify me)](/en/docs/tutorials/exporting-customers-who-signed-up-for-the-availability-notification-notify-me)
-* [Inserting images in the "Notify me" email](/en/docs/tutorials/inserting-images-into-let-me-know-email)
-* [What to do when the "Notify me" option is not displayed](/en/faq/what-to-do-when-the-notify-me-option-is-not-displayed)
-
+- [Exporting customers who signed up for the availability notification (Notify me)](/en/docs/tutorials/exporting-customers-who-signed-up-for-the-availability-notification-notify-me)
+- [Inserting images in the "Notify me" email](/en/docs/tutorials/inserting-images-into-let-me-know-email)
+- [What to do when the "Notify me" option is not displayed](/en/faq/what-to-do-when-the-notify-me-option-is-not-displayed)

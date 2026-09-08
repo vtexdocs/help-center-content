@@ -88,7 +88,7 @@ In the image below, option A shows the original colors and option B shows one po
 
 The code below must be added at the end of the `checkout5-custom.css` or `checkout6-custom.css` file, available for customization in *Store Settings > Checkout > Code*. The file that should be edited depends on the version of the Checkout used by your store.
 
-> ❗ **Warning:** Errors in the checkout customization can break your customers’ purchase flow. If you do not understand the code below, ask your technical team for help.
+> ❗ Errors in the checkout customization can break your customers’ purchase flow. If you do not understand the code below, ask your technical team for help.
 
 Then change the properties in the CSS code according to your needs.
 

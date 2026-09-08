@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Gerenciando content types do tipo Singleton'
 id: VBibMN1BqV2OFmavUFCdo
 status: PUBLISHED

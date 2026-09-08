@@ -1,5 +1,5 @@
 ---
-title: 'Aprender a usar a plataforma Indeva'
+title: 'Indeva by VTEX'
 id: 2u5FZs01MIY53ODagxa2TQ
 status: PUBLISHED
 createdAt: 2025-10-01T12:00:49.183Z
@@ -13,6 +13,7 @@ slugEN: learn-to-use-platform-indeva
 legacySlug: aprender-a-usar-a-plataforma-indeva
 locale: pt
 subcategoryId: 7gZy4EMwjWMuWGNI9j9Dyt
+categoryCover: true
 ---
 
 Gestores e equipes que estão começando a utilizar a plataforma **Indeva** encontram aqui vídeos introdutórios que explicam as principais funcionalidades e demonstram como aplicá-las para impulsionar a operação da loja.

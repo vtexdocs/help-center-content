@@ -52,7 +52,7 @@ El informe financiero está en formato **CSV** y muestra varias columnas que det
 ### Filtros y cálculos del GMV de transacciones
 Utiliza la función `=SUMAR.SI` (SUMIF) en Excel para calcular el total de pedidos en diferentes casos:
 
-| **Tipo de ingresos**                           | **Filtros aplicados**                                                | **Columna sumada**                | **Descripción**                                                                                                    |
+| Tipo de ingresos                           | Filtros aplicados                                                | Columna sumada                | Descripción                                                                                                    |
 |------------------------------------------------|----------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | Marketplace certificado                        | `IsCertifiedMarketplace (Q) = Verdadero (T)`                         | `Value STR (G)` o `Value (F)`     | `Value STR` contiene el valor de cada pedido en formato 00,00 y `Value (F)` contiene los valores en formato 00.00. |
 | Seller externo<br>                             | `IsExternalSeller (S) = Verdadero (T)`                               | `Value STR (G)` o `Value (F)`     | `G` y `F` indican la columna utilizada para la suma.                                                               |

@@ -47,7 +47,7 @@ La página **Catálogo > Categorías** del Admin VTEX te permite gestionar el á
 
 En la fase beta utilizaremos una nueva nomenclatura para los siguientes términos:
 
-| **Nombre actual** | **Nombre en beta** |
+| Nombre actual | Nombre en beta |
 | --- | --- |
 | [Especificaciones de producto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacion-de-producto) | Atributos |
 | [Especificaciones de SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacao-de-sku) | Variaciones |
@@ -267,8 +267,8 @@ Se mostrará un mensaje de confirmación *Atributo actualizado*.
 
 Los atributos y sus valores pueden tener dos status de activación según se describe en la siguiente tabla:
 
-| **Status** | **Atributo** | **Atributo** | **Color de ícono** |
-| :---: | :--- | :--- | :---: |
+| Status | Atributo | Atributo | Color de ícono |
+| --- | --- | --- | --- |
 | Activo | El atributo puede reflejarse en el storefront y muestra únicamente los valores activados. | El valor del atributo puede reflejarse en el storefront desde el momento en que se active el atributo. | 🟢 Verde |
 | Inactivo | El atributo no se refleja en el storefront, independientemente del status de los valores. | El valor del atributo no se refleja en el storefront, independientemente del status del atributo. | ⚪ Blanco |
 
@@ -341,8 +341,8 @@ Se mostrará un mensaje de confirmación *Variación actualizada*.
 
 Los atributos de activación y sus valores de variación pueden tener dos status según se describe en la siguiente tabla:
 
-| **Status** | **Variación** | **Valor de la variación** | **Color de ícono** |
-| :---: | :--- | :--- | :---: |
+| Status | Variación | Valor de la variación | Color de ícono |
+| --- | --- | --- | --- |
 | Activo | La variación se refleja en el storefront y muestra únicamente los valores activados. | El valor de la variación puede reflejarse en el storefront desde el momento en que se active la variación. | 🟢 Verde |
 | Inactivo | La variación no se refleja en el storefront, independientemente del status de los valores. | El valor de la variación no se refleja en el storefront, independientemente del status de la variación. | ⚪ Blanco |
 

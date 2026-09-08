@@ -27,8 +27,8 @@ Este artigo orienta como desativar um produto ou SKU e está dividido nas seguin
 
 Tanto o produto quanto o SKU podem ter status ativo ou inativo, conforme apresentado na tabela abaixo:
 
-| **Status do produto ou SKU** | **Descrição** |
-| :---: | :--- |
+| Status do produto ou SKU | Descrição |
+| --- | --- |
 | Ativo | O produto ou SKU foi habilitado como ativo, demonstrando que o lojista deseja vendê-lo na frente de loja.A venda do produto ou SKU depende da sua ativação e disponibilidade. Para mais informações sobre a disponibilidade de produto, veja os artigos [Produtos e SKUs](/pt/docs/tutorials/produtos-e-skus#acompanhar-disponibilidade-de-produtos) e [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site). |
 | Inativo | O produto ou SKU foi desativado, demonstrando que no momento o lojista não deseja apresentá-lo na frente de loja para vendas. |
 

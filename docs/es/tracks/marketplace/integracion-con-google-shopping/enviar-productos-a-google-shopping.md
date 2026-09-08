@@ -39,7 +39,7 @@ Puedes verificar si un SKU específico se ha indexado correctamente en la polít
 
 Consulta a continuación los mensajes de cada status de indexación:  
 
-| **Status** | **Tipo de mensaje** |
+| Status | Tipo de mensaje |
 |---|---|
 | SKU indexados | Sku: 70 - tenis amarillos variación Sales Channel: 1 Sku: 70 Price: 1740.00 Stock: 1 Quantity Sold last month SalesChannel: 1, Sales: 0 |
 | SKU no indexados | Sku: 112 - tenis azules variación Sales Channel: 1 Sku: 112 Sku is UNAVAILABLE - check price and stock, Checkout Info: Code: withoutStock \| Status:error \| Message: el ítem Tenis Action - Masculino - Marino/plateado tenis amarillos variación sin stock Quantity Sold last month SalesChannel: 1, Sales: -1 |
@@ -60,7 +60,7 @@ Algún producto podrá mostrar el error Insertion error: Ineligible SKU. Este me
 
 En algunas circunstancias el rechazo del producto sucede después de que se ha considerado como activo. A veces esto ocurre cuando una cuenta ha sido creada recientemente.
 
-| **SEPA MÁS** |
+| SEPA MÁS |
 | ---------- |
 |Vea otras razones para el rechazo de productos en el artículo de Google [Información sobre el rechazo de productos debido a infracciones de calidad de los datos de producto.](https://support.google.com/merchants/answer/9227009?hl=es-419)|
 
@@ -88,8 +88,8 @@ Debes crear las *etiquetas personalizadas* en Google Merchant Center. Después d
 
 Al crear un nuevo campo de especificación, completa los valores de la siguiente manera:  
 
-| **Campo** | **Valor** |
-|:---: | :---: |
+| Campo | Valor |
+|--- | --- |
 | Nombre del campo de la especificación | `googleshopping-labels`|
 |Tipo de campo | Radio |
 

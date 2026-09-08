@@ -25,7 +25,7 @@ symptomFilters:
 
 Las instrucciones a continuación te ayudarán a resolver estos problemas en Site Editor.
 
-| **Problema** | **Descripción** | **Instrucciones para resolver el problema** |
+| Problema | Descripción | Instrucciones para resolver el problema |
 | ------------ | ------------- | ----------------------------------------- |
 | [Site Editor no abre](#site-editor-no-abre) | La página Site Editor muestra una pantalla en blanco o el mensaje `Se produjo un error`. | - [Comprueba la integración de búsqueda](#comprobar-la-integracion-de-busqueda).<br> - [Comprueba la configuración del inquilino (solo cuentas nuevas)](#comprobar-la-configuración-del-inquilino-solo-cuentas-nuevas). |
 | [No puedo gestionar el contenido de mi tienda en Site Editor](#no-puedo-gestionar-el-contenido-de-mi-tienda-en-site-editor) | No se puede editar, guardar o borrar contenido en Site Editor. | - [Comprueba si el rol de usuario tiene los permisos necesarios](#comprobar-si-el-rol-de-usuario-tiene-los-permisos-necesarios).<br> - [Comprueba la región principal del dominio](#comprobar-la-region-principal-del-dominio). |

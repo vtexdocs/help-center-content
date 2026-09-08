@@ -19,7 +19,7 @@ When a contact sends a message containing a previously defined keyword to initia
 
 However, if you prefer to keep contacts in a flow until they complete it or until the flow expires, you can configure the system to ignore keywords while the contact is active in the first flow.
 
-To configure a flow to ignore triggers and keywords while a contact is still participating, simply adjust the settings accordingly.
+To configure a flow to ignore triggers and keywords while a contact is still participating, adjust the settings accordingly.
 
 - Access the Flows module and click on the flow you want to perform this action.
 

@@ -13,6 +13,7 @@ slugEN: live-shopping
 legacySlug: live-shopping
 locale: pt
 subcategoryId: 6cSdymcqmJQIWXQKB1XJ54
+categoryCover: true
 ---
 
 O aplicativo Live Shopping permite que as empresas interajam com seus clientes em tempo real por meio de transmissões ao vivo no site da loja. O aplicativo é compatível com dispositivos móveis e desktop.

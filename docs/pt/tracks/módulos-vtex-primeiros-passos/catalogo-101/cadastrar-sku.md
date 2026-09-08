@@ -60,7 +60,7 @@ Após o cadastro dos SKUs é necessário adicionar as imagens para torná-los at
 2. Clique em **Importação e exportação**.
 3. Clique na aba **Importar imagens**.
 4. Clique na palavra **aqui** para baixar a planilha modelo. A planilha estará no formato que o sistema aceita, evitando problemas na importação.
-5. Ao receber a planilha por email, preencha os campos. Para entender melhor o significado de cada campo, acesse nosso artigo [sobre importar imagens por planilha](/pt/docs/tutorials/importando-imagens-por-planilha).
+5. Ao receber a planilha por email, preencha os campos. Para entender melhor o significado de cada campo, acesse nosso artigo [sobre importar imagens por planilha](/pt/docs/tutorials/importar-e-exportar-imagens-de-produtos-e-skus-via-planilha).
 6. Após preencher a planilha, clique em **Selecionar arquivo**.
 7. Selecione o arquivo desejado e clique em **Abrir**.
 8. Clique em **Importar**.

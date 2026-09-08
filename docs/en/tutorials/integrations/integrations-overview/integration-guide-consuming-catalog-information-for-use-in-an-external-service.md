@@ -81,7 +81,7 @@ __Example of response__:
 
 ### 2 - Get the data about SKU properties
 
-Using the IDs of the SKUs obtained in the previous request, you should do a `GET` on the route `http://{{accountName}}.vtexcommercestable.com.br/api/catalog_system/pvt/sku/stockkeepingunitbyid/{{skuId}}` to get information about the properties of the SKUs. The response of this request will return the information that characterizes the SKU, such as __Name __, __Brand__, __Category__, __Collections__, __Image__, if the SKU is __Active or Inactive__ and __Sales Channels__, for example. Pricing and inventory information are not yet available in this step.
+Using the IDs of the SKUs obtained in the previous request, you should do a `GET` on the route `http://{{accountName}}.vtexcommercestable.com.br/api/catalog_system/pvt/sku/stockkeepingunitbyid/{{skuId}}` to get information about the properties of the SKUs. The response of this request will return the information that characterizes the SKU, such as __Name__, __Brand__, __Category__, __Collections__, __Image__, if the SKU is __Active or Inactive__ and __Sales Channels__, for example. Pricing and inventory information are not yet available in this step.
 
 __API Parameters__:
 

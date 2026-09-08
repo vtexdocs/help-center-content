@@ -21,7 +21,7 @@ El soporte VTEX se presta online y permite abrir tickets con distintos niveles d
 - Inicio de sesión usando la cuenta de Google.
 - Email y contraseña con autenticación de dos factores mediante aplicación o SMS.
 
-> ⚠️ Para obtener la autorización de autenticación, el [usuario](/es/docs/tutorials/gestionar-usuarios-administrativos) [rol](/es/docs/tutorials/roles) asociado con [recursos de License Manager.](/es/docs/tutorials/recursos-del-license-manager)
+> ⚠️ Para obtener la autorización de autenticación, el [usuario](/es/docs/tutorials/gestionar-usuarios-administradores) [rol](/es/docs/tutorials/roles) asociado con [recursos de License Manager.](/es/docs/tutorials/recursos-del-license-manager)
 
 El Soporte de VTEX es global y sigue un modelo estandarizado de atención, con criterios unificados de disponibilidad, prioridad y nivel de servicio (SLA) aplicables a todos los clientes atendidos por VTEX.  
 
@@ -29,7 +29,7 @@ Para más información, consultá el artículo [Recursos de Soporte Global de VT
 
 La tabla a continuación ofrece una visión general de los principales artículos del Help Center por región:
 
-| **Región**     | **Artículo del Help Center**    |
+| Región     | Artículo del Help Center    |
 |----------------|---------------------------------|
 | Global         | **Artículo:** [¿Cómo funciona el soporte de VTEX?](/es/docs/tutorials/como-funciona-el-soporte-de-vtex)<br.<br>Presenta cómo funciona el soporte a nivel global, incluyendo la gestión de tickets, planes regionales, encuesta de satisfacción y servicios como monitoreo y recursos disponibles como Help Center, Developer Portal y anuncios de actualizaciones de la plataforma. |
 | Solo Brasil    | **Articulo:** [Soporte VTEX - Brasil](/es/tutorial/vtex-support-brazil--bxOl9e62rq0ZZMsGodchd)<br><br>  Presenta la disponibilidad, el SLA y los recursos disponibles para clientes en Brasil. |

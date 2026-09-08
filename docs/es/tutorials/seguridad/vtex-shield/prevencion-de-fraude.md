@@ -39,7 +39,7 @@ La página contiene los siguientes indicadores:
 La tabla **Historial de detecciones** muestra los detalles de los intentos analizados:
 
 | Columna | Descripción |
-| :---- | :---- |
+| ---- | ---- |
 | ID del intento de transacción | Identificador único del intento de pago generado por la plataforma. |
 | Hora de inicio | Fecha y hora en que se inició el intento de transacción. |
 | Valor | Valor total de la transacción. |

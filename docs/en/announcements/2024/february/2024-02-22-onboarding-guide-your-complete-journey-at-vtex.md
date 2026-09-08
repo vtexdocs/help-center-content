@@ -68,8 +68,8 @@ We organized the **Onboarding guide** to provide autonomy for our clients. Here 
 
 We hope this content contributes to the success of your business and your satisfaction with VTEX.
 
-|  | **Onboarding guide** |  |
-| :---: | :---: | :---: |
+|  | Onboarding guide |  |
+| --- | --- | --- |
 | Part I | Part II | Part III |
 | [VTEX store overview](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9) | [Next steps after the go-live](/en/tracks/next-steps-after-the-go-live--3J7WFZyvTcoiwkcIVFVhIS) | [Support at VTEX](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy) |
 

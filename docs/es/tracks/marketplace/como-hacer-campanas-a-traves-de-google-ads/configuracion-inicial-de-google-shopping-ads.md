@@ -27,7 +27,7 @@ En este paso, se debe configurar qué tienda utilizará el app y para cuál URL 
 1. En la opción `Tienda`, seleccione el sub-account que deberá utilizarse para el app;
 2. En la opción `URL`, seleccione la URL correspondiente al sitio web de la cuenta que haya elegido en el paso anterior.
 
-> ⚠️ **OBS:</ strong> asegúrese de que la URL elegida es la correcta, ya que las opciones mostrarán cualquier URL que esté registrada en [sus dominios](/es/docs/tutorials/configurar-dominio-de-la-tienda). <strong>Generalmente la URL usada es que la tiene WWW**.
+> ⚠️ Asegúrese de que la URL elegida es la correcta, ya que las opciones mostrarán cualquier URL que esté registrada en [sus dominios](/es/docs/tutorials/configurar-dominio-de-la-tienda). Generalmente la URL usada es que la tiene WWW.
 
 ## Definiendo la cuenta en Google Merchant Center
 
@@ -71,7 +71,7 @@ Estas son:
 
 En este caso, VTEX Shopping Ads utiliza la cuenta que el usuario ya tiene en Google Ads. Debido a esto, se mantienen tanto las configuraciones de las campañas como la forma de pago.
 
-Ahora, al seleccionar esta opción, el administrador de la tienda debe iniciar sesión con un correo electrónico que tenga acceso administrativo a la cuenta de Google Ads. A continuación, debe seleccionar el Id de la cuenta que el usuario desea asociar con VTEX Shopping Ads. Finalmente, haga clic en __ "Continuar"__.
+Ahora, al seleccionar esta opción, el administrador de la tienda debe iniciar sesión con un correo electrónico que tenga acceso administrativo a la cuenta de Google Ads. A continuación, debe seleccionar el Id de la cuenta que el usuario desea asociar con VTEX Shopping Ads. Finalmente, haga clic en __"Continuar"__.
 
 ### Crear nueva
 

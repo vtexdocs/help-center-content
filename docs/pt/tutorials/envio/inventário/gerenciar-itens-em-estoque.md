@@ -53,6 +53,8 @@ No Admin VTEX, acesse **Catálogo > Inventário > Gerenciamento de inventário**
 
 A quantidade total de itens na página **Gerenciamento de inventário** é atualizada em tempo real, mas pode haver um atraso de até 1 hora para a informação aparecer no [registro de atualizações](/pt/docs/tutorials/historico-de-movimentacoes-do-inventario).
 
+> ℹ️ O [registro de atualizações](/pt/docs/tutorials/historico-de-movimentacoes-do-inventario) exibe as movimentações dos últimos 90 dias (3 meses), respeitando o limite de 50 movimentações por SKU. Movimentações anteriores a esse período não ficam disponíveis para consulta.
+
 ### Filtros de busca
 
 Na **Gerenciamento de inventário**, para realizar uma busca pela barra, basta digitar o nome ou o ID do SKU e clicar na lupa <i class="fa-solid fa-magnifying-glass"></i>. Para utilizar os filtros, veja os filtros disponíveis:

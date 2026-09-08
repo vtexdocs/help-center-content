@@ -25,7 +25,7 @@ Para configurar un banner, sigue estos pasos:
 
 Después de configurar el banner, debes agregarlo a una página de tu tienda. Para ello, sigue los pasos del artículo [Banner](https://developers.vtex.com/docs/apps/vtex.search/banner).
 
-> ℹ️  Esta funcionalidad está disponible en VTEX Intelligent Search Multidioma. Lea nuestro artículo [VTEX Intelligent Search: configuración Multidioma (Beta)](/es/docs/tutorials/vtex-intelligent-search-configuracion-multidioma-beta#banners)para saber más.
+> ℹ️  Esta funcionalidad está disponible en VTEX Intelligent Search Multidioma. Lea nuestro artículo [VTEX Intelligent Search: configuración Multidioma](/es/docs/tutorials/vtex-intelligent-search-configuracion-multidioma#banners)para saber más.
 
 ![banner-form-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/banners/configurar-banners_1.png)
 
@@ -50,7 +50,7 @@ Para registrar el banner, debes rellenar los siguientes campos:
 * **Hora de inicio:** hora en la que el banner comenzará a estar disponible.
 * **Fecha de fin:** fecha en la que el banner dejará de estar disponible. Esto permite al administrador programar futuras campañas, lo que facilita su control.
 * **Hora de fin:** hora en la que el banner dejará de estar disponible.
-* **Idiomas:** idiomas en los que se aplicará el banner. Campo solo disponible para tiendas que utilizan [configuración multidioma (beta)](/es/docs/tutorials/vtex-intelligent-search-configuracion-multidioma-beta).
+* **Idiomas:** idiomas en los que se aplicará el banner. Campo solo disponible para tiendas que utilizan [configuración multidioma](/es/docs/tutorials/vtex-intelligent-search-configuracion-multidioma).
 
 ### Reglas de activación
 

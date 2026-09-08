@@ -1,4 +1,4 @@
-﻿---
+---
 title: "I can't index a product in the catalog"
 id: 5ZKLTqnCyGbWEYGPTCBIxI
 status: PUBLISHED

@@ -1,5 +1,5 @@
 ---
-title: 'How to define the URL for a product page?'
+title: 'Defining the URL for a product page'
 id: frequentlyAskedQuestions_368
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:53.153Z
@@ -17,7 +17,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 The URL of a product page is the electronic address that allows accessing this page on the Internet. Creating a friendly and optimized URL is crucial to make it easily findable by search engines and simplify your customer's experience on your ecommerce website.
 
-The VTEX URL structure for a product page is composed of the store domain plus the value of the required **textLink** field when [adding a product](/en/docs/tutorials/adding-or-editing-products), plus `/p`, which stands for "product." For example: If the textLink field for a given product is populated with `polo-shirt` in a store with the domain `storename.com`, the URL's final structure will be `storename.com/polo-shirt`.
+The VTEX URL structure for a product page is composed of the store domain plus the value of the required **textLink** field when [adding a product](/en/docs/tutorials/adding-or-editing-products), plus `/p`, which stands for "product." For example: If the textLink field for a given product is populated with `polo-shirt` in a store with the domain `storename.com`, the URL's final structure will be `storename.com/polo-shirt/p`.
 
 You can change the **textLink** of existing products anytime in the VTEX Admin, under **Catalog > All products > Edit**. We recommend filling in the field **textLink** with the product's name, using only the main keywords related to it.
 

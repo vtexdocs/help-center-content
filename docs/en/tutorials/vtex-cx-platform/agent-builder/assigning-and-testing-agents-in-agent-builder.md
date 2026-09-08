@@ -76,7 +76,7 @@ In the **Test your agents** section, you can:
 To search for specific events, click `Filter logs` and search by keywords or the following categories:
 
 | Category | Step description |
-| --- | :--- |
+| --- | --- |
 | Applying security rules | Security check of content, including protection of sensitive data, blocking of prohibited content, and enforcement of usage policies. |
 | Assigning task to the agent | Defines the specialized agent or internal resource that will handle a step in the conversation. |
 | Knowledge | Queries the knowledge base, such as documentation, Help Center articles, or internal content, to search for official information before responding. |

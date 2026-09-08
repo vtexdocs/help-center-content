@@ -53,8 +53,8 @@ En este artículo, describimos los siguientes errores:
 
   En ambos errores, la [categoría global VTEX](/es/docs/tracks/envio-de-productos-a-amazon) del producto seleccionado por el seller requiere el registro obligatorio de los atributos **Department** o **Material** en el producto y que se rellenen en la [plantilla de mapeo](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#4-planilha-de-mapeamento). [Registra](/es/docs/tracks/especificaciones-definicion-de-concepto) el atributo en el producto y rellena la plantilla según el ejemplo a continuación:
 
-|**CategoryID**|**VariationTheme**|**Type**|**VTEXSpecification**|**AmazonSpecification**|**VTEXValue**|**AmazonValue**|
-| :- | :- | :- | :- | :- | :- | :- |
+|CategoryID|VariationTheme|Type|VTEXSpecification|AmazonSpecification|VTEXValue|AmazonValue|
+| - | - | - | - | - | - | - |
 |3||Information|Género|Department|Femenino|Female|
 
 - **No se cargó la plantilla de mapeo de categorías y atributos**

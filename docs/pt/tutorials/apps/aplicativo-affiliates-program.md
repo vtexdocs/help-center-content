@@ -32,7 +32,7 @@ O aplicativo cria dois grupos de página após ser instalado em seu ambiente VTE
 
 O aplicativo cria três tipos de páginas para os afiliados, que dispõem delas sem precisar de qualquer acesso ao Admin VTEX da sua loja, conforme indicado na tabela abaixo:
 
-| **Tipo**                         | **URL**                                              |
+| Tipo                         | URL                                              |
 | -------------------------------- | ---------------------------------------------------- |
 | Página do afiliado               | `{storeName.com}/affiliates/{affiliateSlug}`         |
 | Página de perfil do afiliado     | `{storeName.com}/affiliates/{affiliateSlug}/profile` |

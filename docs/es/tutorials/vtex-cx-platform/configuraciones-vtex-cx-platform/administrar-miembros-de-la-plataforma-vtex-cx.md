@@ -1,18 +1,11 @@
 ---
-title: "Gestionar miembros de VTEX CX Platform"
-id: 
-status: PUBLISHED
+title: 'Gestionar miembros de VTEX CX Platform'
 createdAt: 2026-06-17T00:00:00.000Z
 updatedAt: 2026-06-17T00:00:00.000Z
-publishedAt: 2026-06-17T00:00:00.000Z
-firstPublishedAt: 2026-06-17T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: manage-vtex-cx-platform-members
-legacySlug: administrar-miembros-de-la-plataforma-vtex-cx
+slugEN: managing-vtex-cx-platform-members
 locale: es
-subcategoryId: 119WfAe6xGl5c0S1hLdHRQ
 ---
 
 Este artículo explica cómo agregar, eliminar y modificar permisos de miembros en organizaciones y proyectos en VTEX CX Platform.

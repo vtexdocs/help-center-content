@@ -13,6 +13,7 @@ slugEN: shipping-simulation
 legacySlug: simulacao-de-frete
 locale: pt
 subcategoryId: 1O8AEORWOcgIiMosGoousQ
+categoryCover: true
 ---
 
 O **Simulador de envio** está disponível no Admin VTEX para simular e analisar as opções de entrega disponíveis. A simulação verifica as condições de entrega dando ao lojista a capacidade de verificar disponibilidade de itens, formas de entrega, custos e prazos. 
@@ -23,7 +24,7 @@ O simulador pode ser utilizado também para validar as configurações das  **[E
 
 * **Disponibilidade de Sellers White Label:** o simulador seleciona o franqueado mais próximo ao endereço de entrega (a configuração logística é calculada através do ambiente do _Seller White Label_, e não no Main Account).
 
-> ⚠️ Pode haver divergência entre o preço final apontado pelo simulador, e o preço real em sua loja, visto que a simulação não leva em consideração: <body> <ul> <li>Promoções aplicadas àqueles itens.</li> <li>Descontos de frete configurados através de promoções.</li> <li>O Prazo de Entrega Total apresentado no resultado da simulação não considera o campo **Data Previsão Chegada (pré-venda)** [do cadastro do item.](/pt/docs/tutorials/adicionar-ou-editar-sku)</li> </ul></body>
+> ⚠️ Pode haver divergência entre o preço final apontado pelo simulador, e o preço real em sua loja, visto que a simulação não leva em consideração: <ul> <li>Promoções aplicadas àqueles itens.</li> <li>Descontos de frete configurados através de promoções.</li> <li>O Prazo de Entrega Total apresentado no resultado da simulação não considera o campo **Data Previsão Chegada (pré-venda)** [do cadastro do item.](/pt/docs/tutorials/adicionar-ou-editar-sku)</li> </ul>
 
 Nesse artigo contém:
 

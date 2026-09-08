@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Adicionar componente do Live Shopping'
 id: 4r5uk6XHxdYlOGMr11GFWR
 status: PUBLISHED

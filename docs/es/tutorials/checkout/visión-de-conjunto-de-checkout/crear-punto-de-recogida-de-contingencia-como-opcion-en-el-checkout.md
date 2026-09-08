@@ -19,7 +19,7 @@ En un escenario omnichannel en el que su tienda utiliza puntos de recogida confi
 
 Si su cliente final compra un producto en cualquiera de sus canales (en línea o tiendas físicas) y desea recogerlo en una tienda específica, por defecto esa tienda solo aparece como una opción de punto de recogida en el checkout si tiene stock del producto.
 
-Sin embargo, usted puede preferir que esa tienda funcione como un punto de recogida __ incluso si no tiene stock__. Para esto, su logística necesita asegurar que el producto llegará a esa tienda desde otro stock, por ejemplo, desde el stock del comercio electrónico. En este caso, necesita tener una política de envío en el comercio electrónico en el que esté configurado el punto de recogida de la tienda física.
+Sin embargo, usted puede preferir que esa tienda funcione como un punto de recogida __incluso si no tiene stock__. Para esto, su logística necesita asegurar que el producto llegará a esa tienda desde otro stock, por ejemplo, desde el stock del comercio electrónico. En este caso, necesita tener una política de envío en el comercio electrónico en el que esté configurado el punto de recogida de la tienda física.
 
 ![Crear punto de retiro de contingencia para garantizarlo como opción en checkout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/visión-de-conjunto-de-checkout/crear-punto-de-recogida-de-contingencia-como-opcion-en-el-checkout_1.jpg)
 

@@ -52,7 +52,7 @@ Para os casos em que a loja oferece [pontos de retirada](/pt/docs/tutorials/pont
 
 O ponto de retirada fica disponível no checkout como uma opção de envio, e o cliente escolhe entre **Entrega** (transportadora) e **Retirada** (ponto de retirada).
 
-> ℹ️ As configurações da Estratégia de envio também podem ser feitas via API. Confira as APIs disponíveis: <body> <ul> <li>[API de docas](https://developers.vtex.com/vtex-rest-api/reference/docks)</li> <li>[API de estoques](https://developers.vtex.com/vtex-rest-api/reference/createupdatewarehouse)</li> <li>[API de políticas de envio](https://developers.vtex.com/vtex-rest-api/reference/get_logistics-pvt-shipping-policies-id)</li> <li>[API de pontos de retirada](https://developers.vtex.com/vtex-rest-api/reference/listallpickupppoints)</li> </ul> </body>
+> ℹ️ As configurações da Estratégia de envio também podem ser feitas via API. Confira as APIs disponíveis: <ul> <li>[API de docas](https://developers.vtex.com/vtex-rest-api/reference/docks)</li> <li>[API de estoques](https://developers.vtex.com/vtex-rest-api/reference/createupdatewarehouse)</li> <li>[API de políticas de envio](https://developers.vtex.com/vtex-rest-api/reference/get_logistics-pvt-shipping-policies-id)</li> <li>[API de pontos de retirada](https://developers.vtex.com/vtex-rest-api/reference/listallpickupppoints)</li> </ul>
 
 ### Como configurar
 

@@ -38,7 +38,7 @@ To activate only a certain group of SKUs, you can use a spreadsheet extracted fr
 1. Download the __Products and SKUs__ spreadsheet from the platform. You can find out more details on this by reading [How to export a product spreadsheet](/en/docs/tutorials/how-to-export-a-product-spreadsheet).
 2. In the __EnableSKUifPossible__ column, change the status of the SKUs you wish to enable. The field should be filled out with `YES` only.
 3. Save the changes made to the document.
-4. Import the spreadsheet to the platform again. Remember that you import the same way as you export. 
+4. Import the spreadsheet to the platform again. Remember that you import in the same way as you export. 
 
 In addition, if the spreadsheet used to import the new data is not the default model used on the platform, you may download a model that matches the format used by VTEX.
 
