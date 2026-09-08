@@ -14,6 +14,7 @@ trackId: 3J7WFZyvTcoiwkcIVFVhIS
 trackSlugEN: next-steps-after-the-go-live
 order: 3
 seeAlso:
+  - "/docs/tutorials/choosing-between-a-multistore-architecture-or-an-additional-environment"
 ---
 
 An international store, also called a cross-border store, is a type of [multistore](https://help.vtex.com/docs/tutorials/managing-a-multistore), which at VTEX means an account with multiple [bindings](/en/docs/tutorials/what-is-binding) and different sales channels for each one of its local stores.
