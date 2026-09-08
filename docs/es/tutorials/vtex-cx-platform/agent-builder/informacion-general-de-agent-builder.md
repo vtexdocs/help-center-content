@@ -62,7 +62,7 @@ Para personalizar tu agente completa los siguientes campos:
 Consulta a continuación la descripción detallada de cada tono de voz:
 
 | Tono de voz del agente | Descripción |
-| --- | :--- |
+| --- | --- |
 | Amigable | Interactúa de forma cálida y acogedora, haciendo que el cliente se sienta cómodo y bienvenido, estableciendo una conexión con empatía y comprensión. |
 | Sistemático | Con un método claro y bien estructurado, sigue pasos definidos para resolver problemas. Usa un enfoque lógico y organizado, con consistencia y precisión en la comunicación y en el soporte al cliente. |
 | Analítico | Garantiza que toda la información se muestre de forma clara y accesible. Es lógico y objetivo, guiando al cliente por cada etapa de manera metódica, para que ningún detalle se pierda. |

@@ -1,5 +1,5 @@
 ---
-title: 'Como funciona a assinatura'
+title: 'Assinaturas'
 id: frequentlyAskedQuestions_4453
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:00.886Z
@@ -13,6 +13,7 @@ slugEN: how-subscriptions-work
 legacySlug: como-funciona-a-assinatura
 locale: pt
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
+categoryCover: true
 ---
 
 O **Sistema de Assinaturas** é uma aplicação desenvolvida pela VTEX para facilitar as vendas recorrentes. Funciona como um agendador automático, realizando uma recompra na frequência solicitada pelo cliente da loja.

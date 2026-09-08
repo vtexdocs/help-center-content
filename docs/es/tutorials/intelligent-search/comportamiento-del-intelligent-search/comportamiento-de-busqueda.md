@@ -3,7 +3,7 @@ title: 'Comportamiento de búsqueda'
 id: B9o3JbV6utAinBJ1ETujs
 status: PUBLISHED
 createdAt: 2024-06-27T17:30:43.356Z
-updatedAt: 2026-04-23T12:00:00.000Z
+updatedAt: 2026-08-26T00:00:00.000Z
 publishedAt: 2025-06-24T19:21:01.124Z
 firstPublishedAt: 2024-06-27T17:33:21.153Z
 contentType: tutorial
@@ -51,13 +51,19 @@ Ejemplo: un cliente desea buscar el término `bola`. Siguiendo la configuración
 
 > ℹ️ El fuzzy no considera los espacios en blanco. Esto quiere decir que, por ejemplo, `micro ondas` no se corregiría a `microondas`. Recomendamos el uso de [sinónimos](https://help.vtex.com/es/docs/tutorials/sinonimos) en estos casos.
 
+### Stemming (raíz de palabras)
+
+Intelligent Search usa un analizador de idioma para normalizar los términos buscados, unificando variaciones de singular y plural de una misma palabra en la misma raíz. Por ejemplo, en tiendas en inglés, una búsqueda por `sneaker` también devuelve productos que contienen `sneakers`.
+
+> ℹ️ VTEX corrigió inconsistencias de stemming en el analizador de idioma inglés para términos como `sticks`, `sharpies`, `its`, `bags`, `boards`, `books`, `bowls`, `cards`, `crackers`, `dividers`, `games`, `glue-sticks`, `k-cups`, `knives`, `nuts`, `rolls`, `shelves` y `supplies`, cuyas formas en plural no se mapeaban correctamente a la raíz en singular. Esta corrección no se aplica automáticamente a todas las cuentas: para solicitarla en una tienda en inglés, ponte en contacto con el [Soporte VTEX](https://supporticket.vtex.com/support).
+
 ### Resultado mínimo
 
 La cantidad mínima de resultados que se muestran en cualquier búsqueda realizada es 1. En cualquier búsqueda, si no se alcanza el número mínimo de resultados, se aplica la [autocorrección](#autocorreccion).
 
 En las búsquedas que contienen varios términos, se aplica la siguiente lógica:
 
-1. Si no se devuelve la cantidad mínima de resultados con la autocorrección inicial, la búsqueda comienza a incluir resultados más amplios que contengan cualquiera de los términos buscados. Por ejemplo, cuando un usuario busca "tenis nike", pero el catálogo no tiene ningún producto con ese nombre, la búsqueda puede mostrar como resultado un producto que solo tenga el término "tenis" en el nombre.
+1. Si no se devuelve la cantidad mínima de resultados con la autocorrección inicial, la búsqueda comienza a incluir resultados más amplios que contengan cualquiera de los términos buscados. Por ejemplo, cuando un usuario busca "tenis nike", pero el catálogo no tiene ningún producto con ese nombre, la búsqueda puede mostrar como resultado un producto que solo tenga el término "tenis" en el nombre. Estos resultados de OR se ordenan ponderando la frecuencia con la que aparece cada término encontrado en el producto y qué tan raro es ese término en el catálogo, y no solo según la cantidad de términos que coincidieron individualmente. Para más detalles, consulta [Relevancia](https://help.vtex.com/es/docs/tutorials/intelligent-search-como-funciona-la-relevancia-de-los-resultados-de-busqueda#etapa-1-como-encuentra-intelligent-search-los-resultados).
 2. Si la búsqueda más amplia no devuelve la cantidad mínima de resultados, se repetirá aplicando nuevamente la autocorrección a cada uno de los términos.
 
 > ⚠️ Las búsquedas con múltiples términos son más eficientes cuando el cliente ordena los resultados por relevancia, ya que pueden devolver una mayor cantidad de resultados no relacionados con el contexto de la búsqueda. En el orden por relevancia se siguen priorizando los ítems relacionados con los distintos términos. Por otro lado, cuando se aplican otros criterios, como precio o más vendidos, el orden de los resultados depende de los valores numéricos y no necesariamente prioriza ítems que contienen más palabras.

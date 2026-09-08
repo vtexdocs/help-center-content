@@ -26,7 +26,7 @@ En tiendas desarrolladas con [FastStore](https://developers.vtex.com/docs/guides
 1. En el Admin VTEX, accede a **Storefront > Headless CMS (Legacy)**.
 2. Haz clic en la página deseada.
 
-  > ℹ️ Esta configuración está disponible para los   siguientes [tipos de contenido](https://developers.vtex.com/docs/guides/faststore/headless-cms-3-adding-content-types-and-sections): **Product Details Page (PDP)**, ** Home** y **Landing Page**.
+  > ℹ️ Esta configuración está disponible para los siguientes [tipos de contenido](https://developers.vtex.com/docs/guides/faststore/headless-cms-3-adding-content-types-and-sections): **Product Details Page (PDP)**, **Home** y **Landing Page**.
 
 3. Cambia a la pestaña **Settings**.
 4. En **SEO** actualiza los campos relacionados. Consulta la lista de campos por tipo de contenido en [Campos de SEO por tipo de contenido](#campos-de-seo-por-tipo-de-contenido).

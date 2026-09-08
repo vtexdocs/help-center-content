@@ -26,7 +26,7 @@ Contact your store's developer team to customize the frontend using the technolo
 If your store was developed in the [Store Framework](https://developers.vtex.com/docs/guides/store-framework), use the components below to implement the search:
 
 | Component | Description |
-| :---- | :---- |
+| ---- | ---- |
 | [Search Result](https://developers.vtex.com/docs/apps/vtex.search-result)  | Processes the results obtained by the Intelligent Search API and displays them to users. This component exports all the store blocks expected on a search results page, such as filters and the product gallery. |
 | [Search Bar](https://developers.vtex.com/docs/apps/vtex.store-components/SearchBar) | Displays a search bar and shows the corresponding products. |
 | [Search](https://developers.vtex.com/docs/apps/vtex.search) | Provides interface elements that enhance the search experience, such as the autocomplete feature and other optional blocks. |

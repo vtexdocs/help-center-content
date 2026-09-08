@@ -108,7 +108,7 @@ No Admin VTEX, em **Envio > Entregas Correios**, a página **Informações dos P
   </td>
   </tr>
     <tr class="bb b--muted-3">
-   <td class="t-body pa5" style="min-width: 15rem;">**Pedido de Informação **
+   <td class="t-body pa5" style="min-width: 15rem;">**Pedido de Informação**
 
   </td>
    <td class="t-body pa5" style="min-width: 15rem;">Número do protocolo do pedido de informação solicitado aos Correios. Esse código é gerado quando uma nova solicitação é aberta.

@@ -27,8 +27,8 @@ Terminadas as etapas de conﬁguração da sua conta na Posthaus e da sua conta 
 > ℹ️ Nesta etapa as credenciais da Posthaus são necessárias.
 > Todos os campos da tela de configuração da Posthaus são obrigatórios.  
 
-| **Campo** | **Descrição** | **Exemplo** |
-|:---:|:---:|:---:|
+| Campo | Descrição | Exemplo |
+|---|---|---|
 | Status da integração | Botão que define se a integração estará ligada ou desligada. | <i class="fas fa-toggle-on" aria-hidden="true"></i>  ou <i class="fas fa-toggle-off" aria-hidden="true"></i>  |
 | ID do afiliado | Código identificador para criação de um afiliado que ainda não esteja cadastrado no seu sistema. O código deve ser composto de três consoantes, sejam elas repetidas ou não. Vogais não são aceitas. A configuração do conector cria automaticamente o afiliado. | PST |
 | Email | Email do responsável pela loja. | email@integracao.com |

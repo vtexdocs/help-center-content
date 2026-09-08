@@ -32,8 +32,8 @@ Caso essas diretrizes não sejam seguidas pelos remetentes, os emails enviados p
 
 A partir de fevereiro de 2024, o Google e o Yahoo vão exigir dos remetentes de emails massivos os seguintes requisitos:
 
-| **Requisitos** | **Descrição** |
-| :---: | :--- |
+| Requisitos | Descrição |
+| --- | --- |
 | Autenticação de email do remetente | Os remetentes devem autenticar a origem do seu email usando os seguintes protocolos:<ul><li>[SPF](https://support.google.com/a/answer/33786?sjid=4150033421619503412-SA) (*Sender Policy Framework*)</li><li>[DKIM](https://support.google.com/a/answer/174124?sjid=4150033421619503412-SA) (*DomainKeys Identified Mail*)</li><li>[DMARC](https://support.google.com/a/answer/2466580?sjid=4150033421619503412-SA) (*Domain-based Message Authentication, Reporting & Conformance*)</li></ul>Ao realizar essas configurações, você se protege contra *spoofing* (mensagens falsas enviadas em nome do seu domínio) e evita que as suas mensagens enviadas sejam marcadas como spam.Saiba mais em [Evitar spam, spoofing e phishing com a autenticação do Gmail](https://support.google.com/a/answer/10583557). |
 | Fácil cancelamento de inscrição | Os destinatários devem ser capazes de cancelar a inscrição de um email com um único clique, e o processamento da solicitação de cancelamento deve ocorrer em até dois dias.Saiba mais em [Inscrições](https://support.google.com/mail/answer/81126#subscriptions) (Google) e [Support one click unsubscribe](https://blog.postmaster.yahooinc.com/post/182917670818/dont-want-to-be-marked-as-spam-support-one-click) (Yahoo). |
 | Limite para taxa de spam | Os destinatários devem considerar os emails como desejáveis, portanto a taxa de emails marcados como spam deve ser menor que 0,1% e o remetente deve evitar que ela chegue a 0,3% ou mais. Essa taxa é referente ao número de emails marcados como spam pelos destinatários, dividido pelo número total de emails recebidos.É possível usar o [Postmaster Tools](https://support.google.com/mail/answer/14289100) para rastrear dados sobre grandes volumes de emails do Gmail, e o [Complaint Feedback Loop](https://senders.yahooinc.com/complaint-feedback-loop/) para o mesmo serviço do Yahoo. |
@@ -71,7 +71,7 @@ Caso essas diretrizes não sejam seguidas, os emails enviados poderão ser rejei
 
 ## Artigos relacionados
 
-| **VTEX** | **Google** | **Yahoo** |
-| :--- | :--- | :--- |
+| VTEX | Google | Yahoo |
+| --- | --- | --- |
 | <ul><li>[Boas práticas de SPF (Sender Policy Framework)](/pt/docs/tutorials/configuracao-de-spf)</li><li>[Setting up the SPF](https://developers.vtex.com/docs/guides/setting-up-the-spf)</li><li>[Setting up DKIM for transactional emails](https://developers.vtex.com/docs/guides/setting-up-dkim-for-transactional-emails)</li><li>[Generate DKIM keys](https://developers.vtex.com/docs/api-reference/message-center-api#post-/api/mail-service/pvt/providers/-EmailProvider-/dkim)</li></ul> | <ul><li>[Diretrizes para remetentes de e-mails](https://support.google.com/mail/answer/81126?hl=pt-BR&sjid=15077216349840152409-SA)</li><li>[Perguntas frequentes sobre as diretrizes para remetentes de e-mails](https://support.google.com/a/answer/14229414?hl=pt-BR&ref_topic=7279058&sjid=15077216349840152409-SA#zippy=%2Co-que-acontece-quando-os-remetentes-n%C3%A3o-atendem-aos-requisitos-nas-diretrizes%2Co-que-acontece-quando-a-taxa-de-spam-do-remetente-excede-o-m%C3%A1ximo-permitido-pelas-diretrizes)</li><li>[Evitar spam, spoofing e phishing com a autenticação do Gmail](https://support.google.com/a/answer/10583557?hl=pt-BR&sjid=8809025610711525699-SA)</li><li>[Anúncio do Google](https://support.google.com/a/answer/10583557?hl=pt-BR&sjid=8809025610711525699-SA)</li></ul> | <ul><li>[Best practices- Deliverability](https://senders.yahooinc.com/best-practices/)</li><li>[FAQs - Deliverability](https://senders.yahooinc.com/faqs/)</li><li>[Anúncio do Yahoo](https://blog.postmaster.yahooinc.com/post/730172167494483968/more-secure-less-spam)</li></ul> |
 

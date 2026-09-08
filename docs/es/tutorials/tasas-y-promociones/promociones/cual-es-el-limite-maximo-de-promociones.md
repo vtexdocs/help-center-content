@@ -1,5 +1,5 @@
 ---
-title: '¿Cuantos cupones, tasas y promociones puedo tener en mi tienda?'
+title: 'Límites de cupones, tasas y promociones'
 id: frequentlyAskedQuestions_352
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:52.883Z

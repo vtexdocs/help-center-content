@@ -284,7 +284,7 @@ Nesta aba, será possível atualizar em massa e indexar o catálogo que estará 
 A página é organizada da seguinte forma:
 
 | Coluna      | Descrição                                                                                  |
-| :---------- | :------------------------------------------------------------------------------------------- |
+| ---------- | ------------------------------------------------------------------------------------------- |
 | Item        | Nome do produto.                                                                             |
 | ID          | ID do produto.                                                                               |
 | SKU         | ID do SKU.                                                                                   |

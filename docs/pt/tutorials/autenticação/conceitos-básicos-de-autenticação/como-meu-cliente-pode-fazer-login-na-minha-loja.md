@@ -1,5 +1,5 @@
 ---
-title: 'Como meu cliente pode fazer login na minha loja?'
+title: 'Login e autenticação do cliente'
 id: 3FCNpwbpZe0U4auiI4CC0C
 status: PUBLISHED
 createdAt: 2018-10-15T21:25:25.230Z
@@ -13,6 +13,7 @@ slugEN: how-can-my-customer-login-to-my-store
 legacySlug: como-meu-cliente-pode-fazer-login-na-minha-loja
 locale: pt
 subcategoryId: 14V5ezEX0cewOMg0o0cYM6
+categoryCover: true
 ---
 
 Existem algumas situações em que o cliente da sua loja precisa fazer login para conseguir visualizar informações personalizadas. Abaixo, listamos os cenários mais comuns:

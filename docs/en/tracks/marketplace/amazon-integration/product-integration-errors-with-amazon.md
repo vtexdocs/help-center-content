@@ -53,8 +53,8 @@ This error occurs when the [global category](/en/tracks/configurar-integracao-co
 
 For both of these errors, the [VTEX global category](/en/docs/tracks/sending-products-to-amazon) of the product selected by the seller requires the **Department** or **Material** attributes as mandatory in the product, and completing the [mapping spreadsheet](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#4-planilha-de-mapeamento). [Add](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) the attribute to the product and complete it in the spreadsheet as shown in the example below:
 
-|**CategoryID**|**VariationTheme**|**Type**|**VTEXSpecification**|**AmazonSpecification**|**VTEXValue**|**AmazonValue**|
-| :- | :- | :- | :- | :- | :- | :- |
+|CategoryID|VariationTheme|Type|VTEXSpecification|AmazonSpecification|VTEXValue|AmazonValue|
+| --- | --- | --- | --- | --- | --- | --- |
 |3||Information|Gender|Department|Women|Female|
 
 - **The category and attribute mapping spreadsheet was not uploaded**

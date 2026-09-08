@@ -37,7 +37,7 @@ Para configurar una PWA en tu tienda, accede a Configuración de la tienda > **S
     - **URL de inicio**: URL de la página de inicio de la PWA.
     - **Orientación de la pantalla**: formato en el que se muestra el contenido en la PWA. Se puede asignar uno de los siguientes valores: Cualquiera, Natural, Horizontal, Horizontal (primaria), Horizontal (secundaria), Vertical, Vertical (primaria), Vertical (secundaria).
 
-    | **Orientación de la pantalla** | **Descripción** |
+    | Orientación de la pantalla | Descripción |
     |--------------------------------|-----------------|
     | Cualquiera                     | La página puede verse en cualquier orientación, y el contenido se ajusta automáticamente a la posición actual del dispositivo. |
     | Natural                        | Configuración predeterminada del dispositivo. |
@@ -50,7 +50,7 @@ Para configurar una PWA en tu tienda, accede a Configuración de la tienda > **S
 
     - **Visualización**: modos de visualización del contenido de la PWA. Se puede asignar uno de los siguientes valores: Pantalla completa, Independiente (agregar a la pantalla de inicio), UI minimalista (no admitida por Chrome), Navegador.
 
-    | **Visualización**                     | **Descripción** |
+    | Visualización                     | Descripción |
     |---------------------------------------|-----------------|
     | Pantalla completa                     | La PWA ocupa toda la pantalla del dispositivo, ocultando todos los elementos de la interfaz de usuario del navegador, como la barra de direcciones y otras notificaciones del sistema. Es ideal para juegos o aplicaciones que requieren una inmersión total, maximizando el espacio disponible en pantalla. |
     | Independiente (agregar a la pantalla de inicio) | La PWA se comporta como una aplicación nativa ya que se ejecuta en una ventana independiente del navegador y no muestra los elementos usuales del mismo, como la barra de direcciones. Cuando se agrega a la pantalla de inicio del dispositivo, la presencia de la PWA es casi indistinguible de una aplicación nativa. |

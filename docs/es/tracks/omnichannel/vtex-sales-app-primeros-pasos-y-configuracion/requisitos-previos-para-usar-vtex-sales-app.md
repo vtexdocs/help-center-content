@@ -62,7 +62,7 @@ Recomendaciones adicionales:
 
 ### Lector de código de barras
 
-Con VTEX Sales App, puedes escanear el código de barras de tus productos utilizando la cámara de tu _tablet _o _smartphone_, aunque no funcionen tan bien como los dispositivos especializados en esta función.
+Con VTEX Sales App, puedes escanear el código de barras de tus productos utilizando la cámara de tu _tablet_ o _smartphone_, aunque no funcionen tan bien como los dispositivos especializados en esta función.
 
 Es esencial que registres el código de barras de cada ítem en su Catálogo, siguiendo los pasos de la guía [Registro de códigos de barras de los SKU para VTEX Sales App](/es/docs/tracks/registrar-el-codigo-de-barras-de-los-skus-para-vtex-sales-app).
 

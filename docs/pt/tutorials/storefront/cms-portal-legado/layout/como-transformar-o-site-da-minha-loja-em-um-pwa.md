@@ -124,7 +124,7 @@ Para criar o script, siga os passos abaixo:
 
 Embora o arquivo esteja em `/arquivos/service-worker.js`, ele recebe o header `Service-Worker-Allowed` com valor `/`, o que permite interceptar requests da raiz do site.
 
-> ⚠️ **Atenção:** O Service Worker só funcionará em ambientes HTTPS. Teste sempre em produção ou utilize tunnels seguros em desenvolvimento.
+> ⚠️ O Service Worker só funcionará em ambientes HTTPS. Teste sempre em produção ou utilize tunnels seguros em desenvolvimento.
 
 Para saber mais sobre Service Worker, consulte a documentação do Google [Web Fundamentals](https://developers.google.com/web/fundamentals/primers/service-workers/).
 

@@ -1,5 +1,5 @@
 ---
-title: 'Promociones más comunes para B2B'
+title: 'Estrategias de promoción para operaciones B2B'
 id: XoM951AzUIvfaH71UdANf
 status: PUBLISHED
 createdAt: 2020-05-29T15:34:34.231Z

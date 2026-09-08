@@ -17,7 +17,7 @@ subcategoryId: 6312YEqn0AGYCsOOESSIQM
 
 A commercial condition is a grouping of SKUs that will serve to create different payment scenarios.
 
-The configuration of the commercial condition is made in three parts:
+The commercial condition is configured in three parts:
 
 1. Create the commercial condition.
 2. Link an SKU.
@@ -51,5 +51,5 @@ If the commercial condition is set as default, new products registered in the st
 5. Click the __Add special condition__ button.
 6. Select the __Commercial Condition__ option.
 7. Select the desired commercial condition.
-8. You can set a criterion for this payment condition to appear in the checkout. This criterion is the percentage of items with this commercial condition included in the cart. To do this, simply fill in the field __When the percentage of SKUs of this condition is greater than__ with the desired percentage.
+8. You can set a criterion for this payment condition to appear in the checkout. This criterion is the percentage of items with this commercial condition included in the cart. To do this, fill in the field __When the percentage of SKUs of this condition is greater than__ with the desired percentage.
 9. Click `Save`.

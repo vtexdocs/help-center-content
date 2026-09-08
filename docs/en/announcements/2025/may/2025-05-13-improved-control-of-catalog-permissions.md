@@ -33,7 +33,7 @@ Considering the product organization in License Manager, we made changes to two 
 
 In addition, we have added new resources in License Manager related to the **Catalog** product and the **General** category. Below are the details of the permissions granted:
 
-| **Resource** | **Key** | **Description** |
+| Resource | Key | Description |
 |---|---|---|
 | View Product | ViewProduct | View product and SKU details. |
 | Edit Product | EditProduct | Edit product and SKU details. |

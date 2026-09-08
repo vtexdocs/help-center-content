@@ -65,5 +65,5 @@ Check the meaning of each of the inventory spreadsheet fields.
 - **UnlimitedQuantity** (text): shows if the SKU inventory was defined as unlimited (`true`) or not (`false`).  
 - **LockIds** (text): Booking identification code.  
 - **DispatchedReservations** (number): number of SKU items that have already moved beyond the `Item received for processing` status and whose booking is no longer valid. 
-- 
+
 > ℹ️ To include an item with Unlimited inventory, you must fill in the **TotalQuantity** field with the value `1000000` and change the **UnlimitedQuantity** field to `True`.

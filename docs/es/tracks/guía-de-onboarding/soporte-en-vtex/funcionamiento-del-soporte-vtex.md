@@ -29,7 +29,7 @@ Para más información, consultá el artículo [Recursos de Soporte Global de VT
 
 La tabla a continuación ofrece una visión general de los principales artículos del Help Center por región:
 
-| **Región**     | **Artículo del Help Center**    |
+| Región     | Artículo del Help Center    |
 |----------------|---------------------------------|
 | Global         | **Artículo:** [¿Cómo funciona el soporte de VTEX?](/es/docs/tutorials/como-funciona-el-soporte-de-vtex)<br.<br>Presenta cómo funciona el soporte a nivel global, incluyendo la gestión de tickets, planes regionales, encuesta de satisfacción y servicios como monitoreo y recursos disponibles como Help Center, Developer Portal y anuncios de actualizaciones de la plataforma. |
 | Solo Brasil    | **Articulo:** [Soporte VTEX - Brasil](/es/tutorial/vtex-support-brazil--bxOl9e62rq0ZZMsGodchd)<br><br>  Presenta la disponibilidad, el SLA y los recursos disponibles para clientes en Brasil. |

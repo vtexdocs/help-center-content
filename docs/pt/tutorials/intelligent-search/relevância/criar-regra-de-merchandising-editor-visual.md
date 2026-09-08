@@ -66,7 +66,7 @@ O Editor visual de regras de merchandising do VTEX Intelligent Search permite re
 			<li class="t-body c-on-base mb5 lh-copy">**Data de lançamento:** data de lançamento do produto.</li>
 			<li class="t-body c-on-base mb5 lh-copy">**Promoção:** indica se o produto faz parte ou não de uma promoção.</li> 
 			<li class="t-body c-on-base mb5 lh-copy">**Desconto:** desconto aplicado sobre o produto.</li>
-			<li class="t-body c-on-base mb5 lh-copy">**Variedade de matriz disponível: **representa o percentual de SKUs disponíveis do produto. Por exemplo, se um produto tem cinco SKUs e somente três estão disponíveis, a variedade de matriz disponível será 60%, representada como 0.6 neste campo. Se todos os SKUs estiverem disponíveis, o valor do campo será 1.</li>
+			<li class="t-body c-on-base mb5 lh-copy">**Variedade de matriz disponível:** representa o percentual de SKUs disponíveis do produto. Por exemplo, se um produto tem cinco SKUs e somente três estão disponíveis, a variedade de matriz disponível será 60%, representada como 0.6 neste campo. Se todos os SKUs estiverem disponíveis, o valor do campo será 1.</li>
 	   </ul>
     </li>
     <li class="t-body c-on-base mb5 lh-copy">Arrastar produto pinado para a posição desejada nos resultados de busca. É possível apenas arrastar produtos que foram pinados (ação **IX** nesta lista).</li>

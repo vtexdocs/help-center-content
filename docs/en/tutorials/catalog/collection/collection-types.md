@@ -1,5 +1,5 @@
 ---
-title: 'Collection Types'
+title: 'Collections'
 id: 5tKnhh8tMGIrVL7Fqirq7n
 status: PUBLISHED
 createdAt: 2020-08-25T19:44:32.708Z
@@ -26,7 +26,7 @@ On VTEX, there are three ways to configure Collections:
 - Hybrid
 
 | Collection | Where to configure | Adding products | Ordering |
-| :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | Manual | CMS and Collections module (Beta) | - CMS: By SKU selection. <br> - Collections (Beta): By search refinement and product filters. | - CMS: No control. <br> - Collections (Beta): Total control. |
 | Automatic | CMS | Created by brand or category filters | No control. |  
 | Hybrid | CMS and Collections module (Beta) | - CMS: Created by brand or category filters. <br> - Collections (Beta): Created by brand filters. <br> Both CMS and Collections (Beta) allow you to add products manually. | No control. |

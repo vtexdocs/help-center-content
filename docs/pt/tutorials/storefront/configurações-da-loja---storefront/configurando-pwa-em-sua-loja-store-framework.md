@@ -37,7 +37,7 @@ Para configurar um PWA em sua loja, acesse Configurações da Loja > Storefront 
     - **URL inicial**: URL da página inicial do PWA.
     - **Orientação da tela**: Formato como o conteúdo é exibido no PWA. Pode ser atribuído um dos seguintes valores: Todas, Natural, Horizontal, Horizontal (primária), Horizontal (secundária), Retrato, Vertical (primária), Vertical (secundária).
 
-    | **Orientação da tela**   | **Descrição** |
+    | Orientação da tela   | Descrição |
     |--------------------------|---------------|
     | Todas                    | A página pode ser visualizada em qualquer orientação, com o conteúdo se ajustando automaticamente para se adaptar à orientação atual do dispositivo. |
     | Natural                  | Configuração padrão de fábrica do dispositivo. |
@@ -50,7 +50,7 @@ Para configurar um PWA em sua loja, acesse Configurações da Loja > Storefront 
 
     - **Visualização**: Modos de visualização do conteúdo do PWA. Pode ser atribuído um dos seguintes valores: Tela cheia, Aplicativo (adicionar à tela inicial), Minimalista (não suportado pelo Chrome), Navegador.
 
-    | **Visualização** | **Descrição** |
+    | Visualização | Descrição |
     |------------------|---------------|
     | Tela cheia       | O PWA ocupa toda a tela do dispositivo, ocultando todos os elementos da interface do usuário do navegador, como a barra de endereços e outras notificações do sistema. É ideal para jogos ou aplicativos que necessitam de uma imersão completa, maximizando o espaço de tela disponível. |
     | Aplicativo (adicionar à tela principal) | O PWA se comporta como um app nativo, pois é executado em uma janela separada do navegador e não mostra elementos comuns do navegador como a barra de endereços. Quando adicionado à tela inicial do dispositivo, a presença do PWA é quase indistinguível de um app nativo. |

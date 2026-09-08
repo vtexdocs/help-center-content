@@ -39,8 +39,8 @@ La pestaña **Políticas de envío** del Admin VTEX, accesible a través de **En
 
 La información de la lista se describe en la siguiente tabla:
 
-| **Columna** | **Descripción** |
-| :---: | :--- |
+| Columna | Descripción |
+| --- | --- |
 | Política de envío | Nombre que identifica tu [política de envío](/es/docs/tutorials/politica-de-envio) para los usuarios que tienen acceso al Admin VTEX. Para más información, consulta [Crear una política de envío](/es/docs/tutorials/crear-una-politica-de-envio). |
 | Método de envío | [Método de envío](/es/docs/tutorials/como-se-maneja-el-tipo-de-entrega) es el nombre que configuras en la política de envío que se mostrará a los clientes en el checkout. Por lo tanto, es importante utilizar nombres intuitivos al crear una política de envío.Ejemplo: `Envío express` e `Envío estándar`. |
 | Muelles | Identifica los [muelles](/es/docs/tutorials/muelles) asociados a la [política de envío](/es/docs/tutorials/politica-de-envio). Al pasar el mouse sobre el número de esta columna, se muestran los nombres de todos los muelles asociados a la política de envío. |

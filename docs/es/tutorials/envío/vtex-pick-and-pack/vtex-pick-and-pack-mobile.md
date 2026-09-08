@@ -41,7 +41,7 @@ Para acceder al menú, haz clic en el ícono <i class="fas fa-grip-lines"></i> e
 - <i class="fas fa-globe"></i> Idioma: botón para cambiar el idioma de la aplicación.
 - __Cambiar a__ <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-mobile_13.png" alt="pickpack-logout" width="35" height="30">: botón para cambiar la instalación donde se realizará el alistamiento de los pedidos.
 - Pendientes: botón que redirige a la pantalla de hojas de trabajo pendientes.
--__ A empacar__: botón que redirige a la pantalla de hojas de trabajo que están listas para empaque.
+-__A empacar__: botón que redirige a la pantalla de hojas de trabajo que están listas para empaque.
 - <i class="fas fa-bell"></i>: sección de notificaciones de los últimos cambios en las hojas de trabajo.
 - `Solicitar tu próxima tarea` <i class="fas fa-arrow-right"></i>: botón que dirige a la pantalla de creación de hoja de trabajo.
 

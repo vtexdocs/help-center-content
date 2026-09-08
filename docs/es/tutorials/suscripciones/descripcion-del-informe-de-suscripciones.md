@@ -39,8 +39,8 @@ El informe `subscriptionsWithStatus` devuelve datos de suscripciones basados en 
 
 Las columnas corresponden a información específica sobre la suscripción, conforme se describe a continuación.
 
-| **Nombre del campo** | **Descripción** |
-| :---: | :--- |
+| Nombre del campo | Descripción |
+| --- | --- |
 | ID | ID de la suscripción. |
 | Customer Email | Email del cliente. |
 | Customer Id | ID del cliente. |
@@ -56,7 +56,7 @@ Las columnas corresponden a información específica sobre la suscripción, conf
 | AddressType | Tipo de dirección. |
 | PaymentSystem Name | Tipo de pago de la suscripción. |
 | Account Id | ID de la cuenta. |
-| Selected Sla | [Service Level Agreement (SLA)](<https://vtex.com/co-es/trust/agreements>) elegido. |
+| Selected Sla | [Service Level Agreement (SLA)](https://www.vtex.com/es-mx/trust/agreements) elegido. |
 | Cycle | Número que identifica el ciclo de la suscripción. |
 | Created At | Fecha de creación de la suscripción. |
 | Last Update | Última actualización de la suscripción. |
@@ -76,8 +76,8 @@ El informe `subscriptionsScheduledBetweenDate` devuelve datos de suscripciones p
 
 Las columnas corresponden a información específica sobre la suscripción, conforme se describe a continuación.
 
-| **Nombre del campo** | **Descripción** |
-| :---: | :--- |
+| Nombre del campo | Descripción |
+| --- | --- |
 | ID | ID de la suscripción. |
 | Customer Email | Email del cliente. |
 | Customer Id | ID del cliente. |
@@ -93,7 +93,7 @@ Las columnas corresponden a información específica sobre la suscripción, conf
 | AddressType | Tipo de dirección. |
 | PaymentSystem Name | Tipo de pago de la suscripción. |
 | Account Id | ID de la cuenta. |
-| Selected Sla | [Service Level Agreement (SLA)](<https://vtex.com/co-es/trust/agreements>) elegido. |
+| Selected Sla | [Service Level Agreement (SLA)](https://www.vtex.com/es-mx/trust/agreements) elegido. |
 | Cycle | Número que identifica el ciclo de la suscripción. |
 | Created At | Fecha de creación de la suscripción. |
 | Last Update | Última actualización de la suscripción. |
@@ -113,8 +113,8 @@ El informe `subscriptionsUpdatedBetweenDate` devuelve datos de las suscripciones
 
 Las columnas corresponden a información específica sobre la suscripción, conforme se describe a continuación.
 
-| **Nombre del campo** | **Descripción** |
-| :---: | :--- |
+| Nombre del campo | Descripción |
+| --- | --- |
 | ID | ID de la suscripción. |
 | Customer Email | Email del cliente. |
 | Customer Id | ID del cliente. |
@@ -130,7 +130,7 @@ Las columnas corresponden a información específica sobre la suscripción, conf
 | AddressType | Tipo de dirección. |
 | PaymentSystem Name | Tipo de pago de la suscripción. |
 | Account Id | ID de la cuenta. |
-| Selected Sla | [Service Level Agreement (SLA)](https://vtex.com/co-es/trust/agreements) elegido. |
+| Selected Sla | [Service Level Agreement (SLA)](https://www.vtex.com/es-mx/trust/agreements) elegido. |
 | Cycle | Número que identifica el ciclo de la suscripción. |
 | Created At | Fecha de creación de la suscripción. |
 | Last Update | Última actualización de la suscripción. |
@@ -150,8 +150,8 @@ El informe `subscriptionsCreatedBetweenDate` devuelve datos de las suscripciones
 
 Las columnas corresponden a información específica sobre la suscripción, conforme se describe a continuación.
 
-| **Nombre del campo** | **Descripción** |
-| :---: | :--- |
+| Nombre del campo | Descripción |
+| --- | --- |
 | ID | ID de la suscripción. |
 | Customer Email | Email del cliente. |
 | Customer Id | ID del cliente. |
@@ -167,7 +167,7 @@ Las columnas corresponden a información específica sobre la suscripción, conf
 | AddressType | Tipo de dirección. |
 | PaymentSystem Name | Tipo de pago de la suscripción. |
 | Account Id | ID de la cuenta. |
-| Selected Sla | [Service Level Agreement (SLA)](https://vtex.com/co-es/trust/agreements) elegido. |
+| Selected Sla | [Service Level Agreement (SLA)](https://www.vtex.com/es-mx/trust/agreements) elegido. |
 | Cycle | Número que identifica el ciclo de la suscripción. |
 | Created At | Fecha de creación de la suscripción. |
 | Last Update | Última actualización de la suscripción. |
@@ -187,8 +187,8 @@ El informe `executionsBetweenDate` devuelve datos de las suscripciones ejecutada
 
 Las columnas corresponden a información específica sobre la suscripción, conforme se describe a continuación.
 
-| **Nombre del campo** | **Descripción** |
-| :---: | :--- |
+| Nombre del campo | Descripción |
+| --- | --- |
 | Id | ID de la suscripción. |
 | OrderGroup | ID del pedido generado al ejecutar el informe. |
 | Email | Email del cliente. |

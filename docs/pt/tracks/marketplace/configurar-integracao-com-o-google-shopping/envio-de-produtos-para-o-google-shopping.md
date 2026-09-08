@@ -40,7 +40,7 @@ Ao acessar o endereço, clique no botão `Reindexar Base`. O processo pode ser a
 
 Veja abaixo as mensagens para cada status de indexação:
 
-| **Status** | **Tipo de mensagem** |
+| Status | Tipo de mensagem |
 |---|---|
 | SKUs indexados | Sku: 70 - variação amarela tênis Sales Channel: 1 Sku: 70 Price: 1740.00 Stock: 1 Quantity Sold last month SalesChannel: 1, Sales: 0 |
 | SKUs não indexados | Sku: 112 - variação azul tênis Sales Channel: 1 Sku: 112 Sku is UNAVAILABLE - check price and stock, Checkout Info: Code: withoutStock \| Status:error \| Message: O item Tênis Action - Masculino - Marinho/prata variação amarela tênis não tem estoque Quantity Sold last month SalesChannel: 1, Sales: -1 |
@@ -59,7 +59,7 @@ A aprovação dos seus produtos pelo Google vai torná-los ativos, e isso imedia
 
 Há situações nas quais a reprovação do produto acontece posteriormente a ele já ter sido considerado ativo. Isso é visto por vezes quando uma conta foi criada recentemente.
 
-| **SAIBA MAIS** |
+| SAIBA MAIS |
 | ---------- |
 |Confira outros motivos de reprovação de produtos no artigo do Google [Sobre reprovações por violação da qualidade de dados de produto.](https://support.google.com/merchants/answer/9227009?hl=pt-BR)|
 
@@ -87,8 +87,8 @@ Essas *labels* são úteis para:
 
 Ao criar o novo campo de especificação de produto preencha-os com os seguintes valores:
 
-| **Campo** | **Valor** |
-|:---: | :---: |
+| Campo | Valor |
+|--- | --- |
 | Nome do campo da especificação | `googleshopping-labels`|
 |Tipo de campo | Radio |
 

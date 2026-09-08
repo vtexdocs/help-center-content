@@ -19,7 +19,7 @@ tags:
   - Integrations
 ---
 
-In order to provide the best experience for our clients, we're announcing the discontinuation of the **Amazon mapper** and ** Spreadsheet mapping** for the integration between VTEX stores and Amazon, effective March 31, 2025.
+In order to provide the best experience for our clients, we're announcing the discontinuation of the **Amazon mapper** and **Spreadsheet mapping** for the integration between VTEX stores and Amazon, effective March 31, 2025.
 
 Products already mapped and sent to the marketplace won't be affected; the change will only impact new products.
 

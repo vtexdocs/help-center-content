@@ -39,7 +39,7 @@ Para registrar el **bloqueo de precio**, necesita enviar en __POST__ para el sig
 
 - El objeto del request tiene las siguientes propiedades:
 
-| __Propiedades__ | __Tipos__ | __Descripción__ |
+| Propiedades | Tipos | Descripción |
 |------------------|-----------|-------------|
 | priceVariation | object | Variación de precio |
 | upperLimit | integer | Límite superior |

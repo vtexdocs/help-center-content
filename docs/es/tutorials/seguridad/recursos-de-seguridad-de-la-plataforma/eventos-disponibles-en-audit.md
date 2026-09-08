@@ -3,7 +3,7 @@ title: 'Eventos disponibles en Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2026-03-02T18:20:54.585Z
+updatedAt: 2026-08-25T00:00:00.000Z
 publishedAt: 2025-08-25T18:20:54.585Z
 firstPublishedAt: 2022-06-22T16:28:52.801Z
 contentType: tutorial
@@ -232,6 +232,10 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 | Remove Included Collection Assortment | Colección incluida eliminada del surtido. | ID del surtido e ID de la colección. |
 | Add Excluded Collection Assortment | Colección excluida agregada al surtido. | ID del surtido e ID de la colección. |
 | Remove Excluded Collection Assortment | Colección excluida eliminada del surtido. | ID del surtido e ID de la colección. |
+| Brand Activation | Activación de marca. | ID de la marca. |
+| Brand Deactivation | Desactivación de marca. | ID de la marca. |
+| Category Activation | Activación de categoría. | ID de la categoría. |
+| Category Deactivation | Desactivación de categoría. | ID de la categoría. |
 
 ## Precios
 
@@ -399,7 +403,7 @@ En la columna **Acción**, todos los eventos de Headless CMS (Legacy) también m
 ## Site Editor
 
 | Acción | Descripción del evento | Detalle del evento |
-|:---:|:---:|:---:|
+|---|---|---|
 | Schedule change | Programa la edición de contenido. | ID de entidad modificado. |
 | Edit content block | Edita el bloque de contenido. | ID de entidad modificado. |
 | Create content block | Creación de bloco de conteúdo. | ID de entidad modificado. |

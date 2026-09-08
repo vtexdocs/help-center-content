@@ -26,7 +26,7 @@ Ponte en contacto con el equipo de desarrolladores de tu tienda para personaliza
 Si tu tienda ha sido desarrollada con [Store Framework](https://developers.vtex.com/docs/guides/store-framework), utiliza los componentes siguientes para implementar la búsqueda:
 
 | Componente | Descripción |
-| :---- | :---- |
+| ---- | ---- |
 | [Search Result](https://developers.vtex.com/docs/apps/vtex.search-result)  | Procesa los resultados obtenidos por la API de Intelligent Search y los muestra a los usuarios. Este componente exporta todos los bloques de la tienda que se esperan en una página de resultados de búsqueda, como filtros y galería de productos. |
 | [Search Bar](https://developers.vtex.com/docs/apps/vtex.store-components/SearchBar) | Muestra una barra de búsqueda y presenta los productos correspondientes. |
 | [Search](https://developers.vtex.com/docs/apps/vtex.search) | Proporciona elementos de interfaz que mejoran la experiencia de búsqueda, como la funcionalidad Autocomplete y otros bloques opcionales. |

@@ -41,7 +41,7 @@ Ao acessar **Fulfillment > Coleta e empacotamento**, você encontra uma página 
 
 A tabela abaixo contém a descrição das colunas apresentadas:
 
-| **Coluna** | **Descrição** |
+| Coluna | Descrição |
 | ---------- | ---------- |
 | Data de criação | Data e hora de realização do pedido. |
 | Data de entrega | O prazo de entrega dos pedidos, conforme definido no acordo de nível de serviço (SLA) entre a loja e o cliente. |
@@ -52,7 +52,7 @@ A tabela abaixo contém a descrição das colunas apresentadas:
 
 Para ver mais detalhes de um pedido, selecione-o na lista e as seguintes informações serão exibidas:
 
-| **Coluna** | **Descrição** |
+| Coluna | Descrição |
 | ---------- | ---------- |
 | Informações do cliente | Nome do cliente, email e número para contato. |
 | Informações de entrega | Endereço de entrega do cliente ou endereço do ponto de retirada, quando o cliente escolhe a opção de retirada na loja. |
@@ -507,7 +507,7 @@ Nesta aba, você pode configurar um webhook para ser notificado sobre alteraçõ
 
 No **VTEX Pick and Pack**, a página **Usuários** permite gerenciar os perfis envolvidos no processo de fulfillment, chamados de _usuários_. Existem três tipos de usuários: 
 
-| **Usuário** | **Descrição** | **Permissão** |
+| Usuário | Descrição | Permissão |
 | ---------- | ---------- | ---------- |
 | Entregador | Pessoa responsável pela coleta. | <ul><li>Acesso ao aplicativo, seja na versão mobile ou web (não funciona offline).</li><li>Não tem acesso ao Admin.</li></ul> |
 | Atendimento ao cliente | O operador da loja responsável pelo pedido e que tem acesso ao Admin. | <ul><li>Acesso a todos os pedidos no Admin.</li><li>Rastreamento de pedidos.</li><li>Comunicação com os entregadores.</li></ul> |
@@ -519,7 +519,7 @@ O conceito de _usuário_ no **VTEX Pick e Pack** é diferente do significado com
 
 Para acessar o **VTEX Fulfillment**, os usuários administradores e de atendimento ao cliente devem ter permissões relacionadas aos recursos do License Manager. Recomendamos [criar um perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) identificado como "_Fulfillment admin_", contendo pelo menos os seguintes produtos e recursos associados a ele:
 
-| **Produto** | **Recursos associados** |
+| Produto | Recursos associados |
 | ---------- | ---------- |
 | Insights | <ul><li>Insights metrics</li></ul> |
 | License Manager | <ul><li>Get account by identifier</li><li>Get applications </li><li>Find user by email</li><li>View users with account access</li><li>View all admin users</li><li>Get resource by key</li><li>Get role</li><li>Get paged roles</li><li>Get paged users</li><li>Get admin status</li><li>Get accounts</li><li>Get accounts by host</li></ul> |

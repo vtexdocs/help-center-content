@@ -22,7 +22,7 @@ With relevant content delivered by experts in digital commerce and VTEX technolo
 
 To access VTEX Academy, you must register [through this link](https://academy.vtex.com/registration/freemium) or, if you need access as an Implementer Partner, just request it from your Account Manager.
 
-> ℹ️ If you encounter any difficulty accessing the platform, contact [VTEX Academy's technical support](academy@vtex.com).
+> ℹ️ If you encounter any difficulty accessing the platform, contact [VTEX Academy's technical support](mailto:academy@vtex.com).
 
 ## Overview
 
@@ -54,7 +54,7 @@ Follow the steps below to access the content on credentials:
 3. Click the desired video lesson on the right side of the screen.
 
 
-For more information about the registration process, pricing, and more, visit [VTEX Academy](academy.vtex.com).
+For more information about the registration process, pricing, and more, visit [VTEX Academy](https://academy.vtex.com).
 
 ## Access and settings
 

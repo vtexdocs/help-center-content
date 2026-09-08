@@ -40,7 +40,7 @@ You can verify if a specific SKU has been indexed correctly to the integration s
 
 See below the messages for each indexing status:  
 
-| **Status** | **Message examples** |
+| Status | Message examples |
 |---|---|
 | Indexed SKUs | Sku: 70 - yellow sneakers variation Sales Channel: 1 Sku: 70 Price: 1740.00 Stock: 1 Quantity Sold last month SalesChannel: 1, Sales: 0 |
 | Unindexed SKUs	 | Sku: 112 - blue sneakers variation Sales Channel: 1 Sku: 112 Sku is UNAVAILABLE - check price and stock, Checkout Info: Code: withoutStock \| Status:error \| Message: The item Sneakers – Male – Navy/silver yellow sneaker variation is out of stock Quantity Sold last month SalesChannel: 1, Sales: -1 |
@@ -61,7 +61,7 @@ A product may eventually report the Insertion error: `Ineligible SKU`. This mean
 
 There are situations in which the product's disapproval happens after it has already been considered active. It happens more often for recently created accounts.
 
-| **LEARN MORE** |
+| LEARN MORE |
 | ---------- |
 |Check out other reasons for product disapproval in Google’s article [About disapprovals for product data quality violations.](https://support.google.com/merchants/answer/9227009?hl=en)|
 
@@ -89,8 +89,8 @@ You need to create *custom labels* in the Google Merchant Center. After creating
 
 When creating the new product specification field, complete it with the following values:  
 
-| **Field** | **Value** |
-|:---: | :---: |
+| Field | Value |
+|--- | --- |
 | Specification field name | `googleshopping-labels`|
 | Field type | Radio |
 

@@ -64,8 +64,8 @@ After changing the order using the [Create order modifications](https://develope
 
 The table below describes each one:
 
-| **Flow type** | **How it works** |
-| :---: | :--- |
+| Flow type | How it works |
+| --- | --- |
 | **Polling**Low complexity | After the order modifications operation, a unique code, the `requestId`, is generated to identify the order modifications. You can use it to follow the details of the request through the [Get order modifications details](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-) endpoint. In this endpoint, once the request has been changed, the response body property `finished` is set to `true`.In addition, [Get order modification details](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-) can also be used to obtain information about failures and errors that resulted in the eventual cancellation of the order modifications operation, as will be described in the section [Requests with errors and failures](#requests-with-errors-and-failures). |
 | **Preview**Medium complexity | Before making a request to [Create order modifications](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes), the integration can make a preview that will result in a response body identical to the modification request. To do so, use the same request body in the request to the [Preview order modifications](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/preview) endpoint.This preview is a simulated modification and does not generate any real modifications to the order. Using [Preview order modifications](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/preview) is useful for obtaining the total values associated with the order modifications being made and for validating the request details with a valid request body.After receiving a successful `200 OK` response for a preview of the modifications, the integration can proceed with the request to [Create order modifications](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes) to modify the order.Then, the integration can be adapted to scenarios such as:<ul><li>**Optimistic scenario:** The validation data obtained by simulating the modifications covers most of the `200 OK` success scenarios.</li><li>**Polling implementation:** Mentioned above.</li></ul> |
 
@@ -83,7 +83,7 @@ The table below describes each one:
 * **Previously:** The `discountValue` and `incrementValue` fields defined the value of the change being made to the order by decreasing or increasing a value, respectively. The user calculated the change value, and the result was added to or subtracted from the order total amount using these fields.
   > **Example:** When adding a $50 item to a $100 order, the user would send the `incrementValue` as $50, and the system would update the order total to $150. To apply a $30 discount for the customer, the user had to send the `discountValue` of $30, resulting in a revised order total of $120.
 * **Now:** The new `manualDiscountValue` and `manualIncrementValue` fields set additional manual values to be added to or subtracted from the total order amount regardless of the modifications made. As the system automatically calculates the modifications (considering the price and conditions when the order was placed), the user can add or subtract values using the fields mentioned.
-  > **Example:** When adding a $50 item to a $100 order, the system automatically adjusts the total to $150. Users are not required to update the amount manually. If a discount of $30 is needed, users can simply send the `manualDiscountValue` field as $30, resulting in a new total of $120.
+  > **Example:** When adding a $50 item to a $100 order, the system automatically adjusts the total to $150. Users are not required to update the amount manually. If a discount of $30 is needed, users can send the `manualDiscountValue` field as $30, resulting in a new total of $120.
 
 ### Adding and removing items
 
@@ -301,7 +301,7 @@ The general recommendation is to investigate the error source and check the requ
 
 ## Learn more
 
-| **Help Center** | **Developer Portal** |
-| :--- | :--- |
+| Help Center | Developer Portal |
+| --- | --- |
 | Modifying orders in the VTEX Admin:<ul><li>[How Order modifications works](/en/docs/tutorials/how-order-modification-works)</li><li>[How to modify orders](/en/docs/tutorials/how-to-modify-orders)</li></ul> | Modifying orders via API:<ul><li>[Create order modifications](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes)</li><li>[Preview order modifications](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/preview)</li><li>[Get order modifications details](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-)</li><li>[Get order modifications history](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/-changeOrderId-/changes)</li><li>[Retry order modifications](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-/retry)</li><li>[Cancel order modifications](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-/cancel)</li></ul> |
 

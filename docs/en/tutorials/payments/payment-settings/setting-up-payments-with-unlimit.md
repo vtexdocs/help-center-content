@@ -16,7 +16,7 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
 At VTEX, it is possible to integrate with the Unlimit payment provider.
-Through this provider, your store can make sales using different payment methods, such as: cards (credit, debit, private label, cob-branded), bank slips and PIX.
+Through this provider, your store can make sales using different payment methods, such as: cards (credit, debit, private label, cob-branded), Boletos and PIX.
 
 To configure Unlimit, follow the steps below:
 

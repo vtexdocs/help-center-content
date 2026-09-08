@@ -48,7 +48,7 @@ Faça o download da [Planilha de Mapeamento da Dafiti](https://cdn.statically.io
 
 O modelo de planilha de mapeamento fornecido é dividido em três abas:
 
-| **Nome da aba** | **Descrição** | 
+| Nome da aba | Descrição | 
 | ---------- | ---------- | 
 | **Categories** | Faz a equivalência entre a categoria na VTEX e a categoria na Dafiti. |
 | **Attributenames** | Faz a equivalência entre o nome do campo de especificação na VTEX e nome da variação / atributo na Dafiti. |
@@ -90,13 +90,13 @@ Neste exemplo, faremos o mapeamento de uma categoria de Vestuário de acordo com
 
 Aba **Categories**:
 
-| **VTEXCategoryId** | **DafitiCategoryId** | 
+| VTEXCategoryId | DafitiCategoryId | 
 | ---------- | ---------- |
 | 23 | 120 | 
 
 Aba **attributenames**:
 
-| **VTEXAttributenames** | **DafitiAttributenames** | **HasValueMapping** |
+| VTEXAttributenames | DafitiAttributenames | HasValueMapping |
 | ---------- | ---------- | ---------- |
 | Cor | ColorFamily | Y |
 | Gênero | Gender | N |
@@ -107,7 +107,7 @@ Aba **attributenames**:
 
 Aba **attributevalues**:
 
-| **VTEXAttributevalues** | **DafitiAttributevalues** |
+| VTEXAttributevalues | DafitiAttributevalues |
 | ---------- | ---------- | 
 | Amarela | Amarelo |
 | Vermelha | Vermelho |

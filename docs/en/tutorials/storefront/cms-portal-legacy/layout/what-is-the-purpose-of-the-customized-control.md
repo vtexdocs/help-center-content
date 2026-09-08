@@ -33,7 +33,7 @@ To create a customized control tag, click on Add, enter a name, a tag name, and 
 
 ![cms-custom-elements EN / ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/what-is-the-purpose-of-the-customized-control_1.png)
 
-> ⚠️ **Warning:** do not create an HTML type control with an element `title`. This may interfere with your store operation.
+> ⚠️ Do not create an HTML type control with an element `title`. This may interfere with your store operation.
 
 ## Application of customized controls on a page template
 

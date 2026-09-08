@@ -29,7 +29,7 @@ La actualización incluye una interfaz optimizada para facilitar la gestión, ad
 Las novedades se describen en la tabla a continuación:
 
 | Cambio | Descripción |
-| :---- | :---- |
+| ---- | ---- |
 | **Nombre** | Cambiamos el nombre *claves de aplicación* a *claves de API* en la interfaz del Admin. |
 | **Diseño** | Rediseñamos la interfaz de gestión, creación y edición de claves de API para proporcionar una experiencia más intuitiva y eficiente. |
 | **Separación de claves** | Ahora las claves generadas internamente y las claves externas están en pestañas separadas para facilitar la gestión de cada tipo de clave. |

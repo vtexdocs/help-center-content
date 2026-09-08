@@ -45,7 +45,7 @@ Here are the fields you need to fill to add a new loading dock:
 * **Name:** the name of the loading dock.
 * **ID:** the loading dock identifier. If this field is left blank, an ID will be created automatically.
 * **[Shipping Policies](/en/docs/tutorials/shipping-policy) and [Sales Channels:](/en/docs/tutorials/creating-a-trade-policy)** select the shipping policy and the sales channel you want to associate with the loading dock. Please note that both policies must have been previously created.
-* **Time and Priority: **
+* **Time and Priority:**
     * **Processing time:** time that will be considered when calculating delivery time. It is the time it takes for the product to arrive at the loading dock. Fill in the number of days, hours, and minutes.
     * **Time overhead:** the time that will be used to choose a loading dock when two or more loading docks have the same processing time. It is not considered when calculating delivery time. Fill in the number of days, hours, and minutes.
     * **Priority:** value used as a tie-breaking rule when selecting a loading dock. Select a value by clicking the numeric bar.
@@ -75,4 +75,5 @@ To delete a loading dock, access the VTEX Admin and follow the steps below:
 
 1. In the VTEX Admin, go to **Shipping > Shipping Strategy**, or type *Shipping Strategy* in the search bar at the top of the page.    
 2. Click on the **Loading Docks** tab to view all the loading docks configured.
-3. Click on the three dots icon in the card of the loading dock you want to delete.Click `Delete`.  
+3. Click on the three dots icon in the card of the loading dock you want to delete.
+4. Click `Delete`.  

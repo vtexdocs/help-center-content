@@ -1,5 +1,5 @@
 ---
-title: 'Páginas - Visão geral'
+title: 'Páginas'
 id: 5iBUUJbK5NqG6OxlDrGNzc
 status: PUBLISHED
 createdAt: 2021-12-15T20:09:14.461Z
@@ -14,6 +14,7 @@ legacySlug: paginas-visao-geral
 locale: pt
 subcategoryId: 1znnjA17XqaUNdNFr42PW5
 order: 1
+categoryCover: true
 ---
 
 Na seção **Páginas**, você pode encontrar todas as rotas de URL e os modelos de página do site da sua loja, como a página inicial, de produto e de login. Você também pode criar e associar páginas personalizadas a modelos predefinidos e gerenciar páginas criadas diretamente no código-fonte do seu projeto de storefront.
@@ -26,7 +27,7 @@ Você também pode criar redirecionamentos de URL para encaminhar visitantes do 
 
 No Admin VTEX, acesse **Storefront > Pages** e descubra as principais ferramentas disponíveis na interface.
 
-| **Ferramenta** | **Descrição** |
+| Ferramenta | Descrição |
 | ---------- | ---------- |
 | **Padrão** | Veja as páginas personalizadas do site da sua loja. As páginas são divididas em **Padrão, Produto, Coleções de produtos e Não encontrado (404).** |
 | **CRIAR PÁGINA** | Crie uma nova landing page e escolha seu título, URL, palavras-chave e modelo. As páginas **Produto, Coleções de Produtos** e **Não Encontrado (404)** não podem ser criadas no Admin, apenas no código do tema da loja.|

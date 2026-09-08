@@ -37,7 +37,7 @@ As configurações de pagamento descritas nesta trilha podem ser realizadas a qu
 
 A tabela a seguir apresenta os principais agentes e termos utilizados no contexto de Pagamentos:
 
-| **Termo** | **Descrição** |
+| Termo | Descrição |
 | --- | --- |
 | **Gateway** | Sistema responsável por processar informações de pagamento de uma compra no checkout. |
 | **Adquirente** | Empresa que realiza o processamento de pagamentos realizados por cartões de crédito e débito. |
@@ -210,8 +210,8 @@ Uma das vantagens da **Minha Conta** é que a funcionalidade torna mais direta a
 
 A tabela a seguir apresenta algumas configurações opcionais do módulo Pedidos:
 
-| **Funcionalidade** | **Descrição** |
-| :---: | :--- |
+| Funcionalidade | Descrição |
+| --- | --- |
 | Assinaturas | [Assinaturas](/pt/docs/tutorials/como-funciona-a-assinatura) é um agendador automático de pedidos para facilitar aos clientes da loja fazerem compras recorrentes. O cliente indica quais itens deseja comprar e a frequência com que os pedidos automáticos devem ser feitos.<br><br>[Configurar Assinaturas](/pt/docs/tutorials/como-configurar-assinaturas) é especialmente interessante para modelos de negócio como supermercados e vendas para pets, nos quais os clientes consomem os mesmo produtos com certa periodicidade. |
 | Televendas | A solução [televendas](/pt/docs/tutorials/funcionalidades-de-televendas) permite mais autonomia para a equipe de serviço de atendimento da loja no apoio aos clientes. Ao [configurar as funcionalidades de televendas](/pt/docs/tutorials/como-configurar-as-funcionalidades-de-televendas), os operadores da loja se tornam habilitados a realizar tarefas como:<br><br>- Comprar em nome de um cliente.<br>- Ajustar manualmente o preço de itens de um carrinho de compras.<br>- Alterar pedidos existentes.<br>- Gerenciar informações de perfil de um cliente no [Minha Conta](#funcionalidade-minha-conta). |
 | Divergência de valores | Nas [estratégias de marketplace](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex) da loja no ecossistema VTEX, pode acontecer do preço definido pelo seller ser diferente do preço oferecido pelo marketplace. Cenários com promoções no marketplace, por exemplo, podem interferir no preço que o seller definiu para a venda do seu produto.<br><br>Para evitar erros de processamento de pedidos, o seller VTEX pode [configurar regras de Divergência de valores](/pt/docs/tutorials/configuracao-da-regra-de-divergencia-de-valores) e estabelecer parâmetros para autorização automática de pedidos com essa diferença de preço entre seller e marketplace. Ao criar regras automáticas para aprovar ou recusar pedidos com diferença de preço, a loja evita ter que fazer o processamento manual de cada item e a operação ganha em eficiência. |

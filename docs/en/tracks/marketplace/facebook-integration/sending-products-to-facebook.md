@@ -72,7 +72,7 @@ The second step is to complete the downloaded file. The spreadsheet consists of 
 
 Here is an example of a completed spreadsheet:
 
-| **CategoryId** | **VTEX attribute name** | **Facebook attribute name** | **VTEX attribute value** | **Facebook attribute value** | 
+| CategoryId | VTEX attribute name | Facebook attribute name | VTEX attribute value | Facebook attribute value | 
 | ---------- | ---------- | ---------- | ---------- | ---------- | 
 | 23 | Colors | Color | Yellow | Yellow |
 | 23 | Size | Size | Small | P |
@@ -109,8 +109,8 @@ You need to create custom labels on Facebook Business Manager. After creating th
 
 Add the following value when creating the new product specification field:
 
-| **Field** | **Value** |
-|:---: | :---: |
+| Field | Value |
+|--- | --- |
 | __Specification field name__ | `facebook-labels`|
 |Field type | Radio |
 

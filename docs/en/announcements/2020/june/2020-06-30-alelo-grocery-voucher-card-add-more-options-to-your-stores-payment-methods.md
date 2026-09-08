@@ -30,6 +30,6 @@ As Cielo is the only acquirer to support Alelo as a payment method, you first ne
 
 Alelo is also available as part of our Payment Provider protocol, which allows this grocery voucher card to be implemented by any partner that accepts it as a payment method.
 
-To integrate it with your store, simply contact our Partner team.
+To integrate it with your store, contact our Partner team.
 
 For more details, check out our tutorial on [how to configure the Alelo grocery voucher card](/en/docs/tutorials/set-up-alelo-payment-method-for-cielo-v3) as a payment method. 

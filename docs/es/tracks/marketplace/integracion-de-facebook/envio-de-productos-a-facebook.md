@@ -71,7 +71,7 @@ Ejemplo: si para el atributo _Género_ tienes el valor _Femenino_ en tu tienda V
 
 A continuación se muestra una plantilla de ejemplo completada:  
 
-| **CategoryId** | **VTEX attribute name** | **Facebook attribute name** | **VTEX attribute value** | **Facebook attribute value** | 
+| CategoryId | VTEX attribute name | Facebook attribute name | VTEX attribute value | Facebook attribute value | 
 | ---------- | ---------- | ---------- | ---------- | ---------- | 
 | 23 | Color | Color | Amarillo | Yellow |
 | 23 | Tamaño | Size | Pequeño | P |
@@ -104,8 +104,8 @@ Debes crear las etiquetas personalizadas en Facebook Business Manager. Después 
 
 Cuando crees el nuevo campo de especificación de producto, úsalo para ingresar los siguientes valores:
 
-| **Campo** | **Valor** |
-|:---: | :---: |
+| Campo | Valor |
+|--- | --- |
 | Nombre del campo de la especificación | `facebook-labels`|
 |Tipo de campo | Radio |
 

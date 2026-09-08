@@ -24,7 +24,7 @@ Siga el paso a paso a continuación para acceder a la página de configuraciones
 4. Al ser dirigido a una nueva página, vuelva a autenticarse con su __login VTEX__
 5. Con todo correcto, haga clic en la pestaña __Trigger__.
 6. En la esquina superior izquierda de la pantalla, digite el código del carrito que desea editar en la barra de búsqueda
-7. Por último, haga clic en el icono de lápiz debajo de __ "Acciones" __
+7. Por último, haga clic en el icono de lápiz debajo de __"Acciones"__
 
 La pestaña __“Condiciones”__ agrupa las principales configuraciones para el disparo de Trigger. Así, es posible hacer las verificaciones para garantizar que todos los datos fueron incluidos correctamente y corregir posibles errores.
 

@@ -16,15 +16,15 @@ legacySlug: erro-de-coluna-nula-ao-tentar-importar-planilha-de-frete
 
 When uploading a freight spreadsheet, you may encounter the *"A column {name-of-column} from line {line-number} cannot be null"* error.
 
-This error occurs when the imported freight spreadsheet __has a tab outside the default format __.
+This error occurs when the imported freight spreadsheet __has a tab outside the default format__.
 
-Generally, the tab outside default format does not contain any important information. To solve the problem, __delete the tabs outside default format__, check if the tabs within default format have the correct information and try the upload again.
+Generally, the tab outside the default format does not contain any important information. To solve the problem, __delete the tabs outside the default format__, check if the tabs within the default format have the correct information and try the upload again.
 
 > ⚠️ In case the spreadsheet is over 10 MB, you’ll need to compact it in .zip format. The .zip archive should have less than 10 MB. Otherwise, the upload won’t work.
 
 ## Obtain spreadsheet with default format
 
-To ensure that your freight spreadsheet had the tabs with default format, we recommend downloading the spreadsheet in the correct format. To do this, follow the steps below:
+To ensure that your freight spreadsheet has the tabs in the default format, we recommend downloading the spreadsheet in the correct format. To do this, follow the steps below:
 
 1. In your store’s admin menu, click on __Inventory & shipping__
 2. Select __Shipping strategy__

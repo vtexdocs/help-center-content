@@ -52,6 +52,6 @@ After creating the SKU attachment and configuring its keys and permitted values,
 5. Associate the SKU with the attachment you have created by clicking the check box next to it.
 6. Click on `Save`.
 
-You can also associate an attachment to an SKU by using the [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/skuattachment).
+You can also associate an attachment with an SKU by using the [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/skuattachment).
 
 > ⚠️ VTEX does not control the inventory of the attachment. This is the responsibility of the Marketplace or the Seller.

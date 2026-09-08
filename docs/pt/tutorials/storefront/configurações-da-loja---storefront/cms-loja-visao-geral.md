@@ -26,7 +26,7 @@ No Admin VTEX, acesse **Configurações da loja > Storefront > Loja** e descubra
   Antes de fazer alterações na aba **Avançado**, entre em contato com a sua equipe de desenvolvedores e consulte a nossa [documentação sobre a otimização de desempenho](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-best-practices-for-optimizing-performance#enabling-store-settings) para mais informações.
 </div>
 
-| **Ferramenta** | **Descrição** |
+| Ferramenta | Descrição |
 | -------------- | ------------- |
 | Geral          | Realize as configurações de SEO da sua loja. |
 | Avançado       | Habilite as flags de otimização de desempenho para melhorar o site da sua loja. |

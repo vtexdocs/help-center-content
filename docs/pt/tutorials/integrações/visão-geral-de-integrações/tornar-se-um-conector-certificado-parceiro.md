@@ -23,6 +23,6 @@ Além de disponibilizarmos um conjunto de APIs e instruções para facilitar o p
 
 Se um marketplace externo não tem interesse em se tornar um parceiro, mas gostaria de integrar com uma loja VTEX, o processo é facilitado com a disponibilização de APIs e instruções. Confira mais detalhes no [Guia de integração com marketplace externo](https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide).
 
-| **SAIBA MAIS** |
+| SAIBA MAIS |
 | ---------- |
 |Caso você queira mais informações sobre oportunidades de crescimento, confira o artigo [Estratégias de marketplace na VTEX](/pt/tutorial/integrando-com-marketplace--tutorials_402?&utm_source=autocomplete).|

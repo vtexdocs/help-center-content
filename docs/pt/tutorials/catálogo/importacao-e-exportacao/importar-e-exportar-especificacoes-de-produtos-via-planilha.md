@@ -52,8 +52,8 @@ Após a finalização da exportação, você receberá um email com um link para
 
 A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campos da planilha de importação de especificações de produtos. Campos obrigatórios estão marcados com um asterisco (*).
 
-| **Campo** | **Descrição** | **Exemplo** |
-| :---: | :--- | :---: |
+| Campo | Descrição | Exemplo |
+| --- | --- | --- |
 | ID Produto* | Código numérico único identificador do produto. | 310117603 |
 | Nome Produto | Nome do produto apresentado para os clientes na experiência de navegação. | Corebiz camiseta |
 | Código de referência Produto | Código de referência único do produto, utilizado internamente pela loja. Para preencher este campo, use uma combinação de letras e/ou números. | camisaCor |

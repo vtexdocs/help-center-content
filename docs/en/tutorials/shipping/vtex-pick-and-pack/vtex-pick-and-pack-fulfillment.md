@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-> ℹ️ If you are interested in implementing for your business, fill out our [form](https://vtex.com/us-en/contact/) and indicate the name of the desired product in the `Comments` section.
+> ℹ️ If you are interested in implementing for your business, fill out our [form](https://www.vtex.com/en-us/get-started/) and indicate the name of the desired product in the `Comments` section.
 
 [VTEX Pick and Pack](/en/docs/tutorials/vtex-pick-and-pack) is a solution to streamline stores’ fulfillment processes by optimizing orders’ picking and packing, and the last-mile delivery. The solution is composed of the [Last Mile](/en/docs/tutorials/vtex-pick-and-pack-last-mile) and **VTEX Pick and Pack Fulfillment** features, and appears in your VTEX Admin in **Apps**.
 
@@ -41,7 +41,7 @@ When you access **Fulfillment > Picking and Packing**, you find a page listing a
 
 The table below contains a description of the columns:
 
-| **Column** | **Description** |
+| Column | Description |
 | ---------- | ---------- |
 | Created date | Order placement date and time. |
 | Delivery date | Order shipping deadline, according to the Service Level Agreement (SLA) defined between the store and the customer. |
@@ -52,7 +52,7 @@ The table below contains a description of the columns:
 
 To view more details about an order, select one from the list and the information below will appear:
 
-| **Column** | **Description** |
+| Column | Description |
 | ---------- | ---------- |
 | Customer information | Customer’s name, email and contact number. |
 | Delivery information | Customer’s address for delivery or pickup point address, when the customer is picking up from the store. |
@@ -507,7 +507,7 @@ In this tab, you can configure a webhook to be notified about orders’ status c
 
 In **VTEX Pick and Pack**, the **Users** page allows you to manage the profiles involved in the fulfillment process, called _users_. There are three types of users:
 
-| **User** | **Description** | **Permission** |
+| User | Description | Permission |
 | ---------- | ---------- | ---------- |
 | Picker | Person responsible for the picking. | <ul><li>Access the app, whether in mobile or web version (does not work offline).</li><li>Do not have access to the Admin.</li></ul> |
 | Customer Service | The store’s operator responsible for the order, the customer support with access to the Admin. | <ul><li>Access all orders in Admin.</li><li>Track orders.</li><li>Communicate with pickers.</li></ul> |
@@ -519,7 +519,7 @@ The **VTEX Pick and Pack** concept of _user_ is different from the common meanin
 
 To access the **VTEX Fulfillment**, the admin and customer service users must have permissions related to License Manager resources. We recommend [creating a role](/en/docs/tutorials/roles) identified as “_Fulfillment admin_”, which must have at least the following products and resources associated with it:
 
-| **Product** | **Associated Resources** |
+| Product | Associated Resources |
 | ---------- | ---------- |
 | Insights | <ul><li>Insights metrics</li></ul> |
 | License Manager | <ul><li>Get account by identifier</li><li>Get applications</li><li>Find user by email</li><li>View users with account access</li><li>View all admin users</li><li>Get resource by key</li><li>Get role Get paged roles</li><li>Get paged users</li><li>Get admin status</li><li>Get accounts</li><li>Get accounts by host</li></ul> |

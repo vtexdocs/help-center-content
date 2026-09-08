@@ -27,6 +27,6 @@ Using **a complementary feed is optional.** However, we recommend it in some cas
 
 Creating a complementary feed can also be beneficial when you want to change information about a product in Google Shopping but **do not want to change your sales channel.**
 
-|**LEARN MORE**|
-| ---------- |
-| For more information, check out these Google articles [about feeds](https://support.google.com/merchants/answer/7439058?hl=en) and how to create a complementary feed.|
+## Learn more
+
+For more information, check out these Google articles [about feeds](https://support.google.com/merchants/answer/7439058?hl=en) and how to create a complementary feed.

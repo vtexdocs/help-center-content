@@ -125,7 +125,7 @@ This code renders a list with __three links__:
 
 The template for creating lists is located in the `giftlist/create` route. The default template for this route is `new-GiftList-Create`, located in the `HTML Templates` section of your CMS.
 
-The list creation template comes with the control `<vtex.cmc:GiftListFormV2 />` by default. This control will render the list creation information __ according to the list type__ that was created.
+The list creation template comes with the control `<vtex.cmc:GiftListFormV2 />` by default. This control will render the list creation information __according to the list type__ that was created.
 
 The `giftlist / create` folder, by default, already comes with the flag marked` Authentication Required`. Because of this, a login will be requested when this section is accessed.
 

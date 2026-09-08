@@ -28,16 +28,16 @@ En esta sección encontrará la siguiente información:
 
 ## Características de los datos
 
-| **Característica** | **Descripción** |
-|:---:|:---:|
+| Característica | Descripción |
+|---|---|
 | Fuente de datos | Obtenido a partir de la información en módulo Bridge. |
 | Historial | Los datos se mantienen durante dos años, a partir de 2024 para los clientes que ya utilizan la plataforma VTEX. |
 | Intervalo mínimo de actualización | Una hora. |
 
 ## Tabla: order_status_change
 
-| **Nombre de la columna** | **Tipo de columna** | **Descripción de la columna** |
-|:---:|:---:|:---:|
+| Nombre de la columna | Tipo de columna | Descripción de la columna |
+|---|---|---|
 | main_account | character varying(100) | La cuenta principal de VTEX asociada con esta cuenta. |
 | account_name | character varying(100) | Nombre de la tienda o cuenta secundaria responsable del pedido. |
 | marketplace | character varying(50) | El nombre del marketplace de donde se originó este pedido. |

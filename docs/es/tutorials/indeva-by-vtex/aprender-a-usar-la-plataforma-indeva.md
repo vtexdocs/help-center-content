@@ -1,5 +1,5 @@
 ---
-title: 'Aprender a usar la plataforma Indeva'
+title: 'Indeva by VTEX'
 id: 2u5FZs01MIY53ODagxa2TQ
 status: PUBLISHED
 createdAt: 2025-10-01T12:00:49.183Z

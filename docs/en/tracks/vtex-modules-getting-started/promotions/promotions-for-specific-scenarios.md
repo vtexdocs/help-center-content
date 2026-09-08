@@ -151,7 +151,7 @@ The Restrictions section is available for all types of promotions. See below the
  The table below shows the restrictions that apply to each promotion type:
 
  | Promotion type | Limit use in the store | Limit use per customer | Limit eligible items |
-| :---- | :---: | :---: | :---: |
+| ---- | --- | --- | --- |
 | **Regular** | Yes | Yes | No |
 | **Buy Together** | Yes | Yes | No |
 | **More for Less** | Yes | Yes | Yes |

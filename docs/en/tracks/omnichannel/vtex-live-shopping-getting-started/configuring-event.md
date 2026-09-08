@@ -111,8 +111,8 @@ Once a promotion has been created, it will be displayed in a table with the foll
 
 In the **Settings** section, you can enable or disable the following event features:
 
-| **Topic** | **Feature** |
-| :---: | :--- |
+| Topic | Feature |
+| --- | --- |
 | Chat | <ul><li>**Email required:** By default, to allow the audience to participate in the live event chat, only their name is required. When you enable this field, they also have to provide an email address.</li><li>**Enable email sending:** When this field is enabled, if the audience asks a question and the administrator responds through the chat, an email notification is sent to the user with the response. This helps maintain the interaction with the end user outside the chat.</li></ul> |
 | Player | <ul><li>**Viewer visibility:** Displays the number of viewers currently watching the live stream event. This number isn’t cumulative.</li><li>**Popup transmission:** Allows displaying the entire Live Shopping component (chat, player, and product sidebar) in a popup format, drawing the full attention of the audience while they’re watching the event. The audience can close the popup anytime by clicking the X in the corner to return to the normal format.</li></ul> |
 | Products | <ul><li>**Apply tax:** Allows applying taxes to products showcased during the live event. When this option is enabled, the module **Promotions > Surcharges** will display the product price along with the applicable tax.</li></ul> |

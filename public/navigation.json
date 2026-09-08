@@ -37170,14 +37170,14 @@
                 },
                 {
                   "name": {
-                    "en": "Setting up the standard size for the zoom image",
-                    "es": "Configurar el tamaño estándar de la imagen de zoom",
-                    "pt": "Configurar o tamanho padrão da imagem de zoom"
+                    "en": "Configuring zoom and thumbnails in CMS Portal (Legacy) stores",
+                    "es": "Configurar zoom y miniaturas en tiendas CMS Portal (Legado)",
+                    "pt": "Configurando zoom e miniaturas em lojas CMS Portal (Legado)"
                   },
                   "slug": {
-                    "en": "setting-up-the-standard-size-for-the-zoom-image",
-                    "es": "configurar-el-tamano-estandar-de-la-imagen-de-zoom",
-                    "pt": "configurar-o-tamanho-padrao-da-imagem-de-zoom"
+                    "en": "configuring-zoom-and-thumbnails-in-cms-portal-legacy-stores",
+                    "es": "configurar-zoom-y-miniaturas-en-tiendas-cms-portal-legado",
+                    "pt": "configurando-zoom-e-miniaturas-em-lojas-cms-portal-legado"
                   },
                   "origin": "",
                   "type": "markdown",

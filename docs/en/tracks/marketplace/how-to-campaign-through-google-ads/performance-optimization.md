@@ -17,13 +17,13 @@ order: 4
 
 It is recommended for a campaign not to be modified during the first four weeks following any change, giving the algorithm sufficient time to collect feedback and implement machine learning. After this interval, you may analyze and optimize your results.
 
-This analysis is performed starting from a Department-level performance diagnostic, followed by the Categories and Subcategories advertised during a campaign. Thereafter, you can simply remove the underperforming Categories or Subcategories.
+This analysis is performed starting from a Department-level performance diagnostic, followed by the Categories and Subcategories advertised during a campaign. Thereafter, you can remove the underperforming Categories or Subcategories.
 
 This article will shed light on how to optimize campaign starting from the removal of inefficient Categories. However, in the same way that a Department can be divided into several Categories, so too can any Category be subdivided into Subcategories.
 
 Consequently, campaign optimization can also be performed by removing Subcategories, as long as this makes sense for the campaign's strategy.
 
-> ⚠️ **Notice**: VTEX Shopping Ads only allows the optimization of Google Smart Shopping type campaigns that were created in the App itself. Other campaigns only display their results in VTEX Shopping Ads, while their management is done in the Google Ads panel.
+> ⚠️ VTEX Shopping Ads only allows the optimization of Google Smart Shopping type campaigns that were created in the App itself. Other campaigns only display their results in VTEX Shopping Ads, while their management is done in the Google Ads panel.
 
 1. In the upper right corner of the screen, click on __Campaign Audiences__;
 2. Select the Smart Shopping __campaign__ you want to optimize;
