@@ -37,7 +37,7 @@ Los tiempos de procesamiento indican la duración de cada etapa del fulfillment,
 | **Tiempo promedio de procesamiento** | Periodo entre el inicio del alistamiento y la conclusión del empaque. |  Σ (Fecha en `Preparando envío` − Fecha en `Listo para alistamiento`) / Total de pedidos considerados  |
 
 > ⚠️ Los indicadores **Tiempo del ciclo del pedido** y **Tiempo de envío** solo se calculan si tu operación utiliza [VTEX Pick and Pack Last Mile](https://help.vtex.com/es/docs/tutorials/vtex-pick-and-pack-last-mile). Sin este módulo activo en tu tienda, VTEX no recibe la confirmación de entrega del pedido, y estos indicadores se muestran con error.
->
+
 > ℹ️ En los indicadores de tiempo, solo se incluyen en el cálculo los pedidos que pasaron por los dos status utilizados para calcular cada indicador. Consulta la descripción de cada status en [Flujo y status de pedidos](https://help.vtex.com/es/docs/tutorials/flujo-y-status-de-pedidos).
 
 ### Indicadores de desempeño
@@ -57,9 +57,9 @@ Los indicadores de desempeño evalúan el resultado de los pedidos procesados en
 |              **Tasa de empaque**              |                     Volumen de ítems empacados por hora en la operación.                    |                         Total de ítems empacados / Horas transcurridas                         |                                                                                                               -                                                                                                              |
 
 > ⚠️ Los indicadores **Precisión en la fecha límite**, **Envío a tiempo** y **OTIF** solo se calculan si tu operación utiliza [VTEX Pick and Pack Last Mile](https://help.vtex.com/es/docs/tutorials/vtex-pick-and-pack-last-mile). Sin este módulo activo en tu tienda, VTEX no recibe la confirmación de envío del pedido, y estos indicadores se muestran con error.
->
+
 > ℹ️ El denominador del OTIF considera todos los pedidos del periodo, incluidos los que aún están en procesamiento, cancelados o rechazados. Por eso, los pedidos que aún no han alcanzado el status Entregado reducen el indicador. Insights usa el status del pedido en VTEX, que puede actualizarse a Entregado por diferentes sistemas y flujos, como el módulo [Last Mile](https://help.vtex.com/es/docs/tutorials/vtex-pick-and-pack-last-mile).
->
+
 > ℹ️ La **Tasa de backorder** considera solo los rechazos cuyo motivo contiene la palabra "faltante". Para que el indicador refleje tu operación, configura el motivo de rechazo por falta de stock utilizando ese término.
 
 ## Ítems
