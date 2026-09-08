@@ -20613,13 +20613,13 @@
                     {
                       "name": {
                         "en": "Configuring zoom and thumbnails in CMS Portal (Legacy) stores",
-                        "es": "Configuring zoom and thumbnails in CMS Portal (Legacy) stores",
-                        "pt": "Configuring zoom and thumbnails in CMS Portal (Legacy) stores"
+                        "es": "Configurar zoom y miniaturas en tiendas CMS Portal (Legado)",
+                        "pt": "Configurando zoom e miniaturas em lojas CMS Portal (Legado)"
                       },
                       "slug": {
-                        "en": "setting-up-zoom-and-thumbnails-in-cms-portal-legacy-stores",
-                        "es": "",
-                        "pt": ""
+                        "en": "configuring-zoom-and-thumbnails-in-cms-portal-legacy-stores",
+                        "es": "configurar-zoom-y-miniaturas-en-tiendas-cms-portal-legado",
+                        "pt": "configurando-zoom-e-miniaturas-em-lojas-cms-portal-legado"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -20756,53 +20756,6 @@
                         "en": "customizing-your-stores-typography",
                         "es": "personalizar-la-tipografia-de-tu-tienda",
                         "pt": "personalizando-a-tipografia-da-sua-loja"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "CMS para Store Framework",
-                "es": "CMS para Store Framework",
-                "pt": "CMS para Store Framework"
-              },
-              "slug": {
-                "en": "cms-para-store-framework",
-                "es": "cms-para-store-framework-subcategoria",
-                "pt": "cms-para-store-framework-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Configuración de la Tienda - Storefront",
-                    "es": "Configuración de la Tienda - Storefront",
-                    "pt": "Configurações da Loja - Storefront"
-                  },
-                  "slug": {
-                    "en": "configuracion-de-la-tienda-storefront",
-                    "es": "configuracion-de-la-tienda---storefront-subcategoria",
-                    "pt": "configurações-da-loja---storefront-subcategoria"
-                  },
-                  "origin": "",
-                  "type": "category",
-                  "children": [
-                    {
-                      "name": {
-                        "es": "Configurar zoom y miniaturas en tiendas CMS Portal (Legado)",
-                        "pt": "Configurando zoom e miniaturas em lojas CMS Portal (Legado)",
-                        "en": "Configurar zoom y miniaturas en tiendas CMS Portal (Legado)"
-                      },
-                      "slug": {
-                        "es": "configurar-el-zoom-y-las-miniaturas-en-tiendas-cms-portal-legado",
-                        "pt": "configurando-zoom-e-miniaturas-em-lojas-cms-portal-legado",
-                        "en": ""
                       },
                       "origin": "",
                       "type": "markdown",
