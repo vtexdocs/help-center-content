@@ -131,7 +131,7 @@ Once the necessary tests and fixes have been completed, you must prepare the sto
 Regardless of the request type, the ticket to VTEX Support must have the following information:
 
 - Title stating the intention to go live.
-- If the [storefront technology](http://link-implement-frontend) was developed on VTEX IO or CMS Portal (Legacy).
+- If the [storefront technology](/en/docs/tracks/frontend-implementation) was developed on VTEX IO or CMS Portal (Legacy).
 - URL to be pointed to.
 - Time for internal pointing to be carried out, between 9 a.m. and 5 p.m. UTC-3.
 - Indicate if the store has conditional rules for [sales channels](/en/docs/tutorials/creating-a-trade-policy).
