@@ -14,6 +14,7 @@ trackId: 3J7WFZyvTcoiwkcIVFVhIS
 trackSlugEN: proximos-pasos-tras-el-go-live
 order: 3
 seeAlso:
+  - "/es/docs/tutorials/elegir-entre-arquitectura-multitienda-o-entorno-adicional"
 ---
 
 Una tienda internacional, también llamada cross-border, es un tipo de [multitienda](https://help.vtex.com/es/docs/tutorials/gestionar-multitienda). En VTEX, esto se traduce en una cuenta con múltiples [bindings](https://help.vtex.com/es/docs/tutorials/que-es-binding) y diferentes canales de venta para cada una de tus tiendas locales.
