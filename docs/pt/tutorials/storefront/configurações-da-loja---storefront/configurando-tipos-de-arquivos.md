@@ -36,9 +36,9 @@ Ao clicar em `Editar`, o formulário apresenta os campos abaixo:
 
 | Campo | Descrição |
 | :--- | :--- |
-| **Nome** | Identificação do tipo de arquivo na lista (por exemplo, `Produto - Zoom` ou `Produto - Thumb`). |
-| **Largura** e **Altura** | Dimensões padrão em pixels (`largura` x `altura`) associadas ao tipo. |
-| **Tamanho Máximo em KB** | Limite máximo do arquivo em quilobytes (KB). É o principal critério de validação no upload de imagens de produto no Catálogo. |
+| **Nome** | Identifica o tipo de arquivo na lista (por exemplo, `Produto - Zoom` ou `Produto - Thumb`). |
+| **Largura** e **Altura** | Apresentam as dimensões padrão em pixels (`largura` x `altura`) associadas ao tipo. |
+| **Tamanho Máximo em KB** | Delimita o tamanho máximo do arquivo em quilobytes (KB). É o principal critério de validação no upload de imagens de produto no Catálogo. |
 | **Tipo** | Define se o tipo é Imagem (usa largura/altura e pode ser redimensionada/comprimida) ou Arquivo (arquivo genérico, sem restrição de pixels). |
 | **Flag de ajuste de tamanho obrigatório** | Quando marcada, obriga o redimensionamento da imagem para a largura e a altura configuradas. Quando desmarcada, as dimensões não são forçadas no upload. |
 
