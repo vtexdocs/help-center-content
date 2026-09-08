@@ -8,92 +8,70 @@ slugEN: configure-shopping-assistant
 locale: pt
 ---
 
-O canal de Web Chat da VTEX CX Platform, identificado na plataforma como **Shopping Assistant**, permite atender os visitantes do seu site com um agente de IA. Você personaliza o visual e o comportamento do widget e, em seguida, instala o chat no site com um script gerado pela plataforma.
+O Shopping Assistante é o canal de web chat do VTEX CX Platform que permite atender os visitantes do seu site com um agente de IA. Você personaliza o visual e o comportamento do widget e, em seguida, instala o chat no site com um script gerado pela plataforma.
 
 Este tutorial explica como acessar o canal, personalizar a aparência, configurar as preferências e instalar o script no site.
 
-## Acessar o canal
+## Instalar o aplicativo
+
+Para instalar o aplicativo na sua loja, siga os passos a seguir:
+
+1. No projeto desejado, acesse **Configurações > Canais**.
+2. Clique na aba **Descoberta**.
+3. Digite **Shopping Assistant** no campo de busca ou procure pelo card do aplicativo.
+4. Clique no botão de <i class="fas fa-plus" aria-hidden="true"></i> para adicionar o aplicativo ao seu projeto.
+
+## Acessar o aplicativo
 
 Para abrir as configurações do Shopping Assistant, siga os passos a seguir:
 
 1. No projeto, acesse **Configurações > Canais**.
 2. Clique na aba **Meus aplicativos**.
-3. Na seção **Aplicativos configurados**, clique no card **Shopping Assistant** que deseja configurar.
-
-> ℹ️ Se o Shopping Assistant ainda não estiver em **Aplicativos configurados**, use a aba **Descoberta** para adicioná-lo ao projeto.
+3. Na seção **Aplicativos instalados**, clique no card **Shopping Assistant** que deseja configurar.
 
 Ao clicar no card, a janela de configuração do **Shopping Assistant** é aberta, com as abas **Aparência**, **Preferências** e **Código Script**. Uma prévia do widget é exibida para você conferir o resultado das alterações.
 
-## Personalizar a aparência
+## Personalizar o aplicativo
 
-A aba **Aparência** define o visual do widget de chat. Para personalizar a aparência, siga os passos a seguir:
+### Aparência
 
-1. Clique na aba **Aparência**.
-2. Em **Título do chat**, insira o nome exibido no cabeçalho do widget.
-3. Em **Texto do placeholder**, insira o texto exibido no campo de mensagem.
-4. (Opcional) Clique em `+ Mais` para ver outras opções de aparência.
-5. Em **Personalização**, configure os seguintes campos:
-   - **Cor principal:** cor do widget.
-   - **Imagem do avatar:** envie um arquivo PNG, JPG ou JPEG para o avatar do agente.
-   - **CSS customizado:** envie um arquivo CSS para aplicar estilos próprios ao widget.
-6. Clique em `Salvar alterações`.
+A aba **Aparência** define o visual do widget de chat. Nela, você pode configurar os seguintes campos:
 
-## Configurar as preferências
+- **Título do chat**: nome exibido no cabeçalho do widget.
+  - Ao clicar em <i class="fas fa-plus" aria-hidden="true"></i>`Mais`, você pode adicionar campos opcionais:
+    - **Subtítulo do chat:** texto que fica abaixo do título.
+    - **Mensagem de disparo:** mensagem enviada quando o cliente abre o chatbot.
+    - **Mensagem de notificação do chat:** mensagem que aparece na notificação do chatbot.
+    - **Texto do placeholder:** placeholder do campo de mensagem. 
+- **Cor principal:** cor principal do chat.
+- **Imagem do avatar:** avatar do agente no chat.
+- **CSS customizado:** envie um arquivo CSS para aplicar estilos próprios ao widget.
 
-A aba **Preferências** define o comportamento do chat. Para configurar as preferências, siga os passos a seguir:
+### Preferências
 
-1. Clique na aba **Preferências**.
-2. Ative ou desative as opções de cada seção, conforme a necessidade da loja.
-3. Clique em `Salvar alterações`.
+A aba **Preferências** define o comportamento do chat. Nela, você pode configurar os seguintes campos:
 
-As opções estão agrupadas nas seções a seguir.
+| Seção | Funcionalidade | Descrição |
+|---|---|---|
+| **Comportamento** | Modo incorporado | Ative esse botão para exibir o chat incorporado na página da loja. Se preferir o chat como uma janela flutuante, desligue o botão. |
+| **Comportamento** | Mostrar botão de tela cheia | Exibe um botão que permite ao usuário expandir o chat para tela cheia. |
+| **Comportamento** | Iniciar chat em tela cheia | Abre o chat diretamente em tela cheia quando o usuário inicia uma conversa. |
+| **Comportamento** | Indicador de mensagens não lidas | Exibe um indicador visual quando há mensagens não lidas pelo usuário. |
+| **Comportamento** | Usar otimização de conexão | Ative esse botão para conectar o chat com o Socket apenas quando o usuário abre um chat ou quando a última mensagem do usuário tiver sido enviada há menos de 24 horas (tempo de inicialização automática do Socket). Se preferir que o chat conecte-se automaticamente com o Socket, desligue o botão. |
+| **Varejo** | Perguntas sugeridas por IA (Novo) | Exibe botões de interação rápida na página do produto. A IA analisa o SKU para sugerir automaticamente as perguntas mais relevantes dos clientes. |
+| **Varejo** | Permitir que o Shopping Assistant redirecione automaticamente a página **(Beta)** | Permite que o Shopping Assistant redirecione automaticamente o usuário para outra página quando um link é enviado durante a conversa. Esta funcionalidade está atualmente em beta e pode mudar. |
+| **Varejo** | Adicionar ao carrinho da loja **(Beta)** | Permite que os usuários adicionem produtos sugeridos pela IA diretamente ao carrinho nativo da loja, em vez de usar um carrinho gerenciado pelo Shopping Assistant. Recomendado para lojas com carrinho ou fluxos de checkout personalizados. Esta funcionalidade está atualmente em beta e pode mudar. |
+| **Mídia** | Mostrar botão de gravação de voz | Exibe um botão que permite ao usuário enviar mensagens de voz no chat. |
+| **Mídia** | Mostrar botão de câmera | Exibe um botão que permite ao usuário enviar imagens no chat. |
+| **Histórico de chats e inatividade** | Manter histórico de mensagens | Preserva o histórico de mensagens da conversa entre sessões do usuário. |
+| **Histórico de chats e inatividade** | Reiniciar conversa por inatividade do contato | Reinicia a conversa automaticamente após um período de inatividade do usuário. Quando habilitado, você pode delimitar esse período de inatividade no campo seguinte, no formato HH:mm. |
+| **Histórico de chats e inatividade** | Tempo entre as mensagens | Define o intervalo entre mensagens enviadas pelo agente. |
 
-### Comportamento
-
-A seção **Comportamento** reúne as opções de exibição do widget:
-
-- **Modo incorporado**
-- **Mostrar botão de tela cheia**
-- **Iniciar chat em tela cheia**
-- **Indicador de mensagens não lidas**
-- **Usar otimização da conexão**
-
-### Varejo
-
-A seção **Varejo** reúne as opções específicas para lojas. Confira as opções disponíveis:
-
-| Opção | Descrição |
-| --- | --- |
-| **Perguntas sugeridas por IA (Novo)** | Exibe botões de interação rápida na página do produto. A IA analisa o SKU para sugerir automaticamente as perguntas mais relevantes para os clientes. |
-| **Permitir que o Shopping Assistant redirecione automaticamente a página (Beta)** | Quando habilitado, o Shopping Assistant pode redirecionar automaticamente o usuário para outra página quando um link é enviado durante a conversa. |
-| **Adicionar ao carrinho da loja (Beta)** | Os compradores podem adicionar produtos sugeridos pela IA diretamente ao carrinho nativo da loja, em vez de usar um carrinho gerenciado pelo Shopping Assistant. Recomendado para lojas com fluxos de carrinho ou checkout personalizados. |
-
-> ⚠️ As opções marcadas como **Beta** podem sofrer alterações.
-
-### Mídia
-
-A seção **Mídia** controla os botões de captura no widget:
-
-- **Mostrar botão de gravação de voz**
-- **Mostrar botão de câmera**
-
-### Histórico de chats e inatividade
-
-A seção **Histórico de chats e inatividade** define o que acontece com a conversa ao longo do tempo:
-
-- **Manter histórico de mensagens**
-- **Reiniciar conversa por inatividade do contato**
-
-Em **Tempo entre as mensagens**, escolha o **Intervalo entre mensagens do agente**.
-
-## Instalar o script no site
+## Código Script
 
 A aba **Código Script** gera o código para instalar o Shopping Assistant no site. Para instalar o chat, siga os passos a seguir:
 
-1. Clique na aba **Código Script**.
-2. Copie o código exibido.
-3. Cole o código acima da última tag `</body>` do seu site.
-
-(Opcional) Clique em `Baixar script` para baixar o arquivo do script.
-
-> ℹ️ Use o código gerado para o seu projeto. Não reutilize o script de outro canal ou de outra loja.
+1. Após finalizar as configurações do Shopping Assistant, clique em `Salvar alteraçõe`. Isso gera o código script com suas preferências salvas. 
+2. Clique na aba **Código Script**.
+3. Copie o código exibido ou clique em `Baixar script`.
+4. No código do seu site, cole esse script acima da última tag `</body>`.
