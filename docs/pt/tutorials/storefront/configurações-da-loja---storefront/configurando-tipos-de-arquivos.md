@@ -44,12 +44,12 @@ Ao clicar em `Editar`, o formulário apresenta os campos abaixo:
 
 ### Corrigir uploads bloqueados
 
-O upload de imagens de produto e SKU no Catálogo respeita o **Tamanho Máximo em KB** configurado para o tipo de arquivo correspondente.
+O upload de imagens de produto e de SKU no Catálogo respeita o **Tamanho Máximo em KB** configurado para o tipo de arquivo correspondente.
 
 Se o valor estiver em **0KB** ou for baixo demais, o Admin pode rejeitar o upload mesmo quando:
 
 - O arquivo abre normalmente no computador.
-- A mesma imagem sobe sem erro em outra conta ou ambiente.
+- A mesma imagem sobe sem erro em outra conta ou em outro ambiente.
 - O arquivo está dentro das [boas práticas gerais de imagens do Catálogo](/pt/docs/tutorials/boas-praticas-para-o-uso-de-imagens-no-catalogo).
 
 Para corrigir uploads bloqueados, siga estes passos:
