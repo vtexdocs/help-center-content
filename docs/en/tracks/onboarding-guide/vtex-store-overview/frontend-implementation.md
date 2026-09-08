@@ -254,7 +254,7 @@ Below are the requirements for each topic:
   - [VTEX Checkout](https://www.faststore.dev/docs/go-live/4-integrating-the-vtex-checkout) integration
   - [VTEX Order Placed e My Account](https://www.faststore.dev/docs/go-live/5-integrating-the-vtex-order-placed-and-my-account) integration
 - Logistics
-  - [Add a loading dock](/en/docs/tutorials/gerenciar-doca)
+  - [Add a loading dock](/en/docs/tutorials/managing-loading-docks)
   - [Adding shipping strategies](/en/docs/tutorials/shipping-strategy)
   - [Associating a shipping strategy and warehouse with a loading dock](/en/docs/tutorials/managing-loading-docks)
 - Payments
