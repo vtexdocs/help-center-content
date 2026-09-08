@@ -18,8 +18,8 @@ order: 3
 This article explains how to gain access to the VTEX environment and provides information from signing the agreement with VTEX to the initial store settings.
 Before you begin, you should know the main terms used in the article, as shown in the table below:
 
-| **Term** | **Definition** |
-| :---: | :--- |
+| Term | Definition |
+| --- | --- |
 | VTEX Admin / VTEX environment | Platform for managing the ecommerce experience. |
 | Master Service Agreement | These are policies that regulate the use of the VTEX ecommerce platform services in compliance with the terms of the agreement signed between the contractor and the contracted party. |
 | Appendix 1 - Order form | Supplemental document that goes with the **Master Service Agreement** and is sent to the contractor to be digitally signed, containing information about the business agreement and legal information of the contractor and VTEX. |
@@ -82,8 +82,8 @@ To log in to the store, VTEX provides authentication by access code, password, [
 
 The table below shows the three authentication types available:
 
-| **Authentication type** | **Description** |
-| :---: | :--- |
+| Authentication type | Description |
+| --- | --- |
 | Authentication of API requests using [app keys](/en/docs/tutorials/api-keys) | App keys are used to authenticate VTEX API requests. Store admins can create these keys for different integrations.Learn more in the [API authentication using application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) article. |
 | Authentication of requests to APIs using user tokens | User tokens are used to authenticate API requests, especially for [frontend](/en/docs/tracks/frontend-implementation) apps developed using VTEX IO.Learn more in the [API authentication using user tokens](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) article. |
 | Authentication of apps using authentication tokens | The use of auth tokens is required for authentication when developing apps using VTEX IO.Learn more in the [App authentication using auth tokens](https://developers.vtex.com/docs/guides/app-authentication-using-auth-tokens) article. |

@@ -27,7 +27,7 @@ Para crear tu fórmula puedes utilizar [variables](#variables), como `total`, `f
 
 Para escribir la fórmula de tu promoción, puedes usar las variables que se describen a continuación.
 
-| **Variable** | **Descripción** |
+| Variable | Descripción |
 |---|---|
 | `total` | Suma de los precios de los productos seleccionados. |
 | `freight` | Valor del envío. El envío que se use en la fórmula será el de menor valor disponible para el pedido, independientemente de la elección del cliente. |
@@ -37,8 +37,8 @@ Para escribir la fórmula de tu promoción, puedes usar las variables que se des
 
 Para realizar operaciones matemáticas, usa los signos convencionales en tu fórmula:
 
-| **Operación** | **Signo** |
-|:---:|:---:|
+| Operación | Signo |
+|---|---|
 | Suma | `+` |
 | Resta | `-` |
 | Multiplicación | `*` |

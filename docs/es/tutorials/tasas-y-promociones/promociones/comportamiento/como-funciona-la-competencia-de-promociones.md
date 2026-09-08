@@ -124,14 +124,14 @@ Esta estrategia agrupa las promociones que no compiten por los mismos productos.
 Pedro creó un carrito con 1 escritorio de 100 USD \+ 30 USD de envío:
 
 | Ítems | Cantidad | Valores |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Escritorio | 1 | 100 USD |
 | Envío | 1 | 30 USD |
 
 Las promociones disponibles son:
 
 | Promoción | Descuentos | Acumulación |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | A | 10% de descuento aplicado en todos los productos | Acumulativa para todos los productos |
 | B | Envío máximo de 20 USD | No acumulativa |
 | C | 80% de descuento en el envío | No acumulativa |
@@ -141,7 +141,7 @@ Las promociones disponibles son:
 Después de aplicar las promociones disponibles:
 
 | Ítems | Cantidad | Valores |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Escritorio | 1 | 45 USD |
 | Envío | 1 | 6 USD |
 
@@ -155,11 +155,11 @@ El valor total del pedido sería **51 USD**.
     - Precio después de la Promoción D: 100 USD \- 50 USD \= 50 USD.  
   - Aplicación de la promoción acumulativa (Promoción A):  
     - Precio después de la Promoción D: 50 USD  
-    - Descuento de la Promoción A (10%): 50 USD \* (1 \- 0.10) \= 50 USD \* 0.90 \= 45 USD.
+    - Descuento de la Promoción A (10%): 50 USD \*(1 \- 0.10) \= 50 USD \* 0.90 \= 45 USD.
 
 - Envío (precio original: 30 USD)  
   - Aplicación de la promoción no acumulativa (Promoción C):  
-    - Descuento de la Promoción C (80%): 30 USD \* (80/100) \= 30 USD \* 0.80 \= 24 USD.  
+    - Descuento de la Promoción C (80%): 30 USD \*(80/100) \= 30 USD \* 0.80 \= 24 USD.  
     - Precio después de la Promoción C: 30 USD \- 24 USD \= 6 USD.  
     - Descuento de la Promoción B: se evalúa la promoción "Envío máximo de 20 USD", ya que el costo del envío (6 USD) es inferior a 20 USD y esta promoción no ofrece beneficio adicional sobre el descuento del 80% ya calculado.  
     - Precio final del envío \= 6 USD.
@@ -179,21 +179,21 @@ El valor total del pedido sería **51 USD**.
 Carla creó un carrito con 1 escritorio y 1 computadora:
 
 | Ítems | Cantidad | Valores |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Escritorio | 1 | 100 USD |
 | Computadora | 1 | 500 USD |
 
 Los productos forman parte de colecciones:
 
 | Ítems | Colecciones |
-| :---- | :---- |
+| ---- | ---- |
 | Escritorio | Colección 1 y Colección 2 |
 | Computadora | Colección 1 |
 
 Las promociones disponibles son:
 
 | Promoción | Descuentos | Reglas | Acumulación |
-| :---- | :---- | :---- | :---- |
+| ---- | ---- | ---- | ---- |
 | A | 10 % | Aplicado en productos de la Colección 1 | No acumulativa |
 | B | 25% | Aplicado en productos de la Colección 2 | No acumulativa |
 | C | 5 % | Aplicado a todos los productos | Acumulativa para todos los productos |
@@ -205,7 +205,7 @@ Las promociones A y B compiten entre sí, ya que afectan el mismo producto (escr
 En este escenario, el escritorio y la computadora (ambos de la colección 1\) recibirán el descuento de 10% de la promoción A, seguido del descuento de 5% de la Promoción C.
 
 | Ítems | Promociones aplicadas | Valores |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Escritorio | Promoción A y Promoción C | 85.50 USD |
 | Computadora | Promoción A y Promoción C | 427.50 USD |
 
@@ -215,19 +215,19 @@ En este escenario, el valor total del pedido sería **513.00 USD**.
 
 - Escritorio (precio original: 100 USD)  
   - Aplicación de la promoción no acumulativa (Promoción A):  
-    - Descuento de la promoción A (10%): 100 USD \* (10/100) \= 100 USD \* 0.10 \= 10 USD.  
+    - Descuento de la promoción A (10%): 100 USD \*(10/100) \= 100 USD \* 0.10 \= 10 USD.  
     - Precio después de la Promoción A \= 100 USD \- 10 USD \= 90 USD.  
   - Aplicación de la promoción acumulativa (Promoción C):  
     - Precio después de la Promoción A: 90 USD.  
-    - Descuento de la Promoción C (5%): 90 USD \* (1 \- 0.05) \= 90 USD \* 0.95 \= 85.50 USD.
+    - Descuento de la Promoción C (5%): 90 USD \*(1 \- 0.05) \= 90 USD \* 0.95 \= 85.50 USD.
 
 - Computadora (precio original: 500 USD)  
   - Aplicación de la promoción no acumulativa (Promoción A):  
-    - Descuento de la Promoción A (10%): 500 USD \* (10/100) \= 500 USD \* 0.10 \= 50 USD.  
+    - Descuento de la Promoción A (10%): 500 USD \*(10/100) \= 500 USD \* 0.10 \= 50 USD.  
     - Precio después de la Promoción A \= 500 USD \- 50 USD \= 450 USD.  
   - Aplicación de la promoción acumulativa (Promoción C):  
     - Precio después de la Promoción A: 450 USD.  
-    - Descuento de la Promoción C (5%): 450 USD \* (1 \- 0.05) \= 450 USD \* 0.95 \= 427.50 USD.
+    - Descuento de la Promoción C (5%): 450 USD \*(1 \- 0.05) \= 450 USD \* 0.95 \= 427.50 USD.
 
 - Total del pedido en el escenario 1  
   - Precio final del escritorio: 85.50 USD  
@@ -239,7 +239,7 @@ En este escenario, el valor total del pedido sería **513.00 USD**.
 En este escenario, el escritorio (único ítem de la Colección 2\) recibirá el descuento de 25% de la Promoción B, seguido del descuento de 5% de la promoción C. Ya que la computadora no pertenece a la Colección 2, solo recibe el descuento de 5% de la Promoción C.
 
 | Ítems | Promociones aplicadas | Valores |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Escritorio | Promoción B y Promoción C | 71.25 USD |
 | Computadora | Promoción C | 475.00 USD |
 
@@ -249,18 +249,18 @@ En este escenario, el valor total del pedido sería **546.25 USD**.
 
 - Escritorio (precio original: 100 USD)  
   - Aplicación de la promoción no acumulativa (Promoción B):  
-    - Descuento de la Promoción B (25%): 100 USD \* (25/100) \= 100 USD \* 0.25 \= 25 USD.  
+    - Descuento de la Promoción B (25%): 100 USD \*(25/100) \= 100 USD \* 0.25 \= 25 USD.  
     - Precio después de la Promoción B \= 100 USD \- 25 USD \= 75 USD.  
   - Aplicación de la promoción acumulativa (Promoción C):  
     - Precio después de la Promoción B: 75 USD.  
-    - Descuento de la Promoción C (5%): 75 USD \* (1 \- 0.05) \= 75 USD \* 0.95 \= 71.25 USD.
+    - Descuento de la Promoción C (5%): 75 USD \*(1 \- 0.05) \= 75 USD \* 0.95 \= 71.25 USD.
 
 - Computadora (precio original: 500 USD)  
   - Aplicación de la promoción no acumulativa:  
     - La promoción B no es aplicable, ya que la computadora no pertenece a la Colección 2\.  
   - Aplicación de la promoción acumulativa (Promoción C):  
     - Precio antes de la promoción C (no afectado por la promoción B): 500 USD.  
-    - Descuento de la Promoción C (5%): 500 USD \* (1 \- 0.05) \= 500 USD \* 0.95 \= 427.50 USD.
+    - Descuento de la Promoción C (5%): 500 USD \*(1 \- 0.05) \= 500 USD \* 0.95 \= 427.50 USD.
 
 - Total del pedido en el escenario 2  
   - Precio final del escritorio: 71.25 USD  
@@ -276,21 +276,21 @@ El módulo Promociones puede configurarse para aplicar el mayor descuento en cad
 La competencia por ítem funciona de la siguiente manera:
 
 | Ítems | Cantidad | Valores |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Escritorio | 1 | 100 USD |
 | Computadora | 1 | 500 USD |
 
 Los productos forman parte de colecciones:
 
 | Ítems | Colecciones |
-| :---- | :---- |
+| ---- | ---- |
 | Escritorio | Colección 1 y Colección 2 |
 | Computadora | Colección 1 |
 
 Las promociones disponibles son:
 
 | Promoción | Descuentos | Reglas | Acumulación |
-| :---- | :---- | :---- | :---- |
+| ---- | ---- | ---- | ---- |
 | A | 10% | Aplicado en productos de la Colección 1 | No acumulativa |
 | B | 25% | Aplicado en productos de la Colección 2 | No acumulativa |
 | C | 5% | Aplicado a todos los productos | Acumulativa para todos los productos |
@@ -298,7 +298,7 @@ Las promociones disponibles son:
 Aplicación de la competencia por ítem:
 
 | Ítems | Promoción aplicada | Valores |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Escritorio | Promoción B y Promoción C | 71.25 USD |
 | Computadora | Promoción A y Promoción C | 427.50 USD |
 
@@ -314,7 +314,7 @@ El valor final del pedido en este escenario sería **498.75 USD**.
     - La Promoción B es la mejor para el escritorio. Precio después de la Promoción B \= 75 USD.  
   - Aplicación de la promoción acumulativa (Promoción C):  
     - Precio después de la Promoción B: 75 USD.  
-    - Descuento de la Promoción C (5%): 75 USD \* (1 \- 0.05) \= 75 USD \* 0.95 \= 71.25 USD.
+    - Descuento de la Promoción C (5%): 75 USD \*(1 \- 0.05) \= 75 USD \* 0.95 \= 71.25 USD.
 
 - Computadora (precio original: 500 USD)  
 
@@ -324,7 +324,7 @@ El valor final del pedido en este escenario sería **498.75 USD**.
     - La promoción A es la única, y por lo tanto, la mejor promoción no acumulativa para la computadora. Precio después de la Promoción A \= 450 USD.  
   - Aplicación de la promoción acumulativa (Promoción C):  
     - Precio después de la Promoción A: 450 USD.  
-    - Descuento de la Promoción C (5%): 450 USD \* (1 \- 0.05) \= 450 USD \* 0.95 \= 427.50 USD.
+    - Descuento de la Promoción C (5%): 450 USD \*(1 \- 0.05) \= 450 USD \* 0.95 \= 427.50 USD.
 
 - Total del pedido en la estrategia de competencia por ítem  
 

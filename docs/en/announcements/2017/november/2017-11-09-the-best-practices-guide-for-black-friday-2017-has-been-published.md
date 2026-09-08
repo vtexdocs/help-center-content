@@ -12,15 +12,17 @@ slugEN: 2017-11-09-the-best-practices-guide-for-black-friday-2017-has-been-publi
 locale: en
 legacySlug: the-best-practices-guide-for-black-friday-2017-has-been-published
 announcementImageID: 'undefined'
-announcementSynopsisEN: 'VTEX has created a primer of good practices to help our customers prepare their stores for Black Friday'
+announcementSynopsisEN: 'VTEX has created a best practices guide to help our customers prepare their stores for Black Friday'
 ---
 
 As in recent years, VTEX has created a guide on best practices to help our customers prepare their stores for Black Friday.
 
-In it we present recommendations for each of the VTEX modules, highlighting the time in advance each of the most important actions should be taken with.
+## What has changed?
 
-To access the guide, simply enter the address below, replacing `{AccountName}` by the name of your store:
+In it we present recommendations for each of the VTEX modules, highlighting how far in advance each of the most important actions should be taken.
 
-`https://{AccountName}.vtexcommercestable.com.br/admin/surveys/en`
+## What needs to be done?
 
-Let's make together the best Black Friday in history!
+To access the guide, enter the address below, replacing `{accountName}` with the name of your store:
+
+`https://{accountName}.vtexcommercestable.com.br/admin/surveys/en`

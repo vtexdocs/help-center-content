@@ -21,7 +21,7 @@ The XML language can be combined with different standards, which makes it possib
 
 The XML configuration functionality in VTEX makes use of this feature of being able to combine different standards to enable other databases to read the structures created by the VTEX database. 
 
-This means that, when entering the tag names in the __Id do Produto__ field, for example, with __Product_Id__, the VTEX database will understand that this information has to be entered there, making it possible to understand by Google, Facebook, Buscapé and many other systems that will read the structure.
+This means that, when entering the tag names in the __Id do Produto__ field, for example, with __Product_Id__, the VTEX database will understand that this information has to be entered there, so that Google, Facebook, Buscapé, and other systems can understand the structure.
 
 > ℹ️ Changes to XML take an average of two hours to be updated.
 
@@ -40,7 +40,7 @@ Here are some examples of partners that integrate with VTEX XML:
 
 ## New XML
 
-Before performing the registration of a new XML, it is important to have access to the structure of the system to which you intend to export your catalog. That is, you will need to know the names of the tags that are used by their XML and what information they require for this structure to be assembled, for example product ID, product name, SKU ID, SKU name, price, among others.
+Before performing the registration of a new XML, it is important to have access to the structure of the system to which you intend to export your catalog. That is, you will need to know the names of the tags that are used by its XML and what information they require for this structure to be assembled, for example product ID, product name, SKU ID, SKU name, price, among others.
 
 Once you have this, follow the steps below to configure your XML:
 
@@ -56,7 +56,7 @@ Once you have this, follow the steps below to configure your XML:
 10. Select whether to use standard separator for categories or the Google Shopping separator (read more about configurations for XML on Google Shopping in the article [Value Standard for Product Specifications Attribute – XML GoogleShopping](/en/docs/tutorials/product-specifications-attribute-googleshopping-xml).
 11. Choose whether or not to display the unavailable SKUs on the marketplace site, in other words, whether the product will be displayed for purchase, even if it is not available for immediate delivery.
 12. Select whether you want the product displayed with the default SKU information.
-13. Thereafter, you have to enter the tags in accordance with the what has been defined by the system you will be sending the XML to. You must check the selection box in the __Show content__ column, for the tags which have a name entered. The tags with this option checked, and which you cannot deselect, are mandatory.
+13. Thereafter, you have to enter the tags in accordance with what has been defined by the system you will be sending the XML to. You must check the selection box in the __Show content__ column, for the tags which have a name entered. The tags with this option checked, and which you cannot deselect, are mandatory.
 14. The URL used to access the XML is generated automatically, according to the [domain registered in the Web Site dictionary](/en/docs/tutorials/configuring-an-xml-domain), in the __CMS__.
 
 > ⚠️ In case the sales channel has restricted access, the XML will not be generated.

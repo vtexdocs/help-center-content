@@ -25,7 +25,7 @@ En el Admin VTEX, accede **Storefront > Site Editor** y verifica las principales
 
 ![Site Editor - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/cms-para-store-framework/site-editor/site-editor-vision-general_1.png)
 
-| **Herramienta**    | **Descripción** |
+| Herramienta    | Descripción |
 | ----------        | ----------    |
 | Configuración regional del *binding* | Selecciona la configuración regional del binding a la que deseas aplicar los cambios de contenido. Por ejemplo, Inglés (en-GB), Portugués (pt-BR) y Español (es-AR). |
 | URL | Navega entre las páginas disponibles de tu tienda.|

@@ -26,7 +26,7 @@ Para atender a esse objetivo, a página **Certificados SSL** permite que você i
 A página apresenta as seguintes informações em uma tabela: 
 
 | Colunas | Descrição |
-| :---- | :---- |
+| ---- | ---- |
 | **Domínio** | Endereço da loja (host), composto por subdomínio, domínio e domínio de nível superior. Exemplo: `www.mystore.com`. Saiba mais sobre a estrutura desse endereço em [Configurar o domínio da loja](/pt/docs/tutorials/configurar-o-dominio-da-loja#estrutura-do-endereco-da-loja). |
 | **AC** | Autoridade certificadora. |
 | **Data de instalação** | Data em que o certificado foi instalado. |

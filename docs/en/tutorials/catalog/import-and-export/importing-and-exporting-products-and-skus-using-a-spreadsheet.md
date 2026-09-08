@@ -8,12 +8,12 @@ slugEN: importing-and-exporting-products-and-skus-using-a-spreadsheet
 locale: en
 ---
 
-In the VTEX Admin, you can manage SKU specification import and export using a spreadsheet, as described in the sections below:
+In the VTEX Admin, you can manage product and SKU import and export using a spreadsheet, as described in the sections below:
 
 * [Import products and SKUs using a spreadsheet](#importing-products-and-skus-using-a-spreadsheet)
 * [Export products and SKUs using a spreadsheet](#exporting-products-and-skus-using-a-spreadsheet)
 * [Track export process](#tracking-export-process)
-* [Product specification spreadsheet fields](#product-specification-spreadsheet-fields)
+* [Product and SKU spreadsheet fields](#product-and-sku-spreadsheet-fields)
 
 > ℹ️ To learn how to manage your products and SKUs manually in the VTEX Admin, see the following articles: [Adding or editing products](/en/docs/tutorials/adding-or-editing-products) and [Adding or editing SKUs](/en/docs/tutorials/adding-or-editing-skus). For information about [backend integrations with ERP](/en/docs/tracks/backend-integrations), see the [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide).
 
@@ -27,7 +27,7 @@ To import products and SKUs using a spreadsheet, follow these steps:
 2. At the top of the page, click `Import`.
 3. Click `Products and SKUs`.
 4. In the window that opens, click **Download the import spreadsheet template here** to get the file.
-5. Complete the spreadsheet details as described in the section [Product specification spreadsheet fields](#product-specification-spreadsheet-fields).
+5. Complete the spreadsheet details as described in the section [Product and SKU spreadsheet fields](#product-and-sku-spreadsheet-fields).
 
   > ⚠️ The spreadsheet import limit is 10,000 lines.
 
@@ -42,10 +42,10 @@ While the operation is in progress, a message appears indicating that the file i
 
 To export a `.xlsx` file with product and SKU information, follow these steps:
 
-> ℹ️ The exported information corresponds to the fields detailed in the section [Product specification spreadsheet fields](#product-specification-spreadsheet-fields).
+> ℹ️ The exported information corresponds to the fields detailed in the section [Product and SKU spreadsheet fields](#product-and-sku-spreadsheet-fields).
 
 1. In the VTEX Admin, go to **Catalog > Products and SKUs**, or type [Products and SKUs](/en/docs/tutorials/products-and-skus) in the search bar at the top of the page.
-2. (Optional) If you want to export a subset of products and SKUs, [search](/en/docs/tutorials/products-and-skus#searching-for-a-product) or a [filter](/en/docs/tutorials/products-and-skus#filtering-products) the desired items. This step is not required to export all products and/or SKUs.
+2. (Optional) If you want to export a subset of products and SKUs, apply a [search](/en/docs/tutorials/products-and-skus#searching-for-a-product) or a [filter](/en/docs/tutorials/products-and-skus#filtering-products) to the desired items. This step is not required to export all products and/or SKUs.
 3. At the top of the page, click `Export`.
 
   > ⚠️ The export limit is 300,000 products.
@@ -84,12 +84,12 @@ Once the operation is complete, the window will display the following changes:
 * **Close icon** <i class="fas fa-times" aria-hidden="true"></i>: Closes the window when clicked, and you won't be able to expand it again.
 * **Download icon** <i class="fas fa-download" aria-hidden="true"></i>: Downloads the `.xlsx` file to your device.
 
-## Product specification spreadsheet fields
+## Product and SKU spreadsheet fields
 
-The following table describes and includes an example of each field in the products and SKU import spreadsheet. Required fields are marked with an asterisk (*).
+The following table describes and includes an example of each field in the products and SKUs import spreadsheet. Required fields are marked with an asterisk (*).
 
 | Field | Description | Example |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | Product ID | Product identification number. You can fill in a custom ID or leave the field empty, so that the platform generates the ID automatically. If this field already has a value, you can't change it. | 310117603 |
 | Product Name* | Product name shown to customers during navigation (up to 150 characters). For [SEO](/en/docs/tutorials/improving-the-seo-of-product-listing-pages) purposes, we recommend:<ul><li>✅ Use simple words</li><li>❌ Avoid using other languages</li><li>❌ Avoid complex spelling</li></ul> | Corebiz t-shirt |
 | Active product | Informs whether the [product status](/en/docs/tutorials/products-and-skus#filtrar-por-status) will be active or inactive. This field is read-only and must be left empty. | (Leave the field empty) |
@@ -118,8 +118,8 @@ The following table describes and includes an example of each field in the produ
 | Activate SKU if possible* | If you want the SKU to be activated automatically after checking the [availability requirements](/en/faq/why-is-the-product-not-visible-on-the-website), enter `yes`. If you don't want it to be activated, enter `no`. This field accepts the following values: true, TRUE, yes, YES, sim, SIM, si, SI, sí, SÍ / false, FALSE, no, NO, não, NÃO, nao, NAO. | yes |
 | Active SKU | This field defines whether the SKU is active (`yes`) or inactive (`no`). This field can't be edited; it's for reference only. This field accepts the following values: true, TRUE, yes, YES, sim, SIM, si, SI, sí, SÍ / false, FALSE, no, NO, não, NÃO, nao, NAO. | no |
 | Bundle | This field defines if the SKU is a [bundle](/en/docs/tutorials/what-is-a-bundle). Converting a SKU into a bundle can't be undone. If you're creating a new SKU, leave the field empty. | |
-| SKU reference code | Unique SKU reference code, created to facilitate catalog management. Once this code is created, it can't be edited through the spreadsheet.This field is required unless the **EAN/UPC** field has a value. | |
-| EAN/UPC | EAN (European Article Number) and UPC (Universal Product Code) are international identification codes corresponding to an item's barcode. Each SKU can be associated with only one of these codes, and they can be differentiated by the number of alphanumeric characters: 13 for EAN and 12 for UPC.This field is required unless the **SKU reference code** field has a value. | 8456971345604 |
+| SKU reference code | Unique SKU reference code, created to facilitate catalog management. Once this code is created, it can't be edited through the spreadsheet. This field is required unless the **EAN/UPC** field has a value. | |
+| EAN/UPC | EAN (European Article Number) and UPC (Universal Product Code) are international identification codes corresponding to an item's barcode. Each SKU can be associated with only one of these codes, and they can be differentiated by the number of alphanumeric characters: 13 for EAN and 12 for UPC. This field is required unless the **SKU reference code** field has a value. | 8456971345604 |
 | Manufacturer code | Code provided by the manufacturer to identify the SKU. If a SKU has a specific code, this field must be completed. | 7154-blue |
 | Package weight* | Absolute value of the package weight. | 0.8 |
 | Package width* | Absolute value of the package width. | 12 |
@@ -130,7 +130,7 @@ The following table describes and includes an example of each field in the produ
 | Actual height | Absolute product height value, excluding packaging. | 1.2 |
 | Actual length | Absolute product length value, excluding packaging. | 0.9 |
 | Cubic weight | The system no longer uses this field. We recommend leaving it empty. | (Deprecated field, leave it empty) |
-| Unit of measure* | Identifies the unit of measure used to count items in stock. Generally, it should be completed as `un`, referring to 'each'. Use a different value only if you need to convert the unit of measure for sales purposes. Possible values are:<ul><li>un: unit</li><li>kg: kilogram</li><li>g: Gram</li><li>mg: Milligram</li><li>m: Meter</li><li>m²: Square meter</li><li>m³: Cubic centimeter millimeter</li><li>cm: Centimeter</li><li>cm²: Square centimeter</li><li>cm³: Cubic meter</li><li>mm: milímetro</li><li>mm²: milímetro quadrado</li><li>mm³: Cubic millimeter</li><li>oz: Ounce</li><li>lb: Pound</li><li>ft: Foot</li><li>ft²: Square foot</li><li>ft³: Cubic foot</li><li>in: Inch</li><li>in²: Square inch</li><li>in³: Cubic inch</li></ul> | un |
+| Unit of measure* | Identifies the unit of measure used to count items in stock. Generally, it should be completed as `un`, referring to 'each'. Use a different value only if you need to convert the unit of measure for sales purposes. Possible values are:<ul><li>un: unit</li><li>kg: kilogram</li><li>g: Gram</li><li>mg: Milligram</li><li>m: Meter</li><li>m²: Square meter</li><li>m³: Cubic meter</li><li>cm: Centimeter</li><li>cm²: Square centimeter</li><li>cm³: Cubic centimeter</li><li>mm: Millimeter</li><li>mm²: Square millimeter</li><li>mm³: Cubic millimeter</li><li>oz: Ounce</li><li>lb: Pound</li><li>ft: Foot</li><li>ft²: Square foot</li><li>ft³: Cubic foot</li><li>in: Inch</li><li>in²: Square inch</li><li>in³: Cubic inch</li></ul> | un |
 | Unit multiplier* | Numeric value by which the SKU will be multiplied to determine its quantity in the cart. For example, a multiplier of 5 means that each SKU represents 5 units in the cart, allowing purchases only in multiples of 5, such as 10 or 15 units. Fractional values can be separated by either a period or a comma. For example, 0.5 or 0,5 for half a kilogram. | 1 |
 | Commercial condition | Unique numeric identifier for the [commercial condition](/en/docs/tutorials/registering-a-commercial-condition), which defines promotions or [payment conditions](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions) that are valid for the SKU. | Default |
 | Loyalty amount | Credit the customer receives when purchasing 1 unit of a given SKU. For example, if this field is set to $1.00, the customer who buys the SKU will receive a $1.00 store credit for future purchases. This field must be completed with decimals of the store's default currency. | 49.90 |

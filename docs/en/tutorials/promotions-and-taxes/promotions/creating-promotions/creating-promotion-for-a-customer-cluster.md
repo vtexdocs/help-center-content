@@ -48,7 +48,7 @@ Note that, in both options, `{propertyname}` must be replaced with the name of t
 
 The expression `{propertyname}={"value"}` must be used when the information contained in the customer profile for the given property must be exactly equal to the value entered in the expression.
 
-In the configuration below, for example, only `employee` entries with the value `true` (used in a **[Boolean](/en/docs/tutorials/data-entity)** field, where values are always `true` or `false`) will receive the promotion.
+In the configuration below, for example, only customers whose `employee` field (a **[Boolean](/en/docs/tutorials/data-entity)** field, so the value is `true` or `false`) is `true` will receive the promotion.
 
 You could also configure `employee=false`, where only `employee` entries with the value `false` in the field would receive the promotion.
 

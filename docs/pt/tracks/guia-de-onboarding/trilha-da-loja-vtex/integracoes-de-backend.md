@@ -186,8 +186,8 @@ Na VTEX, é importante compreender a distinção entre Produtos e SKUs:
 
 A importação de produtos segue os passos na ordem da tabela abaixo:
 
-| **Ação** | **Descrição** | **Métodos** |
-| :--- | :--- | :--- |
+| Ação | Descrição | Métodos |
+| --- | --- | --- |
 | [1. Importar produtos](https://developers.vtex.com/docs/guides/products) | Registrar os produtos no catálogo. | <ul><li>Integração pela [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product)</li><li>Importação de planilhas ([método clássico](/pt/docs/tracks/cadastrar-produto#planilha) e [app google-drive-import](https://developers.vtex.com/docs/apps/vtex.google-drive-import@0.x)).</li><li>Entrada manual no [Admin VTEX](/pt/docs/tracks/cadastrar-produto).</li></ul>|
 | [2. Importar especificações dos produtos](https://developers.vtex.com/docs/guides/product-specifications) | Preencher as especificações dos produtos no catálogo. | <ul><li>Integração usando a [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/specification).</li><li>Entrada manual no [Admin VTEX](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto#preencher-especificacoes-de-produto).</li></ul> |
 | [3. Adicionar os produtos à política comercial](https://developers.vtex.com/docs/guides/erp-integration-import-products#add-product-to-trade-polic) | Associar os produtos às devidas [políticas comerciais](/pt/docs/tutorials/como-funciona-uma-politica-comercial), definindo regras específicas (Preços, Pagamentos, estratégia de envio, etc.) de acordo com o canal de venda ou público. No mínimo, deve-se adicionar todos os produtos à política comercial principal. | <ul><li>Integração usando a [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/salespolicy/-tradepolicyId-).</li><li>Entrada manual no [Admin VTEX ao cadastrar um produto](/pt/docs/tracks/cadastrar-produto).</li></ul> |
@@ -294,8 +294,8 @@ Single Sign-On é um sistema que permite a autenticação de usuários na plataf
 
 O **VTEX ID** é o serviço responsável por identificar os usuários na plataforma. Este serviço opera de acordo com a audiência, as regras de negócios, e o tipo de persona que pode interagir com cada módulo VTEX. As audiências disponíveis são:
 
-| **Audiência** | **Contexto** | **Tecnologia** |
-| :---: | :--- | :--- |
+| Audiência | Contexto | Tecnologia |
+| --- | --- | --- |
 | [Admin VTEX](https://developers.vtex.com/docs/guides/login-integration-guide-admin-saml2) | Identificação no painel administrativo VTEX, também conhecido como [Admin VTEX](/pt/docs/tutorials/admin-vtex-comece-aqui), destinado a administradores e operadores da loja. | SAML 2.0 (Security Assertion Markup Language). |
 | [Webstore](https://developers.vtex.com/docs/guides/login-integration-guide-webstore-oauth2) | Identificação no storefront VTEX, destinado a clientes da loja. | OAuth 2.0 (Open Authorization). |
 

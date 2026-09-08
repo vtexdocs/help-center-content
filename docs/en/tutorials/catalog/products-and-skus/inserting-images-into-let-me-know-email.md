@@ -15,13 +15,13 @@ locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-On VTEX platform, the retailer can set up several email templates. One of them is "Let Me Know" - a great opportunity to fulfill purchases that could be considered "lost."
+On the VTEX platform, the retailer can set up several email templates. One of them is "Let Me Know" - a great opportunity to fulfill purchases that could be considered "lost."
 
 But what is this email about? In some cases, the customer may find that a product is currently unavailable. To work around this situation, the store can activate a "Let Me Know" email automation.
 
 Once the item comes back to inventory, the system may send an alert to the consumer telling them the item is now available. That is, you may remind the customer that the purchase has not been completed.
 
-One of the setting options for this template is, for example, to insert images in the body of the email.
+One of the configuration options for this template is, for example, to insert images in the body of the email.
 
 Here's how to do so:
 

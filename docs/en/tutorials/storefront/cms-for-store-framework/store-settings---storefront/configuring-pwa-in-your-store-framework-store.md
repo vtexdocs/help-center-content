@@ -37,7 +37,7 @@ To configure a PWA in your store, go to **Store Settings > Storefront > Store** 
     - **Start URL**: URL of the PWA homepage.
     - **Screen orientation**: Format in which the content is displayed in the PWA. One of the following values can be assigned: Any, Natural, Landscape, Landscape (primary), Landscape (secondary), Portrait, Portrait (primary), Portrait (secondary).
 
-    | **Screen Orientation**  | **Description** |
+    | Screen Orientation  | Description |
     |--------------------------|-----------------|
     | Any                      | The page can be viewed in any orientation, and the content automatically adjusts to fit the device's current orientation. |
     | Natural                  | Factory default configuration of the device. |
@@ -50,7 +50,7 @@ To configure a PWA in your store, go to **Store Settings > Storefront > Store** 
 
     - **Display**: PWA content display modes. One of the following values can be assigned: Full screen, Standalone (Add to Home Screen), Minimal-UI (not supported by Chrome), and Browser.
 
-    | **Display**              | **Description** |
+    | Display              | Description |
     |--------------------------|-----------------|
     | Full Screen              | PWA fills the entire screen of the device, hiding all elements of the browser's user interface, such as the address bar and other system notifications. It is ideal for games or apps that require a deep immersion, maximizing the available screen space. |
     | Standalone (Add to Home Screen) | The PWA behaves like a native app, running in a separate browser window and not displaying common browser elements such as the address bar. When added to the device's home screen, you can hardly tell the difference between a PWA and a native app. |

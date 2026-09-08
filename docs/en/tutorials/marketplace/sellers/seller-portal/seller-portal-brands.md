@@ -17,7 +17,7 @@ subcategoryId: 4hisB47iAVZk4r3SEmMoG
 
 The **Brands** page allows you to view, manage and add brands on Seller Portal. To access the page on VTEX Admin, go to **Catalog** > **Brands**.
 
-![brands-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/seller-portal/seller-portal-brands_1.PNG)
+![brands-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/marketplace/sellers/seller-portal/seller-portal-brands_1.PNG)
 
 ## Creating a Brand
 To create a new brand, click on the `Create brand` button. Fill in the fields on the __New brand__ modal according to the information below.
@@ -45,7 +45,7 @@ Use this section to fill out information relevant to your store's menu and navig
 You can find a brand using the search tool. Just click on the `Search Brands` text box <i class="fas fa-search"></i> and search for the desired brand name.
 
 ## Editing, Activating or Deactivating a Brand
-You can edit, activate or deactivate a brand by simply searching for it and clicking on the <i class="fas fa-ellipsis-v"></i> tool. Then, select one of the options below.
+You can edit, activate or deactivate a brand by searching for it and clicking on the <i class="fas fa-ellipsis-v"></i> tool. Then, select one of the options below.
 
 - <i class="far fa-edit"></i> **Edit:** menu for changing the fields of your brand.
 - <i class="far fa-eye"></i> **Activate:** option that will activate your brand.

@@ -19,8 +19,8 @@ The __Marketplaces and Integrations__ page facilitates the connection and commun
 
 Among the marketplaces available, there are VTEX marketplaces and external marketplaces. Learn more about the difference between each terminology displayed in the Integration Type column.  
 
-| **Integration Type** | **Description** |
-|:---:|:---:|
+| Integration Type | Description |
+|---|---|
 | **VTEX** | These are the profiles of VTEX clients that chose to make their environment available for sellers to sell products. |
 | **External** | Marketplaces that are not VTEX clients and did the integration, whether certified or partner. |  
 
@@ -34,8 +34,8 @@ To access the page, in the VTEX Admin, click __Marketplace > Connections > Marke
 
 The table listing the marketplaces has the following columns:  
 
-| **Column** | **Description** |
-|:---:|:---:|
+| Column | Description |
+|---|---|
 | Marketplace | Name of the marketplace available for integration. The  icon <i class="fas fa-check-circle" style="color: #3c75d7;"></i> will be displayed next to the names of the marketplaces certified by VTEX. |
 | Industry | Indicates in which industry the marketplace operates. |
 | Country | Indicates in which countries that marketplace operates. |

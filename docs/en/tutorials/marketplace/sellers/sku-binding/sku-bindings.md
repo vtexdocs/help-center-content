@@ -25,11 +25,11 @@ Once the marketplace has cataloged the SKUs, either via the **Received SKUs** pa
 
 The **SKU Bindings** page allows the marketplace to track and manage the binding relationship between the seller’s SKUs and the ones from the marketplace. To access the page, go to the VTEX Admin, **Marketplace > Sellers > SKU Bindings**. You'll see the following interface:
 
-![sku-bindings-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/sku-binding/sku-bindings_1.png)
+![sku-bindings-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/marketplace/sellers/sku-binding/sku-bindings_1.png)
 
 The following table contains a description of the columns in the SKU binding list:
 
-| **Column** | **Description** |
+| Column | Description |
 | ---------- | ---------- |
 | SKU | A numerical code that identifies the [SKU](/en/docs/tracks/adding-skus) of the marketplace catalog. |
 | Seller | [Seller’s](/en/docs/tutorials/adding-a-seller) name and ID in the marketplace. |

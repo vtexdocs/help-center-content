@@ -30,7 +30,7 @@ La siguiente tabla presenta el comportamiento general de cada operación según 
 
 
 | Operación | Modo Total | Modo Hold | Modo Parcial |
-| :---: | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | **Liquidación** | Siempre envía al conector la solicitud para liquidar el valor total del pedido, aunque el retailer haya solicitado un valor inferior al total. | Mantiene internamente las solicitudes por valores inferiores al total. Envía la solicitud de liquidación al conector solo cuando se alcanza el valor total. | Envía al conector exactamente el valor solicitado en cada operación de liquidación. |
 | **Cancelación** | Mantiene internamente las solicitudes de cancelaciones parciales. Envía la solicitud de cancelación al conector solo cuando se alcanza el valor total. | Mantiene internamente las solicitudes de cancelaciones parciales. Envía la solicitud de cancelación al conector solo cuando se alcanza el valor total. | Envía al conector exactamente el valor solicitado en cada operación de cancelación. |
 | **Reembolso** | Envía al conector exactamente el valor solicitado en cada operación de reembolso. | Envía al conector exactamente el valor solicitado en cada operación de reembolso. | Envía al conector exactamente el valor solicitado en cada operación de reembolso. |
@@ -161,7 +161,7 @@ Antes de solicitar cualquier cambio, evalúa cómo se comporta cada opción resp
 > ⚠️ El **Modo Parcial** exige que el conector de pago sea compatible con múltiples operaciones parciales. Este modo no es compatible con [split de pagos](https://help.vtex.com/es/docs/tutorials/split-de-pagos).
 
 | Modo | Indicado para | Beneficios | Limitaciones |
-| :---: | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | **Total** | Tiendas que desean procesar rápidamente la liquidación después de la aprobación del pedido. | <ul><li>Reduce el tiempo entre la aprobación y la transferencia de los valores.</li><li>Ideal para retailers que prefieren una liquidación inmediata.</li></ul> | <ul><li>Puede generar altos costos de tarifas de reembolso si es necesario devolver valores ya liquidados.</li><li>No es compatible con liquidaciones parciales.</li></ul> |
 | **Hold** | Tiendas que esperan múltiples confirmaciones (como emisión de facturas de varios sellers) antes de liquidar el valor total. | <ul><li>Admite [split de pagos](https://help.vtex.com/es/docs/tutorials/split-de-pagos), permitiendo modificaciones de ítems y valores en un pedido con múltiples sellers (si es necesario).</li><li>Evita costos de reembolso, ya que solo liquida cuando se alcanza el valor total.</li><li>Centraliza el envío de información al conector, reduciendo transacciones intermedias.</li></ul> | <ul><li>En pedidos con múltiples sellers, la liquidación solo ocurre después de que todos emitan las facturas.</li><li>No admite liquidaciones parciales.</li></ul> |
 | **Parcial** | Evita costos de reembolso, ya que la liquidación solo se realiza cuando se alcanza el valor total. | <ul><li>Permite múltiples operaciones parciales de liquidación y cancelación.</li><li>En pedidos con múltiples sellers, permite la liquidación parcial sin necesidad de esperar a todos los sellers.</li><li>Puede evitar costos adicionales de tarifas de reembolso.</li></ul> | <ul><li>No admite [split de pagos](https://help.vtex.com/es/docs/tutorials/split-de-pagos).</li><li>Exige que el conector admita múltiples operaciones.</li><li>Requiere mayor control operativo.</li></ul> |

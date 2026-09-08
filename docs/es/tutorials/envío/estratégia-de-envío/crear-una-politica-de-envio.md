@@ -37,7 +37,7 @@ Para crear una nueva política de envío, siga los pasos a continuación:
     *   **Fines de semana y feriados:** días de la semana para las entregas. Marque los flags para activar la entrega en los siguientes escenarios: `entrega sábados`, `entrega domingos`, `entrega feriados`.
 *   **Fines de semana y feriados:**  para entregas en fines de semana o feriados. Marque los flags para habilitar la entrega en los siguientes escenarios: `entrega sábados`, `entrega domingos`, `entrega feriados`.
 *   **[Modalidades activas](/es/docs/tutorials/como-se-maneja-el-modal):** especificaciones de productos que requieren una entrega especial. Estas son las limitaciones de envío del producto que permite la política de envío. Entender más sobre las modalidades. Marque los flags para habilitar la entrega en los siguientes escenarios: `productos químicos`, `electrónicos`, `muebles`, `vidrio`, `líquidos`, `colchones`, `productos refrigerados`, `llantas`, `electrodomésticos` y `armas de fuego`.
-*   **Ítems del paquete: **cantidad mínima de ítems aceptados por envío, de acuerdo con la política de envío.
+*   **Ítems del paquete:** cantidad mínima de ítems aceptados por envío, de acuerdo con la política de envío.
     *   **Valor mínimo:** valor mínimo aceptado por la política de envío para realizar el servicio.
     *   **Mínimo de ítems:** múltiplo mínimo de la cantidad de ítems aceptados por la transportadora. Por ejemplo, si se rellena con el valor **3**, significa que la transportadora solo hace entregas con cantidades de ítems múltiplos de tres (3, 6, 9, 21...).
     *   **Valor máximo:** valor máximo aceptado por la política de envío para realizar el servicio.

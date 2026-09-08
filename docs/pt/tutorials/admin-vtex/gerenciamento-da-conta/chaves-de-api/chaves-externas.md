@@ -24,7 +24,7 @@ A aba **Externas** apresenta a listagem de chaves de API de terceiros adicionada
 A página apresenta as seguintes informações em uma tabela:
 
 | Coluna | Descrição |
-| :---- | :---- |
+| ---- | ---- |
 | **Chave/Proprietário** | Chave de API, seguida pelo nome da conta terceira proprietária da chave. |
 | **Perfil de acesso** | Perfis de acesso associados à chave de API de terceiros. |
 | **Data de adição** | Data de adição da chave de API de terceiros. |

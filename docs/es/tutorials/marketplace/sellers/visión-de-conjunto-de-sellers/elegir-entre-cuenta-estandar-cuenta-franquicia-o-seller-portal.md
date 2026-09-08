@@ -27,7 +27,7 @@ En VTEX, existen tres tipos de cuenta, y cada una permite actuar con un perfil d
 
 La tabla que figura a continuación muestra los principales escenarios de uso de cada tipo de cuenta:
 
-| **Seller Portal** | **Cuenta estándar** | **Cuenta franquicia** |
+| Seller Portal | Cuenta estándar | Cuenta franquicia |
 | ---------- | ---------- | ---------- |
 | Se sugiere usar el [Seller Portal](/es/docs/tutorials/como-configurar-su-tienda-en-seller-portal) cuando el marketplace VTEX quiere conectarse a un seller externo que no tiene una cuenta en VTEX. Esta funcionalidad permite [compartir productos](/es/docs/tutorials/seller-portal-productos-compartidos) del marketplace VTEX con el seller, lo cual disminuye las discrepancias y simplifica la gestión de la operación. Cada entorno del Seller Portal que se crea integra al seller con un único marketplace VTEX. | Se sugiere la cuenta estándar para las tiendas que quieren realizar su operación de ecommerce de manera completa, mediante el uso de estrategias de [comercio unificado](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv). La cuenta estándar puede funcionar como seller VTEX, marketplace VTEX y conectarse con varios marketplaces y [conectores nativos](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-conector-nativo-vtex). | La cuenta franquicia es estratégica para las operaciones que desean expandir sus ventas con la integración de tiendas físicas, ya que existe la posibilidad de heredar el catálogo de una cuenta estándar. Los franquiciados y representantes de la marca son quienes suelen adoptar la cuenta franquicia. |
 
@@ -37,7 +37,7 @@ A continuación, hay una serie de comparaciones sobre cómo el Seller Portal, la
 
 ## Cuenta
 
-| **Aspecto** | **Seller Portal** | **Cuenta estándar** | **Cuenta franquicia** |
+| Aspecto | Seller Portal | Cuenta estándar | Cuenta franquicia |
 |---------- | ---------- | ---------- | ---------- |
 | Crear cuenta | En el Seller Portal, la [creación de una cuenta](/es/docs/tutorials/seller-portal-primeros-pasos-para-el-marketplace) puede realizarse tanto a través del Admin VTEX como por la [API](/es/docs/tutorials/seller-portal-primeros-pasos-para-el-marketplace#acciones-por-api-rest). Primero, el _marketplace_ VTEX solicita acceso al Seller Portal mediante el Customer Success Manager (CSM). Luego, el marketplace [invita](/es/docs/tutorials/marketplace-sellers-invitados) al _seller_ y, después de que se acepta la invitación, [activa](/es/docs/tutorials/marketplace-sellers-invitados) al _seller_. | VTEX y el cliente firman un contrato y, después de la firma y aprobación internas, se crea un nuevo entorno para el cliente dentro de la plataforma VTEX. | El cliente [solicita la creación de la cuenta franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia#solicitar-la-creacion-de-una-cuenta-franquicia) a través del equipo de [soporte](https://supporticket.vtex.com/support). Es necesario contar con el email del [usuario titular](/es/docs/tracks/que-es-el-usuario-master) (Admin Master). |
 | [Usuario titular](/es/docs/tracks/que-es-el-usuario-master) (Admin Master) | Hay solo un usuario titular. Por defecto, el email del usuario titular es el que recibe la invitación al Seller Portal, pero ese email se puede cambiar. Solo el usuario titular puede [crear appKeys y appTokens](https://developers.vtex.com/vtex-rest-api/docs/getting-started-authentication). | Hay un solo usuario titular y, por defecto, está vinculado al email de la persona que firmó el contrato con VTEX. Se puede cambiar el usuario titular, pero es el único que puede crear appKeys y appTokens. | Hay un solo usuario titular y, por defecto, es el mismo de la cuenta principal. Se puede cambiar el usuario titular, pero es el único que puede crear appKeys y appTokens. |
@@ -45,7 +45,7 @@ A continuación, hay una serie de comparaciones sobre cómo el Seller Portal, la
 
 ## Catálogo
 
-| **Aspecto** | **Seller Portal** | **Cuenta estándar** | **Cuenta franquicia** |
+| Aspecto | Seller Portal | Cuenta estándar | Cuenta franquicia |
 |---------- | ---------- | ---------- | ---------- |
 | Heredar catálogo | El Seller Portal permite que el _marketplace_ VTEX defina una variedad de productos para [compartir](/es/docs/tutorials/seller-portal-productos-compartidos) con el _seller_, quien luego configurará el precio y el _stock_ de los productos. La gestión se realiza en la página **Productos compartidos** del Seller Portal. El seller no puede modificar el catálogo del marketplace VTEX ni tampoco puede vender los productos compartidos en otros _marketplaces_. | La cuenta estándar no hereda el catálogo, ya que es la responsable de crear y gestionar su propia variedad de productos. La cuenta estándar tiene todas las funcionalidades del módulo **Catálogo**. | La cuenta franquicia hereda el catálogo de la cuenta principal y no tiene el módulo **Catálogo**. Los cambios en el catálogo se deben realizar en la cuenta principal. |
 | Crear producto | El Seller Portal permite que el seller cree sus propios productos. Para hacerlo, se debe [invitar](/es/docs/tutorials/marketplace-sellers-invitados) al Seller Portal como un seller común, no como un [seller white label](/es/docs/tutorials/seller-white-label). El _marketplace_ VTEX debe aprobar y [catalogar](/es/docs/tutorials/catalogacion-manual-de-skus) los productos que creó el _seller_. | La cuenta estándar puede crear productos e incluye todas las funcionalidades del módulo **Catálogo**. | La cuenta franquicia no puede crear productos y no tiene el módulo **Catálogo**. |
@@ -58,7 +58,7 @@ A continuación, hay una serie de comparaciones sobre cómo el Seller Portal, la
 
 ## Precios
 
-| **Aspecto** | **Seller Portal** | **Cuenta estándar** | **Cuenta franquicia** |
+| Aspecto | Seller Portal | Cuenta estándar | Cuenta franquicia |
 |---------- | ---------- | ---------- | ---------- |
 | Heredar precio de otra cuenta | Cuando el _marketplace_ VTEX [invita](/es/docs/tutorials/marketplace-sellers-invitados) al _seller_ al Seller Portal a través de la opción [Seller White Label](/es/docs/tutorials/seller-white-label), los productos del _seller_ heredan los precios del _marketplace_. Sin embargo, el _seller_ puede editar los precios. | La cuenta estándar no hereda precios de otra cuenta. Es necesario registrarlos en su propio entorno. | La cuenta franquicia puede heredar precios de la cuenta principal. |
 | El _marketplace_ VTEX puede sobreescribir precios del _seller_ | Si el seller creado a través de una invitación es un seller común, su precio puede sobreescribirse, lo que no es posible si se trata de un seller white label. | Sí. | No, el _marketplace_ VTEX solo puede definir reglas comerciales para la cuenta franquicia. |
@@ -66,7 +66,7 @@ A continuación, hay una serie de comparaciones sobre cómo el Seller Portal, la
 
 ## Promociones
 
-| **Aspecto** | **Seller Portal** | **Cuenta estándar** | **Cuenta franquicia** |
+| Aspecto | Seller Portal | Cuenta estándar | Cuenta franquicia |
 |---------- | ---------- | ---------- | ---------- |
 | El _seller_ puede crear [promociones](/es/docs/tracks/como-funcionan-las-promociones) | El seller crea y configura promociones directamente en el Seller Portal. Para más detalles sobre el proceso de creación, consulte el documento [Seller Portal: Crear una promoción](/es/docs/tutorials/seller-portal-crear-una-promocion). | Puede crear y configurar promociones, además de simular promociones. | Puede crear y configurar promociones, además de simular promociones. |
 | Determinar canal para promoción | El _seller_ puede crear promociones. | Sí. | Sí. |
@@ -74,7 +74,7 @@ A continuación, hay una serie de comparaciones sobre cómo el Seller Portal, la
 
 ## Pagos
 
-| **Aspecto** | **Seller Portal** | **Cuenta estándar** | **Cuenta franquicia** |
+| Aspecto | Seller Portal | Cuenta estándar | Cuenta franquicia |
 |---------- | ---------- | ---------- | ---------- |
 | Reflejar todos los medios de [pago](/es/docs/tracks/configurar-un-conector-de-pagos) en el _marketplace_ VTEX | Sí. | Sí. | Sí. |
 | Configurar pagos para que los pedidos con productos de más de un _seller_ solo ofrezcan medios de pago que los sellers tengan en común (mínimo múltiplo común) | Sí. | Sí. | Sí. |
@@ -86,7 +86,7 @@ A continuación, hay una serie de comparaciones sobre cómo el Seller Portal, la
 
 ## Logística
 
-| **Aspecto** | **Seller Portal** | **Cuenta estándar** | **Cuenta franquicia** |
+| Aspecto | Seller Portal | Cuenta estándar | Cuenta franquicia |
 |---------- | ---------- | ---------- | ---------- |
 | Segmentar [estrategias de envío](/es/docs/tutorials/estrategia-de-envio) para distintos _marketplaces_ | No, porque el _seller_ vende en un único _marketplace_ VTEX. | Sí. | No, solo para la cuenta principal. |
 | Tener _stock_ de seguridad nativo de la plataforma | No. | No. | No. |
@@ -97,25 +97,25 @@ A continuación, hay una serie de comparaciones sobre cómo el Seller Portal, la
 
 ## Master Data
 
-| **Aspecto** | **Seller Portal** | **Cuenta estándar** | **Cuenta franquicia** |
+| Aspecto | Seller Portal | Cuenta estándar | Cuenta franquicia |
 |---------- | ---------- | ---------- | ---------- |
 | El _seller_ puede acceder a datos del consumidor cuando vende en el _marketplace_ VTEX | El seller no tiene acceso a datos ni al email del consumidor. El intercambio de información es entre el consumidor y el _marketplace_ VTEX. | Cuando la cuenta estándar vende en su propio entorno, esta funciona como _seller_ y como _marketplace_, y tiene acceso a los datos del consumidor. El _seller_ VTEX que vende en otro _marketplace_ VTEX no tiene acceso a los datos del consumidor. | La cuenta franquicia no tiene acceso a datos ni al email del consumidor. |
 
 ## CMS/IO/Fast Store
 
-| **Aspecto** | **Seller Portal** | **Cuenta estándar** | **Cuenta franquicia** |
+| Aspecto | Seller Portal | Cuenta estándar | Cuenta franquicia |
 |---------- | ---------- | ---------- | ---------- |
 | Puede tener _storefront_ | No. | Sí. | No. |
 
 ## Intelligent Search
 
-| **Aspecto** | **Seller Portal** | **Cuenta estándar** | **Cuenta franquicia** |
+| Aspecto | Seller Portal | Cuenta estándar | Cuenta franquicia |
 |---------- | ---------- | ---------- | ---------- |
 | Realizar búsqueda con [Intelligent Search](/es/docs/tracks/vision-general-intelligent-search) en el _marketplace_ VTEX para presentar resultados del 1P (_first-party_) antes del 3P (_third-party_) | No. | No. | No. |
 
 ## Seller
 
-| **Aspecto** | **Seller Portal** | **Cuenta estándar** | **Cuenta franquicia** |
+| Aspecto | Seller Portal | Cuenta estándar | Cuenta franquicia |
 |---------- | ---------- | ---------- | ---------- |
 | Conectar _seller_ al _marketplace_ VTEX | El _seller_ se conecta por medio de una [invitación](/es/docs/tutorials/marketplace-sellers-invitados) que envía el _marketplace_ VTEX. | El _seller_ VTEX se conecta a un _marketplace_ VTEX cuando este último lo [agrega](/es/docs/tutorials/agregar-seller) a través de **Gestión de sellers**. | La cuenta franquicia se crea automáticamente como seller de la cuenta principal. |
 | El marketplace VTEX puede modificar el registro del seller en **Gestión de sellers** | Sí. | Sí. | Sí. |
@@ -126,13 +126,13 @@ A continuación, hay una serie de comparaciones sobre cómo el Seller Portal, la
 
 ## Marketplace
 
-| **Aspecto** | **Seller Portal** | **Cuenta estándar** | **Cuenta franquicia** |
+| Aspecto | Seller Portal | Cuenta estándar | Cuenta franquicia |
 |---------- | ---------- | ---------- | ---------- |
 | Integrar con [_marketplace_ externo](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-marketplace-externo) | No. | Sí. | No se puede integrar una cuenta franquicia a un _marketplace_ externo, pero la cuenta franquicia puede vender en _marketplaces_ externos con la funcionalidad [Multilevel Omnichannel Inventory](/es/docs/tutorials/multilevel-omnichannel-inventory). |
 | Integrarse con varios _marketplaces_ VTEX | Cada entorno del Seller Portal está conectado a un único _marketplace_ VTEX. | Sí. | La cuenta principal vende en el _marketplace_ VTEX de la cuenta principal y no se puede integrar con otros _marketplaces_. Sin embargo, la cuenta franquicia puede vender productos en _marketplaces_ VTEX con la funcionalidad [Multilevel Omnichannel Inventory](/es/docs/tutorials/multilevel-omnichannel-inventory). |
 
 ## ERP
 
-| **Aspecto** | **Seller Portal** | **Cuenta estándar** | **Cuenta franquicia** |
+| Aspecto | Seller Portal | Cuenta estándar | Cuenta franquicia |
 |---------- | ---------- | ---------- | ---------- |
 | [Integración con los ERP](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) del mercado | La integración de un entorno en el Seller Portal con los [ERPs](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) solo es posible a través de las [API](https://developers.vtex.com/vtex-rest-api/reference/marketplace-api-overview) que permiten configurar precios, _stock_ y pedidos. Los productos se deben crear manualmente en el Seller Portal o se deben compartir con el _marketplace_ VTEX. | Sí. | Sí. |

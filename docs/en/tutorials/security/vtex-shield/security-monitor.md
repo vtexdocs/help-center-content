@@ -127,7 +127,7 @@ To export findings to a CSV file, follow the steps below:
 The exported CSV file includes the following information about each finding:
 
 | Column | Description |
-| :---- | :---- |
+| ---- | ---- |
 | *Id* | ID of the finding. |
 | *Type* | Type of finding detected. |
 | *Finding* | User email or API key related to the finding. |

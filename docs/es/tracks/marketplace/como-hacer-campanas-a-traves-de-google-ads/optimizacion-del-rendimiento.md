@@ -23,13 +23,13 @@ Aquí le enseñaremos cómo optimizar una campaña a partir de la exclusión de 
 
 En consecuencia, la optimización de una campaña también se puede hacer a partir de la exclusión de Subcategorías, siempre que tenga sentido para la estrategia de una campaña.
 
-> ⚠️ **Atención**: VTEX Shopping Ads solo permite la optimización de campañas de tipo Google Smart Shopping creadas dentro del propio aplicativo. Las demás campañas apenas muestran sus resultados en VTEX Shopping Ads, mientras que su administración se realiza en el panel de Google Ads.
+> ⚠️ VTEX Shopping Ads solo permite la optimización de campañas de tipo Google Smart Shopping creadas dentro del propio aplicativo. Las demás campañas apenas muestran sus resultados en VTEX Shopping Ads, mientras que su administración se realiza en el panel de Google Ads.
 
 1. En la esquina superior derecha de la pantalla, haga clic en __Audiencia de las Campañas__;
 2. Haga clic en la __campaña__ Smart Shopping que desea optimizar;
 3. Haga clic en __Seleccionar Inventario__;
 4. En la columna __Status__, haga clic en el __ícono azul__ __ + __;
-5. En el selector de subdivisiones, seleccione la opción __ Categoría VTEX__;
+5. En el selector de subdivisiones, seleccione la opción __Categoría VTEX__;
 6. Haga clic en __Grupos de productos__, para seleccionar todas las categorías;
 7. Haga clic en __Guardar Subdivisión__.
 
@@ -39,7 +39,7 @@ De este modo, verifique en cada línea de la plantilla si el costo es satisfacto
 
 Ahora, para excluir las categorías con performance insatisfactoria, prosiga:
 
-1. En la línea de la categoría elegida, haga clic en el __ ícono azul lápiz__;
+1. En la línea de la categoría elegida, haga clic en el __ícono azul lápiz__;
 2. Seleccione la opción __Excluido__;
 3. Haga clic en __Guardar__.
 

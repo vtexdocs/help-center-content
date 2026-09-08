@@ -58,8 +58,8 @@ O gráfico apresenta os dados abaixo:
 
 A página **Capacidade operacional** apresenta as seguintes informações:
 
-| **Coluna** | **Descrição** |
-|:---:|:---|
+| Coluna | Descrição |
+|---|---|
 | Seller | Identificação do [seller](/pt/docs/tutorials/o-que-e-um-seller) a que se refere a capacidade operacional. |
 | Segmentação | Identificação do tipo de segmentação realizada pela capacidade operacional. São dois tipos de segmentação: por sellers ou por [política comercial](https://help.vtex.com/pt/docs/tutorials/como-funciona-uma-politica-comercial). Para habilitar a segmentação por política comercial, entre em contato com [nosso Suporte](https://supporticket.vtex.com/support). |
 | Capacidade utilizada | Porcentagem da capacidade operacional do seller que foi utilizada no dia. **Exemplo:** um seller com capacidade para preparar 100 pedidos diários está com 80% de sua capacidade do dia utilizada. Portanto, ele só pode receber 20 novos pedidos naquele dia. Nesta coluna, aparece um ícone de alerta quando 100% da capacidade do seller é atingida e ele não pode receber novos pedidos no dia. Você pode [editar a capacidade operacional dos sellers](#editar-capacidade-operacional-do-seller) de forma individual ou massiva. |

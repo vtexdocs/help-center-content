@@ -33,7 +33,7 @@ Para acessar a página **Lançamentos** no Admin VTEX, vá no menu de navegaçã
 
 ![Releases list view v2 - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/lançamentos-beta/planner-pagina-lancamentos-beta_1.png)
 
-| **Campo** | **Descrição** |
+| Campo | Descrição |
 |---|---|
 | **Nome** | Nome que identifica o lançamento, definido na etapa de criação. Pode ser editado a qualquer momento, desde que o lançamento não esteja publicado. |
 | **Última modificação** | Tempo decorrido desde a última alteração no lançamento. |

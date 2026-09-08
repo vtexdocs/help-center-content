@@ -49,7 +49,7 @@ We created **VTEX Pick and Pack** for you to reduce logistics costs and scale up
 
 The table below displays some of the solution's capabilities and the corresponding benefits:
 
-| **Feature** | **Capability** | **Advantages** |
+| Feature | Capability | Advantages |
 | ---------- | ---------- | ---------- |
 | VTEX Fulfillment | Single place to manage picking and packing. | <ul><li>Reduce logistics costs by following a step-by-step process for fast, accurate, cost-effective order fulfillment.</li><li>Have more control over store resources and fulfillment lead times.</li><li>Decreases fulfillment and delivery times.</li></ul> |
 | VTEX Fulfillment | Configuration of packages and printable labels, that can include barcodes for scanning. | Reduce error-prone scenarios and increase efficiency. |

@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-> ⚠️ Os usuários devem possuir um [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) com autorização para acessar o módulo **Promoções **no Admin VTEX para utilizar o **Simulador de promoções**.
+> ⚠️ Os usuários devem possuir um [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) com autorização para acessar o módulo **Promoções** no Admin VTEX para utilizar o **Simulador de promoções**.
 
 O **Simulador de promoções** é uma ferramenta que permite visualizar as promoções criadas na sua loja VTEX que foram aplicadas no carrinho de compras e os motivos para sua ativação. Também é possível testar a aplicação de promoções antes de ativá-las, incluindo promoções agendadas e inativas.
 

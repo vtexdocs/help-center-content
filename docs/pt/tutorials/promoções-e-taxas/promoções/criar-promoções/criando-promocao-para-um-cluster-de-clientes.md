@@ -60,7 +60,7 @@ Dessa forma, você poderia configurar também `funcionario=false`, em que apenas
 
 Considerando um campo do tipo **[Varchar](/pt/docs/tutorials/entidade-de-dados#entendendo-os-tipos)**, poderíamos configurar `funcionario="sim"` para que apenas clientes com valor `"sim"` no campo recebessem a promoção.
 
-> ⚠️  Para campos do tipo **Varchar**, o valor informado na seção **Cluster de clientes **da promoção diferencia caracteres minúsculos e maiúsculos. Isso quer dizer que, ao preencher a opção **Cluster de clientes** de forma diferente daquela definida para o campo no Master Data, a promoção não será aplicada. 
+> ⚠️  Para campos do tipo **Varchar**, o valor informado na seção **Cluster de clientes** da promoção diferencia caracteres minúsculos e maiúsculos. Isso quer dizer que, ao preencher a opção **Cluster de clientes** de forma diferente daquela definida para o campo no Master Data, a promoção não será aplicada. 
 
 Portanto, considerando o exemplo acima de um campo tipo **Varchar** com os valores cadastrados `"sim"` e `"não"`, o cadastro na promoção obrigatoriamente será `funcionario="sim"`. Ao cadastrar na promoção o termo `funcionario="Sim"`, por exemplo, o cluster de clientes desejado não receberá a promoção.
 

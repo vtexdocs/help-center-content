@@ -155,8 +155,8 @@ flowchart TD
 
 ## Características dos dados
 
-| **Característica** | **Descrição** |
-|:---:|:---:|
+| Característica | Descrição |
+|---|---|
 | **Origem do dado** | Obtidos a partir de requisições e respostas da API do Intelligent Search e eventos do Activity Flow. |
 | **Disponibilidade** | Esta métrica está disponível apenas através do Data Pipeline. |
 | **Histórico** | O histórico de dados começa em agosto de 2025. |
@@ -168,8 +168,8 @@ Armazena as informações centrais das consultas de busca realizadas pelos compr
 
 Os campos da tabela são descritos abaixo:
 
-| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|:---:|
+| Nome da coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | search_id | string | UUID da busca. Identificador único para cada requisição de busca, utilizado para fazer junção com tabelas de resposta e outras tabelas relacionadas à busca. |
 | account_name | string | Nome da conta em que a busca foi realizada. Identifica a qual loja a busca pertence. |
 | event_time | timestamp | Timestamp do evento de busca. Representa quando a requisição de busca foi recebida e processada pela API de busca. |
@@ -196,8 +196,8 @@ Tabela que armazena informações de resposta da busca. Contém metadados sobre 
 
 Os campos da tabela são descritos abaixo:
 
-| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|:---:|
+| Nome da coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | search_id | string | UUID da busca. Identificador único que vincula esta resposta à requisição de busca correspondente. |
 | account_name | string | Nome da conta em que a busca foi realizada. Identifica a qual loja a busca pertence. |
 | event_time | timestamp | Timestamp do evento de busca. Representa quando a requisição de busca foi recebida e processada pela API de busca. |
@@ -220,8 +220,8 @@ Tabela que contém os produtos retornados na resposta da busca. Armazena informa
 
 Os campos da tabela são descritos abaixo:
 
-| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|:---:|
+| Nome da coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | search_id | string | UUID da busca. Identificador único vinculando este resultado de produto à requisição e resposta de busca correspondentes. |
 | account_name | string | Nome da conta onde a busca foi realizada. Identifica a qual loja a busca pertence. |
 | local_index | bigint | Índice do produto em relação à página atual. A posição do produto dentro da página atual de resultados (índice baseado em 0). |
@@ -242,8 +242,8 @@ Tabela que contém cliques nos resultados da busca. Armazena informações sobre
 
 Os campos da tabela são descritos abaixo:
 
-| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|:---:|
+| Nome da coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | click_id | string | Identificador único para o evento de clique. UUID que identifica exclusivamente cada clique em um resultado de busca. |
 | search_id | string | UUID da busca que gerou os resultados. Vincula o clique à requisição de busca correspondente. |
 | session_id | string | ID único de sessão do Activity Flow. Vincula o clique à sessão de navegação do usuário. |
@@ -276,8 +276,8 @@ Tabela que contém impressões dos resultados da busca. Armazena informações s
 
 Os campos da tabela são descritos abaixo:
 
-| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|:---:|
+| Nome da coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | impression_id | string | Identificador único para o evento de impressão. UUID que identifica exclusivamente cada impressão de resultados de busca. |
 | search_id | string | UUID da busca que gerou os resultados. Vincula a impressão à requisição de busca correspondente. |
 | session_id | string | ID único de sessão do Activity Flow. Vincula a impressão à sessão de navegação do usuário. |
@@ -306,8 +306,8 @@ Tabela que atribui cliques a impressões. Estabelece a relação entre eventos d
 
 Os campos da tabela são descritos abaixo:
 
-| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|:---:|
+| Nome da coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | account_name | string | Conta VTEX da loja. Identifica a qual loja o relacionamento impressão-clique pertence. |
 | impression_id | string | Identificador único para o evento de impressão. Vincula à tabela impression para identificar qual impressão de resultado de busca levou a um clique. |
 | click_id | string | Identificador único para o evento de clique. Vincula à tabela click para identificar qual clique foi gerado a partir desta impressão. |
@@ -321,8 +321,8 @@ Tabela que atribui grupos de pedidos a impressões. Estabelece a relação entre
 
 Os campos da tabela são descritos abaixo:
 
-| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|:---:|
+| Nome da coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | impression_id | string | Identificador único para o evento de impressão. Vincula à tabela impression para identificar qual impressão de resultado de busca levou a um pedido. |
 | account_name | string | Conta VTEX da loja. Identifica a qual loja o relacionamento impressão-pedido pertence. Grupos de pedidos são únicos por account_name, não globalmente. |
 | order_group | string | Identificador do grupo de pedidos. Vincula a impressão a uma transação de pedido específica (que também pode ser encontrada no Modelo de Dados de Pedidos), permitindo análise abrangente da jornada do cliente desde a impressão da busca até a compra. |
@@ -340,8 +340,8 @@ Tabela na camada de busca com consultas deduplicadas por sessão, pensada como i
 
 Os campos da tabela são descritos abaixo:
 
-| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|:---:|
+| Nome da coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | session_id | string | Identificador único da sessão no Activity Flow. Indica a sessão de navegação em que a consulta apareceu pela primeira vez. |
 | query | string | Texto da consulta conforme retornado na resposta da busca. Junto com `session_id` e `element_source`, identifica de forma única uma linha nesta tabela. |
 | account_name | string | Conta VTEX da loja em que a busca ocorreu, a partir da resposta da busca. |
@@ -367,8 +367,8 @@ Esta tabela sustenta a métrica `Unique Clicks`, ela conta quantas instâncias d
 
 Os campos da tabela são descritos abaixo:
 
-| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|:---:|
+| Nome da coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | session_id | string | Identificador único da sessão no Activity Flow. Indica a sessão em que a consulta apareceu pela primeira vez em contexto de clique. |
 | query | string | Texto da consulta conforme retornado na resposta da busca. Junto com `session_id` e `element_source`, identifica de forma única uma linha e emparelha com o mesmo grão da tabela `session_query` para métricas como CTR. |
 | account_name | string | Conta VTEX da loja em que a busca ocorreu, a partir da resposta da busca. |
@@ -400,8 +400,8 @@ Tabela que contém a lista de vendedores ativos na sessão onde a busca ocorreu.
 
 Os campos da tabela são descritos abaixo:
 
-| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|:---:|
+| Nome da coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | search_id | string | UUID da busca. Identificador único vinculando este vendedor à requisição de busca correspondente. |
 | account_name | string | Nome da conta onde a busca foi realizada. Identifica a qual loja a busca pertence. |
 | seller_id | string | Identificador do vendedor. O ID do vendedor que estava ativo na sessão durante a busca. Utilizado para análise de regionalização. |
@@ -415,8 +415,8 @@ Tabela que contém a lista de regras de merchandising consideradas na requisiç�
 
 Os campos da tabela são descritos abaixo:
 
-| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|:---:|
+| Nome da coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | search_id | string | UUID da busca. Identificador único vinculando esta regra de merchandising à requisição de busca correspondente. |
 | account_name | string | Nome da conta onde a busca foi realizada. Identifica a qual loja a busca pertence. |
 | merchandising_rule_id | string | ID da regra de merchandising. Identificador único da regra de merchandising que foi aplicada a esta busca. |
@@ -430,8 +430,8 @@ Tabela que contém informações sobre consultas "get by ID". São consultas com
 
 Os campos da tabela são descritos abaixo:
 
-| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|:---:|
+| Nome da coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | search_id | string | UUID da busca. Identificador único vinculando esta consulta por campo à requisição de busca correspondente. |
 | account_name | string | Nome da conta onde a busca foi realizada. Identifica a qual loja a busca pertence. |
 | field | string | Campo do produto utilizado na consulta. O nome do campo que foi consultado, como 'product', 'sku' ou outros campos de identificação de produto. |
@@ -446,8 +446,8 @@ Tabela que contém informações sobre filtros de texto aplicados em facetas em 
 
 Os campos da tabela são descritos abaixo:
 
-| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|:---:|
+| Nome da coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | search_id | string | UUID da busca. Identificador único vinculando este filtro de texto à requisição de busca correspondente. |
 | account_name | string | Nome da conta onde a busca foi realizada. Identifica a qual loja a busca pertence. |
 | key | string | Chave do atributo. O nome do atributo do produto que foi filtrado (ex.: 'brand', 'category', 'color'). |
@@ -462,8 +462,8 @@ Tabela que contém informações sobre filtros numéricos aplicados em facetas e
 
 Os campos da tabela são descritos abaixo:
 
-| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|:---:|
+| Nome da coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | search_id | string | UUID da busca. Identificador único vinculando este filtro numérico à requisição de busca correspondente. |
 | account_name | string | Nome da conta onde a busca foi realizada. Identifica a qual loja a busca pertence. |
 | key | string | Chave do atributo. O nome do atributo numérico do produto que foi filtrado (ex.: 'price', 'rating', 'weight'). |
@@ -479,8 +479,8 @@ Tabela que contém informações sobre regras de relevância aplicadas nas requi
 
 Os campos da tabela são descritos abaixo:
 
-| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|:---:|
+| Nome da coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | search_id | string | UUID da busca. Identificador único vinculando esta regra de relevância à requisição de busca correspondente. |
 | account_name | string | Nome da conta onde a busca foi realizada. Identifica a qual loja a busca pertence. |
 | type | string | Tipo do boost. O tipo de regra de relevância ou boost aplicado, como 'click', 'newness', 'revenue' ou outros tipos de boost. |
@@ -497,8 +497,8 @@ Tabela que contém detalhes sobre busca híbrida para consultas que a utilizam. 
 
 Os campos da tabela são descritos abaixo:
 
-| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|:---:|
+| Nome da coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | search_id | string | UUID da busca. Identificador único vinculando esta configuração de busca híbrida à requisição de busca correspondente. |
 | account_name | string | Nome da conta onde a busca foi realizada. Identifica a qual loja a busca pertence. |
 | model | string | ID do modelo de embedding. O identificador do modelo de aprendizado de máquina utilizado para gerar embeddings para busca semântica (ex.: 'openai:text-embedding-3-small:1024'). |
@@ -517,8 +517,8 @@ Tabela que contém detalhes sobre as configurações do motor de busca para cada
 
 Os campos da tabela são descritos abaixo:
 
-| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|:---:|
+| Nome da coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | search_id | string | UUID da busca. Identificador único vinculando estas configurações à requisição de busca correspondente. |
 | account_name | string | Nome da conta onde a busca foi realizada. Identifica a qual loja a busca pertence. |
 | elasticsearch_cluster | string | Identificador do cluster Elasticsearch. O nome do cluster Elasticsearch utilizado para processar esta busca (ex.: 'is-intelligent-search-v8-05'). |
@@ -539,8 +539,8 @@ Tabela que contém informações de envio provenientes de promessas de entrega. 
 
 Os campos da tabela são descritos abaixo:
 
-| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|:---:|
+| Nome da coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | search_id | string | UUID da busca. Identificador único vinculando este filtro de envio à requisição de busca correspondente. |
 | account_name | string | Nome da conta onde a busca foi realizada. Identifica a qual loja a busca pertence. |
 | shipping | string | Filtro de envio selecionado. O método de envio ou opção que foi selecionado como filtro (ex.: 'pickup-in-point', 'delivery'). |
@@ -554,8 +554,8 @@ Tabela que contém informações de estimativas dinâmicas provenientes de prome
 
 Os campos da tabela são descritos abaixo:
 
-| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|:---:|
+| Nome da coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | search_id | string | UUID da busca. Identificador único vinculando este filtro de estimativa dinâmica à requisição de busca correspondente. |
 | account_name | string | Nome da conta onde a busca foi realizada. Identifica a qual loja a busca pertence. |
 | dynamic_estimate | string | Filtro de estimativa dinâmica selecionado. A estimativa de tempo de entrega que foi selecionada como filtro (ex.: 'same-day', 'next-day'). |
@@ -569,8 +569,8 @@ Tabela que contém informações de opções de entrega provenientes de promessa
 
 Os campos da tabela são descritos abaixo:
 
-| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|:---:|
+| Nome da coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | search_id | string | UUID da busca. Identificador único vinculando este filtro de opção de entrega à requisição de busca correspondente. |
 | account_name | string | Nome da conta onde a busca foi realizada. Identifica a qual loja a busca pertence. |
 | delivery_options | string | Hash do objeto JSON descrevendo o filtro de opção de entrega selecionado. Atualmente, não temos os valores reais das opções de entrega que foram selecionadas. |
@@ -595,8 +595,8 @@ Algumas das análises que podem ser realizadas utilizando as tabelas de busca s�
 
 ## Correlações com outros dados
 
-| **Conjunto de dados** | **Descrição** |
-|:---:|:---:|
+| Conjunto de dados | Descrição |
+|---|---|
 | Navegação | Ao correlacionar consultas de busca com caminhos de navegação, você pode entender como os usuários descobrem produtos por meio de busca versus navegação. Isso ajuda a otimizar tanto a busca quanto a experiência de navegação. |
 | Pedidos | Vincular impressões de busca e cliques aos dados de pedidos permite análise abrangente da conversão de busca para compra. Identifique quais consultas, posições de produtos ou filtros levam às maiores taxas de conversão e receita. |
 | Catálogo | Unir resultados de busca com dados de catálogo permite analisar a descoberta de produtos, entender quais atributos do produto afetam o ranking de busca e identificar produtos que deveriam ter ranking mais alto com base em suas características. |

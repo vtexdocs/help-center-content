@@ -29,8 +29,8 @@ For example, you could use the score for specific events, such as when your stor
 
 If your store uses the [VTEX Search (Legacy)](/en/docs/tutorials/how-does-vtex-search-legacy-work), you can use the parameters below to implement sorting by score:
 
-- **Ascending order **(products with lower scores are displayed at the top)**:** `?O=OrderByScoreASC`
-- **Descending order **(products with the highest score are displayed at the top)**:** `?O=OrderByScoreDESC`
+- **Ascending order** (products with lower scores are displayed at the top): `?O=OrderByScoreASC`
+- **Descending order** (products with the highest score are displayed at the top): `?O=OrderByScoreDESC`
 
 ## Score in VTEX Intelligent Search
 

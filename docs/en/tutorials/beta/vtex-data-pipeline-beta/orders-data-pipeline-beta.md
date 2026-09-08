@@ -43,7 +43,7 @@ This section includes the following information:
 
 ## Data characteristics
 
-|**Characteristic**|**Description**|
+|Characteristic|Description|
 | - | - |
 |**Data source**|The data of the order set come from the [OMS (Order Management System)](/en/docs/tutorials/orders-overview).|
 |**Availability**|Order data can be accessed through the [Orders report](/en/docs/tutorials/exporting-orders-in-orders-module) in the VTEX Admin and also through the[ Orders APIs](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders?endpoint=get-/api/oms/pvt/orders). Keep in mind that the data available through the API may not be structured exactly the same way as it is in the Data Pipeline dataset.|
@@ -54,7 +54,7 @@ This section includes the following information:
 
 The *latest* table stores the latest status of each order, including details such as update date, order ID, and customer information. The table fields are described below:
 
-|**Column name**|**Field type**|**Description**|
+|Column name|Field type|Description|
 | - | - | - |
 |orderid|character varying(16383)|Unique identifier of the order.|
 |hostname|character varying(16383)|Name of the host related to the order.|
@@ -114,7 +114,7 @@ The *latest* table stores the latest status of each order, including details suc
 
 The `historical` table stores a complete record of all order updates. The table fields are described below:
 
-|**Column name**|**Field type**|**Description**|
+|Column name|Field type|Description|
 | - | - | - |
 |orderid|character varying(16383)|Unique identifier for each order, usually used as the primary key.|
 |hostname|character varying(16383)|Name of the host associated with the order, which indicates the server or domain that is managing the order.|
@@ -174,7 +174,7 @@ The `historical` table stores a complete record of all order updates. The table 
 
 The *totals* table provides a summary of the totals related to each order, including total order amount, applied discounts, and taxes. The table fields are described below:
 
-|**Column name**|**Field type**|**Description**|
+|Column name|Field type|Description|
 | - | - | - |
 |orderid|character varying(16383)|Unique identifier for each order. This is usually joined with the 'orderid' column of the 'vtex.orders_latest' table for cross-analysis.|
 |hostname|character varying(16383)|Name of the host associated with the order, which indicates the server or domain that is managing the order.|
@@ -192,7 +192,7 @@ The *shipping* table contains order shipping information, such as shipping addre
 
 The table fields are described below:
 
-|**Column name**|**Field type**|**Description**|
+|Column name|Field type|Description|
 | - | - | - |
 |orderid|character varying(16383)|Unique identifier for each order.|
 |hostname|character varying(16383)|Name of the host related to the order. This is frequently joined with 'hostname' from the 'vtex.client_registry_gold' table.|
@@ -225,7 +225,7 @@ The table fields are described below:
 
 The *sellers* table stores the list of sellers related to each order. The table fields are described below:  
 
-|**Column name**|**Field type**|**Description**|
+|Column name|Field type|Description|
 | - | - | - |
 |orderid|character varying(16383)|Unique identifier for each order. This is frequently joined with the 'orderid' column of the 'vtex.orders_historical' table for cross-analysis.|
 |hostname|character varying(16383)|Name of the host associated with the order, which indicates the server or domain that is managing the order.|
@@ -243,7 +243,7 @@ The *sellers* table stores the list of sellers related to each order. The table 
 
 The *rateandbenefitsidentifiers* table contains data about promotions applied to orders. The table fields are described below: 
 
-|**Column name**|**Field type**|**Description**|
+|Column name|Field type|Description|
 | - | - | - |
 |orderid|character varying(16383)|Unique identifier for each order.|
 |hostname|character varying(16383)|Name of the host associated with the order, which indicates the server or domain that is managing the order.|
@@ -260,7 +260,7 @@ The *rateandbenefitsidentifiers* table contains data about promotions applied to
 
 The *payments* table contains payment method information. The table fields are described below:  
 
-|**Column name**|**Field type**|**Description**|
+|Column name|Field type|Description|
 | - | - | - |
 |orderid|character varying(16383)|Unique identifier for each order. This is frequently joined with the 'orderid' column of the 'vtex.orders_latest' table.|
 |hostname|character varying(16383)|Name of the host associated with the order, which indicates the server or domain that is managing the order.|
@@ -290,7 +290,7 @@ The *payments* table contains payment method information. The table fields are d
 
 The *packages* table stores product packaging and shipping information. The table fields are described below:
 
-|**Column name**|**Field type**|**Description**|
+|Column name|Field type|Description|
 | - | - | - |
 |orderid|character varying(16383)|Unique identifier for each order.|
 |hostname|character varying(16383)|Name of the host associated with the order, which indicates the server or domain that is managing the order.|
@@ -320,7 +320,7 @@ The *packages* table stores product packaging and shipping information. The tabl
 
 The *items* table stores details about the individual items in each order, including SKU, quantity, price, and discounts. The table fields are described below:
 
-|**Column name**|**Field type**|**Description**|
+|Column name|Field type|Description|
 | - | - | - |
 |orderid|character varying(16383)|Unique identifier for each order. This is usually joined with the 'orderid' column of the 'vtex.orders_latest' table.|
 |hostname|character varying(16383)|Name of the host associated with the order. This is frequently joined with columns from other tables, such as 'vtex.client_registry_gold.hostname'.|

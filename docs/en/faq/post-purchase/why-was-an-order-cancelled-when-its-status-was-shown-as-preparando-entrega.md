@@ -1,5 +1,5 @@
 ---
-title: 'Why an order was cancelled when its status “Ready for Handling”?'
+title: 'Why was an order cancelled when its status was “Ready for Handling”?'
 id: LDgtkquNEssyQMYUGcYeO
 status: PUBLISHED
 createdAt: 2017-05-16T23:08:29.742Z
@@ -20,7 +20,7 @@ When cancellation happens, the user is notified through [VTEX DO](/en/docs/tutor
 
 1) If you want to confirm the cancellation, in **Orders > All Orders**, click the desired order and click **Cancel Order**.
 
-2) If you want to go ahead with fulfillment, follow with the invoicing, informing the customer that the order cannot be canceled.
+2) If you want to go ahead with fulfillment, proceed with invoicing, informing the customer that the order cannot be canceled.
 
 > ❗ Under `Cancellation Window` status, only the customer’s cancellation request is unilateral, and the store does not confirm. In all other statuses, the store will be informed of the request through VTEX DO.
 

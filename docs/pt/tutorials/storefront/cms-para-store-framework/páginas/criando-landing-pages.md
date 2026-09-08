@@ -29,7 +29,7 @@ No Admin, você pode criar landing pages personalizadas, como páginas para ofer
 
 3.Na seção Detalhes da página, preencha os campos abaixo para definir os metadados da página:
 
-| **Campo**     | **Descrição**    |
+| Campo     | Descrição    |
 | ---------- | ---------- |
 | Título | Título da página exibido na parte superior da janela do navegador e nas páginas de resultados dos mecanismos de busca. |
 | URL | URL da página. Reflete automaticamente o título da página. Você pode editá-lo de acordo com o seu cenário, adicionando parâmetros personalizados. |

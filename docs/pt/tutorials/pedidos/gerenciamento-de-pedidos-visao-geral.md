@@ -1,5 +1,5 @@
 ---
-title: 'Pedidos - Visão geral'
+title: 'Pedidos'
 id: tutorials_201
 status: PUBLISHED
 createdAt: 2017-04-27T22:13:42.525Z

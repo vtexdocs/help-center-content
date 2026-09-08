@@ -59,7 +59,7 @@ El diagrama a continuación representa el flujo de autenticación mutua utilizan
 Consulta a continuación cómo se aplica este flujo a la comunicación entre los sistemas de VTEX y los del retailer. Dependiendo del caso, VTEX puede actuar como cliente o servidor.
 
 | Dirección del request | Descripción |
-| :---- | :---- |
+| ---- | ---- |
 | **Tienda headless o ERP/WMS → VTEX** | Cuando un request se envía desde la tienda hacia VTEX, se enruta a un **proxy mTLS de entrada** alojado en nuestra VPC.<br><br>Este proxy valida el certificado incluido en el request, verificando que haya sido emitido por la AC de VTEX.<br><br>El request solamente se reenvía a los microservicios internos tras una validación satisfactoria. |
 | **VTEX → Tienda headless o ERP/WMS** | En caso de que VTEX envíe un request a la tienda, el tráfico pasa por un **proxy mTLS de salida** dentro de nuestra VPC, que inyecta el certificado emitido por la AC del retailer.<br><br>Esto permite que el entorno del retailer verifique la autenticidad del request y acepte solo conexiones legítimas y seguras. |
 

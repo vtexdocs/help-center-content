@@ -27,7 +27,7 @@ Você também pode criar redirecionamentos de URL para encaminhar visitantes do 
 
 No Admin VTEX, acesse **Storefront > Pages** e descubra as principais ferramentas disponíveis na interface.
 
-| **Ferramenta** | **Descrição** |
+| Ferramenta | Descrição |
 | ---------- | ---------- |
 | **Padrão** | Veja as páginas personalizadas do site da sua loja. As páginas são divididas em **Padrão, Produto, Coleções de produtos e Não encontrado (404).** |
 | **CRIAR PÁGINA** | Crie uma nova landing page e escolha seu título, URL, palavras-chave e modelo. As páginas **Produto, Coleções de Produtos** e **Não Encontrado (404)** não podem ser criadas no Admin, apenas no código do tema da loja.|

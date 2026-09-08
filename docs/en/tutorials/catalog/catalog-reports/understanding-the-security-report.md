@@ -1,5 +1,5 @@
 ---
-title: 'Understand the Security report'
+title: 'Understanding the Security report'
 id: tutorials_282
 status: PUBLISHED
 createdAt: 2017-04-27T22:10:10.101Z
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 5yDQmr18K4GgQAeGwq8USa
 ---
 
-The Security Report is where the changes affecting the product register are recorded. Its main function is to offer the storeowner the possibility of verifying the author of certain changes over a specific period of time.
+The Security Report is where the changes affecting the product register are recorded. Its main function is to offer store owners a way to verify the author of certain changes over a specific period of time.
 
 ## Access the Security report
 
@@ -29,7 +29,7 @@ The path is as follows:
 
 Several filters are available, beginning with the fields below, bearing in mind that the date field must always be filled out in order to return the proper result. If no filter is used, the register with all changes on the current date will be displayed.
 
-In the example, I set up a filter for a change (whether creation or updating) to the price of an SKU. To do this I have used the fields __Data__ with the SKU Id, __Screen__, with the location of the platform where the change is happening and a specific time frame. According to the report you want, you may have to use other fields at the same time, or as a replacement for those I have used in the example.
+In this example, a filter is set up for a change (whether creation or updating) to the price of an SKU. To do this, the fields __Data__ with the SKU Id, __Screen__, with the location of the platform where the change is happening, and a specific time frame have been used. According to the report you want, you may have to use other fields at the same time, or as a replacement for those used in the example.
 
 ![relatorioseguran aPT.gif?h=250](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/catalog-reports/understanding-the-security-report_1.gif)
 
@@ -37,7 +37,7 @@ Read the section below to understand all the available fields for filtering the 
 
 ## Fields available for filtering
 
-**Administrador's Name:** Name of the user that made the change.
+**Administrator's Name:** Name of the user that made the change.
 
 **Access address:** IP address of the machine that made the change.
 

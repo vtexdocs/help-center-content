@@ -24,7 +24,7 @@ Para configurar Flywire, siga los pasos a continuación:
 3. Escriba el nombre __Flywire__ en la barra de búsqueda y haga clic en el nombre del proveedor.
 4. Rellene los campos de registro __Application Key__, __Application Token__, __Recipient__, __Locale__, __Provider__ y __Callback version__ con los datos proporcionados por Flywire. 
 5. En __Environment__, elija una de dos opciones: __Demo__ o __Production__.
-6. En __Display Payer Information__, elija una de dos opciones: __True_ o __False__.
+6. En __Display Payer Information__, elija una de dos opciones: __True_ o__ False__.
 7. Haga clic en `Guardar`.
 
 ## Configurar la condición de pago Pagaré

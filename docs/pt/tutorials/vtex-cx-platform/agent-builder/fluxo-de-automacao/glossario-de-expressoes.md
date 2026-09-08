@@ -570,10 +570,10 @@ parse_time retornará um erro se não conseguir converter o texto em uma datetim
     @(trim(""+123157568"", ""+"")) → 123157568
 `trim_left(texto, [, caracteres])`: remove o espaço em branco desde o início do `text`. Há um parâmetro opcional, `chars`que é uma sequência de caracteres a serem removidas em vez do espaço em branco.
 
-    @(""*"" & trim_left("" hello world   "") & ""*"") → *hello world   *@(trim_left(""+12345+"", ""+"")) → 12345+
+    @(""*"" & trim_left("" hello world   "") & ""*"") → *hello world*@(trim_left(""+12345+"", ""+"")) → 12345+
 `trim_right(texto, [, caracteres])`: remove o espaço em branco do final de `text`. Há um parâmetro opcional, `chars`que é uma sequência de caracteres a serem removidas em vez do espaço em branco.
 
-    @(""*"" & trim_right("" hello world   "") & ""*"") → * hello world*@(trim_right(""+12345+"", ""+"")) → +12345
+    @(""*"" & trim_right("" hello world   "") & ""*"") → *hello world*@(trim_right(""+12345+"", ""+"")) → +12345
 `tz(data)`: retorna o nome do fuso horário de `date`. Se nenhuma informação de fuso horário estiver presente na data, o fuso horário atual será retornado.
 
     @(tz(""2017-01-15T02:15:18.123456Z"")) → UTC

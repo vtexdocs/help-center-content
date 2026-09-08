@@ -28,7 +28,7 @@ Existem duas possibilidades de troca de seller:
 
 É possível desabilitar a funcionalidade da troca de seller. Com isso, o pedido feito pelo VTEX Sales App não terá a opção de recusa, apenas de cancelamento do pedido.
 
-| **Ativo** | **Desativo** |
+| Ativo | Desativo |
 |----|
 | ![Recusar](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/vtex-sales-app-beta/trocar-seller-de-um-pedido-do-vtex-sales-app-beta_1.png) | ![Cancelar](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/vtex-sales-app-beta/trocar-seller-de-um-pedido-do-vtex-sales-app-beta_2.png) |
 

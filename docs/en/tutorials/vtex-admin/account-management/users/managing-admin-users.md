@@ -29,7 +29,7 @@ This page allows you to:
 The table on the page shows: 
 
 | Columns | Description |
-| :---- | :---- |
+| ---- | ---- |
 | Email | Email address of the admin user registered in the VTEX Admin. |
 | Roles | Roles associated with the admin user. |
 | MFA | Multi-factor authentication (MFA) configuration. The status can be *Inactive* or show the configured method (*SMS* or *Authenticator*). Learn more in [Enable two-factor authentication login](/en/docs/tutorials/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ). |
@@ -41,7 +41,7 @@ The search bar lets you search by users’ email addresses and displays results 
 To manage admin users, you need to have a [role](/en/docs/tutorials/roles) with the following [License Manager resources](/en/docs/tutorials/license-manager-resources):
 
 | Resource name | Resource key (resource_key) | Description |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Edit Admin Users | EditAdminUsers | Allows creating, editing, and removing admin users. |
 | View Admin Users | ViewAdminUsers | Allows viewing user information and roles. |
 

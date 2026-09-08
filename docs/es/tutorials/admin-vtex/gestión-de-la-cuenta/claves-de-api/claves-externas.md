@@ -24,7 +24,7 @@ La pestaña **Externas** enumera las claves de API externas agregadas a tu cuent
 La página muestra la siguiente información en forma de tabla:
 
 | Columna | Descripción |
-| :---- | :---- |
+| ---- | ---- |
 | **Clave/Propietario** | Clave de la API seguida del nombre de la cuenta externa propietaria de la clave. |
 | **Roles** | Roles asociados a la clave de API externa. |
 | **Agregado el** | Fecha en la que se agregó la clave de API externa. |

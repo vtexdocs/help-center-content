@@ -28,8 +28,8 @@ This section includes the following information:
 
 ## Data Characteristics
 
-| **Characteristic** | **Description** |
-|:---:|:---:|
+| Characteristic | Description |
+|---|---|
 | **Data source** | Obtained from information in the [Audit](/en/docs/tutorials/audit). |
 | **Availability** | VTEX Admin. |
 | **History** | Data is maintained for two years, starting in 2024 for customers already using the VTEX platform. |
@@ -39,8 +39,8 @@ This section includes the following information:
 
 Below are the fields that constitute the table:  
 
-| **Column Name** | **Column Type** | **Column Description** |
-|:---:|:---:|:---:|
+| Column Name | Column Type | Column Description |
+|---|---|---|
 | account_name | character varying(255) | Name of the account related to the gift card operation. |
 | event_date | timestamp with time zone | Date and time of the given operation. |
 | operation | character varying(200) | Type of operation. |

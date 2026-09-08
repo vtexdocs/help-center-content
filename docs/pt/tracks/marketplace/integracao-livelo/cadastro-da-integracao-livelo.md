@@ -25,7 +25,7 @@ Terminadas as etapas de conﬁguração da sua conta na Livelo e da sua conta na
 
 > ❗ Nesta etapa as credenciaisda Livelo são necessárias. <br>Todos os campos da tela de configuração da Livelo são obrigatórios.</br>  
 
-| **Campo** | **Descrição** | **Exemplo** |
+| Campo | Descrição | Exemplo |
 |---|---|---|
 | **Status da integração** | Botão que define se a integração estará ligada ou desligada. | <i class="fas fa-toggle-on"></i>  ou <i class="fas fa-toggle-off"></i> |
 | **ID do Afiliado** | Código identificador para criação de um [afiliado](/pt/docs/tutorials/o-que-e-afiliado) que ainda não esteja cadastrado no seu sistema. O código deve ser composto de três consoantes, sejam elas repetidas ou não. Vogais não são aceitas.  A configuração do conector cria automaticamente o afiliado. | LVL |

@@ -25,6 +25,6 @@ You will need to request the creation of a new sales channel only if you want to
 
 To [request additional sales channels](/en/docs/tutorials/requesting-an-additional-trade-policy), please open a ticket to our [Support](https://supporticket.vtex.com/support) by selecting Commercial and Create a sales channel.
 
-To [purchase additional commercial policies](/en/docs/tutorials/requesting-an-additional-trade-policy), simply request it via ticket in our [Support](https://supporticket.vtex.com/support) by selecting the **Commercial** option and the request type **Creation of Commercial Policy.**
+To [purchase additional commercial policies](/en/docs/tutorials/requesting-an-additional-trade-policy), request it via ticket in our [Support](https://supporticket.vtex.com/support) by selecting the **Commercial** option and the request type **Creation of Commercial Policy.**
 
 For each additional sales channel, a monthly fee is charged, whether it is used for integration with certified marketplaces, partners, external or VTEX.

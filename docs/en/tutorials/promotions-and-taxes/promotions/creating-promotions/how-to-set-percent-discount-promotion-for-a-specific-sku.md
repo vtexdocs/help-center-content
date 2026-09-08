@@ -15,18 +15,18 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-For this configuration, you must set up a Take More for Less promotion, and select the desired SKU. Follow the instructions below.
+For this configuration, you must set up a More for Less promotion, and select the desired SKU. Follow the instructions below.
 
 1. In the VTEX Admin, go to *Promotions > Promotions*, or type *Promotions* in the search bar at the top of the page.
 2. Click on **Create Promotion**.
 3. Click on **More For Less**.
 4. Fill out the fields according to the [promotion documentation](/en/docs/tutorials/creating-a-more-for-less-promotion).
-5. At **SKUs**, fill it out with the SKU to which the promotion will be applied.
-6. At **Every _ product (s)**, fill it out with the value **1**.
-7. At **The client will take _ products**, fill it out with the value **1**.
-8. For the promotion option, select **With a discount of**, and fill it out with the discount amount you wish to grant to the SKU.
+5. In the **SKUs** field, enter the SKU to which the promotion will be applied.
+6. In the **Every _ product (s)** field, enter the value **1**.
+7. In the **The client will take _ products** field, enter the value **1**.
+8. For the promotion option, select **With a discount of**, and enter the discount amount you wish to grant to the SKU.
 9. Click on **Save**.
 
-In this configuration, the SKU will be sold with a 15% discount.
+In this configuration, the SKU will be sold with the discount you entered.
 
-**Remember!** This promotion will not be applied to the window, only to the product page.
+> ⚠️ This promotion is not applied on the storefront. It is applied only on the product page.

@@ -19,7 +19,7 @@ A doca é parte do sistema logístico e geralmente funciona como ponto intermedi
 
 Na VTEX, a doca é um intermediador entre o armazenamento de itens e a entrega dos pedidos do seu negócio. É pela doca que ocorre a integração das partes necessárias para a logística da sua loja: [Estoque](/pt/docs/tutorials/estoque),  [Política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) e [Política de envio](/pt/docs/tutorials/politica-de-envio).
 
-![Doca PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estratégia-de-envio/doca_1.svg)
+![Doca PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estratégia-de-envio/doca_1.png)
 
 > ℹ️ O Estoque é o espaço físico de armazenamento das mercadorias vendidas pela loja; a Política comercial é a configuração das estratégias de venda da loja; e a Política de envio é um conjunto de regras que definem as opções e condições de frete. A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é: <ul><li>[Política de envio](/pt/docs/tutorials/politica-de-envio)</li><li>Doca</li><li>[Estoque](/pt/docs/tutorials/estoque)</li></ul>
 

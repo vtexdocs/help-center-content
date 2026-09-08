@@ -25,6 +25,6 @@ The Google Shopping connector on the VTEX Platform allows you to use this servic
 
 > ℹ️ Before configuring the integration, read the [ Shopping ads policies](https://support.google.com/google-ads/answer/6149970?hl=en) to learn what are the conditions required by Google.
 
-| **LEARN MORE** |
+| LEARN MORE |
 | ---------- |
 |For more information about the benefits and how ads work, check out Google’s article on [Shopping campaigns and Shopping ads](https://support.google.com/google-ads/answer/2454022).|

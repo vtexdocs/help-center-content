@@ -33,7 +33,7 @@ A página permite que você realize as seguintes ações:
 
 A partir da lista de produtos, você pode visualizar as seguintes informações: 
 
-| **Coluna** | **Descrição** |
+| Coluna | Descrição |
 |----|----|
 | **Nome** | Nome que identifica o produto, definido na etapa de criação. Abaixo do nome, a página exibe a ID do produto, ou seja, o código identificador único do produto. <br/><br/> Ao lado do nome, cada linha exibe uma seta <i class="fas fa-chevron-right"></i> para [visualizar a lista de SKUs](#visualizar-lista-de-skus) associados ao produto, um ícone de [status do produto](#acompanhar-disponibilidade-de-produtos) e a imagem cadastrada para o produto. |
 | **Última atualização** | Data da [indexação](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao) mais recente do produto. Para visualizar detalhes sobre esse processo, confira a seção [Ver informações de indexação](#ver-informacoes-de-indexacao). |
@@ -75,8 +75,8 @@ A lista de produtos pode ser filtrada pelas opções da lista abaixo. Para isso,
 
 ### Filtrar por status
 
-| **Tipo de status** | **Descrição** |
-| :----------: | :---------- |
+| Tipo de status | Descrição |
+| ---------- | ---------- |
 | Ativo | O produto se torna ativo quando o lojista habilita essa configuração no produto, demonstrando querer vendê-lo.Para ser vendido, o produto precisa estar ativo, mas essa ativação não garante sua disponibilidade, pois o produto disponível precisa atender a outros fatores, como preço, inventário, entre outros. Saiba mais em [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site). |
 | Inativo | O produto se torna inativo quando o lojista desabilita essa configuração, indicando não querer vendê-lo no momento.Todo produto inativo se encontra indisponível para vendas. |
 
@@ -84,8 +84,8 @@ A lista de produtos pode ser filtrada pelas opções da lista abaixo. Para isso,
 
 Na página **Produtos e SKUs**, cada produto tem um ícone colorido que sinaliza sua disponibilidade para vendas. Ao passar o mouse sobre o ícone, são fornecidas algumas informações, veja mais detalhes na tabela abaixo:
 
-| **Cor de ícone** | **Nome** | **Significado** |
-| :---: | :---: | :--- |
+| Cor de ícone | Nome | Significado |
+| --- | --- | --- |
 | Verde | `Disponível para venda` | O produto está habilitado para o status ativo e se encontra disponível para vendas na loja, associado a pelo menos uma [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial). |
 | Laranja | `Produto indisponível` | O produto está indisponível para venda, apesar de estar ativo. Ou seja, o lojista habilitou o status que demonstra querer vender o produto, mas no momento isso não é possível.Diferentes motivos podem causar a indisponibilidade do produto, tais como preço, inventário, logística ou outro. Para mais informações, confira o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site). |
 | Branco | `Inativo no catálogo` | O produto está desabilitado e tem status inativo.Quando o lojista desativa o produto, é porque não deseja vendê-lo e, neste caso, o acompanhamento de sua disponibilidade não se aplica. |

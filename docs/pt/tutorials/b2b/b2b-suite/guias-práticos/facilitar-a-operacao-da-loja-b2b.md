@@ -93,7 +93,7 @@ Todas as lojas VTEX contam com o [My account](/pt/docs/tutorials/como-funciona-a
 
 Essa ferramenta permite que o cliente acompanhe o status do seu pedido no fluxo do pós-venda, bem como faça algumas operações. Uma delas é a de “Pedir novamente”, na qual é possível repetir um pedido feito previamente.  
 
-![Pedir novamente reorder](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/guias-práticos/facilitar-a-operacao-da-loja-b2b_1.png)
+![Pedir novamente reorder](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/b2b-suite/guias-práticos/facilitar-a-operacao-da-loja-b2b_1.png)
 
 Para saber mais detalhes sobre o My Account, confira o tutorial sobre [como configurar esta funcionalidade](/pt/docs/tutorials/configurar-o-my-account).
 

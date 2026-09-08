@@ -25,7 +25,7 @@ Al crear categorías para su tienda, piense en la estructura de lo que usted ven
 
 
 
-__Sofá (Padre) __
+__Sofá (Padre)__
 
 
 2 plazas (Hija)
@@ -40,7 +40,7 @@ __Sofá (Padre) __
 ---
 
 
-__Cama (Padre) __
+__Cama (Padre)__
 
 
 Soltero (Hija)
@@ -56,7 +56,7 @@ King (Hija)
 
 ---
 
-__Gabinete (Padre) __
+__Gabinete (Padre)__
 
 
 2 puertas (Hija)

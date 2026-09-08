@@ -39,7 +39,7 @@ Haz clic en cada métrica para ver el gráfico correspondiente. El gráfico pres
 Las métricas disponibles son:
 
 | Métrica                 | Descripción                                                                                                                                                                                                                        | Información disponible al pasar el mouse sobre una fecha |
-| :---------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------- |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | **Conversión por clic** | Porcentaje de clics en recomendaciones que resultaron en pedidos.                                                                                                                                                  | Clics, Pedidos, Conversión por clic                      |
 | **Tasa de vistas**      | Porcentaje de vistas de estanterías de recomendación en relación con el total de vistas de página. La estrategia se genera cada vez que se carga la página, pero no siempre se registra una vista. | Vistas, Impresiones, Tasa de vistas                      |
 | **Tasa de clics**       | Tasa promedio de clics (CTR) en las recomendaciones.                                                                                                                                            | Clics, Vistas, Tasa de clics                             |
@@ -54,7 +54,7 @@ La tabla muestra el desempeño individual de cada estantería de recomendación 
 La página muestra la siguiente información sobre cada estantería de producto en una tabla:
 
 | Columna             | Descripción                                                                                                                                                                        |
-| :------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Estantería          | Nombre de la estantería de recomendación y su respectiva estrategia y contexto de visualización (por ejemplo, _home_, _pdp_, _cart_, _footer_). |
 | Tasa de vistas      | Porcentaje de vistas de la estantería respecto a las vistas de la página en la que está insertada.                                                                 |
 | Tasa de clics       | Porcentaje de clics en los productos de la estantería respecto al número de vistas.                                                                                |

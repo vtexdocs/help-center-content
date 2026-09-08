@@ -52,7 +52,7 @@ The financial report is in **CSV** format with several columns detailing each or
 ### Filtering and calculating the transacted GMV
 Use the `=SUMIF` function in Excel to calculate the total number of orders in different scenarios:
 
-| **Revenue type**                          | **Applied filters**                                               | **Summed column**              | **Description**                                                                                              |
+| Revenue type                          | Applied filters                                               | Summed column              | Description                                                                                              |
 |-------------------------------------------|-------------------------------------------------------------------|--------------------------------|--------------------------------------------------------------------------------------------------------------|
 | Certified marketplace                     | `IsCertifiedMarketplace (Q) = True (T)`                           | `Value STR (G)` or `Value (F)` | `Value STR` contains the total of each order in 00,00 format and `Value` contains the total in 00.00 format. |
 | External seller                           | `IsExternalSeller (S) = True (T)`                                 | `Value STR (G)` or `Value (F)` | `G` or `F` indicate the column used for the sum.                                                             |

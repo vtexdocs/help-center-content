@@ -3,7 +3,7 @@ title: 'Risk Assessment'
 id: 4K97IpqkpCpDYsZOSxtfkX
 status: PUBLISHED
 createdAt: 2022-05-26T13:08:53.479Z
-updatedAt: 2025-10-24T23:03:49.398Z
+updatedAt: 2026-08-24T14:06:50.000Z
 publishedAt: 2025-10-24T23:03:49.398Z
 firstPublishedAt: 2022-05-26T13:17:48.374Z
 contentType: tutorial
@@ -137,11 +137,11 @@ Os dispositivos de armazenamento de mídia usados para armazenar dados do client
 
 #### A companhia possui uma Política de Privacidade e Proteção de Dados? Se sim, com qual periodicidade ela é revisada? A política foi distribuída e comunicada para toda companhia?
 
-Sim, a VTEX possui Políticas de Privacidade e Proteção de Dados, que são revisadas anualmente. As Políticas de Privacidade Interna e Externa foram distribuídas e comunicadas para toda a companhia através do nosso canal de anúncios internos. A Política de Privacidade Interna é mantida na nossa ferramenta de documentos corporativos internos, para possibilitar o livre acesso pelos colaboradores. A [Política de Privacidade Externa](https://vtex.com/br-pt/trust/general-external-privacy-notice/) pode ser acessada no website da VTEX.
+Sim, a VTEX possui Políticas de Privacidade e Proteção de Dados, que são revisadas anualmente. As Políticas de Privacidade Interna e Externa foram distribuídas e comunicadas para toda a companhia através do nosso canal de anúncios internos. A Política de Privacidade Interna é mantida na nossa ferramenta de documentos corporativos internos, para possibilitar o livre acesso pelos colaboradores. O [Aviso de Privacidade Externo](https://www.vtex.com/pt-br/trust/aviso-de-privacidade-externo-geral) da Plataforma VTEX pode ser acessado no website da VTEX.
 
 #### A organização possui um DPO (Data Protection Officer) ou Encarregado de Proteção de Dados, com autoridade, missão, responsabilidade e recursos para coordenar, desenvolver e implementar os requisitos de privacidade aplicáveis e gerenciar os riscos de privacidade por meio do programa de privacidade?
 
-Sim, a VTEX possui um DPO responsável por coordenar o programa de privacidade: você pode contatá-lo através do email [dpo@vtex.com.br](mailto:dpo@vtex.com.br).
+Sim, a VTEX possui um DPO responsável por coordenar o programa de privacidade: você pode contatá-lo através do email [dpo@vtex.com](mailto:dpo@vtex.com).
 
 #### Que tipo de dados pessoais a VTEX trata em nome dos seus clientes?
 
@@ -161,13 +161,13 @@ Como operadora de dados, a VTEX trata dados pessoais de compradores somente quan
 * Senhas de sessões (criptografadas)
 * Tokens gerados
 
-A lista de dados acima está descrita no [Data Processing Addendum (DPA)](https://help.vtex.com/docs/tracks/data-protection-roles#data-processing-addendum-dpa).
+A lista de dados acima está descrita no [Data Processing Addendum (DPA)](https://compliance.vtex.com/item/data-processing-addendum).
 
 #### Como a VTEX cumpre a LGPD (Lei Geral de Proteção de Dados) e o GDPR (_General Data Protection Regulation_)?
 
-A VTEX está comprometida a cumprir todos os regulamentos de proteção de dados aplicáveis, incluindo a LGPD e o GDPR. Você pode ler mais sobre nossas políticas, contratos e compromisso com o compliance em proteção de dados em nosso website, na página [Privacidade & Contratos](https://vtex.com/br-pt/trust/). 
+A VTEX está comprometida a cumprir todos os regulamentos de proteção de dados aplicáveis, incluindo a LGPD e o GDPR. Você pode ler mais sobre nossas políticas, contratos e compromisso com o compliance em proteção de dados em nosso website, no [Aviso de Privacidade Externo](https://compliance.vtex.com/item/privacy-notice-for-shoppers) da Plataforma VTEX.
 
-Confira nosso [Data Processing Addendum (DPA)](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/), ou Adendo ao Tratamento de Dados Pessoais para compreender como tratamos os dados pessoais na VTEX.
+Confira nosso [Data Processing Addendum (DPA)](https://compliance.vtex.com/item/data-processing-addendum), ou Adendo ao Tratamento de Dados Pessoais, para compreender como tratamos os dados pessoais na VTEX.
 
 #### Quais direitos dos titulares são garantidos pela plataforma VTEX?
 
@@ -185,13 +185,15 @@ Nossa política estabelece os níveis de classificação em público, interno e 
 
 #### Como os dados podem entrar em contato com terceiros, trabalhos terceirizados ou subcontratados e como essas interações são protegidas e monitoradas?
 
-A infraestrutura da VTEX é inteiramente dependente de provedores terceirizados, assegurando que os dados dos locatários permaneçam inacessíveis para esses parceiros externos. Confira a lista completa de nossos subprocessadores em [Subprocessadores - VTEX](https://compliance.vtex.com/?itemUid=e3fae2ca-94a9-416b-b577-5c90e382df57&source=click).
+A infraestrutura da VTEX é inteiramente dependente de provedores terceirizados, assegurando que os dados dos locatários permaneçam inacessíveis para esses parceiros externos. Confira a lista completa de nossos sub-operadores em [Sub-operadores](https://compliance.vtex.com/?itemUid=e3fae2ca-94a9-416b-b577-5c90e382df57&source=search).
 
-A segurança do processamento e envio de dados a terceiros é uma prioridade fundamental para a VTEX. Empregamos uma abordagem abrangente que combina tecnologia avançada, rigorosos processos de segurança e treinamento contínuo de nossa equipe. Utilizamos medidas tecnológicas, como criptografia robusta, para proteger os dados durante o envio e processamento. Além disso, implementamos processos rigorosos de segurança da informação e controles de acesso para garantir que apenas as pessoas autorizadas tenham acesso aos dados. Investimos constantemente em atualizações e melhorias para garantir a proteção eficaz dos dados que são compartilhados com parceiros terceirizados, entre outras medidas. Você pode conhecer nossas medidas de segurança em vigor em [Práticas de Segurança](https://vtex.com/br-pt/security/security-practices/).
+A segurança do processamento e envio de dados a terceiros é uma prioridade fundamental para a VTEX. Empregamos uma abordagem abrangente que combina tecnologia avançada, rigorosos processos de segurança e treinamento contínuo de nossa equipe. Utilizamos medidas tecnológicas, como criptografia robusta, para proteger os dados durante o envio e processamento. Além disso, implementamos processos rigorosos de segurança da informação e controles de acesso para garantir que apenas as pessoas autorizadas tenham acesso aos dados. Investimos constantemente em atualizações e melhorias para garantir a proteção eficaz dos dados que são compartilhados com parceiros terceirizados, entre outras medidas. Você pode conhecer nossas medidas de segurança em vigor em [Práticas de Segurança](https://compliance.vtex.com/item/vtex-security-posture).
 
 #### Você pode garantir que os dados não migrem além de uma região geográfica definida?
 
-Atualmente, a maioria dos dados armazenados pela VTEX são baseados na AWS us-east-1. Isso significa que o cliente não pode definir a região geográfica, mas também significa que, a menos que autorizado pelo cliente, a VTEX não migrará os dados para fora dessa região.
+A maior parte dos dados armazenados pela VTEX está hospedada na AWS us-east-1 (Virgínia, EUA), e o cliente não pode definir uma região geográfica alternativa para armazenamento. No entanto, a VTEX pode realizar transferências internacionais de dados pessoais quando necessário para a operação da plataforma (por exemplo, para viabilizar suporte, subprocessadores ou outras atividades de tratamento), sempre amparada por mecanismos legais reconhecidos para esse fim, como o Data Privacy Framework (DPF) UE-EUA, cláusulas contratuais padrão ou outras salvaguardas aplicáveis, conforme o caso.
+
+Para mais detalhes sobre como a VTEX realiza e protege transferências internacionais de dados, consulte o whitepaper [International Transfers and the DPF](https://compliance.vtex.com/?itemUid=b625c744-158a-4edc-9d76-9322b4c730e8).
 
 #### A VTEX utiliza a anonimização dos dados?
 
@@ -303,7 +305,7 @@ A gestão de usuários administrativos é realizada de forma direta através do 
 
 Toda ação na VTEX, como acessar uma página no Admin ou fazer uma chamada de API, envolve uma requisição à nossa infraestrutura. Para garantir a segurança dessas operações, existe o **License Manager**, um sistema responsável por verificar se um usuário possui as permissões adequadas para realizar uma ação na plataforma. Para facilitar o gerenciamento dessas permissões, o License Manager é baseado em recursos e perfis de acesso.
 
-Um recurso é uma entidade associada a uma ação ou informação dentro de nossa infraestrutura. Por exemplo, o recurso**_ Product management_** permite que um usuário acesse e edite o formulário de cadastro de produtos no **Catálogo**. Para detalhes sobre cada recurso disponível, veja [Recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager).
+Um recurso é uma entidade associada a uma ação ou informação dentro de nossa infraestrutura. Por exemplo, o recurso **Product management** permite que um usuário acesse e edite o formulário de cadastro de produtos no** Catálogo**. Para detalhes sobre cada recurso disponível, veja [Recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager).
 
 Um [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) determina o conjunto de recursos que um grupo de usuários pode acessar na VTEX. Cada usuário administrativo pode ser associado a um ou mais perfis de acesso. Ao criar um novo perfil de acesso, você tem a opção de utilizar um dos [perfis predefinidos ](/pt/docs/tutorials/perfis-de-acesso-predefinidos)disponibilizados pela VTEX ou de [criar um perfil customizado](/pt/docs/tutorials/perfis-de-acesso-predefinidos), selecionando cada recurso necessário.
 

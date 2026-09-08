@@ -25,14 +25,14 @@ Antes de configurar la visualización del pago en efectivo en VTEX Sales App, ti
 2. Haz clic en la pestaña **Pagos personalizados**.
 3. En la sección de **Pagarés**, haz clic en cualquiera de los recuadros que contienen <i class="fas fa-cog"></i> `Configurar`.
 4. En el campo **Nombre**, ingresa un nombre para este pago personalizado. Por ejemplo, "Efectivo".
-5. En el campo **Autorizar automáticamente, **selecciona **Yes**. No es necesario rellenar ni modificar los demás campos.
+5. En el campo **Autorizar automáticamente,** selecciona **Yes**. No es necesario rellenar ni modificar los demás campos.
 6. Haz clic en `Salvar` (Guardar).
 
 ## Crear una condición de pago
 
 Ahora vamos a crear la condición de pago.
 
-1. Aún en la página de **Configuración **del módulo de **Pagos**, haz clic en la pestaña **Planes de Pago**.
+1. Aún en la página de **Configuración** del módulo de **Pagos**, haz clic en la pestaña **Planes de Pago**.
 2. Haz clic en el botón verde con el ícono `+` para añadir una nueva condición de pago, como se muestra a continuación.
 
 ![es-add-payment-condition](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-sales-app-pagos/configurar-pago-en-efectivo-por-instore_1.png)

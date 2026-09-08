@@ -47,8 +47,8 @@ Estrategia de envío es la relación entre stock, muelle y política de envío; 
 
 Las configuraciones se pueden realizar a través del Admin VTEX o API. Si estás empezando a configurar tu estrategia de envío, sugerimos el siguiente orden de configuración:
 
-| **Tema** | **Configuración en el Admin VTEX** | **Configuración por API** |
-| :--- | :--- | :--- |
+| Tema | Configuración en el Admin VTEX | Configuración por API |
+| --- | --- | --- |
 | 1. [Política de envío](/es/docs/tutorials/politica-de-envio) | [Crear una política de envío](/es/docs/tutorials/crear-una-politica-de-envio) | [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) |
 | 2. [Muelle](/es/docs/tutorials/muelles) | [Gestionar muelle](/es/docs/tutorials/gestionar-el-muelle) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
 | 3. [Almacén](/es/docs/tutorials/almacen) | [Gestionar almacenes](/es/docs/tutorials/gestionar-almacenes) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |

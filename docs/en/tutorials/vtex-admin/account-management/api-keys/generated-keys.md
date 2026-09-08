@@ -24,7 +24,7 @@ The **Generated** tab lists the API keys created by your account. You can use th
 The page displays the following information in a table:  
 
 | Column | Description |
-| :---- | :---- |
+| ---- | ---- |
 | **Key/Name** | API key, followed by the name defined when creating the key. If the token has exceeded the recommended renewal period (3 months, by default), a renewal alert icon is displayed next to the key. Learn more in [Configuring alerts to renew API tokens](/en/docs/tutorials/configuring-alerts-to-renew-api-tokens). |
 | **Roles** | Roles associated with the API key. |
 | **Created date** | API key created date. |

@@ -28,7 +28,7 @@ En el Admin VTEX, accede **Storefront > Páginas** y descubre las principales he
 
 ![Páginas UI - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/cms-para-store-framework/páginas/paginas-vision-general_1.png)
 
-| **Herramienta** | **Descripción** |
+| Herramienta | Descripción |
 | ---------- | ---------- |
 | **Estándar** | Mira las páginas personalizadas del sitio web de tu tienda. Las páginas se clasifican en **Estándar, Producto, Colecciones de productos y No encontrado (404).**|
 | **CREAR NUEVA** | Crea una nueva landing page (página de destino) eligiendo su título, URL, palabras clave y plantilla. Las páginas de **Producto, Colecciones de productos** y **No encontrado (404)** no se pueden crear en el Admin, solo en el código del tema de la tienda.|

@@ -86,8 +86,8 @@ In this section, you can find best practices for monitoring platform status and 
 
 The VTEX platform is constantly evolving, and a great way for you and your team to stay up to date with new launches is by following our documentation portals:
 
-| **Documentation Portal** | **Location** |
-| :---: | :---: |
+| Documentation Portal | Location |
+| --- | --- |
 | Help Center | Page: [News](/en/announcements) |
 | Developer Portal | Page: [Release Notes](https://developers.vtex.com/updates/release-notes) |
 
@@ -118,8 +118,8 @@ VTEX offers a wide range of features and products, and it's important to familia
 
 For this reason, we provide different types of onboarding material about the platform:
 
-| **Format** | **Location** | **Language** |
-| :---: | :--- | :--- |
+| Format | Location | Language |
+| --- | --- | --- |
 | Documentation | Help Center: [Onboarding guide](/en/docs/tracks/introduction-to-vtex) | English, Spanish, and Portuguese. |
 | Videos | Site: [Onboarding VTEX](https://sites.google.com/vtex.com.br/onboardingvtex/trilha) | Portuguese only. |
 | Demos and ebooks | Site: [vtex.com](http://vtex.com) | Each piece of content is available in English, Spanish, or Portuguese, depending on your location. |

@@ -68,7 +68,7 @@ Además de reorganizar el orden de las páginas, también hemos cambiado algunas
 #### Nombres de páginas
 
 |         Antes         |                   Ahora                  |
-|:---------------------:|:----------------------------------------:|
+|---------------------|----------------------------------------|
 | Políticas comerciales | Canales de ventas                        |
 | Centro de mensajes    | Plantillas de email                      |
 | Home                  | Vista general                            |

@@ -27,13 +27,13 @@ The Seller Portal enables marketplaces to:
 - Decrease sales conversion time with self-service onboarding of new sellers, which is now faster and frictionless.  
 - Easily share product assortment with the seller and quickly manage shared product offers.  
 
-![Seller Portal gif 2022 launch](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/seller-portal/seller-portal-getting-started-for-the-marketplace_1.gif)
+![Seller Portal gif 2022 launch](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/marketplace/sellers/seller-portal/seller-portal-getting-started-for-the-marketplace_1.gif)
 
 ## Seller and marketplace interaction in the Seller Portal
 
 Using the Seller Portal depends on the actions of the marketplace and the seller, as shown in the following image:
 
-![Seller Portal - First Steps](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/seller-portal/seller-portal-getting-started-for-the-marketplace_2.png)
+![Seller Portal - First Steps](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/marketplace/sellers/seller-portal/seller-portal-getting-started-for-the-marketplace_2.png)
 
 The steps shown in the image above are:
 
@@ -81,7 +81,7 @@ Once the seller accepts the marketplace invitation and they register their Selle
 
 In addition to inviting and activating sellers through the VTEX Admin, the marketplace can also complete these steps via the REST APIs. This is useful when the marketplace wants to create its own solutions or create an account on the Seller Portal on behalf of the seller. The following table shows the list of applicable APIs:
 
-| **Call** | **Description** |
+| Call | Description |
 | ---------- | ---------- |
 | [Invite Seller Lead](https://developers.vtex.com/vtex-rest-api/reference/createsellerlead) | Sends an email to the seller containing a unique link to connect to the marketplace. |
 | [List Seller Leads](https://developers.vtex.com/vtex-rest-api/reference/listsellerleads) | Lists the sellers that have received an invitation from the marketplace. |

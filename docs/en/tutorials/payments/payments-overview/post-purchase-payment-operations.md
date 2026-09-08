@@ -30,7 +30,7 @@ The table below shows the general behavior of each operation in the different mo
 
 
 | Operation | Total mode | Hold mode | Parcial mode |
-| :---: | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | **Settlement** | Always sends a settlement request to the connector for the order total, even if the merchant requested a lower amount. | Internally holds requests for amounts lower than the total. Sends the settlement request to the connector only when the total amount is reached. | Sends the amount requested in each settlement operation to the connector. |
 | **Cancellation** | Internally holds requests for partial cancellations. Sends the cancellation request to the connector only when the total amount is reached.  | Internally holds requests for partial cancellations. Sends the cancellation request to the connector only when the total amount is reached. | Sends the exact amount requested in each cancellation operation to the connector. |
 | **Refund** | Sends the exact amount requested in each refund operation to the connector. | Sends the exact amount requested in each refund operation to the connector. | Sends the exact amount requested in each refund operation to the connector. |
@@ -161,7 +161,7 @@ Before requesting any changes, assess how each option behaves regarding settleme
 > ⚠️ **Partial mode** requires the payment connector to support multiple partial operations. This mode isn't compatible with [payment split](https://help.vtex.com/docs/tutorials/split-payment).
 
 | Mode | Recommended for | Advantages| Limitations |
-| :---: | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | **Total** | Stores that want to process settlements quickly after order approval. | <ul><li>Reduces the time between approval and fund transfer.</li><li>Ideal for merchants who prefer immediate settlement.</li></ul> | <ul><li>May incur high refund fees if amounts that have been already settled need to be refunded.</li><li>Doesn't support partial settlements.</li></ul> |
 | **Hold** | Stores that wait for multiple confirmations, such as invoices from various sellers, before settling the total amount. | <ul><li>Supports [payment split](https://help.vtex.com/docs/tutorials/split-payment), allowing item and amount changes in an order with multiple sellers, if needed.</li><li>Avoids refund costs, as it only settles when the total amount is reached.</li><li>Centralizes information transmission to the connector, reducing intermediary transactions.</li></ul> | <ul><li>For orders involving multiple sellers, settlement takes place only after all invoices have been issued.</li><li>Doesn't support partial settlements.</li></ul> |
 | **Partial** | Stores that operate with frequent settlements, cancellations, or partial refunds. | <ul><li>Allows multiple partial settlement and cancellation operations.</li><li>For orders with multiple sellers, it enables partial settlement without waiting for all sellers.</li><li>May avoid additional refund fees.</li></ul> | <ul><li>Doesn't support [payment split](https://help.vtex.com/docs/tutorials/split-payment).</li><li>Requires the connector to support multiple operations.</li><li>Requires greater operational control.</li></ul> |

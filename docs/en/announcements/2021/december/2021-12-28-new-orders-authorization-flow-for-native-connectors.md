@@ -27,7 +27,7 @@ The [Price Divergence rule](/en/docs/tutorials/price-divergence-rule) was valid 
 
 The following table compares the order processing flow for native connectors _before_ and _now_:
 
-| **BEFORE** | **NOW** |
+| BEFORE | NOW |
 | ---------- | ---------- | 
 | The configuration of an order processing rule with an error was done in the integration configuration step, by filling in a mandatory field in the connector's registration. | The processing of orders with an error is made in the [configuration of the Price Divergence rule](/en/docs/tutorials/configuring-price-divergence-rule), in the Orders authorization flow. |
 | Orders with price divergence error were not created automatically, only after manual reprocessing. | Orders with price divergence error are created automatically. [Manual approval](/en/docs/tutorials/configuring-price-divergence-rule#approving-orders-manually) of an order is only necessary when you configure an authorization rule that requires this action. |

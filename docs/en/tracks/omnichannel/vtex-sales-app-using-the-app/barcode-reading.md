@@ -15,7 +15,7 @@ trackSlugEN: vtex-sales-app-using-the-app
 order: 8
 ---
 
-After identifying the customer, the sales associate is taken directly to the cart. There, if you are using the desktop version of VTEX Sales App, connected to a barcode reader, simply beep the products and they will appear in the cart.
+After identifying the customer, the sales associate is taken directly to the cart. There, if you are using the desktop version of VTEX Sales App, connected to a barcode reader, beep the products and they will appear in the cart.
 
 If the sales associate is using a tablet or smartphone, they will see a barcode button <i class="fas fa-barcode"></i> on the top bar of the application.
 

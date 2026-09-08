@@ -64,7 +64,7 @@ Para configurar la plantilla automáticamente, accede a **Datos> Texto en column
 La plantilla de la tabla de tallas para calzado tiene las siguientes columnas:  
 
 | Columna | Descripción | Contenido |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | **Foot Length** | Medida en centímetros del tamaño del pie. | Completa cada fila con la medida en centímetros de las tallas que rellenarás en las siguientes columnas. Ejemplo: 45 cm. |
 | **Foot Length to** | Medida en centímetros del tamaño máximo que debe tener el pie para acomodar la talla respectiva. | Completa cada fila con las medidas máximas en centímetros de las tallas que rellenarás en las siguientes columnas. Ejemplo: 50 cm. |
 | **Manufacturer Size** | Se refiere al tamaño estándar de un producto según las especificaciones del fabricante.. | Rellena cada fila con la medida estándar de la marca del producto. |
@@ -78,7 +78,7 @@ La plantilla de la tabla de tallas para calzado tiene las siguientes columnas:
 La plantilla de la tabla de tallas para ropa de la parte superior tiene las siguientes columnas:  
 
 | Columna | Descripción | Contenido |
-| :---: | ----- | ----- |
+| --- | ----- | ----- |
 | **Size** | Talla de la ropa. | Rellena cada fila con las tallas de la ropa. Ejemplo: L. |
 | **Filtrable_size** | Talla filtrable disponible para la categoría. | Rellena cada fila con la talla disponible para filtrar. Ejemplo: XL.  |
 | **Chest_circumference_from** | Circunferencia del pecho (tórax). Inicio del intervalo de medidas. | Rellena cada fila con la medida mínima del tórax para la talla en centímetros. Ejemplo: 80 cm. |
@@ -97,7 +97,7 @@ La plantilla de la tabla de tallas para ropa de la parte superior tiene las sigu
 La plantilla de la tabla de medidas para ropa de la parte inferior tiene las siguientes columnas:  
 
 | Columna | Descripción | Contenido |
-| :---: | ----- | ----- |
+| --- | ----- | ----- |
 | **Size** | Talla de la ropa. | Rellena cada fila con las tallas de la ropa. Ejemplo: L. |
 | **Filtrable_size** | Talla filtrable disponible para la categoría. | Rellena cada fila con la talla disponible para filtrar. Ejemplo: 44\.  |
 | **Waist_circumference_from** | Circunferencia de la cintura. Inicio del intervalo de medidas. | Rellena cada fila con la medida mínima de la anchura de la cintura en centímetros. Ejemplo: 70 cm. |

@@ -27,13 +27,13 @@ A través del *Seller Portal*, los *marketplaces* pueden:
 - Reducir el tiempo de conversión de las ventas con una incorporación self-service de nuevos sellers ahora más rápida y sin fricciones.  
 - Compartir el surtido de productos con el seller de forma sencilla y gestionar rápidamente los anuncios de productos compartidos.  
 
-![Seller Portal gif 2022 launch](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/seller-portal-primeros-pasos-para-el-marketplace_1.gif)
+![Seller Portal gif 2022 launch](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/marketplace/sellers/seller-portal/seller-portal-primeros-pasos-para-el-marketplace_1.gif)
 
 ## Interacción entre el seller y el marketplace en el Seller Portal
 
 El uso del Seller Portal depende de las acciones del _marketplace_ y del _seller_, como se muestra en la imagen a continuación:
 
-![Seller Portal - Primeiros Pasos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/seller-portal-primeros-pasos-para-el-marketplace_2.png)
+![Seller Portal - Primeiros Pasos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/marketplace/sellers/seller-portal/seller-portal-primeros-pasos-para-el-marketplace_2.png)
 
 Los pasos representados en la imagen anterior son los siguientes:
 
@@ -81,7 +81,7 @@ Una vez que el _seller_ acepta la invitación al _marketplace_ y finaliza el reg
 
 Además de invitar y activar a los _sellers_ a través del Admin VTEX, el _marketplace_ también puede realizar estos pasos a mediante la API Rest. Esto es útil cuando el _marketplace_ quiere crear sus propias soluciones o crear la cuenta para el _seller_ en el Seller Portal. La tabla a continuación muestra la lista de APIs sobre el tema.
 
-| **Llamada** | **Descripción** |
+| Llamada | Descripción |
 | ---------- | ---------- |
 | [Invite Seller Lead](https://developers.vtex.com/vtex-rest-api/reference/createsellerlead) | Envía un email al _seller_ con un enlace único para que se conecte al _marketplace_. |
 | [List Seller Leads](https://developers.vtex.com/vtex-rest-api/reference/listsellerleads) | Enumera los _sellers_ invitados por el _marketplace_ a conectarse a él. |

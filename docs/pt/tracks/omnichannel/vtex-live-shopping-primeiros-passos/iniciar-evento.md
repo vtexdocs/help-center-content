@@ -35,8 +35,8 @@ Depois que o toggle **Iniciar** estiver ativado, você pode fechar a página. Va
 
 Quando o evento estiver ativado, todas as configurações ficam disponíveis para configuração. Na seção **Detalhes**, você verá as seguintes informações:
 
-| **Nome do campo** | **Descrição** |
-| :---: | :--- |
+| Nome do campo | Descrição |
+| --- | --- |
 | ID | ID do evento, identificador único do evento. |
 | Nome do evento | Nome do evento. |
 | UTM source | [UTM source](/pt/docs/tutorials/o-que-sao-utm-source-utm-campaign-e-utm-medium) configurada para rastrear dados do evento. |

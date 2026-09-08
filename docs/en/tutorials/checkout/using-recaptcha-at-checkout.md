@@ -39,7 +39,7 @@ It is focused on user experience and aims to minimize the volume of use, while s
 
 VTEX is integrated with reCAPTCHA enterprise, which offers two validation approaches: checkbox (equivalent to [reCAPTCHA v2](https://developers.google.com/recaptcha/docs/display)) and score-based (equivalent to [reCAPTCHA v3](https://developers.google.com/recaptcha/docs/v3)). Check the table below to see which version applies to your operation.
 
-| **Store details**           | **reCAPTCHA version**             |
+| Store details           | reCAPTCHA version             |
 | --------------------------- | --------------------------------- |
 | Native VTEX storefront      | Checkbox (v2)                     |
 | Own storefront - web        | Checkbox (v2) or Score-based (v3) |

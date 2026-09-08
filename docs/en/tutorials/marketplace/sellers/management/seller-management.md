@@ -17,7 +17,7 @@ subcategoryId: 2xWRgEIlR2ookieEmm4KQu
 
 **Seller Management** is the page where marketplace operators [add sellers](/en/docs/tutorials/adding-a-seller), input their information, and manage their status. The page features metrics that allow marketplaces to assess their operation. It is also possible to apply filters to the seller list and group sellers using the _Group_ option. 
 
-![Seller management gif 2022 launch](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/management/seller-management_1.gif)
+![Seller management gif 2022 launch](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/marketplace/sellers/management/seller-management_1.gif)
 
 ## Metrics
 
@@ -47,7 +47,7 @@ This feature allows merchants to better monitor their operations by:
 
 You can create groups manually by clicking on Add sellers or Manage groups. Once created, you can edit and delete each one.  
 
-![Seller management](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/management/seller-management_2.png)  
+![Seller management](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/marketplace/sellers/management/seller-management_2.png)  
 
 ## Managing groups  
 
@@ -60,8 +60,8 @@ On the Group management page, you will find the following options:
 
     Each group has the following fields  
 
-| **Field** | **Description** |  
-|:---:|:---:|  
+| Field | Description |  
+|---|---|  
 | Group | The group name defined when the group was created or renamed. |  
 | Active sellers  | Number of active sellers in a group, the ones that are selling their products on the marketplace. |  
 | Paused sellers  | Number of inactive sellers in a group, the ones that are not selling their products on the marketplace. |  
@@ -94,7 +94,7 @@ By clicking on the <i class="fas fa-ellipsis-v"></i> button in the seller row, t
 
 ### Identifiable sellers and unidentifiable sellers (white label)
 
-The _label _icon next to the seller's name indicates whether the store is visible in your marketplace. Sellers can have two types of visibility:
+The _label_ icon next to the seller's name indicates whether the store is visible in your marketplace. Sellers can have two types of visibility:
 
 - **Identifiable seller:** The seller is visible in your marketplace storefront and can be chosen by the consumer. The filled label icon means that the seller is identifiable.  
 - **Unidentifiable seller (white label):** [White label sellers](/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label) are franchise accounts on VTEX. They are not displayed in the storefront, and are automatically selected by the checkout system for order fulfillment. The transparent label icon means that the seller is not identifiable.  

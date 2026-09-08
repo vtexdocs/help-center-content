@@ -27,6 +27,6 @@ A strategic presence on Facebook ensures greater visibility for your store and i
 
 Before proceeding with the integration setup, you must create a [Facebook account](https://www.facebook.com/) and a [Business Manager account](https://business.facebook.com/business/help/1710077379203657?id=180505742745347).
 
-|**LEARN MORE** |
-| ---------- |
-| For more information about the benefits and terms of use, read Facebook's article about [Business Manager](https://business.facebook.com/business/help/1710077379203657?id=180505742745347). |
+## Learn more
+
+For more information about the benefits and terms of use, read Facebook's article about [Business Manager](https://business.facebook.com/business/help/1710077379203657?id=180505742745347).

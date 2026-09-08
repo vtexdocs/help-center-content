@@ -27,7 +27,7 @@ La mejoría permite maximizar la confiabilidad de los datos recopilados, la corr
 
 Antes, las tiendas que utilizaban la Conversions API solo podían medir los datos de navegación relacionados con el evento "Purchase", en otras palabras, la finalización de la compra. Ahora, también se pueden medir los siguientes eventos:
 
-| **Evento** | **Descripción** |
+| Evento | Descripción |
 | ------------- |-------------| 
 | PageView | Visualización de la página del producto. |
 | View Content | Visualización del contenido. |

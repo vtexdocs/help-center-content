@@ -29,7 +29,7 @@ En el Admin puedes crear páginas de destino personalizadas, como páginas para 
 
 3.En la sección **Detalles de la página**, rellena los siguientes campos para definir los metadatos de la página:
 
-| **Campo**     | **Descripción**    |
+| Campo     | Descripción    |
 | ---------- | ---------- |
 | Título | Título de la página que se muestra en la parte superior de la ventana del navegador y en las páginas de resultados de los motores de búsqueda. |
 | URL | URL de la página. Refleja automáticamente el título de la página, pero puedes editarlo según tu escenario, añadiendo parámetros personalizados. |

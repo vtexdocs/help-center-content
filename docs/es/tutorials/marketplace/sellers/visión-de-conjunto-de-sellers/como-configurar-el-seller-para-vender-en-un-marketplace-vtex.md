@@ -23,7 +23,7 @@ Este artículo explica cómo configurar tu tienda para convertirse en un _seller
 - [Crear el ID del afiliado](#crear-el-id-del-afiliado)
 - [Reindexar la base](#reindexar-la-base)
 
-Para saber qué datos deben intercambiar los _sellers_ y los _marketplaces_, consulta el artículo [Información compartida](/es/docs/tutorials/informacion-compartida-entre-el-marketplace-y-el-seller-en-vtex) entre el _marketplace_ y el _seller en VTEX. Si tu tienda quiere operar como _marketplace_, consulta el artículo [Configurar marketplaces VTEX](/es/docs/tutorials/configurar-marketplaces-vtex).
+Para saber qué datos deben intercambiar los _sellers_ y los _marketplaces_, consulta el artículo [Información compartida](/es/docs/tutorials/informacion-compartida-entre-el-marketplace-y-el-seller-en-vtex) entre el _marketplace_ y el _seller en VTEX. Si tu tienda quiere operar como_ marketplace_, consulta el artículo [Configurar marketplaces VTEX](/es/docs/tutorials/configurar-marketplaces-vtex).
 
 > ℹ️ Para comenzar a vender tus productos en *marketplaces* o para encontrar nuevos *partners* comerciales que vendan en tu *marketplace*, usa [Marketplaces e integraciones](/es/docs/tutorials/marketplaces-e-integraciones), la funcionalidad que facilita la identificación y el contacto entre los *marketplaces* y *sellers* en el ecosistema VTEX.
 

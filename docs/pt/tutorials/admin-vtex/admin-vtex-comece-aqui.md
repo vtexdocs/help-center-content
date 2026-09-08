@@ -13,6 +13,7 @@ slugEN: vtex-admin-start-here
 legacySlug: encontre-aqui-todas-as-respostas-que-voce-precisa
 locale: pt
 subcategoryId: 2eGwEr4DyPidougQJwktc5
+categoryCover: true
 ---
 
 O Admin permite que os comerciantes gerenciem toda sua experiência de comércio digital em um só lugar, de uma maneira simples e inteligente.  É onde acompanham pedidos, cadastram produtos, configuram fulfillment e todos os outros aspectos de uma operação de comércio unificado. 

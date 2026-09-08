@@ -1,5 +1,5 @@
 ---
-title: 'I received the message error "the limit of activated calculators has been reached". What to do?'
+title: 'I received the error message "the limit of activated calculators has been reached". What should I do?'
 id: frequentlyAskedQuestions_349
 status: PUBLISHED
 createdAt: 2017-04-27T22:37:28.949Z
@@ -18,4 +18,4 @@ This message indicates that the maximum number of promotions has been reached, a
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/i-received-the-message-error-the-limit-of-activated-calculators-has-been-reached-what-to-do_1.jpg)
 
-You must review your active promotions, in order to adjust and rearrange them, so that not so many units are necessary. Usually, It is possible to join several rules in just one promotion. This way, you can improve the performance of the cart, and the organization of promotions.
+You must review your active promotions, in order to adjust and rearrange them, so that not so many units are necessary. Usually, it is possible to join several rules in just one promotion. This way, you can improve the performance of the cart, and the organization of promotions.

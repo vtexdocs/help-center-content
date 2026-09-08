@@ -29,7 +29,7 @@ En esta página puedes realizar las siguientes acciones:
 La página muestra la siguiente información en una tabla: 
 
 | Columna | Descripción |
-| :---- | :---- |
+| ---- | ---- |
 | Email | Email del usuario administrador registrado en el Admin VTEX. |
 | Roles | Roles asociados al usuario administrador. |
 | MFA | Configuración de autenticación multifactor (MFA), que puede tener status Inactivo o mostrar el método en uso (SMS o Authenticator). Más información en [Habilitar inicio de sesión por autenticación de dos factores](/es/docs/tutorials/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores). |
@@ -41,7 +41,7 @@ La barra de búsqueda permite buscar utilizando el email de los usuarios y muest
 Para gestionar usuarios administradores, tu [rol](/es/docs/tutorials/roles) debe tener los siguientes [recursos de License Manager](/es/docs/tutorials/recursos-del-license-manager):
 
 | Nombre del recurso | Clave del recurso (resource_key) | Descripción |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Edit Admin Users | EditAdminUsers | Permite crear, editar y remover usuarios administradores. |
 | View Admin Users | ViewAdminUsers | Permite ver información de usuarios y roles. |
 

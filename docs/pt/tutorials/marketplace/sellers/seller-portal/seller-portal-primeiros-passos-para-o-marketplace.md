@@ -27,13 +27,13 @@ Por meio do Seller Portal, marketplaces conseguem:
 - Diminuir o tempo de conversão das vendas, com o onboarding self-service de novos sellers, agora mais rápido e sem fricção.  
 - Compartilhar o sortimento de produtos com o seller de forma simples e gerenciar com agilidade anúncios de produtos compartilhados.  
 
-![Seller Portal gif 2022 launch](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/sellers/seller-portal/seller-portal-primeiros-passos-para-o-marketplace_1.gif)
+![Seller Portal gif 2022 launch](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/sellers/seller-portal/seller-portal-primeiros-passos-para-o-marketplace_1.gif)
 
 ## Interação entre seller e marketplace no Seller Portal
 
 A utilização do Seller Portal depende de ações do marketplace e do seller, conforme a imagem a seguir:
 
-![Seller Portal - Primeiros Passos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/sellers/seller-portal/seller-portal-primeiros-passos-para-o-marketplace_2.png)
+![Seller Portal - Primeiros Passos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/sellers/seller-portal/seller-portal-primeiros-passos-para-o-marketplace_2.png)
 
 Os passos representados na imagem anterior são:
 
@@ -81,7 +81,7 @@ Uma vez que o seller aceite o convite do marketplace e finalize o registro da su
 
 Além de convidar e ativar sellers pelo Admin VTEX, também é possível que o marketplace realize essas etapas via API Rest. Isso é útil quando o marketplace deseja criar suas próprias soluções ou criar a conta do seller no Seller Portal em nome do seller. A tabela a seguir traz a relação de APIs sobre o assunto:
 
-| **Chamada** | **Descrição** |
+| Chamada | Descrição |
 | ---------- | ---------- |
 | [Invite Seller Lead](https://developers.vtex.com/vtex-rest-api/reference/createsellerlead) | Envia um email ao seller com link único para que ele se conecte ao marketplace. |
 | [List Seller Leads](https://developers.vtex.com/vtex-rest-api/reference/listsellerleads) | Lista os sellers convidados pelo marketplace para se conectarem a ele. |

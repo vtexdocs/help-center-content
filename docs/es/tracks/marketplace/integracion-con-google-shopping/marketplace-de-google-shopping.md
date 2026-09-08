@@ -25,6 +25,6 @@ El conector de Google Shopping de la plataforma VTEX le permite hacer uso de est
 
 > ℹ️ Para que la integración funcione correctamente, familiarícese con las [Políticas de anuncios de Shopping](https://support.google.com/google-ads/answer/6149970?hl=es-419) y conozca cuáles son las condiciones requeridas por Google.
 
-| **SEPA MÁS** |
+| SEPA MÁS |
 | ---------- |
 |Si desea ver más información sobre los beneficios y el funcionamiento de los anuncios, consulte el artículo de Google [Acerca de las campañas y los anuncios de Shopping](https://support.google.com/google-ads/answer/2454022?hl=es-419).|

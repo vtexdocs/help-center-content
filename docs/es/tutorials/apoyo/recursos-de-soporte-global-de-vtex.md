@@ -30,7 +30,7 @@ Los tickets urgentes tienen prioridad para tratar incidentes críticos. Los tick
 Los tickets no urgentes se clasifican en tres niveles de prioridad, como se muestra en la siguiente tabla:
 
 | Nivel | Descripción | Ejemplo |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Alta | Funcionalidades importantes de tu tienda VTEX están indisponibles o extremadamente lentas, sin una solución alternativa viable. | Una promoción no se aplica o los productos no se sincronizan entre el seller y el marketplace. |
 | Normal | Funcionalidades importantes de tu tienda VTEX están indisponibles o lentas, pero existe una solución alternativa temporal. | *Un problema conocido está afectando tu tienda, pero ya existe una solución temporal en vigor.* |
 | Baja | Tareas o dudas relacionadas con funcionalidades o documentación. | ¿Cómo se configuran los feriados locales en la plataforma? |

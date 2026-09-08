@@ -17,11 +17,11 @@ subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 
 This article sets out to describe how VTEX's search system works.
 
-> ⚠️ **Warning**: VTEX has two search options - VTEX Search (Legacy) and VTEX Intelligent Search. This article refers to the VTEX Search (Legacy). To learn more about VTEX Intelligent Search, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ VTEX has two search options - VTEX Search (Legacy) and VTEX Intelligent Search. This article refers to the VTEX Search (Legacy). To learn more about VTEX Intelligent Search, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 ## VTEX Search (Legacy) engine product display prioritization 
 
-VTEX Search (Legacy) engine is an intelligent algorithm that identifies which result to best show the user based on the search term.
+VTEX Search (Legacy) engine is an intelligent algorithm that identifies the best result to show the user based on the search term.
 
 In addition, the result displayed will always be the one that will generate more sales conversion. The success of this result depends solely on the catalog master file (brand, department, category, product, specification, etc).
 
@@ -36,7 +36,7 @@ In accordance with the search term, the system may render the following result p
 
 If the term searched for corresponds to the name of a folder which is set up in Portal Manager (the landing page), this folder will be rendered.
 
-> ⚠️ **Notice**: a folder needs to have a layout in order to be searchable.<br>**Even if the search in done in the subfolder, the parent folder also requires layout.**
+> ⚠️ A folder needs to have a layout in order to be searchable. Even if the search is done in the subfolder, the parent folder also requires layout.
 
 ### 2. Brand
 
@@ -59,7 +59,7 @@ The result of this page will be a search page. Checking the source code will all
 When the search is by keyword, the search engine undergoes a search of the __indexer__, which is responsible for the search algorithm by keyword.
 
 __Ranking System:__
-This algorithm uses the concept of ranking (Score) to prioritize and order products. For each search, the indexer allocates a score to products based on the search term. Some basic fields (having different weight) are considered when calculating this ranking. The shop window display is created according to this ranking, from highest to lowest, meaning that the product with the highest score displayed first, while the one with the lowest score, last.
+This algorithm uses the concept of ranking (Score) to prioritize and order products. For each search, the indexer allocates a score to products based on the search term. Some basic fields (having different weight) are considered when calculating this ranking. The shop window display is created according to this ranking, from highest to lowest, meaning that the product with the highest score is displayed first, while the one with the lowest score is displayed last.
 
 > ℹ️ For more information, see the article [How does the Score field work?](/en/docs/tutorials/how-does-the-score-field-work).
 
@@ -71,7 +71,7 @@ To understand VTEX Search (Legacy), we must first become familiar with the index
 
 The catalog indexer is a quick access scalable database, with configurable algorithms for result prioritization. It is positioned between conventional database and user. See the outline below:
 
-![database](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/search/how-does-vtex-search-legacy-work_1.JPG)
+![database](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/search/how-does-vtex-search-legacy-work_1.png)
 
 The indexer contains all the information referring to the product catalog (products, SKUs, brands, departments, categories). The search engine uses this information to locate products and to display these in shop windows and search results. However, __only already indexed products can be found by the search__.
 
@@ -87,8 +87,8 @@ The following fields and their respective weights are used by the search algorit
 - __Product name__: 2.8
 - __First product name__: 2.5
 - __First and second product name__: 1.2
-- - __Full product na__me__: - __1.0
-- __Substitute words (product an__d bran- __d): 0.7
+- __Full product name__: 1.0
+- __Substitute words (product and brand)__: 0.7
 - __Product specifications (only for indexed text and indexed long text fields)__: 0.5
 
 __Example__

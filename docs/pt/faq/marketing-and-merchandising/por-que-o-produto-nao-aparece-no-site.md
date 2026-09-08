@@ -91,7 +91,7 @@ Na página de SKUs, em **Produtos > Catálogo > Produtos e SKUs**, siga as instr
     |-|-|
     | ![04-botao-precos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_4.png) | Permite acessar a **Lista de preços** para verificar se existe um preço válido para a política comercial desejada associado aos SKUs do produto. Confira a seção de [Preços](#precos) para mais informações.|
     | ![05-botao-logistica](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_5.png) | Permite acessar a página **Gerenciar inventário** para verificar se o SKU está disponível em estoque. Confira a seção de [Logística](#logistica) para mais informações. |
-    | ![06-botao-indexed-info](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_6.png) | Permite visualizar cada **Seller **que comercializa o SKU, a política comercial (**Policy**), o preço (**Value**) e a quantidade do SKU em estoque (**Quantity**). |
+    | ![06-botao-indexed-info](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_6.png) | Permite visualizar cada **Seller** que comercializa o SKU, a política comercial (**Policy**), o preço (**Value**) e a quantidade do SKU em estoque (**Quantity**). |
 
 2. Na linha do produto que corresponde ao SKU a ser verificado, clique na seta para baixo <i class="fas fa-caret-down"></i>, ao lado do botão `Alterar`.
 3. Clique na opção **Sku** para acessar a lista detalhada de SKUs.
@@ -199,7 +199,7 @@ Se o [estoque futuro](https://developers.vtex.com/docs/api-reference/logistics-a
 
 ## CMS
 
-Se o seu produto não aparecer no site mesmo após verificar todas as configurações de **Catálogo**, **Preços **e **Logística**, é importante conferir o [CMS](/pt/docs/tracks/o-que-e-o-cms) da sua loja. A seguir, veja como investigar se o [binding](/pt/docs/tutorials/o-que-e-binding) da sua loja está correto e verifique as configurações específicas para [CMS - Portal Legado](/pt/docs/tracks/cms-portal-legado) e [VTEX IO](/pt/docs/tracks/cms-vtex-io).
+Se o seu produto não aparecer no site mesmo após verificar todas as configurações de **Catálogo**, **Preços** e **Logística**, é importante conferir o [CMS](/pt/docs/tracks/o-que-e-o-cms) da sua loja. A seguir, veja como investigar se o [binding](/pt/docs/tutorials/o-que-e-binding) da sua loja está correto e verifique as configurações específicas para [CMS - Portal Legado](/pt/docs/tracks/cms-portal-legado) e [VTEX IO](/pt/docs/tracks/cms-vtex-io).
 
 > ⚠️ Para realizar a investigação no CMS descrita a seguir, é necessário solicitar apoio da equipe de desenvolvedores responsável pela sua loja.
 

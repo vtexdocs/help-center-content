@@ -62,7 +62,7 @@ Junto a cada métrica, hay un número absoluto de pedidos realizados en el perio
 - **Semana pasada:**
   - Número de pedidos realizados el mismo día de la semana pasada hasta la misma hora del día actual.    
   - Porcentaje de disminución o aumento del número de pedidos en comparación con la semana anterior.   
-- **Año pasado: **  
+- **Año pasado:**  
   -  Número de pedidos realizados el mismo día del año pasado hasta la misma hora del día actual.  
   - Porcentaje de disminución o aumento del número de pedidos en comparación con el año anterior.     
 

@@ -25,7 +25,7 @@ Um recurso útil para isso é o log de requisições gerado pela ferramenta de d
 
 Consulte a tabela a seguir para obter a documentação com instruções de exportação de arquivos para cada navegador:
 
-| **Navegador** | **Documentação** |
+| Navegador | Documentação |
 | ---------- | ---------- |
 | Google Chrome (recomendado) | Google: [Capturar o tráfego da sessão da Web](https://support.google.com/admanager/answer/10358597?hl=pt-BR&sjid=2751223489427809764-SA) |
 | Mozilla Firefox, Safari ou Microsoft Edge | Zendesk: [Como gerar um arquivo HAR para resolução de problemas](https://support.zendesk.com/hc/pt-br/articles/4408828867098-Como-gerar-um-arquivo-HAR-para-resolucao-de-problemas) |

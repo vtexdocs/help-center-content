@@ -99,11 +99,11 @@ Estes são os campos usados pelo algoritmo de busca e seus pesos para pontuaçã
 
 Por exemplo, considerando o seguinte indexador:
 
-| Nome do produto     | Nome complemento do produto	    | Palavras substitutas     | Especificações de produto     |
-| ---------- | ---------- | ---------- | ---------- |
-| Bola de futebol       | Society       | bola de futibol, bola de football       | Branca       |
-| Bola       | Society       | soçaite, sossaite       | Bola de futebol       |
-| Chuteira de futebol       | Campo       | Xuteira de futebol, Chuteira de football       | Branca       |
+| Nome do produto | Nome complemento do produto | Palavras substitutas | Especificações de produto |
+| --- | --- | --- | --- |
+| Bola de futebol | Society | bola de futibol, bola de football | Branca |
+| Bola | Society | soçaite, sossaite | Bola de futebol |
+| Chuteira de futebol | Campo | Xuteira de futebol, Chuteira de football | Branca |
 
 #### Termo buscado 1: Bola de futebol
 
