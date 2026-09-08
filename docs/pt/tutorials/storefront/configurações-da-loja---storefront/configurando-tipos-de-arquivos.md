@@ -12,7 +12,7 @@ No Admin VTEX, você pode definir as dimensões padrão e o tamanho máximo (em 
 
 > ⚠️ A validação de **Tamanho Máximo em KB** no upload de imagens de produto/SKU no Catálogo vale para lojas [CMS Portal (Legado)](https://help.vtex.com/pt/docs/tracks/cms-portal-legado) e [Store Framework](https://help.vtex.com/pt/docs/tracks/implementacao-de-frontend#store-framework). Saiba mais em [Configurando zoom e miniaturas em lojas CMS Portal (Legado)](/pt/docs/tutorials/configurando-zoom-e-miniaturas-em-lojas-cms-portal-legado).
 
-![Lista de tipos de arquivos no Admin](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/EDU-7115-tipos-de-arquivos/docs/pt/tutorials/storefront/configurações-da-loja---storefront/configurando-tipos-de-arquivos_1.png)
+![Lista de tipos de arquivos no Admin](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/configurações-da-loja---storefront/configurando-tipos-de-arquivos_1.png)
 
 > ℹ️ Na listagem, a coluna **Tamanhos** exibe o resumo no formato `{largura}px x {altura}px | {tamanho}KB`.
 
