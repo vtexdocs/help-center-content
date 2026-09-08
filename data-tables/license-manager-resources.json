@@ -19,14 +19,6 @@
       "productId": "55"
     },
     {
-      "product": "Availability Notify",
-      "category": "Notification Requests",
-      "resource": "Download Notification Requests",
-      "key": "downloadNotificationRequests",
-      "resourceId": "2156515",
-      "productId": "136"
-    },
-    {
       "product": "B2B",
       "category": "B2B General",
       "resource": "B2BBulkExport",
@@ -129,7 +121,7 @@
       "product": "Billing",
       "category": "Contracts",
       "resource": "Save contracts",
-      "description": "Edit contracts in the VTEX platform's Invoices module, including registering invoices of any value and charging take rates at any percentage.",
+      "description": "Edit contracts in the Invoices module of the VTEX platform, including registering a manifest of any value and charging a take rate at any percentage.",
       "key": "put_contract",
       "resourceId": "134738",
       "productId": "43"
@@ -138,7 +130,7 @@
       "product": "Billing",
       "category": "Invoice",
       "resource": "Invoices List ",
-      "description": "Viewing the customer's invoice list, as well as the invoice details, which includes information such as GMV and take rate.",
+      "description": "Viewing the customer's invoice list, as well as the invoice details, which include information such as GMV and take rate.",
       "key": "list_invoices",
       "resourceId": "105015",
       "productId": "43"
@@ -318,7 +310,7 @@
       "product": "Catalog",
       "category": "Admin",
       "resource": "Admin list",
-      "description": "List the system administrators.",
+      "description": "Lists the system administrators.",
       "key": "Administrador.aspx",
       "resourceId": "882",
       "productId": "2"
@@ -687,7 +679,7 @@
       "product": "Catalog",
       "category": "Content",
       "resource": "Price range",
-      "description": "List all price ranges",
+      "description": "Lists all price ranges",
       "key": "FaixaPreco.aspx",
       "resourceId": "933",
       "productId": "2"
@@ -759,7 +751,7 @@
       "product": "Catalog",
       "category": "Content",
       "resource": "SKUs",
-      "description": "List all registered SKUs.",
+      "description": "Lists all registered SKUs.",
       "key": "Sku.aspx",
       "resourceId": "996",
       "productId": "2"
@@ -1212,6 +1204,15 @@
       "description": "It allows you to create a new branch to develop, test, and save new versions of content in isolation.",
       "key": "CreateBranch",
       "resourceId": "2153204",
+      "productId": "115"
+    },
+    {
+      "product": "Commerce Content",
+      "category": "Branch",
+      "resource": "Manage Dev Branch",
+      "description": "Allows you to create development branches and commit to them.",
+      "key": "ManageDevBranch",
+      "resourceId": "2158137",
       "productId": "115"
     },
     {
@@ -2109,7 +2110,7 @@
       "product": "Message Center",
       "category": "Templates",
       "resource": "View template list",
-      "description": "View the list of available templates in the Message Center.",
+      "description": "View the list of available Message Center templates.",
       "key": "template-listar",
       "resourceId": "1203",
       "productId": "23"
@@ -2226,7 +2227,7 @@
       "product": "OMS",
       "category": "OMS access",
       "resource": "Only show orders created by the user (via call center)",
-      "description": "Orders will be processed via the email address registered with callcenteroperatoremail.",
+      "description": "Orders will be processed via the email address registered through the callcenteroperatoremail.",
       "key": "callCenterOperatorFilter",
       "resourceId": "428968",
       "productId": "19"
@@ -2478,9 +2479,27 @@
       "product": "Payments",
       "category": "Card Token Vault",
       "resource": "Get Import Card Tokens Report",
-      "description": "Download the error report for the import errors that occurred.",
+      "description": "Download the error report that occurred during the import process.",
       "key": "GetImportCardTokensReport",
       "resourceId": "2078849",
+      "productId": "114"
+    },
+    {
+      "product": "Payments",
+      "category": "Payments Fraud Protection",
+      "resource": "View Defense Mode",
+      "description": "Allows you to view threats, history, and Defense Mode settings.",
+      "key": "ViewDefenseMode",
+      "resourceId": "2160773",
+      "productId": "114"
+    },
+    {
+      "product": "Payments",
+      "category": "Payments Fraud Protection",
+      "resource": "Manage Defense Mode",
+      "description": "Allows you to change the automatic activation toggle for Defense Mode.",
+      "key": "ManageDefenseMode",
+      "resourceId": "2160774",
       "productId": "114"
     },
     {
@@ -2626,6 +2645,51 @@
       "key": "GerenciarPolicies",
       "resourceId": "1118700",
       "productId": "16"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "View Recommendations",
+      "description": "View the list of recommendations in the Admin panel.",
+      "key": "ViewRecommendations",
+      "resourceId": "2160057",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "Edit Recommendations",
+      "description": "Edit recommendations in the Admin panel.",
+      "key": "EditRecommendations",
+      "resourceId": "2160058",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "View Recommendations metrics",
+      "description": "View recommendation metrics in the Admin panel.",
+      "key": "ViewRecommendationsMetrics",
+      "resourceId": "2160059",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "View recommendations configuration",
+      "description": "View recommendation settings.",
+      "key": "ViewRecommendationsConfiguration",
+      "resourceId": "2160060",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "Edit recommendations configuration",
+      "description": "Edit recommendation settings.",
+      "key": "EditRecommendationsConfiguration",
+      "resourceId": "2160061",
+      "productId": "137"
     },
     {
       "product": "Releases",
@@ -3299,7 +3363,7 @@
       "product": "Billing",
       "category": "Contracts",
       "resource": "Save contracts",
-      "description": "Edite los contratos en el módulo de Facturas de la plataforma VTEX, incluyendo el registro de facturas de cualquier valor y el cálculo de comisiones en cualquier porcentaje.",
+      "description": "Edite los contratos en el módulo de Facturas de la plataforma VTEX, incluyendo el registro de un manifiesto de cualquier valor y el cobro de una tasa de comisión de cualquier porcentaje.",
       "key": "put_contract",
       "resourceId": "134738",
       "productId": "43"
@@ -3308,7 +3372,7 @@
       "product": "Billing",
       "category": "Invoice",
       "resource": "Invoices List ",
-      "description": "Visualización de la lista de facturas del cliente, así como de los detalles de la factura, que incluyen información como el volumen bruto de mercancías (GMV) y el margen de beneficio.",
+      "description": "Visualización de la lista de facturas del cliente, así como de los detalles de las mismas, que incluyen información como el volumen bruto de mercancías (GMV) y el margen de beneficio.",
       "key": "list_invoices",
       "resourceId": "105015",
       "productId": "43"
@@ -3434,7 +3498,7 @@
       "product": "CDN API",
       "category": "WAF Control",
       "resource": "View WafControl Metrics",
-      "description": "Ver métricas WAF.",
+      "description": "Ver métricas de WAF.",
       "key": "ViewWafControlMetrics",
       "resourceId": "2142573",
       "productId": "108"
@@ -3488,7 +3552,7 @@
       "product": "Catalog",
       "category": "Admin",
       "resource": "Admin list",
-      "description": "Enumere a los administradores del sistema.",
+      "description": "Enumera los administradores del sistema.",
       "key": "Administrador.aspx",
       "resourceId": "882",
       "productId": "2"
@@ -3857,7 +3921,7 @@
       "product": "Catalog",
       "category": "Content",
       "resource": "Price range",
-      "description": "Enumerar todos los rangos de precios",
+      "description": "Enumera todos los rangos de precios.",
       "key": "FaixaPreco.aspx",
       "resourceId": "933",
       "productId": "2"
@@ -3929,7 +3993,7 @@
       "product": "Catalog",
       "category": "Content",
       "resource": "SKUs",
-      "description": "Enumera todos los SKU registrados.",
+      "description": "Muestra todos los SKU registrados.",
       "key": "Sku.aspx",
       "resourceId": "996",
       "productId": "2"
@@ -4244,7 +4308,7 @@
       "product": "Catalog API",
       "category": "General",
       "resource": "Export Spreadsheet",
-      "description": "Exportar la hoja de cálculo con la información del catálogo.",
+      "description": "Exportar hoja de cálculo con información del catálogo.",
       "key": "ExportSpreadsheet",
       "resourceId": "2038163",
       "productId": "107"
@@ -4298,7 +4362,7 @@
       "product": "Checkout",
       "category": "CheckoutResources",
       "resource": "Shopping Cart Full Access",
-      "description": "Acceso de lectura y escritura para todos los carritos de compra. Permite visualizar los datos del carrito en su totalidad (sin enmascarar). También permite solicitudes de simulación de carritos privados.",
+      "description": "Acceso de lectura y escritura para todos los carritos de compra. Permite visualizar los datos del carrito en su totalidad (sin enmascaramiento). También permite solicitudes de simulación de carritos privados.",
       "key": "AcessaTodosCarrinhos",
       "resourceId": "1091",
       "productId": "5"
@@ -4325,7 +4389,7 @@
       "product": "Checkout",
       "category": "CheckoutResources",
       "resource": "Save OrderForm Configuration",
-      "description": "Guardar la configuración del carrito de compra.",
+      "description": "Guardar la configuración del carrito de compras.",
       "key": "SaveOrderFormConfiguration",
       "resourceId": "600073",
       "productId": "5"
@@ -4382,6 +4446,15 @@
       "description": "Te permite crear una nueva rama para desarrollar, probar y guardar nuevas versiones del contenido de forma aislada.",
       "key": "CreateBranch",
       "resourceId": "2153204",
+      "productId": "115"
+    },
+    {
+      "product": "Commerce Content",
+      "category": "Branch",
+      "resource": "Manage Dev Branch",
+      "description": "Te permite crear ramas de desarrollo y confirmar cambios en ellas.",
+      "key": "ManageDevBranch",
+      "resourceId": "2158137",
       "productId": "115"
     },
     {
@@ -5279,7 +5352,7 @@
       "product": "Message Center",
       "category": "Templates",
       "resource": "View template list",
-      "description": "Consulta la lista de plantillas disponibles en el Centro de mensajes.",
+      "description": "Consulta la lista de plantillas disponibles para el Centro de mensajes.",
       "key": "template-listar",
       "resourceId": "1203",
       "productId": "23"
@@ -5396,7 +5469,7 @@
       "product": "OMS",
       "category": "OMS access",
       "resource": "Only show orders created by the user (via call center)",
-      "description": "Los pedidos se procesarán a través de la dirección de correo electrónico registrada en callcenteroperatoremail.",
+      "description": "Los pedidos se procesarán a través de la dirección de correo electrónico registrada en el correo del operador del centro de llamadas.",
       "key": "callCenterOperatorFilter",
       "resourceId": "428968",
       "productId": "19"
@@ -5405,7 +5478,7 @@
       "product": "OMS",
       "category": "OMS access",
       "resource": "Feed v3 and Hook Admin",
-      "description": "Crea, edita y elimina la configuración de Feed v3/hook.",
+      "description": "Crear, editar y eliminar la configuración de Feed v3/hook.",
       "key": "FeedHookV3Admin",
       "resourceId": "592028",
       "productId": "19"
@@ -5648,9 +5721,27 @@
       "product": "Payments",
       "category": "Card Token Vault",
       "resource": "Get Import Card Tokens Report",
-      "description": "Descargue el informe de errores para conocer los errores de importación que se hayan producido.",
+      "description": "Descargue el informe de errores que se produjo durante el proceso de importación.",
       "key": "GetImportCardTokensReport",
       "resourceId": "2078849",
+      "productId": "114"
+    },
+    {
+      "product": "Payments",
+      "category": "Payments Fraud Protection",
+      "resource": "View Defense Mode",
+      "description": "Permite ver las amenazas, el historial y la configuración del modo de defensa.",
+      "key": "ViewDefenseMode",
+      "resourceId": "2160773",
+      "productId": "114"
+    },
+    {
+      "product": "Payments",
+      "category": "Payments Fraud Protection",
+      "resource": "Manage Defense Mode",
+      "description": "Permite cambiar el interruptor de activación automática para el Modo Defensa.",
+      "key": "ManageDefenseMode",
+      "resourceId": "2160774",
       "productId": "114"
     },
     {
@@ -5693,7 +5784,7 @@
       "product": "Pricing",
       "category": "Price List",
       "resource": "Read prices",
-      "description": "Ver todos los precios de un artículo.",
+      "description": "Ver todos los precios de un SKU.",
       "key": "read_prices",
       "resourceId": "152730",
       "productId": "65"
@@ -5796,6 +5887,51 @@
       "key": "GerenciarPolicies",
       "resourceId": "1118700",
       "productId": "16"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "View Recommendations",
+      "description": "Consulte la lista de recomendaciones en el panel de administración.",
+      "key": "ViewRecommendations",
+      "resourceId": "2160057",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "Edit Recommendations",
+      "description": "Edita las recomendaciones en el panel de administración.",
+      "key": "EditRecommendations",
+      "resourceId": "2160058",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "View Recommendations metrics",
+      "description": "Consulta las métricas de recomendación en el panel de administración.",
+      "key": "ViewRecommendationsMetrics",
+      "resourceId": "2160059",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "View recommendations configuration",
+      "description": "Ver configuración de recomendaciones.",
+      "key": "ViewRecommendationsConfiguration",
+      "resourceId": "2160060",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "Edit recommendations configuration",
+      "description": "Editar la configuración de recomendaciones.",
+      "key": "EditRecommendationsConfiguration",
+      "resourceId": "2160061",
+      "productId": "137"
     },
     {
       "product": "Releases",
@@ -7556,6 +7692,15 @@
     },
     {
       "product": "Commerce Content",
+      "category": "Branch",
+      "resource": "Manage Dev Branch",
+      "description": "Permite criar branches de desenvolvimento e fazer commits nelas.",
+      "key": "ManageDevBranch",
+      "resourceId": "2158137",
+      "productId": "115"
+    },
+    {
+      "product": "Commerce Content",
       "category": "Entry",
       "resource": "Delete entry",
       "description": "Exclui permanentemente uma entrada de todo o histórico e branches.",
@@ -8824,6 +8969,24 @@
       "productId": "114"
     },
     {
+      "product": "Payments",
+      "category": "Payments Fraud Protection",
+      "resource": "View Defense Mode",
+      "description": "Permite visualizar ameaças, histórico e configuração do Defense Mode",
+      "key": "ViewDefenseMode",
+      "resourceId": "2160773",
+      "productId": "114"
+    },
+    {
+      "product": "Payments",
+      "category": "Payments Fraud Protection",
+      "resource": "Manage Defense Mode",
+      "description": "Permite alterar o toggle de ativação automática do Defense Mode",
+      "key": "ManageDefenseMode",
+      "resourceId": "2160774",
+      "productId": "114"
+    },
+    {
       "product": "PersonalShopper App",
       "category": "Analytics",
       "resource": "View Analytics",
@@ -8966,6 +9129,51 @@
       "key": "GerenciarPolicies",
       "resourceId": "1118700",
       "productId": "16"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "View Recommendations",
+      "description": "Visualizar listagem de recomendações no Admin.",
+      "key": "ViewRecommendations",
+      "resourceId": "2160057",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "Edit Recommendations",
+      "description": "Editar recomendações no Admin.",
+      "key": "EditRecommendations",
+      "resourceId": "2160058",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "View Recommendations metrics",
+      "description": "Visualizar métricas de recomendações no Admin.",
+      "key": "ViewRecommendationsMetrics",
+      "resourceId": "2160059",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "View recommendations configuration",
+      "description": "Visualizar configurações de recomendações.",
+      "key": "ViewRecommendationsConfiguration",
+      "resourceId": "2160060",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "Edit recommendations configuration",
+      "description": "Editar configurações de recomendações.",
+      "key": "EditRecommendationsConfiguration",
+      "resourceId": "2160061",
+      "productId": "137"
     },
     {
       "product": "Releases",

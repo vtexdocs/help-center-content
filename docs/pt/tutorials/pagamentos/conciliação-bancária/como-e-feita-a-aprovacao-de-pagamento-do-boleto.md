@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:11:54.868Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slugEN: how-are-the-payments-made-through-bank-slips-approved
+slugEN: how-are-the-payments-made-through-boletos-approved
 legacySlug: como-e-feita-a-aprovacao-de-pagamento-do-boleto
 locale: pt
 subcategoryId: 2tEO9ytK1aMO0i2oMayoQq

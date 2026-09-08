@@ -1,25 +1,20 @@
 ---
-title: 'Configuring bank slips'
-id: tutorials_447
-status: PUBLISHED
+title: 'Configuring a Boleto'
 createdAt: 2017-04-27T22:04:55.249Z
-updatedAt: 2024-04-16T14:44:36.023Z
-publishedAt: 2024-04-16T14:44:36.023Z
-firstPublishedAt: 2017-04-27T23:03:25.766Z
+updatedAt: 2026-02-09T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: authors_84
-slugEN: how-to-configure-a-bank-slip
+slugEN: how-to-configure-a-boleto
 legacySlug: how-to-configure-a-bank-slip
 locale: en
-subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+hidden: false
 ---
 
-At VTEX, your store can sell via [bank slips](/en/docs/tutorials/registered-ticket-flow). To configure the bank slip, follow the steps below:
+At VTEX, your store can sell via [boleto](/en/docs/tutorials/registered-ticket-flow). To configure the Boleto, follow the steps below:
 
 1. In the VTEX Admin, access __Store Settings > Payments > Providers__, or type __Provedores__ in the search bar at the top of the page.
 2. On the providers screen, click the `New provider` button.
-3. Type in the search bar the name of the provider that will process the bank slip.
+3. Type in the search bar the name of the provider that will process the Boleto.
 4. Fill in the form fields according to the data provided by the provider/bank.
 5. Click `Save`.
 
@@ -33,4 +28,4 @@ At VTEX, your store can sell via [bank slips](/en/docs/tutorials/registered-tick
 6. If you want, you can also [Set up special payment conditions](/en/docs/tutorials/special-conditions).
 7. Click `Save`.
 
-After following the steps indicated, Boleto Bancário may take up to 10 minutes to appear at your store checkout as a payment option.
+After following the steps indicated, Boleto may take up to 10 minutes to appear at your store checkout as a payment option.

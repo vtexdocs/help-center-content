@@ -38,11 +38,11 @@ Intelligent Search tries to find products that match the search in sequential gr
 
 > ℹ️ Intelligent Search automatically chooses the operator and the fuzzy level. The merchant doesn't control this behavior. The system starts with the most restrictive group (AND without fuzzy) and moves on to more permissive groups only if the previous one doesn't return results. For more details, see [Search behavior](https://help.vtex.com/en/docs/tutorials/search-behavior#autocorrect).
 
-### Stemming (word roots)
+### Stemming
 
-Intelligent Search also normalizes singular and plural variations of the same word, unifying them into the same root before matching. For example, in English stores, a search for `sneaker` also finds products with `sneakers`.
+Intelligent Search also normalizes singular and plural variations of the same word, unifying them into the same stem before matching. For example, in English-language stores, a search for `sneaker` also returns products that contain `sneakers`.
 
-> ℹ️ VTEX fixed stemming inconsistencies in the English language analyzer for terms like `sticks`, `sharpies`, `its`, `bags`, `boards`, `books`, `bowls`, `cards`, `crackers`, `dividers`, `games`, `glue-sticks`, `k-cups`, `knives`, `nuts`, `rolls`, `shelves`, and `supplies`, whose plural forms weren't mapped correctly to the singular root. This fix isn't automatically applied to all accounts: to request it for an English store, contact [VTEX Support](https://supporticket.vtex.com/support). Learn more at [Search behavior](https://help.vtex.com/en/docs/tutorials/search-behavior#stemming-word-roots).
+> ℹ️ VTEX fixed stemming inconsistencies in the English language analyzer for terms such as `sticks`, `sharpies`, `its`, `bags`, `boards`, `books`, `bowls`, `cards`, `crackers`, `dividers`, `games`, `glue-sticks`, `k-cups`, `knives`, `nuts`, `rolls`, `shelves`, and `supplies`, whose plural forms weren't correctly mapped to the singular stem. This fix isn't applied automatically to all accounts: to request it for an English-language store, contact [VTEX Support](https://supporticket.vtex.com/support). Learn more in [Search behavior](https://help.vtex.com/docs/tutorials/search-behavior#stemming).
 
 ### Decision flow
 

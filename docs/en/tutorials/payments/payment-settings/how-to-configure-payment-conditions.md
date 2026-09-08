@@ -19,7 +19,7 @@ Payment conditions are the payment methods displayed on the website for completi
 
 ## How to configure
 
-Before configuring a payment condition, you need to add a [payment integration](https://help.vtex.com/docs/tutorials/registering-gateway-affiliations).
+Before configuring a payment condition, you need to add a [payment integration](https://help.vtex.com/en/docs/tutorials/registering-gateway-affiliations).
 
 Once your provider is defined, for any payment condition you plan to choose, you'll always need to:
 
