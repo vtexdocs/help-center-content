@@ -237,17 +237,17 @@ Below are the requirements for each topic:
   - [Integrating the Intelligent Search app with the account](https://developers.vtex.com/docs/guides/faststore/getting-started-1-setting-up-your-environment#step-4-enabling-the-vtex-intelligent-search-app)
 - Headless CMS (Legacy) integration
   - [Configuring Headless CMS (Legacy) in the account](https://developers.vtex.com/docs/guides/faststore/getting-started-5-integrating-your-project-with-the-headless-cms)
-  - [Defining content types and sections that will be available](https://www.faststore.dev/docs/headless-cms-integration/2-setting-up-the-headless-cms)
+  - [Defining content types and sections that will be available](https://developers.vtex.com/docs/guides/faststore/integration-setting-up-the-headless-cms)
   - Creating and editing pages using Headless CMS (Legacy) in the VTEX Admin
 - Homepage
   - Editing the components and layouts already listed in [Starter](https://starter.vtex.app/)
 - Login page
-  - [VTEX Login integration](https://www.faststore.dev/docs/go-live/3-integrating-the-the-vtex-login)
+  - [VTEX Login integration](https://developers.vtex.com/docs/guides/faststore/go-live-2-integrating-the-vtex-login)
   - Editing the components and layouts already listed in [Starter](https://starter.vtex.app/)
 - Product Listing Page (PLP)
-  - Editing the components and layouts already listed in [Starter](https://starter.vtex.app/office)
+  - Editing the components and layouts already listed in [Starter](https://starter.vtex.app/headphones)
 - Product Details Page (PDP)
-  - Editing the components and layouts already listed in [Starter](https://starter.vtex.app/4k-philips-monitor-99988213/p)
+  - Editing the components and layouts already listed in [Starter](https://starter.vtex.app/headphone-white-10000006/p)
 - Minicart configuration
   - Editing the components and layouts already listed in [Starter](https://starter.vtex.app/)
 - Checkout
@@ -287,7 +287,7 @@ Below are the requirements for each topic:
   - [Adding SKU prices](/en/docs/tracks/cadastrar-preco-base)
   - [Inventory management](/en/docs/tutorials/managing-stock-items)
 - VTEX Intelligent Search
-  - [Integrating the Intelligent Search app with the account](https://www.faststore.dev/docs/getting-started-requirements#enable-the-vtex-intelligent-search-app-in-your-account)
+  - [Integrating the Intelligent Search app with the account](https://developers.vtex.com/docs/guides/faststore/getting-started-1-setting-up-your-environment#step-4-enabling-the-vtex-intelligent-search-app)
 - Homepage
   - Editing the components and layouts already listed in [Starter](https://storetheme.vtex.com/)
 - Login page
