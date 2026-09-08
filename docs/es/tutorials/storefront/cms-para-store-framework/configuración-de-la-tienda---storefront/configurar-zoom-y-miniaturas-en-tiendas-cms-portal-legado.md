@@ -3,13 +3,13 @@ title: 'Configurar zoom y miniaturas en tiendas CMS Portal (Legado)'
 id: 5ZqoOjGFgIkESq2KyyEYus
 status: PUBLISHED
 createdAt: 2017-10-12T15:38:58.079Z
-updatedAt: 2026-08-13T00:00:00.000Z
+updatedAt: 2026-09-08T00:00:00.000Z
 publishedAt: 2023-03-24T20:53:11.795Z
 firstPublishedAt: 2017-10-12T15:48:58.343Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slugEN: setting-up-zoom-and-thumbnails-in-cms-portal-legacy-stores
+slugEN: configuring-zoom-and-thumbnails-in-cms-portal-legacy-stores
 legacySlug: configurar-o-tamanho-padrao-da-imagem-de-zoom
 locale: es
 subcategoryId: 7ogirQ8NClawO2X6xdgCKc
