@@ -22,7 +22,7 @@ After configuring the [initial settings](/en/docs/tracks/starting-the-integratio
 Access settings and features to optimize search results:
 
 * [Search configuration](/en/docs/tutorials/search-configuration): Define the available filters and configure the behavior of product specifications and SKUs in the search.  
-* [Synonyms](/en/subcategory/sinonimos--BBzMtJan1UTxC9QZODnlN): Add words with the same meaning as a specific search term, increasing the chance of a successful search.  
+* [Synonyms](/en/docs/tutorials/synonyms): Add words with the same meaning as a specific search term, increasing the chance of a successful search.  
 * [Relevance](/en/docs/tutorials/intelligent-search-how-search-result-relevance-works): Create relevance rules to determine the product order in the search results and handle specific search results through [merchandising rules](/en/docs/tutorials/merchandising-rules).  
 * [Redirects](/en/docs/tutorials/redirects): Direct customers to another page, internal or external to the store. This redirect is done in the search area using selected terms or filters.  
 * [Banners](/en/docs/tutorials/banners): Configure banners to be displayed during the search.
