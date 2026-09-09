@@ -451,13 +451,13 @@ Na coluna **Ação**, todos os eventos do Headless CMS (Legacy) também apresent
 
 | Ação | Descrição do evento | Detalhes do evento |
 |---|---|---|
-| DELIVERY_OPTION_CREATE | Criação de uma opção de envio. | ID da opção de envio. |
-| DELIVERY_OPTION_UPDATE | Atualização de uma opção de envio. | ID da opção de envio. |
-| DELIVERY_OPTION_DELETE | Exclusão de uma opção de envio. | ID da opção de envio. |
-| DELIVERY_OPTION_UPDATE_ACCOUNT_CONFIG | Atualização das configurações da conta de Opções de envio, como preferências de exibição na vitrine. | Nome da conta. |
+| DELIVERY_OPTION_CREATE | Criação manual de uma opção de envio. Não há estado anterior da opção de envio. | ID da opção de envio. |
+| DELIVERY_OPTION_UPDATE | Atualização de uma opção de envio existente, seja na edição de campos, seja na ativação ou desativação. A ativação e a desativação só são registradas quando o status muda de fato. | ID da opção de envio. |
+| DELIVERY_OPTION_DELETE | Exclusão de uma opção de envio. O evento registra o estado da opção de envio imediatamente antes da exclusão. | ID da opção de envio. |
+| DELIVERY_OPTION_UPDATE_ACCOUNT_CONFIG | Atualização das configurações da conta de Opções de envio, como o filtro na página de listagem de produtos e as preferências de exibição na vitrine. A entidade auditada é a configuração da conta, não uma opção de envio individual. | Nome da conta. |
 | DELIVERY_OPTION_CHANGED_FILTER | Alteração nas opções de envio usadas como filtro na vitrine. | ID da opção de envio. |
-| DELIVERY_OPTION_AUTOGENERATE_CREATE | Criação automática de uma opção de envio a partir de uma sugestão. | ID da opção de envio. |
-| DELIVERY_OPTION_AUTOGENERATE_UPDATE | Edição manual de uma opção de envio gerada automaticamente, que deixa de ser tratada como gerada pela plataforma. | ID da opção de envio. |
+| DELIVERY_OPTION_AUTOGENERATE_CREATE | Criação de uma opção de envio pelo fluxo de geração automática, a partir de uma sugestão. Opções de envio geradas automaticamente são sempre criadas como inativas, aguardando revisão manual. | ID da opção de envio. |
+| DELIVERY_OPTION_AUTOGENERATE_UPDATE | Edição manual de uma opção de envio gerada automaticamente em um campo diferente do status, que deixa de ser tratada como gerada pela plataforma. Alterar apenas o status não gera esse evento. | ID da opção de envio. |
 
 ## Agente de Otimização de Busca
 

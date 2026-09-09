@@ -451,13 +451,13 @@ En la columna **Acción**, todos los eventos de Headless CMS (Legacy) también m
 
 | Acción | Descripción del evento | Detalles del evento |
 |---|---|---|
-| DELIVERY_OPTION_CREATE | Creación de una opción de envío. | ID de la opción de envío. |
-| DELIVERY_OPTION_UPDATE | Actualización de una opción de envío. | ID de la opción de envío. |
-| DELIVERY_OPTION_DELETE | Eliminación de una opción de envío. | ID de la opción de envío. |
-| DELIVERY_OPTION_UPDATE_ACCOUNT_CONFIG | Actualización de la configuración de cuenta de Opciones de envío, como las preferencias de visualización en la vitrina. | Nombre de la cuenta. |
+| DELIVERY_OPTION_CREATE | Creación manual de una opción de envío. No hay estado anterior de la opción de envío. | ID de la opción de envío. |
+| DELIVERY_OPTION_UPDATE | Actualización de una opción de envío existente, ya sea por la edición de campos o por su activación o desactivación. La activación y la desactivación solo se registran cuando el estado cambia efectivamente. | ID de la opción de envío. |
+| DELIVERY_OPTION_DELETE | Eliminación de una opción de envío. El evento registra el estado de la opción de envío inmediatamente antes de la eliminación. | ID de la opción de envío. |
+| DELIVERY_OPTION_UPDATE_ACCOUNT_CONFIG | Actualización de la configuración de cuenta de Opciones de envío, como el filtro en la página de listado de productos y las preferencias de visualización en la vitrina. La entidad auditada es la configuración de la cuenta, no una opción de envío individual. | Nombre de la cuenta. |
 | DELIVERY_OPTION_CHANGED_FILTER | Cambio en las opciones de envío usadas como filtro en la vitrina. | ID de la opción de envío. |
-| DELIVERY_OPTION_AUTOGENERATE_CREATE | Creación automática de una opción de envío a partir de una sugerencia. | ID de la opción de envío. |
-| DELIVERY_OPTION_AUTOGENERATE_UPDATE | Edición manual de una opción de envío generada automáticamente, que deja de tratarse como generada por la plataforma. | ID de la opción de envío. |
+| DELIVERY_OPTION_AUTOGENERATE_CREATE | Creación de una opción de envío mediante el flujo de generación automática, a partir de una sugerencia. Las opciones de envío generadas automáticamente siempre se crean como inactivas, a la espera de revisión manual. | ID de la opción de envío. |
+| DELIVERY_OPTION_AUTOGENERATE_UPDATE | Edición manual de una opción de envío generada automáticamente en un campo distinto del estado, que deja de tratarse como generada por la plataforma. Cambiar solo el estado no genera este evento. | ID de la opción de envío. |
 
 ## Agente de Optimización de Búsqueda
 
