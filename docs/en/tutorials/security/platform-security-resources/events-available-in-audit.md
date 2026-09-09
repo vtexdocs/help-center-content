@@ -1,18 +1,12 @@
 ---
 title: 'Events available in Audit'
-id: 6r1Mzcu5NmkmmDLJlz9CCZ
-status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2026-09-01T00:00:00.000Z
-publishedAt: 2025-08-25T18:20:54.585Z
-firstPublishedAt: 2022-06-22T16:28:52.801Z
+updatedAt: 2026-09-09T00:00:00.000Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: events-available-in-audit
-legacySlug: events-available-in-audit
 locale: en
-subcategoryId: 2TNXiKzLZOPxjMTyGiEeJu
 ---
 
 Below, you will find a list of the potential events available in [Audit](/en/docs/tutorials/audit) for each app.
