@@ -41,7 +41,7 @@ Accede a los ajustes y funcionalidades para optimizar los resultados de búsqued
 * [Configuración de la búsqueda](/es/docs/tutorials/configuracion-de-la-busqueda): define los filtros disponibles y configura el comportamiento de las especificaciones de productos y SKUs de la búsqueda.  
 * [Sinónimos](/es/subcategory/sinonimos--BBzMtJan1UTxC9QZODnlN): registra palabras con el mismo significado que un término de búsqueda específico para aumentar la probabilidad de éxito de una búsqueda.  
 * [Relevancia](/es/docs/tutorials/intelligent-search-como-funciona-la-relevancia-de-los-resultados-de-busqueda): crea [reglas de relevancia](/es/docs/tutorials/reglas-de-relevancia) para determinar el orden de los productos en los resultados de búsqueda y modifica los resultados de búsquedas específicas mediante [reglas de merchandising](/es/docs/tutorials/reglas-de-merchandising).  
-* [Redirecciones](/es/subcategory/redirecciones--1wvyJwJhKgewxGeAGCVmM6): redirige al cliente a otra página, ya sea dentro o fuera de tu sitio web. La redirección se realiza en el área de búsqueda utilizando términos o filtros seleccionados.  
+* [Redirecciones](/es/docs/tutorials/redirecciones): redirige al cliente a otra página, ya sea dentro o fuera de tu sitio web. La redirección se realiza en el área de búsqueda utilizando términos o filtros seleccionados.  
 * [Banners](/es/docs/tutorials/banners): configura banners que se mostrarán durante la búsqueda.
 
 ## Seguimiento de resultados
