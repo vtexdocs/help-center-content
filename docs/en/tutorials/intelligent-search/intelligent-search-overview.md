@@ -43,7 +43,7 @@ Access settings and features to optimize search results:
 * [Synonyms](/en/subcategory/synonyms--BBzMtJan1UTxC9QZODnlN): Add words with the same meaning as a specific search term, increasing the chance of a successful search.  
 * [Relevance](/en/docs/tutorials/intelligent-search-how-search-result-relevance-works): Create [relevance rules](/en/docs/tutorials/relevance-rules) to determine the product order in the search results and handle specific search results through [merchandising rules](/en/docs/tutorials/merchandising-rules).
 * [Redirects](/en/subcategory/redirects--1wvyJwJhKgewxGeAGCVmM6): Direct customers to another page, internal or external to the store. This redirect is done in the search area using selected terms or filters.  
-* [Banners](/en/subcategory/banners--z6qcw06Z38YDu1fOcu9Jn): Configure banners to be displayed during the search.
+* [Banners](/en/docs/tutorials/banners): Configure banners to be displayed during the search.
 
 ## Monitoring results
 
