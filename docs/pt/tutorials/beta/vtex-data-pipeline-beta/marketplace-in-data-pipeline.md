@@ -19,6 +19,7 @@ O conjunto de dados `marketplace_in` contém informações históricas sobre cad
 
 Neste artigo você encontra as seguintes informações:
 
+- [Tipos de tabelas e relacionamentos](#tipos-de-tabelas-e-relacionamentos)
 - [Características dos dados de marketplace in](#caracteristicas-dos-dados)  
 - [Tabela: sellers_latest](#tabela-sellers-latest)  
 - [Tabela: sellers_inventory](#tabela-sellers-inventory)  
@@ -29,9 +30,86 @@ Neste artigo você encontra as seguintes informações:
 - [Tabela: sellers_orders_rateandbenefitsidentifiers](#tabela-sellers-orders-rateandbenefitsidentifiers)  
 - [Tabela: sku_binding](#tabela-sku-binding)  
 - [Análises com dados de marketplace in](#analises-com-dados-de-marketplace-in)  
-- [Correlação com outro dado](#correlacao-com-outros-dados)  
+- [Correlação com outro dado](#correlacao-com-outro-dado)  
 
-## Características dos Dados
+## Tipos de tabelas e relacionamentos
+
+O modelo de dados `marketplace_in` gira em torno do vendedor. As tabelas se organizam assim:
+
+- **Tabela dimensão (vendedor):** `sellers_latest` concentra o cadastro e o status de cada vendedor.
+- **Tabelas de oferta:** inventário, preços e promoções do vendedor, ligadas por `seller_id` (e, quando aplicável, `item_id`).
+- **Tabelas de pedidos:** pedidos do vendedor e seus detalhes (itens e benefícios), ligados por `order_id` / `seller_id`.
+- **Tabela ponte:** `sku_binding` mapeia o SKU do marketplace ao SKU interno do vendedor.
+
+O diagrama abaixo mostra como as tabelas se conectam:
+
+```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+flowchart TB
+    subgraph DIM["Dimensão"]
+        sellers["sellers_latest<br/>(cadastro do vendedor)"]
+    end
+
+    subgraph OFERTA["Oferta do vendedor"]
+        inv["sellers_inventory"]
+        price["sellers_pricing"]
+        promo["sellers_promotions"]
+    end
+
+    subgraph PEDIDOS["Pedidos do vendedor"]
+        ord["sellers_orders"]
+        items["sellers_orders_items"]
+        benefits["sellers_orders_rateandbenefitsidentifiers"]
+    end
+
+    subgraph PONTE["Ponte de catálogo"]
+        bind["sku_binding<br/>(SKU marketplace ↔ SKU seller)"]
+    end
+
+    sellers -->|"seller_id"| OFERTA
+    sellers -->|"seller_id"| ord
+    ord -->|"order_id"| items
+    ord -->|"order_id"| benefits
+    sellers -->|"seller_id"| bind
+    items -->|"item_id"| inv
+```
+
+### Exemplos de utilização
+
+Veja abaixo dois fluxos distintos de utilização dos dados:
+
+- Fluxo 1: perfil do vendedor e sua oferta atual.
+
+    ```mermaid
+    %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+    flowchart TD
+        S["sellers_latest<br/>seller_id: seller_01<br/>is_active: true"]
+
+        S -->|"seller_id"| I["sellers_inventory<br/>item_id: 123<br/>quantity: 40"]
+        S -->|"seller_id"| P["sellers_pricing<br/>item_id: 123<br/>base_price: 199"]
+        S -->|"seller_id"| PR["sellers_promotions<br/>promo: verão-2025"]
+    ```
+
+    Neste diagrama, `sellers_latest` identifica o vendedor e, pelo `seller_id`, você consulta estoque, preço e promoções da oferta atual desse seller.
+
+- Fluxo 2: pedido do vendedor → itens → binding com o catálogo do marketplace.
+
+    ```mermaid
+    %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+    flowchart LR
+        O["sellers_orders<br/>order_id: MKT-9"]
+        IT["sellers_orders_items<br/>sellersku: EXT-55"]
+        B["sku_binding<br/>seller_sku_id: EXT-55<br/>sku_id: 123"]
+        CAT["Modelo de dados<br/>de Catálogo<br/>sku / product"]
+
+        O -->|"order_id"| IT
+        IT -->|"seller_sku_id"| B
+        B -->|"sku_id"| CAT
+    ```
+
+    Neste diagrama, o pedido do vendedor se desdobra em itens, `sku_binding` traduz o SKU do seller para o SKU do marketplace, permitindo cruzar com o Catálogo.
+
+## Características dos dados
 
 |Características | Descrição|
 |---|---|
@@ -71,7 +149,7 @@ Os campos da tabela são descritos abaixo:
 |main_account | character varying(100) | Nome da conta principal associada ao vendedor.
 |seller_id | character varying(100) | ID do vendedor.|
 |seller_is_active | boolean | Indica se o vendedor está ativo (true) ou não (false).|
-|warehouse_id | character varying(400) | ID do depósito.|
+|warehouse_id | character varying(400) | ID do warehouse.|
 |item_id | character varying(400) | Identificador do item.|
 |is_unlimited_quantity | boolean | Flag que indica se um SKU está sempre disponível, independentemente da sua quantidade.|
 |quantity | bigint | Quantidade de SKU em estoque.|
