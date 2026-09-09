@@ -23,7 +23,7 @@ Acesse configurações e funcionalidades para otimizar os resultados de busca:
 
 * [Configuração da busca](/pt/docs/tutorials/configuracao-da-busca): defina os filtros disponíveis e configure o comportamento das especificações de produtos e SKUs na busca.  
 * [Sinônimos](/pt/subcategory/sinonimos--BBzMtJan1UTxC9QZODnlN): cadastre palavras com o mesmo sentido de um termo de busca específico, aumentando a chance de uma busca com sucesso.  
-* [Relevância](/pt/subcategory/relevancia--32zXHBMygA2dB6TbCjQJej): crie regras de relevância para determinar a ordem dos produtos no resultado de busca e manipule resultados de buscas específicas por meio de [regras de merchandising](/pt/docs/tutorials/regras-de-merchandising).  
+* [Relevância](/pt/docs/tutorials/intelligent-search-como-funciona-a-relevancia-dos-resultados-de-busca): crie regras de relevância para determinar a ordem dos produtos no resultado de busca e manipule resultados de buscas específicas por meio de [regras de merchandising](/pt/docs/tutorials/regras-de-merchandising).  
 * [Redirecionamentos](/pt/subcategory/redirecionamentos--1wvyJwJhKgewxGeAGCVmM6): direcione o cliente para qualquer outra página, seja interna, seja externa ao seu site. Esse redirecionamento é feito na área de busca, utilizando termos ou filtros selecionados.  
 * [Banners](/pt/subcategory/banners--z6qcw06Z38YDu1fOcu9Jn): configure banners para exibição durante a busca.
 
