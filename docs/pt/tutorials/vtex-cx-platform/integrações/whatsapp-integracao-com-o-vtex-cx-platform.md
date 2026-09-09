@@ -10,62 +10,15 @@ locale: pt
 
 Com a integração do WhatsApp no VTEX CX Platform, você conecta um número comercial do WhatsApp ao projeto e cria fluxos inteligentes para atender os clientes.
 
-Você pode usar essa integração sem o Gerenciador de Negócios verificado. A verificação aumenta os limites de envio e libera recursos extras, mas não é obrigatória para começar.
-
-## Limites da integração
-
-Sem o Gerenciador de Negócios verificado, você pode:
-
-- Iniciar até **50 conversas** pelo negócio com números diferentes no intervalo de 24 horas.
-- Ter até **dois números** na WhatsApp Business Account (WABA).
-
-As primeiras **1.000 conversas** de cada mês são gratuitas por WABA. Esse limite vale para a conta inteira, mesmo que haja mais de um número anexado, e inclui conversas iniciadas pela empresa ou pelo usuário. O limite é restaurado todo mês, de acordo com o fuso horário da WABA.
-Se o gerenciador não estiver verificado, as conversas iniciadas pela empresa continuam sujeitas ao limite de 50 conversas com números distintos a cada 24 horas.
-
-No plano gratuito do VTEX CX Platform, você pode se comunicar com **200 contatos ativos** (contatos únicos no intervalo de 1 mês) sem custo.
-Depois de verificar o Gerenciador de Negócios, você pode:
-
-- Aumentar o nível de conversas iniciadas pelo negócio para 1.000, 10.000, 100.000 ou ilimitado.
-- Solicitar o OBA (selo de conta oficial).
-- Ter mais de dois números por WABA.
-A integração também permite personalizar o canal com fotos, vídeos, envio de arquivos, descrições e mensagens de template.
-Para detalhes sobre os níveis de envio, veja [WhatsApp Business API: Limitação de disparos em massa](/pt/docs/tutorials/whatsapp-bussiness-api-limitacao-de-disparos-em-massa-do-whatsapp).
-
-## Antes de começar
-
-Antes de adicionar o número pelo método de Integração Expressa, confira se:
-
-1. Você é administrador do **Gerenciador de Negócios** da empresa na Meta. O gerenciador não precisa estar verificado para iniciar a integração.
-2. O número **não** está instalado em outro aplicativo nem vinculado a uma conta do WhatsApp (Business ou pessoal). Se estiver, exclua o número do aplicativo antes de começar. Veja [como excluir o número](https://faq.whatsapp.com/605464643328528/?cms_platform=android&locale=pt_BR).
-3. O número está habilitado pela operadora para receber ligação ou SMS, com o chip inserido em um telefone pronto para o código de verificação.
-
 ## Integrar o WhatsApp ao projeto
 
 Para iniciar a integração do WhatsApp, siga os passos a seguir:
 
 1. No projeto desejado, acesse **Configurações > Canais**.
-2. Clique na aba **Descoberta**.
-3. Na seção **Canais de comunicação**, localize o card **WhatsApp**. Você também pode digitar **WhatsApp** no campo **Buscar**.
-4. Clique no card **WhatsApp**.
+2. Em **Canais de comunicação**, localize o card **WhatsApp** ou digite **WhatsApp** no campo de busca.
+4. Selecione o card **WhatsApp**.
 5. Clique em `+ Adicionar`.
-6. Na janela **Conectar**, clique em `Continuar`.
-A plataforma abre o fluxo de conexão com a Meta. Siga as etapas na tela para vincular o Gerenciador de Negócios, criar ou selecionar a WABA e verificar o número.
-
-## Conectar a conta da Meta
-
-1. Informe as credenciais da conta do Facebook. Você precisa ser administrador do Gerenciador de Negócios da empresa. Se já estiver logado na conta correta, clique em `Continuar`.
-2. Clique em `Começar`.
-3. Aceite as permissões. Elas são necessárias para o VTEX CX Platform acessar a conta do WhatsApp Business. Nenhum dado é compartilhado.
-4. Crie a conta empresarial que será vinculada à Meta ou selecione uma empresa já cadastrada. Clique em `Continuar`.
-5. Configure o nome e o fuso horário da WABA. Se você já tiver uma WABA, ela aparece na lista e pode ser selecionada.
-6. Clique em `Continuar para o passo 2`.
-7. Preencha o nome de exibição do perfil no WhatsApp Business. Se o nome for diferente da razão social, ele precisa aparecer no site da organização. O nome de exibição deve seguir as [regras da Meta](https://www.facebook.com/business/help/338047025165344#display-name-guidelines).
-8. Selecione a categoria do negócio. A descrição é opcional.
-9. Clique em `Continuar para a etapa 3`.
-10. Insira o número do WhatsApp Business e escolha se o código de verificação chega por SMS ou ligação.
-11. Aguarde o código de 6 dígitos e preencha o campo na tela.
-12. Clique em `Verificar` e, em seguida, em `OK` para confirmar que o número está pronto.
-Se a empresa **já tiver verificação de negócios** na Meta, a próxima etapa só pode ser feita depois do e-mail da Meta confirmando o nome de exibição. Quando o e-mail chegar, volte à plataforma para continuar. Se a empresa ainda não estiver verificada, continue imediatamente.
+6. No pop-up, clique em `Continuar`. A plataforma abre o fluxo de conexão com a Meta. Siga as etapas na tela para vincular a sua conta da Meta com o VTEX CX Platform.
 
 ## Criar o canal
 
@@ -73,8 +26,97 @@ Com a conta vinculada à Meta e o número verificado, integre o canal na platafo
 
 1. Clique em `Criar canal`.
 2. Selecione o número que será vinculado à integração do WhatsApp no VTEX CX Platform.
-Se aparecer alguma inconsistência, inicie o processo novamente. As informações já preenchidas são reaproveitadas. Se o problema continuar, entre em contato com o suporte: <suporte@weni.ai>.
 
-O canal fica disponível em **Configurações > Canais > Meus aplicativos**. Ao clicar no card do número, você personaliza foto de perfil, descrição, e-mail e site da empresa.
+Esse canal fica disponível em **Configurações > Canais > Meus aplicativos > WhatsApp [número de WhatsApp]**.
 
-Para aumentar os limites de envio, inicie a verificação do negócio na Meta. Siga o tutorial [WhatsApp Business API: Como verificar o meu negócio](/pt/docs/tutorials/whatsapp-bussiness-api-como-verificar-o-meu-negocio)
+## Configurar o canal
+
+Ao clicar no card do número, você pode gerenciar o conteúdo do canal desse número de telefone de WhatsApp, como trocar foto de perfil, ver templates, mudar descrição, conectar com webhook e verificar sua conta.
+
+### Geral
+
+Na aba **Geral**, você consulta os identificadores do número e da conta do WhatsApp Business e acessa os templates do canal. Os campos exibidos nesta aba são somente para leitura. Para modificar, você precisa acessar sua conta da Meta Business.
+
+Na seção **Gerenciar conteúdo**, clique em `Ver meus templates` para abrir os templates de mensagem associados ao número.
+
+A seção **Canal do WhatsApp** exibe os dados da linha conectada. Os campos visíveis são:
+
+| Campo | Descrição |
+| --- | --- |
+| **Número de telefone** | Número comercial conectado ao canal. |
+| **Nome de exibição do WhatsApp** | Nome que o WhatsApp mostra ao usuário. |
+| **Idioma padrão para templates** | Idioma padrão dos templates. Se não estiver definido, a interface exibe um traço (`-`). |
+| **Certificado** | Certificado associado ao número. Quando não se aplica, a interface exibe `N/A`. |
+| **Status de consentimento** | Status de consentimento do número. Se não estiver definido, a interface exibe um traço (`-`). |
+
+A seção **Conta do WhatsApp Business** exibe os identificadores da cona WhatsApp Business vinculada ao canal. Os campos visíveis são:
+
+| Campo | Descrição |
+| --- | --- |
+| **Nome WABA** | Nome da conta do WhatsApp Business. |
+| **ID do WABA** | Identificador do WhatsApp Business na Meta. |
+| **Mensagens em nome de** | Identidade em nome de quem as mensagens são enviadas. Se não estiver definido, a interface exibe um traço (`-`). |
+| **ID do fuso horário** | Fuso horário da WhatsApp Business, no formato IANA. Exemplo: `America/Sao_Paulo`. |
+| **Namespace** | Namespace dos templates da WhatsApp Business. |
+
+### Perfil
+
+Na aba **Perfil**, você define as informações públicas do número, visíveis para o cliente no WhatsApp. Você pode editar os seguintes campos:
+
+- **Imagem de perfil:** imagem associada ao perfil do WhatsApp.
+- **Descrição:** descrição da organização ou objetivo do chatbot.
+- **Setor da organização:** setor da organização.
+- **Websites:** endereços do site da loja. Você pode incluir até dois websites.
+- **Email corporativo:** email para contato com os usuários.
+- **Endereço:** endereço comercial da sua loja.
+
+Se você modificou algum dos campos e deseja salvar, clique em `Salvar alterações`. Para sair sem gravar, clique em `Configurar depois`.
+
+### Webhook
+
+Na aba **Webhook**, você define o endpoint que recebe as notificações do canal. Use essa aba quando um sistema externo precisa tratar os eventos de mensagem fora do VTEX CX Platform.
+
+O tratamento dos dados acontece no serviço externo, não na plataforma. Para o contrato do payload e exemplos de status de envio, consulte [Configuração do Webhook: Status de envio das mensagens](https://help.vtex.com/pt/docs/tutorials/webhook-configuration-message-delivery-status).
+
+Para configurar o webhook, preencha os campos a seguir:
+
+| Campo | Descrição |
+| --- | --- |
+| **Método** | Método HTTP da requisição. As opções são: `GET`, `POST`, `PUT`, `PATCH` e `DELETE`. |
+| **URL do webhook** | URL do serviço que vai receber as notificações. |
+| **Chave** | Chave da requisição HTTP. |
+| **Valor** | Valor referente à chave. |
+
+Se você modificou algum dos campos e deseja salvar, clique em `Salvar alterações`. Para sair sem gravar, clique em `Configurar depois`.
+
+### Conversas
+
+A aba **Conversas** mostra o volume de conversas do número, agrupado pelas categorias de cobrança do WhatsApp, e permite solicitar um relatório detalhado por email.
+
+Para consultar o volume de conversas, siga os passos abaixo:
+
+1. Em **Filtrar por**, selecione o intervalo de datas no formato `DD/MM/YYYY ~ DD/MM/YYYY`.
+2. Após filtrar por intervalo de tempo, a tabela **Número de conversas** mostra a quantidade de conversas de cada categoria.
+3. Caso queira receber um relatório detalhado das conversas do intervalo de tempo selecionado, clique em `Solicitar relatório`.
+  - Você pode receber detalhamento de mensagens de até 6 meses atrás.
+
+### Verificação da conta
+
+Na aba **Verificação da conta**, você pode fazer a verificação junto à Meta. A verificação desbloqueia limites maiores de envio de mensagens e intervalos menores entre mensagens.
+
+> ⚠️ Você só pode fazer a verificação da conta quando atingir 50 conversas ou 50 templates enviados.
+
+Para verificar sua conta, siga o passo a passo a seguir:
+
+1. Selecione as caixas de seleção a seguir:
+  - Essa empresa é uma entidade legal.
+  - O administrador da conta é um representante da empresa.
+  - A empresa segue a Política do WhatsApp Business.
+2. Clique em <i class="fas fa-plus" aria-hidden="true"></i>`Enviar arquivos` para fazer o upload de documentos da sua empresa.
+3. Ao final, clique em `Enviar`.
+
+A seguir, destacamos alguns documentos sugeridos na hora de verificar sua conta junto à Meta:
+
+| País | Documentos |
+| --- | --- |
+| Brasil | - Documento ou licença de registro da empresa (por exemplo, CNPJ) <br> - Documento de associação ou contrato social (por exemplo, MEI). <br> - Comprovante de pagamento de impostos, comprovante bancário ou conta de energia. |
