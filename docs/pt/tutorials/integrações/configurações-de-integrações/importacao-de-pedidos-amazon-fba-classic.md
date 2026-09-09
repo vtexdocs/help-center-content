@@ -17,8 +17,8 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 Existem três tipos de configuração logística para atender aos pedidos realizados na Amazon:
 
-  - [Selfship](#Selfship)
-  - [FBA Classic](#FBA-Classic-Fulfillment-by-Amazon)
+  - [Selfship](#selfship)
+  - [FBA Classic](#fba-classic-fulfillment-by-amazon)
   - FBA Onsite, para conhecer sobre o programa e a integração com a VTEX, confira a documentação sobre [Importação de pedidos FBA Onsite](/pt/docs/tutorials/importacao-de-pedidos-amazon-fba-onsite)  
   - [DBA, para conhecer sobre o programa e a integração com a VTEX, confira a documentação Importação de Pedidos Amazon DBA](/pt/docs/tutorials/importacao-de-pedidos-amazon-dba)  
 
