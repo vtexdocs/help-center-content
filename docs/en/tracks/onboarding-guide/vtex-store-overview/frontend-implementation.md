@@ -52,15 +52,6 @@ The following sections cover the main characteristics and features of FastStore 
 
 Although the tools vary by technology, storefront implementations generally follow this workflow:
 
-```mermaid
-flowchart LR
-    A["Plan"] --> B["Prepare"]
-    B --> C["Develop"]
-    C --> D["Integrate"]
-    D --> E["Test"]
-    E --> F["Go live"]
-```
-
 1. **Plan:** Define the storefront scope, information architecture, design, integrations, and acceptance criteria.
 2. **Prepare:** Configure access, development environments, commerce data, and required apps or services.
 3. **Develop:** Implement pages, components, styling, and storefront behavior using the selected technology.
