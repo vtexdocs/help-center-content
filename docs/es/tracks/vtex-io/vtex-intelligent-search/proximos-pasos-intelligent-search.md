@@ -33,7 +33,7 @@ Accede a informes para monitorear Intelligent Search:
 
 * [Explicación de búsqueda](/es/docs/tutorials/explicacion-de-busqueda): simula búsquedas y muestra todas las referencias que se utilizaron para determinar el orden de los resultados.  
 * [Analytics](/es/docs/tutorials/intelligent-search-analytics): organiza los datos relativos a las búsquedas realizadas en la tienda y permite exportar los datos en un archivo CSV.  
-* [Historial de indexación](/es/docs/tutorials/historial-de-indexacion): monitorea la sincronización de todos los productos del [catálogo](/es/subcategory/catalogo-visao-geral--6jaCCq5pVL7VxL0WNWV0cF) enviados a Intelligent Search.
+* [Historial de indexación](/es/docs/tutorials/historial-de-indexacion): monitorea la sincronización de todos los productos del [catálogo](/es/docs/tutorials/catalogo-vision-general) enviados a Intelligent Search.
 
 ## Cómo funciona la búsqueda
 
