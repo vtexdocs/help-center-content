@@ -1,7 +1,7 @@
 ---
 title: 'Events available in Audit'
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2026-09-09T00:00:00.000Z
+updatedAt: 2026-09-09T20:45:00.000Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
@@ -37,6 +37,7 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 * [Organizational units](#organizational-units)
 * [Delivery Options](#delivery-options)
 * [Search Optimizer Agent](#search-optimizer-agent)
+* [Authenticator](#authenticator)
 
 > ℹ️ In case you encounter an event in Audit which has not been included in this list, please inform us through the [documentation feedback page](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
@@ -466,4 +467,12 @@ In the **Action** column, all Headless CMS (Legacy) events also display the foll
 | DeleteSynonymRule | Deletion of a synonym rule. | Rule ID. |
 | ActivateSynonymRule | Activation of a synonym rule. | Rule ID. |
 | DeactivateSynonymRule | Deactivation of a synonym rule. | Rule ID. |
+
+## Authenticator
+
+| Action | Event description | Event details |
+|---|---|---|
+| DelegationCreated | Creation of a delegation granting a user permission to act on behalf of another user in the same organization unit, for a set date range. | Delegation ID, organizational unit ID, original user ID, delegate user ID, and date range. |
+| DelegationUpdated | Update of a delegation's date range. | Delegation ID and date range. |
+| DelegationRevoked | Revocation of a delegation before its end date. | Delegation ID. |
 

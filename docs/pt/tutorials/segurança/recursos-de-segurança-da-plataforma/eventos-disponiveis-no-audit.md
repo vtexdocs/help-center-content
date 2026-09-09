@@ -1,7 +1,7 @@
 ---
 title: 'Eventos disponíveis no Audit'
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2026-09-09T00:00:00.000Z
+updatedAt: 2026-09-09T20:45:00.000Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
@@ -37,6 +37,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 * [Unidades organizacionais](#unidades-organizacionais)
 * [Opções de envio](#opcoes-de-envio)
 * [Agente de Otimização de Busca](#agente-de-otimizacao-de-busca)
+* [Autenticador](#autenticador)
 
 > ℹ️ Caso você visualize no Audit algum evento que não esteja listado aqui, por favor nos informe usando a [página de feedback de documentação](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
@@ -467,4 +468,12 @@ Na coluna **Ação**, todos os eventos do Headless CMS (Legacy) também apresent
 | DeleteSynonymRule | Exclusão de uma regra de sinônimo. | ID da regra. |
 | ActivateSynonymRule | Ativação de uma regra de sinônimo. | ID da regra. |
 | DeactivateSynonymRule | Desativação de uma regra de sinônimo. | ID da regra. |
+
+## Autenticador
+
+| Ação | Descrição do evento | Detalhes do evento |
+|---|---|---|
+| DelegationCreated | Criação de uma delegação que concede a um usuário permissão para agir em nome de outro usuário da mesma unidade organizacional, durante um período definido. | ID da delegação, ID da unidade organizacional, ID do usuário original, ID do usuário delegado e período. |
+| DelegationUpdated | Atualização do período de uma delegação. | ID da delegação e período. |
+| DelegationRevoked | Revogação de uma delegação antes da data de término. | ID da delegação. |
 
