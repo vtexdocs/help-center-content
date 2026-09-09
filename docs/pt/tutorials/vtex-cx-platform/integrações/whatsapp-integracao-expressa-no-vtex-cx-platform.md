@@ -1,82 +1,80 @@
 ---
-title: 'WhatsApp: Integração Expressa no VTEX CX Platform'
-id: 7kr6sjRzpGI2zQmwvK4HU1
-status: PUBLISHED
+title: 'WhatsApp: Integração com o VTEX CX Platform'
 createdAt: 2025-09-15T15:02:52.737Z
-updatedAt: 2025-10-03T14:20:32.674Z
-publishedAt: 2025-10-03T14:20:32.674Z
-firstPublishedAt: 2025-10-03T14:20:32.674Z
+updatedAt: 2026-09-09T19:40:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: whatsapp-vtex-cx-platform-express-integration
-legacySlug: whatsapp-integracao-expressa-weni
+slugEN: whatsapp-vtex-cx-platform-integration
 locale: pt
-subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Com o modo de Integração Expressa do VTEX CX Platform, você pode adicionar um canal WhatsApp na organização da sua empresa para se comunicar com os clientes.
+Com a integração do WhatsApp no VTEX CX Platform, você conecta um número comercial do WhatsApp ao projeto e cria fluxos inteligentes para atender os clientes.
 
-O WhatsApp é o maior aplicativo de mensagens do mundo e um dos preferidos pelos usuários. A integração deste canal no VTEX CX Platform permite que você conecte o número comercial da sua empresa e crie fluxos inteligentes para atender seus clientes.
+Você pode usar essa integração sem o Gerenciador de Negócios verificado. A verificação aumenta os limites de envio e libera recursos extras, mas não é obrigatória para começar.
 
-Existem algumas premissas para adicionar um número de WhatsApp pelo método de Integração Expressa:
+## Limites da integração
 
-1. Você deve ser o administrador do **Gerenciador de Negócios** da conta da sua empresa junto a **Meta;**
-2. O número **não deve** estar instalado em outro aplicativo ou a uma conta de WhatsApp (Business ou pessoal), caso esteja este número deverá ser excluir do aplicativo antes do início do processo. [Veja aqui](https://faq.whatsapp.com/605464643328528/?cms_platform=android&locale=pt_BR) como excluir.
-3. O número deve estar habilitado pela operadora para receber uma ligação ou SMS, com o chip inserido em um telefone pronto para receber o código de verificação que será enviado durante o processo de integração do canal.
+Sem o Gerenciador de Negócios verificado, você pode:
 
-## Pronto, com essas premissas cumpridas chegou a hora de iniciar a integração
+- Iniciar até **50 conversas** pelo negócio com números diferentes no intervalo de 24 horas.
+- Ter até **dois números** na WhatsApp Business Account (WABA).
 
-Dentro do projeto ao qual irá ser feita a integração acesse **Configurações > Canais**, onde encontrará o *card* de integração do WhatsApp, clique no símbolo de **\+**, para adicionar a integração.
+As primeiras **1.000 conversas** de cada mês são gratuitas por WABA. Esse limite vale para a conta inteira, mesmo que haja mais de um número anexado, e inclui conversas iniciadas pela empresa ou pelo usuário. O limite é restaurado todo mês, de acordo com o fuso horário da WABA.
+Se o gerenciador não estiver verificado, as conversas iniciadas pela empresa continuam sujeitas ao limite de 50 conversas com números distintos a cada 24 horas.
 
-Logo após aparecerá um *popup* solicitando uma conexão em sua conta de facebook.
+No plano gratuito do VTEX CX Platform, você pode se comunicar com **200 contatos ativos** (contatos únicos no intervalo de 1 mês) sem custo.
+Depois de verificar o Gerenciador de Negócios, você pode:
 
-Coloque suas credenciais de conexão com o Facebook para seguir com a conexão, lembrando que você deve ser administrador do gerenciador de negócios da sua empresa junto a Meta/Facebook.
+- Aumentar o nível de conversas iniciadas pelo negócio para 1.000, 10.000, 100.000 ou ilimitado.
+- Solicitar o OBA (selo de conta oficial).
+- Ter mais de dois números por WABA.
+A integração também permite personalizar o canal com fotos, vídeos, envio de arquivos, descrições e mensagens de template.
+Para detalhes sobre os níveis de envio, veja [WhatsApp Business API: Limitação de disparos em massa](/pt/docs/tutorials/whatsapp-bussiness-api-limitacao-de-disparos-em-massa-do-whatsapp).
 
-Porém, se você já estiver logado na conta que será utilizada no Facebook. Clique em continuar.
+## Antes de começar
 
-Depois, basta seguir os passos que você será**direcionado para vincular a sua conta.**
+Antes de adicionar o número pelo método de Integração Expressa, confira se:
 
-Para iniciar esses passos, após acessar a sua conta do Facebook, é só**clicar em “Começar”** na tela que você será redirecionado a próxima página.
+1. Você é administrador do **Gerenciador de Negócios** da empresa na Meta. O gerenciador não precisa estar verificado para iniciar a integração.
+2. O número **não** está instalado em outro aplicativo nem vinculado a uma conta do WhatsApp (Business ou pessoal). Se estiver, exclua o número do aplicativo antes de começar. Veja [como excluir o número](https://faq.whatsapp.com/605464643328528/?cms_platform=android&locale=pt_BR).
+3. O número está habilitado pela operadora para receber ligação ou SMS, com o chip inserido em um telefone pronto para o código de verificação.
 
-Aceite as permissões; elas são necessárias para que VTEX CX Platform possa ter acesso à sua conta do WhatsApp Business e, assim, você consiga usar nossas integrações. Nenhum dado será compartilhado.
+## Integrar o WhatsApp ao projeto
 
-Primeiro, você precisa criar a sua conta empresarial que será vinculada à Meta, ou selecionar uma das empresas já cadastradas. Após selecionar a opção que você precisa, é só clicar em “Continuar”:
+Para iniciar a integração do WhatsApp, siga os passos a seguir:
 
-Ainda nesta etapa, você verá uma tela para configurar o nome e fuso horário da sua WhatsApp Business Account (WABA) que está sendo criada. A partir disso, a sua conta na Cloud API da Meta já estará pronta. Caso você já tenha alguma WABA (Whastapp Business API) a mesma irá aparecer e poderá ser selecionada.
+1. No projeto desejado, acesse **Configurações > Canais**.
+2. Clique na aba **Descoberta**.
+3. Na seção **Canais de comunicação**, localize o card **WhatsApp**. Você também pode digitar **WhatsApp** no campo **Buscar**.
+4. Clique no card **WhatsApp**.
+5. Clique em `+ Adicionar`.
+6. Na janela **Conectar**, clique em `Continuar`.
+A plataforma abre o fluxo de conexão com a Meta. Siga as etapas na tela para vincular o Gerenciador de Negócios, criar ou selecionar a WABA e verificar o número.
 
-Após isso você será direcionado para a próxima página onde clicará em ""continuar para o passo 2""
+## Conectar a conta da Meta
 
-Iniciando a etapa 2, você irá criar o seu perfil no WhatsApp Business. Para isso, preencha o campo de nome que será exibido no seu perfil do WhatsApp Business. Caso este nome seja diferente da razão social da sua empresa, o mesmo deverá ser de alguma forma exibido no site da sua organização. O nome de exibição deve seguir as regras da Meta e estar em acordo com o seu negócio, principalmente se sua conta já for anteriormente verificada ([veja aqui](https://www.facebook.com/business/help/338047025165344#display-name-guidelines)).
+1. Informe as credenciais da conta do Facebook. Você precisa ser administrador do Gerenciador de Negócios da empresa. Se já estiver logado na conta correta, clique em `Continuar`.
+2. Clique em `Começar`.
+3. Aceite as permissões. Elas são necessárias para o VTEX CX Platform acessar a conta do WhatsApp Business. Nenhum dado é compartilhado.
+4. Crie a conta empresarial que será vinculada à Meta ou selecione uma empresa já cadastrada. Clique em `Continuar`.
+5. Configure o nome e o fuso horário da WABA. Se você já tiver uma WABA, ela aparece na lista e pode ser selecionada.
+6. Clique em `Continuar para o passo 2`.
+7. Preencha o nome de exibição do perfil no WhatsApp Business. Se o nome for diferente da razão social, ele precisa aparecer no site da organização. O nome de exibição deve seguir as [regras da Meta](https://www.facebook.com/business/help/338047025165344#display-name-guidelines).
+8. Selecione a categoria do negócio. A descrição é opcional.
+9. Clique em `Continuar para a etapa 3`.
+10. Insira o número do WhatsApp Business e escolha se o código de verificação chega por SMS ou ligação.
+11. Aguarde o código de 6 dígitos e preencha o campo na tela.
+12. Clique em `Verificar` e, em seguida, em `OK` para confirmar que o número está pronto.
+Se a empresa **já tiver verificação de negócios** na Meta, a próxima etapa só pode ser feita depois do e-mail da Meta confirmando o nome de exibição. Quando o e-mail chegar, volte à plataforma para continuar. Se a empresa ainda não estiver verificada, continue imediatamente.
 
-Ainda nesta etapa, será necessário selecionar a categoria que representa o seu negócio. Você também pode fazer uma descrição sobre ele, que é opcional. Depois disso, clique em ""continuar para a etapa 3"".
+## Criar o canal
 
-Feito isso, você verá a tela para começar a etapa 3\. Nessa etapa, você precisa verificar o seu número cadastrado no WhatsApp Business. Basta inserir o seu número e selecionar o método para que receba o código de verificação:
+Com a conta vinculada à Meta e o número verificado, integre o canal na plataforma:
 
-Aguarde o recebimento do código de 6 dígitos e preencha na tela a seguir, lembre de deixar seu telefone fácil e disponível para o recebimento do código.
+1. Clique em `Criar canal`.
+2. Selecione o número que será vinculado à integração do WhatsApp no VTEX CX Platform.
+Se aparecer alguma inconsistência, inicie o processo novamente. As informações já preenchidas são reaproveitadas. Se o problema continuar, entre em contato com o suporte: <suporte@weni.ai>.
 
-Clique em Verificar e selecione OK na tela que irá aparecer confirmando que o seu número está pronto para ser usado.
+O canal fica disponível em **Configurações > Canais > Meus aplicativos**. Ao clicar no card do número, você personaliza foto de perfil, descrição, e-mail e site da empresa.
 
-Caso a empresa **já possua verificação de negócios** junto a Meta a próxima etapa pode ser feita somente após recebimento de e-mail da Meta confirmando a aceitação do nome de exibição, logo que o e-mail for recebido, volte a plataforma para continuar.
-
-Caso contrário, pode continuar imediatamente.
-
-### Passo final para integração
-
-Com a sua conta vinculada à Meta e o seu número de WhatsApp Business verificado, agora é hora de integrá-los na plataforma. Os passos são bem simples e rápidos.
-
-Quando você finalizar a etapa 3 de verificação do seu número e clicar em OK, aparecerá uma nova tela do VTEX CX Platform. Clique em `Criar Canal`.
-
-Caso nesse momento você perceba alguma inconsistência, não desista, inicie o processo novamente e agora será mais fácil, pois as informações já estarão preenchidas, caso não resolva entrar em contato com nosso suporte: <suporte@weni.ai>
-
-Na sequência, selecione o número que será vinculado à integração do WhatsApp no VTEX CX Platform. Seu novo canal na plataforma já foi criado e você pode usar todos os recursos de automação.
-
-## Agora o seu canal WhatsApp está integrado e pronto para ser customizado
-
-Na sequência, um *card* com o número do telefone irá aparecer em **Configurações > Canais**.
-
-Ao clicar neste *card* aparecerá as opções de customização, siga as dicas e personalize o seu número com foto de perfil, descrição, e-mail e site da sua empresa ou organização.
-
-Para aproveitar ainda mais do canal, inicie o processo de verificação do seu negócio junto a Meta.
-
-Para iniciar a verificação, siga o tutorial [Como verificar o meu negócio (WhatsApp Business API)](/pt/docs/tutorials/whatsapp-bussiness-api-como-verificar-o-meu-negocio).
+Para aumentar os limites de envio, inicie a verificação do negócio na Meta. Siga o tutorial [WhatsApp Business API: Como verificar o meu negócio](/pt/docs/tutorials/whatsapp-bussiness-api-como-verificar-o-meu-negocio)
