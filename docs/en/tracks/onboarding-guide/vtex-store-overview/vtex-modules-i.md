@@ -118,7 +118,7 @@ The following table shows optional Catalog settings on VTEX:
 
 [Prices](/en/docs/tracks/prices-module-overview) is the VTEX module for creating, editing, and storing price details for the store's SKUs. For a product to be sold, the customer needs to know the price of each item displayed in the store. The pricing module has features that allow you to use different pricing strategies in your business.
 
-###  Before you begin with Prices
+### Before you begin with Prices
 
 Before configuring the store's prices, you need to create a [catalog](#catalog) with your products. The store catalog must contain [categories](/en/docs/tutorials/registering-a-category), [brands](/en/docs/tutorials/registering-brands), [products](/en/docs/tutorials/adding-or-editing-products) and [SKUs](/en/docs/tutorials/adding-or-editing-skus) already added and active. If the catalog was created via [ntegration with an ERP system](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu#erp-integration), you should check the information before proceeding.
 
@@ -169,7 +169,7 @@ There is a difference between price tables created for [sales channels](/en/docs
 
 Price tables not associated with sales channels can be used in contexts such as __promotions__ and __customer clusters__. Tables created for sales channels can only be associated with the sales channel itself. Thus, the price table associated with a sales channel shows the SKU price specific to that policy and cannot be associated with other contexts.
 
-> ⚠️ The concepts of **price table** and [sales channel](LINK) are different. Sales channel is the context with which a price list is associated.
+> ⚠️ The concepts of __price table__ and [sales channel](/en/docs/tutorials/how-trade-policies-work) are different. Sales channel is the context with which a price list is associated.
 
 When setting up a sales channel, you must [specify the currency that will be used in the store](/en/docs/tutorials/creating-a-trade-policy). Creating different sales channels associated with a different currency allows the store to display prices in different currencies to customers. 
 

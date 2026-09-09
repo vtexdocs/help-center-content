@@ -53,6 +53,6 @@ Caso aconteça reprovações de mensagens e queira resolver ou mudar as configur
 
 ## Saiba mais
 
-- [Política do WhatsApp Business](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.whatsapp.com%2Flegal%2Fbusiness-policy%2F%3Ffbclid%3DIwAR1jLRqG2MmfXVpoC8OxG2zTl5Ub96hEm-Kq7ucQ9K5dNB8GDFaAupD530Q&h=AT36YeReOstrqxnKTzgq1y-r_1Ob87yrZtjfdejYpzyb5x_-O76Lptsh-I9eddFQhs7ijenYsMuyS_j5f0REQZ8IdJoL5vKaphzynwgfAav-DtNlcnC-iWBZN3KyVY4gdLKezYRLheBfFcg_nzrPaA) : saiba mais sobre as políticas para empresas.
+- [Política do WhatsApp Business](https://whatsappbusiness.com/pt-br/policy/) : saiba mais sobre as políticas para empresas.
 - [Política Comercial do WhatsApp](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.whatsapp.com%2Flegal%2Fcommerce-policy%2F%3Ffbclid%3DIwAR3hJYolZAcjC0qlRoD3yAnxxDqcFfZWC9ckfMsownlLmmTNMmCWUBRBEwQ&h=AT3ol3uyDf5Ojn8nJYc5KRBV8cDeo5UiTAfDQM1B_ZIamZ39CjEoG9RO6inUQKNKrCX7wbtZUJ7bJjmDA4KIBzJ6ZJ1E841-mDihwVik4agXMDieprqwFgWo8ebGSwPgj-g3htULojJjNADBqzQMlw) : saiba mais sobre as políticas comerciais.
-- [Aplicação das Políticas](https://developers.facebook.com/docs/whatsapp/overview/policy-enforcement/) : saiba mais sobre como aplicamos as políticas
+- [Aplicação das Políticas](https://developers.facebook.com/documentation/business-messaging/whatsapp/policy-enforcement/?locale=pt_BR) : saiba mais sobre como aplicamos as políticas

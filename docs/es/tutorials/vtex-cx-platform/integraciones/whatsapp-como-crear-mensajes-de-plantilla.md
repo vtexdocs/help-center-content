@@ -53,6 +53,6 @@ Si hay rechazos de mensajes y quieres resolver o cambiar la configuración de tu
 
 ## Obtén más información
 
-- [Política de WhatsApp Business:](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.whatsapp.com%2Flegal%2Fbusiness-policy%2F%3Ffbclid%3DIwAR1jLRqG2MmfXVpoC8OxG2zTl5Ub96hEm-Kq7ucQ9K5dNB8GDFaAupD530Q&h=AT36YeReOstrqxnKTzgq1y-r_1Ob87yrZtjfdejYpzyb5x_-O76Lptsh-I9eddFQhs7ijenYsMuyS_j5f0REQZ8IdJoL5vKaphzynwgfAav-DtNlcnC-iWBZN3KyVY4gdLKezYRLheBfFcg_nzrPaA) obtén más información sobre las políticas para empresas.
-- [Política Comercial de WhatsApp:](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.whatsapp.com%2Flegal%2Fcommerce-policy%2F%3Ffbclid%3DIwAR3hJYolZAcjC0qlRoD3yAnxxDqcFfZWC9ckfMsownlLmmTNMmCWUBRBEwQ&h=AT3ol3uyDf5Ojn8nJYc5KRBV8cDeo5UiTAfDQM1B_ZIamZ39CjEoG9RO6inUQKNKrCX7wbtZUJ7bJjmDA4KIBzJ6ZJ1E841-mDihwVik4agXMDieprqwFgWo8ebGSwPgj-g3htULojJjNADBqzQMlw) obtén más información sobre las políticas comerciales.
-- [Aplicación de las Políticas:](Aplicação das Políticas:) obtén más información sobre cómo aplicamos las políticas.
+- [Política de WhatsApp Business](https://whatsappbusiness.com/es-la/policy/): obtén más información sobre las políticas para empresas.
+- [Política Comercial de WhatsApp](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.whatsapp.com%2Flegal%2Fcommerce-policy%2F%3Ffbclid%3DIwAR3hJYolZAcjC0qlRoD3yAnxxDqcFfZWC9ckfMsownlLmmTNMmCWUBRBEwQ&h=AT3ol3uyDf5Ojn8nJYc5KRBV8cDeo5UiTAfDQM1B_ZIamZ39CjEoG9RO6inUQKNKrCX7wbtZUJ7bJjmDA4KIBzJ6ZJ1E841-mDihwVik4agXMDieprqwFgWo8ebGSwPgj-g3htULojJjNADBqzQMlw): obtén más información sobre las políticas comerciales.
+- [Aplicación de las Políticas](https://developers.facebook.com/documentation/business-messaging/whatsapp/policy-enforcement/?locale=es_LA): obtén más información sobre cómo aplicamos las políticas.

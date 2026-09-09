@@ -31,20 +31,21 @@ Para utilizar o Nuvei, siga os passos abaixo:
 5. Caso deseje modificar o nome de identificação a ser exibido para o provedor Nuvei na tela do Admin VTEX, insira a informação no campo **Nome** em **Informações básicas**.
 6. Em **Controle de pagamento**, selecione se deseja ativar o provedor em ambiente de teste clicando em **Ativar modo de teste**.
 7. Em **Liquidação automática**, selecione uma das seguintes opções:
-- **Usar comportamento recomendado pelo processador de pagamentos**: a captura não é automática, mas agendada de acordo com o prazo especificado pela adquirente que, além de indicar se o pagamento foi autorizado, pode especificar ou recomendar um número de dias para a captura no momento da resposta à autorização do pagamento (este é o comportamento padrão da plataforma).
-- **Liquidação automática imediatamente após a autorização do pagamento**: a captura é automática e acontece logo após a autorização, mesmo que a transação possua uma análise antifraude.
-- **Liquidação automática imediatamente após a análise antifraude**: a captura é automática e acontece logo após a autorização e análise antifraude (Caso você selecione este comportamento e não possua análise antifraude, a captura do pagamento acontecerá da mesma forma que no comportamento "Liquidação automática imediatamente após a autorização do pagamento").
-- **Desativado**: a captura acontece somente quando o pedido for faturado. Caso escolha esse comportamento de captura, é importante atentar-se quanto ao tempo do faturamento. Isso porque o faturamento pode ultrapassar o tempo de captura acordado com o provedor de pagamentos e levar à perda da transação.
+
+    - **Usar comportamento recomendado pelo processador de pagamentos**: a captura não é automática, mas agendada de acordo com o prazo especificado pela adquirente que, além de indicar se o pagamento foi autorizado, pode especificar ou recomendar um número de dias para a captura no momento da resposta à autorização do pagamento (este é o comportamento padrão da plataforma).
+    - **Liquidação automática imediatamente após a autorização do pagamento**: a captura é automática e acontece logo após a autorização, mesmo que a transação possua uma análise antifraude.
+    - **Liquidação automática imediatamente após a análise antifraude**: a captura é automática e acontece logo após a autorização e análise antifraude (Caso você selecione este comportamento e não possua análise antifraude, a captura do pagamento acontecerá da mesma forma que no comportamento "Liquidação automática imediatamente após a autorização do pagamento").
+    - **Desativado**: a captura acontece somente quando o pedido for faturado. Caso escolha esse comportamento de captura, é importante atentar-se quanto ao tempo do faturamento. Isso porque o faturamento pode ultrapassar o tempo de captura acordado com o provedor de pagamentos e levar à perda da transação.
 
 8. Caso deseje utilizar o [split de pagamento](/pt/docs/tutorials/split-de-pagamento) em sua loja, selecione a opção **Ativar split de recebíveis e enviar recebedores de pagamento** e indique o **Responsável pelas tarifas de processamento de pagamentos** e **Responsável pelos estornos** (marketplace, sellers ou marketplaces e sellers).
 9. Para preencher os campos **Merchant Id**, **Merchant Site Id** e **Client Secret** (Secret Key), acesse as informações disponíveis em **Settings > My Integration Settings** dentro do painel de controle de sua conta no ambiente Nuvei.
 
-> ⚠️ A Nuvei possui credenciais (Merchant Id, Merchant Site Id e Client Secret) específicas para cada tipo de ambiente. Acesse os ambientes de teste [(Integration)](sandbox.nuvei.com) e [Live](cpanel.nuvei.com) para identificar as informações relativas a cada um deles.
+    > ⚠️ A Nuvei possui credenciais (Merchant Id, Merchant Site Id e Client Secret) específicas para cada tipo de ambiente. Acesse os ambientes de teste [Integration](https://sandbox.nuvei.com) e [Live](https://cpanel.nuvei.com) para identificar as informações relativas a cada um deles.
 
 10. Em **Environment**, selecione se deseja configurar o provedor Nuvei no ambiente **Integration** ou **Live**.
 11. Em **Test 3ds challenge Integration only**, caso você tenha selecionado o ambiente de teste (**Integration**) é possível realizar testes de segurança 3DS por meio das opções **Force 3ds Challenge**, **Force 3ds Frictionless** ou **User cardHolder name**. Para mais informações sobre os testes, acesse a documentação [Nuvei](https://docs.nuvei.com/documentation/integration/testing/testing-cards/?highlight=test%20cards#3d-secure-v2-test-scenarios).
 
-> ⚠️ Sempre que o **Environment** do provedor for configurado como **Live**, a opção selecionada para o campo **Test 3ds challenge Integration only** deve ser **User cardHolder name**.
+    > ⚠️ Sempre que o **Environment** do provedor for configurado como **Live**, a opção selecionada para o campo **Test 3ds challenge Integration only** deve ser **User cardHolder name**.
 
 12. Em **3DS**, selecione se desejar utilizar a autenticação 3DS.
 13. Em **Marketplace (Split) - Payaut API Key** e **Marketplace account code - Payaut**, preencha conforme indicado pelo provedor.
@@ -54,7 +55,7 @@ Para utilizar o Nuvei, siga os passos abaixo:
 
 Para configurar a informação DMN Url na Nuvei, siga os passos abaixo:
 
-1. Acesse o seu ambiente Nuvei de teste ([Integration](sandbox.nuvei.com)) ou [Live](cpanel.nuvei.com).
+1. Acesse o seu ambiente Nuvei de teste [Integration](https://sandbox.nuvei.com) ou [Live](https://cpanel.nuvei.com).
 2. No menu **Settings**, clique em **My Integration settings**.
 3. Em **DMN URL**, substitua o campo **{account-name}** com o nome de sua conta VTEX.
 
