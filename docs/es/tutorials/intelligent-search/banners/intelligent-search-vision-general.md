@@ -15,7 +15,7 @@ locale: es
 subcategoryId: l3DubpOCHBfKyF2ueg2Vs
 ---
 
-> ℹ️ Intelligent Search está disponible para tiendas desarrolladas con: <ul> <li>[Store Framework](https://developers.vtex.com/docs/guides/store-framework)</li> <li>[FastStore](https://developers.vtex.com/docs/guides/faststore) <li>[Implementaciones headless](https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless) </ul>
+> ℹ️ Intelligent Search está disponible para tiendas desarrolladas con: <ul> <li>[Store Framework](https://developers.vtex.com/docs/guides/store-framework)</li> <li>[FastStore](https://developers.vtex.com/docs/guides/faststore) <li>[Implementaciones headless](https://developers.vtex.com/docs/guides/tracking-search-analytics-events-in-headless-web-stores) </ul>
 
 Intelligent Search es una solución de búsqueda desarrollada por VTEX para proporcionar resultados de búsqueda precisos y relevantes con base en las interacciones de los clientes de tu tienda. Los resultados se muestran según el comportamiento de los usuarios, ya sea a través de la barra de búsqueda, navegación por categorías o vistas de vitrinas de productos.
 
