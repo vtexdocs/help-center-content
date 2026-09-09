@@ -15,7 +15,7 @@ locale: en
 subcategoryId: l3DubpOCHBfKyF2ueg2Vs
 ---
 
-> ℹ️ Intelligent Search is available for stores developed using: <ul> <li>[Store Framework](https://developers.vtex.com/docs/guides/store-framework)</li> <li>[FastStore](https://developers.vtex.com/docs/guides/faststore) <li>[Headless implementations](https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless) </ul>
+> ℹ️ Intelligent Search is available for stores developed using: <ul> <li>[Store Framework](https://developers.vtex.com/docs/guides/store-framework)</li> <li>[FastStore](https://developers.vtex.com/docs/guides/faststore) <li>[Headless implementations](https://developers.vtex.com/docs/guides/tracking-search-analytics-events-in-headless-web-stores) </ul>
 
 Intelligent Search is a search solution developed by VTEX to provide accurate and relevant search results based on the interactions of your store's customers. Results are displayed based on user behavior, whether through the search bar, browsing categories or viewing product window displays.
 
@@ -40,10 +40,10 @@ To use them, you must have a [user role](/en/docs/tutorials/roles) with access t
 Access settings and features to optimize search results:
 
 * [Search configuration](/en/docs/tutorials/search-configuration): Define the available filters and configure the behavior of product specifications and SKUs in the search.  
-* [Synonyms](/en/subcategory/synonyms--BBzMtJan1UTxC9QZODnlN): Add words with the same meaning as a specific search term, increasing the chance of a successful search.  
-* [Relevance](/en/subcategory/relevance--32zXHBMygA2dB6TbCjQJej): Create [relevance rules](/en/docs/tutorials/relevance-rules) to determine the product order in the search results and handle specific search results through [merchandising rules](/en/docs/tutorials/merchandising-rules).
-* [Redirects](/en/subcategory/redirects--1wvyJwJhKgewxGeAGCVmM6): Direct customers to another page, internal or external to the store. This redirect is done in the search area using selected terms or filters.  
-* [Banners](/en/subcategory/banners--z6qcw06Z38YDu1fOcu9Jn): Configure banners to be displayed during the search.
+* [Synonyms](/en/docs/tutorials/synonyms): Add words with the same meaning as a specific search term, increasing the chance of a successful search.  
+* [Relevance](/en/docs/tutorials/intelligent-search-how-search-result-relevance-works): Create [relevance rules](/en/docs/tutorials/relevance-rules) to determine the product order in the search results and handle specific search results through [merchandising rules](/en/docs/tutorials/merchandising-rules).
+* [Redirects](/en/docs/tutorials/redirects): Direct customers to another page, internal or external to the store. This redirect is done in the search area using selected terms or filters.  
+* [Banners](/en/docs/tutorials/banners): Configure banners to be displayed during the search.
 
 ## Monitoring results
 
