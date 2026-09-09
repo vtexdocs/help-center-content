@@ -46,7 +46,7 @@ Some of the main examples of the use of merchandising rules are:
 
 Consider the following recommendations for using merchandising rules in your store:
 
-* Manage merchandising rules based on Intelligent Search's [relevance rules](/en/docs/tutorials/relevance-rules) and [synonyms](/en/subcategory/synonyms--BBzMtJan1UTxC9QZODnlN). Make sure that these three are aligned to avoid conflicts and provide a cohesive and efficient search experience.
+* Manage merchandising rules based on Intelligent Search's [relevance rules](/en/docs/tutorials/relevance-rules) and [synonyms](/en/docs/tutorials/synonyms). Make sure that these three are aligned to avoid conflicts and provide a cohesive and efficient search experience.
 * Don't use merchandising rules with opposite effects for the same items, as this can lead to unexpected behavior in search results.
 * If too many merchandising rules are created, then the organic search will probably be greatly affected.
 * Be careful when using global [trigger rules](/en/docs/tutorials/creating-merchandising-rules-manual-editor#activation-rules), as they impact all searches.
