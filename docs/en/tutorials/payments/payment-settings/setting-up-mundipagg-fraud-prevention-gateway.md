@@ -17,7 +17,7 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 > ❗ This payment integration can no longer be configured on the platform due to the [legacy provider removal process](/en/announcements/2023-10-13-legacy-payment-connectors-will-be-discontinued-in-2024) and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.
 
-Mundipagg offers a version of its [gateway](/en/docs/tutorials/what-is-a-payment-gateway) with anti-fraud functionality. Mundipagg Fraud Prevention brings even more security to the processing of purchases made with bank slips, bank transfers and major credit card brands.
+Mundipagg offers a version of its [gateway](/en/docs/tutorials/what-is-a-payment-gateway) with anti-fraud functionality. Mundipagg Fraud Prevention brings even more security to the processing of purchases made with Boletos, bank transfers and major credit card brands.
 
 To configure Mundipagg Fraud Prevention, follow the steps below:
 
@@ -36,7 +36,7 @@ To configure Mundipagg Fraud Prevention, follow the steps below:
 13. In __Use Anti-fraud__, state whether you've hired the anti-fraud functionality from Mundipagg.
 14. Click __Save__.
 
-> ℹ️ The steps **8**, **9**, **11** and **12** must be completed if you want to offer bank slip as a payment condition in your store.
+> ℹ️ The steps **8**, **9**, **11** and **12** must be completed if you want to offer Boleto as a payment condition in your store.
 
 ## Setting up the payment condition
 After following the steps indicated above, Mundipagg Fraud Prevention will be configured in your store. Thus, while you're registering a payment condition, it will be available in the __Process with affiliation__ field (provided the payment method is compatible with Mundipagg Fraud Prevention). To learn how to set up payment conditions, visit [this Help article](/en/docs/tutorials/how-to-configure-payment-conditions).

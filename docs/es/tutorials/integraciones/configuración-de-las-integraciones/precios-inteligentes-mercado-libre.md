@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-**Precios inteligentes** en la [integración de Mercado Libre](xxxxx) ofrece dos funcionalidades: **Sugerencias de precios** y el **Ajuste automático de precios**, que se describen más detalladamente a continuación.
+**Precios inteligentes** en la [integración de Mercado Libre](/es/docs/tracks/configurar-integracion-con-mercado-libre) ofrece dos funcionalidades: **Sugerencias de precios** y el **Ajuste automático de precios**, que se describen más detalladamente a continuación.
 
 Estas funcionalidades solo están disponibles para clientes que utilizan la integración **Mercado Libre Premium.**
 
