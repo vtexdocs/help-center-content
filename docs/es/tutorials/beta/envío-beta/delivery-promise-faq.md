@@ -63,7 +63,7 @@ Incluso si utilizas **Delivery Promise (Beta)**, debes realizar esta configuraci
 
 ## 7. ¿Qué ocurre si utilizo la funcionalidad Región?
 
-**Delivery Promise (beta)** sustituye todas las funcionalidades existentes en [Region V1](es/docs/tutorials/configurar-la-regionalizacion-del-seller) y V2, además de añadir mejoras en el desempeño, experiencia de compra y nuevas funcionalidades. Como **Delivery Promise** está en fase beta, la regionalización de sellers la continúan usando normalmente clientes que no participan en esta fase.
+**Delivery Promise (beta)** sustituye todas las funcionalidades existentes en [Region V1](https://help.vtex.com/es/docs/tutorials/configurar-la-regionalizacion-del-seller) y V2, además de añadir mejoras en el desempeño, experiencia de compra y nuevas funcionalidades. Como **Delivery Promise** está en fase beta, la regionalización de sellers la continúan usando normalmente clientes que no participan en esta fase.
 
 ## 8. ¿Delivery Promise (beta) permite mostrar filtros y tags de envío gratis?
 
