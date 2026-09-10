@@ -40,6 +40,21 @@ Confira a seguir as práticas adotadas pela VTEX, detalhadas no [DPA](https://co
 
 Para mais informações, consulte [Práticas de Segurança - VTEX](https://vtex.com/br-pt/security/security-practices/).
 
+## Certificações
+
+A VTEX audita regularmente seus controles de segurança da informação por meio de profissionais independentes, para garantir transparência e excelência em suas práticas. Essa validação externa alinha políticas e procedimentos aos padrões de segurança e fortalece a confiança de clientes e parceiros.
+
+A VTEX possui os seguintes certificados e credenciamentos:
+
+* **ISO 27001** – Sistema de Gestão de Segurança da Informação.  
+* **ISO 27701** – Sistema de Gestão de Informações de Privacidade (PIMS), extensão da ISO 27001.
+* **SOC 1 – Type 2**: relatórios que cobrem os controles internos sobre sistemas de relatórios financeiros.
+* **SOC 2 – Type 2**: relatórios que cobrem segurança, disponibilidade, integridade, confidencialidade e privacidade.
+* **PCI-DSS**: validação dos controles sobre dados de titulares de cartão, para reduzir fraudes com cartão de crédito.
+* **PCI-DESV**: conjunto adicional de procedimentos e requisitos de validação aplicados a organizações específicas de alto risco ou designadas.
+
+Consulte nossas [Certificações](https://compliance.vtex.com/) para mais detalhes.
+
 ## Armazenamento
 
 O [provedor de hospedagem](https://compliance.vtex.com/?itemUid=e3fae2ca-94a9-416b-b577-5c90e382df57&source=click/) utilizado pela VTEX é a Amazon Web Services (AWS), que armazena dados na região da Virgínia do Norte, nos Estados Unidos. A plataforma AWS é uma referência no setor de hospedagem em nuvem e possui certificações importantes, como ISO 27001, PCI DSS, CSA, NIST, entre outras. Para ver uma lista de certificações detalhadas, acesse [Programas de conformidade da AWS](https://aws.amazon.com/pt/compliance/programs/?nc1=h_ls). A autorização para o armazenamento de dados na AWS pode ser encontrada em nosso [DPA](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/).
