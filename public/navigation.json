@@ -34098,14 +34098,14 @@
                 },
                 {
                   "name": {
-                    "en": "WhatsApp: VTEX CX Platform Express integration",
-                    "es": "WhatsApp: Integración express con VTEX CX Platform",
-                    "pt": "WhatsApp: Integração Expressa no VTEX CX Platform"
+                    "en": "WhatsApp: VTEX CX Platform integration",
+                    "es": "WhatsApp: Integración con VTEX CX Platform",
+                    "pt": "WhatsApp: Integração com o VTEX CX Platform"
                   },
                   "slug": {
-                    "en": "whatsapp-vtex-cx-platform-express-integration",
-                    "es": "whatsapp-integracion-express-con-vtex-cx-platform",
-                    "pt": "whatsapp-integracao-expressa-no-vtex-cx-platform"
+                    "en": "whatsapp-vtex-cx-platform-integration",
+                    "es": "whatsapp-integracion-con-vtex-cx-platform",
+                    "pt": "whatsapp-integracao-com-o-vtex-cx-platform"
                   },
                   "origin": "",
                   "type": "markdown",

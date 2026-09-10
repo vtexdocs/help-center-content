@@ -1,18 +1,12 @@
 ---
 title: 'Eventos disponíveis no Audit'
-id: 6r1Mzcu5NmkmmDLJlz9CCZ
-status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2026-08-25T00:00:00.000Z
-publishedAt: 2025-08-25T18:20:54.585Z
-firstPublishedAt: 2022-06-22T16:28:52.801Z
+updatedAt: 2026-09-09T00:00:00.000Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: events-available-in-audit
-legacySlug: eventos-disponiveis-no-audit
 locale: pt
-subcategoryId: 2TNXiKzLZOPxjMTyGiEeJu
 ---
 
 Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs/tutorials/audit) por aplicação.
@@ -42,6 +36,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 * [Tokens de cartão](#tokens-de-cartao)
 * [Unidades organizacionais](#unidades-organizacionais)
 * [Opções de envio](#opcoes-de-envio)
+* [Agente de Otimização de Busca](#agente-de-otimizacao-de-busca)
 
 > ℹ️ Caso você visualize no Audit algum evento que não esteja listado aqui, por favor nos informe usando a [página de feedback de documentação](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
@@ -462,4 +457,14 @@ Na coluna **Ação**, todos os eventos do Headless CMS (Legacy) também apresent
 | DELIVERY_OPTION_CHANGED_FILTER | Alteração nas opções de envio usadas como filtro na vitrine. | ID da opção de envio. |
 | DELIVERY_OPTION_AUTOGENERATE_CREATE | Criação automática de uma opção de envio a partir de uma sugestão. | ID da opção de envio. |
 | DELIVERY_OPTION_AUTOGENERATE_UPDATE | Edição manual de uma opção de envio gerada automaticamente, que deixa de ser tratada como gerada pela plataforma. | ID da opção de envio. |
+
+## Agente de Otimização de Busca
+
+| Ação | Descrição do evento | Detalhes do evento |
+|---|---|---|
+| CreateSynonymRule | Criação de uma regra de sinônimo unidirecional. | ID da regra, termos (esquerda e direita), locales e se a regra está ativa. |
+| CreateBidirectionalSynonymRule | Criação de uma regra de sinônimo bidirecional. | ID da regra, termos (esquerda e direita), locales e se a regra está ativa. |
+| DeleteSynonymRule | Exclusão de uma regra de sinônimo. | ID da regra. |
+| ActivateSynonymRule | Ativação de uma regra de sinônimo. | ID da regra. |
+| DeactivateSynonymRule | Desativação de uma regra de sinônimo. | ID da regra. |
 
