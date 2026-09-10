@@ -1,7 +1,7 @@
 ---
 title: 'Eventos disponíveis no Audit'
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2026-09-09T00:00:00.000Z
+updatedAt: 2026-09-09T20:45:00.000Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
@@ -37,6 +37,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 * [Unidades organizacionais](#unidades-organizacionais)
 * [Opções de envio](#opcoes-de-envio)
 * [Agente de Otimização de Busca](#agente-de-otimizacao-de-busca)
+* [Autenticador](#autenticador)
 
 > ℹ️ Caso você visualize no Audit algum evento que não esteja listado aqui, por favor nos informe usando a [página de feedback de documentação](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
@@ -450,13 +451,13 @@ Na coluna **Ação**, todos os eventos do Headless CMS (Legacy) também apresent
 
 | Ação | Descrição do evento | Detalhes do evento |
 |---|---|---|
-| DELIVERY_OPTION_CREATE | Criação de uma opção de envio. | ID da opção de envio. |
-| DELIVERY_OPTION_UPDATE | Atualização de uma opção de envio. | ID da opção de envio. |
-| DELIVERY_OPTION_DELETE | Exclusão de uma opção de envio. | ID da opção de envio. |
-| DELIVERY_OPTION_UPDATE_ACCOUNT_CONFIG | Atualização das configurações da conta de Opções de envio, como preferências de exibição na vitrine. | Nome da conta. |
+| DELIVERY_OPTION_CREATE | Criação manual de uma opção de envio. Não há estado anterior da opção de envio. | ID da opção de envio. |
+| DELIVERY_OPTION_UPDATE | Atualização de uma opção de envio existente, seja na edição de campos, seja na ativação ou desativação. A ativação e a desativação só são registradas quando o status muda de fato. | ID da opção de envio. |
+| DELIVERY_OPTION_DELETE | Exclusão de uma opção de envio. O evento registra o estado da opção de envio imediatamente antes da exclusão. | ID da opção de envio. |
+| DELIVERY_OPTION_UPDATE_ACCOUNT_CONFIG | Atualização das configurações da conta de Opções de envio, como o filtro na página de listagem de produtos e as preferências de exibição na vitrine. A entidade auditada é a configuração da conta, não uma opção de envio individual. | Nome da conta. |
 | DELIVERY_OPTION_CHANGED_FILTER | Alteração nas opções de envio usadas como filtro na vitrine. | ID da opção de envio. |
-| DELIVERY_OPTION_AUTOGENERATE_CREATE | Criação automática de uma opção de envio a partir de uma sugestão. | ID da opção de envio. |
-| DELIVERY_OPTION_AUTOGENERATE_UPDATE | Edição manual de uma opção de envio gerada automaticamente, que deixa de ser tratada como gerada pela plataforma. | ID da opção de envio. |
+| DELIVERY_OPTION_AUTOGENERATE_CREATE | Criação de uma opção de envio pelo fluxo de geração automática, a partir de uma sugestão. Opções de envio geradas automaticamente são sempre criadas como inativas, aguardando revisão manual. | ID da opção de envio. |
+| DELIVERY_OPTION_AUTOGENERATE_UPDATE | Edição manual de uma opção de envio gerada automaticamente em um campo diferente do status, que deixa de ser tratada como gerada pela plataforma. Alterar apenas o status não gera esse evento. | ID da opção de envio. |
 
 ## Agente de Otimização de Busca
 
@@ -467,4 +468,12 @@ Na coluna **Ação**, todos os eventos do Headless CMS (Legacy) também apresent
 | DeleteSynonymRule | Exclusão de uma regra de sinônimo. | ID da regra. |
 | ActivateSynonymRule | Ativação de uma regra de sinônimo. | ID da regra. |
 | DeactivateSynonymRule | Desativação de uma regra de sinônimo. | ID da regra. |
+
+## Autenticador
+
+| Ação | Descrição do evento | Detalhes do evento |
+|---|---|---|
+| DelegationCreated | Criação de uma delegação que concede a um usuário permissão para agir em nome de outro usuário da mesma unidade organizacional, durante um período definido. | ID da delegação, ID da unidade organizacional, ID do usuário original, ID do usuário delegado e período. |
+| DelegationUpdated | Atualização do período de uma delegação. | ID da delegação e período. |
+| DelegationRevoked | Revogação de uma delegação antes da data de término. | ID da delegação. |
 

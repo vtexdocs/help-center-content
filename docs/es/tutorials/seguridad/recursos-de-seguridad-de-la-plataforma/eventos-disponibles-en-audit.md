@@ -1,7 +1,7 @@
 ---
 title: 'Eventos disponibles en Audit'
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2026-09-09T00:00:00.000Z
+updatedAt: 2026-09-09T20:45:00.000Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
@@ -37,6 +37,7 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 * [Unidades organizativas](#unidades-organizativas)
 * [Opciones de envío](#opciones-de-envio)
 * [Agente de Optimización de Búsqueda](#agente-de-optimizacion-de-busqueda)
+* [Autenticador](#autenticador)
 
 > ℹ️ Si, en Audit, ves algún evento no incluido en esta lista, por favor, envíanos más información a través de la [página de feedback sobre documentación](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
@@ -450,13 +451,13 @@ En la columna **Acción**, todos los eventos de Headless CMS (Legacy) también m
 
 | Acción | Descripción del evento | Detalles del evento |
 |---|---|---|
-| DELIVERY_OPTION_CREATE | Creación de una opción de envío. | ID de la opción de envío. |
-| DELIVERY_OPTION_UPDATE | Actualización de una opción de envío. | ID de la opción de envío. |
-| DELIVERY_OPTION_DELETE | Eliminación de una opción de envío. | ID de la opción de envío. |
-| DELIVERY_OPTION_UPDATE_ACCOUNT_CONFIG | Actualización de la configuración de cuenta de Opciones de envío, como las preferencias de visualización en la vitrina. | Nombre de la cuenta. |
+| DELIVERY_OPTION_CREATE | Creación manual de una opción de envío. No hay estado anterior de la opción de envío. | ID de la opción de envío. |
+| DELIVERY_OPTION_UPDATE | Actualización de una opción de envío existente, ya sea por la edición de campos o por su activación o desactivación. La activación y la desactivación solo se registran cuando el estado cambia efectivamente. | ID de la opción de envío. |
+| DELIVERY_OPTION_DELETE | Eliminación de una opción de envío. El evento registra el estado de la opción de envío inmediatamente antes de la eliminación. | ID de la opción de envío. |
+| DELIVERY_OPTION_UPDATE_ACCOUNT_CONFIG | Actualización de la configuración de cuenta de Opciones de envío, como el filtro en la página de listado de productos y las preferencias de visualización en la vitrina. La entidad auditada es la configuración de la cuenta, no una opción de envío individual. | Nombre de la cuenta. |
 | DELIVERY_OPTION_CHANGED_FILTER | Cambio en las opciones de envío usadas como filtro en la vitrina. | ID de la opción de envío. |
-| DELIVERY_OPTION_AUTOGENERATE_CREATE | Creación automática de una opción de envío a partir de una sugerencia. | ID de la opción de envío. |
-| DELIVERY_OPTION_AUTOGENERATE_UPDATE | Edición manual de una opción de envío generada automáticamente, que deja de tratarse como generada por la plataforma. | ID de la opción de envío. |
+| DELIVERY_OPTION_AUTOGENERATE_CREATE | Creación de una opción de envío mediante el flujo de generación automática, a partir de una sugerencia. Las opciones de envío generadas automáticamente siempre se crean como inactivas, a la espera de revisión manual. | ID de la opción de envío. |
+| DELIVERY_OPTION_AUTOGENERATE_UPDATE | Edición manual de una opción de envío generada automáticamente en un campo distinto del estado, que deja de tratarse como generada por la plataforma. Cambiar solo el estado no genera este evento. | ID de la opción de envío. |
 
 ## Agente de Optimización de Búsqueda
 
@@ -467,4 +468,12 @@ En la columna **Acción**, todos los eventos de Headless CMS (Legacy) también m
 | DeleteSynonymRule | Eliminación de una regla de sinónimo. | ID de la regla. |
 | ActivateSynonymRule | Activación de una regla de sinónimo. | ID de la regla. |
 | DeactivateSynonymRule | Desactivación de una regla de sinónimo. | ID de la regla. |
+
+## Autenticador
+
+| Acción | Descripción del evento | Detalles del evento |
+|---|---|---|
+| DelegationCreated | Creación de una delegación que otorga a un usuario permiso para actuar en nombre de otro usuario de la misma unidad organizativa, durante un período determinado. | ID de la delegación, ID de la unidad organizativa, ID del usuario original, ID del usuario delegado y período. |
+| DelegationUpdated | Actualización del período de una delegación. | ID de la delegación y período. |
+| DelegationRevoked | Revocación de una delegación antes de la fecha de finalización. | ID de la delegación. |
 
