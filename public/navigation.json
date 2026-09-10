@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Intelligent Search: Facets, keywords, and special character improvements",
+                    "es": "Intelligent Search: mejoras en filtros, palabras clave y caracteres especiales",
+                    "pt": "Intelligent Search: melhorias em filtros, keywords e caracteres especiais"
+                  },
+                  "slug": {
+                    "en": "2026-09-10-intelligent-search-filters-keywords-and-special-characters-improvements",
+                    "es": "2026-09-10-intelligent-search-mejoras-en-filtros-keywords-y-caracteres-especiales",
+                    "pt": "2026-09-10-intelligent-search-melhorias-em-filtros-keywords-e-caracteres-especiais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Intelligent Search: OR search results now ranked by relevance",
                     "es": "Intelligent Search: resultados de búsqueda OR ahora ordenados por relevancia",
                     "pt": "Intelligent Search: Resultados de busca OR agora ordenados por relevância"
