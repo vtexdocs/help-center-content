@@ -76,7 +76,7 @@ Para ativar essa ferramenta, siga os passos abaixo:
 
 ## Dashboard
 
-O Dashboard mostra informações sobre o VTEX CX Platform e é dividido em duas páginas:
+O Dashboard mostra informações sobre o VTEX CX Platform e é dividido nas seguintes páginas:
 
 - [Desempenho do time de agentes](#desempenho-do-time-de-agentes)
 - [Recuperação de carrinho abandonado](#recuperação-de-carrinho-abandonado)
@@ -100,6 +100,8 @@ A tela de recuperação de carrinho abandonado fornece uma visão geral das inte
 > ℹ️ O número de mensagens lidas depende das configurações do WhatsApp do cliente. Se as leituras de mensagem estiverem desativadas, essa métrica vai ser afetada.
 
 - **Cliques**: número de cliques no link de recuperação de carrinho abandonado.
+
+Para personalizar o seu agente e editar as configurações do VTEX CX Platform, clique em `Configurações`. Para saber mais, acesse o artigo [Configurar o VTEX CX Platform no Admin VTEX](https://help.vtex.com/pt/docs/tutorials/configuring-vtex-cx-platform-inside-vtex-admin).
 
 ## Auditoria
 
