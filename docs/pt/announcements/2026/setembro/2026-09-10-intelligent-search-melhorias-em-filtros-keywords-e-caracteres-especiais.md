@@ -12,7 +12,7 @@ tags:
   - Intelligent Search
 ---
 
-O [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) recebeu um conjunto de melhorias que aumentam a relevância e a precisão dos resultados de busca, além da correção de um bug no analisador de idioma inglês. Essas melhorias não são aplicadas automaticamente. Para habilitar qualquer uma delas na sua conta, entre em contato com o [Suporte VTEX](https://supporticket.vtex.com/support).
+O [Intelligent Search](https://help.vtex.com/pt/docs/tracks/visao-geral-intelligent-search) recebeu um conjunto de melhorias que aumentam a relevância e a precisão dos resultados de busca, além da correção de um bug no analisador de idioma inglês. Essas melhorias não são aplicadas automaticamente. Para habilitar qualquer uma delas na sua conta, entre em contato com o [Suporte VTEX](https://supporticket.vtex.com/support).
 
 ## O que mudou?
 

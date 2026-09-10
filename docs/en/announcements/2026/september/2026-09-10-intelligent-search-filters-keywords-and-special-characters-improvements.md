@@ -14,7 +14,7 @@ tags:
   - Intelligent Search
 ---
 
-[Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) received a set of improvements that increase the relevance and accuracy of search results, along with a fix for a bug in the English language parser. These improvements aren't applied automatically. To enable any of them for your account, contact [VTEX Support](https://supporticket.vtex.com/support).
+[Intelligent Search](https://help.vtex.com/en/docs/tracks/overview-intelligent-search) received a set of improvements that increase the relevance and accuracy of search results, along with a fix for a bug in the English language parser. These improvements aren't applied automatically. To enable any of them for your account, contact [VTEX Support](https://supporticket.vtex.com/support).
 
 ## What has changed?
 
@@ -30,7 +30,7 @@ Consider a search for "shirt" that returns 1,000 products, with minimum coverage
 - The **Size** facet covers 600 products (60%) and is displayed.
 - The **Fabric** facet covers only 30 products (3%) and is automatically hidden because its options don't reach the minimum percentage.
 
-Learn more in [Search configuration](https://help.vtex.com/docs/tutorials/search-configuration).
+Learn more in [Search configuration](https://help.vtex.com/en/docs/tutorials/search-configuration).
 
 ### Keyword generation from any product specification
 
@@ -43,7 +43,7 @@ Consider a search for "frost free":
 - **Duplex Refrigerator 400L** (specification "Defrost technology": Frost Free, set to generate keywords) has high relevance, since the specification value matches the search and generates the same bonus as a keyword match, even if the term doesn't appear in the product name.
 - **Refrigerator 400L** (specification "Defrost technology": Cyclic) has low relevance, since neither the name nor the specification value matches "frost free".
 
-Learn more in [How search results relevance works](https://help.vtex.com/docs/tutorials/intelligent-search-how-search-result-relevance-works#keywords-from-specifications).
+Learn more in [How search results relevance works](https://help.vtex.com/en/docs/tutorials/intelligent-search-how-search-result-relevance-works#keywords-from-specifications).
 
 ### Special character handling
 
@@ -51,7 +51,7 @@ The processing of symbols such as `®`, `@`, and `&` in search has been improved
 
 For example, the product `Brand® Multipurpose & Copier Bond Paper` can be found when customers search for `brand bond paper`.
 
-Learn more in [Search behavior](https://help.vtex.com/docs/tutorials/search-behavior).
+Learn more in [Search behavior](https://help.vtex.com/en/docs/tutorials/search-behavior).
 
 ### Bug fix: English language analyzer stemming
 
@@ -59,7 +59,7 @@ Intelligent Search uses a language analyzer to normalize search terms, unifying 
 
 We fixed stemming inconsistencies in the English language analyzer for terms such as `sticks`, `sharpies`, `its`, `bags`, `boards`, `books`, `bowls`, `cards`, `crackers`, `dividers`, `games`, `glue-sticks`, `k-cups`, `knives`, `nuts`, `rolls`, `shelves`, and `supplies`, whose plural forms weren't correctly mapped to the singular stem. This fix is available only for accounts operating in English.
 
-Learn more in [Search behavior](https://help.vtex.com/docs/tutorials/search-behavior#stemming) and in [How search results relevance works](https://help.vtex.com/docs/tutorials/intelligent-search-how-search-result-relevance-works).
+Learn more in [Search behavior](https://help.vtex.com/en/docs/tutorials/search-behavior#stemming) and in [How search results relevance works](https://help.vtex.com/en/docs/tutorials/intelligent-search-how-search-result-relevance-works).
 
 ## What needs to be done?
 
