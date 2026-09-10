@@ -13,7 +13,7 @@ order: 6
 
 Quando uma entrega na modalidade [Logística do vendedor](/pt/tracks/integracao-shopee--4CaZCzU9ZO1CByH0haZ9hA/3vKp8QmN2xRsWy5Hb7Lc9T) não pode ser concluída, a Shopee precisa ser notificada para que o comprador receba o estorno. Com o conector VTEX, essa notificação acontece automaticamente depois que você registra uma [nota fiscal de devolução](/pt/docs/tutorials/como-devolver-itens-do-pedido) no valor total do pedido no OMS.
 
-> ℹ️ Este fluxo se aplica apenas a pedidos da **Logística do vendedor**. Ele não está disponível para a modalidade [Shopee full logistics](/pt/tracks/integracao-shopee--4CaZCzU9ZO1CByH0haZ9hA/8nRw4mK7qPsXz2Yt3bVj6A).
+> ℹ️ Este fluxo se aplica apenas a pedidos da **Logística do vendedor**. Ele não está disponível para a modalidade [Shopee Full Logistics](/pt/tracks/integracao-shopee--4CaZCzU9ZO1CByH0haZ9hA/8nRw4mK7qPsXz2Yt3bVj6A).
 
 ## Como notificar a falha de entrega
 
