@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Intelligent Search: OR search results now ranked by relevance",
+                    "es": "Intelligent Search: resultados de búsqueda OR ahora ordenados por relevancia",
+                    "pt": "Intelligent Search: Resultados de busca OR agora ordenados por relevância"
+                  },
+                  "slug": {
+                    "en": "2026-09-03-or-search-results-now-ranked-by-relevance",
+                    "es": "2026-09-03-resultados-de-busqueda-or-ahora-ordenados-por-relevancia",
+                    "pt": "2026-09-03-resultados-de-busca-or-agora-ordenados-por-relevancia"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Intelligent Search: Synonym conflict detection",
                     "es": "Intelligent Search: detección de sinónimos conflictivos",
                     "pt": "Intelligent Search: detecção de sinônimos conflitantes"
@@ -9064,36 +9079,6 @@
             },
             {
               "name": {
-                "en": "Why is my store’s zoom not working?",
-                "es": "¿Por qué no funciona el zoom de mi tienda?",
-                "pt": "Por que o zoom da minha loja não funciona?"
-              },
-              "slug": {
-                "en": "why-is-my-stores-zoom-not-working",
-                "es": "por-que-no-funciona-el-zoom-de-mi-tienda",
-                "pt": "por-que-o-zoom-da-minha-loja-nao-funciona"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Why is the \"thumb\" image of poor quality?",
-                "es": "¿Por qué la imagen \"thumb\" está en baja calidad?",
-                "pt": "Por que a imagem \"thumb\" está em baixa qualidade?"
-              },
-              "slug": {
-                "en": "why-is-the-thumb-image-of-poor-quality",
-                "es": "por-que-la-imagen-thumb-esta-en-baja-calidad",
-                "pt": "porque-a-imagem-thumb-esta-em-baixa-qualidade"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Why is the product name duplicated?",
                 "es": "¿Por qué el producto está con nombre duplicado?",
                 "pt": "Por que o produto está com nome duplicado?"
@@ -10191,12 +10176,12 @@
                 {
                   "name": {
                     "en": "3. Cross-border stores",
-                    "es": "3. Tiendas transfronterizas (cross-border)",
+                    "es": "3. Tiendas internacionales (cross-border)",
                     "pt": "3. Lojas internacionais (cross-border)"
                   },
                   "slug": {
                     "en": "cross-border-stores",
-                    "es": "tiendas-transfronterizas-cross-border",
+                    "es": "tiendas-internacionales-cross-border",
                     "pt": "lojas-internacionais-cross-border"
                   },
                   "origin": "",
@@ -20340,6 +20325,21 @@
                 },
                 {
                   "name": {
+                    "en": "CMS roles and permissions",
+                    "es": "CMS roles y permisos",
+                    "pt": "CMS perfis de acesso e permissões"
+                  },
+                  "slug": {
+                    "en": "cms-roles-and-permissions",
+                    "es": "cms-roles-y-permisos",
+                    "pt": "cms-perfis-de-acesso-e-permissoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Configuring stores",
                     "es": "Configurar tiendas",
                     "pt": "Configurar lojas"
@@ -20348,21 +20348,6 @@
                     "en": "cms-configuring-stores",
                     "es": "cms-configurar-tiendas",
                     "pt": "cms-configurar-lojas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Roles and permissions",
-                    "es": "Roles y permisos",
-                    "pt": "Perfis de acesso e permissões"
-                  },
-                  "slug": {
-                    "en": "roles-and-permissions",
-                    "es": "roles-y-permisos",
-                    "pt": "perfis-de-acesso-e-permissoes"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20642,6 +20627,21 @@
                     },
                     {
                       "name": {
+                        "en": "Configuring zoom and thumbnails in CMS Portal (Legacy) stores",
+                        "es": "Configurar zoom y miniaturas en tiendas CMS Portal (Legado)",
+                        "pt": "Configurando zoom e miniaturas em lojas CMS Portal (Legado)"
+                      },
+                      "slug": {
+                        "en": "configuring-zoom-and-thumbnails-in-cms-portal-legacy-stores",
+                        "es": "configurar-zoom-y-miniaturas-en-tiendas-cms-portal-legado",
+                        "pt": "configurando-zoom-e-miniaturas-em-lojas-cms-portal-legado"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Enabling PWA push notifications in your store",
                         "es": "Habilitar las notificaciones PWA de la tienda",
                         "pt": "Habilitando notificações PWA da loja"
@@ -20695,21 +20695,6 @@
                         "en": "set-the-store-display-language",
                         "es": "definir-el-idioma-de-visualizacion-de-la-tienda",
                         "pt": "definir-o-idioma-de-exibicao-da-loja"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Setting up the standard size for the zoom image",
-                        "es": "Configurar el tamaño estándar de la imagen de zoom",
-                        "pt": "Configurar o tamanho padrão da imagem de zoom"
-                      },
-                      "slug": {
-                        "en": "setting-up-the-standard-size-for-the-zoom-image",
-                        "es": "configurar-el-tamano-estandar-de-la-imagen-de-zoom",
-                        "pt": "configurar-o-tamanho-padrao-da-imagem-de-zoom"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -22713,12 +22698,12 @@
                 {
                   "name": {
                     "en": "VTEX Pick and Pack: Insights",
-                    "es": "VTEX Pick and Pack: Análisis",
+                    "es": "VTEX Pick and Pack: Insights",
                     "pt": "VTEX Pick and Pack: Insights"
                   },
                   "slug": {
                     "en": "vtex-pick-and-pack-insights",
-                    "es": "vtex-pick-and-pack-analisis",
+                    "es": "vtex-pick-and-pack-insights",
                     "pt": "vtex-pick-and-pack-insights"
                   },
                   "origin": "",
@@ -34143,14 +34128,14 @@
                 },
                 {
                   "name": {
-                    "en": "WhatsApp: VTEX CX Platform Express integration",
-                    "es": "WhatsApp: Integración express con VTEX CX Platform",
-                    "pt": "WhatsApp: Integração Expressa no VTEX CX Platform"
+                    "en": "WhatsApp: VTEX CX Platform integration",
+                    "es": "WhatsApp: Integración con VTEX CX Platform",
+                    "pt": "WhatsApp: Integração com o VTEX CX Platform"
                   },
                   "slug": {
-                    "en": "whatsapp-vtex-cx-platform-express-integration",
-                    "es": "whatsapp-integracion-express-con-vtex-cx-platform",
-                    "pt": "whatsapp-integracao-expressa-no-vtex-cx-platform"
+                    "en": "whatsapp-vtex-cx-platform-integration",
+                    "es": "whatsapp-integracion-con-vtex-cx-platform",
+                    "pt": "whatsapp-integracao-com-o-vtex-cx-platform"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -34569,8 +34554,8 @@
             },
             {
               "name": {
-                "en": "Audit Overview",
-                "es": "Auditoría Overview",
+                "en": "Audit: Overview",
+                "es": "Auditoría: Información general",
                 "pt": "Auditoria Overview"
               },
               "slug": {
@@ -34598,7 +34583,7 @@
                 },
                 {
                   "name": {
-                    "en": "Audit: Improvements Backlog",
+                    "en": "Audit: Improvement backlog",
                     "es": "Auditoría: Backlog de mejoras",
                     "pt": "Auditoria: Backlog de melhorias"
                   },
@@ -52470,6 +52455,21 @@
             },
             {
               "name": {
+                "en": "Intelligent Search returns products generated by SKU split with incorrect availability",
+                "es": "La búsqueda inteligente devuelve productos generados por división de SKU con disponibilidad incorrecta.",
+                "pt": "A Busca Inteligente retorna produtos gerados pela divisão de SKU com disponibilidade incorreta."
+              },
+              "slug": {
+                "en": "intelligent-search-returns-products-generated-by-sku-split-with-incorrect-availability",
+                "es": "la-busqueda-inteligente-devuelve-productos-generados-por-division-de-sku-con-disponibilidad-incorrecta",
+                "pt": "a-busca-inteligente-retorna-produtos-gerados-pela-divisao-de-sku-com-disponibilidade-incorreta"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Intelligent Search Synonyms does not re-create deleted synonyms",
                 "es": "La función «Búsqueda inteligente de sinónimos» no vuelve a crear los sinónimos eliminados",
                 "pt": "A função \"Pesquisa inteligente de sinônimos\" não recria sinônimos excluídos"
@@ -61315,6 +61315,21 @@
             },
             {
               "name": {
+                "en": "Order Stuck in Payment Pending Despite Approved Transaction (OMS Reads Stale Status When Processing payment-approved)",
+                "es": "El pedido se queda atascado en estado de pago pendiente a pesar de que la transacción fue aprobada (el sistema de gestión de pedidos muestra un estado obsoleto al procesar el pago aprobado).",
+                "pt": "Pedido travado em \"Pagamento pendente\" apesar da transação ter sido aprovada (OMS lê status obsoleto ao processar pagamento aprovado)"
+              },
+              "slug": {
+                "en": "order-stuck-in-payment-pending-despite-approved-transaction-oms-reads-stale-status-when-processing-paymentapproved",
+                "es": "el-pedido-se-queda-atascado-en-estado-de-pago-pendiente-a-pesar-de-que-la-transaccion-fue-aprobada-el-sistema-de-gestion-de-pedidos-muestra-un-estado-obsoleto-al-procesar-el-pago-aprobado",
+                "pt": "pedido-travado-em-pagamento-pendente-apesar-da-transacao-ter-sido-aprovada-oms-le-status-obsoleto-ao-processar-pagamento-aprovado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Order Stuck in Payment Pending Due to Outdated Transaction Status",
                 "es": "Pedido bloqueado en pendiente de pago debido a un estado de transacción obsoleto",
                 "pt": "Pedido preso em pagamento pendente devido a status de transação desatualizado"
@@ -65220,6 +65235,21 @@
             },
             {
               "name": {
+                "en": "Fixed Price updates may overwrite concurrent changes",
+                "es": "Las actualizaciones de precio fijo pueden sobrescribir los cambios simultáneos.",
+                "pt": "As atualizações de preço fixo podem sobrescrever alterações simultâneas."
+              },
+              "slug": {
+                "en": "fixed-price-updates-may-overwrite-concurrent-changes",
+                "es": "las-actualizaciones-de-precio-fijo-pueden-sobrescribir-los-cambios-simultaneos",
+                "pt": "as-atualizacoes-de-preco-fixo-podem-sobrescrever-alteracoes-simultaneas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Fixed Prices import may incorrectly report success when SKU column is formatted as a number",
                 "es": "La importación de precios fijos puede informar incorrectamente que se realizó correctamente cuando la columna SKU está formateada como un número.",
                 "pt": "A importação de preços fixos pode reportar incorretamente sucesso quando a coluna SKU estiver formatada como um número."
@@ -68986,6 +69016,21 @@
                 "en": "amazon-sku-matching-status-reverts-to-pending-review-after-manual-confirmation",
                 "es": "amazon-el-estado-de-coincidencia-de-sku-vuelve-a-pendiente-de-revision-despues-de-la-confirmacion-manual",
                 "pt": "amazon-o-status-de-correspondencia-do-sku-volta-para-aguardando-revisao-apos-confirmacao-manual"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "AmazonMatch In some cases, SKU reverts to \"Pending Review\" after match confirmation, with no indication of Amazon's rejection reason",
+                "es": "AmazonCoincidencia En algunos casos, el SKU vuelve a estar en \"Pendiente de revisión\" después de la confirmación de la coincidencia, sin ninguna indicación del motivo del rechazo de Amazon.",
+                "pt": "AmazonMatch Em alguns casos, o SKU volta para \"Aguardando revisão\" após a confirmação da correspondência, sem nenhuma indicação do motivo da rejeição da Amazon."
+              },
+              "slug": {
+                "en": "amazonmatch-in-some-cases-sku-reverts-to-pending-review-after-match-confirmation-with-no-indication-of-amazons-rejection-reason",
+                "es": "amazoncoincidencia-en-algunos-casos-el-sku-vuelve-a-estar-en-pendiente-de-revision-despues-de-la-confirmacion-de-la-coincidencia-sin-ninguna-indicacion-del-motivo-del-rechazo-de-amazon",
+                "pt": "amazonmatch-em-alguns-casos-o-sku-volta-para-aguardando-revisao-apos-a-confirmacao-da-correspondencia-sem-nenhuma-indicacao-do-motivo-da-rejeicao-da-amazon"
               },
               "origin": "",
               "type": "markdown",

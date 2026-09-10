@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix
 ---
 
-Para instalar o Plugin para Wordpress da Suiteshare no seu site, é preciso: [FAZER O DOWNLOAD DO PLUGIN](\"https://short.suiteshare.com/suiteshare_wordpress\").
+Para instalar o Plugin para Wordpress da Suiteshare no seu site, é preciso: [FAZER O DOWNLOAD DO PLUGIN](https://short.suiteshare.com/suiteshare_wordpress).
 
 Após realizar o download, você deve acessar seu wordpress clicar em: **Plugins** -> **Adicionar novo** -> **Enviar plugin**
 

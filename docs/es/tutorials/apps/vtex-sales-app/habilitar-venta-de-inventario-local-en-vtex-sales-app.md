@@ -39,7 +39,7 @@ Tras crear una cuenta franquicia, debes [crear un seller](/es/docs/tutorials/agr
 
 Tras crear la cuenta franquicia, debes insertar tanto la dirección de la tienda física como un [punto de recogida](/es/docs/tutorials/puntos-de-recogida) disponible. Para ello, sigue las instrucciones en el artículo [Cómo configurar puntos de recogida](/es/docs/tutorials/puntos-de-recogida#como-configurar-pontos-de-retirada).
 
-Al punto de recogida creado se le asignará un ID que necesitarás al [Crear un almacén](crear-un-almacen). Si pierdes el ID, puedes verlo en la pantalla **Puntos de recogida** del Admin VTEX, en la columna **ID**.
+Al punto de recogida creado se le asignará un ID que necesitarás al [Crear un almacén](#crear-un-almacen). Si pierdes el ID, puedes verlo en la pantalla **Puntos de recogida** del Admin VTEX, en la columna **ID**.
 
 ## Crear un almacén
 
