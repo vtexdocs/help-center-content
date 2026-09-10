@@ -11,7 +11,7 @@ hidden: false
 
 > ℹ️ If you are already a VTEX customer and wish to adopt this functionality for your business, please contact [Commercial Support](/en/docs/tracks/commercial-support). Additional fees may apply. If you are not yet a customer but are interested in this solution, please fill out the [contact form](https://vtex.com/us-en/contact/).
 
-The [VTEX Pick and Pack](/en/docs/tutorials/vtex-pick-and-pack) mobile app helps the picker — the person who picks and packs items in the facility — handle orders, from picking to shipping. This makes the store's order picking and delivery flow smoother and more efficient.
+The [VTEX Pick and Pack](/en/docs/tutorials/vtex-pick-and-pack) mobile app helps the picker — the person who picks and packs items in the facility — handle orders, from picking to shipping. This makes the store order picking and delivery flow smoother and more efficient.
 
 ![pickpack-mobile-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-mobile_1.png)
 
