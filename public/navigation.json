@@ -39,8 +39,23 @@
               "children": [
                 {
                   "name": {
+                    "en": "Intelligent Search: Facets, keywords, and special character improvements",
+                    "es": "Intelligent Search: mejoras en filtros, palabras clave y caracteres especiales",
+                    "pt": "Intelligent Search: melhorias em filtros, keywords e caracteres especiais"
+                  },
+                  "slug": {
+                    "en": "2026-09-10-intelligent-search-filters-keywords-and-special-characters-improvements",
+                    "es": "2026-09-10-intelligent-search-mejoras-en-filtros-keywords-y-caracteres-especiales",
+                    "pt": "2026-09-10-intelligent-search-melhorias-em-filtros-keywords-e-caracteres-especiais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Intelligent Search: OR search results now ranked by relevance",
-                    "es": "Intelligent Search: resultados de búsqueda OR ahora ordenados por relevancia",
+                    "es": "Intelligent Search: los resultados de búsquedas OR ahora se ordenan por relevancia",
                     "pt": "Intelligent Search: Resultados de busca OR agora ordenados por relevância"
                   },
                   "slug": {
@@ -18595,21 +18610,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Activating SKUs in bulk",
-                    "es": "Activar SKUs en masa",
-                    "pt": "Ativar SKUs em massa"
-                  },
-                  "slug": {
-                    "en": "activating-skus-in-bulk",
-                    "es": "activar-skus-en-massa",
-                    "pt": "ativar-skus-em-massa"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Adding or editing products",
                     "es": "Agregar o editar productos",
                     "pt": "Adicionar ou editar produto"
@@ -34113,14 +34113,14 @@
                 },
                 {
                   "name": {
-                    "en": "WhatsApp: VTEX CX Platform Express integration",
-                    "es": "WhatsApp: Integración express con VTEX CX Platform",
-                    "pt": "WhatsApp: Integração Expressa no VTEX CX Platform"
+                    "en": "WhatsApp: VTEX CX Platform integration",
+                    "es": "WhatsApp: Integración con VTEX CX Platform",
+                    "pt": "WhatsApp: Integração com o VTEX CX Platform"
                   },
                   "slug": {
-                    "en": "whatsapp-vtex-cx-platform-express-integration",
-                    "es": "whatsapp-integracion-express-con-vtex-cx-platform",
-                    "pt": "whatsapp-integracao-expressa-no-vtex-cx-platform"
+                    "en": "whatsapp-vtex-cx-platform-integration",
+                    "es": "whatsapp-integracion-con-vtex-cx-platform",
+                    "pt": "whatsapp-integracao-com-o-vtex-cx-platform"
                   },
                   "origin": "",
                   "type": "markdown",

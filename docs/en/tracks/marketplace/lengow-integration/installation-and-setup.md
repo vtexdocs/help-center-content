@@ -61,7 +61,7 @@ You can find the information needed to fill out the **Lengow Account**, **Lengow
 <table width="100%">
   <tr>
    <td>
-    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/installation-and-setup_4.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Lengow API KEY / Secret" title="Lengow API KEY / Secret">
+    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/installation-and-setup_4.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Lengow API KEY / Secret" title="Lengow API KEY / Secret" />
    </td>
   </tr>
   <tr>
