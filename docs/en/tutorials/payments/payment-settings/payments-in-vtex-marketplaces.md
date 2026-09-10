@@ -58,15 +58,15 @@ To finish configuring a marketplace as the payment processor, when [Configuring 
 
 ### Payment data on the seller order
 
-When the marketplace processes the payment, the seller order can include the marketplace payment method in the `paymentData` object. This information is intended for invoice issuance and **does not** represent a transaction in the seller's [Payment Gateway](/en/docs/tutorials/what-is-a-payment-gateway).
+When the marketplace processes the payment, the seller order can include the marketplace payment method in the `paymentData` object. This information is for invoicing and doesn't represent a transaction in the [Payment Gateway](/en/docs/tutorials/what-is-a-payment-gateway) of the seller account.
 
-In the VTEX Admin, in the order payment section:
+In the VTEX Admin, open the order and go to __Payment__:
 
-- __Method__ shows the payment method or card brand used on the marketplace, for example, Mastercard.
-- A __Transaction ID__ equal to `PAYMENT-FROM-AFFILIATE` indicates that the marketplace (affiliate) assumed the payment.
-- The date under __Gateway authorization__ does not mean that the seller's Gateway authorized, captured, or refunded the transaction.
+- __Method__ shows the payment method or card brand used on the marketplace, for example, __Mastercard__.
+- __Transaction ID__ equal to `PAYMENT-FROM-AFFILIATE` indicates that the marketplace (affiliate) assumed the payment.
+- The date in __Gateway authorization__ doesn't mean that the Gateway of the seller account authorized, captured, or refunded the transaction.
 
-Older integrations may still show *Assumed value by affiliate* as the payment method name. For Brazilian invoices ([NT 2025.001](https://developers.vtex.com/updates/release-notes/2025-08-29-orders-api-support-for-nt-2025-001-fields)), sellers should read `paymentData` from [Get order](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-). See the field contract in [Marketplace payment data on seller orders](https://developers.vtex.com/docs/guides/marketplace-payment-data-on-seller-orders).
+Older integrations may still show *Assumed value by affiliate* as the payment method name. For Brazilian invoices ([NT 2025.001](https://developers.vtex.com/updates/release-notes/2025-08-29-orders-api-support-for-nt-2025-001-fields)), read `paymentData` from the [Get order](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-) endpoint. See [Marketplace payment data on seller orders](https://developers.vtex.com/docs/guides/marketplace-payment-data-on-seller-orders).
 
 ### VTEX Seller processing payments
 

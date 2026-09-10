@@ -47,7 +47,7 @@ Este modelo de split de pagos permite a los clientes de marketplace tener más c
 
 Los marketplaces pueden indicar cómo se debe dividir el importe de compra y qué porcentaje está reservado para el propio marketplace al definir comisiones automáticas por costo total de productos, flete o categoría de SKU para cada seller. En este caso, la transacción solo la procesa el proveedor de pagos del marketplace que será responsable de pagarle a cada seller.
 
-> ℹ️ Cuando el marketplace procesa el pago, el pedido del seller puede incluir `paymentData` con el medio usado en el marketplace. Un __ID de la transacción__ igual a `PAYMENT-FROM-AFFILIATE` indica que estos datos son fiscales y no corresponden a una transacción en el Gateway del seller. Obtén más información en [Pagos en los marketplaces VTEX](/es/docs/tutorials/pagos-en-los-marketplaces-vtex).
+> ℹ️ Cuando el marketplace procesa el pago, el pedido del seller puede incluir `paymentData` con el medio usado en el marketplace. Un __ID de la transacción__ igual a `PAYMENT-FROM-AFFILIATE` indica que estos datos son fiscales y no corresponden a una transacción en el Gateway de la cuenta del seller. Obtén más información en [Pagos en los marketplaces VTEX](/es/docs/tutorials/pagos-en-los-marketplaces-vtex).
 
 Por ejemplo, un comprador agrega dos productos al mismo carrito de compras. El marketplace entregará uno de ellos mientras que el otro pertenece a un seller llamado Seller A. Sin embargo, solo se genera una transacción, lo que significa que el consumidor solo verá una línea en el estado de cuenta de la tarjeta de crédito. 
 

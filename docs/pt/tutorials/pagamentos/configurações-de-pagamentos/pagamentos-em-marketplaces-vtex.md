@@ -58,15 +58,15 @@ Para finalizar a configuração que torna o marketplace o processador de pagamen
 
 ### Dados de pagamento no pedido do seller
 
-Quando o marketplace processa o pagamento, o pedido do seller pode exibir o meio usado no marketplace no objeto `paymentData`. Esses dados existem para o preenchimento da nota fiscal e **não** representam uma transação no [Gateway de pagamentos](/pt/docs/tutorials/o-que-e-um-gateway-de-pagamentos) do seller.
+Quando o marketplace processa o pagamento, o pedido do seller pode exibir o meio usado no marketplace no objeto `paymentData`. Esses dados existem para a emissão da nota fiscal e não representam uma transação no [Gateway de pagamentos](/pt/docs/tutorials/o-que-e-um-gateway-de-pagamentos) da conta do seller.
 
-No Admin VTEX, na seção de pagamento do pedido:
+No Admin VTEX, abra o pedido e acesse __Pagamento__:
 
-- __Método__ mostra o meio ou a bandeira usados no marketplace, por exemplo, Mastercard.
+- __Método__ mostra o meio ou a bandeira usados no marketplace, por exemplo, __Mastercard__.
 - __ID da transação__ igual a `PAYMENT-FROM-AFFILIATE` indica que o pagamento foi assumido pelo marketplace (afiliado).
-- A data em __Autorização do gateway__ não significa que o Gateway do seller autorizou, capturou ou estornou a transação.
+- A data em __Autorização do gateway__ não significa que o Gateway da conta do seller autorizou, capturou ou estornou a transação.
 
-Integrações mais antigas podem ainda mostrar o texto *Assumed value by affiliate* no nome do meio. Para notas fiscais no Brasil ([NT 2025.001](https://help.vtex.com/pt/announcements/novos-campos-obrigatorios-para-emissao-de-notas-fiscais--5jDozNwc272jtq92dvKQkq)), o seller deve ler `paymentData` no [Get order](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-). Veja o contrato dos campos em [Marketplace payment data on seller orders](https://developers.vtex.com/docs/guides/marketplace-payment-data-on-seller-orders).
+Integrações mais antigas podem ainda mostrar o texto *Assumed value by affiliate* no nome do meio. Para notas fiscais no Brasil ([NT 2025.001](https://help.vtex.com/pt/announcements/novos-campos-obrigatorios-para-emissao-de-notas-fiscais--5jDozNwc272jtq92dvKQkq)), leia `paymentData` no endpoint [Get order](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-). Saiba mais em [Marketplace payment data on seller orders](https://developers.vtex.com/docs/guides/marketplace-payment-data-on-seller-orders).
 
 ### Seller VTEX processando pagamentos
 

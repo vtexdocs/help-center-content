@@ -20,10 +20,10 @@ Ou seja, o pagamento é realizado no marketplace pelas formas de pagamento do ma
 
 No pedido do seller, o Admin VTEX pode mostrar o meio real usado no marketplace, por exemplo, __Cartão de crédito__ e __Mastercard__. Isso não significa que o pagamento foi processado pelos meios do seller.
 
-Para identificar que o marketplace assumiu o pagamento, confira o __ID da transação__: o valor `PAYMENT-FROM-AFFILIATE`.
+Para identificar que o marketplace assumiu o pagamento, confira o __ID da transação__: O valor é `PAYMENT-FROM-AFFILIATE`.
 
-> ℹ️ Os dados em `paymentData` servem para emitir a nota fiscal. Eles não disparam autorização, captura, estorno ou liquidação no Gateway do seller. Saiba mais em [Pagamentos em marketplaces VTEX](/pt/docs/tutorials/pagamentos-em-marketplaces-vtex).
+> ℹ️ Os dados em `paymentData` servem para emitir a nota fiscal. Eles não disparam autorização, captura, estorno ou liquidação no Gateway da conta do seller. Saiba mais em [Pagamentos em marketplaces VTEX](/pt/docs/tutorials/pagamentos-em-marketplaces-vtex).
 
-Em algumas integrações mais antigas, o OMS ainda exibe o texto *Assumed value by affiliate* no nome do meio, como no exemplo abaixo.
+Em algumas integrações mais antigas, o OMS ainda exibe o texto *Assumed value by affiliate* no nome do meio, como na imagem a seguir.
 
 ![exemplopagamento](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/channels/por-que-meus-meios-de-pagamento-nao-aparecem-no-marketplace_1.png)

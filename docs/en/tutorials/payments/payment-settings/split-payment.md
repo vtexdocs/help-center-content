@@ -47,7 +47,7 @@ This split payment model enables marketplace clients to gain more control and vi
 
 Marketplaces can indicate how the purchase amount should be split and which percentage is reserved for the marketplace itself defining automatic commissions per total cost of products, freight, or SKU's category for each seller with the transaction being processed only by the marketplace payment provider who will be responsible for paying out each seller.
 
-> ℹ️ When the marketplace processes the payment, the seller order can include `paymentData` with the method used on the marketplace. A __Transaction ID__ of `PAYMENT-FROM-AFFILIATE` means this information is for invoicing and does not correspond to a transaction in the seller’s Gateway. Learn more in [Payments in VTEX marketplaces](/en/docs/tutorials/payments-in-vtex-marketplaces).
+> ℹ️ When the marketplace processes the payment, the seller order can include `paymentData` with the method used on the marketplace. A __Transaction ID__ of `PAYMENT-FROM-AFFILIATE` means this information is for invoicing and doesn't correspond to a transaction in the Gateway of the seller account. See [Payments in VTEX marketplaces](/en/docs/tutorials/payments-in-vtex-marketplaces).
 
 For example, a shopper adds two products to the same shopping cart. One of them will be fulfilled by the marketplace itself and the other one belongs to a seller called Seller A. However, only one transaction is generated, meaning that the end consumer will only see one line in the credit card statement. 
 
