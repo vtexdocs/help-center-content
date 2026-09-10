@@ -1,18 +1,13 @@
 ---
 title: 'Introduction to VTEX CX Platform'
-id: 50MhPxb5jmKTOyW1UcWER3
 status: PUBLISHED
 createdAt: 2025-10-03T16:56:02.600Z
 updatedAt: 2025-05-13T14:20:03.474Z
-publishedAt: 2025-10-03T14:20:03.474Z
-firstPublishedAt: 2025-10-03T14:20:03.474Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: introduction-to-vtex-cx-platform
 legacySlug: introduction-to-agentic-cx
 locale: en
-subcategoryId: 7BtmQ6zk6O7VJ7QumXJEiM
 ---
 
 VTEX CX Platform is a VTEX native customer support tool that uses agents. These agents use artificial intelligence (AI) to interact with your customers, display your store catalog, and create a cart, among other actions.

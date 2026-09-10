@@ -1,18 +1,13 @@
 ---
 title: 'Criar automações do VTEX CX Platform'
-id: 4ijpXwff2x4A44AZw2tMzQ
 status: PUBLISHED
 createdAt: 2025-09-23T17:40:38.123Z
 updatedAt: 2025-10-03T14:20:03.399Z
-publishedAt: 2025-10-03T14:20:03.399Z
-firstPublishedAt: 2025-10-03T14:20:03.399Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: create-vtex-cx-platform-automations
+slugEN: creating-vtex-cx-platform-automations
 legacySlug: criando-agentes-ativos
 locale: pt
-subcategoryId: 7BtmQ6zk6O7VJ7QumXJEiM
 ---
 
 ## Visão geral
