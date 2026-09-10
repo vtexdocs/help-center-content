@@ -1,10 +1,10 @@
 ---
 title: 'Intelligent Search: melhorias em filtros, keywords e caracteres especiais'
-createdAt: 2026-08-15T00:00:00.000Z
-updatedAt: 2026-08-15T00:00:00.000Z
+createdAt: 2026-09-10T00:00:00.000Z
+updatedAt: 2026-09-10T00:00:00.000Z
 contentType: updates
 productTeam: Intelligent Search
-slugEN: 2026-08-15-intelligent-search-filters-keywords-and-special-characters-improvements
+slugEN: 2026-09-10-intelligent-search-filters-keywords-and-special-characters-improvements
 locale: pt
 announcementSynopsisPT: 'O Intelligent Search recebeu melhorias na visibilidade de filtros, na geração de keywords e no tratamento de caracteres especiais, além da correção de um bug no analisador de idioma inglês.'
 tags:
