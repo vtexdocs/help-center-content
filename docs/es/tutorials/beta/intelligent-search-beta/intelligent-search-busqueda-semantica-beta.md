@@ -17,7 +17,7 @@ subcategoryId: 23WdCYqmn2V2Z7SDlc14DF
 
 > ℹ️ La búsqueda semántica está disponible exclusivamente como parte del Search Optimizer Agent, un servicio adicional de optimización de búsqueda.
 > 
-> Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si ya eres cliente VTEX y deseas adoptar esta funcionalidad en tu empresa ponte en contacto con nuestro equipo de [Soporte comercial](/es/docs/tracks/soporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente, pero te interesa esta solución, llena el [formulario de contacto](https://vtex.com/es-mx/contacto/).
+> Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si ya eres cliente VTEX y deseas adoptar esta funcionalidad en tu empresa ponte en contacto con nuestro equipo de [Soporte comercial](/es/docs/tracks/soporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente, pero te interesa esta solución, llena el [formulario de contacto](https://www.vtex.com/es-mx/empezar/).
 
 Intelligent Search combina la precisión de la búsqueda léxica con la inteligencia de los modelos semánticos de búsqueda para ofrecer una experiencia relevante, fluida y adaptada a la intención del usuario.
 
@@ -81,4 +81,3 @@ A continuación se destacan los principales beneficios de esta solución para la
 * **Aumento en la conversión:** ofrecer resultados más relevantes reduce el tiempo que toma encontrar un producto, lo que puede acelerar la decisión de compra.
 * **Comprensión del lenguaje natural:** los clientes pueden realizar búsquedas con el mismo lenguaje que emplean en su día a día: frases completas, términos ambiguos o lenguaje informal. Por ejemplo, el cliente puede realizar la siguiente consulta `¿cuál es el mejor tenis para senderismo?`, y la búsqueda entiende que están buscando zapatos con características específicas, como impermeables y con suela de agarre reforzado.
 * **Soporte para búsquedas complejas:** ideal para catálogos con productos que cuentan con descripciones subjetivas (como moda, belleza o decoración), donde el atributo exacto puede no estar explícito, pero la intención del usuario puede inferirse claramente.
-

@@ -21,16 +21,16 @@ symptomFilters:
   - Restrição de acesso
 ---
 
-O [Site Editor](https://developers.vtex.com/docs/guides/working-with-site-editor) é o Content Management System (CMS) disponível para lojas que utilizam o [Store Framework](https://developers.vtex.com/docs/guides/store-framework). Em algumas situações, você pode encontrar dificuldades para abrir o Site Editor ou salvar conteúdo.
+O [Site Editor](https://developers.vtex.com/docs/guides/store-framework-working-with-site-editor) é o Content Management System (CMS) disponível para lojas que utilizam o [Store Framework](https://developers.vtex.com/docs/guides/store-framework). Em algumas situações, você pode encontrar dificuldades para abrir o Site Editor ou salvar conteúdo.
 
 Veja a seguir instruções instruções que podem ajudar a solucionar esses problemas no Site Editor.
 
 | Problema | Descrição | Instruções para resolução do problema |
-| ------------ | ------------- | ----------------------------------------- |
+| -------- | --------- | ------------------------------------- |
 | [O Site Editor não abre](#o-site-editor-nao-abre) | A página do Site Editor mostra uma tela em branco ou a mensagem `Algo deu errado`. | - [Verifique a integração de busca](#verificar-a-integracao-de-busca).<br> - [Verifique a configuração do tenant (apenas novas contas)](#verificar-a-configuracao-do-tenant-apenas-novas-contas). |
 | [Não consigo gerenciar o conteúdo da minha loja no Site Editor](#nao-consigo-gerenciar-o-conteudo-da-minha-loja-no-site-editor) | Não é possível editar, salvar ou excluir conteúdo no Site Editor. | - [Verifique se o perfil de acesso do usuário tem as permissões necessárias](#verificar-se-o-perfil-de-acesso-do-usuario-tem-as-permissoes-necessarias).<br> - [Verifique a localidade principal do domínio](#verificar-a-localidade-principal-do-dominio). |
-| [Perdi o conteúdo armazenado no Site Editor](#perdi-o-conteudo-armazenado-no-site-editor) | O conteúdo salvo no Site Editor foi perdido. | [Abra um ticket para o Suporte VTEX](#perdi-o-conteudo-armazenado-no-site-editor). |
-| [Continuo tendo problemas com o Site Editor](#continuo-tendo-problemas-com-o-site-editor) | Você ainda está tendo problemas com o Site Editor depois de tentar resolvê-los. | [Abra um ticket para o Suporte VTEX](#continuo-tendo-problemas-com-o-site-editor). |
+| [Perdi o conteúdo armazenado no Site Editor](#perdi-o-conteudo-armazenado-no-site-editor) | O conteúdo salvo no Site Editor foi perdido. | [Abra um ticket para o Suporte VTEX](https://supporticket.vtex.com/support). |
+| [Continuo tendo problemas com o Site Editor](#continuo-tendo-problemas-com-o-site-editor) | Você ainda está tendo problemas com o Site Editor depois de tentar resolvê-los. | [Abra um ticket para o Suporte VTEX](https://supporticket.vtex.com/support). |
 
 Para entender e corrigir cada erro, consulte as soluções abaixo:
 
@@ -50,7 +50,7 @@ Para solucionar esse erro, veja as instruções a seguir:
 Esse problema pode estar relacionado ao fato de a busca do [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) não estar integrada ao catálogo de sua loja. Siga os passos abaixo para integrá-la à sua loja:
 
 1. No VTEX Admin, acesse **Configurações da loja > Intelligent Search > Integrações**.
-2. Na página **Integrações**, todos os status devem estar ticados, como na imagem a seguir. 
+2. Na página **Integrações**, todos os status devem estar ticados, como na imagem a seguir.
 
     ![Site Editor - IS integrations PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/acesso-a-dados-e-segurança/o-site-editor-da-minha-loja-nao-esta-funcionando_2.png)
 
@@ -61,7 +61,7 @@ Esse problema pode estar relacionado ao fato de a busca do [Intelligent Search](
 
 ### Verificar a configuração do tenant (apenas novas contas)
 
-Se você já tem a [busca integrada](#verificar-a-integracao-de-busca) e ainda vê uma tela preta ao clicar em **Site Editor** no VTEX Admin, é possível que a loja não tenha definido o tenant ou exista um erro nessa configuração. 
+Se você já tem a [busca integrada](#verificar-a-integracao-de-busca) e ainda vê uma tela preta ao clicar em **Site Editor** no VTEX Admin, é possível que a loja não tenha definido o tenant ou exista um erro nessa configuração.
 
 A VTEX usa uma abordagem de arquitetura [SaaS multi-tenancy](https://developers.vtex.com/docs/guides/cloud-infrastructure#saas-multi-tenancy), em que cada conta é um tenant (locatário) que precisa estar conectado (vinculado) à arquitetura da VTEX para sincronização de dados e informações.
 
@@ -79,7 +79,7 @@ Para solucionar esse erro, veja as instruções a seguir:
 
 1. [Verifique se o perfil de acesso do usuário tem as permissões necessárias](#verificar-se-o-perfil-de-acesso-do-usuario-tem-as-permissoes-necessarias).
 2. [Verifique se a política comercial está configurada no catálogo](#verifique-se-a-politica-comercial-esta-configurada-no-catalogo)
-3. [Verifique o locale principal do domínio](#verificar-o-locale-principal-do-dominio)
+3. [Verifique o locale principal do domínio](#verificar-a-localidade-principal-do-dominio)
 
 ### Verificar se o perfil de acesso do usuário tem as permissões necessárias
 
@@ -87,7 +87,7 @@ Um possível motivo para esse problema pode estar relacionado à falta do [recur
 
 Certifique-se de que os usuários tenham o recurso `CMS GraphQL API` associado a seus perfis de acesso, seja [criando um novo perfil](/pt/docs/tutorials/perfis-de-acesso#creating-a-role) ou editando um existente.
 
-Se ainda não for possível gerenciar o conteúdo mesmo depois de adicionar o recurso `CMS GraphQL API` à função do usuário, veja a próxima seção: [Verificar o locale principal do domínio ](#verificando-o-locale-principal-do-dominio).
+Se ainda não for possível gerenciar o conteúdo mesmo depois de adicionar o recurso `CMS GraphQL API` à função do usuário, veja a próxima seção: [Verificar o locale principal do domínio](#verificar-a-localidade-principal-do-dominio).
 
 ### Verificar a localidade principal do domínio
 
@@ -98,7 +98,7 @@ Outro possível motivo para esse erro está relacionado à localidade configurad
 3. No menu suspenso, selecione o app `vtex.tenant-graphql@0.1.2`.
 4. Na caixa de texto, escreva a seguinte query:
 
-    ```
+    ```graphql
     query {
       tenantInfo {
         bindings {
@@ -109,6 +109,7 @@ Outro possível motivo para esse erro está relacionado à localidade configurad
       }
     }
     ```
+
 5. Verifique qual a localidade principal definida para sua loja. Essa informação está disponível no campo `defaultLocale`. Veja o exemplo abaixo.
 
     ![graphql-default-locale-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/acesso-a-dados-e-segurança/o-site-editor-da-minha-loja-nao-esta-funcionando_3.png)
@@ -118,10 +119,10 @@ Outro possível motivo para esse erro está relacionado à localidade configurad
 
     ![Site Editor - Locale PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/acesso-a-dados-e-segurança/o-site-editor-da-minha-loja-nao-esta-funcionando_4.png)
 
-  A localidade é considerada incorreta nos seguintes casos:
-    - A localidade é diferente do que a conta deveria usar. Por exemplo, a localidade está configurada como `pt-BR`, mas deveria ser `pt-PT`.
-    - A localidade está em letras minúsculas. Como essa configuração diferencia maiúsculas de minúsculas, a localidade deve aparecer como `pt-BR` ao invés vez de `pt-br`.
-    - A localidade configurada na política comercial é diferente do `defaultLocale` identificado.
+    A localidade é considerada incorreta nos seguintes casos:
+      - A localidade é diferente do que a conta deveria usar. Por exemplo, a localidade está configurada como `pt-BR`, mas deveria ser `pt-PT`.
+      - A localidade está em letras minúsculas. Como essa configuração diferencia maiúsculas de minúsculas, a localidade deve aparecer como `pt-BR` ao invés vez de `pt-br`.
+      - A localidade configurada na política comercial é diferente do `defaultLocale` identificado.
 
 8. Em todos os casos, abra um ticket para o [Suporte VTEX](https://supporticket.vtex.com/support) para solicitar a alteração da localidade configurada na política comercial. Lembre-se de incluir evidências do erro, como capturas de tela, logs de mensagens e detalhes da sua investigação prévia.
 
