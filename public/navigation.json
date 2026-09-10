@@ -14898,6 +14898,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "8. Notify failed delivery to Shopee",
+                    "es": "8. Notificar falla de entrega en Shopee",
+                    "pt": "8. Notificar falha de entrega na Shopee"
+                  },
+                  "slug": {
+                    "en": "notify-failed-delivery-shopee",
+                    "es": "notificar-falla-de-entrega-en-shopee",
+                    "pt": "notificar-falha-de-entrega-na-shopee"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
