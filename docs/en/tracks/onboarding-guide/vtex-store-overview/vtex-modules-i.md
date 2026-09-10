@@ -135,7 +135,7 @@ It is important to familiarize yourself with the main terms related to the modul
 | [Base price](/en/docs/tracks/preco-base-definicao-de-conceito) | Amount calculated by combining the __cost price__ and the __markup__. This is the SKU's reference price for all price tables. |
 | [List price](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#list-price) | Suggested selling price for an SKU. This price will be displayed on the product page as the __From__ price, while the base price will be displayed as the __To__ price. |
 | [Price rule](/en/docs/tracks/regra-de-preco-definicao-de-conceito) | Changes the SKU price on a specific price table without changing the base price on other tables. To do so, you need to create a price rule and associate it with the desired table. |
-| [Fixed price](/en/docs/tracks/preco-fixo-definicao-de-conceito) | Price that overrides all other price settings in a price table. |
+| [Fixed price](/en/docs/tracks/fixed-price-concept-definition) | Price that overrides all other price settings in a price table. |
 | [Price rounding](/en/docs/tracks/rounding-rules-concept-definition) | A pricing strategy based on price rounding. This method aims to influence the consumer's purchasing decision by displaying prices in a more user-friendly and intuitive format. |
 | [Price variation limiter](/en/docs/tracks/trava-de-preco-definicao-de-conceito) | Sets the maximum and minimum price variations for an item. This feature ensures that SKU prices are not changed to undesirable values. |
 

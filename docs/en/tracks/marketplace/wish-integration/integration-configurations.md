@@ -33,7 +33,7 @@ Shipping items using Wish ranges from the all-encompassing to the very specific.
   
 Specify if you'll use Wish Express in the setup. In case you won't, you may skip to next step.
 
-Remember that the shipping rate will be automatically set based on the [Logistics module shipping tables](/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/2Pj1gKR80QIuUhc0orMraD). This means that it the shipping will be dynamic and may vary due a change in the carrier's price table or even according to item availability.
+Remember that the shipping rate will be automatically set based on the [Logistics module shipping tables](/en/docs/tracks/inventory). This means that it the shipping will be dynamic and may vary due a change in the carrier's price table or even according to item availability.
 
 _ex: Carrier X has a shipping rate of U$ 7,00 to Atlanta (metropolitan region) in its price table. However, that price table is updated to U$ 9,55. Next time the inventory is updated, the shipping rate for that region will be updated for your Wish products._
  
