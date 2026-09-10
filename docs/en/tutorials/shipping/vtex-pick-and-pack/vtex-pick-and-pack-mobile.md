@@ -34,10 +34,10 @@ The **VTEX Pick and Pack** app menu provides the main features to help you navig
 Tap the <i class="fas fa-grip-lines"></i> icon in the top-right corner to open the menu,  where you'll find the following fields:
 
 - <i class="fas fa-house"></i> **Summary**:  Takes you to the app's home screen.
-- <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-mobile_11.png" alt="pickpack-logout" width="30" height="30">: Logs out of the app.
+- <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-mobile_11.png" alt="pickpack-logout" width="30" height="30" />: Logs out of the app.
 - <i class="fas fa-history"></i> **History**: Redirects to the history of completed worksheets.
 - <i class="fas fa-globe"></i> **Language**: Changes the app language.
-- **Change to** <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-mobile_12.png" alt="pickpack-logout" width="35" height="30">: Changes the facility where the order picking will be done.
+- **Change to** <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-mobile_12.png" alt="pickpack-logout" width="35" height="30" />: Changes the facility where the order picking will be done.
 - **Pending**: Redirects to the pending worksheets screen.
 - **To pack**: Redirects to the worksheets that are awaiting packing.
 - <i class="fas fa-bell"></i>: Notification area showing the latest changes to the worksheets.
