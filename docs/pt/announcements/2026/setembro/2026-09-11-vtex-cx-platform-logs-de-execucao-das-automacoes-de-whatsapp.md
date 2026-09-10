@@ -1,11 +1,11 @@
 ---
 title: 'VTEX CX Platform: logs de execução das automações de WhatsApp'
-slug: '2026-09-15-vtex-cx-platform-logs-de-execucao-das-automacoes-de-whatsapp'
-createdAt: 2026-09-15T00:00:00.000Z
-updatedAt: 2026-09-15T00:00:00.000Z
+slug: '2026-09-11-vtex-cx-platform-logs-de-execucao-das-automacoes-de-whatsapp'
+createdAt: 2026-09-11T00:00:00.000Z
+updatedAt: 2026-09-11T00:00:00.000Z
 contentType: updates
 productTeam: VTEX CX Platform
-slugEN: '2026-09-15-vtex-cx-platform-whatsapp-automation-execution-logs'
+slugEN: '2026-09-11-vtex-cx-platform-whatsapp-automation-execution-logs'
 locale: pt
 announcementSynopsisPT: 'A nova aba Logs das automações de WhatsApp registra cada envio com template, contato, pedido e status, e permite filtrar, ver o JSON dos erros e exportar os dados.'
 tags:
