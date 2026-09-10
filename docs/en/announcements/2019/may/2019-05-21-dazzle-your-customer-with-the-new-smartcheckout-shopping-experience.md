@@ -53,6 +53,4 @@ With these suggestions, your customers will be able to clearly and intuitively d
 
 In addition, Checkout v6 has a **shipping simulator** in the shopping cart stage, anticipating delivery scenarios that your customer may encounter during checkout.
 
-<br>
-
 For more on the topic, access our article about how to [activate Checkout v6](/en/docs/tutorials/enable-checkout-v6) in your store.

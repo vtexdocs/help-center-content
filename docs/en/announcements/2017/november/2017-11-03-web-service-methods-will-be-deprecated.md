@@ -19,9 +19,7 @@ As of __February 28__, we will discontinue the use of Web Service for integratio
 
 > ⚠️ Web Service will continue to work for the Catalog, while we work on the development of this service's REST APIs. We will let you know as soon as a migration schedule is defined.
 
-If your store still uses any of these methods, replace them with API integrations. Otherwise, as of February 28, these integrations will no longer work.
-
-VTEX has APIs that address all scenarios currently covered by Web Service methods, which is an old technology, for which there is less and less support.
+## What has changed?
 
 Below is a list of the Web Service methods that will be discontinued:
 
@@ -55,3 +53,11 @@ Below is a list of the Web Service methods that will be discontinued:
 - `WareHouseIStockableUpdate`
 - `WareHouseIStockableUpdateV3`
 - `ZipCodeGet`
+
+## Why did we make this change?
+
+VTEX has APIs that address all scenarios currently covered by Web Service methods, which are based on an older technology, for which there is less and less support.
+
+## What needs to be done?
+
+If your store still uses any of these methods, replace them with API integrations. Otherwise, as of February 28, these integrations will no longer work.

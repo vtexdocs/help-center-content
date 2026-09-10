@@ -34,11 +34,11 @@ The **Content Style Guide** provides writing and formatting guidelines that alig
 
 - [Formatting](https://contentguide.vtex.com/en/docs/formatting): Apply essential formatting rules for product content.
 
-- [Interface Copy](https://contentguide.vtex.com/en/docs/user-interfaces): Write strings for consistent interface elements that enhance usability.
+- [Interface Copy](https://contentguide.vtex.com/en/docs/interface-copy): Write strings for consistent interface elements that enhance usability.
 
 - [Documentation](https://contentguide.vtex.com/en/docs/documentation): Create clear, practical help articles and developer guides that communicate knowledge effectively.
 
-- [Glossary](LINK): Apply terms already being used and translated across all VTEX products.
+- [Glossary](https://contentguide.vtex.com/docs/glossary): Apply terms already being used and translated across all VTEX products.
 
 ## Why did we create this portal?
 

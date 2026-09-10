@@ -17,33 +17,32 @@ subcategoryId: 4hisB47iAVZk4r3SEmMoG
 
 ![Shared products product details ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/marketplace/sellers/seller-portal/seller-portal-detalles-del-producto_1.jpg)
 
-En la página «Detalles del producto» en la funcionalidad [Produtos Compartidos](/es/docs/tutorials/seller-portal-productos-compartidos) se puede ver toda la información sobre un producto específico. A partir de ella el seller puede: 
+En la página «Detalles del producto» en la funcionalidad [Produtos Compartidos](/es/docs/tutorials/seller-portal-productos-compartidos) se puede ver toda la información sobre un producto específico. A partir de ella el seller puede:
 
-- Visualizar la *Información General* registrada por el marketplace para ese producto, como su ID, foto, marca, categoría y descripción.   
-- Visualizar la información de los SKU vinculados al producto, es decir, sus variaciones con características específicas que lo diferencian de las otras opciones que ofrece su tienda para ese mismo producto.  
+- Visualizar la *Información General* registrada por el marketplace para ese producto, como su ID, foto, marca, categoría y descripción.
+- Visualizar la información de los SKU vinculados al producto, es decir, sus variaciones con características específicas que lo diferencian de las otras opciones que ofrece su tienda para ese mismo producto.
 
 Para los productos ya importados, la página también permite:
-- Editar el precio del producto, para que se convierta en un anuncio en el marketplace.  
-- Editar el nivel de stock del producto, para que se convierta en un anuncio en el marketplace.  
-- Activar el producto, para que esté realmente disponible para la venta en el marketplace.  
+- Editar el precio del producto, para que se convierta en un anuncio en el marketplace.
+- Editar el nivel de stock del producto, para que se convierta en un anuncio en el marketplace.
+- Activar el producto, para que esté realmente disponible para la venta en el marketplace.
 
 Para acceder a la página «Detalles del producto», acceda a Productos > Catálogo > Productos compartidos > Importados > Producto de la lista.
 
 ### Activar productos compartidos en el marketplace
 
-  1. En Precios > Catálogo, acceda a la pestaña **Produtos Compartidos**.   
+  1. En Precios > Catálogo, acceda a la pestaña **Produtos Compartidos**.
   2. En la pestaña  «Importados», seleccione el **producto** que desea activar.
-  3. Haga clic en **Editar precio**.  
-*Será dirigido al módulo «Precios» para completar la configuración.  Consulte nuestra documentación para obtener más información.*  
-  4. Haga clic en **Editar stock**.  
-*Será dirigido al módulo «Stock» para completar la configuración. Consulte nuestra documentación para obtener más información.*   
+  3. Haga clic en **Editar precio**.
+*Será dirigido al módulo «Precios» para completar la configuración.  Consulte nuestra documentación para obtener más información.*
+  4. Haga clic en **Editar stock**.
+*Será dirigido al módulo «Stock» para completar la configuración. Consulte nuestra documentación para obtener más información.*
   5. Seleccione la opción **Activar producto**.
 
-Una vez completada la configuración de precio y stock, su producto se convertirá automáticamente en un anuncio en el marketplace. Para saber más sobre la venta de productos compartidos en el marketplace, consulte nuestro artículo sobre [Anuncios](/es/docs/tutorials/anuncios-y-envio-de-productos-al-marketplace). 
+Una vez completada la configuración de precio y stock, su producto se convertirá automáticamente en un anuncio en el marketplace. Para saber más sobre la venta de productos compartidos en el marketplace, consulte nuestro artículo sobre [Anuncios](/es/docs/tutorials/anuncios-y-envio-de-productos-al-marketplace).
 
 ## Artículos Relacionados
 
-- [Seller Portal: Produtos Compartilhados](/admin/app/docs/seller-portal/tutorials/6vUGj2UmOuLzQTK9pj04lu)  
-- [Seller Portal: Como Funciona o Catálogo](/admin/app/docs/seller-portal/tutorials/7pMB6YOt6YQDQQbzFB4Pxp)        
-- [Seller Portal: Anúncios e o Envio de Produtos para o Marketplace](/es/docs/tutorials/anuncios-y-envio-de-productos-al-marketplace)     
-
+- [Seller Portal: Productos Compartidos](/es/docs/tutorials/seller-portal-productos-compartidos)
+- [Seller Portal: Cómo funciona el Catálogo](/es/docs/tutorials/como-funciona-el-catalogo-del-seller-portal)
+- [Seller Portal: Anúncios e o Envio de Produtos para o Marketplace](/es/docs/tutorials/anuncios-y-envio-de-productos-al-marketplace)

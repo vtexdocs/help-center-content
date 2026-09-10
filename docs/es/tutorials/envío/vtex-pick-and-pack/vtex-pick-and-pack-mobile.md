@@ -30,10 +30,10 @@ Para acceder al menú, haz clic en el ícono <i class="fas fa-grip-lines"></i> e
 ![pickpack-menu-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-mobile_2.png)
 
 - <i class="fas fa-house"></i> __Resumen__: botón que redirige a la pantalla de inicio de la aplicación.
-- <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-mobile_12.png" alt="pickpack-logout" width="30" height="30">: botón para cerrar sesión en la aplicación.
+- <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-mobile_12.png" alt="pickpack-logout" width="30" height="30" />: botón para cerrar sesión en la aplicación.
 - <i class="fas fa-history"></i> __Historial__: botón que redirige al historial de hojas de trabajo finalizadas.
 - <i class="fas fa-globe"></i> Idioma: botón para cambiar el idioma de la aplicación.
-- __Cambiar a__ <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-mobile_13.png" alt="pickpack-logout" width="35" height="30">: botón para cambiar la instalación donde se realizará el alistamiento de los pedidos.
+- __Cambiar a__ <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-mobile_13.png" alt="pickpack-logout" width="35" height="30" />: botón para cambiar la instalación donde se realizará el alistamiento de los pedidos.
 - Pendientes: botón que redirige a la pantalla de hojas de trabajo pendientes.
 -__A empacar__: botón que redirige a la pantalla de hojas de trabajo que están listas para empaque.
 - <i class="fas fa-bell"></i>: sección de notificaciones de los últimos cambios en las hojas de trabajo.
@@ -80,7 +80,7 @@ Para agregar una hoja de trabajo sigue los pasos a continuación:
 3. Marca las casillas de los pedidos que deseas incluir en la hoja de trabajo. Para crear una hoja de trabajo con todos los pedidos, haz clic en Seleccionar todo.
 4. Haz clic en `Empezar a alistar`.
 
-Para buscar un pedido, escribe el ID del pedido en la barra de búsqueda. Para filtrar la lista de pedidos, haz clic en <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-mobile_14.png" alt="pickpack-filter" width="30" height="30"> y selecciona una o más de las siguientes opciones:
+Para buscar un pedido, escribe el ID del pedido en la barra de búsqueda. Para filtrar la lista de pedidos, haz clic en <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-mobile_14.png" alt="pickpack-filter" width="30" height="30" /> y selecciona una o más de las siguientes opciones:
 
 * Fecha de entrega
 * [Categorías](/es/docs/tutorials/que-es-una-categoria)

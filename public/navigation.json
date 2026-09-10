@@ -25,6 +25,82 @@
           "children": [
             {
               "name": {
+                "en": "September",
+                "es": "Septiembre",
+                "pt": "Setembro"
+              },
+              "slug": {
+                "en": "2026-september",
+                "es": "2026-septiembre",
+                "pt": "2026-setembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "VTEX CX Platform: WhatsApp automation execution logs",
+                    "es": "VTEX CX Platform: logs de ejecución de las automatizaciones de WhatsApp",
+                    "pt": "VTEX CX Platform: logs de execução das automações de WhatsApp"
+                  },
+                  "slug": {
+                    "en": "2026-09-11-vtex-cx-platform-whatsapp-automation-execution-logs",
+                    "es": "2026-09-11-vtex-cx-platform-logs-de-ejecucion-de-las-automatizaciones-de-whatsapp",
+                    "pt": "2026-09-11-vtex-cx-platform-logs-de-execucao-das-automacoes-de-whatsapp"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Intelligent Search: Facets, keywords, and special character improvements",
+                    "es": "Intelligent Search: mejoras en filtros, palabras clave y caracteres especiales",
+                    "pt": "Intelligent Search: melhorias em filtros, keywords e caracteres especiais"
+                  },
+                  "slug": {
+                    "en": "2026-09-10-intelligent-search-filters-keywords-and-special-characters-improvements",
+                    "es": "2026-09-10-intelligent-search-mejoras-en-filtros-keywords-y-caracteres-especiales",
+                    "pt": "2026-09-10-intelligent-search-melhorias-em-filtros-keywords-e-caracteres-especiais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Intelligent Search: OR search results now ranked by relevance",
+                    "es": "Intelligent Search: los resultados de búsquedas OR ahora se ordenan por relevancia",
+                    "pt": "Intelligent Search: Resultados de busca OR agora ordenados por relevância"
+                  },
+                  "slug": {
+                    "en": "2026-09-03-or-search-results-now-ranked-by-relevance",
+                    "es": "2026-09-03-resultados-de-busqueda-or-ahora-ordenados-por-relevancia",
+                    "pt": "2026-09-03-resultados-de-busca-or-agora-ordenados-por-relevancia"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Intelligent Search: Synonym conflict detection",
+                    "es": "Intelligent Search: detección de sinónimos conflictivos",
+                    "pt": "Intelligent Search: detecção de sinônimos conflitantes"
+                  },
+                  "slug": {
+                    "en": "2026-09-01-intelligent-search-synonym-conflict-detection",
+                    "es": "2026-09-01-intelligent-search-deteccion-de-sinonimos-conflictivos",
+                    "pt": "2026-09-01-intelligent-search-deteccao-de-sinonimos-conflitantes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "August",
                 "es": "Agosto",
                 "pt": "Agosto"
@@ -37,6 +113,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Privacy and security: ISO/IEC 27701 recertification and updates to DPA and subprocessors",
+                    "es": "Privacidad y seguridad: recertificación ISO/IEC 27701 y actualizaciones del DPA y subprocesadores",
+                    "pt": "Privacidade e segurança: recertificação ISO/IEC 27701 e atualizações em DPA e subprocessadores"
+                  },
+                  "slug": {
+                    "en": "2026-08-28-privacy-and-security-iso-iec-27701-recertification-and-updates-to-dpa-and-subprocessors",
+                    "es": "2026-08-28-privacidad-y-seguridad-recertificacion-iso-iec-27701-y-actualizaciones-del-dpa-y-subprocesadores",
+                    "pt": "2026-08-28-privacidade-e-seguranca-recertificacao-iso-iec-27701-e-atualizacoes-em-dpa-e-subprocessadores"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "New Impression Share metrics in VTEX Ads",
@@ -7753,7 +7844,7 @@
               "children": [
                 {
                   "name": {
-                    "en": "New Master Data API increases configuration flexibility",
+                    "en": "Master Data: New Master Data API increases configuration flexibility",
                     "es": "La nueva API del Master Data aumenta la flexibilidad de  configuración",
                     "pt": "Nova API do Master Data aumenta flexibilidade de configuração"
                   },
@@ -7768,7 +7859,7 @@
                 },
                 {
                   "name": {
-                    "en": "New CDN gives more security and speed",
+                    "en": "New CDN provides greater security and speed",
                     "es": "Nueva CDN ofrece más seguridad y velocidad",
                     "pt": "Nova CDN oferece mais segurança e velocidade"
                   },
@@ -7844,7 +7935,7 @@
                 },
                 {
                   "name": {
-                    "en": "We're launching your personal data set up screen",
+                    "en": "We're launching the personal data setup screen",
                     "es": "Lanzamos la pantalla de configuración de sus datos personales",
                     "pt": "Lançamos a tela de configuração dos seus dados pessoais"
                   },
@@ -7889,7 +7980,7 @@
                 },
                 {
                   "name": {
-                    "en": "VTEX login now needs 2-factor authentication",
+                    "en": "VTEX login now requires 2-factor authentication",
                     "es": "Login en VTEX ahora necesita autenticación de 2 factores",
                     "pt": "Login na VTEX agora precisa de autenticação de 2 fatores"
                   },
@@ -7965,7 +8056,7 @@
                 },
                 {
                   "name": {
-                    "en": "We released the new Order Placed",
+                    "en": "We've released the new Order Placed page",
                     "es": "Ya está live el nuevo Order Placed",
                     "pt": "Lançamos o novo Order Placed"
                   },
@@ -7980,7 +8071,7 @@
                 },
                 {
                   "name": {
-                    "en": "As of 11/13 VTEX APIs will no longer support authentication via email and password",
+                    "en": "As of 11/13, VTEX APIs will no longer support authentication via email and password",
                     "es": "A partir de 13/11 APIs VTEX dejarán de soportar autenticación por email y contraseña",
                     "pt": "A partir de 13/11 APIs VTEX deixarão de suportar autenticação por e-mail e senha"
                   },
@@ -8025,7 +8116,7 @@
                 },
                 {
                   "name": {
-                    "en": "VTEX stores now have automatic image compiling to WebP",
+                    "en": "VTEX stores now have automatic image conversion to WebP",
                     "es": "Tiendas VTEX ahora tienen compresión automática de imágenes para WebP",
                     "pt": "Lojas VTEX agora têm compactação automática de imagens para WebP"
                   },
@@ -9011,36 +9102,6 @@
                 "en": "why-is-my-product-appearing-in-the-wrong-category",
                 "es": "por-que-mi-producto-aparece-en-la-categoria-incorrecta",
                 "pt": "por-que-meu-produto-esta-aparecendo-na-categoria-errada"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Why is my store’s zoom not working?",
-                "es": "¿Por qué no funciona el zoom de mi tienda?",
-                "pt": "Por que o zoom da minha loja não funciona?"
-              },
-              "slug": {
-                "en": "why-is-my-stores-zoom-not-working",
-                "es": "por-que-no-funciona-el-zoom-de-mi-tienda",
-                "pt": "por-que-o-zoom-da-minha-loja-nao-funciona"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Why is the \"thumb\" image of poor quality?",
-                "es": "¿Por qué la imagen \"thumb\" está en baja calidad?",
-                "pt": "Por que a imagem \"thumb\" está em baixa qualidade?"
-              },
-              "slug": {
-                "en": "why-is-the-thumb-image-of-poor-quality",
-                "es": "por-que-la-imagen-thumb-esta-en-baja-calidad",
-                "pt": "porque-a-imagem-thumb-esta-em-baixa-qualidade"
               },
               "origin": "",
               "type": "markdown",
@@ -10145,12 +10206,12 @@
                 {
                   "name": {
                     "en": "3. Cross-border stores",
-                    "es": "3. Tiendas transfronterizas (cross-border)",
+                    "es": "3. Tiendas internacionales (cross-border)",
                     "pt": "3. Lojas internacionais (cross-border)"
                   },
                   "slug": {
                     "en": "cross-border-stores",
-                    "es": "tiendas-transfronterizas-cross-border",
+                    "es": "tiendas-internacionales-cross-border",
                     "pt": "lojas-internacionais-cross-border"
                   },
                   "origin": "",
@@ -16305,6 +16366,69 @@
       "categories": [
         {
           "name": {
+            "en": "Admin VTEX",
+            "es": "Admin VTEX",
+            "pt": "Admin VTEX"
+          },
+          "slug": {
+            "en": "admin-vtex",
+            "es": "admin-vtex-subcategoria",
+            "pt": "admin-vtex-subcategoria"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Gestión de la cuenta",
+                "es": "Gestión de la cuenta",
+                "pt": "Gerenciamento da conta"
+              },
+              "slug": {
+                "en": "gestion-de-la-cuenta",
+                "es": "gestion-de-la-cuenta-categoria",
+                "pt": "gerenciamento-da-conta-categoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Cuentas",
+                    "es": "Cuentas",
+                    "pt": "Contas"
+                  },
+                  "slug": {
+                    "en": "cuentas",
+                    "es": "cuentas-subcategoria",
+                    "pt": "contas-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "es": "Cambiar el logotipo del boleto",
+                        "pt": "Alterar o logotipo do boleto",
+                        "en": "Cambiar el logotipo del boleto"
+                      },
+                      "slug": {
+                        "es": "cambiar-el-logotipo-del-boleto",
+                        "pt": "alterar-o-logotipo-do-boleto",
+                        "en": ""
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": {
             "en": "VTEX Admin",
             "es": "Admin VTEX",
             "pt": "Admin VTEX"
@@ -16421,21 +16545,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": [
-                    {
-                      "name": {
-                        "en": "Changing the logo on the bank slip",
-                        "es": "Cambiar el logotipo del boleto",
-                        "pt": "Alterar o logotipo do boleto"
-                      },
-                      "slug": {
-                        "en": "changing-the-logo-on-the-bank-slip",
-                        "es": "cambiar-el-logotipo-del-boleto",
-                        "pt": "alterar-o-logotipo-do-boleto"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
                     {
                       "name": {
                         "en": "Changing the store domain",
@@ -18516,21 +18625,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Activating SKUs in bulk",
-                    "es": "Activar SKUs en masa",
-                    "pt": "Ativar SKUs em massa"
-                  },
-                  "slug": {
-                    "en": "activating-skus-in-bulk",
-                    "es": "activar-skus-en-massa",
-                    "pt": "ativar-skus-em-massa"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Adding or editing products",
                     "es": "Agregar o editar productos",
                     "pt": "Adicionar ou editar produto"
@@ -20231,6 +20325,21 @@
                 },
                 {
                   "name": {
+                    "en": "CMS roles and permissions",
+                    "es": "CMS roles y permisos",
+                    "pt": "CMS perfis de acesso e permissões"
+                  },
+                  "slug": {
+                    "en": "cms-roles-and-permissions",
+                    "es": "cms-roles-y-permisos",
+                    "pt": "cms-perfis-de-acesso-e-permissoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Configuring stores",
                     "es": "Configurar tiendas",
                     "pt": "Configurar lojas"
@@ -20239,21 +20348,6 @@
                     "en": "cms-configuring-stores",
                     "es": "cms-configurar-tiendas",
                     "pt": "cms-configurar-lojas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Roles and permissions",
-                    "es": "Roles y permisos",
-                    "pt": "Perfis de acesso e permissões"
-                  },
-                  "slug": {
-                    "en": "roles-and-permissions",
-                    "es": "roles-y-permisos",
-                    "pt": "perfis-de-acesso-e-permissoes"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20533,6 +20627,21 @@
                     },
                     {
                       "name": {
+                        "en": "Configuring zoom and thumbnails in CMS Portal (Legacy) stores",
+                        "es": "Configurar zoom y miniaturas en tiendas CMS Portal (Legado)",
+                        "pt": "Configurando zoom e miniaturas em lojas CMS Portal (Legado)"
+                      },
+                      "slug": {
+                        "en": "configuring-zoom-and-thumbnails-in-cms-portal-legacy-stores",
+                        "es": "configurar-zoom-y-miniaturas-en-tiendas-cms-portal-legado",
+                        "pt": "configurando-zoom-e-miniaturas-em-lojas-cms-portal-legado"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Enabling PWA push notifications in your store",
                         "es": "Habilitar las notificaciones PWA de la tienda",
                         "pt": "Habilitando notificações PWA da loja"
@@ -20586,21 +20695,6 @@
                         "en": "set-the-store-display-language",
                         "es": "definir-el-idioma-de-visualizacion-de-la-tienda",
                         "pt": "definir-o-idioma-de-exibicao-da-loja"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Setting up the standard size for the zoom image",
-                        "es": "Configurar el tamaño estándar de la imagen de zoom",
-                        "pt": "Configurar o tamanho padrão da imagem de zoom"
-                      },
-                      "slug": {
-                        "en": "setting-up-the-standard-size-for-the-zoom-image",
-                        "es": "configurar-el-tamano-estandar-de-la-imagen-de-zoom",
-                        "pt": "configurar-o-tamanho-padrao-da-imagem-de-zoom"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -22589,12 +22683,12 @@
                 {
                   "name": {
                     "en": "VTEX Pick and Pack: Insights",
-                    "es": "VTEX Pick and Pack: Análisis",
+                    "es": "VTEX Pick and Pack: Insights",
                     "pt": "VTEX Pick and Pack: Insights"
                   },
                   "slug": {
                     "en": "vtex-pick-and-pack-insights",
-                    "es": "vtex-pick-and-pack-analisis",
+                    "es": "vtex-pick-and-pack-insights",
                     "pt": "vtex-pick-and-pack-insights"
                   },
                   "origin": "",
@@ -25252,12 +25346,12 @@
               "children": [
                 {
                   "name": {
-                    "en": "How are the payments made through bank slips approved?",
+                    "en": "How are the payments made through Boletos approved?",
                     "es": "¿Cómo se hace la aprobación de  pago del boleto?",
                     "pt": "Como é feita a aprovação de pagamento do boleto?"
                   },
                   "slug": {
-                    "en": "how-are-the-payments-made-through-bank-slips-approved",
+                    "en": "how-are-the-payments-made-through-boletos-approved",
                     "es": "como-se-hace-la-aprobacion-de-pago-del-boleto",
                     "pt": "como-e-feita-a-aprovacao-de-pagamento-do-boleto"
                   },
@@ -25343,12 +25437,12 @@
                 },
                 {
                   "name": {
-                    "en": "Configuring bank slips",
+                    "en": "Configuring a Boleto",
                     "es": "Configurar boleto bancario",
                     "pt": "Configurar boleto bancário"
                   },
                   "slug": {
-                    "en": "how-to-configure-a-bank-slip",
+                    "en": "how-to-configure-a-boleto",
                     "es": "como-configurar-boleto-bancario",
                     "pt": "como-configurar-boleto-bancario"
                   },
@@ -29334,12 +29428,12 @@
                 },
                 {
                   "name": {
-                    "en": "Why does payment with registered bank slip require authentication?",
+                    "en": "Why does payment with registered Boleto require authentication?",
                     "es": "¿Por qué el pago por boleto registrado requiere autenticación?",
                     "pt": "Por que o pagamento por boleto registrado exige autenticação?"
                   },
                   "slug": {
-                    "en": "why-does-payment-with-registered-bank-slip-require-authentication",
+                    "en": "why-does-payment-with-registered-boleto-require-authentication",
                     "es": "por-que-el-pago-por-boleto-registrado-requiere-autenticacion",
                     "pt": "por-que-o-pagamento-por-boleto-registado-exige-autenticacao"
                   },
@@ -34019,14 +34113,14 @@
                 },
                 {
                   "name": {
-                    "en": "WhatsApp: VTEX CX Platform Express integration",
-                    "es": "WhatsApp: Integración express con VTEX CX Platform",
-                    "pt": "WhatsApp: Integração Expressa no VTEX CX Platform"
+                    "en": "WhatsApp: VTEX CX Platform integration",
+                    "es": "WhatsApp: Integración con VTEX CX Platform",
+                    "pt": "WhatsApp: Integração com o VTEX CX Platform"
                   },
                   "slug": {
-                    "en": "whatsapp-vtex-cx-platform-express-integration",
-                    "es": "whatsapp-integracion-express-con-vtex-cx-platform",
-                    "pt": "whatsapp-integracao-expressa-no-vtex-cx-platform"
+                    "en": "whatsapp-vtex-cx-platform-integration",
+                    "es": "whatsapp-integracion-con-vtex-cx-platform",
+                    "pt": "whatsapp-integracao-com-o-vtex-cx-platform"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -34337,7 +34431,7 @@
                 {
                   "name": {
                     "en": "VTEX CX Platform: Overview",
-                    "es": "VTEX CX Platform: Visión de conjunto",
+                    "es": "Información general de VTEX CX Platform",
                     "pt": "Visão geral do VTEX CX Platform"
                   },
                   "slug": {
@@ -34445,8 +34539,8 @@
             },
             {
               "name": {
-                "en": "Audit Overview",
-                "es": "Auditoría Overview",
+                "en": "Audit: Overview",
+                "es": "Auditoría: Información general",
                 "pt": "Auditoria Overview"
               },
               "slug": {
@@ -34474,7 +34568,7 @@
                 },
                 {
                   "name": {
-                    "en": "Audit: Improvements Backlog",
+                    "en": "Audit: Improvement backlog",
                     "es": "Auditoría: Backlog de mejoras",
                     "pt": "Auditoria: Backlog de melhorias"
                   },
@@ -68937,6 +69031,21 @@
                 "en": "category-mapping-via-xls-not-reprocessed-for-accounts-with-large-volume-of-suggestions",
                 "es": "la-asignacion-de-categorias-mediante-xls-no-se-reprocesa-para-cuentas-con-un-gran-volumen-de-sugerencias",
                 "pt": "o-mapeamento-de-categorias-via-xls-nao-e-reprocessado-para-contas-com-grande-volume-de-sugestoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CentauroKI Mapper filer have 1MB file size limit on API uploads",
+                "es": "CentauroKI El servidor de archivos Mapper tiene un límite de tamaño de archivo de 1 MB para las cargas de API.",
+                "pt": "CentauroKI O mapeador de arquivos tem um limite de tamanho de arquivo de 1 MB para uploads via API."
+              },
+              "slug": {
+                "en": "centauroki-mapper-filer-have-1mb-file-size-limit-on-api-uploads",
+                "es": "centauroki-el-servidor-de-archivos-mapper-tiene-un-limite-de-tamano-de-archivo-de-1-mb-para-las-cargas-de-api",
+                "pt": "centauroki-o-mapeador-de-arquivos-tem-um-limite-de-tamanho-de-arquivo-de-1-mb-para-uploads-via-api"
               },
               "origin": "",
               "type": "markdown",

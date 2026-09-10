@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:01:07.101Z
 contentType: tutorial
 productTeam: Financial
 author: authors_59
-slugEN: why-does-payment-with-registered-bank-slip-require-authentication
+slugEN: why-does-payment-with-registered-boleto-require-authentication
 legacySlug: por-que-el-pago-por-boleto-registrado-requiere-autenticacion
 locale: es
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

@@ -74,7 +74,7 @@ To define the actions a user can perform in the VTEX Admin, follow the instructi
 
 You need to configure the [authentication](/en/docs/tutorials/authentication) method that will be available to customers when logging in to the store and admin users when logging in to the VTEX Admin. Authentication in the VTEX environment can be done in several ways. For example, access code and password are always available, while Google is optional.
 
-To log in to the store, VTEX provides authentication by access code, password, [Facebook](/en/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook), and [Google](/en/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google) so that you can enable one or more authentication methods. The instructions for enabling these solutions can be found in the [Authentication](/en/docs/tutorials/authentication#login) article.
+To log in to the store, VTEX provides authentication by access code, password, [Facebook](/en/docs/tutorials/adding-a-client-id-and-a-client-secret-to-log-in-with-facebook), and [Google](/en/docs/tutorials/adding-a-client-id-and-a-client-secret-to-log-in-with-google) so that you can enable one or more authentication methods. The instructions for enabling these solutions can be found in the [Authentication](/en/docs/tutorials/authentication#login) article.
 
 ## Integration and app development authentication
 

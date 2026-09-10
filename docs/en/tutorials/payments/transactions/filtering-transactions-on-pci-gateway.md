@@ -86,7 +86,7 @@ This filter shows the payment methods of the transactions that were carried out 
 Some examples of payment methods are:
 
 - Visa
-- Bank slip
+ - Boleto
 - Notes Payable
 - Mercado Pago
 - Pay Pal
