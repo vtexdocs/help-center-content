@@ -18610,21 +18610,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Activating SKUs in bulk",
-                    "es": "Activar SKUs en masa",
-                    "pt": "Ativar SKUs em massa"
-                  },
-                  "slug": {
-                    "en": "activating-skus-in-bulk",
-                    "es": "activar-skus-en-massa",
-                    "pt": "ativar-skus-em-massa"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Adding or editing products",
                     "es": "Agregar o editar productos",
                     "pt": "Adicionar ou editar produto"
