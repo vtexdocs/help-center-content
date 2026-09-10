@@ -56,6 +56,18 @@ For the marketplace system to process payments, you need to access the [Payments
 
 To finish configuring a marketplace as the payment processor, when [Configuring an affiliate](/en/docs/tutorials/configuring-affiliates), the __Use my payment method__ option must be unchecked.
 
+### Payment data on the seller order
+
+When the marketplace processes the payment, the seller order can include the marketplace payment method in the `paymentData` object. This information is for invoicing and doesn't represent a transaction in the [Payment Gateway](/en/docs/tutorials/what-is-a-payment-gateway) of the seller account.
+
+In the VTEX Admin, open the order and go to __Payment__:
+
+- __Method__ shows the payment method or card brand used on the marketplace, for example, __Mastercard__.
+- __Transaction ID__ equal to `PAYMENT-FROM-AFFILIATE` indicates that the marketplace (affiliate) assumed the payment.
+- The date in __Gateway authorization__ doesn't mean that the Gateway of the seller account authorized, captured, or refunded the transaction.
+
+Older integrations may still show *Assumed value by affiliate* as the payment method name. For Brazilian invoices ([NT 2025.001](https://developers.vtex.com/updates/release-notes/2025-08-29-orders-api-support-for-nt-2025-001-fields)), read `paymentData` from the [Get order](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-) endpoint. See [Marketplace payment data on seller orders](https://developers.vtex.com/docs/guides/marketplace-payment-data-on-seller-orders).
+
 ### VTEX Seller processing payments
 
 For the seller's system to process payments, the seller needs to access the [Payments](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) section in the VTEX environment and configure the steps described in this article. This option also applies to physical stores registered as white label sellers.
