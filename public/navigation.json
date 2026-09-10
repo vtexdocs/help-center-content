@@ -21879,6 +21879,21 @@
               "children": [
                 {
                   "name": {
+                    "pt": "Configurar o VTEX CX Platform no Admin VTEX",
+                    "en": "Configurar o VTEX CX Platform no Admin VTEX",
+                    "es": "Configurar o VTEX CX Platform no Admin VTEX"
+                  },
+                  "slug": {
+                    "pt": "configurar-o-vtex-cx-platform-no-admin-vtex",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Creating VTEX CX Platform automations",
                     "es": "Crear automatizaciones de VTEX CX Platform",
                     "pt": "Criar automações do VTEX CX Platform"
