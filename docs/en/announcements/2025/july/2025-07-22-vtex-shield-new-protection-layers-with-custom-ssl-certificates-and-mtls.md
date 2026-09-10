@@ -54,8 +54,8 @@ As integrations with external systems become more complex, the need to ensure au
 
 With these updates, VTEX Shield offers an additional layer of security that allows you to:
 
-* Manage custom SSL certificates to meet internal policies and audit requirements.  
-* Require mutual authentication between systems to prevent unauthorized accesses.  
+* Manage custom SSL certificates to meet internal policies and audit requirements.
+* Require mutual authentication between systems to prevent unauthorized accesses.
 * Reduce risks in critical integrations, strengthening trust between parties.
 
 These features align VTEX Shield with the most advanced market practices and address the growing demand for security in digital operations.
@@ -64,4 +64,4 @@ These features align VTEX Shield with the most advanced market practices and add
 
 If you're already a VTEX client and want to enable custom SSL certificates, mTLS, or other VTEX Shield features in your store, contact [Commercial Support](/en/docs/tracks/commercial-support) to request activation and complete the necessary configuration. Additional fees may apply.
 
-If you're not a VTEX client but are interested in these features, please complete our [contact form](https://vtex.com/us-en/contact/).
+If you're not a VTEX client but are interested in these features, please complete our [contact form](https://www.vtex.com/en-us/get-started/).

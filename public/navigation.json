@@ -9094,36 +9094,6 @@
             },
             {
               "name": {
-                "en": "Why is my store’s zoom not working?",
-                "es": "¿Por qué no funciona el zoom de mi tienda?",
-                "pt": "Por que o zoom da minha loja não funciona?"
-              },
-              "slug": {
-                "en": "why-is-my-stores-zoom-not-working",
-                "es": "por-que-no-funciona-el-zoom-de-mi-tienda",
-                "pt": "por-que-o-zoom-da-minha-loja-nao-funciona"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Why is the \"thumb\" image of poor quality?",
-                "es": "¿Por qué la imagen \"thumb\" está en baja calidad?",
-                "pt": "Por que a imagem \"thumb\" está em baixa qualidade?"
-              },
-              "slug": {
-                "en": "why-is-the-thumb-image-of-poor-quality",
-                "es": "por-que-la-imagen-thumb-esta-en-baja-calidad",
-                "pt": "porque-a-imagem-thumb-esta-em-baixa-qualidade"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Why is the product name duplicated?",
                 "es": "¿Por qué el producto está con nombre duplicado?",
                 "pt": "Por que o produto está com nome duplicado?"
@@ -10221,12 +10191,12 @@
                 {
                   "name": {
                     "en": "3. Cross-border stores",
-                    "es": "3. Tiendas transfronterizas (cross-border)",
+                    "es": "3. Tiendas internacionales (cross-border)",
                     "pt": "3. Lojas internacionais (cross-border)"
                   },
                   "slug": {
                     "en": "cross-border-stores",
-                    "es": "tiendas-transfronterizas-cross-border",
+                    "es": "tiendas-internacionales-cross-border",
                     "pt": "lojas-internacionais-cross-border"
                   },
                   "origin": "",
@@ -20657,6 +20627,21 @@
                     },
                     {
                       "name": {
+                        "en": "Configuring zoom and thumbnails in CMS Portal (Legacy) stores",
+                        "es": "Configurar zoom y miniaturas en tiendas CMS Portal (Legado)",
+                        "pt": "Configurando zoom e miniaturas em lojas CMS Portal (Legado)"
+                      },
+                      "slug": {
+                        "en": "configuring-zoom-and-thumbnails-in-cms-portal-legacy-stores",
+                        "es": "configurar-zoom-y-miniaturas-en-tiendas-cms-portal-legado",
+                        "pt": "configurando-zoom-e-miniaturas-em-lojas-cms-portal-legado"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Enabling PWA push notifications in your store",
                         "es": "Habilitar las notificaciones PWA de la tienda",
                         "pt": "Habilitando notificações PWA da loja"
@@ -20710,21 +20695,6 @@
                         "en": "set-the-store-display-language",
                         "es": "definir-el-idioma-de-visualizacion-de-la-tienda",
                         "pt": "definir-o-idioma-de-exibicao-da-loja"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Setting up the standard size for the zoom image",
-                        "es": "Configurar el tamaño estándar de la imagen de zoom",
-                        "pt": "Configurar o tamanho padrão da imagem de zoom"
-                      },
-                      "slug": {
-                        "en": "setting-up-the-standard-size-for-the-zoom-image",
-                        "es": "configurar-el-tamano-estandar-de-la-imagen-de-zoom",
-                        "pt": "configurar-o-tamanho-padrao-da-imagem-de-zoom"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -34158,14 +34128,14 @@
                 },
                 {
                   "name": {
-                    "en": "WhatsApp: VTEX CX Platform Express integration",
-                    "es": "WhatsApp: Integración express con VTEX CX Platform",
-                    "pt": "WhatsApp: Integração Expressa no VTEX CX Platform"
+                    "en": "WhatsApp: VTEX CX Platform integration",
+                    "es": "WhatsApp: Integración con VTEX CX Platform",
+                    "pt": "WhatsApp: Integração com o VTEX CX Platform"
                   },
                   "slug": {
-                    "en": "whatsapp-vtex-cx-platform-express-integration",
-                    "es": "whatsapp-integracion-express-con-vtex-cx-platform",
-                    "pt": "whatsapp-integracao-expressa-no-vtex-cx-platform"
+                    "en": "whatsapp-vtex-cx-platform-integration",
+                    "es": "whatsapp-integracion-con-vtex-cx-platform",
+                    "pt": "whatsapp-integracao-com-o-vtex-cx-platform"
                   },
                   "origin": "",
                   "type": "markdown",
