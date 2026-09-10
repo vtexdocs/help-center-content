@@ -9,15 +9,15 @@ firstPublishedAt: 2025-10-03T14:20:03.474Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: introduction-to-cx
+slugEN: introduction-to-vtex-cx-platform
 legacySlug: introduccion-a-weni-agentic-ai
 locale: es
 subcategoryId: 7BtmQ6zk6O7VJ7QumXJEiM
 ---
 
-CX es una herramienta nativa de VTEX de soporte al cliente que utiliza agentes. Estos agentes utilizan inteligencia artificial (IA) para conversar con tus clientes, mostrar el catálogo de tu tienda y crear un carrito, entre otras acciones.
+VTEX CX Platform es una herramienta nativa de VTEX de soporte al cliente que utiliza agentes. Estos agentes utilizan inteligencia artificial (IA) para conversar con tus clientes, mostrar el catálogo de tu tienda y crear un carrito, entre otras acciones.
 
-## Configurar CX
+## Configurar VTEX CX Platform
 
 Para configurar esta herramienta en tu tienda sigue los pasos a continuación:
 
@@ -25,7 +25,7 @@ Para configurar esta herramienta en tu tienda sigue los pasos a continuación:
 2. En **VTEX CX Platform**, haz clic en **Dashboard**.
 3. En la pantalla de inicio, selecciona entre [Escala soporte y eficiencia](#escala-soporte-y-eficiencia) y [WhatsApp Store](#whatsapp-store).
 
-> ℹ️ Esta elección inicial es solo para el onboarding. Puedes activar la otra opción después, en el menú Configuración de CX.
+> ℹ️ Esta elección inicial es solo para el onboarding. Puedes activar la otra opción después, en el menú Configuración de VTEX CX Platform.
 
 ### Escala soporte y eficiencia
 
