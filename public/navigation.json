@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "VTEX CX Platform: WhatsApp automation execution logs",
+                    "es": "VTEX CX Platform: logs de ejecución de las automatizaciones de WhatsApp",
+                    "pt": "VTEX CX Platform: logs de execução das automações de WhatsApp"
+                  },
+                  "slug": {
+                    "en": "2026-09-15-vtex-cx-platform-whatsapp-automation-execution-logs",
+                    "es": "2026-09-15-vtex-cx-platform-logs-de-ejecucion-de-las-automatizaciones-de-whatsapp",
+                    "pt": "2026-09-15-vtex-cx-platform-logs-de-execucao-das-automacoes-de-whatsapp"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Intelligent Search: Facets, keywords, and special character improvements",
                     "es": "Intelligent Search: mejoras en filtros, palabras clave y caracteres especiales",
                     "pt": "Intelligent Search: melhorias em filtros, keywords e caracteres especiais"
