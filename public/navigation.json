@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Intelligent Search: Facets, keywords, and special character improvements",
+                    "es": "Intelligent Search: mejoras en filtros, palabras clave y caracteres especiales",
+                    "pt": "Intelligent Search: melhorias em filtros, keywords e caracteres especiais"
+                  },
+                  "slug": {
+                    "en": "2026-09-10-intelligent-search-filters-keywords-and-special-characters-improvements",
+                    "es": "2026-09-10-intelligent-search-mejoras-en-filtros-keywords-y-caracteres-especiales",
+                    "pt": "2026-09-10-intelligent-search-melhorias-em-filtros-keywords-e-caracteres-especiais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Intelligent Search: OR search results now ranked by relevance",
                     "es": "Intelligent Search: resultados de búsqueda OR ahora ordenados por relevancia",
                     "pt": "Intelligent Search: Resultados de busca OR agora ordenados por relevância"
@@ -123,21 +138,6 @@
                     "en": "2026-08-17-breaking-change-availability-notify-new-required-permission",
                     "es": "2026-08-17-breaking-change-availability-notify-nuevo-permiso-obligatorio",
                     "pt": "2026-08-17-breaking-change-availability-notify-nova-permissao-obrigatoria"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Intelligent Search: Facets, keywords, and special character improvements",
-                    "es": "Intelligent Search: mejoras en filtros, palabras clave y caracteres especiales",
-                    "pt": "Intelligent Search: melhorias em filtros, keywords e caracteres especiais"
-                  },
-                  "slug": {
-                    "en": "2026-08-15-intelligent-search-filters-keywords-and-special-characters-improvements",
-                    "es": "2026-08-15-intelligent-search-mejoras-en-filtros-keywords-y-caracteres-especiales",
-                    "pt": "2026-08-15-intelligent-search-melhorias-em-filtros-keywords-e-caracteres-especiais"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -65258,6 +65258,21 @@
                 "en": "fixed-price-being-created-on-trade-policy-1-when-saving-bundle-prices",
                 "es": "precio-fijo-que-se-crea-en-la-politica-comercial-1-al-guardar-los-precios-de-los-paquetes",
                 "pt": "preco-fixo-sendo-criado-na-politica-comercial-1-ao-economizar-precos-de-pacote"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Fixed Price updates may overwrite concurrent changes",
+                "es": "Las actualizaciones de precio fijo pueden sobrescribir los cambios simultáneos.",
+                "pt": "As atualizações de preço fixo podem sobrescrever alterações simultâneas."
+              },
+              "slug": {
+                "en": "fixed-price-updates-may-overwrite-concurrent-changes",
+                "es": "las-actualizaciones-de-precio-fijo-pueden-sobrescribir-los-cambios-simultaneos",
+                "pt": "as-atualizacoes-de-preco-fixo-podem-sobrescrever-alteracoes-simultaneas"
               },
               "origin": "",
               "type": "markdown",
