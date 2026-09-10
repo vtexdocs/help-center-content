@@ -38,7 +38,7 @@ Utilize o endpoint [Order Invoice Notification](https://developers.vtex.com/docs
 
 A nota fiscal deve ser registrada como nota de entrada, com `type: "input"`. A soma dos valores das notas fiscais de entrada precisa ser igual ao valor total do pedido, incluindo o frete. A mesma regra de devolução total descrita neste artigo se aplica.
 
-> ℹ️ Sempre que possível, registre a devolução pelo OMS, no Admin ou pela Orders API. Assim o pedido permanece sincronizado na VTEX e a comunicação com a Shopee acontece automaticamente.
+> ℹ️ Sempre que possível, registre a devolução pelo OMS, no Admin ou pela Orders API. Assim, o pedido permanece sincronizado na VTEX e a comunicação com a Shopee acontece automaticamente.
 
 Se a operação precisar informar a falha de entrega sem registrar a devolução no OMS, use o endpoint [Cancel Marketplace Delivery](https://developers.vtex.com/docs/api-reference/vtex-shopee-integration-api#post-/api/shopeeintegration/-accountName-/pub/orders/-mktplaceOrderId-/cancelDelivery):
 
