@@ -454,7 +454,7 @@ To edit or delete a user, follow the steps below:
 4. Edit the information you want to change.
 5. Click `Update` to save the changes or `Delete` to delete the user.
 
-### Access VTEX Pick and Pack in the VTEX Admin
+### Accessing VTEX Pick and Pack in the VTEX Admin
 
 Pickers created in this tab can only access the mobile app. Users who need to monitor the operation in the **VTEX Admin** require [roles](/en/docs/tutorials/roles) and [License Manager resources](/en/docs/tutorials/license-manager-resources), and are not managed in this tab.
 
