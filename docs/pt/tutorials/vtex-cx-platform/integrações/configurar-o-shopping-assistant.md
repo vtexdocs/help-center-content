@@ -40,7 +40,6 @@ A aba **Aparência** define o visual do widget de chat. Nela, você pode configu
 - **Título do chat**: nome exibido no cabeçalho do widget.
   - Ao clicar em <i class="fas fa-plus" aria-hidden="true"></i>`Mais`, você pode adicionar campos opcionais:
     - **Subtítulo do chat:** texto que fica abaixo do título.
-    - **Mensagem de disparo:** mensagem enviada quando o cliente abre o chatbot.
     - **Mensagem de notificação do chat:** mensagem que aparece na notificação do chatbot.
     - **Texto do placeholder:** placeholder do campo de mensagem. 
 - **Cor principal:** cor principal do chat.
