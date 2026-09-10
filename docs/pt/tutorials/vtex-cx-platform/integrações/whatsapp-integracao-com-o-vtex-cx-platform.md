@@ -86,7 +86,7 @@ Se você modificou algum dos campos e deseja salvar, clique em `Salvar alteraç�
 
 Na aba **Webhook**, você define o endpoint que recebe as notificações do canal. Use essa aba quando um sistema externo precisa tratar os eventos de mensagem fora do VTEX CX Platform.
 
-Para configurar o webhook, preencha os campos a seguir: 
+Para configurar o webhook, preencha os campos a seguir:
 
 | Campo | Descrição |
 | --- | --- |
