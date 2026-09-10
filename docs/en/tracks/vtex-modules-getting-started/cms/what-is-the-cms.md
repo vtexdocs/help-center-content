@@ -23,10 +23,10 @@ On VTEX, the CMS is used to manage the store website pages, providing an autonom
 
 The CMS provides a set of tools that vary depending on the technology used in the store:
 
-- **[CMS](https://help.vtex.com/en/docs/tutorials/cms-overview)**: the current CMS solution, available for stores developed with **FastStore** (v3 and above) and **Headless** stores.
-- **[Headless CMS (Legacy)](https://help.vtex.com/en/docs/tutorials/headless-cms-overview)**: the previous CMS solution for **FastStore** (v1 and v2) and Headless stores. Stores using this solution are being progressively upgraded to the new CMS.
-- **[Site Editor](https://help.vtex.com/en/docs/tutorials/site-editor-overview)**: the CMS solution for stores developed with **Store Framework**.
-- **[CMS Portal (Legacy)](https://help.vtex.com/en/docs/tracks/legacy-cms-portal)**: the CMS solution for stores developed with **Legacy Portal**, no longer available for new accounts.
+- **[CMS](https://help.vtex.com/en/docs/tutorials/cms-overview)**: The current CMS solution, available for stores developed with **FastStore** (v3 and above) and **Headless** stores.
+- **[Headless CMS (Legacy)](https://help.vtex.com/en/docs/tutorials/headless-cms-overview)**: The previous CMS solution for **FastStore** (v1 and v2) and Headless stores. Stores using this solution are being progressively upgraded to the new CMS.
+- **[Site Editor](https://help.vtex.com/en/docs/tutorials/site-editor-overview)**: The CMS solution for stores developed with **Store Framework**.
+- **[CMS Portal (Legacy)](https://help.vtex.com/en/docs/tracks/legacy-cms-portal)**: The CMS solution for stores developed with **Legacy Portal**, no longer available for new accounts.
 
 The following articles contain more details about the CMS in each technology:
 
