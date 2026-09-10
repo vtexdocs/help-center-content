@@ -49,6 +49,8 @@ Os marketplaces podem indicar como o valor da compra deve ser dividido e qual se
 
 Neste caso, a transação será processada apenas pelo provedor de pagamento do marketplace, que será responsável por pagar cada seller.
 
+> ℹ️ Quando o marketplace processa o pagamento, o pedido do seller pode trazer `paymentData` com o meio usado no marketplace. O __ID da transação__ `PAYMENT-FROM-AFFILIATE` indica que esses dados são fiscais e não correspondem a uma transação no Gateway do seller. Saiba mais em [Pagamentos em marketplaces VTEX](/pt/docs/tutorials/pagamentos-em-marketplaces-vtex).
+
 Por exemplo, um cliente adiciona dois produtos ao mesmo carrinho de compras. Um deles será entregue pelo próprio marketplace e o outro por um seller chamado Seller A. No entanto, apenas uma transação é gerada, o que significa que o consumidor final verá apenas uma cobrança no extrato do cartão de crédito.
 
 O pagamento é distribuído da seguinte forma:

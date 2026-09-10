@@ -18,6 +18,12 @@ For most integrations with marketplaces ( and all those configured by the Bridge
 
 In other words, payment is made on the marketplace using the marketplace’s payment methods. Thus, the seller’s payment methods will not show up and will have no impact on the marketplace’s purchase process.
 
-For example: A purchase made by the CNova marketplace will be displayed on your OMS, under **Payment**, with the following message: "Assumed value by affiliate CNova (NVP)", as illustrated below.
+On the seller order, the VTEX Admin may show the actual method used on the marketplace, for example, **Credit card** and **Mastercard**. This does not mean that the payment was processed with the seller’s payment methods.
+
+To identify that the marketplace assumed the payment, check the **Transaction ID**: the value is `PAYMENT-FROM-AFFILIATE`.
+
+> ℹ️ The information in `paymentData` is intended for invoice issuance. It does not trigger authorization, capture, refund, or settlement in the seller’s Gateway. Learn more in [Payments in VTEX marketplaces](/en/docs/tutorials/payments-in-vtex-marketplaces).
+
+In some older integrations, OMS still displays *Assumed value by affiliate* as the payment method name, as in the example below.
 
 ![exemplopagamento](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/channels/why-dont-my-payment-methods-appear-on-the-marketplace_1.png)

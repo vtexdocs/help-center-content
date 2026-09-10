@@ -56,6 +56,18 @@ Para que o sistema do marketplace processe pagamentos, é preciso acessar a seç
 
 Para finalizar a configuração que torna o marketplace o processador de pagamentos, ao [Configurar afiliado](/pt/docs/tutorials/como-configurar-afiliado), o seller precisa deixar a opção __Usar meu meio de pagamento__ desmarcada.
 
+### Dados de pagamento no pedido do seller
+
+Quando o marketplace processa o pagamento, o pedido do seller pode exibir o meio usado no marketplace no objeto `paymentData`. Esses dados existem para o preenchimento da nota fiscal e **não** representam uma transação no [Gateway de pagamentos](/pt/docs/tutorials/o-que-e-um-gateway-de-pagamentos) do seller.
+
+No Admin VTEX, na seção de pagamento do pedido:
+
+- __Método__ mostra o meio ou a bandeira usados no marketplace, por exemplo, Mastercard.
+- __ID da transação__ igual a `PAYMENT-FROM-AFFILIATE` indica que o pagamento foi assumido pelo marketplace (afiliado).
+- A data em __Autorização do gateway__ não significa que o Gateway do seller autorizou, capturou ou estornou a transação.
+
+Integrações mais antigas podem ainda mostrar o texto *Assumed value by affiliate* no nome do meio. Para notas fiscais no Brasil ([NT 2025.001](https://help.vtex.com/pt/announcements/novos-campos-obrigatorios-para-emissao-de-notas-fiscais--5jDozNwc272jtq92dvKQkq)), o seller deve ler `paymentData` no [Get order](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-). Veja o contrato dos campos em [Marketplace payment data on seller orders](https://developers.vtex.com/docs/guides/marketplace-payment-data-on-seller-orders).
+
 ### Seller VTEX processando pagamentos
 
 Para que o sistema do seller processe pagamentos, o seller precisa acessar a seção de [Pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) no ambiente VTEX e configurar as etapas descritas abaixo. Esta opção também vale para lojas físicas cadastradas como sellers white label.
