@@ -21,16 +21,16 @@ symptomFilters:
   - Restrição de acesso
 ---
 
-O [Site Editor](https://developers.vtex.com/docs/guides/store-framework-working-with-site-editor) é o Content Management System (CMS) disponível para lojas que utilizam o [Store Framework](https://developers.vtex.com/docs/guides/store-framework). Em algumas situações, você pode encontrar dificuldades para abrir o Site Editor ou salvar conteúdo.
+O [Site Editor](https://developers.vtex.com/docs/guides/store-framework-working-with-site-editor) é o Content Management System (CMS) disponível para lojas que utilizam o [Store Framework](https://developers.vtex.com/docs/guides/store-framework). Em algumas situações, você pode ter dificuldades para abrir o Site Editor ou para salvar conteúdo.
 
-Veja a seguir instruções instruções que podem ajudar a solucionar esses problemas no Site Editor.
+Veja a seguir instruções que podem ajudar a solucionar esses problemas no Site Editor.
 
 | Problema | Descrição | Instruções para resolução do problema |
 | -------- | --------- | ------------------------------------- |
-| [O Site Editor não abre](#o-site-editor-nao-abre) | A página do Site Editor mostra uma tela em branco ou a mensagem `Algo deu errado`. | - [Verifique a integração de busca](#verificar-a-integracao-de-busca).<br> - [Verifique a configuração do tenant (apenas novas contas)](#verificar-a-configuracao-do-tenant-apenas-novas-contas). |
+| [O Site Editor não abre](#o-site-editor-nao-abre) | A página do Site Editor exibe uma tela em branco ou a mensagem `Algo deu errado`. | - [Verifique a integração de busca](#verificar-a-integracao-de-busca).<br> - [Verifique a configuração do tenant (apenas para novas contas)](#verificar-a-configuracao-do-tenant-apenas-novas-contas). |
 | [Não consigo gerenciar o conteúdo da minha loja no Site Editor](#nao-consigo-gerenciar-o-conteudo-da-minha-loja-no-site-editor) | Não é possível editar, salvar ou excluir conteúdo no Site Editor. | - [Verifique se o perfil de acesso do usuário tem as permissões necessárias](#verificar-se-o-perfil-de-acesso-do-usuario-tem-as-permissoes-necessarias).<br> - [Verifique a localidade principal do domínio](#verificar-a-localidade-principal-do-dominio). |
 | [Perdi o conteúdo armazenado no Site Editor](#perdi-o-conteudo-armazenado-no-site-editor) | O conteúdo salvo no Site Editor foi perdido. | [Abra um ticket para o Suporte VTEX](https://supporticket.vtex.com/support). |
-| [Continuo tendo problemas com o Site Editor](#continuo-tendo-problemas-com-o-site-editor) | Você ainda está tendo problemas com o Site Editor depois de tentar resolvê-los. | [Abra um ticket para o Suporte VTEX](https://supporticket.vtex.com/support). |
+| [Continuo tendo problemas com o Site Editor](#continuo-tendo-problemas-com-o-site-editor) | Você ainda está com problemas com o Site Editor após tentar resolvê-los. | [Abra um ticket para o Suporte VTEX](https://supporticket.vtex.com/support). |
 
 Para entender e corrigir cada erro, consulte as soluções abaixo:
 
@@ -61,11 +61,11 @@ Esse problema pode estar relacionado ao fato de a busca do [Intelligent Search](
 
 ### Verificar a configuração do tenant (apenas novas contas)
 
-Se você já tem a [busca integrada](#verificar-a-integracao-de-busca) e ainda vê uma tela preta ao clicar em **Site Editor** no VTEX Admin, é possível que a loja não tenha definido o tenant ou exista um erro nessa configuração.
+Se você já tem a [busca integrada](#verificar-a-integracao-de-busca) e ainda vê uma tela preta ao clicar em **Site Editor** no VTEX Admin, é possível que a loja não tenha definido o tenant ou que haja um erro nessa configuração.
 
 A VTEX usa uma abordagem de arquitetura [SaaS multi-tenancy](https://developers.vtex.com/docs/guides/cloud-infrastructure#saas-multi-tenancy), em que cada conta é um tenant (locatário) que precisa estar conectado (vinculado) à arquitetura da VTEX para sincronização de dados e informações.
 
-Para configurar o tenant em sua loja, abra um ticket para o time de [Suporte VTEX](https://supporticket.vtex.com/support) com essa solicitação. Após receber uma resposta do Suporte confirmando que o tenant foi configurado, acesse o VTEX Admin e clique em **Storefront > Site Editor** para verificar se ele abre corretamente. Se a tela continuar em branco, atualize o ticket aberto para que o time de Suporte VTEX possa investigar melhor.
+Para configurar o tenant em sua loja, abra um ticket no [Suporte VTEX](https://supporticket.vtex.com/support) com essa solicitação. Após receber uma resposta do Suporte confirmando a configuração do tenant, acesse o VTEX Admin e clique em **Storefront > Site Editor** para verificar se o site abre corretamente. Se a tela continuar em branco, atualize o ticket aberto para que o time de Suporte VTEX possa investigar melhor.
 
 ## Não consigo gerenciar o conteúdo da minha loja no Site Editor
 
@@ -79,7 +79,7 @@ Para solucionar esse erro, veja as instruções a seguir:
 
 1. [Verifique se o perfil de acesso do usuário tem as permissões necessárias](#verificar-se-o-perfil-de-acesso-do-usuario-tem-as-permissoes-necessarias).
 2. [Verifique se a política comercial está configurada no catálogo](#verificar-se-a-politica-comercial-esta-configurada-no-catalogo)
-3. [Verifique o locale principal do domínio](#verificar-a-localidade-principal-do-dominio)
+3. [Verifique a localidade principal do domínio](#verificar-a-localidade-principal-do-dominio)
 
 ### Verificar se o perfil de acesso do usuário tem as permissões necessárias
 
@@ -87,25 +87,25 @@ Um possível motivo para esse problema pode estar relacionado à falta do [recur
 
 Certifique-se de que os usuários tenham o recurso `CMS GraphQL API` associado a seus perfis de acesso, seja [criando um novo perfil](/pt/docs/tutorials/perfis-de-acesso#creating-a-role) ou editando um existente.
 
-Se ainda não for possível gerenciar o conteúdo mesmo depois de adicionar o recurso `CMS GraphQL API` à função do usuário, veja a próxima seção: [Verificar se a política comercial está configurada no catálogo](#verificar-se-a-politica-comercial-esta-configurada-no-catalogo).
+Se ainda não for possível gerenciar o conteúdo mesmo após adicionar o recurso `CMS GraphQL API` à função do usuário, veja a próxima seção: [Verificar se a política comercial está configurada no catálogo](#verificar-se-a-politica-comercial-esta-configurada-no-catalogo).
 
 ### Verificar se a política comercial está configurada no catálogo
 
 Outro possível motivo para esse erro é a política comercial da conta não estar corretamente associada ao catálogo da loja, o que impede o Site Editor de carregar ou salvar o conteúdo.
 
 1. No VTEX Admin, acesse **Configurações da loja > Canais > Políticas comerciais**.
-2. Verifique se existe uma política comercial associada à sua conta e se ela está corretamente configurada para o catálogo da loja.
+2. Verifique se há uma política comercial associada à sua conta e se ela está corretamente configurada para o catálogo da loja.
 3. Se não houver nenhuma política comercial configurada, ou se ela não estiver associada corretamente ao catálogo da loja, [configure uma política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) para a conta.
-4. Caso a política comercial já esteja configurada e o problema persista, abra um ticket para o [Suporte VTEX](https://supporticket.vtex.com/support) para verificar a associação entre a política comercial e o catálogo.
+4. Caso a política comercial já esteja configurada e o problema persista, abra um ticket no [Suporte VTEX](https://supporticket.vtex.com/support) para verificar a associação entre a política comercial e o catálogo.
 
 Se ainda não for possível gerenciar o conteúdo, veja a próxima seção: [Verificar a localidade principal do domínio](#verificar-a-localidade-principal-do-dominio).
 
 ### Verificar a localidade principal do domínio
 
-Outro possível motivo para esse erro está relacionado à localidade configurada para a conta.
+Outro possível motivo desse erro está relacionado à localidade configurada para a conta.
 
 1. [Instale](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-an-app) o app `vtex.admin-graphql-ide@3.x` usando seu terminal.
-2. No VTEX Admin, acesse **Configurações da loja > Storefront> GraphQL IDE**.
+2. No VTEX Admin, acesse **Configurações da loja > Storefront > GraphQL IDE**.
 3. No menu suspenso, selecione o app `vtex.tenant-graphql@0.1.2`.
 4. Na caixa de texto, escreva a seguinte query:
 
@@ -131,19 +131,19 @@ Outro possível motivo para esse erro está relacionado à localidade configurad
     ![Site Editor - Locale PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/acesso-a-dados-e-segurança/o-site-editor-da-minha-loja-nao-esta-funcionando_4.png)
 
     A localidade é considerada incorreta nos seguintes casos:
-      - A localidade é diferente do que a conta deveria usar. Por exemplo, a localidade está configurada como `pt-BR`, mas deveria ser `pt-PT`.
-      - A localidade está em letras minúsculas. Como essa configuração diferencia maiúsculas de minúsculas, a localidade deve aparecer como `pt-BR` ao invés vez de `pt-br`.
+      - A localidade é diferente da que a conta deveria usar. Por exemplo, a localidade está configurada como `pt-BR`, mas deveria ser `pt-PT`.
+      - A localidade está em letras minúsculas. Como essa configuração diferencia maiúsculas de minúsculas, a localidade deve aparecer como `pt-BR` em vez de `pt-br`.
       - A localidade configurada na política comercial é diferente do `defaultLocale` identificado.
 
-8. Em todos os casos, abra um ticket para o [Suporte VTEX](https://supporticket.vtex.com/support) para solicitar a alteração da localidade configurada na política comercial. Lembre-se de incluir evidências do erro, como capturas de tela, logs de mensagens e detalhes da sua investigação prévia.
+8. Em todos os casos, abra um ticket no [Suporte VTEX](https://supporticket.vtex.com/support) para solicitar a alteração da localidade configurada na política comercial. Lembre-se de incluir evidências do erro, como capturas de tela, logs de mensagens e detalhes da sua investigação prévia.
 
 ## Perdi o conteúdo armazenado no Site Editor
 
-Abra um ticket para o time de [Suporte VTEX](https://supporticket.vtex.com/support) para investigar o problema mais a fundo.
+Abra um ticket no [Suporte VTEX](https://supporticket.vtex.com/support) para investigar o problema mais a fundo.
 
 Para evitar a perda de conteúdo armazenado no Site Editor ao alterar as dependências de pares do aplicativo Store Theme, siga os passos no guia [Migrating CMS settings after a major theme update](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-cms-settings-after-major-update).
 
-> ⚠️ Nos casos em que o conteúdo armazenado no Site Editor for perdido,a restauração é possível apenas se a perda estiver relacionada ao problema conhecido de [Perda intermitente de conteúdo do Site Editor](/pt/known-issues/perda-intermitente-de-conteudo-do-site-editor--3a5MlAoD2Z7Gu6HDS8wihD). Nessa situação, abra um ticket para o [Suporte VTEX](https://supporticket.vtex.com/support) com a prioridade `urgente`.
+> ⚠️ Nos casos em que o conteúdo armazenado no Site Editor for perdido, a restauração é possível apenas se a perda estiver relacionada ao problema conhecido de [Perda intermitente de conteúdo do Site Editor](/pt/known-issues/perda-intermitente-de-conteudo-do-site-editor--3a5MlAoD2Z7Gu6HDS8wihD). Nessa situação, abra um ticket no [Suporte VTEX](https://supporticket.vtex.com/support) com a prioridade `urgente`.
 
 ## Continuo tendo problemas com o Site Editor
 
