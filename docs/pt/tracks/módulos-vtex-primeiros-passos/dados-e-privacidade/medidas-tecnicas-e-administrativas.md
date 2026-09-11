@@ -3,7 +3,7 @@ title: 'Medidas técnicas e administrativas'
 id: 7ANSqBP5DgOrVVyglo3Lbh
 status: PUBLISHED
 createdAt: 2024-05-03T20:26:17.710Z
-updatedAt: 2024-05-03T21:12:11.696Z
+updatedAt: 2026-09-11T14:17:38.000Z
 publishedAt: 2024-05-03T21:12:11.696Z
 firstPublishedAt: 2024-05-03T20:57:29.358Z
 contentType: trackArticle
