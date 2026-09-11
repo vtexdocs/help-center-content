@@ -35485,7 +35485,7 @@
                         "pt": "AI Workspace - Conversa"
                       },
                       "slug": {
-                        "en": "ai-workspace-conversa",
+                        "en": "ai-workspace-chat",
                         "es": "ai-workspace-conversacion",
                         "pt": "ai-workspace-conversa"
                       },
@@ -35515,7 +35515,7 @@
                         "pt": "AI Workspace - Iniciativas"
                       },
                       "slug": {
-                        "en": "ai-workspace-iniciativas",
+                        "en": "ai-workspace-initiatives",
                         "es": "ai-workspace-iniciativas",
                         "pt": "ai-workspace-iniciativas"
                       },
@@ -35530,7 +35530,7 @@
                         "pt": "AI Workspace - Menu de navegação"
                       },
                       "slug": {
-                        "en": "ai-workspace-menu-navegacao",
+                        "en": "ai-workspace-navigation-menu",
                         "es": "ai-workspace-menu-navegacion",
                         "pt": "ai-workspace-menu-navegacao"
                       },
