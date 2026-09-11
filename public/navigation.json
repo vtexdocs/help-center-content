@@ -57247,6 +57247,21 @@
             },
             {
               "name": {
+                "en": "Delayed \"payment-approved\" transition for fast/auto-approval payment methods (workflow not ready when authorization notification arrives)",
+                "es": "Transición retrasada a \"pago aprobado\" para métodos de pago de aprobación rápida/automática (el flujo de trabajo no está listo cuando llega la notificación de autorización).",
+                "pt": "Transição de \"pagamento aprovado\" atrasada para métodos de pagamento com aprovação rápida/automática (fluxo de trabalho não está pronto quando a notificação de autorização chega)."
+              },
+              "slug": {
+                "en": "delayed-paymentapproved-transition-for-fastautoapproval-payment-methods-workflow-not-ready-when-authorization-notification-arrives",
+                "es": "transicion-retrasada-a-pago-aprobado-para-metodos-de-pago-de-aprobacion-rapidaautomatica-el-flujo-de-trabajo-no-esta-listo-cuando-llega-la-notificacion-de-autorizacion",
+                "pt": "transicao-de-pagamento-aprovado-atrasada-para-metodos-de-pagamento-com-aprovacao-rapidaautomatica-fluxo-de-trabalho-nao-esta-pronto-quando-a-notificacao-de-autorizacao-chega"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Delivery Flag in My Orders. Due to an error in filling the Invoice.",
                 "es": "Bandera de entrega en Mis Pedidos. Debido a un error al rellenar la factura.",
                 "pt": "Bandeira de entrega em Meus Pedidos. Devido a um erro no preenchimento da Nota Fiscal."
@@ -65250,6 +65265,21 @@
             },
             {
               "name": {
+                "en": "Fixed Price updates may overwrite concurrent changes",
+                "es": "Las actualizaciones de precio fijo pueden sobrescribir los cambios simultáneos.",
+                "pt": "As atualizações de preço fixo podem sobrescrever alterações simultâneas."
+              },
+              "slug": {
+                "en": "fixed-price-updates-may-overwrite-concurrent-changes",
+                "es": "las-actualizaciones-de-precio-fijo-pueden-sobrescribir-los-cambios-simultaneos",
+                "pt": "as-atualizacoes-de-preco-fixo-podem-sobrescrever-alteracoes-simultaneas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Fixed Prices import may incorrectly report success when SKU column is formatted as a number",
                 "es": "La importación de precios fijos puede informar incorrectamente que se realizó correctamente cuando la columna SKU está formateada como un número.",
                 "pt": "A importação de preços fixos pode reportar incorretamente sucesso quando a coluna SKU estiver formatada como um número."
@@ -69023,6 +69053,21 @@
             },
             {
               "name": {
+                "en": "AmazonMatch In some cases, SKU reverts to \"Pending Review\" after match confirmation, with no indication of Amazon's rejection reason",
+                "es": "AmazonCoincidencia En algunos casos, el SKU vuelve a estar en \"Pendiente de revisión\" después de la confirmación de la coincidencia, sin ninguna indicación del motivo del rechazo de Amazon.",
+                "pt": "AmazonMatch Em alguns casos, o SKU volta para \"Aguardando revisão\" após a confirmação da correspondência, sem nenhuma indicação do motivo da rejeição da Amazon."
+              },
+              "slug": {
+                "en": "amazonmatch-in-some-cases-sku-reverts-to-pending-review-after-match-confirmation-with-no-indication-of-amazons-rejection-reason",
+                "es": "amazoncoincidencia-en-algunos-casos-el-sku-vuelve-a-estar-en-pendiente-de-revision-despues-de-la-confirmacion-de-la-coincidencia-sin-ninguna-indicacion-del-motivo-del-rechazo-de-amazon",
+                "pt": "amazonmatch-em-alguns-casos-o-sku-volta-para-aguardando-revisao-apos-a-confirmacao-da-correspondencia-sem-nenhuma-indicacao-do-motivo-da-rejeicao-da-amazon"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Category mapping via XLS not reprocessed for accounts with large volume of suggestions",
                 "es": "La asignación de categorías mediante XLS no se reprocesa para cuentas con un gran volumen de sugerencias.",
                 "pt": "O mapeamento de categorias via XLS não é reprocessado para contas com grande volume de sugestões."
@@ -69031,6 +69076,21 @@
                 "en": "category-mapping-via-xls-not-reprocessed-for-accounts-with-large-volume-of-suggestions",
                 "es": "la-asignacion-de-categorias-mediante-xls-no-se-reprocesa-para-cuentas-con-un-gran-volumen-de-sugerencias",
                 "pt": "o-mapeamento-de-categorias-via-xls-nao-e-reprocessado-para-contas-com-grande-volume-de-sugestoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CentauroKI Mapper filer have 1MB file size limit on API uploads",
+                "es": "CentauroKI El servidor de archivos Mapper tiene un límite de tamaño de archivo de 1 MB para las cargas de API.",
+                "pt": "CentauroKI O mapeador de arquivos tem um limite de tamanho de arquivo de 1 MB para uploads via API."
+              },
+              "slug": {
+                "en": "centauroki-mapper-filer-have-1mb-file-size-limit-on-api-uploads",
+                "es": "centauroki-el-servidor-de-archivos-mapper-tiene-un-limite-de-tamano-de-archivo-de-1-mb-para-las-cargas-de-api",
+                "pt": "centauroki-o-mapeador-de-arquivos-tem-um-limite-de-tamanho-de-arquivo-de-1-mb-para-uploads-via-api"
               },
               "origin": "",
               "type": "markdown",
