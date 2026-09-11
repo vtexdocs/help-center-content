@@ -1,7 +1,7 @@
 ---
 title: 'Notificar falha de entrega na Shopee'
 createdAt: 2026-09-09T16:26:00.000Z
-updatedAt: 2026-09-10T20:16:00.000Z
+updatedAt: 2026-09-11T15:00:00.000Z
 contentType: trackArticle
 productTeam: Channels
 slugEN: notify-failed-delivery-shopee
@@ -11,9 +11,9 @@ trackSlugEN: integracao-shopee
 order: 6
 ---
 
-Quando uma entrega na modalidade [Logística do vendedor](/pt/tracks/integracao-com-a-shopee--4CaZCzU9ZO1CByH0haZ9hA/3vKp8QmN2xRsWy5Hb7Lc9T) não pode ser concluída, a Shopee precisa ser notificada para que o comprador receba o estorno. Com o conector VTEX, essa notificação acontece automaticamente depois que você registra uma [nota fiscal de devolução](/pt/docs/tutorials/como-devolver-itens-do-pedido) no valor total do pedido no OMS.
+Quando uma entrega na modalidade [Logística do vendedor](/pt/docs/tracks/logistica-do-vendedor-shopee) não pode ser concluída, a Shopee precisa ser notificada para que o comprador receba o estorno. Com o conector VTEX, essa notificação acontece automaticamente depois que você registra uma [nota fiscal de devolução](/pt/docs/tutorials/como-devolver-itens-do-pedido) no valor total do pedido no OMS.
 
-> ℹ️ Este fluxo se aplica apenas a pedidos da **Logística do vendedor**. Ele não está disponível para a modalidade [Shopee Full Logistics](/pt/tracks/integracao-com-a-shopee--4CaZCzU9ZO1CByH0haZ9hA/8nRw4mK7qPsXz2Yt3bVj6A).
+> ℹ️ Este fluxo se aplica apenas a pedidos da **Logística do vendedor**. Ele não está disponível para a modalidade [Shopee Full Logistics](/pt/docs/tracks/shopee-full-logistics).
 
 ## Como notificar a falha de entrega
 
@@ -38,7 +38,7 @@ Utilize o endpoint [Order Invoice Notification](https://developers.vtex.com/docs
 
 A nota fiscal deve ser registrada como nota de entrada, com `type: "input"`. A soma dos valores das notas fiscais de entrada precisa ser igual ao valor total do pedido, incluindo o frete. A mesma regra de devolução total descrita neste artigo se aplica.
 
-> ℹ️ Sempre que possível, registre a devolução pelo OMS, no Admin ou pela Orders API. Assim, o pedido permanece sincronizado na VTEX e a comunicação com a Shopee acontece automaticamente.
+> ℹ️ Sempre que possível, registre a devolução pela página do pedido no Admin VTEX ou pela Orders API. Assim, o pedido permanece sincronizado na VTEX e a comunicação com a Shopee acontece automaticamente.
 
 Se a operação precisar informar a falha de entrega sem registrar a devolução no OMS, use o endpoint [Cancel Marketplace Delivery](https://developers.vtex.com/docs/api-reference/vtex-shopee-integration-api#post-/api/shopeeintegration/-accountName-/pub/orders/-mktplaceOrderId-/cancelDelivery):
 
