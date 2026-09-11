@@ -3,7 +3,7 @@ title: 'Problemas con Site Editor en mi tienda'
 id: 3A6Ois91zEZ8zpKJp1wsP2
 status: PUBLISHED
 createdAt: 2024-08-26T16:52:35.556Z
-updatedAt: 2025-08-14T22:58:05.821Z
+updatedAt: 2026-09-11T14:35:20.717Z
 publishedAt: 2025-08-14T22:58:05.821Z
 firstPublishedAt: 2024-08-27T19:19:21.047Z
 contentType: tutorial

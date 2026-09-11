@@ -3,7 +3,7 @@ title: 'My store’s Site Editor is not working'
 id: 3A6Ois91zEZ8zpKJp1wsP2
 status: PUBLISHED
 createdAt: 2024-08-26T16:52:35.556Z
-updatedAt: 2025-08-14T22:58:05.821Z
+updatedAt: 2026-09-11T14:35:20.717Z
 publishedAt: 2025-08-14T22:58:05.821Z
 firstPublishedAt: 2024-08-27T19:19:21.047Z
 contentType: tutorial
@@ -78,7 +78,7 @@ Something went wrong. Please try again.
 To solve this error, see the following instructions:
 
 1. [Check if the user role has the necessary permissions](#checking-if-the-user-role-has-the-necessary-permissions).
-2. [Check if the sales channel is configured in the catalog](#checking-the-domains-main-locale)
+2. [Check if the sales channel is configured in the catalog](#checking-if-the-sales-channel-is-configured-in-the-catalog)
 3. [Check the domain's main locale](#checking-the-domains-main-locale)
 
 ### Checking if the user role has the necessary permissions
