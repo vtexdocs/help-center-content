@@ -3,8 +3,8 @@ title: 'O Site Editor da minha loja não está funcionando'
 id: 3A6Ois91zEZ8zpKJp1wsP2
 status: PUBLISHED
 createdAt: 2024-08-26T16:52:35.556Z
-updatedAt: 2025-08-14T22:58:05.821Z
-publishedAt: 2025-08-14T22:58:05.821Z
+updatedAt: 2026-09-11T14:35:20.717Z
+publishedAt: 2026-09-11T14:35:20.717Z
 firstPublishedAt: 2024-08-27T19:19:21.047Z
 contentType: tutorial
 productTeam: VTEX IO
@@ -78,7 +78,7 @@ Algo deu errado. Por favor, tente novamente.
 Para solucionar esse erro, veja as instruções a seguir:
 
 1. [Verifique se o perfil de acesso do usuário tem as permissões necessárias](#verificar-se-o-perfil-de-acesso-do-usuario-tem-as-permissoes-necessarias).
-2. [Verifique se a política comercial está configurada no catálogo](#verifique-se-a-politica-comercial-esta-configurada-no-catalogo)
+2. [Verifique se a política comercial está configurada no catálogo](#verificar-se-a-politica-comercial-esta-configurada-no-catalogo)
 3. [Verifique o locale principal do domínio](#verificar-a-localidade-principal-do-dominio)
 
 ### Verificar se o perfil de acesso do usuário tem as permissões necessárias
@@ -87,7 +87,18 @@ Um possível motivo para esse problema pode estar relacionado à falta do [recur
 
 Certifique-se de que os usuários tenham o recurso `CMS GraphQL API` associado a seus perfis de acesso, seja [criando um novo perfil](/pt/docs/tutorials/perfis-de-acesso#creating-a-role) ou editando um existente.
 
-Se ainda não for possível gerenciar o conteúdo mesmo depois de adicionar o recurso `CMS GraphQL API` à função do usuário, veja a próxima seção: [Verificar o locale principal do domínio](#verificar-a-localidade-principal-do-dominio).
+Se ainda não for possível gerenciar o conteúdo mesmo depois de adicionar o recurso `CMS GraphQL API` à função do usuário, veja a próxima seção: [Verificar se a política comercial está configurada no catálogo](#verificar-se-a-politica-comercial-esta-configurada-no-catalogo).
+
+### Verificar se a política comercial está configurada no catálogo
+
+Outro possível motivo para esse erro é a política comercial da conta não estar corretamente associada ao catálogo da loja, o que impede o Site Editor de carregar ou salvar o conteúdo.
+
+1. No VTEX Admin, acesse **Configurações da loja > Canais > Políticas comerciais**.
+2. Verifique se existe uma política comercial associada à sua conta e se ela está corretamente configurada para o catálogo da loja.
+3. Se não houver nenhuma política comercial configurada, ou se ela não estiver associada corretamente ao catálogo da loja, [configure uma política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) para a conta.
+4. Caso a política comercial já esteja configurada e o problema persista, abra um ticket para o [Suporte VTEX](https://supporticket.vtex.com/support) para verificar a associação entre a política comercial e o catálogo.
+
+Se ainda não for possível gerenciar o conteúdo, veja a próxima seção: [Verificar a localidade principal do domínio](#verificar-a-localidade-principal-do-dominio).
 
 ### Verificar a localidade principal do domínio
 
