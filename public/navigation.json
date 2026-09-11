@@ -57217,6 +57217,21 @@
             },
             {
               "name": {
+                "en": "Delayed \"payment-approved\" transition for fast/auto-approval payment methods (workflow not ready when authorization notification arrives)",
+                "es": "Transición retrasada a \"pago aprobado\" para métodos de pago de aprobación rápida/automática (el flujo de trabajo no está listo cuando llega la notificación de autorización).",
+                "pt": "Transição de \"pagamento aprovado\" atrasada para métodos de pagamento com aprovação rápida/automática (fluxo de trabalho não está pronto quando a notificação de autorização chega)."
+              },
+              "slug": {
+                "en": "delayed-paymentapproved-transition-for-fastautoapproval-payment-methods-workflow-not-ready-when-authorization-notification-arrives",
+                "es": "transicion-retrasada-a-pago-aprobado-para-metodos-de-pago-de-aprobacion-rapidaautomatica-el-flujo-de-trabajo-no-esta-listo-cuando-llega-la-notificacion-de-autorizacion",
+                "pt": "transicao-de-pagamento-aprovado-atrasada-para-metodos-de-pagamento-com-aprovacao-rapidaautomatica-fluxo-de-trabalho-nao-esta-pronto-quando-a-notificacao-de-autorizacao-chega"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Delivery Flag in My Orders. Due to an error in filling the Invoice.",
                 "es": "Bandera de entrega en Mis Pedidos. Debido a un error al rellenar la factura.",
                 "pt": "Bandeira de entrega em Meus Pedidos. Devido a um erro no preenchimento da Nota Fiscal."
@@ -69031,6 +69046,21 @@
                 "en": "category-mapping-via-xls-not-reprocessed-for-accounts-with-large-volume-of-suggestions",
                 "es": "la-asignacion-de-categorias-mediante-xls-no-se-reprocesa-para-cuentas-con-un-gran-volumen-de-sugerencias",
                 "pt": "o-mapeamento-de-categorias-via-xls-nao-e-reprocessado-para-contas-com-grande-volume-de-sugestoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CentauroKI Mapper filer have 1MB file size limit on API uploads",
+                "es": "CentauroKI El servidor de archivos Mapper tiene un límite de tamaño de archivo de 1 MB para las cargas de API.",
+                "pt": "CentauroKI O mapeador de arquivos tem um limite de tamanho de arquivo de 1 MB para uploads via API."
+              },
+              "slug": {
+                "en": "centauroki-mapper-filer-have-1mb-file-size-limit-on-api-uploads",
+                "es": "centauroki-el-servidor-de-archivos-mapper-tiene-un-limite-de-tamano-de-archivo-de-1-mb-para-las-cargas-de-api",
+                "pt": "centauroki-o-mapeador-de-arquivos-tem-um-limite-de-tamanho-de-arquivo-de-1-mb-para-uploads-via-api"
               },
               "origin": "",
               "type": "markdown",
