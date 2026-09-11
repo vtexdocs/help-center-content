@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "VTEX CX Platform: WhatsApp automation execution logs",
+                    "es": "VTEX CX Platform: logs de ejecución de las automatizaciones de WhatsApp",
+                    "pt": "VTEX CX Platform: logs de execução das automações de WhatsApp"
+                  },
+                  "slug": {
+                    "en": "2026-09-11-vtex-cx-platform-whatsapp-automation-execution-logs",
+                    "es": "2026-09-11-vtex-cx-platform-logs-de-ejecucion-de-las-automatizaciones-de-whatsapp",
+                    "pt": "2026-09-11-vtex-cx-platform-logs-de-execucao-das-automacoes-de-whatsapp"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Intelligent Search: Facets, keywords, and special character improvements",
                     "es": "Intelligent Search: mejoras en filtros, palabras clave y caracteres especiales",
                     "pt": "Intelligent Search: melhorias em filtros, keywords e caracteres especiais"
@@ -69046,6 +69061,21 @@
                 "en": "category-mapping-via-xls-not-reprocessed-for-accounts-with-large-volume-of-suggestions",
                 "es": "la-asignacion-de-categorias-mediante-xls-no-se-reprocesa-para-cuentas-con-un-gran-volumen-de-sugerencias",
                 "pt": "o-mapeamento-de-categorias-via-xls-nao-e-reprocessado-para-contas-com-grande-volume-de-sugestoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CentauroKI Mapper filer have 1MB file size limit on API uploads",
+                "es": "CentauroKI El servidor de archivos Mapper tiene un límite de tamaño de archivo de 1 MB para las cargas de API.",
+                "pt": "CentauroKI O mapeador de arquivos tem um limite de tamanho de arquivo de 1 MB para uploads via API."
+              },
+              "slug": {
+                "en": "centauroki-mapper-filer-have-1mb-file-size-limit-on-api-uploads",
+                "es": "centauroki-el-servidor-de-archivos-mapper-tiene-un-limite-de-tamano-de-archivo-de-1-mb-para-las-cargas-de-api",
+                "pt": "centauroki-o-mapeador-de-arquivos-tem-um-limite-de-tamanho-de-arquivo-de-1-mb-para-uploads-via-api"
               },
               "origin": "",
               "type": "markdown",
