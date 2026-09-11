@@ -35452,6 +35452,140 @@
           "children": [
             {
               "name": {
+                "en": "AI Workspace and Agents Beta",
+                "es": "AI Workspace y Agentes Beta",
+                "pt": "AI Workspace e Agentes Beta"
+              },
+              "slug": {
+                "en": "ai-workspace-and-agents-beta-subcategory",
+                "es": "ai-workspace-y-agentes-beta-subcategoria",
+                "pt": "ai-workspace-e-agentes-beta-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "AI Workspace - Glossary",
+                    "es": "AI Workspace - Glosario",
+                    "pt": "AI Workspace - Glossário"
+                  },
+                  "slug": {
+                    "en": "ai-workspace-glossary",
+                    "es": "ai-workspace-glosario",
+                    "pt": "ai-workspace-glossario"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Agents list",
+                    "es": "Lista de agentes",
+                    "pt": "Lista de agentes"
+                  },
+                  "slug": {
+                    "en": "agents-list",
+                    "es": "lista-agentes",
+                    "pt": "lista-agentes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Interface",
+                    "es": "Interfaz",
+                    "pt": "Interface"
+                  },
+                  "slug": {
+                    "en": "ai-workspace-interface",
+                    "es": "ai-workspace-interfaz",
+                    "pt": "ai-workspace-interface"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "AI Workspace - Home",
+                        "es": "AI Workspace - Página inicial",
+                        "pt": "AI Workspace - Página inicial"
+                      },
+                      "slug": {
+                        "en": "ai-workspace-home",
+                        "es": "ai-workspace-pagina-inicial",
+                        "pt": "ai-workspace-pagina-inicial"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "AI Workspace - Navigation menu",
+                        "es": "AI Workspace - Menú de navegación",
+                        "pt": "AI Workspace - Menu de navegação"
+                      },
+                      "slug": {
+                        "en": "ai-workspace-navigation-menu",
+                        "es": "ai-workspace-menu-navegacion",
+                        "pt": "ai-workspace-menu-navegação"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "AI Workspace - Initiatives",
+                        "es": "AI Workspace - Iniciativas",
+                        "pt": "AI Workspace - Iniciativas"
+                      },
+                      "slug": {
+                        "en": "ai-workspace-initiatives",
+                        "es": "ai-workspace-iniciativas",
+                        "pt": "ai-workspace-iniciativas"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "AI Workspace - Tasks",
+                        "es": "AI Workspace - Tareas",
+                        "pt": "AI Workspace - Tarefas"
+                      },
+                      "slug": {
+                        "en": "ai-workspace-tasks",
+                        "es": "ai-workspace-tareas",
+                        "pt": "ai-workspace-tarefas"
+                      }
+                    },
+                    {
+                      "name": {
+                        "en": "AI Workspace - Chat",
+                        "es": "AI Workspace - Conversación",
+                        "pt": "AI Workspace - Conversa"
+                      },
+                      "slug": {
+                        "en": "ai-workspace-chat",
+                        "es": "ai-workspace-conversacion",
+                        "pt": "ai-workspace-conversa"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Catalog Beta",
                 "es": "Catálogo Beta",
                 "pt": "Catálogo Beta"
