@@ -88,6 +88,40 @@ To edit a delivery option, follow the steps below:
 
 The delivery option will then be active and up to date.
 
+## Checking logistics coverage
+
+When editing a shipping option, you can check whether the store configuration meets the criteria defined in the option, identifying the sellers, shipping policies, and routes available to fulfill it. This check helps diagnose why a shipping option might not be displayed to the customer.
+
+To check the logistics coverage of a delivery option, follow the steps below:
+
+1. In the VTEX Admin, go to **Shipping > Delivery Options**, or type **Delivery Options** in the search bar at the top of the page.
+2. Find the delivery option you want to activate and click the vertical ellipsis menu <i class="fas fa-ellipsis-v"></i>.
+3. Click <i class="fas fa-pencil-alt"></i> `Edit delivery option`.
+4. Click `Check logistics coverage`.
+
+The **Check logistics coverage** modal will open on the right side of the page, displaying the following information:
+
+| Information                  | Description                                                                                                                                                                                                                                                                                         |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sellers                      | Number of sellers that meet the criteria configured in the delivery option.                                                                                                                                                                                                         |
+| Shipping policies            | Number of shipping policies that meet the criteria configured in the delivery option.                                                                                                                                                                                               |
+| Delivery zones               | List of shipping zones configured in the delivery option, indicating the number of sellers and shipping policies that serve each zone.                                                                                                                                              |
+| Valid routes for this option | List of sellers that fulfill the delivery option, indicating the number of shipping policies and routes for each one. The section title also shows how many sellers are displayed relative to the total found (for example, **showing 2 of 2**). |
+
+In the **Valid routes for this option** section, click <i class="fas fa-chevron-down"></i> next to a seller name to expand their routes. Each route is presented as the combination of a shipping policy and a loading dock, in the format `Shipping policy + Dock`, as shown in the example below:
+
+- `DHL - FL` + `Main Dock`
+- `DHL - FL` + `Miami`
+- `DHL - NY` + `Main Dock`
+
+This way, you can identify exactly which combinations of shipping policy and loading dock are enabled to fulfill the delivery option for each seller. To collapse a seller's route list, click <i class="fas fa-chevron-up"></i>.
+
+To find a specific shipping zone or seller, click <i class="fas fa-search"></i> in the corresponding section and type the desired name.
+
+If any store configuration changes while the modal is open, click <i class="fas fa-sync-alt"></i> to update the displayed information. To close the modal, click <i class="fas fa-times"></i>.
+
+> ℹ️ If a delivery zone has no sellers or shipping policies, the delivery option won't be displayed to the customer in that location. Delivery Options use the [shipping policies](/en/docs/tutorials/shipping-policy) configured in the store.
+
 ## Deactivating delivery options
 
 To deactivate a delivery option, follow the steps below:
@@ -129,7 +163,7 @@ To search for a delivery option, click the search bar and type the name of the d
 
 To filter the list of delivery options, click one of the filters described below and select the desired options.
 
-- **Delivery method:** Filters by shipping methods, **Shipping**, **Scheduled delivery**, **Pickup**, and **Scheduled Pickup**, as added to the delivery options.
+- **Delivery method:** Filters by shipping methods, **Shipping**, **Scheduled delivery**, **Pickup**, and **Scheduled pickup**, as added to the delivery options.
 
 - **Delivery zone:** Filter by the delivery zones configured in the delivery options. You can search for the delivery zone name in the search bar.
 
