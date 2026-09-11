@@ -8,7 +8,7 @@ slugEN: configure-shopping-assistant
 locale: pt
 ---
 
-O Shopping Assistante é o canal de web chat do VTEX CX Platform que permite atender os visitantes do seu site com um agente de IA. Você personaliza o visual e o comportamento do widget e, em seguida, instala o chat no site com um script gerado pela plataforma.
+O Shopping Assistant é o canal de web chat do VTEX CX Platform que permite atender os visitantes do seu site com um agente de IA. Você personaliza o visual e o comportamento do widget e, em seguida, instala o chat no site com um script gerado pela plataforma.
 
 Este tutorial explica como acessar o canal, personalizar a aparência, configurar as preferências e instalar o script no site.
 
