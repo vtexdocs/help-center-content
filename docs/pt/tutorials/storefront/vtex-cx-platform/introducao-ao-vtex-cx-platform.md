@@ -1,31 +1,26 @@
 ---
-title: 'Introdução ao CX'
-id: 50MhPxb5jmKTOyW1UcWER3
+title: 'Introdução ao VTEX CX Platform'
 status: PUBLISHED
 createdAt: 2025-10-03T16:56:02.600Z
 updatedAt: 2025-05-13T14:20:03.474Z
-publishedAt: 2025-10-03T14:20:03.474Z
-firstPublishedAt: 2025-10-03T14:20:03.474Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: introduction-to-cx
+slugEN: introduction-to-vtex-cx-platform
 legacySlug: introducao-ao-weni-agentic-ai
 locale: pt
-subcategoryId: 7BtmQ6zk6O7VJ7QumXJEiM
 ---
 
-O CX é uma ferramenta nativa da VTEX de atendimento ao cliente com uso de agentes. Esses agentes usam inteligência artificial (IA) para conversar com os seus clientes, exibir o catálogo da sua loja e criar um carrinho, entre outras ações.
+O VTEX CX Platform é uma ferramenta nativa da VTEX de atendimento ao cliente com uso de agentes. Esses agentes usam inteligência artificial (IA) para conversar com os seus clientes, exibir o catálogo da sua loja e criar um carrinho, entre outras ações.
 
-## Configurar o CX
+## Configurar o VTEX CX Platform
 
 Para configurar essa ferramenta na sua loja, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Storefront**, ou digite **Storefront** na barra de busca no topo da página.
-2. Em **CX**, clique em **Dashboard**.
+2. Em **VTEX CX Platform**, clique em **Dashboard**.
 3. Na tela de onboarding, selecione entre [Escala suporte e eficiência](#escala-suporte-e-eficiência) e [WhatsApp Store](#whatsapp-store).
 
-> ℹ️ Essa escolha inicial é apenas para o onboarding. Você pode habilitar a outra opção depois, no menu de Configurações do CX.
+> ℹ️ Essa escolha inicial é apenas para o onboarding. Você pode habilitar a outra opção depois, no menu de Configurações do VTEX CX Platform.
 
 ### Escala suporte e eficiência
 
@@ -77,11 +72,11 @@ Para ativar essa ferramenta, siga os passos abaixo:
 8. Selecione o modo de verificação do número.
     - Com o número pré-verificado, você pode pular esse passo.
 9. Leia as permissões concedidas ao VTEX CX Platform e clique em `Confirmar`.
-10. Ao final, clique em `Concluir`. Você vai ser direcionado de volta ao CX no Admin da VTEX.
+10. Ao final, clique em `Concluir`. Você vai ser direcionado de volta ao VTEX CX Platform no Admin da VTEX.
 
 ## Dashboard
 
-O Dashboard mostra informações sobre o CX e é dividido em duas páginas:
+O Dashboard mostra informações sobre o VTEX CX Platform e é dividido nas seguintes páginas:
 
 - [Desempenho do time de agentes](#desempenho-do-time-de-agentes)
 - [Recuperação de carrinho abandonado](#recuperação-de-carrinho-abandonado)
@@ -105,6 +100,8 @@ A tela de recuperação de carrinho abandonado fornece uma visão geral das inte
 > ℹ️ O número de mensagens lidas depende das configurações do WhatsApp do cliente. Se as leituras de mensagem estiverem desativadas, essa métrica vai ser afetada.
 
 - **Cliques**: número de cliques no link de recuperação de carrinho abandonado.
+
+Para personalizar o seu agente e editar as configurações do VTEX CX Platform, clique em `Configurações`. Para saber mais, acesse o artigo [Configurar o VTEX CX Platform no Admin VTEX](https://help.vtex.com/pt/docs/tutorials/configuring-vtex-cx-platform-inside-vtex-admin).
 
 ## Auditoria
 

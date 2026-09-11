@@ -1,31 +1,26 @@
 ---
 title: 'Introduction to VTEX CX Platform'
-id: 50MhPxb5jmKTOyW1UcWER3
 status: PUBLISHED
 createdAt: 2025-10-03T16:56:02.600Z
 updatedAt: 2025-05-13T14:20:03.474Z
-publishedAt: 2025-10-03T14:20:03.474Z
-firstPublishedAt: 2025-10-03T14:20:03.474Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: introduction-to-cx
+slugEN: introduction-to-vtex-cx-platform
 legacySlug: introduction-to-agentic-cx
 locale: en
-subcategoryId: 7BtmQ6zk6O7VJ7QumXJEiM
 ---
 
-CX is a VTEX native customer support tool that uses agents. These agents use artificial intelligence (AI) to interact with your customers, display your store catalog, and create a cart, among other actions.
+VTEX CX Platform is a VTEX native customer support tool that uses agents. These agents use artificial intelligence (AI) to interact with your customers, display your store catalog, and create a cart, among other actions.
 
-## Configuring CX
+## Configuring VTEX CX Platform
 
 To configure this tool in your store, follow these steps:
 
 1. In the VTEX Admin, go to **Storefront**, or type **Storefront** in the search bar at the top of the page.
-2. Under **VTEX CX Platform**, click **CX Dashboard**.
+2. Under **VTEX CX Platform**, click **Dashboard**.
 3. On the onboarding screen, select between [Scale support and efficiency](#scale-support-and-efficiency) and [WhatsApp Store](#whatsapp-store).
 
-> ℹ️ This initial selection is only for onboarding. You can enable the other option later in the CX Settings menu.
+> ℹ️ This initial selection is only for onboarding. You can enable the other option later in the VTEX CX Platform Settings menu.
 
 ### Scale support and efficiency
 

@@ -21894,14 +21894,29 @@
               "children": [
                 {
                   "name": {
-                    "en": "Creating CX automations",
-                    "es": "Crear automatizaciones de CX",
-                    "pt": "Criar automações do CX"
+                    "pt": "Configurar o VTEX CX Platform no Admin VTEX",
+                    "en": "Configurar o VTEX CX Platform no Admin VTEX",
+                    "es": "Configurar o VTEX CX Platform no Admin VTEX"
                   },
                   "slug": {
-                    "en": "create-cx-automations",
-                    "es": "creando-automaciones",
-                    "pt": "criar-automacoes-do-cx"
+                    "pt": "configurar-o-vtex-cx-platform-no-admin-vtex",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Creating VTEX CX Platform automations",
+                    "es": "Crear automatizaciones de VTEX CX Platform",
+                    "pt": "Criar automações do VTEX CX Platform"
+                  },
+                  "slug": {
+                    "en": "creating-vtex-cx-platform-automations",
+                    "es": "crear-automatizaciones-de-vtex-cx-platform",
+                    "pt": "criar-automacoes-do-vtex-cx-platform"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -21911,12 +21926,12 @@
                   "name": {
                     "en": "Introduction to VTEX CX Platform",
                     "es": "Introducción a VTEX CX Platform",
-                    "pt": "Introdução ao CX"
+                    "pt": "Introdução ao VTEX CX Platform"
                   },
                   "slug": {
-                    "en": "introduction-to-cx",
-                    "es": "introduccion-a-cx",
-                    "pt": "introducao-ao-cx"
+                    "en": "introduction-to-vtex-cx-platform",
+                    "es": "introduccion-a-vtex-cx-platform",
+                    "pt": "introducao-ao-vtex-cx-platform"
                   },
                   "origin": "",
                   "type": "markdown",
