@@ -47,7 +47,6 @@ def file_exists(repo, ref, path):
 changed_files = [f for f in pr.get_files() if (
     f.filename.endswith(('.md', '.mdx'))
     and f.filename.startswith('docs/')
-    and f.status != 'removed'
 )]
 
 print(f"Found {len(changed_files)} markdown file{plural_list(changed_files)} in PR:")
