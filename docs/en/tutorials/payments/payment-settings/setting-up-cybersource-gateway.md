@@ -134,7 +134,7 @@ To process credit card payments through Cybersource, follow the steps below:
 8. If you wish, you can also [configure special payment conditions](/en/docs/tutorials/special-conditions).
 9. Click __Save__.
 
-> ⚠️ If you have previously created credit card payment conditions for other gateways (including the legacy Cybersource provider), you can set those conditions to **Inactive**. In-progress transactions initiated from that provider will still be processed by that provider, even if it is inactive. Only new transactions will be processed by the new Cybersource IO provider. If you need to revert to your previous provider for any reason, simply set their payment conditions to **Active** and the Cybersource IO payment conditions to **Inactive**.
+> ⚠️ If you have previously created credit card payment conditions for other gateways (including the legacy Cybersource provider), you can set those conditions to **Inactive**. In-progress transactions initiated from that provider will still be processed by that provider, even if it is inactive. Only new transactions will be processed by the new Cybersource IO provider. If you need to revert to your previous provider for any reason, set their payment conditions to **Active** and the Cybersource IO payment conditions to **Inactive**.
 
 ## Setting up Cybersource IO Device Fingerprint (optional)
 

@@ -17,7 +17,7 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 
 The commercial conditions of the B2B (Business to Business) scenario are different from those of B2C (Business to Consumer). Thus, it is necessary to implement different strategies to achieve the desired results. The focus here is to describe the most common promotions in B2B.
 
-First, it is important to highlight that in B2B, e-commerce is used for Promotion and Campaign Audience cases, since ERP is not agile enough for this demand. Second, the main goal of promotions in B2B is to convert the high volume of orders on the platform into sales.
+First, it is important to highlight that in B2B, e-commerce is used for promotions and campaign audiences because the ERP is not agile enough for these campaigns. Second, the main goal of promotions in B2B is to convert the high volume of orders on the platform into sales.
 
 The retailer needs to keep in mind that some actions should be __recurrent__ to guarantee this amount of orders. Here are some of the actions that can be taken:
 - ERP defined and integrated sales channels for e-commerce.
@@ -26,8 +26,8 @@ The retailer needs to keep in mind that some actions should be __recurrent__ to 
 - Minimum quantity per order or minimum value for free shipping.
 
 Retailers must be careful not to carry out promotions that can harm their business. Thus, retailers should think about whether the promotion fits any of the following cases:
-- __"Old" inventory (or inventory aging)__: even if the product is not perishable, it is necessary to keep in mind that the retailer is paying to maintain products that are sitting on shelves. In addition, some products can become obsolete. Each market and product segment analyzes its own aging control methodology, however it is essential to carry out promotions in accordance with this policy;
-- __Anticipation of receipt__: cash flow is another essential factor in corporate management. Offering customers payment in advance options can increase your profit and allow investments in new products;
+- __"Old" inventory (or inventory aging)__: even if the product is not perishable, it is necessary to keep in mind that the retailer is paying to maintain products that are sitting on shelves. In addition, some products can become obsolete. Each market and product segment analyzes its own aging control methodology. However, it is essential to run promotions in accordance with this policy;
+- __Anticipation of receipt__: cash flow is another essential factor in corporate management. Offering customers advance-payment options can increase your profit and allow investments in new products;
 - __Supplier rebate__: credit offered to the store by the supplier that will be transformed into a discount for the end customer. This allows for a more competitive price without compromising margin and profitability;
 - __Increase in your contribution margin__: Promotional actions must always be in line with the store's EBITDA growth (Earnings Before Interest, Taxes, Depreciation and Amortization).
 
@@ -47,17 +47,17 @@ To calibrate the extension of the promotion, you can use the restrictions and us
 
 ## Payment methods
 
-The payment for a B2B transaction has an invoice time according to its segment. A common example is a payment made within 28 days. You can encourage other forms of payment by associating them with promotions and discounts.
+The payment for a B2B transaction follows invoice terms that vary by segment. A common example is a payment made within 28 days. You can encourage other forms of payment by associating them with promotions and discounts.
 
 A common case is the prepayment in full, which anticipates the receipt. The retailer can offer a percentage discount on the total purchase price and, depending on the category, increase and decrease the discount according to the volume of the purchase.
 
-Another way to implement promotions is through an one-off agreement with retailers. It consists of agreeing to a discount on each invoice for products sold below their normal prices. This rebate is applied when the price of the product is higher than the amount paid by the final consumer.
+Another way to implement promotions is through a one-off agreement with retailers. It consists of agreeing to a discount on each invoice for products sold below their normal prices. This rebate is applied when the price of the product is higher than the amount paid by the final consumer.
 
 In addition, if the manufacturer grants a rebate credit, this discount can also be included in the one-off agreement. Thus, the manufacturer bears the cost of the discount.
 
 ## Mix margin increase
 
-The mix margin is the combination of at least two products. For example, let's take a promotion with 2 products - one with a higher contribution margin and low sales volume and the other with a smaller contribution, usually having higher sales volume.
+A mix-margin strategy combines at least two products. For example, let's take a promotion with 2 products - one with a higher contribution margin and low sales volume and the other with a smaller contribution, usually having higher sales volume.
 
 As an example, imagine a notebook that has a high sales volume and a low margin due to competition. A backpack, on the other hand, can sell less and have a slightly higher margin.
 
@@ -70,7 +70,7 @@ Thinking about customer profiles is a good way to apply promotions efficiently. 
 
 If the retailer has a rebate from a manufacturer, it is worth focusing on the segment that consumes that product. It is another way of delimiting the categories that will receive planned discounts.
 
-Check out our article on [how to create a benefit for a cluster of customers](/en/docs/tutorials/creating-promotion-for-a-customer-cluster) to learn more on how to implement this method.
+Check out our article on [how to create a benefit for a cluster of customers](/en/docs/tutorials/creating-promotion-for-a-customer-cluster) to learn more about how to implement this method.
 
 ## Free shipping
 
@@ -78,4 +78,4 @@ Another way to attract customer interest is with a promotion that offers free sh
 
 This strategy can be combined with other previously mentioned ones. You can offer free shipping when the customer buys a large volume of a product that has been in your inventory for a long time, for example. It is also possible to use free shipping as a discount for prepayment in full.
 
-For more information on how to make a free shipping percentage promotion, see the article [Creating a Regular Promotion](/en/docs/tracks/creating-regular-promotions).
+For more information on how to create a free shipping promotion, see the article [Creating a Regular Promotion](/en/docs/tracks/creating-regular-promotions).

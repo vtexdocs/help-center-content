@@ -103,7 +103,7 @@ In the `UNSCHEDULED` tab, there are only three columns with the same meaning as 
 - Last modified
 - Created by
 
-For more information on a specific release, you can simply click it.
+For more information on a specific release, you can click it.
 
 ## Searching releases
 

@@ -40,7 +40,7 @@ To create a new gift card, follow the step by step:
    - **Customer ID**: data that identifies and defines the voucher for a specific client.
    - **Collection**: identifies the product collection that defines the items to which the voucher can be applied.
 
-> ⚠️ **Warning**: The “Value” and the “Expiration Date” fields are **mandatory**. If you do not fill them, the purchase voucher will not be saved.
+> ⚠️ The “Value” and the “Expiration Date” fields are **mandatory**. If you do not fill them, the purchase voucher will not be saved.
 
 > ❗ The feature that creates gift cards limited by product collections is not working. More details about this issue are provided in the article [Collection functionality doesn't work on Giftcard](https://help.vtex.com/en/known-issues/collection-functionality-doesnt-work-on-giftcard).
 
@@ -66,7 +66,7 @@ To create more than one new voucher at the same time (a batch), follow the step 
    - **Expiration Date**: this is the effective date for using all vouchers of this batch.
    - **Collection**: identifies the product collection that defines the items to which the vouchers can be applied.
 
-> ⚠️ **Warning**: The “Number of gift cards”, “Value” and the “Expiration Date” fields are **mandatory**. If you don’t fill them, the purchase vouchers will not be saved.
+> ⚠️ The “Number of gift cards”, “Value” and the “Expiration Date” fields are **mandatory**. If you don’t fill them, the purchase vouchers will not be saved.
 
 > ❗ The feature that creates gift cards limited by product collections is not working. More details about this issue are provided in the article [Collection functionality doesn't work on Giftcard](https://help.vtex.com/known-issues/collection-functionality-doesnt-work-on-giftcard).
 

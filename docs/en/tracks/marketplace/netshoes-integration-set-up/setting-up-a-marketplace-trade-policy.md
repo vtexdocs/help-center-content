@@ -19,7 +19,7 @@ The first step of any integration is to set up the sales policy that will be use
 
 One of the functions of sales policies is to make a differentiation of __catalog__ and/or __logistics__ between the different sales channels of your store. That is, a new sales policy is only necessary when one of these factors is different between the sales channels.
 
-A single sales policy can be shared by more than one marketplace or between the main store and the marketplace. To do this, simply use the same sales policy ID in the [settings](/en/tutorial/integrating-with-marketplace). By doing so, the same catalog and the same logistics will be used for the stores or channels that are configured with the same sales policy.
+A single sales policy can be shared by more than one marketplace or between the main store and the marketplace. To do this, use the same sales policy ID in the [settings](/en/docs/tutorials/marketplace-strategies-at-vtex). By doing so, the same catalog and the same logistics will be used for the stores or channels that are configured with the same sales policy.
 
 ![carrefour.en2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/netshoes-integration-set-up/setting-up-a-marketplace-trade-policy_1.png)
 
@@ -46,6 +46,6 @@ In order to define the product catalog that will be sent to the marketplace, the
 
 The simulation of shipping and inventory update depends on a previous configuration of the logistics that will meet the sales policy associated with the marketplace. The required settings are the default settings for store logistics. However, it is at the warehouse dock that you must associate the sales policy linked to the marketplace.
 
-1. [Create or edit a warehouse dock](/en/tutorial/how-to-register-a-dock) in association with the sales policy.
+1. [Create or edit a warehouse dock](/en/docs/tutorials/managing-loading-docks) in association with the sales policy.
 2. Associate a [carrier](/en/tutorial/registering-a-carrier) to that warehouse dock.
-3. Check if there is any [inventory](/en/tutorial/registering-a-stock) associated with that warehouse dock.
+3. Check if there is any [inventory](/en/docs/tutorials/managing-warehouses) associated with that warehouse dock.

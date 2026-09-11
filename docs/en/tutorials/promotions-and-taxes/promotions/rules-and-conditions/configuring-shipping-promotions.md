@@ -21,9 +21,9 @@ The step-by-step instructions for creating a shipping promotion are the same as 
 
 Before setting up a shipping promotion, you should understand how discounts can be offered to your buyers. On VTEX, there are four types of shipping promotions, which you can choose in the field **What is the type and amount of the discount?** when creating a [Regular Promotion](/en/docs/tutorials/regular-promotion). Here are the shipping promotion types:
 
-- **Nominal:** a specific discount on the shipping cost. For example,  a $20 discount for deliveries to the West Coast.
+- **Nominal:** a specific discount on the shipping cost. For example, a $20 discount for deliveries to the West Coast.
 
-- **Percentage:** a percentage discount on the shipping cost. For example,  a 50% discount on the shipping cost for products in the Kids department.
+- **Percentage:** a percentage discount on the shipping cost. For example, a 50% discount on the shipping cost for products in the Kids department.
 
 - **Maximum shipping rate:** allows you to set a maximum value for the shipping cost. For example, products "X" and "Y" will have a maximum shipping rate of $20.
 

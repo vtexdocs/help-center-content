@@ -3,7 +3,7 @@ title: 'Evaluación de riesgos'
 id: 4K97IpqkpCpDYsZOSxtfkX
 status: PUBLISHED
 createdAt: 2022-05-26T13:08:53.479Z
-updatedAt: 2025-10-24T23:03:49.398Z
+updatedAt: 2026-08-24T14:06:50.000Z
 publishedAt: 2025-10-24T23:03:49.398Z
 firstPublishedAt: 2022-05-26T13:17:48.374Z
 contentType: tutorial
@@ -112,7 +112,7 @@ Los dispositivos de almacenamiento de multimedia utilizados para almacenar los d
 ### Datos y privacidad
 
 #### ¿La empresa dispone de una política de privacidad y protección de datos? ¿Con qué frecuencia se revisa? ¿Esta política se ha distribuido y comunicado a toda la empresa?
-Sí, VTEX dispone de políticas de privacidad y protección de datos, que se revisan anualmente. Las políticas de privacidad interna y externa han sido distribuidas y comunicadas a toda la empresa a través de nuestro canal de anuncios internos. La política de privacidad interna se encuentra alojada en nuestra herramienta de documentos corporativos internos para que todos los empleados puedan consultarla. Accede a la [Política de Privacidad Externa](https://vtex.com/mx-es/trust/general-external-privacy-notice/) (External Privacy Notice).
+Sí, VTEX dispone de políticas de privacidad y protección de datos, que se revisan anualmente. Las políticas de privacidad interna y externa han sido distribuidas y comunicadas a toda la empresa a través de nuestro canal de anuncios internos. La política de privacidad interna se encuentra alojada en nuestra herramienta de documentos corporativos internos para que todos los empleados puedan consultarla. Accede a la [Política de Privacidad Externa](https://www.vtex.com/es-mx/trust/general-external-privacy-notice) (External Privacy Notice).
 
 #### ¿La organización cuenta con un DPO (Data Protection Officer) o delegado de protección de datos?
 
@@ -134,12 +134,12 @@ VTEX, como encargada del tratamiento, procesa los datos personales de los compra
 * Contraseñas de sesión (cifradas)
 * Tokens generados
 
-La lista de datos anterior se encuentra detallada en el [Data Processing Addendum (DPA)](/es/tracks/datos-y-privacidad--4Lc0i0an0DgnEtB0AUwlcq/5f8hTEw3xOALgqzus9VXKd#data-processing-addendum-dpa).
+La lista de datos anterior se encuentra detallada en el [Data Processing Addendum (DPA)](https://compliance.vtex.com/item/data-processing-addendum).
 
 #### ¿Cómo asegura VTEX el cumplimiento del Reglamento General de Protección de Datos (RGPD) y de la Ley General de Protección de Datos de Brasil (LGPD)?
-VTEX se compromete a cumplir toda la normativa aplicable en materia de protección de datos, incluidos el RGPD y la LGPD. Puedes obtener más información sobre nuestras políticas, contratos y compromiso con el cumplimiento de la protección de datos en nuestro sitio web, en la página [Privacidad y Contratos](https://vtex.com/mx-es/trust/).
+VTEX se compromete a cumplir toda la normativa aplicable en materia de protección de datos, incluidos el RGPD y la LGPD. Puedes obtener más información sobre nuestras políticas, contratos y compromiso con el cumplimiento de la protección de datos en nuestro sitio web, en el [Aviso de Privacidad Externo](https://compliance.vtex.com/item/privacy-notice-for-shoppers) de la Plataforma VTEX.
 
-Consulta nuestro [Data Processing Addendum (DPA)](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/) para entender cómo tratamos los datos personales en VTEX.
+Consulta nuestro [Data Processing Addendum (DPA)](https://compliance.vtex.com/item/data-processing-addendum), o Adendo de Tratamiento de Datos Personales, para entender cómo tratamos los datos personales en VTEX.
 
 #### ¿Qué derechos de los titulares garantiza la plataforma VTEX?
 VTEX actúa como encargada del tratamiento de los datos de los consumidores finales procesados por nuestros clientes (retailers). Por este motivo, VTEX no podrá responder directamente a las solicitudes de los titulares. Si el titular de datos (o sus representantes) envía una solicitud, VTEX se lo comunicará al retailer, según lo indique el propio titular.
@@ -152,12 +152,14 @@ Si necesitas ayuda para ejercer los derechos de titulares de datos de alguno de 
 VTEX ha establecido una política de clasificación de la información con el objetivo de orientar a sus empleados sobre la correcta categorización de la información, en función de su nivel de criticidad. Nuestra política tiene como objetivo garantizar la seguridad, integridad y confidencialidad de los datos de VTEX, así como ayudar a gestionar el acceso a esta información de manera apropiada. La política establece los siguientes niveles de clasificación: público, interno y confidencial, y especifica las medidas de seguridad asociadas a cada categoría.
 
 #### ¿De qué manera los datos entran en contacto con terceros, proyectos tercerizados o subcontratados y cómo se protegen y monitorean estas interacciones?
-La infraestructura de VTEX depende enteramente de proveedores terceros, lo que garantiza que los partners externos no tienen acceso a los datos de los inquilinos (tenants). Consulta la lista completa de nuestros subencargados en [Subencargados VTEX](https://compliance.vtex.com/?itemUid=e3fae2ca-94a9-416b-b577-5c90e382df57&source=click/).
+La infraestructura de VTEX depende enteramente de proveedores terceros, lo que garantiza que los partners externos no tienen acceso a los datos de los inquilinos (tenants). Consulta la lista completa de nuestros subencargados en [Subencargados](https://compliance.vtex.com/?itemUid=e3fae2ca-94a9-416b-b577-5c90e382df57&source=search).
 
-La seguridad del tratamiento y envío de datos a terceros es una prioridad fundamental para VTEX. Contamos con un enfoque integral que combina tecnología avanzada, procesos de seguridad rigurosos y capacitación continua para empleados. Utilizamos medidas tecnológicas, como el cifrado sólido, para proteger los datos durante su envío y procesamiento. Además, hemos implementado estrictos procesos de seguridad de la información y controles de acceso para garantizar que solamente tengan acceso a los datos personas autorizadas. Como parte de nuestras acciones, también realizamos inversiones continuas en actualizaciones y optimizaciones para garantizar una protección efectiva de los datos compartidos con partners terceros. Consulta [Prácticas de seguridad](https://vtex.com/mx-es/security/security-practices/) para saber más sobre nuestras medidas de seguridad vigentes.
+La seguridad del tratamiento y envío de datos a terceros es una prioridad fundamental para VTEX. Contamos con un enfoque integral que combina tecnología avanzada, procesos de seguridad rigurosos y capacitación continua para empleados. Utilizamos medidas tecnológicas, como el cifrado sólido, para proteger los datos durante su envío y procesamiento. Además, hemos implementado estrictos procesos de seguridad de la información y controles de acceso para garantizar que solamente tengan acceso a los datos personas autorizadas. Como parte de nuestras acciones, también realizamos inversiones continuas en actualizaciones y optimizaciones para garantizar una protección efectiva de los datos compartidos con partners terceros. Consulta [Prácticas de seguridad](https://compliance.vtex.com/item/vtex-security-posture) para saber más sobre nuestras medidas de seguridad vigentes.
 
 #### ¿Se puede garantizar que los datos no migren más allá de una región geográfica definida?
-Actualmente, la mayoría de los datos almacenados por VTEX se basan en AWS us-east-1. Esto significa que el cliente no puede definir la región geográfica, pero también significa que VTEX no migrará los datos fuera de esa región a menos que el cliente lo autorice.
+La mayor parte de los datos almacenados por VTEX está alojada en AWS us-east-1 (Virginia, EE. UU.), y el cliente no puede definir una región geográfica alternativa para el almacenamiento. Sin embargo, VTEX puede realizar transferencias internacionales de datos personales cuando sea necesario para la operación de la plataforma (por ejemplo, para habilitar soporte, subencargados u otras actividades de tratamiento), siempre respaldadas por mecanismos legales reconocidos para tal fin, como el Data Privacy Framework (DPF) UE-EE. UU., cláusulas contractuales estándar u otras salvaguardas aplicables, según el caso.
+
+Para más detalles sobre cómo VTEX realiza y protege las transferencias internacionales de datos, consulta el whitepaper [International Transfers and the DPF](https://compliance.vtex.com/?itemUid=b625c744-158a-4edc-9d76-9322b4c730e8).
 
 #### ¿Utiliza VTEX la anonimización de datos?
 En cuanto a la anonimización de los datos, VTEX ha estado utilizando la tokenización como mecanismo para sustituir cualquier dato sensible por otro valor. Básicamente, los datos originales son completamente irrecuperables.

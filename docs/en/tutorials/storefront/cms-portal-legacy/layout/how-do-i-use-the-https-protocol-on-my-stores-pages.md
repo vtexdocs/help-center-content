@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-To change the HTTP or HTTPS protocol setting on your store pages, simply follow the steps below depending on the type of page you want.
+To change the HTTP or HTTPS protocol setting on your store pages, follow the steps below depending on the type of page you want.
 
 ## Layout
 

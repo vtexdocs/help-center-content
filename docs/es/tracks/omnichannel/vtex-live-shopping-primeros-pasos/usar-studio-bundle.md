@@ -119,7 +119,7 @@ Además, hay una opción de <i class="fas fa-toggle-off" aria-hidden="true"></i>
 El nombre se mostrará en letras blancas sobre un fondo oscuro y no se puede cambiar. Sin embargo, puedes personalizar el color inicial de la franja, ya que es el mismo que **Banners > Theme Color**. No es necesario crear un banner para activar esta opción, solo tienes que definir el color del tema, que es negro de forma predeterminada. La imagen a continuación es un ejemplo de un **Theme Color** rosa:
 
 <p align="center">
-  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/usar-studio-bundle_7.png" width="200" height="30">
+  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/usar-studio-bundle_7.png" width="200" height="30" />
 
 ### Dimensiones del recurso
 

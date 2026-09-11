@@ -17,7 +17,7 @@ order: 4
 
 It is recommended for a campaign not to be modified during the first four weeks following any change, giving the algorithm sufficient time to collect feedback and implement machine learning. After this interval, you may analyze and optimize your results.
 
-This analysis is performed starting from a Department-level performance diagnostic, followed by the Categories and Subcategories advertised during a campaign. Thereafter, you can simply remove the underperforming Categories or Subcategories.
+This analysis is performed starting from a Department-level performance diagnostic, followed by the Categories and Subcategories advertised during a campaign. Thereafter, you can remove the underperforming Categories or Subcategories.
 
 This article will shed light on how to optimize campaign starting from the removal of inefficient Categories. However, in the same way that a Department can be divided into several Categories, so too can any Category be subdivided into Subcategories.
 

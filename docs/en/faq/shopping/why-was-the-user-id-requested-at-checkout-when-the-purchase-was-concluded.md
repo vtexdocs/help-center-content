@@ -14,9 +14,9 @@ locale: en
 legacySlug: why-was-the-user-id-requested-at-checkout-when-the-purchase-was-concluded
 ---
 
-A security rule exists at checkout, regarding SmartCheckout purchase facility.
+A security rule exists at checkout, regarding the SmartCheckout purchase facility.
 
-Since with SmartCheckout purchases can be closed just with the email and with the CVV of the card, where the customer has already completed the purchase before, we restrict the number of unsuccessful attempts to conclude the purchase to 3 before asking the customer for their user ID.
+Because SmartCheckout purchases can be completed using only the email address and the card CVV when the customer has already completed a purchase before, we restrict the number of unsuccessful attempts to conclude the purchase to 3 before asking the customer for their user ID.
 
 ![LoginEN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/why-was-the-user-id-requested-at-checkout-when-the-purchase-was-concluded_1.png)
 
@@ -24,6 +24,6 @@ In other words, if the customer concludes the purchase using only the email and 
 
 > ⚠️ Requiring a new authentication is only related to the established limit of 3 unsuccessful purchase attempts with the same card. This means that, **regardless of the time interval between each attempt, authentication will be requested when the customer tries for the third time to end a purchase without success.**
 
-This measure is aimed at the security of customer data against counter-attacks and attempts at fraud.
+This measure is aimed at the security of customer data against attacks and attempts at fraud.
 
 For more information about data protection, visit [SmartCheckout Security](/en/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).

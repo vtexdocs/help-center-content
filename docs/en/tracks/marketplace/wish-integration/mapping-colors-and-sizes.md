@@ -33,7 +33,7 @@ Follow the step-by-step, filling in the mapping spreadsheet fields according to 
 
 With this information filled in, continue as follows:
 
-  1. **VTEXField**: the [SKU field's](/en/tutorial/criando-campo-de-sku) name that your store uses on VTEX. 
+  1. **VTEXField**: the [SKU field's](/en/docs/tutorials/adding-sku-specifications-or-fields) name that your store uses on VTEX. 
 _Ex: fields such as "Size", "Color"._
 
   2. **WishField**: the specification's name on Wish, name that corresponds to the one used for the VTEXField SKU field.
@@ -69,4 +69,4 @@ After filling in the spreadsheet, access the Wish app, in admin, under Marketpla
   1. Click on "Load Spreadsheet";
   2. Choose the spreadsheet containing the data and click on "Send file".
   
-Having completed this step, simply save the integration and your products will be sent. 
+Having completed this step, save the integration and your products will be sent. 

@@ -1,18 +1,12 @@
 ---
 title: 'Eventos disponibles en Audit'
-id: 6r1Mzcu5NmkmmDLJlz9CCZ
-status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2026-03-02T18:20:54.585Z
-publishedAt: 2025-08-25T18:20:54.585Z
-firstPublishedAt: 2022-06-22T16:28:52.801Z
+updatedAt: 2026-09-09T00:00:00.000Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: events-available-in-audit
-legacySlug: eventos-disponibles-en-audit
 locale: es
-subcategoryId: 2TNXiKzLZOPxjMTyGiEeJu
 ---
 
 A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/docs/tutorials/audit) para cada aplicación.
@@ -41,10 +35,12 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 * [Ad Network](#ad-network)
 * [Tokens de tarjeta](#tokens-de-tarjeta)
 * [Unidades organizativas](#unidades-organizativas)
+* [Opciones de envío](#opciones-de-envio)
+* [Agente de Optimización de Búsqueda](#agente-de-optimizacion-de-busqueda)
 
 > ℹ️ Si, en Audit, ves algún evento no incluido en esta lista, por favor, envíanos más información a través de la [página de feedback sobre documentación](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
-> ⚠️ En el módulo Audit, al hacer clic en los filtros de auditoría puedes encontrar **Opciones de envío**, **Profile System** y **Billing**, además de otras aplicaciones citadas a continuación. Estas opciónes se refieren a recursos internos o funcionalidades en beta cerrada, por lo que la mayoría de las cuentas no tendrán eventos asociados.
+> ⚠️ En el módulo Audit, al hacer clic en los filtros de auditoría puedes encontrar **Profile System** y **Billing**, además de otras aplicaciones citadas a continuación. Estas opciónes se refieren a recursos internos o funcionalidades en beta cerrada, por lo que la mayoría de las cuentas no tendrán eventos asociados.
 
 ## OMS
 
@@ -232,6 +228,10 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 | Remove Included Collection Assortment | Colección incluida eliminada del surtido. | ID del surtido e ID de la colección. |
 | Add Excluded Collection Assortment | Colección excluida agregada al surtido. | ID del surtido e ID de la colección. |
 | Remove Excluded Collection Assortment | Colección excluida eliminada del surtido. | ID del surtido e ID de la colección. |
+| Brand Activation | Activación de marca. | ID de la marca. |
+| Brand Deactivation | Desactivación de marca. | ID de la marca. |
+| Category Activation | Activación de categoría. | ID de la categoría. |
+| Category Deactivation | Desactivación de categoría. | ID de la categoría. |
 
 ## Precios
 
@@ -443,4 +443,28 @@ En la columna **Acción**, todos los eventos de Headless CMS (Legacy) también m
 | SaveOrganizationUnit | Creación de una unidad organizacional. | ID de la unidad organizacional. |
 | UpdateOrganizationUnit | Actualización del nombre de una unidad organizacional. | ID de la unidad organizacional. |
 | MoveOrganizationUnit | Creación de una jerarquía entre unidades organizacionales. | ID de la unidad organizacional superior e ID de la unidad organizacional inferior. |
+
+## Opciones de envío
+
+> ℹ️ [Opciones de envío](/es/docs/tutorials/opciones-de-envio-beta) está en fase de open beta. Estos eventos solo se registran en cuentas que usan Opciones de envío. En las demás cuentas, la búsqueda por esta aplicación no devuelve resultados.
+
+| Acción | Descripción del evento | Detalles del evento |
+|---|---|---|
+| DELIVERY_OPTION_CREATE | Creación de una opción de envío. | ID de la opción de envío. |
+| DELIVERY_OPTION_UPDATE | Actualización de una opción de envío. | ID de la opción de envío. |
+| DELIVERY_OPTION_DELETE | Eliminación de una opción de envío. | ID de la opción de envío. |
+| DELIVERY_OPTION_UPDATE_ACCOUNT_CONFIG | Actualización de la configuración de cuenta de Opciones de envío, como las preferencias de visualización en la vitrina. | Nombre de la cuenta. |
+| DELIVERY_OPTION_CHANGED_FILTER | Cambio en las opciones de envío usadas como filtro en la vitrina. | ID de la opción de envío. |
+| DELIVERY_OPTION_AUTOGENERATE_CREATE | Creación automática de una opción de envío a partir de una sugerencia. | ID de la opción de envío. |
+| DELIVERY_OPTION_AUTOGENERATE_UPDATE | Edición manual de una opción de envío generada automáticamente, que deja de tratarse como generada por la plataforma. | ID de la opción de envío. |
+
+## Agente de Optimización de Búsqueda
+
+| Acción | Descripción del evento | Detalles del evento |
+|---|---|---|
+| CreateSynonymRule | Creación de una regla de sinónimo unidireccional. | ID de la regla, términos (izquierda y derecha), locales y si la regla está activa. |
+| CreateBidirectionalSynonymRule | Creación de una regla de sinónimo bidireccional. | ID de la regla, términos (izquierda y derecha), locales y si la regla está activa. |
+| DeleteSynonymRule | Eliminación de una regla de sinónimo. | ID de la regla. |
+| ActivateSynonymRule | Activación de una regla de sinónimo. | ID de la regla. |
+| DeactivateSynonymRule | Desactivación de una regla de sinónimo. | ID de la regla. |
 

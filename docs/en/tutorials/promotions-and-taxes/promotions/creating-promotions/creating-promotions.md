@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-A promotion is a discount granted on the amount of the customer's purchase. This discount can be associated to one or several products, to the shipping cost or to a gift, for example.  VTEX offers the following types of promotions: [Regular](/en/docs/tracks/creating-regular-promotions), [Buy Together](/en/docs/tutorials/buy-together), [More for Less](/en/docs/tutorials/creating-a-more-for-less-promotion), [Progressive Discount](/en/docs/tutorials/progressive-discount), [Buy One Get One](/en/docs/tutorials/buy-one-get-one), and [Campaign Promotion](/en/docs/tutorials/campaign-promotion). 
+A promotion is a discount granted on the amount of the customer's purchase. This discount can be associated with one or several products, to the shipping cost or to a gift, for example.  VTEX offers the following types of promotions: [Regular](/en/docs/tracks/creating-regular-promotions), [Buy Together](/en/docs/tutorials/buy-together), [More for Less](/en/docs/tutorials/creating-a-more-for-less-promotion), [Progressive Discount](/en/docs/tutorials/progressive-discount), [Buy One Get One](/en/docs/tutorials/buy-one-get-one), and [Campaign Promotion](/en/docs/tutorials/campaign-promotion). 
 
 In this article, you will find step-by-step instructions on how to:
 
@@ -62,7 +62,7 @@ To search for a promotion, follow the steps below:
 
 ## Sorting promotions
 
-You can sort the promotions created by status or by name. This resource is intended to help you find a promotion that you want to check or modify. To sort them, follow the steps below:
+You can sort the promotions created by status or by name. This feature is intended to help you find a promotion that you want to check or modify. To sort them, follow the steps below:
 
  1. Access the **Promotions** menu.
  2. Click on **Promotions**.
@@ -84,7 +84,7 @@ You can change the settings and data of any promotion by following the steps bel
 
 A promotion is scheduled when it is created (or modified) with a valid date and time later than the current date and time. The time considered is that of the computer system in which the promotion was created, regardless of time zone settings.
 
-These promotions can be easily identified on the main Promotions page: they have an orange stripe with the word scheduled in the upper right corner of the card, as shown below.
+These promotions can be easily identified on the main Promotions page: they have an orange stripe with the word “scheduled” in the upper right corner of the card, as shown below.
 
 ![scheduleded](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/creating-promotions/creating-promotions_1.png)
 
@@ -96,8 +96,7 @@ If you no longer want a promotion to be used, you can move it to the list of arc
 
  1. Access the **Promotions** menu.
  2. Click on **Promotions**.
- 3. Use the [search tools](searching-for-promotions) to find the promotion you  want to archive.
+ 3. Use the [search tools](#searching-for-promotions) to find the promotion you  want to archive.
  4. When you find the promotion you are looking for, click on the `Archive` button in the lower right corner of the card.
  5. Confirm the action by clicking on `Archive` again.
  6. To view the archived promotion, select the `Archived Promotions` option in the upper right corner of the page.
-

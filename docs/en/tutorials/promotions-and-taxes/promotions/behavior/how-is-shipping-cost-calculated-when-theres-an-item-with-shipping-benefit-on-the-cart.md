@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-This article aims to clarify how the distribution of the cost of freight between the items of a cart when one of these items has a freight promotion works.
+This article explains how shipping cost is split among cart items when one of those items has a shipping promotion.
 
 ## Division of shipping cost between items
 
@@ -23,9 +23,9 @@ The shipping cost takes into account the __weight of the products__ added to a c
 
 When there is more than one item in the cart, the shipping cost divided by each item is __proportional to its weight__, based on the total weight of the cart.
 
-Let's look at how the cost of shipping calculation would be calculated on a cart with 5 items, with a total shipping cost of 200 currency units:
+Let's look at how the shipping cost would be calculated on a cart with 5 items, with a total shipping cost of 200 currency units:
 
-> ℹ️ To find out the cost of shipping a cart, please make [shipping simulation](/en/tutorial/freight-simulation). To find out the weight of a SKU, access the **Products and SKU** page in the Catalog menu and look for **Shipping Weight**.
+> ℹ️ To find out the cost of shipping a cart, please make a [shipping simulation](/en/tutorial/freight-simulation). To find out the weight of a SKU, access the **Products and SKU** page in the Catalog menu and look for **Shipping Weight**.
 
 - __Total Cost of Shipping:__ 200
 - __Product A Weight:__ 20
@@ -43,25 +43,25 @@ Applying the above formula, we have:
 
 __200 x (20/100) = 40__
 
-The *Total Cost of Shipping* is __200__. We see that *Product Weight A* represents __20%__ of the total weight of the cart (__20 / 100__).
+The *Total Cost of Shipping* is __200__. We see that *Product A's weight* represents __20%__ of the total weight of the cart (__20 / 100__).
 
 Therefore, the *Shipping Cost of Product A* will be __40__.
 
-## Shipping cost breakdown when there is promotion of freight in the cart
+## Shipping cost breakdown when there is a shipping promotion in the cart
 
-When there is a __promotion of freight__ for some items in the cart, the costing calculation for the shipping cost occurs as described in the previous section.
+When there is a __shipping promotion__ for some items in the cart, the shipping cost is calculated as described in the previous section.
 
-Let's assume a scenario where __Product B__ receives a promotion of *10% in the value of your freight*.
+Let's assume a scenario where __Product B__ receives a promotion of *10% on its shipping cost*.
 
 Applying the formula, we have:
 
 __200 x (25/100) = 50__
 
-The *Total Cost of Shipping* is __200__. We see that the __Poso of Product A__ represents __25%__ of the total weight of the cart (__25 / 100__).
+The *Total Cost of Shipping* is __200__. We see that the __weight of Product B__ represents __25%__ of the total weight of the cart (__25 / 100__).
 
 Therefore, the *Cost of Shipping of Product B* will be __50__.
 
-As product B has a 10% promotion on the value of your freight, the shipping cost will be:
+As product B has a 10% promotion on its shipping cost, the shipping cost will be:
 
 __50 - (50 x 10%) = 45__
 
@@ -69,4 +69,4 @@ If product B had a Free Shipping promotion, its shipping cost would be __zero__:
 
 __50 - (50 x 100%) = 0__
 
-Therefore, to calculate the impact of a freight promotion on the cost of shipping an item, it is necessary to calculate the shipping cost proportional to the weight of the item and apply the discount percentage to this value.
+Therefore, to calculate the impact of a shipping promotion on the cost of shipping an item, it is necessary to calculate the shipping cost proportional to the weight of the item and apply the discount percentage to this value.

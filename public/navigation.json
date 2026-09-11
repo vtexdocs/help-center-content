@@ -25,6 +25,82 @@
           "children": [
             {
               "name": {
+                "en": "September",
+                "es": "Septiembre",
+                "pt": "Setembro"
+              },
+              "slug": {
+                "en": "2026-september",
+                "es": "2026-septiembre",
+                "pt": "2026-setembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "VTEX CX Platform: WhatsApp automation execution logs",
+                    "es": "VTEX CX Platform: logs de ejecución de las automatizaciones de WhatsApp",
+                    "pt": "VTEX CX Platform: logs de execução das automações de WhatsApp"
+                  },
+                  "slug": {
+                    "en": "2026-09-11-vtex-cx-platform-whatsapp-automation-execution-logs",
+                    "es": "2026-09-11-vtex-cx-platform-logs-de-ejecucion-de-las-automatizaciones-de-whatsapp",
+                    "pt": "2026-09-11-vtex-cx-platform-logs-de-execucao-das-automacoes-de-whatsapp"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Intelligent Search: Facets, keywords, and special character improvements",
+                    "es": "Intelligent Search: mejoras en filtros, palabras clave y caracteres especiales",
+                    "pt": "Intelligent Search: melhorias em filtros, keywords e caracteres especiais"
+                  },
+                  "slug": {
+                    "en": "2026-09-10-intelligent-search-filters-keywords-and-special-characters-improvements",
+                    "es": "2026-09-10-intelligent-search-mejoras-en-filtros-keywords-y-caracteres-especiales",
+                    "pt": "2026-09-10-intelligent-search-melhorias-em-filtros-keywords-e-caracteres-especiais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Intelligent Search: OR search results now ranked by relevance",
+                    "es": "Intelligent Search: los resultados de búsquedas OR ahora se ordenan por relevancia",
+                    "pt": "Intelligent Search: Resultados de busca OR agora ordenados por relevância"
+                  },
+                  "slug": {
+                    "en": "2026-09-03-or-search-results-now-ranked-by-relevance",
+                    "es": "2026-09-03-resultados-de-busqueda-or-ahora-ordenados-por-relevancia",
+                    "pt": "2026-09-03-resultados-de-busca-or-agora-ordenados-por-relevancia"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Intelligent Search: Synonym conflict detection",
+                    "es": "Intelligent Search: detección de sinónimos conflictivos",
+                    "pt": "Intelligent Search: detecção de sinônimos conflitantes"
+                  },
+                  "slug": {
+                    "en": "2026-09-01-intelligent-search-synonym-conflict-detection",
+                    "es": "2026-09-01-intelligent-search-deteccion-de-sinonimos-conflictivos",
+                    "pt": "2026-09-01-intelligent-search-deteccao-de-sinonimos-conflitantes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "August",
                 "es": "Agosto",
                 "pt": "Agosto"
@@ -37,6 +113,36 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Privacy and security: ISO/IEC 27701 recertification and updates to DPA and subprocessors",
+                    "es": "Privacidad y seguridad: recertificación ISO/IEC 27701 y actualizaciones del DPA y subprocesadores",
+                    "pt": "Privacidade e segurança: recertificação ISO/IEC 27701 e atualizações em DPA e subprocessadores"
+                  },
+                  "slug": {
+                    "en": "2026-08-28-privacy-and-security-iso-iec-27701-recertification-and-updates-to-dpa-and-subprocessors",
+                    "es": "2026-08-28-privacidad-y-seguridad-recertificacion-iso-iec-27701-y-actualizaciones-del-dpa-y-subprocesadores",
+                    "pt": "2026-08-28-privacidade-e-seguranca-recertificacao-iso-iec-27701-e-atualizacoes-em-dpa-e-subprocessadores"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "New Impression Share metrics in VTEX Ads",
+                    "es": "Nuevas métricas de porcentaje de impresiones en VTEX Ads",
+                    "pt": "Novas métricas de percentual de impressões no VTEX Ads"
+                  },
+                  "slug": {
+                    "en": "2026-08-24-new-impression-share-metrics-in-vtex-ads",
+                    "es": "2026-08-24-nuevas-metricas-de-porcentaje-de-impresiones-en-vtex-ads",
+                    "pt": "2026-08-24-novas-metricas-de-percentual-de-impressoes-no-vtex-ads"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Breaking change: New required permission for the Availability Notify app",
@@ -7738,7 +7844,7 @@
               "children": [
                 {
                   "name": {
-                    "en": "New Master Data API increases configuration flexibility",
+                    "en": "Master Data: New Master Data API increases configuration flexibility",
                     "es": "La nueva API del Master Data aumenta la flexibilidad de  configuración",
                     "pt": "Nova API do Master Data aumenta flexibilidade de configuração"
                   },
@@ -7753,7 +7859,7 @@
                 },
                 {
                   "name": {
-                    "en": "New CDN gives more security and speed",
+                    "en": "New CDN provides greater security and speed",
                     "es": "Nueva CDN ofrece más seguridad y velocidad",
                     "pt": "Nova CDN oferece mais segurança e velocidade"
                   },
@@ -7829,7 +7935,7 @@
                 },
                 {
                   "name": {
-                    "en": "We're launching your personal data set up screen",
+                    "en": "We're launching the personal data setup screen",
                     "es": "Lanzamos la pantalla de configuración de sus datos personales",
                     "pt": "Lançamos a tela de configuração dos seus dados pessoais"
                   },
@@ -7874,7 +7980,7 @@
                 },
                 {
                   "name": {
-                    "en": "VTEX login now needs 2-factor authentication",
+                    "en": "VTEX login now requires 2-factor authentication",
                     "es": "Login en VTEX ahora necesita autenticación de 2 factores",
                     "pt": "Login na VTEX agora precisa de autenticação de 2 fatores"
                   },
@@ -7950,7 +8056,7 @@
                 },
                 {
                   "name": {
-                    "en": "We released the new Order Placed",
+                    "en": "We've released the new Order Placed page",
                     "es": "Ya está live el nuevo Order Placed",
                     "pt": "Lançamos o novo Order Placed"
                   },
@@ -7965,7 +8071,7 @@
                 },
                 {
                   "name": {
-                    "en": "As of 11/13 VTEX APIs will no longer support authentication via email and password",
+                    "en": "As of 11/13, VTEX APIs will no longer support authentication via email and password",
                     "es": "A partir de 13/11 APIs VTEX dejarán de soportar autenticación por email y contraseña",
                     "pt": "A partir de 13/11 APIs VTEX deixarão de suportar autenticação por e-mail e senha"
                   },
@@ -8010,7 +8116,7 @@
                 },
                 {
                   "name": {
-                    "en": "VTEX stores now have automatic image compiling to WebP",
+                    "en": "VTEX stores now have automatic image conversion to WebP",
                     "es": "Tiendas VTEX ahora tienen compresión automática de imágenes para WebP",
                     "pt": "Lojas VTEX agora têm compactação automática de imagens para WebP"
                   },
@@ -8130,7 +8236,7 @@
             },
             {
               "name": {
-                "en": "Suggestions module returns error when trying to process SKU suggestion. What to do?",
+                "en": "The Suggestions module returns an error when trying to process an SKU suggestion. What should I do?",
                 "es": "Suggestion devuelve error al intentar procesar sugerencia de SKU. ¿Que hacer?",
                 "pt": "Sugestões retorna erro ao tentar processar sugestão de SKU. O que fazer?"
               },
@@ -8220,7 +8326,7 @@
             },
             {
               "name": {
-                "en": "Why do some products, SKUs or orders are not integrating with VTEX?",
+                "en": "Why are some products, SKUs, or orders not integrating with VTEX?",
                 "es": "¿Por qué algunos productos, SKUs o pedidos no integran con VTEX?",
                 "pt": "Por que alguns produtos, SKUs ou pedidos não estão integrando com a VTEX?"
               },
@@ -8310,7 +8416,7 @@
             },
             {
               "name": {
-                "en": "Why is it not possible to integrate a VTEX marketplace to other marketplaces?",
+                "en": "Why is it not possible to integrate a VTEX marketplace with other marketplaces?",
                 "es": "¿Por qué no puedo integrar un marketplace VTEX con otro marketplace?",
                 "pt": "Por que não consigo integrar um marketplace VTEX com outro marketplace?"
               },
@@ -8325,7 +8431,7 @@
             },
             {
               "name": {
-                "en": "Why isn’t my product deactivated on the marketplace",
+                "en": "Why isn’t my product deactivated on the marketplace?",
                 "es": "¿Por qué el producto no es inactivado en el marketplace?",
                 "pt": "Por que meu produto não é inativado no marketplace?"
               },
@@ -8536,7 +8642,7 @@
             },
             {
               "name": {
-                "en": "Why has a transaction been successfully settled but not finalized in the Payments?",
+                "en": "Why has a transaction been successfully settled but not finalized in Payments?",
                 "es": "¿Por qué una transacción fue liquidada con éxito pero no fue finalizada en el Pagos?",
                 "pt": "Por que uma transação foi liquidada com sucesso mas não foi finalizada em Pagamentos?"
               },
@@ -8566,7 +8672,7 @@
             },
             {
               "name": {
-                "en": "Why was not an order sent to the anti-fraud?",
+                "en": "Why was an order not sent to the anti-fraud?",
                 "es": "¿Por qué un pedido no fue enviado al antifraude?",
                 "pt": "Por que um pedido não foi enviado para o antifraude?"
               },
@@ -8612,7 +8718,7 @@
             },
             {
               "name": {
-                "en": "What to do with error when accessing Orders module",
+                "en": "What to do with an error when accessing the Orders module",
                 "es": "Que hacer cuando hay un error de acceso en el módulo Pedidos",
                 "pt": "O que fazer em caso de erro de acesso ao módulo Pedidos"
               },
@@ -8627,22 +8733,7 @@
             },
             {
               "name": {
-                "en": "Why after signing in to the administrative panel I am redirected to my store?",
-                "es": "¿Por qué al entrar en el panel administrativo soy redirigido a mi tienda?",
-                "pt": "Por que ao fazer login no painel administrativo sou redirecionado para minha loja?"
-              },
-              "slug": {
-                "en": "why-after-signing-in-to-the-administrative-panel-i-am-redirected-to-my-store",
-                "es": "por-que-al-entrar-en-el-panel-administrativo-soy-redirigido-a-mi-tienda",
-                "pt": "por-que-login-no-admin-redireciona-para-loja"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Why authentication with appkey and apptoken doesn't work?",
+                "en": "Why doesn't authentication with appkey and apptoken work?",
                 "es": "¿Por qué  no funciona la autentificación con appkey y apptoken?",
                 "pt": "Por que a autenticação utilizando appKey e appToken não funciona?"
               },
@@ -8650,6 +8741,21 @@
                 "en": "why-doesnt-authentication-with-appkey-and-apptoken-work",
                 "es": "por-que-no-funciona-la-autentificacion-con-appkey-y-apptoken",
                 "pt": "por-que-a-autenticacao-utilizando-appkey-e-apptoken-nao-funciona"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Why, after signing in to the administrative panel, am I redirected to my store?",
+                "es": "¿Por qué al entrar en el panel administrativo soy redirigido a mi tienda?",
+                "pt": "Por que ao fazer login no painel administrativo sou redirecionado para minha loja?"
+              },
+              "slug": {
+                "en": "why-after-signing-in-to-the-administrative-panel-i-am-redirected-to-my-store",
+                "es": "por-que-al-entrar-en-el-panel-administrativo-soy-redirigido-a-mi-tienda",
+                "pt": "por-que-login-no-admin-redireciona-para-loja"
               },
               "origin": "",
               "type": "markdown",
@@ -8673,7 +8779,7 @@
           "children": [
             {
               "name": {
-                "en": "How to associate two promotions to the same coupon",
+                "en": "How to associate two promotions with the same coupon",
                 "es": "Cómo vincular dos promociones al mismo cupón",
                 "pt": "Como vincular duas promoções ao mesmo cupom"
               },
@@ -8681,21 +8787,6 @@
                 "en": "how-to-associate-two-promotions-to-the-same-coupon",
                 "es": "como-vincular-dos-promociones-al-mismo-cupon",
                 "pt": "como-vincular-duas-promocoes-ao-mesmo-cupom"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "I can not edit SKUs. What to do?",
-                "es": "No puedo editar SKUs. ¿Que hacer?",
-                "pt": "Não consigo editar SKUs. O que fazer?"
-              },
-              "slug": {
-                "en": "i-cannot-edit-skus",
-                "es": "no-puedo-editar-skus",
-                "pt": "nao-consigo-editar-skus"
               },
               "origin": "",
               "type": "markdown",
@@ -8718,7 +8809,22 @@
             },
             {
               "name": {
-                "en": "I received the message error \"the limit of activated calculators has been reached\". What to do?",
+                "en": "I cannot edit SKUs. What should I do?",
+                "es": "No puedo editar SKUs. ¿Que hacer?",
+                "pt": "Não consigo editar SKUs. O que fazer?"
+              },
+              "slug": {
+                "en": "i-cannot-edit-skus",
+                "es": "no-puedo-editar-skus",
+                "pt": "nao-consigo-editar-skus"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "I received the error message \"the limit of activated calculators has been reached\". What should I do?",
                 "es": "He recibido el mensaje de error \"the limit of activated calculators has been reached\". Que hacer?",
                 "pt": "Recebi a mensagem de erro \"the limit of activated calculators has been reached\". O que fazer?"
               },
@@ -8763,7 +8869,7 @@
             },
             {
               "name": {
-                "en": "I've edited a placeholder and the site hasn't been updated. What to do?",
+                "en": "I've edited a placeholder and the site hasn't been updated. What should I do?",
                 "es": "He editado un placeholder y el sitio no se actualiza. ¿Que hacer?",
                 "pt": "Editei um placeholder e o site não atualiza. O que fazer?"
               },
@@ -8793,7 +8899,7 @@
             },
             {
               "name": {
-                "en": "Search with specification parameter returns empty search. What to do?",
+                "en": "Search with a specification parameter returns an empty search. What should I do?",
                 "es": "Búsqueda con parámetro de especificación devuelve búsqueda vacía. ¿Que hacer?",
                 "pt": "Busca com parâmetro de especificação retorna busca vazia. O que fazer?"
               },
@@ -8868,6 +8974,36 @@
             },
             {
               "name": {
+                "en": "Why does the List Price not appear on my store's front end?",
+                "es": "¿Por qué el precio de lista no aparece en el front-end de mi tienda?",
+                "pt": "Por que o Preço de Lista não aparece no front-end da minha loja?"
+              },
+              "slug": {
+                "en": "why-the-price-list-does-not-appear-on-my-store-fron-end",
+                "es": "por-que-el-precio-de-lista-no-aparece-en-el-front-end-de-mi-tienda",
+                "pt": "por-que-o-preco-de-lista-nao-aparece-no-front-end-da-minha-loja"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Why does the VTEX Search (Legacy) engine ignore some terms?",
+                "es": "Por qué la VTEX Search (Legado) ignora algunos términos buscados",
+                "pt": "Por que a VTEX Search (Legado) ignora alguns termos buscados"
+              },
+              "slug": {
+                "en": "why-vtex-search-legacy-engine-ignores-some-terms",
+                "es": "por-que-vtex-search-legado-ignora-algunos-terminos-buscados",
+                "pt": "por-que-vtex-search-legado-ignora-alguns-termos-buscados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Why doesn't a search term return available products?",
                 "es": "¿Por qué un término buscado no retorna productos existentes?",
                 "pt": "Por que um termo buscado não retorna produtos existentes?"
@@ -8928,7 +9064,7 @@
             },
             {
               "name": {
-                "en": "Why I don't receive my abandoned cart emails?",
+                "en": "Why don't I receive my abandoned cart emails?",
                 "es": "¿Por qué no recibo el e-mail de Carrito Abandonado?",
                 "pt": "Por que não recebo email de carrinho abandonado?"
               },
@@ -8966,36 +9102,6 @@
                 "en": "why-is-my-product-appearing-in-the-wrong-category",
                 "es": "por-que-mi-producto-aparece-en-la-categoria-incorrecta",
                 "pt": "por-que-meu-produto-esta-aparecendo-na-categoria-errada"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Why is my store’s zoom not working?",
-                "es": "¿Por qué no funciona el zoom de mi tienda?",
-                "pt": "Por que o zoom da minha loja não funciona?"
-              },
-              "slug": {
-                "en": "why-is-my-stores-zoom-not-working",
-                "es": "por-que-no-funciona-el-zoom-de-mi-tienda",
-                "pt": "por-que-o-zoom-da-minha-loja-nao-funciona"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Why is the \"thumb\" image of poor quality?",
-                "es": "¿Por qué la imagen \"thumb\" está en baja calidad?",
-                "pt": "Por que a imagem \"thumb\" está em baixa qualidade?"
-              },
-              "slug": {
-                "en": "why-is-the-thumb-image-of-poor-quality",
-                "es": "por-que-la-imagen-thumb-esta-en-baja-calidad",
-                "pt": "porque-a-imagem-thumb-esta-em-baixa-qualidade"
               },
               "origin": "",
               "type": "markdown",
@@ -9060,36 +9166,6 @@
               "origin": "",
               "type": "markdown",
               "children": []
-            },
-            {
-              "name": {
-                "en": "Why the List Price does not appear on my store's front end?",
-                "es": "¿Por qué el precio de lista no aparece en el front-end de mi tienda?",
-                "pt": "Por que o Preço de Lista não aparece no front-end da minha loja?"
-              },
-              "slug": {
-                "en": "why-the-price-list-does-not-appear-on-my-store-fron-end",
-                "es": "por-que-el-precio-de-lista-no-aparece-en-el-front-end-de-mi-tienda",
-                "pt": "por-que-o-preco-de-lista-nao-aparece-no-front-end-da-minha-loja"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Why VTEX Search (Legacy) engine ignores some terms",
-                "es": "Por qué la VTEX Search (Legado) ignora algunos términos buscados",
-                "pt": "Por que a VTEX Search (Legado) ignora alguns termos buscados"
-              },
-              "slug": {
-                "en": "why-vtex-search-legacy-engine-ignores-some-terms",
-                "es": "por-que-vtex-search-legado-ignora-algunos-terminos-buscados",
-                "pt": "por-que-vtex-search-legado-ignora-alguns-termos-buscados"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
@@ -9124,7 +9200,7 @@
             },
             {
               "name": {
-                "en": "My site is slow. What to do?",
+                "en": "My site is slow. What should I do?",
                 "es": "Mi sitio está lento. ¿Que hacer?",
                 "pt": "Meu site está lento. O que fazer?"
               },
@@ -9184,7 +9260,7 @@
             },
             {
               "name": {
-                "en": "Why have not orders been associated with a list?",
+                "en": "Why have orders not been associated with a list?",
                 "es": "¿Por qué pedidos no se asociaron a una lista?",
                 "pt": "Por que pedidos não foram associados a uma lista?"
               },
@@ -9245,7 +9321,7 @@
             },
             {
               "name": {
-                "en": "Error 404 when trying to cancel order. What to do?",
+                "en": "Error 404 when trying to cancel order. What should I do?",
                 "es": "Error 404 al intentar cancelar pedido. ¿Que hacer?",
                 "pt": "Erro 404 ao tentar cancelar pedido. O que fazer?"
               },
@@ -9275,7 +9351,7 @@
             },
             {
               "name": {
-                "en": "How to find customers that has ordered the most?",
+                "en": "How to find customers that have ordered the most?",
                 "es": "¿Cómo veo a los clientes que más han comprado?",
                 "pt": "Como vejo os clientes que mais compraram?"
               },
@@ -9350,7 +9426,7 @@
             },
             {
               "name": {
-                "en": "The order was billed in the ERP but remains in the \"Preparing Delivery\" status. What to do?",
+                "en": "The order was billed in the ERP but remains in the \"Preparing Delivery\" status. What should I do?",
                 "es": "El pedido fue facturado en el ERP pero continúa en el status \"Preparando Entrega\". ¿Que hacer?",
                 "pt": "O pedido foi faturado no ERP mas continua no status \"Preparando Entrega\". O que fazer?"
               },
@@ -9365,7 +9441,7 @@
             },
             {
               "name": {
-                "en": "Visa Checkout orders do not appear in My Orders section",
+                "en": "Visa Checkout orders do not appear in the My Orders section",
                 "es": "Pedidos realizados con Visa Checkout no aparecen en el área de Mis Pedidos",
                 "pt": "Pedidos feitos com Visa Checkout não aparecem na área de Meus Pedidos"
               },
@@ -9395,7 +9471,7 @@
             },
             {
               "name": {
-                "en": "When trying to approve payment, Orders Managment returns \"authorize-fulfillment\" error. What to do?",
+                "en": "When trying to approve payment, Orders Management returns an \"authorize-fulfillment\" error. What should I do?",
                 "es": "Al intentar aprobar el pago, Gestión de Pedidos devuelve el error de \"authorize-fulfillment\". ¿Que hacer?",
                 "pt": "Ao tentar aprovar pagamento, Gerenciamento de Pedidos retorna erro. O que fazer?"
               },
@@ -9403,21 +9479,6 @@
                 "en": "when-trying-to-approve-payment-orders-managment-returns-authorize-fulfillment-error-what-to-do",
                 "es": "al-intentar-aprobar-el-pago-gestion-de-pedidos-devuelve-el-error-de-authorize-fulfillment-que-hacer",
                 "pt": "ao-tentar-aprovar-pagamento-gerenciamento-de-pedidos-retorna-erro"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Why an order was cancelled when its status “Ready for Handling”?",
-                "es": "¿Por qué un pedido fue cancelado en el status “Listo para preparar”?",
-                "pt": "Por que um pedido foi cancelado no status “Preparando Entrega”?"
-              },
-              "slug": {
-                "en": "why-was-an-order-cancelled-when-its-status-was-shown-as-preparando-entrega",
-                "es": "por-que-un-pedido-fue-cancelado-en-el-status-preparando-entrega",
-                "pt": "por-que-um-pedido-foi-cancelado-no-status-preparando-entrega"
               },
               "origin": "",
               "type": "markdown",
@@ -9575,7 +9636,7 @@
             },
             {
               "name": {
-                "en": "Why is my order with available stock failing in Orders module?",
+                "en": "Why is my order with available stock failing in the Orders module?",
                 "es": "¿Por qué mi pedido con stock disponible está dando error en el módulo Pedidos?",
                 "pt": "Por que meu pedido com estoque disponível está dando erro no módulo Pedidos?"
               },
@@ -9583,6 +9644,21 @@
                 "en": "why-is-my-order-with-available-stock-failing-in-orders-module",
                 "es": "por-que-mi-pedido-con-stock-disponible-esta-dando-error-en-el-modulo-pedidos",
                 "pt": "por-que-meu-pedido-com-estoque-disponivel-esta-dando-erro-no-modulo-pedidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Why was an order cancelled when its status was “Ready for Handling”?",
+                "es": "¿Por qué un pedido fue cancelado en el status “Listo para preparar”?",
+                "pt": "Por que um pedido foi cancelado no status “Preparando Entrega”?"
+              },
+              "slug": {
+                "en": "why-was-an-order-cancelled-when-its-status-was-shown-as-preparando-entrega",
+                "es": "por-que-un-pedido-fue-cancelado-en-el-status-preparando-entrega",
+                "pt": "por-que-um-pedido-foi-cancelado-no-status-preparando-entrega"
               },
               "origin": "",
               "type": "markdown",
@@ -9682,7 +9758,7 @@
             },
             {
               "name": {
-                "en": "Checkout with \"store not found\" error. What to do?",
+                "en": "Checkout with \"store not found\" error. What should I do?",
                 "es": "Checkout con error \"tienda no encontrada\". ¿Que hacer?",
                 "pt": "Checkout com erro \"loja não encontrada\". O que fazer?"
               },
@@ -9697,7 +9773,7 @@
             },
             {
               "name": {
-                "en": "How to add more agents in a WhatsApp link?",
+                "en": "How to add more agents to a WhatsApp link?",
                 "es": "¿Cómo agregar más agentes en un link de WhatsApp?",
                 "pt": "Como adicionar mais atendentes em um link de WhatsApp?"
               },
@@ -9772,7 +9848,7 @@
             },
             {
               "name": {
-                "en": "How to find Linkedin Pixel?",
+                "en": "How to find LinkedIn Pixel",
                 "es": "¿Cómo encontrar Linkedin Pixel?",
                 "pt": "Como encontrar o Pixel do Linkedin?"
               },
@@ -9787,7 +9863,7 @@
             },
             {
               "name": {
-                "en": "Locate the Google ADS pixel",
+                "en": "Locate the Google Ads pixel",
                 "es": "Localiza el píxel de Google ADS",
                 "pt": "Localize o pixel do Google ADS"
               },
@@ -9832,7 +9908,7 @@
             },
             {
               "name": {
-                "en": "UTM's",
+                "en": "UTMs",
                 "es": "UTM's",
                 "pt": "UTM's"
               },
@@ -9907,7 +9983,7 @@
             },
             {
               "name": {
-                "en": "Why was the item splitted in the cart?",
+                "en": "Why was the item split in the cart?",
                 "es": "Por qué se separó el producto en el carrito?",
                 "pt": "Por que o item do carrinho foi separado?"
               },
@@ -10130,12 +10206,12 @@
                 {
                   "name": {
                     "en": "3. Cross-border stores",
-                    "es": "3. Tiendas transfronterizas (cross-border)",
+                    "es": "3. Tiendas internacionales (cross-border)",
                     "pt": "3. Lojas internacionais (cross-border)"
                   },
                   "slug": {
                     "en": "cross-border-stores",
-                    "es": "tiendas-transfronterizas-cross-border",
+                    "es": "tiendas-internacionales-cross-border",
                     "pt": "lojas-internacionais-cross-border"
                   },
                   "origin": "",
@@ -16290,6 +16366,69 @@
       "categories": [
         {
           "name": {
+            "en": "Admin VTEX",
+            "es": "Admin VTEX",
+            "pt": "Admin VTEX"
+          },
+          "slug": {
+            "en": "admin-vtex",
+            "es": "admin-vtex-subcategoria",
+            "pt": "admin-vtex-subcategoria"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Gestión de la cuenta",
+                "es": "Gestión de la cuenta",
+                "pt": "Gerenciamento da conta"
+              },
+              "slug": {
+                "en": "gestion-de-la-cuenta",
+                "es": "gestion-de-la-cuenta-categoria",
+                "pt": "gerenciamento-da-conta-categoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Cuentas",
+                    "es": "Cuentas",
+                    "pt": "Contas"
+                  },
+                  "slug": {
+                    "en": "cuentas",
+                    "es": "cuentas-subcategoria",
+                    "pt": "contas-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "es": "Cambiar el logotipo del boleto",
+                        "pt": "Alterar o logotipo do boleto",
+                        "en": "Cambiar el logotipo del boleto"
+                      },
+                      "slug": {
+                        "es": "cambiar-el-logotipo-del-boleto",
+                        "pt": "alterar-o-logotipo-do-boleto",
+                        "en": ""
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": {
             "en": "VTEX Admin",
             "es": "Admin VTEX",
             "pt": "Admin VTEX"
@@ -16406,21 +16545,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": [
-                    {
-                      "name": {
-                        "en": "Changing the logo on the bank slip",
-                        "es": "Cambiar el logotipo del boleto",
-                        "pt": "Alterar o logotipo do boleto"
-                      },
-                      "slug": {
-                        "en": "changing-the-logo-on-the-bank-slip",
-                        "es": "cambiar-el-logotipo-del-boleto",
-                        "pt": "alterar-o-logotipo-do-boleto"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
                     {
                       "name": {
                         "en": "Changing the store domain",
@@ -18501,21 +18625,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Activating SKUs in bulk",
-                    "es": "Activar SKUs en masa",
-                    "pt": "Ativar SKUs em massa"
-                  },
-                  "slug": {
-                    "en": "activating-skus-in-bulk",
-                    "es": "activar-skus-en-massa",
-                    "pt": "ativar-skus-em-massa"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Adding or editing products",
                     "es": "Agregar o editar productos",
                     "pt": "Adicionar ou editar produto"
@@ -20062,7 +20171,7 @@
                 },
                 {
                   "name": {
-                    "en": "Send the item price, with tax shown separately, to the Gateway or the ERP",
+                    "en": "Sending the item price with tax shown separately to the gateway or the ERP",
                     "es": "Enviar al Gateway o al ERP el precio del item ya con el impuesto separado",
                     "pt": "Enviar ao Gateway ou ao ERP o preço do item já com o imposto separado"
                   },
@@ -20216,6 +20325,21 @@
                 },
                 {
                   "name": {
+                    "en": "CMS roles and permissions",
+                    "es": "CMS roles y permisos",
+                    "pt": "CMS perfis de acesso e permissões"
+                  },
+                  "slug": {
+                    "en": "cms-roles-and-permissions",
+                    "es": "cms-roles-y-permisos",
+                    "pt": "cms-perfis-de-acesso-e-permissoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Configuring stores",
                     "es": "Configurar tiendas",
                     "pt": "Configurar lojas"
@@ -20224,21 +20348,6 @@
                     "en": "cms-configuring-stores",
                     "es": "cms-configurar-tiendas",
                     "pt": "cms-configurar-lojas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Roles and permissions",
-                    "es": "Roles y permisos",
-                    "pt": "Perfis de acesso e permissões"
-                  },
-                  "slug": {
-                    "en": "roles-and-permissions",
-                    "es": "roles-y-permisos",
-                    "pt": "perfis-de-acesso-e-permissoes"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20518,6 +20627,21 @@
                     },
                     {
                       "name": {
+                        "en": "Configuring zoom and thumbnails in CMS Portal (Legacy) stores",
+                        "es": "Configurar zoom y miniaturas en tiendas CMS Portal (Legado)",
+                        "pt": "Configurando zoom e miniaturas em lojas CMS Portal (Legado)"
+                      },
+                      "slug": {
+                        "en": "configuring-zoom-and-thumbnails-in-cms-portal-legacy-stores",
+                        "es": "configurar-zoom-y-miniaturas-en-tiendas-cms-portal-legado",
+                        "pt": "configurando-zoom-e-miniaturas-em-lojas-cms-portal-legado"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Enabling PWA push notifications in your store",
                         "es": "Habilitar las notificaciones PWA de la tienda",
                         "pt": "Habilitando notificações PWA da loja"
@@ -20571,21 +20695,6 @@
                         "en": "set-the-store-display-language",
                         "es": "definir-el-idioma-de-visualizacion-de-la-tienda",
                         "pt": "definir-o-idioma-de-exibicao-da-loja"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Setting up the standard size for the zoom image",
-                        "es": "Configurar el tamaño estándar de la imagen de zoom",
-                        "pt": "Configurar o tamanho padrão da imagem de zoom"
-                      },
-                      "slug": {
-                        "en": "setting-up-the-standard-size-for-the-zoom-image",
-                        "es": "configurar-el-tamano-estandar-de-la-imagen-de-zoom",
-                        "pt": "configurar-o-tamanho-padrao-da-imagem-de-zoom"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -21046,6 +21155,21 @@
                     },
                     {
                       "name": {
+                        "en": "Deleting a website",
+                        "es": "Cómo borrar un website",
+                        "pt": "Como deletar um website"
+                      },
+                      "slug": {
+                        "en": "how-to-delete-a-website",
+                        "es": "como-borrar-un-website",
+                        "pt": "como-deletar-um-website"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Develop the front-end for the list feature in your store",
                         "es": "Desarrollar el front-end para la feature de listas en su tienda",
                         "pt": "Desenvolver o front-end para a feature de listas na sua loja"
@@ -21204,21 +21328,6 @@
                         "en": "how-to-delete-a-collection",
                         "es": "como-eliminar-una-coleccion",
                         "pt": "como-deletar-colecao"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "How to delete a website",
-                        "es": "Cómo borrar un website",
-                        "pt": "Como deletar um website"
-                      },
-                      "slug": {
-                        "en": "how-to-delete-a-website",
-                        "es": "como-borrar-un-website",
-                        "pt": "como-deletar-um-website"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -22589,12 +22698,12 @@
                 {
                   "name": {
                     "en": "VTEX Pick and Pack: Insights",
-                    "es": "VTEX Pick and Pack: Análisis",
+                    "es": "VTEX Pick and Pack: Insights",
                     "pt": "VTEX Pick and Pack: Insights"
                   },
                   "slug": {
                     "en": "vtex-pick-and-pack-insights",
-                    "es": "vtex-pick-and-pack-analisis",
+                    "es": "vtex-pick-and-pack-insights",
                     "pt": "vtex-pick-and-pack-insights"
                   },
                   "origin": "",
@@ -25252,12 +25361,12 @@
               "children": [
                 {
                   "name": {
-                    "en": "How are the payments made through bank slips approved?",
+                    "en": "How are the payments made through Boletos approved?",
                     "es": "¿Cómo se hace la aprobación de  pago del boleto?",
                     "pt": "Como é feita a aprovação de pagamento do boleto?"
                   },
                   "slug": {
-                    "en": "how-are-the-payments-made-through-bank-slips-approved",
+                    "en": "how-are-the-payments-made-through-boletos-approved",
                     "es": "como-se-hace-la-aprobacion-de-pago-del-boleto",
                     "pt": "como-e-feita-a-aprovacao-de-pagamento-do-boleto"
                   },
@@ -25343,12 +25452,12 @@
                 },
                 {
                   "name": {
-                    "en": "Configuring bank slips",
+                    "en": "Configuring a Boleto",
                     "es": "Configurar boleto bancario",
                     "pt": "Configurar boleto bancário"
                   },
                   "slug": {
-                    "en": "how-to-configure-a-bank-slip",
+                    "en": "how-to-configure-a-boleto",
                     "es": "como-configurar-boleto-bancario",
                     "pt": "como-configurar-boleto-bancario"
                   },
@@ -29334,12 +29443,12 @@
                 },
                 {
                   "name": {
-                    "en": "Why does payment with registered bank slip require authentication?",
+                    "en": "Why does payment with registered Boleto require authentication?",
                     "es": "¿Por qué el pago por boleto registrado requiere autenticación?",
                     "pt": "Por que o pagamento por boleto registrado exige autenticação?"
                   },
                   "slug": {
-                    "en": "why-does-payment-with-registered-bank-slip-require-authentication",
+                    "en": "why-does-payment-with-registered-boleto-require-authentication",
                     "es": "por-que-el-pago-por-boleto-registrado-requiere-autenticacion",
                     "pt": "por-que-o-pagamento-por-boleto-registado-exige-autenticacao"
                   },
@@ -30597,6 +30706,21 @@
                     "en": "amazon-offer-matching",
                     "es": "match-de-anuncios-amazon",
                     "pt": "match-de-anuncios-amazon"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Amazon Product Publishing",
+                    "es": "Publicacíon de Productos Amazon",
+                    "pt": "Publicação de produtos Amazon"
+                  },
+                  "slug": {
+                    "en": "amazon-product-publishing",
+                    "es": "publicacion-de-productos-amazon",
+                    "pt": "publicacao-de-produtos-amazon"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -33464,12 +33588,12 @@
                 {
                   "name": {
                     "en": "Live Desk - Overview",
-                    "es": "Visión de conjunto de Live Desk",
+                    "es": "Información general de Live Desk",
                     "pt": "Visão geral do Live Desk"
                   },
                   "slug": {
                     "en": "live-desk-overview",
-                    "es": "vision-de-conjunto-de-live-desk",
+                    "es": "informacion-general-de-live-desk",
                     "pt": "visao-geral-do-live-desk"
                   },
                   "origin": "",
@@ -34004,14 +34128,14 @@
                 },
                 {
                   "name": {
-                    "en": "WhatsApp: VTEX CX Platform Express integration",
-                    "es": "WhatsApp: Integración express con VTEX CX Platform",
-                    "pt": "WhatsApp: Integração Expressa no VTEX CX Platform"
+                    "en": "WhatsApp: Integration with VTEX CX Platform",
+                    "es": "WhatsApp: Integración con VTEX CX Platform",
+                    "pt": "WhatsApp: Integração com o VTEX CX Platform"
                   },
                   "slug": {
-                    "en": "whatsapp-vtex-cx-platform-express-integration",
-                    "es": "whatsapp-integracion-express-con-vtex-cx-platform",
-                    "pt": "whatsapp-integracao-expressa-no-vtex-cx-platform"
+                    "en": "whatsapp-vtex-cx-platform-integration",
+                    "es": "whatsapp-integracion-con-vtex-cx-platform",
+                    "pt": "whatsapp-integracao-com-o-vtex-cx-platform"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -34322,7 +34446,7 @@
                 {
                   "name": {
                     "en": "VTEX CX Platform: Overview",
-                    "es": "VTEX CX Platform: Visión de conjunto",
+                    "es": "Información general de VTEX CX Platform",
                     "pt": "Visão geral do VTEX CX Platform"
                   },
                   "slug": {
@@ -34430,8 +34554,8 @@
             },
             {
               "name": {
-                "en": "Audit Overview",
-                "es": "Auditoría Overview",
+                "en": "Audit: Overview",
+                "es": "Auditoría: Información general",
                 "pt": "Auditoria Overview"
               },
               "slug": {
@@ -34459,7 +34583,7 @@
                 },
                 {
                   "name": {
-                    "en": "Audit: Improvements Backlog",
+                    "en": "Audit: Improvement backlog",
                     "es": "Auditoría: Backlog de mejoras",
                     "pt": "Auditoria: Backlog de melhorias"
                   },
@@ -68922,6 +69046,21 @@
                 "en": "category-mapping-via-xls-not-reprocessed-for-accounts-with-large-volume-of-suggestions",
                 "es": "la-asignacion-de-categorias-mediante-xls-no-se-reprocesa-para-cuentas-con-un-gran-volumen-de-sugerencias",
                 "pt": "o-mapeamento-de-categorias-via-xls-nao-e-reprocessado-para-contas-com-grande-volume-de-sugestoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CentauroKI Mapper filer have 1MB file size limit on API uploads",
+                "es": "CentauroKI El servidor de archivos Mapper tiene un límite de tamaño de archivo de 1 MB para las cargas de API.",
+                "pt": "CentauroKI O mapeador de arquivos tem um limite de tamanho de arquivo de 1 MB para uploads via API."
+              },
+              "slug": {
+                "en": "centauroki-mapper-filer-have-1mb-file-size-limit-on-api-uploads",
+                "es": "centauroki-el-servidor-de-archivos-mapper-tiene-un-limite-de-tamano-de-archivo-de-1-mb-para-las-cargas-de-api",
+                "pt": "centauroki-o-mapeador-de-arquivos-tem-um-limite-de-tamanho-de-arquivo-de-1-mb-para-uploads-via-api"
               },
               "origin": "",
               "type": "markdown",

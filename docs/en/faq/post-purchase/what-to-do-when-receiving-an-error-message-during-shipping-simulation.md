@@ -16,7 +16,7 @@ legacySlug: what-to-do-when-receiving-an-error-message-during-shipping-simulatio
 
 What to do when a shipping simulation does not show the expected result?
 
-Here, we will provide a step-by-step description about how to check the Logistics settings.
+Here, we will provide a step-by-step description of how to check the Logistics settings.
 
 Before we start, please remember that the [Shipping Simulation](/en/tutorial/freight-simulation/) will return the result of the [Shipping Calculation](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping/calculate) API. We recommend always using APIs. If you don’t have access, ask your store administrator and check the role associated with your user.
 
