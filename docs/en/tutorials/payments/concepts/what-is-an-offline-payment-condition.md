@@ -23,8 +23,8 @@ Offline payment conditions are those that need a customer action outside of the 
 
 With that, your store has control over the transaction and may complete the customer's order.
 
-An example that illustrates this type of situation is the bank slip, which is issued by you, but must be paid directly to the bank (either at an agency, an ATM or a smartphone application) before the product is shipped for delivery.
+An example that illustrates this type of situation is the Boleto, which is issued by you, but must be paid directly to the bank (either at an agency, an ATM or a smartphone application) before the product is shipped for delivery.
 
 ### Related articles
 - [Registered Ticket - Basic payment flow](/en/docs/tutorials/registered-ticket-flow)
-- [Configuring bank slips](/en/docs/tutorials/how-to-configure-a-bank-slip)
+- [Configuring Boletos](/en/docs/tutorials/how-to-configure-a-boleto)

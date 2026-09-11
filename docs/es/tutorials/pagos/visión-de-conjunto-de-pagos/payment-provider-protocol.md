@@ -122,7 +122,7 @@ Conversion notes:
 
 Tras la instalación, haz clic en Apps, en el panel lateral izquierdo del Admin. A continuación, selecciona la aplicación Payment Provider Test Suite para configurarla correctamente.
 
-Dependiendo de la versión del Admin utilizada en la cuenta de la tienda, la aplicación estará disponible en la lista de aplicaciones. Para acceder a ella, utiliza la dirección [https://{{accountName}}.myvtex.com/admin/test-suite](about:blank)/payment-provider, sustituyendo {{accountName}} por el nombre de cuenta de tu tienda.
+Dependiendo de la versión del Admin utilizada en la cuenta de la tienda, la aplicación estará disponible en la lista de aplicaciones. Para acceder a ella, utiliza la dirección `https://{{accountName}}.myvtex.com/admin/test-suite/payment-provider`, sustituyendo `{{accountName}}` por el nombre de cuenta de tu tienda.
 
 Luego, verás un formulario que tiene tres secciones: Información de servicio, Medio de pago y Casos de prueba. Rellena los campos según las instrucciones a continuación.
 

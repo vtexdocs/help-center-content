@@ -34,7 +34,7 @@ With this integration, it will be possible to __create new accounts__ and also _
 
 &bull; __Affiliate ID*:__ this field must be filled in with an [affiliate](/en/docs/tutorials/what-is-an-affiliate) ID that doesn't already exist in the affiliate registration. The ID accepts only three digits (all must be consonants). Suggestion: `MGZ`.
 
-If you have [multi-domain integration settings](/en/tutorial/creating-multi-store-multi-domain), pay special attention to the affiliate ID, because this field should have a different value for each domain.
+If you have [multi-domain integration settings](/en/docs/tutorials/customer-and-address-forms-do-not-exist-in-multistores), pay special attention to the affiliate ID, because this field should have a different value for each domain.
 
 If you are migrating an account, we will take advantage of the affiliate already used for the old integration and we'll start using it in this integration.
 

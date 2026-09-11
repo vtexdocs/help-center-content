@@ -82,7 +82,7 @@ To register a new host, they must comply with the guidelines specified in the [R
 
 After completing these steps, you can [configure DNS pointing to VTEX](/en/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
 
-> ⚠️ [FastStore](https://www.faststore.dev/) stores also need to configure an address with the `secure` subdomain. Refer to the[ Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns) guide for more details.
+> ⚠️ [FastStore](https://developers.vtex.com/docs/guides/faststore) stores also need to configure an address with the `secure` subdomain. Refer to the [Configuring external DNS for a custom domain](https://developers.vtex.com/docs/guides/faststore/go-live-1-configuring-external-dns) guide for more details.
 
 > ❗ If your operation has more than one VTEX account or [sub-account](/en/docs/tutorials/managing-a-multistore), don't change hosts from one account to another. This will cause failures in many aspects of your store.
 

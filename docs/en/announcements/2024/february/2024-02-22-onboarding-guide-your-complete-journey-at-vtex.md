@@ -41,19 +41,19 @@ Our aim is to allow clients, partners, and the VTEX ecosystem to take advantage 
 You can find an [overview](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9) of the guide content below.
 
 <div>
-    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024/february/2024-02-22-onboarding-guide-your-complete-journey-at-vtex_2.png" height="90" alt="VTEX store track">
+    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024/february/2024-02-22-onboarding-guide-your-complete-journey-at-vtex_2.png" height="90" alt="VTEX store track" />
 </div>
 
 The **VTEX store track** describes the initial context of the operation, starting by defining the [account type and architecture](/en/docs/tracks/accounts-and-architecture) that best suit the business needs. From there, you can complete the [initial setup](/en/docs/tracks/initial-setup) and configure the platform [modules](/en/docs/tracks/vtex-modules-i), focusing on getting the operation going. Once the [backend integrations](/en/docs/tracks/backend-integrations) are completed and the [frontend](/en/docs/tracks/frontend-implementation) technology has been implemented in order to build the storefront, it's time for the [go-live](/en/docs/tracks/planning-the-go-live) and launching the new store.
 
 <div>
-    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024/february/2024-02-22-onboarding-guide-your-complete-journey-at-vtex_3.png" height="90" alt="Next steps after go live">
+    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024/february/2024-02-22-onboarding-guide-your-complete-journey-at-vtex_3.png" height="90" alt="Next steps after go live" />
 </div>
 
 The **Next steps after go-live** track describes how [unified commerce](/en/docs/tracks/unified-commerce) is achieved with the platform resources, including [module settings](/en/docs/tracks/other-vtex-module-settings) not mentioned before. The aim here is to focus on evolving the operation. This track also describes VTEX's [add-on products](/en/docs/tracks/add-on-products), which are products that can be requested separately for implementing new strategies and diversifying the business.
 
 <div>
-    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024/february/2024-02-22-onboarding-guide-your-complete-journey-at-vtex_4.png" height="90" alt="VTEX Support">
+    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024/february/2024-02-22-onboarding-guide-your-complete-journey-at-vtex_4.png" height="90" alt="VTEX Support" />
 </div>
 
 The **VTEX Support** track describes the [support](/en/docs/tracks/vtex-support) offered by VTEX to clients, which is not restricted to a specific part of the journey. Other tracks also mention [how support works](/en/docs/tracks/how-vtex-support-works), since [opening a ticket](/en/docs/tracks/opening-tickets) is the designated channel for certain requests. The organization of this track aims to help our clients have the best experiences with our services, providing all the necessary information for opening tickets, whether for [technical](/en/docs/tracks/technical-support), [billing](/en/docs/tracks/billing-support), or [commercial](/en/docs/tracks/commercial-support) support.
