@@ -12,7 +12,7 @@ locale: pt
 
 O **Menu de navegação** é um painel lateral à esquerda que agrupa as principais áreas do AI Workspace, ajudando você a encontrar o que precisa de forma rápida e organizada.
 
-![Menu de navegação](./ai-workspace-menu-navegacao.png)
+![Menu de navegação](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-menu-navegacao.png)
 
 No topo do menu você encontra o **Título da loja**, que identifica a conta em uso.
 

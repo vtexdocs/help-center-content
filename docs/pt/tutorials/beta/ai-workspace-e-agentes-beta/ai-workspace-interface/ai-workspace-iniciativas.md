@@ -18,7 +18,7 @@ A página **Iniciativas** é acessada pelo item **Iniciativas** no [menu de nave
 
 ## Tabela de iniciativas
 
-![AI Workspace tabela de iniciativas PT](./ai-workspace-iniciativas-tabela-iniciativas.png)
+![AI Workspace tabela de iniciativas PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-iniciativas-tabela-iniciativas.png)
 
 A tabela de iniciativas mostra os detalhes de cada iniciativa com as seguintes colunas:
 
@@ -44,7 +44,7 @@ Ao clicar na seta à esquerda de uma iniciativa, ela se expande e exibe suas tar
 
 Ao clicar em uma iniciativa, em qualquer modo de visualização, abre-se o **canvas** à direita com os detalhes completos da iniciativa.
 
-![AI Workspace iniciativa canvas PT](./ai-workspace-iniciativa-canvas.png)
+![AI Workspace iniciativa canvas PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-iniciativa-canvas.png)
 
 O canvas é organizado nas seguintes seções:
 

@@ -23,7 +23,7 @@ As tarefas existem apenas dentro de iniciativas e podem ser criadas de duas form
 
 A página **Tarefas** é acessada pelo item **Tarefas** no [menu de navegação](https://help.vtex.com/pt/docs/tutorials/ai-workspace-menu-navegacao) lateral e reúne todas as tarefas da sua operação, agrupadas por status.
 
-![AI Workspace página de tarefas PT](./ai-workspace-tarefas.png)
+![AI Workspace página de tarefas PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-tarefas.png)
 
 A página possui um quadro para organizar as tarefas. O quadro se divide em colunas de acordo com o status de cada uma:
 
@@ -43,7 +43,7 @@ As colunas contêm cartões que representam as tarefas. Cada cartão exibe os se
 
 Nos [detalhes da iniciativa no canvas](https://help.vtex.com/pt/docs/tutorials/ai-workspace-iniciativas#detalhes-da-iniciativa-canvas), é exibida a lista de todas as suas tarefas. Ao clicar em uma tarefa, os detalhes dela são exibidos no canvas.
 
-![AI Workspace detalhes da tarefa no canvas PT](./ai-workspace-tarefa-canvas.png)
+![AI Workspace detalhes da tarefa no canvas PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-tarefa-canvas.png)
 
 O canvas da tarefa apresenta as seguintes seções:
 
@@ -67,4 +67,4 @@ O canvas da tarefa apresenta as seguintes seções:
 
 Toda tarefa possui uma **conversa**, na qual é possível interagir com agentes de IA para obter informações e executar ações relacionadas à tarefa. Para saber mais sobre como funciona a interação com os agentes, consulte o artigo [AI Workspace - Conversa](http://help.vtex.com/pt/docs/tutorials/ai-workspace-conversa).
 
-![AI Workspace conversa da tarefa PT](./ai-workspace-tarefa-conversa.png)
+![AI Workspace conversa da tarefa PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-tarefa-conversa.png)

@@ -12,7 +12,7 @@ locale: pt
 
 O AI Workspace é o ambiente de trabalho com inteligência artificial da VTEX, no qual os comerciantes acompanham o desempenho da loja, recebem recomendações e operam o negócio em conjunto com agentes de IA. A partir de uma única tela, você monitora os principais indicadores, age sobre as iniciativas sugeridas e conversa com o seu assistente para executar tarefas do dia a dia.
 
-![AI Workspace home PT](./ai-workspace-inicio.png)
+![AI Workspace Início PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-inicio.png)
 
 As seções a seguir descrevem cada parte da página Início do AI Workspace.
 
