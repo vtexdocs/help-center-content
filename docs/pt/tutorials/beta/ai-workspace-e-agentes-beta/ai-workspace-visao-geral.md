@@ -41,7 +41,7 @@ O AI Workspace estrutura a colaboração entre pessoas e Agentes em três concei
 
 Confira os artigos sobre cada área do AI Workspace:
 
-- **[Página inicial](https://help.vtex.com/pt/docs/tutorials/ai-workspace-pagina-inicial):** acompanhe indicadores de desempenho e Iniciativas recomendadas.
+- **[Início](https://help.vtex.com/pt/docs/tutorials/ai-workspace-inicio):** acompanhe indicadores de desempenho e Iniciativas recomendadas.
 - **[Iniciativas](https://help.vtex.com/pt/docs/tutorials/ai-workspace-iniciativas):** visualize e gerencie os objetivos da operação.
 - **[Tarefas](https://help.vtex.com/pt/docs/tutorials/ai-workspace-tarefas):** acompanhe as unidades de trabalho, seus responsáveis, detalhes e status.
 - **[Conversa](https://help.vtex.com/pt/docs/tutorials/ai-workspace-conversa):** troque mensagens, execute ações rápidas e interaja com os resultados exibidos no canvas.

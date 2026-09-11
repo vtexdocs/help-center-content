@@ -14,8 +14,8 @@ A página **Conversa** é onde ocorre a interação entre o usuário e os agente
 
 Uma conversa pode iniciar das seguintes formas:
 
-- Ao enviar uma mensagem na [Caixa de mensagem da Página inicial](https://help.vtex.com/pt/docs/tutorials/ai-workspace-pagina-inicial#caixa-de-mensagem)
-- Ao clicar nos [Indicadores de desempenho da Página inicial](https://help.vtex.com/pt/docs/tutorials/ai-workspace-pagina-inicial#indicadores-de-desempenho)
+- Ao enviar uma mensagem na [Caixa de mensagem](https://help.vtex.com/pt/docs/tutorials/ai-workspace-inicio#caixa-de-mensagem)
+- Ao clicar nos [Indicadores de desempenho](https://help.vtex.com/pt/docs/tutorials/ai-workspace-inicio#indicadores-de-desempenho)
 - Ao criar uma [iniciativa](https://help.vtex.com/pt/docs/tutorials/ai-workspace-iniciativas)
 - Ao iniciar uma [tarefa](https://help.vtex.com/pt/docs/tutorials/ai-workspace-tarefas)
 
@@ -32,7 +32,7 @@ No topo da página, à direita, ficam os elementos com as opções da conversa:
 
 Ao clicar em **… Mais opções**, aparecem as seguintes opções:
 
-- **Novo chat:** Leva para a página inicial, onde você pode iniciar uma nova conversa.
+- **Novo chat:** Leva para o Início, onde você pode iniciar uma nova conversa.
 - **Ver histórico:** Mostra a Página Conversas.
 
 ## Conteúdo da conversa
@@ -47,7 +47,7 @@ Durante a conversa, o agente pode apresentar **botões** **de interação rápid
 
 ## Caixa de mensagem
 
-Na parte inferior da página, há a **caixa de mensagem**, igual à da [página inicial](https://help.vtex.com/pt/docs/tutorials/ai-workspace-pagina-inicial). Por meio dela, você envia mensagens ao agente para continuar a conversa.
+Na parte inferior da página, há a **caixa de mensagem**, igual à do [Início](https://help.vtex.com/pt/docs/tutorials/ai-workspace-inicio). Por meio dela, você envia mensagens ao agente para continuar a conversa.
 
 ## Canvas
 

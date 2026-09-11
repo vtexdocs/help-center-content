@@ -3,7 +3,7 @@ title: 'AI Workspace - Menu de navegação'
 createdAt: 2026-06-08T00:00:00.000Z
 updatedAt: 2026-06-08T00:00:00.000Z
 contentType: tutorial
-productTeam: Others
+productTeam: AI Workspace
 slugEN: ai-workspace-navigation-menu
 locale: pt
 ---
@@ -18,7 +18,7 @@ No topo do menu você encontra o **Título da loja**, que identifica a conta em 
 
 Logo abaixo, estão as seguintes seções de navegação:
 
-- **Home:** acesso à página inicial.
+- **Início:** acesso à página inicial.
 - **Tarefas:** visualização e gestão das tarefas.
 - **Iniciativas:** visualização e gestão das iniciativas recomendadas e em andamento.
 

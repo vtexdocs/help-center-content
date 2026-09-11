@@ -28,7 +28,7 @@ Interface visual para apoiar conversas. O canvas permite exibir e editar conteú
 
 ### Conversa
 
-Interface de comunicação entre usuários e Agentes. Uma Conversa permite que os usuários solicitem ações, aprovem decisões e façam perguntas aos Agentes. As Conversas podem ser iniciadas por um Agente ao criar uma Iniciativa ou ao iniciar uma Tarefa, ou pelo usuário, por meio da caixa de mensagens ou dos indicadores de desempenho na Página Inicial.
+Interface de comunicação entre usuários e Agentes. Uma Conversa permite que os usuários solicitem ações, aprovem decisões e façam perguntas aos Agentes. As Conversas podem ser iniciadas por um Agente ao criar uma Iniciativa ou ao iniciar uma Tarefa, ou pelo usuário, por meio da caixa de mensagens ou dos indicadores de desempenho.
 
 ## I
 

@@ -14,7 +14,7 @@ No AI Workspace, uma **iniciativa** é o ponto de partida para a execução de t
 
 Toda iniciativa é identificada por um código que começa com `IN` seguido de números (por exemplo, `IN6270`). As iniciativas podem ser criadas **a partir de interações com agentes de IA**, que identificam problemas e oportunidades de melhoria na loja e propõem ações para tratá-los.
 
-A página **Iniciativas** é acessada pelo item **Iniciativas** no [menu de navegação](https://help.vtex.com/pt/docs/tutorials/ai-workspace-pagina-inicial) lateral e reúne todas as iniciativas da sua operação, permitindo acompanhá-las e gerenciá-las.
+A página **Iniciativas** é acessada pelo item **Iniciativas** no [menu de navegação](https://help.vtex.com/pt/docs/tutorials/ai-workspace-inicio) lateral e reúne todas as iniciativas da sua operação, permitindo acompanhá-las e gerenciá-las.
 
 ## Tabela de iniciativas
 
