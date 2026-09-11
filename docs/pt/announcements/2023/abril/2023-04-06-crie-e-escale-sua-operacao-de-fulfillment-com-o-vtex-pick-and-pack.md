@@ -21,7 +21,7 @@ Além disso, o **VTEX Pick and Pack** [coleta dados e análises](/pt/docs/tutori
 
 A solução combina duas funcionalidades e aplicativos móveis:
 
-* [VTEX Fulfillment](/pt/docs/tutorials/vtex-pick-and-pack-insights): gerenciamento de separação e empacotamento.
+* [VTEX Fulfillment](/pt/docs/tutorials/vtex-pick-and-pack-pedidos): gerenciamento de separação e empacotamento.
 * [Last Mile](/pt/docs/tutorials/vtex-pick-and-pack-last-mile): controle da entrega last mile.
 * **Aplicativos móveis:** aplicativos móveis para separadores e entregadores.
 
@@ -67,5 +67,5 @@ Para começar a usar o **VTEX Pick and Pack**, fale com o seu Customer Success M
 ## Saiba mais
 
 * [VTEX Pick and Pack](/pt/docs/tutorials/vtex-pick-and-pack)
-* [VTEX Pick and Pack: Fulfillment](/pt/docs/tutorials/vtex-pick-and-pack-insights)
+* [VTEX Pick and Pack: Fulfillment](/pt/docs/tutorials/vtex-pick-and-pack-pedidos)
 * [VTEX Pick and Pack: Last Mile](/pt/docs/tutorials/vtex-pick-and-pack-last-mile)
