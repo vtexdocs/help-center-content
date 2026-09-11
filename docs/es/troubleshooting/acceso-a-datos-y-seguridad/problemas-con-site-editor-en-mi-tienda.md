@@ -132,7 +132,7 @@ Abre un ticket con el [soporte VTEX](https://supporticket.vtex.com/support) para
 
 Para evitar perder el contenido almacenado en Site Editor al cambiar las dependencias de pares de la aplicación Store Theme, sigue los pasos de la guía [Migrating CMS settings after a major theme update](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-cms-settings-after-major-update).
 
-> ⚠️  En los casos en que se pierda el contenido almacenado en Site Editor, la restauración solo es posible si la pérdida está relacionada con el problema [pérdida intermitente de contenido en Site Editor](/es/known-issues/perda-intermitente-de-conteudo-do-site-editor--3a5MlAoD2Z7Gu6HDS8wihD). Ante esta situación, abre un ticket con el [Soporte VTEX](https://supporticket.vtex.com/support) con prioridad `urgente`.
+> ⚠️  En los casos en que se pierda el contenido almacenado en Site Editor, la restauración solo es posible si la pérdida está relacionada con el problema [pérdida intermitente de contenido en Site Editor](/es/known-issues/perdida-intermitente-de-contenido-del-editor-de-sitios). Ante esta situación, abre un ticket con el [Soporte VTEX](https://supporticket.vtex.com/support) con prioridad `urgente`.
 
 ## Continúo experimentando problemas con Site Editor
 
