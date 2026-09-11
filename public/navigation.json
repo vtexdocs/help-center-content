@@ -33526,6 +33526,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configuring extra safety layers per project",
+                    "es": "Configurar capas adicionales de seguridad por proyecto",
+                    "pt": "Configurar camadas extras de segurança por projeto"
+                  },
+                  "slug": {
+                    "en": "configuring-safety-guardrails-per-project",
+                    "es": "configurar-capas-adicionales-de-seguridad-por-proyecto",
+                    "pt": "configurar-camadas-extras-de-seguranca-por-projeto"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Official agents from VTEX CX Platform",
                     "es": "Agentes oficiales de VTEX CX Platform",
                     "pt": "Agentes oficiais do VTEX CX Platform"
@@ -57225,6 +57240,21 @@
                 "en": "delay-to-register-cancelreason-in-the-order-json",
                 "es": "retraso-en-el-registro-de-cancelreason-en-el-json-del-pedido",
                 "pt": "atraso-no-registro-do-cancelreason-no-json-do-pedido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Delayed \"payment-approved\" transition for fast/auto-approval payment methods (workflow not ready when authorization notification arrives)",
+                "es": "Transición retrasada a \"pago aprobado\" para métodos de pago de aprobación rápida/automática (el flujo de trabajo no está listo cuando llega la notificación de autorización).",
+                "pt": "Transição de \"pagamento aprovado\" atrasada para métodos de pagamento com aprovação rápida/automática (fluxo de trabalho não está pronto quando a notificação de autorização chega)."
+              },
+              "slug": {
+                "en": "delayed-paymentapproved-transition-for-fastautoapproval-payment-methods-workflow-not-ready-when-authorization-notification-arrives",
+                "es": "transicion-retrasada-a-pago-aprobado-para-metodos-de-pago-de-aprobacion-rapidaautomatica-el-flujo-de-trabajo-no-esta-listo-cuando-llega-la-notificacion-de-autorizacion",
+                "pt": "transicao-de-pagamento-aprovado-atrasada-para-metodos-de-pagamento-com-aprovacao-rapidaautomatica-fluxo-de-trabalho-nao-esta-pronto-quando-a-notificacao-de-autorizacao-chega"
               },
               "origin": "",
               "type": "markdown",
