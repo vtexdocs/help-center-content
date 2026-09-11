@@ -31,7 +31,7 @@ A página apresenta as seguintes informações em uma tabela:
 
 | Colunas | Descrição |
 |---|---|
-| Nome | Nome que identifica a opção de envio que será exibida no frente da loja. |
+| Nome | Nome que identifica a opção de envio que será exibida na frente da loja. |
 | Meta de prazo | Período de tempo do prazo de entrega da opção de envio. |
 | Zona de entrega | Localizações onde a opção de envio estará disponível. |
 | Status | Situação da opção de envio, que pode ser:<br><ul><li>Ativa: a opção de envio está disponível para o cliente.</li><li>Inativa: a opção de envio não está disponível para o cliente.</li></ul> |
@@ -65,7 +65,7 @@ Para criar uma nova opção de envio, siga os passos abaixo.
 
    ### Precificação de envio
 
-   - **Precificação**: condições de precificação da opção de envio. Os modelos de precificação aplicados em cada segmentação são: **Valor fixo**, um mesmo preço que será aplicado a todos os carrinhos, **Markup**, uma porcentagem de lucro em cima do valor do frete, e **Repasse de custo**, a loja arca com o custo da opção de envio. É possível combinar as opções de precificação entre si. As condições de precificação são definidas partir das seguintes segmentações:
+   - **Precificação**: condições de precificação da opção de envio. Os modelos de precificação aplicados em cada segmentação são: **Valor fixo**, um mesmo preço que será aplicado a todos os carrinhos, **Markup**, uma porcentagem de lucro em cima do valor do frete, e **Repasse de custo**, a loja arca com o custo da opção de envio. É possível combinar as opções de precificação entre si. As condições de precificação são definidas a partir das seguintes segmentações:
        - **Todos os carrinhos**: o preço será aplicado a todos os carrinhos criados na loja.
        - **Políticas comerciais**: o preço será aplicado a uma determinada política comercial.
        - **Valor do carrinho**: o preço será aplicado caso o valor do carrinho ultrapasse um determinado valor.
@@ -87,6 +87,40 @@ Para editar uma opção de envio, siga os passos abaixo.
 5. Clique em `Salvar opção de envio`.
 
 Feito isso, a opção de envio estará ativa e atualizada.
+
+## Verificar cobertura logística
+
+Ao editar uma opção de envio, é possível conferir se a configuração da loja atende aos critérios definidos na opção, identificando quais sellers, políticas de envio e rotas estão disponíveis para atendê-la. Essa verificação ajuda a diagnosticar por que uma opção de envio pode não estar sendo exibida ao cliente.
+
+Para verificar a cobertura logística de uma opção de envio, siga os passos abaixo.
+
+1. No Admin VTEX, acesse **Envio > Opções de envio** ou digite **Opções de envio** na barra de busca no topo da página.
+2. Na opção de envio que deseja verificar, clique em <i class="fas fa-ellipsis-v"></i>.
+3. Clique em <i class="fas fa-pencil-alt"></i> `Editar opção de envio`.
+4. Clique em `Verificar cobertura logística`.
+
+O modal **Verificar cobertura logística** será aberto ao lado direito da página, apresentando as seguintes informações:
+
+| Informação | Descrição |
+|---|---|
+| Sellers | Quantidade de sellers que atendem aos critérios configurados na opção de envio. |
+| Políticas de envio | Quantidade de políticas de envio que atendem aos critérios configurados na opção de envio. |
+| Cobertura por zona | Lista das zonas de envio configuradas na opção de envio, indicando quantos sellers e quantas políticas de envio atendem a cada zona. |
+| Rotas válidas para esta opção | Lista dos sellers que atendem à opção de envio, indicando a quantidade de políticas de envio e de rotas de cada um. O título da seção também informa quantos sellers estão sendo exibidos em relação ao total encontrado (por exemplo, **exibindo 2 de 2**). |
+
+Na seção **Rotas válidas para esta opção**, clique em <i class="fas fa-chevron-down"></i> ao lado do nome de um seller para expandir suas rotas. Cada rota é apresentada como a combinação entre uma política de envio e uma doca de carregamento, no formato `Política de envio + Doca`, como no exemplo abaixo:
+
+- `Total Express - MG` + `Main Dock`
+- `Total Express - MG` + `Sorocaba`
+- `Total Express - SP` + `Main Dock`
+
+Dessa forma, é possível identificar exatamente quais combinações de política de envio e doca estão habilitadas para atender a opção de envio em cada seller. Para recolher a lista de rotas de um seller, clique em <i class="fas fa-chevron-up"></i>.
+
+Para localizar uma zona de envio ou um seller específico, clique em <i class="fas fa-search"></i> na seção correspondente e digite o nome desejado.
+
+Caso alguma configuração da loja seja alterada enquanto o modal estiver aberto, clique em <i class="fas fa-sync-alt"></i> para atualizar as informações exibidas. Para fechar o modal, clique em <i class="fas fa-times"></i>.
+
+> ℹ️ Se uma zona de envio não apresentar sellers ou políticas de envio, a opção de envio não será exibida ao cliente nessa localização. Nesse caso, revise as [políticas de envio](/pt/docs/tutorials/politica-de-envio) da loja para garantir que atendam à promessa de entrega e às zonas configuradas na opção de envio.
 
 ## Desativar uma opção de envio
 
@@ -117,7 +151,7 @@ Para deletar uma opção de envio, siga os passos abaixo.
 1. No Admin VTEX, acesse **Envio > Opções de envio** ou digite **Opções de envio** na barra de busca no topo da página.
 2. Na opção de envio que deseja deletar, clique em <i class="fas fa-ellipsis-v"></i>.
 3. Clique em <i class="fas fa-trash-alt"></i> `Excluir opção de envio`.
-4. Clique em `Excluir opção`. Lembre-se que a exclusão é irreversível e pode alterar a experiência de compra caso a opção de envio esteja ativa.
+4. Clique em `Excluir opção`. Lembre-se de que a exclusão é irreversível e pode alterar a experiência de compra caso a opção de envio esteja ativa.
 
 Feito isso, a opção de envio será deletada.
 
@@ -129,7 +163,7 @@ Para buscar uma opção de envio, clique na barra de busca e digite o nome da op
 
 Para filtrar a lista de opções de envio, clique em um dos filtros descritos abaixo e selecione as opções desejadas.
 
-- **Método de envio:** filtra pelos métodos de envio, **Entrega**, **Entrega agendada, Retirada** e **Retirada Agendada**, cadastrados nas opções de envio.
+- **Método de envio:** filtra pelos métodos de envio, **Entrega**, **Entrega agendada**, **Retirada** e **Retirada agendada**, cadastrados nas opções de envio.
 
 - **Zona de entrega:** filtra pelas zonas de entrega configuradas nas opções de envio. É possível procurar pelo nome de uma zona de entrega na barra de busca.
 
@@ -147,7 +181,7 @@ Configure as opções de envio na frente da loja para personalizar a experiênci
 2. Clique em `Preferências`.
 3. Na seção **Opções de entrega usadas como filtro**, defina a ordem em que as opções de entrega serão exibidas nos filtros de navegação.
 4. Adicione as opções de envio que deseja incluir nos filtros de navegação clicando em `+` na opção de envio correspondente.
-5. Selecione a forma que deseja exibir as suas opções de envio na loja.
+5. Selecione a forma como deseja exibir as suas opções de envio na loja.
    - **Exibir sempre todas as opções disponíveis para o produto:** todas as opções de envio que estão disponíveis nas condições de entrega serão exibidas na página de produto e no checkout da loja.
    - **Exibir apenas a opção de menor custo e a de menor prazo:** apenas as opções de envio com menor custo ou com menor prazo serão exibidas na página de produto e no checkout da loja.
 6. Clique em `Salvar` para finalizar.
