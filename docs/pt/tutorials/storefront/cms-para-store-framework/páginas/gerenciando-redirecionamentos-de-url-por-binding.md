@@ -73,7 +73,7 @@ Para gerenciar em massa os redirecionamentos da sua loja, você pode usar uma pl
 
 ![pt-planilharedirect](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/cms-para-store-framework/páginas/gerenciando-redirecionamentos-de-url-por-binding_4.png)
 
-> ⚠️ Ao clicar no botão `Salvar`, você criará todos os redirecionamentos listados em sua planilha, ao passo que clicar no botão <code>Excluir</couirde> removerá todos eles do banco de dados de redirecionamentos da sua loja.
+> ⚠️ Ao clicar no botão `Salvar`, você criará todos os redirecionamentos listados em sua planilha, ao passo que clicar no botão `Excluir` removerá todos eles do banco de dados de redirecionamentos da sua loja.
 
 6. Carregue a planilha a partir dos seus arquivos locais.
 7. Clique no botão `Importar arquivo`.
