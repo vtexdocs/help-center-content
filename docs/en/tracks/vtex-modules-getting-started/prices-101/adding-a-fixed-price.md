@@ -26,7 +26,7 @@ There are three ways to create a fixed price:
 To create a fixed price in the Admin, follow the steps below.
 
 <ol>
-    <li>In the VTEX Admin, go to <strong>Prices &gt; Price list<strong>, or type <strong>Price list<strong> in the search bar at the top of the page.</li>
+    <li>In the VTEX Admin, go to <strong>Prices &gt; Price list</strong>, or type <strong>Price list</strong> in the search bar at the top of the page.</li>
     <li>Click on `Price tables`.</li>
     <li>Select the desired price table.</li>
     <li>Select a SKU price cell from the price table.</li>
