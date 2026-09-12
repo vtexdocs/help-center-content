@@ -35419,6 +35419,143 @@
           "children": [
             {
               "name": {
+                "en": "AI Workspace e Agentes - Overview",
+                "es": "AI Workspace e Agentes - Visión general",
+                "pt": "AI Workspace e Agentes - Visão geral"
+              },
+              "slug": {
+                "en": "ai-workspace-overview",
+                "es": "ai-workspace-vision-general",
+                "pt": "ai-workspace-visao-geral"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": [
+                {
+                  "name": {
+                    "en": "AI Workspace interface",
+                    "es": "Interface del AI Workspace",
+                    "pt": "Interface do AI Workspace"
+                  },
+                  "slug": {
+                    "en": "ai-workspace-interface-subcategory",
+                    "es": "ai-workspace-interface-subcategoria",
+                    "pt": "ai-workspace-interface-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "AI Workspace - Chat",
+                        "es": "AI Workspace - Conversación",
+                        "pt": "AI Workspace - Conversa"
+                      },
+                      "slug": {
+                        "en": "ai-workspace-chat",
+                        "es": "ai-workspace-conversacion",
+                        "pt": "ai-workspace-conversa"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "AI Workspace - Home",
+                        "es": "AI Workspace - Página Inicial",
+                        "pt": "AI Workspace - Início"
+                      },
+                      "slug": {
+                        "en": "ai-workspace-home",
+                        "es": "ai-workspace-pagina-inicial",
+                        "pt": "ai-workspace-inicio"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "AI Workspace - Initiatives",
+                        "es": "AI Workspace - Iniciativas",
+                        "pt": "AI Workspace - Iniciativas"
+                      },
+                      "slug": {
+                        "en": "ai-workspace-initiatives",
+                        "es": "ai-workspace-iniciativas",
+                        "pt": "ai-workspace-iniciativas"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "AI Workspace - Navigation menu",
+                        "es": "AI Workspace - Menú de navegación",
+                        "pt": "AI Workspace - Menu de navegação"
+                      },
+                      "slug": {
+                        "en": "ai-workspace-navigation-menu",
+                        "es": "ai-workspace-menu-navegacion",
+                        "pt": "ai-workspace-menu-navegacao"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "AI Workspace - Tasks",
+                        "es": "AI Workspace - Tareas",
+                        "pt": "AI Workspace - Tarefas"
+                      },
+                      "slug": {
+                        "en": "ai-workspace-tasks",
+                        "es": "ai-workspace-tareas",
+                        "pt": "ai-workspace-tarefas"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "AI Workspace e Agentes - Glossary",
+                    "es": "AI Workspace e Agentes - Glosario",
+                    "pt": "AI Workspace e Agentes - Glossário"
+                  },
+                  "slug": {
+                    "en": "ai-workspace-glossary",
+                    "es": "ai-workspace-glosario",
+                    "pt": "ai-workspace-glossario"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "VTEX Agents list",
+                    "es": "Lista de Agentes da VTEX",
+                    "pt": "Lista de Agentes da VTEX"
+                  },
+                  "slug": {
+                    "en": "agents-list",
+                    "es": "lista-agentes",
+                    "pt": "lista-agentes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Catalog Beta",
                 "es": "Catálogo Beta",
                 "pt": "Catálogo Beta"
