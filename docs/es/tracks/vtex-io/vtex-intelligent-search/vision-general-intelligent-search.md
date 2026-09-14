@@ -29,6 +29,6 @@ Antes de empezar a utilizar Intelligent Search, comprueba si tu tienda cumple lo
 
 * La tienda debe haber sido desarrollada utilizando [Store Framework](https://developers.vtex.com/docs/guides/store-framework) o [FastStore](https://developers.vtex.com/docs/guides/faststore), es decir, necesita utilizar una versión de [Edition App](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app) vtex.edition-store@3.x o más reciente.
 
-  > ℹ️ Este requisito no aplica a escenarios de implementación headless, donde la tecnología frontend no es proporcionada por VTEX. En estos casos, es necesario implementar el envío de los eventos de búsqueda. Para más información, consulta [VTEX Intelligent Search Events API - Headless](https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless).
+  > ℹ️ Este requisito no aplica a escenarios de implementación headless, donde la tecnología frontend no es proporcionada por VTEX. En estos casos, las impresiones y los clics de búsqueda deben rastrearse manualmente utilizando Activity Flow. Para conocer los detalles de implementación, consulta [Tracking search analytics events in headless web stores](https://developers.vtex.com/docs/guides/tracking-search-analytics-events-in-headless-web-stores) y [Tracking search analytics events in mobile apps](https://developers.vtex.com/docs/guides/tracking-search-analytics-events-in-mobile-apps).
 
 * La tienda debe tener [productos y SKUs registrados en el catálogo](/es/docs/tracks/registrar-producto) y activos.

@@ -74,7 +74,7 @@ The logistics process must be configured according to your store needs. These co
    </td>
   </tr>
    <tr class="bb b--muted-3">
-   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Shipping rates](/en/docs/tutorials/shipping-rates)</span>
+   <td class="t-body pa5" style="min-width: 15rem;">[Shipping rates](/en/docs/tutorials/shipping-rates)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Manage your store's shipping costs.
 <body>
@@ -87,7 +87,7 @@ The logistics process must be configured according to your store needs. These co
    </td>
   </tr>
    <tr class="bb b--muted-3">
-   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Inventory management](/en/docs/tutorials/managing-stock-items)</span>
+   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Inventory management](/en/docs/tutorials/managing-stock-items)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Manage the availability of the items in the inventory. You can track item activity and reservations.
 <body>
@@ -100,13 +100,13 @@ The logistics process must be configured according to your store needs. These co
    </td>
   </tr>
    <tr class="bb b--muted-3">
-   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Shipping simulator](/en/docs/tutorials/shipping-simulation)</span>
+   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Shipping simulator](/en/docs/tutorials/shipping-simulation)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Shipping simulation tool that allows you to reproduce shipping scenarios (item availability, types of delivery and pickup). 
    </td>
   </tr>
    <tr class="bb b--muted-3">
-   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Geolocation shipping](/en/docs/tutorials/registering-geolocation)</span>
+   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Geolocation shipping](/en/docs/tutorials/registering-geolocation)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Add delivery addresses using latitude and longitude information.
 
@@ -114,7 +114,7 @@ This feature is typically used for addresses in rural and industrial areas or in
    </td>
   </tr>
    <tr class="bb b--muted-3">
-   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Holidays](/en/docs/tutorials/registering-holidays)</span>
+   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Holidays](/en/docs/tutorials/registering-holidays)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Add days that will not be considered business days in your store. 
 
@@ -142,7 +142,7 @@ Days registered as holidays are not considered in the delivery time of orders.
    </td>
   </tr>
    <tr class="bb b--muted-3">
-   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Pickup points](/en/docs/tutorials/pickup-points)</span>
+   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Pickup points](/en/docs/tutorials/pickup-points)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Manage pickup points. With this feature, stores can allow customers to pick up their orders at physical pickup points.
 <body>

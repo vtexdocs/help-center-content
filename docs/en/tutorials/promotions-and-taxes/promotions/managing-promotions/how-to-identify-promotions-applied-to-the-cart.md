@@ -28,10 +28,10 @@ You can place a test order in the store and then check in **Orders Management** 
 
 Example: Imagine an order in which free shipping has been applied, but you don't know the reason. By clicking on an order in **Orders Management**, you would find the name of the promotion registered in the **Sales and Marketing** or **Promotions and Partnerships** section.
 
-<img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/managing-promotions/how-to-identify-promotions-applied-to-the-cart_3.png" alt="order-details" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
+<figure><img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/managing-promotions/how-to-identify-promotions-applied-to-the-cart_3.png" alt="order-details" style="margin-bottom: 20px;" /> <figcaption align = "center"><em>Order details
 </em></figcaption></figure>
 
-<img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/managing-promotions/how-to-identify-promotions-applied-to-the-cart_4.png" alt="order-details-beta" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
+<figure><img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/managing-promotions/how-to-identify-promotions-applied-to-the-cart_4.png" alt="order-details-beta" style="margin-bottom: 20px;" /> <figcaption align = "center"><em>Order details
  (Beta)</em></figcaption></figure>
 
 If no promotion is listed, it indicates that the free shipping is not caused by a promotion, i.e. the shipping calculation in the **Inventory & shipping** module has resulted in zero. In this case, you have to use the **Shipping Simulator** to understand why shipping had zero value.
