@@ -26,4 +26,4 @@ Ao unificar dados e ferramentas de vendas entre canais, o **Sales App** reduz a 
 
 O **Sales App** é nativamente integrado ao catálogo, estoque, promoções, preços e pedidos da VTEX, o que simplifica sua configuração para o lojista. Essa integração dá aos vendedores uma visão unificada dos clientes da loja, permitindo criar experiências de compra fluidas entre canais.
 
-Os guias e tutoriais desta seção mostram como configurar o Sales App de acordo com o seu caso de uso.
+Esta trilha de artigos mostra como configurar o **Sales App** de acordo com o seu caso de uso.
