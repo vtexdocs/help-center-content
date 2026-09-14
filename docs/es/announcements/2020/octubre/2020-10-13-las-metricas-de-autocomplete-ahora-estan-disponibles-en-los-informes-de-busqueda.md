@@ -23,7 +23,7 @@ Antes solo se podía ver y exportar informes sobre los resultados de búsqueda y
 <table width = "100%">
   <tr>
     <td>
-      <img src = "https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2020/octubre/2020-10-13-las-metricas-de-autocomplete-ahora-estan-disponibles-en-los-informes-de-busqueda_1.png" style = "display:block; margin-left: auto; margin-right: auto;" alt = "Opções de filtros do relatório" title = "Opções de filtros do relatório">
+      <img src = "https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2020/octubre/2020-10-13-las-metricas-de-autocomplete-ahora-estan-disponibles-en-los-informes-de-busqueda_1.png" style = "display:block; margin-left: auto; margin-right: auto;" alt = "Opções de filtros do relatório" title = "Opções de filtros do relatório" />
     </td>
   </tr>
   <tr>

@@ -85,10 +85,10 @@ When a customer places an order that is eligible to receive a reward credit, you
 
 The name of the promotion applied to the order appears in the **Sales and marketing** section:
 
-<img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/rules-and-conditions/regular-promotion-with-reward-value_7.png" alt="order-details" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
+<figure><img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/rules-and-conditions/regular-promotion-with-reward-value_7.png" alt="order-details" style="margin-bottom: 20px;" /> <figcaption align = "center"><em>Order details
 </em></figcaption></figure>
 
-<img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/rules-and-conditions/regular-promotion-with-reward-value_8.png" alt="order-details-beta" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
+<figure><img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/rules-and-conditions/regular-promotion-with-reward-value_8.png" alt="order-details-beta" style="margin-bottom: 20px;" /> <figcaption align = "center"><em>Order details
  (Beta)</em></figcaption></figure>
 
 In the **Order flow** section, you can check the reward value applied:

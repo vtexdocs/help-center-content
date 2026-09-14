@@ -86,9 +86,9 @@ Quando um cliente faz um pedido elegível para receber crédito fidelidade, voc�
 
 Na seção **Promoções e parcerias**, aparece o nome da promoção aplicada ao pedido:
 
-<img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/regras-e-condições/promocao-regular-com-valor-fidelidade_7.png" alt="detalhes-do-pedido" style="margin-bottom: 20px;"> <figcaption align = "center">*Detalhes do pedido*</figcaption></figure>
+<figure><img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/regras-e-condições/promocao-regular-com-valor-fidelidade_7.png" alt="detalhes-do-pedido" style="margin-bottom: 20px;" /> <figcaption align = "center">*Detalhes do pedido*</figcaption></figure>
 
-<img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/regras-e-condições/promocao-regular-com-valor-fidelidade_8.png" alt="detalhes-do-pedido-beta" style="margin-bottom: 20px;"> <figcaption align = "center">*Detalhes do pedido (Beta)*</figcaption></figure>
+<figure><img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/regras-e-condições/promocao-regular-com-valor-fidelidade_8.png" alt="detalhes-do-pedido-beta" style="margin-bottom: 20px;" /> <figcaption align = "center">*Detalhes do pedido (Beta)*</figcaption></figure>
 
 Na seção __Fluxo do pedido__, é possível verificar o valor fidelidade concedido:
 
