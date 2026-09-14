@@ -33,6 +33,8 @@ Ao clicar no card, a janela de configuração do **Shopping Assistant** é abert
 
 ## Personalizar o aplicativo
 
+Você pode personalizar o Shopping Assistant do seu projeto, modificando a aparência e as funcionalidades do agente.
+
 ### Aparência
 
 A aba **Aparência** define o visual do widget de chat. Nela, você pode configurar os seguintes campos:
@@ -41,7 +43,7 @@ A aba **Aparência** define o visual do widget de chat. Nela, você pode configu
   - Ao clicar em <i class="fas fa-plus" aria-hidden="true"></i>`Mais`, você pode adicionar campos opcionais:
     - **Subtítulo do chat:** texto que fica abaixo do título.
     - **Mensagem de notificação do chat:** mensagem que aparece na notificação do chatbot.
-    - **Texto do placeholder:** placeholder do campo de mensagem. 
+    - **Texto do placeholder:** placeholder do campo de mensagem.
 - **Cor principal:** cor principal do chat.
 - **Imagem do avatar:** avatar do agente no chat.
 - **CSS customizado:** envie um arquivo CSS para aplicar estilos próprios ao widget.
@@ -51,7 +53,7 @@ A aba **Aparência** define o visual do widget de chat. Nela, você pode configu
 A aba **Preferências** define o comportamento do chat. Nela, você pode configurar os seguintes campos:
 
 | Seção | Funcionalidade | Descrição |
-|---|---|---|
+| --- | --- | --- |
 | **Comportamento** | Modo incorporado | Ative esse botão para exibir o chat incorporado na página da loja. Se preferir o chat como uma janela flutuante, desligue o botão. |
 | **Comportamento** | Mostrar botão de tela cheia | Exibe um botão que permite ao usuário expandir o chat para tela cheia. |
 | **Comportamento** | Iniciar chat em tela cheia | Abre o chat diretamente em tela cheia quando o usuário inicia uma conversa. |
@@ -66,11 +68,11 @@ A aba **Preferências** define o comportamento do chat. Nela, você pode configu
 | **Histórico de chats e inatividade** | Reiniciar conversa por inatividade do contato | Reinicia a conversa automaticamente após um período de inatividade do usuário. Quando habilitado, você pode delimitar esse período de inatividade no campo seguinte, no formato HH:mm. |
 | **Histórico de chats e inatividade** | Tempo entre as mensagens | Define o intervalo entre mensagens enviadas pelo agente. |
 
-## Código Script
+### Código Script
 
 A aba **Código Script** gera o código para instalar o Shopping Assistant no site. Para instalar o chat, siga os passos a seguir:
 
-1. Após finalizar as configurações do Shopping Assistant, clique em `Salvar alteraçõe`. Isso gera o código script com suas preferências salvas. 
+1. Após finalizar as configurações do Shopping Assistant, clique em `Salvar alteraçõe`. Isso gera o código script com suas preferências salvas.
 2. Clique na aba **Código Script**.
 3. Copie o código exibido ou clique em `Baixar script`.
 4. No código do seu site, cole esse script acima da última tag `</body>`.
