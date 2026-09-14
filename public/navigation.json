@@ -16381,69 +16381,6 @@
       "categories": [
         {
           "name": {
-            "en": "Admin VTEX",
-            "es": "Admin VTEX",
-            "pt": "Admin VTEX"
-          },
-          "slug": {
-            "en": "admin-vtex",
-            "es": "admin-vtex-subcategoria",
-            "pt": "admin-vtex-subcategoria"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Gestión de la cuenta",
-                "es": "Gestión de la cuenta",
-                "pt": "Gerenciamento da conta"
-              },
-              "slug": {
-                "en": "gestion-de-la-cuenta",
-                "es": "gestion-de-la-cuenta-categoria",
-                "pt": "gerenciamento-da-conta-categoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Cuentas",
-                    "es": "Cuentas",
-                    "pt": "Contas"
-                  },
-                  "slug": {
-                    "en": "cuentas",
-                    "es": "cuentas-subcategoria",
-                    "pt": "contas-subcategoria"
-                  },
-                  "origin": "",
-                  "type": "category",
-                  "children": [
-                    {
-                      "name": {
-                        "es": "Cambiar el logotipo del boleto",
-                        "pt": "Alterar o logotipo do boleto",
-                        "en": "Cambiar el logotipo del boleto"
-                      },
-                      "slug": {
-                        "es": "cambiar-el-logotipo-del-boleto",
-                        "pt": "alterar-o-logotipo-do-boleto",
-                        "en": ""
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": {
             "en": "VTEX Admin",
             "es": "Admin VTEX",
             "pt": "Admin VTEX"
@@ -16560,6 +16497,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": [
+                    {
+                      "name": {
+                        "en": "Changing the logo on the Boleto",
+                        "es": "Cambiar el logotipo del boleto",
+                        "pt": "Alterar o logotipo do boleto"
+                      },
+                      "slug": {
+                        "en": "changing-the-logo-on-the-boleto",
+                        "es": "cambiar-el-logotipo-del-boleto",
+                        "pt": "alterar-o-logotipo-do-boleto"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
                     {
                       "name": {
                         "en": "Changing the store domain",
@@ -53897,21 +53849,6 @@
             },
             {
               "name": {
-                "en": "Minimum of items can be sent as 0 through the field \"numberOfItemsPerShipment\" in API",
-                "es": "El mínimo de artículos se puede enviar como 0 a través del campo \"numberOfItemsPerShipment\" en API",
-                "pt": "O mínimo de itens pode ser enviado como 0 por meio do campo \"numberOfItemsPerShipment\" na API"
-              },
-              "slug": {
-                "en": "minimum-of-items-can-be-sent-as-0-through-the-field-numberofitemspershipment-in-api",
-                "es": "el-minimo-de-articulos-se-puede-enviar-como-0-a-traves-del-campo-numberofitemspershipment-en-api",
-                "pt": "o-minimo-de-itens-pode-ser-enviado-como-0-por-meio-do-campo-numberofitemspershipment-na-api"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Modal as Generic Reason even this type of Modal are configured OK",
                 "es": "Modal como Razón Genérica incluso este tipo de Modal están configurados OK",
                 "pt": "Modal como Generic Reason mesmo este tipo de Modal são configurados OK"
@@ -53920,21 +53857,6 @@
                 "en": "modal-as-generic-reason-even-this-type-of-modal-are-configured-ok",
                 "es": "modal-como-razon-generica-incluso-este-tipo-de-modal-estan-configurados-ok",
                 "pt": "modal-como-generic-reason-mesmo-este-tipo-de-modal-sao-configurados-ok"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Modal values with different texts between API and Logistics UI",
-                "es": "Valores de los cuadros de diálogo con textos diferentes entre la API y la interfaz de usuario de logística",
-                "pt": "Valores de modais com textos diferentes entre a API e a interface de usuário de logística"
-              },
-              "slug": {
-                "en": "modal-values-with-different-texts-between-api-and-logistics-ui",
-                "es": "valores-de-los-cuadros-de-dialogo-con-textos-diferentes-entre-la-api-y-la-interfaz-de-usuario-de-logistica",
-                "pt": "valores-de-modais-com-textos-diferentes-entre-a-api-e-a-interface-de-usuario-de-logistica"
               },
               "origin": "",
               "type": "markdown",
@@ -54070,21 +53992,6 @@
                 "en": "shipping-policy-stuck-in-processing-status-is-displayed-as-active-in-the-new-logistics-ui",
                 "es": "una-politica-de-envios-que-se-encuentra-en-estado-de-procesamiento-aparece-como-activa-en-la-nueva-interfaz-de-usuario-de-logistica",
                 "pt": "a-politica-de-envio-que-esta-no-status-em-processamento-e-exibida-como-ativa-na-nova-interface-de-logistica"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Shipping policy that does not deliver on weekends is being considered",
-                "es": "Se está estudiando una política de envíos que no entregue los fines de semana",
-                "pt": "A política de remessa que não entrega nos finais de semana está sendo considerada"
-              },
-              "slug": {
-                "en": "shipping-policy-that-does-not-deliver-on-weekends-is-being-considered",
-                "es": "se-esta-estudiando-una-politica-de-envios-que-no-entregue-los-fines-de-semana",
-                "pt": "a-politica-de-remessa-que-nao-entrega-nos-finais-de-semana-esta-sendo-considerada"
               },
               "origin": "",
               "type": "markdown",
@@ -57240,6 +57147,21 @@
                 "en": "delay-to-register-cancelreason-in-the-order-json",
                 "es": "retraso-en-el-registro-de-cancelreason-en-el-json-del-pedido",
                 "pt": "atraso-no-registro-do-cancelreason-no-json-do-pedido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Delayed \"payment-approved\" transition for fast/auto-approval payment methods (workflow not ready when authorization notification arrives)",
+                "es": "Transición retrasada a \"pago aprobado\" para métodos de pago de aprobación rápida/automática (el flujo de trabajo no está listo cuando llega la notificación de autorización).",
+                "pt": "Transição de \"pagamento aprovado\" atrasada para métodos de pagamento com aprovação rápida/automática (fluxo de trabalho não está pronto quando a notificação de autorização chega)."
+              },
+              "slug": {
+                "en": "delayed-paymentapproved-transition-for-fastautoapproval-payment-methods-workflow-not-ready-when-authorization-notification-arrives",
+                "es": "transicion-retrasada-a-pago-aprobado-para-metodos-de-pago-de-aprobacion-rapidaautomatica-el-flujo-de-trabajo-no-esta-listo-cuando-llega-la-notificacion-de-autorizacion",
+                "pt": "transicao-de-pagamento-aprovado-atrasada-para-metodos-de-pagamento-com-aprovacao-rapidaautomatica-fluxo-de-trabalho-nao-esta-pronto-quando-a-notificacao-de-autorizacao-chega"
               },
               "origin": "",
               "type": "markdown",

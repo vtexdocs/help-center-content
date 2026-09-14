@@ -88,6 +88,40 @@ Para editar una opción de envío sigue los pasos a continuación:
 
 La opción de envío estará activa y actualizada.
 
+## Verificar cobertura logística
+
+Al editar una opción de envío, puedes verificar si la configuración de la tienda cumple con los criterios definidos en la opción, identificando los sellers, políticas de envío y rutas que están disponibles para atenderla. Esta verificación ayuda a diagnosticar por qué una opción de envío no se muestra al cliente.
+
+Para verificar la cobertura logística de una opción de envío sigue los pasos a continuación.
+
+1. En el Admin VTEX, accede a **Envío > Opciones de envío** o ingresa **Opciones de envío** en la barra de búsqueda en la parte superior de la página.
+2. En la opción de envío que deseas verificar, haz clic en <i class="fas fa-ellipsis-v"></i>.
+3. Haz clic en <i class="fas fa-pencil-alt"></i> `Editar opción de envío`.
+4. Haz clic en `Comprobar cobertura logística`.
+
+El modal **Comprobar cobertura logística** se abrirá al lado derecho de la página con la siguiente información:
+
+| Información                    | Descripción                                                                                                                                                                                                                                                                                                             |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sellers                        | Cantidad de sellers que cumplen con los criterios configurados en la opción de envío.                                                                                                                                                                                                                   |
+| Políticas de envío             | Cantidad de políticas de envío que cumplen con los criterios configurados en la opción de envío.                                                                                                                                                                                                        |
+| Cobertura por zona             | Lista de las zonas de envío configuradas en la opción de envío que indica cuántos sellers y cuántas políticas de envío atienden cada zona.                                                                                                                                                              |
+| Rutas válidas para esta opción | Lista de los sellers que cumplen con la opción de envío y la cantidad de políticas de envío y de rutas de cada uno. El título de la sección también indica cuántos sellers se están mostrando en proporción al total encontrado (por ejemplo, **mostrando 2 de 2**). |
+
+En la sección **Rutas válidas para esta opción**, haz clic en <i class="fas fa-chevron-down"></i> junto al nombre de un seller para expandir sus rutas. Cada ruta se presenta como la combinación de una política de envío y un muelle en formato `Política de envío + Muelle`, según se muestra en el siguiente ejemplo:
+
+- `Fedex - VER` + `Muelle principal`
+- `Fedex - VER` + `Xalapa`
+- `Fedex - CDMX` + `Muelle principal`
+
+De esta forma, es posible identificar exactamente qué combinaciones de política de envío y muelle están habilitadas para atender la opción de envío en cada seller. Para contraer la lista de rutas de un seller, haz clic en <i class="fas fa-chevron-up"></i>.
+
+Para buscar una zona de envío o un seller específico, haz clic en <i class="fas fa-search"></i> en la sección correspondiente e ingresa el nombre deseado.
+
+Si alguna configuración de la tienda cambia mientras el modal está abierto, haz clic en <i class="fas fa-sync-alt"></i> para actualizar la información mostrada. Para cerrar el modal, haz clic en <i class="fas fa-times"></i>.
+
+> ℹ️ Si una zona de envío no cuenta con sellers o políticas de envío, la opción de envío no se mostrará al cliente en esa ubicación. En ese caso, revisa las [políticas de envío](https://help.vtex.com/es/docs/tutorials/politica-de-envio) de la tienda para garantizar que cumplen con la promesa de entrega y atienden las zonas configuradas en la opción de envío.
+
 ## Desactivar una opción de envío
 
 Para desactivar una opción de envío sigue los pasos a continuación:
@@ -117,7 +151,7 @@ Para eliminar una opción de envío sigue los pasos a continuación:
 1. En el Admin VTEX, accede a **Envío > Opciones de envío** o ingresa **Opciones de envío** en la barra de búsqueda en la parte superior de la página.
 2. En la opción de envío que deseas eliminar, haz clic en los tres puntos verticales <i class="fas fa-ellipsis-v"></i>.
 3. Haz clic en <i class="fas fa-trash-alt"></i> `Eliminar opción de envío`.
-4. Haz clic en `Eliminar opción`. Recuerda que la acción de eliminar no se puede deshacer y puede alterar la experiencia de compra si la opción de envío estaba activa.
+4. Haz clic en `Eliminar opción de envío`. Recuerda que la eliminación es permanente y puede alterar la experiencia de compra si la opción de envío está activa.
 
 Una vez hecho esto, la opción de envío se eliminará.
 
@@ -129,7 +163,7 @@ Para buscar una opción de envío, haz clic en la barra de búsqueda y escribe e
 
 Para filtrar la lista de opciones de envío, haz clic en uno de los filtros descritos a continuación y selecciona las opciones deseadas.
 
-- **Método de envío:** filtra utilizando los métodos de envío de las opciones de envío, que son **Envío**, **Entrega programada**, **Recogida** y **Recogida programada**.
+- **Método de envío:** filtra por los métodos de envío, **Envío**, **Entrega programada**, **Recogida** y **Recogida programada**, registrados en las opciones de envío.
 
 - **Zona de entrega:** filtra por las zonas de entrega configuradas en las opciones de envío. Puedes buscar por el nombre de una zona de entrega en la barra de búsqueda.
 
