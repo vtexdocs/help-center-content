@@ -46119,8 +46119,8 @@
             {
               "name": {
                 "en": "Order cannot be created when seller has a different Country Code",
-                "es": "No se puede crear un pedido si el vendedor tiene un código de país diferente",
-                "pt": "Não é possível criar um pedido quando o vendedor possui um código de país diferente"
+                "es": "No se puede crear un pedido si el vendedor tiene un código de país diferente.",
+                "pt": "Não é possível criar um pedido quando o vendedor possui um código de país diferente."
               },
               "slug": {
                 "en": "order-cannot-be-created-when-seller-has-a-different-country-code",
@@ -48393,6 +48393,21 @@
                 "en": "render-component-issues-on-site-editor",
                 "es": "problemas-con-los-componentes-de-renderizado-en-el-editor-de-sitios",
                 "pt": "problemas-com-o-componente-de-renderizacao-no-editor-de-sites"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Saving CMS content in a non-default binding locale can silently overwrite the default-locale content and hide the correct translation",
+                "es": "Guardar el contenido del CMS en una configuración regional de enlace distinta a la predeterminada puede sobrescribir silenciosamente el contenido de la configuración regional predeterminada y ocultar la traducción correcta.",
+                "pt": "Salvar conteúdo do CMS em uma localidade de vinculação diferente da padrão pode sobrescrever silenciosamente o conteúdo da localidade padrão e ocultar a tradução correta."
+              },
+              "slug": {
+                "en": "saving-cms-content-in-a-nondefault-binding-locale-can-silently-overwrite-the-defaultlocale-content-and-hide-the-correct-translation",
+                "es": "guardar-el-contenido-del-cms-en-una-configuracion-regional-de-enlace-distinta-a-la-predeterminada-puede-sobrescribir-silenciosamente-el-contenido-de-la-configuracion-regional-predeterminada-y-ocultar-la-traduccion-correcta",
+                "pt": "salvar-conteudo-do-cms-em-uma-localidade-de-vinculacao-diferente-da-padrao-pode-sobrescrever-silenciosamente-o-conteudo-da-localidade-padrao-e-ocultar-a-traducao-correta"
               },
               "origin": "",
               "type": "markdown",
@@ -53867,21 +53882,6 @@
             },
             {
               "name": {
-                "en": "Minimum of items can be sent as 0 through the field \"numberOfItemsPerShipment\" in API",
-                "es": "El mínimo de artículos se puede enviar como 0 a través del campo \"numberOfItemsPerShipment\" en API",
-                "pt": "O mínimo de itens pode ser enviado como 0 por meio do campo \"numberOfItemsPerShipment\" na API"
-              },
-              "slug": {
-                "en": "minimum-of-items-can-be-sent-as-0-through-the-field-numberofitemspershipment-in-api",
-                "es": "el-minimo-de-articulos-se-puede-enviar-como-0-a-traves-del-campo-numberofitemspershipment-en-api",
-                "pt": "o-minimo-de-itens-pode-ser-enviado-como-0-por-meio-do-campo-numberofitemspershipment-na-api"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Modal as Generic Reason even this type of Modal are configured OK",
                 "es": "Modal como Razón Genérica incluso este tipo de Modal están configurados OK",
                 "pt": "Modal como Generic Reason mesmo este tipo de Modal são configurados OK"
@@ -53890,21 +53890,6 @@
                 "en": "modal-as-generic-reason-even-this-type-of-modal-are-configured-ok",
                 "es": "modal-como-razon-generica-incluso-este-tipo-de-modal-estan-configurados-ok",
                 "pt": "modal-como-generic-reason-mesmo-este-tipo-de-modal-sao-configurados-ok"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Modal values with different texts between API and Logistics UI",
-                "es": "Valores de los cuadros de diálogo con textos diferentes entre la API y la interfaz de usuario de logística",
-                "pt": "Valores de modais com textos diferentes entre a API e a interface de usuário de logística"
-              },
-              "slug": {
-                "en": "modal-values-with-different-texts-between-api-and-logistics-ui",
-                "es": "valores-de-los-cuadros-de-dialogo-con-textos-diferentes-entre-la-api-y-la-interfaz-de-usuario-de-logistica",
-                "pt": "valores-de-modais-com-textos-diferentes-entre-a-api-e-a-interface-de-usuario-de-logistica"
               },
               "origin": "",
               "type": "markdown",
@@ -54040,21 +54025,6 @@
                 "en": "shipping-policy-stuck-in-processing-status-is-displayed-as-active-in-the-new-logistics-ui",
                 "es": "una-politica-de-envios-que-se-encuentra-en-estado-de-procesamiento-aparece-como-activa-en-la-nueva-interfaz-de-usuario-de-logistica",
                 "pt": "a-politica-de-envio-que-esta-no-status-em-processamento-e-exibida-como-ativa-na-nova-interface-de-logistica"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Shipping policy that does not deliver on weekends is being considered",
-                "es": "Se está estudiando una política de envíos que no entregue los fines de semana",
-                "pt": "A política de remessa que não entrega nos finais de semana está sendo considerada"
-              },
-              "slug": {
-                "en": "shipping-policy-that-does-not-deliver-on-weekends-is-being-considered",
-                "es": "se-esta-estudiando-una-politica-de-envios-que-no-entregue-los-fines-de-semana",
-                "pt": "a-politica-de-remessa-que-nao-entrega-nos-finais-de-semana-esta-sendo-considerada"
               },
               "origin": "",
               "type": "markdown",
@@ -57217,6 +57187,21 @@
             },
             {
               "name": {
+                "en": "Delayed \"payment-approved\" transition for fast/auto-approval payment methods (workflow not ready when authorization notification arrives)",
+                "es": "Transición retrasada a \"pago aprobado\" para métodos de pago de aprobación rápida/automática (el flujo de trabajo no está listo cuando llega la notificación de autorización).",
+                "pt": "Transição de \"pagamento aprovado\" atrasada para métodos de pagamento com aprovação rápida/automática (fluxo de trabalho não está pronto quando a notificação de autorização chega)."
+              },
+              "slug": {
+                "en": "delayed-paymentapproved-transition-for-fastautoapproval-payment-methods-workflow-not-ready-when-authorization-notification-arrives",
+                "es": "transicion-retrasada-a-pago-aprobado-para-metodos-de-pago-de-aprobacion-rapidaautomatica-el-flujo-de-trabajo-no-esta-listo-cuando-llega-la-notificacion-de-autorizacion",
+                "pt": "transicao-de-pagamento-aprovado-atrasada-para-metodos-de-pagamento-com-aprovacao-rapidaautomatica-fluxo-de-trabalho-nao-esta-pronto-quando-a-notificacao-de-autorizacao-chega"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Delivery Flag in My Orders. Due to an error in filling the Invoice.",
                 "es": "Bandera de entrega en Mis Pedidos. Debido a un error al rellenar la factura.",
                 "pt": "Bandeira de entrega em Meus Pedidos. Devido a um erro no preenchimento da Nota Fiscal."
@@ -57353,13 +57338,13 @@
             {
               "name": {
                 "en": "Error when viewing the Call center operator profile (restricted orders view)",
-                "es": "Error al visualizar el perfil del operador del centro de llamadas (vista restringida de pedidos)",
-                "pt": "Erro ao visualizar o perfil do operador do call center (visualização de ordens restritas)"
+                "es": "Error al visualizar el perfil del operador del centro de llamadas (vista de pedidos restringida).",
+                "pt": "Erro ao visualizar o perfil do operador do call center (visualização de pedidos restritos)"
               },
               "slug": {
                 "en": "error-when-viewing-the-call-center-operator-profile-restricted-orders-view",
-                "es": "error-al-visualizar-el-perfil-del-operador-del-centro-de-llamadas-vista-restringida-de-pedidos",
-                "pt": "erro-ao-visualizar-o-perfil-do-operador-do-call-center-visualizacao-de-ordens-restritas"
+                "es": "error-al-visualizar-el-perfil-del-operador-del-centro-de-llamadas-vista-de-pedidos-restringida",
+                "pt": "erro-ao-visualizar-o-perfil-do-operador-do-call-center-visualizacao-de-pedidos-restritos"
               },
               "origin": "",
               "type": "markdown",
@@ -57623,8 +57608,8 @@
             {
               "name": {
                 "en": "Issues with My Account links",
-                "es": "Problemas con los enlaces de «Mi cuenta»",
-                "pt": "Problemas com os links da minha conta"
+                "es": "Problemas con los enlaces de Mi cuenta",
+                "pt": "Problemas com os links da Minha Conta"
               },
               "slug": {
                 "en": "issues-with-my-account-links",
@@ -57894,12 +57879,12 @@
               "name": {
                 "en": "Order Authorization lessThan 100 goes with the flow",
                 "es": "La autorización de pedidos inferiores a 100 se adapta a las circunstancias",
-                "pt": "A autorização de pedidos inferiores a 100 segue o fluxo"
+                "pt": "Autorização de pedido inferior a 100 segue o fluxo normal."
               },
               "slug": {
                 "en": "order-authorization-lessthan-100-goes-with-the-flow",
                 "es": "la-autorizacion-de-pedidos-inferiores-a-100-se-adapta-a-las-circunstancias",
-                "pt": "a-autorizacao-de-pedidos-inferiores-a-100-segue-o-fluxo"
+                "pt": "autorizacao-de-pedido-inferior-a-100-segue-o-fluxo-normal"
               },
               "origin": "",
               "type": "markdown",
@@ -58418,13 +58403,13 @@
             {
               "name": {
                 "en": "Returned package as delivering to final customer on my account",
-                "es": "Paquete devuelto como entrega a cliente final en mi cuenta",
-                "pt": "Pacote devolvido como entrega ao cliente final em minha conta"
+                "es": "Paquete devuelto como entregado al cliente final en mi cuenta.",
+                "pt": "Pacote devolvido por ter sido entregue ao cliente final em minha conta."
               },
               "slug": {
                 "en": "returned-package-as-delivering-to-final-customer-on-my-account",
-                "es": "paquete-devuelto-como-entrega-a-cliente-final-en-mi-cuenta",
-                "pt": "pacote-devolvido-como-entrega-ao-cliente-final-em-minha-conta"
+                "es": "paquete-devuelto-como-entregado-al-cliente-final-en-mi-cuenta",
+                "pt": "pacote-devolvido-por-ter-sido-entregue-ao-cliente-final-em-minha-conta"
               },
               "origin": "",
               "type": "markdown",
@@ -58478,13 +58463,13 @@
             {
               "name": {
                 "en": "SKU price value being displayed incorrectly in My order detail",
-                "es": "El valor del precio SKU se muestra incorrectamente en el detalle de Mi pedido",
-                "pt": "Valor do preço da SKU sendo exibido incorretamente nos detalhes do meu pedido"
+                "es": "El valor del precio del SKU se muestra incorrectamente en los detalles de mi pedido.",
+                "pt": "O valor do preço do SKU está sendo exibido incorretamente nos detalhes do meu pedido."
               },
               "slug": {
                 "en": "sku-price-value-being-displayed-incorrectly-in-my-order-detail",
-                "es": "el-valor-del-precio-sku-se-muestra-incorrectamente-en-el-detalle-de-mi-pedido",
-                "pt": "valor-do-preco-da-sku-sendo-exibido-incorretamente-nos-detalhes-do-meu-pedido"
+                "es": "el-valor-del-precio-del-sku-se-muestra-incorrectamente-en-los-detalles-de-mi-pedido",
+                "pt": "o-valor-do-preco-do-sku-esta-sendo-exibido-incorretamente-nos-detalhes-do-meu-pedido"
               },
               "origin": "",
               "type": "markdown",
@@ -58568,13 +58553,13 @@
             {
               "name": {
                 "en": "Split Orders sharing transaction with Change Seller the status flow is broken",
-                "es": "Órdenes divididas compartiendo transacción con Vendedor de cambios el flujo de estado está roto",
-                "pt": "Transação de compartilhamento de ordens divididas com o Change Seller: o fluxo de status é interrompido"
+                "es": "Al compartir la transacción de órdenes divididas con el cambio de vendedor, el flujo de estado está roto.",
+                "pt": "Ao dividir pedidos compartilhando transações com a alteração do vendedor, o fluxo de status está interrompido."
               },
               "slug": {
                 "en": "split-orders-sharing-transaction-with-change-seller-the-status-flow-is-broken",
-                "es": "ordenes-divididas-compartiendo-transaccion-con-vendedor-de-cambios-el-flujo-de-estado-esta-roto",
-                "pt": "transacao-de-compartilhamento-de-ordens-divididas-com-o-change-seller-o-fluxo-de-status-e-interrompido"
+                "es": "al-compartir-la-transaccion-de-ordenes-divididas-con-el-cambio-de-vendedor-el-flujo-de-estado-esta-roto",
+                "pt": "ao-dividir-pedidos-compartilhando-transacoes-com-a-alteracao-do-vendedor-o-fluxo-de-status-esta-interrompido"
               },
               "origin": "",
               "type": "markdown",
@@ -58627,14 +58612,29 @@
             },
             {
               "name": {
+                "en": "Subscription dashboard gets refreshed repeatedly",
+                "es": "El panel de suscripción se actualiza repetidamente.",
+                "pt": "O painel de controle de assinaturas é atualizado repetidamente."
+              },
+              "slug": {
+                "en": "subscription-dashboard-gets-refreshed-repeatedly",
+                "es": "el-panel-de-suscripcion-se-actualiza-repetidamente",
+                "pt": "o-painel-de-controle-de-assinaturas-e-atualizado-repetidamente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Subscription event history out of order",
                 "es": "El historial de eventos de la suscripción no está en orden",
-                "pt": "Histórico de eventos de assinatura fora de ordem"
+                "pt": "O histórico de eventos da assinatura está fora de ordem."
               },
               "slug": {
                 "en": "subscription-event-history-out-of-order",
                 "es": "el-historial-de-eventos-de-la-suscripcion-no-esta-en-orden",
-                "pt": "historico-de-eventos-de-assinatura-fora-de-ordem"
+                "pt": "o-historico-de-eventos-da-assinatura-esta-fora-de-ordem"
               },
               "origin": "",
               "type": "markdown",
@@ -58718,13 +58718,28 @@
             {
               "name": {
                 "en": "Subscriptions when the seller is a Pickup Point and does not have one of the SKUs.",
-                "es": "Suscripciones cuando el vendedor es un Punto de Recogida y no tiene una de las SKU.",
-                "pt": "Assinaturas quando o vendedor é um Pickup Point e não tem um dos SKUs."
+                "es": "Suscripciones cuando el vendedor es un punto de recogida y no tiene uno de los SKU.",
+                "pt": "Assinaturas quando o vendedor é um Ponto de Coleta e não possui um dos SKUs."
               },
               "slug": {
                 "en": "subscriptions-when-the-seller-is-a-pickup-point-and-does-not-have-one-of-the-skus",
-                "es": "suscripciones-cuando-el-vendedor-es-un-punto-de-recogida-y-no-tiene-una-de-las-sku",
-                "pt": "assinaturas-quando-o-vendedor-e-um-pickup-point-e-nao-tem-um-dos-skus"
+                "es": "suscripciones-cuando-el-vendedor-es-un-punto-de-recogida-y-no-tiene-uno-de-los-sku",
+                "pt": "assinaturas-quando-o-vendedor-e-um-ponto-de-coleta-e-nao-possui-um-dos-skus"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "The automatic tracking update is not working properly",
+                "es": "La actualización automática del seguimiento no funciona correctamente.",
+                "pt": "A atualização automática do rastreamento não está funcionando corretamente."
+              },
+              "slug": {
+                "en": "the-automatic-tracking-update-is-not-working-properly",
+                "es": "la-actualizacion-automatica-del-seguimiento-no-funciona-correctamente",
+                "pt": "a-atualizacao-automatica-do-rastreamento-nao-esta-funcionando-corretamente"
               },
               "origin": "",
               "type": "markdown",
@@ -58973,13 +58988,13 @@
             {
               "name": {
                 "en": "Wrong value for priceDefinition in the chain order for a multilevel marketplace",
-                "es": "Valor incorrecto en la definición de «priceDefinition» en la cadena de pedidos de un mercado multinivel",
-                "pt": "Valor incorreto para a definição de preço na ordem da cadeia de um marketplace multinível"
+                "es": "Valor incorrecto para priceDefinition en el orden de la cadena para un mercado multinivel.",
+                "pt": "Valor incorreto para a definição de preço na ordem em cadeia para um marketplace multinível"
               },
               "slug": {
                 "en": "wrong-value-for-pricedefinition-in-the-chain-order-for-a-multilevel-marketplace",
-                "es": "valor-incorrecto-en-la-definicion-de-pricedefinition-en-la-cadena-de-pedidos-de-un-mercado-multinivel",
-                "pt": "valor-incorreto-para-a-definicao-de-preco-na-ordem-da-cadeia-de-um-marketplace-multinivel"
+                "es": "valor-incorrecto-para-pricedefinition-en-el-orden-de-la-cadena-para-un-mercado-multinivel",
+                "pt": "valor-incorreto-para-a-definicao-de-preco-na-ordem-em-cadeia-para-um-marketplace-multinivel"
               },
               "origin": "",
               "type": "markdown",
@@ -62786,13 +62801,13 @@
             {
               "name": {
                 "en": "Transactions stuck in \"Canceling\" and payments remain in \"Authorized\"",
-                "es": "Las transacciones se quedan en «Cancelando» y los pagos siguen en «Autorizados»",
-                "pt": "Transações presas no status “Cancelando” e pagamentos permanecem no status “Autorizado”"
+                "es": "Las transacciones se quedan atascadas en \"Cancelando\" y los pagos permanecen en \"Autorizados\".",
+                "pt": "Transações presas em \"Cancelando\" e pagamentos permanecem em \"Autorizado\"."
               },
               "slug": {
                 "en": "transactions-stuck-in-canceling-and-payments-remain-in-authorized",
-                "es": "las-transacciones-se-quedan-en-cancelando-y-los-pagos-siguen-en-autorizados",
-                "pt": "transacoes-presas-no-status-cancelando-e-pagamentos-permanecem-no-status-autorizado"
+                "es": "las-transacciones-se-quedan-atascadas-en-cancelando-y-los-pagos-permanecen-en-autorizados",
+                "pt": "transacoes-presas-em-cancelando-e-pagamentos-permanecem-em-autorizado"
               },
               "origin": "",
               "type": "markdown",
@@ -69038,6 +69053,21 @@
             },
             {
               "name": {
+                "en": "CentauroKI Mapper filer have 1MB file size limit on API uploads",
+                "es": "CentauroKI El servidor de archivos Mapper tiene un límite de tamaño de archivo de 1 MB para las cargas de API.",
+                "pt": "CentauroKI O mapeador de arquivos tem um limite de tamanho de arquivo de 1 MB para uploads via API."
+              },
+              "slug": {
+                "en": "centauroki-mapper-filer-have-1mb-file-size-limit-on-api-uploads",
+                "es": "centauroki-el-servidor-de-archivos-mapper-tiene-un-limite-de-tamano-de-archivo-de-1-mb-para-las-cargas-de-api",
+                "pt": "centauroki-o-mapeador-de-arquivos-tem-um-limite-de-tamanho-de-arquivo-de-1-mb-para-uploads-via-api"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Dafiti Error orders A task was canceled.",
                 "es": "Dafiti Error en las órdenes. Se canceló una tarea.",
                 "pt": "Dafiti Ordens com erro. Uma tarefa foi cancelada."
@@ -69061,6 +69091,21 @@
                 "en": "dafiti-installment-interest-incorrectly-increases-item-sellingprice-in-dafiti-orders",
                 "es": "dafiti-el-interes-de-las-cuotas-aumenta-incorrectamente-el-precio-de-venta-del-articulo-en-los-pedidos-de-dafiti",
                 "pt": "dafiti-o-calculo-de-juros-parcelados-aumenta-incorretamente-o-preco-de-venda-dos-itens-em-pedidos-da-dafiti"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "FBE PLP/PDP images intermittently fail to load when Meta",
+                "es": "FBE Las imágenes PLP/PDP fallan intermitentemente al cargarse cuando Meta",
+                "pt": "FBE Imagens PLP/PDP falham intermitentemente ao carregar o Meta"
+              },
+              "slug": {
+                "en": "fbe-plppdp-images-intermittently-fail-to-load-when-meta",
+                "es": "fbe-las-imagenes-plppdp-fallan-intermitentemente-al-cargarse-cuando-meta",
+                "pt": "fbe-imagens-plppdp-falham-intermitentemente-ao-carregar-o-meta"
               },
               "origin": "",
               "type": "markdown",
