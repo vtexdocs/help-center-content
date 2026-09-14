@@ -1,7 +1,7 @@
 ---
 title: 'Events available in Audit'
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2026-09-09T20:45:00.000Z
+updatedAt: 2026-09-14T00:00:00.000Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
@@ -467,6 +467,7 @@ In the **Action** column, all Headless CMS (Legacy) events also display the foll
 | DeleteSynonymRule | Deletion of a synonym rule. | Rule ID. |
 | ActivateSynonymRule | Activation of a synonym rule. | Rule ID. |
 | DeactivateSynonymRule | Deactivation of a synonym rule. | Rule ID. |
+| CreateRedirect | Creation of a search redirect rule. | Redirect ID, source terms, destination path, conjunction, match mode, locales, and whether the redirect is active. |
 
 ## Authenticator
 
