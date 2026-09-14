@@ -31,7 +31,7 @@ To configure [Chrome DevTools](https://developer.chrome.com/docs/devtools/), fol
 
 ![Customizations1 - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/legado-02-en.png)
 
-5. In the **Request conditions** tab, Click `Add rule` to set the first resource to be blocked. To add more resources, click `+` and, after defining it, click `Add`. This configuration only needs to be set once in your browser. Include the items below:
+5. In the **Request conditions** tab, click `Add rule` to set the first resource to be blocked. To add more resources, click `+` and, after defining it, click `Add`. This configuration only needs to be set once in your browser. Include the items below:
 
 - `*:/arquivos/*.js`
 - `*:/files/*js`

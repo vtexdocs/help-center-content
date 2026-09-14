@@ -18,7 +18,7 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 The process of creating flows is quite simple and intuitive. There are some configuration options that need to be considered in certain situations, but it is nothing too complicated. Shall we begin?
 
 1. First, click on the "Flows" button in the side menu.
-2. Once you're on the flows page, simply click the "Create Flow" button on the left side of the screen.
+2. Once you're on the flows page, click the "Create Flow" button on the left side of the screen.
 3. After that, a pop-up for creating a flow will appear on your screen. It consists of three fields that can be filled out:
 
 - **Name** : This is the name you want to give your flow. It is a required field, but it can be edited later.

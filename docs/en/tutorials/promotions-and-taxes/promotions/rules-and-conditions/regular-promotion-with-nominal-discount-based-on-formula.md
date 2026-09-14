@@ -18,7 +18,7 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 
 When you create a [regular promotion](/en/docs/tutorials/regular-promotion) in **Promotions** > **Promotions** > `New promotion` > `Regular`, one of the available options when choosing the discount type and amount is **Nominal discount based on formula**.
 
-By selecting this type of discount, you need to create a formula defining how the applied discount will be calculated. In this article, we’ll explain how to build a formula which meets your promotion's objectives.
+By selecting this type of discount, you need to create a formula defining how the applied discount will be calculated. In this article, we’ll explain how to build a formula that meets your promotion's objectives.
 
 ![discount-type-formula](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/rules-and-conditions/regular-promotion-with-nominal-discount-based-on-formula_1.PNG)
 
@@ -47,7 +47,7 @@ Use the conventional signs in your formula to make mathematical operations.
 
 You can do a multiplication to calculate the desired discount percentage using [variables](#variables). For example: To apply a 50% discount on the total price of the selected products, the formula would be `total * 0.5`.
 
-To indicate the order in which calculations should be done, write the calculation which comes first between parenthesis `()`. For example: If a store wants to apply a 40% discount on the total price of the order plus the shipping cost, the formula must be `(total + freight) * 0.4`.
+To indicate the order in which calculations should be done, write the calculation which comes first in parentheses `()`. For example: If a store wants to apply a 40% discount on the total price of the order plus the shipping cost, the formula must be `(total + freight) * 0.4`.
 
 > ℹ️ You must always use the dot (`.`) as a decimal separator.
 
@@ -91,11 +91,11 @@ A third customer added two items to the cart: One costs $ 100 and the other $ 26
 
 The total discount of $ 10 is proportionally distributed among the items, based on each item's price and quantity. The platform makes this distribution automatically, as explained below.
 
-First, the total value of the discount ($ 10) is divided by the total value of the items ($ 2700), as follows: `10 / 2700 = 0,0037037`.
+First, the total value of the discount ($ 10) is divided by the total value of the items ($ 2700), as follows: `10 / 2700 = 0.0037037`.
 
-Next, multiplying 0,0037037 by the value of the first item ($ 100) will return the following result: `0,0037037 * 100 = 0,37037037`. Consequently, the amount discounted on the first item will be rounded to $ 0,37. The final price of the first item will be $ 99,63.
+Next, multiplying 0.0037037 by the value of the first item ($ 100) will return the following result: `0.0037037 * 100 = 0.37037037`. Consequently, the amount discounted on the first item will be rounded to $ 0.37. The final price of the first item will be $ 99.63.
 
-Then, multiplying 0,0037037 by the value of the second item will return the following result: `0,0037037 * 2600 = 9,62962962963`. Therefore, the amount discounted on the price of the second item will be rounded to $ 9,63. The final price of the second item will be $ 2590,37.
+Then, multiplying 0.0037037 by the value of the second item will return the following result: `0.0037037 * 2600 = 9.62962962963`. Therefore, the amount discounted on the price of the second item will be rounded to $ 9.63. The final price of the second item will be $ 2590.37.
 
 ### Prioritizing the highest discount possible
 
@@ -103,7 +103,7 @@ To prioritize the highest discount possible, you can use the `max` function, whi
 
 Suppose a store wants to make a promotion which applies a 10% discount on the order total price plus the shipping cost, setting a minimum discount of $ 5.
 
-The formula must specify that if (`total + freight) * 0.1` is lower than `5`, then the applied discount will be `5`. Hence, the structure will be the following:
+The formula must specify that if `(total + freight) * 0.1` is lower than `5`, then the applied discount will be `5`. Hence, the structure will be the following:
 
 ```
 max ((total + freight) * 0.1, 5)

@@ -14,7 +14,7 @@ locale: en
 legacySlug: why-are-my-meta tags-not-used-by-google
 ---
 
-Search engines - in order to improve the experience of their users -, have been creating snippets based on the searched term and also based on what they understand as more appropriate for the content that the page in question displays. According to Google itself:
+Search engines — in order to improve the experience of their users — have been creating snippets based on the searched term and also based on what they understand as more appropriate for the content that the page in question displays. According to Google itself:
 
 *"The generation of titles and page descriptions (or "snippets") by Google is fully automated and considers both the page content and the references that appear on the web about it. The purpose of the snippet and the title is to represent and describe each result the best possible way and explain how it relates to the user query."*
 

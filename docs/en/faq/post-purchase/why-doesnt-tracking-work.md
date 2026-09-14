@@ -25,7 +25,7 @@ After the registration, analyze the following items, which are the primary cause
 - Check whether the tracking number is incorrect
 - Check whether the tracking URL is incorrect
 - Check whether the transport company is incorrect
-- Access the tracking URL by entering the number on the browser and check whether you are accessing the tracking monitoring page
+- Access the tracking URL by entering the number in the browser and check whether you are accessing the tracking monitoring page
 - Check whether the transport company is on the [list of companies registered for tracking](/en/faq/which-transport-companies-enable-make-it-possible-to-track-delivery).
 
-_Adjust these items and follow up the triggering of the e-mails using the time line in the order._
+Adjust these items and follow up on the triggering of the emails using the timeline in the order.

@@ -14,13 +14,13 @@ locale: en
 legacySlug: why-can-t-i-change-the-fields-in-a-group
 ---
 
-At VTEX, products are created on the platform according to category hierarchy, meaning that items of a store are organized in groups, categories and subgatories, in a system that is subjugated to another until reaching the "parent category".
+At VTEX, products are created on the platform according to category hierarchy, meaning that items of a store are organized in groups, categories and subcategories, in a hierarchy in which each level is subordinated to the one above it, up to the parent category.
 
 This hierarchy thus influences product configuration, where "subcategories" carry "parent category" information.
 
 Consequently, the fields a "subcategory" receives cannot be edited in the category itself. This occurs because the fields can only be edited in their category of origin - the "parent category".
 
-However, it is quite easy to make changes in a group. The first step is finding the origin of the field creation, where the `edit` options becomes visible.
+However, it is quite easy to make changes in a group. The first step is finding the origin of the field creation, where the `edit` option becomes visible.
 
 Once that field has been located, follow the instructions below:
 

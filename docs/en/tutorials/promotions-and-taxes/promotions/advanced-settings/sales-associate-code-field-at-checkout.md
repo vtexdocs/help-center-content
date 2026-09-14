@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-On VTEX, you can create a field to add the sales associate code at Checkout. It allows you to:
+In VTEX, you can create a field to add the sales associate code at Checkout. It allows you to:
 - Link a particular order to a sales associate.
 - Give exclusive discounts to the customer.
 - Manage your sales associates' performance, collecting data such as the number of sales / average ticket per sales associate and sales commission ranking.
@@ -53,7 +53,7 @@ After creating the salesassociatecode entity, you need to link it to a promotion
 1. In the VTEX Admin, go to **Promotions > Promotions**, or type **Promotions** in the search bar at the top of the page.
 2. Create a new [regular promotion](/en/docs/tracks/how-promotions-work). Complete the **Promotion overview** and the **To which items will this promotion apply?** fields.
 
-> ℹ️ Callout Information: If you want to use the sales associate code field to give a discount on the purchase amount, complete the information in the **What is the type and amount of discount?**.
+> ℹ️ If you want to use the sales associate code field to give a discount on the purchase amount, complete the information in the **What is the type and amount of discount?**.
 
 <blockquote><ui>3. In **To which items will this promotion apply?**, click the **utm_campaign** option and type *salesassociatecode*.</ui>
 
@@ -71,7 +71,7 @@ To customize this, you need to contact the partner agency that built your store 
 
 Additionally, you need to complete the following steps:
 
-1. When simulating a purchase and entering the sales associate code on the Checkout page, make sure that the GET [Search Documents](https://developers.vtex.com/docs/api-reference/master-data-api-v2#get-/api/dataentities/-dataEntityName-/search) call performs the search in the entity `salesassociatecode` and returns all the information added for the sales associate. Example call: https://{accountName}.{environment}.com.br/api/dataentities/codigovendedor/search?codigovendedor=12345.
+1. When simulating a purchase and entering the sales associate code on the Checkout page, make sure that the GET [Search Documents](https://developers.vtex.com/docs/api-reference/master-data-api-v2#get-/api/dataentities/-dataEntityName-/search) call performs the search in the entity `salesassociatecode` and returns all the information added for the sales associate. Example call: https://{accountName}.{environment}.com.br/api/dataentities/salesassociatecode/search?salesassociatecode=12345.
 
 > ⚠️ The **status** field must return **true**, indicating that the sales associate code is valid.
 

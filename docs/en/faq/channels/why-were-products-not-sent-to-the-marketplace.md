@@ -30,7 +30,7 @@ In the Integrations records, the most common problems are:
 - Product does not have the "Flag resellers" active for the marketplace's sales channel.
 - SKU not part of the collection sent to the marketplace.
 
-To correct, just adjust the incorrect item and wait for the product to be indexed, monitoring the process in the Integrations.
+To correct this, just adjust the incorrect item and wait for the product to be indexed, monitoring the process in the Integrations.
 
 ## Understand the cataloguing process
 

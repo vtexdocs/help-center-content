@@ -28,7 +28,7 @@ En primer lugar, debes configurar un proveedor en el Admin de tu tienda que proc
 
 Para consultar todas las opciones de proveedores disponibles para este método de pago, acceda a la lista como se describe en el Paso 5 de la sección [Configurar el pago con Apple Pay](#configurar-el-pago-con-apple-pay).
 
-> ⚠️ Antes de comenzar a configurar el proveedor, debe [registrar su Merchant ID con Apple Pay](register your Merchant ID with Apple Pay).
+> ⚠️ Antes de comenzar a configurar el proveedor, debe [registrar su Merchant ID con Apple Pay](https://developer.apple.com/help/account/capabilities/configure-apple-pay#create-a-merchant-identifier).
 
 ## Configurar el pago con Apple Pay
 

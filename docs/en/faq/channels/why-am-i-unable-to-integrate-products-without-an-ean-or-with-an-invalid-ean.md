@@ -18,7 +18,6 @@ Some Marketplaces, including B2W, identify the **EAN** data item, which is the p
 
 Validation is done using the check digit, and in the event it is not valid, this prevents the integration of the product. 
 
-To ensure EANs are correct, you need to reach out to their suppliers and manufacturers for the information for each product to be integrated on the marketplaces.
+To ensure EANs are correct, you need to reach out to the products’ suppliers and manufacturers for the information for each product to be integrated on the marketplaces.
 
-_VTEX does not generate false or joker EANs to supply this scenario._
-
+> VTEX does not generate false or placeholder EANs to cover this scenario.

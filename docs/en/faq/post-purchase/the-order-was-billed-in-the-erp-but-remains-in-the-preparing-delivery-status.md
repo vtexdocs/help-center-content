@@ -1,5 +1,5 @@
 ---
-title: 'The order was billed in the ERP but remains in the "Preparing Delivery" status. What to do?'
+title: 'The order was billed in the ERP but remains in the "Preparing Delivery" status. What should I do?'
 id: 4szpXviNMAkwOe2cCiMiMe
 status: PUBLISHED
 createdAt: 2017-12-19T13:00:23.800Z
@@ -24,7 +24,7 @@ To verify that this is your case, follow the steps below:
 
 Check if a message appears, and if it describes the error.
 
-The normal behavior of the system, in cases where the marketplace returns an error information such as `500` (internal server error), is to make automatic retries to process the status.
+The normal behavior of the system, in cases where the marketplace returns an error such as `500` (internal server error), is to make automatic retries to process the status.
 
 But if the message informs you that `the request to the service resource returned HTTP status '404 (not found)'`, it means that the route was not found - that is - the product was not found in the marketplace.
 

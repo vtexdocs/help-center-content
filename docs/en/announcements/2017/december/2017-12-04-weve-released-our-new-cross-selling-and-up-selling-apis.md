@@ -12,16 +12,16 @@ slugEN: 2017-12-04-weve-released-our-new-cross-selling-and-up-selling-apis
 locale: en
 legacySlug: weve-released-our-new-cross-selling-and-up-selling-apis
 announcementImageID: 'undefined'
-announcementSynopsisEN: "We've released our Cross-Selling and Up-selling APIs to all our customers and partners."
+announcementSynopsisEN: "We've released our Cross-selling and Up-selling APIs to all our customers and partners."
 ---
 
-We've released our Cross-Selling and Up-selling APIs to all our customers and partners. Using these sales techniques, you will be able to display in your showcase several offers with some simple API calls.
+We've released our Cross-selling and Up-selling APIs to all our customers and partners. Using these sales techniques, you will be able to display several offers in your showcase with a few simple API calls.
 
-## The new APIs
+## What has changed?
 
 Now you can make Cross-selling and Up-selling requests in REST APIs. These requests work in the same way as all other VTEX APIs.
 
-Below there's a list of the new available requests.
+Below is a list of the newly available requests.
 
 ### Who Saw Also Saw:
 
@@ -29,7 +29,7 @@ __GET__
 
 `http://{{AccountName}}.{{environment}}.com.br/api/catalog_system/pub/products/crossselling/whosawalsosaw/{{productId}}`
 
-This API will return the products that __have been seen__ by customers that also __saw__ a certain product.
+This API will return the products that __were seen__ by customers who also __saw__ a certain product.
 
 ### Who Saw Also Bought:
 
@@ -45,7 +45,7 @@ __GET__
 
 `http://{{AccountName}}.{{environment}}.com.br/api/catalog_system/pub/products/crossselling/whoboughtalsobought/{{productId}}`
 
-This API will return the products that also __have been purchased__ by customers who __have bought__ a particular product.
+This API will return the products that have also __been purchased__ by customers who __have bought__ a particular product.
 
 ### Accessories:
 
@@ -61,7 +61,7 @@ __GET__
 
 `http://{{AccountName}}.{{environment}}.com.br/api/catalog_system/pub/products/crossselling/similars/{{productId}}`
 
-This API will return products that have been registered as __similar products__ in a particular product.
+This API will return products that have been registered as __similar products__ for a particular product.
 
 ### Suggestions: 
 
@@ -71,8 +71,6 @@ __GET__
 
 This API will return the products that were registered as Up-selling __suggestions__. It is worth mentioning that this product will only be shown if the value of the suggestion is greater than that of the product where the suggestion was registered.
 
-## Go further
+## What needs to be done?
 
-For more details on the requests, please visit our [API documentation](https://developers.vtex.com/docs/api-reference/search-api#get-/api/catalog_system/pub/products/crossselling/whosawalsosaw/-productId-?endpoint=get-/api/catalog_system/pub/products/crossselling/whosawalsosaw/-productId-).
-
-For more information on the Cross-selling and Up-Selling techniques described above, access the [VTEX Help article](/en/docs/tutorials/setting-up-a-similar-product-suggestions-accessories-and-generics)
+For more information, see the [API documentation](https://developers.vtex.com/docs/api-reference/search-api#get-/api/catalog_system/pub/products/crossselling/whosawalsosaw/-productId-?endpoint=get-/api/catalog_system/pub/products/crossselling/whosawalsosaw/-productId-).

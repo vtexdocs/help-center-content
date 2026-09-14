@@ -19,7 +19,7 @@ The Buy One Get One promotion offers free shipping or a gift when you add produc
 
 ![Compre e Ganhe-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/creating-promotions/buy-one-get-one_1.gif)
 
-To configure the Buy One Get One promotion, the seller needs to follow these steps:
+To configure the Buy One Get One promotion, follow these steps:
 
 - [Create the Buy One Get One promotion](#Create-the-Buy-One-Get-One-promotion)
 - [Buy One Get One conditions](#buy-one-get-one-conditions)
@@ -57,7 +57,7 @@ For more information, see [Seller Opt-in for Promotions](https://developers.vtex
 ![Seller-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/creating-promotions/buy-one-get-one_7.png)
 
 ### Select sales channels
-In this section, you can select the sales channels that will apply to your promotion. Sales channels define the sale and shipping conditions.
+In this section, you can select the sales channels the promotion will apply to. Sales channels define the sale and shipping conditions.
 
 ![Politica comercial-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/creating-promotions/buy-one-get-one_8.png)
 
@@ -102,7 +102,7 @@ After defining the purchase items, choose the benefit the customer will get:
 In this section, we will detail the conditions for a promotion to be valid.
 
 - **Payment method:** The promotion applies when a specified payment method is selected and the cart has only one payment method.
-- **Card BIN:** The promotion can only apply when using cards from specific networks, banks, or categories identified by their BIN codes. You can import a list of BINs, which must be saved in a text file (.txt) or (.csv) with each BIN listed on a different row.
+- **Card BIN:** The promotion applies only when the customer uses cards from specific networks, banks, or categories identified by their BIN codes. You can import a list of BINs, which must be saved in a text file (.txt) or (.csv) with each BIN listed on a different row.
 - **Customer cluster:** Select an already created [customer cluster](/en/tutorial/como-criar-um-cluster-de-clientes) in Master Data, following the `field=value` or `field contains value` format.
 - **Shipping method:** Allows you to specify one or more shipping types to which the promotion will apply.
 - **Shipping location:** The promotion will only be applied if the delivery address of the order meets the following definitions:
@@ -113,8 +113,8 @@ In this section, we will detail the conditions for a promotion to be valid.
         - **"From" field:** Enter the starting postal code for the range.
         - **"To" field:** Enter the ending postal code for the range.
     - **UTM:** Configure the promotion to apply when the site is accessed via a URL with UTM parameters or when a coupon linked to these parameters is used. Set the UTM parameters according to the formatting rules, using only letters, numbers, hyphens, and underscores. If necessary, fill in the following parameters:
-        - **UTM source:** The discount will apply if the customer navigation uses an utm_source parameter corresponding to a listed one in this promotion.
-        - **UTM campaign:** The discount will apply if the customer navigation uses an utm_source parameter corresponding to a listed one in this promotion.
+        - **UTM source:** The discount will apply if the customer navigates using a `utm_source` parameter that matches one listed in this promotion.
+        - **UTM campaign:** The discount will apply if the customer navigates using a `utm_campaign` parameter that matches one listed in this promotion.
         - **Create coupon from the UTM parameters above:** Generate a coupon based on the UTM parameters entered in the `UTM_source` and `UTM_campaign` fields.
         - **View linked coupons:** View the coupons that have already been associated with the defined UTM parameters.
 

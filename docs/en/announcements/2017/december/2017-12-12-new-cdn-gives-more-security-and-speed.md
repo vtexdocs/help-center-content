@@ -1,5 +1,5 @@
 ---
-title: 'New CDN gives more security and speed'
+title: 'New CDN provides greater security and speed'
 id: 5TQuQkP5bGECyysAK2Cwkq
 status: PUBLISHED
 createdAt: 2017-12-12T13:30:36.331Z
@@ -17,7 +17,11 @@ announcementSynopsisEN: 'The new CDN is an improved content delivery solution fo
 
 Since October, VTEX has been offering an improved content delivery solution for all stores: our new CDN.
 
+## What has changed?
+
 Once your store starts using it, all pages on your site will be delivered by a specialized content delivery network, updated to support HTTP/2.
+
+## Why did we make this change?
 
 Some of the advantages of using a CDN are:
 - Greater security.
@@ -26,8 +30,10 @@ Some of the advantages of using a CDN are:
 
 And with HTTP/2 support you have access to a series of other improvements.
 
-> ⚠️ **All VTEX stores have to migrate** to the new CDN.<br><br>Check out [in this article ](/en/tutorial/activating-new-vtex-cdn) how to perform this migration.
+## What needs to be done?
 
-There are no risks or contraindications to joining the new model.
+> ❗ All VTEX stores have to migrate to the new CDN. See [this article](/en/tutorial/activating-new-vtex-cdn) for how to perform this migration.
 
-The main requirement for migrating is that your site is fully available on HTTPS, which contributes to secure traffic to your store and improve your site ranking in organic searches. To do this, follow the steps in the article [Enable HTTPS throughout the site](/en/docs/tutorials/enable-https-throughout-the-site).
+There are no risks or drawbacks to switching to the new model.
+
+The main requirement for migrating is that your site is fully available on HTTPS, which helps secure traffic to your store and improves your site's ranking in organic searches. To do this, follow the steps in the article [Enable HTTPS throughout the site](/en/docs/tutorials/enable-https-throughout-the-site).

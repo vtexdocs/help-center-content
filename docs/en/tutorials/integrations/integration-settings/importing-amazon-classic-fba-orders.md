@@ -18,7 +18,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 There are three types of logistics configuration to fulfill orders placed on Amazon:  
 
 - [Self Ship](#self-ship)  
-- [FBA Classic](#FBA-Classic-(-Fulfillment-by-Amazon)) 
+- [FBA Classic (Fulfillment by Amazon)](#fba-classic-fulfillment-by-amazon)
 - FBA Onsite, to learn about the program and integration with VTEX, check out the documentation on [Importing FBA Onsite orders](/en/docs/tutorials/importing-amazon-fba-onsite-orders) 
 - DBA (learn more about the program and the integration with VTEX by reading the [Amazon DBA order import](/en/docs/tutorials/importing-amazon-dba-orders) documentation)  
 
@@ -36,9 +36,9 @@ You can set up this service in your store by creating a dedicated inventory and 
 
 Follow the steps to activate this service in the VTEX integration:  
 
-  1.	[Creating a product specification](#Creating-a-product-specification)  
-  2.	[Defining a shipping strategy for FBA Classic orders](#Defining-a-shipping-strategy-for-FBA-Classic-orders)  
-  3.	[Configuring FBA Classic in the Amazon integration](Configuring-FBA-Classic-in-the-Amazon-integration)  
+1. [Creating a product specification](#1-creating-a-product-specification)  
+2. [Defining a shipping strategy for FBA Classic orders](#2-defining-a-shipping-strategy-for-fba-classic-orders)  
+3. [Configuring FBA Classic in the Amazon integration](#3-configuring-fba-classic-in-the-amazon-integration)  
 
 ### 1. Creating a product specification  
 

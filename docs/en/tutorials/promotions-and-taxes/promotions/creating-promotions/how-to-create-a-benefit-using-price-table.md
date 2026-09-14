@@ -15,9 +15,9 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Before activating your promotional price table, you must have a already created a price table. See our tutorial for more info on **[creating price tables](/en/tutorial/criar-tabelas-de-precos).** Complete this step first and then move onto the next steps.
+Before activating your promotional price table, you must have already created a price table. See our tutorial for more info on [creating price tables](/en/tutorial/criar-tabelas-de-precos). Complete this step first and then move on to the next steps.
 
-After choosing a price table that you wish to use, you can create a promotional price table, using the two types of discount highlighted below. Check which fields to fill out here:  **[regular benefits](/en/tutorial/promocao-regular) or [campaign audience benefits](/en/tutorial/promocao-de-campanha)**
+After choosing a price table that you wish to use, you can create a promotional price table using one of the two promotion types below: Regular or Campaign Promotion. Check which fields to fill out here:  **[regular benefits](/en/tutorial/promocao-regular) or [campaign audience benefits](/en/tutorial/promocao-de-campanha)**
 
 The steps above must be successfully completed prior to attempting to create a promotional price table. Afterwards, follow the steps below:
 
@@ -25,15 +25,15 @@ The steps above must be successfully completed prior to attempting to create a p
 2. Access __Create Promotion__.
 3. Choose either the __Regular__ option or the __Campaign Promotion__.
 4. Fill out the required fields.
-    > Make sure you select the **Promotional Price Table** option in **"What kind and amount of Benefit?**.
+    > Make sure you select the **Promotional Price Table** option in **What kind and amount of Benefit?**.
 
-After completing the above you just need to enable your benefit or campaign audience and your price table will be active and applied to your store's SKUs price.
+After completing the above you just need to enable your benefit or campaign audience and your price table will be active and applied to your store's SKU prices.
 
-Some important consideration regarding the promotional price table:
+Some important considerations regarding the promotional price table:
 
-- The price table configured price will only be applied if the value is less than the value set by site in the sales channel.
-- Promotional price table compete among themselves as well as with other configured benefits that are not set to be cumulative
-- You can only configure one price table for each benefit
-- A limit of ten (10) simultaneous price table benefits for each store is presently enforced
-- Teaser only works with regular benefits
+- The price configured in the price table is applied only if it is lower than the price set by the store in the sales channel.
+- Promotional price tables compete with each other as well as with other configured benefits that are not set to be cumulative.
+- You can only configure one price table for each benefit.
+- A limit of ten (10) simultaneous price table benefits for each store is presently enforced.
+- Teaser only works with regular benefits.
 - After configuring the price table and benefit, it can take up to ten (10) minutes for the discount to become linked to your store's product.

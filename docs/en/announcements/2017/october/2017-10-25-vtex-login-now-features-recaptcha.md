@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'VTEX login via email and password now has reCAPTCHA'
 ---
 
-VTEX login via e-mail and password now features reCAPTCHA, which makes store access more secure.
+VTEX login via email and password now features reCAPTCHA, which makes store access more secure.
 
 We use Invisible reCAPTCHA, a Google technology that determines when it's necessary to confirm whether the access attempt is being made by a robot or a human.
 

@@ -16,7 +16,7 @@ legacySlug:
 
 __Authorizing__ status is the one where Payments is trying to communicate with the systems of acquirers or other gateways. In this status, we await the response concerning the __payment approval__.
 
-It may occur that some of the partners' systems are experiencing some instability as we try to communicate with them. To resolve this problem, VTEX Payments´ has an automatic __retry__ feature.
+It may occur that some of the partners' systems are experiencing some instability as we try to communicate with them. To resolve this problem, VTEX Payments has an automatic __retry__ feature.
 
 This feature has been developed to address the cases where systems participating in the flow are __experiencing an outage__. This way, Payments preserves the payment information and waits to retry. This feature allows the payment __not to be lost__ in case of instability of third party systems.
 
