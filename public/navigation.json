@@ -30590,6 +30590,36 @@
           "children": [
             {
               "name": {
+                "en": "Mapear produtos e marcas no catálogo do VTEX Ads",
+                "es": "Mapear produtos e marcas no catálogo do VTEX Ads",
+                "pt": "Mapear produtos e marcas no catálogo do VTEX Ads"
+              },
+              "slug": {
+                "en": "map-products-and-brands-in-vtex-ads-catalog",
+                "es": "mapear-productos-y-marcas-en-el-catalogo-de-vtex-ads",
+                "pt": "mapear-produtos-e-marcas-no-catalogo-do-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Métricas de Novos Compradores da Marca (NCM) no VTEX Ads",
+                "es": "Métricas de Novos Compradores da Marca (NCM) no VTEX Ads",
+                "pt": "Métricas de Novos Compradores da Marca (NCM) no VTEX Ads"
+              },
+              "slug": {
+                "en": "vtex-ads-new-to-brand-metrics",
+                "es": "metricas-de-nuevos-compradores-de-la-marca-en-vtex-ads",
+                "pt": "metricas-de-novos-compradores-da-marca-no-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "VTEX Ads metrics and attribution",
                 "es": "Métricas y atribución de VTEX Ads",
                 "pt": "Métricas e atribuição do VTEX Ads"
