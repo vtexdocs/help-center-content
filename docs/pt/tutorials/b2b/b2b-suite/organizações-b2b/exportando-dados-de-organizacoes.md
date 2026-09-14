@@ -50,8 +50,8 @@ Para exportar dados de organizações, centros de custo, endereços e usuários,
 1. No Admin VTEX, acesse **Aplicativos > Organizações e centros de custo B2B > Organizações**, ou digite **Organizações** na barra de busca no topo da página.
 2. Clique na aba **Organizações**.
 3. Clique em `Novo` e selecione a opção `Exportar`.
-4. Marque as caixas de seleção dos tipos de dados que deseja exportar: `Organizations`, `Cost centers`, `Users` e `Addresses`. Para exportar todos os tipos de dados, marque `Select all`.
-5. Clique em `Start export`.
+4. Marque as caixas de seleção dos tipos de dados que deseja exportar: `Organizações`, `Centros de custo`, `Usuários` e `Endereços`. Para exportar todos os tipos de dados, marque `Selecionar tudo`.
+5. Clique em `Exportar`.
 
 ### Acompanhando e baixando a exportação
 
@@ -59,8 +59,8 @@ Depois de iniciar a exportação, a janela exibe uma tabela com uma linha para c
 
 Cada linha da tabela pode apresentar um dos seguintes status:
 
-- **Generating...**: o sistema está gerando o arquivo.
-- **Ready**: o arquivo está pronto e a ação `Baixar arquivo` fica disponível na mesma linha.
+- **Gerando...**: o sistema está gerando o arquivo.
+- **Pronto**: o arquivo está pronto e a ação `Baixar arquivo` fica disponível na mesma linha.
 
 Quando o sistema conclui a exportação, o Admin VTEX exibe a mensagem **Exportação concluída. Download iniciado**. Para salvar o arquivo de um tipo de dado, clique em `Baixar arquivo` na linha correspondente. O sistema também envia um e-mail com os arquivos exportados, então você não precisa manter a aba do Admin aberta para obtê-los.
 
