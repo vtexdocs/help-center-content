@@ -13,6 +13,9 @@ slugEN: how-to-identify-promotions-attributed-to-an-sku
 legacySlug: como-identificar-promocoes-atribuidas-a-um-sku
 locale: pt
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
+seeAlso:
+  - /pt/docs/tracks/como-funcionam-as-promocoes
+  - /pt/docs/tutorials/como-identificar-as-promocoes-no-carrinho
 ---
 
 > ⚠️ As etapas documentadas neste artigo utilizam o Google Chrome. Por se tratar de uma ferramenta externa à VTEX, ela pode ser atualizada sem aviso prévio.
@@ -28,8 +31,3 @@ Para descobrir quais promoções estão sendo atribuídas a um SKU, devemos anal
 5. Clique em `orderForm` e vá em `items`. Após clicar em `items`, clique nos números (`0`, `1`, `2` etc.) para ver as características do produto desejado. Em nosso exemplo, como temos apenas um item, este é representado pelo número `0` no array.![items-0](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/gestão-de-promoções/como-identificar-promocoes-atribuidas-a-um-sku_4.png)
 6. Após clicar no número, desça o scroll até `priceTags`. Clique em priceTags e então clique nos números (`0`, `1`, `2` etc.) para ver as características da promoção desejada. Em nosso exemplo, como temos apenas uma promoção, esta é representada pelo número `0` no array. Após isto, busque pelo `identifier` da promoção.![priceTags-0-identifier](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/gestão-de-promoções/como-identificar-promocoes-atribuidas-a-um-sku_5.png)
 7. Em outra aba, acesse a URL `https://{accountName}.vtexcommercestable.com.br/admin/rnb/#/benefit/{numero-do-identifier}`. Esta é a promoção que está sendo efetivamente aplicada ao produto no carrinho. Verifique as configurações da promoção e veja se as condições se aplicam ao SKU em questão.![promo-debug-help](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/gestão-de-promoções/como-identificar-promocoes-atribuidas-a-um-sku_6.png)
-
-## Saiba mais
-
-- [Como funcionam as promoções](/pt/docs/tracks/como-funcionam-as-promocoes)
-- [Como identificar promoções aplicadas no carrinho](/pt/docs/tutorials/como-identificar-as-promocoes-no-carrinho)
