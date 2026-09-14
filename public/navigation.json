@@ -10021,7 +10021,7 @@
             "pt": "guia-de-onboarding"
           },
           "origin": "",
-          "type": "category",
+          "type": "divider",
           "children": [
             {
               "name": {
@@ -10385,7 +10385,7 @@
             "pt": "módulos-vtex-primeiros-passos"
           },
           "origin": "",
-          "type": "category",
+          "type": "divider",
           "children": [
             {
               "name": {
@@ -12005,7 +12005,7 @@
             "pt": "canais-de-venda-category"
           },
           "origin": "",
-          "type": "category",
+          "type": "divider",
           "children": [
             {
               "name": {
