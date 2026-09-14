@@ -21,16 +21,16 @@ symptomFilters:
   - Access restriction
 ---
 
-[Site Editor](https://developers.vtex.com/docs/guides/working-with-site-editor) is the Content Management System (CMS) available for stores using [Store Framework](https://developers.vtex.com/docs/guides/store-framework). In some situations, you may encounter difficulties opening the Site Editor or saving content.
+[Site Editor](https://developers.vtex.com/docs/guides/store-framework-working-with-site-editor) is the Content Management System (CMS) available for stores using [Store Framework](https://developers.vtex.com/docs/guides/store-framework). In some situations, you may encounter difficulties opening the Site Editor or saving content.
 
 Below are some instructions to help you solve these issues in Site Editor.
 
 | Issue | Description | How to fix it |
-| ------------ | ------------- | ----------------------------------------- |
-| [Site Editor won't open](#the-site-editor-won't-open) | The Site Editor page displays a blank screen or the message `Something went wrong`. | - [Check the search integration](#checking-the-search-integration).<br> - [Check the tenant configuration (new accounts only)](#checking-the-tenant-configuration-new-accounts-only). |
-| [I can't manage my store's content in Site Editor](#i-cant-manage-my-store's-content-in-site-editor) | I can't edit, save or delete content in Site Editor. | - [Check if the user role has the necessary permissions](#checking-if-the-user-role-has-the-necessary-permissions).<br> - [Check the domain's main location](#checking-the-domain-main-location). |
-| [I lost the content stored in Site Editor](#i-lost-the-content-stored-in-site-editor) | The content saved in Site Editor has been lost. | [Open a ticket with VTEX Support](#i-lost-the-content-stored-in-site-editor). |
-| [I'm still having problems with Site Editor](#i'm-still-having-problems-with-site-editor) | Issues with the Site Editor persist even after trying to resolve them. | [Open a ticket with VTEX Support](#i'm-still-experiencing-issues-with-site-editor). |
+| ----- | ----------- | ------------- |
+| [Site Editor won't open](#site-editor-doesnt-open) | The Site Editor page displays a blank screen or the message `Something went wrong`. | - [Check the search integration](#checking-the-search-integration).<br> - [Check the tenant configuration (new accounts only)](#checking-the-tenant-configuration-new-accounts-only). |
+| [I can't manage my store's content in Site Editor](#i-cant-manage-my-store-content-in-site-editor) | I can't edit, save or delete content in Site Editor. | - [Check if the user role has the necessary permissions](#checking-if-the-user-role-has-the-necessary-permissions).<br> - [Check the domain's main location](#checking-the-domains-main-locale). |
+| [I lost the content stored in Site Editor](#i-lost-content-stored-in-site-editor) | The content saved in Site Editor has been lost. | [Open a ticket with VTEX Support](https://supporticket.vtex.com/support). |
+| [I'm still having problems with Site Editor](#im-still-experiencing-issues-with-site-editor) | Issues with the Site Editor persist even after trying to resolve them. | [Open a ticket with VTEX Support](https://supporticket.vtex.com/support). |
 
 To understand and correct each error, see the solutions below:
 
@@ -54,14 +54,14 @@ One possible reason for this issue might be related to the [Intelligent Search](
 
     ![Site Editor - IS integrations EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/data-access-and-security/my-stores-site-editor-is-not-working_2.png)
 
-3. If the statuses are all checked, and you still can’t open Site Editor, see the [Checking the tenant configuration](#checking-the-new-account-tenant-configuration) section. Otherwise, proceed to the next step.
+3. If the statuses are all checked, and you still can’t open Site Editor, see the [Checking the tenant configuration](#checking-the-tenant-configuration-new-accounts-only) section. Otherwise, proceed to the next step.
 4. If the Integrations page does not look like the image above, here are the reasons and how to fix them:
-  - **The status `Enable search` is not checked**: You didn’t start the integration. Click `Start Integration`.
-  - **One of the statuses failed and is not checked**: If you already tried to start the integration but it still failed, open a ticket with [VTEX Support](https://supporticket.vtex.com/support) to report the error.
+    - **The status `Enable search` is not checked**: You didn’t start the integration. Click `Start Integration`.
+    - **One of the statuses failed and is not checked**: If you already tried to start the integration but it still failed, open a ticket with [VTEX Support](https://supporticket.vtex.com/support) to report the error.
 
 ### Checking the tenant configuration (new accounts only)
 
-If you already have the [search integrated](#check-the-search-integration) and still see a black screen when you click **Site Editor** in the VTEX Admin, the store might not have the tenant set, or there is an error in this setting.
+If you already have the [search integrated](#checking-the-search-integration) and still see a black screen when you click **Site Editor** in the VTEX Admin, the store might not have the tenant set, or there is an error in this setting.
 
 VTEX uses a [SaaS multi-tenancy](https://developers.vtex.com/docs/guides/cloud-infrastructure#saas-multi-tenancy) architecture approach, where each account is a tenant that needs to be connected (binding) to the VTEX architecture for data and information synchronization.
 
@@ -78,8 +78,8 @@ Something went wrong. Please try again.
 To solve this error, see the following instructions:
 
 1. [Check if the user role has the necessary permissions](#checking-if-the-user-role-has-the-necessary-permissions).
-2. [Check if the sales channel is configured in the catalog](#checking-if-the-trade-policy-is-configured-in-the-catalog)
-3. [Check the domain's main locale](#checking-the-domain's-main-locale)
+2. [Check if the sales channel is configured in the catalog](#checking-the-domains-main-locale)
+3. [Check the domain's main locale](#checking-the-domains-main-locale)
 
 ### Checking if the user role has the necessary permissions
 
@@ -87,7 +87,7 @@ One possible reason for this issue might be related to the lack of the `CMS Grap
 
 Ensure that users are associated with the `CMS GraphQL API` resource within their user roles by either [creating a new role](/en/docs/tutorials/roles#creating-a-role) or editing an existing one.
 
-If you still can't manage the content even after adding the `CMS GraphQL API` resource to the user role, see the next section: [Check the domain's main locale](#checking-the-domain's-main-locale).
+If you still can't manage the content even after adding the `CMS GraphQL API` resource to the user role, see the next section: [Check the domain's main locale](#checking-the-domains-main-locale).
 
 ### Checking the domain's main locale
 
@@ -98,14 +98,14 @@ Another possible reason for this error is related to the locale set for the acco
 3. In the dropdown menu, select the `vtex.tenant-graphql@0.1.2` app.
 4. In the text box, enter the following query:
 
-    ```
+    ```graphql
     query {
       tenantInfo {
-    	bindings {
-      	id,
-      	canonicalBaseAddress,
-     	defaultLocale
-    	}
+        bindings {
+          id,
+          canonicalBaseAddress,
+          defaultLocale
+        }
       }
     }
     ```
@@ -119,10 +119,10 @@ Another possible reason for this error is related to the locale set for the acco
 
     ![Site Editor - Locale EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/data-access-and-security/my-stores-site-editor-is-not-working_4.png)
 
-  The locale is considered incorrect in the following cases:
-    - The locale is different from the one the account should use. For example, the locale is set as `pt-BR`, but the account should be `pt-PT`.
-    - The locale is in lowercase. Since this configuration is case-sensitive, you must set the locale as `pt-BR` instead of `pt-br`.
-    - The locality configured in the sales channel is different from the `defaultLocale` identified.
+    The locale is considered incorrect in the following cases:
+      - The locale is different from the one the account should use. For example, the locale is set as `pt-BR`, but the account should be `pt-PT`.
+      - The locale is in lowercase. Since this configuration is case-sensitive, you must set the locale as `pt-BR` instead of `pt-br`.
+      - The locality configured in the sales channel is different from the `defaultLocale` identified.
 
 8. In both cases, open a ticket with [VTEX Support](https://supporticket.vtex.com/support) to request a change in the locale set for the sales channel. Remember to include evidence of the error, such as screenshots, message logs, and details of your prior investigation.
 
@@ -132,7 +132,7 @@ Open a ticket with the [VTEX Support](https://supporticket.vtex.com/support) tea
 
 To avoid losing content stored in Site Editor when changing the pair dependencies of the Store Theme app, follow the steps in the guide [Migrating CMS settings after a major theme update](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-cms-settings-after-major-update).
 
-> ⚠️  In cases where you lose content in Site Editor, the content can only be restored if the loss is related to the known issue of [Intermittent Site Editor content loss](/en/known-issues/perda-intermitente-de-conteudo-do-site-editor--3a5MlAoD2Z7Gu6HDS8wihD). In this situation, open a ticket with the [VTEX Support](https://supporticket.vtex.com/support) with `urgent` priority. 
+> ⚠️  In cases where you lose content in Site Editor, the content can only be restored if the loss is related to the known issue of [Intermittent Site Editor content loss](/en/known-issues/perda-intermitente-de-conteudo-do-site-editor--3a5MlAoD2Z7Gu6HDS8wihD). In this situation, open a ticket with the [VTEX Support](https://supporticket.vtex.com/support) with `urgent` priority.
 
 ## I'm still experiencing issues with Site Editor
 

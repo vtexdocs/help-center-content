@@ -41,19 +41,19 @@ Nuestra meta es asegurarnos de que tanto clientes como partners, así como todo 
 A continuación, te presentamos una [introducción](/es/docs/tracks/introduccion-a-vtex) a lo que encontrarás en la guía.
 
 <div>
-    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2024/febrero/2024-02-22-guia-de-onboarding-tu-jornada-completa-en-vtex_2.png" height="90" alt="Serie de la tienda VTEX">
+    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2024/febrero/2024-02-22-guia-de-onboarding-tu-jornada-completa-en-vtex_2.png" height="90" alt="Serie de la tienda VTEX" />
 </div>
 
 La **Serie de la tienda VTEX** presenta el contexto inaugural de la operación, comenzando por la definición del [tipo de cuenta y arquitectura](/es/docs/tracks/cuentas-y-arquitectura) que mejor se adaptan a las necesidades de tu negocio. A partir de ese punto, puedes llevar a cabo la [configuración inicial](/es/docs/tracks/configuracion-inicial) y la configuración de los [módulos](/es/docs/tracks/modulos-de-vtex-i) de la plataforma, enfocándote en acelerar la inauguración de la tienda. Una vez finalizadas las [integraciones de backend](/es/docs/tracks/integraciones-de-backend) y la implementación de la [tecnología de frontend](/es/docs/tracks/implementacion-del-frontend) para la construcción del storefront, es el momento del [go live](/es/docs/tracks/planificacion-del-go-live) y de la inauguración de la nueva tienda.
 
 <div>
-    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2024/febrero/2024-02-22-guia-de-onboarding-tu-jornada-completa-en-vtex_3.png" height="90" alt="Proximos pasos tras el go live">
+    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2024/febrero/2024-02-22-guia-de-onboarding-tu-jornada-completa-en-vtex_3.png" height="90" alt="Proximos pasos tras el go live" />
 </div>
 
 La serie **Próximos pasos tras el go live** presenta la manera en que se realiza el [comercio unificado](/es/docs/tracks/comercio-unificado) con los recursos de la plataforma, abordando [configuración de módulos](/es/docs/tracks/otros-ajustes-de-los-modulos-de-vtex) no mencionada anteriormente, ya que en este punto el enfoque está en la evolución de la operación. Esta serie también presenta los [productos add-on](/es/docs/tracks/products-add-on) de VTEX, una variedad de productos que pueden adquirirse por separado para posibilitar nuevas estrategias y la diversificación del negocio.
 
 <div>
-    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2024/febrero/2024-02-22-guia-de-onboarding-tu-jornada-completa-en-vtex_4.png" height="90" alt="VTEX Support">
+    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2024/febrero/2024-02-22-guia-de-onboarding-tu-jornada-completa-en-vtex_4.png" height="90" alt="VTEX Support" />
 </div>
 
 **Soporte en VTEX** presenta el [soporte](/es/docs/tracks/soporte-vtex) que proporcionamos a los clientes, que no se limita a una parte específica de la jornada. El [funcionamiento del soporte](/es/docs/tracks/funcionamiento-del-soporte-vtex) se aborda también en otras series, ya que la [apertura de tickets](/es/docs/tracks/apertura-de-tickets) es la vía para determinadas contrataciones y solicitudes. Esta serie ha sido diseñada para que nuestros clientes tengan la mejor experiencia con nuestros servicios y dispongan de la información necesaria para abrir tickets, ya sea en el ámbito del soporte [técnico](/es/docs/tracks/suporte-tecnico), [financiero](/es/docs/tracks/soporte-financiero) o [comercial](/es/docs/tracks/soporte-comercial).

@@ -24,7 +24,7 @@ On this page, you'll find the following controls:
 
 This data refreshes automatically, and you can see the time of the last update next to the **Refresh** button.
 
-To configure Live Desk preferences, go to **Settings > Live Desk**. Learn more in [Configure Live Desk](docs/tutorials/configure-live-desk).
+To configure Live Desk preferences, go to **Settings > Live Desk**. Learn more in [Configure Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk).
 
 ### Monitoring
 
@@ -78,7 +78,7 @@ Displays the customer satisfaction score (CSAT) based on the surveys collected a
 - **Rating by representative:** Individual score for each representative, with the number of support chats and ratings received. Representatives with the highest scores will appear in this list.
 - **Rating distribution:** Bar chart showing the percentage and number of responses for each level: Very satisfied, Satisfied, Neutral, Dissatisfied, and Very dissatisfied.
 
-> ⚠️ To display the CSAT widget, it needs to be enabled natively in at least one of the project's departments. If it's not active, you need to click the `Enable` button and enable it in a department. For more information about departments, see the [Configure Live Desk](docs/tutorials/configure-live-desk) article.
+> ⚠️ To display the CSAT widget, it needs to be enabled natively in at least one of the project's departments. If it's not active, you need to click the `Enable` button and enable it in a department. For more information about departments, see the [Configure Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk) article.
 
 ![Monitoring screen 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/analytics/monitoring-screen-3.png)
 
@@ -173,7 +173,7 @@ This tab provides information about representatives in the selected period. You 
 
 In this tab, you can view the breaks taken by representatives. Each column refers to a custom break and shows how long the representative paused during the selected period.
 
-To learn how to add, remove, or edit custom breaks, see the [Configure Live Desk](docs/tutorials/configure-live-desk) article.
+To learn how to add, remove, or edit custom breaks, see the [Configure Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk) article.
 
 ## Conversational (beta)
 

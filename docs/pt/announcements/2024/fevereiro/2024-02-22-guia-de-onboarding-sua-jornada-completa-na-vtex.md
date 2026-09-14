@@ -40,19 +40,19 @@ Nosso objetivo é que clientes, parceiros e todo o ecossistema VTEX se beneficie
 Veja a seguir uma [introdução](/pt/docs/tracks/introducao-a-vtex) do que você encontrará no guia.
 
 <div>
-    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/fevereiro/2024-02-22-guia-de-onboarding-sua-jornada-completa-na-vtex_2.png" height="90" alt="Trilha da loja VTEX">
+    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/fevereiro/2024-02-22-guia-de-onboarding-sua-jornada-completa-na-vtex_2.png" height="90" alt="Trilha da loja VTEX" />
 </div>
 
 A **Trilha da loja VTEX** apresenta o contexto inaugural da operação, começando pela definição de qual [tipo de conta e arquitetura](/pt/docs/tracks/contas-e-arquitetura) são adequados às necessidades do negócio. A partir disso, é possível realizar as [configurações iniciais](/pt/docs/tracks/configuracoes-iniciais) e as configurações dos [módulos](/pt/docs/tracks/modulos-da-vtex-i) da plataforma, focando em acelerar a inauguração da loja. Uma vez que as [integrações de backend](/pt/docs/tracks/integracoes-de-backend) estejam concluídas e a implementação da tecnologia de [frontend](/pt/docs/tracks/implementacao-de-frontend) para a construção da frente de loja tenha sido finalizada, é chegado o momento do [go-live](/pt/docs/tracks/planejamento-do-go-live) e da inauguração da nova loja.
 
 <div>
-    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/fevereiro/2024-02-22-guia-de-onboarding-sua-jornada-completa-na-vtex_3.png" height="90" alt="Proximos passos apos o go live">
+    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/fevereiro/2024-02-22-guia-de-onboarding-sua-jornada-completa-na-vtex_3.png" height="90" alt="Proximos passos apos o go live" />
 </div>
 
 A trilha **Próximos passos após o go-live** apresenta como o [comércio unificado](/pt/docs/tracks/comercio-unificado) é realizado com os recursos da plataforma, incluindo [configurações de módulos](/pt/docs/tracks/outras-configuracoes-de-modulos-vtex) não mencionadas anteriormente, pois aqui o foco é na evolução da operação. Esta trilha apresenta também os [produtos Add on](/pt/docs/tracks/produtos-add-on) da VTEX, uma série de produtos que podem ser adquiridos à parte para permitir novas estratégias e diversificação do negócio.
 
 <div>
-    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/fevereiro/2024-02-22-guia-de-onboarding-sua-jornada-completa-na-vtex_4.png" height="90" alt="Suporte na VTEX">
+    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/fevereiro/2024-02-22-guia-de-onboarding-sua-jornada-completa-na-vtex_4.png" height="90" alt="Suporte na VTEX" />
 </div>
 
 O **Suporte na VTEX** apresenta o [suporte](/pt/docs/tracks/suporte-na-vtex) que prestamos aos clientes, o que não se restringe a uma parte específica da jornada. O [funcionamento do suporte](/pt/docs/tracks/funcionamento-do-suporte-vtex) é inclusive referenciado nas outras trilhas, pois a [abertura de chamados](/pt/docs/tracks/abertura-de-chamados) é a via para determinadas contratações e solicitações. Esta trilha foi organizada para que os nossos clientes tenham a melhor experiência com nossos serviços e que disponham das informações necessárias à abertura de chamados, seja no contexto de suporte [técnico](/pt/docs/tracks/suporte-tecnico), [financeiro](/pt/docs/tracks/suporte-financeiro) ou [comercial](/pt/docs/tracks/suporte-comercial).

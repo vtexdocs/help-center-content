@@ -28,9 +28,9 @@ Você pode fazer um pedido para teste na loja e, em seguida, verificar no **Gere
 
 Exemplo: imagine um pedido em que frete grátis foi aplicado, mas você não sabe o motivo. Ao clicar em um pedido no **Gerenciamento de pedidos**, você encontraria o nome da promoção registrada na seção **Promoções e parcerias**.
 
-<img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/gestão-de-promoções/como-identificar-as-promocoes-no-carrinho_3.png" alt="detalhes-do-pedido" style="margin-bottom: 20px;"> <figcaption align = "center">*Detalhes do pedido*</figcaption></figure>
+<figure><img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/gestão-de-promoções/como-identificar-as-promocoes-no-carrinho_3.png" alt="detalhes-do-pedido" style="margin-bottom: 20px;" /> <figcaption align = "center">*Detalhes do pedido*</figcaption></figure>
 
-<img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/gestão-de-promoções/como-identificar-as-promocoes-no-carrinho_4.png" alt="detalhes-do-pedido-beta" style="margin-bottom: 20px;"> <figcaption align = "center">*Detalhes do pedido (Beta)*</figcaption></figure>
+<figure><img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/gestão-de-promoções/como-identificar-as-promocoes-no-carrinho_4.png" alt="detalhes-do-pedido-beta" style="margin-bottom: 20px;" /> <figcaption align = "center">*Detalhes do pedido (Beta)*</figcaption></figure>
 
 Se nenhuma promoção estiver listada, isso indica que o frete grátis não tem como causa uma promoção, ou seja, o cálculo de frete no módulo de **Estoque & entrega** teve como resultado zero. Nesse caso, seria necessário utilizar o **Simulador de envio** para entender por que razão o frete teve valor zero.
 

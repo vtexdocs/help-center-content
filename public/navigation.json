@@ -39,8 +39,38 @@
               "children": [
                 {
                   "name": {
+                    "en": "VTEX CX Platform: WhatsApp automation execution logs",
+                    "es": "VTEX CX Platform: logs de ejecución de las automatizaciones de WhatsApp",
+                    "pt": "VTEX CX Platform: logs de execução das automações de WhatsApp"
+                  },
+                  "slug": {
+                    "en": "2026-09-11-vtex-cx-platform-whatsapp-automation-execution-logs",
+                    "es": "2026-09-11-vtex-cx-platform-logs-de-ejecucion-de-las-automatizaciones-de-whatsapp",
+                    "pt": "2026-09-11-vtex-cx-platform-logs-de-execucao-das-automacoes-de-whatsapp"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Intelligent Search: Facets, keywords, and special character improvements",
+                    "es": "Intelligent Search: mejoras en filtros, palabras clave y caracteres especiales",
+                    "pt": "Intelligent Search: melhorias em filtros, keywords e caracteres especiais"
+                  },
+                  "slug": {
+                    "en": "2026-09-10-intelligent-search-filters-keywords-and-special-characters-improvements",
+                    "es": "2026-09-10-intelligent-search-mejoras-en-filtros-keywords-y-caracteres-especiales",
+                    "pt": "2026-09-10-intelligent-search-melhorias-em-filtros-keywords-e-caracteres-especiais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Intelligent Search: OR search results now ranked by relevance",
-                    "es": "Intelligent Search: resultados de búsqueda OR ahora ordenados por relevancia",
+                    "es": "Intelligent Search: los resultados de búsquedas OR ahora se ordenan por relevancia",
                     "pt": "Intelligent Search: Resultados de busca OR agora ordenados por relevância"
                   },
                   "slug": {
@@ -9079,36 +9109,6 @@
             },
             {
               "name": {
-                "en": "Why is my store’s zoom not working?",
-                "es": "¿Por qué no funciona el zoom de mi tienda?",
-                "pt": "Por que o zoom da minha loja não funciona?"
-              },
-              "slug": {
-                "en": "why-is-my-stores-zoom-not-working",
-                "es": "por-que-no-funciona-el-zoom-de-mi-tienda",
-                "pt": "por-que-o-zoom-da-minha-loja-nao-funciona"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Why is the \"thumb\" image of poor quality?",
-                "es": "¿Por qué la imagen \"thumb\" está en baja calidad?",
-                "pt": "Por que a imagem \"thumb\" está em baixa qualidade?"
-              },
-              "slug": {
-                "en": "why-is-the-thumb-image-of-poor-quality",
-                "es": "por-que-la-imagen-thumb-esta-en-baja-calidad",
-                "pt": "porque-a-imagem-thumb-esta-em-baixa-qualidade"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Why is the product name duplicated?",
                 "es": "¿Por qué el producto está con nombre duplicado?",
                 "pt": "Por que o produto está com nome duplicado?"
@@ -10206,12 +10206,12 @@
                 {
                   "name": {
                     "en": "3. Cross-border stores",
-                    "es": "3. Tiendas transfronterizas (cross-border)",
+                    "es": "3. Tiendas internacionales (cross-border)",
                     "pt": "3. Lojas internacionais (cross-border)"
                   },
                   "slug": {
                     "en": "cross-border-stores",
-                    "es": "tiendas-transfronterizas-cross-border",
+                    "es": "tiendas-internacionales-cross-border",
                     "pt": "lojas-internacionais-cross-border"
                   },
                   "origin": "",
@@ -14913,6 +14913,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "8. Notify failed delivery to Shopee",
+                    "es": "8. Notificar falla de entrega en Shopee",
+                    "pt": "8. Notificar falha de entrega na Shopee"
+                  },
+                  "slug": {
+                    "en": "notify-failed-delivery-shopee",
+                    "es": "notificar-falla-de-entrega-en-shopee",
+                    "pt": "notificar-falha-de-entrega-na-shopee"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -16366,69 +16381,6 @@
       "categories": [
         {
           "name": {
-            "en": "Admin VTEX",
-            "es": "Admin VTEX",
-            "pt": "Admin VTEX"
-          },
-          "slug": {
-            "en": "admin-vtex",
-            "es": "admin-vtex-subcategoria",
-            "pt": "admin-vtex-subcategoria"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Gestión de la cuenta",
-                "es": "Gestión de la cuenta",
-                "pt": "Gerenciamento da conta"
-              },
-              "slug": {
-                "en": "gestion-de-la-cuenta",
-                "es": "gestion-de-la-cuenta-categoria",
-                "pt": "gerenciamento-da-conta-categoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Cuentas",
-                    "es": "Cuentas",
-                    "pt": "Contas"
-                  },
-                  "slug": {
-                    "en": "cuentas",
-                    "es": "cuentas-subcategoria",
-                    "pt": "contas-subcategoria"
-                  },
-                  "origin": "",
-                  "type": "category",
-                  "children": [
-                    {
-                      "name": {
-                        "es": "Cambiar el logotipo del boleto",
-                        "pt": "Alterar o logotipo do boleto",
-                        "en": "Cambiar el logotipo del boleto"
-                      },
-                      "slug": {
-                        "es": "cambiar-el-logotipo-del-boleto",
-                        "pt": "alterar-o-logotipo-do-boleto",
-                        "en": ""
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": {
             "en": "VTEX Admin",
             "es": "Admin VTEX",
             "pt": "Admin VTEX"
@@ -16545,6 +16497,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": [
+                    {
+                      "name": {
+                        "en": "Changing the logo on the Boleto",
+                        "es": "Cambiar el logotipo del boleto",
+                        "pt": "Alterar o logotipo do boleto"
+                      },
+                      "slug": {
+                        "en": "changing-the-logo-on-the-boleto",
+                        "es": "cambiar-el-logotipo-del-boleto",
+                        "pt": "alterar-o-logotipo-do-boleto"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
                     {
                       "name": {
                         "en": "Changing the store domain",
@@ -18625,21 +18592,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Activating SKUs in bulk",
-                    "es": "Activar SKUs en masa",
-                    "pt": "Ativar SKUs em massa"
-                  },
-                  "slug": {
-                    "en": "activating-skus-in-bulk",
-                    "es": "activar-skus-en-massa",
-                    "pt": "ativar-skus-em-massa"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Adding or editing products",
                     "es": "Agregar o editar productos",
                     "pt": "Adicionar ou editar produto"
@@ -20340,6 +20292,21 @@
                 },
                 {
                   "name": {
+                    "en": "CMS roles and permissions",
+                    "es": "CMS roles y permisos",
+                    "pt": "CMS perfis de acesso e permissões"
+                  },
+                  "slug": {
+                    "en": "cms-roles-and-permissions",
+                    "es": "cms-roles-y-permisos",
+                    "pt": "cms-perfis-de-acesso-e-permissoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Configuring stores",
                     "es": "Configurar tiendas",
                     "pt": "Configurar lojas"
@@ -20348,21 +20315,6 @@
                     "en": "cms-configuring-stores",
                     "es": "cms-configurar-tiendas",
                     "pt": "cms-configurar-lojas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Roles and permissions",
-                    "es": "Roles y permisos",
-                    "pt": "Perfis de acesso e permissões"
-                  },
-                  "slug": {
-                    "en": "roles-and-permissions",
-                    "es": "roles-y-permisos",
-                    "pt": "perfis-de-acesso-e-permissoes"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20642,6 +20594,21 @@
                     },
                     {
                       "name": {
+                        "en": "Configuring zoom and thumbnails in CMS Portal (Legacy) stores",
+                        "es": "Configurar zoom y miniaturas en tiendas CMS Portal (Legado)",
+                        "pt": "Configurando zoom e miniaturas em lojas CMS Portal (Legado)"
+                      },
+                      "slug": {
+                        "en": "configuring-zoom-and-thumbnails-in-cms-portal-legacy-stores",
+                        "es": "configurar-zoom-y-miniaturas-en-tiendas-cms-portal-legado",
+                        "pt": "configurando-zoom-e-miniaturas-em-lojas-cms-portal-legado"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Enabling PWA push notifications in your store",
                         "es": "Habilitar las notificaciones PWA de la tienda",
                         "pt": "Habilitando notificações PWA da loja"
@@ -20695,21 +20662,6 @@
                         "en": "set-the-store-display-language",
                         "es": "definir-el-idioma-de-visualizacion-de-la-tienda",
                         "pt": "definir-o-idioma-de-exibicao-da-loja"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Setting up the standard size for the zoom image",
-                        "es": "Configurar el tamaño estándar de la imagen de zoom",
-                        "pt": "Configurar o tamanho padrão da imagem de zoom"
-                      },
-                      "slug": {
-                        "en": "setting-up-the-standard-size-for-the-zoom-image",
-                        "es": "configurar-el-tamano-estandar-de-la-imagen-de-zoom",
-                        "pt": "configurar-o-tamanho-padrao-da-imagem-de-zoom"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -22713,12 +22665,12 @@
                 {
                   "name": {
                     "en": "VTEX Pick and Pack: Insights",
-                    "es": "VTEX Pick and Pack: Análisis",
+                    "es": "VTEX Pick and Pack: Insights",
                     "pt": "VTEX Pick and Pack: Insights"
                   },
                   "slug": {
                     "en": "vtex-pick-and-pack-insights",
-                    "es": "vtex-pick-and-pack-analisis",
+                    "es": "vtex-pick-and-pack-insights",
                     "pt": "vtex-pick-and-pack-insights"
                   },
                   "origin": "",
@@ -33768,6 +33720,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configurar o Shopping Assistant",
+                    "es": "Configurar o Shopping Assistant",
+                    "pt": "Configurar o Shopping Assistant"
+                  },
+                  "slug": {
+                    "en": "configure-shopping-assistant",
+                    "es": "configurar-el-shopping-assistant",
+                    "pt": "configurar-o-shopping-assistant"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Creating a Microsoft Teams channel",
                     "es": "Creación de un canal de Microsoft Teams",
                     "pt": "Integração com o Microsoft Teams"
@@ -34038,21 +34005,6 @@
                 },
                 {
                   "name": {
-                    "en": "Web Chat Channel",
-                    "es": "Canal VTEX CX Platform web chat",
-                    "pt": "Canal de Web Chat"
-                  },
-                  "slug": {
-                    "en": "web-chat-channel",
-                    "es": "canal-web-chat",
-                    "pt": "canal-de-web-chat"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Webhook configuration: Message delivery status",
                     "es": "Configuración del webhook: Estado del envío de mensajes",
                     "pt": "Configuração do Webhook: Status de envio das mensagens"
@@ -34143,14 +34095,14 @@
                 },
                 {
                   "name": {
-                    "en": "WhatsApp: VTEX CX Platform Express integration",
-                    "es": "WhatsApp: Integración express con VTEX CX Platform",
-                    "pt": "WhatsApp: Integração Expressa no VTEX CX Platform"
+                    "en": "WhatsApp: Integration with VTEX CX Platform",
+                    "es": "WhatsApp: Integración con VTEX CX Platform",
+                    "pt": "WhatsApp: Integração com o VTEX CX Platform"
                   },
                   "slug": {
-                    "en": "whatsapp-vtex-cx-platform-express-integration",
-                    "es": "whatsapp-integracion-express-con-vtex-cx-platform",
-                    "pt": "whatsapp-integracao-expressa-no-vtex-cx-platform"
+                    "en": "whatsapp-vtex-cx-platform-integration",
+                    "es": "whatsapp-integracion-con-vtex-cx-platform",
+                    "pt": "whatsapp-integracao-com-o-vtex-cx-platform"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -53928,21 +53880,6 @@
             },
             {
               "name": {
-                "en": "Minimum of items can be sent as 0 through the field \"numberOfItemsPerShipment\" in API",
-                "es": "El mínimo de artículos se puede enviar como 0 a través del campo \"numberOfItemsPerShipment\" en API",
-                "pt": "O mínimo de itens pode ser enviado como 0 por meio do campo \"numberOfItemsPerShipment\" na API"
-              },
-              "slug": {
-                "en": "minimum-of-items-can-be-sent-as-0-through-the-field-numberofitemspershipment-in-api",
-                "es": "el-minimo-de-articulos-se-puede-enviar-como-0-a-traves-del-campo-numberofitemspershipment-en-api",
-                "pt": "o-minimo-de-itens-pode-ser-enviado-como-0-por-meio-do-campo-numberofitemspershipment-na-api"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Modal as Generic Reason even this type of Modal are configured OK",
                 "es": "Modal como Razón Genérica incluso este tipo de Modal están configurados OK",
                 "pt": "Modal como Generic Reason mesmo este tipo de Modal são configurados OK"
@@ -53951,21 +53888,6 @@
                 "en": "modal-as-generic-reason-even-this-type-of-modal-are-configured-ok",
                 "es": "modal-como-razon-generica-incluso-este-tipo-de-modal-estan-configurados-ok",
                 "pt": "modal-como-generic-reason-mesmo-este-tipo-de-modal-sao-configurados-ok"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Modal values with different texts between API and Logistics UI",
-                "es": "Valores de los cuadros de diálogo con textos diferentes entre la API y la interfaz de usuario de logística",
-                "pt": "Valores de modais com textos diferentes entre a API e a interface de usuário de logística"
-              },
-              "slug": {
-                "en": "modal-values-with-different-texts-between-api-and-logistics-ui",
-                "es": "valores-de-los-cuadros-de-dialogo-con-textos-diferentes-entre-la-api-y-la-interfaz-de-usuario-de-logistica",
-                "pt": "valores-de-modais-com-textos-diferentes-entre-a-api-e-a-interface-de-usuario-de-logistica"
               },
               "origin": "",
               "type": "markdown",
@@ -54101,21 +54023,6 @@
                 "en": "shipping-policy-stuck-in-processing-status-is-displayed-as-active-in-the-new-logistics-ui",
                 "es": "una-politica-de-envios-que-se-encuentra-en-estado-de-procesamiento-aparece-como-activa-en-la-nueva-interfaz-de-usuario-de-logistica",
                 "pt": "a-politica-de-envio-que-esta-no-status-em-processamento-e-exibida-como-ativa-na-nova-interface-de-logistica"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Shipping policy that does not deliver on weekends is being considered",
-                "es": "Se está estudiando una política de envíos que no entregue los fines de semana",
-                "pt": "A política de remessa que não entrega nos finais de semana está sendo considerada"
-              },
-              "slug": {
-                "en": "shipping-policy-that-does-not-deliver-on-weekends-is-being-considered",
-                "es": "se-esta-estudiando-una-politica-de-envios-que-no-entregue-los-fines-de-semana",
-                "pt": "a-politica-de-remessa-que-nao-entrega-nos-finais-de-semana-esta-sendo-considerada"
               },
               "origin": "",
               "type": "markdown",
@@ -57271,6 +57178,21 @@
                 "en": "delay-to-register-cancelreason-in-the-order-json",
                 "es": "retraso-en-el-registro-de-cancelreason-en-el-json-del-pedido",
                 "pt": "atraso-no-registro-do-cancelreason-no-json-do-pedido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Delayed \"payment-approved\" transition for fast/auto-approval payment methods (workflow not ready when authorization notification arrives)",
+                "es": "Transición retrasada a \"pago aprobado\" para métodos de pago de aprobación rápida/automática (el flujo de trabajo no está listo cuando llega la notificación de autorización).",
+                "pt": "Transição de \"pagamento aprovado\" atrasada para métodos de pagamento com aprovação rápida/automática (fluxo de trabalho não está pronto quando a notificação de autorização chega)."
+              },
+              "slug": {
+                "en": "delayed-paymentapproved-transition-for-fastautoapproval-payment-methods-workflow-not-ready-when-authorization-notification-arrives",
+                "es": "transicion-retrasada-a-pago-aprobado-para-metodos-de-pago-de-aprobacion-rapidaautomatica-el-flujo-de-trabajo-no-esta-listo-cuando-llega-la-notificacion-de-autorizacion",
+                "pt": "transicao-de-pagamento-aprovado-atrasada-para-metodos-de-pagamento-com-aprovacao-rapidaautomatica-fluxo-de-trabalho-nao-esta-pronto-quando-a-notificacao-de-autorizacao-chega"
               },
               "origin": "",
               "type": "markdown",
@@ -65281,6 +65203,21 @@
             },
             {
               "name": {
+                "en": "Fixed Price updates may overwrite concurrent changes",
+                "es": "Las actualizaciones de precio fijo pueden sobrescribir los cambios simultáneos.",
+                "pt": "As atualizações de preço fixo podem sobrescrever alterações simultâneas."
+              },
+              "slug": {
+                "en": "fixed-price-updates-may-overwrite-concurrent-changes",
+                "es": "las-actualizaciones-de-precio-fijo-pueden-sobrescribir-los-cambios-simultaneos",
+                "pt": "as-atualizacoes-de-preco-fixo-podem-sobrescrever-alteracoes-simultaneas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Fixed Prices import may incorrectly report success when SKU column is formatted as a number",
                 "es": "La importación de precios fijos puede informar incorrectamente que se realizó correctamente cuando la columna SKU está formateada como un número.",
                 "pt": "A importação de preços fixos pode reportar incorretamente sucesso quando a coluna SKU estiver formatada como um número."
@@ -69077,6 +69014,21 @@
                 "en": "category-mapping-via-xls-not-reprocessed-for-accounts-with-large-volume-of-suggestions",
                 "es": "la-asignacion-de-categorias-mediante-xls-no-se-reprocesa-para-cuentas-con-un-gran-volumen-de-sugerencias",
                 "pt": "o-mapeamento-de-categorias-via-xls-nao-e-reprocessado-para-contas-com-grande-volume-de-sugestoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CentauroKI Mapper filer have 1MB file size limit on API uploads",
+                "es": "CentauroKI El servidor de archivos Mapper tiene un límite de tamaño de archivo de 1 MB para las cargas de API.",
+                "pt": "CentauroKI O mapeador de arquivos tem um limite de tamanho de arquivo de 1 MB para uploads via API."
+              },
+              "slug": {
+                "en": "centauroki-mapper-filer-have-1mb-file-size-limit-on-api-uploads",
+                "es": "centauroki-el-servidor-de-archivos-mapper-tiene-un-limite-de-tamano-de-archivo-de-1-mb-para-las-cargas-de-api",
+                "pt": "centauroki-o-mapeador-de-arquivos-tem-um-limite-de-tamanho-de-arquivo-de-1-mb-para-uploads-via-api"
               },
               "origin": "",
               "type": "markdown",

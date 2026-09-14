@@ -24,7 +24,7 @@ Check the instructions that correspond to your frontend solution:
 * [Headless CMS (Legacy)](#headless-cms)
 * [FastStore](#faststore)
 
-> ❗ If you don't want your audience to view a black screen at the end of the transmission, you can display an end-of-transmission image, as explained below:<ol><li>Before ending the transmission, display the ending image in Bundle or an external studio.</li><li>Hide the **Live Shopping** component or remove the code from the store (as shown in the next sections).</li><li>Wait about 10 minutes after displaying the ending image for the cache to update.</li><li>End the event.
+> ❗ If you don't want your audience to view a black screen at the end of the transmission, you can display an end-of-transmission image, as explained below:<ol><li>Before ending the transmission, display the ending image in Bundle or an external studio.</li><li>Hide the **Live Shopping** component or remove the code from the store (as shown in the next sections).</li><li>Wait about 10 minutes after displaying the ending image for the cache to update.</li><li>End the event.</li></ol>
 
 ## Store Framework (VTEX IO)
 

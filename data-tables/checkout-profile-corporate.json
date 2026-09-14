@@ -1,0 +1,1161 @@
+{
+  "updatedAt": "2026-09-04",
+  "en": [
+    {
+      "country": "AU",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "AT",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "BE",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "BO",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "BR",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "BR",
+      "fieldName": "corporateName",
+      "description": "Corporate name",
+      "type": "Text"
+    },
+    {
+      "country": "BR",
+      "fieldName": "tradeName",
+      "description": "Company trade name",
+      "type": "Text"
+    },
+    {
+      "country": "BR",
+      "fieldName": "corporateDocument",
+      "description": "Company registration number",
+      "type": "14 digits, without mask"
+    },
+    {
+      "country": "BG",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "CA",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "CL",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "CL",
+      "fieldName": "corporateName",
+      "description": "Corporate name",
+      "type": "Text"
+    },
+    {
+      "country": "CL",
+      "fieldName": "tradeName",
+      "description": "Company trade name",
+      "type": "Text"
+    },
+    {
+      "country": "CL",
+      "fieldName": "corporateDocument",
+      "description": "Company registration number",
+      "type": "14 digits, without mask"
+    },
+    {
+      "country": "CO",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "CO",
+      "fieldName": "tradeName",
+      "description": "Company trade name",
+      "type": "Text"
+    },
+    {
+      "country": "CO",
+      "fieldName": "stateRegistration",
+      "description": "State registration number",
+      "type": "Text with the value \"Exempt\" or an alphanumeric value"
+    },
+    {
+      "country": "CR",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "HR",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "CZ",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "DK",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "DO",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "SV",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "FI",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "FR",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "DE",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "GR",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "HU",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "IN",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "ID",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "IE",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "IT",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "JM",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "JP",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "MT",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "NL",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "NZ",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "NI",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "PA",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "PY",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "PY",
+      "fieldName": "corporateName",
+      "description": "Corporate name",
+      "type": "Text"
+    },
+    {
+      "country": "PY",
+      "fieldName": "tradeName",
+      "description": "Company trade name",
+      "type": "Text"
+    },
+    {
+      "country": "PL",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "PT",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "PR",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "RO",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "RU",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "SM",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "SA",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "RS",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "SG",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "SK",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "ZA",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "KR",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "ES",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "SE",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "TH",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "UA",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "AE",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "GB",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "US",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "US",
+      "fieldName": "corporateName",
+      "description": "Corporate name",
+      "type": "Text"
+    },
+    {
+      "country": "VE",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    },
+    {
+      "country": "MX",
+      "fieldName": "isCorporate",
+      "description": "Defines whether the customer is a company",
+      "type": "Boolean. It must display the value \"true\""
+    }
+  ],
+  "pt": [
+    {
+      "country": "AU",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "AT",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "BE",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "BO",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "BR",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "BR",
+      "fieldName": "corporateName",
+      "description": "Razão social da empresa",
+      "type": "Texto"
+    },
+    {
+      "country": "BR",
+      "fieldName": "tradeName",
+      "description": "Nome fantasia da empresa",
+      "type": "Texto"
+    },
+    {
+      "country": "BR",
+      "fieldName": "corporateDocument",
+      "description": "CNPJ da empresa",
+      "type": "14 dígitos, sem máscara"
+    },
+    {
+      "country": "BG",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "CA",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "CL",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "CL",
+      "fieldName": "corporateName",
+      "description": "Razão social da empresa",
+      "type": "Texto"
+    },
+    {
+      "country": "CL",
+      "fieldName": "tradeName",
+      "description": "Nome fantasia da empresa",
+      "type": "Texto"
+    },
+    {
+      "country": "CL",
+      "fieldName": "corporateDocument",
+      "description": "CNPJ da empresa",
+      "type": "14 dígitos, sem máscara"
+    },
+    {
+      "country": "CO",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "CO",
+      "fieldName": "tradeName",
+      "description": "Nome fantasia da empresa",
+      "type": "Texto"
+    },
+    {
+      "country": "CO",
+      "fieldName": "stateRegistration",
+      "description": "Inscrição estadual da empresa",
+      "type": "Texto com o valor \"Isento\" ou um valor alfanumérico"
+    },
+    {
+      "country": "CR",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "HR",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "CZ",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "DK",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "DO",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "SV",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "FI",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "FR",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "DE",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "GR",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "HU",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "IN",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "ID",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "IE",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "IT",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "JM",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "JP",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "MT",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "NL",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "NZ",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "NI",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "PA",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "PY",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "PY",
+      "fieldName": "corporateName",
+      "description": "Razão social da empresa",
+      "type": "Texto"
+    },
+    {
+      "country": "PY",
+      "fieldName": "tradeName",
+      "description": "Nome fantasia da empresa",
+      "type": "Texto"
+    },
+    {
+      "country": "PL",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "PT",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "PR",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "RO",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "RU",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "SM",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "SA",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "RS",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "SG",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "SK",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "ZA",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "KR",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "ES",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "SE",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "TH",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "UA",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "AE",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "GB",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "US",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "US",
+      "fieldName": "corporateName",
+      "description": "Razão social da empresa",
+      "type": "Texto"
+    },
+    {
+      "country": "VE",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    },
+    {
+      "country": "MX",
+      "fieldName": "isCorporate",
+      "description": "Define se o cliente é pessoa jurídica",
+      "type": "Booleano. Deve apresentar o valor \"true\""
+    }
+  ],
+  "es": [
+    {
+      "country": "AU",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "AT",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "BE",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "BO",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "BR",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "BR",
+      "fieldName": "corporateName",
+      "description": "Razón social de la empresa",
+      "type": "Texto"
+    },
+    {
+      "country": "BR",
+      "fieldName": "tradeName",
+      "description": "Nombre comercial de la empresa",
+      "type": "Texto"
+    },
+    {
+      "country": "BR",
+      "fieldName": "corporateDocument",
+      "description": "Nro. de registro de persona jurídica de la empresa",
+      "type": "14 dígitos, sin enmascaramiento"
+    },
+    {
+      "country": "BG",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "CA",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "CL",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "CL",
+      "fieldName": "corporateName",
+      "description": "Razón social de la empresa",
+      "type": "Texto"
+    },
+    {
+      "country": "CL",
+      "fieldName": "tradeName",
+      "description": "Nombre comercial de la empresa",
+      "type": "Texto"
+    },
+    {
+      "country": "CL",
+      "fieldName": "corporateDocument",
+      "description": "Nro. de registro de persona jurídica de la empresa",
+      "type": "14 dígitos, sin enmascaramiento"
+    },
+    {
+      "country": "CO",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "CO",
+      "fieldName": "tradeName",
+      "description": "Nombre comercial de la empresa",
+      "type": "Texto"
+    },
+    {
+      "country": "CO",
+      "fieldName": "stateRegistration",
+      "description": "Registro estatal de la empresa",
+      "type": "Texto con el valor \"Exento\" o un valor alfanumérico"
+    },
+    {
+      "country": "CR",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "HR",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "CZ",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "DK",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "DO",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "SV",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "FI",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "FR",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "DE",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "GR",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "HU",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "IN",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "ID",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "IE",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "IT",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "JM",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "JP",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "MT",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "NL",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "NZ",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "NI",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "PA",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "PY",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "PY",
+      "fieldName": "corporateName",
+      "description": "Razón social de la empresa",
+      "type": "Texto"
+    },
+    {
+      "country": "PY",
+      "fieldName": "tradeName",
+      "description": "Nombre comercial de la empresa",
+      "type": "Texto"
+    },
+    {
+      "country": "PL",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "PT",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "PR",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "RO",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "RU",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "SM",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "SA",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "RS",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "SG",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "SK",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "ZA",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "KR",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "ES",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "SE",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "TH",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "UA",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "AE",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "GB",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "US",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "US",
+      "fieldName": "corporateName",
+      "description": "Razón social de la empresa",
+      "type": "Texto"
+    },
+    {
+      "country": "VE",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    },
+    {
+      "country": "MX",
+      "fieldName": "isCorporate",
+      "description": "Define si el cliente es una persona jurídica",
+      "type": "Booleano. Debe mostrar el valor \"true\""
+    }
+  ]
+}
