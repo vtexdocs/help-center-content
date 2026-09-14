@@ -2,5 +2,6 @@
   "id": "commerce-channels-category",
   "name": "Canales de venta",
   "slug": "canales-de-venta-category",
-  "order": 3
+  "order": 3,
+  "type": "divider"
 }
