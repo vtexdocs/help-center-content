@@ -1,7 +1,7 @@
 ---
 title: 'Eventos disponibles en Audit'
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2026-09-09T20:45:00.000Z
+updatedAt: 2026-09-14T00:00:00.000Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
@@ -468,6 +468,7 @@ En la columna **Acción**, todos los eventos de Headless CMS (Legacy) también m
 | DeleteSynonymRule | Eliminación de una regla de sinónimo. | ID de la regla. |
 | ActivateSynonymRule | Activación de una regla de sinónimo. | ID de la regla. |
 | DeactivateSynonymRule | Desactivación de una regla de sinónimo. | ID de la regla. |
+| CreateRedirect | Creación de una regla de redireccionamiento de búsqueda. | ID del redireccionamiento, términos de origen, ruta de destino, conjunción, modo de coincidencia, locales y si el redireccionamiento está activo. |
 
 ## Autenticador
 
