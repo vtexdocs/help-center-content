@@ -71,5 +71,5 @@ The service is available for all VTEX stores. To start using VTEX Pick and Pack,
 ## Learn More
 
 * [VTEX Pick and Pack](/en/docs/tutorials/vtex-pick-and-pack)  
-* [VTEX Fulfillment](/en/docs/tutorials/vtex-pick-and-pack-fulfillment)  
+* [VTEX Fulfillment](/en/docs/tutorials/vtex-pick-and-pack-orders)  
 * [VTEX Lastmile](/en/docs/tutorials/vtex-pick-and-pack-last-mile)  

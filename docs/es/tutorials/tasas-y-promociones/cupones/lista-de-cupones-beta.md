@@ -13,6 +13,9 @@ slugEN: coupons-list-beta
 legacySlug: lista-de-cupones-beta
 locale: es
 subcategoryId: 1TXh7VjDSIGA2eSI0CmUsi
+seeAlso:
+  - /es/docs/tutorials/cupones-beta
+  - /es/docs/tutorials/crear-cupon-beta
 ---
 
 La página __Cupones__ te permite visualizar todos los [cupones](/es/docs/tutorials/cupones-beta)  registrados en tu tienda, gestionar los datos de cada uno y analizar cuántas veces y en qué pedidos se usaron.
@@ -162,8 +165,3 @@ La ventana **Ver detalles de uso** muestra los datos de uso de cada cupón, que 
     Esta sección también muestra la lista de códigos en el lote de cupones y le permite buscar un código específico. Al hacer clic en un código, se accede a la lista de pedidos en los que se ha utilizado el código y se puede buscar por un número de pedido. Al hacer clic en un número de pedido, accederá a la página de detalles del pedido en **Gestión de pedidos**.
 
 ![selecciona-el-codigo-lotes-cupones](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/cupones/lista-de-cupones-beta_6.PNG)
-
-## Más información
-
-* [Cupones](/es/docs/tutorials/cupones-beta)
-* [Crear cupón](/es/docs/tutorials/crear-cupon-beta)

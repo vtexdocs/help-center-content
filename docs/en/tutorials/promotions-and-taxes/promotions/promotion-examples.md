@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-This article aims to illustrate some common promotion scenarios and how to configure them on VTEX. These scenarios do not exhaust all the possibilities for VTEX promotions, as there are several different types of situations that can be configured. At the end of this article, you will find a list of articles related to the Promotions menu. To learn about this menu, check our [Promotions track](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR).
+This article aims to illustrate some common promotion scenarios and how to configure them on VTEX. These scenarios do not exhaust all the possibilities for VTEX promotions, as there are several different types of situations that can be configured. At the end of this article, you will find a list of articles related to the Promotions menu. To learn about this menu, check our [Promotions track](/en/docs/tracks/how-promotions-work).
 
 ## Scenario 1
 
