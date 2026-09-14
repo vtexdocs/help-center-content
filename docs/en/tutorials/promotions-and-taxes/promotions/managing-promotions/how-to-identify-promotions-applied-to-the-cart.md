@@ -13,6 +13,9 @@ slugEN: how-to-identify-promotions-applied-to-the-cart
 legacySlug: how-to-identify-promotions-applied-to-the-cart
 locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
+seeAlso:
+  - /en/docs/tracks/how-promotions-work
+  - /en/docs/tutorials/how-to-identify-promotions-attributed-to-an-sku
 ---
 
 There are four ways to understand which promotions are being applied to the cart. Check out the following sections to understand them:
@@ -72,8 +75,3 @@ Follow the step-by-step instructions to find the `orderForm` and identify the pr
 The Promotions Simulator is a tool that allows you to see not only the promotions created in the VTEX platform and which were applied to the shopping cart, but also their activation conditions. Since there are multiple configurations for the promotions, it is important to be able to see the [competition](/en/docs/tutorials/how-promotion-competition-works), the combination of promotions during the purchase and the causes that trigger them.
 
 For more information, read the [Promotions Simulator (Beta)](/en/docs/tutorials/promotions-simulator-beta) article.
-
-## Learn more
-
-* [How promotions work](/en/docs/tracks/how-promotions-work)
-* [How to identify promotions attributed to an SKU?](/en/docs/tutorials/how-to-identify-promotions-attributed-to-an-sku)
