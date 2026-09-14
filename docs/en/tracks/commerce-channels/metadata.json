@@ -2,5 +2,6 @@
   "id": "commerce-channels-category",
   "name": "Commerce Channels",
   "slug": "commerce-channels-category",
-  "order": 3
+  "order": 3,
+  "type": "divider"
 }
