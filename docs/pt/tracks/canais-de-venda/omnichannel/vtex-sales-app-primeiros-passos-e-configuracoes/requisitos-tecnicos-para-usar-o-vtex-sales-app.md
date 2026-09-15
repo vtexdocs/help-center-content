@@ -17,60 +17,60 @@ Este artigo descreve os requisitos técnicos para usar o **VTEX Sales App**.
 
 ## Equipamento obrigatório
 
-Para usar o **Sales App**, algumas ferramentas são de uso obrigatório.
+Para usar o **Sales App**, os equipamentos a seguir são obrigatórios.
 
 > ⚠️ Recomendamos reservar um espaço seguro na sua loja para armazenar os equipamentos.
 
-### Tablets e smartphones
+### Tablets, smartphones e totens touch screen
 
-A loja precisa dispor de pelo menos um dispositivo móvel. Para manter o bom funcionamento da sua operação, recomendamos ter mais dispositivos do que vendedores, desta forma, os aparelhos podem ser rapidamente trocados em caso de falha, dano ou esgotamento da bateria.
+A loja precisa dispor de pelo menos um dispositivo móvel. Para manter o bom funcionamento da operação, recomendamos ter mais dispositivos do que vendedores. Dessa forma, os aparelhos podem ser trocados rapidamente em caso de falha, dano ou esgotamento da bateria.
 
-Os dispositivos preferencialmente devem estar atualizados com a versão mais recente do sistema operacional e, no mínimo, precisam ter compatibilidade com:
+Preferencialmente, os dispositivos devem estar atualizados com a versão mais recente do sistema operacional. No mínimo, precisam ser compatíveis com:
 
 - Três versões mais recentes do **iOS**
 - Quatro versões mais recentes do **Android**
 
-Os dispositivos utilizados precisam ter conexão à internet, podendo ser por meio de rede Wi-Fi ou 4G/5G.
+Os dispositivos utilizados precisam ter conexão com a internet, por rede Wi-Fi ou 4G/5G.
 
-> ℹ️ Recomendamos que os dispositivos móveis tenham chips 4G, para que sua loja continue funcionando normalmente, mesmo em situações em que a rede Wi-Fi apresente algum problema.
+> ℹ️ Recomendamos que os dispositivos móveis tenham chip 4G/5G, para que a loja continue funcionando normalmente mesmo se a rede Wi-Fi apresentar algum problema.
 
 ### Computadores
 
-Recomendamos que a loja disponha de pelo menos um computador, que pode ser de qualquer sistema operacional. Para **Windows**, existem os seguintes requisitos:
+Recomendamos que a loja disponha de pelo menos um computador. Para o sistema operacional **Windows**, os requisitos são:
 
-- Sistema operacional **Windows 8** ou mais recente (recomendado).
-- Processador **Intel i3+** ou **AMD Phenom II X4**, mínimo **Intel i3+**.
-- Memória RAM de **4GB** ou superior.
-- HD/SSD de **120GB** ou superior.
+- Sistema operacional **Windows 8** ou mais recente
+- Processador **Intel i3+** ou **AMD Phenom II X4**
+- Memória RAM de **4 GB** ou superior
+- HD/SSD de **120 GB** ou superior
 
 ### Roteador e internet
 
-Dispor de conexão com a internet é fundamental para o uso do **Sales App** e os requisitos mínimos e recomendações adicionais para a conexão são:
+A conexão com a internet é fundamental para o uso do **Sales App**. Os requisitos mínimos e as recomendações adicionais são:
 
 | Equipamento | Requisitos mínimos | Recomendações adicionais |
-| :---: | :---: | :---: |
-| Roteador | Com padrão da conexão 2.4Ghz (802.11 N) e conexão do dispositivo com o router 20 Mbps. | Com padrão da conexão 5.0Ghz 802.11 AC (o celular terá que ser dual band) e conexão do device com o router 40 Mbps. |
-| Internet | Com velocidade do link 2 Mbps (chegando ao dispositivo, ou seja, o que aparece no speedtest no celular). | Com velocidade do link 5 Mbps (chegando ao dispositivo, ou seja, o que aparece no speedtest no celular). |
+| :--- | :--- | :--- |
+| Roteador | Padrão 2.4 GHz (802.11n) e conexão do dispositivo com o roteador de 20 Mbps | Padrão 5 GHz (802.11ac). O celular precisa ser dual-band. Conexão do dispositivo com o roteador de 40 Mbps |
+| Internet | Velocidade do link de 2 Mbps no dispositivo (resultado do teste de velocidade no celular) | Velocidade do link de 5 Mbps no dispositivo (resultado do teste de velocidade no celular) |
 
 ## Equipamento adicional (opcional)
 
-Apesar de não obrigatórios, recomendamos o uso de alguns equipamentos adicionais para obter a melhor experiência com o **Sales App**.
+Embora não sejam obrigatórios, recomendamos alguns equipamentos adicionais para obter a melhor experiência com o **VTEX Sales App**.
 
 ### Leitor de código de barras
 
-O **Sales App** permite a leitura do código de barras dos produtos usando a câmera do tablet ou smartphone, mas a melhor performance é obtida com um leitor de código de barras dedicado. Por isso, para obter maior agilidade e precisão na finalização da compra, recomendamos que a loja disponha de um leitor de código de barras.
+O **Sales App** permite ler o código de barras dos produtos com a câmera do tablet ou smartphone, mas o melhor desempenho é obtido com um leitor dedicado. Para maior agilidade e precisão na finalização da compra, recomendamos que a loja disponha de um leitor de código de barras.
 
-> ℹ️ Para usar o leitor de código de barras com o **Sales App**, você precisa cadastrar o código de barras do produto no catálogo, conforme descrito em [Cadastrar o código de barras dos SKUs para o VTEX Sales App](https://help.vtex.com/pt/docs/tracks/cadastrar-o-codigo-de-barras-dos-skus-para-o-vtex-sales-app).
+> ℹ️ Para usar o leitor de código de barras com o **Sales App**, cadastre o código de barras do produto no Catálogo, conforme descrito em [Cadastrar o código de barras dos SKUs para o VTEX Sales App](/pt/docs/tracks/cadastrar-o-codigo-de-barras-dos-skus-para-o-vtex-sales-app).
 
 ### Máquinas de cartão de crédito
 
-As máquinas de cartão de crédito (Bluetooth ou USB) permitem que as lojas físicas processem os pagamentos. Elas são oferecidas por parceiros de pagamento, sejam eles adquirentes ou sub-adquirentes.
+As máquinas de cartão de crédito (Bluetooth ou USB) permitem que as lojas físicas processem os pagamentos. Elas são oferecidas por parceiros de pagamento, sejam adquirentes ou subadquirentes.
 
-No contexto do **Sales App**, recomendamos que as lojas contratem empresas para [pagamento](#pagamento) e [faturamento](#faturamento) que possuem uma parceria com a VTEX.
+No contexto do **Sales App**, recomendamos que as lojas contratem empresas de [pagamento](#pagamento) e [faturamento](#faturamento) que tenham parceria com a VTEX.
 
-## Parcerias empresarias VTEX (opcional)
+## Parcerias empresariais VTEX (opcional)
 
-Para facilitar a operação das lojas e oferecer maior segurança, a VTEX realiza parcerias com algumas empresas. No caso do **Sales App**, se tratam de empresas que viabilizam a operação de lojas físicas, e esta seção listadas quais são as principais.
+Para facilitar a operação das lojas e oferecer maior segurança, a VTEX realiza parcerias com algumas empresas. No caso do **Sales App**, são empresas que viabilizam a operação de lojas físicas. Esta seção lista as principais.
 
 > ℹ️ Além as parcerias empresariais apresentadas neste artigo, a VTEX conta com a participação de diversas agências e [parceiros de implementação (System Integration Partners)](https://vtex.com/br-pt/partner/). Para mais informações, entre em contato com o [Suporte VTEX](https://vtex.com/br/support).
 
@@ -81,7 +81,7 @@ Para facilitar a operação das lojas e oferecer maior segurança, a VTEX realiz
 
 ### Pagamento
 
-- Pagarme
+- Pagar.me
 - Adyen
 - Cielo
 
