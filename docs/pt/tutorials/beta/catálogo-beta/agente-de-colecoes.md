@@ -72,8 +72,8 @@ Não existe, atualmente, uma forma automática de incluir todos os produtos do c
 
 Pontos de atenção comuns a essas opções:
 
-- Categorias, marcas ou especificações **inativas** entram na coleção, mas seus produtos não aparecem na navegação enquanto estiverem inativos. Se forem ativadas depois, os produtos passam a aparecer.
-- Se uma categoria, marca ou especificação for **desativada** após a criação da coleção, seus produtos permanecem na coleção, mas deixam de aparecer na navegação.
+- Categorias, marcas ou especificações **inativas** entram na coleção, mas seus produtos não aparecem na navegação enquanto estiverem inativos. Se forem ativadas depois, os produtos passam a aparecer (regra do [Intelligent Search](https://help.vtex.com/pt/docs/tutorials/intelligent-search-visao-geral)).
+- Se uma categoria, marca ou especificação for **desativada** após a criação da coleção, seus produtos permanecem na coleção, mas deixam de aparecer na navegação (regra do **Intelligent Search**).
 - Categorias e marcas **criadas após** a coleção não são incluídas automaticamente.
 - Uma categoria, marca ou especificação **removida** do catálogo após a criação da coleção retira seus produtos da coleção.
 - No caso da especificação de produto, produtos sem a especificação, com o valor em branco ou com valor diferente ficam de fora.
