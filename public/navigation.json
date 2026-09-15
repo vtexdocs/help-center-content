@@ -33523,12 +33523,12 @@
                 },
                 {
                   "name": {
-                    "en": "Configuring extra safety layers per project",
+                    "en": "Configuring extra safety guardrails per project",
                     "es": "Configurar capas adicionales de seguridad por proyecto",
                     "pt": "Configurar camadas extras de segurança por projeto"
                   },
                   "slug": {
-                    "en": "configuring-safety-guardrails-per-project",
+                    "en": "configuring-extra-safety-guardrails-per-project",
                     "es": "configurar-capas-adicionales-de-seguridad-por-proyecto",
                     "pt": "configurar-camadas-extras-de-seguranca-por-projeto"
                   },
@@ -44803,6 +44803,21 @@
                 "en": "checkout-pipeline-doesnt-update-taxes-considering-the-correct-seller-when-merging-cart-information",
                 "es": "el-proceso-de-pago-no-actualiza-los-impuestos-teniendo-en-cuenta-el-vendedor-correcto-al-combinar-la-informacion-del-carrito",
                 "pt": "o-fluxo-de-checkout-nao-atualiza-os-impostos-considerando-o-vendedor-correto-ao-consolidar-as-informacoes-do-carrinho"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Checkout shipping step does not advance to payments step in Argentina",
+                "es": "En Argentina, el paso de envío al finalizar la compra no avanza al paso de pago.",
+                "pt": "Na Argentina, a etapa de finalização da compra relacionada ao envio não avança para a etapa de pagamento."
+              },
+              "slug": {
+                "en": "checkout-shipping-step-does-not-advance-to-payments-step-in-argentina",
+                "es": "en-argentina-el-paso-de-envio-al-finalizar-la-compra-no-avanza-al-paso-de-pago",
+                "pt": "na-argentina-a-etapa-de-finalizacao-da-compra-relacionada-ao-envio-nao-avanca-para-a-etapa-de-pagamento"
               },
               "origin": "",
               "type": "markdown",
@@ -58295,13 +58310,13 @@
             {
               "name": {
                 "en": "Refund limited incorrectly due to duplicated receipt from race condition (OMS invoice/restutions)",
-                "es": "Reembolso limitado incorrectamente debido a un recibo duplicado por una condición de carrera (factura OMS/reembolsos)",
-                "pt": "Reembolso limitado incorretamente devido a um recibo duplicado causado por uma condição de corrida (fatura OMS/restituições)"
+                "es": "Reembolso limitado incorrectamente debido a un recibo duplicado de la condición de carrera (factura/restos de OMS)",
+                "pt": "O reembolso foi limitado incorretamente devido a um recibo duplicado referente à condição da corrida (nota fiscal/restituições da OMS)."
               },
               "slug": {
                 "en": "refund-limited-incorrectly-due-to-duplicated-receipt-from-race-condition-oms-invoicerestutions",
-                "es": "reembolso-limitado-incorrectamente-debido-a-un-recibo-duplicado-por-una-condicion-de-carrera-factura-omsreembolsos",
-                "pt": "reembolso-limitado-incorretamente-devido-a-um-recibo-duplicado-causado-por-uma-condicao-de-corrida-fatura-omsrestituicoes"
+                "es": "reembolso-limitado-incorrectamente-debido-a-un-recibo-duplicado-de-la-condicion-de-carrera-facturarestos-de-oms",
+                "pt": "o-reembolso-foi-limitado-incorretamente-devido-a-um-recibo-duplicado-referente-a-condicao-da-corrida-nota-fiscalrestituicoes-da-oms"
               },
               "origin": "",
               "type": "markdown",
@@ -61500,6 +61515,21 @@
                 "en": "payment-created-without-connector-leads-to-canceled-transaction",
                 "es": "el-pago-creado-sin-conector-provoca-la-cancelacion-de-la-transaccion",
                 "pt": "o-pagamento-criado-sem-conector-leva-ao-cancelamento-da-transacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Payment does not advance to Canceled after a successful cancellation call",
+                "es": "El pago no se realiza después de una llamada de cancelación exitosa.",
+                "pt": "O pagamento não é transferido para o número cancelado após uma chamada de cancelamento bem-sucedida."
+              },
+              "slug": {
+                "en": "payment-does-not-advance-to-canceled-after-a-successful-cancellation-call",
+                "es": "el-pago-no-se-realiza-despues-de-una-llamada-de-cancelacion-exitosa",
+                "pt": "o-pagamento-nao-e-transferido-para-o-numero-cancelado-apos-uma-chamada-de-cancelamento-bemsucedida"
               },
               "origin": "",
               "type": "markdown",
