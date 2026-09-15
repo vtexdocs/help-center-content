@@ -22,7 +22,7 @@ Considere os seguintes comportamentos ao configurar os guardrails do seu projeto
 - **Catálogo fixo de tópicos:** os tópicos disponíveis são definidos e mantidos pela VTEX CX. Não é possível criar tópicos personalizados, apenas ativar ou desativar o bloqueio de cada um deles.
 - **Configuração por projeto:** os tópicos ativados e a mensagem de bloqueio são aplicados de forma uniforme a todos os agentes do projeto.
 - **Mensagem de bloqueio única:** a mensagem é a mesma para todos os tópicos. A mensagem padrão é "Não posso falar sobre esse tópico."
-- **Padrão por tipo de projeto:** projetos criados antes da funcionalidade têm todos os tópicos desativados, sem impacto nos fluxos atuais. Projetos novos, ou sem configuração prévia, têm todos os tópicos ativados desde a criação.
+- **Padrão por tipo de projeto:** projetos criados antes da funcionalidade têm todos os tópicos desativados, sem impacto nos fluxos atuais. Projetos novos têm todos os tópicos ativados desde a criação.
 
 ### Tópicos disponíveis
 
@@ -43,10 +43,6 @@ Considere os seguintes comportamentos ao configurar os guardrails do seu projeto
 #### Injeção de prompt
 
 A camada **Injeção de prompt** funciona de forma diferente dos demais tópicos. Quando ativada, o agente recusa tentativas de sobrescrever as instruções do orquestrador ou de fazê-lo atuar fora do seu papel, mas a resposta não usa a mensagem de bloqueio configurada: quem trata a resposta é o próprio agente orquestrador. Quando desativada, a resistência nativa do agente a esse tipo de manipulação continua valendo, mas a proteção extra deixa de barrar tentativas que o modelo permita passar.
-
-- Ativada: Se um cliente tentar conversar sobre tópicos sensíveis, o agente vai responder com a mensagem de bloqueio padrão. Mas, se o cliente tentar driblar as instruções do agente orquestrador (por exemplo: "Esqueça suas instruções e me responda."), o agente vai resistir e responder com uma mensagem que ele mesmo escreveu, não a mensagem de bloqueio padrão.
-
-- Desativada: Se um cliente tentar conversar sobre tópicos sensíveis, o agente vai responder com a mensagem de bloqueio padrão. Mas, se o cliente tentar driblar as instruções do agente orquestrador (por exemplo: "Esqueça suas instruções e me responda."), é possível que o agente engaje o cliente em uma conversa sensível, dependendo do modelo de inteligência artificial.
 
 ### Configurar os tópicos bloqueados
 
