@@ -1,12 +1,12 @@
 ---
-
-## title: 'Mapear produtos e marcas no catálogo do VTEX Ads'
+title: 'Mapear produtos e marcas no catálogo do VTEX Ads'
 createdAt: 2026-09-10T00:00:00.000Z
 updatedAt: 2026-09-10T00:00:00.000Z
 contentType: tutorial
 productTeam: Ads
 slugEN: map-products-and-brands-in-vtex-ads-catalog
 locale: pt
+---
 
 No [VTEX Ads](/pt/docs/tracks/retail-media), o **Catálogo de produtos** é onde a conta de anunciante informa quais SKUs dos publishers pertencem a cada uma das suas marcas. Esse mapeamento é feito uma única vez e é o que permite à plataforma calcular as [métricas de Novos Compradores da Marca (NCM)](/pt/docs/tutorials/metricas-de-novos-compradores-da-marca-no-vtex-ads).
 
