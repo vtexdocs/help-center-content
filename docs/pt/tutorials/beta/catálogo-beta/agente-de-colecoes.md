@@ -164,7 +164,7 @@ Em uma conversa contínua, o **Agente de Coleções** não substitui o estado at
 
 O refinamento de coleções a partir de novas instruções vale tanto para uma coleção sendo montada quanto para uma coleção que já foi criada.
 
-> ❗ O **Agente de Coleções** checa o impacto da edição. Ou seja, antes de aplicar alterações de alto impacto, como editar uma coleção compartilhada por vários sortimentos, o agente mostra quais coleções e sortimentos serão afetados e solicita sua confirmação antes de executar.
+> ℹ️ O **Agente de Coleções** checa o impacto da edição. Ou seja, antes de aplicar alterações de alto impacto, como editar uma coleção compartilhada por vários sortimentos, o agente mostra quais coleções e sortimentos serão afetados e solicita sua confirmação antes de executar.
 
 ### Buscar, filtrar e listar coleções
 
