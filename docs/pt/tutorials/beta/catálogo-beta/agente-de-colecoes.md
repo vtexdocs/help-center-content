@@ -18,7 +18,7 @@ A [coleção](https://help.vtex.com/pt/docs/tutorials/tipos-de-colecao) é o agr
 
 ## Diferença entre o agente e a interface legada
 
-Além de permitir realizar tudo o que era feito pela interface legada, o **Agente de Coleções** oferece outras vantagens:
+Além de permitir realizar tudo o que era feito pela [interface legada](https://help.vtex.com/pt/docs/tutorials/criando-colecao-de-produtos), o **Agente de Coleções** oferece outras vantagens:
 
 - Uma experiência conversacional intuitiva.
 - A possibilidade de criar e gerenciar coleções e sortimentos a partir de regras inclusivas e exclusivas.
