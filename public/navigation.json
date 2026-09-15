@@ -44765,6 +44765,21 @@
             },
             {
               "name": {
+                "en": "Checkout shipping step does not advance to payments step in Argentina",
+                "es": "En Argentina, el paso de envío al finalizar la compra no avanza al paso de pago.",
+                "pt": "Na Argentina, a etapa de finalização da compra relacionada ao envio não avança para a etapa de pagamento."
+              },
+              "slug": {
+                "en": "checkout-shipping-step-does-not-advance-to-payments-step-in-argentina",
+                "es": "en-argentina-el-paso-de-envio-al-finalizar-la-compra-no-avanza-al-paso-de-pago",
+                "pt": "na-argentina-a-etapa-de-finalizacao-da-compra-relacionada-ao-envio-nao-avanca-para-a-etapa-de-pagamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Checkout shows payment methods without eligible installment options",
                 "es": "La caja muestra métodos de pago sin opciones de pago a plazos elegibles",
                 "pt": "O checkout mostra métodos de pagamento sem opções de parcelamento qualificadas"
@@ -46101,8 +46116,8 @@
             {
               "name": {
                 "en": "Order cannot be created when seller has a different Country Code",
-                "es": "No se puede crear un pedido si el vendedor tiene un código de país diferente",
-                "pt": "Não é possível criar um pedido quando o vendedor possui um código de país diferente"
+                "es": "No se puede crear un pedido si el vendedor tiene un código de país diferente.",
+                "pt": "Não é possível criar um pedido quando o vendedor possui um código de país diferente."
               },
               "slug": {
                 "en": "order-cannot-be-created-when-seller-has-a-different-country-code",
@@ -48382,6 +48397,21 @@
             },
             {
               "name": {
+                "en": "Saving CMS content in a non-default binding locale can silently overwrite the default-locale content and hide the correct translation",
+                "es": "Guardar el contenido del CMS en una configuración regional de enlace distinta a la predeterminada puede sobrescribir silenciosamente el contenido de la configuración regional predeterminada y ocultar la traducción correcta.",
+                "pt": "Salvar conteúdo do CMS em uma localidade de vinculação diferente da padrão pode sobrescrever silenciosamente o conteúdo da localidade padrão e ocultar a tradução correta."
+              },
+              "slug": {
+                "en": "saving-cms-content-in-a-nondefault-binding-locale-can-silently-overwrite-the-defaultlocale-content-and-hide-the-correct-translation",
+                "es": "guardar-el-contenido-del-cms-en-una-configuracion-regional-de-enlace-distinta-a-la-predeterminada-puede-sobrescribir-silenciosamente-el-contenido-de-la-configuracion-regional-predeterminada-y-ocultar-la-traduccion-correcta",
+                "pt": "salvar-conteudo-do-cms-em-uma-localidade-de-vinculacao-diferente-da-padrao-pode-sobrescrever-silenciosamente-o-conteudo-da-localidade-padrao-e-ocultar-a-traducao-correta"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Scheduled banners doesn't work properly",
                 "es": "Los banners programados no funcionan correctamente",
                 "pt": "Os banners programados não funcionam corretamente"
@@ -50424,13 +50454,13 @@
             {
               "name": {
                 "en": "Shopee Brand attribute not sent or overwritten during product sync",
-                "es": "Shopee Atributo de marca no enviado o sobrescrito durante la sincronización del producto",
-                "pt": "Shopee Atributo de marca não enviado ou sobrescrito durante a sincronização do produto"
+                "es": "Shopee El atributo de marca no se envió o se sobrescribió durante la sincronización del producto.",
+                "pt": "Shopee O atributo da marca não foi enviado ou foi sobrescrito durante a sincronização do produto"
               },
               "slug": {
                 "en": "shopee-brand-attribute-not-sent-or-overwritten-during-product-sync",
-                "es": "shopee-atributo-de-marca-no-enviado-o-sobrescrito-durante-la-sincronizacion-del-producto",
-                "pt": "shopee-atributo-de-marca-nao-enviado-ou-sobrescrito-durante-a-sincronizacao-do-produto"
+                "es": "shopee-el-atributo-de-marca-no-se-envio-o-se-sobrescribio-durante-la-sincronizacion-del-producto",
+                "pt": "shopee-o-atributo-da-marca-nao-foi-enviado-ou-foi-sobrescrito-durante-a-sincronizacao-do-produto"
               },
               "origin": "",
               "type": "markdown",
@@ -57305,13 +57335,13 @@
             {
               "name": {
                 "en": "Error when viewing the Call center operator profile (restricted orders view)",
-                "es": "Error al visualizar el perfil del operador del centro de llamadas (vista restringida de pedidos)",
-                "pt": "Erro ao visualizar o perfil do operador do call center (visualização de ordens restritas)"
+                "es": "Error al visualizar el perfil del operador del centro de llamadas (vista de pedidos restringida).",
+                "pt": "Erro ao visualizar o perfil do operador do call center (visualização de pedidos restritos)"
               },
               "slug": {
                 "en": "error-when-viewing-the-call-center-operator-profile-restricted-orders-view",
-                "es": "error-al-visualizar-el-perfil-del-operador-del-centro-de-llamadas-vista-restringida-de-pedidos",
-                "pt": "erro-ao-visualizar-o-perfil-do-operador-do-call-center-visualizacao-de-ordens-restritas"
+                "es": "error-al-visualizar-el-perfil-del-operador-del-centro-de-llamadas-vista-de-pedidos-restringida",
+                "pt": "erro-ao-visualizar-o-perfil-do-operador-do-call-center-visualizacao-de-pedidos-restritos"
               },
               "origin": "",
               "type": "markdown",
@@ -57575,8 +57605,8 @@
             {
               "name": {
                 "en": "Issues with My Account links",
-                "es": "Problemas con los enlaces de «Mi cuenta»",
-                "pt": "Problemas com os links da minha conta"
+                "es": "Problemas con los enlaces de Mi cuenta",
+                "pt": "Problemas com os links da Minha Conta"
               },
               "slug": {
                 "en": "issues-with-my-account-links",
@@ -57846,12 +57876,12 @@
               "name": {
                 "en": "Order Authorization lessThan 100 goes with the flow",
                 "es": "La autorización de pedidos inferiores a 100 se adapta a las circunstancias",
-                "pt": "A autorização de pedidos inferiores a 100 segue o fluxo"
+                "pt": "Autorização de pedido inferior a 100 segue o fluxo normal."
               },
               "slug": {
                 "en": "order-authorization-lessthan-100-goes-with-the-flow",
                 "es": "la-autorizacion-de-pedidos-inferiores-a-100-se-adapta-a-las-circunstancias",
-                "pt": "a-autorizacao-de-pedidos-inferiores-a-100-segue-o-fluxo"
+                "pt": "autorizacao-de-pedido-inferior-a-100-segue-o-fluxo-normal"
               },
               "origin": "",
               "type": "markdown",
@@ -58370,13 +58400,13 @@
             {
               "name": {
                 "en": "Returned package as delivering to final customer on my account",
-                "es": "Paquete devuelto como entrega a cliente final en mi cuenta",
-                "pt": "Pacote devolvido como entrega ao cliente final em minha conta"
+                "es": "Paquete devuelto como entregado al cliente final en mi cuenta.",
+                "pt": "Pacote devolvido por ter sido entregue ao cliente final em minha conta."
               },
               "slug": {
                 "en": "returned-package-as-delivering-to-final-customer-on-my-account",
-                "es": "paquete-devuelto-como-entrega-a-cliente-final-en-mi-cuenta",
-                "pt": "pacote-devolvido-como-entrega-ao-cliente-final-em-minha-conta"
+                "es": "paquete-devuelto-como-entregado-al-cliente-final-en-mi-cuenta",
+                "pt": "pacote-devolvido-por-ter-sido-entregue-ao-cliente-final-em-minha-conta"
               },
               "origin": "",
               "type": "markdown",
@@ -58430,13 +58460,13 @@
             {
               "name": {
                 "en": "SKU price value being displayed incorrectly in My order detail",
-                "es": "El valor del precio SKU se muestra incorrectamente en el detalle de Mi pedido",
-                "pt": "Valor do preço da SKU sendo exibido incorretamente nos detalhes do meu pedido"
+                "es": "El valor del precio del SKU se muestra incorrectamente en los detalles de mi pedido.",
+                "pt": "O valor do preço do SKU está sendo exibido incorretamente nos detalhes do meu pedido."
               },
               "slug": {
                 "en": "sku-price-value-being-displayed-incorrectly-in-my-order-detail",
-                "es": "el-valor-del-precio-sku-se-muestra-incorrectamente-en-el-detalle-de-mi-pedido",
-                "pt": "valor-do-preco-da-sku-sendo-exibido-incorretamente-nos-detalhes-do-meu-pedido"
+                "es": "el-valor-del-precio-del-sku-se-muestra-incorrectamente-en-los-detalles-de-mi-pedido",
+                "pt": "o-valor-do-preco-do-sku-esta-sendo-exibido-incorretamente-nos-detalhes-do-meu-pedido"
               },
               "origin": "",
               "type": "markdown",
@@ -58520,13 +58550,13 @@
             {
               "name": {
                 "en": "Split Orders sharing transaction with Change Seller the status flow is broken",
-                "es": "Órdenes divididas compartiendo transacción con Vendedor de cambios el flujo de estado está roto",
-                "pt": "Transação de compartilhamento de ordens divididas com o Change Seller: o fluxo de status é interrompido"
+                "es": "Al compartir la transacción de órdenes divididas con el cambio de vendedor, el flujo de estado está roto.",
+                "pt": "Ao dividir pedidos compartilhando transações com a alteração do vendedor, o fluxo de status está interrompido."
               },
               "slug": {
                 "en": "split-orders-sharing-transaction-with-change-seller-the-status-flow-is-broken",
-                "es": "ordenes-divididas-compartiendo-transaccion-con-vendedor-de-cambios-el-flujo-de-estado-esta-roto",
-                "pt": "transacao-de-compartilhamento-de-ordens-divididas-com-o-change-seller-o-fluxo-de-status-e-interrompido"
+                "es": "al-compartir-la-transaccion-de-ordenes-divididas-con-el-cambio-de-vendedor-el-flujo-de-estado-esta-roto",
+                "pt": "ao-dividir-pedidos-compartilhando-transacoes-com-a-alteracao-do-vendedor-o-fluxo-de-status-esta-interrompido"
               },
               "origin": "",
               "type": "markdown",
@@ -58579,14 +58609,29 @@
             },
             {
               "name": {
+                "en": "Subscription dashboard gets refreshed repeatedly",
+                "es": "El panel de suscripción se actualiza repetidamente.",
+                "pt": "O painel de controle de assinaturas é atualizado repetidamente."
+              },
+              "slug": {
+                "en": "subscription-dashboard-gets-refreshed-repeatedly",
+                "es": "el-panel-de-suscripcion-se-actualiza-repetidamente",
+                "pt": "o-painel-de-controle-de-assinaturas-e-atualizado-repetidamente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Subscription event history out of order",
                 "es": "El historial de eventos de la suscripción no está en orden",
-                "pt": "Histórico de eventos de assinatura fora de ordem"
+                "pt": "O histórico de eventos da assinatura está fora de ordem."
               },
               "slug": {
                 "en": "subscription-event-history-out-of-order",
                 "es": "el-historial-de-eventos-de-la-suscripcion-no-esta-en-orden",
-                "pt": "historico-de-eventos-de-assinatura-fora-de-ordem"
+                "pt": "o-historico-de-eventos-da-assinatura-esta-fora-de-ordem"
               },
               "origin": "",
               "type": "markdown",
@@ -58670,13 +58715,28 @@
             {
               "name": {
                 "en": "Subscriptions when the seller is a Pickup Point and does not have one of the SKUs.",
-                "es": "Suscripciones cuando el vendedor es un Punto de Recogida y no tiene una de las SKU.",
-                "pt": "Assinaturas quando o vendedor é um Pickup Point e não tem um dos SKUs."
+                "es": "Suscripciones cuando el vendedor es un punto de recogida y no tiene uno de los SKU.",
+                "pt": "Assinaturas quando o vendedor é um Ponto de Coleta e não possui um dos SKUs."
               },
               "slug": {
                 "en": "subscriptions-when-the-seller-is-a-pickup-point-and-does-not-have-one-of-the-skus",
-                "es": "suscripciones-cuando-el-vendedor-es-un-punto-de-recogida-y-no-tiene-una-de-las-sku",
-                "pt": "assinaturas-quando-o-vendedor-e-um-pickup-point-e-nao-tem-um-dos-skus"
+                "es": "suscripciones-cuando-el-vendedor-es-un-punto-de-recogida-y-no-tiene-uno-de-los-sku",
+                "pt": "assinaturas-quando-o-vendedor-e-um-ponto-de-coleta-e-nao-possui-um-dos-skus"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "The automatic tracking update is not working properly",
+                "es": "La actualización automática del seguimiento no funciona correctamente.",
+                "pt": "A atualização automática do rastreamento não está funcionando corretamente."
+              },
+              "slug": {
+                "en": "the-automatic-tracking-update-is-not-working-properly",
+                "es": "la-actualizacion-automatica-del-seguimiento-no-funciona-correctamente",
+                "pt": "a-atualizacao-automatica-do-rastreamento-nao-esta-funcionando-corretamente"
               },
               "origin": "",
               "type": "markdown",
@@ -58925,13 +58985,13 @@
             {
               "name": {
                 "en": "Wrong value for priceDefinition in the chain order for a multilevel marketplace",
-                "es": "Valor incorrecto en la definición de «priceDefinition» en la cadena de pedidos de un mercado multinivel",
-                "pt": "Valor incorreto para a definição de preço na ordem da cadeia de um marketplace multinível"
+                "es": "Valor incorrecto para priceDefinition en el orden de la cadena para un mercado multinivel.",
+                "pt": "Valor incorreto para a definição de preço na ordem em cadeia para um marketplace multinível"
               },
               "slug": {
                 "en": "wrong-value-for-pricedefinition-in-the-chain-order-for-a-multilevel-marketplace",
-                "es": "valor-incorrecto-en-la-definicion-de-pricedefinition-en-la-cadena-de-pedidos-de-un-mercado-multinivel",
-                "pt": "valor-incorreto-para-a-definicao-de-preco-na-ordem-da-cadeia-de-um-marketplace-multinivel"
+                "es": "valor-incorrecto-para-pricedefinition-en-el-orden-de-la-cadena-para-un-mercado-multinivel",
+                "pt": "valor-incorreto-para-a-definicao-de-preco-na-ordem-em-cadeia-para-um-marketplace-multinivel"
               },
               "origin": "",
               "type": "markdown",
@@ -61417,6 +61477,21 @@
             },
             {
               "name": {
+                "en": "Payment does not advance to Canceled after a successful cancellation call",
+                "es": "El pago no se realiza después de una llamada de cancelación exitosa.",
+                "pt": "O pagamento não é transferido para o número cancelado após uma chamada de cancelamento bem-sucedida."
+              },
+              "slug": {
+                "en": "payment-does-not-advance-to-canceled-after-a-successful-cancellation-call",
+                "es": "el-pago-no-se-realiza-despues-de-una-llamada-de-cancelacion-exitosa",
+                "pt": "o-pagamento-nao-e-transferido-para-o-numero-cancelado-apos-uma-chamada-de-cancelamento-bemsucedida"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Payment methods displayed at checkout differ from active payment conditions",
                 "es": "Los métodos de pago que se muestran al finalizar la compra difieren de las condiciones de pago vigentes",
                 "pt": "Os métodos de pagamento exibidos na finalização da compra diferem das condições de pagamento ativas"
@@ -62482,6 +62557,21 @@
             },
             {
               "name": {
+                "en": "Transaction stuck in Approved with settled payments - blocking invoicing",
+                "es": "Transacción atascada en estado Aprobado con pagos liquidados: se bloquea la facturación.",
+                "pt": "Transação travada em \"Aprovada\" com pagamentos liquidados - bloqueando a emissão de faturas."
+              },
+              "slug": {
+                "en": "transaction-stuck-in-approved-with-settled-payments-blocking-invoicing",
+                "es": "transaccion-atascada-en-estado-aprobado-con-pagos-liquidados-se-bloquea-la-facturacion",
+                "pt": "transacao-travada-em-aprovada-com-pagamentos-liquidados-bloqueando-a-emissao-de-faturas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transaction Stuck in Authorized Or Pending Authorization Status After Being Approved",
                 "es": "Transacción bloqueada en estado autorizado o pendiente de autorización después de haber sido aprobada",
                 "pt": "Transação bloqueada no status de autorização autorizada ou pendente após ser aprovada"
@@ -62738,13 +62828,13 @@
             {
               "name": {
                 "en": "Transactions stuck in \"Canceling\" and payments remain in \"Authorized\"",
-                "es": "Las transacciones se quedan en «Cancelando» y los pagos siguen en «Autorizados»",
-                "pt": "Transações presas no status “Cancelando” e pagamentos permanecem no status “Autorizado”"
+                "es": "Las transacciones se quedan atascadas en \"Cancelando\" y los pagos permanecen en \"Autorizados\".",
+                "pt": "Transações presas em \"Cancelando\" e pagamentos permanecem em \"Autorizado\"."
               },
               "slug": {
                 "en": "transactions-stuck-in-canceling-and-payments-remain-in-authorized",
-                "es": "las-transacciones-se-quedan-en-cancelando-y-los-pagos-siguen-en-autorizados",
-                "pt": "transacoes-presas-no-status-cancelando-e-pagamentos-permanecem-no-status-autorizado"
+                "es": "las-transacciones-se-quedan-atascadas-en-cancelando-y-los-pagos-permanecen-en-autorizados",
+                "pt": "transacoes-presas-em-cancelando-e-pagamentos-permanecem-em-autorizado"
               },
               "origin": "",
               "type": "markdown",
@@ -69028,6 +69118,21 @@
                 "en": "dafiti-installment-interest-incorrectly-increases-item-sellingprice-in-dafiti-orders",
                 "es": "dafiti-el-interes-de-las-cuotas-aumenta-incorrectamente-el-precio-de-venta-del-articulo-en-los-pedidos-de-dafiti",
                 "pt": "dafiti-o-calculo-de-juros-parcelados-aumenta-incorretamente-o-preco-de-venda-dos-itens-em-pedidos-da-dafiti"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "FBE PLP/PDP images intermittently fail to load when Meta",
+                "es": "FBE Las imágenes PLP/PDP fallan intermitentemente al cargarse cuando Meta",
+                "pt": "FBE Imagens PLP/PDP falham intermitentemente ao carregar o Meta"
+              },
+              "slug": {
+                "en": "fbe-plppdp-images-intermittently-fail-to-load-when-meta",
+                "es": "fbe-las-imagenes-plppdp-fallan-intermitentemente-al-cargarse-cuando-meta",
+                "pt": "fbe-imagens-plppdp-falham-intermitentemente-ao-carregar-o-meta"
               },
               "origin": "",
               "type": "markdown",
