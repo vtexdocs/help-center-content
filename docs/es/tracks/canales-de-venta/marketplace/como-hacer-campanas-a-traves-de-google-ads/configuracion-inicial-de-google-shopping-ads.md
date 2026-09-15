@@ -41,7 +41,7 @@ Al seleccionar __"Crear nueva"__, es muy importante enseguida [acceder al GMC](h
 
 - __Asociar existente:__ el app utilizará la cuenta que ya posee en el GMC. Al momento de iniciar sesión, debe utilizar exactamente el mismo correo electrónico que utiliza en el GMC que desea asociar.
 
-> ⚠️ **OBS:** la URL configurada en el GMC debe ser **exactamente la misma** que fue elegida anteriormente. Inclusive, tomando en cuenta el protocolo (http o https).
+> ⚠️ La URL configurada en el GMC debe ser **exactamente la misma** que fue elegida anteriormente. Inclusive, tomando en cuenta el protocolo (http o https).
 
 Al seleccionar __"Asociar a un GMC existente"__, luego será necesario definir si la integración de productos con Google se hará a través de VTEX o a través de alguna sincronización externa que usted ya realice.
 
