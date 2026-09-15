@@ -11,58 +11,54 @@ trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 2
 ---
 
-Este artigo explica os requisitos técnicos necessários para a loja utilizar o **VTEX Sales App** e está dividido em:
+Este artigo explica requisitos e recomendações técnicas para que a loja utilize o **VTEX Sales App**, e aborda tópicos como equipamentos e parceiros.
 
-- [Equipamento](#equipamento)
-- [Parceiros](#parceiros)
-- [Casos de uso](#casos-de-uso)
-    - [Prateleira Infinita](#prateleira-infinita)
-    - [Retirada em loja e Ship from Store](#retirada-em-loja-e-ship-from-store)
-    - [VTEX Sales App integrado ao PDV](#instore-integrado-ao-pdv)
+## Equipamento obrigatório
 
-## Equipamento
+Para usar o **Sales App**, algumas ferramentas são de uso obrigatório.
 
-Para manter o equipamento e o bom funcionamento de sua operação, é importante ter mais dispositivos do que vendedores. Dessa forma, os dispositivos podem ser trocados rapidamente em caso de falha, dano ou esgotamento da bateria. Recomendamos reservar um espaço seguro na sua loja para guardar e carregar o equipamento.
+> ⚠️ Recomendamos reservar um espaço seguro na sua loja para armazenar os equipamentos.
 
-### Tablets, smartphones e computadores
+### Tablets e smartphones
 
-É recomendado que os dispositivos estejam atualizados com a versão mais recente do sistema operacional, ou, no mínimo, utilize alguma das:
+A loja precisa dispor de pelo menos um dispositivo móvel. Para manter o bom funcionamento da sua operação, recomendamos ter mais dispositivos do que vendedores, desta forma, os aparelhos podem ser rapidamente trocados em caso de falha, dano ou esgotamento da bateria.
 
-* Três versões mais recentes do IOS, ou
-* Quatro versões mais recentes do Android.
+Os dispositivos preferencialmente devem estar atualizados com a versão mais recente do sistema operacional e, no mínimo, precisam ter compatibilidade com:
 
-Ao acessar o VTEX Sales App, é necessário que os dispositivos utilizados possuam chips 4G para conexão à internet. Dessa forma, sua loja continuará funcionando normalmente, mesmo em situações em que a rede Wi-Fi apresente problemas.
+- **IOs:** três versões mais recentes.
+- **Android:** quatro versões mais recentes.
 
-O VTEX Sales App também funciona em computadores que utilizam o sistema operacional **Windows**, desde que os seguintes requisitos mínimos sejam atendidos:
+Os dispositivos utilizados precisam ter conexão à internet, podendo ser por meio de rede Wi-Fi ou 4G/5G.
 
-* **Windows 8** (ou mais recente)
-* **Intel i3+** (ou mais recente) ou **AMD Phenom II X4** (ou mais recente)
-* 4GB de memória RAM (ou superior)
-* 120GB de HD/SSD (ou superior)
+> ℹ️ Recomendamos que os dispositivos móveis tenham chips 4G, para que sua loja continue funcionando normalmente, mesmo em situações em que a rede Wi-Fi apresente algum problema.
 
-Para saber como instalar o aplicativo do VTEX Sales App, acesse o nosso guia de [Instalação](/pt/docs/tracks/instalacao).
+### Computadores
 
-### Internet
+Recomendamos que a loja disponha de pelo menos um computador, que pode ser de qualquer sistema operacional. Para **Windows**, existem os seguintes requisitos:
 
-A conexão com a Internet é fundamental para o funcionamento do VTEX VTEX Sales App, pois é por meio dela que ocorre a comunicação entre o aplicativo, a VTEX e os parceiros.
+- Sistema operacional **Windows 8** ou mais recente (recomendado).
+- Processador **Intel i3+** ou **AMD Phenom II X4**, mínimo **Intel i3+**.
+- Memória RAM de **4GB** ou superior.
+- HD/SSD de **120GB** ou superior.
 
-Os requisitos mínimos de Internet são:
+### Roteador e internet
 
-* Roteador com padrão da conexão 2.4Ghz (802.11 N) e conexão do dispositivo com o router 20 Mbps.
-* Internet com velocidade do link 2 Mbps (chegando ao dispositivo, ou seja, o que aparece no speedtest no celular).
+Dispor de conexão com a internet é fundamental para o uso do **Sales App** e os requisitos mínimos e recomendações adicionais para a conexão são:
 
-Recomendações adicionais:
+| Equipamento | Requisitos mínimos | Recomendações adicionais |
+| :---: | :---: | :---: |
+| Roteador | Com padrão da conexão 2.4Ghz (802.11 N) e conexão do dispositivo com o router 20 Mbps. | Com padrão da conexão 5.0Ghz 802.11 AC (o celular terá que ser dual band) e conexão do device com o router 40 Mbps. |
+| Internet | Com velocidade do link 2 Mbps (chegando ao dispositivo, ou seja, o que aparece no speedtest no celular). | Com velocidade do link 5 Mbps (chegando ao dispositivo, ou seja, o que aparece no speedtest no celular). |
 
-* Roteador com padrão da conexão 5.0Ghz 802.11 AC (o celular terá que ser dual band) e conexão do device com o router 40 Mbps.
-* Internet com velocidade do link 5 Mbps (chegando ao dispositivo, ou seja, o que aparece no speedtest no celular).
+## Equipamento opcional
+
+Apesar de não obrigatórios, recomendamos o uso de alguns equipamentos adicionais para obter a melhor experiência com o **Sales App**.
 
 ### Leitor de código de barras
 
-Com o VTEX Sales App, você pode ler o código de barras dos seus produtos usando a câmera do tablet ou smartphone, ainda que eles não funcionem tão bem quanto os dispositivos especializados nessa função.
+O **Sales App** permite a leitura do código de barras dos produtos usando a câmera do tablet ou smartphone, mas a melhor performance é obtida com um leitor de código de barras dedicado. Por isso, para obter maior agilidade e precisão na finalização da compra, recomendamos que a loja disponha de um leitor de código de barras.
 
-É fundamental que você cadastre o código de barras de cada item no seu Catálogo, seguindo os passos do guia [Cadastrar o código de barras dos SKUs para o VTEX Sales App](/pt/docs/tracks/cadastrar-o-codigo-de-barras-dos-skus-para-o-vtex-sales-app).
-
-Recomendamos que você use um leitor de código de barras dedicado se sua loja costuma receber pedidos de vários itens e se for importante ter mais agilidade e precisão durante a finalização da compra. Você pode escolher qualquer leitor de código de barras para "bipar" os produtos pelo VTEX Sales App. Um exemplo de leitor de código de barras é o Honeywell Solaris MK7820.
+> ℹ️ Para usar o leitor de código de barras com o **Sales App**, você precisa cadastrar o código de barras do produto no catálogo, conforme descrito em [Cadastrar o código de barras dos SKUs para o VTEX Sales App](https://help.vtex.com/pt/docs/tracks/cadastrar-o-codigo-de-barras-dos-skus-para-o-vtex-sales-app).
 
 ### Máquinas de cartão de crédito
 
