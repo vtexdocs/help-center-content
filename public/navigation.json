@@ -33523,6 +33523,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configuring extra safety guardrails per project",
+                    "es": "Configurar capas adicionales de seguridad por proyecto",
+                    "pt": "Configurar camadas extras de segurança por projeto"
+                  },
+                  "slug": {
+                    "en": "configuring-extra-safety-guardrails-per-project",
+                    "es": "configurar-capas-adicionales-de-seguridad-por-proyecto",
+                    "pt": "configurar-camadas-extras-de-seguranca-por-projeto"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Official agents from VTEX CX Platform",
                     "es": "Agentes oficiales de VTEX CX Platform",
                     "pt": "Agentes oficiais do VTEX CX Platform"
