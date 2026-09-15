@@ -60,7 +60,7 @@ O **Agente de Coleções** opera a partir das seguintes regras:
 - **Desambiguação conversacional:** quando uma instrução é vaga ou corresponde a mais de uma entidade do catálogo, o agente pausa e apresenta opções em vez de adivinhar.
 - **Confirmação antes de mudanças de alto impacto:** antes de alterações relevantes (por exemplo, editar uma coleção compartilhada por muitos sortimentos), o agente mostra o alcance da mudança e solicita a confirmação do usuário.
 
-## Inclusão de produtos do catálogo em uma coleção
+## Inclusão de todos os produtos do catálogo em uma coleção
 
 Não existe, atualmente, uma forma automática de incluir todos os produtos do catálogo em uma coleção de modo que ela se mantenha sincronizada. É possível incluir todos os produtos usando as regras dinâmicas existentes, mas cada uma tem suas limitações:
 
