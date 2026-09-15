@@ -14,6 +14,8 @@ legacySlug: lista-de-promocoes-beta
 locale: pt
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 categoryCover: true
+seeAlso:
+  - /pt/docs/tutorials/o-que-sao-utm-source-utm-campaign-e-utm-medium
 ---
 
 A plataforma VTEX disponibiliza uma forma otimizada e prática de cadastrar diversos tipos de promoção que se adequam a diferentes cenários. Por meio de uma interface centralizada para gerenciamento de promoções, sua loja pode oferecer mais benefícios focados na atração e fidelização de clientes.
@@ -111,6 +113,3 @@ Ao clicar no ícone <i class="fas fa-ellipsis-v"></i> de uma promoção, você p
 - <i class="far fa-check-circle"></i> __Ativar:__ ativar a promoção.
 - <i class="far fa-clone"></i> __Duplicar:__ criar uma cópia da promoção.
 - <i class="fas fa-archive"></i> __Arquivar:__ arquivar a promoção. A promoção será movida automaticamente para a página *[Promoções arquivadas](#promocoes-arquivadas)*.
-
-#### Saiba mais
-- [O que são utm_source, utm_campaign e utm_medium](/pt/docs/tutorials/o-que-sao-utm-source-utm-campaign-e-utm-medium)

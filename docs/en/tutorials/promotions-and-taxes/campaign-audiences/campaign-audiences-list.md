@@ -13,6 +13,10 @@ slugEN: campaign-audiences-list
 legacySlug: campaign-audiences-list
 locale: en
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
+seeAlso:
+  - /en/docs/tutorials/campaign-audiences
+  - /en/docs/tutorials/campaign-promotion
+  - /en/docs/tutorials/creating-a-campaign-audience
 ---
 
 Your store's campaign audience list is available in the VTEX Admin, on the *Promotions > Campaign audience* page, illustrated below.
@@ -75,9 +79,3 @@ To change any campaign audience settings, follow the steps below:
 3. Make the necessary changes on the campaign audience editing page. For more information on each of the available fields, please read the article Creating a Campaign Audience.
 4. If you made any changes to the target audience, click `Update`.
 5. Click `Save`.
-
-## Learn more
-
-- [Campaign audiences](/en/docs/tutorials/campaign-audiences)
-- [Creating a campaign promotion](/en/docs/tutorials/campaign-promotion)
-- [Creating a campaign audience](/en/docs/tutorials/creating-a-campaign-audience)

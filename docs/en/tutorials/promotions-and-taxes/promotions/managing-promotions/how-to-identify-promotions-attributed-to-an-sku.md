@@ -13,6 +13,9 @@ slugEN: how-to-identify-promotions-attributed-to-an-sku
 legacySlug: how-to-identify-promotions-attributed-to-an-sku
 locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
+seeAlso:
+  - /en/docs/tracks/how-promotions-work
+  - /en/docs/tutorials/how-to-identify-promotions-applied-to-the-cart
 ---
 
 > ⚠️ The steps described in this article use Google Chrome. Since this tool is not part of VTEX, it may be updated without notice.
@@ -28,9 +31,4 @@ To find out what promotions are being attributed to an SKU, we have to analyze i
 5. Click on `orderform` and go to `items`. After clicking on `items`, click on the numbers (`0`, `1`, `2` etc.) to see the details of the product you want. In our example, since there is only one item, it is represented by the number `0` in the array.![items-0](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/managing-promotions/how-to-identify-promotions-attributed-to-an-sku_4.png)
 6. After clicking on the  number, scroll down to `priceTags`. Click on `priceTags` and then on the numbers (`0`, `1`, `2` etc.) to see the details of the promotion you want. In our example, since there is only one promotion, it is represented by the number `0` in the array. After this, look for the `identifier` of the promotion.![priceTags-0-identifier](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/managing-promotions/how-to-identify-promotions-attributed-to-an-sku_5.png)
 7. Open another tab, and go to URL `https://{accountName}.vtexcommercestable.com.br/admin/rnb/#/benefit/{identifier}`. This is the promotion that is being applied to the product in the cart. Check the configurations of the promotion and see whether the conditions apply to the SKU in question.![promo-debug-help](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/managing-promotions/how-to-identify-promotions-attributed-to-an-sku_6.png)
-
-## Learn more
-
-- [How promotions work](/en/docs/tracks/how-promotions-work)
-- [Identifying promotions applied to the cart](/en/docs/tutorials/how-to-identify-promotions-applied-to-the-cart)
 
