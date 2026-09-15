@@ -1,7 +1,7 @@
 ---
 title: 'Events available in Audit'
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2026-09-15T00:00:00.000Z
+updatedAt: 2026-09-18T00:00:00.000Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
