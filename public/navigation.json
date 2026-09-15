@@ -15280,6 +15280,69 @@
         },
         {
           "name": {
+            "en": "Canais de venda",
+            "es": "Canais de venda",
+            "pt": "Canais de venda"
+          },
+          "slug": {
+            "en": "canais-de-venda",
+            "es": "canais-de-venda",
+            "pt": "canais-de-venda-category"
+          },
+          "origin": "",
+          "type": "divider",
+          "children": [
+            {
+              "name": {
+                "en": "Omnichannel",
+                "es": "Omnichannel",
+                "pt": "Omnichannel"
+              },
+              "slug": {
+                "en": "omnichannel",
+                "es": "omnichannel",
+                "pt": "omnichannel"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "VTEX Sales App - Primeiros passos e configurações",
+                    "es": "VTEX Sales App - Primeiros passos e configurações",
+                    "pt": "VTEX Sales App - Primeiros passos e configurações"
+                  },
+                  "slug": {
+                    "en": "vtex-sales-app-primeiros-passos-e-configuracoes",
+                    "es": "vtex-sales-app-primeiros-passos-e-configuracoes",
+                    "pt": "vtex-sales-app-primeiros-passos-e-configuracoes"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "pt": "1. Requisitos técnicos para usar o VTEX Sales App",
+                        "en": "1. Requisitos técnicos para usar o VTEX Sales App",
+                        "es": "1. Requisitos técnicos para usar o VTEX Sales App"
+                      },
+                      "slug": {
+                        "pt": "requisitos-tecnicos-para-usar-o-vtex-sales-app",
+                        "en": "",
+                        "es": ""
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": {
             "en": "Retail media",
             "es": "Retail media",
             "pt": "Retail media"
