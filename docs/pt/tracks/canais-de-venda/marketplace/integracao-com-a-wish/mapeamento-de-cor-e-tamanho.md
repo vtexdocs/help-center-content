@@ -58,7 +58,7 @@ Repare que na VTEX o nome dos campos é "Cores" e "Tamanhos", mas a Wish chama d
 Na VTEX, os produtos dessa categoria possuem duas cores possíveis: vermelho e gelo. 
 Deve-se escolher a cor disponível mais próxima que, no caso da Wish, "Gelo" poderia ser "White/Ice Glaze" (baseado na [lista de cores aceitas](https://merchant.wish.com/documentation/colors)). E "Vermelho" poderia ser "Red".
 
-> ℹ️ OBS: o cabeçalho da tabela deve ser preenchida exatamente como está no exemplo abaixo. Lembre-se de não adicionar caracteres especiais como enter ou espaço no preenchimento dessa tabela.
+> ℹ️ O cabeçalho da tabela deve ser preenchida exatamente como está no exemplo abaixo. Lembre-se de não adicionar caracteres especiais como enter ou espaço no preenchimento dessa tabela.
 
 ![PT - Tabela Wish](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/canais-de-venda/marketplace/integracao-com-a-wish/mapeamento-de-cor-e-tamanho_1.png)
 
