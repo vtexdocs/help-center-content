@@ -58280,13 +58280,13 @@
             {
               "name": {
                 "en": "Refund limited incorrectly due to duplicated receipt from race condition (OMS invoice/restutions)",
-                "es": "Reembolso limitado incorrectamente debido a un recibo duplicado por una condición de carrera (factura OMS/reembolsos)",
-                "pt": "Reembolso limitado incorretamente devido a um recibo duplicado causado por uma condição de corrida (fatura OMS/restituições)"
+                "es": "Reembolso limitado incorrectamente debido a un recibo duplicado de la condición de carrera (factura/restos de OMS)",
+                "pt": "O reembolso foi limitado incorretamente devido a um recibo duplicado referente à condição da corrida (nota fiscal/restituições da OMS)."
               },
               "slug": {
                 "en": "refund-limited-incorrectly-due-to-duplicated-receipt-from-race-condition-oms-invoicerestutions",
-                "es": "reembolso-limitado-incorrectamente-debido-a-un-recibo-duplicado-por-una-condicion-de-carrera-factura-omsreembolsos",
-                "pt": "reembolso-limitado-incorretamente-devido-a-um-recibo-duplicado-causado-por-uma-condicao-de-corrida-fatura-omsrestituicoes"
+                "es": "reembolso-limitado-incorrectamente-debido-a-un-recibo-duplicado-de-la-condicion-de-carrera-facturarestos-de-oms",
+                "pt": "o-reembolso-foi-limitado-incorretamente-devido-a-um-recibo-duplicado-referente-a-condicao-da-corrida-nota-fiscalrestituicoes-da-oms"
               },
               "origin": "",
               "type": "markdown",
