@@ -13,6 +13,8 @@ slugEN: regular-promotion-with-reward-value
 legacySlug: promocao-regular-com-valor-fidelidade
 locale: pt
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
+seeAlso:
+  - /pt/docs/tutorials/promocao-regular-pt
 ---
 
 A [Promoção Regular](/pt/docs/tutorials/promocao-regular-pt) oferece descontos de forma flexível, combinando múltiplas condições, restrições e benefícios. Uma das possibilidades desse tipo de promoção é disponibilizar um valor fidelidade para seus clientes, ou seja, um crédito que funciona como _cashback_ para utilização em compras futuras na loja. O propósito desse tipo de desconto é gerar lealdade através da recorrência de compra, ou seja, oferecer um incentivo para que os clientes voltem a fazer compras na loja.
@@ -111,7 +113,3 @@ O valor concedido pode ser utilizado para compor o pagamento. Para isso, o clien
 Observe que o valor será descontado da outra forma de pagamento selecionada. No exemplo a seguir, o boleto passou a ter o valor de `R$ 113,50`, que corresponde a `R$ 167,80` menos o valor fidelidade utilizado (`R$ 54,30`).
 
 ![checkout-2-pt (1)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/regras-e-condições/promocao-regular-com-valor-fidelidade_6.png)
-
-## Saiba mais
-
-* [Promoção Regular](/pt/docs/tutorials/promocao-regular-pt)
