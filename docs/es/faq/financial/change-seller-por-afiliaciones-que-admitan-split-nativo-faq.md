@@ -37,9 +37,9 @@ Por eso, para tener acceso al cambio de seller, la afiliación con split se debe
 
 La liquidación se realizará cuando se facture el pedido. Si la facturación se realiza después de muchos días, la liquidación seguirá el estándar configurado en la afiliación, según lo siguiente:
 
-1.__Utilizar el comportamiento recomendado del procesador de pagos:__ la liquidación se programa de acuerdo con el retraso especificado por el conector. Este periodo, además de indicar si el pago fue autorizado, puede especificar (o recomendar) un número de días para realizar la captura cuando el adquirente envíe la respuesta. El número de días especificado por el partner depende de un acuerdo comercial entre usted, cliente y su adquirente, proveedor de pagos. 
+1. __Utilizar el comportamiento recomendado del procesador de pagos:__ la liquidación se programa de acuerdo con el retraso especificado por el conector. Este periodo, además de indicar si el pago fue autorizado, puede especificar (o recomendar) un número de días para realizar la captura cuando el adquirente envíe la respuesta. El número de días especificado por el partner depende de un acuerdo comercial entre usted, cliente y su adquirente, proveedor de pagos. 
 
-2.__Desactivado: No se captura automáticamente:__ la liquidación no ocurre automáticamente. 
+2. __Desactivado: No se captura automáticamente:__ la liquidación no ocurre automáticamente. 
 
 ### ¿Se podrá realizar el cambio de seller después de la liquidación del pago?
 

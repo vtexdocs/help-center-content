@@ -28,7 +28,7 @@ Assim que o item é reposto no estoque da loja, o sistema envia um email para o 
 Neste artigo, vamos detalhar as configurações necessárias para habilitar o **Avise-me**:
 
 - [Exibir a opção Avise-me](#exibir-a-opção-avise-me)
-	- [Configurar o template da página de produto](#configurar-o-template-da-página-de-produto)
+    - [Configurar o template da página de produto](#configurar-o-template-da-página-de-produto)
 - [Configurar template de email de notificação](#configurar-template-de-email-de-notificação)
 - [Saiba mais](#saiba-mais)
 
