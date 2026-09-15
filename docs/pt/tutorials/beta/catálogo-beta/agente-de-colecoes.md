@@ -36,7 +36,7 @@ O **Agente de Coleções** está em beta, e durante este período a funcionalida
 
 > ℹ️ As instruções apresentadas sobre coleções e sortimentos são apenas exemplos e não a única forma de interagir com o agente.
 
-## Pré-requisitos para usar o agente
+## Pré-requisitos
 
 Como o **Agente de Coleções** atua sobre coleções e sortimentos, é necessário que a loja já tenha cadastrado [marcas](https://help.vtex.com/pt/docs/tutorials/o-que-e-uma-marca), [categorias](https://help.vtex.com/pt/docs/tutorials/cadastrar-uma-categoria), [produtos](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-produto) e [SKUs](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-sku), já que é sobre esses itens que as regras de criação são aplicadas.
 
