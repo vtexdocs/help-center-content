@@ -35493,6 +35493,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Collections Agent",
+                    "es": "Agente de Colecciones",
+                    "pt": "Agente de Coleções"
+                  },
+                  "slug": {
+                    "en": "collections-agent",
+                    "es": "agente-de-colecciones",
+                    "pt": "agente-de-colecoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Creating or editing categories, attributes, and variations (Beta)",
                     "es": "Crear o editar categorías, atributos y variaciones (Beta)",
                     "pt": "Criar ou editar categorias, atributos e variações (Beta)"
