@@ -21,7 +21,7 @@ Para garantizar el correcto funcionamiento de la integración, es necesario real
 
 Es necesario definir qué política comercial se utilizará para integrar sus productos con Wish. Esta definición implicará cuatro aspectos principales: surtido de productos, stock, precio y moneda. Es decir, la disponibilidad y los precios de sus productos en un canal de venta determinado se basarán completamente en la política comercial que usted elija. [Haga clic aquí para entender con más detalle cómo funciona la política comercial](/es/docs/tutorials/configurar-politica-comercial-para-marketplace).
 
-> ℹ️ OBS: Wish exige que los precios del producto y flete se envíen en dólares (USD). Sin embargo, crea los pedidos con el valor ya convertido en reales (R$) para facilitar la emisión de la factura. Esto significa que la integración debe enviar precios en dólares y aceptar pedidos en reales. De esta manera, la arquitectura utiliza apenas Real (R$) y hace la conversión en la integración. Por lo tanto, **la política comercial para Wish debe ser en reales (R$)** y todo el flujo de conversión se detallará mejor en el [paso 5](/es/docs/tracks/configuraciones-de-la-integracion).
+> ℹ️ Wish exige que los precios del producto y flete se envíen en dólares (USD). Sin embargo, crea los pedidos con el valor ya convertido en reales (R$) para facilitar la emisión de la factura. Esto significa que la integración debe enviar precios en dólares y aceptar pedidos en reales. De esta manera, la arquitectura utiliza apenas Real (R$) y hace la conversión en la integración. Por lo tanto, **la política comercial para Wish debe ser en reales (R$)** y todo el flujo de conversión se detallará mejor en el [paso 5](/es/docs/tracks/configuraciones-de-la-integracion).
 
 [Haga clic aquí](/es/docs/tutorials/contratacion-de-politicas-comerciales-adicionales) para saber cómo contratar una nueva política si fuera necesario.
 
@@ -42,7 +42,7 @@ Para garantizar que los pedidos se integren con éxito, deberá realizar toda la
   3. Defina las [transportadoras](/es/docs/tutorials/transportadoras-en-vtex) que realizarán las entregas de Wish.
   4. Asocie las transportadoras con los muelles.
  
-> ℹ️ OBS: Wish realiza la transferencia de la comisión a través de la confirmación de entrega de los pedidos y consulta directamente a sus transportadoras asociadas para obtener esta información. ***Por lo tanto, para vender en Wish es obligatorio utilizar las transportadoras asociadas para realizar las entregas de los pedidos.*** [ Consulte aquí la lista de transportadoras aceptadas por Wish.](https://merchant.wish.com/documentation/shippingproviders)
+> ℹ️ Wish realiza la transferencia de la comisión a través de la confirmación de entrega de los pedidos y consulta directamente a sus transportadoras asociadas para obtener esta información. Por lo tanto, para vender en Wish es obligatorio utilizar las transportadoras asociadas para realizar las entregas de los pedidos. [Consulte aquí la lista de transportadoras aceptadas por Wish.](https://merchant.wish.com/documentation/shippingproviders)
 
 ## Definiendo precios
 

@@ -1,5 +1,5 @@
 ---
-title: 'Por que um pedido foi cancelado no status “Preparando Entrega”?'
+title: "Por que um pedido foi cancelado no status “Preparando Entrega”?"
 id: LDgtkquNEssyQMYUGcYeO
 status: PUBLISHED
 createdAt: 2017-05-16T23:08:29.742Z
@@ -16,11 +16,9 @@ legacySlug: por-que-um-pedido-foi-cancelado-no-status-preparando-entrega
 
 Qualquer pedido pode ser cancelado antes que seu status seja `Faturado`.
 
-Quando o cancelamento acontece, o lojista é notificado por meio do [VTEX DO](/pt/docs/tutorials/vtex-do-interface). Assim, dependendo do estágio de preparação da entrega, o lojista pode confirmar ou não o cancelamento: 
+Quando o cancelamento acontece, o lojista é notificado por meio do [VTEX DO](/pt/docs/tutorials/vtex-do-interface). Assim, dependendo do estágio de preparação da entrega, o lojista pode confirmar ou não o cancelamento:
 
-1) Caso deseje confirmar, acesse **Pedidos > Todos os pedidos**, clique no pedido e, em seguida, clique em **Confirmar cancelamento**.
+1. Caso deseje confirmar, acesse **Pedidos > Todos os pedidos**, clique no pedido e, em seguida, clique em **Confirmar cancelamento**.
+2. Caso deseje prosseguir com a entrega, siga o procedimento normal de faturamento, informando ao cliente sobre a impossibilidade de cancelar o pedido.
 
-2) Caso deseje prosseguir com a entrega, siga o procedimento normal de faturamento, informando ao cliente sobre a impossibilidade de cancelar o pedido.
-
-> ❗ Apenas no status `Carência para cancelamento` a solicitação de cancelamento do cliente é unilateral, não cabendo ao lojista qualquer confirmação. Nos outros status, o lojista será informado sobre a solicitação através do VTEX DO.
-
+   > ❗ Apenas no status `Carência para cancelamento` a solicitação de cancelamento do cliente é unilateral, não cabendo ao lojista qualquer confirmação. Nos outros status, o lojista será informado sobre a solicitação através do VTEX DO.

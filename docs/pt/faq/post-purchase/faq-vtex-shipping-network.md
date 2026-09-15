@@ -16,19 +16,17 @@ legacySlug: faq-vtex-log
 
 ## 1) Como posso identificar se o VTEX Shipping Network está operando normalmente na minha loja?   
 
-a) Confira os seguintes comportamentos:     
-- O VTEX Shipping Network aparece em alguma simulação de envio?   
-- Existem pedidos pro VTEX Shipping Network de maneira distribuída ao longo do mês?   
-- A transportadora apareceu na simulação?  
+1. Confira os seguintes comportamentos:
+    - O VTEX Shipping Network aparece em alguma simulação de envio?
+    - Existem pedidos pro VTEX Shipping Network de maneira distribuída ao longo do mês?
+    - A transportadora apareceu na simulação?
 
-Se a resposta for sim para esses cenários, o VTEX Shipping Network está operando normalmente. 
-  
+    Se a resposta for sim para esses cenários, o VTEX Shipping Network está operando normalmente.
 
-b) Também é importante entender o contexto da loja naquele mês. 
-Alguns fatores de negócio podem afetar os resultados do VTEX Shipping Network. Confira com seu time de e-commerce:     
-- Criaram alguma promoção? O VTEX Shipping Network estava cadastrado na promoção?      
-- Foi adicionada alguma transportadora nova desde a última simulação?      
-- A diferença de valores entre os tipos de entrega foram muito grandes?   
+2. Também é importante entender o contexto da loja naquele mês. Alguns fatores de negócio podem afetar os resultados do VTEX Shipping Network. Confira com seu time de e-commerce:
+    - Criaram alguma promoção? O VTEX Shipping Network estava cadastrado na promoção?
+    - Foi adicionada alguma transportadora nova desde a última simulação?
+    - A diferença de valores entre os tipos de entrega foram muito grandes?
 
 ## 2) Tive um problema com o funcionamento do VTEX Shipping Network. Como posso identificar aonde está o problema?  
  
