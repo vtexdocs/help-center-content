@@ -139,7 +139,7 @@ Para buscar se uma transportadora foi deletada em determinada data:
 
 ## Verificar últimas buscas realizadas no Audit
 
-Toda busca realizada no Audit é salva na aba **Últimas buscas**. Para refazer uma busca nessa aba, clique no botão <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/segurança/recursos-de-segurança-da-plataforma/audit_3.png" width="15"> correspondente à busca que você deseja refazer.
+Toda busca realizada no Audit é salva na aba **Últimas buscas**. Para refazer uma busca nessa aba, clique no botão <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/segurança/recursos-de-segurança-da-plataforma/audit_3.png" width="15" /> correspondente à busca que você deseja refazer.
 
 Confira a seguir as informações disponíveis nesta aba:
 

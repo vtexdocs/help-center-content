@@ -13,6 +13,9 @@ slugEN: how-to-identify-promotions-applied-to-the-cart
 legacySlug: como-identificar-as-promocoes-no-carrinho
 locale: pt
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
+seeAlso:
+  - /pt/docs/tracks/como-funcionam-as-promocoes
+  - /pt/docs/tutorials/como-identificar-promocoes-atribuidas-a-um-sku
 ---
 
 Existem três formas de saber quais promoções estão sendo aplicadas no carrinho. Confira as seções a seguir para entendê-las:
@@ -28,9 +31,9 @@ Você pode fazer um pedido para teste na loja e, em seguida, verificar no **Gere
 
 Exemplo: imagine um pedido em que frete grátis foi aplicado, mas você não sabe o motivo. Ao clicar em um pedido no **Gerenciamento de pedidos**, você encontraria o nome da promoção registrada na seção **Promoções e parcerias**.
 
-<img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/gestão-de-promoções/como-identificar-as-promocoes-no-carrinho_3.png" alt="detalhes-do-pedido" style="margin-bottom: 20px;"> <figcaption align = "center">*Detalhes do pedido*</figcaption></figure>
+<figure><img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/gestão-de-promoções/como-identificar-as-promocoes-no-carrinho_3.png" alt="detalhes-do-pedido" style="margin-bottom: 20px;" /> <figcaption align = "center">*Detalhes do pedido*</figcaption></figure>
 
-<img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/gestão-de-promoções/como-identificar-as-promocoes-no-carrinho_4.png" alt="detalhes-do-pedido-beta" style="margin-bottom: 20px;"> <figcaption align = "center">*Detalhes do pedido (Beta)*</figcaption></figure>
+<figure><img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/gestão-de-promoções/como-identificar-as-promocoes-no-carrinho_4.png" alt="detalhes-do-pedido-beta" style="margin-bottom: 20px;" /> <figcaption align = "center">*Detalhes do pedido (Beta)*</figcaption></figure>
 
 Se nenhuma promoção estiver listada, isso indica que o frete grátis não tem como causa uma promoção, ou seja, o cálculo de frete no módulo de **Estoque & entrega** teve como resultado zero. Nesse caso, seria necessário utilizar o **Simulador de envio** para entender por que razão o frete teve valor zero.
 
@@ -70,8 +73,3 @@ Siga o passo a passo para encontrar o orderForm e identificar as promoções apl
 O Simulador de Promoções é uma ferramenta que permite visualizar as promoções criadas na plataforma VTEX que foram aplicadas no carrinho de compras e suas condições de ativação. Com múltiplas possibilidades de configuração de promoções, é importante ter visibilidade da [concorrência](/pt/docs/tutorials/como-funciona-a-concorrencia-de-promocoes), do acúmulo de promoções durante a compra e das causas de ativação dessas promoções.
 
 Para mais informações, leia o artigo [Simulador de promoções (Beta)](/pt/docs/tutorials/simulador-de-promocoes-beta).
-
-## Saiba mais
-
-* [Como funcionam as promoções](/pt/docs/tracks/como-funcionam-as-promocoes)
-* [Como identificar promoções atribuídas a um SKU?](/pt/docs/tutorials/como-identificar-promocoes-atribuidas-a-um-sku)

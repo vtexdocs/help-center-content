@@ -25,7 +25,7 @@ Cada inscripción de Pedido tendrá sus datos restrictos a las condiciones de pa
 
 ![payment_es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/transacciones/transacciones-pci-gateway_1.jpg)
 
-Para mayores informaciones sobre los eventos generados en las transacciones, acceda: [Eventos de la transacción](/hc/es-419/articles/215876397).
+Para mayores informaciones sobre los eventos generados en las transacciones, acceda: [Flujo de la transacción en Pagos](/es/docs/tutorials/flujo-de-la-transaccion-en-pagos).
 
 Además de estos datos, esa interface es dinámica con relación a los filtros que pueden ser hechos y a las búsquedas que pueden ser realizadas. Para mejor extender su uso, acceda:
 

@@ -118,7 +118,7 @@ The following table shows optional Catalog settings on VTEX:
 
 [Prices](/en/docs/tracks/prices-module-overview) is the VTEX module for creating, editing, and storing price details for the store's SKUs. For a product to be sold, the customer needs to know the price of each item displayed in the store. The pricing module has features that allow you to use different pricing strategies in your business.
 
-###  Before you begin with Prices
+### Before you begin with Prices
 
 Before configuring the store's prices, you need to create a [catalog](#catalog) with your products. The store catalog must contain [categories](/en/docs/tutorials/registering-a-category), [brands](/en/docs/tutorials/registering-brands), [products](/en/docs/tutorials/adding-or-editing-products) and [SKUs](/en/docs/tutorials/adding-or-editing-skus) already added and active. If the catalog was created via [ntegration with an ERP system](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu#erp-integration), you should check the information before proceeding.
 
@@ -135,7 +135,7 @@ It is important to familiarize yourself with the main terms related to the modul
 | [Base price](/en/docs/tracks/preco-base-definicao-de-conceito) | Amount calculated by combining the __cost price__ and the __markup__. This is the SKU's reference price for all price tables. |
 | [List price](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#list-price) | Suggested selling price for an SKU. This price will be displayed on the product page as the __From__ price, while the base price will be displayed as the __To__ price. |
 | [Price rule](/en/docs/tracks/regra-de-preco-definicao-de-conceito) | Changes the SKU price on a specific price table without changing the base price on other tables. To do so, you need to create a price rule and associate it with the desired table. |
-| [Fixed price](/en/docs/tracks/preco-fixo-definicao-de-conceito) | Price that overrides all other price settings in a price table. |
+| [Fixed price](/en/docs/tracks/fixed-price-concept-definition) | Price that overrides all other price settings in a price table. |
 | [Price rounding](/en/docs/tracks/rounding-rules-concept-definition) | A pricing strategy based on price rounding. This method aims to influence the consumer's purchasing decision by displaying prices in a more user-friendly and intuitive format. |
 | [Price variation limiter](/en/docs/tracks/trava-de-preco-definicao-de-conceito) | Sets the maximum and minimum price variations for an item. This feature ensures that SKU prices are not changed to undesirable values. |
 
@@ -169,7 +169,7 @@ There is a difference between price tables created for [sales channels](/en/docs
 
 Price tables not associated with sales channels can be used in contexts such as __promotions__ and __customer clusters__. Tables created for sales channels can only be associated with the sales channel itself. Thus, the price table associated with a sales channel shows the SKU price specific to that policy and cannot be associated with other contexts.
 
-> ⚠️ The concepts of **price table** and [sales channel](LINK) are different. Sales channel is the context with which a price list is associated.
+> ⚠️ The concepts of __price table__ and [sales channel](/en/docs/tutorials/how-trade-policies-work) are different. Sales channel is the context with which a price list is associated.
 
 When setting up a sales channel, you must [specify the currency that will be used in the store](/en/docs/tutorials/creating-a-trade-policy). Creating different sales channels associated with a different currency allows the store to display prices in different currencies to customers. 
 

@@ -14,7 +14,7 @@ Ao [configurar localidades(locales)](https://help.vtex.com/pt/docs/tutorials/con
 | Caso de uso | Descrição |
 | ---- | ---- |
 | [Localidade padrão como fallback para outras localidades](#localidade-padrão-como-fallback-para-outras-localidades) | Use quando a maior parte do conteúdo é compartilhada e outras localidades apenas alteram partes específicas. |
-| [Fallback do idioma principal com variações regionais](fallback-do-idioma-principal-com-variações-regionais) | Use ao gerenciar variações regionais herdadas de uma localidade base do idioma. |
+| [Fallback do idioma principal com variações regionais](#fallback-de-idioma-principal-com-variações-regionais) | Use ao gerenciar variações regionais herdadas de uma localidade base do idioma. |
 
 ## Localidade padrão como fallback para outras localidades
 

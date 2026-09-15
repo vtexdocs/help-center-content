@@ -21,7 +21,7 @@ Cartman es una herramienta creada para auxiliar al comerciante en el análisis d
 - `{accountname}.vtexcommercebeta.com`
 - `{accountname}.vtexcommercestable.com`
 
-Para dominios oficiales de la tienda (`www.{sutienda}.com`), debe activar [activar Cartman manualmente](configurar-cartman#activar-cartman-manualmente).
+Para dominios oficiales de la tienda (`www.{sutienda}.com`), debe activar [activar Cartman manualmente](#activar-cartman-manualmente).
 
 Este artículo cubrirá los siguientes temas:
 

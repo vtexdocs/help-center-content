@@ -12,18 +12,18 @@ slugEN: 2017-11-13-new-limits-for-causes-of-benefit
 locale: en
 legacySlug: new-limits-for-causes-of-benefit
 announcementImageID: 'undefined'
-announcementSynopsisEN: 'See below the new limits for each cause of benefit'
+announcementSynopsisEN: 'See the new limits for each benefit cause'
 ---
 
-VTEX has changed the limits of **causes of benefit**.
+VTEX has changed the limits for **benefit causes**.
 
-A cause of benefit is any condition that generates a benefit.
+A benefit cause is any condition that generates a benefit.
 
 For example: the retailer can set up a benefit to be applied if the customer chooses a particular payment method. In this case, the payment method is the cause of the benefit.
 
-> ❗ You can't save a benefit that violates any limits. So if your store currently has benefits that exceed any of these limits, be careful. Any changes to any of these benefits will cause the new limits to apply. Therefore, you will not be able to save the benefit using the previous settings.
+## What has changed?
 
-Here are the new limits for each cause of benefit:
+Here are the new limits for each benefit cause:
 
 - Sales Channels (Trade Policy): 20
 - Marketing Tags: 10
@@ -39,5 +39,9 @@ Here are the new limits for each cause of benefit:
 - Customer Clusters: 50
 - Product Specifications: 10
 - Coupons: 100
-- Afilliates: 100
+- Affiliates: 100
 - Freight Type: 100
+
+## What needs to be done?
+
+You can't save a benefit that violates any limits. So if your store currently has benefits that exceed any of these limits, be careful. Any changes to any of these benefits will cause the new limits to apply. Therefore, you will not be able to save the benefit using the previous settings.

@@ -51,9 +51,9 @@ Ejemplo: un cliente desea buscar el término `bola`. Siguiendo la configuración
 
 > ℹ️ El fuzzy no considera los espacios en blanco. Esto quiere decir que, por ejemplo, `micro ondas` no se corregiría a `microondas`. Recomendamos el uso de [sinónimos](https://help.vtex.com/es/docs/tutorials/sinonimos) en estos casos.
 
-### Stemming (raíz de las palabras)
+### Stemming (raíz de palabras)
 
-Intelligent Search usa un analizador de idioma para normalizar los términos buscados, unificando variaciones de singular y plural de una misma palabra en la misma raíz. Por ejemplo, en tiendas en inglés, una búsqueda de `sneaker` también devuelve productos que contienen `sneakers`.
+Intelligent Search usa un analizador de idioma para normalizar los términos buscados, unificando variaciones de singular y plural de una misma palabra en la misma raíz. Por ejemplo, en tiendas en inglés, una búsqueda por `sneaker` también devuelve productos que contienen `sneakers`.
 
 > ℹ️ VTEX corrigió inconsistencias de stemming en el analizador de idioma inglés para términos como `sticks`, `sharpies`, `its`, `bags`, `boards`, `books`, `bowls`, `cards`, `crackers`, `dividers`, `games`, `glue-sticks`, `k-cups`, `knives`, `nuts`, `rolls`, `shelves` y `supplies`, cuyas formas en plural no se mapeaban correctamente a la raíz en singular. Esta corrección no se aplica automáticamente a todas las cuentas: para solicitarla en una tienda en inglés, ponte en contacto con el [Soporte VTEX](https://supporticket.vtex.com/support).
 

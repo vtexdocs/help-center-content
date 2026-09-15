@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the payment provider PagBankV3. Through this provider, your store can make sales via bank slip, PIX, Pagar com PagBank, debit and credit cards.
+At VTEX, it is possible to integrate with the payment provider PagBankV3. Through this provider, your store can make sales via Boleto, PIX, Pagar com PagBank, debit and credit cards.
 
 To configure PagBankV3, follow the steps below:
 
