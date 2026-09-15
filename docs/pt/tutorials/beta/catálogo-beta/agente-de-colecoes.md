@@ -52,7 +52,7 @@ Ao clicar na sugestão `Crie uma coleção`, ou digitar outra instrução na jan
 
 O **Agente de Coleções** opera a partir das seguintes regras:
 
-- **Criação estática ou dinâmica:** cria e edita coleções de forma estática (lista explícita de IDs de produto) ou dinâmica (critérios como marcas, categorias, especificações de produto e especificações de SKU).
+- **Criação estática ou dinâmica:** cria e edita coleções de forma estática (lista explícita de IDs de produto, de SKUs ou códigos de referência) ou dinâmica (critérios como marcas, categorias, especificações de produto e especificações de SKU).
 - **Regras inclusivas e exclusivas:** combina e exclui coleções por meio de regras inclusivas e exclusivas. As regras exclusivas sempre prevalecem sobre as inclusivas.
 - **Combinações complexas E/OU:** suporta combinações lógicas complexas entre critérios e regras. Você não precisa montar as subcoleções manualmente — o agente apresenta a estrutura lógica final para aprovação.
 - **Propagação automática:** uma mesma coleção pode ser consumida por vários sortimentos. Ao editar uma coleção compartilhada, a alteração é propagada automaticamente para todos os sortimentos que a consomem. Esse é o principal valor do modelo de blocos reutilizáveis.
