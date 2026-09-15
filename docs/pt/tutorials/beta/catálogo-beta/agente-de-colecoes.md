@@ -26,7 +26,7 @@ Além de permitir realizar tudo o que era feito pela [interface legada](https://
 
 ## Avisos da fase beta
 
-O **Agente de Coleções** está em beta, e durante este período a funcionalidade tem as seguintes limitações:
+O **Agente de Coleções** está em beta, e durante este período a funcionalidade tem as seguintes características:
 
 - **Escopo:** inclui, para coleções e sortimentos, as ações de criação, edição, importação/exportação em massa e visualização do plano criado pelo agente antes da confirmação do usuário.
 - **Sortimento restrito:** a criação e o uso de sortimentos estão disponíveis apenas para lojas que utilizam **B2B Buyer Portal**.
