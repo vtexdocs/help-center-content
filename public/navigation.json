@@ -15280,6 +15280,69 @@
         },
         {
           "name": {
+            "en": "Canais de venda",
+            "es": "Canais de venda",
+            "pt": "Canais de venda"
+          },
+          "slug": {
+            "en": "canais-de-venda",
+            "es": "canais-de-venda",
+            "pt": "canais-de-venda-category"
+          },
+          "origin": "",
+          "type": "divider",
+          "children": [
+            {
+              "name": {
+                "en": "Omnichannel",
+                "es": "Omnichannel",
+                "pt": "Omnichannel"
+              },
+              "slug": {
+                "en": "omnichannel",
+                "es": "omnichannel",
+                "pt": "omnichannel"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "VTEX Sales App - Primeiros passos e configurações",
+                    "es": "VTEX Sales App - Primeiros passos e configurações",
+                    "pt": "VTEX Sales App - Primeiros passos e configurações"
+                  },
+                  "slug": {
+                    "en": "vtex-sales-app-primeiros-passos-e-configuracoes",
+                    "es": "vtex-sales-app-primeiros-passos-e-configuracoes",
+                    "pt": "vtex-sales-app-primeiros-passos-e-configuracoes"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "pt": "1. Requisitos técnicos para usar o VTEX Sales App",
+                        "en": "1. Requisitos técnicos para usar o VTEX Sales App",
+                        "es": "1. Requisitos técnicos para usar o VTEX Sales App"
+                      },
+                      "slug": {
+                        "pt": "requisitos-tecnicos-para-usar-o-vtex-sales-app",
+                        "en": "",
+                        "es": ""
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": {
             "en": "Retail media",
             "es": "Retail media",
             "pt": "Retail media"
@@ -33516,6 +33579,21 @@
                     "en": "assigning-and-testing-agents-in-agent-builder",
                     "es": "asignar-y-probar-agentes",
                     "pt": "atribuir-e-testar-agentes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Configuring extra safety guardrails per project",
+                    "es": "Configurar capas adicionales de seguridad por proyecto",
+                    "pt": "Configurar camadas extras de segurança por projeto"
+                  },
+                  "slug": {
+                    "en": "configuring-extra-safety-guardrails-per-project",
+                    "es": "configurar-capas-adicionales-de-seguridad-por-proyecto",
+                    "pt": "configurar-camadas-extras-de-seguranca-por-projeto"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -58295,13 +58373,13 @@
             {
               "name": {
                 "en": "Refund limited incorrectly due to duplicated receipt from race condition (OMS invoice/restutions)",
-                "es": "Reembolso limitado incorrectamente debido a un recibo duplicado por una condición de carrera (factura OMS/reembolsos)",
-                "pt": "Reembolso limitado incorretamente devido a um recibo duplicado causado por uma condição de corrida (fatura OMS/restituições)"
+                "es": "Reembolso limitado incorrectamente debido a un recibo duplicado de la condición de carrera (factura/restos de OMS)",
+                "pt": "O reembolso foi limitado incorretamente devido a um recibo duplicado referente à condição da corrida (nota fiscal/restituições da OMS)."
               },
               "slug": {
                 "en": "refund-limited-incorrectly-due-to-duplicated-receipt-from-race-condition-oms-invoicerestutions",
-                "es": "reembolso-limitado-incorrectamente-debido-a-un-recibo-duplicado-por-una-condicion-de-carrera-factura-omsreembolsos",
-                "pt": "reembolso-limitado-incorretamente-devido-a-um-recibo-duplicado-causado-por-uma-condicao-de-corrida-fatura-omsrestituicoes"
+                "es": "reembolso-limitado-incorrectamente-debido-a-un-recibo-duplicado-de-la-condicion-de-carrera-facturarestos-de-oms",
+                "pt": "o-reembolso-foi-limitado-incorretamente-devido-a-um-recibo-duplicado-referente-a-condicao-da-corrida-nota-fiscalrestituicoes-da-oms"
               },
               "origin": "",
               "type": "markdown",
