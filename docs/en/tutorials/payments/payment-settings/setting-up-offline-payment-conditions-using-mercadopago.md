@@ -23,7 +23,7 @@ Then follow the steps below:
 
 1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
 2. In the __Payment conditions__ tab, click the __+__ button.
-3. Select __Boleto bancário__ ("Bank Slip"). This option is compatible with all offline payment methods in your country (learn about it [here](/en/faq/what-offline-payment-conditions-are-available-in-latin-america)).
+3. Select __Boleto bancário__ ("Boleto"). This option is compatible with all offline payment methods in your country (learn about it [here](/en/faq/what-offline-payment-conditions-are-available-in-latin-america)).
 4. Click the __Status__ button to enable this payment condition.
 5. If there is an anti-fraud system set up in your store, you can activate it for this payment condition by checking the __Use Anti-Fraud__ box.
 6. Rename the payment condition to make it easier to identify. We recommend that you do this, especially if your store uses more than one.

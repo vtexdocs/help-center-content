@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-**Smart Pricing** in the [Mercado Libre integration](xxxxx) provides two features: **Price suggestions** and **Automatic price adjustment.** See below to learn about each feature and how to use it.
+**Smart Pricing** in the [Mercado Libre integration](/en/docs/tracks/mercado-libre-integration-set-up) provides two features: **Price suggestions** and **Automatic price adjustment.** See below to learn about each feature and how to use it.
 
 Both features are available only to clients using the **Mercado Libre Premium** integration.
 

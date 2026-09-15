@@ -1,0 +1,104 @@
+---
+title: 'Gerenciar lojas físicas no VTEX Sales App'
+id: 5PSjRstg7UU4lOm0s8aqKN
+status: PUBLISHED
+createdAt: 2020-06-29T13:30:51.354Z
+updatedAt: 2026-07-07T18:59:24.074Z
+publishedAt: 2023-07-26T18:59:24.074Z
+firstPublishedAt: 2020-06-29T14:22:11.121Z
+contentType: trackArticle
+productTeam: Shopping
+slugEN: managing-physical-stores-in-vtex-sales-app
+locale: pt
+trackId: zav76TFEZlAjnyBVL5tRc
+trackSlugEN: vtex-sales-app-getting-started-and-setting-up
+order: 5
+---
+
+Depois de fazer as [configurações básicas do VTEX Sales App no Admin](/pt/docs/tracks/vtex-sales-app-configuracoes-basicas), você pode adicionar outras lojas físicas ao sistema ou gerenciar lojas.
+
+**Loja física** é uma página das **Configurações da loja** do Admin VTEX que apresenta a listagem de lojas físicas cadastradas no aplicativo [VTEX Sales App](/pt/docs/tracks/o-que-e-o-vtex-sales-app). Nela, você pode gerenciar informações de todas as lojas físicas da conta.
+
+Esta página permite que você realize as seguintes ações:
+
+* [Cadastrar](#cadastrar-loja-fisica)
+* [Buscar](#buscar-loja-fisica)
+* [Editar](#editar-loja-fisica)
+* [Inativar](#inativar-loja-fisica)
+
+![loja-fisica-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/canais-de-venda/omnichannel/vtex-sales-app-primeiros-passos-e-configuracoes/adicionar-lojas-ao-instore_1.png)
+
+A página apresenta as seguintes informações:
+
+| Campos da coluna   | Descrição                                                                                                                                                                                  |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Nome               | Nome que identifica a loja física, definido na etapa [Cadastrar loja física](#cadastrar-loja-fisica). |
+| Telefone comercial | Número de telefone comercial da loja física.                                                                                                                                               |
+| Cidade             | Cidade onde a loja física está localizada.                                                                                                                                                 |
+| Estado             | Estado onde a loja física está localizada.                                                                                                                                                 |
+| Conta franquia     | [Conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia) onde a loja física está cadastrada.                                                       |
+| Política comercial | [Política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) aplicada na loja física.                                              |
+
+## Cadastrar loja física
+
+Você pode cadastrar uma loja física seguindo os passos a seguir:
+
+1. No Admin VTEX, clique em .
+2. No Admin VTEX, acesse **Configurações da loja > Sales App > Lojas físicas**, ou digite **Lojas físicas** na barra de busca no topo da página.
+3. Clique no botão `+ Cadastrar loja`.
+4. Preencha os [campos de cadastro da loja física](#campos-de-cadastro-da-loja-fisica).
+5. Clique em `Cadastrar`.
+6. Clique em `Salvar` para confirmar o cadastro da loja física.  
+
+### Campos de cadastro da loja física
+
+![loja-fisica2-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/canais-de-venda/omnichannel/vtex-sales-app-primeiros-passos-e-configuracoes/adicionar-lojas-ao-instore_2.png)
+
+#### Identificação
+
+* **Nome da loja:** nome da loja física que será cadastrada. Campo obrigatório.
+* **Telefone comercial:** número de telefone comercial da loja física.
+
+#### Endereço
+
+* **País:** país onde a loja física está localizada. Campo obrigatório.
+* **CEP:** CEP onde a loja física está localizada. Campo obrigatório.
+* **Rua:** nome da rua onde a loja física está localizada. Campo obrigatório.
+* **Número:** número do local onde a loja física está localizada na rua. Campo obrigatório.
+* **Complemento:** complemento do endereço da loja física, como o número de sala de galeria.
+* **Bairro:** bairro onde a loja física está localizada. Campo obrigatório.
+* **Cidade:** cidade onde a loja física está localizada. Campo obrigatório.
+* **Estado:** estado onde a loja física está localizada. Campo obrigatório.
+
+#### Informações técnicas
+
+* **Conta franquia:** nome da [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia) em que a loja física deve ser cadastrada.
+* **Política comercial:** [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) que será aplicada na loja física. Campo obrigatório.
+* **Ponto de retirada:** [ponto de retirada](/pt/docs/tutorials/pontos-de-retirada) cadastrado para essa loja física, onde clientes retiram seus pedidos.
+
+> ℹ️ As alterações podem levar até 15 minutos para serem processadas e aplicadas no VTEX Sales App.
+
+## Buscar loja física
+
+Você pode buscar uma loja física utilizando a barra de busca. É possível pesquisar pelo nome da loja física que deseja encontrar.
+
+## Editar loja física
+
+Você pode editar os dados de uma loja física seguindo os passos a seguir:
+
+1. Na linha da loja física que deseja editar, clique em <i class="fas fa-ellipsis-v"></i>.
+2. Clique em <i class="fas fa-pencil-alt"></i> `Editar`.
+3. Altere as informações que desejar.
+4. Clique em `Salvar` para finalizar.
+
+## Inativar loja física
+
+Você pode inativar uma loja física seguindo os passos a seguir:
+
+1. Na linha da loja física que deseja editar, clique em <i class="fas fa-ellipsis-v"></i>.
+2. Clique em <i class="fa-solid fa-box-archive"></i> `Inativar`.
+3. Clique em `Inativar` para confirmar e finalizar.
+
+Quando uma loja é inativada, todos os vendedores cadastrados nela perderão o acesso ao aplicativo do VTEX Sales App e não vão conseguir mais realizar o login.
+
+Para excluir definitivamente uma loja, entre em contato com nosso [suporte](https://supporticket.vtex.com/support).

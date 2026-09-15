@@ -13,6 +13,9 @@ slugEN: how-to-identify-promotions-applied-to-the-cart
 legacySlug: how-to-identify-promotions-applied-to-the-cart
 locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
+seeAlso:
+  - /en/docs/tracks/how-promotions-work
+  - /en/docs/tutorials/how-to-identify-promotions-attributed-to-an-sku
 ---
 
 There are four ways to understand which promotions are being applied to the cart. Check out the following sections to understand them:
@@ -28,10 +31,10 @@ You can place a test order in the store and then check in **Orders Management** 
 
 Example: Imagine an order in which free shipping has been applied, but you don't know the reason. By clicking on an order in **Orders Management**, you would find the name of the promotion registered in the **Sales and Marketing** or **Promotions and Partnerships** section.
 
-<img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/managing-promotions/how-to-identify-promotions-applied-to-the-cart_3.png" alt="order-details" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
+<figure><img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/managing-promotions/how-to-identify-promotions-applied-to-the-cart_3.png" alt="order-details" style="margin-bottom: 20px;" /> <figcaption align = "center"><em>Order details
 </em></figcaption></figure>
 
-<img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/managing-promotions/how-to-identify-promotions-applied-to-the-cart_4.png" alt="order-details-beta" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
+<figure><img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/managing-promotions/how-to-identify-promotions-applied-to-the-cart_4.png" alt="order-details-beta" style="margin-bottom: 20px;" /> <figcaption align = "center"><em>Order details
  (Beta)</em></figcaption></figure>
 
 If no promotion is listed, it indicates that the free shipping is not caused by a promotion, i.e. the shipping calculation in the **Inventory & shipping** module has resulted in zero. In this case, you have to use the **Shipping Simulator** to understand why shipping had zero value.
@@ -72,8 +75,3 @@ Follow the step-by-step instructions to find the `orderForm` and identify the pr
 The Promotions Simulator is a tool that allows you to see not only the promotions created in the VTEX platform and which were applied to the shopping cart, but also their activation conditions. Since there are multiple configurations for the promotions, it is important to be able to see the [competition](/en/docs/tutorials/how-promotion-competition-works), the combination of promotions during the purchase and the causes that trigger them.
 
 For more information, read the [Promotions Simulator (Beta)](/en/docs/tutorials/promotions-simulator-beta) article.
-
-## Learn more
-
-* [How promotions work](/en/docs/tracks/how-promotions-work)
-* [How to identify promotions attributed to an SKU?](/en/docs/tutorials/how-to-identify-promotions-attributed-to-an-sku)

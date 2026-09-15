@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:55:06.983Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slugEN: changing-the-logo-on-the-bank-slip
+slugEN: changing-the-logo-on-the-boleto
 legacySlug: como-alterar-el-logo-del-boleto
 locale: es
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma

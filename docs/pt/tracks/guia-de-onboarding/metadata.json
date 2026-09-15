@@ -2,5 +2,6 @@
   "id": "onboarding-guide",
   "name": "Guia de onboarding",
   "slug": "guia-de-onboarding",
-  "order": 1
+  "order": 1,
+  "type": "divider"
 }

@@ -13,6 +13,8 @@ slugEN: regular-promotion-with-reward-value
 legacySlug: regular-promotion-with-reward-value
 locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
+seeAlso:
+  - /en/docs/tutorials/regular-promotion
 ---
 
 The [Regular Promotion](/en/docs/tutorials/regular-promotion) offers discounts in a flexible way, combining multiple conditions, restrictions and benefits. One of the possibilities of this type of promotion is to provide a reward value to your customers, i.e., a credit that acts as cashback to be used in future store purchases. The purpose of this type of discount is to generate loyalty through recurrence of purchases, i.e. to offer an incentive for customers to return to shop in the store.
@@ -85,10 +87,10 @@ When a customer places an order that is eligible to receive a reward credit, you
 
 The name of the promotion applied to the order appears in the **Sales and marketing** section:
 
-<img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/rules-and-conditions/regular-promotion-with-reward-value_7.png" alt="order-details" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
+<figure><img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/rules-and-conditions/regular-promotion-with-reward-value_7.png" alt="order-details" style="margin-bottom: 20px;" /> <figcaption align = "center"><em>Order details
 </em></figcaption></figure>
 
-<img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/rules-and-conditions/regular-promotion-with-reward-value_8.png" alt="order-details-beta" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
+<figure><img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/rules-and-conditions/regular-promotion-with-reward-value_8.png" alt="order-details-beta" style="margin-bottom: 20px;" /> <figcaption align = "center"><em>Order details
  (Beta)</em></figcaption></figure>
 
 In the **Order flow** section, you can check the reward value applied:
@@ -112,7 +114,3 @@ The applied value can be used to calculate the payment. To do so, the customer m
 Note that the value will be deducted from the other method of payment selected. In the following example, the _boleto_ shows the amount of `R$ 113.50`, which corresponds to `R$ 167.80` minus the reward value used (`R$ 54.30`).
 
 ![checkout-2-pt (1)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/rules-and-conditions/regular-promotion-with-reward-value_6.png)
-
-## Learn more
-
-* [Regular Promotion](/en/docs/tutorials/regular-promotion)

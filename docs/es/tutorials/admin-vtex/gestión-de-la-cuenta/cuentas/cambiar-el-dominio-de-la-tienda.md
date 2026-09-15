@@ -15,7 +15,7 @@ locale: es
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
 ---
 
-Cambiar el [dominio](es/docs/tutorials/configurar-dominio-de-la-tienda) de una tienda después del go live requiere una atención cuidadosa para minimizar problemas de SEO y garantizar una transición transparente, sin afectar la experiencia de los clientes.
+Cambiar el [dominio](https://help.vtex.com/es/docs/tutorials/configurar-dominio-de-la-tienda) de una tienda después del go live requiere una atención cuidadosa para minimizar problemas de SEO y garantizar una transición transparente, sin afectar la experiencia de los clientes.
 
 > ⚠️ No remuevas ni modifiques el dominio existente hasta que la migración esté completamente finalizada y validada. Esto garantiza que la tienda permanezca accesible durante la transición, evitando la indisponibilidad.
 

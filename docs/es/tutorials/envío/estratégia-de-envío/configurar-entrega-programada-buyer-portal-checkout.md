@@ -16,7 +16,7 @@ La entrega programada en Buyer Portal Checkout permite a las tiendas VTEX ofrece
 
 > ⚠️ Para que la [Entrega programada](/es/docs/tutorials/entrega-programada) y la [Capacidad de entrega](/es/docs/tutorials/gestionar-capacidad-de-entrega) funcionen correctamente debes tener en cuenta que:
 >
-> - La suma de [`account name`](es/docs/tutorials/que-es-account-name) + `ID de la política de envío` no puede exceder los 60 caracteres.
+> - La suma de [`account name`](/es/docs/tutorials/que-es-account-name) + `ID de la política de envío` no puede exceder los 60 caracteres.
 > - No se deben utilizar espacios en el ID de las [políticas de envío](/es/docs/tutorials/crear-una-politica-de-envio).
 
 Este artículo muestra cómo configurar la entrega programada en una política de envío ya existente o en una nueva política de envío.
@@ -32,7 +32,7 @@ Las ventanas de entrega definen los periodos de operación de la transportadora,
 Para configurar las ventanas de entrega en una política de envío sigue los pasos a continuación:
 
 1. En el Admin de VTEX, accede a **Envío > Estrategia de Envío**, o ingresa **Estrategia de envío** en la barra de búsqueda en la parte superior de la página.
-2. En la pestaña **Políticas de envío**, haz clic en la política de envío deseada, o [crea una nueva política de envío](es/docs/tutorials/crear-una-politica-de-envio).
+2. En la pestaña **Políticas de envío**, haz clic en la política de envío deseada, o [crea una nueva política de envío](https://help.vtex.com/es/docs/tutorials/crear-una-politica-de-envio).
 3. En la sección **Horario laboral**, haz clic en la pestaña `Ventana de entrega`.
 4. Si lo deseas, activa la opción `Aceptar compras fuera del horario laboral`. Cuando está activada, el intervalo de tiempo entre el momento del pedido y el inicio del horario laboral se sumará al tiempo total de entrega.
 5. Selecciona el `Día de la semana` y completa la `Hora de inicio` y `Hora de fin`.
@@ -78,6 +78,6 @@ Para configurar la capacidad de entrega sigue los pasos a continuación:
 
 - [Política de envío](/es/docs/tutorials/politica-de-envio)
 - [Crear una política de envío](/es/docs/tutorials/crear-una-politica-de-envio)
-- [Entrega programada](es/docs/tutorials/entrega-programada)
-- [Gestionar capacidad de entrega](es/docs/tutorials/gestionar-capacidad-de-entrega)
-- [Estrategia de envío](es/docs/tutorials/estrategia-de-envio)
+- [Entrega programada](/es/docs/tutorials/entrega-programada)
+- [Gestionar capacidad de entrega](/es/docs/tutorials/gestionar-capacidad-de-entrega)
+- [Estrategia de envío](/es/docs/tutorials/estrategia-de-envio)

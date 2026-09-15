@@ -6051,7 +6051,7 @@
       },
       {
         "from": "/faq/how-are-the-payments-made-through-bank-slips-approved",
-        "to": "/tutorial/how-are-the-payments-made-through-bank-slips-approved"
+        "to": "/tutorial/how-are-the-payments-made-through-boletos-approved"
       },
       {
         "from": "/tutorial/information-about-uruguay-custom-payments--4cXMr3C5rqIkUkMWgCcWeU",
@@ -8003,7 +8003,7 @@
       },
       {
         "from": "/faq/why-does-payment-with-registered-bank-slip-require-authentication",
-        "to": "/tutorial/why-does-payment-with-registered-bank-slip-require-authentication"
+        "to": "/tutorial/why-does-payment-with-registered-boleto-require-authentication"
       },
       {
         "from": "/tutorial/suggestion-devuelve-error-al-intentar-procesar-sugerencia-de-sku",
@@ -9213,7 +9213,7 @@
       },
       {
         "from": "/tutorial/how-do-i-change-the-logo-on-the-payment-slip",
-        "to": "/en/docs/tutorials/changing-the-logo-on-the-bank-slip"
+        "to": "/en/docs/tutorials/changing-the-logo-on-the-boleto"
       },
       {
         "from": "/tutorial/choosing-between-a-multi-store-architecture-or-an-additional-environment",

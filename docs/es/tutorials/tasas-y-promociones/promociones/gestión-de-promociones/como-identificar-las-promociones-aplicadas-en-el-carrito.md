@@ -13,6 +13,9 @@ slugEN: how-to-identify-promotions-applied-to-the-cart
 legacySlug: como-identificar-las-promociones-aplicadas-en-el-carrito
 locale: es
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
+seeAlso:
+  - /es/docs/tracks/como-funcionan-las-promociones
+  - /es/docs/tutorials/como-identificar-promociones-asignadas-un-sku
 ---
 
 Hay tres maneras de saber cuáles son las promociones que están aplicándose en el carrito. En las secciones a continuación, te mostraremos cuáles son:
@@ -28,9 +31,9 @@ Puedes hacer un pedido de prueba en la tienda y, luego, verificar en **Gestión 
 
 Ejemplo: imagina un pedido en el que se aplicó el envío gratis, pero no sabes por qué. Al hacer clic en un pedido en **Gestión de pedidos**, encontrarás el nombre de la promoción registrada en la sección **Ventas y Marketing** o **Promociones y asociaciones**.
 
-<img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/gestión-de-promociones/como-identificar-las-promociones-aplicadas-en-el-carrito_3.png" alt="detalles-del-pedido" style="margin-bottom: 20px;"> <figcaption align = "center">*Detalles del pedido*</figcaption></figure>
+<figure><img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/gestión-de-promociones/como-identificar-las-promociones-aplicadas-en-el-carrito_3.png" alt="detalles-del-pedido" style="margin-bottom: 20px;" /> <figcaption align = "center">*Detalles del pedido*</figcaption></figure>
 
-<img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/gestión-de-promociones/como-identificar-las-promociones-aplicadas-en-el-carrito_4.png" alt="detalles-del-pedido-beta" style="margin-bottom: 20px;"> <figcaption align = "center">*Detalles del pedido (Beta)*</figcaption></figure>
+<figure><img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/gestión-de-promociones/como-identificar-las-promociones-aplicadas-en-el-carrito_4.png" alt="detalles-del-pedido-beta" style="margin-bottom: 20px;" /> <figcaption align = "center">*Detalles del pedido (Beta)*</figcaption></figure>
 
 Si no hay ninguna promoción en la lista, eso significa que el envío gratis no se debe a una promoción, es decir, que el cálculo del envío en el módulo **Stock y entrega** tuvo como resultado cero. En ese caso, será necesario usar el **Simulador de envío** para comprender por qué razón el envío tiene un valor de cero.
 
@@ -70,8 +73,3 @@ Sigue estos pasos para encontrar el `orderForm` e identificar las promociones ap
 El Simulador de promociones es una herramienta que permite ver las promociones creadas en la plataforma VTEX que se aplicaron al carrito y sus condiciones de activación. Como las promociones pueden configurarse de diversas maneras, es importante poder ver la [competencia](/es/docs/tutorials/como-funciona-la-competencia-de-promociones), la acumulación de promociones durante la compra y las causas de activación de dichas promociones.
 
 Para obtener más información, lea el artículo [Simulador de promociones (Beta)](/es/docs/tutorials/simulador-de-promociones-beta).
-
-## Más información
-
-* [Cómo funcionan las promociones](/es/docs/tracks/como-funcionan-las-promociones)
-* [Cómo identificar promociones asignadas a un SKU](/es/docs/tutorials/como-identificar-promociones-asignadas-un-sku)

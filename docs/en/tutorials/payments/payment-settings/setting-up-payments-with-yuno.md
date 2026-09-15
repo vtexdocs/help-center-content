@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the Yuno payment provider. With this provider, your store can make sales through ards (credit, debit, private label, cob-branded), notes payable, bank slips, PIX, PSE, among others.
+At VTEX, it is possible to integrate with the Yuno payment provider. With this provider, your store can make sales through ards (credit, debit, private label, cob-branded), notes payable, Boletos, PIX, PSE, among others.
 
 To configure Yuno, follow the steps below:
 

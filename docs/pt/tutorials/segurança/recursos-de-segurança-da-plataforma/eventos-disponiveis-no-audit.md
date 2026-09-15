@@ -1,18 +1,12 @@
 ---
 title: 'Eventos disponíveis no Audit'
-id: 6r1Mzcu5NmkmmDLJlz9CCZ
-status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2026-08-25T00:00:00.000Z
-publishedAt: 2025-08-25T18:20:54.585Z
-firstPublishedAt: 2022-06-22T16:28:52.801Z
+updatedAt: 2026-09-14T00:00:00.000Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: events-available-in-audit
-legacySlug: eventos-disponiveis-no-audit
 locale: pt
-subcategoryId: 2TNXiKzLZOPxjMTyGiEeJu
 ---
 
 Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs/tutorials/audit) por aplicação.
@@ -41,10 +35,13 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 * [Ad Network](#ad-network)
 * [Tokens de cartão](#tokens-de-cartao)
 * [Unidades organizacionais](#unidades-organizacionais)
+* [Opções de envio](#opcoes-de-envio)
+* [Agente de Otimização de Busca](#agente-de-otimizacao-de-busca)
+* [Autenticador](#autenticador)
 
 > ℹ️ Caso você visualize no Audit algum evento que não esteja listado aqui, por favor nos informe usando a [página de feedback de documentação](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
-> ⚠️ Nas opções de filtros do Audit, você pode encontrar **Opções de envio**, **Profile System** e **Billing** além das aplicações citadas abaixo. Essas opções se referem a recursos internos ou funcionalidades em fase beta fechada, portanto, a maior parte das contas não terão eventos associados.
+> ⚠️ Nas opções de filtros do Audit, você pode encontrar **Profile System** e **Billing** além das aplicações citadas abaixo. Essas opções se referem a recursos internos ou funcionalidades em fase beta fechada, portanto, a maior parte das contas não terão eventos associados.
 
 ## OMS
 
@@ -447,4 +444,37 @@ Na coluna **Ação**, todos os eventos do Headless CMS (Legacy) também apresent
 | SaveOrganizationUnit | Criação de uma unidade organizacional. | ID da unidade organizacional. |
 | UpdateOrganizationUnit | Atualização do nome de uma unidade organizacional. | ID da unidade organizacional. |
 | MoveOrganizationUnit | Criação de hierarquia entre unidades organizacionais. | ID da unidade organizacional de nível superior e ID da unidade organizacional de nível inferior. |
+
+## Opções de envio
+
+> ℹ️ [Opções de envio](/pt/docs/tutorials/opcoes-de-envio-beta) está em fase de open beta. Esses eventos são registrados apenas em contas que usam Opções de envio. Nas demais contas, a busca por essa aplicação não retorna resultados.
+
+| Ação | Descrição do evento | Detalhes do evento |
+|---|---|---|
+| DELIVERY_OPTION_CREATE | Criação manual de uma opção de envio. Não há estado anterior da opção de envio. | ID da opção de envio. |
+| DELIVERY_OPTION_UPDATE | Atualização de uma opção de envio existente, seja na edição de campos, seja na ativação ou desativação. A ativação e a desativação só são registradas quando o status muda de fato. | ID da opção de envio. |
+| DELIVERY_OPTION_DELETE | Exclusão de uma opção de envio. O evento registra o estado da opção de envio imediatamente antes da exclusão. | ID da opção de envio. |
+| DELIVERY_OPTION_UPDATE_ACCOUNT_CONFIG | Atualização das configurações da conta de Opções de envio, como o filtro na página de listagem de produtos e as preferências de exibição na vitrine. A entidade auditada é a configuração da conta, não uma opção de envio individual. | Nome da conta. |
+| DELIVERY_OPTION_CHANGED_FILTER | Alteração nas opções de envio usadas como filtro na vitrine. | ID da opção de envio. |
+| DELIVERY_OPTION_AUTOGENERATE_CREATE | Criação de uma opção de envio pelo fluxo de geração automática, a partir de uma sugestão. Opções de envio geradas automaticamente são sempre criadas como inativas, aguardando revisão manual. | ID da opção de envio. |
+| DELIVERY_OPTION_AUTOGENERATE_UPDATE | Edição manual de uma opção de envio gerada automaticamente em um campo diferente do status, que deixa de ser tratada como gerada pela plataforma. Alterar apenas o status não gera esse evento. | ID da opção de envio. |
+
+## Agente de Otimização de Busca
+
+| Ação | Descrição do evento | Detalhes do evento |
+|---|---|---|
+| CreateSynonymRule | Criação de uma regra de sinônimo unidirecional. | ID da regra, termos (esquerda e direita), locales e se a regra está ativa. |
+| CreateBidirectionalSynonymRule | Criação de uma regra de sinônimo bidirecional. | ID da regra, termos (esquerda e direita), locales e se a regra está ativa. |
+| DeleteSynonymRule | Exclusão de uma regra de sinônimo. | ID da regra. |
+| ActivateSynonymRule | Ativação de uma regra de sinônimo. | ID da regra. |
+| DeactivateSynonymRule | Desativação de uma regra de sinônimo. | ID da regra. |
+| CreateRedirect | Criação de uma regra de redirecionamento da busca. | ID do redirecionamento, termos de origem, caminho de destino, conjunção, modo de correspondência, locales e se o redirecionamento está ativo. |
+
+## Autenticador
+
+| Ação | Descrição do evento | Detalhes do evento |
+|---|---|---|
+| DelegationCreated | Criação de uma delegação que concede a um usuário permissão para agir em nome de outro usuário da mesma unidade organizacional, durante um período definido. | ID da delegação, ID da unidade organizacional, ID do usuário original, ID do usuário delegado e período. |
+| DelegationUpdated | Atualização do período de uma delegação. | ID da delegação e período. |
+| DelegationRevoked | Revogação de uma delegação antes da data de término. | ID da delegação. |
 

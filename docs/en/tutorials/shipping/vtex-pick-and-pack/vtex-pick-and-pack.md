@@ -1,44 +1,50 @@
 ---
 title: 'VTEX Pick and Pack'
-id: 1OOops3WrUyz7e0bnhkfXU
-status: PUBLISHED
 createdAt: 2023-04-10T15:22:56.572Z
-updatedAt: 2023-08-25T15:48:44.351Z
-publishedAt: 2023-08-25T15:48:44.351Z
-firstPublishedAt: 2023-04-10T15:42:38.221Z
+updatedAt: 2026-08-13T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: vtex-pick-and-pack
-legacySlug: vtex-pick-and-pack
 locale: en
-subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
+hidden: false
+categoryCover: true
 ---
 
-> ℹ️ If you are interested in implementing for your business, fill out our [form](https://vtex.com/us-en/contact/) and indicate the name of the desired product in the `Comments` section.
+> ℹ️ **VTEX Pick and Pack** isn't available in the VTEX Admin by default. To enable the solution in your store, request activation from the VTEX Product Support team.
 
-**VTEX Pick and Pack** is the solution that enables merchants to manage order picking, packing, and delivery from physical stores and warehouses to customers’ addresses or [pickup points](/en/docs/tutorials/pickup-points). All management is made in one place, providing visibility and control for merchants through the whole fulfillment process.
+**VTEX Pick and Pack** is the solution that allows merchants to manage order picking, packing, and delivery from physical stores and warehouses to customers’ addresses or [pickup points](/en/docs/tutorials/pickup-points). All management is made in one place, providing visibility and control for merchants throughout the fulfillment process.
 
 ## Capabilities
 
 Some of the **VTEX Pick and Pack** capabilities are the following:
 
-* The **picker** receives a notification on their own device to start the picking process, and has no access to the store’s Admin.
-* The **merchant** can configure packages and print labels with barcodes, so the picker can scan the barcodes and avoid mispicks.
-* The **merchant** can enable the communication between the picker and the customer to resolve scenarios like the replacement, rejection or addition of items.
-* The **merchant** can manage the driver schedule during the shipping process, and the order tracking occurs in real-time.
-* The **driver**’s route is optimized and compatible with Google Maps and Waze.
-* The driver can upload proof of pick-up and delivery of parcels: notes, signatures and pictures. 
+- Pickers can scan barcodes in the mobile app to change orders and pick items without access to the store Admin.
+- Merchants can:
 
-With **VTEX Pick and Pack**, merchants can also collect data and analytics on the fulfillment process, in a data-driven approach to improve pickers’ performance, optimize physical stores and warehouses distributions, and increase logistics efficiency overall.
+  - Configure packages and labels with barcodes. Package labels are printed by the picker using the mobile app.
+  - The merchant can enable communication between the picker and the customer to handle scenarios such as replacing, rejecting, or adding items.
+  - Track delivery statuses in the Admin via the integration with the carriers that handle shipping.
+  - Manage the in-store pickup order flow.
 
-## Fulfillment, Last Mile and mobile applications 
+With **VTEX Pick and Pack**, merchants can also collect data and analytics on the fulfillment process, using a data-driven approach to improve pickers' performance, optimize physical store and warehouse distribution, and increase overall logistics efficiency.
 
-**VTEX Pick and Pack** is a solution composed of:
+## VTEX Pick and Pack pages
 
-* **[Fulfillment](/en/docs/tutorials/vtex-pick-and-pack-fulfillment):** Admin app that enables the communication between the picker and the store operator. Pickers can scan items using their mobile devices and, if the store’s operators allow them to, they can manage order changes, like replacing, removing and adding items. Pickers can gain permission to communicate with customers through their own devices, with no access to the store's Admin.
-* **[Last Mile](/en/docs/tutorials/vtex-pick-and-pack-last-mile):** Admin app for the store operator to instruct delivery drivers from their own fleet about collecting and delivering orders to customers’ address or pickup points. It includes route optimization and proof of collecting and delivering, meaning the driver can upload the customer's signature, a picture, or a note confirming the delivery was made.  
-* **Mobile Applications:** Applications for mobile devices meant exclusively for pickers and drivers, so that they fulfill their parts with no access to the store’s Admin.
+In the VTEX Admin, go to **Shipping > Pick and Pack**. The solution is composed of the following pages, each with its own documentation:
 
-> ℹ️ **Fulfillment** and **Last Mile** apps for pickers and drivers are available only for Android devices.
+- **[Orders](/en/docs/tutorials/vtex-pick-and-pack-orders):** Consult, search, and filter the orders processed by the solution.
+- **[Worksheets](/en/docs/tutorials/vtex-pick-and-pack-worksheets):** Create and follow up on the worksheets that group orders for picking.
+- **[Insights](/en/docs/tutorials/vtex-pick-and-pack-insights):** Process time and performance indicators for the fulfillment operation.
+- **[Settings](/en/docs/tutorials/vtex-pick-and-pack-settings):** Configure orders, worksheets, items, automation, users, and integrations.
+- **[Last Mile](/en/docs/tutorials/vtex-pick-and-pack-last-mile):** Track deliveries in the VTEX Admin, with carrier integration for shipping status updates and support for the in-store pickup flow.
 
+> ⚠️ The **Last Mile** mobile app for drivers was discontinued in 2024. Last Mile remains available in the VTEX Admin only.
+
+In addition to the Admin pages, the solution includes a **[mobile app](/en/docs/tutorials/vtex-pick-and-pack-mobile)** exclusively for pickers, allowing them to perform their tasks without accessing the store Admin.
+
+> ℹ️ The **VTEX Pick and Pack** mobile app is available for Android devices only.
+
+## Learn more
+
+- [VTEX Pick and Pack: FAQ](/en/docs/tutorials/vtex-pick-and-pack-faq)
+- [Order flow and status](/en/docs/tutorials/order-flow-and-status)

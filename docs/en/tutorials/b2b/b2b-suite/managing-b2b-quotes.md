@@ -44,7 +44,7 @@ You must configure some [permissions](#access-permissions) to access B2B Quotes.
 | Edit my organization quotes and carts      | Sales Manager                                                                                                                            |
 
 ## My quotes
-The **B2B Quotes** app enables the page **My Quotes**, which is an interface for managing quotes and carts saved in the store. To access this page, you must be logged in and have the required [permissions](access-permissions).
+The **B2B Quotes** app enables the page **My Quotes**, which is an interface for managing quotes and carts saved in the store. To access this page, you must be logged in and have the required [permissions](#access-permissions).
 
 To access **My Quotes**, follow the instructions below:
 

@@ -27,7 +27,7 @@ As the first player in the flow, it's responsible for sending this information t
 
 As an intermediary between an e-commerce and its payment method used, the gateway acts as a terminal, integrating in all the transactions carried out between the players of the payment flow in a single place.
 
-By activating the [connectors](/en/docs/tutorials/what-is-the-connector) and registering [payment and anti-fraud providers](https://help.vtex.com/docs/tutorials/registering-gateway-affiliations), your client's shopping data can be sent to acquirers or other gateways and thus move on through the approval flow in financial institutions. 
+By activating the [connectors](/en/docs/tutorials/what-is-the-connector) and registering [payment and anti-fraud providers](https://help.vtex.com/en/docs/tutorials/registering-gateway-affiliations), your client's shopping data can be sent to acquirers or other gateways and thus move on through the approval flow in financial institutions.
 
 VTEX platform has its own [PCI](/en/docs/tutorials/what-is-the-pci-ssc) certified gateway, which means that data from any payment made in your store is protected according to the highest security standards.
 
@@ -61,7 +61,7 @@ In the [credit card payment flow](/en/docs/tutorials/credit-card-basic-payment-f
 
 ## Issuing Bank
 
-The issuing bank is the financial institution responsible for the payment method, be it by bank slip, debit or credit card. It is the one who, when receiving the data of a purchase made in your store, will either authorize the sale or not (depending on the  available credit limit or available monetary resources in the user's account). If everything is OK, the bank collects the value.
+The issuing bank is the financial institution responsible for the payment method, be it by Boleto, debit or credit card. It is the one who, when receiving the data of a purchase made in your store, will either authorize the sale or not (depending on the  available credit limit or available monetary resources in the user's account). If everything is OK, the bank collects the value.
 
 This concept is important because it allows you to set up [special conditions](/en/docs/tutorials/special-conditions) for payments made through specific banks. In addition, for registered payment tickets, each bank has its own form of issuance.
 

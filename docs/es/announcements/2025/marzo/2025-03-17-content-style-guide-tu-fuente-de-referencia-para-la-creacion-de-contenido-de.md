@@ -34,7 +34,7 @@ Con el fin de garantizar una experiencia fluida para todos, presentamos la nueva
 
 - [Formatting](https://contentguide.vtex.com/es/docs/formatting): aplica reglas esenciales de formato para el contenido de productos.
 
-- [Textos para interfaz](https://contentguide.vtex.com/es/docs/user-interfaces): redacta contenido claro y coherente para los elementos de la interfaz, mejorando la usabilidad.
+- [Textos para interfaz](https://contentguide.vtex.com/es/docs/interface-copy): redacta contenido claro y coherente para los elementos de la interfaz, mejorando la usabilidad.
 
 - [Documentación](https://contentguide.vtex.com/es/docs/documentation): crea artículos claros y prácticos para Help Center y Developer Portal que transmitan información de manera efectiva.
 
