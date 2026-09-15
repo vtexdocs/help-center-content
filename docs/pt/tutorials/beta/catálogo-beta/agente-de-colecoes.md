@@ -21,7 +21,7 @@ A [coleção](https://help.vtex.com/pt/docs/tutorials/tipos-de-colecao) é o agr
 Além de permitir realizar tudo o que era feito pela [interface legada](https://help.vtex.com/pt/docs/tutorials/criando-colecao-de-produtos), o **Agente de Coleções** oferece outras vantagens:
 
 - Uma experiência conversacional intuitiva.
-- A possibilidade de criar e gerenciar coleções e sortimentos a partir de regras inclusivas e exclusivas.
+- A possibilidade de criar e gerenciar sortimentos
 - A opção de gerenciar coleções usando como critério especificações de produto e especificações de SKU.
 
 ## Avisos da fase beta
