@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Ship from store for marketplaces available in open beta",
+                    "es": "Ship from store for marketplaces",
+                    "pt": "Ship from store para marketplaces disponível em open beta"
+                  },
+                  "slug": {
+                    "en": "2026-09-15-ship-from-store-for-marketplace",
+                    "es": "2026-09-15-ship-from-store-for-marketplaces",
+                    "pt": "2026-09-15-inventario-regionalizado-disponivel-para-o-magalu"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "VTEX CX Platform: WhatsApp automation execution logs",
                     "es": "VTEX CX Platform: logs de ejecución de las automatizaciones de WhatsApp",
                     "pt": "VTEX CX Platform: logs de execução das automações de WhatsApp"
@@ -92,37 +107,6 @@
                     "en": "2026-09-01-intelligent-search-synonym-conflict-detection",
                     "es": "2026-09-01-intelligent-search-deteccion-de-sinonimos-conflictivos",
                     "pt": "2026-09-01-intelligent-search-deteccao-de-sinonimos-conflitantes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Septiembre",
-                "es": "Septiembre",
-                "pt": "Setembro"
-              },
-              "slug": {
-                "en": "septiembre",
-                "es": "2026-septiembre",
-                "pt": "2026-setembro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "Ship from store for marketplaces",
-                    "pt": "Ship from store para marketplaces disponível em open beta",
-                    "en": "Ship from store for marketplaces"
-                  },
-                  "slug": {
-                    "es": "2026-09-15-ship-from-store-for-marketplaces",
-                    "pt": "2026-09-15-inventario-regionalizado-disponivel-para-o-magalu",
-                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
