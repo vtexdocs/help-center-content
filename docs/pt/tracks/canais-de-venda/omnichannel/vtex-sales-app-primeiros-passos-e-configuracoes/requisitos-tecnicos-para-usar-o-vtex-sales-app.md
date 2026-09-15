@@ -5,13 +5,13 @@ createdAt: 2026-09-15T00:00:00.000Z
 updatedAt: 2026-09-15T00:00:00.000Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: technical-requisites-for-using-the-vtex-sales-app
+slugEN: technical-requirements-for-using-the-vtex-sales-app
 locale: pt
 trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 2
 ---
 
-Este artigo explica requisitos e recomendações técnicas para que a loja utilize o **VTEX Sales App**, e aborda tópicos como equipamentos e parceiros.
+Este artigo descreve os requisitos técnicos para usar o **VTEX Sales App**.
 
 > ℹ️ Algumas funcionalidades específicas do **Sales App** podem exigir outros pré-requisitos técnicos, este artigo é voltado para o uso básico do **Sales App**.
 
@@ -27,8 +27,8 @@ A loja precisa dispor de pelo menos um dispositivo móvel. Para manter o bom fun
 
 Os dispositivos preferencialmente devem estar atualizados com a versão mais recente do sistema operacional e, no mínimo, precisam ter compatibilidade com:
 
-- **IOs:** três versões mais recentes.
-- **Android:** quatro versões mais recentes.
+- Três versões mais recentes do **iOS**
+- Quatro versões mais recentes do **Android**
 
 Os dispositivos utilizados precisam ter conexão à internet, podendo ser por meio de rede Wi-Fi ou 4G/5G.
 
@@ -64,7 +64,7 @@ O **Sales App** permite a leitura do código de barras dos produtos usando a câ
 
 ### Máquinas de cartão de crédito
 
-Máquininhas de cartão de crédito (Bluetooth ou USB) permitem que as lojas físicas processem os pagamentos. Elas são oferecidas por parceiros de pagamento, sejam eles adquirentes ou sub-adquirentes.
+As máquinas de cartão de crédito (Bluetooth ou USB) permitem que as lojas físicas processem os pagamentos. Elas são oferecidas por parceiros de pagamento, sejam eles adquirentes ou sub-adquirentes.
 
 No contexto do **Sales App**, recomendamos que as lojas contratem empresas para [pagamento](#pagamento) e [faturamento](#faturamento) que possuem uma parceria com a VTEX.
 
@@ -72,7 +72,7 @@ No contexto do **Sales App**, recomendamos que as lojas contratem empresas para 
 
 Para facilitar a operação das lojas e oferecer maior segurança, a VTEX realiza parcerias com algumas empresas. No caso do **Sales App**, se tratam de empresas que viabilizam a operação de lojas físicas, e esta seção listadas quais são as principais.
 
-> ℹ️ Além as parcerias empresariais apresentadas neste artigo, a VTEX conta com a participação de diversas agências e [parceiros de implementação (System Integration Partners)](https://vtex.com/br-pt/partner/). Para mais informações, entre em contato com o [suporte](https://vtex.com/br/support).
+> ℹ️ Além as parcerias empresariais apresentadas neste artigo, a VTEX conta com a participação de diversas agências e [parceiros de implementação (System Integration Partners)](https://vtex.com/br-pt/partner/). Para mais informações, entre em contato com o [Suporte VTEX](https://vtex.com/br/support).
 
 ### Integração com pontos de venda (PDV)
 
