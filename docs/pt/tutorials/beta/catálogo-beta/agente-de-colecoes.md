@@ -62,24 +62,6 @@ O **Agente de Coleções** opera a partir das seguintes regras:
 - **Desambiguação conversacional:** quando uma instrução é vaga ou corresponde a mais de uma entidade do catálogo, o agente pausa e apresenta opções em vez de adivinhar.
 - **Confirmação antes de mudanças de alto impacto:** antes de alterações relevantes (por exemplo, editar uma coleção compartilhada por muitos sortimentos), o agente mostra o alcance da mudança e solicita a confirmação do usuário.
 
-## Inclusão de todos os produtos do catálogo em uma coleção
-
-Não existe, atualmente, uma forma automática de incluir todos os produtos do catálogo em uma coleção de modo que ela se mantenha sincronizada. É possível incluir todos os produtos usando as regras dinâmicas existentes, mas cada uma tem suas limitações:
-
-- **Por categorias:** ao selecionar todas as categorias do catálogo, como todo produto precisa ter uma categoria, todos os produtos são incluídos.
-- **Por marcas:** ao selecionar todas as marcas, como todo produto precisa ter uma marca, todos os produtos são incluídos.
-- **Por especificação de produto:** ao selecionar uma especificação com o mesmo valor presente em todos os produtos. A especificação precisa estar ativa e ser do tipo combo (seleção múltipla) ou rádio (seleção única), pois o tipo texto não é suportado.
-
-Pontos de atenção comuns a essas opções:
-
-- Categorias, marcas ou especificações **inativas** entram na coleção, mas seus produtos não aparecem na navegação enquanto estiverem inativos. Se forem ativadas depois, os produtos passam a aparecer (regra do [Intelligent Search](https://help.vtex.com/pt/docs/tutorials/intelligent-search-visao-geral)).
-- Se uma categoria, marca ou especificação for **desativada** após a criação da coleção, seus produtos permanecem na coleção, mas deixam de aparecer na navegação (regra do **Intelligent Search**).
-- Categorias e marcas **criadas após** a coleção não são incluídas automaticamente.
-- Uma categoria, marca ou especificação **removida** do catálogo após a criação da coleção retira seus produtos da coleção.
-- No caso da especificação de produto, produtos sem a especificação, com o valor em branco ou com valor diferente ficam de fora.
-
-Nenhuma dessas opções é um espelho permanente do catálogo: o que compõe "todos os produtos" hoje pode mudar conforme o catálogo evolui, e nenhum dos caminhos se atualiza sozinho para capturar o que for criado depois. Independentemente da opção escolhida, um plano com a estrutura proposta é gerado para aprovação antes de qualquer alteração ser aplicada.
-
 ## Realizar ações em coleções
 
 > ⚠️ Os exemplos de instruções apresentados a seguir são apenas para fins ilustrativos e não são a única forma de o agente executar uma ação.
@@ -221,3 +203,21 @@ Para localizar e gerenciar o sortimento desejado, você pode buscá-lo por nome 
 - Data de criação do sortimento
 - Nome do sortimento
 - ID do sortimento
+
+## Resolução de problemas
+
+Não existe, atualmente, uma forma automática de incluir todos os produtos do catálogo em uma coleção de modo que ela se mantenha sincronizada. É possível incluir todos os produtos usando as regras dinâmicas existentes, mas cada uma tem suas limitações:
+
+- **Por categorias:** ao selecionar todas as categorias do catálogo, como todo produto precisa ter uma categoria, todos os produtos são incluídos.
+- **Por marcas:** ao selecionar todas as marcas, como todo produto precisa ter uma marca, todos os produtos são incluídos.
+- **Por especificação de produto:** ao selecionar uma especificação com o mesmo valor presente em todos os produtos. A especificação precisa estar ativa e ser do tipo combo (seleção múltipla) ou rádio (seleção única), pois o tipo texto não é suportado.
+
+Pontos de atenção comuns a essas opções:
+
+- Categorias, marcas ou especificações **inativas** entram na coleção, mas seus produtos não aparecem na navegação enquanto estiverem inativos. Se forem ativadas depois, os produtos passam a aparecer (regra do [Intelligent Search](https://help.vtex.com/pt/docs/tutorials/intelligent-search-visao-geral)).
+- Se uma categoria, marca ou especificação for **desativada** após a criação da coleção, seus produtos permanecem na coleção, mas deixam de aparecer na navegação (regra do **Intelligent Search**).
+- Categorias e marcas **criadas após** a coleção não são incluídas automaticamente.
+- Uma categoria, marca ou especificação **removida** do catálogo após a criação da coleção retira seus produtos da coleção.
+- No caso da especificação de produto, produtos sem a especificação, com o valor em branco ou com valor diferente ficam de fora.
+
+Nenhuma dessas opções é um espelho permanente do catálogo: o que compõe "todos os produtos" hoje pode mudar conforme o catálogo evolui, e nenhum dos caminhos se atualiza sozinho para capturar o que for criado depois. Independentemente da opção escolhida, um plano com a estrutura proposta é gerado para aprovação antes de qualquer alteração ser aplicada.
