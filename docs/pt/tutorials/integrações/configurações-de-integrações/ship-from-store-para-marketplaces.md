@@ -37,11 +37,19 @@ flowchart TB
     G -->|Não| H[Pedido bloqueado<br/>por divergência de preço]
 ```
 
+## Pré-requisitos
+
+Para usar o Ship from store para marketplaces, a loja precisa ter:
+
+- [Arquitetura de franquia](/pt/docs/tutorials/o-que-e-conta-franquia), com [contas franquia](/pt/docs/tutorials/o-que-e-conta-franquia) e estoque cadastrado e atualizado na VTEX.
+- [Multilevel Omnichannel Inventory (MOI)](/pt/docs/tutorials/multilevel-omnichannel-inventory) para o fluxo de pedidos em cadeia.
+- [Integração com o Magalu](/pt/docs/tracks/magazine-luiza-marketplace) ativa na conta principal.
+
+No momento, a funcionalidade está disponível somente para o Magalu.
+
 ## Configurar o Ship from store para marketplaces
 
-A configuração é feita na conta principal. A loja precisa usar arquitetura de franquia, com a integração do marketplace ativa e o estoque das contas franquia cadastrado e atualizado na VTEX.
-
-No momento, o Ship from store para marketplaces está disponível somente para o Magalu. Siga os passos abaixo para habilitar o estoque das contas franquia nesse canal.
+A configuração é feita na conta principal. Siga os passos abaixo para habilitar o estoque das contas franquia nesse canal.
 
 ### Magalu
 

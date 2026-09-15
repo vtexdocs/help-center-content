@@ -4,7 +4,7 @@ createdAt: 2026-09-15T12:00:00.000Z
 updatedAt: 2026-09-15T12:00:00.000Z
 contentType: updates
 productTeam: Channels
-slugEN: 2026-09-15-regionalized-inventory-available-for-magalu
+slugEN: 2026-09-15-ship-from-store-for-marketplace
 locale: pt
 announcementSynopsisPT: 'Lojistas com arquitetura de franquia podem vender no Magalu o estoque das lojas físicas, com pedidos cumpridos pelas próprias franquias.'
 tags:
@@ -28,4 +28,4 @@ Os principais benefícios são:
 
 ## O que precisa ser feito?
 
-A funcionalidade está em open beta e, no momento, disponível somente para o Magalu. Para usá-la, a loja precisa ter arquitetura de franquia e a [integração com o Magalu](/pt/docs/tracks/magazine-luiza-marketplace) ativa na conta principal. Verifique o passo a passo completo no tutorial [Ship from store para marketplaces](/pt/docs/tutorials/ship-from-store-para-marketplaces).
+A funcionalidade está em open beta. No momento, está disponível somente para o Magalu. Para usá-la, a loja precisa ter arquitetura de franquia e a [integração com o Magalu](/pt/docs/tracks/magazine-luiza-marketplace) ativa na conta principal. Verifique o passo a passo completo no tutorial [Ship from store para marketplaces](/pt/docs/tutorials/ship-from-store-para-marketplaces).
