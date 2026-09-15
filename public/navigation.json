@@ -25,6 +25,37 @@
           "children": [
             {
               "name": {
+                "en": "September",
+                "es": "Septiembre",
+                "pt": "Setembro"
+              },
+              "slug": {
+                "en": "2026-september",
+                "es": "2026-septiembre",
+                "pt": "2026-setembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Ship from store for marketplaces available in open beta",
+                    "es": "Ship from store para marketplaces disponible en beta abierta",
+                    "pt": "Ship from store para marketplaces disponível em open beta"
+                  },
+                  "slug": {
+                    "en": "2026-09-15-regionalized-inventory-available-for-magalu",
+                    "es": "2026-09-15-inventario-regionalizado-disponible-para-magalu",
+                    "pt": "2026-09-15-inventario-regionalizado-disponivel-para-o-magalu"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "August",
                 "es": "Agosto",
                 "pt": "Agosto"
@@ -37,21 +68,6 @@
               "origin": "",
               "type": "category",
               "children": [
-                {
-                  "name": {
-                    "en": "Regionalized inventory on Magalu available in open beta",
-                    "es": "Inventario regionalizado en Magalu disponible en beta abierta",
-                    "pt": "Inventário regionalizado no Magalu disponível em open beta"
-                  },
-                  "slug": {
-                    "en": "2026-08-28-regionalized-inventory-available-for-magalu",
-                    "es": "2026-08-28-inventario-regionalizado-disponible-para-magalu",
-                    "pt": "2026-08-28-inventario-regionalizado-disponivel-para-o-magalu"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "New Impression Share metrics in VTEX Ads",
@@ -31189,14 +31205,14 @@
                 },
                 {
                   "name": {
-                    "en": "Regionalized inventory on Magalu (Beta)",
-                    "es": "Inventario regionalizado en Magalu (Beta)",
-                    "pt": "Inventário regionalizado no Magalu (Beta)"
+                    "en": "Ship from store for marketplaces",
+                    "es": "Ship from store para marketplaces",
+                    "pt": "Ship from store para marketplaces"
                   },
                   "slug": {
-                    "en": "regionalized-inventory-magalu",
-                    "es": "regionalized-inventory-magalu",
-                    "pt": "regionalized-inventory-magalu"
+                    "en": "ship-from-store-for-marketplaces",
+                    "es": "ship-from-store-para-marketplaces",
+                    "pt": "ship-from-store-para-marketplaces"
                   },
                   "origin": "",
                   "type": "markdown",
