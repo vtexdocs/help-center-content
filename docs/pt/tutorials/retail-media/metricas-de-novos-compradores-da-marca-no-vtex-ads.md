@@ -1,13 +1,12 @@
 ---
-
-## title: 'Métricas de Novos Compradores da Marca (NCM) no VTEX Ads'
-
+title: 'Métricas de Novos Compradores da Marca (NCM) no VTEX Ads'
 createdAt: 2026-09-10T00:00:00.000Z
 updatedAt: 2026-09-10T00:00:00.000Z
 contentType: tutorial
 productTeam: Ads
 slugEN: vtex-ads-new-to-brand-metrics
 locale: pt
+---
 
 As métricas de **Novos Compradores da Marca (NCM)** mostram quantos dos compradores atribuídos às suas campanhas no [VTEX Ads](/pt/docs/tracks/retail-media) compraram produtos da sua marca pela primeira vez, e quanta receita esses compradores geraram. Elas ajudam a separar o que é aquisição de novos clientes do que é recompra de quem já conhecia a marca.
 
