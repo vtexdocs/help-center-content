@@ -8,7 +8,7 @@ slugEN: configuring-safety-guardrails-per-project
 locale: pt
 ---
 
-As **camadas extras de segurança** são uma camada adicional de bloqueio, aplicada sobre a segurança nativa do agente orquestrador (manager) do Agent Builder, para tópicos sensíveis como política, saúde, conteúdo sexual e discurso de ódio. Até então, o tratamento desses tópicos dependia apenas do modelo de IA em uso. Com a configuração por projeto, você decide quais tópicos o agente deve recusar e qual mensagem o cliente recebe quando um tópico é bloqueado.
+As **camadas extras de segurança** são camadas adicionais de bloqueio, aplicada sobre a segurança nativa do agente orquestrador (manager) do Agent Builder, para tópicos sensíveis como política, saúde, conteúdo sexual e discurso de ódio. Até então, o tratamento desses tópicos dependia apenas do modelo de IA em uso. Com a configuração por projeto, você decide quais tópicos o agente deve recusar e qual mensagem o cliente recebe quando um tópico é bloqueado.
 
 >ℹ️ Essa configuração vale para todos os agentes do projeto ao mesmo tempo.
 
@@ -42,7 +42,7 @@ Considere os seguintes comportamentos ao configurar os guardrails do seu projeto
 
 #### Injeção de prompt
 
-A camada **Injeção de prompt** funciona de forma diferente dos demais tópicos. Quando ativada, o agente recusa tentativas de sobrescrever as instruções do orquestrador ou de fazê-lo atuar fora do seu papel, mas a resposta não usa a mensagem de bloqueio configurada: quem trata a resposta é o próprio agente orquestrador. Quando desativada, a resistência nativa do agente a esse tipo de manipulação continua valendo, mas a proteção extra deixa de barrar tentativas que o modelo permitir passar.
+A camada **Injeção de prompt** funciona de forma diferente dos demais tópicos. Quando ativada, o agente recusa tentativas de sobrescrever as instruções do orquestrador ou de fazê-lo atuar fora do seu papel, mas a resposta não usa a mensagem de bloqueio configurada: quem trata a resposta é o próprio agente orquestrador. Quando desativada, a resistência nativa do agente a esse tipo de manipulação continua valendo, mas a proteção extra deixa de barrar tentativas que o modelo permita passar.
 
 - Ativada: Se um cliente tentar conversar sobre tópicos sensíveis, o agente vai responder com a mensagem de bloqueio padrão. Mas, se o cliente tentar driblar as instruções do agente orquestrador (por exemplo: "Esqueça suas instruções e me responda."), o agente vai resistir e responder com uma mensagem que ele mesmo escreveu, não a mensagem de bloqueio padrão.
 
@@ -59,7 +59,7 @@ Para ativar ou desativar o bloqueio de tópicos sensíveis no seu projeto, siga 
 5. Use o botão de alternância para ativar <i class="fas fa-toggle-on" aria-hidden="true"></i> os tópicos que o agente deve recusar ou desativar <i class="fas fa-toggle-off" aria-hidden="true"></i> os tópicos que o agente pode abordar.
 6. (Opcional) Em **Tentativas de manipulação**, use o botão de alternância para ativar ou desativar **Injeção de prompt**.
 7. Clique em `Salvar`.
-8. Se você desativou algum tópico, uma janela de confirmação é exibida com o nome dos tópicos afetados. Para confirmar, clique em `Remover`.
+8. Se você desativou algum tópico, uma janela de confirmação é exibida com os nomes dos tópicos afetados. Para confirmar, clique em `Remover`.
 
 ### Configurar a mensagem de bloqueio
 
