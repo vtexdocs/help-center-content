@@ -44810,6 +44810,21 @@
             },
             {
               "name": {
+                "en": "Checkout shipping step does not advance to payments step in Argentina",
+                "es": "En Argentina, el paso de envío al finalizar la compra no avanza al paso de pago.",
+                "pt": "Na Argentina, a etapa de finalização da compra relacionada ao envio não avança para a etapa de pagamento."
+              },
+              "slug": {
+                "en": "checkout-shipping-step-does-not-advance-to-payments-step-in-argentina",
+                "es": "en-argentina-el-paso-de-envio-al-finalizar-la-compra-no-avanza-al-paso-de-pago",
+                "pt": "na-argentina-a-etapa-de-finalizacao-da-compra-relacionada-ao-envio-nao-avanca-para-a-etapa-de-pagamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Checkout shows payment methods without eligible installment options",
                 "es": "La caja muestra métodos de pago sin opciones de pago a plazos elegibles",
                 "pt": "O checkout mostra métodos de pagamento sem opções de parcelamento qualificadas"
