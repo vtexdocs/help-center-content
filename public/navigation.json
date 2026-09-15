@@ -69,6 +69,21 @@
                 },
                 {
                   "name": {
+                    "en": "Master Data: bulk document deletion via API",
+                    "es": "Master Data: eliminación masiva de documentos vía API",
+                    "pt": "Master Data: exclusão em massa de documentos via API"
+                  },
+                  "slug": {
+                    "en": "2026-09-04-master-data-bulk-document-deletion-via-api",
+                    "es": "2026-09-04-master-data-eliminacion-masiva-de-documentos-via-api",
+                    "pt": "2026-09-04-master-data-exclusao-em-massa-de-documentos-via-api"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Intelligent Search: OR search results now ranked by relevance",
                     "es": "Intelligent Search: los resultados de búsquedas OR ahora se ordenan por relevancia",
                     "pt": "Intelligent Search: Resultados de busca OR agora ordenados por relevância"
@@ -44795,6 +44810,21 @@
             },
             {
               "name": {
+                "en": "Checkout shipping step does not advance to payments step in Argentina",
+                "es": "En Argentina, el paso de envío al finalizar la compra no avanza al paso de pago.",
+                "pt": "Na Argentina, a etapa de finalização da compra relacionada ao envio não avança para a etapa de pagamento."
+              },
+              "slug": {
+                "en": "checkout-shipping-step-does-not-advance-to-payments-step-in-argentina",
+                "es": "en-argentina-el-paso-de-envio-al-finalizar-la-compra-no-avanza-al-paso-de-pago",
+                "pt": "na-argentina-a-etapa-de-finalizacao-da-compra-relacionada-ao-envio-nao-avanca-para-a-etapa-de-pagamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Checkout shows payment methods without eligible installment options",
                 "es": "La caja muestra métodos de pago sin opciones de pago a plazos elegibles",
                 "pt": "O checkout mostra métodos de pagamento sem opções de parcelamento qualificadas"
@@ -50469,13 +50499,13 @@
             {
               "name": {
                 "en": "Shopee Brand attribute not sent or overwritten during product sync",
-                "es": "Shopee Atributo de marca no enviado o sobrescrito durante la sincronización del producto",
-                "pt": "Shopee Atributo de marca não enviado ou sobrescrito durante a sincronização do produto"
+                "es": "Shopee El atributo de marca no se envió o se sobrescribió durante la sincronización del producto.",
+                "pt": "Shopee O atributo da marca não foi enviado ou foi sobrescrito durante a sincronização do produto"
               },
               "slug": {
                 "en": "shopee-brand-attribute-not-sent-or-overwritten-during-product-sync",
-                "es": "shopee-atributo-de-marca-no-enviado-o-sobrescrito-durante-la-sincronizacion-del-producto",
-                "pt": "shopee-atributo-de-marca-nao-enviado-ou-sobrescrito-durante-a-sincronizacao-do-produto"
+                "es": "shopee-el-atributo-de-marca-no-se-envio-o-se-sobrescribio-durante-la-sincronizacion-del-producto",
+                "pt": "shopee-o-atributo-da-marca-nao-foi-enviado-ou-foi-sobrescrito-durante-a-sincronizacao-do-produto"
               },
               "origin": "",
               "type": "markdown",
@@ -62550,6 +62580,21 @@
                 "en": "transaction-stuck-in-approved-while-payment-remains-settling-when-using-partial-settlements",
                 "es": "transaccion-atascada-en-aprobado-mientras-el-pago-permanece-liquidando-cuando-se-utilizan-liquidaciones-parciales",
                 "pt": "transacao-presa-em-aprovado-enquanto-o-pagamento-permanece-liquidado-ao-usar-liquidacoes-parciais"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transaction stuck in Approved with settled payments - blocking invoicing",
+                "es": "Transacción atascada en estado Aprobado con pagos liquidados: se bloquea la facturación.",
+                "pt": "Transação travada em \"Aprovada\" com pagamentos liquidados - bloqueando a emissão de faturas."
+              },
+              "slug": {
+                "en": "transaction-stuck-in-approved-with-settled-payments-blocking-invoicing",
+                "es": "transaccion-atascada-en-estado-aprobado-con-pagos-liquidados-se-bloquea-la-facturacion",
+                "pt": "transacao-travada-em-aprovada-com-pagamentos-liquidados-bloqueando-a-emissao-de-faturas"
               },
               "origin": "",
               "type": "markdown",
