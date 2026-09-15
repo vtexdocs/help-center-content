@@ -12,7 +12,7 @@ tags:
   - Master Data
 ---
 
-Desde 4 de setembro de 2026, as lojas VTEX contam com a exclusão em massa de documentos do [Master Data](/pt/docs/tutorials/master-data) por API. Com o novo recurso, é possível remover de uma só vez todos os documentos de uma [entidade de dados](/pt/docs/tutorials/entidade-de-dados) que atendem a um filtro.
+As lojas VTEX agora contam com a exclusão em massa de documentos do [Master Data](/pt/docs/tutorials/master-data) por API. Com o novo recurso, é possível remover de uma só vez todos os documentos de uma [entidade de dados](/pt/docs/tutorials/entidade-de-dados) que atendem a um filtro.
 
 ## O que mudou?
 
