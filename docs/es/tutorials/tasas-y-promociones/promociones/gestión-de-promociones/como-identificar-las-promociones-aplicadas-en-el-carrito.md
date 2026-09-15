@@ -13,6 +13,9 @@ slugEN: how-to-identify-promotions-applied-to-the-cart
 legacySlug: como-identificar-las-promociones-aplicadas-en-el-carrito
 locale: es
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
+seeAlso:
+  - /es/docs/tracks/como-funcionan-las-promociones
+  - /es/docs/tutorials/como-identificar-promociones-asignadas-un-sku
 ---
 
 Hay tres maneras de saber cuáles son las promociones que están aplicándose en el carrito. En las secciones a continuación, te mostraremos cuáles son:
@@ -70,8 +73,3 @@ Sigue estos pasos para encontrar el `orderForm` e identificar las promociones ap
 El Simulador de promociones es una herramienta que permite ver las promociones creadas en la plataforma VTEX que se aplicaron al carrito y sus condiciones de activación. Como las promociones pueden configurarse de diversas maneras, es importante poder ver la [competencia](/es/docs/tutorials/como-funciona-la-competencia-de-promociones), la acumulación de promociones durante la compra y las causas de activación de dichas promociones.
 
 Para obtener más información, lea el artículo [Simulador de promociones (Beta)](/es/docs/tutorials/simulador-de-promociones-beta).
-
-## Más información
-
-* [Cómo funcionan las promociones](/es/docs/tracks/como-funcionan-las-promociones)
-* [Cómo identificar promociones asignadas a un SKU](/es/docs/tutorials/como-identificar-promociones-asignadas-un-sku)
