@@ -24,6 +24,8 @@ Além de permitir realizar tudo o que era feito pela [interface legada](https://
 - A possibilidade de criar e gerenciar sortimentos
 - A opção de gerenciar coleções usando como critério especificações de produto e especificações de SKU.
 
+> ℹ️ O **Agente de Coleções** não permite a ordenação de produtos.
+
 ## Avisos da fase beta
 
 O **Agente de Coleções** está em beta, e durante este período a funcionalidade tem as seguintes características:
