@@ -204,7 +204,7 @@ Para localizar e gerenciar o sortimento desejado, você pode buscá-lo por nome 
 - Nome do sortimento
 - ID do sortimento
 
-## Resolução de problemas
+## Incluir todos os produtos do catálogo em uma coleção
 
 Não existe, atualmente, uma forma automática de incluir todos os produtos do catálogo em uma coleção de modo que ela se mantenha sincronizada. É possível incluir todos os produtos usando as regras dinâmicas existentes, mas cada uma tem suas limitações:
 
