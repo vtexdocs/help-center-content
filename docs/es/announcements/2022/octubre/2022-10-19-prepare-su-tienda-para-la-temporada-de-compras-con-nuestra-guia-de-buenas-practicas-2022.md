@@ -22,9 +22,9 @@ Como hacemos todos los años, hemos creado una guía con recomendaciones y conse
 Disponible para clientes y socios VTEX, usted puede acceder a la guía por la homepage del Admin o directamente por la URL 
 
 ```
-https://{AccountName}.myvtex.com/admin/shopping-season
+https://{accountName}.myvtex.com/admin/shopping-season
 ```
 
-Sólo hay que sustituir `{AccountName}` por el Account Name de su tienda, como en la imagen de abajo.
+Sólo hay que sustituir `{accountName}` por el Account Name de su tienda, como en la imagen de abajo.
 
 ![Shopping Season Guidelines - 2022 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2022/octubre/2022-10-19-prepare-su-tienda-para-la-temporada-de-compras-con-nuestra-guia-de-buenas-practicas-2022_1.png)

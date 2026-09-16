@@ -37,7 +37,7 @@ Veja as configurações disponíveis a seguir:
   > ℹ️ A configuração **Sobrescrever preços de sellers** não é disponível para sellers white label.
 
 ## Consultar a Conta-Pai associada
-Para consultar a conta-pai vinculada a uma conta-filha, utilize a URL abaixo, substituindo `{AccountName}` pelo nome da conta-filha que deseja consultar:
+Para consultar a conta-pai vinculada a uma conta-filha, utilize a URL abaixo, substituindo `{accountName}` pelo nome da conta-filha que deseja consultar:
 
 ```
 http://{AccountName}.myvtex.com/api/vlm/account

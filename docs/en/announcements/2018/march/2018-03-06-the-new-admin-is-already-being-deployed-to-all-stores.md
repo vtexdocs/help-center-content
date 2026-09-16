@@ -23,6 +23,6 @@ All those characteristics represent a step forward in how we deliver the Admin p
 
 And don't worry: this transition will not interfere on your daily routine, because the most significant change is the way you navigate through the platform (using the side menu instead of the old catalog of modules). The platform features will evolve at a different pace, while keeping the same look and feel and ways of using it a bit longer. 
 
-If you can't wait to try the __new Admin__, type `https://{AccountName}.myvtex.com/admin` in your browser, replacing _{AccountName}_ with your store's account name.
+If you can't wait to try the __new Admin__, type `https://{accountName}.myvtex.com/admin` in your browser, replacing _{AccountName}_ with your store's account name.
 
 > ⚠️ The legacy modules (Catalog, Master Data, and CMS) will keep redirecting to their external environments.

@@ -20,7 +20,7 @@ Hay un error común de acceso al módulo **Pedidos**, en el que, al intentar ent
 
 Normalmente, este error se produce porque la autenticación de usuario ha caducado. Acceda a la página principal del admin de la tienda, por la dirección 
 
-`https://{AccountName}.myvtex.com/admin`
+`https://{accountName}.myvtex.com/admin`
 
 El sistema probablemente solicitará su login. En este caso, realice la autenticación e inténtelo de nuevo a Gestión de pedidos.
 

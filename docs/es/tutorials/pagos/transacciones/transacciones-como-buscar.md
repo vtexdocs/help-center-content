@@ -13,54 +13,58 @@ slugEN: searching-for-transactions-on-payments
 legacySlug: transacciones-como-buscar
 locale: es
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
+seeAlso:
+  - /es/docs/tutorials/transacciones-pci-gateway
+  - /es/docs/tutorials/como-visualizar-detalle-del-pedido
+  - /es/docs/tutorials/filtrar-transacciones-en-pci-gateway
 ---
 
-Es posible hacer las búsquedas en Transacciones de diversas formas y con diversos tipos de datos. Las opciones de búsqueda son:
+Puede buscar transacciones en **Pedidos > Transacciones** usando datos del cliente o identificadores de pago.
 
-- __E-mail del Cliente__
-- __Nombre del Cliente__
-- __Cédula de Identidad del Cliente__
-- __Código de la Transacción:__ código que identifica la transacción en el gateway de la plataforma VTEX.
-- __TID del Pago:__ número utilizado para identificación de la transacción con el conector
-- __ID del Pago:__ número utilizado para identificación del pago con o conector
+Para buscar una transacción, siga los pasos a continuación:
 
-Para buscar una transacción en el módulo de Transacciones de VTEX, siga los siguientes pasos:
+1. En el Admin VTEX, acceda a **Pedidos > Transacciones**, o escriba **Transacciones** en la barra de búsqueda en la parte superior de la página.
+2. En la barra de búsqueda, ingrese uno de los valores enumerados a continuación.
 
-1. En el Admin VTEX, accede a **Pedidos** > **Transacciones**, o escribe **Transacciones** en la barra de búsqueda en la parte superior de la página.
-2. En la barra de búsqueda, introduzca una de las informaciones enumeradas anteriormente.
+Para volver a la lista completa de transacciones, borre el valor del campo de búsqueda.
 
-Para volver a la lista original de las transacciones, basta apagar el valor anteriormente insertado en el campo de búsqueda.
+Puede buscar por:
 
-## Link de la Transacción en el Gestión de Pedidos
+- **Email del cliente:** dirección de email usada en la compra.
+- **Nombre del cliente:** nombre, apellido o ambos, según lo registrado en el pedido. La búsqueda no distingue mayúsculas de minúsculas.
+- **Documento de identidad del cliente:** número completo del documento, sin puntuación. En tiendas de Brasil, este documento es el CPF.
+- **Código de la transacción:** identificador de la transacción en el gateway de VTEX.
+- **TID del pago:** identificador de la transacción en el conector.
+- **ID del pago:** identificador del pago en el conector.
 
-Al hacer clic en una solicitud en el Gestión de Pedidos, usted va a la página que trae un resumen sobre él. Las principales informaciones están ahí, pero usted puede ver aún más detalles si hace clic en el enlace _Ver detalles de la transacción_:
+## Enlace de la transacción en el pedido
 
-![Link transação OMS (ES)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/transacciones/transacciones-como-buscar_1.png)
+En la página de detalles del pedido, haga clic en **Ver detalles de la transacción** para abrir la transacción correspondiente.
 
-## TID del Pago e ID del Pago
+![Enlace Ver detalles de la transacción en el pedido](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/transacciones/transacciones-como-buscar_1.png)
 
-La búsqueda utilizando esos códigos necesariamente necesita contener todos los dígitos, o su búsqueda regresará vacía. Vea abajo como encontrarlo:
+## TID del pago e ID del pago
 
-![Códigos ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/transacciones/transacciones-como-buscar_2.png)
+La búsqueda por TID del pago o ID del pago debe incluir el valor completo. Los códigos parciales no devuelven resultados. Puede encontrar estos valores en los detalles de la transacción:
 
-Estos valores, dentro del detalle de la transacción representarán la comunicación junto al respectivo conector. En los Eventos de la transacción será posible validar cada contacto hecho utilizando estos como identificador.
+![TID del pago e ID del pago en los detalles de la transacción](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/transacciones/transacciones-como-buscar_2.png)
+
+Estos valores representan la comunicación con el conector. Consulte cómo verificar cada interacción en [Visualizar detalles de la transacción en Pedidos](/es/docs/tutorials/como-visualizar-detalle-del-pedido).
 
 ## Nombre del cliente
 
-El nombre que debe ser buscado es el dado personal que ha sido registrado en la compra y no la razón social o nombre fantasía en caso de persona jurídica. Se puede buscar por el nombre, apellido o ambos, todo en mayúsculo o minúsculo, en cualquier una de las letras del nombre.
+Busque el nombre personal registrado en la compra, no la razón social ni el nombre comercial. Puede buscar por nombre, apellido o ambos.
 
-## CPF
+## Documento de identidad del cliente
 
-Se debe llenar el número completo del documento sin los puntos.
+Ingrese el número completo del documento, sin puntos, guiones ni otros signos de puntuación.
 
-## Directamente por la URL
+## Búsqueda por URL
 
-Una otra forma de hacer la búsqueda es insertando el parámetro directamente en la URL de la página. Usualmente, la estructura de URL del PCI Gateway es: 
+También puede buscar agregando el parámetro `q` a la URL de la página de Transacciones:
 
-`https://NOMBRE_TIENDA.vtexcommercestable.con.br/admin/pci- gateway#/transactions?_sort=startDate`
+`https://{accountName}.myvtex.com/admin/pci-gateway#/transactions?_sort=startDate`
 
-Caso desee hacer la búsqueda directamente en la URL, utilice el parámetro **&amp;q=** y digite el dato que desea buscar.
+Reemplace `{accountName}` por el nombre de la cuenta de su tienda. Para buscar, agregue `&q=` seguido del valor. Por ejemplo, para buscar `500408`:
 
-__Ejemplo:__ Si fuera buscar el pedido 500408, por ejemplo en la URL bastaría hacer lo siguiente:
-
-`https://NOMBRE_TIENDA.vtexcommercestable.con.br/admin/pci- gateway#/transactions?_sort=startDate&amp;q=500408`
+`https://{accountName}.myvtex.com/admin/pci-gateway#/transactions?_sort=startDate&q=500408`
