@@ -25,6 +25,37 @@
           "children": [
             {
               "name": {
+                "en": "October",
+                "es": "Octubre",
+                "pt": "Outubro"
+              },
+              "slug": {
+                "en": "2026-october",
+                "es": "2026-octubre",
+                "pt": "2026-outubro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "VTEX Ads passa a exibir métricas de Novos Compradores da Marca (NCM)",
+                    "es": "VTEX Ads passa a exibir métricas de Novos Compradores da Marca (NCM)",
+                    "pt": "Métricas de Novos Compradores da Marca (NCM)"
+                  },
+                  "slug": {
+                    "en": "2026-10-08-new-to-brand-metrics-in-vtex-ads",
+                    "es": "2026-10-08-metricas-de-nuevos-compradores-de-la-marca-en-vtex-ads",
+                    "pt": "2026-10-08-metricas-de-novos-compradores-da-marca-no-vtex-ads"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "September",
                 "es": "Septiembre",
                 "pt": "Setembro"
@@ -42371,6 +42402,21 @@
                 "en": "product-created-with-id-0",
                 "es": "producto-creado-con-id-0",
                 "pt": "produto-criado-com-id-0"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Product form displays outdated user information in the Admin for last edit across Catalog",
+                "es": "El formulario del producto muestra información de usuario desactualizada en el panel de administración para la última edición en todo el catálogo.",
+                "pt": "O formulário do produto exibe informações de usuário desatualizadas no painel de administração, referentes à última edição em todo o catálogo."
+              },
+              "slug": {
+                "en": "product-form-displays-outdated-user-information-in-the-admin-for-last-edit-across-catalog",
+                "es": "el-formulario-del-producto-muestra-informacion-de-usuario-desactualizada-en-el-panel-de-administracion-para-la-ultima-edicion-en-todo-el-catalogo",
+                "pt": "o-formulario-do-produto-exibe-informacoes-de-usuario-desatualizadas-no-painel-de-administracao-referentes-a-ultima-edicao-em-todo-o-catalogo"
               },
               "origin": "",
               "type": "markdown",
