@@ -23,7 +23,7 @@ To configure OneBuy, follow the steps below:
 1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
 2. On the __Gateways Affiliation__ tab, click the __+__ button.
 3. Click the __OneBuy__ connector.
-4. In the __External Service Url__ field, configure the external URL that will be associated with `/pvt/payments?an={AccountName}`.
+4. In the __External Service Url__ field, configure the external URL that will be associated with `/pvt/payments?an={accountName}`.
 5. Fill in the registration fields with the data provided by OneBuy (_appKey_ and _appToken_ fields).
 6. In __Implements Installments Service__, choose whether you want to use external installment services or the one that is configured on the portal. If you choose _yes_, the system will use the URL configured in the __Installments Service Url__ field.
 7. In __External Cancellation Service__, you must define whether or not to use an external cancellation service. If you choose _yes_, the system will use the URL configured in the __External Service Url__ field.

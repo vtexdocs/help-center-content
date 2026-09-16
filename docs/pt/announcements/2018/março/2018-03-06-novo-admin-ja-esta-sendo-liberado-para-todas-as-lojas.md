@@ -23,6 +23,6 @@ Tudo isso representa um avanço na entrega das páginas administrativas, já que
 
 Mas fique tranquilo: essa migração não vai impactar sua rotina diária, já que a maior mudança é o menu. Os recursos da plataforma vão evoluir de forma mais gradual, ainda preservando o mesmo _look and feel_ e modo de uso.
 
-Você pode sair na frente e acessar o __novo Admin__ usando a url `https://{accountName}.myvtex.com/admin`, substituindo _{AccountName}_ pelo account name da sua loja.
+Você pode sair na frente e acessar o __novo Admin__ usando a url `https://{accountName}.myvtex.com/admin`, substituindo `{accountName}` pelo account name da sua loja.
 
 > ⚠️ Os módulos de legado (Catálogo, Master Data e CMS) continuam sendo direcionados para seus ambientes externos.

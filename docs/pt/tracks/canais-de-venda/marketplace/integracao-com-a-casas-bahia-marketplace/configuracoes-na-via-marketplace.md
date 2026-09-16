@@ -46,7 +46,7 @@ A Casas Bahia Marketplace exige que você informe uma rota de API para a consult
 
 No campo Endereço URL, informe a seguinte rota de API, substituindo `{accountName}` pelo [nome da sua loja](/pt/docs/tutorials/o-que-e-account-name) na plataforma VTEX:
 
-`http://cnovaintegration.vtexcommercestable.com.br/api/viavarejointegration/pub/{{AccountName}}/freight?skuId={{skuId}},{{quantidade}}&zipcode={{cep}}`
+`http://cnovaintegration.vtexcommercestable.com.br/api/viavarejointegration/pub/{{accountName}}/freight?skuId={{skuId}},{{quantidade}}&zipcode={{cep}}`
 
 > ℹ️ Se o seller utiliza a solução logística [Envvias](https://suportemarketplace.viavarejo.com.br/pt-BR/lojista/artigo/?kbid=KA-01543&title=O%20que%20%C3%A9%20Envvias?#:~:text=O%20Envvias%20%C3%A9%20a%20plataforma,ele%20passa%20a%20ser%20automatizado!), deverá [cadastrar](https://suportemarketplace.viavarejo.com.br/pt-BR/lojista/artigo/?kbid=KA-01538&title=Como%20cadastro%20minha%20Tabela%20de%20Conting%C3%AAncia?&cat=Gest%C3%A3o%20de%20Fretes) a URL de frete como [tabela de contingência](https://suportemarketplace.viavarejo.com.br/pt-BR/lojista/artigo/?kbid=KA-01071&title=O%20que%20%C3%A9%20uma%20Tabela%20de%20Conting%C3%AAncia?&cat=Gest%C3%A3o%20de%20Fretes) ou abrir um chamado na Casas Bahia Marketplace para remover o Envvias e cadastrar a URL de Frete.
 

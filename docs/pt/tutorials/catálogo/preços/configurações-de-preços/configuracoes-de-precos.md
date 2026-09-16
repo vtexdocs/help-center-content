@@ -40,7 +40,7 @@ Veja as configurações disponíveis a seguir:
 Para consultar a conta-pai vinculada a uma conta-filha, utilize a URL abaixo, substituindo `{accountName}` pelo nome da conta-filha que deseja consultar:
 
 ```
-http://{AccountName}.myvtex.com/api/vlm/account
+http://{accountName}.myvtex.com/api/vlm/account
 ```
 
 Ao acessar essa URL, a API retornará um resultado com várias informações sobre a conta. Para identificar a conta-pai associada, localize o campo `accountName` no retorno da API. Esse campo contém o nome da conta-pai vinculada à conta-filha consultada.
