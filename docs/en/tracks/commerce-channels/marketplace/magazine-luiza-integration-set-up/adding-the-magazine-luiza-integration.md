@@ -25,7 +25,7 @@ The integration with Magazine Luiza happens through IntegraCommerce, an integrat
 
 With this integration, it will be possible to __create new accounts__ and also __migrate existing accounts (soon)__ in Magazine Luiza. The step-by-step below is suitable for both cases.
 
-> ⚠️ **Note:** Currently **you can not migrate old accounts**. We are working on that and soon this migration will be done automatically.
+> ⚠️ Currently **you can not migrate old accounts**. We are working on that and soon this migration will be done automatically.
 
 
 ## Detailing the fields
