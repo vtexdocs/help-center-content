@@ -47,6 +47,6 @@ Com isso, o usuário será levado para essa pasta. Só o que você precisa fazer
 
 Outra alternativa para forçar que buscas com termos bloqueados retornem resultados relevantes na busca é por meio do __redirect__.
 
-Novamente seguindo nosso exemplo, você pode criar um redirect 301 da URL `{AccountName}.com.br/Uno` para a página do produto.
+Novamente seguindo nosso exemplo, você pode criar um redirect 301 da URL `{accountName}.com.br/Uno` para a página do produto.
 
 Sempre que alguém fizer uma busca por "Uno", a URL montada será esta acima, e o usuário será automaticamente levado para a página do produto.
