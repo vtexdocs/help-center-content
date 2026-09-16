@@ -29,7 +29,7 @@ A classificação segue estas regras:
 - **Cálculo por marca:** o mesmo comprador pode ser novo para uma marca e recorrente para outra.
 - **Cálculo por publisher:** a classificação considera o histórico de compras dentro de cada publisher, e não entre publishers diferentes.
 - **Atribuição last touch:** a conversão considerada na classificação é a atribuída por [last touch](https://help.vtex.com/pt/docs/tutorials/metricas-e-atribuicao-do-vtex-ads#prioridade-de-atribuicao-last-touch).
-- **Atualização diária (D+1):** as métricas não são calculadas em tempo real.
+- **Atualização diária:** as métricas não são calculadas em tempo real, mas atualizadas uma vez por dia.
 
 > ℹ️ Em inglês, a métrica se chama **New to Brand (NTB)**. Os dois nomes se referem ao mesmo conceito, e o rótulo exibido depende do idioma configurado na sua conta.
 
