@@ -47,6 +47,6 @@ This will bring the user to this folder. All you need to do then is point it to 
 
 Another alternative to force searches with blocked terms to return relevant search results is through a __redirect__ procedure.
 
-Again following our example, you can create a 301 redirect from the `{AccountName}.com.br/Uno` URL to the product page.
+Again following our example, you can create a 301 redirect from the `{accountName}.com.br/Uno` URL to the product page.
 
 Whenever someone searches for "Uno", the URL that will be created is the previous one, and the user will be automatically taken to the product page.

@@ -260,4 +260,4 @@ More information about the Settlement API [here](https://developers.vtex.com/doc
 
 When calling `CallbackURL`, you must specify the authentication headers, which in VTEX are _X-VTEX-API-AppKey_ and _X-VTEX-API-AppToken_. You can find these credentials (which are unique to your account) in the VTEX License Manager module.
 
-Use the `https://{{AccountName}}.myvtex.com/admin/license-manager/#/home` URL, replacing `{{AccountName}}` with your account name. Then follow the instructions explained in [this tutorial](https://developers.vtex.com/docs/guides/authentication-overview) to learn how to create appKeys and appTokens.
+Use the `https://{{accountName}}.myvtex.com/admin/license-manager/#/home` URL, replacing `{{accountName}}` with your account name. Then follow the instructions explained in [this tutorial](https://developers.vtex.com/docs/guides/authentication-overview) to learn how to create appKeys and appTokens.

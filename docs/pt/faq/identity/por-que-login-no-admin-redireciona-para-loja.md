@@ -18,4 +18,4 @@ Este cenário acontece quando o email utilizado para fazer login no painel admin
 
 Os perfis de televendas bloqueiam o acesso ao __Catálogo__, ou seja, o usuário não consegue adicionar um produto, por exemplo. Se for necessário acessar esse módulo, o usuário deverá trabalhar com dois logins diferentes.
 
-Caso o perfil de acesso possua permissão para televendas e também outros módulos, o o acesso deve ser feito diretamente pela URL do módulo, por exemplo, para o Gerenciamento de pedidos: `https://{AccountName}.myvtex.com/admin/checkout`
+Caso o perfil de acesso possua permissão para televendas e também outros módulos, o o acesso deve ser feito diretamente pela URL do módulo, por exemplo, para o Gerenciamento de pedidos: `https://{accountName}.myvtex.com/admin/checkout`

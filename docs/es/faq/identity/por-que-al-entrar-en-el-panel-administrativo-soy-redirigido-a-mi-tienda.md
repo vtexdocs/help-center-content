@@ -18,4 +18,4 @@ Este escenario ocurre cuando el email utilizado para entrar en el panel administ
 
 Los perfiles de televenta bloquean el acceso al __Catálogo__, es decir, el usuario no puede acceder al registro de productos, por ejemplo. Si es necesario acceder a este módulo, el usuario debe trabajar con dos logins diferentes.
 
-Si el perfil de acceso tiene permiso para televenta y otros módulos, el acceso debe ser hecho directamente por la URL del módulo, por ejemplo, para Gestión de pedidos: `https://{AccountName}.myvtex.com/admin/checkout`
+Si el perfil de acceso tiene permiso para televenta y otros módulos, el acceso debe ser hecho directamente por la URL del módulo, por ejemplo, para Gestión de pedidos: `https://{accountName}.myvtex.com/admin/checkout`

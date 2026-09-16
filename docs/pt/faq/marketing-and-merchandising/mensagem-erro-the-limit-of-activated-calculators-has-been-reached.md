@@ -14,7 +14,7 @@ locale: pt
 legacySlug: mensagem-erro-the-limit-of-activated-calculators-has-been-reached
 ---
 
-Essa mensagem indica que o número máximo de promoções foi atingido e que não é possível criar a promoção que estava sendo configurada. É possível verificar esse dado na tela de administração de promoções (`{AccountName}.vtexcommercestable.com.br/admin/rnb`), conforme a imagem abaixo.
+Essa mensagem indica que o número máximo de promoções foi atingido e que não é possível criar a promoção que estava sendo configurada. É possível verificar esse dado na tela de administração de promoções (`{accountName}.vtexcommercestable.com.br/admin/rnb`), conforme a imagem abaixo.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/mensagem-erro-the-limit-of-activated-calculators-has-been-reached_1.jpg)
 
