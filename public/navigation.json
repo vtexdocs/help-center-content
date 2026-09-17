@@ -30665,36 +30665,6 @@
                 },
                 {
                   "name": {
-                    "en": "Amazon Listing",
-                    "es": "Amazon Listing",
-                    "pt": "Amazon Listing"
-                  },
-                  "slug": {
-                    "en": "amazon-listing",
-                    "es": "amazon-listing",
-                    "pt": "amazon-listing"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Amazon Offer Matching",
-                    "es": "Match de anuncios Amazon",
-                    "pt": "Match de anúncios Amazon"
-                  },
-                  "slug": {
-                    "en": "amazon-offer-matching",
-                    "es": "match-de-anuncios-amazon",
-                    "pt": "match-de-anuncios-amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Amazon Product Publishing",
                     "es": "Publicacíon de Productos Amazon",
                     "pt": "Publicação de produtos Amazon"
@@ -33998,6 +33968,21 @@
                     "en": "regaining-access-to-business-manager",
                     "es": "recuperando-el-acceso-al-administrador-de-negocios",
                     "pt": "recuperando-acesso-ao-gerenciador-de-negocios"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Shopping Assistant: Suggested questions",
+                    "es": "Shopping Assistant: preguntas sugeridas",
+                    "pt": "Shopping Assistant: perguntas sugeridas"
+                  },
+                  "slug": {
+                    "en": "shopping-assistant-suggested-questions",
+                    "es": "shopping-assistant-preguntas-sugeridas",
+                    "pt": "shopping-assistant-perguntas-sugeridas"
                   },
                   "origin": "",
                   "type": "markdown",
