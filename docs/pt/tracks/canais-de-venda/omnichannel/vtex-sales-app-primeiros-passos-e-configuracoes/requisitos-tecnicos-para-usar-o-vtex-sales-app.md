@@ -52,7 +52,7 @@ A conexão com a internet é fundamental para o uso do **Sales App**. Os requisi
 
 ## Equipamento adicional (opcional)
 
-Embora não sejam obrigatórios, recomendamos os seguintes equipamentos para obter a melhor experiência com o **VTEX Sales App**.
+Embora não sejam obrigatórios, recomendamos os seguintes equipamentos para obter a melhor experiência com o **Sales App**.
 
 ### Leitor de código de barras
 
