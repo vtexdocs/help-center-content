@@ -42,7 +42,7 @@ A aba apresenta as seguintes informações em uma tabela:
 | :---- | :---- |
 | **Período** | Intervalo de datas coberto pelo relatório. |
 | **Data de criação** | Quando o relatório foi gerado. |
-| **Status** | Situação do relatório, que pode ser: **Criando:** em processamento. **Disponível:** pronto para download. **Visualizado:** já baixado. |
+| **Status** | Situação do relatório: <ul><li>**Criando:** em processamento.</li><li>**Disponível:** pronto para download.</li><li>**Visualizado:** já baixado.</li></ul> |
 
 ## Criar relatório
 
@@ -51,7 +51,8 @@ Você pode criar um relatório para um período personalizado.
 1. No Admin VTEX, entre em **Storefront > Recomendações**, ou digite **Recomendações** na barra de busca no topo da página.
 2. Clique na aba **Relatórios**.
 3. Clique em **Criar relatório**.
-4. Selecione o período desejado e confirme.
+4. No modal **Criar relatório**, selecione um dos períodos predefinidos (**Ontem**, **Últimos 7 dias** ou **Últimos 28 dias**) ou defina um intervalo personalizado em **Data de início**.
+5. Clique em `Criar`.
 
 O novo relatório é exibido na lista com o status **Criando**, enquanto está sendo processado.
 
