@@ -31,7 +31,7 @@ The E-bit survey banner should be added ONLY on the store’s purchase completio
 
 Check out the [E-bit documentation](https://ebit.com.br/developer/codigo-do-banner) for more information about adding the banners code to your site.
 
-To access the footer of the purchase completion page, go to: [http://{accountName}.myvtex.com/admin/portal/#/sites/default/code/templates/checkout-confirmation-bottom](http://nomedaloja.myvtex.com.br/admin/portal/#/sites/default/code/templates/checkout-confirmation-bottom), where `{AccountName}` should be replaced by the name of your account.
+To access the footer of the purchase completion page, go to: [http://{accountName}.myvtex.com/admin/portal/#/sites/default/code/templates/checkout-confirmation-bottom](http://nomedaloja.myvtex.com.br/admin/portal/#/sites/default/code/templates/checkout-confirmation-bottom), where `{accountName}` should be replaced by the name of your account.
 
 ## E-bit Medal
 

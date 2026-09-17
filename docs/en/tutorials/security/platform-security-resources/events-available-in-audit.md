@@ -30,6 +30,7 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 * [VTEX ID](#vtex-id)
 * [Master Data](#master-data)
 * [Headless CMS (Legacy)](#headless-cms)
+* [CMS](#cms)
 * [Seller Management](#seller-management)
 * [Site Editor](#site-editor)
 * [Ad Network](#ad-network)
@@ -388,6 +389,29 @@ In the **Action** column, all Headless CMS (Legacy) events also display the foll
 * **CONTENT_ID:** unique identifier of the content.
 * **VARIANT_ID:** unique identifier of the content version.
 * **WORKSPACE**: workspace where the action occurred.
+
+## CMS
+
+| Action | Event description | Event details |
+|---|---|---|
+| entry.delete | Deletion of a Content Platform entry. | Entry ID. |
+| branch.create | Creation of a Content Platform branch. | Branch ID. |
+| branch.update | Update of a Content Platform branch. | Branch ID. |
+| branch.delete | Deletion of a Content Platform branch. | Branch ID. |
+| branch.merge | Merge of a Content Platform branch. | Branch ID. |
+| branch.merge_scheduled | Scheduling of a Content Platform branch merge. | Branch ID. |
+| branch.merge_unscheduled | Cancellation of a scheduled Content Platform branch merge. | Branch ID. |
+| store.create | Creation of a Content Platform store. | Store ID. |
+| store.update | Update of a Content Platform store. | Store ID. |
+| store.default_locale_change | Change of the default locale of a Content Platform store. | Store ID and locale. |
+| store.locale.create | Creation of a locale in a Content Platform store. | Store ID and locale. |
+| store.locale.update | Update of a locale in a Content Platform store. | Store ID and locale. |
+| store.locale.activate | Activation of a locale in a Content Platform store. | Store ID and locale. |
+| store.locale.deactivate | Deactivation of a locale in a Content Platform store. | Store ID and locale. |
+| media.upload | Upload of a media file in Content Platform. | Media ID. |
+| media.create | Creation of a media asset in Content Platform. | Media ID. |
+| media.delete | Deletion of a media asset in Content Platform. | Media ID. |
+| schema.publish | Publication of a schema in the Content Platform Schema Registry. | Schema ID. |
 
 ## Seller Management
 

@@ -19,21 +19,21 @@ Cadastre as seguintes APIs para o pleno funcionamento da integração com a Nets
 
 ### API de Notificação de Produtos Aprovados
 
-Para que a integração possa enviar preço e estoque de um produto aprovado pela Netshoes, é recomendável habilitar a API de Notificação Produto Aprovado no painel deles. Basta seguir os passos descritos nesta [documentação da Netshoes](https://developers.netshoes.com.br/api-portal/content/notificacao) e usar a URL abaixo (substituindo `{AccountName}` pelo nome do ambiente de sua loja):
+Para que a integração possa enviar preço e estoque de um produto aprovado pela Netshoes, é recomendável habilitar a API de Notificação Produto Aprovado no painel deles. Basta seguir os passos descritos nesta [documentação da Netshoes](https://developers.netshoes.com.br/api-portal/content/notificacao) e usar a URL abaixo (substituindo `{accountName}` pelo nome do ambiente de sua loja):
 
 `http://{accountName}.vtexcommercestable.com.br/api/netshoesintegration/product/approved/notification`
 
 
 ### API de Importação de Pedidos
 
-Para ativar a importação de pedidos da Netshoes para a VTEX, é recomendável habilitar a API abaixo (substituindo `{AccountName}` pelo nome do ambiente de sua loja). Basta seguir os passos descritos nesta [documentação da Netshoes](https://developers.netshoes.com.br/api-portal/content/notificacao).
+Para ativar a importação de pedidos da Netshoes para a VTEX, é recomendável habilitar a API abaixo (substituindo `{accountName}` pelo nome do ambiente de sua loja). Basta seguir os passos descritos nesta [documentação da Netshoes](https://developers.netshoes.com.br/api-portal/content/notificacao).
 
 `http://{accountName}.vtexcommercestable.com.br/api/netshoesintegration/order/notification`
 
 
 ### API de Frete
 
-A implementação dessa API permite que a Netshoes consulte, em tempo real, preço e prazo de um frete para seus produtos (de acordo com o CEP). Para isso, você deve ir ao painel da Netshoes e seguir os passos descritos nesta [documentação](https://developers.netshoes.com.br/api-portal/content/apidefrete). A URL abaixo (substituindo `{AccountName}` pelo nome do ambiente de sua loja) será cadastrada:
+A implementação dessa API permite que a Netshoes consulte, em tempo real, preço e prazo de um frete para seus produtos (de acordo com o CEP). Para isso, você deve ir ao painel da Netshoes e seguir os passos descritos nesta [documentação](https://developers.netshoes.com.br/api-portal/content/apidefrete). A URL abaixo (substituindo `{accountName}` pelo nome do ambiente de sua loja) será cadastrada:
 
 `http://{accountName}.vtexcommercestable.com.br/api/netshoesintegration/freight`
 

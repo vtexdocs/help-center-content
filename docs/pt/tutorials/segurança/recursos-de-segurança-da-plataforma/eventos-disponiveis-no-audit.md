@@ -30,6 +30,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 * [VTEX ID](#vtex-id)
 * [Master Data](#master-data)
 * [Headless CMS (Legacy)](#headless-cms)
+* [CMS](#cms)
 * [Gerenciamento de sellers](#gerenciamento-de-sellers)
 * [Site Editor](#site-editor)
 * [Ad Network](#ad-network)
@@ -389,6 +390,29 @@ Na coluna **Ação**, todos os eventos do Headless CMS (Legacy) também apresent
 * **CONTENT_ID:** código identificador único do conteúdo.
 * **VARIANT_ID:** código identificador único da versão do conteúdo.
 * **WORKSPACE:** workspace em que a alteração foi realizada.
+
+## CMS
+
+| Ação | Descrição do evento | Detalhes do evento |
+|---|---|---|
+| entry.delete | Exclusão de uma entry no Content Platform. | ID da entry. |
+| branch.create | Criação de um branch no Content Platform. | ID do branch. |
+| branch.update | Atualização de um branch no Content Platform. | ID do branch. |
+| branch.delete | Exclusão de um branch no Content Platform. | ID do branch. |
+| branch.merge | Merge de um branch no Content Platform. | ID do branch. |
+| branch.merge_scheduled | Agendamento do merge de um branch no Content Platform. | ID do branch. |
+| branch.merge_unscheduled | Cancelamento do merge agendado de um branch no Content Platform. | ID do branch. |
+| store.create | Criação de uma store no Content Platform. | ID da store. |
+| store.update | Atualização de uma store no Content Platform. | ID da store. |
+| store.default_locale_change | Alteração do locale padrão de uma store no Content Platform. | ID da store e locale. |
+| store.locale.create | Criação de um locale em uma store no Content Platform. | ID da store e locale. |
+| store.locale.update | Atualização de um locale em uma store no Content Platform. | ID da store e locale. |
+| store.locale.activate | Ativação de um locale em uma store no Content Platform. | ID da store e locale. |
+| store.locale.deactivate | Desativação de um locale em uma store no Content Platform. | ID da store e locale. |
+| media.upload | Upload de um arquivo de mídia no Content Platform. | ID da mídia. |
+| media.create | Criação de um asset de mídia no Content Platform. | ID da mídia. |
+| media.delete | Exclusão de um asset de mídia no Content Platform. | ID da mídia. |
+| schema.publish | Publicação de um schema no Schema Registry do Content Platform. | ID do schema. |
 
 ## Gerenciamento de sellers
 

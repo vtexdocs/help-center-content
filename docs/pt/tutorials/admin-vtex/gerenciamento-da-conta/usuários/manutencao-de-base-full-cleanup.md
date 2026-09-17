@@ -17,7 +17,7 @@ subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 
 No início da operação de uma loja VTEX, muitas vezes é necessário testar as funções da plataforma, acostumando-se às ferramentas, aos processos e aos resultados possíveis. Para reverter os resultados de algumas destas operações, disponibilizamos a seguinte URL para limpeza da base de dados da loja:
 
-`https://{AccountName}.myvtex.com/admin/Site/fullcleanup.aspx`
+`https://{accountName}.myvtex.com/admin/Site/fullcleanup.aspx`
 
 Nesta página, é possível limpar o catálogo e reiniciar o indexador, retirando todos os produtos da sua loja.
 

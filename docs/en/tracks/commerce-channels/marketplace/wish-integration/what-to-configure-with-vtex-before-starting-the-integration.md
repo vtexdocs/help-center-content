@@ -22,7 +22,7 @@ To ensure that the integration functions properly, some initial VTEX platform co
 
 You'll need to define which sales channel will be used to integrate your products with Wish. This will be applied to main aspects: product assortment, inventory, price and currency. This implies that product price and availability on specific sales channel is wholly based on the sales channel you choose. [Click here for more info on how the sales channel works](/en/docs/tutorials/configuring-a-marketplace-trade-policy).
 
-> ℹ️ NOTE: Wish demands that product prices and shipping be sent in USD. However, it does convert order values into BRL directly, making issuing invoices much easier. This means that the integration should send prices in USD and accept orders in BRL. Thus, the architecture uses only BRL and converts within the integration. However, **the Wish sales channel must be in BRL**, while the entire conversion flow will be more detailed in [step 5](/en/docs/tracks/integration-configurations).
+> ℹ️ Wish demands that product prices and shipping be sent in USD. However, it does convert order values into BRL directly, making issuing invoices much easier. This means that the integration should send prices in USD and accept orders in BRL. Thus, the architecture uses only BRL and converts within the integration. However, **the Wish sales channel must be in BRL**, while the entire conversion flow will be more detailed in [step 5](/en/docs/tracks/integration-configurations).
 
 [Click here](/en/faq/adding-new-trade-policies--frequentlyAskedQuestions_700) to find out how to add a new sales channel when needed.
 
@@ -43,7 +43,7 @@ To ensure that order integrate successfully, you'll need to link, on the VTEX pl
   3. Set the [carriers](/en/docs/tutorials/carriers-on-vtex) that will ship from Wish;
   4. Link carriers to warehouses.
  
-> ℹ️ NOTE: Wish transfers the commission by confirming order delivery, obtaining this information by directly consulting its partner carriers. ***However, in order to sell on Wish, you need to use partner carriers for order delivery.*** [ Check out the Wish accepted carriers here.](https://merchant.wish.com/documentation/shippingproviders)
+> ℹ️ Wish transfers the commission by confirming order delivery, obtaining this information by directly consulting its partner carriers. ***However, in order to sell on Wish, you need to use partner carriers for order delivery.*** [ Check out the Wish accepted carriers here.](https://merchant.wish.com/documentation/shippingproviders)
 
 ## Defining prices
 
