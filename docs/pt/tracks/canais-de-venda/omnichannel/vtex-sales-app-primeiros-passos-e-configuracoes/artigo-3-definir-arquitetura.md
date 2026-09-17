@@ -20,6 +20,14 @@ Referência na doc da arquitetura:
   - Configuração omnichannel
   - Configuração de estoques
 
+Links da planilha da Biba:
+
+- Contas franquia: SERÁ ARQUIVADO`https://help.vtex.com/pt/docs/tracks/criar-contas-franquias` / LINKAR AO INVÉS PARA `https://help.vtex.com/pt/docs/tutorials/o-que-e-conta-franquia`
+- Omnichannel: `https://help.vtex.com/pt/docs/tracks/comercio-unificado-101`
+- Delivery: `https://help.vtex.com/pt/docs/tracks/delivery`
+- Ship From Store: `https://help.vtex.com/pt/docs/tracks/configurar-ship-from-store`
+- Lojas físicas como pontos de retirada: `https://help.vtex.com/pt/docs/tracks/configurar-lojas-fisicas-como-pontos-de-retirada`
+
 ## TEXTO DA BIBA - Definições Fundamentais de Projeto
 
 `https://docs.google.com/document/d/1_NfEwrVMQltM1E9JvyU9z0QrCQOs6CNI6VIUWnAGH3M/edit?tab=t.0`
