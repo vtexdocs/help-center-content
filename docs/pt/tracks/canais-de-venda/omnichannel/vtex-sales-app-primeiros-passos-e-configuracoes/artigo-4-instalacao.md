@@ -43,5 +43,5 @@ Após instalar e [configurar](XXX) o **Sales App** no Admin VTEX, você poderá 
 
 | Sistema operacional | Link de download |
 |---------------------|------------------|
-| Android | [Google Play](https://play.google.com/store/apps/details?id=com.vtex.instore&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) |
-| iOS | [App Store da Apple](https://apps.apple.com/us/app/vtex-instore/id1100390867?amp%3Bmt=8&ls=1) |
+| Android | [Google Play](https://play.google.com/store/search?q=VTEX%20sales%20app&c=apps&hl=pt_BR) |
+| iOS | [App Store da Apple](https://apps.apple.com/us/app/vtex-sales-app/id1100390867) |
