@@ -15,8 +15,7 @@ order: 5
 
 `https://help.vtex.com/pt/docs/tracks/vtex-sales-app-configuracoes-basicas`
 
-\\O ARTIGO MISTURA CRIAÇÃO DE CADASTRO DE LOJA FÍSICA COM CONFIGURAÇÕES BÁSICAS
-\\CONSIDERAR MOVER O CONTEÚDO SOBRE GERENCIAMENTO DE LOJAS FÍSICAS PARA A TRILHA "VTEX Sales App - Usando o app"
+\\✅ O ARTIGO MISTURA AS CONFIGURAÇÕES BÁSICAS COM INSTALAÇÃO, MAS O RESTANTE DO CONTEÚDO JÁ FOI MOVIDO PARA O ARTIGO SOBRE INSTALAÇÃO
 
 Após a instalação, você vai realizar as configurações básicas do aplicativo, descritas abaixo:
 
@@ -75,13 +74,12 @@ Para configurar o binding e garantir que o catálogo da loja seja exibido no **V
 
 Para começar a utilizar o **VTEX Sales App**, você também precisa realizar as configurações logísticas de acordo com as estratégias que deseja implementar. Saiba mais em [Comércio Unificado](/pt/docs/tracks/comercio-unificado-101) e [Logística](/pt/docs/tracks/logistica-101) para mais informações.
 
-
 ___________________________________________________________________________________________
 
-## ARTIGO ANTERIOR - CONTEÚDO PARCIAL DO ARTIGO "Gerenciar lojas físicas no VTEX Sales App"
+## ARTIGO ANTERIOR - "Gerenciar lojas físicas no VTEX Sales App"
 
 `https://help.vtex.com/pt/docs/tracks/gerenciar-lojas-fisicas-no-vtex-sales-app`
 
-\\O ARTIGO MISTURA CRIAÇÃO DE CADASTRO DE LOJA FÍSICA COM SEU GERENCIAMENTO
+\\🟨 CONTEÚDO PARCIAL - O ARTIGO MISTURA CRIAÇÃO DE CADASTRO DE LOJA FÍSICA COM GERENCIAMENTO - CONSIDERAR MOVER O CONTEÚDO SOBRE GERENCIAMENTO CRIANDO UM NOVO ARTIGO NA TRILHA "VTEX Sales App - Usando o app"
 
 Loja física é uma página das Configurações da loja do Admin VTEX que apresenta a listagem de lojas físicas cadastradas no aplicativo VTEX Sales App. Nela, você pode gerenciar informações de todas as lojas físicas da conta.
