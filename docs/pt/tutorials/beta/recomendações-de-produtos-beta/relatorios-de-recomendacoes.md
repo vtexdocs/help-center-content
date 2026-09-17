@@ -22,6 +22,12 @@ Para acessá-la no Admin VTEX, entre em *Storefront > Recomendações* e clique 
 
 * Ter a funcionalidade de [Recomendações de produtos](https://help.vtex.com/pt/docs/tutorials/recomendacoes-de-produtos-beta) habilitada na loja.
 * Ter [estratégias de recomendação](https://help.vtex.com/pt/docs/tutorials/recomendacoes-de-produtos-beta#estrategias-de-recomendacao) implementadas na loja.
+* Ter um [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) com os seguintes [recursos do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager):
+
+  | Nome do recurso | Chave do recurso (resource_key) | Descrição |
+  | :---- | :---- | :---- |
+  | View Recommendations | `ViewRecommendations` | Permite visualizar a listagem de recomendações no Admin. |
+  | View Recommendations metrics | `ViewRecommendationsMetrics` | Permite visualizar métricas de recomendações no Admin, incluindo a aba Relatórios. |
 
 ## Periodicidade dos relatórios
 
@@ -44,6 +50,8 @@ A aba apresenta as seguintes informações em uma tabela:
 | **Data de criação** | Quando o relatório foi gerado. |
 | **Status** | Situação do relatório: <ul><li>**Criando:** em processamento.</li><li>**Disponível:** pronto para download.</li><li>**Visualizado:** já baixado.</li></ul> |
 
+Se a loja ainda não tiver nenhum relatório gerado, a aba exibe a mensagem **Nenhum relatório ainda**, junto com o botão para [criar relatório](#criar-relatorio).
+
 ## Criar relatório
 
 Você pode criar um relatório para um período personalizado.
@@ -64,15 +72,17 @@ Na linha do relatório desejado, clique no ícone de download <i class="fas fa-d
 
 ## Notificações por email
 
-Quando um relatório automático (semanal ou mensal) é criado, a VTEX envia uma notificação por email, para que não seja necessário acessar o Admin para saber que um novo relatório está disponível.
+Quando um relatório automático (semanal ou mensal) é criado, a VTEX envia uma notificação por email para os endereços configurados na conta, para que não seja necessário acessar o Admin para saber que um novo relatório está disponível.
 
 ## Estrutura do relatório
 
-O relatório é gerado em PDF e apresenta as seguintes seções:
+O relatório é gerado em PDF. O idioma, a moeda dos valores monetários e os destinatários das notificações por email são definidos durante a ativação da funcionalidade na loja. Para alterar essas preferências, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/docs/tracks/suporte-comercial).
+
+O relatório apresenta as seguintes seções:
 
 ### Cabeçalho
 
-Identifica a loja, o tipo de análise (semanal, mensal ou personalizada) e o período coberto, seguido de um resumo com a receita influenciada, o número de pedidos, as visualizações e os cliques totais gerados pelas prateleiras de recomendação no período.
+Identifica a loja e o período coberto, seguido de um resumo com a receita influenciada, o número de pedidos, as visualizações e os cliques totais gerados pelas prateleiras de recomendação no período.
 
 ### Métricas consolidadas
 
@@ -104,7 +114,7 @@ Para cada prateleira, os 5 produtos de melhor desempenho no período, com receit
 
 ### Produto estrela do período
 
-Destaque para o produto que mais gerou receita entre as prateleiras no período, com receita total, número de compras e em quantas prateleiras ele aparece entre os mais vendidos.
+Destaque para o produto que aparece entre os mais vendidos de pelo menos duas prateleiras no período, com receita total, número de compras e em quantas prateleiras ele aparece entre os mais vendidos. Essa seção só é exibida quando algum produto atende a esse critério.
 
 ### Insights e recomendações
 
