@@ -16,6 +16,7 @@ order: 5
 `https://help.vtex.com/pt/docs/tracks/vtex-sales-app-configuracoes-basicas`
 
 \\O ARTIGO MISTURA CRIAÇÃO DE CADASTRO DE LOJA FÍSICA COM CONFIGURAÇÕES BÁSICAS
+\\CONSIDERAR MOVER O CONTEÚDO SOBRE GERENCIAMENTO DE LOJAS FÍSICAS PARA A TRILHA "VTEX Sales App - Usando o app"
 
 Após a instalação, você vai realizar as configurações básicas do aplicativo, descritas abaixo:
 
