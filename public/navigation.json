@@ -22664,21 +22664,6 @@
                 },
                 {
                   "name": {
-                    "en": "VTEX Pick and Pack: Fulfillment",
-                    "es": "VTEX Pick and Pack: Fulfillment",
-                    "pt": "VTEX Pick and Pack: Fulfillment"
-                  },
-                  "slug": {
-                    "en": "vtex-pick-and-pack-fulfillment",
-                    "es": "vtex-pick-and-pack-fulfillment",
-                    "pt": "vtex-pick-and-pack-fulfillment"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "VTEX Pick and Pack: Insights",
                     "es": "VTEX Pick and Pack: Insights",
                     "pt": "VTEX Pick and Pack: Insights"
@@ -43970,6 +43955,21 @@
             },
             {
               "name": {
+                "en": "\"Choose products\" button on the empty cart page ignores the store's rootPath",
+                "es": "El botón \"Elegir productos\" en la página del carrito vacío ignora la ruta raíz de la tienda.",
+                "pt": "O botão \"Escolher produtos\" na página do carrinho vazio ignora o caminho raiz da loja."
+              },
+              "slug": {
+                "en": "choose-products-button-on-the-empty-cart-page-ignores-the-stores-rootpath",
+                "es": "el-boton-elegir-productos-en-la-pagina-del-carrito-vacio-ignora-la-ruta-raiz-de-la-tienda",
+                "pt": "o-botao-escolher-produtos-na-pagina-do-carrinho-vazio-ignora-o-caminho-raiz-da-loja"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "\"Go to payment\" button doesn't work in delivery split when switching between Delivery and Pick up options",
                 "es": "El botón «Ir al pago» no funciona en la división del envío al cambiar entre las opciones de entrega y recogida",
                 "pt": "O botão \"Prosseguir para o pagamento\" não funciona na divisão da entrega ao alternar entre as opções de Entrega e Retirada"
@@ -44120,6 +44120,21 @@
             },
             {
               "name": {
+                "en": "Alert \"Freight value has changed\" appears even when the value remains the same",
+                "es": "La alerta \"El valor del flete ha cambiado\" aparece incluso cuando el valor permanece igual.",
+                "pt": "O alerta \"O valor do frete foi alterado\" aparece mesmo quando o valor permanece o mesmo."
+              },
+              "slug": {
+                "en": "alert-freight-value-has-changed-appears-even-when-the-value-remains-the-same",
+                "es": "la-alerta-el-valor-del-flete-ha-cambiado-aparece-incluso-cuando-el-valor-permanece-igual",
+                "pt": "o-alerta-o-valor-do-frete-foi-alterado-aparece-mesmo-quando-o-valor-permanece-o-mesmo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Alert for fill the scheduled delivery selection appears only once",
                 "es": "La alerta para llenar la selección de entrega programada aparece sólo una vez",
                 "pt": "Alerta para preencher a seleção de entrega programada aparece apenas uma vez"
@@ -44143,6 +44158,21 @@
                 "en": "api-to-list-pickup-points-does-not-return-additionalinfo-field",
                 "es": "la-api-para-listar-los-puntos-de-recogida-no-devuelve-el-campo-additionalinfo",
                 "pt": "api-para-listar-pontos-de-coleta-nao-retorna-campo-de-informacoes-adicionais"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Argentine mobile phone numbers are shown and saved incorrectly",
+                "es": "Los números de teléfono móvil argentinos se muestran y guardan incorrectamente.",
+                "pt": "Os números de telefone celular argentinos são exibidos e salvos incorretamente."
+              },
+              "slug": {
+                "en": "argentine-mobile-phone-numbers-are-shown-and-saved-incorrectly",
+                "es": "los-numeros-de-telefono-movil-argentinos-se-muestran-y-guardan-incorrectamente",
+                "pt": "os-numeros-de-telefone-celular-argentinos-sao-exibidos-e-salvos-incorretamente"
               },
               "origin": "",
               "type": "markdown",
@@ -44263,6 +44293,36 @@
                 "en": "button-to-see-more-pickup-points-not-being-presented-in-the-list",
                 "es": "el-boton-para-ver-mas-puntos-de-recogida-no-aparece-en-la-lista",
                 "pt": "botao-para-ver-mais-pontos-de-retirada-que-nao-aparecem-na-lista"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Buyer sees a generic error instead of the order confirmation screen, and the order was created",
+                "es": "El comprador ve un error genérico en lugar de la pantalla de confirmación del pedido y el pedido se creó.",
+                "pt": "O comprador vê uma mensagem de erro genérica em vez da tela de confirmação do pedido, e o pedido foi criado."
+              },
+              "slug": {
+                "en": "buyer-sees-a-generic-error-instead-of-the-order-confirmation-screen-and-the-order-was-created",
+                "es": "el-comprador-ve-un-error-generico-en-lugar-de-la-pantalla-de-confirmacion-del-pedido-y-el-pedido-se-creo",
+                "pt": "o-comprador-ve-uma-mensagem-de-erro-generica-em-vez-da-tela-de-confirmacao-do-pedido-e-o-pedido-foi-criado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Buyer unintentionally purchases from two different pickup points",
+                "es": "El comprador realiza compras involuntariamente en dos puntos de recogida diferentes.",
+                "pt": "O comprador, sem intenção, efetua compras em dois pontos de coleta diferentes."
+              },
+              "slug": {
+                "en": "buyer-unintentionally-purchases-from-two-different-pickup-points",
+                "es": "el-comprador-realiza-compras-involuntariamente-en-dos-puntos-de-recogida-diferentes",
+                "pt": "o-comprador-sem-intencao-efetua-compras-em-dois-pontos-de-coleta-diferentes"
               },
               "origin": "",
               "type": "markdown",
@@ -44413,6 +44473,36 @@
                 "en": "cart-parameter-ignoreprofiledata-reverted-to-false-after-shopper-signs-out-in-checkout",
                 "es": "el-parametro-ignoreprofiledata-del-carrito-vuelve-a-establecerse-en-false-despues-de-que-el-comprador-cierre-sesion-durante-el-proceso-de-pago",
                 "pt": "o-parametro-ignoreprofiledata-do-carrinho-volta-a-ser-definido-como-false-apos-o-cliente-encerrar-a-sessao-durante-o-checkout"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Cart shipping preview stops working after items are removed and added back by the storefront",
+                "es": "La vista previa del envío del carrito deja de funcionar después de que la tienda elimina y vuelve a agregar artículos.",
+                "pt": "A pré-visualização do frete do carrinho para de funcionar depois que os itens são removidos e adicionados novamente pela loja."
+              },
+              "slug": {
+                "en": "cart-shipping-preview-stops-working-after-items-are-removed-and-added-back-by-the-storefront",
+                "es": "la-vista-previa-del-envio-del-carrito-deja-de-funcionar-despues-de-que-la-tienda-elimina-y-vuelve-a-agregar-articulos",
+                "pt": "a-previsualizacao-do-frete-do-carrinho-para-de-funcionar-depois-que-os-itens-sao-removidos-e-adicionados-novamente-pela-loja"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Cart shows an error after items are added and removed repeatedly (cart data out of sync)",
+                "es": "El carrito muestra un error después de agregar y eliminar artículos repetidamente (los datos del carrito no están sincronizados).",
+                "pt": "O carrinho exibe um erro após itens serem adicionados e removidos repetidamente (dados do carrinho dessincronizados)."
+              },
+              "slug": {
+                "en": "cart-shows-an-error-after-items-are-added-and-removed-repeatedly-cart-data-out-of-sync",
+                "es": "el-carrito-muestra-un-error-despues-de-agregar-y-eliminar-articulos-repetidamente-los-datos-del-carrito-no-estan-sincronizados",
+                "pt": "o-carrinho-exibe-um-erro-apos-itens-serem-adicionados-e-removidos-repetidamente-dados-do-carrinho-dessincronizados"
               },
               "origin": "",
               "type": "markdown",
@@ -45305,6 +45395,21 @@
             },
             {
               "name": {
+                "en": "Delivery options and prices are not always shown in Shopping gift list",
+                "es": "Las opciones y los precios de envío no siempre se muestran en la lista de regalos de la compra.",
+                "pt": "As opções e os preços de entrega nem sempre são exibidos na lista de presentes."
+              },
+              "slug": {
+                "en": "delivery-options-and-prices-are-not-always-shown-in-shopping-gift-list",
+                "es": "las-opciones-y-los-precios-de-envio-no-siempre-se-muestran-en-la-lista-de-regalos-de-la-compra",
+                "pt": "as-opcoes-e-os-precos-de-entrega-nem-sempre-sao-exibidos-na-lista-de-presentes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Delivery schedule date getting empty when item is a gift added",
                 "es": "La fecha de entrega se vacía cuando el artículo es un regalo añadido",
                 "pt": "Data de entrega ficando vazia quando o item é um presente adicionado"
@@ -46123,6 +46228,21 @@
                 "es": "no-se-informa-al-usuario-cuando-algo-va-mal",
                 "pt": "nao-ha-feedback-para-o-usuario-quando-algo-da-errado",
                 "en": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "No stores shown on the pickup map when searching by street name only",
+                "es": "No se muestran tiendas en el mapa de recogida al buscar solo por nombre de calle.",
+                "pt": "Nenhuma loja é exibida no mapa de retirada ao pesquisar apenas pelo nome da rua."
+              },
+              "slug": {
+                "en": "no-stores-shown-on-the-pickup-map-when-searching-by-street-name-only",
+                "es": "no-se-muestran-tiendas-en-el-mapa-de-recogida-al-buscar-solo-por-nombre-de-calle",
+                "pt": "nenhuma-loja-e-exibida-no-mapa-de-retirada-ao-pesquisar-apenas-pelo-nome-da-rua"
               },
               "origin": "",
               "type": "markdown",
@@ -47150,6 +47270,21 @@
             },
             {
               "name": {
+                "en": "Shipping cost calculation button has to be clicked twice",
+                "es": "El botón de cálculo del costo de envío debe pulsarse dos veces.",
+                "pt": "O botão de cálculo do custo de envio precisa ser clicado duas vezes."
+              },
+              "slug": {
+                "en": "shipping-cost-calculation-button-has-to-be-clicked-twice",
+                "es": "el-boton-de-calculo-del-costo-de-envio-debe-pulsarse-dos-veces",
+                "pt": "o-botao-de-calculo-do-custo-de-envio-precisa-ser-clicado-duas-vezes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Shipping options are not shown in the cart when there is scheduled delivery and Lean Shipping activated",
                 "es": "Las opciones de envío no se muestran en el carrito cuando hay una entrega programada y la función «Lean Shipping» está activada",
                 "pt": "As opções de envio não são exibidas no carrinho quando há entrega programada e o Lean Shipping está ativado"
@@ -47188,6 +47323,21 @@
                 "en": "shipping-preview-does-not-use-sla-name-for-display-in-ui",
                 "es": "la-vista-previa-de-los-envios-no-utiliza-el-nombre-del-ans-para-su-visualizacion-en-la-interfaz-de-usuario",
                 "pt": "a-visualizacao-previa-da-expedicao-nao-usa-o-nome-sla-para-exibicao-na-interface-de-usuario"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shipping preview does not work when standard and scheduled delivery items are mixed",
+                "es": "La vista previa del envío no funciona cuando se combinan artículos de entrega estándar y programada.",
+                "pt": "A pré-visualização do envio não funciona quando itens com entrega padrão e agendada são combinados."
+              },
+              "slug": {
+                "en": "shipping-preview-does-not-work-when-standard-and-scheduled-delivery-items-are-mixed",
+                "es": "la-vista-previa-del-envio-no-funciona-cuando-se-combinan-articulos-de-entrega-estandar-y-programada",
+                "pt": "a-previsualizacao-do-envio-nao-funciona-quando-itens-com-entrega-padrao-e-agendada-sao-combinados"
               },
               "origin": "",
               "type": "markdown",
@@ -47413,6 +47563,21 @@
                 "en": "shoppers-not-able-to-access-the-payment-step-directly-with-a-complete-profile-and-available-pickup-option",
                 "es": "los-compradores-no-pueden-acceder-directamente-al-paso-de-pago-con-un-perfil-completo-y-la-opcion-de-recogida-disponible",
                 "pt": "compradores-que-nao-conseguem-acessar-a-etapa-de-pagamento-diretamente-com-um-perfil-completo-e-opcao-de-retirada-disponivel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Special characters in the delivery receiver field block the purchase with a wrong error message",
+                "es": "Los caracteres especiales en el campo del destinatario bloquean la compra con un mensaje de error incorrecto.",
+                "pt": "Caracteres especiais no campo do destinatário da entrega bloqueiam a compra com uma mensagem de erro incorreta."
+              },
+              "slug": {
+                "en": "special-characters-in-the-delivery-receiver-field-block-the-purchase-with-a-wrong-error-message",
+                "es": "los-caracteres-especiales-en-el-campo-del-destinatario-bloquean-la-compra-con-un-mensaje-de-error-incorrecto",
+                "pt": "caracteres-especiais-no-campo-do-destinatario-da-entrega-bloqueiam-a-compra-com-uma-mensagem-de-erro-incorreta"
               },
               "origin": "",
               "type": "markdown",
@@ -47885,6 +48050,36 @@
             },
             {
               "name": {
+                "en": "Valid Ecuadorian documents are rejected at checkout",
+                "es": "Los documentos ecuatorianos válidos son rechazados en el momento de la salida.",
+                "pt": "Documentos equatorianos válidos são rejeitados no caixa."
+              },
+              "slug": {
+                "en": "valid-ecuadorian-documents-are-rejected-at-checkout",
+                "es": "los-documentos-ecuatorianos-validos-son-rechazados-en-el-momento-de-la-salida",
+                "pt": "documentos-equatorianos-validos-sao-rejeitados-no-caixa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX ID login box is barely visible in Checkout when the page is scrolled down",
+                "es": "El cuadro de inicio de sesión de VTEX ID apenas es visible en la página de pago cuando se desplaza hacia abajo.",
+                "pt": "A caixa de login do ID VTEX fica quase invisível na página de finalização da compra quando a página é rolada para baixo."
+              },
+              "slug": {
+                "en": "vtex-id-login-box-is-barely-visible-in-checkout-when-the-page-is-scrolled-down",
+                "es": "el-cuadro-de-inicio-de-sesion-de-vtex-id-apenas-es-visible-en-la-pagina-de-pago-cuando-se-desplaza-hacia-abajo",
+                "pt": "a-caixa-de-login-do-id-vtex-fica-quase-invisivel-na-pagina-de-finalizacao-da-compra-quando-a-pagina-e-rolada-para-baixo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "When selecting pickup not highlighted in the list of pickups in the cart, UI makes incorrect request to API",
                 "es": "Cuando se selecciona una recogida que no está resaltada en la lista de recogidas del carrito, la interfaz de usuario hace una petición incorrecta a la API",
                 "pt": "Ao selecionar pickups não destacados na lista de pickups no carrinho, a UI faz solicitação incorreta ao API"
@@ -47923,6 +48118,21 @@
                 "en": "wrong-button-calltoaction-name-in-profile-step",
                 "es": "nombre-incorrecto-del-boton-de-llamada-a-la-accion-en-el-paso-de-perfil",
                 "pt": "botao-errado-chamar-o-nome-de-acao-na-etapa-de-perfil"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Wrong delivery date shown when editing scheduled delivery of distinct items",
+                "es": "Se muestra una fecha de entrega incorrecta al editar la entrega programada de artículos distintos.",
+                "pt": "A data de entrega exibida está incorreta ao editar a entrega agendada de itens distintos."
+              },
+              "slug": {
+                "en": "wrong-delivery-date-shown-when-editing-scheduled-delivery-of-distinct-items",
+                "es": "se-muestra-una-fecha-de-entrega-incorrecta-al-editar-la-entrega-programada-de-articulos-distintos",
+                "pt": "a-data-de-entrega-exibida-esta-incorreta-ao-editar-a-entrega-agendada-de-itens-distintos"
               },
               "origin": "",
               "type": "markdown",
