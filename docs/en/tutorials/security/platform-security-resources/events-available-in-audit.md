@@ -1,7 +1,7 @@
 ---
 title: 'Events available in Audit'
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2026-09-18T00:00:00.000Z
+updatedAt: 2026-09-17T00:00:00.000Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
@@ -500,4 +500,6 @@ In the **Action** column, all Headless CMS (Legacy) events also display the foll
 | DelegationCreated | Creation of a delegation granting a user permission to act on behalf of another user in the same organization unit, for a set date range. | Delegation ID, organizational unit ID, original user ID, delegate user ID, and date range. |
 | DelegationUpdated | Update of a delegation's date range. | Delegation ID and date range. |
 | DelegationRevoked | Revocation of a delegation before its end date. | Delegation ID. |
+| ImpersonationSuccess | Successful impersonation of a user through an on-behalf-of (OBO) token exchange. | Original user ID, delegate user ID, impersonation type, delegation ID, and organizational unit ID. |
+| ImpersonationFailed | Failed attempt to impersonate a user through an on-behalf-of (OBO) token exchange. | Original user ID, delegate user ID, impersonation type, delegation ID, organizational unit ID, and failure reason. |
 
