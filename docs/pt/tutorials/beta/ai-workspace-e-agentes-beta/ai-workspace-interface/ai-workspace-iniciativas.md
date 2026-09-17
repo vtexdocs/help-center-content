@@ -14,7 +14,7 @@ No AI Workspace, uma **iniciativa** é o ponto de partida para a execução de t
 
 Toda iniciativa é identificada por um código que começa com `IN` seguido de números (por exemplo, `IN6270`). As iniciativas podem ser criadas **a partir de interações com agentes de IA**, que identificam problemas e oportunidades de melhoria na loja e propõem ações para tratá-los.
 
-A página **Iniciativas** é acessada pelo item **Iniciativas** no [menu de navegação](https://help.vtex.com/pt/docs/tutorials/ai-workspace-inicio) lateral e reúne todas as iniciativas da sua operação, permitindo acompanhá-las e gerenciá-las.
+A página **Iniciativas** é acessada pelo item **Iniciativas** no [menu de navegação](https://help.vtex.com/pt/docs/tutorials/ai-workspace-menu-navegacao) lateral e reúne todas as iniciativas da sua operação, permitindo acompanhá-las e gerenciá-las.
 
 ## Tabela de iniciativas
 
@@ -42,7 +42,7 @@ Ao clicar na seta à esquerda de uma iniciativa, ela se expande e exibe suas tar
 
 ## Detalhes da iniciativa (canvas)
 
-Ao clicar em uma iniciativa, em qualquer modo de visualização, abre-se o **canvas** à direita com os detalhes completos da iniciativa.
+Ao clicar em uma iniciativa, em qualquer modo de visualização, abre-se o [**canvas**](https://help.vtex.com/pt/docs/tutorials/ai-workspace-glossario#canvas) à direita com os detalhes completos da iniciativa.
 
 ![AI Workspace iniciativa canvas PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-iniciativa-canvas.png)
 
@@ -52,7 +52,7 @@ O canvas é organizado nas seguintes seções:
 - **Cabeçalho:** informações gerais da iniciativa:
   - **Status:** situação atual da iniciativa. Os possíveis status são **Triagem**, **Ativo** e **Concluído**.
   - **Severidade:** nível de prioridade da iniciativa.
-  - **Líder:** responsável pela condução da iniciativa.
+  - **Líder da iniciativa:** responsável pela condução da iniciativa.
   - **Participantes:** demais pessoas envolvidas na iniciativa.
   - **Reportado por:** quem (usuário ou agente) reportou a iniciativa, com data e hora.
 - **Diagnóstico:** análise da situação que originou a iniciativa, detalhando o problema ou a oportunidade identificada.

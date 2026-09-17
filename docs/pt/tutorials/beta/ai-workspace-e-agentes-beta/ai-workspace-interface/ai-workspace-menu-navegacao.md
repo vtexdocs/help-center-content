@@ -10,7 +10,7 @@ locale: pt
 
 > ⚠️ O AI Workspace está disponível apenas para contas selecionadas.
 
-O **Menu de navegação** é um painel lateral à esquerda que agrupa as principais áreas do AI Workspace, ajudando você a encontrar o que precisa de forma rápida e organizada.
+O **Menu de navegação** é um painel lateral à esquerda da tela que agrupa as principais áreas do AI Workspace, ajudando você a encontrar o que precisa de forma rápida e organizada.
 
 ![Menu de navegação](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-menu-navegacao.png)
 

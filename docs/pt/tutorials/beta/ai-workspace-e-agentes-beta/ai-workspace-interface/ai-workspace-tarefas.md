@@ -12,7 +12,7 @@ locale: pt
 
 No AI Workspace, uma **tarefa** é uma unidade de trabalho de uma [iniciativa](https://help.vtex.com/pt/docs/tutorials/ai-workspace-iniciativas) e tem um objetivo específico. Por exemplo: *Melhore os títulos dos 500 produtos mais visitados*.
 
-Cada tarefa possui um **responsável** que a executa, podendo ser um humano ou um agente de IA. O responsável é escolhido pelo **Líder da iniciativa**.
+Cada tarefa possui um **responsável** que a executa, podendo ser um humano ou um agente de IA. O responsável é escolhido pelo [**Líder da iniciativa**](https://help.vtex.com/pt/docs/tutorials/ai-workspace-glossario#lider-da-iniciativa).
 
 As tarefas existem apenas dentro de iniciativas e podem ser criadas de duas formas:
 
@@ -25,14 +25,14 @@ A página **Tarefas** é acessada pelo item **Tarefas** no [menu de navegação]
 
 ![AI Workspace página de tarefas PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-tarefas.png)
 
-A página possui um quadro para organizar as tarefas. O quadro se divide em colunas de acordo com o status de cada uma:
+A página possui um quadro que organiza as tarefas em colunas, de acordo com o status de cada uma:
 
 - **Aberta:** tarefas ainda não iniciadas.
 - **Em execução:** tarefas em andamento.
 - **Aguardando ação:** tarefas que dependem de interação para avançar.
 - **Concluídas:** tarefas finalizadas.
 
-As colunas contêm cartões que representam as tarefas. Cada cartão exibe os seguintes detalhes:
+As colunas contêm cartões que representam as tarefas, cada um exibindo os seguintes detalhes:
 
 - **Título:** nome da tarefa.
 - **Iniciativa:** iniciativa à qual a tarefa pertence.
@@ -41,7 +41,7 @@ As colunas contêm cartões que representam as tarefas. Cada cartão exibe os se
 
 ## Detalhes da tarefa (canvas)
 
-Nos [detalhes da iniciativa no canvas](https://help.vtex.com/pt/docs/tutorials/ai-workspace-iniciativas#detalhes-da-iniciativa-canvas), é exibida a lista de todas as suas tarefas. Ao clicar em uma tarefa, os detalhes dela são exibidos no canvas.
+Nos [detalhes da iniciativa no canvas](https://help.vtex.com/pt/docs/tutorials/ai-workspace-iniciativas#detalhes-da-iniciativa-canvas), é exibida a lista de todas as suas tarefas. Ao clicar em uma tarefa, os detalhes dela são exibidos no [**canvas**](https://help.vtex.com/pt/docs/tutorials/ai-workspace-glossario).
 
 ![AI Workspace detalhes da tarefa no canvas PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-tarefa-canvas.png)
 

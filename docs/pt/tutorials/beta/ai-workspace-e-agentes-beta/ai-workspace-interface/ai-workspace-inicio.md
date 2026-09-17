@@ -14,7 +14,7 @@ O AI Workspace é o ambiente de trabalho com inteligência artificial da VTEX, n
 
 ![AI Workspace Início PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-inicio.png)
 
-As seções a seguir descrevem cada parte da página Início do AI Workspace.
+As seções a seguir descrevem cada parte da página **Início** do AI Workspace.
 
 ## Indicadores de desempenho
 
@@ -37,7 +37,7 @@ Esta seção destaca as iniciativas propostas para melhorar o desempenho da loja
 
 ## Caixa de mensagem
 
-Na parte inferior da página, a caixa de mensagem é o ponto central de interação com o seu assistente de IA. Aqui estão os seguintes elementos:
+Na parte inferior da página, a caixa de mensagem é o ponto central de interação com o seu assistente de IA e apresenta os seguintes elementos:
 
 - **Campo de texto:** digitar uma solicitação ou pergunta para o assistente.
-- **Seleção de agente:** Seleciona um dos agentes de IA instalados para iniciar uma conversa.
+- **Seleção de agente:** selecionar um dos agentes de IA instalados para iniciar uma conversa.
