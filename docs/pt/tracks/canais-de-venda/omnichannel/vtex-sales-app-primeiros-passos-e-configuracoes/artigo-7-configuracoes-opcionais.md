@@ -10,3 +10,5 @@ locale: pt
 trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 7
 ---
+
+Links da planilha da Biba: checar `https://docs.google.com/spreadsheets/d/1dLk-p7F-ZzQs4bebyMXsZTJudf6x-Dc1t_WoxEV7qo4/edit?gid=949566677#gid=949566677`
