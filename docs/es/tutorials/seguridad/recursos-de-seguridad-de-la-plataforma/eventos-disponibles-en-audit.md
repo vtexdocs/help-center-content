@@ -1,7 +1,7 @@
 ---
 title: 'Eventos disponibles en Audit'
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2026-09-14T00:00:00.000Z
+updatedAt: 2026-09-17T00:00:00.000Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
@@ -477,4 +477,6 @@ En la columna **Acción**, todos los eventos de Headless CMS (Legacy) también m
 | DelegationCreated | Creación de una delegación que otorga a un usuario permiso para actuar en nombre de otro usuario de la misma unidad organizativa, durante un período determinado. | ID de la delegación, ID de la unidad organizativa, ID del usuario original, ID del usuario delegado y período. |
 | DelegationUpdated | Actualización del período de una delegación. | ID de la delegación y período. |
 | DelegationRevoked | Revocación de una delegación antes de la fecha de finalización. | ID de la delegación. |
+| ImpersonationSuccess | Suplantación exitosa de un usuario mediante un intercambio de token on-behalf-of (OBO). | ID del usuario original, ID del usuario delegado, tipo de suplantación, ID de la delegación e ID de la unidad organizativa. |
+| ImpersonationFailed | Intento fallido de suplantación de un usuario mediante un intercambio de token on-behalf-of (OBO). | ID del usuario original, ID del usuario delegado, tipo de suplantación, ID de la delegación, ID de la unidad organizativa y motivo del fallo. |
 
