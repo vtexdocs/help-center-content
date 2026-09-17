@@ -47,7 +47,7 @@ A conexão com a internet é fundamental para o uso do **Sales App**. Os requisi
 
 | Equipamento | Requisitos mínimos | Recomendações adicionais |
 | :--- | :--- | :--- |
-| Roteador | Padrão 2.4 GHz (802.11n) e conexão do dispositivo com o roteador de 20 Mbps | Padrão 5 GHz (802.11ac). O celular ser dual-band. Conexão do dispositivo com o roteador de 40 Mbps |
+| Roteador | Padrão 2.4 GHz (802.11n) e conexão do dispositivo com o roteador de 20 Mbps | Padrão 5 GHz (802.11ac) e conexão do dispositivo com o roteador de 40 Mbps. O celular ser dual-band. |
 | Internet | Velocidade do link de 2 Mbps no dispositivo (resultado do teste de velocidade no celular) | Velocidade do link de 5 Mbps no dispositivo (resultado do teste de velocidade no celular) |
 
 ## Equipamento adicional (opcional)
