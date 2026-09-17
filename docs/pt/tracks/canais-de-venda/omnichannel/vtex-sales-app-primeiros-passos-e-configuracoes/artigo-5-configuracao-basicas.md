@@ -122,3 +122,71 @@ Você pode cadastrar uma loja física seguindo os passos a seguir:
 * **Ponto de retirada:** [ponto de retirada](/pt/docs/tutorials/pontos-de-retirada) cadastrado para essa loja física, onde clientes retiram seus pedidos.
 
 \\🟨 DRAFT ADICIONAR: "Para saber como gerenciar suas lojas físicas, confira o artigo [Gerenciar lojas físicas no VTEX Sales App](XXX)" - O ARTIGO SOBRE GERENCIAR LOJAS FÍSICAS PRECISA SER CRIADO NA TRILHA "VTEX Sales App - Usando o app" PORQUE SERÁ ARQUIVADO NO "Gerenciar lojas físicas no VTEX Sales App" DA TRILHA DE PRIMEIROS PASSOS
+
+___________________________________________________________________________________________
+
+## ARTIGO ANTERIOR - "Gerenciar vendedores no VTEX Sales App
+
+`https://help.vtex.com/pt/docs/tracks/gerenciar-vendedores-no-vtex-sales-app`
+
+\\🟨 CONTEÚDO PARCIAL - O ARTIGO MISTURA CRIAÇÃO DE CADASTRO DE VENDEDOR COM GERENCIAMENTO - CONSIDERAR MOVER O CONTEÚDO SOBRE GERENCIAMENTO CRIANDO UM NOVO ARTIGO NA TRILHA "VTEX Sales App - Usando o app"
+
+\\🟨 CONSIDERAR SE MANTENHO O CONTEÚDO SOBRE "Primeiro acesso do vendedor" NO ARTIGO ATUAL OU SOMENTE NO ARTIGO A SER CRIADO SOBRE GERENCIAMENTO DE VENDEDORES
+
+A categoria Vendedores representa uma seção dentro das Configurações da loja do Admin VTEX, exibindo a lista completa dos vendedores registrados no aplicativo **VTEX Sales App** da loja. Dentro dessa página, é possível administrar as informações dos vendedores em todas as [contas franquias](/pt/docs/tutorials/o-que-e-conta-franquia) da sua loja, realizando operações de [cadastrar](#cadastrar-vendedor), [buscar](#buscar-vendedor), [filtrar](#filtrar-vendedores), [editar](#editar-vendedor) e [inativar](#inativar-vendedor).
+
+## Cadastrar vendedor
+
+Você pode cadastrar um vendedor seguindo os passos abaixo:
+
+1. No Admin VTEX, acesse **Configurações da loja** **> Sales App > Vendedores**, ou digite **Vendedores** na barra de busca no topo da página.
+2. Clique no botão `+ Cadastrar vendedor`.
+3. Preencha os [campos de cadastro do vendedor](#campos-de-cadastro-do-vendedor).
+4. Clique em `Cadastrar`.
+5. Clique em `Salvar` para confirmar o cadastro do vendedor.  
+
+Após o cadastro feito pelo lojista, o vendedor poderá criar uma senha de acesso, conforme descrito na seção [Primeiro acesso do vendedor](#primeiro-acesso-do-vendedor).
+
+### Campos de cadastro do vendedor
+
+#### Identificação
+
+* **Nome do vendedor:** nome do vendedor que será cadastrado. Campo obrigatório.
+* **Código do vendedor:** código que identifica o vendedor, igual ao cadastrado no sistema da loja física.
+* **Email:** email de acesso do vendedor ao Sales App. Campo obrigatório.
+* **Permitir acesso à performance de vendas de outros vendedores:** caixa de seleção que permite a visualização da performance de vendas de outros vendedores (quando marcada) ou apenas o acesso à informações da sua própria performance de vendas (quando não marcada).
+
+#### Loja física
+
+* **Loja:** [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia) em que o vendedor será cadastrado. Campo obrigatório.
+
+> ℹ️ As alterações podem levar até 15 minutos para serem processadas e aplicadas no **Sales App**.
+
+## Primeiro acesso do vendedor
+
+Para obter acesso ao **Sales App**, o vendedor deverá seguir os passos abaixo:
+
+> ℹ️ O vendedor não obtém acesso ao Admin VTEX da loja, pois a criação do acesso ao **Sales App** é feita em outro ambiente.
+
+1. Após ser [cadastrado pelo lojista](#cadastrar-vendedor), o vendedor recebe uma mensagem pelo email cadastrado.
+2. Ele clica no link da mensagem para criar o acesso.
+3. Na página aberta, ele preenche o email cadastrado e clica para continuar.
+4. Após receber um código de confirmação pelo email, ele preenche o campo código.
+5. Clica para continuar.
+6. Na janela sobre como deseja entrar no Sales App, ele seleciona a opção para entrar com email e senha. A escolha desta opção é obrigatória, caso contrário haverá um erro.
+7. Na janela aberta, o vendedor preenche o campo com a senha sendo criada, que precisa ter:
+
+    * 8 caracteres
+    * 1 número
+    * 1 letra maiúscula
+    * 1 letra minúscula
+
+8. Ele clica para confirmar a criação da senha.
+
+    >⚠️ Nesta etapa, é possível que a página apresente um erro de falta de acesso. Isso não influencia a criação da senha e a página pode ser fechada.
+
+Feito isso, o vendedor será capaz de acessar o **Sales App**. Basta que em uma nova janela do navegador ele acesse o link `https://{nomeLoja}.myvtex.com/assisted-sales/sales-app`, substituindo `{nomeLoja}` pelo nome da loja, e utilize a senha criada.
+
+### Recuperar senha do vendedor
+
+Caso o vendedor esqueça a senha, ele pode recuperá-la acessando o **Sales App** pelo link `https://{nomeLoja}.myvtex.com/assisted-sales/sales-app`, substituindo `{nomeLoja}` pelo nome da loja. Ao escolher a opção para recuperar senha, ele consegue realizar o fluxo de recuperação por meio do seu email de cadastro.
