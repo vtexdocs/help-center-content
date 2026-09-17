@@ -19,8 +19,8 @@ Como nos últimos anos, a VTEX criou uma cartilha de boas práticas para ajudar 
 
 Nela apresentamos recomendações para cada um dos módulos VTEX, com destaque para o tempo de antecedência com que cada uma das ações mais importantes deve ser tomada.
 
-Para acessar a cartilha, basta entrar no endereço abaixo, substituindo o `{AccountName}` pelo nome da sua loja:
+Para acessar a cartilha, basta entrar no endereço abaixo, substituindo o `{accountName}` pelo nome da sua loja:
 
-`https://{AccountName}.vtexcommercestable.com.br/admin/surveys/pt`
+`https://{accountName}.vtexcommercestable.com.br/admin/surveys/pt`
 
 Vamos juntos fazer a melhor Black Friday da história!

@@ -14,7 +14,7 @@ locale: en
 legacySlug: i-received-the-message-error-the-limit-of-activated-calculators-has-been-reached-what-to-do
 ---
 
-This message indicates that the maximum number of promotions has been reached, and it is not possible to create the promotion that was being configured. You can check this information on the promotions management screen (`{AccountName}.vtexcommercestable.com.br/admin/rnb`), as shown in the image below.
+This message indicates that the maximum number of promotions has been reached, and it is not possible to create the promotion that was being configured. You can check this information on the promotions management screen (`{accountName}.vtexcommercestable.com.br/admin/rnb`), as shown in the image below.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/i-received-the-message-error-the-limit-of-activated-calculators-has-been-reached-what-to-do_1.jpg)
 

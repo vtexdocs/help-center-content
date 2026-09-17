@@ -36,6 +36,6 @@ We have special conditions for group purchases:
 - 5 tickets: 35% discount on the total purchase.
 - 10 tickets: 40% discount on the total purchase.
 
-Please note: the above discounts are only valid until the current lot ends, on __October 10__. So hurry up!
+Please note: the above discounts are only valid until the current lot ends, on __October 10__.
 
 Any doubts? Reach us by email: trainingday@vtex.com

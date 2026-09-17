@@ -20,7 +20,7 @@ There's a common error when accessing the **Orders** module: when trying to ente
 
 Usually, this error occurs when the user authentication has expired. Go to the store's admin homepage at:
 
-`https://{AccountName}.myvtex.com/admin`
+`https://{accountName}.myvtex.com/admin`
 
 The system will probably request your login. In such a case, authenticate and try to access Orders management once again.
 

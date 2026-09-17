@@ -30650,36 +30650,6 @@
                 },
                 {
                   "name": {
-                    "en": "Amazon Listing",
-                    "es": "Amazon Listing",
-                    "pt": "Amazon Listing"
-                  },
-                  "slug": {
-                    "en": "amazon-listing",
-                    "es": "amazon-listing",
-                    "pt": "amazon-listing"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Amazon Offer Matching",
-                    "es": "Match de anuncios Amazon",
-                    "pt": "Match de anúncios Amazon"
-                  },
-                  "slug": {
-                    "en": "amazon-offer-matching",
-                    "es": "match-de-anuncios-amazon",
-                    "pt": "match-de-anuncios-amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Amazon Product Publishing",
                     "es": "Publicacíon de Productos Amazon",
                     "pt": "Publicação de produtos Amazon"
@@ -33508,6 +33478,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configuring extra safety guardrails per project",
+                    "es": "Configurar capas adicionales de seguridad por proyecto",
+                    "pt": "Configurar camadas extras de segurança por projeto"
+                  },
+                  "slug": {
+                    "en": "configuring-extra-safety-guardrails-per-project",
+                    "es": "configurar-capas-adicionales-de-seguridad-por-proyecto",
+                    "pt": "configurar-camadas-extras-de-seguranca-por-projeto"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Official agents from VTEX CX Platform",
                     "es": "Agentes oficiales de VTEX CX Platform",
                     "pt": "Agentes oficiais do VTEX CX Platform"
@@ -33968,6 +33953,21 @@
                     "en": "regaining-access-to-business-manager",
                     "es": "recuperando-el-acceso-al-administrador-de-negocios",
                     "pt": "recuperando-acesso-ao-gerenciador-de-negocios"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Shopping Assistant: Suggested questions",
+                    "es": "Shopping Assistant: preguntas sugeridas",
+                    "pt": "Shopping Assistant: perguntas sugeridas"
+                  },
+                  "slug": {
+                    "en": "shopping-assistant-suggested-questions",
+                    "es": "shopping-assistant-preguntas-sugeridas",
+                    "pt": "shopping-assistant-perguntas-sugeridas"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -42356,6 +42356,21 @@
                 "en": "product-created-with-id-0",
                 "es": "producto-creado-con-id-0",
                 "pt": "produto-criado-com-id-0"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Product form displays outdated user information in the Admin for last edit across Catalog",
+                "es": "El formulario del producto muestra información de usuario desactualizada en el panel de administración para la última edición en todo el catálogo.",
+                "pt": "O formulário do produto exibe informações de usuário desatualizadas no painel de administração, referentes à última edição em todo o catálogo."
+              },
+              "slug": {
+                "en": "product-form-displays-outdated-user-information-in-the-admin-for-last-edit-across-catalog",
+                "es": "el-formulario-del-producto-muestra-informacion-de-usuario-desactualizada-en-el-panel-de-administracion-para-la-ultima-edicion-en-todo-el-catalogo",
+                "pt": "o-formulario-do-produto-exibe-informacoes-de-usuario-desatualizadas-no-painel-de-administracao-referentes-a-ultima-edicao-em-todo-o-catalogo"
               },
               "origin": "",
               "type": "markdown",

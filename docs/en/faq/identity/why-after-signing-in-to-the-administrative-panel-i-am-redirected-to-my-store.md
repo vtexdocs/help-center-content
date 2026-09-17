@@ -18,4 +18,4 @@ This scenario happens when the email used to log in to the Admin has access to s
 
 Callcenter profiles block access to the __Catalog__, that is, the user can not add a new product, for example. If he or she must access this module, the user must work with two different logins.
 
-If the role has permission for callcenter and also other modules, the user must access it directly through the module's URL. For the Orders management, for example, it would be: `https://{AccountName}.myvtex.com/admin/checkout`
+If the role has permission for callcenter and also other modules, the user must access it directly through the module's URL. For the Orders management, for example, it would be: `https://{accountName}.myvtex.com/admin/checkout`

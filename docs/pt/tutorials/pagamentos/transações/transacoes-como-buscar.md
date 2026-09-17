@@ -13,54 +13,58 @@ slugEN: searching-for-transactions-on-payments
 legacySlug: transacoes-como-buscar
 locale: pt
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
+seeAlso:
+  - /pt/docs/tutorials/transacoes-pci-gateway
+  - /pt/docs/tutorials/como-visualizar-detalhes-do-pedido
+  - /pt/docs/tutorials/filtrar-transacoes-no-pci-gateway
 ---
 
-As buscas em Transações podem ser feitas de diversas formas e com diversos tipos de dados. As opções de busca são:
+Você pode buscar transações em **Pedidos > Transações** usando dados do cliente ou identificadores de pagamento.
 
-- __E-mail do Cliente__
-- __Nome do Cliente__
-- __CPF do Cliente__
-- __Código da Transação:__ código que identifica a transação no gateway da plataforma VTEX.
-- __TID do Pagamento:__ número utilizado para identificação da transação com o conector.
-- __ID do Pagamento:__ número utilizado para identificação do pagamento com o conector.
+Para buscar uma transação, siga os passos abaixo:
 
-Para buscar uma transação no módulo de Transações da VTEX, siga os passos abaixo:
+1. No Admin VTEX, acesse **Pedidos > Transações**, ou digite **Transações** na barra de busca no topo da página.
+2. Na barra de busca, insira um dos valores listados abaixo.
 
-1. No Admin VTEX, acesse **Pedidos** > **Transações**, ou digite **Transações** na barra de busca no topo da página.
-2. Na barra de busca insira uma das informações listadas acima.
+Para voltar à listagem completa das transações, apague o valor do campo de busca.
 
-Para voltar à listagem original das transações, basta apagar o valor anteriormente inserido no campo de busca.
+Você pode buscar por:
 
-## Link da transação no Gerenciamento de Pedidos
+- **E-mail do cliente:** endereço de e-mail usado na compra.
+- **Nome do cliente:** nome, sobrenome ou ambos, conforme cadastrado no pedido. A busca não diferencia maiúsculas de minúsculas.
+- **Documento do cliente:** número completo do documento, sem pontuação. Em lojas brasileiras, esse documento é o CPF.
+- **Código da transação:** identificador da transação no gateway da VTEX.
+- **TID do pagamento:** identificador da transação no conector.
+- **ID do pagamento:** identificador do pagamento no conector.
 
-Ao clicar em um pedido no Gerenciamento de Pedidos, você vai para a página que traz um resumo sobre ele. As principais informações estão lá, mas você pode ver ainda mais detalhes se clicar no link _Detalhes da transação_:
+## Link da transação no pedido
 
-![Link transação OMS (PT)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transações/transacoes-como-buscar_1.png)
+Na página de detalhes do pedido, clique em **Detalhes da transação** para abrir a transação correspondente.
 
-## TID do Pagamento e ID do Pagamento
+![Link Detalhes da transação no pedido](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transações/transacoes-como-buscar_1.png)
 
-A busca utilizando esses códigos necessariamente precisa conter todos os dígitos, ou sua busca retornará vazia. Veja abaixo como encontrá-lo:
+## TID do pagamento e ID do pagamento
 
-![Códigos PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transações/transacoes-como-buscar_2.png)
+A busca por TID do pagamento ou ID do pagamento precisa incluir o valor completo. Códigos parciais não retornam resultados. Você encontra esses valores nos detalhes da transação:
 
-Estes valores, dentro do detalhe da transação representarão a comunicação junto ao respectivo conector. Nos [eventos da transação](/pt/docs/tutorials/como-visualizar-detalhes-do-pedido) será possível validar cada contato feito.
+![TID do pagamento e ID do pagamento nos detalhes da transação](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transações/transacoes-como-buscar_2.png)
+
+Esses valores representam a comunicação com o conector. Saiba como conferir cada interação em [Visualizar detalhes da transação em Pedidos](/pt/docs/tutorials/como-visualizar-detalhes-do-pedido).
 
 ## Nome do cliente
 
-O nome que deverá ser buscado é o dado pessoal que foi cadastrado na compra e não a razão social ou nome fantasia em caso de pessoa jurídica. Pode-se buscar pelo nome, sobrenome ou ambos, tudo em maiúsculo ou minúsculo, em qualquer uma das letras do nome.
+Busque pelo nome pessoal cadastrado na compra, e não pela razão social ou nome fantasia. Você pode buscar por nome, sobrenome ou ambos.
 
-## CPF
+## Documento do cliente
 
-Deve-se preencher o número completo do documento sem as pontuações.
+Informe o número completo do documento, sem pontos, traços ou outros sinais de pontuação.
 
-## Diretamente pela URL
+## Busca pela URL
 
-Uma outra forma de fazer a busca é inserindo o parâmetro diretamente na URL da página. Normalmente a estrutura de URL do Pagamentos é:
+Você também pode buscar adicionando o parâmetro `q` à URL da página de Transações:
 
-`https://nomedaloja.vtexcommercestable.com.br/admin/pci-gateway#/transactions?_sort=startDate`
+`https://{accountName}.myvtex.com/admin/pci-gateway#/transactions?_sort=startDate`
 
-Caso queira fazer a busca diretamente na URL, utilize o parâmetro **&amp;q=** e digite o dado que deseja buscar. 
+Substitua `{accountName}` pelo nome da conta da sua loja. Para buscar, adicione `&q=` seguido do valor. Por exemplo, para buscar `500408`:
 
-__Exemplo:__ se fosse buscar o pedido 500408, na URL bastaria fazer o seguinte:
-
-`https://nomedaloja.vtexcommercestable.com.br/admin/pci-gateway#/transactions?_sort=startDate&amp;q=500408`
+`https://{accountName}.myvtex.com/admin/pci-gateway#/transactions?_sort=startDate&q=500408`
