@@ -13,54 +13,58 @@ slugEN: searching-for-transactions-on-payments
 legacySlug: searching-for-transactions-on-pci-gateway
 locale: en
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
+seeAlso:
+  - /en/docs/tutorials/how-to-view-transactions-on-pci-gateway
+  - /en/docs/tutorials/how-to-view-the-orders-details
+  - /en/docs/tutorials/filtering-transactions-on-pci-gateway
 ---
 
-Transactions searches can be performed in different ways, and with different types of data. The search options are:
+You can search for transactions in **Orders > Transactions** using customer data or payment identifiers.
 
-- __Customer's email__
-- __Customer's name__
-- __Customer's identity card number__
-- __Transaction Code:__ code that identifies the transaction in VTEX's gateway.
-- __Payment TID:__ number used for transaction identification with the connector.
-- __Payment ID:__ number used for payment identification with the connector.
+To search for a transaction, follow the steps below:
 
-To search for a transaction in the VTEX Transaction module, follow the steps below:
+1. In the VTEX Admin, go to **Orders > Transactions**, or type **Transactions** in the search bar at the top of the page.
+2. In the search bar, enter one of the values listed below.
 
-1. In the VTEX Admin, go to **Orders** > **Transactions**, or type **Transactions** in the search bar at the top of the page.
-2. On the Search Bar, enter one of the information listed above.
+To return to the full list of transactions, delete the value from the search field.
 
-To return to the original list of transactions, just delete the value previously entered on the search field.
+You can search by:
 
-## Transaction link in the Orders Management
+- **Customer email:** email address used in the purchase.
+- **Customer name:** first name, last name, or both, as registered in the order. The search is not case-sensitive.
+- **Customer identity document:** full document number, without punctuation. For Brazilian stores, this is the customer's CPF.
+- **Transaction code:** identifier of the transaction in the VTEX gateway.
+- **Payment TID:** identifier of the transaction with the connector.
+- **Payment ID:** identifier of the payment with the connector.
 
-In the Orders Management, if you click on a given order, you'll see a page with its main information. There you'll find the link _See transaction details_. Click on it to know more about the order:
+## Transaction link in the order
 
-![Link transação OMS (EN)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/searching-for-transactions-on-payments_1.png)
+On the order details page, click **See transaction details** to open the related transaction.
+
+![Transaction details link in the order](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/searching-for-transactions-on-payments_1.png)
 
 ## Payment TID and Payment ID
 
-The search using these codes must necessarily contain all digits, or your search will return empty. Here's how to find them:
+Searches by Payment TID or Payment ID must include the complete value. Partial codes return no results. You can find these values in the transaction details:
 
-![Códigos EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/searching-for-transactions-on-payments_2.png)
+![Payment TID and Payment ID in the transaction details](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/searching-for-transactions-on-payments_2.png)
 
-These values, within the transaction detail, represent the communication with the respective connector. At [transaction events](/en/docs/tutorials/how-to-view-the-orders-details), it is possible to validate each contact made.
+These values represent the communication with the connector. Learn how to check each interaction in [Viewing transaction details in Orders](/en/docs/tutorials/how-to-view-the-orders-details).
 
-## Customer's Name
+## Customer name
 
-The name you should look for is the personal data that was registered on the purchase, and not the company name or trade name, in case of legal entities. You can search by name, surname, or both, all in uppercase or lowercase, by any letter of the name.
+Search using the personal name registered in the purchase, not the company name or trade name. You can search by first name, last name, or both.
 
-## CPF
+## Customer identity document
 
-You must complete the full number of the document, without the scores.
+Enter the full document number without dots, dashes, or other punctuation.
 
-## Directly through the URL
+## Search by URL
 
-Another way to search is by entering the parameter directly on the page&#8217;s URL. Usually, the URL structure of PCI Gateway is:
+You can also search by adding the `q` parameter to the Transactions page URL:
 
-`https://nameofthestore.vtexcommercestable.com.br/admin/pci-gateway#/transactions?_sort=startDate`
+`https://{accountName}.myvtex.com/admin/pci-gateway#/transactions?_sort=startDate`
 
-If you want to search directly through the URL, use the **&amp;q=** parameter, and enter the data you want to search. 
+Replace `{accountName}` with your store's account name. To search, add `&q=` followed by the value. For example, to search for `500408`:
 
-__Example:__ if you are looking for the order 500408, simply do the following:
-
-`https://nameofthestore.vtexcommercestable.com.br/admin/pci-gateway#/transactions?_sort=startDate&amp;q=500408`
+`https://{accountName}.myvtex.com/admin/pci-gateway#/transactions?_sort=startDate&q=500408`

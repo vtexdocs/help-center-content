@@ -249,4 +249,4 @@ Mais informações sobre a API de liquidação [aqui](https://developers.vtex.co
 ## Credenciais VTEX
 Ao chamar a `CallbackURL`, você deve especificar os headers de autenticação, que na VTEX são o _X-VTEX-API-AppKey_ e o _X-VTEX-API-AppToken_. Você pode encontrar essas credenciais (que são únicas para sua conta) no módulo License Manager da VTEX. 
 
-Use a URL `https://{{AccountName}}.myvtex.com/admin/license-manager/#/home`, substituindo o `{{AccountName}}` pelo seu account name. Então, siga as instruções [deste tutorial](https://developers.vtex.com/docs/guides/authentication-overview) para aprender a criar appKeys e appTokens na nossa plataforma.
+Use a URL `https://{{accountName}}.myvtex.com/admin/license-manager/#/home`, substituindo o `{{accountName}}` pelo seu account name. Então, siga as instruções [deste tutorial](https://developers.vtex.com/docs/guides/authentication-overview) para aprender a criar appKeys e appTokens na nossa plataforma.
