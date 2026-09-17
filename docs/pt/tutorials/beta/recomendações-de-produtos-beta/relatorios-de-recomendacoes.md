@@ -60,6 +60,9 @@ Você pode criar um relatório para um período personalizado.
 2. Clique na aba **Relatórios**.
 3. Clique em **Criar relatório**.
 4. No modal **Criar relatório**, selecione um dos períodos predefinidos (**Ontem**, **Últimos 7 dias** ou **Últimos 28 dias**) ou defina um intervalo personalizado em **Data de início**.
+
+   ![criar-relatorio](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/recomendações-de-produtos-beta/relatorios-de-recomendacoes_2.png)
+
 5. Clique em `Criar`.
 
 O novo relatório é exibido na lista com o status **Criando**, enquanto está sendo processado.
