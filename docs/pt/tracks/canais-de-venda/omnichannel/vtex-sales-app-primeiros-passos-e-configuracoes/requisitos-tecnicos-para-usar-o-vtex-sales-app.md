@@ -58,7 +58,7 @@ Embora não sejam obrigatórios, recomendamos os seguintes equipamentos para obt
 
 O **Sales App** permite ler o código de barras dos produtos com a câmera do tablet ou smartphone, mas o melhor desempenho é obtido com um leitor dedicado. Para maior agilidade e precisão na finalização da compra, recomendamos que a loja disponha de um leitor de código de barras.
 
-> ℹ️ Para usar o leitor de código de barras, cadastre o código de barras do produto no Catálogo, conforme descrito em [Cadastrar o código de barras dos SKUs para o VTEX Sales App](/pt/docs/tracks/cadastrar-o-codigo-de-barras-dos-skus-para-o-vtex-sales-app).
+> ℹ️ Para usar o leitor de código de barras, cadastre o código de barras do produto no Catálogo, conforme descrito em [Cadastrar o código de barras dos SKUs para o VTEX Sales App](https://help.vtex.com/pt/docs/tracks/cadastrar-o-codigo-de-barras-dos-skus-para-o-vtex-sales-app).
 
 ### Máquinas de cartão de crédito
 
