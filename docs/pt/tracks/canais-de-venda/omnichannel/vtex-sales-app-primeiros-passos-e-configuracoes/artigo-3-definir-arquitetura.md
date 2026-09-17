@@ -11,7 +11,7 @@ trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 3
 ---
 
-Referência na doc da arquitetura:
+Referência na doc de arquitetura da trilha:
 
 - Defina sua arquitetura e operação
 - Defina sua implantação
