@@ -8,4 +8,3 @@ productTeam: Shopping
 slugEN: XXX
 locale: pt
 ---
-
