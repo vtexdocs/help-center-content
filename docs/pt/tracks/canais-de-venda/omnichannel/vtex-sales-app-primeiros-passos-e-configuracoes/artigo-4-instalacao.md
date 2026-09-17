@@ -11,7 +11,9 @@ trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 4
 ---
 
-Após checar os [requisitos necessários](https://help.vtex.com/pt/docs/tracks/requisitos-tecnicos-para-usar-o-vtex-sales-app) e definir a [arquitetura da sua operação](XXX), siga os passos abaixo para instalar o **VTEX Sales App** na conta principal.
+Após checar os [requisitos necessários](https://help.vtex.com/pt/docs/tracks/requisitos-tecnicos-para-usar-o-vtex-sales-app) e definir a [arquitetura da sua operação](XXX), siga as orientações deste artigo para instalar o **VTEX Sales App** na sua conta principal.
+
+## Instalação no Admin VTEX
 
 > ⚠️ A instalação do **Sales App** é feita somente na conta principal e não requer alterações em contas franquias.
 
@@ -32,3 +34,14 @@ Feito isso, uma nova página sobre checkout será criada no seu Admin VTEX, na p
 > ⚠️ Por padrão, o **Sales App** deve ser utilizado sempre no site `default` da conta principal para simplificar a operação da loja e evitar erros.
 
 Caso deseje confirmar se a instalação do `checkout/instore` foi feita no site correto, cheque se o nome `default` aparece na URL, como em: `https://{nomeloja}.myvtex.com/admin/portal#/sites/default/code`.
+
+## Instalação em dispositivos móveis
+
+> ❗ Antes de instalar e usar o aplicativo em dispositivos móveis, é necessário realizar não apenas a instalação do **Sales App** no Admin, mas concluir suas [configurações básicas](XXX), como será explicado no próximo artigo desta trilha.
+
+Após instalar e [configurar](XXX) o **Sales App** no Admin VTEX, você poderá usá-lo em dispositivos móveis, como tablets ou smartphones. Veja a seguir os links de download para cada sistema operacional:
+
+| Sistema operacional | Link de download |
+|---------------------|------------------|
+| Android | [Google Play](https://play.google.com/store/apps/details?id=com.vtex.instore&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) |
+| iOS | [App Store da Apple](https://apps.apple.com/us/app/vtex-instore/id1100390867?amp%3Bmt=8&ls=1) |
