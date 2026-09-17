@@ -11,6 +11,15 @@ trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 3
 ---
 
+Referência na doc da arquitetura:
+
+- Defina sua arquitetura e operação
+- Defina sua implantação
+- Verifique se possui os requisitos de configuração
+  - Ter conta franquia (Biba: "Não é mandatório, mas é indicada a depender da arquitetura - pensar melhor em quando apresentar")
+  - Configuração omnichannel
+  - Configuração de estoques
+
 ## TEXTO DA BIBA - Definições Fundamentais de Projeto
 
 `https://docs.google.com/document/d/1_NfEwrVMQltM1E9JvyU9z0QrCQOs6CNI6VIUWnAGH3M/edit?tab=t.0`
