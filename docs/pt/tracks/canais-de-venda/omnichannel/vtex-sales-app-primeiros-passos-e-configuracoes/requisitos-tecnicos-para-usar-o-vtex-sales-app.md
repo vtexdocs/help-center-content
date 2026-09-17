@@ -66,7 +66,7 @@ As máquinas de cartão de crédito e débito, com tecnologias Bluetooth ou USB,
 
 No contexto do **Sales App**, recomendamos que as lojas contratem empresas de [pagamento](#pagamento) e [faturamento](#faturamento) que tenham parceria com a VTEX, conforme apresentado na seção a seguir.
 
-## Parcerias empresariais VTEX (opcional)
+## Parcerias empresariais VTEX
 
 Para facilitar a operação das lojas e oferecer maior segurança, a VTEX realiza parcerias com algumas empresas. As empresas que viabilizam a operação de lojas físicas no **Sales App** estão listadas nesta seção por categoria.
 
