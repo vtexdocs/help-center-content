@@ -77,11 +77,10 @@ Para começar a utilizar o **VTEX Sales App**, você também precisa realizar as
 
 ___________________________________________________________________________________________
 
-## ARTIGO ANTERIOR - Gerenciar lojas físicas no VTEX Sales App
+## ARTIGO ANTERIOR - CONTEÚDO PARCIAL DO ARTIGO "Gerenciar lojas físicas no VTEX Sales App"
 
 `https://help.vtex.com/pt/docs/tracks/gerenciar-lojas-fisicas-no-vtex-sales-app`
 
-\\O ARTIGO MISTURA CRIAÇÃO DE CADASTRO DE LOJA FÍSICA COM GERENCIAMENTO DE LOJAS FÍSICAS
+\\O ARTIGO MISTURA CRIAÇÃO DE CADASTRO DE LOJA FÍSICA COM SEU GERENCIAMENTO
 
 Loja física é uma página das Configurações da loja do Admin VTEX que apresenta a listagem de lojas físicas cadastradas no aplicativo VTEX Sales App. Nela, você pode gerenciar informações de todas as lojas físicas da conta.
-
