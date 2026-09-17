@@ -82,6 +82,7 @@ Para facilitar a operação das lojas e oferecer maior segurança, a VTEX realiz
 - Pagar.me
 - Adyen
 - Cielo
+- Mercado Pago
 
 ### Faturamento
 
