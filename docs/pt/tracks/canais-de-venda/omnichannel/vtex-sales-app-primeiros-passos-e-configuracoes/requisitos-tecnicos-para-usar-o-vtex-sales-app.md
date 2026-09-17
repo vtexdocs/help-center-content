@@ -68,7 +68,7 @@ No contexto do **Sales App**, recomendamos que as lojas contratem empresas de [p
 
 ## Parcerias empresariais VTEX
 
-Para facilitar a operação das lojas e oferecer maior segurança, a VTEX realiza parcerias com algumas empresas. As empresas que viabilizam a operação de lojas físicas no **Sales App** estão listadas nesta seção por categoria.
+Para facilitar a operação das lojas e oferecer maior segurança, a VTEX realiza parcerias com algumas empresas. Nesta seção, elas estão listadas por categoria, de acordo com sua atuação na operação de lojas físicas no **Sales App**.
 
 > ℹ️ Além as parcerias empresariais apresentadas neste artigo, a VTEX conta com a participação de diversas agências e [parceiros de implementação (System Integration Partners)](https://vtex.com/br-pt/partner/). Para mais informações, entre em contato com o [Suporte VTEX](https://supporticket.vtex.com/support).
 
