@@ -28,7 +28,7 @@ A loja precisa dispor de pelo menos um dispositivo móvel, como um tablet, smart
 - Três versões mais recentes do **iOS**
 - Quatro versões mais recentes do **Android**
 
-Os dispositivos utilizados precisam ter conexão com a internet, por rede Wi-Fi ou 4G/5G. Recomendamos que os dispositivos móveis tenham chip 4G/5G, para que a loja continue funcionando normalmente mesmo se a rede Wi-Fi apresentar algum problema.
+Os dispositivos utilizados precisam ter conexão com a internet, por rede Wi-Fi ou 4G/5G. O ideal é que os dispositivos móveis tenham chip 4G/5G, para que a loja continue funcionando normalmente mesmo se a rede Wi-Fi apresentar algum problema.
 
 > ℹ️ Para manter o bom funcionamento da operação, recomendamos ter mais dispositivos do que vendedores. Dessa forma, os aparelhos podem ser trocados rapidamente em caso de falha, dano ou esgotamento da bateria.
 
