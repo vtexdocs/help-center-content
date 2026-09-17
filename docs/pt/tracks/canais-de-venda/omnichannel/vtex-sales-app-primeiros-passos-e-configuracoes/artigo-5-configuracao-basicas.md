@@ -120,3 +120,5 @@ Você pode cadastrar uma loja física seguindo os passos a seguir:
 * **Conta franquia:** nome da [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia) em que a loja física deve ser cadastrada.
 * **Política comercial:** [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) que será aplicada na loja física. Campo obrigatório.
 * **Ponto de retirada:** [ponto de retirada](/pt/docs/tutorials/pontos-de-retirada) cadastrado para essa loja física, onde clientes retiram seus pedidos.
+
+\\🟨 DRAFT ADICIONAR: "Para saber como gerenciar suas lojas físicas, confira o artigo [Gerenciar lojas físicas no VTEX Sales App](XXX)" - O ARTIGO SOBRE GERENCIAR LOJAS FÍSICAS PRECISA SER CRIADO NA TRILHA "VTEX Sales App - Usando o app" PORQUE SERÁ ARQUIVADO NO "Gerenciar lojas físicas no VTEX Sales App" DA TRILHA DE PRIMEIROS PASSOS
