@@ -15,7 +15,7 @@ trackSlugEN: amazon-integration
 order: 7
 ---
 
-Once the initial integration settings have been configured, you must send your products to the Amazon catalog. To enable the product cataloging process and make them available for sale on Amazon, add products in the VTEX Admin using [Amazon Listing](/en/docs/tutorials/amazon-listing).
+Once the initial integration settings have been configured, you must send your products to the Amazon catalog. To enable the product cataloging process and make them available for sale on Amazon, add products in the VTEX Admin using [Amazon Product Publishing](/en/docs/tutorials/amazon-product-publishing).
 
 > ℹ️ All products must have a [Warehouse](/en/docs/tutorials/warehouse) and a [Price](/en/docs/tracks/prices-101) configured before being sent to the marketplace.
 

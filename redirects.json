@@ -12896,6 +12896,30 @@
     {
       "from": "pt/docs/tracks/configurar-integracao-com-a-amazon",
       "to": "pt/docs/tracks/configurar-a-integracao-da-amazon"
+    },
+    {
+      "from": "/pt/docs/tutorials/amazon-listing",
+      "to": "/pt/docs/tutorials/publicacao-de-produtos-amazon"
+    },
+    {
+      "from": "/en/docs/tutorials/amazon-listing",
+      "to": "/en/docs/tutorials/amazon-product-publishing"
+    },
+    {
+      "from": "/es/docs/tutorials/amazon-listing",
+      "to": "/es/docs/tutorials/publicacion-de-productos-amazon"
+    },
+    {
+      "from": "/pt/docs/tutorials/match-de-anuncios-amazon",
+      "to": "/pt/docs/tutorials/publicacao-de-produtos-amazon"
+    },
+    {
+      "from": "/en/docs/tutorials/amazon-offer-matching",
+      "to": "/en/docs/tutorials/amazon-product-publishing"
+    },
+    {
+      "from": "/es/docs/tutorials/match-de-anuncios-amazon",
+      "to": "/es/docs/tutorials/publicacion-de-productos-amazon"
     }
     ]
   }
