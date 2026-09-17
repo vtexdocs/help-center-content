@@ -3,7 +3,7 @@ title: 'Produtos Add-on'
 id: 1t2QBZvrOBSLgvHaAV9fYm
 status: PUBLISHED
 createdAt: 2024-02-20T20:29:42.983Z
-updatedAt: 2025-05-13T20:19:47.676Z
+updatedAt: 2026-08-13T00:00:00.000Z
 publishedAt: 2025-05-13T20:19:47.676Z
 firstPublishedAt: 2024-02-22T14:09:28.506Z
 contentType: trackArticle
@@ -42,7 +42,7 @@ Solução para gestão e visibilidade completa do processo de fulfillment, desde
 
 O **VTEX Pick and Pack** é composto por: 
 
-- [Pick and Pack app](/pt/docs/tutorials/vtex-pick-and-pack-fulfillment): gerencia pedidos na loja ou depósito, permitindo personalizar o método de separação de pedidos, selecionar tipos de embalagens por produto, remover ou adicionar produtos de acordo com o estoque da loja.
+- [Pick and Pack app](/pt/docs/tutorials/vtex-pick-and-pack): gerencia pedidos na loja ou depósito, permitindo personalizar o método de separação de pedidos, selecionar tipos de embalagens por produto, remover ou adicionar produtos de acordo com o estoque da loja.
 - [Last Mile app](/pt/docs/tutorials/vtex-pick-and-pack-last-mile): coordena o envio de pacotes a partir de depósitos ou lojas até os endereços, criando rotas inteligentes de entrega, selecionando motoristas disponíveis, e rastreando a localização exata do pedido.
 
 ![pick-and-pack-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_4.JPG)

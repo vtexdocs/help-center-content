@@ -22,7 +22,7 @@ Para configurar Pagar.me, siga estos pasos:
 1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
 2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
 3. Escriba el nombre __Pagar.me__ en la barra de búsqueda y haga clic en el nombre del proveedor.
-4. En el campo __External Service Url__, configure la URL externa que va a estar asociada a `/pvt/payments?an={AccountName}`.
+4. En el campo __External Service Url__, configure la URL externa que va a estar asociada a `/pvt/payments?an={accountName}`.
 5. Rellene los campos de registro con los datos proporcionados por Pagar.me (campos __appKey__ y __appToken__).
 6. En __Implements Installments Service__, usted debe elegir si desea utilizar servicios externos de parcelación o lo que está configurado en el portal. Si elige la opción _yes_, el sistema utilizará la URL configurada en el campo __Installments Service Url__.
 7. En __External Cancellation Service__, defina el uso o no de un servicio de cancelación externo. Si elige la opción _yes_, el sistema utilizará la URL configurada en el campo __External Service Url__.

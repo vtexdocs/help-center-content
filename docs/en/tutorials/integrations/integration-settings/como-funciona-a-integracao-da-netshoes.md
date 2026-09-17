@@ -54,7 +54,7 @@ When the specifications are successfully sent for the first time, Netshoes recei
 
 _`Ex:` If the product description is changed, the integration will not update the description inside the marketplace._
 
-> ⚠️ Note: The product can not be deleted in the Netshoes panel, so it may be sent by the integration again.
+> ⚠️ The product can not be deleted in the Netshoes panel, so it may be sent by the integration again.
 
 At Netshoes, products have two possible statuses:
 - __Active:__ available for sale
@@ -70,11 +70,11 @@ The category is sent according to the Department filled in the [mapping workshee
 
 Netshoes only receives inventories for products that have already been successfully sent. Before this, stock sendings are rejected. 
 
-Once the cataloging process is finished in Netshoes, the integration automatically sends the products inventory, as long as the __Approved Products API Notification__ is configured ([learn more here](/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#approved-products-notification-api).
+Once the cataloging process is finished in Netshoes, the integration automatically sends the products inventory, as long as the __Approved Products API Notification__ is configured [learn more here](/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#approved-products-notification-api).
 
 After the products receive the first stock load, the update is made SKU by SKU whenever there's a stock change in VTEX.
 
-> ⚠️ **Note:** The inventory data sent to Netshoes is registered to our system for only **3 months**.
+> ⚠️ The inventory data sent to Netshoes is registered to our system for only **3 months**.
 
 ## 3 - Prices
 
@@ -90,7 +90,7 @@ _` Ex1:` benefit of 10% discount for a certain category_
 
 _`Ex2:` SKU X is $ 10.00 in the sales policy used in Netshoes and has a fixed price of $ 15.00 for the same sales policy. The integration will send $ 15,00.
 
-> ⚠️ Note: since the payment method is made in the marketplace, the payment rules are determined by it. Because of this, we can't send differentiated prices depending on the payment method. <br /> *Ex: If there are interests for installment payments configured in VTEX, the price sent will still be the one returned by the fulfillment simulation.*
+> ⚠️ since the payment method is made in the marketplace, the payment rules are determined by it. Because of this, we can't send differentiated prices depending on the payment method. <br /> *Ex: If there are interests for installment payments configured in VTEX, the price sent will still be the one returned by the fulfillment simulation.*
 
 ## 4 - Benefits
 
@@ -131,7 +131,7 @@ The shipping preparation time is based on the sum of the `Cost Time` field in th
 
 > ℹ️ Ex: <br /> **Inventory A** <br /> - Warehouse Dock 1: Cost Time = 3 days <br /> **Inventory B** <br /> - Warehouse Dock 1: Cost Time = 5 days <br /> <br /> **Warehouse Dock 1:** <br /> - Cost Time = 2 days <br /> <br /> An order with Shipping Time = 3 days will have a different Total Delivery Time depending on where the product will depart from. <br /> <br /> **Leaving Inventory A:** <br /> - Preparation time = 3 + 2 (warehouse dock 1) = 5 days <br /> - Shipping time = 3 days <br /> - Total delivery time = 8 days <br /> **Exiting inventory B:** <br /> - Preparation time = 5 + 2 (warehouse dock 1) = 7 days <br /> - Shipping time = 3 days <br /> - Total delivery time = 10 days
 
-> ⚠️ Note: In case of using the contingency table to calculate shipping, Netshoes does not query VTEX. In this case, the only factor that will be taken into account for **Total Delivery Time**, will be the **Shipping</ strong> provided by them, ignoring the <strong>Preparation Time**. You should be careful about this, as it may lead to discrepancies in the **Total Delivery Time**.
+> ⚠️ In case of using the contingency table to calculate shipping, Netshoes does not query VTEX. In this case, the only factor that will be taken into account for **Total Delivery Time**, will be the **Shipping</ strong> provided by them, ignoring the <strong>Preparation Time**. You should be careful about this, as it may lead to discrepancies in the **Total Delivery Time**.
 
 #### Price/Availability:
 

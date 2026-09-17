@@ -20,7 +20,7 @@ Há um erro comum de acesso no módulo **Pedidos** em que, ao tentar entrar no m
 
 Normalmente esse erro acontece porque a autenticação do usuário expirou. Acesse a homepage do admin da loja pelo endereço:
 
-`https://{AccountName}.myvtex.com/admin`
+`https://{accountName}.myvtex.com/admin`
 
 O sistema provavelmente vai solicitar seu login. Faça a autenticação e tente novamente acessar o módulo **Pedidos**.
 
