@@ -11,7 +11,7 @@ trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 4
 ---
 
-Após checar os [requisitos necessários](https://help.vtex.com/pt/docs/tracks/) e definir a [arquitetura da sua operação](XXX), siga os passos abaixo para instalar o **VTEX Sales App** na conta principal.
+Após checar os [requisitos necessários](https://help.vtex.com/pt/docs/tracks/requisitos-tecnicos-para-usar-o-vtex-sales-app) e definir a [arquitetura da sua operação](XXX), siga os passos abaixo para instalar o **VTEX Sales App** na conta principal.
 
 > ⚠️ A instalação do **Sales App** é feita somente na conta principal e não requer alterações em contas franquias.
 
