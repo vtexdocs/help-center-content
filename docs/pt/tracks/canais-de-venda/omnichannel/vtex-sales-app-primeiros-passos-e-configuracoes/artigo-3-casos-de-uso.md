@@ -11,6 +11,11 @@ trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 3
 ---
 
+
+
+
+## CONTEÚDO DA BIBA
+
 Antes de configurar o **Sales App**, o sucesso da operação depende de uma base sólida de decisões de negócio antes mesmo da configuração técnica. Este artigo apresenta o roteiro para que diferentes perfis de clientes entendam o que precisam decidir e configurar.
 
 ## Definições Fundamentais de Projeto
@@ -117,3 +122,25 @@ Avalie se sua operação precisa de **Extensões** (como para programas de fidel
 ### Próximos passos
 
 Se você tem um caso de uso específico ou quer acelerar seu faturamento com vendas assistidas, **abra um ticket no suporte**. Nossa equipe ajudará você a entender como o Sales App pode alavancar o seu negócio.
+
+________________________________________________________________________________________________
+
+## ARTIGO ANTERIOR - Criar contas franquias
+
+`https://help.vtex.com/pt/docs/tracks/criar-contas-franquias`
+
+Na plataforma VTEX, recomendamos que as lojas físicas sejam sempre configuradas como contas franquia. O aplicativo do VTEX Sales App é instalado e acessado pela conta principal da marca, e busca as informações sobre o estoque e as formas de entrega nas contas franquias, ou seja, nas lojas físicas e na conta principal.
+
+Para criar contas franquia, entre em contato com o [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
+
+Antes de começar a utilizar o VTEX Sales App, é necessário que a loja tenha contas franquias já associadas à sua conta principal.
+
+Ao criar contas franquias, cada uma das suas lojas físicas terá um Admin VTEX separado, com logística própria, mas herdando o catálogo da conta principal.
+
+Suas contas franquias funcionarão como [Sellers White Label](/pt/docs/tutorials/seller-white-label#o-que-e-um-seller-white-label). Isto significa que quando um pedido for realizado em qualquer canal, seja o VTEX Sales App ou o ecommerce, o sistema buscará entre todas elas aquela que consegue fazer a entrega com melhor [SLA](/pt/docs/tutorials/acordo-de-nivel-de-servico-sla-de-operacao-da-vtex).
+
+> ⚠️ Cada seller deve ter um CNPJ diferente para o funcionamento correto do pagamento dos pedidos.
+
+A logística de cada uma das contas franquias pode ser gerenciada em um Admin VTEX separado. Para acessá-lo, entre na URL `{nome-da-conta-franquia}.myvtex.com/admin`.
+
+Para mais detalhes sobre esse tipo de conta e suas configurações, acesse [O que é conta franquia?](/pt/docs/tutorials/o-que-e-conta-franquia).
