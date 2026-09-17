@@ -83,3 +83,40 @@ ________________________________________________________________________________
 \\🟨 CONTEÚDO PARCIAL - O ARTIGO MISTURA CRIAÇÃO DE CADASTRO DE LOJA FÍSICA COM GERENCIAMENTO - CONSIDERAR MOVER O CONTEÚDO SOBRE GERENCIAMENTO CRIANDO UM NOVO ARTIGO NA TRILHA "VTEX Sales App - Usando o app"
 
 Loja física é uma página das Configurações da loja do Admin VTEX que apresenta a listagem de lojas físicas cadastradas no aplicativo VTEX Sales App. Nela, você pode gerenciar informações de todas as lojas físicas da conta.
+
+## Cadastrar loja física
+
+Você pode cadastrar uma loja física seguindo os passos a seguir:
+
+1. No Admin VTEX, clique em .
+2. No Admin VTEX, acesse **Configurações da loja > Sales App > Lojas físicas**, ou digite **Lojas físicas** na barra de busca no topo da página.
+3. Clique no botão `+ Cadastrar loja`.
+4. Preencha os [campos de cadastro da loja física](#campos-de-cadastro-da-loja-fisica).
+5. Clique em `Cadastrar`.
+6. Clique em `Salvar` para confirmar o cadastro da loja física.  
+
+### Campos de cadastro da loja física
+
+![loja-fisica2-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/canais-de-venda/omnichannel/vtex-sales-app-primeiros-passos-e-configuracoes/adicionar-lojas-ao-instore_2.png)
+
+#### Identificação
+
+* **Nome da loja:** nome da loja física que será cadastrada. Campo obrigatório.
+* **Telefone comercial:** número de telefone comercial da loja física.
+
+#### Endereço
+
+* **País:** país onde a loja física está localizada. Campo obrigatório.
+* **CEP:** CEP onde a loja física está localizada. Campo obrigatório.
+* **Rua:** nome da rua onde a loja física está localizada. Campo obrigatório.
+* **Número:** número do local onde a loja física está localizada na rua. Campo obrigatório.
+* **Complemento:** complemento do endereço da loja física, como o número de sala de galeria.
+* **Bairro:** bairro onde a loja física está localizada. Campo obrigatório.
+* **Cidade:** cidade onde a loja física está localizada. Campo obrigatório.
+* **Estado:** estado onde a loja física está localizada. Campo obrigatório.
+
+#### Informações técnicas
+
+* **Conta franquia:** nome da [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia) em que a loja física deve ser cadastrada.
+* **Política comercial:** [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) que será aplicada na loja física. Campo obrigatório.
+* **Ponto de retirada:** [ponto de retirada](/pt/docs/tutorials/pontos-de-retirada) cadastrado para essa loja física, onde clientes retiram seus pedidos.
