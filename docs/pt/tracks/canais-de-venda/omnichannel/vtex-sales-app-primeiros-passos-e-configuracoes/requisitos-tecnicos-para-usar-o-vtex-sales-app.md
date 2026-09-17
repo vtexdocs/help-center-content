@@ -60,9 +60,9 @@ O **Sales App** permite ler o código de barras dos produtos com a câmera do ta
 
 > ℹ️ Para usar o leitor de código de barras, cadastre o código de barras do produto no Catálogo, conforme descrito em [Cadastrar o código de barras dos SKUs para o VTEX Sales App](https://help.vtex.com/pt/docs/tracks/cadastrar-o-codigo-de-barras-dos-skus-para-o-vtex-sales-app).
 
-### Máquinas de cartão de crédito
+### Máquinas de cartão
 
-As máquinas de cartão de crédito (Bluetooth ou USB) permitem que as lojas físicas processem os pagamentos. Elas são oferecidas por parceiros de pagamento, sejam adquirentes ou subadquirentes.
+As máquinas de cartão de crédito e débito, com tecnologias Bluetooth ou USB, permitem que as lojas físicas processem pagamentos. Elas são oferecidas por parceiros de pagamento, sejam adquirentes ou subadquirentes.
 
 No contexto do **Sales App**, recomendamos que as lojas contratem empresas de [pagamento](#pagamento) e [faturamento](#faturamento) que tenham parceria com a VTEX, conforme apresentado na seção a seguir.
 
