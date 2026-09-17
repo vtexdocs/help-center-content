@@ -33975,6 +33975,21 @@
                 },
                 {
                   "name": {
+                    "en": "Shopping Assistant: Suggested questions",
+                    "es": "Shopping Assistant: preguntas sugeridas",
+                    "pt": "Shopping Assistant: perguntas sugeridas"
+                  },
+                  "slug": {
+                    "en": "shopping-assistant-suggested-questions",
+                    "es": "shopping-assistant-preguntas-sugeridas",
+                    "pt": "shopping-assistant-perguntas-sugeridas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Supported media sending - WhatsApp Cloud",
                     "es": "WhatsApp business API: Envio de mídias",
                     "pt": "Envio de Mídias Suportadas - WhatsApp Cloud"
