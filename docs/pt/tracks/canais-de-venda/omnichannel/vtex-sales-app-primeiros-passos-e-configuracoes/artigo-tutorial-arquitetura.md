@@ -38,7 +38,10 @@ Avalie se sua operação precisa de **Extensões** (como para programas de fidel
 
 ## Definir a arquitetura técnica
 
-### A. Prateleira Infinita (Endless Aisle)
+O **Sales App** possui XXX de funcionalidades.
+Os pré-requisitos e recomendações para cada um dos principais casos de uso do VTEX Sales App em sua estratégia de [Comércio Unificado](/pt/docs/tracks/comercio-unificado-101) estão descritos abaixo.
+
+### Prateleira infinita
 
 **Para quem é:** Empresas que buscam vendas incrementais, evitando a ruptura de estoque local ao oferecer o catálogo do e-commerce.
 
@@ -51,6 +54,12 @@ Avalie se sua operação precisa de **Extensões** (como para programas de fidel
 * **Sem Omni:** Configure o Sales App na conta principal usando as mesmas políticas comerciais e estoques do e-commerce.  
 * **Com Omni (Multiestoque):** Cadastre cada loja física como um *warehouse* (estoque) na conta principal. Recomendado para quem não precisa de gestão separada de preços por loja.  
 * **Com Conta Franquia:** Crie contas franquia para cada loja. Elas herdam o catálogo, mas possuem gestão própria de logística.
+
+\\A [Prateleira Infinita](/pt/docs/tracks/prateleira-infinita) é o recurso que dá aos seus clientes acesso a todo o seu inventário, integrado entre todos os canais. Com isso, se um cliente estiver em uma loja física, ele poderá comprar um produto do estoque de outras lojas ou mesmo do seu ecommerce.
+
+Para mais informações, leia o guia sobre a [Prateleira Infinita](/pt/docs/tracks/prateleira-infinita).
+
+Os pré-requisitos para implementar a Prateleira Infinita na sua loja são todos os itens descritos nos tópicos anteriores.
 
 ### B. Estoque Local e Carrinhos Mistos (Carry Out)
 
@@ -113,16 +122,6 @@ Antes de instalar o Sales App, você precisa definir os métodos de pagamentos q
          1. Quando usar: casos de cartão private label, métodos de pagamentos já consolidados na sua loja. Esse modelo está em Closed Beta. Para saber mais procure o time de Sales App.&nbsp;
 
 __________________________________________________________________________________________________________________________
-
-Os pré-requisitos e recomendações para cada um dos principais casos de uso do VTEX Sales App em sua estratégia de [Comércio Unificado](/pt/docs/tracks/comercio-unificado-101) estão descritos abaixo.
-
-### Prateleira Infinita
-
-A [Prateleira Infinita](/pt/docs/tracks/prateleira-infinita) é o recurso que dá aos seus clientes acesso a todo o seu inventário, integrado entre todos os canais. Com isso, se um cliente estiver em uma loja física, ele poderá comprar um produto do estoque de outras lojas ou mesmo do seu ecommerce.
-
-Para mais informações, leia o guia sobre a [Prateleira Infinita](/pt/docs/tracks/prateleira-infinita).
-
-Os pré-requisitos para implementar a Prateleira Infinita na sua loja são todos os itens descritos nos tópicos anteriores.
 
 ### Ship from Store e pontos de retirada
 
