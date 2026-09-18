@@ -38,26 +38,21 @@ Avalie se sua operação precisa de **Extensões** (como para programas de fidel
 
 ## Definir a arquitetura técnica
 
-O **Sales App** possui XXX de funcionalidades.
-Os pré-requisitos e recomendações para cada um dos principais casos de uso do VTEX Sales App em sua estratégia de [Comércio Unificado](/pt/docs/tracks/comercio-unificado-101) estão descritos abaixo.
+O **Sales App** possui XXX de funcionalidades. Os pré-requisitos e recomendações para cada um dos principais casos de uso do VTEX Sales App em sua estratégia de [Comércio Unificado](/pt/docs/tracks/comercio-unificado-101) estão descritos abaixo.
 
-### Prateleira infinita
+### Prateleira Infinita
 
-**Para quem é:** Empresas que buscam vendas incrementais, evitando a ruptura de estoque local ao oferecer o catálogo do e-commerce.
+A [Prateleira Infinita](https://help.vtex.com/pt/docs/tracks/prateleira-infinita) permite aos seus clientes acesso completo ao seu inventário, integrado entre todos os canais de venda. Ou seja, se um cliente estiver em uma loja física, ele poderá comprar um produto do estoque de outras lojas físicas ou ecommerce, e a entrega pode ser realizada a partir de qualquer um dos estoques.
 
-**O que decidir:** Modelo de estoques e arquitetura de lojas, franquias e retirada.
+- **Para quem é:** empresas que buscam vendas incrementais, evitando a ruptura de estoque local ao oferecer o catálogo do ecommerce.
+- **O que decidir:** modelo de estoques e arquitetura de lojas, franquias e retirada.
+- **Configuração:** pode ser implementada em lojas que tenham ou não [arquitetura multicanal (Omnichannel)](https://help.vtex.com/pt/docs/tracks/comercio-unificado-101), contas franquia (gestão logística independente) ou multiestoque (lojas como warehouses).
 
-**Configuração:** Pode ser implementada sem Omni (conta principal), com Multiestoque (lojas como warehouses) ou com Contas Franquia (gestão logística independente).
+#### Configuração técnica para Prateleira Infinita
 
-**Configuração Técnica:**
-
-* **Sem Omni:** Configure o Sales App na conta principal usando as mesmas políticas comerciais e estoques do e-commerce.  
-* **Com Omni (Multiestoque):** Cadastre cada loja física como um *warehouse* (estoque) na conta principal. Recomendado para quem não precisa de gestão separada de preços por loja.  
-* **Com Conta Franquia:** Crie contas franquia para cada loja. Elas herdam o catálogo, mas possuem gestão própria de logística.
-
-\\A [Prateleira Infinita](/pt/docs/tracks/prateleira-infinita) é o recurso que dá aos seus clientes acesso a todo o seu inventário, integrado entre todos os canais. Com isso, se um cliente estiver em uma loja física, ele poderá comprar um produto do estoque de outras lojas ou mesmo do seu ecommerce.
-
-Para mais informações, leia o guia sobre a [Prateleira Infinita](/pt/docs/tracks/prateleira-infinita).
+- **Sem Omni:** Configure o Sales App na conta principal usando as mesmas políticas comerciais e estoques do e-commerce.  
+- **Com Omni (Multiestoque):** Cadastre cada loja física como um *warehouse* (estoque) na conta principal. Recomendado para quem não precisa de gestão separada de preços por loja.  
+- **Com Conta Franquia:** Crie contas franquia para cada loja. Elas herdam o catálogo, mas possuem gestão própria de logística.
 
 Os pré-requisitos para implementar a Prateleira Infinita na sua loja são todos os itens descritos nos tópicos anteriores.
 
