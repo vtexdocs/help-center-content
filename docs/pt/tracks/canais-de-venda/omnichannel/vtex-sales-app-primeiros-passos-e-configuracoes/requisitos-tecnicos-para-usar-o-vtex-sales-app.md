@@ -87,4 +87,4 @@ Para facilitar a operação das lojas e oferecer maior segurança, a VTEX realiz
 ### Faturamento
 
 - [e-Millennium](https://e-millennium.com.br/)
-- [Webbsys](http://www.webbsys.com.br/site/)
+- [Webbsys](https://www.webbsys.com.br/)
