@@ -1,5 +1,5 @@
 ---
-title: 'Since the product on the list has already been purchased, why does it continue to be available for purchase?'
+title: 'Why is a product still available after it was purchased on a gift list?'
 excerpt: "Gift lists do not hide items after they are bought. Quantity purchased is informational unless you customize the storefront to block extra purchases."
 id: frequentlyAskedQuestions_378
 status: PUBLISHED
@@ -15,10 +15,10 @@ locale: en
 legacySlug: since-the-product-on-the-list-has-already-been-purchased-why-does-it-continue-to-be-available-for-purchase
 ---
 
-The list works as a store catalog, except for the fact that the products are selected for and by a specific client.
+A gift list works like the store catalog, except that the products are chosen for a specific customer.
 
-Based on this principle, it is easy to understand that we do not hinder the purchase of a given product on a list after it has been purchased – by definition, the catalog will only block the purchase if the product cannot be delivered.
+The list does not block a product after it has been bought. The catalog only blocks a purchase when the product cannot be delivered.
 
-In other words, the information on the “quantity desired” of a product on the list may or may not be taken into account by clients upon making a purchase. Our approach is to ask about the quantity desired and the quantity already purchased. So, purchasing the same item is possible.
+The **quantity desired** on the list is informational. Shoppers can still buy the same item, and the list shows both the quantity desired and the quantity already purchased.
 
-However, if you want your store to block access to the purchase of a product that has already reached the quantity desired, you may include a JavaScript snippet on the page, which, after identifying that the item has already been purchased and checking the number of items purchased, will hide the **Comprar** button.
+If you want to block purchases after the desired quantity is reached, add JavaScript to the page that hides the **Buy** button when the purchased quantity meets the desired quantity.

@@ -1,5 +1,5 @@
 ---
-title: 'Why doesn’t the order go to the ‘Sent’ status on the marketplace?'
+title: "Why doesn't the order go to Sent on the marketplace?"
 excerpt: "VTEX's last order status is Billed. Later marketplace statuses, such as Sent or Delivered, must be updated by the marketplace itself."
 id: frequentlyAskedQuestions_719
 status: PUBLISHED
@@ -15,7 +15,7 @@ locale: en
 legacySlug: why-doesnt-the-order-go-to-the-sent-status-on-the-marketplace
 ---
 
-In VTEX, the last status of an order flow is `Billed`. In this status the __tracking data__ and the __invoice__ of the order are provided.
+In VTEX, the last status in the order flow is `Billed`. In that status, the order's **tracking data** and **invoice** are available.
 
-Thus, for marketplaces that have some status which comes after `Billed` (such as `Delivered to Carrier` and `Delivered`) the progress for these other statuses must be made directly by the marketplace system.
+If the marketplace has statuses after `Billed`, such as `Delivered to Carrier` or `Delivered`, those updates must be made by the marketplace. VTEX does not move the order to later marketplace statuses.
 

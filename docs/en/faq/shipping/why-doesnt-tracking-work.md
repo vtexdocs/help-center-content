@@ -1,5 +1,5 @@
 ---
-title: 'Why doesn’t tracking work?'
+title: "Why doesn't tracking work?"
 excerpt: "Tracking needs a number, URL, and carrier on the invoice. Wrong values or an unsupported carrier keep the tracking link from working."
 id: frequentlyAskedQuestions_302
 status: PUBLISHED
@@ -15,18 +15,18 @@ locale: en
 legacySlug: why-doesnt-tracking-work
 ---
 
-Registering the tracking on the tax receipt requires the following fields in order to function:
+Tracking on the invoice needs these fields:
 
-- Tracking number  
-- Tracking URL   
-- Carrier  
+- Tracking number
+- Tracking URL
+- Carrier
 
-After the registration, analyze the following items, which are the primary causes of this scenario:
+After you add them, check the following:
 
-- Check whether the tracking number is incorrect
-- Check whether the tracking URL is incorrect
-- Check whether the transport company is incorrect
-- Access the tracking URL by entering the number in the browser and check whether you are accessing the tracking monitoring page
-- Check whether the transport company is on the [list of companies registered for tracking](/en/faq/which-transport-companies-enable-make-it-possible-to-track-delivery).
+- The tracking number is correct.
+- The tracking URL is correct.
+- The carrier is correct.
+- Opening the tracking URL with the number in the browser loads the carrier's tracking page.
+- The carrier is on the [list of carriers that support tracking](/en/docs/tutorials/which-carriers-allow-delivery-tracking).
 
-Adjust these items and follow up on the triggering of the emails using the timeline in the order.
+Fix any issue and follow the transactional emails in the order Timeline.

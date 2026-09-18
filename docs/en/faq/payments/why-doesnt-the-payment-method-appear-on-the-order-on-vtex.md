@@ -1,5 +1,5 @@
 ---
-title: 'Why doesn’t the payment method appear on the order on VTEX?'
+title: "Why doesn't the payment method appear on the order on VTEX?"
 excerpt: "Marketplace orders are usually paid on the marketplace. That payment method is not sent to VTEX because it does not affect the VTEX order flow."
 id: frequentlyAskedQuestions_695
 status: PUBLISHED
@@ -15,7 +15,7 @@ locale: en
 legacySlug: why-doesnt-the-payment-method-appear-on-the-order-on-vtex
 ---
 
-When a purchase is made on the marketplace, [in the case of most integrations](http://vtex.github.io/docs/integracao/marketplace/index.html), payment takes place on the marketplace for subsequent transfer to the seller. In this flow, payment is made using the payment methods registered on the marketplace, that is, the payment process does not involve VTEX.
+In [most marketplace integrations](/en/docs/tutorials/payments-in-vtex-marketplaces), the customer pays on the marketplace, and the marketplace later transfers the amount to the seller. Payment uses the methods registered on the marketplace, so VTEX is not part of that payment process.
 
-That is why, when the order is integrated, the information about the payment method is not passed on to VTEX, since it is not something that will affect the order flow on VTEX.
+When the order is integrated, the payment method is not sent to VTEX, because it does not change the order flow on VTEX.
 

@@ -15,33 +15,31 @@ locale: en
 legacySlug: why-does-mercado-livre-return-attribution-errors-after-mapping
 ---
 
-Each product category on Mercado Livre requires different attributes. For example, for adult footwear, it may be necessary to include in the mapping worksheet the codes for the attributes **Cor principal** (primary color) and **Tamanho de calçado para adulto** (size of adult footwear).
+Each product category on Mercado Livre requires a different set of attributes. For adult footwear, for example, the mapping worksheet may need the codes for **Cor principal** (primary color) and **Tamanho de calçado para adulto** (adult shoe size).
 
-On the other hand, for each of these product categories certain attributes are not accepted. For the same adult footwear, for example, you cannot attribute a code for **Tamanho de cinto** (belt size).
+Each category also rejects attributes that do not apply. For the same adult footwear, you cannot send a code for **Tamanho de cinto** (belt size).
 
-VTEX cannot say exactly which attributes have to be entered for each category, as these criteria are set by Mercado Livre itself. 
+VTEX cannot list the required attributes for every category, because Mercado Livre defines those rules. Typical attributes include primary color, secondary color, adult shoe size, belt size, and baby clothing size. Map only the attributes that apply to the product.
 
-However, these attributes are quite clear (Primary color, Secondary color, Size of adult footwear, Belt size, Size of baby clothes). The appropriate attributes must be selected for each product.
-
-If any of these attributes is wrongly entered (for example, if you attribute a code for belt size to a pair of shoes), the Integrations will return an error in the following format:
+If you send an invalid attribute (for example, a belt size code on a pair of shoes), Integrations returns an error like this:
 
 ![Shot1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketplace/why-does-mercado-livre-return-attribution-errors-after-mapping_1.jpg)
 
-In this case, we have examples of two errors in the same message.
+The example above includes two errors in the same message.
 
-The first indicates that an attribute whose code begins with the number `113000` is needed for the category selected and was not entered in the mapping worksheet. Look at the following worksheet:
+The first error means an attribute whose code starts with `113000` is required for the selected category and is missing from the mapping worksheet:
 
 ![Shot2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketplace/why-does-mercado-livre-return-attribution-errors-after-mapping_2.png)
 
-The second error indicates that the attribute with a code beginning with the number `63000`, entered in the final column of the above worksheet, is not valid for the category selected.
+The second error means the attribute whose code starts with `63000`, in the last column of the worksheet above, is not valid for the selected category.
 
-## How to identify the attribute that is missing or invalid
+## How to identify the missing or invalid attribute
 
-The codes for each variation of an attribute start with the same number. For example, all the codes for **Cor principal** (primary color) start with 33000 and are in the following format: 33000_Amarelo_52007. The codes for **Cor secundária** (secondary color) start with 43000. Examples: 43000_Azul claro_52093 and 43000_Rosa_52058.
+Codes for each variation of an attribute share the same prefix. For example, all **Cor principal** (primary color) codes start with `33000` and follow this format: `33000_Amarelo_52007`. **Cor secundária** (secondary color) codes start with `43000`. Examples: `43000_Azul claro_52093` and `43000_Rosa_52058`.
 
-To identify the attribute indicated in an error message, see the starting number of the code defined by Mercado Livre. Click on the name of your country to download the reference worksheet:
+To identify the attribute in an error message, use the starting number of the Mercado Livre code. Download the reference worksheet for your country:
 
 - [Brazil](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/en/faq/marketplace/Brasil.zip)
 - [Argentina](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/en/faq/marketplace/Argentina.rar)
 - [Colombia](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/en/faq/marketplace/Colombia.rar)
-- [México](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/en/faq/marketplace/Mexico.rar)
+- [Mexico](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/en/faq/marketplace/Mexico.rar)

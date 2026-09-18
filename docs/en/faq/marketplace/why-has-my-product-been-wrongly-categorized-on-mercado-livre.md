@@ -15,22 +15,18 @@ locale: en
 legacySlug: why-has-my-product-been-wrongly-categorized-on-mercado-livre
 ---
 
-The integration of the VTEX marketplace with Mercado Livre uses an API supplied by Mercado Livre to define the marketplace category in which the product will appear automatically.
+The VTEX integration with Mercado Livre uses a Mercado Livre API to assign the marketplace category automatically.
 
-This definition of the category is based on the **name** and the **price** of the product.
-
-But in some cases this automatic definition does not place the product in the right category. To correct this, you have to change it on the Mercado Livre panel, or proceed as follows:
+That assignment is based on the product **name** and **price**. In some cases, the automatic category is wrong. You can correct it in the Mercado Livre Admin, or follow the steps below.
 
 ## Defining the product category
 
-> ❗ This procedure does not cause the integration to update the category in Mercado Livre. Ideally, you should do this before integrating the product. If the product is already integrated, the solution is to delete the existing advertisement and integrate it again, with the category registered previously.
+> ❗ This procedure does not update the category of a listing that is already on Mercado Livre. Register the category before integrating the product. If the product is already integrated, delete the existing listing and integrate it again with the category already set.
 
-Mercado Livre has a tool which automatically defines the category of each product shipped. This tool uses information such as the name of the product, and if it makes the wrong inference it may categorize the product wrongly. Thus the listing can appear in the incorrect category.
+Mercado Livre infers the category of each product it receives, using information such as the product name. If that inference is wrong, the listing appears in the wrong category.
 
-To fix this, you can [add a product specification](/en/tutorial/creating-a-product-field), **mandatorily** with the `categoria_meli` name. This specification will be able to be given different values, each of them representing a category in Mercado Livre.
+To fix this, [add a product specification](/en/docs/tutorials/adding-specifications-or-product-fields) named `categoria_meli`. Each value of this specification is a Mercado Livre category ID.
 
-The values will be the category IDs. Click [here](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/en/faq/marketplace/MercadoLivre_CategoriasFixas.xlsx) to download a worksheet showing these values.
+Download the [category ID worksheet](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/en/faq/marketplace/MercadoLivre_CategoriasFixas.xlsx) for the IDs. After you create the specification, open each product record and enter the ID from the worksheet.
 
-After registering the specification, you must access each product record and enter the ID as shown in the worksheet.
-
-**This setting is optional**, but it is a useful solution if you find that the Mercado Livre automatic categorization is making mistakes.
+This setting is optional. Use it when Mercado Livre's automatic categorization is incorrect.

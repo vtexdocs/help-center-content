@@ -15,31 +15,28 @@ locale: en
 legacySlug: why-is-the-product-name-duplicated
 ---
 
-“Duplicated name” means that the same information is being shown twice, for example: _Porta Canetas - Porta Caneta Azul._
+"Duplicated name" means the same information appears twice, for example: *Porta Canetas - Porta Caneta Azul*.
 
-This effect is caused by an error in the product/SKU register. See below for a detailed explanation of this problem and how to fix it.
+This happens when the product name and the SKU name are not identical.
 
-Based on the product above, see the following example:
-
-When the SKU name is identical to the Product name, the system does not display the SKU name on the product details page.
+When the SKU name matches the product name, the system does not show the SKU name on the product details page.
 
 - **Product name:** Porta Caneta**s**
-- **SKU Name:** Porta Caneta
-- The system will show: Porta Caneta**s** - Porta Caneta
+- **SKU name:** Porta Caneta
+- The storefront shows: Porta Caneta**s** - Porta Caneta
 
-The words “Caneta**s**” and “Caneta”, which are respectively the product name and the SKU name, are different.
-For this reason, both names are displayed.
+"Canetas" and "Caneta" are different, so both names are displayed.
 
 ### How to fix it
 
-To fix it, just use exactly the same words for the product and the SKU:
+Use the same words for the product and the SKU:
 
-- If the **Product Name** is: Porta Canetas
-- and the **SKU Name** is: Porta Canetas
-- The system will show: Porta Canetas
+- If the **Product name** is Porta Canetas
+- and the **SKU name** is Porta Canetas
+- The storefront shows: Porta Canetas
 
-Or use only the product name complement in the SKU name:
+Or put only the extra detail in the SKU name:
 
-- If the **Product Name** is: Porta Canetas
-- and the **SKU Name** is: Azul
-- The system will show: Porta Canetas - Azul
+- If the **Product name** is Porta Canetas
+- and the **SKU name** is Azul
+- The storefront shows: Porta Canetas - Azul

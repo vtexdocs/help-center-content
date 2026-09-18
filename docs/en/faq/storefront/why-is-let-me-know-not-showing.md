@@ -1,5 +1,5 @@
 ---
-title: 'Why is “Let me know” not showing?'
+title: 'Why is "Let me know" not showing?'
 excerpt: "Besides CMS and BuyButton settings, categories set as List of SKUs also need the SkuSelection control for Let me know to appear."
 id: frequentlyAskedQuestions_628
 status: PUBLISHED
@@ -15,15 +15,17 @@ locale: en
 legacySlug: why-is-let-me-know-not-showing
 ---
 
-The basic settings for displaying **Let me know** when the product is not available are as follows:
+> ⚠️ This tutorial only applies to [CMS Portal (Legacy)](https://help.vtex.com/docs/tracks/legacy-cms-portal) stores.
 
-- **CMS** module > Settings > General > “Show "Let Me Know" when out of stock” flag.
-- Template settings – Use of `vtex.cmc:BuyButton` control on page template.
+To show **Let me know** when the product is unavailable, use these settings:
 
-However, there is a situation in which, despite having set up the items above, “Let me know” does not appear. This happens **when the Category display type is marked as “List of SKUs”.**
+- In **CMS > Settings > General**, enable **Show "Let Me Know" when out of stock**.
+- In the page template, include the `vtex.cmc:BuyButton` control.
+
+Even with those settings, **Let me know** still does not appear when the category display type is **List of SKUs**.
 
 ![categoria-lista-de-skus EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/storefront/why-is-let-me-know-not-showing_1.png)
 
-In this case, in addition to the default settings, the use of the `vtex.cmc:SkuSelection` control is required, even if there is only one SKU per page.
+In that case, you must also add the `vtex.cmc:SkuSelection` control to the page template, even if the page has only one SKU.
 
-So, when the product category is set up as “List of SKUs,” as shown in the image above, the control `vtex.cmc:SkuSelection` must be included in the page template so that the “Let me know” option is displayed.
+When the category is set to **List of SKUs**, as in the image above, include `vtex.cmc:SkuSelection` so **Let me know** is displayed.

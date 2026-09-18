@@ -1,5 +1,5 @@
 ---
-title: 'I’ve tried to update the freight spreadsheet and an error occurred. What can I do?'
+title: "I've tried to update the freight spreadsheet and an error occurred. What can I do?"
 excerpt: "Import only .xls files with the original column names, and zip files larger than 10 MB. Export the current sheet, edit it, then import it back."
 id: frequentlyAskedQuestions_166
 status: PUBLISHED
@@ -15,10 +15,10 @@ locale: en
 legacySlug: ive-tried-to-update-the-freight-spreadsheet-and-an-error-occurred-what-can-i-do
 ---
 
-To perform a freight spreadsheet upgrade through spreadsheet import, the column names must be correct, the file must be in **.xls** format, and if the file exceeds 10MB, it must be compressed in the **.zip** format. For further details, see the following documents: [How to build a freight spreadsheet](/en/tutorial/building-a-freight-spreadsheet) and [Freight Values](/en/tutorial/editing-freight-values).
+To import a shipping rate spreadsheet, the column names must match the template, the file must be **.xls**, and files larger than 10 MB must be compressed as **.zip**. See [Shipping rate template](/en/docs/tutorials/shipping-rate-template) and [Managing shipping rates](/en/docs/tutorials/managing-shipping-rates).
 
-If you try to import a spreadsheet in **.xlsx** format, the freight will not be updated.
+If you import an **.xlsx** file, the rates are not updated.
 
-The ideal procedure is to always export the spreadsheet that is already saved on the platform, make the appropriate changes, and then import it back. This way, you can ensure that no error will occur, since the file will already be in the accepted format. To get the template, click on the **Spreadsheet Model Download link**, which is inside the carrier's settings screen.
+Export the spreadsheet that is already on the platform, edit it, and import it again. That keeps the accepted format. To get the template, use **Spreadsheet Model Download** on the carrier settings screen.
 
-Because spreadsheets in **.xls** format have a limit of 65,536 rows, if you need to register a bigger file, create new tabs (sheets) that contain the same header, and fill them out with the remaining lines, since every time you import a new file, it overwrites the last one.
+**.xls** files are limited to 65,536 rows. If you need more rows, add extra sheets with the same header. Each import overwrites the previous file.

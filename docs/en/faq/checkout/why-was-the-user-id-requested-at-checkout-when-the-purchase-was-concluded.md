@@ -1,5 +1,5 @@
 ---
-title: 'Why was my client requested to log in when attempting to finalize their purchase?'
+title: 'Why was the customer asked to log in when completing a purchase?'
 excerpt: "After three failed SmartCheckout attempts with email and CVV, checkout asks for a full login as a security measure."
 id: frequentlyAskedQuestions_2705
 status: PUBLISHED
@@ -15,16 +15,16 @@ locale: en
 legacySlug: why-was-the-user-id-requested-at-checkout-when-the-purchase-was-concluded
 ---
 
-A security rule exists at checkout, regarding the SmartCheckout purchase facility.
+Checkout applies a security rule to SmartCheckout purchases.
 
-Because SmartCheckout purchases can be completed using only the email address and the card CVV when the customer has already completed a purchase before, we restrict the number of unsuccessful attempts to conclude the purchase to 3 before asking the customer for their user ID.
+Returning customers can complete a SmartCheckout purchase with only their email address and card CVV. After three unsuccessful attempts, checkout asks the customer to log in.
 
 ![LoginEN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/checkout/why-was-the-user-id-requested-at-checkout-when-the-purchase-was-concluded_1.png)
 
-In other words, if the customer concludes the purchase using only the email and the CVV of the credit card, and if the operator’s approval does not occur after 3 consecutive attempts, a user ID screen is displayed so that the customer can continue trying to purchase. This countdown starts again when the customer logs in and successfully completes their purchase.
+If three consecutive attempts with email and CVV are not approved by the card operator, a login screen is displayed so the customer can keep trying. The counter resets after the customer logs in and completes a purchase.
 
-> ⚠️ Requiring a new authentication is only related to the established limit of 3 unsuccessful purchase attempts with the same card. This means that, **regardless of the time interval between each attempt, authentication will be requested when the customer tries for the third time to end a purchase without success.**
+> ⚠️ A new login is required only after three unsuccessful attempts with the same card. The time between attempts does not matter. After the third failed attempt, checkout asks the customer to authenticate.
 
-This measure is aimed at the security of customer data against attacks and attempts at fraud.
+This protects customer data against attacks and fraud.
 
-For more information about data protection, visit [SmartCheckout Security](/en/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
+For more information, see [SmartCheckout Security](/en/docs/tutorials/smartcheckout-security).

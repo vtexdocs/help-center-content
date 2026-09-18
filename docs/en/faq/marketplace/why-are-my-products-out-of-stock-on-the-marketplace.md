@@ -1,6 +1,6 @@
 ---
 title: 'Why are my products out of stock on the marketplace?'
-excerpt: "The marketplace sales policy needs its own dock, inventory, and carrier setup. After that, reindex the catalog so stock is sent."
+excerpt: "The marketplace sales channel needs its own dock, warehouse, and carrier setup. After that, reindex the catalog so stock is sent."
 id: frequentlyAskedQuestions_693
 status: PUBLISHED
 createdAt: 2017-04-27T22:29:36.839Z
@@ -15,17 +15,17 @@ locale: en
 legacySlug: why-are-my-products-out-of-stock-on-the-marketplace
 ---
 
-If the marketplace uses a sales policy not used by another marketplace or by the main stores, then the logistics must be configured for this new sales policy.
+If the marketplace uses a sales channel that is not shared with another marketplace or with the main store, configure logistics for that sales channel.
 
-This is done in the dock configurations, where the sales policy must be selected in the **Sales Channel** field. Also check whether the dock is associated with at least one inventory and at least one shipper.
+In the [loading dock](/en/docs/tutorials/loading-dock) settings, select the sales channel in the **Sales Channel** field. Also confirm that the dock is associated with at least one warehouse and one carrier.
 
-After the configurations, it is necessary to index all products in the database, so that integration takes place.
+After you save these settings, index the catalog so stock is sent in the integration.
 
-1. With the sponsor user, access the link `{{ACCOUNTNAME}}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`;
-2. Click on the button **Reindexar Base**.
+1. As an administrator, open `https://{{accountName}}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`.
+2. Click **Reindex database** (`Reindexar Base`).
 
-You can monitor the status of the indexation and the status of the integration of the inventories. To do this, access the [indexation report](/en/tutorial/utilizar-o-relatorio-de-indexação) and the [Integrations module](/en/tutorial/bridge/).
+You can monitor indexing and inventory integration in the [Index Report](/en/docs/tutorials/how-to-use-the-index-report) and in [Integrations](/en/docs/tutorials/checking-integrations-in-bridge).
 
-> ⚠️ If the sales channel is configured with a collection, it is necessary to verify that the item belongs to the collection. Otherwise, no item information will be updated on the partner.
+> ⚠️ If the sales channel uses a collection, confirm that the item belongs to that collection. Otherwise, the partner will not receive item updates.
 
-> ⚠️ If the store does not use a collection in the sales channel and the configuration is defined specifically in the product, it is necessary to verify if the product is set for sale in the desired channel. Otherwise, no item information will be updated on the partner.
+> ⚠️ If the sales channel does not use a collection and the setting is on the product, confirm that the product is enabled for that sales channel. Otherwise, the partner will not receive item updates.

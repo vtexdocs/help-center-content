@@ -1,5 +1,5 @@
 ---
-title: 'Why does my order appear cancelled on the marketplace but is shown as billed on VTEX?'
+title: 'Why does my order appear canceled on the marketplace but billed on VTEX?'
 excerpt: "After billing, VTEX no longer receives marketplace cancellations. Compare billing and cancellation dates, then contact the marketplace."
 id: frequentlyAskedQuestions_6279
 status: PUBLISHED
@@ -15,10 +15,8 @@ locale: en
 legacySlug: why-does-my-order-appear-cancelled-at-the-marketplace-but-is-shown-as-billed-at-vtex
 ---
 
-This scenario is not an error, but something normal on the platform. It occurs when an order is cancelled on the marketplace after having been billed on VTEX. This is possible because communication between VTEX and the external marketplace is concluded after the order is billed. This means that the order can be cancelled after billing, without VTEX being notified.
+This scenario is expected. It happens when an order is canceled on the marketplace after it has already been billed on VTEX. After billing, VTEX no longer receives cancellation updates from the external marketplace, so the marketplace can cancel the order without notifying VTEX.
 
-Thus, to verify whether the scenario is expected, just compare the billing date on VTEX with the cancellation request date on the marketplace.
+To confirm this case, compare the billing date on VTEX with the cancellation request date on the marketplace. Then contact the marketplace to find out why the order was canceled.
 
-After that, get in touch with the marketplace to find out why the order was cancelled.
-
-_The order will **not** appear as cancelled on VTEX. Once the order status is billed, it is no longer possible to alter it._
+The order will **not** appear as canceled on VTEX. After the order status is billed, it cannot be changed.

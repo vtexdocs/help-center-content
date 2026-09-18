@@ -15,11 +15,8 @@ locale: en
 legacySlug: some-gateway-affiliations-are-highlighted-in-yellow-why
 ---
 
-In __Gateway Affiliation__, you can view the list of all settings made. However, some of them may be highlighted with a different color, in yellow. 
+In **Gateway Affiliations**, the list of affiliations can include some rows highlighted in yellow.
 
-This means that these affiliations are not enabled, but are being tested. You may confirm this information by clicking on the affiliation highlighted. 
+Yellow means the affiliation is in test mode and is not enabled for live payments. Click the highlighted affiliation to confirm.
 
 ![afiliação-gateway-teste en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/payments/some-gateway-affiliations-are-highlighted-in-yellow-why_1.png)
-
-
-That is, the settings that have not yet been enabled are highlighted in a different color.
