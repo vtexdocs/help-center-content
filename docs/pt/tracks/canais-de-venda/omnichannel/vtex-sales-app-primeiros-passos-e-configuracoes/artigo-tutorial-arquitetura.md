@@ -56,13 +56,12 @@ A Prateleira Infinita pode ser implementada em lojas que tenham ou não arquitet
 - **Com arquitetura multicanal (Omnichannel) e multiestoque:** cadastre cada loja física como um estoque na conta principal. Recomendado para quem não precisa de gestão separada de preços por loja.
   - **Com contas franquia:** crie [contas franquia](https://help.vtex.com/pt/docs/tutorials/o-que-e-conta-franquia) para cada loja, elas possuem obrigatoriamente o mesmo catálogo da conta principal, mas podem ter configurações de logística próprias.
 
-### Ship from Store e e Carrinhos Mistos (Carry Out)
+### Ship from Store e e carrinhos mistos (Carry Out)
 
-O [Ship From Store](https://help.vtex.com/pt/docs/tracks/configurar-ship-from-store) permite que o cliente receba pedidos com produtos que vieram do estoque da loja física, ou seja, a loja funciona como um pequeno centro de distribuição. Além disso, você pode associar essa estratégia ao carrinho misto (Carry Out), quando uma venda contém tanto itens para retirada em loja na hora da compra, quanto itens a serem entregues na casa do cliente.
+O [Ship From Store](https://help.vtex.com/pt/docs/tracks/configurar-ship-from-store) permite que o cliente receba pedidos com produtos que vieram do estoque da loja física, ou seja, a loja funciona como um pequeno centro de distribuição. Além disso, você pode associar essa estratégia à opção de carrinhos mistos (Carry Out), quando uma venda contém tanto itens para retirada em loja na hora da compra, quanto itens a serem entregues na casa do cliente.
 
-- **Público alvo:** lojas que já possuem o ship from store habilitado ou que querem permitir que o cliente "leve agora" o produto ou misture itens de retirada e entrega no mesmo pedido.
-
-**O que decidir:** Como será feita a integração com o ERP para garantir que o inventário da loja esteja sempre atualizado?
+- **Público alvo:** lojas físicas que desejam vender produtos do estoque local, que querem habilitar compra do tipo "leve agora" e que desejam combinar em um mesmo pedido itens para entrega e retirada.
+- **O que decidir:** como será feita a integração com o ERP para garantir que o inventário da loja esteja sempre atualizado?
 
 **Configuração:** Exige arquitetura de **Conta Franquia** para vincular o estoque local ao ponto de retirada, além de integração em tempo real com o ERP para inventário e emissão de nota fiscal (NFC-e).
 
