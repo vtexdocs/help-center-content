@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 18Gsips3u48UYCu0Ku2sWm
 ---
 
-> ⚠️ Tutorial valid only for Legacy CMS Stores.
+> ⚠️ This tutorial only applies to [CMS Portal (Legacy)](https://help.vtex.com/docs/tracks/legacy-cms-portal) stores.
 
 You may need to send the item price to the payment gateway or to your ERP with the tax shown separately from the price.
 
