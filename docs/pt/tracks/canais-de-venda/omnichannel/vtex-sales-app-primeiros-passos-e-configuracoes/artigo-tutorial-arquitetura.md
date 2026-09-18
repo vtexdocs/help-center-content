@@ -9,7 +9,7 @@ slugEN: XXX
 locale: pt
 ---
 
-Os casos de uso mais frequentes do **Sales App** são:
+Antes de configurar o **Sales App**, o sucesso da operação depende de uma base sólida de decisões de negócio antes mesmo da configuração técnica. Este artigo apresenta o roteiro para que diferentes perfis de clientes entendam o que precisam decidir e configurar. Os casos de uso mais frequentes do **Sales App** são:
 
 - Apenas como app para casos de ruptura de estoque.
 - Como primeira opção para vendedores checarem o estoque local e remoto e fecharem compras com mobilidade.
@@ -19,17 +19,17 @@ Os casos de uso mais frequentes do **Sales App** são:
 
 > ℹ️ Avalie se sua operação precisa de **Extensões** (como para programas de fidelidade, serviços adicionais ou formulários customizados). Note que a funcionalidade de extensões pode exigir requisitos específicos de desenvolvimento. Independente do seu caso de uso, é importante ter em mente que para funcionalidades que o Sales App não oferece nativamente, a capacidade de extensões geralmente pode ser a resposta, permitindo que você ou seu parceiro desenvolva módulos em pontos estratégicos da jornada de vendas, para recursos que são cruciais para estratégia. Acesse a documentação de extensões.
 
-Antes de configurar o **Sales App**, o sucesso da operação depende de uma base sólida de decisões de negócio antes mesmo da configuração técnica. Este artigo apresenta o roteiro para que diferentes perfis de clientes entendam o que precisam decidir e configurar.
-
 ## Definições Fundamentais de Projeto
 
 Antes de iniciar a implementação, sua empresa precisa passar por estas quatro etapas decisórias:
 
-- **Casos de uso:** Em que situações o Sales App será utiizado?
-- **Definições de Negócio (Arquitetura):** Determine como será sua estrutura de lojas e estoques. Isso inclui definir o uso de contas franquia, centros de distribuição (CDs) e quais estoques estarão ativos para o Sales App. Defina também qual será a política comercial em uso e se haverá oferta de produtos de marketplace (3P). É vital estabelecer quais estoques ficarão disponíveis para o vendedor e configurá-los corretamente.  
-- **Definições de Operação (Engajamento):** Como os vendedores irão usar o app? Defina os níveis de acesso, quais funcionalidades estarão liberadas e como será o plano de treinamento. Um ponto crucial é o modelo de comissionamento para lojas: em operações omnichannel, o engajamento depende de como a venda feita na loja (mas entregue pelo e-commerce) será creditada para motivar a equipe.  
-- **Definições de Pagamento:** Decida quais bandeiras e tipos de pagamento (PIX, Cartão, Link, Dinheiro) serão aceitos. Lembre-se que isso pode exigir a contratação e homologação de provedores e adquirentes específicos para a operação física.
-- **Suporte Especializado:** Se a sua arquitetura for complexa ou exigir recursos customizados, não hesite em acionar o time de Professional Services da VTEX para garantir a segurança e eficiência da implementação.
+- **Casos de uso:** situações em que o **Sales App** será utiizado.
+- **Definições de arquitetura:** Determine como será sua estrutura de lojas e estoques. Isso inclui definir o uso de contas franquia, centros de distribuição (CDs) e quais estoques estarão ativos para o Sales App.
+- **Definação de política comercial:** em uso e se haverá oferta de produtos de marketplace (3P). É vital estabelecer quais estoques ficarão disponíveis para o vendedor e configurá-los corretamente.  
+- **Definições de Operação (Engajamento):** definir como os vendedores irão usar o app. Quais serão os níveis de acesso, quais funcionalidades estarão liberadas e como será o plano de treinamento. Um ponto crucial é o modelo de comissionamento para lojas: em operações omnichannel, o engajamento depende de como a venda feita na loja (mas entregue pelo ecommerce) será creditada para motivar a equipe.  
+- **Definições de pagamento:** decida quais bandeiras e tipos de pagamento (PIX, Cartão, Link, Dinheiro) serão aceitos. Lembre-se que isso pode exigir a contratação e homologação de provedores e adquirentes específicos para a operação física.
+
+> ℹ️ Se a arquitetura da sua conta for complexa ou exigir recursos customizados, para obter mais eficiência e garantir a segurança na implementação, considere contratar o time de Professional Services da VTEX.
 
 ### Definição de arquitetura Técnica
 
