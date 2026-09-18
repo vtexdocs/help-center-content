@@ -91,7 +91,11 @@ Em **Prévia dos agentes**, existem duas configurações possíveis:
 
 - **Feedback progressivo dos agentes:** ative-o <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o agente envie atualizações em tempo real ao usuário enquanto redige a resposta final. Caso contrário, deixe-o desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
+Em **Mensagens do sistema**, você pode personalizar a mensagem de erro enviada ao cliente quando um erro de API impede o agente de gerar uma resposta. Cada projeto pode ter a sua própria mensagem, adaptada ao tom de voz da marca.
 
+> ⚠️ A mensagem de erro é enviada exatamente como configurada e não é traduzida automaticamente. Escreva o texto no idioma em que o seu agente atende os clientes.
+
+Para salvar seus ajustes, clique em `Salvar alterações`.
 
 #### Editar instruções
 
