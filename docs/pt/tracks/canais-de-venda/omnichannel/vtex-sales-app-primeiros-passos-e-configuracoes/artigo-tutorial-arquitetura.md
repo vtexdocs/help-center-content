@@ -56,27 +56,21 @@ A Prateleira Infinita pode ser implementada em lojas que tenham ou não arquitet
 - **Com arquitetura multicanal (Omnichannel) e multiestoque:** cadastre cada loja física como um estoque na conta principal. Recomendado para quem não precisa de gestão separada de preços por loja.
   - **Com contas franquia:** crie [contas franquia](https://help.vtex.com/pt/docs/tutorials/o-que-e-conta-franquia) para cada loja, elas possuem obrigatoriamente o mesmo catálogo da conta principal, mas podem ter configurações de logística próprias.
 
-### Ship from Store e e carrinhos mistos (Carry Out)
+### Ship from Store e e carrinhos mistos
 
 O [Ship From Store](https://help.vtex.com/pt/docs/tracks/configurar-ship-from-store) permite que o cliente receba pedidos com produtos que vieram do estoque da loja física, ou seja, a loja funciona como um pequeno centro de distribuição. Além disso, você pode associar essa estratégia à opção de carrinhos mistos (Carry Out), quando uma venda contém tanto itens para retirada em loja na hora da compra, quanto itens a serem entregues na casa do cliente.
 
 - **Público alvo:** lojas físicas que desejam vender produtos do estoque local, que querem habilitar compra do tipo "leve agora" e que desejam combinar em um mesmo pedido itens para entrega e retirada.
-- **O que decidir:** como será feita a integração com o ERP para garantir que o inventário da loja esteja sempre atualizado?
+- **O que decidir:** como garantir a integração com o ERP de forma que o inventário da loja esteja sempre atualizado.
 
-**Configuração:** Exige arquitetura de **Conta Franquia** para vincular o estoque local ao ponto de retirada, além de integração em tempo real com o ERP para inventário e emissão de nota fiscal (NFC-e).
+#### Configuração técnica de Ship from Store e carrinhos mistos
 
-**Configuração Técnica:**
+A configuração Além disso, é necessário integrar o ERP para que o inventário da loja esteja sempre atualizado e a emissão de nota fiscal (NFC-e) seja permitida.
 
-* **Arquitetura de Franquia:** Essencial para vincular a loja ao ponto de retirada e ao estoque local.  
-* **Vínculo Logístico:** Configure o ponto de retirada com o endereço da loja e ative o estoque para "instore".  
-* **Faturamento:** Integre com o sistema de Nota Fiscal (NFC-e/SAT) via PDV ou ERP para permitir a saída imediata do produto, por meio do protocolo de integração.
-* **Conciliação:** Ajuste sistêmico e operacional para garantir o fluxo correto de faturamento de acordo com suas definições junto ao financeiro.
-
-O [Ship from Store](/pt/docs/tracks/configurar-ship-from-store) transforma suas lojas físicas em pequenos centros de distribuição. Com esse recurso, você pode enviar produtos a partir do estoque de uma loja, mesmo que eles não tenham sido comprados lá.
-
-Os [Pontos de retirada](/pt/docs/tracks/configurar-lojas-fisicas-como-pontos-de-retirada) ou pickup points são locais onde o cliente tem a opção de retirar por conta própria o seu pedido. As lojas físicas da sua rede, por exemplo, podem funcionar como pontos de retirada.
-
-Os pré-requisitos para implementar essas estratégias são todos os itens descritos nos tópicos anteriores.
+- **Arquitetura de conta franquia:** requer [conta franquia](https://help.vtex.com/pt/docs/tutorials/o-que-e-conta-franquia) para que seja possível habilitar o estoque local da loja física como ponto de retirada.
+- **Configuração logística:** configure o [ponto de retirada com o endereço da loja física](https://help.vtex.com/pt/docs/tutorials/habilitar-venda-de-estoque-local-do-vtex-sales-app) e habilite vendas do tipo "leve agora" (`instore`).
+- **Faturamento:** integre o sistema de faturamente com o de Nota Fiscal (NFC-e/SAT) via ponto de venda (PDV) ou ERP para permitir a saída imediata do produto por meio do protocolo de integração.
+- **Conciliação:** ajuste o sistema e operacional de conciliação para garantir o fluxo correto de faturamento, de acordo com suas definições junto ao financeiro.
 
 ### C. Ferramenta Única de Venda (POS-like)
 
