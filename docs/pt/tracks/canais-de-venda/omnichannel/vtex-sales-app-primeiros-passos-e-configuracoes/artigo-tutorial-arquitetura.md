@@ -38,7 +38,7 @@ Avalie se sua operação precisa de **Extensões** (como para programas de fidel
 
 ## Definir a arquitetura técnica
 
-O **Sales App** possui XXX de funcionalidades. Os pré-requisitos e recomendações para cada um dos principais casos de uso do VTEX Sales App em sua estratégia de [Comércio Unificado](/pt/docs/tracks/comercio-unificado-101) estão descritos abaixo.
+O **Sales App** possui XXX de funcionalidades.
 
 ### Prateleira Infinita
 
@@ -115,11 +115,12 @@ Antes de instalar o Sales App, você precisa definir os métodos de pagamentos q
       1. Necessário contratação do parceiro disponível na sua região , configuração das máquinas, configuração do provedor na sua conta principal, e testes&nbsp;  
    5. Pagamentos não integrados, com promissória.  
       1. Exige integração com sistema externos (PDVs, ERPs) para receber a confirmação do pagamento&nbsp;&nbsp;  
-         1. Quando usar: casos de cartão private label, métodos de pagamentos já consolidados na sua loja. Esse modelo está em Closed Beta. Para saber mais procure o time de Sales App.&nbsp;
+         1. Quando usar: casos de cartão private label, métodos de pagamentos já consolidados na sua loja. Esse modelo está em Closed Beta. Para saber mais procure o time de Sales App.
 
-## Recomendações gerais
+> ℹ️ Recomendação geral: ativar o módulo **Checkout v6**. Leia o artigo [Como ativar o Checkout v6](/pt/docs/tutorials/ativar-o-checkout-v6) para mais informações.
 
-- Ativar o módulo **Checkout v6**. Leia o artigo [Como ativar o Checkout v6](/pt/docs/tutorials/ativar-o-checkout-v6) para mais informações.
+### Preços diferenciados
+
 - Preços: recomendamos que suas lojas físicas herdem os preços do ecommerce. No entanto, se você optar por ter preços diferenciados, considere os requisitos e observações abaixo.
   - É necessário envolver uma agência parceira para regionalizar o catálogo.
   - Isso pode impactar as ferramentas de comparação de preços, pois eles recebem apenas um valor.
