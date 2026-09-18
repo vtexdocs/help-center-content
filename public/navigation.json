@@ -101,6 +101,37 @@
             },
             {
               "name": {
+                "en": "Setembro",
+                "es": "Setembro",
+                "pt": "Setembro"
+              },
+              "slug": {
+                "en": "setembro",
+                "es": "setembro",
+                "pt": "2026-setembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "VTEX CX Platform: suporte a BSUID e usernames do WhatsApp",
+                    "en": "VTEX CX Platform: suporte a BSUID e usernames do WhatsApp",
+                    "es": "VTEX CX Platform: suporte a BSUID e usernames do WhatsApp"
+                  },
+                  "slug": {
+                    "pt": "2026-09-18-vtex-cx-platform-suporte-a-bsuid-e-usernames-do-whatsapp",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "August",
                 "es": "Agosto",
                 "pt": "Agosto"
