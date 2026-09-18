@@ -9,9 +9,6 @@ slugEN: XXX
 locale: pt
 ---
 
-## TEXTO DA BIBA - Definições Fundamentais de Projeto
-
-`https://docs.google.com/document/d/1_NfEwrVMQltM1E9JvyU9z0QrCQOs6CNI6VIUWnAGH3M/edit?tab=t.0`
 
 Antes de configurar o **Sales App**, o sucesso da operação depende de uma base sólida de decisões de negócio antes mesmo da configuração técnica. Este artigo apresenta o roteiro para que diferentes perfis de clientes entendam o que precisam decidir e configurar.
 
@@ -19,12 +16,11 @@ Antes de configurar o **Sales App**, o sucesso da operação depende de uma base
 
 Antes de iniciar a implementação, sua empresa precisa passar por estas quatro etapas decisórias:
 
-1. **Casos de uso:** Em que situações o Sales App será utiizado?
-2. **Definições de Negócio (Arquitetura):** Determine como será sua estrutura de lojas e estoques. Isso inclui definir o uso de contas franquia, centros de distribuição (CDs) e quais estoques estarão ativos para o Sales App. Defina também qual será a política comercial em uso e se haverá oferta de produtos de marketplace (3P). É vital estabelecer quais estoques ficarão disponíveis para o vendedor e configurá-los corretamente.  
-3. **Definições de Operação (Engajamento):** Como os vendedores irão usar o app? Defina os níveis de acesso, quais funcionalidades estarão liberadas e como será o plano de treinamento. Um ponto crucial é o modelo de comissionamento para lojas: em operações omnichannel, o engajamento depende de como a venda feita na loja (mas entregue pelo e-commerce) será creditada para motivar a equipe.  
-4. **Definições de Pagamento:** Decida quais bandeiras e tipos de pagamento (PIX, Cartão, Link, Dinheiro) serão aceitos. Lembre-se que isso pode exigir a contratação e homologação de provedores e adquirentes específicos para a operação física.
-
-**Suporte Especializado:** Se a sua arquitetura for complexa ou exigir recursos customizados, não hesite em acionar o time de **Professional Services da VTEX** para garantir a segurança e eficiência da implementação.
+- **Casos de uso:** Em que situações o Sales App será utiizado?
+- **Definições de Negócio (Arquitetura):** Determine como será sua estrutura de lojas e estoques. Isso inclui definir o uso de contas franquia, centros de distribuição (CDs) e quais estoques estarão ativos para o Sales App. Defina também qual será a política comercial em uso e se haverá oferta de produtos de marketplace (3P). É vital estabelecer quais estoques ficarão disponíveis para o vendedor e configurá-los corretamente.  
+- **Definições de Operação (Engajamento):** Como os vendedores irão usar o app? Defina os níveis de acesso, quais funcionalidades estarão liberadas e como será o plano de treinamento. Um ponto crucial é o modelo de comissionamento para lojas: em operações omnichannel, o engajamento depende de como a venda feita na loja (mas entregue pelo e-commerce) será creditada para motivar a equipe.  
+- **Definições de Pagamento:** Decida quais bandeiras e tipos de pagamento (PIX, Cartão, Link, Dinheiro) serão aceitos. Lembre-se que isso pode exigir a contratação e homologação de provedores e adquirentes específicos para a operação física.
+- **Suporte Especializado:** Se a sua arquitetura for complexa ou exigir recursos customizados, não hesite em acionar o time de Professional Services da VTEX para garantir a segurança e eficiência da implementação.
 
 ### Casos de uso
 
@@ -120,4 +116,48 @@ Avalie se sua operação precisa de **Extensões** (como para programas de fidel
 
 Se você tem um caso de uso específico ou quer acelerar seu faturamento com vendas assistidas, **abra um ticket no suporte**. Nossa equipe ajudará você a entender como o Sales App pode alavancar o seu negócio.
 
-________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________
+
+## ARTIGO ANTERIOR - Pré-requisitos para usar o VTEX Sales App
+
+\\✅CONTEÚDO PARCIAL DO ARTIGO, MAS O RESTANTE JÁ FOI MOVIDO PARA O ARTIGO SOBRE REQUISITOS
+
+`https://help.vtex.com/pt/docs/tracks/pre-requisitos-para-usar-o-vtex-sales-app`
+
+## Casos de uso
+
+Os pré-requisitos e recomendações para cada um dos principais casos de uso do VTEX Sales App em sua estratégia de [Comércio Unificado](/pt/docs/tracks/comercio-unificado-101) estão descritos abaixo.
+
+### Prateleira Infinita
+
+A [Prateleira Infinita](/pt/docs/tracks/prateleira-infinita) é o recurso que dá aos seus clientes acesso a todo o seu inventário, integrado entre todos os canais. Com isso, se um cliente estiver em uma loja física, ele poderá comprar um produto do estoque de outras lojas ou mesmo do seu ecommerce.
+
+Para mais informações, leia o guia sobre a [Prateleira Infinita](/pt/docs/tracks/prateleira-infinita).
+
+Os pré-requisitos para implementar a Prateleira Infinita na sua loja são todos os itens descritos nos tópicos anteriores.
+
+### Ship from Store e Pontos de retirada
+
+O [Ship from Store](/pt/docs/tracks/configurar-ship-from-store) transforma suas lojas físicas em pequenos centros de distribuição. Com esse recurso, você pode enviar produtos a partir do estoque de uma loja, mesmo que eles não tenham sido comprados lá.
+
+Os [Pontos de retirada](/pt/docs/tracks/configurar-lojas-fisicas-como-pontos-de-retirada) ou pickup points são locais onde o cliente tem a opção de retirar por conta própria o seu pedido. As lojas físicas da sua rede, por exemplo, podem funcionar como pontos de retirada.
+
+Os pré-requisitos para implementar essas estratégias são todos os itens descritos nos tópicos anteriores.
+
+Recomendações adicionais:
+
+* Ativar o módulo **Checkout v6**. Leia o artigo [Como ativar o Checkout v6](/pt/docs/tutorials/ativar-o-checkout-v6) para mais informações.
+* Preços: recomendamos que suas lojas físicas herdem os preços do ecommerce. No entanto, se você optar por ter preços diferenciados, considere os requisitos e observações abaixo.
+    * É necessário envolver uma agência parceira para regionalizar o catálogo.
+    * Isso pode impactar as ferramentas de comparação de preços, pois eles recebem apenas um valor.
+    * Isso pode impactar nas vendas em marketplaces, pois eles também recebem apenas um valor.
+    * Recomendamos a contratação do time de Professional Services da VTEX para personalizar sua arquitetura e viabilizar a diferenciação de preços.
+
+### VTEX Sales App integrado ao PDV
+
+Esse é o recurso que permite usar o VTEX Sales App [integrado aos pontos de venda](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/5XWo7q35jkDDq3PxUs1EVi) de suas lojas físicas.
+
+Pré-requisitos para implementar a integração entre o VTEX Sales App e o PDV:
+
+* Todos os pré-requisitos descritos nos tópicos anteriores, inclusive os de [Prateleira Infinita](#prateleira-infinita), [Ship from Store e Pontos de retirada](#ship-from-store-e-pontos-de-retirada).
+* Integração com um sistema de Nota Fiscal, conforme descrito em [Faturamento](#faturamento).
