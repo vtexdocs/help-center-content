@@ -1,0 +1,30 @@
+---
+title: 'Website with error: how to fix it?'
+excerpt: "A yellow globe in CMS Layout means the website is not linked to a Binding. Select the Binding and update it to restore indexing."
+id: frequentlyAskedQuestions_630
+status: PUBLISHED
+createdAt: 2017-04-27T22:31:06.812Z
+updatedAt: 2019-12-31T14:25:31.877Z
+publishedAt: 2019-12-31T14:25:31.877Z
+firstPublishedAt: 2017-04-27T23:02:26.453Z
+contentType: frequentlyAskedQuestion
+productTeam: Storefront
+author: authors_84
+slugEN: website-with-error-how-to-fix-it
+locale: en
+legacySlug: website-with-error-how-to-fix-it
+---
+
+An issue that affects the indexation of products in the store is the absence of a connection between the site and a Binding.
+
+To check this, just have a look at the color of your website (the little globe) inside the CMS's __Layout__ section. If it's blue, everything is OK and you don’t have to worry.
+
+However, if it's yellow, it means there is an error.
+
+Below are the steps to adjust it:
+
+1. Click on the website.
+2. Select the Binding on the screen (line highlighted in the image below), and click on __Update__.![Binding 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/storefront/website-with-error-how-to-fix-it_1.png)
+3. On the screen displayed, the __Store name from License Manager__ field will be blank; click on the arrow that appears in this field and select the name of your store.
+4. Click on __Save Binding__.![Binding 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/storefront/website-with-error-how-to-fix-it_2.png)
+5. Click on __Websites__ again to update the page, and that’s it! The little globe will appear in blue, which means that now this is right.
