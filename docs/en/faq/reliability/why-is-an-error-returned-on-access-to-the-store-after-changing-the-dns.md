@@ -1,5 +1,6 @@
 ---
 title: 'Why is an error returned on access to the store after changing the DNS?'
+excerpt: "DNS pointing is not enough. Set the account status to production in Account management before the storefront can load."
 id: frequentlyAskedQuestions_2248
 status: PUBLISHED
 createdAt: 2017-04-27T22:25:29.934Z
