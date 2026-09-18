@@ -45,21 +45,22 @@ O **Sales App** possui XXX de funcionalidades. Os pré-requisitos e recomendaç�
 A [Prateleira Infinita](https://help.vtex.com/pt/docs/tracks/prateleira-infinita) permite aos seus clientes acesso completo ao seu inventário, integrado entre todos os canais de venda. Ou seja, se um cliente estiver em uma loja física, ele poderá comprar um produto do estoque de outras lojas físicas ou ecommerce, e a entrega pode ser realizada a partir de qualquer um dos estoques.
 
 - **Público alvo:** empresas que buscam vendas incrementais, evitando a ruptura de estoque local ao oferecer o catálogo do ecommerce.
-- **O que decidir:** modelo de estoques e arquitetura de lojas, franquias e retirada.
+- **O que decidir:** modelo de estoques e arquitetura de lojas, se haverá ou não contas franquias e pontos de retirada.
+- **Requisitos:** não possui requisitos específicos, basta ter o **Sales App** instalado na conta principal.
 
-#### Configuração técnica para Prateleira Infinita
+#### Configuração técnica da Prateleira Infinita
 
-A configuração pode ser implementada em lojas que tenham ou não [arquitetura multicanal (Omnichannel)](https://help.vtex.com/pt/docs/tracks/comercio-unificado-101), contas franquia (gestão logística independente) ou multiestoque (lojas como warehouses).
+A Prateleira Infinita pode ser implementada em lojas que tenham ou não arquitetura multicanal (Omnichannel), contas franquia e multiestoque (lojas físicas como estoques). As orientaçõe para cada caso são:
 
 - **Sem [arquitetura multicanal (Omnichannel)](https://help.vtex.com/pt/docs/tracks/comercio-unificado-101):** configure o **Sales App** na conta principal usando as mesmas políticas comerciais e estoques do ecommerce.  
-- **Com arquitetura multicanal (Omnichannel) (Multiestoque):** cadastre cada loja física como um estoque na conta principal. Recomendado para quem não precisa de gestão separada de preços por loja.  
-- **Com Conta Franquia:** Crie contas franquia para cada loja. Elas herdam o catálogo, mas possuem gestão própria de logística.
+- **Com arquitetura multicanal (Omnichannel) e multiestoque:** cadastre cada loja física como um estoque na conta principal. Recomendado para quem não precisa de gestão separada de preços por loja.
+  - **Com contas franquia:** crie [contas franquia](https://help.vtex.com/pt/docs/tutorials/o-que-e-conta-franquia) para cada loja, elas possuem obrigatoriamente o mesmo catálogo da conta principal, mas podem ter configurações de logística próprias.
 
-Os pré-requisitos para implementar a Prateleira Infinita na sua loja são todos os itens descritos nos tópicos anteriores.
+### Ship from Store e e Carrinhos Mistos (Carry Out)
 
-### B. Estoque Local e Carrinhos Mistos (Carry Out)
+O [Ship From Store](https://help.vtex.com/pt/docs/tracks/configurar-ship-from-store) permite que o cliente receba pedidos com produtos que vieram do estoque da loja física, ou seja, a loja funciona como um pequeno centro de distribuição. Além disso, você pode associar essa estratégia ao carrinho misto (Carry Out), quando uma venda contém tanto itens para retirada em loja na hora da compra, quanto itens a serem entregues na casa do cliente.
 
-**Para quem é:** Lojas que já possuem o ship from store habilitado ou que  querem permitir que o cliente "leve agora" o produto ou misture itens de retirada e entrega no mesmo pedido.
+- **Público alvo:** lojas que já possuem o ship from store habilitado ou que querem permitir que o cliente "leve agora" o produto ou misture itens de retirada e entrega no mesmo pedido.
 
 **O que decidir:** Como será feita a integração com o ERP para garantir que o inventário da loja esteja sempre atualizado?
 
@@ -71,6 +72,12 @@ Os pré-requisitos para implementar a Prateleira Infinita na sua loja são todos
 * **Vínculo Logístico:** Configure o ponto de retirada com o endereço da loja e ative o estoque para "instore".  
 * **Faturamento:** Integre com o sistema de Nota Fiscal (NFC-e/SAT) via PDV ou ERP para permitir a saída imediata do produto, por meio do protocolo de integração.
 * **Conciliação:** Ajuste sistêmico e operacional para garantir o fluxo correto de faturamento de acordo com suas definições junto ao financeiro.
+
+O [Ship from Store](/pt/docs/tracks/configurar-ship-from-store) transforma suas lojas físicas em pequenos centros de distribuição. Com esse recurso, você pode enviar produtos a partir do estoque de uma loja, mesmo que eles não tenham sido comprados lá.
+
+Os [Pontos de retirada](/pt/docs/tracks/configurar-lojas-fisicas-como-pontos-de-retirada) ou pickup points são locais onde o cliente tem a opção de retirar por conta própria o seu pedido. As lojas físicas da sua rede, por exemplo, podem funcionar como pontos de retirada.
+
+Os pré-requisitos para implementar essas estratégias são todos os itens descritos nos tópicos anteriores.
 
 ### C. Ferramenta Única de Venda (POS-like)
 
@@ -118,14 +125,6 @@ Antes de instalar o Sales App, você precisa definir os métodos de pagamentos q
          1. Quando usar: casos de cartão private label, métodos de pagamentos já consolidados na sua loja. Esse modelo está em Closed Beta. Para saber mais procure o time de Sales App.&nbsp;
 
 __________________________________________________________________________________________________________________________
-
-### Ship from Store e pontos de retirada
-
-O [Ship from Store](/pt/docs/tracks/configurar-ship-from-store) transforma suas lojas físicas em pequenos centros de distribuição. Com esse recurso, você pode enviar produtos a partir do estoque de uma loja, mesmo que eles não tenham sido comprados lá.
-
-Os [Pontos de retirada](/pt/docs/tracks/configurar-lojas-fisicas-como-pontos-de-retirada) ou pickup points são locais onde o cliente tem a opção de retirar por conta própria o seu pedido. As lojas físicas da sua rede, por exemplo, podem funcionar como pontos de retirada.
-
-Os pré-requisitos para implementar essas estratégias são todos os itens descritos nos tópicos anteriores.
 
 ### VTEX Sales App integrado ao PDV
 
