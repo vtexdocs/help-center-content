@@ -1,5 +1,5 @@
 ---
-title: 'Why don’t my payment methods appear on the marketplace?'
+title: "Why don't my payment methods appear on the marketplace?"
 excerpt: "Most marketplace integrations process payment on the marketplace side. The seller's VTEX payment methods are not used there."
 id: frequentlyAskedQuestions_689
 status: PUBLISHED
@@ -15,10 +15,10 @@ locale: en
 legacySlug: why-dont-my-payment-methods-appear-on-the-marketplace
 ---
 
-For most integrations with marketplaces ( and all those configured by the Bridge), the marketplace does not use the seller’s payment methods. This means that the marketplace processes the payment using its own payment methods and then passes the amount agreed on to the seller.
+In most marketplace integrations, including those configured in Integrations, the marketplace does not use the seller's payment methods. It processes payment with its own methods and then transfers the agreed amount to the seller.
 
-In other words, payment is made on the marketplace using the marketplace’s payment methods. Thus, the seller’s payment methods will not show up and will have no impact on the marketplace’s purchase process.
+Payment happens on the marketplace, so the seller's VTEX payment methods do not appear and do not affect the marketplace checkout.
 
-For example: A purchase made by the CNova marketplace will be displayed on your OMS, under **Payment**, with the following message: "Assumed value by affiliate CNova (NVP)", as illustrated below.
+For example, an order from CNova appears in Orders, under **Payment**, with the message "Assumed value by affiliate CNova (NVP)", as shown below.
 
 ![exemplopagamento](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketplace/why-dont-my-payment-methods-appear-on-the-marketplace_1.png)

@@ -1,5 +1,5 @@
 ---
-title: 'Why am I getting e-mails telling me to revise the settlement of a payment?'
+title: 'Why am I getting emails telling me to revise the settlement of a payment?'
 excerpt: "Payments received an invalid settlement response from the connector. Confirm capture with the provider using the data in the alert email."
 id: frequentlyAskedQuestions_4730
 status: PUBLISHED
@@ -15,10 +15,10 @@ locale: en
 legacySlug: why-i-am-getting-emails-telling-me-to-revise-the-capturing-of-payment
 ---
 
-This usually happens when the VTEX Payments gets an invalid response when requesting the settlement of a transaction by the integrator (e.g.: Cielo, Redecard).
+This usually happens when Payments receives an invalid response while requesting settlement of a transaction from the connector (for example, Cielo or Rede).
 
-In this case, you must contact the store integrator and check whether or not the payment was successfully settled.
+In this case, contact the connector and confirm whether the payment was settled successfully.
 
-The alert email sent by the system includes useful information about the authorization of the transaction, which must be supplied to the connector’s support team.
+The alert email includes authorization details that you should share with the connector's support team.
 
-_Important: If you want to change the email address of the person receiving PCI notifications, [click here](/en/tutorial/como-configurar-notificacoes/) to find out how._
+> ⚠️ To change the email address that receives PCI notifications, see [How to set up payment notifications](/en/docs/tutorials/how-to-configure-notifications).

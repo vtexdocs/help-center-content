@@ -1,5 +1,5 @@
 ---
-title: 'Why isn’t my product deactivated on the marketplace?'
+title: "Why isn't my product deactivated on the marketplace?"
 excerpt: "Once an SKU is live on a marketplace, it belongs to that catalog. Deactivate it both in VTEX and directly on the marketplace."
 id: frequentlyAskedQuestions_687
 status: PUBLISHED
@@ -15,9 +15,9 @@ locale: en
 legacySlug: why-isnt-my-product-deactivated-on-the-marketplace
 ---
 
-As discussed in detail in the article [Cataloging of Products for the Marketplace](/en/docs/tutorials/sending-products-to-the-marketplace), after an SKU is activated in the marketplace, the SKU then belongs to the marketplace catalog. 
+As explained in [Sending products to the marketplace](/en/docs/tutorials/sending-products-to-the-marketplace), after an SKU is activated on the marketplace, it belongs to the marketplace catalog.
 
-This means that the SKU may be indexed in different areas of the marketplace, and deactivating it could cause inconsistencies in the catalog.
+The SKU may be indexed in several areas of the marketplace, so deactivating it only in VTEX can leave the listing live and create catalog inconsistencies.
 
-In other words, deactivation must always occur in two locations, so that the catalog can proceed properly with deactivation on VTEX and on the marketplace.
+Deactivate the SKU in both places: in VTEX and directly on the marketplace.
 

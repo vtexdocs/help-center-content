@@ -15,24 +15,22 @@ locale: en
 legacySlug: why-does-a-search-term-not-return-existing-products
 ---
 
-> ⚠️ VTEX has two search options - VTEX Search (Legacy) and VTEX Intelligent Search. This article refers to the VTEX Search (Legacy). To learn more about VTEX Intelligent Search, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ VTEX has two search options: VTEX Search (Legacy) and VTEX Intelligent Search. This article refers to VTEX Search (Legacy). To learn more about VTEX Intelligent Search, see the [VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb) track.
 
+The article [How does VTEX Search (Legacy) work?](/en/docs/tutorials/how-does-vtex-search-legacy-work) explains the main rules the search engine uses to display and prioritize products based on a search term.
 
-The article [How does VTEX Search (Legacy) work?](/en/docs/tutorials/how-does-vtex-search-legacy-work) illustrates the main rules that the search engine algorithm uses to display and prioritize the products based on a search term.
+If your case does not match the scenarios in that article, the search term is likely on the blocked-words list of the VTEX Search (Legacy) engine.
 
-If your case does not fit the scenarios described in this article, probably it’s because the search term that brought you here is on the list of blocked words on the VTEX Search (Legacy) engine.
+Shoppers often include pronouns, articles, and adverbs in search queries. Some of these words are not useful for matching products in the catalog.
 
-It’s common for people to use pronouns, articles, adverbs, etc., when doing an e-commerce search. However, some of these terms do not make sense when cataloging a product.
+For example, if a shopper searches for "A pair of Nike sneakers", the engine treats "A" and "of" as unimportant and searches using "sneakers" and "Nike".
 
-For example:
-If a user looks for the term "A pair of Nike sneakers", for the search engine, the words "A" and "of" are not important. However, the words "sneakers" and "Nike" are. So, the search engine ignores the words that are not important and applies the search using only the important terms.
+The VTEX Search (Legacy) engine uses a list of blocked (unimportant) words to optimize results, as in the example above.
 
-Thus, the VTEX Search (Legacy) engine contains a list of blocked (unimportant) words that assist in optimizing the result, as illustrated in the above example.
+If you need product terms that the engine might ignore, you can:
 
-If you need to use words in your products that may not be important to the search engine, several good practices exist:
+- Use a product specification and redirect the search term to the filter.
+- Use a collection and redirect the search term to a landing page.
+- Redirect the search term to a relevant search context (category, brand, or the product itself).
 
-- Use a product specification, redirecting the search term to the filter.
-- Use a collection, redirecting the search term to a landing-page.
-- Redirect the search term to a search context that makes sense (Category, brand or the product itself).
-
-The following article teaches you how to set up the redirection: [URL Mapping (301 Redirect)](/en/docs/tutorials/url-mapping-301-redirect/)
+Learn how to set up the redirection in [URL Mapping (301 Redirect)](/en/docs/tutorials/url-mapping-301-redirect).

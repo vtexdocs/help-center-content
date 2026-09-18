@@ -15,14 +15,14 @@ locale: en
 legacySlug: why-am-i-unable-to-include-the-promotion-seal-on-the-marketplace
 ---
 
-The promotion seal is a flag that appears at the front end of the store. For this flag to appear, there needs to be a tag in the HTML that is read by the CSS for display.
+The promotion seal is a flag on the storefront. It appears when an HTML tag is styled by CSS.
 
-In other words, this configuration is only valid for the VTEX store, since the configuration depends on the store front and not on the integration of products and prices.
+That setup applies only to the VTEX store. It depends on the storefront, not on the product and price integration.
 
-In any promotion, the information relayed to the marketplace is the value of the product, with the discount of the promotions registered for it already factored in.
+For any promotion, the marketplace receives the product price with the registered discounts already applied.
 
-Therefore, it has to be configured directly by the marketplace, in case there is some rule about promotions displaying the stamp.
+If the marketplace should also show a promotion stamp, configure that stamp on the marketplace.
 
 ### Related articles
 
-[Setting up promotion for a marketplace](/en/docs/tutorials/configuring-promotions-for-marketplaces)
+[Setting up promotions for a marketplace](/en/docs/tutorials/configuring-promotions-for-marketplaces)

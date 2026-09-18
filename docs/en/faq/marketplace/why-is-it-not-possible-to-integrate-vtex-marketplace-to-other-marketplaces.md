@@ -15,9 +15,9 @@ locale: en
 legacySlug: why-is-it-not-possible-to-integrate-vtex-marketplace-to-other-marketplaces
 ---
 
-We may point out some reasons for that:
+A VTEX store that acts as a marketplace cannot sell on another marketplace. The main reasons are:
 
-- In the first place, there is a business rule which should be taken into account. A marketplace selling at another marketplace would imply selling third-party products without authorization.
-- Some technical issues also make it difficult to properly conduct this kind of integration, such as the lack of prices attributed to the product catalog. Even if it were created, a very thorough management process would be necessary in order to always reflect changes made by the seller.
-- Another reason is the fact that today a VTEX store acting as a marketplace is able to choose whether to process payments with its own methods, with the seller&#8217;s methods or even with a mix of both. An external source cannot reach two layers deep and request this type of information. This means it would be impossible to capture the payment conditions set by the seller.
+- **Business rule:** Selling on a second marketplace would mean offering third-party products without the seller's authorization.
+- **Prices:** The marketplace catalog does not own the seller's prices. Even if a price layer were created, it would need constant updates to stay in sync with every change made by the seller.
+- **Payments:** A VTEX marketplace can process payments with its own methods, the seller's methods, or a mix of both. An external marketplace cannot go two layers deep to request that information, so it could not capture the payment conditions set by the seller.
 

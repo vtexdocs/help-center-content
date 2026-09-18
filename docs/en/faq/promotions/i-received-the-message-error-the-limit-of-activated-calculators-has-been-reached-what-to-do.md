@@ -15,8 +15,8 @@ locale: en
 legacySlug: i-received-the-message-error-the-limit-of-activated-calculators-has-been-reached-what-to-do
 ---
 
-This message indicates that the maximum number of promotions has been reached, and it is not possible to create the promotion that was being configured. You can check this information on the promotions management screen (`{accountName}.vtexcommercestable.com.br/admin/rnb`), as shown in the image below.
+This message means the store has reached the maximum number of active promotions, so you cannot create the promotion you were configuring. You can see the limit on the promotions screen (`https://{accountName}.myvtex.com/admin/rnb`), as shown below.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/promotions/i-received-the-message-error-the-limit-of-activated-calculators-has-been-reached-what-to-do_1.jpg)
 
-You must review your active promotions, in order to adjust and rearrange them, so that not so many units are necessary. Usually, it is possible to join several rules in just one promotion. This way, you can improve the performance of the cart, and the organization of promotions.
+Review your active promotions and combine rules so you need fewer of them. You can often put several rules in a single promotion. That also helps cart performance and keeps promotions easier to manage.

@@ -15,16 +15,16 @@ locale: en
 legacySlug: why-doesnt-the-product-field-appear-as-a-filter
 ---
 
-In the category, you can register a product field – or product specification. In the product field, you can select two filter options: **Link in Top Menu** and **Link in Side Menu.** These links will form the filters in the main or side menus.  However, for this to happen, the field created must have one of the following types:
+In a category, you can create a product field (product specification) with two filter options: **Link in Top Menu** and **Link in Side Menu**. Those links become filters in the main or side menu only if the field type is one of the following:
 
 - **Combo**
 - **Radio**
 - **CheckBox**
 
-_Text types should not be created as filters, since they may contain large values, as well as HTML, making it difficult for end clients to browse._
+Do not use text fields as filters. They can contain long values or HTML, which makes browsing harder.
 
-It is important to remember that these features will be available in the Menu if there are active products. The SearchNavigator controller identifies whether the filter exists on the product. If there are no products with this attribute, the menu does not render this option.
+The filter appears in the menu only when there are active products that use it. The SearchNavigator control checks whether the filter exists on the product. If no product has that attribute, the menu does not show the option.
 
-For customers who integrate products from other stores in their catalog, it is necessary to index the product after its addition to the catalog so that the indexer overrides the seller's specifications.
+If you integrate products from other stores into your catalog, index the product after you add it so the indexer overwrites the seller's specifications.
 
-To learn more about the creation of product fields, read the [Product Field](/en/tutorial/creating-a-product-field) article, which explains how and where this setting can be registered.
+To create product fields, see [Adding product specifications or fields](/en/docs/tutorials/adding-specifications-or-product-fields).

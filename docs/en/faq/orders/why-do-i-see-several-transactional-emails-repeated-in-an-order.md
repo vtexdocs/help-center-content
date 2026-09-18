@@ -15,16 +15,16 @@ locale: en
 legacySlug: why-do-i-see-several-transactional-emails-repeated-in-an-order-on-the-oms
 ---
 
-In the VTEX Admin, on **Orders > All orders**, by clicking on an order, you will find the order's details page with a Time Line showing information about that order, where you can see the corresponding transactional emails. If you note that several transactional emails are repeatedly sent to the end customer, verify whether one of the following scenarios is in play:
+In the VTEX Admin, go to **Orders > All orders** and open an order. On the order details page, the Timeline lists transactional emails related to that order. If several of the same emails are sent to the customer, check whether one of the following scenarios applies:
 
-- Your ERP may be repeatedly sending the tax receipt.
+- Your ERP may be sending the tax receipt repeatedly.
 
-   This can happen for a number of reasons. One example is when the value of the tax receipt is not the same as the order total. In this case, the status of the order will not move on to ‘Invoiced’. While the ERP is checking that the order is still to be found with the status `Preparing Delivery` (the status preceding Invoiced), the possibility exists that it continues executing the action of remitting the tax receipt.
+   This can happen for several reasons. One example is when the tax receipt amount does not match the order total. In that case, the order status does not change to `Invoiced`. While the ERP still sees the order in `Preparing Delivery` (the status before Invoiced), it may keep sending the tax receipt.
 
-   You can also verify this repeated action by clicking **View Interactions**, verifying different interactions that are being carried out by your ERP.
+   You can confirm this by clicking **View Interactions** and checking the actions performed by your ERP.
 
-   The same thing may occur when remitting **Tracking** data, also by your ERP.
+   The same behavior can occur when your ERP sends **Tracking** data.
 
-- The end customer’s email server may be having problems that prevent it from responding with an acknowledgment of receipt of your email.
+- The customer's email server may fail to acknowledge that it received the message.
 
-   The server that sends the transactional emails (SMTP), where no OK is received from the destination server, will continue to repeatedly deliver the email sent by the **Orders** module.
+   If the SMTP server that sends transactional emails does not receive an OK from the destination server, it keeps resending the email from the **Orders** module.

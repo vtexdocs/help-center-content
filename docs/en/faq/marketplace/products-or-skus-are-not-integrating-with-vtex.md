@@ -15,6 +15,6 @@ locale: en
 legacySlug: products-or-skus-are-not-integrating-with-vtex
 ---
 
-When a store has problems with the ERP, it often happens that there are difficulties with sending products and SKUs to VTEX. However, since integration is handled by the ERP, by the store or by a partner agency, you must find out from the integration developer how to check logs and how to correct the problem.
+When the ERP has issues, products, SKUs, and orders often fail to reach VTEX. The integration is owned by the ERP, the store, or a partner agency, so ask the integration developer how to check the logs and how to fix the failure.
 
-In the case of ERPs, VTEX takes no active part in the integration, but just waits for the products to be sent. Accordingly, you must check who designed the integration and what the problem is.
+VTEX does not send the catalog or the orders in this flow. It waits for the ERP to send the data. Identify who built the integration and investigate the error there.

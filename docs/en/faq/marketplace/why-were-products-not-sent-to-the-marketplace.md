@@ -15,30 +15,31 @@ locale: en
 legacySlug: why-were-products-not-sent-to-the-marketplace
 ---
 
-Products are sent to the marketplace by means of two major processes: the process of integration itself, which can be monitored by Integrations and the cataloguing process, which is done by the marketplace. More details about these two processes are given below.
+Products reach the marketplace through two processes: the integration itself, which you can monitor in Integrations, and cataloging, which the marketplace owns.
 
-## Check the Integrations
+## Check integrations
 
-Integrations are the first place you should check if there is a problem. [Access it and check the integration status of each product](/en/docs/tutorials/checking-integrations-in-bridge).
+Start in Integrations. [Check the integration status of each product](/en/docs/tutorials/checking-integrations-in-bridge).
 
-If a product is not registered, it may mean that it was not configured correctly, and so you must [revalidate the marketplace configurations](/en/tutorial/integrating-with-marketplace/).
+If a product is not registered, the marketplace setup may be incomplete. Review the [marketplace sales channel](/en/docs/tutorials/configuring-a-marketplace-trade-policy).
 
-In the Integrations records, the most common problems are:
-- Product inactive.
-- SKU out of stock for the sales policy of the marketplace.
-- SKU price not valid.
-- SKU without logistics for the sales policy of the marketplace.
-- Product does not have the "Flag resellers" active for the marketplace's sales channel.
-- SKU not part of the collection sent to the marketplace.
+Common issues in Integrations include:
 
-To correct this, just adjust the incorrect item and wait for the product to be indexed, monitoring the process in the Integrations.
+- Inactive product.
+- SKU out of stock for the marketplace sales channel.
+- Invalid SKU price.
+- SKU without logistics for the marketplace sales channel.
+- Product without the reseller flag active for the marketplace sales channel.
+- SKU not in the collection sent to the marketplace.
 
-## Understand the cataloguing process
+Fix the item, wait for indexing, and monitor the product in Integrations.
 
-Cataloguing is adjusting all the products integrated with the categories and brands of the marketplace. This process is carried out exclusively by the marketplace, and VTEX has no means of interfering with it.
+## Understand the cataloging process
 
-Normally this is a manual process, and it varies from marketplace to marketplace. To find out if your product is being catalogued, contact your marketplace.
+Cataloging maps integrated products to the marketplace's categories and brands. Only the marketplace runs this step. VTEX cannot change it.
+
+The process is usually manual and varies by marketplace. To confirm whether your product is being cataloged, contact the marketplace.
 
 ## How to solve it
 
-For all these problems, the recommended solution is to [reprocess the product through Integrations](/en/docs/tutorials/checking-integrations-in-bridge).
+For these issues, [reprocess the product in Integrations](/en/docs/tutorials/checking-integrations-in-bridge).

@@ -15,68 +15,66 @@ locale: en
 legacySlug: why-cant-i-see-my-carrier-on-checkout
 ---
 
-Selecting a carrier for delivery is a mandatory step during checkout when placing an order on the VTEX platform.
+Choosing a carrier is a required step at checkout.
 
-However, sometimes a carrier might not be displayed at checkout. We have separated six scenarios in which this situation can occur, along with their respective solutions.
+Sometimes a carrier does not appear. The six cases below are the most common. Before you continue, confirm that [carriers are registered](/en/docs/tutorials/carriers-on-vtex). All of these checks are in [Shipping](/en/docs/tutorials/fulfillment-logistics-vtex).
 
-It's worth pointing out that before reading this article, you must ensure that all [carriers are registered](/en/docs/tutorials/carriers-on-vtex) on the platform. In addition, all solutions are performed in the [Shipping](/en/docs/tutorials/fulfillment-logistics-vtex) module.
+## Carrier type conflict
 
-## Carrier type conflict 
+When you register carriers, you assign a [delivery type](/en/docs/tutorials/shipping-policy). Checkout shows delivery types, not each carrier name.
 
-Carriers should be grouped into categories upon registration, including the [type of delivery](/en/tutorial/como-funciona-o-tipo-de-entrega/) associated with each carrier. During checkout, the _delivery types_ are displayed rather than the name of each carrier. 
+Checkout highlights the cheapest or fastest carrier of the same delivery type. A carrier does not appear when another carrier of the same type has a better cost or delivery time.
 
-Checkout will always highlight the cheapest/fastest carrier from the options of the same type of delivery. Thus, a carrier will not appear at checkout when another of the same type has a better cost/delivery option registered. 
-
-> ⚠️ When there is a tie between carriers, the tiebreaker criterion is to have the lowest shipping cost.
+> ⚠️ If two carriers tie, the one with the lower shipping cost wins.
 
 ### Solution
 
-If you want all carriers to be displayed, you should register these in the **Store Settings > Shipping > Settings** as carriers of _different delivery types_.
+To show all carriers, register them in **Store Settings > Shipping > Settings** with *different delivery types*.
 
-## Carrier does not serve address
+## Carrier does not serve the address
 
-When registering a new carrier, the client should insert the ZIP code range or geolocation polygon that this carrier can serve in the [shipping spreadsheet](/en/tutorial/--45I9m2rknucSmYigA2AE0G). The spreadsheet fields related to location are `country`, `ZIPCodeStart`, `ZIPCodeEnd` and `PolygonName`.
+When you register a carrier, add the ZIP code range or geolocation polygon it serves in the [shipping rate template](/en/docs/tutorials/shipping-rate-template). The location fields are `country`, `ZIPCodeStart`, `ZIPCodeEnd`, and `PolygonName`.
 
-If the address given by the user does not fall into a zip code range which a carrier serves, that particular carrier will not be shown as a possible option.
-
-### Solution
-
-You should check the [shipping spreadsheet](/en/tutorial/--45I9m2rknucSmYigA2AE0G) to see if the configured zip code range or geolocation polygon encompasses the desired delivery address.
-
-## Volume exceeds maximum allowed limit 
-
-If an item exceeds the _maximum limit_ registered in the shipping spreadsheet, the order is not taken into account by the carrier.
+If the customer's address is outside those ranges, that carrier is not offered.
 
 ### Solution
 
-In this case, you should check carrier settings in **Store Settings > Shipping > Settings** to see if the configured max volume matches that of the carrier.
+Check the [shipping rate template](/en/docs/tutorials/shipping-rate-template) and confirm that the ZIP code range or polygon covers the delivery address.
 
-To do this, you should download the shipping spreadsheet, change the values of the MaxVolume column and import the spreadsheet again. 
+## Volume exceeds the maximum
 
-## Shipment weight exceeds max allowed
-
-If an item exceeds the _maximum weight limit_ registered in the shipping spreadsheet, the order is not taken into account by the carrier.
+If an item exceeds the *maximum volume* in the shipping rate spreadsheet, the carrier does not take the order.
 
 ### Solution
 
-The way to do this is similar to the previous setting: access the carrier setting in **Store Settings > Shipping > Settings** and check whether the max set weight matches the limit of the carrier.
+In **Store Settings > Shipping > Settings**, confirm that the max volume matches the carrier.
 
-This time however, change the values for the fields marked `weightStart` and `weightEnd` in the shipping spreadsheet. Afterwards, import the document again.
+Download the shipping rate spreadsheet, update the `MaxVolume` column, and import it again.
+
+## Shipment weight exceeds the maximum
+
+If an item exceeds the *maximum weight* in the shipping rate spreadsheet, the carrier does not take the order.
+
+### Solution
+
+In **Store Settings > Shipping > Settings**, confirm that the weight range matches the carrier.
+
+Update `weightStart` and `weightEnd` in the spreadsheet, then import it again.
 
 ## Shipment splitting not allowed
 
-An order may be split into two shipments, for example: if the order has 40kg, but the carrier only allows 30kg per shipment, two 20kg shipments may be authorized in this case. If your store doesn't have shipment splitting activated and the order exceeds the carrier limit, that carrier will not be shown as an option during checkout.
+An order can be split into two shipments. For example, if the order is 40 kg and the carrier allows 30 kg per shipment, two 20 kg shipments can be used. If shipment splitting is off and the order exceeds the carrier limit, that carrier is not shown at checkout.
 
-#### Solution
+### Solution
 
-To do this, enable the [split my shipment](/en/docs/tutorials/configuring-cargo-splitting) option, located in **Store Settings > Shipping > Settings**.
+Enable [split shipment](/en/docs/tutorials/configuring-cargo-splitting) in **Store Settings > Shipping > Settings**.
 
-## Optimization of shipping options at Checkout
+## Optimization of shipping options at checkout
 
-To improve the customer's shopping experience, the **Optimization of shipping options** functionality, also known as **Lean Shipping**, allows the most expensive and longest shipping options not to be shown to the customer on the Checkout screen. As a result, some carriers may be omitted in certain ordering scenarios.
+**Optimization of shipping options** (Lean Shipping) hides slower or more expensive options so they are not shown at checkout. Some carriers may be omitted in those cases.
 
-#### Solution
+### Solution
 
-Disable the function [Optimization of delivery options at Checkout](/en/docs/tutorials/optimization-of-shipping-options-at-checkout) in your store.
+Turn off [Optimization of shipping options at checkout](/en/docs/tutorials/optimization-of-shipping-options-at-checkout).
 
-> ⚠️ By disabling this function in the VTEX Admin, all available shipping options will be displayed in the Checkout process. However, if the [Multiple Deliveries](/en/tutorial/order-split-and-delivery-split--jQvzA6QgSd51e2p6bthoV#) functionality is enabled in the store and there are different delivery options between the selected items in the cart, the **Optimized Delivery Options** will continue to be displayed. That is, delivery optimization will be needed to handle multiple packages (items with different delivery options).
+> ⚠️ After you turn it off, all available shipping options appear at checkout. If [Multiple Deliveries](/en/docs/tutorials/order-split-and-delivery-split) is on and items in the cart have different delivery options, optimized options still apply so the store can handle multiple packages.

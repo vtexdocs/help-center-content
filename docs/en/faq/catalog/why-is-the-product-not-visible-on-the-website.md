@@ -35,7 +35,7 @@ This article explains how to investigate and fix product unavailability errors o
 * [Logistics](#logistics)
 * [CMS](#cms)
 
-> ⚠️ After adjusting the product and SKU details or changing logistics settings, wait for the product to be indexed. You can track the status via the [indexing queue](/en/tutorial/entendendo-o-funcionamento-da-indexacao) in the VTEX Admin, under **Catalog > Reports > Indexed Products**. Once indexing is complete, we recommend accessing the product page on the store website using an anonymous browser tab to view the updated, uncached version.
+> ⚠️ After adjusting the product and SKU details or changing logistics settings, wait for the product to be indexed. You can track the status via the [indexing queue](/en/docs/tutorials/understanding-how-indexation-works) in the VTEX Admin, under **Catalog > Reports > Indexed Products**. Once indexing is complete, we recommend accessing the product page on the store website using an anonymous browser tab to view the updated, uncached version.
 
 There are cases in which the product is displayed on the product listing page but becomes unavailable when added to the cart. This may be due to different logistics configurations. Learn more in the article [Which logistics settings can impact the product availability in the cart?](/en/docs/tutorials/which-logistics-settings-can-impact-the-product-availability-in-the-cart).
 
@@ -163,7 +163,7 @@ To create a base price in the VTEX Admin, follow the steps below:
 
 4. Click `X`, or click outside the sidebar, to save the price.
 
-You can also create base prices using a spreadsheet or the Pricing API. For more information, please see the steps described in the article [Adding a base price](/en/docs/tracks/cadastrar-preco-base).
+You can also create base prices using a spreadsheet or the Pricing API. See [Registering a product's base price](/en/docs/tutorials/registering-a-products-base-price).
 
 ## Logistics
 
@@ -194,7 +194,7 @@ By adopting any of the following inventory strategies, you can ensure product av
 
 If [future inventory](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/items/-skuId-/warehouses/-warehouseId-/supplyLots/-supplyLotId-) is configured for the SKU, the supply of this item could take longer than expected. In this period, the product unavailability on the product listing page could be due to a lack of stock.
 
-> ⚠️ If your store has [franchise accounts](/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex), for the inventory of these accounts to be available for sale, the products must be linked to the same [sales channel](/en/docs/tutorials/how-trade-policies-work) used in your storefront.
+> ⚠️ If your store has [franchise accounts](/en/docs/tutorials/what-is-a-franchise-account), those accounts' inventory is available for sale only when the products are linked to the same [sales channel](/en/docs/tutorials/how-trade-policies-work) used in your storefront.
 
 ## CMS
 
@@ -213,7 +213,7 @@ Regardless of which CMS your store uses — Legacy Portal or VTEX IO — you mus
 
     If the icon is blue, it means the binding is correct; you don’t need to do anything.
 
-    If the icon is yellow, there is an error in the binding. In this case, you must follow the steps in the article [Website with error: how to fix it?](/en/faq/website-com-erro-como-ajustar) to correct the error.
+    If the icon is yellow, there is an error in the binding. Follow the steps in [Website with error: how to fix it?](/en/docs/faq/website-with-error-how-to-fix-it).
 
 ### CMS Portal (Legacy)
 

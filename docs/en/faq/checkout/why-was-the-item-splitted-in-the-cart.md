@@ -15,15 +15,15 @@ locale: en
 legacySlug: why-was-the-item-splitted-in-the-cart
 ---
 
-This scenario is presented when more than one item from the same SKU is split into more than one line in the cart. This occurs due to an action called apportionment - that is the division of a value among some items.
+The same SKU can appear on more than one line in the cart. This is **apportionment**: splitting a discount across units.
 
-However, there are scenarios in which the discount amount is indivisible by the number of items, particularly in cases where the SKU has a multiplier unit. So, you need to give different discounts to items of the same SKU for the discount amount to be correct. This ends up assigning different prices, and splitting each unit onto its own line.
+When the discount cannot be divided evenly by the number of units — especially if the SKU uses a multiplier unit — VTEX applies different discounts to units of the same SKU so the total stays exact. Those units then get different prices and appear as separate lines.
 
-The example below helps to understand this concept :
+The example below shows this:
 
 ![Por que o item do carrinho foi separado](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/checkout/why-was-the-item-splitted-in-the-cart_1.jpg)
 
 1. Multiplier unit.
 2. Product price after discount.
-3. Product price with the difference due to the apportionment.
+3. Product price with the difference from apportionment.
 4. Discount applied.

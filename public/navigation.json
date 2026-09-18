@@ -8371,7 +8371,7 @@
             },
             {
               "name": {
-                "en": "Why does my order appear cancelled on the marketplace but is shown as billed on VTEX?",
+                "en": "Why does my order appear canceled on the marketplace but billed on VTEX?",
                 "es": "¿Por qué mi pedido aparece cancelado en el marketplace pero está como facturado en VTEX?",
                 "pt": "Por que meu pedido aparece cancelado no marketplace mas está como faturado na VTEX?"
               },
@@ -8386,7 +8386,7 @@
             },
             {
               "name": {
-                "en": "Why doesn’t the order go to the ‘Sent’ status on the marketplace?",
+                "en": "Why doesn't the order go to Sent on the marketplace?",
                 "es": "¿Por qué el pedido no cambia para el estado \"Enviado\" en el marketplace?",
                 "pt": "Por que o pedido não vai para o status \"Enviado\" no marketplace?"
               },
@@ -8401,7 +8401,7 @@
             },
             {
               "name": {
-                "en": "Why don’t my payment methods appear on the marketplace?",
+                "en": "Why don't my payment methods appear on the marketplace?",
                 "es": "¿Por qué mis medios de pago no aparecen en el marketplace?",
                 "pt": "Por que meus meios de pagamento não aparecem no marketplace?"
               },
@@ -8446,7 +8446,7 @@
             },
             {
               "name": {
-                "en": "Why isn’t my product deactivated on the marketplace?",
+                "en": "Why isn't my product deactivated on the marketplace?",
                 "es": "¿Por qué el producto no es inactivado en el marketplace?",
                 "pt": "Por que meu produto não é inativado no marketplace?"
               },
@@ -8461,7 +8461,7 @@
             },
             {
               "name": {
-                "en": "Why isn’t the order invoiced on the marketplace?",
+                "en": "Why isn't the order invoiced on the marketplace?",
                 "es": "¿Por qué el pedido no factura en el marketplace?",
                 "pt": "Por que o pedido não fatura no marketplace?"
               },
@@ -8612,7 +8612,7 @@
             },
             {
               "name": {
-                "en": "Why am I getting e-mails telling me to revise the settlement of a payment?",
+                "en": "Why am I getting emails telling me to revise the settlement of a payment?",
                 "es": "Por que estoy recibiendo e-mails para revisar la liquidación de un pago?",
                 "pt": "Por que estou recebendo e-mails para revisar a liquidação de um pagamento?"
               },
@@ -8657,7 +8657,7 @@
             },
             {
               "name": {
-                "en": "Why doesn’t the payment method appear on the order on VTEX?",
+                "en": "Why doesn't the payment method appear on the order on VTEX?",
                 "es": "¿Por qué no aparece la forma de pago en el pedido en VTEX?",
                 "pt": "Por que não aparece a forma de pagamento do pedido na VTEX?"
               },
@@ -8717,7 +8717,7 @@
             },
             {
               "name": {
-                "en": "Why was my canceled order charged in the client invoice?",
+                "en": "Why was my canceled order charged on the customer invoice?",
                 "es": "¿Por qué se cobró en la factura del cliente mi pedido cancelado?",
                 "pt": "Por que meu pedido cancelado foi cobrado na fatura do cliente?"
               },
@@ -9187,7 +9187,7 @@
           "children": [
             {
               "name": {
-                "en": "AB Testing: why is it not working (Google Analytics)?",
+                "en": "A/B testing: why isn't it working in Google Analytics?",
                 "es": "Prueba AB: ¿por qué no está funcionando (Google Analytics)?",
                 "pt": "Teste AB: por que não está funcionando (Google Analytics)?"
               },
@@ -9337,7 +9337,7 @@
             },
             {
               "name": {
-                "en": "Why is “Let me know” not showing?",
+                "en": "Why is \"Let me know\" not showing?",
                 "es": "¿Por qué no aparece el \"Avíseme\"?",
                 "pt": "Por que não aparece o \"Avise-me\"?"
               },
@@ -9383,7 +9383,7 @@
             },
             {
               "name": {
-                "en": "Why was my client requested to log in when attempting to finalize their purchase?",
+                "en": "Why was the customer asked to log in when completing a purchase?",
                 "es": "¿Por qué mi cliente tuvo que iniciar sesión al intentar finalizar su compra?",
                 "pt": "Por que foi solicitado que meu cliente fizesse login ao tentar finalizar sua compra?"
               },
@@ -9459,21 +9459,6 @@
             },
             {
               "name": {
-                "en": "Since the product on the list has already been purchased, why does it continue to be available for purchase?",
-                "es": "¿Por qué el producto de la lista ya fue comprado y continua disponible para compra?",
-                "pt": "Por que o produto da lista já foi comprado e continua disponível para a compra?"
-              },
-              "slug": {
-                "en": "since-the-product-on-the-list-has-already-been-purchased-why-does-it-continue-to-be-available-for-purchase",
-                "es": "por-que-o-produto-da-lista-ja-foi-comprado-e-continua-disponivel-para-a-compra",
-                "pt": "por-que-o-produto-da-lista-ja-foi-comprado-e-continua-disponivel-para-a-compra"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "The order was billed in the ERP but remains in the \"Preparing Delivery\" status. What should I do?",
                 "es": "El pedido fue facturado en el ERP pero continúa en el status \"Preparando Entrega\". ¿Que hacer?",
                 "pt": "O pedido foi faturado no ERP mas continua no status \"Preparando Entrega\". O que fazer?"
@@ -9534,7 +9519,7 @@
             },
             {
               "name": {
-                "en": "Why does the hostName in the Message Center JSON display different information from the Account management?",
+                "en": "Why does the hostName in the Message Center JSON display different information from Account?",
                 "es": "¿Por qué el hostName en el JSON del Centro de mensajes muestra información distinta a la de la Gestión de la cuenta?",
                 "pt": "Por que o hostName no JSON da Central de mensagens mostra informação diferente do Gerenciamento da conta?"
               },
@@ -9549,7 +9534,7 @@
             },
             {
               "name": {
-                "en": "Why doesn’t the order status update?",
+                "en": "Why doesn't the order status update?",
                 "es": "¿Por qué el pedido no actualiza el status?",
                 "pt": "Por que o status do pedido não atualiza?"
               },
@@ -9587,6 +9572,21 @@
                 "en": "why-have-not-orders-been-associated-with-a-list",
                 "es": "por-que-pedidos-no-se-asociaron-a-una-lista",
                 "pt": "por-que-pedidos-nao-foram-associados-a-uma-lista"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Why is a product still available after it was purchased on a gift list?",
+                "es": "¿Por qué el producto de la lista ya fue comprado y continua disponible para compra?",
+                "pt": "Por que o produto da lista já foi comprado e continua disponível para a compra?"
+              },
+              "slug": {
+                "en": "since-the-product-on-the-list-has-already-been-purchased-why-does-it-continue-to-be-available-for-purchase",
+                "es": "por-que-o-produto-da-lista-ja-foi-comprado-e-continua-disponivel-para-a-compra",
+                "pt": "por-que-o-produto-da-lista-ja-foi-comprado-e-continua-disponivel-para-a-compra"
               },
               "origin": "",
               "type": "markdown",
@@ -9700,7 +9700,7 @@
             },
             {
               "name": {
-                "en": "I’ve tried to update the freight spreadsheet and an error occurred. What can I do?",
+                "en": "I've tried to update the freight spreadsheet and an error occurred. What can I do?",
                 "es": "Intenté actualizar la plantilla de flete y ocurrió un error. ¿Qué hacer?",
                 "pt": "Tentei atualizar a planilha de frete e recebi um erro. O que fazer?"
               },
@@ -9790,7 +9790,7 @@
             },
             {
               "name": {
-                "en": "Why does the message \"The TimeSpan could not be parsed... \" appear when importing the shipping worksheet?",
+                "en": "Why does the message \"The TimeSpan could not be parsed...\" appear when importing the shipping worksheet?",
                 "es": "¿Por qué aparece el mensaje \"The TimeSpan could not be parsed...\" al importar planilla de flete?",
                 "pt": "Por que aparece a mensagem \"The TimeSpan could not be parsed... \" ao importar planilha de frete?"
               },
@@ -9820,7 +9820,7 @@
             },
             {
               "name": {
-                "en": "Why doesn’t tracking work?",
+                "en": "Why doesn't tracking work?",
                 "es": "¿Por qué no funciona el rastreo?",
                 "pt": "Por que o rastreio não funciona?"
               },
@@ -9881,7 +9881,7 @@
             },
             {
               "name": {
-                "en": "Why is an error returned on access to the store after changing the DNS?",
+                "en": "Why does the store return an error after I change the DNS?",
                 "es": "¿Por qué recibo un error al acceder a la tienda después de configurar el DNS?",
                 "pt": "Por que aparece um erro no acesso à loja ​após virar o DNS​?"
               },

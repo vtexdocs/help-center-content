@@ -15,13 +15,14 @@ locale: en
 legacySlug: why-am-i-unable-to-change-product-information-on-the-marketplace
 ---
 
-The process for approving a product and SKU on the marketplace involves the evaluation and adjustment of all data pertaining to these items, such as name, reference code, product fields, SKU fields etc.
+Approving a product and SKU on the marketplace includes reviewing and adjusting data such as name, reference code, product fields, and SKU fields.
 
-Thus, when a product and its SKUs are accepted and integrated into the catalog of a marketplace, this product then belongs to that marketplace, and no longer to the seller. This means that some marketplaces will not process further changes made to the product, since these products have already been adapted to the marketplace’s catalog.
+After the marketplace accepts the product and SKUs, that catalog belongs to the marketplace, not to the seller. Some marketplaces will not apply later edits from VTEX, because the listing has already been adapted to their catalog.
 
-This is because changes to all checked, changed and accepted data can no longer be made directly by the seller – as this product now belongs to the marketplace. Therefore, the recommended solution is communicating with the marketplace to implement these changes directly on the marketplace.
+The seller cannot change checked and accepted data directly. Contact the marketplace and request the change there.
+
 Exceptions:
 
-- On Walmart, the data can be changed while the product is in the "Rejeitado" status.
+- On Walmart, you can change the data while the product is in `Rejected` status.
 - On Mercado Livre and Buscapé, you can change the data at any time.
-- On NetShoes, you cannot change the product data, but you can change the SKU data.
+- On Netshoes, you cannot change product data, but you can change SKU data.
