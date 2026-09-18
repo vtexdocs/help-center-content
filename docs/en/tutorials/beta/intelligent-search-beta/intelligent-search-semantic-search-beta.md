@@ -3,7 +3,7 @@ title: 'Intelligent Search: Semantic search (Beta)'
 id: 366JCdaoDVz8V3FFZZ2fUD
 status: PUBLISHED
 createdAt: 2025-06-13T14:11:56.694Z
-updatedAt: 2025-10-29T21:46:04.706Z
+updatedAt: 2026-09-14T15:56:36.000Z
 publishedAt: 2025-10-29T21:46:04.706Z
 firstPublishedAt: 2025-06-13T14:15:17.126Z
 contentType: tutorial
@@ -17,7 +17,7 @@ subcategoryId: 23WdCYqmn2V2Z7SDlc14DF
 
 > ℹ️ Semantic search is available exclusively as part of the Search Optimizer Agent, an additional search optimization service.
 > 
-> This feature is in closed beta, and only participating customers can access it. If you're a VTEX client and want to adopt Search Optimizer Agent for your business, contact our [Commercial Support](/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client but are interested in this solution, please complete our [contact form](https://vtex.com/en-us/contact/).
+> This feature is in closed beta, and only participating customers can access it. If you're a VTEX client and want to adopt Search Optimizer Agent for your business, contact our [Commercial Support](https://help.vtex.com/en/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client but are interested in this solution, please complete our [contact form](https://vtex.com/en-us/contact/).
 
 Intelligent Search combines the precision of lexical techniques with the intelligence of semantic search models to provide a relevant and seamless experience that aligns with user intent.
 

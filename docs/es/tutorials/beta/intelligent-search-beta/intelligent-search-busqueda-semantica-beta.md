@@ -3,7 +3,7 @@ title: 'Intelligent Search: búsqueda semántica (beta)'
 id: 366JCdaoDVz8V3FFZZ2fUD
 status: PUBLISHED
 createdAt: 2025-06-13T14:11:56.694Z
-updatedAt: 2025-10-29T21:46:04.706Z
+updatedAt: 2026-09-14T15:56:36.000Z
 publishedAt: 2025-10-29T21:46:04.706Z
 firstPublishedAt: 2025-06-13T14:15:17.126Z
 contentType: tutorial
