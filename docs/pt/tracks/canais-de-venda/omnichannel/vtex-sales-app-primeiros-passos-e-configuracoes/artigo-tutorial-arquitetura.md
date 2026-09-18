@@ -44,14 +44,15 @@ O **Sales App** possui XXX de funcionalidades. Os pré-requisitos e recomendaç�
 
 A [Prateleira Infinita](https://help.vtex.com/pt/docs/tracks/prateleira-infinita) permite aos seus clientes acesso completo ao seu inventário, integrado entre todos os canais de venda. Ou seja, se um cliente estiver em uma loja física, ele poderá comprar um produto do estoque de outras lojas físicas ou ecommerce, e a entrega pode ser realizada a partir de qualquer um dos estoques.
 
-- **Para quem é:** empresas que buscam vendas incrementais, evitando a ruptura de estoque local ao oferecer o catálogo do ecommerce.
+- **Público alvo:** empresas que buscam vendas incrementais, evitando a ruptura de estoque local ao oferecer o catálogo do ecommerce.
 - **O que decidir:** modelo de estoques e arquitetura de lojas, franquias e retirada.
-- **Configuração:** pode ser implementada em lojas que tenham ou não [arquitetura multicanal (Omnichannel)](https://help.vtex.com/pt/docs/tracks/comercio-unificado-101), contas franquia (gestão logística independente) ou multiestoque (lojas como warehouses).
 
 #### Configuração técnica para Prateleira Infinita
 
-- **Sem Omni:** Configure o Sales App na conta principal usando as mesmas políticas comerciais e estoques do e-commerce.  
-- **Com Omni (Multiestoque):** Cadastre cada loja física como um *warehouse* (estoque) na conta principal. Recomendado para quem não precisa de gestão separada de preços por loja.  
+A configuração pode ser implementada em lojas que tenham ou não [arquitetura multicanal (Omnichannel)](https://help.vtex.com/pt/docs/tracks/comercio-unificado-101), contas franquia (gestão logística independente) ou multiestoque (lojas como warehouses).
+
+- **Sem [arquitetura multicanal (Omnichannel)](https://help.vtex.com/pt/docs/tracks/comercio-unificado-101):** configure o **Sales App** na conta principal usando as mesmas políticas comerciais e estoques do ecommerce.  
+- **Com arquitetura multicanal (Omnichannel) (Multiestoque):** cadastre cada loja física como um estoque na conta principal. Recomendado para quem não precisa de gestão separada de preços por loja.  
 - **Com Conta Franquia:** Crie contas franquia para cada loja. Elas herdam o catálogo, mas possuem gestão própria de logística.
 
 Os pré-requisitos para implementar a Prateleira Infinita na sua loja são todos os itens descritos nos tópicos anteriores.
