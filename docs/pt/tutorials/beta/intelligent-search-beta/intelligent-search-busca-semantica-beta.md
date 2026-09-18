@@ -96,18 +96,17 @@ Para lojas Headless ou que usam [FastStore](https://help.vtex.com/pt/docs/tracks
 
 Uma *query string* é o trecho que aparece depois do símbolo `?` no final de uma URL. Ela é usada para enviar informações adicionais para o servidor sem alterar o restante do endereço, no formato `parâmetro=valor`. Quando há mais de um parâmetro, eles são separados pelo símbolo `&`.
 
-Para testar a Busca semântica em uma chamada específica, adicione o parâmetro `semanticRatio` à *query string* da URL de busca, no formato `?semanticRatio={valorPeso}`. Esse parâmetro aceita valores entre `0` e `1`, que definem o peso dado à busca semântica em relação à busca lexical:
+Para testar a Busca semântica em uma chamada específica, adicione o parâmetro `semanticRatio` à *query string* da URL de busca, no formato `?semanticRatio={valorPeso}`. Esse parâmetro aceita valores entre `0` e `1`, que definem o funcionamento da busca:
 
-* `0`: usa apenas busca lexical. Esse também é o comportamento padrão quando o parâmetro não é informado.
-* `1`: usa apenas busca semântica.
-* Valores entre `0` e `1`, como `0.5`: combinam os dois modelos. Quanto mais próximo de `1`, maior o peso dado à busca semântica.
+* `0`: usa apenas a busca lexical. Esse também é o comportamento padrão quando o parâmetro não é informado.
+* `1`: usa apenas a busca semântica.
+* `0.5`: combina os dois modelos. Qualquer valor entre `0` e `1` se comporta como `0.5`.
 
 **Exemplo:**
 
-* Sem Busca semântica:  
+* Sem Busca semântica:
    `https://{accountName}.vtexcommercestable.com.br/api/intelligent-search/v1/product-search?query=leite%20para%20bebe`
-
-* Com Busca semântica:  
+* Com Busca semântica:
    `https://{accountName}.vtexcommercestable.com.br/api/intelligent-search/v1/product-search?query=leite%20para%20bebe&semanticRatio=0.5`
 
 Como o parâmetro é adicionado apenas na URL da chamada de teste, ele não altera a configuração da loja nem afeta outras chamadas. Isso permite comparar as duas versões lado a lado ou usar essa URL em uma ferramenta própria de teste A/B para direcionar parte do tráfego para a versão com Busca semântica.
