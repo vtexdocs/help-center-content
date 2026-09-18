@@ -117,8 +117,6 @@ Antes de instalar o Sales App, você precisa definir os métodos de pagamentos q
       1. Exige integração com sistema externos (PDVs, ERPs) para receber a confirmação do pagamento&nbsp;&nbsp;  
          1. Quando usar: casos de cartão private label, métodos de pagamentos já consolidados na sua loja. Esse modelo está em Closed Beta. Para saber mais procure o time de Sales App.&nbsp;
 
-__________________________________________________________________________________________________________________________
-
 ## Recomendações gerais
 
 - Ativar o módulo **Checkout v6**. Leia o artigo [Como ativar o Checkout v6](/pt/docs/tutorials/ativar-o-checkout-v6) para mais informações.
