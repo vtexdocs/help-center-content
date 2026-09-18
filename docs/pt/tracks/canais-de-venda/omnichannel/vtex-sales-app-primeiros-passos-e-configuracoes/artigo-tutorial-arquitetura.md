@@ -9,6 +9,15 @@ slugEN: XXX
 locale: pt
 ---
 
+Os casos de uso mais frequentes do **Sales App** são:
+
+- Apenas como app para casos de ruptura de estoque.
+- Como primeira opção para vendedores checarem o estoque local e remoto e fecharem compras com mobilidade.
+- Como única ferramenta da loja física.
+- **Atendimento remoto:** vendedores utilizando o app para fechar vendas assistidas via canais digitais.
+- **Eventos e Pop-up Stores:** o Sales App é versátil e pode ser levado para onde seu cliente estiver, como vendas rápidas em feiras ou quiosques temporários.
+
+> ℹ️ Avalie se sua operação precisa de **Extensões** (como para programas de fidelidade, serviços adicionais ou formulários customizados). Note que a funcionalidade de extensões pode exigir requisitos específicos de desenvolvimento. Independente do seu caso de uso, é importante ter em mente que para funcionalidades que o Sales App não oferece nativamente, a capacidade de extensões geralmente pode ser a resposta, permitindo que você ou seu parceiro desenvolva módulos em pontos estratégicos da jornada de vendas, para recursos que são cruciais para estratégia. Acesse a documentação de extensões.
 
 Antes de configurar o **Sales App**, o sucesso da operação depende de uma base sólida de decisões de negócio antes mesmo da configuração técnica. Este artigo apresenta o roteiro para que diferentes perfis de clientes entendam o que precisam decidir e configurar.
 
@@ -21,20 +30,6 @@ Antes de iniciar a implementação, sua empresa precisa passar por estas quatro 
 - **Definições de Operação (Engajamento):** Como os vendedores irão usar o app? Defina os níveis de acesso, quais funcionalidades estarão liberadas e como será o plano de treinamento. Um ponto crucial é o modelo de comissionamento para lojas: em operações omnichannel, o engajamento depende de como a venda feita na loja (mas entregue pelo e-commerce) será creditada para motivar a equipe.  
 - **Definições de Pagamento:** Decida quais bandeiras e tipos de pagamento (PIX, Cartão, Link, Dinheiro) serão aceitos. Lembre-se que isso pode exigir a contratação e homologação de provedores e adquirentes específicos para a operação física.
 - **Suporte Especializado:** Se a sua arquitetura for complexa ou exigir recursos customizados, não hesite em acionar o time de Professional Services da VTEX para garantir a segurança e eficiência da implementação.
-
-### Casos de uso
-
-Definir como quer usar o Sales App é crucial para o próximo passo. Os casos de uso mais frequentes são:
-
-- Apenas como app para casos de ruptura de estoque.
-- Como primeira opção para vendedores checarem o estoque local e remoto e fecharem compras com mobilidade.
-- Como única ferramenta da loja física.
-- **Atendimento remoto:** vendedores utilizando o app para fechar vendas assistidas via canais digitais.
-- **Eventos e Pop-up Stores:** o Sales App é versátil e pode ser levado para onde seu cliente estiver, como vendas rápidas em feiras ou quiosques temporários.
-
-> ℹ️ Certifique-se de seguir o **Playbook para Eventos** da VTEX para evitar surpresas operacionais.  
-
-Avalie se sua operação precisa de **Extensões** (como para programas de fidelidade, serviços adicionais ou formulários customizados). Note que a funcionalidade de extensões pode exigir requisitos específicos de desenvolvimento. Independente do seu caso de uso, é importante ter em mente que para funcionalidades que o Sales App não oferece nativamente, a capacidade de extensões geralmente pode ser a resposta, permitindo que você ou seu parceiro desenvolva módulos em pontos estratégicos da jornada de vendas, para recursos que são cruciais para estratégia. Acesse a documentação de extensões.
 
 ### Definição de arquitetura Técnica
 
