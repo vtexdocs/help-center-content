@@ -21,11 +21,11 @@ The new [My Account](/en/docs/tutorials/how-my-account-works) is already install
 
 This means that My Account already makes it possible for your store to customize when needed, before the app's bulk migration to production, through the link shown below:
 
-[https://{{AccountName}}.myvtex.com/_secure/account?workspace=myaccounttest#/profile](https://{{AccountName}}.myvtex.com/_secure/account?workspace=myaccounttest#/profile)
+[https://{{accountName}}.myvtex.com/_secure/account?workspace=myaccounttest#/profile](https://{{accountName}}.myvtex.com/_secure/account?workspace=myaccounttest#/profile)
 
 To customize the page, you need to:
 
-1. Access the link, replacing the `{{AccountName}}` value with the name of your VTEX account.
+1. Access the link, replacing the `{{accountName}}` value with the name of your VTEX account.
 2. Authenticate yourself using the __Receive email access code__ or __Access using email and password__ option
 3. Enter __My Account__, located in the upper left side of your screen next to __My Cart__
 

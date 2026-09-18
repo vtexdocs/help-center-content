@@ -74,7 +74,7 @@ Depois de preencher a planilha, acesse __Integrações__ no menu do Admin:
 3. Em seguida, clique em __Upload de Mapeamento__.
 4. Escolha a planilha com os dados e clique em __Enviar Arquivo__.
 
-> ⚠️ **OBS:** caso a planilha tenha mais de 10 MB, será necessário separar o conteúdo da planilha em planihas menores de modo a reduzir o tamanho do arquivo.
+> ⚠️ Caso a planilha tenha mais de 10 MB, será necessário separar o conteúdo da planilha em planihas menores de modo a reduzir o tamanho do arquivo.
 
 Com o upload concluído, a integração envia automaticamente todos os produtos da planilha para a Netshoes.
 

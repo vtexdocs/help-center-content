@@ -41,7 +41,7 @@ Nesse artigo contém:
  6. Selecione a `quantidade`do SKU.    
  7. Determine o `Preço`. Este campo é aberto, e opcional.  
 
-	> O simulador não leva em consideração o preço cadastrado no módulo Catálogo, portanto, ele não considera possíveis acréscimos nos valores do frete de acordo com o preço do carrinho e promoções de SKUs, o que pode resultar em um custo diferente do valor real do item na sua loja. Para que o simulador realize um cálculo preciso, sugerimos que você insira manualmente o valor final do SKU com as promoções aplicadas.  
+    > O simulador não leva em consideração o preço cadastrado no módulo Catálogo, portanto, ele não considera possíveis acréscimos nos valores do frete de acordo com o preço do carrinho e promoções de SKUs, o que pode resultar em um custo diferente do valor real do item na sua loja. Para que o simulador realize um cálculo preciso, sugerimos que você insira manualmente o valor final do SKU com as promoções aplicadas.  
 
  8. Clique no ícone `+` para adicionar mais de um produto na simulação. 
 Se desejar, pode preencher o box `Simular itens individualmente`.    

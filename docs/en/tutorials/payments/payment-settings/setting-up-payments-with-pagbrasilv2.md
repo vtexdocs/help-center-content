@@ -24,7 +24,7 @@ To configure PagBrasilV2, follow the steps below:
 3. Type the name __PagBrasil-v2__ in the search bar and click on the name of the provider.
 4. In __Provider Authorization__, fill in the __App Key__ and __App Token__ fields with your PagBrasilV2 account information.
 5. If you wish to modify the identification name to be displayed for the PagBrasilV2 provider on the VTEX Admin screen, enter the information in the __Name__ field in __Basic Information__.
-6. In __External Service Url__, enter the external URL that will be associated with `/pvt/payments?an={AccountName}`.
+6. In __External Service Url__, enter the external URL that will be associated with `/pvt/payments?an={accountName}`.
 7. In __Transparent Checkout__, fill in the information as instructed by the PagBrasilV2 provider.
 8. In __SoftDescriptor__, indicate what information should appear to identify the transaction carried out in your store.
 9. In __Captura antecipada__ (Early capture), choose how long you want the capture to be carried out (after transaction approval and anti-fraud analysis). This function can also be deactivated.

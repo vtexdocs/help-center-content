@@ -62,7 +62,7 @@ The affiliate ID will be used in the **Prefix for Imported Orders - Affiliate ID
 
 To create a feed, follow the steps below:  
 
-1.In the VTEX Admin, access **Apps > Installed Apps > Purchase Feed - Configuration List.**  
+1. In the VTEX Admin, access **Apps > Installed Apps > Purchase Feed - Configuration List.**  
 2. Click the `Create new configuration` button.   
 3. Fill in the following fields:  
    - **ShoppingFeed Store ID:** ID of the Shopping Feed store you wish to connect. This data was defined in the platform configuration.  

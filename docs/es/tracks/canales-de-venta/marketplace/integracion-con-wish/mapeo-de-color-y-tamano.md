@@ -58,7 +58,7 @@ Note que en VTEX el nombre de los campos es "Colores" y "Tamaños", pero Wish lo
 En VTEX, los productos de esta categoría poseen dos colores posibles: rojo y hielo. 
 Debe escogerse el color disponible más cercano que, en el caso de Wish, "Hielo" podría ser "White/Ice Glaze" (basado en [lista de colores aceptados](https://merchant.wish.com/documentation/colors)). Y "Rojo" podría ser "Red".
 
-> ℹ️ OBS: la cabecera de la tabla debe rellenarse exactamente como está en el siguiente ejemplo. Recuerde no agregar caracteres especiales como enter o espacio al rellenar esta tabla.
+> ℹ️ La cabecera de la tabla debe rellenarse exactamente como está en el siguiente ejemplo. Recuerde no agregar caracteres especiales como enter o espacio al rellenar esta tabla.
 
 ![PT - Tabela Wish](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/canales-de-venta/marketplace/integracion-con-wish/mapeo-de-color-y-tamano_1.png)
 
