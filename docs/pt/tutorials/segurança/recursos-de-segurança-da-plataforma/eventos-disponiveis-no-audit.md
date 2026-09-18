@@ -1,7 +1,7 @@
 ---
 title: 'Eventos disponíveis no Audit'
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2026-09-14T00:00:00.000Z
+updatedAt: 2026-09-17T00:00:00.000Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
@@ -30,6 +30,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 * [VTEX ID](#vtex-id)
 * [Master Data](#master-data)
 * [Headless CMS (Legacy)](#headless-cms)
+* [CMS](#cms)
 * [Gerenciamento de sellers](#gerenciamento-de-sellers)
 * [Site Editor](#site-editor)
 * [Ad Network](#ad-network)
@@ -390,6 +391,29 @@ Na coluna **Ação**, todos os eventos do Headless CMS (Legacy) também apresent
 * **VARIANT_ID:** código identificador único da versão do conteúdo.
 * **WORKSPACE:** workspace em que a alteração foi realizada.
 
+## CMS
+
+| Ação | Descrição do evento | Detalhes do evento |
+|---|---|---|
+| entry.delete | Exclusão de uma entry no Content Platform. | ID da entry. |
+| branch.create | Criação de um branch no Content Platform. | ID do branch. |
+| branch.update | Atualização de um branch no Content Platform. | ID do branch. |
+| branch.delete | Exclusão de um branch no Content Platform. | ID do branch. |
+| branch.merge | Merge de um branch no Content Platform. | ID do branch. |
+| branch.merge_scheduled | Agendamento do merge de um branch no Content Platform. | ID do branch. |
+| branch.merge_unscheduled | Cancelamento do merge agendado de um branch no Content Platform. | ID do branch. |
+| store.create | Criação de uma store no Content Platform. | ID da store. |
+| store.update | Atualização de uma store no Content Platform. | ID da store. |
+| store.default_locale_change | Alteração do locale padrão de uma store no Content Platform. | ID da store e locale. |
+| store.locale.create | Criação de um locale em uma store no Content Platform. | ID da store e locale. |
+| store.locale.update | Atualização de um locale em uma store no Content Platform. | ID da store e locale. |
+| store.locale.activate | Ativação de um locale em uma store no Content Platform. | ID da store e locale. |
+| store.locale.deactivate | Desativação de um locale em uma store no Content Platform. | ID da store e locale. |
+| media.upload | Upload de um arquivo de mídia no Content Platform. | ID da mídia. |
+| media.create | Criação de um asset de mídia no Content Platform. | ID da mídia. |
+| media.delete | Exclusão de um asset de mídia no Content Platform. | ID da mídia. |
+| schema.publish | Publicação de um schema no Schema Registry do Content Platform. | ID do schema. |
+
 ## Gerenciamento de sellers
 
 | Ação | Descrição do evento | Detalhes do evento |
@@ -477,4 +501,6 @@ Na coluna **Ação**, todos os eventos do Headless CMS (Legacy) também apresent
 | DelegationCreated | Criação de uma delegação que concede a um usuário permissão para agir em nome de outro usuário da mesma unidade organizacional, durante um período definido. | ID da delegação, ID da unidade organizacional, ID do usuário original, ID do usuário delegado e período. |
 | DelegationUpdated | Atualização do período de uma delegação. | ID da delegação e período. |
 | DelegationRevoked | Revogação de uma delegação antes da data de término. | ID da delegação. |
+| ImpersonationSuccess | Impersonação bem-sucedida de um usuário por meio de uma troca de token on-behalf-of (OBO). | ID do usuário original, ID do usuário delegado, tipo de impersonação, ID da delegação e ID da unidade organizacional. |
+| ImpersonationFailed | Tentativa de impersonação de um usuário, por meio de uma troca de token on-behalf-of (OBO), que falhou. | ID do usuário original, ID do usuário delegado, tipo de impersonação, ID da delegação, ID da unidade organizacional e motivo da falha. |
 
