@@ -13,19 +13,14 @@ Antes de configurar o **Sales App**, o sucesso da operação depende de uma base
 
 Antes de iniciar a implementação, é importante que sua empresa passe por estas quatro etapas decisórias:
 
-- **Casos de uso:** principais situações nas quais o **Sales App** será utiizado.
-- **Definições da estrutura de venda:** qual será a estrutura destinada para o **Sales App**, incluindo:
-  - Se existem ou não contas franquias associadas à sua conta principal.
-  - Como será a estrutura de lojas.
-  - Quais centros de distribuição (CDs) estarão ativos.
-  - Quais estoques estarão ativos.
-- **Definação de política comercial:** em uso e se haverá oferta de produtos de marketplace (3P). É vital estabelecer quais estoques ficarão disponíveis para o vendedor e configurá-los corretamente.  
-- **Definições de Operação (Engajamento):** definir como os vendedores irão usar o app. Quais serão os níveis de acesso, quais funcionalidades estarão liberadas e como será o plano de treinamento. Um ponto crucial é o modelo de comissionamento para lojas: em operações omnichannel, o engajamento depende de como a venda feita na loja (mas entregue pelo ecommerce) será creditada para motivar a equipe.  
-- **Definições de pagamento:** decida quais bandeiras e tipos de pagamento (PIX, Cartão, Link, Dinheiro) serão aceitos. Lembre-se que isso pode exigir a contratação e homologação de provedores e adquirentes específicos para a operação física.
+- **Definir os casos de uso do Sales App:** principais situações nas quais o aplicativo será utiizado.
+- **Definir a arquitetura técnica:** qual será a estrutura destinada para o **Sales App**, incluindo se existem contas franquias associadas à conta principal, quais políticas comerciais serão utilizadas, quais estoques estarão ativos e quais centros de distribuição (CDs) estarão ativos.
+- **Definir a operação de vendas:** definir como os vendedores irão usar o app. Quais serão os níveis de acesso, quais funcionalidades estarão liberadas e como será o plano de treinamento. Um ponto crucial é o modelo de comissionamento para lojas: em operações omnichannel, o engajamento depende de como a venda feita na loja (mas entregue pelo ecommerce) será creditada para motivar a equipe.  
+- **Definir as configurações de pagamento:** decida quais bandeiras e tipos de pagamento (PIX, Cartão, Link, Dinheiro) serão aceitos. Lembre-se que isso pode exigir a contratação e homologação de provedores e adquirentes específicos para a operação física.
 
 > ℹ️ Se a arquitetura da sua conta for complexa ou exigir recursos customizados, para obter mais eficiência e garantir a segurança na implementação, considere contratar o time de Professional Services da VTEX.
 
-## Casos de uso do VTEX Sales App
+## Definir os casos de uso do Sales App
 
 Os casos de uso mais frequentes do **Sales App** são:
 
@@ -37,19 +32,13 @@ Os casos de uso mais frequentes do **Sales App** são:
 
 > ℹ️ Se você tem um caso de uso específico ou quer acelerar seu faturamento com vendas assistidas, **abra um ticket no suporte**. Nossa equipe ajudará você a entender como o Sales App pode alavancar o seu negócio.
 
-## Extensibilidade no VTEX Sales App
+### Extensibilidade no VTEX Sales App
 
 Avalie se sua operação precisa de **Extensões** (como para programas de fidelidade, serviços adicionais ou formulários customizados). Note que a funcionalidade de extensões pode exigir requisitos específicos de desenvolvimento. Independente do seu caso de uso, é importante ter em mente que para funcionalidades que o Sales App não oferece nativamente, a capacidade de extensões geralmente pode ser a resposta, permitindo que você ou seu parceiro desenvolva módulos em pontos estratégicos da jornada de vendas, para recursos que são cruciais para estratégia. Acesse a documentação de extensões.
 
-## Definições Fundamentais de Projeto
+## Definir a arquitetura técnica
 
-
-
-### Definição de arquitetura Técnica
-
-
-
-#### A. Prateleira Infinita (Endless Aisle)
+### A. Prateleira Infinita (Endless Aisle)
 
 **Para quem é:** Empresas que buscam vendas incrementais, evitando a ruptura de estoque local ao oferecer o catálogo do e-commerce.
 
@@ -63,7 +52,7 @@ Avalie se sua operação precisa de **Extensões** (como para programas de fidel
 * **Com Omni (Multiestoque):** Cadastre cada loja física como um *warehouse* (estoque) na conta principal. Recomendado para quem não precisa de gestão separada de preços por loja.  
 * **Com Conta Franquia:** Crie contas franquia para cada loja. Elas herdam o catálogo, mas possuem gestão própria de logística.
 
-#### B. Estoque Local e Carrinhos Mistos (Carry Out)
+### B. Estoque Local e Carrinhos Mistos (Carry Out)
 
 **Para quem é:** Lojas que já possuem o ship from store habilitado ou que  querem permitir que o cliente "leve agora" o produto ou misture itens de retirada e entrega no mesmo pedido.
 
@@ -78,7 +67,7 @@ Avalie se sua operação precisa de **Extensões** (como para programas de fidel
 * **Faturamento:** Integre com o sistema de Nota Fiscal (NFC-e/SAT) via PDV ou ERP para permitir a saída imediata do produto, por meio do protocolo de integração.
 * **Conciliação:** Ajuste sistêmico e operacional para garantir o fluxo correto de faturamento de acordo com suas definições junto ao financeiro.
 
-#### C. Ferramenta Única de Venda (POS-like)
+### C. Ferramenta Única de Venda (POS-like)
 
 **Para quem é:** Operações que desejam substituir o PDV tradicional pelo Sales App para 100% das vendas.
 
@@ -91,7 +80,7 @@ Avalie se sua operação precisa de **Extensões** (como para programas de fidel
 
 **Extensões:** Se você possui casos como venda de serviços adicionais, programas de fidelidade, ou quer trazer alguma informação da sua operação para dentro da jornada do Sales App, considere o uso de Extensões \[Link\], permitindo que seu time ou parceiros desenvolvam módulos específicos integrados à jornada.&nbsp;
 
-### Definições de Operação
+## Definir a operação de vendas
 
 1. Para acompanhar a performance das vendas de cada colaborador e loja, você pode:  
    1. Acompanhar pelo próprio Sales App, ativando a performance de vendas e recomendando ao seus colaboradores acompanhem pelo próprio app suas métricas básica  
@@ -107,10 +96,10 @@ Avalie se sua operação precisa de **Extensões** (como para programas de fidel
    4. Visualizar a sua performance de vendas  
    5. Visualizar a performance de vendas dos demais vendedores
 
-**Definições de Pagamento
+## Definir as configurações de pagamento
 
-5. Antes de instalar o Sales App, você precisa definir os métodos de pagamentos que irá habilitar no seu fluxo. Importante que parte desses fluxos;  
-6. **Definições de Pagamento:**
+Antes de instalar o Sales App, você precisa definir os métodos de pagamentos que irá habilitar no seu fluxo. Importante que parte desses fluxos;  
+
    1. Irá operar com social selling / link compartilhado?&nbsp;  
       1. Esse método utiliza o checkout do seu ecommerce e deve ser configurado seguindo o tutorial \[link\]  
    2. Irá operar com PIX?  
