@@ -72,7 +72,7 @@ A configuração Além disso, é necessário integrar o ERP para que o inventár
 - **Faturamento:** integre o sistema de faturamente com o de Nota Fiscal (NFC-e/SAT) via ponto de venda (PDV) ou ERP para permitir a saída imediata do produto por meio do protocolo de integração.
 - **Conciliação:** ajuste o sistema e operacional de conciliação para garantir o fluxo correto de faturamento, de acordo com suas definições junto ao financeiro.
 
-### C. Ferramenta Única de Venda (POS-like)
+### Ferramenta Única de Venda (POS-like)
 
 **Para quem é:** Operações que desejam substituir o PDV tradicional pelo Sales App para 100% das vendas.
 
@@ -118,15 +118,6 @@ Antes de instalar o Sales App, você precisa definir os métodos de pagamentos q
          1. Quando usar: casos de cartão private label, métodos de pagamentos já consolidados na sua loja. Esse modelo está em Closed Beta. Para saber mais procure o time de Sales App.&nbsp;
 
 __________________________________________________________________________________________________________________________
-
-### VTEX Sales App integrado ao PDV
-
-Esse é o recurso que permite usar o VTEX Sales App [integrado aos pontos de venda](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/5XWo7q35jkDDq3PxUs1EVi) de suas lojas físicas.
-
-Pré-requisitos para implementar a integração entre o VTEX Sales App e o PDV:
-
-- Todos os pré-requisitos descritos nos tópicos anteriores, inclusive os de [Prateleira Infinita](#prateleira-infinita), [Ship from Store e Pontos de retirada](#ship-from-store-e-pontos-de-retirada).
-- Integração com um sistema de Nota Fiscal, conforme descrito em [Faturamento](#faturamento).
 
 ## Recomendações gerais
 
