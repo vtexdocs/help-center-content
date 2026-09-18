@@ -88,7 +88,7 @@ A continuación se listan las principales causas de indisponibilidad del product
 
 > ℹ️ Los escenarios antes mencionados deben considerarse en el contexto de venta. Si solo hay una política de envío elegible para el envío y las características del producto no cumplen con las condiciones de la transportadora, no se encontrará ninguna ruta de envío válida y el producto se mostrará como indisponible.
 
-Otros ajustes de la transportadora que pueden afectar la disponibilidad del producto pueden ser el peso y volumen de los ítems según se describe a continuación.
+Otros ajustes de la transportadora que pueden afectar la disponibilidad del producto están relacionados con el peso y el volumen de los ítems, como se detalla a continuación.
 
 ### Dimensiones y factor volumétrico de peso
 
