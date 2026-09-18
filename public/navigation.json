@@ -38788,6 +38788,21 @@
               "origin": "",
               "type": "markdown",
               "children": []
+            },
+            {
+              "name": {
+                "en": "vtex settings set (CLI) returns 403 even for account admins — no License Manager resource grants the required permission",
+                "es": "La configuración de vtex (CLI) devuelve un error 403 incluso para los administradores de cuenta: ningún recurso del Administrador de licencias otorga el permiso requerido.",
+                "pt": "A configuração de vtex (CLI) retorna 403 mesmo para administradores de conta — nenhum recurso do Gerenciador de Licenças concede a permissão necessária."
+              },
+              "slug": {
+                "en": "vtex-settings-set-cli-returns-403-even-for-account-admins-no-license-manager-resource-grants-the-required-permission",
+                "es": "la-configuracion-de-vtex-cli-devuelve-un-error-403-incluso-para-los-administradores-de-cuenta-ningun-recurso-del-administrador-de-licencias-otorga-el-permiso-requerido",
+                "pt": "a-configuracao-de-vtex-cli-retorna-403-mesmo-para-administradores-de-conta-nenhum-recurso-do-gerenciador-de-licencas-concede-a-permissao-necessaria"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -42333,6 +42348,21 @@
             },
             {
               "name": {
+                "en": "Product form displays outdated user information in the Admin for last edit across Catalog",
+                "es": "El formulario del producto muestra información de usuario desactualizada en el panel de administración para la última edición en todo el catálogo.",
+                "pt": "O formulário do produto exibe informações de usuário desatualizadas no painel de administração, referentes à última edição em todo o catálogo."
+              },
+              "slug": {
+                "en": "product-form-displays-outdated-user-information-in-the-admin-for-last-edit-across-catalog",
+                "es": "el-formulario-del-producto-muestra-informacion-de-usuario-desactualizada-en-el-panel-de-administracion-para-la-ultima-edicion-en-todo-el-catalogo",
+                "pt": "o-formulario-do-produto-exibe-informacoes-de-usuario-desatualizadas-no-painel-de-administracao-referentes-a-ultima-edicao-em-todo-o-catalogo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product Image on admin changes with more than 70 skus.",
                 "es": "La imagen del producto en admin cambia con más de 70 skus.",
                 "pt": "A imagem do produto no admin muda com mais de 70 skus."
@@ -43910,6 +43940,21 @@
             },
             {
               "name": {
+                "en": "\"Choose products\" button on the empty cart page ignores the store's rootPath",
+                "es": "El botón \"Elegir productos\" en la página del carrito vacío ignora la ruta raíz de la tienda.",
+                "pt": "O botão \"Escolher produtos\" na página do carrinho vazio ignora o caminho raiz da loja."
+              },
+              "slug": {
+                "en": "choose-products-button-on-the-empty-cart-page-ignores-the-stores-rootpath",
+                "es": "el-boton-elegir-productos-en-la-pagina-del-carrito-vacio-ignora-la-ruta-raiz-de-la-tienda",
+                "pt": "o-botao-escolher-produtos-na-pagina-do-carrinho-vazio-ignora-o-caminho-raiz-da-loja"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "\"Go to payment\" button doesn't work in delivery split when switching between Delivery and Pick up options",
                 "es": "El botón «Ir al pago» no funciona en la división del envío al cambiar entre las opciones de entrega y recogida",
                 "pt": "O botão \"Prosseguir para o pagamento\" não funciona na divisão da entrega ao alternar entre as opções de Entrega e Retirada"
@@ -44060,6 +44105,21 @@
             },
             {
               "name": {
+                "en": "Alert \"Freight value has changed\" appears even when the value remains the same",
+                "es": "La alerta \"El valor del flete ha cambiado\" aparece incluso cuando el valor permanece igual.",
+                "pt": "O alerta \"O valor do frete foi alterado\" aparece mesmo quando o valor permanece o mesmo."
+              },
+              "slug": {
+                "en": "alert-freight-value-has-changed-appears-even-when-the-value-remains-the-same",
+                "es": "la-alerta-el-valor-del-flete-ha-cambiado-aparece-incluso-cuando-el-valor-permanece-igual",
+                "pt": "o-alerta-o-valor-do-frete-foi-alterado-aparece-mesmo-quando-o-valor-permanece-o-mesmo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Alert for fill the scheduled delivery selection appears only once",
                 "es": "La alerta para llenar la selección de entrega programada aparece sólo una vez",
                 "pt": "Alerta para preencher a seleção de entrega programada aparece apenas uma vez"
@@ -44083,6 +44143,21 @@
                 "en": "api-to-list-pickup-points-does-not-return-additionalinfo-field",
                 "es": "la-api-para-listar-los-puntos-de-recogida-no-devuelve-el-campo-additionalinfo",
                 "pt": "api-para-listar-pontos-de-coleta-nao-retorna-campo-de-informacoes-adicionais"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Argentine mobile phone numbers are shown and saved incorrectly",
+                "es": "Los números de teléfono móvil argentinos se muestran y guardan incorrectamente.",
+                "pt": "Os números de telefone celular argentinos são exibidos e salvos incorretamente."
+              },
+              "slug": {
+                "en": "argentine-mobile-phone-numbers-are-shown-and-saved-incorrectly",
+                "es": "los-numeros-de-telefono-movil-argentinos-se-muestran-y-guardan-incorrectamente",
+                "pt": "os-numeros-de-telefone-celular-argentinos-sao-exibidos-e-salvos-incorretamente"
               },
               "origin": "",
               "type": "markdown",
@@ -44203,6 +44278,36 @@
                 "en": "button-to-see-more-pickup-points-not-being-presented-in-the-list",
                 "es": "el-boton-para-ver-mas-puntos-de-recogida-no-aparece-en-la-lista",
                 "pt": "botao-para-ver-mais-pontos-de-retirada-que-nao-aparecem-na-lista"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Buyer sees a generic error instead of the order confirmation screen, and the order was created",
+                "es": "El comprador ve un error genérico en lugar de la pantalla de confirmación del pedido y el pedido se creó.",
+                "pt": "O comprador vê uma mensagem de erro genérica em vez da tela de confirmação do pedido, e o pedido foi criado."
+              },
+              "slug": {
+                "en": "buyer-sees-a-generic-error-instead-of-the-order-confirmation-screen-and-the-order-was-created",
+                "es": "el-comprador-ve-un-error-generico-en-lugar-de-la-pantalla-de-confirmacion-del-pedido-y-el-pedido-se-creo",
+                "pt": "o-comprador-ve-uma-mensagem-de-erro-generica-em-vez-da-tela-de-confirmacao-do-pedido-e-o-pedido-foi-criado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Buyer unintentionally purchases from two different pickup points",
+                "es": "El comprador realiza compras involuntariamente en dos puntos de recogida diferentes.",
+                "pt": "O comprador, sem intenção, efetua compras em dois pontos de coleta diferentes."
+              },
+              "slug": {
+                "en": "buyer-unintentionally-purchases-from-two-different-pickup-points",
+                "es": "el-comprador-realiza-compras-involuntariamente-en-dos-puntos-de-recogida-diferentes",
+                "pt": "o-comprador-sem-intencao-efetua-compras-em-dois-pontos-de-coleta-diferentes"
               },
               "origin": "",
               "type": "markdown",
@@ -44353,6 +44458,36 @@
                 "en": "cart-parameter-ignoreprofiledata-reverted-to-false-after-shopper-signs-out-in-checkout",
                 "es": "el-parametro-ignoreprofiledata-del-carrito-vuelve-a-establecerse-en-false-despues-de-que-el-comprador-cierre-sesion-durante-el-proceso-de-pago",
                 "pt": "o-parametro-ignoreprofiledata-do-carrinho-volta-a-ser-definido-como-false-apos-o-cliente-encerrar-a-sessao-durante-o-checkout"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Cart shipping preview stops working after items are removed and added back by the storefront",
+                "es": "La vista previa del envío del carrito deja de funcionar después de que la tienda elimina y vuelve a agregar artículos.",
+                "pt": "A pré-visualização do frete do carrinho para de funcionar depois que os itens são removidos e adicionados novamente pela loja."
+              },
+              "slug": {
+                "en": "cart-shipping-preview-stops-working-after-items-are-removed-and-added-back-by-the-storefront",
+                "es": "la-vista-previa-del-envio-del-carrito-deja-de-funcionar-despues-de-que-la-tienda-elimina-y-vuelve-a-agregar-articulos",
+                "pt": "a-previsualizacao-do-frete-do-carrinho-para-de-funcionar-depois-que-os-itens-sao-removidos-e-adicionados-novamente-pela-loja"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Cart shows an error after items are added and removed repeatedly (cart data out of sync)",
+                "es": "El carrito muestra un error después de agregar y eliminar artículos repetidamente (los datos del carrito no están sincronizados).",
+                "pt": "O carrinho exibe um erro após itens serem adicionados e removidos repetidamente (dados do carrinho dessincronizados)."
+              },
+              "slug": {
+                "en": "cart-shows-an-error-after-items-are-added-and-removed-repeatedly-cart-data-out-of-sync",
+                "es": "el-carrito-muestra-un-error-despues-de-agregar-y-eliminar-articulos-repetidamente-los-datos-del-carrito-no-estan-sincronizados",
+                "pt": "o-carrinho-exibe-um-erro-apos-itens-serem-adicionados-e-removidos-repetidamente-dados-do-carrinho-dessincronizados"
               },
               "origin": "",
               "type": "markdown",
@@ -44743,6 +44878,21 @@
                 "en": "checkout-pipeline-doesnt-update-taxes-considering-the-correct-seller-when-merging-cart-information",
                 "es": "el-proceso-de-pago-no-actualiza-los-impuestos-teniendo-en-cuenta-el-vendedor-correcto-al-combinar-la-informacion-del-carrito",
                 "pt": "o-fluxo-de-checkout-nao-atualiza-os-impostos-considerando-o-vendedor-correto-ao-consolidar-as-informacoes-do-carrinho"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Checkout shipping step does not advance to payments step in Argentina",
+                "es": "En Argentina, el paso de envío al finalizar la compra no avanza al paso de pago.",
+                "pt": "Na Argentina, a etapa de finalização da compra relacionada ao envio não avança para a etapa de pagamento."
+              },
+              "slug": {
+                "en": "checkout-shipping-step-does-not-advance-to-payments-step-in-argentina",
+                "es": "en-argentina-el-paso-de-envio-al-finalizar-la-compra-no-avanza-al-paso-de-pago",
+                "pt": "na-argentina-a-etapa-de-finalizacao-da-compra-relacionada-ao-envio-nao-avanca-para-a-etapa-de-pagamento"
               },
               "origin": "",
               "type": "markdown",
@@ -45223,6 +45373,21 @@
                 "en": "delivery-method-selector-does-not-appear-in-some-scenarios",
                 "es": "el-selector-de-metodo-de-entrega-no-aparece-en-algunos-escenarios",
                 "pt": "o-seletor-do-metodo-de-entrega-nao-aparece-em-alguns-cenarios"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Delivery options and prices are not always shown in Shopping gift list",
+                "es": "Las opciones y los precios de envío no siempre se muestran en la lista de regalos de la compra.",
+                "pt": "As opções e os preços de entrega nem sempre são exibidos na lista de presentes."
+              },
+              "slug": {
+                "en": "delivery-options-and-prices-are-not-always-shown-in-shopping-gift-list",
+                "es": "las-opciones-y-los-precios-de-envio-no-siempre-se-muestran-en-la-lista-de-regalos-de-la-compra",
+                "pt": "as-opcoes-e-os-precos-de-entrega-nem-sempre-sao-exibidos-na-lista-de-presentes"
               },
               "origin": "",
               "type": "markdown",
@@ -46055,6 +46220,21 @@
             },
             {
               "name": {
+                "en": "No stores shown on the pickup map when searching by street name only",
+                "es": "No se muestran tiendas en el mapa de recogida al buscar solo por nombre de calle.",
+                "pt": "Nenhuma loja é exibida no mapa de retirada ao pesquisar apenas pelo nome da rua."
+              },
+              "slug": {
+                "en": "no-stores-shown-on-the-pickup-map-when-searching-by-street-name-only",
+                "es": "no-se-muestran-tiendas-en-el-mapa-de-recogida-al-buscar-solo-por-nombre-de-calle",
+                "pt": "nenhuma-loja-e-exibida-no-mapa-de-retirada-ao-pesquisar-apenas-pelo-nome-da-rua"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Null values in deliverySlaInMinutes object for same day scheduled delivery",
                 "es": "Valores nulos en el objeto deliverySlaInMinutes para la entrega programada en el mismo día",
                 "pt": "Valores nulos no objeto deliverySlaInMinutes para entrega programada para o mesmo dia"
@@ -46086,8 +46266,8 @@
             {
               "name": {
                 "en": "Order cannot be created when seller has a different Country Code",
-                "es": "No se puede crear un pedido si el vendedor tiene un código de país diferente",
-                "pt": "Não é possível criar um pedido quando o vendedor possui um código de país diferente"
+                "es": "No se puede crear un pedido si el vendedor tiene un código de país diferente.",
+                "pt": "Não é possível criar um pedido quando o vendedor possui um código de país diferente."
               },
               "slug": {
                 "en": "order-cannot-be-created-when-seller-has-a-different-country-code",
@@ -47075,6 +47255,21 @@
             },
             {
               "name": {
+                "en": "Shipping cost calculation button has to be clicked twice",
+                "es": "El botón de cálculo del costo de envío debe pulsarse dos veces.",
+                "pt": "O botão de cálculo do custo de envio precisa ser clicado duas vezes."
+              },
+              "slug": {
+                "en": "shipping-cost-calculation-button-has-to-be-clicked-twice",
+                "es": "el-boton-de-calculo-del-costo-de-envio-debe-pulsarse-dos-veces",
+                "pt": "o-botao-de-calculo-do-custo-de-envio-precisa-ser-clicado-duas-vezes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Shipping options are not shown in the cart when there is scheduled delivery and Lean Shipping activated",
                 "es": "Las opciones de envío no se muestran en el carrito cuando hay una entrega programada y la función «Lean Shipping» está activada",
                 "pt": "As opções de envio não são exibidas no carrinho quando há entrega programada e o Lean Shipping está ativado"
@@ -47113,6 +47308,21 @@
                 "en": "shipping-preview-does-not-use-sla-name-for-display-in-ui",
                 "es": "la-vista-previa-de-los-envios-no-utiliza-el-nombre-del-ans-para-su-visualizacion-en-la-interfaz-de-usuario",
                 "pt": "a-visualizacao-previa-da-expedicao-nao-usa-o-nome-sla-para-exibicao-na-interface-de-usuario"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shipping preview does not work when standard and scheduled delivery items are mixed",
+                "es": "La vista previa del envío no funciona cuando se combinan artículos de entrega estándar y programada.",
+                "pt": "A pré-visualização do envio não funciona quando itens com entrega padrão e agendada são combinados."
+              },
+              "slug": {
+                "en": "shipping-preview-does-not-work-when-standard-and-scheduled-delivery-items-are-mixed",
+                "es": "la-vista-previa-del-envio-no-funciona-cuando-se-combinan-articulos-de-entrega-estandar-y-programada",
+                "pt": "a-previsualizacao-do-envio-nao-funciona-quando-itens-com-entrega-padrao-e-agendada-sao-combinados"
               },
               "origin": "",
               "type": "markdown",
@@ -47338,6 +47548,21 @@
                 "en": "shoppers-not-able-to-access-the-payment-step-directly-with-a-complete-profile-and-available-pickup-option",
                 "es": "los-compradores-no-pueden-acceder-directamente-al-paso-de-pago-con-un-perfil-completo-y-la-opcion-de-recogida-disponible",
                 "pt": "compradores-que-nao-conseguem-acessar-a-etapa-de-pagamento-diretamente-com-um-perfil-completo-e-opcao-de-retirada-disponivel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Special characters in the delivery receiver field block the purchase with a wrong error message",
+                "es": "Los caracteres especiales en el campo del destinatario bloquean la compra con un mensaje de error incorrecto.",
+                "pt": "Caracteres especiais no campo do destinatário da entrega bloqueiam a compra com uma mensagem de erro incorreta."
+              },
+              "slug": {
+                "en": "special-characters-in-the-delivery-receiver-field-block-the-purchase-with-a-wrong-error-message",
+                "es": "los-caracteres-especiales-en-el-campo-del-destinatario-bloquean-la-compra-con-un-mensaje-de-error-incorrecto",
+                "pt": "caracteres-especiais-no-campo-do-destinatario-da-entrega-bloqueiam-a-compra-com-uma-mensagem-de-erro-incorreta"
               },
               "origin": "",
               "type": "markdown",
@@ -47810,6 +48035,36 @@
             },
             {
               "name": {
+                "en": "Valid Ecuadorian documents are rejected at checkout",
+                "es": "Los documentos ecuatorianos válidos son rechazados en el momento de la salida.",
+                "pt": "Documentos equatorianos válidos são rejeitados no caixa."
+              },
+              "slug": {
+                "en": "valid-ecuadorian-documents-are-rejected-at-checkout",
+                "es": "los-documentos-ecuatorianos-validos-son-rechazados-en-el-momento-de-la-salida",
+                "pt": "documentos-equatorianos-validos-sao-rejeitados-no-caixa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX ID login box is barely visible in Checkout when the page is scrolled down",
+                "es": "El cuadro de inicio de sesión de VTEX ID apenas es visible en la página de pago cuando se desplaza hacia abajo.",
+                "pt": "A caixa de login do ID VTEX fica quase invisível na página de finalização da compra quando a página é rolada para baixo."
+              },
+              "slug": {
+                "en": "vtex-id-login-box-is-barely-visible-in-checkout-when-the-page-is-scrolled-down",
+                "es": "el-cuadro-de-inicio-de-sesion-de-vtex-id-apenas-es-visible-en-la-pagina-de-pago-cuando-se-desplaza-hacia-abajo",
+                "pt": "a-caixa-de-login-do-id-vtex-fica-quase-invisivel-na-pagina-de-finalizacao-da-compra-quando-a-pagina-e-rolada-para-baixo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "When selecting pickup not highlighted in the list of pickups in the cart, UI makes incorrect request to API",
                 "es": "Cuando se selecciona una recogida que no está resaltada en la lista de recogidas del carrito, la interfaz de usuario hace una petición incorrecta a la API",
                 "pt": "Ao selecionar pickups não destacados na lista de pickups no carrinho, a UI faz solicitação incorreta ao API"
@@ -47848,6 +48103,21 @@
                 "en": "wrong-button-calltoaction-name-in-profile-step",
                 "es": "nombre-incorrecto-del-boton-de-llamada-a-la-accion-en-el-paso-de-perfil",
                 "pt": "botao-errado-chamar-o-nome-de-acao-na-etapa-de-perfil"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Wrong delivery date shown when editing scheduled delivery of distinct items",
+                "es": "Se muestra una fecha de entrega incorrecta al editar la entrega programada de artículos distintos.",
+                "pt": "A data de entrega exibida está incorreta ao editar a entrega agendada de itens distintos."
+              },
+              "slug": {
+                "en": "wrong-delivery-date-shown-when-editing-scheduled-delivery-of-distinct-items",
+                "es": "se-muestra-una-fecha-de-entrega-incorrecta-al-editar-la-entrega-programada-de-articulos-distintos",
+                "pt": "a-data-de-entrega-exibida-esta-incorreta-ao-editar-a-entrega-agendada-de-itens-distintos"
               },
               "origin": "",
               "type": "markdown",
@@ -48360,6 +48630,21 @@
                 "en": "render-component-issues-on-site-editor",
                 "es": "problemas-con-los-componentes-de-renderizado-en-el-editor-de-sitios",
                 "pt": "problemas-com-o-componente-de-renderizacao-no-editor-de-sites"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Saving CMS content in a non-default binding locale can silently overwrite the default-locale content and hide the correct translation",
+                "es": "Guardar el contenido del CMS en una configuración regional de enlace distinta a la predeterminada puede sobrescribir silenciosamente el contenido de la configuración regional predeterminada y ocultar la traducción correcta.",
+                "pt": "Salvar conteúdo do CMS em uma localidade de vinculação diferente da padrão pode sobrescrever silenciosamente o conteúdo da localidade padrão e ocultar a tradução correta."
+              },
+              "slug": {
+                "en": "saving-cms-content-in-a-nondefault-binding-locale-can-silently-overwrite-the-defaultlocale-content-and-hide-the-correct-translation",
+                "es": "guardar-el-contenido-del-cms-en-una-configuracion-regional-de-enlace-distinta-a-la-predeterminada-puede-sobrescribir-silenciosamente-el-contenido-de-la-configuracion-regional-predeterminada-y-ocultar-la-traduccion-correcta",
+                "pt": "salvar-conteudo-do-cms-em-uma-localidade-de-vinculacao-diferente-da-padrao-pode-sobrescrever-silenciosamente-o-conteudo-da-localidade-padrao-e-ocultar-a-traducao-correta"
               },
               "origin": "",
               "type": "markdown",
@@ -50409,13 +50694,13 @@
             {
               "name": {
                 "en": "Shopee Brand attribute not sent or overwritten during product sync",
-                "es": "Shopee Atributo de marca no enviado o sobrescrito durante la sincronización del producto",
-                "pt": "Shopee Atributo de marca não enviado ou sobrescrito durante a sincronização do produto"
+                "es": "Shopee El atributo de marca no se envió o se sobrescribió durante la sincronización del producto.",
+                "pt": "Shopee O atributo da marca não foi enviado ou foi sobrescrito durante a sincronização do produto"
               },
               "slug": {
                 "en": "shopee-brand-attribute-not-sent-or-overwritten-during-product-sync",
-                "es": "shopee-atributo-de-marca-no-enviado-o-sobrescrito-durante-la-sincronizacion-del-producto",
-                "pt": "shopee-atributo-de-marca-nao-enviado-ou-sobrescrito-durante-a-sincronizacao-do-produto"
+                "es": "shopee-el-atributo-de-marca-no-se-envio-o-se-sobrescribio-durante-la-sincronizacion-del-producto",
+                "pt": "shopee-o-atributo-da-marca-nao-foi-enviado-ou-foi-sobrescrito-durante-a-sincronizacao-do-produto"
               },
               "origin": "",
               "type": "markdown",
@@ -57290,13 +57575,13 @@
             {
               "name": {
                 "en": "Error when viewing the Call center operator profile (restricted orders view)",
-                "es": "Error al visualizar el perfil del operador del centro de llamadas (vista restringida de pedidos)",
-                "pt": "Erro ao visualizar o perfil do operador do call center (visualização de ordens restritas)"
+                "es": "Error al visualizar el perfil del operador del centro de llamadas (vista de pedidos restringida).",
+                "pt": "Erro ao visualizar o perfil do operador do call center (visualização de pedidos restritos)"
               },
               "slug": {
                 "en": "error-when-viewing-the-call-center-operator-profile-restricted-orders-view",
-                "es": "error-al-visualizar-el-perfil-del-operador-del-centro-de-llamadas-vista-restringida-de-pedidos",
-                "pt": "erro-ao-visualizar-o-perfil-do-operador-do-call-center-visualizacao-de-ordens-restritas"
+                "es": "error-al-visualizar-el-perfil-del-operador-del-centro-de-llamadas-vista-de-pedidos-restringida",
+                "pt": "erro-ao-visualizar-o-perfil-do-operador-do-call-center-visualizacao-de-pedidos-restritos"
               },
               "origin": "",
               "type": "markdown",
@@ -57560,8 +57845,8 @@
             {
               "name": {
                 "en": "Issues with My Account links",
-                "es": "Problemas con los enlaces de «Mi cuenta»",
-                "pt": "Problemas com os links da minha conta"
+                "es": "Problemas con los enlaces de Mi cuenta",
+                "pt": "Problemas com os links da Minha Conta"
               },
               "slug": {
                 "en": "issues-with-my-account-links",
@@ -57831,12 +58116,12 @@
               "name": {
                 "en": "Order Authorization lessThan 100 goes with the flow",
                 "es": "La autorización de pedidos inferiores a 100 se adapta a las circunstancias",
-                "pt": "A autorização de pedidos inferiores a 100 segue o fluxo"
+                "pt": "Autorização de pedido inferior a 100 segue o fluxo normal."
               },
               "slug": {
                 "en": "order-authorization-lessthan-100-goes-with-the-flow",
                 "es": "la-autorizacion-de-pedidos-inferiores-a-100-se-adapta-a-las-circunstancias",
-                "pt": "a-autorizacao-de-pedidos-inferiores-a-100-segue-o-fluxo"
+                "pt": "autorizacao-de-pedido-inferior-a-100-segue-o-fluxo-normal"
               },
               "origin": "",
               "type": "markdown",
@@ -58220,13 +58505,13 @@
             {
               "name": {
                 "en": "Refund limited incorrectly due to duplicated receipt from race condition (OMS invoice/restutions)",
-                "es": "Reembolso limitado incorrectamente debido a un recibo duplicado por una condición de carrera (factura OMS/reembolsos)",
-                "pt": "Reembolso limitado incorretamente devido a um recibo duplicado causado por uma condição de corrida (fatura OMS/restituições)"
+                "es": "Reembolso limitado incorrectamente debido a un recibo duplicado de la condición de carrera (factura/restos de OMS)",
+                "pt": "O reembolso foi limitado incorretamente devido a um recibo duplicado referente à condição da corrida (nota fiscal/restituições da OMS)."
               },
               "slug": {
                 "en": "refund-limited-incorrectly-due-to-duplicated-receipt-from-race-condition-oms-invoicerestutions",
-                "es": "reembolso-limitado-incorrectamente-debido-a-un-recibo-duplicado-por-una-condicion-de-carrera-factura-omsreembolsos",
-                "pt": "reembolso-limitado-incorretamente-devido-a-um-recibo-duplicado-causado-por-uma-condicao-de-corrida-fatura-omsrestituicoes"
+                "es": "reembolso-limitado-incorrectamente-debido-a-un-recibo-duplicado-de-la-condicion-de-carrera-facturarestos-de-oms",
+                "pt": "o-reembolso-foi-limitado-incorretamente-devido-a-um-recibo-duplicado-referente-a-condicao-da-corrida-nota-fiscalrestituicoes-da-oms"
               },
               "origin": "",
               "type": "markdown",
@@ -58355,13 +58640,13 @@
             {
               "name": {
                 "en": "Returned package as delivering to final customer on my account",
-                "es": "Paquete devuelto como entrega a cliente final en mi cuenta",
-                "pt": "Pacote devolvido como entrega ao cliente final em minha conta"
+                "es": "Paquete devuelto como entregado al cliente final en mi cuenta.",
+                "pt": "Pacote devolvido por ter sido entregue ao cliente final em minha conta."
               },
               "slug": {
                 "en": "returned-package-as-delivering-to-final-customer-on-my-account",
-                "es": "paquete-devuelto-como-entrega-a-cliente-final-en-mi-cuenta",
-                "pt": "pacote-devolvido-como-entrega-ao-cliente-final-em-minha-conta"
+                "es": "paquete-devuelto-como-entregado-al-cliente-final-en-mi-cuenta",
+                "pt": "pacote-devolvido-por-ter-sido-entregue-ao-cliente-final-em-minha-conta"
               },
               "origin": "",
               "type": "markdown",
@@ -58415,13 +58700,13 @@
             {
               "name": {
                 "en": "SKU price value being displayed incorrectly in My order detail",
-                "es": "El valor del precio SKU se muestra incorrectamente en el detalle de Mi pedido",
-                "pt": "Valor do preço da SKU sendo exibido incorretamente nos detalhes do meu pedido"
+                "es": "El valor del precio del SKU se muestra incorrectamente en los detalles de mi pedido.",
+                "pt": "O valor do preço do SKU está sendo exibido incorretamente nos detalhes do meu pedido."
               },
               "slug": {
                 "en": "sku-price-value-being-displayed-incorrectly-in-my-order-detail",
-                "es": "el-valor-del-precio-sku-se-muestra-incorrectamente-en-el-detalle-de-mi-pedido",
-                "pt": "valor-do-preco-da-sku-sendo-exibido-incorretamente-nos-detalhes-do-meu-pedido"
+                "es": "el-valor-del-precio-del-sku-se-muestra-incorrectamente-en-los-detalles-de-mi-pedido",
+                "pt": "o-valor-do-preco-do-sku-esta-sendo-exibido-incorretamente-nos-detalhes-do-meu-pedido"
               },
               "origin": "",
               "type": "markdown",
@@ -58505,13 +58790,13 @@
             {
               "name": {
                 "en": "Split Orders sharing transaction with Change Seller the status flow is broken",
-                "es": "Órdenes divididas compartiendo transacción con Vendedor de cambios el flujo de estado está roto",
-                "pt": "Transação de compartilhamento de ordens divididas com o Change Seller: o fluxo de status é interrompido"
+                "es": "Al compartir la transacción de órdenes divididas con el cambio de vendedor, el flujo de estado está roto.",
+                "pt": "Ao dividir pedidos compartilhando transações com a alteração do vendedor, o fluxo de status está interrompido."
               },
               "slug": {
                 "en": "split-orders-sharing-transaction-with-change-seller-the-status-flow-is-broken",
-                "es": "ordenes-divididas-compartiendo-transaccion-con-vendedor-de-cambios-el-flujo-de-estado-esta-roto",
-                "pt": "transacao-de-compartilhamento-de-ordens-divididas-com-o-change-seller-o-fluxo-de-status-e-interrompido"
+                "es": "al-compartir-la-transaccion-de-ordenes-divididas-con-el-cambio-de-vendedor-el-flujo-de-estado-esta-roto",
+                "pt": "ao-dividir-pedidos-compartilhando-transacoes-com-a-alteracao-do-vendedor-o-fluxo-de-status-esta-interrompido"
               },
               "origin": "",
               "type": "markdown",
@@ -58564,14 +58849,29 @@
             },
             {
               "name": {
+                "en": "Subscription dashboard gets refreshed repeatedly",
+                "es": "El panel de suscripción se actualiza repetidamente.",
+                "pt": "O painel de controle de assinaturas é atualizado repetidamente."
+              },
+              "slug": {
+                "en": "subscription-dashboard-gets-refreshed-repeatedly",
+                "es": "el-panel-de-suscripcion-se-actualiza-repetidamente",
+                "pt": "o-painel-de-controle-de-assinaturas-e-atualizado-repetidamente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Subscription event history out of order",
                 "es": "El historial de eventos de la suscripción no está en orden",
-                "pt": "Histórico de eventos de assinatura fora de ordem"
+                "pt": "O histórico de eventos da assinatura está fora de ordem."
               },
               "slug": {
                 "en": "subscription-event-history-out-of-order",
                 "es": "el-historial-de-eventos-de-la-suscripcion-no-esta-en-orden",
-                "pt": "historico-de-eventos-de-assinatura-fora-de-ordem"
+                "pt": "o-historico-de-eventos-da-assinatura-esta-fora-de-ordem"
               },
               "origin": "",
               "type": "markdown",
@@ -58655,13 +58955,28 @@
             {
               "name": {
                 "en": "Subscriptions when the seller is a Pickup Point and does not have one of the SKUs.",
-                "es": "Suscripciones cuando el vendedor es un Punto de Recogida y no tiene una de las SKU.",
-                "pt": "Assinaturas quando o vendedor é um Pickup Point e não tem um dos SKUs."
+                "es": "Suscripciones cuando el vendedor es un punto de recogida y no tiene uno de los SKU.",
+                "pt": "Assinaturas quando o vendedor é um Ponto de Coleta e não possui um dos SKUs."
               },
               "slug": {
                 "en": "subscriptions-when-the-seller-is-a-pickup-point-and-does-not-have-one-of-the-skus",
-                "es": "suscripciones-cuando-el-vendedor-es-un-punto-de-recogida-y-no-tiene-una-de-las-sku",
-                "pt": "assinaturas-quando-o-vendedor-e-um-pickup-point-e-nao-tem-um-dos-skus"
+                "es": "suscripciones-cuando-el-vendedor-es-un-punto-de-recogida-y-no-tiene-uno-de-los-sku",
+                "pt": "assinaturas-quando-o-vendedor-e-um-ponto-de-coleta-e-nao-possui-um-dos-skus"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "The automatic tracking update is not working properly",
+                "es": "La actualización automática del seguimiento no funciona correctamente.",
+                "pt": "A atualização automática do rastreamento não está funcionando corretamente."
+              },
+              "slug": {
+                "en": "the-automatic-tracking-update-is-not-working-properly",
+                "es": "la-actualizacion-automatica-del-seguimiento-no-funciona-correctamente",
+                "pt": "a-atualizacao-automatica-do-rastreamento-nao-esta-funcionando-corretamente"
               },
               "origin": "",
               "type": "markdown",
@@ -58910,13 +59225,13 @@
             {
               "name": {
                 "en": "Wrong value for priceDefinition in the chain order for a multilevel marketplace",
-                "es": "Valor incorrecto en la definición de «priceDefinition» en la cadena de pedidos de un mercado multinivel",
-                "pt": "Valor incorreto para a definição de preço na ordem da cadeia de um marketplace multinível"
+                "es": "Valor incorrecto para priceDefinition en el orden de la cadena para un mercado multinivel.",
+                "pt": "Valor incorreto para a definição de preço na ordem em cadeia para um marketplace multinível"
               },
               "slug": {
                 "en": "wrong-value-for-pricedefinition-in-the-chain-order-for-a-multilevel-marketplace",
-                "es": "valor-incorrecto-en-la-definicion-de-pricedefinition-en-la-cadena-de-pedidos-de-un-mercado-multinivel",
-                "pt": "valor-incorreto-para-a-definicao-de-preco-na-ordem-da-cadeia-de-um-marketplace-multinivel"
+                "es": "valor-incorrecto-para-pricedefinition-en-el-orden-de-la-cadena-para-un-mercado-multinivel",
+                "pt": "valor-incorreto-para-a-definicao-de-preco-na-ordem-em-cadeia-para-um-marketplace-multinivel"
               },
               "origin": "",
               "type": "markdown",
@@ -61402,6 +61717,21 @@
             },
             {
               "name": {
+                "en": "Payment does not advance to Canceled after a successful cancellation call",
+                "es": "El pago no se realiza después de una llamada de cancelación exitosa.",
+                "pt": "O pagamento não é transferido para o número cancelado após uma chamada de cancelamento bem-sucedida."
+              },
+              "slug": {
+                "en": "payment-does-not-advance-to-canceled-after-a-successful-cancellation-call",
+                "es": "el-pago-no-se-realiza-despues-de-una-llamada-de-cancelacion-exitosa",
+                "pt": "o-pagamento-nao-e-transferido-para-o-numero-cancelado-apos-uma-chamada-de-cancelamento-bemsucedida"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Payment methods displayed at checkout differ from active payment conditions",
                 "es": "Los métodos de pago que se muestran al finalizar la compra difieren de las condiciones de pago vigentes",
                 "pt": "Os métodos de pagamento exibidos na finalização da compra diferem das condições de pagamento ativas"
@@ -62467,6 +62797,21 @@
             },
             {
               "name": {
+                "en": "Transaction stuck in Approved with settled payments - blocking invoicing",
+                "es": "Transacción atascada en estado Aprobado con pagos liquidados: se bloquea la facturación.",
+                "pt": "Transação travada em \"Aprovada\" com pagamentos liquidados - bloqueando a emissão de faturas."
+              },
+              "slug": {
+                "en": "transaction-stuck-in-approved-with-settled-payments-blocking-invoicing",
+                "es": "transaccion-atascada-en-estado-aprobado-con-pagos-liquidados-se-bloquea-la-facturacion",
+                "pt": "transacao-travada-em-aprovada-com-pagamentos-liquidados-bloqueando-a-emissao-de-faturas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transaction Stuck in Authorized Or Pending Authorization Status After Being Approved",
                 "es": "Transacción bloqueada en estado autorizado o pendiente de autorización después de haber sido aprobada",
                 "pt": "Transação bloqueada no status de autorização autorizada ou pendente após ser aprovada"
@@ -62723,13 +63068,13 @@
             {
               "name": {
                 "en": "Transactions stuck in \"Canceling\" and payments remain in \"Authorized\"",
-                "es": "Las transacciones se quedan en «Cancelando» y los pagos siguen en «Autorizados»",
-                "pt": "Transações presas no status “Cancelando” e pagamentos permanecem no status “Autorizado”"
+                "es": "Las transacciones se quedan atascadas en \"Cancelando\" y los pagos permanecen en \"Autorizados\".",
+                "pt": "Transações presas em \"Cancelando\" e pagamentos permanecem em \"Autorizado\"."
               },
               "slug": {
                 "en": "transactions-stuck-in-canceling-and-payments-remain-in-authorized",
-                "es": "las-transacciones-se-quedan-en-cancelando-y-los-pagos-siguen-en-autorizados",
-                "pt": "transacoes-presas-no-status-cancelando-e-pagamentos-permanecem-no-status-autorizado"
+                "es": "las-transacciones-se-quedan-atascadas-en-cancelando-y-los-pagos-permanecen-en-autorizados",
+                "pt": "transacoes-presas-em-cancelando-e-pagamentos-permanecem-em-autorizado"
               },
               "origin": "",
               "type": "markdown",
@@ -67321,6 +67666,21 @@
             },
             {
               "name": {
+                "en": "Custom sitemap (saveIndex) returns \"Entity not found\" on the final domain",
+                "es": "KI El mapa del sitio personalizado (saveIndex) devuelve \"Entidad no encontrada\" en el dominio final.",
+                "pt": "KI O sitemap personalizado (saveIndex) retorna \"Entidade não encontrada\" no domínio final"
+              },
+              "slug": {
+                "en": "custom-sitemap-saveindex-returns-entity-not-found-on-the-final-domain",
+                "es": "ki-el-mapa-del-sitio-personalizado-saveindex-devuelve-entidad-no-encontrada-en-el-dominio-final",
+                "pt": "ki-o-sitemap-personalizado-saveindex-retorna-entidade-nao-encontrada-no-dominio-final"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "disableSitemapEntry flag not respected by sitemap generation",
                 "es": "La generación del mapa del sitio no respeta el indicador disableSitemapEntry.",
                 "pt": "O sinalizador disableSitemapEntry não é respeitado pela geração do mapa do site"
@@ -68716,6 +69076,21 @@
             },
             {
               "name": {
+                "en": "vtex.store Advanced Settings persisted inconsistently (root vs. nested) depending on which Admin page is used",
+                "es": "La configuración avanzada de vtex.store persistía de forma inconsistente (raíz frente a anidada) dependiendo de la página de administración que se utilizara.",
+                "pt": "As configurações avançadas do vtex.store persistiam de forma inconsistente (raiz vs. aninhadas), dependendo da página de administração utilizada."
+              },
+              "slug": {
+                "en": "vtexstore-advanced-settings-persisted-inconsistently-root-vs-nested-depending-on-which-admin-page-is-used",
+                "es": "la-configuracion-avanzada-de-vtexstore-persistia-de-forma-inconsistente-raiz-frente-a-anidada-dependiendo-de-la-pagina-de-administracion-que-se-utilizara",
+                "pt": "as-configuracoes-avancadas-do-vtexstore-persistiam-de-forma-inconsistente-raiz-vs-aninhadas-dependendo-da-pagina-de-administracao-utilizada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "When disabling native service worker it's not possible to use a custom one",
                 "es": "Al desactivar el service worker nativo, no es posible utilizar uno personalizado",
                 "pt": "Ao desativar o service worker nativo, não é possível usar um personalizado"
@@ -69013,6 +69388,21 @@
                 "en": "dafiti-installment-interest-incorrectly-increases-item-sellingprice-in-dafiti-orders",
                 "es": "dafiti-el-interes-de-las-cuotas-aumenta-incorrectamente-el-precio-de-venta-del-articulo-en-los-pedidos-de-dafiti",
                 "pt": "dafiti-o-calculo-de-juros-parcelados-aumenta-incorretamente-o-preco-de-venda-dos-itens-em-pedidos-da-dafiti"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "FBE PLP/PDP images intermittently fail to load when Meta",
+                "es": "FBE Las imágenes PLP/PDP fallan intermitentemente al cargarse cuando Meta",
+                "pt": "FBE Imagens PLP/PDP falham intermitentemente ao carregar o Meta"
+              },
+              "slug": {
+                "en": "fbe-plppdp-images-intermittently-fail-to-load-when-meta",
+                "es": "fbe-las-imagenes-plppdp-fallan-intermitentemente-al-cargarse-cuando-meta",
+                "pt": "fbe-imagens-plppdp-falham-intermitentemente-ao-carregar-o-meta"
               },
               "origin": "",
               "type": "markdown",
