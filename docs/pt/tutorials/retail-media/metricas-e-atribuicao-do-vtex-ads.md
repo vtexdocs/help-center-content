@@ -1,7 +1,7 @@
 ---
 title: 'Métricas e atribuição do VTEX Ads'
 createdAt: '2026-07-01T10:00:00.000Z'
-updatedAt: '2026-08-21T10:00:00.000Z'
+updatedAt: '2026-09-15T10:00:00.000Z'
 contentType: tutorial
 productTeam: Others
 slugEN: vtex-ads-metrics-and-attribution
@@ -217,6 +217,23 @@ Também estão disponíveis nos seguintes relatórios:
 
 > ℹ️ Nos cards e nas colunas, os nomes das métricas aparecem abreviados como **% de impressões ganhas**, **% de imp. perdidas (por classificação)** e **% de imp. perdidas (por orçamento)**.
 
+## Métricas de Novos Compradores da Marca (NCM)
+
+As métricas de **Novos Compradores da Marca (NCM)**, em fase beta, mostram quantos dos compradores atribuídos à campanha compraram produtos daquela marca pela primeira vez e quanta receita esses compradores geraram.
+
+
+| Métrica           | O que mede                                                                                                 | Fórmula                                       |
+| ----------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| **NCM**           | Número de compradores únicos atribuídos à campanha que compraram produtos daquela marca pela primeira vez. | -                                             |
+| **% NCM**         | Proporção de novos compradores da marca sobre o total de compradores atribuídos à campanha.                | (NCM / Total de compradores atribuídos) × 100 |
+| **Receita NCM**   | Receita total gerada pelos novos compradores da marca atribuídos à campanha.                               | -                                             |
+| **% Receita NCM** | Proporção da receita atribuída que veio de novos compradores da marca.                                     | (Receita NCM / Receita total atribuída) × 100 |
+
+
+Para a definição de **Novo Comprador da Marca**, as janelas de lookback disponíveis e a interpretação dos resultados, consulte [Métricas de Novos Compradores da Marca (NCM) no VTEX Ads](/pt/docs/tutorials/metricas-de-novos-compradores-da-marca-no-vtex-ads).
+
+> ℹ️ As métricas de **NCM** dependem do vínculo entre produtos e marcas no catálogo do VTEX Ads. Consulte [Mapear produtos e marcas no catálogo do VTEX Ads](/pt/docs/tutorials/mapear-produtos-e-marcas-no-catalogo-do-vtex-ads).
+
 ## Comportamento em janelas de data mistas
 
 A metodologia de atribuição dos produtos patrocinados (Sponsored Products) mudou em 1º de julho de 2026 e passou a incluir conversões por visualização, além das conversões por clique. Além disso, para todos os formatos, a taxa de conversão passou a usar as **visualizações** no denominador, em vez dos cliques usados anteriormente.
@@ -232,6 +249,14 @@ Para obter resultados consistentes, selecione o período de análise de acordo c
 
 > ⚠️ Em janelas de análise que contêm 1º de julho de 2026, a taxa de conversão é calculada com a nova metodologia em todo o intervalo. As métricas com quebra por clique (**Conversões (clique)**, **Taxa de conversão por clique** e **ROAS por clique**) estão disponíveis apenas a partir de 1º de julho de 2026.
 
+### Janela de medição das métricas de NCM
+
+O percentual de **NCM** não é calculado sobre o número de **Conversões** exibido na tela. Ele é calculado sobre as conversões dos últimos 30 dias fixos da campanha até a data final selecionada, independentemente do período filtrado no dashboard.
+
+Por isso, em períodos menores que 30 dias, o **NCM** pode ser maior que as **Conversões**. Esse comportamento é esperado e não indica erro nos relatórios. Veja o exemplo detalhado em [Métricas de Novos Compradores da Marca (NCM) no VTEX Ads](/pt/docs/tutorials/metricas-de-novos-compradores-da-marca-no-vtex-ads).
+
+> ℹ️ **Recomendação de análise:** para comparar o **NCM** com o total de **Conversões**, selecione um período de 30 dias no dashboard. Nesse caso, as bases de cálculo das duas métricas se aproximam e os números se tornam comparáveis.
+
 ## Disponibilidade e acesso aos dados
 
 - As métricas base e de conversão estão disponíveis historicamente, sem restrição de data.
@@ -239,4 +264,8 @@ Para obter resultados consistentes, selecione o período de análise de acordo c
 - A customização de cards e colunas é persistida entre sessões. Publisher e anunciante têm configurações independentes.
 - Os cards e colunas opcionais das métricas de **percentual de impressões** seguem a mesma persistência de customização entre sessões.
 - Quando não há dados para uma métrica, o campo exibe zero.
+- As métricas de **NCM** são exclusivas de contas de anunciante. Contas de publisher não têm acesso a essas métricas.
+- As métricas de **NCM** estão disponíveis por linha de publisher na aba **Publishers** e, dentro de um publisher específico, nas abas **Campanhas** e **Anúncios**.
+- As colunas de **NCM** exibem um traço (-), e não zero, quando o dado não está disponível. 
+- Em campanhas de rede (VTEX Ads Network), as colunas de **NCM** são mantidas na interface e exibem sempre um traço, pois essas métricas ainda não estão disponíveis nesse tipo de campanha.
 

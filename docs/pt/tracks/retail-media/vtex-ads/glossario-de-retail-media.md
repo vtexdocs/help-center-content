@@ -1,11 +1,7 @@
 ---
 title: 'Glossário de Retail Media'
-id: 60HoAleRC38rjrhHeDlDDE
-status: PUBLISHED
 createdAt: 2025-05-29T17:46:57.083Z
-updatedAt: 2025-07-04T16:13:56.687Z
-publishedAt: 2025-07-04T16:13:56.687Z
-firstPublishedAt: 2025-05-29T17:48:06.231Z
+updatedAt: 2026-09-15T00:00:00.000Z
 contentType: trackArticle
 productTeam: Others
 slugEN: retail-media-glossary
@@ -42,6 +38,7 @@ O glossário a seguir reúne os principais termos e conceitos relacionados ao Re
 | **Mídia onsite** | Publicidade veiculada nas propriedades do próprio varejista, como ecommerce, app ou loja física. Exemplos: banners, digital signage, notificações via CRM. |
 | **Mídia offsite** | Publicidade fora dos canais do varejista, como redes sociais, CTV e sites de terceiros. |
 | **Mídia programática** | Compra automatizada de mídia com base em dados e critérios específicos. Utiliza algoritmos para otimizar resultados em tempo real. |
+| **Novos Compradores da Marca (NCM / New to Brand, NTB)** | Comprador que não realizou nenhuma compra de produtos da marca na janela de lookback (três, seis ou 12 meses) anterior à data da conversão atribuída. O cálculo é feito por marca e por publisher, com atribuição last touch. Saiba mais em [Métricas de Novos Compradores da Marca (NCM) no VTEX Ads](/pt/docs/tutorials/metricas-de-novos-compradores-da-marca-no-vtex-ads). |
 | **Omnichannel** | Estratégia que integra canais online e offline, oferecendo uma experiência unificada ao consumidor, independentemente do canal utilizado. |
 | **Produtos patrocinados** | Anúncios de produtos exibidos de forma semelhante aos resultados orgânicos, mas com destaque (como selo “patrocinado”). Ativados por palavras-chave, categorias ou contexto. |
 | **Retail Media** | Publicidade realizada dentro dos canais de varejo, utilizando dados do consumidor para personalização e mensuração eficiente dos resultados. |
