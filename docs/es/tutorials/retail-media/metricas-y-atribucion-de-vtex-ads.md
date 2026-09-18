@@ -43,7 +43,7 @@ Las siguientes métricas describen el volumen, la eficiencia y el resultado dire
 | **Conversiones**                                        | Número total de conversiones atribuidas al anuncio (clic + vista), aplicando la prioridad Clic > Vista. Cada conversión se atribuye una única vez. | -                                           |
 | **Conversiones (clic)**              | Número de conversiones atribuidas exclusivamente por clic.                                                                                                                            | -                                           |
 | **Ventas**                                              | Valor monetario total de las ventas atribuidas al anuncio.                                                                                                                            | -                                           |
-| **Ingresos**                                            | Ingresos totales atribuidos directamente al anuncio. Considera las ventas de los productos anunciados, sin incluir ventas halo.                                       | -                                           |
+| **Ingresos**                                            | Ingresos totales atribuidos directamente al anuncio. Considera las ventas de los productos anunciados, sin incluir ventas asistidas.                                       | -                                           |
 | **ACOS** (Advertising Cost of Sales) | Proporción de los ingresos gastados en publicidad. Cuanto menor es el ACOS, más eficiente es la campaña.                                                              | (Costo / Ingresos) × 100 |
 
 ### Tasa de conversión
@@ -96,14 +96,14 @@ VTEX Ads usa el modelo de **último contacto**, que atribuye la conversión a la
 
 > ℹ️ La interacción (clic o vista) debe ocurrir antes de la confirmación del pedido para que la conversión sea válida. Cada conversión se atribuye a un único anuncio y a una única interacción, sin división proporcional del crédito.
 
-### Conversión directa y ventas halo
+### Conversión directa y ventas asistidas
 
 La interacción del usuario puede generar dos tipos de venta:
 
 - **Conversión directa:** venta del propio producto anunciado, atribuida al anuncio por clic o por vista.
-- **Venta halo:** venta de **otro producto no anunciado**, comprado en el mismo pedido influenciado por el anuncio. Son los ingresos asistidos generados por ítems distintos del producto anunciado que se compraron junto con este como resultado de la interacción con el anuncio.
+- **Venta asistida:** venta de **otro producto no anunciado**, comprado en el mismo pedido influenciado por el anuncio. Son los ingresos generados por ítems distintos del producto anunciado que se compraron junto con este como resultado de la interacción con el anuncio.
 
-Por ejemplo, un anuncio de tenis lleva al cliente a comprarlos (conversión directa) y, en el mismo pedido, también compra medias (venta halo).
+Por ejemplo, un anuncio de tenis lleva al cliente a comprarlos (conversión directa) y, en el mismo pedido, también compra medias (venta asistida).
 
 ### Mapeo de productos
 
@@ -127,15 +127,15 @@ Por **origen de la atribución** (clic, vista o ambos):
 
 Por **tipo de venta** (producto anunciado o productos influenciados):
 
-- **Ingresos directos:** ingresos de las conversiones directas del producto anunciado. Se usa en contraposición a los ingresos halo.
-- **Ingresos halo:** ingresos generados por ventas halo, es decir, de otros productos no anunciados comprados en el mismo pedido influenciado por el anuncio.
+- **Ingresos directos:** ingresos de las conversiones directas del producto anunciado. Se usa en contraposición a los ingresos asistidos.
+- **Ingresos asistidos:** ingresos generados por ventas asistidas, es decir, de otros productos no anunciados comprados en el mismo pedido influenciado por el anuncio.
 
 | Métrica           | Definición                                                                                                                                                                                                                                                           | Fórmula                                                        |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | **ROAS**          | Retorno sobre la inversión a partir de las conversiones atribuidas (clic y vista combinados).                                                                                                                                     | Ingresos atribuidos / Costo                                    |
 | **ROAS por clic** | Ingresos generados por usuarios que hicieron clic en el anuncio. Disponible como métrica complementaria para comparación por canal de atribución.                                                                                    | Ingresos atribuidos a clics / Costo                            |
-| **ROAS halo**     | ROAS de ingresos asistidos: ingresos de otros productos del pedido que no eran el anunciado, pero fueron influenciados por el anuncio, divididos entre la inversión.                                                                 | Ingresos halo / Costo                                          |
-| **ROAS total**    | ROAS total: suma los ingresos directos (producto anunciado) y los ingresos halo (otros productos del mismo pedido). Mide el impacto total de la campaña en el pedido completo. | (Ingresos directos + Ingresos halo) / Costo |
+| **ROAS asistido** | Retorno sobre los ingresos asistidos: ingresos de otros productos del pedido que no eran el anunciado, pero fueron influenciados por el anuncio, divididos entre la inversión.                                                                 | Ingresos asistidos / Costo                                     |
+| **ROAS total**    | ROAS total: suma los ingresos directos (producto anunciado) y los ingresos asistidos (otros productos del mismo pedido). Mide el impacto total de la campaña en el pedido completo. | (Ingresos directos + Ingresos asistidos) / Costo |
 
 > ℹ️ Los ingresos atribuidos por vista se incluyen en el cálculo del **ROAS** consolidado, pero no se muestran como métrica aislada en los dashboards ni en las tablas.
 
@@ -143,15 +143,15 @@ Comparar el ROAS consolidado con el **ROAS por clic** ayuda a identificar qué c
 
 > ⚠️ El **ROAS por clic** está disponible solo para usuarios con permisos de superadministrador (superAdmin) en VTEX Ads. Los usuarios estándar no ven esta métrica en los dashboards ni en las tablas.
 
-## Métricas de ventas influenciadas (halo)
+## Métricas de ventas asistidas
 
-Las métricas halo miden el impacto indirecto de un anuncio en las ventas de otros productos no anunciados que se compraron en el mismo pedido gracias a su influencia.
+Las métricas de ventas asistidas miden el impacto indirecto de un anuncio en las ventas de otros productos no anunciados que se compraron en el mismo pedido gracias a su influencia.
 
-| Métrica           | Definición                                                                                                    | Fórmula |
-| ----------------- | ------------------------------------------------------------------------------------------------------------- | ------- |
-| **Pedidos halo**  | Número de pedidos con al menos un ítem halo.                                                  | -       |
-| **Ingresos halo** | Ingresos de productos no anunciados comprados en el mismo pedido influenciado por el anuncio. | -       |
-| **Ítems halo**    | Cantidad de ítems halo vendidos.                                                              | -       |
+| Métrica               | Definición                                                                                                    | Fórmula |
+| --------------------- | ------------------------------------------------------------------------------------------------------------- | ------- |
+| **Pedidos asistidos**  | Número de pedidos con al menos un ítem asistido.                                              | -       |
+| **Ingresos asistidos** | Ingresos de productos no anunciados comprados en el mismo pedido influenciado por el anuncio. | -       |
+| **Ítems asistidos**    | Cantidad de ítems asistidos vendidos.                                                         | -       |
 
 ## Métricas de porcentaje de impresiones
 
