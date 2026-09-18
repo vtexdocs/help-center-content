@@ -51,7 +51,7 @@ This error occurs when the [global category](/en/tracks/configurar-integracao-co
 
   **The "Material" or "Department" specification value from the spreadsheet is not an attribute/specification supported by Amazon**
 
-For both of these errors, the [VTEX global category](/en/docs/tracks/sending-products-to-amazon) of the product selected by the seller requires the **Department** or **Material** attributes as mandatory in the product, and completing the [mapping spreadsheet](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#4-planilha-de-mapeamento). [Add](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) the attribute to the product and complete it in the spreadsheet as shown in the example below:
+For both of these errors, the [VTEX global category](/en/docs/tracks/sending-products-to-amazon) of the product selected by the seller requires the **Department** or **Material** attributes as mandatory in the product, and completing the [mapping spreadsheet](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#4-planilha-de-mapeamento). [Add](/en/docs/tracks/sku-concept-definition) the attribute to the product and complete it in the spreadsheet as shown in the example below:
 
 |CategoryID|VariationTheme|Type|VTEXSpecification|AmazonSpecification|VTEXValue|AmazonValue|
 | --- | --- | --- | --- | --- | --- | --- |
@@ -63,7 +63,7 @@ For both of these errors, the [VTEX global category](/en/docs/tracks/sending-pro
 
 - **The value of specification (X) from the spreadsheet does not exist in the VTEX product specification**
 
-  In this error, the attribute in question has not been added to the SKU in the VTEX catalog. You need to [add the attribute](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) and redo the [mapping](/en/docs/tracks/sending-products-to-amazon) of the submitted product.
+  In this error, the attribute in question has not been added to the SKU in the VTEX catalog. You need to [add the attribute](/en/docs/tracks/sku-concept-definition) and redo the [mapping](/en/docs/tracks/sending-products-to-amazon) of the submitted product.
 
 - **The minimum age unit from the mapping spreadsheet is different from the value expected by Amazon.**
 
@@ -102,18 +102,18 @@ For both of these errors, the [VTEX global category](/en/docs/tracks/sending-pro
 - **The SKU does not have a value for the "Color" attribute or the mapping spreadsheet does not contain a value for it**
 
   The Color attribute is required for the category of the product you are submitting to Amazon and the SKU does not have it, or it was not added to the mapping spreadsheet.
-You need to [add a SKU specification](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/6UjLHdAT5YLuflki10SXLr) for the Color attribute and/or redo the[mapping](/en/docs/tracks/sending-products-to-amazon) for the submitted product.
+You need to [add a SKU specification](/en/docs/tracks/sku-concept-definition) for the Color attribute and/or redo the[mapping](/en/docs/tracks/sending-products-to-amazon) for the submitted product.
 
 - **The "TargetGender" product specification is mandatory for integrating this product with Amazon**
 
   The TargetGender product specification is mandatory for the category of the product you are submitting. Amazon may call it Department or TargetGender depending on the category.
-Add the TargetGender [product specification](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) and redo the [mapping](/en/docs/tracks/sending-products-to-amazon).
+Add the TargetGender [product specification](/en/docs/tracks/sku-concept-definition) and redo the [mapping](/en/docs/tracks/sending-products-to-amazon).
 
 ## Errors related to divergence between VTEX and Amazon catalogs (offer matching)
 
 - **The SKU already exists in the Amazon catalog and is ready for matching between VTEX and Amazon. However, the value of attribute (X) for this SKU on VTEX is different from the value it has on Amazon. It has value (X) on VTEX and value (Y) on Amazon.**
 
-  This error occurs when there are differences between attribute values (details of SKU characteristics) in the Amazon and VTEX catalogs. To fix this error, you need to [edit the attribute value](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/6UjLHdAT5YLuflki10SXLr) on VTEX to make it match the [attribute value on Amazon](https://drive.google.com/uc?export=download&id=1UkcrfPopMg-cnrSDOF0qt51NRIXgzi0r).  
+  This error occurs when there are differences between attribute values (details of SKU characteristics) in the Amazon and VTEX catalogs. To fix this error, you need to [edit the attribute value](/en/docs/tracks/sku-concept-definition) on VTEX to make it match the [attribute value on Amazon](https://drive.google.com/uc?export=download&id=1UkcrfPopMg-cnrSDOF0qt51NRIXgzi0r).  
 
 ## Error Missing Attributes  
 

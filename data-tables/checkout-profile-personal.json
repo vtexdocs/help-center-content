@@ -1,0 +1,3087 @@
+{
+  "updatedAt": "2026-09-04",
+  "en": [
+    {
+      "country": "AU",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "AU",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "AU",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "AT",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "AT",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "AT",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "BE",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "BE",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "BE",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "BO",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "BO",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "BO",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "BR",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "BR",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "BR",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "BR",
+      "fieldName": "documentType",
+      "description": "Document type",
+      "type": "Text. For customers in Brazil, the value must be \"CPF\""
+    },
+    {
+      "country": "BR",
+      "fieldName": "document",
+      "description": "Document (CPF, if for Brazil)",
+      "type": "11 numeric digits, without mask"
+    },
+    {
+      "country": "BR",
+      "fieldName": "homePhone",
+      "description": "Phone",
+      "type": "Text in the format \"+5511999999999\", with \"+55\" for the country and followed by the telephone number with DDD (2-digit code identifying the country's main cities)"
+    },
+    {
+      "country": "BG",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "BG",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "BG",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "CA",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "CA",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "CA",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "CL",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "CL",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "CL",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "CL",
+      "fieldName": "documentType",
+      "description": "Document type",
+      "type": "Text. For customers in Brazil, the value must be \"CPF\""
+    },
+    {
+      "country": "CL",
+      "fieldName": "document",
+      "description": "Document (CPF, if for Brazil)",
+      "type": "11 numeric digits, without mask"
+    },
+    {
+      "country": "CL",
+      "fieldName": "homePhone",
+      "description": "Phone",
+      "type": "Text in the format \"+5511999999999\", with \"+55\" for the country and followed by the telephone number with DDD (2-digit code identifying the country's main cities)"
+    },
+    {
+      "country": "CO",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "CO",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "CO",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "CO",
+      "fieldName": "document",
+      "description": "Document (CPF, if for Brazil)",
+      "type": "11 numeric digits, without mask"
+    },
+    {
+      "country": "CO",
+      "fieldName": "homePhone",
+      "description": "Phone",
+      "type": "Text in the format \"+5511999999999\", with \"+55\" for the country and followed by the telephone number with DDD (2-digit code identifying the country's main cities)"
+    },
+    {
+      "country": "CR",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "CR",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "CR",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "HR",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "HR",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "HR",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "CZ",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "CZ",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "CZ",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "DK",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "DK",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "DK",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "DO",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "DO",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "DO",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "SV",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "SV",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "SV",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "FI",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "FI",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "FI",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "FR",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "FR",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "FR",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "DE",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "DE",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "DE",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "GR",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "GR",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "GR",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "HU",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "HU",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "HU",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "IN",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "IN",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "IN",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "ID",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "ID",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "ID",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "IE",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "IE",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "IE",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "IT",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "IT",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "IT",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "JM",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "JM",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "JM",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "JP",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "JP",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "JP",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "MT",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "MT",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "MT",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "NL",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "NL",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "NL",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "NZ",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "NZ",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "NZ",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "NI",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "NI",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "NI",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "PA",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "PA",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "PA",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "PY",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "PY",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "PY",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "PY",
+      "fieldName": "documentType",
+      "description": "Document type",
+      "type": "Text. For customers in Brazil, the value must be \"CPF\""
+    },
+    {
+      "country": "PY",
+      "fieldName": "document",
+      "description": "Document (CPF, if for Brazil)",
+      "type": "11 numeric digits, without mask"
+    },
+    {
+      "country": "PY",
+      "fieldName": "homePhone",
+      "description": "Phone",
+      "type": "Text in the format \"+5511999999999\", with \"+55\" for the country and followed by the telephone number with DDD (2-digit code identifying the country's main cities)"
+    },
+    {
+      "country": "PL",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "PL",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "PL",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "PT",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "PT",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "PT",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "PR",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "PR",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "PR",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "RO",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "RO",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "RO",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "RU",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "RU",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "RU",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "SM",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "SM",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "SM",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "SA",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "SA",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "SA",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "RS",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "RS",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "RS",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "SG",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "SG",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "SG",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "SK",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "SK",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "SK",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "ZA",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "ZA",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "ZA",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "KR",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "KR",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "KR",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "ES",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "ES",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "ES",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "SE",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "SE",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "SE",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "TH",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "TH",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "TH",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "UA",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "UA",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "UA",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "AE",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "AE",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "AE",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "GB",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "GB",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "GB",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "US",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "US",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "US",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "US",
+      "fieldName": "homePhone",
+      "description": "Phone",
+      "type": "Text in the format \"+5511999999999\", with \"+55\" for the country and followed by the telephone number with DDD (2-digit code identifying the country's main cities)"
+    },
+    {
+      "country": "VE",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "VE",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "VE",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    },
+    {
+      "country": "MX",
+      "fieldName": "firstName",
+      "description": "Customer name",
+      "type": "Text"
+    },
+    {
+      "country": "MX",
+      "fieldName": "lastName",
+      "description": "Customer surname",
+      "type": "Text"
+    },
+    {
+      "country": "MX",
+      "fieldName": "email",
+      "description": "Customer email",
+      "type": "Text"
+    }
+  ],
+  "pt": [
+    {
+      "country": "AU",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "AU",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "AU",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "AT",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "AT",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "AT",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BE",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BE",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BE",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BO",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BO",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BO",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BR",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BR",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BR",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BR",
+      "fieldName": "documentType",
+      "description": "Tipo do documento",
+      "type": "Texto. Para clientes do Brasil, o valor deve ser \"cpf\""
+    },
+    {
+      "country": "BR",
+      "fieldName": "document",
+      "description": "Documento (CPF, no caso do Brasil)",
+      "type": "11 dígitos numéricos, sem máscara"
+    },
+    {
+      "country": "BR",
+      "fieldName": "homePhone",
+      "description": "Telefone",
+      "type": "Texto no formato \"+5511999999999\", sendo \"+55\" para o país e sucedido pelo telefone com DDD (código constituído por 2 dígitos que identificam as principais cidades do país)"
+    },
+    {
+      "country": "BG",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BG",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BG",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CA",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CA",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CA",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CL",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CL",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CL",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CL",
+      "fieldName": "documentType",
+      "description": "Tipo do documento",
+      "type": "Texto. Para clientes do Brasil, o valor deve ser \"cpf\""
+    },
+    {
+      "country": "CL",
+      "fieldName": "document",
+      "description": "Documento (CPF, no caso do Brasil)",
+      "type": "11 dígitos numéricos, sem máscara"
+    },
+    {
+      "country": "CL",
+      "fieldName": "homePhone",
+      "description": "Telefone",
+      "type": "Texto no formato \"+5511999999999\", sendo \"+55\" para o país e sucedido pelo telefone com DDD (código constituído por 2 dígitos que identificam as principais cidades do país)"
+    },
+    {
+      "country": "CO",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CO",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CO",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CO",
+      "fieldName": "document",
+      "description": "Documento (CPF, no caso do Brasil)",
+      "type": "11 dígitos numéricos, sem máscara"
+    },
+    {
+      "country": "CO",
+      "fieldName": "homePhone",
+      "description": "Telefone",
+      "type": "Texto no formato \"+5511999999999\", sendo \"+55\" para o país e sucedido pelo telefone com DDD (código constituído por 2 dígitos que identificam as principais cidades do país)"
+    },
+    {
+      "country": "CR",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CR",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CR",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "HR",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "HR",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "HR",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CZ",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CZ",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CZ",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DK",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DK",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DK",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DO",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DO",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DO",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SV",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SV",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SV",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "FI",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "FI",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "FI",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "FR",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "FR",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "FR",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DE",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DE",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DE",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "GR",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "GR",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "GR",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "HU",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "HU",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "HU",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IN",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IN",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IN",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ID",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ID",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ID",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IE",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IE",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IE",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IT",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IT",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IT",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "JM",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "JM",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "JM",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "JP",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "JP",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "JP",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "MT",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "MT",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "MT",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NL",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NL",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NL",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NZ",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NZ",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NZ",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NI",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NI",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NI",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PA",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PA",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PA",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PY",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PY",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PY",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PY",
+      "fieldName": "documentType",
+      "description": "Tipo do documento",
+      "type": "Texto. Para clientes do Brasil, o valor deve ser \"cpf\""
+    },
+    {
+      "country": "PY",
+      "fieldName": "document",
+      "description": "Documento (CPF, no caso do Brasil)",
+      "type": "11 dígitos numéricos, sem máscara"
+    },
+    {
+      "country": "PY",
+      "fieldName": "homePhone",
+      "description": "Telefone",
+      "type": "Texto no formato \"+5511999999999\", sendo \"+55\" para o país e sucedido pelo telefone com DDD (código constituído por 2 dígitos que identificam as principais cidades do país)"
+    },
+    {
+      "country": "PL",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PL",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PL",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PT",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PT",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PT",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PR",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PR",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PR",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RO",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RO",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RO",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RU",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RU",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RU",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SM",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SM",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SM",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SA",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SA",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SA",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RS",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RS",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RS",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SG",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SG",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SG",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SK",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SK",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SK",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ZA",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ZA",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ZA",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "KR",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "KR",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "KR",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ES",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ES",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ES",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SE",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SE",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SE",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "TH",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "TH",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "TH",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "UA",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "UA",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "UA",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "AE",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "AE",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "AE",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "GB",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "GB",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "GB",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "US",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "US",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "US",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "US",
+      "fieldName": "homePhone",
+      "description": "Telefone",
+      "type": "Texto no formato \"+5511999999999\", sendo \"+55\" para o país e sucedido pelo telefone com DDD (código constituído por 2 dígitos que identificam as principais cidades do país)"
+    },
+    {
+      "country": "VE",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "VE",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "VE",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "MX",
+      "fieldName": "firstName",
+      "description": "Nome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "MX",
+      "fieldName": "lastName",
+      "description": "Sobrenome do cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "MX",
+      "fieldName": "email",
+      "description": "Email do cliente",
+      "type": "Texto"
+    }
+  ],
+  "es": [
+    {
+      "country": "AU",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "AU",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "AU",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "AT",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "AT",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "AT",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BE",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BE",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BE",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BO",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BO",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BO",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BR",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BR",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BR",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BR",
+      "fieldName": "documentType",
+      "description": "Tipo de documento",
+      "type": "Texto. Para los clientes de Brasil, el valor debe ser \"cpf\""
+    },
+    {
+      "country": "BR",
+      "fieldName": "document",
+      "description": "Documento (CPF si es Brasil)",
+      "type": "11 dígitos, sin enmascarar"
+    },
+    {
+      "country": "BR",
+      "fieldName": "homePhone",
+      "description": "Teléfono",
+      "type": "Texto en formato \"+5511999999999\", donde \"+55\" es el código de país seguido del número de teléfono con DDD (código de 2 dígitos que identifican las principales ciudades del país)"
+    },
+    {
+      "country": "BG",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BG",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "BG",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CA",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CA",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CA",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CL",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CL",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CL",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CL",
+      "fieldName": "documentType",
+      "description": "Tipo de documento",
+      "type": "Texto. Para los clientes de Brasil, el valor debe ser \"cpf\""
+    },
+    {
+      "country": "CL",
+      "fieldName": "document",
+      "description": "Documento (CPF si es Brasil)",
+      "type": "11 dígitos, sin enmascarar"
+    },
+    {
+      "country": "CL",
+      "fieldName": "homePhone",
+      "description": "Teléfono",
+      "type": "Texto en formato \"+5511999999999\", donde \"+55\" es el código de país seguido del número de teléfono con DDD (código de 2 dígitos que identifican las principales ciudades del país)"
+    },
+    {
+      "country": "CO",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CO",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CO",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CO",
+      "fieldName": "document",
+      "description": "Documento (CPF si es Brasil)",
+      "type": "11 dígitos, sin enmascarar"
+    },
+    {
+      "country": "CO",
+      "fieldName": "homePhone",
+      "description": "Teléfono",
+      "type": "Texto en formato \"+5511999999999\", donde \"+55\" es el código de país seguido del número de teléfono con DDD (código de 2 dígitos que identifican las principales ciudades del país)"
+    },
+    {
+      "country": "CR",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CR",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CR",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "HR",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "HR",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "HR",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CZ",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CZ",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "CZ",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DK",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DK",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DK",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DO",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DO",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DO",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SV",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SV",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SV",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "FI",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "FI",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "FI",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "FR",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "FR",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "FR",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DE",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DE",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "DE",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "GR",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "GR",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "GR",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "HU",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "HU",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "HU",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IN",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IN",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IN",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ID",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ID",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ID",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IE",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IE",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IE",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IT",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IT",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "IT",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "JM",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "JM",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "JM",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "JP",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "JP",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "JP",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "MT",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "MT",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "MT",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NL",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NL",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NL",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NZ",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NZ",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NZ",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NI",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NI",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "NI",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PA",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PA",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PA",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PY",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PY",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PY",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PY",
+      "fieldName": "documentType",
+      "description": "Tipo de documento",
+      "type": "Texto. Para los clientes de Brasil, el valor debe ser \"cpf\""
+    },
+    {
+      "country": "PY",
+      "fieldName": "document",
+      "description": "Documento (CPF si es Brasil)",
+      "type": "11 dígitos, sin enmascarar"
+    },
+    {
+      "country": "PY",
+      "fieldName": "homePhone",
+      "description": "Teléfono",
+      "type": "Texto en formato \"+5511999999999\", donde \"+55\" es el código de país seguido del número de teléfono con DDD (código de 2 dígitos que identifican las principales ciudades del país)"
+    },
+    {
+      "country": "PL",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PL",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PL",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PT",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PT",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PT",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PR",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PR",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "PR",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RO",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RO",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RO",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RU",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RU",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RU",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SM",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SM",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SM",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SA",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SA",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SA",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RS",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RS",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "RS",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SG",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SG",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SG",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SK",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SK",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SK",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ZA",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ZA",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ZA",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "KR",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "KR",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "KR",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ES",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ES",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "ES",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SE",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SE",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "SE",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "TH",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "TH",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "TH",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "UA",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "UA",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "UA",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "AE",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "AE",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "AE",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "GB",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "GB",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "GB",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "US",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "US",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "US",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "US",
+      "fieldName": "homePhone",
+      "description": "Teléfono",
+      "type": "Texto en formato \"+5511999999999\", donde \"+55\" es el código de país seguido del número de teléfono con DDD (código de 2 dígitos que identifican las principales ciudades del país)"
+    },
+    {
+      "country": "VE",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "VE",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "VE",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "MX",
+      "fieldName": "firstName",
+      "description": "Nombre del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "MX",
+      "fieldName": "lastName",
+      "description": "Apellido del cliente",
+      "type": "Texto"
+    },
+    {
+      "country": "MX",
+      "fieldName": "email",
+      "description": "Email del cliente",
+      "type": "Texto"
+    }
+  ]
+}

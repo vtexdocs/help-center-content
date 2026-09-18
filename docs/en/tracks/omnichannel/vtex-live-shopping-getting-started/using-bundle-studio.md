@@ -119,7 +119,7 @@ Also, there’s a <i class="fas fa-toggle-off" aria-hidden="true"></i> **Show di
 The name will show in white letters against a dark background and can’t be changed. However, you can customize the initial stripe color, as it’s the same as **Banners > Theme Color**. Creating a banner isn’t necessary to activate this option, you only have to define the theme color, which is black by default. The image below is an example of a pink **Theme Color**:
 
 <p align="center">
-  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_7.png" alt="article_8_asset_types_EN" width="200" height="30">
+  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_7.png" alt="article_8_asset_types_EN" width="200" height="30" />
 
 ### Asset dimensions
 

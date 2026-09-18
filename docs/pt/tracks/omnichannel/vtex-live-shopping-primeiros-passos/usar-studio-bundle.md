@@ -119,7 +119,7 @@ Existe também a opção <i class="fas fa-toggle-off" aria-hidden="true"></i> **
 O nome será exibido em letras brancas sobre um fundo escuro e não poderá ser alterado. Só é possível personalizar a cor inicial da faixa, pois é a mesma usada em **Banners > Theme Color** (Cor do tema). Não é necessário criar um banner para ativar essa opção, você só precisa definir a cor do tema, que é preta por padrão. A imagem abaixo é um exemplo de uma cor de tema rosa:
 
 <p align="center">
-  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_7.png" alt="article_8_asset_types_EN" width="200" height="30">
+  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_7.png" alt="article_8_asset_types_EN" width="200" height="30" />
 
 ### Dimensões dos recursos
 

@@ -19,7 +19,7 @@ To start using the search features, you need to add Intelligent Search component
 
 Contact your store's developer team to customize the frontend using the technology-specific components listed below.
 
-> ℹ️ This step does not apply to headless implementation scenarios, in which VTEX does not provide the frontend technology. In these cases, you will need to implement the sending of search events. For more details, see [VTEX Intelligent Search Events API - Headless](https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless).
+> ℹ️ This step does not apply to headless implementation scenarios, in which VTEX does not provide the frontend technology. In these cases, search impressions and clicks must be tracked manually using Activity Flow. For implementation details, see [Tracking search analytics events in headless web stores](https://developers.vtex.com/docs/guides/tracking-search-analytics-events-in-headless-web-stores) and [Tracking search analytics events in mobile apps](https://developers.vtex.com/docs/guides/tracking-search-analytics-events-in-mobile-apps).
 
 ## Store Framework
 
