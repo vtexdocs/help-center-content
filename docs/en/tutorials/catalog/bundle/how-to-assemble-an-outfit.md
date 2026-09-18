@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 17Lkzo2rGBE1Bt7dXjE0tV
 ---
 
-> ⚠️ Tutorial valid only for Legacy CMS Stores.
+> ⚠️ This tutorial only applies to [CMS Portal (Legacy)](https://help.vtex.com/docs/tracks/legacy-cms-portal) stores.
 
 Learn how to set up an Outfit (previously called Kit Look) in VTEX.
 
