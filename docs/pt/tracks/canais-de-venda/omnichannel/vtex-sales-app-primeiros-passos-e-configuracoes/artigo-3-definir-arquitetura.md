@@ -1,8 +1,8 @@
 ---
-title: 'Definições da arquitetura da operação'
+title: 'Definir arquitetura da operação para o Sales App'
 status: PUBLISHED
-createdAt: 2026-09-17T00:00:00.000Z
-updatedAt: 2026-09-17T00:00:00.000Z
+createdAt: 2026-09-18T00:00:00.000Z
+updatedAt: 2026-09-18T00:00:00.000Z
 contentType: trackArticle
 productTeam: Shopping
 slugEN: XXXXXX
