@@ -24,7 +24,7 @@ Além de permitir realizar tudo o que era feito pela [interface legada](https://
 - A possibilidade de criar e gerenciar sortimentos
 - A opção de gerenciar coleções usando como critério especificações de produto e especificações de SKU.
 
-> ℹ️ O **Agente de Coleções** não permite a ordenação de produtos.
+> ℹ️ O **Agente de Coleções** não permite alterar diretamente a ordem dos produtos via chat. Para reordená-los, é necessário enviar ao agente uma planilha atualizada com os itens na ordem desejada e no formato `.xls` ou `.xlsx`. Esta opção de ordenação está disponível apenas para coleções estáticas.
 
 ## Avisos da fase beta
 
