@@ -11,7 +11,7 @@ trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 4
 ---
 
-Após checar os [requisitos necessários](https://help.vtex.com/pt/docs/tracks/requisitos-tecnicos-para-usar-o-vtex-sales-app) e definir a [arquitetura da sua operação](XXX), siga as orientações deste artigo para instalar o **VTEX Sales App** na sua conta principal.
+Após checar os [requisitos necessários](XXX) e definir a [arquitetura da sua operação](XXX), siga as orientações deste artigo para instalar o **VTEX Sales App** na sua conta principal.
 
 ## Instalação no Admin VTEX
 
@@ -33,13 +33,13 @@ Feito isso, uma nova página sobre checkout será criada no seu Admin VTEX, na p
 
 > ⚠️ Por padrão, o **Sales App** deve ser utilizado sempre no site `default` da conta principal para simplificar a operação da loja e evitar erros.
 
-Caso deseje confirmar se a instalação do `checkout/instore` foi feita no site correto, cheque se o nome `default` aparece na URL, como em: `https://{nomeloja}.myvtex.com/admin/portal#/sites/default/code`.
+Caso deseje confirmar se a instalação do `checkout/instore` foi feita no local correto, cheque se o nome `default` aparece na URL da aba **Código**, como em: `https://{nomeloja}.myvtex.com/admin/portal#/sites/default/code`.
 
 ## Instalação em dispositivos móveis
 
-> ❗ Antes de instalar e usar o aplicativo em dispositivos móveis, é necessário realizar não apenas a instalação do **Sales App** no Admin, mas concluir suas [configurações básicas](XXX), como será explicado no próximo artigo desta trilha.
+> ❗ Antes de usar o **Sales App** em dispositivos móveis, é necessário realizar não apenas a instalação do **Sales App** no Admin VTEX, mas também concluir suas [configurações básicas](XXX), como será explicado no próximo artigo desta trilha.
 
-Após instalar e [configurar](XXX) o **Sales App** no Admin VTEX, você poderá usá-lo em dispositivos móveis, como tablets ou smartphones. Veja a seguir os links de download para cada sistema operacional:
+Após instalar e [configurar](XXX) o **Sales App** no Admin VTEX, você poderá usá-lo em dispositivos móveis, como tablets ou smartphones. Veja a seguir os links de download referentes a cada sistema operacional:
 
 | Sistema operacional | Link de download |
 |---------------------|------------------|
