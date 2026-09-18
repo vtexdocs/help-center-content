@@ -101,6 +101,37 @@
             },
             {
               "name": {
+                "en": "Setembro",
+                "es": "Setembro",
+                "pt": "Setembro"
+              },
+              "slug": {
+                "en": "setembro",
+                "es": "setembro",
+                "pt": "2026-setembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Agent Builder: mais controle na configuração de agentes e da base de conhecimento",
+                    "en": "Agent Builder: mais controle na configuração de agentes e da base de conhecimento",
+                    "es": "Agent Builder: mais controle na configuração de agentes e da base de conhecimento"
+                  },
+                  "slug": {
+                    "pt": "2026-09-18-agent-builder-mais-controle-na-configuracao-de-agentes-e-da-base-de-conhecimento",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "August",
                 "es": "Agosto",
                 "pt": "Agosto"
@@ -67761,13 +67792,13 @@
             {
               "name": {
                 "en": "Custom sitemap (saveIndex) returns \"Entity not found\" on the final domain",
-                "es": "KI El mapa del sitio personalizado (saveIndex) devuelve \"Entidad no encontrada\" en el dominio final.",
-                "pt": "KI O sitemap personalizado (saveIndex) retorna \"Entidade não encontrada\" no domínio final"
+                "es": "El mapa del sitio personalizado (saveIndex) devuelve \"Entidad no encontrada\" en el dominio final.",
+                "pt": "O sitemap personalizado (saveIndex) retorna \"Entidade não encontrada\" no domínio final."
               },
               "slug": {
                 "en": "custom-sitemap-saveindex-returns-entity-not-found-on-the-final-domain",
-                "es": "ki-el-mapa-del-sitio-personalizado-saveindex-devuelve-entidad-no-encontrada-en-el-dominio-final",
-                "pt": "ki-o-sitemap-personalizado-saveindex-retorna-entidade-nao-encontrada-no-dominio-final"
+                "es": "el-mapa-del-sitio-personalizado-saveindex-devuelve-entidad-no-encontrada-en-el-dominio-final",
+                "pt": "o-sitemap-personalizado-saveindex-retorna-entidade-nao-encontrada-no-dominio-final"
               },
               "origin": "",
               "type": "markdown",
