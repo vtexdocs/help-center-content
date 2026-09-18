@@ -15,6 +15,8 @@ Links da planilha da Biba: checar `https://docs.google.com/spreadsheets/d/1dLk-p
 
 \\✅ CONTEÚDO QUE ANTES ERA DO ARTIGO DE REQUISITOS GERAIS
 
+No contexto do **Sales App**, recomendamos que as lojas contratem empresas de [pagamento](#pagamento) e [faturamento](#faturamento) que tenham parceria com a VTEX, conforme apresentado na seção a seguir.
+
 ## Parcerias empresariais VTEX
 
 Para facilitar a operação das lojas e oferecer maior segurança, a VTEX realiza parcerias com algumas empresas. Nesta seção, elas estão listadas por categoria, de acordo com sua atuação na operação de lojas físicas no **Sales App**.
