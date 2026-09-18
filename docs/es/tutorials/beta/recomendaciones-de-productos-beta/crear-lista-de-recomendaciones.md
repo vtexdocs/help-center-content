@@ -1,7 +1,7 @@
 ---
 title: 'Crear lista de recomendaciones (beta)'
 createdAt: 2026-03-17T13:01:10.919Z
-updatedAt: 2026-03-17T13:01:10.919Z
+updatedAt: 2026-09-17T14:00:00.000Z
 publishedAt: 2026-03-17T13:01:10.919Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -102,6 +102,7 @@ Accede al [Dashboard de recomendaciones](https://help.vtex.com/es/docs/tutorials
 
 - [Recomendaciones de productos (beta)](https://help.vtex.com/es/docs/tutorials/recomendaciones-de-productos-beta)
 - [Dashboard de recomendaciones (beta)](https://help.vtex.com/es/docs/tutorials/dashboard-de-recomendaciones)
+- [Informes de recomendaciones (beta)](https://help.vtex.com/es/docs/tutorials/informes-de-recomendaciones)
 - [Recommendation Shelf (Store Framework)](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf)
 - [Integrating product recommendations in headless or FastStore web stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-or-faststore-web-stores)
 - [Integrating product recommendations in mobile stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-mobile-stores)

@@ -3,7 +3,7 @@ title: 'Dashboard de recomendaciones (beta)'
 id: 2QIexbD2FSXBxELUnFtg7g
 status: PUBLISHED
 createdAt: 2026-02-20T13:01:10.919Z
-updatedAt: 2026-02-20T13:01:10.919Z
+updatedAt: 2026-09-17T14:00:00.000Z
 publishedAt: 2026-02-20T13:01:10.919Z
 firstPublishedAt: 2025-06-27T20:41:49.041Z
 contentType: tutorial
@@ -139,6 +139,7 @@ Para remover un filtro, repite los pasos 1 y 2 y haz clic en `Limpiar`.
 ## Más información
 
 - [Recomendaciones de productos (beta)](https://help.vtex.com/es/docs/tutorials/recomendaciones-de-productos-beta)
+- [Informes de recomendaciones (beta)](https://help.vtex.com/es/docs/tutorials/informes-de-recomendaciones)
 - [Recommendation Shelf (Store Framework)](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf)
 - [Integrating product recommendations in headless or FastStore web stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-or-faststore-web-stores)
 - [Integrating product recommendations in mobile stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-mobile-stores)

@@ -138,6 +138,7 @@ Para remover um filtro, repita os passos 1 e 2 e clique em `Limpar`.
 ## Saiba mais
 
 * [Recomendações de produtos](https://help.vtex.com/pt/docs/tutorials/recomendacoes-de-produtos-beta)  
+* [Relatórios de recomendações (Beta)](https://help.vtex.com/pt/docs/tutorials/relatorios-de-recomendacoes)
 * [Recommendation Shelf (Store Framework)](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf)
 * [Integrating product recommendations in headless or FastStore web stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-or-faststore-web-stores)  
 * [Integrating product recommendations in mobile stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-mobile-stores)

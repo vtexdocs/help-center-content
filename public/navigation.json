@@ -35693,6 +35693,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Recommendations reports (Beta)",
+                    "es": "Informes de recomendaciones (beta)",
+                    "pt": "Relatórios de recomendações (Beta)"
+                  },
+                  "slug": {
+                    "en": "recommendations-reports",
+                    "es": "informes-de-recomendaciones",
+                    "pt": "relatorios-de-recomendacoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },

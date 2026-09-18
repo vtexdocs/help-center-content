@@ -102,6 +102,7 @@ Acesse o [Dashboard de recomendações](https://help.vtex.com/pt/docs/tutorials/
 
 * [Recomendações de produtos (Beta)](https://help.vtex.com/pt/docs/tutorials/recomendacoes-de-produtos-beta)
 * [Dashboard de recomendações (Beta)](https://help.vtex.com/pt/docs/tutorials/dashboard-de-recomendacoes)
+* [Relatórios de recomendações (Beta)](https://help.vtex.com/pt/docs/tutorials/relatorios-de-recomendacoes)
 * [Recommendation Shelf (Store Framework)](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf)
 * [Integrating product recommendations in headless or FastStore web stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-or-faststore-web-stores)
 * [Integrating product recommendations in mobile stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-mobile-stores)

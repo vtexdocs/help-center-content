@@ -3,7 +3,7 @@ title: 'Recommendations dashboard (beta)'
 id: 2QIexbD2FSXBxELUnFtg7g
 status: PUBLISHED
 createdAt: 2026-02-20T13:01:10.919Z
-updatedAt: 2026-02-20T13:01:10.919Z
+updatedAt: 2026-09-17T14:00:00.000Z
 publishedAt: 2026-02-20T13:01:10.919Z
 firstPublishedAt: 2025-06-27T20:41:49.041Z
 contentType: tutorial
@@ -139,6 +139,7 @@ To remove a filter, repeat steps 1 and 2 and click `Clear`.
 ## Learn more
 
 - [Product Recommendations](https://help.vtex.com/docs/tutorials/product-recommendations-beta)
+- [Recommendations reports (beta)](https://help.vtex.com/en/docs/tutorials/recommendations-reports)
 - [Recommendation Shelf (Store Framework)](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf)
 - [Integrating product recommendations in headless or FastStore web stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-or-faststore-web-stores)
 - [Integrating product recommendations in mobile stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-mobile-stores)
