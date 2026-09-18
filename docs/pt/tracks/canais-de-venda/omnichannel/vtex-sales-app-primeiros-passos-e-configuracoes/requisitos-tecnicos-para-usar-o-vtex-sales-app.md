@@ -63,28 +63,3 @@ O **Sales App** permite ler o código de barras dos produtos com a câmera do ta
 ### Máquinas de cartão
 
 As máquinas de cartão de crédito e débito, com tecnologias Bluetooth ou USB, permitem que as lojas físicas processem pagamentos. Elas são oferecidas por parceiros de pagamento, sejam adquirentes ou subadquirentes.
-
-No contexto do **Sales App**, recomendamos que as lojas contratem empresas de [pagamento](#pagamento) e [faturamento](#faturamento) que tenham parceria com a VTEX, conforme apresentado na seção a seguir.
-
-## Parcerias empresariais VTEX
-
-Para facilitar a operação das lojas e oferecer maior segurança, a VTEX realiza parcerias com algumas empresas. Nesta seção, elas estão listadas por categoria, de acordo com sua atuação na operação de lojas físicas no **Sales App**.
-
-> ℹ️ Além das parcerias empresariais apresentadas neste artigo, a VTEX conta com a participação de diversas agências e [parceiros de implementação (System Integration Partners)](https://vtex.com/br-pt/partner/). Para mais informações, entre em contato com o [Suporte VTEX](https://supporticket.vtex.com/support).
-
-### Integração com pontos de venda (PDV)
-
-- Jitterbit
-- Neomode
-
-### Pagamento
-
-- Pagar.me
-- Adyen
-- Cielo
-- Mercado Pago
-
-### Faturamento
-
-- [e-Millennium](https://e-millennium.com.br/)
-- [Webbsys](https://www.webbsys.com.br/)
