@@ -38,7 +38,9 @@ Ten en cuenta que:
 * Los envíos son todos los despachos de pedidos de la tienda (entrega o recogida).
 * La entrega es un tipo de envío en el que el cliente recibe a domicilio los ítems adquiridos en el sitio web de _ecommerce_.
 
-### Cómo configurar
+> ℹ️ VTEX admite hasta 10 000 rutas de envío por cuenta. Una ruta es cada combinación posible entre muelle, almacén, política de envío y [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) registrados en tu tienda, es decir, el número de rutas resulta de multiplicar estas cuatro entidades. Cuando se supera este límite, la cantidad disponible de los ítems puede mostrarse con divergencias en la tienda. Por eso, al crear tu estrategia de envío evita crear combinaciones que no se vayan a utilizar.
+
+## Configuración
 
 El orden de configuración sugerido para el funcionamiento esperado de las [estrategias de envío](/es/docs/tutorials/estrategia-de-envio) es:
 
@@ -54,8 +56,6 @@ El punto de recogida está disponible en el _checkout_ como opción de envío y 
 
 > ℹ️ La configuración de la Estrategia de envío también se puede realizar a través de las API. Consulta las API disponibles: <body> <ul> <li>[API de muelles</li>](https://developers.vtex.com/vtex-rest-api/reference/docks) <li>[API de almacenes</li>](https://developers.vtex.com/vtex-rest-api/reference/createupdatewarehouse) <li>[API de políticas de envío</li>](https://developers.vtex.com/vtex-rest-api/reference/get_logistics-pvt-shipping-policies-id) <li>[API de puntos de recogida</li>](https://developers.vtex.com/vtex-rest-api/reference/listallpickupppoints)
 
-### Cómo configurar
-
 Para las [estrategias de envío](/es/docs/tutorials/estrategia-de-envio) que utilizan puntos de recogida, el orden de registro sugerido es:
 
 1. [Registro de los punto de recogida](/es/docs/tutorials/registro-de-puntos-de-recogida) 
@@ -66,11 +66,11 @@ Para las [estrategias de envío](/es/docs/tutorials/estrategia-de-envio) que uti
 6. [Registro de geolocalización](/es/docs/tutorials/gestionar-geolocalizacion)
 7. Configuración de los puntos de recogida disponibles en el _checkout_
 
-> ⚠️ Consulta los pasos detallados sobre [cómo configurar un punto de recogida.](/es/docs/tutorials/puntos-de-recogida#como-configurar)
+> ⚠️ Consulta los pasos detallados en el artículo [Cómo configurar un punto de recogida](/es/docs/tutorials/puntos-de-recogida#como-configurar-puntos-de-recogida).
 
 ## Tiempo de envío y feriados
 
-Cuando el cliente tiene los ítems en el _checkout_ y añade los datos de ubicación, la plataforma estima el tiempo de envío del pedido. El estimado (también conocido como SLA) se calcula tomando en cuenta los siguientes criterios:
+Cuando el cliente tiene ítems en el checkout y agrega los datos de ubicación, la plataforma estima el tiempo de envío del pedido. El estimado (también conocido como SLA) se calcula tomando en cuenta los siguientes criterios:
 
 * Horarios [configurados en el almacén](/es/docs/tutorials/gestionar-almacenes#campos-de-registro).
 * Horarios [configurados en el muelle](/es/docs/tutorials/gestionar-el-muelle#campos-de-registro).
@@ -83,7 +83,7 @@ Para ver más detalles sobre el cálculo del SLA, consulta el artículo [Cómo s
 
 Los feriados son importantes para determinar el plazo de envío, ya que está directamente relacionado con el plazo de entrega de los pedidos de tu tienda. VTEX considera que los feriados son los días en los que tu tienda no funcionará.
 
-> ⚠️ Se recomienda que el registro de los feriados se realice después de la configuración de las estrategias de envío.
+> ⚠️ Se recomienda que el registro de feriados se realice después de configurar las [estrategias de envío](/es/docs/tutorials/estrategia-de-envio).
 
 Para registrar los feriados en la plataforma, puedes:
 
@@ -92,4 +92,4 @@ Para registrar los feriados en la plataforma, puedes:
 
 Puedes registrar los horarios de entrega para envíos programados de las transportadoras y puntos de recogida. La funcionalidad **[Entrega programada](/es/docs/tutorials/entrega-programada)** permite a la tienda ofrecer ventanas de entrega a los clientes.
 
-> ℹ️ El envío también depende del [costo de envío](/es/docs/tutorials/costo-final-del-envio) que tu tienda ofrece a los clientes. Este tema se presentará en los próximos artículos. Para entender mejor cómo se eligen las transportadoras que realizarán una entrega, consulta el artículo [Cómo funciona el cálculo del flete](/es/docs/tutorials/como-funciona-el-calculo-del-envio).
+> ℹ️ El envío depende también del [costo de envío](/es/docs/tutorials/costo-final-del-envio) que tu tienda ofrece a los clientes. Este tema se abordará en los próximos artículos. Para más información sobre cómo se eligen las transportadoras encargadas del envío, consulta el artículo [Cómo funciona el cálculo del envío](/es/docs/tutorials/como-funciona-el-calculo-del-envio).

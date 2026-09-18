@@ -38,7 +38,9 @@ Please note that:
 * Shipping includes both delivery and pickup.
 * Delivery is a type of shipping where the customer receives the items purchased on the ecommerce at their address.
 
-### Configuration
+> ℹ️ VTEX supports up to 10,000 shipping routes per account. A route represents each possible combination of loading dock, inventory, shipping policy, and [sales channel](/docs/tutorials/how-trade-policies-work) in your store. The total number of routes is calculated by multiplying the number of these four entities. When this threshold is exceeded, the available number of items may be displayed inconsistently in the store. Therefore, when setting up your shipping strategy, avoid creating combinations that won't be used.
+
+## Configuration
 
 For proper operation, we suggest configuring the [shipping strategies](/en/docs/tutorials/shipping-strategy) following the order below.
 
@@ -54,8 +56,6 @@ The pickup point is displayed at checkout as a shipping option. The customer can
 
 > ℹ️ The shipping strategy can also be configured via API. You can use the following APIs: <ul> <li>[Loading docks API](https://developers.vtex.com/vtex-rest-api/reference/docks); <li>[Warehouses API](https://developers.vtex.com/vtex-rest-api/reference/createupdatewarehouse); <li>[Shipping policies API](https://developers.vtex.com/vtex-rest-api/reference/get_logistics-pvt-shipping-policies-id); <li>[Pickup points API](https://developers.vtex.com/vtex-rest-api/reference/listallpickupppoints). </ul>
 
-### Configuration
-
 When configuring [shipping strategies](/en/docs/tutorials/shipping-strategy) that use pickup points, we recommend following the order below:
 
 1. [Pickup points](/en/docs/tutorials/pickup-points); 
@@ -66,11 +66,11 @@ When configuring [shipping strategies](/en/docs/tutorials/shipping-strategy) tha
 6. [Geolocation](/en/docs/tutorials/registering-geolocation);
 7. Configuration of the pickup points available at checkout.
 
-> ⚠️ For more information, please refer to the article [Configuring pickup points.](/en/docs/tutorials/pickup-points#setup)
+> ⚠️ For more information, see the article [Configuring pickup points](https://help.vtex.com/docs/tutorials/pickup-points#how-to-set-up-pickup-points).
 
 ## Shipping time and holidays
 
-When the customer has items in the cart and enters the location data at checkout, the platform estimates the shipping time for the order. This estimate (also called SLA) is calculated considering the following criteria:
+When the customer has items in the cart and enters the location information at checkout, the platform estimates the shipping time for the order. This estimate (also called SLA) is calculated considering the following criteria:
 
 * The times [configured for the inventories](/en/docs/tutorials/managing-warehouses#campos-de-cadastro).
 * The times [configured for the loading dock](/en/docs/tutorials/managing-loading-docks#campos-de-cadastro).
@@ -83,7 +83,7 @@ For more details about the SLA calculation, read the article [How is the deliver
 
 Holidays are important in determining the shipping time, as they are directly related to the delivery time of your store's orders. VTEX considers holidays to be days when the store does not operate.
 
-> ⚠️ We recommended that you register holidays after configuring the [shipping strategies](/en/docs/tutorials/shipping-strategy).
+> ⚠️ We recommend that you add the holidays after configuring the [shipping strategies](/docs/tutorials/shipping-strategy).
 
 To register holidays on the platform, you can:
 
@@ -92,5 +92,5 @@ To register holidays on the platform, you can:
 
 You can register delivery times for scheduled deliveries from carriers and pickup points. The **[Scheduled delivery](/en/docs/tutorials/scheduled-delivery)** feature allows stores to offer delivery windows to their customers.
 
-> ℹ️ Shipping also depends on the [shipping cost](/en/docs/tutorials/total-shipping-cost) that your store offers to customers. This subject will be covered in the following articles. For more information about how carriers are chosen to for deliveries, read the article [ How shipping is calculated](/en/docs/tutorials/how-shipping-calculation-works).
+> ℹ️ Shipping also depends on the [shipping cost](/en/docs/tutorials/total-shipping-cost) that your store offers to customers. This subject will be covered in the following articles. For more information about how carriers are chosen for deliveries, see the article [How shipping is calculated](/docs/tutorials/how-shipping-calculation-works).
 

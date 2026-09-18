@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-En algunas ocasiones, un producto correctamente configurado y que [se muestra como disponible en la vitrina](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web) puede mostrarse indisponible al agregarlo al carrito. Varios aspectos de [logística](/es/docs/tutorials/fulfillment-logistica-vtex) pueden afectar la disponibilidad del producto en el carrito. Los siguientes temas permiten identificar las posibles causas:
+A veces un ítem se muestra indisponible al agregarlo al carrito a pesar de haber configurado correctamente el producto y de que [se muestre como disponible en la vitrina](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web). La indisponibilidad del producto en el carrito puede deberse a distintos aspectos de la [logística](/es/docs/tutorials/fulfillment-logistica-vtex). Los siguientes temas permiten identificar las posibles causas:
 
 * [Simulador de envío](#simulador-de-envio)
 * [Stock](#stock)
@@ -63,6 +63,8 @@ A continuación se listan las principales causas de indisponibilidad del product
 
 > ℹ️ Estos escenarios deben considerarse en el contexto de venta. Tener un almacén inactivo no causa indisponibilidad del producto. Sin embargo, si ese es el único almacén que da servicio a la ruta de envío y está inactivo, el producto se mostrará como indisponible en el carrito.
 
+> ℹ️ VTEX admite hasta 10 000 rutas de envío por cuenta. Una ruta es cada combinación posible entre muelle, almacén, política de envío y [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) registrados en tu tienda, es decir, el número de rutas resulta de multiplicar estas cuatro entidades. Cuando se supera este límite, la cantidad disponible de los ítems puede mostrarse con divergencias en la tienda. Por eso, al definir tu estrategia de envío evita crear combinaciones que no se utilizarán.
+
 ## Configuración de la política de envío
 
 La [política de envío](/es/docs/tutorials/politica-de-envio) es un conjunto de reglas y configuración que definen las opciones de envío que se mostrarán a los clientes en el carrito. Los principales elementos de la política de envío que afectan la disponibilidad del producto en el carrito son:
@@ -90,7 +92,7 @@ Otros ajustes de la transportadora que pueden afectar la disponibilidad del prod
 
 ### Dimensiones y factor volumétrico de peso
 
-Para que el [factor volumétrico de peso](/es/docs/tutorials/como-se-calcula-el-peso-cubico) no afecte la disponibilidad del producto, se debe garantizar que el producto esté dentro de las **dimensiones del paquete** configuradas en la política de envío:
+Con respecto al [factor volumétrico de peso](/es/docs/tutorials/como-se-calcula-el-peso-cubico), es necesario garantizar que el producto esté dentro de las **Dimensiones del paquete** configuradas en la política de envío. Son las siguientes:
 
 * Suma de las dimensiones
 * Longitud máxima

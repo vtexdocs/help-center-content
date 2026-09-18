@@ -15,7 +15,8 @@ locale: es
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-Estrategia de envío es la relación entre stock, muelle y política de envío; es decir, la forma en que se comunican el stock, el muelle y la política de envío definirá la coordinación de la estructura de entrega de los pedidos de la tienda. 
+La estrategia de envío es la relación entre almacén, muelle y política de envío. La forma en que se comunican el almacén, el muelle y la política de envío definirá la combinación de la estructura de envío de los pedidos de la tienda.
+
 
 ![shipping_strategy_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/estratégia-de-envío/estrategia-de-envio_1.png)
 
@@ -42,6 +43,8 @@ Estrategia de envío es la relación entre stock, muelle y política de envío; 
             </td>
     </tr>
 </table>
+
+> ℹ️ VTEX admite hasta 10 000 rutas de envío por cuenta. Una ruta es cada combinación posible entre muelle, almacén, política de envío y [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) registrados en tu tienda, es decir, el número de rutas resulta de multiplicar estas cuatro entidades. Cuando se supera este límite, la cantidad disponible de los ítems puede mostrarse con divergencias en la tienda. Por eso, al definir tu estrategia de envío evita crear combinaciones que no vayan a utilizarse.
 
 ## Primeras configuraciones logísticas
 
