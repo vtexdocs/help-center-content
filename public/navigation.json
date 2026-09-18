@@ -101,6 +101,37 @@
             },
             {
               "name": {
+                "en": "Setembro",
+                "es": "Setembro",
+                "pt": "Setembro"
+              },
+              "slug": {
+                "en": "setembro",
+                "es": "setembro",
+                "pt": "2026-setembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Pedidos: visualização de promoção por item disponível para todas as lojas",
+                    "en": "Pedidos: visualização de promoção por item disponível para todas as lojas",
+                    "es": "Pedidos: visualização de promoção por item disponível para todas as lojas"
+                  },
+                  "slug": {
+                    "pt": "2026-09-18-pedidos-visualizacao-de-promocao-por-item-disponivel-para-todas-as-lojas",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "August",
                 "es": "Agosto",
                 "pt": "Agosto"
