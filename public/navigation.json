@@ -69,6 +69,21 @@
                 },
                 {
                   "name": {
+                    "en": "Master Data: bulk document deletion via API",
+                    "es": "Master Data: eliminación masiva de documentos vía API",
+                    "pt": "Master Data: exclusão em massa de documentos via API"
+                  },
+                  "slug": {
+                    "en": "2026-09-04-master-data-bulk-document-deletion-via-api",
+                    "es": "2026-09-04-master-data-eliminacion-masiva-de-documentos-via-api",
+                    "pt": "2026-09-04-master-data-exclusao-em-massa-de-documentos-via-api"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Intelligent Search: OR search results now ranked by relevance",
                     "es": "Intelligent Search: los resultados de búsquedas OR ahora se ordenan por relevancia",
                     "pt": "Intelligent Search: Resultados de busca OR agora ordenados por relevância"
