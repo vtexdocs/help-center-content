@@ -48,9 +48,9 @@ Nesta seção você encontra as seguintes informações:
 
 O modelo de dados de busca é composto por três tipos de tabela, cada uma com um papel específico:
 
-- **Tabelas fato:** armazenam eventos que aconteceram. Cada linha é um registro de uma ação, uma busca realizada, um clique em um produto ou uma impressão exibida. São as tabelas com maior volume de dados e o ponto de partida para a maioria das análises. Exemplo: na tabela `request`, cada linha registra uma busca feita por um comprador, com o termo pesquisado, os filtros aplicados e o timestamp do evento.
-- **Tabelas ponte:** estabelecem relacionamentos entre duas entidades. Não possuem dados de negócio próprios, apenas chaves que conectam registros de outras tabelas. Exemplo: a tabela `impression_click` contém apenas `impression_id` e `click_id`, permitindo responder "quais impressões geraram cliques?" sem duplicar dados de nenhuma das duas tabelas originais.
-- **Tabelas dimensão:** armazenam atributos descritivos e configurações que contextualizam os eventos. Este tipo de tabela muda com menos frequência e possui menor volume de dados. Exemplo: a tabela `request_setting` indica qual cluster do [Elasticsearch](https://www.elastic.co/elasticsearch) processou a busca e quais flags estavam ativas, como `hide_unavailable_items` ou `merchandising_rules_enabled`, permitindo analisar como diferentes configurações impactam os resultados.
+- **Tabelas fato:** armazenam eventos que aconteceram. Cada linha é um registro de uma ação, uma busca realizada, um clique em um produto ou uma impressão exibida. São as tabelas com maior volume de dados e o ponto de partida para a maioria das análises. Por exemplo, na tabela `request`, cada linha registra uma busca feita por um comprador, com o termo pesquisado, os filtros aplicados e o timestamp do evento.
+- **Tabelas ponte:** estabelecem relacionamentos entre duas entidades. Não possuem dados de negócio próprios, apenas chaves que conectam registros de outras tabelas. Por exemplo, a tabela `impression_click` contém apenas `impression_id` e `click_id`, permitindo responder "quais impressões geraram cliques?" sem duplicar dados de nenhuma das duas tabelas originais.
+- **Tabelas dimensão:** armazenam atributos descritivos e configurações que contextualizam os eventos. Este tipo de tabela muda com menos frequência e possui menor volume de dados. Por exemplo, a tabela `request_setting` indica qual cluster do [Elasticsearch](https://www.elastic.co/elasticsearch) processou a busca e quais flags estavam ativas, como `hide_unavailable_items` ou `merchandising_rules_enabled`, permitindo analisar como diferentes configurações impactam os resultados.
 
 O diagrama abaixo mostra como as tabelas se organizam por tipo e se conectam entre si:
 
@@ -104,7 +104,7 @@ flowchart TB
 
 Veja abaixo três fluxos distintos de utilização dos dados
 
-- Fluxo 1: representa a jornada de uma requisição de busca e os detalhes que a compõem. Exemplo: um comprador busca "tênis de corrida" com filtros de marca e preço.
+- Fluxo 1: representa a jornada de uma requisição de busca e os detalhes que a compõem. Por exemplo, um comprador busca "tênis de corrida" com filtros de marca e preço.
 
 ```mermaid
 %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
@@ -119,7 +119,9 @@ flowchart TD
     RESP -->|"search_id"| RP["response_product<br/>#1 Tênis Air Max - score: 95<br/>#2 Tênis Pegasus - score: 87<br/>#3 Tênis ZoomX - score: 82"]
 ```
 
-- Fluxo 2: representa a jornada completa do comprador, da recuperação de resultados → clicar → comprar. Exemplo: o comprador vê os resultados, clica no produto #2 e finaliza a compra.
+Neste diagrama, a requisição (`request`) se liga, pelo `search_id`, às configurações, filtros, resposta e produtos retornados — o recorte completo de uma única busca.
+
+- Fluxo 2: representa a jornada completa do comprador, da recuperação de resultados → clicar → comprar. Por exemplo, o comprador vê os resultados, clica no produto #2 e finaliza a compra.
 
 ```mermaid
 %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
@@ -135,6 +137,8 @@ flowchart LR
     IMP -->|"impression_id"| IOG
     IOG -->|"order_group"| ORD
 ```
+
+Neste diagrama, as tabelas ponte conectam impressão → clique e impressão → pedido, permitindo medir a conversão da busca até a compra.
 
 - Fluxo 3: cada requisição de busca pode ter múltiplos detalhes associados, todos vinculados por `search_id`. Uma mesma busca pode ter, por exemplo, dois filtros de texto, um filtro numérico e três vendedores ativos simultaneamente.
 
@@ -152,6 +156,8 @@ flowchart TD
     REQ -->|"search_id"| HS["request_hybrid_search<br/>model: openai:text-embedding<br/>-3-small<br/>ratio: 0.5"]
     REQ -->|"search_id"| DPS["request_dp_shipping<br/>shipping: pickup-in-point"]
 ```
+
+Neste diagrama, uma única `request` pode ter vários detalhes em paralelo (filtros, regras, vendedores, busca híbrida e promessas de entrega), todos unidos pelo mesmo `search_id`.
 
 ## Características dos dados
 
@@ -328,8 +334,8 @@ Os campos da tabela são descritos abaixo:
 | order_group | string | Identificador do grupo de pedidos. Vincula a impressão a uma transação de pedido específica (que também pode ser encontrada no Modelo de Dados de Pedidos), permitindo análise abrangente da jornada do cliente desde a impressão da busca até a compra. |
 | order_placement_time | timestamp | Timestamp em que a visualização da página de pedido foi finalizado. Reflete o horário de ingestão no servidor, não o relógio do dispositivo do comprador. |
 | impression_time | timestamp | Timestamp em que o evento de impressão foi ingerido pelo pipeline (`event_time` na tabela `impression`). Reflete o horário de ingestão no servidor. |
-| impression_element_source | string | Identifica a origem do evento de impressão no frontend. Coluna duplicada da tabela `impression` para reduzir joins pesados. |
-| session_id | string | Identificador de sessão do Activity Flow da impressão atribuída, copiado da tabela `impression`. Permite joins com a sessão no Activity Flow sem retornar à tabela `impression`. |
+| impression_element_source | string | Identifica a origem do evento de impressão no frontend. Coluna duplicada da tabela `impression` para reduzir a necessidade de correlacionar tabelas pesadas. |
+| session_id | string | Identificador de sessão do Activity Flow da impressão atribuída, copiado da tabela `impression`. Permite correlacionar com a sessão no Activity Flow sem retornar à tabela `impression`. |
 | record_created_at | timestamp | Timestamp de quando este registro foi criado no lakehouse. |
 | record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no lakehouse. |
 | batch_id | timestamp | Identificador utilizado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. Também serve como chave de partição. |
@@ -590,7 +596,7 @@ Algumas das análises que podem ser realizadas utilizando as tabelas de busca s�
 - **Uso de filtros e facetas:** Entenda quais filtros e facetas são mais comumente utilizados pelos compradores. Analise como os filtros afetam os resultados de busca e as taxas de conversão.
 - **Eficácia da busca híbrida:** Compare o desempenho da busca semântica (busca híbrida) versus a busca tradicional por palavras-chave. Meça como a busca híbrida afeta as pontuações de relevância e as taxas de conversão.
 - **Análise de testes A/B:** Utilize dados de sp_variant e experimentos para analisar o impacto de diferentes configurações de busca, regras de relevância ou mudanças de UI no comportamento do usuário e conversão.
-- **Análise de origem da busca:** Compare o desempenho entre diferentes origens de busca para entender padrões de comportamento do usuário e otimizar cada ponto de entrada. Exemplo: autocomplete *versus* busca completa. 
+- **Análise de origem da busca:** Compare o desempenho entre diferentes origens de busca para entender padrões de comportamento do usuário e otimizar cada ponto de entrada. Por exemplo, autocomplete *versus* busca completa. 
 - **Impacto de regras de merchandising:** Meça como as regras de merchandising afetam a visibilidade dos produtos, cliques e conversões. Identifique quais regras são mais eficazes para impulsionar vendas.
 
 ## Correlações com outros dados

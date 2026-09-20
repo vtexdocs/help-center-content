@@ -15,15 +15,73 @@ locale: pt
 subcategoryId: oMrzcOMVbBpH0reeMFHFg
 ---
 
-O conjunto de dados de inventário é composto por duas tabelas: `item_inventory` e `warehouses_latest`. Juntas, elas fornecem informações sobre disponibilidade de itens, reservas, configuração de estoque, metadados de conta e atributos dos depósitos.
+O conjunto de dados de inventário é composto por duas tabelas: `item_inventory` e `warehouses_latest`. Juntas, elas fornecem informações sobre disponibilidade de itens, reservas, configuração de estoque, metadados de conta e atributos dos warehouses.
 
 Nesta seção você encontra as seguintes informações:
 
+- [Tipos de tabelas e relacionamentos](#tipos-de-tabelas-e-relacionamentos)
 - [Características dos dados de inventário](#caracteristicas-dos-dados-de-inventario)
 - [Tabela item_inventory](#tabela-item_inventory)
 - [Tabela warehouses_latest](#tabela-warehouses_latest)
 - [Análises com dados de inventário](#analises-com-dados-de-inventario)
 - [Correlações com outros dados](#correlacoes-com-outros-dados)
+
+## Tipos de tabelas e relacionamentos
+
+O modelo de Inventário combina estoque por item e metadados do warehouse:
+
+- **Tabela fato de estoque:** `item_inventory` registra quantidade, reservas e flags por combinação de conta, warehouse e item (`account_name` + `warehouse_id` + `item_id`).
+- **Tabela dimensão de warehouse:** `warehouses_latest` descreve o warehouse (nome, docks, pickup points, prioridade), ligada por `warehouse_id`.
+
+O diagrama abaixo mostra como as tabelas se conectam:
+
+```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+flowchart TB
+    subgraph FATO["Estoque"]
+        inv["item_inventory<br/>(quantidade e reservas por item/warehouse)"]
+    end
+
+    subgraph DIM["Warehouse"]
+        wh["warehouses_latest<br/>(cadastro e configuração do warehouse)"]
+    end
+
+    inv -->|"warehouse_id"| wh
+    inv -->|"item_id"| CAT["Modelo de dados<br/>de Catálogo<br/>sku"]
+    inv -->|"item_id"| ORD["Modelo de dados<br/>de Pedidos<br/>orders_items"]
+```
+
+### Exemplos de utilização
+
+Veja abaixo dois fluxos distintos de utilização dos dados:
+
+- Fluxo 1: estoque de um SKU em um warehouse ativo.
+
+```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+flowchart TD
+    I["item_inventory<br/>item_id: 1001<br/>quantity: 80<br/>reserved_quantity: 12"]
+    W["warehouses_latest<br/>warehouse_id: WH-SP<br/>is_active: true<br/>priority: 1"]
+
+    I -->|"warehouse_id"| W
+```
+
+Neste diagrama, `item_inventory` informa quantidade e reservas do SKU, a combinação com  `warehouse_id` traz o contexto do warehouse.
+
+- Fluxo 2: cruzar inventário com catálogo e pedidos para analisar ruptura e reposição.
+
+```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+flowchart LR
+    I["item_inventory<br/>item_id: 1001<br/>quantity: 0"]
+    S["Catálogo sku<br/>sku_id: 1001"]
+    O["Pedidos<br/>orders_items"]
+
+    I -->|"item_id"| S
+    I -->|"item_id"| O
+```
+
+Neste diagrama, o `item_id` liga o estoque zerado ao SKU no Catálogo e aos itens vendidos em Pedidos, apoiando análises de ruptura e reposição.
 
 ## Características dos dados de inventário
 
@@ -42,10 +100,10 @@ Conheça a seguir os campos que constituem a tabela:
 |---------|------------|----------|
 | main_account | character varying(200) | Nome da conta principal do lojista. Identifica a conta VTEX de nível mais alto à qual a loja/entidade pertence. |
 | account_name | character varying(200) | Nome da conta à qual o estoque pertence. Junto com `warehouse_id` e `item_id`, identifica unicamente um registro de inventário. |
-| warehouse_id | character varying(400) | ID do depósito onde o estoque está localizado. |
+| warehouse_id | character varying(400) | ID do warehouse onde o estoque está localizado. |
 | item_id | character varying(300) | Identifica o item cujo estoque está sendo quantificado (SKU ID). Parte da chave natural do registro de inventário. |
 | is_unlimited_quantity | boolean | Indica se o item pode ter estoque infinito (`true`) ou não (`false`). Quando `true`, a quantidade não é fisicamente limitada. |
-| quantity | bigint | Quantidade total de itens em estoque para o item no depósito (quantidade física total). |
+| quantity | bigint | Quantidade total de itens em estoque para o item no warehouse (quantidade física total). |
 | reserved_quantity | bigint | Número de reservas ativas do item. É calculado com base no último estado de disponibilidade e nos eventos de criação e cancelamento de reservas. |
 | last_update | timestamp without time zone | Última vez em que o estoque desse item específico foi atualizado. |
 | batch_id | character varying(13) | Identifica o último lote de ingestão que atualizou esta linha. Usado para rastreabilidade e qualidade de dados. |
@@ -59,15 +117,15 @@ Conheça a seguir os campos que constituem a tabela:
 
 | Nome da Coluna | Tipo da Coluna | Descrição da Coluna |
 |---------|------------|----------|
-| warehouse_id | character varying(100) | Identificador do depósito. |
-| warehouse_name | character varying(200) | Nome do depósito conforme a definição do Admin Console. |
+| warehouse_id | character varying(100) | Identificador do warehouse. |
+| warehouse_name | character varying(200) | Nome do warehouse conforme a definição do Admin Console. |
 | account_id | character varying(38) | Identificador da conta. |
 | account_name | character varying(100) | Nome da conta. |
-| is_active | boolean | Valor booleano que indica se um depósito está ativo. |
-| warehouse_docks | super | Especifica quais docks estão vinculados ao depósito. |
-| pickup_point_ids | super | Especifica quais pickup points estão vinculados ao depósito. Usado em compras via salesapp, quando o comprador faz check-in diretamente no pickup point. |
-| priority | integer | Critério de desempate usado para selecionar um depósito quando dois ou mais têm a mesma pontuação durante o processo de seleção de rota. |
-| is_deleted | boolean | Valor booleano que indica se um depósito foi excluído do admin console. |
+| is_active | boolean | Valor booleano que indica se um warehouse está ativo. |
+| warehouse_docks | super | Especifica quais docks estão vinculados ao warehouse. |
+| pickup_point_ids | super | Especifica quais pickup points estão vinculados ao warehouse. Usado em compras via salesapp, quando o comprador faz check-in diretamente no pickup point. |
+| priority | integer | Critério de desempate usado para selecionar um warehouse quando dois ou mais têm a mesma pontuação durante o processo de seleção de rota. |
+| is_deleted | boolean | Valor booleano que indica se um warehouse foi excluído do admin console. |
 | record_created_at | timestamp without time zone | Timestamp que indica quando o registro foi inserido. |
 | record_updated_at | timestamp without time zone | Timestamp que indica a última vez que o registro foi atualizado. |
 | parent_account_name | varchar(50) | Nome da conta pai no License Manager. É a estrutura de conta de nível mais alto. |

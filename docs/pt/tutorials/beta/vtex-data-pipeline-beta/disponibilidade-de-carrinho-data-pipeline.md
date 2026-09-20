@@ -18,13 +18,76 @@ subcategoryId: oMrzcOMVbBpH0reeMFHFg
 O modelo de dados de **Disponibilidade de carrinho** contém as informações mais recentes sobre o desempenho de uma loja em relação à sua métrica de disponibilidade de carrinho, avaliando qual porcentagem de carrinhos criados está realmente disponível para o comprador durante o checkout.
 
 Esta seção inclui as seguintes informações:
+
+- [Tipos de tabelas e relacionamentos](#tipos-de-tabelas-e-relacionamentos)
 - [Características dos dados](#características-dos-dados)  
 - [Tabela: cart_availability_silver_by_sku](#tabela-cart_availability_silver_by_sku)  
 - [Tabela: cart_availability_silver](#tabela-cart_availability_silver)  
 - [Análises com cart availability](#analises-com-cart-availability)  
 - [Correlações com outros dados](#correlacoes-com-outros-dados)  
 
-### Características dos dados
+## Tipos de tabelas e relacionamentos
+
+O modelo de Disponibilidade de carrinho tem duas granularidades:
+
+- **Nível de item (SKU):** `cart_availability_silver_by_sku` registra a disponibilidade de cada SKU adicionado ao carrinho (`item_availability`, vendedor, preço, canais de entrega).
+- **Nível de carrinho:** `cart_availability_silver` agrega o resultado do carrinho inteiro (`cart_availability`, `delivery_channel`). O carrinho só é `available` se todos os itens também estiverem disponíveis.
+
+As duas tabelas se conectam por `order_form_id` e podem ser correlacionadas à navegação via `af_session_id`.
+
+O diagrama abaixo mostra como as tabelas se conectam:
+
+```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+flowchart TB
+    subgraph ITEM["Nível de item"]
+        by_sku["cart_availability_silver_by_sku<br/>(disponibilidade por SKU)"]
+    end
+
+    subgraph CARRINHO["Nível de carrinho"]
+        cart["cart_availability_silver<br/>(disponibilidade do carrinho)"]
+    end
+
+    by_sku -->|"order_form_id"| cart
+    cart -->|"af_session_id"| NAV["Modelo de dados<br/>de Navegação<br/>session_id"]
+    by_sku -->|"sku_id"| CAT["Modelo de dados<br/>de Catálogo / Inventário"]
+```
+
+### Exemplos de utilização
+
+Veja abaixo dois fluxos distintos de utilização dos dados:
+
+- Fluxo 1: itens do carrinho e como a indisponibilidade de um SKU define o status do carrinho.
+
+    ```mermaid
+    %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+    flowchart TD
+        S1["by_sku<br/>sku_id: 1001<br/>item_availability: available"]
+        S2["by_sku<br/>sku_id: 1002<br/>item_availability: withoutStock"]
+        C["cart_availability_silver<br/>order_form_id: OF-55<br/>cart_availability: withoutStock"]
+
+        S1 -->|"order_form_id"| C
+        S2 -->|"order_form_id"| C
+    ```
+
+    Neste diagrama, a disponibilidade do carrinho herda o status dos itens, se um SKU está `withoutStock`, o carrinho inteiro passa a refletir essa indisponibilidade.
+
+- Fluxo 2: correlacionar carrinhos indisponíveis com sessão de navegação e estoque.
+
+    ```mermaid
+    %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+    flowchart LR
+        C["cart_availability_silver<br/>cart_availability: cannotBeDelivered"]
+        N["Navegação<br/>session_id / page_views"]
+        I["Inventário<br/>item_id / warehouse_id"]
+
+        C -->|"af_session_id"| N
+        C -->|"sku via by_sku"| I
+    ```
+
+    Neste diagrama, o carrinho indisponível se conecta à sessão de navegação `af_session_id` e ao inventário dos SKUs, para investigar jornada e causa da falha de disponibilidade.
+
+## Características dos dados
 
 | Característica | Descrição |
 |---|---|
@@ -33,7 +96,7 @@ Esta seção inclui as seguintes informações:
 | Histórico | O histórico de dados começa em outubro de 2025. |
 | Intervalo mínimo de atualização | Uma hora. |
 
-### Tabela: cart_availability_silver_by_sku
+## Tabela: cart_availability_silver_by_sku
 
 Os campos da tabela são descritos abaixo:
 
@@ -61,7 +124,7 @@ Os campos da tabela são descritos abaixo:
 | batch_id | varchar(13) | Coluna auxiliar usada para a carga incremental. |
 | record_created_at | timestamp | Timestamp de quando a entrada foi adicionada à tabela. |
 
-### Tabela: cart_availability_silver
+## Tabela: cart_availability_silver
 
 Os campos da tabela são descritos abaixo:
 
@@ -77,14 +140,14 @@ Os campos da tabela são descritos abaixo:
 | sales_channel | integer | Atributo usado pelo comerciante para definir as condições de oferta de um produto. Também conhecido como política comercial. |
 | added_price | double | O valor total dos itens adicionados àquele carrinho. É a soma do valor de todos os itens, se múltiplos itens foram adicionados. |
 | cart_availability | varchar(50) | O carrinho é considerado disponível apenas se todos os itens nele também estiverem disponíveis. Esta disponibilidade é verificada quando um item é adicionado ao carrinho, desde que o comprador já tenha inserido um código postal. Se o código postal ainda não foi inserido, a disponibilidade é determinada no momento em que o comprador o fornece. <br>Se pelo menos um item não estiver disponível, o carrinho em si é marcado como indisponível. Nesse caso, a disponibilidade do carrinho corresponderá ao status de disponibilidade do item indisponível, exceto quando existirem múltiplas razões de indisponibilidade diferentes, então o status do carrinho será multipleUnavailableReasons.</br> <br> Exemplos: <ul> <li>Se dois itens disponíveis forem adicionados, o status do carrinho é available.</li> <li>Se um item disponível e um item withoutStock forem adicionados, o status do carrinho é withoutStock.</li> <li>Se um item withoutStock e um item cannotBeDelivered forem adicionados, o status do carrinho é multipleUnavailableReasons. </li></br></ul> <br> Valores possíveis: <ul><li>available: todos os itens estão disponíveis.</li><li>withoutStock: nenhum vendedor tem estoque para este item.</li><li>cannotBeDelivered: alguns vendedores têm estoque para o item, mas nenhuma rota de entrega está disponível para o código postal.</li><li>withoutPriceFulfillment: o vendedor alocado tem um preço mal configurado para o item.  </li><li>maxNumberOfSellersReached: o número de vendedores no carrinho excede o máximo permitido.</li><li>unavailableItemFulfillment: o vendedor que cumpre o item não retornou uma resposta válida.</li><li>multipleUnavailableReasons: mais de uma razão de indisponibilidade diferente se aplica ao mesmo tempo.</li> </br></ul> |
-| delivery_channel | varchar(33) | Os canais de entrega disponíveis para o carrinho são determinados considerando as opções de entrega de todos os itens nele. <br><br> Exemplo: <br>Se o Item 1 estiver disponível apenas para pickup-in-point, e o Item 2 estiver disponível tanto para pickup-in-point quanto para delivery, então o canal de entrega do carrinho é definido como delivery.</br> <br>Opções possíveis: <ul><li>both-delivery-and-pickup-in-point: todos os itens podem ser entregues ou retirados em um ponto de retirada.</li><li>delivery: a entrega é a única opção disponível para o carrinho.</li> <li>not-delivered: nenhum canal de entrega está disponível, o que significa que o carrinho está indisponível.</li> <li>pickup-in-point: pickup-in-point é a única opção disponível para o carrinho.</li> <li>mixed-channel-only: alguns itens só podem ser entregues, enquanto outros só podem ser retirados em um ponto de retirada.</li><ul></br> |
+| delivery_channel | varchar(33) | Os canais de entrega disponíveis para o carrinho são determinados considerando as opções de entrega de todos os itens nele. <br><br> Por exemplo, se o Item 1 estiver disponível apenas para pickup-in-point, e o Item 2 estiver disponível tanto para pickup-in-point quanto para delivery, então o canal de entrega do carrinho é definido como delivery.</br> <br>Opções possíveis: <ul><li>both-delivery-and-pickup-in-point: todos os itens podem ser entregues ou retirados em um ponto de retirada.</li><li>delivery: a entrega é a única opção disponível para o carrinho.</li> <li>not-delivered: nenhum canal de entrega está disponível, o que significa que o carrinho está indisponível.</li> <li>pickup-in-point: pickup-in-point é a única opção disponível para o carrinho.</li> <li>mixed-channel-only: alguns itens só podem ser entregues, enquanto outros só podem ser retirados em um ponto de retirada.</li><ul></br> |
 | has_item_unavailability | boolean | Campo obsoleto. |
 | has_item_addition | boolean | Campo obsoleto. |
 | is_single_item_simulation | boolean | Booleano que identifica se o carrinho tem apenas um item ou não. |
 | batch_id | varchar(13) | Coluna auxiliar usada para a carga incremental. |
 | record_created_at | timestamp | Timestamp de quando a entrada foi adicionada à tabela. |
 
-### Análises com cart availability
+## Análises com cart availability
 
 Aqui estão algumas análises que você pode realizar usando as tabelas de cart availability:
 
@@ -94,7 +157,7 @@ Aqui estão algumas análises que você pode realizar usando as tabelas de cart 
 - **Monitorar erros de preço e configuração**: Detecte quando preços mal configurados ou problemas de cumprimento estão tornando os produtos sistematicamente indisponíveis, permitindo uma correção mais rápida.  
 - **Comparar tendências sazonais**: Compare as taxas de disponibilidade do carrinho durante períodos de compras de pico (por exemplo, Black Friday) com as operações normais para antecipar pontos de pressão.  
 
-### Correlações com outros dados
+## Correlações com outros dados
 
 A disponibilidade do carrinho também se torna mais poderosa quando combinada com outras fontes de dados:
 

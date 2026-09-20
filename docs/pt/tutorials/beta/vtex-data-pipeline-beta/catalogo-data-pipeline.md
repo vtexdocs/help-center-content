@@ -21,15 +21,92 @@ O conjunto de dados é composto por cinco tabelas que fornecem as informações 
 
 Nesta seção você encontrará as seguintes informações:  
 
+- [Tipos de tabelas e relacionamentos](#tipos-de-tabelas-e-relacionamentos)
 - [Características dos dados](#características-dos-dados)
-- [Tabela produtos](#tabela-produtos)
-- [Tabela SKUs](#tabela-skus)
-- [Tabela marcas](#tabela-marcas)
-- [Tabela categorias](#tabela-categorias)
-- [Tabela especificações](#tabela-especificacoes)
+- [Tabela product](#tabela-product)
+- [Tabela sku](#tabela-sku)
+- [Tabela brand](#tabela-brand)
+- [Tabela category](#tabela-category)
+- [Tabela specification](#tabela-specification)
 - [Tabela cluster](#tabela-cluster)
 - [Análise com dados de catálogo](#analise-com-dados-de-catalogo)
 - [Correlações com outros dados](#correlacao-com-outros-dados)
+
+## Tipos de tabelas e relacionamentos
+
+O modelo de dados de Catálogo organiza o assortimento da loja em torno do produto:
+
+- **Tabela central:** `product` concentra o cadastro do produto e as chaves sintéticas (`sk_product`, `sk_brand`, `sk_category`, `sk_cluster`) usadas para correlacionar.
+- **Tabela de variantes:** `sku` detalha cada variação do produto, ligada por `sk_product` / `product_id`.
+- **Tabelas dimensão:** `brand`, `category` e `cluster` descrevem marca, hierarquia de categorias e agrupamentos.
+- **Tabela de atributos:** `specification` armazena especificações técnicas vinculadas a produto ou SKU.
+
+O diagrama abaixo mostra como as tabelas se conectam:
+
+```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+flowchart TB
+    subgraph CENTRAL["Tabela central"]
+        product["product<br/>(produto do catálogo)"]
+    end
+
+    subgraph VARIANTES["Variantes"]
+        sku["sku<br/>(variações do produto)"]
+    end
+
+    subgraph DIM["Dimensões"]
+        brand["brand<br/>(marca)"]
+        category["category<br/>(categoria)"]
+        cluster["cluster<br/>(agrupamento)"]
+    end
+
+    subgraph ATTR["Atributos"]
+        spec["specification<br/>(especificações)"]
+    end
+
+    product -->|"sk_product"| sku
+    product -->|"sk_brand"| brand
+    product -->|"sk_category"| category
+    product -->|"sk_cluster"| cluster
+    product -->|"sk_product"| spec
+    sku -->|"sk_sku"| spec
+```
+
+### Exemplos de utilização
+
+Veja abaixo dois fluxos distintos de utilização dos dados:
+
+- Fluxo 1: produto com seus SKUs, marca e categoria.
+
+    ```mermaid
+    %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+    flowchart TD
+        P["product<br/>product_id: 100<br/>Tênis de corrida"]
+
+        P -->|"sk_product"| S1["sku<br/>sku_id: 1001<br/>cor: preto / tam: 42"]
+        P -->|"sk_product"| S2["sku<br/>sku_id: 1002<br/>cor: branco / tam: 40"]
+        P -->|"sk_brand"| B["brand<br/>Nike"]
+        P -->|"sk_category"| C["category<br/>Calçados > Corrida"]
+    ```
+
+    Neste diagrama, o produto é o centroda análise, a partir de `sk_product`, `sk_brand` e `sk_category`, você recupera os SKUs de um produto, a marca e a categoria associadas.
+
+- Fluxo 2: detalhar especificações de um SKU e cruzar com inventário ou pedidos.
+
+    ```mermaid
+    %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+    flowchart LR
+        SKU["sku<br/>sku_id: 1001"]
+        SP["specification<br/>material: mesh<br/>peso: 250g"]
+        INV["Modelo de dados<br/>de Inventário<br/>item_id"]
+        ORD["Modelo de dados<br/>de Pedidos<br/>orders_items"]
+
+        SKU -->|"sk_sku"| SP
+        SKU -->|"sku_id / item_id"| INV
+        SKU -->|"sku_id"| ORD
+    ```
+
+    Neste diagrama, o SKU se liga às especificações técnicas e também a Inventário e Pedidos pelo identificador do item, para análises de sortimento, estoque e vendas.
 
 ## Características dos dados
 

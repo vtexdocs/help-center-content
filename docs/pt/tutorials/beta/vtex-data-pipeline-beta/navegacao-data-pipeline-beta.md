@@ -17,10 +17,93 @@ subcategoryId: oMrzcOMVbBpH0reeMFHFg
 
 Um conjunto de dados de navegação contém o conjunto de ações de navegação que acontecem no site ou aplicativo móvel da loja (para aplicativos móveis e lojas headless, deve ter o SDK do Activity Flow instalado). É o registro de como os compradores se movem pela experiência: quais telas eles abrem, quais páginas visitam e como sua jornada se desenvolve da entrada até a saída.
 
+Nesta seção você encontra as seguintes informações:
+
+- [Tipos de tabelas e relacionamentos](#tipos-de-tabelas-e-relacionamentos)
+- [Características dos dados](#caracteristicas-dos-dados)
+- [Tabela: page_views](#tabela-page_views)
+- [Tabela: session_order](#tabela-session_order)
+- [Tabela: session_user_agent](#tabela-session_user_agent)
+- [Tabela: url](#tabela-url)
+- [Tabela: web_vitals](#tabela-web_vitals)
+- [Análises com navegação](#analises-com-navegacao)
+- [Correlações com outros dados](#correlacoes-com-outros-dados)
+
+## Tipos de tabelas e relacionamentos
+
+O modelo de dados de Navegação descreve a jornada do comprador na sessão:
+
+- **Tabela fato (eventos):** `page_views` registra cada visualização de página; `web_vitals` registra métricas de performance da mesma jornada.
+- **Tabelas de sessão:** `session_order` e `session_user_agent` agregam contexto da sessão (conversão e dispositivo), ligadas por `session_id`.
+- **Tabela dimensão de URL:** `url` classifica o tipo de página, UTMs e IDs de produto/categoria para correlacionar com Catálogo e Pedidos.
+
+O diagrama abaixo mostra como as tabelas se conectam:
+
+```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+flowchart TB
+    subgraph FATO["Tabelas fato (eventos)"]
+        pv["page_views<br/>(visualizações de página)"]
+        wv["web_vitals<br/>(métricas de performance)"]
+    end
+
+    subgraph SESSAO["Contexto da sessão"]
+        so["session_order<br/>(sessão → pedido)"]
+        sua["session_user_agent<br/>(dispositivo e navegador)"]
+    end
+
+    subgraph DIM["Dimensão de URL"]
+        url["url<br/>(tipo de página, UTMs, produto)"]
+    end
+
+    pv -->|"session_id"| so
+    pv -->|"session_id"| sua
+    pv -->|"session_id"| wv
+    pv -->|"url"| url
+    so -->|"order_group"| ORD["Modelo de dados<br/>de Pedidos"]
+    url -->|"product_id / category_id"| CAT["Modelo de dados<br/>de Catálogo"]
+```
+
+### Exemplos de utilização
+
+Veja abaixo dois fluxos distintos de utilização dos dados:
+
+- Fluxo 1: jornada do comprador na sessão, da página inicial ao pedido.
+
+    ```mermaid
+    %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+    flowchart LR
+        PV1["page_views<br/>homeView"]
+        PV2["page_views<br/>productView"]
+        PV3["page_views<br/>cart → payment"]
+        SO["session_order<br/>order_group: OG-77"]
+        ORD["Pedidos<br/>order_group"]
+
+        PV1 --> PV2 --> PV3
+        PV3 -->|"session_id"| SO
+        SO -->|"order_group"| ORD
+    ```
+
+    Neste diagrama, a sequência de `page_views` representa o caminho do comprador na sessão e o `session_order` conecta essa jornada ao pedido via `order_group`.
+
+- Fluxo 2: enriquecer visualizações com tipo de página, campanha e performance.
+
+    ```mermaid
+    %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+    flowchart TD
+        PV["page_views<br/>session_id: S-1<br/>url: /tenis/p"]
+
+        PV -->|"url"| U["url<br/>request_type: productView<br/>utm_source: google<br/>product_id: 100"]
+        PV -->|"session_id"| UA["session_user_agent<br/>device_type: mobile"]
+        PV -->|"session_id"| W["web_vitals<br/>LCP: 2.1s<br/>CLS: 0.05"]
+    ```
+
+    Neste diagrama, cada visualização ganha contexto de página e campanha (`url`), dispositivo (`session_user_agent`) e performance (`web_vitals`), todos ligados pela sessão ou pela URL.
+
 ## Características dos dados
 
-| Característica                  | Descrição                                                                                                                                                                                                                                                                                                                        |
-| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Característica   | Descrição     |
+| --------------- | --------------|
 | Fonte de dados                  | Os dados deste conjunto vêm de um script que roda no frontend da loja e registra informações de sessão do usuário e atividade.                                                                                                                                                                                                   |
 | Disponibilidade                 | Esta métrica está disponível apenas através do Data Pipeline.                                                                                                                                                                                                                                                                    |
 | Histórico                       | Devido ao volume significativo deste Modelo de Dados, só podemos enviar pipelines incrementais, não dados históricos. Isso significa que assim que você adquirir o produto, começaremos a entregar seus dados a partir desse ponto. Diferente de outros Modelos de Dados, não podemos incluir dados históricos na carga inicial. |
