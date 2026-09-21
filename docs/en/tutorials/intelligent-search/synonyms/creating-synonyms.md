@@ -49,7 +49,7 @@ If a term is already covered by another synonym, a notification appears in the f
 
 | Column | Description |
 |---|---|
-| Terms | **Terms:** Words or expressions to define as synonyms. |
+| Terms | Words or expressions defined as synonyms. |
 | Created on | Date the conflicting synonym was created. |
 | Status | Status of the conflicting synonym, which can be Active or Inactive. |
 
