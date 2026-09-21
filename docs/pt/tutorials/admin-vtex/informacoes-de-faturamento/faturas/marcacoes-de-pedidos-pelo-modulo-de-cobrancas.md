@@ -3,7 +3,7 @@ title: 'Marcações de pedidos pelo módulo de cobranças'
 id: 4v33NVnAEe6HTgbF6sOBF2
 status: PUBLISHED
 createdAt: 2024-10-04T20:18:55.246Z
-updatedAt: 2026-07-17T19:09:59.877Z
+updatedAt: 2026-09-21T14:51:00.000Z
 publishedAt: 2024-10-31T18:40:41.214Z
 firstPublishedAt: 2024-10-04T21:40:07.736Z
 contentType: tutorial
@@ -17,9 +17,9 @@ subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 
 A VTEX considera como [receita da loja](/pt/docs/tutorials/visao-geral-informacoes-de-faturamento) o valor total dos pedidos aprovados no [fluxo da transação de pagamentos](/pt/docs/tutorials/fluxo-da-transacao-no-pagamentos) e a partir disso realiza o cálculo da fatura. No entanto, é possível que taxas diferentes incidam sobre pedidos de mesmo valor, pois o módulo de cobranças atua com base em marcações.
 
-Marcações são categorias que definem as características do pedido e sinalizam as regras de negócio aplicadas na venda. O pedido é analisado segundo determinados critérios e recebe as marcações que definem qual o _take rate_ a ser cobrado.
+Marcações são categorias que definem as características do pedido e sinalizam as regras de negócio aplicadas na venda. O pedido é analisado segundo determinados critérios e recebe as marcações que definem qual o *take rate* a ser cobrado.
 
-Este artigo apresenta quais são as marcações existentes no módulo de cobranças. Ao disponibilizarmos este conteúdo, o nosso objetivo é aumentar a transparência da sua relação comercial com a VTEX.
+Este artigo apresenta quais são as marcações existentes no módulo de cobranças com o intuito de aumentar a transparência da sua relação comercial com a VTEX.
 
 > ⚠️ O sistema de marcações de pedidos não realiza qualquer tipo de cobrança aos clientes da loja. Ele é somente uma fonte de dados que o módulo de cobranças consulta para realizar o cálculo da fatura.
 
@@ -29,8 +29,6 @@ Para que um pedido seja passível de marcação, ele deve atender às seguintes 
 
 * Ter todas as [informações que constituem o pedido](/pt/docs/tracks/pedidos) (pedidos [incompletos](/pt/docs/tutorials/entendendo-os-pedidos-incompletos) não recebem marcações).
 * Possuir informação de pagamento com data de autorização da transação financeira.
-
-> ℹ️ Pedidos gerados pelo [Multilevel Omnichannel Inventory (MOI)](/pt/docs/tutorials/multilevel-omnichannel-inventory), chamados de pedidos *chain*, não possuem informação de pagamento. Portanto, eles não recebem marcações e não são passíveis de cobrança.
 
 ## Alteração de pedidos e marcações
 
@@ -81,7 +79,7 @@ Veja a seguir quais marcações existem para os pedidos no ambiente do seller co
 
 * **IsMarketplace:** pedido gerado em um [marketplace](/pt/docs/tutorials/o-que-e-um-marketplace), seja ele [marketplace certificado](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-marketplaces-certificados), [marketplace parceiro](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-marketplaces-parceiros), [marketplace VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#ser-um-marketplace-vtex) (loja atuou como marketplace) ou [marketplace externo](https://developers.vtex.com/docs/guides/external-marketplace-integration-guide). Todo pedido `IsMarketplace` é `IsCertifiedMarketplace` ou um marketplace externo, e esta primeira marcação existe apenas para fins de sistema.
 * **IsCertifiedMarketplace:** pedido gerado em [marketplace certificado](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-marketplaces-certificados), [marketplace parceiro](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-marketplaces-parceiros) ou [marketplace VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#ser-um-marketplace-vtex) (loja atuou como marketplace). Após receber esta marcação, o pedido necessariamente receberá a marcação `IsInternalCertifiedMarketplace` ou `IsExternalCertifiedMarketplace`.
-    * **IsExternalCertifiedMarketplace:** pedido gerado em [marketplace certificado](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-marketplaces-certificados) (Amazon, Mercado Livre, entre outros), ou [marketplace parceiro](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-marketplaces-parceiros) (Shopee, Facebook, entre outros).
+    * **IsExternalCertifiedMarketplace:** pedido gerado em [marketplace certificado](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-marketplaces-certificados) ou [marketplace parceiro](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-marketplaces-parceiros).
     * **IsInternalCertifiedMarketplace:** pedido gerado em [marketplace VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#ser-um-marketplace-vtex), ou seja, a loja atuou como marketplace para um seller. Esta marcação pode ou não incluir um outro nível de marcação.
         * **IsInternalCertifiedMarketplaceAndIsParentAccount:** pedido gerado em marketplace VTEX quando o marketplace é conta principal e o seller sua [subconta](/pt/docs/tracks/contas-e-arquitetura#ambiente-adicional), ou seja, seu ambiente adicional.
 
@@ -102,4 +100,3 @@ Veja a seguir quais marcações existem relacionadas ao tipo de cliente do pedid
 
 * **IsB2B:** o cliente é pessoa jurídica e o pedido foi gerado no [contexto B2B](/pt/docs/tutorials/configurando-b2b-na-vtex-pt) (*Business to Business*).
 * **IsB2C:** o cliente é pessoa física e o pedido foi gerado no contexto B2C (*Business to Customer*).
-
