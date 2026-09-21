@@ -87,7 +87,7 @@ Veja a seguir quais marcações existem para os pedidos no ambiente do seller co
 
 Veja a seguir quais marcações existem para os pedidos no ambiente do marketplace com relação ao seller que possui o item vendido:
 
-* **IsSeller:** pedido gerado em marketplace quanto o item vendido pertence ao [seller](/pt/docs/tutorials/o-que-e-um-seller). Todo pedido `IsSeller` é necessariamente `IsExternalSeller` ou `IsCertifiedSeller`, e esta primeira marcação existe apenas para fins de sistema.
+* **IsSeller:** pedido gerado em marketplace quando o item vendido pertence ao [seller](/pt/docs/tutorials/o-que-e-um-seller). Todo pedido `IsSeller` é necessariamente `IsExternalSeller` ou `IsCertifiedSeller`, e esta primeira marcação existe apenas para fins de sistema.
 * **IsExternalSeller:** pedido gerado em um [marketplace VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#ser-um-marketplace-vtex) (loja atuou como marketplace) no qual o seller que possui o item vendido é um [seller externo](https://developers.vtex.com/docs/guides/external-seller-integration-guide).
 * **IsCertifiedSeller:** pedido gerado em [marketplace certificado, marketplace parceiro](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-marketplaces-certificados) ou marketplace VTEX (loja atuou como marketplace) no qual o seller que possui o item vendido é [seller VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#ser-um-seller-vtex). Todo pedido `IsCertifiedSeller` é necessariamente também `IsInternalCertifiedSeller`.
     * **IsInternalCertifiedSeller:** esta marcação existe apenas para fins de sistema, sendo que todo pedido `IsInternalCertifiedSeller` necessariamente receberá a marcação `IsInternalCertifiedSellerAndIsChildAccount` ou `IsSellerPortal`.
