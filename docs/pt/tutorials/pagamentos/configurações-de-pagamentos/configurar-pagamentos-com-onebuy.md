@@ -23,7 +23,7 @@ Para configurar a OneBuy, siga os passos abaixo:
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. Na aba __Afiliações de Gateways__, clique no botão __+__.
 3. Clique no conector __OneBuy__.
-4. No campo __External Service Url__, você deve configurar a url externa que vai estar associada a `/pvt/payments?an={AccountName}`.
+4. No campo __External Service Url__, você deve configurar a url externa que vai estar associada a `/pvt/payments?an={accountName}`.
 5. Preencha os campos de cadastro com os dados fornecidos pela OneBuy (campos _appKey_ e _appToken_).
 6. Em __Implements Installments Service__, você deve escolher se deseja usar serviços externos de parcelamento ou o que está configurado no portal. Se escolher a opção _yes_, o sistema vai utilizar a url configurada no campo __Installments Service Url__.
 7. Em __External Cancellation Service__, você precisa definir o uso ou não de um serviço de cancelamento externo. Se escolher a opção _yes_, o sistema vai utilizar a url configurada no campo __External Service Url__.

@@ -31,7 +31,7 @@ Para saber mais sobre como funciona o módulo Assinaturas, clique [aqui](/pt/doc
 
 - **Mais controle**: com o módulo Assinaturas, temos um agendador confiável, com vários mecanismos de controle para garantir que as assinaturas em sua loja sejam executadas na data agendada.
 - **Melhor experiência para o cliente final**: fornecemos uma nova interface no My Account para o seu assinante saber claramente os produtos assinados e conseguir realizar ações em suas assinaturas diretamente, sem entrar em contato com a loja.
--**Visibilidade**: O módulo Assinaturas possui um novo e remodelado painel administrativo, onde é possível acompanhar a saúde de suas assinaturas, e agir o mais rápido possível caso o assinante tenha alterado algum dado pessoal (como endereço e cartão) que precisem de uma intervenção para não perder a venda.
+- **Visibilidade**: O módulo Assinaturas possui um novo e remodelado painel administrativo, onde é possível acompanhar a saúde de suas assinaturas, e agir o mais rápido possível caso o assinante tenha alterado algum dado pessoal (como endereço e cartão) que precisem de uma intervenção para não perder a venda.
 - **Inteligência com dados**:  fornecemos uma série de relatórios, para você extrair os dados das assinaturas realizadas e as que estão por vir, tendo total visão de como as assinaturas estão contribuindo para o seu negócio.
 - **Mais personalizado**: aprimoramos a aba de configurações, para customizar as assinaturas da sua loja conforme a realidade do seu negócio.
 

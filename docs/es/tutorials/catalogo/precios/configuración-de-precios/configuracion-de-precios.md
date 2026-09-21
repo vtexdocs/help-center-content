@@ -36,10 +36,10 @@ Consulte los ajustes disponibles a continuación:
   > ℹ️ La configuración **Sobrescribir precios de sellers** no está disponible para sellers White label.
 
 ## Consultar la Cuenta-Padre asociada
-Para consultar la cuenta-padre vinculada a una cuenta-hija, utilice la siguiente URL, sustituyendo {AccountName} por el nombre de la cuenta-hija que desea consultar:
+Para consultar la cuenta-padre vinculada a una cuenta-hija, utilice la siguiente URL, sustituyendo `{accountName}` por el nombre de la cuenta-hija que desea consultar:
 
 ```
-http://{AccountName}.myvtex.com/api/vlm/account
+http://{accountName}.myvtex.com/api/vlm/account
 ```
 
 Al acceder a esta URL, la API devolverá un resultado con varias informaciones sobre la cuenta. Para identificar la cuenta-padre asociada, localice el campo `accountName` en la respuesta de la API. Este campo contiene el nombre de la cuenta-padre vinculada a la cuenta-hija consultada.

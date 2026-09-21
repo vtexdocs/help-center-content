@@ -13,6 +13,9 @@ slugEN: creating-a-coupon-beta
 legacySlug: crear-cupon-beta
 locale: es
 subcategoryId: 1TXh7VjDSIGA2eSI0CmUsi
+seeAlso:
+  - /es/docs/tutorials/cupones-beta
+  - /es/docs/tutorials/lista-de-cupones-beta
 ---
 
 Un [cupón](/es/docs/tutorials/cupones-beta) es un código promocional formado por una secuencia de letras y números. Puedes usar cupones para aplicar promociones sobre el valor del carrito: al informar el código de un cupón válido al momento de la compra, tus clientes pueden obtener descuentos sobre el valor del pedido.
@@ -121,9 +124,4 @@ Ambos endpoints rellenan el campo `marketingData` del cuerpo de la respuesta y n
    - Si tu tienda utiliza Checkout v6, usa `checkout6-custom.js checkout6-custom.css`.
 3. Después de la personalización, debes solicitar la liberación de la funcionalidad mediante un [ticket con el soporte VTEX](/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex).
 4. Marca la opción <i class="fas fa-check-square"></i> Aplicar con otras promociones en la [configuración de promociones](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restricciones-y-limitaciones-de-uso) asociada a los cupones para permitir que los cupones activen más de una promoción en la misma compra. Así, se [acumularán](/es/docs/tutorials/como-funciona-la-competencia-de-promociones#acumulacion) los descuentos concedidos por las diferentes promociones.
-
-## Más información
-
-* [Cupones](/es/docs/tutorials/cupones-beta)
-* [Lísta de Cupones](/es/docs/tutorials/lista-de-cupones-beta)
 

@@ -11,7 +11,7 @@ hidden: false
 
 **Hojas de trabajo** es la página del Admin VTEX que permite hacer seguimiento en tiempo real de las hojas de trabajo utilizadas por los alistadores para agrupar y alistar los ítems de los pedidos. Una hoja de trabajo puede reunir uno o varios pedidos, que se procesan mediante el flujo de Pick and Pack de manera simultánea. Para abrir la página, en el Admin VTEX, accede a **Envío > Pick and Pack > Hojas de trabajo**.
 
-![Página Hojas de trabajo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-ordens-de-servico_1.png)
+![Página Hojas de trabajo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-hojas-de-trabajo_1.png)
 
 Este artículo se divide en las siguientes secciones:
 
@@ -47,7 +47,7 @@ Cada hoja de trabajo se presenta en una tarjeta con la siguiente información:
 | **Instalación**                | [Instalación](https://help.vtex.com/es/docs/tutorials/gestionar-almacenes) en que se procesa la hoja de trabajo. |
 | **Ya alistado** o **Empacado** | Progreso de la etapa actual, en unidades procesadas del total previsto.                                          |
 
-![Tarjeta de hoja de trabajo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-ordens-de-servico_2.png)
+![Tarjeta de hoja de trabajo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-hojas-de-trabajo_2.png)
 
 Para consultar los datos completos de una hoja de trabajo, haz clic en la tarjeta correspondiente. Para más información, ve a [Consultar detalles de la hoja de trabajo](#consultar-detalles-de-la-hoja-de-trabajo).
 
@@ -86,7 +86,7 @@ Al crear una hoja de trabajo, defines qué pedidos se alistarán en conjunto y q
 5. Activa la opción **Fijar nuevas hojas de trabajo** para mostrar la hoja de trabajo creada en la columna **Fijado**.
 6. Haz clic en `Crear`.
 
-![Acción para crear hoja de trabajo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-ordens-de-servico_3.png)
+![Acción para crear hoja de trabajo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-hojas-de-trabajo_3.png)
 
 > ℹ️ La cantidad de pedidos por hoja de trabajo depende de las opciones **Pedido único** y **Pedido múltiple**, definidas en la página [VTEX Pick and Pack: Configuración](https://help.vtex.com/es/docs/tutorials/vtex-pick-and-pack-configuracion).
 
@@ -105,7 +105,7 @@ Para abrir el panel de detalles, haz clic en el ícono de la esquina superior de
 | **Plazo**                  | Fecha y hora límite para concluir la preparación de la hoja de trabajo.                                          |
 | **Ya alistado o Empacado** | Progreso del alistamiento o empaque, en unidades del total previsto.                                             |
 
-![Detalles de la hoja de trabajo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-ordens-de-servico_4.png)
+![Detalles de la hoja de trabajo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-hojas-de-trabajo_4.png)
 
 ### Agregar tags
 
@@ -122,7 +122,7 @@ La pestaña **Pedidos** lista los pedidos que componen la hoja de trabajo. Para 
 - **SKU:** identificador del ítem en la plataforma.
 - **Categorías:** categorías del catálogo a las que está asociado el ítem.
 
-![Pestaña en la ventana modal de detalles de la hoja de trabajo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-ordens-de-servico_5.png)
+![Pestaña en la ventana modal de detalles de la hoja de trabajo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-hojas-de-trabajo_5.png)
 
 ### Aprobaciones
 
@@ -139,7 +139,7 @@ En el panel de detalles, haz clic en el ícono de menú <i class="fas fa-ellipsi
 - `Pausar alistamiento`: interrumpe el alistamiento de los ítems.
 - `Seleccionar alistador`: define el alistador responsable de la hoja de trabajo.
 
-![Menú de acciones del panel de detalles](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-ordens-de-servico_6.png)
+![Menú de acciones del panel de detalles](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-hojas-de-trabajo_6.png)
 
 > ℹ️ El contenido de la lista de alistamiento se define en la página [VTEX Pick and Pack: Configuración](https://help.vtex.com/es/docs/tutorials/vtex-pick-and-pack-configuracion), en la opción **Habilitar lista de alistamiento**.
 
@@ -185,6 +185,6 @@ En **Inbox** se organizan las conversaciones con los alistadores por hoja de tra
 
 Para responder a un alistador haz clic en la conversación deseada y escribe el mensaje. También puedes enviar archivos, ubicaciones y mensajes de audio.
 
-![Pantalla del Inbox con la lista de conversaciones por hoja de trabajo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-ordens-de-servico_7.png)
+![Pantalla del Inbox con la lista de conversaciones por hoja de trabajo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-hojas-de-trabajo_7.png)
 
 > ℹ️ El **Inbox** depende de la opción **Permitir chat de soporte**, habilitada en la página [VTEX Pick and Pack: Configuración](https://help.vtex.com/es/docs/tutorials/vtex-pick-and-pack-configuracion).

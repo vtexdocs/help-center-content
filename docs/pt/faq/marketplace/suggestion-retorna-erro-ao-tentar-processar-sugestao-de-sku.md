@@ -1,0 +1,40 @@
+---
+title: 'Sugestões retorna erro ao tentar processar sugestão de SKU. O que fazer?'
+excerpt: "O marketplace não consegue aceitar o SKU por um erro de cadastro no seller. Inspecione a sugestão nas ferramentas de desenvolvedor do navegador para ver a validação."
+id: 2OAWpCkw3YQwWGAmss6sCG
+status: PUBLISHED
+createdAt: 2019-01-24T20:30:45.252Z
+updatedAt: 2023-03-22T20:55:46.996Z
+publishedAt: 2019-12-31T14:25:03.994Z
+firstPublishedAt: 2019-01-24T20:30:45.711Z
+contentType: frequentlyAskedQuestion
+productTeam: Marketplace
+author: authors_24
+slugEN: suggestion-module-returns-error-when-trying-to-process-sku-suggestion
+locale: pt
+legacySlug:
+---
+
+Ao tentar aceitar a sugestão de um SKU, o marketplace pode receber o seguinte erro:
+
+`Não conseguimos processar a Sugestão`
+
+Isto acontece quando há algum erro no cadastro do SKU no seller.
+
+Para identificar qual é o erro, siga os passos abaixo:
+
+1. Entre no módulo **Sugestões**.
+2. Clique no SKU que o marketplace não aceitou.!![suggestions1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketplace/suggestion-retorna-erro-ao-tentar-processar-sugestao-de-sku_1.png)
+3. Entre no **developer tools** do browser (para isso, se estiver usando o Google Chrome, aperte `F12` no Windows ou `Command+Option+I` no Mac).
+4. No developer tools, clique na aba **Network**.
+5. Ainda no developer tools, clique na opção **All**.!![f12pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketplace/suggestion-retorna-erro-ao-tentar-processar-sugestao-de-sku_2.png)
+6. Clique no botão **Aceitar** do módulo Sugestões.
+7. Você verá uma lista das chamadas ativadas pelo botão Aceitar.
+8. Se uma delas estiver em vermelho e com status `400`, como na imagem abaixo, clique nessa chamada.
+   ![erroSuggestion3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketplace/suggestion-retorna-erro-ao-tentar-processar-sugestao-de-sku_3.png)
+9. Você verá em seguida a descrição do erro que ocasionou a falha no processamento da sugestão do SKU.
+   ![erroSuggestion4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketplace/suggestion-retorna-erro-ao-tentar-processar-sugestao-de-sku_4.png)
+
+Para resolver o problema, o seller deve resolver o erro apontado nessa descrição.
+
+Depois disso, a sugestão será atualizada no marketplace, e poderá então ser aprovada com sucesso.
