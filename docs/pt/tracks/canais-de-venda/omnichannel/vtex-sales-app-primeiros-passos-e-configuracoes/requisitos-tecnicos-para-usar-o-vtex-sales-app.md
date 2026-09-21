@@ -17,24 +17,24 @@ Este artigo descreve os requisitos técnicos para utilizar o **VTEX Sales App**.
 
 ## Equipamento obrigatório
 
-Para usar o **Sales App**, os equipamentos a seguir são obrigatórios.
+A loja precisa dispor de um dispositivo para utilizar o **Sales App**, seja ele um desktop ou um dispositivo móvel, como tablet, smartphone ou toten touch screen.
 
-> ⚠️ Recomendamos reservar um espaço seguro na sua loja para armazenar os equipamentos.
+> ⚠️ Recomendamos reservar um espaço seguro na sua loja para armazenar o seu equipamento.
 
 ### Tablets, smartphones e totens touch screen
 
-A loja precisa dispor de pelo menos um dispositivo móvel, como um tablet, smartphone ou toten touch screen. Preferencialmente, os dispositivos devem estar atualizados com a versão mais recente do sistema operacional e, no mínimo, precisam ser compatíveis com:
+Preferencialmente, o dispositivo deve estar atualizado com a versão mais recente do sistema operacional e, no mínimo, precisa ser compatível com:
 
 - Três versões mais recentes do **iOS**
 - Quatro versões mais recentes do **Android**
 
-Os dispositivos utilizados precisam ter conexão com a internet, por rede Wi-Fi ou 4G/5G. O ideal é que os dispositivos móveis tenham chip 4G/5G, para que a loja continue funcionando normalmente mesmo se a rede Wi-Fi apresentar algum problema.
+O dispositivo utilizado precisa ter conexão com a internet, por rede Wi-Fi ou 4G/5G. O ideal é que o dispositivo móvel tenha chip 4G/5G, para que a loja continue funcionando normalmente mesmo se a rede Wi-Fi apresentar algum problema.
 
 > ℹ️ Para manter o bom funcionamento da operação, recomendamos ter mais dispositivos do que vendedores. Dessa forma, os aparelhos podem ser trocados rapidamente em caso de falha, dano ou esgotamento da bateria.
 
 ### Computadores
 
-Recomendamos que a loja disponha de pelo menos um computador. Para o sistema operacional **Windows**, os requisitos são:
+Para computadores com sistema operacional **Windows**, os requisitos são:
 
 - Sistema operacional **Windows 8** ou mais recente
 - Processador **Intel i3+** ou **AMD Phenom II X4**
