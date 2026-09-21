@@ -133,12 +133,6 @@ Below are some examples of content edits you can request:
 * Changes apply only to the selected locale.
 * Changes saved to a branch can only be undone by discarding them.
 
-### Beta limitations
-
-**Content agent** is currently in the testing phase. During this period, the feature has the following limitations:
-
-[LISTA A ESCREVER]
-
 ## Task examples
 
 ### Example 1
