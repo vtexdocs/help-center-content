@@ -36,8 +36,7 @@ Para começar a usar o login persistente, habilite a funcionalidade no card corr
 1. Na barra superior do Admin VTEX, clique no avatar do seu perfil, marcado pela inicial do seu email.
 2. Clique em **Configurações da conta > Autenticação**.
 3. Na aba **Loja virtual**, localize o card **Login persistente**, abaixo dos métodos de login.
-    <!-- TODO: substituir pelo screenshot real do card Login persistente na aba Loja virtual -->
-    ![Card Login persistente na aba Loja virtual](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autenticação/conceitos-básicos-de-autenticação/configurar-login-persistente-para-clientes_1.png)
+    ![Card Login persistente na aba Loja virtual](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autenticação/conceitos-básicos-de-autenticação/configurar-login-persistente-para-clientes_1.gif)
 4. Clique no interruptor para habilitar a funcionalidade.
 
 Ao habilitar, uma notificação confirma a ativação e informa a duração que passa a valer para os novos logins (1 dia, no primeiro uso, ou a última duração salva, em uma reativação).
@@ -51,7 +50,6 @@ A duração configurada não é exibida diretamente no card. Para consultá-la o
 3. Na aba **Loja virtual**, no card **Login persistente**, clique em `Editar`.
 
     Uma janela é aberta com a duração atualmente configurada, em dias.
-    <!-- TODO: substituir pelo screenshot real da janela de configuração da duração -->
     ![Janela de configuração da duração do login persistente](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autenticação/conceitos-básicos-de-autenticação/configurar-login-persistente-para-clientes_2.png)
 4. No campo **Duração da sessão**, informe um número inteiro entre **1** e **365** dias.
 5. Clique em `Salvar`.
