@@ -21,19 +21,13 @@ Alguns pontos importantes sobre o funcionamento dessa configuração:
 * O login persistente é opcional e vem desabilitado por padrão. Se você não configurar nada, o comportamento da sua loja não muda.
 * A duração pode ser qualquer número inteiro de dias, de **1** a **365**.
 * Ao habilitar o login persistente pela primeira vez, a duração padrão é de **1 dia**. Você pode alterá-la a qualquer momento.
-* Alterações na configuração (incluindo desabilitar o login persistente) valem apenas para os **novos logins** realizados após a mudança. Sessões já ativas continuam se comportando como estavam antes da alteração.
+* Alterações na configuração (incluindo desabilitar o login persistente) valem apenas para os novos logins realizados após a mudança. Sessões já ativas continuam se comportando como estavam antes da alteração.
 * Se você desabilitar o login persistente e depois o habilitar novamente, a última duração salva é restaurada (a configuração não volta automaticamente para 1 dia).
-* Em lojas com [Store Framework](https://developers.vtex.com/docs/guides/store-framework) ou [CMS Portal (Legado)](https://help.vtex.com/pt/docs/tracks/cms-portal-legado), a renovação do acesso do cliente é automática. Em implementações headless, é necessário implementar a renovação do token por conta própria, exceto quando o storefront usa o [FastStore SDK](https://developers.vtex.com/docs/guides/faststore/sdk-overview).
-
-Para implementar a renovação de sessão em uma loja headless, consulte o guia para desenvolvedores [Refresh token flow for headless implementations](https://developers.vtex.com/docs/guides/refresh-token-flow-for-headless-implementations).
+* Em lojas com [Store Framework](https://developers.vtex.com/docs/guides/store-framework) ou [CMS Portal (Legado)](https://help.vtex.com/pt/docs/tracks/cms-portal-legado), a renovação do acesso do cliente é automática. Em lojas headless, é necessário implementar a renovação do token por conta própria, exceto quando o storefront usa o [FastStore SDK](https://developers.vtex.com/docs/guides/faststore/sdk-overview). Para implementar a renovação de sessão em uma loja headless, consulte o guia para desenvolvedores [Refresh token flow for headless implementations](https://developers.vtex.com/docs/guides/refresh-token-flow-for-headless-implementations).
 
 ## Pré-requisitos
 
-Para habilitar ou alterar o login persistente, o usuário deve ter perfil de acesso Owner (Admin Super) ou criar outro [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) com acesso ao seguinte recurso:
-
-* **[recurso]**, na seção [categoria] dos perfis do [produto].
-
-Sem essa permissão, a alteração não é salva e uma mensagem de erro é exibida.
+Para habilitar ou alterar o login persistente, o usuário deve ter um [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) com o recurso **Write Account Config**, na categoria Account Configuration do produto VTEX ID. Sem essa permissão, a alteração não é salva e uma mensagem de erro é exibida.
 
 ## Habilitar o login persistente
 
