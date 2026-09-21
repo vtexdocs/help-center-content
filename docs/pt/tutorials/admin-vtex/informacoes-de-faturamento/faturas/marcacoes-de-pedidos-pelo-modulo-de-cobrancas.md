@@ -19,7 +19,7 @@ A VTEX considera como [receita da loja](/pt/docs/tutorials/visao-geral-informaco
 
 Marcações são categorias que definem as características do pedido e sinalizam as regras de negócio aplicadas na venda. O pedido é analisado segundo determinados critérios e recebe as marcações que definem qual o *take rate* a ser cobrado.
 
-Este artigo apresenta quais são as marcações existentes no módulo de cobranças com o intuito de aumentar a transparência da sua relação comercial com a VTEX.
+Este artigo apresenta as marcações existentes no módulo de cobranças, com o intuito de aumentar a transparência da sua relação comercial com a VTEX.
 
 > ⚠️ O sistema de marcações de pedidos não realiza qualquer tipo de cobrança aos clientes da loja. Ele é somente uma fonte de dados que o módulo de cobranças consulta para realizar o cálculo da fatura.
 
