@@ -25311,6 +25311,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Configuring persistent login for shoppers",
+                    "es": "Configurar el inicio de sesión persistente para clientes",
+                    "pt": "Configurar login persistente para clientes"
+                  },
+                  "slug": {
+                    "en": "configuring-persistent-login-for-shoppers",
+                    "es": "configurar-el-inicio-de-sesion-persistente-para-clientes",
+                    "pt": "configurar-login-persistente-para-clientes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
