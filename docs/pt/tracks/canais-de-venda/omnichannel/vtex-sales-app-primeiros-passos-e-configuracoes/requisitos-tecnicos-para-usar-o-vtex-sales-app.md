@@ -50,13 +50,15 @@ A conexão com a internet é fundamental para o uso do **Sales App**. Os requisi
 | Roteador | Padrão 2.4 GHz (802.11n) e conexão do dispositivo com o roteador de 20 Mbps. | Padrão 5 GHz (802.11ac) e conexão do dispositivo com o roteador de 40 Mbps. O celular ser dual-band. |
 | Internet | Velocidade do link de 2 Mbps no dispositivo (resultado do teste de velocidade no celular). | Velocidade do link de 5 Mbps no dispositivo (resultado do teste de velocidade no celular). |
 
-## Equipamento adicional (opcional)
+## Equipamento opcional
 
 Embora não sejam obrigatórios, recomendamos os seguintes equipamentos para obter a melhor experiência com o **Sales App**.
 
 ### Leitor de código de barras
 
-O **Sales App** permite ler o código de barras dos produtos com a câmera do tablet ou smartphone, mas o melhor desempenho é obtido com um leitor dedicado. Para maior agilidade e precisão na finalização da compra, recomendamos que a loja disponha de um leitor de código de barras.
+O **Sales App** tem um leitor de código de barras nativo que funciona pela câmera de smartphones, o que permite a leitura de códigos de barras dos produtos. No entanto, um aparelho exclusivo para essa função tem um desempenho superior.
+
+Para aumentar a agilidade das compras, recomendamos que a loja disponha de um leitor de código de barras, especialmente quando se utiliza um desktop.
 
 > ℹ️ Para usar o leitor de código de barras, cadastre o código de barras do produto no Catálogo, conforme descrito em [Cadastrar o código de barras dos SKUs para o VTEX Sales App](https://help.vtex.com/pt/docs/tracks/cadastrar-o-codigo-de-barras-dos-skus-para-o-vtex-sales-app).
 
