@@ -2,7 +2,7 @@
 title: 'What is VTEX Sales App'
 status: PUBLISHED
 createdAt: 2020-06-28T13:07:24.773Z
-updatedAt: 2025-09-21T18:03:19.146Z
+updatedAt: 2026-09-21T18:03:19.146Z
 contentType: trackArticle
 productTeam: Shopping
 slugEN: what-is-vtex-sales-app
