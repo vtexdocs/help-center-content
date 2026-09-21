@@ -12116,7 +12116,7 @@
                   "children": [
                     {
                       "name": {
-                        "en": "1. What is VTEX Sales App?",
+                        "en": "1. What is VTEX Sales App",
                         "es": "1. ¿Qué es VTEX Sales App?",
                         "pt": "1. O que é o VTEX Sales App"
                       },
@@ -58614,13 +58614,13 @@
             {
               "name": {
                 "en": "Refund not triggered after input invoice due to inconsistent invoiceData (OMS ↔ Payments)",
-                "es": "El reembolso no se ha activado tras la factura de entrada debido a datos de factura incoherentes (OMS ↔ Pagos).",
-                "pt": "Reembolso não acionado após a entrada da fatura devido a dados inconsistentes da fatura (OMS ↔ Pagamentos)"
+                "es": "No se activó el reembolso después de ingresar la factura debido a datos de factura inconsistentes (OMS ↔ Pagos).",
+                "pt": "O reembolso não foi processado após a entrada da fatura devido a dados de fatura inconsistentes (OMS ↔ Pagamentos)."
               },
               "slug": {
                 "en": "refund-not-triggered-after-input-invoice-due-to-inconsistent-invoicedata-oms-payments",
-                "es": "el-reembolso-no-se-ha-activado-tras-la-factura-de-entrada-debido-a-datos-de-factura-incoherentes-oms-pagos",
-                "pt": "reembolso-nao-acionado-apos-a-entrada-da-fatura-devido-a-dados-inconsistentes-da-fatura-oms-pagamentos"
+                "es": "no-se-activo-el-reembolso-despues-de-ingresar-la-factura-debido-a-datos-de-factura-inconsistentes-oms-pagos",
+                "pt": "o-reembolso-nao-foi-processado-apos-a-entrada-da-fatura-devido-a-dados-de-fatura-inconsistentes-oms-pagamentos"
               },
               "origin": "",
               "type": "markdown",
