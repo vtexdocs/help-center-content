@@ -59834,6 +59834,21 @@
             },
             {
               "name": {
+                "en": "Cannot save card in MyCards when the payment method has a special condition with subaccount",
+                "es": "No se puede guardar la tarjeta en Mis Tarjetas cuando el método de pago tiene una condición especial con la subcuenta.",
+                "pt": "Não é possível salvar o cartão em Meus Cartões quando o método de pagamento possui uma condição especial com subconta."
+              },
+              "slug": {
+                "en": "cannot-save-card-in-mycards-when-the-payment-method-has-a-special-condition-with-subaccount",
+                "es": "no-se-puede-guardar-la-tarjeta-en-mis-tarjetas-cuando-el-metodo-de-pago-tiene-una-condicion-especial-con-la-subcuenta",
+                "pt": "nao-e-possivel-salvar-o-cartao-em-meus-cartoes-quando-o-metodo-de-pagamento-possui-uma-condicao-especial-com-subconta"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Captured transaction remains in Approved status due to missing settlement registration in Requests",
                 "es": "La transacción capturada permanece en estado Aprobada debido a la falta de registro de liquidación en Solicitudes.",
                 "pt": "A transação capturada permanece no status Aprovada devido à falta de registro de liquidação nas Solicitações."
