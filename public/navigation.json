@@ -45099,6 +45099,21 @@
             },
             {
               "name": {
+                "en": "Checkout UI fails to update orderForm when a cart has packages that share the same delivery window",
+                "es": "La interfaz de pago no actualiza el formulario de pedido cuando un carrito contiene paquetes que comparten el mismo plazo de entrega.",
+                "pt": "A interface de finalização da compra não atualiza o formulário de pedido quando um carrinho contém pacotes que compartilham a mesma janela de entrega."
+              },
+              "slug": {
+                "en": "checkout-ui-fails-to-update-orderform-when-a-cart-has-packages-that-share-the-same-delivery-window",
+                "es": "la-interfaz-de-pago-no-actualiza-el-formulario-de-pedido-cuando-un-carrito-contiene-paquetes-que-comparten-el-mismo-plazo-de-entrega",
+                "pt": "a-interface-de-finalizacao-da-compra-nao-atualiza-o-formulario-de-pedido-quando-um-carrinho-contem-pacotes-que-compartilham-a-mesma-janela-de-entrega"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Checkout UI goes to Payment with an incomplete invoice address for shoppers with complete profile",
                 "es": "La interfaz de pago pasa a la fase de pago aunque la dirección de facturación esté incompleta en el caso de los compradores cuyo perfil esté completo",
                 "pt": "A interface do checkout avança para a página de pagamento com um endereço de faturamento incompleto para compradores com perfil completo"
@@ -46374,21 +46389,6 @@
             },
             {
               "name": {
-                "en": "Order cannot be created when seller has a different Country Code",
-                "es": "No se puede crear un pedido si el vendedor tiene un código de país diferente.",
-                "pt": "Não é possível criar um pedido quando o vendedor possui um código de país diferente."
-              },
-              "slug": {
-                "en": "order-cannot-be-created-when-seller-has-a-different-country-code",
-                "es": "no-se-puede-crear-un-pedido-si-el-vendedor-tiene-un-codigo-de-pais-diferente",
-                "pt": "nao-e-possivel-criar-um-pedido-quando-o-vendedor-possui-um-codigo-de-pais-diferente"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Order creation failed due to price divergence on fulfillment layer",
                 "es": "La creación de la orden falló debido a la divergencia de precios en la capa de cumplimiento",
                 "pt": "A criação de pedidos falhou devido à divergência de preços na camada de cumprimento"
@@ -47312,21 +47312,6 @@
                 "en": "security-code-persistence-in-ui-form-when-changing-from-a-saved-card-to-a-new-card",
                 "es": "el-codigo-de-seguridad-permanece-en-el-formulario-de-la-interfaz-de-usuario-al-cambiar-de-una-tarjeta-guardada-a-una-nueva",
                 "pt": "persistencia-do-codigo-de-seguranca-no-formulario-da-interface-do-usuario-ao-mudar-de-um-cartao-salvo-para-um-novo-cartao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Seller selection algorithm doesn't consider the real availability of the item to choose the best option",
-                "es": "El algoritmo de selección del vendedor no tiene en cuenta la disponibilidad real del artículo para elegir la mejor opción",
-                "pt": "O algoritmo de seleção do vendedor não considera a disponibilidade real do item para escolher a melhor opção"
-              },
-              "slug": {
-                "en": "seller-selection-algorithm-doesnt-consider-the-real-availability-of-the-item-to-choose-the-best-option",
-                "es": "el-algoritmo-de-seleccion-del-vendedor-no-tiene-en-cuenta-la-disponibilidad-real-del-articulo-para-elegir-la-mejor-opcion",
-                "pt": "o-algoritmo-de-selecao-do-vendedor-nao-considera-a-disponibilidade-real-do-item-para-escolher-a-melhor-opcao"
               },
               "origin": "",
               "type": "markdown",
@@ -49932,21 +49917,6 @@
             },
             {
               "name": {
-                "en": "FBE PLP/PDP images intermittently fail to load when Meta Facebook Business Extension (FBE) is enabled",
-                "es": "FBE Las imágenes PLP/PDP a veces no se cargan cuando está activada la extensión Meta Facebook Business (FBE)",
-                "pt": "FBE As imagens do PLP/PDP não carregam ocasionalmente quando a Meta Facebook Business Extension (FBE) está ativada"
-              },
-              "slug": {
-                "en": "fbe-plppdp-images-intermittently-fail-to-load-when-meta-facebook-business-extension-fbe-is-enabled",
-                "es": "fbe-las-imagenes-plppdp-a-veces-no-se-cargan-cuando-esta-activada-la-extension-meta-facebook-business-fbe",
-                "pt": "fbe-as-imagens-do-plppdp-nao-carregam-ocasionalmente-quando-a-meta-facebook-business-extension-fbe-esta-ativada"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "find-marketplaces ERROR 5XX Sorry, something went wrong on our side",
                 "es": "find-marketplaces ERROR 5XX Lo sentimos, algo ha ido mal por nuestra parte.",
                 "pt": "find-marketplaces ERRO 5XX Desculpe, algo deu errado do nosso lado"
@@ -50795,21 +50765,6 @@
                 "en": "review-flow-for-updatestock-netshoes",
                 "es": "flujo-de-revision-para-updatestock-netshoes",
                 "pt": "fluxo-de-revisao-para-updatestock-netshoes"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Shopee Brand attribute not sent or overwritten during product sync",
-                "es": "Shopee El atributo de marca no se envió o se sobrescribió durante la sincronización del producto.",
-                "pt": "Shopee O atributo da marca não foi enviado ou foi sobrescrito durante a sincronização do produto"
-              },
-              "slug": {
-                "en": "shopee-brand-attribute-not-sent-or-overwritten-during-product-sync",
-                "es": "shopee-el-atributo-de-marca-no-se-envio-o-se-sobrescribio-durante-la-sincronizacion-del-producto",
-                "pt": "shopee-o-atributo-da-marca-nao-foi-enviado-ou-foi-sobrescrito-durante-a-sincronizacao-do-produto"
               },
               "origin": "",
               "type": "markdown",
@@ -57337,6 +57292,21 @@
             },
             {
               "name": {
+                "en": "Seller selection algorithm doesn't consider the real availability of the item to choose the best option",
+                "es": "El algoritmo de selección de vendedores no tiene en cuenta la disponibilidad real del artículo para elegir la mejor opción.",
+                "pt": "O algoritmo de seleção de vendedores não leva em consideração a disponibilidade real do item para escolher a melhor opção."
+              },
+              "slug": {
+                "en": "seller-selection-algorithm-doesnt-consider-the-real-availability-of-the-item-to-choose-the-best-option",
+                "es": "el-algoritmo-de-seleccion-de-vendedores-no-tiene-en-cuenta-la-disponibilidad-real-del-articulo-para-elegir-la-mejor-opcion",
+                "pt": "o-algoritmo-de-selecao-de-vendedores-nao-leva-em-consideracao-a-disponibilidade-real-do-item-para-escolher-a-melhor-opcao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Seller selection excludes single seller of SKU with low coverage, causing unavailability in allocation step",
                 "es": "La selección de vendedores excluye a un único vendedor de SKU con baja cobertura, lo que provoca indisponibilidad en el paso de asignación",
                 "pt": "A seleção do vendedor exclui um único vendedor de SKU com baixa cobertura, causando indisponibilidade na etapa de alocação"
@@ -57375,6 +57345,21 @@
                 "en": "the-minimum-and-maximum-values-of-the-logistics-affect-the-allocation-flow",
                 "es": "los-valores-minimo-y-maximo-de-la-logistica-afectan-al-flujo-de-asignacion",
                 "pt": "os-valores-minimo-e-maximo-da-logistica-afetam-o-fluxo-de-alocacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Whitelabel seller selection does not rule out priceless sellers",
+                "es": "La selección de vendedores de marca blanca no excluye a los vendedores de valor incalculable.",
+                "pt": "A seleção de vendedores de marca branca não exclui vendedores de valor inestimável."
+              },
+              "slug": {
+                "en": "whitelabel-seller-selection-does-not-rule-out-priceless-sellers",
+                "es": "la-seleccion-de-vendedores-de-marca-blanca-no-excluye-a-los-vendedores-de-valor-incalculable",
+                "pt": "a-selecao-de-vendedores-de-marca-branca-nao-exclui-vendedores-de-valor-inestimavel"
               },
               "origin": "",
               "type": "markdown",
@@ -58224,13 +58209,28 @@
             {
               "name": {
                 "en": "Order Authorization lessThan 100 goes with the flow",
-                "es": "La autorización de pedidos inferiores a 100 se adapta a las circunstancias",
+                "es": "La autorización de pedidos de menos de 100 va con la corriente.",
                 "pt": "Autorização de pedido inferior a 100 segue o fluxo normal."
               },
               "slug": {
                 "en": "order-authorization-lessthan-100-goes-with-the-flow",
-                "es": "la-autorizacion-de-pedidos-inferiores-a-100-se-adapta-a-las-circunstancias",
+                "es": "la-autorizacion-de-pedidos-de-menos-de-100-va-con-la-corriente",
                 "pt": "autorizacao-de-pedido-inferior-a-100-segue-o-fluxo-normal"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order cannot be created when seller has a different Country Code",
+                "es": "No se puede crear un pedido si el vendedor tiene un código de país diferente.",
+                "pt": "Não é possível criar um pedido quando o vendedor possui um código de país diferente."
+              },
+              "slug": {
+                "en": "order-cannot-be-created-when-seller-has-a-different-country-code",
+                "es": "no-se-puede-crear-un-pedido-si-el-vendedor-tiene-un-codigo-de-pais-diferente",
+                "pt": "nao-e-possivel-criar-um-pedido-quando-o-vendedor-possui-um-codigo-de-pais-diferente"
               },
               "origin": "",
               "type": "markdown",
@@ -58629,13 +58629,13 @@
             {
               "name": {
                 "en": "Refund not triggered after input invoice due to inconsistent invoiceData (OMS ↔ Payments)",
-                "es": "El reembolso no se ha activado tras la factura de entrada debido a datos de factura incoherentes (OMS ↔ Pagos).",
-                "pt": "Reembolso não acionado após a entrada da fatura devido a dados inconsistentes da fatura (OMS ↔ Pagamentos)"
+                "es": "No se activó el reembolso después de ingresar la factura debido a datos de factura inconsistentes (OMS ↔ Pagos).",
+                "pt": "O reembolso não foi processado após a entrada da fatura devido a dados de fatura inconsistentes (OMS ↔ Pagamentos)."
               },
               "slug": {
                 "en": "refund-not-triggered-after-input-invoice-due-to-inconsistent-invoicedata-oms-payments",
-                "es": "el-reembolso-no-se-ha-activado-tras-la-factura-de-entrada-debido-a-datos-de-factura-incoherentes-oms-pagos",
-                "pt": "reembolso-nao-acionado-apos-a-entrada-da-fatura-devido-a-dados-inconsistentes-da-fatura-oms-pagamentos"
+                "es": "no-se-activo-el-reembolso-despues-de-ingresar-la-factura-debido-a-datos-de-factura-inconsistentes-oms-pagos",
+                "pt": "o-reembolso-nao-foi-processado-apos-a-entrada-da-fatura-devido-a-dados-de-fatura-inconsistentes-oms-pagamentos"
               },
               "origin": "",
               "type": "markdown",
@@ -58659,13 +58659,13 @@
             {
               "name": {
                 "en": "Replacing orders with different Sales Channel",
-                "es": "Sustitución de pedidos con un canal de venta diferente",
-                "pt": "Substituição de pedidos por meio de um canal de vendas diferente"
+                "es": "Reemplazar pedidos con diferentes canales de venta",
+                "pt": "Substituição de pedidos com canal de vendas diferente"
               },
               "slug": {
                 "en": "replacing-orders-with-different-sales-channel",
-                "es": "sustitucion-de-pedidos-con-un-canal-de-venta-diferente",
-                "pt": "substituicao-de-pedidos-por-meio-de-um-canal-de-vendas-diferente"
+                "es": "reemplazar-pedidos-con-diferentes-canales-de-venta",
+                "pt": "substituicao-de-pedidos-com-canal-de-vendas-diferente"
               },
               "origin": "",
               "type": "markdown",
@@ -58869,13 +58869,13 @@
             {
               "name": {
                 "en": "Special character in Seller name Report",
-                "es": "Caracteres especiales en el nombre del vendedor: Informe",
-                "pt": "Caractere especial no nome do vendedor - Relatório"
+                "es": "Carácter especial en el informe del nombre del vendedor",
+                "pt": "Caractere especial no nome do vendedor Denunciar"
               },
               "slug": {
                 "en": "special-character-in-seller-name-report",
-                "es": "caracteres-especiales-en-el-nombre-del-vendedor-informe",
-                "pt": "caractere-especial-no-nome-do-vendedor-relatorio"
+                "es": "caracter-especial-en-el-informe-del-nombre-del-vendedor",
+                "pt": "caractere-especial-no-nome-do-vendedor-denunciar"
               },
               "origin": "",
               "type": "markdown",
@@ -58974,12 +58974,12 @@
             {
               "name": {
                 "en": "Subscription event history out of order",
-                "es": "El historial de eventos de la suscripción no está en orden",
+                "es": "El historial de eventos de la suscripción está fuera de orden.",
                 "pt": "O histórico de eventos da assinatura está fora de ordem."
               },
               "slug": {
                 "en": "subscription-event-history-out-of-order",
-                "es": "el-historial-de-eventos-de-la-suscripcion-no-esta-en-orden",
+                "es": "el-historial-de-eventos-de-la-suscripcion-esta-fuera-de-orden",
                 "pt": "o-historico-de-eventos-da-assinatura-esta-fora-de-ordem"
               },
               "origin": "",
@@ -69572,6 +69572,21 @@
                 "en": "netshoes-main-image-not-respected",
                 "es": "netshoes-imagen-principal-no-respetada",
                 "pt": "netshoes-imagem-principal-nao-respeitada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Brand attribute not sent or overwritten during product sync",
+                "es": "Shopee El atributo de marca no se envió o se sobrescribió durante la sincronización del producto.",
+                "pt": "Shopee O atributo da marca não foi enviado ou foi sobrescrito durante a sincronização do produto"
+              },
+              "slug": {
+                "en": "shopee-brand-attribute-not-sent-or-overwritten-during-product-sync",
+                "es": "shopee-el-atributo-de-marca-no-se-envio-o-se-sobrescribio-durante-la-sincronizacion-del-producto",
+                "pt": "shopee-o-atributo-da-marca-nao-foi-enviado-ou-foi-sobrescrito-durante-a-sincronizacao-do-produto"
               },
               "origin": "",
               "type": "markdown",
