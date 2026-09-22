@@ -3,7 +3,7 @@ title: 'Pagamento com cartão via Sales App (sem maquininha)'
 id: 48OR7InFvdLW6hekvfESs3
 status: PUBLISHED
 createdAt: 2025-03-28T15:33:24.822Z
-updatedAt: 2025-10-29T20:05:52.877Z
+updatedAt: 2026-09-22T20:05:52.877Z
 publishedAt: 2025-10-29T20:05:52.877Z
 firstPublishedAt: 2025-03-28T16:09:38.187Z
 contentType: tutorial
