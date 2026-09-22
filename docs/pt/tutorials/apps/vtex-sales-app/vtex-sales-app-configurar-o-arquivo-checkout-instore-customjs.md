@@ -9,7 +9,7 @@ slugEN: vtex-sales-app-configuring-the-checkout-instore-custom-js-file
 locale: pt
 ---
 
-O `checkout-instore-custom.js` é o arquivo no qual você realiza configurações e customizações no **VTEX Sales App**, e este artigo descreve quais de suas propriedades podem ser configuradas. Para encontrar o arquivo, siga os passos abaixo:
+O `checkout-instore-custom.js` é o arquivo usado para personalizar as configurações do **VTEX Sales App**. Este artigo descreve as propriedades disponíveis nesse arquivo e como defini-las. Para localizá-lo, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Configurações da loja > Storefront > Checkout** ou digite **Checkout** no campo de busca.
 2. Clique na engrenagem do campo **Default**.
@@ -24,21 +24,21 @@ O `checkout-instore-custom.js` é o arquivo no qual você realiza configuraçõe
 
 - `window.INSTORE_CONFIG_BY_ACCOUNT`: objeto que mapeia lojas e contas para configurações específicas.
   - **Chave:** ID e nome da loja (ex: `"1"` e `"nomedaloja"`).
-  - `name`: nome da conta.
-- `accounts`: dentro do `INSTORE_CONFIG`, recebe `window.INSTORE_CONFIG_BY_ACCOUNT`. Liga o Sales App às lojas configuradas.
+  - `name`: nome da conta VTEX.
+- `accounts`: localizado dentro de `INSTORE_CONFIG`, recebe o valor de `window.INSTORE_CONFIG_BY_ACCOUNT` e associa o Sales App às lojas configuradas.
 
 ## Fluxo de checkout e navegação
 
 - `enableNewCheckout`: ativa o novo fluxo de checkout do Sales App.
 - `enableExplore`: ativa a tela com a experiência "Explore" (vitrine/anúncios).
 - `initialPage`: define a página que abre primeiro após o login (ex: `'advertisements'`).
-- `pathAfterLogin`: rota interna para onde o usuário é enviado depois de realizar o login (ex: `'/sale'`).
-- `topbarTitle`: texto exibido na barra superior do Sales App (ex: `'Nome da loja'`).
-- `enableChangePrice`: controla se o vendedor pode alterar preço manualmente no Sales App. Está relacionado ao campo `manualPrice` do [orderform](https://developers.vtex.com/docs/guides/orderform-fields).
+- `pathAfterLogin`: determina a rota interna para onde o usuário é direcionado depois de realizar o login (ex: `'/sale'`).
+- `topbarTitle`: define o texto exibido na barra superior do Sales App (ex: `'Nome da loja'`).
+- `enableChangePrice`: quando configurado como `true`, permite que o vendedor altere o preço manualmente no Sales App, quando `false`, não permite. Está relacionado ao campo `manualPrice` do [orderform](https://developers.vtex.com/docs/guides/orderform-fields).
 
 ## Autenticação
 
-- `auth.oAuthProviderName`: nome do provedor de login OAuth usado (ex.: `'Google'`).
+- `auth.oAuthProviderName`: define o provedor de autenticação OAuth usado para fazer login no Sales App (ex.: `'Google'`).
 
 ## Vendas e rastreio
 
@@ -48,12 +48,12 @@ O `checkout-instore-custom.js` é o arquivo no qual você realiza configuraçõe
 ## Pagamentos
 
 - `challengeDrivenPaymentWorkflow`: ativa um fluxo de pagamento com etapas e validações adicionais (payment App).
-- `payments.filters`: lista de IDs de meios de pagamento (`paymentSystemId`) que podem aparecer no checkout do Sales App. (Ex.: `'1'`, `'4'`, `'125'`, `'202'`, `'44'`, `'45'`, `'207'`, `'208'`, `'209'`).
+- `payments.filters`: lista de IDs de meios de pagamento (`paymentSystemId`) que podem aparecer no checkout do Sales App (ex: `'1'`, `'4'`, `'125'`, `'202'`, `'44'`, `'45'`, `'207'`, `'208'`, `'209'`).
 - `newPaymentArchitectureEnabled`: define a bifurcação no fluxo de pagamento dentro do Sales App. Quando configurado como `true`, o Sales App usa a arquitetura na qual ele resolve o pagamento localmente sem chamar o endpoint do gateway.
 
 ## Código do vendedor (`noteAsVendorCode`)
 
-- `noteAsVendorCode.type`: tipo de campo do código do vendedor, que pode ser `'text'`, `'input'` ou `'select'`.
+- `noteAsVendorCode.type`: define o tipo de campo do código do vendedor, que pode ser `'text'`, `'input'` ou `'select'`.
 - `noteAsVendorCode.skipValidation`: quando configurado como `false`, realiza a validação no código do vendedor, quando `true`, não realiza essa validação.
 - `noteAsVendorCode.autofill`: quando configurado como `true`, tenta preencher automaticamente o código do vendedor, quando `false`, não tenta o preenchimento automático.
 
@@ -68,13 +68,13 @@ O `checkout-instore-custom.js` é o arquivo no qual você realiza configuraçõe
 
 ## Busca de produtos (`search`)
 
-- `search.vtexSearch`: quando configurado como `true`, usa o [VTEX Search (Legado)](https://help.vtex.com/pt/docs/tutorials/como-funciona-vtex-search-legado) direto, quando `false`, usa o [Intelligent Search](https://help.vtex.com/pt/docs/tutorials/intelligent-search-visao-geral), que é a busca padrão do Sales App.
+- `search.vtexSearch`: quando configurado como `true`, usa o [VTEX Search (Legado)](https://help.vtex.com/pt/docs/tutorials/como-funciona-vtex-search-legado) direto; quando `false`, usa o [Intelligent Search](https://help.vtex.com/pt/docs/tutorials/intelligent-search-visao-geral), que é a busca padrão do Sales App.
 - `search.filtersEnabled`: habilita filtros na interface de busca (ex: filtros de produto).
 - `search.alternateIdRegex`: identifica a expressão regular (regex) usada para reconhecer IDs alternativos (ex: código de barras).
 
 ## Cancelamento de pedido
 
-- `isCancelOrderAlwaysVisible`: mantém sempre visível na interface a opção de cancelar o pedido.
+- `isCancelOrderAlwaysVisible`: quando configurado como `true`, mantém sempre visível na interface a opção de cancelar o pedido; quando `false`, não mantém visível.
 
 ## Configuração de dispositivo / impressora
 
