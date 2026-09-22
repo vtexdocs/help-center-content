@@ -24,7 +24,7 @@ Con esta funcionalidad, la compra se procesa a través del mismo gateway de la t
 Este artículo presenta la solución **Pago con tarjeta vía VTEX Sales App** y se estructura en las siguientes secciones:
 
 - [Características](#caracteristicas)
-- [Beneficios](#beneficios) 
+- [Beneficios](#beneficios)
 - [Casos de uso](#casos-de-uso)
 - [Configuración](#configuracion)
 - [Cómo utilizar la solución](#como-utilizar-la-solucion)
@@ -35,11 +35,11 @@ El **Pago con tarjeta vía VTEX Sales App** consta de las siguientes caracterís
 
 - ✅ Permite pagos con las mismas redes de tarjetas de crédito utilizadas en la tienda de ecommerce.
 - ✅ Incluye las mismas [condiciones de pago](/es/docs/tutorials/diferencia-entre-medios-de-pago-y-condiciones-de-pago) y cuotas disponibles en la tienda de ecommerce.
-- ✅ Cumple con la [normativa PCI](/es/tutorial/o-que-e-o-pci-ssc), es decir, protege los datos de los clientes y no almacena información sensible.
+- ✅ Cumple con la [normativa PCI](https://help.vtex.com/es/docs/tutorials/que-es-el-pci-ssc), es decir, protege los datos de los clientes y no almacena información sensible.
 
 La funcionalidad presenta algunas restricciones:
 
-- ❌ No admite [tarjetas de tienda ](/es/docs/tutorials/configurar-pagos-con-private-label)(private label) de terceros.
+- ❌ No admite [tarjetas de tienda](/es/docs/tutorials/configurar-pagos-con-private-label) (private label) de terceros.
 - ❌ No permite el uso de varias tarjetas en una misma compra.
 
 ## Beneficios

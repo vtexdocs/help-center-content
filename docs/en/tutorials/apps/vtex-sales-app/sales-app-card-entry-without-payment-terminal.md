@@ -24,7 +24,7 @@ This feature ensures the purchase is processed through the same gateway as the e
 This article introduces the solution **Sales App card entry** and is organized in the following sections:
 
 - [Characteristics](#characteristics)
-- [Advantages](#advantages) 
+- [Advantages](#advantages)
 - [Use cases](#use-cases)
 - [Settings](#settings)
 - [Using the solution](#using-the-solution)
@@ -35,7 +35,7 @@ This article introduces the solution **Sales App card entry** and is organized i
 
 - ✅ Allows payments with the same credit card network as the ecommerce website.
 - ✅ Includes the same [payment conditions](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions) and installments provided by the ecommerce website.
-- ✅ It's [PCI compliant](/en/tutorial/o-que-e-o-pci-ssc), meaning it protects customer data and doesn't store sensitive information.
+- ✅ It's [PCI compliant](https://help.vtex.com/docs/tutorials/what-is-the-pci-ssc), meaning it protects customer data and doesn't store sensitive information.
 
 However, the feature has some restrictions:
 
@@ -78,7 +78,7 @@ When [setting up VTEX Sales App](/en/docs/tracks/vtex-sales-app-basic-settings),
 
 To use **Sales App card entry**, there are two main settings that need to be enabled: one for Checkout and another for Payments.
 
-#### Checkout configuration 
+#### Checkout configuration
 
 Credit card network IDs need to be enabled as payment methods in the VTEX Sales App payment settings. To confirm, follow the steps below:
 
