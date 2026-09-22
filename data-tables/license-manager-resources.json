@@ -2503,33 +2503,6 @@
       "productId": "114"
     },
     {
-      "product": "PersonalShopper App",
-      "category": "Analytics",
-      "resource": "View Analytics",
-      "description": "View Analytics for the Personal Shopper app.",
-      "key": "view-analytics",
-      "resourceId": "1639728",
-      "productId": "100"
-    },
-    {
-      "product": "PersonalShopper App",
-      "category": "Call",
-      "resource": "View List Call",
-      "description": "View the call page.",
-      "key": "view-list-call",
-      "resourceId": "1639430",
-      "productId": "100"
-    },
-    {
-      "product": "PersonalShopper App",
-      "category": "Setting",
-      "resource": "View Setting",
-      "description": "Edit Personal Shopper app settings.",
-      "key": "view-setting",
-      "resourceId": "1643056",
-      "productId": "100"
-    },
-    {
       "product": "Portal",
       "category": "API",
       "resource": "Manage portal",
@@ -5745,33 +5718,6 @@
       "productId": "114"
     },
     {
-      "product": "PersonalShopper App",
-      "category": "Analytics",
-      "resource": "View Analytics",
-      "description": "Consulta las estadísticas de la aplicación Personal Shopper.",
-      "key": "view-analytics",
-      "resourceId": "1639728",
-      "productId": "100"
-    },
-    {
-      "product": "PersonalShopper App",
-      "category": "Call",
-      "resource": "View List Call",
-      "description": "Consulta la página de la convocatoria.",
-      "key": "view-list-call",
-      "resourceId": "1639430",
-      "productId": "100"
-    },
-    {
-      "product": "PersonalShopper App",
-      "category": "Setting",
-      "resource": "View Setting",
-      "description": "Edita la configuración de la aplicación Personal Shopper.",
-      "key": "view-setting",
-      "resourceId": "1643056",
-      "productId": "100"
-    },
-    {
       "product": "Portal",
       "category": "API",
       "resource": "Manage portal",
@@ -8985,33 +8931,6 @@
       "key": "ManageDefenseMode",
       "resourceId": "2160774",
       "productId": "114"
-    },
-    {
-      "product": "PersonalShopper App",
-      "category": "Analytics",
-      "resource": "View Analytics",
-      "description": "Visualizar Analytics do app Personal Shopper.",
-      "key": "view-analytics",
-      "resourceId": "1639728",
-      "productId": "100"
-    },
-    {
-      "product": "PersonalShopper App",
-      "category": "Call",
-      "resource": "View List Call",
-      "description": "Visualizar a página de chamadas.",
-      "key": "view-list-call",
-      "resourceId": "1639430",
-      "productId": "100"
-    },
-    {
-      "product": "PersonalShopper App",
-      "category": "Setting",
-      "resource": "View Setting",
-      "description": "Editar configurações do app Personal Shopper.",
-      "key": "view-setting",
-      "resourceId": "1643056",
-      "productId": "100"
     },
     {
       "product": "Portal",
