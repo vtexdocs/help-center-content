@@ -76,6 +76,8 @@ Você pode cadastrar uma loja física seguindo os passos a seguir:
 * **Política comercial:** [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) que será aplicada na loja física. Campo obrigatório.
 * **Ponto de retirada:** [ponto de retirada](/pt/docs/tutorials/pontos-de-retirada) cadastrado para essa loja física, onde clientes retiram seus pedidos.
 
+> ⚠️ Os campos **Conta franquia** e **Ponto de retirada** só devem ser preenchidos se a loja deseja usar a [Venda de estoque local](/pt/docs/tutorials/habilitar-venda-de-estoque-local-do-vtex-sales-app) (onhands). O preenchimento desses campos sem a devida configuração da Venda de estoque local pode causar indisponibilidade de itens na página de produto (PDP) e na página de listagem (PLP).
+
 > ℹ️ As alterações podem levar até 15 minutos para serem processadas e aplicadas no VTEX Sales App.
 
 ## Buscar loja física
