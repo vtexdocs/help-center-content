@@ -111,6 +111,9 @@ Realize os passos abaixo para vender usando o **Pagamento com cartão via Sales 
 1. No checkout do **VTEX Sales App**, na etapa para que você `Selecione um meio de pagamento`, clique em `Digitar cartão`.
 2. Selecione a opção para escanear o cartão ou digitar os dados manualmente.
 3. Capture automaticamente os dados do cartão com a tela de captura ou preencha os dados de forma manual. É necessário escanear a frente e o verso do cartão.
+
+  > ⚠️ Só será possível preencher o CVV quando o número do cartão for válido.
+
 4. Após a aprovação do pagamento, a confirmação da compra é feita no **VTEX Sales App**.
 
 > ℹ️ Caso o cliente prefira, ele pode realizar ele próprio o escaneamento do cartão ou preenchimento manual dos dados.
