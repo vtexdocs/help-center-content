@@ -3,7 +3,7 @@ title: 'Sales App card entry (without payment terminal)'
 id: 48OR7InFvdLW6hekvfESs3
 status: PUBLISHED
 createdAt: 2025-03-28T15:33:24.822Z
-updatedAt: 2025-10-29T20:05:52.877Z
+updatedAt: 2026-09-22T20:05:52.877Z
 publishedAt: 2025-10-29T20:05:52.877Z
 firstPublishedAt: 2025-03-28T16:09:38.187Z
 contentType: tutorial
@@ -111,6 +111,9 @@ Follow the steps below to sell using **Sales App card entry**:
 1. In the **VTEX Sales App** checkout, in the `Select a payment method` step, click `Enter card`.
 2. Select the option to scan the card or enter the data manually.
 3. Automatically capture the card data with the capture screen or enter the data manually. The front and back of the card must be scanned.
+
+  > ⚠️ It's only possible to fill in the CVV when the card number is valid.
+
 4. After the payment is approved, the purchase confirmation is made in **VTEX Sales App**.
 
 > ℹ️ Customers can scan the card or manually enter the data themselves if they prefer.
