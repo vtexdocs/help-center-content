@@ -3,7 +3,7 @@ title: 'Intelligent Search: Semantic search (Beta)'
 id: 366JCdaoDVz8V3FFZZ2fUD
 status: PUBLISHED
 createdAt: 2025-06-13T14:11:56.694Z
-updatedAt: 2026-09-14T15:56:36.000Z
+updatedAt: 2026-09-22T15:17:07.000Z
 publishedAt: 2025-10-29T21:46:04.706Z
 firstPublishedAt: 2025-06-13T14:15:17.126Z
 contentType: tutorial
@@ -81,3 +81,36 @@ The main advantages for consumer experience and store performance are:
 * **Increased conversion:** Delivering more relevant results reduces product discovery time, which can accelerate purchase decisions.
 * **Natural language comprehension:** Customers can search using everyday language, including full questions, vague terms, or informal language. For example, a customer might search `what is the best hiking shoe?`, and the search understands they're looking for shoes with specific features, such as a lug sole and water resistance.
 * **Support for complex discovery cases:** Ideal for catalogs that have products with more subjective descriptions (example: fashion, beauty, home decor), where the exact attribute may not explicitly be present, but user intent can be inferred.
+
+## How to test Semantic Search
+
+Before applying Semantic Search for all store customers, you can test it to compare results with and without this feature. The testing method depends on the store architecture.
+
+### Store Framework stores
+
+For stores using [Store Framework](https://help.vtex.com/en/docs/tracks/frontend#store-framework), VTEX can create a test workspace and, if necessary, set up an A/B test with VTEX's internal solution to compare results with and without Semantic Search. To do this, contact [Support](https://help.vtex.com/en/docs/tutorials/how-does-vtex-support-work).
+
+### Headless or FastStore stores
+
+For Headless stores or those using [FastStore](https://help.vtex.com/en/docs/tracks/frontend#faststore), Semantic Search can be tested by adding a parameter to the URL of the call made to the [Intelligent Search API](https://developers.vtex.com/docs/api-reference/intelligent-search-api-v1#get-/product-search/-facets-), without the need to change any store settings.
+
+A query string is the part that appears after the `?` symbol at the end of a URL. It is used to send additional information to the server without changing the rest of the address, in the `parameter=value` format. When there is more than one parameter, they are separated by the `&` symbol.
+
+To test Semantic Search in a specific call, add the `semanticRatio` parameter to the query string of the search URL, in the `?semanticRatio={weightValue}` format. This parameter accepts values between `0` and `1`, which define how the search works:
+
+* `0`: uses only lexical search. This is also the default behavior when the parameter is not provided.
+* `1`: uses only semantic search.
+* `0.5`: combines both models. Any value between `0` and `1` behaves as `0.5`.
+
+**Example:**
+
+* Without Semantic Search:
+   `https://{accountName}.vtexcommercestable.com.br/api/intelligent-search/v1/product-search?query=leite%20para%20bebe`
+* With Semantic Search:
+   `https://{accountName}.vtexcommercestable.com.br/api/intelligent-search/v1/product-search?query=leite%20para%20bebe&semanticRatio=0.5`
+
+Since the parameter is added only to the test call URL, it does not change the store settings or affect other calls. This allows you to compare both versions side by side or use this URL in your own A/B testing tool to direct part of the traffic to the version with Semantic Search.
+
+### Direct activation in production
+
+You can also activate Semantic Search directly for all calls made to the API, without the need to include the `semanticRatio` parameter in each request. This activation must be requested from [Support](https://help.vtex.com/en/docs/tutorials/how-does-vtex-support-work) and, since it applies the change for all store customers in production, it is not recommended as a testing method.
