@@ -42397,6 +42397,21 @@
             },
             {
               "name": {
+                "en": "Product and SKU import fails for large size of spreadsheet file",
+                "es": "La importación de productos y SKU falla cuando el archivo de hoja de cálculo es de gran tamaño.",
+                "pt": "A importação de produtos e SKUs falha devido ao tamanho grande da planilha."
+              },
+              "slug": {
+                "en": "product-and-sku-import-fails-for-large-size-of-spreadsheet-file",
+                "es": "la-importacion-de-productos-y-sku-falla-cuando-el-archivo-de-hoja-de-calculo-es-de-gran-tamano",
+                "pt": "a-importacao-de-produtos-e-skus-falha-devido-ao-tamanho-grande-da-planilha"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product availability display delayed when using multiple sales channels",
                 "es": "La visualización de la disponibilidad del producto se retrasa cuando se utilizan varios canales de venta",
                 "pt": "Exibição da disponibilidade do produto atrasada ao usar vários canais de vendas"
@@ -51962,8 +51977,8 @@
             {
               "name": {
                 "en": "Accounts with \"-\" on the name don't have metrics on search report",
-                "es": "Las cuentas con \"-\" en el nombre no tienen métricas en el informe de búsqueda",
-                "pt": "Contas com \"-\" no nome não têm métricas no relatório de pesquisa"
+                "es": "Las cuentas con \"-\" en el nombre no tienen métricas en el informe de búsqueda.",
+                "pt": "Contas com \"-\" no nome não têm métricas no relatório de pesquisa."
               },
               "slug": {
                 "en": "accounts-with-on-the-name-dont-have-metrics-on-search-report",
@@ -51992,13 +52007,13 @@
             {
               "name": {
                 "en": "Autocomplete does not display Search Suggestions during the first interaction after PLP renders",
-                "es": "Autocompletar no muestra Sugerencias de Búsqueda durante la primera interacción después de que PLP se renderiza.",
-                "pt": "O preenchimento automático não exibe as sugestões de pesquisa durante a primeira interação após a renderização do PLP"
+                "es": "La función de autocompletar no muestra sugerencias de búsqueda durante la primera interacción después de que se renderiza la página de perfil de usuario (PLP).",
+                "pt": "O recurso de autocompletar não exibe sugestões de pesquisa durante a primeira interação após a renderização do PLP."
               },
               "slug": {
                 "en": "autocomplete-does-not-display-search-suggestions-during-the-first-interaction-after-plp-renders",
-                "es": "autocompletar-no-muestra-sugerencias-de-busqueda-durante-la-primera-interaccion-despues-de-que-plp-se-renderiza",
-                "pt": "o-preenchimento-automatico-nao-exibe-as-sugestoes-de-pesquisa-durante-a-primeira-interacao-apos-a-renderizacao-do-plp"
+                "es": "la-funcion-de-autocompletar-no-muestra-sugerencias-de-busqueda-durante-la-primera-interaccion-despues-de-que-se-renderiza-la-pagina-de-perfil-de-usuario-plp",
+                "pt": "o-recurso-de-autocompletar-nao-exibe-sugestoes-de-pesquisa-durante-a-primeira-interacao-apos-a-renderizacao-do-plp"
               },
               "origin": "",
               "type": "markdown",
@@ -52082,13 +52097,13 @@
             {
               "name": {
                 "en": "Banner not respecting the specificity of the search level in search pages",
-                "es": "Banner que no respeta la especificidad del nivel de búsqueda en las páginas de búsqueda",
-                "pt": "Banner que não respeita a especificidade do nível de busca nas páginas de busca"
+                "es": "Banner que no respeta la especificidad del nivel de búsqueda en las páginas de búsqueda.",
+                "pt": "O banner não respeita a especificidade do nível de pesquisa nas páginas de pesquisa."
               },
               "slug": {
                 "en": "banner-not-respecting-the-specificity-of-the-search-level-in-search-pages",
                 "es": "banner-que-no-respeta-la-especificidad-del-nivel-de-busqueda-en-las-paginas-de-busqueda",
-                "pt": "banner-que-nao-respeita-a-especificidade-do-nivel-de-busca-nas-paginas-de-busca"
+                "pt": "o-banner-nao-respeita-a-especificidade-do-nivel-de-pesquisa-nas-paginas-de-pesquisa"
               },
               "origin": "",
               "type": "markdown",
@@ -52217,12 +52232,12 @@
             {
               "name": {
                 "en": "Collection title is not displayed when accessing through ?map=productClusterIds query in multilanguage accounts",
-                "es": "El título de la colección no se muestra al acceder a través de la consulta «?map=productClusterIds» en cuentas multilingües",
-                "pt": "O título da coleção não é exibido ao acessar por meio da consulta ?map=productClusterIds em contas multilíngues"
+                "es": "El título de la colección no se muestra al acceder mediante la consulta ?map=productClusterIds en cuentas multilingües.",
+                "pt": "O título da coleção não é exibido ao acessar por meio da consulta ?map=productClusterIds em contas multilíngues."
               },
               "slug": {
                 "en": "collection-title-is-not-displayed-when-accessing-through-mapproductclusterids-query-in-multilanguage-accounts",
-                "es": "el-titulo-de-la-coleccion-no-se-muestra-al-acceder-a-traves-de-la-consulta-mapproductclusterids-en-cuentas-multilingues",
+                "es": "el-titulo-de-la-coleccion-no-se-muestra-al-acceder-mediante-la-consulta-mapproductclusterids-en-cuentas-multilingues",
                 "pt": "o-titulo-da-colecao-nao-e-exibido-ao-acessar-por-meio-da-consulta-mapproductclusterids-em-contas-multilingues"
               },
               "origin": "",
@@ -52292,13 +52307,13 @@
             {
               "name": {
                 "en": "Detached SKU search results not considering regionalized availability",
-                "es": "Los resultados de búsqueda de SKU independientes no tienen en cuenta la disponibilidad regionalizada",
-                "pt": "Os resultados da pesquisa de SKUs independentes não consideram a disponibilidade regionalizada"
+                "es": "Resultados de búsqueda de SKU independientes que no tienen en cuenta la disponibilidad regional.",
+                "pt": "Resultados de pesquisa de SKUs separados não consideram a disponibilidade regional."
               },
               "slug": {
                 "en": "detached-sku-search-results-not-considering-regionalized-availability",
-                "es": "los-resultados-de-busqueda-de-sku-independientes-no-tienen-en-cuenta-la-disponibilidad-regionalizada",
-                "pt": "os-resultados-da-pesquisa-de-skus-independentes-nao-consideram-a-disponibilidade-regionalizada"
+                "es": "resultados-de-busqueda-de-sku-independientes-que-no-tienen-en-cuenta-la-disponibilidad-regional",
+                "pt": "resultados-de-pesquisa-de-skus-separados-nao-consideram-a-disponibilidade-regional"
               },
               "origin": "",
               "type": "markdown",
@@ -52367,13 +52382,13 @@
             {
               "name": {
                 "en": "Explained Search returns results from main locale instead of selected secondary locale",
-                "es": "La búsqueda explicada devuelve resultados de la configuración regional principal en lugar de la configuración regional secundaria seleccionada.",
-                "pt": "A Pesquisa explicada retorna resultados da localidade principal em vez da localidade secundária selecionada."
+                "es": "La función de búsqueda explicada devuelve resultados de la configuración regional principal en lugar de la configuración regional secundaria seleccionada.",
+                "pt": "A opção \"Pesquisa explicada\" retorna resultados da localidade principal em vez da localidade secundária selecionada."
               },
               "slug": {
                 "en": "explained-search-returns-results-from-main-locale-instead-of-selected-secondary-locale",
-                "es": "la-busqueda-explicada-devuelve-resultados-de-la-configuracion-regional-principal-en-lugar-de-la-configuracion-regional-secundaria-seleccionada",
-                "pt": "a-pesquisa-explicada-retorna-resultados-da-localidade-principal-em-vez-da-localidade-secundaria-selecionada"
+                "es": "la-funcion-de-busqueda-explicada-devuelve-resultados-de-la-configuracion-regional-principal-en-lugar-de-la-configuracion-regional-secundaria-seleccionada",
+                "pt": "a-opcao-pesquisa-explicada-retorna-resultados-da-localidade-principal-em-vez-da-localidade-secundaria-selecionada"
               },
               "origin": "",
               "type": "markdown",
@@ -52772,13 +52787,13 @@
             {
               "name": {
                 "en": "Intelligent Search Synonyms form may freeze the synonym type field after creating a unidirectional synonym",
-                "es": "El formulario de búsqueda inteligente de sinónimos puede congelar el campo de tipo de sinónimo después de crear un sinónimo unidireccional",
-                "pt": "O formulário Intelligent Search Synonyms pode congelar o campo de tipo de sinônimo após a criação de um sinônimo unidirecional"
+                "es": "El formulario de sinónimos de búsqueda inteligente puede bloquear el campo de tipo de sinónimo después de crear un sinónimo unidireccional.",
+                "pt": "O formulário de sinônimos da Busca Inteligente pode congelar o campo de tipo de sinônimo após a criação de um sinônimo unidirecional."
               },
               "slug": {
                 "en": "intelligent-search-synonyms-form-may-freeze-the-synonym-type-field-after-creating-a-unidirectional-synonym",
-                "es": "el-formulario-de-busqueda-inteligente-de-sinonimos-puede-congelar-el-campo-de-tipo-de-sinonimo-despues-de-crear-un-sinonimo-unidireccional",
-                "pt": "o-formulario-intelligent-search-synonyms-pode-congelar-o-campo-de-tipo-de-sinonimo-apos-a-criacao-de-um-sinonimo-unidirecional"
+                "es": "el-formulario-de-sinonimos-de-busqueda-inteligente-puede-bloquear-el-campo-de-tipo-de-sinonimo-despues-de-crear-un-sinonimo-unidireccional",
+                "pt": "o-formulario-de-sinonimos-da-busca-inteligente-pode-congelar-o-campo-de-tipo-de-sinonimo-apos-a-criacao-de-um-sinonimo-unidirecional"
               },
               "origin": "",
               "type": "markdown",
@@ -52862,13 +52877,13 @@
             {
               "name": {
                 "en": "Manual merchandising rules do not work when Global trigger is enabled",
-                "es": "Las reglas de comercialización manual no funcionan cuando está activado el Activador global.",
-                "pt": "As regras de merchandising manual não funcionam quando o acionador global está ativado"
+                "es": "Las reglas de comercialización manuales no funcionan cuando el activador global está habilitado.",
+                "pt": "As regras de merchandising manual não funcionam quando o gatilho global está ativado."
               },
               "slug": {
                 "en": "manual-merchandising-rules-do-not-work-when-global-trigger-is-enabled",
-                "es": "las-reglas-de-comercializacion-manual-no-funcionan-cuando-esta-activado-el-activador-global",
-                "pt": "as-regras-de-merchandising-manual-nao-funcionam-quando-o-acionador-global-esta-ativado"
+                "es": "las-reglas-de-comercializacion-manuales-no-funcionan-cuando-el-activador-global-esta-habilitado",
+                "pt": "as-regras-de-merchandising-manual-nao-funcionam-quando-o-gatilho-global-esta-ativado"
               },
               "origin": "",
               "type": "markdown",
@@ -53011,21 +53026,6 @@
             },
             {
               "name": {
-                "en": "Product and SKU import fails for large size of spreadsheet file",
-                "es": "La importación de productos y SKU falla cuando el archivo de hoja de cálculo es de gran tamaño.",
-                "pt": "A importação de produtos e SKUs falha devido ao tamanho grande da planilha."
-              },
-              "slug": {
-                "en": "product-and-sku-import-fails-for-large-size-of-spreadsheet-file",
-                "es": "la-importacion-de-productos-y-sku-falla-cuando-el-archivo-de-hoja-de-calculo-es-de-gran-tamano",
-                "pt": "a-importacao-de-produtos-e-skus-falha-devido-ao-tamanho-grande-da-planilha"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Product Highlights doesn't work into a product list",
                 "es": "Los productos destacados no funcionan en una lista de productos",
                 "pt": "Os destaques de produtos não funcionam em uma lista de produtos"
@@ -53102,12 +53102,12 @@
             {
               "name": {
                 "en": "Products may not appear in search when using synonyms in secondary languages",
-                "es": "Es posible que los productos no aparezcan en la búsqueda cuando se utilizan sinónimos en lenguas secundarias.",
-                "pt": "Os produtos podem não aparecer na pesquisa ao usar sinônimos em idiomas secundários"
+                "es": "Es posible que los productos no aparezcan en la búsqueda cuando se utilicen sinónimos en idiomas secundarios.",
+                "pt": "Os produtos podem não aparecer na pesquisa ao usar sinônimos em idiomas secundários."
               },
               "slug": {
                 "en": "products-may-not-appear-in-search-when-using-synonyms-in-secondary-languages",
-                "es": "es-posible-que-los-productos-no-aparezcan-en-la-busqueda-cuando-se-utilizan-sinonimos-en-lenguas-secundarias",
+                "es": "es-posible-que-los-productos-no-aparezcan-en-la-busqueda-cuando-se-utilicen-sinonimos-en-idiomas-secundarios",
                 "pt": "os-produtos-podem-nao-aparecer-na-pesquisa-ao-usar-sinonimos-em-idiomas-secundarios"
               },
               "origin": "",
@@ -59771,6 +59771,21 @@
             },
             {
               "name": {
+                "en": "Cannot save card in MyCards when the payment method has a special condition with subaccount",
+                "es": "No se puede guardar la tarjeta en Mis Tarjetas cuando el método de pago tiene una condición especial con la subcuenta.",
+                "pt": "Não é possível salvar o cartão em Meus Cartões quando o método de pagamento possui uma condição especial com subconta."
+              },
+              "slug": {
+                "en": "cannot-save-card-in-mycards-when-the-payment-method-has-a-special-condition-with-subaccount",
+                "es": "no-se-puede-guardar-la-tarjeta-en-mis-tarjetas-cuando-el-metodo-de-pago-tiene-una-condicion-especial-con-la-subcuenta",
+                "pt": "nao-e-possivel-salvar-o-cartao-em-meus-cartoes-quando-o-metodo-de-pagamento-possui-uma-condicao-especial-com-subconta"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Captured transaction remains in Approved status due to missing settlement registration in Requests",
                 "es": "La transacción capturada permanece en estado Aprobada debido a la falta de registro de liquidación en Solicitudes.",
                 "pt": "A transação capturada permanece no status Aprovada devido à falta de registro de liquidação nas Solicitações."
@@ -62239,6 +62254,21 @@
                 "en": "risk-analysis-canceled-earlier-than-expected-due-to-fixed-retry-limit",
                 "es": "el-analisis-de-riesgos-se-cancela-antes-de-lo-previsto-debido-al-limite-fijo-de-reintentos",
                 "pt": "analise-de-risco-cancelada-antes-do-esperado-devido-ao-limite-fixo-de-tentativas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Same boleto number generated for two distinct transactions (Itaú Shopline)",
+                "es": "Se generó el mismo número de boleto para dos transacciones distintas (Itaú Shopline).",
+                "pt": "O mesmo número de boleto foi gerado para duas transações distintas (Itaú Shopline)"
+              },
+              "slug": {
+                "en": "same-boleto-number-generated-for-two-distinct-transactions-itau-shopline",
+                "es": "se-genero-el-mismo-numero-de-boleto-para-dos-transacciones-distintas-itau-shopline",
+                "pt": "o-mesmo-numero-de-boleto-foi-gerado-para-duas-transacoes-distintas-itau-shopline"
               },
               "origin": "",
               "type": "markdown",
