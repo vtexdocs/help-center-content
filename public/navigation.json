@@ -39832,21 +39832,6 @@
             },
             {
               "name": {
-                "en": "[Giftlist] Data de evento salva na UI não é a mesma que reflete no bd",
-                "es": "[Giftlist] La fecha del evento guardada en la UI no es la misma que se refleja en la bd",
-                "pt": "[Giftlist] Data de evento salva na UI não é a mesma que reflete no bd"
-              },
-              "slug": {
-                "en": "giftlist-data-de-evento-salva-na-ui-nao-e-a-mesma-que-reflete-no-bd",
-                "es": "giftlist-la-fecha-del-evento-guardada-en-la-ui-no-es-la-misma-que-se-refleja-en-la-bd",
-                "pt": "giftlist-data-de-evento-salva-na-ui-nao-e-a-mesma-que-reflete-no-bd"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "<vtex.cmc ProductGifts/> does not work before acessing checkout",
                 "es": "<vtex.cmc RegalosProducto/> no funciona antes de acceder a la caja",
                 "pt": "<vtex.cmc ProductGifts/> não funciona antes de acessar o checkout"
@@ -40104,12 +40089,12 @@
               "name": {
                 "en": "Buscacep not working in create GiftList form.",
                 "es": "Buscacep no funciona en la creación del formulario GiftList.",
-                "pt": "Buscacep não trabalha em forma de GiftList."
+                "pt": "O Buscacep não está funcionando no formulário de criação da Lista de Presentes."
               },
               "slug": {
                 "en": "buscacep-not-working-in-create-giftlist-form",
                 "es": "buscacep-no-funciona-en-la-creacion-del-formulario-giftlist",
-                "pt": "buscacep-nao-trabalha-em-forma-de-giftlist"
+                "pt": "o-buscacep-nao-esta-funcionando-no-formulario-de-criacao-da-lista-de-presentes"
               },
               "origin": "",
               "type": "markdown",
@@ -40245,6 +40230,21 @@
                 "en": "catalog-api-get-product-by-refid-returns-not-found-for-some-productsrefid",
                 "es": "catalogo-api-get-product-by-refid-devuelve-no-encontrado-para-algunos-productosrefid",
                 "pt": "catalog-a-api-get-product-by-refid-retorna-nao-encontrado-para-alguns-produtosrefid"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Catalog API Get SKU ID BY REF ID don't work if the RefId has special characters such as +",
+                "es": "La API del catálogo Obtener ID de SKU POR ID de referencia no funciona si el RefId tiene caracteres especiales como +",
+                "pt": "A API de catálogo que obtém o ID da SKU pelo ID de referência não funciona se o ID de referência contiver caracteres especiais, como o sinal de +."
+              },
+              "slug": {
+                "en": "catalog-api-get-sku-id-by-ref-id-dont-work-if-the-refid-has-special-characters-such-as",
+                "es": "la-api-del-catalogo-obtener-id-de-sku-por-id-de-referencia-no-funciona-si-el-refid-tiene-caracteres-especiales-como",
+                "pt": "a-api-de-catalogo-que-obtem-o-id-da-sku-pelo-id-de-referencia-nao-funciona-se-o-id-de-referencia-contiver-caracteres-especiais-como-o-sinal-de"
               },
               "origin": "",
               "type": "markdown",
@@ -41527,6 +41527,21 @@
             },
             {
               "name": {
+                "en": "Giftlist Data de evento salva na UI não é a mesma que reflete no bd",
+                "es": "Lista de regalos Los datos del evento salvado en la interfaz de usuario no son mensajes que se reflejen en la bd",
+                "pt": "[Giftlist] Data de evento salva na UI não é a mesma que reflete no bd"
+              },
+              "slug": {
+                "en": "giftlist-data-de-evento-salva-na-ui-nao-e-a-mesma-que-reflete-no-bd",
+                "es": "lista-de-regalos-los-datos-del-evento-salvado-en-la-interfaz-de-usuario-no-son-mensajes-que-se-reflejen-en-la-bd",
+                "pt": "giftlist-data-de-evento-salva-na-ui-nao-e-a-mesma-que-reflete-no-bd"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Global categories in catalog outdated compared to Google",
                 "es": "Las categorías generales del catálogo están desactualizadas en comparación con Google",
                 "pt": "Categorias globais no catálogo desatualizadas em comparação com o Google"
@@ -41655,6 +41670,21 @@
                 "en": "inconsistency-when-searching-for-facets-that-contains-results-with-large-specification-values",
                 "es": "incoherencia-al-buscar-facetas-que-contengan-resultados-con-valores-de-especificacion-elevados",
                 "pt": "inconsistencia-na-pesquisa-por-facetas-que-contem-resultados-com-valores-de-especificacao-elevados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Incorrect ID and department name when exporting products spreadsheet",
+                "es": "ID y nombre de departamento incorrectos al exportar planilla de productos",
+                "pt": "ID e nome de departamento incorretos ao exportar planilha de produtos"
+              },
+              "slug": {
+                "en": "incorrect-id-and-department-name-when-exporting-products-spreadsheet",
+                "es": "id-y-nombre-de-departamento-incorrectos-al-exportar-planilla-de-productos",
+                "pt": "id-e-nome-de-departamento-incorretos-ao-exportar-planilha-de-produtos"
               },
               "origin": "",
               "type": "markdown",
@@ -42488,12 +42518,12 @@
             {
               "name": {
                 "en": "Product Import Error with Unmodified file",
-                "es": "Error al importar un producto con un archivo sin modificar",
+                "es": "Error de importación del producto con archivo sin modificar",
                 "pt": "Erro na importação do produto com arquivo não modificado"
               },
               "slug": {
                 "en": "product-import-error-with-unmodified-file",
-                "es": "error-al-importar-un-producto-con-un-archivo-sin-modificar",
+                "es": "error-de-importacion-del-producto-con-archivo-sin-modificar",
                 "pt": "erro-na-importacao-do-produto-com-arquivo-nao-modificado"
               },
               "origin": "",
@@ -42878,13 +42908,13 @@
             {
               "name": {
                 "en": "Selection of sellers available in the commercial policy is not working properly",
-                "es": "La selección de sellers disponible en la política comercial no funciona correctamente",
-                "pt": "A seleção de sellers disponíveis na política comercial não está funcionando corretamente"
+                "es": "La selección de vendedores disponibles en la política comercial no funciona correctamente.",
+                "pt": "A seleção de vendedores disponível na política comercial não está funcionando corretamente."
               },
               "slug": {
                 "en": "selection-of-sellers-available-in-the-commercial-policy-is-not-working-properly",
-                "es": "la-seleccion-de-sellers-disponible-en-la-politica-comercial-no-funciona-correctamente",
-                "pt": "a-selecao-de-sellers-disponiveis-na-politica-comercial-nao-esta-funcionando-corretamente"
+                "es": "la-seleccion-de-vendedores-disponibles-en-la-politica-comercial-no-funciona-correctamente",
+                "pt": "a-selecao-de-vendedores-disponivel-na-politica-comercial-nao-esta-funcionando-corretamente"
               },
               "origin": "",
               "type": "markdown",
@@ -42968,13 +42998,13 @@
             {
               "name": {
                 "en": "Similar products UI brokes with too many products",
-                "es": "La interfaz de usuario de los productos similares deja de funcionar cuando hay demasiados productos",
-                "pt": "A interface do usuário de produtos semelhantes fica desorganizada quando há muitos produtos"
+                "es": "La interfaz de usuario de productos similares falla con demasiados productos.",
+                "pt": "Produtos similares: a interface do usuário apresentou problemas com muitos produtos."
               },
               "slug": {
                 "en": "similar-products-ui-brokes-with-too-many-products",
-                "es": "la-interfaz-de-usuario-de-los-productos-similares-deja-de-funcionar-cuando-hay-demasiados-productos",
-                "pt": "a-interface-do-usuario-de-produtos-semelhantes-fica-desorganizada-quando-ha-muitos-produtos"
+                "es": "la-interfaz-de-usuario-de-productos-similares-falla-con-demasiados-productos",
+                "pt": "produtos-similares-a-interface-do-usuario-apresentou-problemas-com-muitos-produtos"
               },
               "origin": "",
               "type": "markdown",
@@ -43538,13 +43568,13 @@
             {
               "name": {
                 "en": "Unexpected reload happening when registering/updating a product",
-                "es": "Se produce una recarga inesperada al registrar o actualizar un producto",
-                "pt": "Ocorre uma atualização inesperada ao registrar/atualizar um produto"
+                "es": "Se produce una recarga inesperada al registrar/actualizar un producto.",
+                "pt": "Recarregamento inesperado ocorrendo ao registrar/atualizar um produto."
               },
               "slug": {
                 "en": "unexpected-reload-happening-when-registeringupdating-a-product",
-                "es": "se-produce-una-recarga-inesperada-al-registrar-o-actualizar-un-producto",
-                "pt": "ocorre-uma-atualizacao-inesperada-ao-registraratualizar-um-produto"
+                "es": "se-produce-una-recarga-inesperada-al-registraractualizar-un-producto",
+                "pt": "recarregamento-inesperado-ocorrendo-ao-registraratualizar-um-produto"
               },
               "origin": "",
               "type": "markdown",
@@ -49528,13 +49558,13 @@
             {
               "name": {
                 "en": "Amazon Order Status is not revised when reprocessing order on bridge",
-                "es": "El estado del pedido de Amazon no se revisa al reprocesar el pedido en el puente",
-                "pt": "O status do pedido da Amazon não é revisado ao reprocessar o pedido na ponte"
+                "es": "El estado del pedido de Amazon no se actualiza al reprocesar el pedido en Bridge.",
+                "pt": "O status do pedido da Amazon não é atualizado ao reprocessar o pedido na plataforma."
               },
               "slug": {
                 "en": "amazon-order-status-is-not-revised-when-reprocessing-order-on-bridge",
-                "es": "el-estado-del-pedido-de-amazon-no-se-revisa-al-reprocesar-el-pedido-en-el-puente",
-                "pt": "o-status-do-pedido-da-amazon-nao-e-revisado-ao-reprocessar-o-pedido-na-ponte"
+                "es": "el-estado-del-pedido-de-amazon-no-se-actualiza-al-reprocesar-el-pedido-en-bridge",
+                "pt": "o-status-do-pedido-da-amazon-nao-e-atualizado-ao-reprocessar-o-pedido-na-plataforma"
               },
               "origin": "",
               "type": "markdown",
@@ -49723,13 +49753,13 @@
             {
               "name": {
                 "en": "Dafiti Image URLs converted to WebP cause rejection by markeplace (image type unsupported)",
-                "es": "Dafiti Las URL de imágenes convertidas a WebP provocan el rechazo por parte del mercado (tipo de imagen no compatible).",
-                "pt": "Dafiti URLs de imagens convertidas para WebP são rejeitadas pelo marketplace (tipo de imagem não suportado)"
+                "es": "Dafiti Las URL de imágenes convertidas a WebP provocan el rechazo del mercado (tipo de imagen no compatible).",
+                "pt": "Dafiti URLs de imagens convertidas para WebP causam rejeição pelo marketplace (tipo de imagem não suportado)"
               },
               "slug": {
                 "en": "dafiti-image-urls-converted-to-webp-cause-rejection-by-markeplace-image-type-unsupported",
-                "es": "dafiti-las-url-de-imagenes-convertidas-a-webp-provocan-el-rechazo-por-parte-del-mercado-tipo-de-imagen-no-compatible",
-                "pt": "dafiti-urls-de-imagens-convertidas-para-webp-sao-rejeitadas-pelo-marketplace-tipo-de-imagem-nao-suportado"
+                "es": "dafiti-las-url-de-imagenes-convertidas-a-webp-provocan-el-rechazo-del-mercado-tipo-de-imagen-no-compatible",
+                "pt": "dafiti-urls-de-imagens-convertidas-para-webp-causam-rejeicao-pelo-marketplace-tipo-de-imagem-nao-suportado"
               },
               "origin": "",
               "type": "markdown",
@@ -50008,13 +50038,13 @@
             {
               "name": {
                 "en": "Magazine Luiza Order canceled on marketplace didn't update status on VTEX",
-                "es": "Magazine Luiza El estado de un pedido cancelado en el marketplace no se ha actualizado en VTEX",
-                "pt": "Magazine Luiza O pedido cancelado no marketplace não atualizou o status no VTEX"
+                "es": "Magazine Luiza El pedido cancelado en el mercado no se actualizó en VTEX.",
+                "pt": "Magazine Luiza Pedido cancelado no marketplace, mas o status não foi atualizado no VTEX"
               },
               "slug": {
                 "en": "magazine-luiza-order-canceled-on-marketplace-didnt-update-status-on-vtex",
-                "es": "magazine-luiza-el-estado-de-un-pedido-cancelado-en-el-marketplace-no-se-ha-actualizado-en-vtex",
-                "pt": "magazine-luiza-o-pedido-cancelado-no-marketplace-nao-atualizou-o-status-no-vtex"
+                "es": "magazine-luiza-el-pedido-cancelado-en-el-mercado-no-se-actualizo-en-vtex",
+                "pt": "magazine-luiza-pedido-cancelado-no-marketplace-mas-o-status-nao-foi-atualizado-no-vtex"
               },
               "origin": "",
               "type": "markdown",
@@ -55234,21 +55264,6 @@
             },
             {
               "name": {
-                "en": "Incorrect ID and department name when exporting products spreadsheet",
-                "es": "ID y nombre de departamento incorrectos al exportar planilla de productos",
-                "pt": "ID e nome de departamento incorretos ao exportar planilha de produtos"
-              },
-              "slug": {
-                "en": "incorrect-id-and-department-name-when-exporting-products-spreadsheet",
-                "es": "id-y-nombre-de-departamento-incorrectos-al-exportar-planilla-de-productos",
-                "pt": "id-e-nome-de-departamento-incorretos-ao-exportar-planilha-de-produtos"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "It's not possible to create XML feed in HTTPS",
                 "es": "No se puede crear feed XML en HTTPS",
                 "pt": "Não é possível criar feed XML em HTTPS"
@@ -56406,13 +56421,13 @@
             {
               "name": {
                 "en": "Category mapping spreadsheet does not include offers in WaitingReview",
-                "es": "La hoja de cálculo de asignación de categorías no incluye las ofertas en «En espera de revisión»",
-                "pt": "A planilha de mapeamento de categorias não inclui ofertas em \"Aguardando revisão\""
+                "es": "La hoja de cálculo de asignación de categorías no incluye ofertas en WaitingReview.",
+                "pt": "A planilha de mapeamento de categorias não inclui ofertas em WaitingReview."
               },
               "slug": {
                 "en": "category-mapping-spreadsheet-does-not-include-offers-in-waitingreview",
-                "es": "la-hoja-de-calculo-de-asignacion-de-categorias-no-incluye-las-ofertas-en-en-espera-de-revision",
-                "pt": "a-planilha-de-mapeamento-de-categorias-nao-inclui-ofertas-em-aguardando-revisao"
+                "es": "la-hoja-de-calculo-de-asignacion-de-categorias-no-incluye-ofertas-en-waitingreview",
+                "pt": "a-planilha-de-mapeamento-de-categorias-nao-inclui-ofertas-em-waitingreview"
               },
               "origin": "",
               "type": "markdown",
@@ -56676,13 +56691,13 @@
             {
               "name": {
                 "en": "Search filter not working outside the first page in received SKU section",
-                "es": "El filtro de búsqueda no funciona más allá de la primera página en la sección de SKU recibidos",
-                "pt": "O filtro de pesquisa não funciona fora da primeira página na seção de SKUs recebidos"
+                "es": "El filtro de búsqueda no funciona fuera de la primera página en la sección de SKU recibidos.",
+                "pt": "O filtro de pesquisa não está funcionando fora da primeira página na seção de SKUs recebidos."
               },
               "slug": {
                 "en": "search-filter-not-working-outside-the-first-page-in-received-sku-section",
-                "es": "el-filtro-de-busqueda-no-funciona-mas-alla-de-la-primera-pagina-en-la-seccion-de-sku-recibidos",
-                "pt": "o-filtro-de-pesquisa-nao-funciona-fora-da-primeira-pagina-na-secao-de-skus-recebidos"
+                "es": "el-filtro-de-busqueda-no-funciona-fuera-de-la-primera-pagina-en-la-seccion-de-sku-recibidos",
+                "pt": "o-filtro-de-pesquisa-nao-esta-funcionando-fora-da-primeira-pagina-na-secao-de-skus-recebidos"
               },
               "origin": "",
               "type": "markdown",
@@ -56721,12 +56736,12 @@
             {
               "name": {
                 "en": "Seller invite Route not found after account creation",
-                "es": "Vendedor invitar Ruta no se encuentra después de la creación de la cuenta",
+                "es": "Invitación del vendedor Ruta no encontrada después de la creación de la cuenta",
                 "pt": "Convite do vendedor Rota não encontrada após a criação da conta"
               },
               "slug": {
                 "en": "seller-invite-route-not-found-after-account-creation",
-                "es": "vendedor-invitar-ruta-no-se-encuentra-despues-de-la-creacion-de-la-cuenta",
+                "es": "invitacion-del-vendedor-ruta-no-encontrada-despues-de-la-creacion-de-la-cuenta",
                 "pt": "convite-do-vendedor-rota-nao-encontrada-apos-a-criacao-da-conta"
               },
               "origin": "",
@@ -62741,6 +62756,21 @@
             },
             {
               "name": {
+                "en": "Transaction additional-data call fails with \"profile Id cannot be null\" on accounts with e-mail rectification enabled",
+                "es": "La llamada a datos adicionales de la transacción falla con el error \"el ID de perfil no puede ser nulo\" en cuentas con rectificación de correo electrónico habilitada.",
+                "pt": "A chamada de dados adicionais da transação falha com a mensagem \"o ID do perfil não pode ser nulo\" em contas com a retificação de e-mail ativada."
+              },
+              "slug": {
+                "en": "transaction-additionaldata-call-fails-with-profile-id-cannot-be-null-on-accounts-with-email-rectification-enabled",
+                "es": "la-llamada-a-datos-adicionales-de-la-transaccion-falla-con-el-error-el-id-de-perfil-no-puede-ser-nulo-en-cuentas-con-rectificacion-de-correo-electronico-habilitada",
+                "pt": "a-chamada-de-dados-adicionais-da-transacao-falha-com-a-mensagem-o-id-do-perfil-nao-pode-ser-nulo-em-contas-com-a-retificacao-de-email-ativada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transaction canceled by timeout: 'Timeout no request para o Sistema de Parcelamento'",
                 "es": "Transacción cancelada por tiempo de espera: 'Timeout no request para o Sistema de Parcelamento'",
                 "pt": "Transação cancelada por tempo limite: 'Timeout sem pedido para o Sistema de Parcelamento'."
@@ -65732,13 +65762,13 @@
             {
               "name": {
                 "en": "Inconsistent gift calculation when mixing eligible SKUs in Buy One Get One promotion",
-                "es": "Cálculo incorrecto del regalo al combinar referencias elegibles en la promoción «Compra uno y llévate otro gratis»",
-                "pt": "Cálculo incorreto do brinde ao combinar SKUs elegíveis na promoção “Compre um, ganhe outro”"
+                "es": "Cálculo inconsistente del regalo al combinar SKU elegibles en la promoción Compre uno y llévese otro gratis.",
+                "pt": "Cálculo inconsistente de brindes ao misturar SKUs elegíveis na promoção Compre Um e Leve Outro."
               },
               "slug": {
                 "en": "inconsistent-gift-calculation-when-mixing-eligible-skus-in-buy-one-get-one-promotion",
-                "es": "calculo-incorrecto-del-regalo-al-combinar-referencias-elegibles-en-la-promocion-compra-uno-y-llevate-otro-gratis",
-                "pt": "calculo-incorreto-do-brinde-ao-combinar-skus-elegiveis-na-promocao-compre-um-ganhe-outro"
+                "es": "calculo-inconsistente-del-regalo-al-combinar-sku-elegibles-en-la-promocion-compre-uno-y-llevese-otro-gratis",
+                "pt": "calculo-inconsistente-de-brindes-ao-misturar-skus-elegiveis-na-promocao-compre-um-e-leve-outro"
               },
               "origin": "",
               "type": "markdown",
@@ -66422,13 +66452,13 @@
             {
               "name": {
                 "en": "Subscription promotions with defined periodicity may not apply to recurring orders",
-                "es": "Es posible que las promociones de suscripción con una periodicidad definida no se apliquen a los pedidos recurrentes",
-                "pt": "As promoções de assinatura com periodicidade definida podem não se aplicar a pedidos recorrentes"
+                "es": "Las promociones de suscripción con periodicidad definida pueden no aplicarse a los pedidos recurrentes.",
+                "pt": "Promoções de assinatura com periodicidade definida podem não se aplicar a pedidos recorrentes."
               },
               "slug": {
                 "en": "subscription-promotions-with-defined-periodicity-may-not-apply-to-recurring-orders",
-                "es": "es-posible-que-las-promociones-de-suscripcion-con-una-periodicidad-definida-no-se-apliquen-a-los-pedidos-recurrentes",
-                "pt": "as-promocoes-de-assinatura-com-periodicidade-definida-podem-nao-se-aplicar-a-pedidos-recorrentes"
+                "es": "las-promociones-de-suscripcion-con-periodicidad-definida-pueden-no-aplicarse-a-los-pedidos-recurrentes",
+                "pt": "promocoes-de-assinatura-com-periodicidade-definida-podem-nao-se-aplicar-a-pedidos-recorrentes"
               },
               "origin": "",
               "type": "markdown",
@@ -69474,14 +69504,14 @@
             },
             {
               "name": {
-                "en": "CentauroKI Mapper filer have 1MB file size limit on API uploads",
-                "es": "CentauroKI El servidor de archivos Mapper tiene un límite de tamaño de archivo de 1 MB para las cargas de API.",
-                "pt": "CentauroKI O mapeador de arquivos tem um limite de tamanho de arquivo de 1 MB para uploads via API."
+                "en": "Centauro Mapper file have 1MB file size limit on API uploads",
+                "es": "Centauro Los archivos del mapeador tienen un límite de tamaño de 1 MB para las cargas a través de la API.",
+                "pt": "Centauro O arquivo de mapeamento tem um limite de tamanho de 1 MB para uploads via API."
               },
               "slug": {
-                "en": "centauroki-mapper-filer-have-1mb-file-size-limit-on-api-uploads",
-                "es": "centauroki-el-servidor-de-archivos-mapper-tiene-un-limite-de-tamano-de-archivo-de-1-mb-para-las-cargas-de-api",
-                "pt": "centauroki-o-mapeador-de-arquivos-tem-um-limite-de-tamanho-de-arquivo-de-1-mb-para-uploads-via-api"
+                "en": "centauro-mapper-file-have-1mb-file-size-limit-on-api-uploads",
+                "es": "centauro-los-archivos-del-mapeador-tienen-un-limite-de-tamano-de-1-mb-para-las-cargas-a-traves-de-la-api",
+                "pt": "centauro-o-arquivo-de-mapeamento-tem-um-limite-de-tamanho-de-1-mb-para-uploads-via-api"
               },
               "origin": "",
               "type": "markdown",
@@ -69542,6 +69572,21 @@
                 "en": "magazine-luiza-main-image-not-respected",
                 "es": "magazine-luiza-imagen-principal-no-respetada",
                 "pt": "magazine-luiza-imagem-principal-nao-respeitada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Magazine Luiza Integration not support multiple packages",
+                "es": "Magazine Luiza La integración no admite múltiples paquetes",
+                "pt": "Magazine Luiza A integração não suporta vários pacotes"
+              },
+              "slug": {
+                "en": "magazine-luiza-integration-not-support-multiple-packages",
+                "es": "magazine-luiza-la-integracion-no-admite-multiples-paquetes",
+                "pt": "magazine-luiza-a-integracao-nao-suporta-varios-pacotes"
               },
               "origin": "",
               "type": "markdown",
