@@ -66167,13 +66167,13 @@
             {
               "name": {
                 "en": "Promotion applies to all SLAs instead of only selected shipping method",
-                "es": "La promoción se aplica a todos los ANS en lugar de sólo al método de envío seleccionado",
-                "pt": "A promoção se aplica a todos os SLAs em vez de apenas ao método de envio selecionado"
+                "es": "La promoción se aplica a todos los SLA en lugar de solo a un método de envío seleccionado.",
+                "pt": "A promoção se aplica a todos os SLAs, e não apenas ao método de envio selecionado."
               },
               "slug": {
                 "en": "promotion-applies-to-all-slas-instead-of-only-selected-shipping-method",
-                "es": "la-promocion-se-aplica-a-todos-los-ans-en-lugar-de-solo-al-metodo-de-envio-seleccionado",
-                "pt": "a-promocao-se-aplica-a-todos-os-slas-em-vez-de-apenas-ao-metodo-de-envio-selecionado"
+                "es": "la-promocion-se-aplica-a-todos-los-sla-en-lugar-de-solo-a-un-metodo-de-envio-seleccionado",
+                "pt": "a-promocao-se-aplica-a-todos-os-slas-e-nao-apenas-ao-metodo-de-envio-selecionado"
               },
               "origin": "",
               "type": "markdown",
