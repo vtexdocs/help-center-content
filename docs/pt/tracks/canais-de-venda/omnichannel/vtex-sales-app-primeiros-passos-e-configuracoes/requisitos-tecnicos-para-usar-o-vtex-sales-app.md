@@ -21,7 +21,7 @@ A loja precisa dispor de um dispositivo para utilizar o **Sales App**, seja ele 
 
 > ⚠️ Recomendamos reservar um espaço seguro na sua loja para armazenar o seu equipamento.
 
-### Tablets, smartphones e totem touchscreen
+### Tablets, smartphones e totens touchscreen
 
 Preferencialmente, o dispositivo deve estar atualizado com a versão mais recente do sistema operacional e, no mínimo, precisa ser compatível com:
 
