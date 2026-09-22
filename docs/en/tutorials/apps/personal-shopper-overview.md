@@ -4,7 +4,6 @@ id: 12dC0UMD0C6x6kw43LF8MH
 status: ARCHIVED
 createdAt: 2024-11-19T15:03:14.481Z
 updatedAt: 2026-09-22T00:00:00.000Z
-publishedAt:
 firstPublishedAt: 2024-11-21T16:43:30.533Z
 contentType: tutorial
 productTeam: Shopping
