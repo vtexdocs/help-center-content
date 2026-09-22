@@ -39895,21 +39895,6 @@
             },
             {
               "name": {
-                "en": "[Giftlist] Data de evento salva na UI não é a mesma que reflete no bd",
-                "es": "[Giftlist] La fecha del evento guardada en la UI no es la misma que se refleja en la bd",
-                "pt": "[Giftlist] Data de evento salva na UI não é a mesma que reflete no bd"
-              },
-              "slug": {
-                "en": "giftlist-data-de-evento-salva-na-ui-nao-e-a-mesma-que-reflete-no-bd",
-                "es": "giftlist-la-fecha-del-evento-guardada-en-la-ui-no-es-la-misma-que-se-refleja-en-la-bd",
-                "pt": "giftlist-data-de-evento-salva-na-ui-nao-e-a-mesma-que-reflete-no-bd"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "<vtex.cmc ProductGifts/> does not work before acessing checkout",
                 "es": "<vtex.cmc RegalosProducto/> no funciona antes de acceder a la caja",
                 "pt": "<vtex.cmc ProductGifts/> não funciona antes de acessar o checkout"
@@ -40167,12 +40152,12 @@
               "name": {
                 "en": "Buscacep not working in create GiftList form.",
                 "es": "Buscacep no funciona en la creación del formulario GiftList.",
-                "pt": "Buscacep não trabalha em forma de GiftList."
+                "pt": "O Buscacep não está funcionando no formulário de criação da Lista de Presentes."
               },
               "slug": {
                 "en": "buscacep-not-working-in-create-giftlist-form",
                 "es": "buscacep-no-funciona-en-la-creacion-del-formulario-giftlist",
-                "pt": "buscacep-nao-trabalha-em-forma-de-giftlist"
+                "pt": "o-buscacep-nao-esta-funcionando-no-formulario-de-criacao-da-lista-de-presentes"
               },
               "origin": "",
               "type": "markdown",
@@ -40308,6 +40293,21 @@
                 "en": "catalog-api-get-product-by-refid-returns-not-found-for-some-productsrefid",
                 "es": "catalogo-api-get-product-by-refid-devuelve-no-encontrado-para-algunos-productosrefid",
                 "pt": "catalog-a-api-get-product-by-refid-retorna-nao-encontrado-para-alguns-produtosrefid"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Catalog API Get SKU ID BY REF ID don't work if the RefId has special characters such as +",
+                "es": "La API del catálogo Obtener ID de SKU POR ID de referencia no funciona si el RefId tiene caracteres especiales como +",
+                "pt": "A API de catálogo que obtém o ID da SKU pelo ID de referência não funciona se o ID de referência contiver caracteres especiais, como o sinal de +."
+              },
+              "slug": {
+                "en": "catalog-api-get-sku-id-by-ref-id-dont-work-if-the-refid-has-special-characters-such-as",
+                "es": "la-api-del-catalogo-obtener-id-de-sku-por-id-de-referencia-no-funciona-si-el-refid-tiene-caracteres-especiales-como",
+                "pt": "a-api-de-catalogo-que-obtem-o-id-da-sku-pelo-id-de-referencia-nao-funciona-se-o-id-de-referencia-contiver-caracteres-especiais-como-o-sinal-de"
               },
               "origin": "",
               "type": "markdown",
@@ -41590,6 +41590,21 @@
             },
             {
               "name": {
+                "en": "Giftlist Data de evento salva na UI não é a mesma que reflete no bd",
+                "es": "Lista de regalos Los datos del evento salvado en la interfaz de usuario no son mensajes que se reflejen en la bd",
+                "pt": "[Giftlist] Data de evento salva na UI não é a mesma que reflete no bd"
+              },
+              "slug": {
+                "en": "giftlist-data-de-evento-salva-na-ui-nao-e-a-mesma-que-reflete-no-bd",
+                "es": "lista-de-regalos-los-datos-del-evento-salvado-en-la-interfaz-de-usuario-no-son-mensajes-que-se-reflejen-en-la-bd",
+                "pt": "giftlist-data-de-evento-salva-na-ui-nao-e-a-mesma-que-reflete-no-bd"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Global categories in catalog outdated compared to Google",
                 "es": "Las categorías generales del catálogo están desactualizadas en comparación con Google",
                 "pt": "Categorias globais no catálogo desatualizadas em comparação com o Google"
@@ -41718,6 +41733,21 @@
                 "en": "inconsistency-when-searching-for-facets-that-contains-results-with-large-specification-values",
                 "es": "incoherencia-al-buscar-facetas-que-contengan-resultados-con-valores-de-especificacion-elevados",
                 "pt": "inconsistencia-na-pesquisa-por-facetas-que-contem-resultados-com-valores-de-especificacao-elevados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Incorrect ID and department name when exporting products spreadsheet",
+                "es": "ID y nombre de departamento incorrectos al exportar planilla de productos",
+                "pt": "ID e nome de departamento incorretos ao exportar planilha de produtos"
+              },
+              "slug": {
+                "en": "incorrect-id-and-department-name-when-exporting-products-spreadsheet",
+                "es": "id-y-nombre-de-departamento-incorrectos-al-exportar-planilla-de-productos",
+                "pt": "id-e-nome-de-departamento-incorretos-ao-exportar-planilha-de-produtos"
               },
               "origin": "",
               "type": "markdown",
@@ -42460,6 +42490,21 @@
             },
             {
               "name": {
+                "en": "Product and SKU import fails for large size of spreadsheet file",
+                "es": "La importación de productos y SKU falla cuando el archivo de hoja de cálculo es de gran tamaño.",
+                "pt": "A importação de produtos e SKUs falha devido ao tamanho grande da planilha."
+              },
+              "slug": {
+                "en": "product-and-sku-import-fails-for-large-size-of-spreadsheet-file",
+                "es": "la-importacion-de-productos-y-sku-falla-cuando-el-archivo-de-hoja-de-calculo-es-de-gran-tamano",
+                "pt": "a-importacao-de-produtos-e-skus-falha-devido-ao-tamanho-grande-da-planilha"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product availability display delayed when using multiple sales channels",
                 "es": "La visualización de la disponibilidad del producto se retrasa cuando se utilizan varios canales de venta",
                 "pt": "Exibição da disponibilidade do produto atrasada ao usar vários canais de vendas"
@@ -42536,12 +42581,12 @@
             {
               "name": {
                 "en": "Product Import Error with Unmodified file",
-                "es": "Error al importar un producto con un archivo sin modificar",
+                "es": "Error de importación del producto con archivo sin modificar",
                 "pt": "Erro na importação do produto com arquivo não modificado"
               },
               "slug": {
                 "en": "product-import-error-with-unmodified-file",
-                "es": "error-al-importar-un-producto-con-un-archivo-sin-modificar",
+                "es": "error-de-importacion-del-producto-con-archivo-sin-modificar",
                 "pt": "erro-na-importacao-do-produto-com-arquivo-nao-modificado"
               },
               "origin": "",
@@ -42926,13 +42971,13 @@
             {
               "name": {
                 "en": "Selection of sellers available in the commercial policy is not working properly",
-                "es": "La selección de sellers disponible en la política comercial no funciona correctamente",
-                "pt": "A seleção de sellers disponíveis na política comercial não está funcionando corretamente"
+                "es": "La selección de vendedores disponibles en la política comercial no funciona correctamente.",
+                "pt": "A seleção de vendedores disponível na política comercial não está funcionando corretamente."
               },
               "slug": {
                 "en": "selection-of-sellers-available-in-the-commercial-policy-is-not-working-properly",
-                "es": "la-seleccion-de-sellers-disponible-en-la-politica-comercial-no-funciona-correctamente",
-                "pt": "a-selecao-de-sellers-disponiveis-na-politica-comercial-nao-esta-funcionando-corretamente"
+                "es": "la-seleccion-de-vendedores-disponibles-en-la-politica-comercial-no-funciona-correctamente",
+                "pt": "a-selecao-de-vendedores-disponivel-na-politica-comercial-nao-esta-funcionando-corretamente"
               },
               "origin": "",
               "type": "markdown",
@@ -43016,13 +43061,13 @@
             {
               "name": {
                 "en": "Similar products UI brokes with too many products",
-                "es": "La interfaz de usuario de los productos similares deja de funcionar cuando hay demasiados productos",
-                "pt": "A interface do usuário de produtos semelhantes fica desorganizada quando há muitos produtos"
+                "es": "La interfaz de usuario de productos similares falla con demasiados productos.",
+                "pt": "Produtos similares: a interface do usuário apresentou problemas com muitos produtos."
               },
               "slug": {
                 "en": "similar-products-ui-brokes-with-too-many-products",
-                "es": "la-interfaz-de-usuario-de-los-productos-similares-deja-de-funcionar-cuando-hay-demasiados-productos",
-                "pt": "a-interface-do-usuario-de-produtos-semelhantes-fica-desorganizada-quando-ha-muitos-produtos"
+                "es": "la-interfaz-de-usuario-de-productos-similares-falla-con-demasiados-productos",
+                "pt": "produtos-similares-a-interface-do-usuario-apresentou-problemas-com-muitos-produtos"
               },
               "origin": "",
               "type": "markdown",
@@ -43586,13 +43631,13 @@
             {
               "name": {
                 "en": "Unexpected reload happening when registering/updating a product",
-                "es": "Se produce una recarga inesperada al registrar o actualizar un producto",
-                "pt": "Ocorre uma atualização inesperada ao registrar/atualizar um produto"
+                "es": "Se produce una recarga inesperada al registrar/actualizar un producto.",
+                "pt": "Recarregamento inesperado ocorrendo ao registrar/atualizar um produto."
               },
               "slug": {
                 "en": "unexpected-reload-happening-when-registeringupdating-a-product",
-                "es": "se-produce-una-recarga-inesperada-al-registrar-o-actualizar-un-producto",
-                "pt": "ocorre-uma-atualizacao-inesperada-ao-registraratualizar-um-produto"
+                "es": "se-produce-una-recarga-inesperada-al-registraractualizar-un-producto",
+                "pt": "recarregamento-inesperado-ocorrendo-ao-registraratualizar-um-produto"
               },
               "origin": "",
               "type": "markdown",
@@ -45147,6 +45192,21 @@
             },
             {
               "name": {
+                "en": "Checkout UI fails to update orderForm when a cart has packages that share the same delivery window",
+                "es": "La interfaz de pago no actualiza el formulario de pedido cuando un carrito contiene paquetes que comparten el mismo plazo de entrega.",
+                "pt": "A interface de finalização da compra não atualiza o formulário de pedido quando um carrinho contém pacotes que compartilham a mesma janela de entrega."
+              },
+              "slug": {
+                "en": "checkout-ui-fails-to-update-orderform-when-a-cart-has-packages-that-share-the-same-delivery-window",
+                "es": "la-interfaz-de-pago-no-actualiza-el-formulario-de-pedido-cuando-un-carrito-contiene-paquetes-que-comparten-el-mismo-plazo-de-entrega",
+                "pt": "a-interface-de-finalizacao-da-compra-nao-atualiza-o-formulario-de-pedido-quando-um-carrinho-contem-pacotes-que-compartilham-a-mesma-janela-de-entrega"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Checkout UI goes to Payment with an incomplete invoice address for shoppers with complete profile",
                 "es": "La interfaz de pago pasa a la fase de pago aunque la dirección de facturación esté incompleta en el caso de los compradores cuyo perfil esté completo",
                 "pt": "A interface do checkout avança para a página de pagamento com um endereço de faturamento incompleto para compradores com perfil completo"
@@ -46422,21 +46482,6 @@
             },
             {
               "name": {
-                "en": "Order cannot be created when seller has a different Country Code",
-                "es": "No se puede crear un pedido si el vendedor tiene un código de país diferente.",
-                "pt": "Não é possível criar um pedido quando o vendedor possui um código de país diferente."
-              },
-              "slug": {
-                "en": "order-cannot-be-created-when-seller-has-a-different-country-code",
-                "es": "no-se-puede-crear-un-pedido-si-el-vendedor-tiene-un-codigo-de-pais-diferente",
-                "pt": "nao-e-possivel-criar-um-pedido-quando-o-vendedor-possui-um-codigo-de-pais-diferente"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Order creation failed due to price divergence on fulfillment layer",
                 "es": "La creación de la orden falló debido a la divergencia de precios en la capa de cumplimiento",
                 "pt": "A criação de pedidos falhou devido à divergência de preços na camada de cumprimento"
@@ -47360,21 +47405,6 @@
                 "en": "security-code-persistence-in-ui-form-when-changing-from-a-saved-card-to-a-new-card",
                 "es": "el-codigo-de-seguridad-permanece-en-el-formulario-de-la-interfaz-de-usuario-al-cambiar-de-una-tarjeta-guardada-a-una-nueva",
                 "pt": "persistencia-do-codigo-de-seguranca-no-formulario-da-interface-do-usuario-ao-mudar-de-um-cartao-salvo-para-um-novo-cartao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Seller selection algorithm doesn't consider the real availability of the item to choose the best option",
-                "es": "El algoritmo de selección del vendedor no tiene en cuenta la disponibilidad real del artículo para elegir la mejor opción",
-                "pt": "O algoritmo de seleção do vendedor não considera a disponibilidade real do item para escolher a melhor opção"
-              },
-              "slug": {
-                "en": "seller-selection-algorithm-doesnt-consider-the-real-availability-of-the-item-to-choose-the-best-option",
-                "es": "el-algoritmo-de-seleccion-del-vendedor-no-tiene-en-cuenta-la-disponibilidad-real-del-articulo-para-elegir-la-mejor-opcion",
-                "pt": "o-algoritmo-de-selecao-do-vendedor-nao-considera-a-disponibilidade-real-do-item-para-escolher-a-melhor-opcao"
               },
               "origin": "",
               "type": "markdown",
@@ -49591,13 +49621,13 @@
             {
               "name": {
                 "en": "Amazon Order Status is not revised when reprocessing order on bridge",
-                "es": "El estado del pedido de Amazon no se revisa al reprocesar el pedido en el puente",
-                "pt": "O status do pedido da Amazon não é revisado ao reprocessar o pedido na ponte"
+                "es": "El estado del pedido de Amazon no se actualiza al reprocesar el pedido en Bridge.",
+                "pt": "O status do pedido da Amazon não é atualizado ao reprocessar o pedido na plataforma."
               },
               "slug": {
                 "en": "amazon-order-status-is-not-revised-when-reprocessing-order-on-bridge",
-                "es": "el-estado-del-pedido-de-amazon-no-se-revisa-al-reprocesar-el-pedido-en-el-puente",
-                "pt": "o-status-do-pedido-da-amazon-nao-e-revisado-ao-reprocessar-o-pedido-na-ponte"
+                "es": "el-estado-del-pedido-de-amazon-no-se-actualiza-al-reprocesar-el-pedido-en-bridge",
+                "pt": "o-status-do-pedido-da-amazon-nao-e-atualizado-ao-reprocessar-o-pedido-na-plataforma"
               },
               "origin": "",
               "type": "markdown",
@@ -49786,13 +49816,13 @@
             {
               "name": {
                 "en": "Dafiti Image URLs converted to WebP cause rejection by markeplace (image type unsupported)",
-                "es": "Dafiti Las URL de imágenes convertidas a WebP provocan el rechazo por parte del mercado (tipo de imagen no compatible).",
-                "pt": "Dafiti URLs de imagens convertidas para WebP são rejeitadas pelo marketplace (tipo de imagem não suportado)"
+                "es": "Dafiti Las URL de imágenes convertidas a WebP provocan el rechazo del mercado (tipo de imagen no compatible).",
+                "pt": "Dafiti URLs de imagens convertidas para WebP causam rejeição pelo marketplace (tipo de imagem não suportado)"
               },
               "slug": {
                 "en": "dafiti-image-urls-converted-to-webp-cause-rejection-by-markeplace-image-type-unsupported",
-                "es": "dafiti-las-url-de-imagenes-convertidas-a-webp-provocan-el-rechazo-por-parte-del-mercado-tipo-de-imagen-no-compatible",
-                "pt": "dafiti-urls-de-imagens-convertidas-para-webp-sao-rejeitadas-pelo-marketplace-tipo-de-imagem-nao-suportado"
+                "es": "dafiti-las-url-de-imagenes-convertidas-a-webp-provocan-el-rechazo-del-mercado-tipo-de-imagen-no-compatible",
+                "pt": "dafiti-urls-de-imagens-convertidas-para-webp-causam-rejeicao-pelo-marketplace-tipo-de-imagem-nao-suportado"
               },
               "origin": "",
               "type": "markdown",
@@ -49980,21 +50010,6 @@
             },
             {
               "name": {
-                "en": "FBE PLP/PDP images intermittently fail to load when Meta Facebook Business Extension (FBE) is enabled",
-                "es": "FBE Las imágenes PLP/PDP a veces no se cargan cuando está activada la extensión Meta Facebook Business (FBE)",
-                "pt": "FBE As imagens do PLP/PDP não carregam ocasionalmente quando a Meta Facebook Business Extension (FBE) está ativada"
-              },
-              "slug": {
-                "en": "fbe-plppdp-images-intermittently-fail-to-load-when-meta-facebook-business-extension-fbe-is-enabled",
-                "es": "fbe-las-imagenes-plppdp-a-veces-no-se-cargan-cuando-esta-activada-la-extension-meta-facebook-business-fbe",
-                "pt": "fbe-as-imagens-do-plppdp-nao-carregam-ocasionalmente-quando-a-meta-facebook-business-extension-fbe-esta-ativada"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "find-marketplaces ERROR 5XX Sorry, something went wrong on our side",
                 "es": "find-marketplaces ERROR 5XX Lo sentimos, algo ha ido mal por nuestra parte.",
                 "pt": "find-marketplaces ERRO 5XX Desculpe, algo deu errado do nosso lado"
@@ -50086,13 +50101,13 @@
             {
               "name": {
                 "en": "Magazine Luiza Order canceled on marketplace didn't update status on VTEX",
-                "es": "Magazine Luiza El estado de un pedido cancelado en el marketplace no se ha actualizado en VTEX",
-                "pt": "Magazine Luiza O pedido cancelado no marketplace não atualizou o status no VTEX"
+                "es": "Magazine Luiza El pedido cancelado en el mercado no se actualizó en VTEX.",
+                "pt": "Magazine Luiza Pedido cancelado no marketplace, mas o status não foi atualizado no VTEX"
               },
               "slug": {
                 "en": "magazine-luiza-order-canceled-on-marketplace-didnt-update-status-on-vtex",
-                "es": "magazine-luiza-el-estado-de-un-pedido-cancelado-en-el-marketplace-no-se-ha-actualizado-en-vtex",
-                "pt": "magazine-luiza-o-pedido-cancelado-no-marketplace-nao-atualizou-o-status-no-vtex"
+                "es": "magazine-luiza-el-pedido-cancelado-en-el-mercado-no-se-actualizo-en-vtex",
+                "pt": "magazine-luiza-pedido-cancelado-no-marketplace-mas-o-status-nao-foi-atualizado-no-vtex"
               },
               "origin": "",
               "type": "markdown",
@@ -50843,21 +50858,6 @@
                 "en": "review-flow-for-updatestock-netshoes",
                 "es": "flujo-de-revision-para-updatestock-netshoes",
                 "pt": "fluxo-de-revisao-para-updatestock-netshoes"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Shopee Brand attribute not sent or overwritten during product sync",
-                "es": "Shopee El atributo de marca no se envió o se sobrescribió durante la sincronización del producto.",
-                "pt": "Shopee O atributo da marca não foi enviado ou foi sobrescrito durante a sincronização do produto"
-              },
-              "slug": {
-                "en": "shopee-brand-attribute-not-sent-or-overwritten-during-product-sync",
-                "es": "shopee-el-atributo-de-marca-no-se-envio-o-se-sobrescribio-durante-la-sincronizacion-del-producto",
-                "pt": "shopee-o-atributo-da-marca-nao-foi-enviado-ou-foi-sobrescrito-durante-a-sincronizacao-do-produto"
               },
               "origin": "",
               "type": "markdown",
@@ -52070,8 +52070,8 @@
             {
               "name": {
                 "en": "Accounts with \"-\" on the name don't have metrics on search report",
-                "es": "Las cuentas con \"-\" en el nombre no tienen métricas en el informe de búsqueda",
-                "pt": "Contas com \"-\" no nome não têm métricas no relatório de pesquisa"
+                "es": "Las cuentas con \"-\" en el nombre no tienen métricas en el informe de búsqueda.",
+                "pt": "Contas com \"-\" no nome não têm métricas no relatório de pesquisa."
               },
               "slug": {
                 "en": "accounts-with-on-the-name-dont-have-metrics-on-search-report",
@@ -52100,13 +52100,13 @@
             {
               "name": {
                 "en": "Autocomplete does not display Search Suggestions during the first interaction after PLP renders",
-                "es": "Autocompletar no muestra Sugerencias de Búsqueda durante la primera interacción después de que PLP se renderiza.",
-                "pt": "O preenchimento automático não exibe as sugestões de pesquisa durante a primeira interação após a renderização do PLP"
+                "es": "La función de autocompletar no muestra sugerencias de búsqueda durante la primera interacción después de que se renderiza la página de perfil de usuario (PLP).",
+                "pt": "O recurso de autocompletar não exibe sugestões de pesquisa durante a primeira interação após a renderização do PLP."
               },
               "slug": {
                 "en": "autocomplete-does-not-display-search-suggestions-during-the-first-interaction-after-plp-renders",
-                "es": "autocompletar-no-muestra-sugerencias-de-busqueda-durante-la-primera-interaccion-despues-de-que-plp-se-renderiza",
-                "pt": "o-preenchimento-automatico-nao-exibe-as-sugestoes-de-pesquisa-durante-a-primeira-interacao-apos-a-renderizacao-do-plp"
+                "es": "la-funcion-de-autocompletar-no-muestra-sugerencias-de-busqueda-durante-la-primera-interaccion-despues-de-que-se-renderiza-la-pagina-de-perfil-de-usuario-plp",
+                "pt": "o-recurso-de-autocompletar-nao-exibe-sugestoes-de-pesquisa-durante-a-primeira-interacao-apos-a-renderizacao-do-plp"
               },
               "origin": "",
               "type": "markdown",
@@ -52190,13 +52190,13 @@
             {
               "name": {
                 "en": "Banner not respecting the specificity of the search level in search pages",
-                "es": "Banner que no respeta la especificidad del nivel de búsqueda en las páginas de búsqueda",
-                "pt": "Banner que não respeita a especificidade do nível de busca nas páginas de busca"
+                "es": "Banner que no respeta la especificidad del nivel de búsqueda en las páginas de búsqueda.",
+                "pt": "O banner não respeita a especificidade do nível de pesquisa nas páginas de pesquisa."
               },
               "slug": {
                 "en": "banner-not-respecting-the-specificity-of-the-search-level-in-search-pages",
                 "es": "banner-que-no-respeta-la-especificidad-del-nivel-de-busqueda-en-las-paginas-de-busqueda",
-                "pt": "banner-que-nao-respeita-a-especificidade-do-nivel-de-busca-nas-paginas-de-busca"
+                "pt": "o-banner-nao-respeita-a-especificidade-do-nivel-de-pesquisa-nas-paginas-de-pesquisa"
               },
               "origin": "",
               "type": "markdown",
@@ -52325,12 +52325,12 @@
             {
               "name": {
                 "en": "Collection title is not displayed when accessing through ?map=productClusterIds query in multilanguage accounts",
-                "es": "El título de la colección no se muestra al acceder a través de la consulta «?map=productClusterIds» en cuentas multilingües",
-                "pt": "O título da coleção não é exibido ao acessar por meio da consulta ?map=productClusterIds em contas multilíngues"
+                "es": "El título de la colección no se muestra al acceder mediante la consulta ?map=productClusterIds en cuentas multilingües.",
+                "pt": "O título da coleção não é exibido ao acessar por meio da consulta ?map=productClusterIds em contas multilíngues."
               },
               "slug": {
                 "en": "collection-title-is-not-displayed-when-accessing-through-mapproductclusterids-query-in-multilanguage-accounts",
-                "es": "el-titulo-de-la-coleccion-no-se-muestra-al-acceder-a-traves-de-la-consulta-mapproductclusterids-en-cuentas-multilingues",
+                "es": "el-titulo-de-la-coleccion-no-se-muestra-al-acceder-mediante-la-consulta-mapproductclusterids-en-cuentas-multilingues",
                 "pt": "o-titulo-da-colecao-nao-e-exibido-ao-acessar-por-meio-da-consulta-mapproductclusterids-em-contas-multilingues"
               },
               "origin": "",
@@ -52400,13 +52400,13 @@
             {
               "name": {
                 "en": "Detached SKU search results not considering regionalized availability",
-                "es": "Los resultados de búsqueda de SKU independientes no tienen en cuenta la disponibilidad regionalizada",
-                "pt": "Os resultados da pesquisa de SKUs independentes não consideram a disponibilidade regionalizada"
+                "es": "Resultados de búsqueda de SKU independientes que no tienen en cuenta la disponibilidad regional.",
+                "pt": "Resultados de pesquisa de SKUs separados não consideram a disponibilidade regional."
               },
               "slug": {
                 "en": "detached-sku-search-results-not-considering-regionalized-availability",
-                "es": "los-resultados-de-busqueda-de-sku-independientes-no-tienen-en-cuenta-la-disponibilidad-regionalizada",
-                "pt": "os-resultados-da-pesquisa-de-skus-independentes-nao-consideram-a-disponibilidade-regionalizada"
+                "es": "resultados-de-busqueda-de-sku-independientes-que-no-tienen-en-cuenta-la-disponibilidad-regional",
+                "pt": "resultados-de-pesquisa-de-skus-separados-nao-consideram-a-disponibilidade-regional"
               },
               "origin": "",
               "type": "markdown",
@@ -52475,13 +52475,13 @@
             {
               "name": {
                 "en": "Explained Search returns results from main locale instead of selected secondary locale",
-                "es": "La búsqueda explicada devuelve resultados de la configuración regional principal en lugar de la configuración regional secundaria seleccionada.",
-                "pt": "A Pesquisa explicada retorna resultados da localidade principal em vez da localidade secundária selecionada."
+                "es": "La función de búsqueda explicada devuelve resultados de la configuración regional principal en lugar de la configuración regional secundaria seleccionada.",
+                "pt": "A opção \"Pesquisa explicada\" retorna resultados da localidade principal em vez da localidade secundária selecionada."
               },
               "slug": {
                 "en": "explained-search-returns-results-from-main-locale-instead-of-selected-secondary-locale",
-                "es": "la-busqueda-explicada-devuelve-resultados-de-la-configuracion-regional-principal-en-lugar-de-la-configuracion-regional-secundaria-seleccionada",
-                "pt": "a-pesquisa-explicada-retorna-resultados-da-localidade-principal-em-vez-da-localidade-secundaria-selecionada"
+                "es": "la-funcion-de-busqueda-explicada-devuelve-resultados-de-la-configuracion-regional-principal-en-lugar-de-la-configuracion-regional-secundaria-seleccionada",
+                "pt": "a-opcao-pesquisa-explicada-retorna-resultados-da-localidade-principal-em-vez-da-localidade-secundaria-selecionada"
               },
               "origin": "",
               "type": "markdown",
@@ -52880,13 +52880,13 @@
             {
               "name": {
                 "en": "Intelligent Search Synonyms form may freeze the synonym type field after creating a unidirectional synonym",
-                "es": "El formulario de búsqueda inteligente de sinónimos puede congelar el campo de tipo de sinónimo después de crear un sinónimo unidireccional",
-                "pt": "O formulário Intelligent Search Synonyms pode congelar o campo de tipo de sinônimo após a criação de um sinônimo unidirecional"
+                "es": "El formulario de sinónimos de búsqueda inteligente puede bloquear el campo de tipo de sinónimo después de crear un sinónimo unidireccional.",
+                "pt": "O formulário de sinônimos da Busca Inteligente pode congelar o campo de tipo de sinônimo após a criação de um sinônimo unidirecional."
               },
               "slug": {
                 "en": "intelligent-search-synonyms-form-may-freeze-the-synonym-type-field-after-creating-a-unidirectional-synonym",
-                "es": "el-formulario-de-busqueda-inteligente-de-sinonimos-puede-congelar-el-campo-de-tipo-de-sinonimo-despues-de-crear-un-sinonimo-unidireccional",
-                "pt": "o-formulario-intelligent-search-synonyms-pode-congelar-o-campo-de-tipo-de-sinonimo-apos-a-criacao-de-um-sinonimo-unidirecional"
+                "es": "el-formulario-de-sinonimos-de-busqueda-inteligente-puede-bloquear-el-campo-de-tipo-de-sinonimo-despues-de-crear-un-sinonimo-unidireccional",
+                "pt": "o-formulario-de-sinonimos-da-busca-inteligente-pode-congelar-o-campo-de-tipo-de-sinonimo-apos-a-criacao-de-um-sinonimo-unidirecional"
               },
               "origin": "",
               "type": "markdown",
@@ -52970,13 +52970,13 @@
             {
               "name": {
                 "en": "Manual merchandising rules do not work when Global trigger is enabled",
-                "es": "Las reglas de comercialización manual no funcionan cuando está activado el Activador global.",
-                "pt": "As regras de merchandising manual não funcionam quando o acionador global está ativado"
+                "es": "Las reglas de comercialización manuales no funcionan cuando el activador global está habilitado.",
+                "pt": "As regras de merchandising manual não funcionam quando o gatilho global está ativado."
               },
               "slug": {
                 "en": "manual-merchandising-rules-do-not-work-when-global-trigger-is-enabled",
-                "es": "las-reglas-de-comercializacion-manual-no-funcionan-cuando-esta-activado-el-activador-global",
-                "pt": "as-regras-de-merchandising-manual-nao-funcionam-quando-o-acionador-global-esta-ativado"
+                "es": "las-reglas-de-comercializacion-manuales-no-funcionan-cuando-el-activador-global-esta-habilitado",
+                "pt": "as-regras-de-merchandising-manual-nao-funcionam-quando-o-gatilho-global-esta-ativado"
               },
               "origin": "",
               "type": "markdown",
@@ -53119,21 +53119,6 @@
             },
             {
               "name": {
-                "en": "Product and SKU import fails for large size of spreadsheet file",
-                "es": "La importación de productos y SKU falla cuando el archivo de hoja de cálculo es de gran tamaño.",
-                "pt": "A importação de produtos e SKUs falha devido ao tamanho grande da planilha."
-              },
-              "slug": {
-                "en": "product-and-sku-import-fails-for-large-size-of-spreadsheet-file",
-                "es": "la-importacion-de-productos-y-sku-falla-cuando-el-archivo-de-hoja-de-calculo-es-de-gran-tamano",
-                "pt": "a-importacao-de-produtos-e-skus-falha-devido-ao-tamanho-grande-da-planilha"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Product Highlights doesn't work into a product list",
                 "es": "Los productos destacados no funcionan en una lista de productos",
                 "pt": "Os destaques de produtos não funcionam em uma lista de produtos"
@@ -53210,12 +53195,12 @@
             {
               "name": {
                 "en": "Products may not appear in search when using synonyms in secondary languages",
-                "es": "Es posible que los productos no aparezcan en la búsqueda cuando se utilizan sinónimos en lenguas secundarias.",
-                "pt": "Os produtos podem não aparecer na pesquisa ao usar sinônimos em idiomas secundários"
+                "es": "Es posible que los productos no aparezcan en la búsqueda cuando se utilicen sinónimos en idiomas secundarios.",
+                "pt": "Os produtos podem não aparecer na pesquisa ao usar sinônimos em idiomas secundários."
               },
               "slug": {
                 "en": "products-may-not-appear-in-search-when-using-synonyms-in-secondary-languages",
-                "es": "es-posible-que-los-productos-no-aparezcan-en-la-busqueda-cuando-se-utilizan-sinonimos-en-lenguas-secundarias",
+                "es": "es-posible-que-los-productos-no-aparezcan-en-la-busqueda-cuando-se-utilicen-sinonimos-en-idiomas-secundarios",
                 "pt": "os-produtos-podem-nao-aparecer-na-pesquisa-ao-usar-sinonimos-em-idiomas-secundarios"
               },
               "origin": "",
@@ -55342,21 +55327,6 @@
             },
             {
               "name": {
-                "en": "Incorrect ID and department name when exporting products spreadsheet",
-                "es": "ID y nombre de departamento incorrectos al exportar planilla de productos",
-                "pt": "ID e nome de departamento incorretos ao exportar planilha de produtos"
-              },
-              "slug": {
-                "en": "incorrect-id-and-department-name-when-exporting-products-spreadsheet",
-                "es": "id-y-nombre-de-departamento-incorrectos-al-exportar-planilla-de-productos",
-                "pt": "id-e-nome-de-departamento-incorretos-ao-exportar-planilha-de-produtos"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "It's not possible to create XML feed in HTTPS",
                 "es": "No se puede crear feed XML en HTTPS",
                 "pt": "Não é possível criar feed XML em HTTPS"
@@ -56514,13 +56484,13 @@
             {
               "name": {
                 "en": "Category mapping spreadsheet does not include offers in WaitingReview",
-                "es": "La hoja de cálculo de asignación de categorías no incluye las ofertas en «En espera de revisión»",
-                "pt": "A planilha de mapeamento de categorias não inclui ofertas em \"Aguardando revisão\""
+                "es": "La hoja de cálculo de asignación de categorías no incluye ofertas en WaitingReview.",
+                "pt": "A planilha de mapeamento de categorias não inclui ofertas em WaitingReview."
               },
               "slug": {
                 "en": "category-mapping-spreadsheet-does-not-include-offers-in-waitingreview",
-                "es": "la-hoja-de-calculo-de-asignacion-de-categorias-no-incluye-las-ofertas-en-en-espera-de-revision",
-                "pt": "a-planilha-de-mapeamento-de-categorias-nao-inclui-ofertas-em-aguardando-revisao"
+                "es": "la-hoja-de-calculo-de-asignacion-de-categorias-no-incluye-ofertas-en-waitingreview",
+                "pt": "a-planilha-de-mapeamento-de-categorias-nao-inclui-ofertas-em-waitingreview"
               },
               "origin": "",
               "type": "markdown",
@@ -56784,13 +56754,13 @@
             {
               "name": {
                 "en": "Search filter not working outside the first page in received SKU section",
-                "es": "El filtro de búsqueda no funciona más allá de la primera página en la sección de SKU recibidos",
-                "pt": "O filtro de pesquisa não funciona fora da primeira página na seção de SKUs recebidos"
+                "es": "El filtro de búsqueda no funciona fuera de la primera página en la sección de SKU recibidos.",
+                "pt": "O filtro de pesquisa não está funcionando fora da primeira página na seção de SKUs recebidos."
               },
               "slug": {
                 "en": "search-filter-not-working-outside-the-first-page-in-received-sku-section",
-                "es": "el-filtro-de-busqueda-no-funciona-mas-alla-de-la-primera-pagina-en-la-seccion-de-sku-recibidos",
-                "pt": "o-filtro-de-pesquisa-nao-funciona-fora-da-primeira-pagina-na-secao-de-skus-recebidos"
+                "es": "el-filtro-de-busqueda-no-funciona-fuera-de-la-primera-pagina-en-la-seccion-de-sku-recibidos",
+                "pt": "o-filtro-de-pesquisa-nao-esta-funcionando-fora-da-primeira-pagina-na-secao-de-skus-recebidos"
               },
               "origin": "",
               "type": "markdown",
@@ -56829,12 +56799,12 @@
             {
               "name": {
                 "en": "Seller invite Route not found after account creation",
-                "es": "Vendedor invitar Ruta no se encuentra después de la creación de la cuenta",
+                "es": "Invitación del vendedor Ruta no encontrada después de la creación de la cuenta",
                 "pt": "Convite do vendedor Rota não encontrada após a criação da conta"
               },
               "slug": {
                 "en": "seller-invite-route-not-found-after-account-creation",
-                "es": "vendedor-invitar-ruta-no-se-encuentra-despues-de-la-creacion-de-la-cuenta",
+                "es": "invitacion-del-vendedor-ruta-no-encontrada-despues-de-la-creacion-de-la-cuenta",
                 "pt": "convite-do-vendedor-rota-nao-encontrada-apos-a-criacao-da-conta"
               },
               "origin": "",
@@ -57385,6 +57355,21 @@
             },
             {
               "name": {
+                "en": "Seller selection algorithm doesn't consider the real availability of the item to choose the best option",
+                "es": "El algoritmo de selección de vendedores no tiene en cuenta la disponibilidad real del artículo para elegir la mejor opción.",
+                "pt": "O algoritmo de seleção de vendedores não leva em consideração a disponibilidade real do item para escolher a melhor opção."
+              },
+              "slug": {
+                "en": "seller-selection-algorithm-doesnt-consider-the-real-availability-of-the-item-to-choose-the-best-option",
+                "es": "el-algoritmo-de-seleccion-de-vendedores-no-tiene-en-cuenta-la-disponibilidad-real-del-articulo-para-elegir-la-mejor-opcion",
+                "pt": "o-algoritmo-de-selecao-de-vendedores-nao-leva-em-consideracao-a-disponibilidade-real-do-item-para-escolher-a-melhor-opcao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Seller selection excludes single seller of SKU with low coverage, causing unavailability in allocation step",
                 "es": "La selección de vendedores excluye a un único vendedor de SKU con baja cobertura, lo que provoca indisponibilidad en el paso de asignación",
                 "pt": "A seleção do vendedor exclui um único vendedor de SKU com baixa cobertura, causando indisponibilidade na etapa de alocação"
@@ -57423,6 +57408,21 @@
                 "en": "the-minimum-and-maximum-values-of-the-logistics-affect-the-allocation-flow",
                 "es": "los-valores-minimo-y-maximo-de-la-logistica-afectan-al-flujo-de-asignacion",
                 "pt": "os-valores-minimo-e-maximo-da-logistica-afetam-o-fluxo-de-alocacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Whitelabel seller selection does not rule out priceless sellers",
+                "es": "La selección de vendedores de marca blanca no excluye a los vendedores de valor incalculable.",
+                "pt": "A seleção de vendedores de marca branca não exclui vendedores de valor inestimável."
+              },
+              "slug": {
+                "en": "whitelabel-seller-selection-does-not-rule-out-priceless-sellers",
+                "es": "la-seleccion-de-vendedores-de-marca-blanca-no-excluye-a-los-vendedores-de-valor-incalculable",
+                "pt": "a-selecao-de-vendedores-de-marca-branca-nao-exclui-vendedores-de-valor-inestimavel"
               },
               "origin": "",
               "type": "markdown",
@@ -58272,13 +58272,28 @@
             {
               "name": {
                 "en": "Order Authorization lessThan 100 goes with the flow",
-                "es": "La autorización de pedidos inferiores a 100 se adapta a las circunstancias",
+                "es": "La autorización de pedidos de menos de 100 va con la corriente.",
                 "pt": "Autorização de pedido inferior a 100 segue o fluxo normal."
               },
               "slug": {
                 "en": "order-authorization-lessthan-100-goes-with-the-flow",
-                "es": "la-autorizacion-de-pedidos-inferiores-a-100-se-adapta-a-las-circunstancias",
+                "es": "la-autorizacion-de-pedidos-de-menos-de-100-va-con-la-corriente",
                 "pt": "autorizacao-de-pedido-inferior-a-100-segue-o-fluxo-normal"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order cannot be created when seller has a different Country Code",
+                "es": "No se puede crear un pedido si el vendedor tiene un código de país diferente.",
+                "pt": "Não é possível criar um pedido quando o vendedor possui um código de país diferente."
+              },
+              "slug": {
+                "en": "order-cannot-be-created-when-seller-has-a-different-country-code",
+                "es": "no-se-puede-crear-un-pedido-si-el-vendedor-tiene-un-codigo-de-pais-diferente",
+                "pt": "nao-e-possivel-criar-um-pedido-quando-o-vendedor-possui-um-codigo-de-pais-diferente"
               },
               "origin": "",
               "type": "markdown",
@@ -58677,13 +58692,13 @@
             {
               "name": {
                 "en": "Refund not triggered after input invoice due to inconsistent invoiceData (OMS ↔ Payments)",
-                "es": "El reembolso no se ha activado tras la factura de entrada debido a datos de factura incoherentes (OMS ↔ Pagos).",
-                "pt": "Reembolso não acionado após a entrada da fatura devido a dados inconsistentes da fatura (OMS ↔ Pagamentos)"
+                "es": "No se activó el reembolso después de ingresar la factura debido a datos de factura inconsistentes (OMS ↔ Pagos).",
+                "pt": "O reembolso não foi processado após a entrada da fatura devido a dados de fatura inconsistentes (OMS ↔ Pagamentos)."
               },
               "slug": {
                 "en": "refund-not-triggered-after-input-invoice-due-to-inconsistent-invoicedata-oms-payments",
-                "es": "el-reembolso-no-se-ha-activado-tras-la-factura-de-entrada-debido-a-datos-de-factura-incoherentes-oms-pagos",
-                "pt": "reembolso-nao-acionado-apos-a-entrada-da-fatura-devido-a-dados-inconsistentes-da-fatura-oms-pagamentos"
+                "es": "no-se-activo-el-reembolso-despues-de-ingresar-la-factura-debido-a-datos-de-factura-inconsistentes-oms-pagos",
+                "pt": "o-reembolso-nao-foi-processado-apos-a-entrada-da-fatura-devido-a-dados-de-fatura-inconsistentes-oms-pagamentos"
               },
               "origin": "",
               "type": "markdown",
@@ -58707,13 +58722,13 @@
             {
               "name": {
                 "en": "Replacing orders with different Sales Channel",
-                "es": "Sustitución de pedidos con un canal de venta diferente",
-                "pt": "Substituição de pedidos por meio de um canal de vendas diferente"
+                "es": "Reemplazar pedidos con diferentes canales de venta",
+                "pt": "Substituição de pedidos com canal de vendas diferente"
               },
               "slug": {
                 "en": "replacing-orders-with-different-sales-channel",
-                "es": "sustitucion-de-pedidos-con-un-canal-de-venta-diferente",
-                "pt": "substituicao-de-pedidos-por-meio-de-um-canal-de-vendas-diferente"
+                "es": "reemplazar-pedidos-con-diferentes-canales-de-venta",
+                "pt": "substituicao-de-pedidos-com-canal-de-vendas-diferente"
               },
               "origin": "",
               "type": "markdown",
@@ -58917,13 +58932,13 @@
             {
               "name": {
                 "en": "Special character in Seller name Report",
-                "es": "Caracteres especiales en el nombre del vendedor: Informe",
-                "pt": "Caractere especial no nome do vendedor - Relatório"
+                "es": "Carácter especial en el informe del nombre del vendedor",
+                "pt": "Caractere especial no nome do vendedor Denunciar"
               },
               "slug": {
                 "en": "special-character-in-seller-name-report",
-                "es": "caracteres-especiales-en-el-nombre-del-vendedor-informe",
-                "pt": "caractere-especial-no-nome-do-vendedor-relatorio"
+                "es": "caracter-especial-en-el-informe-del-nombre-del-vendedor",
+                "pt": "caractere-especial-no-nome-do-vendedor-denunciar"
               },
               "origin": "",
               "type": "markdown",
@@ -59022,12 +59037,12 @@
             {
               "name": {
                 "en": "Subscription event history out of order",
-                "es": "El historial de eventos de la suscripción no está en orden",
+                "es": "El historial de eventos de la suscripción está fuera de orden.",
                 "pt": "O histórico de eventos da assinatura está fora de ordem."
               },
               "slug": {
                 "en": "subscription-event-history-out-of-order",
-                "es": "el-historial-de-eventos-de-la-suscripcion-no-esta-en-orden",
+                "es": "el-historial-de-eventos-de-la-suscripcion-esta-fuera-de-orden",
                 "pt": "o-historico-de-eventos-da-assinatura-esta-fora-de-ordem"
               },
               "origin": "",
@@ -59827,6 +59842,21 @@
                 "en": "callbackurl-always-returns-403-when-the-connector-owner-account-has-been-disabled",
                 "es": "callbackurl-siempre-devuelve-un-codigo-403-cuando-la-cuenta-del-propietario-del-conector-ha-sido-desactivada",
                 "pt": "o-callbackurl-sempre-retorna-um-codigo-403-quando-a-conta-do-proprietario-do-conector-foi-desativada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Cannot save card in MyCards when the payment method has a special condition with subaccount",
+                "es": "No se puede guardar la tarjeta en Mis Tarjetas cuando el método de pago tiene una condición especial con la subcuenta.",
+                "pt": "Não é possível salvar o cartão em Meus Cartões quando o método de pagamento possui uma condição especial com subconta."
+              },
+              "slug": {
+                "en": "cannot-save-card-in-mycards-when-the-payment-method-has-a-special-condition-with-subaccount",
+                "es": "no-se-puede-guardar-la-tarjeta-en-mis-tarjetas-cuando-el-metodo-de-pago-tiene-una-condicion-especial-con-la-subcuenta",
+                "pt": "nao-e-possivel-salvar-o-cartao-em-meus-cartoes-quando-o-metodo-de-pagamento-possui-uma-condicao-especial-com-subconta"
               },
               "origin": "",
               "type": "markdown",
@@ -62309,6 +62339,21 @@
             },
             {
               "name": {
+                "en": "Same boleto number generated for two distinct transactions (Itaú Shopline)",
+                "es": "Se generó el mismo número de boleto para dos transacciones distintas (Itaú Shopline).",
+                "pt": "O mesmo número de boleto foi gerado para duas transações distintas (Itaú Shopline)"
+              },
+              "slug": {
+                "en": "same-boleto-number-generated-for-two-distinct-transactions-itau-shopline",
+                "es": "se-genero-el-mismo-numero-de-boleto-para-dos-transacciones-distintas-itau-shopline",
+                "pt": "o-mesmo-numero-de-boleto-foi-gerado-para-duas-transacoes-distintas-itau-shopline"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Save card doesn't work for PayU due to the amount of validation",
                 "es": "La tarjeta «Save» no funciona con PayU debido al importe de la validación",
                 "pt": "O cartão \"Salvar\" não funciona com o PayU devido ao valor da transação"
@@ -62767,6 +62812,21 @@
                 "en": "transacoes-canceladas-no-mercadopago-nao-cancelam-na-vtex",
                 "es": "transacciones-canceladas-en-mercadopago-no-canceladas-en-vtex",
                 "pt": "transacoes-canceladas-no-mercadopago-nao-canceladas-na-vtex"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transaction additional-data call fails with \"profile Id cannot be null\" on accounts with e-mail rectification enabled",
+                "es": "La llamada a datos adicionales de la transacción falla con el error \"el ID de perfil no puede ser nulo\" en cuentas con rectificación de correo electrónico habilitada.",
+                "pt": "A chamada de dados adicionais da transação falha com a mensagem \"o ID do perfil não pode ser nulo\" em contas com a retificação de e-mail ativada."
+              },
+              "slug": {
+                "en": "transaction-additionaldata-call-fails-with-profile-id-cannot-be-null-on-accounts-with-email-rectification-enabled",
+                "es": "la-llamada-a-datos-adicionales-de-la-transaccion-falla-con-el-error-el-id-de-perfil-no-puede-ser-nulo-en-cuentas-con-rectificacion-de-correo-electronico-habilitada",
+                "pt": "a-chamada-de-dados-adicionais-da-transacao-falha-com-a-mensagem-o-id-do-perfil-nao-pode-ser-nulo-em-contas-com-a-retificacao-de-email-ativada"
               },
               "origin": "",
               "type": "markdown",
@@ -65765,13 +65825,13 @@
             {
               "name": {
                 "en": "Inconsistent gift calculation when mixing eligible SKUs in Buy One Get One promotion",
-                "es": "Cálculo incorrecto del regalo al combinar referencias elegibles en la promoción «Compra uno y llévate otro gratis»",
-                "pt": "Cálculo incorreto do brinde ao combinar SKUs elegíveis na promoção “Compre um, ganhe outro”"
+                "es": "Cálculo inconsistente del regalo al combinar SKU elegibles en la promoción Compre uno y llévese otro gratis.",
+                "pt": "Cálculo inconsistente de brindes ao misturar SKUs elegíveis na promoção Compre Um e Leve Outro."
               },
               "slug": {
                 "en": "inconsistent-gift-calculation-when-mixing-eligible-skus-in-buy-one-get-one-promotion",
-                "es": "calculo-incorrecto-del-regalo-al-combinar-referencias-elegibles-en-la-promocion-compra-uno-y-llevate-otro-gratis",
-                "pt": "calculo-incorreto-do-brinde-ao-combinar-skus-elegiveis-na-promocao-compre-um-ganhe-outro"
+                "es": "calculo-inconsistente-del-regalo-al-combinar-sku-elegibles-en-la-promocion-compre-uno-y-llevese-otro-gratis",
+                "pt": "calculo-inconsistente-de-brindes-ao-misturar-skus-elegiveis-na-promocao-compre-um-e-leve-outro"
               },
               "origin": "",
               "type": "markdown",
@@ -66170,13 +66230,13 @@
             {
               "name": {
                 "en": "Promotion applies to all SLAs instead of only selected shipping method",
-                "es": "La promoción se aplica a todos los ANS en lugar de sólo al método de envío seleccionado",
-                "pt": "A promoção se aplica a todos os SLAs em vez de apenas ao método de envio selecionado"
+                "es": "La promoción se aplica a todos los SLA en lugar de solo a un método de envío seleccionado.",
+                "pt": "A promoção se aplica a todos os SLAs, e não apenas ao método de envio selecionado."
               },
               "slug": {
                 "en": "promotion-applies-to-all-slas-instead-of-only-selected-shipping-method",
-                "es": "la-promocion-se-aplica-a-todos-los-ans-en-lugar-de-solo-al-metodo-de-envio-seleccionado",
-                "pt": "a-promocao-se-aplica-a-todos-os-slas-em-vez-de-apenas-ao-metodo-de-envio-selecionado"
+                "es": "la-promocion-se-aplica-a-todos-los-sla-en-lugar-de-solo-a-un-metodo-de-envio-seleccionado",
+                "pt": "a-promocao-se-aplica-a-todos-os-slas-e-nao-apenas-ao-metodo-de-envio-selecionado"
               },
               "origin": "",
               "type": "markdown",
@@ -66455,13 +66515,13 @@
             {
               "name": {
                 "en": "Subscription promotions with defined periodicity may not apply to recurring orders",
-                "es": "Es posible que las promociones de suscripción con una periodicidad definida no se apliquen a los pedidos recurrentes",
-                "pt": "As promoções de assinatura com periodicidade definida podem não se aplicar a pedidos recorrentes"
+                "es": "Las promociones de suscripción con periodicidad definida pueden no aplicarse a los pedidos recurrentes.",
+                "pt": "Promoções de assinatura com periodicidade definida podem não se aplicar a pedidos recorrentes."
               },
               "slug": {
                 "en": "subscription-promotions-with-defined-periodicity-may-not-apply-to-recurring-orders",
-                "es": "es-posible-que-las-promociones-de-suscripcion-con-una-periodicidad-definida-no-se-apliquen-a-los-pedidos-recurrentes",
-                "pt": "as-promocoes-de-assinatura-com-periodicidade-definida-podem-nao-se-aplicar-a-pedidos-recorrentes"
+                "es": "las-promociones-de-suscripcion-con-periodicidad-definida-pueden-no-aplicarse-a-los-pedidos-recurrentes",
+                "pt": "promocoes-de-assinatura-com-periodicidade-definida-podem-nao-se-aplicar-a-pedidos-recorrentes"
               },
               "origin": "",
               "type": "markdown",
@@ -69507,14 +69567,14 @@
             },
             {
               "name": {
-                "en": "CentauroKI Mapper filer have 1MB file size limit on API uploads",
-                "es": "CentauroKI El servidor de archivos Mapper tiene un límite de tamaño de archivo de 1 MB para las cargas de API.",
-                "pt": "CentauroKI O mapeador de arquivos tem um limite de tamanho de arquivo de 1 MB para uploads via API."
+                "en": "Centauro Mapper file have 1MB file size limit on API uploads",
+                "es": "Centauro Los archivos del mapeador tienen un límite de tamaño de 1 MB para las cargas a través de la API.",
+                "pt": "Centauro O arquivo de mapeamento tem um limite de tamanho de 1 MB para uploads via API."
               },
               "slug": {
-                "en": "centauroki-mapper-filer-have-1mb-file-size-limit-on-api-uploads",
-                "es": "centauroki-el-servidor-de-archivos-mapper-tiene-un-limite-de-tamano-de-archivo-de-1-mb-para-las-cargas-de-api",
-                "pt": "centauroki-o-mapeador-de-arquivos-tem-um-limite-de-tamanho-de-arquivo-de-1-mb-para-uploads-via-api"
+                "en": "centauro-mapper-file-have-1mb-file-size-limit-on-api-uploads",
+                "es": "centauro-los-archivos-del-mapeador-tienen-un-limite-de-tamano-de-1-mb-para-las-cargas-a-traves-de-la-api",
+                "pt": "centauro-o-arquivo-de-mapeamento-tem-um-limite-de-tamanho-de-1-mb-para-uploads-via-api"
               },
               "origin": "",
               "type": "markdown",
@@ -69582,6 +69642,21 @@
             },
             {
               "name": {
+                "en": "Magazine Luiza Integration not support multiple packages",
+                "es": "Magazine Luiza La integración no admite múltiples paquetes",
+                "pt": "Magazine Luiza A integração não suporta vários pacotes"
+              },
+              "slug": {
+                "en": "magazine-luiza-integration-not-support-multiple-packages",
+                "es": "magazine-luiza-la-integracion-no-admite-multiples-paquetes",
+                "pt": "magazine-luiza-a-integracao-nao-suporta-varios-pacotes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Mercado Livre Ads Incorrectly Re-created as Cross-docking for Full SKUs with Zero Stock",
                 "es": "Mercado Livre Anuncios recreados incorrectamente como cross-docking para SKU completos con stock cero.",
                 "pt": "Mercado Livre Anúncios recriados incorretamente como cross-docking para SKUs completos com estoque zero"
@@ -69620,6 +69695,21 @@
                 "en": "netshoes-main-image-not-respected",
                 "es": "netshoes-imagen-principal-no-respetada",
                 "pt": "netshoes-imagem-principal-nao-respeitada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Brand attribute not sent or overwritten during product sync",
+                "es": "Shopee El atributo de marca no se envió o se sobrescribió durante la sincronización del producto.",
+                "pt": "Shopee O atributo da marca não foi enviado ou foi sobrescrito durante a sincronização do produto"
+              },
+              "slug": {
+                "en": "shopee-brand-attribute-not-sent-or-overwritten-during-product-sync",
+                "es": "shopee-el-atributo-de-marca-no-se-envio-o-se-sobrescribio-durante-la-sincronizacion-del-producto",
+                "pt": "shopee-o-atributo-da-marca-nao-foi-enviado-ou-foi-sobrescrito-durante-a-sincronizacao-do-produto"
               },
               "origin": "",
               "type": "markdown",
