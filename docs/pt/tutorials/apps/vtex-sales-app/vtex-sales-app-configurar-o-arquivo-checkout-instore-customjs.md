@@ -53,7 +53,7 @@ O `checkout-instore-custom.js` é o arquivo usado para personalizar as configura
 
 ## Código do vendedor (`noteAsVendorCode`)
 
-- `noteAsVendorCode.type`: define o tipo de campo do código do vendedor, que pode ser `'text'`, `'input'` ou `'select'`.
+- `noteAsVendorCode.type`: define o tipo de campo do código do vendedor, que pode ser do tipo texto (`'text'`), campo de entrada (`'input'`) ou lista de seleção (`'select'`).
 - `noteAsVendorCode.skipValidation`: quando configurado como `false`, realiza a validação no código do vendedor, quando `true`, não realiza essa validação.
 - `noteAsVendorCode.autofill`: quando configurado como `true`, tenta preencher automaticamente o código do vendedor; quando `false`, não tenta o preenchimento automático.
 
