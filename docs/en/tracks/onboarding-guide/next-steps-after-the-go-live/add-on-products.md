@@ -3,7 +3,7 @@ title: 'Add-on products'
 id: 1t2QBZvrOBSLgvHaAV9fYm
 status: PUBLISHED
 createdAt: 2024-02-20T20:29:42.983Z
-updatedAt: 2026-08-13T00:00:00.000Z
+updatedAt: 2026-09-22T00:00:00.000Z
 publishedAt: 2025-05-13T20:19:47.676Z
 firstPublishedAt: 2024-02-22T14:09:28.506Z
 contentType: trackArticle
@@ -29,12 +29,6 @@ Add-on products are solutions offered by VTEX to meet the specific business need
 VTEX Live Shopping allows creating online broadcasts for live demos of store product features. Direct and instantaneous interactions with customers improve public engagement with the brand and help increase sales performance.
 
 ![live-shopping-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_2.JPG)
-
-## VTEX Personal Shopper
-
-VTEX Personal Shopper allows offering a direct, personalized service between the customer and the sales associate, bringing the physical store shopping experience to the digital environment. The sales associate can show products, make recommendations, and answer customers' questions through this app. They can also add items to the shopping cart during a video call.
-
-![personal-shopper-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_3.JPG)
 
 ## VTEX Pick and Pack
 
