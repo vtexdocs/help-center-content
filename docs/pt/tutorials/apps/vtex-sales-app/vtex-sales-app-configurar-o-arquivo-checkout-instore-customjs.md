@@ -34,7 +34,7 @@ O `checkout-instore-custom.js` é o arquivo usado para personalizar as configura
 - `initialPage`: define a página que abre primeiro após o login (ex: `'advertisements'`).
 - `pathAfterLogin`: determina a rota interna para onde o usuário é direcionado depois de realizar o login (ex: `'/sale'`).
 - `topbarTitle`: define o texto exibido na barra superior do Sales App (ex: `'Nome da loja'`).
-- `enableChangePrice`: quando configurado como `true`, permite que o vendedor altere o preço manualmente no Sales App, quando `false`, não permite. Está relacionado ao campo `manualPrice` do [orderform](https://developers.vtex.com/docs/guides/orderform-fields).
+- `enableChangePrice`: quando configurado como `true`, permite que o vendedor altere o preço manualmente no Sales App; quando `false`, não permite. Está relacionado ao campo `manualPrice` do [orderform](https://developers.vtex.com/docs/guides/orderform-fields).
 
 ## Autenticação
 
@@ -55,7 +55,7 @@ O `checkout-instore-custom.js` é o arquivo usado para personalizar as configura
 
 - `noteAsVendorCode.type`: define o tipo de campo do código do vendedor, que pode ser `'text'`, `'input'` ou `'select'`.
 - `noteAsVendorCode.skipValidation`: quando configurado como `false`, realiza a validação no código do vendedor, quando `true`, não realiza essa validação.
-- `noteAsVendorCode.autofill`: quando configurado como `true`, tenta preencher automaticamente o código do vendedor, quando `false`, não tenta o preenchimento automático.
+- `noteAsVendorCode.autofill`: quando configurado como `true`, tenta preencher automaticamente o código do vendedor; quando `false`, não tenta o preenchimento automático.
 
 ## Anexos e serviços
 
@@ -80,20 +80,26 @@ O `checkout-instore-custom.js` é o arquivo usado para personalizar as configura
 
 - `configureDeviceEnabled`: habilita a tela de configuração de dispositivos, como impressoras.
 - `printingConfig.printByBroker`: define como o Sales App realiza a impressão. Quando `false`, a impressão é feita diretamente pelo dispositivo; quando `true`, a solicitação passa por um "broker" de impressão, serviço intermediário que a encaminha para a impressora.
-- `defaultDevice.deviceName`: nome da impressora padrão (ex: `'PDFwriter'`).
-- `remotePrinterOptions.deviceName`: nome da impressora usada para impressão remota.
+- `defaultDevice.deviceName`: define o nome da impressora padrão (ex: `'PDFwriter'`).
+- `remotePrinterOptions.deviceName`: define o nome da impressora usada para impressão remota.
 
 ## Cliente anônimo
 
-- `allowAnonymousUser`: quando configurado como `true`, permite finalizar pedidos sem identificar o cliente, quando `false`, não permite.
+- `allowAnonymousUser`: quando configurado como `true`, permite finalizar pedidos sem identificar o cliente; quando `false`, não permite.
 
 ## Social Selling
 
-- `socialShare.vendorType`: determina como o vendedor é identificado nos links de Social Selling (ex: `'code'` para usar o código do vendedor).
+- `socialShare.vendorType`: determina a identificação do vendedor nos links de [Social Selling](https://help.vtex.com/pt/docs/tracks/compartilhar-carrinho-utilizando-o-vtex-sales-app-social-selling) (ex: `'code'` para usar o código do vendedor).
 
 ## Tipos de identificação do cliente
 
-- `enableIdentificationTypes`: define quais tipos de identificação do cliente ficam disponíveis no Sales App, conforme o exemplo abaixo:
+- `enableIdentificationTypes`: define quais tipos de identificação do cliente ficam disponíveis no Sales App.
+  - **QRCode**: quando configurado como `true`, permite que o cliente identifique-se usando o QR Code; quando `false`, não permite.
+  - **CPF**: quando configurado como `true`, permite que o cliente identifique-se usando o CPF; quando `false`, não permite.
+  - **Email**: quando configurado como `true`, permite que o cliente identifique-se usando o email; quando `false`, não permite.
+  - **Phone**: quando configurado como `true`, permite que o cliente identifique-se usando o número de telefone; quando `false`, não permite.
+
+Veja um exemplo de como configurar o `enableIdentificationTypes`:
 
 ```js
 enableIdentificationTypes: {
