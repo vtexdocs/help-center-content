@@ -17,11 +17,11 @@ Este artigo descreve os requisitos técnicos para utilizar o **VTEX Sales App**.
 
 ## Equipamento obrigatório
 
-A loja precisa dispor de um dispositivo para utilizar o **Sales App**, seja ele um desktop ou um dispositivo móvel, como tablet, smartphone ou toten touch screen.
+A loja precisa dispor de um dispositivo para utilizar o **Sales App**, seja ele um desktop ou um dispositivo móvel, como tablet, smartphone ou totem touchscreen.
 
 > ⚠️ Recomendamos reservar um espaço seguro na sua loja para armazenar o seu equipamento.
 
-### Tablets, smartphones e totens touch screen
+### Tablets, smartphones e totem touchscreen
 
 Preferencialmente, o dispositivo deve estar atualizado com a versão mais recente do sistema operacional e, no mínimo, precisa ser compatível com:
 
