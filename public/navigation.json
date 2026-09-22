@@ -42983,13 +42983,13 @@
             {
               "name": {
                 "en": "Similar products UI brokes with too many products",
-                "es": "La interfaz de usuario de los productos similares deja de funcionar cuando hay demasiados productos",
-                "pt": "A interface do usuário de produtos semelhantes fica desorganizada quando há muitos produtos"
+                "es": "La interfaz de usuario de productos similares falla con demasiados productos.",
+                "pt": "Produtos similares: a interface do usuário apresentou problemas com muitos produtos."
               },
               "slug": {
                 "en": "similar-products-ui-brokes-with-too-many-products",
-                "es": "la-interfaz-de-usuario-de-los-productos-similares-deja-de-funcionar-cuando-hay-demasiados-productos",
-                "pt": "a-interface-do-usuario-de-produtos-semelhantes-fica-desorganizada-quando-ha-muitos-produtos"
+                "es": "la-interfaz-de-usuario-de-productos-similares-falla-con-demasiados-productos",
+                "pt": "produtos-similares-a-interface-do-usuario-apresentou-problemas-com-muitos-produtos"
               },
               "origin": "",
               "type": "markdown",
@@ -43553,13 +43553,13 @@
             {
               "name": {
                 "en": "Unexpected reload happening when registering/updating a product",
-                "es": "Se produce una recarga inesperada al registrar o actualizar un producto",
-                "pt": "Ocorre uma atualização inesperada ao registrar/atualizar um produto"
+                "es": "Se produce una recarga inesperada al registrar/actualizar un producto.",
+                "pt": "Recarregamento inesperado ocorrendo ao registrar/atualizar um produto."
               },
               "slug": {
                 "en": "unexpected-reload-happening-when-registeringupdating-a-product",
-                "es": "se-produce-una-recarga-inesperada-al-registrar-o-actualizar-un-producto",
-                "pt": "ocorre-uma-atualizacao-inesperada-ao-registraratualizar-um-produto"
+                "es": "se-produce-una-recarga-inesperada-al-registraractualizar-un-producto",
+                "pt": "recarregamento-inesperado-ocorrendo-ao-registraratualizar-um-produto"
               },
               "origin": "",
               "type": "markdown",
