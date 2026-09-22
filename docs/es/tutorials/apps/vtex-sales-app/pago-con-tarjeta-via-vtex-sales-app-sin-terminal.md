@@ -3,7 +3,7 @@ title: 'Pago con tarjeta vía VTEX Sales App (sin terminal)'
 id: 48OR7InFvdLW6hekvfESs3
 status: PUBLISHED
 createdAt: 2025-03-28T15:33:24.822Z
-updatedAt: 2025-10-29T20:05:52.877Z
+updatedAt: 2026-09-22T20:05:52.877Z
 publishedAt: 2025-10-29T20:05:52.877Z
 firstPublishedAt: 2025-03-28T16:09:38.187Z
 contentType: tutorial
@@ -78,7 +78,7 @@ Al [configurar VTEX Sales App](/es/docs/tracks/vtex-sales-app-configuracion-basi
 
 Para utilizar el **Pago con tarjeta vía Sales App** hay dos configuraciones principales que deben estar activas, una en Checkout y otra en Pagos.
 
-#### Configuración en Checkout 
+#### Configuración en Checkout
 
 Los IDs de las redes de tarjetas de crédito deben estar activados como medios de pago en la configuración de pagos de VTEX Sales App. Para comprobar que estén activos, sigue los pasos a continuación:
 
@@ -111,6 +111,9 @@ Sigue los pasos a continuación para finalizar pedidos utilizando **Pago con tar
 1. En el checkout de **VTEX Sales App**, en el paso `Selecciona un medio de pago`, haz clic en `Ingresar tarjeta`.
 2. Selecciona la opción para escanear la tarjeta o ingresa los datos manualmente.
 3. Captura automáticamente los datos de la tarjeta con la pantalla de captura o llena los datos de forma manual. Es necesario escanear la parte delantera y trasera de la tarjeta.
+
+  > ⚠️ Solo será posible rellenar el CVV cuando el número de tarjeta sea válido.
+
 4. Después de la aprobación del pago, la confirmación de la compra se realiza en **VTEX Sales App**.
 
 > ℹ️ Los clientes pueden realizar el escaneo de la tarjeta o el ingreso manual de los datos ellos mismos si así lo desean.
