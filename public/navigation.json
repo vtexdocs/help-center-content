@@ -58786,6 +58786,21 @@
             },
             {
               "name": {
+                "en": "Order stuck in an intermediate workflow status due to a workflow desynchronization",
+                "es": "El pedido se encuentra atascado en un estado de flujo de trabajo intermedio debido a una desincronización del flujo de trabajo.",
+                "pt": "O pedido ficou preso em um status intermediário do fluxo de trabalho devido a uma dessincronização do fluxo de trabalho."
+              },
+              "slug": {
+                "en": "order-stuck-in-an-intermediate-workflow-status-due-to-a-workflow-desynchronization",
+                "es": "el-pedido-se-encuentra-atascado-en-un-estado-de-flujo-de-trabajo-intermedio-debido-a-una-desincronizacion-del-flujo-de-trabajo",
+                "pt": "o-pedido-ficou-preso-em-um-status-intermediario-do-fluxo-de-trabalho-devido-a-uma-dessincronizacao-do-fluxo-de-trabalho"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Order stuck in on-order-completed-ffm (Fulfillment) or on-order-completed (Marketplace) even after successful creation (isCompleted: true)",
                 "es": "Pedido atascado en on-order-completed-ffm (Cumplimiento) o en on-order-completed (Mercado) incluso después de una creación correcta (isCompleted: true)",
                 "pt": "Pedido preso em on-order-completed-ffm (Fulfillment) ou on-order-completed (Marketplace) mesmo após a criação bem-sucedida (isCompleted: true)"
@@ -60507,6 +60522,21 @@
                 "en": "customer-credit-invoices-status-at-mycredits-page-are-not-correct",
                 "es": "el-estado-de-las-facturas-de-credito-de-los-clientes-en-la-pagina-mycredits-no-es-correcto",
                 "pt": "o-status-das-faturas-de-credito-do-cliente-na-pagina-mycredits-nao-esta-correto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Customer Credit payment denied in Sales App when a closed account exists for the same document",
+                "es": "Pago con crédito del cliente rechazado en la aplicación de ventas cuando existe una cuenta cerrada para el mismo documento.",
+                "pt": "Pagamento de crédito ao cliente recusado no aplicativo de vendas quando existe uma conta encerrada para o mesmo documento."
+              },
+              "slug": {
+                "en": "customer-credit-payment-denied-in-sales-app-when-a-closed-account-exists-for-the-same-document",
+                "es": "pago-con-credito-del-cliente-rechazado-en-la-aplicacion-de-ventas-cuando-existe-una-cuenta-cerrada-para-el-mismo-documento",
+                "pt": "pagamento-de-credito-ao-cliente-recusado-no-aplicativo-de-vendas-quando-existe-uma-conta-encerrada-para-o-mesmo-documento"
               },
               "origin": "",
               "type": "markdown",
