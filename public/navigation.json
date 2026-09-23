@@ -25422,21 +25422,6 @@
                 },
                 {
                   "name": {
-                    "en": "Split Payment",
-                    "es": "Split de pagos",
-                    "pt": "Split de Pagamento"
-                  },
-                  "slug": {
-                    "en": "split-payment",
-                    "es": "split-de-pagos",
-                    "pt": "split-de-pagamento"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "What is 3D Secure?",
                     "es": "¿Qué es 3D Secure?",
                     "pt": "O que é 3D Secure?"
@@ -29623,7 +29608,7 @@
                 },
                 {
                   "name": {
-                    "en": "Lookups",
+                    "en": "Search and details",
                     "es": "Consultas",
                     "pt": "Consultas"
                   },
@@ -30258,6 +30243,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Split Payment",
+                    "es": "Split de pagos",
+                    "pt": "Split de Pagamento"
+                  },
+                  "slug": {
+                    "en": "split-payment",
+                    "es": "split-de-pagos",
+                    "pt": "split-de-pagamento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -30315,37 +30315,6 @@
                     "en": "configuring-payment-with-mercado-pago-in-vtex-sales-app",
                     "es": "configurar-pagos-con-mercado-pago-en-vtex-sales-app",
                     "pt": "configurar-pagamento-com-mercado-pago-no-vtex-sales-app"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Other",
-                "es": "Otros",
-                "pt": "Outros"
-              },
-              "slug": {
-                "en": "other",
-                "es": "otros",
-                "pt": "outros"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Setting up alternative accounts",
-                    "es": "Configurar cuentas alternativas",
-                    "pt": "Configurar contas alternativas"
-                  },
-                  "slug": {
-                    "en": "setting-up-alternative-accounts",
-                    "es": "configurar-cuentas-alternativas",
-                    "pt": "configurando-contas-alternativas"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -58711,13 +58680,13 @@
             {
               "name": {
                 "en": "Order stuck at seller status cancellation-request-denied-ffm",
-                "es": "Pedido bloqueado en el estado del vendedor cancellation-request-denied-ffm",
-                "pt": "Pedido preso no status de vendedor cancellation-request-denied-ffm"
+                "es": "Pedido atascado en estado de vendedor: solicitud de cancelación denegada (ffm)",
+                "pt": "Pedido preso com status de vendedor cancellation-request-denied-ffm"
               },
               "slug": {
                 "en": "order-stuck-at-seller-status-cancellationrequestdeniedffm",
-                "es": "pedido-bloqueado-en-el-estado-del-vendedor-cancellationrequestdeniedffm",
-                "pt": "pedido-preso-no-status-de-vendedor-cancellationrequestdeniedffm"
+                "es": "pedido-atascado-en-estado-de-vendedor-solicitud-de-cancelacion-denegada-ffm",
+                "pt": "pedido-preso-com-status-de-vendedor-cancellationrequestdeniedffm"
               },
               "origin": "",
               "type": "markdown",
