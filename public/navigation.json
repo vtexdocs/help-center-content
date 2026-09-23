@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Ship from store for marketplaces available in open beta",
+                    "es": "Ship from store for marketplaces",
+                    "pt": "Ship from store para marketplaces disponível em open beta"
+                  },
+                  "slug": {
+                    "en": "2026-09-15-ship-from-store-for-marketplace",
+                    "es": "2026-09-15-ship-from-store-for-marketplaces",
+                    "pt": "2026-09-15-inventario-regionalizado-disponivel-para-o-magalu"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "VTEX CX Platform: WhatsApp automation execution logs",
                     "es": "VTEX CX Platform: logs de ejecución de las automatizaciones de WhatsApp",
                     "pt": "VTEX CX Platform: logs de execução das automações de WhatsApp"
@@ -31262,6 +31277,21 @@
                     "en": "refurbished-products-on-mercado-libre",
                     "es": "productos-reacondicionados-en-mercado-libre",
                     "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Ship from store for marketplaces",
+                    "es": "Ship from store para marketplaces",
+                    "pt": "Ship from store para marketplaces"
+                  },
+                  "slug": {
+                    "en": "ship-from-store-for-marketplaces",
+                    "es": "ship-from-store-para-marketplaces",
+                    "pt": "ship-from-store-para-marketplaces"
                   },
                   "origin": "",
                   "type": "markdown",
