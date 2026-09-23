@@ -13,7 +13,7 @@ order: 2
 
 Este artigo descreve os requisitos técnicos para utilizar o **VTEX Sales App**.
 
-> ℹ️ Algumas funcionalidades específicas do **Sales App** podem exigir outros requisitos técnicos, este artigo é voltado para o uso básico do **Sales App**.
+> ℹ️ Algumas funcionalidades específicas do **Sales App** podem exigir outros requisitos técnicos. Este artigo é voltado para o uso básico do **Sales App**.
 
 ## Equipamento obrigatório
 
