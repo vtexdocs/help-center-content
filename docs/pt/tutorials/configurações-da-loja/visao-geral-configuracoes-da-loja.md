@@ -1,5 +1,5 @@
 ---
-title: 'Configurações da Loja - Visão geral'
+title: 'Configurações da Loja'
 id: 6VtlMoid6iM9dP14X1CopT
 status: PUBLISHED
 createdAt: 2023-03-29T23:00:51.439Z
@@ -13,7 +13,7 @@ slugEN: store-settings-overview
 legacySlug: visao-geral-configuracoes-da-loja
 locale: pt
 subcategoryId: 5RAUzLD6X9Wa1maenj1eGA
-order: 1
+categoryCover: true
 ---
 
 **Configurações da Loja** são as configurações aplicadas à sua loja, o que inclui o seu storefront. Elas estão agrupadas na seção __Configurações da Loja__, no menu de navegação esquerdo do Admin VTEX. Aqui, você pode acessar as configurações aplicadas às seguintes seções: Pagamentos, Pedidos, Templates de Email, Produtos, Storefront, Canais e Intelligent Search.
@@ -77,5 +77,5 @@ Na seção Intelligent Search, você pode definir as configurações gerais da b
 - [Sinônimos](/pt/docs/tutorials/criar-sinonimos)
 - [Status da indexação](/pt/docs/tutorials/historico-da-indexacao)
 - [Regras de Relevância](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3nVgV8UuUJYXwV0o2tgZ9g)
-- [Analytics](/pt/docs/tutorials/analytics)
+- [Analytics](/pt/docs/tutorials/intelligent-search-analytics)
 - [Redirecionamentos](/pt/docs/tutorials/configurar-redirecionamentos)

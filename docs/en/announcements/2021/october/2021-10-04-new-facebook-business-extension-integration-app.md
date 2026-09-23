@@ -40,7 +40,7 @@ In addition, the integration with the _Facebook Business Extension and Conversio
 
 The Facebook Business Extension e Conversions API app is fully compatible with stores operating with VTEX IO, and partially compatible with stores that are CMS or [Headless](https://vtex.com/en/blog/strategy/headless-commerce-what-it-is-and-why-its-growing-so-fast/). To identify which model your store operates with, go to [Edition App](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-edition-app). In the table below, you can see the features available for each case:
 
-| **VTEX IO** | **CMS or Headless** |
+| VTEX IO | CMS or Headless |
 | ---------- | ---------- |
 | Facebook Pixel | --- |
 | Conversions API | Conversions API (purchase only) |

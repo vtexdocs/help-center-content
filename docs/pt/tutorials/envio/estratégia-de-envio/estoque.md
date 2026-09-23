@@ -37,4 +37,4 @@ Saiba mais sobre como gerenciar componentes logísticos na plataforma VTEX:
 * Para acompanhar e gerenciar os itens do estoque consulte o [Gerenciamento de inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque).
 * Para configurar e gerenciar a relação entre os estoques e as retiradas dos pedidos consulte [Gerenciamento de docas.](/pt/docs/tutorials/gerenciar-doca)
 
-> ⚠️ A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é: <body> <ol> <li>[Política de Envio](/pt/docs/tutorials/politica-de-envio)</li> <li>[Doca](/pt/docs/tutorials/doca)</li> <li>Estoque</li> </ol> </body>
+> ⚠️ A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é: <ol> <li>[Política de Envio](/pt/docs/tutorials/politica-de-envio)</li> <li>[Doca](/pt/docs/tutorials/doca)</li> <li>Estoque</li> </ol>

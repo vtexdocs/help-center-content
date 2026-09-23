@@ -24,19 +24,19 @@ Para configurar uma [regra de merchandising](/pt/docs/tutorials/regras-de-mercha
     * **Nome da regra**: nome da regra de merchandising. Exemplo: promover o produto A quando a pesquisa for Biscoito de chocolate.
     * **Data de início (opcional)**: agendamento da data a partir da qual a regra de merchandising será aplicada. A data segue o fuso horário UTC-0.
     * **Data de término (opcional)**: agendamento da data em que a regra de merchandising não será mais aplicada às buscas na loja. A data segue o fuso horário UTC-0.
-    * **Aplicar aos idiomas:** idiomas aos quais a regra de merchandising será aplicada. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta).
+    * **Aplicar aos idiomas:** idiomas aos quais a regra de merchandising será aplicada. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma).
 5. Clique em **Editor visual**. Para mais informações sobre cada editor, confira [Tipos de edição](/pt/docs/tutorials/regras-de-merchandising#tipos-de-edicao).
 6. Clique em `Próximo`.
 7. Defina ao menos um termo de busca ou um filtro para a aplicação da regra de merchandising:
     * Para definir um termo de busca, digite o termo na barra de busca (item **II** na seção [Ações disponíveis no Editor visual](#acoes-disponiveis-no-editor-visual])).
-    * Para criar um filtro para aplicação da regra de merchandising (item **III** na seção [Ações disponíveis no Editor visual](#acoes-disponiveis-no-editor-visual])), siga o passo a passo descrito na seção [Adicionar filtros e condições](/pt/tutorial/criar-regra-de-merchandising-editor-visual-beta--6xteumx9MsDt0uEppbChu3#adicionar-filtros-e-condicoes).
+    * Para criar um filtro para aplicação da regra de merchandising (item **III** na seção [Ações disponíveis no Editor visual](#acoes-disponiveis-no-editor-visual])), siga o passo a passo descrito na seção [Adicionar filtros e condições](https://help.vtex.com/pt/docs/tutorials/criar-regra-de-merchandising-editor-visual#adicionar-filtros-e-condicoes).
 8. Se desejar, realize as ações opcionais citadas a seguir para customizar os resultados de busca:
     * Definir quantidade de itens por linha nos resultados de busca.
     * Definir quantidade de itens por página nos resultados de busca.
     * Ocultar produto nos resultados de busca.
     * Pinar produto, ou seja, fixá-lo nas primeiras posições dos resultados de busca.
     * Arrastar produto pinado para a posição desejada nos resultados de busca.
-    * Editar configurações iniciais da regra de merchandising, que incluem o nome da regra, as datas de início e de término e, caso a loja utilize o [Configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta), os idiomas aos quais ela será aplicada.
+    * Editar configurações iniciais da regra de merchandising, que incluem o nome da regra, as datas de início e de término e, caso a loja utilize o [Configurações Multi-idioma](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma), os idiomas aos quais ela será aplicada.
 
     Saiba mais sobre essas ações nos itens **IV, V, VI, VIII, IX** e **XI** da seção [Ações disponíveis no Editor visual](#acoes-disponiveis-no-editor-visual]).
 9. Clique em `Salvar`.
@@ -66,13 +66,13 @@ O Editor visual de regras de merchandising do VTEX Intelligent Search permite re
 			<li class="t-body c-on-base mb5 lh-copy">**Data de lançamento:** data de lançamento do produto.</li>
 			<li class="t-body c-on-base mb5 lh-copy">**Promoção:** indica se o produto faz parte ou não de uma promoção.</li> 
 			<li class="t-body c-on-base mb5 lh-copy">**Desconto:** desconto aplicado sobre o produto.</li>
-			<li class="t-body c-on-base mb5 lh-copy">**Variedade de matriz disponível: **representa o percentual de SKUs disponíveis do produto. Por exemplo, se um produto tem cinco SKUs e somente três estão disponíveis, a variedade de matriz disponível será 60%, representada como 0.6 neste campo. Se todos os SKUs estiverem disponíveis, o valor do campo será 1.</li>
+			<li class="t-body c-on-base mb5 lh-copy">**Variedade de matriz disponível:** representa o percentual de SKUs disponíveis do produto. Por exemplo, se um produto tem cinco SKUs e somente três estão disponíveis, a variedade de matriz disponível será 60%, representada como 0.6 neste campo. Se todos os SKUs estiverem disponíveis, o valor do campo será 1.</li>
 	   </ul>
     </li>
     <li class="t-body c-on-base mb5 lh-copy">Arrastar produto pinado para a posição desejada nos resultados de busca. É possível apenas arrastar produtos que foram pinados (ação **IX** nesta lista).</li>
     <li class="t-body c-on-base mb5 lh-copy">Pinar produto, ou seja, fixá-lo nas primeiras posições dos resultados de busca. Ao fixar o produto A e, em seguida, fixar o produto B, eles aparecerão nesta ordem nos resultados de busca, antes dos demais. Para despinar um produto, passe o cursor sobre ele e clique no ícone de alfinete riscado <i class="fas fa-thumbtack"></i>.</li>
     <li class="t-body c-on-base mb5 lh-copy">Navegar entre páginas de resultados de busca.</li>
-    <li class="t-body c-on-base mb5 lh-copy">Editar configurações iniciais da regra de merchandising, que incluem o nome da regra, as datas de início e de término e, caso a loja utilize o [Configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta), os idiomas aos quais ela será aplicada.</li>
+    <li class="t-body c-on-base mb5 lh-copy">Editar configurações iniciais da regra de merchandising, que incluem o nome da regra, as datas de início e de término e, caso a loja utilize o [Configurações Multi-idioma](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma), os idiomas aos quais ela será aplicada.</li>
      <li class="t-body c-on-base mb5 lh-copy">Cancelar edição.</li>
     <li class="t-body c-on-base mb5 lh-copy">Salvar configurações.</li>
 </ol>

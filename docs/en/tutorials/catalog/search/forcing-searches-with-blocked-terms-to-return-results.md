@@ -15,9 +15,9 @@ locale: en
 subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 ---
 
-> ⚠️ **Warning**: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ VTEX has two search options - VTEX Search (Legacy) and VTEX Intelligent Search. This article refers to the VTEX Search (Legacy). To learn more about VTEX Intelligent Search, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
-To make customer searches more accurate, VTEX search engine ignores some terms that are very common. Some examples are the words "com" and "todo", from Portuguese, "that" and "with", from English, and "hace" and "uno", from Spanish. [See here the complete list of blocked terms](/en/faq/why-vtex-search-engine-ignores-some-terms).
+To make customer searches more accurate, VTEX Search (Legacy) engine ignores some terms that are very common. Some examples are the words "com" and "todo", from Portuguese, "that" and "with", from English, and "hace" and "uno", from Spanish. [See here the complete list of blocked terms](/en/faq/why-vtex-search-legacy-engine-ignores-some-terms).
 
 However, this behavior sometimes causes difficulties for the store.
 
@@ -29,13 +29,13 @@ To work around this scenario, you can choose one of the following two actions.
 
 ## Create a folder in CMS with the searched term name
 
-VTEX search engine returns several types of results, following the order of priority below:
+VTEX Search (Legacy) engine returns several types of results, following the order of priority below:
 - Landing page (title of the CMS folder).
 - Brand.
 - Department.
 - Keyword.
 
-When the customer searches for the title of a product, the case is that of the keyword, which - despite being the most common - is the one with lowest priority.
+When the customer searches for the title of a product, the case is that of the keyword, which - despite being the most common - is the one with the lowest priority.
 
 Following the example above, if the user searches only for "Uno", the site will not yield any results.
 
@@ -47,6 +47,6 @@ This will bring the user to this folder. All you need to do then is point it to 
 
 Another alternative to force searches with blocked terms to return relevant search results is through a __redirect__ procedure.
 
-Again following our example, you can create a 301 redirect from the `{AccountName}.com.br/Uno` URL to the product page.
+Again following our example, you can create a 301 redirect from the `{accountName}.com.br/Uno` URL to the product page.
 
-Whenever someone searches for "Uno", the URL that will be created is the previos one, and the user will be automatically taken to the product page.
+Whenever someone searches for "Uno", the URL that will be created is the previous one, and the user will be automatically taken to the product page.

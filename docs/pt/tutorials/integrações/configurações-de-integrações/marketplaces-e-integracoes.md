@@ -19,8 +19,8 @@ A página __Marketplaces e Integrações__ facilita o encontro e a comunicação
 
 Dos marketplaces disponibilizados, temos a opção de marketplace VTEX e marketplace externo, entenda a diferença de cada nomenclatura que aparece na coluna Tipo de integração.  
 
-| **Tipo de integração** | **Descrição** |
-|:---:|:---:| 
+| Tipo de integração | Descrição |
+|---|---| 
 | **VTEX** | São os perfis de clientes VTEX que optaram abrir o seu ambiente para que sellers divulguem seus produtos para venda. |
 | **Externo** | São aqueles marketplaces que não são clientes VTEX e desenvolveram a integração, seja ela certificada ou parceira. |
 
@@ -34,8 +34,8 @@ Para acessar a página, no Admin VTEX clique em __Marketplace > Conexões > Mark
 
 A tabela que lista os marketplaces possui as seguintes colunas:  
 
-| **Coluna** | **Descrição** |  
-|:---:|:---:|  
+| Coluna | Descrição |  
+|---|---|  
 | Marketplace | Nome do marketplace disponível para integração. O ícone <i class="fas fa-check-circle" style="color: #3c75d7;"></i> estará presente nos nomes de marketplaces certificados pela VTEX. |  
 | Segmento | Informa em qual segmento o marketplace atua. |  
 | País | Informa em quais países aquele marketplace atua. |  

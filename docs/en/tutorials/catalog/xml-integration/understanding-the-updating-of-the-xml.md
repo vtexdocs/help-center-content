@@ -17,7 +17,7 @@ subcategoryId: 2OCA7SVfWoMSiAi0GEGwKo
 
 In case of recurring queries, the XML is updated approximately every 2 hours.
 
-This query means that the XML was called in less than 48 hours. Those XMLs not called in the last 48 hours are not updated until a new call is made. This is done to keep up to date only the XMLs used.
+This query means that the XML was called in less than 48 hours. Those XMLs not called in the last 48 hours are not updated until a new call is made. This is done to keep only the XMLs in use up to date.
 
 You can view the date of the latest XML update. This information is shown in UTC time at the foot of the document, as illustrated below.
 

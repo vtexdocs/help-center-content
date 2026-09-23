@@ -54,7 +54,7 @@ La siguiente tabla muestra la descripción y un ejemplo de valor de los campos d
 > ℹ️ Para importar una nueva imagen, los únicos campos obligatorios son **ID SKU** y **URL de importación de imagen**. Consulta las [Buenas prácticas de uso de imágenes en el módulo Catálogo](/es/docs/tutorials/buenas-practicas-para-el-uso-de-imagenes-en-el-catalogo).
 
 | Campo | Descripción | Ejemplo |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | ID Producto | Código numérico único identificador del producto. | 310117603 |
 | Nombre Producto | Nombre del producto que los clientes ven al navegar. | Camiseta de algodón |
 | ID SKU* | Código numérico único que identifica el SKU. | 310119261 |

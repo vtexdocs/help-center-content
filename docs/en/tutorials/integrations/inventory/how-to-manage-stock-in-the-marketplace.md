@@ -27,7 +27,7 @@ This option will be chosen if you want to configure the marketplace to use the s
 
 This means that the marketplace doesn't demand a special term or price, then, there is no need for a new configuration.
 
-So, simply [join the same commercial policy to the new marketplace](/en/tutorial/configuring-a-marketplace-sales-policy).
+So, [join the same commercial policy to the new marketplace](/en/tutorial/configuring-a-marketplace-sales-policy).
 
 ## Using a customized stock
 

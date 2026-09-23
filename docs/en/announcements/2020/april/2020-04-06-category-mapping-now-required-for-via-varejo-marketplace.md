@@ -21,7 +21,7 @@ The product integration flow on the Via Varejo Marketplace was [modified in thei
 
 There was no need for mapping to activate the Via Varejo Integration before this change. Mapping categories, variations and attributes for your products is henceforth __mandatory__.
 
-> ⚠️ **Attention:** Products created or updated after this change will only be integrated if their category, variations and attributes are mapped out.
+> ⚠️ Products created or updated after this change will only be integrated if their category, variations and attributes are mapped out.
 
 ## Why did we make this change?
 

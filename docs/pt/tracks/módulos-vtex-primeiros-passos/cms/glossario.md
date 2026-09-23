@@ -33,7 +33,7 @@ A tabela de conceitos a seguir apresenta terminologias relacionadas ao VTEX CMS.
 | Blocos   | Blocos são componentes para criar a frente de loja em VTEX IO. São eles: Blocos básicos, como o [Rich Text](https://developers.vtex.com/vtex-developer-docs/docs/vtex-rich-text#rich-text) e [Info Card](https://developers.vtex.com/vtex-developer-docs/docs/vtex-store-components-infocard); Blocos layout, como o [Slider layout](https://developers.vtex.com/vtex-developer-docs/docs/vtex-slider-layout) e Blocos personalizados que você pode desenvolver para sua loja, como um bloco de contagem regressiva. |
 | Localidade  | A localidade do *binding* à qual as mudanças de conteúdo devem ser aplicadas. Por exemplo: Inglês (en-GB), Português (pt-BR) e Espanhol (es-AR). </br> Artigo relacionado: [Gerenciando conteúdo por binding](/pt/docs/tutorials/gerenciando-conteudo-por-binding) |
 | Preview    | O modo __preview__ permite que você visualize, no mesmo instante, uma versão do conteúdo de sua Loja no módulo [Site Editor](/pt/docs/tutorials/site-editor-visao-geral).|
-| *Workspace *  | __Workspaces__ podem ser entendidos como versões diferentes da mesma conta VTEX. Isso significa que as alterações realizadas em seu próprio __workspace__ não afetam a versão ativa (workspace de produção) de sua loja ou o trabalho de outros desenvolvedores. Existem dois tipos principais de workspaces na VTEX: **Workspace de desenvolvimento** - fornece mais liberdade de desenvolvimento. **Workspace de produção** - suporta tráfego de produção. Artigo relacionado: [Workspace](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-workspace)|
+| *Workspace*  | __Workspaces__ podem ser entendidos como versões diferentes da mesma conta VTEX. Isso significa que as alterações realizadas em seu próprio __workspace__ não afetam a versão ativa (workspace de produção) de sua loja ou o trabalho de outros desenvolvedores. Existem dois tipos principais de workspaces na VTEX: **Workspace de desenvolvimento** - fornece mais liberdade de desenvolvimento. **Workspace de produção** - suporta tráfego de produção. Artigo relacionado: [Workspace](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-workspace)|
 | Versão de conteúdo  | A versão de um bloco é uma cópia de seu conteúdo em um momento específico. Por exemplo, um Carrossel pode ter versões predefinidas para futuras campanhas de marketing, como Black Friday e Dia dos Namorados, com banners de conteúdo específico.Artigo relacionado: [Gerenciando versões de conteúdo](/pt/docs/tutorials/gerenciando-versoes-de-conteudo)|
 
 ## Portal Legado 
@@ -46,9 +46,9 @@ A tabela de conceitos a seguir apresenta terminologias relacionadas ao VTEX CMS.
 | Placeholders  | Elementos de front-end (Banner DHTML, HTML, Coleção, Banner, Produtos relacionados) para as páginas do sua loja. O layout define quais placeholders vão ser usados e o que eles exibem, mas é o código (ou seja, o template) que vai dizer onde eles aparecem na página. |
 | Controles | Os controles nativos da VTEX renderizam diversas funcionalidades úteis e replicáveis nos templates do seu site. Por exemplo, ao inserir o controle `vtex.cmc:productName/` na sua página de produto, o sistema renderizará automaticamente o nome do produto. Artigo relacionado: [Lista de controles para templates](https://developers.vtex.com/docs/guides/list-of-controls-for-templates).|
 
-## Headless CMS 
+## Headless CMS (Legacy) 
 
 | Conceito | Descrição |
 | -------- | --------- |
-| VTEX Headless CMS | Sistema de gerenciamento de conteúdo de frente de loja sem código que permite aos usuários armazenar e acessar conteúdo estruturado em uma camada separada do front-end por meio de um aplicativo VTEX. |
+| VTEX Headless CMS (Legacy) | Sistema de gerenciamento de conteúdo de frente de loja sem código que permite aos usuários armazenar e acessar conteúdo estruturado em uma camada separada do front-end por meio de um aplicativo VTEX. |
 

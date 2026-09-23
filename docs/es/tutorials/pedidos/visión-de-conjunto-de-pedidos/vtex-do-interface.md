@@ -74,7 +74,7 @@ Las tareas gestionadas a través de VTEX DO pueden incluir mensajes de todos los
    </td>
    <td>Se creó una solicitud de reembolso de pago.
    </td>
-   <td>Accede a los **Detalles de la tarea **> Haz clic en **Ver detalles** > Autoriza o cancela el reembolso del pago en la página **Detalles de la transacción**.
+   <td>Accede a los **Detalles de la tarea**> Haz clic en **Ver detalles** > Autoriza o cancela el reembolso del pago en la página **Detalles de la transacción**.
    </td>
   </tr>
   <tr>
@@ -82,7 +82,7 @@ Las tareas gestionadas a través de VTEX DO pueden incluir mensajes de todos los
    </td>
    <td>El pedido se generó con un valor fuera de la[ Regla de divergencia de precios](/es/docs/tutorials/regla-de-divergencia-de-precios) configurada.
    </td>
-   <td>Accede a los **Detalles de la tarea **> Haz clic en **Ver detalles **> Autoriza o cancela el pedido en la página **Detalles del pedido**.
+   <td>Accede a los **Detalles de la tarea**> Haz clic en **Ver detalles**> Autoriza o cancela el pedido en la página **Detalles del pedido**.
    </td>
   </tr>
   <tr>
@@ -90,7 +90,7 @@ Las tareas gestionadas a través de VTEX DO pueden incluir mensajes de todos los
    </td>
    <td>El comprador solicitó la cancelación de su pedido. Sugerimos que el centro de atención al cliente de tu tienda se ponga en contacto con la persona para ofrecerle ayuda antes de cancelar el pedido.
    </td>
-   <td>Accede a los **Detalles de la tarea **> Haz clic en **Ver detalles **> Autoriza o cancela el pedido en la página **Detalles del pedido**.
+   <td>Accede a los **Detalles de la tarea**> Haz clic en **Ver detalles**> Autoriza o cancela el pedido en la página **Detalles del pedido**.
    </td>
   </tr>
   <tr>
@@ -98,7 +98,7 @@ Las tareas gestionadas a través de VTEX DO pueden incluir mensajes de todos los
    </td>
    <td>Los pedidos de[ suscripción](/es/docs/tutorials/como-configurar-suscripciones) generalmente no se autorizan por problemas con la tarjeta de crédito del comprador. Sugerimos que el centro de atención al cliente de tu tienda se ponga en contacto con la persona para ofrecerle ayuda.
    </td>
-   <td>Accede a los **Detalles de la tarea **> Haz clic en **Ver detalles **> Autoriza o cancela el pedido en la página **Detalles del pedido**.
+   <td>Accede a los **Detalles de la tarea**> Haz clic en **Ver detalles**> Autoriza o cancela el pedido en la página **Detalles del pedido**.
    </td>
   </tr>
   <tr>
@@ -106,7 +106,7 @@ Las tareas gestionadas a través de VTEX DO pueden incluir mensajes de todos los
    </td>
    <td>El valor de la compra es menor que el *markup* o el margen de beneficio mínimo del[ precio base de un SKU](/es/docs/tracks/registrar-precio-base).
    </td>
-   <td>Accede a los **Detalles de la tarea **> Haz clic en **Ver detalles **> Autoriza o cancela el pedido en la página **Detalles del pedido**.
+   <td>Accede a los **Detalles de la tarea**> Haz clic en **Ver detalles**> Autoriza o cancela el pedido en la página **Detalles del pedido**.
    </td>
   </tr>
 </table>
@@ -121,7 +121,7 @@ Al hacer clic en el nombre de una tarea de la lista, se te redirige al modal de 
 - **Tags:** marcadores asociados automáticamente a la tarea que se utilizan para filtrar la lista y dar más detalles sobre el contexto, status y origen de la tarea. No es posible configurar tus propias _tags_. Solo son creadas por el sistema del Admin VTEX.    
 - **Descripción:** texto que incluye información adicional sobre la tarea.
 - **ID de pago/ID de pedido:** si la tarea está relacionada a un pedido, el campo mostrará el ID del pedido.  Por otro lado, si está relacionada a un pago, el campo mostrará el ID del pago.
-- **Creada en: **la fecha y hora de creación de la tarea.
+- **Creada en:** la fecha y hora de creación de la tarea.
 
 Los botones en el modal de detalles de la tarea incluyen:
 

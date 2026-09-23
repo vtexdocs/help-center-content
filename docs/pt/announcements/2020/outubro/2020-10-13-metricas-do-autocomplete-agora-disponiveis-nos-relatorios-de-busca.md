@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Para permitir uma análise mais completa do comportamento de busca, incluímos as métricas do Autocomplete neste relatório'
 ---
 
-Para analisar e monitorar o desempenho do [VTEX lntelligent Search](/pt/docs/tracks/visao-geral-intelligent-search), é possível visualizar e exportar [relatórios](/pt/docs/tutorials/analytics) com dados relacionados às pesquisas realizadas na loja. Para permitir uma análise mais completa do comportamento de busca, incluímos as métricas do [Autocomplete](/pt/docs/tutorials/autocomplete) nestes relatórios.
+Para analisar e monitorar o desempenho do [VTEX lntelligent Search](/pt/docs/tracks/visao-geral-intelligent-search), é possível visualizar e exportar [relatórios](/pt/docs/tutorials/intelligent-search-analytics) com dados relacionados às pesquisas realizadas na loja. Para permitir uma análise mais completa do comportamento de busca, incluímos as métricas do [Autocomplete](/pt/docs/tutorials/autocomplete) nestes relatórios.
 
 ## O que mudou?
 Antes só era possível visualizar e exportar relatórios sobre os resultados de busca e os termos utilizados na pesquisa. Agora é possível também analisar o desempenho das sugestões de busca feitas pelo Autocomplete.
@@ -23,7 +23,7 @@ Antes só era possível visualizar e exportar relatórios sobre os resultados de
 <table width = "100%">
   <tr>
     <td>
-      <img src = "https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/october/2020-10-13-metricas-do-autocomplete-agora-disponiveis-nos-relatorios-de-busca_1.png" style = "display:block; margin-left: auto; margin-right: auto;" alt = "Opções de filtros do relatório" title = "Opções de filtros do relatório">
+      <img src = "https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020/outubro/2020-10-13-metricas-do-autocomplete-agora-disponiveis-nos-relatorios-de-busca_1.png" style = "display:block; margin-left: auto; margin-right: auto;" alt = "Opções de filtros do relatório" title = "Opções de filtros do relatório" />
     </td>
   </tr>
   <tr>

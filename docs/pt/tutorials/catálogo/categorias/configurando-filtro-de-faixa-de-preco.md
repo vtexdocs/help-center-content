@@ -1,5 +1,5 @@
 ---
-title: 'Configurar filtro de faixa de preço'
+title: 'Configurando filtro de faixa de preço'
 id: tutorials_240
 status: PUBLISHED
 createdAt: 2017-04-27T22:12:49.904Z

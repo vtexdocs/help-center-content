@@ -22,7 +22,7 @@ To set up Pagar.me, follow the steps below:
 1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
 2. On the providers screen, click the `New Provider` button.
 3. Type the name __Pagar.me__ in the search bar and click on the name of the provider.
-4. In the __External Service Url__ field, configure the external URL that will be associated with `/pvt/payments?an={AccountName}`.
+4. In the __External Service Url__ field, configure the external URL that will be associated with `/pvt/payments?an={accountName}`.
 5. Fill in the registration fields with the data provided by Pagar.me (fields __appKey__ and __appToken__).
 6. In __Implements Installments Service__, you must choose whether you want to use external installment services or the one that is configured on the portal. If you choose _yes_, the system will use the URL configured in the __Installments Service Url__ field.
 7. In __External Cancellation Service__, you must define whether or not to use an external cancellation service. If you choose _yes_, the system will use the URL configured in the __External Service Url__ field.

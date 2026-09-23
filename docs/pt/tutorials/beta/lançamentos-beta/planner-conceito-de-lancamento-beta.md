@@ -28,7 +28,7 @@ Um lançamento significa uma modificação ou um agrupamento de modificações q
 * Maior controle ao testar e revisar modificações antes de sua publicação.
 * Facilidade em agendar ou excluir grupos de modificações.
 
-> ⚠️ Na fase beta, os lançamentos precisam estar relacionados ao [CMS](/pt/docs/tracks/cms-vtex-io), pois outros módulos da plataforma VTEX ainda não estão inclusos. Para utilizar o **Lançamentos**, é necessário configurar o CMS conforme descrito em [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
+> ⚠️ Na fase beta, os lançamentos precisam estar relacionados ao [CMS](/pt/docs/tracks/cms-vtex-io), pois outros módulos da plataforma VTEX ainda não estão inclusos. Para utilizar o **Lançamentos**, é necessário configurar o CMS conforme descrito em [Installing Releases on VTEX Headless CMS (Legacy)](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 A funcionalidade pode ser acessada pelo menu de navegação do Admin VTEX **Lançamentos**, no qual existem as seguintes páginas:
 
@@ -39,8 +39,8 @@ A funcionalidade pode ser acessada pelo menu de navegação do Admin VTEX **Lan�
 
 Um lançamento pode ter diferentes status desde a sua criação até a sua publicação ou exclusão, por exemplo. Nas páginas [Calendário](/pt/docs/tutorials/planner-pagina-calendario-beta) e [Lançamentos](/pt/docs/tutorials/planner-pagina-lancamentos-beta), o status de cada lançamento é apresentado associado a uma cor, conforme apresentado na tabela abaixo:
 
-| **Status** | **Cor** | **Definição** |
-|:---:|:---:|:---:|
+| Status | Cor | Definição |
+|---|---|---|
 | `Agendado` | Azul | Existe uma data definida para a publicação do lançamento. |
 | `Não agendado` | Cinza | Não existe uma data definida para a  publicação do lançamento. |
 | `Em fila` | Verde  (piscando) | A publicação do lançamento está em etapa de implantação e nenhuma ação por parte do lojista é necessária para que o lançamento passe para o status seguinte, que pode ser `Publicando` ou `Publicação falhou`. |

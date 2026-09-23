@@ -28,7 +28,7 @@ Os principais benefícios com o módulo são:
 - Maior controle ao testar e revisar mudanças antes da publicação.
 - Facilidade em agendar ou excluir grupos de modificações.
 
-> ℹ️ Para utilizar o módulo **Lançamentos** é necessário realizar a configuração do CMS. Saiba mais em [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
+> ℹ️ Para utilizar o módulo **Lançamentos** é necessário realizar a configuração do CMS. Saiba mais em [Installing Releases on VTEX Headless CMS (Legacy)](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 O artigo trata adiante dos seguintes tópicos:
 
@@ -90,7 +90,7 @@ Todos os lançamentos criados aparecem listados no Admin VTEX, em **Configuraç�
 
 Na aba `AGENDADOS`, a descrição de cada coluna é a seguinte:
 
-| **Coluna** | **Descrição** |
+| Coluna | Descrição |
 | ---------- | ---------- |
 | Nome | Nome que identifica o lançamento, definido na etapa de criação. Pode ser editado a qualquer hora, desde que o lançamento não esteja publicado. |
 | Última modificação | Tempo transcorrido desde a última alteração relacionada ao lançamento, tais como atualização, acréscimo ou exclusão de conteúdo. |

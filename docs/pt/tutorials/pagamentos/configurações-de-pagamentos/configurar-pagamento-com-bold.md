@@ -1,18 +1,12 @@
 ---
 title: 'Configurar pagamento com Bold'
-id:
-status: PUBLISHED
-createdAt: 2026-01-26T00:00:00.000Z
-updatedAt: 2026-01-26T00:00:00.000Z
-publishedAt: 2026-01-26T00:00:00.000Z
-firstPublishedAt: 2026-01-26T00:00:00.000Z
+createdAt: 2026-07-26T00:00:00.000Z
+updatedAt: 2026-07-26T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-bold
-legacySlug: configurar-pagamento-com-bold
 locale: pt
-subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+hidden: false
 ---
 
 Na VTEX, é possível realizar a integração com o provedor de pagamento Bold. Por meio deste provedor, sua loja pode oferecer o meio de pagamento Paga en línea con Bold.
@@ -41,7 +35,7 @@ Para configurar Bold, siga os passos abaixo:
 3. Clique em **Paga en línea con Bold**.
 4. Ative a condição no campo **Status**.
 5. Se desejar utilizar um sistema antifraude, selecione a opção **Usar solução antifraude**.
-6. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/docs/tutorials/condicoes-especiais).
+6. Se desejar, você também pode [configurar condições especiais de pagamento](https://help.vtex.com/pt/docs/tutorials/condicoes-especiais).
 7. Clique em `Salvar`.
 
 Depois de seguir os passos indicados, o conector Bold pode demorar até 10 minutos para aparecer no Checkout da sua loja como uma opção de pagamento.

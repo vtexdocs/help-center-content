@@ -97,7 +97,7 @@ Preencha a planilha de acordo com as informações da tabela abaixo:
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 2px; border-collapse: collapse;">
     <thead class="w-100 center mv7 bb b--gray" style="border-spacing: 2px; border-collapse: collapse;">
   <tr class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
-            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">**Coluna da planilha **
+            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">**Coluna da planilha**
    </th>
    <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">**Preenchimento**
    </th>

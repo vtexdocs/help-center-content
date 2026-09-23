@@ -3,7 +3,7 @@ title: 'Certificados de segurança da informação e privacidade da VTEX'
 id: 3aj7k3rfp3vMa5bnXvoo8r
 status: PUBLISHED
 createdAt: 2025-05-20T13:47:32.398Z
-updatedAt: 2025-05-20T13:52:00.133Z
+updatedAt: 2026-08-24T13:52:00.133Z
 publishedAt: 2025-05-20T13:52:00.133Z
 firstPublishedAt: 2025-05-20T13:52:00.133Z
 contentType: tutorial
@@ -13,6 +13,7 @@ slugEN: vtex-information-security-and-privacy-certificates
 legacySlug: certificados-de-seguranca-da-informacao-e-privacidade-da-vtex
 locale: pt
 subcategoryId: vONCJSxwN5qZiElOEtKkH
+categoryCover: true
 ---
 
 A VTEX adota os mais altos padrões internacionais de segurança da informação e privacidade de dados. Para reforçar esse compromisso, mantemos certificações reconhecidas globalmente, que atestam a conformidade de nossos processos com normas e requisitos internacionais. Este artigo apresenta as certificações mantidas pela VTEX e como acessá-las.
@@ -23,7 +24,13 @@ A ISO 27001 é uma norma internacional que define os requisitos para um Sistema 
 
 A certificação da VTEX foi emitida no Brasil, mas abrange dados e transações globais, já que todos os dados da plataforma são processados em território brasileiro. O escopo da certificação é a plataforma VTEX, com validade internacional.
 
-O certificado está disponível no [VTEX Trust Center](https://compliance.vtex.com/).
+O certificado está disponível no [VTEX Trust Center](https://compliance.vtex.com/?itemUid=1fed9faa-4a87-427c-9a95-96b4d6bf66b7&source=click).
+
+## ISO/IEC 27701
+
+A [ISO/IEC 27701](https://www.iso.org/standard/27701) é uma extensão da ISO/IEC 27001 voltada especificamente para a gestão de informações de privacidade (PIMS - Privacy Information Management System). Ela estabelece requisitos e diretrizes para o tratamento de dados pessoais, reforçando o compromisso da VTEX com boas práticas de privacidade alinhadas a regulações como a LGPD e o GDPR.
+
+O certificado está disponível no [VTEX Trust Center](https://compliance.vtex.com/?itemUid=dc79cbc7-c99d-4eb9-891e-f5dc44b943d7&source=click).
 
 ## PCI-DSS
 
@@ -31,7 +38,7 @@ A PCI-DSS (Payment Card Industry Data Security Standard) é uma certificação o
 
 A VTEX está em conformidade com a versão mais recente da certificação, o PCI-DSS v4.0. Essa certificação é renovada anualmente, com validade de 12 meses a partir da data da auditoria.
 
-O certificado está disponível no [VTEX Trust Center](https://compliance.vtex.com/).
+O certificado está disponível no [VTEX Trust Center](https://compliance.vtex.com/?itemUid=53e1508c-665e-45a8-9ce0-03fdf9ae1efb&source=title).
 
 > ℹ️ No certificado PCI-DSS, a data de emissão está indicada como Assessment End Date. O campo Publication Date refere-se à data em que o padrão PCI foi oficialmente publicado e não à validade do certificado em si.
 
@@ -45,7 +52,7 @@ O certificado analisa os controles executados no ano anterior. Por exemplo, se o
 
 Os certificados geralmente são emitidos no final do primeiro trimestre ou no início do segundo trimestre do ano seguinte ao ano de análise. Caso haja um intervalo entre a validade do último relatório SOC disponível e a próxima auditoria, a VTEX pode emitir uma Bridge Letter (ou Gap Letter) para cobrir o período.
 
-Para obter acesso aos certificados SOC, solicite via [VTEX Trust Center](https://compliance.vtex.com/).
+Para obter acesso aos certificados SOC, solicite via [VTEX Trust Center](https://compliance.vtex.com/?itemUid=4172d827-b055-4117-a2dc-7b0746d7afd0&source=title).
 
 ## Data Privacy Framework (DPF)
 

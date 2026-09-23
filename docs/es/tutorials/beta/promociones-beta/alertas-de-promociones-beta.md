@@ -32,11 +32,11 @@ Para acceder a la página en el Admin VTEX, ve a *Promociones > Alerta de promoc
 La siguiente tabla proporciona la descripción de las columnas de la lista de promociones:
 
 | Columna | Descripción | 
-| ------ |:-------------:|
+| ------ |-------------|
 | Nombre | Nombre de la alerta de promoción. |
 | Alerta | Condición determinada para que se emita la alerta. |
 | Acción preventiva | Acciones que se ejecutarán cuando se active la alerta. |
-| Status | Status de la promoción, que puede ser: ** Activo:** cuando se activa la alerta   **Inactivo:** cuando se desactiva la alerta  |
+| Status | Status de la promoción, que puede ser: **Activo:** cuando se activa la alerta   **Inactivo:** cuando se desactiva la alerta  |
 
  La página Alerta de promociones permite realizar las siguientes acciones:
 

@@ -77,7 +77,7 @@ También es posible crear sinónimos en masa a partir de la importación de un a
 
 ## Buscar sinónimos
 
-La página **Sinónimos **permite buscar cualquier término configurado como sinónimo mediante la barra de búsqueda. Los sinónimos listados se actualizan automáticamente.
+La página **Sinónimos** permite buscar cualquier término configurado como sinónimo mediante la barra de búsqueda. Los sinónimos listados se actualizan automáticamente.
 
 ## Filtrar sinónimos
 

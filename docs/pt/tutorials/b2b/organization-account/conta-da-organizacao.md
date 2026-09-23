@@ -18,8 +18,8 @@ Nessa área empresas podem configurar elementos que controlam como seus usuário
 - Unidades organizacionais
 - Endereços e métodos de pagamento
 - Campos contábeis
-- Orçamentos
-- Buying Policies
+- Budgets
+- Políticas de compras
 
 Essas configurações ajudam empresas a estabelecer governança e regras internas para compras realizadas em lojas utilizando [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt).
 
@@ -67,8 +67,8 @@ A seção **Organization** permite gerenciar a estrutura organizacional da empre
 As opções incluem:
 
 - **Users** — gerenciamento dos [usuários da organização](https://help.vtex.com/pt/docs/tutorials/adicionar-usuarios-a-organizacao-compradora).
-- **Roles** — definição de permissões e funções.
-- **Organizational Units** — criação e gerenciamento de [unidades organizacionais](https://help.vtex.com/pt/docs/tutorials/unidades-organizacionais).
+- **Perfis de acesso** — definição de permissões e funções.
+- **Unidades organizacionais** — criação e gerenciamento de [unidades organizacionais](https://help.vtex.com/pt/docs/tutorials/unidades-organizacionais).
 
 ### Finance and Compliance
 
@@ -77,7 +77,7 @@ A seção **Finance and Compliance** reúne ferramentas de controle financeiro e
 Nela é possível gerenciar:
 
 - **Budgets** — Definição de [orçamentos](https://help.vtex.com/pt/docs/tutorials/visao-geral-de-budgets).
-- **Buying Policies** — [Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-policies) são regras que controlam aprovação, negação ou revisão de pedidos.
+- **Políticas de compras** — [Políticas de compras](https://help.vtex.com/pt/docs/tutorials/politicas-de-compras) são regras que controlam aprovação, negação ou revisão de pedidos.
 
 ### Adicionar entidades
 
@@ -91,7 +91,7 @@ Ao clicar nesse botão, será exibido um menu com opções para criar diferentes
 - **Add user** — Adicionar um usuário à organização.
 - **Add organization unit** — Criar uma nova [unidade organizacional](https://help.vtex.com/pt/docs/tutorials/unidades-organizacionais).
 - **Add budget** — Criar um [orçamento](https://help.vtex.com/pt/docs/tutorials/visao-geral-de-budgets).
-- **Add buying policy** — Criar uma [política de compra](https://help.vtex.com/pt/docs/tutorials/buying-policies).
+- **Add buying policy** — Criar uma [política de compra](https://help.vtex.com/pt/docs/tutorials/politicas-de-compras).
 
 ### Voltar para a loja
 
@@ -103,5 +103,5 @@ Confira nos artigos abaixo mais detalhes sobre as diversas tarefas que podem ser
 
 - [Adicionar usuários à organização compradora](https://help.vtex.com/pt/docs/tutorials/adicionar-usuarios-a-organizacao-compradora)
 - [Adicionar ou editar budgets](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-budgets)
-- [Adicionar ou editar Buying Policies](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-buying-policies)
+- [Adicionar ou editar Políticas de compras](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-politicas-de-compras)
 - [Adicionar ou editar campos contábeis](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-campos-contabeis)

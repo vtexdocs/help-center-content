@@ -25,7 +25,7 @@ On the **Releases** page, you'll see all existing releases listed by the `Not sc
 
 The order of the scheduled releases is based on the publication date: The further into the future a release is, the sooner it'll appear on the list. However, the older the release is, the latest it'll appear.
 
-> ⚠️ In the beta version, releases must be [CMS](/en/docs/tracks/cms-vtex-io)-related, because other VTEX platform modules are not yet included. To use the **Releases**, you must configure the CMS as described in [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
+> ⚠️ In the beta version, releases must be [CMS](/en/docs/tracks/cms-vtex-io)-related, because other VTEX platform modules are not yet included. To use the **Releases**, you must configure the CMS as described in [Installing Releases on VTEX Headless CMS (Legacy)](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 ## List view
 
@@ -33,7 +33,7 @@ Go to the **Releases** navigation menu to access the **Releases** page in the VT
 
 ![Releases list view v2 - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/releases-beta/planner-releases-page-beta_1.png)
 
-| **Field** | **Description** |
+| Field | Description |
 |---|---|
 | **Name** | Name that identifies the release, defined during the creation. It can be edited at any time, as long as the release is not published. |
 | **Last Modified** | Time elapsed since the last modification to the release. |

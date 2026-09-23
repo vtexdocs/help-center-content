@@ -1,5 +1,5 @@
 ---
-title: 'How subscriptions work'
+title: 'Subscriptions'
 id: frequentlyAskedQuestions_4453
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:00.886Z

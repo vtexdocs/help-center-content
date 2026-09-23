@@ -1,5 +1,5 @@
 ---
-title: 'Qué es un kit?'
+title: 'Kits'
 id: 5ov5s3eHM4AqAAgqWwoc28
 status: PUBLISHED
 createdAt: 2018-01-25T21:09:52.277Z
@@ -13,7 +13,6 @@ slugEN: what-is-a-bundle
 legacySlug: que-es-un-kit
 locale: es
 subcategoryId: 17Lkzo2rGBE1Bt7dXjE0tV
-order: 1
 ---
 
 Un kit es un SKU compuesto por uno o más SKUs. Los SKUs que componen un kit se llaman __componentes__.

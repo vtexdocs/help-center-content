@@ -1,0 +1,18 @@
+---
+title: 'Where to use WhatsApp Link?'
+excerpt: "This FAQ is only available in Portuguese."
+id: 6VbyH573udBQJ3j7kfsWeJ
+status: PUBLISHED
+createdAt: 2022-08-30T17:17:43.877Z
+updatedAt: 2022-09-02T18:30:36.227Z
+publishedAt: 2022-09-02T18:30:36.227Z
+firstPublishedAt: 2022-08-30T17:23:14.836Z
+contentType: frequentlyAskedQuestion
+productTeam: VTEX Assisted Sales
+author: 6DODK49lJPk3yvcoe6GB6g
+slugEN: where-to-use-whatsapp-link
+locale: en
+legacySlug: where-to-use-whatsapp-link
+---
+
+> ⚠️ This content is only available in Portuguese.

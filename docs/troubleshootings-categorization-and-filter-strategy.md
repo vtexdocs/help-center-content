@@ -4,7 +4,7 @@ This document describes the recommended categorization and filtering structure f
 
 ## Overview
 
-Based on the analysis of **32 articles** in `docs/pt/troubleshooting`, this strategy proposes:
+Based on the analysis of **31 articles** in `docs/pt/troubleshooting`, this strategy proposes:
 
 - **5 primary categories** (journey/topic navigation)
 - **7 symptom filters** (problem-type navigation)
@@ -65,7 +65,7 @@ Based on the analysis of **32 articles** in `docs/pt/troubleshooting`, this stra
 
 ---
 
-## 4. Mapping of the 32 articles by category (English names + links)
+## 4. Mapping of the 31 articles by category (English names + links)
 
 ### Marketplace and Integrations (7)
 
@@ -86,13 +86,12 @@ Based on the analysis of **32 articles** in `docs/pt/troubleshooting`, this stra
 - [I can’t view the product in the search results](https://help.vtex.com/en/troubleshooting/i-cant-view-the-product-in-the-search-results--2Ry55Fh6JW8v7oKBiB2pH3)
 - [The promotion wasn’t applied to the customer cluster](https://help.vtex.com/en/troubleshooting/the-promotion-wasnt-applied-to-the-customer-cluster--1fQEKdmWwIAPfDQAbuP3Kr)
 
-### Orders and Fulfillment (9)
+### Orders and Fulfillment (8)
 
 - [Metrics are not displayed in the order dashboard](https://help.vtex.com/en/troubleshooting/metrics-are-not-displayed-in-the-order-dashboard--1B5OAicmK3AvnwPzs4iq7Z)
 - [My store’s order is stuck in “Verifying invoice” status](https://help.vtex.com/en/troubleshooting/my-stores-order-still-has-the-status-verifying-invoice--2YY7ILOOd0lEjpiT7SSgag)
 - [My store order was canceled](https://help.vtex.com/en/troubleshooting/my-store-order-was-canceled--6qOCSBno1vS9TmHWWveOc)
 - [My store order was not created](https://help.vtex.com/en/troubleshooting/my-store-order-was-not-created--7xQZqkMHXkHCEEZl5UlX8I)
-- [The order was split into packages with separate deliveries](https://help.vtex.com/en/troubleshooting/the-order-was-split-into-packages-with-separate-deliveries--3OCOC82543vOsc3Ex32XTY)
 - [The order doesn’t progress after “Handling shipping” status](https://help.vtex.com/en/troubleshooting/the-order-doesnt-progress-after-the-status-handling-shipping--2yia6QhoLh204lHzEaIrnK)
 - [The order doesn’t progress after “Ready for handling” status](https://help.vtex.com/en/troubleshooting/the-order-doesnt-progress-after-the-status-ready-for-handling--1Esx82dbr5RHYPOHgEjRGg)
 - [My inventory is negative](https://help.vtex.com/en/troubleshooting/my-inventory-is-negative--JSFHaWsASXbnrX9dgNEeP)

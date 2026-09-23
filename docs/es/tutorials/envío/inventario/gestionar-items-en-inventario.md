@@ -39,7 +39,8 @@ En el Admin VTEX, accede a **Catálogo > Stock > Gestión de stock**, o escribe 
     * **Productos**: el nombre del producto.
     * **Almacén**: indica el almacén de la tienda en el que se encuentra el SKU.
     * **ID del SKU**: código que identifica el SKU.
-    * **Última actualización**: número de unidades del SKU más reciente registrado en la plataforma VTEX.> ℹ️ Al hacer clic en cualquier valor en la columna **Última actualización**, se abrirá la ventana [Registro de actualizaciones](/es/docs/tutorials/historial-de-movimientos-del-stock) con datos de cambios. Cada fila corresponde a una actualización, y las columnas contienen el usuario que realizó el cambio, la fecha de la última actualización y la cantidad de ítems antes y después de la actualización. Solo puedes consultar las últimas 50 actualizaciones en el registro de un SKU.
+    * **Última actualización**: número de unidades del SKU más reciente registrado en la plataforma VTEX.
+      > ℹ️ Al hacer clic en cualquier valor en la columna **Última actualización**, se abrirá la ventana [Registro de actualizaciones](/es/docs/tutorials/historial-de-movimientos-del-stock) con datos de cambios. Cada fila corresponde a una actualización, y las columnas contienen el usuario que realizó el cambio, la fecha de la última actualización y la cantidad de ítems antes y después de la actualización. Solo puedes consultar las últimas 50 actualizaciones en el registro de un SKU.
     * **Reservado**: unidades de ítems del SKU reservadas. Los pedidos de las reservas aún no tienen el pago aprobado. 
     Haz clic en los valores de esta columna para ver los detalles de los datos de las reservas del SKU y se te redirigirá a la gestión de pedidos. Para saber más sobre cómo consultar una reserva, consulta [Cómo seguir el status de la reserva](/es/docs/tutorials/como-se-maneja-la-reserva#como-seguir-el-status-de-la-reserva).
     * **Enviados**: unidades del SKU enviadas. Los ítems de esta columna provienen de pedidos con status `Pago aprobado`, `Preparando entrega` o `Facturado`. Al hacer clic en los ítems de la columna para ver los detalles de los SKU enviados, se te redirigirá a la gestión de pedidos.
@@ -48,9 +49,11 @@ En el Admin VTEX, accede a **Catálogo > Stock > Gestión de stock**, o escribe 
     * **stock ilimitado**: permite registrar unidades ilimitadas del SKU para que siempre esté disponible en el _checkout_ de tu tienda. Esto elimina la necesidad de actualizar el recuento del SKU.
     * **Lead time (días):** configuración opcional del tiempo de envío al nivel de SKU. Al definir un tiempo para el SKU de un almacén, él se agregará al [cálculo de tiempo total de envío](/es/docs/tutorials/como-funciona-el-calculo-del-envio) del pedido. Por defecto, el [lead time](/es/docs/tutorials/lead-time-tiempo-de-envio-a-nivel-de-sku) está definido como zero días y su contaje se realiza en días laborables. Puedes [alterarlo para días naturales](/es/docs/tutorials/lead-time-tiempo-de-envio-a-nivel-de-sku#configurar-el-contaje-del-lead-time-en-dias-naturales-opcional) y, si quieres configurar periodos en horas, minutos y segundos, puedes utilizar el endpoint [Update inventory by SKU and warehouse endpoint](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 
-> ❗ Para garantizar que los ítems agregados al stock estén disponibles para venta en la tienda, el [ID del SKU](url) no debe contener **el número cero a la izquierda**. Por ejemplo, el sistema no reconoce ID con el formato `01`, `02` , `021`, ya que espera el formato `1`, `2`, `21`.
+> ❗ Para garantizar que los ítems agregados al stock estén disponibles para venta en la tienda, el [ID del SKU](/es/docs/tutorials/identificar-el-id-de-un-sku) no debe contener **el número cero a la izquierda**. Por ejemplo, el sistema no reconoce ID con el formato `01`, `02` , `021`, ya que espera el formato `1`, `2`, `21`.
 
 La cantidad total de ítems en la página **Gestión de stock** se actualiza en tiempo real, pero puede haber un retraso de hasta 1 hora para que la información aparezca en el [historial de movimientos](/es/docs/tutorials/historial-de-movimientos-del-stock).
+
+> ℹ️ El [registro de actualizaciones](/es/docs/tutorials/historial-de-movimientos-del-stock) muestra el movimiento de los últimos 90 días (3 meses), con un límite de 50 movimientos por SKU. Los movimientos anteriores a este período de tiempo no están disponibles.
 
 ### Filtros
 

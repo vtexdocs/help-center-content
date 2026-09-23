@@ -25,8 +25,8 @@ Neste artigo você encontra as seguintes informações:
 [Correlações com outros dados](#correlacoes-com-outros-dados)
 
 ## Características dos dados
-| **Característica** | **Descrição** |
-|:------:|:--------:|
+| Característica | Descrição |
+|------|--------|
 | Origem do dado | Módulo de preços. |
 | Disponibilidade | VTEX Admin e APIs de preços. É importante ressaltar que os dados disponibilizados pela API podem não estar estruturados exatamente como neste conjunto de dados do Data Pipeline. |
 | Histórico | O histórico de dados começa em agosto de 2023. Para clientes que já usam a plataforma VTEX, os dados são retidos por dois anos a partir de 2024.|
@@ -36,8 +36,8 @@ Neste artigo você encontra as seguintes informações:
 
 A tabela `pricing_latest` contém dados dos preços atuais dos produtos da loja. Veja a seguir os campos que compõem essa tabela.
 
-| **Nome da Coluna**  | **Tipo de Coluna** 	| **Descrição da Coluna**  |
-|:--------:|:--------:|:-----------:|
+| Nome da Coluna  | Tipo de Coluna 	| Descrição da Coluna  |
+|--------|--------|-----------|
 | account_name | character varying(255) 	| Nome da conta relacionada ao item. |
 | last_date | date 	| Data e hora da última alteração no preço. |
 | sku_id | character varying(255) | Identificador do SKU. |
@@ -52,8 +52,8 @@ A tabela `pricing_latest` contém dados dos preços atuais dos produtos da loja.
 
 A tabela `pricing_historical` apresenta registro histórico dos preços da sua loja. Veja abaixo seguir os campos que compõem essa tabela.  
 
-| **Nome da coluna**  | **Tipo de coluna**  | **Descrição da coluna** |
-|:--------:|:---------:|:----------:|
+| Nome da coluna  | Tipo de coluna  | Descrição da coluna |
+|--------|---------|----------|
 | account_name | character varying(255) | Nome da conta relacionada ao item. |
 | date | date  | Data e hora da última alteração no preço. |
 | sku_id | character varying(255) 	| Identificador do SKU. |

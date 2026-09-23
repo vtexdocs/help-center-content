@@ -25,7 +25,7 @@ Durante la búsqueda, Intelligent Search recibe el término buscado por el clien
 
 De este modo, aunque el cliente no busque la palabra registrada en el producto, podrá obtener resultados relevantes, lo que aumenta las posibilidades de éxito de la búsqueda y reduce la posibilidad de obtener resultados vacíos.
 
-El uso de sinónimos también complementa los [informes](/es/docs/tutorials/analytics) de búsquedas sin resultados. A partir de este análisis, el retailer puede identificar las búsquedas que no arrojaron resultados y determinar qué términos necesitan sinónimos registrados.
+El uso de sinónimos también complementa los [informes](/es/docs/tutorials/intelligent-search-analytics) de búsquedas sin resultados. A partir de este análisis, el retailer puede identificar las búsquedas que no arrojaron resultados y determinar qué términos necesitan sinónimos registrados.
 
 ## Tipos de sinónimos
 

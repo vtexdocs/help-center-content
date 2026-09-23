@@ -48,7 +48,7 @@ Follow the step by step below to add a new collection:
 
 ### Collection data fields
 
-To better understand the meaning of the data fields of a products collection, the complete description of each is given below:
+To better understand the meaning of the data fields of a product collection, the complete description of each is given below:
 
 #### New Collection settings
 
@@ -60,8 +60,8 @@ To better understand the meaning of the data fields of a products collection, th
 
 #### Schedule
 
-- **Start date:**: collection start date and time. If a future date and time are set, the collection will have a scheduled status.
-- **Schedule collection end date:** selection that allows setting an expiration date and time for the collection
+- **Start date:** collection start date and time. If a future date and time are set, the collection will have a scheduled status.
+- **Schedule collection end date:** selection that allows setting an expiration date and time for the collection.
 - **End date:** collection end date and time. This field is displayed only if **Schedule collection end date** is enabled.
 
 #### Enable
@@ -75,7 +75,7 @@ Products can be added either by selecting items from the __Collection__ module l
 
 #### Via VTEX Admin
 
-Selecting products through the VTEX Admin can be made using the product list, search bar and filters. You can search for a product using these parameters:
+You can select products in the VTEX Admin using the product list, search bar and filters. You can search for a product using these parameters:
 
 - Product name.
 - Product ID.
@@ -127,7 +127,7 @@ Products can be removed either by selecting items from the __Collections__ modul
 
 #### Via Admin
 
-To remove an item from the collection, simply click on the product's <i class="fas fa-check-circle" title="check circle"></i>.
+To remove an item from the collection, click on the product's <i class="fas fa-check-circle" title="check circle"></i>.
 
 ![EN-coleao-remover](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/collection/creating-collections-beta_7.gif)
 
@@ -154,15 +154,11 @@ You can delete items from a collection by using a spreadsheet, as follows:
 To change your collection's order, follow the steps below:
 
 1. In the __Collections__ page, click on the **My Collection** tab.
-2. The are two ways to change the order of products in a collection:
-
+2. There are two ways to change the order of products in a collection:
   a. Click on the <i class="fas fa-grip-vertical" title="drag vertical"></i> icon, drag the item and release it on the desired position.
-
-  > ℹ️  You cannot use this option if a filter is active.
-
-  b. Select the box of products you wish to change and click on `Move to Position`. Enter the number of the new position and click on `Move` to complete the change. These options allows you to rearrange items in bulk.
-
-![EN-mover-colecao](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/collection/creating-collections-beta_9.png)
+    > ℹ️  You cannot use this option if a filter is active.
+  b. Select the box of products you wish to change and click on `Move to Position`. Enter the number of the new position and click on `Move` to complete the change. These options allow you to rearrange items in bulk.
+    ![EN-mover-colecao](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/collection/creating-collections-beta_9.png)
 
 ### Export collection spreadsheet
 

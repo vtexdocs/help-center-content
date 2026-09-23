@@ -121,7 +121,7 @@ Para crear una cotización o carrito guardado, es necesario tener el [permiso Cr
       Haz clic en una de las siguientes opciones:
       <ul>
          <li>
-            **Guardar para más tarde:** se crea un carrito guardado. El status del carrito guardado recién creado cambia a **Lista**, lo que significa que cualquier usuario dentro de esa organización o centro de costos que tenga [permisos](#) para realizar pedidos podrá utilizar el carrito inmediatamente desde la sección de Cotizaciones y carritos para realizar un pedido.
+            **Guardar para más tarde:** se crea un carrito guardado. El status del carrito guardado recién creado cambia a **Lista**, lo que significa que cualquier usuario dentro de esa organización o centro de costos que tenga [permisos](#permisos-de-acceso) para realizar pedidos podrá utilizar el carrito inmediatamente desde la sección de Cotizaciones y carritos para realizar un pedido.
          </li>
          <li>
             **Guardar cotización:** se crea una cotización. El status de la cotización recién creada figurará como **Pendiente**, lo que significa que tendrá que ser revisada y ajustada por un vendedor antes de que se puedan aplicar descuentos especiales.

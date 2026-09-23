@@ -25,11 +25,11 @@ From the **Catalog > Categories** page in the VTEX Admin, you can perform action
 
 To deactivate a category, follow the steps below:
 
-1.	On the VTEX Admin, go to **Catalog**.
+1.	In the VTEX Admin, go to **Catalog**.
 2.	Click **Categories**.
 3.	Select the category or department that you want to deactivate.
 4.	Click **Actions** and choose the **Edit** option.
-5.	Uncheck the **Menu** and **Active** options, based on your need.
+5.	Uncheck the **Menu** and **Active** options, based on your needs.
     - **Menu:** Defines if the category will appear on the site's top or lateral menu, although the category will still exist in the environment.
     - **Active:** Defines whether the category is active on the site.
 6.	Click `Save`.
@@ -45,7 +45,7 @@ If a category has subcategories, they appear below the parent category in the ca
 
 ## Changing the category tree
 
-> ⚠️ Moving categories directly through the category tree can generate unexpected errors in your catalog. Therefore, we recommend following the instructions below to change category levels. Read the[ known issue](/en/known-issues/mover-categorias-gera-comportamentos-inesperados-na-arvore-de-categorias--6JSa9nnYoAAUQO1zPtzfZD) related to this for more information.
+> ⚠️ Moving categories directly through the category tree can generate unexpected errors in your catalog. Therefore, we recommend following the instructions below to change category levels. Read the [known issue](/en/known-issues/mover-categorias-gera-comportamentos-inesperados-na-arvore-de-categorias--6JSa9nnYoAAUQO1zPtzfZD) related to this for more information.
 
 There are cases where you need to change the hierarchy level of a category. For example, imagine a store has a parent category called **Accessories** and a child category (subcategory) called **Shoes**, and they want to make **Shoes** a separate parent category.
 

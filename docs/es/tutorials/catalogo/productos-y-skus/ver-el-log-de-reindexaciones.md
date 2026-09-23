@@ -1,5 +1,5 @@
 ---
-title: 'Cómo ver el registro de reindexaciones del catálogo?'
+title: 'Visualizando el registro de reindexaciones del catálogo'
 id: 6cND6PhkaIgGsaeEQYyuMA
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:41.135Z
@@ -17,7 +17,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 Es posible consultar el registro de cuándo y quién realizó una reindexación de la base a través de la herramienta Full Clean Up, accesible por la siguiente URL:
 
-`https://{AccountName}.vtexcommercestable.com.br/admin/Site/fullcleanup.aspx`
+`https://{accountName}.vtexcommercestable.com.br/admin/Site/fullcleanup.aspx`
 
 En realidad, cualquier acción tomada en Full Clean Up está registrada en esta página.
 

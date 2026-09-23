@@ -89,7 +89,7 @@ Após a conclusão da operação, a janela apresentará as seguintes mudanças:
 A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campos da planilha de importação de produtos e SKUs. Campos obrigatórios estão marcados com um asterisco (*).
 
 | Campo | Descrição | Exemplo |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | ID Produto | Número único identificador do produto. Você pode preencher um ID próprio ou deixar o campo vazio, de forma que a plataforma gere o ID automaticamente. Caso esse campo já esteja preenchido, não é possível alterá-lo. | 310117603 |
 | Nome Produto* | Nome do produto apresentado para os clientes na experiência de navegação, podendo ter até 150 caracteres. Por questões de [SEO](/pt/docs/tutorials/melhorando-o-seo-das-paginas-de-lista-de-produtos), recomendamos:<ul><li>✅ Usar palavras simples</li><li>❌ Evitar outros idiomas</li><li>❌ Evitar escrita complexa</li></ul> | Corebiz camiseta |
 | Produto ativo | Informa se o [status do produto](/pt/docs/tutorials/produtos-e-skus#filtrar-por-status) será ativo ou inativo. Este campo não é editável pela planilha, deve ser deixado vazio. | |

@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: "Now, you'll have access to a service bot powered by extensive platform knowledge."
 ---
 
-We are excited to introduce the latest customer service solution from VTEX. Now, you'll have access to a service bot powered by extensive platform knowledge. With Artificial Intelligence, you will enjoy **prompt and wait-free assistance**, with **tailored conversational capabilities **to meet your demands.
+We are excited to introduce the latest customer service solution from VTEX. Now, you'll have access to a service bot powered by extensive platform knowledge. With Artificial Intelligence, you will enjoy **prompt and wait-free assistance**, with **tailored conversational capabilities** to meet your demands.
 
 ### What has changed?
 

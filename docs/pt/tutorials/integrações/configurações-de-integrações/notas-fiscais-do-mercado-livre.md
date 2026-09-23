@@ -21,8 +21,8 @@ Para visualizar a página, você deve acessar o Admin VTEX em __*Marketplace > M
 
 A tabela a seguir apresenta uma descrição dos campos presentes na interface:   
 
-| __Campo__    | __Descrição__     |
-| :-------------:| :--------------------: |
+| Campo    | Descrição     |
+| -------------| -------------------- |
 | Data de início| Início do intervalo de tempo que será consultado. A data inicial deve ser sempre menor que a data final.|
 |Data de término|Final do intervalo de tempo que será consultado.|  
 

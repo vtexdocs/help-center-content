@@ -1,5 +1,5 @@
 ---
-title: 'O que é uma Lista?'
+title: 'Listas'
 id: 4b4NsVFwA8kwqS8S82w4Go
 status: PUBLISHED
 createdAt: 2018-01-25T21:44:19.327Z
@@ -13,7 +13,7 @@ slugEN: what-is-a-list
 legacySlug: o-que-e-uma-lista
 locale: pt
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
-order: 1
+categoryCover: true
 ---
 
 > ⚠️ A funcionalidade **Lista** é exclusiva para lojas que usam CMS Portal (Legado).

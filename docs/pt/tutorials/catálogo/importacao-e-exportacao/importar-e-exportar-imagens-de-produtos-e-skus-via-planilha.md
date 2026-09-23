@@ -54,7 +54,7 @@ A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campo
 > ℹ️ Para importar uma nova imagem, os únicos campos obrigatórios são **ID SKU** e **URL de importação Imagem**. Saiba quais são as [Boas práticas para o uso de imagens no Catálogo](/pt/docs/tutorials/boas-praticas-para-o-uso-de-imagens-no-catalogo).
 
 | Campo | Descrição | Exemplo |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | ID Produto | Código numérico único identificador do produto. | 310117603 |
 | Nome Produto | Nome do produto apresentado para os clientes na experiência de navegação. | Corebiz camiseta |
 | ID SKU* | Código numérico único que identifica o SKU. | 310119261 |

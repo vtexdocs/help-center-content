@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
-> ⚠️ Esta funcionalidad solo está disponible para las tiendas desarrolladas con [VTEX IO](https://vtex.com/es-es/store-framework/). Antes de seguir, debes [instalar y configurar el Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) en tu tienda.
+> ⚠️ Esta funcionalidad solo está disponible para las tiendas desarrolladas con [VTEX IO](https://developers.vtex.com/docs/guides/store-framework). Antes de seguir, debes [instalar y configurar el Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) en tu tienda.
 
 Una assembly option es un [anexo](/es/docs/tutorials/que-es-un-anexo) para escenarios complejos, como la personalización de productos en las que es necesario controlar diferentes combinaciones de productos, la cantidad, ítems adicionales, costes y la gestión de stock.
 
@@ -35,7 +35,7 @@ Hay dos formas de implementar las opciones de ensamblaje: utilizando la [aplicac
 
 ### Aplicación Assembly Options
 
-La aplicación [Assembly Options](https://apps.vtex.com/vtex-admin-assembly-options/p), disponible para las tiendas desarrolladas con [VTEX IO](https://vtex.com/br-pt/store-framework/), proporciona una interfaz para configurar y gestionar las opciones de personalización. En este caso, la sintaxis de las opciones de ensamblaje y el anexo se generan automáticamente. Para más información sobre esta aplicación, lee la [documentación sobre la Aplicación Assembly Options](/es/docs/tutorials/aplicacion-assembly-options).
+La aplicación [Assembly Options](https://developers.vtex.com/docs/apps/vtex.admin-assembly-options), disponible para las tiendas desarrolladas con [VTEX IO](https://developers.vtex.com/docs/guides/store-framework), proporciona una interfaz para configurar y gestionar las opciones de personalización. En este caso, la sintaxis de las opciones de ensamblaje y el anexo se generan automáticamente. Para más información sobre esta aplicación, lee la [documentación sobre la Aplicación Assembly Options](/es/docs/tutorials/aplicacion-assembly-options).
 
 ### Campos personalizados
 
@@ -53,7 +53,7 @@ El primer `[x-y]` corresponde a las reglas que se aplican al grupo, y entre cada
 | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **\[0-3\]**#10000\[1-2\]\[1\]pricetable1;#20000\[0-2\]\[0\]pricetable2;#30000\[0-2\]\[0\]pricetable3       | Cantidad mínima y máxima de ítems que se pueden seleccionar del grupo. El primer segmento define cuántas opciones acepta esta assembly option en total. **\[0-3\]** significa que puedes seleccionar un mínimo de cero elementos y un máximo de tres. Si el valor es **\[1-1\]**, significa que solo puedes seleccionar un elemento de entre todas las opciones. |
 | \[0-3\]#**10000**\[1-2\]\[1\]pricetable1;**#20000**\[0-2\]\[0\]pricetable2;#**30000**\[0-2\]\[0\]pricetable3 | Después de cada `#`, debes incluir el ID del SKU del componente. Debes utilizar al menos un SKU en las assembly options.      |
-| \[0-3\]#10000**\[1-2\]**\[1\]pricetable1;#20000**\[0-2\]**\[0\]pricetable2;#30000**\[0-2\]**\[0\]pricetable3 | Este segmento define la cantidad mínima y máxima de cada SKU que el cliente final puede seleccionar. Si el valor es **\[0-1\]**, significa que puede haber hasta uno de este SKU.                             |
+| \[0-3\]#10000**\[1-2\]**\[1\]pricetable1;#20000**\[0-2\]**\[0\]pricetable2;#30000**\[0-2\]**\[0\]pricetable3 | Este segmento define la cantidad mínima y máxima de cada SKU que el cliente final puede seleccionar. Si el valor es**\[0-1\]**, significa que puede haber hasta uno de este SKU.                             |
 | \[0-3\]#10000\[1-2\]**\[1\]**pricetable1;#20000\[0-2\]**\[0\]**pricetable2;#30000\[0-2\]**\[0\]**pricetable3 | Este segmento define la cantidad seleccionada por defecto para cada SKU.  |
 | \[0-3\]#10000\[1-2\]\[1\]**pricetable1**;#20000\[0-2\]\[0\]**pricetable2**;#30000\[0-2\]\[0\]**pricetable3** | El último segmento indica la tabla de precios de cada ítem.                    |
 

@@ -30,7 +30,7 @@ This section includes the following information:
 
 ## Data characteristics
 
-|**Characteristic**|**Description**|
+|Characteristic|Description|
 | - | - |
 |**Data source**|The data in this set comes from the [VTEX Payments module](/en/docs/tracks/how-the-payments-module-works). It can be collected and organized to reflect the transactions and payments completed on the platform.|
 |**Availability**|Navigation data can only be accessed through the VTEX Admin.|
@@ -41,8 +41,8 @@ This section includes the following information:
 
 The `payments_transitions` table stores detailed information about payments, including the provider and the payment method used in each transaction. The table fields are described below:
 
-|**Column name**|**Field type**|**Column description**|
-| :-: |:-: | - |
+|Column name|Field type|Column description|
+| - |- | - |
 |batch_id|character varying(13)|Control ID of the data ingestion batch.|
 |event_date_ti me|timestamp with time zone|Date and time of transition, including time zone information.|
 |account|character varying(128)|Account name, mapped to 'account_name' on VTEX License Manager.|
@@ -66,8 +66,8 @@ Each transaction has a set of payments and changes the status based on a predefi
 
 The table fields are described below:
 
-|**Column name**|**Column type**|**Column description**|
-| :-:| :-: | - |
+|Column name|Column type|Column description|
+| -| - | - |
 |batch_id|character varying(13)|Control ID of the data ingestion batch.|
 |event_date_tim e|timestamp with time zone|Date and time of transition, including time zone information.|
 |account|character varying(128)|Maps to an 'account_name' on VTEX License Manager.|
@@ -81,8 +81,8 @@ The table fields are described below:
 
 This table tracks updates to transactions through some interactions. Below is a detailed description of each field:
 
-| **Column name** | **Column type** | **Column description** |
-|:---:|:---:|---|
+| Column name | Column type | Column description |
+|---|---|---|
 | key_id | character varying(35)	 | Interaction Id |
 | key_transaction_id | character varying(35) | Transaction Id |
 | payment_id | character varying(120) | Unique id for payment. Not Required. |
@@ -98,8 +98,8 @@ This table tracks updates to transactions through some interactions. Below is a 
 
 This table consolidates details about payment authorizations, tracking key information about each transaction, including risk assessment, payment details, and ingestion control. Below is a description of each field:
 
-| **Column name** | **Column type** | **Column description** |
-|:---:|:---:|---|
+| Column name | Column type | Column description |
+|---|---|---|
 | account | character varying(63) | Account name where the given transaction has taken place (will always be the same as the merchant_name) |
 | merchant_name | character varying(63) | Merchant name where the given transaction has taken place (will always be the same as the merchant_name) |
 | transaction_start_date | timestamp with time zone | Date and time of authorization, including time zone information. |
@@ -123,8 +123,8 @@ This table consolidates details about payment authorizations, tracking key infor
 
 This table contains payment transaction metadata, including detailed information about amounts, status, affiliates, payment connectors, fraud analysis, installments, and source data.  
 
-| **Column name** | **Column type** | **Column description** |
-|:---:|:---:|---|
+| Column name | Column type | Column description |
+|---|---|---|
 | id | character varying(65535)	 | Unique Transaction ID this Payment belongs to. |
 | transaction_value | double precision	 | Payment value with the decimal format. |
 | status_transaction | character varying(65535)	 | The last state of the Transaction |

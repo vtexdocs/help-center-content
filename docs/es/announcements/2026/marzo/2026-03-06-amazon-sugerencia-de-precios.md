@@ -33,7 +33,7 @@ Esto centraliza el diagnóstico de competitividad por SKU, reduciendo el esfuerz
 
 La funcionalidad ya está activa para todos los clientes conectados con Amazon y no requiere ninguna acción adicional. Para desactivar la funcionalidad, accede a **Marketplace > Amazon > Preferencias > Precificación inteligente**.
 
-Para consultar las instrucciones completas, accede al tutorial [Sugerencia de precios en la integración con Amazon](es/docs/tutorials/sugerencia-de-precios-amazon).
+Para consultar las instrucciones completas, accede al tutorial [Sugerencia de precios en la integración con Amazon](https://help.vtex.com/es/docs/tutorials/sugerencia-de-precios-amazon).
 
 ## Feedback y dudas
 

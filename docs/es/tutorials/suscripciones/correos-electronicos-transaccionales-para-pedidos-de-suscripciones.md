@@ -45,7 +45,7 @@ No es necesario activar el envío de correos electrónicos manualmente, pues se 
 
 La siguiente tabla presenta las plantillas de email estándar para **Suscripciones**:
 
-| **Nombre de la plantilla** | **ID** | **Descripción** |
+| Nombre de la plantilla | ID | Descripción |
 | --- | --- | --- |
 | Subscriptions - New | `vtexcommerce-subscriptions-create` | Nueva suscripción creada con éxito.<br><br>Hay un periodo de 30 minutos entre la creación de la suscripción y el envío de la notificación de la plantilla `vtexcommerce-subscriptions-create`. |
 | Subscriptions - Edited | `vtexcommerce-subscriptions-update` | Suscripción actualizada con éxito. |

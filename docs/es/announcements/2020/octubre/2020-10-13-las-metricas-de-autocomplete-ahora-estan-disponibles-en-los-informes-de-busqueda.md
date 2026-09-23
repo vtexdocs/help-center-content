@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Para un análisis más completo del comportamiento de búsqueda, incluimos las métricas de Autocomplete en esto informe'
 ---
 
-Para analizar y monitorear el desempeño de [VTEX lntelligent Search](/es/docs/tracks/vision-general-intelligent-search), se puede ver y exportar [informes](/es/docs/tutorials/analytics) con datos relacionados a las búsquedas realizadas en la tienda. Para permitir un análisis más completo del comportamiento de búsqueda de sus clientes, incluimos las métricas de [Autocomplete](/es/docs/tutorials/autocomplete) en estos informes.
+Para analizar y monitorear el desempeño de [VTEX lntelligent Search](/es/docs/tracks/vision-general-intelligent-search), se puede ver y exportar [informes](/es/docs/tutorials/intelligent-search-analytics) con datos relacionados a las búsquedas realizadas en la tienda. Para permitir un análisis más completo del comportamiento de búsqueda de sus clientes, incluimos las métricas de [Autocomplete](/es/docs/tutorials/autocomplete) en estos informes.
 
 ## ¿Qué cambió?
 Antes solo se podía ver y exportar informes sobre los resultados de búsqueda y los términos utilizados en estas. Ahora, también se puede analizar el desempeño de las sugerencias de búsqueda realizadas por Autocomplete.  
@@ -23,7 +23,7 @@ Antes solo se podía ver y exportar informes sobre los resultados de búsqueda y
 <table width = "100%">
   <tr>
     <td>
-      <img src = "https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2020/octubre/2020-10-13-las-metricas-de-autocomplete-ahora-estan-disponibles-en-los-informes-de-busqueda_1.png" style = "display:block; margin-left: auto; margin-right: auto;" alt = "Opções de filtros do relatório" title = "Opções de filtros do relatório">
+      <img src = "https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2020/octubre/2020-10-13-las-metricas-de-autocomplete-ahora-estan-disponibles-en-los-informes-de-busqueda_1.png" style = "display:block; margin-left: auto; margin-right: auto;" alt = "Opções de filtros do relatório" title = "Opções de filtros do relatório" />
     </td>
   </tr>
   <tr>

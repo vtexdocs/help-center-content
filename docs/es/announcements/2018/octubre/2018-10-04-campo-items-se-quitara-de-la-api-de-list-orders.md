@@ -31,11 +31,13 @@ La retirada de este campo aumentará considerablemente la estabilidad y el rendi
 
 Por eso, es crucial retirarlo de la integración.
 
-> ℹ️ **Atención:** este cambio sólo impacta las integraciones que dependen de la entrega del campo `items` por la API de List Orders.
+> ℹ️ Este cambio sólo impacta las integraciones que dependen de la entrega del campo `items` por la API de List Orders. Este cambio **no** afecta a la API de Get Orders. En ella, el campo `items` sigue existiendo y se actualiza normalmente.
 
-> ℹ️ Este cambio **no** afecta a la API de Get Orders. En ella, el campo `items` sigue existiendo y se actualiza normalmente.
+Request de la API de Get Order: 
 
-> ℹ️ Request de la API de Get Order: `http://{{accountName}}.{{environment}}.com.br/api/oms/pvt/orders/{{orderId}}`
+```
+http://{{accountName}}.{{environment}}.com.br/api/oms/pvt/orders/{{orderId}}
+```
 
 ---
 

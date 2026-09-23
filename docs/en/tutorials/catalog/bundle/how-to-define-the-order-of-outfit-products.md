@@ -19,7 +19,7 @@ The outfit is a product and SKU intended to group other SKUs. The difference bet
 
 However, doubts arise regarding the order of these products on the product page. Currently, the order of the products follows the SKU ID of the SKUs included in the bundle.
 
-That is, if the outfit includes the **6, 30, 14 and 10** SKUs, the ordering on the product page will be as follows:
+That is, if the outfit includes SKUs **6, 30, 14, and 10**, the ordering on the product page will be as follows:
 
 - 6
 - 10

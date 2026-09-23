@@ -15,6 +15,8 @@ locale: pt
 subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
+> ⚠️ Esta funcionalidade não está disponível para novos clientes.
+
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/).
 
 > ⚠️ O [VTEX Shipping Network Correios](/pt/docs/tutorials/vtex-shipping-network-correios-faq) integra sua operação com os serviços PAC e SEDEX do contrato VTEX junto aos Correios, e o [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) integra a sua operação com os Correios e outras transportadoras. Com ambas as soluções você pode usar as funcionalidades: <ul> <li>[Pronto para envio](/pt/docs/tutorials/pronto-para-envio)</li> <li>[Entregas Correios](/pt/docs/tutorials/entregas-correios-vtex-shipping-network)</li> <li>Painel VTEX Shipping Network</li></ul>
@@ -43,8 +45,8 @@ A aba `Resumo Financeiro` é voltada para o acompanhamento e supervisão do resu
 - Visualizar um **gráfico dinâmico** com a relação entre evolução financeira ao longo do tempo, dentro do período filtrado. Passando o cursor em cima das linhas do gráfico, é possível ver com detalhes a movimentação de *custo* e *receita* por dia.
 - Acompanhar vários **indicadores de performance financeira**, tais como:
 
-| **Indicador Financeiro** | **Descrição** |
-| :----------: | :---------- |
+| Indicador Financeiro | Descrição |
+| ---------- | ---------- |
 | **Custo do Frete x GMV** | Compara o custo do frete calculado no momento do checkout, com o GMV, que é o total que foi pago por pedido. |
 | **Desempenho financeiro** | Mostra a relação entre o valor pago no checkout e o valor pago à transportadora. |
 | **Receita Faturada Geral** | Soma de todos os fretes pagos no checkout. Quanto de fato seu cliente pagou pelo frete (independente de ser _VTEX Shipping Network_). Ou seja, é considerado se teve desconto no frete ou se foi frete grátis por exemplo. |

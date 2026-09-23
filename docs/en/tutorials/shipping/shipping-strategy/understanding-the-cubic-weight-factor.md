@@ -38,7 +38,7 @@ The calculation of the cubic weight is performed by multiplying Length x Width x
 
 Check out the following example:
 
-![example_cubic_weight_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/shipping-strategy/understanding-the-cubic-weight-factor_1.jpg)
+![example_cubic_weight_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/shipping-strategy/understanding-the-cubic-weight-factor_1.png)
 
 - __Package size:__ `50cm x 15cm x 60cm`
 - __Minimum weight:__ `9kg`

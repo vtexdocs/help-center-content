@@ -38,4 +38,4 @@ Learn more about how to manage logistics components on the VTEX platform:
 * To monitor and manage inventory items, read the article [Inventory management](/en/docs/tutorials/managing-stock-items). 
 * To configure and manage the relationship between warehouses and order pickup see the article on [Loading dock management.](/en/docs/tutorials/managing-loading-docks)
 
-> ⚠️ For the logistics system to work as expected, we suggest that you configure it in the following order: <body> <ol> <li>[Shipping policy](/en/docs/tutorials/shipping-policy)</li> <li>[Loading dock](/en/docs/tutorials/loading-dock)</li> <li>Warehouse</li> </ol> </body>
+> ⚠️ For the logistics system to work as expected, we suggest that you configure it in the following order: <ol> <li>[Shipping policy](/en/docs/tutorials/shipping-policy)</li> <li>[Loading dock](/en/docs/tutorials/loading-dock)</li> <li>Warehouse</li> </ol>

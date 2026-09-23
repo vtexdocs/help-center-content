@@ -1,5 +1,5 @@
 ---
-title: 'What is a bundle?'
+title: 'Bundles'
 id: 5ov5s3eHM4AqAAgqWwoc28
 status: PUBLISHED
 createdAt: 2018-01-25T21:09:52.277Z
@@ -13,13 +13,12 @@ slugEN: what-is-a-bundle
 legacySlug: what-is-a-kit
 locale: en
 subcategoryId: 17Lkzo2rGBE1Bt7dXjE0tV
-order: 1
 ---
 
 A bundle is an SKU composed of one or more SKUs. SKUs that make up a bundle are called __components__.
 
-In a standard bundle, the products are sold together, i.e. they can not be offered for sale separately. This means that in a "Beach" bundle consisting of the SKUs "Trunks" and Towel, the customer will only be able to purchase the SKUs together.
+In a standard bundle, the products are sold together, i.e. they can not be offered for sale separately. This means that in a "Beach" bundle consisting of the SKUs "Trunks" and "Towel", the customer will only be able to purchase the SKUs together.
 
 However, you can also choose another bundle mode, called __Outfit__, in which component SKUs are displayed together, but __can be sold separately__.
 
-In both cases, the bundle SKU will consider the component stocks and the SKU price of the bundle.
+In both cases, the bundle SKU will use the components' stock levels and the bundle SKU's price.

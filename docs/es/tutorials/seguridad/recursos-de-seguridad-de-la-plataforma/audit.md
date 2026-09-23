@@ -36,7 +36,7 @@ Para consultar un evento utilizando los filtros disponibles en Audit, sigue esto
 
 1. En el Admin VTEX, accede a **Apps > Apps instaladas > Audit** o ingresa _Audit_ en la barra de búsqueda. Se te redirigirá a la pestaña **Eventos de auditoría** en Audit.
 2. En el menú **Aplicación** dentro de la sección **Filtros**, selecciona la aplicación relacionada con la consulta.
-3. En el menú **Fecha**, escoge una de las fechas predefinidas para la consulta. Si prefieres definir el intervalo de fechas exacto, activa la opción de usar una fecha **Personalizada **y selecciona la fecha de **Inicio** y **Fin** para la consulta.
+3. En el menú **Fecha**, escoge una de las fechas predefinidas para la consulta. Si prefieres definir el intervalo de fechas exacto, activa la opción de usar una fecha **Personalizada** y selecciona la fecha de **Inicio** y **Fin** para la consulta.
 
    > ℹ️ Solo se pueden consultar los registros de los últimos tres meses. Si necesitas datos más antiguos, abre un [ticket de soporte](https://help.vtex.com/es/support).
 

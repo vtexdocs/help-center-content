@@ -33,7 +33,7 @@ To add a new shipping rate, follow the steps below:
 3. Fill in the fields.
     * **Shipping policy**: select the [shipping policy](/en/docs/tutorials/shipping-policy) to which the new rate will apply.
     * **Country**: country in which the carrier will make the delivery.
-    * **Postal code range: **the postal code interval to which the new rate will apply. This field must be filled in only with numbers and/or letters.
+    * **Postal code range:** the postal code interval to which the new rate will apply. This field must be filled in only with numbers and/or letters.
     * **Weight range**: minimum and maximum shipment weight limits accepted by the carrier (considering the shipping rate and postal code specified). This field must be filled in with a decimal number. The weight unit (grams, kilograms, etc.) must be the same used when adding items (SKUs) to the catalog. 
     * **Shipping rate**: flat rate charged for making the delivery (considering the postal code and weight specified). This field must be filled in with a decimal number.
     * **Additional value**: the product’s percentage value that will be added to the shipping rate. For example, if the product costs US$ 80.00 and the additional value is 1 then an amount of US$ 0.80 will be added to the final shipping rate.The percentage refers to the product’s total cost (the product price without discounts). This field must be filled in with a decimal number.For example, to add a percentage of 

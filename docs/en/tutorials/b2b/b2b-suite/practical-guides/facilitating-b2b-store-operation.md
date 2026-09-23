@@ -26,8 +26,8 @@ You can facilitate the operation of your store by installing applications to sol
 |-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Quickorder](https://github.com/vtex-apps/quickorder)              | It allows the retailer to make bulk purchases using spreadsheets.                                                                                |
 | [Order Quote](https://github.com/vtex-apps/order-quote)             | It allows customers to save shopping cart information for a specific cart (SKUs, quantity, and price of each item) during a period of time.                                                                                                                                                                                                  |
-| [Order Configuration](https://vtex.io/docs/components/content-blocks/vtex.order-configuration@3.1.0/readme/)     | It offers customization for purchase scenarios in B2B, such as resales and internal purchases.                                                                                                                                                                                             |
-| [VTEX Intelligent Search](https://developers.vtex.com/vtex-developer-docs/docs/vtex-search) | It enables product searches (only available for stores developed with VTEX IO).                                                                                                                                                          |
+| [Order Configuration](https://developers.vtex.com/docs/apps/vtex.order-configuration)     | It offers customization for purchase scenarios in B2B, such as resales and internal purchases.                                                                                                                                                                                             |
+| [VTEX Intelligent Search](https://developers.vtex.com/docs/guides/search-overview) | It enables product searches (only available for stores developed with VTEX IO).                                                                                                                                                          |
 | [Telemarketing](https://github.com/vtex-apps/telemarketing)           | It adds a component to the storefront that allows a customer service analyst to make purchases on a customer's behalf. |
 | [Product Comparison](https://github.com/vtex-apps/product-comparison)      | It allows customers to compare the specifications of four SKUs before completing a purchase, enabling a more detailed analysis of those products.                                                                                                               |
 
@@ -93,7 +93,7 @@ All VTEX stores have the [My account](/en/docs/tutorials/how-my-account-works) f
 
 This tool allows you to monitor the order status in the after-sales flow and carry out operations such as: “Order again”, which allows placing the same order again.  
 
-![Order again](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/practical-guides/facilitating-b2b-store-operation_1.png)
+![Order again](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-suite/practical-guides/facilitating-b2b-store-operation_1.png)
 
 For more details on “My Account,” check out the tutorial on [how to configure this feature](/en/docs/tutorials/setting-up-my-account).
 

@@ -74,7 +74,7 @@ Cuando el cliente tiene los ítems en el _checkout_ y añade los datos de ubicac
 
 * Horarios [configurados en el almacén](/es/docs/tutorials/gestionar-almacenes#campos-de-registro).
 * Horarios [configurados en el muelle](/es/docs/tutorials/gestionar-el-muelle#campos-de-registro).
-* Horarios [configurados en la política de envío](/es/docs/tutorials/politica-de-envio#registrar-politica-de-envio): configurados en los campos **Horario de recolección **y **Horario laboral**. 
+* Horarios [configurados en la política de envío](/es/docs/tutorials/politica-de-envio#registrar-politica-de-envio): configurados en los campos **Horario de recolección** y **Horario laboral**. 
 * Feriados registrados.
 
 Para ver más detalles sobre el cálculo del SLA, consulta el artículo [Cómo se calcula el plazo de entrega del pedido](/es/docs/tutorials/como-se-calcula-el-plazo-de-entrega-del-pedido).

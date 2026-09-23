@@ -27,7 +27,7 @@ Para más información sobre la herramienta, acceda a la [documentación de VTEX
 
 VTEX Intelligent Search es una funcionalidad gratuita para las tiendas que utilizan VTEX IO. Si su tienda ya está construida con esta tecnología, póngase en contacto con el Customer Success Manager de su cuenta o agencia partner para activar VTEX Intelligent Search.
 
-Si su tienda aún no utiliza la tecnología de VTEX IO, visite [nuestro sitio web y conozca las ventajas](https://vtex.com/br-pt/store-framework/).
+Si su tienda aún no utiliza la tecnología de VTEX IO, visite [nuestro sitio web y conozca las ventajas](https://developers.vtex.com/docs/guides/store-framework).
 
 Si usted ya utiliza VTEX Intelligent Search, para configurar esta funcionalidad, basta con acceder al módulo y luego a la pestaña Redireccionamientos. En caso de duda, acceda a [nuestro artículo sobre Redireccionamientos](/es/docs/tutorials/redirecciones).
 

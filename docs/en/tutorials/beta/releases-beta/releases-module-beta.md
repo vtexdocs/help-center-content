@@ -28,7 +28,7 @@ The main benefits of the module are:
 - Better control when testing and reviewing changes before publishing.
 - Easier scheduling or deleting grouped changes.
 
-> ℹ️ To use the **Releases** module, you must configure the CMS. Learn more in [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
+> ℹ️ To use the **Releases** module, you must configure the CMS. Learn more in [Installing Releases on VTEX Headless CMS (Legacy)](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 This article will cover the following topics:
 
@@ -88,7 +88,7 @@ All the releases are listed in the VTEX Admin, in **Store Settings > Releases**.
 
 On the `SCHEDULED` tab, each column is described as follows:
 
-| **Column** | **Description** |
+| Column | Description |
 | ---------- | ---------- |
 | Name | Name identifying the release, set in the creation stage. You can edit the name anytime since the release has not already been published. |
 | Last modified | The amount of time since the last change was made to the release, such as updating, adding, or deleting content. |
@@ -103,7 +103,7 @@ In the `UNSCHEDULED` tab, there are only three columns with the same meaning as 
 - Last modified
 - Created by
 
-For more information on a specific release, you can simply click it.
+For more information on a specific release, you can click it.
 
 ## Searching releases
 

@@ -1,5 +1,5 @@
 ---
-title: 'Como funciona a Minha Conta'
+title: 'Minha Conta'
 id: 2BQ3GiqhqGJTXsWVuio3Xh
 status: PUBLISHED
 createdAt: 2019-04-11T21:14:26.117Z
@@ -13,6 +13,7 @@ slugEN: how-my-account-works
 legacySlug: como-funciona-o-my-account
 locale: pt
 subcategoryId: 1RWR7qSyaREbD5RfgCjdYG
+categoryCover: true
 ---
 
 A página __Minha Conta__ (__My Account__) oferece autonomia aos seus clientes para a gestão de pedidos e dados pessoais em uma única página. Esse recurso facilita a operação do seu negócio, reduzindo custos operacionais com serviços de atendimento ao cliente.

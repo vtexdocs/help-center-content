@@ -15,6 +15,8 @@ locale: pt
 subcategoryId: 6GWaAkVqXQYN79ilMgUsPr
 ---
 
+> ⚠️ O aplicativo Affiliates Program foi descontinuado. Isso significa que o aplicativo não recebe manutenção ou suporte do time VTEX.
+
 > ℹ️ O **Affiliates Program** é um aplicativo compatível apenas com lojas [VTEX IO](/pt/docs/tracks/cms-vtex-io), e não está disponível para lojas que utilizam [CMS Portal (Legado)](/pt/docs/tracks/cms-portal-legado) ou [Headless CMS](https://faststore.dev/tutorials/cms/0#vtex-headless-cms). Para instalar e configurar o aplicativo na sua loja VTEX, acesse o guia para desenvolvedores Affiliates Program app.
 
 No aplicativo **Affiliates Program**, um afiliado é alguém que se associa a sua loja VTEX para promover as vendas em troca de uma comissão. O termo é, portanto, diferente do [conceito usual de afiliado na VTEX](/pt/docs/tutorials/o-que-e-afiliado).
@@ -30,7 +32,7 @@ O aplicativo cria dois grupos de página após ser instalado em seu ambiente VTE
 
 O aplicativo cria três tipos de páginas para os afiliados, que dispõem delas sem precisar de qualquer acesso ao Admin VTEX da sua loja, conforme indicado na tabela abaixo:
 
-| **Tipo**                         | **URL**                                              |
+| Tipo                         | URL                                              |
 | -------------------------------- | ---------------------------------------------------- |
 | Página do afiliado               | `{storeName.com}/affiliates/{affiliateSlug}`         |
 | Página de perfil do afiliado     | `{storeName.com}/affiliates/{affiliateSlug}/profile` |

@@ -1,5 +1,5 @@
 ---
-title: '¿Qué es una Subcategoría?'
+title: 'Subcategorías'
 id: 2cb0aRkG3i6AeiAMM24iwY
 status: PUBLISHED
 createdAt: 2018-01-25T20:50:31.252Z
@@ -24,7 +24,7 @@ Las subcategorías se organizan por niveles jerárquicos, como una familia, por 
 
 Cuando usted va a crear subcategorías para su tienda, piense en la estructura de lo que vende. Si usted tiene una tienda de muebles, puede querer las categorías Sofá, Cama y Gabinete, y las siguientes subcategorías:
 
-__Sofá (Padre) __
+__Sofá (Padre)__
 
 2 plazas (Hija)
 
@@ -34,7 +34,7 @@ __Sofá (Padre) __
 
 ---
 
-__Cama (Padre) __
+__Cama (Padre)__
 
 Soltero (Hija)
 
@@ -46,7 +46,7 @@ King (Hija)
 
 ---
 
-__Gabinete (Padre) __
+__Gabinete (Padre)__
 
 2 puertas (Hija)
 

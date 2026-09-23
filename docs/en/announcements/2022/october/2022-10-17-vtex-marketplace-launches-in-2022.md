@@ -143,7 +143,7 @@ _This page follows the new VTEX Design System, with a clean, modern and easy-to-
 
 A seller's efficiency and strategic performance depend on their visibility over submitting offers to the marketplace and identifying and fixing errors during the process. To make this process easier, we have launched the [Offer Management](/en/tutorial/gestao-de-anuncios--7MRb9S78aBdZjFGpbuffpE) feature. 
 
-Until now, to get information about marketplace offers, sellers had to go to three different pages in the VTEX Admin: _Product, Price, _and_ Inventory_ under _Marketplace > Integrations_. In addition, identifying and fixing errors when submitting offers was hardly intuitive.
+Until now, to get information about marketplace offers, sellers had to go to three different pages in the VTEX Admin: _Product, Price,_ and _Inventory_ under _Marketplace > Integrations_. In addition, identifying and fixing errors when submitting offers was hardly intuitive.
 
 The new feature allows the seller to monitor their listings easily and to quickly fix shipping and product synchronization errors. It is available for products sent to to VTEX marketplaces. 
 
@@ -188,7 +188,7 @@ Check the tables below to see what needs to be done for marketplaces and sellers
   </tr>
   <tr>
     <td>Seller Portal</td>
-    <td>To enable sellers to access the portal, follow these steps: <ol> <li>Send an invite to each seller you wish to add to the Seller Portal via the [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller Invite</span>](/en/docs/tutorials/marketplace-invited-sellers) page.</li> <li> Share the article "[<span style="font-weight:400;color:#F71963;background-color:transparent">Seller: creating an account in the Seller Portal </span>](/en/docs/tutorials/seller-creating-an-account-in-the-seller-portal)" with your sellers to help them learn how to set up their accounts.</li> <li>[<span style="font-weight:400;color:#F71963;background-color:transparent">Activate the seller</span>](/en/docs/tutorials/seller-portal-getting-started-for-the-marketplace) so that they can submit products to your marketplace.</li> <br>Learn more about the complete process in the article [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller Portal: Getting started for the marketplace</span>](/en/docs/tutorials/seller-portal-getting-started-for-the-marketplace). </br></td>
+    <td>To enable sellers to access the portal, follow these steps: <ol> <li>Send an invite to each seller you wish to add to the Seller Portal via the [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller Invite</span>](/en/docs/tutorials/marketplace-invited-sellers) page.</li> <li> Share the article "[<span style="font-weight:400;color:#F71963;background-color:transparent">Seller: creating an account in the Seller Portal </span>](/en/docs/tutorials/seller-creating-an-account-in-the-seller-portal)" with your sellers to help them learn how to set up their accounts.</li> <li>[<span style="font-weight:400;color:#F71963;background-color:transparent">Activate the seller</span>](/en/docs/tutorials/seller-portal-getting-started-for-the-marketplace) so that they can submit products to your marketplace.</li> <br>Learn more about the complete process in the article [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller Portal: Getting started for the marketplace</span>](/en/docs/tutorials/seller-portal-getting-started-for-the-marketplace). </br></td></ol>
   </tr>
   <tr>
     <td>Seller Management</td>

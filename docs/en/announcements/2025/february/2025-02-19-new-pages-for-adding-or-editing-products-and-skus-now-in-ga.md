@@ -30,8 +30,8 @@ The changes are listed below, divided based on the page to which they refer.
 
 The table below highlights the new features available on the page for [adding or editing products](/en/docs/tutorials/adding-or-editing-products):
 
-| **Improvement** | **Description** |
-| :--- | :--- |
+| Improvement | Description |
+| --- | --- |
 | New actions menu on the product page | In the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> menu at the top right of the product page, you can perform the following actions:<ul><li>**Duplicate** (product)</li><li>**Edit prices**</li><li>**Edit inventory**</li><li>**View in store**</li><li>**Price and inventory** (see info)</li><li>**View indexed info**</li></ul> |
 | New field: **Additional description** | Include additional and summarized product information. This improvement provides more flexibility and options for presenting the product on the PDP. |
 | New field: **Release date** | Set the product release date, determining when it will be available for sale. |
@@ -42,8 +42,8 @@ The table below highlights the new features available on the page for [adding or
 
 The table below highlights the new features on the page for [adding or editing SKUs](/en/docs/tutorials/adding-or-editing-skus):
 
-| **Improvement** | **Description** |
-| :--- | :--- |
+| Improvement | Description |
+| --- | --- |
 | New actions: **Get existing SKUs** or **Move to another product** | Import or send a SKU from one product to another. |
 | New action: **Create bundle** | Convert the SKU into a [bundle](/en/docs/tutorials/what-is-a-bundle). |
 | New action: **Duplicate** (existing SKU) | Create a new SKU from an existing one. This action creates a new SKU with the same settings. |

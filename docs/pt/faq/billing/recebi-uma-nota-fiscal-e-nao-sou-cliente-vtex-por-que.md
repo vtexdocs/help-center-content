@@ -1,5 +1,6 @@
 ---
 title: 'Recebi uma Nota Fiscal e não sou cliente VTEX. Por quê?'
+excerpt: "Notas fiscais emitidas no CNPJ da VTEX podem ser de outras marcas do grupo. Use o canal de suporte da plataforma que você realmente usa."
 id: 2xW1boWieUC40KQgIaugGG
 status: PUBLISHED
 createdAt: 2018-03-28T18:35:49.057Z

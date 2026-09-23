@@ -1,5 +1,6 @@
 ---
-title: 'Why is an error returned on access to the store after changing the DNS?'
+title: 'Why does the store return an error after I change the DNS?'
+excerpt: "DNS pointing is not enough. Set the account status to production in Account management before the storefront can load."
 id: frequentlyAskedQuestions_2248
 status: PUBLISHED
 createdAt: 2017-04-27T22:25:29.934Z
@@ -14,10 +15,10 @@ locale: en
 legacySlug: why-is-an-error-returned-on-access-to-the-store-after-changing-the-dns
 ---
 
-The [DNS has been pointed](/en/tutorial/configuring-dns-pointing-to-vtex) and all the store URLs have been configured, but even so you cannot access the store? The problem may be in the __Account management__.
+You [pointed the DNS to VTEX](/en/docs/tutorials/how-dns-configuration-works-on-vtex) and configured the store URLs, but the storefront still does not load. The cause is often in **Account**.
 
-An essential step for a store to go into production is to configure this status in your account, in the __Account management__.
+For the store to go live, the account status must be set to production in [Account management](/en/docs/tutorials/account-management).
 
-So if you access your store and cannot enter the e-commerce environment, and an error screen shows, check that your status is “production” in the __Account management__, [configuring it as in this tutorial](/en/tutorial/releasing-the-store-for-production/).
+If you open the store and see an error instead of the storefront, confirm that the account status is **in production**. See the [Go-live](/en/tracks/go-live--4Ns5FxIiksmjsdX2yOTduM) track for the full process.
 
-After you have configured the status, you will be able to access the store.
+After you set the status to production, you can access the store.

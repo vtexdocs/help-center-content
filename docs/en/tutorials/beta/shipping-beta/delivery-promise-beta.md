@@ -77,6 +77,10 @@ To participate in the current phase of **Delivery Promise (Beta)**, contact [our
 
 - Use [Intelligent Search](https://help.vtex.com/en/docs/tracks/overview-intelligent-search).  
 - External sellers must comply with the notification protocol of the [Delivery Promise Notification API](https://developers.vtex.com/docs/api-reference/delivery-promise-notification-api).
+- Don't use VTEX Shipping Network.
+- Don't use [Operational capacity](https://help.vtex.com/docs/tutorials/operational-capacity).
+- Don't use more than 10,000 pickup points.
+- Don't use [Assembly Options](https://help.vtex.com/docs/tutorials/assembly-options) for regular sellers.
 
 ## Learn more
 

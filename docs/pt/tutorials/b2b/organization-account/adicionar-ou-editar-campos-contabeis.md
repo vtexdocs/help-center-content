@@ -24,7 +24,7 @@ Este artigo aborda:
 
 ## Editar campo contábil
 
-![Buyer Portal B2B organization unit information page](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/conta-da-organizacao/buyer-portal-b2b-organization-unit-information-page.png)
+![Buyer Portal B2B organization unit information page](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buyer-portal-b2b-organization-unit-information-page.png)
 
 1. Acesse a [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao).
 2. Clique sobre o nome do campo contábil desejado.

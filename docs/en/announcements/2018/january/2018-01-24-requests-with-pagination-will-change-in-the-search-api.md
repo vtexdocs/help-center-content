@@ -15,11 +15,11 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Starting march 31st, the request header resources for pagination will be deprecated.'
 ---
 
-> ⚠️ **Warning**: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ VTEX has two search options - VTEX Search (Legacy) and VTEX Intelligent Search. This article refers to the VTEX Search (Legacy). To learn more about VTEX Intelligent Search, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 Starting __march 31st__, the  request header `resources` for pagination will be deprecated. As a result, you will have to use the parameters `_from` and `_to` in the URL in order to make a request. For example:
 
-`http://{{AccountName}}.{{environment}}.com.br/api/catalog_system/pub/products/search?ft=refrigerator&_from=1&_to=30`
+`http://{{accountName}}.{{environment}}.com.br/api/catalog_system/pub/products/search?ft=refrigerator&_from=1&_to=30`
 
 This change has already been implemented in the API, but until the due date, both ways to make the request will be permitted. On the other hand, we won't make any changes in the response header `resources` (so it will keep working normally).
 

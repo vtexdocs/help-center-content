@@ -54,4 +54,5 @@ The available datasets are:
 - [Bridge logs](/en/docs/tutorials/bridge-logs-data-pipeline)
 - [Marketplace in](/en/docs/tutorials/marketplace-in-data-pipeline)
 - [Cart Availability](/en/docs/tutorials/cart-availability-data-pipeline)
+- [Search and Recommendations](/en/docs/tutorials/search-and-recomendations-data-pipeline)
 

@@ -30,7 +30,7 @@ After creating the service and defining its value, follow the steps below to reg
 9. On the __Customization__ section, click `+` > __Services__.
 10. Fill in the fields and click `Apply`.
 
-> ℹ️ After setting up the SKU service, wait for the indexing process for the registration to be effective on the website. Once the service is active, you will be able to test the purchase.
+> ℹ️ After setting up the SKU service, wait for indexing to complete so the registration takes effect on the website. Once the service is active, you will be able to test the purchase.
 
 ## Validating the configuration
 

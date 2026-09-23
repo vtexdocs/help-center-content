@@ -185,8 +185,8 @@ En VTEX, es importante entender la distinción entre productos y SKU:
 
 La importación de productos debe seguir el orden descrito en la tabla a continuación:
 
-| **Acción** | **Descripción** | **Métodos** |
-| :--- | :--- | :--- |
+| Acción | Descripción | Métodos |
+| --- | --- | --- |
 | [1. Importar productos](https://developers.vtex.com/docs/guides/products) | Registrar los productos en el catálogo. | - Integración mediante la [API de Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product). <br><br>- Importación de plantillas ([método clásico](/es/docs/tracks/modulos-de-vtex-i#catalogo) y [aplicación google-drive-import](https://developers.vtex.com/docs/apps/vtex.google-drive-import@0.x)). <br><br>- Entrada manual en el Admin VTEX. |
 | [2. Importar especificaciones de los productos](https://developers.vtex.com/docs/guides/product-specifications) | Rellenar las especificaciones de los productos en el catálogo. | - Integración mediante la [API de Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/specification). <br><br>- Entrada manual en el [Admin VTEX](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto#preencher-especificacoes-de-produto). |
 | [3. Agregar los productos a la política comercial](https://developers.vtex.com/docs/guides/erp-integration-import-products#add-product-to-trade-policy) | Asociar los productos a las [políticas comerciales](/es/docs/tutorials/como-funciona-una-politica-comercial) correspondientes y definir las reglas específicas (precios, pagos, estrategia de envío, etc.) según el canal de venta o público. Como mínimo, se deben agregar todos los productos a la política comercial principal. | - Integración mediante la [API de Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/salespolicy/-tradepolicyId-). <br><br>- Entrada manual en el [Admin VTEX](/es/docs/tracks/registrar-producto) al registrar un producto. |
@@ -294,8 +294,8 @@ El inicio de sesión único es un método que permite autenticar usuarios en la 
 
 **VTEX ID** es el servicio que identifica los usuarios en la plataforma. Este servicio opera de acuerdo con la audiencia, las reglas de negocios y el tipo de user persona que puede interactuar con cada módulo de VTEX. Las audiencias disponibles son:
 
-| **Audiencia** | **Contexto** | **Tecnología** |
-| :---: | :--- | :--- |
+| Audiencia | Contexto | Tecnología |
+| --- | --- | --- |
 | [Admin VTEX](https://developers.vtex.com/docs/guides/login-integration-guide-admin-saml2) | Identificación en el dashboard administrativo de VTEX, también conocido como [Admin VTEX](/es/docs/tutorials/admin-vtex-comience-aqui), destinado a administradores y operadores de la tienda. | SAML 2.0 (Security Assertion Markup Language). |
 | [Webstore](https://developers.vtex.com/docs/guides/login-integration-guide-webstore-oauth2) | Identificación en el storefront VTEX, destinado a los clientes de la tienda. | OAuth 2.0 (Open Authorization). |
 
@@ -371,7 +371,7 @@ Algunos ejemplos de soluciones disponibles en la App Store son:
 - [Live Shopping](https://developers.vtex.com/docs/apps/vtexventures.livestreaming): permite transmitir en vivo desde el sitio web de la tienda para interactuar con los clientes en tiempo real. Crea oportunidades para promocionar productos y tiene varios componentes que van más allá de la reproducción de video como número de espectadores, botón de me gusta, chat en tiempo real y barra lateral para presentar productos.
 - **Aplicaciones de chat para clientes:** agregan un componente de chat para interactuar con los clientes. Pueden disponer de un chatbot para interacción automática, además de proporcionar servicio al cliente humano. Algunos ejemplos de aplicaciones son [JivoChat](https://developers.vtex.com/docs/apps/vtex.jivochat), [Tawk.to](https://developers.vtex.com/docs/apps/vtex.tawk-to) y [Zendesk Chat](https://developers.vtex.com/docs/apps/vtex.zendesk-chat).
 - **Aplicaciones de análisis y evaluación:** agregan componentes para que los clientes evalúen los productos de la tienda, generalmente mediante una calificación numérica o un comentario. Algunos ejemplos de aplicaciones son [Reviews and Ratings by VTEX](https://developers.vtex.com/docs/apps/vtex.reviews-and-ratings), [Bazaarvoice](https://developers.vtex.com/docs/apps/vtex.bazaarvoice) y [PowerReviews](https://developers.vtex.com/docs/apps/vtex.powerreviews).
-- **Aplicaciones de redes sociales:** permite interactuar con redes sociales, como por ejemplo para divulgar productos de la tienda a través de anuncios en la plataforma de la red. Algunos ejemplos de aplicaciones son [TikTok for Business](https://developers.vtex.com/docs/apps/vtexbr.tiktok-tbp) y [Facebook Business Extension](https://developers.vtex.com/docs/apps/vtex.facebook-fbe).
+- **Aplicaciones de redes sociales:** permite interactuar con redes sociales, como por ejemplo para divulgar productos de la tienda a través de anuncios en la plataforma de la red. Algunos ejemplos de aplicaciones son [TikTok for Business](https://developers.vtex.com/docs/apps/vtexbr.tiktok-tbp) y [Extensión de Meta para empresas](https://developers.vtex.com/docs/apps/vtex.facebook-fbe).
 
 ### Consideraciones al crear una aplicación para tu tienda
 

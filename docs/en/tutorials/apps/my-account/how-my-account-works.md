@@ -1,5 +1,5 @@
 ---
-title: 'How My Account works'
+title: 'My Account'
 id: 2BQ3GiqhqGJTXsWVuio3Xh
 status: PUBLISHED
 createdAt: 2019-04-11T21:14:26.117Z

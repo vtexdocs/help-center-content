@@ -122,7 +122,7 @@ Conversion notes:
 
 Tras la instalación, haz clic en Apps, en el panel lateral izquierdo del Admin. A continuación, selecciona la aplicación Payment Provider Test Suite para configurarla correctamente.
 
-Dependiendo de la versión del Admin utilizada en la cuenta de la tienda, la aplicación estará disponible en la lista de aplicaciones. Para acceder a ella, utiliza la dirección [https://{{accountName}}.myvtex.com/admin/test-suite](about:blank)/payment-provider, sustituyendo {{accountName}} por el nombre de cuenta de tu tienda.
+Dependiendo de la versión del Admin utilizada en la cuenta de la tienda, la aplicación estará disponible en la lista de aplicaciones. Para acceder a ella, utiliza la dirección `https://{{accountName}}.myvtex.com/admin/test-suite/payment-provider`, sustituyendo `{{accountName}}` por el nombre de cuenta de tu tienda.
 
 Luego, verás un formulario que tiene tres secciones: Información de servicio, Medio de pago y Casos de prueba. Rellena los campos según las instrucciones a continuación.
 
@@ -274,4 +274,4 @@ Más información acerca de la API de liquidación [aquí](https://developers.vt
 ## Credenciales VTEX
 Al llamar a CallbackURL, usted debe especificar los headers de autenticación, que en VTEX son _X-VTEX-API-AppKey_ y _X-VTEX-API-AppToken_. Puede encontrar estas credenciales (que son únicas para su cuenta) en el módulo License Manager de VTEX.
 
-Utilice la URL `https://{{AccountName}}.myvtex.com/admin/license-manager/#/home`, sustituyendo el `{{AccountName}}` por su nombre de cuenta. Entonces, siga las instrucciones de [este tutorial](https://developers.vtex.com/docs/guides/authentication-overview) para aprender a crear appKeys y appTokens.
+Utilice la URL `https://{{accountName}}.myvtex.com/admin/license-manager/#/home`, sustituyendo el `{{accountName}}` por su nombre de cuenta. Entonces, siga las instrucciones de [este tutorial](https://developers.vtex.com/docs/guides/authentication-overview) para aprender a crear appKeys y appTokens.

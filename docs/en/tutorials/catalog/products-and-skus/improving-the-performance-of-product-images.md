@@ -17,12 +17,12 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 The pictures of your products are often the chief villains in your store’s performance.
 
-This purpose of this article is to show how to use VTEX Img to make the loading of images more efficient and to improve the performance of the site.
+The purpose of this article is to show how to use VTEX Img to make the loading of images more efficient and to improve the performance of the site.
 
 **VTEX Img**, a service that delivers these images to the storefront, has a small API which, if properly used, can be of great benefit to your customers.
 
 The URL of an SKU image has the following format:
-`http://[ACCOUNT_NAME].vteximg.com.br/arquivos/ids/[ID](-[WIDTH]-[HEIDTH])/([IMAGE_NAME])`
+`http://[ACCOUNT_NAME].vteximg.com.br/arquivos/ids/[ID](-[WIDTH]-[HEIGHT])/([IMAGE_NAME])`
 
 The values in bold type are those that change according to the store, the SKU and the image (i.e. the account name of the store, the id, and the width, height and name of the image).
 
@@ -37,9 +37,9 @@ In this URL we have:
 
 - **[ACCOUNT\_NAME]**: instoreqa
 - **[ID]**: 155602
-- **[LARGURA]**: not specified
-- **[ALTURA]**: not specified
-- **[NOME\_DA\_IMAGEM]**: robo.jpg
+- **[WIDTH]**: not specified
+- **[HEIGHT]**: not specified
+- **[IMAGE\_NAME]**: robo.jpg
 
 The name of the image is an optional parameter. Thus the same image is delivered if we open the following URL:
 `http://instoreqa.vteximg.com.br/arquivos/ids/155602/`
@@ -53,7 +53,7 @@ A store wants a page to show an image of a product size 50×50. Imagine that th
 
 In this case, the browser will download the image full-size, i.e. the same image in high definition which was uploaded to the Catalogue.
 
-These means that more data is being transferred than necessary, and this is bad for the store’s performance.
+This means that more data is being transferred than necessary, and this is bad for the store’s performance.
 
 ### What can we do?
 

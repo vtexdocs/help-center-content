@@ -47,8 +47,8 @@ No Admin VTEX, em **Catálogo > Categorias**, você encontra a página de gerenc
 
 Na fase beta, utilizaremos uma nova nomenclatura para os seguintes termos:
 
-| **Nome atual** | **Nome no beta** |
-| :---: | :---: |
+| Nome atual | Nome no beta |
+| --- | --- |
 | [Especificações de produto](/pt/docs/tracks/especificacoes-definicao-de-conceito#especificacao-de-produto) | Atributos |
 | [Especificações de SKU](/pt/docs/tracks/especificacoes-definicao-de-conceito#especificacao-de-sku) | Variações |
 | [Grupos (de especificações de produtos ou de SKUs)](/pt/docs/tutorials/criando-grupo-de-especificacoes-em-uma-categoria) | Grupos (de atributos ou de variações) |
@@ -267,8 +267,8 @@ Feito isso, aparecerá a mensagem de confirmação _"Atributo atualizado"_.
 
 Com relação a sua ativação, o atributo e o seus valores podem ter dois status, conforme apresentado na tabela abaixo:
 
-| **Status** | **Atributo** | **Valor do atributo** | **Cor do ícone** |
-| :---: | :--- | :--- | :---: |
+| Status | Atributo | Valor do atributo | Cor do ícone |
+| --- | --- | --- | --- |
 | Ativo | O atributo pode ser refletido na frente de loja, apresentando somente os valores ativados. | O valor do atributo pode ser refletido na frente de loja, desde que o atributo em si esteja ativado. | 🟢 Verde |
 | Inativo | O atributo não é refletido na frente de loja, independente do status dos valores. | O valor do atributo não é refletido na frente de loja, independente do atributo estar ativo ou não. | ⚪ Branco |
 
@@ -341,8 +341,8 @@ Feito isso, aparecerá a mensagem de confirmação _"Variação atualizada"_.
 
 Com relação a sua ativação, a variação e o valor da variação podem ter dois status, conforme apresentado na tabela abaixo:
 
-| **Status** | **Variação** | **Valor da variação** | **Cor do ícone** |
-| :---: | :--- | :--- | :---: |
+| Status | Variação | Valor da variação | Cor do ícone |
+| --- | --- | --- | --- |
 | Ativo | A variação está é refletida na frente de loja e apresenta somente os valores ativados. | O valor da variação pode ser refletido na frente de loja, desde que a variação em si esteja ativada. | 🟢 Verde |
 | Inativo | A variação não é refletida na frente de loja, independente do status dos valores. | O valor da variação não é refletido na frente de loja, independente da variação estar ativa ou não. | ⚪ Branco |
 

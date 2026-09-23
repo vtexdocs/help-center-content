@@ -147,7 +147,7 @@ La sección Restricciones está presente en todos los tipos de promociones. Cons
  La siguiente tabla muestra los tipos de promoción en que cada restricción puede aplicarse:
 
 | Tipo de promoción | Límite de uso en la tienda | Límite de uso por cliente | Límite de ítems elegibles |
-| :---- | :---: | :---: | :---: |
+| ---- | --- | --- | --- |
 | **Regular** | sí | sí | no |
 | **Comprar juntos** | sí | sí | no |
 | **Más por menos** | sí | sí | sí |

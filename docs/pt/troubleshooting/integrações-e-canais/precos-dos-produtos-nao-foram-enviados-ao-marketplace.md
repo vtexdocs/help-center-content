@@ -37,7 +37,7 @@ As mensagens de erro de integração estão disponíveis no menu de Preços do A
 
 Veja na tabela abaixo quais são as possíveis mensagens de erro referente à configuração dos preços e qual a ação necessária para corrigi-lo.
 
-|**Mensagem de erro**|**Significado**|**Ação requerida**|
+|Mensagem de erro|Significado|Ação requerida|
 |--|--|--|
 |Sale price cannot be updated to 29,99. Can not offer more then 70% off.|O seller não pode oferecer mais de 70% de oferta sobre o [preço-base](/pt/docs/tracks/preco-base-definicao-de-conceito) de um produto.| Alterar o preço da oferta para um valor que esteja dentro da porcentagem exigida pelo marketplace.|
 |Verifique se este SKU possui preço cadastrado para esta política ou se o preço não expirou.|O preço do SKU não foi cadastrado na [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) utilizada na integração com o marketplace ou expirou.| Cadastrar preço para o SKU na política comercial utilizada para integrar a loja ao marketplace.|

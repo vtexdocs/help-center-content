@@ -53,7 +53,7 @@ Al finalizar la exportación recibirás un email con un link para descargar el a
 La siguiente tabla muestra la descripción y el ejemplo de valor de los campos de la plantilla de importación de especificaciones de SKUs. Los campos obligatorios están marcados con un asterisco (*).
 
 | Campo | Descripción | Ejemplo |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | ID SKU* | Código numérico único que identifica el SKU. | 310119261 |
 | Nombre SKU | Nombre del SKU, que identifica la variación del producto. | M |
 | Código referencia SKU | Código de referencia único del SKU, creado para ayudar en la gestión del catálogo. Una vez creado, no se puede modificar desde la plantilla.Este campo es obligatorio a menos que se haya llenado el campo **EAN/UPC**. | camisa-color |

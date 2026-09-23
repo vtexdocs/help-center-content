@@ -1,0 +1,405 @@
+---
+title: 'Predefined roles'
+id: jGDurZKJHvHJS13LnO7Dy
+status: PUBLISHED
+createdAt: 2022-04-07T21:34:06.385Z
+updatedAt: 2025-04-09T19:03:02.620Z
+publishedAt: 2025-04-09T19:03:02.620Z
+firstPublishedAt: 2022-04-07T21:48:28.951Z
+contentType: tutorial
+productTeam: Identity
+author: 127RQ7SUoFfyTh5gbXUpdM
+slugEN: predefined-roles
+legacySlug: 
+locale: en
+subcategoryId: 1HSqkejwuYcQSMC400uY84
+---
+
+[Roles](/en/docs/tutorials/roles) group [License Manager resources](/en/docs/tutorials/license-manager-resources), with each resource representing a permission in the VTEX platform.
+
+In this document, are listed the roles that are predefined for new VTEX stores and their respective resources. To access them directly, use the list below.
+
+> ℹ️ Learn more about each resource listed in the roles below in [License Manager Resources](/en/docs/tutorials/license-manager-resources).
+
+* [Admin - Start page only](#admin-start-page-only)
+* [Ad Network Advertiser](#ad-network-advertiser)
+* [Billing](#billing)
+* [Checkout Admin](#checkout-admin)
+* [Call center operator](#call-center-operator)
+* [Content Administrator](#content-administrator)
+* [Finance](#finance)
+* [Finance - Full access](#finance-full-access)
+* [inStore Sales Person](#instore-sales-person)
+* [Sales App - Sales Associate](#sales-app-sales-associate)
+* [IntegrationProfile - Fulfillment](#integrationprofile-fulfillment)
+* [IntegrationProfile - Fulfillment Gateway](#integrationprofile-fulfillment-gateway)
+* [IntegrationProfile - Fulfillment Gateway GetOrder](#integrationprofile-fulfillment-gateway-getorder)
+* [IntegrationProfile - Fulfillment Gateway Oms](#integrationprofile-fulfillment-gateway-oms)
+* [IntegrationProfile - Fulfillment Oms](#integrationprofile-fulfillment-oms)
+* [IntegrationProfile - OrderSimulation](#integrationprofile-ordersimulation)
+* [Logistics - Full access](#logistics-full-access)
+* [Logistics - Read only](#logistics-read-only)
+* [OMS - Full access](#oms-full-access)
+* [OMS - Read only](#oms-read-only)
+* [Owner (Admin Super)](#owner-admin-super)
+* [Payments Notifier](#payments-notifier)
+* [Seller Manager](#seller-manager)
+* [User Administrator - RESTRICTED](#user-administrator-restricted)
+* [VTEX IO Admin](#vtex-io-admin)
+* [VTEX Payment - Account Holder](#vtex-payment-account-holder) *(deprecated)*
+* [VTEX Payment - Bookkeeper](#vtex-payment-bookkeeper) *(deprecated)*
+
+## Ad Network Advertiser
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+|---|---|---|---|
+| Insights Metrics | Insights | Analysis | Allows you to view all the metrics and data present in the VTEX Admin dashboards, including the following pages: Sales Performance, Admin Home page, Insights and Audit. |
+| View Advertiser's details | VTEX Ad Network | Advertisers | View advertiser information relating to the VTEX Ad Network. |
+| View Advertiser's campaigns | VTEX Ad Network | Advertisers | View campaign information for a VTEX Ad Network advertiser. |
+| Edit Advertiser's campaigns | VTEX Ad Network | Advertisers | Edit campaign information for a VTEX Ad Network advertiser. |
+
+## Billing
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+|---|---|---|---|
+| Invoices List | Billing | Invoice | Viewing the customer's invoice list, as well as the invoice details, which includes information such as GMV and take rate. |
+| Edit Company Information | Billing | Company | Edit a customer's registration information, including: company name, trade name, branch, sales region, tier, billing status, and address. |
+| Display Company info | Billing | Company | View a customer's registration information, which includes: company name, trade name, branch, sales region, tier, billing status, and address. |
+| Contracts List | Billing | Contracts | View contracts and billing terms registered in the Invoices module of the VTEX platform. |
+| Contacts List | Billing | Contacts | View which contacts receive email notifications when a specific customer's invoice is generated. |
+| Edit Contacts | Billing | Contacts | Add or edit a contact. |
+
+## Admin - Start page only
+
+This is the basic role that grants access to the home page of the administrative environment. It is the minimum required for a user not to be received with an error message when logging into the administrative environment.
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+|---|---|---|---|
+| Homepage | Catalog | Administration | Home page. |
+| Help page | Catalog | Administration | Help home page. |
+| View Product | Catalog API | General | View product and SKU details. |
+| View Collection | Catalog API | General | View collection details. |
+| View Category | Catalog API | General | View category details. |
+| View Brand | Catalog API | General | View brand details. |
+| Import Spreadsheet | Catalog API | General | Import products and SKUs via spreadsheet. |
+| Export Spreadsheet | Catalog API | General | Export catalog information spreadsheet. |
+| Edit Product | Catalog API | General | Edit product details and SKUs. |
+| Edit Collection | Catalog API | General | Edit collection details. |
+| Edit Category | Catalog API | General | Edit category details. |
+| Edit Brand | Catalog API | General | Edit brand details. |
+
+## Content Administrator
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+|---|---|---|---|
+| Save to main branch | Commerce Content | Branch | Adds changes directly to the main branch. |
+| Remove from main branch | Commerce Content | Branch | Remove changes from the main branch. |
+| Merge branch | Commerce Content | Branch | Merges changes from one branch to the main branch. |
+| Delete entry | Commerce Content | Entry | Permanently deletes an entry from all history and branches. |
+| Create Store | Commerce Content | Stores | Create a new Commerce Content store in the account. |
+| Upload Image | Commerce Content | Media Gallery | Allows users to add images to the Media Gallery, creating reusable media entries for use in Content Types and components in the Admin. |
+
+## Checkout Admin
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+|---|---|---|---|
+| Shopping Cart Full Access | Checkout | CheckoutResources | Read and write access for all shopping carts. Allows cart data to be displayed in its entirety (not masked). Also allows private cart simulation requests. |
+| Orders Full Access | Checkout | CheckoutResources | Read and write access to all orders via the Checkout API. Access to orders through the order management module flow is not permitted. |
+| Order Cancellation | Checkout | CheckoutResources | Cancel orders via the Checkout API. Canceling orders through the order management module's cancellation flow is not allowed. |
+
+## Call center operator
+
+This is a role dedicated to telesales operators, as it grants access to VTEX's [telesales features](/en/docs/tutorials/telesales-features) and allows you to view orders.
+
+The Assisted Sales resource causes the user to be automatically redirected to the store's telesales page, which will leave the user logging into an account with this role without access to important features of the administrative menu.
+
+We therefore recommend using two separate accounts (with different emails) for telesales users: one account for the __Call center operator__ role (with the *Assisted Sales* and *View order* resources) and another account for carrying out operations in Admin, if necessary.
+
+> ⚠️ When creating a [role](/en/docs/tutorials/roles), avoid including call center [resources](/en/docs/tutorials/license-manager-resources) with other resources. Otherwise, the role might not work as expected.
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+|---|---|---|---|
+| Assisted Sales | Catalog | Telesales | Telesales features. After the login, the user is redirected to the telesales site www.{storename}.com.br/a/telesales. This way, the operator can use telesales features such as navigating the store in the name of the customer. As this feature causes an automatic redirect to the store, the user who logs in an account with this resource in their role will not have access to important resources from Admin. |
+| View order | OMS | AcessoOMS | Allows users to view orders in OMS. |
+
+## Finance  
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+|---|---|---|---|
+| UI - Account list | License Manager | Web Access Control | VTEX internal use. |
+| View order | OMS | AcessoOMS | Allows users to view orders in OMS. |
+| View store sales stats | OMS | AcessoOMS | Displays totalizers within the All Orders section in Orders Management. Displays total sales in addition to orders details. |
+| Invoices List | Billing | Invoice | Customers, billing and finance managers have access. Allows users to view invoices. |
+| Edit Company Information | Billing | Company | Only billing and finance managers have access. Allows users to edit Company data. |
+| Contracts List | Billing | Contracts | Customers, billing and finance managers have access. Allows users to view all contracts (active and inactive) for a company. |
+| Display Company info | Billing | Company | Customers, billing and finance managers have access. Allows users to view Company data. |
+| Contacts List | Billing | Contacts | Customers, billing and finance managers have access. Allows users to view the list of Contacts that receive email notifications when charges are incurred. |
+| Edit Contacts | Billing | Contacts | Only billing and finance managers have access. Allows users to edit contacts that receive notifications when charges are incurred. |
+| Generate new Invoice | Billing | Invoice | Only billing and finance managers have access. Finance managers can manually incur charges in the invoice through contracts. |
+| Recalc Invoice | Billing | Invoice | Only billing and finance managers have access. Incur new charge with interest. |
+
+## Finance - Full access  
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+|---|---|---|---|
+| Save account | License Manager | Service Access Control | Save an account. |
+| Get account by identifier | License Manager | Service Access Control | Query that returns account by identifier, which can be the account id or the account application host. |
+| UI - Account list | License Manager | Web Access Control | VTEX internal use. |
+| UI - Edit account | License Manager | Web Access Control | VTEX internal use. |
+| UI - Edit role | License Manager | Web Access Control | VTEX internal use. |
+| View order | OMS | AcessoOMS | Allows users to view all orders in OMS. |
+| View store sales stats | OMS | AcessoOMS | Displays totalizers within the All Orders section in Orders Management. Displays total sales in addition to orders details. |
+| Invoices List | Billing | Invoice | Customers, billing and finance managers have access. Allows users to view invoices. |
+| Edit Company Information | Billing | Company | Only billing and finance managers have access. Allows users to edit Company data. |
+| Contracts List | Billing | Contracts | Customers, billing and finance managers have access. Allows users to view all contracts (active and inactive) for a company. |
+| Display Company info | Billing | Company | Customers, billing and finance managers have access. Allows users to view Company data. |
+| Contacts List | Billing | Contacts | Customers, billing and finance managers have access. Allows users to view the list of Contacts that receive email notifications when charges are incurred. |
+| Edit Contacts | Billing | Contacts | Only billing and finance managers have access. Allows users to edit contacts that receive notifications when charges are incurred. |
+| Generate new Invoice | Billing | Invoice | Only billing and finance managers have access. Finance managers can manually incur charges in the invoice through contracts. |
+| Edit Company's Document | Billing | Company | Only billing and finance managers have access. Allows users to edit the Company's document data (company registration number or individual taxpayer registration number), with which the invoice will be generated. |
+| Add Account | Billing | Company | Only billing and finance managers have access. Allows users to add an account to group other accounts linked to that customer into one billing. |
+| Delete Account | Billing | Company | Only billing and finance managers have access. Allows users to delete an account associated with a company. Company is the entity created to encompass several accounts from the same store. |
+| Save contracts | Billing | Contracts | Only billing, sales operations/growth and finance managers have access. Allows users to create new contracts. |
+| Cancel Invoice Document | Billing | Invoice | Only billing and finance managers have access. Cancel fiscal document in municipal administrations; gives the power to cancel a fiscal document even if the invoice has already been generated. |
+| Issue Invoice Document | Billing | Invoice | Only billing and finance managers have access. Used in specific cases of countries that do not generate fiscal documents automatically, depending on their financial system. In this case, they can be generated manually. |
+| Conciliate Invoice | Billing | Invoice | Only billing and finance managers have access. The default is to automatically mark it as paid, but the customer can pay it outside the system, depending on the negotiation. In this case, the finance manager has the power to manually mark it as paid, conciliating the invoices. |
+| Generate Invoice Overdue without Interest | Billing | Invoice | Only billing and finance managers have access. Incur new charge with interest. |
+| Cancel Invoice | Billing | Invoice | Only billing and finance managers have access. Cancel charges in billing; gives the power to cancel invoices even if they have already been generated. |
+| Change payment status | Billing | Invoice | Only billing and finance managers have access. The finance manager has the power to change a company’s payment status, depending on his negotiation with the client. |
+| Recalc Invoice | Billing | Invoice | Only billing and finance managers have access. Incur new charge with interest. |
+| Get Unscrewed Dashboard Charges | Billing | Dashboard | Only billing and finance managers have access. Access to a dashboard external to Admin, which displays invoices issued at that time, and which accounts are provisioned. |
+| Merge companies | Billing | Company | Only billing and finance managers have access. Allows the merger between two companies, unifying their billing. |
+| Split companies | Billing | Company | Only billing and finance managers have access. Allows to split a company into different companies. |
+| Unpaid invoices | Billing | Invoice | Only billing and finance managers have access. The finance manager can manually deselect the payment of a charge if it has not been made or if it has been made incorrectly. |
+| Get App | Log | Log Admin | VTEX internal use. |
+| Create Table | Log | Log Admin | VTEX internal use. |
+
+## inStore Sales Person
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+|---|---|---|---|
+| Assisted Sales | Catalog | Telesales | Telesales features. After the login, the user is redirected to the telesales site www.{storename}.com.br/a/televendas. This way, the operator can use telesales features such as navigating the store in the name of the customer. As this feature causes an automatic redirect to the store, the user who logs in an account with this resource in their role will not have access to important resources from Admin. |
+| View order | OMS | OMS access | View all orders from the given account. |
+| CMS GraphQL API | CMS | GraphQL | Use the VTEX IO CMS GraphQL API. |
+
+## Sales App - Sales Associate
+
+> ⚠️ Sales associates registered in Sales App cannot access the VTEX Admin, only Sales App.
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+|---|---|---|---|
+| Assisted Sales | Catalog | Televendas | After logging in, the user is redirected to the store (accountname.myvtex.com). |
+| View order | OMS | AcessoOMS | Allows users to view all orders in OMS. |
+
+## IntegrationProfile - Fulfillment
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+|---|---|---|---|
+| Place Orders | VTEX Fulfilment | Fulfilment Resources | Deprecated. |
+| Order Details | VTEX Fulfilment | Fulfilment Resources | Deprecated. |
+
+## IntegrationProfile - Fulfillment Gateway
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+|---|---|---|---|
+| Make Payments | PCI Gateway | Payment-MakePayments | Represents the transactional operations of the payment gateway. |
+| View Payment Data | PCI Gateway | Payment-ViewPaymentData | Recovers a transaction. |
+| Notify payment | OMS | AcessoOMS | Access to the button that manually notifies payments to the gateway in the payment area within the order. |
+| View order | OMS | AcessoOMS | Allows users to view all orders in OMS. |
+| Place Orders | VTEX Fulfilment | Fulfilment Resources | Deprecated. |
+| Order Details | VTEX Fulfilment | Fulfilment Resources | Deprecated. |
+| Cancel order | OMS | AcessoOMS | Allows users to cancel orders in OMS. |
+
+## IntegrationProfile - Fulfillment Gateway GetOrder
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+|---|---|---|---|
+| Make Payments | PCI Gateway | Payment-MakePayments | Represents the transactional operations of the payment gateway. |
+| View Payment Data | PCI Gateway | Payment-ViewPaymentData | Recovers a transaction. |
+| View order | OMS | AcessoOMS | Allows users to view all orders in OMS. |
+| Place Orders | VTEX Fulfilment | Fulfilment Resources | Deprecated. |
+| Order Details | VTEX Fulfilment | Fulfilment Resources | Deprecated. |
+
+## IntegrationProfile - Fulfillment Gateway Oms
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+|---|---|---|---|
+| Make Payments | PCI Gateway | Payment-MakePayments | Represents the transactional operations of the payment gateway. |
+| View Payment Data | PCI Gateway | Payment-ViewPaymentData | Recovers a transaction. |
+| Change order workflow status | OMS | AcessoOMS | Allows users to access actions within the workflow to change orders status, through the Actions button in the Workflow. |
+| Notify payment | OMS | AcessoOMS | Access to the button that manually notifies payments to the gateway in the payment area within the order. |
+| Notify invoice | OMS | AcessoOMS | Allows users to manually inform invoices and data for tracking in OMS. |
+| View order | OMS | AcessoOMS | Allows users to view all orders in OMS. |
+| Place Orders | VTEX Fulfilment | Fulfilment Resources | Deprecated. |
+| Order Details | VTEX Fulfilment | Fulfilment Resources | Deprecated. |
+| Notify refund | OMS | AcessoOMS | Allows users to notify when an accounts receivable invoice is in processing, indicating a journal entry for something that was refunded. Allows the input of a return invoice. |
+| Cancel order | OMS | AcessoOMS | Allows users to cancel orders in OMS. |
+| Order feed subscription | OMS | AcessoOMS | Allows users to subscribe to receive order status updates in the Order Feed. |
+| Change order | OMS | AcessoOMS | Allows users to register changes in the order (discounts and/or exchanges). |
+| View store sales stats | OMS | AcessoOMS | Displays totalizers within the All Orders section in Orders Management. Displays total sales in addition to orders details. |
+
+## IntegrationProfile - Fulfillment Oms
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+|---|---|---|---|
+| Change order workflow status | OMS | AcessoOMS | Allows access to actions within the workflow to change order status, through the Actions button in the Workflow. |
+| Notify payment | OMS | AcessoOMS | Access to the button that manually notifies payments to the gateway in the payment area within the order. |
+| Notify invoice | OMS | AcessoOMS | Allows users to manually inform invoices and data for tracking in OMS. |
+| View order | OMS | AcessoOMS | Allows users to view all orders in OMS. |
+| List Orders | OMS | AcessoOMS | Allows users to list all orders from the given account. |
+| Place Orders | VTEX Fulfilment | Fulfilment Resources | Deprecated. |
+| Order Details | VTEX Fulfilment | Fulfilment Resources | Deprecated. |
+| Notify refund | OMS | AcessoOMS | Allows users to notify when an accounts receivable invoice is in processing, indicating a journal entry for something that was refunded. Allows the input of a return invoice. |
+| Cancel order | OMS | AcessoOMS | Allows users to cancel orders in OMS. |
+| Order feed subscription | OMS | AcessoOMS | Allows users to subscribe to receive order status updates in the Order Feed. |
+| Change order | OMS | AcessoOMS | Allows users to register changes in the order (discounts and/or exchanges). |
+| View store sales stats | OMS | AcessoOMS | Displays totalizers within the All Orders section in Orders Management. Displays total sales in addition to orders details. |
+
+## IntegrationProfile - OrderSimulation
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+|---|---|---|---|
+| Order Details | VTEX Fulfilment | Fulfilment Resources | Deprecated. |
+
+## Logistics - Full access
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+|---|---|---|---|
+| Homepage | Catalog | Administration | Home page. |
+| Help page | Catalog | Administration | Help home page. |
+| Logistics full access | Logistics | Access to Logistics | Gives full access to all logistics resources (viewing, creating, editing and canceling settings). |
+| Logistics viewer | Logistics | Access to Logistics | Permission to view the start page of the logistics module. |
+| Logistics inventory full access | Logistics | Access to Logistics | Gives full access to the logistics inventory (viewing, creating, editing and canceling settings). |
+| Logistics inventory read only | Logistics | Access to Logistics | Allows users to view the inventory module. |
+| Logistics shipping full access | Logistics | Access to Logistics | Gives full access to all shipping functions of the logistics module (creation, editing and cancelation of settings). |
+| Logistics shipping read only | Logistics | Access to Logistics | View the logistics module. |
+
+## Logistics - Read only
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+|---|---|---|---|
+| Logistics viewer | Logistics | Access to Logistics | Permission to view the start page of the logistics module. |
+| Logistics inventory read only | Logistics | Access to Logistics | Allows users to view the inventory module. |
+| Logistics shipping read only | Logistics | Access to Logistics | View the logistics module. |
+
+## OMS - Full access
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+|---|---|---|---|
+| Homepage | Catalog | Administration | Home page. |
+| Help page | Catalog | Administration | Help home page. |
+| Change order workflow status | OMS | AccessOMS | Allows users to access actions within the workflow to change orders status, through the Actions button in the Workflow. |
+| Notify payment | OMS | AcessoOMS | Access to the button that manually notifies payments to the gateway in the payment area within the order. |
+| Notify invoice | OMS | AcessoOMS | Allows users to manually inform invoices and data for tracking in OMS. |
+| View order | OMS | AcessoOMS | Allows users to view all orders in OMS. |
+| Logistics full access | Logistics | Access to Logistics | Gives full access to all logistics resources (viewing, creating, editing and canceling settings). |
+| Notify refund | OMS | AcessoOMS | Allows users to notify when an accounts receivable invoice is in processing, indicating a journal entry for something that was refunded. Allows the input of a return invoice. |
+| Cancel order | OMS | AcessoOMS | Allows users to cancel orders in OMS. |
+| Order feed subscription | OMS | AcessoOMS | Allows users to subscribe to receive order status updates in the Order Feed. |
+| Change order | OMS | AcessoOMS | Allows users to register changes in the order (discounts and/or exchanges). |
+| View store sales stats | OMS | AcessoOMS | Displays totalizers within the All Orders section in Orders Management. Displays total sales in addition to orders details. |
+| Logistics inventory full access | Logistics | Access to Logistics | Gives full access to the logistics inventory (viewing, creating, editing and canceling settings). |
+| Logistics shipping full access | Logistics | Access to Logistics | Gives full access to all shipping functions of the logistics module (creation, editing and cancelation of settings). |
+
+## OMS - Read only
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+|---|---|---|---|
+| View order | OMS | AcessoOMS | Allows users to view all orders in OMS. |
+| View store sales stats | OMS | AcessoOMS | Displays totalizers within the All Orders section in Orders Management. Displays total sales in addition to orders details. |
+
+## Owner (Admin Super)
+
+This role grants access to all License Manager resources, except **Save user**.
+
+## Payments Notifier
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+| ---- | ---- | ---- | ---- |
+| Payments Notification | PCI Gateway | Payment-NotifyPayments | Payment approval notification using the Payments Gateway API. |
+
+## Seller Manager
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+|---|---|---|---|
+| View Seller | Seller Register | Seller Administration | View all sellers linked to the marketplace account described on the Seller Management page, including retrieving seller data, either from the seller list or a specific seller. |
+| Save Seller | Seller Register | Seller Administration | Create new sellers and edit data for all sellers linked to the marketplace account from the Seller Management page. |
+
+## User Administrator - RESTRICTED
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+|---|---|---|---|
+| Save user | License Manager | Services access control | Create users, add or delete user roles, edit user data, create and edit application keys. |
+
+## VTEX IO Admin
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+|---|---|---|---|
+| Get resource by key | License Manager | Service Access Control | Checks access permissions. |
+| Read Workspace Apps | VTEX IO | Infrastructure | Allows reading the apps installed in the workspace and their direct and indirect dependencies. |
+| Link App | VTEX IO | Infrastructure | Allows listing existing links and linking and unlinking apps. |
+| Install App | VTEX IO | Infrastructure | Allows users to install and uninstall apps. |
+| Vbase Read Only | VTEX IO | Infrastructure | Read-only access to vbase. |
+| Vbase Read Write | VTEX IO | Infrastructure | Read and write access to vbase. |
+| Read Workspace Services | VTEX IO | Infrastructure | Allows reading the infra apps in the workspace. |
+| Install Service | VTEX IO | Infrastructure | Allows users to install and uninstall apps. |
+| Log Access - Read-only | VTEX IO | Infrastructure | Allows reading logs from all applications. |
+| Read Published Service | VTEX IO | Infrastructure | Allows reading the services data from the infra registry. |
+| Debug App | VTEX IO | Infrastructure | Allows connecting a debugger to a linked app. |
+| Workspace CRUD | VTEX IO | Infrastructure | Allows creating, deleting and modifying workspaces. |
+| Import Redirects | VTEX IO | Infrastructure | Enable users to manage redirects with VTEX IO's command line interface. |
+| Manage A/B Test | VTEX IO | A/B Test | Allows users to start, finish or get status of an A/B Test. |
+| Read logs | Application Logs Stream | Logs | Read logs from VTEX IO apps owned from this account. |
+
+## Deprecated roles
+
+* VTEX Payment - Account Holder
+* VTEX Payment - Bookkeeper

@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 ---
 
-> ⚠️ **Atenção**: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse [nossa track](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ **Atenção**: a VTEX apresenta duas opções da busca - a VTEX Search (Legado) e o VTEX Intelligent Search. Esse artigo se refere à VTEX Search (Legado). Para saber mais sobre o VTEX Intelligent Search acesse [nossa track](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
-Para tornar as buscas dos clientes mais precisas, o buscador da VTEX ignora alguns termos que são muito comuns. Alguns exemplos são as palavras "com" e "todo", do português, "that" e "with", do inglês, e "hace" e "uno", do espanhol. [Veja aqui a lista completa de termos bloqueados](/pt/faq/por-que-o-buscador-da-vtex-ignora-alguns-termos-buscados).
+Para tornar as buscas dos clientes mais precisas, o buscador da VTEX ignora alguns termos que são muito comuns. Alguns exemplos são as palavras "com" e "todo", do português, "that" e "with", do inglês, e "hace" e "uno", do espanhol. [Veja aqui a lista completa de termos bloqueados](/pt/faq/por-que-a-vtex-search-legado-ignora-alguns-termos-buscados).
 
 No entanto, isso às vezes gera dificuldades para a loja.
 
@@ -47,6 +47,6 @@ Com isso, o usuário será levado para essa pasta. Só o que você precisa fazer
 
 Outra alternativa para forçar que buscas com termos bloqueados retornem resultados relevantes na busca é por meio do __redirect__.
 
-Novamente seguindo nosso exemplo, você pode criar um redirect 301 da URL `{AccountName}.com.br/Uno` para a página do produto.
+Novamente seguindo nosso exemplo, você pode criar um redirect 301 da URL `{accountName}.com.br/Uno` para a página do produto.
 
 Sempre que alguém fizer uma busca por "Uno", a URL montada será esta acima, e o usuário será automaticamente levado para a página do produto.

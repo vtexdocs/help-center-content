@@ -1,5 +1,5 @@
 ---
-title: 'Shipping strategy'
+title: 'Shipping Strategy'
 id: 58vLBDbjYVQzJ6rRc5QNz3
 status: PUBLISHED
 createdAt: 2021-07-15T17:04:23.563Z
@@ -47,8 +47,8 @@ The shipping strategy refers to the relationship between inventory, loading dock
 
 You can configure initial settings through the VTEX Admin or via API. If you are starting to configure your shipping strategy, we recommend the following order:
 
-| **Topic** | **Configuration via VTEX Admin** | **Configuration via API** |
-| :--- | :--- | :--- |
+| Topic | Configuration via VTEX Admin | Configuration via API |
+| --- | --- | --- |
 | 1. [Shipping policy](/en/docs/tutorials/shipping-policy) | [Creating a shipping policy](/en/docs/tutorials/creating-a-shipping-policy) | [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) |
 | 2. [Loading dock](/en/docs/tutorials/loading-dock) | [Managing loading docks](/en/docs/tutorials/managing-loading-docks) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
 | 3. [Warehouse](/en/docs/tutorials/warehouse) | [Managing warehouses](/en/docs/tutorials/managing-warehouses) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |

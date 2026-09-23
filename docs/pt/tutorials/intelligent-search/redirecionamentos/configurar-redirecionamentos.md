@@ -35,7 +35,7 @@ Esta seção apresenta as seguintes informações gerais sobre o redirecionament
 
 - **Nome**: nome do conjunto de regras do redirecionamento criado.
 - **URL de redirecionamento**: endereço de destino que o cliente será encaminhado. Precisa ser cadastrado de forma absoluta - endereço completo - e não relativo. Exemplo: `https://www.loja.com.br/_secure/account/#/orders` ao invés de `_secure/account/#/orders`.
-- **Idiomas:** idiomas aos quais o redirecionamento será aplicado. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta).
+- **Idiomas:** idiomas aos quais o redirecionamento será aplicado. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma).
 
 ### Regras de ativação
 

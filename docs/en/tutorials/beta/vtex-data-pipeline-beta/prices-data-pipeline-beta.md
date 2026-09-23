@@ -27,8 +27,8 @@ This article includes the following information:
 
 ## Data characteristics  
 
-| **Feature** | **Description** |
-|:-----------:|:---------------:|
+| Feature | Description |
+|-----------|---------------|
 | Data source | Prices module.  |
 | Availability| VTEX Admin and Pricing APIs. Keep in mind that the data available through the API may not be structured exactly the same way as it is in the Data Pipeline dataset. |
 | History    | Data history starts in August 2023. For clients already using the VTEX platform, data is retained for two years from 2024. |
@@ -38,8 +38,8 @@ This article includes the following information:
 
 The `pricing_latest` table contains current price data for the store's products. The table includes the following fields:  
 
-| **Column name**  | **Column type** | **Column description** |
-|:------------:|:---------------:|:---------------:|
+| Column name  | Column type | Column description |
+|------------|---------------|---------------|
 | account_name | character varying(255) | Name of the account associated with the item. |
 | last_date   | date  | Date and time of the last price change. |
 | sku_id   | character varying(255) | SKU identifier.  |
@@ -54,8 +54,8 @@ The `pricing_latest` table contains current price data for the store's products.
 
 The `pricing_historical` table provides a historical record of your store's prices. The table fields are described below:  
 
-| **Column name**  | **Column type** | **Column description** |
-|:------------:|:----------:|:-------------:|
+| Column name  | Column type | Column description |
+|------------|----------|-------------|
 | account_name | character varying(255) | Name of the account associated with the item. |
 | date   | date   | Date and time of the last price change. |
 | sku_id | character varying(255) 	| SKU identifier. |

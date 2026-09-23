@@ -26,7 +26,7 @@ En la página **Releases**, podrás visualizar una lista con todos los releases 
 
 El orden de los releases programados se basa en la fecha de publicación: cuanto más lejano en el futuro sea un release, antes aparecerá en la lista; y cuanto más distante en el pasado, más hacia el final aparecerá.
 
-> ⚠️ En la etapa Beta, los releases deben estar relacionados al [CMS](/es/docs/tracks/cms-vtex-io) porque hay otros módulos de la plataforma VTEX que aún no están incluidos. Para usar el **Releases**, se debe configurar el CMS tal como se describe en [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
+> ⚠️ En la etapa Beta, los releases deben estar relacionados al [CMS](/es/docs/tracks/cms-vtex-io) porque hay otros módulos de la plataforma VTEX que aún no están incluidos. Para usar el **Releases**, se debe configurar el CMS tal como se describe en [Installing Releases on VTEX Headless CMS (Legacy)](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 ## Vista en lista
 
@@ -34,7 +34,7 @@ Para acceder a la página **Releases** en el Admin VTEX, dirígete al menú de n
 
 ![Releases list view v3 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/lanzamientos-beta/planner-pagina-de-releases-beta_1.png)
 
-| **Campo** | **Descripción** |
+| Campo | Descripción |
 |---|---|
 | **Nombre** | Nombre que identifica el release, definido en la etapa de creación. Si no se publicó el release, se lo puede editar en cualquier momento. |
 | **Última modificación** | Tiempo transcurrido desde la última modificación del release. |

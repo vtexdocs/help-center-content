@@ -66,7 +66,7 @@ Este documento se crea de acuerdo con sus necesidades. La información básica y
 
 | Contexto               | Funcionamiento de la tienda                                                                                                                                                                                    |
 |------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Canal de ventas        | A menudo se toma la decisión de potenciar un canal de ventas en particular. Por ejemplo, una industria se puede enfocar en crear una plataforma de *ecommerce *B2B para atender a sus distribuidores, revendedores y algunas empresas de porte grande.                                                                                |
+| Canal de ventas        | A menudo se toma la decisión de potenciar un canal de ventas en particular. Por ejemplo, una industria se puede enfocar en crear una plataforma de *ecommerce* B2B para atender a sus distribuidores, revendedores y algunas empresas de porte grande.                                                                                |
 | Cuestiones legales        | Hay empresas que solo venden sus productos a clientes que actúan como revendedores. Esto sucede, principalmente, en los casos en que los productos tienen muchas especificaciones técnicas, por ejemplo. En este caso, el revendedor debe estar muy familiarizado con las características de los productos, incluso puede actuar como asesor en el momento de la venta y ayudar en la instalación de tales productos.                                                                                                                                                          |
 | Ubicación geográfica | En un inicio, una operación puede atender solo determinadas regiones para facilitar su control operativo y logístico. |
 
@@ -97,7 +97,7 @@ La exhibición de los productos de la tienda para determinados grupos de usuario
 
 En esta configuración, debe seleccionar los productos que se asociarán a la política comercial destinada al contexto B2B. En VTEX, puede asociar SKUs de forma individual por medio del Admin o en masa a través de la [API de Catálogo](https://developers.vtex.com/vtex-developer-docs/reference/catalog-api-overview).
 
-> ℹ️ La configuración de SKUs vía [API de Catálogo](https://developers.vtex.com/vtex-developer-docs/reference/catalog-api-overview) —asociación o creación en masa o de forma individual— se recomienda para empresas que ya tienen una operación de *ecommerce *madura y que cuentan con una área de *ecommerce* propia que gestiona y mantiene el catálogo de productos existente. Toda esa infraestructura permite la importación de todo el catálogo con todas las configuraciones actuales mediante la [integración con el ERP](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide).
+> ℹ️ La configuración de SKUs vía [API de Catálogo](https://developers.vtex.com/vtex-developer-docs/reference/catalog-api-overview) —asociación o creación en masa o de forma individual— se recomienda para empresas que ya tienen una operación de *ecommerce* madura y que cuentan con una área de *ecommerce* propia que gestiona y mantiene el catálogo de productos existente. Toda esa infraestructura permite la importación de todo el catálogo con todas las configuraciones actuales mediante la [integración con el ERP](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide).
 
 ### Configuración de la estrategia de logística
 
@@ -113,7 +113,7 @@ Cuando se configura a través del Admin, se necesita:
 
 2. __Asociar una transportadora al muelle elegido__\: esta asociación se realiza completando el campo Políticas de envío relacionadas que se muestra en la pantalla de registro/edición del muelle en el cual debe seleccionar la política comercial configurada para el escenario B2B. En caso de que no hayan transportadoras registradas en su tienda, deberá [registrar una transportadora](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/55MezrFTw2limlgT7KUg6l).
 
-3. __Definir un *stock* y asociarlo al muelle__\: esta asociación se realiza a través de la selección del muelle deseado en la pantalla de registro/edición de *stocks. *En caso de que no hayan *stocks* registrados en su tienda, deberá [registrar un *stock*](/es/tutorial/gerenciar-estoque). 
+3. __Definir un *stock* y asociarlo al muelle__\: esta asociación se realiza a través de la selección del muelle deseado en la pantalla de registro/edición de *stocks.* En caso de que no hayan *stocks* registrados en su tienda, deberá [registrar un *stock*](/es/tutorial/gerenciar-estoque). 
 
 Cuando se efectúa la configuración a través de la [API de Logística](https://developers.vtex.com/vtex-developer-docs/reference/logistics-api-overview), se deben realizar los mismos pasos. Por tanto, puede utilizar el endpoint `[Post Create/Update Dock](https://developers.vtex.com/vtex-developer-docs/reference/docks#createupdatedock)` para asociar la política comercial al muelle, así como para asociar la transportadora al muelle completando los parámetros `salesChannels` y `freightTableIds`, respectivamente.  
 
@@ -176,4 +176,4 @@ En el contexto B2B, VTEX Intelligent Search es un recurso esencial que puede ser
 
 Además, es un recurso que aporta otros beneficios para este contexto, como el registro de sinónimos y el cambio de relevancia de las palabras clave, por ejemplo.
 
-Esta aplicación se puede incorporar a su *ecommerce *mediante la configuración de VTEX IO. Puede ver el paso a paso en la guía [cómo configurar VTEX Intelligence Search](https://vtex.io/docs/app/vtex.search@2.4.0/).
+Esta aplicación se puede incorporar a su *ecommerce* mediante la configuración de VTEX IO. Puede ver el paso a paso en la guía [cómo configurar VTEX Intelligence Search](https://vtex.io/docs/app/vtex.search@2.4.0/).

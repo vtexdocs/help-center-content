@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the PayUv2 payment provider. With this provider, your store can make sales through cards (credit, debit, private label, cob-branded), notes payable and bank slips.
+At VTEX, it is possible to integrate with the PayUv2 payment provider. With this provider, your store can make sales through cards (credit, debit, private label, cob-branded), notes payable and Boletos.
 
 To configure PayUv2, follow the steps below:
 

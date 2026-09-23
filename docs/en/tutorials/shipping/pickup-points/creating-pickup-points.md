@@ -50,7 +50,8 @@ Select <i class="fas fa-toggle-on"></i> to activate the pickup point.
 * **Country:** the country where the pickup point is located.
 * **Search address:** enter the address information for the search. You can use the zip code, street, city, number, and additional address information. 
 * To edit the address information, click `Edit`. 
-* To add a different address, click `Clear` and search again.> ℹ️ The address information and the location on the map will be displayed at checkout.
+* To add a different address, click `Clear` and search again.
+  > ℹ️ The address information and the location on the map will be displayed at checkout.
 
 #### Additional information
 
@@ -61,7 +62,8 @@ Select <i class="fas fa-toggle-on"></i> to activate the pickup point.
 
 * **Days of the week:**
     1. Check the boxes for the days the pickup point will be available for your customers to pick up their orders. 
-    2. Select the pickup point's business hours for each day.> ℹ️ If this field is not filled in, the platform will consider that the pickup point operates 24 hours a day.
+    2. Select the pickup point's business hours for each day.
+      > ℹ️ If this field is not filled in, the platform will consider that the pickup point operates 24 hours a day.
 
 * **Exceptions or holidays:** to add specific days when the pickup point is not operating, follow the steps below.
     3. Click `Add an exception`;
@@ -78,7 +80,8 @@ You can create pickup points by importing the template (XLS file). This way, you
 
 1. In the VTEX Admin, go to **Shipping > Pickup points**, or type *Pickup points* in the search bar at the top of the page. 
 2. Click <i class="fas fa-upload"></i> `Upload an XLS`.
-3. Download the template and fill in the [fields](#template-fields).> ℹ️ Please note that the template comes with example values, which must be replaced with the data from your store's pickup points.
+3. Download the template and fill in the [fields](#template-fields).
+   > ℹ️ Please note that the template comes with example values, which must be replaced with the data from your store's pickup points.
 4. After uploading the template, click `OK`.   
 
 ### Template fields

@@ -3,7 +3,7 @@ title: "Using active triggering of flows"
 id: 2G7HPM4mD3vuxPHUgtexb7
 status: PUBLISHED
 createdAt: 2025-09-12T16:44:52.727Z
-updatedAt: 2025-10-03T14:22:54.202Z
+updatedAt: 2026-07-07T00:00:00.000Z
 publishedAt: 2025-10-03T14:22:54.202Z
 firstPublishedAt: 2025-10-03T14:22:54.202Z
 contentType: tutorial
@@ -15,63 +15,71 @@ locale: en
 subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
 ---
 
-The active flow trigger allows an agent to send a flow to one or more contacts and contact groups, also enabling the initiation of a conversation with desired contacts through WhatsApp message templates.
+Active flow triggering allows agents to start conversations with contacts or contact groups from Live Desk. This feature is useful for active communications, such as notifications, confirmations, or follow-ups, and can use message templates approved by WhatsApp when the conversation starts through that channel.
 
-In this article, we will cover:
+This article covers how to:
 
-- Enabling an existing flow for sending in Live Desk
-- Creating a flow that sends a message template
-- Activating the flow trigger function in Live Desk settings
-- Triggering a flow in Live Desk
+- [Enable an existing flow to be sent from Live Desk](#enabling-an-existing-flow-to-be-sent-from-live-desk)
+- [Create a flow for sending message templates](#creating-a-flow-for-sending-message-templates)
+- [Enable flow triggering in Live Desk](#enabling-flow-triggering-in-live-desk)
+- [Trigger a flow](#triggering-a-flow)
 
-**Enabling an existing flow for sending in Live Desk**
+## Enabling an existing flow to be sent from Live Desk
 
-Any existing flow can be triggered through Live Desk. To do this, simply access
-**Flows**.
+For a flow to appear as a messaging option in Live Desk, it must have the `chats` label. Apply this label to the flows that agents will be able to trigger during a support chat:
 
-Next, select the desired flow and click on the **label** button.
+1. Access your organization in the [VTEX CX Platform](https://dash.weni.ai/orgs) dashboard.
+2. In the side menu, click **Automation flow**.
+3. Check the checkbox next to the desired flow.
+4. Click the **Label** tab and then click `New label`.
+5. In **Name**, enter `chats`.
+6. Click `Create`.
 
-For the flow to be available in Live Desk, it needs to have a label named **chats**. If it's not available, create a new label named **chats** as shown in the example:
+> ℹ️ If the `chats` label already exists, select the desired flow, click the **Label** tab, and check the `chats` checkbox.
 
-By clicking **create**, your flow will automatically have the created label and will be available for use in Live Desk.
+## Creating a flow for sending message templates
 
-## Creating a flow to send a message template
+Only users with admin, moderator, or collaborator permissions can create flows. When creating a flow for outbound triggering, include a messaging block and select an approved message template to start the conversation on WhatsApp.
 
-Flow creation is reserved for manager users, meaning only users with
-administrator, moderator, and collaborator permissions can create flows.
+Before configuring the flow, confirm that the message template has been registered and approved by WhatsApp. For more information, see [WhatsApp: How to create template messages](https://help.vtex.com/docs/tutorials/whatsapp-how-to-create-template-messages).
 
-To send message templates, they must already be registered and approved by
-WhatsApp. See [this
-article](/en/docs/tutorials/whatsapp-how-to-create-template-messages)
-if you have any questions.
+1. Access your organization in the [VTEX CX Platform dashboard](https://dash.weni.ai/orgs).
+2. In the side menu, click the **Automation flow** icon.
+3. Click `Create flow`.
+4. Complete the Name and Flow type fields and, if needed, the keywords for global triggers.
+5. Click `Create`.
+6. To create a block, click the `Create block` button.
+7. Enter the information required for your block.
+8. Click `Confirm`.
+9. Continue creating as many blocks as needed based on the characteristics of the flow you want to make available in the store.
 
-Access your project, then go to the **Flows** module:
+## Enabling flow triggering in Live Desk
 
-Click the **Create Flow** button:
+In addition to enabling the flow with the `chats` label, you need to enable flow triggering in the Live Desk department. This setting defines which departments can use the feature.
 
-Next, provide the details about your flow:
+1. Access your organization in the [VTEX CX Platform](https://dash.weni.ai/orgs) dashboard.
+2. In the side menu, click **Settings**.
+3. Click **Live Desk**.
+4. Click the **Sectors** tab.
 
-Insira os cards de acordo com as ações que desejar no seu fluxo, para que o fluxo seja de envio de modelo de mensagens, selecione o card do tipo enviar mensagem e clique em **whatsapp.**
+> ℹ️ If there are no departments configured in Live Desk yet, click `New sector` and fill in the requested information on the **New sector** page.
 
-Your registered templates should appear. Select the desired one and insert the variable if applicable, click OK and finalize your flow.
+5. In the desired department, click the actions button <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
+6. Click `Edit`.
+7. In **Additional options**, enable the **Triggering message templates** option.
+8. Click `Save`.
 
-## Enabling the flow trigger function in Live Desk settings
+## Triggering a flow
 
-For the flow trigger function to be available to agents, it must first be
-enabled in the desired department settings.
+After the flow is enabled and the department allows outbound triggers, agents can select contacts and submit the flow through Live Desk:
 
-Go to **Settings > Live Desk > Open**.
+1. Go to your organization in the [VTEX CX Platform](https://dash.weni.ai/orgs) dashboard.
+2. In the side menu, click **Live Desk**.
+3. Click `View options`.
+4. Click `Flows`.
+5. Check the boxes for the contacts you want to trigger the flow for.
+6. Click `Continue`.
+7. In **Select flow**, choose the desired flow.
+8. Click `Send`.
 
-On the first screen of the department, you will see the button to activate the flow trigger. It will be deactivated; **activate** it and click **save**.
-
-### Triggering a flow in Live Desk
-
-Access **Live Desk**.
-
-On the Live Desk screen, click the button below **Preferences > Flows**, as shown in the example:
-
-Select the desired contacts and click **Continue**.
-
-Select the desired flow, then click the **Send** button.
-
-That's it! The contacts who received the flows will appear in a waiting list, and once the contact responds, you will be able to start the chat normally with them.
+The selected contacts will receive the flow. When a contact replies, the conversation will become available as a support chat in Live Desk.

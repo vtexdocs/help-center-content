@@ -28,8 +28,8 @@ Nesta seção inclui as seguintes informações:
 
 ## Características dos dados
 
-| **Características** | **Descrição** |
-|:---:|:---:|
+| Características | Descrição |
+|---|---|
 | Fonte de dados | Obtido a partir de informações do [Audit](/pt/docs/tutorials/audit). |
 | Disponibilidade | VTEX Admin. |
 | Histórico | Os dados são mantidos por dois anos, a partir de 2024 para clientes que já utilizam a plataforma VTEX. |
@@ -39,8 +39,8 @@ Nesta seção inclui as seguintes informações:
 
 Conheça a seguir os campos que constituem a tabela:
 
-| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|:---:|
+| Nome da coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | account_name | character varying(255) | Nome da conta relacionada à operação do Gift Card. |
 | event_date | timestamp with time zone | Data e hora da operação. |
 | operation | character varying(200) | Tipo de operação. |

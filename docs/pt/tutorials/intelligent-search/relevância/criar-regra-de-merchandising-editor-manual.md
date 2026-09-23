@@ -24,7 +24,7 @@ Para configurar uma [regra de merchandising](/pt/docs/tutorials/regras-de-mercha
     * **Nome**: nome da regra de merchandising. Exemplo: promover o produto A quando a pesquisa for Biscoito de chocolate.
     * **Data de início (opcional)**: agendamento da data a partir da qual a regra de merchandising será aplicada. A data segue o fuso horário UTC-0.
     * **Data de término (opcional)**: agendamento da data em que a regra de merchandising não será mais aplicada às buscas na loja. A data segue o fuso horário UTC-0.
-    * **Aplicar aos idiomas:** idiomas aos quais a regra de merchandising será aplicada. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta).
+    * **Aplicar aos idiomas:** idiomas aos quais a regra de merchandising será aplicada. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma).
 5. Clique em **Editor manual**. Para mais informações sobre cada editor, confira [Tipos de edição](/pt/docs/tutorials/regras-de-merchandising#tipos-de-edicao).
 6. Clique em `Próximo`.
 7. Se necessário, altere as informações básicas já definidas sobre a nova regra de merchandising na seção [Informação Geral](#informacao-geral).
@@ -84,6 +84,6 @@ Considere o seguinte exemplo: você quer promover produtos da marca Beautyx dura
 
 * **Despromover**: oculta as condições selecionadas no resultado. Isso permite despriorizar um produto que já seria exibido no resultado de busca.
 
-  > ℹ️ **Promover **e **Despromover **funcionam somente quando o cliente da sua loja ordena os resultados da busca por relevância. Caso ele(a) ordene os resultados por preço, por exemplo, os produtos serão ordenados estritamente pelo preço e a regra de merchandising não será utilizada.
+  > ℹ️ **Promover** e **Despromover** funcionam somente quando o cliente da sua loja ordena os resultados da busca por relevância. Caso ele(a) ordene os resultados por preço, por exemplo, os produtos serão ordenados estritamente pelo preço e a regra de merchandising não será utilizada.
 
   > ⚠️ Não configure condições que afetem os mesmos produtos nas seções **Promover** e **Despromover**, pois são efeitos contrários. Essa configuração equivocada influencia negativamente no comportamento da funcionalidade e não apresenta os resultados desejados.

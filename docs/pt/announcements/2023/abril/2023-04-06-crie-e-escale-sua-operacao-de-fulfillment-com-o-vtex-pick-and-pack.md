@@ -17,11 +17,11 @@ announcementSynopsisPT: 'O VTEX Pick and Pack oferece aos lojistas um único lug
 
 O **[VTEX Pick and Pack](/pt/docs/tutorials/vtex-pick-and-pack)** é a solução que lhe oferece um único lugar para gerenciar a separação, o empacotamento e a entrega last mile a partir de lojas físicas e estoques.
 
-Além disso, o **VTEX Pick and Pack** [coleta dados e análises](/pt/docs/tutorials/vtex-pick-and-pack-fulfillment#insights) da sua loja, gerando informações que lhe ajudam a tomar decisões estratégicas e escalar sua operação omnichannel. 
+Além disso, o **VTEX Pick and Pack** [coleta dados e análises](/pt/docs/tutorials/vtex-pick-and-pack-insights) da sua loja, gerando informações que lhe ajudam a tomar decisões estratégicas e escalar sua operação omnichannel. 
 
 A solução combina duas funcionalidades e aplicativos móveis:
 
-* [VTEX Fulfillment](/pt/docs/tutorials/vtex-pick-and-pack-fulfillment): gerenciamento de separação e empacotamento.
+* [VTEX Fulfillment](/pt/docs/tutorials/vtex-pick-and-pack-pedidos): gerenciamento de separação e empacotamento.
 * [Last Mile](/pt/docs/tutorials/vtex-pick-and-pack-last-mile): controle da entrega last mile.
 * **Aplicativos móveis:** aplicativos móveis para separadores e entregadores.
 
@@ -49,7 +49,7 @@ Nós criamos o **VTEX Pick and Pack** para reduzir custos logísticos e escalar 
 
 A tabela abaixo mostra algumas das funcionalidades da solução e suas respectivas vantagens:
 
-| **Funcionalidade** | **Utilização** | **Vantagens** |
+| Funcionalidade | Utilização | Vantagens |
 | ---------- | ---------- | ---------- |
 | VTEX Fulfillment | Um único lugar para gerenciar a separação e o empacotamento. | <ul><li>Reduzir os custos logísticos através de um processo em etapas para um fulfillment rápido, preciso e rentável dos pedidos.</li><li>Maior controle dos recursos da loja e prazos de fulfillment.</li><li>Reduzir os prazos de fulfillment e entrega.</li></ul> |
 | VTEX Fulfillment | Configuração de pacotes e etiquetas para impressão, que podem incluir códigos de barras para serem escaneados. | Reduzir situações propensas a erros e aumentar a eficiência. |
@@ -67,5 +67,5 @@ Para começar a usar o **VTEX Pick and Pack**, fale com o seu Customer Success M
 ## Saiba mais
 
 * [VTEX Pick and Pack](/pt/docs/tutorials/vtex-pick-and-pack)
-* [VTEX Pick and Pack: Fulfillment](/pt/docs/tutorials/vtex-pick-and-pack-fulfillment)
+* [VTEX Pick and Pack: Fulfillment](/pt/docs/tutorials/vtex-pick-and-pack-pedidos)
 * [VTEX Pick and Pack: Last Mile](/pt/docs/tutorials/vtex-pick-and-pack-last-mile)

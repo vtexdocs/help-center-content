@@ -32,7 +32,7 @@ The __preview__ rendered by this code is shown in the box below the HTML field. 
 
 The __JSON Data__ field shows a JSON object *example* that contains information regarding the subject of the email. This object's braces can be used as variables in the template's HTML code. We will learn how to do this in the next article.
 
-> ⚠️ Warning: To customize the email layout, you must enter **inline CSS code**. <u>Don't</u> insert CSS into the head of the template, because emails don't handle it well.
+> ⚠️ To customize the email layout, you must enter **inline CSS code**. <u>Don't</u> insert CSS into the head of the template, because emails don't handle it well.
 
 At the end, click on the __Save__ button.
 
@@ -42,7 +42,7 @@ The method for creating a transactional email template is similar to the one use
 
 1. In Admin's side menu, go to Message Center and click on __Templates__.
 2. Click on the __New template__ button.
-3. Check the __Enable e-mail sending __ box.
+3. Check the __Enable e-mail sending__ box.
 4. Fill in E-mail Title, Sender and Recipient ("To") data.
 5. Enter the template code in the __HTML__ field.
 6. Test it on __preview__.

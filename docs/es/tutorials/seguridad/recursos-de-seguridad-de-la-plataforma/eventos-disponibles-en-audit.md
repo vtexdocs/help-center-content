@@ -1,18 +1,12 @@
 ---
 title: 'Eventos disponibles en Audit'
-id: 6r1Mzcu5NmkmmDLJlz9CCZ
-status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2026-03-02T18:20:54.585Z
-publishedAt: 2025-08-25T18:20:54.585Z
-firstPublishedAt: 2022-06-22T16:28:52.801Z
+updatedAt: 2026-09-17T00:00:00.000Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: events-available-in-audit
-legacySlug: eventos-disponibles-en-audit
 locale: es
-subcategoryId: 2TNXiKzLZOPxjMTyGiEeJu
 ---
 
 A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/docs/tutorials/audit) para cada aplicación.
@@ -23,6 +17,7 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 * [Inventario y envio](#inventario-y-envio)
 * [Catálogo (Admin)](#catalogo-admin)
 * [Catálogo (API)](#catalogo-api)
+* [Catálogo (Control Plane)](#catalogo-control-plane)
 * [Precios](#precios)
 * [Promociones](#promociones)
 * [Suscripciones](#suscripciones)
@@ -34,16 +29,20 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 * [License Manager](#license-manager)
 * [VTEX ID](#vtex-id)
 * [Master Data](#master-data)
-* [Headless CMS](#headless-cms)
+* [Headless CMS (Legacy)](#headless-cms)
+* [CMS](#cms)
 * [Gestión de sellers](#gestion-de-sellers)
 * [Site Editor](#site-editor)
 * [Ad Network](#ad-network)
 * [Tokens de tarjeta](#tokens-de-tarjeta)
 * [Unidades organizativas](#unidades-organizativas)
+* [Opciones de envío](#opciones-de-envio)
+* [Agente de Optimización de Búsqueda](#agente-de-optimizacion-de-busqueda)
+* [Autenticador](#autenticador)
 
 > ℹ️ Si, en Audit, ves algún evento no incluido en esta lista, por favor, envíanos más información a través de la [página de feedback sobre documentación](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
-> ⚠️ En el módulo Audit, al hacer clic en los filtros de auditoría puedes encontrar **Opciones de envío**, **Profile System** y **Billing**, además de otras aplicaciones citadas a continuación. Estas opciónes se refieren a recursos internos o funcionalidades en beta cerrada, por lo que la mayoría de las cuentas no tendrán eventos asociados.
+> ⚠️ En el módulo Audit, al hacer clic en los filtros de auditoría puedes encontrar **Profile System** y **Billing**, además de otras aplicaciones citadas a continuación. Estas opciónes se refieren a recursos internos o funcionalidades en beta cerrada, por lo que la mayoría de las cuentas no tendrán eventos asociados.
 
 ## OMS
 
@@ -64,6 +63,8 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 | Order Cancellation | Cancelación de un pedido. | ID del pedido. |
 | Start Handling  | Acción que le indica a VTEX que la tienda comenzó a preparar determinado pedido. Esto desencadena la continuidad del flujo de dicho pedido.  | ID del pedido.  |
 | Notify Payment | Envío de notificación de pago de un pedido determinado. | ID del pedido. |
+| GetUnmaskedPersonalInformation | Lectura de información personal expuesta de determinado pedido. | ID del pedido. |
+| UpdatePersonalInformation | Actualizar la información personal de determinado pedido. | ID del pedido. |
 
 ## Autorización del pedido
 
@@ -124,6 +125,116 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 | GiftCard Create | Creación de una tarjeta de regalo nativa. | ID de la tarjeta de regalo e ID del autor de la acción. |
 | GiftCard List All Paged | Consulta del listado de tarjetas de regalo. | ID del autor de la acción y los IDs de las tarjetas de regalo. |
 
+## Catálogo (Control Plane)
+
+| Acción | Descripción del evento | Detalles del evento |
+|---|---|---|
+| Product Activation | Activación de producto. | ID del producto. |
+| Product Deactivation | Desactivación de producto. | ID del producto. |
+| Admin Product Import | Importación de producto vía Admin. | Nombre del archivo de importación. |
+| Admin Image Import | Importación de imagen vía Admin. | Nombre del archivo de importación. |
+| Admin SkuSpecification Import | Importación de especificación de SKU vía Admin. | Nombre del archivo de importación. |
+| Admin ProductSpecification Import | Importación de especificación de producto vía Admin. | Nombre del archivo de importación. |
+| Create Brand | Creación de marca. | ID de la marca. |
+| Update Brand | Actualización de marca. | ID de la marca. |
+| Create Category | Creación de categoría. | ID de la categoría. |
+| Update Category | Actualización de categoría. | ID de la categoría. |
+| Create Attachment | Creación de adjunto. | ID del adjunto. |
+| Update Attachment | Actualización de adjunto. | ID del adjunto. |
+| Delete Attachment | Eliminación de adjunto. | ID del adjunto. |
+| Create Field | Creación de campo de catálogo. | ID del campo. |
+| Update Field | Actualización de campo de catálogo. | ID del campo. |
+| Create Field Group | Creación de grupo de campos. | ID del grupo de campos. |
+| Update Field Group | Actualización de grupo de campos. | ID del grupo de campos. |
+| Create Field Value | Creación de valor de campo. | ID del valor del campo. |
+| Update Field Value | Actualización de valor de campo. | ID del valor del campo. |
+| Delete Non Structured Field | Eliminación de campo no estructurado. | ID del campo. |
+| Create Product | Creación de producto. | ID del producto. |
+| Update Product | Actualización de producto. | ID del producto. |
+| Create Sales Policy | Creación de política comercial. | ID de la política comercial. |
+| Delete Sales Policy | Eliminación de política comercial. | ID de la política comercial. |
+| Create Similar Category | Creación de categoría similar. | ID de la categoría similar. |
+| Delete Similar Category | Eliminación de categoría similar. | ID de la categoría similar. |
+| Create Product Specification | Creación de especificación de producto. | ID de la especificación del producto. |
+| Upsert Product Specification | Creación o actualización de especificación de producto. | ID de la especificación del producto. |
+| Delete Product Specification | Eliminación de especificación de producto. | ID de la especificación del producto. |
+| Delete All Product Specifications | Eliminación de todas las especificaciones de producto. | ID del producto. |
+| Create Sku Kit | Creación de kit de SKU. | ID del kit de SKU. |
+| Delete Sku Kit | Eliminación de kit de SKU. | ID del kit de SKU. |
+| Create Sku Service | Creación de servicio de SKU. | ID del servicio de SKU. |
+| Update Sku Service | Actualización de servicio de SKU. | ID del servicio de SKU. |
+| Delete Sku Service | Eliminación de servicio de SKU. | ID del servicio de SKU. |
+| Create Sku Service Type | Creación de tipo de servicio de SKU. | ID del tipo de servicio de SKU. |
+| Update Sku Service Type | Actualización de tipo de servicio de SKU. | ID del tipo de servicio de SKU. |
+| Delete Sku Service Type | Eliminación de tipo de servicio de SKU. | ID del tipo de servicio de SKU. |
+| Create Sku Service Value | Creación de valor de servicio de SKU. | ID del valor de servicio de SKU. |
+| Update Sku Service Value | Actualización de valor de servicio de SKU. | ID del valor de servicio de SKU. |
+| Delete Sku Service Value | Eliminación de valor de servicio de SKU. | ID del valor de servicio de SKU. |
+| Create Sku Service Type Attachment | Creación de adjunto de tipo de servicio de SKU. | ID del adjunto de tipo de servicio de SKU. |
+| Delete Sku Service Type Attachment | Eliminación de adjunto de tipo de servicio de SKU. | ID del adjunto de tipo de servicio de SKU. |
+| Create Sku Attachment | Creación de adjunto de SKU. | ID del adjunto de SKU. |
+| Delete Sku Attachment | Eliminación de adjunto de SKU. | ID del adjunto de SKU. |
+| Create Sku Complement | Creación de complemento de SKU. | ID del complemento de SKU. |
+| Delete Sku Complement | Eliminación de complemento de SKU. | ID del complemento de SKU. |
+| Create Supplier | Creación de proveedor. | ID del proveedor. |
+| Update Supplier | Actualización de proveedor. | ID del proveedor. |
+| Delete Supplier | Eliminación de proveedor. | ID del proveedor. |
+| Update Report Status | Actualización de estado de reporte. | ID del reporte. |
+| Create Sku | Creación de SKU. | ID del SKU. |
+| Update Sku | Actualización de SKU. | ID del SKU. |
+| Create Sub Collection | Creación de subcolección. | ID de la subcolección. |
+| Update Sub Collection | Actualización de subcolección. | ID de la subcolección. |
+| Delete Sub Collection | Eliminación de subcolección. | ID de la subcolección. |
+| Create Brand Sub Collection | Creación de subcolección de marca. | ID de la subcolección de marca. |
+| Delete Brand Sub Collection | Eliminación de subcolección de marca. | ID de la subcolección de marca. |
+| Create Category Sub Collection | Creación de subcolección de categoría. | ID de la subcolección de categoría. |
+| Delete Category Sub Collection | Eliminación de subcolección de categoría. | ID de la subcolección de categoría. |
+| Create Field Value Sub Collection | Creación de subcolección de valor de campo. | ID de la subcolección de valor de campo. |
+| Delete Field Value Sub Collection | Eliminación de subcolección de valor de campo. | ID de la subcolección de valor de campo. |
+| Create Sku Sub Collection | Creación de subcolección de SKU. | ID de la subcolección de SKU. |
+| Delete Sku Sub Collection | Eliminación de subcolección de SKU. | ID de la subcolección de SKU. |
+| Create Collection | Creación de colección. | ID de la colección. |
+| Update Collection | Actualización de colección. | ID de la colección. |
+| Delete Collection | Eliminación de colección. | ID de la colección. |
+| Bulk Sku Collection | Actualización masiva de colección de SKUs. | ID de la colección e IDs de los SKUs. |
+| Import Insert Sku In Collection | Importación para insertar SKUs en una colección. | ID de la colección y nombre del archivo de importación. |
+| Import Delete Sku In Collection | Importación para eliminar SKUs de una colección. | ID de la colección y nombre del archivo de importación. |
+| Create Sku Ean | Creación de EAN de SKU. | ID del SKU y EAN. |
+| Delete Sku Ean | Eliminación de EAN de SKU. | ID del SKU y EAN. |
+| Create Sku Specification | Creación de especificación de SKU. | ID de la especificación del SKU. |
+| Upsert Sku Specification Value | Creación o actualización de valor de especificación de SKU. | ID del valor de la especificación del SKU. |
+| Update Sku Specification | Actualización de especificación de SKU. | ID de la especificación del SKU. |
+| Delete Sku Specification | Eliminación de especificación de SKU. | ID de la especificación del SKU. |
+| Delete All Sku Specifications | Eliminación de todas las especificaciones de SKU. | ID del SKU. |
+| Create Sku Attribute | Creación de atributo de SKU. | ID del atributo de SKU. |
+| Update Sku Attribute | Actualización de atributo de SKU. | ID del atributo de SKU. |
+| Delete Sku Attribute | Eliminación de atributo de SKU. | ID del atributo de SKU. |
+| Delete All Sku Attributes | Eliminación de todos los atributos de SKU. | ID del SKU. |
+| Create Sku File | Creación de archivo de SKU. | ID del archivo de SKU. |
+| Update Sku File | Actualización de archivo de SKU. | ID del archivo de SKU. |
+| Delete Sku File | Eliminación de archivo de SKU. | ID del archivo de SKU. |
+| Delete All Sku Files | Eliminación de todos los archivos de SKU. | ID del SKU. |
+| Associate Sku File | Asociación de archivo de SKU. | ID del SKU e ID del archivo de SKU. |
+| Disassociate Sku File | Desasociación de archivo de SKU. | ID del SKU e ID del archivo de SKU. |
+| Reorder Sku Files | Reordenamiento de archivos de SKU. | ID del SKU. |
+| Copy Sku Files | Copia de archivos de SKU. | IDs de los SKUs de origen y destino. |
+| Create Product Form | Creación de formulario de producto. | ID del formulario de producto. |
+| Update Product Form | Actualización de formulario de producto. | ID del formulario de producto. |
+| Move Skus To Product | Movimiento de SKUs a otro producto. | IDs de los SKUs e ID del producto de destino. |
+| Enqueue Translation | Encolado de traducción. | ID de la traducción. |
+| Enqueue Product Translation | Encolado de traducción de producto. | ID del producto. |
+| Create Assortment | Creación de surtido. | ID del surtido. |
+| Update Assortment | Actualización de surtido. | ID del surtido. |
+| Delete Assortment | Eliminación de surtido. | ID del surtido. |
+| Add Included Collection Assortment | Colección incluida agregada al surtido. | ID del surtido e ID de la colección. |
+| Remove Included Collection Assortment | Colección incluida eliminada del surtido. | ID del surtido e ID de la colección. |
+| Add Excluded Collection Assortment | Colección excluida agregada al surtido. | ID del surtido e ID de la colección. |
+| Remove Excluded Collection Assortment | Colección excluida eliminada del surtido. | ID del surtido e ID de la colección. |
+| Brand Activation | Activación de marca. | ID de la marca. |
+| Brand Deactivation | Desactivación de marca. | ID de la marca. |
+| Category Activation | Activación de categoría. | ID de la categoría. |
+| Category Deactivation | Desactivación de categoría. | ID de la categoría. |
+
 ## Precios
 
 | Acción | Descripción | Detalles del evento |
@@ -177,11 +288,20 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 
 | Acción | Descripción | Detalles del evento |
 |---|---|---|
-| LIST_GIFT_CARD | Consultación de la lista de tarjetas de regalo. | list-gift-card |
-| EXPORT_GIFT_CARD | Exportación de tarjetas de regalo. | export-gift-card |
-| EDIT_GIFT_CARD | Edición del valor de la tarjeta de regalo. | add-gift-card-value |
-| CREATE_GIFT_CARD | Creación de tarjeta de regalo. | create-multiple-gift-cards |
-| LIST_CARDS_FROM_API | Búsqueda de tarjetas de regalo nativas. | list-gift-card-api |
+| LIST_GIFT_CARD | Consultar la lista de tarjetas de regalo. | list-gift-card |
+| EXPORT_GIFT_CARD | Exportar tarjetas de regalo. | export-gift-card |
+| EDIT_GIFT_CARD | Editar el valor de la tarjeta de regalo. | add-gift-card-value |
+| CREATE_GIFT_CARD | Crear tarjeta de regalo. | create-multiple-gift-cards |
+| LIST_CARDS_FROM_API | Buscar tarjetas de regalo nativas. | list-gift-card-api |
+| LIST_GIFT_CARD_TRANSACTIONS | Ver las transacciones de las tarjetas de regalo. | ID de la tarjeta de regalo. |
+| VIEW_GIFT_CARD_CONDITIONS | Ver las condiciones de las tarjetas de regalo. | ID de la tarjeta de regalo. |
+| CREATE_GIFT_CARD_CONDITIONS | Crear condiciones de las tarjetas de regalo. | ID de la tarjeta de regalo. |
+| EDIT_GIFT_CARD_CONDITIONS | Editar las condiciones de las tarjetas de regalo. | ID de la tarjeta de regalo. |
+| EDIT_GIFT_CARD_CONFIGURATION | Editar la configuración de las tarjetas de regalo. | ID de la tarjeta de regalo. |
+| CREATE_GIFT_CARD_CANCELLATION | Registrar la cancelación de las tarjetas de regalo. | ID de la tarjeta de regalo. |
+| CREATE_GIFT_CARD_SETTLEMENT | Registrar la liquidación de las tarjeta de regalo. | ID de la tarjeta de regalo. |
+| INSERT_GIFT_CARD_CREDITS | Insertar créditos en tarjeta de regalo. | ID de la tarjeta de regalo. |
+| GET_UNMASKED_PII | Visualización de información de identificación personal (PII) sin enmascarar. | ID de la tarjeta de regalo. |
 
 ## Checkout
 
@@ -221,6 +341,11 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 | Resource Access Denied | Acceso al recurso denegado. | Clave del recurso e ID del usuario al que se le denegó. |
 | Create New AppToken | Creación de clave de aplicación. | Clave de aplicación creada. |
 | Create Sponsor Invite | Crear invitación para usuario titular. | ID del usuario que recibirá la invitación. |
+| Create Storefront Custom Resource | Creación de recurso personalizado de frente de tienda. | Recurso personalizado de frente de tienda creado. |
+| Delete Storefront Custom Resource | Eliminación de recurso personalizado de frente de tienda. | Recurso personalizado de frente de tienda eliminado. |
+| Create Storefront Custom Role | Creación de role personalizado de frente de tienda. | Role personalizado de frente de tienda creado. |
+| Delete Storefront Custom Role | Eliminación de role personalizado de frente de tienda. | Role personalizado de frente de tienda eliminado. |
+| Update Storefront Custom Role | Actualización de role personalizado de frente de tienda. | Role personalizado de frente de tienda actualizado. |
 
 ## VTEX ID
 
@@ -228,8 +353,8 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 |---|---|---|
 | PasswordCreated | El usuario registra una contraseña por primera vez en la tienda o en el Admin VTEX. | ID de usuario. |
 | PasswordUpdated | El usuario cambia su contraseña de la tienda o del Admin VTEX. | ID de usuario. |
-| UserLogin | Inicio de sesión del usuario en el Admin VTEX. | ID de usuario. |
-| UserLogout | Cierre de sesión del usuario en el Admin VTEX. | ID de usuario. |
+| UserLogin | Inicio de sesión del usuario en el Admin VTEX. | ID de usuario, login de usuario, dirección IP, audience, si el usuario es administrador, proveedor de identidad, si se utilizó MFA, host, encabezado X-Forwarded-For, agente de usuario y referer. |
+| UserLogout | Cierre de sesión del usuario en el Admin VTEX. | ID de usuario, login de usuario, audience, si el usuario es administrador, host, encabezado X-Forwarded-For, agente de usuario y referer. |
 | IdentityProviderChanged | Cambios en la configuración del proveedor de identidad. Por ejemplo, cuando se crea una integración OAuth personalizada, o se modifica la información de una configuración OAuth existente. | Proveedor de identidad. |
 
 ## Master Data
@@ -245,7 +370,7 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 | UpdateSchema | Creación o edición de schema en Master Data v2. | Nombre del schema. |
 | DeleteSchema | Eliminación de schema en Master Data v2. | Nombre del schema. |
 
-## Headless CMS
+## Headless CMS (Legacy)
 
 | Acción | Descripción | Detalles del evento |
 |---|---|---|
@@ -260,11 +385,34 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 | Create new media | Creación de archivo multimedia. | ID del evento. |
 | Delete media | Eliminación de archivo multimedia. | ID del evento. |
 
-En la columna **Acción**, todos los eventos de Headless CMS también muestran la siguiente información:
+En la columna **Acción**, todos los eventos de Headless CMS (Legacy) también muestran la siguiente información:
 
 * **CONTENT_ID:** código identificador único de contenido.
 * **VARIANT_ID:** código identificador único de la versión del contenido.
 * **WORKSPACE**: workspace en el que se realizó el cambio.
+
+## CMS
+
+| Acción | Descripción del evento | Detalles del evento |
+|---|---|---|
+| entry.delete | Eliminación de una entry en Content Platform. | ID de la entry. |
+| branch.create | Creación de un branch en Content Platform. | ID del branch. |
+| branch.update | Actualización de un branch en Content Platform. | ID del branch. |
+| branch.delete | Eliminación de un branch en Content Platform. | ID del branch. |
+| branch.merge | Merge de un branch en Content Platform. | ID del branch. |
+| branch.merge_scheduled | Programación del merge de un branch en Content Platform. | ID del branch. |
+| branch.merge_unscheduled | Cancelación del merge programado de un branch en Content Platform. | ID del branch. |
+| store.create | Creación de una store en Content Platform. | ID de la store. |
+| store.update | Actualización de una store en Content Platform. | ID de la store. |
+| store.default_locale_change | Cambio del locale predeterminado de una store en Content Platform. | ID de la store y locale. |
+| store.locale.create | Creación de un locale en una store de Content Platform. | ID de la store y locale. |
+| store.locale.update | Actualización de un locale en una store de Content Platform. | ID de la store y locale. |
+| store.locale.activate | Activación de un locale en una store de Content Platform. | ID de la store y locale. |
+| store.locale.deactivate | Desactivación de un locale en una store de Content Platform. | ID de la store y locale. |
+| media.upload | Carga de un archivo multimedia en Content Platform. | ID del archivo multimedia. |
+| media.create | Creación de un asset multimedia en Content Platform. | ID del archivo multimedia. |
+| media.delete | Eliminación de un asset multimedia en Content Platform. | ID del archivo multimedia. |
+| schema.publish | Publicación de un schema en el Schema Registry de Content Platform. | ID del schema. |
 
 ## Gestión de sellers
 
@@ -276,7 +424,7 @@ En la columna **Acción**, todos los eventos de Headless CMS también muestran l
 ## Site Editor
 
 | Acción | Descripción del evento | Detalle del evento |
-|:---:|:---:|:---:|
+|---|---|---|
 | Schedule change | Programa la edición de contenido. | ID de entidad modificado. |
 | Edit content block | Edita el bloque de contenido. | ID de entidad modificado. |
 | Create content block | Creación de bloco de conteúdo. | ID de entidad modificado. |
@@ -320,4 +468,39 @@ En la columna **Acción**, todos los eventos de Headless CMS también muestran l
 | SaveOrganizationUnit | Creación de una unidad organizacional. | ID de la unidad organizacional. |
 | UpdateOrganizationUnit | Actualización del nombre de una unidad organizacional. | ID de la unidad organizacional. |
 | MoveOrganizationUnit | Creación de una jerarquía entre unidades organizacionales. | ID de la unidad organizacional superior e ID de la unidad organizacional inferior. |
+
+## Opciones de envío
+
+> ℹ️ [Opciones de envío](/es/docs/tutorials/opciones-de-envio-beta) está en fase de open beta. Estos eventos solo se registran en cuentas que usan Opciones de envío. En las demás cuentas, la búsqueda por esta aplicación no devuelve resultados.
+
+| Acción | Descripción del evento | Detalles del evento |
+|---|---|---|
+| DELIVERY_OPTION_CREATE | Creación manual de una opción de envío. No hay estado anterior de la opción de envío. | ID de la opción de envío. |
+| DELIVERY_OPTION_UPDATE | Actualización de una opción de envío existente, ya sea por la edición de campos o por su activación o desactivación. La activación y la desactivación solo se registran cuando el estado cambia efectivamente. | ID de la opción de envío. |
+| DELIVERY_OPTION_DELETE | Eliminación de una opción de envío. El evento registra el estado de la opción de envío inmediatamente antes de la eliminación. | ID de la opción de envío. |
+| DELIVERY_OPTION_UPDATE_ACCOUNT_CONFIG | Actualización de la configuración de cuenta de Opciones de envío, como el filtro en la página de listado de productos y las preferencias de visualización en la vitrina. La entidad auditada es la configuración de la cuenta, no una opción de envío individual. | Nombre de la cuenta. |
+| DELIVERY_OPTION_CHANGED_FILTER | Cambio en las opciones de envío usadas como filtro en la vitrina. | ID de la opción de envío. |
+| DELIVERY_OPTION_AUTOGENERATE_CREATE | Creación de una opción de envío mediante el flujo de generación automática, a partir de una sugerencia. Las opciones de envío generadas automáticamente siempre se crean como inactivas, a la espera de revisión manual. | ID de la opción de envío. |
+| DELIVERY_OPTION_AUTOGENERATE_UPDATE | Edición manual de una opción de envío generada automáticamente en un campo distinto del estado, que deja de tratarse como generada por la plataforma. Cambiar solo el estado no genera este evento. | ID de la opción de envío. |
+
+## Agente de Optimización de Búsqueda
+
+| Acción | Descripción del evento | Detalles del evento |
+|---|---|---|
+| CreateSynonymRule | Creación de una regla de sinónimo unidireccional. | ID de la regla, términos (izquierda y derecha), locales y si la regla está activa. |
+| CreateBidirectionalSynonymRule | Creación de una regla de sinónimo bidireccional. | ID de la regla, términos (izquierda y derecha), locales y si la regla está activa. |
+| DeleteSynonymRule | Eliminación de una regla de sinónimo. | ID de la regla. |
+| ActivateSynonymRule | Activación de una regla de sinónimo. | ID de la regla. |
+| DeactivateSynonymRule | Desactivación de una regla de sinónimo. | ID de la regla. |
+| CreateRedirect | Creación de una regla de redireccionamiento de búsqueda. | ID del redireccionamiento, términos de origen, ruta de destino, conjunción, modo de coincidencia, locales y si el redireccionamiento está activo. |
+
+## Autenticador
+
+| Acción | Descripción del evento | Detalles del evento |
+|---|---|---|
+| DelegationCreated | Creación de una delegación que otorga a un usuario permiso para actuar en nombre de otro usuario de la misma unidad organizativa, durante un período determinado. | ID de la delegación, ID de la unidad organizativa, ID del usuario original, ID del usuario delegado y período. |
+| DelegationUpdated | Actualización del período de una delegación. | ID de la delegación y período. |
+| DelegationRevoked | Revocación de una delegación antes de la fecha de finalización. | ID de la delegación. |
+| ImpersonationSuccess | Suplantación exitosa de un usuario mediante un intercambio de token on-behalf-of (OBO). | ID del usuario original, ID del usuario delegado, tipo de suplantación, ID de la delegación e ID de la unidad organizativa. |
+| ImpersonationFailed | Intento fallido de suplantación de un usuario mediante un intercambio de token on-behalf-of (OBO). | ID del usuario original, ID del usuario delegado, tipo de suplantación, ID de la delegación, ID de la unidad organizativa y motivo del fallo. |
 

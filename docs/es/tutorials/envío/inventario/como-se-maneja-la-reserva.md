@@ -23,7 +23,7 @@ Después de ser vendido, un ítem pasa por los siguientes status en el_ stock _d
 
 1. **[Reserva autorizada](/es/docs/tutorials/como-se-maneja-la-reserva#reserva-autorizada)** tras la finalización de la compra.
 2. **[Reserva confirmada](/es/docs/tutorials/como-se-maneja-la-reserva#reserva-confirmada)**: tras la aprobación del pago.
-3. **[Reserva reconocida](/es/docs/tutorials/como-se-maneja-la-reserva#reserva-reconocida)**: cuando el status del pedido cambia a **Preparando entrega **en el módulo **Pedidos**.
+3. **[Reserva reconocida](/es/docs/tutorials/como-se-maneja-la-reserva#reserva-reconocida)**: cuando el status del pedido cambia a **Preparando entrega** en el módulo **Pedidos**.
 4. **[Dado de baja en el stock:](/es/docs/tutorials/como-se-maneja-la-reserva#dado-de-baja-en-el-stock)** pedido en transporte para entrega.
 
 Puedes seguir el status de la reserva de los ítems a través del Admin VTEX, [como se describe al final de este artículo. ](/es/docs/tutorials/como-se-maneja-la-reserva#como-seguir-el-status-de-la-reserva)

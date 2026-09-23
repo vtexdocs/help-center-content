@@ -33,7 +33,7 @@ Considerando a organização por produtos no License Manager, fizemos mudanças 
 
 Além disso, acrescentamos novos recursos no License Manager, relativos ao produto **Catalog** e à categoria **General**. Confira abaixo detalhes sobre as permissões concedidas:
 
-| **Recurso** | **Chave** | **Descrição** |
+| Recurso | Chave | Descrição |
 |---|---|---|
 | Edit Product | EditProduct | Editar detalhes de produtos e SKUs. |
 | View Product | ViewProduct | Visualizar detalhes de produtos e SKUs. |

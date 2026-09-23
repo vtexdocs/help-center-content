@@ -10,40 +10,31 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: delivery-options-beta
-legacySlug: opcoes-de-envio-beta
+legacySlug: opciones-de-envio-beta
 locale: es
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-> ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si tienes alguna duda, ponte en contacto con [nuestro equipo de soporte](https://supporticket.vtex.com/support).
+> ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si tienes alguna duda, ponte en contacto con [nuestro Soporte](https://supporticket.vtex.com/support).
 
-La página Opciones de envío del Admin VTEX permite configurar ofertas de envío flexibles y precisas durante la jornada de compra, así como definir diferentes tipos de disponibilidad de entrega y de zonas geográficas, y controlar cómo y cuándo se muestran estas opciones al cliente.
+**Opciones de envío** es una página del Admin VTEX que permite configurar ofertas de entrega flexibles y precisas durante el proceso de compra, como definir diferentes tipos de disponibilidad de envío/entrega y zonas geográficas, y controlar cómo y cuándo se muestran estas opciones al cliente.
 
 Esto proporciona a los retailers autonomía para crear, configurar y gestionar las opciones de envío como contenido estratégico dentro de la plataforma VTEX, y una mayor flexibilidad para alinear la capacidad logística con los objetivos comerciales, optimizando la experiencia de compra de los clientes.
 
-Las opciones de envío utilizan la información registrada en las [políticas de envío](/es/docs/tutorials/politica-de-envio) de la tienda. Si no tienes esta configuración definida o ninguna cumple con las metas de plazo de las opciones de envío, consulta el artículo [Crear una política de envío](/es/docs/tutorials/crear-una-politica-de-envio).
+Las opciones de envío utilizan las [políticas de envío](/es/docs/tutorials/politica-de-envio) ya configuradas en la tienda. Una sola opción de envío puede agrupar varias políticas de envío, siempre que cumplan con los criterios definidos para dicha opción.
 
-Esta página te permite realizar las siguientes acciones:
-
-- [Crear una opción de envío](#crear-una-opción-de-envío)
-- [Editar una opción de envío](#editar-una-opción-de-envío)
-- [Desactivar una opción de envío](#desactivar-una-opción-de-envío)
-- [Activar una opción de envío](#activar-una-opción-de-envío)
-- [Eliminar una opción de envío](#eliminar-una-opción-de-envío)
-- [Buscar una opción de envío](#buscar-una-opción-de-envío)
-- [Filtrar una opción de envío](#filtrar-una-opción-de-envío)
-- [Preferencias de opción de envío](#preferencias-de-opción-de-envío)
+Las políticas de envío se asocian con una opción de envío cuando cumplen tanto con la promesa de entrega definida como con las zonas de envío configuradas. Si ninguna política de envío cumple con los criterios configurados, o si las políticas de envío no se han configurado correctamente, consulta el artículo [Crear una política de envío](/es/docs/tutorials/crear-una-politica-de-envio).
 
 ![delivery-options-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/envío-beta/opciones-de-envio-beta_1.png)
 
 La página muestra la siguiente información en forma de tabla:
 
-| Columnas        | Descripción                                                                                                                                                                                                                                                                               |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Nombre          | Nombre que identifica la opción de envío que se mostrará en el storefront.                                                                                                                                                                                                |
-| Meta de entrega | Duración del plazo de entrega de la opción de envío.                                                                                                                                                                                                                      |
-| Zona de entrega | Ubicaciones en las que estará disponible la opción de envío.                                                                                                                                                                                                              |
-| Status          | Situación de la opción de envío, que puede ser:<br><ul><li>Activa: la opción de envío está disponible para el cliente.</li><li>Inactiva: la opción de envío no está disponible para el cliente.</li></ul> |
+| Columnas        | Descripción |
+| ---|---|
+| Nombre | Nombre que identifica la opción de envío que se mostrará en el storefront. |
+| Meta de entrega | Duración del plazo de entrega de la opción de envío. |
+| Zona de entrega | Ubicaciones en las que estará disponible la opción de envío. |
+| Status | Situación de la opción de envío, que puede ser:<br><ul><li>Activa: la opción de envío está disponible para el cliente.</li><li>Inactiva: la opción de envío no está disponible para el cliente.</li></ul> |
 
 ## Crear una opción de envío
 
@@ -58,7 +49,6 @@ Para crear una nueva opción de envío sigue los pasos a continuación:
 
    - **Método de envío:** selecciona el método de envío (**Envío**, **Entrega programada**, **Recogida**, **Recogida programada**).
    - **Nombre de la opción:** ingresa el nombre de la opción que se mostrará al cliente durante la compra.
-   - **Usar opción como filtro en la vitrina de la tienda**: marca la casilla para permitir que los clientes utilicen esta opción para filtrar los productos con los [filtros de Intelligent Search](/es/docs/tutorials/filtros).
 
    > ⚠️ Los filtros de métodos de envío solo se mostrarán al cliente en la lista de productos si esta opción está activada. Si está desactivada, los filtros no se mostrarán.
 
@@ -71,10 +61,10 @@ Para crear una nueva opción de envío sigue los pasos a continuación:
 
    ### Zonas de envío
 
-   - **Zonas de envío**: haz clic en el botón `+ Agregar zonas` y selecciona las zonas de envío que quieres que sean atendidas por la opción de envío. Puedes buscar por zona de envío utilizando la barra de búsqueda. Haz clic en `Guardar` para cerrar la ventana.
+   - **Zonas de entrega**: haz clic en el botón `+ Agregar zonas` y selecciona las zonas de envío que deseas que sean atendidas por la opción de envío. Puedes buscar por zona de envío utilizando la barra de búsqueda. Haz clic en `Guardar` para cerrar la ventana.
 
    ### Precios de envío
-   
+
    - **Precios**: condiciones de precios de la opción de envío. Los modelos de precios aplicados en cada segmentación son: **Valor fijo** para aplicar un mismo precio a todos los carritos, **Markup**, o porcentaje de ganancia sobre el valor del envío, y **Transferencia de costo**, cuando la tienda asume el costo de la opción de envío. Puedes combinar las opciones de precios. Las condiciones de precios se definen según las siguientes segmentaciones:
      - **Todos los carritos**: el precio se aplicará a todos los carritos creados en la tienda.
      - **Políticas comerciales**: el precio se aplicará a una determinada política comercial.
@@ -98,6 +88,40 @@ Para editar una opción de envío sigue los pasos a continuación:
 
 La opción de envío estará activa y actualizada.
 
+## Verificar cobertura logística
+
+Al editar una opción de envío, puedes verificar si la configuración de la tienda cumple con los criterios definidos en la opción, identificando los sellers, políticas de envío y rutas que están disponibles para atenderla. Esta verificación ayuda a diagnosticar por qué una opción de envío no se muestra al cliente.
+
+Para verificar la cobertura logística de una opción de envío sigue los pasos a continuación.
+
+1. En el Admin VTEX, accede a **Envío > Opciones de envío** o ingresa **Opciones de envío** en la barra de búsqueda en la parte superior de la página.
+2. En la opción de envío que deseas verificar, haz clic en <i class="fas fa-ellipsis-v"></i>.
+3. Haz clic en <i class="fas fa-pencil-alt"></i> `Editar opción de envío`.
+4. Haz clic en `Comprobar cobertura logística`.
+
+El modal **Comprobar cobertura logística** se abrirá al lado derecho de la página con la siguiente información:
+
+| Información                    | Descripción                                                                                                                                                                                                                                                                                                             |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sellers                        | Cantidad de sellers que cumplen con los criterios configurados en la opción de envío.                                                                                                                                                                                                                   |
+| Políticas de envío             | Cantidad de políticas de envío que cumplen con los criterios configurados en la opción de envío.                                                                                                                                                                                                        |
+| Cobertura por zona             | Lista de las zonas de envío configuradas en la opción de envío que indica cuántos sellers y cuántas políticas de envío atienden cada zona.                                                                                                                                                              |
+| Rutas válidas para esta opción | Lista de los sellers que cumplen con la opción de envío y la cantidad de políticas de envío y de rutas de cada uno. El título de la sección también indica cuántos sellers se están mostrando en proporción al total encontrado (por ejemplo, **mostrando 2 de 2**). |
+
+En la sección **Rutas válidas para esta opción**, haz clic en <i class="fas fa-chevron-down"></i> junto al nombre de un seller para expandir sus rutas. Cada ruta se presenta como la combinación de una política de envío y un muelle en formato `Política de envío + Muelle`, según se muestra en el siguiente ejemplo:
+
+- `Fedex - VER` + `Muelle principal`
+- `Fedex - VER` + `Xalapa`
+- `Fedex - CDMX` + `Muelle principal`
+
+De esta forma, es posible identificar exactamente qué combinaciones de política de envío y muelle están habilitadas para atender la opción de envío en cada seller. Para contraer la lista de rutas de un seller, haz clic en <i class="fas fa-chevron-up"></i>.
+
+Para buscar una zona de envío o un seller específico, haz clic en <i class="fas fa-search"></i> en la sección correspondiente e ingresa el nombre deseado.
+
+Si alguna configuración de la tienda cambia mientras el modal está abierto, haz clic en <i class="fas fa-sync-alt"></i> para actualizar la información mostrada. Para cerrar el modal, haz clic en <i class="fas fa-times"></i>.
+
+> ℹ️ Si una zona de envío no cuenta con sellers o políticas de envío, la opción de envío no se mostrará al cliente en esa ubicación. En ese caso, revisa las [políticas de envío](https://help.vtex.com/es/docs/tutorials/politica-de-envio) de la tienda para garantizar que cumplen con la promesa de entrega y atienden las zonas configuradas en la opción de envío.
+
 ## Desactivar una opción de envío
 
 Para desactivar una opción de envío sigue los pasos a continuación:
@@ -114,8 +138,8 @@ Una vez hecho esto, la opción de envío estará desactivada.
 Para activar una opción de envío que está desactivada sigue los pasos a continuación:
 
 1. En el Admin VTEX, accede a **Envío > Opciones de envío** o ingresa **Opciones de envío** en la barra de búsqueda en la parte superior de la página.
-2. En la opción de envío que deseas eliminar, haz clic en los tres puntos verticales <i class="fas fa-ellipsis-v"></i>.
-3. Haz clic en <<i class="fas fa-play-circle"></i> `Activar opción de envío`.
+2. Haz clic en los tres puntos verticales de la opción de envío que deseas activar <i class="fas fa-ellipsis-v"></i>.
+3. Haz clic en <i class="fas fa-play-circle"></i> `Activar opción de envío`.
 4. Haz clic en `Activar opción`.
 
 Una vez hecho esto, la opción de envío estará activa y disponible para los clientes de la tienda.
@@ -127,7 +151,7 @@ Para eliminar una opción de envío sigue los pasos a continuación:
 1. En el Admin VTEX, accede a **Envío > Opciones de envío** o ingresa **Opciones de envío** en la barra de búsqueda en la parte superior de la página.
 2. En la opción de envío que deseas eliminar, haz clic en los tres puntos verticales <i class="fas fa-ellipsis-v"></i>.
 3. Haz clic en <i class="fas fa-trash-alt"></i> `Eliminar opción de envío`.
-4. Haz clic en `Eliminar opción`. Recuerda que la acción de eliminar no se puede deshacer y puede alterar la experiencia de compra si la opción de envío estaba activa.
+4. Haz clic en `Eliminar opción de envío`. Recuerda que la eliminación es permanente y puede alterar la experiencia de compra si la opción de envío está activa.
 
 Una vez hecho esto, la opción de envío se eliminará.
 
@@ -139,7 +163,7 @@ Para buscar una opción de envío, haz clic en la barra de búsqueda y escribe e
 
 Para filtrar la lista de opciones de envío, haz clic en uno de los filtros descritos a continuación y selecciona las opciones deseadas.
 
-- **Método de envío:** filtra utilizando los métodos de envío de las opciones de envío, que son **Envío**, **Entrega programada**, **Recogida** y **Recogida programada**.
+- **Método de envío:** filtra por los métodos de envío, **Envío**, **Entrega programada**, **Recogida** y **Recogida programada**, registrados en las opciones de envío.
 
 - **Zona de entrega:** filtra por las zonas de entrega configuradas en las opciones de envío. Puedes buscar por el nombre de una zona de entrega en la barra de búsqueda.
 
@@ -155,7 +179,9 @@ Configura las opciones de envío en el storefront para personalizar la experienc
 
 1. En el Admin VTEX, accede a **Envío > Opciones de envío** o ingresa **Opciones de envío** en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en `Preferencias`.
-3. Selecciona la forma en que deseas mostrar tus opciones de envío en la tienda.
+3. En la sección **Opciones de envío utilizadas como filtro**, define el orden en que se mostrarán las opciones de envío en los filtros de navegación.
+4. Agrega las opciones de envío que deseas incluir en los filtros de navegación haciendo clic en `+` en la opción de envío correspondiente.
+5. Selecciona la forma en que deseas mostrar tus opciones de envío en la tienda.
    - **Mostrar siempre todas las opciones disponibles para el producto:** todas las opciones de envío que están disponibles en las condiciones de envío se mostrarán en la página de producto y en el checkout de la tienda.
    - **Mostrar solo las opciones más económicas y rápidas:** solo se mostrarán las opciones de envío con el menor costo o el menor plazo en la página de producto y en el checkout de la tienda.
-4. Haz clic en `Guardar` para finalizar.
+6. Haz clic en `Guardar` para finalizar.

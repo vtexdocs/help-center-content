@@ -36,8 +36,8 @@ Check the status of order integration and messages by going to the VTEX Admin, a
 
 To understand the meaning of the error and fix it, see the table below:
 
-| **Error type** | **Meaning** | **Required action** |
-|:---:|:---:|:---:|
+| Error type | Meaning | Required action |
+|---|---|---|
 | **Incomplete shipping information** | The delivery information is incomplete or incorrect. | Correct or complete the requested information following the documentation [Order flow and status.](/en/docs/tutorials/order-flow-and-status) |
 |  <br>**Amount divergence** |  <br>The total amount of the order placed on the marketplace differs from the amount expected by the VTEX store, and this difference exceeds the percentage accepted by the VTEX store, or the Price Divergence rule is not configured.<br> <br>**Example**<br> <br>The total amount paid for the order on the marketplace was $311.77 USD, and the amount expected by the store was $313.61 USD. In other words, the order has a difference of $1.84 USD. | [Reprocess the order](/en/tutorial/verificando-integracao-no-bridge#pedidos) or Configure the [Price Divergence rule](/en/docs/tutorials/price-divergence-rule). |
 | **Invalid SKU ID** | The product IDs in the sales channel differ from those in the marketplace. | Change the SKU IDs in the marketplace to have the same codes as the products in the sales channel. |

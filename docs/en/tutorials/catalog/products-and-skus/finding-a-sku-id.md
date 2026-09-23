@@ -20,7 +20,7 @@ On VTEX, the SKU (Stock Keeping Unit) corresponds to the physical inventory of e
 To find a SKU ID, follow the steps below:
 
 1. In the VTEX Admin, go to **Catalog > Products and SKUs**, or type [Products and SKUs](/en/docs/tutorials/products-and-skus) in the search bar at the top of the page.
-2. To display the[ SKUs added to the product](/en/docs/tutorials/adding-or-editing-skus), click the arrow next to the product name.
+2. To display the [SKUs added to the product](/en/docs/tutorials/adding-or-editing-skus), click the arrow next to the product name.
 3. Find the numeric sequence that precedes the SKU name, which is the ID.
 
 In the example below, the product "Corebiz t-shirt" is associated with the SKU "corebiz t-shirt black", whose ID is `310119261`:

@@ -37,7 +37,7 @@ Os erros mais comuns em pedidos realizados na Amazon são:
 
 Para corrigir erros de integração em pedidos da Amazon, considere as opções apresentadas na tabela a seguir:
 
-|**Mensagem de erro**|**Significado**|**Ação requerida**|
+|Mensagem de erro|Significado|Ação requerida|
 |---|---|---|
 |**No available sla to deliver this order**|Algum fator está inviabilizando a entrega do pedido ao consumidor final. |Para identificar a origem do erro e corrigi-lo, confira [Erros de SLA na integração de pedidos de marketplace](/pt/docs/tutorials/erros-de-sla-na-integracao-de-pedidos-de-marketplace).|
 |**Order with SKU out of stock**|Existe um problema no estoque atrelado ao marketplace.|Para corrigir o erro, verifique na documentação [Erros de falta de estoque na integração de pedidos de marketplace](/pt/docs/tutorials/erros-de-falta-de-estoque-na-integracao-de-pedidos-de-marketplace) qual erro de estoque está associado ao pedido e siga os passos indicados na documentação.|

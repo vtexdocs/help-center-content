@@ -100,8 +100,8 @@ Para ciertas categorías asignadas a un producto creado, debajo de Predeterminad
 
 La siguiente tabla muestra ejemplos de especificaciones para productos de diferentes categorías:
 
-| **Categoría** | **Producto** | **Especificación** | **Valoraciones** |
-| :---: | :---: | :---: | :---: |
+| Categoría | Producto | Especificación | Valoraciones |
+| --- | --- | --- | --- |
 | Ropa | Camisa | Tela | Algodón |
 | Electrónicos | Celular | Duración de la batería | 12 horas |
 | Bebidas | Vino | País de origen | Chile |

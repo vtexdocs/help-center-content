@@ -76,7 +76,7 @@ Para configurar la frecuencia y la fecha de ciclo de la suscripción en tu tiend
 
 8. Haz clic en `Guardar`.
 
-| **Nombre de clave** | **Valores permitidos** |
+| Nombre de clave | Valores permitidos |
 | --- | --- |
 | `vtex.subscription.key.frequency` | Los valores permitidos son una combinación de un número del 1 al 9 + espacio + alguno de los siguientes valores:<ul><li>`day`: pedidos diarios. Ejemplo: `5 day`.</li><li>`week`: pedidos semanales. Ejemplo: `4 week`.</li><li>`month`: pedidos mensuales. Ejemplo: `3 month`.</li><li>`year`: pedidos anuales. Ejemplo: `2 year`.</li></ul>Para proporcionar varias opciones de frecuencia, separa los valores con una coma. No dejes espacio después de la coma.<ul><li>Ejemplo: para ofrecer una opción de suscripción mensual y otra semanal, ingresa `1 month,1 week`.</li></ul> |
 | `vtex.subscription.key.purchaseday` | **Frecuencia semanal**Los valores permitidos para la fecha del ciclo de suscripción semanal varían de 0 a 6, correspondiendo a los días de la semana:<ul><li>`0`: domingo</li><li>`1`: lunes</li><li>`2`: martes</li><li>`3`: miércoles</li><li>`4`: jueves</li><li>`5`: viernes</li><li>`6`: sábado</li></ul>Si deseas ofrecer más de un día para el ciclo con frecuencia semanal, separa los valores utilizando comas.<ul><li>Ejemplo: para ofrecer una suscripción semanal con fecha de ciclo los domingos, miércoles y viernes, ingresa `0,3,5`.</li></ul><br>**Frecuencia mensual**Los valores permitidos van de `1` a `28` y equivalen a los días del mes, donde `1` es el primer día del mes, `2` el segundo, y así sucesivamente hasta `28`, el vigésimo octavo día del mes.Si utilizas más de un número, sepáralos con una coma. No dejes espacio después de la coma.<ul><li>Ejemplo: para ofrecer una suscripción mensual con fecha de ciclo en el primer o en el último día permitido, ingresa `1,28`.</li></ul> |
@@ -85,11 +85,11 @@ Las siguientes imágenes muestran ejemplos de cómo rellenar estos valores en el
 
 * **Ejemplo de frecuencia mensual:** la imagen muestra una suscripción mensual con pedidos que se pueden realizar todos los días 1, 15 o 28 de cada mes:
 
-  ![ES Assinatura Exemplo Valores month](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/suscripciones/guía-de-suscripciones/como-crear-un-anexo-de-suscripcion-en-el-modulo-catalogo_1.png)
+  ![ES Assinatura Exemplo Valores month](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/suscripciones/como-crear-un-anexo-de-suscripcion-en-el-modulo-catalogo_1.png)
 
 * **Ejemplo de frecuencia cada 3 semanas:** la imagen muestra una suscripción que crea nuevos pedidos cada 3 semanas, y la compra puede realizarse los domingos, martes o sábados.
 
-  ![ES Assinatura Exemplo Valores week](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/suscripciones/guía-de-suscripciones/como-crear-un-anexo-de-suscripcion-en-el-modulo-catalogo_2.png)
+  ![ES Assinatura Exemplo Valores week](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/suscripciones/como-crear-un-anexo-de-suscripcion-en-el-modulo-catalogo_2.png)
 
 ## 3. Asociar SKU con anexo de suscripción
 

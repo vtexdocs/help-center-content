@@ -1,5 +1,5 @@
 ---
-title: '¿Cómo definir la URL de un producto?'
+title: 'Definiendo la URL de un producto'
 id: frequentlyAskedQuestions_368
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:53.153Z

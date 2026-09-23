@@ -49,7 +49,7 @@ Each organization can have one of the following status:
 
 - **Inactive:** Store admins have deactivated the organization, so your users won't be able to log in.
 
-![Status- EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-organizations/managing-b2b-organizations_1.gif)
+![Status- EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-suite/b2b-organizations/managing-b2b-organizations_1.gif)
 
 ## Adding a new organization
 
@@ -73,7 +73,7 @@ To add a new organization, follow the steps below:
     - **Recipient:** Name of the person who will receive the orders at the address provided.
 4. Click the `Add` button.
 
-![Adiconar organização- EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-organizations/managing-b2b-organizations_2.gif)
+![Adiconar organização- EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-suite/b2b-organizations/managing-b2b-organizations_2.gif)
 
 ## Email notifications
 

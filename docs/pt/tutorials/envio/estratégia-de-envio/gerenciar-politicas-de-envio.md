@@ -39,8 +39,8 @@ No Admin VTEX, ao acessar **Envio > Estratégia de envio**, na aba **Políticas 
 
 As informações apresentadas nessa página estão descritas na tabela a seguir: 
 
-| **Coluna** | **Descrição** |
-| :---: | :--- |
+| Coluna | Descrição |
+| --- | --- |
 | Política de envio | Nome que identifica a sua [política de envio](/pt/docs/tutorials/politica-de-envio) para usuários com acesso ao seu Admin VTEX. Saiba mais no artigo [Criar uma política de envio](/pt/docs/tutorials/criar-uma-politica-de-envio). |
 | Tipo de envio | [Tipo de envio](/pt/docs/tutorials/como-funciona-o-tipo-de-envio), ou método de envio, é o nome que você configura na política de envio que aparece para os clientes no checkout. Por isso, é importante utilizar nomes intuitivos ao criar uma política de envio.Exemplo: `Entrega expressa` e `Entrega normal`. |
 | Docas | Identifica quais [docas](/pt/docs/tutorials/doca) estão associadas à [política de envio](/pt/docs/tutorials/politica-de-envio). Ao passar o mouse sobre o número nesta coluna, você visualiza os nomes de todas as docas associadas à política de envio. |

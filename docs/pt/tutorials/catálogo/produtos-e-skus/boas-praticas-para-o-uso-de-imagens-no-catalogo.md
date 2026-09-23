@@ -19,8 +19,8 @@ Este artigo tem como objetivo enunciar algumas boas práticas em relação ao us
 
 A tabela abaixo apresenta os limites e formatos aceitos para imagens:
 
-| **Tema** | **Informações** |
-| :--- | :--- |
+| Tema | Informações |
+| --- | --- |
 | Tamanho máximo em pixels | 5.000 x 5.000 pixels |
 | Tamanho mínimo em pixels | 600 x 600 pixels |
 | Tamanho máximo em MB | 4 MB |
@@ -43,5 +43,5 @@ Para obter bons resultados com as suas imagens e solucionar possíveis problemas
 
 - [Cadastrar Producto](/pt/docs/tracks/cadastrar-produto)
 - [Cadastrar SKU](/pt/docs/tracks/cadastrar-sku)
-- [Importar imagens por planilha](/pt/docs/tutorials/importando-imagens-por-planilha)
+- [Importar imagens por planilha](/pt/docs/tutorials/importar-e-exportar-imagens-de-produtos-e-skus-via-planilha)
 

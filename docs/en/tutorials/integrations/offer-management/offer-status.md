@@ -73,7 +73,7 @@ At the top of the **Offer Status** page, there is an overview of the seller's of
 
 The offer list contains columns with the following information:
 
-| **Column** | **Description** |
+| Column | Description |
 |---|---|
 | **Name** | Displays the SKU image, the offer name on the sales channel, and the SKU ID on VTEX. |
 | **Marketplace** | Sales channel to where the offer was sent. |
@@ -147,7 +147,7 @@ You can use a single filter or combine them in a single search. The filters are 
 
 The offer list contains columns with the following information:
 
-| **Column** | **Description** |
+| Column | Description |
 |---|---|
 | **Name** | Displays the SKU image, the offer name on the sales channel, and the SKU ID on VTEX. |
 | **Marketplace** | Sales channel to where the offer was sent. |
@@ -211,7 +211,7 @@ You can use a single filter or combine them in a single search. The filters are 
 
 The **Awaiting Completion** tab contains columns with the following information:
 
-| **Column** | **Description** |
+| Column | Description |
 |---|---|
 | **Name** | Displays the SKU image, the offer name on the sales channel, and the SKU ID on VTEX. |
 | **Marketplace** | Sales channel to where the offer was sent. |

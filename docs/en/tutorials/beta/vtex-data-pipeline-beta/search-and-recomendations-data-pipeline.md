@@ -55,18 +55,19 @@ The search data model consists of three types of tables, each with a specific ro
 The diagram below shows how the tables are organized by type and how they connect to each other:
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart TB
     subgraph FACT["Fact tables (events)"]
-        tbl_request["request\n(completed search)"]
-        tbl_response["response\n(returned result)"]
-        tbl_click["click\n(click on result)"]
-        tbl_impression["impression\n(displaying results)"]
+        tbl_request["request<br/>(completed search)"]
+        tbl_response["response<br/>(returned result)"]
+        tbl_click["click<br/>(click on result)"]
+        tbl_impression["impression<br/>(displaying results)"]
     end
 
     subgraph BRIDGE["Bridge tables (relationships)"]
-        tbl_response_product["response_product\n(products in results)"]
-        tbl_impression_click["impression_click\n(impression → click)"]
-        tbl_impression_order_group["impression_order_group\n(impression → order)"]
+        tbl_response_product["response_product<br/>(products in results)"]
+        tbl_impression_click["impression_click<br/>(impression → click)"]
+        tbl_impression_order_group["impression_order_group<br/>(impression → order)"]
 
         subgraph FILTERS["Filters and request rules"]
             tbl_text_filter["request_text_filter"]
@@ -86,7 +87,7 @@ flowchart TB
     end
 
     subgraph DIMENSION["Dimension table (settings)"]
-        tbl_request_setting["request_setting\n(search engine configuration)"]
+        tbl_request_setting["request_setting<br/>(search engine configuration)"]
     end
 
     tbl_request -->|search_id| tbl_response
@@ -106,26 +107,28 @@ Below are three distinct flows for using the data:
 - Flow 1: Shows the journey of a search request and its components. Example: a buyer searches for "running shoes" with brand and price filters.
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart TD
-    REQ["request\nBuyer searches: running shoes"]
+    REQ["request<br/>Buyer searches:<br/>running shoes"]
 
-    REQ -->|"search_id"| SETTING["request_setting\nES Cluster: is-intelligent-search-v8-05\nFlags: hide_unavailable_items = true"]
-    REQ -->|"search_id"| RESP["response\nLatency: 150ms, Match: 42 products"]
-    REQ -->|"search_id"| TF["request_text_filter\nbrand = Nike"]
-    REQ -->|"search_id"| NF["request_number_filter\nprice: 100 to 500"]
+    REQ -->|"search_id"| SETTING["request_setting<br/>ES Cluster:<br/>is-intelligent-search-v8-05<br/>Flags: hide_unavailable<br/>items = true"]
+    REQ -->|"search_id"| RESP["response<br/>Latency: 150ms<br/>Match: 42 products"]
+    REQ -->|"search_id"| TF["request_text_filter<br/>brand = Nike"]
+    REQ -->|"search_id"| NF["request_number_filter<br/>price: 100 to 500"]
 
-    RESP -->|"search_id"| RP["response_product\n#1 Air Max Shoes - score: 95\n#2 Pegasus Shoes - score: 87\n#3 ZoomX Shoes - score: 82"]
+    RESP -->|"search_id"| RP["response_product<br/>#1 Air Max Shoes - score: 95<br/>#2 Pegasus Shoes - score: 87<br/>#3 ZoomX Shoes - score: 82"]
 ```
 
 - Flow 2: Shows the full buyer journey from retrieving results → clicking → purchasing. Example: The buyer views the results, clicks product #2, and completes the purchase.
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart LR
-    IMP["impression\nResults shown\nto buyer"]
-    IC["impression_click\nLinks impression\nto click"]
-    CLK["click\nBuyer clicked\nproduct #2, position: 2"]
-    IOG["impression_order_group\nLinks impression\nto order"]
-    ORD["Order \ndata model\n- order_group"]
+    IMP["impression<br/>Results shown<br/>to buyer"]
+    IC["impression_click<br/>Links impression<br/>to click"]
+    CLK["click<br/>Buyer clicked<br/>product #2<br/>position: 2"]
+    IOG["impression_order_group<br/>Links impression<br/>to order"]
+    ORD["Order data model<br/>order_group"]
 
     IMP -->|"impression_id"| IC
     IC -->|"click_id"| CLK
@@ -136,23 +139,24 @@ flowchart LR
 - Flow 3: each search request can have multiple associated details, all linked by `search_id`. For example, a single search may have two text filters, one number filter and three active sellers at the same time.
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart TD
-    REQ["request\nsearch_id: X"]
+    REQ["request<br/>search_id: X"]
 
-    REQ -->|"search_id"| TF["request_text_filter\nbrand = 'Nike'\ncategory = 'Shoes'"]
-    REQ -->|"search_id"| NF["request_number_filter\nprice: 100 to 500"]
-    REQ -->|"search_id"| FQ["request_field_query\nsku:123"]
-    REQ -->|"search_id"| RR["request_relevance_rule\ntype: click, weight: 5"]
-    REQ -->|"search_id"| WLS["request_white_label_seller\nseller_1, seller_2"]
-    REQ -->|"search_id"| MR["request_merchandising_rule\nrule: promo-summer-2026"]
-    REQ -->|"search_id"| HS["request_hybrid_search\nmodel: openai:text-embedding-3-small\nratio: 0.5"]
-    REQ -->|"search_id"| DPS["request_dp_shipping\nshipping: pickup"]
+    REQ -->|"search_id"| TF["request_text_filter<br/>brand = 'Nike'<br/>category = 'Shoes'"]
+    REQ -->|"search_id"| NF["request_number_filter<br/>price: 100 to 500"]
+    REQ -->|"search_id"| FQ["request_field_query<br/>sku:123"]
+    REQ -->|"search_id"| RR["request_relevance_rule<br/>type: click<br/>weight: 5"]
+    REQ -->|"search_id"| WLS["request_white_label_seller<br/>seller_1, seller_2"]
+    REQ -->|"search_id"| MR["request_merchandising_rule<br/>rule: promo-summer-2026"]
+    REQ -->|"search_id"| HS["request_hybrid_search<br/>model: openai:text-embedding<br/>-3-small<br/>ratio: 0.5"]
+    REQ -->|"search_id"| DPS["request_dp_shipping<br/>shipping: pickup"]
 ```
 
 ## Search data characteristics
 
-|  **Characteristic** | **Description** |
-| :---------------:   | :-------------: |
+|  Characteristic | Description |
+| ---------------   | ------------- |
 |       **Data source**       | Obtained from Intelligent Search API requests and responses and Activity Flow events. |
 |       **Availability**      |                  This metric is only available through Data Pipeline.                 |
 |         **History**         |                         Historical data starts in August 2025.                        |
@@ -164,8 +168,8 @@ Stores core information about buyer search queries, including the search text, f
 
 The table fields are described below:
 
-| **Column name**  | **Column type** | **Column description** |
-| :-----------:    | :-------------: | :------------: |
+| Column name  | Column type | Column description |
+| -----------    | ------------- | ------------ |
 |  search_id   |  string     |  Search UUID. Unique identifier for each search request used to join with response tables and other search-related tables.   |
 |  account_name  |  string     |  Name of the account where the search was completed. Identifies the store associated with the search. |
 |  event_time  |    timestamp    | Search event timestamp. Indicates when the search request was received and processed by the search API.  |
@@ -192,8 +196,8 @@ Table that stores search response information. Contains metadata about the searc
 
 The table fields are described below:
 
-| **Column name** | **Column type** | **Column description** |
-| :--------: | :-------------: | :----------: |
+| Column name | Column type | Column description |
+| -------- | ------------- | ---------- |
 |  search_id  | string     |  Search UUID. Unique identifier linking this response to the corresponding search request.   |
 | account_name |  string  | Name of the account where the search was completed. Identifies the store associated with the search.  |
 | event_time |    timestamp    | Search event timestamp. Indicates when the search request was received and processed by the search API. |
@@ -216,8 +220,8 @@ Table that contains the products returned in the search response. It stores deta
 
 The table fields are described below:
 
-| **Column name** | **Column type** | **Column description** |
-| :---------: | :-------------: | :--------------: |
+| Column name | Column type | Column description |
+| --------- | ------------- | -------------- |
 | search_id | string| Search UUID. Unique identifier linking this product result to the corresponding search request and response. |
 | account_name  | string |  Name of the account where the search was completed. Identifies the store associated with the search.  |
 | local_index  |  bigint  |  Product index relative to the current page. The position of the product within the current search results page (0-based index).  |
@@ -238,8 +242,8 @@ Table containing search result clicks. Stores information about buyers clicking 
 
 The table fields are described below:
 
-|  **Column name** | **Column type** |  **Column description** |
-| :------------: | :-------------: | :-----------------: |
+|  Column name | Column type |  Column description |
+| ------------ | ------------- | ----------------- |
 | click_id  | string | Unique identifier for the click event. UUID that uniquely identifies each search result click.  |
 | search_id  | string  |  Search UUID that generated the results. Links the click to the corresponding search request. |
 |session_id  | string  | Unique session ID from Activity Flow. Links the click to the user's browsing session.  |
@@ -272,8 +276,8 @@ Table containing impressions of search results. Stores information about when se
 
 The table fields are described below:
 
-|  **Column name** | **Column type** |  **Column description**  |
-| :-----: | :-------------: | :----------: |
+|  Column name | Column type |  Column description  |
+| ----- | ------------- | ---------- |
 | impression_id  |      string     |  Unique identifier for the impression event. UUID that uniquely identifies each search result impression.     |
 | search_id  |      string     |  UUID of the search that generated the results. Links the impression to the corresponding search request.     |
 | session_id  |      string  | Unique session ID from Activity Flow. Links the impression to the user's browsing session. |
@@ -302,8 +306,8 @@ Table that assigns clicks to impressions. Establishes the relationship between i
 
 The table fields are described below:
 
-| **Column name** | **Type** | **Description** |
-|:--|:--|:--|
+| Column name | Type | Description |
+|--|--|--|
 | account_name | string | VTEX account of the store. |
 | impression_id | string | Unique identifier for the impression event. Links to the impression table. |
 | click_id | string | Unique identifier for the click event. Links to the click table. |
@@ -317,8 +321,8 @@ Table that assigns order groups to impressions. Establishes the relationship bet
 
 The table fields are described below:
 
-| **Column name** | **Type** | **Description** |
-|:--|:--|:--|
+| Column name | Type | Description |
+|--|--|--|
 | impression_id | string | Unique identifier for the impression event. Links to the impression table. |
 | account_name | string | VTEX account of the store. Order groups are unique to the account_name, not globally. |
 | order_group | string | Links the impression to a specific order transaction, enabling analysis of the customer journey from search to purchase. |
@@ -336,8 +340,8 @@ Table in the search layer containing queries deduplicated by session*, intended 
 
 The table fields are described below:
 
-| **Column name** | **Column type** | **Column description** |
-|:---:|:---:|:---:|
+| Column name | Column type | Column description |
+|---|---|---|
 | session_id | string | Unique session identifier from Activity Flow. Indicates the browsing session in which the query first appeared. |
 | query | string | Query text as returned in the search response. Together with `session_id` and `element_source`, uniquely identifies a row in this table. |
 | account_name | string | VTEX account where the search occurred, from the search response. |
@@ -363,8 +367,8 @@ This table supports the Unique Clicks, it counts how many distinct search instan
 
 The table fields are described below:
 
-| **Column name** | **Column type** | **Column description** |
-|:---:|:---:|:---:|
+| Column name | Column type | Column description |
+|---|---|---|
 | session_id | string | Unique session identifier from Activity Flow. Indicates the session in which the query first appeared in a click context. |
 | query | string | Query text as returned in the search response. Together with `session_id` and `element_source`, uniquely identifies a row and pairs with the same grain as `session_query` for metrics such as CTR. |
 | account_name | string | VTEX account where the search occurred, from the search response. |
@@ -396,8 +400,8 @@ Table containing the list of active sellers in the session where the search occu
 
 The table fields are described below:
 
-| **Column name** | **Type** | **Description** |
-|:--|:--|:--|
+| Column name | Type | Description |
+|--|--|--|
 | search_id | string | Unique identifier linking this seller to the corresponding search request. |
 | account_name | string | Name of the account where the search was completed. |
 | seller_id | string | ID of the seller active in the session during the search. Used for regionalization analysis. |
@@ -411,8 +415,8 @@ Table containing the list of merchandising rules considered in the search reques
 
 The table fields are described below:
 
-| **Column name** | **Type** | **Description** |
-|:--|:--|:--|
+| Column name | Type | Description |
+|--|--|--|
 | search_id | string | Unique identifier linking this merchandising rule to the corresponding search request. |
 | account_name | string | Name of the account where the search was completed. |
 | merchandising_rule_id | string | Unique identifier of the merchandising rule applied to this search. |
@@ -426,8 +430,8 @@ Table containing information about "get by ID" queries. These are queries like `
 
 The table fields are described below:
 
-| **Column name** | **Type** | **Description** |
-|:--|:--|:--|
+| Column name | Type | Description |
+|--|--|--|
 | search_id | string | Unique identifier linking this field query to the corresponding search request. |
 | account_name | string | Name of the account where the search was completed. |
 | field | string | Product field used in the query (e.g. `product`, `sku`). |
@@ -442,8 +446,8 @@ Table containing information about text filters applied to facets instead of tex
 
 The table fields are described below:
 
-| **Column name** | **Type** | **Description** |
-|:--|:--|:--|
+| Column name | Type | Description |
+|--|--|--|
 | search_id | string | Unique identifier linking this text filter to the corresponding search request. |
 | account_name | string | Name of the account where the search was completed. |
 | key | string | Name of the product attribute that was filtered (e.g. `brand`, `category`, `color`). |
@@ -458,8 +462,8 @@ Table containing information about numeric filters applied to facets instead of 
 
 The table fields are described below:
 
-| **Column name** | **Type** | **Description** |
-|:--|:--|:--|
+| Column name | Type | Description |
+|--|--|--|
 | search_id | string | Unique identifier linking this numeric filter to the corresponding search request. |
 | account_name | string | Name of the account where the search was completed. |
 | key | string | Name of the numeric attribute that was filtered (e.g. `price`, `rating`, `weight`). |
@@ -475,8 +479,8 @@ Table containing information about relevance rules applied to search requests. R
 
 The table fields are described below:
 
-| **Column name** | **Type** | **Description** |
-|:--|:--|:--|
+| Column name | Type | Description |
+|--|--|--|
 | search_id | string | Unique identifier linking this relevance rule to the corresponding search request. |
 | account_name | string | Name of the account where the search was completed. |
 | type | string | Type of relevance rule or boost applied (e.g. `click`, `newness`, `revenue`). |
@@ -493,8 +497,8 @@ Table containing details about hybrid search for queries that use that feature. 
 
 The table fields are described below:
 
-| **Column name** | **Type** | **Description** |
-|:--|:--|:--|
+| Column name | Type | Description |
+|--|--|--|
 | search_id | string | Unique identifier linking this hybrid search configuration to the corresponding search request. |
 | account_name | string | Name of the account where the search was completed. |
 | model | string | Identifier of the ML model used to generate embeddings for semantic search (e.g. `openai:text-embedding-3-small:1024`). |
@@ -513,8 +517,8 @@ Table containing details about the search engine settings for each search reques
 
 The table fields are described below:
 
-| **Column name** | **Type** | **Description** |
-|:--|:--|:--|
+| Column name | Type | Description |
+|--|--|--|
 | search_id | string | Unique identifier linking these settings to the corresponding search request. |
 | account_name | string | Name of the account where the search was completed. |
 | elasticsearch_cluster | string | Name of the Elasticsearch cluster used to process this search (e.g. `is-intelligent-search-v8-05`). |
@@ -535,8 +539,8 @@ Table containing delivery information from delivery promises. Stores the deliver
 
 The table fields are described below:
 
-| **Column name** | **Type** | **Description** |
-|:--|:--|:--|
+| Column name | Type | Description |
+|--|--|--|
 | search_id | string | Unique identifier linking this delivery filter to the corresponding search request. |
 | account_name | string | Name of the account where the search was completed. |
 | shipping | string | Delivery method selected as a filter (e.g. `pickup-in-point`, `delivery`). |
@@ -550,8 +554,8 @@ Table containing dynamic estimate information from the delivery promise. Stores 
 
 The table fields are described below:
 
-| **Column name** | **Type** | **Description** |
-|:--|:--|:--|
+| Column name | Type | Description |
+|--|--|--|
 | search_id | string | Unique identifier linking this dynamic estimate filter to the corresponding search request. |
 | account_name | string | Name of the account where the search was completed. |
 | dynamic_estimate | string | Delivery time estimate selected as a filter (e.g. `same-day`, `next-day`). |
@@ -565,8 +569,8 @@ Table containing information about delivery options originating from delivery pr
 
 The table fields are described below:
 
-| **Column name** | **Type** | **Description** |
-|:--|:--|:--|
+| Column name | Type | Description |
+|--|--|--|
 | search_id | string | Unique identifier linking this delivery option filter to the corresponding search request. |
 | account_name | string | Name of the account where the search was completed. |
 | delivery_options | string | Hash of the JSON object describing the selected delivery option filter. Actual values are not currently available. |
@@ -591,8 +595,8 @@ Some of the analyses that you can run using the search tables are listed below:
 
 ## Correlations with other data
 
-| **Dataset** | **Description** |
-|:--|:--|
+| Dataset | Description |
+|--|--|
 | Navigation | Correlating search queries with navigation paths helps understand how users discover products, optimizing both search and navigation experiences. |
 | Orders | Linking impressions and clicks to order data enables search-to-purchase conversion analysis, identifying queries, positions, or filters that drive the highest conversion rates. |
 | Catalog | Joining search results with catalog data allows analysis of product discovery, attribute influence on ranking, and identification of underranked products. |

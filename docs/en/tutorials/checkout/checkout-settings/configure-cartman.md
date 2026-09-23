@@ -21,7 +21,7 @@ Cartman is a tool created to assist the merchant in the analysis of possible sce
 - `{accountname}.vtexcommercebeta.com`
 - `{accountname}.vtexcommercestable.com`
 
-For official store domains (`www.{yourstore}.com`), you need to [manually activate Cartman](configure-cartman#activate-cartman-manually).
+For official store domains (`www.{yourstore}.com`), you need to [manually activate Cartman](#activate-cartman-manually).
 
 This article will cover the following topics:
 

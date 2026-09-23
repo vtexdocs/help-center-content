@@ -3,7 +3,7 @@ title: 'Products Add-on'
 id: 1t2QBZvrOBSLgvHaAV9fYm
 status: PUBLISHED
 createdAt: 2024-02-20T20:29:42.983Z
-updatedAt: 2025-05-13T20:19:47.676Z
+updatedAt: 2026-08-13T00:00:00.000Z
 publishedAt: 2025-05-13T20:19:47.676Z
 firstPublishedAt: 2024-02-22T14:09:28.506Z
 contentType: trackArticle
@@ -12,7 +12,7 @@ slugEN: add-on-products
 locale: es
 trackId: 3J7WFZyvTcoiwkcIVFVhIS
 trackSlugEN: proximos-pasos-tras-el-go-live
-order: 4
+order: 5
 ---
 
 Los productos add-on son soluciones que VTEX ofrece para satisfacer demandas específicas de los negocios y que pueden adquirirse por separado mediante un contrato de suscripción.
@@ -30,22 +30,20 @@ VTEX Live Shopping permite crear transmisiones online para hacer demostraciones 
 
 ![live-shopping-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/guía-de-onboarding/proximos-pasos-tras-el-go-live/products-add-on_2.JPG)
 
-Para programar una demostración de la aplicación con un especialista, debes acceder a la página de [VTEX Live Shopping](https://vtex.com/es-es/live-shopping/#contact).
-
 ## VTEX Personal Shopper
 
 VTEX Personal Shopper permite ofrecer un servicio personalizado directo entre el cliente y el vendedor para incorporar la experiencia de la tienda física al entorno digital. Con esta aplicación el vendedor puede hacer demostraciones de productos, dar recomendaciones y aclarar las dudas de los clientes. Durante la videollamada se pueden agregar ítems al carrito.
 
 ![personal-shopper-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/guía-de-onboarding/proximos-pasos-tras-el-go-live/products-add-on_3.JPG)
 
-Para programar una demostración de la aplicación con un especialista, debes acceder a la página de [VTEX Personal Shopper](https://vtex.com/mx-es/vtex-personal-shopper/).
+Para programar una demostración de la aplicación con un especialista, debes acceder a la página de [VTEX Personal Shopper](/es/docs/tutorials/personal-shopper-vision-general).
 
 ## VTEX Pick and Pack
 VTEX Pick and Pack es una solución de gestión del proceso de fulfillment que proporciona visibilidad completa, desde el alistamiento y empaque de productos en las tiendas físicas o almacenes hasta la entrega en puntos de recogida o domicilio.
 
 La solución se compone de:
 
-- [Aplicación Pick and Pack](/es/docs/tutorials/vtex-pick-and-pack-fulfillment): gestiona pedidos en la tienda o almacén, permitiendo personalizar el método de alistamiento de pedidos, seleccionar tipo de empaque por producto y remover o agregar productos según el stock de la tienda.
+- [Pick and Pack app](https://help.vtex.com/es/docs/tutorials/vtex-pick-and-pack): gestiona pedidos en la tienda o almacén, permitiendo personalizar el método de alistamiento de pedidos, seleccionar tipo de empaque por producto y remover o agregar productos según el stock de la tienda.
 
 - [Aplicación Last Mile](/es/docs/tutorials/vtex-pick-and-pack-last-mile): coordina el envío de paquetes desde los almacenes o tiendas a las direcciones de los clientes mediante la creación de rutas inteligentes de entrega, selección de conductores disponibles y seguimiento de la ubicación exacta del pedido.
 
@@ -66,8 +64,6 @@ Con [VTEX Sales App](/es/docs/tracks/vtex-sales-app-configuracion-basica) los ve
 
 ![sales-app-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/guía-de-onboarding/proximos-pasos-tras-el-go-live/products-add-on_5.png)
 
-Para ver una demostración de la aplicación o programar una sesión personalizada con un especialista, debes acceder a la página de [VTEX Sales App](https://assets.vtex.com/es-sales-app/).
-
 ## VTEX Shipping Network
 
 Explora las opciones de envío de productos a todas las regiones de Brasil con [VTEX Shipping Network](/es/docs/tutorials/listos-para-despacho) y **VTEX Shipping Network Correios**.
@@ -76,7 +72,7 @@ Explora las opciones de envío de productos a todas las regiones de Brasil con [
 
 ![shipping-network-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/guía-de-onboarding/proximos-pasos-tras-el-go-live/products-add-on_6.png)
 
-Para más información, debes acceder a la página de VTEX Shipping Network.
+Para más información, debes acceder a la página de [VTEX Shipping Network](/es/docs/tutorials/listos-para-despacho).
 
 > ⚠️ Las soluciones **VTEX Shipping Network** y **VTEX Shipping Network Correios** son exclusivas para las operaciones en Brasil.
 
@@ -96,11 +92,11 @@ Contratar la solución es simple y solo toma unos pocos minutos: basta con acept
 
 - Canal de comunicación directa con Correios dentro del Admin a través de [Pedido de informações](/es/docs/tutorials/progreso-de-las-entregas-vtex-shipping-network#solicitar-informacoes-do-pedido-aos-correios).
 
-Para más información, debes acceder a la página de [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/).
+Para más información, debes acceder a la página de [VTEX Shipping Network Correios](/es/docs/tutorials/vtex-shipping-network-correios-faq).
 
 ## VTEX Shield
 
-[VTEX Shield](/es/docs/tutorials/vtex-shield) ofrece capas de protección adicionales y personalizables para tiendas que priorizan la resiliencia de la plataforma, además de los estándares de seguridad garantizados por las certificaciones y [prácticas de seguridad](https://vtex.com/mx-es/security/security-practices/) existentes en VTEX.
+[VTEX Shield](/es/docs/tutorials/vtex-shield) ofrece capas de protección adicionales y personalizables para tiendas que priorizan la resiliencia de la plataforma, además de los estándares de seguridad garantizados por las [certificaciones y prácticas de seguridad](https://compliance.vtex.com/) existentes en VTEX.
 
 Al contratar VTEX Shield tienes la opción de elegir entre las siguientes funcionalidades:
 

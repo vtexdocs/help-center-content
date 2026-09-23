@@ -1,5 +1,5 @@
 ---
-title: 'Store Settings - Overview'
+title: 'Store Settings'
 id: 6VtlMoid6iM9dP14X1CopT
 status: PUBLISHED
 createdAt: 2023-03-29T23:00:51.439Z
@@ -77,6 +77,6 @@ The Intelligent Search section is where you define general settings for intellig
 - [Synonyms](/en/docs/tutorials/creating-synonyms)
 - [Indexing Status](/en/docs/tutorials/indexing-history)
 - [Relevance Rules](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3nVgV8UuUJYXwV0o2tgZ9g)
-- [Analytics](/en/docs/tutorials/analytics)
+- [Analytics](/en/docs/tutorials/intelligent-search-analytics)
 - [Redirects](/en/docs/tutorials/configuring-redirects)
 

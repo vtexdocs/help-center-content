@@ -74,7 +74,7 @@ Una vez que el proceso de catalogación es finalizado en Netshoes, la integraci�
 
 Una vez que los productos reciben la primera carga de inventario, la actualización se realiza SKU por SKU cada vez que se produce algún cambio de stock en VTEX.
 
-> ⚠️ **Nota:** los datos de inventario enviados a Netshoes quedan registrados en nuestro sistema por sólo **3 meses**.
+> ⚠️ **Nota:**los datos de inventario enviados a Netshoes quedan registrados en nuestro sistema por sólo** 3 meses**.
 
 ## 3 - Precios
 

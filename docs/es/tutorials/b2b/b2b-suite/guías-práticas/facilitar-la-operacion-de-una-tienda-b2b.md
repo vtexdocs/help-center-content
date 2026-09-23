@@ -26,8 +26,8 @@ Puede facilitar la operación de su tienda a través de aplicaciones que se pued
 |-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Quickorder](https://github.com/vtex-apps/quickorder)              | Permite que el administrador de la tienda realice compras masivas por medio de plantillas.                                                                                |
 | [Order Quote](https://github.com/vtex-apps/order-quote)             | Hace posible que el cliente guarde la información de un carrito de compras específico (SKUs, cantidad y precio de cada ítem) durante un determinado periodo de tiempo.                                                                                                                                                                                                  |
-| [Order Configuration](https://vtex.io/docs/components/content-blocks/vtex.order-configuration@3.1.0/readme/)     | Personalización de compras en el escenario B2B, como para reventas y consumo propio del cliente.                                                                                                                                              |
-| [VTEX Intelligent Search](https://developers.vtex.com/vtex-developer-docs/docs/vtex-search) | Habilita búsquedas de productos (solo está disponible para tiendas desarrolladas con VTEX IO).                                                                                                                                                          |
+| [Order Configuration](https://developers.vtex.com/docs/apps/vtex.order-configuration)     | Personalización de compras en el escenario B2B, como para reventas y consumo propio del cliente.                                                                                                                                              |
+| [VTEX Intelligent Search](https://developers.vtex.com/docs/guides/search-overview) | Habilita búsquedas de productos (solo está disponible para tiendas desarrolladas con VTEX IO).                                                                                                                                                          |
 | [Telemarketing](https://github.com/vtex-apps/telemarketing)           | Añade un componente en el *storefront* de su tienda que permite que un agente de servicio al cliente represente a un consumidor y realice compras en su nombre. |
 | [Product Comparison](https://github.com/vtex-apps/product-comparison)      | Hace posible que el cliente compare las especificaciones de cuatro SKUs a la vez antes de finalizar una compra, facilitando un análisis más detallado de los productos.                                                                                                               |
 
@@ -93,7 +93,7 @@ VTEX cuenta con [My account](/es/docs/tutorials/como-funciona-mi-cuenta), una he
 
 Esta herramienta permite al consumidor seguir el status de su pedido en el flujo de posventa, así como realizar algunas operaciones. Entre estas, «Pedir nuevamente» para volver a realizar un pedido que se efectuó anteriormente.  
 
-![reorder ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/guías-práticas/facilitar-la-operacion-de-una-tienda-b2b_1.png)
+![reorder ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/b2b-suite/guías-práticas/facilitar-la-operacion-de-una-tienda-b2b_1.png)
 
 Para saber más detalles de My Account, lea el tutorial sobre [cómo configurar esta funcionalidad](/es/docs/tutorials/configuracion-de-my-account).
 

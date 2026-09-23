@@ -7,3 +7,4 @@ file-migration-plan.md
 local_playground/
 temp/
 public/navigation.json
+.claude/settings.json
