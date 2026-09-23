@@ -1,7 +1,7 @@
 ---
 title: 'Monitorar o consumo de orçamento'
-createdAt: '2026-06-22T00:00:00.000Z'
-updatedAt: '2026-06-22T00:00:00.000Z'
+createdAt: '2026-09-23T00:00:00.000Z'
+updatedAt: '2026-09-23T00:00:00.000Z'
 contentType: tutorial
 productTeam: Others
 slugEN: monitor-budget-consumption
@@ -10,7 +10,7 @@ locale: pt
 
 Este artigo explica como acessar e interpretar o **relatório de consumo de orçamento** de campanhas com Budget Pacing no VTEX Ads. O relatório permite que operadores de mídia e gerentes de conta acompanhem o ritmo de entrega da campanha e identifiquem rapidamente desvios de consumo.
 
-> ⚠️ O relatório de consumo de orçamento está disponível apenas para campanhas de publicadores com Budget Pacing ativo. Para entender como o mecanismo funciona, veja [Budget Pacing](https://help.vtex.com/pt/docs/tutorials/budget-pacing-pt).
+> ⚠️ O relatório de consumo de orçamento está disponível apenas para campanhas de publishers com Budget Pacing ativo. Para entender como o mecanismo funciona, veja [Budget Pacing](https://help.vtex.com/pt/docs/tutorials/budget-pacing-pt).
 
 ## Acessar o relatório
 
@@ -79,7 +79,7 @@ Quando o status é **critical underpacing**, o motor já está tentando recupera
 
 - **Segmentação muito restrita:** poucos produtos ou categorias elegíveis para exibição.
 - **CPM abaixo do valor competitivo:** a campanha pode estar perdendo leilões por lance insuficiente.
-- **Baixo inventário no publicador:** o publicador pode não ter volume de tráfego suficiente para o período.
+- **Baixo inventário no publisher:** o publisher pode não ter volume de tráfego suficiente para o período.
 
 > ⚠️ Evite fazer ajustes manuais no valor de alocação enquanto investiga o problema. Uma intervenção manual durante o ciclo reinicia o cálculo do motor e pode dificultar o diagnóstico.
 

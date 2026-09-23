@@ -1,14 +1,14 @@
 ---
 title: 'Budget Pacing'
-createdAt: '2026-06-22T00:00:00.000Z'
-updatedAt: '2026-06-22T00:00:00.000Z'
+createdAt: '2026-09-23T00:00:00.000Z'
+updatedAt: '2026-09-23T00:00:00.000Z'
 contentType: tutorial
 productTeam: Others
 slugEN: budget-pacing
 locale: pt
 ---
 
-> ⚠️ O Budget Pacing está disponível somente para publicadores habilitados pela equipe VTEX. Para solicitar a ativação, entre em contato com o time de operações de anúncios (AdOps) da VTEX.
+> ⚠️ O Budget Pacing está em disponibilidade geral (GA) e é ativado por publisher. Para solicitar a ativação, entre em contato com o time de operações de anúncios da VTEX.
 
 **Budget Pacing** é o mecanismo do [VTEX Ads](https://help.vtex.com/pt/tracks/retail-media/vtex-ads-primeiros-passos) que redistribui automaticamente o consumo de orçamento de uma campanha ao longo de um ciclo. Em vez de exigir um valor fixo de gasto a cada dia, o VTEX Ads monitora o ritmo de consumo e ajusta o teto diário para garantir que o orçamento total do ciclo seja entregue.
 
@@ -51,7 +51,7 @@ O comportamento do Budget Pacing varia conforme o tipo de campanha:
 
 ### Campanhas já ativas
 
-O Budget Pacing é aplicado somente às campanhas elegíveis a partir da data de ativação para o publicador. Campanhas com data de término que estejam ativas antes da habilitação seguem no modelo de orçamento diário fixo até o encerramento. **Campanhas always-on** já ativas migram automaticamente no início do próximo ciclo de 30 dias.
+O Budget Pacing é aplicado somente às campanhas elegíveis a partir da data de ativação para o publisher. Campanhas com data de término que estejam ativas antes da habilitação seguem no modelo de orçamento diário fixo até o encerramento. **Campanhas always-on** já ativas migram automaticamente no início do próximo ciclo de 30 dias.
 
 ## Status de pacing
 

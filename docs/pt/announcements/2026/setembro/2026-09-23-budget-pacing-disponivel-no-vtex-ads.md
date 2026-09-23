@@ -1,10 +1,10 @@
 ---
 title: 'Budget Pacing disponível no VTEX Ads'
-createdAt: '2026-06-22T00:00:00.000Z'
-updatedAt: '2026-06-22T00:00:00.000Z'
+createdAt: '2026-09-23T00:00:00.000Z'
+updatedAt: '2026-09-23T00:00:00.000Z'
 contentType: updates
 productTeam: Others
-slugEN: 2026-06-22-budget-pacing-now-available-in-vtex-ads
+slugEN: 2026-09-23-budget-pacing-now-available-in-vtex-ads
 locale: pt
 announcementSynopsisPT: 'O Budget Pacing permite que campanhas do VTEX Ads redistribuam o orçamento automaticamente ao longo do ciclo, eliminando a necessidade de ajustes manuais diários de orçamento.'
 tags:
@@ -12,7 +12,7 @@ tags:
   - VTEX Ads
 ---
 
-O **Budget Pacing** está disponível em open beta no **VTEX Ads.** Com essa funcionalidade, o sistema redistribui automaticamente o orçamento de uma campanha ao longo do ciclo, garantindo a entrega do investimento total sem a necessidade de ajustes manuais diários.
+O **VTEX Ads** está disponibilizando **Budget Pacing.** Com essa funcionalidade, o sistema redistribui automaticamente o orçamento de uma campanha ao longo do ciclo, garantindo a entrega do investimento total sem a necessidade de ajustes manuais diários.
 
 ## O que mudou?
 
@@ -34,9 +34,9 @@ Antes, campanhas atreladas a Pedidos de Inserção mensais ficavam sujeitas a du
 
 ## O que precisa ser feito?
 
-O Budget Pacing é ativado pela equipe interna da VTEX por publicador. Para solicitar a ativação, entre em contato com o time de operações de anúncios (AdOps) da VTEX.
+O Budget Pacing é ativado pela equipe interna da VTEX por publisher. Para solicitar a ativação, entre em contato com o time de operações de anúncios da VTEX.
 
-Após a ativação, todas as novas campanhas do publicador operarão automaticamente com Budget Pacing. Campanhas com data de término já ativas permanecem no modelo de orçamento diário fixo até o encerramento. Campanhas always-on já ativas migram automaticamente no início do próximo ciclo de 30 dias.
+Após a ativação, todas as novas campanhas do publisher operarão automaticamente com Budget Pacing. Campanhas com data de término já ativas permanecem no modelo de orçamento diário fixo até o encerramento. Campanhas always-on já ativas migram automaticamente no início do próximo ciclo de 30 dias.
 
 Para entender em detalhes como o mecanismo funciona, acesse o tutorial [Budget Pacing](https://help.vtex.com/pt/docs/tutorials/budget-pacing-pt).
 
