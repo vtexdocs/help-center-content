@@ -1,8 +1,8 @@
 ---
 title: 'Requisitos técnicos para usar o VTEX Sales App'
 status: PUBLISHED
-createdAt: 2026-09-15T00:00:00.000Z
-updatedAt: 2026-09-15T00:00:00.000Z
+createdAt: 2026-09-23T00:00:00.000Z
+updatedAt: 2026-09-23T00:00:00.000Z
 contentType: trackArticle
 productTeam: Shopping
 slugEN: technical-requirements-for-using-the-vtex-sales-app
