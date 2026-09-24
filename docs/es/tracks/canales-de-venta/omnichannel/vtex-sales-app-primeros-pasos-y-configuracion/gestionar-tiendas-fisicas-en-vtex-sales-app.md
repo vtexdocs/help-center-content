@@ -3,7 +3,7 @@ title: 'Gestionar tiendas físicas en VTEX Sales App'
 id: 5PSjRstg7UU4lOm0s8aqKN
 status: PUBLISHED
 createdAt: 2020-06-29T13:30:51.354Z
-updatedAt: 2026-07-07T18:59:24.074Z
+updatedAt: 2026-09-24T18:59:24.074Z
 publishedAt: 2023-07-26T18:59:24.074Z
 firstPublishedAt: 2020-06-29T14:22:11.121Z
 contentType: trackArticle
@@ -74,6 +74,8 @@ Puedes crear una tienda física siguiendo los pasos a continuación:
 * **Cuenta de franquicia:** nombre de la [cuenta franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia) en la que se debe registrar la tienda física.
 * **Política comercial:** [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) que será aplicada na loja física. Campo obrigatório.
 * **Punto de recogida:** [punto de recogida](/es/docs/tutorials/puntos-de-recogida) registrado para esta tienda física, donde los clientes recogen sus pedidos.
+
+> ⚠️ Los campos **Cuenta de franquicia** y **Punto de recogida** solo deben completarse si la tienda desea usar la [Venta de inventario local](/es/docs/tutorials/habilitar-venta-de-inventario-local-en-vtex-sales-app) (on hands). Completar estos campos sin la configuración adecuada de la Venta de inventario local puede causar la indisponibilidad de ítems en la página de producto (PDP) y en la página de listado (PLP).
 
 > ℹ️ Los cambios pueden tardar hasta 15 minutos en procesarse y aplicarse en inStore.
 
