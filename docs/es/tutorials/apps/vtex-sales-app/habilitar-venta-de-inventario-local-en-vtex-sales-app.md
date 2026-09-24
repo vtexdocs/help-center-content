@@ -75,7 +75,7 @@ Para hacerlo, crea o edita un [registro de tienda física](https://help.vtex.com
 
 Después de conectar la cuenta franquicia a la tienda física, elige un vendedor registrado en la tienda en la que quieres probar la Venta de inventario local y sigue los pasos que se indican a continuación.
 
-1. Tras [seleccionar un vendedor](/es/tutorial/vendedores-instore-beta--4rzit1pzp28km4HSDEdrEC), accede a Sales App e inicia sesión.
+1. Tras [seleccionar un vendedor](https://help.vtex.com/es/docs/tracks/gestionar-vendedores-en-vtex-sales-app), accede a Sales App e inicia sesión.
 2. Busca un ítem que exista en el almacén de la cuenta franquicia registrada. Este ítem debe mostrar la cantidad disponible correspondiente en el stock del seller.
 
 ![instore-pdp-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apps/vtex-sales-app/habilitar-venta-de-inventario-local-en-vtex-sales-app_1.png)
