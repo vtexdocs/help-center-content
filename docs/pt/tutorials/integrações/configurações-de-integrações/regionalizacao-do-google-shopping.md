@@ -58,7 +58,7 @@ Na página **Configurar regiões**, é possível testar a disponibilidade de um 
 2. Na barra de busca acima da tabela de dados busque e selecione um produto do catálogo da sua loja.
 3. Aguarde a coluna **Disponibilidade** ser recarregada.
 
-Na coluna **Disponibilidade será mostrado o status de Disponível <i class="far fa-check-circle" aria-hidden="true"></i> ou Indisponível <> em cada região ativa. Para ver o resultado de uma zona específica, use o filtro País e a busca por nome ou CEP.
+Na coluna **Disponibilidade** será mostrado o status de Disponível <i class="far fa-check-circle" aria-hidden="true"></i> ou Indisponível <> em cada região ativa. Para ver o resultado de uma zona específica, use o filtro País e a busca por nome ou CEP.
 
 ![Configurar regiões com Ativar regiões](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/regionalizacao-do-google-shopping_3.png)
 
