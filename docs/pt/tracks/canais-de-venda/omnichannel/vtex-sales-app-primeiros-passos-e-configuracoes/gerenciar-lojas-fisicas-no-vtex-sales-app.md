@@ -43,12 +43,11 @@ A página apresenta as seguintes informações:
 
 Você pode cadastrar uma loja física seguindo os passos a seguir:
 
-1. No Admin VTEX, clique em .
-2. No Admin VTEX, acesse **Configurações da loja > Sales App > Lojas físicas**, ou digite **Lojas físicas** na barra de busca no topo da página.
-3. Clique no botão `+ Cadastrar loja`.
-4. Preencha os [campos de cadastro da loja física](#campos-de-cadastro-da-loja-fisica).
-5. Clique em `Cadastrar`.
-6. Clique em `Salvar` para confirmar o cadastro da loja física.  
+1. No Admin VTEX, acesse **Configurações da loja > Sales App > Lojas físicas**, ou digite **Lojas físicas** na barra de busca no topo da página.
+2. Clique no botão `+ Cadastrar loja`.
+3. Preencha os [campos de cadastro da loja física](#campos-de-cadastro-da-loja-fisica).
+4. Clique em `Cadastrar`.
+5. Clique em `Salvar` para confirmar o cadastro da loja física.  
 
 ### Campos de cadastro da loja física
 
