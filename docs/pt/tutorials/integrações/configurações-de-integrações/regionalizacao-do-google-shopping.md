@@ -15,7 +15,7 @@ Para usar a regionalização, a [integração com o Google Shopping](/pt/docs/tr
 
 ![Preferências do Google Shopping](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/regionalizacao-do-google-shopping_1.png)
 
-Para enviar perço, disponibilidade, frete e SLA regionalizados é necessário configurar e ativar a funcionalidade a seguinte ordem:
+Para enviar preço, disponibilidade, frete e SLA regionalizados, é necessário configurar e ativar a funcionalidade na seguinte ordem:
 
 1. [Cadastrar zonas de envio na Plítica de envio.](/pt/docs/tutorials/politica-de-envio)
 2. [Ativar regiões na integração do Google Shopping](#ativar-regioes)
