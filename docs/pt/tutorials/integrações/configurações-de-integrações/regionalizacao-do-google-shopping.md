@@ -80,7 +80,7 @@ O [**RAAP (Regional Availability & Pricing)**](https://support.google.com/mercha
 
 > ⚠️ Ativar o RAAP sem variação real de preço ou estoque por região pode causar inconsistências no catálogo enviado ao Google.
 
-Para ativavr o RAAP, siga os passos abaixo:
+Para ativar o RAAP, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Marketplace > Conexões > Google > Preferências**.
 2. Na seção **RAAP**, clique no botão<i class="fas fa-toggle-on" aria-hidden="true"></i>.
