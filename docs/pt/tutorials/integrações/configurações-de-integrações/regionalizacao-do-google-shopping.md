@@ -10,7 +10,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 hidden: false
 ---
 
-A regionalização do Google Shopping define quais regiões da logística da loja a integração envia ao Google. Com essas regiões, é possível utilizar duas funcionalidades para disponibilizar preço, disponibilidade, frete e SLA por região. As funcionalidades de regionalização são **Google Shipping**, que informa frete e SLA por região, e, **RAAP** (Regional Availability & Pricing), que informa preço edisponibilidade também por região. 
+A regionalização do Google Shopping define quais regiões da logística da loja a integração envia ao Google. Com essas regiões, é possível utilizar duas funcionalidades para disponibilizar preço, disponibilidade, frete e SLA por região. As funcionalidades de regionalização são **Google Shipping**, que informa frete e SLA por região, e **RAAP** (Regional Availability & Pricing), que informa preço e disponibilidade também por região. 
 Para usar a regionalização, a [integração com o Google Shopping](/pt/docs/tracks/google-shopping-marketplace) precisa estar configurada e a loja precisa ter zonas de envio cadastradas na [política de envio](/pt/docs/tutorials/politica-de-envio), pois a página **Configurar regiões** apenas sincroniza essas zonas. 
 
 ![Preferências do Google Shopping](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/regionalizacao-do-google-shopping_1.png)
