@@ -54,6 +54,21 @@
                 },
                 {
                   "name": {
+                    "en": "Google Shopping regionalization now available",
+                    "es": "Regionalización de Google Shopping disponible",
+                    "pt": "Regionalização do Google Shopping disponível"
+                  },
+                  "slug": {
+                    "en": "2026-09-23-google-shopping-regionalization",
+                    "es": "2026-09-23-regionalizacion-de-google-shopping",
+                    "pt": "2026-09-23-regionalizacao-do-google-shopping"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Ship from store for marketplaces available in open beta",
                     "es": "Ship from store for marketplaces",
                     "pt": "Ship from store para marketplaces disponível em open beta"
@@ -31193,6 +31208,21 @@
                     "en": "google-integration-warnings",
                     "es": "avisos-de-integracion-de-google",
                     "pt": "avisos-de-integracao-com-o-google"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Google Shopping regionalization",
+                    "es": "Regionalización de Google Shopping",
+                    "pt": "Regionalização do Google Shopping"
+                  },
+                  "slug": {
+                    "en": "google-shopping-regionalization",
+                    "es": "regionalizacion-de-google-shopping",
+                    "pt": "regionalizacao-do-google-shopping"
                   },
                   "origin": "",
                   "type": "markdown",
