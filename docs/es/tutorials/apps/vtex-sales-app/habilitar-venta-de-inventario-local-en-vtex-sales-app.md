@@ -25,7 +25,7 @@ Venta de inventario local permite al vendedor de una tienda física realizar ven
 6. [Conectar la cuenta franquicia a la tienda física](#conectar-la-cuenta-franquicia-a-la-tienda-fisica)
 7. [Integrar el punto de ventas](#integrar-el-punto-de-ventas)
 
-> ℹ️ Venta de inventario local solo puede configurarse en tiendas que ya utilicen Sales App. Para más información sobre cómo solicitar y configurar Sales App, consulta [Sales App - Primeros pasos y configuración](/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc).
+> ℹ️ Venta de inventario local solo puede configurarse en tiendas que ya utilicen Sales App. Para más información sobre cómo solicitar y configurar Sales App, consulta [Sales App - Primeros pasos y configuración](https://help.vtex.com/es/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes).
 
 ## Crear una cuenta franquicia
 
