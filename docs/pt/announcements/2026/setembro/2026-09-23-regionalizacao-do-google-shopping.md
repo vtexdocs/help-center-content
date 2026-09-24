@@ -12,8 +12,8 @@ tags:
   - Marketplace
 ---
 
-Desenvolvemos a regionalização do Google Shopping para que os anúncios e as listagens de lojas VTEX que utilizam a integração com o Google Shopping possa enviar frete, SLA, preço e disponibilidade de acordo com a região do comprador. A funcionalidade está disponível para lojas com a [integração Google Shopping](/pt/docs/tracks/google-shopping-marketplace) configurada e com zonas de envio cadastradas na [política de envio](/pt/docs/tutorials/politica-de-envio).
-O objetivo desta funcionalida é disponibilizar uma experiência de compra mais fluída, onde o comprador consegue ter acesso ao preço, dispobilidade, tempo de entrega e frete desde o primeiro contato com o anúncio.
+Desenvolvemos a regionalização do Google Shopping para que os anúncios e as listagens de lojas VTEX que utilizam a integração com o Google Shopping possam enviar frete, SLA, preço e disponibilidade de acordo com a região do comprador. A funcionalidade está disponível para lojas com a [integração Google Shopping](/pt/docs/tracks/google-shopping-marketplace) configurada e com zonas de envio cadastradas na [política de envio](/pt/docs/tutorials/politica-de-envio).
+O objetivo desta funcionalidade é disponibilizar uma experiência de compra mais fluida, onde o comprador consegue ter acesso ao preço, disponibilidade, tempo de entrega e frete desde o primeiro contato com o anúncio.
 
 ## O que mudou?
 
@@ -26,4 +26,4 @@ Com as regiões ativas, duas opções podem ser ligadas, nesta ordem:
 
 ## O que precisa ser feito?
 
-a funcionalidade está dispon;ivels para todas as lojas VTEX com integração ativa com o Google Shopping desde 02 de outubro de 2026. Para utilizar a funcionalidade o seller precisa configurar zonas em sua [política de envio](/pt/docs/tutorials/politica-de-envio) e ativá-las na nova página. Para mais informações de como realizar acada configuração, acesse o tutorial [Regionalização do Google Shopping](/pt/docs/tutorials/regionalizacao-do-google-shopping).
+A funcionalidade está disponível para todas as lojas VTEX com integração ativa com o Google Shopping desde 02 de outubro de 2026. Para utilizar a funcionalidade, o seller precisa configurar zonas em sua [política de envio](/pt/docs/tutorials/politica-de-envio) e ativá-las na nova página. Para mais informações de como realizar cada configuração, acesse o tutorial [Regionalização do Google Shopping](/pt/docs/tutorials/regionalizacao-do-google-shopping).
