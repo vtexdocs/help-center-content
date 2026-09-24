@@ -24,6 +24,7 @@ Below is the complete list of supported languages and regions.
 You can configure locales using the following languages:
 
 * Bulgarian (bg)
+* Chinese (zh)
 * Croatian (hr)
 * Czech (cs)
 * Danish (da)
@@ -37,6 +38,8 @@ You can configure locales using the following languages:
 * Hungarian (hu)
 * Irish (ga)
 * Italian (it)
+* Japanese (ja)
+* Korean (ko)
 * Latvian (lv)
 * Lithuanian (lt)
 * Maltese (mt)
