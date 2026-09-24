@@ -76,7 +76,7 @@ Para ativar o Google Shipping, siga os passos abaixo:
 
 ## Ativar o RAAP
 
-O [**RAAP (Regional Availability & Pricing)**](https://support.google.com/merchants/answer/16782229?hl=pt-BR) envia ao Google o preço e a disponibilidade do produto por região. Com isso, os anúncios e as listagens podem mostrar  valor e estoque válidos para a região do comprador, em vez do preço e da disponibilidade padrão da conta. A integração usa as [zonas ativas](#ativar-regiões) e a variação de preço e estoque já existente na VTEX.
+O [**RAAP (Regional Availability & Pricing)**](https://support.google.com/merchants/answer/16782229?hl=pt-BR) envia ao Google o preço e a disponibilidade do produto por região. Com isso, os anúncios e as listagens podem mostrar o valor e estoque válidos para a região do comprador, em vez do preço e da disponibilidade padrão da conta. A integração usa as [zonas ativas](#ativar-regiões) e a variação de preço e estoque já existente na VTEX.
 
 > ⚠️ Ativar o RAAP sem variação real de preço ou estoque por região pode causar inconsistências no catálogo enviado ao Google.
 
