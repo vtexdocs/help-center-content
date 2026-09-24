@@ -1,7 +1,7 @@
 ---
 title: 'Eventos disponibles en Audit'
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2026-09-17T00:00:00.000Z
+updatedAt: 2026-09-22T00:00:00.000Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
@@ -418,8 +418,14 @@ En la columna **Acción**, todos los eventos de Headless CMS (Legacy) también m
 
 | Acción | Descripción | Detalles del evento |
 |---|---|---|
-| Update Seller | Edición de seller. | Seller ID. |
-| Save Seller | Creación de seller. | Seller ID. |
+| Update Seller | Edición de seller. | ID del seller. |
+| Create Seller | Creación de seller. | ID del seller. |
+| Update Commissions | Actualización de las comisiones de un seller. | ID del seller. |
+| Delete Commission | Eliminación de una comisión de seller. | ID del seller e ID de la comisión. |
+| Create Group | Creación de un grupo de sellers. | ID del grupo. |
+| Update Group | Actualización de un grupo de sellers. | ID del grupo. |
+| Delete Group | Eliminación de un grupo de sellers. | ID del grupo. |
+| Update Sales Channel Mapping | Actualización del mapeo de canales de venta de un seller. | ID del seller. |
 
 ## Site Editor
 
