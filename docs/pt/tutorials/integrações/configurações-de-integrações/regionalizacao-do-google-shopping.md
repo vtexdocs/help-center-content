@@ -55,7 +55,7 @@ Após ativar as regiões, a seção **Configurar regiões apresentará o status 
 Na página **Configurar regiões**, é possível testar a disponibilidade de um produto de acordo com as regiões ativas. Para realizar o teste, siga as seguintes instruções:
 
 1. No Admin VTEX, acesse **Marketplace > Conexões > Google > Preferências > Confiigurar regiões**.
-2. Na barra de busca acima da tabela de dados busque e selecione um produto do catálogo da sua loja.
+2. Na barra de busca acima da tabela de dados, busque e selecione um produto do catálogo da sua loja.
 3. Aguarde a coluna **Disponibilidade** ser recarregada.
 
 Na coluna **Disponibilidade** será mostrado o status de Disponível <i class="far fa-check-circle" aria-hidden="true"></i> ou Indisponível <> em cada região ativa. Para ver o resultado de uma zona específica, use o filtro País e a busca por nome ou CEP.
