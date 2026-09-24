@@ -88,7 +88,7 @@ Para ativavr o RAAP, siga os passos abaixo:
 
 ## Desativar o Google Shipping ou o RAAP
 
-Ao desativar o **Shipping** o Google deixa de receber frete e SLA por região. E ao desativar o **RAAP:** o Google deixa de receber preço e disponibilidade por região. Em ambos os casos as ofertas voltam a usar os valores padrão da conta, o que pode afetar variações regionais já indexadas.
+Ao desativar o **Shipping**, o Google deixa de receber frete e SLA por região. E ao desativar o **RAAP**, o Google deixa de receber preço e disponibilidade por região. Em ambos os casos, as ofertas voltam a usar os valores padrão da conta, o que pode afetar variações regionais já indexadas.
 
 > Caso o Google Shipping seja desativado, a funcionalidade do RAAP para de funcionar.
 
