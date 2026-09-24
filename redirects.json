@@ -2,6 +2,18 @@
   "redirects": {
     "fromCsvExport": [
       {
+        "from": "/en/tutorial/setting-up-alternative-accounts--tutorials_6229",
+        "to": "/en/tutorial/white-label-seller--5orlGHyDHGAYciQ64oEgKa"
+      },
+      {
+        "from": "/es/tutorial/configurar-cuentas-alternativas--tutorials_6229",
+        "to": "/es/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa"
+      },
+      {
+        "from": "/pt/tutorial/configurando-contas-alternativas--tutorials_6229",
+        "to": "/pt/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa"
+      },
+      {
         "from": "/faq/donde-veo-a-los-clientes-que-utilizan-recurrencia",
         "to": "/tutorial/donde-veo-a-los-clientes-que-utilizan-recurrencia"
       },
