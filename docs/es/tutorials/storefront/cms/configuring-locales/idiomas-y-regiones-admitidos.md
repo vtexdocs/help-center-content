@@ -26,6 +26,8 @@ Puedes agregar configuraciones regionales utilizando los siguientes idiomas:
 * Alemán (de)  
 * Búlgaro (bg)  
 * Checo (cs)  
+* Chino (zh)  
+* Coreano (ko)  
 * Croata (hr)  
 * Danés (da)  
 * Eslovaco (sk)  
@@ -39,6 +41,7 @@ Puedes agregar configuraciones regionales utilizando los siguientes idiomas:
 * Inglés (en)  
 * Irlandés (ga)  
 * Italiano (it)  
+* Japonés (ja)  
 * Letón (lv)  
 * Lituano (lt)  
 * Maltés (mt)  
@@ -53,21 +56,13 @@ Puedes agregar configuraciones regionales utilizando los siguientes idiomas:
 
 Puedes asociar los idiomas con las siguientes regiones al crear las configuraciones regionales:
 
-### Norteamérica
+### Asia
 
-* Canadá (CA)  
-  * Estados Unidos (US)  
-  * México (MX)
-
-### Centroamérica
-
-* Belice (BZ)  
-  * Costa Rica (CR)  
-  * El Salvador (SV)  
-  * Guatemala (GT)  
-  * Honduras (HN)  
-  * Nicaragua (NI)  
-  * Panamá (PA)
+* China (CN)  
+  * Corea del Sur (KR)  
+  * Hong Kong (HK)  
+  * Japón (JP)  
+  * Taiwán (TW)
 
 ### Caribe
 
@@ -84,6 +79,16 @@ Puedes asociar los idiomas con las siguientes regiones al crear las configuracio
   * San Vicente y las Granadinas (VC)  
   * Santa Lucía (LC)  
   * Trinidad y Tobago (TT)
+
+### Centroamérica
+
+* Belice (BZ)  
+  * Costa Rica (CR)  
+  * El Salvador (SV)  
+  * Guatemala (GT)  
+  * Honduras (HN)  
+  * Nicaragua (NI)  
+  * Panamá (PA)
 
 ### Europa
 
@@ -115,6 +120,12 @@ Puedes asociar los idiomas con las siguientes regiones al crear las configuracio
   * Reino Unido (GB)  
   * Rumania (RO)  
   * Suecia (SE)
+
+### Norteamérica
+
+* Canadá (CA)  
+  * Estados Unidos (US)  
+  * México (MX)
 
 ### Sudamérica
 
