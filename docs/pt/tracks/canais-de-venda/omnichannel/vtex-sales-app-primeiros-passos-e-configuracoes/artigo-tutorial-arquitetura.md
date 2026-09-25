@@ -38,7 +38,14 @@ Avalie se sua operação precisa de **Extensões** (como para programas de fidel
 
 ## Definir a arquitetura técnica
 
-O **Sales App** possui XXX de funcionalidades.
+A arquitetura técnica depende das estratégias que sua operação vai adotar com o **Sales App**. A tabela abaixo resume os principais requisitos de cada estratégia, detalhados nas seções a seguir.
+
+| Requisito | Prateleira Infinita | Ship from Store e carrinhos mistos | Loja física como ponto de retirada | Ferramenta Única de Venda (POS-like) |
+| --- | --- | --- | --- | --- |
+| Conta franquia | Opcional | Sim | Sim | Depende do projeto |
+| Ponto de retirada | Opcional | Sim | Sim | Depende do projeto |
+| Integração com ERP | Não | Sim | Recomendado | Sim |
+| Emissão de nota fiscal na loja (NFC-e/SAT) | Não | Sim | Não | Sim |
 
 ### Prateleira Infinita
 
