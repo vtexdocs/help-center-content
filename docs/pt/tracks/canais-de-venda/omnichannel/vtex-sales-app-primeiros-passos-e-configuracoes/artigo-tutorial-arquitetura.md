@@ -70,6 +70,18 @@ O [Ship From Store](https://help.vtex.com/pt/docs/tracks/configurar-ship-from-st
 
 > ℹ️ Para usar o **Ship from Store**, é necessário integrar o ERP para que o inventário da loja esteja sempre atualizado e a emissão de nota fiscal (NFC-e) seja permitida.
 
+### Loja física como ponto de retirada
+
+Com a [retirada em loja](https://help.vtex.com/pt/docs/tracks/configurar-lojas-fisicas-como-pontos-de-retirada), as lojas físicas funcionam como pontos de retirada. Assim, o cliente pode comprar pelo **Sales App** ou por outro canal e buscar o pedido na loja de sua preferência.
+
+- **Público alvo:** marcas com lojas físicas que querem oferecer ao cliente a opção de buscar o pedido na loja, reduzindo custos de frete e gerando mais visitas às lojas.
+- **O que decidir:** quais lojas serão pontos de retirada e se os pedidos retirados sairão do estoque da própria loja ou de outro estoque.
+
+#### Configuração da retirada em loja
+
+- **Arquitetura de conta franquia:** cada loja que funcionar como ponto de retirada precisa ser uma [conta franquia](https://help.vtex.com/pt/docs/tutorials/o-que-e-conta-franquia).
+- **Configuração logística:** na conta franquia, cadastre o ponto de retirada, associe-o a uma política de envio e conecte-o ao estoque da loja ativando a opção **Estoque inStore**.
+
 ### Ferramenta Única de Venda (POS-like)
 
 **Para quem é:** Operações que desejam substituir o PDV tradicional pelo Sales App para 100% das vendas.
