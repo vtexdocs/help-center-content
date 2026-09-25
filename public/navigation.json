@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Credit Wallet: Track the credit that offsets your Master Data charges",
+                    "es": "Cartera de Crédito: sigue el crédito que compensa tu cargo de Master Data",
+                    "pt": "Carteira de Crédito: acompanhe o crédito que abate sua cobrança de Master Data"
+                  },
+                  "slug": {
+                    "en": "2026-09-28-credit-wallet-track-the-credit-that-offsets-your-master-data-charges",
+                    "es": "2026-09-28-cartera-de-credito-sigue-el-credito-que-compensa-tu-cargo-de-master-data",
+                    "pt": "2026-09-28-carteira-de-credito-acompanhe-o-credito-que-abate-sua-cobranca-de-master-data"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Budget Pacing now available in VTEX Ads",
                     "es": "Budget Pacing disponible en VTEX Ads",
                     "pt": "Budget Pacing disponível no VTEX Ads"
@@ -16917,9 +16932,9 @@
                     "pt": "Dados cadastrais"
                   },
                   "slug": {
-                    "en": "registration-information",
-                    "es": "datos-de-registro",
-                    "pt": "dados-cadastrais"
+                    "en": "registration-information-subcategory",
+                    "es": "datos-de-registro-subcategoria",
+                    "pt": "dados-cadastrais-subcategoria"
                   },
                   "origin": "",
                   "type": "category",
@@ -16949,6 +16964,52 @@
                         "en": "changing-the-stores-cnpj",
                         "es": "cambiar-el-cnpj-de-la-tienda",
                         "pt": "alterar-o-cnpj-da-loja"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "Credits",
+                    "es": "Créditos",
+                    "pt": "Créditos"
+                  },
+                  "slug": {
+                    "en": "credits-subcategory",
+                    "es": "creditos-subcategoria",
+                    "pt": "creditos-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Checking Credit Wallet",
+                        "es": "Consultar Cartera de Crédito",
+                        "pt": "Consultar Carteira de Crédito"
+                      },
+                      "slug": {
+                        "en": "checking-credit-wallet",
+                        "es": "consultar-cartera-de-credito",
+                        "pt": "consultar-carteira-de-credito"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Credit Wallet",
+                        "es": "Cartera de Crédito",
+                        "pt": "Carteira de Crédito"
+                      },
+                      "slug": {
+                        "en": "credit-wallet",
+                        "es": "cartera-de-credito",
+                        "pt": "carteira-de-credito"
                       },
                       "origin": "",
                       "type": "markdown",
