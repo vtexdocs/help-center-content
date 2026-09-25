@@ -3,7 +3,7 @@ title: 'Gerenciar lojas físicas no VTEX Sales App'
 id: 5PSjRstg7UU4lOm0s8aqKN
 status: PUBLISHED
 createdAt: 2020-06-29T13:30:51.354Z
-updatedAt: 2026-07-07T18:59:24.074Z
+updatedAt: 2026-09-24T18:59:24.074Z
 publishedAt: 2023-07-26T18:59:24.074Z
 firstPublishedAt: 2020-06-29T14:22:11.121Z
 contentType: trackArticle
@@ -43,12 +43,11 @@ A página apresenta as seguintes informações:
 
 Você pode cadastrar uma loja física seguindo os passos a seguir:
 
-1. No Admin VTEX, clique em .
-2. No Admin VTEX, acesse **Configurações da loja > Sales App > Lojas físicas**, ou digite **Lojas físicas** na barra de busca no topo da página.
-3. Clique no botão `+ Cadastrar loja`.
-4. Preencha os [campos de cadastro da loja física](#campos-de-cadastro-da-loja-fisica).
-5. Clique em `Cadastrar`.
-6. Clique em `Salvar` para confirmar o cadastro da loja física.  
+1. No Admin VTEX, acesse **Configurações da loja > Sales App > Lojas físicas**, ou digite **Lojas físicas** na barra de busca no topo da página.
+2. Clique no botão `+ Cadastrar loja`.
+3. Preencha os [campos de cadastro da loja física](#campos-de-cadastro-da-loja-fisica).
+4. Clique em `Cadastrar`.
+5. Clique em `Salvar` para confirmar o cadastro da loja física.  
 
 ### Campos de cadastro da loja física
 
@@ -75,6 +74,8 @@ Você pode cadastrar uma loja física seguindo os passos a seguir:
 * **Conta franquia:** nome da [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia) em que a loja física deve ser cadastrada.
 * **Política comercial:** [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) que será aplicada na loja física. Campo obrigatório.
 * **Ponto de retirada:** [ponto de retirada](/pt/docs/tutorials/pontos-de-retirada) cadastrado para essa loja física, onde clientes retiram seus pedidos.
+
+> ⚠️ Os campos **Conta franquia** e **Ponto de retirada** só devem ser preenchidos se a loja deseja usar a [Venda de estoque local](/pt/docs/tutorials/habilitar-venda-de-estoque-local-do-vtex-sales-app) (onhands). O preenchimento desses campos sem a devida configuração da Venda de estoque local pode causar indisponibilidade de itens na página de produto (PDP) e na página de listagem (PLP).
 
 > ℹ️ As alterações podem levar até 15 minutos para serem processadas e aplicadas no VTEX Sales App.
 
