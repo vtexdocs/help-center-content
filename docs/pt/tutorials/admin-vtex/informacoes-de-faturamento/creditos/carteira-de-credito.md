@@ -14,7 +14,7 @@ seeAlso:
 
 A **Carteira de Crédito** é um crédito de faturamento concedido automaticamente à sua empresa, usado para abater a cobrança de [Master Data](/pt/docs/tutorials/master-data).
 
-Nesse artigo, entenda como o crédito da Carteira de Crédito é calculado, como ele é aplicado à cobrança de Master Data e o que acontece com o saldo não utilizado.
+Neste artigo, entenda como o crédito da Carteira de Crédito é calculado, como ele é aplicado à cobrança de Master Data e o que acontece com o saldo não utilizado.
 
 > ℹ️ Para saber como consultar as informações da sua Carteira de Crédito, acesse [Consultar Carteira de Crédito](/pt/docs/tutorials/consultar-carteira-de-credito).
 
