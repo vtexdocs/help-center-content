@@ -3,7 +3,7 @@ title: 'Consumption tags used in the billing module'
 id: 4v33NVnAEe6HTgbF6sOBF2
 status: PUBLISHED
 createdAt: 2024-10-04T20:18:55.246Z
-updatedAt: 2026-07-17T19:09:59.877Z
+updatedAt: 2026-09-21T14:51:00.000Z
 publishedAt: 2024-10-31T18:40:41.214Z
 firstPublishedAt: 2024-10-04T21:40:07.736Z
 contentType: tutorial
