@@ -3,7 +3,7 @@ title: 'My store’s Site Editor is not working'
 id: 3A6Ois91zEZ8zpKJp1wsP2
 status: PUBLISHED
 createdAt: 2024-08-26T16:52:35.556Z
-updatedAt: 2025-08-14T22:58:05.821Z
+updatedAt: 2026-09-11T14:35:20.717Z
 publishedAt: 2025-08-14T22:58:05.821Z
 firstPublishedAt: 2024-08-27T19:19:21.047Z
 contentType: tutorial
@@ -78,7 +78,7 @@ Something went wrong. Please try again.
 To solve this error, see the following instructions:
 
 1. [Check if the user role has the necessary permissions](#checking-if-the-user-role-has-the-necessary-permissions).
-2. [Check if the sales channel is configured in the catalog](#checking-the-domains-main-locale)
+2. [Check if the sales channel is configured in the catalog](#checking-if-the-sales-channel-is-configured-in-the-catalog)
 3. [Check the domain's main locale](#checking-the-domains-main-locale)
 
 ### Checking if the user role has the necessary permissions
@@ -132,7 +132,7 @@ Open a ticket with the [VTEX Support](https://supporticket.vtex.com/support) tea
 
 To avoid losing content stored in Site Editor when changing the pair dependencies of the Store Theme app, follow the steps in the guide [Migrating CMS settings after a major theme update](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-cms-settings-after-major-update).
 
-> ⚠️  In cases where you lose content in Site Editor, the content can only be restored if the loss is related to the known issue of [Intermittent Site Editor content loss](/en/known-issues/perda-intermitente-de-conteudo-do-site-editor--3a5MlAoD2Z7Gu6HDS8wihD). In this situation, open a ticket with the [VTEX Support](https://supporticket.vtex.com/support) with `urgent` priority.
+> ⚠️  In cases where you lose content in Site Editor, the content can only be restored if the loss is related to the known issue of [Intermittent Site Editor content loss](/en/known-issues/intermitent-site-editor-content-loss). In this situation, open a ticket with the [VTEX Support](https://supporticket.vtex.com/support) with `urgent` priority.
 
 ## I'm still experiencing issues with Site Editor
 
