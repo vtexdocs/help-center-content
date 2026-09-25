@@ -7,4 +7,8 @@ productTeam: Billing
 slugEN: credit-wallet
 locale: es
 subcategoryId: credit-wallet
+seeAlso:
+  - "/es/docs/tutorials/vision-general-facturacion"
+  - "/es/docs/tutorials/master-data"
+  - "/es/docs/tutorials/consultar-el-uso-de-master-data-en-el-admin-vtex"
 ---

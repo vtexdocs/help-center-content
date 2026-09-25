@@ -10,6 +10,8 @@ locale: pt
 
 Para acessar a Carteira de Crédito, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito da tela. Em seguida, clique em **Informações de faturamento > Crédito**.
 
+> ⚠️ Somente usuários com o perfil de acesso [Finance](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance), [Finance Full Access](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance-full-access) ou com o recurso `View Credtis` de [Billing](/pt/docs/tutorials/perfis-de-acesso-predefinidos#billing) vinculados ao perfil podem acessar **Informações de faturamento > Crédito** no Admin VTEX.
+
 <!-- TODO: inserir imagem da página Crédito (visão geral da Carteira de Crédito) -->
 
 Na página **Crédito**, você encontra as seguintes informações:
