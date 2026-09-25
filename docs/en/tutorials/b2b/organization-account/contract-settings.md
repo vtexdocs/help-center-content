@@ -90,6 +90,8 @@ A **location** is a specific delivery point within an address, such as a loading
 
 The **Payment methods** page lists the available payment methods for the organizational unit. The user can add payment methods from among the available options for the unit or remove existing ones.
 
+> ℹ️ For payments with notes payable, the **B2B Buyer Portal** only supports the note payable of payment method `207`. Learn more in [Setting up payments with Notes Payable](https://help.vtex.com/docs/tutorials/setting-up-payments-with-notes-payable).
+
 ### Adding a payment method
 
 1. On the [Organization Account home screen](https://help.vtex.com/docs/tutorials/organization-account), in the **Contract** section, click **Payment methods.**

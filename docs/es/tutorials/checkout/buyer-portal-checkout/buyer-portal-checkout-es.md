@@ -35,6 +35,8 @@ Buyer Portal Checkout ofrece todas las funcionalidades esperadas de un checkout 
 - Compatibilidad con múltiples medios de pago, incluyendo tarjeta de crédito con pago en cuotas y tarjetas guardadas (con flujo B2B sin CVV), Pix (Brasil) con código QR y finalización con checkout en un solo clic.
 - Revisión y confirmación del pedido con posibilidad de editar cada sección, status del pedido (aprobado o pendiente), número, y resúmenes de envío o recogida y de pago.
 
+> ℹ️ Para aceptar pagos con pagaré en Buyer Portal Checkout, usa el medio de pago `207`. Más información en [Configurar pagos con Pagaré](https://help.vtex.com/es/docs/tutorials/configurar-pagos-con-pagare).
+
 Además de estas funcionalidades, VTEX ofrece soluciones para optimizar la experiencia de compra en escenarios B2B, facilitando la personalización y brindando seguridad en la transacción para tus compradores.
 
 ### Presupuestos

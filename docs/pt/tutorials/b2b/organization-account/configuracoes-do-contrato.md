@@ -90,6 +90,8 @@ Uma **location** é um ponto específico de entrega dentro de um local, como doc
 
 A página **Payment methods** lista os meios de pagamento atualmente disponíveis para a unidade organizacional. O usuário pode adicionar meios dentre as opções disponíveis para a unidade ou remover os existentes.
 
+> ℹ️ Para pagamentos com promissória, o **B2B Buyer Portal** é compatível apenas com a promissória do meio de pagamento `207`. Saiba mais em [Configurar pagamentos com Promissória](https://help.vtex.com/pt/docs/tutorials/configurar-pagamentos-com-promissoria).
+
 ### Adicionar um meio de pagamento
 
 1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-organization-account), na seção **Contract**, clique em **Payment methods.**
