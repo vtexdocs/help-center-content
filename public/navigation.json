@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Marketplace payment data for invoices now comes in paymentData",
+                    "es": "Los datos de pago de marketplace para facturas pasan a venir en paymentData",
+                    "pt": "Dados de pagamento de marketplace para notas fiscais passam a vir em paymentData"
+                  },
+                  "slug": {
+                    "en": "2026-09-25-marketplace-payment-data-for-invoice-issuance",
+                    "es": "2026-09-25-datos-de-pago-de-marketplace-para-la-emision-de-facturas",
+                    "pt": "2026-09-25-dados-de-pagamento-de-marketplace-para-emissao-de-notas-fiscais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Budget Pacing now available in VTEX Ads",
                     "es": "Budget Pacing disponible en VTEX Ads",
                     "pt": "Budget Pacing disponível no VTEX Ads"
