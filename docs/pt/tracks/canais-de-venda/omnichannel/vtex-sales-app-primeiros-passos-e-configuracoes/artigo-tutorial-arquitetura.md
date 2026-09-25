@@ -50,8 +50,6 @@ A [Prateleira Infinita](https://help.vtex.com/pt/docs/tracks/prateleira-infinita
 
 #### Configuração da Prateleira Infinita
 
-A Prateleira Infinita pode ser implementada em lojas que tenham ou não arquitetura multicanal (Omnichannel), contas franquia e multiestoque (lojas físicas como estoques). As orientaçõe para cada caso são:
-
 - **Sem [arquitetura multicanal (Omnichannel)](https://help.vtex.com/pt/docs/tracks/comercio-unificado-101):** configure o **Sales App** na conta principal usando as mesmas políticas comerciais e estoques do ecommerce.  
 - **Com arquitetura multicanal (Omnichannel) e multiestoque:** cadastre cada loja física como um estoque na conta principal. Recomendado para quem não precisa de gestão separada de preços por loja.
   - **Com contas franquia:** crie [contas franquia](https://help.vtex.com/pt/docs/tutorials/o-que-e-conta-franquia) para cada loja, elas possuem obrigatoriamente o mesmo catálogo da conta principal, mas podem ter configurações de logística próprias.
@@ -65,12 +63,12 @@ O [Ship From Store](https://help.vtex.com/pt/docs/tracks/configurar-ship-from-st
 
 #### Configuração de Ship from Store e carrinhos mistos
 
-A configuração Além disso, é necessário integrar o ERP para que o inventário da loja esteja sempre atualizado e a emissão de nota fiscal (NFC-e) seja permitida.
-
 - **Arquitetura de conta franquia:** requer [conta franquia](https://help.vtex.com/pt/docs/tutorials/o-que-e-conta-franquia) para que seja possível habilitar o estoque local da loja física como ponto de retirada.
 - **Configuração logística:** configure o [ponto de retirada com o endereço da loja física](https://help.vtex.com/pt/docs/tutorials/habilitar-venda-de-estoque-local-do-vtex-sales-app) e habilite vendas do tipo "leve agora" (`instore`).
 - **Faturamento:** integre o sistema de faturamente com o de Nota Fiscal (NFC-e/SAT) via ponto de venda (PDV) ou ERP para permitir a saída imediata do produto por meio do protocolo de integração.
 - **Conciliação:** ajuste o sistema e operacional de conciliação para garantir o fluxo correto de faturamento, de acordo com suas definições junto ao financeiro.
+
+> ℹ️ Para usar o **Ship from Store**, é necessário integrar o ERP para que o inventário da loja esteja sempre atualizado e a emissão de nota fiscal (NFC-e) seja permitida.
 
 ### Ferramenta Única de Venda (POS-like)
 
