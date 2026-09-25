@@ -30,7 +30,7 @@ Os casos de uso mais frequentes do **Sales App** são:
 - **Atendimento remoto:** os vendedores usam o app para fechar vendas assistidas por canais digitais.
 - **Eventos e pop-up stores:** o app pode ser levado para onde o cliente estiver, como feiras ou quiosques temporários.
 
-> ℹ️ Se você tem um caso de uso específico ou quer ampliar suas vendas assistidas, abra um ticket para o [Suporte VTEX](https://help.vtex.com/pt/support). Nossa equipe ajudará você a entender como o **Sales App** pode atender ao seu negócio.
+> ℹ️ Se você tem um caso de uso específico ou quer ampliar suas vendas assistidas, abra um ticket para o [Suporte VTEX](https://help.vtex.com/support). Nossa equipe ajudará você a entender como o **Sales App** pode atender ao seu negócio.
 
 ### Sales App como ferramenta única da loja física
 
