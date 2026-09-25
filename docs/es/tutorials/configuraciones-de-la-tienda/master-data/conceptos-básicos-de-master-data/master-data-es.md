@@ -301,7 +301,7 @@ Tanto la medición como la facturación siguen un ciclo mensual:
 
 > ℹ️ Para hacer seguimiento del volumen de documentos en entidades personalizadas a lo largo del mes, consulta el dashboard **Uso de Master Data** en el Admin VTEX. Este dashboard se actualiza semanalmente y está destinado únicamente al seguimiento del uso. Las instrucciones de acceso están disponibles en Consultar el uso de Master Data en el Admin VTEX.
 
-> ℹ️ Para saber más sobre detalles de las facturas, consulta cómo [Descargar las facturas de VTEX](https://help.vtex.com/es/docs/tutorials/como-descargar-las-facturas-de-vtex).
+> ℹ️ Para saber más sobre detalles de las facturas, consulta cómo [Descargar facturas de VTEX](/es/docs/tutorials/descargar-facturas-de-vtex).
 
 ## Casos de uso
 

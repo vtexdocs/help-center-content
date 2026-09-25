@@ -300,7 +300,7 @@ A medição e a cobrança seguem um ciclo mensal:
 
 > ℹ️ Para monitorar o volume de documentos em entidades personalizadas ao longo do mês, consulte o dashboard **Master Data usage** no Admin VTEX. Este dashboard é atualizado semanalmente e destinado apenas ao acompanhamento do uso. Para saber como acessá-lo, veja [Consultar o uso do Master Data no Admin VTEX](/pt/docs/tutorials/consultar-o-uso-do-master-data-no-admin-vtex).
 
-> ℹ️ Para consultar o detalhamento de cobranças, veja como [fazer o download das faturas da VTEX](/pt/docs/tutorials/como-fazer-download-faturas-da-vtex).
+> ℹ️ Para consultar o detalhamento de cobranças, veja como [Baixar faturas da VTEX](/pt/docs/tutorials/baixar-faturas-da-vtex).
 
 ## Casos de uso
 

@@ -36,6 +36,6 @@ El crédito de la Cartera de Crédito se calcula y aplica automáticamente en la
 
 ## ¿Qué se necesita hacer?
 
-Solo los usuarios con el rol de acceso [Finance](/es/docs/tutorials/roles-predefinidos#finance), [Finance Full Access](/es/docs/tutorials/roles-predefinidos#finance-full-access) o con el recurso `View Credits` de [Billing](/es/docs/tutorials/roles-predefinidos#billing) vinculado al rol pueden acceder a **Facturación** en el Admin VTEX.
+Solo los usuarios con el rol de acceso [Finance](/es/docs/tutorials/roles-de-usuario-predefinidos#finance), [Finance Full Access](/es/docs/tutorials/roles-de-usuario-predefinidos#finance-full-access) o con el recurso `View Credits` de [Billing](/es/docs/tutorials/roles-de-usuario-predefinidos#billing) vinculado al rol pueden acceder a la página **Créditos** en el Admin VTEX.
 
 El crédito se concede y aplica automáticamente. Para consultar el saldo y el consumo, accede a **Facturación > Créditos** en el Admin VTEX.

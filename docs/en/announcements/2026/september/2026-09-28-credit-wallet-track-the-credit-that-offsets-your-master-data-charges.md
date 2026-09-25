@@ -36,6 +36,6 @@ Credit Wallet credit is calculated and applied automatically to invoices, but un
 
 ## What needs to be done?
 
-Only users with the [Finance](/en/docs/tutorials/predefined-roles#finance), [Finance Full Access](/en/docs/tutorials/predefined-roles#finance-full-access) access profile, or with the `View Credits` resource from [Billing](/en/docs/tutorials/predefined-roles#billing) linked to their profile can access **Billing** in the VTEX Admin.
+Only users with the [Finance](/en/docs/tutorials/predefined-roles#finance), [Finance Full Access](/en/docs/tutorials/predefined-roles#finance-full-access) access profile, or with the `View Credits` resource from [Billing](/en/docs/tutorials/predefined-roles#billing) linked to their profile can access the **Credits** page in the VTEX Admin.
 
 Credit is granted and applied automatically. To check the balance and usage, go to **Billing > Credits** in the VTEX Admin.
