@@ -21,13 +21,13 @@ Na página **Créditos**, você encontra as seguintes informações:
 - **Resumo anual de crédito**: resumo anual do crédito, com dois indicadores:
   - **Entradas e saídas**: total de crédito gerado ("entradas") e efetivamente usado para abater cobranças de Master Data ("saídas") no período. Crédito expirado é contabilizado separadamente (coluna **Expirado** do extrato) e não entra nesse número.
   - **Taxa de consumo**: percentual do crédito acumulado que foi consumido no período. Como o crédito não utilizado continua acumulando para os meses seguintes, quanto mais baixo esse percentual, maior a folga do seu saldo em relação ao consumo de Master Data.
-- **Extrato de crédito**: extrato mês a mês com saldo inicial, crédito gerado, valor usado, valor expirado e saldo final.
+- **Extrato de crédito**: extrato mês a mês com saldo inicial, crédito gerado, valor usado, valor expirado e saldo final. Clique no ícone `>` de um mês para expandir a linha e ver os lançamentos individuais daquele período (data, descrição, valor de crédito e saldo atualizado). Se houve consumo de Master Data no mês, a linha expandida também exibe a seção **Consumo por add-on** no canto inferior esquerdo da tela, com um card por add-on consumido.
 
 ### Detalhamento por Master Data
 
 <!-- TODO: inserir imagem da página Detalhamento por Master Data -->
 
-Ao abrir o detalhamento por Master Data dentro da página **Créditos**, você encontra:
+Para abrir o detalhamento por Master Data, expanda a linha de um mês no **Extrato de crédito** e, na seção **Consumo por add-on**, no canto inferior esquerdo da tela, clique no card **Master Data**. Isso abre um painel lateral com:
 
 - **Custo estimado para o próximo ciclo**: custo bruto de Master Data no próximo ciclo, calculado com base no volume de documentos armazenados na última atualização do dashboard (semanal) — antes de aplicar o crédito da Carteira de Crédito.
 - **Cobertura de crédito**: percentual do custo estimado de Master Data para o próximo ciclo que é coberto pelo saldo atual da Carteira de Crédito. Se for menor que 100%, a diferença é cobrada na fatura.
