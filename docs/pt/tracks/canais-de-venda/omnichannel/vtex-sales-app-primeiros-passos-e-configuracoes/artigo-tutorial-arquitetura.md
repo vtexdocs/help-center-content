@@ -42,8 +42,8 @@ A arquitetura técnica depende das estratégias que sua operação vai adotar co
 
 | Requisito | Prateleira Infinita | Ship from Store e carrinhos mistos | Loja física como ponto de retirada | Ferramenta Única de Venda (POS-like) |
 | --- | --- | --- | --- | --- |
-| Conta franquia | Opcional | Sim | Sim | Depende do projeto |
-| Ponto de retirada | Opcional | Sim | Sim | Depende do projeto |
+| Conta franquia | Opcional | Sim | Sim | {Confirmar com time} |
+| Ponto de retirada | Opcional | Sim | Sim | {Confirmar com time} |
 | Integração com ERP | Não | Sim | Recomendado | Sim |
 | Emissão de nota fiscal na loja (NFC-e/SAT) | Não | Sim | Não | Sim |
 
