@@ -12191,9 +12191,24 @@
                     },
                     {
                       "name": {
-                        "en": "4. VTEX Sales App - Basic settings",
-                        "es": "4. VTEX Sales App - Configuración básica",
-                        "pt": "4. VTEX Sales App - Configurações Básicas"
+                        "en": "4. Define the account architecture for VTEX Sales App",
+                        "es": "4. Definir la arquitectura de la cuenta para VTEX Sales App",
+                        "pt": "4. Definir a arquitetura da conta para o VTEX Sales App"
+                      },
+                      "slug": {
+                        "en": "define-the-vtex-sales-app-account-architecture",
+                        "es": "definir-la-arquitectura-de-la-cuenta-para-vtex-sales-app",
+                        "pt": "definir-a-arquitetura-da-conta-para-o-vtex-sales-app"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "5. VTEX Sales App - Basic settings",
+                        "es": "5. VTEX Sales App - Configuración básica",
+                        "pt": "5. VTEX Sales App - Configurações Básicas"
                       },
                       "slug": {
                         "en": "vtex-sales-app-basic-settings",
@@ -12206,9 +12221,9 @@
                     },
                     {
                       "name": {
-                        "en": "5. Managing physical stores in VTEX Sales App",
-                        "es": "5. Gestionar tiendas físicas en VTEX Sales App",
-                        "pt": "5. Gerenciar lojas físicas no VTEX Sales App"
+                        "en": "6. Managing physical stores in VTEX Sales App",
+                        "es": "6. Gestionar tiendas físicas en VTEX Sales App",
+                        "pt": "6. Gerenciar lojas físicas no VTEX Sales App"
                       },
                       "slug": {
                         "en": "managing-physical-stores-in-vtex-sales-app",
@@ -12221,9 +12236,9 @@
                     },
                     {
                       "name": {
-                        "en": "6. Managing sales associates in VTEX Sales App",
-                        "es": "6. Gestionar vendedores en VTEX Sales App",
-                        "pt": "6. Gerenciar vendedores no VTEX Sales App"
+                        "en": "7. Managing sales associates in VTEX Sales App",
+                        "es": "7. Gestionar vendedores en VTEX Sales App",
+                        "pt": "7. Gerenciar vendedores no VTEX Sales App"
                       },
                       "slug": {
                         "en": "managing-sales-associates-in-vtex-sales-app",
@@ -12236,9 +12251,9 @@
                     },
                     {
                       "name": {
-                        "en": "7. Register the barcode of the SKUs for VTEX Sales App",
-                        "es": "7. Registrar el código de barras de los SKUs para VTEX Sales App",
-                        "pt": "7. Cadastrar o código de barras dos SKUs para o VTEX Sales App"
+                        "en": "8. Register the barcode of the SKUs for VTEX Sales App",
+                        "es": "8. Registrar el código de barras de los SKUs para VTEX Sales App",
+                        "pt": "8. Cadastrar o código de barras dos SKUs para o VTEX Sales App"
                       },
                       "slug": {
                         "en": "register-the-barcode-of-the-skus-for-vtex-sales-app",
@@ -12251,9 +12266,9 @@
                     },
                     {
                       "name": {
-                        "en": "8. Customizing VTEX Sales App",
-                        "es": "8. Personalización de VTEX Sales App",
-                        "pt": "8. Customizar o VTEX Sales App"
+                        "en": "9. Customizing VTEX Sales App",
+                        "es": "9. Personalización de VTEX Sales App",
+                        "pt": "9. Customizar o VTEX Sales App"
                       },
                       "slug": {
                         "en": "customizing-vtex-sales-app",
