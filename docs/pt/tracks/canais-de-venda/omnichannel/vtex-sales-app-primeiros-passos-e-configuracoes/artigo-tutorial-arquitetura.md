@@ -1,11 +1,11 @@
 ---
-title: 'Definições de arquitetura para o VTEX Sales App'
+title: 'Planejar a implementação do VTEX Sales App'
 status: PUBLISHED
 createdAt: 2026-09-17T00:00:00.000Z
 updatedAt: 2026-09-17T00:00:00.000Z
 contentType: tutorial
 productTeam: Shopping
-slugEN: XXX
+slugEN: plan-vtex-sales-app-implementation
 locale: pt
 ---
 
@@ -147,7 +147,7 @@ Você pode habilitar ou desabilitar algumas ações dos vendedores no app. Cada 
 ### Performance e comissionamento
 
 - **Acompanhamento no app:** ative a performance de vendas para que os vendedores acompanhem suas métricas básicas no próprio **Sales App**.
-- **Integração com sistemas internos:** use os campos do pedido \[link\] para enviar os dados de venda aos seus sistemas internos e calcular o comissionamento.
+- **Integração com sistemas internos:** use os campos do pedido para enviar os dados de venda aos seus sistemas internos e calcular o comissionamento.
 - **Modelo de comissionamento:** defina com as áreas internas, lojas próprias e franquias como as vendas omnichannel entrarão nas metas e no repasse de lojas, franquias, gerentes e vendedores. Essa definição não depende de configuração na VTEX, mas é essencial para o modelo de repasse e para o engajamento da equipe com o app.
 
 ## Definir as configurações de pagamento
