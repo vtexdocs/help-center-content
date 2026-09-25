@@ -12893,46 +12893,193 @@
         "from": "/es/tutorial/como-funcionan-los-pedidos-incompletos--tutorials_294",
         "to": "/es/docs/tutorials/como-encontrar-un-pedido"
       },
-    {
-      "from": "/pt/docs/tutorials/promocoes-do-mercado-livre",
-      "to": "/pt/docs/tutorials/central-de-promocoes-mercado-livre"
-    },
-    {
-      "from": "/en/docs/tutorials/promocoes-do-mercado-livre",
-      "to": "/en/docs/tutorials/mercado-libre-promotions-center"
-    },
-    {
-      "from": "/es/docs/tutorials/promocoes-do-mercado-livre",
-      "to": "/es/docs/tutorials/central-de-promociones-mercado-libre"
-    },
-    {
-      "from": "pt/docs/tracks/configurar-integracao-com-a-amazon",
-      "to": "pt/docs/tracks/configurar-a-integracao-da-amazon"
-    },
-    {
-      "from": "/pt/docs/tutorials/amazon-listing",
-      "to": "/pt/docs/tutorials/publicacao-de-produtos-amazon"
-    },
-    {
-      "from": "/en/docs/tutorials/amazon-listing",
-      "to": "/en/docs/tutorials/amazon-product-publishing"
-    },
-    {
-      "from": "/es/docs/tutorials/amazon-listing",
-      "to": "/es/docs/tutorials/publicacion-de-productos-amazon"
-    },
-    {
-      "from": "/pt/docs/tutorials/match-de-anuncios-amazon",
-      "to": "/pt/docs/tutorials/publicacao-de-produtos-amazon"
-    },
-    {
-      "from": "/en/docs/tutorials/amazon-offer-matching",
-      "to": "/en/docs/tutorials/amazon-product-publishing"
-    },
-    {
-      "from": "/es/docs/tutorials/match-de-anuncios-amazon",
-      "to": "/es/docs/tutorials/publicacion-de-productos-amazon"
-    }
+      {
+        "from": "/pt/docs/tutorials/promocoes-do-mercado-livre",
+        "to": "/pt/docs/tutorials/central-de-promocoes-mercado-livre"
+      },
+      {
+        "from": "/en/docs/tutorials/promocoes-do-mercado-livre",
+        "to": "/en/docs/tutorials/mercado-libre-promotions-center"
+      },
+      {
+        "from": "/es/docs/tutorials/promocoes-do-mercado-livre",
+        "to": "/es/docs/tutorials/central-de-promociones-mercado-libre"
+      },
+      {
+        "from": "pt/docs/tracks/configurar-integracao-com-a-amazon",
+        "to": "pt/docs/tracks/configurar-a-integracao-da-amazon"
+      },
+      {
+        "from": "/pt/docs/tutorials/amazon-listing",
+        "to": "/pt/docs/tutorials/publicacao-de-produtos-amazon"
+      },
+      {
+        "from": "/en/docs/tutorials/amazon-listing",
+        "to": "/en/docs/tutorials/amazon-product-publishing"
+      },
+      {
+        "from": "/es/docs/tutorials/amazon-listing",
+        "to": "/es/docs/tutorials/publicacion-de-productos-amazon"
+      },
+      {
+        "from": "/pt/docs/tutorials/match-de-anuncios-amazon",
+        "to": "/pt/docs/tutorials/publicacao-de-produtos-amazon"
+      },
+      {
+        "from": "/en/docs/tutorials/amazon-offer-matching",
+        "to": "/en/docs/tutorials/amazon-product-publishing"
+      },
+      {
+        "from": "/es/docs/tutorials/match-de-anuncios-amazon",
+        "to": "/es/docs/tutorials/publicacion-de-productos-amazon"
+      },
+      {
+        "from": "/pt/docs/tutorials/o-que-e-um-gateway-de-pagamentos",
+        "to": "/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#gateway"
+      },
+      {
+        "from": "/pt/tutorial/o-que-e-um-gateway-de-pagamentos",
+        "to": "/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#gateway"
+      },
+      {
+        "from": "/pt/docs/tutorials/o-que-e-um-adquirente",
+        "to": "/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#adquirente"
+      },
+      {
+        "from": "/pt/tutorial/o-que-e-um-adquirente",
+        "to": "/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#adquirente"
+      },
+      {
+        "from": "/pt/docs/tutorials/o-que-e-um-subadquirente",
+        "to": "/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#subadquirente"
+      },
+      {
+        "from": "/pt/tutorial/o-que-e-um-subadquirente",
+        "to": "/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#subadquirente"
+      },
+      {
+        "from": "/pt/docs/tutorials/o-que-e-uma-bandeira-de-cartao-de-credito",
+        "to": "/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#bandeira-de-cartao"
+      },
+      {
+        "from": "/pt/tutorial/o-que-e-uma-bandeira-de-cartao-de-credito",
+        "to": "/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#bandeira-de-cartao"
+      },
+      {
+        "from": "/pt/docs/tutorials/o-que-e-banco-emissor",
+        "to": "/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#banco-emissor"
+      },
+      {
+        "from": "/pt/tutorial/o-que-e-banco-emissor",
+        "to": "/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#banco-emissor"
+      },
+      {
+        "from": "/pt/docs/tutorials/o-que-e-antifraude",
+        "to": "/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#antifraude"
+      },
+      {
+        "from": "/pt/tutorial/o-que-e-antifraude",
+        "to": "/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#antifraude"
+      },
+      {
+        "from": "/en/docs/tutorials/what-is-a-payment-gateway",
+        "to": "/en/docs/tutorials/financial-agents-in-the-payment-flow#gateway"
+      },
+      {
+        "from": "/en/tutorial/what-is-a-payment-gateway",
+        "to": "/en/docs/tutorials/financial-agents-in-the-payment-flow#gateway"
+      },
+      {
+        "from": "/en/docs/tutorials/what-is-an-acquirer",
+        "to": "/en/docs/tutorials/financial-agents-in-the-payment-flow#acquirer"
+      },
+      {
+        "from": "/en/tutorial/what-is-an-acquirer",
+        "to": "/en/docs/tutorials/financial-agents-in-the-payment-flow#acquirer"
+      },
+      {
+        "from": "/en/docs/tutorials/what-is-a-sub-acquirer",
+        "to": "/en/docs/tutorials/financial-agents-in-the-payment-flow#sub-acquirer"
+      },
+      {
+        "from": "/en/tutorial/what-is-a-sub-acquirer",
+        "to": "/en/docs/tutorials/financial-agents-in-the-payment-flow#sub-acquirer"
+      },
+      {
+        "from": "/en/docs/tutorials/what-is-a-credit-card-brand",
+        "to": "/en/docs/tutorials/financial-agents-in-the-payment-flow#credit-card-brand"
+      },
+      {
+        "from": "/en/tutorial/what-is-a-credit-card-brand",
+        "to": "/en/docs/tutorials/financial-agents-in-the-payment-flow#credit-card-brand"
+      },
+      {
+        "from": "/en/docs/tutorials/what-is-the-issuing-bank",
+        "to": "/en/docs/tutorials/financial-agents-in-the-payment-flow#issuing-bank"
+      },
+      {
+        "from": "/en/tutorial/what-is-the-issuing-bank",
+        "to": "/en/docs/tutorials/financial-agents-in-the-payment-flow#issuing-bank"
+      },
+      {
+        "from": "/en/docs/tutorials/what-is-anti-fraud",
+        "to": "/en/docs/tutorials/financial-agents-in-the-payment-flow#anti-fraud"
+      },
+      {
+        "from": "/en/tutorial/what-is-anti-fraud",
+        "to": "/en/docs/tutorials/financial-agents-in-the-payment-flow#anti-fraud"
+      },
+      {
+        "from": "/es/docs/tutorials/que-es-un-gateway-de-pagos",
+        "to": "/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#gateway"
+      },
+      {
+        "from": "/es/tutorial/que-es-un-gateway-de-pagos",
+        "to": "/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#gateway"
+      },
+      {
+        "from": "/es/docs/tutorials/que-es-un-adquirente",
+        "to": "/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#adquirente"
+      },
+      {
+        "from": "/es/tutorial/que-es-un-adquirente",
+        "to": "/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#adquirente"
+      },
+      {
+        "from": "/es/docs/tutorials/que-es-un-subadquirente",
+        "to": "/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#subadquirente"
+      },
+      {
+        "from": "/es/tutorial/que-es-un-subadquirente",
+        "to": "/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#subadquirente"
+      },
+      {
+        "from": "/es/docs/tutorials/que-es-una-bandera-de-tarjeta-de-credito",
+        "to": "/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#bandera-de-tarjeta-de-credito"
+      },
+      {
+        "from": "/es/tutorial/que-es-una-bandera-de-tarjeta-de-credito",
+        "to": "/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#bandera-de-tarjeta-de-credito"
+      },
+      {
+        "from": "/es/docs/tutorials/que-es-el-banco-emisor",
+        "to": "/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#banco-emisor"
+      },
+      {
+        "from": "/es/tutorial/que-es-el-banco-emisor",
+        "to": "/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#banco-emisor"
+      },
+      {
+        "from": "/es/docs/tutorials/que-es-antifraude",
+        "to": "/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#antifraude"
+      },
+      {
+        "from": "/es/tutorial/que-es-antifraude",
+        "to": "/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#antifraude"
+      },
+    ]
+  }
+}
     ]
   }
 }

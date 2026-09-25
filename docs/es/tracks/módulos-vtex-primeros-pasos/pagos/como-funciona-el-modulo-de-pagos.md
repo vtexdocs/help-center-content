@@ -52,7 +52,7 @@ Así, el **subadquirente** puede ser entendido como una especie de intermediario
 
 Ejemplos de subadquirente: Paypal y PagSeguro.
 
-Para saber más sobre las [ventajas y desventajas de incluir a un subadquirente en su flujo](/es/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil), consulte nuestro artículo.   
+Para saber más sobre las [ventajas y desventajas de incluir a un subadquirente en su flujo](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#subadquirente), consulte nuestro artículo.   
 
 ## Bandera de la Tarjeta 
 Banderas son empresas responsables de definir las reglas de negocio para compras realizadas con tarjeta de crédito, como la cantidad de cuotas en que puede dividir el pago y el número de establecimientos en que se acepta, nacional e internacionalmente. 
@@ -86,4 +86,4 @@ El PCI Security Standards Council es un foro mundial abierto para el continuo de
 
 [La plataforma VTEX posee un gateway propio con **certificación PCI**](/es/docs/tutorials/que-es-el-pci-ssc), que significa que los datos de todos los pagos realizados en su tienda están protegidos de acuerdo con los más altos estándares de seguridad. 
 
-Si desea profundizar los conceptos de gateway, adquirente, subadquirente, bandera, banco emisor y antifraude, consulte nuestro [artículo sobre agentes financieros en Brasil](/es/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil).
+Si desea profundizar los conceptos de gateway, adquirente, subadquirente, bandera, banco emisor y antifraude, consulte nuestro [artículo sobre agentes financieros en el flujo de pago](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago).

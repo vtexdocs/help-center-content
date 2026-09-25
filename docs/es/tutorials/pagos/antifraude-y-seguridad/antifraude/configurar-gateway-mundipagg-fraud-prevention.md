@@ -17,7 +17,7 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 > ❗ Esta integración de pago ya no se puede configurar en la plataforma debido al [proceso de descontinuación de los proveedores legados](/es/announcements/2023-10-13-descontinuacion-de-conectores-de-pago-legados-en-2024) y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.
 
-Mundipagg ofrece una versión de su [gateway](/es/docs/tutorials/que-es-un-gateway-de-pagos) con la funcionalidad de antifraude. El Mundipagg Fraud Prevention trae aún más seguridad para el procesamiento de compras hechas con boletos, transferencias bancarias y las principales banderas de tarjetas de crédito.
+Mundipagg ofrece una versión de su [gateway](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#gateway) con la funcionalidad de antifraude. El Mundipagg Fraud Prevention trae aún más seguridad para el procesamiento de compras hechas con boletos, transferencias bancarias y las principales banderas de tarjetas de crédito.
 
 Para configurar Mundipagg Fraud Prevention, siga los pasos abajo:
 
