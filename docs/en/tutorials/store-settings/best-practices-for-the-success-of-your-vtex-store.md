@@ -54,7 +54,7 @@ The main benefits of creating and maintaining updated documentation of the opera
 
 There are strategies to prevent and reduce store exposure to the risk of malicious attacks. Some of the main ones are:
 
-* **Anti-fraud systems:** Configure an [anti-fraud system](/en/docs/tutorials/what-is-anti-fraud) for all store payment methods.
+* **Anti-fraud systems:** Configure an [anti-fraud system](/en/docs/tutorials/financial-agents-in-the-payment-flow#anti-fraud) for all store payment methods.
 * **reCAPTCHA:** Use [reCAPTCHA](/en/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP#) to prevent fraud involving fake user accounts created by malicious software.
 * **Authentication:** If your store has been experiencing recurrent attacks, consider disabling password login and opting for alternative [authentication](/en/docs/tutorials/authentication) methods for your customers.
 

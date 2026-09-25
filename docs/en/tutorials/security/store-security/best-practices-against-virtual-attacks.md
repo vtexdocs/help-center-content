@@ -29,7 +29,7 @@ VTEX offers different protections against possible attacks on stores. Still, the
 
 Anti-fraud systems specialize in analyzing ecommerce purchases to identify fraudulent transactions. They analyze customers' behavioral data and prevent suspicious purchases from being made.
 
-Learn more about [anti-fraud systems](/en/docs/tutorials/what-is-anti-fraud) and how to use them on VTEX.
+Learn more about [anti-fraud systems](/en/docs/tutorials/financial-agents-in-the-payment-flow#anti-fraud) and how to use them on VTEX.
 
 > ⚠️ To increase security, set up your anti-fraud solution for all the payment methods available in your store.
 

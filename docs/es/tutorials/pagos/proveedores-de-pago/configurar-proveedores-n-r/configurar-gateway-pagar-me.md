@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Pagar.me es un [gateway](/es/docs/tutorials/que-es-un-gateway-de-pagos) que ofrece diversas soluciones para procesar pagos en su tienda.
+Pagar.me es un [gateway](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#gateway) que ofrece diversas soluciones para procesar pagos en su tienda.
 
 Para configurar Pagar.me, siga estos pasos:
 
