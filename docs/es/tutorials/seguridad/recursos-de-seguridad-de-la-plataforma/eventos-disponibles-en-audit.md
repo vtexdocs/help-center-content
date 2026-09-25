@@ -503,4 +503,5 @@ En la columna **Acción**, todos los eventos de Headless CMS (Legacy) también m
 | DelegationRevoked | Revocación de una delegación antes de la fecha de finalización. | ID de la delegación. |
 | ImpersonationSuccess | Suplantación exitosa de un usuario mediante un intercambio de token on-behalf-of (OBO). | ID del usuario original, ID del usuario delegado, tipo de suplantación, ID de la delegación e ID de la unidad organizativa. |
 | ImpersonationFailed | Intento fallido de suplantación de un usuario mediante un intercambio de token on-behalf-of (OBO). | ID del usuario original, ID del usuario delegado, tipo de suplantación, ID de la delegación, ID de la unidad organizativa y motivo del fallo. |
+| SddDiffCleanlinessProbe | Sondeo de limpieza de diffs (SDD). | Evento de verificación emitido durante una comprobación de auditoría de intercambio de token on-behalf-of (OBO). |
 

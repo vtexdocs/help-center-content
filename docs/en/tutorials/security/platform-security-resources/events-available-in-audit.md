@@ -502,4 +502,5 @@ In the **Action** column, all Headless CMS (Legacy) events also display the foll
 | DelegationRevoked | Revocation of a delegation before its end date. | Delegation ID. |
 | ImpersonationSuccess | Successful impersonation of a user through an on-behalf-of (OBO) token exchange. | Original user ID, delegate user ID, impersonation type, delegation ID, and organizational unit ID. |
 | ImpersonationFailed | Failed attempt to impersonate a user through an on-behalf-of (OBO) token exchange. | Original user ID, delegate user ID, impersonation type, delegation ID, organizational unit ID, and failure reason. |
+| SddDiffCleanlinessProbe | SDD diff-cleanliness probe. | Verification event emitted during an on-behalf-of (OBO) token exchange audit check. |
 
