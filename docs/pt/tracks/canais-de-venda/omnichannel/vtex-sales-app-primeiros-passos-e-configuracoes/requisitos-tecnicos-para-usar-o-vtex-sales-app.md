@@ -34,12 +34,15 @@ O dispositivo utilizado precisa ter conexão com a internet, por rede Wi-Fi ou 4
 
 ### Computadores
 
-Para computadores com sistema operacional **Windows**, os requisitos são:
+Para utilizar o **Sales App** em um computador, o dispositivo deve atender aos seguintes requisitos:
 
-- Sistema operacional **Windows 8** ou mais recente
-- Processador **Intel i3+** ou **AMD Phenom II X4**
-- Memória RAM de **4 GB** ou superior
-- HD/SSD de **120 GB** ou superior
+- **Windows:**
+  - Sistema operacional **Windows 10** ou posterior.
+  - Memória RAM de **4 GB** ou superior.
+
+- **macOS:**
+  - Sistema operacional **macOS 13 Ventura** ou posterior.
+  - Memória RAM de **4 GB** ou superior.
 
 ### Roteador e internet
 
