@@ -3,7 +3,7 @@ title: 'Master Data'
 id: 4otjBnR27u4WUIciQsmkAw
 status: PUBLISHED
 createdAt: 2018-04-02T19:01:38.026Z
-updatedAt: 2026-07-20T00:00:00.000Z
+updatedAt: 2026-09-28T00:00:00.000Z
 publishedAt: 2025-08-29T14:19:54.707Z
 firstPublishedAt: 2018-04-02T20:54:18.272Z
 contentType: tutorial
@@ -288,6 +288,8 @@ O uso de entidades nativas é gratuito. O uso de entidades personalizadas é cob
 Para conhecer os valores aplicáveis à sua operação, consulte seu contrato comercial ou entre em contato com o [suporte VTEX](https://help.vtex.com/pt/support).
 
 A cada pagamento realizado durante a vigência do contrato, é concedido um crédito de faturamento equivalente a 2% do valor líquido pago pelos produtos VTEX Commerce Platform e CX Commerce Platform. Os créditos acumulam ao longo do contrato e ficam disponíveis para uso até o seu encerramento.
+
+> ℹ️ Esse crédito compõe a sua Carteira de Crédito. Para saber mais sobre como ele é calculado e como consultar o saldo e o consumo, veja o artigo [Carteira de Crédito](/pt/docs/tutorials/carteira-de-credito).
 
 A medição e a cobrança seguem um ciclo mensal:
 

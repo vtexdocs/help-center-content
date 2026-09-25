@@ -3,7 +3,7 @@ title: 'Master Data'
 id: 4otjBnR27u4WUIciQsmkAw
 status: PUBLISHED
 createdAt: 2018-04-02T19:01:38.026Z
-updatedAt: 2026-07-20T00:00:00.000Z
+updatedAt: 2026-09-28T00:00:00.000Z
 publishedAt: 2025-08-29T14:19:54.707Z
 firstPublishedAt: 2018-04-02T20:54:18.272Z
 contentType: tutorial
@@ -289,6 +289,8 @@ The use of native entities is free of charge. The use of custom entities is bill
 To learn about the amounts applicable to your operation, see your commercial agreement or contact [VTEX support](https://help.vtex.com/en/support).
 
 For each payment made during the term of the agreement, a billing credit equivalent to 2% of the net amount paid for VTEX Commerce Platform and CX Commerce Platform products is granted. The credits accumulate throughout the agreement and remain available for use until its termination.
+
+> ℹ️ This credit is part of your Credit Wallet. To learn more about how it's calculated and how to check the balance and usage, see the [Credit Wallet](/en/docs/tutorials/credit-wallet) article.
 
 Measurement and billing follow a monthly cycle:
 
