@@ -3,7 +3,7 @@ title: 'Atribuir e testar agentes'
 id: 41beBpRcBouxMywt6dUW2z
 status: PUBLISHED
 createdAt: 2025-07-09T18:14:18.864Z
-updatedAt: 2026-06-18T00:00:00.000Z
+updatedAt: 2026-09-18T00:00:00.000Z
 publishedAt: 2025-09-11T13:21:03.550Z
 firstPublishedAt: 2025-07-29T16:38:35.307Z
 contentType: tutorial
@@ -22,6 +22,7 @@ A seção **Meus agentes** permite atribuir agentes ao time e testar sua operaç
 Este artigo está dividido nas seguintes seções:
 
 - [Atribuir um agente ao time](#atribuir-um-agente-ao-time)
+- [Configurar constantes de agentes personalizados](#configurar-constantes-de-agentes-personalizados)
 - [Remover um agente](#remover-um-agente)
 - [Testar um agente](#testar-um-agente)
 
@@ -44,9 +45,20 @@ Para atribuir um novo agente em sua loja, siga os passos abaixo:
 8. Em **Atribuir {Nome do agente}**, na seção **Seleção de sistema**, selecione uma das opções disponíveis e clique em `Avançar`.
 9. Em **Seleção de MCP**, selecione uma das opções disponíveis para definir o comportamento do agente.
 10. Em **Configurar MCP {Nome do sistema}**, se disponível, preencha ou selecione os parâmetros do agente. Alguns agentes não possuem parâmetros configuráveis.
-11. Em **Revise a configuração e insira as credenciais**, confira as informações, preencha os campos solicitados e clique em `Concluir`.
+11. Para agentes personalizados, em **Constantes**, selecione as constantes definidas via CLI e preencha os valores desejados. Saiba mais em [Configurar constantes de agentes personalizados](#configurar-constantes-de-agentes-personalizados).
+12. Em **Revise a configuração e insira as credenciais**, confira as informações, preencha os campos solicitados e clique em `Concluir`.
 
 Após concluir esses passos, o agente será exibido na seção **Agentes atribuídos** da página **Meus Agentes**.
+
+> ℹ️ Os cards de agentes personalizados exibem a data e a hora de criação ou da última atualização do agente. Agentes oficiais não exibem essa informação.
+
+## Configurar constantes de agentes personalizados
+
+Constantes são valores de configuração reutilizáveis, definidos no nível do agente e compartilhados entre todas as suas ferramentas, como URLs de ambiente ou identificadores de loja. Elas são criadas no código do agente e enviadas para a plataforma via [CLI do VTEX CX Platform](https://weni-ai.github.io/weni-cli/core-concepts/constants/).
+
+Ao atribuir um agente personalizado, você pode visualizar as constantes disponíveis, definir os valores de cada uma e aplicá-las diretamente na interface, sem precisar da CLI.
+
+> ℹ️ Constantes são diferentes de credenciais. Credenciais são informações confidenciais, como chaves de API, usadas pelo agente ao acionar uma ferramenta específica. Constantes são valores de configuração compartilhados entre as ferramentas do agente.
 
 ## Remover um agente
 
