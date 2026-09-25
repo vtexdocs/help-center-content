@@ -23778,6 +23778,21 @@
                 },
                 {
                   "name": {
+                    "pt": "Planejar a implementação do VTEX Sales App",
+                    "en": "Planejar a implementação do VTEX Sales App",
+                    "es": "Planejar a implementação do VTEX Sales App"
+                  },
+                  "slug": {
+                    "pt": "planejar-a-implementacao-do-vtex-sales-app",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Promotions on the Sales App search page",
                     "es": "Promociones en la página de búsqueda de Sales App",
                     "pt": "Promoção na página de busca do Sales App"
@@ -43021,13 +43036,13 @@
             {
               "name": {
                 "en": "Product returning as unavailable even with stock in a whitelabel seller",
-                "es": "El producto aparece como agotado aunque haya existencias en un vendedor de marca blanca",
-                "pt": "O produto aparece como indisponível mesmo havendo estoque em um vendedor de marca branca"
+                "es": "El producto aparece como no disponible incluso con existencias en un vendedor de marca blanca.",
+                "pt": "O produto está sendo devolvido como indisponível, mesmo havendo estoque em um vendedor de marca branca."
               },
               "slug": {
                 "en": "product-returning-as-unavailable-even-with-stock-in-a-whitelabel-seller",
-                "es": "el-producto-aparece-como-agotado-aunque-haya-existencias-en-un-vendedor-de-marca-blanca",
-                "pt": "o-produto-aparece-como-indisponivel-mesmo-havendo-estoque-em-um-vendedor-de-marca-branca"
+                "es": "el-producto-aparece-como-no-disponible-incluso-con-existencias-en-un-vendedor-de-marca-blanca",
+                "pt": "o-produto-esta-sendo-devolvido-como-indisponivel-mesmo-havendo-estoque-em-um-vendedor-de-marca-branca"
               },
               "origin": "",
               "type": "markdown",
@@ -51494,6 +51509,21 @@
                 "en": "cart-does-not-update-in-faststore-if-external-request-is-made-to-update-orderform",
                 "es": "el-carrito-no-se-actualiza-en-faststore-si-se-realiza-una-solicitud-externa-para-actualizar-el-formulario-de-pedido",
                 "pt": "o-carrinho-nao-e-atualizado-no-faststore-se-for-feita-uma-solicitacao-externa-para-atualizar-o-formulario-de-pedido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Custom domain moved between FastStore projects keeps routing to the previous account",
+                "es": "El dominio personalizado movido entre proyectos de FastStore sigue redirigiendo a la cuenta anterior.",
+                "pt": "O domínio personalizado movido entre projetos FastStore continua redirecionando para a conta anterior."
+              },
+              "slug": {
+                "en": "custom-domain-moved-between-faststore-projects-keeps-routing-to-the-previous-account",
+                "es": "el-dominio-personalizado-movido-entre-proyectos-de-faststore-sigue-redirigiendo-a-la-cuenta-anterior",
+                "pt": "o-dominio-personalizado-movido-entre-projetos-faststore-continua-redirecionando-para-a-conta-anterior"
               },
               "origin": "",
               "type": "markdown",
@@ -66512,6 +66542,21 @@
                 "en": "number-of-itens-on-pricing-filter-does-not-correspond-to-correct-number",
                 "es": "el-numero-de-itens-en-el-filtro-de-precios-no-se-corresponde-con-el-numero-correcto",
                 "pt": "o-numero-de-itens-no-filtro-de-precos-nao-corresponde-ao-numero-correto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Opt-in promotions can be configured with White Label sellers via API",
+                "es": "Las promociones de suscripción voluntaria se pueden configurar con vendedores de marca blanca a través de la API.",
+                "pt": "As promoções de adesão opcional podem ser configuradas com vendedores de marca branca via API."
+              },
+              "slug": {
+                "en": "optin-promotions-can-be-configured-with-white-label-sellers-via-api",
+                "es": "las-promociones-de-suscripcion-voluntaria-se-pueden-configurar-con-vendedores-de-marca-blanca-a-traves-de-la-api",
+                "pt": "as-promocoes-de-adesao-opcional-podem-ser-configuradas-com-vendedores-de-marca-branca-via-api"
               },
               "origin": "",
               "type": "markdown",
