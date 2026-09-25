@@ -128,7 +128,7 @@ Com a arquitetura definida, decida como os vendedores vão usar o **Sales App** 
 
 ### Acesso ao app
 
-- **Dispositivo:** se os vendedores vão usar o app no celular, no computador ou em ambos.
+- **Dispositivo:** se os vendedores vão usar o app em um dispositivo móvel (celular ou tablet), no computador ou em ambos.
 - **Login:** se haverá um login único por loja ou um login para cada vendedor.
 - **Código do vendedor:** qual será o formato do código e se ele será obrigatório ou opcional no fluxo de venda.
 
