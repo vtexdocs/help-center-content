@@ -40,12 +40,12 @@ Avalie se sua operação precisa de **Extensões** (como para programas de fidel
 
 A arquitetura técnica depende das estratégias que sua operação vai adotar com o **Sales App**. A tabela abaixo resume os principais requisitos de cada estratégia, detalhados nas seções a seguir.
 
-| Requisito | Prateleira Infinita | Ship from Store e carrinhos mistos | Loja física como ponto de retirada | Ferramenta Única de Venda (POS-like) |
-| --- | --- | --- | --- | --- |
-| Conta franquia | Opcional | Sim | Sim | {Confirmar com time} |
-| Ponto de retirada | Opcional | Sim | Sim | {Confirmar com time} |
-| Integração com ERP | Não | Sim | Recomendado | Sim |
-| Emissão de nota fiscal na loja (NFC-e/SAT) | Não | Sim | Não | Sim |
+| Requisito | Prateleira Infinita | Ship from Store | Estoque local e carrinhos mistos | Loja como ponto de retirada | Ferramenta Única de Venda |
+| --- | --- | --- | --- | --- | --- |
+| Conta franquia | Opcional | Recomendado | Sim | Sim | {Confirmar com time} |
+| Ponto de retirada | Opcional | Não | Sim | Sim | {Confirmar com time} |
+| Integração com ERP | Não | Sim | Sim | Recomendado | Sim |
+| Emissão de nota fiscal na loja (NFC-e/SAT) | Não | {Confirmar com time} | Sim | Não | Sim |
 
 ### Prateleira Infinita
 
@@ -61,21 +61,33 @@ A [Prateleira Infinita](https://help.vtex.com/pt/docs/tracks/prateleira-infinita
 - **Com arquitetura multicanal (Omnichannel) e multiestoque:** cadastre cada loja física como um estoque na conta principal. Recomendado para quem não precisa de gestão separada de preços por loja.
   - **Com contas franquia:** crie [contas franquia](https://help.vtex.com/pt/docs/tutorials/o-que-e-conta-franquia) para cada loja, elas possuem obrigatoriamente o mesmo catálogo da conta principal, mas podem ter configurações de logística próprias.
 
-### Ship from Store e carrinhos mistos
+### Ship from Store
 
-O [Ship From Store](https://help.vtex.com/pt/docs/tracks/configurar-ship-from-store) permite que o cliente receba pedidos com produtos que vieram do estoque da loja física, ou seja, a loja funciona como um pequeno centro de distribuição. Além disso, você pode associar essa estratégia à opção de carrinhos mistos (Carry Out), quando uma venda contém tanto itens para retirada em loja na hora da compra, quanto itens a serem entregues na casa do cliente.
+O [Ship from Store](https://help.vtex.com/pt/docs/tracks/configurar-ship-from-store) permite que o cliente receba em casa pedidos com produtos que saem do estoque de uma loja física. Ou seja, a loja funciona como um pequeno centro de distribuição.
 
-- **Público alvo:** lojas físicas que desejam vender produtos do estoque local, que querem habilitar compra do tipo "leve agora" e que desejam combinar em um mesmo pedido itens para entrega e retirada.
-- **O que decidir:** como garantir a integração com o ERP de forma que o inventário da loja esteja sempre atualizado.
+- **Público alvo:** marcas que querem reduzir custos e prazos de entrega usando as lojas físicas mais próximas do cliente como origem dos pedidos.
+- **O que decidir:** quais lojas farão entregas, quais transportadoras atenderão cada loja e como integrar o ERP para que o inventário da loja esteja sempre atualizado.
 
-#### Configuração de Ship from Store e carrinhos mistos
+#### Configuração do Ship from Store
+
+- **Arquitetura de conta franquia:** a VTEX recomenda criar uma [conta franquia](https://help.vtex.com/pt/docs/tutorials/o-que-e-conta-franquia) para cada loja, para que cada uma tenha sua própria logística.
+- **Configuração logística:** na conta franquia, cadastre a transportadora em uma política de envio, associe essa política a uma doca e use a doca como origem do estoque da loja.
+
+> ℹ️ Para usar o **Ship from Store**, é necessário integrar o ERP para que o inventário da loja esteja sempre atualizado.
+
+### Venda do estoque local e carrinhos mistos
+
+A [venda do estoque local](https://help.vtex.com/pt/docs/tutorials/habilitar-venda-de-estoque-local-do-vtex-sales-app) permite que o cliente leve o produto na hora da compra na loja física (venda do tipo "leve agora"). Essa estratégia pode ser combinada com carrinhos mistos (Carry Out), quando uma mesma venda contém itens que o cliente leva na hora e itens que serão entregues em sua casa a partir de outro estoque.
+
+- **Público alvo:** lojas físicas que desejam vender produtos do estoque local e combinar em um mesmo pedido itens para levar na hora e itens para entrega.
+- **O que decidir:** como integrar o ERP e o sistema fiscal da loja para que o inventário esteja sempre atualizado e a nota fiscal seja emitida no momento da venda.
+
+#### Configuração da venda do estoque local e carrinhos mistos
 
 - **Arquitetura de conta franquia:** requer [conta franquia](https://help.vtex.com/pt/docs/tutorials/o-que-e-conta-franquia) para que seja possível habilitar o estoque local da loja física como ponto de retirada.
-- **Configuração logística:** configure o [ponto de retirada com o endereço da loja física](https://help.vtex.com/pt/docs/tutorials/habilitar-venda-de-estoque-local-do-vtex-sales-app) e habilite vendas do tipo "leve agora" (`instore`).
-- **Faturamento:** integre o sistema de faturamente com o de Nota Fiscal (NFC-e/SAT) via ponto de venda (PDV) ou ERP para permitir a saída imediata do produto por meio do protocolo de integração.
+- **Configuração logística:** configure o [ponto de retirada com o endereço da loja física](https://help.vtex.com/pt/docs/tutorials/habilitar-venda-de-estoque-local-do-vtex-sales-app) e habilite vendas do tipo "leve agora" (`instore`). A venda de carrinhos mistos já vem configurada por padrão nas lojas VTEX.
+- **Faturamento:** integre o sistema de faturamento com o de nota fiscal (NFC-e/SAT) via ponto de venda (PDV) ou ERP para permitir a saída imediata do produto por meio do protocolo de integração.
 - **Conciliação:** ajuste o sistema e operacional de conciliação para garantir o fluxo correto de faturamento, de acordo com suas definições junto ao financeiro.
-
-> ℹ️ Para usar o **Ship from Store**, é necessário integrar o ERP para que o inventário da loja esteja sempre atualizado e a emissão de nota fiscal (NFC-e) seja permitida.
 
 ### Loja física como ponto de retirada
 
