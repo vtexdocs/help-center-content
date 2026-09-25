@@ -23,15 +23,15 @@ Na página **Créditos**, você encontra as seguintes informações:
   - **Taxa de consumo**: percentual do crédito acumulado que foi consumido no período. Como o crédito não utilizado continua acumulando para os meses seguintes, quanto mais baixo esse percentual, maior a folga do seu saldo em relação ao consumo de Master Data.
 - **Extrato de crédito**: extrato mês a mês com saldo inicial, crédito gerado, valor usado, valor expirado e saldo final. Clique no ícone `>` de um mês para expandir a linha e ver os lançamentos individuais daquele período (data, descrição, valor de crédito e saldo atualizado). Se houve consumo de Master Data no mês, a linha expandida também exibe a seção **Consumo por add-on** no canto inferior esquerdo da tela, com um card por add-on consumido.
 
-### Detalhamento por Master Data
+### Consumo de Master Data
 
 ![creditos-master-data-pt](https://cdn.jsdelivr.net/gh/vtexdocs/help-center-content@main/docs/pt/tutorials/admin-vtex/informacoes-de-faturamento/creditos/creditos-master-data-pt.png)
 
-Para abrir o detalhamento por Master Data, expanda a linha de um mês no **Extrato de crédito** e, na seção **Consumo por add-on**, no canto inferior esquerdo da tela, clique no card **Master Data**. Isso abre um painel lateral com:
+Para ver o consumo de Master Data, expanda a linha de um mês no **Extrato de crédito** e, na seção **Consumo por add-on**, no canto inferior esquerdo da tela, clique no card **Master Data**. Isso abre um painel lateral com:
 
 - **Custo estimado para o próximo ciclo**: custo bruto de Master Data no próximo ciclo, calculado com base no volume de documentos armazenados na última atualização do dashboard (semanal) — antes de aplicar o crédito da Carteira de Crédito.
-- **Cobertura de crédito**: percentual do custo estimado de Master Data para o próximo ciclo que é coberto pelo saldo atual da Carteira de Crédito. Se for menor que 100%, a diferença é cobrada na fatura.
+- **Cobertura pelo crédito**: percentual do custo estimado de Master Data para o próximo ciclo que é coberto pelo saldo atual da Carteira de Crédito. Se for menor que 100%, a diferença é cobrada na fatura.
 - **Documentos armazenados**: volume atual de documentos e o tier de preço correspondente.
 - **Volume de documentos** (gráfico): volume de documentos armazenados por mês. A barra do mês corrente mostra o acumulado até a última atualização do dashboard (última segunda-feira), não o volume final do mês — diferente das barras de meses já fechados, que mostram o total definitivo daquele mês.
 
-> ℹ️ Diferente da **Cobertura estimada para o consumo atual** da página geral, que projeta em meses a duração do saldo total, a **Cobertura de crédito** do Master Data indica apenas se o saldo cobre 100% do custo no ciclo atual ou se haverá cobrança adicional.
+> ℹ️ Diferente da **Cobertura estimada para o consumo atual** da página geral, que projeta em meses a duração do saldo total, a **Cobertura pelo crédito** do Master Data indica apenas se o saldo cobre 100% do custo no ciclo atual ou se haverá cobrança adicional.

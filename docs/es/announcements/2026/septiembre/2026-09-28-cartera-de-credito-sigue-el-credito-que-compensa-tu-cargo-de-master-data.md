@@ -24,7 +24,7 @@ En la página **Créditos** encontrarás:
 - **Cobertura estimada para el consumo actual**: estimación de cuántos meses cubriría el saldo actual, manteniendo el ritmo de consumo reciente.
 - **Resumen anual de crédito**: total de crédito generado y utilizado en el período (**Entradas y salidas**) y el porcentaje del crédito acumulado que fue consumido (**Tasa de consumo**).
 - **Estado de cuenta de crédito**: estado de cuenta mes a mes con saldo inicial, crédito generado, valor utilizado, valor vencido y saldo final.
-- **Desglose por Master Data**: coste estimado para el próximo ciclo, porcentaje de ese coste cubierto por el crédito, volumen de documentos almacenados y el nivel de precios correspondiente.
+- **Consumo de Master Data**: coste estimado para el próximo ciclo, porcentaje de ese coste cubierto por el crédito, volumen de documentos almacenados y el nivel de precios correspondiente.
 
 La página también explica cómo se forma y consume el crédito: cada mes, VTEX suma todo lo que la empresa — es decir, todas las cuentas agrupadas bajo ella para fines de facturación — pagó a VTEX el mes anterior y concede, al mes siguiente, un crédito equivalente al 2% de ese total. Este crédito se aplica exclusivamente para descontar el cobro de Master Data, y el saldo no utilizado continúa acumulándose hasta el final del ciclo contractual vigente.
 
