@@ -1,10 +1,10 @@
 ---
-title: 'Definir a arquitetura da operação do VTEX Sales App'
+title: 'Definir a arquitetura da conta para o VTEX Sales App'
 createdAt: 2026-09-25T00:00:00.000Z
 updatedAt: 2026-09-25T00:00:00.000Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: define-the-vtex-sales-app-operation-architecture
+slugEN: define-the-vtex-sales-app-account-architecture
 locale: pt
 trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 3
