@@ -13,9 +13,9 @@ Antes de configurar o **Sales App**, o sucesso da operação depende de uma base
 
 Antes de iniciar a implementação, é importante que sua empresa passe por estas quatro etapas decisórias:
 
-- **Definir os casos de uso do Sales App:** principais situações nas quais o aplicativo será utiizado.
-- **Definir a arquitetura técnica:** qual será a estrutura destinada para o **Sales App**, incluindo se existem contas franquias associadas à conta principal, quais políticas comerciais serão utilizadas, quais estoques estarão ativos e quais centros de distribuição (CDs) estarão ativos.
-- **Definir a operação de vendas:** definir como os vendedores irão usar o app. Quais serão os níveis de acesso, quais funcionalidades estarão liberadas e como será o plano de treinamento. Um ponto crucial é o modelo de comissionamento para lojas: em operações omnichannel, o engajamento depende de como a venda feita na loja (mas entregue pelo ecommerce) será creditada para motivar a equipe.  
+- **Definir os casos de uso do Sales App:** principais situações nas quais o aplicativo será utilizado.
+- **Definir a arquitetura técnica:** qual será a estrutura destinada para o **Sales App**, incluindo se existem contas franquias associadas à conta principal, quais políticas comerciais serão utilizadas, quais estoques estarão ativos, quais centros de distribuição (CDs) estarão ativos e se as lojas físicas terão preços próprios.
+- **Definir a operação de vendas:** como os vendedores vão acessar e usar o app, quais ações poderão realizar e como as vendas serão acompanhadas. Um ponto crucial é o modelo de comissionamento para lojas: em operações omnichannel, o engajamento depende de como a venda feita na loja (mas entregue pelo ecommerce) será creditada para motivar a equipe.
 - **Definir as configurações de pagamento:** decida quais bandeiras e tipos de pagamento (PIX, Cartão, Link, Dinheiro) serão aceitos. Lembre-se que isso pode exigir a contratação e homologação de provedores e adquirentes específicos para a operação física.
 
 > ℹ️ Se a arquitetura da sua conta for complexa ou exigir recursos customizados, para obter mais eficiência e garantir a segurança na implementação, considere contratar o time de Professional Services da VTEX.
@@ -114,43 +114,50 @@ A [venda do estoque local](https://help.vtex.com/pt/docs/tutorials/habilitar-ven
 - **Faturamento:** integre o sistema de faturamento com o de nota fiscal (NFC-e/SAT) via ponto de venda (PDV) ou ERP para permitir a saída imediata do produto por meio do protocolo de integração.
 - **Conciliação:** ajuste o sistema e operacional de conciliação para garantir o fluxo correto de faturamento, de acordo com suas definições junto ao financeiro.
 
+### Preços nas lojas físicas
+
+Independentemente da estratégia escolhida, recomendamos que as lojas físicas herdem os preços do ecommerce. Se sua operação precisar de preços diferenciados por loja, considere os seguintes pontos:
+
+- **Regionalização do catálogo:** é necessário envolver uma agência parceira para regionalizar o catálogo.
+- **Comparadores de preço:** podem ser impactados, pois recebem apenas um valor por produto.
+- **Marketplaces:** as vendas podem ser impactadas pelo mesmo motivo, já que os marketplaces também recebem apenas um valor por produto.
+
 ## Definir a operação de vendas
 
-1. Para acompanhar a performance das vendas de cada colaborador e loja, você pode:  
-   1. Acompanhar pelo próprio Sales App, ativando a performance de vendas e recomendando ao seus colaboradores acompanhem pelo próprio app suas métricas básica  
-   2. Utilize os campos no pedido \[link\] para integrar os pedidos com seus sistemas internos e cálculo de comissionamento.&nbsp;  
-2. Defina com as áreas internas, lojas próprias e franquias como será o comissionamento pelas vendas omni e como elas entrarão nas metas e repasse de lojas, franquias, gerentes e vendedores.&nbsp;  
-   1. Essa definição não impacta na configuração na VTEX ou nas capacidades oferecidas pelo Sales App, mas ter uma definição clara é essencial tanto para o setup correto de sua operação, modelo de repasse e também impacta no engajamento do time com a plataforma&nbsp;  
-3. Defina como será o uso da plataforma nas lojas e pelos vendedores: Uso no mobile ou no desktop, um login único por loja ou por usuário?&nbsp;  
-   1. De acordo com essas definições registre os usuários e lojas de acordo com a definição e registro o formato do código do vendedor, decidindo se é opcional ou obrigatório no fluxo.&nbsp;  
-4. Defina o que vendedores podem fazer com o Sales App em mãos. Existem configurações que você pode habilitar/desabilitar durante o uso do app. Cada uma delas possui uma forma de ativação diferente, mas que podem ajudar na sua operação, essa configurações como:  
-   1. Aplicar preço manual  
-   2. Forçar estoque local  
-   3. Cancelar pedido  
-   4. Visualizar a sua performance de vendas  
-   5. Visualizar a performance de vendas dos demais vendedores
+Com a arquitetura definida, decida como os vendedores vão usar o **Sales App** no dia a dia e como as vendas serão acompanhadas.
+
+### Acesso ao app
+
+- **Dispositivo:** se os vendedores vão usar o app no celular, no computador ou em ambos.
+- **Login:** se haverá um login único por loja ou um login para cada vendedor.
+- **Código do vendedor:** qual será o formato do código e se ele será obrigatório ou opcional no fluxo de venda.
+
+Com essas definições, cadastre os usuários e as lojas.
+
+### Permissões dos vendedores
+
+Você pode habilitar ou desabilitar algumas ações dos vendedores no app. Cada configuração tem uma forma de ativação própria. As principais são:
+
+- Aplicar preço manual.
+- Forçar estoque local.
+- Cancelar pedido.
+- Visualizar a própria performance de vendas.
+- Visualizar a performance de vendas dos demais vendedores.
+
+### Performance e comissionamento
+
+- **Acompanhamento no app:** ative a performance de vendas para que os vendedores acompanhem suas métricas básicas no próprio **Sales App**.
+- **Integração com sistemas internos:** use os campos do pedido \[link\] para enviar os dados de venda aos seus sistemas internos e calcular o comissionamento.
+- **Modelo de comissionamento:** defina com as áreas internas, lojas próprias e franquias como as vendas omnichannel entrarão nas metas e no repasse de lojas, franquias, gerentes e vendedores. Essa definição não depende de configuração na VTEX, mas é essencial para o modelo de repasse e para o engajamento da equipe com o app.
 
 ## Definir as configurações de pagamento
 
-Antes de instalar o Sales App, você precisa definir os métodos de pagamentos que irá habilitar no seu fluxo. Importante que parte desses fluxos;  
+Defina quais métodos de pagamento estarão disponíveis no **Sales App**. Alguns métodos reaproveitam configurações do ecommerce, enquanto outros exigem a contratação de parceiros ou integrações.
 
-   1. Irá operar com social selling / link compartilhado?&nbsp;  
-      1. Esse método utiliza o checkout do seu ecommerce e deve ser configurado seguindo o tutorial \[link\]  
-   2. Irá operar com PIX?  
-      1. Esse método usará o mesmo gateway do ecommerce.&nbsp;  
-   3. Irá operar com dinheiro?  
-      1. Controle de pagamentos por fora da solução, utilizando promissória como método.  
-   4. Pagamentos com adquirentes já homologados  
-      1. Necessário contratação do parceiro disponível na sua região , configuração das máquinas, configuração do provedor na sua conta principal, e testes&nbsp;  
-   5. Pagamentos não integrados, com promissória.  
-      1. Exige integração com sistema externos (PDVs, ERPs) para receber a confirmação do pagamento&nbsp;&nbsp;  
-         1. Quando usar: casos de cartão private label, métodos de pagamentos já consolidados na sua loja. Esse modelo está em Closed Beta. Para saber mais procure o time de Sales App.
+- **Link de pagamento (social selling):** usa o checkout do ecommerce. Para configurá-lo, siga o tutorial \[link\].
+- **PIX:** usa o mesmo gateway de pagamento do ecommerce.
+- **Dinheiro:** o pagamento é controlado fora da plataforma, e o pedido é registrado com o método promissória.
+- **Adquirentes homologados:** exige contratar um parceiro disponível na sua região, configurar as maquininhas, configurar o provedor na conta principal e realizar testes.
+- **Pagamentos não integrados:** usam o método promissória e exigem integração com sistemas externos, como PDV ou ERP, para receber a confirmação do pagamento. São indicados para cartões private label ou métodos de pagamento já consolidados na loja. Esse modelo está em Closed Beta. Para saber mais, procure o time do **Sales App**.
 
-> ℹ️ Recomendação geral: ativar o módulo **Checkout v6**. Leia o artigo [Como ativar o Checkout v6](/pt/docs/tutorials/ativar-o-checkout-v6) para mais informações.
-
-### Preços diferenciados
-
-- Preços: recomendamos que suas lojas físicas herdem os preços do ecommerce. No entanto, se você optar por ter preços diferenciados, considere os requisitos e observações abaixo.
-  - É necessário envolver uma agência parceira para regionalizar o catálogo.
-  - Isso pode impactar as ferramentas de comparação de preços, pois eles recebem apenas um valor.
-  - Isso pode impactar nas vendas em marketplaces, pois eles também recebem apenas um valor.
+> ℹ️ Recomendamos ativar o módulo **Checkout v6**. Leia o artigo [Como ativar o Checkout v6](/pt/docs/tutorials/ativar-o-checkout-v6) para mais informações.
