@@ -16988,12 +16988,12 @@
                     {
                       "name": {
                         "en": "Checking Credit Wallet",
-                        "es": "Consultar la Cartera de Crédito",
+                        "es": "Consultar Cartera de Crédito",
                         "pt": "Consultar Carteira de Crédito"
                       },
                       "slug": {
                         "en": "checking-credit-wallet",
-                        "es": "consultar-la-cartera-de-credito",
+                        "es": "consultar-cartera-de-credito",
                         "pt": "consultar-carteira-de-credito"
                       },
                       "origin": "",
@@ -39472,6 +39472,21 @@
                 "en": "b2b-organization-dont-consider-accounts-using-geolocation-when-registering-address",
                 "es": "las-organizaciones-b2b-no-tienen-en-cuenta-la-geolocalizacion-a-la-hora-de-registrar-las-direcciones-de-las-cuentas",
                 "pt": "as-organizacoes-b2b-nao-levam-em-conta-a-localizacao-geografica-ao-registrar-enderecos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "B2B Organizations always deletes last registered address when deleting addresses in the storefront",
+                "es": "Las organizaciones B2B siempre eliminan la última dirección registrada al eliminar direcciones en la tienda online.",
+                "pt": "Organizações B2B sempre excluem o último endereço cadastrado ao remover endereços da loja virtual."
+              },
+              "slug": {
+                "en": "b2b-organizations-always-deletes-last-registered-address-when-deleting-addresses-in-the-storefront",
+                "es": "las-organizaciones-b2b-siempre-eliminan-la-ultima-direccion-registrada-al-eliminar-direcciones-en-la-tienda-online",
+                "pt": "organizacoes-b2b-sempre-excluem-o-ultimo-endereco-cadastrado-ao-remover-enderecos-da-loja-virtual"
               },
               "origin": "",
               "type": "markdown",
