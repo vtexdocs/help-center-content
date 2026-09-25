@@ -21,7 +21,7 @@ docs/pt/tutorials/*/metadata.json
 
 Out:
 
-- Nested files (`docs/.../tutorials/*/**/metadata.json`) — use `reorder-tutorial-subcategories` for children of a parent category
+- Nested files (`docs/.../tutorials/*/**/metadata.json`)
 - `id`, `name`, `slug`, markdown, frontmatter, folder moves
 
 Apply to **all three locales** unless the user restricts the scope.
