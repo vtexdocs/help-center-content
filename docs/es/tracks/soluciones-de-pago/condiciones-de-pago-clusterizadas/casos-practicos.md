@@ -1,10 +1,10 @@
 ---
 title: 'Casos prácticos'
 id: 5k74U1EJm6FzirFczMYHBk
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-11-18T13:40:47.138Z
-updatedAt: 2020-11-18T17:37:59.283Z
-publishedAt: 2020-11-18T17:37:59.283Z
+updatedAt: 2026-09-25T17:52:00.000Z
+publishedAt: 
 firstPublishedAt: 2020-11-18T17:37:59.283Z
 contentType: trackArticle
 productTeam: Financial
@@ -13,6 +13,7 @@ locale: es
 trackId: 1LqUFHQZ3ZQyV5TmugbGNm
 trackSlugEN: condiciones-de-pago-clusterizadas
 order: 4
+hidden: true
 ---
 
 Aquí daremos algunos ejemplos prácticos de cómo funcionan las condiciones de clusterización.
