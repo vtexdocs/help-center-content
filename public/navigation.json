@@ -16398,69 +16398,6 @@
       "categories": [
         {
           "name": {
-            "en": "Admin VTEX",
-            "es": "Admin VTEX",
-            "pt": "Admin VTEX"
-          },
-          "slug": {
-            "en": "admin-vtex",
-            "es": "admin-vtex",
-            "pt": "admin-vtex-subcategoria"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Informações de faturamento",
-                "es": "Informações de faturamento",
-                "pt": "Informações de faturamento"
-              },
-              "slug": {
-                "en": "informacoes-de-faturamento",
-                "es": "informacoes-de-faturamento",
-                "pt": "informacoes-de-faturamento-categoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Crédito",
-                    "es": "Crédito",
-                    "pt": "Crédito"
-                  },
-                  "slug": {
-                    "en": "credito",
-                    "es": "credito",
-                    "pt": "credito-subcategoria"
-                  },
-                  "origin": "",
-                  "type": "category",
-                  "children": [
-                    {
-                      "name": {
-                        "pt": "Consultar Carteira de Crédito",
-                        "en": "Consultar Carteira de Crédito",
-                        "es": "Consultar Carteira de Crédito"
-                      },
-                      "slug": {
-                        "pt": "consultar-carteira-de-credito",
-                        "en": "",
-                        "es": ""
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": {
             "en": "VTEX Admin",
             "es": "Admin VTEX",
             "pt": "Admin VTEX"
@@ -17127,18 +17064,33 @@
                 },
                 {
                   "name": {
-                    "en": "Credit",
-                    "es": "Crédito",
-                    "pt": "Crédito"
+                    "en": "Credits",
+                    "es": "Créditos",
+                    "pt": "Créditos"
                   },
                   "slug": {
-                    "en": "credit-subcategory",
-                    "es": "credito-subcategoria",
-                    "pt": "credito-subcategoria"
+                    "en": "credits-subcategory",
+                    "es": "creditos-subcategoria",
+                    "pt": "creditos-subcategoria"
                   },
                   "origin": "",
                   "type": "category",
                   "children": [
+                    {
+                      "name": {
+                        "en": "Checking Credit Wallet",
+                        "es": "Consultar la Cartera de Crédito",
+                        "pt": "Consultar Carteira de Crédito"
+                      },
+                      "slug": {
+                        "en": "checking-credit-wallet",
+                        "es": "consultar-la-cartera-de-credito",
+                        "pt": "consultar-carteira-de-credito"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
                     {
                       "name": {
                         "en": "Credit Wallet",
@@ -66636,6 +66588,21 @@
                 "en": "number-of-itens-on-pricing-filter-does-not-correspond-to-correct-number",
                 "es": "el-numero-de-itens-en-el-filtro-de-precios-no-se-corresponde-con-el-numero-correcto",
                 "pt": "o-numero-de-itens-no-filtro-de-precos-nao-corresponde-ao-numero-correto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Opt-in promotions can be configured with White Label sellers via API",
+                "es": "Las promociones de suscripción voluntaria se pueden configurar con vendedores de marca blanca a través de la API.",
+                "pt": "As promoções de adesão opcional podem ser configuradas com vendedores de marca branca via API."
+              },
+              "slug": {
+                "en": "optin-promotions-can-be-configured-with-white-label-sellers-via-api",
+                "es": "las-promociones-de-suscripcion-voluntaria-se-pueden-configurar-con-vendedores-de-marca-blanca-a-traves-de-la-api",
+                "pt": "as-promocoes-de-adesao-opcional-podem-ser-configuradas-com-vendedores-de-marca-branca-via-api"
               },
               "origin": "",
               "type": "markdown",
