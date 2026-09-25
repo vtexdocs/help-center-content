@@ -3,7 +3,7 @@ title: 'Informações de faturamento'
 id: 6UxfCl4fw4GmyQwoUuIcQs
 status: PUBLISHED
 createdAt: 2018-05-17T20:22:30.358Z
-updatedAt: 2026-08-11T00:00:00.000Z
+updatedAt: 2026-09-28T00:00:00.000Z
 publishedAt: 2025-09-04T20:02:13.442Z
 firstPublishedAt: 2018-05-17T20:24:17.809Z
 contentType: tutorial
@@ -26,6 +26,7 @@ Para acessar essa página, clique no seu avatar — identificado pela inicial do
 - [Faturas](#faturas)
 - [Dados cadastrais](#dados-cadastrais)
 - [Contatos de faturamento](contatos-de-faturamento)
+- [Créditos](#creditos)
 
 ![visao-geral-informacoes-de-faturamento](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/admin-vtex/informacoes-de-faturamento/visao-geral-informacoes-de-faturamento-1.png)
 
@@ -48,3 +49,7 @@ A página **Dados cadastrais** reúne as informações que você inseriu ao cada
 ## Contatos de faturamento
 
 A página **Contatos de faturamento** reúne os dados do usuário proprietário do ambiente VTEX. Esses são os contatos que receberão as faturas no momento da emissão, bem como todas as comunicações financeiras da sua conta. Você pode editar esses dados e adicionar novos contatos.
+
+## Créditos
+
+A página **Créditos** exibe o saldo e o consumo da sua [Carteira de Crédito](/pt/docs/tutorials/carteira-de-credito). Esse crédito de faturamento é concedido automaticamente à sua empresa e usado para abater a cobrança de Master Data.

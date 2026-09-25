@@ -3,7 +3,7 @@ title: 'Billing'
 id: 6UxfCl4fw4GmyQwoUuIcQs
 status: PUBLISHED
 createdAt: 2018-05-17T20:22:30.358Z
-updatedAt: 2026-08-11T00:00:00.000Z
+updatedAt: 2026-09-28T00:00:00.000Z
 publishedAt: 2025-09-04T20:02:13.442Z
 firstPublishedAt: 2018-05-17T20:24:17.809Z
 contentType: tutorial
@@ -26,6 +26,7 @@ To access this module in the VTEX Admin, click your avatar, identified by your e
 - [Invoices](#invoices)
 - [Registration data](#registration-information)
 - [Billing contacts](#billing-contacts)
+- [Credit](#credit)
 
 ![billing-module-overview](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-admin/billing/billing-module-overview-1.png)
 
@@ -48,3 +49,7 @@ The **Registration Information** page includes the data you entered when registe
 ## Billing Contacts
 
 The **Billing Contacts** page contains the details of the user who owns the VTEX environment. These are the contacts who will receive the invoices upon issuance, as well as all financial communications regarding your account. You can edit their information and add new contacts.
+
+## Credit
+
+The **Credits** page displays the balance and usage of your [Credit Wallet](/en/docs/tutorials/credit-wallet). This billing credit is automatically granted to your company and used to offset Master Data charges.
