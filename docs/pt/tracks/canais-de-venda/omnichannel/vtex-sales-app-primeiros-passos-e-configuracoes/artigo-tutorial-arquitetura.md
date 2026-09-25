@@ -154,7 +154,7 @@ Você pode habilitar ou desabilitar algumas ações dos vendedores no app. Cada 
 
 Defina quais métodos de pagamento estarão disponíveis no **Sales App**. Alguns métodos reaproveitam configurações do ecommerce, enquanto outros exigem a contratação de parceiros ou integrações.
 
-- **Link de pagamento (social selling):** usa o checkout do ecommerce. Para configurá-lo, siga o tutorial \[link\].
+- **Link de pagamento (social selling):** usa o checkout do ecommerce. Para configurá-lo, siga o tutorial [Como ativar o app Carrinho Compartilhável (Social Selling)](https://help.vtex.com/pt/docs/tutorials/como-ativar-o-app-carrinho-compartilhavel).
 - **PIX:** usa o mesmo gateway de pagamento do ecommerce.
 - **Dinheiro:** o pagamento é controlado fora da plataforma, e o pedido é registrado com o método promissória.
 - **Adquirentes homologados:** exige contratar um parceiro disponível na sua região, configurar as maquininhas, configurar o provedor na conta principal e realizar testes.
