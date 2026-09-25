@@ -43021,13 +43021,13 @@
             {
               "name": {
                 "en": "Product returning as unavailable even with stock in a whitelabel seller",
-                "es": "El producto aparece como agotado aunque haya existencias en un vendedor de marca blanca",
-                "pt": "O produto aparece como indisponível mesmo havendo estoque em um vendedor de marca branca"
+                "es": "El producto aparece como no disponible incluso con existencias en un vendedor de marca blanca.",
+                "pt": "O produto está sendo devolvido como indisponível, mesmo havendo estoque em um vendedor de marca branca."
               },
               "slug": {
                 "en": "product-returning-as-unavailable-even-with-stock-in-a-whitelabel-seller",
-                "es": "el-producto-aparece-como-agotado-aunque-haya-existencias-en-un-vendedor-de-marca-blanca",
-                "pt": "o-produto-aparece-como-indisponivel-mesmo-havendo-estoque-em-um-vendedor-de-marca-branca"
+                "es": "el-producto-aparece-como-no-disponible-incluso-con-existencias-en-un-vendedor-de-marca-blanca",
+                "pt": "o-produto-esta-sendo-devolvido-como-indisponivel-mesmo-havendo-estoque-em-um-vendedor-de-marca-branca"
               },
               "origin": "",
               "type": "markdown",
@@ -51494,6 +51494,21 @@
                 "en": "cart-does-not-update-in-faststore-if-external-request-is-made-to-update-orderform",
                 "es": "el-carrito-no-se-actualiza-en-faststore-si-se-realiza-una-solicitud-externa-para-actualizar-el-formulario-de-pedido",
                 "pt": "o-carrinho-nao-e-atualizado-no-faststore-se-for-feita-uma-solicitacao-externa-para-atualizar-o-formulario-de-pedido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Custom domain moved between FastStore projects keeps routing to the previous account",
+                "es": "El dominio personalizado movido entre proyectos de FastStore sigue redirigiendo a la cuenta anterior.",
+                "pt": "O domínio personalizado movido entre projetos FastStore continua redirecionando para a conta anterior."
+              },
+              "slug": {
+                "en": "custom-domain-moved-between-faststore-projects-keeps-routing-to-the-previous-account",
+                "es": "el-dominio-personalizado-movido-entre-proyectos-de-faststore-sigue-redirigiendo-a-la-cuenta-anterior",
+                "pt": "o-dominio-personalizado-movido-entre-projetos-faststore-continua-redirecionando-para-a-conta-anterior"
               },
               "origin": "",
               "type": "markdown",
