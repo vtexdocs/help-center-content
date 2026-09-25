@@ -84,7 +84,7 @@ O [Ship from Store](/pt/docs/tracks/configurar-ship-from-store) permite que o cl
 #### Configuração do Ship from Store
 
 - **Arquitetura de conta franquia:** a VTEX recomenda criar uma [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia) para cada loja, para que cada uma tenha sua própria logística.
-- **Configuração logística:** na conta franquia, cadastre a transportadora em uma política de envio, associe essa política a uma doca e use a doca como origem do estoque da loja.
+- **Configuração logística:** na conta franquia, cadastre a transportadora em uma [política de envio](/pt/docs/tutorials/politica-de-envio), associe essa política a uma doca e use a doca como origem do estoque da loja.
 
 > ℹ️ Para usar o **Ship from Store**, é necessário integrar o ERP para que o inventário da loja esteja sempre atualizado.
 
