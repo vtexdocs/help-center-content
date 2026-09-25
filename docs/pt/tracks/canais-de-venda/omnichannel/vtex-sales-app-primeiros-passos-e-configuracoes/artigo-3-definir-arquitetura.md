@@ -1,13 +1,51 @@
 ---
-title: 'Definir arquitetura da operação para o Sales App'
-status: PUBLISHED
-createdAt: 2026-09-18T00:00:00.000Z
-updatedAt: 2026-09-18T00:00:00.000Z
+title: 'Definir a arquitetura da operação do VTEX Sales App'
+createdAt: 2026-09-25T00:00:00.000Z
+updatedAt: 2026-09-25T00:00:00.000Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: XXXXXX
+slugEN: define-the-vtex-sales-app-operation-architecture
 locale: pt
 trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 3
 ---
 
+Antes de instalar o **VTEX Sales App**, defina quais estratégias [omnichannel](/pt/docs/tracks/comercio-unificado-101) sua operação vai adotar. Essa decisão determina as configurações que sua conta precisa ter antes de seguir para as próximas etapas desta trilha, como contas franquia, pontos de retirada e integração com o ERP.
+
+Este artigo resume essas configurações. Para entender em detalhes cada estratégia e as demais decisões da implementação, como casos de uso, operação de vendas e pagamentos, leia o guia [Planejar a implementação do VTEX Sales App](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app).
+
+## Configurações por estratégia
+
+A tabela abaixo mostra o que cada estratégia exige da sua conta. Se sua operação combinar mais de uma estratégia, siga os requisitos da mais exigente.
+
+| Requisito | Prateleira Infinita | Ship from Store | Retirada em loja | Venda do estoque local e carrinhos mistos |
+| --- | --- | --- | --- | --- |
+| Conta franquia | Opcional | Recomendado | Sim | Sim |
+| Ponto de retirada | Opcional | Não | Sim | Sim |
+| Integração com ERP | Não | Sim | Recomendado | Sim |
+| Emissão de nota fiscal na loja (NFC-e/SAT) | Não | {Confirmar com time} | Não | Sim |
+
+Veja a seguir o que configurar em cada caso:
+
+- **[Prateleira Infinita](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app#prateleira-infinita):** basta ter o **Sales App** instalado na conta principal. Para vender a partir do estoque das lojas físicas, cadastre cada loja como um estoque na conta principal ou crie uma conta franquia para cada loja.
+- **[Ship from Store](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app#ship-from-store):** crie uma conta franquia para cada loja que fará entregas, com política de envio e doca próprias, e integre o ERP para manter o inventário da loja atualizado.
+- **[Retirada em loja](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app#retirada-em-loja):** crie uma conta franquia para cada loja que funcionará como ponto de retirada e, nessa conta, cadastre o [ponto de retirada](/pt/docs/tutorials/pontos-de-retirada) conectado ao estoque da loja.
+- **[Venda do estoque local e carrinhos mistos](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app#venda-do-estoque-local-e-carrinhos-mistos):** use a mesma base da retirada em loja e integre o ERP e o sistema fiscal para emitir a nota fiscal no momento da venda.
+
+> ℹ️ Para usar a retirada em loja e os carrinhos mistos, recomendamos ativar o **Checkout v6**. Para mais informações, leia o artigo [Como ativar o Checkout v6](/pt/docs/tutorials/ativar-o-checkout-v6).
+
+## Contas franquia
+
+Se a estratégia escolhida exigir [contas franquia](/pt/docs/tutorials/o-que-e-conta-franquia), crie essas contas antes de seguir para a instalação. Para isso, abra um ticket para o [Suporte VTEX](https://help.vtex.com/pt/support).
+
+Cada conta franquia representa uma loja física e tem um Admin VTEX próprio, com configurações de logística independentes, mas herda o catálogo da conta principal. O **Sales App** é instalado apenas na conta principal e busca nas contas franquia as informações de estoque e entrega de cada loja.
+
+> ⚠️ Cada conta franquia deve ter um CNPJ diferente para que o pagamento dos pedidos funcione corretamente.
+
+## Preços nas lojas físicas
+
+Recomendamos que as lojas físicas herdem os preços do ecommerce. Preços diferenciados por loja exigem a regionalização do catálogo com uma agência parceira e podem impactar comparadores de preço e marketplaces, que recebem apenas um valor por produto. Saiba mais em [Preços nas lojas físicas](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app#precos-nas-lojas-fisicas).
+
+> ℹ️ Se a arquitetura da sua conta for complexa ou exigir recursos customizados, considere contratar o time de Professional Services da VTEX para obter mais eficiência e segurança na implementação.
+
+Com a arquitetura definida e as configurações necessárias concluídas, siga para o próximo artigo desta trilha.
