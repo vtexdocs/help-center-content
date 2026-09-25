@@ -418,7 +418,13 @@ In the **Action** column, all Headless CMS (Legacy) events also display the foll
 | Action | Event details | Event description |
 |---|---|---|
 | Update Seller | Change in a seller. | Seller ID. |
-| Save Seller | Seller creation. | Seller ID. |
+| Create Seller | Seller creation. | Seller ID. |
+| Update Commissions | Update of seller commissions. | Seller ID and commission ID. |
+| Delete Commission | Deletion of a seller commission. | Commission ID. |
+| Create Group | Creation of a seller group. | Group ID. |
+| Update Group | Update of a seller group. | Group ID. |
+| Delete Group | Deletion of a seller group. | Group ID. |
+| Update Sales Channel Mapping | Update of the sales channel mapping for a seller. | Seller ID and sales channel ID. |
 
 ## Site Editor
 
@@ -502,4 +508,3 @@ In the **Action** column, all Headless CMS (Legacy) events also display the foll
 | DelegationRevoked | Revocation of a delegation before its end date. | Delegation ID. |
 | ImpersonationSuccess | Successful impersonation of a user through an on-behalf-of (OBO) token exchange. | Original user ID, delegate user ID, impersonation type, delegation ID, and organizational unit ID. |
 | ImpersonationFailed | Failed attempt to impersonate a user through an on-behalf-of (OBO) token exchange. | Original user ID, delegate user ID, impersonation type, delegation ID, organizational unit ID, and failure reason. |
-

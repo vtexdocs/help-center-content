@@ -419,7 +419,13 @@ Na coluna **Ação**, todos os eventos do Headless CMS (Legacy) também apresent
 | Ação | Descrição do evento | Detalhes do evento |
 |---|---|---|
 | Update Seller | Edição de um seller. | ID do seller. |
-| Save Seller | Criação de um novo seller. | ID do seller. |
+| Create Seller | Criação de um seller. | ID do seller. |
+| Update Commissions | Atualização das comissões de um seller. | ID do seller e ID da comissão. |
+| Delete Commission | Exclusão de uma comissão de seller. | ID da comissão. |
+| Create Group | Criação de um grupo de sellers. | ID do grupo. |
+| Update Group | Atualização de um grupo de sellers. | ID do grupo. |
+| Delete Group | Exclusão de um grupo de sellers. | ID do grupo. |
+| Update Sales Channel Mapping | Atualização do mapeamento de canal de vendas de um seller. | ID do seller e ID do canal de vendas. |
 
 ## Site Editor
 
@@ -503,4 +509,3 @@ Na coluna **Ação**, todos os eventos do Headless CMS (Legacy) também apresent
 | DelegationRevoked | Revogação de uma delegação antes da data de término. | ID da delegação. |
 | ImpersonationSuccess | Impersonação bem-sucedida de um usuário por meio de uma troca de token on-behalf-of (OBO). | ID do usuário original, ID do usuário delegado, tipo de impersonação, ID da delegação e ID da unidade organizacional. |
 | ImpersonationFailed | Tentativa de impersonação de um usuário, por meio de uma troca de token on-behalf-of (OBO), que falhou. | ID do usuário original, ID do usuário delegado, tipo de impersonação, ID da delegação, ID da unidade organizacional e motivo da falha. |
-
