@@ -156,8 +156,8 @@ Defina quais métodos de pagamento estarão disponíveis no **Sales App**. Algun
 
 - **Link de pagamento (social selling):** usa o checkout do ecommerce. Para configurá-lo, siga o tutorial [Como ativar o app Carrinho Compartilhável (Social Selling)](/pt/docs/tutorials/como-ativar-o-app-carrinho-compartilhavel).
 - **Pix:** usa o mesmo gateway de pagamento do ecommerce.
-- **Dinheiro:** o pagamento é controlado fora da plataforma, e o pedido é registrado com o método **Promissória**.
+- **Dinheiro:** o pagamento é controlado fora da plataforma, e o pedido é registrado com o método promissória.
 - **Adquirentes homologados:** exigem contratar um parceiro disponível na sua região, configurar os terminais de pagamento (maquininhas), configurar o provedor na conta principal e realizar testes.
-- **Pagamentos não integrados:** usam o método **Promissória** e exigem integração com sistemas externos, como PDV ou ERP, para receber a confirmação do pagamento. São indicados para cartões private label ou métodos de pagamento já consolidados na loja. Esse modelo está em beta fechado. Para saber mais, entre em contato com o time do **Sales App**.
+- **Pagamentos não integrados:** usam o método promissória e exigem integração com sistemas externos, como PDV ou ERP, para receber a confirmação do pagamento. São indicados para cartões private label ou métodos de pagamento já consolidados na loja. Esse modelo está em beta fechado. Para saber mais, entre em contato com o time do **Sales App**.
 
 > ℹ️ Recomendamos ativar o módulo **Checkout v6**. Leia o artigo [Como ativar o Checkout v6](/pt/docs/tutorials/ativar-o-checkout-v6) para mais informações.
