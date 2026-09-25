@@ -11,7 +11,7 @@ subcategoryId: credit-wallet
 
 Para acceder a Cartera de crédito, haz clic en tu avatar — identificado por la inicial de tu email — en la esquina superior derecha de la pantalla. Luego, haz clic en **Información de facturación > Créditos**.
 
-> ⚠️ Solo los usuarios con el rol [Finance](/es/docs/tutorials/roles-predefinidos#finance), [Finance Full Access](/es/docs/tutorials/roles-predefinidos#finance-full-access) o con el recurso `View Credits` de [Billing](/es/docs/tutorials/roles-predefinidos#billing) vinculado al rol pueden acceder a la página **Créditos** en el Admin VTEX.
+> ⚠️ Solo los usuarios con el rol [Finance](/es/docs/tutorials/roles-de-usuario-predefinidos#finance), [Finance Full Access](/es/docs/tutorials/roles-de-usuario-predefinidos#finance-full-access) o con el recurso `View Credits` de [Billing](/es/docs/tutorials/roles-de-usuario-predefinidos#billing) vinculado al rol pueden acceder a la página **Créditos** en el Admin VTEX.
 
 ![creditos-es](https://cdn.jsdelivr.net/gh/vtexdocs/help-center-content@main/docs/es/tutorials/admin-vtex/facturacion/creditos/creditos-es.png)
 

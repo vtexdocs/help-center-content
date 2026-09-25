@@ -17,7 +17,7 @@ seeAlso:
 
 This article explains how Credit Wallet credit is calculated, how it's applied to Master Data charges, and what happens to unused balance.
 
-> ℹ️ To learn how to query your Credit Wallet information, see [Query Credit Wallet](/en/docs/tutorials/query-credit-wallet).
+> ℹ️ To learn how to query your Credit Wallet information, see [Checking Credit Wallet](/en/docs/tutorials/checking-credit-wallet).
 
 ## How credit is calculated
 
