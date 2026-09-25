@@ -131,6 +131,37 @@
             },
             {
               "name": {
+                "en": "Setembro",
+                "es": "Setembro",
+                "pt": "Setembro"
+              },
+              "slug": {
+                "en": "setembro",
+                "es": "setembro",
+                "pt": "2026-setembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Agent Builder: mais controle na configuração de agentes e da base de conhecimento",
+                    "en": "Agent Builder: mais controle na configuração de agentes e da base de conhecimento",
+                    "es": "Agent Builder: mais controle na configuração de agentes e da base de conhecimento"
+                  },
+                  "slug": {
+                    "pt": "2026-09-18-agent-builder-mais-controle-na-configuracao-de-agentes-e-da-base-de-conhecimento",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "August",
                 "es": "Agosto",
                 "pt": "Agosto"
