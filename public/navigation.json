@@ -39418,6 +39418,21 @@
             },
             {
               "name": {
+                "en": "B2B Organizations always deletes last registered address when deleting addresses in the storefront",
+                "es": "Las organizaciones B2B siempre eliminan la última dirección registrada al eliminar direcciones en la tienda online.",
+                "pt": "Organizações B2B sempre excluem o último endereço cadastrado ao remover endereços da loja virtual."
+              },
+              "slug": {
+                "en": "b2b-organizations-always-deletes-last-registered-address-when-deleting-addresses-in-the-storefront",
+                "es": "las-organizaciones-b2b-siempre-eliminan-la-ultima-direccion-registrada-al-eliminar-direcciones-en-la-tienda-online",
+                "pt": "organizacoes-b2b-sempre-excluem-o-ultimo-endereco-cadastrado-ao-remover-enderecos-da-loja-virtual"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "B2B Organizations Detail UI only shows 100 first sellers",
                 "es": "La interfaz de usuario de «Detalles de organizaciones B2B» solo muestra los primeros 100 vendedores",
                 "pt": "A interface do usuário de detalhes das organizações B2B mostra apenas os primeiros 100 vendedores"
