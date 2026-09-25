@@ -32,6 +32,19 @@ Os casos de uso mais frequentes do **Sales App** são:
 
 > ℹ️ Se você tem um caso de uso específico ou quer acelerar seu faturamento com vendas assistidas, **abra um ticket no suporte**. Nossa equipe ajudará você a entender como o Sales App pode alavancar o seu negócio.
 
+### Sales App como ferramenta única da loja física
+
+Algumas operações usam o **Sales App** para substituir o ponto de venda (PDV) tradicional em todas as vendas da loja. Nesse modelo, além das funcionalidades nativas do app, a loja precisa de módulos para as rotinas que hoje ficam no PDV. Esses módulos geralmente são desenvolvidos com parceiros do ecossistema, por meio de [extensões](#extensibilidade-no-vtex-sales-app) e integrações.
+
+- **O que decidir:** quais módulos são necessários e quais parceiros do ecossistema serão utilizados.
+- **Módulos mais comuns:**
+  - **Gestão de caixa (Cash Management):** sangrias, suprimentos e fechamento de turno.
+  - **Pós-venda:** troca e devolução integradas ao OMS e ao ERP para reorquestrar o estoque.
+  - **Conciliação:** relatórios de conciliação das vendas da loja.
+- **Arquitetura técnica:** como todas as vendas da loja passam pelo app, esse modelo geralmente exige a [venda do estoque local](#venda-do-estoque-local-e-carrinhos-mistos), com integração com ERP e emissão de nota fiscal na loja.
+
+Os demais requisitos variam de acordo com o projeto de cada cliente.
+
 ### Extensibilidade no VTEX Sales App
 
 Avalie se sua operação precisa de **Extensões** (como para programas de fidelidade, serviços adicionais ou formulários customizados). Note que a funcionalidade de extensões pode exigir requisitos específicos de desenvolvimento. Independente do seu caso de uso, é importante ter em mente que para funcionalidades que o Sales App não oferece nativamente, a capacidade de extensões geralmente pode ser a resposta, permitindo que você ou seu parceiro desenvolva módulos em pontos estratégicos da jornada de vendas, para recursos que são cruciais para estratégia. Acesse a documentação de extensões.
@@ -40,12 +53,12 @@ Avalie se sua operação precisa de **Extensões** (como para programas de fidel
 
 A arquitetura técnica depende das estratégias que sua operação vai adotar com o **Sales App**. A tabela abaixo resume os principais requisitos de cada estratégia, detalhados nas seções a seguir.
 
-| Requisito | Prateleira Infinita | Ship from Store | Estoque local e carrinhos mistos | Loja como ponto de retirada | Ferramenta Única de Venda |
-| --- | --- | --- | --- | --- | --- |
-| Conta franquia | Opcional | Recomendado | Sim | Sim | {Confirmar com time} |
-| Ponto de retirada | Opcional | Não | Sim | Sim | {Confirmar com time} |
-| Integração com ERP | Não | Sim | Sim | Recomendado | Sim |
-| Emissão de nota fiscal na loja (NFC-e/SAT) | Não | {Confirmar com time} | Sim | Não | Sim |
+| Requisito | Prateleira Infinita | Ship from Store | Estoque local e carrinhos mistos | Loja como ponto de retirada |
+| --- | --- | --- | --- | --- |
+| Conta franquia | Opcional | Recomendado | Sim | Sim |
+| Ponto de retirada | Opcional | Não | Sim | Sim |
+| Integração com ERP | Não | Sim | Sim | Recomendado |
+| Emissão de nota fiscal na loja (NFC-e/SAT) | Não | {Confirmar com time} | Sim | Não |
 
 ### Prateleira Infinita
 
@@ -100,19 +113,6 @@ Com a [retirada em loja](https://help.vtex.com/pt/docs/tracks/configurar-lojas-f
 
 - **Arquitetura de conta franquia:** cada loja que funcionar como ponto de retirada precisa ser uma [conta franquia](https://help.vtex.com/pt/docs/tutorials/o-que-e-conta-franquia).
 - **Configuração logística:** na conta franquia, cadastre o ponto de retirada, associe-o a uma política de envio e conecte-o ao estoque da loja ativando a opção **Estoque inStore**.
-
-### Ferramenta Única de Venda (POS-like)
-
-**Para quem é:** Operações que desejam substituir o PDV tradicional pelo Sales App para 100% das vendas.
-
-* **Configuração:** Camada de integração com o ecossistema para módulos adicionais para loja física como gestão de caixa (sangrias, fechamento), relatórios de conciliação e fluxos avançados de troca e devolução por meio de pontos de extensão e integrações  
-* **O que decidir:** Quais módulos são necessários e quais parceiros do ecossistema serão utilizado?  
-* **Configuração Técnica mais comum :**  
-  * **Módulos de Gestão:** Implementar camadas de *Cash Management* (sangrias, suprimentos e fechamento de turno).  
-  * **Pós-Venda:** Configurar módulos de troca e devolução integrados ao OMS e ERP para reorquestração de estoque.  
-  * Mapeamento de mais requisitos irão variar de acordo com o projeto de cada cliente&nbsp;
-
-**Extensões:** Se você possui casos como venda de serviços adicionais, programas de fidelidade, ou quer trazer alguma informação da sua operação para dentro da jornada do Sales App, considere o uso de Extensões \[Link\], permitindo que seu time ou parceiros desenvolvam módulos específicos integrados à jornada.&nbsp;
 
 ## Definir a operação de vendas
 
