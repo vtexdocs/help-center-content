@@ -25422,6 +25422,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Financial agents in the payment flow",
+                    "es": "Agentes financieros en el flujo de pago",
+                    "pt": "Agentes financeiros no fluxo de pagamento"
+                  },
+                  "slug": {
+                    "en": "financial-agents-in-the-payment-flow",
+                    "es": "agentes-financieros-en-el-flujo-de-pago",
+                    "pt": "agentes-financeiros-no-fluxo-de-pagamento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Payment Provider Protocol",
                     "es": "Payment Provider Protocol",
                     "pt": "Payment Provider Protocol"
@@ -25452,51 +25467,6 @@
                 },
                 {
                   "name": {
-                    "en": "What is a credit card brand?",
-                    "es": "¿Qué es una bandera de tarjeta de crédito?",
-                    "pt": "O que é uma bandeira de cartão de crédito?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-credit-card-brand",
-                    "es": "que-es-una-bandera-de-tarjeta-de-credito",
-                    "pt": "o-que-e-uma-bandeira-de-cartao-de-credito"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a payment gateway?",
-                    "es": "¿Qué es un gateway de pagos?",
-                    "pt": "O que é um gateway de pagamentos?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-payment-gateway",
-                    "es": "que-es-un-gateway-de-pagos",
-                    "pt": "o-que-e-um-gateway-de-pagamentos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a sub-acquirer?",
-                    "es": "¿Qué es un subadquirente?",
-                    "pt": "O que é um subadquirente?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-sub-acquirer",
-                    "es": "que-es-un-subadquirente",
-                    "pt": "o-que-e-um-subadquirente"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "What is a transaction?",
                     "es": "¿Qué es una transacción?",
                     "pt": "O que é uma transação?"
@@ -25505,21 +25475,6 @@
                     "en": "what-is-a-transaction",
                     "es": "que-es-una-transaccion",
                     "pt": "o-que-e-uma-transacao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is an acquirer?",
-                    "es": "¿Qué es un adquirente?",
-                    "pt": "O que é um adquirente?"
-                  },
-                  "slug": {
-                    "en": "what-is-an-acquirer",
-                    "es": "que-es-un-adquirente",
-                    "pt": "o-que-e-um-adquirente"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25557,21 +25512,6 @@
                 },
                 {
                   "name": {
-                    "en": "What is anti-fraud?",
-                    "es": "¿Qué es antifraude?",
-                    "pt": "O que é antifraude?"
-                  },
-                  "slug": {
-                    "en": "what-is-anti-fraud",
-                    "es": "que-es-antifraude",
-                    "pt": "o-que-e-antifraude"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "What is Deposit Slip",
                     "es": "Qué es Ficha de Depósito",
                     "pt": "O que é  Ficha Depósito"
@@ -25602,21 +25542,6 @@
                 },
                 {
                   "name": {
-                    "en": "What is the Issuing Bank?",
-                    "es": "¿Qué es el Banco Emisor?",
-                    "pt": "O que é Banco Emissor?"
-                  },
-                  "slug": {
-                    "en": "what-is-the-issuing-bank",
-                    "es": "que-es-el-banco-emisor",
-                    "pt": "o-que-e-banco-emissor"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "What is the PCI SSC",
                     "es": "Qué es el PCI SSC",
                     "pt": "O que é o PCI SSC"
@@ -25625,21 +25550,6 @@
                     "en": "what-is-the-pci-ssc",
                     "es": "que-es-el-pci-ssc",
                     "pt": "o-que-e-o-pci-ssc"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is the role of financial agents in the payment flow of an application in Brazil?",
-                    "es": "¿Cuál es el papel de los agentes financieros en el flujo de pago de un pedido en Brasil?",
-                    "pt": "Qual é o papel dos agentes financeiros no fluxo de pagamento de um pedido no Brasil?"
-                  },
-                  "slug": {
-                    "en": "what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil",
-                    "es": "cual-es-la-diferencia-entre-adquirente-bandera-gateway-y-sub-adquirente-en-brasil",
-                    "pt": "diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -43021,13 +42931,13 @@
             {
               "name": {
                 "en": "Product returning as unavailable even with stock in a whitelabel seller",
-                "es": "El producto aparece como agotado aunque haya existencias en un vendedor de marca blanca",
-                "pt": "O produto aparece como indisponível mesmo havendo estoque em um vendedor de marca branca"
+                "es": "El producto aparece como no disponible incluso con existencias en un vendedor de marca blanca.",
+                "pt": "O produto está sendo devolvido como indisponível, mesmo havendo estoque em um vendedor de marca branca."
               },
               "slug": {
                 "en": "product-returning-as-unavailable-even-with-stock-in-a-whitelabel-seller",
-                "es": "el-producto-aparece-como-agotado-aunque-haya-existencias-en-un-vendedor-de-marca-blanca",
-                "pt": "o-produto-aparece-como-indisponivel-mesmo-havendo-estoque-em-um-vendedor-de-marca-branca"
+                "es": "el-producto-aparece-como-no-disponible-incluso-con-existencias-en-un-vendedor-de-marca-blanca",
+                "pt": "o-produto-esta-sendo-devolvido-como-indisponivel-mesmo-havendo-estoque-em-um-vendedor-de-marca-branca"
               },
               "origin": "",
               "type": "markdown",
@@ -43103,6 +43013,21 @@
                 "en": "products-are-not-updated-after-trade-policies-are-createdupdated",
                 "es": "los-productos-no-se-actualizan-tras-la-creacionactualizacion-de-las-politicas-comerciales",
                 "pt": "os-produtos-nao-sao-atualizados-depois-que-as-politicas-comerciais-sao-criadasatualizadas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Products created by API and not associated with any SKU are being shown as available on the Admin when using any filter",
+                "es": "Los productos creados mediante API y no asociados a ningún SKU se muestran como disponibles en el panel de administración al usar cualquier filtro.",
+                "pt": "Produtos criados por API e não associados a nenhum SKU estão sendo exibidos como disponíveis no painel de administração ao usar qualquer filtro."
+              },
+              "slug": {
+                "en": "products-created-by-api-and-not-associated-with-any-sku-are-being-shown-as-available-on-the-admin-when-using-any-filter",
+                "es": "los-productos-creados-mediante-api-y-no-asociados-a-ningun-sku-se-muestran-como-disponibles-en-el-panel-de-administracion-al-usar-cualquier-filtro",
+                "pt": "produtos-criados-por-api-e-nao-associados-a-nenhum-sku-estao-sendo-exibidos-como-disponiveis-no-painel-de-administracao-ao-usar-qualquer-filtro"
               },
               "origin": "",
               "type": "markdown",
@@ -51486,6 +51411,21 @@
             },
             {
               "name": {
+                "en": "Custom domain moved between FastStore projects keeps routing to the previous account",
+                "es": "El dominio personalizado movido entre proyectos de FastStore sigue redirigiendo a la cuenta anterior.",
+                "pt": "O domínio personalizado movido entre projetos FastStore continua redirecionando para a conta anterior."
+              },
+              "slug": {
+                "en": "custom-domain-moved-between-faststore-projects-keeps-routing-to-the-previous-account",
+                "es": "el-dominio-personalizado-movido-entre-proyectos-de-faststore-sigue-redirigiendo-a-la-cuenta-anterior",
+                "pt": "o-dominio-personalizado-movido-entre-projetos-faststore-continua-redirecionando-para-a-conta-anterior"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Error 'The specified Root Directory '{name}' does not exist' when using version tags",
                 "es": "Error 'El directorio raíz especificado '{nombre}' no existe' al utilizar etiquetas de versión.",
                 "pt": "Erro 'O diretório raiz especificado '{name}' não existe' ao usar tags de versão"
@@ -53132,6 +53072,21 @@
                 "en": "intelligent-search-facets-hides-selected-parent-facet-in-multiselect-drilldown",
                 "es": "la-funcion-de-busqueda-inteligente-oculta-la-faceta-principal-seleccionada-en-la-exploracion-en-profundidad-de-seleccion-multiple",
                 "pt": "a-pesquisa-inteligente-de-facetas-oculta-a-faceta-principal-selecionada-na-selecao-multipla-com-detalhamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Intelligent Search indexes SKU Detach without distinguishing between same-name specifications",
+                "es": "La búsqueda inteligente indexa SKU Detach sin distinguir entre especificaciones del mismo nombre.",
+                "pt": "A Busca Inteligente indexa a separação de SKUs sem distinguir entre especificações com o mesmo nome."
+              },
+              "slug": {
+                "en": "intelligent-search-indexes-sku-detach-without-distinguishing-between-samename-specifications",
+                "es": "la-busqueda-inteligente-indexa-sku-detach-sin-distinguir-entre-especificaciones-del-mismo-nombre",
+                "pt": "a-busca-inteligente-indexa-a-separacao-de-skus-sem-distinguir-entre-especificacoes-com-o-mesmo-nome"
               },
               "origin": "",
               "type": "markdown",
@@ -58771,6 +58726,21 @@
             },
             {
               "name": {
+                "en": "Order stuck in an intermediate workflow status due to a workflow desynchronization",
+                "es": "El pedido se encuentra atascado en un estado de flujo de trabajo intermedio debido a una desincronización del flujo de trabajo.",
+                "pt": "O pedido ficou preso em um status intermediário do fluxo de trabalho devido a uma dessincronização do fluxo de trabalho."
+              },
+              "slug": {
+                "en": "order-stuck-in-an-intermediate-workflow-status-due-to-a-workflow-desynchronization",
+                "es": "el-pedido-se-encuentra-atascado-en-un-estado-de-flujo-de-trabajo-intermedio-debido-a-una-desincronizacion-del-flujo-de-trabajo",
+                "pt": "o-pedido-ficou-preso-em-um-status-intermediario-do-fluxo-de-trabalho-devido-a-uma-dessincronizacao-do-fluxo-de-trabalho"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Order stuck in on-order-completed-ffm (Fulfillment) or on-order-completed (Marketplace) even after successful creation (isCompleted: true)",
                 "es": "Pedido atascado en on-order-completed-ffm (Cumplimiento) o en on-order-completed (Mercado) incluso después de una creación correcta (isCompleted: true)",
                 "pt": "Pedido preso em on-order-completed-ffm (Fulfillment) ou on-order-completed (Marketplace) mesmo após a criação bem-sucedida (isCompleted: true)"
@@ -60492,6 +60462,21 @@
                 "en": "customer-credit-invoices-status-at-mycredits-page-are-not-correct",
                 "es": "el-estado-de-las-facturas-de-credito-de-los-clientes-en-la-pagina-mycredits-no-es-correcto",
                 "pt": "o-status-das-faturas-de-credito-do-cliente-na-pagina-mycredits-nao-esta-correto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Customer Credit payment denied in Sales App when a closed account exists for the same document",
+                "es": "Pago con crédito del cliente rechazado en la aplicación de ventas cuando existe una cuenta cerrada para el mismo documento.",
+                "pt": "Pagamento de crédito ao cliente recusado no aplicativo de vendas quando existe uma conta encerrada para o mesmo documento."
+              },
+              "slug": {
+                "en": "customer-credit-payment-denied-in-sales-app-when-a-closed-account-exists-for-the-same-document",
+                "es": "pago-con-credito-del-cliente-rechazado-en-la-aplicacion-de-ventas-cuando-existe-una-cuenta-cerrada-para-el-mismo-documento",
+                "pt": "pagamento-de-credito-ao-cliente-recusado-no-aplicativo-de-vendas-quando-existe-uma-conta-encerrada-para-o-mesmo-documento"
               },
               "origin": "",
               "type": "markdown",
@@ -69955,6 +69940,21 @@
                 "en": "amazonmatch-in-some-cases-sku-reverts-to-pending-review-after-match-confirmation-with-no-indication-of-amazons-rejection-reason",
                 "es": "amazoncoincidencia-en-algunos-casos-el-sku-vuelve-a-estar-en-pendiente-de-revision-despues-de-la-confirmacion-de-la-coincidencia-sin-ninguna-indicacion-del-motivo-del-rechazo-de-amazon",
                 "pt": "amazonmatch-em-alguns-casos-o-sku-volta-para-aguardando-revisao-apos-a-confirmacao-da-correspondencia-sem-nenhuma-indicacao-do-motivo-da-rejeicao-da-amazon"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "APP FBE Checkout Pixel app throws a \"Maximum call stack size exceeded\" error in the checkout",
+                "es": "APP FBE La aplicación Checkout Pixel genera un error de \"Se ha superado el tamaño máximo de la pila de llamadas\" en el proceso de pago.",
+                "pt": "APP FBE O aplicativo Checkout Pixel apresenta um erro de \"Tamanho máximo da pilha de chamadas excedido\" no checkout."
+              },
+              "slug": {
+                "en": "app-fbe-checkout-pixel-app-throws-a-maximum-call-stack-size-exceeded-error-in-the-checkout",
+                "es": "app-fbe-la-aplicacion-checkout-pixel-genera-un-error-de-se-ha-superado-el-tamano-maximo-de-la-pila-de-llamadas-en-el-proceso-de-pago",
+                "pt": "app-fbe-o-aplicativo-checkout-pixel-apresenta-um-erro-de-tamanho-maximo-da-pilha-de-chamadas-excedido-no-checkout"
               },
               "origin": "",
               "type": "markdown",
