@@ -23687,6 +23687,21 @@
                 },
                 {
                   "name": {
+                    "pt": "Planejar a implementação do VTEX Sales App",
+                    "en": "Planejar a implementação do VTEX Sales App",
+                    "es": "Planejar a implementação do VTEX Sales App"
+                  },
+                  "slug": {
+                    "pt": "planejar-a-implementacao-do-vtex-sales-app",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Promotions on the Sales App search page",
                     "es": "Promociones en la página de búsqueda de Sales App",
                     "pt": "Promoção na página de busca do Sales App"
