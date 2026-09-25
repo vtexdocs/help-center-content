@@ -35,6 +35,8 @@ Buyer Portal Checkout delivers all the expected features of a modern checkout, c
 - Support for multiple payment methods, including credit cards with installment options and saved cards (for B2B flows without CVV), PIX with QR codes, and one-click checkout.
 - Order review and confirmation, allowing users to edit each section and view order details such as status (approved or pending), order number, delivery or pickup information, and payment details.
 
+> ℹ️ To accept payments with notes payable in Buyer Portal Checkout, use payment method `207`. Learn more in [Setting up payments with Notes Payable](https://help.vtex.com/docs/tutorials/setting-up-payments-with-notes-payable).
+
 Beyond these features, VTEX offers solutions to optimize the B2B purchasing experience, enabling personalization and secure transactions for buyers.
 
 ### Budgets

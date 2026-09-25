@@ -90,6 +90,8 @@ Los **destinatarios** son personas registradas en la organización compradora pa
 
 La página **Medios de pago** lista los medios de pago actualmente disponibles para la unidad organizativa. El usuario puede agregar medios de los disponibles para la unidad o remover los existentes.
 
+> ℹ️ Para pagos con pagaré, el **B2B Buyer Portal** solo es compatible con el pagaré del medio de pago `207`. Más información en [Configurar pagos con Pagaré](https://help.vtex.com/es/docs/tutorials/configurar-pagos-con-pagare).
+
 ### Agregar un medio de pago
 
 1. En la [pantalla principal de la cuenta de la organización](https://help.vtex.com/es/docs/tutorials/organization-account-subcategoria-es), en la sección **Contrato**, haz clic en **Medios de pago.**
