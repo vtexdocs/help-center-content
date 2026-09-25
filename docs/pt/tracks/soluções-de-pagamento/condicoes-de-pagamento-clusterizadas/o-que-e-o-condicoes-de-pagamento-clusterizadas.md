@@ -1,10 +1,10 @@
 ---
 title: 'O que é o Condições de Pagamento Clusterizadas?'
 id: 4z2upCJ2om27Cs0BVJRA0U
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-11-18T11:49:06.387Z
-updatedAt: 2024-05-07T19:41:05.528Z
-publishedAt: 2024-05-07T19:41:05.528Z
+updatedAt: 2026-09-25T17:52:00.000Z
+publishedAt: 
 firstPublishedAt: 2020-11-18T17:37:30.544Z
 contentType: trackArticle
 productTeam: Financial
@@ -13,6 +13,7 @@ locale: pt
 trackId: 1LqUFHQZ3ZQyV5TmugbGNm
 trackSlugEN: condicoes-de-pagamento-clusterizadas
 order: 1
+hidden: true
 ---
 
 A Clustered Payments Conditions é uma nova funcionalidade do [Customer Credit](/pt/announcements/de-credito-aos-seus-melhores-clientes-com-o-customer-credit--6M2V1Oc1UIaGSM6QayWkmq?&utm_source=autocomplete) que permite ao lojista definir que uma determinada regra de prazo e parcelamento será válida especificamente para um ou mais consumidores de sua confiança. Esse filtro é feito por meio de clusters - uma forma de segmentação.
