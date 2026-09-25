@@ -86,6 +86,7 @@ The front matter is the table with metadata about the article you are creating. 
 - **slugEN:** Article reference slug in the English version. This field must always be filled in with the same value (slug in EN), even in PT and ES version files. This is required for proper locale switching on Help Center.
 - **locale:** Article language (`pt`, `en`, or `es`).
 - **hidden**: (Optional) Identifies whether the article should remain hidden and be accessed only through its link (`true` or `false`).
+- **order:** (Optional) Defines the article's position among its siblings in the sidebar navigation, within `tracks`, `tutorials`, `faq`, and `troubleshooting`. Must be a positive integer; articles are displayed in ascending order, and gaps in the sequence (e.g. `1`, `2`, `5`) are fine. Articles without an `order` value are listed after ordered ones, sorted alphabetically. If two articles share the same `order` value, they're also sorted alphabetically relative to each other.
 
 In addition to the standard fields for all articles, check the specific fields for each type of article below:
 
@@ -98,7 +99,6 @@ In addition to the standard fields for all articles, check the specific fields f
 #### Track fields
 
 - **trackSlugEN**: Track slug identification.
-- **order**: Defines the article's position in the track sidebar navigation. Must be a positive integer. Articles are displayed in ascending order.
 
 #### Troubleshooting fields
 
