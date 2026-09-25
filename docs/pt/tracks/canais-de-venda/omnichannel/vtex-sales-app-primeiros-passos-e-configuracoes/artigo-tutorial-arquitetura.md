@@ -60,6 +60,8 @@ A arquitetura técnica depende das estratégias que sua operação vai adotar co
 | Integração com ERP | Não | Sim | Recomendado | Sim |
 | Emissão de nota fiscal na loja (NFC-e/SAT) | Não | {Confirmar com time} | Não | Sim |
 
+> ℹ️ Para usar a retirada em loja e os carrinhos mistos, recomendamos ativar o **Checkout v6**. Essa versão do checkout permite que o cliente escolha um ponto de retirada e divida um mesmo pedido entre itens entregues em casa e itens retirados na loja. Para mais informações, leia o artigo [Como ativar o Checkout v6](/pt/docs/tutorials/ativar-o-checkout-v6).
+
 ### Prateleira Infinita
 
 A [Prateleira Infinita](/pt/docs/tracks/prateleira-infinita) dá aos seus clientes acesso a todo o inventário, integrado entre os canais de venda. Ou seja, um cliente que está em uma loja física pode comprar um produto do estoque de outras lojas físicas ou do ecommerce, e a entrega pode ser feita a partir de qualquer um desses estoques.
@@ -159,5 +161,3 @@ Defina quais métodos de pagamento estarão disponíveis no **Sales App**. Algun
 - **Dinheiro:** o pagamento é controlado fora da plataforma, e o pedido é registrado com o método promissória.
 - **Adquirentes homologados:** exigem contratar um parceiro disponível na sua região, configurar os terminais de pagamento (maquininhas), configurar o provedor na conta principal e realizar testes.
 - **Pagamentos não integrados:** usam o método promissória e exigem integração com sistemas externos, como PDV ou ERP, para receber a confirmação do pagamento. São indicados para cartões private label ou métodos de pagamento já consolidados na loja. Esse modelo está em beta fechado. Para saber mais, entre em contato com o time do **Sales App**.
-
-> ℹ️ Recomendamos ativar o módulo **Checkout v6**. Leia o artigo [Como ativar o Checkout v6](/pt/docs/tutorials/ativar-o-checkout-v6) para mais informações.
