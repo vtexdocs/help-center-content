@@ -26,7 +26,7 @@ On the **Credits** page, you'll find the following information:
 
 ### Master Data breakdown
 
-<!-- TODO: inserir imagem da página Detalhamento por Master Data -->
+![credits-master-data-en](https://cdn.jsdelivr.net/gh/vtexdocs/help-center-content@main/docs/en/tutorials/vtex-admin/billing/credits/credits-master-data-en.png)
 
 To open the Master Data breakdown, expand a month's row in the **Credit statement** and, in the **Consumption by add-on** section, in the lower-left corner of the screen, click the **Master Data** card. This opens a side panel with:
 

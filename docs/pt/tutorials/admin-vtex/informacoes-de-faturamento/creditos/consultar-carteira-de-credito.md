@@ -25,7 +25,7 @@ Na página **Créditos**, você encontra as seguintes informações:
 
 ### Detalhamento por Master Data
 
-<!-- TODO: inserir imagem da página Detalhamento por Master Data -->
+![creditos-master-data-pt](https://cdn.jsdelivr.net/gh/vtexdocs/help-center-content@main/docs/pt/tutorials/admin-vtex/informacoes-de-faturamento/creditos/creditos-master-data-pt.png)
 
 Para abrir o detalhamento por Master Data, expanda a linha de um mês no **Extrato de crédito** e, na seção **Consumo por add-on**, no canto inferior esquerdo da tela, clique no card **Master Data**. Isso abre um painel lateral com:
 
