@@ -8,3 +8,5 @@ slugEN: checking-credit-wallet
 locale: es
 subcategoryId: credit-wallet
 ---
+
+![creditos-es](https://cdn.jsdelivr.net/gh/vtexdocs/help-center-content@main/docs/es/tutorials/admin-vtex/facturacion/creditos/creditos-es.png)
