@@ -47,7 +47,7 @@ Os demais requisitos variam de acordo com o projeto de cada cliente.
 
 ### Extensibilidade no VTEX Sales App
 
-Para funcionalidades que o **Sales App** não oferece nativamente, como programas de fidelidade, serviços adicionais ou formulários customizados, avalie o uso de extensões. Com elas, seu time ou um parceiro pode desenvolver módulos em pontos estratégicos da jornada de vendas. Como as extensões exigem desenvolvimento, considere esse esforço no planejamento. Para saber mais, leia o artigo [VTEX Sales App Extensibility](/pt/docs/tutorials/vtex-sales-app-extensibility-pt).
+Para funcionalidades que o **Sales App** não oferece nativamente, como programas de fidelidade, serviços adicionais ou formulários customizados, avalie o uso do [VTEX Sales App Extensibility](/pt/docs/tutorials/vtex-sales-app-extensibility-pt). Com ele, seu time ou um parceiro pode desenvolver módulos em pontos estratégicos da jornada de vendas.
 
 ## Definir a arquitetura técnica
 
