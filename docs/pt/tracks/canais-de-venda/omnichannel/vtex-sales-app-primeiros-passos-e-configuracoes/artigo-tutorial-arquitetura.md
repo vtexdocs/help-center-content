@@ -48,7 +48,7 @@ A [Prateleira Infinita](https://help.vtex.com/pt/docs/tracks/prateleira-infinita
 - **O que decidir:** modelo de estoques e arquitetura de lojas, se haverá ou não contas franquias e pontos de retirada.
 - **Requisitos:** não possui requisitos específicos, basta ter o **Sales App** instalado na conta principal.
 
-#### Configuração técnica da Prateleira Infinita
+#### Configuração da Prateleira Infinita
 
 A Prateleira Infinita pode ser implementada em lojas que tenham ou não arquitetura multicanal (Omnichannel), contas franquia e multiestoque (lojas físicas como estoques). As orientaçõe para cada caso são:
 
@@ -63,7 +63,7 @@ O [Ship From Store](https://help.vtex.com/pt/docs/tracks/configurar-ship-from-st
 - **Público alvo:** lojas físicas que desejam vender produtos do estoque local, que querem habilitar compra do tipo "leve agora" e que desejam combinar em um mesmo pedido itens para entrega e retirada.
 - **O que decidir:** como garantir a integração com o ERP de forma que o inventário da loja esteja sempre atualizado.
 
-#### Configuração técnica de Ship from Store e carrinhos mistos
+#### Configuração de Ship from Store e carrinhos mistos
 
 A configuração Além disso, é necessário integrar o ERP para que o inventário da loja esteja sempre atualizado e a emissão de nota fiscal (NFC-e) seja permitida.
 
