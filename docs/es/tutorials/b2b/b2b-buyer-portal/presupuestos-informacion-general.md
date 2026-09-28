@@ -27,7 +27,7 @@ Las asignaciones y las transacciones actualizan el saldo del presupuesto conform
 
 ### Asignaciones
 
-Las asignaciones son una subdivisión de un presupuesto que te permite distribuir el valor total entre diferentes entidades, como usuarios, direcciones o [campos contables](https://help.vtex.com/es/docs/tutorials/campos-contabeis) (por ejemplo, centros de costos). Cualquier cambio en el saldo de una asignación se refleja automáticamente en el presupuesto al que pertenece.
+Las asignaciones son una subdivisión de un presupuesto que te permite distribuir el valor total entre diferentes entidades, como usuarios, direcciones o [campos contables](https://help.vtex.com/es/docs/tutorials/campos-contables) (por ejemplo, centros de costos). Cualquier cambio en el saldo de una asignación se refleja automáticamente en el presupuesto al que pertenece.
 
 ### Transacciones
 
