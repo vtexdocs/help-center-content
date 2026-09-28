@@ -39,14 +39,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "Credit Wallet: Track the credit that offsets your Master Data charges",
+                    "en": "Credit Wallet: track the credit that offsets your Master Data charges",
                     "es": "Cartera de Crédito: sigue el crédito que compensa tu cargo de Master Data",
                     "pt": "Carteira de Crédito: acompanhe o crédito que abate sua cobrança de Master Data"
                   },
                   "slug": {
-                    "en": "2026-09-28-credit-wallet-track-the-credit-that-offsets-your-master-data-charges",
-                    "es": "2026-09-28-cartera-de-credito-sigue-el-credito-que-compensa-tu-cargo-de-master-data",
-                    "pt": "2026-09-28-carteira-de-credito-acompanhe-o-credito-que-abate-sua-cobranca-de-master-data"
+                    "en": "2026-09-29-credit-wallet-track-the-credit-that-offsets-your-master-data-charges",
+                    "es": "2026-09-29-cartera-de-credito-sigue-el-credito-que-compensa-tu-cargo-de-master-data",
+                    "pt": "2026-09-29-carteira-de-credito-acompanhe-o-credito-que-abate-sua-cobranca-de-master-data"
                   },
                   "origin": "",
                   "type": "markdown",
