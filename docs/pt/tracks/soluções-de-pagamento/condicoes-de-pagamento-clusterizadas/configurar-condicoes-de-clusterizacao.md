@@ -1,10 +1,10 @@
 ---
 title: 'Configurar condições de clusterização'
 id: 1LwzfViwdvLMxijASF0GU6
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-11-18T13:54:49.394Z
-updatedAt: 2020-11-18T17:38:09.905Z
-publishedAt: 2020-11-18T17:38:09.905Z
+updatedAt: 2026-09-25T17:52:00.000Z
+publishedAt: 
 firstPublishedAt: 2020-11-18T17:38:09.905Z
 contentType: trackArticle
 productTeam: Financial
@@ -13,6 +13,7 @@ locale: pt
 trackId: 1LqUFHQZ3ZQyV5TmugbGNm
 trackSlugEN: condicoes-de-pagamento-clusterizadas
 order: 5
+hidden: true
 ---
 
 Como mencionamos, a Clustered Payment Conditions define que uma condição de pagamento será aplicada para um ou mais consumidores. 

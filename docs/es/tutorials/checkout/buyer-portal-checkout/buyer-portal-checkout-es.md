@@ -35,6 +35,8 @@ Buyer Portal Checkout ofrece todas las funcionalidades esperadas de un checkout 
 - Compatibilidad con múltiples medios de pago, incluyendo tarjeta de crédito con pago en cuotas y tarjetas guardadas (con flujo B2B sin CVV), Pix (Brasil) con código QR y finalización con checkout en un solo clic.
 - Revisión y confirmación del pedido con posibilidad de editar cada sección, status del pedido (aprobado o pendiente), número, y resúmenes de envío o recogida y de pago.
 
+> ℹ️ Para aceptar pagos con pagaré en **Buyer Portal Checkout**, usa el pagaré compatible con el **B2B Buyer Portal**. Más información en [Configuración del contrato](https://help.vtex.com/es/docs/tutorials/configuraciones-del-contrato).
+
 Además de estas funcionalidades, VTEX ofrece soluciones para optimizar la experiencia de compra en escenarios B2B, facilitando la personalización y brindando seguridad en la transacción para tus compradores.
 
 ### Presupuestos
@@ -55,7 +57,7 @@ La funcionalidad direcciones de facturación permite que los compradores selecci
 
 ### Entrega programada
 
-La [entrega programada](/docs/es/tutorials/configurar-entrega-programada-fastcheckout) permite a las tiendas VTEX ofrecer a los clientes la posibilidad de elegir el mejor día y hora para recibir sus compras. Esta configuración se realiza directamente en las políticas de envío y define los periodos disponibles para las entregas.
+La [entrega programada](https://help.vtex.com/es/docs/tutorials/configurar-entrega-programada-buyer-portal-checkout) permite a las tiendas VTEX ofrecer a los clientes la posibilidad de elegir el mejor día y hora para recibir sus compras. Esta configuración se realiza directamente en las políticas de envío y define los periodos disponibles para las entregas.
 
 ### Políticas de compra
 

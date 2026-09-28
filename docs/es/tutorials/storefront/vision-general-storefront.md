@@ -3,7 +3,7 @@ title: 'Storefront'
 id: 7cRrL2xtY7HDqiyep1PxIS
 status: PUBLISHED
 createdAt: 2023-03-23T17:35:21.202Z
-updatedAt: 2023-03-23T18:43:09.036Z
+updatedAt: 2026-09-02T18:43:09.036Z
 publishedAt: 2023-03-23T18:43:09.036Z
 firstPublishedAt: 2023-03-23T17:49:06.557Z
 contentType: tutorial
@@ -16,42 +16,33 @@ subcategoryId: 3PNmhq67KMmGTBSfIWJdcQ
 order: 1
 ---
 
-El _storefront_ es la interfaz gráfica a través de la cual los visitantes interactúan con el sitio web de una tienda. El _storefront_ define la experiencia del usuario y la identidad visual del sitio web a través de los componentes gráficos, la tipografía y la paleta de colores. Estos elementos son personalizables y pueden gestionarse mediante un sistema de gestión de contenidos (CMS).
+El _storefront_ es la interfaz gráfica a través de la cual los visitantes interactúan con el sitio web de una tienda. El _storefront_ define la experiencia del usuario y la identidad visual del sitio web a través de los componentes gráficos, la tipografía y la paleta de colores. Estos elementos son personalizables y pueden gestionarse mediante el sistema de gestión de contenidos (CMS) de tu tienda.
 
-El _storefront_ también incluye VTEX Intelligent Search, una herramienta que ayuda al cliente en su jornada de compra, presentando resultados de búsqueda desde la primera interacción con la barra de búsqueda.
+Estas operaciones se realizan en el menú **Storefront** de tu Admin VTEX.
 
-Estas operaciones se realizan en el menú _Storefront_ de tu Admin VTEX. 
+A continuación, encontrarás las diferentes secciones disponibles en este menú.
 
-![Storefront overview menu ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/vision-general-storefront_1.jpg)
+## CMS para FastStore y Headless Stores
 
-A continuación, encontrarás más detalles sobre las diferentes secciones y páginas de este menú.
+Disponible para tiendas FastStore (v3 y versiones posteriores) y Headless Stores, el CMS ofrece a los comerciantes la flexibilidad y el control necesarios para gestionar y estructurar de forma independiente el contenido del storefront, incluyendo páginas, layouts, plantillas, branches y medios. Para más información, consulta [CMS](/es/docs/tutorials/cms-overview).
 
-## Gestión de contenidos
+## CMS para Store Framework
 
-La sección Gestión de contenidos reúne las herramientas necesarias para crear, editar y publicar contenidos web en el storefront de la tienda.
+Para tiendas que utilizan Store Framework, el contenido y la configuración del storefront se gestionan a través de las siguientes páginas:
 
-Esta sección incluye las siguientes páginas y sus respectivas funcionalidades:
+- [Pages](/es/docs/tutorials/paginas-vision-general): crea páginas personalizadas para tu tienda y gestiona los redireccionamientos de URL.
+- [Site Editor](/es/docs/tutorials/site-editor-vision-general): crea, edita, publica y programa modificaciones en los componentes y el comportamiento de tu _storefront_.
+- [Styles](/es/docs/tutorials/estilos-vision-general): gestiona la tipografía y la paleta de colores de tu tienda.
+- [Store](/es/docs/tutorials/cms-tienda-vision-general): configura los ajustes de SEO, los flags de optimización de performance y la configuración de PWA de tu tienda. Consulta la [visión general de la Configuración del Storefront](/es/docs/tutorials/vision-general-configuracion-de-storefront) para ver la lista completa de configuraciones disponibles.
 
-- [Layout](/es/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW): Asocia el proyecto del _storefront_ de tu tienda a una política comercial.  
-- __Pages__: Crea páginas personalizadas para tu tienda.  
-- [Site Editor](/es/subcategory/site-editor--9Arh3cJIOYlfSD1MUC2h3): Crea, edita, publica y programa modificaciones en los componentes y el comportamiento de tu _storefront_.  
-- __Banners__: Crea reglas para mostrar diferentes _banners_ en tu _storefront_.  
-- __Styles__: Gestiona la tipografía y la paleta de colores del _storefront_.   
-- __Redirects__: Crea redireccionamientos de una URL de tu tienda a otra.  
+## CMS Portal (Legado)
 
-## Intelligent Search
+CMS Portal (Legado) es la interfaz original de gestión de contenidos, disponible para tiendas que aún no migraron a Store Framework o al nuevo CMS. Utiliza [Layouts](/es/docs/tutorials/que-son-layouts), plantillas y placeholders para controlar qué contenido se muestra en cada página de tu sitio web.
 
-_Intelligent Search_ es una aplicación de búsqueda inteligente para ecommerce que ayuda al cliente en su jornada de compra. Desde el principio de la interacción del usuario con la barra de búsqueda, la herramienta presenta sugerencias y resultados de búsqueda estratégicos.
+## Headless CMS (Legado)
 
-La sección incluye las siguientes páginas:
-- [Reglas de relevancia](/es/v4/docs/reglas-de-relevancia--1Eb7AncaXipJGDuY0sz9IS): define el orden de los productos en el resultado de búsqueda.  
-- [Redireccionamientos](/es/v4/docs/redireccionamientos--e5KdkBkx2ZIB4d4sFgPnT): redirecciona al cliente a cualquier otra página, interna o externa a tu sitio web.  
-- [Configuración de búsqueda](/es/v4/docs/configuracion-de-busqueda--3vB1ISndZI2dEEa63TeJHy): comprende todos los ajustes globales de VTEX Intelligent Search.
+Disponible para tiendas FastStore (v1 y v2) y Headless Stores que aún no migraron al nuevo CMS, Headless CMS (Legado) te permite gestionar el contenido de forma independiente del frontend que lo muestra, mediante Projects, Pages y Singleton content types. Para más información, consulta [Headless CMS (Legado)](/es/docs/tutorials/headless-cms-visao-geral).
 
-Las siguientes páginas pronto se incluirán en el nuevo diseño:
-- [Sinónimos](/es/docs/tutorials/crear-sinonimos): permite registrar sinónimos para un término de búsqueda específico, lo que aumenta las posibilidades de éxito de la búsqueda.  
-- [Explicación de la búsqueda](/es/docs/tutorials/explicacion-de-busqueda): interpreta un término de búsqueda y muestra la lista de productos como resultado de la búsqueda.  
-- [Reglas de merchandising](/es/docs/tutorials/crear-regla-de-merchandising-editor-manual): manipula los resultados de una búsqueda.   
-- [Historial de indexación](/es/docs/tutorials/historial-de-indexacion): monitorea el status de sincronización de todos los productos del catálogo enviados al Intelligent Search.  
-- [Analytics](/es/docs/tutorials/intelligent-search-analytics): organiza los datos relacionados con las búsquedas realizadas en la tienda y permite exportar estos datos.  
+## Agentic CX
 
+[VTEX CX Platform](/es/docs/tutorials/introduccion-a-weni-agentic-ai) es una herramienta nativa de atención al cliente que utiliza agentes con inteligencia artificial para interactuar con tus clientes, como mostrar el catálogo de tu tienda, crear carritos y recuperar carritos abandonados.

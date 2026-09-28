@@ -23,16 +23,16 @@ Las automatizaciones se diseñan para actuar de forma proactiva con base en regl
 
 Una automatización se define en un archivo `agent_definition.yaml`. Los campos principales son:
 
-- **agents.<id_do_agente>**: identifica al agente.
-- **name**: nombre para mostrar del agente, con un límite de 55 caracteres.
-- **description**: descripción del propósito y las capacidades del agente.
-- **rules**: diccionario de las reglas que disparan las acciones del agente.
-- Dentro de **rules.<id_da_regra>**:
-  - **display_name**: nombre legible de la regla.
-  - **template**: plantilla de mensaje HSM que será utilizado.
-  - **start_condition**: descripción de la condición que debe cumplirse para activar la regla.
-  - **source**: define el código que se ejecutará cuando se dispare la regla, con `entrypoint` apuntando a la clase/método y `path` al directorio donde está el código.
-- **pre_processing**: define una etapa de preprocesamiento para preparar datos antes de evaluar las reglas, con `source` especificando el código y `result_examples_file` apuntando a un JSON con ejemplos de salida.
+- `agents.<id_do_agente>`: identifica al agente.
+- `name`: nombre para mostrar del agente, con un límite de 55 caracteres.
+- `description`: descripción del propósito y las capacidades del agente.
+- `rules`: diccionario de las reglas que disparan las acciones del agente.
+- Dentro de `rules.<id_da_regra>`:
+  - `display_name`: nombre legible de la regla.
+  - `template`: plantilla de mensaje HSM que será utilizado.
+  - `start_condition`: descripción de la condición que debe cumplirse para activar la regla.
+  - `source`: define el código que se ejecutará cuando se dispare la regla, con `entrypoint` apuntando a la clase/método y `path` al directorio donde está el código.
+- `pre_processing`: define una etapa de preprocesamiento para preparar datos antes de evaluar las reglas, con `source` especificando el código y `result_examples_file` apuntando a un JSON con ejemplos de salida.
 
 El archivo `result_example.json` debe ser un arreglo de objetos. Cada objeto contiene:
 

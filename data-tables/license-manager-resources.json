@@ -19,14 +19,6 @@
       "productId": "55"
     },
     {
-      "product": "Availability Notify",
-      "category": "Notification Requests",
-      "resource": "Download Notification Requests",
-      "key": "downloadNotificationRequests",
-      "resourceId": "2156515",
-      "productId": "136"
-    },
-    {
       "product": "B2B",
       "category": "B2B General",
       "resource": "B2BBulkExport",
@@ -132,6 +124,15 @@
       "description": "Edit contracts in the VTEX platform's Invoices module, including registering invoices of any value and charging take rates at any percentage.",
       "key": "put_contract",
       "resourceId": "134738",
+      "productId": "43"
+    },
+    {
+      "product": "Billing",
+      "category": "Credit",
+      "resource": "View Credits",
+      "description": "Allows you to view a company's billing credits.",
+      "key": "billing.credit.view",
+      "resourceId": "2165290",
       "productId": "43"
     },
     {
@@ -615,7 +616,7 @@
       "product": "Catalog",
       "category": "Content",
       "resource": "Fields list",
-      "description": "Lists all fields in the system.",
+      "description": "List all the fields in the system.",
       "key": "Campo.aspx",
       "resourceId": "891",
       "productId": "2"
@@ -1212,6 +1213,15 @@
       "description": "It allows you to create a new branch to develop, test, and save new versions of content in isolation.",
       "key": "CreateBranch",
       "resourceId": "2153204",
+      "productId": "115"
+    },
+    {
+      "product": "Commerce Content",
+      "category": "Branch",
+      "resource": "Manage Dev Branch",
+      "description": "Allows you to create development branches and commit to them.\n\n",
+      "key": "ManageDevBranch",
+      "resourceId": "2158137",
       "productId": "115"
     },
     {
@@ -2433,7 +2443,7 @@
       "product": "Payments",
       "category": "Card Token Vault",
       "resource": "Edit Card Tokens",
-      "description": "Allows editing of data from tokenized cards previously created in the Card Token Vault.",
+      "description": "Allows editing of data for tokenized cards previously created in the Card Token Vault.",
       "key": "ManageCardTokens",
       "resourceId": "2078744",
       "productId": "114"
@@ -2484,31 +2494,22 @@
       "productId": "114"
     },
     {
-      "product": "PersonalShopper App",
-      "category": "Analytics",
-      "resource": "View Analytics",
-      "description": "View Analytics for the Personal Shopper app.",
-      "key": "view-analytics",
-      "resourceId": "1639728",
-      "productId": "100"
+      "product": "Payments",
+      "category": "Payments Fraud Protection",
+      "resource": "View Defense Mode",
+      "description": "Allows you to view threats, history, and Defense Mode settings.",
+      "key": "ViewDefenseMode",
+      "resourceId": "2160773",
+      "productId": "114"
     },
     {
-      "product": "PersonalShopper App",
-      "category": "Call",
-      "resource": "View List Call",
-      "description": "View the call page.",
-      "key": "view-list-call",
-      "resourceId": "1639430",
-      "productId": "100"
-    },
-    {
-      "product": "PersonalShopper App",
-      "category": "Setting",
-      "resource": "View Setting",
-      "description": "Edit Personal Shopper app settings.",
-      "key": "view-setting",
-      "resourceId": "1643056",
-      "productId": "100"
+      "product": "Payments",
+      "category": "Payments Fraud Protection",
+      "resource": "Manage Defense Mode",
+      "description": "Allows you to change the automatic activation toggle for Defense Mode.",
+      "key": "ManageDefenseMode",
+      "resourceId": "2160774",
+      "productId": "114"
     },
     {
       "product": "Portal",
@@ -2626,6 +2627,51 @@
       "key": "GerenciarPolicies",
       "resourceId": "1118700",
       "productId": "16"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "View Recommendations",
+      "description": "View the list of recommendations in the Admin panel.",
+      "key": "ViewRecommendations",
+      "resourceId": "2160057",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "Edit Recommendations",
+      "description": "Edit recommendations in the Admin panel.",
+      "key": "EditRecommendations",
+      "resourceId": "2160058",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "View Recommendations metrics",
+      "description": "View recommendation metrics in the Admin panel.",
+      "key": "ViewRecommendationsMetrics",
+      "resourceId": "2160059",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "View recommendations configuration",
+      "description": "View recommendation settings.",
+      "key": "ViewRecommendationsConfiguration",
+      "resourceId": "2160060",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "Edit recommendations configuration",
+      "description": "Edit recommendation settings.",
+      "key": "EditRecommendationsConfiguration",
+      "resourceId": "2160061",
+      "productId": "137"
     },
     {
       "product": "Releases",
@@ -2827,9 +2873,27 @@
     },
     {
       "product": "User Rights",
+      "category": "User Rights",
+      "resource": "View Erasure Request",
+      "description": "View user data removal requests.",
+      "key": "user_rights_read_forget_job",
+      "resourceId": "2163605",
+      "productId": "99"
+    },
+    {
+      "product": "User Rights",
+      "category": "User Rights",
+      "resource": "Create Erasure Request",
+      "description": "Create user data removal requests.",
+      "key": "user_rights_create_forget_job",
+      "resourceId": "2163606",
+      "productId": "99"
+    },
+    {
+      "product": "User Rights",
       "category": "user-rights-request",
       "resource": "Read user rights requests",
-      "description": "View user rights requests, either in list or detailed format.",
+      "description": "View user rights requests, either in list or detailed format via the legacy user rights API.",
       "key": "user_rights_request_read",
       "resourceId": "1634546",
       "productId": "99"
@@ -2838,7 +2902,7 @@
       "product": "User Rights",
       "category": "user-rights-request",
       "resource": "Write user rights requests",
-      "description": "Create, update, or remove user rights requests.",
+      "description": "Create, update, or remove user rights requests via the legacy user rights API.",
       "key": "user_rights_request_write",
       "resourceId": "1634554",
       "productId": "99"
@@ -2847,7 +2911,7 @@
       "product": "User Rights",
       "category": "user-rights-request",
       "resource": "Process User Rights Removal Request",
-      "description": "Process user rights requests of the removal type.",
+      "description": "Process user rights removal requests via the legacy user rights API.",
       "key": "removal-request-process",
       "resourceId": "1705138",
       "productId": "99"
@@ -3306,6 +3370,15 @@
     },
     {
       "product": "Billing",
+      "category": "Credit",
+      "resource": "View Credits",
+      "description": "Permite ver los créditos de facturación de una empresa.",
+      "key": "billing.credit.view",
+      "resourceId": "2165290",
+      "productId": "43"
+    },
+    {
+      "product": "Billing",
       "category": "Invoice",
       "resource": "Invoices List ",
       "description": "Visualización de la lista de facturas del cliente, así como de los detalles de la factura, que incluyen información como el volumen bruto de mercancías (GMV) y el margen de beneficio.",
@@ -3488,7 +3561,7 @@
       "product": "Catalog",
       "category": "Admin",
       "resource": "Admin list",
-      "description": "Enumere a los administradores del sistema.",
+      "description": "Enumera los administradores del sistema.",
       "key": "Administrador.aspx",
       "resourceId": "882",
       "productId": "2"
@@ -3857,7 +3930,7 @@
       "product": "Catalog",
       "category": "Content",
       "resource": "Price range",
-      "description": "Enumerar todos los rangos de precios",
+      "description": "Enumera todos los rangos de precios.",
       "key": "FaixaPreco.aspx",
       "resourceId": "933",
       "productId": "2"
@@ -3929,7 +4002,7 @@
       "product": "Catalog",
       "category": "Content",
       "resource": "SKUs",
-      "description": "Enumera todos los SKU registrados.",
+      "description": "Muestra todos los SKU registrados.",
       "key": "Sku.aspx",
       "resourceId": "996",
       "productId": "2"
@@ -4382,6 +4455,15 @@
       "description": "Te permite crear una nueva rama para desarrollar, probar y guardar nuevas versiones del contenido de forma aislada.",
       "key": "CreateBranch",
       "resourceId": "2153204",
+      "productId": "115"
+    },
+    {
+      "product": "Commerce Content",
+      "category": "Branch",
+      "resource": "Manage Dev Branch",
+      "description": "Te permite crear ramas de desarrollo y confirmar cambios en ellas.\n\n",
+      "key": "ManageDevBranch",
+      "resourceId": "2158137",
       "productId": "115"
     },
     {
@@ -5243,7 +5325,7 @@
       "product": "Message Center",
       "category": "Messages",
       "resource": "Send Message ",
-      "description": "Envía un mensaje desde el Centro de mensajes.",
+      "description": "Envía un mensaje al Centro de mensajes.",
       "key": "send-message",
       "resourceId": "1026939",
       "productId": "23"
@@ -5405,7 +5487,7 @@
       "product": "OMS",
       "category": "OMS access",
       "resource": "Feed v3 and Hook Admin",
-      "description": "Crea, edita y elimina la configuración de Feed v3/hook.",
+      "description": "Crear, editar y eliminar la configuración de Feed v3/hook.",
       "key": "FeedHookV3Admin",
       "resourceId": "592028",
       "productId": "19"
@@ -5504,7 +5586,7 @@
       "product": "PCI Gateway",
       "category": "Payment-ManageInfrastructure",
       "resource": "Manage Infrastructure",
-      "description": "Realizar configuraciones críticas en la infraestructura de Gateway. Disponible solo para administradores.",
+      "description": "Realizar configuraciones críticas en la infraestructura de Gateway. Solo disponible para administradores.",
       "key": "ManageInfrastructure",
       "resourceId": "1157",
       "productId": "6"
@@ -5603,7 +5685,7 @@
       "product": "Payments",
       "category": "Card Token Vault",
       "resource": "Edit Card Tokens",
-      "description": "Permite editar datos de tarjetas tokenizadas creadas previamente en la Bóveda de Tokens de Tarjetas.",
+      "description": "Permite editar los datos de las tarjetas tokenizadas creadas previamente en la Bóveda de Tokens de Tarjetas.",
       "key": "ManageCardTokens",
       "resourceId": "2078744",
       "productId": "114"
@@ -5654,31 +5736,22 @@
       "productId": "114"
     },
     {
-      "product": "PersonalShopper App",
-      "category": "Analytics",
-      "resource": "View Analytics",
-      "description": "Consulta las estadísticas de la aplicación Personal Shopper.",
-      "key": "view-analytics",
-      "resourceId": "1639728",
-      "productId": "100"
+      "product": "Payments",
+      "category": "Payments Fraud Protection",
+      "resource": "View Defense Mode",
+      "description": "Permite ver las amenazas, el historial y la configuración del modo de defensa.",
+      "key": "ViewDefenseMode",
+      "resourceId": "2160773",
+      "productId": "114"
     },
     {
-      "product": "PersonalShopper App",
-      "category": "Call",
-      "resource": "View List Call",
-      "description": "Consulta la página de la convocatoria.",
-      "key": "view-list-call",
-      "resourceId": "1639430",
-      "productId": "100"
-    },
-    {
-      "product": "PersonalShopper App",
-      "category": "Setting",
-      "resource": "View Setting",
-      "description": "Edita la configuración de la aplicación Personal Shopper.",
-      "key": "view-setting",
-      "resourceId": "1643056",
-      "productId": "100"
+      "product": "Payments",
+      "category": "Payments Fraud Protection",
+      "resource": "Manage Defense Mode",
+      "description": "Permite cambiar el interruptor de activación automática para el Modo Defensa.",
+      "key": "ManageDefenseMode",
+      "resourceId": "2160774",
+      "productId": "114"
     },
     {
       "product": "Portal",
@@ -5796,6 +5869,51 @@
       "key": "GerenciarPolicies",
       "resourceId": "1118700",
       "productId": "16"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "View Recommendations",
+      "description": "Consulte la lista de recomendaciones en el panel de administración.",
+      "key": "ViewRecommendations",
+      "resourceId": "2160057",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "Edit Recommendations",
+      "description": "Edita las recomendaciones en el panel de administración.",
+      "key": "EditRecommendations",
+      "resourceId": "2160058",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "View Recommendations metrics",
+      "description": "Consulta las métricas de recomendación en el panel de administración.",
+      "key": "ViewRecommendationsMetrics",
+      "resourceId": "2160059",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "View recommendations configuration",
+      "description": "Ver configuración de recomendaciones.",
+      "key": "ViewRecommendationsConfiguration",
+      "resourceId": "2160060",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "Edit recommendations configuration",
+      "description": "Editar la configuración de recomendaciones.",
+      "key": "EditRecommendationsConfiguration",
+      "resourceId": "2160061",
+      "productId": "137"
     },
     {
       "product": "Releases",
@@ -5918,7 +6036,7 @@
       "product": "Seller Register",
       "category": "Seller Administration",
       "resource": "View Seller",
-      "description": "Podrá ver todos los vendedores vinculados a la cuenta de la plataforma descrita en la página de Gestión de vendedores, incluyendo la posibilidad de recuperar datos de los vendedores, ya sea de la lista de vendedores o de un vendedor específico.",
+      "description": "Podrá ver todos los vendedores vinculados a la cuenta del mercado descrita en la página de Gestión de vendedores, incluyendo la posibilidad de recuperar datos de los vendedores, ya sea de la lista de vendedores o de un vendedor específico.",
       "key": "view-seller",
       "resourceId": "575457",
       "productId": "73"
@@ -5997,9 +6115,27 @@
     },
     {
       "product": "User Rights",
+      "category": "User Rights",
+      "resource": "View Erasure Request",
+      "description": "Ver solicitudes de eliminación de datos de usuario.",
+      "key": "user_rights_read_forget_job",
+      "resourceId": "2163605",
+      "productId": "99"
+    },
+    {
+      "product": "User Rights",
+      "category": "User Rights",
+      "resource": "Create Erasure Request",
+      "description": "Crear solicitudes de eliminación de datos de usuario.",
+      "key": "user_rights_create_forget_job",
+      "resourceId": "2163606",
+      "productId": "99"
+    },
+    {
+      "product": "User Rights",
       "category": "user-rights-request",
       "resource": "Read user rights requests",
-      "description": "Consulte las solicitudes de derechos de usuario, ya sea en formato de lista o en formato detallado.",
+      "description": "Consulte las solicitudes de derechos de usuario, ya sea en formato de lista o en formato detallado, a través de la API de derechos de usuario heredada.",
       "key": "user_rights_request_read",
       "resourceId": "1634546",
       "productId": "99"
@@ -6008,7 +6144,7 @@
       "product": "User Rights",
       "category": "user-rights-request",
       "resource": "Write user rights requests",
-      "description": "Crear, actualizar o eliminar solicitudes de derechos de usuario.",
+      "description": "Cree, actualice o elimine solicitudes de derechos de usuario a través de la API de derechos de usuario heredada.",
       "key": "user_rights_request_write",
       "resourceId": "1634554",
       "productId": "99"
@@ -6017,7 +6153,7 @@
       "product": "User Rights",
       "category": "user-rights-request",
       "resource": "Process User Rights Removal Request",
-      "description": "Tramitar las solicitudes de derechos de usuario de tipo eliminación.",
+      "description": "Procese las solicitudes de eliminación de derechos de usuario a través de la API de derechos de usuario heredada.",
       "key": "removal-request-process",
       "resourceId": "1705138",
       "productId": "99"
@@ -6472,6 +6608,15 @@
       "description": "Editar contratos no módulo Faturas da plataforma VTEX, incluindo o cadastro de manifesto de qualquer valor e cobrança de take rate em qualquer percentual.",
       "key": "put_contract",
       "resourceId": "134738",
+      "productId": "43"
+    },
+    {
+      "product": "Billing",
+      "category": "Credit",
+      "resource": "View Credits",
+      "description": "Permite visualizar os créditos de faturamento de uma empresa.",
+      "key": "billing.credit.view",
+      "resourceId": "2165290",
       "productId": "43"
     },
     {
@@ -7552,6 +7697,15 @@
       "description": "Permite criar uma nova branch para desenvolver, testar e salvar novas versões de conteúdo de forma isolada.",
       "key": "CreateBranch",
       "resourceId": "2153204",
+      "productId": "115"
+    },
+    {
+      "product": "Commerce Content",
+      "category": "Branch",
+      "resource": "Manage Dev Branch",
+      "description": "Permite criar branches de desenvolvimento e fazer commits nelas.\r\n",
+      "key": "ManageDevBranch",
+      "resourceId": "2158137",
       "productId": "115"
     },
     {
@@ -8824,31 +8978,22 @@
       "productId": "114"
     },
     {
-      "product": "PersonalShopper App",
-      "category": "Analytics",
-      "resource": "View Analytics",
-      "description": "Visualizar Analytics do app Personal Shopper.",
-      "key": "view-analytics",
-      "resourceId": "1639728",
-      "productId": "100"
+      "product": "Payments",
+      "category": "Payments Fraud Protection",
+      "resource": "View Defense Mode",
+      "description": "Permite visualizar ameaças, histórico e configuração do Defense Mode",
+      "key": "ViewDefenseMode",
+      "resourceId": "2160773",
+      "productId": "114"
     },
     {
-      "product": "PersonalShopper App",
-      "category": "Call",
-      "resource": "View List Call",
-      "description": "Visualizar a página de chamadas.",
-      "key": "view-list-call",
-      "resourceId": "1639430",
-      "productId": "100"
-    },
-    {
-      "product": "PersonalShopper App",
-      "category": "Setting",
-      "resource": "View Setting",
-      "description": "Editar configurações do app Personal Shopper.",
-      "key": "view-setting",
-      "resourceId": "1643056",
-      "productId": "100"
+      "product": "Payments",
+      "category": "Payments Fraud Protection",
+      "resource": "Manage Defense Mode",
+      "description": "Permite alterar o toggle de ativação automática do Defense Mode",
+      "key": "ManageDefenseMode",
+      "resourceId": "2160774",
+      "productId": "114"
     },
     {
       "product": "Portal",
@@ -8966,6 +9111,51 @@
       "key": "GerenciarPolicies",
       "resourceId": "1118700",
       "productId": "16"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "View Recommendations",
+      "description": "Visualizar listagem de recomendações no Admin.",
+      "key": "ViewRecommendations",
+      "resourceId": "2160057",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "Edit Recommendations",
+      "description": "Editar recomendações no Admin.",
+      "key": "EditRecommendations",
+      "resourceId": "2160058",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "View Recommendations metrics",
+      "description": "Visualizar métricas de recomendações no Admin.",
+      "key": "ViewRecommendationsMetrics",
+      "resourceId": "2160059",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "View recommendations configuration",
+      "description": "Visualizar configurações de recomendações.",
+      "key": "ViewRecommendationsConfiguration",
+      "resourceId": "2160060",
+      "productId": "137"
+    },
+    {
+      "product": "Recommendations",
+      "category": "Recommendations",
+      "resource": "Edit recommendations configuration",
+      "description": "Editar configurações de recomendações.",
+      "key": "EditRecommendationsConfiguration",
+      "resourceId": "2160061",
+      "productId": "137"
     },
     {
       "product": "Releases",
@@ -9167,9 +9357,27 @@
     },
     {
       "product": "User Rights",
+      "category": "User Rights",
+      "resource": "View Erasure Request",
+      "description": "Visualizar solicitações de remoção de dados de usuário.",
+      "key": "user_rights_read_forget_job",
+      "resourceId": "2163605",
+      "productId": "99"
+    },
+    {
+      "product": "User Rights",
+      "category": "User Rights",
+      "resource": "Create Erasure Request",
+      "description": "Criar solicitações de remoção de dados de usuário.",
+      "key": "user_rights_create_forget_job",
+      "resourceId": "2163606",
+      "productId": "99"
+    },
+    {
+      "product": "User Rights",
       "category": "user-rights-request",
       "resource": "Read user rights requests",
-      "description": "Visualizar solicitações de direitos de usuários, seja em lista ou detalhadas.",
+      "description": "Visualizar solicitações de direitos de usuários, seja em lista ou detalhadas via API legada de user rights.",
       "key": "user_rights_request_read",
       "resourceId": "1634546",
       "productId": "99"
@@ -9178,7 +9386,7 @@
       "product": "User Rights",
       "category": "user-rights-request",
       "resource": "Write user rights requests",
-      "description": "Criar, atualizar ou remover solicitações de direitos de usuários.",
+      "description": "Criar, atualizar ou remover solicitações de direitos de usuários via API legada de user rights.",
       "key": "user_rights_request_write",
       "resourceId": "1634554",
       "productId": "99"
@@ -9187,7 +9395,7 @@
       "product": "User Rights",
       "category": "user-rights-request",
       "resource": "Process User Rights Removal Request",
-      "description": "Processar solicitações de direitos de usuários do tipo remoção.",
+      "description": "Processar solicitações de direitos de usuários do tipo remoção via API legada de user rights.",
       "key": "removal-request-process",
       "resourceId": "1705138",
       "productId": "99"

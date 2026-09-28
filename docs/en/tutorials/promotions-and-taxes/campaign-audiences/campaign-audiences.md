@@ -13,6 +13,10 @@ slugEN: campaign-audiences
 legacySlug: campaign-audiences
 locale: en
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
+seeAlso:
+  - /en/docs/tutorials/campaign-promotion
+  - /en/docs/tutorials/campaign-audiences-list
+  - /en/docs/tutorials/creating-a-campaign-audience
 ---
 
 The Campaign audience feature allows you to define the target audience for promotions. You can learn how to configure this feature in the article [Creating a campaign audience](/en/docs/tutorials/creating-a-campaign-audience).
@@ -30,9 +34,3 @@ The target audience defines which users are eligible and under which conditions.
 ![campanha-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/campaign-audiences/campaign-audiences_1.png)
 
 When the campaign is active, eligible for the purchase context, and all its restrictions are met, that does not necessarily mean that all the campaign audience promotions associated with it will be applied. The restrictions defined in the [campaign promotion](/en/docs/tutorials/campaign-promotion) must also be met.
-
-## Learn more
-
-- [Creating a campaign promotion](/en/docs/tutorials/campaign-promotion)
-- [List of campaign audiences](/en/docs/tutorials/campaign-audiences-list)
-- [Creating a campaign audience](/en/docs/tutorials/creating-a-campaign-audience)

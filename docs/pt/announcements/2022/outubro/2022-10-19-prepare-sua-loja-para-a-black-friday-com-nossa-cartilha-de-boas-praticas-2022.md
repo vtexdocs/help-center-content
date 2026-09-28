@@ -22,9 +22,9 @@ Como fazemos todos os anos, criamos uma cartilha com recomendações e dicas exc
 Disponível para clientes e parceiros VTEX, o guia pode ser acessado diretamente pela URL:
 
 ```
-https://{AccountName}.myvtex.com/admin/shopping-season
+https://{accountName}.myvtex.com/admin/shopping-season
 ```
 
-Basta substituir `{AccountName}` pelo Account Name da sua loja, como na imagem abaixo.
+Basta substituir `{accountName}` pelo Account Name da sua loja, como na imagem abaixo.
 
 ![Shopping Season Guidelines - 2022 - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022/outubro/2022-10-19-prepare-sua-loja-para-a-black-friday-com-nossa-cartilha-de-boas-praticas-2022_1.png)

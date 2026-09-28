@@ -25,7 +25,7 @@ Configuration before the update:
   <tr>
     <td>
       <img
-           src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/october/2020-10-29-seller-restriction-create-promotions-with-more-control-over-affected-sellers_1.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção">
+           src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/october/2020-10-29-seller-restriction-create-promotions-with-more-control-over-affected-sellers_1.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção" />
     </td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@ Configuration after the update:
   <tr>
     <td>
       <img
-           src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/october/2020-10-29-seller-restriction-create-promotions-with-more-control-over-affected-sellers_2.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção">
+           src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/october/2020-10-29-seller-restriction-create-promotions-with-more-control-over-affected-sellers_2.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção" />
     </td>
   </tr>
   <tr>

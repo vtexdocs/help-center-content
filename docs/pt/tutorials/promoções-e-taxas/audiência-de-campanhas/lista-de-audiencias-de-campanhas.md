@@ -13,6 +13,10 @@ slugEN: campaign-audiences-list
 legacySlug: lista-de-audiencias-de-campanhas
 locale: pt
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
+seeAlso:
+  - /pt/docs/tutorials/audiencias-de-campanhas
+  - /pt/docs/tutorials/promocao-de-campanha
+  - /pt/docs/tutorials/criar-audiencia-de-campanha
 ---
 
 A lista de audiências de campanhas cadastradas na sua loja está disponível no Admin VTEX, na página *Promoções > Audiências de campanhas*, ilustrada a seguir.
@@ -75,9 +79,3 @@ Para alterar qualquer configuração da audiência de campanha, siga os passos a
 3. Faça as alterações necessárias na página de edição da Audiência de campanha. Para mais detalhes sobre cada campo disponível, acesse o artigo [Criar Audiência de campanha](/pt/docs/tutorials/criar-audiencia-de-campanha).
 4. Caso tenha realizado alguma alteração no público-alvo, clique em `Atualizar`.
 5. Clique em `Salvar`.
-
-## Saiba mais
-
-* [Audiências de campanhas](/pt/docs/tutorials/audiencias-de-campanhas)
-* [Criar promoção de campanha](/pt/docs/tutorials/promocao-de-campanha)
-* [Criar Audiência de campanha](/pt/docs/tutorials/criar-audiencia-de-campanha)

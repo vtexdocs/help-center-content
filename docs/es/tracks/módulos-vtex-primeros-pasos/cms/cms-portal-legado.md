@@ -17,7 +17,7 @@ order: 3
 
 El CMS Portal (Legado) fue el primer sistema de gestión de contenidos (CMS) de VTEX y no está disponible para nuevas cuentas. Si utilizas el CMS Portal (Legado), puedes seguir accediendo y gestionando el contenido de tu tienda basándote en esta guía.
 
-Para acceder a nuevas funcionalidades y recursos actualizados, considera migrar a una de nuestras soluciones de CMS más recientes: **[CMS](https://developers.vtex.com/docs/guides/cms-for-faststore-storefronts)**, la solución de CMS recomendada para tiendas desarrolladas con [FastStore](https://developers.vtex.com/docs/guides/faststore), o **[Site Editor](es/docs/tutorials/site-editor-vision-general)**, la solución de CMS para tiendas desarrolladas con [Store Framework](https://developers.vtex.com/docs/guides/store-framework).
+Para acceder a nuevas funcionalidades y recursos actualizados, considera migrar a una de nuestras soluciones de CMS más recientes: **[CMS](https://developers.vtex.com/docs/guides/cms-for-faststore-storefronts)**, la solución de CMS recomendada para tiendas desarrolladas con [FastStore](https://developers.vtex.com/docs/guides/faststore), o **[Site Editor](/es/docs/tutorials/site-editor-vision-general)**, la solución de CMS para tiendas desarrolladas con [Store Framework](https://developers.vtex.com/docs/guides/store-framework).
 
 En esta guía aprenderás a usar el CMS Portal (Legado) para gestionar el contenido de tu tienda, incluyendo la creación y organización de layouts, la configuración de páginas y la estructura de carpetas, además de conocer los controles nativos de VTEX disponibles para plantillas.
 
@@ -31,7 +31,7 @@ Esta sección está organizada en carpetas y archivos que tienen las siguientes 
 
 - **HTML Templates:** crear el código HTML y los archivos JavaScript y CSS de referencia que se utilizarán en las páginas del [sitio web](/es/docs/tutorials/que-es-un-web-site).
 
-- **Shelves Templates:** gestionar las [plantillas (templates)](//es/docs/tutorials/que-son-templates) de [estantería de productos](/es/docs/tutorials/que-son-estantes), es decir, los componentes responsables del renderizado de un grupo de productos en el storefront.
+- **Shelves Templates:** gestionar las [plantillas (templates)](/es/docs/tutorials/que-son-templates) de [estantería de productos](/es/docs/tutorials/que-son-estantes), es decir, los componentes responsables del renderizado de un grupo de productos en el storefront.
 
 - **Custom Elements:** crea las condiciones necesarias para implementar componentes reutilizables, como los pies de página, en otras partes de la tienda.
 
@@ -41,7 +41,7 @@ Esta sección está organizada en carpetas y archivos que tienen las siguientes 
 
 - **Product Clusters (Collections):** crea grupos de productos. Puedes utilizarlos para crear páginas de destino de campañas o colecciones de productos con clústeres de productos específicos.
 
-- **Sites and Channels:** configura [el binding de tu tienda](es/docs/tutorials/que-es-binding) y otras configuraciones de License Manager. Para más información, consulta el artículo [Estructura de carpetas del CMS](es/docs/tutorials/estructura-de-carpetas-del-cms).
+- **Sites and Channels:** configura [el binding de tu tienda](/es/docs/tutorials/que-es-binding) y otras configuraciones de License Manager. Para más información, consulta el artículo [Estructura de carpetas del CMS](/es/docs/tutorials/estructura-de-carpetas-del-cms).
 
 ## Estructura de carpetas del CMS Portal (Legado)
 
@@ -87,6 +87,6 @@ Para utilizar un control, incluye la tag en el punto deseado del HTML de la plan
 
 - **[Asociar una plantilla a un layout](/es/docs/tutorials/asociar-un-template-con-un-layout):** asocia una plantilla a un layout utilizando la carpeta de Sites and Channels.
 
-- **[¿Para qué sirve el Control Personalizado?](es/docs/tutorials/para-que-serve-o-controle-customizado):** además de los controles nativos de VTEX, puedes crear tus propios controles.
+- **[¿Para qué sirve el Control Personalizado?](/es/docs/tutorials/para-que-serve-o-controle-customizado):** además de los controles nativos de VTEX, puedes crear tus propios controles.
 
 - **[Configuración de la tienda - Storefront](/es/docs/tutorials/configuracion-de-la-tienda---storefront-subcategoria):** configura los ajustes generales de tu storefront, como metadatos, tags de SEO, tipos de archivos, dimensiones de imágenes y configuración regional para determinar dónde estarán disponibles tus productos.
