@@ -54760,21 +54760,6 @@
             },
             {
               "name": {
-                "en": "Shipping Policy with incorrect MaxVolume on spreadsheet does not show Message error on Simulation",
-                "es": "La política de envío con un volumen máximo incorrecto en la hoja de cálculo no muestra el mensaje de error en la simulación.",
-                "pt": "A política de envio com MaxVolume incorreto na planilha não exibe a mensagem de erro na simulação."
-              },
-              "slug": {
-                "en": "shipping-policy-with-incorrect-maxvolume-on-spreadsheet-does-not-show-message-error-on-simulation",
-                "es": "la-politica-de-envio-con-un-volumen-maximo-incorrecto-en-la-hoja-de-calculo-no-muestra-el-mensaje-de-error-en-la-simulacion",
-                "pt": "a-politica-de-envio-com-maxvolume-incorreto-na-planilha-nao-exibe-a-mensagem-de-erro-na-simulacao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Shipping Simulator UI returns empty “Postal code range”, “Weight range” for KITs SKUs",
                 "es": "La interfaz de usuario de Shipping Simulator muestra valores vacíos en los campos «Rango de códigos postales» y «Rango de peso» para las referencias de los kits",
                 "pt": "A interface do Shipping Simulator exibe valores nulos nos campos “Intervalo de CEP” e “Intervalo de peso” para as SKUs dos kits"
