@@ -63,7 +63,7 @@ Para customizar o seu agente, preencha os campos a seguir:
 Leia a seguir a descrição detalhada de cada tom de voz:
 
 | Tom de voz do agente | Descrição |
-| --- | :--- |
+| --- | --- |
 | Amigável | Interage de forma calorosa e acolhedora, fazendo o cliente se sentir confortável e bem-vindo, estabelecendo uma conexão com empatia e compreensão. |
 | Sistemático | Com um método claro e bem estruturado, segue passos definidos para resolver problemas. Usa uma abordagem lógica e ordenada, com consistência e precisão na comunicação e no suporte ao cliente. |
 | Analítico | Garante que todas as informações estejam dispostas de forma clara e acessível. Ele é lógico e objetivo, guiando o cliente por cada etapa de maneira metodológica, para que nenhum detalhe seja perdido. |

@@ -27,8 +27,8 @@ En esta sección puedes consultar la siguiente información:
 
 ## Características de los datos de stock
 
-| **Característica** | **Descripción** |
-|:---:|:---:|
+| Característica | Descripción |
+|---|---|
 | **Origen** | Alimentado por información del  módulo de logística. |
 | **Disponibilidad** | Admin VTEX. |
 | **Historial** | Ponemos a disposición datos históricos desde junio de 2022. Para los clientes que ya utilizan la plataforma VTEX, los datos se conservan durante dos años a partir de 2024. |
@@ -38,7 +38,7 @@ En esta sección puedes consultar la siguiente información:
 
 Estos son los campos que componen la tabla:  
 
-| **Nombre de la Columna**| **Tipo de Columna** | **Descripción de la Columna** |
+| Nombre de la Columna| Tipo de Columna | Descripción de la Columna |
 |------|--------|---------|
 | main_account | character varying(200) | Nombre de la cuenta principal del comerciante. Identifica la cuenta VTEX de nivel superior a la que pertenece la tienda/entidad. |
 | account_name | character varying(200) | Nombre de la cuenta a la que pertenece el stock. Junto con `warehouse_id` y `item_id`, identifica de forma única un registro de inventario. |
@@ -57,7 +57,7 @@ Estos son los campos que componen la tabla:
 
 Estos son los campos que componen la tabla:
 
-| **Nombre de la Columna**| **Tipo de Columna** | **Descripción de la Columna** |
+| Nombre de la Columna| Tipo de Columna | Descripción de la Columna |
 |------|--------|---------|
 | warehouse_id | character varying(100) | Identificador del almacén. |
 | warehouse_name | character varying(200) | Nombre del almacén según la definición del Admin Console. |

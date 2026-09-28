@@ -54,4 +54,4 @@ That is, I'm using the variables `preposicaonomeloja2` and `nomeloja`.
 
 As I defined the content of the first variable to be "to" and the second one is "World Shopping", the final text rendered on the site will be "Welcome to World Shopping".
 
-To easily change the special variables that appear in the Important Texts section, simply click on them.
+To easily change the special variables that appear in the Important Texts section, click on them.

@@ -29,7 +29,7 @@ Este artigo contém as informações necessárias para:
 * [Editar um estoque existente](/pt/docs/tutorials/gerenciar-estoque#editar-estoque).  
 * [Excluir um estoque](/pt/docs/tutorials/gerenciar-estoque#excluir-estoque).  
 
-> ⚠️ A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é: <body> <ol> <li>[Política de Envio](/pt/docs/tutorials/politica-de-envio)</li> <li>[Doca](/pt/docs/tutorials/gerenciar-doca)</li> <li>[Estoque](/pt/docs/tutorials/estoque)</li> </ol> </body>
+> ⚠️ A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é: <ol> <li>[Política de Envio](/pt/docs/tutorials/politica-de-envio)</li> <li>[Doca](/pt/docs/tutorials/gerenciar-doca)</li> <li>[Estoque](/pt/docs/tutorials/estoque)</li> </ol> 
 
 ## Cadastrar estoque
 

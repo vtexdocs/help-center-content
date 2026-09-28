@@ -35,32 +35,32 @@ Modelos de agentes oficiales:
 ## Feedback Recorder
 
 | Sistema | MCP (Model Context Protocol) | Descripción | Credenciales necesarias |
-| :---: | :--- | :--- | :---: |
+| --- | --- | --- | --- |
 | -- | CSAT (Customer Satisfaction Score) | Solicita que los clientes evalúen su satisfacción con la empresa, producto o servicio en una escala del 1 al 5. | -- |
 | -- | NPS (Net Promoter Score) | Pregunta a los clientes, en una escala del 0 al 10, qué tan probable es que recomienden la empresa, producto o servicio. | -- |
 
 ## Find Pickup Points
 
 | Sistema | MCP (Model Context Protocol) | Descripción | Credenciales necesarias |
-| :---: | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | VTEX | VTEX Pickup Points | Permite que los clientes encuentren tiendas y puntos de recogida cercanos a partir del código postal. | `VTEX Account`: nombre de tu cuenta VTEX. |
 
 ## Monitoring Agent
 
 | Sistema | MCP (Model Context Protocol) | Descripción | Credenciales necesarias |
-| :---: | :--- | :--- | :---: |
+| --- | --- | --- | --- |
 | -- | -- | Registra preguntas sin respuesta o fuera del alcance del proyecto y genera datos para informes en el módulo [**Analytics**](https://help.vtex.com/es/docs/tutorials/analytics). | -- |
 
 ## Order Cancellation
 
 | Sistema | MCP (Model Context Protocol) | Descripción | Credenciales necesarias |
-| :---: | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | VTEX | order_cancellation_vtex | Permite que los clientes cancelen pedidos directamente desde el chat. | `VTEX Base URL`: URL de tu cuenta VTEX. <br> `VTEX App Key`: clave de la [API VTEX](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys). <br> `VTEX App Token`: token de la [API VTEX](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys). <br> `Weni API Token`: token de Weni. |
 
 ## Order Status
 
 | Sistema | MCP (Model Context Protocol) | Descripción | Credenciales necesarias |
-| :---: | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | [Intelipost](https://secure.intelipost.com.br/login/) | Order Status (Intelipost) | Consulta Intelipost para informar el status, seguimiento y otros datos relevantes sobre el pedido del cliente. | `API Key Intelipost`: clave de la API Intelipost. <br> `VTEX Base URL`: URL de tu cuenta VTEX. <br> `VTEX App Key`: clave de la [API VTEX](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys). <br> `VTEX App Token`: token de la [API VTEX](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys). |
 | [Cadê Meu Pedido](https://www.cademeupedido.com.br/login) | Cadê Meu Pedido | Consulta Cadê Meu Pedido para informar detalles del pedido, como facturación y rastreo. | `CadeMeuPedido Base URL`: URL de tu cuenta en Cadê Meu Pedido. <br> `CadeMeuPedido Subdomain`: subdominio de tu cuenta en Cadê Meu Pedido. |
 | VTEX | Orders Agent - VTEX B2B | Consulta el status y los detalles de pedidos B2B en VTEX. Restringe el acceso a usuarios autenticados con permiso para ver pedidos y requiere Organizations Agent para la autenticación. | `VTEX Account Name`: nombre de tu cuenta VTEX. <br> `VTEX App Key`: clave de la [API VTEX](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys). <br> `VTEX App Token`: token de la [API VTEX](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys). |
@@ -71,13 +71,13 @@ Modelos de agentes oficiales:
 ## Organizations Agent
 
 | Sistema | MCP (Model Context Protocol) | Descripción | Credenciales necesarias |
-| :---: | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | VTEX | Organizations Agent | Autentica usuarios B2B, verifica permisos de administrador y ayuda a seleccionar organizaciones para realizar compras. El agente gestiona el flujo desde la autenticación hasta la creación de la sesión. | `VTEX Account`: nombre de tu cuenta VTEX. <br> `VTEX_API_APPKEY`: clave de la [API VTEX](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys). <br> `VTEX_API_APPTOKEN`: token de la [API VTEX](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys). |
 
 ## Payment Agent
 
 | Sistema | MCP (Model Context Protocol) | Descripción | Credenciales necesarias |
-| :---: | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | VTEX | B2B Checkout | Gestiona el carrito y el checkout en tiendas B2B en VTEX. Permite gestionar ítems del carrito, mostrar el carrito, generar el link de checkout y procesar pedidos con pago por pagaré, de acuerdo con los permisos y medios de pago del cliente autenticado. Debe usarse con el Organizations Agent para la autenticación. | `VTEX Account`: nombre de tu cuenta VTEX. <br> `Checkout URL`: URL del checkout en tu tienda. <br> `VTEX App Key`: clave de la [API VTEX](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys). <br> `VTEX App Token`: token de la [API VTEX](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys). |
 | VTEX | Checkout URL | Gestiona el carrito y el checkout en VTEX. Permite agregar, actualizar y eliminar ítems, mostrar el carrito y generar el link de checkout para que el cliente complete la compra en el navegador. También funciona con carritos creados antes de la conversación actual. | `VTEX Account`: nombre de tu cuenta VTEX. <br> `Checkout URL`: URL del checkout en tu tienda. |
 | VTEX | One-click Payment | Gestiona el carrito, consulta opciones de entrega y recogida, y procesa pagos con tarjeta de crédito guardada en VTEX a través de OneClickPayment. Recopila el CVV de forma segura mediante WhatsApp Flow. Si no hay una tarjeta guardada o el canal no es WhatsApp, envía el enlace de checkout para que el cliente complete la compra en el navegador. | `VTEX Account`: nombre de tu cuenta VTEX. <br> `Checkout URL`: URL del checkout en tu tienda. <br> `VTEX App Key`: clave de la [API VTEX](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys). <br> `VTEX App Token`: token de la [API VTEX](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys). <br> `WhatsApp CVV Flow ID`: identificador de tu formulario WhatsApp Flows. |
@@ -89,7 +89,7 @@ Modelos de agentes oficiales:
 ## Product Concierge
 
 | Sistema | MCP (Model Context Protocol) | Descripción | Credenciales necesarias |
-| :---: | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | Synerise | Default | Ayuda a los clientes a encontrar productos por nombre, marca o características, como categoría y color. Devuelve precios, enlaces e imágenes. | `Synerise API Key`: clave de la API de Synerise. <br> `Synerise Index`: índice de Synerise. |
 | VTEX | Agent | Ayuda a los clientes a descubrir, explorar y elegir productos del catálogo de la tienda. Se recomienda para responder preguntas sobre productos, precios, disponibilidad, recomendaciones o navegación en el catálogo. | `VTEX Account`: nombre de tu cuenta VTEX. <br> `Store Domain URL`: URL de tu tienda. |
 | VTEX | Agent - B2B | Busca productos en tiendas B2B de acuerdo con la información de `segment` y `session` del usuario autenticado. Debe usarse con el Organizations Agent para la autenticación. | `VTEX Account`: nombre de tu cuenta VTEX. <br> `Store Domain URL`: URL de tu tienda. |
@@ -100,13 +100,13 @@ Modelos de agentes oficiales:
 ## Promotions Agent
 
 | Sistema | MCP (Model Context Protocol) | Descripción | Credenciales necesarias |
-| :---: | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | VTEX | Promotions | Consulta las promociones públicas y automáticas activas de la tienda VTEX. Se recomienda para preguntas sobre promociones, descuentos, cupones, envío gratis o condiciones especiales. Devuelve datos estructurados para que el manager se los presente al cliente. | `VTEX Account`: nombre de tu cuenta VTEX. <br> `VTEX App Key`: clave de la [API VTEX](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys). <br> `VTEX App Token`: token de la [API VTEX](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys). |
 
 ## Return and Exchange
 
 | Sistema | MCP (Model Context Protocol) | Descripción | Credenciales necesarias |
-| :---: | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | Troquecommerce | Troquecommerce | Consulta el status de cambios y devoluciones de pedidos en Troquecommerce a partir del CPF, CNPJ o correo electrónico del cliente. | `Subdomain (Troquecommerce)`: cuenta en Troquecommerce. <br> `Token Troquecommerce`: token en Troquecommerce. |
 | Reversso | Reversso - Returns Agent | Gestiona devoluciones y cambios de productos usando la API de Reversso. | `Reversso MCP Endpoint URL`: URL del endpoint MCP Reversso. |
 | Aftersale | Reverse Agent (Aftersale) | Gestiona devoluciones y cambios de productos usando la API de Aftersale. | `Token Aftersale API`: token de la API de Aftersale. |
@@ -114,11 +114,11 @@ Modelos de agentes oficiales:
 ## User Manager
 
 | Sistema | MCP (Model Context Protocol) | Descripción | Credenciales necesarias |
-| :---: | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | VTEX | VTEX B2B User Manager | Registra, busca y remueve usuarios en organizaciones VTEX B2B a través de GraphQL. Requiere autenticación previa mediante Organizations Agent. | `VTEX Account`: nombre de tu cuenta VTEX. <br> `VTEX App Key`: clave de la [API VTEX](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys). <br> `VTEX App Token`: token de la [API VTEX](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys). |
 
 ## Utility Agent
 
 | Sistema | MCP (Model Context Protocol) | Descripción | Credenciales necesarias |
-| :---: | :--- | :--- | :---: |
+| --- | --- | --- | --- |
 | -- | -- | Ofrece recursos útiles para conversaciones con clientes, como conversión de moneda y pronóstico del tiempo. | -- |

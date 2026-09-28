@@ -28,7 +28,7 @@ Siga os passos a seguir para criar um website ou colocar a sua primeira loja no 
 
 3. Em **WebSite**, preencha os campos necessários para criar o website. 
 
-| **Campo** | **Descrição** |
+| Campo | Descrição |
 | --------- | ------------- |
 | **Id do WebSite** | Código de identificação do seu website. Não é necessário criar um, pois o sistema gera um ID para o seu website automaticamente. |
 | **Website name** | Nome do seu website |

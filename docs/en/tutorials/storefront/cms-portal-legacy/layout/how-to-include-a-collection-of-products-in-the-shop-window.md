@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to [configure collections through the CMS](/en/docs/tutorials/adding-collections-cms).
+> ⚠️ There are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to [configure collections through the CMS](/en/docs/tutorials/adding-collections-cms).
 
 Shop windows are used to feature products on several pages; they can also be used for recommendations on the product page.
 

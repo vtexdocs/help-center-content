@@ -127,7 +127,7 @@ Para exportar hallazgos a un archivo CSV sigue los pasos a continuación:
 Consulta a continuación la información sobre cada hallazgo incluida en el archivo CSV exportado:
 
 | Columna | Descripción |
-| :---- | :---- |
+| ---- | ---- |
 | *Id* | ID del hallazgo. |
 | *Type* | Tipo de hallazgo detectado. |
 | *Finding* | Email de usuario o clave de API relacionado con el hallazgo. |

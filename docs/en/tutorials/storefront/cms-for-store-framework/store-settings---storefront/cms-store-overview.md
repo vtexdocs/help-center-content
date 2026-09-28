@@ -26,7 +26,7 @@ In the VTEX Admin, access **Store Settings > Storefront > Store**, and take a lo
   Before making changes in the **Advanced** tab, please contact your developer team and read our documentation [Optimizing performance](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-best-practices-for-optimizing-performance#enabling-store-settings) para mais informações.
 </div>
 
-| **Tool** | **Description** |
+| Tool | Description |
 | -------- | --------------- |
 | General  | Set your store’s SEO configuration. |
 | Advanced | Improve your store’s website by enabling performance optimization flags. |

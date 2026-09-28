@@ -32,7 +32,7 @@ The app creates two page groups after being installed in your VTEX environment:
 
 The app creates three types of affiliate pages, available to them without any access to your store's VTEX Admin, as shown in the table below:
 
-| **Type** | **URL** |
+| Type | URL |
 | ---------- | ---------- |
 | Affiliate page | `{storeName.com}/affiliates/{affiliateSlug}` |
 | Affiliate profile page | `{storeName.com}/affiliates/{affiliateSlug}/profile` |

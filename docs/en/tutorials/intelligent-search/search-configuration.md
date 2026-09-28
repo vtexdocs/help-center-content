@@ -3,7 +3,7 @@ title: 'Search configuration'
 id: 1yNCDwz0k77ovSGqkTbZMv
 status: PUBLISHED
 createdAt: 2024-06-17T14:08:59.824Z
-updatedAt: 2026-07-06T00:00:00.000Z
+updatedAt: 2026-08-26T00:00:00.000Z
 publishedAt: 2025-04-24T15:27:15.330Z
 firstPublishedAt: 2024-06-17T14:10:20.364Z
 contentType: tutorial
@@ -32,6 +32,8 @@ The general settings display the following options related to[ product and SKU s
 * **Searchable specifications:** Determines which product specifications can be searched by the search engine.
 
     For example, if a shirt doesn't have a color in the product name, by default, Intelligent Search won't identify this attribute in the search results for "blue shirt", returning shirts of different colors. However, if the color specification is set as searchable, the search can return blue shirts in the top results.
+
+> ℹ️ In addition to the product name and brand, you can configure specifications to also generate keywords, which increases the relevance of products whose specification value matches the search, even when the term isn't in the product name. This feature is available on demand: to enable it, contact [VTEX Support](https://supporticket.vtex.com/support). Learn more at [How search result relevance works](https://help.vtex.com/en/docs/tutorials/intelligent-search-how-search-result-relevance-works#keywords-from-specifications).
 
 ## Facet settings
 

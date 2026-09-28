@@ -23,7 +23,7 @@ Proyectos te permite personalizar la configuración, contenido y marca de cada p
 
 ## Qué cambió
 
-Antes, para gestionar diferentes proyectos con distintos públicos o soluciones, en el Admin VTEX había que acceder a **Hub de extensiones** > **Gestión de aplicaciones**** y buscar la aplicación **CMS (alpha)**. Dentro de la aplicación **CMS (alpha)**, había que crear y configurar cada proyecto individualmente.
+Antes, para gestionar diferentes proyectos con distintos públicos o soluciones, en el Admin VTEX había que acceder a **Hub de extensiones** > **Gestión de aplicaciones**** y buscar la aplicación** CMS (alpha)**. Dentro de la aplicación** CMS (alpha)**, había que crear y configurar cada proyecto individualmente.
 
 Ahora, la interfaz **Proyectos** te permite gestionar todos tus proyectos desde un único dashboard centralizado, desde donde puedes cambiar fácilmente de un proyecto a otro para ajustar la configuración, contenido e identidad desde un solo lugar. Esta mejora le aporta adaptabilidad a tu operación y te brinda la oportunidad de atender públicos y objetivos distintos.
 

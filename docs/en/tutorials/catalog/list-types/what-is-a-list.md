@@ -1,5 +1,5 @@
 ---
-title: 'What is a List?'
+title: 'Lists'
 id: 4b4NsVFwA8kwqS8S82w4Go
 status: PUBLISHED
 createdAt: 2018-01-25T21:44:19.327Z
@@ -13,7 +13,6 @@ slugEN: what-is-a-list
 legacySlug: what-is-a-list
 locale: en
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
-order: 1
 ---
 
 > ⚠️ The **List** feature is exclusive to stores that use CMS Portal (Legacy).

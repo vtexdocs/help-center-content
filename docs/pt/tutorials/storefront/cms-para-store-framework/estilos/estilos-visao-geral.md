@@ -1,5 +1,5 @@
 ---
-title: 'Estilos - Visão geral'
+title: 'Estilos'
 id: v0Db5ohEKSFIkTzSwCjVi
 status: PUBLISHED
 createdAt: 2022-01-04T21:56:41.366Z
@@ -13,7 +13,7 @@ slugEN: styles-overview
 legacySlug: estilos-visao-geral
 locale: pt
 subcategoryId: 5HsDDU48ZP58JHWU3WbCPc
-order: 1
+categoryCover: true
 ---
 
 A página **Estilos** permite que você defina a tipografia e a paleta de cores do site da sua loja.
@@ -26,7 +26,7 @@ Para acessar a seção Estilos, entre no Admin VTEX, acesse **Storefront > Estil
   Para aplicar e prever mudanças nos estilos da sua loja, certifique-se de utilizar um workspace que suporte o tráfego de produção, como um [workspace de produção](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-workspace). 
 </div>
 
-| **Ferramenta** | **Ferramenta** |
+| Ferramenta | Ferramenta |
 | -------------- | -------------- |
 | Styles (Estilos) | Uma lista de cores e estilos tipográficos criados para o site da sua loja. |
 | Mais opções      | Edite ou duplique um template de estilo. |

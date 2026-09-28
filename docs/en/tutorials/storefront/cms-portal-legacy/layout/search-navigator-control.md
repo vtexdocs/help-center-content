@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to [configure collections through the CMS](/en/docs/tutorials/adding-collections-cms).
+> ⚠️ There are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to [configure collections through the CMS](/en/docs/tutorials/adding-collections-cms).
 
 The `<vtex.cmc:searchNavigator/>` control renders a menu of filters related to the result of a search.
 

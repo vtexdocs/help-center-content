@@ -1,5 +1,5 @@
 ---
-title: 'Site Editor - Información general'
+title: 'Site Editor'
 id: 299Dbeb9mFczUTyNQ9xPe1
 status: PUBLISHED
 createdAt: 2021-12-14T20:14:01.406Z
@@ -13,7 +13,6 @@ slugEN: site-editor-overview
 legacySlug: site-editor-vision-general
 locale: es
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
-order: 1
 ---
 
 <div style="background-color:#cfe2ff; border-left: 2px solid #084298; border-top-left-radius: 2px; border-bottom-left-radius: 2px; margin-bottom: 10px; padding: 15px">
@@ -26,7 +25,7 @@ En el Admin VTEX, accede **Storefront > Site Editor** y verifica las principales
 
 ![Site Editor - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/cms-para-store-framework/site-editor/site-editor-vision-general_1.png)
 
-| **Herramienta**    | **Descripción** |
+| Herramienta    | Descripción |
 | ----------        | ----------    |
 | Configuración regional del *binding* | Selecciona la configuración regional del binding a la que deseas aplicar los cambios de contenido. Por ejemplo, Inglés (en-GB), Portugués (pt-BR) y Español (es-AR). |
 | URL | Navega entre las páginas disponibles de tu tienda.|

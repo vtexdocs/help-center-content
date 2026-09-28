@@ -27,8 +27,8 @@ This section includes the following information:
 
 ## Data characteristics
 
-| **Characteristic** | **Description** |
-|:---:|:---:|
+| Characteristic | Description |
+|---|---|
 | **Data source** | Obtained from information in the logistics module. |
 | **Availability** | VTEX Admin. |
 | **History** | We have made historical data available since June 2022. For customers who already use the VTEX platform, data is retained for two years starting in 2024. |
@@ -38,7 +38,7 @@ This section includes the following information:
 
 The table fields are described below:
 
-| **Column Name**| **Column Type**| **Description**|
+| Column Name| Column Type| Description|
 |--------|------------|---------------|
 | main_account | character varying(200) | Name of the merchant's main account. Identifies the top-level VTEX account that the store/entity belongs to. |
 | account_name | character varying(200) | Name of the account to which the inventory belongs. Together with `warehouse_id` and `item_id`, it uniquely identifies an inventory record. |
@@ -57,7 +57,7 @@ The table fields are described below:
 
 The table fields are described below:
 
-| **Column Name**| **Column Type**| **Description**|
+| Column Name| Column Type| Description|
 |--------|------------|---------------|
 | warehouse_id | character varying(100) | Identifier for warehouse. |
 | warehouse_name | character varying(200) | The warehouse name according Admin Console definition. |

@@ -1,10 +1,10 @@
 ---
 title: 'Configure clustered conditions'
 id: 1LwzfViwdvLMxijASF0GU6
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-11-18T13:54:49.394Z
-updatedAt: 2020-11-18T17:38:09.905Z
-publishedAt: 2020-11-18T17:38:09.905Z
+updatedAt: 2026-09-25T17:52:00.000Z
+publishedAt: 
 firstPublishedAt: 2020-11-18T17:38:09.905Z
 contentType: trackArticle
 productTeam: Financial
@@ -13,6 +13,7 @@ locale: en
 trackId: 1LqUFHQZ3ZQyV5TmugbGNm
 trackSlugEN: clustered-payment-conditions
 order: 5
+hidden: true
 ---
 
 As mentioned, Clustered Payment Conditions establish that a payment condition will apply to one or more customers. 
@@ -21,7 +22,7 @@ As mentioned, Clustered Payment Conditions establish that a payment condition wi
 
 Let’s take a look at how we should configure an exclusive payment condition for clusters.
 
-> ❗ **Warning**: you can only create five client clusters for each payment condition.  
+> ❗ You can only create five client clusters for each payment condition.  
 
 You can create a new payment condition by applying the clustering conditions. To do so, go to Admin > Payments > Settings > Payment Conditions.
 

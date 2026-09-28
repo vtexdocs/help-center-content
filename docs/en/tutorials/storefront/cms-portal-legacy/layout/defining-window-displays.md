@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to [configure collections through the CMS](/en/docs/tutorials/adding-collections-cms).
+> ⚠️ There are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to [configure collections through the CMS](/en/docs/tutorials/adding-collections-cms).
 
 Window displays are used to highlight products on different pages, or for recommendations on a product page.
 
@@ -63,4 +63,4 @@ If it is necessary to update the created content after saving it, just click on 
 
 Click **Update Content List** after all changes were made and clicking on **Save Settings** afterwards.
 
-__Attention! __ When creating or editing items in CMS, it is indispensable to click on **Save Settings** so that no changes are lost.
+__Attention!__ When creating or editing items in CMS, it is indispensable to click on **Save Settings** so that no changes are lost.

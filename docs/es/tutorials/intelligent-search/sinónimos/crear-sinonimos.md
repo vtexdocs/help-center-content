@@ -3,7 +3,7 @@ title: 'Crear sinónimos'
 id: 5IfjhvjxNAvJGEWNn0AhOA
 status: PUBLISHED
 createdAt: 2024-06-27T16:36:30.904Z
-updatedAt: 2025-10-15T13:46:16.968Z
+updatedAt: 2026-08-05T00:00:00.000Z
 publishedAt: 2025-10-15T13:46:16.968Z
 firstPublishedAt: 2024-06-27T16:37:25.800Z
 contentType: tutorial
@@ -40,6 +40,24 @@ Siga el proceso paso a paso para configurar sinónimos individualmente en VTEX A
 La alteración puede tardar hasta dos horas en aplicarse.
 
 > ℹ️ Esta funcionalidad está disponible en VTEX Intelligent Search Multidioma. Lea nuestro artículo [VTEX Intelligent Search: configuración Multidioma](/es/docs/tutorials/vtex-intelligent-search-configuracion-multidioma#sinonimos) para saber más.
+
+### Detección de sinónimos conflictivos
+
+Al llenar el campo **Términos** en el paso anterior, Intelligent Search verifica si los términos ingresados ya están cubiertos por otra regla de sinónimo existente en la tienda. Esta verificación ayuda a evitar duplicados y conflictos de relevancia, especialmente en tiendas con una gran cantidad de sinónimos configurados.
+
+Cuando se detecta que alguno de los términos ya forma parte de otra regla de sinónimo, se muestra un aviso en el formulario indicando cuántos sinónimos comparten los mismos términos. Haz clic en `Ver reglas en conflicto` para abrir, en otra pestaña, la página de **Sinónimos en conflicto**, que muestra una lista de las reglas superpuestas con la siguiente información:
+
+| Columna | Descripción |
+|---|---|
+| Términos | Términos definidos en el sinónimo en conflicto. |
+| Creado el | Fecha de creación del sinónimo en conflicto. |
+| Status | Status del sinónimo en conflicto, que puede ser Activo o Inactivo. |
+
+Desde esta página, puedes revisar cada sinónimo conflictivo de forma individual y [editarlo](https://help.vtex.com/es/docs/tutorials/lista-de-sinonimos#editar-sinonimo) o [eliminarlo](https://help.vtex.com/es/docs/tutorials/lista-de-sinonimos#eliminar-sinonimo), según sea necesario.
+
+Al hacer clic en `Guardar`, si hay un conflicto, se muestra una ventana de confirmación que solicita que confirmes el registro o la edición aunque exista la superposición identificada.
+
+> ℹ️ La detección de conflictos no impide el registro del sinónimo, solamente alerta sobre superposiciones existentes en la base para que puedas decidir si deseas ajustar las reglas registradas.
 
 ## Importar CSV
 

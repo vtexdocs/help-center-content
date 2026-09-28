@@ -1,5 +1,5 @@
 ---
-title: '¿Cómo puede mi cliente iniciar sesión en mi tienda?'
+title: 'Inicio de sesión y autenticación del cliente'
 id: 3FCNpwbpZe0U4auiI4CC0C
 status: PUBLISHED
 createdAt: 2018-10-15T21:25:25.230Z

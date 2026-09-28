@@ -31,17 +31,17 @@ Las siguientes imágenes presentan los puntos de extensión en la jornada de ven
 
 - Carrito de compras (`cart.cart-item.after`, `cart.cart-list.after`) y checkout (`cart.order-summary.after`):
 
-  ![extensibilidade_vtex_sales_app_1_cart_checkout_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_1_cart_checkout_ES.png)
+  ![extensibilidade_vtex_sales_app_1_cart_checkout_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apps/vtex-sales-app/extensibilidade_vtex_sales_app_1_cart_checkout_ES.png)
 
 - Página de detalles del producto (`pdp.sidebar.before`, `pdp.sidebar.after`, `pdp.content.after`):
 
-  ![extensibilidade_vtex_sales_app_4_pdp_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_4_pdp_ES.png)
+  ![extensibilidade_vtex_sales_app_4_pdp_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apps/vtex-sales-app/extensibilidade_vtex_sales_app_4_pdp_ES.png)
 
 - Menú (`menu.item`) y modal lateral (`menu.drawer-content`):
 
-  ![extensibilidade_vtex_sales_app_2_menu_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_2_menu_ES.png)
+  ![extensibilidade_vtex_sales_app_2_menu_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apps/vtex-sales-app/extensibilidade_vtex_sales_app_2_menu_ES.png)
 
-  ![extensibilidade_vtex_sales_app_3_drawer_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_3_drawer_ES.png)
+  ![extensibilidade_vtex_sales_app_3_drawer_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apps/vtex-sales-app/extensibilidade_vtex_sales_app_3_drawer_ES.png)
 
 ## ¿Qué se necesita hacer?
 

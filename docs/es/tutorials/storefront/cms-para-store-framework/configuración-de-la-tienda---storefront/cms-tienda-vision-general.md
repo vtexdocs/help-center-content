@@ -26,7 +26,7 @@ En el Admin VTEX, accede a **Configuración de la tienda > Storefront > Tienda**
   Antes de realizar cambios en la **pestaña Advanced (Avanzado)**, ponte en contacto con tu equipo de desarrolladores y consulta nuestra [documentación sobre la optimización del rendimiento](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-best-practices-for-optimizing-performance#enabling-store-settings) para mais informações.
 </div>
 
-| **Herramienta** | **Descripción** |
+| Herramienta | Descripción |
 | -------- | --------------- |
 | General  | Realiza la configuración de SEO de tu tienda. |
 | Advanced (Avanzado) | Mejora el sitio web de tu tienda habilitando las flags de optimización del rendimiento. |

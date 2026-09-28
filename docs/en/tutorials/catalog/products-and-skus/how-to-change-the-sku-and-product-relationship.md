@@ -1,5 +1,5 @@
 ---
-title: 'How to change the SKU and Product relationship'
+title: 'Changing the SKU and Product relationship'
 id: 6LEuMI1YYMYMeIwg606Wce
 status: PUBLISHED
 createdAt: 2017-07-04T17:56:33.013Z
@@ -20,9 +20,9 @@ You can change the relation between an SKU and a Product by editing the SKU, fol
 1. In the VTEX Admin, go to __Catalog__, or type __Catalog__ in the search bar at the top of the page.
 2. Click on **All products**.
 3. In the desired product, click on the down arrow <i class="fas fa-angle-down"></i> and select the __SKU__ option.
-4. In the SKU you want to delete, click on `Change`. 
+4. In the SKU you want to edit, click on `Change`. 
 5. In the **Product name (ID)** field, in **Current Selection**, click `Remove` to disassociate the product currently related to the SKU.
-6. To associate the SKU to another product, enter the product name in the **Product name (ID)** field and click on the desired product. If you prefer, you can click on `Advanced Search` to search by __Name__, __ID__ or __SKU__ the new product to be related. Searching for the product by __ID__ or __SKU__ will be more precise for cases where there is the same value for __Name__ in different products.
+6. To associate the SKU to another product, enter the product name in the **Product name (ID)** field and click on the desired product. If you prefer, you can click on `Advanced Search` to search by __Name__, __ID__ or __SKU__ for the new product to be related. Searching for the product by __ID__ or __SKU__ will be more precise for cases where there is the same value for __Name__ in different products.
 7. After finding the desired product, click `Add`.
 8. Click on `Save`.
 

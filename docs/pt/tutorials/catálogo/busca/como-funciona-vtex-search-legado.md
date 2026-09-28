@@ -1,5 +1,5 @@
 ---
-title: 'Como funciona a VTEX Search (Legado)'
+title: 'VTEX Search (Legado)'
 id: tutorials_542
 status: PUBLISHED
 createdAt: 2017-04-27T22:02:07.746Z
@@ -13,6 +13,7 @@ slugEN: how-does-vtex-search-legacy-work
 legacySlug: como-funciona-a-vtex-search-legado
 locale: pt
 subcategoryId: 383bZO0kymqpnNf7Z4NdEg
+categoryCover: true
 ---
 
 Este artigo tem o objetivo de descrever o funcionamento do sistema de VTEX Search (Legado).
@@ -98,11 +99,11 @@ Estes são os campos usados pelo algoritmo de busca e seus pesos para pontuaçã
 
 Por exemplo, considerando o seguinte indexador:
 
-| Nome do produto     | Nome complemento do produto	    | Palavras substitutas     | Especificações de produto     |
-| ---------- | ---------- | ---------- | ---------- |
-| Bola de futebol       | Society       | bola de futibol, bola de football       | Branca       |
-| Bola       | Society       | soçaite, sossaite       | Bola de futebol       |
-| Chuteira de futebol       | Campo       | Xuteira de futebol, Chuteira de football       | Branca       |
+| Nome do produto | Nome complemento do produto | Palavras substitutas | Especificações de produto |
+| --- | --- | --- | --- |
+| Bola de futebol | Society | bola de futibol, bola de football | Branca |
+| Bola | Society | soçaite, sossaite | Bola de futebol |
+| Chuteira de futebol | Campo | Xuteira de futebol, Chuteira de football | Branca |
 
 #### Termo buscado 1: Bola de futebol
 

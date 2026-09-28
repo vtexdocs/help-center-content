@@ -1,5 +1,5 @@
 ---
-title: 'What is the difference between product and SKU?'
+title: 'Differences between product and SKU'
 id: 5yhABFDOpyiUcicce2W4CM
 status: PUBLISHED
 createdAt: 2018-01-26T17:49:48.383Z
@@ -21,6 +21,6 @@ Products can vary by shape, color, size, among other characteristics. You may ha
 
 In this example, one of the SKUs of the "Shirt" product could be "White Long Sleeve Shirt XL". This is the item that physically exists in your stock.
 
-On VTEX platform, one of the conditions for your product to be active, that is, to appear in your store, is to have an SKU assigned to it, even it this product has no variations. In that case, you'll have 1 SKU for 1 product: for example, product "Shirt", with SKU "Shirt".
+On the VTEX platform, one of the conditions for your product to be active, that is, to appear in your store, is to have an SKU assigned to it, even if this product has no variations. In that case, you'll have 1 SKU for 1 product: for example, product "Shirt", with SKU "Shirt".
 
 Structurally, first you define the product information and then you create your SKUs.

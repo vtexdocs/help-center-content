@@ -39,7 +39,7 @@ La intención es minimizar el uso del desafío (para optimizar la experiencia de
 
 VTEX está integrado con reCAPTCHA enterprise, que ofrece dos enfoques de validación: checkbox (equivalente a [reCAPTCHA v2](https://developers.google.com/recaptcha/docs/display)) y basada en puntuación (equivalente a [reCAPTCHA v3](https://developers.google.com/recaptcha/docs/v3)). Consulta la siguiente tabla para saber qué versión se aplica a tu operación.
 
-| **Características de la tienda**        | **Versión de reCAPTCHA** |
+| Características de la tienda        | Versión de reCAPTCHA |
 |-----------------------------------------|--------------------------|
 | Storefront nativo VTEX                  | Checkbox (v2)                       |
 | Storefront propio para web              | Checkbox (v2) o Basada en puntuación (v3)                  |
