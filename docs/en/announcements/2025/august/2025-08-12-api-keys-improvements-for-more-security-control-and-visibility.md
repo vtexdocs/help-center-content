@@ -51,7 +51,7 @@ The single-access link can be copied for later access or shared with the person 
 <table style="border-collapse:collapse;border:none;margin:auto;">
   <tr>
     <td style="border:none;padding:0;text-align:center;">
-      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/august/2025-08-12-api-keys-improvements-for-more-security-control-and-visibility_3.png" alt="renew-recommended-en" style="display:block;max-width:100%;height:auto;margin:auto;">
+      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/august/2025-08-12-api-keys-improvements-for-more-security-control-and-visibility_3.png" alt="renew-recommended-en" style="display:block;max-width:100%;height:auto;margin:auto;" />
     </td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ The single-access link can be copied for later access or shared with the person 
 <table style="border-collapse:collapse;border:none;margin:auto;">
   <tr>
     <td style="border:none;padding:0;text-align:center;">
-      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/august/2025-08-12-api-keys-improvements-for-more-security-control-and-visibility_4.png" alt="renew-highly-recommended-en" style="display:block;max-width:100%;height:auto;margin:auto;">
+      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/august/2025-08-12-api-keys-improvements-for-more-security-control-and-visibility_4.png" alt="renew-highly-recommended-en" style="display:block;max-width:100%;height:auto;margin:auto;" />
     </td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@ The single-access link can be copied for later access or shared with the person 
 <table style="border-collapse:collapse;border:none;margin:auto;">
   <tr>
     <td style="border:none;padding:0;text-align:center;">
-      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/august/2025-08-12-api-keys-improvements-for-more-security-control-and-visibility_5.png" alt="pending-deletion-alert-en" style="display:block;max-width:100%;height:auto;margin:auto;">
+      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/august/2025-08-12-api-keys-improvements-for-more-security-control-and-visibility_5.png" alt="pending-deletion-alert-en" style="display:block;max-width:100%;height:auto;margin:auto;" />
     </td>
   </tr>
   <tr>
@@ -96,7 +96,7 @@ The single-access link can be copied for later access or shared with the person 
 <table style="border-collapse:collapse;border:none;margin:auto;">
   <tr>
     <td style="border:none;padding:0;text-align:center;">
-      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/august/2025-08-12-api-keys-improvements-for-more-security-control-and-visibility_6.png" alt="delete-pending-en" style="display:block;max-width:100%;height:auto;margin:auto;">
+      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/august/2025-08-12-api-keys-improvements-for-more-security-control-and-visibility_6.png" alt="delete-pending-en" style="display:block;max-width:100%;height:auto;margin:auto;" />
     </td>
   </tr>
   <tr>

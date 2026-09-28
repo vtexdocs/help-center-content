@@ -1,10 +1,10 @@
 ---
 title: 'How clustered conditions work'
 id: 2CmfhSqmOTVo0tLWkAPiiA
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-11-18T12:47:27.764Z
-updatedAt: 2020-11-23T12:32:27.706Z
-publishedAt: 2020-11-23T12:32:27.706Z
+updatedAt: 2026-09-25T17:52:00.000Z
+publishedAt: 
 firstPublishedAt: 2020-11-18T17:37:48.695Z
 contentType: trackArticle
 productTeam: Financial
@@ -13,6 +13,7 @@ locale: en
 trackId: 1LqUFHQZ3ZQyV5TmugbGNm
 trackSlugEN: clustered-payment-conditions
 order: 3
+hidden: true
 ---
 
 The Clustered Payment Conditions uses conditions to create client clusters. 

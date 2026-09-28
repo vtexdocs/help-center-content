@@ -36,10 +36,10 @@ See all the available configurations below:
   > ℹ️ The configuration **Overwrite prices for sellers** is not available for white label sellers.
 
 ## Consulting the Parent Account
-To check the parent account linked to a child account, use the following URL, replacing {AccountName} with the child account's name:
+To check the parent account linked to a child account, use the following URL, replacing `{accountName}` with the child account's name:
 
 ```
-http://{AccountName}.myvtex.com/api/vlm/account
+http://{accountName}.myvtex.com/api/vlm/account
 ```
 
 Upon accessing this URL, the API will return various account-related information. To identify the parent account, locate the `accountName` field in the API response. This field contains the name of the parent account linked to the specified child account.

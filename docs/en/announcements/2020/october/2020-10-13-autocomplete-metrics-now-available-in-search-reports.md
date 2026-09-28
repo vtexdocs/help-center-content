@@ -24,7 +24,7 @@ Previously it was only possible to see, and export reports on search results and
 <table width = "100%">
   <tr>
     <td>
-      <img src = "https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/october/2020-10-13-autocomplete-metrics-now-available-in-search-reports_1.png" style = "display:block; margin-left: auto; margin-right: auto;" alt = "Opções de filtros do relatório" title = "Opções de filtros do relatório">
+      <img src = "https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/october/2020-10-13-autocomplete-metrics-now-available-in-search-reports_1.png" style = "display:block; margin-left: auto; margin-right: auto;" alt = "Opções de filtros do relatório" title = "Opções de filtros do relatório" />
     </td>
   </tr>
   <tr>

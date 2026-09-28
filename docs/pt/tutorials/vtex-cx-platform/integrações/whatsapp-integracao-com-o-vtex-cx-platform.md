@@ -8,7 +8,17 @@ slugEN: whatsapp-vtex-cx-platform-integration
 locale: pt
 ---
 
-Com a integração do WhatsApp no VTEX CX Platform, você conecta um número comercial do WhatsApp ao projeto e cria fluxos inteligentes para atender os clientes.
+A integração do WhatsApp no [VTEX CX Platform](https://help.vtex.com/pt/tutorial/vtex-cx-platform-overview) conecta um número comercial do WhatsApp Business ao seu projeto. Com o canal ativo, a loja envia e recebe mensagens por esse número e gerencia as configurações da conta sem sair da plataforma.
+
+Depois de vincular a conta da Meta e criar o canal, você pode:
+
+- Consultar os identificadores do número e da conta do WhatsApp Business (WABA) e acessar os templates de mensagem.
+- Editar o perfil público visível para o cliente no WhatsApp, como imagem, descrição, setor, websites, email e endereço.
+- Configurar um webhook para que um sistema externo receba os eventos de mensagem.
+- Acompanhar o volume de conversas por categoria de cobrança e solicitar um relatório detalhado por email.
+- Solicitar a verificação da conta junto à Meta para desbloquear limites maiores de envio e intervalos menores entre mensagens.
+
+Neste tutorial, você vai aprender a integrar o WhatsApp ao projeto, criar e configurar o canal e verificar sua conta do WhatsApp Business.
 
 ## Integrar o WhatsApp ao projeto
 
