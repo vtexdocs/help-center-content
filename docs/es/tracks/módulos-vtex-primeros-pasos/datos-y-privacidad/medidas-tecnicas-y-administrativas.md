@@ -40,6 +40,21 @@ Consulta a continuación las prácticas adoptadas por VTEX, detalladas en el [DP
 
 Para obtener más información, consulta [Prácticas de seguridad - VTEX](https://vtex.com/co-es/security/security-practices/).
 
+## Certificaciones
+
+VTEX audita regularmente sus controles de seguridad de la información a través de profesionales independientes para garantizar la transparencia y la excelencia en sus prácticas. Esta validación externa alinea políticas y procedimientos con los estándares de seguridad, lo que refuerza la confianza de clientes y partners.
+
+VTEX cuenta con las siguientes certificaciones y acreditaciones:
+
+* **ISO 27001** – Sistema de gestión de la seguridad de la información.
+* **ISO 27701** – Sistema de gestión de la privacidad de la información (PIMS), extensión de la norma ISO 27001.
+* **SOC 1 – Type 2**: informes que abarcan los controles internos sobre los sistemas de información financiera.
+* **SOC 2 – Type 2**: informes que abarcan la seguridad, disponibilidad, integridad, confidencialidad y privacidad.
+* **PCI-DSS**: validación de los controles sobre los datos de titulares de tarjetas para reducir el fraude con tarjetas de crédito.
+* **PCI-DESV**: conjunto adicional de procedimientos y requisitos de validación aplicados a determinadas organizaciones de alto riesgo o designadas.
+
+Consulta nuestras [Certificaciones](https://compliance.vtex.com/) para más detalles.
+
 ## Almacenamiento
 
 El [proveedor de hosting](https://compliance.vtex.com/?itemUid=e3fae2ca-94a9-416b-b577-5c90e382df57&source=click/) utilizado por VTEX es Amazon Web Services (AWS), que almacena datos en la región de Virginia del Norte, en EE. UU. La plataforma AWS es un referente en el sector del hosting en la nube y cuenta con importantes certificaciones como ISO 27001, PCI DSS, CSA, NIST, entre otras. Puedes consultar una lista de certificaciones detallada accediendo a [Programas de conformidad de AWS](https://aws.amazon.com/en/compliance/programs/). La autorización para almacenar datos en AWS se encuentra en nuestro [DPA](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/).

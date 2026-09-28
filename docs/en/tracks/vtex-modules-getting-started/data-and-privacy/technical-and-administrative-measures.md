@@ -40,6 +40,21 @@ See below the practices adopted by VTEX, detailed in the[ DPA](https://complianc
 
 For more information, see [Security Practices - VTEX](https://vtex.com/us-en/security/security-practices/).
 
+## Certifications
+
+VTEX regularly audits its information security controls through independent professionals to ensure transparency and best practices. This external validation aligns policies and procedures with security standards and strengthens the trust of clients and partners.
+
+VTEX holds the following certifications and accreditations:
+
+* **ISO 27001** – Information Security Management System (ISMS).
+* **ISO 27701** – Privacy Information Management System (PIMS), an extension of ISO 27001.
+* **SOC 1 – Type 2**: Reports that covers internal controls over financial reporting systems.
+* **SOC 2 – Type 2**: Reports covering security, availability, integrity, confidentiality, and privacy.
+* **PCI-DSS**: Validation of controls over cardholder data, to reduce credit card fraud.
+* **PCI-DESV**: An additional set of procedures and validation requirements applied to specific high-risk or designated organizations.
+
+See our [Certifications](https://compliance.vtex.com/) for more details.
+
 ## Storage
 
 The [hosting provider](https://compliance.vtex.com/?itemUid=e3fae2ca-94a9-416b-b577-5c90e382df57&source=click/) used by VTEX is Amazon Web Services (AWS), which stores data in the Northern Virginia region of the United States. The AWS platform is a benchmark in the cloud hosting sector and has important certifications, such as ISO 27001, PCI DSS, CSA, NIST, etc. For a detailed list of certifications, see [AWS Compliance Programs](https://aws.amazon.com/en/compliance/programs/). Authorization for data storage on AWS can be found in our [DPA](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/).
