@@ -17,7 +17,7 @@ Na VTEX, sua loja pode receber pagamentos por meio de promissórias customizadas
 
 > ⚠️ As informações deste artigo não são referentes as condições de pagamento **Promissory** ou **CardPromissory** disponíveis no Admin em **Configurações da loja > Pagamentos > Configurações > Condições de pagamento**.
 
-> ⚠️ Em lojas que usam [Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), o único tipo de promissória compatível é o meio de pagamento `207`. Confirme o meio de pagamento antes de concluir a configuração.
+> ⚠️ Lojas que usam o [**B2B Buyer Portal**](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt) precisam da promissória compatível com esse produto. O cartão no Admin não exibe o número do meio de pagamento. O endereço de acesso direto está em [Configurações do contrato](https://help.vtex.com/pt/docs/tutorials/configuracoes-do-contrato).
 
 ## Configurar provedor de pagamento
 

@@ -20,6 +20,7 @@ Este artículo describe los siguientes elementos:
   - [Editar una dirección](#editar-una-direccion)
   - [Eliminar una dirección](#eliminar-una-direccion)
 - [Gestionar medios de pago](#gestionar-medios-de-pago)
+  - [Configurar el pagaré compatible](#configurar-el-pagare-compatible)
   - [Agregar un medio de pago](#agregar-un-medio-de-pago)
   - [Remover un medio de pago](#remover-un-medio-de-pago)
 - [Gestionar tarjetas de crédito](#gestionar-tarjetas-de-credito)
@@ -90,7 +91,19 @@ Los **destinatarios** son personas registradas en la organización compradora pa
 
 La página **Medios de pago** lista los medios de pago actualmente disponibles para la unidad organizativa. El usuario puede agregar medios de los disponibles para la unidad o remover los existentes.
 
-> ℹ️ Para pagos con pagaré, el **B2B Buyer Portal** solo es compatible con el pagaré del medio de pago `207`. Más información en [Configurar pagos con Pagaré](https://help.vtex.com/es/docs/tutorials/configurar-pagos-con-pagare).
+### Configurar el pagaré compatible
+
+Al configurar medios de pago en tu tienda, existen diferentes opciones de pago con pagaré, diferenciadas por códigos numéricos.
+
+Para pagos con pagaré, el **B2B Buyer Portal** solo es compatible con el pagaré del medio de pago `207`. Configura ese pagaré en el **Admin** antes de agregarlo a los medios de pago del contrato.
+
+Para abrir el pagaré compatible, accede a la URL `https://{accountName}.myvtex.com/admin/pci-gateway#/custom-payments/promissories/207`, sustituyendo `{accountName}` por el [account name](https://help.vtex.com/es/docs/tutorials/que-es-account-name) de la tienda.
+
+No uses la búsqueda de pagarés del **Admin** para localizar el pagaré compatible.
+
+El primer resultado de la búsqueda puede ser un pagaré incompatible con el **B2B Buyer Portal**.
+
+Para completar los demás campos del pagaré, consulta [Configurar pagos con Pagaré](https://help.vtex.com/es/docs/tutorials/configurar-pagos-con-pagare).
 
 ### Agregar un medio de pago
 

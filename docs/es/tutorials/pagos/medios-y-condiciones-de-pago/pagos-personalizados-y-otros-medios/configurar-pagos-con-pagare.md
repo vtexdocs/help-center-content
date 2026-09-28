@@ -23,7 +23,7 @@ En VTEX, su tienda puede recibir pagos a través de pagarés. Para habilitar est
 
 > ⚠️ La información contenida en este artículo no se refiere a las condiciones de pago **Promissory** o **CardPromissory** disponibles en el Admin en **Configuración de la tienda > Pago > Configuración > Condiciones de pago**.
 
-> ⚠️ En tiendas que usan [Buyer Portal](https://help.vtex.com/es/docs/tutorials/b2b-buyer-portal-es), el único tipo de pagaré compatible es el medio de pago `207`. Confirme el medio de pago antes de concluir la configuración.
+> ⚠️ Las tiendas que usan el [**B2B Buyer Portal**](https://help.vtex.com/es/docs/tutorials/b2b-buyer-portal-es) necesitan el pagaré compatible con este producto. La caja de configuración en el Admin no muestra el número del medio de pago. Más información en [Configuración del contrato](https://help.vtex.com/es/docs/tutorials/configuraciones-del-contrato).
 
 ## Configurar proveedor de pago
 

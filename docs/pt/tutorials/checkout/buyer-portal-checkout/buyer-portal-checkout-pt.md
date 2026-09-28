@@ -34,7 +34,7 @@ O Buyer Portal Checkout entrega todas as funcionalidades esperadas de um checkou
 - Suporte a múltiplos métodos de pagamento, incluindo cartão de crédito com parcelamento e cartões salvos (com fluxo B2B sem CVV), PIX com QR code e finalização com one-click checkout.
 - Revisão e confirmação do pedido com possibilidade de editar cada seção, status do pedido (aprovado ou pendente), número, resumos de entrega ou retirada e pagamento.
 
-> ℹ️ Para aceitar pagamentos com promissória no Buyer Portal Checkout, use o meio de pagamento `207`. Saiba mais em [Configurar pagamentos com Promissória](https://help.vtex.com/pt/docs/tutorials/configurar-pagamentos-com-promissoria).
+> ℹ️ Para aceitar pagamentos com promissória no **Buyer Portal Checkout**, use a promissória compatível com o **B2B Buyer Portal**. Saiba mais em [Configurações do contrato](https://help.vtex.com/pt/docs/tutorials/configuracoes-do-contrato).
 
 Além desses recursos, a VTEX oferece funcionalidades para otimizar a experiência de compra de cenários B2B, facilitando a personalização e oferecendo segurança na transação para seus compradores.
 
