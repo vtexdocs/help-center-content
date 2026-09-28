@@ -66670,12 +66670,12 @@
               "name": {
                 "en": "Promotional price table in large shopping carts can impact performance or lead to timeout errors",
                 "es": "Las tablas de precios promocionales en carritos de la compra de gran tamaño pueden afectar al rendimiento o provocar errores por tiempo de espera agotado",
-                "pt": "A tabela de preços promocionais em carrinhos de compras de grande porte pode afetar o desempenho ou causar erros de tempo limite"
+                "pt": "A tabela de preços promocionais em carrinhos de compras grandes pode afetar o desempenho ou causar erros de tempo limite."
               },
               "slug": {
                 "en": "promotional-price-table-in-large-shopping-carts-can-impact-performance-or-lead-to-timeout-errors",
                 "es": "las-tablas-de-precios-promocionales-en-carritos-de-la-compra-de-gran-tamano-pueden-afectar-al-rendimiento-o-provocar-errores-por-tiempo-de-espera-agotado",
-                "pt": "a-tabela-de-precos-promocionais-em-carrinhos-de-compras-de-grande-porte-pode-afetar-o-desempenho-ou-causar-erros-de-tempo-limite"
+                "pt": "a-tabela-de-precos-promocionais-em-carrinhos-de-compras-grandes-pode-afetar-o-desempenho-ou-causar-erros-de-tempo-limite"
               },
               "origin": "",
               "type": "markdown",
