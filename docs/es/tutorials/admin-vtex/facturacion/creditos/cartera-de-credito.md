@@ -17,7 +17,7 @@ seeAlso:
 
 Este artículo explica cómo se calcula el crédito de Cartera de crédito, cómo se aplica a los cargos de Master Data y qué sucede con el saldo no utilizado.
 
-> ℹ️ Para saber cómo consultar la información de tu Cartera de crédito, consulta [Consultar Cartera de crédito](/es/docs/tutorials/consultar-cartera-de-credito).
+> ℹ️ Para saber cómo acceder a la información de tu Cartera de crédito, consulta [Consultar Cartera de crédito](/es/docs/tutorials/consultar-cartera-de-credito).
 
 ## Cómo se calcula el crédito
 

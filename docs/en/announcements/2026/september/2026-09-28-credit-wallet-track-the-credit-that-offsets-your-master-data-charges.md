@@ -16,7 +16,7 @@ The VTEX Admin now offers the **Credits** page in **Billing Information**, where
 
 ## What has changed?
 
-**Billing** now includes a new page, **Credits**, alongside Contracts, Invoices, Registration Information, and Billing Contacts. To access it, click your avatar — identified by the initial of your email — in the upper right corner of the screen, and then go to **Billing > Credits**.
+**Billing** now includes a new page, **Credits**, alongside Contracts, Invoices, Registration Information, and Billing Contacts. To access it, click your avatar — identified by the initial of your email — in the upper-right corner of the screen, and then go to **Billing > Credits**.
 
 On the **Credits** page, you'll find:
 

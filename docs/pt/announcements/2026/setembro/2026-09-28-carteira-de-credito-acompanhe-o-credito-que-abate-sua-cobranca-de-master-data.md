@@ -6,7 +6,7 @@ contentType: updates
 productTeam: Billing
 slugEN: 2026-09-28-credit-wallet-track-the-credit-that-offsets-your-master-data-charges
 locale: pt
-announcementSynopsisPT: 'Acompanhe sua Carteira de Crédito pela nova página Créditos, no Admin VTEX, e veja como ela abate a cobrança de Master Data.'
+announcementSynopsisPT: 'Acompanhe sua Carteira de Crédito pela nova página Créditos do Admin VTEX e veja como ela abate a cobrança de Master Data.'
 tags:
   - Nova funcionalidade
   - Billing
