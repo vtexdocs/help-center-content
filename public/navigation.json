@@ -11751,9 +11751,24 @@
                 },
                 {
                   "name": {
-                    "en": "4. Glossary",
-                    "es": "4. Glosario",
-                    "pt": "4. Glossário"
+                    "en": "4. CMS for FastStore",
+                    "es": "4. CMS for FastStore",
+                    "pt": "4. CMS for FastStore"
+                  },
+                  "slug": {
+                    "en": "cms-for-faststore",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "5. Glossary",
+                    "es": "5. Glosario",
+                    "pt": "5. Glossário"
                   },
                   "slug": {
                     "en": "glossary",
@@ -54738,21 +54753,6 @@
                 "en": "shipping-policy-stuck-in-processing-status-is-displayed-as-active-in-the-new-logistics-ui",
                 "es": "una-politica-de-envios-que-se-encuentra-en-estado-de-procesamiento-aparece-como-activa-en-la-nueva-interfaz-de-usuario-de-logistica",
                 "pt": "a-politica-de-envio-que-esta-no-status-em-processamento-e-exibida-como-ativa-na-nova-interface-de-logistica"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Shipping Policy with incorrect MaxVolume on spreadsheet does not show Message error on Simulation",
-                "es": "La política de envío con un volumen máximo incorrecto en la hoja de cálculo no muestra el mensaje de error en la simulación.",
-                "pt": "A política de envio com MaxVolume incorreto na planilha não exibe a mensagem de erro na simulação."
-              },
-              "slug": {
-                "en": "shipping-policy-with-incorrect-maxvolume-on-spreadsheet-does-not-show-message-error-on-simulation",
-                "es": "la-politica-de-envio-con-un-volumen-maximo-incorrecto-en-la-hoja-de-calculo-no-muestra-el-mensaje-de-error-en-la-simulacion",
-                "pt": "a-politica-de-envio-com-maxvolume-incorreto-na-planilha-nao-exibe-a-mensagem-de-erro-na-simulacao"
               },
               "origin": "",
               "type": "markdown",
