@@ -1,10 +1,10 @@
 ---
-title: 'Credit Wallet: Track the credit that offsets your Master Data charges'
-createdAt: '2026-09-28T00:00:00.000Z'
-updatedAt: '2026-09-28T00:00:00.000Z'
+title: 'Credit Wallet: track the credit that offsets your Master Data charges'
+createdAt: '2026-09-29T00:00:00.000Z'
+updatedAt: '2026-09-29T00:00:00.000Z'
 contentType: updates
 productTeam: Billing
-slugEN: 2026-09-28-credit-wallet-track-the-credit-that-offsets-your-master-data-charges
+slugEN: 2026-09-29-credit-wallet-track-the-credit-that-offsets-your-master-data-charges
 locale: en
 announcementSynopsisEN: 'Track your Credit Wallet through the new Credits page in the VTEX Admin and see how it offsets Master Data charges.'
 tags:
@@ -12,7 +12,7 @@ tags:
   - Billing
 ---
 
-The VTEX Admin now offers the **Credits** page in **Billing Information**, where you can check your company's [Credit Wallet](/en/docs/tutorials/credit-wallet) balance and usage. Credit Wallet is a billing credit automatically granted by VTEX and used to offset [Master Data](/en/docs/tutorials/master-data) charges.
+The VTEX Admin now offers the **Credits** page in **Billing Information**, where you can check your company's [Credit Wallet](/en/docs/tutorials/credit-wallet) balance and usage. Credit Wallet is a billing credit automatically granted by VTEX and used to offset [Master Data](/en/docs/tutorials/master-data) charges, which occur regardless of the version used (v1 or v2).
 
 ## What has changed?
 
