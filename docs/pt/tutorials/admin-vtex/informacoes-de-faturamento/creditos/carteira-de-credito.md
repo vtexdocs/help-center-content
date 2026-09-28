@@ -20,7 +20,7 @@ Neste artigo, entenda como o crédito da Carteira de Crédito é calculado, como
 
 ## Como o crédito é calculado
 
-Quando uma empresa opera com mais de uma conta na VTEX (por exemplo, contas-franquia ou ambientes adicionais), todas são agrupadas em uma empresa para fins de faturamento. É essa empresa que recebe uma fatura consolidada, e é neste nível que o crédito da Carteira de Crédito é calculado e aplicado, e não por conta individual.
+Quando uma empresa opera com mais de uma conta na VTEX (por exemplo, [contas franquia](/pt/docs/tutorials/o-que-e-conta-franquia) ou ambientes adicionais), todas são agrupadas em uma empresa para fins de faturamento. É essa empresa que recebe uma fatura consolidada, e é neste nível que o crédito da Carteira de Crédito é calculado e aplicado, e não por conta individual.
 
 Todo mês, a VTEX soma tudo o que a empresa — ou seja, todas as contas agrupadas sob ela — pagou à VTEX no mês anterior (do dia 1 ao último dia do mês) e concede, no mês seguinte, um crédito equivalente a 2% deste valor total.
 
