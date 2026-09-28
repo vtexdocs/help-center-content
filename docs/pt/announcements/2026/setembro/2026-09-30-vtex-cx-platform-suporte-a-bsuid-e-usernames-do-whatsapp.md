@@ -1,8 +1,8 @@
 ---
 title: 'VTEX CX Platform: suporte a BSUID e usernames do WhatsApp'
-slug: '2026-09-18-vtex-cx-platform-suporte-a-bsuid-e-usernames-do-whatsapp'
-createdAt: 2026-09-18T12:00:00.000Z
-updatedAt: 2026-09-18T12:00:00.000Z
+slug: '2026-09-30-vtex-cx-platform-suporte-a-bsuid-e-usernames-do-whatsapp'
+createdAt: 2026-09-30T12:00:00.000Z
+updatedAt: 2026-09-30T12:00:00.000Z
 contentType: updates
 productTeam: VTEX CX Platform
 slugEN: whatsapp-privacy-first-contact-identity
