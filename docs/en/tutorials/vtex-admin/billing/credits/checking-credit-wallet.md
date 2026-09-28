@@ -9,7 +9,7 @@ locale: en
 subcategoryId: credit-wallet
 ---
 
-To access Credit Wallet, click your avatar — identified by your email initial — in the upper-right corner of the screen. Then click **Billing information > Credits**.
+To access Credit Wallet, when logged in to the VTEX Admin, click your avatar — identified by your email initial — in the upper-right corner of the screen. Then click **Billing information > Credits**.
 
 > ⚠️ Only users with the [Finance](/en/docs/tutorials/predefined-roles#finance), [Finance Full Access](/en/docs/tutorials/predefined-roles#finance-full-access) access profile, or with the `View Credits` resource from [Billing](/en/docs/tutorials/predefined-roles#billing) linked to the profile can access the **Credits** page in the VTEX Admin.
 
