@@ -66788,6 +66788,21 @@
             },
             {
               "name": {
+                "en": "Promotions may accumulate with manual prices when accumulateWithManualPrice is not explicitly set",
+                "es": "Las promociones pueden acumularse con los precios manuales cuando no se establece explícitamente la opción accumulateWithManualPrice.",
+                "pt": "As promoções podem acumular com preços manuais quando `accumulateWithManualPrice` não for explicitamente definido."
+              },
+              "slug": {
+                "en": "promotions-may-accumulate-with-manual-prices-when-accumulatewithmanualprice-is-not-explicitly-set",
+                "es": "las-promociones-pueden-acumularse-con-los-precios-manuales-cuando-no-se-establece-explicitamente-la-opcion-accumulatewithmanualprice",
+                "pt": "as-promocoes-podem-acumular-com-precos-manuais-quando-accumulatewithmanualprice-nao-for-explicitamente-definido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Promotions UI loading wrong currency information",
                 "es": "La interfaz de usuario de «Promociones» muestra información errónea sobre la moneda",
                 "pt": "A interface de usuário das promoções está exibindo informações incorretas sobre a moeda"
