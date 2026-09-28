@@ -19,7 +19,7 @@ The objective of this tutorial is to teach how to send the payment options from 
 
 This feature allows for purchases made on an e-commerce to be completed with the payment options of a physical store. This decreases the complexity of the operation, separating centers of cost, since the invoice and the payments will be attributed directly to the Registration Number of the physial store, which acts as White Label Seller of a Marketplace.
 
-> ℹ️ This configuration replaces the old feature of ** Alternative Accounts** for this scenario.
+> ℹ️ This configuration replaces the old feature of **Alternative Accounts** for this scenario.
 
 ## Registering payment options on the Seller White Label
 
@@ -45,7 +45,7 @@ To send payment options to a Marketplace, it’s necessary for the Seller White 
 - __Sales Channel__: ID of the commercial of the Seller White Label that will send the information to the Marketplace
 - __E-mail for notifications__: Fill in with an e-mail that will receive notifications about the integration
 - __Search Endpoint__: This field in not mandatory
-- __Search Endpoint_ Version_: Select the option __1.x.x__
+- __Search Endpoint Version__: Select the option __1.x.x__
 - __Use my payment option__: Select this checkbox for your payment options for the Marketplace. By selecting this option, the payment options that are registered with the Seller White Label will be sent to the Marketplace checkout.
 
 

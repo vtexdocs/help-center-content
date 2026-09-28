@@ -27,7 +27,7 @@ Al instalar [certificados SSL personalizados](/es/docs/tutorials/certificados-ss
 Consulta la tabla a continuación para identificar el significado y verificar la acción correctiva específica para cada mensaje de error:
 
 | Tipo de error | Significado | Acción requerida |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Este host no está incluido en el certificado | Seleccionaste por lo menos un host que no corresponde a los hosts presentes en los `AltNames` del certificado.  | <ul><li>Remover el host destacado en rojo para dejar de seleccionar el host no mencionado en el certificado.</li><li>Revisar el contenido de los `AltNames` del certificado utilizando una herramienta como [Certificate Decoder](https://www.sslshopper.com/certificate-decoder.html) y, de ser necesario, obtener otro certificado que incluya los hosts deseados.</li></ul> |
 | Formato no válido  | El certificado enviado tiene un formato que no es válido.   | Revisar el archivo del certificado y comprobar que sea un archivo CRT. |
 | Estos hosts ya no existen | Se eliminó de la cuenta al menos uno de los hosts enviados antes de que se instalara el certificado. Esto puede suceder, por ejemplo, cuando otro usuario del Admin elimina el host durante la configuración. Los hosts descritos aparecen destacados en rojo. | Al actualizar la página y llenar nuevamente el formulario, los hosts eliminados ya no estarán entre las opciones. Los hosts eliminados se pueden reconfigurar antes de instalar el certificado o se pueden dejar sin seleccionar. |

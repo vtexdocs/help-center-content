@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Site Editor e Mídia: nova solicitação de autorização'
 id: 7tO32uRxIUK8lOp8AvWs2L
 status: PUBLISHED

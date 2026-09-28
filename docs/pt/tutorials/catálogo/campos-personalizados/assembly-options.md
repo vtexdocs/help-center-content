@@ -35,7 +35,7 @@ Existem duas formas de implementar Assembly Options: utilizando o [app Assembly 
 
 ### App Assembly Options
 
-O app [Assembly Options](https://apps.vtex.com/vtex-admin-assembly-options/p), disponível para lojas desenvolvidas usando [VTEX IO](https://developers.vtex.com/docs/guides/store-framework), oferece uma interface para configuração e gerenciamento das opções de customização. Nesse caso, a sintaxe da Assembly Option e o anexo são gerados automaticamente. Para saber mais sobre esse aplicativo, leia a documentação [App Assembly Options](/pt/docs/tutorials/app-assembly-options).
+O app [Assembly Options](https://developers.vtex.com/docs/apps/vtex.admin-assembly-options), disponível para lojas desenvolvidas usando [VTEX IO](https://developers.vtex.com/docs/guides/store-framework), oferece uma interface para configuração e gerenciamento das opções de customização. Nesse caso, a sintaxe da Assembly Option e o anexo são gerados automaticamente. Para saber mais sobre esse aplicativo, leia a documentação [App Assembly Options](/pt/docs/tutorials/app-assembly-options).
 
 ### Campos personalizados
 

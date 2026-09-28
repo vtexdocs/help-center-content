@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Lançamentos: página Calendário (Beta)'
 id: 46wSZ7Z5xoXQPP0xHfIx9C
 status: PUBLISHED

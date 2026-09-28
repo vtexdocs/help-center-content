@@ -1,5 +1,5 @@
 ---
-title: 'Como ver o log de reindexações do catálogo?'
+title: 'Visualizando o log de reindexações do catálogo'
 id: 6cND6PhkaIgGsaeEQYyuMA
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:41.135Z
@@ -17,7 +17,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 É possível consultar o log de quando e por quem foram feitas reindexações da base por meio da ferramenta Full Clean Up, acessível pela seguinte URL:
 
-`https://{AccountName}.vtexcommercestable.com.br/admin/Site/fullcleanup.aspx`
+`https://{accountName}.vtexcommercestable.com.br/admin/Site/fullcleanup.aspx`
 
 Na verdade, qualquer ação tomada no Full Clean Up fica registrada nessa página.
 

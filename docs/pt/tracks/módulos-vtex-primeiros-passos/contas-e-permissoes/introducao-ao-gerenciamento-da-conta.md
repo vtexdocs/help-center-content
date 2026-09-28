@@ -27,7 +27,7 @@ Após fazer login, você terá acesso ao painel administrativo exclusivo da sua 
 
 Para acessar as **Configurações da conta**, clique no avatar do seu perfil (marcado pela inicial do seu email) no canto superior direito do Admin, e depois em **Configurações da conta**.
 
-![Admin v4 account settings menu](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/visao-geral-configuracoes-da-conta_1.jpg)
+![Admin v4 account settings menu](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/admin-vtex/gerenciamento-da-conta/visao-geral-configuracoes-da-conta_1.jpg)
 
 Nesta seção, você encontra as principais páginas para gerenciar sua conta:
 

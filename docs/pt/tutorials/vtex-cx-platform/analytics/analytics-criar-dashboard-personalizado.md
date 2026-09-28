@@ -15,7 +15,7 @@ O módulo de **Analytics** do VTEX CX Platform permite criar dashboards personal
 Para criar um dashboard personalizado, siga as etapas a seguir:
 
 1. No módulo de **Analytics**, clique no menu ao lado do nome **Analytics**.
-2. Clique em `+ Novo dashboard`.
+2. Clique em <i class="fas fa-plus" aria-hidden="true"></i>`Novo dashboard`.
 3. Insira um nome para o dashboard, selecione a moeda da sua loja e escolha um layout.
 4. Clique em `Salvar`. O novo dashboard será aberto.
 

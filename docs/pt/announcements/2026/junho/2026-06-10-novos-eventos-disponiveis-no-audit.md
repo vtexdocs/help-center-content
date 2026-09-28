@@ -8,7 +8,7 @@ slugEN: 2026-06-10-new-events-available-in-audit
 locale: pt
 announcementSynopsisPT: 'Ampliamos a lista de eventos do Audit com novos registros para as aplicações VTEX ID, Master Data, Pedidos e Vale-presente, oferecendo mais visibilidade sobre operações sensíveis na sua loja.'
 tags:
-  - Novo
+  - Melhoria
   - Audit
 ---
 

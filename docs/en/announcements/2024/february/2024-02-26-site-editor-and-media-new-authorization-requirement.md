@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Site Editor and Media: new authorization requirement'
 id: 7tO32uRxIUK8lOp8AvWs2L
 status: PUBLISHED

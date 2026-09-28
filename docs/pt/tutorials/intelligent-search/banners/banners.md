@@ -13,6 +13,7 @@ slugEN: banners
 legacySlug: banners
 locale: pt
 subcategoryId: z6qcw06Z38YDu1fOcu9Jn
+categoryCover: true
 ---
 
 Banners é a funcionalidade do Intelligent Search responsável por exibir banners, como ações promocionais, na página de resultado de busca do cliente. A exibição do banner é baseada na análise do contexto de busca - incluindo termos e filtros selecionados - na jornada de compra do cliente. Também é possível configurar banners para cada uma das categorias existentes no seu catálogo, assim como para os departamentos e subcategorias.

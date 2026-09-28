@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Setting up product comparison'
 id: tutorials_236
 status: PUBLISHED

@@ -26,6 +26,6 @@ Para consultar os erros de integração de estoque mais comuns em determinado ma
 - [Carrefour](/pt/docs/tutorials/erros-de-integracao-de-estoque-com-o-carrefour)
 - [Netshoes](/pt/docs/tutorials/erros-de-integracao-de-estoque-com-a-netshoes)
 
-| **SAIBA MAIS** |
+| SAIBA MAIS |
 | ---------- |
 |Para mais informações sobre marketplace e oportunidades de crescimento, confira o artigo [Estratégias de marketplace na VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex).|

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Multimedia - Información general'
 id: 31fhjHTt4TBoo50AmGQ9b2
 status: PUBLISHED

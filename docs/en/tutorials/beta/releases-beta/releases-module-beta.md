@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Releases Module (Beta)'
 id: n2tN0WX5I6MJMbrJrS0Kb
 status: PUBLISHED
@@ -88,7 +88,7 @@ All the releases are listed in the VTEX Admin, in **Store Settings > Releases**.
 
 On the `SCHEDULED` tab, each column is described as follows:
 
-| **Column** | **Description** |
+| Column | Description |
 | ---------- | ---------- |
 | Name | Name identifying the release, set in the creation stage. You can edit the name anytime since the release has not already been published. |
 | Last modified | The amount of time since the last change was made to the release, such as updating, adding, or deleting content. |
@@ -103,7 +103,7 @@ In the `UNSCHEDULED` tab, there are only three columns with the same meaning as 
 - Last modified
 - Created by
 
-For more information on a specific release, you can simply click it.
+For more information on a specific release, you can click it.
 
 ## Searching releases
 

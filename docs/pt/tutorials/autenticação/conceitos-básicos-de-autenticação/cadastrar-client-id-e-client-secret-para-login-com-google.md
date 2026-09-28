@@ -56,7 +56,7 @@ Siga os passos abaixo:
 16. __Origens JavaScript autorizadas__: cadastre as URLs exatas que poderão usar este método de autenticação, o que corresponde ao seu site; exemplo `https://www.loja.com`. Recomendamos cadastrar também a URL da sua conta: `https://{{accountName}}.myvtex.com` de sua conta, substituindo `{{accountName}}` pelo nome da sua conta, conforme descrito no Admin VTEX.
 17. __URIs de redirecionamento autorizados__: cadastre a URL de serviço da VTEX:
 
-    -`https://vtexid.vtex.com.br/VtexIdAuthSiteKnockout/ReceiveAuthorizationCode.ashx`
+    - `https://vtexid.vtex.com.br/VtexIdAuthSiteKnockout/ReceiveAuthorizationCode.ashx`
 
     ![Configurações Aplicativo Web Google PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autenticação/conceitos-básicos-de-autenticação/cadastrar-client-id-e-client-secret-para-login-com-google_10.png)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Releases: Release concept (Beta)'
 id: 4pWhQTXG0aIIsi2TYxxRkZ
 status: PUBLISHED
@@ -39,8 +39,8 @@ The feature can be accessed through the VTEX Admin **Releases** navigation menu,
 
 A release can have different statuses from its creation to its publication or deletion, for example. On the [Calendar](/en/docs/tutorials/planner-calendar-page-beta) and [Releases](/en/docs/tutorials/planner-releases-page-beta) pages, the status of each release is displayed associated with a color, as shown in the table below:
 
-| **Status** | **Color** | **Definition** |
-|:---:|:---:|:---:|
+| Status | Color | Definition |
+|---|---|---|
 | `Scheduled` | Blue | There is a date set for publishing the release. |
 | `Not scheduled` | Gray | There is no date set for publishing the release. |
 | `Queued` | Green (flashing) | The publication of the release is in the deployment stage and no action by the retailer is required for the release to get to the next status, which can be `Publishing` or `Publishing failed`. |

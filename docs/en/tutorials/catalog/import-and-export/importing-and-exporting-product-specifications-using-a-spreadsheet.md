@@ -20,7 +20,7 @@ In VTEX Admin, you can manage product specification import and export using a sp
 
 To import product specifications using a spreadsheet, follow these steps:
 
-1. In the VTEX Admin, go to **Catalog > Products and SKUs**, or type [Products and SKUs](/en/docs/tutorials/products-and-skus) in the search barat the top of the page.
+1. In the VTEX Admin, go to **Catalog > Products and SKUs**, or type [Products and SKUs](/en/docs/tutorials/products-and-skus) in the search bar at the top of the page.
 2. At the top of the page, click `Import`.
 3. Click `Product specifications`.
 4. Add the spreadsheet with an `.xls` or `.xlsx` extension. You can drag and drop the file onto the designated area, or click the window to select the file locally.
@@ -53,7 +53,7 @@ Once the export is complete, you'll receive an email with a link to download the
 The following table describes and includes an example for each field of the product specification import spreadsheet. Required fields are marked with an asterisk (*).
 
 | Field | Description | Example |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | Product ID* | Unique numeric code identifying the product. | 310117603 |
 | Product Name | Product name shown to customers during the browsing experience. | Cotton t-shirt |
 | Product Reference Code | Unique product reference code, used internally by the store. To complete this field, use a combination of letters and/or numbers. | shirtColor |

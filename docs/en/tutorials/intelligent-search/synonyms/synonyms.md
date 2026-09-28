@@ -25,7 +25,7 @@ During a search, Intelligent Search receives the term entered by the customer an
 
 This means that even if the customer doesn't search for the exact word listed in the product, they can still get relevant results. This increases the chances of a successful search and reduces the likelihood of getting no results.
 
-The use of synonyms also complements the search [reports](/en/docs/tutorials/analytics) without results. This analysis allows the merchant to identify unsuccessful searches and determine which terms would benefit from synonyms.
+The use of synonyms also complements the search [reports](/en/docs/tutorials/intelligent-search-analytics) without results. This analysis allows the merchant to identify unsuccessful searches and determine which terms would benefit from synonyms.
 
 ## Types of synonyms
 

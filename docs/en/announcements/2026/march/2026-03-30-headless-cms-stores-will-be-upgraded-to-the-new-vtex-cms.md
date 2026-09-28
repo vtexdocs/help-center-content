@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Headless CMS (Legacy): Stores will be upgraded to the new VTEX CMS"
 createdAt: 2026-03-27T17:08:52.219Z
 updatedAt: 2026-03-30T17:08:52.219Z

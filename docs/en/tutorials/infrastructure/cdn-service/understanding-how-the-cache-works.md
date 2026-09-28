@@ -43,7 +43,7 @@ The same thing happens with the other pages of the site. What is most important 
 
 If we think of the cache layer as a data bank (or an Excel worksheet), in general terms it would look like a table with two columns: URL and content. 
 
-The “URL” column representing the name of the cached **request **(page or file) and the “content” column representing the html code or binary code (in the case of files) for that **request**.
+The “URL” column representing the name of the cached **request**(page or file) and the “content” column representing the html code or binary code (in the case of files) for that **request**.
 
 So when a **request** is made, the system searches on this big table, from the “URL” for the “content”, and returns it to the browser.
 

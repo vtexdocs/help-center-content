@@ -37,8 +37,8 @@ The most common errors in Amazon orders are:
 
 To fix integration errors in Amazon orders, consider the options in the following table:
 
-|**Error message**|**Meaning**|**Required action**|
-|:---:|:---:|:---|
+|Error message|Meaning|Required action|
+|---|---|---|
 |**No available sla to deliver this order**|Something is preventing the delivery of the order to the end customer. |To identify the root cause of the error and fix it, see [SLA errors in marketplace order integration](/en/docs/tutorials/sla-errors-in-marketplace-integration-orders).|
 |**Order with SKU out of stock**|There is a problem with the inventory associated with the marketplace.|To fix the error, see the [Out of stock errors in marketplace order integration](/en/docs/tutorials/out-of-stock-errors-in-marketplace-integration-orders) to identify which out of stock error is associated with the order. Then, follow the steps indicated in the documentation.|
 |**Inactive SKU**|At least one SKU in the order is not active in the store catalog.|Check the SKU status by accessing the VTEX Admin, under **Catalog > Products and SKUs,** then activate a single SKU following the instructions in the tutorial Filling in SKU registration fields or activate multiple SKUs following the steps described in [Activating SKUs in bulk](/en/docs/tutorials/activating-skus-in-bulk). |

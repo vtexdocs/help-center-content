@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Site Editor y Multimedia: nuevo requisito de autorización'
 id: 7tO32uRxIUK8lOp8AvWs2L
 status: PUBLISHED

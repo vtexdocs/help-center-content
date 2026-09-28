@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Releases: página Calendario (Beta)'
 id: 46wSZ7Z5xoXQPP0xHfIx9C
 status: PUBLISHED

@@ -1,0 +1,29 @@
+---
+title: 'Configurar pago con VindiPagamentos'
+createdAt: 2026-08-04T00:00:00.000Z
+updatedAt: 2026-08-04T00:00:00.000Z
+contentType: tutorial
+productTeam: Financial
+slugEN: setting-up-payments-with-vindipagamentos
+locale: es
+hidden: false
+---
+
+En VTEX es posible la integración con el proveedor de pagos VindiPagamentos. Con este proveedor, su tienda puede realizar ventas a través de diversos métodos de pago, como Visa, Mastercard, American Express, Elo, Hipercard, Pix y BankInvoice.
+
+Para configurar VindiPagamentos, siga los pasos a continuación:
+
+1. En el Admin VTEX, accede a **Configuración de la tienda > Pago > Proveedores**, o escribe **Proveedores** en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre **VindiPagamentos** en la barra de búsqueda y haga clic en el nombre del proveedor.
+4. En **Autorización del proveedor**, rellene los campos **Clave de aplicación** y **Token de aplicación** con los datos proporcionados por su cuenta VindiPagamentos.
+5. Si desea modificar el nombre de identificación que se mostrará para el proveedor VindiPagamentos en la pantalla VTEX Admin, ingrese la información en el campo **Nombre** en **Información general**.
+6. En **Control de pago**, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en **Activar modo de prueba**.
+7. Si desea utilizar [split de pagos](/es/docs/tutorials/split-de-pagos) en su tienda, seleccione la opción **Activar split de cobros y enviar destinatarios de pago** e indique el **Responsable de cargos de procesamiento de pagos** y el **Responsable de contracargos** (marketplace, sellers o marketplace y sellers).
+8. Haga clic en `Guardar`.
+
+Para configurar los métodos de pago a procesar por VindiPagamentos, acceda al [Configurar Condiciones de Pago](/es/docs/tutorials/condiciones-de-pago).
+
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/docs/tutorials/condiciones-especiales).
+
+Después de seguir los pasos indicados, VindiPagamentos puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

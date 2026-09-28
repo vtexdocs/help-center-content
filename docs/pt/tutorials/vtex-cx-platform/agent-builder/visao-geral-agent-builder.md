@@ -63,7 +63,7 @@ Para customizar o seu agente, preencha os campos a seguir:
 Leia a seguir a descrição detalhada de cada tom de voz:
 
 | Tom de voz do agente | Descrição |
-| --- | :--- |
+| --- | --- |
 | Amigável | Interage de forma calorosa e acolhedora, fazendo o cliente se sentir confortável e bem-vindo, estabelecendo uma conexão com empatia e compreensão. |
 | Sistemático | Com um método claro e bem estruturado, segue passos definidos para resolver problemas. Usa uma abordagem lógica e ordenada, com consistência e precisão na comunicação e no suporte ao cliente. |
 | Analítico | Garante que todas as informações estejam dispostas de forma clara e acessível. Ele é lógico e objetivo, guiando o cliente por cada etapa de maneira metodológica, para que nenhum detalhe seja perdido. |
@@ -91,7 +91,11 @@ Em **Prévia dos agentes**, existem duas configurações possíveis:
 
 - **Feedback progressivo dos agentes:** ative-o <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o agente envie atualizações em tempo real ao usuário enquanto redige a resposta final. Caso contrário, deixe-o desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
+Em **Mensagens do sistema**, você pode personalizar a mensagem de erro enviada ao cliente quando um erro de API impede o agente de gerar uma resposta. Cada projeto pode ter a sua própria mensagem, adaptada ao tom de voz da marca.
 
+> ⚠️ A mensagem de erro é enviada exatamente como configurada e não é traduzida automaticamente. Escreva o texto no idioma em que o seu agente atende os clientes.
+
+Para salvar seus ajustes, clique em `Salvar alterações`.
 
 #### Editar instruções
 

@@ -1,10 +1,10 @@
 ---
 title: 'What are Clustered Payment Conditions?'
 id: 4z2upCJ2om27Cs0BVJRA0U
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-11-18T11:49:06.387Z
-updatedAt: 2024-05-07T19:41:05.528Z
-publishedAt: 2024-05-07T19:41:05.528Z
+updatedAt: 2026-09-25T17:52:00.000Z
+publishedAt: 
 firstPublishedAt: 2020-11-18T17:37:30.544Z
 contentType: trackArticle
 productTeam: Financial
@@ -13,6 +13,7 @@ locale: en
 trackId: 1LqUFHQZ3ZQyV5TmugbGNm
 trackSlugEN: clustered-payment-conditions
 order: 1
+hidden: true
 ---
 
 Clustered Payments Conditions are a new [Customer Credit](/en/announcements/de-credito-aos-seus-melhores-clientes-com-o-customer-credit--6M2V1Oc1UIaGSM6QayWkmq?&utm_source=autocomplete) feature that allows stores to set a given deadline and enact an installment rule that will be valid for one or more customers of their trust. This filter is made using clusters - a segmentation method.

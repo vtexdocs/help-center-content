@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Creating a list type'
 id: tutorials_254
 status: PUBLISHED
@@ -17,7 +17,7 @@ subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
 
 > ⚠️ The [List](/en/docs/tutorials/what-is-a-list) feature is exclusive to stores that use CMS Portal (Legacy).
 
-Creating a type of list is configuring the lists to appear on the site. For example: Lista de Casamento and Lista de Aniversário. Each of these is a different type of list, with specific configurations. The purpose of this article is to show you how to create a type of list.
+Creating a list type configures how lists appear on the site. For example: Wedding List and Birthday List. Each of these is a different type of list, with specific configurations. The purpose of this article is to show you how to create a type of list.
 
 1. In the VTEX Admin, go to __Catalog__, or type __Catalog__ in the search bar at the top of the page.
 2. Click on __List Types__.
@@ -34,7 +34,7 @@ After creating the types of list, clients can add their lists to the site.
 
 - **Name**: Name of the type of list.
 - **Description**: Description of the type of list. For example: intended for the bride and groom, a wedding list is the most common type…
-- **Ative**: Activate to make this option available on the site.
+- **Active**: Activate to make this option available on the site.
 
 ### Setting
 
@@ -43,7 +43,7 @@ After creating the types of list, clients can add their lists to the site.
 - **Public**: Allows any user to view the list, and the list is shown in searches;
 - **Private**: Only participants can view the list, and it is not shown in searches by non-participating users;
 - **List Creator decides**: Allows a decision on visibility to be taken by the client who is creating a particular type of list;
-- **Single Share** : Lets the user participate in only one list of a particular type, if the option Sim is selected; or in more than one, if Não is selected.
+- **Single Share** : Lets the user participate in only one list of a particular type, if the option Yes is selected; or in more than one, if No is selected.
 
 **Delivery**
 
@@ -63,13 +63,13 @@ When **Have an event** is selected, the form offers other configuration options 
 
 ![eventos.en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/list-types/creating-a-type-of-list_1.png)
 
-The events area must determine whether a list has a fixed date for the event. Wish lists and purchases lists do not require a fixed date. On the other hand, wedding lists or baby showers must take the date of the event into account, with all the products purchased being delivered in advance.
+The events area must determine whether a list has a fixed date for the event. Wish lists and purchase lists do not require a fixed date. On the other hand, wedding lists or baby showers must take the date of the event into account, with all the products purchased being delivered in advance.
 
 ### Participants
 
 The following options are available:
 
-- **Minumum Participants**: minimum number of participants for a list to be possible. For example: 2 for wedding lists.
+- **Minimum Participants**: minimum number of participants for a list to be possible. For example: 2 for wedding lists.
 - **Maximum Participants**: Maximum number for creating a list. For example: 1 for a baby shower. 
 - **Title Options for Participants**: The names to go in the registration fields of the list. For example: Birthday boy/girl, Baby, Bride.
 - **Free Field 1**: Additional field (optional)
@@ -89,5 +89,5 @@ After creating the type of list, you will be directed to the screen showing the 
 - **Participants**: Shows the maximum and minimum numbers of participants configured for the list;
 - **Status**: Indicates whether the list is active or inactive;
 - **Lists**: Shows the number of lists of that type created by users on the site.
-- **See Details**: Permit editable fields to be amended;
+- **See Details**: Permits editable fields to be amended;
 - **"Arrow"**: Allows lists of that type and purchases made from lists of that type to be shown, and lists of that type to be deleted.

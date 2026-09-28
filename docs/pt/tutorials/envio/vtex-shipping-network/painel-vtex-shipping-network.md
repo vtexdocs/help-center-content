@@ -45,8 +45,8 @@ A aba `Resumo Financeiro` é voltada para o acompanhamento e supervisão do resu
 - Visualizar um **gráfico dinâmico** com a relação entre evolução financeira ao longo do tempo, dentro do período filtrado. Passando o cursor em cima das linhas do gráfico, é possível ver com detalhes a movimentação de *custo* e *receita* por dia.
 - Acompanhar vários **indicadores de performance financeira**, tais como:
 
-| **Indicador Financeiro** | **Descrição** |
-| :----------: | :---------- |
+| Indicador Financeiro | Descrição |
+| ---------- | ---------- |
 | **Custo do Frete x GMV** | Compara o custo do frete calculado no momento do checkout, com o GMV, que é o total que foi pago por pedido. |
 | **Desempenho financeiro** | Mostra a relação entre o valor pago no checkout e o valor pago à transportadora. |
 | **Receita Faturada Geral** | Soma de todos os fretes pagos no checkout. Quanto de fato seu cliente pagou pelo frete (independente de ser _VTEX Shipping Network_). Ou seja, é considerado se teve desconto no frete ou se foi frete grátis por exemplo. |

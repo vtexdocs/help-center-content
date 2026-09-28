@@ -46,8 +46,8 @@ For the **Envios Flex** option to work correctly, you must follow these steps af
 
 1. Create a [custom field](/en/docs/tutorials/adding-specifications-or-product-fields) in the [Categories](/en/docs/tracks/categories-concept-definition) module for each category where you want to apply **Envios Flex**.  The field must be created with the following specifications:
 
-| **Field type** | **Field name** |**Field value**|
-|:---:|:---:|:---:|
+| Field type | Field name |Field value|
+|---|---|---|
 | CheckBox | Flex |Activate|
 
 > ❗ The **type** and **name** must be exactly as shown in the table above, otherwise the shipping option won't work. 
@@ -70,8 +70,8 @@ To deactivate the **Envios Flex** option, follow these steps:
 
 **Envios Turbo** only applies to products with the following characteristics:  
 
-| **Height** | **Width** |**Length**|**Weight**|
-|:---:|:---:|:---:|:---:|
+| Height | Width |Length|Weight|
+|---|---|---|---|
 | 70 centimeters (27.7 inches) | 70 centimeters (27.7 inches) |70 centimeters (27.7 inches) | 30 kilograms (66 pounds)|
 
 ### Configuring Envios Turbo

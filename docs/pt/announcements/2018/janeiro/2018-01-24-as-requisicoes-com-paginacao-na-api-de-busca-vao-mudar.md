@@ -19,7 +19,7 @@ announcementSynopsisPT: 'A partir de 31/03/18, requisições com paginação na 
 
 A partir de __31 de março__, as requisições com paginação na API de busca não vão mais poder ser feitas com o header `resources` do request. Ele será descontinuado e, para requisitar uma resposta da API, você deverá utilizar os parâmetros `_from` e `_to` na URL, conforme o exemplo:
 
-`http://{{AccountName}}.{{environment}}.com.br/api/catalog_system/pub/products/search?ft=geladeira&_from=1&_to=30`
+`http://{{accountName}}.{{environment}}.com.br/api/catalog_system/pub/products/search?ft=geladeira&_from=1&_to=30`
 
 Essa mudança já foi implementada na API, mas até a data limite, ainda será possível realizar a request das duas formas. Já o `resources` no header do response vai continuar funcionando normalmente.
 

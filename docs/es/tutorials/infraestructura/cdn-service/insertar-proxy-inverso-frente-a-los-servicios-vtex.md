@@ -17,6 +17,8 @@ subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 
 > ❗ Esta guía aborda una práctica **no recomendada** para la mayoría de las tiendas y que solo debe aplicarse en casos excepcionales. Implementar un proxy inverso significa sustituir todos los servicios perimetrales (CDN) gestionados y optimizados por VTEX. Esto significa que la tienda será responsable por mantener efectivamente el sitio web, incluyendo configuración, monitoreo y gestión de aspectos como el paso de encabezados, cookies y la caché. VTEX no ofrece soporte o documentación para esas configuraciones específicas y no se hace responsable por los problemas que puedan surgir. VTEX no se hace responsable por problemas en ese sistema, ya sea en una CDN propia, un servicio de WAF u otro recurso que esté delante de nuestros servidores. No tenemos visibilidad de la operación y, por lo tanto, la solución **no** entra en nuestros acuerdos de SLA.
 
+> ❗ Esta configuración **no es compatible con Amazon CloudFront**. A partir de enero de 2025, las tiendas que usan CloudFront como CDN no pueden utilizar un proxy inverso delante de los servicios de VTEX. Intentar esta configuración con CloudFront puede causar fallos de navegación e indisponibilidad del sitio.
+
 Para apuntar tu propia CDN a la CDN de VTEX, debes insertar un proxy inverso delante de los servicios de VTEX. El flujo de tráfico seguirá el orden a continuación:
 
 1. Tienda: punto de origen del tráfico.

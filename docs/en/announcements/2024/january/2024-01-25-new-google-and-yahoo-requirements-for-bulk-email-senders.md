@@ -32,8 +32,8 @@ If senders do not comply with these guidelines, their emails may be rejected or 
 
 As of February 2024, Google and Yahoo will require bulk email senders to meet the following requirements:
 
-| **Requirements** | **Description** |
-| :---: | :--- |
+| Requirements | Description |
+| --- | --- |
 | Sender email authentication | Senders must authenticate their emails using the following protocols:<ul><li>[SPF](https://support.google.com/a/answer/33786?sjid=4150033421619503412-SA) (Sender Policy Framework)</li><li>[DKIM](https://support.google.com/a/answer/174124?sjid=4150033421619503412-SA) (DomainKeys Identified Mail)</li><li>[DMARC](https://support.google.com/a/answer/2466580?sjid=4150033421619503412-SA) (Domain-based Message Authentication, Reporting & Conformance)</li></ul>By implementing these settings, you protect yourself against spoofing (fake messages sent on behalf of your domain) and prevent your outgoing messages from being marked as spam.Learn more in the [Prevent spam, spoofing & phishing with Gmail authentication](https://support.google.com/a/answer/10583557) article. |
 | Make it easy to unsubscribe | Recipients must be able to unsubscribe from an email with a single click, and the unsubscribe request must be processed within two days.Learn more about [Subscriptions](https://support.google.com/mail/answer/81126#subscriptions) (Google) and [Support one click unsubscribe](https://blog.postmaster.yahooinc.com/post/182917670818/dont-want-to-be-marked-as-spam-support-one-click) (Yahoo). |
 | Spam rate limit | Recipients must consider the emails as desirable, so the rate of emails marked as spam must be less than 0.1%, and the sender must prevent it from reaching 0.3% or more. This rate refers to the number of emails marked as spam by recipients divided by the total number of emails received.You can use [Postmaster Tools](https://support.google.com/mail/answer/14289100) to track data on large numbers of Gmail emails and [Complaint Feedback Loop](https://senders.yahooinc.com/complaint-feedback-loop/) for Yahoo. |
@@ -71,7 +71,7 @@ If you don't follow these guidelines, your emails may be rejected or delivered t
 
 ## Related articles
 
-| **VTEX** | **Google** | **Yahoo** |
-| :--- | :--- | :--- |
+| VTEX | Google | Yahoo |
+| --- | --- | --- |
 | <ul><li>[Best Practices on Sender Policy Framework (SPF)](/en/docs/tutorials/best-practices-on-spf)</li><li>[Setting up the SPF](https://developers.vtex.com/docs/guides/setting-up-the-spf)</li><li>[Setting up DKIM for transactional emails](https://developers.vtex.com/docs/guides/setting-up-dkim-for-transactional-emails)</li></ul> | <ul><li>[Generate DKIM keys](https://developers.vtex.com/docs/api-reference/message-center-api#post-/api/mail-service/pvt/providers/-EmailProvider-/dkim)</li><li>[Email sender guidelines](https://support.google.com/mail/answer/81126?hl=pt-BR&sjid=15077216349840152409-SA)</li><li>[Email sender guidelines FAQ](https://support.google.com/a/answer/14229414?hl=pt-BR&ref_topic=7279058&sjid=15077216349840152409-SA#zippy=%2Co-que-acontece-quando-os-remetentes-n%C3%A3o-atendem-aos-requisitos-nas-diretrizes%2Co-que-acontece-quando-a-taxa-de-spam-do-remetente-excede-o-m%C3%A1ximo-permitido-pelas-diretrizes)</li><li>[Prevent spam, spoofing & phishing with Gmail authentication](https://support.google.com/a/answer/10583557?hl=pt-BR&sjid=8809025610711525699-SA)</li></ul> | <ul><li>[Google's announcement](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)</li><li>[Best practices - Deliverability](https://senders.yahooinc.com/best-practices/)</li><li>[FAQs - Deliverability](https://senders.yahooinc.com/faqs/)</li><li>[Yahoo's announcement](https://blog.postmaster.yahooinc.com/post/730172167494483968/more-secure-less-spam)</li></ul> |
 

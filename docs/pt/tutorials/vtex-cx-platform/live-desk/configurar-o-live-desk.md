@@ -1,70 +1,183 @@
 ---
 title: 'Configurar o Live Desk'
-id: 2MnTerJXgAfJMRi0EqfTpp
-status: PUBLISHED
-createdAt: 2025-09-16T15:05:01.763Z
-updatedAt: 2025-10-03T14:20:04.339Z
-publishedAt: 2025-10-03T14:20:04.339Z
-firstPublishedAt: 2025-10-03T14:20:04.339Z
+createdAt: 2026-07-07T10:05:01.763Z
+updatedAt: 2026-08-24T18:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: manage-live-desk
-legacySlug: weni-chats-configurando-o-atendimento-humano
-locale: pt
-subcategoryId: 119WfAe6xGl5c0S1hLdHRQ
+slugEN: configure-live-desk
+locale: en
 ---
 
-## Configurar o Live Desk
+A página **Preferências do Live Desk** permite configurar o comportamento do atendimento humano da sua operação no VTEX CX Platform. Nela, você define as regras de transferência e finalização de chats, organiza os setores de atendimento e gerencia os atendentes da sua equipe. O gerente de atendimento poderá realizar alterações no setor que gerencia, tais como horário de funcionamento, adicionar ou remover atendentes, criar novas filas, remover e adicionar tags.
 
-O Live Desk fica dentro de um projeto, sendo assim necessário que o usuário que irá configurar o Live Desk seja administrador ou moderador deste projeto.
+> ⚠️ Para configurar o Live Desk, você precisa ser um administrador da organização ou moderador do projeto. Apenas um administrador ou moderador pode configurar o Live Desk.
 
-> ⚠️ Apenas um administrador da organização ou moderador do projeto podem configurar o Live Desk.
+Para acessar a página de preferências do Live Desk, acesse **Configurações > Live Desk** dentro do projeto.
 
-Para que um agente possa utilizar o Live Desk é necessário que esteja inserido em um setor, setor é como é chamado um grupo de atendimento, cada setor é composto de pelo menos um gerente, uma fila, um agente.
+## Geral
 
-O gerente de atendimento poderá realizar alterações no setor que gerencia, tais como horário de funcionamento, adicionar ou remover agentes, criar novas filas, remover e adicionar tags.
+A aba **Geral** reúne as configurações que determinam como os chats são distribuídos, transferidos e finalizados na sua operação.
 
-Todo esse gerenciamento é realizado dentro do projeto em **Configurações > Live Desk**.
+### Preferências do projeto
 
-### Setor
+A seção **Preferências do projeto** contém preferências gerais do atendimento humano da sua loja. Para ativar ou desativar uma definição, clique no botão de alternância ao lado dela.
 
-No setor, você define o horário de funcionamento do Live Desk e o limite de atendimento simultâneos por agente. Além disso, é possível adicionar tags para que os agentes, ao finalizar um atendimento, classifiquem o chat de acordo com o assunto.
+| Definição | Descrição |
+| --- | --- |
+| **Permitir que agentes de IA transfiram conversas para atendimento humano** | Permite que um agente de IA encaminhe a conversa para um atendente humano. Ao ativar essa opção, descreva no campo de texto os cenários ou critérios que requerem transferência para atendimento humano, em até 1000 caracteres. |
+| **Permitir interações apenas para atendentes online** | Impede que atendentes offline ou em pausa respondam a chats em andamento. |
+| **Transferir chats em massa para outra fila ou atendente** | Permite transferir vários chats de uma vez para outra fila ou para outro atendente. |
+| **Bloquear transferência de chats para atendentes offline** | Impede a transferência de chats para atendentes que estão offline. |
+| **Encerrar chats em massa** | Permite encerrar vários chats de uma vez. |
+| **Bloquear encerramento de chats na fila** | Impede a finalização de chats que estão aguardando atendimento. |
+| **Assumir chats em massa** | Permite que o atendente assuma vários chats de uma vez. |
+| **Permitir que atendentes escolham suas filas dentro do setor** | Permite que os atendentes escolham as filas que vão atender. Quando ativado, o recurso fica visível apenas para atendentes no módulo **Live Desk** dentro de **Operações**. |
+| **Mostrar contador com o número de chats aguardando atendimento humano** | Mostra a quantidade de chats aguardando atendimento humano. |
+| **Mostrar setor do chat na lista de conversas** | Exibe o setor de cada atendimento na lista de conversas. Quando ativada, uma tag com o setor do chat será exibida ao lado do nome do contato. |
 
-### Como adicionar um setor de atendimento no Live Desk
+### Pausas personalizadas
 
-Para adicionar um setor no Live Desk, você precisa acessar **Configurações > Live Desk > Novo setor**.
+As pausas personalizadas são status que os atendentes podem usar para indicar que estão temporariamente indisponíveis, como em um horário de almoço. Você pode adicionar até 10 status diferentes.
 
-Depois disso, preencha as informações para criar o setor:
+Para criar uma pausa personalizada, digite um nome para a pausa no campo de **Novo status** (por exemplo, Descanso) e clique em `Adicionar`. A pausa personalizada aparecerá logo abaixo.
 
-- Nome do setor.
-- Gerentes de atendimento (quem vai visualizar o histórico dos atendimentos, atividades dos agentes e dashboard);
-- Opções adicionais para o setor;
-- Definição da jornada de trabalho (horário em que podem ser abertos atendimentos se o usuário solicitar);
-- Quantidade de atendimento simultâneo.
+Para excluir uma pausa personalizada, clique em cima do nome da pausa personalizada e, em seguida, em `Excluir`.
 
-Após configurar o setor, configure as filas.
+Nessa seção, você também pode ativar a opção **Exibir temporizador de status em pausas personalizadas do atendente** para mostrar há quanto tempo o atendente está em pausa.
 
-### Fila
+## Setores
 
-As filas servem para subdividir um setor, caso você precise de um setor com mais de um grupo de agentes. Se não for necessário, crie uma única fila.
+A aba **Setores** permite criar e gerenciar os setores de atendimento da sua operação, como suporte, vendas ou financeiro. Cada setor agrupa filas e atendentes responsáveis por um tipo de demanda.
 
-É possível exemplificar o uso de filas pensando em um setor Suporte Técnico, para este setor pode ser interessante ter as filas Básico, Intermediário e Avançado onde através da filtragem do bot o contato é encaminhado para a fila de acordo com sua necessidade.
+Na seção **Gestão de setores**, você pode:
 
-> Se um agente estiver em mais de uma fila, do mesmo setor ou de setores diferentes, o Live Desk encaminhará os atendimentos de acordo com a ordem de chegada para o agente.
+- Buscar um setor pelo nome no campo **Filtrar por nome do setor**.
+- Ordenar a lista de setores por ordem alfabética, mais recente ou mais antigo.
+- Editar ou excluir um setor clicando no menu `⋮` no card do setor.
+- Criar um novo setor.
 
-### Como adicionar filas de atendimento no Live Desk
+### Criar um novo setor
 
-Todo setor necessita ter ao menos uma fila configurada para funcionar. Você deve configurá-la ao criar o setor. Ao criar sua fila, crie um nome para a fila e adicione o atendente ou mais de um. Após configurar setor e fila, agora é hora de criar suas tags de atendimento.
+Para criar um setor, siga o passo a passo a seguir:
 
-### Tags
+1. Clique em <i class="fas fa-plus" aria-hidden="true"></i> `Novo setor`.
+2. Preencha as informações de cada etapa do assistente de configuração, descritas nas seções a seguir.
+3. Ao concluir as quatro etapas, clique em `Criar`.
 
-As tags são usadas para classificar características do atendimento e possibilitar a pesquisa e filtragem dos chats a partir delas, ao encerrar um chat o agente utilizará as tags para classificar o chat de acordo com assunto e outras características.
+#### Etapa 1: Configurar setor e jornada de trabalho
 
-### Como adicionar uma Tag de atendimento
+![Etapa 1 do assistente de criação de setor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configurações-vtex-cx-platform/configurar-o-live-desk_1.png)
 
-As tags de atendimento são selecionadas ao fechar um atendimento e servem para poder filtrar os históricos de atendimento e dashboard através dessas tags. As tags podem ser sobre o assunto conversado no atendimento, mas fica a seu critério escolher a melhor forma de usá-las. Lembre-se, ao fechar um atendimento é obrigatório usar uma tag pelo menos.
+Na primeira etapa, escolha entre as seguintes opções:
 
-Para criar uma tag escolha o nome > Clique em Adicionar > clique em Salvar.
+- **Personalizar novo setor (recomendado):** configure todos os detalhes do setor manualmente.
+- **Criar setor padrão (mais rápido):** crie um setor com configurações predefinidas.
 
-Agora seu atendimento humano está configurado. O próximo passo é usar um cartão de abrir ticket em seu fluxo para direcionar os usuários ao atendimento humano.ss
+Se optar por **Personalizar novo setor**, siga o passo a passo a seguir:
+
+1. Em **Defina um nome para o setor e seus gerentes**, preencha os campos a seguir:
+   - **Nome do setor:** insira um nome para identificar o setor, como Financeiro ou Suporte.
+   - **Adicionar gerente:** pesquise e selecione os responsáveis pelo setor pelo nome ou email.
+2. Em **Definições da jornada de trabalho**, configure os dias e horários de funcionamento do setor:
+   - Ative **Copiar a jornada de trabalho de um setor já configurado** para reutilizar as configurações de outro setor existente.
+       
+       Em seguida, escolha o setor que você quer copiar.
+   - Selecione os dias da semana em que o setor estará ativo clicando em cada dia.
+     
+      Depois, escolha os intervalos de horário. Você pode escolher até dois intervalos para cada dia.
+   - Ative **Feriados em Brasil** para incluir automaticamente os feriados nacionais.
+     - Clique em `Ver todos os feriados` para consultar a lista completa.
+     - Para desconsiderar um feriado, desative o botão referente ao feriado.
+   - Clique em `+ Adicionar datas específicas` para incluir datas em que o setor não funcionará, como recessos ou feriados corporativos.
+3. Em **Defina um limite na quantidade de chats simultâneos por atendente**, insira o número máximo de chats que cada atendente pode receber ao mesmo tempo. Esse limite pode ser excedido quando o atendente escolhe chats manualmente ou recebe transferência de chats.
+  
+   Insira `0` para que os atendentes busquem chats diretamente da fila, sem distribuição automática.
+
+   > ⚠️ O limite de um atendente prevalece em relação ao limite da equipe ou do setor. Por exemplo, se a equipe tem um limite de 20 chats, mas um atendente tem um limite de 25 chats, esse atendente poderá realizar até 25 atendimentos.
+
+4. Clique em `Continuar`.
+
+#### Etapa 2: Configurar fila
+
+![Etapa 2 do assistente de criação de setor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configurações-vtex-cx-platform/configurar-o-live-desk_2.png)
+
+- **Criar uma fila personalizada (recomendado):** definir os detalhes da fila manualmente.
+- **Criar fila padrão (mais rápido):** criar uma fila com configurações predefinidas.
+
+Se optar por **Criar uma fila personalizada**, siga o passo a passo a seguir:
+1. Preencha **Nome da fila** com um nome para a fila, como _Pagamentos_ ou _Trocas_.
+2. Ative **Limitar o número de chats aguardando atendimento** para definir um teto para a fila. Quando o limite for atingido, novos chats não serão criados.
+3. Clique no menu de **Adicionar atendente** para pesquisar e selecionar os atendentes para a fila.
+4. Para adicionar mais de uma fila ao setor, clique em `+ Adicionar fila` e repita o preenchimento.
+5. Em seguida, clique em `Continuar`.
+
+#### Etapa 3: Configurar opções e mensagens
+
+![Etapa 3 do assistente de criação de setor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configurações-vtex-cx-platform/configurar-o-live-desk_3.png)
+
+Na terceira etapa, configure as opções de atendimento, mensagens automáticas e etiquetas do setor. Siga o passo a passo a seguir:
+
+1. Em **Opções extras**, ative ou desative as configurações conforme a necessidade da sua operação:
+
+   | Opção | Descrição |
+   | --- | --- |
+   | **Disparar templates de mensagens** | Permite que atendentes enviem modelos de mensagens pré-configurados durante o atendimento. |
+   | **Usar assinatura** | Adiciona automaticamente o nome do atendente em cada mensagem enviada. |
+   | **Permitir que atendentes editem informações personalizadas do contato** | Permite que atendentes editem campos personalizados do contato na seção **Todas as informações**. |
+
+2. Em **Mensagens automatizadas**, configure o envio automático de mensagens para os contatos:
+
+   | Opção | Descrição |
+   | --- | --- |
+   | **Enviar mensagem automática a contatos esperando** | Envia uma mensagem automática para contatos que aguardam atendimento na fila. A mensagem aparece como se enviada pelo atendente atribuído. |
+   | **Enviar mensagem automática ao iniciar o atendimento** | Envia uma mensagem automática quando o chat é atribuído a um atendente. A mensagem aparece como se enviada pelo atendente atribuído. |
+
+3. Em **Pesquisa de satisfação**, ative **Enviar automaticamente uma pesquisa de satisfação após o atendimento do Live Desk ser encerrado** para coletar feedback dos clientes ao fim de cada atendimento.
+   
+   Escolha entre as opções disponíveis:
+     - **Pesquisa CSAT padrão (recomendado)**
+     - **Fluxos personalizados**
+
+   > ⚠️ Para garantir resultados precisos, o fluxo selecionado precisa usar uma escala de 1 a 5.
+
+4. Em **Etiquetas**, configure as tags do setor:
+   - No campo **Nome da tag**, pesquise uma tag existente ou digite um novo nome para criá-la. Clique em `Adicionar` para incluí-la no setor.
+   - Ative **Exigir tag ao final do atendimento humano** para tornar obrigatório o uso de pelo menos uma tag ao encerrar um atendimento.
+5. Ao preencher os campos, clique em `Continuar`.
+
+#### Etapa 4: Configurar mensagem rápida (opcional)
+
+![Etapa 4 do assistente de criação de setor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configurações-vtex-cx-platform/configurar-o-live-desk_4.png)
+
+Na quarta e última etapa, configure mensagens rápidas para o setor. As mensagens rápidas são atalhos que permitem aos atendentes enviar respostas padronizadas com mais agilidade durante o atendimento.
+
+> ℹ️ Esta etapa é opcional. Você pode pular a configuração de mensagens rápidas e fazê-la depois nas configurações do setor.
+
+Para adicionar uma mensagem rápida em **Configurar uma mensagem rápida**, siga o passo a passo seguinte:
+
+1. Em **Atalho**, insira a palavra ou expressão que ativará a mensagem. Por exemplo: "Oi".
+2. Em **Mensagem**, insira o texto que será enviado ao acionar o atalho. Por exemplo: "Olá, como posso ajudar você hoje?". Este campo aceita até 1.000 caracteres.
+3. Para adicionar mais mensagens rápidas, clique em `+ Adicionar nova mensagem rápida` e repita o preenchimento.
+4. Ao final, clique em `Criar`.
+
+## Atendentes
+
+A aba **Atendentes** permite visualizar e gerenciar os atendentes da sua operação.
+
+A seção **Gestão de Atendentes** lista os atendentes cadastrados. Para cada atendente, são exibidos o nome, o email, o setor ao qual pertence e o número máximo de chats simultâneos que pode atender.
+
+Você pode encontrar um atendente específico usando os seguintes filtros:
+
+- **Filtrar por status**: Exibe os atendentes de acordo com o status atual, como online ou offline.
+- **Filtrar por atendentes**: Exibe um ou mais atendentes específicos.
+- **Filtrar por setores**: Exibe os atendentes de um setor.
+- **Filtrar por filas**: Exibe os atendentes de uma fila.
+
+Nessa aba, você também pode realizar algumas ações para os atendentes:
+
+- Alterar setores e filas de atendentes.
+- Definir limite de chats simultâneos de atendentes.
+
+Para aplicar uma ação a um ou mais atendentes específicos, marque a caixa de seleção ao lado do nome de cada um.
+
+Para aplicar uma ação a todos os atendentes da lista, marque a caixa de seleção **Selecionar todos os atendentes**.

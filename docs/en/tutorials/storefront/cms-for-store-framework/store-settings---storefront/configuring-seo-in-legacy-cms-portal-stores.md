@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Configuring SEO in CMS Portal (Legacy) stores'
 id: 5MMge9JgUa014quZ0qeMKy
 status: PUBLISHED

@@ -28,8 +28,8 @@ This section includes the following information:
 
 ## Data characteristics
 
-| **Characteristic** | **Description** |
-|:---:|:---:|
+| Characteristic | Description |
+|---|---|
 | Data source | Obtained from information in the Bridge module. |
 | Availability | VTEX Admin. |
 | History | Data is maintained for two years, starting in 2024 for customers already using the VTEX platform. |
@@ -39,8 +39,8 @@ This section includes the following information:
 
 The table fields are described below:
 
-| **Column name** | **Column type** | **Column description** |
-|:---:|:---:|:---:|
+| Column name | Column type | Column description |
+|---|---|---|
 | main_account | character varying(100)	 | The VTEX main account associated with this account. |
 | account_name | character varying(100) | Name of the store or child account responsible for the order. |
 | marketplace | character varying(50) | The name of the marketplace from where this order originated. |

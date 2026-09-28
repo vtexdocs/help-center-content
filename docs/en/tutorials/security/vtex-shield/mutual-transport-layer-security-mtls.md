@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Mutual Transport Layer Security (mTLS)'
 id: 6YR3SoynJMfeEKGlY1Cqlo
 status: PUBLISHED
@@ -59,7 +59,7 @@ The diagram below represents the mutual authentication flow using mTLS, where cl
 Here's how the flow applies to communication between VTEX and merchant systems. Depending on the case, VTEX may act as either the client or the server.
 
 | Request direction | Description |
-| :---- | :---- |
+| ---- | ---- |
 | **Headless store or ERP/WMS → VTEX** | When a request is sent from the store to VTEX, it's routed to an **incoming mTLS proxy** located within our VPC.<br><br>The proxy validates the certificate in the request, checking if it was issued by the CA of VTEX.<br><br>The request is forwarded to internal microservices only after successful validation. |
 | **VTEX → Headless store or ERP/WMS** | If VTEX sends a request to the store, the traffic goes through an **outgoing mTLS proxy** in our VPC, which injects a certificate issued by the CA of the merchant.<br><br>This allows the merchant's environment to check the authenticity of the request and accept only legitimate, secure connections. |
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Lançamentos: conceito de lançamento (Beta)'
 id: 4pWhQTXG0aIIsi2TYxxRkZ
 status: PUBLISHED
@@ -39,8 +39,8 @@ A funcionalidade pode ser acessada pelo menu de navegação do Admin VTEX **Lan�
 
 Um lançamento pode ter diferentes status desde a sua criação até a sua publicação ou exclusão, por exemplo. Nas páginas [Calendário](/pt/docs/tutorials/planner-pagina-calendario-beta) e [Lançamentos](/pt/docs/tutorials/planner-pagina-lancamentos-beta), o status de cada lançamento é apresentado associado a uma cor, conforme apresentado na tabela abaixo:
 
-| **Status** | **Cor** | **Definição** |
-|:---:|:---:|:---:|
+| Status | Cor | Definição |
+|---|---|---|
 | `Agendado` | Azul | Existe uma data definida para a publicação do lançamento. |
 | `Não agendado` | Cinza | Não existe uma data definida para a  publicação do lançamento. |
 | `Em fila` | Verde  (piscando) | A publicação do lançamento está em etapa de implantação e nenhuma ação por parte do lojista é necessária para que o lançamento passe para o status seguinte, que pode ser `Publicando` ou `Publicação falhou`. |
