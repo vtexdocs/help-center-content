@@ -20,11 +20,11 @@ The VTEX Admin now offers the **Credits** page in **Billing Information**, where
 
 On the **Credits** page, you'll find:
 
-- **Total balance**: current balance of your Credit Wallet.
-- **Estimated coverage for current consumption**: estimate of how many months the current balance would cover, based on recent usage.
-- **Annual credit summary**: total credit generated and used during the period (**Inflow and Outflow**) and the percentage of accumulated credit that was consumed (**Consumption rate**).
-- **Credit statement**: month-by-month statement with opening balance, credit generated, amount used, expired amount, and closing balance.
-- **Master Data consumption**: estimated cost for the next cycle, percentage of that cost covered by the credit, volume of stored documents, and the corresponding pricing tier.
+- **Total balance**: Current balance of your Credit Wallet.
+- **Estimated coverage for current consumption**: Estimate of how many months the current balance would cover, based on recent usage.
+- **Annual credit summary**: Total credit generated and used during the period (**Inflow and Outflow**) and the percentage of accumulated credit that was consumed (**Consumption rate**).
+- **Credit statement**: Month-by-month statement with opening balance, credit generated, amount used, expired amount, and closing balance.
+- **Master Data consumption**: Estimated cost for the next cycle, percentage of that cost covered by the credit, volume of stored documents, and the corresponding pricing tier.
 
 The page also clarifies how credit is generated and consumed: every month, VTEX adds up everything the company — meaning all accounts grouped under it for billing purposes — paid to VTEX the previous month and grants, in the following month, a credit equivalent to 2% of that total. This credit is applied exclusively to offset Master Data charges, and unused balance keeps accumulating until the end of the current contract cycle.
 
