@@ -8,7 +8,7 @@ slugEN: ship-from-store-for-marketplaces
 legacySlug: regionalized-inventory-magalu
 locale: pt
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
-hidden: false
+hidden: true
 ---
 
 > ℹ️ Esta funcionalidade está em **open beta**, com monitoramento ativo. No momento, está disponível somente para o Magalu. O comportamento de alguns fluxos pode mudar antes da disponibilidade geral. Em caso de dúvidas, entre em contato com [nosso Suporte](https://help.vtex.com/pt/support).
