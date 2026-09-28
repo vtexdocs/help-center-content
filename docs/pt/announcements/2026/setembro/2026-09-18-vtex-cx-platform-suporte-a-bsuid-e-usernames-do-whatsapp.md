@@ -14,7 +14,7 @@ tags:
   - VTEX CX Platform
 ---
 
-Agora o VTEX CX Platform identifica contatos do WhatsApp também pelo Business Scoped User ID (BSUID)), o identificador de usuário com escopo de negócio do WhatsApp. Com isso, suas conversas e automações continuam funcionando mesmo quando o contato não compartilhou o número de telefone.
+Agora o VTEX CX Platform identifica contatos do WhatsApp também pelo Business Scoped User ID (BSUID), o identificador de usuário com escopo de negócio do WhatsApp. Com isso, suas conversas e automações continuam funcionando mesmo quando o contato não compartilhou o número de telefone.
 
 ## O que mudou?
 
