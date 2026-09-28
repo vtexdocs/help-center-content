@@ -13,7 +13,7 @@ tags:
   - Integrações
 ---
 
-Pedidos criados em marketplace passam a receber, em `paymentData`, os dados de pagamento operados pelo marketplace. O lojista usa esses dados para preencher a nota fiscal, conforme a NT 2025.001.
+Pedidos criados em marketplace passam a receber, em `paymentData`, os dados de pagamento informados pelo marketplace. O lojista pode usar esses dados no preenchimento da nota fiscal, conforme os requisitos aplicáveis da NT 2025.001.
 
 Acesse a [nota técnica completa](https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=trSXReoZPuY=).
 
@@ -45,7 +45,7 @@ Quando o nome enviado pelo marketplace corresponde a um meio de pagamento da VTE
       "value": 100000,
       "installments": 1,
       "referenceValue": 100000,
-      "group": "creditCard",
+      "group": "promissory",
       "connectorResponses": {
         "acquirerCnpj": "01425787000104",
         "authId": "01010202"
