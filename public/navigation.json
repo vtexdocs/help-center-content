@@ -42779,6 +42779,21 @@
             },
             {
               "name": {
+                "en": "Product and SKU import fails for large size of spreadsheet file",
+                "es": "La importación de productos y SKU falla cuando el archivo de hoja de cálculo es de gran tamaño.",
+                "pt": "A importação de produtos e SKUs falha devido ao tamanho grande da planilha."
+              },
+              "slug": {
+                "en": "product-and-sku-import-fails-for-large-size-of-spreadsheet-file",
+                "es": "la-importacion-de-productos-y-sku-falla-cuando-el-archivo-de-hoja-de-calculo-es-de-gran-tamano",
+                "pt": "a-importacao-de-produtos-e-skus-falha-devido-ao-tamanho-grande-da-planilha"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product availability display delayed when using multiple sales channels",
                 "es": "La visualización de la disponibilidad del producto se retrasa cuando se utilizan varios canales de venta",
                 "pt": "Exibição da disponibilidade do produto atrasada ao usar vários canais de vendas"
