@@ -19,7 +19,7 @@ Todos os clientes têm acesso a atendimento fornecido pelo time de especialistas
 
 É necessário [habilitar a autorização de suporte](/pt/docs/tutorials/perfis-de-acesso) no [License Manager](/pt/docs/tutorials/recursos-do-license-manager) para que o usuário tenha acesso ao suporte da VTEX. Esta configuração é válida apenas para contas no Brasil.
 
-Este artigo explica como clientes devem abrir chamados no Suporte VTEX e acompanhar o status dos chamados. Para saber mais sobre disponibilidade, tempo estimado de resposta (SLA)acesse o artigo [Recursos de Suporte Global da VTEX](/pt/docs/tutorials/recursos-de-suporte-global-da-vtex).
+Este artigo explica como clientes devem abrir chamados no Suporte VTEX e acompanhar o status dos chamados. Para saber mais sobre disponibilidade e tempo estimado de resposta (SLA), acesse o artigo [Recursos de Suporte Global da VTEX](/pt/docs/tutorials/recursos-de-suporte-global-da-vtex).
 
 Confira a seguir as etapas descritas neste artigo:
 
@@ -41,14 +41,17 @@ Suporte financeiro e comercial:
 3. [Acompanhar status dos chamados de suporte financeiro e comercial](#acompanhar-status-dos-chamados-suporte-financeiro-e-comercial)
 
 ## Suporte técnico
+
 O suporte técnico oferece orientações para solucionar problemas ou esclarecer dúvidas sobre a plataforma VTEX.
 
 Para solicitar suporte técnico, siga os passos abaixo e preencha as informações necessárias:
 
 ### 1. Realizar login na sua conta
+
 Na etapa inicial, autentique seu acesso ao [Admin VTEX](/pt/docs/tutorials/admin-vtex-comece-aqui) para gerenciar as operações de comércio digital da sua loja.
 
 ### 2. Acessar o Copilot
+
 O Copilot é uma ferramenta integrada à plataforma que facilita o suporte técnico. Por meio dela, você pode tirar dúvidas e solucionar problemas. Para acessar o Copilot e iniciar a interação com o suporte, siga os passos abaixo:
 
 1. Clique no botão `Copilot`, localizado no canto superior direito da barra de navegação.
@@ -68,18 +71,20 @@ Para que o Copilot ofereça a assistência correta, forneça as seguintes inform
 
 - **Detalhe o problema:** identifique o que não está funcionando, mencionando mensagens de erro, comportamentos inesperados ou dificuldades específicas.
 
-- **Liste os recursos já utilizados:** Informe os testes realizados e os resultados obtidos.
+- **Liste os recursos já utilizados:** informe os testes realizados e os resultados obtidos.
 
 Essas informações ajudam o Copilot a fornecer respostas mais precisas e relevantes.
 
 ### 4. Solicitar a abertura de um chamado
+
 Se sua dúvida não for resolvida após interagir com o Copilot, você pode abrir um chamado. Para isso, siga estas etapas:
 
 1. Selecione a opção `Fale com uma pessoa`.
 2. Insira o código OTP (One Time Password) enviado para seu email.
 3. Clique em `Criar ticket` para iniciar o registro da sua solicitação de suporte.
 
-### 5. Identificar e reportar problemas 
+### 5. Identificar e reportar problemas
+
 Ao clicar em `Criar ticket`, preencha as informações conforme os passos abaixo:
 
 1. **Título:** Informe o assunto da solicitação.
@@ -108,11 +113,13 @@ Ao clicar em `Criar ticket`, preencha as informações conforme os passos abaixo
 10. Clique em `Criar ticket de suporte`.
 
 ### 6. Acompanhar status dos chamados de suporte técnico
+
 O acompanhamento dos chamados de suporte técnico ocorrerá exclusivamente por email. Após abrir um chamado, você receberá um email de confirmação com o número do atendimento. Todas as atualizações serão enviadas para o email registrado.
 
 Verifique sua caixa de entrada regularmente, incluindo a pasta de spam. Para continuar o atendimento, responda ao email recebido.
 
 ## Suporte financeiro e comercial
+
 O suporte financeiro ajuda a solucionar problemas relacionados a contratos ou questões financeiras das lojas e da VTEX.
 
 O suporte comercial auxilia com solicitações sobre ambientes adicionais, sellers white label e troca de Master Admin.
@@ -120,10 +127,11 @@ O suporte comercial auxilia com solicitações sobre ambientes adicionais, selle
 Para solicitar suporte financeiro ou comercial, siga os passos abaixo e forneça as informações necessárias.
 
 ### 1. Realizar login no suporte VTEX
+
 Nessa etapa inicial, você deverá autenticar seu acesso ao Suporte VTEX. Siga os passos a seguir:
 
 1. Acesse o [Suporte VTEX](https://supporticket.vtex.com/support).
-2. Escolha uma opção para autenticar sua conta, são três opções disponíveis:
+2. Escolha uma opção para autenticar sua conta:
 
    - Acesso por *token*, enviado para o email cadastrado na loja.
    - Login com o Google.
@@ -132,6 +140,7 @@ Nessa etapa inicial, você deverá autenticar seu acesso ao Suporte VTEX. Siga o
 Depois de realizar a autenticação, você será direcionado à próxima etapa.
 
 ### 2. Abrir chamados com os times
+
 Após autenticar sua conta, identifique-se para a equipe de suporte preenchendo os campos obrigatórios listados abaixo:
 
 1. Preencha o campo **Nome** com seu nome e sobrenome.
@@ -139,6 +148,7 @@ Após autenticar sua conta, identifique-se para a equipe de suporte preenchendo 
 3. Clique em `Continuar` para avançar para a próxima etapa.
 
 #### Financeiro
+
 O suporte financeiro auxilia o usuário na solução de problemas relacionados a contratos ou questões financeiras das lojas e à VTEX.
 
 Para solicitar esse tipo de suporte, siga os passos abaixo:
@@ -162,6 +172,7 @@ Para solicitar esse tipo de suporte, siga os passos abaixo:
 4. Clique em `Enviar`.
 
 #### Comercial
+
 O suporte comercial auxilia o usuário em solicitações relacionadas a [ambientes adicionais](/pt/docs/tutorials/contratar-novo-ambiente), [sellers white label](/pt/docs/tutorials/seller-white-label) ou à [alteração de usuário](/pt/docs/tutorials/gerenciar-usuarios-administrativos) com o perfil Sponsor user (Master Admin user).
 
 > ℹ️ A criação de [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) não depende de um chamado: você pode criar uma política comercial diretamente pelo Admin VTEX. Saiba mais em [Criar uma política comercial](/pt/docs/tutorials/criar-uma-politica-comercial).
@@ -178,6 +189,7 @@ Para solicitar esse tipo de suporte, siga os passos abaixo:
 4. Clique em `Enviar`.
 
 ### 3. Acompanhar status dos chamados de suporte financeiro e comercial
+
 Depois de abrir um chamado, acompanhe o status no [Histórico de solicitações](https://support.vtex.com/hc/pt-br/requests) no Suporte VTEX. Na página do **Histórico de solicitações**, você pode buscar suas solicitações pelo **ID do chamado** e utilizar filtros para os status disponíveis.
 
 Após criar um chamado, ele será exibido automaticamente no painel com o status `Aberto`.
@@ -190,4 +202,3 @@ Os status possíveis são:
 - **Fechado:** chamado marcado como resolvido e fechado automaticamente após 27 horas úteis sem nova interação. Não pode ser reaberto.
 
 Após a resolução do chamado, a equipe de suporte enviará um email com um link para a [Pesquisa de Satisfação](/pt/announcements/2022-01-13-avalie-o-atendimento-da-vtex-pelo-seu-admin). Por meio dessa pesquisa, você pode avaliar o atendimento sem sair do ambiente VTEX e contribuir para a melhoria contínua do suporte.
-
