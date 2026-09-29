@@ -48770,6 +48770,21 @@
             },
             {
               "name": {
+                "en": "\"View in Pages\" link in Planner Calendar opens a broken URL with literal",
+                "es": "El enlace \"Ver en páginas\" en el Calendario del planificador abre una URL rota con un error literal.",
+                "pt": "O link \"Ver em Páginas\" no Calendário do Planejador abre uma URL quebrada com um texto literal."
+              },
+              "slug": {
+                "en": "view-in-pages-link-in-planner-calendar-opens-a-broken-url-with-literal",
+                "es": "el-enlace-ver-en-paginas-en-el-calendario-del-planificador-abre-una-url-rota-con-un-error-literal",
+                "pt": "o-link-ver-em-paginas-no-calendario-do-planejador-abre-uma-url-quebrada-com-um-texto-literal"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Advanced store settings being registered globally insted of by binding",
                 "es": "La configuración avanzada de la tienda se registra a nivel global en lugar de mediante vinculación",
                 "pt": "As configurações avançadas da loja estão sendo registradas globalmente, em vez de por meio de vinculação"
