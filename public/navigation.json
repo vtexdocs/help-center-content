@@ -48693,6 +48693,21 @@
             },
             {
               "name": {
+                "en": "\"View in Pages\" link in Planner Calendar opens a broken URL with literal",
+                "es": "El enlace \"Ver en páginas\" en el Calendario del planificador abre una URL rota con un error literal.",
+                "pt": "O link \"Ver em Páginas\" no Calendário do Planejador abre uma URL quebrada com um texto literal."
+              },
+              "slug": {
+                "en": "view-in-pages-link-in-planner-calendar-opens-a-broken-url-with-literal",
+                "es": "el-enlace-ver-en-paginas-en-el-calendario-del-planificador-abre-una-url-rota-con-un-error-literal",
+                "pt": "o-link-ver-em-paginas-no-calendario-do-planejador-abre-uma-url-quebrada-com-um-texto-literal"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Advanced store settings being registered globally insted of by binding",
                 "es": "La configuración avanzada de la tienda se registra a nivel global en lugar de mediante vinculación",
                 "pt": "As configurações avançadas da loja estão sendo registradas globalmente, em vez de por meio de vinculação"
@@ -70224,6 +70239,21 @@
                 "en": "shopee-order-code-001-invalid-email",
                 "es": "shopee-codigo-de-pedido-001-correo-electronico-no-valido",
                 "pt": "shopee-codigo-do-pedido-001-email-invalido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Product Protection amount is added to the shipping total of integrated orders",
+                "es": "Shopee El importe de la protección del producto se añade al total del envío de los pedidos integrados.",
+                "pt": "Shopee O valor da Proteção do Produto é adicionado ao total do frete de pedidos integrados."
+              },
+              "slug": {
+                "en": "shopee-product-protection-amount-is-added-to-the-shipping-total-of-integrated-orders",
+                "es": "shopee-el-importe-de-la-proteccion-del-producto-se-anade-al-total-del-envio-de-los-pedidos-integrados",
+                "pt": "shopee-o-valor-da-protecao-do-produto-e-adicionado-ao-total-do-frete-de-pedidos-integrados"
               },
               "origin": "",
               "type": "markdown",
