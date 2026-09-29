@@ -49,7 +49,7 @@ El producto registrado en VTEX solo se podrá mapear con un anuncio en Mercado L
 
 La plantilla contiene las siguientes columnas:
 
-| **Columna** | **Descripción** | **Contenido** |
+| Columna | Descripción | Contenido |
 | ---------- | ---------- | ---------- |
 | **ID del anuncio** | Identificación del anuncio en la plataforma de Mercado Libre | Rellena la columna con el ID del anuncio de Mercado Libre. Encontrarás el ID (con o sin guion) en la URL del anuncio en Mercado Libre. Para los clientes de Brasil, el código tendrá las iniciales MLB seguido de una secuencia numérica en el siguiente formato: MLBXXXXXXXX (sin guion). Por ejemplo, la URL de un producto en Mercado Libre es [https://www.mercadolibre.com.co/apple-airpods-pro-blanco/p/MCO15306525](https://www.mercadolibre.com.co/apple-airpods-pro-blanco/p/MCO15306525). En este caso, el ID del anuncio que se usará en esta columna de la plantilla es `MCO15306525`. Los clientes de LATAM tienen iniciales distintas. Si tienes alguna duda, consulta el admin de tu tienda en Mercado Libre |
 | **ID del SKU** | Identificación del SKU en la plataforma VTEX | Rellena la columna con el ID del SKU anunciado en Mercado Libre. Para ver el **ID del SKU**, accede al Admin VTEX y haz clic en *PRODUCTOS > Catálogo > Productos y SKU*. Verás una secuencia numérica que corresponde al ID del SKU en la columna **SKU**, entre paréntesis |
@@ -57,7 +57,7 @@ La plantilla contiene las siguientes columnas:
 
 ### Ejemplo de cómo rellenar
 
-| **ID do Anúncio** | **ID do SKU**  | **ID da Variação** |
+| ID do Anúncio | ID do SKU  | ID da Variação |
 | ----------    | ---------- | ----------     |
 | MCO9999999999 | 123        | 29999999930    |
 | MCO9999999999 | 124        | 29999999931    |

@@ -46,12 +46,27 @@ Some of the main examples of the use of merchandising rules are:
 
 Consider the following recommendations for using merchandising rules in your store:
 
-* Manage merchandising rules based on Intelligent Search's [relevance rules](/en/docs/tutorials/relevance-rules) and [synonyms](/en/subcategory/synonyms--BBzMtJan1UTxC9QZODnlN). Make sure that these three are aligned to avoid conflicts and provide a cohesive and efficient search experience.
+* Manage merchandising rules based on Intelligent Search's [relevance rules](/en/docs/tutorials/relevance-rules) and [synonyms](/en/docs/tutorials/synonyms). Make sure that these three are aligned to avoid conflicts and provide a cohesive and efficient search experience.
 * Don't use merchandising rules with opposite effects for the same items, as this can lead to unexpected behavior in search results.
 * If too many merchandising rules are created, then the organic search will probably be greatly affected.
 * Be careful when using global [trigger rules](/en/docs/tutorials/creating-merchandising-rules-manual-editor#activation-rules), as they impact all searches.
 
-> ⚠️ If the search results are not correct, we recommend not creating merchandising rules to fix them, as this could indicate some other configuration problem. In this case, please contact our[ Support](https://support.vtex.com/hc/en-us/requests).
+> ⚠️ If the search results are not correct, we recommend not creating merchandising rules to fix them, as this could indicate some other configuration problem. In this case, please contact our [Support](https://support.vtex.com/hc/en-us/requests).
+
+### Interaction between merchandising rules created in the manual editor and the visual editor
+
+When using merchandising rules created in the [visual editor](https://help.vtex.com/en/docs/tutorials/creating-merchandising-rules-visual-editor) together with merchandising rules created in the [manual editor](https://help.vtex.com/en/docs/tutorials/creating-merchandising-rules-manual-editor), their effects can overlap.
+
+If another merchandising rule created in either editor is already promoting or reordering products within the same context (for example, for the same search term, category, or filter), the actions taken in the visual editor, such as pinning or moving a product, may not be correctly reflected in the preview or in the final search results.
+
+In this case, the product affected by multiple rules might not appear in the expected position.
+
+To avoid unexpected behavior, we recommend:
+
+* Checking if there are already merchandising rules (visual or manual) applied to the same context before creating a new one.
+* Consolidating sorting and promotion adjustments into a single rule type whenever possible.
+
+Additionally, pinning or dragging products to another position in a merchandising rule created in the visual editor has the same effect as promoting products in a merchandising rule created in the manual editor. Therefore, we recommend not using both methods simultaneously for the same search context.
 
 ## Learn more
 

@@ -1,10 +1,10 @@
 ---
 title: 'Cómo funcionan las condiciones de clusterización'
 id: 2CmfhSqmOTVo0tLWkAPiiA
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-11-18T12:47:27.764Z
-updatedAt: 2020-11-23T12:32:27.706Z
-publishedAt: 2020-11-23T12:32:27.706Z
+updatedAt: 2026-09-25T17:52:00.000Z
+publishedAt: 
 firstPublishedAt: 2020-11-18T17:37:48.695Z
 contentType: trackArticle
 productTeam: Financial
@@ -13,6 +13,7 @@ locale: es
 trackId: 1LqUFHQZ3ZQyV5TmugbGNm
 trackSlugEN: condiciones-de-pago-clusterizadas
 order: 3
+hidden: true
 ---
 
 La Clustered Payment Conditions utiliza condiciones para crear los clústeres de consumidores. 
@@ -21,7 +22,7 @@ Estas condiciones, a su vez, se basan en los datos que el Master Data almacena s
 
 De esta manera, las reglas de plazo y de pago en cuotas se aplicarán al consumidor o los consumidores que se ajusten a la condición o las condiciones.
 
-> ❗ **Atención**: solo se permite crear cinco clústeres de clientes por condición de pago.
+> ❗ Solo se permite crear cinco clústeres de clientes por condición de pago.
 
 Para configurarlas, escoja una propiedad y, luego, seleccione los parámetros para crear un clúster.
 

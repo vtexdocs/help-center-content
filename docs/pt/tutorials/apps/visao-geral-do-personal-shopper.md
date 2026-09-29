@@ -1,5 +1,5 @@
 ---
-title: 'Personal Shopper - Visão geral'
+title: 'Personal Shopper'
 id: 12dC0UMD0C6x6kw43LF8MH
 status: PUBLISHED
 createdAt: 2024-11-19T15:03:14.481Z
@@ -192,7 +192,7 @@ Ao estar cadastrado como personal shopper, você pode criar videochamadas com se
     * **Email**: digite o endereço de email do cliente para receber comunicação e notificações relacionadas a eventos.
     * **Telefone (opcional)**: insira o número de telefone do cliente para habilitar opções adicionais para contato.
     * **Produto (opcional)**: se aplicável, especifique o produto de interesse a ser apresentado na videochamada.
-    * **Selecione a plataforma que você está usando**: VTEX IO ou VTEX Portal (também conhecido como VTEX Legacy CMS Portal).
+    * **Selecione a plataforma que você está usando**: VTEX IO ou VTEX Portal (também conhecido como VTEX CMS Portal (Legacy)).
 5. Clique em `Criar videochamada`.
 6. Escolha `Iniciar videochamada instantânea` para iniciar a sessão com o cliente ou `Crie uma videochamada para mais tarde` para agendar uma chamada.
 

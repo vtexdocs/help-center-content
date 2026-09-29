@@ -1,5 +1,5 @@
 ---
-title: 'Tipos de Coleção'
+title: 'Coleções'
 id: 5tKnhh8tMGIrVL7Fqirq7n
 status: PUBLISHED
 createdAt: 2020-08-25T19:44:32.708Z
@@ -13,6 +13,7 @@ slugEN: collection-types
 legacySlug: tipos-de-colecao
 locale: pt
 subcategoryId: 3aExYJkji3NIu9Ks8bxbWx
+categoryCover: true
 ---
 
 A Coleção é um recurso de agrupamento de produtos. É comum o uso dessa ferramenta para criar ações comerciais com tema ou critério semelhante, como uma coleção de roupas de inverno, por exemplo.
@@ -26,7 +27,7 @@ Na VTEX, temos três possibilidades de configuração de Coleções:
 - Híbrida
 
 | Coleção | Onde configurar | Adição de produtos | Ordenação |
-| :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | Manual | CMS e módulo de Coleções Beta | - CMS: por seleção de SKUs. <br> - Coleções Beta: por refinamento de busca e filtros de produtos. | - CMS: sem controle. <br> - Coleções Beta: controle total. |
 | Automática | CMS | Criada por filtros de marca ou categoria. | Sem controle. |
 | Híbrida | CMS e módulo de Coleções Beta | - CMS: criada por filtros de marca ou categoria. <br> - Coleções Beta: criada por filtros de marca. <br> Tanto no Coleções Beta quanto no CMS é possível adicionar os produtos manualmente. | Sem controle. |

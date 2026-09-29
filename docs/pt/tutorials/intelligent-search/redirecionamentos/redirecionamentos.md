@@ -13,6 +13,7 @@ slugEN: redirects
 legacySlug: redirecionamentos
 locale: pt
 subcategoryId: 1wvyJwJhKgewxGeAGCVmM6
+categoryCover: true
 ---
 
 A funcionalidade de redirecionamentos do [Intelligent Search](/pt/docs/tutorials/intelligent-search-visao-geral) permite direcionar o cliente para qualquer outra página, seja interna ou externa à loja. Esse redirecionamento é feito na área de busca do seu storefront, utilizando termos ou filtros selecionados pelo cliente.

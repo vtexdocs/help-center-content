@@ -48,11 +48,22 @@ A VTEX possui três tecnologias distintas para o desenvolvimento de frente de lo
 
 As próximas seções são sobre as principais características e funcionalidades da FastStore e do Store Framework.
 
+## Fluxo de implementação
+
+Embora as ferramentas variem de acordo com a tecnologia, as implementações de frente de loja geralmente seguem este fluxo:
+
+1. **Planejar:** Defina o escopo da frente de loja, a arquitetura de informação, o design, as integrações e os critérios de aceitação.
+2. **Preparar:** Configure os acessos, os ambientes de desenvolvimento, os dados comerciais e os aplicativos ou serviços necessários.
+3. **Desenvolver:** Implemente páginas, componentes, estilos e comportamentos da frente de loja usando a tecnologia escolhida.
+4. **Integrar:** Conecte o gerenciamento de conteúdo, a pesquisa, o checkout, o login, a Minha Conta, o Analytics e quaisquer serviços externos necessários.
+5. **Testar:** Valide a funcionalidade, o conteúdo, o comportamento responsivo, a acessibilidade, o SEO, o Analytics e a performance.
+6. **Lançar (go live):** Conclua as verificações de produção, publique a frente de loja, aponte o domínio da loja para ela e monitore o lançamento.
+
 ## FastStore
 
 FastStore é uma inovação em tecnologia de frente de loja para times de desenvolvimento criarem lojas com foco em performance e estabilidade, além de ser uma tecnologia de fácil manutenção, inclusive na edição de páginas do site da loja. 
 
-Esta tecnologia é um _toolkit open-source_ baseado em _React_ e na arquitetura [Jamstack](https://jamstack.org/). Para obter mais informações, basta consultar o portal de documentação da [FastStore](https://www.faststore.dev/docs).
+Esta tecnologia é um _toolkit open-source_ baseado em _React_ e na arquitetura [Jamstack](https://jamstack.org/). Para obter mais informações, basta consultar o portal de documentação da [FastStore](https://developers.vtex.com/docs/guides/faststore).
 
 ### Principais funcionalidades da FastStore
 
@@ -60,14 +71,14 @@ A tabela a seguir apresenta algumas das principais funcionalidades da FastStore:
 
 | Funcionalidade | Descrição |
 | -------------- | --------- |
-| [Starter](https://starter.vtex.app/) | Template funcional projetado para o desenvolvimento rápido da loja, e que já integra os componentes da [FastStore UI](https://www.faststore.dev/components). Inclui páginas como Home, páginas de lista de produtos (PLPs), páginas de detalhes do produto (PDPs) e também a funcionalidade minicart. |
-| [FastStore UI](https://www.faststore.dev/components) | Biblioteca de componentes para ecommerce que fornece recursos e estilo básico, tornando mais rápida a implementação e personalização de frentes de loja. |
+| [Starter](https://starter.vtex.app/) | Template funcional projetado para o desenvolvimento rápido da loja, e que já integra os componentes da [FastStore UI](https://developers.vtex.com/docs/guides/faststore/components-index). Inclui páginas como Home, páginas de lista de produtos (PLPs), páginas de detalhes do produto (PDPs) e também a funcionalidade minicart. |
+| [FastStore UI](https://developers.vtex.com/docs/guides/faststore/components-index) | Biblioteca de componentes para ecommerce que fornece recursos e estilo básico, tornando mais rápida a implementação e personalização de frentes de loja. |
 | Tecnologia *headless* | Processo de customização que separa o código da loja desenvolvido pelo time de desenvolvimento do código base fornecido pela VTEX. Isso simplifica as atualizações do frontend da loja, permitindo atualizações sem impactar o código customizado. |
 | Integração com o [GitHub](https://github.com/) | Os times de desenvolvimento podem gerenciar todo o código da frente de loja utilizando o [GitHub](https://github.com/). |
-| [Headless CMS](https://www.faststore.dev/docs/headless-cms-overview) | Sistema de gerenciamento de conteúdo (CMS) que permite a edição e criação de novas páginas e a pré-visualização de mudanças no conteúdo. |
+| [CMS](https://help.vtex.com/pt/docs/tutorials/cms-visao-geral) | Sistema de gerenciamento de conteúdo (CMS) que permite a edição e criação de novas páginas e a pré-visualização de mudanças no conteúdo. |
 | Verificações automatizadas | Testes funcionais e a avaliação da performance da loja e da qualidade do código são executados continuamente de forma automatizada para detectar lentidão e bugs durante todo o estágio de desenvolvimento da frente de loja. |
-| Integração com [Intelligent Search](https://www.faststore.dev/docs/getting-started-requirements#enable-the-vtex-intelligent-search-app-in-your-account) | Funcionalidade de preenchimento automático na barra de pesquisa, juntamente com sugestões de pesquisa e produtos com base em preferências configuráveis. |
-| Integrações com [Checkout](https://www.faststore.dev/docs/go-live/4-integrating-the-vtex-checkout), [Minha Conta](https://www.faststore.dev/docs/go-live/5-integrating-the-vtex-order-placed-and-my-account) e [Login](https://www.faststore.dev/docs/go-live/3-integrating-the-the-vtex-login) | Integração com outras etapas da jornada de compra dos clientes. Lojas VTEX previamente desenvolvidas com o Store Framework podem manter configurações relacionadas ao Checkout, Minha Conta e Login quando migradas para a FastStore, pois ambas se beneficiam da mesma infraestrutura. |
+| Integração com [Intelligent Search](https://developers.vtex.com/docs/guides/faststore/getting-started-1-setting-up-your-environment#step-4-enabling-the-vtex-intelligent-search-app) | Funcionalidade de preenchimento automático na barra de pesquisa, juntamente com sugestões de pesquisa e produtos com base em preferências configuráveis. |
+| Integrações com [Checkout](https://developers.vtex.com/docs/guides/faststore/go-live-3-integrating-the-vtex-checkout) e [Minha Conta e Login](https://developers.vtex.com/docs/guides/faststore/go-live-4-integrating-the-vtex-order-placed-and-my-account) | Integração com outras etapas da jornada de compra dos clientes. Lojas VTEX previamente desenvolvidas com o Store Framework podem manter configurações relacionadas ao Checkout, Minha Conta e Login quando migradas para a FastStore, pois ambas se beneficiam da mesma infraestrutura. |
 
 ## Store Framework
 
@@ -104,7 +115,7 @@ A tabela a seguir apresenta algumas das principais funcionalidades do Store Fram
 | [Testes A/B nativos](https://developers.vtex.com/docs/guides/ab-tests) | Permite testar e validar qual a versão da loja com as maiores taxas de conversão. |
 | Integração com [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) | Funcionalidade de preenchimento automático na barra de pesquisa, juntamente com sugestões de pesquisa e produtos com base em suas preferências. |
 | [Progressive Web App (PWA)](/pt/docs/tutorials/habilitando-notificacoes-pwa-da-loja) | Permite experiências nativas semelhantes a aplicativos em qualquer dispositivo com tecnologia pronta para PWA. |
-| [Cross-border](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/5qgXy9Erm7FDP3UB5Ox8Bs?&utm_source) | Permite que uma loja [multiloja](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multiloja) VTEX opere em diferentes países com uma abordagem própria para cada um deles. |
+| [Cross-border](/pt/docs/tracks/lojas-internacionais-cross-border) | Permite que uma loja [multiloja](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multiloja) VTEX opere em diferentes países com uma abordagem própria para cada um deles. |
 | Integração com Checkout, [Minha Conta](/pt/docs/tutorials/como-funciona-a-minha-conta) e Login | Integração com outras etapas da jornada de compra do cliente. |
 
 ## Escolhendo a tecnologia de frontend
@@ -129,7 +140,7 @@ A tabela abaixo compara as duas tecnologias de acordo com suas principais funcio
     <tr>
       <td>*Starter* (template inicial)</td>
         <td>O [Store Theme](https://github.com/vtex-apps/store-theme) é o template inicial no qual o time pode usar de base para iniciar o projeto da loja ou iniciar do zero.</td>
-        <td>O [Starter FastStore](https://starter.vtex.app/) já é disponibilizado ao finalizar o [Onboarding da FastStore](https://www.faststore.dev/docs/getting-started/1-faststore-onboarding/overview). Isso permite que o time comece o projeto com um template base focado em performance.</td>
+        <td>O [Starter FastStore](https://starter.vtex.app/) já é disponibilizado ao finalizar o [Onboarding da FastStore](https://developers.vtex.com/docs/guides/faststore/getting-started-2-starting-the-project). Isso permite que o time comece o projeto com um template base focado em performance.</td>
     </tr>
     <tr>
         <td>Desempenho</td>
@@ -176,7 +187,7 @@ A tabela abaixo compara as duas tecnologias de acordo com suas principais funcio
         </td>
         <td>
             <ul>
-                <li>[Documentação oficial](https://www.faststore.dev/docs)</li>
+                <li>[Documentação oficial](https://developers.vtex.com/docs/guides/faststore)</li>
             </ul>
         </td>
     </tr>
@@ -198,7 +209,7 @@ A tabela abaixo compara as duas tecnologias de acordo com suas principais funcio
     <tr>
         <td>Sistema de Gerenciamento de Conteúdo (CMS)</td>
         <td>Compatível com o [Site Editor](/pt/docs/tutorials/site-editor-visao-geral).</td>
-        <td>Compatível com o [Headless CMS](https://www.faststore.dev/docs/headless-cms-overview).</td>
+        <td>Compatível com o [CMS](https://help.vtex.com/pt/docs/tutorials/cms-visao-geral).</td>
     </tr>
 </table>
 
@@ -213,7 +224,7 @@ Antes de lançar a loja em produção e do [go-live](/pt/docs/tracks/planejament
 
 ### Desenvolvendo com a FastStore
 
-O time de desenvolvimento deve iniciar um novo projeto com a FastStore através do processo de [Onboarding](https://www.faststore.dev/docs/getting-started/1-faststore-onboarding). Ao final desse processo, o time estará com uma loja básica e funcional baseada no [Starter da FastStore](https://starter.vtex.app/). Feito isso, os requisitos básicos da página já estarão implementados, são eles:
+O time de desenvolvimento deve iniciar um novo projeto com a FastStore através do processo de [Onboarding](https://developers.vtex.com/docs/guides/faststore/getting-started-2-starting-the-project). Ao final desse processo, o time estará com uma loja básica e funcional baseada no [Starter da FastStore](https://starter.vtex.app/). Feito isso, os requisitos básicos da página já estarão implementados, são eles:
 
 - Home
 - *Product Listing Page* (PLP)
@@ -234,25 +245,23 @@ São apresentados a seguir os requisitos para cada tema:
   - [Cadastrar preços dos SKUs](/pt/docs/tracks/cadastrar-preco-base)
   - [Gerenciar inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque)
 - VTEX Intelligent Search
-  - [Integrar a app de Intelligent Search na conta](https://www.faststore.dev/docs/getting-started-requirements#enable-the-vtex-intelligent-search-app-in-your-account)
-- Integração com Headless CMS
-  - [Configurar o Headless CMS na conta](https://www.faststore.dev/docs/headless-cms-integration/1-configuring-the-vtex-account)
-  - [Definir content types e seções que estarão disponíveis](https://www.faststore.dev/docs/headless-cms-integration/2-setting-up-the-headless-cms)
-  - Criar e editar páginas usando o Headless CMS no Admin VTEX
+  - [Integrar a app de Intelligent Search na conta](https://developers.vtex.com/docs/guides/faststore/getting-started-1-setting-up-your-environment#step-4-enabling-the-vtex-intelligent-search-app)
+- Integração com CMS
+  - [Primeiros passos com o CMS](https://developers.vtex.com/docs/guides/getting-started-with-cms)
 - Página Home
   - Editar os componentes e estilos já apresentados no [Starter](https://starter.vtex.app/)
 - Página de Login
-  - [Integrar com o VTEX Login](https://www.faststore.dev/docs/go-live/3-integrating-the-the-vtex-login)
+  - [Integrar com o VTEX Login](https://developers.vtex.com/docs/guides/faststore/go-live-2-integrating-the-vtex-login)
   - Editar os componentes e estilos já apresentados no [Starter](https://starter.vtex.app/)
 - Product Listing Page (PLP)
-  - Editar os componentes e estilos já apresentados no [Starter](https://starter.vtex.app/office)
+  - Editar os componentes e estilos já apresentados no [Starter](https://starter.vtex.app/)
 - Product Details Page (PDP)
-  - Editar os componentes e estilos já apresentados no [Starter](https://starter.vtex.app/4k-philips-monitor-99988213/p)
+  - Editar os componentes e estilos já apresentados no [Starter](https://starter.vtex.app/)
 - Minicart configuration
   - Editar os componentes e estilos já apresentados no [Starter](https://starter.vtex.app/)
 - Checkout
-  - Integrar com o [VTEX Checkout](https://www.faststore.dev/docs/go-live/4-integrating-the-vtex-checkout)
-  - Integrar com [VTEX Order Placed e My Account](https://www.faststore.dev/docs/go-live/5-integrating-the-vtex-order-placed-and-my-account)
+  - Integrar com o [VTEX Checkout](https://developers.vtex.com/docs/guides/faststore/go-live-3-integrating-the-vtex-checkout)
+  - Integrar com [VTEX Order Placed e My Account](https://developers.vtex.com/docs/guides/faststore/go-live-4-integrating-the-vtex-order-placed-and-my-account)
 - Logística
   - [Cadastrar doca](/pt/docs/tutorials/gerenciar-doca)
   - [Cadastrar estratégia de envio](/pt/docs/tutorials/estrategia-de-envio)
@@ -260,10 +269,8 @@ São apresentados a seguir os requisitos para cada tema:
 - Payments
   - [Configurar o conector Promissórias](/pt/docs/tutorials/configurar-o-conector-promissorias)
   - [Cadastrar afiliações de gateway](/pt/docs/tutorials/afiliacoes-de-gateway)
-- Performance e SEO
-  - Aumentar o desempenho do site da loja usando ferramentas indicadas [para tecnologia](https://v1.faststore.dev/how-to-guides/performance)
-- Métricas
-  - Configurar o módulo de [Analytics](https://v1.faststore.dev/reference/sdk/analytics)
+- Aumentar o desempenho da loja usando as ferramentas de [tecnologia](https://developers.vtex.com/docs/guides/faststore/managing-performance-overview) adequadas.
+- [SEO](https://developers.vtex.com/docs/guides/faststore/seo-overview)
 
 ### Desenvolvendo com o Store Framework
 
@@ -305,7 +312,7 @@ São apresentados a seguir os requisitos para cada tema:
   - [Relacionar estratégia de envio e estoque com doca](/pt/docs/tutorials/gerenciar-doca)
 - Pagamentos
   - [Configurar o conector Promissórias](/pt/docs/tutorials/configurar-o-conector-promissorias)
-  - [Cadastrar afiliações de gateway](/pt/tutorial/registering-gateway-affiliations/)
+  - [Cadastrar afiliações de gateway](/pt/docs/tutorials/afiliacoes-de-gateway)
 - Performance
   - Aumentar o desempenho do site da loja usando ferramentas de [otimização de desempenho](https://developers.vtex.com/docs/guides/vtex-io-documentation-best-practices-for-optimizing-performance)
 - Métricas

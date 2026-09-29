@@ -1,5 +1,5 @@
 ---
-title: 'How many coupons, taxes and promotions may I have in my store?'
+title: 'Coupon, taxes, and promotion limits'
 id: frequentlyAskedQuestions_352
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:52.883Z
@@ -15,12 +15,12 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Nowadays, we have a limitation on the number of active promotions, taxes and coupons.
+There is a limit on the number of active promotions, taxes, and coupons.
 
 - [Promotions](/en/docs/tutorials/creating-promotions): 100
 - [Taxes](/en/docs/tutorials/creating-surchargestaxes): 100
-- [Coupons](/en/tutorial/creating-a-coupon/): 50.000
+- [Coupons](/en/tutorial/creating-a-coupon/): 50,000
 
-Only active promotions, taxes or coupons are counted when calculating this limit, which means that archived promotions, taxes or coupons are not considered.
+Only active promotions, taxes, or coupons are counted when calculating this limit, which means that archived promotions, taxes, or coupons are not considered.
 
 If it is necessary to change any of these limits, please contact our [Support](https://supporticket.vtex.com/support) to analyze the viability of the change.

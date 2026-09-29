@@ -17,20 +17,20 @@ tags:
 Está aberta a lista de espera para o novo [VTEX CMS](https://help.vtex.com/en/docs/tutorials/cms-overview), um sistema de gerenciamento de conteúdo moderno e escalável, projetado para ajudar os lojistas a criar, colaborar e distribuir conteúdos de storefront de forma mais eficiente.
 
 | ![Todos os conteúdos](https://vtexhelp.vtexassets.com/assets/docs/src/cms-conteudo-pt___0073aa95aa1b4f68a49ffcb635ea66ea.gif) |
-|:---:|
+|---|
 | **Todos os conteúdos:** crie, gerencie e publique todas as suas páginas, layouts, templates e seções globais do storefront a partir de um único dashboard. |
 
 | ![Branches](https://vtexhelp.vtexassets.com/assets/docs/src/cms-branches-pt___dff883f3564a889019d09e2e63be7e6e.gif) |
-|:---:|
+|---|
 | **Branches:** trabalhe em alterações de conteúdo em ambientes isolados e publique-as no storefront apenas quando estiver tudo pronto, sem interromper sua loja em produção. |
 
 | ![Lojas](https://vtexhelp.vtexassets.com/assets/docs/src/cms-lojas-pt___bc5511d01dded18f5ae1acd1bff4569b.gif) |
-|:---:|
+|---|
 | **Lojas:** vincule e gerencie múltiplos storefronts em um só lugar, configurando URLs de pré-visualização, integrações de repositório e configurações de localidade para cada loja. |
 
 ## O que mudou?
 
-O novo CMS substitui o [Headless CMS (Legado)](https://developers.vtex.com/docs/guides/faststore/headless-cms-overview) e oferece uma experiência significativamente aprimorada tanto para equipes de negócio quanto para equipes técnicas. Com o CMS, os lojistas agora podem:
+O novo CMS substitui o [Headless CMS (Legacy) (Legado)](https://developers.vtex.com/docs/guides/faststore/headless-cms-overview) e oferece uma experiência significativamente aprimorada tanto para equipes de negócio quanto para equipes técnicas. Com o CMS, os lojistas agora podem:
 
 * Criar, gerar, gerenciar e publicar conteúdo no storefront mais rapidamente com uma **interface assistida por IA**.  
 * Evoluir o conteúdo usando **versionamento avançado, histórico de versões e recursos de rollback**.  

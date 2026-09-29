@@ -25,7 +25,7 @@ Na página **Lançamentos**, todos os lançamentos que existem são apresentados
 
 A ordenação dos lançamentos agendados é feita com base na data de publicação: quanto mais longínquo no futuro é um lançamento primeiro ele aparece na listagem, e quanto mais distante no passado, por último ele aparece.
 
-> ⚠️ Na fase beta, os lançamentos precisam estar relacionados ao [CMS](/pt/docs/tracks/cms-vtex-io), pois outros módulos da plataforma VTEX ainda não estão inclusos. Para utilizar o **Lançamentos**, é necessário configurar o CMS conforme descrito em [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
+> ⚠️ Na fase beta, os lançamentos precisam estar relacionados ao [CMS](/pt/docs/tracks/cms-vtex-io), pois outros módulos da plataforma VTEX ainda não estão inclusos. Para utilizar o **Lançamentos**, é necessário configurar o CMS conforme descrito em [Installing Releases on VTEX Headless CMS (Legacy)](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 ## Visualização em lista
 
@@ -33,7 +33,7 @@ Para acessar a página **Lançamentos** no Admin VTEX, vá no menu de navegaçã
 
 ![Releases list view v2 - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/lançamentos-beta/planner-pagina-lancamentos-beta_1.png)
 
-| **Campo** | **Descrição** |
+| Campo | Descrição |
 |---|---|
 | **Nome** | Nome que identifica o lançamento, definido na etapa de criação. Pode ser editado a qualquer momento, desde que o lançamento não esteja publicado. |
 | **Última modificação** | Tempo decorrido desde a última alteração no lançamento. |

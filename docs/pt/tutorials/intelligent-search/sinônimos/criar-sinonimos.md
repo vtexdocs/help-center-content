@@ -3,7 +3,7 @@ title: 'Criar sinônimos'
 id: 5IfjhvjxNAvJGEWNn0AhOA
 status: PUBLISHED
 createdAt: 2024-06-27T16:36:30.904Z
-updatedAt: 2025-10-15T13:46:16.968Z
+updatedAt: 2026-08-05T00:00:00.000Z
 publishedAt: 2025-10-15T13:46:16.968Z
 firstPublishedAt: 2024-06-27T16:37:25.800Z
 contentType: tutorial
@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: BBzMtJan1UTxC9QZODnlN
 ---
 
-> ℹ️ Para relacionar palavras ao produto, é recomendada a utilização da configuração de [Sinônimos](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV?&utm_source=autocomplete) ao invés das [Palavras Substitutas](/pt/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu?&utm_source=autocomplete), uma vez que os sinônimos possibilitam uma gestão mais escalável de termos por produto. Para mais informações, entre em contato com nosso [Suporte](https://support.vtex.com/hc/pt-br/requests).
+> ℹ️ Para relacionar palavras ao produto, é recomendada a utilização da configuração de [Sinônimos](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV?&utm_source=autocomplete) ao invés das [Palavras Substitutas](https://help.vtex.com/pt/docs/tutorials/otimizar-as-buscas-com-palavras-substitutas), uma vez que os sinônimos possibilitam uma gestão mais escalável de termos por produto. Para mais informações, entre em contato com nosso [Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 Existem duas formas de configurar sinônimos no Admin VTEX: [individualmente](#criar-sinonimos-individualmente) ou por [importação de uma planilha em formato CSV](#importar-csv). Se você precisa cadastrar sinônimos em massa, recomendamos utilizar a planilha. Confira as instruções para cada forma de configuração nas seções a seguir.
 
@@ -33,13 +33,31 @@ Siga o passo a passo para configurar sinônimos individualmente no Admin VTEX:
 4. Preencha os campos referentes ao sinônimo:
    - __Tipo:__ define o tipo de sinônimo. Confira [Tipos de sinônimos](/pt/docs/tutorials/sinonimos#tipos-de-sinonimos) para mais informações.
    - __Termos:__ palavras ou expressões a serem definidas como sinônimos. É necessário teclar `Enter` após cada termo para inserir um outro termo.
-   - **Idiomas:** idiomas aos quais o sinônimo será aplicado. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta).
+   - **Idiomas:** idiomas aos quais o sinônimo será aplicado. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma).
    - __Status:__ define se o sinônimo estará ativo ou inativo.
 5. Para finalizar, clique em `Salvar`.
 
 A alteração pode demorar até duas horas para ser aplicada.
 
-> ℹ️ Essa funcionalidade está disponível no VTEX Intelligent Search Multi-idioma. Leia o nosso artigo [VTEX Intelligent Search: configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta#sinonimos) para saber mais.
+> ℹ️ Essa funcionalidade está disponível no VTEX Intelligent Search Multi-idioma. Leia o nosso artigo [VTEX Intelligent Search: configurações Multi-idioma](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma#sinonimos) para saber mais.
+
+### Detecção de sinônimos conflitantes
+
+Ao preencher o campo **Termos** na etapa anterior, o Intelligent Search verifica se os termos informados já são cobertos por outra regra de sinônimo existente na loja. Essa verificação ajuda a evitar duplicidade e conflitos de relevância, especialmente em lojas com uma grande quantidade de sinônimos configurados.
+
+Se um termo já estiver coberto por outro sinônimo, um aviso é exibido no formulário informando quantos sinônimos compartilham os mesmos termos. Clique em `Ver regras conflitantes` para abrir, em outra aba, a página de **Sinônimos conflitantes**, que lista as regras sobrepostas com as seguintes informações:
+
+| Coluna | Descrição |
+|---|---|
+| Termos | Termos definidos no sinônimo conflitante. |
+| Criada em | Data de criação do sinônimo conflitante. |
+| Status | Situação do sinônimo conflitante, que pode ser Ativa ou Inativa. |
+
+A partir dessa página, você pode revisar cada sinônimo conflitante individualmente e [editá-lo](https://help.vtex.com/pt/docs/tutorials/lista-de-sinonimos#editar-sinonimo) ou [excluí-lo](https://help.vtex.com/pt/docs/tutorials/lista-de-sinonimos#deletar-sinonimo), conforme necessário.
+
+Ao clicar em `Salvar`, se houver um conflito, uma janela de confirmação é exibida solicitando que você confirme o cadastro ou a edição mesmo com a sobreposição identificada.
+
+> ℹ️ A detecção de conflitos não impede o cadastro do sinônimo. Ela apenas alerta sobre sobreposições existentes na base, permitindo que você decida se deseja ajustar as regras cadastradas.
 
 ## Importar CSV
 
@@ -89,9 +107,9 @@ Resultado no Admin VTEX:
 
 ![sinonimos-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/sinônimos/criar-sinonimos_1.png)
 
-#### Lojas Multi-idioma (Beta)
+#### Lojas Multi-idioma
 
-Lojas que utilizam [Configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta) devem seguir o template abaixo para fazer a importação de Sinônimos para idiomas específicos.
+Lojas que utilizam [Configurações Multi-idioma](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma) devem seguir o template abaixo para fazer a importação de Sinônimos para idiomas específicos.
 
 - __Unidirecional__: `{termos separados por vírgula};{termo equivalente};{status};{locales separados por vírgula}`
 

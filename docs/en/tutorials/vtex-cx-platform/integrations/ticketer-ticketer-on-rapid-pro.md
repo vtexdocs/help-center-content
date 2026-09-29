@@ -30,7 +30,7 @@ You can quickly start a ticket at any point in your flow by adding the 'open a t
 
 1\. Create a card “Open a ticket with a human agent”
 
-2\. Pick a topic or category. To create a new topic or category option, simply type the name in the bar and it will be automatically created.
+2\. Pick a topic or category. To create a new topic or category option, type the name in the bar and it will be automatically created.
 
 3\. This is an optional configuration, in case you don't Assign an agent to the ticket, Any agent will be able to pick up the ticket in the “unsigned” ticket box . In case you choose an Agent, all the tickets will be automatically assigned and appear on the “My tickets” box.
 

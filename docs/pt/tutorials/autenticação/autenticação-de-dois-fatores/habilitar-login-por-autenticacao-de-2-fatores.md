@@ -1,5 +1,5 @@
 ---
-title: 'Habilitar login por autenticação de dois fatores'
+title: 'Autenticação de dois fatores'
 id: 4Ae1fcQi12g8u4SkQKCqWQ
 status: PUBLISHED
 createdAt: 2017-11-09T00:46:29.023Z
@@ -13,6 +13,7 @@ slugEN: enabling-2-factor-authentication-login
 legacySlug: habilitar-login-por-autenticacao-de-2-fatores
 locale: pt
 subcategoryId: 4sY1T2qdFehvVmC0tL5xW3
+categoryCover: true
 ---
 
 A autenticação de dois fatores (2FA) é um método de autenticação que aumenta muito a segurança do login em sua loja.

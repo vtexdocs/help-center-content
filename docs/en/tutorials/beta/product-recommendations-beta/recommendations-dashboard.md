@@ -39,7 +39,7 @@ Click any metric to view its corresponding chart, which shows the metric's evolu
 The following table describes the dashboard metrics:
 
 | Metric                       | Description                                                                                                                                                                            | Hover information                        |
-| :--------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 | **Click-through conversion** | Percentage of clicks on recommendations that resulted in orders.                                                                                                       | Clicks, Orders, Click-through conversion |
 | **View rate**                | Percentage of recommendation shelf views relative to total page views. The strategy is generated each time the page loads, and you may view it or not. | Views, Impressions, View rate            |
 | **Click-through rate**       | Average click-through rate (CTR) for recommendations.                                                                                               | Clicks, Views, Click-through rate        |
@@ -54,7 +54,7 @@ The table shows the performance of each recommendation shelf configured in the s
 The page displays the following information about each shelf in table form:
 
 | Column                   | Description                                                                                                                                                  |
-| :----------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Shelf                    | Recommendation shelf name and its respective strategy and display context (for example, _home_, _pdp_, _cart_, _footer_). |
 | View rate                | Percentage of shelf views relative to views of the page where it's embedded.                                                                 |
 | Click-through rate       | Percentage of clicks on products in the shelf relative to total views.                                                                       |

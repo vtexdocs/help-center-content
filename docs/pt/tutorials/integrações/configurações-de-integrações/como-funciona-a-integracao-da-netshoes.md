@@ -54,7 +54,7 @@ Ao serem enviados com sucesso pela primeira vez, a Netshoes recebe os produtos e
 
 _`Ex:` se a descrição do produto for alterada, a integração não atualizará a descrição que está no marketplace._
 
-> ⚠️ OBS: o produto não pode ser apagado no painel da Netshoes, do contrário não conseguirá ser enviado pela integração novamente.
+> ⚠️ O produto não pode ser apagado no painel da Netshoes, do contrário não conseguirá ser enviado pela integração novamente.
 
 Na Netshoes, os produtos possuem dois status possíveis:
 - __Ativo:__ disponível para venda
@@ -72,7 +72,7 @@ A Netshoes só aceita receber os estoques para produtos que já foram enviados c
 
 Depois que os produtos recebem a primeira carga de estoque, a atualização é feita SKU por SKU sempre que ocorre alguma alteração de estoque na VTEX.
 
-> ⚠️ **OBS:** os dados de estoque enviados para a Netshoes ficam registrados em nosso sistema por apenas **3 meses**.
+> ⚠️ Os dados de estoque enviados para a Netshoes ficam registrados em nosso sistema por apenas 3 meses.
 
 ## Preços
 
@@ -86,7 +86,7 @@ _`Ex1:` promoção de 10% de desconto para determinada categoria_
 
 _`Ex2:` SKU X está R$ 10,00 na política comercial usada na Netshoes e tem um preço fixo de R$ 15,00 para essa mesma política. A integração enviará R$ 15,00._
 
-> ⚠️ OBS: como a forma de pagamento é feita no marketplace, as regras de pagamento são determinadas por ele. Por conta disto, não conseguimos enviar preços diferenciados em função da forma de pagamento. <br /> *Ex: se na VTEX existem juros configurados para pagamentos parcelados, o preço enviado continuará sendo o que a simulação de fulfillment retorna.*
+> ⚠️ Como a forma de pagamento é feita no marketplace, as regras de pagamento são determinadas por ele. Por conta disto, não conseguimos enviar preços diferenciados em função da forma de pagamento. Ex: se na VTEX existem juros configurados para pagamentos parcelados, o preço enviado continuará sendo o que a simulação de fulfillment retorna.
 
 ## Promoções
 
@@ -127,7 +127,7 @@ O tempo de preparo de envio é baseado no somatório do  campo `Tempo de custo` 
 
 > ℹ️ Ex: <br /> **Estoque A** <br /> - Doca 1: Tempo de Custo = 3 dias <br /> **Estoque B** <br /> - Doca 1: Tempo de Custo = 5 dias <br /> <br /> **Doca 1:** <br /> - Tempo de Custo = 2 dias <br /> <br /> Um pedido com Tempo de Frete = 3 dias, ficará com um Tempo Total de Entrega diferente dependendo de onde o produto sairá. <br /> <br /> **Saindo do estoque A:** <br /> - Tempo de preparo = 3 + 2 (doca 1) = 5 dias <br /> - Tempo de frete = 3 dias <br /> - Tempo total de entrega = 8 dias <br /> **Saindo do estoque B:** <br /> - Tempo de preparo = 5 + 2 (doca 1) = 7 dias <br /> - Tempo de frete = 3 dias <br /> - Tempo total de entrega = 10 dias
 
-> ⚠️ OBS: no caso de usar a tabela de contingência para fazer o cálculo do frete, a Netshoes não consulta a VTEX. Desta forma, o único fator que será levado em consideração para o **Tempo Total de Entrega**, será o **Frete** fornecido por eles, ignorando o **Tempo de Preparo**. Deve-se tomar cuidado com isto, pois pode gerar divergências no **Tempo Total de Entrega**.
+> ⚠️ No caso de usar a tabela de contingência para fazer o cálculo do frete, a Netshoes não consulta a VTEX. Desta forma, o único fator que será levado em consideração para o **Tempo Total de Entrega**, será o **Frete** fornecido por eles, ignorando o **Tempo de Preparo**. Deve-se tomar cuidado com isto, pois pode gerar divergências no **Tempo Total de Entrega**.
 
 #### Preço/Disponibilidade:
 

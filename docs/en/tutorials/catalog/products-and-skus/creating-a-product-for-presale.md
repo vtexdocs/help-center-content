@@ -35,7 +35,7 @@ To make a product available on presale, follow the steps below:
 
   > ℹ️ This field helps sort search results on the website. You can use the query string `O=OrderByReleaseDateDESC` to retrieve this value and display products in order of release date. In addition, the value of this field influences the creation of [automatic collections](/en/docs/tutorials/creating-collections-beta) and determines the product [indexing](/en/docs/tutorials/understanding-how-indexation-works) date.
 
-4. Fill in the other fields required to create the product. Know more in [Adding or editing products](/en/docs/tutorials/adding-or-editing-products).
+4. Fill in the other fields required to create the product. Learn more in [Adding or editing products](/en/docs/tutorials/adding-or-editing-products).
 5. Click `Save`.
 6. Click the `SKUs` tab.
 7. Click `+` **> Add new SKU**.
@@ -43,7 +43,7 @@ To make a product available on presale, follow the steps below:
 
   > ℹ️ For this configuration, you need to consider both the item release date and the estimated delivery time: `final delivery time = delivery SLA + supply batch delivery time frame`.
 
-9. Fill in the fields required to create the SKU. Know more in [Adding or editing SKUs](/en/docs/tutorials/adding-or-editing-skus).
+9. Fill in the fields required to create the SKU. Learn more in [Adding or editing SKUs](/en/docs/tutorials/adding-or-editing-skus).
 10. Click `Save`.
 
 > ⚠️ Presale items must only be invoiced on or after the launch date, when the product becomes available in inventory.
@@ -54,4 +54,4 @@ To schedule your store's fixed prices for the presale of a product, follow the s
 
 ## Scheduling content
 
-To increase success in the pre-sales stage and achieve greater customer reach, it is important to enhance the promotion of the product that will be launched. For this purpose, it’s worth to schedule content about the release date, as explained in the article [Scheduling features for special events](/en/docs/tutorials/scheduling-features-for-special-events#scheduling-content).
+To increase success in the pre-sales stage and achieve greater customer reach, it is important to enhance the promotion of the product that will be launched. For this purpose, it’s worth scheduling content about the release date, as explained in the article [Scheduling features for special events](/en/docs/tutorials/scheduling-features-for-special-events#scheduling-content).

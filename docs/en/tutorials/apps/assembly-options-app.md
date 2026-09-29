@@ -19,11 +19,11 @@ subcategoryId: 3xpuy7xGlzKKg6vxqiExZ2
 
 Product customization options are available at VTEX when using [Assembly Options](/en/docs/tutorials/assembly-options). This solution helps create [attachments](/en/docs/tutorials/what-is-an-attachment) for complex scenarios in which you need to manage different product combinations, quantities, additional items and costs.
 
-As an alternative to implementing Assembly Options through Catalog attachments, the [Assembly Options app](https://apps.vtex.com/vtex-admin-assembly-options/p) provides an interface to configure and manage customization options in stores using [VTEX IO](https://developers.vtex.com/docs/guides/store-framework).
+As an alternative to implementing Assembly Options through Catalog attachments, the [Assembly Options app](https://developers.vtex.com/docs/apps/vtex.admin-assembly-options) provides an interface to configure and manage customization options in stores using [VTEX IO](https://developers.vtex.com/docs/guides/store-framework).
 
 ## Installation 
 
-You can install the app for free from the [VTEX App Store](https://apps.vtex.com/vtex-admin-assembly-options/p) or via [VTEX IO CLI](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference) by following the steps in the [Assembly Options guide for developers](https://developers.vtex.com/vtex-developer-docs/docs/assembly-options-app).
+You can install the app for free via [VTEX IO CLI](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference) by following the steps in the [Assembly Options guide for developers](https://developers.vtex.com/vtex-developer-docs/docs/assembly-options-app).
 
 > ⚠️ If you install the Assembly Options app in a [seller account](/en/docs/tutorials/what-is-a-seller), the product customization options will be displayed to your customers at checkout. If you want the options to be displayed in the product page, you need to install the app in a [marketplace account](/en/docs/tutorials/what-is-a-marketplace).
 

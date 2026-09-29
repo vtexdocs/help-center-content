@@ -1,5 +1,5 @@
 ---
-title: 'What is an Attachment?'
+title: 'Attachments'
 id: aGICk0RVbqKg6GYmQcWUm
 status: PUBLISHED
 createdAt: 2018-02-16T17:46:46.045Z
@@ -23,7 +23,7 @@ An attachment is the optional and cost-free customization of a product. It's use
 If your purchased item is a Brazilian National Team Shirt, the name of your Attachment may be __Customization__, and its keys:
 
 - Name: which allows the inclusion of the customer's name, with up to 20 characters, on the back of the shirt.
-- Number: which allows the inclusion of a number chosen by the client in the back of the shirt, among the values 5, 7, 9, 10 and 11.
+- Number: which allows the inclusion of a number chosen by the client on the back of the shirt, among the values 5, 7, 9, 10 and 11.
 
 ### Related articles
 - [Adding an attachment](/en/docs/tutorials/adding-an-attachment)

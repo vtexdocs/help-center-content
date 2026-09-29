@@ -80,7 +80,7 @@ The default behavior of the platform is for the franchise account to use the pay
 
 Once you have [changed this configuration](#configuring-payment-methods-specific-to-the-franchise-account), if you want to return to the default behavior, you must follow the steps below.
 
-1. Go to **Settings** in the **Order Management **module.
+1. Go to **Settings** in the **Order Management** module.
 2. Go to the **Affiliates** tab.
 3. Click on the affiliate that represents the main account, if there are any.
 4. Deselect the **Use my payment method** option.

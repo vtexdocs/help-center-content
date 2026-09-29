@@ -26,18 +26,18 @@ To configure a PWA in your store, go to **Store Settings > Storefront > Store** 
 1. Click the **PWA** tab.
 2. Set the **Theme color**, **Background color** and add the **Android logo icon (512x512, PNG)** and **iOS logo icon (512x512, PNG)**. The colors must be specified in hexadecimal code (e.g., #F71963), and the icons must have a size of 512x512 px and a `.png` extension.
 
-  ![pwa-settings-1-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/store-settings---storefront/configuring-pwa-in-your-store-framework-store_1.png)
+  ![pwa-settings-1-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-for-store-framework/store-settings---storefront/configuring-pwa-in-your-store-framework-store_1.png)
 
 3. Scroll down and go to the **Other PWA settings** field. Click the arrow to show the other settings.
 
-  ![pwa-settings-2-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/store-settings---storefront/configuring-pwa-in-your-store-framework-store_2.png)
+  ![pwa-settings-2-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-for-store-framework/store-settings---storefront/configuring-pwa-in-your-store-framework-store_2.png)
 
 4. In **Other PWA settings**, complete the fields as indicated below:
 
     - **Start URL**: URL of the PWA homepage.
     - **Screen orientation**: Format in which the content is displayed in the PWA. One of the following values can be assigned: Any, Natural, Landscape, Landscape (primary), Landscape (secondary), Portrait, Portrait (primary), Portrait (secondary).
 
-    | **Screen Orientation**  | **Description** |
+    | Screen Orientation  | Description |
     |--------------------------|-----------------|
     | Any                      | The page can be viewed in any orientation, and the content automatically adjusts to fit the device's current orientation. |
     | Natural                  | Factory default configuration of the device. |
@@ -50,7 +50,7 @@ To configure a PWA in your store, go to **Store Settings > Storefront > Store** 
 
     - **Display**: PWA content display modes. One of the following values can be assigned: Full screen, Standalone (Add to Home Screen), Minimal-UI (not supported by Chrome), and Browser.
 
-    | **Display**              | **Description** |
+    | Display              | Description |
     |--------------------------|-----------------|
     | Full Screen              | PWA fills the entire screen of the device, hiding all elements of the browser's user interface, such as the address bar and other system notifications. It is ideal for games or apps that require a deep immersion, maximizing the available screen space. |
     | Standalone (Add to Home Screen) | The PWA behaves like a native app, running in a separate browser window and not displaying common browser elements such as the address bar. When added to the device's home screen, you can hardly tell the difference between a PWA and a native app. |
@@ -60,7 +60,7 @@ To configure a PWA in your store, go to **Store Settings > Storefront > Store** 
     - **Add to home screen**: When activated, it allows the user to install the PWA.
     - **"Add to home screen" prompt**: Defines the moment when the PWA installation will be recommended to the user. One of the following values can be assigned: On the first visit, On the first item added to the cart, or On the first order. This option only applies when **Add to Home Screen** is activated.
 
-   ![pwa-settings-3-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/store-settings---storefront/configuring-pwa-in-your-store-framework-store_3.png)
+   ![pwa-settings-3-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-for-store-framework/store-settings---storefront/configuring-pwa-in-your-store-framework-store_3.png)
 
 5. Save changes by clicking `SAVE`.
 

@@ -1,23 +1,17 @@
 ---
 title: 'VTEX Pick and Pack Mobile'
-id: 3i1K01CQlDBFYYp42WFOet
-status: PUBLISHED
 createdAt: 2024-04-04T20:42:46.548Z
-updatedAt: 2025-10-01T19:33:57.065Z
-publishedAt: 2025-10-01T19:33:57.065Z
-firstPublishedAt: 2024-04-06T01:59:46.300Z
+updatedAt: 2026-08-13T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: vtex-pick-and-pack-mobile
-legacySlug: vtex-pick-and-pack-mobile
 locale: pt
-subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
+hidden: false
 ---
 
-> ℹ️ Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o [Suporte Comercial](/pt/docs/tracks/suporte-comercial). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/pt-br/contato/).
+> ℹ️ Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o [Suporte Comercial](/pt/docs/tracks/suporte-comercial). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://www.vtex.com/pt-br/comece-agora/).
 
-O aplicativo móvel do [VTEX Pick and Pack](/pt/docs/tutorials/vtex-pick-and-pack-fulfillment) auxilia o separador - profissional responsável por selecionar e empacotar itens na instalação - no manuseio de pedidos, abrangendo desde a separação dos itens até o envio. Assim, o fluxo de separação e entrega dos pedidos da loja torna-se mais organizado e fluido.
+O aplicativo móvel do [VTEX Pick and Pack](/pt/docs/tutorials/vtex-pick-and-pack) auxilia o separador - profissional responsável por selecionar e empacotar itens na instalação - no manuseio de pedidos, abrangendo desde a separação dos itens até o envio. Assim, o fluxo de separação e entrega dos pedidos da loja torna-se mais organizado e fluido.
 
 ![pickpack-mobile-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-mobile_1.png)
 
@@ -36,10 +30,10 @@ Para acessar o menu, clique no ícone <i class="fas fa-grip-lines"></i> no topo 
 ![pickpack-menu-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-mobile_2.png)
 
 - <i class="fas fa-house"></i> **Resumo**: botão que direciona para a tela de início do aplicativo.
-- <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-mobile_12.png" alt="pickpack-logout" width="30" height="30">: botão para realizar o logout do aplicativo.
+- <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-mobile_12.png" alt="pickpack-logout" width="30" height="30" />: botão para realizar o logout do aplicativo.
 - <i class="fas fa-history"></i> **Histórico**: botão que direciona para o histórico de [ordens de serviço](#ordens-de-servico) concluídas.
 - <i class="fas fa-globe"></i> **Idioma**: botão para mudar o idioma do aplicativo.
-- __Alterar para__ <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-mobile_13.png" alt="pickpack-logout" width="35" height="30">: botão para mudar a instalação que será realizada a separação dos pedidos.
+- __Alterar para__ <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-mobile_13.png" alt="pickpack-logout" width="35" height="30" />: botão para mudar a instalação que será realizada a separação dos pedidos.
 - **Pendentes**: botão que direciona para a tela de [ordens de serviço pendentes](#ordens-de-servico-pendentes).
 - **Para empacotar**: botão que direciona para a tela de ordens de serviço que aguardam o [empacotamento](#empacotamento).
 - <i class="fas fa-bell"></i>: área de notificação das últimas alterações nas [ordens de serviço](#ordens-de-servico).
@@ -86,7 +80,7 @@ Para criar uma ordem de serviço, siga os passos abaixo:
 3. Selecione as caixas de seleção dos pedidos que deseja incluir na ordem de serviço. Para criar uma ordem de serviço com todos os pedidos, clique em  `Selecionar tudo`.
 4. Clique em `Iniciar separação`.
 
-Para pesquisar por um pedido, digite o ID do pedido na barra de busca. Para filtrar a lista de pedidos, clique em <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-mobile_14.png" alt="pickpack-filter" width="30" height="30"> e selecione uma ou mais das seguintes opções:
+Para pesquisar por um pedido, digite o ID do pedido na barra de busca. Para filtrar a lista de pedidos, clique em <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-mobile_14.png" alt="pickpack-filter" width="30" height="30" /> e selecione uma ou mais das seguintes opções:
 
 * Data de entrega
 * [Categorias de produto](/pt/docs/tutorials/o-que-e-uma-categoria)

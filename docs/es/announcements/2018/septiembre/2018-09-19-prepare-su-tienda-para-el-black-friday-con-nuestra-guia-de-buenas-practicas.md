@@ -19,6 +19,6 @@ El __Black Friday__ ya está llegando. La fecha oficial este año es __23 de nov
 
 Como hacemos todos los años, hemos creado una guía con recomendaciones y consejos exclusivos para garantizar la salud de su tienda y el éxito de sus ventas. 
 
-Disponible para clientes y socios VTEX, usted puede acceder a la guía por la homepage del Admin o directamente por la URL `https://{AccountName}.myvtex.com/admin/blackfriday`. Sólo hay que sustituir `{AccountName}` por el Account Name de su tienda.
+Disponible para clientes y socios VTEX, usted puede acceder a la guía por la homepage del Admin o directamente por la URL `https://{accountName}.myvtex.com/admin/blackfriday`. Sólo hay que sustituir `{accountName}` por el Account Name de su tienda.
 
 ![Announcement Cartilha BF - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2018/septiembre/2018-09-19-prepare-su-tienda-para-el-black-friday-con-nuestra-guia-de-buenas-practicas_1.png)

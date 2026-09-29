@@ -33,7 +33,7 @@ Após configurar a integração com a B2W, o envio de produtos para o marketplac
 
 As informações da sua loja VTEX enviadas para o marketplace são sobre produtos, estoque e preços. Os campos enviados para produtos e SKUs são os seguintes:
 
-| **Produto** |
+| Produto |
 | ---------- |
 | Nome |   
 | Descrição |    
@@ -41,7 +41,7 @@ As informações da sua loja VTEX enviadas para o marketplace são sobre produto
 | Categoria |
 | [Especificações](/pt/docs/tracks/especificacoes-definicao-de-conceito#especificacao-de-produto) |
 
-| **SKU** |
+| SKU |
 | ---------- |
 | EAN |   
 | Peso |   
@@ -92,7 +92,7 @@ Não é possível enviar preços diferenciados em função da forma de pagamento
 
 As únicas promoções aceitas na B2W são as que podem ser calculadas na [simulação de fulfillment](https://developers.vtex.com/vtex-rest-api/reference/fulfillment-simulation). No caso, as seguintes condições podem ser aplicadas:
 
-| **Tipo de desconto** |
+| Tipo de desconto |
 | ---------- |
 | Percentual |
 | Nominal |
@@ -101,14 +101,14 @@ As únicas promoções aceitas na B2W são as que podem ser calculadas na [simul
 | Frete Máximo |
 | Frete Grátis |
 
-| **Itens** |
+| Itens |
 | ---------- |
 | Categorias |
 | Marcas |
 | Coleções |
 | Produtos |
 
-| **Condições** |
+| Condições |
 | ---------- |
 | Valor mín/máximo do pedido |
 | Valor mín/máximo do item |
@@ -131,7 +131,7 @@ Nesta seção, serão abordados os seguintes tópicos:
 
 Os pedidos na SkyHub possuem status próprios, conforme a tabela a seguir. Para saber mais sobre os status de pedidos na VTEX, veja [Fluxo de pedido em Gerenciamento de pedidos](/pt/tutorial/fluxo-de-pedido).
 
-| **Status na VTEX** | **Status na SkyHub** | **Descrição do status na SkyHub** |
+| Status na VTEX | Status na SkyHub | Descrição do status na SkyHub |
 | ---------- | ---------- | ---------- |
 | Aguardando autorização para despachar| _New_ | Novo pedido com pagamento ainda não aprovado|
 | Carência para cancelamento / Pronto para manuseio / Preparando entrega | _Approved_ | Pedido aprovado |

@@ -24,7 +24,7 @@ Follow the steps below to configure a [merchandising rule](/en/docs/tutorials/me
    * **Rule name**: Name of the merchandising rule. Example: Promote product A when searching for a chocolate cookie.
    * **Start date (optional)**: Set a date from which the merchandising rule will apply. The date follows the UTC-0 time zone.
    * **End date (optional)**: Set a date on which the merchandising rule will no longer apply to store searches. The date follows the UTC-0 time zone.
-   * **Apply to locales:** Languages to which the merchandising rule will apply. The field is only available for stores using [Multilanguage settings (Beta)](/en/docs/tutorials/vtex-intelligent-search-multilanguage-settings-beta).
+   * **Apply to locales:** Languages to which the merchandising rule will apply. The field is only available for stores using [Multilanguage settings](/en/docs/tutorials/vtex-intelligent-search-multilanguage-settings).
 5. Click on **Manual editor**. For more information on each editor, see [Types of editing](/en/docs/tutorials/merchandising-rules#types-of-editing).
 6. Click `Next`.
 7. If necessary, you can change what you have already filled in about the new merchandising rule in the [General Information](#general-information) section.

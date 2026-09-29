@@ -31,7 +31,7 @@ Store Framework is a solution for building storefronts that leverages VTEX IO. U
 
 Stores created with Store Framework also include: 
 - **[Intelligent Search](/en/docs/tracks/overview-intelligent-search)**: Search tool that corrects spelling errors and enables conditional rules for displaying the search result.
-- **[Multi-language](/en/docs/tutorials/vtex-intelligent-search-multilanguage-settings-beta)**: VTEX IO enables the configuration of automatic translation into other languages in the store.
+- **[Multi-language](/en/docs/tutorials/vtex-intelligent-search-multilanguage-settings)**: VTEX IO enables the configuration of automatic translation into other languages in the store.
 - **[Cross-border](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-cross-border-stores)**: Allows a [VTEX multi-store](/en/docs/tutorials/customer-and-address-forms-do-not-exist-in-multistores) to operate in different countries with an approach specific to each of them.
 
 ## FastStore
@@ -40,13 +40,13 @@ While Store Framework focuses on composability, FastStore was built with a perfo
 
 The intention is to leverage the Jamstack architecture to deliver storefronts quickly, securely, and reliably. In addition, it comes with many tools and features designed for this purpose, including WebOps pipelines and performance-optimized starter packs.
 
-In this way, FastStore can integrate with any CMS and any development platform, but to benefit from the guarantees and support provided by VTEX, the FastStore, Webops, and Headless CMS is required.
+In this way, FastStore can integrate with any CMS and any development platform, but to benefit from the guarantees and support provided by VTEX, the FastStore, Webops, and Headless CMS (Legacy) is required.
 
 Some features are not available, such as My Account customizations and full integration with IO apps and Intelligent Search.
 
 ## CMS Portal (Legacy)
 
-The CMS Portal is a legacy VTEX technology mainly responsible for managing the website's source code, which is the module containing the content displayed in the store. 
+The CMS Portal (Legacy) is a legacy VTEX technology mainly responsible for managing the website's source code, which is the module containing the content displayed in the store. 
 
 For the Legacy CMS, an important concept is Controls, which are snippets of code that render native VTEX data. Controls help the retailer natively create content and embed tools on the site using what VTEX already offers. For this customization to happen, CSS, HTML, and JavaScript are used in the development, allowing you to create layouts and templates.
 

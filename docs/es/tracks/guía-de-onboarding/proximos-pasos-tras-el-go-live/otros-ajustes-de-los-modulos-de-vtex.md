@@ -3,7 +3,7 @@ title: 'Otros ajustes de los módulos de VTEX'
 id: V1fs7IkfYMfn91ZVHTLu4
 status: PUBLISHED
 createdAt: 2024-02-20T20:25:49.450Z
-updatedAt: 2024-07-30T16:23:50.641Z
+updatedAt: 2026-07-22T00:00:00.000Z
 publishedAt: 2024-07-30T16:23:50.641Z
 firstPublishedAt: 2024-02-22T14:09:20.283Z
 contentType: trackArticle
@@ -12,14 +12,14 @@ slugEN: other-vtex-module-settings
 locale: es
 trackId: 3J7WFZyvTcoiwkcIVFVhIS
 trackSlugEN: proximos-pasos-tras-el-go-live
-order: 3
+order: 4
 ---
 
 En la **Serie general de la tienda VTEX**, los artículos [Módulos de VTEX I](/es/docs/tracks/modulos-de-vtex-i) y [Módulos de VTEX II](/es/docs/tracks/modulos-de-vtex-ii) detallan los ajustes principales de cada módulo. El presente artículo explica otros ajustes de los módulos que no son requisito para el [go-live](/es/docs/tracks/planificacion-del-go-live).
 
 ## Promociones
 
-Luego de configurar los ajustes obligatorios de [Promociones](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#promocoes), también es importante familiarizarse con los [clústeres de clientes](#clusteres-de-clientes), la [competencia de promociones](#competencia-de-promociones) y las [promociones para marketplaces](#promociones-para-marketplaces) según describe a continuación.
+Luego de configurar los ajustes obligatorios de [Promociones](/es/docs/tracks/modulos-de-vtex-i#promociones), también es importante familiarizarse con los [clústeres de clientes](#clusteres-de-clientes), la [competencia de promociones](#competencia-de-promociones) y las [promociones para marketplaces](#promociones-para-marketplaces) según describe a continuación.
 
 ### Clústeres de clientes
 
@@ -44,7 +44,7 @@ Para más información, consulta [Configurar promoción para marketplace](/es/do
 
 ## Logística
 
-Después de configurar los ajustes obligatorios de [Logística](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistc), las cuentas VTEX que tienen una arquitectura [multitienda o multidominio](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multiloja) pueden iniciar una estrategia de ventas para otros países para convertirse en una [tienda internacional (cross-border)](/es/docs/tracks/tiendas-transfronterizas-cross-border). Algunas de las principales ventajas de este tipo de operación son:
+Después de configurar los ajustes obligatorios de [Logística](/es/docs/tracks/modulos-de-vtex-i#logistica), las cuentas VTEX que tienen una arquitectura [multitienda o multidominio](/es/docs/tracks/cuentas-y-arquitectura) pueden iniciar una estrategia de ventas para otros países para convertirse en una [tienda internacional (cross-border)](/es/docs/tracks/tiendas-transfronterizas-cross-border). Algunas de las principales ventajas de este tipo de operación son:
 
 - **Optimización de la capacidad logística total:** la acumulación de experiencia sobre procesos logísticos complejos (importación y exportación) permite la gestión más eficiente de toda la cadena logística (nacional e internacional).
 - **Expansión del negocio:** apertura de nuevos públicos que aumentan el potencial de ventas de las tiendas.
@@ -68,7 +68,7 @@ Para más información sobre cómo empezar una operación cross-border, ponte en
 
 ## Pedidos
 
-Después de configurar los ajustes obligatorios de [Pedidos](/es/tracks/serie-de-la-tienda-vtex-eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#pedidos), la tienda puede expandir las ventas por medio de [suscripciones](#suscripciones) de pedidos recurrentes y optimizar la gestión de los pedidos en el Admin VTEX con [VTEX DO](#vtex-do).
+Después de configurar los ajustes obligatorios de [Pedidos](/es/docs/tracks/modulos-de-vtex-ii#pedidos), la tienda puede expandir las ventas por medio de [suscripciones](#suscripciones) de pedidos recurrentes y optimizar la gestión de los pedidos en el Admin VTEX con [VTEX DO](#vtex-do).
 
 ### Suscripciones
 
@@ -82,13 +82,13 @@ Se puede configurar la programación de compras recurrentes en el [sistema de Su
 
 - Acceso a detalles e información para completar cada tarea.
 
-- Asignación de [usuario](/es/docs/tutorials/gestionar-usuarios-administrativos) encargado de la tarea.
+- Asignación de [usuario](/es/docs/tutorials/gestionar-usuarios-administradores) encargado de la tarea.
 
 ![vtex-do-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/guía-de-onboarding/proximos-pasos-tras-el-go-live/otros-ajustes-de-los-modulos-de-vtex_1.JPG)
 
 ### VTEX Social Selling
 
-[VTEX Social Selling](/es/docs/tutorials/como-activar-la-app-carrito-compartido) les permite a los vendedores seleccionar productos y compartirlos con los clientes a través de canales de comunicación como WhatsApp, Facebook Messenger e email. Esta funcionalidad se puede utilizar tanto en la tienda online como en operaciones de tiendas físicas ([VTEX Sales App](/es/tracks/proximos-pasos-tras-el-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm#vtex-sales-app).
+[VTEX Social Selling](/es/docs/tutorials/como-activar-la-app-carrito-compartido) les permite a los vendedores seleccionar productos y compartirlos con los clientes a través de canales de comunicación como WhatsApp, Facebook Messenger e email. Esta funcionalidad se puede utilizar tanto en la tienda online como en operaciones de tiendas físicas ([VTEX Sales App](/es/docs/tracks/vtex-sales-app-primeros-pasos-y-configuracion)).
 
 ## B2B Suite 
 [B2B Suite](/es/docs/tutorials/b2b-suite-vision-general) es un conjunto de [aplicaciones VTEX IO](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-io) que permite a las tiendas gestionar organizaciones, permisos de acceso y configuraciones de checkout para relaciones comerciales B2B, entre otras funciones. Estos recursos son importantes para simplificar el flujo de compra, reducir costos y ofrecer una experiencia de compra personalizada.

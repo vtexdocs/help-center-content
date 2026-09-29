@@ -27,7 +27,7 @@ To regionalize SKU prices and availability, it is necessary:
 
 > ⚠️ In case of [Multilevel Omnichannel Inventory](/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4#), a marketplace (level 1) cannot configure the display of prices and availability of White Label Seller products (level 3) with the regionalization feature.
 
-> ℹ️ The feature **Region** works for both CMS Portal Legacy stores and stores developed using [VTEX IO](/en/docs/tracks/what-is-the-cms), but the feature [VTEX Intelligent Search](/en/docs/tracks/overview-intelligent-search) is available only for stores using VTEX IO. As a result, stores with CMS Portal Legacy have a limitation in indexing regionalized data, and it is not possible to correctly order the sellers that serve the storefront of a RegionId based on the availability of items.
+> ℹ️ The feature **Region** works for both CMS Portal (Legacy) stores and stores developed using [VTEX IO](/en/docs/tracks/what-is-the-cms), but the feature [VTEX Intelligent Search](/en/docs/tracks/overview-intelligent-search) is available only for stores using VTEX IO. As a result, stores with CMS Portal (Legacy) have a limitation in indexing regionalized data, and it is not possible to correctly order the sellers that serve the storefront of a RegionId based on the availability of items.
 
 ## Setting up delivery in Franchise Account/White Label Seller
 

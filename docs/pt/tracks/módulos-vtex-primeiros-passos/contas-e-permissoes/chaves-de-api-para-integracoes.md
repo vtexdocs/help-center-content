@@ -22,14 +22,14 @@ Chaves de API são credenciais que permitem sistemas externos acessarem as APIs 
 - **API Key**: identificador público da chave.
 - **API Token**: senha secreta (exibida apenas uma vez na criação).
 
-As chaves precisam estar ativas e ter [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) associados que determinam quais recursos podem acessar.
+As chaves precisam estar ativas e ter [perfis de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) associados que determinam quais recursos podem acessar.
 
 ## Tipos de chaves
 
 | Tipo | Descrição | Casos de uso | Documentação |
 |------|-----------|--------------|--------------|
-| **Chaves internas (geradas)** | Criadas no Admin VTEX. Você tem controle total para criar, editar perfis, renovar e revogar. | Integrações com ERP, automações internas, scripts customizados | [Chaves geradas](/pt/docs/tutorials/chaves-geradas) |
-| **Chaves externas (terceiros)** | Criadas por parceiros/apps. Você controla apenas os perfis de acesso na sua conta. | Apps da VTEX App Store, integrações com parceiros certificados | [Chaves externas](/pt/docs/tutorials/chaves-externas) |
+| **Chaves internas (geradas)** | Criadas no Admin VTEX. Você tem controle total para criar, editar perfis, renovar e revogar. | Integrações com ERP, automações internas, scripts customizados | [Chaves geradas](https://help.vtex.com/pt/docs/tutorials/chaves-geradas) |
+| **Chaves externas (terceiros)** | Criadas por parceiros/apps. Você controla apenas os perfis de acesso na sua conta. | Apps da VTEX App Store, integrações com parceiros certificados | [Chaves externas](https://help.vtex.com/pt/docs/tutorials/chaves-externas) |
 
 ## Gerenciar chaves de API
 
@@ -45,7 +45,7 @@ As chaves precisam estar ativas e ter [perfis de acesso](/pt/docs/tutorials/perf
 - Excluir chaves
 - Exportar lista para auditoria
 
-> ℹ️ Saiba mais em [Chaves de API](/pt/docs/tutorials/chaves-de-api).
+> ℹ️ Saiba mais em [Chaves de API](https://help.vtex.com/pt/docs/tutorials/chaves-de-api).
 
 ## Princípio do menor privilégio
 
@@ -55,13 +55,13 @@ Associe apenas os perfis estritamente necessários. Exemplos:
 
 ## Renovação e alertas
 
-Renove tokens periodicamente (3-6 meses para chaves críticas). Configure [alertas automáticos](/pt/docs/tutorials/configurar-alerta-para-renovar-tokens-de-api) para não esquecer.
+Renove tokens periodicamente (3-6 meses para chaves críticas). Configure [alertas automáticos](https://help.vtex.com/pt/docs/tutorials/configurar-alerta-para-renovar-tokens-de-api) para não esquecer.
 
 > ⚠️ O token de API é exibido apenas uma vez na criação. Armazene com segurança.
 
 ## Requisitos de permissão
 
-Perfil [User Administrator - RESTRICTED](/pt/docs/tutorials/perfis-de-acesso-predefinidos#user-administrator-restricted) ou perfil customizado com recursos:
+Perfil [User Administrator - RESTRICTED](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#user-administrator-restricted) ou perfil customizado com recursos:
 - View API Keys
 - Edit API Keys  
 - Renew API Token
@@ -78,17 +78,17 @@ Perfil [User Administrator - RESTRICTED](/pt/docs/tutorials/perfis-de-acesso-pre
 - Nunca use código client-side para integrações
 - Não compartilhe tokens por email, chat ou tickets
 
-> ℹ️ Saiba mais em [Boas práticas para chaves de API](/pt/docs/tutorials/boas-praticas-chaves-de-api).
+> ℹ️ Saiba mais em [Boas práticas para chaves de API](https://help.vtex.com/pt/docs/tutorials/boas-praticas-chaves-de-api).
 
 ## Saiba mais
 
-- [Chaves de API](/pt/docs/tutorials/chaves-de-api)
-- [Boas práticas para chaves de API](/pt/docs/tutorials/boas-praticas-chaves-de-api)
-- [Chaves geradas](/pt/docs/tutorials/chaves-geradas)
-- [Chaves externas](/pt/docs/tutorials/chaves-externas)
-- [Renovar token de API](/pt/docs/tutorials/renovar-token-de-api)
-- [Configurar alerta para renovar tokens de API](/pt/docs/tutorials/configurar-alerta-para-renovar-tokens-de-api)
-- [Exportar chaves de API](/pt/docs/tutorials/exportar-chaves-de-api)
-- [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso)
-- [Recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager)
+- [Chaves de API](https://help.vtex.com/pt/docs/tutorials/chaves-de-api)
+- [Boas práticas para chaves de API](https://help.vtex.com/pt/docs/tutorials/boas-praticas-chaves-de-api)
+- [Chaves geradas](https://help.vtex.com/pt/docs/tutorials/chaves-geradas)
+- [Chaves externas](https://help.vtex.com/pt/docs/tutorials/chaves-externas)
+- [Renovar token de API](https://help.vtex.com/pt/docs/tutorials/renovar-token-de-api)
+- [Configurar alerta para renovar tokens de API](https://help.vtex.com/pt/docs/tutorials/configurar-alerta-para-renovar-tokens-de-api)
+- [Exportar chaves de API](https://help.vtex.com/pt/docs/tutorials/exportar-chaves-de-api)
+- [Perfis de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso)
+- [Recursos do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager)
 - [API authentication using application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) (para desenvolvedores)

@@ -46,8 +46,8 @@ Para que a modalidade **Envios Flex** funcione corretamente, o vendedor deve seg
 
 1. Criar um [campo personalizado](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto) no módulo [Categorias](/pt/docs/tracks/categorias-definicao-de-conceito), para cada categoria que o vendedor deseja aplicar o **Envio Flex**.  O campo deve ser criado com as seguintes especificações:  
 
-| **Tipo do campo** | **Nome do campo** |**Valor do campo**|
-|:---:|:---:|:---:|
+| Tipo do campo | Nome do campo |Valor do campo|
+|---|---|---|
 | CheckBox | Flex |Ativar|
 
 > ❗ O **tipo** e o **nome** devem ser exatamente como apresentado na tabela acima, caso contrário o modelo de envio não funcionará. 
@@ -69,8 +69,8 @@ O **Envios Turbo** é uma extensão do **Envios Flex,** portanto esta modalidade
 
 O **Envios Turbo** só é aplicável a produtos com as seguintes características:
 
-| **Altura** | **Largura** |**Comprimento**|**Peso**|
-|:---:|:---:|:---:|:---:|
+| Altura | Largura |Comprimento|Peso|
+|---|---|---|---|
 | 70 centímetros | 70 centímetros |70 centímetros|30 quilos|
 
 ### Configurar Envios Turbo

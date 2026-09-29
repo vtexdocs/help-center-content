@@ -26,6 +26,6 @@ Para ver qué errores de integración de _stock_ son más frecuentes en un deter
 - Carrefour (sólo Brasil)
 - Netshoes (sólo Brasil)
 
-| **SEPA MÁS** |
+| SEPA MÁS |
 | ---------- |
 |Si desea más información sobre _marketplaces_ y oportunidades de crecimiento, consulte el artículo [Estrategias de marketplace en VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex).|

@@ -42,7 +42,7 @@ En esas llamadas HTTP se encuadran: referencias a imágenes, archivos CSS, JS y 
 - También es posible usar el protocolo relativo, de modo que siga el mismo en el que es accedida la página: `<script src=“//www.site.com/arquivos/funcao.js”></script>`
 - Para archivos hospedados en VTEX siempre debe usarse el siguiente formato, que es relativo al protocolo y al dominio accedido: `<script src=“/arquivos/funcao.js”></script>`
 
-**Atención:** para llamar rutas externas a VTEX, verifique antes si el destino soporta HTTPS.
+> Para llamar rutas externas a VTEX, verifique antes si el destino soporta HTTPS.
 
 ## Verificar si el sitio funciona en HTTPS
 
@@ -58,7 +58,7 @@ Todas las páginas del sitio deben modificarse individualmente conforme al artí
 
 Es posible cambiar el protocolo en todas las carpetas de una sola vez con el uso de nuestra API, documentada [en esta colección de Postman](https://developers.vtex.com/docs/api-reference/legacy-cms-portal-api).
 
-> ⚠️ **Atención:** evite tener el protocolo HTTPS activado sólo en algunas páginas. Al acceder a una página HTTPS, luego ir a una página HTTP de la misma tienda, el navegador intentará leer sus recursos forzosamente en HTTPS, y esto puede generar problemas. Lo adecuado es activar el HTTPS en todo el sitio de una sola vez. Lo mismo vale para los sitios de desktop y mobile (website secundario), donde es necesario tratar el HTTPS de ambos al mismo tiempo.
+> ⚠️ Evite tener el protocolo HTTPS activado sólo en algunas páginas. Al acceder a una página HTTPS, luego ir a una página HTTP de la misma tienda, el navegador intentará leer sus recursos forzosamente en HTTPS, y esto puede generar problemas. Lo adecuado es activar el HTTPS en todo el sitio de una sola vez. Lo mismo vale para los sitios de desktop y mobile (website secundario), donde es necesario tratar el HTTPS de ambos al mismo tiempo.
 
 ## Limitaciones
 

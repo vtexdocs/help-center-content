@@ -25,7 +25,7 @@ The menu structure has also been reorganized. Items are now grouped into two mai
 
 Other sections have also changed name and position in the menu. The table below shows the previous tool name, the new name, and where you can find it:
 
-| **Old name**                         | **New name**          | **Location**          |
+| Old name                         | New name          | Location          |
 | ------------------------------------ | --------------------- | --------------------- |
 | Insights                             | **Analytics**         | Homepage              |
 | Agents                               | **My agents**         | Agent Builder section |

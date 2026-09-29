@@ -26,6 +26,6 @@ To see which inventory integration errors are most common in a given marketplace
 - Carrefour (Brazil only)
 - Netshoes (Brazil only)
 
-| **LEARN MORE** |
+| LEARN MORE |
 | ---------- |
 |For more information on marketplaces and growth opportunities, check out the article [Marketplace strategies at VTEX](/en/docs/tutorials/marketplace-strategies-at-vtex).|

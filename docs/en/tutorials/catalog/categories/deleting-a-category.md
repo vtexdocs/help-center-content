@@ -31,7 +31,7 @@ If you do not want to display a specific category to your customers, you can dea
 
 ## Deleting all categories
 
-Another option is to [empty the catalog](/en/docs/tutorials/database-maintenance-full-cleanup) and delete all categories, brands, and specifications simultaneously. To do that, you must delete products and SKUs before, as described in the steps below:
+Another option is to [empty the catalog](/en/docs/tutorials/database-maintenance-full-cleanup) and delete all categories, brands, and specifications simultaneously. To do that, you must delete products and SKUs beforehand, as described in the steps below:
 
 1. Type the URL below into your browser: `{accountName}.myvtex.com/admin/Site/fullcleanup.aspx`
 2. Click on `Delete Products and SKUs`. Warning: your products, SKUs, and related items will be permanently removed from your store.
