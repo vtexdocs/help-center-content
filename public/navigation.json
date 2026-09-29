@@ -32725,6 +32725,21 @@
                 },
                 {
                   "name": {
+                    "en": "Custom storefront roles and permissions",
+                    "es": "Roles y permisos de storefront personalizados",
+                    "pt": "Perfis de acesso e permissões de storefront personalizados"
+                  },
+                  "slug": {
+                    "en": "custom-storefront-roles-and-permissions-overview",
+                    "es": "roles-y-permisos-de-storefront-personalizados",
+                    "pt": "perfis-de-acesso-e-permissoes-de-storefront-personalizados"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Login for B2B stores",
                     "es": "Login para tiendas B2B",
                     "pt": "Login em lojas B2B"
@@ -32733,6 +32748,21 @@
                     "en": "login-for-b2b-stores",
                     "es": "login-para-tiendas-b2b",
                     "pt": "login-em-lojas-b2b"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Managing custom storefront roles and permissions",
+                    "es": "Gestionar roles y permisos de storefront personalizados",
+                    "pt": "Gerenciar perfis de acesso e permissões de storefront personalizados"
+                  },
+                  "slug": {
+                    "en": "manage-custom-storefront-roles-and-permissions",
+                    "es": "gestionar-roles-y-permisos-de-storefront-personalizados",
+                    "pt": "gerenciar-perfis-de-acesso-e-permissoes-de-storefront-personalizados"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -48686,6 +48716,21 @@
                 "en": "select-a-block-does-not-work-correctly-when-page-extensions-load-lazily-in-site-editor",
                 "es": "la-opcion-seleccionar-un-bloque-no-funciona-correctamente-cuando-las-extensiones-de-pagina-se-cargan-de-forma-diferida-en-el-editor-del-sitio",
                 "pt": "a-opcao-selecionar-um-bloco-nao-funciona-corretamente-quando-as-extensoes-de-pagina-sao-carregadas-de-forma-diferida-no-editor-do-site"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "\"View in Pages\" link in Planner Calendar opens a broken URL with literal",
+                "es": "El enlace \"Ver en páginas\" en el Calendario del planificador abre una URL rota con un error literal.",
+                "pt": "O link \"Ver em Páginas\" no Calendário do Planejador abre uma URL quebrada com um texto literal."
+              },
+              "slug": {
+                "en": "view-in-pages-link-in-planner-calendar-opens-a-broken-url-with-literal",
+                "es": "el-enlace-ver-en-paginas-en-el-calendario-del-planificador-abre-una-url-rota-con-un-error-literal",
+                "pt": "o-link-ver-em-paginas-no-calendario-do-planejador-abre-uma-url-quebrada-com-um-texto-literal"
               },
               "origin": "",
               "type": "markdown",
@@ -70224,6 +70269,21 @@
                 "en": "shopee-order-code-001-invalid-email",
                 "es": "shopee-codigo-de-pedido-001-correo-electronico-no-valido",
                 "pt": "shopee-codigo-do-pedido-001-email-invalido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Product Protection amount is added to the shipping total of integrated orders",
+                "es": "Shopee El importe de la protección del producto se añade al total del envío de los pedidos integrados.",
+                "pt": "Shopee O valor da Proteção do Produto é adicionado ao total do frete de pedidos integrados."
+              },
+              "slug": {
+                "en": "shopee-product-protection-amount-is-added-to-the-shipping-total-of-integrated-orders",
+                "es": "shopee-el-importe-de-la-proteccion-del-producto-se-anade-al-total-del-envio-de-los-pedidos-integrados",
+                "pt": "shopee-o-valor-da-protecao-do-produto-e-adicionado-ao-total-do-frete-de-pedidos-integrados"
               },
               "origin": "",
               "type": "markdown",
