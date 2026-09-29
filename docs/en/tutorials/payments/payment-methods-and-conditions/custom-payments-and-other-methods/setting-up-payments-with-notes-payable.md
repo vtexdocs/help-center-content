@@ -23,6 +23,8 @@ On VTEX, your store can receive payments made with Notes Payable. To enable this
 
 > ⚠️ The information in this article does not refer to the **Promissory** or **CardPromissory** payment conditions available in the Admin in **Store Settings > Payment > Settings > Payment Conditions**.
 
+> ⚠️ Stores using [**B2B Buyer Portal**](https://help.vtex.com/docs/tutorials/b2b-buyer-portal) need the note payable supported by this product. The configuration box in the Admin doesn't display the payment method number. The direct access URL is available in [Contract settings](https://help.vtex.com/en/docs/tutorials/contract-settings).
+
 ## Setting up a payment provider
 
 To set up a payment provider,  access [Register payment and anti-fraud providers](/en/docs/tutorials/registering-gateway-affiliations).
