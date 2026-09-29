@@ -1,20 +1,28 @@
 {
   "rows": [
     {
+      "product": "AI Workspace",
+      "category": "Settings",
+      "resource": "View Instructions",
+      "key": "ai_workspace.settings.view_instructions",
+      "resourceId": "2165644",
+      "productId": "134"
+    },
+    {
+      "product": "AI Workspace",
+      "category": "Settings",
+      "resource": "Edit Instructions",
+      "key": "ai_workspace.settings.edit_instructions",
+      "resourceId": "2165645",
+      "productId": "134"
+    },
+    {
       "product": "Audit",
       "category": "Product",
       "resource": "Export Job",
       "key": "ExportJob",
       "resourceId": "2124114",
       "productId": "55"
-    },
-    {
-      "product": "Availability Notify",
-      "category": "Notification Requests",
-      "resource": "Download Notification Requests",
-      "key": "downloadNotificationRequests",
-      "resourceId": "2156515",
-      "productId": "136"
     },
     {
       "product": "B2B",
@@ -158,6 +166,22 @@
       "resource": "Update boleto overdue date",
       "key": "boleto_overdue_date",
       "resourceId": "2102653",
+      "productId": "43"
+    },
+    {
+      "product": "Billing",
+      "category": "Credit",
+      "resource": "Edit Credit",
+      "key": "billing.credit.edit",
+      "resourceId": "2165313",
+      "productId": "43"
+    },
+    {
+      "product": "Billing",
+      "category": "Credit",
+      "resource": "Edit Credit Settings",
+      "key": "billing.credit.edit_settings",
+      "resourceId": "2165314",
       "productId": "43"
     },
     {
@@ -1638,6 +1662,30 @@
       "resource": "Process User Rights Removal Request",
       "key": "removal-request-process",
       "resourceId": "1705138",
+      "productId": "99"
+    },
+    {
+      "product": "User Rights",
+      "category": "User Rights",
+      "resource": "View User Rights Configuration",
+      "key": "user_rights_read_configuration",
+      "resourceId": "2163604",
+      "productId": "99"
+    },
+    {
+      "product": "User Rights",
+      "category": "User Rights",
+      "resource": "View Erasure Request",
+      "key": "user_rights_read_forget_job",
+      "resourceId": "2163605",
+      "productId": "99"
+    },
+    {
+      "product": "User Rights",
+      "category": "User Rights",
+      "resource": "Create Erasure Request",
+      "key": "user_rights_create_forget_job",
+      "resourceId": "2163606",
       "productId": "99"
     },
     {

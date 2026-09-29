@@ -20,6 +20,7 @@ This article covers the following topics:
   - [Editing an address](#editing-an-address)
   - [Deleting an address](#deleting-an-address)
 - [Managing payment methods](#managing-payment-methods)
+  - [Configuring the supported note payable](#configuring-the-supported-note-payable)
   - [Adding a payment method](#adding-a-payment-method)
   - [Removing a payment method](#removing-a-payment-method)
 - [Managing credit cards](#managing-credit-cards)
@@ -89,6 +90,20 @@ A **location** is a specific delivery point within an address, such as a loading
 ## Managing payment methods
 
 The **Payment methods** page lists the available payment methods for the organizational unit. The user can add payment methods from among the available options for the unit or remove existing ones.
+
+### Configuring the supported note payable
+
+When setting up payment methods in your store, there are different note payable options, distinguished by numeric codes.
+
+For payments with notes payable, the **B2B Buyer Portal** only supports the note payable of payment method `207`. Configure this note payable in the **Admin** before adding it to the contract's payment methods.
+
+To open the supported note payable, go to the URL `https://{accountName}.myvtex.com/admin/pci-gateway#/custom-payments/promissories/207`, replacing `{accountName}` with the store's [account name](https://help.vtex.com/en/docs/tutorials/what-is-an-account-name).
+
+Don't use the **Admin** notes payable search to find the supported note payable.
+
+The first search result may be a note payable that isn't supported by the **B2B Buyer Portal**.
+
+To complete the remaining note payable fields, see [Setting up payments with Notes Payable](https://help.vtex.com/en/docs/tutorials/setting-up-payments-with-notes-payable).
 
 ### Adding a payment method
 
