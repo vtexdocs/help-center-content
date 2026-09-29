@@ -17,27 +17,27 @@ order: 2
 
 ## Credenciais Posthaus
 
-O primeiro passo para integrar da sua loja VTEX à Posthaus é ter as credenciais **AppKey** e AppToken, ambas são utilizadas para validar sua integração com o Marketplace.  
+O primeiro passo para integrar a sua loja VTEX à Posthaus é ter as credenciais **AppKey** e **AppToken**. Ambas são utilizadas para validar sua integração com o Marketplace.
 
-> ❗ Para obter as suas credenciais e iniciar a integração, entre em contato por meio do time de [suporte da VTEX](https://supporticket.vtex.com/support). 
+> ❗ Para obter as suas credenciais e iniciar a integração, entre em contato com o [suporte da VTEX](https://supporticket.vtex.com/support). 
 
 Após solicitar as credenciais, o seller pode seguir com a [Deﬁnição da política comercial na Posthaus](#definicao-da-politica-comercial-na-posthaus) VTEX e configuração da [Regra de divergência](/pt/docs/tracks/configurar-regra-de-divergencia-de-valores-posthaus).  
 
-Durante o processo de conﬁguração na plataforma VTEX, tenha sempre em mãos as credenciais fornecidas pela Posthaus. O [AppKey e AppToken](https://developers.vtex.com/docs/guides/authentication) são imprescindíveis para a integração.  
+Durante o processo de configuração na plataforma VTEX, tenha sempre em mãos as credenciais fornecidas pela Posthaus. O [AppKey e AppToken](https://developers.vtex.com/docs/guides/authentication) são imprescindíveis para a integração.  
 
-## Deﬁnição da política comercial na Posthaus
+## Definição da política comercial na Posthaus
 
-Na VTEX, uma [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) é o que determina o sortimento de produtos, preços e estratégia de envio em um canal de venda. Ou seja, é por meio da política comercial que você deﬁne as conﬁgurações que serão aplicadas aos seus produtos na Posthaus.  
+Na VTEX, uma [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) é o que determina o sortimento de produtos, preços e estratégia de envio em um canal de venda. Ou seja, é por meio da política comercial que você define as configurações que serão aplicadas aos seus produtos na Posthaus.  
 
-Se as mesmas conﬁgurações de catálogo, preço e estratégia de envio da sua loja VTEX, forem utilizadas na Posthaus, não é preciso [criar uma política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) nova, porque uma mesma política comercial pode ser usada para diferentes canais de venda.  
+Se as mesmas configurações de catálogo, preço e estratégia de envio da sua loja VTEX forem utilizadas na Posthaus, não é preciso [criar uma política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) nova, porque uma mesma política comercial pode ser usada para diferentes canais de venda.
 
-Só será necessário [conﬁgurar uma política comercial para Marketplace](/pt/docs/tutorials/criar-uma-politica-comercial) específica, se você tiver algum dos seguintes objetivos:  
+Só será necessário [configurar uma política comercial para Marketplace](/pt/docs/tutorials/criar-uma-politica-comercial) específica, se você tiver algum dos seguintes objetivos:  
 
 - Oferecer na Posthaus uma seleção diferente de produtos.  
 - Disponibilizar uma quantidade de estoque diferente.  
 - Enviar preços diferentes para a Posthaus.  
 - Enviar promoções diferentes para a Posthaus.  
-- Conﬁgurar outras condições de pagamento.  
+- Configurar outras condições de pagamento.  
 - Deﬁnir uma [estratégia de envio](/pt/docs/tutorials/estrategia-de-envio) diferente.  
 
 Se precisar de uma política comercial exclusiva para a Posthaus, você pode [criá-la diretamente pelo Admin VTEX](/pt/docs/tutorials/criar-uma-politica-comercial), sem preencher formulários nem abrir chamados. Para saber mais sobre custos e condições, consulte [Contratação de política comercial adicional](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional). Em caso de dúvidas, abra um chamado para o [Suporte VTEX](https://supporticket.vtex.com/support) selecionando a opção **Comercial**.
