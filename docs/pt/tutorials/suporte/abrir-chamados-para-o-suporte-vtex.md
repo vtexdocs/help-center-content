@@ -3,7 +3,7 @@ title: 'Abrir chamados para o suporte VTEX'
 id: 16yOEqpO32UQYygSmMSSAM
 status: PUBLISHED
 createdAt: 2017-11-21T22:18:13.507Z
-updatedAt: 2025-09-25T13:49:36.309Z
+updatedAt: 2026-09-28T20:45:00.000Z
 publishedAt: 2025-09-25T13:49:36.309Z
 firstPublishedAt: 2017-11-22T02:37:19.330Z
 contentType: tutorial
@@ -115,7 +115,7 @@ Verifique sua caixa de entrada regularmente, incluindo a pasta de spam. Para con
 ## Suporte financeiro e comercial
 O suporte financeiro ajuda a solucionar problemas relacionados a contratos ou questões financeiras das lojas e da VTEX.
 
-O suporte comercial auxilia com solicitações sobre a política comercial, ambientes adicionais e sellers white label.
+O suporte comercial auxilia com solicitações sobre ambientes adicionais, sellers white label e troca de Master Admin.
 
 Para solicitar suporte financeiro ou comercial, siga os passos abaixo e forneça as informações necessárias.
 
@@ -162,12 +162,13 @@ Para solicitar esse tipo de suporte, siga os passos abaixo:
 4. Clique em `Enviar`.
 
 #### Comercial
-O suporte comercial auxilia o usuário em solicitações relacionadas à [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial),  [ambientes adicionais](/pt/docs/tutorials/contratar-novo-ambiente), [sellers white label](/pt/docs/tutorials/seller-white-label) ou à [alteração de usuário](/pt/docs/tutorials/gerenciar-usuarios-administrativos) com o perfil Sponsor user (Master Admin user).
+O suporte comercial auxilia o usuário em solicitações relacionadas a [ambientes adicionais](/pt/docs/tutorials/contratar-novo-ambiente), [sellers white label](/pt/docs/tutorials/seller-white-label) ou à [alteração de usuário](/pt/docs/tutorials/gerenciar-usuarios-administrativos) com o perfil Sponsor user (Master Admin user).
+
+> ℹ️ A criação de [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) não depende de um chamado: você pode criar uma política comercial diretamente pelo Admin VTEX. Saiba mais em [Criar uma política comercial](/pt/docs/tutorials/criar-uma-politica-comercial).
 
 Para solicitar esse tipo de suporte, siga os passos abaixo:
 
 1. No campo **Assunto da solicitação**, selecione a opção que melhor descreve o assunto da sua solicitação:
-   - *Criação de Política Comercial*
    - *Criação de Ambiente White Label*
    - *Criação de Ambiente Seller*
    - *Criação de Ambiente Adicional*

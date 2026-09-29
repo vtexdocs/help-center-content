@@ -3,7 +3,7 @@ title: 'Configurando a integração'
 id: 2TTDtf6ZityqXzfPfnvJ3e
 status: PUBLISHED
 createdAt: 2024-10-23T17:17:07.710Z
-updatedAt: 2025-05-28T14:34:26.994Z
+updatedAt: 2026-09-28T20:45:00.000Z
 publishedAt: 2025-05-28T14:34:26.994Z
 firstPublishedAt: 2024-10-23T19:01:15.353Z
 contentType: trackArticle
@@ -40,4 +40,4 @@ Só será necessário [conﬁgurar uma política comercial para Marketplace](/pt
 - Conﬁgurar outras condições de pagamento.  
 - Deﬁnir uma [estratégia de envio](/pt/docs/tutorials/estrategia-de-envio) diferente.  
 
-Para [contratar políticas comerciais adicionais](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional), preencha o [Formulário de liberação de Política Comercial](https://docs.google.com/forms/d/e/1FAIpQLSe9qCGB_KM_xsV5e9uNe06JE8tMZrWcv6EuHUOmqTiM8oRW7w/viewform). Em caso de dúvidas, entre em contato com o nosso time de Growth Operations em [Suporte](https://supporticket.vtex.com/support), selecionando a opção **Comercial** e o tipo de solicitação **Criação de Política Comercial**.  
+Se precisar de uma política comercial exclusiva para a Posthaus, você pode [criá-la diretamente pelo Admin VTEX](/pt/docs/tutorials/criar-uma-politica-comercial), sem preencher formulários nem abrir chamados. Para saber mais sobre custos e condições, consulte [Contratação de política comercial adicional](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional). Em caso de dúvidas, abra um chamado para o [Suporte VTEX](https://supporticket.vtex.com/support) selecionando a opção **Comercial**.
