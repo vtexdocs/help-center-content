@@ -45,7 +45,7 @@ Para acessar a loja por meio de um endereço sem subdomínios, como `www`, é pr
    |---|---|---|
    | Host Record: <deixe-vazio\> | Type: A | To: 18.215.89.131 |
 
-Após a propagação do DNS, a Redirect-301 provisiona automaticamente um certificado SSL para o seu domínio e o redirecionamento é ativado.
+Remova qualquer outro registro A, AAAA ou CNAME para o mesmo nome; caso contrário, alguns visitantes podem não ser redirecionados. Após a propagação do DNS, a Redirect-301 provisiona automaticamente um certificado SSL para o seu domínio e o redirecionamento é ativado. Para ver o passo a passo com capturas de tela, consulte o [guia de configuração da Redirect-301](https://www.redirect-301.com/configuration-guide).
 
 Saiba mais sobre situações como essa em [Melhores práticas para acessar a loja sem www](/pt/docs/tutorials/melhores-praticas-para-acessar-a-loja-sem-www).
 
