@@ -1,8 +1,8 @@
 ---
 title: 'Planejar a implementação do VTEX Sales App'
 status: PUBLISHED
-createdAt: 2026-09-25T00:00:00.000Z
-updatedAt: 2026-09-25T00:00:00.000Z
+createdAt: 2026-09-30T00:00:00.000Z
+updatedAt: 2026-09-30T00:00:00.000Z
 contentType: tutorial
 productTeam: Shopping
 slugEN: planning-the-vtex-sales-app-implementation
@@ -143,3 +143,5 @@ Defina quais métodos de pagamento estarão disponíveis no **Sales App**. Algun
 - **Dinheiro:** o pagamento é controlado fora da plataforma, e o pedido é registrado com o método promissória.
 - **Adquirentes homologados:** exigem contratar um parceiro disponível na sua região, configurar os terminais de pagamento (maquininhas), configurar o provedor na conta principal e realizar testes.
 - **Pagamentos não integrados:** usam o método promissória e exigem integração com sistemas externos, como PDV ou ERP, para receber a confirmação do pagamento. São indicados para cartões private label ou métodos de pagamento já consolidados na loja.
+
+> ℹ️ Para mais informações, leia o artigo [Configurar métodos de pagamento para o VTEX Sales App](/pt/docs/tracks/configurar-metodos-de-pagamento-para-o-vtex-sales-app).
