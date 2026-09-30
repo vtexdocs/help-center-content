@@ -132,6 +132,8 @@ Você pode habilitar ou desabilitar algumas ações dos vendedores no app. Cada 
 - **Integração com sistemas internos:** use os campos do pedido para enviar os dados de venda aos seus sistemas internos e calcular o comissionamento. Em [customData.customApps](https://developers.vtex.com/docs/guides/orderform-fields#customdata), o `id` do Sales App é `sales-app`.
 - **Modelo de comissionamento:** defina com as áreas internas, lojas próprias e franquias como as vendas omnichannel entrarão nas metas e no repasse de lojas, franquias, gerentes e vendedores. Essa definição não depende de configuração na VTEX, mas é essencial para o modelo de repasse e para o engajamento da equipe com o app.
 
+> ⚠️ O **Sales App** não calcula o comissionamento de vendas. Esse cálculo deve ser realizado por um sistema externo com base nos dados do pedido.
+
 ## Definir as configurações de pagamento
 
 Defina quais métodos de pagamento estarão disponíveis no **Sales App**. Alguns métodos reaproveitam configurações do ecommerce, enquanto outros exigem a contratação de parceiros ou integrações.
