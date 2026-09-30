@@ -54,14 +54,14 @@
                 },
                 {
                   "name": {
-                    "en": "Ship from store for marketplaces available in open beta",
-                    "es": "Ship from store for marketplaces",
-                    "pt": "Ship from store para marketplaces disponível em open beta"
+                    "en": "Personal Shopper will be discontinued",
+                    "es": "Personal Shopper será descontinuado",
+                    "pt": "Personal Shopper será descontinuado"
                   },
                   "slug": {
-                    "en": "2026-09-15-ship-from-store-for-marketplace",
-                    "es": "2026-09-15-ship-from-store-for-marketplaces",
-                    "pt": "2026-09-15-inventario-regionalizado-disponivel-para-o-magalu"
+                    "en": "2026-09-22-personal-shopper-will-be-discontinued",
+                    "es": "2026-09-22-personal-shopper-sera-descontinuado",
+                    "pt": "2026-09-22-personal-shopper-sera-descontinuado"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11751,9 +11751,24 @@
                 },
                 {
                   "name": {
-                    "en": "4. Glossary",
-                    "es": "4. Glosario",
-                    "pt": "4. Glossário"
+                    "en": "4. CMS for FastStore",
+                    "es": "4. CMS para FastStore",
+                    "pt": "4. CMS para FastStore"
+                  },
+                  "slug": {
+                    "en": "cms-for-faststore",
+                    "es": "cms-para-faststore",
+                    "pt": "cms-para-faststore"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "5. Glossary",
+                    "es": "5. Glosario",
+                    "pt": "5. Glossário"
                   },
                   "slug": {
                     "en": "glossary",
@@ -23854,21 +23869,6 @@
             },
             {
               "name": {
-                "en": "Personal Shopper",
-                "es": "Personal Shopper",
-                "pt": "Personal Shopper"
-              },
-              "slug": {
-                "en": "personal-shopper-overview",
-                "es": "personal-shopper-vision-general",
-                "pt": "visao-geral-do-personal-shopper"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Setting up price and availability of SKUs by Region",
                 "es": "Configurar el precio y la disponibilidad de SKUs por Region",
                 "pt": "Configurar preço e disponibilidade de SKUs regionalmente"
@@ -31537,21 +31537,6 @@
                     "en": "refurbished-products-on-mercado-libre",
                     "es": "productos-reacondicionados-en-mercado-libre",
                     "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Ship from store for marketplaces",
-                    "es": "Ship from store para marketplaces",
-                    "pt": "Ship from store para marketplaces"
-                  },
-                  "slug": {
-                    "en": "ship-from-store-for-marketplaces",
-                    "es": "ship-from-store-para-marketplaces",
-                    "pt": "ship-from-store-para-marketplaces"
                   },
                   "origin": "",
                   "type": "markdown",

@@ -1,18 +1,12 @@
 ---
 title: 'Configurar pagamentos com Promissória'
-id: 5pW7avTwtyQcMu4uiW8quQ
-status: PUBLISHED
 createdAt: 2018-06-21T20:20:24.484Z
 updatedAt: 2025-02-26T18:35:04.108Z
-publishedAt: 2025-02-26T18:35:04.108Z
-firstPublishedAt: 2018-06-25T15:42:31.515Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slugEN: setting-up-payments-with-notes-payable
-legacySlug: configurar-pagamentos-com-promissoria
 locale: pt
-subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
 Na VTEX, sua loja pode receber pagamentos por meio de promissórias customizadas. Para isso, você deve seguir os seguintes passos:
@@ -22,6 +16,8 @@ Na VTEX, sua loja pode receber pagamentos por meio de promissórias customizadas
 - [Configurar condição de pagamento](#configurar-condicao-de-pagamento)
 
 > ⚠️ As informações deste artigo não são referentes as condições de pagamento **Promissory** ou **CardPromissory** disponíveis no Admin em **Configurações da loja > Pagamentos > Configurações > Condições de pagamento**.
+
+> ⚠️ Lojas que usam o [**B2B Buyer Portal**](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt) precisam da promissória compatível com esse produto. O cartão no Admin não exibe o número do meio de pagamento. O endereço de acesso direto está em [Configurações do contrato](https://help.vtex.com/pt/docs/tutorials/configuracoes-do-contrato).
 
 ## Configurar provedor de pagamento
 
