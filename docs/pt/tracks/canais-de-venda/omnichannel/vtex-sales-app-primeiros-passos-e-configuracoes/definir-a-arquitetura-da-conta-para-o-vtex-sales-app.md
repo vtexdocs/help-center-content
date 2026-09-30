@@ -29,7 +29,7 @@ Se sua operação combinar mais de uma estratégia, atenda aos requisitos de tod
 
 ## Criar contas franquia
 
-Se a estratégia escolhida exigir contas franquia, crie essas contas antes de seguir para a instalação. Para isso, abra um ticket para o [Suporte VTEX](https://help.vtex.com/support).
+Se a estratégia escolhida exigir contas franquia, crie essas contas antes de seguir para a instalação do **Sales App**. Para isso, abra um ticket para o [Suporte VTEX](https://help.vtex.com/support).
 
 Cada conta franquia representa uma loja física e tem um Admin VTEX próprio, com configurações de logística independentes, mas herda o catálogo da conta principal. O **Sales App** é instalado apenas na conta principal e busca nas contas franquia as informações de estoque e entrega de cada loja.
 
