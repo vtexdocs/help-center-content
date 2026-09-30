@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-When you configure the product correctly and it [is displayed as available on the product listing page](/en/faq/why-is-the-product-not-visible-on-the-website), the item may become unavailable when added to the cart. Different [logistics](/en/docs/tutorials/fulfillment-logistics-vtex) aspects may contribute to the product unavailability in the cart, and the following topics help us identify the potential reasons:
+Sometimes, even if you configure the product correctly and [it's displayed as available on the product listing page](/faq/why-is-the-product-not-visible-on-the-website), the item may become unavailable when added to the cart. Different [logistics](/docs/tutorials/fulfillment-logistics-vtex) aspects may contribute to the product unavailability in the cart. The following topics can help identify potential reasons:
 
 * [Shipping Simulator](#shipping-simulator)
 * [Inventory](#inventory)
@@ -63,6 +63,8 @@ In terms of shipping strategy, the list below shows the main situations that lea
 
 > ℹ️ These situations must be considered in the context of the sale. Having an inactive warehouse does not make the product unavailable, but if it is the only one warehouse serving as the shipping route and is inactive, the product becomes unavailable in the cart.
 
+> ℹ️ VTEX supports up to 10,000 shipping routes per account. A route represents each possible combination of loading dock, inventory, shipping policy, and [sales channel](/docs/tutorials/how-trade-policies-work) in your store. The total number of routes is calculated by multiplying the number of these four entities. When this threshold is exceeded, the available number of items may be displayed inconsistently in the store. Therefore, when setting up your shipping strategy, avoid creating combinations that won't be used.
+
 ## Shipping policy settings
 
 [Shipping policy](/en/docs/tutorials/shipping-policy) is a set of rules and settings that define the shipping options displayed to customers at checkout. The main shipping policy aspects that affect product availability in the cart are:
@@ -86,7 +88,7 @@ The following list shows the main reasons for product unavailability in the cart
 
 > ℹ️ The above situations must be considered in the context of the sale. If there is only one eligible shipping policy for shipping the product and the characteristics of this product are not within the settings accepted by the carrier, then there is no valid shipping route, and the product becomes unavailable.
 
-Other carrier settings that can impact product availability are related to item weight and volume, as mentioned below.
+Other carrier settings that can impact product availability are related to item weight and volume, as detailed below.
 
 ### Dimensions and cubic weight factor
 
