@@ -38,9 +38,7 @@ Para funcionalidades que o **Sales App** não oferece nativamente, como programa
 
 ## Definir a arquitetura técnica
 
-A arquitetura técnica depende das estratégias que sua operação vai adotar com o **Sales App**.
-
-> ℹ️ Para usar a retirada em loja e os carrinhos mistos, recomendamos ativar o **Checkout v6**. Essa versão do checkout permite que o cliente escolha um ponto de retirada e divida um mesmo pedido entre itens entregues em casa e itens retirados na loja. Para mais informações, leia o artigo [Como ativar o Checkout v6](/pt/docs/tutorials/ativar-o-checkout-v6).
+A arquitetura técnica depende das estratégias que sua operação vai adotar com o **Sales App**. As seções a seguir apresentam as principais estratégias, o que decidir em cada uma e as configurações necessárias. Se sua operação combinar mais de uma estratégia, atenda aos requisitos de todas elas.
 
 ### Prateleira Infinita
 
@@ -67,8 +65,7 @@ O [Ship from Store](/pt/docs/tracks/configurar-ship-from-store) permite que o cl
 
 - **Arquitetura de conta franquia:** a VTEX recomenda criar uma [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia) para cada loja, para que cada uma tenha sua própria logística.
 - **Configuração logística:** na conta franquia, cadastre a transportadora em uma [política de envio](/pt/docs/tutorials/politica-de-envio), associe essa política a uma doca e use a doca como origem do estoque da loja.
-
-> ℹ️ Para usar o **Ship from Store**, é necessário integrar o ERP para que o inventário da loja esteja sempre atualizado.
+- **Integração com ERP:** obrigatória, para que o inventário da loja esteja sempre atualizado.
 
 ### Retirada em loja
 
@@ -92,9 +89,11 @@ A [venda do estoque local](/pt/docs/tutorials/habilitar-venda-de-estoque-local-d
 #### Configuração da venda do estoque local e carrinhos mistos
 
 - **Arquitetura de conta franquia:** usa a mesma base da [retirada em loja](#retirada-em-loja), ou seja, uma conta franquia para cada loja, com um ponto de retirada cadastrado com o endereço da loja física.
-- **Configuração logística:** siga o passo a passo de [venda do estoque local](/pt/docs/tutorials/habilitar-venda-de-estoque-local-do-vtex-sales-app) para vincular o ponto de retirada ao estoque da loja e habilitar vendas do tipo "leve agora" (`instore`). A venda de carrinhos mistos já vem configurada por padrão nas lojas VTEX.
+- **Configuração logística:** siga o passo a passo de [venda do estoque local](/pt/docs/tutorials/habilitar-venda-de-estoque-local-do-vtex-sales-app) para vincular o ponto de retirada ao estoque da loja e habilitar vendas do tipo "Levar agora" (`instore`). A venda de carrinhos mistos já vem configurada por padrão nas lojas VTEX.
 - **Faturamento:** integre o sistema de faturamento ao de nota fiscal (NFC-e/SAT) via PDV ou ERP para permitir a saída imediata do produto.
 - **Conciliação:** ajuste o sistema e a operação de conciliação para garantir o fluxo correto de faturamento, de acordo com as definições da sua área financeira.
+
+> ℹ️ Para usar a retirada em loja e os carrinhos mistos, recomendamos ativar o **Checkout v6**. Essa versão do checkout permite que o cliente escolha um ponto de retirada e divida um mesmo pedido entre itens entregues em casa e itens retirados na loja. Para mais informações, leia o artigo [Como ativar o Checkout v6](/pt/docs/tutorials/ativar-o-checkout-v6).
 
 ### Preços nas lojas físicas
 
