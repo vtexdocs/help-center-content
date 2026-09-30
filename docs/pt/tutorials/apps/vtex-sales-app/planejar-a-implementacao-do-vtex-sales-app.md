@@ -84,7 +84,7 @@ Com a [retirada em loja](/pt/docs/tracks/configurar-lojas-fisicas-como-pontos-de
 
 ### Venda do estoque local e carrinhos mistos
 
-A [venda do estoque local](/pt/docs/tutorials/habilitar-venda-de-estoque-local-do-vtex-sales-app) permite que o cliente leve o produto na hora da compra na loja física, em uma venda do tipo "leve agora" (carry out). Essa estratégia pode ser combinada com carrinhos mistos, quando uma mesma venda contém itens que o cliente leva na hora e itens que serão entregues em sua casa a partir de outro estoque.
+A [venda do estoque local](/pt/docs/tutorials/habilitar-venda-de-estoque-local-do-vtex-sales-app) permite que o cliente leve o produto na hora da compra na loja física, em uma venda do tipo "Levar agora" (OnHands). Essa estratégia pode ser combinada com carrinhos mistos, quando uma mesma venda contém itens que o cliente leva na hora e itens que serão entregues em sua casa a partir de outro estoque.
 
 - **Público-alvo:** lojas físicas que desejam vender produtos do estoque local e combinar em um mesmo pedido itens para levar na hora e itens para entrega.
 - **O que decidir:** como integrar o ERP e o sistema fiscal da loja para que o inventário esteja sempre atualizado e a nota fiscal seja emitida no momento da venda.
