@@ -38,7 +38,7 @@ Atualmente a plataforma limita a seleção aos 300 pontos de retirada mais próx
 Vale ressaltar que:
 
 * Os pontos de retirada que ficam disponíveis para o cliente no checkout dependem da disponibilidade de itens e seu transporte até o ponto de retirada.
-* A VTEX limita a localização a um raio de 50km entre o ponto de retirada e o endereço do cliente.
+* A VTEX limita a localização a um raio de até 1.000 km entre o ponto de retirada e o endereço do cliente. Esse raio pode ser configurado no Admin VTEX em **Configurações da loja > Envio > Configurações**. Como a configuração é feita no nível da conta, lojas com contas franqueadas precisam alterá-la em cada uma delas.
 * Nos casos em que há transporte entre o [estoque](/pt/docs/tutorials/estoque) e o ponto de retirada, a VTEX também leva em consideração a existência dessa rota para a escolha do ponto de retirada.
 
 > ℹ️ Com pontos de retirada, a VTEX também possibilita que o lojista: <body> <ul> <li>Configure **pontos de retirada de contingência:** pontos de retirada que podem fornecer inventário a outros pontos quando for necessário, possibilitando a escolha mais conveniente ao comprador. Para saber mais, acesse [Ponto de retirada de contingência.</li>](/pt/docs/tutorials/criar-ponto-de-retirada-de-contingencia-para-garanti-lo-como-opcao-no) <li>Configure um **seller white label como ponto de retirada.** Saiba mais em [Configurar Seller White Label como Ponto de Retirada (Pickup Point).</li>](/pt/tutorial/configurar-seller-white-label-ponto-de-retirada-pickup-point--6fSUE2O0taaoKieAaiuc4e) <ul> </body>
