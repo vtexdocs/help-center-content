@@ -37,4 +37,4 @@ Cada conta franquia representa uma loja física e tem um Admin VTEX próprio, co
 
 ## Definir os preços das lojas físicas
 
-Recomendamos que as lojas físicas herdem os preços do ecommerce. Se sua operação precisar de preços diferenciados por loja, leia [Preços nas lojas físicas](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app#precos-nas-lojas-fisicas) antes de continuar.
+Recomendamos que as lojas físicas herdem os preços do ecommerce. Se sua operação precisar de preços diferentes por loja, leia [Preços nas lojas físicas](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app#precos-nas-lojas-fisicas) antes de continuar.
