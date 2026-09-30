@@ -38,14 +38,7 @@ Para funcionalidades que o **Sales App** não oferece nativamente, como programa
 
 ## Definir a arquitetura técnica
 
-A arquitetura técnica depende das estratégias que sua operação vai adotar com o **Sales App**. A tabela abaixo resume os principais requisitos de cada estratégia, detalhados nas seções a seguir.
-
-| Requisito | Prateleira Infinita | Ship from Store | Retirada em loja | Venda do estoque local e carrinhos mistos |
-| --- | --- | --- | --- | --- |
-| Conta franquia | Opcional | Recomendado | Sim | Sim |
-| Ponto de retirada | Opcional | Não | Sim | Sim |
-| Integração com ERP | Não | Sim | Recomendado | Sim |
-| Emissão de nota fiscal na loja (NFC-e/SAT) | Não | {Confirmar com time} | Não | Sim |
+A arquitetura técnica depende das estratégias que sua operação vai adotar com o **Sales App**.
 
 > ℹ️ Para usar a retirada em loja e os carrinhos mistos, recomendamos ativar o **Checkout v6**. Essa versão do checkout permite que o cliente escolha um ponto de retirada e divida um mesmo pedido entre itens entregues em casa e itens retirados na loja. Para mais informações, leia o artigo [Como ativar o Checkout v6](/pt/docs/tutorials/ativar-o-checkout-v6).
 
@@ -55,7 +48,7 @@ A [Prateleira Infinita](/pt/docs/tracks/prateleira-infinita) dá aos seus client
 
 - **Público-alvo:** empresas que buscam vendas incrementais, evitando a ruptura de estoque local ao oferecer o catálogo do ecommerce.
 - **O que decidir:** modelo de estoques e arquitetura de lojas, incluindo se haverá contas franquia e [pontos de retirada](#retirada-em-loja).
-- **Requisitos:** basta ter o **Sales App** instalado na conta principal.
+- **Requisitos:** basta ter o **Sales App** instalado na conta principal e decidir qual [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) irá usar.
 
 #### Configuração da Prateleira Infinita
 
