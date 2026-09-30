@@ -16,21 +16,16 @@ Este artigo resume essas configurações. Para entender em detalhes cada estrat�
 
 ## Identificar as configurações de cada estratégia
 
-A tabela abaixo mostra o que cada estratégia exige da sua conta. Se sua operação combinar mais de uma estratégia, atenda aos requisitos de todas elas.
-
-| Requisito | Prateleira Infinita | Ship from Store | Retirada em loja | Venda do estoque local e carrinhos mistos |
-| :--- | :--- | :--- | :--- | :--- |
-| Conta franquia | Opcional | Recomendada | Sim | Sim |
-| Ponto de retirada | Opcional | Não | Sim | Sim |
-| Integração com ERP | Não | Sim | Recomendada | Sim |
-| Emissão de nota fiscal na loja (NFC-e/SAT) | Não | {Confirmar com time} | Não | Sim |
-
-Veja a seguir o que configurar em cada caso:
+Veja a seguir o que configurar na sua conta para cada estratégia:
 
 - **[Prateleira Infinita](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app#prateleira-infinita):** use apenas a conta principal, sem configurações adicionais obrigatórias. Para vender a partir do estoque das lojas físicas, cadastre cada loja como um estoque na conta principal ou crie uma conta franquia para cada loja.
-- **[Ship from Store](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app#ship-from-store):** crie uma conta franquia para cada loja que fará entregas, com política de envio e doca próprias, e integre o ERP para manter o inventário da loja atualizado.
-- **[Retirada em loja](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app#retirada-em-loja):** crie uma conta franquia para cada loja que funcionará como ponto de retirada e, nessa conta, cadastre o ponto de retirada conectado ao estoque da loja.
+- **[Ship from Store](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app#ship-from-store):** recomendamos criar uma conta franquia para cada loja que fará entregas, com política de envio e doca próprias. A integração com o ERP é necessária para manter o inventário da loja atualizado.
+- **[Retirada em loja](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app#retirada-em-loja):** crie uma conta franquia para cada loja que funcionará como ponto de retirada e, nessa conta, cadastre o ponto de retirada conectado ao estoque da loja. Recomendamos integrar o ERP para manter o inventário da loja atualizado.
 - **[Venda do estoque local e carrinhos mistos](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app#venda-do-estoque-local-e-carrinhos-mistos):** use a mesma base da retirada em loja e integre o ERP e o sistema fiscal para emitir a nota fiscal no momento da venda.
+
+> ℹ️ Para usar a retirada em loja e os carrinhos mistos, recomendamos ativar o **Checkout v6**. Essa versão do checkout permite que o cliente escolha um ponto de retirada e divida um mesmo pedido entre itens entregues em casa e itens retirados na loja. Para mais informações, leia o artigo [Como ativar o Checkout v6](/pt/docs/tutorials/ativar-o-checkout-v6).
+
+Se sua operação combinar mais de uma estratégia, atenda aos requisitos de todas elas.
 
 ## Criar contas franquia
 
