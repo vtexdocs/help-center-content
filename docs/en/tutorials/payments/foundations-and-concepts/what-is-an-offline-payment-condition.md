@@ -3,7 +3,7 @@ title: 'What is an offline payment condition?'
 id: 3WtA4nmQJWqAaCy0kYG6IG
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:37.593Z
-updatedAt: 2024-08-15T17:45:31.703Z
+updatedAt: 2026-09-30T20:30:00.000Z
 publishedAt: 2024-08-15T17:45:31.703Z
 firstPublishedAt: 2019-01-24T22:06:51.647Z
 contentType: tutorial
