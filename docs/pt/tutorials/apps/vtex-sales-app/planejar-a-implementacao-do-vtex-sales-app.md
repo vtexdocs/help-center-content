@@ -32,19 +32,6 @@ Os casos de uso mais frequentes do **Sales App** são:
 
 > ℹ️ Se você tem um caso de uso específico ou quer ampliar suas vendas assistidas, abra um ticket para o [Suporte VTEX](https://help.vtex.com/support). Nossa equipe ajudará você a entender como o **Sales App** pode atender ao seu negócio.
 
-### Sales App como ferramenta única da loja física
-
-Quando o **Sales App** substitui o PDV em todas as vendas da loja, além das funcionalidades nativas do app, a loja precisa de módulos para as rotinas que hoje ficam no PDV. Esses módulos geralmente são desenvolvidos com parceiros do ecossistema, por meio de [extensões](#extensibilidade-no-vtex-sales-app) e integrações.
-
-- **O que decidir:** quais módulos são necessários e quais parceiros do ecossistema serão utilizados.
-- **Módulos mais comuns:**
-  - **Gestão de caixa (Cash Management):** sangrias, suprimentos e fechamento de turno.
-  - **Pós-venda:** troca e devolução integradas ao OMS e ao ERP para reorquestrar o estoque.
-  - **Conciliação:** relatórios de conciliação das vendas da loja.
-- **Arquitetura técnica:** como todas as vendas da loja passam pelo app, esse modelo geralmente exige a [venda do estoque local](#venda-do-estoque-local-e-carrinhos-mistos), com integração com o ERP e emissão de nota fiscal na loja.
-
-Os demais requisitos variam de acordo com o projeto de cada cliente.
-
 ### Extensibilidade no VTEX Sales App
 
 Para funcionalidades que o **Sales App** não oferece nativamente, como programas de fidelidade, serviços adicionais ou formulários customizados, avalie o uso do [VTEX Sales App Extensibility](/pt/docs/tutorials/vtex-sales-app-extensibility-pt). Com ele, seu time ou um parceiro pode desenvolver módulos em pontos estratégicos da jornada de vendas.
