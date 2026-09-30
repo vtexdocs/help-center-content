@@ -142,4 +142,4 @@ Defina quais métodos de pagamento estarão disponíveis no **Sales App**. Algun
 - **Pix:** usa o mesmo gateway de pagamento do ecommerce.
 - **Dinheiro:** o pagamento é controlado fora da plataforma, e o pedido é registrado com o método promissória.
 - **Adquirentes homologados:** exigem contratar um parceiro disponível na sua região, configurar os terminais de pagamento (maquininhas), configurar o provedor na conta principal e realizar testes.
-- **Pagamentos não integrados:** usam o método promissória e exigem integração com sistemas externos, como PDV ou ERP, para receber a confirmação do pagamento. São indicados para cartões private label ou métodos de pagamento já consolidados na loja. Esse modelo está em beta fechado. Para saber mais, entre em contato com o time do **Sales App**.
+- **Pagamentos não integrados:** usam o método promissória e exigem integração com sistemas externos, como PDV ou ERP, para receber a confirmação do pagamento. São indicados para cartões private label ou métodos de pagamento já consolidados na loja.
