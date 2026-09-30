@@ -80,7 +80,7 @@ Com a [retirada em loja](/pt/docs/tracks/configurar-lojas-fisicas-como-pontos-de
 #### Configuração da retirada em loja
 
 - **Arquitetura de conta franquia:** cada loja que funcionar como ponto de retirada precisa ser uma [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia).
-- **Configuração logística:** na conta franquia, cadastre o ponto de retirada, associe-o a uma política de envio e conecte-o ao estoque da loja ativando a opção **Estoque inStore**.
+- **Configuração logística:** na conta franquia, cadastre o ponto de retirada, associe-o a uma política de envio e conecte-o ao estoque da loja ativando a opção **Estoque Sales App**.
 
 ### Venda do estoque local e carrinhos mistos
 
