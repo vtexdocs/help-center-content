@@ -39433,6 +39433,21 @@
             },
             {
               "name": {
+                "en": "B2B Organizations always deletes last registered address when deleting addresses in the storefront",
+                "es": "Las organizaciones B2B siempre eliminan la última dirección registrada al eliminar direcciones en la tienda online.",
+                "pt": "Organizações B2B sempre excluem o último endereço cadastrado ao remover endereços da loja virtual."
+              },
+              "slug": {
+                "en": "b2b-organizations-always-deletes-last-registered-address-when-deleting-addresses-in-the-storefront",
+                "es": "las-organizaciones-b2b-siempre-eliminan-la-ultima-direccion-registrada-al-eliminar-direcciones-en-la-tienda-online",
+                "pt": "organizacoes-b2b-sempre-excluem-o-ultimo-endereco-cadastrado-ao-remover-enderecos-da-loja-virtual"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "B2B Organizations Detail UI only shows 100 first sellers",
                 "es": "La interfaz de usuario de «Detalles de organizaciones B2B» solo muestra los primeros 100 vendedores",
                 "pt": "A interface do usuário de detalhes das organizações B2B mostra apenas os primeiros 100 vendedores"
@@ -40349,29 +40364,14 @@
             },
             {
               "name": {
-                "en": "Apply the discount to the most expensive items - UI not saving data.",
-                "es": "Aplicar el descuento a los artículos más caros: la interfaz de usuario no guarda los datos.",
-                "pt": "Aplicar o desconto aos itens mais caros - a interface do usuário não está salvando os dados."
-              },
-              "slug": {
-                "en": "apply-the-discount-to-the-most-expensive-items-ui-not-saving-data",
-                "es": "aplicar-el-descuento-a-los-articulos-mas-caros-la-interfaz-de-usuario-no-guarda-los-datos",
-                "pt": "aplicar-o-desconto-aos-itens-mais-caros-a-interface-do-usuario-nao-esta-salvando-os-dados"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Attachents API doesn't allow null \"domainValues\" (and it should)",
-                "es": "La API de Attachents no permite valores nulos en «domainValues» (y debería hacerlo)",
-                "pt": "A API do Attachents não permite valores nulos em \"domainValues\" (e deveria permitir)"
+                "es": "La API de adjuntos no permite valores \"domainValues\" nulos (y debería).",
+                "pt": "A API Attachents não permite \"domainValues\" nulos (e deveria permitir)."
               },
               "slug": {
                 "en": "attachents-api-doesnt-allow-null-domainvalues-and-it-should",
-                "es": "la-api-de-attachents-no-permite-valores-nulos-en-domainvalues-y-deberia-hacerlo",
-                "pt": "a-api-do-attachents-nao-permite-valores-nulos-em-domainvalues-e-deveria-permitir"
+                "es": "la-api-de-adjuntos-no-permite-valores-domainvalues-nulos-y-deberia",
+                "pt": "a-api-attachents-nao-permite-domainvalues-nulos-e-deveria-permitir"
               },
               "origin": "",
               "type": "markdown",
@@ -40440,12 +40440,12 @@
             {
               "name": {
                 "en": "Buscacep not working in create GiftList form.",
-                "es": "Buscacep no funciona en la creación del formulario GiftList.",
+                "es": "Buscacep no funciona en el formulario de creación de listas de regalos.",
                 "pt": "O Buscacep não está funcionando no formulário de criação da Lista de Presentes."
               },
               "slug": {
                 "en": "buscacep-not-working-in-create-giftlist-form",
-                "es": "buscacep-no-funciona-en-la-creacion-del-formulario-giftlist",
+                "es": "buscacep-no-funciona-en-el-formulario-de-creacion-de-listas-de-regalos",
                 "pt": "o-buscacep-nao-esta-funcionando-no-formulario-de-criacao-da-lista-de-presentes"
               },
               "origin": "",
@@ -41146,12 +41146,12 @@
               "name": {
                 "en": "CMS Loyalty Value Settings not Working",
                 "es": "La configuración del valor de fidelización de CMS no funciona.",
-                "pt": "As configurações do CMS Loyalty Value não estão funcionando"
+                "pt": "As configurações de valor de fidelidade do CMS não estão funcionando."
               },
               "slug": {
                 "en": "cms-loyalty-value-settings-not-working",
                 "es": "la-configuracion-del-valor-de-fidelizacion-de-cms-no-funciona",
-                "pt": "as-configuracoes-do-cms-loyalty-value-nao-estao-funcionando"
+                "pt": "as-configuracoes-de-valor-de-fidelidade-do-cms-nao-estao-funcionando"
               },
               "origin": "",
               "type": "markdown",
@@ -41580,13 +41580,13 @@
             {
               "name": {
                 "en": "Dimension text fields being unselected during SKU creation",
-                "es": "Los campos de texto de las dimensiones quedan deseleccionados durante la creación de SKU",
-                "pt": "Os campos de texto de dimensão ficam desmarcados durante a criação do SKU"
+                "es": "Los campos de texto de dimensión se deseleccionan durante la creación de SKU.",
+                "pt": "Campos de texto de dimensão desmarcados durante a criação de SKU"
               },
               "slug": {
                 "en": "dimension-text-fields-being-unselected-during-sku-creation",
-                "es": "los-campos-de-texto-de-las-dimensiones-quedan-deseleccionados-durante-la-creacion-de-sku",
-                "pt": "os-campos-de-texto-de-dimensao-ficam-desmarcados-durante-a-criacao-do-sku"
+                "es": "los-campos-de-texto-de-dimension-se-deseleccionan-durante-la-creacion-de-sku",
+                "pt": "campos-de-texto-de-dimensao-desmarcados-durante-a-criacao-de-sku"
               },
               "origin": "",
               "type": "markdown",
@@ -41881,12 +41881,12 @@
               "name": {
                 "en": "Giftlist Data de evento salva na UI não é a mesma que reflete no bd",
                 "es": "Lista de regalos Los datos del evento salvado en la interfaz de usuario no son mensajes que se reflejen en la bd",
-                "pt": "[Giftlist] Data de evento salva na UI não é a mesma que reflete no bd"
+                "pt": "Giftlist Dados de evento salvos na UI não é a mesma que reflete no bd"
               },
               "slug": {
                 "en": "giftlist-data-de-evento-salva-na-ui-nao-e-a-mesma-que-reflete-no-bd",
                 "es": "lista-de-regalos-los-datos-del-evento-salvado-en-la-interfaz-de-usuario-no-son-mensajes-que-se-reflejen-en-la-bd",
-                "pt": "giftlist-data-de-evento-salva-na-ui-nao-e-a-mesma-que-reflete-no-bd"
+                "pt": "giftlist-dados-de-evento-salvos-na-ui-nao-e-a-mesma-que-reflete-no-bd"
               },
               "origin": "",
               "type": "markdown",
@@ -42030,13 +42030,13 @@
             {
               "name": {
                 "en": "Incorrect ID and department name when exporting products spreadsheet",
-                "es": "ID y nombre de departamento incorrectos al exportar planilla de productos",
-                "pt": "ID e nome de departamento incorretos ao exportar planilha de produtos"
+                "es": "ID y nombre del departamento incorrectos al exportar la hoja de cálculo de productos",
+                "pt": "ID e nome do departamento incorretos ao exportar a planilha de produtos."
               },
               "slug": {
                 "en": "incorrect-id-and-department-name-when-exporting-products-spreadsheet",
-                "es": "id-y-nombre-de-departamento-incorrectos-al-exportar-planilla-de-productos",
-                "pt": "id-e-nome-de-departamento-incorretos-ao-exportar-planilha-de-produtos"
+                "es": "id-y-nombre-del-departamento-incorrectos-al-exportar-la-hoja-de-calculo-de-productos",
+                "pt": "id-e-nome-do-departamento-incorretos-ao-exportar-a-planilha-de-produtos"
               },
               "origin": "",
               "type": "markdown",
@@ -42705,13 +42705,13 @@
             {
               "name": {
                 "en": "Outdated indexed information when performing 2 product changes in a row.",
-                "es": "La información indexada queda desactualizada cuando se realizan dos cambios de producto seguidos.",
-                "pt": "Informações indexadas desatualizadas ao realizar duas alterações de produto consecutivas."
+                "es": "Información indexada desactualizada al realizar 2 cambios de producto consecutivos.",
+                "pt": "Informações indexadas desatualizadas ao realizar 2 alterações de produto consecutivas."
               },
               "slug": {
                 "en": "outdated-indexed-information-when-performing-2-product-changes-in-a-row",
-                "es": "la-informacion-indexada-queda-desactualizada-cuando-se-realizan-dos-cambios-de-producto-seguidos",
-                "pt": "informacoes-indexadas-desatualizadas-ao-realizar-duas-alteracoes-de-produto-consecutivas"
+                "es": "informacion-indexada-desactualizada-al-realizar-2-cambios-de-producto-consecutivos",
+                "pt": "informacoes-indexadas-desatualizadas-ao-realizar-2-alteracoes-de-produto-consecutivas"
               },
               "origin": "",
               "type": "markdown",
@@ -42750,28 +42750,13 @@
             {
               "name": {
                 "en": "Portal don't respect the tag \"Principal\" of SKU's Image",
-                "es": "El portal no respeta la etiqueta «Principal» de la imagen del SKU",
-                "pt": "O portal não respeita a tag \"Principal\" da imagem do SKU"
+                "es": "El portal no respeta la etiqueta \"Principal\" de la imagen de SKU.",
+                "pt": "O portal não respeita a etiqueta \"Principal\" da imagem do SKU."
               },
               "slug": {
                 "en": "portal-dont-respect-the-tag-principal-of-skus-image",
-                "es": "el-portal-no-respeta-la-etiqueta-principal-de-la-imagen-del-sku",
-                "pt": "o-portal-nao-respeita-a-tag-principal-da-imagem-do-sku"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Pricing API Allows Negative Values",
-                "es": "La API de precios permite valores negativos.",
-                "pt": "A API de preços permite valores negativos."
-              },
-              "slug": {
-                "en": "pricing-api-allows-negative-values",
-                "es": "la-api-de-precios-permite-valores-negativos",
-                "pt": "a-api-de-precos-permite-valores-negativos"
+                "es": "el-portal-no-respeta-la-etiqueta-principal-de-la-imagen-de-sku",
+                "pt": "o-portal-nao-respeita-a-etiqueta-principal-da-imagem-do-sku"
               },
               "origin": "",
               "type": "markdown",
@@ -43320,13 +43305,13 @@
             {
               "name": {
                 "en": "Seller Portal Product Doesn't Load When Without Images",
-                "es": "El producto no se carga en el portal del vendedor cuando no hay imágenes",
-                "pt": "O produto no Portal do Vendedor não carrega quando não há imagens"
+                "es": "El producto en el portal del vendedor no se carga cuando no hay imágenes.",
+                "pt": "O produto não carrega no Seller Portal quando não há imagens."
               },
               "slug": {
                 "en": "seller-portal-product-doesnt-load-when-without-images",
-                "es": "el-producto-no-se-carga-en-el-portal-del-vendedor-cuando-no-hay-imagenes",
-                "pt": "o-produto-no-portal-do-vendedor-nao-carrega-quando-nao-ha-imagens"
+                "es": "el-producto-en-el-portal-del-vendedor-no-se-carga-cuando-no-hay-imagenes",
+                "pt": "o-produto-nao-carrega-no-seller-portal-quando-nao-ha-imagens"
               },
               "origin": "",
               "type": "markdown",
@@ -44055,12 +44040,12 @@
             {
               "name": {
                 "en": "XML <price> related tags do not load contents for unavailable items",
-                "es": "Las etiquetas XML relacionadas con <price> no cargan el contenido de los artículos que no están disponibles",
+                "es": "Las etiquetas XML <price> relacionadas no cargan el contenido de los artículos no disponibles.",
                 "pt": "As tags XML relacionadas a <price> não carregam conteúdo para itens indisponíveis."
               },
               "slug": {
                 "en": "xml-price-related-tags-do-not-load-contents-for-unavailable-items",
-                "es": "las-etiquetas-xml-relacionadas-con-price-no-cargan-el-contenido-de-los-articulos-que-no-estan-disponibles",
+                "es": "las-etiquetas-xml-price-relacionadas-no-cargan-el-contenido-de-los-articulos-no-disponibles",
                 "pt": "as-tags-xml-relacionadas-a-price-nao-carregam-conteudo-para-itens-indisponiveis"
               },
               "origin": "",
@@ -48708,6 +48693,21 @@
             },
             {
               "name": {
+                "en": "\"View in Pages\" link in Planner Calendar opens a broken URL with literal",
+                "es": "El enlace \"Ver en páginas\" en el Calendario del planificador abre una URL rota con un error literal.",
+                "pt": "O link \"Ver em Páginas\" no Calendário do Planejador abre uma URL quebrada com um texto literal."
+              },
+              "slug": {
+                "en": "view-in-pages-link-in-planner-calendar-opens-a-broken-url-with-literal",
+                "es": "el-enlace-ver-en-paginas-en-el-calendario-del-planificador-abre-una-url-rota-con-un-error-literal",
+                "pt": "o-link-ver-em-paginas-no-calendario-do-planejador-abre-uma-url-quebrada-com-um-texto-literal"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Advanced store settings being registered globally insted of by binding",
                 "es": "La configuración avanzada de la tienda se registra a nivel global en lugar de mediante vinculación",
                 "pt": "As configurações avançadas da loja estão sendo registradas globalmente, em vez de por meio de vinculação"
@@ -49924,21 +49924,6 @@
             },
             {
               "name": {
-                "en": "Amazon Order Status is not revised when reprocessing order on bridge",
-                "es": "El estado del pedido de Amazon no se actualiza al reprocesar el pedido en Bridge.",
-                "pt": "O status do pedido da Amazon não é atualizado ao reprocessar o pedido na plataforma."
-              },
-              "slug": {
-                "en": "amazon-order-status-is-not-revised-when-reprocessing-order-on-bridge",
-                "es": "el-estado-del-pedido-de-amazon-no-se-actualiza-al-reprocesar-el-pedido-en-bridge",
-                "pt": "o-status-do-pedido-da-amazon-nao-e-atualizado-ao-reprocessar-o-pedido-na-plataforma"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Amazon Orders stock reservation",
                 "es": "Reserva de existencias para pedidos de Amazon",
                 "pt": "Reserva de estoque para pedidos da Amazon"
@@ -50112,21 +50097,6 @@
                 "en": "custom-attribute-mapper-mercado-livre",
                 "es": "mapeador-de-atributos-personalizados-de-mercado-livre",
                 "pt": "mapeador-de-atributos-personalizados-do-mercado-livre"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Dafiti Image URLs converted to WebP cause rejection by markeplace (image type unsupported)",
-                "es": "Dafiti Las URL de imágenes convertidas a WebP provocan el rechazo del mercado (tipo de imagen no compatible).",
-                "pt": "Dafiti URLs de imagens convertidas para WebP causam rejeição pelo marketplace (tipo de imagem não suportado)"
-              },
-              "slug": {
-                "en": "dafiti-image-urls-converted-to-webp-cause-rejection-by-markeplace-image-type-unsupported",
-                "es": "dafiti-las-url-de-imagenes-convertidas-a-webp-provocan-el-rechazo-del-mercado-tipo-de-imagen-no-compatible",
-                "pt": "dafiti-urls-de-imagens-convertidas-para-webp-causam-rejeicao-pelo-marketplace-tipo-de-imagem-nao-suportado"
               },
               "origin": "",
               "type": "markdown",
@@ -50397,21 +50367,6 @@
                 "en": "magazine-luiza-order-canceled-on-marketplace-didnt-cancel-on-vtex",
                 "es": "magazine-luiza-el-pedido-cancelado-en-marketplace-no-se-ha-cancelado-en-vtex",
                 "pt": "magazine-luiza-pedido-cancelado-no-marketplace-mas-nao-no-vtex"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Magazine Luiza Order canceled on marketplace didn't update status on VTEX",
-                "es": "Magazine Luiza El pedido cancelado en el mercado no se actualizó en VTEX.",
-                "pt": "Magazine Luiza Pedido cancelado no marketplace, mas o status não foi atualizado no VTEX"
-              },
-              "slug": {
-                "en": "magazine-luiza-order-canceled-on-marketplace-didnt-update-status-on-vtex",
-                "es": "magazine-luiza-el-pedido-cancelado-en-el-mercado-no-se-actualizo-en-vtex",
-                "pt": "magazine-luiza-pedido-cancelado-no-marketplace-mas-o-status-nao-foi-atualizado-no-vtex"
               },
               "origin": "",
               "type": "markdown",
@@ -54295,21 +54250,6 @@
             },
             {
               "name": {
-                "en": "API Shipping Estimate returns wrong info when SC is null",
-                "es": "La API Shipping Estimate devuelve información errónea cuando la SC es nula",
-                "pt": "API Shipping Estimate devolve informações erradas quando SC é nulo"
-              },
-              "slug": {
-                "en": "api-shipping-estimate-returns-wrong-info-when-sc-is-null",
-                "es": "la-api-shipping-estimate-devuelve-informacion-erronea-cuando-la-sc-es-nula",
-                "pt": "api-shipping-estimate-devolve-informacoes-erradas-quando-sc-e-nulo"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "AvailableQuantity value inconsistent due to the large number of routes created to deliver the item",
                 "es": "Valor de AvailableQuantity incoherente debido al gran número de rutas creadas para entregar el artículo.",
                 "pt": "Valor de AvailableQuantity inconsistente devido ao grande número de rotas criadas para entregar o item"
@@ -54520,21 +54460,6 @@
             },
             {
               "name": {
-                "en": "Inventory divergence in UI x API due to warehouse id being case sensitive",
-                "es": "Divergencia de inventario en UI x API debido a que el id de almacén distingue entre mayúsculas y minúsculas",
-                "pt": "Divergência de inventário na IU x API devido à identificação do depósito ser sensível a maiúsculas e minúsculas"
-              },
-              "slug": {
-                "en": "inventory-divergence-in-ui-x-api-due-to-warehouse-id-being-case-sensitive",
-                "es": "divergencia-de-inventario-en-ui-x-api-debido-a-que-el-id-de-almacen-distingue-entre-mayusculas-y-minusculas",
-                "pt": "divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Inventory Reserved Items Error",
                 "es": "Error de artículos reservados de inventario",
                 "pt": "Erro de itens reservados de estoque"
@@ -54738,21 +54663,6 @@
                 "en": "shipping-policy-stuck-in-processing-status-is-displayed-as-active-in-the-new-logistics-ui",
                 "es": "una-politica-de-envios-que-se-encuentra-en-estado-de-procesamiento-aparece-como-activa-en-la-nueva-interfaz-de-usuario-de-logistica",
                 "pt": "a-politica-de-envio-que-esta-no-status-em-processamento-e-exibida-como-ativa-na-nova-interface-de-logistica"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Shipping Policy with incorrect MaxVolume on spreadsheet does not show Message error on Simulation",
-                "es": "La política de envío con un volumen máximo incorrecto en la hoja de cálculo no muestra el mensaje de error en la simulación.",
-                "pt": "A política de envio com MaxVolume incorreto na planilha não exibe a mensagem de erro na simulação."
-              },
-              "slug": {
-                "en": "shipping-policy-with-incorrect-maxvolume-on-spreadsheet-does-not-show-message-error-on-simulation",
-                "es": "la-politica-de-envio-con-un-volumen-maximo-incorrecto-en-la-hoja-de-calculo-no-muestra-el-mensaje-de-error-en-la-simulacion",
-                "pt": "a-politica-de-envio-com-maxvolume-incorreto-na-planilha-nao-exibe-a-mensagem-de-erro-na-simulacao"
               },
               "origin": "",
               "type": "markdown",
@@ -56817,21 +56727,6 @@
             },
             {
               "name": {
-                "en": "Category mapping spreadsheet does not include offers in WaitingReview",
-                "es": "La hoja de cálculo de asignación de categorías no incluye ofertas en WaitingReview.",
-                "pt": "A planilha de mapeamento de categorias não inclui ofertas em WaitingReview."
-              },
-              "slug": {
-                "en": "category-mapping-spreadsheet-does-not-include-offers-in-waitingreview",
-                "es": "la-hoja-de-calculo-de-asignacion-de-categorias-no-incluye-ofertas-en-waitingreview",
-                "pt": "a-planilha-de-mapeamento-de-categorias-nao-inclui-ofertas-em-waitingreview"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Create seller with Additional Information is returning an error",
                 "es": "La operación «Crear vendedor con información adicional» devuelve un error",
                 "pt": "A função \"Criar vendedor com informações adicionais\" está apresentando um erro"
@@ -57087,21 +56982,6 @@
             },
             {
               "name": {
-                "en": "Search filter not working outside the first page in received SKU section",
-                "es": "El filtro de búsqueda no funciona fuera de la primera página en la sección de SKU recibidos.",
-                "pt": "O filtro de pesquisa não está funcionando fora da primeira página na seção de SKUs recebidos."
-              },
-              "slug": {
-                "en": "search-filter-not-working-outside-the-first-page-in-received-sku-section",
-                "es": "el-filtro-de-busqueda-no-funciona-fuera-de-la-primera-pagina-en-la-seccion-de-sku-recibidos",
-                "pt": "o-filtro-de-pesquisa-nao-esta-funcionando-fora-da-primeira-pagina-na-secao-de-skus-recebidos"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Seller group creation does not add selected sellers",
                 "es": "La creación de un grupo de vendedores no añade a los vendedores seleccionados",
                 "pt": "A criação de um grupo de vendedores não adiciona os vendedores selecionados"
@@ -57125,21 +57005,6 @@
                 "en": "seller-inactivation-in-new-seller-register-ui-does-not-trigger-product-reindexing-marketplace-sync-gap",
                 "es": "la-desactivacion-de-un-vendedor-en-la-nueva-interfaz-de-usuario-del-registro-de-vendedores-no-provoca-la-reindexacion-de-los-productos-desfase-en-la-sincronizacion-del-marketplace",
                 "pt": "a-desativacao-do-vendedor-na-nova-interface-do-registro-de-vendedores-nao-aciona-a-reindexacao-dos-produtos-desfasamento-na-sincronizacao-do-marketplace"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Seller invite Route not found after account creation",
-                "es": "Invitación del vendedor Ruta no encontrada después de la creación de la cuenta",
-                "pt": "Convite do vendedor Rota não encontrada após a criação da conta"
-              },
-              "slug": {
-                "en": "seller-invite-route-not-found-after-account-creation",
-                "es": "invitacion-del-vendedor-ruta-no-encontrada-despues-de-la-creacion-de-la-cuenta",
-                "pt": "convite-do-vendedor-rota-nao-encontrada-apos-a-criacao-da-conta"
               },
               "origin": "",
               "type": "markdown",
@@ -58081,7 +57946,7 @@
             {
               "name": {
                 "en": "Error with event system at the end of a transaction causes an order to be incomplete",
-                "es": "Un error en el sistema de eventos al final de una transacción provoca que un pedido quede incompleto",
+                "es": "Un error en el sistema de eventos al final de una transacción provoca que un pedido quede incompleto.",
                 "pt": "Um erro no sistema de eventos no final de uma transação faz com que um pedido fique incompleto"
               },
               "slug": {
@@ -64883,12 +64748,12 @@
               "name": {
                 "en": "Request Capture not Registering new Events when using Legacy Stores",
                 "es": "La función Request Capture no registra nuevos eventos al usar almacenes heredados.",
-                "pt": "Solicitar Captura sem Registro de Novos Eventos ao utilizar Lojas Legadas"
+                "pt": "A captura de solicitações não está registrando novos eventos ao usar armazenamentos legados."
               },
               "slug": {
                 "en": "request-capture-not-registering-new-events-when-using-legacy-stores",
                 "es": "la-funcion-request-capture-no-registra-nuevos-eventos-al-usar-almacenes-heredados",
-                "pt": "solicitar-captura-sem-registro-de-novos-eventos-ao-utilizar-lojas-legadas"
+                "pt": "a-captura-de-solicitacoes-nao-esta-registrando-novos-eventos-ao-usar-armazenamentos-legados"
               },
               "origin": "",
               "type": "markdown",
@@ -65738,6 +65603,21 @@
             },
             {
               "name": {
+                "en": "Apply the discount to the most expensive items - UI not saving data.",
+                "es": "Aplicar el descuento a los artículos más caros: la interfaz de usuario no guarda los datos.",
+                "pt": "Aplicar o desconto aos itens mais caros - a interface do usuário não está salvando os dados."
+              },
+              "slug": {
+                "en": "apply-the-discount-to-the-most-expensive-items-ui-not-saving-data",
+                "es": "aplicar-el-descuento-a-los-articulos-mas-caros-la-interfaz-de-usuario-no-guarda-los-datos",
+                "pt": "aplicar-o-desconto-aos-itens-mais-caros-a-interface-do-usuario-nao-esta-salvando-os-dados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Applying a Coupon Removes Initial UTM Campaign Promotion from Cart",
                 "es": "La aplicación de un cupón elimina la promoción inicial de la campaña UTM del carro",
                 "pt": "A aplicação de um cupom remove a promoção inicial da campanha UTM do carrinho"
@@ -66563,6 +66443,21 @@
             },
             {
               "name": {
+                "en": "Pricing API Allows Negative Values",
+                "es": "La API de precios permite valores negativos.",
+                "pt": "A API de preços permite valores negativos."
+              },
+              "slug": {
+                "en": "pricing-api-allows-negative-values",
+                "es": "la-api-de-precios-permite-valores-negativos",
+                "pt": "a-api-de-precos-permite-valores-negativos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Pricing modification via compatibility post prices route is losing data",
                 "es": "La modificación de precios a través de la ruta de precios de las publicaciones de compatibilidad provoca la pérdida de datos",
                 "pt": "A modificação de preços por meio da rota de preços de postagem de compatibilidade está causando perda de dados"
@@ -66760,12 +66655,12 @@
               "name": {
                 "en": "Promotional price table in large shopping carts can impact performance or lead to timeout errors",
                 "es": "Las tablas de precios promocionales en carritos de la compra de gran tamaño pueden afectar al rendimiento o provocar errores por tiempo de espera agotado",
-                "pt": "A tabela de preços promocionais em carrinhos de compras de grande porte pode afetar o desempenho ou causar erros de tempo limite"
+                "pt": "A tabela de preços promocionais em carrinhos de compras grandes pode afetar o desempenho ou causar erros de tempo limite."
               },
               "slug": {
                 "en": "promotional-price-table-in-large-shopping-carts-can-impact-performance-or-lead-to-timeout-errors",
                 "es": "las-tablas-de-precios-promocionales-en-carritos-de-la-compra-de-gran-tamano-pueden-afectar-al-rendimiento-o-provocar-errores-por-tiempo-de-espera-agotado",
-                "pt": "a-tabela-de-precos-promocionais-em-carrinhos-de-compras-de-grande-porte-pode-afetar-o-desempenho-ou-causar-erros-de-tempo-limite"
+                "pt": "a-tabela-de-precos-promocionais-em-carrinhos-de-compras-grandes-pode-afetar-o-desempenho-ou-causar-erros-de-tempo-limite"
               },
               "origin": "",
               "type": "markdown",
@@ -66781,6 +66676,21 @@
                 "en": "promotions-catalog-conditions-apply-to-skucomponent-even-when-only-adding-skukit-to-cart",
                 "es": "las-condiciones-del-catalogo-de-promociones-se-aplican-a-skucomponent-aunque-solo-anada-skukit-a-la-cesta",
                 "pt": "as-condicoes-do-catalogo-de-promocoes-se-aplicam-ao-skucomponent-mesmo-quando-apenas-o-skukit-e-adicionado-ao-carrinho"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Promotions may accumulate with manual prices when accumulateWithManualPrice is not explicitly set",
+                "es": "Las promociones pueden acumularse con los precios manuales cuando no se establece explícitamente la opción accumulateWithManualPrice.",
+                "pt": "As promoções podem acumular com preços manuais quando `accumulateWithManualPrice` não for explicitamente definido."
+              },
+              "slug": {
+                "en": "promotions-may-accumulate-with-manual-prices-when-accumulatewithmanualprice-is-not-explicitly-set",
+                "es": "las-promociones-pueden-acumularse-con-los-precios-manuales-cuando-no-se-establece-explicitamente-la-opcion-accumulatewithmanualprice",
+                "pt": "as-promocoes-podem-acumular-com-precos-manuais-quando-accumulatewithmanualprice-nao-for-explicitamente-definido"
               },
               "origin": "",
               "type": "markdown",
@@ -69840,6 +69750,21 @@
           "children": [
             {
               "name": {
+                "en": "Category mapping spreadsheet does not include offers in WaitingReview",
+                "es": "La hoja de cálculo de asignación de categorías no incluye ofertas en WaitingReview.",
+                "pt": "A planilha de mapeamento de categorias não inclui ofertas em WaitingReview."
+              },
+              "slug": {
+                "en": "category-mapping-spreadsheet-does-not-include-offers-in-waitingreview",
+                "es": "la-hoja-de-calculo-de-asignacion-de-categorias-no-incluye-ofertas-en-waitingreview",
+                "pt": "a-planilha-de-mapeamento-de-categorias-nao-inclui-ofertas-em-waitingreview"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Markeplace-IN Suggestions API cursor pagination (_next) only covers Pending suggestions and may look like it stopped early",
                 "es": "Markeplace-IN La paginación del cursor de la API de sugerencias (_next) solo cubre las sugerencias pendientes y puede parecer que se detuvo antes de tiempo.",
                 "pt": "Markeplace-IN A paginação do cursor da API de sugestões (_next) abrange apenas sugestões pendentes e pode parecer que parou antes do tempo."
@@ -69848,6 +69773,36 @@
                 "en": "markeplacein-suggestions-api-cursor-pagination-next-only-covers-pending-suggestions-and-may-look-like-it-stopped-early",
                 "es": "markeplacein-la-paginacion-del-cursor-de-la-api-de-sugerencias-next-solo-cubre-las-sugerencias-pendientes-y-puede-parecer-que-se-detuvo-antes-de-tiempo",
                 "pt": "markeplacein-a-paginacao-do-cursor-da-api-de-sugestoes-next-abrange-apenas-sugestoes-pendentes-e-pode-parecer-que-parou-antes-do-tempo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Search filter not working outside the first page in received SKU section",
+                "es": "El filtro de búsqueda no funciona fuera de la primera página en la sección de SKU recibidos.",
+                "pt": "O filtro de pesquisa não está funcionando fora da primeira página na seção de SKUs recebidos."
+              },
+              "slug": {
+                "en": "search-filter-not-working-outside-the-first-page-in-received-sku-section",
+                "es": "el-filtro-de-busqueda-no-funciona-fuera-de-la-primera-pagina-en-la-seccion-de-sku-recibidos",
+                "pt": "o-filtro-de-pesquisa-nao-esta-funcionando-fora-da-primeira-pagina-na-secao-de-skus-recebidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Seller invite Route not found after account creation",
+                "es": "Invitación del vendedor Ruta no encontrada después de la creación de la cuenta",
+                "pt": "Convite do vendedor Rota não encontrada após a criação da conta"
+              },
+              "slug": {
+                "en": "seller-invite-route-not-found-after-account-creation",
+                "es": "invitacion-del-vendedor-ruta-no-encontrada-despues-de-la-creacion-de-la-cuenta",
+                "pt": "convite-do-vendedor-rota-nao-encontrada-apos-a-criacao-da-conta"
               },
               "origin": "",
               "type": "markdown",
@@ -69924,6 +69879,21 @@
                 "en": "amazon-order-cancellation-flow",
                 "es": "amazon-proceso-de-cancelacion-de-pedidos",
                 "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon Order Status is not revised when reprocessing order on bridge",
+                "es": "El estado del pedido de Amazon no se actualiza al reprocesar el pedido en Bridge.",
+                "pt": "O status do pedido da Amazon não é atualizado ao reprocessar o pedido na plataforma."
+              },
+              "slug": {
+                "en": "amazon-order-status-is-not-revised-when-reprocessing-order-on-bridge",
+                "es": "el-estado-del-pedido-de-amazon-no-se-actualiza-al-reprocesar-el-pedido-en-bridge",
+                "pt": "o-status-do-pedido-da-amazon-nao-e-atualizado-ao-reprocessar-o-pedido-na-plataforma"
               },
               "origin": "",
               "type": "markdown",
@@ -70036,6 +70006,21 @@
             },
             {
               "name": {
+                "en": "Dafiti Image URLs converted to WebP cause rejection by markeplace (image type unsupported)",
+                "es": "Dafiti Las URL de imágenes convertidas a WebP provocan el rechazo del mercado (tipo de imagen no compatible).",
+                "pt": "Dafiti URLs de imagens convertidas para WebP causam rejeição pelo marketplace (tipo de imagem não suportado)"
+              },
+              "slug": {
+                "en": "dafiti-image-urls-converted-to-webp-cause-rejection-by-markeplace-image-type-unsupported",
+                "es": "dafiti-las-url-de-imagenes-convertidas-a-webp-provocan-el-rechazo-del-mercado-tipo-de-imagen-no-compatible",
+                "pt": "dafiti-urls-de-imagens-convertidas-para-webp-causam-rejeicao-pelo-marketplace-tipo-de-imagem-nao-suportado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Dafiti Installment interest incorrectly increases item sellingPrice in Dafiti orders",
                 "es": "Dafiti El interés de las cuotas aumenta incorrectamente el precio de venta del artículo en los pedidos de Dafiti.",
                 "pt": "Dafiti O cálculo de juros parcelados aumenta incorretamente o preço de venda dos itens em pedidos da Dafiti."
@@ -70089,6 +70074,21 @@
                 "en": "magazine-luiza-integration-not-support-multiple-packages",
                 "es": "magazine-luiza-la-integracion-no-admite-multiples-paquetes",
                 "pt": "magazine-luiza-a-integracao-nao-suporta-varios-pacotes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Magazine Luiza Order canceled on marketplace didn't update status on VTEX",
+                "es": "Magazine Luiza El pedido cancelado en el mercado no se actualizó en VTEX.",
+                "pt": "Magazine Luiza Pedido cancelado no marketplace, mas o status não foi atualizado no VTEX"
+              },
+              "slug": {
+                "en": "magazine-luiza-order-canceled-on-marketplace-didnt-update-status-on-vtex",
+                "es": "magazine-luiza-el-pedido-cancelado-en-el-mercado-no-se-actualizo-en-vtex",
+                "pt": "magazine-luiza-pedido-cancelado-no-marketplace-mas-o-status-nao-foi-atualizado-no-vtex"
               },
               "origin": "",
               "type": "markdown",
@@ -70209,6 +70209,21 @@
                 "en": "shopee-order-code-001-invalid-email",
                 "es": "shopee-codigo-de-pedido-001-correo-electronico-no-valido",
                 "pt": "shopee-codigo-do-pedido-001-email-invalido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Product Protection amount is added to the shipping total of integrated orders",
+                "es": "Shopee El importe de la protección del producto se añade al total del envío de los pedidos integrados.",
+                "pt": "Shopee O valor da Proteção do Produto é adicionado ao total do frete de pedidos integrados."
+              },
+              "slug": {
+                "en": "shopee-product-protection-amount-is-added-to-the-shipping-total-of-integrated-orders",
+                "es": "shopee-el-importe-de-la-proteccion-del-producto-se-anade-al-total-del-envio-de-los-pedidos-integrados",
+                "pt": "shopee-o-valor-da-protecao-do-produto-e-adicionado-ao-total-do-frete-de-pedidos-integrados"
               },
               "origin": "",
               "type": "markdown",
