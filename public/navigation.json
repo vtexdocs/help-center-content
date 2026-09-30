@@ -12206,9 +12206,24 @@
                     },
                     {
                       "name": {
-                        "en": "4. VTEX Sales App - Basic settings",
-                        "es": "4. VTEX Sales App - Configuración básica",
-                        "pt": "4. VTEX Sales App - Configurações Básicas"
+                        "en": "4. Define the account architecture for VTEX Sales App",
+                        "es": "4. Definir la arquitectura de la cuenta para VTEX Sales App",
+                        "pt": "4. Definir a arquitetura da conta para o VTEX Sales App"
+                      },
+                      "slug": {
+                        "en": "define-the-vtex-sales-app-account-architecture",
+                        "es": "definir-la-arquitectura-de-la-cuenta-para-vtex-sales-app",
+                        "pt": "definir-a-arquitetura-da-conta-para-o-vtex-sales-app"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "5. VTEX Sales App - Basic settings",
+                        "es": "5. VTEX Sales App - Configuración básica",
+                        "pt": "5. VTEX Sales App - Configurações Básicas"
                       },
                       "slug": {
                         "en": "vtex-sales-app-basic-settings",
@@ -12221,9 +12236,9 @@
                     },
                     {
                       "name": {
-                        "en": "5. Managing physical stores in VTEX Sales App",
-                        "es": "5. Gestionar tiendas físicas en VTEX Sales App",
-                        "pt": "5. Gerenciar lojas físicas no VTEX Sales App"
+                        "en": "6. Managing physical stores in VTEX Sales App",
+                        "es": "6. Gestionar tiendas físicas en VTEX Sales App",
+                        "pt": "6. Gerenciar lojas físicas no VTEX Sales App"
                       },
                       "slug": {
                         "en": "managing-physical-stores-in-vtex-sales-app",
@@ -12236,9 +12251,9 @@
                     },
                     {
                       "name": {
-                        "en": "6. Managing sales associates in VTEX Sales App",
-                        "es": "6. Gestionar vendedores en VTEX Sales App",
-                        "pt": "6. Gerenciar vendedores no VTEX Sales App"
+                        "en": "7. Managing sales associates in VTEX Sales App",
+                        "es": "7. Gestionar vendedores en VTEX Sales App",
+                        "pt": "7. Gerenciar vendedores no VTEX Sales App"
                       },
                       "slug": {
                         "en": "managing-sales-associates-in-vtex-sales-app",
@@ -12251,9 +12266,9 @@
                     },
                     {
                       "name": {
-                        "en": "7. Register the barcode of the SKUs for VTEX Sales App",
-                        "es": "7. Registrar el código de barras de los SKUs para VTEX Sales App",
-                        "pt": "7. Cadastrar o código de barras dos SKUs para o VTEX Sales App"
+                        "en": "8. Register the barcode of the SKUs for VTEX Sales App",
+                        "es": "8. Registrar el código de barras de los SKUs para VTEX Sales App",
+                        "pt": "8. Cadastrar o código de barras dos SKUs para o VTEX Sales App"
                       },
                       "slug": {
                         "en": "register-the-barcode-of-the-skus-for-vtex-sales-app",
@@ -12266,9 +12281,9 @@
                     },
                     {
                       "name": {
-                        "en": "8. Customizing VTEX Sales App",
-                        "es": "8. Personalización de VTEX Sales App",
-                        "pt": "8. Customizar o VTEX Sales App"
+                        "en": "9. Customizing VTEX Sales App",
+                        "es": "9. Personalización de VTEX Sales App",
+                        "pt": "9. Customizar o VTEX Sales App"
                       },
                       "slug": {
                         "en": "customizing-vtex-sales-app",
@@ -54220,21 +54235,6 @@
             },
             {
               "name": {
-                "en": "API Shipping Estimate returns wrong info when SC is null",
-                "es": "La API Shipping Estimate devuelve información errónea cuando la SC es nula",
-                "pt": "API Shipping Estimate devolve informações erradas quando SC é nulo"
-              },
-              "slug": {
-                "en": "api-shipping-estimate-returns-wrong-info-when-sc-is-null",
-                "es": "la-api-shipping-estimate-devuelve-informacion-erronea-cuando-la-sc-es-nula",
-                "pt": "api-shipping-estimate-devolve-informacoes-erradas-quando-sc-e-nulo"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "AvailableQuantity value inconsistent due to the large number of routes created to deliver the item",
                 "es": "Valor de AvailableQuantity incoherente debido al gran número de rutas creadas para entregar el artículo.",
                 "pt": "Valor de AvailableQuantity inconsistente devido ao grande número de rotas criadas para entregar o item"
@@ -54438,21 +54438,6 @@
                 "en": "inventory-divergence-logistics-handle-zero-on-left-as-another-sku",
                 "es": "divergencia-de-inventario-la-logistica-maneja-el-cero-a-la-izquierda-como-otra-sku",
                 "pt": "divergencia-de-estoque-a-logistica-nao-tem-o-mesmo-tratamento-a-esquerda-que-outra-sku"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Inventory divergence in UI x API due to warehouse id being case sensitive",
-                "es": "Divergencia de inventario en UI x API debido a que el id de almacén distingue entre mayúsculas y minúsculas",
-                "pt": "Divergência de inventário na IU x API devido à identificação do depósito ser sensível a maiúsculas e minúsculas"
-              },
-              "slug": {
-                "en": "inventory-divergence-in-ui-x-api-due-to-warehouse-id-being-case-sensitive",
-                "es": "divergencia-de-inventario-en-ui-x-api-debido-a-que-el-id-de-almacen-distingue-entre-mayusculas-y-minusculas",
-                "pt": "divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas"
               },
               "origin": "",
               "type": "markdown",
