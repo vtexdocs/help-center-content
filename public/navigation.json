@@ -54,14 +54,14 @@
                 },
                 {
                   "name": {
-                    "en": "Ship from store for marketplaces available in open beta",
-                    "es": "Ship from store for marketplaces",
-                    "pt": "Ship from store para marketplaces disponível em open beta"
+                    "en": "Personal Shopper will be discontinued",
+                    "es": "Personal Shopper será descontinuado",
+                    "pt": "Personal Shopper será descontinuado"
                   },
                   "slug": {
-                    "en": "2026-09-15-ship-from-store-for-marketplace",
-                    "es": "2026-09-15-ship-from-store-for-marketplaces",
-                    "pt": "2026-09-15-inventario-regionalizado-disponivel-para-o-magalu"
+                    "en": "2026-09-22-personal-shopper-will-be-discontinued",
+                    "es": "2026-09-22-personal-shopper-sera-descontinuado",
+                    "pt": "2026-09-22-personal-shopper-sera-descontinuado"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -23854,21 +23854,6 @@
             },
             {
               "name": {
-                "en": "Personal Shopper",
-                "es": "Personal Shopper",
-                "pt": "Personal Shopper"
-              },
-              "slug": {
-                "en": "personal-shopper-overview",
-                "es": "personal-shopper-vision-general",
-                "pt": "visao-geral-do-personal-shopper"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Setting up price and availability of SKUs by Region",
                 "es": "Configurar el precio y la disponibilidad de SKUs por Region",
                 "pt": "Configurar preço e disponibilidade de SKUs regionalmente"
@@ -31537,21 +31522,6 @@
                     "en": "refurbished-products-on-mercado-libre",
                     "es": "productos-reacondicionados-en-mercado-libre",
                     "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Ship from store for marketplaces",
-                    "es": "Ship from store para marketplaces",
-                    "pt": "Ship from store para marketplaces"
-                  },
-                  "slug": {
-                    "en": "ship-from-store-for-marketplaces",
-                    "es": "ship-from-store-para-marketplaces",
-                    "pt": "ship-from-store-para-marketplaces"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -48693,6 +48663,21 @@
             },
             {
               "name": {
+                "en": "\"View in Pages\" link in Planner Calendar opens a broken URL with literal",
+                "es": "El enlace \"Ver en páginas\" en el Calendario del planificador abre una URL rota con un error literal.",
+                "pt": "O link \"Ver em Páginas\" no Calendário do Planejador abre uma URL quebrada com um texto literal."
+              },
+              "slug": {
+                "en": "view-in-pages-link-in-planner-calendar-opens-a-broken-url-with-literal",
+                "es": "el-enlace-ver-en-paginas-en-el-calendario-del-planificador-abre-una-url-rota-con-un-error-literal",
+                "pt": "o-link-ver-em-paginas-no-calendario-do-planejador-abre-uma-url-quebrada-com-um-texto-literal"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Advanced store settings being registered globally insted of by binding",
                 "es": "La configuración avanzada de la tienda se registra a nivel global en lugar de mediante vinculación",
                 "pt": "As configurações avançadas da loja estão sendo registradas globalmente, em vez de por meio de vinculação"
@@ -57961,7 +57946,7 @@
             {
               "name": {
                 "en": "Error with event system at the end of a transaction causes an order to be incomplete",
-                "es": "Un error en el sistema de eventos al final de una transacción provoca que un pedido quede incompleto",
+                "es": "Un error en el sistema de eventos al final de una transacción provoca que un pedido quede incompleto.",
                 "pt": "Um erro no sistema de eventos no final de uma transação faz com que um pedido fique incompleto"
               },
               "slug": {
@@ -70224,6 +70209,21 @@
                 "en": "shopee-order-code-001-invalid-email",
                 "es": "shopee-codigo-de-pedido-001-correo-electronico-no-valido",
                 "pt": "shopee-codigo-do-pedido-001-email-invalido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Product Protection amount is added to the shipping total of integrated orders",
+                "es": "Shopee El importe de la protección del producto se añade al total del envío de los pedidos integrados.",
+                "pt": "Shopee O valor da Proteção do Produto é adicionado ao total do frete de pedidos integrados."
+              },
+              "slug": {
+                "en": "shopee-product-protection-amount-is-added-to-the-shipping-total-of-integrated-orders",
+                "es": "shopee-el-importe-de-la-proteccion-del-producto-se-anade-al-total-del-envio-de-los-pedidos-integrados",
+                "pt": "shopee-o-valor-da-protecao-do-produto-e-adicionado-ao-total-do-frete-de-pedidos-integrados"
               },
               "origin": "",
               "type": "markdown",
