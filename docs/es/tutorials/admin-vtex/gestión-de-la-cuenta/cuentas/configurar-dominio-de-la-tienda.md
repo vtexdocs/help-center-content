@@ -3,7 +3,7 @@ title: 'Configurar dominio de la tienda'
 id: tutorials_2450
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:00.603Z
-updatedAt: 2025-03-20T21:58:47.611Z
+updatedAt: 2026-10-01T18:48:35.000Z
 publishedAt: 2025-03-20T21:58:47.611Z
 firstPublishedAt: 2017-04-27T23:03:51.625Z
 contentType: tutorial

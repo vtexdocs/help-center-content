@@ -3,7 +3,7 @@ title: 'Certificado de segurança (SSL)'
 id: tutorials_1308
 status: PUBLISHED
 createdAt: 2017-04-27T21:56:41.946Z
-updatedAt: 2025-04-01T20:13:59.166Z
+updatedAt: 2026-10-01T18:48:35.000Z
 publishedAt: 2025-04-01T20:13:59.166Z
 firstPublishedAt: 2017-04-27T23:03:50.121Z
 contentType: tutorial
