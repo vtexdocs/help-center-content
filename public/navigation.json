@@ -131,6 +131,37 @@
             },
             {
               "name": {
+                "en": "Setembro",
+                "es": "Setembro",
+                "pt": "Setembro"
+              },
+              "slug": {
+                "en": "setembro",
+                "es": "setembro",
+                "pt": "2026-setembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Atualização da base de endereços da Bolívia",
+                    "en": "Atualização da base de endereços da Bolívia",
+                    "es": "Atualização da base de endereços da Bolívia"
+                  },
+                  "slug": {
+                    "pt": "2026-09-30-atualizacao-da-base-de-enderecos-da-bolivia",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "August",
                 "es": "Agosto",
                 "pt": "Agosto"
@@ -70225,6 +70256,37 @@
                 "en": "notifications-from-the-personal-shopper-are-not-arriving-on-whatsapp",
                 "es": "las-notificaciones-del-asistente-personal-de-compras-no-llegan-a-whatsapp",
                 "pt": "as-notificacoes-do-personal-shopper-nao-estao-chegando-no-whatsapp"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "VTEX shield",
+            "es": "VTEX shield",
+            "pt": "VTEX shield"
+          },
+          "slug": {
+            "en": "vtex-shield",
+            "es": "vtex-shield",
+            "pt": "vtex-shield"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Audit CSV export fails for large result sets while the UI reports success",
+                "es": "La exportación de auditoría CSV falla para conjuntos de resultados grandes, aunque la interfaz de usuario informa que se realizó correctamente.",
+                "pt": "A exportação de CSV para auditoria falha para conjuntos de resultados grandes, embora a interface do usuário relate sucesso."
+              },
+              "slug": {
+                "en": "audit-csv-export-fails-for-large-result-sets-while-the-ui-reports-success",
+                "es": "la-exportacion-de-auditoria-csv-falla-para-conjuntos-de-resultados-grandes-aunque-la-interfaz-de-usuario-informa-que-se-realizo-correctamente",
+                "pt": "a-exportacao-de-csv-para-auditoria-falha-para-conjuntos-de-resultados-grandes-embora-a-interface-do-usuario-relate-sucesso"
               },
               "origin": "",
               "type": "markdown",
