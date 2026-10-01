@@ -43,7 +43,7 @@ The shipping strategy is the relationship between inventory, loading dock, and s
     </tr>
 </table>
 
-> ℹ️ VTEX supports up to 10,000 shipping routes per account. A route represents each possible combination of loading dock, inventory, shipping policy, and [sales channel](/docs/tutorials/how-trade-policies-work) in your store. The total number of routes is calculated by multiplying the number of these four entities. When this threshold is exceeded, the available number of items may be displayed inconsistently in the store. Therefore, when setting up your shipping strategy, avoid creating combinations that won't be used.
+> ℹ️ VTEX supports up to 10,000 shipping routes per account. A route represents each possible combination of loading dock, inventory, shipping policy, and [sales channel](/en/docs/tutorials/how-trade-policies-work) in your store. The total number of routes is calculated by multiplying the number of these four entities. When this threshold is exceeded, the available number of items may be displayed inconsistently in the store. Therefore, when setting up your shipping strategy, avoid creating combinations that won't be used.
 
 ## Initial logistics settings
 
@@ -55,4 +55,4 @@ You can configure initial settings through the VTEX Admin or via API. If you are
 | 2. [Loading dock](/en/docs/tutorials/loading-dock) | [Managing loading docks](/en/docs/tutorials/managing-loading-docks) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
 | 3. [Warehouse](/en/docs/tutorials/warehouse) | [Managing warehouses](/en/docs/tutorials/managing-warehouses) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |
 
-> ⚠️ Changes to logistics settings (inventory, loading dock, and shipping policy) don't automatically trigger a new catalog indexing. Even after fixing your shipping strategy, products may remain unavailable on the website until the catalog is indexed again. You can track the process on the [Indexing history](https://help.vtex.com/docs/tutorials/indexing-history) page. If products are still unavailable after that, [open a ticket with VTEX Support](https://help.vtex.com/docs/tutorials/opening-tickets-to-vtex-support).
+> ⚠️ Changes to logistics settings (inventory, loading dock, and shipping policy) don't automatically trigger a new catalog indexing. Even after fixing your shipping strategy, products may remain unavailable on the website until the catalog is indexed again. You can track the process on the [Indexing history](https://help.vtex.com/en/docs/tutorials/indexing-history) page. If products are still unavailable after that, [open a ticket with VTEX Support](https://help.vtex.com/en/docs/tutorials/opening-tickets-to-vtex-support).

@@ -46,7 +46,7 @@ Ao adotar qualquer uma dessas estratégias, você mantém a disponibilidade do p
 
 Se o [estoque futuro](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/items/-skuId-/warehouses/-warehouseId-/supplyLots/-supplyLotId-) estiver configurado para o SKU, o abastecimento desse item poderia levar um tempo a mais que o previsto, e nesse período a indisponibilidade poderia ser por falta de estoque do produto.
 
-> ⚠️ Caso a sua loja tenha [contas franquia](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex), para que o inventário dessas contas esteja disponível para vendas, os produtos precisam estar vinculados à mesma [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) usada na sua vitrine.
+> ⚠️ Caso a sua loja tenha [contas franquia](/pt/docs/tracks/contas-e-arquitetura#tipos-de-conta-na-vtex), para que o inventário dessas contas esteja disponível para vendas, os produtos precisam estar vinculados à mesma [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) usada na sua vitrine.
 
 ## Estratégia de envio
 

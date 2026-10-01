@@ -27,7 +27,7 @@ La estrategia de envío está definida por tres entidades logísticas:
 * [Muelle](/es/docs/tutorials/muelles): punto de recogida del almacén. Es a través del muelle que la tienda define la recogida de los paquetes. Las transportadoras recogen los paquetes para envío en el muelle.
 * [Almacén](/es/docs/tutorials/almacen): identificación del lugar donde se almacenan los ítems. La política de envío no es la única variable para elegir la entrega, también hay que tener en cuenta en qué almacén se encuentran los productos del pedido. 
 
-> ℹ️ Hay otros escenarios posibles para el uso del muelle, consulta el artículo [Muelle](/es/docs/tutorials/muelles) y comprueba los casos de uso. Para saber más sobre el flujo de entregas, consulta el artículo [¿Cómo funciona el flujo de entregas?](/es/tutorial/como-funciona-el-flujo-de-entregas--4ku3QKWfxmUO8UgA0yqgUq).
+> ℹ️ Hay otros escenarios posibles para el uso del muelle, consulta el artículo [Muelle](/es/docs/tutorials/muelles) y comprueba los casos de uso. Para saber más sobre el flujo de entregas, consulta el artículo [¿Cómo funciona el flujo de entregas?](/es/docs/tutorials/fulfillment-logistica-vtex).
 
 Ten en cuenta que:
 
@@ -62,7 +62,7 @@ Para las [estrategias de envío](/es/docs/tutorials/estrategia-de-envio) que uti
 2. [Política de envío](/es/docs/tutorials/politica-de-envio)
 3. [Plantilla de envío](/es/docs/tutorials/plantilla-de-flete)
 4. [Muelle](/es/docs/tutorials/gestionar-el-muelle) 
-5. [Almacén](/es/tutorial/gestionar-el-muelle--7k3fultd8i2cuua6iygeiw)
+5. [Almacén](/es/docs/tutorials/gestionar-almacenes)
 6. [Registro de geolocalización](/es/docs/tutorials/gestionar-geolocalizacion)
 7. Configuración de los puntos de recogida disponibles en el _checkout_
 

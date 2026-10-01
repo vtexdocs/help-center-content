@@ -38,7 +38,7 @@ Please note that:
 * Shipping includes both delivery and pickup.
 * Delivery is a type of shipping where the customer receives the items purchased on the ecommerce at their address.
 
-> ℹ️ VTEX supports up to 10,000 shipping routes per account. A route represents each possible combination of loading dock, inventory, shipping policy, and [sales channel](/docs/tutorials/how-trade-policies-work) in your store. The total number of routes is calculated by multiplying the number of these four entities. When this threshold is exceeded, the available number of items may be displayed inconsistently in the store. Therefore, when setting up your shipping strategy, avoid creating combinations that won't be used.
+> ℹ️ VTEX supports up to 10,000 shipping routes per account. A route represents each possible combination of loading dock, inventory, shipping policy, and [sales channel](/en/docs/tutorials/how-trade-policies-work) in your store. The total number of routes is calculated by multiplying the number of these four entities. When this threshold is exceeded, the available number of items may be displayed inconsistently in the store. Therefore, when setting up your shipping strategy, avoid creating combinations that won't be used.
 
 ## Configuration
 
@@ -66,7 +66,7 @@ When configuring [shipping strategies](/en/docs/tutorials/shipping-strategy) tha
 6. [Geolocation](/en/docs/tutorials/registering-geolocation);
 7. Configuration of the pickup points available at checkout.
 
-> ⚠️ For more information, see the article [Configuring pickup points](https://help.vtex.com/docs/tutorials/pickup-points#how-to-set-up-pickup-points).
+> ⚠️ For more information, see the article [Configuring pickup points](https://help.vtex.com/en/docs/tutorials/pickup-points#how-to-set-up-pickup-points).
 
 ## Shipping time and holidays
 
@@ -83,7 +83,7 @@ For more details about the SLA calculation, read the article [How is the deliver
 
 Holidays are important in determining the shipping time, as they are directly related to the delivery time of your store's orders. VTEX considers holidays to be days when the store does not operate.
 
-> ⚠️ We recommend that you add the holidays after configuring the [shipping strategies](/docs/tutorials/shipping-strategy).
+> ⚠️ We recommend that you add the holidays after configuring the [shipping strategies](/en/docs/tutorials/shipping-strategy).
 
 To register holidays on the platform, you can:
 
@@ -92,5 +92,5 @@ To register holidays on the platform, you can:
 
 You can register delivery times for scheduled deliveries from carriers and pickup points. The **[Scheduled delivery](/en/docs/tutorials/scheduled-delivery)** feature allows stores to offer delivery windows to their customers.
 
-> ℹ️ Shipping also depends on the [shipping cost](/en/docs/tutorials/total-shipping-cost) that your store offers to customers. This subject will be covered in the following articles. For more information about how carriers are chosen for deliveries, see the article [How shipping is calculated](/docs/tutorials/how-shipping-calculation-works).
+> ℹ️ Shipping also depends on the [shipping cost](/en/docs/tutorials/total-shipping-cost) that your store offers to customers. This subject will be covered in the following articles. For more information about how carriers are chosen for deliveries, see the article [How shipping is calculated](/en/docs/tutorials/how-shipping-calculation-works).
 

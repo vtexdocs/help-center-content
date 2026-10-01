@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-Sometimes, even if you configure the product correctly and [it's displayed as available on the product listing page](/faq/why-is-the-product-not-visible-on-the-website), the item may become unavailable when added to the cart. Different [logistics](/docs/tutorials/fulfillment-logistics-vtex) aspects may contribute to the product unavailability in the cart. The following topics can help identify potential reasons:
+Sometimes, even if you configure the product correctly and [it's displayed as available on the product listing page](/en/faq/why-is-the-product-not-visible-on-the-website), the item may become unavailable when added to the cart. Different [logistics](/en/docs/tutorials/fulfillment-logistics-vtex) aspects may contribute to the product unavailability in the cart. The following topics can help identify potential reasons:
 
 * [Shipping Simulator](#shipping-simulator)
 * [Inventory](#inventory)
@@ -46,7 +46,7 @@ By adopting any of the following inventory strategies, you can ensure product av
 
 If [future inventory](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/items/-skuId-/warehouses/-warehouseId-/supplyLots/-supplyLotId-) is configured for the SKU, the supply of this item could take longer than expected. In this period, the unavailability could be due to a lack of stock.
 
-> ⚠️ If your store has [franchise accounts](/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex), for the inventory of these accounts to be available for sale, the products must be linked to the same [sales channel](/en/docs/tutorials/how-trade-policies-work) used in your storefront.
+> ⚠️ If your store has [franchise accounts](/en/docs/tracks/accounts-and-architecture#vtex-account-types), for the inventory of these accounts to be available for sale, the products must be linked to the same [sales channel](/en/docs/tutorials/how-trade-policies-work) used in your storefront.
 
 ## Shipping strategy
 
@@ -63,7 +63,7 @@ In terms of shipping strategy, the list below shows the main situations that lea
 
 > ℹ️ These situations must be considered in the context of the sale. Having an inactive warehouse does not make the product unavailable, but if it is the only one warehouse serving as the shipping route and is inactive, the product becomes unavailable in the cart.
 
-> ℹ️ VTEX supports up to 10,000 shipping routes per account. A route represents each possible combination of loading dock, inventory, shipping policy, and [sales channel](/docs/tutorials/how-trade-policies-work) in your store. The total number of routes is calculated by multiplying the number of these four entities. When this threshold is exceeded, the available number of items may be displayed inconsistently in the store. Therefore, when setting up your shipping strategy, avoid creating combinations that won't be used.
+> ℹ️ VTEX supports up to 10,000 shipping routes per account. A route represents each possible combination of loading dock, inventory, shipping policy, and [sales channel](/en/docs/tutorials/how-trade-policies-work) in your store. The total number of routes is calculated by multiplying the number of these four entities. When this threshold is exceeded, the available number of items may be displayed inconsistently in the store. Therefore, when setting up your shipping strategy, avoid creating combinations that won't be used.
 
 ## Shipping policy settings
 

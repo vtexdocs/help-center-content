@@ -46,7 +46,7 @@ Adoptando cualquiera de las siguientes estrategias, mantendrás la disponibilida
 
 Si el [stock futuro](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/items/-skuId-/warehouses/-warehouseId-/supplyLots/-supplyLotId-) está configurado para el SKU, el suministro del ítem podría tardar más de lo esperado. Durante ese periodo, la indisponibilidad podría deberse a la falta del stock del producto.
 
-> ⚠️ Si tu tienda tiene [cuentas franquicia](/es/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex), para que el stock de las cuentas esté disponible para la venta, los productos deben estar asociados a la misma [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) de la vitrina.
+> ⚠️ Si tu tienda tiene [cuentas franquicia](/es/docs/tracks/cuentas-y-arquitectura#tipos-de-cuenta-vtex), para que el stock de las cuentas esté disponible para la venta, los productos deben estar asociados a la misma [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) de la vitrina.
 
 ## Estrategia de envío
 
