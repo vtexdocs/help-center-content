@@ -1,7 +1,7 @@
 ---
 title: 'VTEX Pick and Pack: Configurações'
 createdAt: 2024-01-05T20:43:38.480Z
-updatedAt: 2026-09-28T00:00:00.000Z
+updatedAt: 2026-10-01T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: vtex-pick-and-pack-settings
@@ -222,7 +222,7 @@ Nesta seção, você escolhe quais informações dos itens serão exibidas no ap
 ![vtex-pick-and-pack-configuracoes_17](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-configuracoes_17.png)
 
 * **Dados do cartão dos itens no aplicativo de separação de pedidos:** informações dos produtos que serão exibidas no cartão dos itens no [aplicativo móvel do Pick and Pack](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet).
-* **Ativar transferência de itens:** opção que permite entregar um item a partir de uma localização diferente da instalação especificada originalmente.
+* **Ativar transferência de itens:** opção que permite entregar um item a partir de uma localização diferente da instalação especificada originalmente. Esta funcionalidade está em fase de testes e pode apresentar inconsistências durante o uso.
 * **Ativar localização do item:** opção que atribui um código único a cada SKU para localizar os itens mais facilmente na loja ou no estoque. Para mais informações desta configuração, consulte a [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-api).
 * **Códigos:** código de localização do item. Para mais informações desta configuração, consulte a [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-api).
 * **Exemplo:** campo que permite visualizar como o código de localização será gerado. Para mais informações desta configuração, consulte a [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-api).
