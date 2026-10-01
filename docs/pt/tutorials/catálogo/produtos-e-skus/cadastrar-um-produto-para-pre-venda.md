@@ -3,7 +3,7 @@ title: 'Cadastrar um produto para pré-venda'
 id: 4o6cUJ4gIg0MQWW8WfN34K
 status: PUBLISHED
 createdAt: 2021-09-08T16:32:39.818Z
-updatedAt: 2025-11-06T15:35:57.132Z
+updatedAt: 2026-10-01T16:18:00.000Z
 publishedAt: 2025-11-06T15:35:57.132Z
 firstPublishedAt: 2021-09-14T16:54:57.039Z
 contentType: tutorial
@@ -15,15 +15,16 @@ locale: pt
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-Na plataforma VTEX, os lojistas podem definir a data prevista para a chegada de um produto e ofertá-lo em modo de pré-venda. A pré-venda permite ao cliente reservar o produto mediante pagamento antes da sua data de disponibilização no mercado.
+Na plataforma VTEX, os lojistas podem vender um produto antes de ele chegar ao estoque, em modo de pré-venda. Nesse modo, o cliente compra e paga pelo item antecipadamente, e o prazo de entrega é calculado a partir da data prevista de chegada do item ao estoque.
 
 Neste artigo iremos abordar os seguintes tópicos:
 
 - [Criar produto para a pré-venda](#criar-produto-para-a-pre-venda)
+- [Validar a configuração](#validar-a-configuracao)
 - [Agendar preços](#agendar-precos)
 - [Agendar conteúdo](#agendar-conteudo)
 
-> ⚠️ Configurar o campo **Data de lançamento** para um produto não impacta sua visibilidade na frente de loja, que é determinada pela ativação ou desativação do campo **Mostrar no site**.
+> ℹ️ O que ativa a pré-venda é o campo **Data de pré-venda**, configurado no SKU. O campo **Data de lançamento**, configurado no produto, não interfere na pré-venda nem na visibilidade do produto na frente de loja, que é determinada pelo campo **Mostrar no site**.
 
 ## Criar produto para a pré-venda
 
@@ -31,26 +32,38 @@ Para disponibilizar um produto para pré-venda, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite **Produtos e SKUs** na barra de busca no topo da página.
 2. Clique em `+ Adicionar produto`.
-3. Na seção **Frente de loja**, no campo **Data de lançamento**, selecione a data em que lançará o produto. 
+3. (Opcional) Na seção **Frente de loja**, no campo **Data de lançamento**, selecione a data em que lançará o produto.
 
-  > ℹ️ Este campo é utilizado para auxiliar na ordenação do resultado de busca do site. Por meio da querystring `O=OrderByReleaseDateDESC`, é possível puxar esse valor e mostrar a ordem de exibição por data de lançamento. Além disso, o valor deste campo influencia a criação de [coleções automáticas](/pt/docs/tutorials/cadastrar-colecoes-beta) e determina a data de [indexação](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao) do produto.
+  > ℹ️ Este campo não ativa a pré-venda nem altera o prazo de entrega. Ele é utilizado para ordenar o resultado de busca do site. Por meio da querystring `O=OrderByReleaseDateDESC`, é possível exibir os produtos ordenados por data de lançamento. O valor deste campo também é considerado na criação de [coleções automáticas](/pt/docs/tutorials/cadastrar-colecoes-beta) e na data de [indexação](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao) do produto.
 
 4. Preencha os demais campos para a criação do produto. Saiba mais em [Adicionar ou editar produto](/pt/docs/tutorials/adicionar-ou-editar-produto).
 5. Clique em `Salvar`.
 6. Clique na aba `SKUs`.
 7. Clique no sinal `+` **> Adicionar novo SKU**.
-8. Na seção **Estratégia comercial**, no campo **Data de pré-venda**, selecione a data prevista para a chegada do item nas lojas e sua disponibilização para venda.
+8. Na seção **Estratégia comercial**, no campo **Data de pré-venda**, selecione a data prevista de chegada do item ao estoque, ou seja, a data em que ele ficará disponível para envio. O SKU pode ser vendido antes dessa data, e a entrega é calculada a partir dela.
 
-  > ℹ️ Para realizar essa configuração, é preciso considerar tanto a data de lançamento do item quanto o cálculo do envio do item para os clientes: `tempo final de entrega = SLA de entrega + prazo de recebimento do lote de abastecimento`.
+  > ℹ️ A data estimada de entrega exibida ao cliente é calculada somando o SLA de entrega à data de pré-venda: `data estimada de entrega = data de pré-venda + SLA de entrega`. Saiba mais em [Como funciona o cálculo de envio](/pt/docs/tutorials/como-funciona-o-calculo-de-envio).
 
 9. Preencha os demais campos para a criação do SKU. Saiba mais em [Adicionar ou editar SKU](/pt/docs/tutorials/adicionar-ou-editar-sku).
 10. Clique em `Salvar`.
+11. Cadastre a quantidade disponível do SKU no estoque. Saiba mais em [Atualização da quantidade de itens em estoque](/pt/docs/tutorials/atualizacao-da-quantidade-de-itens-em-estoque).
 
-> ⚠️ O pedido do item em pré-venda só deverá ser faturado a partir da data de lançamento, isto é, quando houver sua disponibilidade para vendas.
+  > ⚠️ A **Data de pré-venda** não torna o item vendável por si só. O cliente só consegue comprar o SKU em pré-venda se ele tiver quantidade disponível em estoque.
+
+> ℹ️ O pedido do item em pré-venda só deverá ser faturado a partir da data de pré-venda, isto é, quando o item estiver disponível em estoque para envio.
+
+## Validar a configuração
+
+Para confirmar que o prazo de entrega do SKU está sendo calculado a partir da data de pré-venda sem precisar fazer um pedido real, simule a compra de uma das formas abaixo:
+
+- **Na frente de loja:** adicione o SKU ao carrinho, avance até o checkout e informe um CEP de entrega. Confira se o prazo de entrega exibido é contado a partir da data de pré-venda. Não é necessário finalizar a compra.
+- **Via API:** envie uma requisição para o endpoint [Cart simulation](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pub/orderForms/simulation) da Checkout API com o SKU e o CEP desejados. Confira o prazo de entrega retornado no objeto `logisticsInfo` da resposta.
+
+> ⚠️ O [Simulador de envio](/pt/docs/tutorials/simulador-de-envio) do Admin VTEX não considera a **Data de pré-venda** no prazo de entrega total. Por isso, utilize uma das opções acima para validar a configuração.
 
 ## Agendar preços
 
-Para agendar os preços fixos da sua loja para a pré-venda de um produto, siga os passos descritos em [Agendar preços](/pt/docs/tutorials/agendar-preco). 
+Para agendar os preços fixos da sua loja para a pré-venda de um produto, siga os passos descritos em [Agendar preços](/pt/docs/tutorials/agendar-preco).
 
 ## Agendar conteúdo
 
