@@ -13,6 +13,8 @@ tags:
   - Faturamento
 ---
 
+> ⚠️ Essa funcionalidade está disponível apenas para clientes com faturamento no México.
+
 Clientes com faturamento no México agora podem baixar o **complemento de pago** diretamente no Admin VTEX, na página **Faturas**. O complemento de pago é um documento fiscal mexicano que comprova um pagamento já realizado e é exigido pelo Serviço de Administração Tributária (SAT) para faturas emitidas com o método de pagamento em parcelas ou diferido (PPD).
 
 ## O que mudou?
@@ -22,8 +24,6 @@ Antes, o complemento de pago era enviado apenas por email, logo após ser emitid
 O documento fica disponível no Admin VTEX depois de emitido e retornado com sucesso pelo fluxo de integração fiscal aplicável.
 
 ## O que precisa ser feito?
-
-> ⚠️ Essa funcionalidade está disponível apenas para clientes com faturamento no México.
 
 Para baixar o complemento de pago, siga estes passos:
 
