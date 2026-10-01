@@ -23839,21 +23839,6 @@
             },
             {
               "name": {
-                "en": "Personal Shopper",
-                "es": "Personal Shopper",
-                "pt": "Personal Shopper"
-              },
-              "slug": {
-                "en": "personal-shopper-overview",
-                "es": "personal-shopper-vision-general",
-                "pt": "visao-geral-do-personal-shopper"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Setting up price and availability of SKUs by Region",
                 "es": "Configurar el precio y la disponibilidad de SKUs por Region",
                 "pt": "Configurar preço e disponibilidade de SKUs regionalmente"
