@@ -46,8 +46,7 @@ Para baixar o complemento de pago, siga estes passos:
 
 1. No Admin VTEX, clique no seu avatar — identificado pela inicial do seu email — no canto superior direito da tela.
 2. Clique em **Informações de faturamento > Faturas**.
-3. Localize a fatura desejada.
-4. Clique em **Abrir complemento de pago**.
+3. Localize a fatura desejada e clique em **Abrir complemento de pago**.
 
 Caso o complemento de pago não tenha chegado por email nem esteja disponível no Admin VTEX, [abra um ticket para o suporte financeiro](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex#suporte-financeiro-e-comercial) para solicitar o documento.
 
