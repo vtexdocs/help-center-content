@@ -54,21 +54,6 @@
                 },
                 {
                   "name": {
-                    "en": "Personal Shopper will be discontinued",
-                    "es": "Personal Shopper será descontinuado",
-                    "pt": "Personal Shopper será descontinuado"
-                  },
-                  "slug": {
-                    "en": "2026-09-22-personal-shopper-will-be-discontinued",
-                    "es": "2026-09-22-personal-shopper-sera-descontinuado",
-                    "pt": "2026-09-22-personal-shopper-sera-descontinuado"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "VTEX CX Platform: WhatsApp automation execution logs",
                     "es": "VTEX CX Platform: logs de ejecución de las automatizaciones de WhatsApp",
                     "pt": "VTEX CX Platform: logs de execução das automações de WhatsApp"
