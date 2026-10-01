@@ -1,0 +1,6 @@
+{
+  "id": "orders",
+  "name": "Pedidos",
+  "slug": "orders",
+  "order": 10
+}

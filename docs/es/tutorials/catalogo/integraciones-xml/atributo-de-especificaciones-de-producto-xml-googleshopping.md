@@ -42,7 +42,7 @@ Creando un Grupo abarcando los atributos descriptos más arriba de forma a cumpl
 
 Crearemos un **Grupo** de nombre &#8220;Atributos Google&#8221; en la categoría raíz de la Tienda:
 
-1.En el Admin VTEX, accede a __Catálogo__, o escribe __Catálogo__ en la barra de búsqueda en la parte superior de la página.
+1. En el Admin VTEX, accede a __Catálogo__, o escribe __Catálogo__ en la barra de búsqueda en la parte superior de la página.
 2. Haga clic en __Categorías__.
 3. Haga clic en la categoría raíz.
    Al hacer esto, la categoría seleccionada aparece resaltada, acompañada del botón `Acciones`.
@@ -57,7 +57,7 @@ Aquí será necesario crear cuatro casillas para cada siguiente atributo discuti
 
 #### Cómo crear una casilla de producto
 
-1.En el Admin VTEX, accede a __Catálogo__, o escribe __Catálogo__ en la barra de búsqueda en la parte superior de la página.
+1. En el Admin VTEX, accede a __Catálogo__, o escribe __Catálogo__ en la barra de búsqueda en la parte superior de la página.
 2. Haga clic en __Categorías__.
 3. Haga clic en la categoría raíz.
    Al hacer esto, la categoría seleccionada aparece resaltada, acompañada del botón `Acciones`.

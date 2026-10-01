@@ -34,7 +34,7 @@ Para vender seus produtos na AMARO, o seller deve cumprir os seguintes pré-requ
 - Ter capacidade produtiva interna ou por meio de contratação de terceiros identificados.  
 - Atender aos requisitos do Código de Conduta da AMARO.  
 
-Cumprindo os requisitos citados, o seller deverá entrar em contato com o time de Marcas Parcerias AMARO cadastrando-se no [formulário](https://nocodb.amaro.pro/dashboard/?utm_source=vtex&utm_medium=logo&utm_campaign=hunting#/nc/form/a54bc346-95a0-4497-aceb-5137df1b09c8), ou através do email [sellers@amaro.com](sellers@amaro.com). Com isso, os departamentos de Marcas Parceiras e Compliance avaliarão a solicitação.  
+Cumprindo os requisitos citados, o seller deverá entrar em contato com o time de Marcas Parcerias AMARO cadastrando-se no [formulário](https://nocodb.amaro.pro/dashboard/?utm_source=vtex&utm_medium=logo&utm_campaign=hunting#/nc/form/a54bc346-95a0-4497-aceb-5137df1b09c8), ou através do email [sellers@amaro.com](mailto:sellers@amaro.com). Com isso, os departamentos de Marcas Parceiras e Compliance avaliarão a solicitação.  
 
 Uma vez aprovada a parceria, o time AMARO disponibilizará a URL do Seller Center AMARO.  
 
@@ -77,7 +77,7 @@ Para criar um novo ID do afiliado, siga os passos abaixo:
 3. Preencha os campos da tela, descritos abaixo, e em seguida clique em Salvar.
   - __Nome:__ designação do novo afiliado.  
   - __ID:__ código identificador do afiliado, deve ser composto de três consoantes, sejam elas repetidas ou não. Vogais não são aceitas. A sugestão é usar MRR para a AMARO.  
-  -__Política Comercial:__ número da política comercial que definirá o sortimento de catálogo, preço e estratégia de envio dos itens utilizados na integração com a AMARO.  
+  - __Política Comercial:__ número da política comercial que definirá o sortimento de catálogo, preço e estratégia de envio dos itens utilizados na integração com a AMARO.  
   - __E-mail de Follow Up:__ endereço eletrônico que receberá notificações sobre a integração.  
   - __Endpoint de Search:__ URL da aplicação que receberá notificações de produtos, preço, estoque, dentre outras. O seller será informado sobre este dado pela AMARO.  
   - __Versão do Endpoint de Search:__ só existe a opção padrão 1.x.x.
@@ -91,11 +91,11 @@ Uma vez concluídas as configurações na plataforma VTEX, para dar continuidade
 
 Alguns dos dados a serem enviados são encontrados no seu Admin VTEX, são eles:  
 
--__Nome da conta:__ identificador da sua empresa no sistema da VTEX. Para encontrá-lo, acesse o Admin VTEX em Configurações da conta > Conta > Geral.
--__Dados de autenticação do sistema:__ *appToken e appKey* definidos na etapa [Criar novo *AppKey e AppToken*](#criar-novo-appkey-e-apptoken).
--__ID do afiliado:__ identificador configurado na etapa [Criar ID do afiliado](#criar-id-do-afiliado).
+- __Nome da conta:__ identificador da sua empresa no sistema da VTEX. Para encontrá-lo, acesse o Admin VTEX em Configurações da conta > Conta > Geral.
+- __Dados de autenticação do sistema:__ *appToken e appKey* definidos na etapa [Criar novo *AppKey e AppToken*](#criar-novo-appkey-e-apptoken).
+- __ID do afiliado:__ identificador configurado na etapa [Criar ID do afiliado](#criar-id-do-afiliado).
 __- Política comercial:__ número da política comercial determinada na etapa [Definir política comercial](#definir-politica-comercial).
--__ID do Seller:__ o valor a ser informado é o número 1. Para encontrá-lo, acesse o Admin no módulo *Marketplace > Sellers > Gerenciamento > ID do Seller*.  
+- __ID do Seller:__ o valor a ser informado é o número 1. Para encontrá-lo, acesse o Admin no módulo *Marketplace > Sellers > Gerenciamento > ID do Seller*.  
 
 Uma vez que o seller tenha reunido esses dados, deverá enviá-los para o contato informado pelo time de Marcas Parceiras da AMARO. Desta forma,a integração será concluída pelo marketplace.  
 

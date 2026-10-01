@@ -24,7 +24,7 @@ Your customers can shop using Apple Pay, the [digital wallet](/en/docs/tracks/di
 
 ## Setting up the payment provider
 
-Firstly, you need to configure a provider in your store's Admin that processes transactions with Apple Pay, such as [Adyen](/en/tutorial/configuring-payment-with-adyenv3) and [Stripe](/en/docs/tutorials/configuring-stripe-gateway-affiliation).
+Firstly, you need to configure a provider in your store's Admin that processes transactions with Apple Pay, such as [Adyen](/en/docs/tutorials/configuring-payment-with-adyenv3-in-vtex-sales-app) and [Stripe](/en/docs/tutorials/configuring-stripe-gateway-affiliation).
 
 To check all the provider options available for this payment method, access the list as described in Step 5 of the section [Set up payment with Apple Pay](#setting-up-payment-with-apple-pay).
 

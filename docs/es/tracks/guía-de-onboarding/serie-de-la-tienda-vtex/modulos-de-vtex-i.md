@@ -169,7 +169,7 @@ Existe una diferencia entre las tablas de precios creadas para [políticas comer
 
 Las listas de precios no asociadas a políticas comerciales pueden utilizarse en contextos como __promociones__ y __clústeres de clientes__. Las tablas creadas para políticas comerciales solo pueden asociarse a la propia política comercial. Así, la tabla de precios asociada a una política comercial informa el precio de los SKU de esa política y no puede asociarse a otros contextos.
 
-> ⚠️ Los conceptos de **tabla de precios** y [política comercial](LINK) son diferentes. La política comercial es el contexto al que se asocia una tabla de precios.
+> ⚠️ Los conceptos de __tabla de precios__ y [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) son diferentes. La política comercial es el contexto al que se asocia una tabla de precios.
 
 A la hora de configurar una política comercial, es imprescindible [especificar la moneda que se utilizará en la tienda](/es/docs/tutorials/crear-una-politica-comercial). La creación de diferentes políticas comerciales, cada una asociada a una moneda distinta, permite a la tienda mostrar a los clientes los precios en diferentes monedas. 
 
@@ -216,7 +216,7 @@ Para todas las promociones puede establecerse un periodo de validez, así como r
 
 Consulta más información sobre las posibilidades de aplicar promociones en el artículo [Ejemplos de promociones](/es/docs/tutorials/ejemplos-de-promociones).
 
-###  Crear cupones
+### Crear cupones
 
 Puedes crear cupones de descuento en el [Admin VTEX](/es/docs/tutorials/crear-cupon-beta) o a través de [API](https://developers.vtex.com/docs/guides/creating-and-managing-coupons-with-promotions-api). Para utilizarlo, el cupón debe estar vinculado al menos a una promoción.
 
@@ -298,7 +298,7 @@ El [muelle](/es/docs/tutorials/muelles) es el lugar desde el que se distribuyen 
 
 Para determinados productos, puede no ser necesario un espacio físico de distribución. Aun así, para el correcto funcionamiento de las operaciones de la plataforma VTEX hay que configurar el muelle obligatoriamente.
 
-####  Almacén
+#### Almacén
 
 La ruta logística se inicia en el [almacén](/es/docs/tutorials/almacen), que es el espacio físico de almacenamiento para los productos que vende la tienda. Cuando los ítems vendidos se alistan en el almacén, se envían al muelle de carga.
 
