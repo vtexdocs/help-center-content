@@ -10,7 +10,7 @@ locale: pt
 announcementSynopsisPT: 'Clientes com faturamento no México agora podem baixar o complemento de pago diretamente na página Faturas do Admin VTEX.'
 tags:
   - Nova funcionalidade
-  - Faturamento
+  - Pagamentos
 ---
 
 > ⚠️ Essa funcionalidade está disponível apenas para clientes com faturamento no México.
