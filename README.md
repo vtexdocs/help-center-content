@@ -153,7 +153,7 @@ The existing values and their context are:
 | **Admin**              | **Admin**              | **Admin**              | VTEX Admin.                                                   |
 | **Checkout**           | **Checkout**           | **Checkout**           | Validation, reCAPTCHA, cart functionality.                    |
 | **Catalog**            | **Catálogo**          | **Catálogo**          | Products, categories, SKUs, specifications.                   |
-| **Payments**           | **Pagamentos**         | **Pagos**              | Gateway, Payment Provider Protocol, payment methods, Billing.          |
+| **Payments**           | **Pagamentos**         | **Pagos**              | Gateway, Payment Provider Protocol, payment methods.          |
 | **Orders**             | **Pedidos**            | **Pedidos**            | Order Management System (OMS), order processing.              |
 | **Promotions**         | **Promoções**        | **Promociones**        | Discounts, coupons, campaigns, pricing rules.                 |
 | **Prices**             | **Preços**            | **Precios**            | Price tables, fixed prices, computed prices, price rules.     |
@@ -170,6 +170,7 @@ The existing values and their context are:
 | **VTEX Ads**           | **VTEX Ads**           | **VTEX Ads**           | VTEX Ads news.                                                |
 | **B2B Buyer Portal**   | **B2B Buyer Portal**   | **B2B Buyer Portal**   | B2B Buyer Portal news.                                        |
 | **VTEX Sales App**     | **VTEX Sales App**     | **VTEX Sales App**     | VTEX Sales App news.                                          |
+| **Billing**            | **Faturamento**        | **Facturación**        | Billing, invoices, financial statements.                      |
 
 > ℹ️ If you wish to add or remove a filter value, you have to manage them in the [helpcenter](https://github.com/vtexdocs/helpcenter) repository.
 
