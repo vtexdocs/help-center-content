@@ -71,7 +71,7 @@ Una vez que se haya creado el nuevo template de email o se hayan utilizado los d
 
 ### Liberación del SPF
 
-La liberación del SPF es fundamental para evitar problemas de entregabilidad del e-mail, y debe ser realizada conforme al artículo [Configuraçión del SPF](/es/tutorial/configuracao-de-spf--42t0lkl2VyC6Yewc4wA6wI#).
+La liberación del SPF es fundamental para evitar problemas de entregabilidad del e-mail, y debe ser realizada conforme al artículo [Configuraçión del SPF](https://help.vtex.com/es/docs/tutorials/configurar-spf).
 
 Como buena práctica para configurar DNS para un dominio genérico (no obligatorio), siga el siguiente ejemplo:
 

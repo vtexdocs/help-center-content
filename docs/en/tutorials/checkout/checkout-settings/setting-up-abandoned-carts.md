@@ -72,7 +72,7 @@ Once the new email template has been created or the data from the default templa
 
 ### SPF Release
 
-The SPF release is essential to avoid problems with email deliverability and must be performed according to this article on [SPF configuration](/en/tutorial/configuracao-de-spf--42t0lkl2VyC6Yewc4wA6wI#).
+The SPF release is essential to avoid problems with email deliverability and must be performed according to this article on [SPF configuration](https://help.vtex.com/en/docs/tutorials/best-practices-on-spf).
 
 As a good practice for configuring DNS for a generic domain (not mandatory), follow the example below:
 
