@@ -36,19 +36,20 @@ Para gerar uma nota fiscal, siga estes passos:
 
 ### Baixar o complemento de pago
 
->⚠️ As instruções desta seção se aplicam apenas a clientes com faturamento no México.
+> ⚠️ As instruções desta seção se aplicam apenas a clientes com faturamento no México.
 
-O complemento de pago (nome oficial de um documento fiscal mexicano) comprova um pagamento já realizado referente a uma fatura e é exigido pela regulação do Serviço de Administração Tributária mexicano (SAT) para faturas emitidas no método PPD (pagamento em parcelas/diferido).
+O complemento de pago (nome oficial de um documento fiscal mexicano) comprova um pagamento já realizado. Ele é exigido pela regulação do Serviço de Administração Tributária mexicano (SAT) para faturas emitidas com o método de pagamento em parcelas ou diferido (PPD).
 
-O documento fica disponível no Admin VTEX depois de emitido e retornado com sucesso pelo fluxo de integração fiscal aplicável. Ele também é enviado automaticamente por e-mail no momento em que é emitido, além de ficar disponível no Admin.
+O documento fica disponível no Admin VTEX depois de emitido e retornado com sucesso pelo fluxo de integração fiscal aplicável. Além disso, ele é enviado automaticamente por email logo após ser emitido.
 
 Para baixar o complemento de pago, siga estes passos:
 
-1. No Admin VTEX, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito da tela.
+1. No Admin VTEX, clique no seu avatar — identificado pela inicial do seu email — no canto superior direito da tela.
 2. Clique em **Informações de faturamento > Faturas**.
-3. Localize a fatura desejada e clique em **Abrir complemento de pago**.
+3. Localize a fatura desejada.
+4. Clique em **Abrir complemento de pago**.
 
-Caso o complemento de pago não tenha chegado por e-mail nem esteja disponível no Admin VTEX, [abra um ticket para o suporte financeiro](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex#suporte-financeiro-e-comercial) para solicitar o documento.
+Caso o complemento de pago não tenha chegado por email nem esteja disponível no Admin VTEX, [abra um ticket para o suporte financeiro](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex#suporte-financeiro-e-comercial) para solicitar o documento.
 
 ### Gerar um boleto
 
