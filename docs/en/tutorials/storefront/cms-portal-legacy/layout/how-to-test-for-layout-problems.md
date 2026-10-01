@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ Tutorial valid only for Legacy CMS Stores.
+> ⚠️ This tutorial only applies to [CMS Portal (Legacy)](https://help.vtex.com/docs/tracks/legacy-cms-portal) stores.
 
 When we encounter scenarios where there is strange behavior on the website, there are certain procedures that we can adopt to track the origin of the doubt.
 

@@ -3,7 +3,7 @@ title: 'Pago con tarjeta vía VTEX Sales App (sin terminal)'
 id: 48OR7InFvdLW6hekvfESs3
 status: PUBLISHED
 createdAt: 2025-03-28T15:33:24.822Z
-updatedAt: 2025-10-29T20:05:52.877Z
+updatedAt: 2026-09-22T20:05:52.877Z
 publishedAt: 2025-10-29T20:05:52.877Z
 firstPublishedAt: 2025-03-28T16:09:38.187Z
 contentType: tutorial
@@ -24,7 +24,7 @@ Con esta funcionalidad, la compra se procesa a través del mismo gateway de la t
 Este artículo presenta la solución **Pago con tarjeta vía VTEX Sales App** y se estructura en las siguientes secciones:
 
 - [Características](#caracteristicas)
-- [Beneficios](#beneficios) 
+- [Beneficios](#beneficios)
 - [Casos de uso](#casos-de-uso)
 - [Configuración](#configuracion)
 - [Cómo utilizar la solución](#como-utilizar-la-solucion)
@@ -35,11 +35,11 @@ El **Pago con tarjeta vía VTEX Sales App** consta de las siguientes caracterís
 
 - ✅ Permite pagos con las mismas redes de tarjetas de crédito utilizadas en la tienda de ecommerce.
 - ✅ Incluye las mismas [condiciones de pago](/es/docs/tutorials/diferencia-entre-medios-de-pago-y-condiciones-de-pago) y cuotas disponibles en la tienda de ecommerce.
-- ✅ Cumple con la [normativa PCI](/es/tutorial/o-que-e-o-pci-ssc), es decir, protege los datos de los clientes y no almacena información sensible.
+- ✅ Cumple con la [normativa PCI](https://help.vtex.com/es/docs/tutorials/que-es-el-pci-ssc), es decir, protege los datos de los clientes y no almacena información sensible.
 
 La funcionalidad presenta algunas restricciones:
 
-- ❌ No admite [tarjetas de tienda ](/es/docs/tutorials/configurar-pagos-con-private-label)(private label) de terceros.
+- ❌ No admite [tarjetas de tienda](/es/docs/tutorials/configurar-pagos-con-private-label) (private label) de terceros.
 - ❌ No permite el uso de varias tarjetas en una misma compra.
 
 ## Beneficios
@@ -78,7 +78,7 @@ Al [configurar VTEX Sales App](/es/docs/tracks/vtex-sales-app-configuracion-basi
 
 Para utilizar el **Pago con tarjeta vía Sales App** hay dos configuraciones principales que deben estar activas, una en Checkout y otra en Pagos.
 
-#### Configuración en Checkout 
+#### Configuración en Checkout
 
 Los IDs de las redes de tarjetas de crédito deben estar activados como medios de pago en la configuración de pagos de VTEX Sales App. Para comprobar que estén activos, sigue los pasos a continuación:
 
@@ -111,6 +111,9 @@ Sigue los pasos a continuación para finalizar pedidos utilizando **Pago con tar
 1. En el checkout de **VTEX Sales App**, en el paso `Selecciona un medio de pago`, haz clic en `Ingresar tarjeta`.
 2. Selecciona la opción para escanear la tarjeta o ingresa los datos manualmente.
 3. Captura automáticamente los datos de la tarjeta con la pantalla de captura o llena los datos de forma manual. Es necesario escanear la parte delantera y trasera de la tarjeta.
+
+  > ⚠️ Solo será posible rellenar el CVV cuando el número de tarjeta sea válido.
+
 4. Después de la aprobación del pago, la confirmación de la compra se realiza en **VTEX Sales App**.
 
 > ℹ️ Los clientes pueden realizar el escaneo de la tarjeta o el ingreso manual de los datos ellos mismos si así lo desean.
