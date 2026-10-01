@@ -70216,37 +70216,6 @@
               "children": []
             }
           ]
-        },
-        {
-          "name": {
-            "en": "VTEX shield",
-            "es": "VTEX shield",
-            "pt": "VTEX shield"
-          },
-          "slug": {
-            "en": "vtex-shield",
-            "es": "vtex-shield",
-            "pt": "vtex-shield"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Audit CSV export fails for large result sets while the UI reports success",
-                "es": "La exportación de auditoría CSV falla para conjuntos de resultados grandes, aunque la interfaz de usuario informa que se realizó correctamente.",
-                "pt": "A exportação de CSV para auditoria falha para conjuntos de resultados grandes, embora a interface do usuário relate sucesso."
-              },
-              "slug": {
-                "en": "audit-csv-export-fails-for-large-result-sets-while-the-ui-reports-success",
-                "es": "la-exportacion-de-auditoria-csv-falla-para-conjuntos-de-resultados-grandes-aunque-la-interfaz-de-usuario-informa-que-se-realizo-correctamente",
-                "pt": "a-exportacao-de-csv-para-auditoria-falha-para-conjuntos-de-resultados-grandes-embora-a-interface-do-usuario-relate-sucesso"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
         }
       ]
     }
