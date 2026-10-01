@@ -691,6 +691,37 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "October",
+                "es": "Octubre",
+                "pt": "Outubro"
+              },
+              "slug": {
+                "en": "october",
+                "es": "octubre",
+                "pt": "outubro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Pago complement download now available in VTEX Admin",
+                    "es": "Descarga del complemento de pago disponible en el Admin VTEX",
+                    "pt": "Download do complemento de pago disponível no Admin VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-10-01-pago-complement-download-now-available-in-vtex-admin",
+                    "es": "2026-10-01-descarga-del-complemento-de-pago-disponible-en-el-admin-vtex",
+                    "pt": "2026-10-01-download-do-complemento-de-pago-disponivel-no-admin-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
@@ -70225,6 +70256,37 @@
                 "en": "notifications-from-the-personal-shopper-are-not-arriving-on-whatsapp",
                 "es": "las-notificaciones-del-asistente-personal-de-compras-no-llegan-a-whatsapp",
                 "pt": "as-notificacoes-do-personal-shopper-nao-estao-chegando-no-whatsapp"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "VTEX shield",
+            "es": "VTEX shield",
+            "pt": "VTEX shield"
+          },
+          "slug": {
+            "en": "vtex-shield",
+            "es": "vtex-shield",
+            "pt": "vtex-shield"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Audit CSV export fails for large result sets while the UI reports success",
+                "es": "La exportación de auditoría CSV falla para conjuntos de resultados grandes, aunque la interfaz de usuario informa que se realizó correctamente.",
+                "pt": "A exportação de CSV para auditoria falha para conjuntos de resultados grandes, embora a interface do usuário relate sucesso."
+              },
+              "slug": {
+                "en": "audit-csv-export-fails-for-large-result-sets-while-the-ui-reports-success",
+                "es": "la-exportacion-de-auditoria-csv-falla-para-conjuntos-de-resultados-grandes-aunque-la-interfaz-de-usuario-informa-que-se-realizo-correctamente",
+                "pt": "a-exportacao-de-csv-para-auditoria-falha-para-conjuntos-de-resultados-grandes-embora-a-interface-do-usuario-relate-sucesso"
               },
               "origin": "",
               "type": "markdown",
