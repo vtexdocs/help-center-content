@@ -3,7 +3,7 @@ title: 'Facturación'
 id: 6UxfCl4fw4GmyQwoUuIcQs
 status: PUBLISHED
 createdAt: 2018-05-17T20:22:30.358Z
-updatedAt: 2026-08-11T00:00:00.000Z
+updatedAt: 2026-09-28T00:00:00.000Z
 publishedAt: 2025-09-04T20:02:13.442Z
 firstPublishedAt: 2018-05-17T20:24:17.809Z
 contentType: tutorial
@@ -26,6 +26,7 @@ Para acceder a esta página haz clic en el avatar con la inicial de tu email, ub
 - [Facturas](#facturas)
 - [Datos de registro](#datos-de-registro)
 - [Contactos de facturación](#contactos-de-facturacion)
+- [Créditos](#creditos)
 
 ![vision-general-facturacion](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/admin-vtex/facturacion/vision-general-facturacion-1.png)
 
@@ -43,8 +44,12 @@ Para consultar el detalle de cada factura consulta el artículo [Verificar el de
 
 ## Datos de registro
 
-La página **Datos de registro** reúne la información que ingresaste al registrar tu tienda. Solo puedes editar tu nombre y tu dirección. Para modificar otra información consulta el artículo [Modificar los datos de registro de mi tienda](/es/docs/tutorials/modificar-los-datos-de-registro-de-la-tienda).
+La página **Datos de registro** reúne la información que ingresaste al registrar tu tienda. Solo puedes editar tu nombre y tu dirección. Para modificar otra información consulta el artículo [Modificar datos de registro de la tienda](/es/docs/tutorials/modificar-datos-de-registro-de-la-tienda).
 
 ## Contactos de facturación
 
 La página **Contactos de facturación** reúne los datos del usuario propietario del entorno VTEX. Estos son los contactos que recibirán las facturas al momento de su emisión, así como todas las comunicaciones financieras de tu cuenta. Puedes editar estos datos y agregar nuevos contactos.
+
+## Créditos
+
+La página **Créditos** muestra el saldo y el consumo de tu [Cartera de Crédito](/es/docs/tutorials/cartera-de-credito). Este crédito de facturación se concede automáticamente a tu empresa y se utiliza para descontar el cobro de Master Data.

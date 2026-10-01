@@ -3,7 +3,7 @@ title: 'Master Data'
 id: 4otjBnR27u4WUIciQsmkAw
 status: PUBLISHED
 createdAt: 2018-04-02T19:01:38.026Z
-updatedAt: 2026-07-20T00:00:00.000Z
+updatedAt: 2026-09-28T00:00:00.000Z
 publishedAt: 2025-08-29T14:19:54.707Z
 firstPublishedAt: 2018-04-02T20:54:18.272Z
 contentType: tutorial
@@ -290,6 +290,8 @@ To learn about the amounts applicable to your operation, see your commercial agr
 
 For each payment made during the term of the agreement, a billing credit equivalent to 2% of the net amount paid for VTEX Commerce Platform and CX Commerce Platform products is granted. The credits accumulate throughout the agreement and remain available for use until its termination.
 
+> ℹ️ This credit is part of your Credit Wallet. To learn more about how it's calculated and how to check the balance and usage, see the [Credit Wallet](/en/docs/tutorials/credit-wallet) article.
+
 Measurement and billing follow a monthly cycle:
 
 - At the end of each month, a snapshot of the number of documents stored in custom entities is generated.
@@ -299,7 +301,7 @@ Measurement and billing follow a monthly cycle:
 
 > ℹ️ To track the number of documents in custom entities throughout the month, check the **Master Data usage** dashboard in the VTEX Admin. This dashboard is updated weekly and is intended only for usage tracking. To learn how to access it, see [Checking Master Data usage in the VTEX Admin](/docs/tutorials/checking-master-data-usage-in-the-vtex-admin).
 
-> ℹ️ To view billing details, learn how to [download VTEX invoices](/docs/tutorials/how-to-download-the-vtex-invoices).
+> ℹ️ To view billing details, learn how to [download VTEX invoices](/docs/tutorials/downloading-vtex-invoices).
 
 ## Use cases
 
