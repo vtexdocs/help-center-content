@@ -77,7 +77,7 @@ Como boa prática de configuração de DNS de um domínio genérico (não obriga
 
 ![Hostnames - SPF](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configurações-do-checkout/configurar-carrinho-abandonado_4.PNG)
 
-Saiba mais em [Configurar o apontamento de DNS para a VTEX](/pt/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280?&utm_source=autocomplete).
+Saiba mais em [Configurar o apontamento de DNS para a VTEX](https://help.vtex.com/pt/docs/tracks/go-live#realizar-apontamento-de-dns).
 
 ### Configurar trigger
 

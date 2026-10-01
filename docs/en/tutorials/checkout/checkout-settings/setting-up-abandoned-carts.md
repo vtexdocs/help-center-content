@@ -78,7 +78,7 @@ As a good practice for configuring DNS for a generic domain (not mandatory), fol
 
 ![Hostnames - SPF](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/checkout-settings/setting-up-abandoned-carts_4.PNG)
 
-Learn more at [Setting up DNS pointing to VTEX](/en/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280#).
+Learn more at [Setting up DNS pointing to VTEX](https://help.vtex.com/en/docs/tracks/go-live#setting-up-dns-pointing).
 
 ### Configuring trigger
 

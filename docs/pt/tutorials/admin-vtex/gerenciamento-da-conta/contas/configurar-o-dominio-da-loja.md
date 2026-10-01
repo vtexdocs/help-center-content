@@ -80,7 +80,7 @@ Para cadastrar um novo host, ele deve estar de acordo com as práticas apresenta
 7. Clique no botão `Adicionar`.
 8. Clique no botão `Salvar`.
 
-Após essas etapas, será possível [configurar o apontamento de DNS para a VTEX](/pt/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
+Após essas etapas, será possível [configurar o apontamento de DNS para a VTEX](https://help.vtex.com/pt/docs/tracks/go-live#realizar-apontamento-de-dns).
 
 > ⚠️ Lojas [FastStore](https://developers.vtex.com/docs/guides/faststore) também precisam configurar um endereço com o subdomínio `secure`. Acesse o guia [Configuring external DNS for a custom domain](https://developers.vtex.com/docs/guides/faststore/go-live-1-configuring-external-dns) para mais detalhes.
 
@@ -88,4 +88,4 @@ Após essas etapas, será possível [configurar o apontamento de DNS para a VTEX
 
 ## Mudar o host
 
-A plataforma VTEX é preparada para suportar mudanças de host sem impactos negativos. Caso seja necessário alterar o host da loja, siga o passo a passo descrito em [Alterar o domínio da loja](/pt/tutorial/alterar-o-dominio-da-loja--frequentlyAskedQuestions_626/).
+A plataforma VTEX é preparada para suportar mudanças de host sem impactos negativos. Caso seja necessário alterar o host da loja, siga o passo a passo descrito em [Alterar o domínio da loja](https://help.vtex.com/pt/docs/tutorials/alterar-o-dominio-da-loja).
