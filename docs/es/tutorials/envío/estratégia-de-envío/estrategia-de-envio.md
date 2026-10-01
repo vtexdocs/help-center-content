@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-Estrategia de envío es la relación entre stock, muelle y política de envío; es decir, la forma en que se comunican el stock, el muelle y la política de envío definirá la coordinación de la estructura de entrega de los pedidos de la tienda. 
+La estrategia de envío es la relación entre almacén, muelle y política de envío. La forma en que estos elementos se comunican definirá la combinación de la estructura de envío de los pedidos de la tienda.
 
 ![shipping_strategy_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/estratégia-de-envío/estrategia-de-envio_1.png)
 
@@ -52,3 +52,5 @@ Las configuraciones se pueden realizar a través del Admin VTEX o API. Si estás
 | 1. [Política de envío](/es/docs/tutorials/politica-de-envio) | [Crear una política de envío](/es/docs/tutorials/crear-una-politica-de-envio) | [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) |
 | 2. [Muelle](/es/docs/tutorials/muelles) | [Gestionar muelle](/es/docs/tutorials/gestionar-el-muelle) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
 | 3. [Almacén](/es/docs/tutorials/almacen) | [Gestionar almacenes](/es/docs/tutorials/gestionar-almacenes) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |
+
+> ⚠️ Los cambios en la configuración logística (almacén, muelle y política de envío) no activan automáticamente una nueva indexación del catálogo. Por eso, incluso después de corregir la estrategia de envío, los productos pueden continuar indisponibles en el sitio web hasta que el catálogo se indexe nuevamente. Puedes hacer seguimiento del proceso en la página [Historial de indexación](https://help.vtex.com/es/docs/tutorials/historial-de-indexacion) y, si los productos permanecen no disponibles, [abrir un ticket para Soporte VTEX](https://help.vtex.com/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex).
