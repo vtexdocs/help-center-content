@@ -30,7 +30,7 @@ Estratégia de envio é a relação entre estoque, doca e política de envio. A 
     </tr>
     <tr class="bb b--muted-3">
             <td class="t-body pa5" style="min-width: 15rem;">
-                **[Doca**](/pt/docs/tutorials/doca)
+                **[Doca](/pt/docs/tutorials/doca)**
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">Local de distribuição do estoque. Funciona como uma área de armazenamento de produtos para entrega.
             </td>
@@ -43,6 +43,8 @@ Estratégia de envio é a relação entre estoque, doca e política de envio. A 
             </td>
     </tr>
 </table>
+
+> ℹ️ A VTEX suporta até 10.000 rotas de envio por conta. Uma rota é cada combinação possível entre doca, estoque, política de envio e [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) cadastrados na sua loja, ou seja, o número de rotas é o resultado da multiplicação dessas quatro entidades. Quando esse limite é ultrapassado, a quantidade disponível dos itens pode ser exibida de forma inconsistente na loja. Por isso, ao montar a sua estratégia de envio, evite criar combinações que não serão utilizadas.
 
 ## Primeiras configurações logísticas
 
