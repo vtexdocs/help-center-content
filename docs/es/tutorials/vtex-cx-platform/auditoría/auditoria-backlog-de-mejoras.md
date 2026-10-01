@@ -8,87 +8,92 @@ slugEN: audit-improvements-backlog
 locale: es
 ---
 
-El **Backlog de mejoras** es una funcionalidad de VTEX CX Platform que analiza una muestra de las conversaciones de tu agente de inteligencia artificial (IA) e identifica patrones de falla recurrentes, como desviaciones de comportamiento, brechas de conocimiento y problemas técnicos.
+El **Backlog de mejoras** es una funcionalidad de VTEX CX Platform que analiza una muestra de las conversaciones de tu agente de inteligencia artificial (IA) e identifica patrones de fallas recurrentes, como desviaciones de comportamiento, vacíos de conocimiento y problemas técnicos.
 
-En lugar de revisar manualmente todas las conversaciones, ejecutas un análisis y recibes una lista organizada de problemas, cada uno con diagnóstico, solución sugerida y las conversaciones afectadas. A partir de ese reporte, puedes ajustar tu agente, agregar información en la base de conocimiento, entre otros.
+En lugar de revisar manualmente todas las conversaciones, ejecutas un análisis y recibes una lista organizada de problemas, cada uno con diagnóstico, solución sugerida y las conversaciones afectadas. A partir de este informe puedes ajustar tu agente, agregar información a la base de conocimiento, entre otros.
 
-> ℹ️ El análisis utiliza una muestra representativa de las conversaciones, no todas las conversaciones.
+> ℹ️ El análisis usa una muestra representativa de las conversaciones, no todas las conversaciones.
 
-El análisis evalúa los datos de tu operación e identifica oportunidades de mejora, que se muestran en el Backlog de mejoras. La ejecución es manual, lo que te permite elegir el mejor momento para actualizar los resultados.
+## Ejecutar un análisis
 
-Para ejecutar un análisis, sigue los pasos a continuación:
+>❗ Solo puedes ejecutar **un** análisis por día.
 
-1. En VTEX CX Platform, accede a **Auditoría**.
-2. Haz clic en la pestaña **Backlog de mejoras**.
-3. Haz clic en el botón `Ejecutar análisis`.
+>❗ Ejecutar un nuevo análisis reemplaza las entradas que no se resolvieron o que se ignoraron en el análisis anterior. Por eso recomendamos resolver las mejoras señaladas en el análisis anterior antes de ejecutar uno nuevo.
 
-Después de hacer clic en el botón, el análisis se ejecuta en segundo plano y puede tardar algunas horas en completarse. Durante el procesamiento, puedes seguir las primeras mejoras identificadas directamente en la pestaña Backlog de mejoras.
+Para ejecutar un análisis sigue los pasos a continuación:
 
->❗ Solo es posible ejecutar un análisis por día. Al ejecutar un nuevo análisis, los ítems no resueltos o ignorados del análisis anterior se reemplazan. Por lo tanto, recomendamos tratar las mejoras indicadas antes de iniciar una nueva ejecución.
+1. Accede a VTEX CX Platform.
+2. Ve al módulo **Auditoría**.
+3. Selecciona la pestaña **Backlog de mejoras**.
+4. Haz clic en `Ejecutar análisis`. El análisis empezará a ejecutarse en segundo plano.
 
-## Ver resultado del análisis
+> ℹ️ El análisis puede tardar algunas horas en completarse. Las mejoras identificadas se muestran según se van encontrando, sin esperar a que se terminen de procesar todos los datos.
 
-Los resultados aparecerán en una lista con tres columnas:
+## Ver el resultado del análisis
 
-- **Mejora:** Indica el tema que puede mejorarse o el problema identificado.
-- **Tipo:** Identifica el tipo de problema. Lee los tipos y la descripción de cada uno a continuación:
+Los resultados se muestran en una tabla con tres columnas:
+
+- **Mejora:** indica el tema que se puede mejorar o el problema identificado.
+- **Tipo:** identifica el tipo de problema. Consulta los tipos y la descripción de cada uno a continuación:
 
 | Tipos de problema | Descripción |
 | --- | --- |
-| **Comportamiento** | El agente se desvió del tono de voz esperado de la marca, hizo preguntas en exceso antes de ayudar o no siguió las instrucciones configuradas. |
-| **Conocimiento** | El agente necesitó información para responder al cliente, pero no la encontró en la base de conocimiento. |
-| **Problema técnico** | Falla técnica, como de integración externa. |
+| **Comportamiento** | El agente se salió del tono de voz esperado de la marca, hizo demasiadas preguntas antes de ayudar o no siguió las instrucciones configuradas. |
+| **Conocimientos** | El agente necesitó cierta información para responder al cliente, pero no la encontró en la base de conocimiento. |
+| **Problema técnico** | Falla técnica. Ejemplo: una integración externa. |
 | **Análisis personalizado** | Problema encontrado a partir de un monitor que configuraste. |
 
-- **Conversaciones afectadas:** Indica la cantidad de conversaciones afectadas por cada problema.
+- **Conversaciones afectadas:** indica la cantidad de conversaciones afectadas por cada problema.
 
-> ℹ️ La lista no tiene límite de ítems. Una misma conversación puede aparecer en más de un ítem, en caso de presentar más de un tipo de problema.
+> ℹ️ La lista no tiene límite de entradas. Una misma conversación puede aparecer en más de una entrada si presenta más de un tipo de problema.
 
 ## Investigar una mejora
 
-Haz clic en cualquier mejora para abrir el panel de detalle. El panel muestra la siguiente información:
+Haz clic en cualquier mejora para abrir el panel de detalles. El panel muestra la siguiente información:
 
-- **Diagnóstico:** La explicación de qué está sucediendo y por qué.
-- **Solución sugerida:** La recomendación de cómo corregir el problema.
-  - En el caso de un **Problema técnico**, la solución sugerida contiene el botón `Contactar al soporte técnico`. Esta solución envía un email con la información del error a nuestro equipo de Soporte para su análisis.
-- **Conversaciones afectadas:** La lista de las conversaciones en las que apareció el problema. Cuando hay muchas conversaciones, están paginadas, y cada fila puede expandirse para mostrar los fragmentos relevantes.
+- **Diagnóstico:** la explicación del problema y sus causas.
+- **Solución sugerida:** la recomendación de cómo corregir el problema.
+  - En el caso de un **Problema técnico** la solución sugerida contiene el botón `Soporte técnico`. Esta solución envía un email con la información del error a nuestro equipo de soporte para análisis.
+- **Conversaciones afectadas:** la lista de las conversaciones en las que ocurrió el problema. Cuando hay muchas conversaciones, se organizan de modo que cada fila puede expandirse para ver las partes relevantes.
 
-> ℹ️ Si la solución sugerida hace referencia a una instrucción que fue modificada o eliminada desde que se ejecutó el análisis, se muestra una advertencia. La sugerencia continúa en la lista; la advertencia solo señala que el escenario cambió desde el análisis.
+> ℹ️ Si la solución sugerida hace referencia a una instrucción que se modificó o se eliminó desde que se ejecutó el análisis, se muestra una notificación. La sugerencia permanece en la lista; la notificación solo indica que el escenario cambió desde el análisis.
 
-Al final de cada ítem, puedes seleccionar una de las dos acciones a continuación:
+Al final de cada entrada puedes seleccionar una de las siguientes dos acciones:
 
-- **`Marcar como resuelto`:** Cuando un ítem se resuelve, se elimina de la lista de pendientes. Recomendamos marcarlo como resuelto solo después de aplicar la corrección. Los ítems resueltos no volverán a aparecer en la lista ni en nuevos análisis.
+- **`Marcar como resuelta`:** la entrada se remueve de la lista de problemas pendientes al resolverla. Recomendamos marcarla como resuelta solo después de aplicar la corrección. Las entradas no resueltas no vuelven a mostrarse en la lista ni en nuevos análisis.
 
-> ⚠️ Marcar como resuelto no cambia el agente automáticamente. Debes implementar la mejora en las instrucciones o en la base de conocimiento.
+> ⚠️ La acción Marcar como resuelta no modifica el agente automáticamente. Debes implementar la mejora en las instrucciones o en la base de conocimiento.
 
-- **`Ignorar mejora`:** Cuando un ítem se ignora, se elimina de la lista inmediatamente. Recomendamos ignorarlo cuando no sea relevante o no vaya a tratarse. Los ítems ignorados no volverán a aparecer en la lista ni en nuevos análisis.
+- **`Ignorar mejora`:** la entrada se remueve de la lista inmediatamente al ignorarla. Recomendamos utilizar esta acción cuando la entrada no es relevante o no se va a tratar. Las entradas ignoradas no vuelven a aparecer en la lista ni en nuevos análisis.
 
 ## Crear análisis personalizado
 
-También puedes definir comportamientos propios para monitorear, específicos de tu negocio o de tu operación.
+También puedes definir comportamientos específicos de tu negocio o de tu operación que se deben monitorear.
 
-Para crear un análisis personalizado, sigue los pasos a continuación:
+Para crear un análisis personalizado sigue los pasos a continuación:
 
-1. En la pestaña **Backlog de mejoras**, haz clic en `Análisis personalizado`.
+1. En la pestaña **Backlog de mejoras** haz clic en `Análisis personalizado`.
 2. Completa los dos campos:
-  - **Título:** Nombre de la mejora identificada.
-  - **Definición:** Descripción del comportamiento que quieres monitorear.
+
+- **Título:** nombre de la mejora identificada.
+- **Definición:** descripción del comportamiento que deseas monitorear.
+
 3. Haz clic en `Agregar`.
 
-A partir de entonces, ese criterio se evaluará en los próximos análisis, con las otras mejoras. Los resultados aparecen en el backlog con el título que seleccionaste en **Mejoras** y con la etiqueta **Análisis personalizado**.
+A partir de ese momento, ese criterio pasa a evaluarse en los próximos análisis junto con las demás mejoras. Los resultados aparecen en el backlog con el título que seleccionaste en **Mejoras** y con la tag **Análisis personalizado**.
 
 > ℹ️ Puedes crear hasta 10 análisis personalizados por proyecto.
 
-## Ver y eliminar análisis personalizados creados
+## Ver y eliminar análisis personalizados
 
-Para ver los análisis que ya creaste, sigue los pasos a continuación:
+Para ver los análisis existentes sigue los pasos a continuación:
 
-1. En la pestaña **Backlog de mejoras**, haz clic en `Análisis personalizado`.
-2. Aparecerá la lista de análisis personalizados, con la cantidad de conversaciones afectadas por cada uno.
-3. Para ver las conversaciones afectadas, haz clic en el análisis deseado.
+1. En la pestaña **Backlog de mejoras** haz clic en `Análisis personalizado`.
+2. Esta pantalla muestra una lista de análisis personalizados con la cantidad de conversaciones afectadas de cada uno.
+3. Para ver las conversaciones afectadas haz clic en el análisis deseado.
 
-Para eliminar un análisis personalizado, sigue los pasos a continuación:
+Para eliminar un análisis personalizado sigue los pasos a continuación:
 
-1. En la pestaña **Backlog de mejoras**, haz clic en `Análisis personalizado`.
+1. En la pestaña **Backlog de mejoras** haz clic en `Análisis personalizado`.
 2. Haz clic en el botón de <i class="far fa-trash-alt" aria-hidden="true"></i> papelera al lado del análisis que deseas eliminar.
-3. Finalmente, haz clic en `Eliminar` para confirmar la eliminación.
+3. Por último, haz clic en `Eliminar` para confirmar la eliminación.

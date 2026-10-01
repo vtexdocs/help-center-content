@@ -1,6 +1,5 @@
 ---
 title: 'Buyer Portal Checkout'
-status: PUBLISHED
 createdAt: 2026-04-24T18:00:00.000Z
 updatedAt: 2026-04-24T18:00:00.000Z
 contentType: tutorial
@@ -35,6 +34,8 @@ O Buyer Portal Checkout entrega todas as funcionalidades esperadas de um checkou
 - Suporte a múltiplos métodos de pagamento, incluindo cartão de crédito com parcelamento e cartões salvos (com fluxo B2B sem CVV), PIX com QR code e finalização com one-click checkout.
 - Revisão e confirmação do pedido com possibilidade de editar cada seção, status do pedido (aprovado ou pendente), número, resumos de entrega ou retirada e pagamento.
 
+> ℹ️ Para aceitar pagamentos com promissória no **Buyer Portal Checkout**, use a promissória compatível com o **B2B Buyer Portal**. Saiba mais em [Configurações do contrato](https://help.vtex.com/pt/docs/tutorials/configuracoes-do-contrato).
+
 Além desses recursos, a VTEX oferece funcionalidades para otimizar a experiência de compra de cenários B2B, facilitando a personalização e oferecendo segurança na transação para seus compradores.
 
 ### Budgets
@@ -55,7 +56,7 @@ A funcionalidade Endereços de cobrança permite que os compradores selecionem e
 
 ### Entrega agendada
 
-A [Entrega agendada](/docs/pt/tutorials/configurar-entrega-agendada-fastcheckout) permite às lojas VTEX oferecer aos clientes a possibilidade de escolher o melhor dia e horário para receber suas compras. Essa configuração é realizada diretamente nas políticas de envio e definem os períodos disponíveis para entregas.
+A [Entrega agendada](https://help.vtex.com/pt/docs/tutorials/configurar-entrega-agendada-buyer-portal-checkout) permite às lojas VTEX oferecer aos clientes a possibilidade de escolher o melhor dia e horário para receber suas compras. Essa configuração é realizada diretamente nas políticas de envio e definem os períodos disponíveis para entregas.
 
 ### Políticas de compras
 

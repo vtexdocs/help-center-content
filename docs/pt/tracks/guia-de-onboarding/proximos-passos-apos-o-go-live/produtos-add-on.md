@@ -3,7 +3,7 @@ title: 'Produtos Add-on'
 id: 1t2QBZvrOBSLgvHaAV9fYm
 status: PUBLISHED
 createdAt: 2024-02-20T20:29:42.983Z
-updatedAt: 2025-05-13T20:19:47.676Z
+updatedAt: 2026-09-22T00:00:00.000Z
 publishedAt: 2025-05-13T20:19:47.676Z
 firstPublishedAt: 2024-02-22T14:09:28.506Z
 contentType: trackArticle
@@ -30,19 +30,13 @@ Solução que permite a criação de transmissões online para a realização de
 
 ![live-shopping-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_2.JPG)
 
-## VTEX Personal Shopper
-
-Solução que permite o atendimento personalizado direto entre o cliente e o vendedor, trazendo a experiência de compra da loja física para o ambiente digital. Por meio deste aplicativo, o vendedor tem a possibilidade demonstrar produtos, fazer recomendações e esclarecer dúvidas dos clientes. Durante a videochamada, também é possível adicionar itens no carrinho de compras.
-
-![personal-shopper-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_3.JPG)
-
 ## VTEX Pick and Pack
 
 Solução para gestão e visibilidade completa do processo de fulfillment, desde a separação e embalagem dos produtos nas lojas físicas ou depósitos, até a entrega em pontos de retirada ou local do cliente.
 
 O **VTEX Pick and Pack** é composto por: 
 
-- [Pick and Pack app](/pt/docs/tutorials/vtex-pick-and-pack-fulfillment): gerencia pedidos na loja ou depósito, permitindo personalizar o método de separação de pedidos, selecionar tipos de embalagens por produto, remover ou adicionar produtos de acordo com o estoque da loja.
+- [Pick and Pack app](/pt/docs/tutorials/vtex-pick-and-pack): gerencia pedidos na loja ou depósito, permitindo personalizar o método de separação de pedidos, selecionar tipos de embalagens por produto, remover ou adicionar produtos de acordo com o estoque da loja.
 - [Last Mile app](/pt/docs/tutorials/vtex-pick-and-pack-last-mile): coordena o envio de pacotes a partir de depósitos ou lojas até os endereços, criando rotas inteligentes de entrega, selecionando motoristas disponíveis, e rastreando a localização exata do pedido.
 
 ![pick-and-pack-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_4.JPG)

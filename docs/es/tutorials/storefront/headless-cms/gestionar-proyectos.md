@@ -55,9 +55,9 @@ Para crear una nueva página sigue los pasos presentes en este artículo: [Gesti
 ## Configuración del proyecto
 En Configuración, puedes realizar ajustes en el proyecto en  tres categorías principales:
 
--[General](#general): permite editar el ID del proyecto y la configuración de API y archivar el proyecto.
--[Content-Types](#content-types): permite conectar el proyecto Headless CMS (Legacy) a tu código fuente a través de webhooks cuando configuras los tipos de contenido (content types) y las secciones.
--[Compilación](#compilacion): permite iniciar y administrar las compilaciones del sitio web. Puedes establecer una URL de webhook para las notificaciones de compilación y un endpoint para previsualizar las versiones de la página.
+- [General](#general): permite editar el ID del proyecto y la configuración de API y archivar el proyecto.
+- [Content-Types](#content-types): permite conectar el proyecto Headless CMS (Legacy) a tu código fuente a través de webhooks cuando configuras los tipos de contenido (content types) y las secciones.
+- [Compilación](#compilacion): permite iniciar y administrar las compilaciones del sitio web. Puedes establecer una URL de webhook para las notificaciones de compilación y un endpoint para previsualizar las versiones de la página.
 
 ### General
 

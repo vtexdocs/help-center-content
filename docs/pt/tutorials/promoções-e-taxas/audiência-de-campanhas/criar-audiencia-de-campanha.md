@@ -13,6 +13,10 @@ slugEN: creating-a-campaign-audience
 legacySlug: como-criar-campanhas
 locale: pt
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
+seeAlso:
+  - /pt/docs/tutorials/audiencias-de-campanhas
+  - /pt/docs/tutorials/promocao-de-campanha
+  - /pt/docs/tutorials/lista-de-audiencias-de-campanhas
 ---
 
 O recurso de Audiências de campanha permite segmentar as promoções da sua loja a partir da definição de [públicos-alvo](/pt/docs/tutorials/audiencias-de-campanhas#publico-alvo) que atendem a critérios específicos. Para mais informações sobre essa funcionalidade, confira [Audiências de campanhas](/pt/docs/tutorials/audiencias-de-campanhas).
@@ -106,9 +110,3 @@ Exemplo: participam do público-alvo os itens cuja marca é __Nike__, conforme i
 * **Meio de pagamento:** permite selecionar os meios de pagamento que serão incluídos no público-alvo. A audiência de campanha será ativada se a forma de pagamento escolhida pelo cliente for a mesma cadastrada. 
 
   > ⚠️ Audiências de campanhas definidas por **Meio de pagamento** ou** Número máximo de parcelas** não atendem a pedidos pagos com dois cartões ou vale-compras.
-
-## Saiba mais
-
-* [Audiências de campanhas](/pt/docs/tutorials/audiencias-de-campanhas)
-* [Criar promoção de campanha](/pt/docs/tutorials/promocao-de-campanha)
-* [Lista de Audiências de campanhas](/pt/docs/tutorials/lista-de-audiencias-de-campanhas)

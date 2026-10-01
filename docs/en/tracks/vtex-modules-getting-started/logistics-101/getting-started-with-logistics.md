@@ -37,7 +37,7 @@ Basically, the **Inventory & shipping** module is divided into the following sec
 * **[Shipping strategy](/en/docs/tutorials/shipping-strategy)**: Basic settings for the store's shipping structure.  
 * **[Delivery capacity](/en/docs/tutorials/managing-delivery-capacity)**: For tracking the capacity of scheduled deliveries.
 * **[Inventory management:](/en/docs/tutorials/managing-stock-items)** To check the availability of items and track stock reservation and sold items.
-* **[Shipping rates:](/en/docs/tutorials/shipping-rates)</span>** For adding and checking the shipping rates offered to customers.
+* **[Shipping rates:](/en/docs/tutorials/shipping-rates)** For adding and checking the shipping rates offered to customers.
 * **[Shipping simulator](/en/docs/tutorials/shipping-simulation)**: Delivery simulation tool that allows retailers to validate the delivery scenarios available for each region and product.
 * **[Geolocation shipping](/en/docs/tutorials/registering-geolocation)**: Feature to add delivery locations without using postal codes.
 * **[Holidays:](/en/docs/tutorials/registering-holidays)** For registering holidays that affect your store's delivery operations. 

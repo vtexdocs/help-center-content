@@ -3,7 +3,7 @@ title: 'Creating synonyms'
 id: 5IfjhvjxNAvJGEWNn0AhOA
 status: PUBLISHED
 createdAt: 2024-06-27T16:36:30.904Z
-updatedAt: 2025-10-15T13:46:16.968Z
+updatedAt: 2026-08-05T00:00:00.000Z
 publishedAt: 2025-10-15T13:46:16.968Z
 firstPublishedAt: 2024-06-27T16:37:25.800Z
 contentType: tutorial
@@ -39,7 +39,25 @@ Follow the step-by-step procedure to configure synonyms individually in the VTEX
 
 Changes can take up to two hours to take effect.
 
-> ℹ️  This feature is available on VTEX Intelligent Search Multilanguage. Read our article [VTEX Intelligent Search: Multilanguage settings](/en/docs/tutorials/vtex-intelligent-search-multilanguage-settings#synonyms)to learn more.
+> ℹ️  This feature is available on VTEX Intelligent Search Multilanguage. Read our article [VTEX Intelligent Search: Multilanguage settings](/en/docs/tutorials/vtex-intelligent-search-multilanguage-settings#synonyms) to learn more.
+
+### Detecting conflicting synonyms
+
+After completing the **Terms** field in the previous step, Intelligent Search checks whether the terms you entered are already covered by another existing synonym rule in the store. This check helps prevent duplicates and relevance conflicts, especially in stores with a large number of configured synonyms.
+
+If a term is already covered by another synonym, a notification appears in the form, indicating how many synonyms share the same terms. Click `View conflicting rules` to open the **Conflicting synonyms** page in another tab, which lists the overlapping rules with the following information:
+
+| Column | Description |
+|---|---|
+| Terms | Words or expressions defined as synonyms. |
+| Created on | Date the conflicting synonym was created. |
+| Status | Status of the conflicting synonym, which can be Active or Inactive. |
+
+From this page, you can review each conflicting synonym individually and [edit it](https://help.vtex.com/docs/tutorials/synonym-list#editing-synonyms) or [delete it](https://help.vtex.com/docs/tutorials/synonym-list#deleting-synonyms), as needed.
+
+When you click `Save`, if there's a conflict, a confirmation window is displayed asking you to confirm or edit considering the identified overlap.
+
+> ℹ️ Conflict detection doesn't prevent the synonym from being added. It only alerts you to existing overlaps in the database, letting you decide whether to adjust the terms.
 
 ## Importing CSV spreadsheet
 

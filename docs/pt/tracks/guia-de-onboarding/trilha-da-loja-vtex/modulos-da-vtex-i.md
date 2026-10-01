@@ -169,7 +169,7 @@ Há uma diferença entre as tabelas de preços criadas para [políticas comercia
 
 As tabelas de preços não associadas a políticas comerciais podem ser usadas em contextos como __promoções__ e __clusters de clientes__. As tabelas criadas para políticas comerciais só podem ser associadas à própria política comercial. Assim, a tabela de preço associada a uma política comercial informa o preço dos SKUs para esta política e não pode ser associada a outros contextos.
 
-> ⚠️ Os conceitos de **tabela de preços** e [política comercial](LINK) são diferentes. A política comercial é o contexto ao qual uma tabela de preços é associada.
+> ⚠️ Os conceitos de __tabela de preços__ e [política comercial](https://help.vtex.com/pt/docs/tutorials/como-funciona-uma-politica-comercial) são diferentes. A política comercial é o contexto ao qual uma tabela de preços é associada.
 
 Ao configurar uma política comercial, é essencial [especificar a moeda que será utilizada na loja](/pt/docs/tutorials/criar-uma-politica-comercial). A criação de políticas comerciais distintas, cada uma associada a uma moeda diferente, possibilita à loja exibir preços em diversas moedas para os clientes. 
 
@@ -289,6 +289,7 @@ A tabela a seguir apresenta as principais configurações de logística da loja 
 A [transportadora](/pt/docs/tutorials/transportadoras-na-vtex) que será responsável pelo envio do pedido é determinada por meio da política de envio. Primeiro, o cadastro de transportadoras é feito na [planilha de frete](/pt/docs/tutorials/planilha-de-frete), em seguida, a planilha de frete é associada quando se cria uma política de envio.
 
 #### Doca
+
 A [doca](/pt/docs/tutorials/doca) é o local a partir dos quais os itens são distribuídos e escoados para envio, o ponto intermediário entre estoques e transportadoras. Pela doca, ocorre a integração entre estoque, política comercial e política de envio. Alguns dos casos de uso são:
 
 - Diferentes pontos de escoamento para um único estoque.

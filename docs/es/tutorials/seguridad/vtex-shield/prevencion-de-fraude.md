@@ -8,7 +8,7 @@ slugEN: fraud-prevention
 locale: es
 ---
 
->ℹ️ Esta funcionalidad es parte del producto [VTEX Shield](https://help.vtex.com/es/docs/tutorials/vtex-shield). Si ya eres cliente de VTEX y deseas adoptar VTEX Shield en tu empresa, ponte en contacto con nuestro [Soporte comercial](https://help.vtex.com/es/docs/tracks/soporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente VTEX, pero te interesa esta solución, llena el [formulario de contacto](https://vtex.com/es-mx/contacto/).
+>ℹ️ Esta funcionalidad es parte del producto [VTEX Shield](https://help.vtex.com/es/docs/tutorials/vtex-shield). Si ya eres cliente de VTEX y deseas adoptar VTEX Shield en tu empresa, ponte en contacto con nuestro [Soporte comercial](https://help.vtex.com/es/docs/tracks/soporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente VTEX, pero te interesa esta solución, llena el [formulario de contacto](https://www.vtex.com/es-mx/empezar/).
 
 La **Prevención de fraude** es una funcionalidad de **VTEX Shield** que protege tu tienda contra ataques de pruebas de tarjetas (card testing).
 
@@ -43,7 +43,7 @@ La tabla **Historial de detecciones** muestra los detalles de los intentos anali
 | ID del intento de transacción | Identificador único del intento de pago generado por la plataforma. |
 | Hora de inicio | Fecha y hora en que se inició el intento de transacción. |
 | Valor | Valor total de la transacción. |
-| Pago  | Red de la tarjeta utilizada. |
+| Pago | Red de la tarjeta utilizada. |
 | Acción del algoritmo | Acción ejecutada automáticamente con base en la puntuación de fraude (autorizar o bloquear la transacción). La acción ejecutada puede diferir de la acción sugerida si el bloqueo automático está desactivado en el momento del intento. |
 | Acción sugerida | Acción recomendada por el mecanismo de análisis de fraude para ese intento de transacción, de acuerdo con el riesgo identificado. De forma predeterminada, a partir de una puntuación de 0.9 se recomienda bloquear la transacción, pero esta configuración puede modificarse al contratar el producto o contactando al [Soporte](https://help.vtex.com/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex). |
 | Puntuación de fraude | Puntuación de 0 a 1 que indica la probabilidad de fraude. Cuanto más cerca de 1, mayor es la probabilidad. |
@@ -90,7 +90,7 @@ Para desactivar el bloqueo automático:
 
 1. Haz clic en el menú **⋮**.
 2. Haz clic en **Desactivar bloqueo**.
-3. Haz clic en **Confirmar**. 
+3. Haz clic en **Confirmar**.
 
 Los intentos seguirán analizándose y mostrándose en el historial, pero no se bloquearán automáticamente. Cuando el bloqueo automático está desactivado, la funcionalidad opera en modo de monitoreo (observación), registrando y analizando los intentos sin impedir el checkout.
 
