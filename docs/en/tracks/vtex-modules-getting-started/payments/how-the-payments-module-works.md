@@ -53,7 +53,7 @@ Therefore, the **sub-acquirer** can be considered an middleman between acquirer 
 
 Sub-acquirers examples: Paypal and PagSeguro.
 
-To learn more about the [advantages and disadvantages of including a sub-acquirer in your flow](/en/docs/tutorials/financial-agents-in-the-payment-flow), check out our article.
+To learn more about the [advantages and disadvantages of including a sub-acquirer in your flow](/en/docs/tutorials/financial-agents-in-the-payment-flow#sub-acquirer), check out our article.
 
 ## Card brands
 Card brands are companies that are responsible for defining the business rules for purchases made with credit cards_, such as the number of installments you can split a payment on and the facilities in which it is accepted, nationally and internationally.

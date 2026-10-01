@@ -12934,6 +12934,14 @@
         "to": "/es/docs/tutorials/publicacion-de-productos-amazon"
       },
       {
+        "from": "/pt/docs/tutorials/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil",
+        "to": "/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento"
+      },
+      {
+        "from": "/pt/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil",
+        "to": "/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento"
+      },
+      {
         "from": "/pt/docs/tutorials/o-que-e-um-gateway-de-pagamentos",
         "to": "/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#gateway"
       },
@@ -12980,6 +12988,14 @@
       {
         "from": "/pt/tutorial/o-que-e-antifraude",
         "to": "/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#antifraude"
+      },
+      {
+        "from": "/en/docs/tutorials/what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil",
+        "to": "/en/docs/tutorials/financial-agents-in-the-payment-flow"
+      },
+      {
+        "from": "/en/tutorial/what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil",
+        "to": "/en/docs/tutorials/financial-agents-in-the-payment-flow"
       },
       {
         "from": "/en/docs/tutorials/what-is-a-payment-gateway",
@@ -13030,6 +13046,14 @@
         "to": "/en/docs/tutorials/financial-agents-in-the-payment-flow#anti-fraud"
       },
       {
+        "from": "/es/docs/tutorials/cual-es-la-diferencia-entre-adquirente-bandera-gateway-y-sub-adquirente-en-brasil",
+        "to": "/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago"
+      },
+      {
+        "from": "/es/tutorial/cual-es-la-diferencia-entre-adquirente-bandera-gateway-y-sub-adquirente-en-brasil",
+        "to": "/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago"
+      },
+      {
         "from": "/es/docs/tutorials/que-es-un-gateway-de-pagos",
         "to": "/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#gateway"
       },
@@ -13076,10 +13100,7 @@
       {
         "from": "/es/tutorial/que-es-antifraude",
         "to": "/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#antifraude"
-      },
-    ]
-  }
-}
+      }
     ]
   }
 }

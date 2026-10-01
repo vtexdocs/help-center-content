@@ -53,7 +53,7 @@ Portanto, o **subadquirente** pode ser entendido como uma espécie de intermedia
 
 Exemplos de subadquirente: Paypal e PagSeguro.
 
-Para saber mais sobre as [vantagens e desvantagens de se incluir um subadquirente no seu fluxo](/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento), confira nosso artigo.
+Para saber mais sobre as [vantagens e desvantagens de se incluir um subadquirente no seu fluxo](/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#subadquirente), confira nosso artigo.
 
 ## Bandeira de Cartão
 

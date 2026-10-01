@@ -18,7 +18,7 @@ order: 3
 The basic flow of a credit card payment is performed by the following players:
 
 - **Payment Gateway**: A [Payment Gateway](/en/docs/tutorials/financial-agents-in-the-payment-flow#gateway) is a system that transmits the data from the purchases made in your store. The gateway sends data and receives responses to let you know whether a particular purchase should be confirmed or not.
-- **Acquirer**: An [Acquirer](/en/docs/tutorials/financial-agents-in-the-payment-flow), also called a creditor, is a company that specializes in processing payments, meaning that it makes the financial settlements of a store's transactions through credit and debit cards.
+- **Acquirer**: An [Acquirer](/en/docs/tutorials/financial-agents-in-the-payment-flow#acquirer), also called a creditor, is a company that specializes in processing payments, meaning that it makes the financial settlements of a store's transactions through credit and debit cards.
 - **Card brand**: [Card Brands](/en/docs/tutorials/financial-agents-in-the-payment-flow#credit-card-brand) are companies responsible for defining the business rules for purchases made with credit cards. They define the standards by which acquirers must process the transactions made through this payment method (each brand has its own rules).
 - **Issuing Bank**: The [Issuing Bank](/en/docs/tutorials/financial-agents-in-the-payment-flow#issuing-bank) is the financial institution responsible for the means of payment, whether they are "boletos" (popular Brazilian off-line payment method), debit or credit cards. Upon receiving the data of a purchase made in your store, the issuing bank will authorize the sale or not, depending on the credit limit or the money available in the user's account.
 <br/>

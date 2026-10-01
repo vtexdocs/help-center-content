@@ -1,7 +1,7 @@
 ---
 title: 'Agentes financeiros no fluxo de pagamento'
 createdAt: 2017-10-11T19:08:49.654Z
-updatedAt: 2026-09-24T20:15:00.000Z
+updatedAt: 2026-10-01T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
 slugEN: financial-agents-in-the-payment-flow
@@ -11,7 +11,7 @@ hidden: false
 
 Neste artigo, você conhece os agentes financeiros que participam do fluxo de pagamento na VTEX: gateway, adquirente, subadquirente, bandeira, banco emissor e antifraude.
 
-Esses conceitos valem para todo o módulo de Pagamentos, mas a sequência completa dos seis agentes descreve o fluxo de __cartão de crédito ou débito__. Os demais meios de pagamento usam apenas parte desses papéis: o gateway atua nos meios processados pela plataforma e a bandeira atua somente em transações de cartão.
+Esses conceitos valem para todo o módulo de Pagamentos, mas a sequência completa dos seis agentes descreve o fluxo de __cartão de crédito__. Os demais meios de pagamento usam apenas parte desses papéis: o gateway atua nos meios processados pela plataforma e a bandeira atua somente em transações de cartão.
 
 ## Gateway
 
@@ -78,9 +78,9 @@ A sequência a seguir descreve o fluxo de cartão de crédito:
 3. O gateway repassa as informações ao adquirente ou ao subadquirente.
 4. O adquirente envia os dados à bandeira, que valida as regras do cartão, como a quantidade de parcelas.
 5. A bandeira envia as informações ao banco emissor, que faz a análise de crédito, verifica o limite disponível e autoriza ou nega o pagamento.
-6. A resposta do banco emissor percorre o caminho inverso até o gateway, que informa à sua loja se o pagamento foi aprovado ou negado.
+6. A resposta do banco emissor percorre o caminho inverso até o gateway, que registra o pagamento como pré-autorizado.
 7. Se o antifraude fizer parte do fluxo, ele recebe do gateway a informação de que o pagamento foi pré-autorizado e responde com aprovação ou negação. Se o antifraude negar, o pagamento é cancelado.
-8. Com o pagamento aprovado, o adquirente faz a liquidação financeira e repassa os valores para a conta da sua loja.
+8. Com a aprovação final, o gateway informa à sua loja que o pagamento foi aprovado e o adquirente faz a liquidação financeira, repassando os valores para a conta da sua loja.
 
 ### Meios de pagamento locais no Brasil
 
