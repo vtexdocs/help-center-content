@@ -24980,14 +24980,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "Merchandising rule conditions",
-                    "es": "Condiciones de las reglas de merchandising",
-                    "pt": "Condições de Regras de merchandising"
+                    "en": "Merchandising rules",
+                    "es": "Reglas de merchandising",
+                    "pt": "Regras de merchandising"
                   },
                   "slug": {
-                    "en": "merchandising-rule-conditions",
-                    "es": "condiciones-de-las-reglas-de-merchandising",
-                    "pt": "condicoes-de-regras-de-merchandising"
+                    "en": "merchandising-rules",
+                    "es": "reglas-de-merchandising",
+                    "pt": "regras-de-merchandising"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25025,6 +25025,21 @@
                 },
                 {
                   "name": {
+                    "en": "Merchandising rule conditions",
+                    "es": "Condiciones de las reglas de merchandising",
+                    "pt": "Condições de Regras de merchandising"
+                  },
+                  "slug": {
+                    "en": "merchandising-rule-conditions",
+                    "es": "condiciones-de-las-reglas-de-merchandising",
+                    "pt": "condicoes-de-regras-de-merchandising"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Merchandising rules list",
                     "es": "Lista de Reglas de merchandising",
                     "pt": "Lista de Regras de merchandising"
@@ -25033,21 +25048,6 @@
                     "en": "merchandising-rules-list",
                     "es": "lista-de-reglas-de-merchandising",
                     "pt": "lista-de-regras-de-merchandising"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Merchandising rules",
-                    "es": "Reglas de merchandising",
-                    "pt": "Regras de merchandising"
-                  },
-                  "slug": {
-                    "en": "merchandising-rules",
-                    "es": "reglas-de-merchandising",
-                    "pt": "regras-de-merchandising"
                   },
                   "origin": "",
                   "type": "markdown",
