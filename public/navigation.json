@@ -25316,21 +25316,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "What is Deposit Slip",
-                    "es": "Qué es Ficha de Depósito",
-                    "pt": "O que é  Ficha Depósito"
-                  },
-                  "slug": {
-                    "en": "what-is-deposit-slip",
-                    "es": "que-es-ficha-de-deposito",
-                    "pt": "o-que-e-ficha-deposito"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "What is 3D Secure?",
                     "es": "¿Qué es 3D Secure?",
                     "pt": "3D Secure"
@@ -25339,6 +25324,21 @@
                     "en": "what-is-3d-secure",
                     "es": "que-es-3d-secure",
                     "pt": "o-que-e-3d-secure"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "What is Deposit Slip",
+                    "es": "Qué es Ficha de Depósito",
+                    "pt": "O que é  Ficha Depósito"
+                  },
+                  "slug": {
+                    "en": "what-is-deposit-slip",
+                    "es": "que-es-ficha-de-deposito",
+                    "pt": "o-que-e-ficha-deposito"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -57645,6 +57645,21 @@
             },
             {
               "name": {
+                "en": "Native split with asymmetric financial charge across suborders settles less than the invoiced amount",
+                "es": "La división nativa con cargo financiero asimétrico entre subórdenes se liquida por un monto menor al facturado.",
+                "pt": "A divisão nativa com cobrança financeira assimétrica entre subpedidos resulta em um valor inferior ao faturado."
+              },
+              "slug": {
+                "en": "native-split-with-asymmetric-financial-charge-across-suborders-settles-less-than-the-invoiced-amount",
+                "es": "la-division-nativa-con-cargo-financiero-asimetrico-entre-subordenes-se-liquida-por-un-monto-menor-al-facturado",
+                "pt": "a-divisao-nativa-com-cobranca-financeira-assimetrica-entre-subpedidos-resulta-em-um-valor-inferior-ao-faturado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "User deletion from Order Authorization rule blocks order and does not allow UI reprocessing",
                 "es": "La eliminación del usuario de la regla de autorización de pedidos bloquea el pedido y no permite el reprocesamiento de la interfaz de usuario",
                 "pt": "A exclusão do usuário da regra de Autorização de Pedido bloqueia o pedido e não permite o reprocessamento da IU"
@@ -69849,6 +69864,21 @@
                 "en": "amazon-sku-matching-status-reverts-to-pending-review-after-manual-confirmation",
                 "es": "amazon-el-estado-de-coincidencia-de-sku-vuelve-a-pendiente-de-revision-despues-de-la-confirmacion-manual",
                 "pt": "amazon-o-status-de-correspondencia-do-sku-volta-para-aguardando-revisao-apos-confirmacao-manual"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon Orders fail to integrate with \"A validation error occurred while trying to process the order\" when the buyer name is null",
+                "es": "Amazon Los pedidos no se integran correctamente y aparece el mensaje \"Se produjo un error de validación al intentar procesar el pedido\" cuando el nombre del comprador es nulo.",
+                "pt": "Amazon Os pedidos não são integrados com a mensagem \"Ocorreu um erro de validação ao tentar processar o pedido\" quando o nome do comprador é nulo."
+              },
+              "slug": {
+                "en": "amazon-orders-fail-to-integrate-with-a-validation-error-occurred-while-trying-to-process-the-order-when-the-buyer-name-is-null",
+                "es": "amazon-los-pedidos-no-se-integran-correctamente-y-aparece-el-mensaje-se-produjo-un-error-de-validacion-al-intentar-procesar-el-pedido-cuando-el-nombre-del-comprador-es-nulo",
+                "pt": "amazon-os-pedidos-nao-sao-integrados-com-a-mensagem-ocorreu-um-erro-de-validacao-ao-tentar-processar-o-pedido-quando-o-nome-do-comprador-e-nulo"
               },
               "origin": "",
               "type": "markdown",
