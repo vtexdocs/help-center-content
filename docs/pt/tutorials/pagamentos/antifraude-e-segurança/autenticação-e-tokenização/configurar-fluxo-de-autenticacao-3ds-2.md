@@ -52,7 +52,7 @@ Depois da autenticação, o resultado depende do status do pagamento:
 - Se o pagamento for autorizado ou ainda estiver em processamento, o checkout exibe a confirmação do pedido.
 - Se o pagamento for negado ou cancelado, o checkout exibe um aviso e volta para a seleção da forma de pagamento.
 
-> ℹ️ Em transações de baixo risco, o banco emissor conclui a autenticação sem exibir o desafio, então a ausência da janela de autenticação em uma compra de teste não significa necessariamente que o 3DS 2 está inativo.
+> ℹ️ Em uma autenticação sem fricção, o banco emissor conclui o 3DS 2 sem exibir o desafio. Por isso, a ausência da janela de autenticação em uma compra de teste não significa que o 3DS 2 está inativo.
 
 ## Limitações
 

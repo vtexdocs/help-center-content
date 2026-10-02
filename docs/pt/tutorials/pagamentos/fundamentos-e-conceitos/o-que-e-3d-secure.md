@@ -24,7 +24,7 @@ No 3DS 2, o [banco emissor](/pt/docs/tutorials/o-que-e-banco-emissor) analisa os
 
 O protocolo exige a autenticação, mas não define o método: cada banco usa o próprio sistema de verificação.
 
-Chargeback é o cancelamento de uma compra online feita com cartão de crédito ou débito. Quando a autenticação é concluída, a responsabilidade pelos chargebacks por fraude passa do lojista para o banco emissor, conforme critérios das bandeiras e dos bancos emissores. Essa transferência não vale para chargebacks por outros motivos.
+Chargeback é o cancelamento de uma compra online feita com cartão de crédito ou débito. Quando a autenticação é concluída, a responsabilidade pelos chargebacks por fraude passa do lojista para o banco emissor, conforme critérios das bandeiras e dos bancos emissores. Em modos que só enviam dados de risco ao banco emissor, sem autenticar o comprador, como o Data Only da Adyen, a responsabilidade por fraude pode continuar com o lojista. A transferência também não vale para chargebacks por outros motivos.
 
 ## Versões do 3D Secure
 
