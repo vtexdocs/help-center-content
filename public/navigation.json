@@ -25,6 +25,68 @@
           "children": [
             {
               "name": {
+                "en": "October",
+                "es": "Octubre",
+                "pt": "Outubro"
+              },
+              "slug": {
+                "en": "2026-october",
+                "es": "2026-octubre",
+                "pt": "2026-outubro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Google Shopping: regionalization of the integration",
+                    "es": "Google Shopping: regionalización de la integración",
+                    "pt": "Google Shopping: regionalização da integração"
+                  },
+                  "slug": {
+                    "en": "2026-10-02-google-shopping-regionalization-of-the-integration",
+                    "es": "2026-10-02-google-shopping-regionalizacion-de-la-integracion",
+                    "pt": "2026-10-02-google-shopping-regionalizacao-da-integracao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Outubro",
+                "es": "Outubro",
+                "pt": "Outubro"
+              },
+              "slug": {
+                "en": "outubro",
+                "es": "outubro",
+                "pt": "2026-outubro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Google Shopping: regionalização da integração",
+                    "en": "Google Shopping: regionalização da integração",
+                    "es": "Google Shopping: regionalização da integração"
+                  },
+                  "slug": {
+                    "pt": "2026-10-02-regionalizacao-do-google-shopping",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "September",
                 "es": "Septiembre",
                 "pt": "Setembro"
@@ -31087,6 +31149,21 @@
                     "en": "google-integration-warnings",
                     "es": "avisos-de-integracion-de-google",
                     "pt": "avisos-de-integracao-com-o-google"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Google Shopping regionalization",
+                    "es": "Regionalización de Google Shopping",
+                    "pt": "Regionalização do Google Shopping"
+                  },
+                  "slug": {
+                    "en": "google-shopping-regionalization",
+                    "es": "regionalizacion-de-google-shopping",
+                    "pt": "regionalizacao-do-google-shopping"
                   },
                   "origin": "",
                   "type": "markdown",
