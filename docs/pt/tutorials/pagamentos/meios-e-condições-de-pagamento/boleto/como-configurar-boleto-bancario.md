@@ -27,13 +27,13 @@ Antes de configurar o boleto bancário, verifique se sua loja tem:
 
 O boleto bancário é processado pelo provedor de pagamento cadastrado na sua loja. Para cadastrar esse provedor, siga estes passos:
 
-1. No Admin VTEX, acesse __Configurações > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
 2. Na tela de provedores, clique no botão `Novo provedor`.
 3. Digite o nome do provedor que processa o boleto bancário na barra de busca e clique no resultado correspondente.
 4. Preencha os campos do formulário de acordo com os dados informados pelo provedor ou banco.
 5. Clique em `Salvar`.
 
-> ℹ️ Os campos exibidos no formulário variam conforme o provedor. Para as instruções específicas de cada provedor, acesse o artigo desejado na subcategoria __Provedores de pagamento__ do Help Center.
+> ℹ️ Os campos exibidos no formulário variam conforme o provedor. Para as instruções de cada provedor, abra o artigo correspondente na [Lista de Provedores de Pagamento por País](/pt/docs/tutorials/lista-de-provedores-de-pagamento-por-pais).
 
 ## Configurar condição de pagamento
 
@@ -47,7 +47,12 @@ Para criar a condição de pagamento boleto bancário que será exibida no check
 6. (Opcional) Defina [condições especiais de pagamento](/pt/docs/tutorials/condicoes-especiais) para o boleto bancário.
 7. Clique em `Salvar`.
 
-> ⚠️ Depois de salvar a condição de pagamento, o boleto bancário pode demorar até 10 minutos para aparecer no checkout da sua loja como opção de pagamento.
+## Validar a configuração
+
+1. Aguarde até 10 minutos depois de salvar a condição de pagamento.
+2. No checkout da loja, confirme que __Boleto Bancário__ aparece como opção de pagamento.
+
+Se a opção não aparecer depois desse prazo, consulte [Resolver problemas](#resolver-problemas).
 
 ## Vencimento e cancelamento do boleto
 
@@ -69,4 +74,4 @@ Se o boleto bancário não for exibido no checkout após o período de 10 minuto
 - [Como é feita a aprovação de pagamento do boleto?](/pt/docs/tutorials/como-e-feita-a-aprovacao-de-pagamento-do-boleto)
 - [Aprovar pagamento de boleto](/pt/docs/tutorials/como-aprovar-pagamento)
 - [Em quanto tempo um pedido de boleto sem pagamento é cancelado?](/pt/docs/tutorials/em-quanto-tempo-um-pedido-de-boleto-sem-pagamento-e-cancelado)
-- [Alterar o logotipo do boleto](/pt/docs/tutorials/como-alterar-a-logo-do-boleto)
+- [Alterar o logotipo do boleto](/pt/docs/tutorials/alterar-o-logotipo-do-boleto)
