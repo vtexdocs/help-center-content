@@ -16,9 +16,9 @@ subcategoryId: 1c5Btie9ou2Gg2iUo0ggqM
 categoryCover: true
 ---
 
-Pontos de retirada são locais onde clientes retiram seus pedidos. Uma loja disponibiliza os pontos de retirada para que seus clientes tenham a opção de escolher receber seu pedido no seu endereço (entrega) ou retirá-lo em um local determinado (retirada).
+Pontos de retirada são locais onde clientes retiram seus pedidos. Uma loja disponibiliza os pontos de retirada para que seus clientes tenham a opção de escolher receber seu pedido em seu endereço (entrega) ou retirá-lo em um local determinado (retirada).
 
-Há diferentes possibilidades para o uso de pontos de retirada dependendo da organização e estratégia de negócio da loja, como por exemplo:
+Há diferentes possibilidades para o uso de pontos de retirada dependendo da organização e estratégia de negócio da loja, como:
 
 * Pontos de retirada que coincidem com o estoque.
 * Lojas físicas que também são pontos de retirada.
@@ -28,7 +28,7 @@ Em todos os casos é preciso atentar-se à necessidade (ou não) de transporte e
 
 ## Como funcionam pontos de retirada
 
-Atualmente a plataforma limita a seleção aos 300 pontos de retirada mais próximos do endereço do cliente, independentemente de os pontos de retirada estarem configurados como ativos ou inativos. Por isso, é possível que pontos de retirada sejam desconsiderados mesmo que satisfaçam o requisito da localização.
+Atualmente a plataforma limita a seleção aos 300 pontos de retirada mais próximos do endereço do cliente, independentemente de os pontos de retirada estarem configurados como ativos ou inativos. Por isso, é possível que pontos de retirada sejam desconsiderados mesmo que satisfaçam o requisito de localização.
 
 É possível [configurar a quantidade](#como-configurar-pontos-de-retirada) de pontos de retirada que serão exibidos no checkout para o cliente, sendo que o limite configurado é aplicado por [política de envio](/pt/docs/tutorials/politica-de-envio), conforme os exemplos a seguir:
 
@@ -38,12 +38,14 @@ Atualmente a plataforma limita a seleção aos 300 pontos de retirada mais próx
 Vale ressaltar que:
 
 * Os pontos de retirada que ficam disponíveis para o cliente no checkout dependem da disponibilidade de itens e seu transporte até o ponto de retirada.
-* A VTEX limita a localização a um raio de 50km entre o ponto de retirada e o endereço do cliente.
+* A VTEX limita a localização a um raio de até 1.000 km entre o ponto de retirada e o endereço do cliente. Esse raio pode ser configurado no Admin VTEX em **Configurações da loja > Envio > Configurações**. Como a configuração é feita no nível da conta, lojas com contas franqueadas precisam alterá-la em cada uma delas.
 * Nos casos em que há transporte entre o [estoque](/pt/docs/tutorials/estoque) e o ponto de retirada, a VTEX também leva em consideração a existência dessa rota para a escolha do ponto de retirada.
 
-> ℹ️ Com pontos de retirada, a VTEX também possibilita que o lojista: <body> <ul> <li>Configure **pontos de retirada de contingência:** pontos de retirada que podem fornecer inventário a outros pontos quando for necessário, possibilitando a escolha mais conveniente ao comprador. Para saber mais, acesse [Ponto de retirada de contingência.</li>](/pt/docs/tutorials/criar-ponto-de-retirada-de-contingencia-para-garanti-lo-como-opcao-no) <li>Configure um **seller white label como ponto de retirada.** Saiba mais em [Configurar Seller White Label como Ponto de Retirada (Pickup Point).</li>](/pt/tutorial/configurar-seller-white-label-ponto-de-retirada-pickup-point--6fSUE2O0taaoKieAaiuc4e) <ul> </body>
+> ℹ️ Com pontos de retirada, a VTEX também possibilita que o lojista:
+> * Configure **pontos de retirada de contingência:** pontos de retirada que podem fornecer inventário a outros pontos quando for necessário, possibilitando a escolha mais conveniente ao comprador. Para saber mais, acesse [Ponto de retirada de contingência](/pt/docs/tutorials/criar-ponto-de-retirada-de-contingencia-para-garanti-lo-como-opcao-no).
+> * Configure um **seller white label como ponto de retirada.** Saiba mais em [Configurar Seller White Label como Ponto de Retirada (Pickup Point)](/pt/tutorial/configurar-seller-white-label-ponto-de-retirada-pickup-point--6fSUE2O0taaoKieAaiuc4e).
 
-É importante verificar se as configurações da quantidade de pontos de retirada estão dentro dos limites aceitos e de acordo com a estratégia de vendas da loja. Isso permite que a [simulação de envio](/pt/docs/tutorials/simulador-de-envio) considere os dados corretamente e garante, por exemplo, que a configuração do número de pontos de retirada não limita a operação da loja.
+É importante verificar se as configurações da quantidade de pontos de retirada estão dentro dos limites aceitos e de acordo com a estratégia de vendas da loja. Isso permite que a [simulação de envio](/pt/docs/tutorials/simulador-de-envio) considere os dados corretamente e garante, por exemplo, que a configuração do número de pontos de retirada não limite a operação da loja.
 
 ## Como configurar pontos de retirada
 
@@ -52,26 +54,26 @@ A VTEX considera que o ponto de retirada é uma forma de envio e, por isso, as c
 1. [Cadastrar o ponto de retirada](/pt/docs/tutorials/cadastro-de-pontos-de-retirada), o que pode ser feito das seguintes formas:
     - **Via Admin:** cadastrando cada ponto de retirada individualmente.
     - **Via planilha Admin:** cadastrando vários pontos simultaneamente.
-    - **Via API:** com a requisição [Create/Update Pickup Point](https://developers.vtex.com/vtex-rest-api/reference/pickup-points-1#createupdate).
+    - **Via API:** com a requisição [Create/Update Pickup Point](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/configuration/pickuppoints/-pickupPointId-).
 2. Configurar a [estratégia de envio](/pt/docs/tutorials/estrategia-de-envio) do ponto de retirada:
     - Criar pelo menos uma [doca](/pt/docs/tutorials/gerenciar-doca) que atenda o ponto de retirada.
     - Criar pelo menos um [estoque](/pt/docs/tutorials/gerenciar-estoque) que atenda o ponto de retirada.
     - Criar pelo menos [uma política de envio](/pt/docs/tutorials/politica-de-envio)  para o ponto de retirada, o que inclui adicionar a [planilha de frete](/pt/docs/tutorials/planilha-de-frete) com a localização do ponto de retirada.
 3. Associar o ponto de retirada à política de envio:
-    - a. No Admin VTEX, acesse **Envio > Estratégia de Envio** ou digite *Estratégia de envio* na barra de busca no topo da página.  
+    - a. No Admin VTEX, acesse **Envio > Estratégia de envio** ou digite *Estratégia de envio* na barra de busca no topo da página.  
     - b. Na aba **Política de envio**, selecione a política de envio criada para o ponto de retirada.
     - c. Na coluna **Ações**, clique no ícone <i class="fas fa-pen"></i> para edição.
     - d. Ative o <i class="fas fa-toggle-on"></i> do campo **Relacionar pontos de retirada**.
     - e. Selecione o ponto de retirada pelos campos disponíveis.![relacionarpontosretiradaPT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/pontos-de-retirada/pontos-de-retirada_1.png)
-        > ℹ️ Para lojas que possuem mais de 50 pontos de retirada, recomendamos utilizar o campo Tags dos pontos de retirada ao criar um ponto de retirada. Utilizar tags facilita a busca dos pontos de [retirada na hora de relacioná-los com a política de envio](/pt/docs/tutorials/politica-de-envio#cadastrar-uma-politica-de-envio).Lembre-se também que a política de envio que está associada a um ponto de retirada não fica disponível para outro tipo de envio. Recomendamos criar uma política de envio exclusiva do ponto de retirada.
-5. [Cadastrar a geolocalização](/pt/docs/tutorials/gerenciar-geolocalizacao): para maior precisão da localização dos pontos de retirada no checkout.
+        > ℹ️ Para lojas que possuem mais de 50 pontos de retirada, recomendamos utilizar o campo Tags dos pontos de retirada ao criar um ponto de retirada. Utilizar tags facilita a busca dos pontos de [retirada na hora de relacioná-los com a política de envio](/pt/docs/tutorials/politica-de-envio#cadastrar-uma-politica-de-envio). Lembre-se também que a política de envio que está associada a um ponto de retirada não fica disponível para outro tipo de envio. Recomendamos criar uma política de envio exclusiva do ponto de retirada.
+4. [Cadastrar a geolocalização](/pt/docs/tutorials/gerenciar-geolocalizacao): para maior precisão da localização dos pontos de retirada no checkout.
   > ℹ️ A visualização dos pontos de retirada com mapa e horário no checkout está disponível apenas para o Checkout V6.
-6. Habilitar a solicitação de endereço no checkout. Dessa forma, o cliente precisa adicionar o seu endereço para ser usado na nota fiscal:
+5. Habilitar a solicitação de endereço no checkout. Dessa forma, o cliente precisa adicionar o seu endereço para ser usado na nota fiscal:
     - a. No Admin VTEX, acesse **Configurações da loja > Storefront > Checkout**, ou digite *Checkout* na barra de busca no topo da página. 
     - b. Seleciona a configuração utilizada na loja e clique no ícone <i class="fas fa-cog"></i>.
     - c. Clique na aba **Checkout** na barra superior.
     - d. Selecione o <i class="fas fa-toggle-on"></i> do campo **Endereço na nota fiscal para retirada em loja**.![NFpontoretiradaPT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/pontos-de-retirada/pontos-de-retirada_2.png)  
-        > ⚠️ A opção de **Endereço na nota fiscal para retirada em loja** deve estar habilitada em todas as lojas do Brasil, pois é num requisito que a Nota Fiscal emitida contenha a informação do endereço do cliente, mesmo que a opção de entrega do pedido seja no ponto de retirada. O endereço preenchido pelo cliente será registrado no campo `invoiceData`do [orderForm](https://developers.vtex.com/vtex-rest-api/reference/orderform-fields#invoicedata).
-7. Configurar a quantidade de pontos de retirada que são exibidos no checkout:
+        > ⚠️ A opção de **Endereço na nota fiscal para retirada em loja** deve estar habilitada em todas as lojas do Brasil, pois é um requisito que a Nota Fiscal emitida contenha a informação do endereço do cliente, mesmo que a opção de entrega do pedido seja no ponto de retirada. O endereço preenchido pelo cliente será registrado no campo `invoiceData` do [orderForm](https://developers.vtex.com/docs/guides/orderform-fields#invoicedata).
+6. Configurar a quantidade de pontos de retirada que são exibidos no checkout:
     - a. No Admin VTEX, acesse **Configurações da loja > Envio > Configurações**, ou digite *Envio* na barra de busca no topo da página e selecione *Configurações da loja / Envio*. 
     - b. Altere o campo **Configurações de pontos de retirada:** utilize os botões <i class="far fa-caret-square-up"></i> e <i class="far fa-caret-square-down"></i> e selecione a quantidade dos primeiros pontos de retirada que ficarão disponíveis na lista de busca exibida no checkout para o cliente.
