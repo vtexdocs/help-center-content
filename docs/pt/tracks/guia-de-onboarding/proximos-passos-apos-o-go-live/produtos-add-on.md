@@ -3,7 +3,7 @@ title: 'Produtos Add-on'
 id: 1t2QBZvrOBSLgvHaAV9fYm
 status: PUBLISHED
 createdAt: 2024-02-20T20:29:42.983Z
-updatedAt: 2026-08-13T00:00:00.000Z
+updatedAt: 2026-09-22T00:00:00.000Z
 publishedAt: 2025-05-13T20:19:47.676Z
 firstPublishedAt: 2024-02-22T14:09:28.506Z
 contentType: trackArticle
@@ -29,12 +29,6 @@ Produtos Add-on são soluções oferecidas pela VTEX para atender demandas espec
 Solução que permite a criação de transmissões online para a realização de demonstrações ao vivo das características dos produtos na loja. Interações diretas e instantâneas com os clientes permitem melhorar o engajamento do público com a marca e contribuem para aumentar a performance de venda.
 
 ![live-shopping-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_2.JPG)
-
-## VTEX Personal Shopper
-
-Solução que permite o atendimento personalizado direto entre o cliente e o vendedor, trazendo a experiência de compra da loja física para o ambiente digital. Por meio deste aplicativo, o vendedor tem a possibilidade demonstrar produtos, fazer recomendações e esclarecer dúvidas dos clientes. Durante a videochamada, também é possível adicionar itens no carrinho de compras.
-
-![personal-shopper-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_3.JPG)
 
 ## VTEX Pick and Pack
 
