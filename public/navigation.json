@@ -25393,7 +25393,7 @@
                   "name": {
                     "en": "What is a transaction?",
                     "es": "¿Qué es una transacción?",
-                    "pt": "O que é uma transação?"
+                    "pt": "Transação de pagamento"
                   },
                   "slug": {
                     "en": "what-is-a-transaction",
@@ -25423,7 +25423,7 @@
                   "name": {
                     "en": "What is an ewallet?",
                     "es": "¿Qué es una cartera digital (ewallet)?",
-                    "pt": "O que é uma carteira digital (ewallet)?"
+                    "pt": "Carteira digital (ewallet)"
                   },
                   "slug": {
                     "en": "what-is-an-e-wallet",
@@ -25438,7 +25438,7 @@
                   "name": {
                     "en": "What is an offline payment condition?",
                     "es": "¿Qué es una condición de pago sin conexión?",
-                    "pt": "O que é uma condição de pagamento offline?"
+                    "pt": "Condição de pagamento offline"
                   },
                   "slug": {
                     "en": "what-is-an-offline-payment-condition",
