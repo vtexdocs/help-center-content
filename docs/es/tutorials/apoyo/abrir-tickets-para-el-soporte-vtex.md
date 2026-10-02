@@ -3,7 +3,7 @@ title: 'Abrir tickets para el soporte VTEX'
 id: 16yOEqpO32UQYygSmMSSAM
 status: PUBLISHED
 createdAt: 2017-11-21T22:18:13.507Z
-updatedAt: 2025-09-25T13:49:36.309Z
+updatedAt: 2026-09-28T20:45:00.000Z
 publishedAt: 2025-09-25T13:49:36.309Z
 firstPublishedAt: 2017-11-22T02:37:19.330Z
 contentType: tutorial
