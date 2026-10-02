@@ -1,7 +1,7 @@
 ---
 title: 'Agente de Colecciones'
-createdAt: 2026-09-15T00:00:00.000Z
-updatedAt: 2026-09-15T00:00:00.000Z
+createdAt: 2026-10-02T00:00:00.000Z
+updatedAt: 2026-10-02T00:00:00.000Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 slugEN: collections-agent
@@ -46,7 +46,7 @@ Además de usar [B2B Buyer Portal](https://help.vtex.com/es/docs/tutorials/b2b-b
 
 En el Admin VTEX, accede a **Catálogo > Agente de Colecciones** o ingresa **Agente de Colecciones** en la barra de búsqueda en la parte superior de la página. La interfaz se compone de un chat y una sugerencia de instrucción (prompt), como se muestra en la siguiente imagen:
 
-![Interfaz del agente](linkPlaceholder)
+![collections_agent_interface_es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/catalog-beta/collections_agent_interface_es.png)
 
 Al hacer clic en la sugerencia `Crea una colección`, o ingresar otra instrucción en el chat, el agente guía la interacción hasta completar la acción deseada.
 
