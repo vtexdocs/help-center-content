@@ -46,7 +46,7 @@ Além de usar o [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-b
 
 No Admin VTEX, acesse **Catálogo > Agente de Coleções** ou digite **Agente de Coleções** na barra de pesquisa no topo da página. A interface apresentada é composta por uma janela conversacional e uma sugestão de instrução (prompt), como mostra a imagem a seguir:
 
-![collections_agent_interface_pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catalogo-beta/collections_agent_interface_pt.png)
+![collections_agent_interface_pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/collections_agent_interface_pt.png)
 
 Ao clicar na sugestão `Crie uma coleção`, ou digitar outra instrução na janela de conversa, o agente inicia o atendimento e conduz a interação até a conclusão da ação desejada.
 
