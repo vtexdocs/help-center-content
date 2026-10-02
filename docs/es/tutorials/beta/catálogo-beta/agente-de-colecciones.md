@@ -46,7 +46,7 @@ Además de usar [B2B Buyer Portal](https://help.vtex.com/es/docs/tutorials/b2b-b
 
 En el Admin VTEX, accede a **Catálogo > Agente de Colecciones** o ingresa **Agente de Colecciones** en la barra de búsqueda en la parte superior de la página. La interfaz se compone de un chat y una sugerencia de instrucción (prompt), como se muestra en la siguiente imagen:
 
-![collections_agent_interface_es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/catalogo-beta/collections_agent_interface_es.png)
+![collections_agent_interface_es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/catálogo-beta/collections_agent_interface_es.png)
 
 Al hacer clic en la sugerencia `Crea una colección`, o ingresar otra instrucción en el chat, el agente guía la interacción hasta completar la acción deseada.
 
@@ -126,7 +126,7 @@ Para importar la plantilla sigue los pasos a continuación:
 2. Selecciona desde tu dispositivo la plantilla en formato `.csv` o `.xlsx`.
 3. Haz clic en `Abrir`.
 
-Sigue los mismos pasos de la creación de colección mediante lenguaje natural para [revisar](#revisar-el-plan-de-la-coleccion) y [aprobar el plan de la colección](#aprobar-el-plan-de-la-coleccion). El plan se actualiza con cada nueva instrucción y tú apruebas la estructura final sin necesidad de configurar la lógica interna de las subcolecciones. Las instrucciones posibles son:
+Sigue los mismos pasos de la creación de colección mediante lenguaje natural para revisar y aprobar el plan de la colección. El plan se actualiza con cada nueva instrucción y tú apruebas la estructura final sin necesidad de configurar la lógica interna de las subcolecciones. Las instrucciones posibles son:
 
 - **Agregar** ítems a la lista existente.
 - **Remover** ítems de la lista existente.
