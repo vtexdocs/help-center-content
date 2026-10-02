@@ -12932,6 +12932,18 @@
     {
       "from": "/es/docs/tutorials/match-de-anuncios-amazon",
       "to": "/es/docs/tutorials/publicacion-de-productos-amazon"
+    },
+    {
+      "from": "/pt/docs/tutorials/adicionando-suporte-a-3ds-na-integracao-com-a-adyen",
+      "to": "https://developers.vtex.com/docs/apps/adyen.payment-provider-v3#3ds-authentication-type-required"
+    },
+    {
+      "from": "/en/docs/tutorials/add-3ds-support-to-the-integration-with-adyen",
+      "to": "https://developers.vtex.com/docs/apps/adyen.payment-provider-v3#3ds-authentication-type-required"
+    },
+    {
+      "from": "/es/docs/tutorials/anadir-soporte-a-3ds-en-la-integracion-con-adyen",
+      "to": "https://developers.vtex.com/docs/apps/adyen.payment-provider-v3#3ds-authentication-type-required"
     }
     ]
   }

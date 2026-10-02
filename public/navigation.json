@@ -25316,6 +25316,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "What is 3D Secure?",
+                    "es": "¿Qué es 3D Secure?",
+                    "pt": "3D Secure"
+                  },
+                  "slug": {
+                    "en": "what-is-3d-secure",
+                    "es": "que-es-3d-secure",
+                    "pt": "o-que-e-3d-secure"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "What is Deposit Slip",
                     "es": "Qué es Ficha de Depósito",
                     "pt": "O que é  Ficha Depósito"
@@ -25324,21 +25339,6 @@
                     "en": "what-is-deposit-slip",
                     "es": "que-es-ficha-de-deposito",
                     "pt": "o-que-e-ficha-deposito"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is 3D Secure?",
-                    "es": "¿Qué es 3D Secure?",
-                    "pt": "O que é 3D Secure?"
-                  },
-                  "slug": {
-                    "en": "what-is-3d-secure",
-                    "es": "que-es-3d-secure",
-                    "pt": "o-que-e-3d-secure"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29908,21 +29908,6 @@
                   "origin": "",
                   "type": "category",
                   "children": [
-                    {
-                      "name": {
-                        "en": "Add 3DS support to the integration with Adyen",
-                        "es": "Añadir soporte a 3DS en la integración con Adyen",
-                        "pt": "Adicionar suporte a 3DS na integração com a Adyen"
-                      },
-                      "slug": {
-                        "en": "add-3ds-support-to-the-integration-with-adyen",
-                        "es": "anadir-soporte-a-3ds-en-la-integracion-con-adyen",
-                        "pt": "adicionando-suporte-a-3ds-na-integracao-com-a-adyen"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
                     {
                       "name": {
                         "en": "Setting up 3DS 2 authentication flow",
