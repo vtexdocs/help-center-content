@@ -39013,13 +39013,13 @@
             {
               "name": {
                 "en": "\"Error listing workspace dependencies\" when trying to access an account",
-                "es": "\"Error al listar las dependencias del espacio de trabajo\" al intentar acceder a una cuenta",
-                "pt": "\"Erro ao listar as dependências do espaço de trabalho\" ao tentar acessar uma conta"
+                "es": "\"Error al listar las dependencias del espacio de trabajo\" al intentar acceder a una cuenta.",
+                "pt": "Ocorreu o erro \"Erro ao listar as dependências do espaço de trabalho\" ao tentar acessar uma conta."
               },
               "slug": {
                 "en": "error-listing-workspace-dependencies-when-trying-to-access-an-account",
                 "es": "error-al-listar-las-dependencias-del-espacio-de-trabajo-al-intentar-acceder-a-una-cuenta",
-                "pt": "erro-ao-listar-as-dependencias-do-espaco-de-trabalho-ao-tentar-acessar-uma-conta"
+                "pt": "ocorreu-o-erro-erro-ao-listar-as-dependencias-do-espaco-de-trabalho-ao-tentar-acessar-uma-conta"
               },
               "origin": "",
               "type": "markdown",
@@ -51403,6 +51403,21 @@
                 "en": "faststore-cart-merges-assembly-line-items",
                 "es": "el-carro-faststore-fusiona-los-articulos-de-la-cadena-de-montaje",
                 "pt": "o-carrinho-faststore-mescla-itens-da-linha-de-montagem"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "FastStore does not return product SEO information (title and meta description) on GraphQL query",
+                "es": "FastStore no devuelve información SEO del producto (título y meta descripción) en la consulta GraphQL.",
+                "pt": "O FastStore não retorna informações de SEO do produto (título e meta descrição) em consultas GraphQL."
+              },
+              "slug": {
+                "en": "faststore-does-not-return-product-seo-information-title-and-meta-description-on-graphql-query",
+                "es": "faststore-no-devuelve-informacion-seo-del-producto-titulo-y-meta-descripcion-en-la-consulta-graphql",
+                "pt": "o-faststore-nao-retorna-informacoes-de-seo-do-produto-titulo-e-meta-descricao-em-consultas-graphql"
               },
               "origin": "",
               "type": "markdown",
