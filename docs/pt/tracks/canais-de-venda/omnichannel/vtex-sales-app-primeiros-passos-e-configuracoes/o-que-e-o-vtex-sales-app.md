@@ -1,51 +1,29 @@
 ---
-title: 'O que é o VTEX Sales App?'
-id: 7fnnVlG3Kv1Tay9iagc5yf
+title: 'O que é o VTEX Sales App'
 status: PUBLISHED
 createdAt: 2020-06-28T13:07:24.773Z
-updatedAt: 2025-11-11T18:03:19.146Z
-publishedAt: 2024-05-13T18:03:19.146Z
-firstPublishedAt: 2020-06-28T13:12:31.221Z
+updatedAt: 2026-09-09T18:03:19.146Z
 contentType: trackArticle
 productTeam: Shopping
 slugEN: what-is-vtex-sales-app
 locale: pt
-trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 1
 ---
 
-O VTEX Sales App é a principal solução da VTEX para operações de Comércio Unificado. Ele é um aplicativo que permite integrar seus canais de venda online e físicos, colocando seus clientes no centro do negócio.
+O **VTEX Sales App** é a solução Add-on da VTEX que estende o ecommerce para o varejo físico, oferecendo uma interface mobile e desktop para vendedores e representantes comerciais venderem a partir do estoque local e do catálogo online. A solução viabiliza novos canais de venda B2C, como atendimento em loja, eventos pop-up e televendas, integrando os canais físicos e digitais do negócio.
 
-Utilizando o VTEX Sales App, vendedores de lojas físicas podem atender clientes de uma maneira personalizada e realizar o processo de venda completo, desde ajudá-los a escolher os melhores produtos até o pagamento e a entrega.
+Ao unificar dados e ferramentas de vendas entre canais, o **Sales App** reduz a perda de vendas por ruptura de estoque, amplia o sortimento disponível ao cliente e aumenta a captura de pedidos, com gerenciamento integrado de pedidos, pagamentos e clientes.
 
-Tudo isso é feito por meio de uma única base de dados que garante uma experiência de Comércio Unificado. 
+## Principais benefícios
 
-Você poderá implementar uma estratégia de Prateleira Infinita, que te ajudará a:
+- Viabiliza fluxos de pedidos omnichannel de ponta a ponta, incluindo prateleira infinita, vendas por estoque local e checkout unificado entre canais.
+- Suporta novos modelos de venda B2C, como vendas remotas, lojas pop-up e eventos presenciais, com uma experiência mobile-first integrada à VTEX.
+- Opera em conjunto ou no lugar de um ponto de venda (PDV), dependendo do nível de integração e das extensões adotadas pela loja.
+- Permite que os vendedores iniciem e finalizem vendas em qualquer ponto da loja, com carrinhos mistos que combinam entrega, retirada e estoque local em tempo real, reduzindo filas.
 
-- Evitar falta de estoque e nunca perder vendas.
-- Ter visibilidade em tempo real do seu estoque. 
-- Beneficiar-se de busca inteligente, quando instalado o [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) no site. 
-- Estruturar transações de carrinho misto.
+## Integração nativa com a VTEX
 
-Assim, o processo de compra se torna mais rápido, tanto ao adicionar produtos ao carrinho quanto o pagamento e a confirmação. 
+O **Sales App** é nativamente integrado ao catálogo, estoque, promoções, preços e pedidos da VTEX, o que simplifica sua configuração para o lojista. Essa integração dá aos vendedores uma visão unificada dos clientes da loja, permitindo criar experiências de compra fluidas entre canais.
 
-O processo de checkout não precisa mais ser feito de um local físico e fixo. É possível iniciar e finalizar vendas em qualquer lugar da loja, o que reduz filas e torna a experiência do cliente mais agradável. 
-
-Seus vendedores terão uma visão 360º do cliente e poderão criar experiências de compra memoráveis e sem atritos.
-
-O VTEX Sales App é um dos produtos-chave no seu comércio unificado ou estratégia omnichannel. Os guias e tutoriais que você encontrará aqui lhe mostrarão como configurar tudo em tempo recorde.
-
-### Saiba mais
-
-Veja abaixo todos os guias que recomendamos para você começar a usar o VTEX Sales App.
-
-* **[VTEX Sales App - Primeiros passos e configurações](/pt/docs/tracks/o-que-e-o-vtex-sales-app)**: conceitos, pré-requisitos e instruções para configurar o VTEX Sales App. __Você está nesta trilha.__
-* **[VTEX Sales App - Pagamentos](/pt/docs/tracks/configurar-metodos-de-pagamento-para-o-vtex-sales-app)**: o passo a passo para configurar os métodos de pagamento por adquirente homologado.
-* **[VTEX Sales App - Usando o app](/pt/docs/tracks/vtex-sales-app-usando-o-app)**: as funcionalidades do aplicativo do VTEX Sales App e como usá-las.
-* **[Estratégias de Comércio Unificado](/pt/docs/tracks/configurar-lojas-fisicas-como-pontos-de-retirada)**: guias com o passo a passo para implementar algumas das principais estratégias de Comércio Unificado na VTEX.
-
-Para ver todas as trilhas relacionadas ao VTEX Sales App, você pode clicar em **[`Comece aqui`](/pt/tracks/)** no topo da página e descer até a categoria **Omnichannel**.
-
-Clique em `Próximo` para acessar os próximos artigos da trilha **[VTEX Sales App - Primeiros passos e configurações](/pt/docs/tracks/o-que-e-o-vtex-sales-app)**.
-
+Esta trilha de artigos mostra como configurar o **Sales App** de acordo com o seu caso de uso.
