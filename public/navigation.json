@@ -676,6 +676,37 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "October",
+                "es": "Octubre",
+                "pt": "Outubro"
+              },
+              "slug": {
+                "en": "october",
+                "es": "octubre",
+                "pt": "outubro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Destination Retail",
+                    "es": "Retail de destino",
+                    "pt": "Nova tela Varejo de destino para publishers"
+                  },
+                  "slug": {
+                    "en": "2026-10-02-destination-retail",
+                    "es": "2026-10-02-retail-de-destino",
+                    "pt": "2026-10-02-varejo-de-destino"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
@@ -30897,6 +30928,21 @@
           "origin": "",
           "type": "category",
           "children": [
+            {
+              "name": {
+                "en": "Destination retail",
+                "es": "Retail de destino",
+                "pt": "Varejo de destino"
+              },
+              "slug": {
+                "en": "destination-retail",
+                "es": "retail-de-destino",
+                "pt": "varejo-de-destino"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
             {
               "name": {
                 "en": "VTEX Ads metrics and attribution",
