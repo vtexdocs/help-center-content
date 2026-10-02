@@ -121,16 +121,25 @@
       "product": "Billing",
       "category": "Contracts",
       "resource": "Save contracts",
-      "description": "Edit contracts in the Invoices module of the VTEX platform, including registering a manifest of any value and charging a take rate at any percentage.",
+      "description": "Edit contracts in the VTEX platform's Invoices module, including registering invoices of any value and charging take rates at any percentage.",
       "key": "put_contract",
       "resourceId": "134738",
       "productId": "43"
     },
     {
       "product": "Billing",
+      "category": "Credit",
+      "resource": "View Credits",
+      "description": "Allows you to view a company's billing credits.",
+      "key": "billing.credit.view",
+      "resourceId": "2165290",
+      "productId": "43"
+    },
+    {
+      "product": "Billing",
       "category": "Invoice",
       "resource": "Invoices List ",
-      "description": "Viewing the customer's invoice list, as well as the invoice details, which include information such as GMV and take rate.",
+      "description": "Viewing the customer's invoice list, as well as the invoice details, which includes information such as GMV and take rate.",
       "key": "list_invoices",
       "resourceId": "105015",
       "productId": "43"
@@ -310,7 +319,7 @@
       "product": "Catalog",
       "category": "Admin",
       "resource": "Admin list",
-      "description": "Lists the system administrators.",
+      "description": "List the system administrators.",
       "key": "Administrador.aspx",
       "resourceId": "882",
       "productId": "2"
@@ -607,7 +616,7 @@
       "product": "Catalog",
       "category": "Content",
       "resource": "Fields list",
-      "description": "Lists all fields in the system.",
+      "description": "List all the fields in the system.",
       "key": "Campo.aspx",
       "resourceId": "891",
       "productId": "2"
@@ -679,7 +688,7 @@
       "product": "Catalog",
       "category": "Content",
       "resource": "Price range",
-      "description": "Lists all price ranges",
+      "description": "List all price ranges",
       "key": "FaixaPreco.aspx",
       "resourceId": "933",
       "productId": "2"
@@ -751,7 +760,7 @@
       "product": "Catalog",
       "category": "Content",
       "resource": "SKUs",
-      "description": "Lists all registered SKUs.",
+      "description": "List all registered SKUs.",
       "key": "Sku.aspx",
       "resourceId": "996",
       "productId": "2"
@@ -1210,7 +1219,7 @@
       "product": "Commerce Content",
       "category": "Branch",
       "resource": "Manage Dev Branch",
-      "description": "Allows you to create development branches and commit to them.",
+      "description": "Allows you to create development branches and commit to them.\n\n",
       "key": "ManageDevBranch",
       "resourceId": "2158137",
       "productId": "115"
@@ -2110,7 +2119,7 @@
       "product": "Message Center",
       "category": "Templates",
       "resource": "View template list",
-      "description": "View the list of available Message Center templates.",
+      "description": "View the list of available templates in the Message Center.",
       "key": "template-listar",
       "resourceId": "1203",
       "productId": "23"
@@ -2227,7 +2236,7 @@
       "product": "OMS",
       "category": "OMS access",
       "resource": "Only show orders created by the user (via call center)",
-      "description": "Orders will be processed via the email address registered through the callcenteroperatoremail.",
+      "description": "Orders will be processed via the email address registered with callcenteroperatoremail.",
       "key": "callCenterOperatorFilter",
       "resourceId": "428968",
       "productId": "19"
@@ -2434,7 +2443,7 @@
       "product": "Payments",
       "category": "Card Token Vault",
       "resource": "Edit Card Tokens",
-      "description": "Allows editing of data from tokenized cards previously created in the Card Token Vault.",
+      "description": "Allows editing of data for tokenized cards previously created in the Card Token Vault.",
       "key": "ManageCardTokens",
       "resourceId": "2078744",
       "productId": "114"
@@ -2479,7 +2488,7 @@
       "product": "Payments",
       "category": "Card Token Vault",
       "resource": "Get Import Card Tokens Report",
-      "description": "Download the error report that occurred during the import process.",
+      "description": "Download the error report for the import errors that occurred.",
       "key": "GetImportCardTokensReport",
       "resourceId": "2078849",
       "productId": "114"
@@ -2501,33 +2510,6 @@
       "key": "ManageDefenseMode",
       "resourceId": "2160774",
       "productId": "114"
-    },
-    {
-      "product": "PersonalShopper App",
-      "category": "Analytics",
-      "resource": "View Analytics",
-      "description": "View Analytics for the Personal Shopper app.",
-      "key": "view-analytics",
-      "resourceId": "1639728",
-      "productId": "100"
-    },
-    {
-      "product": "PersonalShopper App",
-      "category": "Call",
-      "resource": "View List Call",
-      "description": "View the call page.",
-      "key": "view-list-call",
-      "resourceId": "1639430",
-      "productId": "100"
-    },
-    {
-      "product": "PersonalShopper App",
-      "category": "Setting",
-      "resource": "View Setting",
-      "description": "Edit Personal Shopper app settings.",
-      "key": "view-setting",
-      "resourceId": "1643056",
-      "productId": "100"
     },
     {
       "product": "Portal",
@@ -2891,9 +2873,27 @@
     },
     {
       "product": "User Rights",
+      "category": "User Rights",
+      "resource": "View Erasure Request",
+      "description": "View user data removal requests.",
+      "key": "user_rights_read_forget_job",
+      "resourceId": "2163605",
+      "productId": "99"
+    },
+    {
+      "product": "User Rights",
+      "category": "User Rights",
+      "resource": "Create Erasure Request",
+      "description": "Create user data removal requests.",
+      "key": "user_rights_create_forget_job",
+      "resourceId": "2163606",
+      "productId": "99"
+    },
+    {
+      "product": "User Rights",
       "category": "user-rights-request",
       "resource": "Read user rights requests",
-      "description": "View user rights requests, either in list or detailed format.",
+      "description": "View user rights requests, either in list or detailed format via the legacy user rights API.",
       "key": "user_rights_request_read",
       "resourceId": "1634546",
       "productId": "99"
@@ -2902,7 +2902,7 @@
       "product": "User Rights",
       "category": "user-rights-request",
       "resource": "Write user rights requests",
-      "description": "Create, update, or remove user rights requests.",
+      "description": "Create, update, or remove user rights requests via the legacy user rights API.",
       "key": "user_rights_request_write",
       "resourceId": "1634554",
       "productId": "99"
@@ -2911,7 +2911,7 @@
       "product": "User Rights",
       "category": "user-rights-request",
       "resource": "Process User Rights Removal Request",
-      "description": "Process user rights requests of the removal type.",
+      "description": "Process user rights removal requests via the legacy user rights API.",
       "key": "removal-request-process",
       "resourceId": "1705138",
       "productId": "99"
@@ -3363,16 +3363,25 @@
       "product": "Billing",
       "category": "Contracts",
       "resource": "Save contracts",
-      "description": "Edite los contratos en el módulo de Facturas de la plataforma VTEX, incluyendo el registro de un manifiesto de cualquier valor y el cobro de una tasa de comisión de cualquier porcentaje.",
+      "description": "Edite los contratos en el módulo de Facturas de la plataforma VTEX, incluyendo el registro de facturas de cualquier valor y el cálculo de comisiones en cualquier porcentaje.",
       "key": "put_contract",
       "resourceId": "134738",
       "productId": "43"
     },
     {
       "product": "Billing",
+      "category": "Credit",
+      "resource": "View Credits",
+      "description": "Permite ver los créditos de facturación de una empresa.",
+      "key": "billing.credit.view",
+      "resourceId": "2165290",
+      "productId": "43"
+    },
+    {
+      "product": "Billing",
       "category": "Invoice",
       "resource": "Invoices List ",
-      "description": "Visualización de la lista de facturas del cliente, así como de los detalles de las mismas, que incluyen información como el volumen bruto de mercancías (GMV) y el margen de beneficio.",
+      "description": "Visualización de la lista de facturas del cliente, así como de los detalles de la factura, que incluyen información como el volumen bruto de mercancías (GMV) y el margen de beneficio.",
       "key": "list_invoices",
       "resourceId": "105015",
       "productId": "43"
@@ -3498,7 +3507,7 @@
       "product": "CDN API",
       "category": "WAF Control",
       "resource": "View WafControl Metrics",
-      "description": "Ver métricas de WAF.",
+      "description": "Ver métricas WAF.",
       "key": "ViewWafControlMetrics",
       "resourceId": "2142573",
       "productId": "108"
@@ -4308,7 +4317,7 @@
       "product": "Catalog API",
       "category": "General",
       "resource": "Export Spreadsheet",
-      "description": "Exportar hoja de cálculo con información del catálogo.",
+      "description": "Exportar la hoja de cálculo con la información del catálogo.",
       "key": "ExportSpreadsheet",
       "resourceId": "2038163",
       "productId": "107"
@@ -4362,7 +4371,7 @@
       "product": "Checkout",
       "category": "CheckoutResources",
       "resource": "Shopping Cart Full Access",
-      "description": "Acceso de lectura y escritura para todos los carritos de compra. Permite visualizar los datos del carrito en su totalidad (sin enmascaramiento). También permite solicitudes de simulación de carritos privados.",
+      "description": "Acceso de lectura y escritura para todos los carritos de compra. Permite visualizar los datos del carrito en su totalidad (sin enmascarar). También permite solicitudes de simulación de carritos privados.",
       "key": "AcessaTodosCarrinhos",
       "resourceId": "1091",
       "productId": "5"
@@ -4389,7 +4398,7 @@
       "product": "Checkout",
       "category": "CheckoutResources",
       "resource": "Save OrderForm Configuration",
-      "description": "Guardar la configuración del carrito de compras.",
+      "description": "Guardar la configuración del carrito de compra.",
       "key": "SaveOrderFormConfiguration",
       "resourceId": "600073",
       "productId": "5"
@@ -4452,7 +4461,7 @@
       "product": "Commerce Content",
       "category": "Branch",
       "resource": "Manage Dev Branch",
-      "description": "Te permite crear ramas de desarrollo y confirmar cambios en ellas.",
+      "description": "Te permite crear ramas de desarrollo y confirmar cambios en ellas.\n\n",
       "key": "ManageDevBranch",
       "resourceId": "2158137",
       "productId": "115"
@@ -5316,7 +5325,7 @@
       "product": "Message Center",
       "category": "Messages",
       "resource": "Send Message ",
-      "description": "Envía un mensaje desde el Centro de mensajes.",
+      "description": "Envía un mensaje al Centro de mensajes.",
       "key": "send-message",
       "resourceId": "1026939",
       "productId": "23"
@@ -5352,7 +5361,7 @@
       "product": "Message Center",
       "category": "Templates",
       "resource": "View template list",
-      "description": "Consulta la lista de plantillas disponibles para el Centro de mensajes.",
+      "description": "Consulta la lista de plantillas disponibles en el Centro de mensajes.",
       "key": "template-listar",
       "resourceId": "1203",
       "productId": "23"
@@ -5469,7 +5478,7 @@
       "product": "OMS",
       "category": "OMS access",
       "resource": "Only show orders created by the user (via call center)",
-      "description": "Los pedidos se procesarán a través de la dirección de correo electrónico registrada en el correo del operador del centro de llamadas.",
+      "description": "Los pedidos se procesarán a través de la dirección de correo electrónico registrada en callcenteroperatoremail.",
       "key": "callCenterOperatorFilter",
       "resourceId": "428968",
       "productId": "19"
@@ -5577,7 +5586,7 @@
       "product": "PCI Gateway",
       "category": "Payment-ManageInfrastructure",
       "resource": "Manage Infrastructure",
-      "description": "Realizar configuraciones críticas en la infraestructura de Gateway. Disponible solo para administradores.",
+      "description": "Realizar configuraciones críticas en la infraestructura de Gateway. Solo disponible para administradores.",
       "key": "ManageInfrastructure",
       "resourceId": "1157",
       "productId": "6"
@@ -5676,7 +5685,7 @@
       "product": "Payments",
       "category": "Card Token Vault",
       "resource": "Edit Card Tokens",
-      "description": "Permite editar datos de tarjetas tokenizadas creadas previamente en la Bóveda de Tokens de Tarjetas.",
+      "description": "Permite editar los datos de las tarjetas tokenizadas creadas previamente en la Bóveda de Tokens de Tarjetas.",
       "key": "ManageCardTokens",
       "resourceId": "2078744",
       "productId": "114"
@@ -5721,7 +5730,7 @@
       "product": "Payments",
       "category": "Card Token Vault",
       "resource": "Get Import Card Tokens Report",
-      "description": "Descargue el informe de errores que se produjo durante el proceso de importación.",
+      "description": "Descargue el informe de errores para conocer los errores de importación que se hayan producido.",
       "key": "GetImportCardTokensReport",
       "resourceId": "2078849",
       "productId": "114"
@@ -5745,33 +5754,6 @@
       "productId": "114"
     },
     {
-      "product": "PersonalShopper App",
-      "category": "Analytics",
-      "resource": "View Analytics",
-      "description": "Consulta las estadísticas de la aplicación Personal Shopper.",
-      "key": "view-analytics",
-      "resourceId": "1639728",
-      "productId": "100"
-    },
-    {
-      "product": "PersonalShopper App",
-      "category": "Call",
-      "resource": "View List Call",
-      "description": "Consulta la página de la convocatoria.",
-      "key": "view-list-call",
-      "resourceId": "1639430",
-      "productId": "100"
-    },
-    {
-      "product": "PersonalShopper App",
-      "category": "Setting",
-      "resource": "View Setting",
-      "description": "Edita la configuración de la aplicación Personal Shopper.",
-      "key": "view-setting",
-      "resourceId": "1643056",
-      "productId": "100"
-    },
-    {
       "product": "Portal",
       "category": "API",
       "resource": "Manage portal",
@@ -5784,7 +5766,7 @@
       "product": "Pricing",
       "category": "Price List",
       "resource": "Read prices",
-      "description": "Ver todos los precios de un SKU.",
+      "description": "Ver todos los precios de un artículo.",
       "key": "read_prices",
       "resourceId": "152730",
       "productId": "65"
@@ -6054,7 +6036,7 @@
       "product": "Seller Register",
       "category": "Seller Administration",
       "resource": "View Seller",
-      "description": "Podrá ver todos los vendedores vinculados a la cuenta de la plataforma descrita en la página de Gestión de vendedores, incluyendo la posibilidad de recuperar datos de los vendedores, ya sea de la lista de vendedores o de un vendedor específico.",
+      "description": "Podrá ver todos los vendedores vinculados a la cuenta del mercado descrita en la página de Gestión de vendedores, incluyendo la posibilidad de recuperar datos de los vendedores, ya sea de la lista de vendedores o de un vendedor específico.",
       "key": "view-seller",
       "resourceId": "575457",
       "productId": "73"
@@ -6133,9 +6115,27 @@
     },
     {
       "product": "User Rights",
+      "category": "User Rights",
+      "resource": "View Erasure Request",
+      "description": "Ver solicitudes de eliminación de datos de usuario.",
+      "key": "user_rights_read_forget_job",
+      "resourceId": "2163605",
+      "productId": "99"
+    },
+    {
+      "product": "User Rights",
+      "category": "User Rights",
+      "resource": "Create Erasure Request",
+      "description": "Crear solicitudes de eliminación de datos de usuario.",
+      "key": "user_rights_create_forget_job",
+      "resourceId": "2163606",
+      "productId": "99"
+    },
+    {
+      "product": "User Rights",
       "category": "user-rights-request",
       "resource": "Read user rights requests",
-      "description": "Consulte las solicitudes de derechos de usuario, ya sea en formato de lista o en formato detallado.",
+      "description": "Consulte las solicitudes de derechos de usuario, ya sea en formato de lista o en formato detallado, a través de la API de derechos de usuario heredada.",
       "key": "user_rights_request_read",
       "resourceId": "1634546",
       "productId": "99"
@@ -6144,7 +6144,7 @@
       "product": "User Rights",
       "category": "user-rights-request",
       "resource": "Write user rights requests",
-      "description": "Crear, actualizar o eliminar solicitudes de derechos de usuario.",
+      "description": "Cree, actualice o elimine solicitudes de derechos de usuario a través de la API de derechos de usuario heredada.",
       "key": "user_rights_request_write",
       "resourceId": "1634554",
       "productId": "99"
@@ -6153,7 +6153,7 @@
       "product": "User Rights",
       "category": "user-rights-request",
       "resource": "Process User Rights Removal Request",
-      "description": "Tramitar las solicitudes de derechos de usuario de tipo eliminación.",
+      "description": "Procese las solicitudes de eliminación de derechos de usuario a través de la API de derechos de usuario heredada.",
       "key": "removal-request-process",
       "resourceId": "1705138",
       "productId": "99"
@@ -6608,6 +6608,15 @@
       "description": "Editar contratos no módulo Faturas da plataforma VTEX, incluindo o cadastro de manifesto de qualquer valor e cobrança de take rate em qualquer percentual.",
       "key": "put_contract",
       "resourceId": "134738",
+      "productId": "43"
+    },
+    {
+      "product": "Billing",
+      "category": "Credit",
+      "resource": "View Credits",
+      "description": "Permite visualizar os créditos de faturamento de uma empresa.",
+      "key": "billing.credit.view",
+      "resourceId": "2165290",
       "productId": "43"
     },
     {
@@ -7694,7 +7703,7 @@
       "product": "Commerce Content",
       "category": "Branch",
       "resource": "Manage Dev Branch",
-      "description": "Permite criar branches de desenvolvimento e fazer commits nelas.",
+      "description": "Permite criar branches de desenvolvimento e fazer commits nelas.\r\n",
       "key": "ManageDevBranch",
       "resourceId": "2158137",
       "productId": "115"
@@ -8987,33 +8996,6 @@
       "productId": "114"
     },
     {
-      "product": "PersonalShopper App",
-      "category": "Analytics",
-      "resource": "View Analytics",
-      "description": "Visualizar Analytics do app Personal Shopper.",
-      "key": "view-analytics",
-      "resourceId": "1639728",
-      "productId": "100"
-    },
-    {
-      "product": "PersonalShopper App",
-      "category": "Call",
-      "resource": "View List Call",
-      "description": "Visualizar a página de chamadas.",
-      "key": "view-list-call",
-      "resourceId": "1639430",
-      "productId": "100"
-    },
-    {
-      "product": "PersonalShopper App",
-      "category": "Setting",
-      "resource": "View Setting",
-      "description": "Editar configurações do app Personal Shopper.",
-      "key": "view-setting",
-      "resourceId": "1643056",
-      "productId": "100"
-    },
-    {
       "product": "Portal",
       "category": "API",
       "resource": "Manage portal",
@@ -9375,9 +9357,27 @@
     },
     {
       "product": "User Rights",
+      "category": "User Rights",
+      "resource": "View Erasure Request",
+      "description": "Visualizar solicitações de remoção de dados de usuário.",
+      "key": "user_rights_read_forget_job",
+      "resourceId": "2163605",
+      "productId": "99"
+    },
+    {
+      "product": "User Rights",
+      "category": "User Rights",
+      "resource": "Create Erasure Request",
+      "description": "Criar solicitações de remoção de dados de usuário.",
+      "key": "user_rights_create_forget_job",
+      "resourceId": "2163606",
+      "productId": "99"
+    },
+    {
+      "product": "User Rights",
       "category": "user-rights-request",
       "resource": "Read user rights requests",
-      "description": "Visualizar solicitações de direitos de usuários, seja em lista ou detalhadas.",
+      "description": "Visualizar solicitações de direitos de usuários, seja em lista ou detalhadas via API legada de user rights.",
       "key": "user_rights_request_read",
       "resourceId": "1634546",
       "productId": "99"
@@ -9386,7 +9386,7 @@
       "product": "User Rights",
       "category": "user-rights-request",
       "resource": "Write user rights requests",
-      "description": "Criar, atualizar ou remover solicitações de direitos de usuários.",
+      "description": "Criar, atualizar ou remover solicitações de direitos de usuários via API legada de user rights.",
       "key": "user_rights_request_write",
       "resourceId": "1634554",
       "productId": "99"
@@ -9395,7 +9395,7 @@
       "product": "User Rights",
       "category": "user-rights-request",
       "resource": "Process User Rights Removal Request",
-      "description": "Processar solicitações de direitos de usuários do tipo remoção.",
+      "description": "Processar solicitações de direitos de usuários do tipo remoção via API legada de user rights.",
       "key": "removal-request-process",
       "resourceId": "1705138",
       "productId": "99"
