@@ -46,7 +46,7 @@ In addition to using the [B2B Buyer Portal](https://help.vtex.com/docs/tutorials
 
 In the VTEX Admin, go to **Catalog > Collections Agent**, or type **Collections Agent** in the search bar at the top of the page. The interface includes a conversational window and a prompt suggestion, as shown in the following image:
 
-![Agent interface](linkPlaceholder)
+![collections_agent_interface_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/collections_agent_interface_en.png)
 
 By clicking the suggestion `Create a collection`, or typing another instruction in the chat, the agent starts the support chat and guides the interaction until the desired action is completed.
 
