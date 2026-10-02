@@ -29,7 +29,7 @@ A VTEX dispõe de diversas proteções contra possíveis ataques a lojas. Ainda 
 
 Sistemas antifraude são especializados em analisar compras de ecommerces com o intuito de identificar operações fraudulentas. Eles analisam dados comportamentais dos compradores e impedem que compras suspeitas sejam realizadas.
 
-Saiba mais sobre [sistemas antifraude](https://help.vtex.com/pt/docs/tutorials/o-que-e-antifraude) e como utilizá-los na VTEX.
+Saiba mais sobre [sistemas antifraude](/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#antifraude) e como utilizá-los na VTEX.
 
 > ⚠️ Para aumentar a segurança, configure seu antifraude para todos os métodos de pagamento disponíveis na sua loja.
 

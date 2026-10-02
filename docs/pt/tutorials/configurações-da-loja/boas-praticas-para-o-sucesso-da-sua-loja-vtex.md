@@ -54,7 +54,7 @@ Os principais benefícios em criar uma documentação da arquitetura da sua oper
 
 Existem estratégias para prevenir e reduzir a exposição da sua loja ao risco de ataques maliciosos. Algumas das principais são:
 
-* **Antifraude:** configure um sistema [antifraude](/pt/tutorial/what-is-anti-fraud) para todos os métodos de pagamento da sua loja.  
+* **Antifraude:** configure um sistema [antifraude](/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#antifraude) para todos os métodos de pagamento da sua loja.  
 * **reCAPTCHA:** use o [reCAPTCHA](/pt/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP#) para se prevenir de fraudes com falsos usuários criados por programas maliciosos.
 * **Autenticação:** caso sua loja esteja sofrendo ataques recorrentes, considere desabilitar o login por senha e optar por outra forma de [autenticação](/pt/docs/tutorials/autenticacao) para os clientes da sua loja.
 

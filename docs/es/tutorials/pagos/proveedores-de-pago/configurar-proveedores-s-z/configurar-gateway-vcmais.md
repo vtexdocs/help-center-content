@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En la plataforma VTEX, usted puede configurar el [gateway](/es/docs/tutorials/que-es-un-gateway-de-pagos) VC+ para recibir pagos por medio de pagarés.
+En la plataforma VTEX, usted puede configurar el [gateway](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#gateway) VC+ para recibir pagos por medio de pagarés.
 
 Para configurar VC+, siga estos pasos:
 

@@ -54,7 +54,7 @@ Los principales beneficios de elaborar y mantener actualizada la documentación 
 
 Existen estrategias para prevenir y reducir la exposición de tu tienda al riesgo de ataques maliciosos. Algunas de las principales son:
 
-* **Antifraude:** configura un sistema [antifraude](/es/tutorial/what-is-anti-fraud) para todos los medios de pago de tu tienda.  
+* **Antifraude:** configura un sistema [antifraude](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#antifraude) para todos los medios de pago de tu tienda.  
 * **reCAPTCHA:** utiliza [reCAPTCHA](/es/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP#) para prevenir fraudes con falsos usuarios creados por programas maliciosos.
 * **Autenticación:** si tu tienda está experimentando ataques recurrentes, considera desactivar el inicio de sesión mediante contraseña y opta por otro método de [autenticación](/es/docs/tutorials/autenticacion) para los clientes de tu tienda.
 

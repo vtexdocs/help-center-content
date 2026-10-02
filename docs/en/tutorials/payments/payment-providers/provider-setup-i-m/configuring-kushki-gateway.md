@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Kushki is a [gateway](/en/docs/tutorials/what-is-a-payment-gateway) with [PCI certification](/en/docs/tutorials/what-is-the-pci-ssc) focused on Latin America.
+Kushki is a [gateway](/en/docs/tutorials/financial-agents-in-the-payment-flow#gateway) with [PCI certification](/en/docs/tutorials/what-is-the-pci-ssc) focused on Latin America.
 
 To set up Kushki, follow the steps below:
 
