@@ -113,12 +113,12 @@ Después de revisar el plan confirma la operación para que el agente aplique lo
 
 Puedes montar una nueva colección mediante la importación de datos a través de una plantilla en formato `.csv` o `.xlsx`. La plantilla debe contener una lista de ítems con las siguientes columnas de identificación:
 
-| Columna de la plantilla | Descripción                                                 |
-| :----------------------- | :----------------------------------------------------------- |
-| Product ID              | Código numérico identificador del producto. |
-| Product Reference ID    | Código de referencia del producto.          |
-| SKU ID                  | Código numérico identificador del SKU.      |
-| SKU Reference ID        | Código de referencia del SKU.               |
+| Columna de la plantilla | Descripción |
+| :--- | :--- |
+| Product ID | Código numérico identificador del producto. |
+| Product Reference ID | Código de referencia del producto. |
+| SKU ID | Código numérico identificador del SKU. |
+| SKU Reference ID | Código de referencia del SKU. |
 
 Para importar la plantilla sigue los pasos a continuación:
 
