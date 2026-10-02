@@ -126,7 +126,7 @@ To import the spreadsheet, follow the steps below:
 2. Locally select the spreadsheet in `.csv` or `.xlsx` format.
 3. Click `Open`.
 
-Follow the same steps as creating a collection via natural language to [review](#reviewing-the-collection-plan) and [approve the collection plan](#approving-the-collection-plan). The plan is updated with each new instruction, and you approve the final structure without needing to build the internal logic of subcollections. Possible instructions are:
+Follow the same steps as creating a collection via natural language to review and approve the collection plan. The plan is updated with each new instruction, and you approve the final structure without needing to build the internal logic of subcollections. Possible instructions are:
 
 - **Add** items to the existing list.
 - **Remove** items from the existing list.

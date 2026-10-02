@@ -126,7 +126,7 @@ Para importar la plantilla sigue los pasos a continuación:
 2. Selecciona desde tu dispositivo la plantilla en formato `.csv` o `.xlsx`.
 3. Haz clic en `Abrir`.
 
-Sigue los mismos pasos de la creación de colección mediante lenguaje natural para [revisar](#revisar-el-plan-de-la-coleccion) y [aprobar el plan de la colección](#aprobar-el-plan-de-la-coleccion). El plan se actualiza con cada nueva instrucción y tú apruebas la estructura final sin necesidad de configurar la lógica interna de las subcolecciones. Las instrucciones posibles son:
+Sigue los mismos pasos de la creación de colección mediante lenguaje natural para revisar y aprobar el plan de la colección. El plan se actualiza con cada nueva instrucción y tú apruebas la estructura final sin necesidad de configurar la lógica interna de las subcolecciones. Las instrucciones posibles son:
 
 - **Agregar** ítems a la lista existente.
 - **Remover** ítems de la lista existente.

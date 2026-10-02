@@ -126,7 +126,7 @@ Para importar a planilha, realize os seguintes passos:
 2. Selecione localmente a planilha em formato `.csv` ou `.xlsx`.
 3. Clique em `Abrir`.
 
-Siga os mesmos passos da criação de coleção via linguagem natural para [revisar](#revisar-o-plano-de-colecao) e [aprovar o plano de coleção](#aprovar-o-plano-de-colecao). O plano é atualizado a cada nova instrução, e você aprova a estrutura final sem precisar montar a lógica interna de subcoleções. As instruções possíveis são:
+Siga os mesmos passos da criação de coleção via linguagem natural para revisar e aprovar o plano de coleção. O plano é atualizado a cada nova instrução, e você aprova a estrutura final sem precisar montar a lógica interna de subcoleções. As instruções possíveis são:
 
 - **Adicionar** itens à lista existente.
 - **Remover** itens da lista existente.
