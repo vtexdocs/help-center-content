@@ -116,37 +116,6 @@
             },
             {
               "name": {
-                "en": "Setembro",
-                "es": "Setembro",
-                "pt": "Setembro"
-              },
-              "slug": {
-                "en": "setembro",
-                "es": "setembro",
-                "pt": "2026-setembro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Pedidos: visualização de promoção por item disponível para todas as lojas",
-                    "es": "Pedidos: visualização de promoção por item disponível para todas as lojas",
-                    "pt": "Pedidos: visualização de promoção por item disponível para todas as lojas"
-                  },
-                  "slug": {
-                    "en": "",
-                    "es": "",
-                    "pt": "2026-09-18-pedidos-visualizacao-de-promocao-por-item-disponivel-para-todas-as-lojas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "August",
                 "es": "Agosto",
                 "pt": "Agosto"
@@ -701,6 +670,37 @@
                     "en": "2026-01-08-new-audit-event-export",
                     "es": "2026-01-08-nueva-audit-exportacion-eventos",
                     "pt": "2026-01-08-nova-exportacao-eventos-audit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Outubro",
+                "es": "Outubro",
+                "pt": "Outubro"
+              },
+              "slug": {
+                "en": "outubro",
+                "es": "outubro",
+                "pt": "outubro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Pedidos: visualização de promoção por item disponível para todas as lojas",
+                    "es": "Pedidos: visualização de promoção por item disponível para todas as lojas",
+                    "pt": "Pedidos: visualização de promoção por item disponível para todas as lojas"
+                  },
+                  "slug": {
+                    "en": "",
+                    "es": "",
+                    "pt": "2026-10-05-pedidos-visualizacao-de-promocao-por-item-disponivel-para-todas-as-lojas"
                   },
                   "origin": "",
                   "type": "markdown",
