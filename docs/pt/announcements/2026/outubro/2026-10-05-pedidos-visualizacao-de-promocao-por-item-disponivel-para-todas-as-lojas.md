@@ -1,9 +1,9 @@
 ---
 title: 'Pedidos: visualização de promoção por item disponível para todas as lojas'
-createdAt: 2026-09-18T12:00:00.000Z
-updatedAt: 2026-09-18T12:00:00.000Z
+createdAt: 2026-10-05T12:00:00.000Z
+updatedAt: 2026-10-05T12:00:00.000Z
 contentType: updates
-productTeam: Order Management
+productTeam: Orders
 slugEN: orders-item-level-promotions-display-general-availability
 locale: pt
 announcementSynopsisPT: 'A visualização de promoções por item nos detalhes do pedido sai do beta aberto e passa a estar disponível para todas as lojas VTEX.'
@@ -13,7 +13,7 @@ tags:
   - Pedidos
 ---
 
-A visualização de promoções por item no módulo **Pedidos** do Admin VTEX agora está disponível para todas as lojas, em todas as regiões. O recurso, [lançado em beta aberto](https://help.vtex.com/pt/announcements/2026-07-31-pedidos-nova-visualiza%C3%A7%C3%A3o-de-promo%C3%A7%C3%A3o-por-item-beta-aberto-) em julho de 2026, mostra quais promoções foram aplicadas a cada item de um pedido e quais benefícios de carrinho esses itens acionaram, diretamente na tela de detalhes do pedido.
+A visualização de promoções por item no módulo **Pedidos** do Admin VTEX agora está disponível para todas as lojas. O recurso, [lançado em beta aberto](https://help.vtex.com/pt/announcements/2026-07-31-pedidos-nova-visualiza%C3%A7%C3%A3o-de-promo%C3%A7%C3%A3o-por-item-beta-aberto-) em julho de 2026, mostra quais promoções foram aplicadas a cada item de um pedido e quais benefícios de carrinho esses itens acionaram, diretamente na tela de detalhes do pedido.
 
 ## O que mudou?
 
