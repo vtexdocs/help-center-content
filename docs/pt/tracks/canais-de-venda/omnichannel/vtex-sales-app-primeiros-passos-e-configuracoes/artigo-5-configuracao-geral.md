@@ -11,7 +11,7 @@ trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 5
 ---
 
-Após a instalação, você vai realizar as configurações básicas do aplicativo, descritas abaixo:
+Após a [instalação do VTEX Sales App](/pt/docs/tracks/instalar-o-vtex-sales-app), realize a sua configuração seguindo os passos abaixo:
 
 1. No Admin VTEX, acesse **Aplicativos > Hub de Extensões > Gerenciamento de Aplicativos**, ou digite **Gerenciamento de Aplicativos** na barra de busca no topo da página.
 2. Na aba `Instalados`, encontre o **VTEX Sales App** e clique em <i class="fa-solid fa-gear"></i> `Configurações`.
