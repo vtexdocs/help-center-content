@@ -48934,13 +48934,13 @@
             {
               "name": {
                 "en": "Final domain different from myvtex due to old component version on Site Editor",
-                "es": "Dominio final diferente de myvtex debido a la versión antigua del componente en el Editor de Sitios",
-                "pt": "O domínio final é diferente do myvtex devido à versão antiga do componente no Site Editor"
+                "es": "El dominio final es diferente de myvtex debido a una versión antigua del componente en el editor de sitios.",
+                "pt": "O domínio final é diferente de myvtex devido à versão antiga do componente no Editor de Sites."
               },
               "slug": {
                 "en": "final-domain-different-from-myvtex-due-to-old-component-version-on-site-editor",
-                "es": "dominio-final-diferente-de-myvtex-debido-a-la-version-antigua-del-componente-en-el-editor-de-sitios",
-                "pt": "o-dominio-final-e-diferente-do-myvtex-devido-a-versao-antiga-do-componente-no-site-editor"
+                "es": "el-dominio-final-es-diferente-de-myvtex-debido-a-una-version-antigua-del-componente-en-el-editor-de-sitios",
+                "pt": "o-dominio-final-e-diferente-de-myvtex-devido-a-versao-antiga-do-componente-no-editor-de-sites"
               },
               "origin": "",
               "type": "markdown",
