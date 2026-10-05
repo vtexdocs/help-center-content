@@ -9,4 +9,4 @@ locale: es
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-> ℹ️ Este contenido está siendo traducido al español. Mientras tanto, puedes consultar la [versión en portugués](https://help.vtex.com/pt/docs/tutorials/ativar-delivery-promise).
+> ℹ️ Este contenido está siendo traducido al español.

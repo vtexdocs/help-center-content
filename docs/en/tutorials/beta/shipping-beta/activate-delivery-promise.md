@@ -9,4 +9,4 @@ locale: en
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-> ℹ️ This content is being translated into English. In the meantime, you can read the [Portuguese version](https://help.vtex.com/pt/docs/tutorials/ativar-delivery-promise).
+> ℹ️ This content is being translated into English.
