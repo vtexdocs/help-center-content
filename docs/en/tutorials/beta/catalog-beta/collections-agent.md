@@ -34,7 +34,7 @@ The **Collections Agent** is in beta. During this phase, the feature has the fol
 - **Restricted assortment:** Creating and using assortments is only available for stores that use the **B2B Buyer Portal**.
 - **One collection or assortment at a time:** The agent works on a single collection or assortment in each view, creation, or editing operation.
 - **Propagation time:** A collection isn't immediately visible after creation or editing. The agent informs you that indexing is in progress and that data propagation takes about an hour before the collection becomes available for querying.
-- **Membership verification after creation:** Confirming whether a specific product belongs to a collection is only reliable once the product has been created and indexed. Membership verification before creation is out of scope at this time.
+- **Inclusion of products after creation:** Confirming whether a specific product is included in a collection is only reliable once the product has been created and indexed. Verifying collection inclusion before creation is out of scope at this time.
 
 > ℹ️ The instructions shown for collections and assortments are examples only and aren't the only way to interact with the agent.
 
