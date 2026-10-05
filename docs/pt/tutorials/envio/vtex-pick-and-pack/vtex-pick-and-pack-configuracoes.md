@@ -13,20 +13,37 @@ hidden: false
 **Configurações** é uma página do Admin VTEX que permite selecionar as configurações desejadas para o funcionamento do VTEX Pick and Pack na sua loja. As configurações estão distribuídas nas seguintes abas:
 
 * [Pedidos](#pedidos)
-* [Ordens de serviço](#ordens-de-serviço)
+* [Ordens de serviço](#ordens-de-servico)
 * [Itens](#itens)
 * [Automação](#automacao)
 * [Usuários](#usuarios)
-* [Instalações](#instalacoes)
 * [Integração](#integracao)
+
+Além das abas de **Configurações**, o Pick and Pack depende da página **Instalação**, em que você vincula estoques às instalações. Saiba mais em [Instalações](#instalacoes).
 
 ## Pedidos
 
-Nesta aba, você encontrará configurações relacionadas aos pedidos processados pelo VTEX Pick and Pack.
+Nesta seção, você encontrará configurações relacionadas aos pedidos processados pelo VTEX Pick and Pack.
 
 ![vtex-pick-and-pack-configuracoes_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-configuracoes_1.png)
 
-* **Baixar pedidos do OMS:** permite exportar pedidos do [módulo de Pedidos da VTEX](https://help.vtex.com/pt/tutorial/gerenciamento-de-pedidos-visao-geral--tutorials_201).
+* **Baixar pedidos do OMS:** permite baixar pedidos do [módulo de Pedidos da VTEX](https://help.vtex.com/pt/tutorial/gerenciamento-de-pedidos-visao-geral--tutorials_201) para o Pick and Pack. Os pedidos só são baixados quando o estoque dos itens está vinculado a uma [instalação](#instalacoes).
+
+### Filtros
+
+> ℹ️ Os filtros são aplicados somente a novos pedidos. Se nenhum filtro for configurado, todos os pedidos serão baixados.
+
+Veja abaixo os filtros disponíveis que determinam quais pedidos serão baixados:
+
+* **Meios de pagamento:** meios de pagamento utilizados nos pedidos que serão baixados.
+* **Métodos de envio:** métodos de envio utilizados nos pedidos que serão baixados.
+* **Tipo de envio:** tipos de envio utilizados nos pedidos que serão baixados (`SHIP_FROM_STORE`, `PICKUP_IN_STORE` e `DRIVE_THRU`).
+* **Tags de pedidos:** restringe os pedidos baixados que apresentem determinadas tags.
+* **Políticas comerciais:** [políticas comerciais](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) aplicadas nos pedidos que serão baixados.
+
+### Enviar alterações ao OMS
+
+Esta opção permite enviar as alterações \- substituições, rejeições ou ajustes \- realizadas nos pedidos manuseados para o [módulo de Pedidos da VTEX](https://help.vtex.com/pt/tutorial/gerenciamento-de-pedidos-visao-geral--tutorials_201). Para que as alterações sejam enviadas, a ordem de serviço do pedido precisa estar finalizada e o pedido não pode ter pendências de separação ou empacotamento no OMS.
 
 ### Remoção automática de pedidos faturados
 
@@ -44,19 +61,6 @@ Com essa opção ativada, o VTEX Pick and Pack remove automaticamente do aplicat
 - O pedido já foi baixado para o VTEX Pick and Pack.
 - O pedido ainda não foi processado.
 - O pedido mudou para **Faturado** no OMS antes da etapa de manuseio.
-
-> ℹ️ Os filtros abaixo são aplicados somente a novos pedidos feitos após a exportação. Se nenhum filtro for configurado, todos os pedidos serão baixados.
-
-### Filtros
-
-Veja abaixo os filtros disponíveis que determinam quais pedidos serão baixados:
-
-* **Meios de pagamento:** meios de pagamento utilizados nos pedidos que serão exportados.
-* **Métodos de envio:** métodos de envio utilizados nos pedidos que serão exportados.
-* **Tipo de envio:** tipos de envio utilizados nos pedidos que serão exportados (`SHIP_FROM_STORE`, `PICKUP_IN_STORE` e `DRIVE_THRU`).
-* **Tags de pedidos:** restringe os pedidos baixados que apresentem determinadas tags.
-* **Políticas comerciais:** [políticas comerciais](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) aplicadas nos pedidos que serão exportados.
-* **Enviar alterações ao OMS**: permite enviar as alterações \- substituições, rejeições ou ajustes \- realizadas nos pedidos manuseados para o [módulo de Pedidos da VTEX](https://help.vtex.com/pt/tutorial/gerenciamento-de-pedidos-visao-geral--tutorials_201). Os pedidos precisam ter sua ordem de serviço finalizada e nenhuma pendência de separação ou empacotamento no OMS para serem válidos neste filtro.
 
 Clique em `Salvar` para registrar as alterações feitas na aba.
 
@@ -217,7 +221,7 @@ Nesta seção, você encontrará as configurações dos itens exibidos no aplica
 
 ### Geral
 
-Nesta seção, você escolhe quais informações dos itens serão exibidas no aplicativo móvel e adiciona dados que ajudem o separador na localização do item.
+Nesta aba, você escolhe quais informações dos itens serão exibidas no aplicativo móvel e adiciona dados que ajudem o separador na localização do item.
 
 ![vtex-pick-and-pack-configuracoes_17](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-configuracoes_17.png)
 
@@ -229,19 +233,20 @@ Nesta seção, você escolhe quais informações dos itens serão exibidas no ap
 * **Separador:** símbolo que irá separar cada seção de informação do código de localização. Para mais informações desta configuração, consulte a [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-api).
 * **Alocar marcas de produtos a:** seleção que indica o espaço (BIN, zona, seção ou corredor) que as marcas ocupam. Para mais informações desta configuração, consulte a [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-api).
 * **Alocar categorias de produtos a:** seleção que indica o espaço (BIN, zona, seção ou corredor) que as categorias ocupam. Para mais informações desta configuração, consulte a [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-api).
-* **Ativar códigos de barras dinâmicos:** opção que, se ativada <i class="fas fa-toggle-on" aria-hidden="true"></i>, permite gerar EANs baseados no preço ou no peso do item.
+* **Ativar códigos de barras dinâmicos:** opção que, se ativada <i class="fas fa-toggle-on" aria-hidden="true"></i>, permite gerar EANs baseados no preço, no peso ou na quantidade do item.
 * **Tipos de código de barras dinâmico:** seleção que determina se o código de barras dinâmico será baseado em preço, peso ou quantidade do item. Após selecionar o tipo de código, preencha os campos com os valores numéricos do código.
 
-Os EANs dinâmicos baseados em preço e peso seguem os formatos a seguir:
+Os EANs dinâmicos baseados em preço, peso e quantidade seguem os formatos a seguir:
 
-| Tipo  | Formato                          | Conversão                                                        | Exemplo            |
-| ----- | -------------------------------- | ---------------------------------------------------------------- | ------------------ |
-| Preço | `Dígito-Item-Preço-Verificador` | O preço R$ 12,90 equivale aos dígitos `01290`.                  | `20-01234-01290-1` |
-| Peso  | `Dígito-Item-Peso-Verificador`  | O peso de 200 gramas equivale aos dígitos `00200`.              | `20-01234-00200-1` |
+| Tipo       | Formato                               | Conversão                                                | Exemplo            |
+| ---------- | ------------------------------------- | -------------------------------------------------------- | ------------------ |
+| Preço      | `Dígito-Item-Preço-Verificador`      | O preço R$ 12,90 equivale aos dígitos `01290`.          | `20-01234-01290-1` |
+| Peso       | `Dígito-Item-Peso-Verificador`       | O peso de 200 gramas equivale aos dígitos `00200`.      | `20-01234-00200-1` |
+| Quantidade | `Dígito-Item-Quantidade-Verificador` | A quantidade de 5 unidades equivale aos dígitos `00005`. | `20-01234-00005-1` |
 
 ### Categorias
 
-Nesta seção, você organiza a hierarquia das categorias de produtos que será exibida no aplicativo móvel. Essa listagem é usada para ordenar itens na separação do aplicativo móvel Pick and Pack.
+Nesta aba, você organiza a hierarquia das categorias de produtos que será exibida no aplicativo móvel. Essa listagem é usada para ordenar itens na separação do aplicativo móvel Pick and Pack.
 
 ![vtex-pick-and-pack-configuracoes_13](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-configuracoes_13.png)
 
@@ -288,7 +293,7 @@ Nesta aba, você atualiza em massa e indexa o catálogo disponível no [aplicati
 
 > ℹ️ Durante as primeiras configurações do Pick and Pack, faça primeiro a atualização em massa do catálogo e depois indexe-o.
 
-> ⚠️ O catálogo do Pick and Pack é uma cópia do [catálogo da VTEX](/pt/docs/tutorials/catalogo-visao-geral). Alterações de produto, SKU, EAN, categoria, dimensões ou peso no catálogo da VTEX não são aplicadas automaticamente. Para deixar os dois catálogos iguais, acesse **Envio > Pick and Pack > Configurações > Itens > Catálogo** e clique em `Indexar catálogo`. Até essa sincronização, o aplicativo móvel e a separação usam o catálogo do Pick and Pack, que pode estar diferente do catálogo da VTEX.
+> ⚠️ O catálogo do Pick and Pack é uma cópia do [catálogo da VTEX](/pt/docs/tutorials/catalogo-visao-geral). Alterações de produto, SKU, EAN, categoria, dimensões ou peso no catálogo da VTEX não são aplicadas automaticamente. Até a sincronização, o aplicativo móvel e a separação usam o catálogo do Pick and Pack, que pode estar diferente do catálogo da VTEX. Para sincronizar os dois catálogos, siga o procedimento de [indexação do catálogo](#indexar-o-catalogo).
 
 ![vtex-pick-and-pack-configuracoes_15](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-configuracoes_15.png)
 
@@ -334,6 +339,8 @@ Para editar as informações de um item, siga os seguintes passos:
    * Códigos SKU
    * Temperatura
 5. Clique em `Salvar`.
+
+#### Indexar o catálogo
 
 Para sincronizar o catálogo do Pick and Pack com o catálogo da VTEX, siga os passos abaixo:
 
@@ -427,7 +434,7 @@ Para atualizar ou excluir uma automação, siga os passos abaixo:
 
 ## Usuários
 
-Nesta aba, você fará o gerenciamento dos separadores da sua operação VTEX Pick and Pack. Usuários com permissão **Separador** terão acesso apenas ao aplicativo do VTEX Pick and Pack.
+Nesta seção, você fará o gerenciamento dos separadores da sua operação VTEX Pick and Pack. Usuários com permissão **Separador** terão acesso apenas ao aplicativo do VTEX Pick and Pack.
 
 ![vtex-pick-and-pack-configuracoes_7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-configuracoes_7.png)
 
@@ -454,15 +461,17 @@ Para editar ou excluir um usuário, siga os seguintes passos:
 
 ### Acessar o VTEX Pick and Pack no Admin VTEX
 
-Separadores criados nesta aba só podem acessar o aplicativo móvel. Usuários que precisam acompanhar a operação no Admin VTEX requerem [perfis de acesso](/pt/docs/tutorials/roles) e [recursos do License Manager](/pt/docs/tutorials/license-manager-resources), e não são gerenciados nesta aba.
+Separadores criados nesta aba só podem acessar o aplicativo móvel. Usuários que precisam acompanhar a operação no Admin VTEX requerem [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) e [recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager), e não são gerenciados nesta aba.
 
 Recomendamos criar um perfil de acesso dedicado à operação de fulfillment e atribuí-lo aos usuários responsáveis por ela. Para que esses usuários vejam a página [Insights](/pt/docs/tutorials/vtex-pick-and-pack-insights), o perfil deve incluir o recurso **Insights Metrics**, do produto **Insights**.
 
 ## Instalações
 
+As instalações não fazem parte das abas de **Configurações**. Elas são gerenciadas em uma página separada do Admin VTEX, **Envio > Pick and Pack > Instalação**.
+
 Uma instalação é o local em que a separação dos pedidos é feita, como uma loja física ou um centro de distribuição. Um [estoque](/pt/docs/tutorials/gerenciar-estoque) é o local logístico da VTEX em que os itens estão armazenados.
 
-No Admin VTEX, acesse **Envio > Pick and Pack > Instalação** para vincular estoques a uma instalação. Uma instalação pode ter mais de um estoque.
+Uma instalação pode ter mais de um estoque vinculado.
 
 > ⚠️ Pedidos só entram no Pick and Pack quando o estoque dos itens está vinculado a uma instalação. Um estoque sem instalação mantém esses pedidos fora do Pick and Pack, mesmo com a opção **Baixar pedidos do OMS** ativada. Se um pedido tiver itens de um estoque sem instalação, a automação que adiciona o pedido à ordem de serviço falha.
 
