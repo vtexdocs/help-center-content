@@ -4,7 +4,7 @@ createdAt: 2026-10-05T12:00:00.000Z
 updatedAt: 2026-10-05T12:00:00.000Z
 contentType: updates
 productTeam: Orders
-slugEN: orders-item-level-promotions-display-general-availability
+slugEN: orders-item-level-promotions-display-available-for-all-stores
 locale: pt
 announcementSynopsisPT: 'A visualização de promoções por item nos detalhes do pedido sai do beta aberto e passa a estar disponível para todas as lojas VTEX.'
 tags:
