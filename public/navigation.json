@@ -116,6 +116,37 @@
             },
             {
               "name": {
+                "en": "Setembro",
+                "es": "Setembro",
+                "pt": "Setembro"
+              },
+              "slug": {
+                "en": "setembro",
+                "es": "setembro",
+                "pt": "2026-setembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Pedidos: visualização de promoção por item disponível para todas as lojas",
+                    "es": "Pedidos: visualização de promoção por item disponível para todas as lojas",
+                    "pt": "Pedidos: visualização de promoção por item disponível para todas as lojas"
+                  },
+                  "slug": {
+                    "en": "",
+                    "es": "",
+                    "pt": "2026-09-18-pedidos-visualizacao-de-promocao-por-item-disponivel-para-todas-as-lojas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "August",
                 "es": "Agosto",
                 "pt": "Agosto"
@@ -51635,21 +51666,6 @@
             },
             {
               "name": {
-                "en": "Faststore V1 don't return SEO information on Graphql query",
-                "es": "Faststore V1 no devuelve información SEO en la consulta Graphql",
-                "pt": "O Faststore V1 não retorna informações de SEO na consulta Graphql"
-              },
-              "slug": {
-                "en": "faststore-v1-dont-return-seo-information-on-graphql-query",
-                "es": "faststore-v1-no-devuelve-informacion-seo-en-la-consulta-graphql",
-                "pt": "o-faststore-v1-nao-retorna-informacoes-de-seo-na-consulta-graphql"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Faststores not working correctly in Firefox Private Mode",
                 "es": "Faststores no funciona correctamente en el modo de navegación privada de Firefox",
                 "pt": "O Faststores não está funcionando corretamente no Modo de Navegação Privada do Firefox"
@@ -59582,12 +59598,12 @@
               "name": {
                 "en": "Error with event system at the end of a transaction causes an order to be incomplete",
                 "es": "Un error en el sistema de eventos al final de una transacción provoca que un pedido quede incompleto.",
-                "pt": "Um erro no sistema de eventos no final de uma transação faz com que um pedido fique incompleto"
+                "pt": "Um erro no sistema de eventos ao final de uma transação faz com que um pedido fique incompleto."
               },
               "slug": {
                 "en": "error-with-event-system-at-the-end-of-a-transaction-causes-an-order-to-be-incomplete",
                 "es": "un-error-en-el-sistema-de-eventos-al-final-de-una-transaccion-provoca-que-un-pedido-quede-incompleto",
-                "pt": "um-erro-no-sistema-de-eventos-no-final-de-uma-transacao-faz-com-que-um-pedido-fique-incompleto"
+                "pt": "um-erro-no-sistema-de-eventos-ao-final-de-uma-transacao-faz-com-que-um-pedido-fique-incompleto"
               },
               "origin": "",
               "type": "markdown",
@@ -66009,12 +66025,12 @@
             {
               "name": {
                 "en": "Promotional price table in large shopping carts can impact performance or lead to timeout errors",
-                "es": "Las tablas de precios promocionales en carritos de la compra de gran tamaño pueden afectar al rendimiento o provocar errores por tiempo de espera agotado",
+                "es": "Las tablas de precios promocionales en carritos de compra grandes pueden afectar el rendimiento o provocar errores de tiempo de espera.",
                 "pt": "A tabela de preços promocionais em carrinhos de compras grandes pode afetar o desempenho ou causar erros de tempo limite."
               },
               "slug": {
                 "en": "promotional-price-table-in-large-shopping-carts-can-impact-performance-or-lead-to-timeout-errors",
-                "es": "las-tablas-de-precios-promocionales-en-carritos-de-la-compra-de-gran-tamano-pueden-afectar-al-rendimiento-o-provocar-errores-por-tiempo-de-espera-agotado",
+                "es": "las-tablas-de-precios-promocionales-en-carritos-de-compra-grandes-pueden-afectar-el-rendimiento-o-provocar-errores-de-tiempo-de-espera",
                 "pt": "a-tabela-de-precos-promocionais-em-carrinhos-de-compras-grandes-pode-afetar-o-desempenho-ou-causar-erros-de-tempo-limite"
               },
               "origin": "",
