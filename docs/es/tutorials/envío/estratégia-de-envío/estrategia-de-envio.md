@@ -43,6 +43,8 @@ La estrategia de envío es la relación entre almacén, muelle y política de en
     </tr>
 </table>
 
+> ℹ️ VTEX admite hasta 10 000 rutas de envío por cuenta. Una ruta es cada combinación posible entre muelle, almacén, política de envío y [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) registrados en tu tienda, es decir, el número de rutas resulta de multiplicar estas cuatro entidades. Cuando se supera este límite, la cantidad disponible de los ítems puede mostrarse con divergencias en la tienda. Por eso, al definir tu estrategia de envío evita crear combinaciones que no vayan a utilizarse.
+
 ## Primeras configuraciones logísticas
 
 Las configuraciones se pueden realizar a través del Admin VTEX o API. Si estás empezando a configurar tu estrategia de envío, sugerimos el siguiente orden de configuración:
