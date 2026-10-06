@@ -28,7 +28,7 @@ Confira os pontos a seguir antes de iniciar a ativação:
 * **Acesso ao código da loja:** as etapas 3 e 4 exigem alterações no código da frente de loja. Se necessário, envolva a sua equipe de desenvolvimento ou um [parceiro de implementação](https://help.vtex.com/pt/docs/tracks/contas-e-arquitetura#parceiros-de-implementacao).
 * **Permissão para publicar:** apenas usuários com o perfil Super Admin da conta podem publicar o Delivery Promise em produção. Saiba mais em [Perfis de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso).
 
-Para iniciar, acesse a página **Delivery Promise** no Admin VTEX.
+Para iniciar, no Admin VTEX, acesse a página **Delivery Promise**. Nela, você poderá verificar a compatibilidade da conta e iniciar o fluxo de ativação.
 
 >ℹ️ Você pode sair do fluxo e voltar depois. As etapas concluídas ficam marcadas na lateral esquerda da página, com um resumo das escolhas feitas, como as políticas comerciais selecionadas e as opções de envio destacadas.
 
