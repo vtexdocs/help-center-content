@@ -3,7 +3,7 @@ title: 'Gestionar tiendas físicas en VTEX Sales App'
 id: 5PSjRstg7UU4lOm0s8aqKN
 status: PUBLISHED
 createdAt: 2020-06-29T13:30:51.354Z
-updatedAt: 2026-07-07T18:59:24.074Z
+updatedAt: 2026-09-24T18:59:24.074Z
 publishedAt: 2023-07-26T18:59:24.074Z
 firstPublishedAt: 2020-06-29T14:22:11.121Z
 contentType: trackArticle
@@ -15,7 +15,7 @@ trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 5
 ---
 
-Después de realizar las [configuraciones básicas de inStore en el Admin](/es/docs/tracks/vtex-sales-app-configuracion-basica), puede añadir otras tiendas físicas al sistema o gestionar tiendas ya registrados.
+Después de realizar las [configuraciones básicas de VTEX Sales App en el Admin](/es/docs/tracks/vtex-sales-app-configuracion-basica), puede añadir otras tiendas físicas al sistema o gestionar tiendas ya registrados.
 
 **Tienda física** es una de las páginas de **Configuración de la tienda** del Admin VTEX que muestra una lista de tiendas físicas registradas en la aplicación [VTEX Sales App](/es/docs/tracks/que-es-vtex-sales-app). En ella, puedes gestionar la información de todas las tiendas físicas de la cuenta.
 
@@ -43,7 +43,7 @@ La página contiene la siguiente información:
 
 Puedes crear una tienda física siguiendo los pasos a continuación:
 
-1. En el Admin VTEX, accede a **Configuración de la tienda > inStore > Tienda física**, o escribe **Tienda física** en la barra de búsqueda en la parte superior de la página.
+1. En el Admin VTEX, accede a **Configuración de la tienda > Sales App > Tienda física**, o escribe **Tienda física** en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en el botón `+ Agregar tienda`.
 3. Rellena los [campos de registro de la tienda física](#campos-de-registro-de-la-tienda-fisica).
 4. Haz clic en `Agregar`.
@@ -75,7 +75,9 @@ Puedes crear una tienda física siguiendo los pasos a continuación:
 * **Política comercial:** [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) que será aplicada na loja física. Campo obrigatório.
 * **Punto de recogida:** [punto de recogida](/es/docs/tutorials/puntos-de-recogida) registrado para esta tienda física, donde los clientes recogen sus pedidos.
 
-> ℹ️ Los cambios pueden tardar hasta 15 minutos en procesarse y aplicarse en inStore.
+> ⚠️ Los campos **Cuenta de franquicia** y **Punto de recogida** solo deben completarse si la tienda desea usar la [Venta de inventario local](/es/docs/tutorials/habilitar-venta-de-inventario-local-en-vtex-sales-app) (on hands). Completar estos campos sin la configuración adecuada de la Venta de inventario local puede causar la indisponibilidad de ítems en la página de producto (PDP) y en la página de listado (PLP).
+
+> ℹ️ Los cambios pueden tardar hasta 15 minutos en procesarse y aplicarse en Sales App.
 
 ## Buscar tienda física
 
@@ -98,6 +100,6 @@ Puedes inativar una tienda física siguiendo los pasos a continuación:
 2. Haz clic en <i class="fa-solid fa-box-archive"></i> `Inativar`.
 3. Haz clic en `Inativar` para confirmar y finalizar.
 
-Al desactivar una tienda, todos los vendedores registrados en ella perderán el acceso a la aplicación inStore y ya no podrán conectarse.
+Al desactivar una tienda, todos los vendedores registrados en ella perderán el acceso a la aplicación Sales App y ya no podrán conectarse.
 
 Para eliminar definitivamente una tienda, póngase en contacto con nuestro [soporte](https://supporticket.vtex.com/support).
