@@ -27,7 +27,7 @@ Some important points about how this setting works:
 
 ## Prerequisites
 
-To enable or change persistent login, the user must have an [access role](https://help.vtex.com/en/docs/tutorials/access-roles) with the **Write Account Config** resource, in the Account Configuration category of the VTEX ID product. Without this permission, the change isn't saved and an error message is displayed.
+To enable or change persistent login, the user must have a [role](https://help.vtex.com/en/docs/tutorials/roles) with the **Write Account Config** resource, in the Account Configuration category of the VTEX ID product. Without this permission, the change isn't saved and an error message is displayed.
 
 ## Enable persistent login
 
