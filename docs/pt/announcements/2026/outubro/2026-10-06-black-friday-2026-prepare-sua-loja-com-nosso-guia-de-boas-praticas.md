@@ -5,6 +5,7 @@ createdAt: 2026-10-06T00:00:00.000Z
 updatedAt: 2026-10-06T00:00:00.000Z
 contentType: updates
 productTeam: Others
+author: 1u80f14cWqneWquMc8tUq1
 slugEN: '2026-10-06-black-friday-2026-get-your-store-ready-with-our-best-practices-guide'
 locale: pt
 announcementSynopsisPT: 'Siga nossas recomendações e dicas exclusivas para preparar sua loja para a Black Friday 2026.'
