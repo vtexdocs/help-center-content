@@ -165,9 +165,24 @@ Você também pode usar o campo de busca para encontrar um site na base de conhe
 
 #### Textos
 
-Nessa página, você pode inserir conteúdos e informações na caixa de texto **Escrever conteúdo**.
+Nessa aba, você pode adicionar conteúdos em texto à base de conhecimento, organizados em segmentos nomeados. Cada segmento tem um título próprio, e a lista é ordenada pela edição mais recente, com a indicação de quando cada segmento foi modificado.
 
-Após inserir um texto, clique em `Salvar`.
+Para criar um segmento de texto, siga os passos a seguir:
+
+1. Clique em <i class="fas fa-plus" aria-hidden="true"></i>`Adicionar texto`.
+2. Digite um título para identificar o segmento.
+3. Insira o conteúdo na caixa de texto.
+4. Clique em `Salvar`.
+
+Clicando nos <i class="fas fa-ellipsis-v" aria-hidden="true"></i>três pontos ao lado do segmento, é possível:
+
+- Editar o conteúdo.
+- Renomear o título.
+- Excluir o segmento. A exclusão exige confirmação.
+
+Você também pode usar o campo de busca para encontrar um segmento pelo título.
+
+> ℹ️ Bases de conhecimento criadas antes dessa organização mantêm o texto original como um único segmento, com um título padrão. Nenhum conteúdo é perdido. A divisão em segmentos é apenas uma mudança de interface e não altera a forma como o agente usa o conteúdo da base.
 
 ### Fluxo de automação
 
