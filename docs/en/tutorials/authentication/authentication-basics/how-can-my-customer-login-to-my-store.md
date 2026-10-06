@@ -74,4 +74,4 @@ Social media login options using your Google or Facebook accounts may also be ad
 
 ## Configuring customer session duration
 
-By default, customers stay authenticated for 24 hours after logging in. You can extend this period so your customers remain logged in for longer — up to 365 days — without needing to log in again every day. This is useful for improving customer experience on frequent purchases. Check the [Configuring persistent login for shoppers](/en/docs/tutorials/configuring-persistent-login-for-shoppers) guide to learn how to enable and configure this feature.
+By default, customers stay authenticated for 24 hours after logging in. You can extend this period so your customers remain logged in for longer — up to 365 days — without needing to log in again every day. This is useful for improving customer experience on frequent purchases. Check the [Configuring persistent login for customers](/en/docs/tutorials/configuring-persistent-login-for-customers) guide to learn how to enable and configure this feature.

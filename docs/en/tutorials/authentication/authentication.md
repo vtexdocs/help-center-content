@@ -72,7 +72,7 @@ Once the expiration period is reached, users will be required to reset their pas
 
 ### Configuring customer session duration
 
-In addition to managing login methods and password expiration, you can configure how long a customer stays authenticated in your online store. By default, sessions expire after 24 hours, but you can extend this period up to 365 days using persistent login. For more details, see the [Configuring persistent login for shoppers](/en/docs/tutorials/configuring-persistent-login-for-shoppers) guide.
+In addition to managing login methods and password expiration, you can configure how long a customer stays authenticated in your online store. By default, sessions expire after 24 hours, but you can extend this period up to 365 days using persistent login. For more details, see the [Configuring persistent login for customers](/en/docs/tutorials/configuring-persistent-login-for-customers) guide.
 
 ## Developing integrations
 

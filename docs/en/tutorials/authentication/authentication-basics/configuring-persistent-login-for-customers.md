@@ -1,10 +1,10 @@
 ---
-title: 'Configuring persistent login for shoppers'
+title: 'Configuring persistent login for customers'
 createdAt: 2026-09-18T00:00:00.000Z
 updatedAt: 2026-09-18T00:00:00.000Z
 contentType: tutorial
 productTeam: Identity
-slugEN: configuring-persistent-login-for-shoppers
+slugEN: configuring-persistent-login-for-customers
 locale: en
 ---
 
@@ -37,7 +37,7 @@ To start using persistent login, enable the feature in the corresponding card on
 2. Click **Account settings > Authentication**.
 3. On the **Online store** tab, locate the **Persistent login** card, below the login methods.
 4. Click the toggle to enable the feature.
-    ![Persistent login card on the Online store tab](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/configuring-persistent-login-for-shoppers_1.png)
+    ![Persistent login card on the Online store tab](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/configuring-persistent-login-for-customers_1.png)
 
 When you enable it, a notification confirms the activation and informs the duration that now applies to new logins (1 day, on first use, or the last saved duration, on reactivation).
 
@@ -50,7 +50,7 @@ The configured duration isn't displayed directly on the card. To check or change
 3. On the **Online store** tab, on the **Persistent login** card, click `Edit`.
 
     A window opens with the currently configured duration, in days.
-    ![Persistent login duration settings window](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/configuring-persistent-login-for-shoppers_2.png)
+    ![Persistent login duration settings window](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/configuring-persistent-login-for-customers_2.png)
 4. In the **Session duration** field, enter an integer between **1** and **365** days.
 5. Click `Save`.
 
