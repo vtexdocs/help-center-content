@@ -44,6 +44,8 @@ Preencha as seções a seguir:
     * [Capacidade Operacional](https://help.vtex.com/pt/docs/tutorials/capacidade-operacional)
     * VTEX Shipping Network
     * [Assembly Options](https://help.vtex.com/pt/docs/tutorials/assembly-options) para sellers externos
+
+    Para entender o impacto de cada funcionalidade não suportada na sua loja e o que fazer para usar o Delivery Promise, entre em contato com o [Suporte VTEX](https://help.vtex.com/pt/support).
 3. **Integração de sellers externos:** marque a opção **Estou de acordo com essa necessidade**. Se a sua conta tiver sellers externos, eles precisam informar a disponibilidade dos produtos pela [Delivery Promise Notification API](https://developers.vtex.com/docs/api-reference/delivery-promise-notification-api). Sem essa integração, os produtos desses sellers podem ficar indisponíveis na loja.
 4. Clique em `Ativar`.
 
@@ -110,7 +112,7 @@ Nesta etapa, você publica o Delivery Promise para os compradores da sua loja.
 3. Clique em `Ativar em produção`.
 4. Na janela de confirmação, clique em `Publicar`.
 
->⚠️ O Delivery Promise é publicado em todas as frentes de loja das políticas comerciais selecionadas na etapa 1. Não é possível publicar em apenas uma frente de loja por vez. Você pode despublicar a qualquer momento.
+>⚠️ O Delivery Promise é publicado em todas as frentes de loja das políticas comerciais selecionadas na etapa 1. Não é possível publicar em apenas uma frente de loja por vez. Para saber como reverter a publicação, veja [Desativar o Delivery Promise](#desativar-o-delivery-promise).
 
 A ativação pode levar até cinco minutos. Ao final, a página exibe a mensagem **Delivery Promise está em produção na loja**, com a lista das políticas comerciais em que a funcionalidade está ativa. Clique em `Concluir` para finalizar.
 
@@ -122,17 +124,10 @@ Para ativar o Delivery Promise em outras políticas comerciais, entre em contato
 
 ## Desativar o Delivery Promise
 
-Você pode desativar o Delivery Promise em cada política comercial separadamente:
+No momento, não é possível desativar o Delivery Promise pela página **Delivery Promise** no Admin. Para reverter a publicação, faça uma das ações a seguir:
 
-1. Na página **Delivery Promise**, localize a política comercial na lista.
-2. Clique em `Desativar`.
-3. Na janela de confirmação, clique em `Desativar`.
-
-Ao desativar o Delivery Promise na busca, as promessas de entrega deixam de ser indexadas e exibidas para aquela política comercial.
-
->⚠️ Os componentes do Delivery Promise continuam visíveis na loja até serem desabilitados no código da frente de loja.
-
-Para ativar novamente o Delivery Promise em uma política comercial desativada, clique em `Reativar`.
+* Entre em contato com o [Suporte VTEX](https://help.vtex.com/pt/support) e solicite a desativação.
+* Remova da frente de loja o componente de captura de CEP ou deixe de enviar o CEP e os parâmetros de localização do comprador na busca. Para isso, é necessário ter acesso ao código da loja.
 
 ## Conta não compatível com o Delivery Promise
 
@@ -142,7 +137,6 @@ Se a sua conta não atender aos requisitos do Delivery Promise, a página exibe 
 | ----- | ----- |
 | A conta não usa o [Intelligent Search](https://help.vtex.com/pt/docs/tutorials/intelligent-search-visao-geral). | Passe a usar o Intelligent Search e solicite a ativação novamente. |
 | A funcionalidade [Capacidade Operacional](https://help.vtex.com/pt/docs/tutorials/capacidade-operacional) está ativada. | Desative a Capacidade Operacional e entre em contato com o [Suporte VTEX](https://help.vtex.com/pt/support) para solicitar uma nova avaliação. |
-| A conta tem mais de 10 mil pontos de retirada cadastrados. | Mantenha a quantidade de pontos de retirada dentro desse limite e entre em contato com o [Suporte VTEX](https://help.vtex.com/pt/support) para solicitar uma nova avaliação. |
 | Um ou mais sellers conectados à conta não são compatíveis com o Delivery Promise. | Ajuste a configuração dos sellers e entre em contato com o [Suporte VTEX](https://help.vtex.com/pt/support) para solicitar uma nova avaliação. |
 
 ## Saiba mais

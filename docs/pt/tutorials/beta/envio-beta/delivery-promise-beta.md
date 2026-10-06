@@ -79,7 +79,6 @@ Para usar a Delivery Promise (Beta), sua conta precisa atender às seguintes con
 * Sellers externos precisam se adequar ao protocolo de notificações do [Delivery Promise Notification API](https://developers.vtex.com/docs/api-reference/delivery-promise-notification-api).
 * Não utilizar VTEX Shipping Network.
 * Não utilizar [Capacidade operacional](https://help.vtex.com/pt/docs/tutorials/capacidade-operacional).
-* Não utilizar mais de 10 mil pontos de retirada.
 * Não utilizar [Assembly Options](https://help.vtex.com/docs/tutorials/assembly-options) de sellers regulares.
 
 Se a sua conta atender a essas condições, você pode ativar a Delivery Promise diretamente no Admin VTEX. Saiba como em [Ativar o Delivery Promise](https://help.vtex.com/pt/docs/tutorials/ativar-delivery-promise).
