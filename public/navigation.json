@@ -36185,6 +36185,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Activating Delivery Promise",
+                    "es": "Activar Delivery Promise",
+                    "pt": "Ativar o Delivery Promise"
+                  },
+                  "slug": {
+                    "en": "activate-delivery-promise",
+                    "es": "activar-delivery-promise",
+                    "pt": "ativar-delivery-promise"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Delivery Promise (Beta)",
                     "es": "Delivery Promise (beta)",
                     "pt": "Delivery Promise (Beta)"
