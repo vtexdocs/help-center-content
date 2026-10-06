@@ -3,7 +3,7 @@ title: 'Setting up Cart Abandonment (Trigger)'
 id: tutorials_740
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:05.882Z
-updatedAt: 2024-08-09T13:03:53.859Z
+updatedAt: 2026-10-01T18:48:35.000Z
 publishedAt: 2024-08-09T13:03:53.859Z
 firstPublishedAt: 2017-04-27T23:03:41.572Z
 contentType: tutorial
@@ -72,13 +72,13 @@ Once the new email template has been created or the data from the default templa
 
 ### SPF Release
 
-The SPF release is essential to avoid problems with email deliverability and must be performed according to this article on [SPF configuration](/en/tutorial/configuracao-de-spf--42t0lkl2VyC6Yewc4wA6wI#).
+The SPF release is essential to avoid problems with email deliverability and must be performed according to this article on [SPF configuration](https://help.vtex.com/en/docs/tutorials/best-practices-on-spf).
 
 As a good practice for configuring DNS for a generic domain (not mandatory), follow the example below:
 
 ![Hostnames - SPF](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/checkout-settings/setting-up-abandoned-carts_4.PNG)
 
-Learn more at [Setting up DNS pointing to VTEX](/en/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280#).
+Learn more at [Setting up DNS pointing to VTEX](https://help.vtex.com/en/docs/tracks/go-live#setting-up-dns-pointing).
 
 ### Configuring trigger
 
