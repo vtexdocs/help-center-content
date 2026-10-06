@@ -11,25 +11,25 @@ hidden: false
 Este guia tem como objetivo responder as perguntas mais frequentes sobre o VTEX Pick and Pack. O artigo está dividido nas seguintes seções:
 
 - [Configuração geral](#configuracao-geral)
-  - [O VTEX Pick and Pack já vem disponível por padrão na minha loja?](#o-vtex-pick-and-pack-ja-vem-disponivel-por-padrao-na-minha-loja)
+  - [O VTEX Pick and Pack é habilitado por padrão em minha loja?](#o-vtex-pick-and-pack-e-habilitado-por-padrao-em-minha-loja)
   - [Quem pode acessar o VTEX Pick and Pack no Admin VTEX?](#quem-pode-acessar-o-vtex-pick-and-pack-no-admin-vtex)
   - [Todos os pedidos da sua loja passarão pelo VTEX Pick and Pack?](#todos-os-pedidos-da-sua-loja-passarao-pelo-vtex-pick-and-pack)
   - [Os separadores irão lidar com um pedido por vez ou com vários pedidos simultaneamente?](#os-separadores-irao-lidar-com-um-pedido-por-vez-ou-com-varios-pedidos-simultaneamente)
 - [Separação](#separacao)
   - [O separador poderá alterar o pedido durante a separação?](#o-separador-podera-alterar-o-pedido-durante-a-separacao)
   - [Se o separador puder adicionar, substituir ou remover itens, essas ações precisarão de aprovação de um administrador?](#se-o-separador-puder-adicionar-substituir-ou-remover-itens-essas-acoes-precisarao-de-aprovacao-de-um-administrador)
-  - [Se forem permitidas alterações nos pedidos, haverá um limite para o número de alterações que podem ser feitas?](#se-forem-permitidas-alteracoes-nos-pedidos-havera-um-limite-para-o-numero-de-alteracoes-que-podem-ser-feitas)
+  - [Se forem permitidas alterações nos pedidos, haverá um limite de alterações a serem realizadas?](#se-forem-permitidas-alteracoes-nos-pedidos-havera-um-limite-de-alteracoes-a-serem-realizadas)
   - [Como o separador localiza os itens para a separação?](#como-o-separador-localiza-os-itens-para-a-separacao)
 - [Empacotamento](#empacotamento)
   - [Quais são os tamanhos e tipos de embalagens que podem ser utilizados?](#quais-sao-os-tamanhos-e-tipos-de-embalagens-que-podem-ser-utilizados)
   - [Quem é responsável por imprimir as etiquetas do pacote?](#quem-e-responsavel-por-imprimir-as-etiquetas-do-pacote)
 - [Entrega e retirada](#entrega-e-retirada)
   - [Como o cliente confirma a retirada do pedido na loja?](#como-o-cliente-confirma-a-retirada-do-pedido-na-loja)
-- [Integrações](#integracoes)
   - [É possível cadastrar novas transportadoras no Last Mile?](#e-possivel-cadastrar-novas-transportadoras-no-last-mile)
-  - [É possível automatizar o processo de faturamento com o Pick and Pack?](#e-possivel-automatizar-o-processo-de-faturamento-com-o-pick-and-pack)
-  - [Posso informar ao shopper mais detalhes sobre o preparo do pedido?](#posso-informar-ao-shopper-mais-detalhes-sobre-o-preparo-do-pedido)
   - [É possível utilizar o módulo Last Mile sem o Pick and Pack?](#e-possivel-utilizar-o-modulo-last-mile-sem-o-pick-and-pack)
+- [Integrações](#integracoes)
+  - [É possível automatizar o processo de faturamento com o Pick and Pack?](#e-possivel-automatizar-o-processo-de-faturamento-com-o-pick-and-pack)
+  - [Posso informar ao cliente mais detalhes sobre o preparo do pedido?](#posso-informar-ao-cliente-mais-detalhes-sobre-o-preparo-do-pedido)
 
 ## Configuração geral
 
@@ -47,7 +47,7 @@ Recomendamos criar um perfil de acesso dedicado à operação de fulfillment e a
 
 ### Todos os pedidos da sua loja passarão pelo VTEX Pick and Pack?
 
-A integração das funcionalidades do VTEX Pick and Pack está disponível nativamente no Admin VTEX, mas não é automática para todos os pedidos da loja. Para definir quais pedidos serão atendidos pelo VTEX Pick and Pack, configure filtros com as características desejadas e siga os passos abaixo:
+Não. Por ser uma solução nativa da VTEX, o VTEX Pick and Pack recebe os pedidos diretamente da plataforma, sem necessidade de integrações externas. No entanto, depois que ele é habilitado na sua loja, apenas os pedidos que atendem aos filtros configurados são enviados para ele. Para definir esses filtros, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Envio > Pick and Pack > Configurações** ou digite **Configurações** na barra de busca no topo da página.
 2. Acesse **Pedidos > Geral**.
@@ -96,7 +96,7 @@ Com o fluxo de aprovações habilitado, as solicitações dos separadores que de
 
 ### Se forem permitidas alterações nos pedidos, haverá um limite de alterações a serem realizadas?
 
-Sim. Na aba [Separação](/pt/docs/tutorials/vtex-pick-and-pack-configuracoes#separacao), cada tipo de alteração tem um limite percentual próprio, definido em um controle deslizante de 0% a 100%. O controle só é exibido quando a opção correspondente está ativada:
+Sim. Na aba [Separação](/pt/docs/tutorials/vtex-pick-and-pack-configuracoes#separacao), cada tipo de alteração tem um limite percentual próprio, definido em um controle deslizante de −100% a 100%, calculado sobre o valor original. O controle só é exibido quando a opção correspondente está ativada:
 
 * **Limite de alterações de preço dos itens dos pedidos:** percentual máximo de variação no preço de um item. Exibido quando a opção **Permitir alterações no preço dos itens** está ativada.
 * **Limite de alterações na quantidade de itens dos pedidos:** percentual máximo de variação na quantidade de unidades ou no peso do item, conforme aplicável. O mesmo limite define quanto o separador pode aumentar ou reduzir as unidades ou o peso do item. Exibido quando a opção **Permitir alterações na quantidade dos itens** está ativada.
@@ -117,8 +117,9 @@ A localização de itens refere-se à especificação onde cada item está armaz
 1. No Admin VTEX, acesse **Envio > Pick and Pack > Configurações** ou digite **Configurações** na barra de busca no topo da página.
 2. Acesse **Itens > Geral**.
 3. Habilite a opção **Ativar localização do item**.
-4. Cadastre as localizações dos itens. Recomendamos usar o endpoint [Create bin location](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-api#post-/-skuId-/warehouses/-warehouseId-) da API Pick and Pack Order Changes.
-5. Clique em `Salvar`.
+4. Clique em `Salvar`.
+
+Depois de ativar a opção, cadastre a localização de cada SKU por estoque usando o endpoint [Create bin location](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-api#post-/-skuId-/warehouses/-warehouseId-) da API Pick and Pack Order Changes.
 
 ## Empacotamento
 
@@ -162,23 +163,23 @@ Nos pedidos com retirada em loja, o [Last Mile](/pt/docs/tutorials/vtex-pick-and
 
 O email é enviado pelo [Message Center](/pt/docs/tutorials/conhecendo-o-message-center), a partir de um modelo dedicado ao código de retirada. Caso o cliente não tenha recebido a mensagem, é possível [enviar um novo código por email](/pt/docs/tutorials/vtex-pick-and-pack-last-mile#enviar-um-novo-codigo-por-email) pelo painel de detalhes do serviço.
 
-## Integrações
-
 ### É possível cadastrar novas transportadoras no Last Mile?
 
 Sim. Para cadastrar uma nova transportadora, abra um chamado pelo [Suporte VTEX](https://support.vtex.com/hc/pt-br/) para solicitar o cadastro das credenciais e fornecer os detalhes da integração. Não há custo adicional para esse cadastro.
+
+### É possível utilizar o módulo Last Mile sem o Pick and Pack?
+
+No momento, não é possível utilizar o módulo Last Mile sem o Pick and Pack. Estamos mapeando o interesse nessa possibilidade. Para enviar seu feedback, abra um chamado pelo [Suporte VTEX](https://support.vtex.com/hc/pt-br/).
+
+## Integrações
 
 ### É possível automatizar o processo de faturamento com o Pick and Pack?
 
 Sim. É possível usar o [webhook](/pt/docs/tutorials/vtex-pick-and-pack-configuracoes#webhook) do Pick and Pack para identificar a finalização do processo no aplicativo e integrá-la a uma automação existente. A implementação dessa automação deve ser feita pelo lojista.
 
-### Posso informar ao shopper mais detalhes sobre o preparo do pedido?
+### Posso informar ao cliente mais detalhes sobre o preparo do pedido?
 
-Sim. O [webhook](/pt/docs/tutorials/vtex-pick-and-pack-configuracoes#webhook) retorna atualizações de status do pedido durante as etapas de separação, empacotamento e última milha. Quando o Last Mile está ativo, o nível de detalhamento dessas informações depende do sistema da transportadora. O lojista pode usar esses dados para criar fluxos de notificação para o shopper.
-
-### É possível utilizar o módulo Last Mile sem o Pick and Pack?
-
-No momento, não é possível utilizar o módulo Last Mile sem o Pick and Pack. Estamos mapeando o interesse nessa possibilidade. Para enviar seu feedback, abra um chamado pelo [Suporte VTEX](https://support.vtex.com/hc/pt-br/).
+Sim. O [webhook](/pt/docs/tutorials/vtex-pick-and-pack-configuracoes#webhook) retorna atualizações de status do pedido durante as etapas de separação, empacotamento e entrega. Quando o Last Mile está ativo, o nível de detalhamento das informações de entrega depende do sistema da transportadora. O lojista pode usar esses dados para criar fluxos de notificação para o cliente.
 
 ## Saiba mais
 
