@@ -25266,6 +25266,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Configuring persistent login for customers",
+                    "es": "Configurar el inicio de sesión persistente para clientes",
+                    "pt": "Configurar login persistente para clientes"
+                  },
+                  "slug": {
+                    "en": "configuring-persistent-login-for-customers",
+                    "es": "configurar-el-inicio-de-sesion-persistente-para-clientes",
+                    "pt": "configurar-login-persistente-para-clientes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -64298,13 +64313,13 @@
             {
               "name": {
                 "en": "Manual sorting of collections doesn't work as expected",
-                "es": "La clasificación manual de las colecciones no funciona como se esperaba",
-                "pt": "A classificação manual das coleções não funciona como esperado"
+                "es": "La clasificación manual de las colecciones no funciona como se esperaba.",
+                "pt": "A classificação manual de coleções não funciona como esperado."
               },
               "slug": {
                 "en": "manual-sorting-of-collections-doesnt-work-as-expected",
                 "es": "la-clasificacion-manual-de-las-colecciones-no-funciona-como-se-esperaba",
-                "pt": "a-classificacao-manual-das-colecoes-nao-funciona-como-esperado"
+                "pt": "a-classificacao-manual-de-colecoes-nao-funciona-como-esperado"
               },
               "origin": "",
               "type": "markdown",
