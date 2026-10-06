@@ -25,6 +25,37 @@
           "children": [
             {
               "name": {
+                "en": "October",
+                "es": "Octubre",
+                "pt": "Outubro"
+              },
+              "slug": {
+                "en": "2026-october",
+                "es": "2026-octubre",
+                "pt": "2026-outubro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Black Friday 2026: Get your store ready with our best practices guide",
+                    "es": "Black Friday 2026: prepara tu tienda con nuestra guía de buenas prácticas",
+                    "pt": "Black Friday 2026: prepare sua loja com nosso guia de boas práticas"
+                  },
+                  "slug": {
+                    "en": "2026-10-06-black-friday-2026-get-your-store-ready-with-our-best-practices-guide",
+                    "es": "2026-10-06-black-friday-2026-prepara-tu-tienda-con-nuestra-guia-de-buenas-practicas",
+                    "pt": "2026-10-06-black-friday-2026-prepare-sua-loja-com-nosso-guia-de-boas-praticas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "September",
                 "es": "Septiembre",
                 "pt": "Setembro"
@@ -33833,8 +33864,8 @@
                 },
                 {
                   "name": {
-                    "en": "Configuring extra safety guardrails per project",
-                    "es": "Configurar capas adicionales de seguridad por proyecto",
+                    "en": "Configuring safety guardrails per project",
+                    "es": "Configurar barreras de seguridad por proyecto",
                     "pt": "Configurar camadas extras de segurança por projeto"
                   },
                   "slug": {
@@ -35801,6 +35832,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Collections Agent",
+                    "es": "Agente de Colecciones",
+                    "pt": "Agente de Coleções"
+                  },
+                  "slug": {
+                    "en": "collections-agent",
+                    "es": "agente-de-colecciones",
+                    "pt": "agente-de-colecoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Creating or editing categories, attributes, and variations (Beta)",
@@ -48950,13 +48996,13 @@
             {
               "name": {
                 "en": "Final domain different from myvtex due to old component version on Site Editor",
-                "es": "Dominio final diferente de myvtex debido a la versión antigua del componente en el Editor de Sitios",
-                "pt": "O domínio final é diferente do myvtex devido à versão antiga do componente no Site Editor"
+                "es": "El dominio final es diferente de myvtex debido a una versión antigua del componente en el editor de sitios.",
+                "pt": "O domínio final é diferente de myvtex devido à versão antiga do componente no Editor de Sites."
               },
               "slug": {
                 "en": "final-domain-different-from-myvtex-due-to-old-component-version-on-site-editor",
-                "es": "dominio-final-diferente-de-myvtex-debido-a-la-version-antigua-del-componente-en-el-editor-de-sitios",
-                "pt": "o-dominio-final-e-diferente-do-myvtex-devido-a-versao-antiga-do-componente-no-site-editor"
+                "es": "el-dominio-final-es-diferente-de-myvtex-debido-a-una-version-antigua-del-componente-en-el-editor-de-sitios",
+                "pt": "o-dominio-final-e-diferente-de-myvtex-devido-a-versao-antiga-do-componente-no-editor-de-sites"
               },
               "origin": "",
               "type": "markdown",
@@ -51644,21 +51690,6 @@
                 "en": "faststore-does-not-return-product-seo-information-title-and-meta-description-on-graphql-query",
                 "es": "faststore-no-devuelve-informacion-seo-del-producto-titulo-y-meta-descripcion-en-la-consulta-graphql",
                 "pt": "o-faststore-nao-retorna-informacoes-de-seo-do-produto-titulo-e-meta-descricao-em-consultas-graphql"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Faststore V1 don't return SEO information on Graphql query",
-                "es": "Faststore V1 no devuelve información SEO en la consulta Graphql",
-                "pt": "O Faststore V1 não retorna informações de SEO na consulta Graphql"
-              },
-              "slug": {
-                "en": "faststore-v1-dont-return-seo-information-on-graphql-query",
-                "es": "faststore-v1-no-devuelve-informacion-seo-en-la-consulta-graphql",
-                "pt": "o-faststore-v1-nao-retorna-informacoes-de-seo-na-consulta-graphql"
               },
               "origin": "",
               "type": "markdown",
@@ -59598,12 +59629,12 @@
               "name": {
                 "en": "Error with event system at the end of a transaction causes an order to be incomplete",
                 "es": "Un error en el sistema de eventos al final de una transacción provoca que un pedido quede incompleto.",
-                "pt": "Um erro no sistema de eventos no final de uma transação faz com que um pedido fique incompleto"
+                "pt": "Um erro no sistema de eventos ao final de uma transação faz com que um pedido fique incompleto."
               },
               "slug": {
                 "en": "error-with-event-system-at-the-end-of-a-transaction-causes-an-order-to-be-incomplete",
                 "es": "un-error-en-el-sistema-de-eventos-al-final-de-una-transaccion-provoca-que-un-pedido-quede-incompleto",
-                "pt": "um-erro-no-sistema-de-eventos-no-final-de-uma-transacao-faz-com-que-um-pedido-fique-incompleto"
+                "pt": "um-erro-no-sistema-de-eventos-ao-final-de-uma-transacao-faz-com-que-um-pedido-fique-incompleto"
               },
               "origin": "",
               "type": "markdown",
@@ -66025,12 +66056,12 @@
             {
               "name": {
                 "en": "Promotional price table in large shopping carts can impact performance or lead to timeout errors",
-                "es": "Las tablas de precios promocionales en carritos de la compra de gran tamaño pueden afectar al rendimiento o provocar errores por tiempo de espera agotado",
+                "es": "Las tablas de precios promocionales en carritos de compra grandes pueden afectar el rendimiento o provocar errores de tiempo de espera.",
                 "pt": "A tabela de preços promocionais em carrinhos de compras grandes pode afetar o desempenho ou causar erros de tempo limite."
               },
               "slug": {
                 "en": "promotional-price-table-in-large-shopping-carts-can-impact-performance-or-lead-to-timeout-errors",
-                "es": "las-tablas-de-precios-promocionales-en-carritos-de-la-compra-de-gran-tamano-pueden-afectar-al-rendimiento-o-provocar-errores-por-tiempo-de-espera-agotado",
+                "es": "las-tablas-de-precios-promocionales-en-carritos-de-compra-grandes-pueden-afectar-el-rendimiento-o-provocar-errores-de-tiempo-de-espera",
                 "pt": "a-tabela-de-precos-promocionais-em-carrinhos-de-compras-grandes-pode-afetar-o-desempenho-ou-causar-erros-de-tempo-limite"
               },
               "origin": "",
