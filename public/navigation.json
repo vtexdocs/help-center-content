@@ -52570,6 +52570,21 @@
             },
             {
               "name": {
+                "en": "Same option ID accross different facets affecting the facet selection in a mobile version",
+                "es": "El mismo ID de opción en diferentes facetas afecta la selección de facetas en una versión móvil.",
+                "pt": "A mesma ID de opção em diferentes facetas afeta a seleção de facetas na versão móvel."
+              },
+              "slug": {
+                "en": "same-option-id-accross-different-facets-affecting-the-facet-selection-in-a-mobile-version",
+                "es": "el-mismo-id-de-opcion-en-diferentes-facetas-afecta-la-seleccion-de-facetas-en-una-version-movil",
+                "pt": "a-mesma-id-de-opcao-em-diferentes-facetas-afeta-a-selecao-de-facetas-na-versao-movel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Explained Search returns results from main locale instead of selected secondary locale",
                 "es": "La función de búsqueda explicada devuelve resultados de la configuración regional principal en lugar de la configuración regional secundaria seleccionada.",
                 "pt": "A opção \"Pesquisa explicada\" retorna resultados da localidade principal em vez da localidade secundária selecionada."
@@ -52825,21 +52840,6 @@
             },
             {
               "name": {
-                "en": "Search facets disappear when using back button after clicking \"Show more\"",
-                "es": "Las facetas de búsqueda desaparecen al utilizar el botón Atrás después de hacer clic en \"Mostrar más\".",
-                "pt": "As facetas de pesquisa desaparecem ao usar o botão Voltar depois de clicar em \"Mostrar mais\""
-              },
-              "slug": {
-                "en": "search-facets-disappear-when-using-back-button-after-clicking-show-more",
-                "es": "las-facetas-de-busqueda-desaparecen-al-utilizar-el-boton-atras-despues-de-hacer-clic-en-mostrar-mas",
-                "pt": "as-facetas-de-pesquisa-desaparecem-ao-usar-o-botao-voltar-depois-de-clicar-em-mostrar-mais"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Autocomplete history searches with the \"/\" character are breaking the search result page",
                 "es": "Las búsquedas en el historial de autocompletado con el carácter «/» están provocando errores en la página de resultados de búsqueda",
                 "pt": "As pesquisas no histórico de autocompletar com o caractere \"/\" estão prejudicando a página de resultados da pesquisa"
@@ -53052,12 +53052,12 @@
               "name": {
                 "en": "Accounts with \"-\" on the name don't have metrics on search report",
                 "es": "Las cuentas con \"-\" en el nombre no tienen métricas en el informe de búsqueda.",
-                "pt": "Contas com \"-\" no nome não têm métricas no relatório de pesquisa."
+                "pt": "Contas com '-' no nome não têm métricas no relatório de busca"
               },
               "slug": {
                 "en": "accounts-with-on-the-name-dont-have-metrics-on-search-report",
                 "es": "las-cuentas-con-en-el-nombre-no-tienen-metricas-en-el-informe-de-busqueda",
-                "pt": "contas-com-no-nome-nao-tem-metricas-no-relatorio-de-pesquisa"
+                "pt": "contas-com-no-nome-nao-tem-metricas-no-relatorio-de-busca"
               },
               "origin": "",
               "type": "markdown",
@@ -53306,13 +53306,13 @@
             {
               "name": {
                 "en": "Cannot select the locale for Synonym in multilanguage Intelligent Search",
-                "es": "No se puede seleccionar la configuración regional del sinónimo en la búsqueda inteligente multilingüe.",
-                "pt": "Não é possível selecionar a localidade para o sinônimo na Intelligent Search multilíngue"
+                "es": "No se puede seleccionar la configuración regional para Sinónimo en la búsqueda inteligente multilingüe.",
+                "pt": "Não é possível selecionar a localidade para Sinônimo na Pesquisa Inteligente multilíngue."
               },
               "slug": {
                 "en": "cannot-select-the-locale-for-synonym-in-multilanguage-intelligent-search",
-                "es": "no-se-puede-seleccionar-la-configuracion-regional-del-sinonimo-en-la-busqueda-inteligente-multilingue",
-                "pt": "nao-e-possivel-selecionar-a-localidade-para-o-sinonimo-na-intelligent-search-multilingue"
+                "es": "no-se-puede-seleccionar-la-configuracion-regional-para-sinonimo-en-la-busqueda-inteligente-multilingue",
+                "pt": "nao-e-possivel-selecionar-a-localidade-para-sinonimo-na-pesquisa-inteligente-multilingue"
               },
               "origin": "",
               "type": "markdown",
@@ -53470,21 +53470,6 @@
             },
             {
               "name": {
-                "en": "Same option ID accross different facets affecting the facet selection in a mobile version",
-                "es": "El mismo ID de opción en diferentes facetas afecta a la selección de facetas en una versión móvil.",
-                "pt": "O mesmo ID de opção em diferentes facetas afeta a seleção de facetas em uma versão móvel"
-              },
-              "slug": {
-                "en": "same-option-id-accross-different-facets-affecting-the-facet-selection-in-a-mobile-version",
-                "es": "el-mismo-id-de-opcion-en-diferentes-facetas-afecta-a-la-seleccion-de-facetas-en-una-version-movil",
-                "pt": "o-mesmo-id-de-opcao-em-diferentes-facetas-afeta-a-selecao-de-facetas-em-uma-versao-movel"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Group name is not automatically updated on Intelligent Search",
                 "es": "El nombre del grupo no se actualiza automáticamente en la búsqueda inteligente",
                 "pt": "O nome do grupo não é atualizado automaticamente na Pesquisa Inteligente"
@@ -53576,13 +53561,13 @@
             {
               "name": {
                 "en": "SKU Detach selector lists product specifications in the Search Settings",
-                "es": "El selector SKU Detach enumera las especificaciones del producto en los Ajustes de búsqueda",
-                "pt": "O seletor SKU Detach lista as especificações do produto nas configurações de pesquisa"
+                "es": "El selector de desacoplamiento de SKU muestra las especificaciones del producto en la configuración de búsqueda.",
+                "pt": "O seletor de desanexação de SKU lista as especificações do produto nas Configurações de pesquisa."
               },
               "slug": {
                 "en": "sku-detach-selector-lists-product-specifications-in-the-search-settings",
-                "es": "el-selector-sku-detach-enumera-las-especificaciones-del-producto-en-los-ajustes-de-busqueda",
-                "pt": "o-seletor-sku-detach-lista-as-especificacoes-do-produto-nas-configuracoes-de-pesquisa"
+                "es": "el-selector-de-desacoplamiento-de-sku-muestra-las-especificaciones-del-producto-en-la-configuracion-de-busqueda",
+                "pt": "o-seletor-de-desanexacao-de-sku-lista-as-especificacoes-do-produto-nas-configuracoes-de-pesquisa"
               },
               "origin": "",
               "type": "markdown",
@@ -53606,12 +53591,12 @@
             {
               "name": {
                 "en": "Search Banners not deleting rules from Trigger Rules",
-                "es": "Los banners de búsqueda no borran las reglas de las reglas de activación",
-                "pt": "Os banners de pesquisa não estão excluindo regras das regras de acionamento"
+                "es": "Los banners de búsqueda no eliminan las reglas de las reglas de activación.",
+                "pt": "Os banners de pesquisa não estão excluindo regras das regras de acionamento."
               },
               "slug": {
                 "en": "search-banners-not-deleting-rules-from-trigger-rules",
-                "es": "los-banners-de-busqueda-no-borran-las-reglas-de-las-reglas-de-activacion",
+                "es": "los-banners-de-busqueda-no-eliminan-las-reglas-de-las-reglas-de-activacion",
                 "pt": "os-banners-de-pesquisa-nao-estao-excluindo-regras-das-regras-de-acionamento"
               },
               "origin": "",
@@ -53703,6 +53688,21 @@
                 "en": "sku-specification-filters-arent-loaded-when-the-sku-is-only-available-in-a-whitelabel-seller",
                 "es": "los-filtros-de-especificaciones-de-sku-no-se-cargan-cuando-el-sku-solo-esta-disponible-en-un-vendedor-de-marca-blanca",
                 "pt": "os-filtros-de-especificacoes-do-sku-nao-sao-carregados-quando-o-sku-esta-disponivel-apenas-em-um-vendedor-de-marca-branca"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Search facets disappear when using back button after clicking \"Show more\"",
+                "es": "Las facetas de búsqueda desaparecen al usar el botón Atrás después de hacer clic en \"Mostrar más\".",
+                "pt": "Os filtros de pesquisa desaparecem ao usar o botão Voltar após clicar em \"Mostrar mais\"."
+              },
+              "slug": {
+                "en": "search-facets-disappear-when-using-back-button-after-clicking-show-more",
+                "es": "las-facetas-de-busqueda-desaparecen-al-usar-el-boton-atras-despues-de-hacer-clic-en-mostrar-mas",
+                "pt": "os-filtros-de-pesquisa-desaparecem-ao-usar-o-botao-voltar-apos-clicar-em-mostrar-mais"
               },
               "origin": "",
               "type": "markdown",
@@ -58892,6 +58892,21 @@
             },
             {
               "name": {
+                "en": "Request for Settlement of Orders Does Not Account for the Value of Interest",
+                "es": "La solicitud de liquidación de órdenes no tiene en cuenta el valor de los intereses.",
+                "pt": "O pedido de liquidação de ordens não leva em consideração o valor dos juros."
+              },
+              "slug": {
+                "en": "request-for-settlement-of-orders-does-not-account-for-the-value-of-interest",
+                "es": "la-solicitud-de-liquidacion-de-ordenes-no-tiene-en-cuenta-el-valor-de-los-intereses",
+                "pt": "o-pedido-de-liquidacao-de-ordens-nao-leva-em-consideracao-o-valor-dos-juros"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Order stuck in an intermediate workflow status due to a workflow desynchronization",
                 "es": "El pedido se encuentra atascado en un estado de flujo de trabajo intermedio debido a una desincronización del flujo de trabajo.",
                 "pt": "O pedido ficou preso em um status intermediário do fluxo de trabalho devido a uma dessincronização do fluxo de trabalho."
@@ -59545,21 +59560,6 @@
                 "en": "feed-hook-indexing-feature-skipping-events-in-fromorders-filters",
                 "es": "la-funcion-de-indexacion-de-feed-hook-omite-eventos-en-los-filtros-de-fromorders",
                 "pt": "recurso-de-indexacao-do-feed-hook-que-ignora-eventos-nos-filtros-fromorders"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Request for Settlement of Orders Does Not Account for the Value of Interest",
-                "es": "La solicitud de liquidación de las órdenes no tiene en cuenta el valor de los intereses",
-                "pt": "Solicitação de liquidação de ordens não leva em conta o valor dos juros"
-              },
-              "slug": {
-                "en": "request-for-settlement-of-orders-does-not-account-for-the-value-of-interest",
-                "es": "la-solicitud-de-liquidacion-de-las-ordenes-no-tiene-en-cuenta-el-valor-de-los-intereses",
-                "pt": "solicitacao-de-liquidacao-de-ordens-nao-leva-em-conta-o-valor-dos-juros"
               },
               "origin": "",
               "type": "markdown",
