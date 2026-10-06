@@ -1,11 +1,10 @@
 ---
 title: 'VTEX CX Platform: suporte a BSUID e usernames do WhatsApp'
-slug: '2026-09-30-vtex-cx-platform-suporte-a-bsuid-e-usernames-do-whatsapp'
-createdAt: 2026-09-30T12:00:00.000Z
-updatedAt: 2026-09-30T12:00:00.000Z
+createdAt: 2026-10-06T12:00:00.000Z
+updatedAt: 2026-10-06T12:00:00.000Z
 contentType: updates
 productTeam: VTEX CX Platform
-slugEN: whatsapp-privacy-first-contact-identity
+slugEN: vtex-cx-platform-support-for-bsuid-and-whatsapp-usernames
 locale: pt
 announcementSynopsisPT: 'O VTEX CX Platform agora identifica contatos do WhatsApp pelo BSUID, mantendo conversas e automações ativas mesmo sem número de telefone.'
 tags:
@@ -15,6 +14,8 @@ tags:
 ---
 
 Agora o VTEX CX Platform identifica contatos do WhatsApp também pelo Business Scoped User ID (BSUID), o identificador de usuário com escopo de negócio do WhatsApp. Com isso, suas conversas e automações continuam funcionando mesmo quando o contato não compartilhou o número de telefone.
+
+> ⚠️ A interação apenas por BSUID está sendo disponibilizada gradativamente pela Meta. Até então, o comportamento foi validado em cenários simulados, e nenhuma alteração na experiência atual do canal WhatsApp é esperada.
 
 ## O que mudou?
 
@@ -44,7 +45,5 @@ O WhatsApp está evoluindo seu modelo de privacidade e os usuários poderão int
 Nenhuma ação é necessária. A identificação do contato é feita automaticamente pelo VTEX CX Platform, sem que você precise escolher entre número de telefone e BSUID.
 
 Se você usa sistemas externos que dependem exclusivamente do número de telefone como identificador do contato, como CRMs, integrações personalizadas, pipelines de BI ou regras de segmentação, recomendamos planejar a adaptação desses sistemas para também aceitar o BSUID.
-
-> ⚠️ A interação apenas por BSUID depende de a Meta liberar o uso de usernames para os usuários finais do WhatsApp. A Meta ainda não divulgou um cronograma para essa liberação. Até então, o comportamento foi validado em cenários simulados, e nenhuma alteração na experiência atual do canal WhatsApp é esperada.
 
 Para saber mais sobre o canal WhatsApp, confira o artigo [WhatsApp: Integração com o VTEX CX Platform](https://help.vtex.com/pt/docs/tutorials/whatsapp-integracao-com-o-vtex-cx-platform).
