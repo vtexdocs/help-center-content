@@ -25347,6 +25347,36 @@
               "children": [
                 {
                   "name": {
+                    "en": "What is an ewallet?",
+                    "es": "¿Qué es una cartera digital (ewallet)?",
+                    "pt": "Carteira digital (ewallet)"
+                  },
+                  "slug": {
+                    "en": "what-is-an-e-wallet",
+                    "es": "que-es-una-cartera-digital",
+                    "pt": "o-que-e-uma-carteira-digital-e-wallet"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "What is an offline payment condition?",
+                    "es": "¿Qué es una condición de pago sin conexión?",
+                    "pt": "Condição de pagamento offline"
+                  },
+                  "slug": {
+                    "en": "what-is-an-offline-payment-condition",
+                    "es": "que-es-una-condicion-de-pago-offline",
+                    "pt": "o-que-e-uma-condicao-de-pagamento-offline"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "What is Deposit Slip",
                     "es": "Qué es Ficha de Depósito",
                     "pt": "O que é  Ficha Depósito"
@@ -25497,51 +25527,6 @@
                 },
                 {
                   "name": {
-                    "en": "What is an ewallet?",
-                    "es": "¿Qué es una cartera digital (ewallet)?",
-                    "pt": "O que é uma carteira digital (ewallet)?"
-                  },
-                  "slug": {
-                    "en": "what-is-an-e-wallet",
-                    "es": "que-es-una-cartera-digital",
-                    "pt": "o-que-e-uma-carteira-digital-e-wallet"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is an offline payment condition?",
-                    "es": "¿Qué es una condición de pago sin conexión?",
-                    "pt": "O que é uma condição de pagamento offline?"
-                  },
-                  "slug": {
-                    "en": "what-is-an-offline-payment-condition",
-                    "es": "que-es-una-condicion-de-pago-offline",
-                    "pt": "o-que-e-uma-condicao-de-pagamento-offline"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a transaction?",
-                    "es": "¿Qué es una transacción?",
-                    "pt": "O que é uma transação?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-transaction",
-                    "es": "que-es-una-transaccion",
-                    "pt": "o-que-e-uma-transacao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Payment Provider Protocol",
                     "es": "Payment Provider Protocol",
                     "pt": "Payment Provider Protocol"
@@ -25565,6 +25550,21 @@
                     "en": "what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil",
                     "es": "cual-es-la-diferencia-entre-adquirente-bandera-gateway-y-sub-adquirente-en-brasil",
                     "pt": "diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "What is a transaction?",
+                    "es": "¿Qué es una transacción?",
+                    "pt": "Transação de pagamento"
+                  },
+                  "slug": {
+                    "en": "what-is-a-transaction",
+                    "es": "que-es-una-transaccion",
+                    "pt": "o-que-e-uma-transacao"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -58861,6 +58861,21 @@
             },
             {
               "name": {
+                "en": "Request for Settlement of Orders Does Not Account for the Value of Interest",
+                "es": "La solicitud de liquidación de órdenes no tiene en cuenta el valor de los intereses.",
+                "pt": "O pedido de liquidação de ordens não leva em consideração o valor dos juros."
+              },
+              "slug": {
+                "en": "request-for-settlement-of-orders-does-not-account-for-the-value-of-interest",
+                "es": "la-solicitud-de-liquidacion-de-ordenes-no-tiene-en-cuenta-el-valor-de-los-intereses",
+                "pt": "o-pedido-de-liquidacao-de-ordens-nao-leva-em-consideracao-o-valor-dos-juros"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Order stuck in an intermediate workflow status due to a workflow desynchronization",
                 "es": "El pedido se encuentra atascado en un estado de flujo de trabajo intermedio debido a una desincronización del flujo de trabajo.",
                 "pt": "O pedido ficou preso em um status intermediário do fluxo de trabalho devido a uma dessincronização do fluxo de trabalho."
@@ -59514,21 +59529,6 @@
                 "en": "feed-hook-indexing-feature-skipping-events-in-fromorders-filters",
                 "es": "la-funcion-de-indexacion-de-feed-hook-omite-eventos-en-los-filtros-de-fromorders",
                 "pt": "recurso-de-indexacao-do-feed-hook-que-ignora-eventos-nos-filtros-fromorders"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Request for Settlement of Orders Does Not Account for the Value of Interest",
-                "es": "La solicitud de liquidación de las órdenes no tiene en cuenta el valor de los intereses",
-                "pt": "Solicitação de liquidação de ordens não leva em conta o valor dos juros"
-              },
-              "slug": {
-                "en": "request-for-settlement-of-orders-does-not-account-for-the-value-of-interest",
-                "es": "la-solicitud-de-liquidacion-de-las-ordenes-no-tiene-en-cuenta-el-valor-de-los-intereses",
-                "pt": "solicitacao-de-liquidacao-de-ordens-nao-leva-em-conta-o-valor-dos-juros"
               },
               "origin": "",
               "type": "markdown",
