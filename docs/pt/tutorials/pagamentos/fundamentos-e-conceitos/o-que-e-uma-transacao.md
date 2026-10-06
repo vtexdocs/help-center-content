@@ -17,6 +17,6 @@ subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 
 Uma transação é o movimento do dinheiro ao ser trocado por um produto ou serviço. O pagamento é uma das etapas desse processo, que envolve a troca de informações entre gateways, subadquirentes e/ou adquirentes, bandeiras e bancos emissores (saiba mais em [Agentes financeiros no fluxo de pagamento](/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento)).
 
-Em uma loja VTEX, cada pedido tem pelo menos uma transação, identificada pelo código da transação no gateway da VTEX e composta por um ou mais pagamentos do pedido. A transação começa quando o cliente escolhe uma [condição de pagamento](/pt/docs/tutorials/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento) e fecha o pedido, e os dados da compra seguem para a validação de cada integrante do processo.
+Em uma loja VTEX, cada pedido tem pelo menos uma transação, identificada pelo código da transação no módulo Pagamentos e composta por um ou mais pagamentos do pedido. A transação começa quando o cliente escolhe uma [condição de pagamento](/pt/docs/tutorials/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento) e fecha o pedido. A partir daí, os dados da compra seguem para a validação de cada integrante do processo.
 
 No Admin VTEX, acesse **Pedidos > Transações** para localizar informações sobre a transação. O artigo [Fluxo da transação no Pagamentos](/pt/docs/tutorials/fluxo-da-transacao-no-pagamentos) descreve os status das transações, da autorização do pagamento até a finalização.
