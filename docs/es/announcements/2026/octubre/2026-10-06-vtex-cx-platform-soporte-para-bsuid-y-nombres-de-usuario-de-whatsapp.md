@@ -46,4 +46,4 @@ No se requiere ninguna acción. La identificación del contacto la realiza autom
 
 Si utilizas sistemas externos que dependen exclusivamente del número de teléfono como identificador del contacto, como CRMs, integraciones personalizadas, pipelines de BI o reglas de segmentación, te recomendamos planificar la adaptación de esos sistemas para que también acepten el BSUID.
 
-Para saber más sobre el canal de WhatsApp, consulta el artículo [WhatsApp: Integración con VTEX CX Platform](https://help.vtex.com/es/docs/tutorials/whatsapp-integracao-com-o-vtex-cx-platform).
+Para saber más sobre el canal de WhatsApp, consulta el artículo [WhatsApp: Integración con VTEX CX Platform](https://help.vtex.com/es/docs/tutorials/whatsapp-integracion-con-vtex-cx-platform).
