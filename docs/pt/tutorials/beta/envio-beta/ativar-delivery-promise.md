@@ -25,7 +25,7 @@ Você também encontra [como desativar o Delivery Promise](#desativar-o-delivery
 Confira os pontos a seguir antes de iniciar a ativação:
 
 * **Compatibilidade da conta:** ao acessar a página **Delivery Promise** no Admin VTEX, a plataforma verifica automaticamente se a conta atende aos [requisitos do Delivery Promise](https://help.vtex.com/pt/docs/tutorials/delivery-promise-beta#requisitos). Consulte esses requisitos para verificar se a sua conta é compatível. Se ela for elegível, você poderá usar o Delivery Promise sem custo adicional.
-* **Acesso ao código da loja:** as etapas 3 e 4 exigem alterações no código da frente de loja. Se necessário, envolva a sua equipe de desenvolvimento ou um [parceiro de implementação](https://help.vtex.com/pt/docs/tracks/contas-e-arquitetura#parceiros-de-implementacao).
+* **Acesso ao código da loja:** as [etapas 3](#etapa-3-configure-na-loja) e [4](#etapa-4-publique-em-produção) exigem alterações no código da frente de loja. Para acessá-lo, entre em contato com a equipe responsável pelo desenvolvimento da loja ou com um [parceiro de implementação](https://help.vtex.com/pt/docs/tracks/contas-e-arquitetura#parceiros-de-implementacao). Se você não tiver acesso ao código, peça à equipe responsável para fazer as alterações necessárias.
 * **Permissão para publicar:** apenas usuários com o perfil Super Admin da conta podem publicar o Delivery Promise em produção. Saiba mais em [Perfis de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso).
 
 Para iniciar, no Admin VTEX, acesse a página **Delivery Promise**. Nela, você poderá verificar a compatibilidade da conta e iniciar o fluxo de ativação.
