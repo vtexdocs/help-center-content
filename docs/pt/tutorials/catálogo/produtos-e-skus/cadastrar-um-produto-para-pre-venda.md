@@ -55,18 +55,20 @@ Para disponibilizar um produto para pré-venda, siga os passos abaixo:
 
 ## Ordenar produtos por data de lançamento
 
-A data preenchida no campo **Data de lançamento** permite exibir os produtos do lançamento mais recente para o mais antigo. Para isso, adicione a querystring `O=OrderByReleaseDateDESC` ao final da URL de uma página de listagem de produtos, como no exemplo a seguir:
+A **Data de lançamento** permite exibir os produtos do lançamento mais recente para o mais antigo nas páginas de listagem de produtos. Para isso, adicione ao final da URL da página a querystring correspondente à tecnologia de [frontend](/pt/docs/tracks/frontend) da loja:
 
-`https://www.{nomeDaLoja}.com.br/{departamento}/{categoria}?O=OrderByReleaseDateDESC`
+| Frontend | Querystring |
+| --- | --- |
+| [Store Framework (VTEX IO)](/pt/docs/tracks/frontend#store-framework) | `?order=OrderByReleaseDateDESC` |
+| [FastStore](/pt/docs/tracks/frontend#faststore) | `?sort=release_desc` |
+| [CMS Portal (Legado)](/pt/docs/tracks/frontend#cms-portal-legado) | `?O=OrderByReleaseDateDESC` |
 
-Nesse exemplo, a página da categoria passa a exibir os produtos ordenados pela data de lançamento, em ordem decrescente. Confira os demais parâmetros de ordenação disponíveis em [Choosing the order of my products](https://developers.vtex.com/docs/guides/choosing-the-order-of-my-products).
+Exemplo em uma loja Store Framework: `https://www.{nomeDaLoja}.com.br/{departamento}/{categoria}?order=OrderByReleaseDateDESC`.
 
-A querystring funciona tanto em lojas que usam a [VTEX Search (Legado)](/pt/docs/tutorials/como-funciona-vtex-search-legado) quanto em lojas que usam o [VTEX Intelligent Search](/pt/docs/tutorials/intelligent-search-visao-geral). O que muda entre os dois buscadores é a ordenação aplicada quando a querystring não é utilizada:
+A ordenação funciona com os dois buscadores da VTEX. O que muda é a ordem exibida quando a querystring não é aplicada:
 
-- **VTEX Search (Legado):** os resultados seguem a pontuação (score) que o indexador calcula para o termo buscado. Saiba mais em [VTEX Search (Legado)](/pt/docs/tutorials/como-funciona-vtex-search-legado).
-- **VTEX Intelligent Search:** os resultados seguem a ordenação por relevância, em que a data de lançamento também pode influenciar a ordem. Nas [Regras de relevância](/pt/docs/tutorials/regras-de-relevancia), o critério **Data de lançamento** atribui ao produto um valor decrescente entre 1 e 0 ao longo de 90 dias contados a partir da data cadastrada. Ao aplicar a querystring, as Regras de relevância deixam de ser consideradas na ordem dos resultados.
-
-> ℹ️ Em lojas headless que consomem diretamente a [Intelligent Search API](https://developers.vtex.com/docs/api-reference/intelligent-search-api-v1), o parâmetro de ordenação equivalente é `sort=release:desc`.
+- **[VTEX Search (Legado)](/pt/docs/tutorials/como-funciona-vtex-search-legado):** os resultados seguem a pontuação (score) que o indexador calcula para o termo buscado.
+- **[VTEX Intelligent Search](/pt/docs/tutorials/intelligent-search-visao-geral):** os resultados seguem a relevância, em que a data de lançamento é um critério configurável que perde valor ao longo de 90 dias. Saiba mais em [Regras de relevância](/pt/docs/tutorials/regras-de-relevancia).
 
 ## Validar a configuração
 
