@@ -71,3 +71,7 @@ This type of login **requests email and password** so that the client can authen
 ### Social media login
 
 Social media login options using your Google or Facebook accounts may also be added. Read our article on [Configuring login with Facebook and Google](/en/docs/tutorials/configuring-login-with-facebook-and-google) for more info.
+
+## Configuring customer session duration
+
+By default, customers stay authenticated for 24 hours after logging in. You can extend this period so your customers remain logged in for longer — up to 365 days — without needing to log in again every day. This is useful for improving customer experience on frequent purchases. Check the [Configuring persistent login for shoppers](/en/docs/tutorials/configuring-persistent-login-for-shoppers) guide to learn how to enable and configure this feature.

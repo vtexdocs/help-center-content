@@ -70,6 +70,10 @@ If the password login option is enabled, you can set user passwords to expire af
 
 Once the expiration period is reached, users will be required to reset their password when attempting to log in.
 
+### Configuring customer session duration
+
+In addition to managing login methods and password expiration, you can configure how long a customer stays authenticated in your online store. By default, sessions expire after 24 hours, but you can extend this period up to 365 days using persistent login. For more details, see the [Configuring persistent login for shoppers](/en/docs/tutorials/configuring-persistent-login-for-shoppers) guide.
+
 ## Developing integrations
 
 When developing integrations using VTEX [APIs](https://developers.vtex.com/docs/guides/getting-started), you must provide authentication parameters for the desired operations. See the available methods below:
