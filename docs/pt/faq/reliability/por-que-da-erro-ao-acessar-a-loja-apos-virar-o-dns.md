@@ -1,5 +1,6 @@
 ---
 title: 'Por que aparece um erro no acesso à loja ​após virar o DNS​?'
+excerpt: "Apontar o DNS não basta. Defina o status da conta como produção em Gerenciamento da conta para a vitrine carregar."
 id: frequentlyAskedQuestions_2248
 status: PUBLISHED
 createdAt: 2017-04-27T22:25:29.934Z

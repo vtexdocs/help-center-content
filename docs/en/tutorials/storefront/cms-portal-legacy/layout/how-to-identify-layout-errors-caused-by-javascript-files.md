@@ -13,31 +13,28 @@ slugEN: how-to-identify-layout-errors-caused-by-javascript-files
 legacySlug: how-to-identify-layout-errors-caused-by-javascript-files
 locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
+seeAlso:
+  - /en/docs/tutorials/how-to-know-which-javascript-file-is-being-applied-to-a-page
+  - /en/faq/blocking-customizations-to-troubleshoot-front-end-issues
+  - /en/docs/tutorials/how-to-test-for-layout-problems
 ---
 
-<div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial valid only for Legacy CMS Stores.
-</div>
+> ⚠️ This tutorial is only valid for CMS Portal (Legacy) stores.
 
-A way to identify whether an error appearing in the layout is caused by a VTEX standard control or by a Javascript file customized in the store is to use /tools.html.
+You can use the `/tools.html` page to check whether a layout error comes from a custom JavaScript file in the store or from native VTEX behavior.
 
-To do so, follow the steps below:
+To disable client JavaScript and test the page, follow the steps below:
 
-1. To disable the JS of the page, just add `/tools.html` at the end of the URL. E.g.: {AccountName}.myvtex.com/tools.html
-2. Click on __Disable__ in the __Client JavaScript is__ tab. 
+1. Go to `https://{accountName}.myvtex.com/tools.html`, replacing `{accountName}` with your store's account name.
+2. In the **Client JavaScript is** tab, click **Disable**.
 
-![javascript-disable ](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/how-to-identify-layout-errors-caused-by-javascript-files_1.png)
+![tools.html page with the option to disable client JavaScript](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/how-to-identify-layout-errors-caused-by-javascript-files_1.png)
 
-3. Next, remove `/tools.html` from the URL and update the page.
+3. Remove `/tools.html` from the URL and refresh the store page.
 
-If the error displayed was caused by an external JavaScript file, it will no longer appear.
-Thus, this file needs be adjusted.
+If the error disappears, it is likely caused by a custom JavaScript file. In that case, update the file.
 
-Regarding JS files inserted in the page, it is important to follow certain assumptions:
+When adding JavaScript to the page, follow these recommendations:
 
-- To use an external JS rather than online JavaScript.
-- To check whether it will interfere in the performance of the store.
-
-Remember that we also have the VTEX Speed tool that enables local development with shorter cache time. [Vtex Speed - Download e Execution](https://github.com/vtex/speed)
-
-To investigate possible problems involving CSS, we recommend using the WebDeveloper plugin - look [here](/docs/tutorials/blocking-customizations-to-troubleshoot-front-end-issues) some tools to improve debugging customization issues.
+- Use an external JavaScript file, not inline code.
+- Check that the file does not affect store performance.

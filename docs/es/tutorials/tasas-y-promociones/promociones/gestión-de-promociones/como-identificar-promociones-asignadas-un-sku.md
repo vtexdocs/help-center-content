@@ -13,6 +13,9 @@ slugEN: how-to-identify-promotions-attributed-to-an-sku
 legacySlug: como-identificar-promociones-asignadas-un-sku
 locale: es
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
+seeAlso:
+  - /es/docs/tracks/como-funcionan-las-promociones
+  - /es/docs/tutorials/como-identificar-las-promociones-aplicadas-en-el-carrito
 ---
 
 > ⚠️ Las etapas documentadas en este artículo utilizan Google Chrome. Debido a que es una herramienta externa de VTEX, puede actualizarse sin previo aviso.
@@ -28,9 +31,4 @@ Para descubrir qué promociones están siendo asignadas a un SKU, hay que anal
 5. Hacer click en `orderForm` y ir a `items`. Después de hacer click en `items`, hacer click en los números (0, 1, 2 etc.) para ver las características del producto deseado. En nuestro ejemplo, ya que tenemos sólo un elemento, este se representa por el número `0` en el array.![items-0](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/gestión-de-promociones/como-identificar-promociones-asignadas-un-sku_4.png)
 6. Después de hacer click en el número, hacia abajo el scroll hasta `priceTags`. Haga click en `priceTags` y luego haga click en los números (`0`, `1`, `2` etc.) para ver las características de la promocion deseada. En nuestro ejemplo, ya que tenemos solamente una promoción, esta se representa por el número `0` en el array. Después de eso, búsqueda por `identifier` de la promoción.![priceTags-0-identifier](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/gestión-de-promociones/como-identificar-promociones-asignadas-un-sku_5.png)
 7. En otra pestaña, acceder a la URL `https://{accountName}.vtexcommercestable.com.br/admin/rnb/#/benefit/{numero-del-identifier}`. Esta es la promoción que se aplica efectivamente al producto en el carrito. Comprueba la configuración de la promoción y vea si las condiciones son aplicables al SKU en cuestión.![promo-debug-help](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/gestión-de-promociones/como-identificar-promociones-asignadas-un-sku_6.png)
-
-## Más información
-
-- [Cómo funcionan las promociones](/es/docs/tracks/como-funcionan-las-promociones)
-- [Identificar las promociones aplicadas en el carrito](/es/docs/tutorials/como-identificar-las-promociones-aplicadas-en-el-carrito)
 
