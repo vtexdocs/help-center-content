@@ -13,10 +13,10 @@ A ativação do [Delivery Promise](https://help.vtex.com/pt/docs/tutorials/deliv
 
 Neste artigo, você vai entender cada etapa da ativação:
 
-1. [Ative o modo de teste](#etapa-1-ative-o-modo-de-teste)
-2. [Revise as Opções de Envio](#etapa-2-revise-as-opções-de-envio)
-3. [Configure na loja](#etapa-3-configure-na-loja)
-4. [Publique em produção](#etapa-4-publique-em-produção)
+1. [Ative o modo de teste](#etapa-1-ative-o-modo-de-teste): selecione as políticas comerciais e confirme as condições de uso para testar o Delivery Promise sem afetar a loja em produção.
+2. [Revise as Opções de Envio](#opcional-etapa-2-revise-as-opções-de-envio): escolha quais opções de envio poderão ser usadas como filtros pelos compradores na loja.
+3. [Configure na loja](#etapa-3-configure-na-loja): implemente ou configure os componentes do Delivery Promise de acordo com a tecnologia da sua loja.
+4. [Publique em produção](#etapa-4-publique-em-produção): publique a versão da loja com as alterações e ative o Delivery Promise para os compradores.
 
 Você também encontra [como desativar o Delivery Promise](#desativar-o-delivery-promise) e [o que fazer quando a conta não é compatível](#conta-não-compatível-com-o-delivery-promise).
 
@@ -51,9 +51,9 @@ Preencha as seções a seguir:
 
 >⚠️ Depois de concluir esta etapa, não é possível alterar as políticas comerciais pelo Admin. Para incluir mais políticas comerciais ou alterar as selecionadas, entre em contato com o [Suporte VTEX](https://help.vtex.com/pt/support).
 
-## Etapa 2: Revise as Opções de Envio
+## (Opcional) Etapa 2: Revise as Opções de Envio
 
-Esta etapa é opcional, mas é necessária para que os compradores possam usar os filtros de prazo de envio na loja.
+Esta etapa é opcional para ativar o Delivery Promise. No entanto, para exibir filtros de prazo de envio na loja, você precisa configurar as Opções de Envio.
 
 O Delivery Promise usa as [Opções de Envio](https://help.vtex.com/pt/docs/tutorials/opcoes-de-envio-beta) cadastradas na sua conta para montar os filtros exibidos aos compradores. Nesta etapa, revise e ative as sugestões:
 
@@ -68,7 +68,7 @@ Nesta etapa, você configura o Delivery Promise na frente de loja. As instruçõ
 
 >⚠️ Para esta etapa, é necessário ter acesso ao código da loja.
 
-### VTEX IO
+### Store Framework (VTEX IO)
 
 1. **Ative na versão de teste:** crie uma workspace de desenvolvimento e, no app **GraphQL resolver for the VTEX store APIs**, habilite a opção `enableDeliveryPromisePreview`. Para isso, acesse a URL a seguir, substituindo `{workspace}` pelo nome da workspace e `{conta}` pelo nome da sua conta:
 
