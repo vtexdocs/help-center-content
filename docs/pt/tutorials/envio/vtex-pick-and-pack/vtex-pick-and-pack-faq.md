@@ -96,7 +96,7 @@ Com o fluxo de aprovações habilitado, as solicitações dos separadores que de
 
 ### Se forem permitidas alterações nos pedidos, haverá um limite de alterações a serem realizadas?
 
-Sim. Na aba [Separação](/pt/docs/tutorials/vtex-pick-and-pack-configuracoes#separacao), cada tipo de alteração tem um limite percentual próprio, definido em um controle deslizante de −100% a 100%, calculado sobre o valor original. O controle só é exibido quando a opção correspondente está ativada:
+Sim. Na aba [Separação](/pt/docs/tutorials/vtex-pick-and-pack-configuracoes#separacao), cada tipo de alteração tem um limite percentual próprio, definido em um controle deslizante de −100% a 100%, calculado sobre o preço original do item, a quantidade original do item ou o valor original do pedido, conforme o tipo. O controle só é exibido quando a opção correspondente está ativada:
 
 * **Limite de alterações de preço dos itens dos pedidos:** percentual máximo de variação no preço de um item. Exibido quando a opção **Permitir alterações no preço dos itens** está ativada.
 * **Limite de alterações na quantidade de itens dos pedidos:** percentual máximo de variação na quantidade de unidades ou no peso do item, conforme aplicável. O mesmo limite define quanto o separador pode aumentar ou reduzir as unidades ou o peso do item. Exibido quando a opção **Permitir alterações na quantidade dos itens** está ativada.
