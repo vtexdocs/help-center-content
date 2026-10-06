@@ -51,6 +51,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "VTEX CX Platform: support for BSUID and WhatsApp usernames",
+                    "es": "VTEX CX Platform: soporte para BSUID y nombres de usuario de WhatsApp",
+                    "pt": "VTEX CX Platform: suporte a BSUID e usernames do WhatsApp"
+                  },
+                  "slug": {
+                    "en": "2026-10-06-vtex-cx-platform-support-for-bsuid-and-whatsapp-usernames",
+                    "es": "2026-10-06-vtex-cx-platform-soporte-para-bsuid-y-nombres-de-usuario-de-whatsapp",
+                    "pt": "2026-10-06-vtex-cx-platform-suporte-a-bsuid-e-usernames-do-whatsapp"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -138,37 +153,6 @@
                     "en": "2026-09-01-intelligent-search-synonym-conflict-detection",
                     "es": "2026-09-01-intelligent-search-deteccion-de-sinonimos-conflictivos",
                     "pt": "2026-09-01-intelligent-search-deteccao-de-sinonimos-conflitantes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Setembro",
-                "es": "Setembro",
-                "pt": "Setembro"
-              },
-              "slug": {
-                "en": "setembro",
-                "es": "setembro",
-                "pt": "2026-setembro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "VTEX CX Platform: suporte a BSUID e usernames do WhatsApp",
-                    "es": "VTEX CX Platform: suporte a BSUID e usernames do WhatsApp",
-                    "pt": "VTEX CX Platform: suporte a BSUID e usernames do WhatsApp"
-                  },
-                  "slug": {
-                    "en": "",
-                    "es": "",
-                    "pt": "2026-09-30-vtex-cx-platform-suporte-a-bsuid-e-usernames-do-whatsapp"
                   },
                   "origin": "",
                   "type": "markdown",
