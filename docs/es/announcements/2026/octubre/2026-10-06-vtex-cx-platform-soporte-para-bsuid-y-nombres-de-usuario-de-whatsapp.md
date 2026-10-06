@@ -4,7 +4,7 @@ createdAt: 2026-10-06T12:00:00.000Z
 updatedAt: 2026-10-06T12:00:00.000Zs
 contentType: updates
 productTeam: VTEX CX Platform
-slugEN: vtex-cx-platform-support-for-bsuid-and-whatsapp-usernames
+slugEN: 2026-10-06-vtex-cx-platform-support-for-bsuid-and-whatsapp-usernames
 locale: es
 announcementSynopsisES: 'VTEX CX Platform ahora identifica contactos de WhatsApp mediante el BSUID, lo que mantiene activas las conversaciones y automatizaciones incluso sin número de teléfono.'
 tags:
