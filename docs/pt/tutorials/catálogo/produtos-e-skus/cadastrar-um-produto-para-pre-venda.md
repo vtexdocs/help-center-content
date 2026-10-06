@@ -3,7 +3,7 @@ title: 'Cadastrar um produto para pré-venda'
 id: 4o6cUJ4gIg0MQWW8WfN34K
 status: PUBLISHED
 createdAt: 2021-09-08T16:32:39.818Z
-updatedAt: 2026-10-01T16:18:00.000Z
+updatedAt: 2026-10-06T15:00:00.000Z
 publishedAt: 2025-11-06T15:35:57.132Z
 firstPublishedAt: 2021-09-14T16:54:57.039Z
 contentType: tutorial
@@ -20,6 +20,7 @@ Na plataforma VTEX, os lojistas podem vender um produto antes de ele chegar ao e
 Neste artigo iremos abordar os seguintes tópicos:
 
 - [Criar produto para a pré-venda](#criar-produto-para-a-pre-venda)
+- [Ordenar produtos por data de lançamento](#ordenar-produtos-por-data-de-lancamento)
 - [Validar a configuração](#validar-a-configuracao)
 - [Agendar preços](#agendar-precos)
 - [Agendar conteúdo](#agendar-conteudo)
@@ -34,7 +35,7 @@ Para disponibilizar um produto para pré-venda, siga os passos abaixo:
 2. Clique em `+ Adicionar produto`.
 3. (Opcional) Na seção **Frente de loja**, no campo **Data de lançamento**, selecione a data em que lançará o produto.
 
-  > ℹ️ Este campo não ativa a pré-venda nem altera o prazo de entrega. Ele é utilizado para ordenar o resultado de busca do site. Por meio da querystring `O=OrderByReleaseDateDESC`, é possível exibir os produtos ordenados por data de lançamento. O valor deste campo também é considerado na criação de [coleções automáticas](/pt/docs/tutorials/cadastrar-colecoes-beta) e na data de [indexação](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao) do produto.
+  > ℹ️ Este campo não ativa a pré-venda nem altera o prazo de entrega. Ele é utilizado para ordenar os resultados de busca do site, conforme explicado em [Ordenar produtos por data de lançamento](#ordenar-produtos-por-data-de-lancamento). O valor deste campo também é considerado na criação de [coleções automáticas](/pt/docs/tutorials/cadastrar-colecoes-beta) e na data de [indexação](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao) do produto.
 
 4. Preencha os demais campos para a criação do produto. Saiba mais em [Adicionar ou editar produto](/pt/docs/tutorials/adicionar-ou-editar-produto).
 5. Clique em `Salvar`.
@@ -51,6 +52,21 @@ Para disponibilizar um produto para pré-venda, siga os passos abaixo:
   > ⚠️ A **Data de pré-venda** não torna o item vendável por si só. O cliente só consegue comprar o SKU em pré-venda se ele tiver quantidade disponível em estoque.
 
 > ℹ️ O pedido do item em pré-venda só deverá ser faturado a partir da data de pré-venda, isto é, quando o item estiver disponível em estoque para envio.
+
+## Ordenar produtos por data de lançamento
+
+A data preenchida no campo **Data de lançamento** permite exibir os produtos do lançamento mais recente para o mais antigo. Para isso, adicione a querystring `O=OrderByReleaseDateDESC` ao final da URL de uma página de listagem de produtos, como no exemplo a seguir:
+
+`https://www.{nomeDaLoja}.com.br/{departamento}/{categoria}?O=OrderByReleaseDateDESC`
+
+Nesse exemplo, a página da categoria passa a exibir os produtos ordenados pela data de lançamento, em ordem decrescente. Confira os demais parâmetros de ordenação disponíveis em [Choosing the order of my products](https://developers.vtex.com/docs/guides/choosing-the-order-of-my-products).
+
+A querystring funciona tanto em lojas que usam a [VTEX Search (Legado)](/pt/docs/tutorials/como-funciona-vtex-search-legado) quanto em lojas que usam o [VTEX Intelligent Search](/pt/docs/tutorials/intelligent-search-visao-geral). O que muda entre os dois buscadores é a ordenação aplicada quando a querystring não é utilizada:
+
+- **VTEX Search (Legado):** os resultados seguem a pontuação (score) que o indexador calcula para o termo buscado. Saiba mais em [VTEX Search (Legado)](/pt/docs/tutorials/como-funciona-vtex-search-legado).
+- **VTEX Intelligent Search:** os resultados seguem a ordenação por relevância, em que a data de lançamento também pode influenciar a ordem. Nas [Regras de relevância](/pt/docs/tutorials/regras-de-relevancia), o critério **Data de lançamento** atribui ao produto um valor decrescente entre 1 e 0 ao longo de 90 dias contados a partir da data cadastrada. Ao aplicar a querystring, as Regras de relevância deixam de ser consideradas na ordem dos resultados.
+
+> ℹ️ Em lojas headless que consomem diretamente a [Intelligent Search API](https://developers.vtex.com/docs/api-reference/intelligent-search-api-v1), o parâmetro de ordenação equivalente é `sort=release:desc`.
 
 ## Validar a configuração
 
