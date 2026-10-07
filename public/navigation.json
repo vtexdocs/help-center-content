@@ -31515,21 +31515,6 @@
                 },
                 {
                   "name": {
-                    "en": "Importing Amazon FBA Onsite orders",
-                    "es": "Importación de pedidos de Amazon FBA Onsite",
-                    "pt": "Importação de Pedidos Amazon FBA Onsite"
-                  },
-                  "slug": {
-                    "en": "importing-amazon-fba-onsite-orders",
-                    "es": "importacion-de-pedidos-de-amazon-fba-onsite",
-                    "pt": "importacao-de-pedidos-amazon-fba-onsite"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "AMARO Integration",
                     "es": "Integración con AMARO",
                     "pt": "Integração com a AMARO"
