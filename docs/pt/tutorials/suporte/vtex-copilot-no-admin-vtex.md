@@ -99,6 +99,8 @@ Além de responder perguntas, o Copilot executa diagnósticos que verificam vár
 | "Qual é a arquitetura da minha loja?" | A tecnologia da loja (Store Framework, FastStore, Legacy ou headless) e a edição da conta. |
 | "Faça uma auditoria de segurança" | As configurações de segurança da loja, como o reCAPTCHA contra bots e ataques de teste de cartão, com os valores recomendados. |
 
+O relatório lista cada item verificado com o respectivo resultado e indica qual deles está causando o problema. Ao final, o Copilot sugere o que alterar e pode aplicar a correção para você, depois da sua confirmação. Veja [Alterações na loja com segurança](#alterações-na-loja-com-segurança).
+
 Em diagnósticos e perguntas mais complexas, a resposta pode levar alguns instantes, porque o Copilot verifica várias informações antes de responder.
 
 ## Anexar arquivos
@@ -124,7 +126,9 @@ O Copilot lê os arquivos durante a investigação e pode anexá-los a um chamad
 
 ![VTEX Copilot pedindo confirmação antes de alterar a loja](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/vtex-copilot-no-admin-vtex_4.png)
 
-> ⚠️ Revise sempre a conta, os itens afetados e os valores antes de confirmar uma alteração. Se tiver dúvida, peça ao Copilot o passo a passo em vez de aplicar a alteração.
+Se quiser manter a etapa de confirmação, descreva o problema e pergunte o que fazer, em vez de pedir diretamente a correção.
+
+> ⚠️ Não existe uma opção de desfazer. Para reverter uma alteração, peça ao Copilot para restaurar o valor anterior ou edite o valor no Admin VTEX. Por isso, revise sempre a conta, os itens afetados e os valores antes de confirmar. Se tiver dúvida, peça ao Copilot o passo a passo em vez de aplicar a alteração.
 
 ## Histórico de conversas
 
@@ -163,7 +167,9 @@ Perguntas específicas recebem respostas melhores e mais rápidas.
 
 ## Privacidade e segurança
 
-- **Seu login, suas permissões.** O Copilot usa a sua sessão do Admin VTEX e nunca uma credencial compartilhada. Ele só vê e altera o que o seu usuário pode ver e alterar. Se você não tem acesso ao módulo de Pagamentos, o Copilot também não tem.
+- **Seu login, suas permissões.** O Copilot usa a sua sessão do Admin VTEX e nunca uma credencial compartilhada. Ele só vê e altera o que o seu usuário pode ver e alterar. Se você não tem acesso ao módulo de Pagamentos, o Copilot também não tem. Por isso, dois usuários da mesma conta podem receber respostas diferentes para a mesma pergunta.
+- **Sem acessos extras.** O Copilot não concede acessos que você ainda não tem. Pedir a ele para contornar uma permissão não funciona.
+- **Conversas privadas.** As suas conversas com o Copilot no Admin VTEX ficam visíveis apenas para você.
 - **Confirmação antes de alterações.** Nada é alterado na loja sem o seu pedido ou a sua confirmação.
 - **Rastreabilidade.** Cada alteração fica registrada em nome do usuário que fez o pedido, da mesma forma que no Admin VTEX.
 
@@ -180,6 +186,9 @@ No idioma em que você escreve: português, espanhol ou inglês. Para mudar o id
 
 **A resposta parou no meio. O que faço?**
 Envie uma nova mensagem pedindo para continuar, por exemplo: "continue a análise anterior". O histórico da conversa é mantido.
+
+**O Copilot pediu para eu entrar novamente ou disse que não tenho acesso à conversa. O que faço?**
+O Copilot usa a sua sessão do Admin VTEX. Saia do Admin VTEX, entre novamente e abra o Copilot outra vez.
 
 **Posso usar o Copilot em mais de uma conta?**
 Sim. O Copilot trabalha na conta do Admin VTEX em que você está conectado. Para consultar outra conta, acesse o Admin VTEX dessa conta.
