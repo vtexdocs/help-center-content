@@ -15963,6 +15963,246 @@
           "children": [
             {
               "name": {
+                "en": "Out-of-stock errors in marketplace integration orders",
+                "es": "Errores de falta de stock en la integración de pedidos de marketplace",
+                "pt": "Erros de falta de estoque na integração de pedidos de marketplace"
+              },
+              "slug": {
+                "en": "out-of-stock-errors-in-marketplace-integration-orders",
+                "es": "errores-de-falta-de-stock-en-la-integracion-de-pedidos-de-marketplace",
+                "pt": "erros-de-falta-de-estoque-na-integracao-de-pedidos-de-marketplace"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon inventory integration errors",
+                "es": "Errores de integración de stock con Amazon",
+                "pt": "Erros de integração de estoque com a Amazon"
+              },
+              "slug": {
+                "en": "amazon-inventory-integration-errors",
+                "es": "errores-de-integracion-de-stock-con-amazon",
+                "pt": "erros-de-integracao-de-estoque-com-a-amazon"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Netshoes inventory integration errors",
+                "es": "Errores de integración de stock con Netshoes",
+                "pt": "Erros de integração de estoque com a Netshoes"
+              },
+              "slug": {
+                "en": "netshoes-inventory-integration-errors",
+                "es": "errores-de-integracion-de-stock-con-netshoes",
+                "pt": "erros-de-integracao-de-estoque-com-a-netshoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Via inventory integration errors",
+                "es": "Errores de integración de stock con Via",
+                "pt": "Erros de integração de estoque com a Via"
+              },
+              "slug": {
+                "en": "via-inventory-integration-errors",
+                "es": "errores-de-integracion-de-stock-con-via",
+                "pt": "erros-de-integracao-de-estoque-com-a-via"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Carrefour inventory integration errors",
+                "es": "Errores de integración de stock con Carrefour",
+                "pt": "Erros de integração de estoque com o Carrefour"
+              },
+              "slug": {
+                "en": "carrefour-inventory-integration-errors",
+                "es": "errores-de-integracion-de-stock-con-carrefour",
+                "pt": "erros-de-integracao-de-estoque-com-o-carrefour"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Magazine Luiza inventory integration errors",
+                "es": "Errores de integración de stock con Magazine Luiza",
+                "pt": "Erros de integração de estoque com o Magazine Luiza"
+              },
+              "slug": {
+                "en": "magazine-luiza-inventory-integration-errors",
+                "es": "errores-de-integracion-de-stock-con-magazine-luiza",
+                "pt": "erros-de-integracao-de-estoque-com-o-magazine-luiza"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre inventory integration errors",
+                "es": "Errores de integración de stock con Mercado Libre",
+                "pt": "Erros de integração de estoque com o Mercado Livre"
+              },
+              "slug": {
+                "en": "mercado-livre-inventory-integration-errors",
+                "es": "errores-de-integracion-de-stock-con-mercado-libre",
+                "pt": "erros-de-integracao-de-estoque-com-o-mercado-livre"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order errors in the Amazon integration",
+                "es": "Errores de integración de pedidos de Amazon",
+                "pt": "Erros de integração de pedidos da Amazon"
+              },
+              "slug": {
+                "en": "order-errors-in-the-amazon-integration",
+                "es": "errores-de-integracion-de-pedidos-de-amazon",
+                "pt": "erros-de-integracao-de-pedidos-da-amazon"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order errors in the B2W integration",
+                "es": "Errores de integración de pedidos de B2W",
+                "pt": "Erros de integração de pedidos da B2W"
+              },
+              "slug": {
+                "en": "order-errors-in-the-b2w-integration",
+                "es": "errores-de-integracion-de-pedidos-de-b2w",
+                "pt": "erros-de-integracao-de-pedidos-da-b2w"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order errors in the Dafiti integration",
+                "es": "Errores de integración de pedidos de Dafiti",
+                "pt": "Erros de integração de pedidos da Dafiti"
+              },
+              "slug": {
+                "en": "order-errors-in-the-dafiti-integration",
+                "es": "errores-de-integracion-de-pedidos-de-dafiti",
+                "pt": "erros-de-integracao-de-pedidos-da-dafiti"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order errors in the Netshoes integration",
+                "es": "Errores de integración de pedidos de Netshoes",
+                "pt": "Erros de integração de pedidos da Netshoes"
+              },
+              "slug": {
+                "en": "order-errors-in-the-netshoes-integration",
+                "es": "errores-de-integracion-de-pedidos-de-netshoes",
+                "pt": "erros-de-integracao-de-pedidos-da-netshoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order errors in the Via integration",
+                "es": "Errores de integración de pedidos de Via",
+                "pt": "Erros de integração de pedidos da Via"
+              },
+              "slug": {
+                "en": "order-errors-in-the-via-integration",
+                "es": "errores-de-integracion-de-pedidos-de-via",
+                "pt": "erros-de-integracao-de-pedidos-da-via"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order errors in the Carrefour integration",
+                "es": "Errores de integración de pedidos de Carrefour",
+                "pt": "Erros de integração de pedidos do Carrefour"
+              },
+              "slug": {
+                "en": "order-errors-in-the-carrefour-integration",
+                "es": "errores-de-integracion-de-pedidos-de-carrefour",
+                "pt": "erros-de-integracao-de-pedidos-do-carrefour"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order errors in the Magazine Luiza integration",
+                "es": "Errores de integración de pedidos de Magazine Luiza",
+                "pt": "Erros de integração de pedidos do Magazine Luiza"
+              },
+              "slug": {
+                "en": "order-errors-in-the-magazine-luiza-integration",
+                "es": "errores-de-integracion-de-pedidos-de-magazine-luiza",
+                "pt": "erros-de-integracao-de-pedidos-do-magazine-luiza"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order errors in the Mercado Livre integration",
+                "es": "Errores de integración de pedidos de Mercado Libre",
+                "pt": "Erros de integração de pedidos do Mercado Livre"
+              },
+              "slug": {
+                "en": "order-errors-in-the-mercado-livre-integration",
+                "es": "errores-de-integracion-de-pedidos-de-mercado-libre",
+                "pt": "erros-de-integracao-de-pedidos-do-mercado-livre"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "SLA errors in marketplace integration orders",
+                "es": "Errores de SLA en la integración de pedidos de marketplace",
+                "pt": "Erros de SLA na integração de pedidos de marketplace"
+              },
+              "slug": {
+                "en": "sla-errors-in-marketplace-integration-orders",
+                "es": "errores-de-sla-en-la-integracion-de-pedidos-de-marketplace",
+                "pt": "erros-de-sla-na-integracao-de-pedidos-de-marketplace"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "My ad is not displayed on Mercado Livre",
                 "es": "Mi anuncio no aparece en Mercado Libre",
                 "pt": "Meu anúncio não é exibido no Mercado Livre"
@@ -16061,6 +16301,21 @@
                 "en": "promotion-not-applied-to-the-marketplace",
                 "es": "promocion-no-aplicada-en-marketplace",
                 "pt": "promocao-nao-aplicada-ao-marketplace"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Troubleshooting price divergence errors in marketplace orders",
+                "es": "Resolución de errores de divergencia de precio en pedidos de marketplace",
+                "pt": "Resolução de erros de divergência de preço em pedidos de marketplace"
+              },
+              "slug": {
+                "en": "troubleshooting-price-divergence-errors-in-marketplace-orders",
+                "es": "resolucion-de-errores-de-divergencia-de-precio-en-pedidos-de-marketplace",
+                "pt": "resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace"
               },
               "origin": "",
               "type": "markdown",
@@ -31847,126 +32102,6 @@
                 },
                 {
                   "name": {
-                    "en": "Out-of-stock errors in marketplace integration orders",
-                    "es": "Errores de falta de stock en la integración de pedidos de marketplace",
-                    "pt": "Erros de falta de estoque na integração de pedidos de marketplace"
-                  },
-                  "slug": {
-                    "en": "out-of-stock-errors-in-marketplace-integration-orders",
-                    "es": "errores-de-falta-de-stock-en-la-integracion-de-pedidos-de-marketplace",
-                    "pt": "erros-de-falta-de-estoque-na-integracao-de-pedidos-de-marketplace"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Amazon inventory integration errors",
-                    "es": "Errores de integración de stock con Amazon",
-                    "pt": "Erros de integração de estoque com a Amazon"
-                  },
-                  "slug": {
-                    "en": "amazon-inventory-integration-errors",
-                    "es": "errores-de-integracion-de-stock-con-amazon",
-                    "pt": "erros-de-integracao-de-estoque-com-a-amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Netshoes inventory integration errors",
-                    "es": "Errores de integración de stock con Netshoes",
-                    "pt": "Erros de integração de estoque com a Netshoes"
-                  },
-                  "slug": {
-                    "en": "netshoes-inventory-integration-errors",
-                    "es": "errores-de-integracion-de-stock-con-netshoes",
-                    "pt": "erros-de-integracao-de-estoque-com-a-netshoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Via inventory integration errors",
-                    "es": "Errores de integración de stock con Via",
-                    "pt": "Erros de integração de estoque com a Via"
-                  },
-                  "slug": {
-                    "en": "via-inventory-integration-errors",
-                    "es": "errores-de-integracion-de-stock-con-via",
-                    "pt": "erros-de-integracao-de-estoque-com-a-via"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Inventory integration errors with marketplaces",
-                    "es": "Errores de integración de stock con marketplaces",
-                    "pt": "Erros de integração de estoque com marketplaces"
-                  },
-                  "slug": {
-                    "en": "inventory-integration-errors-with-marketplaces",
-                    "es": "errores-de-integracion-de-stock-con-marketplaces",
-                    "pt": "erros-de-integracao-de-estoque-com-marketplaces"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Carrefour inventory integration errors",
-                    "es": "Errores de integración de stock con Carrefour",
-                    "pt": "Erros de integração de estoque com o Carrefour"
-                  },
-                  "slug": {
-                    "en": "carrefour-inventory-integration-errors",
-                    "es": "errores-de-integracion-de-stock-con-carrefour",
-                    "pt": "erros-de-integracao-de-estoque-com-o-carrefour"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Magazine Luiza inventory integration errors",
-                    "es": "Errores de integración de stock con Magazine Luiza",
-                    "pt": "Erros de integração de estoque com o Magazine Luiza"
-                  },
-                  "slug": {
-                    "en": "magazine-luiza-inventory-integration-errors",
-                    "es": "errores-de-integracion-de-stock-con-magazine-luiza",
-                    "pt": "erros-de-integracao-de-estoque-com-o-magazine-luiza"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Mercado Livre inventory integration errors",
-                    "es": "Errores de integración de stock con Mercado Libre",
-                    "pt": "Erros de integração de estoque com o Mercado Livre"
-                  },
-                  "slug": {
-                    "en": "mercado-livre-inventory-integration-errors",
-                    "es": "errores-de-integracion-de-stock-con-mercado-libre",
-                    "pt": "erros-de-integracao-de-estoque-com-o-mercado-livre"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Customized inventory in the marketplace",
                     "es": "Inventario personalizado en el marketplace",
                     "pt": "Estoque personalizado no marketplace"
@@ -32097,156 +32232,6 @@
                     "en": "how-shipping-works-when-delivery-is-done-by-the-marketplace",
                     "es": "como-funciona-el-flete-cuando-la-entrega-es-hecha-por-el-marketplace",
                     "pt": "como-funciona-o-frete-quando-o-marketplace-faz-a-entrega"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Order errors in the Amazon integration",
-                    "es": "Errores de integración de pedidos de Amazon",
-                    "pt": "Erros de integração de pedidos da Amazon"
-                  },
-                  "slug": {
-                    "en": "order-errors-in-the-amazon-integration",
-                    "es": "errores-de-integracion-de-pedidos-de-amazon",
-                    "pt": "erros-de-integracao-de-pedidos-da-amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Order errors in the B2W integration",
-                    "es": "Errores de integración de pedidos de B2W",
-                    "pt": "Erros de integração de pedidos da B2W"
-                  },
-                  "slug": {
-                    "en": "order-errors-in-the-b2w-integration",
-                    "es": "errores-de-integracion-de-pedidos-de-b2w",
-                    "pt": "erros-de-integracao-de-pedidos-da-b2w"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Order errors in the Dafiti integration",
-                    "es": "Errores de integración de pedidos de Dafiti",
-                    "pt": "Erros de integração de pedidos da Dafiti"
-                  },
-                  "slug": {
-                    "en": "order-errors-in-the-dafiti-integration",
-                    "es": "errores-de-integracion-de-pedidos-de-dafiti",
-                    "pt": "erros-de-integracao-de-pedidos-da-dafiti"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Order errors in the Netshoes integration",
-                    "es": "Errores de integración de pedidos de Netshoes",
-                    "pt": "Erros de integração de pedidos da Netshoes"
-                  },
-                  "slug": {
-                    "en": "order-errors-in-the-netshoes-integration",
-                    "es": "errores-de-integracion-de-pedidos-de-netshoes",
-                    "pt": "erros-de-integracao-de-pedidos-da-netshoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Order errors in the Via integration",
-                    "es": "Errores de integración de pedidos de Via",
-                    "pt": "Erros de integração de pedidos da Via"
-                  },
-                  "slug": {
-                    "en": "order-errors-in-the-via-integration",
-                    "es": "errores-de-integracion-de-pedidos-de-via",
-                    "pt": "erros-de-integracao-de-pedidos-da-via"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Order errors in the Carrefour integration",
-                    "es": "Errores de integración de pedidos de Carrefour",
-                    "pt": "Erros de integração de pedidos do Carrefour"
-                  },
-                  "slug": {
-                    "en": "order-errors-in-the-carrefour-integration",
-                    "es": "errores-de-integracion-de-pedidos-de-carrefour",
-                    "pt": "erros-de-integracao-de-pedidos-do-carrefour"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Order errors in the Magazine Luiza integration",
-                    "es": "Errores de integración de pedidos de Magazine Luiza",
-                    "pt": "Erros de integração de pedidos do Magazine Luiza"
-                  },
-                  "slug": {
-                    "en": "order-errors-in-the-magazine-luiza-integration",
-                    "es": "errores-de-integracion-de-pedidos-de-magazine-luiza",
-                    "pt": "erros-de-integracao-de-pedidos-do-magazine-luiza"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Order errors in the Mercado Livre integration",
-                    "es": "Errores de integración de pedidos de Mercado Libre",
-                    "pt": "Erros de integração de pedidos do Mercado Livre"
-                  },
-                  "slug": {
-                    "en": "order-errors-in-the-mercado-livre-integration",
-                    "es": "errores-de-integracion-de-pedidos-de-mercado-libre",
-                    "pt": "erros-de-integracao-de-pedidos-do-mercado-livre"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "SLA errors in marketplace integration orders",
-                    "es": "Errores de SLA en la integración de pedidos de marketplace",
-                    "pt": "Erros de SLA na integração de pedidos de marketplace"
-                  },
-                  "slug": {
-                    "en": "sla-errors-in-marketplace-integration-orders",
-                    "es": "errores-de-sla-en-la-integracion-de-pedidos-de-marketplace",
-                    "pt": "erros-de-sla-na-integracao-de-pedidos-de-marketplace"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Troubleshooting price divergence errors in marketplace orders",
-                    "es": "Resolución de errores de divergencia de precio en pedidos de marketplace",
-                    "pt": "Resolução de erros de divergência de preço em pedidos de marketplace"
-                  },
-                  "slug": {
-                    "en": "troubleshooting-price-divergence-errors-in-marketplace-orders",
-                    "es": "resolucion-de-errores-de-divergencia-de-precio-en-pedidos-de-marketplace",
-                    "pt": "resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -44822,6 +44807,21 @@
             },
             {
               "name": {
+                "en": "Checkout UI is not automatically using \"lean shipping\" for items with no common shipping methods",
+                "es": "La interfaz de pago no utiliza automáticamente el \"envío simplificado\" para artículos sin métodos de envío comunes.",
+                "pt": "A interface de finalização da compra não está usando automaticamente o \"envio simplificado\" para itens sem métodos de envio comuns."
+              },
+              "slug": {
+                "en": "checkout-ui-is-not-automatically-using-lean-shipping-for-items-with-no-common-shipping-methods",
+                "es": "la-interfaz-de-pago-no-utiliza-automaticamente-el-envio-simplificado-para-articulos-sin-metodos-de-envio-comunes",
+                "pt": "a-interface-de-finalizacao-da-compra-nao-esta-usando-automaticamente-o-envio-simplificado-para-itens-sem-metodos-de-envio-comuns"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Checkout UI changes the selected address when more than 1 address available",
                 "es": "La interfaz de usuario de la caja cambia la dirección seleccionada cuando hay más de 1 dirección disponible.",
                 "pt": "A interface de usuário do checkout altera o endereço selecionado quando há mais de um endereço disponível"
@@ -44920,21 +44920,6 @@
                 "en": "checkout-ui-shows-free-shipping-when-the-user-switches-the-delivery-options",
                 "es": "la-interfaz-de-pago-muestra-el-envio-gratuito-cuando-el-usuario-cambia-las-opciones-de-entrega",
                 "pt": "a-interface-do-checkout-exibe-o-frete-gratis-quando-o-usuario-altera-as-opcoes-de-entrega"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Checkout UI is not automatically using \"lean shipping\" for items with no common shipping methods",
-                "es": "La interfaz de pago no aplica automáticamente la opción «envío económico» a los artículos que no tienen métodos de envío comunes",
-                "pt": "A interface do checkout não está utilizando automaticamente a opção \"frete econômico\" para itens sem métodos de envio comuns"
-              },
-              "slug": {
-                "en": "checkout-ui-is-not-automatically-using-lean-shipping-for-items-with-no-common-shipping-methods",
-                "es": "la-interfaz-de-pago-no-aplica-automaticamente-la-opcion-envio-economico-a-los-articulos-que-no-tienen-metodos-de-envio-comunes",
-                "pt": "a-interface-do-checkout-nao-esta-utilizando-automaticamente-a-opcao-frete-economico-para-itens-sem-metodos-de-envio-comuns"
               },
               "origin": "",
               "type": "markdown",
@@ -66692,6 +66677,21 @@
                 "en": "max-shipping-discount-not-updating-pricetags",
                 "es": "el-descuento-maximo-por-envio-no-actualiza-las-etiquetas-de-precio",
                 "pt": "o-desconto-maximo-de-frete-nao-esta-atualizando-as-etiquetas-de-preco"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shipping discount discarded due to rounding in cumulative promotions",
+                "es": "El descuento de envío se descartó debido al redondeo en las promociones acumulativas.",
+                "pt": "O desconto no frete foi descartado devido ao arredondamento em promoções cumulativas."
+              },
+              "slug": {
+                "en": "shipping-discount-discarded-due-to-rounding-in-cumulative-promotions",
+                "es": "el-descuento-de-envio-se-descarto-debido-al-redondeo-en-las-promociones-acumulativas",
+                "pt": "o-desconto-no-frete-foi-descartado-devido-ao-arredondamento-em-promocoes-cumulativas"
               },
               "origin": "",
               "type": "markdown",
