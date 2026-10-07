@@ -4,7 +4,7 @@ excerpt: "Pronto para manuseio espera a nota fiscal. Inclua a invoice no Admin o
 id: frequentlyAskedQuestions_301
 status: PUBLISHED
 createdAt: 2017-04-27T22:38:27.319Z
-updatedAt: 2023-03-20T18:45:54.181Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-03-20T18:45:54.181Z
 firstPublishedAt: 2017-04-27T23:01:44.420Z
 contentType: frequentlyAskedQuestion
@@ -16,6 +16,8 @@ legacySlug: por-que-meu-pedido-esta-parado-em-preparando-entrega
 ---
 
 `Preparando Entrega` é um status do fluxo de pedidos em que se espera o cadastro da nota fiscal para a fatura. O pedido ficará nesse status até que seu [faturamento](/pt/docs/tracks/faturar-um-pedido) seja realizado, ou seja, até que a nota fiscal seja inserida no pedido.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar este pedido: envie o número do pedido e ele verifica se há nota fiscal inserida e se o valor faturado cobre o total do pedido, indicando o que falta para avançar.
 
 ## Faturamento no módulo Pedidos
 

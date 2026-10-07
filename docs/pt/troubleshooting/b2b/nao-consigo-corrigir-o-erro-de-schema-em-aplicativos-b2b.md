@@ -3,7 +3,7 @@ title: 'Não consigo corrigir o erro de schema em aplicativos B2B'
 id: WkjJZSnGXCiqmLhg4b0OR
 status: PUBLISHED
 createdAt: 2024-09-11T18:54:34.611Z
-updatedAt: 2025-08-14T22:02:49.294Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-08-14T22:02:49.294Z
 firstPublishedAt: 2024-09-11T19:42:01.055Z
 contentType: tutorial
@@ -23,6 +23,8 @@ symptomFilters:
 Em ambientes que utilizam aplicativos B2B, os usuários podem encontrar o alerta `schema is invalid` relacionado a problemas de schema. Esse tipo de alerta geralmente ocorre devido a uma configuração incorreta na entidade CL (cliente) dentro do Master Data.
 
 A situação mais comum envolve a adição de campos obrigatórios ao schema que define os dados para essa entidade no Master Data. Quando um aplicativo da B2B Suite tenta criar um usuário sem fornecer os campos obrigatórios, o alerta de schema inválido é exibido. Esse problema pode ocorrer ao acessar a página de **Organização** no Admin VTEX ou a página **Solicitar Organização** na vitrine da loja.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode identificar a causa do alerta schema is invalid: ele verifica os campos da entidade CL no Master Data e aponta quais campos obrigatórios podem estar impedindo os apps B2B de criar usuários.
 
 ## Solução
 

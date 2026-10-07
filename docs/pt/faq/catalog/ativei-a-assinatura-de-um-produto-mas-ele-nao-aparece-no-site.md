@@ -4,7 +4,7 @@ excerpt: "Depois de criar ou alterar uma assinatura, reindexe os SKUs relacionad
 id: 4HTtsuhjckHBgkBIyrH8tz
 status: PUBLISHED
 createdAt: 2019-01-28T19:20:20.661Z
-updatedAt: 2021-04-30T14:35:48.244Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2021-04-30T14:35:48.244Z
 firstPublishedAt: 2019-01-28T19:20:54.475Z
 contentType: frequentlyAskedQuestion
@@ -33,3 +33,5 @@ _Para fazer a inclusão manual de SKUs específicos, siga o passo a passo abaixo
 ![recurrence-specific-skus](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/catalog/ativei-a-assinatura-de-um-produto-mas-ele-nao-aparece-no-site_1.png)
 
 Por fim, dê um nome ao __Grupo__ da sua Coleção e clique em __Save Group__.
+
+> ℹ️ Se o produto continuar fora do site depois da reindexação, peça ao [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, para verificar: com o ID do produto, ele lista cada configuração do catálogo que o mantém fora da vitrine.

@@ -4,7 +4,7 @@ excerpt: "Frete grátis vale só para o tipo de entrega mais barato, a menos que
 id: 68Eifg69ocCSsIS0ukw6W4
 status: PUBLISHED
 createdAt: 2018-03-06T14:42:34.568Z
-updatedAt: 2019-12-31T14:24:55.841Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:55.841Z
 firstPublishedAt: 2018-03-06T19:19:16.993Z
 contentType: frequentlyAskedQuestion
@@ -32,3 +32,5 @@ Você também pode ativar a flag __Aplicar o desconto somente quando uma das tra
 ### Artigos relacionados
 - [Promoções, taxas e cupons - Visão geral](/pt/docs/tutorials/overview-2)
 - [Criar promoções](/pt/tutorial/como-criar-promocoes)
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar esta promoção: informe o nome dela e ele revisa as condições configuradas, incluindo os tipos de frete, para identificar por que o frete grátis não vale para todas as opções de entrega.

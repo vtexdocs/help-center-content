@@ -3,7 +3,7 @@ title: 'Meu pedido foi fechado com o preço errado'
 id: 5an0m7uLMwxWRlJlsyKxvl
 status: PUBLISHED
 createdAt: 2025-05-07T13:03:46.201Z
-updatedAt: 2025-08-14T22:08:07.983Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-08-14T22:08:07.983Z
 firstPublishedAt: 2025-05-07T13:25:11.579Z
 contentType: tutorial
@@ -32,6 +32,8 @@ Existem três possíveis causas para um pedido ser fechado com o preço errado:
 - [Preço do SKU alterado antes da integração do pedido](#preço-do-SKU-alterado-antes-da-integração-do-pedido)
 
 > ℹ️ Consulte outros erros de integração de pedidos de marketplace [nesse artigo](/pt/troubleshooting/por-que-os-pedidos-do-marketplace-nao-integram-com-minha-loja).
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar a identificar a causa da divergência: envie o ID do SKU e ele mostra o preço configurado em cada política comercial, para você comparar com o valor fechado no marketplace.
 
 ## Preço do produto assumido pelo marketplace
 

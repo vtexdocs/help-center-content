@@ -4,7 +4,7 @@ excerpt: "El módulo Pedidos suele fallar porque la sesión del Admin expiró. I
 id: 4X1NvGRhzWsqeC0QIGaMWu
 status: PUBLISHED
 createdAt: 2017-12-19T01:13:12.248Z
-updatedAt: 2023-03-31T14:59:05.634Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-03-31T14:59:05.634Z
 firstPublishedAt: 2017-12-19T01:28:44.397Z
 contentType: frequentlyAskedQuestion

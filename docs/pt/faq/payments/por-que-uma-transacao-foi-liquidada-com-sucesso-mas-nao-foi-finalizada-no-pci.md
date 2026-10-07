@@ -4,7 +4,7 @@ excerpt: "Aprovado significa que a cobrança foi autorizada e capturada. Finaliz
 id: 5kOSpUYvTyuUKOOws2A8Me
 status: PUBLISHED
 createdAt: 2017-05-22T17:47:40.705Z
-updatedAt: 2023-03-31T18:32:08.359Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-03-31T18:32:08.359Z
 firstPublishedAt: 2017-06-13T15:25:12.427Z
 contentType: frequentlyAskedQuestion
@@ -20,3 +20,5 @@ Para responder a esta questão, devemos entender a diferença entre os status `A
 Após essa aprovação, o valor da transação é liquidado. No entanto, a transação não muda automaticamente para o status de `Finalizada` após a liquidação. Para que isso ocorra, é necessário realizar a inclusão da Nota Fiscal do módulo **Pedidos**.
 
 Após a inclusão da Nota Fiscal, o módulo **Pedidos** se comunica com Pagamentos, que altera o status da transação para `Finalizada`.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar este pedido: envie o número do pedido e ele confere o status da transação em Pagamentos e se a nota fiscal já foi incluída, etapa necessária para a transação ficar Finalizada.

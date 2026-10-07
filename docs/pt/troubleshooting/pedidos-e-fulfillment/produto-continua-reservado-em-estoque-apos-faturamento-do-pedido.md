@@ -3,7 +3,7 @@ title: 'Produto continua reservado em estoque após faturamento do pedido'
 id: 5kQ3sJTo7hxIjysT7f9EvD
 status: PUBLISHED
 createdAt: 2024-10-29T16:42:28.787Z
-updatedAt: 2024-11-08T19:36:08.007Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2024-11-08T19:36:08.007Z
 firstPublishedAt: 2024-10-29T16:51:27.322Z
 contentType: tutorial
@@ -31,6 +31,8 @@ Após a venda de um produto, ele passa pelos seguintes status no inventário da 
 3. [Reserva reconhecida](/pt/docs/tutorials/como-a-reserva-funciona#reserva-reconhecida): o pedido entra no status **Preparando entrega**, indicando que o produto está prestes a ser enviado.
 
 Somente quando o pedido está no status **Preparando entrega** que os produtos são retirados do estoque. A [baixa no estoque](/pt/docs/tutorials/como-a-reserva-funciona#baixa-no-estoque), que corresponde à atualização da quantidade de itens disponíveis para venda, pode ser feita manualmente pelo lojista ou de forma automática por meio do ERP. Esse processo é realizado por meio do [gerenciamento de inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) ou pelo endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar o inventário: envie o ID do SKU e ele mostra quanto está reservado e disponível em cada armazém, identifica reservas presas e pode atualizar a contagem, sempre com sua confirmação.
 
 ## Soluções
 

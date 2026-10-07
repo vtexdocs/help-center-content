@@ -4,7 +4,7 @@ excerpt: "Use o mesmo cupom em duas promoções regulares: desconto nominal e fr
 id: 4xz45k6idaMF9nzTqOL9ik
 status: PUBLISHED
 createdAt: 2019-02-22T15:33:19.922Z
-updatedAt: 2022-04-07T21:03:35.235Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2022-04-07T21:03:35.235Z
 firstPublishedAt: 2019-02-22T15:36:33.971Z
 contentType: frequentlyAskedQuestion
@@ -43,3 +43,5 @@ Confira abaixo como realizar esse processo:
   ![Sincronizar promoções no mesmo cupom - 2 - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/promotions/como-vincular-duas-promocoes-ao-mesmo-cupom_2.png)
 
 Desse modo, o cliente pode abater os dois valores antes de finalizar a compra. 
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar nesta configuração: ele revisa as promoções e o cupom envolvidos, verificando condições, desconto e validade, e pode criar ou ajustar o cupom depois da sua confirmação.

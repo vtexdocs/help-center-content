@@ -4,7 +4,7 @@ excerpt: "Payments only lists transactions processed by your store. Marketplace 
 id: 3hREvO5dhS28coEOuW8SuQ
 status: PUBLISHED
 createdAt: 2017-05-09T14:06:28.458Z
-updatedAt: 2019-12-31T14:23:52.221Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:23:52.221Z
 firstPublishedAt: 2017-05-09T14:08:06.540Z
 contentType: frequentlyAskedQuestion

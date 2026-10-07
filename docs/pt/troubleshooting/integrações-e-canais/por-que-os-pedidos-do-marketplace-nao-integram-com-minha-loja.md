@@ -3,7 +3,7 @@ title: 'Por que os pedidos do marketplace não integram com minha loja?'
 id: 275YvF8dyry5KmfY9epoET
 status: PUBLISHED
 createdAt: 2024-06-21T14:24:48.621Z
-updatedAt: 2025-07-31T17:28:33.906Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-07-31T17:28:33.906Z
 firstPublishedAt: 2024-06-21T14:48:49.434Z
 contentType: tutorial
@@ -31,6 +31,8 @@ Quando erros de integração em pedidos ocorrem entre um marketplace e sua loja,
 - Transportadora não cadastrada no ERP.
 
 Verifique o status da integração dos pedidos e as mensagens acessando no Admin VTEX. **Marketplace > Conexões > Pedidos** ou digite **Pedidos** na barra de busca.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar os erros de integração do lado da sua loja: envie o ID do SKU e o CEP de entrega e ele identifica se há problema de preço, estoque ou frete que impeça o pedido.
 
 ## Solução
 

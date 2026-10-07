@@ -4,7 +4,7 @@ excerpt: "Compare os detalhes da simulação de frete com promoções e adiciona
 id: frequentlyAskedQuestions_163
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:27.397Z
-updatedAt: 2019-12-31T14:25:32.472Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:25:32.472Z
 firstPublishedAt: 2017-04-27T23:01:43.243Z
 contentType: frequentlyAskedQuestion
@@ -34,3 +34,5 @@ O valor de frete é calculado com base em vários fatores: tabela de frete, adic
 4. Verifique se, entre as promoções, existe alguma com desconto em frete. Para verificar, basta você acessar a promoção do pedido e verificar o tipo de desconto.
 
 ![valortotal pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shipping/por-que-meu-valor-de-frete-esta-errado_2.jpg)
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar o valor do frete: com o ID do SKU e o CEP, ele simula o frete, verifica quanto a política de envio cobra para esse CEP e revisa promoções que alteram o valor.

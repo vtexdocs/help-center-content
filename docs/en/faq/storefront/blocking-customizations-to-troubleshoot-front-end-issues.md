@@ -4,7 +4,7 @@ excerpt: "On Legacy CMS stores, block frontend customizations in Chrome DevTools
 id: 5c1a4bvVK8rAvKLczhkCnY
 status: PUBLISHED
 createdAt: 2020-04-20T12:59:14.576Z
-updatedAt: 2023-04-12T14:38:14.185Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-04-12T14:38:14.185Z
 firstPublishedAt: 2020-04-20T13:31:24.105Z
 contentType: frequentlyAskedQuestion

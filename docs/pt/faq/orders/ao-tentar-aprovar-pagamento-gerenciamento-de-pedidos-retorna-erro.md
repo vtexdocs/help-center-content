@@ -4,7 +4,7 @@ excerpt: "Authorize-fulfillment falha quando a reserva do SKU foi liberada e o e
 id: 1cbaJI69pSMWkugoUkmQ8O
 status: PUBLISHED
 createdAt: 2017-12-21T14:02:07.873Z
-updatedAt: 2023-03-31T12:47:47.903Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-03-31T12:47:47.903Z
 firstPublishedAt: 2017-12-21T14:35:13.955Z
 contentType: frequentlyAskedQuestion
@@ -26,3 +26,5 @@ Para confirmar se o problema é este, na página de [detalhes do pedido](/pt/doc
 Caso haja um erro como "A reserva solicitada *00-abc* não pôde ser garantida para o pedido *00-xyz*", é porque algum dos SKUs incluídos no carrinho não tem estoque disponível, o que inviabiliza que a compra seja aprovada. Neste caso, corrigir o estoque deve permitir que o pedido siga seu fluxo.
 
 Saiba mais no artigo [Verificar detalhes de erros nos pedidos](/pt/docs/tutorials/como-verificar-detalhes-de-erros-nos-pedidos).
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar este erro: envie o número do pedido e ele identifica em que etapa o fluxo parou e confere o estoque disponível dos SKUs do pedido em cada armazém.

@@ -4,7 +4,7 @@ excerpt: "El producto solo aparece si está activo, con precio, stock y logísti
 id: frequentlyAskedQuestions_382
 status: PUBLISHED
 createdAt: 2017-04-27T22:36:11.456Z
-updatedAt: 2025-09-04T18:05:50.517Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-09-04T18:05:35.252Z
 firstPublishedAt: 2017-04-27T23:01:46.278Z
 contentType: frequentlyAskedQuestion

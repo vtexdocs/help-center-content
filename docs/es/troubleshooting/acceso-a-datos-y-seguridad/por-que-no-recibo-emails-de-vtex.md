@@ -3,7 +3,7 @@ title: '¿Por qué no recibo emails de VTEX?'
 id: 4M2uVZdtrJzgyAySuZ4OLg
 status: PUBLISHED
 createdAt: 2024-05-28T17:21:01.400Z
-updatedAt: 2024-11-08T18:46:08.368Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2024-11-08T18:46:08.368Z
 firstPublishedAt: 2024-05-29T13:14:04.884Z
 contentType: tutorial

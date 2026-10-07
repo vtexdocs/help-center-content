@@ -3,7 +3,7 @@ title: "My product or category page shows 'Page Not Found'"
 id:
 status: PUBLISHED
 createdAt: 2026-04-30T00:00:00.000Z
-updatedAt: 2026-04-30T00:00:00.000Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt:
 firstPublishedAt:
 contentType: tutorial

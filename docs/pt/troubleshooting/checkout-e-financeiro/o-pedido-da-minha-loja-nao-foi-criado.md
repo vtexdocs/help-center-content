@@ -3,7 +3,7 @@ title: 'O pedido da minha loja não foi criado'
 id: 7xQZqkMHXkHCEEZl5UlX8I
 status: PUBLISHED
 createdAt: 2024-07-18T20:10:20.933Z
-updatedAt: 2024-11-08T18:57:41.671Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2024-11-08T18:57:41.671Z
 firstPublishedAt: 2024-07-18T20:56:20.706Z
 contentType: tutorial
@@ -28,6 +28,8 @@ Antes de considerar motivos complexos para erros com pedidos não criados, apliq
 
 * O item não tinha [estoque](/pt/docs/tutorials/gerenciar-itens-em-estoque) disponível e a loja não estava configurada para vender produtos sem estoque.
 * A integração XML não foi configurada para enviar informações sobre produtos sem estoque.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar por que o pedido não foi criado: envie o ID do SKU e o CEP do cliente e ele identifica se o bloqueio está no preço, no estoque ou no frete.
 
 ## Soluções
 

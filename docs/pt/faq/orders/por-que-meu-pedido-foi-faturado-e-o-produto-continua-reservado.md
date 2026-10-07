@@ -4,7 +4,7 @@ excerpt: "A reserva não some sozinha depois do faturamento. O estoque só é ba
 id: frequentlyAskedQuestions_160
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:43.965Z
-updatedAt: 2019-12-31T14:25:30.934Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:25:30.934Z
 firstPublishedAt: 2017-04-27T23:01:43.472Z
 contentType: frequentlyAskedQuestion
@@ -30,3 +30,5 @@ Antes disso, a reserva continuará ativa e o item decrescido será outro, [causa
 Ou seja, quando o pedido passar para o status `Preparando Entrega` é preciso que haja uma notificação no estoque para que esse item saia de reservado e seja retirado do estoque. 
 
 Para isso, basta atualizar o campo __Quantidade__ com o número de itens disponíveis em seu estoque, ignorando o item relacionado à compra.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode consultar o estoque do SKU em cada armazém, mostrando quanto está reservado e quanto está disponível, e atualizar a quantidade depois que você confirmar os números. Envie o ID do SKU.

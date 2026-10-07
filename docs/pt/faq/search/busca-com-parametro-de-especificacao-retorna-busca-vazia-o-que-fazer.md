@@ -4,7 +4,7 @@ excerpt: "Filtros por especificação no VTEX Search (Legacy) só funcionam se a
 id: 5qG7kkEeOsG6OQgu8YAKko
 status: PUBLISHED
 createdAt: 2018-01-31T15:46:42.842Z
-updatedAt: 2020-11-27T19:39:57.229Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2020-04-20T15:15:13.316Z
 firstPublishedAt: 2018-01-31T16:25:57.832Z
 contentType: frequentlyAskedQuestion
@@ -29,3 +29,5 @@ Para resolver o problema, siga os passos abaixo:
 6. Na especificação desejada, clique em __Alterar__.
 7. Marque a flag __Filtro__.
 8. Clique em __Salvar__.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar o campo de especificação: informe a categoria e o nome do campo, e ele confere como o campo está cadastrado no catálogo e explica como ativar a opção Filtro.

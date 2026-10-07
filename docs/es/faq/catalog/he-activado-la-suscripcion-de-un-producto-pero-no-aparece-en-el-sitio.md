@@ -4,7 +4,7 @@ excerpt: "Después de crear o cambiar una suscripción, reindexe los SKUs relaci
 id: 4HTtsuhjckHBgkBIyrH8tz
 status: PUBLISHED
 createdAt: 2019-01-28T19:20:20.661Z
-updatedAt: 2021-04-30T14:35:48.244Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2021-04-30T14:35:48.244Z
 firstPublishedAt: 2019-01-28T19:20:54.475Z
 contentType: frequentlyAskedQuestion

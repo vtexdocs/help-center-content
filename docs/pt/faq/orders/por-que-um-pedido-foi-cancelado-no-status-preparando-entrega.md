@@ -4,7 +4,7 @@ excerpt: "Pedidos podem ser cancelados até serem faturados. Confirme ou recuse 
 id: LDgtkquNEssyQMYUGcYeO
 status: PUBLISHED
 createdAt: 2017-05-16T23:08:29.742Z
-updatedAt: 2023-03-20T18:38:44.805Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-03-20T18:38:44.805Z
 firstPublishedAt: 2017-05-18T19:20:59.326Z
 contentType: frequentlyAskedQuestion
@@ -23,3 +23,5 @@ Quando o cancelamento acontece, o lojista é notificado por meio do [VTEX DO](/p
 2. Caso deseje prosseguir com a entrega, siga o procedimento normal de faturamento, informando ao cliente sobre a impossibilidade de cancelar o pedido.
 
    > ❗ Apenas no status `Carência para cancelamento` a solicitação de cancelamento do cliente é unilateral, não cabendo ao lojista qualquer confirmação. Nos outros status, o lojista será informado sobre a solicitação através do VTEX DO.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode consultar o pedido: envie o número dele e ele mostra o status atual e se há um cancelamento em andamento, para ajudar você a decidir entre confirmar o cancelamento ou seguir com o faturamento.

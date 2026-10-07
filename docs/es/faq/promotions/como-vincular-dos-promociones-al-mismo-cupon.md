@@ -4,7 +4,7 @@ excerpt: "Use el mismo cupón en dos promociones regulares: descuento nominal y 
 id: 4xz45k6idaMF9nzTqOL9ik
 status: PUBLISHED
 createdAt: 2019-02-22T15:33:19.922Z
-updatedAt: 2022-04-07T21:03:35.235Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2022-04-07T21:03:35.235Z
 firstPublishedAt: 2019-02-22T15:36:33.971Z
 contentType: frequentlyAskedQuestion

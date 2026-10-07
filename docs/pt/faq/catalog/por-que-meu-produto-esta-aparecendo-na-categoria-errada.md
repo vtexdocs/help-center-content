@@ -4,7 +4,7 @@ excerpt: "Compare o DepartmentId e o CategoryId da Catalog API com a árvore de 
 id: 189ijTfdJkcy2gg2MWkuEE
 status: PUBLISHED
 createdAt: 2018-01-23T13:35:06.489Z
-updatedAt: 2022-08-24T21:09:00.452Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2022-08-24T21:09:00.452Z
 firstPublishedAt: 2018-01-23T14:36:56.218Z
 contentType: frequentlyAskedQuestion
@@ -16,6 +16,8 @@ legacySlug: por-que-meu-produto-esta-aparecendo-na-categoria-errada
 ---
 
 Caso você ache que um produto está sendo exibido numa categoria errada, existem alguns procedimentos que podemos realizar para testar essa hipótese. Siga os passos abaixo para analisar este cenário.
+
+> ℹ️ Em vez de chamar a API, peça ao [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, para verificar o produto: envie o ID dele e ele mostra o departamento e a categoria em que está cadastrado, para você comparar com a sua árvore de categorias.
 
 ## Verificação via API
 

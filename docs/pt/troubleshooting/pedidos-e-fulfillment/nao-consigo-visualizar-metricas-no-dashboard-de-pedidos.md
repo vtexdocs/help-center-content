@@ -3,7 +3,7 @@ title: 'Não consigo visualizar métricas no dashboard de pedidos'
 id: 1B5OAicmK3AvnwPzs4iq7Z
 status: PUBLISHED
 createdAt: 2024-06-10T11:28:08.507Z
-updatedAt: 2024-11-08T18:41:59.361Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2024-11-08T18:41:59.361Z
 firstPublishedAt: 2024-06-10T17:15:44.616Z
 contentType: tutorial
@@ -27,6 +27,8 @@ Ao acessar o painel Admin, pode ser que sua loja não carregue métricas na **Vi
 - **Permissões de acesso insuficientes:** você pode não ter o perfil de acesso necessário para visualizar determinadas informações no dashboard.
 
 ![Visão geral - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/pedidos-e-fulfillment/nao-consigo-visualizar-metricas-no-dashboard-de-pedidos_1.png)
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar se o seu usuário tem o recurso Insights Metrics nos perfis de acesso (envie seu e-mail) e explicar como usar a comparação de períodos do dashboard.
 
 ## Solução
 Para resolver inconsistências no dashboard inicial do painel administrativo, você pode testar as ações descritas abaixo:

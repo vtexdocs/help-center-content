@@ -3,7 +3,7 @@ title: 'O pedido da minha loja está parado no status "Verificando nota fiscal"'
 id: 2YY7ILOOd0lEjpiT7SSgag
 status: PUBLISHED
 createdAt: 2024-08-16T18:32:15.867Z
-updatedAt: 2024-11-08T19:29:24.003Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2024-11-08T19:29:24.003Z
 firstPublishedAt: 2024-08-16T18:52:24.803Z
 contentType: tutorial
@@ -26,6 +26,8 @@ Quando o pedido permanece no status `Verificando nota fiscal`, isso em geral oco
 
 * Houve um problema com a [liquidação do pagamento](/pt/docs/tutorials/configurar-tempo-maximo-para-liquidacao-automatica).
 * A nota fiscal não foi corretamente incluída no pedido ou a [fatura](/pt/docs/tutorials/faturar-um-pedido-manualmente) foi feita apenas parcialmente. 
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar este pedido: envie o número dele e ele identifica se o bloqueio está na liquidação do pagamento ou na nota fiscal e indica o que fazer em seguida.
 
 ## Solução
 

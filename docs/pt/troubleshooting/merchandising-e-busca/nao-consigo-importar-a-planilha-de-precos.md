@@ -3,7 +3,7 @@ title: 'Não consigo importar a planilha de preços'
 id: bglrzs7gLKWf97q8qRdRm
 status: PUBLISHED
 createdAt: 2024-06-10T15:11:02.787Z
-updatedAt: 2024-11-08T18:50:45.313Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2024-11-08T18:50:45.313Z
 firstPublishedAt: 2024-06-10T17:28:51.238Z
 contentType: tutorial
@@ -31,6 +31,8 @@ Após [importar uma planilha de preços](/pt/docs/tracks/exportacao-e-importacao
 - `"Import Fixed Table Error: Invalid headers - SKU ID"`
 
 Caso você identifique mensagens de erro, valores incorretos de preço ou outras dificuldades para importar uma planilha, examine as possíveis soluções abaixo para resolver esses problemas.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar a investigar os erros da importação: envie o ID do SKU e ele mostra o preço-base, o preço de tabela e os preços fixos configurados, para você conferir o que foi importado.
 
 ## Solução
 

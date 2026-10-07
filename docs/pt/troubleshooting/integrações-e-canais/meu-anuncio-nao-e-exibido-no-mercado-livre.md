@@ -3,7 +3,7 @@ title: 'Meu anúncio não é exibido no Mercado Livre'
 id: 2UpudfowEvG97e2lstj4qc
 status: PUBLISHED
 createdAt: 2024-06-13T16:38:00.931Z
-updatedAt: 2024-11-08T15:28:30.286Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2024-11-08T15:28:30.286Z
 firstPublishedAt: 2024-06-13T18:01:04.982Z
 contentType: tutorial
@@ -25,6 +25,8 @@ symptomFilters:
 Quando um produto é removido ou desativado da política comercial utilizada na integração do Mercado Livre, a atualização dessa informação é enviada automaticamente para o marketplace, que, por sua vez, para de exibir o anúncio do produto.
 
 Outra possibilidade é quando um produto atinge o [estoque mínimo](/pt/docs/tutorials/controle-de-estoque-minimo-para-integracoes) estabelecido na configuração da integração com o marketplace. Se o estoque de um produto estiver abaixo do valor atribuído, o anúncio será pausado para evitar vendas de produtos sem estoque.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar o lado VTEX deste problema: envie o ID do produto e ele confere se o produto está na política comercial do Mercado Livre e o estoque disponível. O painel do Mercado Livre fica fora do alcance dele.
 
 ## Solução
 

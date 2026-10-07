@@ -4,7 +4,7 @@ excerpt: "Reservation does not clear automatically after invoicing. Stock is rel
 id: frequentlyAskedQuestions_160
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:43.965Z
-updatedAt: 2019-12-31T14:25:30.934Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:25:30.934Z
 firstPublishedAt: 2017-04-27T23:01:43.472Z
 contentType: frequentlyAskedQuestion

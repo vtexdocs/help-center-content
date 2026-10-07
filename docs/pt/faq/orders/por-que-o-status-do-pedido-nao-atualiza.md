@@ -4,7 +4,7 @@ excerpt: "O status pode travar à espera do pagamento no marketplace, do ERP ou 
 id: frequentlyAskedQuestions_712
 status: PUBLISHED
 createdAt: 2017-04-27T22:28:34.393Z
-updatedAt: 2019-12-31T14:24:04.173Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:04.173Z
 firstPublishedAt: 2017-04-27T23:02:34.080Z
 contentType: frequentlyAskedQuestion
@@ -16,6 +16,8 @@ legacySlug: por-que-o-status-do-pedido-nao-atualiza
 ---
 
 Esse cenário pode ocorrer com três status, dois na VTEX e um no marketplace. Segue descrição abaixo.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar o pedido: envie o número dele e ele identifica em que etapa o fluxo parou (pagamento, nota fiscal, manuseio ou ERP) e o que fazer em seguida.
 
 ## Aguardando autorização para despachar
 

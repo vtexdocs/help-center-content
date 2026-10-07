@@ -4,7 +4,7 @@ excerpt: "Um SKU de brinde ainda precisa de preço, estoque, imagem e status ati
 id: 3DPIETP2FGSCkCmscCqGMK
 status: PUBLISHED
 createdAt: 2017-11-06T12:27:28.709Z
-updatedAt: 2026-06-22T14:24:16.980Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:16.980Z
 firstPublishedAt: 2017-11-06T13:58:18.517Z
 contentType: frequentlyAskedQuestion
@@ -31,3 +31,5 @@ Ou seja, __mesmo que um brinde tenha preço cadastrado (condição necessária p
 Além disso, vale ressaltar que existem casos em que o brinde é __removido__ do carrinho sem motivo aparente. As razões são as mesmas para que esse SKU apareça como "indisponível": preço ou estoque não cadastrados, como também cadastro não ativado.
 
 Para contornar essa situação, basta conferir os três itens na plataforma, da mesma forma como se o brinde estivesse "indisponível".
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar o SKU do brinde: envie o ID do SKU e ele confere status, preço, estoque e imagens e indica o que está impedindo a exibição.

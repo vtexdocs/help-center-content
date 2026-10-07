@@ -4,7 +4,7 @@ excerpt: "Los filtros por especificación en VTEX Search (Legacy) solo funcionan
 id: 5qG7kkEeOsG6OQgu8YAKko
 status: PUBLISHED
 createdAt: 2018-01-31T15:46:42.842Z
-updatedAt: 2020-11-27T19:39:57.229Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2020-04-20T15:15:13.316Z
 firstPublishedAt: 2018-01-31T16:25:57.832Z
 contentType: frequentlyAskedQuestion

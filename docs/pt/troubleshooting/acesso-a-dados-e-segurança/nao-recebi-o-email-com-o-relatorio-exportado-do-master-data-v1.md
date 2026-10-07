@@ -3,7 +3,7 @@ title: 'Não recebi o email com o relatório exportado do Master Data v1'
 id: 1zUBgmgkgMZyHyy0veR7Oj
 status: PUBLISHED
 createdAt: 2022-10-17T19:56:25.618Z
-updatedAt: 2024-11-08T19:24:55.587Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2024-11-08T19:24:55.587Z
 firstPublishedAt: 2022-10-17T19:59:15.174Z
 contentType: tutorial
@@ -21,6 +21,8 @@ symptomFilters:
 ---
 
 Ao [exportar um relatório com dados do Master Data v1](/pt/docs/tutorials/exportando-dados), o relatório é enviado para o email informado durante a exportação. Porém, é possível que o email demore mais que o esperado para chegar na sua caixa de entrada.
+
+> ℹ️ Se o relatório também não aparecer em Exportações, o [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar se a VTEX registra alguma instabilidade recente e abrir um ticket para o Suporte VTEX já preenchido com os detalhes da exportação.
 
 ## Solução
 

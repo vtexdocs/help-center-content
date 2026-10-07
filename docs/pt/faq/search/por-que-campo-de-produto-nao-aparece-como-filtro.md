@@ -4,7 +4,7 @@ excerpt: "Só campos Combo, Radio e CheckBox viram filtro de menu, e eles aparec
 id: frequentlyAskedQuestions_376
 status: PUBLISHED
 createdAt: 2017-04-27T22:36:38.251Z
-updatedAt: 2019-12-31T14:24:57.361Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:57.361Z
 firstPublishedAt: 2017-04-27T23:01:46.278Z
 contentType: frequentlyAskedQuestion
@@ -28,3 +28,5 @@ Importante lembrar que esses recursos estarão disponíveis no Menu caso existam
 Para clientes que integram produtos de outras lojas em seu catálogo, é necessário indexar o produto após sua adição ao catálogo para que o indexador sobrescreva as especificações do seller.
 
 Para entender mais sobre a criação de campos de produto, leia o artigo [Campo de Produto](/pt/tutorial/criando-um-campo-de-produto) que explica como e onde é cadastrada essa configuração.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar o campo de produto: informe a categoria e o nome do campo, e ele confere o tipo cadastrado (Combo, Radio, CheckBox ou texto) e explica o que falta para ele aparecer como filtro.

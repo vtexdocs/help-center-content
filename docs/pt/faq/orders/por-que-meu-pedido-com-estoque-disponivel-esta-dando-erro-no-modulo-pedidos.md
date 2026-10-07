@@ -4,7 +4,7 @@ excerpt: "Aprovação tardia do pagamento pode expirar a reserva. Outra venda po
 id: 2FZHMJFo8oyWW46gYSqqOc
 status: PUBLISHED
 createdAt: 2018-03-07T14:26:47.000Z
-updatedAt: 2023-03-31T23:05:09.937Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-03-31T23:05:09.937Z
 firstPublishedAt: 2018-03-07T15:14:02.766Z
 contentType: frequentlyAskedQuestion
@@ -22,3 +22,5 @@ A fim de evitar a reserva desnecessária de SKUs, o status `Reservado` tem um pr
 Dessa forma, com um estoque reduzido e sem SKU para os dois pedidos, um deles ficará descoberto e ocasionará em erro no fluxo do módulo **Pedidos**. 
 
 A solução aqui é adicionar estoque a esse SKU ou cancelar o pedido, já que sua reserva caiu, seu SKU foi direcionado para outro pedido e o estoque estava sem cobertura.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar este pedido: envie o número do pedido e ele identifica em que etapa o fluxo parou. Com o ID do SKU, ele também mostra quanto do estoque está reservado e quanto está disponível.

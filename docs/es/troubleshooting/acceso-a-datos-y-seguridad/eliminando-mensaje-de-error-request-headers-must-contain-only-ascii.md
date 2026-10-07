@@ -4,7 +4,7 @@ title: 'Cómo remover el mensaje de error "Request headers must contain only ASC
 id: 19psKZvLXrBqqK1bPaTIHG
 status: PUBLISHED
 createdAt: 2024-07-25T16:54:41.663Z
-updatedAt: 2025-08-14T22:48:13.680Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-08-14T22:48:13.680Z
 firstPublishedAt: 2024-07-25T21:21:03.197Z
 contentType: tutorial

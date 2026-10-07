@@ -3,7 +3,7 @@ title: 'My store order was not created'
 id: 7xQZqkMHXkHCEEZl5UlX8I
 status: PUBLISHED
 createdAt: 2024-07-18T20:10:20.933Z
-updatedAt: 2024-11-08T18:57:41.671Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2024-11-08T18:57:41.671Z
 firstPublishedAt: 2024-07-18T20:56:20.706Z
 contentType: tutorial

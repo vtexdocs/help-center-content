@@ -4,7 +4,7 @@ excerpt: "A política comercial do marketplace precisa de doca, estoque e transp
 id: frequentlyAskedQuestions_693
 status: PUBLISHED
 createdAt: 2017-04-27T22:29:36.839Z
-updatedAt: 2023-03-22T21:11:13.467Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-03-22T21:11:13.467Z
 firstPublishedAt: 2017-04-27T23:02:32.909Z
 contentType: frequentlyAskedQuestion
@@ -29,3 +29,5 @@ Lembre-se! É possível acompanhar o status de indexação e o status de integr
 ___ ATENÇÃO: Se o canal de vendas estiver configurado com uma coleção, é necessário verificar se o item pertence à coleção. Caso contrário, nenhuma informação do item será atualizada no parceiro.___
 
 ___ ATENÇÃO: Caso a loja não utilize coleção no canal de venda e a configuração seja definida especificamente no produto, é necessário verificar se o produto está setado para venda no canal desejado. Caso contrário, nenhuma informação do item será atualizada no parceiro.___
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar este cenário: envie o ID do SKU e ele verifica o estoque por armazém, se a doca está associada à política comercial do marketplace e se o produto está nesse canal de venda.

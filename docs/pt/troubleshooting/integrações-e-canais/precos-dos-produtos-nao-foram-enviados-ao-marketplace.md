@@ -4,7 +4,7 @@ title: 'Por que os preços dos produtos da minha loja não foram enviados ao
 id: 7LMjXNoYJXsgPyKFkk6I25
 status: PUBLISHED
 createdAt: 2024-09-13T18:09:21.855Z
-updatedAt: 2024-11-08T18:33:24.038Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2024-11-08T18:33:24.038Z
 firstPublishedAt: 2024-09-13T18:21:24.321Z
 contentType: tutorial
@@ -24,6 +24,8 @@ symptomFilters:
 ---
 
 O preço de um produto é enviado para o marketplace após dois processos: a [configuração de preços na loja do seller](/pt/docs/tracks/modulo-de-precos-visao-geral) e a catalogação de produtos. Se um desses processos citados não for executado, o preço do produto do seller não será disponibilizado no marketplace.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar o preço do SKU na política comercial usada pela integração: envie o ID do SKU e ele mostra se há preço configurado e quanto ele custa em cada canal de venda.
 
 ## Solução
 

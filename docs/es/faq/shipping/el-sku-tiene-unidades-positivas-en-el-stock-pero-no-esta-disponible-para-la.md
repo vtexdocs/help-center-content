@@ -4,7 +4,7 @@ excerpt: "Los almacenes del mismo canal de venta comparten el inventario. Una ca
 id: 6HIEgJSYM8S05IyWHnIcOn
 status: PUBLISHED
 createdAt: 2022-02-15T15:41:43.419Z
-updatedAt: 2022-02-15T15:50:50.574Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2022-02-15T15:49:48.146Z
 firstPublishedAt: 2022-02-15T15:49:19.393Z
 contentType: frequentlyAskedQuestion

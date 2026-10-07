@@ -4,7 +4,7 @@ excerpt: "Autorizando significa que o Payments está aguardando a adquirente ou 
 id: 3hMw16ZijKm6QmSSY0KOGk
 status: PUBLISHED
 createdAt: 2019-01-24T20:30:45.163Z
-updatedAt: 2025-09-26T13:15:48.309Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-09-26T13:15:48.309Z
 firstPublishedAt: 2019-01-24T20:30:45.528Z
 contentType: frequentlyAskedQuestion
@@ -22,3 +22,5 @@ Pode ocorrer de alguns dos sistemas dos parceiros estarem enfrentando alguma ins
 Esta feature foi desenvolvida para atender aos casos em que sistemas participantes do fluxo estejam __momentaneamente fora do ar__. Desta forma, o Pagamentos preserva as informações do pagamento e aguarda para realizar uma nova tentativa. Esta feature permite que o pagamento __não seja perdido__ em caso de instabilidade de sistemas de terceiros.
 
 Uma vez normalizada a situação do sistema parceiro, o Pagamentos envia as informações sobre o pagamento e o fluxo de aprovação pode seguir normalmente.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar um pagamento parado em Authorizing: envie o número do pedido e ele consulta o status da transação e verifica se a VTEX está com algum incidente no momento.
