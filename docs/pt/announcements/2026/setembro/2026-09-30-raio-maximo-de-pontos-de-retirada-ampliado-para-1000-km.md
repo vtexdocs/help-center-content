@@ -16,9 +16,11 @@ O limite máximo do raio de busca de pontos de retirada foi ampliado de 50 km pa
 
 ## O que mudou?
 
-Antes, o raio máximo entre o ponto de retirada e o endereço do cliente era limitado a 50 km. Para usar um valor diferente, era necessário abrir um ticket para o Suporte VTEX.
+Antes, o raio máximo entre o ponto de retirada e o endereço do cliente era limitado a 50 km. Para usar um valor diferente, era necessário abrir um ticket para avaliação do time de Suporte VTEX.
 
 Agora, o raio pode ser configurado com valores de até 1.000 km diretamente na interface de configurações de envio da loja.
+
+>ℹ️ Recomendamos configurar o menor raio que cobre a área atendida pela sua operação e ampliá-lo apenas se houver necessidade. Raios maiores aumentam o tempo de busca de pontos de retirada, o que pode impactar o tempo de resposta do checkout.
 
 Nada muda na operação do dia a dia da loja. A mudança afeta apenas o valor máximo permitido nessa configuração.
 
@@ -27,10 +29,10 @@ Nada muda na operação do dia a dia da loja. A mudança afeta apenas o valor m�
 Não é necessário abrir um ticket. Para alterar o raio de pontos de retirada, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Configurações da loja > Envio > Configurações**, ou digite **Configurações** na barra de busca no topo da página. Também é possível acessar diretamente pela URL `https://{accountName}.myvtex.com/admin/logistics#/config`, substituindo `{accountName}` pelo nome da sua conta.
-2. Defina o valor desejado para o raio de pontos de retirada, até o limite de 1.000 km.
+2. Defina o valor desejado para o raio de pontos de retirada, até o limite de 1.000 km. Valores acima de 1.000 km não são aplicados, mesmo que a interface permita inseri-los.
 3. Salve as alterações.
 
->⚠️ Essa configuração é feita no nível da **conta**. Se você possui contas franqueadas, é necessário alterar a configuração em cada uma delas.
+>⚠️ Essa configuração é feita no nível da **conta**. Se você possui contas franquias, é necessário alterar a configuração em cada uma delas.
 
 ## Saiba mais
 
