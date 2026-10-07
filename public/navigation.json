@@ -32726,6 +32726,21 @@
                 },
                 {
                   "name": {
+                    "en": "AI Quick Order",
+                    "es": "Pedido rápido con IA",
+                    "pt": "Pedido rápido com IA"
+                  },
+                  "slug": {
+                    "en": "ai-quick-order",
+                    "es": "pedido-rapido-con-ia",
+                    "pt": "pedido-rapido-com-ia"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Buying policies overview",
                     "es": "Políticas de compras",
                     "pt": "Políticas de compras"
