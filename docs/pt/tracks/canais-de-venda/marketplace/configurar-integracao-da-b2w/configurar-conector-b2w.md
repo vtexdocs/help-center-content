@@ -48,7 +48,7 @@ Para realizar a configuração do conector, siga os passos abaixo:
 
   > ℹ️ Com a opção *Não* ativada, tentativas de envio para a B2W de SKUs cadastrados como kit resultarão no seguinte aviso: *O conector está configurado para não enviar SKUs do tipo Kit*. Esta mensagem pode ser visualizada no Admin, no módulo **MARKETPLACE > Integrações > Produtos**, ao se clicar sobre o SKU.
 
-- **E-mails Para Notificação de Pedidos Não Integrados*:** digite o endereço eletrônico desejado e, em seguida, clique em `+` sinal de adição. Você pode inserir vários emails para receberem a notificação de [pedidos da B2W que não foram integrados](/pt/docs/tutorials/erros-de-integracao-de-pedidos-da-b2w).
+- **E-mails Para Notificação de Pedidos Não Integrados*:** digite o endereço eletrônico desejado e, em seguida, clique em `+` sinal de adição. Você pode inserir vários emails para receberem a notificação de [pedidos da B2W que não foram integrados](/pt/troubleshooting/erros-de-integracao-de-pedidos-da-b2w).
 - **Etiqueta dos pedidos de B2W Entrega*:** selecione o formato que você deseja para a emissão de etiquetas, se em JSON (JavaScript Object Notation) ou em PDF (Portable Document Format).  
 - **Mapeamento de Campos Customizados (Nome e descrição):**  Para utilizar esse mapeamento é necessário criar um campo customizado. Para saber como criar campos customizados, acesse a documentação Cadastrar especificações ou campos de produto.  
 
