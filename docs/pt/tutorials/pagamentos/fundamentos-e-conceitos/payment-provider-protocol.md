@@ -1,18 +1,12 @@
 ---
 title: 'Payment Provider Protocol'
-id: RdsT2spdq80MMwwOeEq0m
-status: PUBLISHED
 createdAt: 2018-01-02T15:40:00.920Z
-updatedAt: 2025-02-19T20:31:05.883Z
-publishedAt: 2025-02-19T20:31:05.883Z
-firstPublishedAt: 2018-01-02T17:53:48.934Z
+updatedAt: 2026-10-07T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 4PrB9ACaQ8S0oO4wOmOuUu
 slugEN: payment-provider-protocol
-legacySlug: payment-provider-protocol
 locale: pt
-subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
+hidden: false
 ---
 
 O Payment Provider Protocol (PPP) é o protocolo de integração entre a VTEX e outras empresas que processam pagamentos.
