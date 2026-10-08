@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Credit Wallet: track the credit that offsets your Master Data charges",
+                    "es": "Cartera de Crédito: sigue el crédito que compensa tu cargo de Master Data",
+                    "pt": "Carteira de Crédito: acompanhe o crédito que abate sua cobrança de Master Data"
+                  },
+                  "slug": {
+                    "en": "2026-10-08-credit-wallet-track-the-credit-that-offsets-your-master-data-charges",
+                    "es": "2026-10-08-cartera-de-credito-sigue-el-credito-que-compensa-tu-cargo-de-master-data",
+                    "pt": "2026-10-08-carteira-de-credito-acompanhe-o-credito-que-abate-sua-cobranca-de-master-data"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Black Friday 2026: Get your store ready with our best practices guide",
                     "es": "Black Friday 2026: prepara tu tienda con nuestra guía de buenas prácticas",
                     "pt": "Black Friday 2026: prepare sua loja com nosso guia de boas práticas"
@@ -83,21 +98,6 @@
               "origin": "",
               "type": "category",
               "children": [
-                {
-                  "name": {
-                    "en": "Credit Wallet: track the credit that offsets your Master Data charges",
-                    "es": "Cartera de Crédito: sigue el crédito que compensa tu cargo de Master Data",
-                    "pt": "Carteira de Crédito: acompanhe o crédito que abate sua cobrança de Master Data"
-                  },
-                  "slug": {
-                    "en": "2026-09-29-credit-wallet-track-the-credit-that-offsets-your-master-data-charges",
-                    "es": "2026-09-29-cartera-de-credito-sigue-el-credito-que-compensa-tu-cargo-de-master-data",
-                    "pt": "2026-09-29-carteira-de-credito-acompanhe-o-credito-que-abate-sua-cobranca-de-master-data"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Budget Pacing now available in VTEX Ads",
@@ -23901,21 +23901,6 @@
             },
             {
               "name": {
-                "en": "Personal Shopper",
-                "es": "Personal Shopper",
-                "pt": "Personal Shopper"
-              },
-              "slug": {
-                "en": "personal-shopper-overview",
-                "es": "personal-shopper-vision-general",
-                "pt": "visao-geral-do-personal-shopper"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Affiliates Program app",
                 "es": "Aplicación Affiliates Program",
                 "pt": "Aplicativo Affiliates Program"
@@ -25102,14 +25087,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "Merchandising rule conditions",
-                    "es": "Condiciones de las reglas de merchandising",
-                    "pt": "Condições de Regras de merchandising"
+                    "en": "Merchandising rules",
+                    "es": "Reglas de merchandising",
+                    "pt": "Regras de merchandising"
                   },
                   "slug": {
-                    "en": "merchandising-rule-conditions",
-                    "es": "condiciones-de-las-reglas-de-merchandising",
-                    "pt": "condicoes-de-regras-de-merchandising"
+                    "en": "merchandising-rules",
+                    "es": "reglas-de-merchandising",
+                    "pt": "regras-de-merchandising"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25147,6 +25132,21 @@
                 },
                 {
                   "name": {
+                    "en": "Merchandising rule conditions",
+                    "es": "Condiciones de las reglas de merchandising",
+                    "pt": "Condições de Regras de merchandising"
+                  },
+                  "slug": {
+                    "en": "merchandising-rule-conditions",
+                    "es": "condiciones-de-las-reglas-de-merchandising",
+                    "pt": "condicoes-de-regras-de-merchandising"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Merchandising rules list",
                     "es": "Lista de Reglas de merchandising",
                     "pt": "Lista de Regras de merchandising"
@@ -25155,21 +25155,6 @@
                     "en": "merchandising-rules-list",
                     "es": "lista-de-reglas-de-merchandising",
                     "pt": "lista-de-regras-de-merchandising"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Merchandising rules",
-                    "es": "Reglas de merchandising",
-                    "pt": "Regras de merchandising"
-                  },
-                  "slug": {
-                    "en": "merchandising-rules",
-                    "es": "reglas-de-merchandising",
-                    "pt": "regras-de-merchandising"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -31329,21 +31314,6 @@
                     "en": "importing-amazon-classic-fba-orders",
                     "es": "importacion-de-pedidos-classic-de-amazon-fba",
                     "pt": "importacao-de-pedidos-amazon-fba-classic"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "AMARO Integration",
-                    "es": "Integración con AMARO",
-                    "pt": "Integração com a AMARO"
-                  },
-                  "slug": {
-                    "en": "amaro-integration",
-                    "es": "integracion-con-amaro",
-                    "pt": "integracao-com-a-amaro"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -63208,6 +63178,21 @@
                 "en": "order-stuck-in-payment-pending-despite-approved-transaction-oms-reads-stale-status-when-processing-paymentapproved",
                 "es": "el-pedido-se-queda-atascado-en-estado-de-pago-pendiente-a-pesar-de-que-la-transaccion-fue-aprobada-el-sistema-de-gestion-de-pedidos-muestra-un-estado-obsoleto-al-procesar-el-pago-aprobado",
                 "pt": "pedido-travado-em-pagamento-pendente-apesar-da-transacao-ter-sido-aprovada-oms-le-status-obsoleto-ao-processar-pagamento-aprovado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Orders cancelled when payment authorization gets no response from the Payment Gateway",
+                "es": "Los pedidos se cancelan cuando la autorización de pago no recibe respuesta de la pasarela de pago.",
+                "pt": "Pedidos cancelados quando a autorização de pagamento não recebe resposta do gateway de pagamento."
+              },
+              "slug": {
+                "en": "orders-cancelled-when-payment-authorization-gets-no-response-from-the-payment-gateway",
+                "es": "los-pedidos-se-cancelan-cuando-la-autorizacion-de-pago-no-recibe-respuesta-de-la-pasarela-de-pago",
+                "pt": "pedidos-cancelados-quando-a-autorizacao-de-pagamento-nao-recebe-resposta-do-gateway-de-pagamento"
               },
               "origin": "",
               "type": "markdown",
