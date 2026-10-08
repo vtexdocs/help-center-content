@@ -104,7 +104,7 @@ A tela **Detalhes da oportunidade** aparece quando o seller clica em um dos anú
 - À direita, o painel **Produto sugerido pelo Mercado Livre**, com o campo **Buscar outro produto para vincular**, caso a sugestão não corresponda ao SKU do seller.
 - No topo direito, os botões `Publicar sem vincular` e `Confirmar e publicar`.
 
-Os atributos do produto, como marca, linha, modelo, cor, voltagem, potência de refrigeração, entre outros são exibidos lado a lado, já preenchidos com os dados de ambos os produtos, para facilitar a conferência da compatibilidade.
+Os atributos do produto, como marca, linha, modelo, cor, voltagem, potência de refrigeração, entre outros, são exibidos lado a lado, já preenchidos com os dados de ambos os produtos, para facilitar a conferência da compatibilidade.
 
 ### Vinculação individual
 
