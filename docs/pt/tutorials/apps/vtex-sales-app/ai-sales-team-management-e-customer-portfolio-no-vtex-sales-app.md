@@ -1,5 +1,5 @@
 ---
-title: 'AI Sales Team Management e Customer Portfolio no VTEX Sales App'
+title: 'AI Sales Team Management e carteira de clientes no VTEX Sales App'
 createdAt: 2026-10-06T00:00:00.000Z
 updatedAt: 2026-10-06T00:00:00.000Z
 contentType: tutorial
@@ -38,7 +38,11 @@ Como o **AI Sales Team Management** vincula contratos a times, a conta precisa t
 
 ## Acessar o agente
 
-No Admin VTEX, acesse **Apps > Sales Management > Sales Team**. Nessa página, você pode escrever a solicitação em linguagem natural ou anexar um arquivo `.xlsx`, `.csv` ou `.txt` para operações em massa.
+No Admin VTEX, acesse **Apps > Sales Management > Sales Team**. A interface apresentada é composta por uma janela conversacional, como mostra a imagem a seguir:
+
+![ai-sales-team-management-interface-pt](XXX)
+
+Nessa página, você pode escrever a solicitação em linguagem natural ou anexar um arquivo `.xlsx`, `.csv` ou `.txt` para operações em massa.
 
 ## Regras do funcionamento
 
