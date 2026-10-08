@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Bid Monitor now available in Open Beta in VTEX Ads",
+                    "es": "Bid Monitor disponible en beta abierta en VTEX Ads",
+                    "pt": "Bid Monitor disponível em Open Beta no VTEX Ads"
+                  },
+                  "slug": {
+                    "en": "2026-10-16-bid-monitor-now-available-in-open-beta-in-vtex-ads",
+                    "es": "2026-10-16-bid-monitor-disponible-en-beta-abierta-en-vtex-ads",
+                    "pt": "2026-10-16-bid-monitor-disponivel-em-open-beta-no-vtex-ads"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Black Friday 2026: Get your store ready with our best practices guide",
                     "es": "Black Friday 2026: prepara tu tienda con nuestra guía de buenas prácticas",
                     "pt": "Black Friday 2026: prepare sua loja com nosso guia de boas práticas"
@@ -38801,6 +38816,21 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Bid Monitor (bid competitiveness)",
+                "es": "Bid Monitor (competitividad de pujas)",
+                "pt": "Bid Monitor (competitividade de lances)"
+              },
+              "slug": {
+                "en": "bid-monitor-bid-competitiveness",
+                "es": "bid-monitor-competitividad-de-pujas",
+                "pt": "bid-monitor-competitividade-de-lances"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
