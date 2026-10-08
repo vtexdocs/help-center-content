@@ -84,7 +84,7 @@ Ao clicar em um produto da lista, o seller acessa o painel lateral **Status do p
 
 ## Tipos de oportunidades
 
-Em todas as oportunidades listadas pelo Mercado Livre, o seller precisa vincular o produto a um anúncio. Caso não haja correspondência entre o anúncio do seller e uma oferta de catálogo, é possível publicar o anúncio sem vincular clicando no botão `Publicar sem vincular`. Quatro tipos de oportunidades podem ser disponibilizados para os anúncios de um seller, veja abaixo quais são e o seus significados:
+Em todas as oportunidades listadas pelo Mercado Livre, o seller precisa vincular o produto a um anúncio. Caso não haja correspondência entre o anúncio do seller e uma oferta de catálogo, é possível publicar o anúncio sem vincular clicando no botão `Publicar sem vincular`. Quatro tipos de oportunidades podem ser disponibilizados para os anúncios de um seller, veja abaixo quais são e os seus significados:
 
 - **Tem prazo:** as oportunidades desse tipo são obrigatórias e têm um prazo para serem vinculadas. O seller precisa vincular o produto a uma oferta do catálogo do Mercado Livre. Caso a vinculação não seja realizada no prazo determinado pelo marketplace, o anúncio poderá ficar sujeito a moderação. O prazo é exibido em um alerta no topo da tela de [detalhes da oportunidade](#detalhes-da-oportunidade).
 - **Obrigatório:** as oportunidades desse tipo são obrigatórias, mas não têm um prazo para serem vinculadas. Caso o anúncio não seja vinculado, o Mercado Livre poderá moderar o anúncio do seller no marketplace.
