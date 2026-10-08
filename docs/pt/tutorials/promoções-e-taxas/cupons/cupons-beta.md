@@ -1,5 +1,5 @@
 ---
-title: 'Cupons promocionais: tipos e grupos'
+title: 'Cupons'
 id: 1aAEN3ADpz19ss5JCIEBdL
 status: PUBLISHED
 createdAt: 2022-04-28T20:08:46.916Z
@@ -13,6 +13,10 @@ slugEN: coupons-beta
 legacySlug: cupons-beta
 locale: pt
 subcategoryId: 1TXh7VjDSIGA2eSI0CmUsi
+categoryCover: true
+seeAlso:
+  - /pt/docs/tutorials/lista-de-cupons-beta
+  - /pt/docs/tutorials/criar-cupom-beta
 ---
 
 Um cupom consiste em um código promocional, composto de uma sequência de letras e números. Você pode disponibilizar cupons para aplicar promoções sobre o valor do carrinho. Assim, ao informar o código de um cupom válido no momento da compra, os seus clientes podem obter descontos sobre o valor do pedido.
@@ -53,8 +57,3 @@ A plataforma gera códigos automaticamente a partir do prefixo, adicionando um h
 Você pode gerar até 1000 códigos associados a um grupo. Para gerar mais de um código atrelado a um cupom, é necessário ativar a opção **Gerar cupons em grupo** ao criá-lo e informar a quantidade de cupons desejada. Veja [Criar cupom](/pt/docs/tutorials/criar-cupom-beta) para mais informações sobre essa configuração.
 
 A quantidade de vezes que cada código do grupo poderá ser utilizado é configurável em **Restrições**, durante a criação do cupom.
-
-## Saiba mais
-
-* [Lista de Cupons](/pt/docs/tutorials/lista-de-cupons-beta)
-* [Criar cupom](/pt/docs/tutorials/criar-cupom-beta)

@@ -25,7 +25,7 @@ Both variables mentioned above can point to the same contact field.
 
 To access this information, go to your project and click on the "**Studio**" module in the left sidebar. Then, click on "**Contacts**" and "**Manage Fields**".
 
-You will be directed to the contact fields management page, where you will find: all existing fields within your project, their written form as a variable, the type of value accepted, and how many times they have been used. To create a new field, simply click on "Create Field."
+You will be directed to the contact fields management page, where you will find: all existing fields within your project, their written form as a variable, the type of value accepted, and how many times they have been used. To create a new field, click on "Create Field."
 
 After that, simply:
 
@@ -35,4 +35,4 @@ After that, simply:
 
 - Decide whether you want this field to appear in the contact page preview by selecting the **Highlight** checkbox.
 
-If you want to edit any information, simply click on the existing contact field, and the edit pop-up will open again.
+If you want to edit any information, click on the existing contact field, and the edit pop-up will open again.

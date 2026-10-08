@@ -31,7 +31,7 @@ Para configurar la clave, siga los pasos a continuación:
 **Email**: `vtexappkey-farmaciasapp-ISBSVR`
 **Nombre**: `farmaciasapp`
 
-_**Atención**: hay que llenar estos campos exactamente según lo descrito arriba._
+> Hay que llenar estos campos exactamente según lo descrito arriba.
 
 El **perfil de acceso** será: IntegrationProfile-Fulfillment_Oms, IntegrationProfile-Fulfillment_Gateway
 

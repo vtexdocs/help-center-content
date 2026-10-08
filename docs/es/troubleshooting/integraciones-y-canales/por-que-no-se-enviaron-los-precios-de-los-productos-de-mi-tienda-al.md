@@ -37,8 +37,8 @@ Los mensajes de error de integración están disponibles en el menú Precio del 
 
 Consulta en la tabla siguiente los posibles mensajes de error relativos a la configuración de precios y las medidas necesarias para corregirlos.
 
-|**Mensaje de error**|**Significado**|**Acción requerida**|
-|:--:|:--:|:--:|
+|Mensaje de error|Significado|Acción requerida|
+|--|--|--|
 |Sale price cannot be updated to 29,99. Can not offer more then 70% off.| El seller no puede ofrecer más del 70 % de descuento sobre el [precio base](/es/docs/tracks/preco-base-definicao-de-conceito) de un producto.| Cambia el precio del descuento a un valor que esté dentro del porcentaje exigido por el marketplace.|
 |Comprueba que este SKU tiene un precio registrado para esta política o que el precio no venció.| El precio del SKU no se ha registrado en la [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) utilizada en la integración con el marketplace o ha vencido.| Registra el precio del SKU en la política comercial utilizada para integrar la tienda con el marketplace.|
 

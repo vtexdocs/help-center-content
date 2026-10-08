@@ -44,7 +44,7 @@ Para registrar una **regla de precio**, debe enviar un __POST__ para el siguient
 
 - El objeto del request tiene las siguientes propiedades:
 
-| __Propiedades__ | __Tipos__ | __Descripción__ |
+| Propiedades | Tipos | Descripción |
 |------------------|-----------|-------------|
 | tradePolicyId | string | Id de la tabla de precio en la cual se aplicará la regla |
 | rules | array | Criterios de la regla de precio |
@@ -62,7 +62,7 @@ Para registrar una **regla de precio**, debe enviar un __POST__ para el siguient
 
 - El objeto de response tiene las siguientes propiedades: 
 
-| __Propiedades__ | __Tipos__ | __Descripción__ |
+| Propiedades | Tipos | Descripción |
 |------------------|-----------|-------------|
 | tradePolicyId | string | ID de la tabla de precio en la cual se aplicará la regla |
 | rules | array | Array con los objetos de las reglas de precio que se aplicarán en la tabla de precios |

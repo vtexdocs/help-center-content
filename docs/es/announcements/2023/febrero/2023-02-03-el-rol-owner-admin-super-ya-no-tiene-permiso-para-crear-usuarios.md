@@ -24,10 +24,10 @@ El objetivo de estas medidas es facilitar a los administradores de la tienda la 
 ## Qué cambió?
 
 A partir de hoy, el [rol](/es/docs/tutorials/roles) **Owner (Admin Super)** dejará de incluir el [recurso](/es/docs/tutorials/recursos-del-license-manager) **Save user**. Esto significa que los usuarios que solo tengan este rol perderán la capacidad de:
-- [Crear usuarios](/es/docs/tutorials/gestionar-usuarios-administrativos).
+- [Crear usuarios](/es/docs/tutorials/gestionar-usuarios-administradores).
 - Asignar [roles](/es/docs/tutorials/roles) a los usuarios.
 - Remover [roles](/es/docs/tutorials/roles) de los usuarios.
-- [Editar datos de usuarios](/es/docs/tutorials/gestionar-usuarios-administrativos#editando-usuarios).
+- [Editar datos de usuarios](/es/docs/tutorials/gestionar-usuarios-administradores#editar-usuarios).
 - Crear [claves de aplicación](/es/docs/tutorials/claves-de-api).
 - Cambiar [claves de aplicación](/es/docs/tutorials/claves-de-api).
 
@@ -81,7 +81,7 @@ Reforzamos la importancia de cambiar periódicamente todas las contraseñas de l
 Consulta la siguiente documentación para saber más sobre la gestión de usuarios y permisos en tu tienda:
 - [Roles](/es/docs/tutorials/roles)
 - [Recursos de License Manager](/es/docs/tutorials/recursos-del-license-manager)
-- [Gestionar usuarios](/es/docs/tutorials/gestionar-usuarios-administrativos)
+- [Gestionar usuarios](/es/docs/tutorials/gestionar-usuarios-administradores)
 - [Claves de aplicación](/es/docs/tutorials/claves-de-api)
 - [Buenas prácticas para el uso de claves de aplicación](/es/docs/tutorials/buenas-practicas-claves-de-api)
 

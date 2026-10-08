@@ -23,16 +23,16 @@ Automações são projetadas para agir de forma proativa com base em regras e co
 
 A definição de uma automação é feita em um arquivo `agent_definition.yaml`. Os principais campos são:
 
-- **agents.<id_do_agente>**: identifica o agente.
-- **name**: nome de exibição do agente, com limite de 55 caracteres.
-- **description**: descrição do propósito e capacidades do agente.
-- **rules**: dicionário de regras que disparam as ações do agente.
-- Dentro de **rules.<id_da_regra>**:
-  - **display_name**: nome legível da regra.
-  - **template**: template de mensagem HSM a ser usado.
-  - **start_condition**: descrição da condição que deve ser atendida para acionar a regra.
-  - **source**: define o código a ser executado quando a regra é disparada, com `entrypoint` apontando para a classe/método e `path` para o diretório onde está o código.
-- **pre_processing**: define uma etapa de pré‑processamento para preparar dados antes de avaliar as regras com `source` especificando o código e `result_examples_file` apontando para um JSON com exemplos de saída.
+- `agents.<id_do_agente>`: identifica o agente.
+- `name`: nome de exibição do agente, com limite de 55 caracteres.
+- `description`: descrição do propósito e capacidades do agente.
+- `rules`: dicionário de regras que disparam as ações do agente.
+- Dentro de `rules.<id_da_regra>`:
+  - `display_name`: nome legível da regra.
+  - `template`: template de mensagem HSM a ser usado.
+  - `start_condition`: descrição da condição que deve ser atendida para acionar a regra.
+  - `source`: define o código a ser executado quando a regra é disparada, com `entrypoint` apontando para a classe/método e `path` para o diretório onde está o código.
+- `pre_processing**: define uma etapa de pré‑processamento para preparar dados antes de avaliar as regras com `source` especificando o código e `result_examples_file` apontando para um JSON com exemplos de saída.
 
 O arquivo `result_example.json` deve ser um array de objetos. Cada objeto contém:
 

@@ -1,5 +1,5 @@
 ---
-title: 'O que é um SKU?'
+title: 'SKUs'
 id: 1K75s4RXAQyOuGUYKMM68u
 status: PUBLISHED
 createdAt: 2018-01-25T21:52:12.128Z
@@ -16,11 +16,15 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 order: 2
 ---
 
-Primeiro, vamos deixar claro o que a sigla SKU significa. Do inglês *Stock Keeping Unit*, ou em português, Unidade Mantida em Estoque, é a unidade física do produto. Isto significa que __o SKU é a variação do produto__. Nele estão contidas as características que fazem dele um tipo específico de produto.
+SKU (*Stock Keeping Unit*) é a unidade física do produto no estoque. No Catálogo da VTEX, o SKU corresponde à variação do produto e contém as características que o tornam um item específico, como cor e tamanho.
 
-Se a sua loja tem um produto Camisa, os SKUs dele podem ser __Camisa Azul, Camisa Vermelha e Camisa Branca__. Outra forma de classificar seus SKUs poderia ser: Camisa Azul G, Camisa Vermelha M e Camisa Branca P.
+Por exemplo, se o produto da sua loja é "Camisa", os SKUs podem ser "Camisa Azul", "Camisa Vermelha" e "Camisa Branca". Você também pode combinar características, como "Camisa Azul G", "Camisa Vermelha M" e "Camisa Branca P".
 
-Na hierarquia do Catálogo, o SKU está logo abaixo do produto. 
+Na hierarquia do Catálogo, o SKU está imediatamente abaixo do produto. Primeiro, você define as informações do produto e, em seguida, cria os SKUs associados a ele.
 
-Estruturalmente, primeiro você define as informações do Produto para, depois, criar seus SKUs.
+## Saiba mais
+
+* [Produtos](/pt/docs/tutorials/o-que-e-um-produto)
+* [Diferenças entre produto e SKU](/pt/docs/tutorials/qual-a-diferenca-entre-produto-e-sku)
+* [Adicionar ou editar SKU](/pt/docs/tutorials/adicionar-ou-editar-sku)
 

@@ -1,18 +1,12 @@
 ---
 title: 'Events available in Audit'
-id: 6r1Mzcu5NmkmmDLJlz9CCZ
-status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2026-03-02T18:20:54.585Z
-publishedAt: 2025-08-25T18:20:54.585Z
-firstPublishedAt: 2022-06-22T16:28:52.801Z
+updatedAt: 2026-09-17T00:00:00.000Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: events-available-in-audit
-legacySlug: events-available-in-audit
 locale: en
-subcategoryId: 2TNXiKzLZOPxjMTyGiEeJu
 ---
 
 Below, you will find a list of the potential events available in [Audit](/en/docs/tutorials/audit) for each app.
@@ -23,6 +17,7 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 * [Inventory & Shipping](#inventory-shipping)
 * [Catalog (Admin)](#catalog-admin)
 * [Catalog (API)](#catalog-api)
+* [Catalog (Control Plane)](#catalog-control-plane)
 * [Prices](#prices)
 * [Promotions](#promotions)
 * [Subscriptions](#subscriptions)
@@ -34,16 +29,20 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 * [License Manager](#license-manager)
 * [VTEX ID](#vtex-id)
 * [Master Data](#master-data)
-* [Headless CMS](#headless-cms)
+* [Headless CMS (Legacy)](#headless-cms)
+* [CMS](#cms)
 * [Seller Management](#seller-management)
 * [Site Editor](#site-editor)
 * [Ad Network](#ad-network)
 * [Card tokens](#card-tokens)
 * [Organizational units](#organizational-units)
+* [Delivery Options](#delivery-options)
+* [Search Optimizer Agent](#search-optimizer-agent)
+* [Authenticator](#authenticator)
 
 > ℹ️ In case you encounter an event in Audit which has not been included in this list, please inform us through the [documentation feedback page](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
-> ⚠️ In the Audit filter options, you can find **Shipping Options**, **Profile System**, and **Billing** options besides the applications listed in this guide. Since these options refer to internal resources or features in closed beta, most accounts will not have events associated with them.
+> ⚠️ In the Audit filter options, you can find **Profile System** and **Billing** options besides the applications listed in this guide. Since these options refer to internal resources or features in closed beta, most accounts will not have events associated with them.
 
 ## OMS
 
@@ -64,6 +63,8 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 | Order Cancellation | Cancellation of an order. | Order ID. |
 | Start Handling  | Action that signals to VTEX that the store has started handling a given order. This triggers the continuation of the flow of this order.  | Order ID.  |
 | Notify Payment | Payment notification for a given order. | Order ID. |
+| GetUnmaskedPersonalInformation | Reading of unmasked personal information in an order. | ID do pedido. |
+| UpdatePersonalInformation | Update of personal information in an order. | ID do pedido. |
 
 ## Order Authorization
 
@@ -124,6 +125,116 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 | GiftCard Create | Creation of a native gift card. | Gift card ID and action author ID. |
 | GiftCard List All Paged | Query for listing gift cards. | Action author ID and gift card IDs. |
 
+## Catalog (Control Plane)
+
+| Action | Event description | Event details |
+|---|---|---|
+| Product Activation | Product activation. | Product ID. |
+| Product Deactivation | Product deactivation. | Product ID. |
+| Admin Product Import | Product import via Admin. | Import file name. |
+| Admin Image Import | Image import via Admin. | Import file name. |
+| Admin SkuSpecification Import | SKU specification import via Admin. | Import file name. |
+| Admin ProductSpecification Import | Product specification import via Admin. | Import file name. |
+| Create Brand | Brand creation. | Brand ID. |
+| Update Brand | Brand update. | Brand ID. |
+| Create Category | Category creation. | Category ID. |
+| Update Category | Category update. | Category ID. |
+| Create Attachment | Attachment creation. | Attachment ID. |
+| Update Attachment | Attachment update. | Attachment ID. |
+| Delete Attachment | Attachment deletion. | Attachment ID. |
+| Create Field | Catalog field creation. | Field ID. |
+| Update Field | Catalog field update. | Field ID. |
+| Create Field Group | Field group creation. | Field group ID. |
+| Update Field Group | Field group update. | Field group ID. |
+| Create Field Value | Field value creation. | Field value ID. |
+| Update Field Value | Field value update. | Field value ID. |
+| Delete Non Structured Field | Non-structured field deletion. | Field ID. |
+| Create Product | Product creation. | Product ID. |
+| Update Product | Product update. | Product ID. |
+| Create Sales Policy | Sales policy creation. | Sales policy ID. |
+| Delete Sales Policy | Sales policy deletion. | Sales policy ID. |
+| Create Similar Category | Similar category creation. | Similar category ID. |
+| Delete Similar Category | Similar category deletion. | Similar category ID. |
+| Create Product Specification | Product specification creation. | Product specification ID. |
+| Upsert Product Specification | Product specification creation or update. | Product specification ID. |
+| Delete Product Specification | Product specification deletion. | Product specification ID. |
+| Delete All Product Specifications | Deletion of all product specifications. | Product ID. |
+| Create Sku Kit | SKU kit creation. | SKU kit ID. |
+| Delete Sku Kit | SKU kit deletion. | SKU kit ID. |
+| Create Sku Service | SKU service creation. | SKU service ID. |
+| Update Sku Service | SKU service update. | SKU service ID. |
+| Delete Sku Service | SKU service deletion. | SKU service ID. |
+| Create Sku Service Type | SKU service type creation. | SKU service type ID. |
+| Update Sku Service Type | SKU service type update. | SKU service type ID. |
+| Delete Sku Service Type | SKU service type deletion. | SKU service type ID. |
+| Create Sku Service Value | SKU service value creation. | SKU service value ID. |
+| Update Sku Service Value | SKU service value update. | SKU service value ID. |
+| Delete Sku Service Value | SKU service value deletion. | SKU service value ID. |
+| Create Sku Service Type Attachment | SKU service type attachment creation. | SKU service type attachment ID. |
+| Delete Sku Service Type Attachment | SKU service type attachment deletion. | SKU service type attachment ID. |
+| Create Sku Attachment | SKU attachment creation. | SKU attachment ID. |
+| Delete Sku Attachment | SKU attachment deletion. | SKU attachment ID. |
+| Create Sku Complement | SKU complement creation. | SKU complement ID. |
+| Delete Sku Complement | SKU complement deletion. | SKU complement ID. |
+| Create Supplier | Supplier creation. | Supplier ID. |
+| Update Supplier | Supplier update. | Supplier ID. |
+| Delete Supplier | Supplier deletion. | Supplier ID. |
+| Update Report Status | Report status update. | Report ID. |
+| Create Sku | SKU creation. | SKU ID. |
+| Update Sku | SKU update. | SKU ID. |
+| Create Sub Collection | Sub collection creation. | Sub collection ID. |
+| Update Sub Collection | Sub collection update. | Sub collection ID. |
+| Delete Sub Collection | Sub collection deletion. | Sub collection ID. |
+| Create Brand Sub Collection | Brand sub collection creation. | Brand sub collection ID. |
+| Delete Brand Sub Collection | Brand sub collection deletion. | Brand sub collection ID. |
+| Create Category Sub Collection | Category sub collection creation. | Category sub collection ID. |
+| Delete Category Sub Collection | Category sub collection deletion. | Category sub collection ID. |
+| Create Field Value Sub Collection | Field value sub collection creation. | Field value sub collection ID. |
+| Delete Field Value Sub Collection | Field value sub collection deletion. | Field value sub collection ID. |
+| Create Sku Sub Collection | SKU sub collection creation. | SKU sub collection ID. |
+| Delete Sku Sub Collection | SKU sub collection deletion. | SKU sub collection ID. |
+| Create Collection | Collection creation. | Collection ID. |
+| Update Collection | Collection update. | Collection ID. |
+| Delete Collection | Collection deletion. | Collection ID. |
+| Bulk Sku Collection | Bulk SKU collection update. | Collection ID and SKU IDs. |
+| Import Insert Sku In Collection | Import to insert SKUs in a collection. | Collection ID and import file name. |
+| Import Delete Sku In Collection | Import to delete SKUs from a collection. | Collection ID and import file name. |
+| Create Sku Ean | SKU EAN creation. | SKU ID and EAN. |
+| Delete Sku Ean | SKU EAN deletion. | SKU ID and EAN. |
+| Create Sku Specification | SKU specification creation. | SKU specification ID. |
+| Upsert Sku Specification Value | SKU specification value creation or update. | SKU specification value ID. |
+| Update Sku Specification | SKU specification update. | SKU specification ID. |
+| Delete Sku Specification | SKU specification deletion. | SKU specification ID. |
+| Delete All Sku Specifications | Deletion of all SKU specifications. | SKU ID. |
+| Create Sku Attribute | SKU attribute creation. | SKU attribute ID. |
+| Update Sku Attribute | SKU attribute update. | SKU attribute ID. |
+| Delete Sku Attribute | SKU attribute deletion. | SKU attribute ID. |
+| Delete All Sku Attributes | Deletion of all SKU attributes. | SKU ID. |
+| Create Sku File | SKU file creation. | SKU file ID. |
+| Update Sku File | SKU file update. | SKU file ID. |
+| Delete Sku File | SKU file deletion. | SKU file ID. |
+| Delete All Sku Files | Deletion of all SKU files. | SKU ID. |
+| Associate Sku File | SKU file association. | SKU ID and SKU file ID. |
+| Disassociate Sku File | SKU file disassociation. | SKU ID and SKU file ID. |
+| Reorder Sku Files | SKU file reordering. | SKU ID. |
+| Copy Sku Files | SKU file copy. | Source and destination SKU IDs. |
+| Create Product Form | Product form creation. | Product form ID. |
+| Update Product Form | Product form update. | Product form ID. |
+| Move Skus To Product | SKU move to another product. | SKU IDs and destination product ID. |
+| Enqueue Translation | Translation enqueue. | Translation ID. |
+| Enqueue Product Translation | Product translation enqueue. | Product ID. |
+| Create Assortment | Assortment creation. | Assortment ID. |
+| Update Assortment | Assortment update. | Assortment ID. |
+| Delete Assortment | Assortment deletion. | Assortment ID. |
+| Add Included Collection Assortment | Included collection added to assortment. | Assortment ID and collection ID. |
+| Remove Included Collection Assortment | Included collection removed from assortment. | Assortment ID and collection ID. |
+| Add Excluded Collection Assortment | Excluded collection added to assortment. | Assortment ID and collection ID. |
+| Remove Excluded Collection Assortment | Excluded collection removed from assortment. | Assortment ID and collection ID. |
+| Brand Activation | Brand activation. | Brand ID. |
+| Brand Deactivation | Brand deactivation. | Brand ID. |
+| Category Activation | Category activation. | Category ID. |
+| Category Deactivation | Category deactivation. | Category ID. |
+
 ## Prices
 
 | Action | Description | Event details |
@@ -176,13 +287,21 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 ## Gift Card
 
 | Action | Event description	 | Event details |
-|:---:|:---:|:---:|
+|---|---|---|
 | LIST_GIFT_CARD | Visualization of the gift card list. | list-gift-card |
 | EXPORT_GIFT_CARD | Export of gift cards. | export-gift-card |
 | EDIT_GIFT_CARD | Change in gift card value. | add-gift-card-value |
 | CREATE_GIFT_CARD | Creation of gift cards. | create-multiple-gift-cards |
 | LIST_CARDS_FROM_API | Search for native gift cards. | list-gift-card-api |
-
+| LIST_GIFT_CARD_TRANSACTIONS | Viewed gift card transactions. | Gift card ID. |
+| VIEW_GIFT_CARD_CONDITIONS | Viewed gift card conditions. | Gift card ID. |
+| CREATE_GIFT_CARD_CONDITIONS | Created gift card conditions. | Gift card ID. |
+| EDIT_GIFT_CARD_CONDITIONS | Edited gift card conditions. | Gift card ID. |
+| EDIT_GIFT_CARD_CONFIGURATION | Edited gift card setting. | Gift card ID. |
+| CREATE_GIFT_CARD_CANCELLATION | Gift card cancellation record. | Gift card ID. |
+| CREATE_GIFT_CARD_SETTLEMENT | Gift card settlement record. | Gift card ID. |
+| INSERT_GIFT_CARD_CREDITS | Added credit to gift card. | Gift card ID. |
+| GET_UNMASKED_PII | Viewed unmasked personally identifiable information (PII). | Gift card ID. |
 ## Checkout
 
 | Action | Event description | Event details |
@@ -221,6 +340,11 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 | Resource Access Denied | Resource access denied. | Resource key and user ID to which access was denied. |
 | Create New AppToken | Creation of application key. | Application key created. |
 | Create Sponsor Invite | Creation of a sponsor user invitation. | ID of invited user. |
+| Create Storefront Custom Resource | Creation of a storefront custom resource. | Storefront custom resource created. |
+| Delete Storefront Custom Resource | Deletion of a storefront custom resource. | Storefront custom resource deleted. |
+| Create Storefront Custom Role | Creation of a storefront custom role. | Storefront custom role created. |
+| Delete Storefront Custom Role | Deletion of a storefront custom role. | Storefront custom role deleted. |
+| Update Storefront Custom Role | Update of a storefront custom role. | Storefront custom role updated. |
 
 ## VTEX ID
 
@@ -228,8 +352,8 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 |---|---|---|
 | PasswordCreated | Creation of a first-time password in the store or the VTEX Admin | User ID. |
 | PasswordUpdated | Change of store or VTEX Admin password by the user. | User ID. |
-| UserLogin | User login to the VTEX Admin. | User ID. |
-| UserLogout | User logout from the VTEX Admin. | User ID. |
+| UserLogin | User login to the VTEX Admin. | User ID, user login, IP address, audience, whether the user is an admin, identity provider, whether MFA was used, host, X-Forwarded-For header, user agent, and referer. |
+| UserLogout | User logout from the VTEX Admin. | User ID, user login, audience, whether the user is an admin, host, X-Forwarded-For header, user agent, and referer. |
 | IdentityProviderChanged | Identity provider configuration change. For example: Creating a customized OAuth integration and changing information in an existing OAuth configuration. | Identity provider. |
 
 ## Master Data
@@ -245,7 +369,7 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 | UpdateSchema | Created or updated schema on Master Data v2. | Schema name. |
 | DeleteSchema | Deleted schema on Master Data v2. | Schema name. |
 
-## Headless CMS
+## Headless CMS (Legacy)
 
 | Action | Event description | Event details |
 |---|---|---|
@@ -260,11 +384,34 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 | Create new media | Create media file. | Event ID. |
 | Delete media | Delete media file. | Event ID. |
 
-In the **Action** column, all Headless CMS events also display the following information:
+In the **Action** column, all Headless CMS (Legacy) events also display the following information:
 
 * **CONTENT_ID:** unique identifier of the content.
 * **VARIANT_ID:** unique identifier of the content version.
 * **WORKSPACE**: workspace where the action occurred.
+
+## CMS
+
+| Action | Event description | Event details |
+|---|---|---|
+| entry.delete | Deletion of a Content Platform entry. | Entry ID. |
+| branch.create | Creation of a Content Platform branch. | Branch ID. |
+| branch.update | Update of a Content Platform branch. | Branch ID. |
+| branch.delete | Deletion of a Content Platform branch. | Branch ID. |
+| branch.merge | Merge of a Content Platform branch. | Branch ID. |
+| branch.merge_scheduled | Scheduling of a Content Platform branch merge. | Branch ID. |
+| branch.merge_unscheduled | Cancellation of a scheduled Content Platform branch merge. | Branch ID. |
+| store.create | Creation of a Content Platform store. | Store ID. |
+| store.update | Update of a Content Platform store. | Store ID. |
+| store.default_locale_change | Change of the default locale of a Content Platform store. | Store ID and locale. |
+| store.locale.create | Creation of a locale in a Content Platform store. | Store ID and locale. |
+| store.locale.update | Update of a locale in a Content Platform store. | Store ID and locale. |
+| store.locale.activate | Activation of a locale in a Content Platform store. | Store ID and locale. |
+| store.locale.deactivate | Deactivation of a locale in a Content Platform store. | Store ID and locale. |
+| media.upload | Upload of a media file in Content Platform. | Media ID. |
+| media.create | Creation of a media asset in Content Platform. | Media ID. |
+| media.delete | Deletion of a media asset in Content Platform. | Media ID. |
+| schema.publish | Publication of a schema in the Content Platform Schema Registry. | Schema ID. |
 
 ## Seller Management
 
@@ -276,7 +423,7 @@ In the **Action** column, all Headless CMS events also display the following inf
 ## Site Editor
 
 | Action | Event description | Event details |
-|:---:|:---:|:---:|
+|---|---|---|
 | Schedule change | Schedules content editing. | Changed entity ID. |
 | Edit content block | Edits the content block. | Changed entity ID. |
 | Create content block | Creation of a content block. | Changed entity ID. |
@@ -320,4 +467,39 @@ In the **Action** column, all Headless CMS events also display the following inf
 | SaveOrganizationUnit | Creation of an organizational unit. | Organizational unit ID. |
 | UpdateOrganizationUnit | Update of the name of an organizational unit. | Organizational unit ID. |
 | MoveOrganizationUnit | Creation of a hierarchy between organizational units. | Parent organizational unit ID and child organizational unit ID. |
+
+## Delivery Options
+
+> ℹ️ [Delivery Options](/en/docs/tutorials/delivery-options-beta) is in open beta and appears as **Shipping Options** in the Audit filter options. These events are only recorded in accounts that use Delivery Options. In other accounts, searching for this application returns no results.
+
+| Action | Event description | Event details |
+|---|---|---|
+| DELIVERY_OPTION_CREATE | Manual creation of a delivery option by the merchant. There is no previous state for the delivery option. | Delivery option ID. |
+| DELIVERY_OPTION_UPDATE | Update of an existing delivery option, either by editing its fields or by activating or deactivating it. Activation and deactivation are only recorded when the status actually changes. | Delivery option ID. |
+| DELIVERY_OPTION_DELETE | Deletion of a delivery option. The event records the state of the delivery option immediately before deletion. | Delivery option ID. |
+| DELIVERY_OPTION_UPDATE_ACCOUNT_CONFIG | Update of Delivery Options account settings, such as the product listing page filter and storefront display preferences. The audited entity is the account setting, not an individual delivery option. | Account name. |
+| DELIVERY_OPTION_CHANGED_FILTER | Change in the delivery options used as storefront filters. | Delivery option ID. |
+| DELIVERY_OPTION_AUTOGENERATE_CREATE | Creation of a delivery option by the autogeneration flow, based on a suggestion. Autogenerated delivery options are always created as inactive, pending merchant review. | Delivery option ID. |
+| DELIVERY_OPTION_AUTOGENERATE_UPDATE | Merchant update of an autogenerated delivery option in a field other than its status, which makes it stop being treated as automatically generated. Changing only the status does not generate this event. | Delivery option ID. |
+
+## Search Optimizer Agent
+
+| Action | Event description | Event details |
+|---|---|---|
+| CreateSynonymRule | Creation of a one-way synonym rule. | Rule ID, terms (left and right), locales, and whether the rule is active. |
+| CreateBidirectionalSynonymRule | Creation of a two-way synonym rule. | Rule ID, terms (left and right), locales, and whether the rule is active. |
+| DeleteSynonymRule | Deletion of a synonym rule. | Rule ID. |
+| ActivateSynonymRule | Activation of a synonym rule. | Rule ID. |
+| DeactivateSynonymRule | Deactivation of a synonym rule. | Rule ID. |
+| CreateRedirect | Creation of a search redirect rule. | Redirect ID, source terms, destination path, conjunction, match mode, locales, and whether the redirect is active. |
+
+## Authenticator
+
+| Action | Event description | Event details |
+|---|---|---|
+| DelegationCreated | Creation of a delegation granting a user permission to act on behalf of another user in the same organization unit, for a set date range. | Delegation ID, organizational unit ID, original user ID, delegate user ID, and date range. |
+| DelegationUpdated | Update of a delegation's date range. | Delegation ID and date range. |
+| DelegationRevoked | Revocation of a delegation before its end date. | Delegation ID. |
+| ImpersonationSuccess | Successful impersonation of a user through an on-behalf-of (OBO) token exchange. | Original user ID, delegate user ID, impersonation type, delegation ID, and organizational unit ID. |
+| ImpersonationFailed | Failed attempt to impersonate a user through an on-behalf-of (OBO) token exchange. | Original user ID, delegate user ID, impersonation type, delegation ID, organizational unit ID, and failure reason. |
 

@@ -18,7 +18,7 @@ order: 5
 El glosario a continuación reúne los principales términos y conceptos relacionados con retail media:
 
 | Término | Significado |
-| :---- | :---- |
+| ---- | ---- |
 | **Anunciante endémico** | Marca que promociona productos directamente relacionados con el portafolio del retailer. Por ejemplo, una marca que anuncia productos electrónicos en una tienda de ecommerce que ya los comercializa. |
 | **Anunciante no endémico** | Marca que anuncia en una tienda aunque dicha tienda no venda directamente sus productos en ese canal. Por ejemplo: una marca de autos que hace campañas en un marketplace que no comercializa autos. |
 | **ACOS (Advertising Cost of Sales)** | Costo publicitario con relación a los ingresos generados. Fórmula: `ACOS = (Gastos en anuncios / Ingresos generados) × 100`. Cuanto menor sea el ACOS, más eficiente es la campaña. |
@@ -50,4 +50,4 @@ El glosario a continuación reúne los principales términos y conceptos relacio
 | **Cuota de búsqueda (Share of Search)** | Participación de una marca en las búsquedas realizadas en un sitio web. Fórmula: `(Búsquedas de una marca / Total de búsquedas en la categoría) × 100`. |
 | **Participación de mercado (Market share)** | Porcentaje que representa una empresa o producto dentro del total de ventas de un sector o categoría durante un periodo específico. |
 | **Cookies de terceros** | Cookies creadas por dominios distintos del sitio web accedido, utilizadas para seguimiento y anuncios personalizados. |
-
+| **Atribución por visualización (View attribution)** | Modelo de atribución que vincula una conversión a un anuncio cuando el usuario visualizó el anuncio antes de la compra, incluso sin hacer clic. Complementa la atribución por clic, que requiere un clic en el anuncio. |

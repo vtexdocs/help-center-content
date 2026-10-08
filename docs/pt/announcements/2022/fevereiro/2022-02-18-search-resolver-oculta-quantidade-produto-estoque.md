@@ -15,13 +15,13 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Para melhorar a privacidade de dados, o search-resolver não exibe mais a quantidade de produtos no estoque'
 ---
 
-Atualizamos a API do [`search-resolver@0.x`](https://github.com/vtex-apps/search-resolver), aplicativo necessário para o funcionamento da busca da loja, para ocultar dados sensíveis relacionados ao estoque dos produtos da loja. A partir do dia 20/03/22, a quantidade de produtos disponíveis no estoque não será mais exibida pelo [VTEX Search GraphQL](https://github.com/vtex-apps/search-graphql).
+Atualizamos a API do [`search-resolver@0.x`](https://github.com/vtex-apps/search-resolver), aplicativo necessário para o funcionamento da busca da loja, para ocultar dados sensíveis relacionados ao estoque dos produtos da loja. A partir do dia 20/03/22, a quantidade de produtos disponíveis no estoque não será mais exibida pelo [Search GraphQL](https://github.com/vtex-apps/search-graphql).
 
 Lojas que utilizam o [VTEX Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) não serão afetadas.
 
 ## O que mudou?
 
-Removemos a possibilidade de exibir a exata quantidade de produtos que estão no estoque de uma loja pelo `search-resolver@0.x` para clientes que utilizam a busca nativa da VTEX. Agora esse campo será omitido da resposta recebida pelo VTEX Search GraphQL. 
+Removemos a possibilidade de exibir a exata quantidade de produtos que estão no estoque de uma loja pelo `search-resolver@0.x` para clientes que utilizam a busca nativa da VTEX. Agora esse campo será omitido da resposta recebida pelo Search GraphQL. 
 
 Para mais detalhes, veja nosso [release note](https://developers.vtex.com/vtex-developer-docs/changelog/update-on-search-resolver0x-api-response) sobre a atualização.
 
@@ -35,4 +35,4 @@ Essa atualização é automática, não é preciso realizar nenhuma ação.
 
 Caso você utilize esse dado na sua loja – para indicar as últimas unidades disponíveis de um produto, por exemplo – você precisa entrar em contato com o [nosso Suporte](https://support.vtex.com/hc/pt-br/requests) para continuar a exibir essa informação.
 
-> ⚠️ É importante ressaltar que, caso a loja decida exibir a quantidade de produtos em estoque, essa informação será pública e poderá ser acessada pelo [VTEX Search GraphQL](https://github.com/vtex-apps/search-graphql).
+> ⚠️ É importante ressaltar que, caso a loja decida exibir a quantidade de produtos em estoque, essa informação será pública e poderá ser acessada pelo [Search GraphQL](https://github.com/vtex-apps/search-graphql).

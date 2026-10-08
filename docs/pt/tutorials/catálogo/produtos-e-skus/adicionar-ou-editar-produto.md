@@ -100,8 +100,8 @@ Dependendo da categoria do produto criado, abaixo da etapa Padrão, podem surgir
 
 A tabela abaixo apresenta exemplos de especificações de produto para produtos de diferentes categorias:
 
-| **Categoria** | **Produto** | **Especificação** | **Valor** |
-| :---: | :---: | :---: | :---: |
+| Categoria | Produto | Especificação | Valor |
+| --- | --- | --- | --- |
 | Roupas | Camisa | Tecido | Algodão |
 | Eletrônicos | Celular | Duração da bateria | 12 horas |
 | Bebidas | Vinho | País de origem | Chile |

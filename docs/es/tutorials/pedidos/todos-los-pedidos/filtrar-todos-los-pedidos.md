@@ -112,7 +112,7 @@ Puedes buscar la opción deseada utilizando la barra de búsqueda o haciendo cli
     - Mes actual
     - Últimos 30 días
     - Personalizada
-- **Fecha del pedido: **fecha en que se realizó el pedido:
+- **Fecha del pedido:** fecha en que se realizó el pedido:
     - Hoy
     - Ayer
     - Últimos 7 días

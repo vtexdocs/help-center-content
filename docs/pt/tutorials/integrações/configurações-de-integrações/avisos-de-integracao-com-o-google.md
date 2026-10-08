@@ -25,8 +25,8 @@ Para verificar o status de integração de um produto, acesse no Admin VTEX o me
 
 Veja na tabela quais mensagens pertencem a qual status:  
 
-| **Status** | **Mensagem** | **Detalhes** | **Qual o impacto no anúncio** |
-|:---:|:---:|:---:|:---:|
+| Status | Mensagem | Detalhes | Qual o impacto no anúncio |
+|---|---|---|---|
 | **Processado com erro** | `SKU from accountName was not integrated` e `We noticed some problems`| `Product or SKU inactive`, `Invalid price` e `SKU out of stock`. |   Caso não sejam realizados os ajustes, os produtos não serão integrados. |
 | **Processado com aviso** | `SKU from accountName integrated`, `See offer` e `But we noticed some missing data` | `EAN/UPC and manufacturer code`, `Size`, `Color`, `Gender` e `Age Group`. |   Se aplicável ao produto e não preenchido os dados faltantes, o anúncio pode ficar com baixa visibilidade ou ser reprovado. |
 | **Processado com sucesso** | `SKU from accountName integrated`, `See offer` e `Add following data to increase offer visibility`. | [Product Highlights](https://support.google.com/merchants/answer/7052112?hl=pt-BR#zippy=%2Coutros-requisitos%2Ccomo-formatar-os-dados-do-produto:~:text=produtos%20s%C3%A3o%20veiculados.-,Opcional%3A,-envie%20o%20atributo) | Se aplicável e preenchido os atributos opcionais indicados pelo Google, o anúncio pode melhorar a  visibilidade. |
@@ -49,8 +49,8 @@ A seguir saiba em que situação ele é obrigatório e como preencher cada campo
 
 O campo Size ou Tamanho, é um [campo customizado](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto) que precisa ser criado pelo seller. Veja abaixo qual o nome e tipo do campo.  
 
-| **Nome do campo** | **Tipo do campo** |
-|:---:|:---:|
+| Nome do campo | Tipo do campo |
+|---|---|
 | Tamanho | Texto |
 
 Campo desse tipo suporta o preenchimento de valores alfanuméricos como, **P,M,G, GG, 41,42,37,33**.  
@@ -59,8 +59,8 @@ Campo desse tipo suporta o preenchimento de valores alfanuméricos como, **P,M,G
 
 O campo Color ou cor, é um [campo customizado](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto) e deve ser criado pelo seller. Veja abaixo qual o nome e tipo do campo.  
 
-| **Nome do campo** | **Tipo do campo** |
-|:---:|:---:|
+| Nome do campo | Tipo do campo |
+|---|---|
 | Cor | Texto |
 
 Campo desse tipo suporta o preenchimento de valores alfanuméricos como, **Verde, Preto, Amarelo, Rosa**.
@@ -71,8 +71,8 @@ Campo desse tipo suporta o preenchimento de valores alfanuméricos como, **Verde
 
 O campo Gender ou gênero, é um [campo customizado](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto) e deve ser criado pelo seller. Veja abaixo qual o nome e tipo do campo.  
 
-| **Nome do campo** | **Tipo do campo** | **Valor do campo** |
-|:---:|:---:|:---:|
+| Nome do campo | Tipo do campo | Valor do campo |
+|---|---|---|
 | Gênero | Combo |Masculino, Feminino e Unissex.|
 
 Campo desse tipo requer preenchimento de valores pré-definidos. Somente os valores listado em “valor do campo” será aceito pela integração com o Google.  
@@ -81,8 +81,8 @@ Campo desse tipo requer preenchimento de valores pré-definidos. Somente os valo
 
 O campo Age Group ou Faixa etária, é um [campo customizado](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto) e deve ser criado pelo seller. Veja abaixo qual o nome e tipo do campo.  
 
-| **Nome do campo** | **Tipo do campo** | **Valor do campo** |
-|:---:|:---:|:---:|
+| Nome do campo | Tipo do campo | Valor do campo |
+|---|---|---|
 | Faixa etária | Combo |Recém-nascido (até 3 meses), Bebê (de 3 meses a 12 meses), Criança pequena (de 1 ano a 5 anos),Criança (de 5 anos a 13 anos) e Adulto (a partir de 13 anos).|  
 
 Campo desse tipo requer preenchimento de valores pré-definidos. Somente os valores listado em “valor do campo” será aceito pela integração com o Google.  

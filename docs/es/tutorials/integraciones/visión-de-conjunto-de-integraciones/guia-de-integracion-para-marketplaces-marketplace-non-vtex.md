@@ -56,11 +56,9 @@ En este artículo, obtendrá una visión general del proceso de integración de 
 
 ### API REST - Acciones Referentes a la Actualización de Catálogo
 
-1) Marketplace recibe notificación de alteración de precio, inventario o catálogo.  
-
-2) Marketplace busca datos de SKU en el Seller a través de la API del catálogo.  
-
-3) Marketplace busca precio, inventario y datos de flete del SKU a través de la API de Fullfillment.  
+1. Marketplace recibe notificación de alteración de precio, inventario o catálogo.  
+2. Marketplace busca datos de SKU en el Seller a través de la API del catálogo.  
+3. Marketplace busca precio, inventario y datos de flete del SKU a través de la API de Fullfillment.  
 
 > ℹ️ Más información en la documentación para desarrolladores [External Marketplace](https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-guide).
 
@@ -74,7 +72,7 @@ El flujo de integraciones referente al envío y procesamiento de pedidos se pued
 
 - **Marketplace** necesita hacer una consulta de simulación de carrito en el *Seller* para verificar el precio e inventario.  
 
-> OBS: Cuando el cliente cierra el pedido y va para el pago, se debe realizar otra simulación de carrito.  
+> Cuando el cliente cierra el pedido y va para el pago, se debe realizar otra simulación de carrito.  
 
 ### Envío de Pedidos y Despacho
 
@@ -93,16 +91,11 @@ El flujo de integraciones referente al envío y procesamiento de pedidos se pued
 
 ### API REST: Acciones Referentes al Envío de Procesamiento de Pedidos
 
-1) Simulación de carrito.  
-
-2) Ingresar pedido en el Seller.  
-
-3) Autorizar despacho de pedido en el Seller.  
-
-4) Informar factura.  
-
-5) Informar rastreo  de la transportadora.  
-
-6) Enviar solicitud de cancelación.  
+1. Simulación de carrito.  
+2. Ingresar pedido en el Seller.  
+3. Autorizar despacho de pedido en el Seller.  
+4. Informar factura.  
+5. Informar rastreo  de la transportadora.  
+6. Enviar solicitud de cancelación.  
 
 [Acceda al procedimiento completo aquí](/es/tutorial/integracao-entre-marketplace-nao-vtex-e-seller-vtex-acoes-referentes-ao--5AiW7dZ4nGMDI9TAg43zmf).

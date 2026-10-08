@@ -88,7 +88,7 @@ En la siguiente imagen, la opción A muestra los colores originales y la opción
 
 El código que figura a continuación debe añadirse al final del archivo `checkout5-custom.css` o `checkout6-custom.css`, disponible para su personalización en *Configuración de la tienda > Checkout > Código*. El archivo que debe editarse depende de la versión de Checkout utilizada por su tienda.
 
-> ❗ **Atención:** Errores en la personalización del checkout pueden afectar el flujo de compras de sus clientes. En caso de que no entienda el siguiente código, pida ayuda a su equipo técnico.
+> ❗ Errores en la personalización del checkout pueden afectar el flujo de compras de sus clientes. En caso de que no entienda el siguiente código, pida ayuda a su equipo técnico.
 
 Luego, basta con cambiar las propiedades en el código CSS según sea necesario. 
 

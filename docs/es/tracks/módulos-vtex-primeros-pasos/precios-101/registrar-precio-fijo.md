@@ -26,7 +26,7 @@ Hay tres maneras de registrar un precio fijo:
 Para crear un precio fijo en el Admin, sigue los pasos a continuación:
 
 <ol>
-    <li>En el Admin VTEX, accede a <strong>Precios &gt; Lista de precios<strong>, o escribe <strong>Lista de precios<strong> en la barra de búsqueda en la parte superior de la página.</li>
+    <li>En el Admin VTEX, accede a <strong>Precios &gt; Lista de precios</strong>, o escribe <strong>Lista de precios</strong> en la barra de búsqueda en la parte superior de la página.</li>
     <li>Haz clic en `Tablas de Precios`.</li>
     <li>Selecciona la tabla de precios deseada.</li>
     <li>Haz clic en la celda de precio de SKU en la tabla de precios deseada.</li>

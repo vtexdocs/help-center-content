@@ -119,7 +119,7 @@ You will only need to configure a sales channel for a specific marketplace if yo
 - Configure other payment conditions.  
 - Define a different shipping strategy.  
 
-To [purchase additional sales channels](/en/docs/tutorials/requesting-an-additional-trade-policy), simply request it via a ticket in Support, selecting the **Commercial** option and the request type `Creation of Sales Channel`.
+To [purchase additional sales channels](/en/docs/tutorials/requesting-an-additional-trade-policy), request it via a ticket in Support, selecting the **Commercial** option and the request type `Creation of Sales Channel`.
 
 For each additional sales channel, a monthly fee is charged, whether it is used for integration with certified marketplaces, partners, external or VTEX.  
 

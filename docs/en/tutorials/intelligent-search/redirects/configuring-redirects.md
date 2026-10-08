@@ -35,7 +35,7 @@ This section provides the following general information:
 
 - **Name:** name of the rule set for the redirect you created.
 - **Redirect URL**: URL to which the client will be forwarded. You must enter the full URL. Example: `https://www.store.com/_secure/account/#/orders` instead of `_secure/account/#/orders`.
-- **Locales:** Languages to which the redirect will apply. The field is only available for stores using [Multilanguage settings (Beta)](/en/docs/tutorials/vtex-intelligent-search-multilanguage-settings-beta).
+- **Locales:** Languages to which the redirect will apply. The field is only available for stores using [Multilanguage settings](/en/docs/tutorials/vtex-intelligent-search-multilanguage-settings).
 
 ### Trigger rules
 
