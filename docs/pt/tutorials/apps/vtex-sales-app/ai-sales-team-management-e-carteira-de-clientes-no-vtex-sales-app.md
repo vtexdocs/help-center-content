@@ -74,8 +74,6 @@ Um mesmo contrato pode ser vinculado a mais de um time. O **AI Sales Team Manage
 
 **Exemplo:** o contrato `100` está vinculado aos "Time Sul" e "Time Sudeste". Portanto, os sales reps de ambos os times podem visualizar esse contrato.
 
-> ℹ️ Não existe carteira individual fora de um subtime. Para um sales rep ter uma carteira exclusiva, crie um subtime apenas para essa pessoa e vincule os contratos ao subtime.
-
 ## Gerenciar times, sales reps e carteira de clientes
 
 > ℹ️ Os exemplos de solicitação apresentados a seguir são apenas ilustrativos e não são a única forma de pedir uma ação ao agente.
@@ -118,9 +116,9 @@ Para vincular um contrato a um time, indique o contrato e o time. Antes de vincu
 
 **Exemplo:** "Associa o contrato 4521 ao time Vendas Sul."
 
-Para a carteira de um sales rep, crie antes o subtime exclusivo e vincule os contratos somente a esse subtime.
-
 **Exemplo:** "Quero criar subtimes baseados na carteira de cada sales rep."
+
+> ℹ️ Não existe carteira individual fora de um subtime. Para um sales rep ter uma carteira exclusiva, crie um subtime apenas para essa pessoa e vincule os contratos ao subtime.
 
 ### Fazer alterações em massa
 
