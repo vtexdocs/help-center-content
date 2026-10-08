@@ -3,7 +3,7 @@ title: 'Store development'
 id: 2PS5GZ2XUXs70Pu8m7wRcz
 status: PUBLISHED
 createdAt: 2022-12-21T20:19:31.109Z
-updatedAt: 2026-09-02T19:56:58.127Z
+updatedAt: 2026-10-08T19:56:58.127Z
 publishedAt: 2022-12-22T19:56:58.127Z
 firstPublishedAt: 2022-12-22T19:56:58.127Z
 contentType: trackArticle
