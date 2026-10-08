@@ -125,7 +125,7 @@ Caso os produtos não sejam correspondentes, o seller deve buscar no catálogo d
 Para vincular as oportunidades em massa, após acessar a página **Publicação de produtos**, siga os seguintes passos:
 
 1. No Admin VTEX, clique em **Marketplace > Mercado Livre > Publicação de produtos**, ou digite **Publicação de produtos** na barra de busca no topo da página.
-2. Selecione as checkbox <a class="far fa-check-square" aria-hidden="true"></a> das oportunidades que deseja vincular. Uma barra fixa aparece na parte inferior da tela, indicando quantos itens foram selecionados.
+2. Selecione as checkboxes <a class="far fa-check-square" aria-hidden="true"></a> das oportunidades que deseja vincular. Uma barra fixa aparece na parte inferior da tela, indicando quantos itens foram selecionados.
 3. Clique no botão `Publicar`.
 4. Confirme a ação no pop-up exibido clicando no botão `Confirmar`.
 
