@@ -4,12 +4,12 @@ createdAt: '2026-10-08T00:00:00.000Z'
 updatedAt: '2026-10-08T00:00:00.000Z'
 contentType: updates
 productTeam: Billing
-slugEN: 2026-09-29-credit-wallet-track-the-credit-that-offsets-your-master-data-charges
+slugEN: 2026-10-08-credit-wallet-track-the-credit-that-offsets-your-master-data-charges
 locale: es
 announcementSynopsisES: 'Consulta tu Cartera de Crédito a través de la nueva página Créditos en el Admin VTEX y descubre cómo descuenta el cobro de Master Data.'
 tags:
   - Nueva funcionalidad
-  - Billing
+  - Facturación
 ---
 
 El Admin VTEX ahora ofrece la página **Créditos**, en **Facturación**, donde puedes consultar el saldo y el consumo de la [Cartera de Crédito](/es/docs/tutorials/cartera-de-credito) de tu empresa. La Cartera de Crédito es un crédito de facturación concedido automáticamente por VTEX y utilizado para descontar el cobro de [Master Data](/es/docs/tutorials/master-data-es), que ocurre independientemente de la versión utilizada (v1 o v2).
