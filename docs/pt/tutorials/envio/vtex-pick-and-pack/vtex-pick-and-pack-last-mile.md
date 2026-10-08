@@ -1,7 +1,7 @@
 ---
 title: 'VTEX Pick and Pack: Last Mile'
 createdAt: 2023-04-10T16:01:14.613Z
-updatedAt: 2026-08-21T00:00:00.000Z
+updatedAt: 2026-10-08T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: vtex-pick-and-pack-last-mile
