@@ -31,6 +31,6 @@ Duas opções podem ser ativadas, nesta ordem:
 
 A funcionalidade está disponível para todas as lojas VTEX com integração ativa com o Google Shopping desde 02 de outubro de 2026. Para utilizar a funcionalidade, a loja precisa ter políticas de envio com tabela de frete configurada e ativa para a política comercial da integração, e ativar as zonas desejadas na nova página.
 
-Lojas em CMS Portal (Legado) ou headless precisam adaptar a página de produto para ler o parâmetro `region_id` que o Google acrescenta na URL. Sem essa leitura, o RAAP não se reflete no storefront. O guia é [Adapting headless storefronts to Google RAAP](https://developers.vtex.com/docs/guides/adapting-headless-storefronts-to-google-raap).
+Lojas em CMS Portal (Legado) ou headless precisam adaptar a página de produto para ler o parâmetro `region_id` que o Google acrescenta na URL. Sem essa leitura, o RAAP não se reflete no storefront. Saiba mais em [Adapting headless storefronts to Google RAAP](https://developers.vtex.com/docs/guides/adapting-headless-storefronts-to-google-raap).
 
 Para mais informações de como realizar cada configuração, acesse o tutorial [Regionalização do Google Shopping](/pt/docs/tutorials/regionalizacao-do-google-shopping).
