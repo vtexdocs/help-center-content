@@ -23,7 +23,7 @@ Some important points about how this setting works:
 * When you enable persistent login for the first time, the default duration is **1 day**. You can change it at any time.
 * Changes to the setting (including disabling persistent login) apply only to new logins performed after the change. Sessions that are already active continue behaving as they did before the change.
 * If you disable persistent login and then enable it again, the last saved duration is restored (the setting doesn't automatically go back to 1 day).
-* In stores with [Store Framework](https://developers.vtex.com/docs/guides/store-framework) or [CMS Portal (Legacy)](https://help.vtex.com/en/docs/tracks/legacy-cms-portal), the renewal of customer access is automatic. In headless stores, you need to implement the token renewal on your own, except when the storefront uses the [FastStore SDK](https://developers.vtex.com/docs/guides/faststore/sdk-overview). To implement session renewal in a headless store, see the developer guide [Refresh token flow for headless implementations](https://developers.vtex.com/docs/guides/refresh-token-flow-for-headless-implementations).
+* In stores with [Store Framework](https://developers.vtex.com/docs/guides/store-framework) or [CMS Portal (Legacy)](https://help.vtex.com/en/docs/tracks/legacy-cms-portal), the renewal of customer access is automatic. In headless stores, you need to implement the token renewal on your own, except when the storefront uses the [FastStore SDK](https://developers.vtex.com/docs/guides/faststore/sdk-overview). To implement session renewal in a headless store, see the developer guide [Refresh token flow for headless implementations](https://developers.vtex.com/docs/guides/refresh-token-flow-for-headless-implementations). If your store uses FastStore, also see [Enabling refresh token on FastStore](https://developers.vtex.com/docs/guides/faststore/session-enabling-refresh-token).
 
 ## Prerequisites
 
@@ -35,9 +35,9 @@ To start using persistent login, enable the feature in the corresponding card on
 
 1. On the top bar of the VTEX Admin, click your profile avatar, marked by the initial of your email.
 2. Click **Account settings > Authentication**.
-3. On the **Online store** tab, locate the **Persistent login** card, below the login methods.
+3. On the **Webstore** tab, locate the **Persistent login** card, below the login methods.
 4. Click the toggle to enable the feature.
-    ![Persistent login card on the Online store tab](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/configuring-persistent-login-for-customers_1.png)
+    ![Persistent login card on the Webstore tab](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/configuring-persistent-login-for-customers_1.png)
 
 When you enable it, a notification confirms the activation and informs the duration that now applies to new logins (1 day, on first use, or the last saved duration, on reactivation).
 
@@ -47,7 +47,7 @@ The configured duration isn't displayed directly on the card. To check or change
 
 1. On the top bar of the VTEX Admin, click your profile avatar, marked by the initial of your email.
 2. Click **Account settings > Authentication**.
-3. On the **Online store** tab, on the **Persistent login** card, click `Edit`.
+3. On the **Webstore** tab, on the **Persistent login** card, click `Edit`.
 
     A window opens with the currently configured duration, in days.
     ![Persistent login duration settings window](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/configuring-persistent-login-for-customers_2.png)
@@ -64,7 +64,7 @@ If you no longer want to keep customers connected for an extended period, disabl
 
 1. On the top bar of the VTEX Admin, click your profile avatar, marked by the initial of your email.
 2. Click **Account settings > Authentication**.
-3. On the **Online store** tab, on the **Persistent login** card, click the toggle to disable the feature.
+3. On the **Webstore** tab, on the **Persistent login** card, click the toggle to disable the feature.
 
 From that moment on, new customer logins stop receiving the refresh token, returning to the default 24-hour expiration behavior. Sessions that are already active aren't changed by this update.
 
