@@ -44807,6 +44807,21 @@
             },
             {
               "name": {
+                "en": "Checkout UI is not automatically using \"lean shipping\" for items with no common shipping methods",
+                "es": "La interfaz de pago no utiliza automáticamente el \"envío simplificado\" para artículos sin métodos de envío comunes.",
+                "pt": "A interface de finalização da compra não está usando automaticamente o \"envio simplificado\" para itens sem métodos de envio comuns."
+              },
+              "slug": {
+                "en": "checkout-ui-is-not-automatically-using-lean-shipping-for-items-with-no-common-shipping-methods",
+                "es": "la-interfaz-de-pago-no-utiliza-automaticamente-el-envio-simplificado-para-articulos-sin-metodos-de-envio-comunes",
+                "pt": "a-interface-de-finalizacao-da-compra-nao-esta-usando-automaticamente-o-envio-simplificado-para-itens-sem-metodos-de-envio-comuns"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Checkout UI changes the selected address when more than 1 address available",
                 "es": "La interfaz de usuario de la caja cambia la dirección seleccionada cuando hay más de 1 dirección disponible.",
                 "pt": "A interface de usuário do checkout altera o endereço selecionado quando há mais de um endereço disponível"
@@ -44905,21 +44920,6 @@
                 "en": "checkout-ui-shows-free-shipping-when-the-user-switches-the-delivery-options",
                 "es": "la-interfaz-de-pago-muestra-el-envio-gratuito-cuando-el-usuario-cambia-las-opciones-de-entrega",
                 "pt": "a-interface-do-checkout-exibe-o-frete-gratis-quando-o-usuario-altera-as-opcoes-de-entrega"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Checkout UI is not automatically using \"lean shipping\" for items with no common shipping methods",
-                "es": "La interfaz de pago no aplica automáticamente la opción «envío económico» a los artículos que no tienen métodos de envío comunes",
-                "pt": "A interface do checkout não está utilizando automaticamente a opção \"frete econômico\" para itens sem métodos de envio comuns"
-              },
-              "slug": {
-                "en": "checkout-ui-is-not-automatically-using-lean-shipping-for-items-with-no-common-shipping-methods",
-                "es": "la-interfaz-de-pago-no-aplica-automaticamente-la-opcion-envio-economico-a-los-articulos-que-no-tienen-metodos-de-envio-comunes",
-                "pt": "a-interface-do-checkout-nao-esta-utilizando-automaticamente-a-opcao-frete-economico-para-itens-sem-metodos-de-envio-comuns"
               },
               "origin": "",
               "type": "markdown",
