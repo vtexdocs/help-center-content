@@ -54,6 +54,21 @@
                 },
                 {
                   "name": {
+                    "en": "Agent Builder: mais controle na configuração de agentes e da base de conhecimento",
+                    "es": "Agent Builder: mais controle na configuração de agentes e da base de conhecimento",
+                    "pt": "Agent Builder: mais controle na configuração de agentes e da base de conhecimento"
+                  },
+                  "slug": {
+                    "en": "",
+                    "es": "",
+                    "pt": "2026-10-08-agent-builder-mais-controle-na-configuracao-de-agentes-e-da-base-de-conhecimento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Black Friday 2026: Get your store ready with our best practices guide",
                     "es": "Black Friday 2026: prepara tu tienda con nuestra guía de buenas prácticas",
                     "pt": "Black Friday 2026: prepare sua loja com nosso guia de boas práticas"
