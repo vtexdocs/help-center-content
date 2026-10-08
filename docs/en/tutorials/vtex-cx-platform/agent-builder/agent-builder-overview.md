@@ -1,18 +1,11 @@
 ---
-title: "Agent Builder - Overview"
-id: 6t9oYS7E2AJH9c2AYReUrs
-status: PUBLISHED
+title: 'Agent Builder - Overview'
 createdAt: 2025-07-23T12:24:11.906Z
-updatedAt: 2026-06-15T00:00:00.000Z
-publishedAt: 2025-09-08T16:21:28.723Z
-firstPublishedAt: 2025-07-29T16:45:36.827Z
+updatedAt: 2026-10-08T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: agent-builder-overview
-legacySlug: agent-builder-overview
 locale: en
-subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 order: 1
 ---
 
@@ -91,6 +84,12 @@ In **Agent preview**, there are two possible settings:
 
 - **Agent progressive feedback:** Activate it <i class="fas fa-toggle-on" aria-hidden="true"></i> if you want the agent to send real-time updates to the user while drafting the final response. Otherwise, leave it deactivated<i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
+In **System messages**, you can customize the error message sent to the customer when an API error prevents the agent from generating a response. Each project can have its own message, tailored to the brand's tone of voice.
+
+> ⚠️ The error message is sent exactly as configured and isn't automatically translated. Write it in the same language your agent uses to chat with customers.
+
+To save your changes, click `Save changes`.
+
 #### Edit instructions
 
 By clicking the `Edit instructions` button for the orchestrator agent, you access the **Instructions** page, where you can add direct instructions to determine how your agent behaves. There's no limit to the number of instructions that can be created.
@@ -108,6 +107,22 @@ To use AI instruction validation when creating an instruction, follow these step
 > ⚠️ If a warning message appears in **Validation results**, correct the instruction according to the displayed guidance and click `Re-validate`.
 
 > ℹ️ You can create a new custom instruction without AI validation. To perform this action, activate the **Validate instruction by AI** option, enter the instruction, and click `Publish instruction`.
+
+##### Interactive components
+
+With **Manager 2.7**, the orchestrator agent can respond using WhatsApp's native interactive components:
+
+| Component | Description |
+| --- | --- |
+| Quick replies (`quick_reply`) | Buttons with predefined options for the customer to choose from. |
+| Call-to-action buttons (`call_to_action`) | Buttons that direct the customer to an external link. |
+| List message (`list_message`) | Menu with a list of selectable options. |
+
+To guide the agent to use a component, reference it directly in a custom instruction. For example: "When asking about order status, use the `quick_reply` component with the options Track order, Cancel order, and Talk to a representative."
+
+> ℹ️ For the agent to send interactive components, the **Multiple message format** option must be enabled in **Edit Manager > Engine**.
+
+> ⚠️ The product catalog is not a native Manager 2.7 component. When a Concierge agent is assigned to the team, the orchestrator triggers Concierge to send the catalog. VTEX's official Concierge agents already have this capability.
 
 ##### Instruction list
 
