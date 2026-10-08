@@ -44822,6 +44822,21 @@
             },
             {
               "name": {
+                "en": "Checkout UI is not automatically using \"lean shipping\" for items with no common shipping methods",
+                "es": "La interfaz de pago no utiliza automáticamente el \"envío simplificado\" para artículos sin métodos de envío comunes.",
+                "pt": "A interface de finalização da compra não está usando automaticamente o \"envio simplificado\" para itens sem métodos de envio comuns."
+              },
+              "slug": {
+                "en": "checkout-ui-is-not-automatically-using-lean-shipping-for-items-with-no-common-shipping-methods",
+                "es": "la-interfaz-de-pago-no-utiliza-automaticamente-el-envio-simplificado-para-articulos-sin-metodos-de-envio-comunes",
+                "pt": "a-interface-de-finalizacao-da-compra-nao-esta-usando-automaticamente-o-envio-simplificado-para-itens-sem-metodos-de-envio-comuns"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Checkout UI changes the selected address when more than 1 address available",
                 "es": "La interfaz de usuario de la caja cambia la dirección seleccionada cuando hay más de 1 dirección disponible.",
                 "pt": "A interface de usuário do checkout altera o endereço selecionado quando há mais de um endereço disponível"
@@ -44920,21 +44935,6 @@
                 "en": "checkout-ui-shows-free-shipping-when-the-user-switches-the-delivery-options",
                 "es": "la-interfaz-de-pago-muestra-el-envio-gratuito-cuando-el-usuario-cambia-las-opciones-de-entrega",
                 "pt": "a-interface-do-checkout-exibe-o-frete-gratis-quando-o-usuario-altera-as-opcoes-de-entrega"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Checkout UI is not automatically using \"lean shipping\" for items with no common shipping methods",
-                "es": "La interfaz de pago no aplica automáticamente la opción «envío económico» a los artículos que no tienen métodos de envío comunes",
-                "pt": "A interface do checkout não está utilizando automaticamente a opção \"frete econômico\" para itens sem métodos de envio comuns"
-              },
-              "slug": {
-                "en": "checkout-ui-is-not-automatically-using-lean-shipping-for-items-with-no-common-shipping-methods",
-                "es": "la-interfaz-de-pago-no-aplica-automaticamente-la-opcion-envio-economico-a-los-articulos-que-no-tienen-metodos-de-envio-comunes",
-                "pt": "a-interface-do-checkout-nao-esta-utilizando-automaticamente-a-opcao-frete-economico-para-itens-sem-metodos-de-envio-comuns"
               },
               "origin": "",
               "type": "markdown",
@@ -52141,6 +52141,21 @@
                 "en": "the-saml-solution-doesnt-allow-sending-the-samlrequest-as-query-string-in-the-crm-login",
                 "es": "la-solucion-saml-no-permite-enviar-el-samlrequest-como-query-string-en-el-login-del-crm",
                 "pt": "a-solucao-saml-nao-permite-o-envio-do-samlrequest-como-sequencia-de-consulta-no-login-do-crm"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "License Manager authorization checks intermittently time out, causing failures in dependent services",
+                "es": "Las comprobaciones de autorización del Administrador de licencias agotan el tiempo de espera de forma intermitente, lo que provoca fallos en los servicios dependientes.",
+                "pt": "As verificações de autorização do Gerenciador de Licenças expiram intermitentemente, causando falhas em serviços dependentes."
+              },
+              "slug": {
+                "en": "license-manager-authorization-checks-intermittently-time-out-causing-failures-in-dependent-services",
+                "es": "las-comprobaciones-de-autorizacion-del-administrador-de-licencias-agotan-el-tiempo-de-espera-de-forma-intermitente-lo-que-provoca-fallos-en-los-servicios-dependientes",
+                "pt": "as-verificacoes-de-autorizacao-do-gerenciador-de-licencas-expiram-intermitentemente-causando-falhas-em-servicos-dependentes"
               },
               "origin": "",
               "type": "markdown",
@@ -63139,6 +63154,21 @@
             },
             {
               "name": {
+                "en": "Orders cancelled when payment authorization gets no response from the Payment Gateway",
+                "es": "Los pedidos se cancelan cuando la autorización de pago no recibe respuesta de la pasarela de pago.",
+                "pt": "Pedidos cancelados quando a autorização de pagamento não recebe resposta do gateway de pagamento."
+              },
+              "slug": {
+                "en": "orders-cancelled-when-payment-authorization-gets-no-response-from-the-payment-gateway",
+                "es": "los-pedidos-se-cancelan-cuando-la-autorizacion-de-pago-no-recibe-respuesta-de-la-pasarela-de-pago",
+                "pt": "pedidos-cancelados-quando-a-autorizacao-de-pagamento-nao-recebe-resposta-do-gateway-de-pagamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Orders created with empty userProfileId",
                 "es": "Pedidos creados con userProfileId vacío",
                 "pt": "Pedidos criados com userProfileId vazio"
@@ -66699,6 +66729,21 @@
             },
             {
               "name": {
+                "en": "Shipping discount discarded due to rounding in cumulative promotions",
+                "es": "El descuento de envío se descartó debido al redondeo en las promociones acumulativas.",
+                "pt": "O desconto no frete foi descartado devido ao arredondamento em promoções cumulativas."
+              },
+              "slug": {
+                "en": "shipping-discount-discarded-due-to-rounding-in-cumulative-promotions",
+                "es": "el-descuento-de-envio-se-descarto-debido-al-redondeo-en-las-promociones-acumulativas",
+                "pt": "o-desconto-no-frete-foi-descartado-devido-ao-arredondamento-em-promocoes-cumulativas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Nominal discount based on formula not working as expected with subtraction operations",
                 "es": "El descuento nominal calculado según la fórmula no funciona como se esperaba en las operaciones de resta",
                 "pt": "O desconto nominal calculado com base na fórmula não está funcionando como esperado nas operações de subtração"
@@ -68983,6 +69028,21 @@
             },
             {
               "name": {
+                "en": "canonical link keeps the trailing slash of the requested URL on routes declared in the theme's routes.json",
+                "es": "El enlace canónico conserva la barra diagonal final de la URL solicitada en las rutas declaradas en el archivo routes.json del tema.",
+                "pt": "O link canônico mantém a barra invertida final da URL solicitada nas rotas declaradas no arquivo routes.json do tema."
+              },
+              "slug": {
+                "en": "canonical-link-keeps-the-trailing-slash-of-the-requested-url-on-routes-declared-in-the-themes-routesjson",
+                "es": "el-enlace-canonico-conserva-la-barra-diagonal-final-de-la-url-solicitada-en-las-rutas-declaradas-en-el-archivo-routesjson-del-tema",
+                "pt": "o-link-canonico-mantem-a-barra-invertida-final-da-url-solicitada-nas-rotas-declaradas-no-arquivo-routesjson-do-tema"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "linkId is not being registered on rewriter when translating with catalog graphql",
                 "es": "linkId no se está registrando en rewriter cuando se traduce con graphql catálogo",
                 "pt": "O linkId não está sendo registrado no rewriter ao traduzir com o catálogo graphql"
@@ -69962,6 +70022,21 @@
             },
             {
               "name": {
+                "en": "Amazon Mexico orders fulfilled by Amazon (FBA) aren't integrated",
+                "es": "Amazon Los pedidos de México gestionados por Amazon (FBA) no están integrados.",
+                "pt": "Amazon Os pedidos do México enviados pela Amazon (FBA) não estão integrados."
+              },
+              "slug": {
+                "en": "amazon-mexico-orders-fulfilled-by-amazon-fba-arent-integrated",
+                "es": "amazon-los-pedidos-de-mexico-gestionados-por-amazon-fba-no-estan-integrados",
+                "pt": "amazon-os-pedidos-do-mexico-enviados-pela-amazon-fba-nao-estao-integrados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Amazon Orders fail to integrate with \"A validation error occurred while trying to process the order\" when the buyer name is null",
                 "es": "Amazon Los pedidos no se integran correctamente y aparece el mensaje \"Se produjo un error de validación al intentar procesar el pedido\" cuando el nombre del comprador es nulo.",
                 "pt": "Amazon Os pedidos não são integrados com a mensagem \"Ocorreu um erro de validação ao tentar processar o pedido\" quando o nome do comprador é nulo."
@@ -70323,13 +70398,28 @@
           "children": [
             {
               "name": {
+                "en": "Only one agent receives email notification in active call",
+                "es": "Solo un agente recibe notificación por correo electrónico en una llamada activa.",
+                "pt": "Apenas um agente recebe notificação por e-mail em uma chamada ativa."
+              },
+              "slug": {
+                "en": "only-one-agent-receives-email-notification-in-active-call",
+                "es": "solo-un-agente-recibe-notificacion-por-correo-electronico-en-una-llamada-activa",
+                "pt": "apenas-um-agente-recebe-notificacao-por-email-em-uma-chamada-ativa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Notifications from the personal shopper are not arriving on WhatsApp.",
-                "es": "Las notificaciones del asistente personal de compras no llegan a WhatsApp.",
+                "es": "Las notificaciones del personal shopper no llegan a WhatsApp.",
                 "pt": "As notificações do personal shopper não estão chegando no WhatsApp."
               },
               "slug": {
                 "en": "notifications-from-the-personal-shopper-are-not-arriving-on-whatsapp",
-                "es": "las-notificaciones-del-asistente-personal-de-compras-no-llegan-a-whatsapp",
+                "es": "las-notificaciones-del-personal-shopper-no-llegan-a-whatsapp",
                 "pt": "as-notificacoes-do-personal-shopper-nao-estao-chegando-no-whatsapp"
               },
               "origin": "",
