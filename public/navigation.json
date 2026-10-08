@@ -39,14 +39,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "Persistent login now available for online store customers",
-                    "es": "Inicio de sesión persistente ya disponible para clientes de la tienda virtual",
-                    "pt": "Login persistente agora disponível para clientes da loja virtual"
+                    "en": "Persistent login: set how long your customers stay authenticated",
+                    "es": "Inicio de sesión persistente: define por cuánto tiempo tus clientes permanecen autenticados",
+                    "pt": "Login persistente: defina por quanto tempo seus clientes permanecem autenticados"
                   },
                   "slug": {
-                    "en": "2026-10-16-persistent-login-now-available-for-customers",
-                    "es": "2026-10-16-inicio-de-sesion-persistente-ya-disponible-para-clientes",
-                    "pt": "2026-10-16-login-persistente-agora-disponivel-para-clientes"
+                    "en": "2026-10-16-persistent-login-set-how-long-your-customers-stay-authenticated",
+                    "es": "2026-10-16-inicio-de-sesion-persistente-define-por-cuanto-tiempo-tus-clientes-permanecen-autenticados",
+                    "pt": "2026-10-16-login-persistente-defina-por-quanto-tempo-seus-clientes-permanecem-autenticados"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -63139,6 +63139,21 @@
             },
             {
               "name": {
+                "en": "Orders cancelled when payment authorization gets no response from the Payment Gateway",
+                "es": "Los pedidos se cancelan cuando la autorización de pago no recibe respuesta de la pasarela de pago.",
+                "pt": "Pedidos cancelados quando a autorização de pagamento não recebe resposta do gateway de pagamento."
+              },
+              "slug": {
+                "en": "orders-cancelled-when-payment-authorization-gets-no-response-from-the-payment-gateway",
+                "es": "los-pedidos-se-cancelan-cuando-la-autorizacion-de-pago-no-recibe-respuesta-de-la-pasarela-de-pago",
+                "pt": "pedidos-cancelados-quando-a-autorizacao-de-pagamento-nao-recebe-resposta-do-gateway-de-pagamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Orders created with empty userProfileId",
                 "es": "Pedidos creados con userProfileId vacío",
                 "pt": "Pedidos criados com userProfileId vazio"
@@ -70338,13 +70353,28 @@
           "children": [
             {
               "name": {
+                "en": "Only one agent receives email notification in active call",
+                "es": "Solo un agente recibe notificación por correo electrónico en una llamada activa.",
+                "pt": "Apenas um agente recebe notificação por e-mail em uma chamada ativa."
+              },
+              "slug": {
+                "en": "only-one-agent-receives-email-notification-in-active-call",
+                "es": "solo-un-agente-recibe-notificacion-por-correo-electronico-en-una-llamada-activa",
+                "pt": "apenas-um-agente-recebe-notificacao-por-email-em-uma-chamada-ativa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Notifications from the personal shopper are not arriving on WhatsApp.",
-                "es": "Las notificaciones del asistente personal de compras no llegan a WhatsApp.",
+                "es": "Las notificaciones del personal shopper no llegan a WhatsApp.",
                 "pt": "As notificações do personal shopper não estão chegando no WhatsApp."
               },
               "slug": {
                 "en": "notifications-from-the-personal-shopper-are-not-arriving-on-whatsapp",
-                "es": "las-notificaciones-del-asistente-personal-de-compras-no-llegan-a-whatsapp",
+                "es": "las-notificaciones-del-personal-shopper-no-llegan-a-whatsapp",
                 "pt": "as-notificacoes-do-personal-shopper-nao-estao-chegando-no-whatsapp"
               },
               "origin": "",
