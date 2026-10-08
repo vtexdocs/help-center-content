@@ -59,7 +59,7 @@ Além da confirmação do plano, o **AI Sales Team Management** opera a partir d
 - **Respostas sem suposições:** quando o agente não sabe ou não tem acesso a uma informação, ele informa isso.
 - **Controle de permissão a usuários:** cada usuário consulta informações restritas ao seu nível de acesso. Por exemplo, um sales rep não pode ver os contratos de outro time.
 
-### Restrições de escopo do agente
+### Restrições de escopo
 
 O **AI Sales Team Management** tem as seguintes restrições:
 
@@ -68,23 +68,6 @@ O **AI Sales Team Management** tem as seguintes restrições:
 - ❌ Não envia emails ou outras mensagens.
 - ❌ Não configura a permissões de acesso de usuários.
 - ❌ Não mostra histórico de auditoria. Para consultar o histórico, use o [Audit](https://help.vtex.com/pt/docs/tutorials/audit).
-
-## Vinculação entre contratos e times
-
-Vincular um contrato a um time define a carteira daquele time e muda o que o sales rep visualiza no **Sales App**.
-
-- **Contratos vinculados a times:** o **Sales App** mostra apenas as cotações e os pedidos daqueles contratos e a criação de pedidos fica restrita aos sales reps desse time.
-  - Exemplo: o "Time Sul" está vinculado aos contratos `100` e `200`. Portanto, os sales reps visualizam e criam pedidos somente para esses dois contratos.
-- **Contratos sem vinculação a times:** os sales reps visualizam todos os contratos da conta.
-  - Exemplo: o "Time Norte" não está vinculado a um contrato, portanto os sales reps desse time visualizam e criam pedidos para todos os contratos da conta.
-
-> ⚠️ Recomendamos que você confirme os vínculos contratuais antes de definir restrições ao time de vendas.
-
-### Contrato vinculado a múltiplos times
-
-Um mesmo contrato pode ser vinculado a mais de um time. O **AI Sales Team Management** avisa quando detecta essa situação, mas não impede o vínculo.
-
-**Exemplo:** o contrato `100` está vinculado aos "Time Sul" e "Time Sudeste". Portanto, os sales reps de ambos os times podem visualizar esse contrato.
 
 ## Gerenciar times, sales reps e carteiras de clientes
 
@@ -161,3 +144,20 @@ Na mesma sessão, você pode desfazer criações recentes .
 > ❗ O vínculo de um contrato não pode ser desfeito no **AI Sales Team Management**.
 
 | Desfazer uma criação recente | "Desfaz a criação do time X." Esse pedido não desfaz vínculo de contrato. |
+
+## Vinculação entre contratos e times
+
+Vincular um contrato a um time define a carteira daquele time e muda o que o sales rep visualiza no **Sales App**.
+
+- **Contratos vinculados a times:** o **Sales App** mostra apenas as cotações e os pedidos daqueles contratos e a criação de pedidos fica restrita aos sales reps desse time.
+  - Exemplo: o "Time Sul" está vinculado aos contratos `100` e `200`. Portanto, os sales reps visualizam e criam pedidos somente para esses dois contratos.
+- **Contratos sem vinculação a times:** os sales reps visualizam todos os contratos da conta.
+  - Exemplo: o "Time Norte" não está vinculado a um contrato, portanto os sales reps desse time visualizam e criam pedidos para todos os contratos da conta.
+
+> ⚠️ Recomendamos que você confirme os vínculos contratuais antes de definir restrições ao time de vendas.
+
+### Contrato vinculado a múltiplos times
+
+Um mesmo contrato pode ser vinculado a mais de um time. O **AI Sales Team Management** avisa quando detecta essa situação, mas não impede o vínculo.
+
+**Exemplo:** o contrato `100` está vinculado aos "Time Sul" e "Time Sudeste". Portanto, os sales reps de ambos os times podem visualizar esse contrato.
