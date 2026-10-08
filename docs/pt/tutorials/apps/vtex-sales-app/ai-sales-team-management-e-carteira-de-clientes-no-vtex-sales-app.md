@@ -59,9 +59,9 @@ Além da confirmação do plano, o **AI Sales Team Management** opera a partir d
 - **Respostas sem suposições:** quando o agente não sabe ou não tem acesso a uma informação, ele informa isso.
 - **Controle de permissão a usuários:** cada usuário consulta informações restritas ao seu nível de acesso. Por exemplo, um sales rep não pode ver os contratos de outro time.
 
-## O que o agente não faz
+## Limitações de escopo do agente
 
-O **AI Sales Team Management** tem as seguintes limitações de escopo:
+O **AI Sales Team Management** tem as seguintes restrições:
 
 - **Dados do B2B Buyer Portal:** não acessa nem altera dados de compradores, contatos ou organizações do [**B2B Buyer Portal**](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). O agente usa contratos já existentes somente para vinculá-los a times.
 - **Criação de contratos:** não cria contratos B2B novos.
