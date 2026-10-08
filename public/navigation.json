@@ -162,6 +162,37 @@
             },
             {
               "name": {
+                "en": "Setembro",
+                "es": "Setembro",
+                "pt": "Setembro"
+              },
+              "slug": {
+                "en": "setembro",
+                "es": "setembro",
+                "pt": "2026-setembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Pontos de retirada: Raio máximo ampliado para 1.000 km",
+                    "es": "Pontos de retirada: Raio máximo ampliado para 1.000 km",
+                    "pt": "Pontos de retirada: Raio máximo ampliado para 1.000 km"
+                  },
+                  "slug": {
+                    "en": "",
+                    "es": "",
+                    "pt": "2026-09-30-raio-maximo-de-pontos-de-retirada-ampliado-para-1000-km"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "August",
                 "es": "Agosto",
                 "pt": "Agosto"
