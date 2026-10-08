@@ -8,25 +8,9 @@ slugEN: ai-sales-team-management-and-customer-portfolio-on-vtex-sales-app
 locale: pt
 ---
 
-O **AI Sales Team Management** é o agente conversacional para administrar times de vendas, sales reps e a carteira de clientes de quem usa o [VTEX Sales App - Primeiros passos e configurações](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes). No Admin VTEX, acesse **Apps** > **Sales Management** > **Sales Team**.
+O **AI Sales Team Management** é um agente de inteligência artificial que permite administrar times de vendas, sales reps e a carteira de clientes de quem usa o [VTEX Sales App](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes) por meio de uma experiência conversacional no Admin VTEX. Este artigo explica o funcionamento do agente e apresenta as ações que você pode realizar de forma conversacional.
 
 > ⚠️ A gestão de vendedores de loja física do **VTEX Sales App** está em [Gerenciar vendedores no VTEX Sales App](https://help.vtex.com/pt/docs/tracks/gerenciar-vendedores-no-vtex-sales-app). O **AI Sales Team Management** administra times de vendas, sales reps e a carteira de clientes da operação B2B.
-
-Neste guia, você aprenderá a usar o **AI Sales Team Management** nas seguintes seções:
-
-- [Casos de uso](#casos-de-uso)
-- [Gerenciando times e carteira de clientes](#gerenciando-times-e-carteira-de-clientes)
-  - [Como o agente funciona](#como-o-agente-funciona)
-  - [Conceitos](#conceitos)
-  - [Vínculo de contratos e visibilidade no VTEX Sales App](#vinculo-de-contratos-e-visibilidade-no-vtex-sales-app)
-  - [Registrar e mover sales reps](#registrar-e-mover-sales-reps)
-  - [Criar e mover times](#criar-e-mover-times)
-  - [Definir a carteira de clientes](#definir-a-carteira-de-clientes)
-  - [Fazer alterações em massa](#fazer-alteracoes-em-massa)
-  - [Consultar a estrutura atual](#consultar-a-estrutura-atual)
-  - [Desfazer uma ação](#desfazer-uma-acao)
-- [O que o agente não faz](#o-que-o-agente-nao-faz)
-- [Exemplos de solicitação](#exemplos-de-solicitacao)
 
 ## Casos de uso
 
@@ -37,25 +21,7 @@ O **AI Sales Team Management** interpreta o que você descreve e prepara a mudan
 - **Definir a carteira de clientes:** vincule [Contratos B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) já existentes a um time, para limitar o que os sales reps daquele time acessam no **VTEX Sales App**.
 - **Alterar vários registros de uma vez:** descreva a mudança na conversa ou envie um arquivo, revise o plano e confirme.
 
-## Gerenciando times e carteira de clientes
-
-No Admin VTEX, acesse **Apps** > **Sales Management** > **Sales Team**.
-
-### Como o agente funciona
-
-Você pode escrever o pedido em linguagem natural. Para operações em massa, também pode enviar um arquivo XLSX, CSV ou TXT.
-
-> ℹ️ Antes de criar, editar ou remover qualquer item, o agente apresenta um plano e espera a sua confirmação explícita. Nenhuma dessas ações é executada sem essa confirmação.
-
-Quando o **AI Sales Team Management** não sabe ou não tem acesso a uma informação, ele diz isso.
-
-Antes de agir, o agente também confere o pedido:
-
-- **Nomes iguais ou parecidos:** se você pedir para criar o time "Vendass Sul" e já existir "Vendas Sul", o agente pergunta o que você pretende, em vez de assumir.
-- **Papéis que não existem:** um pedido de papel que não está disponível, como "Diretor Regional", não é aplicado.
-- **Contratos que não existem:** o agente não vincula um contrato que não está na conta.
-
-### Conceitos
+## Conceitos
 
 | **Termo** | **Significado** |
 | :---- | :---- |
@@ -64,7 +30,28 @@ Antes de agir, o agente também confere o pedido:
 | **Carteira de clientes** | Contratos vinculados a um time, ou a um subtime exclusivo de um sales rep. |
 | **Contrato** | Contrato B2B já existente, usado para o vínculo com um time. |
 
-### Vínculo de contratos e visibilidade no VTEX Sales App
+## Pré-requisitos
+
+Como o **AI Sales Team Management** vincula contratos a times, a conta precisa ter [Contratos B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) cadastrados para que você defina a carteira de clientes. O agente não cria contratos novos e não vincula contratos que não existem na conta.
+
+## Acessar o agente
+
+No Admin VTEX, acesse **Apps** > **Sales Management** > **Sales Team**. Nessa página, você pode escrever a solicitação em linguagem natural ou anexar um arquivo XLSX, CSV ou TXT para operações em massa.
+
+## Regras do funcionamento
+
+> ℹ️ Antes de criar, editar ou remover qualquer item, o agente apresenta um plano e espera a sua confirmação explícita. Nenhuma dessas ações é executada sem essa confirmação.
+
+Além da confirmação do plano, o **AI Sales Team Management** opera a partir das seguintes regras:
+
+- **Desambiguação de nomes:** se você pedir para criar o time "Vendass Sul" e já existir "Vendas Sul", o agente pergunta o que você pretende, em vez de assumir.
+- **Validação de papéis:** um pedido de papel que não está disponível, como "Diretor Regional", não é aplicado.
+- **Validação de contratos:** o agente não vincula um contrato que não está na conta.
+- **Alerta de contrato compartilhado:** quando um contrato já está vinculado a outro time, o agente avisa, mas não impede o vínculo.
+- **Respostas sem suposições:** quando o agente não sabe ou não tem acesso a uma informação, ele informa isso.
+- **Consultas dentro do seu acesso:** as respostas sobre a estrutura atual consideram o acesso de quem pergunta.
+
+## Vínculo de contratos e visibilidade no VTEX Sales App
 
 Vincular um contrato a um time define a carteira daquele time e muda o que o sales rep vê no **VTEX Sales App**.
 
@@ -73,7 +60,7 @@ Vincular um contrato a um time define a carteira daquele time e muda o que o sal
 
 > ⚠️ Um time sem contrato vinculado enxerga todos os contratos da conta. Confirme os vínculos antes de contar com uma visão restrita no **VTEX Sales App**.
 
-Exemplo:
+**Exemplo:**
 
 - O Time Sul tem os contratos 100 e 200 vinculados. Os sales reps desse time veem e criam pedidos apenas para esses contratos.
 - O Time Norte não tem contrato vinculado. Os sales reps desse time veem todos os contratos da conta.
@@ -82,17 +69,31 @@ Um mesmo contrato pode ser vinculado a mais de um time. O agente avisa quando de
 
 Não há carteira individual fora de um subtime. Para um sales rep ter uma carteira só dele, crie um subtime exclusivo para essa pessoa e vincule os contratos apenas a esse subtime.
 
+## Gerenciar times, sales reps e carteira de clientes
+
+> ℹ️ Os exemplos de solicitação apresentados a seguir são apenas ilustrativos e não são a única forma de pedir uma ação ao agente.
+
+Você pode realizar as seguintes ações:
+
+- [Registrar e mover sales reps](#registrar-e-mover-sales-reps)
+- [Criar e mover times](#criar-e-mover-times)
+- [Definir a carteira de clientes](#definir-a-carteira-de-clientes)
+- [Fazer alterações em massa](#fazer-alteracoes-em-massa)
+- [Revisar e confirmar o plano](#revisar-e-confirmar-o-plano)
+- [Consultar a estrutura atual](#consultar-a-estrutura-atual)
+- [Desfazer uma ação](#desfazer-uma-acao)
+
 ### Registrar e mover sales reps
 
 Para registrar um sales rep, informe nome, email e time. O código do sales rep e a loja vinculada são opcionais.
 
-Exemplo: "Registre o sales rep José Almeida, jose@acme.com, no time Nordeste."
+**Exemplo:** "Registre o sales rep José Almeida, jose@acme.com, no time Nordeste."
 
 Você pode adicionar ou remover sales reps de um time, um a um ou em massa. Remover um sales rep de um time desvincula essa pessoa do time. O usuário permanece na conta.
 
 Para mover um sales rep, indique a pessoa e o time de destino.
 
-Exemplo: "Movimente o sales rep José Almeida, jose@acme.com, para o time Sudeste."
+**Exemplo:** "Movimente o sales rep José Almeida, jose@acme.com, para o time Sudeste."
 
 ### Criar e mover times
 
@@ -100,38 +101,45 @@ Exemplo: "Movimente o sales rep José Almeida, jose@acme.com, para o time Sudest
 
 Você pode criar um time, editar um time existente ou movê-lo para dentro de outro time.
 
-Exemplo de criação: "Cria o time Vendas Sul."
+**Exemplo de criação:** "Cria o time Vendas Sul."
 
-Exemplo de movimentação: "Move o subtime Contagem para dentro do time Nordeste."
+**Exemplo de movimentação:** "Move o subtime Contagem para dentro do time Nordeste."
 
 ### Definir a carteira de clientes
 
-Para vincular um contrato a um time, indique o contrato e o time.
+Para vincular um contrato a um time, indique o contrato e o time. Antes de vincular, confira as regras de [vínculo de contratos e visibilidade no VTEX Sales App](#vinculo-de-contratos-e-visibilidade-no-vtex-sales-app).
 
-Exemplo: "Associa o contrato 4521 ao time Vendas Sul."
+**Exemplo:** "Associa o contrato 4521 ao time Vendas Sul."
 
 Para a carteira de um sales rep, crie antes o subtime exclusivo e vincule os contratos somente a esse subtime.
 
-Exemplo: "Quero criar subtimes baseados na carteira de cada sales rep."
+**Exemplo:** "Quero criar subtimes baseados na carteira de cada sales rep."
 
 ### Fazer alterações em massa
 
-As operações deste guia podem ser pedidas na conversa ou por arquivo XLSX, CSV ou TXT.
+As operações deste guia podem ser pedidas na conversa ou por arquivo XLSX, CSV ou TXT. Para usar um arquivo, anexe-o à conversa e envie a solicitação.
 
-Exemplos:
+**Exemplos:**
 
 - "Processa essa planilha de sales reps."
 - "Segue a planilha com a carteira de clientes por time."
 
-O agente lê o arquivo e separa as linhas válidas das inválidas. Cada linha inválida, como uma linha sem email, é informada com o motivo da rejeição. As linhas válidas seguem no plano. Esse processamento parcial é o comportamento esperado.
+> ℹ️ O processamento parcial é o comportamento esperado. O agente lê o arquivo inteiro e separa as linhas válidas das inválidas, seguindo estas regras:
+>
+> - As linhas válidas seguem no plano.
+> - Cada linha inválida, como uma linha sem email, é informada com o motivo da rejeição.
 
-Quando a alteração vale para mais de um usuário, por arquivo ou pela conversa, o agente mostra as mensagens de erro e um **canvas de validação** com o que será feito. Revise esse resumo e confirme antes de a mudança ser aplicada.
+### Revisar e confirmar o plano
+
+Antes de criar, editar ou remover qualquer item, o agente apresenta um plano com o que será feito. Revise o plano e confirme a operação para que o agente aplique as mudanças.
+
+Quando a alteração vale para mais de um usuário, por arquivo ou pela conversa, o agente mostra as mensagens de erro e um **canvas de validação** com o que será feito. Como essa mudança afeta vários usuários de uma vez, revise esse resumo antes de confirmar.
 
 ### Consultar a estrutura atual
 
 Você pode perguntar pela estrutura sem alterá-la. A resposta considera o acesso de quem pergunta.
 
-Exemplos:
+**Exemplos:**
 
 - "Quais contratos o Vendas Sul tem acesso?"
 - "Quais usuários existem no time Vendas Norte?"
@@ -140,17 +148,19 @@ Exemplos:
 
 Na mesma sessão, você pode desfazer criações recentes de times e de usuários.
 
-Exemplo: "Desfaz a criação do time X."
+**Exemplo:** "Desfaz a criação do time X."
 
 > ❗ O vínculo de um contrato não pode ser desfeito no **AI Sales Team Management**.
 
 ## O que o agente não faz
 
-- Não acessa nem altera dados de compradores, contatos ou organizações do [**B2B Buyer Portal**](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). O agente usa contratos já existentes somente para vinculá-los a times.
-- Não cria contratos B2B novos.
-- Não envia emails nem outras mensagens.
-- Não eleva permissões de usuário.
-- Não mostra histórico de auditoria. Para consultar esse histórico, use o [**Audit**](https://help.vtex.com/pt/docs/tutorials/audit).
+O **AI Sales Team Management** tem as seguintes limitações de escopo:
+
+- **Dados do B2B Buyer Portal:** não acessa nem altera dados de compradores, contatos ou organizações do [**B2B Buyer Portal**](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). O agente usa contratos já existentes somente para vinculá-los a times.
+- **Criação de contratos:** não cria contratos B2B novos.
+- **Comunicações:** não envia emails nem outras mensagens.
+- **Permissões:** não eleva permissões de usuário.
+- **Histórico de auditoria:** não mostra histórico de auditoria. Para consultar esse histórico, use o [**Audit**](https://help.vtex.com/pt/docs/tutorials/audit).
 
 ## Exemplos de solicitação
 
