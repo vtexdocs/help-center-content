@@ -27,7 +27,7 @@ Para resolver esse problema, siga os passos abaixo:
 
 ### Exclua os documentos da entidade pela API
 
-Siga as instruções do guia [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) para excluir os documentos armazenados na entidade de dados. Apenas essa exclusão via API reduz o volume contabilizado na cobrança mensal.
+Siga as instruções do guia [Deleting documents in bulk in Master Data](https://developers.vtex.com/docs/guides/deleting-documents-in-bulk-in-master-data) para excluir os documentos armazenados na entidade de dados. Apenas essa exclusão via API reduz o volume contabilizado na cobrança mensal.
 
 ### Confirme a redução no dashboard de uso do Master Data
 
