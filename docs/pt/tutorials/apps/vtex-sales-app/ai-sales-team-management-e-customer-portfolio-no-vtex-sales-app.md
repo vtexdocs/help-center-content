@@ -8,16 +8,18 @@ slugEN: ai-sales-team-management-and-customer-portfolio-on-vtex-sales-app
 locale: pt
 ---
 
-O **AI Sales Team Management** é um agente de inteligência artificial que permite administrar times de vendas, sales reps e a carteira de clientes de quem usa o [VTEX Sales App](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes) por meio de uma experiência conversacional no Admin VTEX. Este artigo explica o funcionamento do agente e apresenta as ações que você pode realizar de forma conversacional.
+> ℹ️ O **AI Sales Team Management** está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Atualmente, a disponibilidade é somente para contas selecionadas. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
 
-> ⚠️ A gestão de vendedores de loja física do **VTEX Sales App** está em [Gerenciar vendedores no VTEX Sales App](https://help.vtex.com/pt/docs/tracks/gerenciar-vendedores-no-vtex-sales-app). O **AI Sales Team Management** administra times de vendas, sales reps e a carteira de clientes da operação B2B.
+O **AI Sales Team Management** é um agente de inteligência artificial que permite administrar times de vendas, [sales reps](#conceitos) e a carteira de clientes de quem usa o [VTEX Sales App](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes) por meio de uma experiência conversacional no Admin VTEX. Este artigo explica o funcionamento do agente e apresenta as ações que você pode realizar de forma conversacional.
+
+> ⚠️ A gestão de vendedores de loja física do **Sales App** está em [Gerenciar vendedores no VTEX Sales App](https://help.vtex.com/pt/docs/tracks/gerenciar-vendedores-no-vtex-sales-app). O **AI Sales Team Management** administra times de vendas, sales reps e a carteira de clientes da operação B2B.
 
 ## Casos de uso
 
 O **AI Sales Team Management** interpreta o que você descreve e prepara a mudança na estrutura comercial para a sua confirmação. Veja alguns cenários comuns:
 
 - **Montar o organograma de vendas:** crie times e subtimes na mesma lógica da operação, como regionais, cidades ou carteiras.
-- **Cadastrar sales reps:** informe nome, email e time para incluir uma pessoa na estrutura.
+- **Cadastrar sales reps:** informe nome, email e time para incluir uma pessoa do time comercial na estrutura.
 - **Definir a carteira de clientes:** vincule [Contratos B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) já existentes a um time, para limitar o que os sales reps daquele time acessam no **VTEX Sales App**.
 - **Alterar vários registros de uma vez:** descreva a mudança na conversa ou envie um arquivo, revise o plano e confirme.
 
@@ -25,9 +27,9 @@ O **AI Sales Team Management** interpreta o que você descreve e prepara a mudan
 
 | **Termo** | **Significado** |
 | :---- | :---- |
-| **Time** | Unidade da estrutura de vendas. Um time pode ficar abaixo de outro, como time pai e subtime, para representar o organograma real. |
-| **Sales rep** | Pessoa do time comercial cadastrada no agente. O papel disponível para atribuição é `inStore Sales Person`. O agente não cria papéis. |
-| **Carteira de clientes** | Contratos vinculados a um time, ou a um subtime exclusivo de um sales rep. |
+| **Time** | Unidade da estrutura de vendas. Um time pode ficar hierarquicamente abaixo de outro, como time pai e subtime, para representar o organograma real. |
+| **Sales rep** | Pessoa do time comercial cadastrada no agente. O perfil do Licence Manager disponível para sales reps é [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person). O **AI Sales Team Management** não cria perfis de acesso. |
+| **Carteira de clientes** | Contratos vinculados a um time ou subtime exclusivo de um sales rep. |
 | **Contrato** | Contrato B2B já existente, usado para o vínculo com um time. |
 
 ## Pré-requisitos
@@ -36,7 +38,7 @@ Como o **AI Sales Team Management** vincula contratos a times, a conta precisa t
 
 ## Acessar o agente
 
-No Admin VTEX, acesse **Apps** > **Sales Management** > **Sales Team**. Nessa página, você pode escrever a solicitação em linguagem natural ou anexar um arquivo XLSX, CSV ou TXT para operações em massa.
+No Admin VTEX, acesse **Apps > Sales Management > Sales Team**. Nessa página, você pode escrever a solicitação em linguagem natural ou anexar um arquivo `.xlsx`, `.csv` ou `.txt` para operações em massa.
 
 ## Regras do funcionamento
 
@@ -44,26 +46,23 @@ No Admin VTEX, acesse **Apps** > **Sales Management** > **Sales Team**. Nessa p�
 
 Além da confirmação do plano, o **AI Sales Team Management** opera a partir das seguintes regras:
 
-- **Desambiguação de nomes:** se você pedir para criar o time "Vendass Sul" e já existir "Vendas Sul", o agente pergunta o que você pretende, em vez de assumir.
-- **Validação de papéis:** um pedido de papel que não está disponível, como "Diretor Regional", não é aplicado.
+- **Desambiguação de nomes:** se você pedir para criar o time "vendas sul" e já existir "VENDAS SUL", o agente pergunta o que você pretende, em vez de assumir.
+- **Validação de perfis de acesso do storefront:** um pedido de perfil de acesso do Storefront que não existe, não é aplicado. Veja a lista completa em [Adicionar usuários à organização compradora](https://help.vtex.com/pt/docs/tutorials/adicionar-usuarios-a-organizacao-compradora).
 - **Validação de contratos:** o agente não vincula um contrato que não está na conta.
 - **Alerta de contrato compartilhado:** quando um contrato já está vinculado a outro time, o agente avisa, mas não impede o vínculo.
 - **Respostas sem suposições:** quando o agente não sabe ou não tem acesso a uma informação, ele informa isso.
-- **Consultas dentro do seu acesso:** as respostas sobre a estrutura atual consideram o acesso de quem pergunta.
+- **Controle de permissão a usuários:** cada usuário consulta informações restritas ao seu nível de acesso. Por exemplo, um sales rep não pode ver os contratos de outro time.
 
-## Vínculo de contratos e visibilidade no VTEX Sales App
+## Vínculo de contratos e visibilidade no Sales App
 
-Vincular um contrato a um time define a carteira daquele time e muda o que o sales rep vê no **VTEX Sales App**.
+Vincular um contrato a um time define a carteira daquele time e muda o que o sales rep vê no **Sales App**.
 
-- **Time com contratos vinculados:** o **VTEX Sales App** mostra apenas as quotes e os pedidos daqueles contratos, e a criação de pedidos fica restrita a eles.
-- **Time sem nenhum contrato vinculado:** os sales reps desse time enxergam todos os contratos, sem restrição.
+- **Time com contratos vinculados:** o **Sales App** mostra apenas as cotações e os pedidos daqueles contratos e a criação de pedidos fica restrita aos sales reps desse time.
+  - Exemplo: o "Time Sul" possui ao todo 80 contratos, sendo 30 deles vinculados. Portanto, os sales reps do time comercial têm acesso de visualição e criação de pedidos somente para esses 30 contratos.
+- **Time sem contratos vinculados:** os sales reps desse time visualizam todos os contratos da conta.
+  - Exemplo: o "Time Norte" tem 100 contratos e nenhum deles é vinculado. Isso significa que os sales reps do time visualizam e criam pedidos para os 100 contratos.
 
-> ⚠️ Um time sem contrato vinculado enxerga todos os contratos da conta. Confirme os vínculos antes de contar com uma visão restrita no **VTEX Sales App**.
-
-**Exemplo:**
-
-- O Time Sul tem os contratos 100 e 200 vinculados. Os sales reps desse time veem e criam pedidos apenas para esses contratos.
-- O Time Norte não tem contrato vinculado. Os sales reps desse time veem todos os contratos da conta.
+> ⚠️ Recomendamos que você confirme os vínculos contratuais antes de definir restrições ao time de vendas.
 
 Um mesmo contrato pode ser vinculado a mais de um time. O agente avisa quando detecta isso, mas não impede o vínculo. Se o contrato 100 estiver no Time Sul e no Time Sudeste, os sales reps dos dois times passam a enxergar esse contrato.
 
