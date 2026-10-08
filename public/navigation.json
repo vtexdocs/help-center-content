@@ -25,6 +25,52 @@
           "children": [
             {
               "name": {
+                "en": "October",
+                "es": "Octubre",
+                "pt": "Outubro"
+              },
+              "slug": {
+                "en": "2026-october",
+                "es": "2026-octubre",
+                "pt": "2026-outubro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Black Friday 2026: Get your store ready with our best practices guide",
+                    "es": "Black Friday 2026: prepara tu tienda con nuestra guía de buenas prácticas",
+                    "pt": "Black Friday 2026: prepare sua loja com nosso guia de boas práticas"
+                  },
+                  "slug": {
+                    "en": "2026-10-06-black-friday-2026-get-your-store-ready-with-our-best-practices-guide",
+                    "es": "2026-10-06-black-friday-2026-prepara-tu-tienda-con-nuestra-guia-de-buenas-practicas",
+                    "pt": "2026-10-06-black-friday-2026-prepare-sua-loja-com-nosso-guia-de-boas-praticas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "VTEX CX Platform: support for BSUID and WhatsApp usernames",
+                    "es": "VTEX CX Platform: soporte para BSUID y nombres de usuario de WhatsApp",
+                    "pt": "VTEX CX Platform: suporte a BSUID e usernames do WhatsApp"
+                  },
+                  "slug": {
+                    "en": "2026-10-06-vtex-cx-platform-support-for-bsuid-and-whatsapp-usernames",
+                    "es": "2026-10-06-vtex-cx-platform-soporte-para-bsuid-y-nombres-de-usuario-de-whatsapp",
+                    "pt": "2026-10-06-vtex-cx-platform-suporte-a-bsuid-e-usernames-do-whatsapp"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "September",
                 "es": "Septiembre",
                 "pt": "Setembro"
@@ -62,21 +108,6 @@
                     "en": "2026-09-23-budget-pacing-now-available-in-vtex-ads",
                     "es": "2026-09-23-budget-pacing-disponible-en-vtex-ads",
                     "pt": "2026-09-23-budget-pacing-disponivel-no-vtex-ads"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Ship from store for marketplaces available in open beta",
-                    "es": "Ship from store for marketplaces",
-                    "pt": "Ship from store para marketplaces disponível em open beta"
-                  },
-                  "slug": {
-                    "en": "2026-09-15-ship-from-store-for-marketplace",
-                    "es": "2026-09-15-ship-from-store-for-marketplaces",
-                    "pt": "2026-09-15-inventario-regionalizado-disponivel-para-o-magalu"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25326,6 +25357,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Configuring persistent login for customers",
+                    "es": "Configurar el inicio de sesión persistente para clientes",
+                    "pt": "Configurar login persistente para clientes"
+                  },
+                  "slug": {
+                    "en": "configuring-persistent-login-for-customers",
+                    "es": "configurar-el-inicio-de-sesion-persistente-para-clientes",
+                    "pt": "configurar-login-persistente-para-clientes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -31290,14 +31336,14 @@
                 },
                 {
                   "name": {
-                    "en": "Importing Amazon FBA Onsite orders",
-                    "es": "Importación de pedidos de Amazon FBA Onsite",
-                    "pt": "Importação de Pedidos Amazon FBA Onsite"
+                    "en": "AMARO Integration",
+                    "es": "Integración con AMARO",
+                    "pt": "Integração com a AMARO"
                   },
                   "slug": {
-                    "en": "importing-amazon-fba-onsite-orders",
-                    "es": "importacion-de-pedidos-de-amazon-fba-onsite",
-                    "pt": "importacao-de-pedidos-amazon-fba-onsite"
+                    "en": "amaro-integration",
+                    "es": "integracion-con-amaro",
+                    "pt": "integracao-com-a-amaro"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -31598,21 +31644,6 @@
                     "en": "refurbished-products-on-mercado-libre",
                     "es": "productos-reacondicionados-en-mercado-libre",
                     "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Ship from store for marketplaces",
-                    "es": "Ship from store para marketplaces",
-                    "pt": "Ship from store para marketplaces"
-                  },
-                  "slug": {
-                    "en": "ship-from-store-for-marketplaces",
-                    "es": "ship-from-store-para-marketplaces",
-                    "pt": "ship-from-store-para-marketplaces"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -33908,8 +33939,8 @@
                 },
                 {
                   "name": {
-                    "en": "Configuring extra safety guardrails per project",
-                    "es": "Configurar capas adicionales de seguridad por proyecto",
+                    "en": "Configuring safety guardrails per project",
+                    "es": "Configurar barreras de seguridad por proyecto",
                     "pt": "Configurar camadas extras de segurança por projeto"
                   },
                   "slug": {
@@ -35878,6 +35909,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Collections Agent",
+                    "es": "Agente de Colecciones",
+                    "pt": "Agente de Coleções"
+                  },
+                  "slug": {
+                    "en": "collections-agent",
+                    "es": "agente-de-colecciones",
+                    "pt": "agente-de-colecoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Creating or editing categories, attributes, and variations (Beta)",
                     "es": "Crear o editar categorías, atributos y variaciones (Beta)",
                     "pt": "Criar ou editar categorias, atributos e variações (Beta)"
@@ -36213,6 +36259,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Activating Delivery Promise",
+                    "es": "Activar Delivery Promise",
+                    "pt": "Ativar o Delivery Promise"
+                  },
+                  "slug": {
+                    "en": "activate-delivery-promise",
+                    "es": "activar-delivery-promise",
+                    "pt": "ativar-delivery-promise"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Delivery Promise (Beta)",
