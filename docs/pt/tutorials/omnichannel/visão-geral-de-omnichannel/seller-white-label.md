@@ -3,7 +3,7 @@ title: 'Seller white label'
 id: 5orlGHyDHGAYciQ64oEgKa
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:34.034Z
-updatedAt: 2023-07-14T15:15:56.338Z
+updatedAt: 2026-10-08T19:10:00.000Z
 publishedAt: 2023-07-14T15:15:56.338Z
 firstPublishedAt: 2019-01-24T22:03:52.175Z
 contentType: tutorial
@@ -44,4 +44,5 @@ Utilizar a conta franquia é estratégico para operações que desejam expandir 
 - [Seleção de sellers white label](/pt/docs/tutorials/selecao-de-sellers-white-label)
 - [Configurar marketplace VTEX](/pt/docs/tutorials/configurar-marketplace-vtex)
 - [Adicionar seller](/pt/docs/tutorials/adicionar-seller)
+- [Configurar a política comercial de um seller white label em loja com restrição de acesso](/pt/docs/tutorials/configurar-a-politica-comercial-de-um-seller-white-label-em-loja-com-restricao-de-acesso)
 - [Escolher entre conta padrão, conta franquia ou Seller Portal](/pt/docs/tutorials/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal)
