@@ -3,7 +3,7 @@ title: 'Configurar o domínio da loja'
 id: tutorials_2450
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:00.603Z
-updatedAt: 2025-03-20T21:58:47.611Z
+updatedAt: 2026-10-01T18:48:35.000Z
 publishedAt: 2025-03-20T21:58:47.611Z
 firstPublishedAt: 2017-04-27T23:03:51.625Z
 contentType: tutorial
@@ -80,12 +80,12 @@ Para cadastrar um novo host, ele deve estar de acordo com as práticas apresenta
 7. Clique no botão `Adicionar`.
 8. Clique no botão `Salvar`.
 
-Após essas etapas, será possível [configurar o apontamento de DNS para a VTEX](/pt/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
+Após essas etapas, será possível [configurar o apontamento de DNS para a VTEX](https://help.vtex.com/pt/docs/tracks/go-live#realizar-apontamento-de-dns).
 
-> ⚠️ Lojas [FastStore](https://www.faststore.dev/) também precisam configurar um endereço com o subdomínio `secure`. Acesse o guia [Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns) para mais detalhes.
+> ⚠️ Lojas [FastStore](https://developers.vtex.com/docs/guides/faststore) também precisam configurar um endereço com o subdomínio `secure`. Acesse o guia [Configuring external DNS for a custom domain](https://developers.vtex.com/docs/guides/faststore/go-live-1-configuring-external-dns) para mais detalhes.
 
 > ❗ Caso a sua operação possua mais de uma conta VTEX ou [subcontas](/pt/docs/tutorials/gerenciando-uma-multiloja), não troque o host de uma conta para outra. Isso provocará falhas em diversos aspectos da sua loja.
 
 ## Mudar o host
 
-A plataforma VTEX é preparada para suportar mudanças de host sem impactos negativos. Caso seja necessário alterar o host da loja, siga o passo a passo descrito em [Alterar o domínio da loja](/pt/tutorial/alterar-o-dominio-da-loja--frequentlyAskedQuestions_626/).
+A plataforma VTEX é preparada para suportar mudanças de host sem impactos negativos. Caso seja necessário alterar o host da loja, siga o passo a passo descrito em [Alterar o domínio da loja](https://help.vtex.com/pt/docs/tutorials/alterar-o-dominio-da-loja).

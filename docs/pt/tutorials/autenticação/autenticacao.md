@@ -71,6 +71,10 @@ Se a opção de login com senha estiver habilitada, é possível determinar que 
 
 Após o período definido, ao realizar uma tentativa de login, o usuário precisará redefinir a senha.
 
+### Configurar a duração da sessão do cliente
+
+Além de gerenciar os métodos de login e a expiração de senha, você pode configurar por quanto tempo um cliente permanece autenticado na sua loja virtual. Por padrão, as sessões expiram após 24 horas, mas você pode estender esse período até 365 dias usando a funcionalidade de login persistente. Para mais detalhes, consulte o guia [Configurar login persistente para clientes](/pt/docs/tutorials/configurar-login-persistente-para-clientes).
+
 ## Desenvolvimento de integrações
 
 Ao desenvolver integrações utilizando as [APIs](https://developers.vtex.com/docs/guides/getting-started) da VTEX, é preciso fornecer parâmetros de autenticação para realizar as operações desejadas. Veja a seguir os métodos disponíveis:

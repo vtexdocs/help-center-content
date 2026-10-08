@@ -29,7 +29,7 @@ Após clicar em Habilitar, selecione o link de [Captura](/pt/docs/tutorials/form
 
 ![RdStation CRM 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-assisted-sales-suiteshare/rdstation-crm-suiteshare_3.png)
 
-Em seguida, insira o seu Token. Caso esteja com dificuldades para encontrar o seu token, [Clique Aqui](\"https://crmsupport.rdstation.com.br/hc/pt-br/articles/360018468312-O-que-%C3%A9-Token-Como-ativ%C3%A1-lo-\").
+Em seguida, insira o seu Token. Caso esteja com dificuldades para encontrar o seu token, [Clique Aqui](https://crmsupport.rdstation.com.br/hc/pt-br/articles/360018468312-O-que-%C3%A9-Token-Como-ativ%C3%A1-lo-).
 
 ![RdStation CRM 4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-assisted-sales-suiteshare/rdstation-crm-suiteshare_4.png)
 

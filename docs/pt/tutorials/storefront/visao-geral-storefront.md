@@ -3,7 +3,7 @@ title: 'Storefront'
 id: 7cRrL2xtY7HDqiyep1PxIS
 status: PUBLISHED
 createdAt: 2023-03-23T17:35:21.202Z
-updatedAt: 2023-03-23T18:43:09.036Z
+updatedAt: 2026-09-02T18:43:09.036Z
 publishedAt: 2023-03-23T18:43:09.036Z
 firstPublishedAt: 2023-03-23T17:49:06.557Z
 contentType: tutorial
@@ -17,42 +17,33 @@ order: 1
 categoryCover: true
 ---
 
-O Storefront, ou vitrine, é a interface gráfica através da qual os visitantes interagem com o website de uma loja. O Storefront define a experiência do usuário e a identidade visual do website através de componentes gráficos, tipografia e paleta de cores. Estes elementos são customizáveis e podem ser gerenciados através de um Sistema de Gerenciamento de Conteúdo (CMS, do inglês _Content Management System_).
+O Storefront, ou vitrine, é a interface gráfica através da qual os visitantes interagem com o website de uma loja. O Storefront define a experiência do usuário e a identidade visual do website através de componentes gráficos, tipografia e paleta de cores. Estes elementos são customizáveis e podem ser gerenciados através do Sistema de Gerenciamento de Conteúdo (CMS, do inglês _Content Management System_) da sua loja.
 
-O Storefront engloba ainda o VTEX Intelligent Search, uma ferramenta que auxilia o cliente em sua jornada de compra, apresentando resultados de busca desde a primeira interação com a barra de pesquisa.
+Essas operações são realizadas no menu **Storefront** do seu Admin VTEX.
 
-Essas operações são realizadas no menu _Storefront_ do seu Admin VTEX. 
+Confira abaixo as diferentes seções disponíveis nesse menu.
 
-Confira abaixo mais detalhes sobre as diferentes seções e páginas deste menu.
+## CMS para FastStore e Headless Stores
 
-## Gerenciamento de Conteúdo
+Disponível para lojas FastStore (v3 e versões posteriores) e Headless Stores, o CMS oferece aos comerciantes a flexibilidade e o controle necessários para gerenciar e estruturar de forma independente o conteúdo do storefront, incluindo páginas, layouts, templates, branches e mídias. Para mais informações, consulte [CMS](/pt/docs/tutorials/cms-overview).
 
-A seção de Gerenciamento de Conteúdo concentra as ferramentas necessárias para criar, editar e publicar conteúdo web no Storefront da loja. 
+## CMS para Store Framework
 
-A seção inclui as seguintes páginas e respectivas funcionalidades:
+Para lojas que utilizam o Store Framework, o conteúdo e as configurações do storefront são gerenciados nas seguintes páginas:
 
-- [Layout](/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW): associe o projeto de front da sua loja com uma política comercial.  
-- __Pages__: crie páginas customizadas para a sua loja.  
-- [Site Editor](/pt/subcategory/site-editor--9Arh3cJIOYlfSD1MUC2h3): crie, edite, publique e programe modificações nos componentes e comportamento do seu storefront.  
-- __Banners__: crie regras para exibir diferentes banners no seu storefront. 
-- __Styles__: gerencie a tipografia e as paletas de cores do storefront.   
-- __Redirects__: crie redirecionamentos de uma URL da sua loja para outra.  
+- [Pages](/pt/docs/tutorials/paginas-visao-geral): crie páginas customizadas para a sua loja e gerencie redirecionamentos de URL.
+- [Site Editor](/pt/docs/tutorials/site-editor-visao-geral): crie, edite, publique e programe modificações nos componentes e no comportamento do seu storefront.
+- [Styles](/pt/docs/tutorials/estilos-visao-geral): gerencie a tipografia e a paleta de cores da sua loja.
+- [Store](/pt/docs/tutorials/cms-loja-visao-geral): configure as definições de SEO, os flags de otimização de performance e as configurações de PWA da sua loja. Consulte a [visão geral das Configurações de Storefront](/pt/docs/tutorials/visao-geral-configuracoes-de-storefront) para ver a lista completa de configurações disponíveis.
 
-## Intelligent Search
+## CMS Portal (Legado)
 
-O Intelligent Search é um aplicativo de busca inteligente para ecommerce que auxilia o cliente na jornada de compra. Desde o início da interação do usuário com a barra de pesquisa, a ferramenta apresenta sugestões e resultados de busca estratégicos.
+O CMS Portal (Legado) é a interface original de gerenciamento de conteúdo, disponível para lojas que ainda não migraram para o Store Framework ou para o novo CMS. Ele utiliza [Layouts](/pt/docs/tutorials/o-que-sao-layouts), templates e placeholders para controlar qual conteúdo é exibido em cada página do seu website.
 
-A seção inclui as seguintes páginas:
+## Headless CMS (Legado)
 
-- [Regras de Relevância](/pt/v4/docs/regras-de-relevancia--1Eb7AncaXipJGDuY0sz9IS): define a ordem dos produtos no resultado de busca.  
-- [Configurações da busca](/pt/v4/docs/configuracoes-da-busca--3vB1ISndZI2dEEa63TeJHy): compreende todos os ajustes globais do VTEX Intelligent Search. 
-- [Redirecionamentos](/pt/v4/docs/redirecionamentos--e5KdkBkx2ZIB4d4sFgPnT): direciona o cliente para qualquer outra página, interna ou externa ao seu site.  
+Disponível para lojas FastStore (v1 e v2) e Headless Stores que ainda não migraram para o novo CMS, o Headless CMS (Legado) permite gerenciar o conteúdo de forma independente do frontend que o exibe, por meio de Projects, Pages e Singleton content types. Para mais informações, consulte [Headless CMS (Legado)](/pt/docs/tutorials/headless-cms-visao-geral).
 
-As seguintes páginas estarão em breve na experiência repaginada:
+## Agentic CX
 
-- [Explicação da busca](/pt/docs/tutorials/explicacao-da-busca): interpreta um termo pesquisado e apresenta a lista de produtos como um resultado de pesquisa.  
-- [Regras de merchandising](/pt/docs/tutorials/criar-regra-de-merchandising-editor-manual): manipula resultados dentro de uma busca.   
-- [Sinônimos](/pt/docs/tutorials/criar-sinonimos): permite o cadastro de sinônimos – palavras de mesmo sentido – para um termo de busca específico, aumentando a chance de uma busca com sucesso.  
-- [Histórico da indexação](/pt/docs/tutorials/historico-da-indexacao): monitora a situação de sincronização de todos os produtos do Catálogo enviados para o Intelligent Search.  
-
-- [Analytics](/pt/docs/tutorials/intelligent-search-analytics): organiza os dados relacionados às pesquisas realizadas na loja e possibilita exportar esses dados.  
+A [VTEX CX Platform](/pt/docs/tutorials/introducao-ao-weni-agentic-ai) é uma ferramenta nativa de atendimento ao cliente que utiliza agentes com inteligência artificial para interagir com seus clientes, como exibir o catálogo da sua loja, criar carrinhos e recuperar carrinhos abandonados.

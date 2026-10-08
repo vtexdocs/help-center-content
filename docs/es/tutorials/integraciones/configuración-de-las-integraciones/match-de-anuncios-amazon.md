@@ -1,10 +1,10 @@
 ---
 title: 'Match de anuncios Amazon'
 id: 7fRfoP69kYgg8znImMhyQ0
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2023-05-29T15:07:38.220Z
-updatedAt: 2023-07-27T21:32:07.360Z
-publishedAt: 2023-07-27T21:32:07.360Z
+updatedAt: 2026-09-17T11:29:00.000Z
+publishedAt: 
 firstPublishedAt: 2023-05-29T16:38:11.840Z
 contentType: tutorial
 productTeam: Channels

@@ -3,7 +3,7 @@ title: 'Configuring the store domain'
 id: tutorials_2450
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:00.603Z
-updatedAt: 2025-03-20T21:58:47.611Z
+updatedAt: 2026-10-01T18:48:35.000Z
 publishedAt: 2025-03-20T21:58:47.611Z
 firstPublishedAt: 2017-04-27T23:03:51.625Z
 contentType: tutorial
@@ -80,12 +80,12 @@ To register a new host, they must comply with the guidelines specified in the [R
 7. Click `Add`.
 8. Click `Save`.
 
-After completing these steps, you can [configure DNS pointing to VTEX](/en/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
+After completing these steps, you can [configure DNS pointing to VTEX](https://help.vtex.com/en/docs/tracks/go-live#setting-up-dns-pointing).
 
-> ⚠️ [FastStore](https://www.faststore.dev/) stores also need to configure an address with the `secure` subdomain. Refer to the[ Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns) guide for more details.
+> ⚠️ [FastStore](https://developers.vtex.com/docs/guides/faststore) stores also need to configure an address with the `secure` subdomain. Refer to the [Configuring external DNS for a custom domain](https://developers.vtex.com/docs/guides/faststore/go-live-1-configuring-external-dns) guide for more details.
 
 > ❗ If your operation has more than one VTEX account or [sub-account](/en/docs/tutorials/managing-a-multistore), don't change hosts from one account to another. This will cause failures in many aspects of your store.
 
 ## Changing host
 
-The VTEX platform is designed to support host changes without adverse impacts. If you need to change your store's host, follow the steps described in [Changing the store domain](/en/tutorial/change-the-store-domain--frequentlyAskedQuestions_626/).
+The VTEX platform is designed to support host changes without adverse impacts. If you need to change your store's host, follow the steps described in [Changing the store domain](https://help.vtex.com/en/docs/tutorials/changing-the-store-domain).

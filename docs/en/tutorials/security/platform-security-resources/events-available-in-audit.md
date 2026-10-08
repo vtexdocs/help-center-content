@@ -1,18 +1,12 @@
 ---
 title: 'Events available in Audit'
-id: 6r1Mzcu5NmkmmDLJlz9CCZ
-status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2026-08-25T00:00:00.000Z
-publishedAt: 2025-08-25T18:20:54.585Z
-firstPublishedAt: 2022-06-22T16:28:52.801Z
+updatedAt: 2026-09-17T00:00:00.000Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: events-available-in-audit
-legacySlug: events-available-in-audit
 locale: en
-subcategoryId: 2TNXiKzLZOPxjMTyGiEeJu
 ---
 
 Below, you will find a list of the potential events available in [Audit](/en/docs/tutorials/audit) for each app.
@@ -36,15 +30,19 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 * [VTEX ID](#vtex-id)
 * [Master Data](#master-data)
 * [Headless CMS (Legacy)](#headless-cms)
+* [CMS](#cms)
 * [Seller Management](#seller-management)
 * [Site Editor](#site-editor)
 * [Ad Network](#ad-network)
 * [Card tokens](#card-tokens)
 * [Organizational units](#organizational-units)
+* [Delivery Options](#delivery-options)
+* [Search Optimizer Agent](#search-optimizer-agent)
+* [Authenticator](#authenticator)
 
 > ℹ️ In case you encounter an event in Audit which has not been included in this list, please inform us through the [documentation feedback page](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
-> ⚠️ In the Audit filter options, you can find **Shipping Options**, **Profile System**, and **Billing** options besides the applications listed in this guide. Since these options refer to internal resources or features in closed beta, most accounts will not have events associated with them.
+> ⚠️ In the Audit filter options, you can find **Profile System** and **Billing** options besides the applications listed in this guide. Since these options refer to internal resources or features in closed beta, most accounts will not have events associated with them.
 
 ## OMS
 
@@ -392,6 +390,29 @@ In the **Action** column, all Headless CMS (Legacy) events also display the foll
 * **VARIANT_ID:** unique identifier of the content version.
 * **WORKSPACE**: workspace where the action occurred.
 
+## CMS
+
+| Action | Event description | Event details |
+|---|---|---|
+| entry.delete | Deletion of a Content Platform entry. | Entry ID. |
+| branch.create | Creation of a Content Platform branch. | Branch ID. |
+| branch.update | Update of a Content Platform branch. | Branch ID. |
+| branch.delete | Deletion of a Content Platform branch. | Branch ID. |
+| branch.merge | Merge of a Content Platform branch. | Branch ID. |
+| branch.merge_scheduled | Scheduling of a Content Platform branch merge. | Branch ID. |
+| branch.merge_unscheduled | Cancellation of a scheduled Content Platform branch merge. | Branch ID. |
+| store.create | Creation of a Content Platform store. | Store ID. |
+| store.update | Update of a Content Platform store. | Store ID. |
+| store.default_locale_change | Change of the default locale of a Content Platform store. | Store ID and locale. |
+| store.locale.create | Creation of a locale in a Content Platform store. | Store ID and locale. |
+| store.locale.update | Update of a locale in a Content Platform store. | Store ID and locale. |
+| store.locale.activate | Activation of a locale in a Content Platform store. | Store ID and locale. |
+| store.locale.deactivate | Deactivation of a locale in a Content Platform store. | Store ID and locale. |
+| media.upload | Upload of a media file in Content Platform. | Media ID. |
+| media.create | Creation of a media asset in Content Platform. | Media ID. |
+| media.delete | Deletion of a media asset in Content Platform. | Media ID. |
+| schema.publish | Publication of a schema in the Content Platform Schema Registry. | Schema ID. |
+
 ## Seller Management
 
 | Action | Event details | Event description |
@@ -446,4 +467,39 @@ In the **Action** column, all Headless CMS (Legacy) events also display the foll
 | SaveOrganizationUnit | Creation of an organizational unit. | Organizational unit ID. |
 | UpdateOrganizationUnit | Update of the name of an organizational unit. | Organizational unit ID. |
 | MoveOrganizationUnit | Creation of a hierarchy between organizational units. | Parent organizational unit ID and child organizational unit ID. |
+
+## Delivery Options
+
+> ℹ️ [Delivery Options](/en/docs/tutorials/delivery-options-beta) is in open beta and appears as **Shipping Options** in the Audit filter options. These events are only recorded in accounts that use Delivery Options. In other accounts, searching for this application returns no results.
+
+| Action | Event description | Event details |
+|---|---|---|
+| DELIVERY_OPTION_CREATE | Manual creation of a delivery option by the merchant. There is no previous state for the delivery option. | Delivery option ID. |
+| DELIVERY_OPTION_UPDATE | Update of an existing delivery option, either by editing its fields or by activating or deactivating it. Activation and deactivation are only recorded when the status actually changes. | Delivery option ID. |
+| DELIVERY_OPTION_DELETE | Deletion of a delivery option. The event records the state of the delivery option immediately before deletion. | Delivery option ID. |
+| DELIVERY_OPTION_UPDATE_ACCOUNT_CONFIG | Update of Delivery Options account settings, such as the product listing page filter and storefront display preferences. The audited entity is the account setting, not an individual delivery option. | Account name. |
+| DELIVERY_OPTION_CHANGED_FILTER | Change in the delivery options used as storefront filters. | Delivery option ID. |
+| DELIVERY_OPTION_AUTOGENERATE_CREATE | Creation of a delivery option by the autogeneration flow, based on a suggestion. Autogenerated delivery options are always created as inactive, pending merchant review. | Delivery option ID. |
+| DELIVERY_OPTION_AUTOGENERATE_UPDATE | Merchant update of an autogenerated delivery option in a field other than its status, which makes it stop being treated as automatically generated. Changing only the status does not generate this event. | Delivery option ID. |
+
+## Search Optimizer Agent
+
+| Action | Event description | Event details |
+|---|---|---|
+| CreateSynonymRule | Creation of a one-way synonym rule. | Rule ID, terms (left and right), locales, and whether the rule is active. |
+| CreateBidirectionalSynonymRule | Creation of a two-way synonym rule. | Rule ID, terms (left and right), locales, and whether the rule is active. |
+| DeleteSynonymRule | Deletion of a synonym rule. | Rule ID. |
+| ActivateSynonymRule | Activation of a synonym rule. | Rule ID. |
+| DeactivateSynonymRule | Deactivation of a synonym rule. | Rule ID. |
+| CreateRedirect | Creation of a search redirect rule. | Redirect ID, source terms, destination path, conjunction, match mode, locales, and whether the redirect is active. |
+
+## Authenticator
+
+| Action | Event description | Event details |
+|---|---|---|
+| DelegationCreated | Creation of a delegation granting a user permission to act on behalf of another user in the same organization unit, for a set date range. | Delegation ID, organizational unit ID, original user ID, delegate user ID, and date range. |
+| DelegationUpdated | Update of a delegation's date range. | Delegation ID and date range. |
+| DelegationRevoked | Revocation of a delegation before its end date. | Delegation ID. |
+| ImpersonationSuccess | Successful impersonation of a user through an on-behalf-of (OBO) token exchange. | Original user ID, delegate user ID, impersonation type, delegation ID, and organizational unit ID. |
+| ImpersonationFailed | Failed attempt to impersonate a user through an on-behalf-of (OBO) token exchange. | Original user ID, delegate user ID, impersonation type, delegation ID, organizational unit ID, and failure reason. |
 

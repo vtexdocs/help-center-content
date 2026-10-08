@@ -3,7 +3,7 @@ title: 'Enabling Local stock sale in VTEX Sales App'
 id: 54eQN4rOH5yBYPGG2w8v9q
 status: PUBLISHED
 createdAt: 2023-05-19T17:30:02.393Z
-updatedAt: 2024-11-04T21:09:14.115Z
+updatedAt: 2026-09-24T21:09:14.115Z
 publishedAt: 2024-11-04T21:09:14.115Z
 firstPublishedAt: 2023-05-22T23:31:37.597Z
 contentType: tutorial
@@ -66,9 +66,14 @@ You need to [enabling selling an out-of-stock item](#enabling-selling-an-out-of-
 
 ## Linking the franchise account to the physical store
 
-To ensure that the sales associates of your physical store have the right access to the store warehouse at their location, it's important to link the franchise account to their profile. To do this, [add the physical store](https://help.vtex.com/en/docs/tracks/managing-physical-stores-in-vtex-sales-app) to Sales App.
+Linking the franchise account to the physical store means entering the **franchise account name** and the **pickup point ID** in the physical store record in VTEX Sales App. This association ensures that sales associates have access to the inventory of the store where they work.
 
-You will need to select a sales associate from the store where you want to test On Hands and follow the steps below.
+To do this, create or edit a [physical store record](https://help.vtex.com/en/docs/tracks/managing-physical-stores-in-vtex-sales-app) in VTEX Sales App and fill in the fields under **Technical information**:
+
+- **Franchise account:** name of the [franchise account](/en/docs/tutorials/what-is-a-franchise-account) created in the [Creating a franchise account](#creating-a-franchise-account) step.
+- **Pickup point:** ID of the [pickup point](/en/docs/tutorials/pickup-points) registered in the [Setting up a pickup point](#setting-up-a-pickup-point) step.
+
+After linking the franchise account to the physical store, select a sales associate registered in the store where you want to test Local stock sale and follow the steps below.
 
 1. With a [sales associate selected](https://help.vtex.com/en/docs/tracks/vtex-sales-app-getting-started-and-setting-up), open Sales App and log in.
 2. Search for an item that exists in the franchise account warehouse. The item should display the available quantity that corresponds to the seller inventory.

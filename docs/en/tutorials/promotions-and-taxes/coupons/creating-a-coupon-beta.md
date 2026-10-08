@@ -13,6 +13,9 @@ slugEN: creating-a-coupon-beta
 legacySlug: creating-a-coupon-beta
 locale: en
 subcategoryId: 1TXh7VjDSIGA2eSI0CmUsi
+seeAlso:
+  - /en/docs/tutorials/coupons-beta
+  - /en/docs/tutorials/coupons-list-beta
 ---
 
 A [coupon](/en/docs/tutorials/coupons-beta) consists of one promotional code composed of a sequence of letters and numbers. Coupons may be used to apply promotions to the shopping cart price: By entering a coupon code at checkout, your customers may get discounts on the order price.
@@ -123,8 +126,3 @@ Both endpoints fill in the `marketingData` field of the response body and work t
    - If your store uses Checkout v6, use `checkout6-custom.js` and `checkout6-custom.css`.
 3. After customization, you will need to request the enablement of the feature by [opening a ticket with VTEX Support](/en/docs/tutorials/opening-tickets-to-vtex-support).
 4. Check the <i class="fas fa-check-square"></i> **Apply with other promotions** option in the [settings of the promotions](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restrictions-and-limitations-of-use) associated with the coupons to allow more than one promotion to be activated by different coupons in the same purchase. Thus, the discounts granted by different promotions will be applied [together](/en/docs/tutorials/how-promotion-competition-works#accumulation).
-
-#### Learn more
-
-* [Coupons](/en/docs/tutorials/coupons-beta)
-* [Coupons list](/en/docs/tutorials/coupons-list-beta)

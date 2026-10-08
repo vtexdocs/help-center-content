@@ -3,7 +3,7 @@ title: 'Medidas técnicas e administrativas'
 id: 7ANSqBP5DgOrVVyglo3Lbh
 status: PUBLISHED
 createdAt: 2024-05-03T20:26:17.710Z
-updatedAt: 2024-05-03T21:12:11.696Z
+updatedAt: 2026-09-11T14:17:38.000Z
 publishedAt: 2024-05-03T21:12:11.696Z
 firstPublishedAt: 2024-05-03T20:57:29.358Z
 contentType: trackArticle
@@ -39,6 +39,21 @@ Confira a seguir as práticas adotadas pela VTEX, detalhadas no [DPA](https://co
 * Auxílio a lojistas para realizar a [Avaliação de Impacto de Proteção de Dados (AIPD)](https://commission.europa.eu/law/law-topic/data-protection/reform/rules-business-and-organisations/obligations/when-data-protection-impact-assessment-dpia-required_pt).
 
 Para mais informações, consulte [Práticas de Segurança - VTEX](https://vtex.com/br-pt/security/security-practices/).
+
+## Certificações
+
+A VTEX audita regularmente seus controles de segurança da informação por meio de profissionais independentes, para garantir transparência e excelência em suas práticas. Essa validação externa alinha políticas e procedimentos aos padrões de segurança e fortalece a confiança de clientes e parceiros.
+
+A VTEX possui os seguintes certificados e credenciamentos:
+
+* **ISO 27001** – Sistema de Gestão de Segurança da Informação.  
+* **ISO 27701** – Sistema de Gestão de Informações de Privacidade (PIMS), extensão da ISO 27001.
+* **SOC 1 – Type 2**: relatórios que cobrem os controles internos sobre sistemas de relatórios financeiros.
+* **SOC 2 – Type 2**: relatórios que cobrem segurança, disponibilidade, integridade, confidencialidade e privacidade.
+* **PCI-DSS**: validação dos controles sobre dados de titulares de cartão, para reduzir fraudes com cartão de crédito.
+* **PCI-DESV**: conjunto adicional de procedimentos e requisitos de validação aplicados a organizações específicas de alto risco ou designadas.
+
+Consulte nossas [Certificações](https://compliance.vtex.com/) para mais detalhes.
 
 ## Armazenamento
 
