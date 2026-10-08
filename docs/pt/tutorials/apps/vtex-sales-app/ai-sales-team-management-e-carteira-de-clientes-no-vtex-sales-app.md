@@ -101,9 +101,12 @@ Com o **AI Sales Team Management** você pode realizar ações em:
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
 | Criar time | Nome do time. Caso esteja criando um subtime, informe também o nome do time pai. | "Crie o time Vendas Sul" / "Crie o subtime Contagem dentro do time Nordeste" / "Crie meus times de vendas: Time Sul, Time Norte, Time Nordeste." |
+| Criar subtimes por sales rep | Anexe um arquivo `.xlsx`, `.csv` ou `.txt` com os dados dos sales reps e o time de destino. | "Crie subtimes baseados na carteira de cada sales rep." |
 | Editar nome time | Nome do time e as informações a serem alteradas. | "Edite o time Vendas Sul para Vendas Sudeste" |
 | Mover time | Nomes do time a ser movido e do time de destino. | "Mova o time Vendas Sul para dentro do time Nordeste" / " |
 | Vincular time ao contrato | Nome do time e identificação do contrato. | "Associe o contrato 4521 ao time Vendas Sul" / "Vincule o contrato 1395 ao Time Sul, Time Norte, Time Nordeste" |
+| Ver contratos do time | Nome do time. | "Quais contratos o Vendas Sul tem acesso?" / "O Time Norte tem quais contratos?" |
+| Ver integrantes do time | Nome do time. | "Quais usuários existem no time Vendas Norte?" / "Quem são os sales reps do Time Sul?" |
 
 > ⚠️ Após transformar um time pai em um subtime, não é mais possível devolvê-lo ao nível raiz. Portanto, antes de criar os times, defina a hierarquia.
 
@@ -111,37 +114,16 @@ Com o **AI Sales Team Management** você pode realizar ações em:
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
-| Registrar um sales rep | "Registre o sales rep José Almeida, `jose@acme.com`, no time Nordeste." |
-| Adicionar sales rep a time | "Adicione o sales rep Ricardo Alves no time Vendas Norte, e-mail `ricardo.alves@empresa.com`." |
-| Mover sales rep entre times | "Movimente o sales rep José Almeida, `jose@acme.com`, para o time Sudeste" / Mova  |
-| Cadastrar vários sales reps | Anexe o arquivo e envie "Processa essa planilha de sales reps." |
+| Registrar um sales rep | Nome do sales rep, email e time. O código do vendedor e da loja, quando aplicáveis, são opcionais. | "Registre o sales rep José Almeida, `jose@acme.com` no time Nordeste" / "Crie o sales rep Ricardo Alves, `ricardo.alves@empresa.com` código 204 e loja 578 no Vendas Norte" |
+| Adicionar sales rep ao time | Nome do sales rep, email e time. | "Adicione o sales rep Ricardo Alves no time Vendas Norte, e-mail `ricardo.alves@empresa.com`." |
+| Mover sales rep entre times | Nome do sales rep e do time de destino. | "Movimente o sales rep José Almeida para o time Sudeste" / "Mova José Almeida para time Nordeste." |
+| Remover sales rep do time | Nome do sales rep. Remover um sales rep de um time apenas desvincula a pessoa do time, mas ela permance como usuário da conta. | "Remova o sales rep José Almeida do time Vendas Sul." |
 
 ### Ações em carteiras de clientes
 
-- [Definir carteiras de clientes](#definir-a-carteira-de-clientes)
-
-### Adicionar sales rep
-
-Para registrar um sales rep, informe nome, email e time. O código do vendedor e da loja, quando aplicáveis, são opcionais. Exemplos de instrução:
-
-- "Registre o sales rep José Almeida, `jose@acme.com`, no time Sul".
-- "Crie o sales rep José Almeida `jose@acme.com` código 204 e loja 578 no time Sul."
-
-> Para adicionar sales reps em massa, veja [Realizar alterações em massa](#realizar-alteracoes-em-massa).
-
-### Mover sales reps entre times
-
-Para mover um sales rep entre times, indique o nome da pessoa e do time de destino. Exemplos de instrução:
-
-- "Movimente o sales rep José Almeida para o time Norte."
-- "Mova José Almeida para time Nordeste."
-
-
-Você pode adicionar ou remover sales reps de um time, um a um ou em massa. Remover um sales rep de um time desvincula essa pessoa do time. O usuário permanece na conta.
-
-Para mover um sales rep, indique a pessoa e o time de destino.
-
-**Exemplo:** "Movimente o sales rep José Almeida, jose@acme.com, para o time Sudeste."
+| **Ação** | **Informações necessárias** | **Exemplos de instrução** |
+| :--- | :--- | :--- |
+| Definir carteiras de clientes | Nome do time e identificação do contrato. | "Associe o contrato 4521 ao time Vendas Sul" / "Vincule o contrato 1395 ao Time Sul, Time Norte, Time Nordeste" |
 
 ### Definir a carteira de clientes
 
@@ -153,7 +135,7 @@ Para vincular um contrato a um time, indique o contrato e o time. Antes de vincu
 
 > ℹ️ Não existe carteira individual fora de um subtime. Para um sales rep ter uma carteira exclusiva, crie um subtime apenas para essa pessoa e vincule os contratos ao subtime.
 
-### Realizar alterações em massa
+### Realizar ações em massa
 
 As operações deste guia podem ser pedidas na conversa ou por arquivo XLSX, CSV ou TXT. Para usar um arquivo, anexe-o à conversa e envie a solicitação.
 
@@ -173,10 +155,6 @@ Antes de criar, editar ou remover qualquer item, o agente apresenta um plano com
 
 Quando a alteração vale para mais de um usuário, por arquivo ou pela conversa, o agente mostra as mensagens de erro e um **canvas de validação** com o que será feito. Como essa mudança afeta vários usuários de uma vez, revise esse resumo antes de confirmar.
 
-### Realizar ações em massa
-
-### Revisar e confirmar o plano
-
 ### Consultar a estrutura atual
 
 Você pode perguntar pela estrutura sem alterá-la. A resposta considera o acesso de quem pergunta.
@@ -188,16 +166,19 @@ Você pode perguntar pela estrutura sem alterá-la. A resposta considera o acess
 
 ### Desfazer uma ação
 
+| **Ação** | **Informações necessárias** | **Exemplos de instrução** |
+| :--- | :--- | :--- |
+
 Na mesma sessão, você pode desfazer criações recentes de times e de usuários.
 
 **Exemplo:** "Desfaz a criação do time X."
 
 > ❗ O vínculo de um contrato não pode ser desfeito no **AI Sales Team Management**.
 
+
+| Desfazer uma criação recente | "Desfaz a criação do time X." Esse pedido não desfaz vínculo de contrato. |
+
+
 | **Quero** | **Solicitação** |
 | :---- | :---- |
 | Vincular a carteira por arquivo | Anexe o arquivo e envie "Segue a planilha com a carteira de clientes por time." |
-| Criar subtimes por sales rep | Anexe o arquivo e envie "Quero criar subtimes baseados na carteira de cada sales rep." |
-| Ver os contratos de um time | "Quais contratos o Vendas Sul tem acesso?" |
-| Ver os usuários de um time | "Quais usuários existem no time Vendas Norte?" |
-| Desfazer uma criação recente | "Desfaz a criação do time X." Esse pedido não desfaz vínculo de contrato. |
