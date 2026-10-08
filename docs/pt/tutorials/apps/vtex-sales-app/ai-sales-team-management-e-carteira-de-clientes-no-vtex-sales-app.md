@@ -10,9 +10,24 @@ locale: pt
 
 > ℹ️ O **AI Sales Team Management** está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Atualmente, a disponibilidade é somente para contas selecionadas. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
 
-O **AI Sales Team Management** é um agente de inteligência artificial que permite administrar times de vendas, [sales reps](#conceitos) e a carteira de clientes de quem usa o [VTEX Sales App](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes) por meio de uma experiência conversacional no Admin VTEX. Este artigo explica o funcionamento do agente e apresenta as ações que você pode realizar de forma conversacional.
+O **AI Sales Team Management** é um agente de inteligência artificial que permite administrar [times, sales reps e carteiras de clientes](#conceitos) de quem usa o [VTEX Sales App](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes) por meio de uma experiência conversacional no Admin VTEX. Este artigo explica o funcionamento do agente e apresenta as ações que você pode realizar com o agente no contexto de operações B2B.
 
-> ⚠️ A gestão de vendedores de loja física do **Sales App** está em [Gerenciar vendedores no VTEX Sales App](https://help.vtex.com/pt/docs/tracks/gerenciar-vendedores-no-vtex-sales-app). O **AI Sales Team Management** administra times de vendas, sales reps e a carteira de clientes da operação B2B.
+> ⚠️ O **AI Sales Team Management** administra times e carteiras de clientes no contexto do [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). Para a gestão de vendedores de lojas físicas, veja o artigo [Gerenciar vendedores no VTEX Sales App](https://help.vtex.com/pt/docs/tracks/gerenciar-vendedores-no-vtex-sales-app).
+
+## Pré-requisitos
+
+Para usar o **AI Sales Team Management**, é necessário que a conta utilize o [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt) e tenha [contratos](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) cadastrados.
+
+## Conceitos
+
+A tabela a seguir apresenta a terminologia utilizada no **AI Sales Team Management**:
+
+| **Termo** | **Significado** |
+| :---- | :---- |
+| **Time** | Unidade da estrutura de vendas. Um time pode ficar hierarquicamente abaixo de outro, como time pai e subtime, para representar o organograma real. |
+| **Sales rep** | Pessoa do time comercial cadastrada no agente. O perfil do Licence Manager disponível para sales reps é [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person). O **AI Sales Team Management** não cria perfis de acesso. |
+| **Carteira de clientes** | Contratos vinculados a um time ou subtime exclusivo de um sales rep. |
+| **Contrato** | Contrato B2B já existente, usado para o vínculo com um time. |
 
 ## Casos de uso
 
@@ -22,19 +37,6 @@ O **AI Sales Team Management** interpreta o que você descreve e prepara a mudan
 - **Cadastrar sales reps:** informe nome, email e time para incluir uma pessoa do time comercial na estrutura.
 - **Definir a carteira de clientes:** vincule [Contratos B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) já existentes a um time, para limitar o que os sales reps daquele time acessam no **VTEX Sales App**.
 - **Alterar vários registros de uma vez:** descreva a mudança na conversa ou envie um arquivo, revise o plano e confirme.
-
-## Conceitos
-
-| **Termo** | **Significado** |
-| :---- | :---- |
-| **Time** | Unidade da estrutura de vendas. Um time pode ficar hierarquicamente abaixo de outro, como time pai e subtime, para representar o organograma real. |
-| **Sales rep** | Pessoa do time comercial cadastrada no agente. O perfil do Licence Manager disponível para sales reps é [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person). O **AI Sales Team Management** não cria perfis de acesso. |
-| **Carteira de clientes** | Contratos vinculados a um time ou subtime exclusivo de um sales rep. |
-| **Contrato** | Contrato B2B já existente, usado para o vínculo com um time. |
-
-## Pré-requisitos
-
-Como o **AI Sales Team Management** vincula contratos a times, a conta precisa ter [Contratos B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) cadastrados para que você defina a carteira de clientes. O agente não cria contratos novos e não vincula contratos que não existem na conta.
 
 ## Acessar o agente
 
@@ -57,7 +59,17 @@ Além da confirmação do plano, o **AI Sales Team Management** opera a partir d
 - **Respostas sem suposições:** quando o agente não sabe ou não tem acesso a uma informação, ele informa isso.
 - **Controle de permissão a usuários:** cada usuário consulta informações restritas ao seu nível de acesso. Por exemplo, um sales rep não pode ver os contratos de outro time.
 
-## Vínculo de contratos e controle de acesso de sales reps
+## O que o agente não faz
+
+O **AI Sales Team Management** tem as seguintes limitações de escopo:
+
+- **Dados do B2B Buyer Portal:** não acessa nem altera dados de compradores, contatos ou organizações do [**B2B Buyer Portal**](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). O agente usa contratos já existentes somente para vinculá-los a times.
+- **Criação de contratos:** não cria contratos B2B novos.
+- **Comunicações:** não envia emails nem outras mensagens.
+- **Permissões:** não eleva permissões de usuário.
+- **Histórico de auditoria:** não mostra histórico de auditoria. Para consultar esse histórico, use o [**Audit**](https://help.vtex.com/pt/docs/tutorials/audit).
+
+## Vínculação entre contratos e times
 
 Vincular um contrato a um time define a carteira daquele time e muda o que o sales rep visualiza no **Sales App**.
 
@@ -74,16 +86,14 @@ Um mesmo contrato pode ser vinculado a mais de um time. O **AI Sales Team Manage
 
 **Exemplo:** o contrato `100` está vinculado aos "Time Sul" e "Time Sudeste". Portanto, os sales reps de ambos os times podem visualizar esse contrato.
 
-## Gerenciar times, sales reps e carteira de clientes
+## Gerenciar times, sales reps e carteiras de clientes
 
-> ℹ️ Os exemplos de solicitação apresentados a seguir são apenas ilustrativos e não são a única forma de pedir uma ação ao agente.
-
-Você pode realizar as seguintes ações:
+Com o **AI Sales Team Management** você pode realizar as seguintes ações:
 
 - [Registrar e mover sales reps](#registrar-e-mover-sales-reps)
 - [Criar e mover times](#criar-e-mover-times)
 - [Definir a carteira de clientes](#definir-a-carteira-de-clientes)
-- [Fazer alterações em massa](#fazer-alteracoes-em-massa)
+- [Realizar alterações em massa](#realizar-alteracoes-em-massa)
 - [Revisar e confirmar o plano](#revisar-e-confirmar-o-plano)
 - [Consultar a estrutura atual](#consultar-a-estrutura-atual)
 - [Desfazer uma ação](#desfazer-uma-acao)
@@ -120,7 +130,7 @@ Para vincular um contrato a um time, indique o contrato e o time. Antes de vincu
 
 > ℹ️ Não existe carteira individual fora de um subtime. Para um sales rep ter uma carteira exclusiva, crie um subtime apenas para essa pessoa e vincule os contratos ao subtime.
 
-### Fazer alterações em massa
+### Realizar alterações em massa
 
 As operações deste guia podem ser pedidas na conversa ou por arquivo XLSX, CSV ou TXT. Para usar um arquivo, anexe-o à conversa e envie a solicitação.
 
@@ -157,17 +167,9 @@ Na mesma sessão, você pode desfazer criações recentes de times e de usuário
 
 > ❗ O vínculo de um contrato não pode ser desfeito no **AI Sales Team Management**.
 
-## O que o agente não faz
-
-O **AI Sales Team Management** tem as seguintes limitações de escopo:
-
-- **Dados do B2B Buyer Portal:** não acessa nem altera dados de compradores, contatos ou organizações do [**B2B Buyer Portal**](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). O agente usa contratos já existentes somente para vinculá-los a times.
-- **Criação de contratos:** não cria contratos B2B novos.
-- **Comunicações:** não envia emails nem outras mensagens.
-- **Permissões:** não eleva permissões de usuário.
-- **Histórico de auditoria:** não mostra histórico de auditoria. Para consultar esse histórico, use o [**Audit**](https://help.vtex.com/pt/docs/tutorials/audit).
-
 ## Exemplos de solicitação
+
+> ℹ️ Os exemplos de solicitação apresentados a seguir são apenas ilustrativos e não são a única forma de pedir uma ação ao agente.
 
 | **Quero** | **Solicitação** |
 | :---- | :---- |
