@@ -12,7 +12,7 @@ tags:
   - Master Data
 ---
 
-Las tiendas VTEX ahora cuentan con la eliminación en masa de documentos de [Master Data](/es/docs/tutorials/master-data) por API. Esta función está en beta abierta. Con el nuevo recurso, puedes remover de una sola vez todos los documentos de una [entidad de datos](/es/docs/tutorials/data-entity) que cumplan con un filtro.
+Las tiendas VTEX ahora cuentan con la eliminación en masa de documentos de [Master Data](/es/docs/tutorials/master-data) por API. Esta función está en beta abierta. Con el nuevo recurso, puedes remover de una sola vez todos los documentos de una [entidad de datos](/es/docs/tutorials/entidade-de-datos) que cumplan con un filtro.
 
 ## ¿Qué cambió?
 
@@ -32,5 +32,5 @@ No es necesaria ninguna acción. Cuando necesites reducir el volumen de document
 
 * [Deleting documents in bulk in Master Data](https://developers.vtex.com/docs/guides/deleting-documents-in-bulk-in-master-data)
 * [Master Data](/es/docs/tutorials/master-data)
-* [Consultar el uso de Master Data en el Admin VTEX](/es/docs/tutorials/checking-master-data-usage-in-the-vtex-admin)
-* [La facturación de Master Data no disminuyó después de eliminar una entidad de datos](/es/docs/tutorials/master-data-billing-did-not-decrease-after-deleting-a-data-entity)
+* [Consultar el uso de Master Data en el Admin VTEX](/es/docs/tutorials/consultar-el-uso-de-master-data-en-el-admin-vtex)
+* [La facturación de Master Data no disminuyó después de eliminar una entidad de datos](/es/docs/tutorials/la-facturacion-de-master-data-no-disminuyo-despues-de-eliminar-una-entidad-de-datos)
