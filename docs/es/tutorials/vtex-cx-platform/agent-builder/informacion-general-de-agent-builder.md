@@ -82,6 +82,12 @@ En **Vista previa de los agentes**, existen dos configuraciones posibles:
 
 - **Feedback progresivo de los agentes:** actívalo <i class="fas fa-toggle-on" aria-hidden="true"></i> si quieres que el agente envíe actualizaciones en tiempo real al usuario mientras redacta la respuesta final. De lo contrario, deja el botón de alternancia desactivado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
+En **Mensajes del sistema** puedes personalizar el mensaje de error enviado al cliente cuando un error de API impide al agente generar una respuesta. Cada proyecto puede tener su propio mensaje, adaptado al tono de voz de la marca.
+
+> ⚠️ El mensaje de error se envía exactamente como se configuró y no se traduce automáticamente. Ingresa el texto en el idioma en que tu agente atiende a los clientes.
+
+Para guardar tus ajustes haz clic en `Guardar cambios`.
+
 #### Editar instrucciones
 
 Al hacer clic en el botón `Editar instrucciones` del agente orquestador, accedes a la página **Instrucciones**, donde puedes agregar instrucciones directas para determinar cómo se comporta tu agente. No hay un límite para la cantidad de instrucciones que se pueden crear.
