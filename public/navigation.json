@@ -66,6 +66,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "VTEX CX Platform: support for BSUID and WhatsApp usernames",
+                    "es": "VTEX CX Platform: soporte para BSUID y nombres de usuario de WhatsApp",
+                    "pt": "VTEX CX Platform: suporte a BSUID e usernames do WhatsApp"
+                  },
+                  "slug": {
+                    "en": "2026-10-06-vtex-cx-platform-support-for-bsuid-and-whatsapp-usernames",
+                    "es": "2026-10-06-vtex-cx-platform-soporte-para-bsuid-y-nombres-de-usuario-de-whatsapp",
+                    "pt": "2026-10-06-vtex-cx-platform-suporte-a-bsuid-e-usernames-do-whatsapp"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -31260,21 +31275,6 @@
                 },
                 {
                   "name": {
-                    "en": "Importing Amazon FBA Onsite orders",
-                    "es": "Importación de pedidos de Amazon FBA Onsite",
-                    "pt": "Importação de Pedidos Amazon FBA Onsite"
-                  },
-                  "slug": {
-                    "en": "importing-amazon-fba-onsite-orders",
-                    "es": "importacion-de-pedidos-de-amazon-fba-onsite",
-                    "pt": "importacao-de-pedidos-amazon-fba-onsite"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "AMARO Integration",
                     "es": "Integración con AMARO",
                     "pt": "Integração com a AMARO"
@@ -36183,6 +36183,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Activating Delivery Promise",
+                    "es": "Activar Delivery Promise",
+                    "pt": "Ativar o Delivery Promise"
+                  },
+                  "slug": {
+                    "en": "activate-delivery-promise",
+                    "es": "activar-delivery-promise",
+                    "pt": "ativar-delivery-promise"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Delivery Promise (Beta)",
