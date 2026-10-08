@@ -3,7 +3,7 @@ title: 'Master Data'
 id: 4otjBnR27u4WUIciQsmkAw
 status: PUBLISHED
 createdAt: 2018-04-02T19:01:38.026Z
-updatedAt: 2026-07-20T00:00:00.000Z
+updatedAt: 2026-10-08T00:00:00.000Z
 publishedAt: 2025-08-29T14:19:54.707Z
 firstPublishedAt: 2018-04-02T20:54:18.272Z
 contentType: tutorial
@@ -290,16 +290,18 @@ Para ver los valores aplicables a tu operación, consulta tu contrato comercial 
 
 Por cada pago realizado durante la vigencia del contrato, se concede un crédito de facturación equivalente al 2% del valor neto pagado por los productos VTEX Commerce Platform y CX Commerce Platform. Los créditos se acumulan durante la vigencia del contrato y están disponibles para utilizarlos hasta su finalización.
 
+> ℹ️ Este crédito forma parte de tu Cartera de Crédito. Para obtener más información sobre cómo se calcula y cómo consultar el saldo y el consumo, consulta el artículo [Cartera de Crédito](/es/docs/tutorials/cartera-de-credito).
+
 Tanto la medición como la facturación siguen un ciclo mensual:
 
 - Al final de cada mes, se genera un snapshot del volumen de documentos almacenados en entidades no nativas.
 - Hasta el día 30 de cada mes, VTEX calcula los valores correspondientes al uso de Master Data y los créditos aplicables para la próxima factura.
 
-> ⚠️ Eliminar una entidad de datos a través de la interfaz de Master Data v1 **no** elimina los documentos (registros) ya almacenados. El volumen facturado permanece sin cambios hasta que los registros se eliminen mediante la API. Para eliminar documentos y reducir la facturación, consulta la guía [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) en el portal de desarrolladores.
+> ⚠️ Eliminar una entidad de datos a través de la interfaz de Master Data v1 **no** elimina los documentos (registros) ya almacenados. El volumen facturado permanece sin cambios hasta que los registros se eliminen mediante la API. Para eliminar documentos y reducir la facturación, consulta la guía [Deleting documents in bulk in Master Data](https://developers.vtex.com/docs/guides/deleting-documents-in-bulk-in-master-data) en el portal de desarrolladores.
 
 > ℹ️ Para hacer seguimiento del volumen de documentos en entidades personalizadas a lo largo del mes, consulta el dashboard **Uso de Master Data** en el Admin VTEX. Este dashboard se actualiza semanalmente y está destinado únicamente al seguimiento del uso. Las instrucciones de acceso están disponibles en Consultar el uso de Master Data en el Admin VTEX.
 
-> ℹ️ Para saber más sobre detalles de las facturas, consulta cómo [Descargar las facturas de VTEX](https://help.vtex.com/es/docs/tutorials/como-descargar-las-facturas-de-vtex).
+> ℹ️ Para saber más sobre detalles de las facturas, consulta cómo [Descargar facturas de VTEX](/es/docs/tutorials/descargar-facturas-de-vtex).
 
 ## Casos de uso
 
