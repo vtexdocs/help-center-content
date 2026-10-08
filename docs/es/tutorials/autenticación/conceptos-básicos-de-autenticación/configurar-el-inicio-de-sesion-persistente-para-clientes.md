@@ -23,7 +23,7 @@ Algunos puntos importantes sobre el funcionamiento de esta configuración:
 * Al habilitar el inicio de sesión persistente por primera vez, la duración predeterminada es de **1 día**. Puedes modificarla en cualquier momento.
 * Las modificaciones en la configuración (incluida la deshabilitación del inicio de sesión persistente) aplican solo a los nuevos inicios de sesión realizados después del cambio. Las sesiones que ya están activas continúan comportándose como lo hacían antes de la modificación.
 * Si deshabilitas el inicio de sesión persistente y luego lo vuelves a habilitar, se restaura la última duración guardada (la configuración no vuelve automáticamente a 1 día).
-* En tiendas con [Store Framework](https://developers.vtex.com/docs/guides/store-framework) o [CMS Portal (Legado)](https://help.vtex.com/es/docs/tracks/cms-portal-legado), la renovación del acceso del cliente es automática. En tiendas headless, es necesario implementar la renovación del token por cuenta propia, excepto cuando el storefront usa el [FastStore SDK](https://developers.vtex.com/docs/guides/faststore/sdk-overview). Para implementar la renovación de sesión en una tienda headless, consulta la guía para desarrolladores [Refresh token flow for headless implementations](https://developers.vtex.com/docs/guides/refresh-token-flow-for-headless-implementations). Si tu tienda usa FastStore, consulta también la guía [Enabling refresh token on FastStore](https://developers.vtex.com/docs/guides/faststore/session-enabling-refresh-token).
+* La forma en que se renueva el acceso del cliente depende de la tecnología del storefront. En tiendas headless y FastStore, se requieren pasos adicionales, descritos en [Pasos adicionales según el tipo de tienda](#pasos-adicionales-segun-el-tipo-de-tienda).
 
 ## Requisitos previos
 
@@ -40,6 +40,16 @@ Para empezar a usar el inicio de sesión persistente, habilita la funcionalidad 
     ![Tarjeta Inicio de sesión persistente en la pestaña Tienda virtual](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/configurar-el-inicio-de-sesion-persistente-para-clientes_1.png)
 
 Al habilitarlo, una notificación confirma la activación e informa la duración que pasa a aplicar a los nuevos inicios de sesión (1 día, en el primer uso, o la última duración guardada, en una reactivación).
+
+## Pasos adicionales según el tipo de tienda
+
+Después de habilitar el inicio de sesión persistente, verifica si tu tienda necesita algún paso adicional. Lo que cambia es la forma en que se renueva el acceso del cliente, que depende de la tecnología del storefront.
+
+En tiendas con [Store Framework](https://developers.vtex.com/docs/guides/store-framework) o [CMS Portal (Legado)](https://help.vtex.com/es/docs/tracks/cms-portal-legado), basta con habilitar el inicio de sesión persistente en el Admin VTEX, ya que la renovación del acceso del cliente en la tienda es automática.
+
+En tiendas headless, además de habilitar el inicio de sesión persistente en el Admin VTEX, es necesario implementar la renovación del acceso del cliente mediante las API de VTEX ID. La guía para desarrolladores [Refresh token flow for headless implementations](https://developers.vtex.com/docs/guides/refresh-token-flow-for-headless-implementations) explica cómo hacer esta implementación.
+
+Si tu tienda usa FastStore, además de habilitar el inicio de sesión persistente en el Admin VTEX, es necesario habilitar el refresh token en el proyecto, según la guía [Enabling refresh token on FastStore](https://developers.vtex.com/docs/guides/faststore/session-enabling-refresh-token).
 
 ## Configurar la duración del inicio de sesión persistente
 
@@ -71,4 +81,5 @@ A partir de ese momento, los nuevos inicios de sesión de los clientes dejan de 
 ## Más información
 
 - [Refresh token flow for headless implementations](https://developers.vtex.com/docs/guides/refresh-token-flow-for-headless-implementations)
+- [Enabling refresh token on FastStore](https://developers.vtex.com/docs/guides/faststore/session-enabling-refresh-token)
 - [Autenticación](https://help.vtex.com/es/docs/tutorials/autenticacion)
