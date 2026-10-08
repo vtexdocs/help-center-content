@@ -20,7 +20,7 @@ Antes de iniciar a leitura deste artigo, confira a tabela abaixo para compreende
 | Termo | Significado |
 |-----|-----|
 | **Produto** | Um [SKU](/pt/docs/tracks/sku-definicao-de-conceito) de um seller que foi enviado para um marketplace e teve seu preço e estoque configurados. |
-| **Sugestão de vínculo do marketplace** | Produto pré-existente no catálogo do Mercado Livre, sugerido pelo marketplace, ao qual o seller pode vincular o próprio produto para melhorar a visibilidade. |
+| **Sugestão de vínculo do marketplace** | Produto preexistente no catálogo do Mercado Livre, sugerido pelo marketplace, ao qual o seller pode vincular o próprio produto para melhorar a visibilidade. |
 | **Vincular oportunidade** | Ação de associar um produto do seller a uma sugestão de vínculo do marketplace. |
 | **Método de vínculo** | Indica como a associação entre o produto do seller e a sugestão de vínculo foi criada: **Manual**, quando o próprio seller faz a vinculação, ou **Automático**, quando o Mercado Livre identifica e associa o produto automaticamente. |
 
