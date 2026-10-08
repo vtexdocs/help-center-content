@@ -91,6 +91,12 @@ In **Agent preview**, there are two possible settings:
 
 - **Agent progressive feedback:** Activate it <i class="fas fa-toggle-on" aria-hidden="true"></i> if you want the agent to send real-time updates to the user while drafting the final response. Otherwise, leave it deactivated<i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
+In **System messages**, you can customize the error message sent to the customer when an API error prevents the agent from generating a response. Each project can have its own message, tailored to the brand's tone of voice.
+
+> ⚠️ The error message is sent exactly as configured and isn't automatically translated. Write it in the same language your agent uses to chat with customers.
+
+To save your changes, click `Save changes`.
+
 #### Edit instructions
 
 By clicking the `Edit instructions` button for the orchestrator agent, you access the **Instructions** page, where you can add direct instructions to determine how your agent behaves. There's no limit to the number of instructions that can be created.
