@@ -64,9 +64,13 @@ Vincular um contrato a um time define a carteira daquele time e muda o que o sal
 
 > ⚠️ Recomendamos que você confirme os vínculos contratuais antes de definir restrições ao time de vendas.
 
-Um mesmo contrato pode ser vinculado a mais de um time. O **AI Sales Team Management** avisa quando detecta isso, mas não impede o vínculo. Por exemplo, se o contrato `100` estiver vinculado aos "Time Sul" e "Time Sudeste", os sales reps de ambos os times passam a visualizar esse contrato.
+### Contrato vinculado a múltiplos times
 
-Não há carteira individual fora de um subtime. Para um sales rep ter uma carteira só dele, crie um subtime exclusivo para essa pessoa e vincule os contratos apenas a esse subtime.
+Um mesmo contrato pode ser vinculado a mais de um time. O **AI Sales Team Management** avisa quando detecta essa situação, mas não impede o vínculo.
+
+**Exemplo:** o contrato `100` está vinculado aos "Time Sul" e "Time Sudeste". Portanto, os sales reps de ambos os times podem visualizar esse contrato.
+
+> ℹ️ Não existe carteira individual fora de um subtime. Para um sales rep ter uma carteira exclusiva, crie um subtime apenas para essa pessoa e vincule os contratos ao subtime.
 
 ## Gerenciar times, sales reps e carteira de clientes
 
