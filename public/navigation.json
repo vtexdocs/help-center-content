@@ -69089,6 +69089,21 @@
             },
             {
               "name": {
+                "en": "canonical link keeps the trailing slash of the requested URL on routes declared in the theme's routes.json",
+                "es": "El enlace canónico conserva la barra diagonal final de la URL solicitada en las rutas declaradas en el archivo routes.json del tema.",
+                "pt": "O link canônico mantém a barra invertida final da URL solicitada nas rotas declaradas no arquivo routes.json do tema."
+              },
+              "slug": {
+                "en": "canonical-link-keeps-the-trailing-slash-of-the-requested-url-on-routes-declared-in-the-themes-routesjson",
+                "es": "el-enlace-canonico-conserva-la-barra-diagonal-final-de-la-url-solicitada-en-las-rutas-declaradas-en-el-archivo-routesjson-del-tema",
+                "pt": "o-link-canonico-mantem-a-barra-invertida-final-da-url-solicitada-nas-rotas-declaradas-no-arquivo-routesjson-do-tema"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "linkId is not being registered on rewriter when translating with catalog graphql",
                 "es": "linkId no se está registrando en rewriter cuando se traduce con graphql catálogo",
                 "pt": "O linkId não está sendo registrado no rewriter ao traduzir com o catálogo graphql"
