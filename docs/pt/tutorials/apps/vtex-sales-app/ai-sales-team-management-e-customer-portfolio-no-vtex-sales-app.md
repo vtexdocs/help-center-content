@@ -53,18 +53,18 @@ Além da confirmação do plano, o **AI Sales Team Management** opera a partir d
 - **Respostas sem suposições:** quando o agente não sabe ou não tem acesso a uma informação, ele informa isso.
 - **Controle de permissão a usuários:** cada usuário consulta informações restritas ao seu nível de acesso. Por exemplo, um sales rep não pode ver os contratos de outro time.
 
-## Vínculo de contratos e visibilidade no Sales App
+## Vínculo de contratos e controle de acesso de sales reps
 
-Vincular um contrato a um time define a carteira daquele time e muda o que o sales rep vê no **Sales App**.
+Vincular um contrato a um time define a carteira daquele time e muda o que o sales rep visualiza no **Sales App**.
 
-- **Time com contratos vinculados:** o **Sales App** mostra apenas as cotações e os pedidos daqueles contratos e a criação de pedidos fica restrita aos sales reps desse time.
-  - Exemplo: o "Time Sul" possui ao todo 80 contratos, sendo 30 deles vinculados. Portanto, os sales reps do time comercial têm acesso de visualição e criação de pedidos somente para esses 30 contratos.
-- **Time sem contratos vinculados:** os sales reps desse time visualizam todos os contratos da conta.
-  - Exemplo: o "Time Norte" tem 100 contratos e nenhum deles é vinculado. Isso significa que os sales reps do time visualizam e criam pedidos para os 100 contratos.
+- **Contratos vinculados a times:** o **Sales App** mostra apenas as cotações e os pedidos daqueles contratos e a criação de pedidos fica restrita aos sales reps desse time.
+  - Exemplo: o "Time Sul" está vinculado aos contratos `100` e `200`. Portanto, os sales reps visualizam e criam pedidos somente para esses dois contratos.
+- **Contratos sem vinculação a times:** os sales reps visualizam e criam pedidos para todos os contratos da conta.
+  - Exemplo: o "Time Norte" não está vinculado a um contrato, portanto os sales reps desse time visualizam e criam pedidos para todos os contratos da conta.
 
 > ⚠️ Recomendamos que você confirme os vínculos contratuais antes de definir restrições ao time de vendas.
 
-Um mesmo contrato pode ser vinculado a mais de um time. O agente avisa quando detecta isso, mas não impede o vínculo. Se o contrato 100 estiver no Time Sul e no Time Sudeste, os sales reps dos dois times passam a enxergar esse contrato.
+Um mesmo contrato pode ser vinculado a mais de um time. O **AI Sales Team Management** avisa quando detecta isso, mas não impede o vínculo. Se o contrato 100 estiver no Time Sul e no Time Sudeste, os sales reps dos dois times passam a enxergar esse contrato.
 
 Não há carteira individual fora de um subtime. Para um sales rep ter uma carteira só dele, crie um subtime exclusivo para essa pessoa e vincule os contratos apenas a esse subtime.
 
