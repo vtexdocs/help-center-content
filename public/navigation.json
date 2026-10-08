@@ -44746,6 +44746,21 @@
             },
             {
               "name": {
+                "en": "Checkout UI is not automatically using \"lean shipping\" for items with no common shipping methods",
+                "es": "La interfaz de pago no utiliza automáticamente el \"envío simplificado\" para artículos sin métodos de envío comunes.",
+                "pt": "A interface de finalização da compra não está usando automaticamente o \"envio simplificado\" para itens sem métodos de envio comuns."
+              },
+              "slug": {
+                "en": "checkout-ui-is-not-automatically-using-lean-shipping-for-items-with-no-common-shipping-methods",
+                "es": "la-interfaz-de-pago-no-utiliza-automaticamente-el-envio-simplificado-para-articulos-sin-metodos-de-envio-comunes",
+                "pt": "a-interface-de-finalizacao-da-compra-nao-esta-usando-automaticamente-o-envio-simplificado-para-itens-sem-metodos-de-envio-comuns"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Checkout UI changes the selected address when more than 1 address available",
                 "es": "La interfaz de usuario de la caja cambia la dirección seleccionada cuando hay más de 1 dirección disponible.",
                 "pt": "A interface de usuário do checkout altera o endereço selecionado quando há mais de um endereço disponível"
@@ -44844,21 +44859,6 @@
                 "en": "checkout-ui-shows-free-shipping-when-the-user-switches-the-delivery-options",
                 "es": "la-interfaz-de-pago-muestra-el-envio-gratuito-cuando-el-usuario-cambia-las-opciones-de-entrega",
                 "pt": "a-interface-do-checkout-exibe-o-frete-gratis-quando-o-usuario-altera-as-opcoes-de-entrega"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Checkout UI is not automatically using \"lean shipping\" for items with no common shipping methods",
-                "es": "La interfaz de pago no aplica automáticamente la opción «envío económico» a los artículos que no tienen métodos de envío comunes",
-                "pt": "A interface do checkout não está utilizando automaticamente a opção \"frete econômico\" para itens sem métodos de envio comuns"
-              },
-              "slug": {
-                "en": "checkout-ui-is-not-automatically-using-lean-shipping-for-items-with-no-common-shipping-methods",
-                "es": "la-interfaz-de-pago-no-aplica-automaticamente-la-opcion-envio-economico-a-los-articulos-que-no-tienen-metodos-de-envio-comunes",
-                "pt": "a-interface-do-checkout-nao-esta-utilizando-automaticamente-a-opcao-frete-economico-para-itens-sem-metodos-de-envio-comuns"
               },
               "origin": "",
               "type": "markdown",
@@ -48934,13 +48934,13 @@
             {
               "name": {
                 "en": "Final domain different from myvtex due to old component version on Site Editor",
-                "es": "Dominio final diferente de myvtex debido a la versión antigua del componente en el Editor de Sitios",
-                "pt": "O domínio final é diferente do myvtex devido à versão antiga do componente no Site Editor"
+                "es": "El dominio final es diferente de myvtex debido a una versión antigua del componente en el editor de sitios.",
+                "pt": "O domínio final é diferente de myvtex devido à versão antiga do componente no Editor de Sites."
               },
               "slug": {
                 "en": "final-domain-different-from-myvtex-due-to-old-component-version-on-site-editor",
-                "es": "dominio-final-diferente-de-myvtex-debido-a-la-version-antigua-del-componente-en-el-editor-de-sitios",
-                "pt": "o-dominio-final-e-diferente-do-myvtex-devido-a-versao-antiga-do-componente-no-site-editor"
+                "es": "el-dominio-final-es-diferente-de-myvtex-debido-a-una-version-antigua-del-componente-en-el-editor-de-sitios",
+                "pt": "o-dominio-final-e-diferente-de-myvtex-devido-a-versao-antiga-do-componente-no-editor-de-sites"
               },
               "origin": "",
               "type": "markdown",
@@ -51635,21 +51635,6 @@
             },
             {
               "name": {
-                "en": "Faststore V1 don't return SEO information on Graphql query",
-                "es": "Faststore V1 no devuelve información SEO en la consulta Graphql",
-                "pt": "O Faststore V1 não retorna informações de SEO na consulta Graphql"
-              },
-              "slug": {
-                "en": "faststore-v1-dont-return-seo-information-on-graphql-query",
-                "es": "faststore-v1-no-devuelve-informacion-seo-en-la-consulta-graphql",
-                "pt": "o-faststore-v1-nao-retorna-informacoes-de-seo-na-consulta-graphql"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Faststores not working correctly in Firefox Private Mode",
                 "es": "Faststores no funciona correctamente en el modo de navegación privada de Firefox",
                 "pt": "O Faststores não está funcionando corretamente no Modo de Navegação Privada do Firefox"
@@ -52523,6 +52508,21 @@
             },
             {
               "name": {
+                "en": "Same option ID accross different facets affecting the facet selection in a mobile version",
+                "es": "El mismo ID de opción en diferentes facetas afecta la selección de facetas en una versión móvil.",
+                "pt": "A mesma ID de opção em diferentes facetas afeta a seleção de facetas na versão móvel."
+              },
+              "slug": {
+                "en": "same-option-id-accross-different-facets-affecting-the-facet-selection-in-a-mobile-version",
+                "es": "el-mismo-id-de-opcion-en-diferentes-facetas-afecta-la-seleccion-de-facetas-en-una-version-movil",
+                "pt": "a-mesma-id-de-opcao-em-diferentes-facetas-afeta-a-selecao-de-facetas-na-versao-movel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Explained Search returns results from main locale instead of selected secondary locale",
                 "es": "La función de búsqueda explicada devuelve resultados de la configuración regional principal en lugar de la configuración regional secundaria seleccionada.",
                 "pt": "A opção \"Pesquisa explicada\" retorna resultados da localidade principal em vez da localidade secundária selecionada."
@@ -52778,21 +52778,6 @@
             },
             {
               "name": {
-                "en": "Search facets disappear when using back button after clicking \"Show more\"",
-                "es": "Las facetas de búsqueda desaparecen al utilizar el botón Atrás después de hacer clic en \"Mostrar más\".",
-                "pt": "As facetas de pesquisa desaparecem ao usar o botão Voltar depois de clicar em \"Mostrar mais\""
-              },
-              "slug": {
-                "en": "search-facets-disappear-when-using-back-button-after-clicking-show-more",
-                "es": "las-facetas-de-busqueda-desaparecen-al-utilizar-el-boton-atras-despues-de-hacer-clic-en-mostrar-mas",
-                "pt": "as-facetas-de-pesquisa-desaparecem-ao-usar-o-botao-voltar-depois-de-clicar-em-mostrar-mais"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Autocomplete history searches with the \"/\" character are breaking the search result page",
                 "es": "Las búsquedas en el historial de autocompletado con el carácter «/» están provocando errores en la página de resultados de búsqueda",
                 "pt": "As pesquisas no histórico de autocompletar com o caractere \"/\" estão prejudicando a página de resultados da pesquisa"
@@ -53005,12 +52990,12 @@
               "name": {
                 "en": "Accounts with \"-\" on the name don't have metrics on search report",
                 "es": "Las cuentas con \"-\" en el nombre no tienen métricas en el informe de búsqueda.",
-                "pt": "Contas com \"-\" no nome não têm métricas no relatório de pesquisa."
+                "pt": "Contas com '-' no nome não têm métricas no relatório de busca"
               },
               "slug": {
                 "en": "accounts-with-on-the-name-dont-have-metrics-on-search-report",
                 "es": "las-cuentas-con-en-el-nombre-no-tienen-metricas-en-el-informe-de-busqueda",
-                "pt": "contas-com-no-nome-nao-tem-metricas-no-relatorio-de-pesquisa"
+                "pt": "contas-com-no-nome-nao-tem-metricas-no-relatorio-de-busca"
               },
               "origin": "",
               "type": "markdown",
@@ -53259,13 +53244,13 @@
             {
               "name": {
                 "en": "Cannot select the locale for Synonym in multilanguage Intelligent Search",
-                "es": "No se puede seleccionar la configuración regional del sinónimo en la búsqueda inteligente multilingüe.",
-                "pt": "Não é possível selecionar a localidade para o sinônimo na Intelligent Search multilíngue"
+                "es": "No se puede seleccionar la configuración regional para Sinónimo en la búsqueda inteligente multilingüe.",
+                "pt": "Não é possível selecionar a localidade para Sinônimo na Pesquisa Inteligente multilíngue."
               },
               "slug": {
                 "en": "cannot-select-the-locale-for-synonym-in-multilanguage-intelligent-search",
-                "es": "no-se-puede-seleccionar-la-configuracion-regional-del-sinonimo-en-la-busqueda-inteligente-multilingue",
-                "pt": "nao-e-possivel-selecionar-a-localidade-para-o-sinonimo-na-intelligent-search-multilingue"
+                "es": "no-se-puede-seleccionar-la-configuracion-regional-para-sinonimo-en-la-busqueda-inteligente-multilingue",
+                "pt": "nao-e-possivel-selecionar-a-localidade-para-sinonimo-na-pesquisa-inteligente-multilingue"
               },
               "origin": "",
               "type": "markdown",
@@ -53423,21 +53408,6 @@
             },
             {
               "name": {
-                "en": "Same option ID accross different facets affecting the facet selection in a mobile version",
-                "es": "El mismo ID de opción en diferentes facetas afecta a la selección de facetas en una versión móvil.",
-                "pt": "O mesmo ID de opção em diferentes facetas afeta a seleção de facetas em uma versão móvel"
-              },
-              "slug": {
-                "en": "same-option-id-accross-different-facets-affecting-the-facet-selection-in-a-mobile-version",
-                "es": "el-mismo-id-de-opcion-en-diferentes-facetas-afecta-a-la-seleccion-de-facetas-en-una-version-movil",
-                "pt": "o-mesmo-id-de-opcao-em-diferentes-facetas-afeta-a-selecao-de-facetas-em-uma-versao-movel"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Group name is not automatically updated on Intelligent Search",
                 "es": "El nombre del grupo no se actualiza automáticamente en la búsqueda inteligente",
                 "pt": "O nome do grupo não é atualizado automaticamente na Pesquisa Inteligente"
@@ -53529,13 +53499,13 @@
             {
               "name": {
                 "en": "SKU Detach selector lists product specifications in the Search Settings",
-                "es": "El selector SKU Detach enumera las especificaciones del producto en los Ajustes de búsqueda",
-                "pt": "O seletor SKU Detach lista as especificações do produto nas configurações de pesquisa"
+                "es": "El selector de desacoplamiento de SKU muestra las especificaciones del producto en la configuración de búsqueda.",
+                "pt": "O seletor de desanexação de SKU lista as especificações do produto nas Configurações de pesquisa."
               },
               "slug": {
                 "en": "sku-detach-selector-lists-product-specifications-in-the-search-settings",
-                "es": "el-selector-sku-detach-enumera-las-especificaciones-del-producto-en-los-ajustes-de-busqueda",
-                "pt": "o-seletor-sku-detach-lista-as-especificacoes-do-produto-nas-configuracoes-de-pesquisa"
+                "es": "el-selector-de-desacoplamiento-de-sku-muestra-las-especificaciones-del-producto-en-la-configuracion-de-busqueda",
+                "pt": "o-seletor-de-desanexacao-de-sku-lista-as-especificacoes-do-produto-nas-configuracoes-de-pesquisa"
               },
               "origin": "",
               "type": "markdown",
@@ -53559,12 +53529,12 @@
             {
               "name": {
                 "en": "Search Banners not deleting rules from Trigger Rules",
-                "es": "Los banners de búsqueda no borran las reglas de las reglas de activación",
-                "pt": "Os banners de pesquisa não estão excluindo regras das regras de acionamento"
+                "es": "Los banners de búsqueda no eliminan las reglas de las reglas de activación.",
+                "pt": "Os banners de pesquisa não estão excluindo regras das regras de acionamento."
               },
               "slug": {
                 "en": "search-banners-not-deleting-rules-from-trigger-rules",
-                "es": "los-banners-de-busqueda-no-borran-las-reglas-de-las-reglas-de-activacion",
+                "es": "los-banners-de-busqueda-no-eliminan-las-reglas-de-las-reglas-de-activacion",
                 "pt": "os-banners-de-pesquisa-nao-estao-excluindo-regras-das-regras-de-acionamento"
               },
               "origin": "",
@@ -53656,6 +53626,21 @@
                 "en": "sku-specification-filters-arent-loaded-when-the-sku-is-only-available-in-a-whitelabel-seller",
                 "es": "los-filtros-de-especificaciones-de-sku-no-se-cargan-cuando-el-sku-solo-esta-disponible-en-un-vendedor-de-marca-blanca",
                 "pt": "os-filtros-de-especificacoes-do-sku-nao-sao-carregados-quando-o-sku-esta-disponivel-apenas-em-um-vendedor-de-marca-branca"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Search facets disappear when using back button after clicking \"Show more\"",
+                "es": "Las facetas de búsqueda desaparecen al usar el botón Atrás después de hacer clic en \"Mostrar más\".",
+                "pt": "Os filtros de pesquisa desaparecem ao usar o botão Voltar após clicar em \"Mostrar mais\"."
+              },
+              "slug": {
+                "en": "search-facets-disappear-when-using-back-button-after-clicking-show-more",
+                "es": "las-facetas-de-busqueda-desaparecen-al-usar-el-boton-atras-despues-de-hacer-clic-en-mostrar-mas",
+                "pt": "os-filtros-de-pesquisa-desaparecem-ao-usar-o-botao-voltar-apos-clicar-em-mostrar-mais"
               },
               "origin": "",
               "type": "markdown",
@@ -58845,6 +58830,21 @@
             },
             {
               "name": {
+                "en": "Request for Settlement of Orders Does Not Account for the Value of Interest",
+                "es": "La solicitud de liquidación de órdenes no tiene en cuenta el valor de los intereses.",
+                "pt": "O pedido de liquidação de ordens não leva em consideração o valor dos juros."
+              },
+              "slug": {
+                "en": "request-for-settlement-of-orders-does-not-account-for-the-value-of-interest",
+                "es": "la-solicitud-de-liquidacion-de-ordenes-no-tiene-en-cuenta-el-valor-de-los-intereses",
+                "pt": "o-pedido-de-liquidacao-de-ordens-nao-leva-em-consideracao-o-valor-dos-juros"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Order stuck in an intermediate workflow status due to a workflow desynchronization",
                 "es": "El pedido se encuentra atascado en un estado de flujo de trabajo intermedio debido a una desincronización del flujo de trabajo.",
                 "pt": "O pedido ficou preso em um status intermediário do fluxo de trabalho devido a uma dessincronização do fluxo de trabalho."
@@ -59505,21 +59505,6 @@
             },
             {
               "name": {
-                "en": "Request for Settlement of Orders Does Not Account for the Value of Interest",
-                "es": "La solicitud de liquidación de las órdenes no tiene en cuenta el valor de los intereses",
-                "pt": "Solicitação de liquidação de ordens não leva em conta o valor dos juros"
-              },
-              "slug": {
-                "en": "request-for-settlement-of-orders-does-not-account-for-the-value-of-interest",
-                "es": "la-solicitud-de-liquidacion-de-las-ordenes-no-tiene-en-cuenta-el-valor-de-los-intereses",
-                "pt": "solicitacao-de-liquidacao-de-ordens-nao-leva-em-conta-o-valor-dos-juros"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Order status exported in Portuguese in OMS Order Export (non-translatable statusDescription)",
                 "es": "Estado del pedido exportado en portugués en OMS Order Export (statusDescription no traducible)",
                 "pt": "Status do pedido exportado em português no OMS Exportação de pedidos (statusDescription não traduzível)"
@@ -59582,12 +59567,12 @@
               "name": {
                 "en": "Error with event system at the end of a transaction causes an order to be incomplete",
                 "es": "Un error en el sistema de eventos al final de una transacción provoca que un pedido quede incompleto.",
-                "pt": "Um erro no sistema de eventos no final de uma transação faz com que um pedido fique incompleto"
+                "pt": "Um erro no sistema de eventos ao final de uma transação faz com que um pedido fique incompleto."
               },
               "slug": {
                 "en": "error-with-event-system-at-the-end-of-a-transaction-causes-an-order-to-be-incomplete",
                 "es": "un-error-en-el-sistema-de-eventos-al-final-de-una-transaccion-provoca-que-un-pedido-quede-incompleto",
-                "pt": "um-erro-no-sistema-de-eventos-no-final-de-uma-transacao-faz-com-que-um-pedido-fique-incompleto"
+                "pt": "um-erro-no-sistema-de-eventos-ao-final-de-uma-transacao-faz-com-que-um-pedido-fique-incompleto"
               },
               "origin": "",
               "type": "markdown",
@@ -64282,13 +64267,13 @@
             {
               "name": {
                 "en": "Manual sorting of collections doesn't work as expected",
-                "es": "La clasificación manual de las colecciones no funciona como se esperaba",
-                "pt": "A classificação manual das coleções não funciona como esperado"
+                "es": "La clasificación manual de las colecciones no funciona como se esperaba.",
+                "pt": "A classificação manual de coleções não funciona como esperado."
               },
               "slug": {
                 "en": "manual-sorting-of-collections-doesnt-work-as-expected",
                 "es": "la-clasificacion-manual-de-las-colecciones-no-funciona-como-se-esperaba",
-                "pt": "a-classificacao-manual-das-colecoes-nao-funciona-como-esperado"
+                "pt": "a-classificacao-manual-de-colecoes-nao-funciona-como-esperado"
               },
               "origin": "",
               "type": "markdown",
@@ -66009,12 +65994,12 @@
             {
               "name": {
                 "en": "Promotional price table in large shopping carts can impact performance or lead to timeout errors",
-                "es": "Las tablas de precios promocionales en carritos de la compra de gran tamaño pueden afectar al rendimiento o provocar errores por tiempo de espera agotado",
+                "es": "Las tablas de precios promocionales en carritos de compra grandes pueden afectar el rendimiento o provocar errores de tiempo de espera.",
                 "pt": "A tabela de preços promocionais em carrinhos de compras grandes pode afetar o desempenho ou causar erros de tempo limite."
               },
               "slug": {
                 "en": "promotional-price-table-in-large-shopping-carts-can-impact-performance-or-lead-to-timeout-errors",
-                "es": "las-tablas-de-precios-promocionales-en-carritos-de-la-compra-de-gran-tamano-pueden-afectar-al-rendimiento-o-provocar-errores-por-tiempo-de-espera-agotado",
+                "es": "las-tablas-de-precios-promocionales-en-carritos-de-compra-grandes-pueden-afectar-el-rendimiento-o-provocar-errores-de-tiempo-de-espera",
                 "pt": "a-tabela-de-precos-promocionais-em-carrinhos-de-compras-grandes-pode-afetar-o-desempenho-ou-causar-erros-de-tempo-limite"
               },
               "origin": "",
@@ -66631,6 +66616,21 @@
                 "en": "max-shipping-discount-not-updating-pricetags",
                 "es": "el-descuento-maximo-por-envio-no-actualiza-las-etiquetas-de-precio",
                 "pt": "o-desconto-maximo-de-frete-nao-esta-atualizando-as-etiquetas-de-preco"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shipping discount discarded due to rounding in cumulative promotions",
+                "es": "El descuento de envío se descartó debido al redondeo en las promociones acumulativas.",
+                "pt": "O desconto no frete foi descartado devido ao arredondamento em promoções cumulativas."
+              },
+              "slug": {
+                "en": "shipping-discount-discarded-due-to-rounding-in-cumulative-promotions",
+                "es": "el-descuento-de-envio-se-descarto-debido-al-redondeo-en-las-promociones-acumulativas",
+                "pt": "o-desconto-no-frete-foi-descartado-devido-ao-arredondamento-em-promocoes-cumulativas"
               },
               "origin": "",
               "type": "markdown",
@@ -70262,13 +70262,28 @@
           "children": [
             {
               "name": {
+                "en": "Only one agent receives email notification in active call",
+                "es": "Solo un agente recibe notificación por correo electrónico en una llamada activa.",
+                "pt": "Apenas um agente recebe notificação por e-mail em uma chamada ativa."
+              },
+              "slug": {
+                "en": "only-one-agent-receives-email-notification-in-active-call",
+                "es": "solo-un-agente-recibe-notificacion-por-correo-electronico-en-una-llamada-activa",
+                "pt": "apenas-um-agente-recebe-notificacao-por-email-em-uma-chamada-ativa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Notifications from the personal shopper are not arriving on WhatsApp.",
-                "es": "Las notificaciones del asistente personal de compras no llegan a WhatsApp.",
+                "es": "Las notificaciones del personal shopper no llegan a WhatsApp.",
                 "pt": "As notificações do personal shopper não estão chegando no WhatsApp."
               },
               "slug": {
                 "en": "notifications-from-the-personal-shopper-are-not-arriving-on-whatsapp",
-                "es": "las-notificaciones-del-asistente-personal-de-compras-no-llegan-a-whatsapp",
+                "es": "las-notificaciones-del-personal-shopper-no-llegan-a-whatsapp",
                 "pt": "as-notificacoes-do-personal-shopper-nao-estao-chegando-no-whatsapp"
               },
               "origin": "",
