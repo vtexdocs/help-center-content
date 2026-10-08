@@ -63124,6 +63124,21 @@
             },
             {
               "name": {
+                "en": "Orders cancelled when payment authorization gets no response from the Payment Gateway",
+                "es": "Los pedidos se cancelan cuando la autorización de pago no recibe respuesta de la pasarela de pago.",
+                "pt": "Pedidos cancelados quando a autorização de pagamento não recebe resposta do gateway de pagamento."
+              },
+              "slug": {
+                "en": "orders-cancelled-when-payment-authorization-gets-no-response-from-the-payment-gateway",
+                "es": "los-pedidos-se-cancelan-cuando-la-autorizacion-de-pago-no-recibe-respuesta-de-la-pasarela-de-pago",
+                "pt": "pedidos-cancelados-quando-a-autorizacao-de-pagamento-nao-recebe-resposta-do-gateway-de-pagamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Orders created with empty userProfileId",
                 "es": "Pedidos creados con userProfileId vacío",
                 "pt": "Pedidos criados com userProfileId vazio"
