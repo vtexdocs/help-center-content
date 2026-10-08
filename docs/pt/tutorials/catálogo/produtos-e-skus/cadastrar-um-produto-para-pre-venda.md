@@ -55,17 +55,17 @@ Para disponibilizar um produto para pré-venda, siga os passos abaixo:
 
 ## Ordenar produtos por data de lançamento
 
-A **Data de lançamento** permite exibir os produtos do lançamento mais recente para o mais antigo nas páginas de listagem de produtos. Para isso, adicione ao final da URL da página a querystring correspondente à tecnologia de [frontend](/pt/docs/tracks/frontend) da loja:
+A **Data de lançamento** permite exibir os produtos do lançamento mais recente para o mais antigo nas páginas de listagem de produtos. Para isso, adicione ao final da URL da página a querystring correspondente à tecnologia de [frontend](/pt/docs/tracks/frontend) e ao buscador da loja:
 
-| Frontend | Querystring |
-| --- | --- |
-| [Store Framework (VTEX IO)](/pt/docs/tracks/frontend#store-framework) | `?order=OrderByReleaseDateDESC` |
-| [FastStore](/pt/docs/tracks/frontend#faststore) | `?sort=release_desc` |
-| [CMS Portal (Legado)](/pt/docs/tracks/frontend#cms-portal-legado) | `?O=OrderByReleaseDateDESC` |
+| Frontend | Buscador | Querystring |
+| :--- | :--- | :--- |
+| [Store Framework (VTEX IO)](/pt/docs/tracks/frontend#store-framework) | [VTEX Intelligent Search](/pt/docs/tutorials/intelligent-search-visao-geral) | `?order=OrderByReleaseDateDESC` |
+| [FastStore](/pt/docs/tracks/frontend#faststore) | [VTEX Intelligent Search](/pt/docs/tutorials/intelligent-search-visao-geral) | `?sort=release_desc` |
+| [CMS Portal (Legado)](/pt/docs/tracks/frontend#cms-portal-legado) | [VTEX Intelligent Search](/pt/docs/tutorials/intelligent-search-visao-geral) ou [VTEX Search (Legado)](/pt/docs/tutorials/como-funciona-vtex-search-legado) | `?O=OrderByReleaseDateDESC` |
 
 Exemplo em uma loja Store Framework: `https://www.{nomeDaLoja}.com.br/{departamento}/{categoria}?order=OrderByReleaseDateDESC`.
 
-A ordenação funciona com os dois buscadores da VTEX. O que muda é a ordem exibida quando a querystring não é aplicada:
+Quando a querystring não é aplicada, a ordem dos resultados depende do buscador:
 
 - **[VTEX Intelligent Search](/pt/docs/tutorials/intelligent-search-visao-geral):** os resultados seguem a relevância, em que a data de lançamento é um critério configurável que perde valor ao longo de 90 dias. Saiba mais em [Regras de relevância](/pt/docs/tutorials/regras-de-relevancia).
 - **[VTEX Search (Legado)](/pt/docs/tutorials/como-funciona-vtex-search-legado):** os resultados seguem a pontuação (score) que o indexador calcula para o termo buscado.
