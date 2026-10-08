@@ -101,37 +101,6 @@
             },
             {
               "name": {
-                "en": "Outubro",
-                "es": "Outubro",
-                "pt": "Outubro"
-              },
-              "slug": {
-                "en": "outubro",
-                "es": "outubro",
-                "pt": "2026-outubro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Agent Builder: mais controle na configuração de agentes e da base de conhecimento",
-                    "es": "Agent Builder: mais controle na configuração de agentes e da base de conhecimento",
-                    "pt": "Agent Builder: mais controle na configuração de agentes e da base de conhecimento"
-                  },
-                  "slug": {
-                    "en": "",
-                    "es": "",
-                    "pt": "2026-10-08-agent-builder-mais-controle-na-configuracao-de-agentes-e-da-base-de-conhecimento"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "September",
                 "es": "Septiembre",
                 "pt": "Setembro"
@@ -69098,6 +69067,21 @@
                 "en": "disclosure-layout-cant-be-used-properly-when-prop-animated-is-set-as-true",
                 "es": "disclosure-layout-no-se-puede-utilizar-correctamente-cuando-prop-animado-se-establece-como-verdadero",
                 "pt": "o-layout-de-divulgacao-nao-pode-ser-usado-corretamente-quando-a-animacao-de-propulsao-e-definida-como-verdadeira"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "canonical link keeps the trailing slash of the requested URL on routes declared in the theme's routes.json",
+                "es": "El enlace canónico conserva la barra diagonal final de la URL solicitada en las rutas declaradas en el archivo routes.json del tema.",
+                "pt": "O link canônico mantém a barra invertida final da URL solicitada nas rotas declaradas no arquivo routes.json do tema."
+              },
+              "slug": {
+                "en": "canonical-link-keeps-the-trailing-slash-of-the-requested-url-on-routes-declared-in-the-themes-routesjson",
+                "es": "el-enlace-canonico-conserva-la-barra-diagonal-final-de-la-url-solicitada-en-las-rutas-declaradas-en-el-archivo-routesjson-del-tema",
+                "pt": "o-link-canonico-mantem-a-barra-invertida-final-da-url-solicitada-nas-rotas-declaradas-no-arquivo-routesjson-do-tema"
               },
               "origin": "",
               "type": "markdown",
