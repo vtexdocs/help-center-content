@@ -1,5 +1,5 @@
 ---
-title: 'Credit Wallet: track the credit that offsets your Master Data charges'
+title: 'Credit Wallet: Track the credit that offsets your Master Data charges'
 createdAt: '2026-10-08T00:00:00.000Z'
 updatedAt: '2026-10-08T00:00:00.000Z'
 contentType: updates
