@@ -54,21 +54,6 @@
                 },
                 {
                   "name": {
-                    "en": "Agent Builder: mais controle na configuração de agentes e da base de conhecimento",
-                    "es": "Agent Builder: mais controle na configuração de agentes e da base de conhecimento",
-                    "pt": "Agent Builder: mais controle na configuração de agentes e da base de conhecimento"
-                  },
-                  "slug": {
-                    "en": "",
-                    "es": "",
-                    "pt": "2026-10-08-agent-builder-mais-controle-na-configuracao-de-agentes-e-da-base-de-conhecimento"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Black Friday 2026: Get your store ready with our best practices guide",
                     "es": "Black Friday 2026: prepara tu tienda con nuestra guía de buenas prácticas",
                     "pt": "Black Friday 2026: prepare sua loja com nosso guia de boas práticas"
@@ -92,6 +77,37 @@
                     "en": "2026-10-06-vtex-cx-platform-support-for-bsuid-and-whatsapp-usernames",
                     "es": "2026-10-06-vtex-cx-platform-soporte-para-bsuid-y-nombres-de-usuario-de-whatsapp",
                     "pt": "2026-10-06-vtex-cx-platform-suporte-a-bsuid-e-usernames-do-whatsapp"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Outubro",
+                "es": "Outubro",
+                "pt": "Outubro"
+              },
+              "slug": {
+                "en": "outubro",
+                "es": "outubro",
+                "pt": "2026-outubro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Agent Builder: mais controle na configuração de agentes e da base de conhecimento",
+                    "es": "Agent Builder: mais controle na configuração de agentes e da base de conhecimento",
+                    "pt": "Agent Builder: mais controle na configuração de agentes e da base de conhecimento"
+                  },
+                  "slug": {
+                    "en": "",
+                    "es": "",
+                    "pt": "2026-10-08-agent-builder-mais-controle-na-configuracao-de-agentes-e-da-base-de-conhecimento"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -52194,6 +52210,21 @@
             },
             {
               "name": {
+                "en": "License Manager authorization checks intermittently time out, causing failures in dependent services",
+                "es": "Las comprobaciones de autorización del Administrador de licencias agotan el tiempo de espera de forma intermitente, lo que provoca fallos en los servicios dependientes.",
+                "pt": "As verificações de autorização do Gerenciador de Licenças expiram intermitentemente, causando falhas em serviços dependentes."
+              },
+              "slug": {
+                "en": "license-manager-authorization-checks-intermittently-time-out-causing-failures-in-dependent-services",
+                "es": "las-comprobaciones-de-autorizacion-del-administrador-de-licencias-agotan-el-tiempo-de-espera-de-forma-intermitente-lo-que-provoca-fallos-en-los-servicios-dependientes",
+                "pt": "as-verificacoes-de-autorizacao-do-gerenciador-de-licencas-expiram-intermitentemente-causando-falhas-em-servicos-dependentes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Update user's name in the login section",
                 "es": "Actualizar el nombre del usuario en la sección de inicio de sesión",
                 "pt": "Atualizar o nome do usuário na seção de login"
@@ -70031,6 +70062,21 @@
                 "en": "amazon-sku-matching-status-reverts-to-pending-review-after-manual-confirmation",
                 "es": "amazon-el-estado-de-coincidencia-de-sku-vuelve-a-pendiente-de-revision-despues-de-la-confirmacion-manual",
                 "pt": "amazon-o-status-de-correspondencia-do-sku-volta-para-aguardando-revisao-apos-confirmacao-manual"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon Mexico orders fulfilled by Amazon (FBA) aren't integrated",
+                "es": "Amazon Los pedidos de México gestionados por Amazon (FBA) no están integrados.",
+                "pt": "Amazon Os pedidos do México enviados pela Amazon (FBA) não estão integrados."
+              },
+              "slug": {
+                "en": "amazon-mexico-orders-fulfilled-by-amazon-fba-arent-integrated",
+                "es": "amazon-los-pedidos-de-mexico-gestionados-por-amazon-fba-no-estan-integrados",
+                "pt": "amazon-os-pedidos-do-mexico-enviados-pela-amazon-fba-nao-estao-integrados"
               },
               "origin": "",
               "type": "markdown",
