@@ -1,0 +1,163 @@
+---
+title: 'Configurar el evento'
+id: 125yr6jAfwiiz84JP4ppfO
+status: PUBLISHED
+createdAt: 2025-07-23T18:02:12.430Z
+updatedAt: 2025-11-18T21:13:33.647Z
+publishedAt: 2025-09-15T21:13:33.647Z
+firstPublishedAt: 2025-07-28T15:08:11.624Z
+contentType: trackArticle
+productTeam: Marketing & Merchandising
+slugEN: configuring-event
+locale: es
+trackId: 3eCHNCIx8XhZOSmX0sQT3U
+trackSlugEN: vtex-live-shopping-primeros-pasos
+order: 7
+---
+
+En el Admin VTEX, al acceder a **Apps > Live Shopping**, o ingresar Live Shopping en la barra de búsqueda de la parte superior de la página, y hacer clic el ícono de flecha de un [evento creado](https://help.vtex.com/es/docs/tracks/crear-evento) se abre la página de **Información del evento**. En la página de gestión encontrarás las siguientes opciones de configuración, divididas en las siguientes secciones:
+
+* [Tipo de layout - Configurar el estilo](#tipo-de-layout-configurar-el-estilo)
+* [Chat - Configurar el nombre del administrador](#chat-configurar-el-nombre-del-administrador)
+* [Promociones - Configurar cupones y promociones](#promociones-configurar-cupones-y-promociones)
+* [Destacar producto - Configurar la presentación de la colección](#destacar-producto-configurar-la-presentacion-de-la-coleccion)
+* [Configuración - Configurar funcionalidades](#configuracion-configurar-funcionalidades)
+* [Configuración CMS - Configurar la presentación del contenido](#configuracion-cms-configurar-la-presentacion-del-contenido)
+
+> ⚠️ Este artículo describe los ajustes principales para un evento. No explica todas las secciones de la página **Información del evento**. Para más información, consulta [Live Shopping: Eventos](/es/docs/tutorials/live-shopping-eventos).
+
+## Tipo de layout - Configurar el estilo
+
+El layout define el formato de la pantalla que los clientes ven durante la transmisión del evento, que a su vez determina el formato de grabación del evento.
+
+> ❗ El estudio de transmisión usa el layout de la primera persona que entre. Debes configurar el layout del evento antes de entrar al estudio de transmisión. Aunque es posible cambiar el layout a través del Admin VTEX después, no puedes cambiarlo dentro del estudio de transmisión.
+
+### Formato de pantalla
+
+En la sección **Tipo de layout**, puedes elegir el formato de layout deseado para transmitir el evento:
+
+* **Horizontal (16:9):** proporciona una vista horizontal de la transmisión, optimizada para pantallas de escritorio.
+* **Vertical (9:16):** proporciona una vista vertical de la transmisión, optimizada para pantallas móviles.
+
+![article_7_screen_format_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/canales-de-venta/omnichannel/vtex-live-shopping-primeros-pasos/configurar-evento_1.png)
+
+El formato predeterminado de la pantalla es **Horizontal (16:9)**, pero puedes cambiarlo haciendo clic en la vista **Vertical (9:16)**. La marca azul indica la opción seleccionada.
+
+> ℹ️ Ten en cuenta que, una vez iniciada la transmisión en el estudio Bundle, el layout de la pantalla no se puede cambiar. Para cambiarlo, tendrías que crear un nuevo evento.
+
+### Personalización de estilo
+
+De forma predeterminada, los eventos tienen un estilo visual neutral apto para tiendas sin afectar la imagen de marca. Sin embargo, puedes personalizar el estilo de los siguientes elementos:
+
+* Fuente del texto
+* Colores
+* Tarjetas de productos
+* Precio de los productos
+* Botón de agregar al carrito
+* Producto destacado
+* Título de la sección de productos
+* Título del chat
+* Botón de enviar mensaje
+
+> ℹ️ Estas personalizaciones se realizan haciendo clic en el botón **Personalizar apariencia** y ajustando las opciones de la página Look and Feel a tus preferencias. Para instrucciones detalladas, consulta [Live Shopping: Eventos](/es/docs/tutorials/live-shopping-eventos).
+
+## Chat - Configurar el nombre del administrador
+
+La sección **Chat** es donde gestionas el chat en vivo durante tu evento. Si deseas configurar un nombre específico para identificar al administrador que envía mensajes, sigue los pasos a continuación:
+
+1. En la sección **Chat**, haz clic en el ícono de perfil.
+2. En la ventana **Información de la tienda**, ingresa el nombre del administrador en el campo.
+3. Haz clic en `Confirmar`.
+
+> ℹ️ Para aprender a fijar mensajes, bloquear usuarios, eliminar mensajes y realizar otras acciones en el chat del evento, consulta [Live Shopping: Eventos](/es/docs/tutorials/live-shopping-eventos).
+
+## Promociones - Configurar cupones y promociones
+
+En esta sección puedes configurar cupones y promociones según los espectadores del evento o los "me gusta", por ejemplo. Las opciones disponibles serán aquellas que se hayan configurado previamente en el módulo [Promociones](https://help.vtex.com/es/docs/tutorials/crear-promociones).  
+
+Para ofrecer una promoción durante tu evento de **Live Shopping** sigue los pasos a continuación:
+
+1. En la sección **Promociones** , haz clic en `Nueva promoción`.  
+2. Selecciona una opción de promoción usando el menú desplegable.  
+3. Elige una variable:
+
+  * Me gusta
+  * Comentarios  
+  * Espectadores  
+  * Pedidos  
+
+4. En el campo **Objetivo**, ingresa la condición que la audiencia debe cumplir para activar el cupón o promoción. Esta información no es visible para el público y tiene un límite de 20 caracteres. Consulta a continuación un ejemplo de cada variable:
+
+  * **Me gusta:** alcanzar 100 reacciones de me gusta.  
+  * **Comentarios:** obtener 150 comentarios.  
+  * **Espectadores:** reunir una audiencia de más de 200 personas.  
+  * **Pedidos:** recibir los primeros 100 pedidos.
+
+  >⚠️ Al alcanzar el objetivo los cupones se activan inmediatamente. Las promociones se activan cinco minutos después de que se alcance el objetivo.
+
+5. En el campo **Mensaje para mostrar**, redacta el texto que comunicará a tu audiencia la condición necesaria para la activación de la promoción o cupón. Límite de 20 caracteres. Ejemplo, `40% off`.  
+6. Selecciona una animación para mostrar la promoción o cupón durante el evento.  
+7. Haz clic en `Guardar`.
+
+Una vez creada la promoción, se mostrará en una tabla con las siguientes columnas:
+
+* **Status:** permite activar o desactivar la promoción usando el botón de alternancia. Aunque las promociones o cupones se activen automáticamente cuando la audiencia cumple el objetivo, puedes administrar el status de activación durante el evento.
+* **Promoción:** nombre que identifica la promoción.
+* **Variable:** base de la promoción, que puede ser `Me gusta`, `Comentarios`, `Espectadores` o `Pedidos`.
+* **Objetivo:** valor de la variable que, una vez alcanzado, dispara la activación de la promoción.
+* **Acciones:** permite <i class="fa-solid fa-pencil"></i> editar o <i class="fa-solid fa-trash"></i> eliminar la promoción. Todos los ajustes de promoción pueden editarse. Al eliminar, se remueve la promoción solo de la configuración de este evento, no del módulo **Promociones**.
+
+## Configuración - Configurar funcionalidades
+
+En la sección **Configuración** puedes activar o desactivar las siguientes funcionalidades del evento:
+
+| Funcionalidad | Opción |
+| --- | --- |
+| Chat | <ul><li>**Email obligatorio:** de forma predeterminada, para permitir que el público participe en el chat del evento en vivo, solo se requiere el nombre. Cuando activas esta opción, los participantes también tienen que proporcionar una dirección de email.</li><li>**Activar envío de email:** cuando activas esta opción, si el público hace una pregunta y el administrador responde a través del chat, se envía un email al usuario con la respuesta. Esto ayuda a mantener la interacción con el usuario final fuera del chat.</li></ul> |
+| Reproductor | <ul><li>**Número de espectadores:** muestra el número de espectadores que están viendo el evento en vivo. Este número no es acumulativo.</li><li>**Ventana emergente de la transmisión:** permite mostrar el componente completo de Live Shopping (chat, reproductor y barra lateral de productos) en un formato de ventana emergente para captar toda la atención del público mientras ven el evento. Los participantes pueden cerrar la ventana emergente en cualquier momento haciendo clic en la X en la esquina para volver al formato normal.</li></ul> |
+| Productos | <ul><li>**Aplicar impuestos:** permite aplicar impuestos a los productos mostrados durante el evento en vivo. Cuando activas esta opción, el módulo **Promociones > Cargos** muestra el precio del producto incluyendo los cargos aplicables.</li></ul> |
+
+## Destacar producto - Configurar la presentación de la colección
+
+La sección **Destacar producto** es donde gestionas los productos que deseas destacar durante el evento. Los productos mostrados pertenecen a la colección que seleccionaste al [crear el evento](https://help.vtex.com/es/docs/tracks/crear-evento), o la colección que añades o actualizas antes o durante la transmisión.
+
+>⚠️ Para garantizar que tu colección se muestre correctamente en un evento de **Live Shopping**, recomendamos crearla al menos con unas horas de antelación. Esto le da tiempo a la plataforma para indexar la información. De lo contrario, la página puede quedarse almacenada en caché durante el evento, lo que podría impedir que la colección se muestre correctamente.
+
+Para destacar un producto, activa el botón de alternancia en la columna **Acciones**. Puedes elegir dos productos a la vez. Una vez seleccionado, el producto se mostrará sobre los nombres de las columnas.
+
+## Configuración CMS - Configurar la presentación del contenido
+
+En la sección **Configuración CMS** puedes configurar la presentación del contenido durante el evento. Las funcionalidades existentes son:
+
+* **Productos de la barra lateral:** muestra una barra con los productos seleccionados al lado del reproductor de video. Los productos se muestran verticalmente al lado izquierdo del reproductor.
+* **Carrusel de productos:** muestra un carrusel con una colección de productos en una vista horizontal debajo del reproductor de video durante el evento en vivo.
+* **Chat:** permite que tu audiencia interactúe en el chat durante el evento en vivo. Ten en cuenta que si el chat está oculto, la opción de preguntas también estará oculta, ya que esa funcionalidad se muestra encima del chat.
+* **Me gusta:** permite a los usuarios reaccionar durante el evento en vivo utilizando el botón de me gusta en forma de corazón.
+
+![article_7_cms_configuration_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/canales-de-venta/omnichannel/vtex-live-shopping-primeros-pasos/configurar-evento_2.png)
+
+* **Carrito de checkout:** proporciona un botón `Agregar al carrito` que cuando utilizado por la audiencia, abre el checkout con el producto agregado al carrito en una nueva pestaña. El modo pantalla en pantalla (PiP) también se activará para permitir que el cliente continúe viendo la transmisión en vivo mientras finaliza la compra.
+* **Vista rápida:** permite que el público vea el evento en vivo mientras consulta las variaciones del producto. Cuando el cliente hace clic en el botón `Agregar al carrito`, se abre una vista rápida del producto sin ocultar la transmisión del evento permitiéndole elegir la talla y el color del producto, por ejemplo, sin dejar de ver el evento.
+  * Si desactivas esta opción, cuando el cliente hace clic en `Agregar al carrito`, se abre una nueva pestaña con la página de detalles del producto (PDP) y se activa el modo PiP automáticamente para que pueda continuar viendo la transmisión.
+* **Scroll infinito:** implementa el scroll infinito en la opción de barra lateral de productos que hace scroll cada N segundos automáticamente para que tu público pueda ver todos los productos sin ninguna acción adicional.
+  * La velocidad del scroll automático es 10 segundos de forma predeterminada, pero puedes cambiar el valor ingresando el número deseado en el campo. Recomendamos una configuración de 3 a 100 segundos.
+
+> ℹ️ Todas las funcionalidades mencionadas anteriormente están activas de forma predeterminada, excepto **Carrusel de productos** y **Carrito de checkout**.
+
+### Script para plantilla
+
+Para incorporar la aplicación de transmisión en vivo en tu storefront incluyendo tus preferencias, puedes utilizar la tag HTML del campo **Script para plantilla**. Debes elegir una de las siguientes opciones:
+
+* **Plantilla CMS:** para tiendas que utilizan CMS - Portal Legado.
+* **Plantilla externa:** para tiendas externas.
+
+### Vista previa
+
+Para previsualizar el evento, en **Información del evento > Configuración CMS**, haz clic en el botón `Vista previa`. Se abrirá una nueva pestaña y reproducirá el evento tal y como tu audiencia lo verá. Esta simulación ayuda a validar que todo esté funcionando correctamente al mostrar elementos como:
+
+* Chat
+* Reproductor
+* Barra lateral de productos
+* Productos destacados
+
+> ❗ Es muy aconsejable realizar controles adicionales en todo el sitio web para comprobar el funcionamiento correcto de todos los elementos. La **Vista previa** solo verifica ciertos componentes de **Live Shopping**.

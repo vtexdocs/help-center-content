@@ -3,7 +3,7 @@ title: 'Configurar dominio de la tienda'
 id: tutorials_2450
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:00.603Z
-updatedAt: 2025-03-20T21:58:47.611Z
+updatedAt: 2026-10-01T18:48:35.000Z
 publishedAt: 2025-03-20T21:58:47.611Z
 firstPublishedAt: 2017-04-27T23:03:51.625Z
 contentType: tutorial
@@ -80,12 +80,12 @@ Para registrar un nuevo host, el mismo debe cumplir con las prácticas descritas
 7. Haz clic en el botón `Agregar`.
 8. Haz clic en el botón `Guardar`.
 
-Después de estos pasos, puedes [configurar el apuntamiento de DNS a VTEX](/es/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
+Después de estos pasos, puedes [configurar el apuntamiento de DNS a VTEX](https://help.vtex.com/es/docs/tracks/go-live#realizar-el-apuntamiento-de-dns).
 
-> ⚠️ Para las tiendas[ FastStore](https://www.faststore.dev/), también es necesario configurar una dirección con el subdominio `secure`. Para más información, consulta la guía [Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns).
+> ⚠️ Para las tiendas[FastStore](https://developers.vtex.com/docs/guides/faststore), también es necesario configurar una dirección con el subdominio `secure`. Para más información, consulta la guía [Configuring external DNS for a custom domain](https://developers.vtex.com/docs/guides/faststore/go-live-1-configuring-external-dns).
 
 > ❗ Si tu operación tiene más de una cuenta VTEX o [subcuentas](/es/docs/tutorials/gestionar-multitienda), no cambies el host de una cuenta a otra. Esto causará fallas en varias partes de tu tienda.
 
 ## Cambiar host
 
-La plataforma VTEX admite cambios de host sin efectos adversos. Si necesitas cambiar el host de la tienda, sigue los pasos en [Cambiar el dominio de la tienda](/es/tutorial/cambiar-el-dominio-de-la-tienda--frequentlyAskedQuestions_626/).
+La plataforma VTEX admite cambios de host sin efectos adversos. Si necesitas cambiar el host de la tienda, sigue los pasos en [Cambiar el dominio de la tienda](https://help.vtex.com/es/docs/tutorials/cambiar-el-dominio-de-la-tienda).

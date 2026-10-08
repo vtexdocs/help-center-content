@@ -3,7 +3,7 @@ title: 'Importação de Pedidos Amazon FBA Classic'
 id: 2MJZgBen3hpK4xkXqcv8TO
 status: PUBLISHED
 createdAt: 2022-10-07T21:33:29.864Z
-updatedAt: 2024-11-04T21:07:30.839Z
+updatedAt: 2026-10-07T21:45:00.000Z
 publishedAt: 2024-11-04T21:07:30.839Z
 firstPublishedAt: 2022-10-07T21:52:55.581Z
 contentType: tutorial
@@ -17,9 +17,8 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 Existem três tipos de configuração logística para atender aos pedidos realizados na Amazon:
 
-  - [Selfship](#Selfship)
-  - [FBA Classic](#FBA-Classic-Fulfillment-by-Amazon)
-  - FBA Onsite, para conhecer sobre o programa e a integração com a VTEX, confira a documentação sobre [Importação de pedidos FBA Onsite](/pt/docs/tutorials/importacao-de-pedidos-amazon-fba-onsite)  
+  - [Selfship](#selfship)
+  - [FBA Classic](#fba-classic-fulfillment-by-amazon)
   - [DBA, para conhecer sobre o programa e a integração com a VTEX, confira a documentação Importação de Pedidos Amazon DBA](/pt/docs/tutorials/importacao-de-pedidos-amazon-dba)  
 
 O Seller pode utilizar o Selfship, FBA e DBA de forma simultânea ou apenas uma das opções logísticas, considerando a elegibilidade dos produtos para os respectivos programas. Independente de optar por utilizar somente uma das opções logísticas ou utilizar dois, ou mais programas, é possível acompanhar e gerenciar todos os pedidos realizados através do Admin VTEX.

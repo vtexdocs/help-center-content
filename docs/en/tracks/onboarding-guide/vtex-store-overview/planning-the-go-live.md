@@ -131,7 +131,7 @@ Once the necessary tests and fixes have been completed, you must prepare the sto
 Regardless of the request type, the ticket to VTEX Support must have the following information:
 
 - Title stating the intention to go live.
-- If the [storefront technology](http://link-implement-frontend) was developed on VTEX IO or CMS Portal (Legacy).
+- If the [storefront technology](/en/docs/tracks/frontend-implementation) was developed on VTEX IO or CMS Portal (Legacy).
 - URL to be pointed to.
 - Time for internal pointing to be carried out, between 9 a.m. and 5 p.m. UTC-3.
 - Indicate if the store has conditional rules for [sales channels](/en/docs/tutorials/creating-a-trade-policy).
@@ -149,7 +149,7 @@ At the time of go-live, after confirming the internal pointing from the previous
 
 2. [Notify the pointing:](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#notifying-the-pointing) To make your store available to the general public, you must notify the VTEX platform that pointing has been completed. To do this, you must save your **Account settings** in the VTEX Admin again.
 
-   > ⚠️ If the store was built using[ FastStore](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#faststore), you will also need to follow the steps described in the[ Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns) article.
+   > ⚠️ If the store was built using[FastStore](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#faststore), you will also need to follow the steps described in the [Configuring external DNS for a custom domain](https://developers.vtex.com/docs/guides/faststore/go-live-1-configuring-external-dns) article.
 
 Once the above steps have been completed, the store will be available on the registered domain, allowing customers to access it and make purchases.
 
