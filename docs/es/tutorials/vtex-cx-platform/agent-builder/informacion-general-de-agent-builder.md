@@ -1,18 +1,11 @@
 ---
-title: "Información general de Agent Builder"
-id: 6t9oYS7E2AJH9c2AYReUrs
-status: PUBLISHED
+title: 'Información general de Agent Builder'
 createdAt: 2025-07-23T12:24:11.906Z
-updatedAt: 2026-06-15T00:00:00.000Z
-publishedAt: 2025-09-08T16:21:28.723Z
-firstPublishedAt: 2025-07-29T16:45:36.827Z
+updatedAt: 2026-10-08T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: agent-builder-overview
-legacySlug: vision-de-conjunto-del-agent-builder
 locale: es
-subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 ---
 
 **Agent Builder** es una herramienta de conversación con el cliente basada en inteligencia artificial. Con esta funcionalidad, puedes personalizar agentes para interactuar con tus clientes y responder solicitudes relacionadas con pedidos en curso, el catálogo de tu tienda o la cancelación de pedidos.
@@ -106,6 +99,22 @@ Para usar la validación de instrucciones con IA al crear una instrucción sigue
 > ⚠️ Si aparece un mensaje de advertencia en **Resultados de la validación**, corrige la instrucción según las indicaciones mostradas y haz clic en `Revalidar`.
 
 > ℹ️ Puedes crear una nueva instrucción personalizada sin la validación de la IA. Para hacerlo, desactiva la opción **Validar instrucción por IA**, escribe la instrucción y haz clic en `Publicar instrucción`.
+
+##### Componentes interactivos
+
+Con **Manager 2.7**, el agente orquestador puede responder usando componentes interactivos nativos de WhatsApp:
+
+| Componente | Descripción |
+| --- | --- |
+| Respuestas rápidas (`quick_reply`) | Botones con opciones predefinidas para que el cliente elija. |
+| Botones de acción (`call_to_action`) | Botones que dirigen al cliente a un enlace externo. |
+| Mensaje con lista (`list_message`) | Menú con una lista de opciones seleccionables. |
+
+Para orientar al agente a usar un componente, menciónalo directamente en una instrucción personalizada. Por ejemplo: "Al preguntar sobre el status del pedido, usa el componente `quick_reply` con las opciones Rastrear pedido, Cancelar pedido y Hablar con un representante".
+
+> ℹ️ Para que el agente envíe componentes interactivos, la opción **Formato de mensaje múltiple** debe estar activada en **Editar Manager > Motor**.
+
+> ⚠️ El catálogo de productos no es un componente nativo de Manager 2.7. Cuando hay un agente Concierge asignado al equipo, el orquestador activa al Concierge para enviar el catálogo. Los agentes Concierge oficiales de VTEX ya tienen esta capacidad.
 
 ##### Lista de instrucciones
 

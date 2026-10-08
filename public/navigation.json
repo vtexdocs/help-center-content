@@ -70323,13 +70323,28 @@
           "children": [
             {
               "name": {
+                "en": "Only one agent receives email notification in active call",
+                "es": "Solo un agente recibe notificación por correo electrónico en una llamada activa.",
+                "pt": "Apenas um agente recebe notificação por e-mail em uma chamada ativa."
+              },
+              "slug": {
+                "en": "only-one-agent-receives-email-notification-in-active-call",
+                "es": "solo-un-agente-recibe-notificacion-por-correo-electronico-en-una-llamada-activa",
+                "pt": "apenas-um-agente-recebe-notificacao-por-email-em-uma-chamada-ativa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Notifications from the personal shopper are not arriving on WhatsApp.",
-                "es": "Las notificaciones del asistente personal de compras no llegan a WhatsApp.",
+                "es": "Las notificaciones del personal shopper no llegan a WhatsApp.",
                 "pt": "As notificações do personal shopper não estão chegando no WhatsApp."
               },
               "slug": {
                 "en": "notifications-from-the-personal-shopper-are-not-arriving-on-whatsapp",
-                "es": "las-notificaciones-del-asistente-personal-de-compras-no-llegan-a-whatsapp",
+                "es": "las-notificaciones-del-personal-shopper-no-llegan-a-whatsapp",
                 "pt": "as-notificacoes-do-personal-shopper-nao-estao-chegando-no-whatsapp"
               },
               "origin": "",
