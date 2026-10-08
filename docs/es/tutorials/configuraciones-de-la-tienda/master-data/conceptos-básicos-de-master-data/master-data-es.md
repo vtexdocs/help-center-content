@@ -290,6 +290,8 @@ Para ver los valores aplicables a tu operación, consulta tu contrato comercial 
 
 Por cada pago realizado durante la vigencia del contrato, se concede un crédito de facturación equivalente al 2% del valor neto pagado por los productos VTEX Commerce Platform y CX Commerce Platform. Los créditos se acumulan durante la vigencia del contrato y están disponibles para utilizarlos hasta su finalización.
 
+> ℹ️ Este crédito forma parte de tu Cartera de Crédito. Para obtener más información sobre cómo se calcula y cómo consultar el saldo y el consumo, consulta el artículo [Cartera de Crédito](/es/docs/tutorials/cartera-de-credito).
+
 Tanto la medición como la facturación siguen un ciclo mensual:
 
 - Al final de cada mes, se genera un snapshot del volumen de documentos almacenados en entidades no nativas.
@@ -299,7 +301,7 @@ Tanto la medición como la facturación siguen un ciclo mensual:
 
 > ℹ️ Para hacer seguimiento del volumen de documentos en entidades personalizadas a lo largo del mes, consulta el dashboard **Uso de Master Data** en el Admin VTEX. Este dashboard se actualiza semanalmente y está destinado únicamente al seguimiento del uso. Las instrucciones de acceso están disponibles en Consultar el uso de Master Data en el Admin VTEX.
 
-> ℹ️ Para saber más sobre detalles de las facturas, consulta cómo [Descargar las facturas de VTEX](https://help.vtex.com/es/docs/tutorials/como-descargar-las-facturas-de-vtex).
+> ℹ️ Para saber más sobre detalles de las facturas, consulta cómo [Descargar facturas de VTEX](/es/docs/tutorials/descargar-facturas-de-vtex).
 
 ## Casos de uso
 
