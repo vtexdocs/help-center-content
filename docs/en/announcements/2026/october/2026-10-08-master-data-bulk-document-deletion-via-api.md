@@ -1,18 +1,18 @@
 ---
 title: 'Master Data: Bulk document deletion via API'
-createdAt: 2026-09-04T00:00:00.000Z
-updatedAt: 2026-09-04T00:00:00.000Z
+createdAt: 2026-10-08T00:00:00.000Z
+updatedAt: 2026-10-08T00:00:00.000Z
 contentType: updates
 productTeam: Master Data
-slugEN: 2026-09-04-master-data-bulk-document-deletion-via-api
+slugEN: 2026-10-08-master-data-bulk-document-deletion-via-api
 locale: en
-announcementSynopsisEN: 'You can now bulk delete all documents in a Master Data entity that match a filter, reducing your billed storage volume.'
+announcementSynopsisEN: 'In open beta, you can bulk delete all documents in a Master Data entity that match a filter, reducing your billed storage volume.'
 tags:
   - New feature
   - Master Data
 ---
 
-VTEX stores now support bulk deletion of [Master Data](/en/docs/tutorials/master-data) documents via API. With this new feature, you can delete all documents in a [data entity](/en/docs/tutorials/data-entity) that match a filter in one go.
+VTEX stores now support bulk deletion of [Master Data](/en/docs/tutorials/master-data) documents via API. This feature is in open beta. With this new feature, you can delete all documents in a [data entity](/en/docs/tutorials/data-entity) that match a filter in one go.
 
 ## What has changed?
 
@@ -26,11 +26,11 @@ The use of [custom data entities](/en/docs/tutorials/master-data#entidades-de-da
 
 ## What needs to be done?
 
-No action is required; the feature is already available. When you need to reduce the volume of documents stored in your store, your development team can perform a bulk deletion via API.
+No action is required. When you need to reduce the volume of documents stored in your store, your development team can perform a bulk deletion via API.
 
 ## Learn more
 
-* [Bulk deleting documents in Master Data](https://developers.vtex.com/docs/guides/bulk-deleting-documents-in-master-data)
+* [Deleting documents in bulk in Master Data](https://developers.vtex.com/docs/guides/deleting-documents-in-bulk-in-master-data)
 * [Master Data](/en/docs/tutorials/master-data)
 * [Checking Master Data usage in the VTEX Admin](/en/docs/tutorials/checking-master-data-usage-in-the-vtex-admin)
 * [Master Data billing hasn't decreased after deleting a data entity](/en/docs/tutorials/master-data-billing-did-not-decrease-after-deleting-a-data-entity)

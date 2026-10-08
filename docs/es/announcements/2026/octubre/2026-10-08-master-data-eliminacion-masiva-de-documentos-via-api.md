@@ -1,18 +1,18 @@
 ---
 title: 'Master Data: eliminación en masa de documentos por API'
-createdAt: 2026-09-04T00:00:00.000Z
-updatedAt: 2026-09-04T00:00:00.000Z
+createdAt: 2026-10-08T00:00:00.000Z
+updatedAt: 2026-10-08T00:00:00.000Z
 contentType: updates
 productTeam: Master Data
-slugEN: 2026-09-04-master-data-bulk-document-deletion-via-api
+slugEN: 2026-10-08-master-data-bulk-document-deletion-via-api
 locale: es
-announcementSynopsisES: 'Ahora es posible eliminar en masa todos los documentos de una entidad de datos de Master Data que coincidan con un filtro, lo que reduce el volumen facturado de almacenamiento.'
+announcementSynopsisES: 'En beta abierta, es posible eliminar en masa todos los documentos de una entidad de datos de Master Data que coincidan con un filtro, lo que reduce el volumen facturado de almacenamiento.'
 tags:
   - Nueva funcionalidad
   - Master Data
 ---
 
-Las tiendas VTEX ahora cuentan con la eliminación en masa de documentos de [Master Data](/es/docs/tutorials/master-data) por API. Con el nuevo recurso, puedes remover de una sola vez todos los documentos de una [entidad de datos](/es/docs/tutorials/data-entity) que cumplan con un filtro.
+Las tiendas VTEX ahora cuentan con la eliminación en masa de documentos de [Master Data](/es/docs/tutorials/master-data) por API. Esta función está en beta abierta. Con el nuevo recurso, puedes remover de una sola vez todos los documentos de una [entidad de datos](/es/docs/tutorials/data-entity) que cumplan con un filtro.
 
 ## ¿Qué cambió?
 
@@ -26,11 +26,11 @@ El uso de [entidades de datos personalizadas](/es/docs/tutorials/master-data#ent
 
 ## ¿Qué se necesita hacer?
 
-No es necesaria ninguna acción; la función ya está disponible. Cuando necesites reducir el volumen de documentos almacenados en tu tienda, el equipo de desarrollo responsable de tu operación puede ejecutar la eliminación en masa mediante la API.
+No es necesaria ninguna acción. Cuando necesites reducir el volumen de documentos almacenados en tu tienda, el equipo de desarrollo responsable de tu operación puede ejecutar la eliminación en masa mediante la API.
 
 ## Más información
 
-* [Bulk deleting documents in Master Data](https://developers.vtex.com/docs/guides/bulk-deleting-documents-in-master-data)
+* [Deleting documents in bulk in Master Data](https://developers.vtex.com/docs/guides/deleting-documents-in-bulk-in-master-data)
 * [Master Data](/es/docs/tutorials/master-data)
 * [Consultar el uso de Master Data en el Admin VTEX](/es/docs/tutorials/checking-master-data-usage-in-the-vtex-admin)
 * [La facturación de Master Data no disminuyó después de eliminar una entidad de datos](/es/docs/tutorials/master-data-billing-did-not-decrease-after-deleting-a-data-entity)

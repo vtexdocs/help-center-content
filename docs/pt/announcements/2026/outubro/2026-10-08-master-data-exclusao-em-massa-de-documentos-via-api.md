@@ -1,18 +1,18 @@
 ---
 title: 'Master Data: exclusão em massa de documentos via API'
-createdAt: 2026-09-04T00:00:00.000Z
-updatedAt: 2026-09-04T00:00:00.000Z
+createdAt: 2026-10-08T00:00:00.000Z
+updatedAt: 2026-10-08T00:00:00.000Z
 contentType: updates
 productTeam: Master Data
-slugEN: 2026-09-04-master-data-bulk-document-deletion-via-api
+slugEN: 2026-10-08-master-data-bulk-document-deletion-via-api
 locale: pt
-announcementSynopsisPT: 'Agora é possível excluir em massa todos os documentos de uma entidade de dados do Master Data que correspondem a um filtro, reduzindo o volume faturado de armazenamento.'
+announcementSynopsisPT: 'Em beta aberto, é possível excluir em massa todos os documentos de uma entidade de dados do Master Data que correspondem a um filtro, reduzindo o volume faturado de armazenamento.'
 tags:
   - Nova funcionalidade
   - Master Data
 ---
 
-As lojas VTEX agora contam com a exclusão em massa de documentos do [Master Data](/pt/docs/tutorials/master-data) por API. Com o novo recurso, é possível remover de uma só vez todos os documentos de uma [entidade de dados](/pt/docs/tutorials/entidade-de-dados) que atendem a um filtro.
+As lojas VTEX agora contam com a exclusão em massa de documentos do [Master Data](/pt/docs/tutorials/master-data) por API. O recurso está em beta aberto. Com o novo recurso, é possível remover de uma só vez todos os documentos de uma [entidade de dados](/pt/docs/tutorials/entidade-de-dados) que atendem a um filtro.
 
 ## O que mudou?
 
@@ -26,11 +26,11 @@ O uso de [entidades de dados personalizadas](/pt/docs/tutorials/master-data#enti
 
 ## O que precisa ser feito?
 
-Nenhuma ação é necessária, o recurso já está disponível. Quando você precisar reduzir o volume de documentos armazenados na sua loja, o time de desenvolvimento responsável pela sua operação pode executar a exclusão em massa pela API.
+Nenhuma ação é necessária. Quando você precisar reduzir o volume de documentos armazenados na sua loja, o time de desenvolvimento responsável pela sua operação pode executar a exclusão em massa pela API.
 
 ## Saiba mais
 
-* [Bulk deleting documents in Master Data](https://developers.vtex.com/docs/guides/bulk-deleting-documents-in-master-data)
+* [Deleting documents in bulk in Master Data](https://developers.vtex.com/docs/guides/deleting-documents-in-bulk-in-master-data)
 * [Master Data](/pt/docs/tutorials/master-data)
 * [Consultar o uso do Master Data no Admin VTEX](/pt/docs/tutorials/consultar-o-uso-do-master-data-no-admin-vtex)
 * [A cobrança do Master Data não diminuiu depois que excluí uma entidade de dados](/pt/docs/tutorials/a-cobranca-do-master-data-nao-diminuiu-depois-que-exclui-uma-entidade-de-dados)
