@@ -31260,21 +31260,6 @@
                 },
                 {
                   "name": {
-                    "en": "Importing Amazon FBA Onsite orders",
-                    "es": "Importación de pedidos de Amazon FBA Onsite",
-                    "pt": "Importação de Pedidos Amazon FBA Onsite"
-                  },
-                  "slug": {
-                    "en": "importing-amazon-fba-onsite-orders",
-                    "es": "importacion-de-pedidos-de-amazon-fba-onsite",
-                    "pt": "importacao-de-pedidos-amazon-fba-onsite"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "AMARO Integration",
                     "es": "Integración con AMARO",
                     "pt": "Integração com a AMARO"
@@ -36183,6 +36168,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Activating Delivery Promise",
+                    "es": "Activar Delivery Promise",
+                    "pt": "Ativar o Delivery Promise"
+                  },
+                  "slug": {
+                    "en": "activate-delivery-promise",
+                    "es": "activar-delivery-promise",
+                    "pt": "ativar-delivery-promise"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Delivery Promise (Beta)",
@@ -44807,6 +44807,21 @@
             },
             {
               "name": {
+                "en": "Checkout UI is not automatically using \"lean shipping\" for items with no common shipping methods",
+                "es": "La interfaz de pago no utiliza automáticamente el \"envío simplificado\" para artículos sin métodos de envío comunes.",
+                "pt": "A interface de finalização da compra não está usando automaticamente o \"envio simplificado\" para itens sem métodos de envio comuns."
+              },
+              "slug": {
+                "en": "checkout-ui-is-not-automatically-using-lean-shipping-for-items-with-no-common-shipping-methods",
+                "es": "la-interfaz-de-pago-no-utiliza-automaticamente-el-envio-simplificado-para-articulos-sin-metodos-de-envio-comunes",
+                "pt": "a-interface-de-finalizacao-da-compra-nao-esta-usando-automaticamente-o-envio-simplificado-para-itens-sem-metodos-de-envio-comuns"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Checkout UI changes the selected address when more than 1 address available",
                 "es": "La interfaz de usuario de la caja cambia la dirección seleccionada cuando hay más de 1 dirección disponible.",
                 "pt": "A interface de usuário do checkout altera o endereço selecionado quando há mais de um endereço disponível"
@@ -44905,21 +44920,6 @@
                 "en": "checkout-ui-shows-free-shipping-when-the-user-switches-the-delivery-options",
                 "es": "la-interfaz-de-pago-muestra-el-envio-gratuito-cuando-el-usuario-cambia-las-opciones-de-entrega",
                 "pt": "a-interface-do-checkout-exibe-o-frete-gratis-quando-o-usuario-altera-as-opcoes-de-entrega"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Checkout UI is not automatically using \"lean shipping\" for items with no common shipping methods",
-                "es": "La interfaz de pago no aplica automáticamente la opción «envío económico» a los artículos que no tienen métodos de envío comunes",
-                "pt": "A interface do checkout não está utilizando automaticamente a opção \"frete econômico\" para itens sem métodos de envio comuns"
-              },
-              "slug": {
-                "en": "checkout-ui-is-not-automatically-using-lean-shipping-for-items-with-no-common-shipping-methods",
-                "es": "la-interfaz-de-pago-no-aplica-automaticamente-la-opcion-envio-economico-a-los-articulos-que-no-tienen-metodos-de-envio-comunes",
-                "pt": "a-interface-do-checkout-nao-esta-utilizando-automaticamente-a-opcao-frete-economico-para-itens-sem-metodos-de-envio-comuns"
               },
               "origin": "",
               "type": "markdown",
@@ -66684,6 +66684,21 @@
             },
             {
               "name": {
+                "en": "Shipping discount discarded due to rounding in cumulative promotions",
+                "es": "El descuento de envío se descartó debido al redondeo en las promociones acumulativas.",
+                "pt": "O desconto no frete foi descartado devido ao arredondamento em promoções cumulativas."
+              },
+              "slug": {
+                "en": "shipping-discount-discarded-due-to-rounding-in-cumulative-promotions",
+                "es": "el-descuento-de-envio-se-descarto-debido-al-redondeo-en-las-promociones-acumulativas",
+                "pt": "o-desconto-no-frete-foi-descartado-devido-ao-arredondamento-em-promocoes-cumulativas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Nominal discount based on formula not working as expected with subtraction operations",
                 "es": "El descuento nominal calculado según la fórmula no funciona como se esperaba en las operaciones de resta",
                 "pt": "O desconto nominal calculado com base na fórmula não está funcionando como esperado nas operações de subtração"
@@ -70308,13 +70323,28 @@
           "children": [
             {
               "name": {
+                "en": "Only one agent receives email notification in active call",
+                "es": "Solo un agente recibe notificación por correo electrónico en una llamada activa.",
+                "pt": "Apenas um agente recebe notificação por e-mail em uma chamada ativa."
+              },
+              "slug": {
+                "en": "only-one-agent-receives-email-notification-in-active-call",
+                "es": "solo-un-agente-recibe-notificacion-por-correo-electronico-en-una-llamada-activa",
+                "pt": "apenas-um-agente-recebe-notificacao-por-email-em-uma-chamada-ativa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Notifications from the personal shopper are not arriving on WhatsApp.",
-                "es": "Las notificaciones del asistente personal de compras no llegan a WhatsApp.",
+                "es": "Las notificaciones del personal shopper no llegan a WhatsApp.",
                 "pt": "As notificações do personal shopper não estão chegando no WhatsApp."
               },
               "slug": {
                 "en": "notifications-from-the-personal-shopper-are-not-arriving-on-whatsapp",
-                "es": "las-notificaciones-del-asistente-personal-de-compras-no-llegan-a-whatsapp",
+                "es": "las-notificaciones-del-personal-shopper-no-llegan-a-whatsapp",
                 "pt": "as-notificacoes-do-personal-shopper-nao-estao-chegando-no-whatsapp"
               },
               "origin": "",

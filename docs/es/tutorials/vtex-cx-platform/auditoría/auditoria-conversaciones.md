@@ -39,6 +39,7 @@ Puedes utilizar los recursos de búsqueda y filtros para localizar chats de sopo
 
 - Para buscar un chat de soporte por contacto, escribe el nombre del contacto en el campo **Buscar**.
 - Para filtrar la lista por criterios como rango de tiempo, status, CSAT, tema o tipo de conversación haz clic en `Filtrar conversaciones` y selecciona las opciones deseadas. Al finalizar haz clic en `Aplicar filtros`.
+- Para encontrar conversaciones que no han sido clasificadas por tema, haz clic en `Filtrar conversaciones` y, en **Asunto**, selecciona la opción **Ningún asunto correspondiente**. Este filtro ayuda a identificar temas que los clientes mencionan y que aún no se han mapeado en los asuntos de tu agente.
 
 ## Abrir y leer una conversación
 
