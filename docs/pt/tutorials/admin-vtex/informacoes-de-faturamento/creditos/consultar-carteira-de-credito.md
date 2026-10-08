@@ -1,7 +1,7 @@
 ---
 title: 'Consultar Carteira de Crédito'
-createdAt: '2026-09-28T00:00:00.000Z'
-updatedAt: '2026-09-28T00:00:00.000Z'
+createdAt: '2026-10-08T00:00:00.000Z'
+updatedAt: '2026-10-08T00:00:00.000Z'
 contentType: tutorial
 productTeam: Billing
 slugEN: checking-credit-wallet
@@ -26,6 +26,8 @@ Na página **Créditos**, você encontra as seguintes informações:
 ### Consumo de Master Data
 
 ![creditos-master-data-pt](https://cdn.jsdelivr.net/gh/vtexdocs/help-center-content@main/docs/pt/tutorials/admin-vtex/informacoes-de-faturamento/creditos/creditos-master-data-pt.png)
+
+> ⚠️ Durante a primeira semana de cada mês, a contagem de documentos no painel lateral do Master Data pode aparecer como zero. Isso acontece porque a primeira atualização do mês atual só é feita após esse período. Assim que a atualização ocorre, o número correto de documentos é exibido.
 
 Para ver o consumo de Master Data, expanda a linha de um mês no **Extrato de crédito** e, na seção **Consumo por add-on**, no canto inferior esquerdo da tela, clique no card **Master Data**. Isso abre um painel lateral com:
 

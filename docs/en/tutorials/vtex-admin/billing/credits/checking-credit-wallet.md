@@ -1,7 +1,7 @@
 ---
 title: 'Checking Credit Wallet'
-createdAt: '2026-09-28T00:00:00.000Z'
-updatedAt: '2026-09-28T00:00:00.000Z'
+createdAt: '2026-10-08T00:00:00.000Z'
+updatedAt: '2026-10-08T00:00:00.000Z'
 contentType: tutorial
 productTeam: Billing
 slugEN: checking-credit-wallet
@@ -27,6 +27,8 @@ On the **Credits** page, you'll find the following information:
 ### Master Data consumption
 
 ![credits-master-data-en](https://cdn.jsdelivr.net/gh/vtexdocs/help-center-content@main/docs/en/tutorials/vtex-admin/billing/credits/credits-master-data-en.png)
+
+> ⚠️ During the first week of each month, the document count in the Master Data drawer may show as zero. This happens because the first update of the month only takes place after this period. Once the update occurs, the correct number of documents will be displayed.
 
 To view Master Data consumption, expand a month's row in the **Credit statement** and, in the **Consumption by add-on** section, in the lower-left corner of the screen, click the **Master Data** card. This opens a side panel with:
 

@@ -1,7 +1,7 @@
 ---
 title: 'Carteira de Crédito: acompanhe o crédito que abate sua cobrança de Master Data'
-createdAt: '2026-09-29T00:00:00.000Z'
-updatedAt: '2026-09-29T00:00:00.000Z'
+createdAt: '2026-10-08T00:00:00.000Z'
+updatedAt: '2026-10-08T00:00:00.000Z'
 contentType: updates
 productTeam: Billing
 slugEN: 2026-09-29-credit-wallet-track-the-credit-that-offsets-your-master-data-charges
