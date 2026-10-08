@@ -1,10 +1,10 @@
 ---
 title: "User Rights API: eliminación automatizada de datos personales"
-createdAt: 2026-05-21T14:00:00.000Z
-updatedAt: 2026-05-21T14:00:00.000Z
+createdAt: 2026-10-08T14:00:00.000Z
+updatedAt: 2026-10-08T14:00:00.000Z
 contentType: updates
 productTeam: Identity
-slugEN: 2026-05-21-user-rights-api-automated-personal-data-erasure
+slugEN: 2026-10-08-user-rights-api-automated-personal-data-erasure
 locale: es
 announcementSynopsisES: 'La nueva User Rights API permite automatizar solicitudes de eliminación de datos personales conforme a la LGPD (Brasil) y al RGPD en la plataforma VTEX.'
 tags:
@@ -12,8 +12,6 @@ tags:
 ---
 
 VTEX lanzó **User Rights API**, que permite automatizar el proceso de eliminación de datos personales de compradores en la plataforma, en conformidad con la LGPD (Brasil) y el RGPD, en el marco del “derecho al olvido”.
-
-> ℹ️ Esta funcionalidad está en fase de beta abierta.
 
 > ⚠️ Los flujos de derechos de usuario disponibles en esta API se aplican solo a compradores no corporativos. No se aplican a compradores B2B ni a usuarios del Admin VTEX.
 

@@ -84,6 +84,21 @@
                 },
                 {
                   "name": {
+                    "en": "User Rights API: Automated erasure of personal data",
+                    "es": "User Rights API: eliminación automatizada de datos personales",
+                    "pt": "User Rights API: exclusão automatizada de dados pessoais"
+                  },
+                  "slug": {
+                    "en": "2026-10-08-user-rights-api-automated-personal-data-erasure",
+                    "es": "2026-10-08-user-rights-api-automated-personal-data-erasure",
+                    "pt": "2026-10-08-user-rights-api-apagamento-automatizado-de-dados-pessoais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Black Friday 2026: Get your store ready with our best practices guide",
                     "es": "Black Friday 2026: prepara tu tienda con nuestra guía de buenas prácticas",
                     "pt": "Black Friday 2026: prepare sua loja com nosso guia de boas práticas"
