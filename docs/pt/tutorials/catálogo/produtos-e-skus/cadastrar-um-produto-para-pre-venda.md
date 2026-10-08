@@ -3,7 +3,7 @@ title: 'Cadastrar um produto para pré-venda'
 id: 4o6cUJ4gIg0MQWW8WfN34K
 status: PUBLISHED
 createdAt: 2021-09-08T16:32:39.818Z
-updatedAt: 2026-10-06T15:00:00.000Z
+updatedAt: 2026-10-08T15:00:00.000Z
 publishedAt: 2025-11-06T15:35:57.132Z
 firstPublishedAt: 2021-09-14T16:54:57.039Z
 contentType: tutorial
@@ -67,8 +67,8 @@ Exemplo em uma loja Store Framework: `https://www.{nomeDaLoja}.com.br/{departame
 
 A ordenação funciona com os dois buscadores da VTEX. O que muda é a ordem exibida quando a querystring não é aplicada:
 
-- **[VTEX Search (Legado)](/pt/docs/tutorials/como-funciona-vtex-search-legado):** os resultados seguem a pontuação (score) que o indexador calcula para o termo buscado.
 - **[VTEX Intelligent Search](/pt/docs/tutorials/intelligent-search-visao-geral):** os resultados seguem a relevância, em que a data de lançamento é um critério configurável que perde valor ao longo de 90 dias. Saiba mais em [Regras de relevância](/pt/docs/tutorials/regras-de-relevancia).
+- **[VTEX Search (Legado)](/pt/docs/tutorials/como-funciona-vtex-search-legado):** os resultados seguem a pontuação (score) que o indexador calcula para o termo buscado.
 
 ## Validar a configuração
 
