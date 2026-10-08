@@ -71,13 +71,14 @@ O **AI Sales Team Management** tem as seguintes restrições:
 
 ## Gerenciar times, sales reps e carteiras de clientes
 
-Com o **AI Sales Team Management** você pode realizar ações em:
+Com o **AI Sales Team Management** você pode realizar:
 
-- [Times](#acoes-em-times)
-- [Sales reps](#acoes-em-sales-reps)
-- [Carteiras de clientes](#acoes-em-carteiras-de-clientes)
+- [Ações em times](#acoes-em-times)
+- [Ações em sales reps](#acoes-em-sales-reps)
+- [Ações em carteiras de clientes](#acoes-em-carteiras-de-clientes)
+- [Ações comuns a times, sales reps e carteiras de clientes](#acoes-comuns-a-times-sales-reps-e-carteiras-de-clientes)
 
-> ℹ️ Os exemplos de solicitação apresentados a seguir são apenas ilustrativos e não são a única forma de pedir uma ação ao agente.
+> ℹ️ Os exemplos de instrução apresentados a seguir são apenas ilustrativos e não a única forma de realizar uma ação no **AI Sales Team Management**.
 
 ### Ações em times
 
