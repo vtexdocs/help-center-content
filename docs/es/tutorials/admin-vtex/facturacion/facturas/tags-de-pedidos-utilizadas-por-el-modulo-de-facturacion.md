@@ -17,7 +17,7 @@ subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 
 VTEX cuenta como [ingresos de la tienda](/es/docs/tutorials/vision-general-facturacion) el valor total de los pedidos aprobados en el [flujo de transacciones de pago](/es/docs/tutorials/flujo-de-la-transaccion-en-pagos) y lo utiliza para calcular la factura. Sin embargo, puede que se apliquen diferentes cargos a pedidos con el mismo valor, ya que el módulo de facturación se basa en tags.
 
-Las tags son categorías que definen las características del pedido e indican las reglas de negocio aplicadas a la venta. El pedido se analiza en función de determinados criterios y se le asignan tags que definen el _take rate_ que se cobrará.
+Las tags son categorías que definen las características del pedido e indican las reglas de negocio aplicadas a la venta. El pedido se analiza en función de determinados criterios y se le asignan tags que definen el take rate que se cobrará.
 
 Este artículo describe las tags del módulo de facturación. El objetivo de este contenido es aumentar la transparencia en tu relación comercial con VTEX.
 
@@ -29,8 +29,6 @@ Para que se le puedan asignar tags, un pedido debe cumplir las siguientes condic
 
 * Tener toda la [información que compone un pedido](/es/docs/tracks/pedidos) (no se les asignan tags a pedidos [incompletos](/es/docs/tutorials/como-encontrar-un-pedido)).
 * Tener la información de pago con los datos de autorización de la transacción financiera.
-
-> ℹ️ Los pedidos generados por [Multinivel Omnichannel Inventory (MOI)](/es/docs/tutorials/multilevel-omnichannel-inventory), también conocidos como pedidos *chain*, no incluyen la información de pago y, por lo tanto, no se les asignan tags ni pueden ser cobrados.
 
 ## Modificación de pedidos y tags
 
@@ -81,7 +79,7 @@ A continuación se listan las tags para pedidos en el entorno del seller asociad
 
 * **IsMarketplace:** pedido generado en un [marketplace](/es/docs/tutorials/que-es-un-marketplace), ya sea [marketplace certificado](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-marketplace-certificado), [marketplace partner](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-marketplace-partner), [marketplace VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#como-marketplace-vtex) (tienda actuando como marketplace) o [marketplace externo](https://developers.vtex.com/docs/guides/external-marketplace-integration-guide). Todo pedido `IsMarketplace` es  `IsCertifiedMarketplace` o un marketplace externo. Esta primera tag es para el sistema.
 * **IsCertifiedMarketplace:** pedido generado en un [marketplace certificado](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-marketplace-certificado), [marketplace partner](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-marketplace-partner) o [marketplace VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#como-marketplace-vtex) (tienda actuando como marketplace). Después de que se le asigna esta tag al pedido, el próximo paso obligatorio es asignarle `IsInternalCertifiedMarketplace` o `IsExternalCertifiedMarketplace`.
-    * **IsExternalCertifiedMarketplace:** pedido generado en un [marketplace certificado](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-marketplace-certificado) (Amazon, Mercado Libre, entre otros) o [marketplace partner](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-marketplace-partner) (Shopee, Facebook, entre otros).
+    * **IsExternalCertifiedMarketplace:** pedido generado en un [marketplace certificado](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-marketplace-certificado) o [marketplace partner](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-marketplace-partner).
     * **IsInternalCertifiedMarketplace:** pedido generado en un [marketplace VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#como-marketplace-vtex), es decir, en una tienda actuando como marketplace para un seller. Esta tag puede incluir otro nivel opcional de tags.
         * **IsInternalCertifiedMarketplaceAndIsParentAccount:** pedido generado en un marketplace VTEX donde el marketplace es la cuenta principal y el seller es una [subcuenta](/es/docs/tracks/cuentas-y-arquitectura#entorno-adicional), es decir, es un entorno adicional.
 
@@ -89,7 +87,7 @@ A continuación se listan las tags para pedidos en el entorno del seller asociad
 
 A continuación se listan las tags de pedidos en el entorno del marketplace asociadas al seller propietario del ítem vendido:
 
-* **IsSeller:** pedido generado en un marketplace cuando el ítem vendido pertenece al [seller](/es/docs/tutorials/que-es-un-seller). Todo pedido `IsSeller` es por obligación `IsExternalSeller` o `IsCertifiedSeller`. Esta primera tag es para el sistema.
+* **IsSeller:** pedido generado en un marketplace cuando el ítem vendido pertenece al [seller](/es/docs/tutorials/que-es-un-seller). Todo pedido `IsSeller` es necesariamente `IsExternalSeller` o `IsCertifiedSeller`. Esta primera tag es para el sistema.
 * **IsExternalSeller:** pedido generado en un [marketplace VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#como-marketplace-vtex) (tienda actuando como marketplace) donde el seller propietario del ítem vendido es un [seller externo](https://developers.vtex.com/docs/guides/external-seller-integration-guide).
 * **IsCertifiedSeller:** pedido generado en [marketplace certificado](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-marketplace-certificado), [marketplace partner](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-marketplace-partner) o marketplace VTEX (tienda actuando como marketplace) donde el seller propietario del ítem vendido es un [seller VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#ser-um-seller-vtex). Todo pedido `IsCertifiedSeller` es por obligación `IsInternalCertifiedSeller`.
     * **IsInternalCertifiedSeller:** esta tag es para el sistema, ya que a todo pedido `IsInternalCertifiedSeller` debe obligatoriamente asignársele la tag `IsInternalCertifiedSellerAndIsChildAccount` o `IsSellerPortal`.

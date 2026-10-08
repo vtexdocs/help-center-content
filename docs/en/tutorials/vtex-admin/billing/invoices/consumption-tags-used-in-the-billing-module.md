@@ -17,9 +17,9 @@ subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 
 VTEX considers the total amount of orders approved in the [payment transaction flow](/en/docs/tutorials/transaction-flow-in-payments) as the [store revenue](/en/docs/tutorials/billing-module-overview) and calculates the invoice accordingly. However, different rates may apply to orders of the same value because the billing module operates based on tags.
 
-Consumption tags are categories that define the characteristics of an order and indicate the business rules applied to the sale. The order is analyzed based on specific criteria and is assigned tags that determine the take rate to be charged.
+Consumption tags are categories that define the characteristics of an order and indicate the business rules applied to the sale. The order is analyzed based on specific criteria and is assigned tags that determine the _take rate_ to be charged.
 
-This article presents the existing tags in the billing module. By providing this content, we aim to increase transparency in your commercial relationship with VTEX.
+This article describes the tags available in the Billing module. Our goal is to make your commercial relationship with VTEX more transparent.
 
 > ⚠️ The order tagging system does not charge your store's customers in any way. It serves only as a data source that the billing module uses to calculate the invoice.
 
@@ -29,8 +29,6 @@ For an order to be tagged, it must meet the following conditions:
 
 * Have all [order details](/en/docs/tracks/orders) ([incomplete](/en/docs/tutorials/understanding-incomplete-orders) orders do not receive tags).
 * Have payment information, including the authorization date of the financial transaction.
-
-> ℹ️ Orders placed through [Multilevel Omnichannel Inventory (MOI)](/en/docs/tutorials/multilevel-omnichannel-inventory), known as chain orders, do not include payment information. Therefore, they cannot be tagged or charged.
 
 ## Changing orders and tags
 
@@ -89,7 +87,7 @@ See below the tags available for orders in the seller environment, depending on 
 
 See below the consumption tags available in the marketplace environment, depending on the seller that sold the order:
 
-* **IsSeller:** The order was placed in a marketplace where the item sold belongs to the [seller](/en/docs/tutorials/what-is-a-seller). Every `IsSeller` order will necessarily be tagged as either `IsExternalSeller` or `IsCertifiedSeller`, and this initial tag is only for system purposes.
+* **IsSeller:** The order was placed on a marketplace where the item sold belongs to the [seller](/en/docs/tutorials/what-is-a-seller). Every `IsSeller` order will necessarily be tagged as either `IsExternalSeller` or `IsCertifiedSeller`. This tag is used only for internal system purposes.
 * **IsExternalSeller:** The order was placed in a [VTEX marketplace](/en/docs/tutorials/marketplace-strategies-at-vtex#operating-as-a-vtex-marketplace) (store acting as a marketplace), and the seller of the item is an [external seller](https://developers.vtex.com/docs/guides/external-seller-integration-guide).
 * **IsCertifiedSeller:** The order was placed in a [certified marketplace](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-certified-marketplaces), [partner marketplace](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-partner-marketplaces), or VTEX marketplace (store acting as a marketplace) in which the seller who owns the item sold is a [VTEX seller](/en/docs/tutorials/marketplace-strategies-at-vtex#operating-as-a-vtex-seller). Every `IsCertifiedSeller` order will also have the `IsInternalCertifiedSeller` tag.
     * **IsInternalCertifiedSeller:** This tag is used for system purposes only. Every `IsInternalCertifiedSeller` order will also receive the `IsInternalCertifiedSellerAndIsChildAccount` or `IsSellerPortal` tag.
