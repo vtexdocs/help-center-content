@@ -1,366 +1,315 @@
 ---
 title: 'VTEX Pick and Pack: Last Mile'
-id: HN7WKV0xoq2ssVjsJlfzr
-status: PUBLISHED
 createdAt: 2023-04-10T16:01:14.613Z
-updatedAt: 2023-08-25T15:52:19.799Z
-publishedAt: 2023-08-25T15:52:19.799Z
-firstPublishedAt: 2023-04-10T16:35:43.623Z
+updatedAt: 2026-10-08T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: vtex-pick-and-pack-last-mile
-legacySlug: vtex-pick-and-pack-last-mile
 locale: en
-subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
+hidden: false
 ---
 
-> ℹ️ If you are interested in implementing for your business, fill out our [form](https://www.vtex.com/en-us/get-started/) and indicate the name of the desired product in the `Comments` section.
+> ℹ️ If you're interested in adopting this feature for your business, complete our [form](https://www.vtex.com/en-us/get-started/) and enter the desired product name in the `Comments` field.
 
-[VTEX Pick and Pack](https://content.vtex.com/en/pick-and-pack/) is a solution to streamline stores’ fulfillment processes by optimizing orders’ picking and packing, and the last-mile delivery. The solution is composed of the [VTEX Fulfillment](/en/docs/tutorials/vtex-pick-and-pack-fulfillment) and the **Last Mile** modules. 
+**Last Mile** is the VTEX Admin page that tracks the final fulfillment stage of orders processed by [VTEX Pick and Pack](/docs/tutorials/vtex-pick-and-pack): shipping to the customer by integrated carriers and in-store pickup.
 
-With **Last Mile**, merchants have complete visibility of shipping and order tracking. The module has the following sections:
+Each movement is represented by a **service**, the record that brings together the origin, destination, packages, and status history of one or more orders. The page is organized into two tabs, one for each service type:
 
-* [Shipping services](#shipping-services)
-* [Settings](#settings)
+- [Deliveries](#deliveries)
+- [In-store pickup](#in-store-pickup)
 
-> ℹ️ To start using Last Mile, it is necessary to adjust the feature's Settings.
+In these tabs, you can do the following:
 
-## Shipping services
+- [Create service](#create-service)
+- [View service details](#view-service-details)
+- [Confirm in-store pickup](#confirm-in-store-pickup)
 
-When you access in your VTEX Admin, **Apps > Last Mile > Shipping services**, you find a page listing the store’s shipping services, which are the [services created](#create-shipping-service) for each delivery, as in the image below:
+The module also has the following configuration sections:
 
-The following table contains a description of the columns:
+- [Integrations](#integrations)
+- [Settings](#settings)
 
-|   Column   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   Carrier  | The [carrier](/en/docs/tutorials/carriers-on-vtex) is the company responsible for delivering the packages to customers. The courier is the driver who makes the delivery.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Service ID | Every shipping service has its own identification code that appears in this field, alongside its creation date.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|  Customer  | Name and address of the customer who made the purchase.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|   Item(s)  | Total number of items that will be delivered. If two packages have three items each, in this column you will see the number six.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|  Deadline  | Limit date for the customer to receive the order.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|   Status   | The Shipping service statuses are:<br>- Created: The shipping service has just been created. This is an internal status that validates the service data.<br>- Pending: This is the service first status, of when the system sends the information to the carrier and creates the service on the carrier’s side.<br>- Assigned: The carrier has assigned a courier for the task and the courier has accepted the shipping service.<br>- Canceled: The shipping service was canceled.<br>- Delivered: The order was delivered to the customer, whether it’s their address or a [pickup point](/en/docs/tutorials/pickup-points).<br>- Incident: The carrier or courier reported an incident, a problem with the road, for example. The courier can [add a note](#field-templates-section) giving more details.<br>- On hold: The courier puts the shipping service on hold. That can happen for many reasons, a broken vehicle, for example. When it happens, the courier can give an [explanation note](#field-templates-section).<br>- On route: The courier has collected the package in the physical store or [warehouse](/en/docs/tutorials/warehouse), for example.<br>- Picked: The courier has collected the package.<br>- Returned: The customer couldn’t be reached or refused to receive the package, so the order was returned. |
+## Deliveries
 
-You can perform the following actions in the **Shipping services**:
+The **Deliveries** tab lists services assigned to carriers, along with the status updates they return until the order is delivered to the customer.
 
-* [Search](#search)
-* [Filter](#filter)
-* [Create shipping service](#create-shipping-service)
-* [View shipping service details](#view-shipping-service-details)
+![vtex-pick-and-pack-last-mile_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_1.png)
 
-### Search
+The table displays the following information:
 
-On the top of the page, there is a search box with the magnifier icon  <i class="fas fa-search"></i> in which you can search for shipping services using the following criteria:
+| Table field        | Description                                                                                                                                           |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Carrier            | [Carrier](/en/docs/tutorials/carriers-on-vtex) handling shipping, with the respective logo and the service identifier in the carrier. |
+| Service ID         | Service identification number in Last Mile.                                                                                           |
+| Tags               | Tags associated with the service.                                                                                                     |
+| Origin/Destination | Shipment origin and destination locations.                                                                                            |
+| Delivery date      | Expected delivery date for the order.                                                                                                 |
+| Status             | Current stage of the service.                                                                                                         |
 
-* Service ID
-* Order ID
-* Customer name
-* Customer email
-* Carrier ID
-* Carrier name
-* Courier ID
-* Courier name
+To find a specific service, use the search bar at the top of the page. You can also refine the view with the following filters:
 
-### Filter
+- **Delivery date:** Range of expected delivery dates.
+- **Carrier:** Carrier handling the delivery.
+- **Status:** Current stage of the service. You can select more than one status.
+- **Fulfillment locations:** Store or distribution center where the service originates.
+- **Payment methods:** [Payment method](/docs/tutorials/difference-between-payment-methods-and-payment-conditions) used for the order.
 
-You can filter shipping services using different criteria, by clicking `Filters` and then clicking `+ Add Filter`. You will see the filter options below:
+To deselect a filter, open it and click `Clear`.
 
-* **Status:** Shipping services [statuses](#view-shipping-service-details).  
-* **Carrier:** Company responsible for delivering the package to the customer.  
-* **Payment:** [Payment method](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions) used by the customer, like a credit or a debit card.  
-* **Store:** Which store is related to the shipping service.  
+### Service status
 
-You can combine as many filters as you want. To do so, click **Filters > + Add Filter**, and then on the menu <i class="fas fa-ellipsis-v"></i> click `Duplicate`. If you wish to delete a filter, in the menu <i class="fas fa-ellipsis-v"></i> click `Delete`.
+The available statuses depend on the carrier integration configuration. The following table shows the statuses that can be applied to services in both tabs. The filters display only the statuses sent by the carrier. For example, a carrier may only submit the **Created** and **Delivered** statuses.
 
-To remove all selected filters, click `Filters`, and then click `Clear filters`.
+| Status     | Description                                                                                                                                                                  |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Created    | Internal data validation status, assigned when the service is created.                                                                                       |
+| Pending    | The system sent the information to the carrier, and the service was created on their end.                                                                    |
+| Assigned   | The carrier assigned a courier to the service.                                                                                                               |
+| Picked     | The carrier collected the packages at the origin.                                                                                                            |
+| On the way | Packages are in transit to the destination.                                                                                                                  |
+| Delivered  | The order was delivered to the customer at the provided address, at a [pickup point](/en/docs/tutorials/pickup-points), or at the store for in-store pickup. |
+| Incident   | The carrier reported an issue during transit.                                                                                                                |
+| On hold    | The carrier temporarily suspended the service, for example, due to a vehicle breakdown.                                                                      |
+| Returned   | The order was returned to its origin. For example, the customer wasn't found or refused the order.                                           |
+| Transfer   | The service corresponds to a transfer of items between fulfillment locations.                                                                                |
+| Canceled   | The service was canceled.                                                                                                                                    |
 
-### Create shipping service
+> ℹ️ In shipping services, statuses are updated by the carrier via the [Pick and Pack Last Mile Protocol API](https://developers.vtex.com/docs/api-reference/pick-and-pack-protocol-api). For pickup services, the status is updated by the store operator in the VTEX Admin.
 
-Shipping services can be [created automatically](#general-section) or manually by an [admin user](#users). The main difference is that when you import an order, most of the information in the **New Shipping Service** page is automatically filled.
+## In-store pickup
 
-To manually create a shipping service from an order, follow the steps below:
+The In-store pickup tab lists orders that customers will pick up in-store, and pickup is confirmed there.
 
-1. In your VTEX Admin, go to **Apps > Last Mile > Shipping services**.
-2. Click `Create Service`.
-3. Search the order by entering the order ID in the search box or filter orders by creation date, using the `Filter` button. 
+![vtex-pick-and-pack-last-mile_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_2.png)
 
-  > ⚠️ Only orders in the `invoiced` status will appear in the list and search results.
+The table displays the following information:
 
-4. Click the order.  
-5. Click `Create From Order {order ID}` and you will be redirected to the _New Shipping Service_ page.   
-6. Most of the data will have been imported from the order, but you can still change it, if needed. Check the information and make the necessary changes in the tabs:  
-    - **Pickup:** Fill in with the address information of where the courier will collect the packages. Be aware that this field has no relation with the usual concept of [pickup point](/en/docs/tutorials/pickup-points) in VTEX.
-    - **Delivery:** Fill in with the address information of where the courier will deliver the packages, whether the customer’s address or a [pickup point](/en/docs/tutorials/pickup-points). 
-    - **Content:** Select the content of the delivery, it can be _Order items, Order invoices_ or _Other._
-    - **Carrier:** Select the expected date for the courier to collect the packages, and the expected date for the package to get to its destination. After that, click the carrier to select it for the shipping service.
-7. When everything is ready, the `Create Service` button will appear and you must click it. 
+| Table field | Description                                                                                               |
+| ----------- | --------------------------------------------------------------------------------------------------------- |
+| Order ID    | Order identification number.                                                              |
+| Customer    | Name of the customer who placed the order.                                                |
+| Pickup date | Expected date and time for the customer to pick up the order.                             |
+| Store       | Store where the order will be picked up.                                                  |
+| Status      | Current status of the service, as defined in the [service status](#service-status) table. |
 
-You can also manually create a shipping service without importing the order’s information. To do so, in step 2 click `Create Manually` and go on from step 7 to the end. 
+To find a specific order, use the search bar at the top of the page. You can also refine the view with the **Pickup date**, **Status**, and **Fulfillment location** filters.
 
-### View shipping service details
+## Creating a service
 
-In the **Shipping services** page, you can see more information about each shipping service created by clicking it. This will open a modal that looks like the following image:
+Services can be created automatically or manually:
 
-In the modal, there are four tabs:
+- **Automatically:** Configure a rule in the **Automation > Shipping services** tab of the Pick and Pack [Settings](/en/docs/tutorials/vtex-pick-and-pack-settings) to create the service when the defined conditions are met.
+- **Manually:** Create the service on the **Last Mile** page.
 
-|     Tab     |                                                                                                                                                                                                    Description                                                                                                                                                                                                    |
-|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   Details   | Displays detailed information related to the shipping service, for example:<br>- Service type<br>- Estimated delivery date<br>- Address to collect packages<br>- Shipping information<br>- Order’s items details<br>- It also displays a Timeline with the history of the shipping service, from its creation to carrier’s status updates. The addition of a new note or evidence also appears in the Timeline, among others. |
-|   Tracking  | The tracking is only available if the courier is `Last Mile`. <br>It presents information and metrics about the courier:<br>- Current delivery capacity<br>- License number<br>- Type of vehicle<br>- Courier’s mobile device battery<br>- Ccourier’s evaluation according to customers (from 0-5)<br>You can send a message to the courier with the <i class="fas fa-envelope"></i> `Send Message` button.                 |
-| Attachments | Shows the content attached to the shipping service, if there is any. For example, a digital signature from the customer as proof of delivery.                                                                                                                                                                                                                                                                     |
-|    Notes    | When the courier sends notes and text messages, their history is saved here.                                                                                                                                                                                                                                                                                                                                      |
+To create a service manually, follow the steps below:
 
-On the top of the modal, sometimes appears a menu  <i class="fas fa-ellipsis-v"></i>, depending on the shipping service’s status. When you click it, different options appear for each status. For example:
+1. In the VTEX Admin, go to **Shipping > Last Mile > Shipping services**.
 
-- `Pending` status: **Assign Courier**
-- `On route`: none
-- `Delivered`: **Tracking URL**
-- `Canceled`: **Tracking URL**
-
-## Settings
-
-When you access in your VTEX Admin, **Apps > Last Mile > Settings**, you find **Couriers**, where you configure couriers and users. You must be an [admin user](#users) to be able to make editions. 
-
-In the **Couriers** page, there are the following tabs:
-
-* [General](#general)
-* [Last Mile](#last-mile)
-* [External Carriers](#external-carriers)
-* [Users](#users)
-
-### General
-
-In this tab, you can configure the address where carriers will collect the packages for delivery, by following the steps below:
-
-1. In **Pickup address**, fill in manually the address where courier will pick packages for delivery or use the search box with the magnifier icon  <i class="fas fa-search"></i> to find the address, what will automatically fill in the address information.
-2. In **Contact information**, fill in with the _name, phone_ and _email_ of the courier’s contact.
-3. Click `Save`.
-
-### Last Mile
-
-In **Settings > Last Mile**, you will find the following sections:
+2. Click `Create service`.
 
-* [General section](#general-section)
-* [Last Mile section](#last-mile)
-* [Field templates section](#field-templates-section)
+3. In **Select a service type**, select the service type:
+   - **Delivery:** The order will be delivered by a carrier to the customer's address or at a [pickup point](/en/docs/tutorials/pickup-points).
+   - **Pickup:** The order will be picked up by the customer at a store.
 
-#### General section
-
-You can configure the **Last Mile** activation by clicking on the switch at the top of the page <i class="fas fa-toggle-on"></i> `Activate` or <i class="fas fa-toggle-off"></i> `Deactivate`.
+4. Click `Continue`.
 
-There are three main parts in this section: 
-
-* Courier assignment
-* Capacity management
-* Automatic creation
-
-The following image is an example of the `Courier assignment` section:
-
-- **Location accuracy in courier app:** determine the precision of the courier’s app identifying and transmitting the courier’s location. This configuration interferes with the battery duration of the mobile device, depending how often the location is updated. The options are described in the table below:
-
-|  Option  |                                                                                     Description                                                                                     |
-|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   High   | The app refreshes the courier’s location every 3 seconds. This is the most precise option, but it consumes a lot of the courier’s mobile device battery.                            |
-|  Medium  | The app refreshes the courier’s location every 30 seconds. This is an option with intermediary precision, and it consumes a moderate amount of the courier’s mobile device battery. |
-|    Low   | The app refreshes the courier’s location every 60 seconds. This is the least precise option, but it consumes the minimum amount of the courier’s mobile device battery.             |
-| Disabled | The app will refresh the courier’s location only when he updates his service status or when he opens the app.                                                                       |
-
-* **Automatic courier assignment:** If the switch is enabled <i class="fas fa-toggle-on"></i>, the system will try to automatically assign a courier to every service created for _Last Mile_.
-    * **Assignment strategy:** The automatic courier selection algorithm when a service is created can be based on one of the following rules:
-        * `One at a time`: The task request notification is sent to the courier who is closest to where the package must be collected. If the first courier does not accept the task within the requested expiration time, the request is sent to the second closest courier, and so on. While no one accepts the task, it remains unassigned.  
-        * `Send to All`: The task request notification is sent to all couriers available in the service time zone, up to the maximum limit of 500 couriers. The service is assigned to the courier that accepts it first, and the service remains unassigned until someone accepts it.  
-        * `Round Robin`: Round Robin is an allocation algorithm based on parameters that can be configured. The task is assigned to the courier who is closest and considers how many active services he already has. You can customize the algorithm for assigning the task to couriers who are not connected, for example.  
-        * `Nearest Available`: The task is automatically assigned to the courier based on their availability and distance. However, the courier still needs to accept the task.  
-    * **Request expiration (in seconds):** Enter the desired number or click the buttons <i class="fas fa-minus"></i> and & <i class="fas fa-plus"></i> to determine:
-        * Request expiration (in seconds) 
-        * Number of retries  
-    * The switches below appear only when the `Round Robin` Assignment strategy was chosen. They can be activated or deactivated independently of one another:
-        * <i class="fas fa-toggle-off"></i>  Consider courier rating (higher rating will be prioritized)
-        * <i class="fas fa-toggle-off"></i>  Assign task to offline couriers
-        * <i class="fas fa-toggle-off"></i>  Restart assignment if the service is declined
-        * <i class="fas fa-toggle-off"></i>  Prioritize idle couriers (couriers without tasks will be prioritized)
-        * <i class="fas fa-toggle-off"></i>  Calculate courier ETA from current location to next pickup
+   ![vtex-pick-and-pack-last-mile_3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_3.png)
 
-The image below represents the `Capacity management` section:
+5. Select the orders that will be part of the service. The list displays only the orders that are eligible for the selected service type, and it includes the following information:
 
-* **Capacity calculation:** the courier’s shipping capacity will be calculated based on one of the following values:
-    * `Item(s)`: The courier’s capacity will vary according to the number of items inside packages.
-    * `Package(s)`: The courier’s capacity will vary according to the number of packages.
-    * `Service(s)`: The courier’s capacity will vary according to the number of shipping services assigned to the courier.
-* **Max. capacity:** Enter the desired value or click on the buttons <i class="fas fa-minus"></i> and <i class="fas fa-plus"></i>  to determine which number will apply to the previously configured rule.
+   - **Order ID:** Identifier and created date of the order.
+   - **Items:** Number of items and units in the order.
+   - **Shipping:** Order shipping method, `Delivery to customer` or `In-store pickup`.
+   - **Status:** The step of the order in the VTEX Pick and Pack flow.
+   - **Fulfillment location:** Store or distribution center responsible for the order.
 
-#### Couriers section
+   The selected orders appear under **Selected orders**, and the **Summary** block consolidates the number of orders, items, and fulfillment locations. To find an order, use the search bar or the **Status**, **Fulfillment locations**, and date filters — which correspond to **Delivery date** for shipping services and **Pickup date** for pickup services.
 
-In this section, you can add a new courier, edit an existing one or send a message to the courier. 
+   ![vtex-pick-and-pack-last-mile_4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_4.png)
 
-To add a courier, follow the steps below:
+6. Click `Continue`.
 
-1. In your VTEX Admin, go to **Apps > Last Mile > Settings > Last Mile > Couriers**.
-2. Click `Add`.
-3. Fill in with the courier’s information:
-    * Username
-    * First name
-    * Last name
-    * Email
-    * Phone
-4. Enter a password for the courier to access the app. It must contain at least one uppercase letter, one lowercase letter, one number and one special character. Select the stores that will be associated with the carrier.
-5. Click the type of vehicle, it can be one of the following:
-    * Walk
-    * Bike
-    * Scooter
-    * Car
-    * Van
-    * Truck
-6. Enter the courier’s License.
-7. If desired, add other information.
-8. Slide the slider to determine the number of the courier’s delivery capacity; the range is the limit set on the [General section](#general-section). 
-    > Whether the number in the slider represents items, packages or shipping services was set in the [General section](#general-section).
-9. If you wish to associate the courier with a color, the vehicle color, for example, click on the color code and select the desired one.
-10. Click `Create`.
+7. Check the packages for every order, with the items, quantity, and dimensions of each.
 
-To edit a courier, follow these steps:
+   ![vtex-pick-and-pack-last-mile_5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_5.png)
 
-1. In your VTEX Admin, go to **Apps > Last Mile > Settings > Last Mile > Couriers.**
-2. Locate the courier by scrolling the list or using the search bar. You can search by entering the courier's name or phone. 
-    > When you search a courier using the search bar, you must enter a few characters of the name or phone, because the search does not return results for a single letter or number. 
-3. Once you locate the courier, click on it.
-4. Make the desired changes.
-5. Click `Save`.
+8. Click `Continue`.
 
-To send a message to the courier, follow the steps below:
+9. Define the origin and destination information for the service. This step varies depending on the type of service selected, as described in [Pickup services](#pickup-services) and [Shipping services](#shipping-services).
 
-1. In your VTEX Admin, go to **Apps > Last Mile > Settings > Last Mile > Couriers**.
-2. Locate the courier and click on it.
-3. In the top right corner of the edition window, click the envelope icon <i class="fas fa-envelope"></i>.
-4. Enter your message.
-5. Click `Send`. 
+10. Click `Create service`.
 
-#### Field templates section
+At any step, you can click `Back` to review the information you've already completed. Throughout the process, the side summary accumulates the selected information, such as orders, packages, addresses, and carriers.
 
-Create the fields for the task that will be sent to couriers. You can configure multiple fields for different actions. For example, a mandatory field for the courier to confirm the acceptance of the task, or a barcode field for scanning products.
+### Pickup services
 
-To create a new field template, follow the steps below:
+For pickup services:
 
-1. In your VTEX Admin, go to **Apps > Last Mile > Settings > Last Mile > Field templates**.
-2. Click `Add Field Template`.
-3. Fill in the fields and select the desired options —  each field is described in the table below.
-4. Click `Add`.
-5. Click `Save`.
+1. In the **Create pickup service** window, select the **Fulfillment location** where the order will be available and enter the **Estimated pickup date**. The corresponding address appears in the side summary, under **Pickup**.
+2. Click `Continue`.
+3. Click `Create service`.
 
-|       Column      |                                                                                                   Description                                                                                                   | Mandatory or Optional |
-|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
-|     Field Name    | Name that appears in the courier’s mobile device and identifies the field.                                                                                                                                      |       Mandatory       |
-|    Permissions    | Type of permission given to the courier, it can be:<br>Read Only: View the information in the field.<br>Read & Write: Add new fields or modify the existing ones.                                               |       Mandatory       |
-|     Field Type    | Field's data type. For Read & Write permission, it can be:<br>Number<br>Text<br>Image<br>Date<br>Barcode<br>Check<br>Email<br>For Read Only permission, it can be Number, Text and Email.                       |       Mandatory       |
-|       Value       | Field for when there is a default value or a value for read-only fields.                                                                                                                                        |        Optional       |
-|     Mandatory     | Click the checkbox to determine whether or not the field will be mandatory for the courier to start/complete the task.<br>Couriers can only start or finish the task if mandatory fields’ requirements are met. |        Optional       |
-| Edit Before Start | Click the checkbox to determine whether or not the field must be edited before starting the task.<br>Couriers can only start or finish the task if mandatory fields’ requirements are met.                      |        Optional       |
-|      Actions      | When you click on the <i class="fas fa-times"></i>, you delete the field. This action is permanent.                                                                                                             |        Optional       |
+![vtex-pick-and-pack-last-mile_6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_6.png)
 
-### External Carriers
+> ⚠️ In-store pickup doesn't use external carriers or transportation management systems (TMS), since the customer picks up the order directly at the store. These services use the `Manual` integration, which records the movement without sending a request to a carrier. If the `Manual` integration isn't active, you can't complete the creation of a pickup service.
 
-In this tab, you see the available external carriers for your shipping services. They will only be valid once they are activated <i class="fas fa-toggle-on"></i>.
+### Shipping services
 
-To activate an external carrier, follow these steps:
+In shipping services:
 
-1. In your VTEX Admin, go to **Apps > Last Mile > Settings > External Carriers**.
-2. Click on the desired carrier.
-3. Fill in the fields.
+1. In **Pickup information**, select the **Fulfillment location** and enter the **Expected pickup date**. The `Create from order` option sets the origin using the order's information.
 
-    > Each external carrier has their own configuration fields, some of which you will need to get in touch with the carrier to get the information. If necessary, get in touch with your carrier’s support.
+   ![vtex-pick-and-pack-last-mile_7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_7.png)
 
-4. Click the switch <i class="fas fa-toggle-on"></i> `Active` on the top of the window.
-5. Click `Confirm`.
-6. Click `Save`.
+2. Click `Continue`.
 
-### Users
+3. In **Shipping information**, check the destination and enter the **Expected delivery date**. The destination address appears in the side summary, under **Ship to**.
 
-The **VTEX Pick and Pack** concept of _user_ is different from the common meaning of the term in VTEX. In **Last Mile**, there is the _admin_ user, but it does not mean the [Sponsor user](/en/docs/tutorials/what-is-the-sponsor-user) - also referred as _Admin Super_ and _Owner_.
+   ![vtex-pick-and-pack-last-mile_8](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_8.png)
 
-> ℹ️ For more information, see the articles [Roles](/en/docs/tutorials/roles) and [License Manager](/en/docs/tutorials/license-manager-resources) resources.
+4. Click `Continue`.
 
-To become an admin user in the **Last Mile** module, you must have certain License Manager permissions. We recommend [creating a role](/en/docs/tutorials/roles) identified as “_Fulfillment admin”_, which must have at least the following products and resources associated with it:
+5. Select the **Carrier** that will handle shipping from the active integrations. The selected carrier appears in the side summary.
 
-|     Product     |                                                                                                                        Associated Resources                                                                                                                        |
-|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     Insights    | Insights metrics                                                                                                                                                                                                                                                   |
-| License Manager | Get account by identifier<br>Get applications<br>Find user by email<br>View users with account access<br>View all admin users<br>Get resource by key<br>Get role<br>Get paged roles<br>Get paged users<br>Get admin status<br>Get accounts<br>Get accounts by host |
-|    Field Type   | Field's data type. For Read & Write permission, it can be:<br>Number<br>Text<br>Image<br>Date<br>Barcode<br>Check<br>Email<br>For Read Only permission, it can be Number, Text and Email.                                                                          |
-> ⚠️ If you are an admin user in [VTEX Fulfillment](/en/docs/tutorials/vtex-pick-and-pack-fulfillment), you will automatically be an admin user in Last Mile.
+6. Click `Create service`.
 
-In **Users**, you can perform the following actions:
+## Viewing service details
 
-* [Search user](#search-user)
-* [Filter user](#filter-list)
-* [Create admin user](#create-admin-user)
-* [Edit user](#edit-user)
-* [Generate Api-Key](#generate-api--key)
-* [Delete user](#delete-user)
+To view more information about a service, click the corresponding row in the table. Details are displayed in a panel, organized in the **Details**, **Tracking**, **Attachments**, and **Notes** tabs.
 
-#### Search user
+![vtex-pick-and-pack-last-mile_9](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_9.png)
 
-On the top of the page, there is a search box with the magnifier icon  <i class="fas fa-search"></i> in which you can search for users using the following criteria:
+At the top of the panel, the order identifier and the current service status are displayed. The vertical ellipsis menu on the right allows you to download the tracking label generated by Last Mile. The label template is standard and can't be customized.
 
-* Username
-* Name
-* Email
+The panel's content varies depending on the type of service and the information provided by the integration. The panel is organized into the **Details**, **Tracking**, **Attachments**, and **Notes** tabs.
 
-#### Filter list
+The **Details** tab includes the following information:
 
-You can filter the list to display admin users only or all of the **VTEX Pick and Pack** users, which includes _pickers_ and _customer service_ created in [VTEX Fulfillment](/en/docs/tutorials/vtex-pick-and-pack-fulfillment).
+- **Order ID:** Order identification number.
+- **Buyer information:** Customer name, phone number, and email address.
+- **Pickup details:** Expected date and time range for pickup services.
+- **Store:** Pickup store, with the full address, in pickup services.
+- **Pickup and shipping information:** Addresses and dates for each stage in shipping services.
+- **Package(s):** Service packages, with the packaging type and item quantity. Click the package to view the items it contains.
+- **Timeline:** Service history, with the date, time, and author of each event, from creation to the last status update.
 
-To filter the list, click the icon with bars <i class="fas fa-bars"></i> and choose between `All` and `Admin`. 
+The **Tracking** tab, when available, contains additional tracking information sent by the integration.
 
-#### Create admin user
+The **Attachments** tab allows you to view labels and proof-of-delivery photos sent by the integration, when available.
 
-The only user profile that can configure **Last Mile** is the admin user. To create a new admin user, follow the steps below:
+The **Notes** tab collects route alerts and messages sent in real time by the integration, when available.
 
-1. In your VTEX Admin, go to **Apps > Last Mile > Settings > Users**.
-2. Click `Create`.
-3. Click `Admin`.
-4. In the box, search by typing the user’s name, email or ID.
-5. Click `Create`.
+## Confirming in-store pickup
 
-#### Edit user
+For orders with in-store pickup, Last Mile generates a six-digit code that authenticates the hand-off to the customer. The flow works as follows:
 
-Although it is only possible to create admin users in **Last Mile**, an admin user can edit all of the users listed in the page, whether they are admins, pickers or customer services. To know more about these other users, see [VTEX Fulfillment](/en/docs/tutorials/vtex-pick-and-pack-fulfillment).
+1. The order is picked and packed, and the pickup service is created.
+2. VTEX Pick and Pack sends the customer an email with the pickup code.
+3. The customer goes to the store and provides the code.
+4. The store operator validates the code in the service and completes the pickup.
+5. The service moves to the `Delivered` status, with the confirmation date recorded. From this event, the order invoice can be triggered automatically, depending on the configured integration.
 
-You can edit the information listed below. 
+The email is sent by [Message Center](/en/docs/tutorials/understanding-the-message-center), the VTEX transactional email framework, using a dedicated template for the pickup code. In addition to the code, the message includes the order ID, the pickup store, and the expected pickup date.
 
-* Name
-* Password for the mobile application
-* Categories
-* Store
+> ℹ️ The email template and sender are configured per account. In operations with multiple accounts, such as white label sellers, you need to configure the template in each one of them. To learn how to customize the message's content and layout, see [Transactional email templates](/en/docs/tutorials/order-transactional-email-templates).
 
-To edit a user, follow these steps:
+### Sending a new code by email
 
-1. In your VTEX Admin, go to **Apps > Last Mile > Settings > Users**.
-2. Click the row that corresponds to the user you want to edit.
-3. Make the desired changes.
-4. Enter the password meant for who is using the mobile application.
-5. Click `Save`.
+If the customer didn't receive the email or no longer has access to it, you can send a new code from the service.
 
-#### Generate Api-Key
+To send a new code, follow the steps below:
 
-Admin users can generate Api-Keys to use **VTEX Pick and Pack** APIs, and each user can have only one Api-Key. For more information, see our [documentation for developers](https://developers.vtex.com/docs/guides/vtex-pick-and-pack).
+1. In the VTEX Admin, go to **Shipping > Last Mile > Shipping services**.
+2. Click the **In-store pickup** tab.
+3. Click the desired order.
+4. At the bottom of the details panel, click `Send new code via email`.
 
-To generate an Api-Key, follow the steps below:
+The `New code sent to customer email` message confirms that the new code was sent to the customer's email.
 
-1. In your VTEX Admin, go to **Apps > Last Mile > Settings > Users**.
-2. Click the row that corresponds to the admin user you want to associate with the Api-Key.
-3. Click `Generate`.
-4. Save the Api-Key in a safe place.
+![vtex-pick-and-pack-last-mile_10](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_10.png)
 
-  > ❗ You only see the Api-Key once, you will not be able to access this information again, so make sure it is in a safe place.
+There's a minimum interval between codes. The option is unavailable until the end of the interval, and the footer displays a count in seconds until the next send is allowed, formatted as `Retry in {second}s`. This restriction can't be bypassed and it's meant to prevent sending excessive messages to the customer.
 
-5. Enter the password meant for who is using the mobile application.
-6. Click `Save`.
+![vtex-pick-and-pack-last-mile_11](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_11.png)
 
-#### Delete user
+### Validating the code and completing the pickup
 
-Only admin users can delete other users, by following the steps below:
+To confirm order pickup, follow the steps below:
 
-1. In your VTEX Admin, go to **Apps > Last Mile > Settings > Users**.
-2. Click the row that corresponds to the user you want to delete.
-3. Click `Delete User`.
-4. Click `Yes`.
+1. In the VTEX Admin, go to **Shipping > Last Mile > Shipping services**.
+
+2. Click the **In-store pickup** tab.
+
+3. Click the desired order.
+
+4. At the bottom of the details panel, click `Start handoff`.
+
+5. On the **Enter pickup code** screen, enter the six-digit code provided by the customer.
+
+   ![vtex-pick-and-pack-last-mile_12](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_12.png)
+
+6. Click `Complete handoff`.
+
+To return to the details panel without confirming the pickup, click `Back to details`.
+
+If the code is incorrect, the screen displays an error and allows another attempt. After confirmation, the panel shows the message `Pickup completed`, the service's status changes to `Delivered`, and the confirmation date is recorded in the **Timeline**.
+
+![vtex-pick-and-pack-last-mile_13](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_13.png)
+
+> ❗ The pickup code is sensitive data: it's the proof that the order was delivered to the right person. Share the code only with the customer who placed the order.
+
+## Integrations
+
+In **Shipping > Last Mile > Integrations**, you add and activate the companies that can receive Last Mile services. Integrations are organized into two groups:
+
+- **Carriers:** Companies that handle direct delivery. This group includes the `Manual` integration used for in-store pickup services.
+- **Brokers:** Brokers that aggregate multiple carriers, giving you access to all of them through a single integration.
+
+Each card displays the company name, the countries served, and the integration status, which can be `Active` or `Inactive`. Only active integrations can be selected when creating a service.
+
+![vtex-pick-and-pack-last-mile_14](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_14.png)
+
+To add an integration, follow these steps:
+
+1. In the VTEX Admin, go to **Shipping > Last Mile > Integrations**.
+
+2. Click `Add integration`.
+
+3. In the **Add Integration** window, select the desired company. Companies with an existing integration in the account show as unavailable for selection.
+
+   ![vtex-pick-and-pack-last-mile_15](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_15.png)
+
+4. Click `Continue`.
+
+5. Enable the **Active** option and complete the configuration fields.
+
+   > ℹ️ Each company has its own configuration fields, and some information must be obtained directly from the company. If needed, contact the carrier's support.
+
+   > ℹ️ Some integrations require sending credentials to VTEX. In such cases, contact [VTEX Support](https://help.vtex.com/docs/tutorials/opening-tickets-to-vtex-support) to receive guidance on how to submit the required information.
+
+   ![vtex-pick-and-pack-last-mile_16](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_16.png)
+
+6. Click `Create`.
+
+To edit an existing integration, click the corresponding card, make the desired changes, and click `Update`.
+
+> ℹ️ To integrate a carrier that isn't on the list, see the [Pick and Pack Last Mile Protocol API](https://developers.vtex.com/docs/api-reference/pick-and-pack-protocol-api) and the [VTEX Pick and Pack Carriers Integration Protocol](https://developers.vtex.com/docs/guides/vtex-pick-and-pack-carriers-integration-protocol) guide.
+
+## Last Mile settings
+
+In **Shipping > Last Mile > Settings**, under the **Information > General** section, you define the store location and contact information used in shipping services.
+
+![vtex-pick-and-pack-last-mile_17](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_17.png)
+
+In **Store location**, enter the country, state, city, postal code, street, and time zone of the store. You can also use the **Find an address** field to locate the address and complete the fields automatically, including the latitude and longitude. In **Contact information**, enter the name and phone number of the assigned contact. Click `Save` to save the changes.
+
+> ⚠️ The Last Mile mobile app, intended for the store's own fleet couriers, was discontinued in 2024. The settings related to own-fleet delivery are no longer in use, and delivery tracking depends on integrated carriers.
+
+## Learn more
+
+- [VTEX Pick and Pack](/en/docs/tutorials/vtex-pick-and-pack)
+- [VTEX Pick and Pack: Orders](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-orders)
+- [VTEX Pick and Pack: Service orders](/en/docs/tutorials/vtex-pick-and-pack-worksheets)
+- [VTEX Pick and Pack: Settings](/en/docs/tutorials/vtex-pick-and-pack-settings)
+- [VTEX Pick and Pack: Insights](/en/docs/tutorials/vtex-pick-and-pack-insights)
+- [Order flow and status](/en/docs/tutorials/order-flow-and-status)
