@@ -69,7 +69,7 @@ O **AI Sales Team Management** tem as seguintes restrições:
 - ❌ Não configura a permissões de acesso de usuários.
 - ❌ Não mostra histórico de auditoria. Para consultar o histórico, use o [Audit](https://help.vtex.com/pt/docs/tutorials/audit).
 
-## Vínculação entre contratos e times
+## Vinculação entre contratos e times
 
 Vincular um contrato a um time define a carteira daquele time e muda o que o sales rep visualiza no **Sales App**.
 
@@ -101,10 +101,10 @@ Com o **AI Sales Team Management** você pode realizar ações em:
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
 | Criar time | Nome do time. Caso esteja criando um subtime, informe também o nome do time pai. | "Crie o time Vendas Sul" / "Crie o subtime Contagem dentro do time Nordeste" / "Crie meus times de vendas: Time Sul, Time Norte, Time Nordeste." |
-| Criar subtimes por sales rep | Anexe um arquivo `.xlsx`, `.csv` ou `.txt` com os dados dos sales reps e o time de destino. | "Crie subtimes baseados na carteira de cada sales rep." |
+| Criar subtimes por sales rep | Anexe um arquivo `.xlsx`, `.csv` ou `.txt` com os dados dos sales reps e o time de destino. | "Crie subtimes baseados na carteira de cada sales rep." / "Quero criar subtimes baseados na carteira de cada sales rep." |
 | Editar nome time | Nome do time e as informações a serem alteradas. | "Edite o time Vendas Sul para Vendas Sudeste" |
 | Mover time | Nomes do time a ser movido e do time de destino. | "Mova o time Vendas Sul para dentro do time Nordeste" / " |
-| Vincular time ao contrato | Nome do time e identificação do contrato. | "Associe o contrato 4521 ao time Vendas Sul" / "Vincule o contrato 1395 ao Time Sul, Time Norte, Time Nordeste" |
+| Vincular contrato ao time | Nome do time e identificação do contrato. | "Associe o contrato 4521 ao time Vendas Sul" / "Vincule o contrato 1395 ao Time Sul, Time Norte, Time Nordeste" |
 | Ver contratos do time | Nome do time. | "Quais contratos o Vendas Sul tem acesso?" / "O Time Norte tem quais contratos?" |
 | Ver integrantes do time | Nome do time. | "Quais usuários existem no time Vendas Norte?" / "Quem são os sales reps do Time Sul?" |
 
@@ -123,26 +123,20 @@ Com o **AI Sales Team Management** você pode realizar ações em:
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
-| Definir carteiras de clientes | Nome do time e identificação do contrato. | "Associe o contrato 4521 ao time Vendas Sul" / "Vincule o contrato 1395 ao Time Sul, Time Norte, Time Nordeste" |
-
-### Definir a carteira de clientes
-
-Para vincular um contrato a um time, indique o contrato e o time. Antes de vincular, confira as regras de [vínculo de contratos e visibilidade no VTEX Sales App](#vinculo-de-contratos-e-visibilidade-no-vtex-sales-app).
-
-**Exemplo:** "Associa o contrato 4521 ao time Vendas Sul."
-
-**Exemplo:** "Quero criar subtimes baseados na carteira de cada sales rep."
+| Definir carteiras de clientes | Nome do time e identificação do contrato. Antes de realizar esta ação, confira as regras da [vinculação entre contratos e times](#vinculacao-entre-contratos-e-times). | "Associe o contrato 4521 ao time Vendas Sul" / "Vincule o contrato 1395 ao Time Sul, Time Norte, Time Nordeste" |
+| Vincular a carteira por arquivo | Anexe um arquivo `.xlsx`, `.csv` ou `.txt` com os dados da carteira e time de correspondência. | "Segue a planilha com a carteira de clientes por time." / "Vincule os contratos da planilha ao time Vendas Sul" |
 
 > ℹ️ Não existe carteira individual fora de um subtime. Para um sales rep ter uma carteira exclusiva, crie um subtime apenas para essa pessoa e vincule os contratos ao subtime.
 
-### Realizar ações em massa
+### Ações comuns a times, sales reps e carteiras de clientes
 
-As operações deste guia podem ser pedidas na conversa ou por arquivo XLSX, CSV ou TXT. Para usar um arquivo, anexe-o à conversa e envie a solicitação.
+| **Ação** | **Informações necessárias** | **Exemplos de instrução** |
+| :--- | :--- | :--- |
+| Consultar a estrutura atual | Identificação do item a ser consultado. A resposta considera o nível de permissão do usuário às informações buscadas. | "Quais times existem na conta?" / "Quais contratos o Vendas Sul tem acesso?" / "Quais usuários existem no time Vendas Norte?" |
+| Desfazer criações recentes de times e sales rep | Informe a ação a ser desfeita. Com exceção da criação de vínculos de contrato, que não pode ser desfeita. | "Desfaça a criação do time Sul" / "Cancele a criação do sales rep José Almeida" / "Desfaça a definição da carteira de clientes do time Vendas Sul" |
+| Realizar ações em massa | Anexe um arquivo `.xlsx`, `.csv` ou `.txt` com os dados a serem alterados e descreva a ação desejada. | "Processe a planilha de sales reps" / "Segue a planilha com a carteira de clientes por time" / "Mova os sales reps conforme os times da planilha" |
 
 **Exemplos:**
-
-- "Processa essa planilha de sales reps."
-- "Segue a planilha com a carteira de clientes por time."
 
 > ℹ️ O processamento parcial é o comportamento esperado. O agente lê o arquivo inteiro e separa as linhas válidas das inválidas, seguindo estas regras:
 >
@@ -155,30 +149,15 @@ Antes de criar, editar ou remover qualquer item, o agente apresenta um plano com
 
 Quando a alteração vale para mais de um usuário, por arquivo ou pela conversa, o agente mostra as mensagens de erro e um **canvas de validação** com o que será feito. Como essa mudança afeta vários usuários de uma vez, revise esse resumo antes de confirmar.
 
-### Consultar a estrutura atual
-
-Você pode perguntar pela estrutura sem alterá-la. A resposta considera o acesso de quem pergunta.
-
-**Exemplos:**
-
-- "Quais contratos o Vendas Sul tem acesso?"
-- "Quais usuários existem no time Vendas Norte?"
-
 ### Desfazer uma ação
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
 
-Na mesma sessão, você pode desfazer criações recentes de times e de usuários.
+Na mesma sessão, você pode desfazer criações recentes .
 
 **Exemplo:** "Desfaz a criação do time X."
 
 > ❗ O vínculo de um contrato não pode ser desfeito no **AI Sales Team Management**.
 
-
 | Desfazer uma criação recente | "Desfaz a criação do time X." Esse pedido não desfaz vínculo de contrato. |
-
-
-| **Quero** | **Solicitação** |
-| :---- | :---- |
-| Vincular a carteira por arquivo | Anexe o arquivo e envie "Segue a planilha com a carteira de clientes por time." |
