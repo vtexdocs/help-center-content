@@ -17,7 +17,7 @@ A regionalização do Google Shopping define em quais regiões do país a integr
 
 Com o Google Shipping e o RAAP ativos, cada região pode ter preço, disponibilidade, frete e SLA próprios, ou ficar sem esses dados. Esses valores são obtidos de uma simulação, por isso promoções de preço e de frete também alteram o que é enviado ao Google.
 
-Para usar as funcionalidades de regionalização é necessário configurar a [integração com o Google Shopping](/pt/docs/tracks/google-shopping-marketplace) e ter [políticas de envio](/pt/docs/tutorials/politica-de-envio) com [tabela de frete](/pt/docs/tutorials/planilha-de-frete) configurada e ativa para a [política comercial](/pt/docs/tracks/definicao-da-politica-comercial-google-shopping) da integração. 
+Para usar as funcionalidades de regionalização, é necessário configurar a [integração com o Google Shopping](/pt/docs/tracks/google-shopping-marketplace) e ter [políticas de envio](/pt/docs/tutorials/politica-de-envio) com [tabela de frete](/pt/docs/tutorials/planilha-de-frete) configurada e ativa para a [política comercial](/pt/docs/tracks/definicao-da-politica-comercial-google-shopping) da integração. 
 
 Para enviar preço, disponibilidade, frete e SLA regionalizados, configure as funcionalidades na página **Preferências** nesta ordem:
 
