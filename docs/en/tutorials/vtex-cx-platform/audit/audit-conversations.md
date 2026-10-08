@@ -39,6 +39,7 @@ To find specific support interactions, you can use the search and filter feature
 
 - To find a conversation by contact, type the contact name in the **Search** field.
 - To filter the list by criteria such as time range, status, CSAT, topic, or conversation type, click `Filter conversations` and select the desired options. Then click `Apply filters`.
+- To find conversations that haven't received a topic classification, click `Filter conversations` and, under **Topic**, select the **No matching topic** option. This filter helps identify topics customers bring up that aren't yet mapped to your agent's topics.
 
 ## Opening and reading a conversation
 

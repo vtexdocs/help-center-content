@@ -63,7 +63,7 @@ _Ex: o preço de envio para todo o Brasil é R$ 20,00 enquanto que para a Argent
 
 _Ex: o preço de envio para Rio de Janeiro (região metropolitana) é de R$ 10,00, enquanto que para o Rio de Janeiro (interior) é de R$ 15,00._
 
-> ℹ️ OBS: o envio por região está disponível apenas para sellers que usam **Wish Express** [(saiba mais aqui).](https://merchantfaq.wish.com/hc/pt/articles/360018939394-Como-enviar-usando-o-Wish-Express-Brasil-) Para configurar a Wish Express, basta seguir [estes passos.](https://merchantfaq.wish.com/hc/pt/articles/232047747-Wish-Express-Fluxo-de-Inscri%C3%A7%C3%A3o)
+> ℹ️ O envio por região está disponível apenas para sellers que usam **Wish Express** [(saiba mais aqui).](https://merchantfaq.wish.com/hc/pt/articles/360018939394-Como-enviar-usando-o-Wish-Express-Brasil-) Para configurar a Wish Express, basta seguir [estes passos.](https://merchantfaq.wish.com/hc/pt/articles/232047747-Wish-Express-Fluxo-de-Inscri%C3%A7%C3%A3o)
   
 Indique no setup se você usará Wish Express. Caso não use, pode pular para o passo seguinte.
 
@@ -82,7 +82,7 @@ Para indicar qual transportadora da sua loja corresponde às [transportadoras ac
 
   3. Clique no botão “Salvar” para concluir.
 
-> ℹ️ OBS: caso seja mapeada alguma transportadora não-certificada pela Wish, os pedidos não poderão ser rastreados e, consequentemente, **não haverá** repasse da comissão. Então é necessário ser bem cauteloso nesta etapa.
+> ℹ️ Caso seja mapeada alguma transportadora não-certificada pela Wish, os pedidos não poderão ser rastreados e, consequentemente, **não haverá** repasse da comissão. Então é necessário ser bem cauteloso nesta etapa.
 
 ## Taxa de divergência de preço
  

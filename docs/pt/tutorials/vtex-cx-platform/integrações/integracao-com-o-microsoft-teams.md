@@ -42,7 +42,7 @@ Na seção de Registros de aplicativo, selecione **Novo Registro:**
 
 Na aba de **Registrar um aplicativo**, insira o **Nome do Bot**, e escolha a opção:
 
-• Contas em qualquer diretório organizacional (qualquer locatário do Microsoft Entra ID \- multilocatário) e contas pessoais da Microsoft (por exemplo, Skype, Xbox).
+- Contas em qualquer diretório organizacional (qualquer locatário do Microsoft Entra ID \- multilocatário) e contas pessoais da Microsoft (por exemplo, Skype, Xbox).
 
 Não é necessário inserir informações no campo de **URI de direcionamento (opcional)**. Após esses passos, realize o registro do aplicativo em ""**Registrar**"":
 
@@ -54,7 +54,7 @@ Em **Certificados e segredos**, selecione **Novo segredo do cliente**, insira um
 
 Após a criação do **Segredos do cliente**, é gerado um **Valor** e um **ID secreto**, essas informações serão utilizadas para habilitar o canal de atendimento no VTEX CX Platform
 
-OBS: É recomendando salvar o **Valor** e o **ID secreto**, essas informações são sigilosas e não é possível visualizar seus valores após atualização da página.
+> É recomendando salvar o **Valor** e o **ID secreto**, essas informações são sigilosas e não é possível visualizar seus valores após atualização da página.
 
 ### 3. Criação do Bot no Portal do Azure
 
@@ -86,9 +86,9 @@ No momento, o usuário apenas consegue interagir com o Chatbot através do **Lin
 
 Temos dois passos: **Portal de Desenvolvimento no Microsoft Teams e Microsoft Teams Admin Center**:
 
-• Portal de Desenvolvimento \= <https://teams.microsoft.com> ou no aplicativo do Teams
+- Portal de Desenvolvimento \= <https://teams.microsoft.com> ou no aplicativo do Teams
 
-• Microsoft Teams Admin Center \= <https://admin.teams.microsoft.com/dashboard>
+- Microsoft Teams Admin Center \= <https://admin.teams.microsoft.com/dashboard>
 
 #### 4.1 Portal do Desenvolvimento
 
@@ -110,17 +110,17 @@ Após adicionar o nome do Bot, abrirá uma sessão para configuração denominad
 
 Preencha o campo **Breve descrição**. Você pode usar o exemplo a seguir: (ex: AssistenteVirtual)
 
-• Preencha o campo **Descrição longa**. Você pode usar o exemplo a seguir: (ex: AssistenteVirtual)
+- Preencha o campo **Descrição longa**. Você pode usar o exemplo a seguir: (ex: AssistenteVirtual)
 
-• Preencha o campo **Nome do desenvolvedor ou empresa**. Você pode usar o exemplo a seguir ou se preferir usar o nome da sua empresa: (Raízen)
+- Preencha o campo **Nome do desenvolvedor ou empresa**. Você pode usar o exemplo a seguir ou se preferir usar o nome da sua empresa: (Raízen)
 
-• Preencha o campo **Site**. Você pode usar o exemplo a seguir ou se preferir usar o site da sua empresa: (<https://www.raizen.com.br/>)
+- Preencha o campo **Site**. Você pode usar o exemplo a seguir ou se preferir usar o site da sua empresa: (<https://www.raizen.com.br/>)
 
-• Preencha o campo **Política de privacidade**. Você pode usar o exemplo a seguir ou se preferir, usar a política da sua empresa: (**ex**: <https://raizen.com/sobre-araizen/politicas-e-procedimentos>)
+- Preencha o campo **Política de privacidade**. Você pode usar o exemplo a seguir ou se preferir, usar a política da sua empresa: (**ex**: <https://raizen.com/sobre-araizen/politicas-e-procedimentos>)
 
-• Preencha o campo **Termos de uso**. Você pode usar o exemplo a seguir ou se preferir, usar o Termo de uso da sua empresa: (<https://raizen.com/sobre-a-raizen/politicas-eprocedimentos>)
+- Preencha o campo **Termos de uso**. Você pode usar o exemplo a seguir ou se preferir, usar o Termo de uso da sua empresa: (<https://raizen.com/sobre-a-raizen/politicas-eprocedimentos>)
 
-• Preencha o campo **ID do Aplicativo (cliente)**. Esse campo ID do Aplicativo, deve ser preenchido com o **ID do Aplicativo criado na AZURE**. Com esse ID, o aplicativo do Teams integra com o aplicativo do Azue.
+- Preencha o campo **ID do Aplicativo (cliente)**. Esse campo ID do Aplicativo, deve ser preenchido com o **ID do Aplicativo criado na AZURE**. Com esse ID, o aplicativo do Teams integra com o aplicativo do Azue.
 
 Após o preenchimento das informações básicas, clique em **salvar**. Em seguida, deve-se configurar algumas informações localizadas abaixo do nome do BOT. Iniciando na aba **Configurar**, onde temos os seguintes pontos.
 

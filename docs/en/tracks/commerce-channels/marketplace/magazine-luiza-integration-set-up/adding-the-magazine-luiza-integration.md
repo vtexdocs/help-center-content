@@ -25,7 +25,7 @@ The integration with Magazine Luiza happens through IntegraCommerce, an integrat
 
 With this integration, it will be possible to __create new accounts__ and also __migrate existing accounts (soon)__ in Magazine Luiza. The step-by-step below is suitable for both cases.
 
-> ⚠️ **Note:** Currently **you can not migrate old accounts**. We are working on that and soon this migration will be done automatically.
+> ⚠️ Currently **you can not migrate old accounts**. We are working on that and soon this migration will be done automatically.
 
 
 ## Detailing the fields
@@ -48,9 +48,9 @@ _`Ex:` Imagine that you use Correios (PAC) as a carrier, that your Carrier Type 
 
 &bull; __Minimum stock\*:__ You must fill this field with a minimum security stock value. Although the communication between VTEX and Magazine Luiza systems is fast, the stock displayed in the marketplace may be outdated compared to the actual product stock in your store (even by a few minutes). Thus, when the stock in VTEX reaches this value, the integration will zero the inventory so that there's no sales of products without stock.
 
-_Caption:_<br />
-`*` Required fields.<br />
+_Caption:_
+`*` Required fields.
 
 Once the fields are filled in, click the __"Save Settings"__ button.
 
-*__That's it.__ After completing this step, your store is already fully integrated with Magazine Luiza.*
+After completing this step, your store is already fully integrated with Magazine Luiza.

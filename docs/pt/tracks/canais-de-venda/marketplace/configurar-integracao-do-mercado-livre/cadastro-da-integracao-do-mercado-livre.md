@@ -15,11 +15,11 @@ trackSlugEN: configurar-integracao-do-mercado-livre
 order: 6
 ---
 
-1.Acesse o Admin.
-2.No módulo **Marketplace**, clique em **Integrações**.
-3.Acesse a aba `Configurações`.
-4.Busque pelas caixas do __Mercado Livre Classic__ ou __Mercado Livre Premium__ e clique em `Integrar`.
-5.Preencha os campos listados abaixo (o asterisco indica preenchimento obrigatório). Em seguida clique no botão `Salvar configuração`.
+1. Acesse o Admin.
+2. No módulo **Marketplace**, clique em **Integrações**.
+3. Acesse a aba `Configurações`.
+4. Busque pelas caixas do __Mercado Livre Classic__ ou __Mercado Livre Premium__ e clique em `Integrar`.
+5. Preencha os campos listados abaixo (o asterisco indica preenchimento obrigatório). Em seguida clique no botão `Salvar configuração`.
 
 > ℹ️ Cada conta VTEX deve estar vinculada a apenas uma conta no Mercado Livre, mesmo se forem utilizados ambos conectores (Classic e Premium). Atualmente não é possível autenticar com duas contas simultaneamente.
 

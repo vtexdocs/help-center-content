@@ -21,7 +21,7 @@ Para garantir o correto funcionamento da integração, é necessário previament
 
 É necessário definir qual política comercial será usada para integrar seus produtos com a Wish. Esta definição implicará em quatro aspectos principais: sortimento de produtos, estoque, preço e moeda. Ou seja, a disponibilidade e os preços dos seus produtos em determinado canal de vendas estarão completamente baseados na política comercial que você escolher. [Clique aqui para entender com mais detalhes como funciona a política comercial](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace).
 
-> ℹ️ OBS: a Wish exige que os preços do produto e de frete sejam enviados em dólar (USD). No entanto, ela cria os pedidos com o valor já convertido em reais (R$) para facilitar a emissão da nota fiscal. Isto significa que a integração deve enviar preços em dólar e aceitar pedidos em reais. Dessa maneira, a arquitetura usa apenas Real (R$) e faz a conversão na integração. Portanto, **a política comercial para Wish deve ser em reais (R$)** e todo fluxo de conversão será melhor detalhado no [passo 5](/pt/docs/tracks/configuracoes-da-integracao).
+> ℹ️ A Wish exige que os preços do produto e de frete sejam enviados em dólar (USD). No entanto, ela cria os pedidos com o valor já convertido em reais (R$) para facilitar a emissão da nota fiscal. Isto significa que a integração deve enviar preços em dólar e aceitar pedidos em reais. Dessa maneira, a arquitetura usa apenas Real (R$) e faz a conversão na integração. Portanto, **a política comercial para Wish deve ser em reais (R$)** e todo fluxo de conversão será melhor detalhado no [passo 5](/pt/docs/tracks/configuracoes-da-integracao).
 
 [Clique aqui](/pt/faq/por-que-nao-consigo-criar-uma-nova-politica-comercial) para saber como contratar uma nova política caso necessário.
 
@@ -42,7 +42,7 @@ Para garantir que os pedidos integrem com sucesso, será necessário fazer toda 
   3. Defina as [transportadoras](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/3fLedVI57srjBDDxxGgOWe) que farão as entregas da Wish;
   4. Associe as transportadoras às docas.
 
-> ℹ️ OBS: a Wish realiza o repasse da comissão através da confirmação de entrega dos pedidos e consulta diretamente suas transportadoras parceiras para obter esta informação. ***Portanto, para vender na Wish é obrigatório usar as transportadoras parceiras para realizar as entregas dos pedidos.*** [ Confira aqui a lista de transportadoras aceitas pela Wish.](https://merchant.wish.com/documentation/shippingproviders)
+> ℹ️ A Wish realiza o repasse da comissão através da confirmação de entrega dos pedidos e consulta diretamente suas transportadoras parceiras para obter esta informação. Portanto, para vender na Wish é obrigatório usar as transportadoras parceiras para realizar as entregas dos pedidos. [Confira aqui a lista de transportadoras aceitas pela Wish.](https://merchant.wish.com/documentation/shippingproviders)
 
 ## Definindo preços
 

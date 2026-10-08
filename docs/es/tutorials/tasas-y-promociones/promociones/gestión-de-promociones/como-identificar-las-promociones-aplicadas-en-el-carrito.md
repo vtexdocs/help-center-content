@@ -66,7 +66,7 @@ Sigue estos pasos para encontrar el `orderForm` e identificar las promociones ap
 
     Entre la información de ese índice, el campo `name` muestra el nombre de la promoción registrada en el módulo **Promociones y tasas**.
 
-    El campo `id` muestra el identificador único de la promoción registrada en el módulo **Promociones y tasas**. Puedes acceder a las configuraciones de la promoción directamente desde la URL `https://{accountName}.vtexcommercestable.com.br/admin/rnb/#/benefit/{id}`, cambiando {accountName} por el nombre de tu cuenta e {id} por el identificador de la promoción.
+    El campo `id` muestra el identificador único de la promoción registrada en el módulo **Promociones y tasas**. Puedes acceder a las configuraciones de la promoción directamente desde la URL `https://{accountName}.vtexcommercestable.com.br/admin/rnb/#/benefit/{id}`, cambiando `{accountName}` por el nombre de tu cuenta e {id} por el identificador de la promoción.
 
 ## Simulador de Promociones (Beta)
 

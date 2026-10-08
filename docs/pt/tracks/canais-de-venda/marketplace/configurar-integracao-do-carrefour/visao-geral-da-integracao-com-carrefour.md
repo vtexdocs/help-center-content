@@ -23,9 +23,9 @@ Durante esse contato, o Carrefour Marketplace fornecerá o **ShopKey** e **ShopI
 
 O [Carrefour Marketplace](https://marketplace.carrefour.com.br/login) exige o cadastro de um endpoint de API que permita a consulta de valores de frete, preço e prazo em tempo real, de acordo com o CEP. Esse cadastro é feito na própria plataforma do marketplace.
 
-Utilize a seguinte rota API GET substituindo `{AccountName}` pelo [nome da sua loja](/pt/docs/tutorials/o-que-e-account-name) na plataforma VTEX.
+Utilize a seguinte rota API GET substituindo `{accountName}` pelo [nome da sua loja](/pt/docs/tutorials/o-que-e-account-name) na plataforma VTEX.
 
-`http://portal.vtexcommercestable.com.br/api/carrefourintegration/pub/{accountName}/freight`
+`https://portal.vtexcommercestable.com.br/api/carrefourintegration/pub/{accountName}/freight`
 
 Em caso de dúvidas, assista ao tutorial do Carrefour [“Como configurar a Intelipost no Carrefour”](https://www.youtube.com/watch?v=hDn-pAwd5jY).
 

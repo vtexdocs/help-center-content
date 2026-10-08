@@ -47,7 +47,7 @@ Orders are displayed in cards with the following information:
 | **Fulfillment location** | [Fulfillment location](/docs/tutorials/managing-warehouses) where the worksheet is processed. |
 | **Picked** or **Packed** | Progress of the current stage, in processed units out of the expected total.                  |
 
-![Worksheet card](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-ordens-de-servico_2.png)
+![Worksheet card](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-worksheets_2.png)
 
 To view the complete data of a worksheet, click the corresponding card. For more information, see [Viewing worksheet details](#viewing-worksheet-details).
 
@@ -86,7 +86,7 @@ When creating a worksheet, you can define the orders to be picked together and w
 5. Enable the **Pin new worksheets** option to display the created worksheet in the **Pinned** column.
 6. Click `Create`.
 
-![Action to create the worksheet](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-service-orders_3.png)
+![Action to create the worksheet](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-worksheets_3.png)
 
 > ℹ️ The number of orders per worksheet depends on the options: **Single order** and **Multiple orders**, which can be defined on the [Settings](/docs/tutorials/vtex-pick-and-pack-settings) page.
 
@@ -105,7 +105,7 @@ To open the details panel, click to expand the desired worksheet. The panel head
 | **Deadline**             | Deadline with date and time to complete the handling of the worksheet.                        |
 | **Packed/Picked**        | Progress of packing or picking, in units out of the expected total.                           |
 
-![Worksheet details](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-ordens-de-servico_4.png)
+![Worksheet details](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-worksheets_4.png)
 
 ### Adding tags
 
@@ -122,7 +122,7 @@ The **Orders** tab lists the orders in the worksheet. To find an order, enter th
 - **SKU:** Identifier of the item on the platform.
 - **Categories:** Catalog categories the item is associated with.
 
-![Tab in the worksheet details modal](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-service-orders_5.png)
+![Tab in the worksheet details modal](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-worksheets_5.png)
 
 ### Approvals
 
@@ -185,6 +185,6 @@ The **Inbox** organizes conversations with pickers by worksheet. The **Needs sup
 
 To reply to a picker, click the desired conversation and write the message. You can also upload files, locations, and audio messages.
 
-![Inbox screen with the list of conversations by worksheet](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-ordens-de-servico_7.png)
+![Inbox screen with the list of conversations by worksheet](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-worksheets_7.png)
 
 > ℹ️ The **Inbox** depends on the **Allow support chat** option, enabled on the [Settings](/en/docs/tutorials/vtex-pick-and-pack-settings) page.
