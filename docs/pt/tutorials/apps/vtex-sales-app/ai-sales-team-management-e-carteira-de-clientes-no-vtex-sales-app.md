@@ -24,10 +24,10 @@ A tabela a seguir apresenta a terminologia utilizada no **AI Sales Team Manageme
 
 | **Termo** | **Significado** |
 | :---- | :---- |
-| Time | Unidade da estrutura de vendas. Um time pode ficar hierarquicamente abaixo de outro, como time pai e subtime, para representar o organograma real. |
-| Sales rep | Pessoa do time comercial cadastrada via agente. O perfil do Licence Manager disponível para sales reps é [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person). O **AI Sales Team Management** não cria perfis de acesso. |
-| Carteira de clientes | Relação de vínculação entre contratos e times ou subtimes. É possível vincular um contrato a um único sales rep utilizando um subtime. |
-| Contrato | [Contrato B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) já existente, usado para o vínculo com um time. |
+| [Time](#realizar-acoes-em-times) | Agrupamento de pessoas que constitui uma unidade na estrutura de vendas. Pode ser organizado de forma hierárquica, com uma estrutura de times e subtimes, de forma a refletir o organograma da organização. |
+| [Sales rep](#realizar-açoes-em-sales-reps) | Pessoa do time comercial registrada via agente. O sales rep precisa ser um [usuário](https://help.vtex.com/pt/docs/tutorials/gerenciar-usuarios-administrativos) da conta com o perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person). O agente não cria perfis de acesso. |
+| [Carteira de clientes](#realizar-açoes-em-carteiras-de-clientes) | Relação de vínculação entre um contrato e um time ou subtime, o que permite que os sales reps visualizem e criem pedidos relacionadas àquele contrato. Saiba mais em [Acesso de times a contratos](#acesso-de-times-a-contratos). |
+| [Contrato B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) | Contrato B2B previamente cadastrado na conta, utilizado para criar as carteiras de clientes dos times. |
 
 ## Casos de uso
 
