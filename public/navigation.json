@@ -25768,14 +25768,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "What is Deposit Slip",
-                    "es": "Qué es Ficha de Depósito",
-                    "pt": "O que é  Ficha Depósito"
+                    "en": "What is the connector?",
+                    "es": "¿Qué es el conector?",
+                    "pt": "Conector de pagamento"
                   },
                   "slug": {
-                    "en": "what-is-deposit-slip",
-                    "es": "que-es-ficha-de-deposito",
-                    "pt": "o-que-e-ficha-deposito"
+                    "en": "what-is-the-connector",
+                    "es": "que-es-el-conector",
+                    "pt": "o-que-e-conector"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25828,14 +25828,14 @@
                 },
                 {
                   "name": {
-                    "en": "What is the connector?",
-                    "es": "¿Qué es el conector?",
-                    "pt": "O que é o conector?"
+                    "en": "What is Deposit Slip",
+                    "es": "Qué es Ficha de Depósito",
+                    "pt": "O que é Ficha Depósito"
                   },
                   "slug": {
-                    "en": "what-is-the-connector",
-                    "es": "que-es-el-conector",
-                    "pt": "o-que-e-conector"
+                    "en": "what-is-deposit-slip",
+                    "es": "que-es-ficha-de-deposito",
+                    "pt": "o-que-e-ficha-deposito"
                   },
                   "origin": "",
                   "type": "markdown",
