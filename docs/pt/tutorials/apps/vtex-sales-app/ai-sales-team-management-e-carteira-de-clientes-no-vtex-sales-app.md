@@ -101,8 +101,7 @@ A tabela a seguir apresenta as ações que você pode realizar em times:
 | Editar nome time | Nome do time e as informações a serem alteradas. | "Edite o time Vendas Sul para Vendas Sudeste" |
 | Mover time | Nomes do time a ser movido e do time de destino. | "Mova o time Vendas Sul para dentro do time Nordeste" / " |
 | Vincular contrato ao time | Nome do time e identificação do contrato. | "Associe o contrato 4521 ao time Vendas Sul" / "Vincule o contrato 1395 ao Time Sul, Time Norte, Time Nordeste" |
-| Ver contratos do time | Nome do time. | "Quais contratos o Vendas Sul tem acesso?" / "O Time Norte tem quais contratos?" |
-| Ver integrantes do time | Nome do time. | "Quais usuários existem no time Vendas Norte?" / "Quem são os sales reps do Time Sul?" |
+| Visualizar contratos ou integrantes do time | Identificação do contrato ou do time. | "Quais contratos o Vendas Sul tem acesso?" / "Quais usuários existem no time Vendas Norte?" / "Quem são os sales reps do Time Sul?" |
 
 > ⚠️ Após transformar um time pai em um subtime, não é mais possível devolvê-lo ao nível raiz. Portanto, antes de criar os times, defina a hierarquia.
 
@@ -116,6 +115,7 @@ A tabela a seguir apresenta as ações que você pode realizar em sales reps:
 | :--- | :--- | :--- |
 | Registrar um sales rep | Nome do sales rep, email e time. O código do vendedor e da loja, quando aplicáveis, são opcionais. | "Registre o sales rep José Almeida, `jose@acme.com` no time Nordeste" / "Crie o sales rep Ricardo Alves, `ricardo.alves@empresa.com` código 204 e loja 578 no Vendas Norte" |
 | Adicionar sales rep ao time | Nome do sales rep, email e time. | "Adicione o sales rep Ricardo Alves no time Vendas Norte, e-mail `ricardo.alves@empresa.com`." |
+| Visualizar informações do sales resp | Nome do sales rep. | "O Ricardo Alves pertence a quais times?" / "O sales rep José Almeida atende quais contratos?" |
 | Mover sales rep entre times | Nome do sales rep e do time de destino. | "Movimente o sales rep José Almeida para o time Sudeste" / "Mova José Almeida para time Nordeste." |
 | Remover sales rep do time | Nome do sales rep. Remover um sales rep de um time apenas desvincula a pessoa do time, mas ela permance como usuário da conta. | "Remova o sales rep José Almeida do time Vendas Sul." |
 
@@ -123,38 +123,36 @@ A tabela a seguir apresenta as ações que você pode realizar em sales reps:
 
 ### Realizar ações em carteiras de clientes
 
-A carteira de clientes representa os contratos para os quais um time ou subtime pode visualizar cotações e criar pedidos. Para que a carteira seja atendida por um único sales rep, crie um subtime com essa pessoa como único integrante. Para saber controlar o acesso a contratos, veja a seção [Vincular contrato a time](#vincular-contrato-a-time).
+A carteira de clientes representa os contratos para os quais um time ou subtime pode visualizar cotações e criar pedidos. Para que a carteira seja atendida por um único sales rep, crie um subtime com essa pessoa como único integrante.
+
+> ℹ️ Para saber como controlar o acesso de times a contratos, veja a seção [Vincular contrato a time](#vincular-contrato-a-time).
+
+A tabela a seguir apresenta as ações que você pode realizar em carteiras de clientes:
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
-| Definir carteiras de clientes via chat | Nome do time e identificação do contrato. Antes de realizar esta ação, confira as regras da [vinculação entre contratos e times](#vinculacao-entre-contratos-e-times). | "Associe o contrato 4521 ao time Vendas Sul" / "Vincule o contrato 1395 ao Time Sul, Time Norte, Time Nordeste" |
-| Vincular a carteira por arquivo | Anexe um arquivo `.xlsx`, `.csv` ou `.txt` com os dados da carteira e time de correspondência. | "Segue a planilha com a carteira de clientes por time." / "Vincule os contratos da planilha ao time Vendas Sul" |
-
-> ℹ️ Não existe carteira individual fora de um subtime. Para um sales rep ter uma carteira exclusiva, crie um subtime apenas para essa pessoa e vincule os contratos ao subtime.
+| Definir carteiras de clientes do time | Forneça a identificação do contrato e o nome do time. A agente permite que um mesmo contrato seja vinculado a mais de um time, mas ele emite um aviso quando identifica esse tipo de situação. | "Vincule os contratos da planilha ao time Vendas Sul" / "Segue a planilha com a carteira de clientes por time." |
+| Vincular contrato a múltiplos times | Nome do contrato e nomes dos times. Você também pode fazer essa [ação em massa](#realizar-acoes-em-massa) por meio da importação de arquivos. | "Vincule o contrato 1395 ao Time Sul, Time Norte, Time Nordeste" / Crie carteiras de cliente para o Time Norte para o contrato 1395" |
+| Visualizar carteiras de clientes | Identificação do time. | "O Time Norte atende quais carteiras?" / "A quais contratos o Vendas Sul foi vinculado?" |
 
 ### Realizar ações comuns a times, sales reps e carteiras de clientes
-
-A tabela a seguir apresenta ações compartilhadas:
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
 | Consultar a estrutura atual | Identificação do item a ser consultado. A resposta considera o nível de permissão do usuário às informações buscadas. | "Quais times existem na conta?" / "Quais contratos o Vendas Sul tem acesso?" / "Quais usuários existem no time Vendas Norte?" |
 | Desfazer criações recentes de times e sales rep | Na mesma sessão, você pode desfazer criações recentes. Para isso, informe o item e a ação a ser desfeita. A criação de vínculos de contrato não pode ser desfeita pelo agente. | "Desfaça a criação do time Sul" / "Cancele a criação do sales rep José Almeida" / "Desfaça a definição da carteira de clientes do time Vendas Sul" |
+
+### Realizar ações em massa
+
 | Realizar ações em massa | Anexe um arquivo `.xlsx`, `.csv` ou `.txt` com os dados a serem alterados e descreva a ação desejada. | "Processe a planilha de sales reps" / "Segue a planilha com a carteira de clientes por time" / "Mova os sales reps conforme os times da planilha" |
 
 ## Vincular contrato a time
 
 Vincular um contrato a um time define a carteira daquele time e muda o que o sales rep visualiza no **Sales App**.
 
-- **Contratos vinculados a times:** o **Sales App** mostra apenas as cotações e os pedidos daqueles contratos e a criação de pedidos fica restrita aos sales reps desse time.
-  - Exemplo: o "Time Sul" está vinculado aos contratos `100` e `200`. Portanto, os sales reps visualizam e criam pedidos somente para esses dois contratos.
+- **Contratos vinculados a times:** os sales reps visualizam no **Sales App** apenas as cotações e pedidos referentes aos contratos vinculados. A criação de novos pedidos também fica restrita a esses contratos.
+  - Exemplo: o "Time Sul" está vinculado aos contratos `100` e `200`, portanto, os sales reps desse time podem visualizar e criar pedidos somente para esses dois contratos.
 - **Contratos sem vinculação a times:** os sales reps visualizam todos os contratos da conta.
-  - Exemplo: o "Time Norte" não está vinculado a um contrato, portanto os sales reps desse time visualizam e criam pedidos para todos os contratos da conta.
+  - Exemplo: o "Time Norte" não está vinculado a um contrato, portanto, os sales reps desse time podem visualizar e criar pedidos para todos os contratos da conta.
 
 > ⚠️ Recomendamos que você confirme os vínculos contratuais antes de definir restrições ao time de vendas.
-
-### Vincular contrato a múltiplos times
-
-Um mesmo contrato pode ser vinculado a mais de um time. O **AI Sales Team Management** avisa quando detecta essa situação, mas não impede o vínculo.
-
-**Exemplo:** o contrato `100` está vinculado aos "Time Sul" e "Time Sudeste". Portanto, os sales reps de ambos os times podem visualizar esse contrato.
