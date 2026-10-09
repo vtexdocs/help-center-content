@@ -24,18 +24,18 @@ En tu tienda CMS Portal (Legado), puedes configurar los siguientes efectos de vi
 
 ## Antes de comenzar
 
-Antes de configurar el zoom o las miniaturas en tu tienda, consulta el artículo [Configurar tipos de archivo](/es/docs/tutorials/configurar-tipos-de-archivos) para saber cómo configurar los tipos de archivo.
+Antes de configurar el zoom o las miniaturas en tu tienda, consulta el artículo [Configurar tipos de archivo](/es/docs/tutorials/configurar-tipos-de-archivo) para saber cómo configurar los tipos de archivo.
 
 ## Configurar el zoom
 
-Para que el zoom del producto funcione correctamente en tu tienda **CMS Portal (Legado)**, configura el tipo `Producto - Zoom` en **Configuración de la tienda > Storefront > Configuración > Tipos de archivos**. Más información en [Configurar tipos de archivos](/es/docs/tutorials/configurar-tipos-de-archivos).
+Para que el zoom del producto funcione correctamente en tu tienda **CMS Portal (Legado)**, configura el tipo `Producto - Zoom` en **Configuración de la tienda > Storefront > Configuración > Tipos de archivos**. Más información en [Configurar tipos de archivos](/es/docs/tutorials/configurar-tipos-de-archivo).
 
 De forma predeterminada, este tipo suele venir con **1000×1000** píxeles. Esto significa que:
 
 - El zoom resultante muestra la imagen con ese tamaño.
 - La imagen registrada en Catálogo debe tener un tamaño **igual o superior** a la configuración de `Producto - Zoom`. Si la imagen es más pequeña, el zoom no se activa (o solo funciona para algunas imágenes).
 
-Antes de realizar el ajuste en **Tipos de archivos**, confirma que el zoom esté activo en la plantilla de la página. Más información en [Activar el zoom del producto en la plantilla de la página](/es/docs/tutorials/activar-el-zoom-del-producto-en-la-plantilla-de-la-pagina).
+Antes de realizar el ajuste en **Tipos de archivos**, confirma que el zoom esté activo en la plantilla de la página. Más información en [Activar el zoom del producto en la plantilla de la página](/es/docs/tutorials/activar-el-zoom-del-producto-en-el-template-de-pagina).
 
 ### Casos de uso
 
@@ -48,7 +48,7 @@ Las miniaturas (o thumbnails) permiten la carga rápida de la página y facilita
 
 Para esto, las imágenes se redimensionan y comprimen de acuerdo con la configuración del CMS. Si el tamaño del archivo (en KB) es muy bajo, la compresión puede afectar la calidad de la miniatura.
 
-Para que las miniaturas de producto se muestren con una calidad adecuada en tu tienda **CMS Portal (Legado)**, configura el tipo `Producto - Thumb` en **Configuración de la tienda > Storefront > Configuración > Tipos de archivos**. Más información en [Configurar tipos de archivos](/es/docs/tutorials/configurar-tipos-de-archivos).
+Para que las miniaturas de producto se muestren con una calidad adecuada en tu tienda **CMS Portal (Legado)**, configura el tipo `Producto - Thumb` en **Configuración de la tienda > Storefront > Configuración > Tipos de archivos**. Más información en [Configurar tipos de archivos](/es/docs/tutorials/configurar-tipos-de-archivo).
 
 El campo **Tamaño máximo en KB** de este tipo define el límite de compresión de las miniaturas. Esto significa que:
 
