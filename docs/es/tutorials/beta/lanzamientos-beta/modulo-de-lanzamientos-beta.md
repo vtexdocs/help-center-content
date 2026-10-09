@@ -28,7 +28,7 @@ Los principales beneficios para el módulo son:
 - Mayor control al probar y revisar los cambios antes de la publicación.
 - Facilidad para programar o eliminar grupos de cambios.
 
-> ℹ️ El módulo **Lanzamientos** debe estar configurado en el CMS para poder usarlo. Obtén más información en [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
+> ℹ️ El módulo **Lanzamientos** debe estar configurado en el CMS para poder usarlo. Obtén más información en [Installing Releases on VTEX Headless CMS (Legacy)](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 Este artículo trata los siguientes temas:
 
@@ -88,7 +88,7 @@ Todos los lanzamientos creados aparecen en una lista en el Admin VTEX en **Confi
 
 En la pestaña `PROGRAMADOS`, la descripción de cada columna es la siguiente:
 
-| **Columna** | **Descripción** |
+| Columna | Descripción |
 | ---------- | ---------- |
 | Nombre | Nombre que identifica el lanzamiento, definido en la etapa de creación. Si no se publicó el lanzamiento, se lo puede editar en cualquier momento. |
 | Último cambio | Tiempo transcurrido desde el último cambio relacionado con el lanzamiento, por ejemplo, una actualización, agregado o eliminación de contenido. |

@@ -13,6 +13,7 @@ slugEN: shipping-simulation
 legacySlug: simulacao-de-frete
 locale: pt
 subcategoryId: 1O8AEORWOcgIiMosGoousQ
+categoryCover: true
 ---
 
 O **Simulador de envio** está disponível no Admin VTEX para simular e analisar as opções de entrega disponíveis. A simulação verifica as condições de entrega dando ao lojista a capacidade de verificar disponibilidade de itens, formas de entrega, custos e prazos. 
@@ -23,7 +24,7 @@ O simulador pode ser utilizado também para validar as configurações das  **[E
 
 * **Disponibilidade de Sellers White Label:** o simulador seleciona o franqueado mais próximo ao endereço de entrega (a configuração logística é calculada através do ambiente do _Seller White Label_, e não no Main Account).
 
-> ⚠️ Pode haver divergência entre o preço final apontado pelo simulador, e o preço real em sua loja, visto que a simulação não leva em consideração: <body> <ul> <li>Promoções aplicadas àqueles itens.</li> <li>Descontos de frete configurados através de promoções.</li> <li>O Prazo de Entrega Total apresentado no resultado da simulação não considera o campo **Data Previsão Chegada (pré-venda)** [do cadastro do item.](/pt/docs/tutorials/adicionar-ou-editar-sku)</li> </ul></body>
+> ⚠️ Pode haver divergência entre o preço final apontado pelo simulador, e o preço real em sua loja, visto que a simulação não leva em consideração: <ul> <li>Promoções aplicadas àqueles itens.</li> <li>Descontos de frete configurados através de promoções.</li> <li>O Prazo de Entrega Total apresentado no resultado da simulação não considera o campo **Data Previsão Chegada (pré-venda)** [do cadastro do item.](/pt/docs/tutorials/adicionar-ou-editar-sku)</li> </ul>
 
 Nesse artigo contém:
 
@@ -40,7 +41,7 @@ Nesse artigo contém:
  6. Selecione a `quantidade`do SKU.    
  7. Determine o `Preço`. Este campo é aberto, e opcional.  
 
-	> O simulador não leva em consideração o preço cadastrado no módulo Catálogo, portanto, ele não considera possíveis acréscimos nos valores do frete de acordo com o preço do carrinho e promoções de SKUs, o que pode resultar em um custo diferente do valor real do item na sua loja. Para que o simulador realize um cálculo preciso, sugerimos que você insira manualmente o valor final do SKU com as promoções aplicadas.  
+    > O simulador não leva em consideração o preço cadastrado no módulo Catálogo, portanto, ele não considera possíveis acréscimos nos valores do frete de acordo com o preço do carrinho e promoções de SKUs, o que pode resultar em um custo diferente do valor real do item na sua loja. Para que o simulador realize um cálculo preciso, sugerimos que você insira manualmente o valor final do SKU com as promoções aplicadas.  
 
  8. Clique no ícone `+` para adicionar mais de um produto na simulação. 
 Se desejar, pode preencher o box `Simular itens individualmente`.    

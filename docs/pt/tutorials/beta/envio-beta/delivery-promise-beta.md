@@ -73,13 +73,19 @@ Para operações [omnichannel](https://help.vtex.com/pt/tracks/estrategias-de-co
 
 O funcionamento da **Delivery Promise (Beta)** requer conhecer a localização do comprador desde o início da jornada de compra, de modo que a vitrine mostre somente os produtos com forma de envio válida.
 
-Para participar da fase atual da Delivery Promise (Beta), entre em contato com o nosso Suporte, atendendo às seguintes condições:
+Para usar a Delivery Promise (Beta), sua conta precisa atender às seguintes condições:
 
 * Usar [Intelligent Search](https://help.vtex.com/pt/docs/tutorials/intelligent-search-visao-geral).
 * Sellers externos precisam se adequar ao protocolo de notificações do [Delivery Promise Notification API](https://developers.vtex.com/docs/api-reference/delivery-promise-notification-api).
+* Não utilizar VTEX Shipping Network.
+* Não utilizar [Capacidade operacional](https://help.vtex.com/pt/docs/tutorials/capacidade-operacional).
+* Não utilizar [Assembly Options](https://help.vtex.com/docs/tutorials/assembly-options) de sellers regulares.
+
+Se a sua conta atender a essas condições, você pode ativar a Delivery Promise diretamente no Admin VTEX. Saiba como em [Ativar o Delivery Promise](https://help.vtex.com/pt/docs/tutorials/ativar-delivery-promise).
 
 ### Saiba mais
 
+* [Ativar o Delivery Promise](https://help.vtex.com/pt/docs/tutorials/ativar-delivery-promise)
 * [Delivery Promise: FAQ](/pt/docs/tutorials/delivery-promise-faq)
 * [Setting up Delivery Promise components (Beta)](https://developers.vtex.com/docs/guides/setting-up-delivery-promise-components)
 * [Delivery Promise for FastStore](https://developers.vtex.com/docs/guides/faststore/features-delivery-promise)

@@ -12,13 +12,13 @@ slugEN: 2024-09-18-change-to-the-availablequantity-field-in-the-search-api
 locale: pt
 legacySlug: alteracao-no-campo-availablequantity-da-api-de-busca
 announcementImageID: 'undefined'
-announcementSynopsisPT: 'A VTEX alterou o funcionamento do campo `availableQuantity`, retornado pelas rotas da API de busca legada.'
+announcementSynopsisPT: 'A VTEX alterou o funcionamento do campo `availableQuantity`, retornado pelas rotas da API de VTEX Search (Legado).'
 tags:
   - Breaking change
   - Intelligent Search
 ---
 
-A VTEX alterou o funcionamento do campo `availableQuantity`, retornado pelas rotas da API de busca legada. Esta alteração pode impactar no funcionamento de integrações existentes.
+A VTEX alterou o funcionamento do campo `availableQuantity`, retornado pelas rotas da API de VTEX Search (Legado). Esta alteração pode impactar no funcionamento de integrações existentes.
 
 > ℹ️ Lojas que utilizam o VTEX Intelligent Search não serão afetadas.
 
@@ -49,7 +49,7 @@ Esta mudança afeta todas as rotas que retornam este campo:
 
 ## Por que fizemos esta mudança?
 
-Antes, era possível ver a quantidade do produto em estoque de uma loja a partir da API da busca legada. Porém, como o inventário é um dado sensível e a API é pública, decidimos ocultar essa informação.
+Antes, era possível ver a quantidade do produto em estoque de uma loja a partir da API da VTEX Search (Legado). Porém, como o inventário é um dado sensível e a API é pública, decidimos ocultar essa informação.
 
 ## O que precisa ser feito?
 

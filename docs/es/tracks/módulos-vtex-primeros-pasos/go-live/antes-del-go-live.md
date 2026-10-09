@@ -33,7 +33,7 @@ Después de recibir la confirmación del apuntamiento interno, debes realizar el
 
 ## Solicitar el apuntamiento especial
 
-Si el acceso a tu tienda está restringido por una [política comercial](/es/docs/tutorials/crear-una-politica-comercial) con regla condicional y tu storefront se construyó con [CMS Portal Legacy](/es/docs/tracks/cms-portal-legado), debes solicitar un apuntamiento interno especial.
+Si el acceso a tu tienda está restringido por una [política comercial](/es/docs/tutorials/crear-una-politica-comercial) con regla condicional y tu storefront se construyó con [CMS Portal (Legado)](/es/docs/tracks/cms-portal-legado), debes solicitar un apuntamiento interno especial.
 
 Un ejemplo común son las [tiendas B2B](/es/docs/tutorials/b2b-vision-general), que [restringen el acceso](/es/docs/tutorials/configurando-b2b-na-vtex#1-incluir-regra-condicional-na-politica-comercial-do-b2b) a empresas previamente aprobadas.
 

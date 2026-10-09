@@ -1,5 +1,5 @@
 ---
-title: 'How can my customer login to my store?'
+title: 'Customer login and authentication'
 id: 3FCNpwbpZe0U4auiI4CC0C
 status: PUBLISHED
 createdAt: 2018-10-15T21:25:25.230Z
@@ -51,7 +51,7 @@ For the client to sign in using this method, they must follow the steps below:
 
 ### Login with email and password
 
-This type of login ** requests email and password** so that the client can authenticate.
+This type of login **requests email and password** so that the client can authenticate.
 
 - If the customer already has an email and password, they just need to click on **Enter with email and password**, fill in the email, fill in the password and click on **Enter**.
 
@@ -71,3 +71,7 @@ This type of login ** requests email and password** so that the client can authe
 ### Social media login
 
 Social media login options using your Google or Facebook accounts may also be added. Read our article on [Configuring login with Facebook and Google](/en/docs/tutorials/configuring-login-with-facebook-and-google) for more info.
+
+## Configuring customer session duration
+
+By default, customers stay authenticated for 24 hours after logging in. You can extend this period so your customers remain logged in for longer — up to 365 days — without needing to log in again every day. This is useful for improving customer experience on frequent purchases. Check the [Configuring persistent login for customers](/en/docs/tutorials/configuring-persistent-login-for-customers) guide to learn how to enable and configure this feature.

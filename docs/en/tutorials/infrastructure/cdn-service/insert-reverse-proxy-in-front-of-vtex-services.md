@@ -17,6 +17,8 @@ subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 
 > ❗ This guide addresses a practice that is **not recommended** for most stores and should only be applied in extreme cases. Implementing a reverse proxy replaces all perimeter services (CDN) managed and optimized by VTEX. This means that the store will be responsible for effective site provisioning, including configuring, monitoring, and managing aspects such as header passing, cookies, and caching. VTEX doesn't provide support or documentation for this specific configuration and is not responsible for any issues that may arise. VTEX is not responsible for problems with this system, whether related to our CDN, WAF service, or any other resource in front of our servers. We will not have visibility into the operation, and therefore, the solution is **not** covered under our SLA agreements.
 
+> ❗ This configuration is **not compatible with Amazon CloudFront**. As of January 2025, stores using CloudFront as their CDN cannot use a reverse proxy in front of VTEX services. Attempting this configuration with CloudFront may cause navigation failures and site downtime.
+
 To point your own CDN to the VTEX CDN, you need to insert a reverse proxy in front of VTEX services. The traffic flow follows this path:
 
 1. Store: Point of origin of traffic.

@@ -26,7 +26,7 @@ To meet this requirement, the **SSL Certificates** page allows you to install a 
 The page displays the following information in a table:
 
 | Columns | Description |
-| :---- | :---- |
+| ---- | ---- |
 | **Domain** | Host address, consisting of subdomain, domain and top-level domain. For example: www.mystore.com. Learn more about the structure of this address in [Configuring the store domain](/en/docs/tutorials/configuring-the-store-domain#store-address-structure). |
 | **CA** | Certificate Authority. |
 | **Installed on** | Date the certificate was installed. |

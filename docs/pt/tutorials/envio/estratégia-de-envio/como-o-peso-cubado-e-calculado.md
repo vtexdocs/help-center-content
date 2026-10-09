@@ -38,7 +38,7 @@ O cálculo do peso cubado é realizado efetuando a multiplicação do Comprimen
 
 Observe o exemplo a seguir:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estratégia-de-envio/como-o-peso-cubado-e-calculado_1.jpg)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estratégia-de-envio/como-o-peso-cubado-e-calculado_1.png)
 
 - __Dimensões do pacote:__ `50cm x 60cm x 15cm`
 - __Peso mínimo do pacote:__ `9kg`

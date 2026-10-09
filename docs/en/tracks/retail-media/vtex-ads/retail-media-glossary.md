@@ -18,7 +18,7 @@ order: 5
 The following glossary brings together the main terms and concepts related to retail media:  
 
 | Term | Meaning |
-| :---- | :---- |
+| ---- | ---- |
 | **Endemic advertiser** | Brand that promotes products directly related to the store's portfolio. For example, a brand advertising its electronic products on an ecommerce website that already sells them. |
 | **Non-endemic advertiser** | Brand that advertises in a retail store even without directly selling its products on that channel. For example, a car brand running campaigns in a marketplace that doesn't sell cars. |
 | **ACOS (Advertising Cost of Sales)** | Advertising costs are relative to the revenue generated. Formula: `ACOS = (Ad Spend/Revenue generated) × 100`. The lower the ACOS, the more efficient the campaign. |
@@ -50,3 +50,4 @@ The following glossary brings together the main terms and concepts related to re
 | **Share of search** | A brand's share in searches made on a website. Formula: `(Brand searches/Total searches in the category) × 100`. |
 | **Market share** | The share of a company or product in the total sales of an industry or category during a specific period. |
 | **Third-party cookies** | Cookies created by domains different from the accessed website used for tracking and customized ads. |
+| **View attribution** | Attribution model that credits a conversion to an ad when the user viewed the ad before the purchase, even without clicking. Complements click attribution, which requires a click on the ad. |

@@ -1,5 +1,5 @@
 ---
-title: 'Como meu cliente pode fazer login na minha loja?'
+title: 'Login e autenticação do cliente'
 id: 3FCNpwbpZe0U4auiI4CC0C
 status: PUBLISHED
 createdAt: 2018-10-15T21:25:25.230Z
@@ -13,6 +13,7 @@ slugEN: how-can-my-customer-login-to-my-store
 legacySlug: como-meu-cliente-pode-fazer-login-na-minha-loja
 locale: pt
 subcategoryId: 14V5ezEX0cewOMg0o0cYM6
+categoryCover: true
 ---
 
 Existem algumas situações em que o cliente da sua loja precisa fazer login para conseguir visualizar informações personalizadas. Abaixo, listamos os cenários mais comuns:
@@ -65,3 +66,7 @@ Este tipo de login __solicita email e senha__ para que o cliente possa se autent
 ### Login por rede social
 
 É possível incluir opções de login por rede social utilizando a conta do Google ou do Facebook. Para saber como incluir essas opções, leia o artigo [Configurar login com Facebook e Google](/pt/docs/tutorials/configurar-login-com-facebook-e-google).
+
+## Configurar a duração da sessão do cliente
+
+Por padrão, os clientes permanecem autenticados por 24 horas após fazer login. Você pode estender esse período para que seus clientes permaneçam conectados por mais tempo — até 365 dias — sem precisar fazer login novamente a cada dia. Isso é útil para melhorar a experiência do cliente em compras frequentes. Confira o guia [Configurar login persistente para clientes](/pt/docs/tutorials/configurar-login-persistente-para-clientes) para aprender como habilitar e configurar essa funcionalidade.

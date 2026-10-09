@@ -27,7 +27,7 @@ This section includes the following information:
 
 ## Data characteristics
 
-|**Characteristic**|**Description**|
+|Characteristic|Description|
 | - | - |
 |**Data source**|Obtained from the [Promotions module](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR) in the VTEX Admin.|
 |**Availability**|Promotion data can be accessed through the VTEX Admin and also via the [Promotions APIs](https://developers.vtex.com/docs/guides/promotions-overview).|

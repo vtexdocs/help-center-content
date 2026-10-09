@@ -1,5 +1,5 @@
 ---
-title: '¿Cómo puede mi cliente iniciar sesión en mi tienda?'
+title: 'Inicio de sesión y autenticación del cliente'
 id: 3FCNpwbpZe0U4auiI4CC0C
 status: PUBLISHED
 createdAt: 2018-10-15T21:25:25.230Z
@@ -65,4 +65,8 @@ Este tipo de login __solicita email y contraseña__ para que el cliente pueda au
 ### Inicio de sesión con redes sociales
 
 Se puede incluir opciones de inicio de sesión utilizando su cuenta de Google o Facebook. Para saber cómo incluir estas opciones, lea el artículo [Configurar inicio de sesión con Facebook y Google](/es/docs/tutorials/configurar-inicio-de-sesion-con-facebook-y-google).
+
+## Configurar la duración de la sesión del cliente
+
+Por defecto, los clientes permanecen autenticados durante 24 horas después de iniciar sesión. Puedes extender este período para que tus clientes permanezcan conectados durante más tiempo — hasta 365 días — sin necesidad de iniciar sesión nuevamente cada día. Esto es útil para mejorar la experiencia del cliente en compras frecuentes. Consulta la guía [Configurar el inicio de sesión persistente para clientes](/es/docs/tutorials/configurar-el-inicio-de-sesion-persistente-para-clientes) para aprender cómo habilitar y configurar esta funcionalidad.
 

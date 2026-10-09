@@ -1,9 +1,9 @@
 ---
-title: 'Store Framework CMS'
+title: 'CMS para Store Framework'
 id: 4yB9wSl79cArd68aRBnBZ2
 status: PUBLISHED
 createdAt: 2022-01-10T17:28:27.583Z
-updatedAt: 2024-11-18T18:06:20.182Z
+updatedAt: 2026-05-12T18:06:04.532Z
 publishedAt: 2024-11-18T18:06:20.182Z
 firstPublishedAt: 2022-01-10T20:13:28.409Z
 contentType: trackArticle
@@ -15,9 +15,9 @@ trackSlugEN: cms
 order: 2
 ---
 
-Las tiendas desarrolladas con Store Framework tienen integración con [Site Editor](https://developers.vtex.com/docs/guides/working-with-site-editor), que funciona como un sistema de gestión de contenido o CMS (content management system). Además, dispone de otras funcionalidades, como la gestión de Páginas, Estilos y Banners.
+Para tiendas desarrolladas con Store Framework, la gestión de contenido se realiza mediante un [CMS](https://help.vtex.com/es/docs/tracks/o-que-e-o-cms) (content management system) que está integrado con el [Site Editor](https://help.vtex.com/es/docs/tutorials/site-editor-vision-general). Además, este sistema dispone de otras funcionalidades, como la gestión de las secciones Páginas, Estilos y Banners.
 
-Para construir y configurar el sitio web de tu tienda Store Framework mediante el CMS, tienes a disposición los siguientes recursos:
+Para construir y configurar el sitio web de tu tienda Store Framework mediante el CMS tienes a disposición los siguientes recursos:
 
 - [Site Editor](#site-editor)
 - [Layout - Sites and channels](#layout-sites-and-channels)
@@ -28,39 +28,39 @@ Para construir y configurar el sitio web de tu tienda Store Framework mediante e
 
 ## Site Editor
 
-**[Site Editor](/es/docs/tutorials/site-editor-vision-general)** es una interfaz gráfica para gestionar el contenido del storefront. Te permite crear, editar, publicar y programar cambios en los componentes y el comportamiento de tu storefront.
+El **[Site Editor](https://help.vtex.com/es/docs/tutorials/site-editor-vision-general)** es una interfaz gráfica para la gestión de contenidos del storefront. Te permite crear, editar, publicar y programar cambios en los componentes y el comportamiento de tu storefront.
 
-En el Admin VTEX, Site Editor cuenta con una interfaz intuitiva que muestra los bloques definidos en el [Store Theme](https://developers.vtex.com/docs/guides/vtex-io-documentation-store-theme). Esto permite que cualquier persona pueda modificar el contenido y layout de la tienda fácilmente, sin necesidad de editar el código.
+En el Admin VTEX, Site Editor cuenta con una interfaz intuitiva que muestra los bloques definidos en el [Store Theme](https://developers.vtex.com/docs/guides/vtex-io-documentation-store-theme), permitiendo que cualquier persona pueda modificar el contenido y el layout de la tienda sin necesidad de editar el código.
 
-![site-editor-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/cms/cms-vtex-io_1.png)
+![site-editor-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/cms/cms-vtex-io_1.png)
 
 ## Layout - Sites and channels
 
-Las tiendas desarrolladas con Store Framework también deben configurar el [binding de la tienda](/es/docs/tutorials/que-es-el-cms-layout#binding) a través de la carpeta **[Sites and channels](/es/docs/tutorials/que-es-el-cms-layout#sites-and-channels)** en la sección **Layout** del Admin VTEX.
+Las tiendas desarrolladas con Store Framework también deben configurar el [binding de la tienda](https://help.vtex.com/es/docs/tutorials/que-es-el-cms-layout#binding), a través de la carpeta **[Sites and channels](https://help.vtex.com/es/docs/tutorials/que-es-el-cms-layout)** en la sección **Layout** del Admin VTEX.
 
 Binding es el proceso utilizado para vincular tu sitio web a una tienda. Para más detalles, consulta el artículo [Vincular una tienda a una estructura de carpetas en CMS (binding)](/es/docs/tutorials/vincular-un-account-name-a-un-website-binding).
 
-![layout-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/cms/cms-vtex-io_2.png)
+![layout-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/cms/cms-vtex-io_2.png)
 
-> ℹ️ A excepción de la carpeta **Sites and channels**, todas las demás funcionalidades de la sección **Layout** del Admin VTEX solo están disponibles para tiendas CMS Portal (Legado). 
+> ℹ️ A excepción de la carpeta **Sites and channels**, todas las demás funcionalidades de la sección **Layout** del Admin VTEX solo están disponibles para tiendas CMS Portal (Legado).
 
 ## Banners
 
 Banners es la funcionalidad de Intelligent Search que muestra banners, como acciones promocionales, en la página de resultados de búsqueda del cliente. Esto se realiza mediante la asociación entre las palabras y los filtros seleccionados en la búsqueda, y mediante la configuración de banners en tu tienda.
 
-Para saber más sobre este módulo, consulta el tutorial [Banners](/es/v4/docs/banners--51nNoJABZ5NtvJQCucCXCy).
+Para saber más sobre este módulo, consulta el tutorial [Configurar Banners](https://help.vtex.com/es/docs/tutorials/configurar-banners).
 
 ## Páginas
 
-El módulo **Páginas** es donde se gestionan las páginas de tu sitio web. En el Admin VTEX, las páginas se dividen en **Predeterminado**, **Producto**, **Colecciones de productos** y **No encontrado (404)**, en las que puedes crear nuevas URL y vincularlas a un template ya definido en el [código del tema de la tienda](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-4-configuringtemplates).
+El módulo **Páginas** es donde se gestionan las páginas de tu sitio web. En el Admin VTEX, las páginas se dividen en **Predeterminado**, **Producto**, **Colecciones de productos** y **No encontrado (404)**, en las que puedes crear nuevas URL y vincularlas a una plantilla ya definida en el [código del tema de la tienda](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-4-configuringtemplates).
 
-![cms-store-framework-paginas-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/cms/cms-vtex-io_3.gif)
+![cms-store-framework-paginas-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/cms/cms-vtex-io_3.gif)
 
-Esta sección también contiene la página **Redirecciones**, que permite configurar redirecciones desde la URL de una tienda a otra más relevante. 
+Esta sección también contiene la página **Redirecciones**, que permite configurar redirecciones desde la URL de una tienda a otra más relevante.
 
-![cms-store-framework-redirecionamentos-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/cms/cms-vtex-io_4.png)
+![cms-store-framework-redirecciones-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/cms/cms-vtex-io_4.png)
 
-Para más información sobre este módulo, consulta el tutorial [Páginas](/es/docs/tutorials/paginas-vision-general).
+Para saber más, consulta la sección [Páginas](https://help.vtex.com/es/docs/tracks/cms-vtex-io#paginas).
 
 ## Estilos
 
@@ -68,18 +68,18 @@ Esta funcionalidad te permite definir la tipografía y la paleta de colores del 
 
 > ⚠️ Este recurso solo funciona en [workspaces de producción](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-production-workspace).
 
-Para saber más sobre este módulo, consulta el tutorial [Estilos](/es/docs/tutorials/estilos-vision-general).
+Para saber más, consulta la sección [Estilos](https://help.vtex.com/es/docs/tracks/cms-vtex-io#estilos).
 
 ## Multimedia
 
 En el módulo Multimedia puedes gestionar los archivos multimedia de tu tienda, como imágenes y videos.
 
-![cms-store-framework-media-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/cms/cms-vtex-io_5.png)
+![cms-store-framework-media-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/cms/cms-vtex-io_5.png)
 
-Para saber más sobre este módulo, consulta el tutorial [Multimedia - Información general](/es/docs/tutorials/multimedia-vision-general).
+Para saber más, consulta la sección [Multimedia](https://help.vtex.com/es/docs/tracks/cms-vtex-io#multimedia).
 
-## Más información
+## Aprende más
 
-- **[Gestionar contenido de páginas y templates](/es/docs/tutorials/gestionar-contenido-de-paginas-y-templates):** construye el storefront de tu tienda de acuerdo con las necesidades de tu negocio, utilizando una interfaz amigable.
+- **[Gestionar contenido de página y plantilla](https://help.vtex.com/es/docs/tutorials/gestionar-contenido-de-paginas-y-templates):** Construye el storefront de tu tienda según las necesidades de tu negocio, utilizando una interfaz amigable a tu favor.
 
-- **[Gestión de contenidos por binding](/es/docs/tutorials/gestionar-el-contenido-segun-el-binding):** personaliza estratégicamente la apariencia de tu tienda de acuerdo con la región de los usuarios para aumentar el acceso y las tasas de venta.
+- **[Gestionar contenido según el binding](https://help.vtex.com/es/docs/tutorials/gestionar-el-contenido-segun-el-binding):** Personaliza estratégicamente la apariencia de tu tienda según la ubicación de los usuarios para aumentar el acceso y las tasas de venta.

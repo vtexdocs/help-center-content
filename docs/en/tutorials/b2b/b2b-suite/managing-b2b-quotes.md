@@ -44,7 +44,7 @@ You must configure some [permissions](#access-permissions) to access B2B Quotes.
 | Edit my organization quotes and carts      | Sales Manager                                                                                                                            |
 
 ## My quotes
-The **B2B Quotes** app enables the page **My Quotes**, which is an interface for managing quotes and carts saved in the store. To access this page, you must be logged in and have the required [permissions](access-permissions).
+The **B2B Quotes** app enables the page **My Quotes**, which is an interface for managing quotes and carts saved in the store. To access this page, you must be logged in and have the required [permissions](#access-permissions).
 
 To access **My Quotes**, follow the instructions below:
 
@@ -123,7 +123,7 @@ To create a quote or saved cart, you must have the [Create Quotes and Carts perm
       Click one of the following options:
       <ul>
          <li>
-            **Save for Later:** Creates a saved cart. The status of the newly created saved cart will be set to **Ready**, which means that it can be used immediately in an order by any user within that organization or cost center who has the [permission](#) to Create Orders from Quotes and Carts.
+            **Save for Later:** Creates a saved cart. The status of the newly created saved cart will be set to **Ready**, which means that it can be used immediately in an order by any user within that organization or cost center who has the [permission](#access-permissions) to Create Orders from Quotes and Carts.
          </li>
          <li>
             **Save Quote:** Creates a quote. The status of the newly created quote will be set to **Pending**, which means that it will need to be reviewed and adjusted by a sales associate before any special discounts can be applied.

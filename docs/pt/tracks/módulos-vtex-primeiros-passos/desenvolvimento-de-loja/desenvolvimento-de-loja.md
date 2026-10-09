@@ -3,7 +3,7 @@ title: 'Desenvolvimento de loja'
 id: 2PS5GZ2XUXs70Pu8m7wRcz
 status: PUBLISHED
 createdAt: 2022-12-21T20:19:31.109Z
-updatedAt: 2022-12-22T19:56:58.127Z
+updatedAt: 2026-10-08T19:56:58.127Z
 publishedAt: 2022-12-22T19:56:58.127Z
 firstPublishedAt: 2022-12-22T19:56:58.127Z
 contentType: trackArticle
@@ -15,31 +15,97 @@ trackSlugEN: desenvolvimento-de-loja
 order: 1
 ---
 
-Em uma loja de ecommerce, tanto a interface que os usuários veem e interagem quanto a maneira como se armazena e lida com os dados são aspectos importantes a serem considerados em seu desenvolvimento. Dessa forma, uma loja de ecommerce se divide principalmente entre frontend e backend, podendo o frontend também ser chamado de frente de loja:
+O desenvolvimento de loja envolve a criação e a manutenção da experiência voltada para o cliente de uma loja de ecommerce, comumente chamada de frente de loja.
 
-- **Frontend**: O frontend compreende a camada visual de uma aplicação, como por exemplo, a interface de um website ou de um aplicativo mobile. É através dela que os usuários interagem com uma loja. Na VTEX, existem três tecnologias diferentes que podem ser utilizadas para o desenvolvimento de fronts de loja. São elas: o CMS Portal (Legado), o Store Framework e a FastStore.
-- **Backend**: O backend é a camada responsável por computar e processar todos os dados nescessários para executar as funcionalidades oferecidas por uma determinada aplicação. Na VTEX, o desenvolvimento de integrações e aplicações de backend se dá principalmente através do VTEX IO e das APIs da VTEX.
+A frente de loja exibe dados de comércio e permite que os clientes naveguem pelos produtos, gerenciem suas contas e façam pedidos. Ela se comunica com serviços de backend responsáveis por recursos como catálogo, preços, promoções, checkout, logística e pedidos.
 
-![storefront mockup](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/desenvolvimento-de-loja/desenvolvimento-de-loja_1.png)
+Na VTEX, você pode desenvolver uma frente de loja usando [FastStore](https://developers.vtex.com/docs/guides/faststore), [Store Framework](https://developers.vtex.com/docs/guides/store-framework) ou [CMS Portal (Legado)](https://help.vtex.com/docs/tracks/legacy-cms-portal).
 
-Nas seções a seguir, exploraremos melhor os principais aspectos e tecnologias relacionadas ao desenvolvimento de loja na VTEX.
+## Soluções de frente de loja
 
-Outros conceitos essenciais para desenvolvimento de loja na VTEX são:
+Cada solução de frente de loja tem um modelo diferente de desenvolvimento, implantação e gerenciamento de conteúdo:
 
-## CMS Portal (Legado)
-Na VTEX, frentes de loja podem ser construídas através do CMS Portal (Legado), por exemplo, o qual gerencia todo o conteúdo que aparece na loja.
+```mermaid
+flowchart TB
+    A["Desenvolvimento de frente de loja VTEX"]
+
+    A --> B["FastStore"]
+    A --> C["Store Framework"]
+    A --> D["CMS Portal (Legado)"]
+
+    B --> B1["Código: React e Next.js"]
+    B1 --> B2["Implantação: FastStore WebOps"]
+    B2 --> B3["Conteúdo: CMS"]
+
+    C --> C1["Código: React e aplicativos VTEX IO"]
+    C1 --> C2["Implantação: VTEX IO"]
+    C2 --> C3["Conteúdo: Editor de Site"]
+
+    D --> D1["Código: HTML, CSS e JavaScript"]
+    D1 --> D2["Gerenciamento: VTEX Admin"]
+    D2 --> D3["Conteúdo: CMS Portal"]
+```
+
+| Solução | Principais tecnologias | Desenvolvimento e implantação |
+| --- | --- | --- |
+| [FastStore](https://developers.vtex.com/docs/guides/faststore) | Next.js, React, TypeScript, Node.js e GraphQL | Desenvolvida no GitHub e implantada pelo FastStore WebOps |
+| [Store Framework](https://developers.vtex.com/docs/guides/store-framework) | Aplicativos VTEX IO, React, TypeScript, Node.js e GraphQL | Desenvolvida e implantada pelo VTEX IO |
+| [CMS Portal (Legado) — Não está mais disponível para lojas VTEX recém-criadas.](https://help.vtex.com/docs/tracks/legacy-cms-portal) | HTML, CSS e JavaScript | Desenvolvida e gerenciada pelo VTEX Admin |
+
+Para comparar as três soluções em mais detalhes, consulte [Primeiros passos com soluções de frente de loja](https://developers.vtex.com/docs/guides/getting-started-with-storefront-solutions).
+
+### FastStore
+
+O [FastStore](https://developers.vtex.com/docs/guides/faststore) é um conjunto de ferramentas para desenvolver frentes de loja de alto desempenho com [React](https://react.dev/) e [Next.js](https://nextjs.org/). Ele segue uma arquitetura [Jamstack](https://jamstack.org/), na qual as páginas podem ser pré-renderizadas e entregues por uma rede de distribuição de conteúdo (CDN), enquanto as APIs fornecem dados e funcionalidades dinâmicas de comércio.
+
+Em frentes de loja FastStore, os desenvolvedores mantêm o código-fonte no GitHub e implantam a frente de loja pelo [FastStore WebOps](https://developers.vtex.com/docs/guides/faststore/webops-dashboard). Usuários de negócio gerenciam o conteúdo da frente de loja com o [CMS](https://help.vtex.com/docs/tutorials/cms-overview).
+
+O FastStore tem várias versões principais com diferentes níveis de suporte. O FastStore v4 é a versão atual recomendada para novas implementações de frente de loja. Para mais informações, consulte [Versões e níveis de suporte do FastStore](https://developers.vtex.com/docs/guides/faststore/getting-started-faststore-versions-and-support-levels).
+
+### Store Framework
+
+O [Store Framework](https://developers.vtex.com/docs/guides/store-framework) é um framework de desenvolvimento frontend baseado em React e na plataforma de desenvolvimento VTEX IO. Os desenvolvedores criam frentes de loja compondo aplicativos VTEX IO nativos e personalizados em um tema de loja.
+
+Como o Store Framework é executado no VTEX IO, os desenvolvedores podem usar recursos como workspaces de desenvolvimento e produção, testes A/B e infraestrutura de nuvem gerenciada. Usuários de negócio gerenciam o conteúdo da frente de loja pelo [Editor de Site](https://help.vtex.com/docs/tutorials/site-editor-overview).
+
+### CMS Portal (Legado)
+
+O [CMS Portal (Legado)](https://help.vtex.com/docs/tracks/legacy-cms-portal) é a solução original da VTEX para desenvolvimento e gerenciamento de conteúdo de frentes de loja. Os desenvolvedores criam templates HTML e usam CSS, JavaScript e controles nativos da VTEX para renderizar dados de comércio, com o código gerenciado diretamente pelo VTEX Admin.
+
+> ⚠️ O CMS Portal (Legado) não está mais disponível para lojas VTEX recém-criadas. Para orientações sobre como migrar uma frente de loja existente para o FastStore, entre em contato com o [Suporte VTEX](https://help.vtex.com/support).
+
+## Desenvolvimento de backend e integrações
+
+A frente de loja se comunica com serviços de backend que fornecem os dados e as funcionalidades necessários para a operação de ecommerce. Os desenvolvedores podem ampliar esses recursos criando aplicativos de backend e integrações com o VTEX IO e as APIs da VTEX.
+
+### VTEX IO
+
+O [VTEX IO](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-io) é uma plataforma de desenvolvimento baseada em nuvem para criar aplicações frontend e backend. Ela fornece infraestrutura gerenciada e ferramentas de desenvolvimento para que as equipes possam se concentrar na implementação dos requisitos de negócio.
+
+O VTEX IO permite o desenvolvimento de:
+
+- Frentes de loja com Store Framework.
+- Aplicativos personalizados para o VTEX Admin.
+- Serviços de backend e integrações.
+
+### APIs da VTEX
+
+As [APIs da VTEX](https://developers.vtex.com/docs/api-reference) expõem recursos de comércio como catálogo, preços, promoções, checkout, logística e pedidos.
+
+As três soluções de frente de loja dependem dos serviços de comércio subjacentes da VTEX. No entanto, a forma como uma frente de loja acessa esses serviços depende da tecnologia selecionada. Por exemplo, o FastStore pode consumir dados de comércio pela sua camada de API, o Store Framework usa aplicativos VTEX IO e o CMS Portal pode renderizar dados por meio de controles nativos da VTEX.
 
 ## VTEX Admin
-Também essencial para uma loja é o Admin ou, no caso da VTEX, o VTEX Admin. Nele é possível gerenciar todas as informações necessárias para a melhoria de performance do negócio e em tomadas de decisões mais embasadas. 
 
-## VTEX IO
-Ainda com foco em performance e em prover a melhor experiência possível, a VTEX traz para o mercado o conceito de VTEX IO. VTEX IO é uma plataforma de desenvolvimento low-code e em nuvem, que permite que [seus desenvolvedores](https://vtex.com/pt-br/parceiros/) criem soluções para ecommerce. Seu objetivo é fornecer uma forma mais barata e eficiente de desenvolver soluções e integrações personalizadas dentro do ecossistema VTEX. 
+O VTEX Admin é a interface na qual usuários de negócio gerenciam dados e configurações de comércio, incluindo produtos, pedidos, promoções, logística e conteúdo da frente de loja.
 
-Para isso, a plataforma oferece ao time de desenvolvimento da sua loja todas as ferramentas necessárias para que foquem na implementação do problema de negócio, sem precisar se preocupar com questões de compatibilidade e infraestrutura de software. VTEX IO possibilita tanto o desenvolvimento de frontend quanto de backend. 
+Os recursos de frente de loja disponíveis no VTEX Admin dependem da tecnologia selecionada:
 
-## Store Framework
-Um framework de implementação low-code que foca no conceito de composabilidade, apresentando uma variedade de features disponíveis para seus desenvolvedores.
+- O FastStore usa o CMS para o conteúdo da frente de loja.
+- O Store Framework usa o Editor de Site.
+- Frentes de loja CMS Portal usam os recursos de layout e templates do CMS Portal.
 
-## FastStore
-FastStore é a solução mais recente de frente de loja fornecida pelo VTEX IO, sendo focada em performance.
+## Próximos passos
 
+- [Desenvolvimento de frentes de loja](https://developers.vtex.com/docs/storefront-development): Explore a documentação completa para desenvolvedores sobre as soluções de frente de loja da VTEX.
+- [Primeiros passos com soluções de frente de loja](https://developers.vtex.com/docs/guides/getting-started-with-storefront-solutions): Compare os recursos e a experiência de desenvolvimento de cada solução.
+- [Implementação de frontend](https://help.vtex.com/docs/tracks/frontend-implementation): Saiba mais sobre as etapas envolvidas na implementação de um projeto de frente de loja.

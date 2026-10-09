@@ -251,7 +251,7 @@ jobs:
           git commit -m "chore(nav): update navigation.json via vtexhelp-nav-cli"
           NEW_SHA=$(git rev-parse HEAD)
           # Push using HEAD:branch syntax to handle detached HEAD state
-          git push origin HEAD:${{ github.head_ref }}
+          git push origin HEAD:"${{ github.head_ref }}"
           # Set outputs
           echo "committed=true" >> "$GITHUB_OUTPUT"
           echo "commit_sha=$NEW_SHA" >> "$GITHUB_OUTPUT"

@@ -138,7 +138,7 @@ Você pode encontrar a opção de filtro desejada usando a barra de busca ou cli
 - **Seller:** apresenta o [ID dos sellers](/pt/docs/tutorials/adicionar-seller) da sua loja e filtra pelo seller encarregado do fulfillment do pedido.
 - **Política comercial:** mostra as [políticas comerciais](/pt/docs/tutorials/como-funciona-uma-politica-comercial) da sua loja e filtra pela política comercial utilizada no pedido.
 - **Campanha:** apresenta as [audiências de campanha](/pt/docs/tutorials/audiencias-de-campanhas) da sua loja e filtra pelo público-alvo de uma promoção.
-- **Operador televendas: **exibe operadores de [televendas](/pt/docs/tutorials/funcionalidades-de-televendas) da sua loja.
+- **Operador televendas:** exibe operadores de [televendas](/pt/docs/tutorials/funcionalidades-de-televendas) da sua loja.
 - **UTM source:** apresenta opções de [UTM source](/pt/docs/tutorials/o-que-sao-utm-source-utm-campaign-e-utm-medium) configuradas na sua loja. UTM (_Urchin Tracking Modules_) são parâmetros de URL normalmente usados em contextos de marketing e promoções para rastrear o tráfego de acessos a um site.
 
 Após selecionar os filtros desejados, clique em `Aplicar`.
@@ -164,7 +164,7 @@ Após selecionar os filtros desejados, clique em `Aplicar`.
 
 ### Filtros: Outros
 
-Os filtros em **Outros **são de assuntos diversos, alguns dos quais variam em função das configurações de cada loja. Portanto, algumas das opções listadas abaixo podem não estar disponíveis no seu Admin VTEX. 
+Os filtros em **Outros** são de assuntos diversos, alguns dos quais variam em função das configurações de cada loja. Portanto, algumas das opções listadas abaixo podem não estar disponíveis no seu Admin VTEX. 
 
 Para utilizar esses filtros, clique em `Filtros` e selecione **Outros**. Você pode encontrar a opção desejada usando a barra de busca ou clicando no dropdown <i class="fas fa-angle-down"></i> ao lado das opções a seguir:
 

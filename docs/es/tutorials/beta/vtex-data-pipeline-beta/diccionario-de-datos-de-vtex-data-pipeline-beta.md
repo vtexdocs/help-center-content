@@ -54,4 +54,5 @@ Los conjuntos de datos disponibles son los siguientes:
 - [Registro del Bridge](/es/docs/tutorials/registros-del-bridge-data-pipeline)
 - [Marketplace in](/es/docs/tutorials/marketplace-in-data-pipeline)
 - [Disponibilidad de carrito](/es/docs/tutorials/disponibilidad-de-carrito-data-pipeline)
+- [Búsqueda y recomendaciones](/es/docs/tutorials/busqueda-y-recomendaciones-data-pipeline)
 

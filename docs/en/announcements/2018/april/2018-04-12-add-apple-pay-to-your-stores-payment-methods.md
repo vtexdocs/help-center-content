@@ -12,11 +12,15 @@ slugEN: 2018-04-12-add-apple-pay-to-your-stores-payment-methods
 locale: en
 legacySlug: add-apple-pay-to-your-stores-payment-methods
 announcementImageID: 'undefined'
-announcementSynopsisEN: 'VTEX is the first brazilian ecommerce platform to offer full integration with Apple Pay.'
+announcementSynopsisEN: 'VTEX is the first Brazilian ecommerce platform to offer full integration with Apple Pay.'
 ---
 
 __Apple Pay__ just arrived in Brazil and is already available for your store. This makes VTEX the first Brazilian e-commerce platform to offer integration with Apple's digital payment system.
 
-Simple, fast and safe, this payment method brings more convenience to all those who own a device from the California based company. Some of its main benefits include unique codes for each transaction and the fact that neither the user's device nor Apple's servers store card numbers.
+## Why did we make this change?
 
-[Make Apple Pay's setup on your store](/en/docs/tutorials/setting-up-payments-with-apple-pay) today and add more innovation to your client's shopping experience.
+Simple, fast and safe, this payment method brings more convenience to all those who own a device from the California-based company. Some of its main benefits include unique codes for each transaction and the fact that neither the user's device nor Apple's servers store card numbers.
+
+## What needs to be done?
+
+[Set up Apple Pay in your store](/en/docs/tutorials/setting-up-payments-with-apple-pay) today to add more innovation to your customers' shopping experience.

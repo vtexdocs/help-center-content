@@ -1,5 +1,5 @@
 ---
-title: 'Cómo funciona Mi Cuenta'
+title: 'Mi Cuenta'
 id: 2BQ3GiqhqGJTXsWVuio3Xh
 status: PUBLISHED
 createdAt: 2019-04-11T21:14:26.117Z

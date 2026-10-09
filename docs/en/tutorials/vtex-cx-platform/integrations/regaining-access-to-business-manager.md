@@ -19,7 +19,7 @@ Access to the business manager is essential for a company to be able to create o
 
 ## Recovery process
 
-First, it's important to look for and contact potential Business Manager administrators, for example employees or people who may have previously created or administered Business Manager. If you find the Business Manager Admin, simply ask them to follow these steps:
+First, it's important to look for and contact potential Business Manager administrators, for example employees or people who may have previously created or administered Business Manager. If you find the Business Manager Admin, ask them to follow these steps:
 
 1. Go to Business Settings.
 2. Click People.

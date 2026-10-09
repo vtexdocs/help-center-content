@@ -27,7 +27,7 @@ A [regra de Divergência de valores](/pt/docs/tutorials/regra-de-divergencia-de-
 
 A tabela a seguir compara o fluxo de processamento de pedidos no caso de conectores nativos _antes_ e _agora_:
 
-| **ANTES** | **AGORA** |
+| ANTES | AGORA |
 | ---------- | ---------- |
 | A configuração de uma regra de processamento de pedidos com erro era feita na etapa de configuração da integração, com o preenchimento de um campo obrigatório no cadastro do conector. | O processamento de pedidos com erro é feito a partir da [configuração da regra de Divergência de valores](/pt/docs/tutorials/configuracao-da-regra-de-divergencia-de-valores), pelo fluxo de Autorização de pedidos. |
 | Pedidos com erro de divergência de preço não eram criados automaticamente, só após o reprocessamento manual. | Pedidos com erro de divergência de preço são criados automaticamente. A [autorização manual](/pt/docs/tutorials/configuracao-da-regra-de-divergencia-de-valores#autorizar-pedidos-manualmente) de um pedido é necessária somente quando se configura uma regra de autorização que exija essa ação. |

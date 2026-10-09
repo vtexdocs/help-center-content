@@ -19,7 +19,7 @@ After we build and run our flows, our next longing without a doubt is to be able
 
 ## Accessing flow results
 
-To access the flow results, simply open the flow in question, click on the burger menu next to the **Start Flow button** and select the **Results** option
+To access the flow results, open the flow in question, click on the burger menu next to the **Start Flow button** and select the **Results** option
 
 In the **_Results_** tab we have two report options:
 

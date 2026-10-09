@@ -39,7 +39,7 @@ Clique em cada métrica para visualizar o gráfico correspondente. O gráfico ap
 As informações apresentadas são:
 
 | Métrica | Descrição | Informações disponíveis ao passar o mouse sobre uma data |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | **Conversão por clique** | Percentual de cliques em recomendações que resultaram em pedidos. | Cliques <br /> Pedidos <br /> Conversão por click |
 | **Taxa de visualização** | Percentual de visualizações de prateleiras de recomendação em relação ao total de visualizações de página. A cada vez que a página é carregada, a estratégia é gerada e ela pode ou não ser visualizada. | Visualizações <br /> Impressões <br /> Taxa de visualização |
 | **Taxa de cliques** | Taxa média de cliques (CTR) nas recomendações. | Cliques <br /> Visualizações <br /> Taxa de cliques |
@@ -54,7 +54,7 @@ A tabela apresenta o desempenho individual de cada prateleira de recomendação 
 A página apresenta as seguintes informações sobre cada prateleira em uma tabela:
 
 | Coluna | Descrição |
-| :---- | :---- |
+| ---- | ---- |
 | Prateleira | Nome da prateleira de recomendação e sua respectiva estratégia e contexto de exibição (por exemplo, *home*, *pdp*, *cart*, *footer*). |
 | Taxa de visualização | Percentual de visualizações da prateleira em relação às visualizações da página em que ela está inserida. |
 | Taxa de cliques | Percentual de cliques nos produtos da prateleira em relação ao número de visualizações. |
@@ -84,8 +84,10 @@ Para copiar o identificador de uma prateleira de recomendação:
 
 O identificador pode ser utilizado para:
 
-* Implementação da estratégia no storefront.  
-  Saiba mais na documentação do componente [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf) para Store Framework.  
+* Implementar a estratégia no storefront:  
+  * **Store Framework**: Consulte a documentação do componente [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf).
+  * **FastStore ou Headless**: Consulte o guia [Integrating product recommendations in headless or FastStore web stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-or-faststore-web-stores).
+  * **Mobile**: Consulte o guia [Integrating product recommendations in mobile stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-mobile-stores).
 * Facilitar a identificação da estratégia durante a solução de problemas ou ao acionar o Suporte.
 
 ## Selecionar período de análise
@@ -137,5 +139,5 @@ Para remover um filtro, repita os passos 1 e 2 e clique em `Limpar`.
 
 * [Recomendações de produtos](https://help.vtex.com/pt/docs/tutorials/recomendacoes-de-produtos-beta)  
 * [Recommendation Shelf (Store Framework)](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf)
-* [Integrating product recommendations in headless stores (Beta)](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-stores)  
-* [Implementing product recommendations in Faststore](https://developers.vtex.com/docs/guides/implementing-product-recommendations-in-faststore)
+* [Integrating product recommendations in headless or FastStore web stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-or-faststore-web-stores)  
+* [Integrating product recommendations in mobile stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-mobile-stores)
