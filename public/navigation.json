@@ -237,6 +237,37 @@
             },
             {
               "name": {
+                "en": "Setembro",
+                "es": "Setembro",
+                "pt": "Setembro"
+              },
+              "slug": {
+                "en": "setembro",
+                "es": "setembro",
+                "pt": "2026-setembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Atualização da base de endereços da Bolívia",
+                    "en": "Atualização da base de endereços da Bolívia",
+                    "es": "Atualização da base de endereços da Bolívia"
+                  },
+                  "slug": {
+                    "pt": "2026-09-30-atualizacao-da-base-de-enderecos-da-bolivia",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "August",
                 "es": "Agosto",
                 "pt": "Agosto"
