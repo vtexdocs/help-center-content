@@ -3,7 +3,7 @@ title: "VTEX CMS: now available for Early Access"
 createdAt: "2026-10-13T17:08:52.219Z"
 updatedAt: "2026-10-13T17:08:52.219Z"
 contentType: updates
-productTeam: cms
+productTeam: CMS
 slugEN: 2026-10-13-cms-now-available-for-early-access
 locale: en
 announcementSynopsisEN: 'The new VTEX CMS is now available for Early Access, replacing Headless CMS (Legacy) with a modern system to create, collaborate on, and publish storefront content.'
@@ -18,27 +18,17 @@ The new [VTEX CMS](https://help.vtex.com/docs/tutorials/cms-overview) is now ava
 
 ## Highlights
 
-<div style="display:flex; gap:16px; overflow-x:auto; padding:8px 0;">
+| ![AI-assisted interface](https://vtexhelp.vtexassets.com/assets/docs/src/cms-announcement-en___f7e039f7b37341efc376a3abff9e5d80.gif) |
+|:---:|
+| **AI-assisted interface:** Create, manage, and publish content faster. |
 
-  <div style="min-width:280px; max-width:280px; border:1px solid #e5e7eb; border-radius:12px; padding:12px;">
-    <img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-announcement-en___f7e039f7b37341efc376a3abff9e5d80.gif" alt="AI-assisted interface in VTEX CMS" style="width:100%; border-radius:8px;" />
-    <p><strong>AI-assisted interface</strong></p>
-    <p>Create, manage, and publish content faster.</p>
-  </div>
+| ![Versioning and rollback](https://via.placeholder.com/600x340?text=Versioning) |
+|:---:|
+| **Versioning and rollback:** Track changes and restore previous versions safely. |
 
-  <div style="min-width:280px; max-width:280px; border:1px solid #e5e7eb; border-radius:12px; padding:12px;">
-    <img src="https://via.placeholder.com/600x340?text=Versioning" alt="Version history and rollback" style="width:100%; border-radius:8px;" />
-    <p><strong>Versioning and rollback</strong></p>
-    <p>Track changes and restore previous versions safely.</p>
-  </div>
-
-  <div style="min-width:280px; max-width:280px; border:1px solid #e5e7eb; border-radius:12px; padding:12px;">
-    <img src="https://via.placeholder.com/600x340?text=Localization" alt="Multi-language content management" style="width:100%; border-radius:8px;" />
-    <p><strong>Multi-language management</strong></p>
-    <p>Deliver localized storefront content across markets.</p>
-  </div>
-
-</div>
+| ![Multi-language management](https://via.placeholder.com/600x340?text=Localization) |
+|:---:|
+| **Multi-language management:** Deliver localized storefront content across markets. |
 
 ## What has changed?
 

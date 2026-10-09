@@ -18,27 +18,17 @@ O novo [VTEX CMS](https://help.vtex.com/pt/docs/tutorials/cms-visao-geral) já e
 
 ## Destaques
 
-<div style="display:flex; gap:16px; overflow-x:auto; padding:8px 0;">
+| ![Todos os conteúdos](https://vtexhelp.vtexassets.com/assets/docs/src/cms-conteudo-pt___0073aa95aa1b4f68a49ffcb635ea66ea.gif) |
+|---|
+| **Todos os conteúdos:** crie, gerencie e publique todas as suas páginas, layouts, templates e seções globais do storefront a partir de um único dashboard. |
 
-  <div style="min-width:280px; max-width:280px; border:1px solid #e5e7eb; border-radius:12px; padding:12px;">
-    <img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-announcement-en___f7e039f7b37341efc376a3abff9e5d80.gif" alt="Interface assistida por IA no VTEX CMS" style="width:100%; border-radius:8px;" />
-    <p><strong>Interface assistida por IA</strong></p>
-    <p>Crie, gerencie e publique conteúdo mais rápido.</p>
-  </div>
+| ![Branches](https://vtexhelp.vtexassets.com/assets/docs/src/cms-branches-pt___dff883f3564a889019d09e2e63be7e6e.gif) |
+|---|
+| **Branches:** trabalhe em alterações de conteúdo em ambientes isolados e publique-as no storefront apenas quando estiver tudo pronto, sem interromper sua loja em produção. |
 
-  <div style="min-width:280px; max-width:280px; border:1px solid #e5e7eb; border-radius:12px; padding:12px;">
-    <img src="https://via.placeholder.com/600x340?text=Versioning" alt="Histórico de versões e rollback" style="width:100%; border-radius:8px;" />
-    <p><strong>Controle de versões e rollback</strong></p>
-    <p>Acompanhe as alterações e restaure versões anteriores com segurança.</p>
-  </div>
-
-  <div style="min-width:280px; max-width:280px; border:1px solid #e5e7eb; border-radius:12px; padding:12px;">
-    <img src="https://via.placeholder.com/600x340?text=Localization" alt="Gerenciamento de conteúdo em vários idiomas" style="width:100%; border-radius:8px;" />
-    <p><strong>Gerenciamento multilíngue</strong></p>
-    <p>Ofereça conteúdo localizado no storefront em diferentes mercados.</p>
-  </div>
-
-</div>
+| ![Lojas](https://vtexhelp.vtexassets.com/assets/docs/src/cms-lojas-pt___bc5511d01dded18f5ae1acd1bff4569b.gif) |
+|---|
+| **Lojas:** vincule e gerencie múltiplos storefronts em um só lugar, configurando URLs de pré-visualização, integrações de repositório e configurações de localidade para cada loja. |
 
 ## O que mudou?
 

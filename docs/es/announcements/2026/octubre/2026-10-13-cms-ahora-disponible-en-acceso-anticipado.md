@@ -18,27 +18,17 @@ El nuevo [VTEX CMS](https://help.vtex.com/es/docs/tutorials/cms-informacion-gene
 
 ## Aspectos destacados
 
-<div style="display:flex; gap:16px; overflow-x:auto; padding:8px 0;">
+| ![Todo el contenido](https://vtexhelp.vtexassets.com/assets/docs/src/cms-all-content-es___afefaddf271e86e20ddcbfbdd0de5c27.gif) |
+|---|
+| **Todos los contenidos:** crea, gestiona y publica todas tus páginas del storefront, layouts, plantillas y secciones globales desde un único dashboard. |
 
-  <div style="min-width:280px; max-width:280px; border:1px solid #e5e7eb; border-radius:12px; padding:12px;">
-    <img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-announcement-en___f7e039f7b37341efc376a3abff9e5d80.gif" alt="Interfaz asistida por IA en VTEX CMS" style="width:100%; border-radius:8px;" />
-    <p><strong>Interfaz asistida por IA</strong></p>
-    <p>Crea, gestiona y publica contenido más rápido.</p>
-  </div>
+| ![Ramas](https://vtexhelp.vtexassets.com/assets/docs/src/cms-ramas-es___6a11da91775038483dc37e4d49455d26.gif) |
+|---|
+| **Ramas:** realiza cambios de contenido en entornos aislados y publícalos en el storefront en vivo cuando estén listos, sin afectar la tienda en producción. |
 
-  <div style="min-width:280px; max-width:280px; border:1px solid #e5e7eb; border-radius:12px; padding:12px;">
-    <img src="https://via.placeholder.com/600x340?text=Versioning" alt="Historial de versiones y rollback" style="width:100%; border-radius:8px;" />
-    <p><strong>Control de versiones y rollback</strong></p>
-    <p>Haz un seguimiento de los cambios y restaura versiones anteriores de forma segura.</p>
-  </div>
-
-  <div style="min-width:280px; max-width:280px; border:1px solid #e5e7eb; border-radius:12px; padding:12px;">
-    <img src="https://via.placeholder.com/600x340?text=Localization" alt="Gestión de contenido en varios idiomas" style="width:100%; border-radius:8px;" />
-    <p><strong>Gestión multilingüe</strong></p>
-    <p>Ofrece contenido localizado en el storefront para distintos mercados.</p>
-  </div>
-
-</div>
+| ![Tiendas](https://vtexhelp.vtexassets.com/assets/docs/src/cms-tiendas-es___280c75a48fbd2bf642b2529b43d71dfc.gif) |
+|---|
+| **Tiendas:** vincula y gestiona múltiples storefronts desde un solo lugar, con URLs de vista previa, integraciones con repositorios y configuración regional por tienda. |
 
 ## ¿Qué cambió?
 
