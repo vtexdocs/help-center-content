@@ -14,7 +14,7 @@ tags:
 
 The new [VTEX CMS](https://help.vtex.com/docs/tutorials/cms-overview) is now available for Early Access. Introducing a modern, scalable content management system designed to help merchants create, collaborate, and distribute storefront content more efficiently and collaboratively.
 
-<table style="border-spacing: 0 12px; border-collapse: separate; width: 100%; max-width: 360px; margin: 0 auto;">
+<table style="border-spacing: 0 12px; border-collapse: separate; width: 100%; max-width: 200px; margin: 0 auto;">
   <tbody>
     <tr>
       <td style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 10px; text-align: center; font-size: 13px;">

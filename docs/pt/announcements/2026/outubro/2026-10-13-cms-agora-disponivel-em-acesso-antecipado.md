@@ -14,7 +14,7 @@ tags:
 
 O novo [VTEX CMS](https://help.vtex.com/pt/docs/tutorials/cms-visao-geral) já está disponível em Acesso Antecipado. Apresentamos um sistema de gerenciamento de conteúdo moderno e escalável, desenvolvido para ajudar lojistas a criar, colaborar e distribuir o conteúdo do storefront de forma mais eficiente e colaborativa.
 
-<table style="border-spacing: 0 12px; border-collapse: separate; width: 100%; max-width: 360px; margin: 0 auto;">
+<table style="border-spacing: 0 12px; border-collapse: separate; width: 100%; max-width: 200px; margin: 0 auto;">
   <tbody>
     <tr>
       <td style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 10px; text-align: center; font-size: 13px;">
