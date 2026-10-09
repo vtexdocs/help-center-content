@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Native personal data management in Master Data v2",
+                    "es": "Gestión nativa de datos personales en Master Data v2",
+                    "pt": "Gestão nativa de dados pessoais no Master Data v2"
+                  },
+                  "slug": {
+                    "en": "2026-10-13-native-personal-data-management-in-master-data-v2",
+                    "es": "2026-10-13-gestion-nativa-de-datos-personales-en-master-data-v2",
+                    "pt": "2026-10-13-gestao-nativa-de-dados-pessoais-no-master-data-v2"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "User Rights API: Automated erasure of personal data",
                     "es": "User Rights API: eliminación automatizada de datos personales",
                     "pt": "User Rights API: exclusão automatizada de dados pessoais"
