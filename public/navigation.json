@@ -782,6 +782,37 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "October",
+                "es": "Octubre",
+                "pt": "Outubro"
+              },
+              "slug": {
+                "en": "october",
+                "es": "octubre",
+                "pt": "outubro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Pago complement download now available in VTEX Admin",
+                    "es": "Descarga del complemento de pago disponible en el Admin VTEX",
+                    "pt": "Download do complemento de pago disponível no Admin VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-10-01-pago-complement-download-now-available-in-vtex-admin",
+                    "es": "2026-10-01-descarga-del-complemento-de-pago-disponible-en-el-admin-vtex",
+                    "pt": "2026-10-01-download-do-complemento-de-pago-disponivel-no-admin-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
