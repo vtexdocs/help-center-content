@@ -82,6 +82,8 @@ Com o **AI Sales Team Management** você pode:
 
 > ℹ️ Os exemplos de instrução apresentados nas seções são ilustrativos e não a única forma de realizar uma ação no **AI Sales Team Management**.
 
+As ações só podem ser executadas por usuários com [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) adequado. No caso de sales reps, o perfil é o [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person).
+
 ### Revisar e confirmar o plano
 
 Antes que você crie, edite ou remova um item via arquivo ou de forma conversacional, o agente apresenta um plano do que será executado e só realiza as mudanças após a sua revisão e confirmação.
@@ -100,8 +102,9 @@ A tabela a seguir apresenta as ações que você pode realizar em times:
 | Criar subtimes por sales rep | Anexe um arquivo `.xlsx`, `.csv` ou `.txt` com os dados dos sales reps e o time de destino. | "Crie subtimes baseados na carteira de cada sales rep." / "Quero criar subtimes baseados na carteira de cada sales rep." |
 | Editar nome time | Nome do time e as informações a serem alteradas. | "Edite o time Vendas Sul para Vendas Sudeste" |
 | Mover time | Nomes do time a ser movido e do time de destino. | "Mova o time Vendas Sul para dentro do time Nordeste" / " |
-| Vincular contrato ao time | Nome do time e identificação do contrato. | "Associe o contrato 4521 ao time Vendas Sul" / "Vincule o contrato 1395 ao Time Sul, Time Norte, Time Nordeste" |
 | Visualizar contratos ou integrantes do time | Identificação do contrato ou do time. | "Quais contratos o Vendas Sul tem acesso?" / "Quais usuários existem no time Vendas Norte?" / "Quem são os sales reps do Time Sul?" |
+| Desfazer criação recente de times | Na mesma sessão, você pode desfazer times recém criados. Para isso, informe o time. | "Desfaça a criação do time" / "Cancele a criação do Time Sul" |
+| Remover time | Nome do time. | "Remova o time Vendas Sul" / "Delete o subtime Vendas Sudeste" |
 
 > ⚠️ Após transformar um time pai em um subtime, não é mais possível devolvê-lo ao nível raiz. Portanto, antes de criar os times, defina a hierarquia.
 
@@ -117,6 +120,8 @@ A tabela a seguir apresenta as ações que você pode realizar em sales reps:
 | Adicionar sales rep ao time | Nome do sales rep, email e time. | "Adicione o sales rep Ricardo Alves no time Vendas Norte, e-mail `ricardo.alves@empresa.com`." |
 | Visualizar informações do sales resp | Nome do sales rep. | "O Ricardo Alves pertence a quais times?" / "O sales rep José Almeida atende quais contratos?" |
 | Mover sales rep entre times | Nome do sales rep e do time de destino. | "Movimente o sales rep José Almeida para o time Sudeste" / "Mova José Almeida para time Nordeste." |
+| Editar informações do sales rep | Você pode editar o nome ou email do sales rep, para isso forneça a nova informação. | "Edite o email do sales rep José Almeida para `jose.vendedor@acme.com`" / "Atualize o sales rep Ricardo Alves, código 204 e loja 578 no Vendas Norte" |
+| Desfazer criações recentes de sales rep | Na mesma sessão, você pode desfazer criações recentes. Para isso, informe o nome do sales rep e a ação a ser desfeita. | "Desfaça a criação do sales rep Ricardo Alves" / "Desconsidere a criação do sales rep José Almeida" |
 | Remover sales rep do time | Nome do sales rep. Remover um sales rep de um time apenas desvincula a pessoa do time, mas ela permance como usuário da conta. | "Remova o sales rep José Almeida do time Vendas Sul." |
 
 > ℹ️ Quando você cria, edita ou remove mais de um sales rep em uma mesma ação, seja via arquivo ou conversacional, caso exista algum erro, o agente apresenta as mensagens de erro e um canvas de validação com o que será feito. É necessário que você revise e confirme esse resumo para que a ação seja executada.
@@ -131,20 +136,25 @@ A tabela a seguir apresenta as ações que você pode realizar em carteiras de c
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
-| Definir carteiras de clientes do time | Forneça a identificação do contrato e o nome do time. A agente permite que um mesmo contrato seja vinculado a mais de um time, mas ele emite um aviso quando identifica esse tipo de situação. | "Vincule os contratos da planilha ao time Vendas Sul" / "Segue a planilha com a carteira de clientes por time." |
+| Definir carteiras de clientes do time | Identificação do contrato e o nome do time. A agente permite que um mesmo contrato seja vinculado a mais de um time, mas ele emite um aviso quando identifica esse tipo de situação. | "Vincule os contratos da planilha ao time Vendas Sul" / "Segue a planilha com a carteira de clientes por time." |
 | Vincular contrato a múltiplos times | Nome do contrato e nomes dos times. Você também pode fazer essa [ação em massa](#realizar-acoes-em-massa) por meio da importação de arquivos. | "Vincule o contrato 1395 ao Time Sul, Time Norte, Time Nordeste" / Crie carteiras de cliente para o Time Norte para o contrato 1395" |
 | Visualizar carteiras de clientes | Identificação do time. | "O Time Norte atende quais carteiras?" / "A quais contratos o Vendas Sul foi vinculado?" |
 
-### Realizar ações comuns a times, sales reps e carteiras de clientes
-
-| **Ação** | **Informações necessárias** | **Exemplos de instrução** |
-| :--- | :--- | :--- |
-| Consultar a estrutura atual | Identificação do item a ser consultado. A resposta considera o nível de permissão do usuário às informações buscadas. | "Quais times existem na conta?" / "Quais contratos o Vendas Sul tem acesso?" / "Quais usuários existem no time Vendas Norte?" |
-| Desfazer criações recentes de times e sales rep | Na mesma sessão, você pode desfazer criações recentes. Para isso, informe o item e a ação a ser desfeita. A criação de vínculos de contrato não pode ser desfeita pelo agente. | "Desfaça a criação do time Sul" / "Cancele a criação do sales rep José Almeida" / "Desfaça a definição da carteira de clientes do time Vendas Sul" |
+> ⚠️ Uma vez criada a carteira de clientes, o agente não desfaz essa vínculação de um contrato a um time.
 
 ### Realizar ações em massa
 
-| Realizar ações em massa | Anexe um arquivo `.xlsx`, `.csv` ou `.txt` com os dados a serem alterados e descreva a ação desejada. | "Processe a planilha de sales reps" / "Segue a planilha com a carteira de clientes por time" / "Mova os sales reps conforme os times da planilha" |
+O **AI Sales Team Management** permite que você realize ações em massa por meio da importação de arquivos no formato `.xlsx`, `.csv` ou `.txt`. Isso se aplica aos seguintes cenários:
+
+- **Times:** criar, mover, editar ou remover times.
+- **Sales reps:** registrar, adicionar, mover, editar ou remover sales reps.
+- **Carteiras de clientes:** definir carteiras ou vincular contrato a múltiplos times.
+
+Exemplos de instrução:
+
+- "Processe a planilha de criação de sales reps"
+- "Vincule os contratos com os times indicados no arquivo"
+- "Mova os sales reps de acordo com o documento" |
 
 ## Vincular contrato a time
 
