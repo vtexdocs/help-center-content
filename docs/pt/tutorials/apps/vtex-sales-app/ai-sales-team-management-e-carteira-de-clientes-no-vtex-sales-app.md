@@ -55,6 +55,7 @@ O **AI Sales Team Management** só executa ações após a sua [revisão e confi
 - **Validação e controle de usuários:** cada [usuário](https://help.vtex.com/pt/docs/tutorials/gerenciar-usuarios-administrativos) pode consultar apenas as informações permitidas pelo seu perfil de acesso. Usuários não cadastrados previamente não podem utilizar o agente, que também não cria [perfis de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso).
 - **Validação de contratos:** o agente permite vincular apenas contratos B2B previamente cadastrados na conta.
 - **Alerta de contrato compartilhado:** se um contrato já estiver vinculado a outro time, o agente informa essa condição, mas permite realizar o vínculo.
+- **Mensagens de erro:** caso sejam identificados erros ou inconsistências, o agente informa os motivos e apresenta o plano de execução parcial com os dados válidos para você [revisar e confirmar](#revisao-e-confirmacao-do-plano).
 
 ### Revisão e confirmação do plano
 
