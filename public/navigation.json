@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Google Shopping: regionalization of the integration",
+                    "es": "Google Shopping: regionalización de la integración",
+                    "pt": "Google Shopping: regionalização da integração"
+                  },
+                  "slug": {
+                    "en": "2026-10-09-google-shopping-regionalization-of-the-integration",
+                    "es": "2026-10-09-google-shopping-regionalizacion-de-la-integracion",
+                    "pt": "2026-10-09-google-shopping-regionalizacao-da-integracao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "User Rights API: Automated erasure of personal data",
                     "es": "User Rights API: eliminación automatizada de datos personales",
                     "pt": "User Rights API: exclusão automatizada de dados pessoais"
@@ -31929,6 +31944,21 @@
                     "en": "refurbished-products-on-mercado-libre",
                     "es": "productos-reacondicionados-en-mercado-libre",
                     "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Google Shopping regionalization",
+                    "es": "Regionalización de Google Shopping",
+                    "pt": "Regionalização do Google Shopping"
+                  },
+                  "slug": {
+                    "en": "google-shopping-regionalization",
+                    "es": "regionalizacion-de-google-shopping",
+                    "pt": "regionalizacao-do-google-shopping"
                   },
                   "origin": "",
                   "type": "markdown",
