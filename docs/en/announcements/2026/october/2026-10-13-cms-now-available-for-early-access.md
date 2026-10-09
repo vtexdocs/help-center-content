@@ -18,17 +18,17 @@ The new [VTEX CMS](https://help.vtex.com/docs/tutorials/cms-overview) is now ava
 
 ## Highlights
 
-| ![AI-assisted interface](https://vtexhelp.vtexassets.com/assets/docs/src/cms-announcement-en___f7e039f7b37341efc376a3abff9e5d80.gif) |
+| ![All content](https://vtexhelp.vtexassets.com/assets/docs/src/cms-all-content-en___108e1b75ad01d77748ea800882bfc610.gif) |
 |:---:|
-| **AI-assisted interface:** Create, manage, and publish content faster. |
+| **All content:** Create, manage, and publish all your storefront pages, layouts, templates, and global sections from a single dashboard. |
 
-| ![Versioning and rollback](https://via.placeholder.com/600x340?text=Versioning) |
+| ![Branches](https://vtexhelp.vtexassets.com/assets/docs/src/cms-branches-en___272f576d902675bf18196cd6b14069d7.gif) |
 |:---:|
-| **Versioning and rollback:** Track changes and restore previous versions safely. |
+| **Branches:** Work on content changes in isolated environments and merge them to the live storefront only when ready, without disrupting your production store. |
 
-| ![Multi-language management](https://via.placeholder.com/600x340?text=Localization) |
+| ![Stores](https://vtexhelp.vtexassets.com/assets/docs/src/cms-stores-en___e6c0ac29c68d6a8db05011c294cf0a57.gif) |
 |:---:|
-| **Multi-language management:** Deliver localized storefront content across markets. |
+| **Stores:** Link and manage multiple storefronts from one place, configuring preview URLs, repository integrations, and locale settings for each. |
 
 ## What has changed?
 
