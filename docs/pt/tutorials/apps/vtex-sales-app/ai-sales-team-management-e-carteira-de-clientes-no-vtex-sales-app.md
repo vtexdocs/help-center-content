@@ -77,7 +77,7 @@ Com o **AI Sales Team Management** você pode:
 - [Realizar ações em times](#acoes-em-times)
 - [Realizar ações em sales reps](#acoes-em-sales-reps)
 - [Realizar ações em carteiras de clientes](#acoes-em-carteiras-de-clientes)
-- [Realizar ações comuns a times, sales reps e carteiras de clientes](#acoes-comuns-a-times-sales-reps-e-carteiras-de-clientes)
+- [Realizar ações em massa em times, sales reps e carteiras de clientes](#acoes-em-massa-em-times-sales-reps-e-carteiras-de-clientes)
 - [Vincular contrato a time](#vincular-contrato-a-time)
 
 > ℹ️ Os exemplos de instrução apresentados nas seções são ilustrativos e não a única forma de realizar uma ação no **AI Sales Team Management**.
@@ -130,9 +130,9 @@ A tabela a seguir apresenta as ações que você pode realizar em sales reps:
 
 A carteira de clientes representa os contratos para os quais um time ou subtime pode visualizar cotações e criar pedidos. Para que a carteira seja atendida por um único sales rep, crie um subtime com essa pessoa como único integrante.
 
-> ℹ️ Para saber como controlar o acesso de times a contratos, veja a seção [Vincular contrato a time](#vincular-contrato-a-time).
-
 A tabela a seguir apresenta as ações que você pode realizar em carteiras de clientes:
+
+> ⚠️ A carteira de clientes não pode ser desfeita pelo agente.
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
@@ -140,7 +140,18 @@ A tabela a seguir apresenta as ações que você pode realizar em carteiras de c
 | Vincular contrato a múltiplos times | Nome do contrato e nomes dos times. Você também pode fazer essa [ação em massa](#realizar-acoes-em-massa) por meio da importação de arquivos. | "Vincule o contrato 1395 ao Time Sul, Time Norte, Time Nordeste" / Crie carteiras de cliente para o Time Norte para o contrato 1395" |
 | Visualizar carteiras de clientes | Identificação do time. | "O Time Norte atende quais carteiras?" / "A quais contratos o Vendas Sul foi vinculado?" |
 
-> ⚠️ Uma vez criada a carteira de clientes, o agente não desfaz essa vínculação de um contrato a um time.
+Para saber como controlar o nível de permissão de times a contratos, veja a seção a seguir.
+
+#### Acesso de times a contratos
+
+Vincular um contrato a um time define a carteira daquele time e muda o que o sales rep visualiza no **Sales App**.
+
+- **Contratos vinculados a times:** os sales reps visualizam no **Sales App** apenas as cotações e pedidos referentes aos contratos vinculados. A criação de novos pedidos também fica restrita a esses contratos.
+  - Exemplo: o "Time Sul" está vinculado aos contratos `100` e `200`, portanto, os sales reps desse time podem visualizar e criar pedidos somente para esses dois contratos.
+- **Contratos sem vinculação a times:** os sales reps visualizam todos os contratos da conta.
+  - Exemplo: o "Time Norte" não está vinculado a um contrato, portanto, os sales reps desse time podem visualizar e criar pedidos para todos os contratos da conta.
+
+> ⚠️ Recomendamos que você confirme os vínculos contratuais antes de definir restrições ao time de vendas.
 
 ### Realizar ações em massa em times, sales reps e carteiras de clientes
 
@@ -155,14 +166,3 @@ Exemplos de instrução:
 - "Processe a planilha de criação de sales reps"
 - "Vincule os contratos com os times indicados no arquivo"
 - "Mova os sales reps de acordo com o documento" |
-
-## Vincular contrato a time
-
-Vincular um contrato a um time define a carteira daquele time e muda o que o sales rep visualiza no **Sales App**.
-
-- **Contratos vinculados a times:** os sales reps visualizam no **Sales App** apenas as cotações e pedidos referentes aos contratos vinculados. A criação de novos pedidos também fica restrita a esses contratos.
-  - Exemplo: o "Time Sul" está vinculado aos contratos `100` e `200`, portanto, os sales reps desse time podem visualizar e criar pedidos somente para esses dois contratos.
-- **Contratos sem vinculação a times:** os sales reps visualizam todos os contratos da conta.
-  - Exemplo: o "Time Norte" não está vinculado a um contrato, portanto, os sales reps desse time podem visualizar e criar pedidos para todos os contratos da conta.
-
-> ⚠️ Recomendamos que você confirme os vínculos contratuais antes de definir restrições ao time de vendas.
