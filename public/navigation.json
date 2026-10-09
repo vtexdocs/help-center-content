@@ -146,13 +146,13 @@
                 {
                   "name": {
                     "pt": "Atualização da base de endereços da Bolívia",
-                    "en": "Atualização da base de endereços da Bolívia",
-                    "es": "Atualização da base de endereços da Bolívia"
+                    "en": "Bolivia address database update",
+                    "es": "Actualización de la base de direcciones de Bolivia"
                   },
                   "slug": {
                     "pt": "2026-09-30-atualizacao-da-base-de-enderecos-da-bolivia",
-                    "en": "",
-                    "es": ""
+                    "en": "2026-09-30-bolivia-address-database-update",
+                    "es": "2026-09-30-actualizacion-de-la-base-de-direcciones-de-bolivia"
                   },
                   "origin": "",
                   "type": "markdown",
