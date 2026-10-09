@@ -25,9 +25,9 @@ A tabela a seguir apresenta a terminologia utilizada no **AI Sales Team Manageme
 | **Termo** | **Significado** |
 | :---- | :---- |
 | **Time** | Unidade da estrutura de vendas. Um time pode ficar hierarquicamente abaixo de outro, como time pai e subtime, para representar o organograma real. |
-| **Sales rep** | Pessoa do time comercial cadastrada no agente. O perfil do Licence Manager disponível para sales reps é [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person). O **AI Sales Team Management** não cria perfis de acesso. |
-| **Carteira de clientes** | Contratos vinculados a um time ou subtime exclusivo de um sales rep. |
-| **Contrato** | Contrato B2B já existente, usado para o vínculo com um time. |
+| **Sales rep** | Pessoa do time comercial cadastrada via agente. O perfil do Licence Manager disponível para sales reps é [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person). O **AI Sales Team Management** não cria perfis de acesso. |
+| **Carteira de clientes** | Relação de vínculação entre contratos e times ou subtimes. É possível vincular um contrato a um único sales rep utilizando um subtime. |
+| **Contrato** | [Contrato B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) já existente, usado para o vínculo com um time. |
 
 ## Casos de uso
 
@@ -78,6 +78,7 @@ Com o **AI Sales Team Management** você pode:
 - [Realizar ações em sales reps](#acoes-em-sales-reps)
 - [Realizar ações em carteiras de clientes](#acoes-em-carteiras-de-clientes)
 - [Realizar ações comuns a times, sales reps e carteiras de clientes](#acoes-comuns-a-times-sales-reps-e-carteiras-de-clientes)
+- [Vincular contrato a time](#vincular-contrato-a-time)
 
 > ℹ️ Os exemplos de instrução apresentados nas seções são ilustrativos e não a única forma de realizar uma ação no **AI Sales Team Management**.
 
@@ -88,6 +89,10 @@ Antes que você crie, edite ou remova um item via arquivo ou de forma conversaci
 Caso exista algum erro ou inconsistência nas informações recebidas, o agente apresenta as mensagens de erro e uma tela de validação com o plano doque será feito. Para arquivos anexados, o agente processa o conteúdo inteiro e separa as linhas válidas das inválidas (quando existe erro). Ou seja, o processamento parcial das informações é o comportamento esperado: as linhas válidas seguem o plano e inválidas são rejeitadas e informadas sobre o motivo.
 
 ### Realizar ações em times
+
+O time é a unidade da estrutura de vendas no **Sales App** no contexto [B2B](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). Você pode configurar uma estrutura hierarquizada com times pai e subtimes, de forma a refletir o organograma da organização comercial.
+
+A tabela a seguir apresenta as ações que você pode realizar em times:
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
@@ -102,6 +107,10 @@ Caso exista algum erro ou inconsistência nas informações recebidas, o agente 
 > ⚠️ Após transformar um time pai em um subtime, não é mais possível devolvê-lo ao nível raiz. Portanto, antes de criar os times, defina a hierarquia.
 
 ### Realizar ações em sales reps
+
+Os integrantes do time são cadastrados pelo **AI Sales Team Management** e chamados de sales reps. Para poder acessar o Admin VTEX, esses usuários precisam ter o perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person). O agente não cria [perfis de acesso](https://help.vtex.com/pt/docs/tutorials/criar-perfil-de-acesso).
+
+A tabela a seguir apresenta as ações que você pode realizar em sales reps:
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
@@ -129,7 +138,7 @@ Caso exista algum erro ou inconsistência nas informações recebidas, o agente 
 | Desfazer criações recentes de times e sales rep | Na mesma sessão, você pode desfazer criações recentes. Para isso, informe o item e a ação a ser desfeita. A criação de vínculos de contrato não pode ser desfeita pelo agente. | "Desfaça a criação do time Sul" / "Cancele a criação do sales rep José Almeida" / "Desfaça a definição da carteira de clientes do time Vendas Sul" |
 | Realizar ações em massa | Anexe um arquivo `.xlsx`, `.csv` ou `.txt` com os dados a serem alterados e descreva a ação desejada. | "Processe a planilha de sales reps" / "Segue a planilha com a carteira de clientes por time" / "Mova os sales reps conforme os times da planilha" |
 
-## Vinculação entre contratos e times
+## Vincular contrato a time
 
 Vincular um contrato a um time define a carteira daquele time e muda o que o sales rep visualiza no **Sales App**.
 
@@ -140,7 +149,7 @@ Vincular um contrato a um time define a carteira daquele time e muda o que o sal
 
 > ⚠️ Recomendamos que você confirme os vínculos contratuais antes de definir restrições ao time de vendas.
 
-### Contrato vinculado a múltiplos times
+### Vincular contrato a múltiplos times
 
 Um mesmo contrato pode ser vinculado a mais de um time. O **AI Sales Team Management** avisa quando detecta essa situação, mas não impede o vínculo.
 
