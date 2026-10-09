@@ -1,10 +1,10 @@
 ---
 title: 'Gestión nativa de datos personales en Master Data v2'
-createdAt: 2026-10-13T00:00:00.000Z
-updatedAt: 2026-10-13T00:00:00.000Z
+createdAt: 2026-10-14T00:00:00.000Z
+updatedAt: 2026-10-14T00:00:00.000Z
 contentType: updates
 productTeam: Storage
-slugEN: 2026-10-13-native-personal-data-management-in-master-data-v2
+slugEN: 2026-10-14-native-personal-data-management-in-master-data-v2
 locale: es
 announcementSynopsisES: 'Master Data v2 ahora gestiona datos personales de forma nativa, con cifrado de los datos almacenados, enmascaramiento automático al leer datos y soporte para solicitudes de titulares de datos.'
 tags:
