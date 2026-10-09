@@ -123,9 +123,11 @@ A tabela a seguir apresenta as ações que você pode realizar em sales reps:
 
 ### Realizar ações em carteiras de clientes
 
+A carteira de clientes representa os contratos para os quais um time ou subtime pode visualizar cotações e criar pedidos. Para que a carteira seja atendida por um único sales rep, crie um subtime com essa pessoa como único integrante. Para saber controlar o acesso a contratos, veja a seção [Vincular contrato a time](#vincular-contrato-a-time).
+
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
-| Definir carteiras de clientes | Nome do time e identificação do contrato. Antes de realizar esta ação, confira as regras da [vinculação entre contratos e times](#vinculacao-entre-contratos-e-times). | "Associe o contrato 4521 ao time Vendas Sul" / "Vincule o contrato 1395 ao Time Sul, Time Norte, Time Nordeste" |
+| Definir carteiras de clientes via chat | Nome do time e identificação do contrato. Antes de realizar esta ação, confira as regras da [vinculação entre contratos e times](#vinculacao-entre-contratos-e-times). | "Associe o contrato 4521 ao time Vendas Sul" / "Vincule o contrato 1395 ao Time Sul, Time Norte, Time Nordeste" |
 | Vincular a carteira por arquivo | Anexe um arquivo `.xlsx`, `.csv` ou `.txt` com os dados da carteira e time de correspondência. | "Segue a planilha com a carteira de clientes por time." / "Vincule os contratos da planilha ao time Vendas Sul" |
 
 > ℹ️ Não existe carteira individual fora de um subtime. Para um sales rep ter uma carteira exclusiva, crie um subtime apenas para essa pessoa e vincule os contratos ao subtime.
