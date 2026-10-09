@@ -52163,6 +52163,21 @@
             },
             {
               "name": {
+                "en": "License Manager authorization checks intermittently time out, causing failures in dependent services",
+                "es": "Las comprobaciones de autorización del Administrador de licencias agotan el tiempo de espera de forma intermitente, lo que provoca fallos en los servicios dependientes.",
+                "pt": "As verificações de autorização do Gerenciador de Licenças expiram intermitentemente, causando falhas em serviços dependentes."
+              },
+              "slug": {
+                "en": "license-manager-authorization-checks-intermittently-time-out-causing-failures-in-dependent-services",
+                "es": "las-comprobaciones-de-autorizacion-del-administrador-de-licencias-agotan-el-tiempo-de-espera-de-forma-intermitente-lo-que-provoca-fallos-en-los-servicios-dependientes",
+                "pt": "as-verificacoes-de-autorizacao-do-gerenciador-de-licencas-expiram-intermitentemente-causando-falhas-em-servicos-dependentes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Update user's name in the login section",
                 "es": "Actualizar el nombre del usuario en la sección de inicio de sesión",
                 "pt": "Atualizar o nome do usuário na seção de login"
@@ -69028,6 +69043,21 @@
             },
             {
               "name": {
+                "en": "canonical link keeps the trailing slash of the requested URL on routes declared in the theme's routes.json",
+                "es": "El enlace canónico conserva la barra diagonal final de la URL solicitada en las rutas declaradas en el archivo routes.json del tema.",
+                "pt": "O link canônico mantém a barra invertida final da URL solicitada nas rotas declaradas no arquivo routes.json do tema."
+              },
+              "slug": {
+                "en": "canonical-link-keeps-the-trailing-slash-of-the-requested-url-on-routes-declared-in-the-themes-routesjson",
+                "es": "el-enlace-canonico-conserva-la-barra-diagonal-final-de-la-url-solicitada-en-las-rutas-declaradas-en-el-archivo-routesjson-del-tema",
+                "pt": "o-link-canonico-mantem-a-barra-invertida-final-da-url-solicitada-nas-rotas-declaradas-no-arquivo-routesjson-do-tema"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "linkId is not being registered on rewriter when translating with catalog graphql",
                 "es": "linkId no se está registrando en rewriter cuando se traduce con graphql catálogo",
                 "pt": "O linkId não está sendo registrado no rewriter ao traduzir com o catálogo graphql"
@@ -70000,6 +70030,21 @@
                 "en": "amazon-sku-matching-status-reverts-to-pending-review-after-manual-confirmation",
                 "es": "amazon-el-estado-de-coincidencia-de-sku-vuelve-a-pendiente-de-revision-despues-de-la-confirmacion-manual",
                 "pt": "amazon-o-status-de-correspondencia-do-sku-volta-para-aguardando-revisao-apos-confirmacao-manual"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon Mexico orders fulfilled by Amazon (FBA) aren't integrated",
+                "es": "Amazon Los pedidos de México gestionados por Amazon (FBA) no están integrados.",
+                "pt": "Amazon Os pedidos do México enviados pela Amazon (FBA) não estão integrados."
+              },
+              "slug": {
+                "en": "amazon-mexico-orders-fulfilled-by-amazon-fba-arent-integrated",
+                "es": "amazon-los-pedidos-de-mexico-gestionados-por-amazon-fba-no-estan-integrados",
+                "pt": "amazon-os-pedidos-do-mexico-enviados-pela-amazon-fba-nao-estao-integrados"
               },
               "origin": "",
               "type": "markdown",
