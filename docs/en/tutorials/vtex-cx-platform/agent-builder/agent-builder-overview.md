@@ -172,11 +172,26 @@ By clicking the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> vertical el
 
 You can also use the search field to find a site in the knowledge base.
 
-#### Texts
+#### Text
 
-On this page, you can add content by clicking `New content` and then using the `Write or paste your content here` text box.
+In this tab, you can add text content to the knowledge base, organized into named segments. Each segment has its own title, and the list is sorted by the most recent edit, showing when each segment was last modified.
 
-After entering a text, click `Save`.
+To create a text segment, follow these steps:
+
+1. Click <i class="fas fa-plus" aria-hidden="true"></i>`Add text`.
+2. Enter a title to identify the segment.
+3. Enter the content in the text box.
+4. Click `Save`.
+
+By clicking the <i class="fas fa-ellipsis-v" aria-hidden="true"></i>ellipsis next to the segment, you can:
+
+- Edit the content.
+- Rename the title.
+- Delete the segment. Deletion requires confirmation.
+
+You can also use the search field to find a segment by title.
+
+> ℹ️ Knowledge bases created before this organization keep the original text as a single segment, with a default title. No content is lost. Splitting into segments is just an interface change and doesn't affect how the agent uses the knowledge base content.
 
 ### Automation flow
 

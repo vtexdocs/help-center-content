@@ -61,6 +61,7 @@ Consulta a continuación la descripción detallada de cada tono de voz:
 | Analítico | Garantiza que toda la información se muestre de forma clara y accesible. Es lógico y objetivo, guiando al cliente por cada etapa de manera metódica, para que ningún detalle se pierda. |
 | Creativo | Utiliza la imaginación para comunicarse, priorizando soluciones originales. Ofrece respuestas únicas y adapta el lenguaje para hacer el contenido más relevante e impactante para el cliente. |
 | Informal | Es ligero, energético e informal. Mantiene un tono más accesible y humano. |
+
 ##### Motor
 
 En **Fuente del motor**, puedes seleccionar el modelo de agente nativo de VTEX CX Platform o un modelo de LLM para el que tengas una clave API registrada. Si deseas usar el modelo externo, selecciona la opción **Clave API propia** y completa los siguientes campos:
@@ -170,11 +171,26 @@ Haciendo clic en los <i class="fas fa-ellipsis-v" aria-hidden="true"></i>tres pu
 
 También puedes usar el campo de búsqueda para encontrar un sitio web en la base de conocimiento.
 
-#### Texto
+#### Textos
 
-Para agregar información, haz clic en **Nuevo texto** e ingresa el contenido deseado en el cuadro de texto.
+En esta pestaña, puedes agregar contenido de texto a la base de conocimientos, organizado en segmentos con nombre. Cada segmento tiene su propio título, y la lista se ordena por la edición más reciente, indicando cuándo se modificó cada segmento.
 
-Después de ingresar el texto haz clic en `Guardar cambios`.
+Para crear un segmento de texto, sigue estos pasos:
+
+1. Haz clic en <i class="fas fa-plus" aria-hidden="true"></i>`Agregar texto`.
+2. Escribe un título para identificar el segmento.
+3. Ingresa el contenido en el cuadro de texto.
+4. Haz clic en `Guardar`.
+
+Al hacer clic en los <i class="fas fa-ellipsis-v" aria-hidden="true"></i>tres puntos horizontales junto al segmento, puedes:
+
+- Editar el contenido.
+- Renombrar el título.
+- Eliminar el segmento. La eliminación requiere confirmación.
+
+También puedes usar el campo de búsqueda para encontrar un segmento por título.
+
+> ℹ️ Las bases de conocimiento creadas antes de esta organización mantienen el texto original como un único segmento, con un título predeterminado. No se pierde ningún contenido. La división en segmentos es solo un cambio de interfaz y no modifica la forma en que el agente usa el contenido de la base.
 
 ### Flujo de automatización
 
