@@ -14,15 +14,15 @@ tags:
 
 The new [VTEX CMS](https://help.vtex.com/docs/tutorials/cms-overview) is now available for Early Access. Introducing a modern, scalable content management system designed to help merchants create, collaborate, and distribute storefront content more efficiently and collaboratively.
 
-| <img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-all-content-en___108e1b75ad01d77748ea800882bfc610.gif" alt="All content" width="400" /> |
+| <p align="center"><img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-all-content-en___108e1b75ad01d77748ea800882bfc610.gif" alt="All content" width="400" /></p> |
 |:---:|
 | **All content:** Create, manage, and publish all your storefront pages, layouts, templates, and global sections from a single dashboard. |
 
-| <img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-branches-en___272f576d902675bf18196cd6b14069d7.gif" alt="Branches" width="400" /> |
+| <p align="center"><img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-branches-en___272f576d902675bf18196cd6b14069d7.gif" alt="Branches" width="400" /></p> |
 |:---:|
 | **Branches:** Work on content changes in isolated environments and merge them to the live storefront only when ready, without disrupting your production store. |
 
-| <img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-stores-en___e6c0ac29c68d6a8db05011c294cf0a57.gif" alt="Stores" width="400" /> |
+| <p align="center"><img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-stores-en___e6c0ac29c68d6a8db05011c294cf0a57.gif" alt="Stores" width="400" /></p> |
 |:---:|
 | **Stores:** Link and manage multiple storefronts from one place, configuring preview URLs, repository integrations, and locale settings for each. |
 

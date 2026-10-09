@@ -14,15 +14,15 @@ tags:
 
 El nuevo [VTEX CMS](https://help.vtex.com/es/docs/tutorials/cms-informacion-general) ya está disponible en Acceso Anticipado. Presentamos un sistema de gestión de contenido moderno y escalable, diseñado para ayudar a los comerciantes a crear, colaborar y distribuir el contenido del storefront de forma más eficiente y colaborativa.
 
-| <img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-all-content-es___afefaddf271e86e20ddcbfbdd0de5c27.gif" alt="Todo el contenido" width="400" /> |
+| <p align="center"><img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-all-content-es___afefaddf271e86e20ddcbfbdd0de5c27.gif" alt="Todo el contenido" width="400" /></p> |
 |:---:|
 | **Todos los contenidos:** crea, gestiona y publica todas tus páginas del storefront, layouts, plantillas y secciones globales desde un único dashboard. |
 
-| <img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-ramas-es___6a11da91775038483dc37e4d49455d26.gif" alt="Ramas" width="400" /> |
+| <p align="center"><img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-ramas-es___6a11da91775038483dc37e4d49455d26.gif" alt="Ramas" width="400" /></p> |
 |:---:|
 | **Ramas:** realiza cambios de contenido en entornos aislados y publícalos en el storefront en vivo cuando estén listos, sin afectar la tienda en producción. |
 
-| <img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-tiendas-es___280c75a48fbd2bf642b2529b43d71dfc.gif" alt="Tiendas" width="400" /> |
+| <p align="center"><img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-tiendas-es___280c75a48fbd2bf642b2529b43d71dfc.gif" alt="Tiendas" width="400" /></p> |
 |:---:|
 | **Tiendas:** vincula y gestiona múltiples storefronts desde un solo lugar, con URLs de vista previa, integraciones con repositorios y configuración regional por tienda. |
 
