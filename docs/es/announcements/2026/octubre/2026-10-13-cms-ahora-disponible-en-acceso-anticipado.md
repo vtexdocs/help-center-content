@@ -14,22 +14,22 @@ tags:
 
 El nuevo [VTEX CMS](https://help.vtex.com/es/docs/tutorials/cms-informacion-general) ya está disponible en Acceso Anticipado. Presentamos un sistema de gestión de contenido moderno y escalable, diseñado para ayudar a los comerciantes a crear, colaborar y distribuir el contenido del storefront de forma más eficiente y colaborativa.
 
-<table style="border-spacing: 0 12px; border-collapse: separate; width: 100%; max-width: 480px; margin: 0 auto;">
+<table style="border-spacing: 0 12px; border-collapse: separate; width: 100%; max-width: 360px; margin: 0 auto;">
   <tbody>
     <tr>
-      <td style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 12px; text-align: center; font-size: 14px;">
+      <td style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 10px; text-align: center; font-size: 13px;">
         <img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-all-content-es___afefaddf271e86e20ddcbfbdd0de5c27.gif" alt="Todo el contenido" style="max-width: 100%; border-radius: 8px;" />
         <p><strong>Todos los contenidos:</strong> crea, gestiona y publica todas tus páginas del storefront, layouts, plantillas y secciones globales desde un único dashboard.</p>
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 12px; text-align: center; font-size: 14px;">
+      <td style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 10px; text-align: center; font-size: 13px;">
         <img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-ramas-es___6a11da91775038483dc37e4d49455d26.gif" alt="Ramas" style="max-width: 100%; border-radius: 8px;" />
         <p><strong>Ramas:</strong> realiza cambios de contenido en entornos aislados y publícalos en el storefront en vivo cuando estén listos, sin afectar la tienda en producción.</p>
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 12px; text-align: center; font-size: 14px;">
+      <td style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 10px; text-align: center; font-size: 13px;">
         <img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-tiendas-es___280c75a48fbd2bf642b2529b43d71dfc.gif" alt="Tiendas" style="max-width: 100%; border-radius: 8px;" />
         <p><strong>Tiendas:</strong> vincula y gestiona múltiples storefronts desde un solo lugar, con URLs de vista previa, integraciones con repositorios y configuración regional por tienda.</p>
       </td>
