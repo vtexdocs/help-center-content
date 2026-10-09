@@ -142,7 +142,7 @@ A tabela a seguir apresenta as ações que você pode realizar em carteiras de c
 
 > ⚠️ Uma vez criada a carteira de clientes, o agente não desfaz essa vínculação de um contrato a um time.
 
-### Realizar ações em massa
+### Realizar ações em massa em times, sales reps e carteiras de clientes
 
 O **AI Sales Team Management** permite que você realize ações em massa por meio da importação de arquivos no formato `.xlsx`, `.csv` ou `.txt`. Isso se aplica aos seguintes cenários:
 
