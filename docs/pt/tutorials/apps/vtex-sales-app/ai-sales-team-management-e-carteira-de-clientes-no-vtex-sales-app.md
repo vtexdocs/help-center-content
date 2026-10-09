@@ -48,10 +48,10 @@ Pelo chat, você pode fazer a sua solicitação de forma inteiramente conversaci
 
 ## Regras do funcionamento
 
-O **AI Sales Team Management** só executa ações após a sua [revisão e confirmação](#revisao-e-confirmacao-do-plano) do plano apresentado e opera a partir das seguintes regras:
+O **AI Sales Team Management** só executa ações após apresentar um plano e obter a [revisão e confirmação](#revisao-e-confirmacao-do-plano) do usuário. As regras de funcionamento do agente são:
 
 - **Respostas sem suposições:** quando não dispõe de uma informação ou não tem permissão para acessá-la, o agente comunica essa limitação.
-- **Desambiguação de nomes:** se você solicitar a criação de um time chamado "vendas sul" e já existir um time chamado "VENDAS SUL", o agente solicita esclarecimentos antes de executar a ação.
+- **Desambiguação de nomes:** quando identifica nomes semelhantes ou duplicados, o agente solicita esclarecimentos antes de montar o plano. Por exemplo, se você solicitar a criação de um time chamado "vendas sul" e já existir um "VENDAS SUL", isso será comunicado pelo agente.
 - **Validação e controle de usuários:** cada [usuário](https://help.vtex.com/pt/docs/tutorials/gerenciar-usuarios-administrativos) pode consultar apenas as informações permitidas pelo seu perfil de acesso. Usuários não cadastrados previamente não podem utilizar o agente, que também não cria [perfis de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso).
 - **Validação de contratos:** o agente permite vincular apenas contratos B2B previamente cadastrados na conta.
 - **Alerta de contrato compartilhado:** se um contrato já estiver vinculado a outro time, o agente informa essa condição, mas permite realizar o vínculo.
