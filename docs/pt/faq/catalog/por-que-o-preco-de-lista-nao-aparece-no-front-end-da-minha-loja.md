@@ -4,7 +4,7 @@ excerpt: "Um preço fixo no SKU sobrescreve o preço de lista. Remova ou ajuste 
 id: 7zB1S10crK6QXiWcDTUFtE
 status: PUBLISHED
 createdAt: 2019-03-25T20:41:57.520Z
-updatedAt: 2020-11-27T19:40:10.985Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:12.007Z
 firstPublishedAt: 2019-03-25T20:46:55.655Z
 contentType: frequentlyAskedQuestion
@@ -41,3 +41,5 @@ Desse modo, continue com o processo:
 7. Salve as configurações clicando __Enter__
 
 Pronto! Seus SKUs serão exibidos novamente na loja. 
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar a configuração de preço do SKU: envie o ID do SKU e ele mostra preço base, preço de lista, markup e preços fixos, indicando se um preço fixo está se sobrepondo ao preço de lista.

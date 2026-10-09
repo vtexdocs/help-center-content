@@ -4,7 +4,7 @@ excerpt: "Store not found significa que o Store Name não está em Hosts no Gere
 id: 23ZZv5zvfuAsSWCwOMIoQE
 status: PUBLISHED
 createdAt: 2017-11-29T14:00:08.262Z
-updatedAt: 2019-12-31T14:24:32.241Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:32.241Z
 firstPublishedAt: 2017-11-29T14:05:04.071Z
 contentType: frequentlyAskedQuestion
@@ -22,3 +22,5 @@ Ao entrar no carrinho da sua loja, pode acontecer de surgir um erro na tela com 
 3. Clique na sua conta.
 4. Verifique se o valor contido no campo `Nome da loja` também está em algum valor do campo `Hosts`. Caso não esteja, inclua no campo `Hosts` o valor encontrado no campo `Nome da Loja`.
 5. Clique em __Salvar__.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode consultar os dados da sua conta, incluindo as lojas e os domínios cadastrados, e ajudar a verificar se o nome da loja também aparece entre os hosts.

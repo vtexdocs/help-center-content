@@ -4,7 +4,7 @@ excerpt: "O rastreio precisa de número, URL e transportadora na nota. Valores e
 id: frequentlyAskedQuestions_302
 status: PUBLISHED
 createdAt: 2017-04-27T22:38:18.540Z
-updatedAt: 2020-03-16T14:12:57.490Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2020-03-16T14:12:57.490Z
 firstPublishedAt: 2017-04-27T23:01:44.487Z
 contentType: frequentlyAskedQuestion
@@ -30,3 +30,5 @@ Após seu cadastro, analise os itens abaixo, que são os principais motivos para
 - Verifique se a transportadora está na [lista de transportadoras cadastradas para o rastreio](/pt/docs/tutorials/quais-transportadoras-disponibilizam-o-rastreio-de-frete).
 
 _Ajuste esses itens e acompanhe o disparo dos e-mails pela linha do tempo no pedido._
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar o rastreio: envie o número do pedido e ele confere número, URL e transportadora informados na nota fiscal e pode ajudar a corrigir esses dados depois da sua confirmação.

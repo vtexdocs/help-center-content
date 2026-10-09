@@ -4,7 +4,7 @@ excerpt: "Apontar o DNS não basta. Defina o status da conta como produção em 
 id: frequentlyAskedQuestions_2248
 status: PUBLISHED
 createdAt: 2017-04-27T22:25:29.934Z
-updatedAt: 2019-12-31T14:24:02.113Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:02.113Z
 firstPublishedAt: 2017-04-27T23:02:37.167Z
 contentType: frequentlyAskedQuestion
@@ -22,3 +22,5 @@ Um passo obrigatório para uma loja passar para a produção é a configuração
 Então, caso você acesse sua loja e não consiga entrar no ambiente do seu e-commerce, recebendo uma tela de erro, verifique se o seu status está como produção no __Gerenciamento da conta__, [realizando a configuração deste tutorial](/pt/tutorial/passando-a-loja-para-producao/).
 
 Após a configuração do status, a loja já poderá ser acessada.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar este erro: envie a URL da loja e ele roda o checklist de go-live (DNS, CDN e certificado SSL) e aponta o que está bloqueando o acesso.

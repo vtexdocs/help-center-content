@@ -4,7 +4,7 @@ excerpt: "O Payments recebeu uma resposta inválida de captura do conector. Conf
 id: frequentlyAskedQuestions_4730
 status: PUBLISHED
 createdAt: 2017-04-27T22:23:56.704Z
-updatedAt: 2022-07-19T13:00:25.935Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2022-07-19T13:00:25.935Z
 firstPublishedAt: 2017-04-27T23:02:43.821Z
 contentType: frequentlyAskedQuestion
@@ -22,3 +22,5 @@ Nesse caso, é necessário entrar em contato com o integrador da loja e verifica
 No e-mail de alerta enviado pelo sistema, são incluídas informações úteis referentes à autorização da transação e que deverão ser informadas à equipe de suporte do conector.
 
 _Importante: Caso deseje alterar o e-mail da pessoa que recebe as notificações do PCI, [clique aqui](/pt/docs/tutorials/como-configurar-notificacoes/) para saber como._
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar a confirmar essa liquidação: envie o número do pedido ou o ID da transação e ele consulta o histórico de liquidação em Pagamentos, reunindo os dados para você validar com o provedor.

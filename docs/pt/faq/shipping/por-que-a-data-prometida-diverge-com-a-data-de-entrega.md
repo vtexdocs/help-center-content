@@ -4,7 +4,7 @@ excerpt: "Um feriado cadastrado com intervalo longo demais faz a VTEX aplicar um
 id: 2ykKClT2FWgEKQ6Y0s4iMS
 status: PUBLISHED
 createdAt: 2018-03-05T15:42:17.800Z
-updatedAt: 2023-03-22T20:52:10.588Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-03-22T20:52:10.588Z
 firstPublishedAt: 2018-03-05T16:16:16.312Z
 contentType: frequentlyAskedQuestion
@@ -29,3 +29,5 @@ Portanto, se você estiver com problemas relacionados a prazos incoerentes ou di
 4. Clique em `Salvar`.
 
 Para mais informações, veja o artigo [Cadastrar feriado](/pt/docs/tutorials/cadastrar-feriados).
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar a divergência de prazo: envie o número do pedido e ele confere a data de entrega estimada e revisa os feriados cadastrados na sua configuração de envio.

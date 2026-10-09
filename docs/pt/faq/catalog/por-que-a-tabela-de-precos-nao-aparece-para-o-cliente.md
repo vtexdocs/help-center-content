@@ -4,7 +4,7 @@ excerpt: "O SKU precisa estar ativo, e o cadastro do cliente no Master Data deve
 id: 2F1RtrQzy9J4fUKxu2X57e
 status: PUBLISHED
 createdAt: 2019-02-25T22:12:13.228Z
-updatedAt: 2021-04-09T18:29:32.683Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2021-04-09T18:29:32.683Z
 firstPublishedAt: 2019-02-25T22:13:55.736Z
 contentType: frequentlyAskedQuestion
@@ -40,3 +40,5 @@ Por fim, retorne ao painel inicial e siga as etapas abaixo.
 6. Valide se a __tabela de preço__ tem o preço cadastrado.
 
 Para saber mais, leia o artigo [Configurar tabelas de preços para usuários específicos](/pt/docs/tutorials/configurar-price-tables-especificas).
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode fazer essas verificações: com o ID do SKU e o e-mail do cliente, ele confere se o produto está ativo, se o cadastro do cliente tem a tabela de preços e se o SKU tem preço nela.

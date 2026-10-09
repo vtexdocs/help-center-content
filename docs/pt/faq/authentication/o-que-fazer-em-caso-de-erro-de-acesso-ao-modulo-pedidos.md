@@ -4,7 +4,7 @@ excerpt: "O módulo Pedidos costuma falhar porque a sessão do Admin expirou. En
 id: 4X1NvGRhzWsqeC0QIGaMWu
 status: PUBLISHED
 createdAt: 2017-12-19T01:13:12.248Z
-updatedAt: 2023-03-31T14:59:05.634Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-03-31T14:59:05.634Z
 firstPublishedAt: 2017-12-19T01:28:44.397Z
 contentType: frequentlyAskedQuestion
@@ -26,3 +26,5 @@ Normalmente esse erro acontece porque a autenticação do usuário expirou. Aces
 O sistema provavelmente vai solicitar seu login. Faça a autenticação e tente novamente acessar o módulo **Pedidos**.
 
 Se isto não resolver seu problema, pode ser que o módulo **Pedidos** esteja enfrentando uma indisponibilidade temporária, o que pode ser verificado em nossa [página de status](http://status.vtex.com/).
+
+> ℹ️ Se o erro continuar depois de fazer login novamente, pergunte ao [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, se a VTEX está com algum incidente: ele consulta o status da plataforma em tempo real e informa instabilidades recentes.

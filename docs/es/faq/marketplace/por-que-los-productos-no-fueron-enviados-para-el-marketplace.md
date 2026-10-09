@@ -4,7 +4,7 @@ excerpt: "El envío de productos depende de Integraciones y de la catalogación 
 id: frequentlyAskedQuestions_727
 status: PUBLISHED
 createdAt: 2017-04-27T22:27:52.318Z
-updatedAt: 2019-12-31T14:24:53.255Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:53.255Z
 firstPublishedAt: 2017-04-27T23:02:34.481Z
 contentType: frequentlyAskedQuestion

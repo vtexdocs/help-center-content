@@ -4,7 +4,7 @@ excerpt: "Se o conector de pagamento falha nas validações iniciais, o pedido �
 id: 5zznO7GMtUYKCkIKyc84II
 status: PUBLISHED
 createdAt: 2018-02-16T15:50:02.020Z
-updatedAt: 2019-12-31T14:25:21.793Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:25:21.793Z
 firstPublishedAt: 2018-02-16T16:16:00.358Z
 contentType: frequentlyAskedQuestion
@@ -21,4 +21,4 @@ Após diversas tentativas, caso não obtenha as respostas esperadas, o pagamento
 
 > ⚠️ Não é possível reenviar um pedido cancelado para o antifraude.
 
-
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar a entender este caso: envie o número do pedido e ele consulta a transação e a resposta da adquirente, além de verificar quais provedores antifraude estão configurados na sua loja.

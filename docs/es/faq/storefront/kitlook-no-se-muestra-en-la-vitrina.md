@@ -4,7 +4,7 @@ excerpt: "Las imágenes de look necesitan un Label sin espacios ni caracteres es
 id: 5BoJ5sHNE43tYckp1Z8Fec
 status: PUBLISHED
 createdAt: 2019-02-20T17:47:19.370Z
-updatedAt: 2020-09-17T19:52:52.492Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2020-09-17T19:52:52.492Z
 firstPublishedAt: 2019-02-20T17:50:10.749Z
 contentType: frequentlyAskedQuestion

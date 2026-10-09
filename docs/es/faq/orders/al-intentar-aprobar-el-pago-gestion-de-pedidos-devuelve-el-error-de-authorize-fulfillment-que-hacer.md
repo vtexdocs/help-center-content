@@ -4,7 +4,7 @@ excerpt: "Authorize-fulfillment falla cuando se liberó la reserva del SKU y no 
 id: 1cbaJI69pSMWkugoUkmQ8O
 status: PUBLISHED
 createdAt: 2017-12-21T14:02:07.873Z
-updatedAt: 2023-03-31T12:47:47.903Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-03-31T12:47:47.903Z
 firstPublishedAt: 2017-12-21T14:35:13.955Z
 contentType: frequentlyAskedQuestion

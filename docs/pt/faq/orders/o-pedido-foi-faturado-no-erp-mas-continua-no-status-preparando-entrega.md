@@ -4,7 +4,7 @@ excerpt: "A API do marketplace pode estar recusando a atualização da nota. Abr
 id: 4szpXviNMAkwOe2cCiMiMe
 status: PUBLISHED
 createdAt: 2017-12-19T13:00:23.800Z
-updatedAt: 2023-03-31T21:05:01.214Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-03-31T21:05:01.214Z
 firstPublishedAt: 2017-12-19T13:25:22.289Z
 contentType: frequentlyAskedQuestion
@@ -30,3 +30,5 @@ O comportamento normal do sistema, nos casos em que o marketplace retorna uma in
 Mas caso a mensagem informe que `a chamada ao recurso do serviço retornou o status HTTP '404 (not found)'`, isto significa que a rota não foi encontrada - ou seja - o produto não foi encontrado no marketplace.
 
 Neste caso, é necessário entrar em contato com o marketplace para que ele verifique o serviço de integração.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar este pedido: envie o número do pedido e ele identifica onde o fluxo parou (pagamento, nota fiscal, manuseio ou ERP) e se a nota registrada cobre o valor total.

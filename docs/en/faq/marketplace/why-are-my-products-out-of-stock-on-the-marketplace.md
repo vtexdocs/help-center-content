@@ -4,7 +4,7 @@ excerpt: "The marketplace sales channel needs its own dock, warehouse, and carri
 id: frequentlyAskedQuestions_693
 status: PUBLISHED
 createdAt: 2017-04-27T22:29:36.839Z
-updatedAt: 2023-03-22T21:11:13.467Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-03-22T21:11:13.467Z
 firstPublishedAt: 2017-04-27T23:02:32.909Z
 contentType: frequentlyAskedQuestion

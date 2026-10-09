@@ -4,7 +4,7 @@ excerpt: "O hostName no JSON do Message Center é o nome imutável do site em Ge
 id: frequentlyAskedQuestions_6695
 status: PUBLISHED
 createdAt: 2017-04-27T22:22:10.816Z
-updatedAt: 2019-12-31T14:25:01.415Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:25:01.415Z
 firstPublishedAt: 2017-04-27T23:02:46.478Z
 contentType: frequentlyAskedQuestion
@@ -22,3 +22,5 @@ Ao visualizar a variável `hostName` no JSON da Central de mensagens, pode surgi
 ![VTEX - License Manager](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/orders/por-que-o-hostname-no-json-do-message-center-mostra-informacao-diferente-do-license-manager_1.png)
 
 Ou seja, não será carregado o valor inserido na área de Hosts, e sim, conforme imagem acima, será carregado para o template de e-mail o valor cadastrado em **Nome da Loja**.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode explicar as variáveis dos templates da Central de mensagens, como o hostName, e consultar os dados da sua conta para mostrar o nome da loja cadastrado.

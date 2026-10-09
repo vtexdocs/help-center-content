@@ -4,7 +4,7 @@ excerpt: "Um 404 no cancelamento em geral significa falha na API de um parceiro.
 id: 7re22Xm5MswgmkgKiyiygE
 status: PUBLISHED
 createdAt: 2018-02-19T19:22:21.391Z
-updatedAt: 2023-03-22T20:05:41.355Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-03-22T20:05:41.355Z
 firstPublishedAt: 2018-02-19T19:36:07.899Z
 contentType: frequentlyAskedQuestion
@@ -19,6 +19,8 @@ Ao tentar cancelar um pedido no módulo **Pedidos**, às vezes o sistema retorna
 
 - Como identificar o erro
 - O que fazer quando esse erro acontece
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar o pedido: envie o número dele e ele identifica se há erro no fluxo ou um cancelamento em andamento, o que ajuda a confirmar o cenário antes de você contatar o serviço externo.
 
 ## Como identificar o erro
 

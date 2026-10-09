@@ -4,7 +4,7 @@ excerpt: "O envio de produtos depende das Integrações e da catalogação no ma
 id: frequentlyAskedQuestions_727
 status: PUBLISHED
 createdAt: 2017-04-27T22:27:52.318Z
-updatedAt: 2019-12-31T14:24:53.255Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:53.255Z
 firstPublishedAt: 2017-04-27T23:02:34.481Z
 contentType: frequentlyAskedQuestion
@@ -16,6 +16,8 @@ legacySlug: por-que-os-produtos-nao-foram-enviados-para-o-marketplace
 ---
 
 O envio de produtos para o marketplace passa por dois grandes processos: o processo de integração em si, que pode ser acompanhado no menu Integrações e o processo de catalogação, que é realizado pelo marketplace. Veja mais detalhes sobre cada um desses processos abaixo.
+
+> ℹ️ Para descartar as causas mais comuns do lado da VTEX, peça ao [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX: com o ID do SKU, ele verifica se o produto está ativo e no canal de venda do marketplace e se tem preço e estoque.
 
 ## Verifique o menu Integrações
 

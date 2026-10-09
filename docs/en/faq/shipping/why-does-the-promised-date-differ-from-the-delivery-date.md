@@ -4,7 +4,7 @@ excerpt: "An incorrectly long holiday range makes VTEX apply a shorter automatic
 id: 2ykKClT2FWgEKQ6Y0s4iMS
 status: PUBLISHED
 createdAt: 2018-03-05T15:42:17.800Z
-updatedAt: 2023-03-22T20:52:10.588Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-03-22T20:52:10.588Z
 firstPublishedAt: 2018-03-05T16:16:16.312Z
 contentType: frequentlyAskedQuestion

@@ -4,7 +4,7 @@ excerpt: "A edição de SKU falha quando há campos inválidos, dados obrigatór
 id: kcHp9ealgWmmyuMCso2uc
 status: PUBLISHED
 createdAt: 2018-01-22T16:31:52.753Z
-updatedAt: 2019-12-31T14:24:09.716Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:09.716Z
 firstPublishedAt: 2018-01-22T16:45:47.269Z
 contentType: frequentlyAskedQuestion
@@ -26,3 +26,5 @@ Nestes cenários, é comum aparecer na tela a seguinte mensagem de erro: `Error 
 Caso os seus SKUs tenham subido para a VTEX via integração, verifique com seu integrador se os campos estão preenchidos com os valores corretos. Para saber os valores esperados pela VTEX, [acesse nosso artigo](/pt/tutorial/guia-de-integracao-de-erps-catalogo-completo) sobre a integração com o Catálogo.
 
 Caso seu produto tenha chegado ao limite de SKUs cadastrados, sugerimos revisar sua categorização de produtos. Permitimos, no máximo, 50 SKUs por produto.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar a investigar: envie o ID do produto e ele lista os SKUs cadastrados e como cada um está configurado, o que ajuda a identificar se o produto atingiu o limite de 50 SKUs.

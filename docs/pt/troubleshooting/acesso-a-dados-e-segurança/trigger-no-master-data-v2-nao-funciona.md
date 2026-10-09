@@ -3,7 +3,7 @@ title: 'Trigger no Master Data v2 não funciona'
 id: 1WvpFuZUQmPrBlrlwX47Qd
 status: PUBLISHED
 createdAt: 2024-12-10T13:34:36.370Z
-updatedAt: 2024-12-10T13:38:54.049Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2024-12-10T13:38:54.049Z
 firstPublishedAt: 2024-12-10T13:38:54.049Z
 contentType: tutorial
@@ -24,6 +24,8 @@ symptomFilters:
 Ao criar uma trigger para notificar mudanças em uma entidade de dados no Master Data v2, alguns usuários podem perceber que nenhuma requisição chega ao endpoint configurado, mesmo após a configuração da trigger.
 
 Esse problema pode ocorrer devido a uma configuração incorreta da trigger ou a questões relacionadas a permissões e autenticação. Confira a seguir o passo a passo para identificar e corrigir a situação.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar a investigar a trigger: informe a entidade de dados e ele verifica se ela existe no Master Data v2 e revisa o schema em que a trigger está declarada, incluindo os campos obrigatórios.
 
 ## Solução
 

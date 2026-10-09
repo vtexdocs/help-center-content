@@ -1,7 +1,7 @@
 ---
 title: 'A cobrança do Master Data não diminuiu depois que excluí uma entidade de dados'
 createdAt: '2026-08-07T00:00:00.000Z'
-updatedAt: '2026-08-07T00:00:00.000Z'
+updatedAt: 2026-10-07T00:00:00.000Z
 contentType: tutorial
 productTeam: Master Data
 slugEN: master-data-billing-did-not-decrease-after-deleting-a-data-entity
@@ -17,6 +17,8 @@ symptomFilters:
 Depois de excluir uma [entidade de dados](/pt/docs/tutorials/entidade-de-dados) pela interface do Master Data v1, você espera que o volume cobrado mensalmente diminua, mas isso não acontece.
 
 Esse problema ocorre porque a exclusão de uma entidade de dados pela interface não remove os documentos (registros) já armazenados nela. Esses documentos continuam sendo contabilizados na cobrança mensal até que sejam excluídos pela API.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar nesta limpeza: informe a entidade de dados e ele localiza os documentos que continuam armazenados nela e pode excluí-los, sempre pedindo sua confirmação antes de remover qualquer registro.
 
 ## Solução
 

@@ -4,7 +4,7 @@ excerpt: "Depois do faturamento, a VTEX não recebe mais o cancelamento do marke
 id: frequentlyAskedQuestions_6279
 status: PUBLISHED
 createdAt: 2017-04-27T22:22:27.939Z
-updatedAt: 2019-12-31T14:24:13.695Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:13.695Z
 firstPublishedAt: 2017-04-27T23:02:45.597Z
 contentType: frequentlyAskedQuestion
@@ -22,3 +22,5 @@ Desta forma, para verificar se o cenário está dentro da normalidade, basta com
 Após ter feito essa verificação, entre em contato com o marketplace para saber o motivo do cancelamento do pedido.
 
 _O pedido **não** aparecerá como cancelado na VTEX. Uma vez que o pedido já entrou no status faturado, não é mais possível alterar seu status._
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar o pedido do lado da VTEX: envie o número do pedido e ele resume o status e os dados do faturamento, para você comparar com a data do cancelamento no marketplace.

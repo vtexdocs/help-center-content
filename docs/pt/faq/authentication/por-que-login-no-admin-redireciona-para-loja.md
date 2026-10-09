@@ -4,7 +4,7 @@ excerpt: "Perfis de call center levam o usuário para a loja e bloqueiam o Catá
 id: 3JOlJmgmacAqCQEe0kwGwg
 status: PUBLISHED
 createdAt: 2017-10-01T03:35:33.165Z
-updatedAt: 2021-04-06T20:20:56.407Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2021-04-06T20:20:56.407Z
 firstPublishedAt: 2017-10-01T03:43:27.490Z
 contentType: frequentlyAskedQuestion
@@ -20,3 +20,5 @@ Este cenário acontece quando o email utilizado para fazer login no painel admin
 Os perfis de televendas bloqueiam o acesso ao __Catálogo__, ou seja, o usuário não consegue adicionar um produto, por exemplo. Se for necessário acessar esse módulo, o usuário deverá trabalhar com dois logins diferentes.
 
 Caso o perfil de acesso possua permissão para televendas e também outros módulos, o o acesso deve ser feito diretamente pela URL do módulo, por exemplo, para o Gerenciamento de pedidos: `https://{accountName}.myvtex.com/admin/checkout`
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar os perfis de acesso do usuário: envie o e-mail usado no login e ele identifica se algum perfil inclui recursos de televendas, o que causa o redirecionamento para a loja.

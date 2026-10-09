@@ -3,7 +3,7 @@ title: 'Não consigo indexar um produto do catálogo'
 id: 5ZKLTqnCyGbWEYGPTCBIxI
 status: PUBLISHED
 createdAt: 2024-09-06T13:35:52.255Z
-updatedAt: 2025-08-14T22:18:48.876Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-08-14T22:18:48.876Z
 firstPublishedAt: 2024-09-06T20:54:50.631Z
 contentType: tutorial
@@ -43,6 +43,8 @@ Em determinadas situações, a indexação é interrompida durante o processo e 
    - Quantidade de regiões geográficas
    - Quantidade de coleções
    - Quantidade de sellers
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar o produto que não indexa: envie o ID dele e ele verifica o cadastro do produto, os SKUs, a categoria, a marca e as políticas comerciais associadas para identificar o que impede a indexação.
 
 ## Soluções
 

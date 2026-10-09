@@ -3,7 +3,7 @@ title: 'Não consigo visualizar uma página no Admin'
 id: 3U8TJMlAqHIM5Qs8rLwkwQ
 status: PUBLISHED
 createdAt: 2024-11-28T14:27:44.578Z
-updatedAt: 2025-08-14T15:09:37.454Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-08-14T15:09:37.454Z
 firstPublishedAt: 2024-11-28T14:46:25.398Z
 contentType: tutorial
@@ -24,6 +24,8 @@ symptomFilters:
 Ao utilizar o Admin, alguns usuários podem ter problemas como o *Erro 403 - Desculpe, você não tem acesso a essa página* ou o carregamento contínuo de uma página.
 
 Esses problemas geralmente ocorrem devido a conflitos entre [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) dos usuários administrativos ou configurações específicas do navegador.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar o erro 403: envie o e-mail do usuário e ele compara os perfis de acesso dessa pessoa com o que cada perfil permite, indicando se falta algum perfil ou se há a combinação conflitante descrita abaixo.
 
 ## Solução
 

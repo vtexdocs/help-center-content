@@ -4,7 +4,7 @@ excerpt: "Confirme se o VTEX Shipping Network aparece nas simulações e nos ped
 id: 7rORylcjzSixyExqVhtmaW
 status: PUBLISHED
 createdAt: 2020-07-20T17:29:40.264Z
-updatedAt: 2022-04-08T20:18:50.816Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2022-04-08T20:18:50.816Z
 firstPublishedAt: 2020-07-20T20:56:01.437Z
 contentType: frequentlyAskedQuestion
@@ -14,6 +14,8 @@ slugEN: faq-vtex-shipping-network
 locale: pt
 legacySlug: faq-vtex-log
 ---
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar a verificar o VTEX Shipping Network na sua loja: com o ID do SKU e o CEP, ele simula o frete e mostra as opções de entrega retornadas, além de revisar suas docas, armazéns e políticas de envio.
 
 ## 1) Como posso identificar se o VTEX Shipping Network está operando normalmente na minha loja?   
 

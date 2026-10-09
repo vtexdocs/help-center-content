@@ -3,7 +3,7 @@ title: 'O pedido não avança após o status "Preparando entrega"'
 id: 2yia6QhoLh204lHzEaIrnK
 status: PUBLISHED
 createdAt: 2025-02-07T14:22:07.199Z
-updatedAt: 2025-02-07T17:20:26.154Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-02-07T17:20:26.154Z
 firstPublishedAt: 2025-02-07T17:20:26.154Z
 contentType: tutorial
@@ -25,6 +25,8 @@ O status `Preparando entrega` ocorre no [fluxo do pedido](/pt/docs/tutorials/flu
 > �"�️ Não é possível [cancelar pedidos](/pt/docs/tutorials/como-cancelar-pedido) que já tenham sido [faturados parcialmente](/pt/docs/tracks/faturas-parciais). Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado).
 
 A permanência de um pedido no status `Preparando entrega` por um período superior ao previsto pode ser atribuída à falta de cadastro das notas fiscais na VTEX.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar este pedido: envie o número dele e ele verifica se as notas fiscais registradas cobrem o valor total e indica o próximo passo. Ele vê o pedido na VTEX, não dentro do seu ERP.
 
 ## Solução
 

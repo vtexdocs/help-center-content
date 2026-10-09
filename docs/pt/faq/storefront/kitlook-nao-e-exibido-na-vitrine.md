@@ -4,7 +4,7 @@ excerpt: "Imagens de look precisam de um Label sem espaços nem caracteres espec
 id: 5BoJ5sHNE43tYckp1Z8Fec
 status: PUBLISHED
 createdAt: 2019-02-20T17:47:19.370Z
-updatedAt: 2020-09-17T19:52:52.492Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2020-09-17T19:52:52.492Z
 firstPublishedAt: 2019-02-20T17:50:10.749Z
 contentType: frequentlyAskedQuestion
@@ -38,3 +38,5 @@ __Preencha o campo da Label__
 6. Clique em __Salvar__
 
 Pronto! Seu Lookbook deve apresentar todas as imagens corretamente após esse passo a passo. Não esqueça de salvar o código da Label, caso contrário, a configuração não será atualizada.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar as imagens do produto: envie o ID do SKU e ele revisa as imagens cadastradas, incluindo o campo Label, e pode ajustá-las depois da sua confirmação.

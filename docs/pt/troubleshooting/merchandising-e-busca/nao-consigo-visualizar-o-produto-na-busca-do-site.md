@@ -3,7 +3,7 @@ title: 'Não consigo visualizar o produto na busca do site'
 id: 2Ry55Fh6JW8v7oKBiB2pH3
 status: PUBLISHED
 createdAt: 2024-07-24T16:39:50.379Z
-updatedAt: 2025-08-14T22:44:25.091Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-08-14T22:44:25.091Z
 firstPublishedAt: 2024-07-24T18:55:15.925Z
 contentType: tutorial
@@ -36,6 +36,8 @@ Este comportamento pode ocorrer devido aos seguintes cenários:
 2. O termo utilizado não está presente em um dos campos pesquisáveis do produto. Saiba mais em [Configurações para o comportamento da busca](/pt/docs/tutorials/comportamento-da-busca#configuracoes-para-o-comportamento-da-busca) e [Configuração da busca](/pt/docs/tutorials/configuracao-da-busca).
 
 3. Rota interna redirecionando o resultado da pesquisa para uma página de marca (brand).
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar por que o produto não aparece na busca: envie o termo pesquisado e o ID do produto e ele faz a mesma busca que seus clientes fazem e confere a marca e a visibilidade do produto.
 
 ## Soluções
 

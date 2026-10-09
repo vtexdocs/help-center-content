@@ -3,7 +3,7 @@ title: 'Promoção não foi aplicada ao cluster de clientes'
 id: 1fQEKdmWwIAPfDQAbuP3Kr
 status: PUBLISHED
 createdAt: 2025-02-28T18:00:30.100Z
-updatedAt: 2025-08-14T22:53:01.477Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-08-14T22:53:01.477Z
 firstPublishedAt: 2025-02-28T19:31:52.785Z
 contentType: tutorial
@@ -23,6 +23,8 @@ Uma [promoção personalizada](/pt/docs/tutorials/criando-promocao-para-um-clust
 
 - Ausência ou cadastro incorreto do valor do cluster durante a configuração da promoção.
 - Inconsistência entre os valores cadastrados na promoção e os valores atribuídos nos perfis dos clientes.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode comparar os dois lados deste problema: diga o nome da promoção e o e-mail de um cliente do cluster e ele confere a condição de cluster configurada e os valores no cadastro desse cliente no Master Data.
 
 ## Solução
 

@@ -4,7 +4,7 @@ excerpt: "Payments recibió una respuesta inválida de captura del conector. Con
 id: frequentlyAskedQuestions_4730
 status: PUBLISHED
 createdAt: 2017-04-27T22:23:56.704Z
-updatedAt: 2022-07-19T13:00:25.935Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2022-07-19T13:00:25.935Z
 firstPublishedAt: 2017-04-27T23:02:43.821Z
 contentType: frequentlyAskedQuestion

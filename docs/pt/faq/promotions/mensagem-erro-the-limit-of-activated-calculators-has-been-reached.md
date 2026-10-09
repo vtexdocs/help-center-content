@@ -4,7 +4,7 @@ excerpt: "A loja atingiu o máximo de promoções ativas. Una regras em menos pr
 id: frequentlyAskedQuestions_349
 status: PUBLISHED
 createdAt: 2017-04-27T22:37:28.949Z
-updatedAt: 2019-12-31T14:25:18.709Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:25:18.709Z
 firstPublishedAt: 2017-04-27T23:01:45.229Z
 contentType: frequentlyAskedQuestion
@@ -20,3 +20,5 @@ Essa mensagem indica que o número máximo de promoções foi atingido e que nã
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/promotions/mensagem-erro-the-limit-of-activated-calculators-has-been-reached_1.jpg)
 
 Você deve rever suas promoções ativas para ajustá-las e reorganizá-las, de modo que não sejam necessárias tantas unidades. Geralmente, é possível a união de várias regras em apenas uma promoção. Desse modo, melhorando a performance do carrinho e a organização das promoções.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar a organizar suas promoções: ele lista as promoções da sua loja e revisa as condições de cada uma para identificar regras que podem ser unificadas.

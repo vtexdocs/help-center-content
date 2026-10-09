@@ -4,7 +4,7 @@ excerpt: "A vitrine mostra os dois nomes quando o nome do produto e o do SKU nã
 id: frequentlyAskedQuestions_380
 status: PUBLISHED
 createdAt: 2017-04-27T22:36:22.480Z
-updatedAt: 2019-12-31T14:24:30.306Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:30.306Z
 firstPublishedAt: 2017-04-27T23:01:46.393Z
 contentType: frequentlyAskedQuestion
@@ -43,3 +43,5 @@ Ou utilizar no nome do SKU apenas o complemento do nome do produto:
 - **Nome do produto** estiver como: Porta Canetas
 - **Nome do SKU** estiver como: Azul
 - O sistema mostrará: Porta Canetas - Azul
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar a encontrar a diferença: envie o ID do produto e ele lista os SKUs com seus nomes, para você comparar com o nome do produto e ajustar o cadastro.

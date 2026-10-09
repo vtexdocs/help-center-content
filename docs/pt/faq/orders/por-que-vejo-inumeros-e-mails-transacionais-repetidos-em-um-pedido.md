@@ -4,7 +4,7 @@ excerpt: "E-mails repetidos em geral significam que o ERP reenvia uma nota que n
 id: frequentlyAskedQuestions_5310
 status: PUBLISHED
 createdAt: 2017-04-27T22:22:48.654Z
-updatedAt: 2023-03-20T18:16:45.773Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-03-20T18:16:45.773Z
 firstPublishedAt: 2017-04-27T23:02:45.541Z
 contentType: frequentlyAskedQuestion
@@ -28,3 +28,5 @@ No Admin VTEX, em **Pedidos > Todos os pedidos**, ao clicar em um pedido e acess
 2. O servidor de emails do cliente final pode estar com problemas que o impedem de responder com um "aceite" de recebimento do seu email.
 
    O servidor de envio dos emails transacionais (SMTP), não conseguindo o OK do servidor de destino, seguirá tentando repetidamente entregar o email enviado pelo módulo **Pedidos**.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar o pedido: envie o número dele e ele verifica se a nota fiscal registrada cobre o valor total, causa comum de o ERP reenviar a nota e repetir os e-mails.

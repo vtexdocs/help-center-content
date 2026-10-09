@@ -3,7 +3,7 @@ title: 'No funciona el trigger en Master Data v2'
 id: 1WvpFuZUQmPrBlrlwX47Qd
 status: PUBLISHED
 createdAt: 2024-12-10T13:34:36.370Z
-updatedAt: 2024-12-10T13:38:54.049Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2024-12-10T13:38:54.049Z
 firstPublishedAt: 2024-12-10T13:38:54.049Z
 contentType: tutorial

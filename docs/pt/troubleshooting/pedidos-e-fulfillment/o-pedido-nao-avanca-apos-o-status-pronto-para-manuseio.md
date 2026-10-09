@@ -3,7 +3,7 @@ title: 'O pedido não avança após o status "Pronto para manuseio"'
 id: 1Esx82dbr5RHYPOHgEjRGg
 status: PUBLISHED
 createdAt: 2025-02-03T17:59:30.111Z
-updatedAt: 2025-02-03T18:59:58.956Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-02-03T18:59:58.956Z
 firstPublishedAt: 2025-02-03T18:59:58.956Z
 contentType: tutorial
@@ -25,6 +25,8 @@ symptomFilters:
 O status `Pronto para manuseio` ocorre no [fluxo do pedido](/pt/docs/tutorials/fluxo-e-status-de-pedidos#fluxo-do-seller) logo após a janela de cancelamento ser encerrada. Neste momento, a VTEX deve receber a informação do [sistema ERP](https://developers.vtex.com/docs/guides/erp-integration-guide) de que o pedido foi integrado e o estoque de itens foi atualizado, permitindo desta forma que o fluxo possa prosseguir até o status `Preparando entrega`.
 
 Enquanto a VTEX não recebe esta confirmação, o pedido permanece no status `Pronto para manuseio`.
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar este pedido: envie o número dele e ele identifica se o fluxo parou aguardando a liberação do manuseio pelo ERP e o que fazer em seguida. Ele vê o pedido na VTEX, não dentro do seu ERP.
 
 ## Solução
 

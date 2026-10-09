@@ -4,7 +4,7 @@ excerpt: "Estoques no mesmo canal de venda compartilham o saldo. Uma quantidade 
 id: 6HIEgJSYM8S05IyWHnIcOn
 status: PUBLISHED
 createdAt: 2022-02-15T15:41:43.419Z
-updatedAt: 2022-02-15T15:50:50.574Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2022-02-15T15:49:48.146Z
 firstPublishedAt: 2022-02-15T15:49:19.393Z
 contentType: frequentlyAskedQuestion
@@ -21,3 +21,4 @@ Isso ocorre porque a plataforma VTEX soma as unidades negativas de SKU de determ
 
 Saiba mais sobre estoque negativo no artigo [Como atualizar itens no inventário.](/pt/docs/tutorials/gerenciar-itens-em-estoque#atualizar-estoque)
 
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar este SKU: envie o ID do SKU e ele consulta o estoque em cada armazém, incluindo quantidades reservadas e disponíveis, e indica o que está deixando o item indisponível para venda.
