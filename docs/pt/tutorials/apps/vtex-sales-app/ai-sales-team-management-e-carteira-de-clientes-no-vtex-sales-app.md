@@ -48,16 +48,19 @@ Pelo chat, você pode fazer a sua solicitação de forma inteiramente conversaci
 
 ## Regras do funcionamento
 
-> ℹ️ Antes de criar, editar ou remover qualquer item, o agente apresenta um plano e espera a sua confirmação explícita. Nenhuma dessas ações é executada sem essa confirmação.
+O **AI Sales Team Management** só executa ações após a sua [revisão e confirmação](#revisao-e-confirmacao-do-plano) do plano apresentado. Além disso, o agente opera a partir das seguintes regras:
 
-Além da confirmação do plano, o **AI Sales Team Management** opera a partir das seguintes regras:
-
-- **Desambiguação de nomes:** se você pedir para criar o time "vendas sul" e já existir "VENDAS SUL", o agente pergunta o que você pretende, em vez de assumir.
-- **Validação de perfis de acesso do storefront:** um pedido de perfil de acesso do Storefront que não existe, não é aplicado. Veja a lista completa em [Adicionar usuários à organização compradora](https://help.vtex.com/pt/docs/tutorials/adicionar-usuarios-a-organizacao-compradora).
-- **Validação de contratos:** o agente não vincula um contrato que não está na conta.
+- **Desambiguação de nomes:** se você pedir para criar o time "vendas sul" e já existir um "VENDAS SUL", o agente pergunta o que você pretende, em vez de assumir.
+- **Validação e controle de usuários:** cada [usuário](https://help.vtex.com/pt/docs/tutorials/gerenciar-usuarios-administrativos) consulta informações restritas ao seu perfil de acesso, e usuários não configurados previamente são rejeitados. O agente não cria [perfis de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso).
+- **Validação de contratos:** o agente não vincula um contrato B2B que não esteja previamente cadastrado na conta.
 - **Alerta de contrato compartilhado:** quando um contrato já está vinculado a outro time, o agente avisa, mas não impede o vínculo.
-- **Respostas sem suposições:** quando o agente não sabe ou não tem acesso a uma informação, ele informa isso.
-- **Controle de permissão a usuários:** cada usuário consulta informações restritas ao seu nível de acesso. Por exemplo, um sales rep não pode ver os contratos de outro time.
+- **Respostas sem suposições:** quando o agente não sabe ou não tem acesso a uma informação, ele comunica isso.
+
+### Revisão e confirmação do plano
+
+Antes que você crie, edite ou remova um item via arquivo ou de forma conversacional, o agente apresenta um plano do que será executado e só realiza as mudanças após a sua revisão e confirmação.
+
+Caso exista algum erro ou inconsistência nas informações recebidas, o agente apresenta as mensagens de erro e uma tela de validação com o plano doque será feito. Para arquivos anexados, o agente processa o conteúdo inteiro e separa as linhas válidas das inválidas (quando existe erro). Ou seja, o processamento parcial das informações é o comportamento esperado: as linhas válidas seguem o plano e inválidas são rejeitadas e informadas sobre o motivo.
 
 ### Restrições de escopo
 
@@ -73,7 +76,6 @@ O **AI Sales Team Management** tem as seguintes restrições:
 
 Com o **AI Sales Team Management** você pode:
 
-- [Revisar e confirmar o plano](#revisar-e-confirmar-plano)
 - [Realizar ações em times](#acoes-em-times)
 - [Realizar ações em sales reps](#acoes-em-sales-reps)
 - [Realizar ações em carteiras de clientes](#acoes-em-carteiras-de-clientes)
@@ -83,12 +85,6 @@ Com o **AI Sales Team Management** você pode:
 > ℹ️ Os exemplos de instrução apresentados nas seções são ilustrativos e não a única forma de realizar uma ação no **AI Sales Team Management**.
 
 As ações só podem ser executadas por usuários com [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) adequado. No caso de sales reps, o perfil é o [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person).
-
-### Revisar e confirmar o plano
-
-Antes que você crie, edite ou remova um item via arquivo ou de forma conversacional, o agente apresenta um plano do que será executado e só realiza as mudanças após a sua revisão e confirmação.
-
-Caso exista algum erro ou inconsistência nas informações recebidas, o agente apresenta as mensagens de erro e uma tela de validação com o plano doque será feito. Para arquivos anexados, o agente processa o conteúdo inteiro e separa as linhas válidas das inválidas (quando existe erro). Ou seja, o processamento parcial das informações é o comportamento esperado: as linhas válidas seguem o plano e inválidas são rejeitadas e informadas sobre o motivo.
 
 ### Realizar ações em times
 
