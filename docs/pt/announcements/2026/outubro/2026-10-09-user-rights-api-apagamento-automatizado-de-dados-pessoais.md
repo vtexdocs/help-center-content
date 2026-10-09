@@ -1,11 +1,11 @@
 ---
 title: "User Rights API: exclusão automatizada de dados pessoais"
-createdAt: 2026-10-08T14:00:00.000Z
-updatedAt: 2026-10-08T14:00:00.000Z
+createdAt: 2026-10-09T14:00:00.000Z
+updatedAt: 2026-10-09T14:00:00.000Z
 contentType: updates
 productTeam: Identity
 author: 4oTZzwYoyhy1tDBwLuemdG
-slugEN: 2026-10-08-user-rights-api-automated-personal-data-erasure
+slugEN: 2026-10-09-user-rights-api-automated-personal-data-erasure
 locale: pt
 announcementSynopsisPT: 'A nova User Rights API permite automatizar solicitações de exclusão de dados pessoais (LGPD/GDPR) na plataforma VTEX.'
 tags:

@@ -1,10 +1,10 @@
 ---
 title: "User Rights API: Automated erasure of personal data"
-createdAt: 2026-10-08T14:00:00.000Z
-updatedAt: 2026-10-08T14:00:00.000Z
+createdAt: 2026-10-09T14:00:00.000Z
+updatedAt: 2026-10-09T14:00:00.000Z
 contentType: updates
 productTeam: Identity
-slugEN: 2026-10-08-user-rights-api-automated-personal-data-erasure
+slugEN: 2026-10-09-user-rights-api-automated-personal-data-erasure
 locale: en
 announcementSynopsisEN: 'The new User Rights API allows you to automate personal data erasure requests (LGPD/GDPR) on the VTEX platform.'
 tags:
