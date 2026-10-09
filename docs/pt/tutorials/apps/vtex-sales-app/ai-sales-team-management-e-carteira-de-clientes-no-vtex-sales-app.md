@@ -48,13 +48,13 @@ Pelo chat, você pode fazer a sua solicitação de forma inteiramente conversaci
 
 ## Regras do funcionamento
 
-O **AI Sales Team Management** só executa ações após a sua [revisão e confirmação](#revisao-e-confirmacao-do-plano) do plano apresentado. Além disso, o agente opera a partir das seguintes regras:
+O **AI Sales Team Management** só executa ações após a sua [revisão e confirmação](#revisao-e-confirmacao-do-plano) do plano apresentado e opera a partir das seguintes regras:
 
-- **Desambiguação de nomes:** se você pedir para criar o time "vendas sul" e já existir um "VENDAS SUL", o agente pergunta o que você pretende, em vez de assumir.
-- **Validação e controle de usuários:** cada [usuário](https://help.vtex.com/pt/docs/tutorials/gerenciar-usuarios-administrativos) consulta informações restritas ao seu perfil de acesso, e usuários não configurados previamente são rejeitados. O agente não cria [perfis de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso).
-- **Validação de contratos:** o agente não vincula um contrato B2B que não esteja previamente cadastrado na conta.
-- **Alerta de contrato compartilhado:** quando um contrato já está vinculado a outro time, o agente avisa, mas não impede o vínculo.
-- **Respostas sem suposições:** quando o agente não sabe ou não tem acesso a uma informação, ele comunica isso.
+- **Respostas sem suposições:** quando não dispõe de uma informação ou não tem permissão para acessá-la, o agente comunica essa limitação.
+- **Desambiguação de nomes:** se você solicitar a criação de um time chamado "vendas sul" e já existir um time chamado "VENDAS SUL", o agente solicita esclarecimentos antes de executar a ação.
+- **Validação e controle de usuários:** cada [usuário](https://help.vtex.com/pt/docs/tutorials/gerenciar-usuarios-administrativos) pode consultar apenas as informações permitidas pelo seu perfil de acesso. Usuários não cadastrados previamente não podem utilizar o agente, que também não cria [perfis de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso).
+- **Validação de contratos:** o agente permite vincular apenas contratos B2B previamente cadastrados na conta.
+- **Alerta de contrato compartilhado:** se um contrato já estiver vinculado a outro time, o agente informa essa condição, mas permite realizar o vínculo.
 
 ### Revisão e confirmação do plano
 
