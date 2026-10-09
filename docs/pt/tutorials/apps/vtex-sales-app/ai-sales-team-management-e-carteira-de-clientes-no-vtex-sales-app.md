@@ -132,6 +132,8 @@ A tabela a seguir apresenta as ações que você pode realizar em sales reps:
 
 ### Realizar ações comuns a times, sales reps e carteiras de clientes
 
+A tabela a seguir apresenta ações compartilhadas:
+
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
 | Consultar a estrutura atual | Identificação do item a ser consultado. A resposta considera o nível de permissão do usuário às informações buscadas. | "Quais times existem na conta?" / "Quais contratos o Vendas Sul tem acesso?" / "Quais usuários existem no time Vendas Norte?" |
