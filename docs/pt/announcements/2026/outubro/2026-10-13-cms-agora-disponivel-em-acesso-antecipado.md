@@ -14,20 +14,16 @@ tags:
 
 O novo [VTEX CMS](https://help.vtex.com/pt/docs/tutorials/cms-visao-geral) já está disponível em Acesso Antecipado. Apresentamos um sistema de gerenciamento de conteúdo moderno e escalável, desenvolvido para ajudar lojistas a criar, colaborar e distribuir o conteúdo do storefront de forma mais eficiente e colaborativa.
 
-![cms-visao-geral](https://vtexhelp.vtexassets.com/assets/docs/src/cms-announcement-en___f7e039f7b37341efc376a3abff9e5d80.gif)
-
-## Destaques
-
-| ![Todos os conteúdos](https://vtexhelp.vtexassets.com/assets/docs/src/cms-conteudo-pt___0073aa95aa1b4f68a49ffcb635ea66ea.gif) |
-|---|
+| <img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-conteudo-pt___0073aa95aa1b4f68a49ffcb635ea66ea.gif" alt="Todos os conteúdos" width="400" /> |
+|:---:|
 | **Todos os conteúdos:** crie, gerencie e publique todas as suas páginas, layouts, templates e seções globais do storefront a partir de um único dashboard. |
 
-| ![Branches](https://vtexhelp.vtexassets.com/assets/docs/src/cms-branches-pt___dff883f3564a889019d09e2e63be7e6e.gif) |
-|---|
+| <img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-branches-pt___dff883f3564a889019d09e2e63be7e6e.gif" alt="Branches" width="400" /> |
+|:---:|
 | **Branches:** trabalhe em alterações de conteúdo em ambientes isolados e publique-as no storefront apenas quando estiver tudo pronto, sem interromper sua loja em produção. |
 
-| ![Lojas](https://vtexhelp.vtexassets.com/assets/docs/src/cms-lojas-pt___bc5511d01dded18f5ae1acd1bff4569b.gif) |
-|---|
+| <img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-lojas-pt___bc5511d01dded18f5ae1acd1bff4569b.gif" alt="Lojas" width="400" /> |
+|:---:|
 | **Lojas:** vincule e gerencie múltiplos storefronts em um só lugar, configurando URLs de pré-visualização, integrações de repositório e configurações de localidade para cada loja. |
 
 ## O que mudou?
