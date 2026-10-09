@@ -24,7 +24,7 @@ Vamos supor uma loja com a seguinte arquitetura:
 
 - **Website da conta principal:** política A (com restrição de acesso). Apenas a política A está elegível no binding desse website, e ela tem estoque próprio.
 - **Website da multiloja:** política B (sem restrição de acesso). Apenas a política B está elegível no binding desse website. O catálogo é compartilhado com a conta principal. A política B não possui restrição de acesso porque a multiloja é B2C e precisa estar acessível a usuários não logados.
-- **Seller white label:** conta franquia que realiza o fulfillment apenas dos pedidos feitos na política B.
+- **Seller white label:** conta-franquia que realiza o fulfillment apenas dos pedidos feitos na política B.
 
 O diagrama a seguir ilustra essa arquitetura. A política B aparece também no binding da conta principal, pois é necessário que ela esteja elegível ali para que o seller white label atenda os pedidos:
 
