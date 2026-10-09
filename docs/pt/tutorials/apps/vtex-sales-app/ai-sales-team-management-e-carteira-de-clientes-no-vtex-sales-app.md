@@ -10,13 +10,13 @@ locale: pt
 
 > ℹ️ O **AI Sales Team Management** está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Atualmente, a disponibilidade é somente para contas selecionadas. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
 
-O **AI Sales Team Management** é um agente de inteligência artificial que permite administrar [times, sales reps e carteiras de clientes](#conceitos) de quem usa o [VTEX Sales App](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes) por meio de uma experiência conversacional no Admin VTEX. Este artigo explica o funcionamento do agente e apresenta as ações que você pode realizar com o agente no contexto de operações B2B.
+O **AI Sales Team Management** é um agente de inteligência artificial que permite administrar [times, sales reps e carteiras de clientes](#conceitos) de quem usa o [VTEX Sales App](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes) por meio de uma experiência conversacional no Admin VTEX. Este artigo explica o funcionamento do agente e as ações que ele pode realizar para você em operações B2B.
 
-> ⚠️ O **AI Sales Team Management** administra times e carteiras de clientes no contexto do [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). Para a gestão de vendedores de lojas físicas, veja o artigo [Gerenciar vendedores no VTEX Sales App](https://help.vtex.com/pt/docs/tracks/gerenciar-vendedores-no-vtex-sales-app).
+> ⚠️ O **AI Sales Team Management** administra times e carteiras de clientes no [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). Para a gestão de vendedores de lojas físicas, veja o artigo [Gerenciar vendedores no VTEX Sales App](https://help.vtex.com/pt/docs/tracks/gerenciar-vendedores-no-vtex-sales-app).
 
 ## Pré-requisitos
 
-Para usar o **AI Sales Team Management**, é necessário que a conta utilize o [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt) e tenha [contratos](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) cadastrados.
+Para usar o **AI Sales Team Management**, é necessário que a sua conta utilize o [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt) e tenha [contratos](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) previamente cadastrados.
 
 ## Conceitos
 
@@ -24,10 +24,10 @@ A tabela a seguir apresenta a terminologia utilizada no **AI Sales Team Manageme
 
 | **Termo** | **Significado** |
 | :---- | :---- |
-| **Time** | Unidade da estrutura de vendas. Um time pode ficar hierarquicamente abaixo de outro, como time pai e subtime, para representar o organograma real. |
-| **Sales rep** | Pessoa do time comercial cadastrada via agente. O perfil do Licence Manager disponível para sales reps é [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person). O **AI Sales Team Management** não cria perfis de acesso. |
-| **Carteira de clientes** | Relação de vínculação entre contratos e times ou subtimes. É possível vincular um contrato a um único sales rep utilizando um subtime. |
-| **Contrato** | [Contrato B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) já existente, usado para o vínculo com um time. |
+| Time | Unidade da estrutura de vendas. Um time pode ficar hierarquicamente abaixo de outro, como time pai e subtime, para representar o organograma real. |
+| Sales rep | Pessoa do time comercial cadastrada via agente. O perfil do Licence Manager disponível para sales reps é [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person). O **AI Sales Team Management** não cria perfis de acesso. |
+| Carteira de clientes | Relação de vínculação entre contratos e times ou subtimes. É possível vincular um contrato a um único sales rep utilizando um subtime. |
+| Contrato | [Contrato B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) já existente, usado para o vínculo com um time. |
 
 ## Casos de uso
 
