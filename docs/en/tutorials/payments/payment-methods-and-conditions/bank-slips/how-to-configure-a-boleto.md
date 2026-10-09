@@ -1,11 +1,10 @@
 ---
 title: 'Configuring a Boleto'
 createdAt: 2017-04-27T22:04:55.249Z
-updatedAt: 2026-02-09T00:00:00.000Z
+updatedAt: 2026-10-05T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
 slugEN: how-to-configure-a-boleto
-legacySlug: how-to-configure-a-bank-slip
 locale: en
 hidden: false
 ---
