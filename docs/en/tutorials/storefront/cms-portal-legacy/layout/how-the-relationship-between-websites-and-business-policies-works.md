@@ -3,7 +3,7 @@ title: 'How the relationship between websites and sales policies works'
 id: 1VuakBcyNOgg4AM4cUeeQg
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:42.855Z
-updatedAt: 2023-03-29T14:43:46.618Z
+updatedAt: 2026-10-08T18:21:41.930Z
 publishedAt: 2023-03-29T14:43:46.618Z
 firstPublishedAt: 2019-01-24T22:07:42.559Z
 contentType: tutorial

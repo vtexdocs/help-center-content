@@ -3,7 +3,7 @@ title: 'Como funciona a relação entre websites e políticas comerciais'
 id: 1VuakBcyNOgg4AM4cUeeQg
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:42.855Z
-updatedAt: 2023-03-29T14:43:46.618Z
+updatedAt: 2026-10-08T18:21:41.930Z
 publishedAt: 2023-03-29T14:43:46.618Z
 firstPublishedAt: 2019-01-24T22:07:42.559Z
 contentType: tutorial
@@ -67,3 +67,7 @@ A ordenação das políticas comerciais está configurada da seguinte forma:
 3. A
 
 Um website que tenha apenas as políticas A e B como elegíveis vai renderizar as informações da __política comercial A__.
+
+## Políticas comerciais de sellers white label
+
+Quando um [seller white label](/pt/docs/tutorials/seller-white-label) realiza o fulfillment de pedidos da sua loja, a política comercial atendida por esse seller precisa estar elegível no binding da __conta principal__, mesmo que ele entregue apenas os pedidos de outro website. Se a política da conta principal possuir restrição de acesso, essa regra se combina com a exceção à regra de prioridade. Saiba mais em [Configurar a política comercial de um seller white label em loja com restrição de acesso](/pt/docs/tutorials/configurar-a-politica-comercial-de-um-seller-white-label-em-loja-com-restricao-de-acesso).

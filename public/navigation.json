@@ -33546,6 +33546,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configuring the trade policy of a white label seller in a store with access restriction",
+                    "es": "Configurar la política comercial de un seller white label en una tienda con restricción de acceso",
+                    "pt": "Configurar a política comercial de um seller white label em loja com restrição de acesso"
+                  },
+                  "slug": {
+                    "en": "configuring-the-trade-policy-of-a-white-label-seller-in-a-store-with-access-restriction",
+                    "es": "configurar-la-politica-comercial-de-un-seller-white-label-en-una-tienda-con-restriccion-de-acceso",
+                    "pt": "configurar-a-politica-comercial-de-um-seller-white-label-em-loja-com-restricao-de-acesso"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Send the Seller White Label payment methods to the Marketplace",
                     "es": "Enviar los medios de pago del Seller White Label al Marketplace",
                     "pt": "Enviar os meios de pagamento do Seller White Label para o Marketplace"
