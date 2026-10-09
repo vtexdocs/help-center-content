@@ -35,7 +35,7 @@ By default, this type is usually **1000×1000** pixels, which means that:
 - The resulting zoom displays the image at that size.
 - The image registered in the Catalog must be **at least as large as** the `Product - Zoom` setting. If the image is smaller, zoom isn't enabled (or only works for some images).
 
-Before making adjustments in **File Types**, confirm that zoom is enabled in the page template. Learn more in [Activating product zoom in the page template](/docs/tutorials/activating-product-zoom-in-the-page-template).
+Before making adjustments in **File Types**, confirm that zoom is enabled in the page template. Learn more in [Activating product zoom in the page template](/en/docs/tutorials/activating-the-product-zoom-in-the-page-template).
 
 ### Use cases
 
