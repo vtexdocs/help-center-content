@@ -54,6 +54,21 @@
                 },
                 {
                   "name": {
+                    "en": "Personal Shopper has been discontinued",
+                    "es": "Personal Shopper ha sido descontinuado",
+                    "pt": "Personal Shopper foi descontinuado"
+                  },
+                  "slug": {
+                    "en": "2026-10-09-personal-shopper-will-be-discontinued",
+                    "es": "2026-10-09-personal-shopper-sera-descontinuado",
+                    "pt": "2026-10-09-personal-shopper-sera-descontinuado"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "User Rights API: Automated erasure of personal data",
                     "es": "User Rights API: eliminación automatizada de datos personales",
                     "pt": "User Rights API: exclusão automatizada de dados pessoais"
