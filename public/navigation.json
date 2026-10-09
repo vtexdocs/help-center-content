@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "VTEX CMS: now available for Early Access",
+                    "es": "VTEX CMS: ahora disponible en Acceso Anticipado",
+                    "pt": "VTEX CMS: agora disponível em Acesso Antecipado"
+                  },
+                  "slug": {
+                    "en": "2026-10-13-cms-now-available-for-early-access",
+                    "es": "2026-10-13-cms-ahora-disponible-en-acceso-anticipado",
+                    "pt": "2026-10-13-cms-agora-disponivel-em-acesso-antecipado"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "User Rights API: Automated erasure of personal data",
                     "es": "User Rights API: eliminación automatizada de datos personales",
                     "pt": "User Rights API: exclusão automatizada de dados pessoais"
