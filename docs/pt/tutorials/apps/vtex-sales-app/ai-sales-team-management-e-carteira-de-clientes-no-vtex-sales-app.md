@@ -31,12 +31,12 @@ A tabela a seguir apresenta a terminologia utilizada no **AI Sales Team Manageme
 
 ## Casos de uso
 
-O **AI Sales Team Management** interpreta a sua instrução, prepara o plano da mudança na estrutura comercial e só executa a ação após sua revisão e confirmação. Veja alguns casosde uso:
+O **AI Sales Team Management** interpreta a sua instrução, prepara e apresenta o plano da mudança na estrutura comercial e só executa a ação após sua revisão e confirmação. Veja alguns casos de uso:
 
 - **Montar organograma de vendas:** crie times e subtimes seguindo a mesma lógica da operação, como estruturas por regiões, cidades ou por carteiras.
 - **Registrar representantes de vendas:** cadastre membros da equipe comercial na estrutura de vendas, associando cada pessoa ao time desejado.
-- **Controlar carteiras de clientes:** vincule [Contratos B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) a um time ou subtime para definir a quais contratos os sales reps terão acesso no **Sales App**.
-- **Alterar diversos registros simultaneamente:** modifique diversos registros ao mesmo tempo, o que pode ser feito de forma inteiramente conversacional ou via importação de arquivos no formato `.xlsx`, `.csv` ou `.txt`.
+- **Controlar carteiras de clientes:** vincule [Contratos B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) a um time ou subtime para definir a quais contratos os sales reps terão acesso pelo **Sales App**.
+- **Alterar diversos registros simultaneamente:** modifique diversos registros ao mesmo tempo, seja de forma inteiramente conversacional ou com a importação de arquivos `.xlsx`, `.csv` ou `.txt`.
 
 ## Acessar o agente
 
