@@ -71,16 +71,23 @@ O **AI Sales Team Management** tem as seguintes restrições:
 
 ## Gerenciar times, sales reps e carteiras de clientes
 
-Com o **AI Sales Team Management** você pode realizar:
+Com o **AI Sales Team Management** você pode:
 
-- [Ações em times](#acoes-em-times)
-- [Ações em sales reps](#acoes-em-sales-reps)
-- [Ações em carteiras de clientes](#acoes-em-carteiras-de-clientes)
-- [Ações comuns a times, sales reps e carteiras de clientes](#acoes-comuns-a-times-sales-reps-e-carteiras-de-clientes)
+- [Revisar e confirmar o plano](#revisar-e-confirmar-plano)
+- [Realizar ações em times](#acoes-em-times)
+- [Realizar ações em sales reps](#acoes-em-sales-reps)
+- [Realizar ações em carteiras de clientes](#acoes-em-carteiras-de-clientes)
+- [Realizar ações comuns a times, sales reps e carteiras de clientes](#acoes-comuns-a-times-sales-reps-e-carteiras-de-clientes)
 
-> ℹ️ Os exemplos de instrução apresentados a seguir são apenas ilustrativos e não a única forma de realizar uma ação no **AI Sales Team Management**.
+> ℹ️ Os exemplos de instrução apresentados nas seções são ilustrativos e não a única forma de realizar uma ação no **AI Sales Team Management**.
 
-### Ações em times
+### Revisar e confirmar o plano
+
+Antes que você crie, edite ou remova um item via arquivo ou de forma conversacional, o agente apresenta um plano do que será executado e só realiza as mudanças após a sua revisão e confirmação.
+
+Caso exista algum erro ou inconsistência nas informações recebidas, o agente apresenta as mensagens de erro e uma tela de validação com o plano doque será feito. Para arquivos anexados, o agente processa o conteúdo inteiro e separa as linhas válidas das inválidas (quando existe erro). Ou seja, o processamento parcial das informações é o comportamento esperado: as linhas válidas seguem o plano e inválidas são rejeitadas e informadas sobre o motivo.
+
+### Realizar ações em times
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
@@ -94,7 +101,7 @@ Com o **AI Sales Team Management** você pode realizar:
 
 > ⚠️ Após transformar um time pai em um subtime, não é mais possível devolvê-lo ao nível raiz. Portanto, antes de criar os times, defina a hierarquia.
 
-### Ações em sales reps
+### Realizar ações em sales reps
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
@@ -103,7 +110,9 @@ Com o **AI Sales Team Management** você pode realizar:
 | Mover sales rep entre times | Nome do sales rep e do time de destino. | "Movimente o sales rep José Almeida para o time Sudeste" / "Mova José Almeida para time Nordeste." |
 | Remover sales rep do time | Nome do sales rep. Remover um sales rep de um time apenas desvincula a pessoa do time, mas ela permance como usuário da conta. | "Remova o sales rep José Almeida do time Vendas Sul." |
 
-### Ações em carteiras de clientes
+> ℹ️ Quando você cria, edita ou remove mais de um sales rep em uma mesma ação, seja via arquivo ou conversacional, caso exista algum erro, o agente apresenta as mensagens de erro e um canvas de validação com o que será feito. É necessário que você revise e confirme esse resumo para que a ação seja executada.
+
+### Realizar ações em carteiras de clientes
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
@@ -112,39 +121,13 @@ Com o **AI Sales Team Management** você pode realizar:
 
 > ℹ️ Não existe carteira individual fora de um subtime. Para um sales rep ter uma carteira exclusiva, crie um subtime apenas para essa pessoa e vincule os contratos ao subtime.
 
-### Ações comuns a times, sales reps e carteiras de clientes
+### Realizar ações comuns a times, sales reps e carteiras de clientes
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
 | Consultar a estrutura atual | Identificação do item a ser consultado. A resposta considera o nível de permissão do usuário às informações buscadas. | "Quais times existem na conta?" / "Quais contratos o Vendas Sul tem acesso?" / "Quais usuários existem no time Vendas Norte?" |
-| Desfazer criações recentes de times e sales rep | Informe a ação a ser desfeita. Com exceção da criação de vínculos de contrato, que não pode ser desfeita. | "Desfaça a criação do time Sul" / "Cancele a criação do sales rep José Almeida" / "Desfaça a definição da carteira de clientes do time Vendas Sul" |
+| Desfazer criações recentes de times e sales rep | Na mesma sessão, você pode desfazer criações recentes. Para isso, informe o item e a ação a ser desfeita. A criação de vínculos de contrato não pode ser desfeita pelo agente. | "Desfaça a criação do time Sul" / "Cancele a criação do sales rep José Almeida" / "Desfaça a definição da carteira de clientes do time Vendas Sul" |
 | Realizar ações em massa | Anexe um arquivo `.xlsx`, `.csv` ou `.txt` com os dados a serem alterados e descreva a ação desejada. | "Processe a planilha de sales reps" / "Segue a planilha com a carteira de clientes por time" / "Mova os sales reps conforme os times da planilha" |
-
-**Exemplos:**
-
-> ℹ️ O processamento parcial é o comportamento esperado. O agente lê o arquivo inteiro e separa as linhas válidas das inválidas, seguindo estas regras:
->
-> - As linhas válidas seguem no plano.
-> - Cada linha inválida, como uma linha sem email, é informada com o motivo da rejeição.
-
-### Revisar e confirmar o plano
-
-Antes de criar, editar ou remover qualquer item, o agente apresenta um plano com o que será feito. Revise o plano e confirme a operação para que o agente aplique as mudanças.
-
-Quando a alteração vale para mais de um usuário, por arquivo ou pela conversa, o agente mostra as mensagens de erro e um **canvas de validação** com o que será feito. Como essa mudança afeta vários usuários de uma vez, revise esse resumo antes de confirmar.
-
-### Desfazer uma ação
-
-| **Ação** | **Informações necessárias** | **Exemplos de instrução** |
-| :--- | :--- | :--- |
-
-Na mesma sessão, você pode desfazer criações recentes .
-
-**Exemplo:** "Desfaz a criação do time X."
-
-> ❗ O vínculo de um contrato não pode ser desfeito no **AI Sales Team Management**.
-
-| Desfazer uma criação recente | "Desfaz a criação do time X." Esse pedido não desfaz vínculo de contrato. |
 
 ## Vinculação entre contratos e times
 
