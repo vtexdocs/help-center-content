@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "User Rights API: Automated erasure of personal data",
+                    "es": "User Rights API: eliminación automatizada de datos personales",
+                    "pt": "User Rights API: exclusão automatizada de dados pessoais"
+                  },
+                  "slug": {
+                    "en": "2026-10-09-user-rights-api-automated-personal-data-erasure",
+                    "es": "2026-10-09-user-rights-api-automated-personal-data-erasure",
+                    "pt": "2026-10-09-user-rights-api-apagamento-automatizado-de-dados-pessoais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Agent Builder: More control over agent configuration and knowledge base",
                     "es": "Agent Builder: más control al configurar los agentes y la base de conocimiento",
                     "pt": "Agent Builder: mais controle na configuração de agentes e da base de conhecimento"
