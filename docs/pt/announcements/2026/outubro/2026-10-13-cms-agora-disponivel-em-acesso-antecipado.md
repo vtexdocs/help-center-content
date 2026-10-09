@@ -14,17 +14,28 @@ tags:
 
 O novo [VTEX CMS](https://help.vtex.com/pt/docs/tutorials/cms-visao-geral) já está disponível em Acesso Antecipado. Apresentamos um sistema de gerenciamento de conteúdo moderno e escalável, desenvolvido para ajudar lojistas a criar, colaborar e distribuir o conteúdo do storefront de forma mais eficiente e colaborativa.
 
-| <p align="center"><img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-conteudo-pt___0073aa95aa1b4f68a49ffcb635ea66ea.gif" alt="Todos os conteúdos" width="400" /></p> |
-|:---:|
-| **Todos os conteúdos:** crie, gerencie e publique todas as suas páginas, layouts, templates e seções globais do storefront a partir de um único dashboard. |
-
-| <p align="center"><img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-branches-pt___dff883f3564a889019d09e2e63be7e6e.gif" alt="Branches" width="400" /></p> |
-|:---:|
-| **Branches:** trabalhe em alterações de conteúdo em ambientes isolados e publique-as no storefront apenas quando estiver tudo pronto, sem interromper sua loja em produção. |
-
-| <p align="center"><img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-lojas-pt___bc5511d01dded18f5ae1acd1bff4569b.gif" alt="Lojas" width="400" /></p> |
-|:---:|
-| **Lojas:** vincule e gerencie múltiplos storefronts em um só lugar, configurando URLs de pré-visualização, integrações de repositório e configurações de localidade para cada loja. |
+<table style="border-spacing: 0 12px; border-collapse: separate; width: 100%; max-width: 480px; margin: 0 auto;">
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 12px; text-align: center; font-size: 14px;">
+        <img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-conteudo-pt___0073aa95aa1b4f68a49ffcb635ea66ea.gif" alt="Todos os conteúdos" style="max-width: 100%; border-radius: 8px;" />
+        <p><strong>Todos os conteúdos:</strong> crie, gerencie e publique todas as suas páginas, layouts, templates e seções globais do storefront a partir de um único dashboard.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 12px; text-align: center; font-size: 14px;">
+        <img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-branches-pt___dff883f3564a889019d09e2e63be7e6e.gif" alt="Branches" style="max-width: 100%; border-radius: 8px;" />
+        <p><strong>Branches:</strong> trabalhe em alterações de conteúdo em ambientes isolados e publique-as no storefront apenas quando estiver tudo pronto, sem interromper sua loja em produção.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 12px; text-align: center; font-size: 14px;">
+        <img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-lojas-pt___bc5511d01dded18f5ae1acd1bff4569b.gif" alt="Lojas" style="max-width: 100%; border-radius: 8px;" />
+        <p><strong>Lojas:</strong> vincule e gerencie múltiplos storefronts em um só lugar, configurando URLs de pré-visualização, integrações de repositório e configurações de localidade para cada loja.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## O que mudou?
 
