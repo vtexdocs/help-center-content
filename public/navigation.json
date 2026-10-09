@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Google Shopping: regionalization of the integration",
+                    "es": "Google Shopping: regionalización de la integración",
+                    "pt": "Google Shopping: regionalização da integração"
+                  },
+                  "slug": {
+                    "en": "2026-10-09-google-shopping-regionalization-of-the-integration",
+                    "es": "2026-10-09-google-shopping-regionalizacion-de-la-integracion",
+                    "pt": "2026-10-09-google-shopping-regionalizacao-da-integracao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "User Rights API: Automated erasure of personal data",
                     "es": "User Rights API: eliminación automatizada de datos personales",
                     "pt": "User Rights API: exclusão automatizada de dados pessoais"
@@ -122,52 +137,6 @@
                     "en": "2026-10-06-vtex-cx-platform-support-for-bsuid-and-whatsapp-usernames",
                     "es": "2026-10-06-vtex-cx-platform-soporte-para-bsuid-y-nombres-de-usuario-de-whatsapp",
                     "pt": "2026-10-06-vtex-cx-platform-suporte-a-bsuid-e-usernames-do-whatsapp"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Google Shopping: regionalization of the integration",
-                    "es": "Google Shopping: regionalización de la integración",
-                    "pt": "Google Shopping: regionalização da integração"
-                  },
-                  "slug": {
-                    "en": "2026-10-02-google-shopping-regionalization-of-the-integration",
-                    "es": "2026-10-02-google-shopping-regionalizacion-de-la-integracion",
-                    "pt": "2026-10-02-google-shopping-regionalizacao-da-integracao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Outubro",
-                "es": "Outubro",
-                "pt": "Outubro"
-              },
-              "slug": {
-                "en": "outubro",
-                "es": "outubro",
-                "pt": "2026-outubro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Google Shopping: regionalização da integração",
-                    "es": "Google Shopping: regionalização da integração",
-                    "pt": "Google Shopping: regionalização da integração"
-                  },
-                  "slug": {
-                    "en": "",
-                    "es": "",
-                    "pt": "2026-10-02-regionalizacao-do-google-shopping"
                   },
                   "origin": "",
                   "type": "markdown",
