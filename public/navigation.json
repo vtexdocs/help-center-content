@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Persistent login: set how long your customers stay authenticated",
+                    "es": "Inicio de sesión persistente: define por cuánto tiempo tus clientes permanecen autenticados",
+                    "pt": "Login persistente: defina por quanto tempo seus clientes permanecem autenticados"
+                  },
+                  "slug": {
+                    "en": "2026-10-16-persistent-login-set-how-long-your-customers-stay-authenticated",
+                    "es": "2026-10-16-inicio-de-sesion-persistente-define-por-cuanto-tiempo-tus-clientes-permanecen-autenticados",
+                    "pt": "2026-10-16-login-persistente-defina-por-quanto-tempo-seus-clientes-permanecem-autenticados"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "User Rights API: Automated erasure of personal data",
                     "es": "User Rights API: eliminación automatizada de datos personales",
                     "pt": "User Rights API: exclusão automatizada de dados pessoais"
