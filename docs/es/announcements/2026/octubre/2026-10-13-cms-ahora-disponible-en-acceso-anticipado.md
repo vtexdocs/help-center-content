@@ -71,7 +71,7 @@ Para comenzar a usar el nuevo CMS, elige una de estas opciones:
 * Solicitar una demostración o pedir la instalación o actualización del CMS: abre un ticket con el [Soporte VTEX](https://support.vtex.com/hc/es-419).  
 * Configurar el CMS en un proyecto FastStore por tu cuenta: sigue el [proceso de onboarding de FastStore](https://developers.vtex.com/docs/guides/faststore/getting-started-2-starting-the-project#step-2-setting-up-integrations) (en inglés).
 
-Cuando el CMS esté disponible en tu cuenta, ve a **Storefront \> Content** en el Admin VTEX para crear, gestionar y publicar contenido.
+Cuando el CMS esté disponible en tu cuenta, ve a **Storefront > Content** en el Admin VTEX para crear, gestionar y publicar contenido.
 
 ## Más información
 
