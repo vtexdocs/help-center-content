@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "VTEX CMS: now available for early access",
+                    "es": "VTEX CMS: ahora disponible en acceso anticipado",
+                    "pt": "VTEX CMS: agora disponível em acesso antecipado"
+                  },
+                  "slug": {
+                    "en": "2026-10-13-cms-now-available-for-early-access",
+                    "es": "2026-10-13-cms-ahora-disponible-en-acceso-anticipado",
+                    "pt": "2026-10-13-cms-agora-disponivel-em-acesso-antecipado"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Google Shopping: regionalization of the integration",
                     "es": "Google Shopping: regionalización de la integración",
                     "pt": "Google Shopping: regionalização da integração"
