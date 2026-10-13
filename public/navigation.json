@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "VTEX Shield: new Fraud Prevention feature",
+                    "es": "VTEX Shield: nueva funcionalidad de Prevención de fraude",
+                    "pt": "VTEX Shield: nova funcionalidade de Prevenção contra fraudes"
+                  },
+                  "slug": {
+                    "en": "2026-10-20-vtex-shield-fraud-prevention",
+                    "es": "2026-10-20-vtex-shield-prevencion-de-fraude",
+                    "pt": "2026-10-20-vtex-shield-prevencao-contra-fraudes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "VTEX CMS: now available for early access",
                     "es": "VTEX CMS: ahora disponible en acceso anticipado",
                     "pt": "VTEX CMS: agora disponível em acesso antecipado"
@@ -53350,21 +53365,6 @@
             },
             {
               "name": {
-                "en": "Filters by SKU specifications not considering regionalized availability",
-                "es": "Filtros por especificaciones SKU sin tener en cuenta la disponibilidad regionalizada",
-                "pt": "Filtra por especificações de SKU sem considerar a disponibilidade regionalizada"
-              },
-              "slug": {
-                "en": "filters-by-sku-specifications-not-considering-regionalized-availability",
-                "es": "filtros-por-especificaciones-sku-sin-tener-en-cuenta-la-disponibilidad-regionalizada",
-                "pt": "filtra-por-especificacoes-de-sku-sem-considerar-a-disponibilidade-regionalizada"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Price filter applied on top of \"spot price\" instead of regular price",
                 "es": "El filtro de precios se aplica al «precio al contado» en lugar de al precio habitual",
                 "pt": "Filtro de preço aplicado sobre o \"preço à vista\" em vez do preço normal"
@@ -53388,6 +53388,21 @@
                 "en": "filters-by-sku-specifications-not-considering-specific-trade-policy",
                 "es": "filtra-por-especificaciones-sku-sin-tener-en-cuenta-la-politica-comercial-especifica",
                 "pt": "filtros-por-especificacoes-de-sku-que-nao-consideram-uma-politica-comercial-especifica"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Filters by SKU specifications not considering regionalized availability",
+                "es": "Filtros por especificaciones de SKU sin tener en cuenta la disponibilidad regional.",
+                "pt": "Filtros por especificações de SKU, sem considerar a disponibilidade regional."
+              },
+              "slug": {
+                "en": "filters-by-sku-specifications-not-considering-regionalized-availability",
+                "es": "filtros-por-especificaciones-de-sku-sin-tener-en-cuenta-la-disponibilidad-regional",
+                "pt": "filtros-por-especificacoes-de-sku-sem-considerar-a-disponibilidade-regional"
               },
               "origin": "",
               "type": "markdown",
