@@ -1,18 +1,18 @@
 ---
-title: "VTEX CMS: now available for Early Access"
+title: "VTEX CMS: now available for early access"
 createdAt: "2026-10-13T17:08:52.219Z"
 updatedAt: "2026-10-13T17:08:52.219Z"
 contentType: updates
 productTeam: CMS
 slugEN: 2026-10-13-cms-now-available-for-early-access
 locale: en
-announcementSynopsisEN: 'The new VTEX CMS is now available for Early Access, replacing Headless CMS (Legacy) with a modern system to create, collaborate on, and publish storefront content.'
+announcementSynopsisEN: 'The new VTEX CMS is now available for early access, replacing Headless CMS (Legacy) with a modern system to create, collaborate on, and publish storefront content.'
 tags:
   - New feature
   - Storefront
 ---
 
-The new [VTEX CMS](https://help.vtex.com/docs/tutorials/cms-overview) is now available for Early Access. Introducing a modern, scalable content management system designed to help merchants create, collaborate, and distribute storefront content more efficiently and collaboratively.
+The new [VTEX CMS](https://help.vtex.com/docs/tutorials/cms-overview) is now available for early access. Introducing a modern, scalable content management system designed to help merchants create, collaborate, and distribute storefront content more efficiently and collaboratively.
 
 <table style="border-spacing: 0 12px; border-collapse: separate; width: 100%; max-width: 200px; margin: 0 auto;">
   <tbody>
