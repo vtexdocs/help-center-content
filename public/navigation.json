@@ -161,6 +161,37 @@
             },
             {
               "name": {
+                "en": "Outubro",
+                "es": "Outubro",
+                "pt": "Outubro"
+              },
+              "slug": {
+                "en": "outubro",
+                "es": "outubro",
+                "pt": "2026-outubro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Delivery Promise: agora disponível para todos os lojistas",
+                    "es": "Delivery Promise: agora disponível para todos os lojistas",
+                    "pt": "Delivery Promise: agora disponível para todos os lojistas"
+                  },
+                  "slug": {
+                    "en": "",
+                    "es": "",
+                    "pt": "2026-10-13-delivery-promise-agora-disponivel-para-todos-os-lojistas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "September",
                 "es": "Septiembre",
                 "pt": "Setembro"
@@ -22272,6 +22303,67 @@
           "children": [
             {
               "name": {
+                "en": "Delivery Promise",
+                "es": "Delivery Promise",
+                "pt": "Delivery Promise"
+              },
+              "slug": {
+                "en": "delivery-promise-subcategory",
+                "es": "delivery-promise-subcategoria",
+                "pt": "delivery-promise-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Activating Delivery Promise",
+                    "es": "Activar Delivery Promise",
+                    "pt": "Ativar o Delivery Promise"
+                  },
+                  "slug": {
+                    "en": "activate-delivery-promise",
+                    "es": "activar-delivery-promise",
+                    "pt": "ativar-delivery-promise"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Delivery Promise",
+                    "es": "Delivery Promise",
+                    "pt": "Delivery Promise"
+                  },
+                  "slug": {
+                    "en": "delivery-promise",
+                    "es": "delivery-promise",
+                    "pt": "delivery-promise"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Delivery Promise: FAQ",
+                    "es": "Delivery Promise: FAQ",
+                    "pt": "Delivery Promise: FAQ"
+                  },
+                  "slug": {
+                    "en": "delivery-promise-faq",
+                    "es": "delivery-promise-faq",
+                    "pt": "delivery-promise-faq"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Inventory",
                 "es": "Inventario",
                 "pt": "Inventário"
@@ -36319,51 +36411,6 @@
               "origin": "",
               "type": "category",
               "children": [
-                {
-                  "name": {
-                    "en": "Activating Delivery Promise",
-                    "es": "Activar Delivery Promise",
-                    "pt": "Ativar o Delivery Promise"
-                  },
-                  "slug": {
-                    "en": "activate-delivery-promise",
-                    "es": "activar-delivery-promise",
-                    "pt": "ativar-delivery-promise"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Delivery Promise (Beta)",
-                    "es": "Delivery Promise (beta)",
-                    "pt": "Delivery Promise (Beta)"
-                  },
-                  "slug": {
-                    "en": "delivery-promise-beta",
-                    "es": "delivery-promise-beta",
-                    "pt": "delivery-promise-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Delivery Promise: FAQ",
-                    "es": "Delivery Promise: FAQ",
-                    "pt": "Delivery Promise: FAQ"
-                  },
-                  "slug": {
-                    "en": "delivery-promise-faq",
-                    "es": "delivery-promise-faq",
-                    "pt": "delivery-promise-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Delivery Options (Beta)",
@@ -53350,21 +53397,6 @@
             },
             {
               "name": {
-                "en": "Filters by SKU specifications not considering regionalized availability",
-                "es": "Filtros por especificaciones SKU sin tener en cuenta la disponibilidad regionalizada",
-                "pt": "Filtra por especificações de SKU sem considerar a disponibilidade regionalizada"
-              },
-              "slug": {
-                "en": "filters-by-sku-specifications-not-considering-regionalized-availability",
-                "es": "filtros-por-especificaciones-sku-sin-tener-en-cuenta-la-disponibilidad-regionalizada",
-                "pt": "filtra-por-especificacoes-de-sku-sem-considerar-a-disponibilidade-regionalizada"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Price filter applied on top of \"spot price\" instead of regular price",
                 "es": "El filtro de precios se aplica al «precio al contado» en lugar de al precio habitual",
                 "pt": "Filtro de preço aplicado sobre o \"preço à vista\" em vez do preço normal"
@@ -53388,6 +53420,21 @@
                 "en": "filters-by-sku-specifications-not-considering-specific-trade-policy",
                 "es": "filtra-por-especificaciones-sku-sin-tener-en-cuenta-la-politica-comercial-especifica",
                 "pt": "filtros-por-especificacoes-de-sku-que-nao-consideram-uma-politica-comercial-especifica"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Filters by SKU specifications not considering regionalized availability",
+                "es": "Filtros por especificaciones de SKU sin tener en cuenta la disponibilidad regional.",
+                "pt": "Filtros por especificações de SKU, sem considerar a disponibilidade regional."
+              },
+              "slug": {
+                "en": "filters-by-sku-specifications-not-considering-regionalized-availability",
+                "es": "filtros-por-especificaciones-de-sku-sin-tener-en-cuenta-la-disponibilidad-regional",
+                "pt": "filtros-por-especificacoes-de-sku-sem-considerar-a-disponibilidade-regional"
               },
               "origin": "",
               "type": "markdown",
