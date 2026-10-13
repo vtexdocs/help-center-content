@@ -1,7 +1,7 @@
 ---
 title: 'Payment Provider Protocol'
 createdAt: 2018-01-02T15:40:00.920Z
-updatedAt: 2026-10-07T00:00:00.000Z
+updatedAt: 2026-10-13T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
 slugEN: payment-provider-protocol
