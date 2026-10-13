@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-Veja a seguir perguntas comuns relacionadas à **[Delivery Promise (Beta)](/pt/docs/tutorials/delivery-promise-beta)**:
+Veja a seguir perguntas comuns relacionadas à **[Delivery Promise](/pt/docs/tutorials/delivery-promise)**:
 
 ## 1. Quais são os requisitos para o produto aparecer na vitrine?
 
@@ -29,9 +29,9 @@ O lojista precisa garantir a correta configuração dos seguintes aspectos do pr
 
 > ℹ️ Para mais informações, veja o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site).
 
-## 2. A Delivery Promise (Beta) garante a exibição de todos os meus produtos na vitrine?
+## 2. A Delivery Promise garante a exibição de todos os meus produtos na vitrine?
 
-A **Delivery Promise (Beta)** exibe produtos apenas quando todos os [requisitos de exibição](#1-quais-sao-os-requisitos-para-o-produto-aparecer-na-vitrine) estão corretamente configurados. Se a indisponibilidade de um produto for causada por configurações incorretas ou pela falta de estoque desse produto, ele não será exibido na vitrine, mesmo com a nova funcionalidade. Para saber mais, veja o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site).
+A **Delivery Promise** exibe produtos apenas quando todos os [requisitos de exibição](#1-quais-sao-os-requisitos-para-o-produto-aparecer-na-vitrine) estão corretamente configurados. Se a indisponibilidade de um produto for causada por configurações incorretas ou pela falta de estoque desse produto, ele não será exibido na vitrine, mesmo com a nova funcionalidade. Para saber mais, veja o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site).
 
 ## 3. Com relação ao estoque do produto, como posso garantir que ele vai aparecer na vitrine?
 
@@ -41,16 +41,16 @@ Existem três formas pelas quais isso pode ser feito:
 * Habilitar a configuração [estoque infinito](/pt/docs/tutorials/gerenciar-itens-em-estoque) para o produto.
 * Configurar o produto para aparecer na vitrine mesmo quando estiver esgotado. Para isso, acesse **Catálogo > Todos os produtos** no Admin VTEX e, na página de configuração do produto, na aba Produto, marque a opção **Sim** no campo `Mostrar quando estiver fora de estoque`.
 
-## 4. Para utilizar a Delivery Promise (Beta), preciso solicitar a localização do cliente?
+## 4. Para utilizar a Delivery Promise, preciso solicitar a localização do cliente?
 
-Sim. O funcionamento da **Delivery Promise (Beta)** só é possível quando o cliente informa seu endereço ou quando a VTEX infere sua localidade. Essa inferência pode ser feita das seguintes formas:
+Sim. O funcionamento da **Delivery Promise** só é possível quando o cliente informa seu endereço ou quando a VTEX infere sua localidade. Essa inferência pode ser feita das seguintes formas:
 
 * O endereço do cliente é capturado automaticamente quando ele aceita o plugin do navegador para compartilhar sua localização.
 * Caso o navegador não tenha o plugin mencionado ou o cliente se recuse a compartilhar sua localização, a inferência do endereço será feita com base no endereço IP do dispositivo do cliente.
 
 Em todas as opções mencionadas, o cliente tem a opção de a qualquer tempo fornecer seu endereço ou um endereço diferente.
 
-## 5. No contexto da Delivery Promise (Beta), o que acontece se o cliente se recusa a compartilhar sua localização e a VTEX não consegue inferir seu endereço?
+## 5. No contexto da Delivery Promise, o que acontece se o cliente se recusa a compartilhar sua localização e a VTEX não consegue inferir seu endereço?
 
 Neste caso, o lojista pode utilizar uma entre as seguintes estratégias:
 
@@ -65,18 +65,18 @@ Essa configuração deve ser feita nas [planilhas de frete](/pt/docs/tutorials/p
 
 ## 7. O que acontece com quem usa a funcionalidade Regionalização? 
 
-A **Delivery Promise (Beta)** substitui todas as funcionalidades existentes no [Region V1](/pt/docs/tutorials/configurar-a-regionalizacao-de-sellers) e V2, além de acrescentar melhorias de performance, experiência de compra e novas funcionalidades. Como a solução ainda está em desenvolvimento, a regionalização de sellers continua sendo usada normalmente pelos clientes que não participam da **Delivery Promise (Beta)**.
+A **Delivery Promise** substitui todas as funcionalidades existentes no [Region V1](/pt/docs/tutorials/configurar-a-regionalizacao-de-sellers) e V2, além de acrescentar melhorias de performance, experiência de compra e novas funcionalidades. A regionalização de sellers continua disponível para as lojas que não ativaram a **Delivery Promise**.
 
-## 8. Com a Delivery Promise (Beta) será possível exibir filtros e tags de frete grátis?
+## 8. Com a Delivery Promise será possível exibir filtros e tags de frete grátis?
 
-Não. A versão beta da **Delivery Promise** não oferece filtros do tipo frete grátis. Os filtros disponíveis incluem: prazo de envio, tipo de envio (retirada ou entrega) e ponto de retirada.
+Não. A **Delivery Promise** não oferece filtros do tipo frete grátis. Os filtros disponíveis incluem: prazo de envio, tipo de envio (retirada ou entrega) e ponto de retirada.
 
-## 9. Posso não utilizar a Delivery Promise (Beta)?
+## 9. Posso não utilizar a Delivery Promise?
 
 Sim. O uso da funcionalidade é opcional. Caso você não queira solicitar a localização do comprador, você pode continuar utilizando a solução atual de navegação do cliente sem localização definida, e associar ou não a [sellers abrangentes](/pt/docs/tutorials/seller-abrangente). 
 
-No entanto, a VTEX recomenda o uso da **Delivery Promise (Beta)** para oferecer uma melhor experiência de compra.
+No entanto, a VTEX recomenda o uso da **Delivery Promise** para oferecer uma melhor experiência de compra.
 
-## 10. Os filtros do Delivery Promise (Beta) se aplicam a sellers externos?
+## 10. Os filtros do Delivery Promise se aplicam a sellers externos?
 
 Sim. A experiência de filtros (por CEP, método de envio, prazo, ponto de retirada) e de outros componentes se aplica a produtos de sellers VTEX, do [Seller Portal](https://help.vtex.com/pt/docs/tutorials/seller-portal-primeiros-passos-para-o-marketplace) e externos.

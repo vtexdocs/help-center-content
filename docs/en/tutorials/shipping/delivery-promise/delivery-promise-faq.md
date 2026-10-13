@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-Below are some frequently asked questions about **[Delivery Promise (Beta)](/en/docs/tutorials/delivery-promise-beta)**:
+Below are some frequently asked questions about **[Delivery Promise](/en/docs/tutorials/delivery-promise)**:
 
 ## 1. What are the requirements for a product to be displayed on the product listing page?
 
@@ -29,9 +29,9 @@ The merchant must ensure that the following product aspects are correctly config
 
 > ℹ️ For more information, see the article [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website).
 
-## 2. Does Delivery Promise (Beta) guarantee that all my products will be displayed on the product listing page?
+## 2. Does Delivery Promise guarantee that all my products will be displayed on the product listing page?
 
-When the required configurations for displaying a product on the product listing page are set correctly, **Delivery Promise (Beta)** displays your entire product assortment and their sellers on the product listing page. If a product is unavailable due to incorrect settings or a stockout, it won't be displayed on the product listing page, even with this feature. To learn more, see the article [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website).
+When the required configurations for displaying a product on the product listing page are set correctly, **Delivery Promise** displays your entire product assortment and their sellers on the product listing page. If a product is unavailable due to incorrect settings or a stockout, it won't be displayed on the product listing page, even with this feature. To learn more, see the article [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website).
 
 ## 3. Regarding product availability, how can I ensure the product will be displayed on the product listing page?
 
@@ -41,16 +41,16 @@ There are three ways to do this:
 * Enable the [unlimited inventory](/en/docs/tutorials/managing-stock-items) configuration for the product.
 * Configure the product to be displayed on the product listing page even when it's out of stock. To do this, go to **Catalog > Products and SKUs** in the VTEX Admin and, on the product configuration page, in the Product tab, check **Yes** in the `Show when out of stock` field.
 
-## 4. To use Delivery Promise (Beta), do I need to request the customer's location?
+## 4. To use Delivery Promise, do I need to request the customer's location?
 
-**Delivery Promise (Beta)** only works when the customer provides their address or when VTEX infers their location. This identification can be done in the following ways:
+**Delivery Promise** only works when the customer provides their address or when VTEX infers their location. This identification can be done in the following ways:
 
 * When the customer accepts the browser plugin to share their location, the address is automatically captured.
 * The customer provides their address in the Delivery Promise postal code component.
 
 In all these options, the customer can provide their address or a different one at any time.
 
-## 5. In the Delivery Promise (Beta) context, what happens if the customer refuses to share their location and VTEX can't identify it?
+## 5. In the Delivery Promise context, what happens if the customer refuses to share their location and VTEX can't identify it?
 
 In this case, the merchant can use one of the following strategies:
 
@@ -59,20 +59,20 @@ In this case, the merchant can use one of the following strategies:
 
 ## 6. Where do I configure which stores cover specific postal codes?
 
-Even for those using **Delivery Promise (Beta)**, you still configure this using the [shipping rate template](/en/docs/tutorials/shipping-rate-template) of the sellers' [shipping policies](/en/docs/tutorials/shipping-policy).
+Even for those using **Delivery Promise**, you still configure this using the [shipping rate template](/en/docs/tutorials/shipping-rate-template) of the sellers' [shipping policies](/en/docs/tutorials/shipping-policy).
 
 ## 7. What happens if I use the Region feature?
 
-**Delivery Promise (Beta)** replaces all existing features in [Region V1](/en/docs/tutorials/configure-seller-regionalization) and V2, improving performance, the shopping experience, and adding new features. Since **Delivery Promise** is in beta, seller regionalization is still being used by customers who aren't participating in the beta phase.
+**Delivery Promise** replaces all existing features in [Region V1](/en/docs/tutorials/configure-seller-regionalization) and V2, improving performance, the shopping experience, and adding new features. Seller regionalization remains available for stores that haven't activated **Delivery Promise**.
 
-## 8. Can I display free shipping filters and tags with Delivery Promise (Beta)?
+## 8. Can I display free shipping filters and tags with Delivery Promise?
 
-The current beta phase doesn't include free shipping components. For now, we provide filter options and other storefront components by delivery target, delivery method (pickup or shipping), and pickup point.
+Delivery Promise doesn't include free shipping components. It provides filter options and other storefront components by delivery target, delivery method (pickup or shipping), and pickup point.
 
-## 9. What if I don't want to use Delivery Promise (Beta)?
+## 9. What if I don't want to use Delivery Promise?
 
-Using Delivery Promise (Beta) is optional. If you don't want to request the customer's location, you can continue using the current customer navigation solution without a defined location and choose whether to link it to [comprehensive sellers](/en/docs/tutorials/comprehensive-seller). However, we recommend using **Delivery Promise (Beta)** to provide the best shopping experience on the product listing page.
+Using Delivery Promise is optional. If you don't want to request the customer's location, you can continue using the current customer navigation solution without a defined location and choose whether to link it to [comprehensive sellers](/en/docs/tutorials/comprehensive-seller). However, we recommend using **Delivery Promise** to provide the best shopping experience on the product listing page.
 
-## 10. Do Delivery Promise (Beta) filters apply to external sellers?
+## 10. Do Delivery Promise filters apply to external sellers?
 
 The filters (by postal code, shipping method, delivery target, pickup point) and other components apply to products from VTEX sellers, [Seller Portal](https://help.vtex.com/docs/tutorials/seller-portal-getting-started-for-the-marketplace) sellers, and external sellers.
