@@ -1,7 +1,7 @@
 ---
 title: 'Fraud Prevention'
 createdAt: 2026-03-27T00:00:00.000Z
-updatedAt: 2026-10-13T19:34:16.000Z
+updatedAt: 2026-10-13T20:27:00.000Z
 contentType: tutorial
 productTeam: Others
 slugEN: fraud-prevention
@@ -50,11 +50,11 @@ The **Detection history** table displays the details of the analyzed attempts:
 
 ## Required permissions
 
-To access and manage the Fraud Prevention feature, the user must have a [role](https://help.vtex.com/en/docs/tutorials/roles) with the [License Manager features](https://help.vtex.com/en/docs/tutorials/license-manager-resources) listed below:
+To access the Fraud Prevention feature, the user must have a [role](https://help.vtex.com/en/docs/tutorials/roles) with the [License Manager resource](https://help.vtex.com/en/docs/tutorials/license-manager-resources) listed below:
 
 * **Product:** *Fraud Prevention*
 * **Category:** *Transaction Attempts*
-* **Resources:** *View transaction attempts* and *Edit transaction attempt action settings*
+* **Resource:** *View transaction attempts*
 
 ## Filter transaction attempts by period
 
