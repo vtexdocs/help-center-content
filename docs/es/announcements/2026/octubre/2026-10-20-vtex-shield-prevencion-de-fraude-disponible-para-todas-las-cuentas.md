@@ -1,10 +1,10 @@
 ---
-title: 'VTEX Shield: nueva funcionalidad de Prevención de fraude'
+title: 'VTEX Shield: Prevención de fraude disponible para todas las cuentas'
 createdAt: 2026-10-20T12:00:00.000Z
 updatedAt: 2026-10-20T12:00:00.000Z
 contentType: updates
 productTeam: Others
-slugEN: 2026-10-20-vtex-shield-fraud-prevention
+slugEN: 2026-10-20-vtex-shield-fraud-prevention-available-for-all-accounts
 locale: es
 announcementSynopsisES: 'VTEX Shield ahora ofrece Prevención de fraude para detectar y bloquear ataques de prueba de tarjetas en el checkout.'
 tags:
