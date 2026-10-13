@@ -1,18 +1,12 @@
 ---
 title: 'Qué es el PCI SSC'
-id: 4jo3Vkox3amSO2w4qIWa0E
-status: PUBLISHED
 createdAt: 2019-01-24T20:45:48.373Z
-updatedAt: 2024-07-23T15:26:30.020Z
-publishedAt: 2024-07-23T15:26:30.020Z
-firstPublishedAt: 2019-01-24T22:12:41.627Z
+updatedAt: 2026-10-13T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: authors_84
 slugEN: what-is-the-pci-ssc
-legacySlug: que-es-el-pci-ssc
 locale: es
-subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
+hidden: false
 ---
 
 PCI Security Standards Council es un foro abierto a nivel mundial para el continuo desarrollo, mejora, almacenamiento, difusión y aplicación de las normas de seguridad para la protección de datos.

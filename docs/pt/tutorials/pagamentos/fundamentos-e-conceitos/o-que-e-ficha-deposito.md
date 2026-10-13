@@ -1,7 +1,7 @@
 ---
 title: 'O que é Ficha Depósito'
 createdAt: 2019-01-24T20:45:35.451Z
-updatedAt: 2026-10-09T00:00:00.000Z
+updatedAt: 2026-10-13T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
 slugEN: what-is-deposit-slip

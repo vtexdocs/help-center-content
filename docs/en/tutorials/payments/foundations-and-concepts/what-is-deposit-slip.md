@@ -1,18 +1,12 @@
 ---
 title: 'What is Deposit Slip'
-id: 5zcak00O9G2KqoysQggus6
-status: PUBLISHED
 createdAt: 2019-01-24T20:45:35.451Z
-updatedAt: 2024-03-18T13:03:11.449Z
-publishedAt: 2024-03-18T13:03:11.449Z
-firstPublishedAt: 2019-01-24T22:10:45.867Z
+updatedAt: 2026-10-13T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 245tA425AIeioKAk2eaiwS
 slugEN: what-is-deposit-slip
-legacySlug: what-is-deposit-slip
 locale: en
-subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
+hidden: false
 ---
 
 Deposit Slip is a popular payment method in __Mexico__. Its operation is very similar to Brazilian Boletos, but with a difference: payment can only be made at authorized places.

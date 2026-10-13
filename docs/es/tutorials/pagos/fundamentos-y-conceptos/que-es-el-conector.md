@@ -1,18 +1,12 @@
 ---
 title: '¿Qué es el conector?'
-id: 3lze0Cu0bmyC6u2o2iaeEA
-status: PUBLISHED
 createdAt: 2018-02-08T21:31:32.599Z
-updatedAt: 2019-12-31T15:29:12.894Z
-publishedAt: 2019-12-31T15:29:12.894Z
-firstPublishedAt: 2018-02-08T22:18:43.418Z
+updatedAt: 2026-10-13T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 245tA425AIeioKAk2eaiwS
 slugEN: what-is-the-connector
-legacySlug: que-es-el-conector
 locale: es
-subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
+hidden: false
 ---
 
 Los conectores son protocolos de comunicación que su tienda necesita utilizar para habilitar la transmisión de datos entre ella y adquirentes, subadquirentes o gateways.
