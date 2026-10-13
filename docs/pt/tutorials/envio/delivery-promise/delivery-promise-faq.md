@@ -79,4 +79,4 @@ No entanto, a VTEX recomenda o uso da **Delivery Promise** para oferecer uma mel
 
 ## 10. Os filtros do Delivery Promise se aplicam a sellers externos?
 
-Sim. A experiência de filtros (por CEP, método de envio, prazo, ponto de retirada) e de outros componentes se aplica a produtos de sellers VTEX, do [Seller Portal](https://help.vtex.com/pt/docs/tutorials/seller-portal-primeiros-passos-para-o-marketplace) e externos.
+Sim. A experiência de filtros (por CEP, método de envio, prazo, ponto de retirada) e de outros componentes se aplica a produtos de sellers VTEX, de sellers do [Seller Portal](https://help.vtex.com/pt/docs/tutorials/seller-portal-primeiros-passos-para-o-marketplace) e de sellers externos.
