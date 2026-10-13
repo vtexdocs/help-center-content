@@ -3,7 +3,7 @@ title: 'VTEX Shield'
 id: 2CVk6H9eY2CBtHjtDI7BFh
 status: PUBLISHED
 createdAt: 2024-04-25T00:31:01.895Z
-updatedAt: 2025-05-21T23:32:42.108Z
+updatedAt: 2026-10-13T19:34:16.000Z
 publishedAt: 2025-05-21T23:32:42.108Z
 firstPublishedAt: 2024-04-25T01:19:00.025Z
 contentType: tutorial
@@ -28,6 +28,8 @@ Al contratar VTEX Shield tienes la opción de elegir entre las siguientes funcio
 * [Data Protection Plus](#data-protection-plus)
 * [Certificados SSL personalizados](#certificados-ssl-personalizados)
 * [Mutual Transport Layer Security (mTLS)](#mutual-transport-layer-security-mtls)
+
+Además de estas funcionalidades, VTEX Shield incluye la [Prevención de fraude](#prevención-de-fraude), que está disponible para todas las cuentas, sin necesidad de contratar el producto.
 
 ## Security Monitor
 
@@ -64,3 +66,9 @@ Para atender esa necesidad, la página **Certificados SSL** permite instalar y g
 Mutual Transport Layer Security (mTLS) es una solución de seguridad avanzada ofrecida por VTEX Shield, que refuerza la protección de las integraciones entre sistemas externos y VTEX. Esta capa extra de protección es aplicable a escenarios de integración vía APIs, como tiendas headless o conexiones con ERPs y WMS.
 
 A diferencia del TLS tradicional, en el que sólo el servidor tiene que demostrar su identidad, el mTLS requiere autenticación mutua: tanto el cliente como el servidor presentan certificados digitales válidos, lo que garantiza que ambas partes de la comunicación son dignas de confianza antes de intercambiar datos. Más información en [Mutual Transport Layer Security (mTLS)](/es/docs/tutorials/mutual-transport-layer-security-mtls).
+
+## Prevención de fraude
+
+La Prevención de fraude protege tu tienda contra ataques de pruebas de tarjetas (card testing), analizando cada intento de pago en el checkout y asignando una puntuación de fraude que indica la probabilidad de que la transacción forme parte de un ataque.
+
+Aunque forma parte de VTEX Shield, esta funcionalidad está disponible para todas las cuentas, sin necesidad de contratar el producto. Más información en [Prevención de fraude](https://help.vtex.com/es/docs/tutorials/prevencion-de-fraude).
