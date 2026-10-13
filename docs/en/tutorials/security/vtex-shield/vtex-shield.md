@@ -29,7 +29,7 @@ When requesting VTEX Shield, you can choose from the following features:
 * [Customized SSL Certificates](#customized-ssl-certificates)
 * [Mutual Transport Layer Security (mTLS)](#mutual-transport-layer-security-mtls)
 
-In addition to these features, VTEX Shield includes [Fraud Prevention](#fraud-prevention), which is available to all accounts, with no need to adopt the product.
+VTEX Shield makes [Fraud Prevention](#fraud-prevention) available to all accounts, regardless of whether you adopt the other features.
 
 ## Security Monitor
 
@@ -71,4 +71,4 @@ Unlike traditional TLS, in which only the server needs to prove its identity, mT
 
 Fraud Prevention protects your store against card testing attacks by analyzing each payment attempt at checkout and assigning a fraud score that indicates the probability that the transaction is part of an attack.
 
-Although it is part of VTEX Shield, this feature is available to all accounts, with no need to adopt the product. Learn more at [Fraud Prevention](https://help.vtex.com/en/docs/tutorials/fraud-prevention).
+Although it is part of VTEX Shield, this feature is available to all accounts, regardless of whether you adopt the other features of the product. Learn more at [Fraud Prevention](https://help.vtex.com/en/docs/tutorials/fraud-prevention).

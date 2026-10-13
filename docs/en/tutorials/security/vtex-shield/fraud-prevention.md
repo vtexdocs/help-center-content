@@ -8,7 +8,7 @@ slugEN: fraud-prevention
 locale: en
 ---
 
-**Fraud Prevention** is a security feature that is part of **VTEX Shield** and is available to all accounts. It protects your store against card testing attacks.
+**Fraud Prevention** is a security feature that is part of [VTEX Shield](https://help.vtex.com/en/docs/tutorials/vtex-shield) and is available to all accounts. It protects your store against card testing attacks.
 
 >ℹ️ To learn about the other [VTEX Shield](https://help.vtex.com/en/docs/tutorials/vtex-shield) features, please contact [Commercial Support](https://help.vtex.com/en/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client yet but are interested in this solution, please complete our [contact form](https://vtex.com/en-us/contact-us/).
 

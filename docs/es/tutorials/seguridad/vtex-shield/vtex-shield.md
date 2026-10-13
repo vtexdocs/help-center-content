@@ -29,7 +29,7 @@ Al contratar VTEX Shield tienes la opción de elegir entre las siguientes funcio
 * [Certificados SSL personalizados](#certificados-ssl-personalizados)
 * [Mutual Transport Layer Security (mTLS)](#mutual-transport-layer-security-mtls)
 
-Además de estas funcionalidades, VTEX Shield incluye la [Prevención de fraude](#prevención-de-fraude), que está disponible para todas las cuentas, sin necesidad de contratar el producto.
+VTEX Shield pone a disposición de todas las cuentas la [Prevención de fraude](#prevención-de-fraude), independientemente de la contratación de las demás funcionalidades.
 
 ## Security Monitor
 
@@ -71,4 +71,4 @@ A diferencia del TLS tradicional, en el que sólo el servidor tiene que demostra
 
 La Prevención de fraude protege tu tienda contra ataques de pruebas de tarjetas (card testing), analizando cada intento de pago en el checkout y asignando una puntuación de fraude que indica la probabilidad de que la transacción forme parte de un ataque.
 
-Aunque forma parte de VTEX Shield, esta funcionalidad está disponible para todas las cuentas, sin necesidad de contratar el producto. Más información en [Prevención de fraude](https://help.vtex.com/es/docs/tutorials/prevencion-de-fraude).
+Aunque forma parte de VTEX Shield, esta funcionalidad está disponible para todas las cuentas, independientemente de la contratación de las demás funcionalidades del producto. Más información en [Prevención de fraude](https://help.vtex.com/es/docs/tutorials/prevencion-de-fraude).

@@ -8,7 +8,7 @@ slugEN: fraud-prevention
 locale: pt
 ---
 
-A **Prevenção contra fraudes** é uma funcionalidade de segurança que faz parte do **VTEX Shield** e está disponível para todas as contas. Ela protege sua loja contra ataques de esquenta cartão (*card attack*).
+A **Prevenção contra fraudes** é uma funcionalidade de segurança que faz parte do [VTEX Shield](https://help.vtex.com/pt/docs/tutorials/vtex-shield) e está disponível para todas as contas. Ela protege sua loja contra ataques de esquenta cartão (*card attack*).
 
 >ℹ️ Para conhecer as demais funcionalidades do [VTEX Shield](https://help.vtex.com/pt/docs/tutorials/vtex-shield), entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/docs/tracks/suporte-comercial). É possível que taxas adicionais se apliquem. Se ainda não é cliente da VTEX, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
 
