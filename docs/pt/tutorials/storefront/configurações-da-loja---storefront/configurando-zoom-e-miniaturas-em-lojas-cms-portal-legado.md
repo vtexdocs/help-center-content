@@ -24,11 +24,11 @@ Em sua loja CMS Portal (Legado), você pode configurar os seguintes efeitos de e
 
 ## Antes de começar
 
-Antes de configurar o zoom ou miniaturas em sua loja, leia o artigo [Configurar tipos de arquivos](/pt/docs/tutorials/configurar-tipos-de-arquivos) para saber como configurar os tipos de arquivos.
+Antes de configurar o zoom ou miniaturas em sua loja, leia o artigo [Configurar tipos de arquivos](/pt/docs/tutorials/configurando-tipos-de-arquivos) para saber como configurar os tipos de arquivos.
 
 ## Configurar zoom
 
-Para o zoom de produto funcionar corretamente na sua loja **CMS Portal (Legado)**, configure o tipo `Produto - Zoom` em **Configurações da loja > Storefront > Configurações > Tipos de arquivos**. Saiba mais em [Configurar tipos de arquivos](/pt/docs/tutorials/configurar-tipos-de-arquivos).
+Para o zoom de produto funcionar corretamente na sua loja **CMS Portal (Legado)**, configure o tipo `Produto - Zoom` em **Configurações da loja > Storefront > Configurações > Tipos de arquivos**. Saiba mais em [Configurar tipos de arquivos](/pt/docs/tutorials/configurando-tipos-de-arquivos).
 
 Por padrão, esse tipo costuma vir com **1000×1000** pixels. Isso significa que:
 
@@ -48,7 +48,7 @@ As miniaturas (ou *thumbs*) permitem o carregamento rápido da página e facilit
 
 Para isso, as imagens são redimensionadas e comprimidas de acordo com a configuração do CMS. Se o tamanho do arquivo (em KB) for muito baixo, a compressão pode comprometer a qualidade da miniatura.
 
-Para as miniaturas de produto serem exibidas com qualidade adequada na sua loja **CMS Portal (Legado)**, configure o tipo `Produto - Thumb` em **Configurações da loja > Storefront > Configurações > Tipos de arquivos**. Saiba mais em [Configurar tipos de arquivos](/pt/docs/tutorials/configurar-tipos-de-arquivos).
+Para as miniaturas de produto serem exibidas com qualidade adequada na sua loja **CMS Portal (Legado)**, configure o tipo `Produto - Thumb` em **Configurações da loja > Storefront > Configurações > Tipos de arquivos**. Saiba mais em [Configurar tipos de arquivos](/pt/docs/tutorials/configurando-tipos-de-arquivos).
 
 O campo **Tamanho Máximo em KB** desse tipo define o limite de compressão das miniaturas. Isso significa que:
 
