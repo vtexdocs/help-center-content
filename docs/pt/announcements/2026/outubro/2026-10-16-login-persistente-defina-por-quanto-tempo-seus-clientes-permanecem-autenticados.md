@@ -20,7 +20,7 @@ Agora você pode definir por quantos dias seus clientes permanecem autenticados 
 
 ## O que mudou?
 
-Por padrão, a sessão de login dos clientes na loja virtual expira após 24 horas. Antes, para estender esse período, era necessário abrir um chamado com o Suporte VTEX para solicitar a ativação do refresh token e definir o tempo de expiração. Agora, com o login persistente habilitado, além do cookie de acesso, que continua com duração fixa de 24 horas, a plataforma emite um token de atualização que renova o acesso do cliente sem exigir um novo login, pelo período que você configurar.
+Por padrão, a sessão de login dos clientes na loja virtual expira após 24 horas. Antes, para estender esse período, era necessário abrir um chamado com o Suporte VTEX para solicitar a ativação do refresh token e definir o tempo de expiração, que só podia ser 1, 7 ou 30 dias. Agora, com o login persistente habilitado, além do cookie de acesso, que mantém a duração fixa de 24 horas, a plataforma emite um token de atualização que renova o acesso do cliente sem exigir um novo login, pelo período que você configurar.
 
 Veja como a funcionalidade se comporta:
 
@@ -31,7 +31,7 @@ Veja como a funcionalidade se comporta:
 
 ## Por que fizemos essa mudança?
 
-Antes, a ativação do refresh token e a definição da sua expiração dependiam de um chamado ao Suporte VTEX, e as únicas durações disponíveis eram 1, 7 ou 30 dias. Agora, você pode ativar e modificar essa configuração no Admin VTEX, escolhendo qualquer número inteiro de dias, de 1 a 365, para reduzir a necessidade de novos logins na sua loja.
+Com essa mudança, você tem mais autonomia e flexibilidade para equilibrar conveniência e segurança na sua loja. Ao escolher o período que melhor se adapta ao seu negócio, você reduz a necessidade de novos logins e melhora a experiência de compra dos seus clientes.
 
 ## O que precisa ser feito?
 
