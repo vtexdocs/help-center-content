@@ -70473,14 +70473,14 @@
             },
             {
               "name": {
-                "en": "Shopee Product Protection amount is added to the shipping total of integrated orders",
-                "es": "Shopee El importe de la protección del producto se añade al total del envío de los pedidos integrados.",
-                "pt": "Shopee O valor da Proteção do Produto é adicionado ao total do frete de pedidos integrados."
+                "en": "Shopee Product Protection amount is added to the order total of integrated orders",
+                "es": "Shopee El importe de la protección del producto se añade al total del pedido en los pedidos integrados.",
+                "pt": "Shopee O valor da Proteção do Produto é adicionado ao total do pedido em pedidos integrados."
               },
               "slug": {
-                "en": "shopee-product-protection-amount-is-added-to-the-shipping-total-of-integrated-orders",
-                "es": "shopee-el-importe-de-la-proteccion-del-producto-se-anade-al-total-del-envio-de-los-pedidos-integrados",
-                "pt": "shopee-o-valor-da-protecao-do-produto-e-adicionado-ao-total-do-frete-de-pedidos-integrados"
+                "en": "shopee-product-protection-amount-is-added-to-the-order-total-of-integrated-orders",
+                "es": "shopee-el-importe-de-la-proteccion-del-producto-se-anade-al-total-del-pedido-en-los-pedidos-integrados",
+                "pt": "shopee-o-valor-da-protecao-do-produto-e-adicionado-ao-total-do-pedido-em-pedidos-integrados"
               },
               "origin": "",
               "type": "markdown",
