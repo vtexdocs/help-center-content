@@ -44,5 +44,4 @@ Utilizar a conta franquia é estratégico para operações que desejam expandir 
 - [Seleção de sellers white label](/pt/docs/tutorials/selecao-de-sellers-white-label)
 - [Configurar marketplace VTEX](/pt/docs/tutorials/configurar-marketplace-vtex)
 - [Adicionar seller](/pt/docs/tutorials/adicionar-seller)
-- [Usuários não logados veem informações na minha loja com restrição de acesso](/pt/docs/troubleshooting/usuarios-nao-logados-veem-informacoes-na-minha-loja-com-restricao-de-acesso)
 - [Escolher entre conta padrão, conta franquia ou Seller Portal](/pt/docs/tutorials/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal)
