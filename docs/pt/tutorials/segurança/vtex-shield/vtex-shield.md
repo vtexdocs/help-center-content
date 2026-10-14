@@ -30,7 +30,7 @@ Ao contratar o VTEX Shield, é possível optar pelas funcionalidades a seguir:
 * [Certificados SSL customizados](#certificados-ssl-customizados)
 * [Mutual Transport Layer Security (mTLS)](#mutual-transport-layer-security-mtls)
 
-O VTEX Shield disponibiliza para todas as contas a [Prevenção contra fraudes](#prevenção-contra-fraudes), independentemente da contratação das demais funcionalidades.
+O VTEX Shield disponibiliza para todas as contas a [Prevenção contra fraudes](#prevencao-contra-fraudes), independentemente da contratação das demais funcionalidades.
 
 ## Security Monitor
 
