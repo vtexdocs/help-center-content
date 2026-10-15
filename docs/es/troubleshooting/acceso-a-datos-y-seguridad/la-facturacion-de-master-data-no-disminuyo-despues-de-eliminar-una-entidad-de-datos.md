@@ -27,7 +27,7 @@ Para resolver este problema, sigue los pasos que se detallan a continuación:
 
 ### Elimina los documentos de la entidad mediante la API
 
-Sigue las instrucciones de la guía [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) para eliminar los documentos almacenados en la entidad de datos. Solo esta eliminación mediante la API reduce el volumen contabilizado en la facturación mensual.
+Sigue las instrucciones de la guía [Deleting documents in bulk in Master Data](https://developers.vtex.com/docs/guides/deleting-documents-in-bulk-in-master-data) para eliminar los documentos almacenados en la entidad de datos. Solo esta eliminación mediante la API reduce el volumen contabilizado en la facturación mensual.
 
 ### Confirma la reducción en el dashboard de uso de Master Data
 
