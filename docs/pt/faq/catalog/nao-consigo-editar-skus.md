@@ -27,4 +27,4 @@ Caso os seus SKUs tenham subido para a VTEX via integração, verifique com seu 
 
 Caso seu produto tenha chegado ao limite de SKUs cadastrados, sugerimos revisar sua categorização de produtos. Permitimos, no máximo, 50 SKUs por produto.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar a investigar: envie o ID do produto e ele lista os SKUs cadastrados e como cada um está configurado, o que ajuda a identificar se o produto atingiu o limite de 50 SKUs.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga o problema: envie o ID do produto e ele lista os SKUs cadastrados e como cada um está configurado, o que ajuda a identificar se o produto atingiu o limite de 50 SKUs.
