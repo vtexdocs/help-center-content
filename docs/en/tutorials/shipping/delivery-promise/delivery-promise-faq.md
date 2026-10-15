@@ -52,10 +52,7 @@ In all these options, the customer can provide their address or a different one 
 
 ## 5. In the Delivery Promise context, what happens if the customer refuses to share their location and VTEX can't identify it?
 
-In this case, the merchant can use one of the following strategies:
-
-* Define [comprehensive sellers](/en/docs/tutorials/comprehensive-seller), so products from these sellers can be displayed to customers who don't provide their location.
-* Set a default postal code or [geocoordinates](/en/docs/tutorials/registering-geolocation) for customers who don't provide their location. We suggest setting this near a [warehouse](/en/docs/tutorials/warehouse) that stores a large quantity of products, or near the region with the highest sales volume.
+In this case, the merchant can define [comprehensive sellers](/en/docs/tutorials/comprehensive-seller), so products from these sellers can be displayed to customers who don't provide their location.
 
 ## 6. Where do I configure which stores cover specific postal codes?
 
@@ -71,7 +68,7 @@ Delivery Promise doesn't include free shipping components. It provides filter op
 
 ## 9. What if I don't want to use Delivery Promise?
 
-Using Delivery Promise is optional. If you don't want to request the customer's location, you can continue using the current customer navigation solution without a defined location and choose whether to link it to [comprehensive sellers](/en/docs/tutorials/comprehensive-seller). However, we recommend using **Delivery Promise** to provide the best shopping experience on the product listing page.
+Using Delivery Promise is optional. If you don't want to request the customer's location, you can continue using the current customer navigation solution without a defined location and choose whether to link it to [comprehensive sellers](/en/docs/tutorials/comprehensive-seller). However, we recommend using **Delivery Promise** to provide the best shopping experience on search and navigation.
 
 ## 10. Do Delivery Promise filters apply to external sellers?
 

@@ -24,7 +24,7 @@ O lojista precisa garantir a correta configuração dos seguintes aspectos do pr
 * Cadastro a nível de produto e SKU no catálogo.
 * Cadastro de preço.
 * [Estratégia de envio](/pt/docs/tutorials/estrategia-de-envio) que viabiliza o envio do pedido para o endereço fornecido pelo cliente.
-* Contagem do produto no [inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) disponível para vendas, ou estoque infinito configurado ou opção habilitada para exibir o produto quando esgotado.
+* Contagem do produto no [inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) disponível para vendas, estoque infinito configurado ou opção habilitada para exibir o produto quando esgotado.
 * Templates de [CMS](/pt/docs/tracks/o-que-e-o-cms) do frontend da loja configurados.
 
 > ℹ️ Para mais informações, veja o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site).
@@ -52,12 +52,7 @@ Em todas as opções mencionadas, o cliente tem a opção de a qualquer tempo fo
 
 ## 5. No contexto da Delivery Promise, o que acontece se o cliente se recusa a compartilhar sua localização e a VTEX não consegue inferir seu endereço?
 
-Neste caso, o lojista pode utilizar uma entre as seguintes estratégias:
-
-* Definir [sellers abrangentes](/pt/docs/tutorials/seller-abrangente), o que possibilita que os produtos destes sellers sejam exibidos para os clientes que não fornecem localização.
-* Definir um CEP ou [geocoordenadas](/pt/docs/tutorials/gerenciar-geolocalizacao) padrão para clientes que não informam localização.
-
-Sugerimos que seja próximo a um [estoque](/pt/docs/tutorials/estoque) que armazene uma grande quantidade de produtos ou que seja próximo à região com maior volume de vendas.
+Neste caso, o lojista pode definir [sellers abrangentes](/pt/docs/tutorials/seller-abrangente), o que possibilita que os produtos desses sellers sejam exibidos para os clientes que não fornecem localização.
 
 ## 6. Onde devo configurar quais lojas atendem a determinados CEPs?
 
@@ -75,7 +70,7 @@ Não. A **Delivery Promise** não oferece filtros do tipo frete grátis. Os filt
 
 Sim. O uso da funcionalidade é opcional. Caso você não queira solicitar a localização do comprador, você pode continuar utilizando a solução atual de navegação do cliente sem localização definida, e associar ou não a [sellers abrangentes](/pt/docs/tutorials/seller-abrangente). 
 
-No entanto, a VTEX recomenda o uso da **Delivery Promise** para oferecer uma melhor experiência de compra.
+No entanto, a VTEX recomenda o uso da **Delivery Promise** para oferecer uma melhor experiência de compra na busca e na navegação.
 
 ## 10. Os filtros do Delivery Promise se aplicam a sellers externos?
 

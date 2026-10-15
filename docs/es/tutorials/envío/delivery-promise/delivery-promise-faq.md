@@ -52,10 +52,7 @@ En todas las opciones anteriores, el cliente tiene la posibilidad de proporciona
 
 ## 5. En el contexto de Delivery Promise, ¿qué ocurre si el cliente no desea compartir su ubicación y VTEX no puede inferir su dirección?
 
-Como retailer puedes utilizar una de las siguientes estrategias:
-
-* Definir [sellers de extensa cobertura](/es/docs/tutorials/seller-de-extensa-cobertura), para que los productos de estos sellers se muestren a los clientes que no proporcionan ubicación.
-* Definir un código postal o [geocoordenadas](/es/docs/tutorials/gestionar-geolocalizacion) predeterminadas para clientes que no informan ubicación. Recomendamos que esté cerca de un [almacén](/es/docs/tutorials/almacen) con gran stock de productos o de la región con mayor volumen de ventas.
+En este caso, como retailer puedes definir [sellers de extensa cobertura](/es/docs/tutorials/seller-de-extensa-cobertura), para que los productos de estos sellers se muestren a los clientes que no proporcionan ubicación.
 
 ## 6. ¿Dónde debo configurar las tiendas que atienden determinados códigos postales?
 
@@ -71,7 +68,7 @@ Delivery Promise no incluye componentes de tipo envío gratis. Ofrece opciones d
 
 ## 9. ¿Puedo optar por no usar Delivery Promise?
 
-La decisión de utilizar o no **Delivery Promise** es tuya. Si no deseas solicitar la ubicación del comprador, puedes seguir utilizando la solución actual de navegación de clientes sin ubicación definida, con la opción de asociar [sellers de extensa cobertura](/es/docs/tutorials/seller-de-extensa-cobertura). Sin embargo, la mejor experiencia de compra para el cliente con la vitrina de la tienda se logra con **Delivery Promise**, que es la recomendación de VTEX.
+La decisión de utilizar o no **Delivery Promise** es tuya. Si no deseas solicitar la ubicación del comprador, puedes seguir utilizando la solución actual de navegación de clientes sin ubicación definida, con la opción de asociar [sellers de extensa cobertura](/es/docs/tutorials/seller-de-extensa-cobertura). Sin embargo, la mejor experiencia de compra para el cliente en la búsqueda y la navegación se logra con **Delivery Promise**, que es la recomendación de VTEX.
 
 ## 10. ¿Los filtros de Delivery Promise se aplican a sellers externos?
 
