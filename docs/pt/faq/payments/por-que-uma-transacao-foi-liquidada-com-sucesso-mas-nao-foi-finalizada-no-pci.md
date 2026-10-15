@@ -21,4 +21,4 @@ Após essa aprovação, o valor da transação é liquidado. No entanto, a trans
 
 Após a inclusão da Nota Fiscal, o módulo **Pedidos** se comunica com Pagamentos, que altera o status da transação para `Finalizada`.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar este pedido: envie o número do pedido e ele confere o status da transação em Pagamentos e se a nota fiscal já foi incluída, etapa necessária para a transação ficar Finalizada.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, verifica este pedido: envie o número do pedido e ele confere o status da transação em Pagamentos e se a nota fiscal já foi incluída, etapa necessária para a transação ficar `Finalizada`.

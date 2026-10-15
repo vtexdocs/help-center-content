@@ -44,4 +44,4 @@ Confira abaixo como realizar esse processo:
 
 Desse modo, o cliente pode abater os dois valores antes de finalizar a compra. 
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar nesta configuração: ele revisa as promoções e o cupom envolvidos, verificando condições, desconto e validade, e pode criar ou ajustar o cupom depois da sua confirmação.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, ajuda nesta configuração: ele revisa as promoções e o cupom envolvidos, verificando condições, desconto e validade, e pode criar ou ajustar o cupom depois da sua confirmação.
