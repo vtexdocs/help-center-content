@@ -29,4 +29,4 @@ Para clientes que integram produtos de outras lojas em seu catálogo, é necess�
 
 Para entender mais sobre a criação de campos de produto, leia o artigo [Campo de Produto](/pt/tutorial/criando-um-campo-de-produto) que explica como e onde é cadastrada essa configuração.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar o campo de produto: informe a categoria e o nome do campo, e ele confere o tipo cadastrado (Combo, Radio, CheckBox ou texto) e explica o que falta para ele aparecer como filtro.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, verifica o campo de produto: informe a categoria e o nome do campo, e ele confere o tipo cadastrado (Combo, Radio, CheckBox ou texto) e explica o que falta para ele aparecer como filtro.
