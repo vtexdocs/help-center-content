@@ -182,7 +182,7 @@
                   "slug": {
                     "en": "",
                     "es": "",
-                    "pt": "2026-10-13-delivery-promise-agora-disponivel-para-todos-os-lojistas"
+                    "pt": "2026-10-15-delivery-promise-agora-disponivel-para-todos-os-lojistas"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -40083,13 +40083,13 @@
             {
               "name": {
                 "en": "B2B Organizations without an address number as a valid address",
-                "es": "Organizaciones B2B sin número de dirección como dirección válida",
-                "pt": "Organizações B2B sem um número de endereço como um endereço válido"
+                "es": "Organizaciones B2B sin un número de dirección como dirección válida",
+                "pt": "Organizações B2B sem número de endereço como endereço válido"
               },
               "slug": {
                 "en": "b2b-organizations-without-an-address-number-as-a-valid-address",
-                "es": "organizaciones-b2b-sin-numero-de-direccion-como-direccion-valida",
-                "pt": "organizacoes-b2b-sem-um-numero-de-endereco-como-um-endereco-valido"
+                "es": "organizaciones-b2b-sin-un-numero-de-direccion-como-direccion-valida",
+                "pt": "organizacoes-b2b-sem-numero-de-endereco-como-endereco-valido"
               },
               "origin": "",
               "type": "markdown",
@@ -46987,12 +46987,12 @@
               "name": {
                 "en": "Order can't be created due to invalid credit card",
                 "es": "No se puede crear el pedido porque la tarjeta de crédito no es válida",
-                "pt": "Não é possível criar o pedido devido a um cartão de crédito inválido"
+                "pt": "Não foi possível criar o pedido devido a um cartão de crédito inválido."
               },
               "slug": {
                 "en": "order-cant-be-created-due-to-invalid-credit-card",
                 "es": "no-se-puede-crear-el-pedido-porque-la-tarjeta-de-credito-no-es-valida",
-                "pt": "nao-e-possivel-criar-o-pedido-devido-a-um-cartao-de-credito-invalido"
+                "pt": "nao-foi-possivel-criar-o-pedido-devido-a-um-cartao-de-credito-invalido"
               },
               "origin": "",
               "type": "markdown",
@@ -66575,6 +66575,21 @@
                 "en": "inconsistent-gift-calculation-when-mixing-eligible-skus-in-buy-one-get-one-promotion",
                 "es": "calculo-inconsistente-del-regalo-al-combinar-sku-elegibles-en-la-promocion-compre-uno-y-llevese-otro-gratis",
                 "pt": "calculo-inconsistente-de-brindes-ao-misturar-skus-elegiveis-na-promocao-compre-um-e-leve-outro"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Incorrect Discount Calculation in Multi Payment Method promotions",
+                "es": "Cálculo incorrecto del descuento en promociones con múltiples métodos de pago.",
+                "pt": "Cálculo incorreto de desconto em promoções com múltiplos métodos de pagamento."
+              },
+              "slug": {
+                "en": "incorrect-discount-calculation-in-multi-payment-method-promotions",
+                "es": "calculo-incorrecto-del-descuento-en-promociones-con-multiples-metodos-de-pago",
+                "pt": "calculo-incorreto-de-desconto-em-promocoes-com-multiplos-metodos-de-pagamento"
               },
               "origin": "",
               "type": "markdown",
