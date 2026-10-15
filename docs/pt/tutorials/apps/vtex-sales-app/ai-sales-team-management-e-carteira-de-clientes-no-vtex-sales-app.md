@@ -81,8 +81,8 @@ O **AI Sales Team Management** tem as seguintes restrições:
 
 Com o **AI Sales Team Management** você pode:
 
-- [Realizar ações em times](#acoes-em-times)
 - [Realizar ações em sales reps](#acoes-em-sales-reps)
+- [Realizar ações em times](#acoes-em-times)
 - [Realizar ações em carteiras de clientes](#acoes-em-carteiras-de-clientes)
 - [Realizar ações em massa em times, sales reps e carteiras de clientes](#acoes-em-massa-em-times-sales-reps-e-carteiras-de-clientes)
 - [Vincular contrato a time](#vincular-contrato-a-time)
@@ -90,24 +90,6 @@ Com o **AI Sales Team Management** você pode:
 > ℹ️ Os exemplos de instrução apresentados nas seções são ilustrativos e não a única forma de realizar uma ação no **AI Sales Team Management**.
 
 As ações só podem ser executadas por usuários com [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) adequado. No caso de sales reps, o perfil é o [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person).
-
-### Realizar ações em times
-
-O time é a unidade da estrutura de vendas no **Sales App** no contexto [B2B](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). Você pode configurar uma estrutura hierarquizada com times pai e subtimes, de forma a refletir o organograma da organização comercial.
-
-A tabela a seguir apresenta as ações que você pode realizar em times:
-
-| **Ação** | **Informações necessárias** | **Exemplos de instrução** |
-| :--- | :--- | :--- |
-| Criar time | Nome do time. Caso esteja criando um subtime, informe também o nome do time pai. | "Crie o time Vendas Sul" / "Crie o subtime Contagem dentro do time Nordeste" / "Crie meus times de vendas: Time Sul, Time Norte, Time Nordeste." |
-| Criar subtimes por sales rep | Anexe um arquivo `.xlsx`, `.csv` ou `.txt` com os dados dos sales reps e o time de destino. | "Crie subtimes baseados na carteira de cada sales rep." / "Quero criar subtimes baseados na carteira de cada sales rep." |
-| Editar nome time | Nome do time e as informações a serem alteradas. | "Edite o time Vendas Sul para Vendas Sudeste" |
-| Mover time | Nomes do time a ser movido e do time de destino. | "Mova o time Vendas Sul para dentro do time Nordeste" / " |
-| Visualizar contratos ou integrantes do time | Identificação do contrato ou do time. | "Quais contratos o Vendas Sul tem acesso?" / "Quais usuários existem no time Vendas Norte?" / "Quem são os sales reps do Time Sul?" |
-| Desfazer criação recente de times | Na mesma sessão, você pode desfazer times recém criados. Para isso, informe o time. | "Desfaça a criação do time" / "Cancele a criação do Time Sul" |
-| Remover time | Nome do time. | "Remova o time Vendas Sul" / "Delete o subtime Vendas Sudeste" |
-
-> ⚠️ Após transformar um time pai em um subtime, não é mais possível devolvê-lo ao nível raiz. Portanto, antes de criar os times, defina a hierarquia.
 
 ### Realizar ações em sales reps
 
@@ -126,6 +108,24 @@ A tabela a seguir apresenta as ações que você pode realizar em sales reps:
 | Remover sales rep do time | Nome do sales rep. Remover um sales rep de um time apenas desvincula a pessoa do time, mas ela permance como usuário da conta. | "Remova o sales rep José Almeida do time Vendas Sul." |
 
 > ℹ️ Quando você cria, edita ou remove mais de um sales rep em uma mesma ação, seja via arquivo ou conversacional, caso exista algum erro, o agente apresenta as mensagens de erro e um canvas de validação com o que será feito. É necessário que você revise e confirme esse resumo para que a ação seja executada.
+
+### Realizar ações em times
+
+O time é a unidade da estrutura de vendas no **Sales App** no contexto [B2B](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). Você pode configurar uma estrutura hierarquizada com times pai e subtimes, de forma a refletir o organograma da organização comercial.
+
+A tabela a seguir apresenta as ações que você pode realizar em times:
+
+| **Ação** | **Informações necessárias** | **Exemplos de instrução** |
+| :--- | :--- | :--- |
+| Criar time | Nome do time. Caso esteja criando um subtime, informe também o nome do time pai. | "Crie o time Vendas Sul" / "Crie o subtime Contagem dentro do time Nordeste" / "Crie meus times de vendas: Time Sul, Time Norte, Time Nordeste." |
+| Criar subtimes por sales rep | Anexe um arquivo `.xlsx`, `.csv` ou `.txt` com os dados dos sales reps e o time de destino. | "Crie subtimes baseados na carteira de cada sales rep." / "Quero criar subtimes baseados na carteira de cada sales rep." |
+| Editar nome time | Nome do time e as informações a serem alteradas. | "Edite o time Vendas Sul para Vendas Sudeste" |
+| Mover time | Nomes do time a ser movido e do time de destino. | "Mova o time Vendas Sul para dentro do time Nordeste" / " |
+| Visualizar contratos ou integrantes do time | Identificação do contrato ou do time. | "Quais contratos o Vendas Sul tem acesso?" / "Quais usuários existem no time Vendas Norte?" / "Quem são os sales reps do Time Sul?" |
+| Desfazer criação recente de times | Na mesma sessão, você pode desfazer times recém criados. Para isso, informe o time. | "Desfaça a criação do time" / "Cancele a criação do Time Sul" |
+| Remover time | Nome do time. | "Remova o time Vendas Sul" / "Delete o subtime Vendas Sudeste" |
+
+> ⚠️ Após transformar um time pai em um subtime, não é mais possível devolvê-lo ao nível raiz. Portanto, antes de criar os times, defina a hierarquia.
 
 ### Realizar ações em carteiras de clientes
 
