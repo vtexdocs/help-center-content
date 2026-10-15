@@ -23,4 +23,4 @@ Então, caso você acesse sua loja e não consiga entrar no ambiente do seu e-co
 
 Após a configuração do status, a loja já poderá ser acessada.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar este erro: envie a URL da loja e ele roda o checklist de go-live (DNS, CDN e certificado SSL) e aponta o que está bloqueando o acesso.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga este erro: envie a URL da loja e ele roda o checklist de go-live (DNS, CDN e certificado SSL) e aponta o que está bloqueando o acesso.

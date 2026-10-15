@@ -21,7 +21,7 @@ Existem casos, porém, em que essa promoção não é visualizada por alguns com
 
 Separamos alguns cenários em que esse erro pode acontecer e uma resolução para cada um deles. Todos relacionados ao valor do cluster que deve ser inserido na plataforma.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar este caso: informe o nome da promoção e o e-mail de um cliente afetado, e ele compara os valores de cluster da promoção com o cadastro do cliente no Master Data.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga este caso: informe o nome da promoção e o e-mail de um cliente afetado, e ele compara os valores de cluster da promoção com o cadastro do cliente no Master Data.
 
 ## Ausência do valor 
 

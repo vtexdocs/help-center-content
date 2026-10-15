@@ -21,4 +21,4 @@ Essa mensagem indica que o número máximo de promoções foi atingido e que nã
 
 Você deve rever suas promoções ativas para ajustá-las e reorganizá-las, de modo que não sejam necessárias tantas unidades. Geralmente, é possível a união de várias regras em apenas uma promoção. Desse modo, melhorando a performance do carrinho e a organização das promoções.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar a organizar suas promoções: ele lista as promoções da sua loja e revisa as condições de cada uma para identificar regras que podem ser unificadas.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, analisa suas promoções: ele lista as promoções da sua loja e revisa as condições de cada uma para identificar regras que podem ser unificadas.

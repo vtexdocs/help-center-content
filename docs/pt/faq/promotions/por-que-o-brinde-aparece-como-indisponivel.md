@@ -32,4 +32,4 @@ Além disso, vale ressaltar que existem casos em que o brinde é __removido__ do
 
 Para contornar essa situação, basta conferir os três itens na plataforma, da mesma forma como se o brinde estivesse "indisponível".
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar o SKU do brinde: envie o ID do SKU e ele confere status, preço, estoque e imagens e indica o que está impedindo a exibição.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, verifica o SKU do brinde: envie o ID do SKU e ele confere status, preço, estoque e imagens e indica o que está impedindo a exibição.

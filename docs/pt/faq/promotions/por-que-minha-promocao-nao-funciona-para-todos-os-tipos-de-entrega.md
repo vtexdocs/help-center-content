@@ -33,4 +33,4 @@ Você também pode ativar a flag __Aplicar o desconto somente quando uma das tra
 - [Promoções, taxas e cupons - Visão geral](/pt/docs/tutorials/overview-2)
 - [Criar promoções](/pt/tutorial/como-criar-promocoes)
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar esta promoção: informe o nome dela e ele revisa as condições configuradas, incluindo os tipos de frete, para identificar por que o frete grátis não vale para todas as opções de entrega.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, verifica esta promoção: informe o nome da promoção e ele revisa as condições configuradas, incluindo os tipos de frete, para identificar por que o frete grátis não vale para todas as opções de entrega.

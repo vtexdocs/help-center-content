@@ -30,4 +30,4 @@ Para resolver o problema, siga os passos abaixo:
 7. Marque a flag __Filtro__.
 8. Clique em __Salvar__.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar o campo de especificação: informe a categoria e o nome do campo, e ele confere como o campo está cadastrado no catálogo e explica como ativar a opção Filtro.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, verifica o campo de especificação: informe a categoria e o nome do campo e ele confere como o campo está cadastrado no catálogo e explica como ativar a opção `Filtro`.
