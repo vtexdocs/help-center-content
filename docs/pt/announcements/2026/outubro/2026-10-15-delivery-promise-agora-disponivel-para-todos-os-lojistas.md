@@ -1,10 +1,10 @@
 ---
 title: 'Delivery Promise: agora disponível para todos os lojistas'
-createdAt: 2026-10-13T12:00:00.000Z
-updatedAt: 2026-10-13T12:00:00.000Z
+createdAt: 2026-10-15T12:00:00.000Z
+updatedAt: 2026-10-15T12:00:00.000Z
 contentType: updates
 productTeam: Post-purchase
-slugEN: 2026-10-13-delivery-promise-now-generally-available
+slugEN: 2026-10-15-delivery-promise-now-generally-available
 locale: pt
 announcementSynopsisPT: 'O Delivery Promise está disponível para todos os lojistas que usam o Intelligent Search e pode ser ativado diretamente no Admin VTEX.'
 tags:
@@ -12,7 +12,7 @@ tags:
   - Logística
 ---
 
-O [Delivery Promise](/pt/docs/tutorials/delivery-promise) agora está disponível para todos os lojistas que usam o [Intelligent Search](/pt/docs/tutorials/intelligent-search-visao-geral). Com a funcionalidade, o comprador vê durante a navegação apenas os produtos que pode comprar, considerando o estoque disponível e as [opções de envio](/pt/docs/tutorials/opcoes-de-envio-beta) válidas para o endereço dele.
+O [Delivery Promise](/pt/docs/tutorials/delivery-promise) agora está disponível para todos os lojistas que usam o [Intelligent Search](/pt/docs/tutorials/intelligent-search-visao-geral). Com a funcionalidade, o comprador vê durante a navegação apenas os produtos que pode comprar, considerando o estoque disponível e as [Opções de Envio](/pt/docs/tutorials/opcoes-de-envio-beta) válidas para o endereço dele.
 
 A ativação, que antes dependia de uma solicitação ao Suporte, agora é feita diretamente no Admin VTEX, em um fluxo guiado.
 
@@ -35,16 +35,14 @@ Os benefícios para a experiência de compra continuam os mesmos:
 
 Para usar o Delivery Promise, sua conta precisa atender aos [requisitos da funcionalidade](/pt/docs/tutorials/delivery-promise#requisitos), incluindo o uso do Intelligent Search. Se ela for elegível, você poderá usar o Delivery Promise sem custo adicional.
 
-Para ativar a funcionalidade, no Admin VTEX, acesse a página **Delivery Promise** e siga as etapas do fluxo de ativação:
+Para ativar a funcionalidade, siga as instruções do guia [Ativar o Delivery Promise](/pt/docs/tutorials/ativar-delivery-promise). A ativação é feita em um fluxo guiado no Admin VTEX, em **Storefront > Delivery Promise**, com as seguintes etapas:
 
-1. Ative o modo de teste.
-2. (Opcional) Revise as Opções de Envio.
-3. Configure na loja.
-4. Publique em produção.
+1. **Ative o modo de teste:** selecione as políticas comerciais em que o Delivery Promise será usado e confirme as condições de uso. O modo de teste não afeta a loja em produção.
+2. **(Opcional) Revise as Opções de Envio:** escolha quais opções aparecem como filtros para os compradores na loja.
+3. **Configure na loja:** implemente ou configure os componentes do Delivery Promise de acordo com a tecnologia da sua loja.
+4. **Publique em produção:** publique a versão da loja com as alterações e ative o Delivery Promise para os compradores.
 
 >⚠️ As etapas de configuração e publicação exigem acesso ao código da loja. Apenas usuários com o perfil Super Admin da conta podem publicar o Delivery Promise em produção.
-
-Para saber mais sobre cada etapa, consulte [Ativar o Delivery Promise](/pt/docs/tutorials/ativar-delivery-promise).
 
 ## Saiba mais
 
