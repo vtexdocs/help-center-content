@@ -3,7 +3,7 @@ title: 'Dashboard de recomendações (Beta)'
 id: 2QIexbD2FSXBxELUnFtg7g
 status: PUBLISHED
 createdAt: 2026-02-20T13:01:10.919Z
-updatedAt: 2026-02-20T13:01:10.919Z
+updatedAt: 2026-10-09T15:13:22.000Z
 publishedAt: 2026-02-20T13:01:10.919Z
 firstPublishedAt: 2025-06-27T20:41:49.041Z
 contentType: tutorial
@@ -23,8 +23,17 @@ Para acessá-la no Admin VTEX, entre em *Storefront > Recomendações*.
 
 ## Requisitos
 
-* Ter a funcionalidade de [Recomendações de produtos](https://help.vtex.com/pt/docs/tutorials/recomendacoes-de-produtos-beta) habilitada na loja.  
+* Ter a funcionalidade de [Recomendações de produtos](https://help.vtex.com/pt/docs/tutorials/recomendacoes-de-produtos-beta) habilitada na loja.
 * Ter [estratégias de recomendação](https://help.vtex.com/pt/docs/tutorials/recomendacoes-de-produtos-beta#estrategias-de-recomendacao) implementadas na loja.
+* Ter um [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) com os [recursos do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager) abaixo. Sem o recurso *View Recommendations*, a página **Recomendações** não abre no Admin VTEX.
+
+  * **Produto:** *Recommendations*
+  * **Categoria:** *Recommendations*
+
+  | Recurso | Chave | Descrição |
+  | --- | --- | --- |
+  | *View Recommendations* | `ViewRecommendations` | Visualizar listagem de recomendações no Admin. |
+  | *View Recommendations metrics* | `ViewRecommendationsMetrics` | Visualizar métricas de recomendações no Admin. |
 
 ## Informações gerais
 

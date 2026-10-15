@@ -3,7 +3,7 @@ title: 'Creating a product for presale'
 id: 4o6cUJ4gIg0MQWW8WfN34K
 status: PUBLISHED
 createdAt: 2021-09-08T16:32:39.818Z
-updatedAt: 2025-11-06T15:35:57.132Z
+updatedAt: 2026-10-01T16:18:00.000Z
 publishedAt: 2025-11-06T15:35:57.132Z
 firstPublishedAt: 2021-09-14T16:54:57.039Z
 contentType: tutorial
