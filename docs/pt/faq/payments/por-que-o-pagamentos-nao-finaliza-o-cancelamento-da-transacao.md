@@ -21,4 +21,4 @@ Este cenário ocorre quando uma transação permanece indefinidamente no status 
 
 Para solucionar a questão, o lojista deve entrar em contato com o gateway responsável pelo pagamento, informar os dados da transação e solicitar o cancelamento.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar uma transação parada em Cancelling: envie o número do pedido ou o ID da transação e ele consulta o status no gateway e reúne os dados para você solicitar o cancelamento ao provedor.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga uma transação parada em `Cancelling`: envie o número do pedido ou o ID da transação e ele consulta o status no gateway e reúne os dados para você solicitar o cancelamento ao provedor.

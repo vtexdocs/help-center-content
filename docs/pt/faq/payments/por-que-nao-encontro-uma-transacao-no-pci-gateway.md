@@ -23,4 +23,4 @@ Exemplos de casos em que isso acontece:
 
 2. Sua loja é um seller cujos produtos estão sendo vendidos em um marketplace, contudo foi definido que você não usaria seus meios de pagamento, ou seja, a transação do pedido será feita pelo próprio marketplace. Logo essa transação irá aparecer apenas no ambiente do marketplace, não em sua loja.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar a localizar o pagamento: envie o número do pedido e ele verifica se existe uma transação em Pagamentos da sua loja ou se o pagamento foi processado pelo marketplace ou pelo seller.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, localiza o pagamento: envie o número do pedido e ele verifica se existe uma transação em Pagamentos da sua loja ou se o pagamento foi processado pelo marketplace ou pelo seller.

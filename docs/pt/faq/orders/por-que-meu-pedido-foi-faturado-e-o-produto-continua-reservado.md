@@ -31,4 +31,4 @@ Ou seja, quando o pedido passar para o status `Preparando Entrega` é preciso qu
 
 Para isso, basta atualizar o campo __Quantidade__ com o número de itens disponíveis em seu estoque, ignorando o item relacionado à compra.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode consultar o estoque do SKU em cada armazém, mostrando quanto está reservado e quanto está disponível, e atualizar a quantidade depois que você confirmar os números. Envie o ID do SKU.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, consulta o estoque do SKU em cada armazém, mostrando quanto está reservado e quanto está disponível, e atualiza a quantidade depois que você confirmar os números. Envie o ID do SKU.

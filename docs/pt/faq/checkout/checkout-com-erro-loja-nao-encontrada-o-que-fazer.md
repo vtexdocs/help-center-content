@@ -23,4 +23,4 @@ Ao entrar no carrinho da sua loja, pode acontecer de surgir um erro na tela com 
 4. Verifique se o valor contido no campo `Nome da loja` também está em algum valor do campo `Hosts`. Caso não esteja, inclua no campo `Hosts` o valor encontrado no campo `Nome da Loja`.
 5. Clique em __Salvar__.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode consultar os dados da sua conta, incluindo as lojas e os domínios cadastrados, e ajudar a verificar se o nome da loja também aparece entre os hosts.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, consulta os dados da sua conta, incluindo as lojas e os domínios cadastrados, e verifica se o nome da loja também aparece entre os hosts.

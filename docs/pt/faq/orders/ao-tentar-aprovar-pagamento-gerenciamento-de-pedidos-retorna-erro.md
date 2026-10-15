@@ -27,4 +27,4 @@ Caso haja um erro como "A reserva solicitada *00-abc* não pôde ser garantida p
 
 Saiba mais no artigo [Verificar detalhes de erros nos pedidos](/pt/docs/tutorials/como-verificar-detalhes-de-erros-nos-pedidos).
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar este erro: envie o número do pedido e ele identifica em que etapa o fluxo parou e confere o estoque disponível dos SKUs do pedido em cada armazém.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga este erro: envie o número do pedido e ele identifica em que etapa o fluxo parou e confere o estoque disponível dos SKUs do pedido em cada armazém.

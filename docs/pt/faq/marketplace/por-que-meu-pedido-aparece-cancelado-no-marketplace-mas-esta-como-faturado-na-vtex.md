@@ -23,4 +23,4 @@ Após ter feito essa verificação, entre em contato com o marketplace para sabe
 
 _O pedido **não** aparecerá como cancelado na VTEX. Uma vez que o pedido já entrou no status faturado, não é mais possível alterar seu status._
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar o pedido do lado da VTEX: envie o número do pedido e ele resume o status e os dados do faturamento, para você comparar com a data do cancelamento no marketplace.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, verifica o pedido do lado da VTEX: envie o número do pedido e ele resume o status e os dados do faturamento, para você comparar com a data do cancelamento no marketplace.

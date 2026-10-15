@@ -21,4 +21,4 @@ Após diversas tentativas, caso não obtenha as respostas esperadas, o pagamento
 
 > ⚠️ Não é possível reenviar um pedido cancelado para o antifraude.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar a entender este caso: envie o número do pedido e ele consulta a transação e a resposta da adquirente, além de verificar quais provedores antifraude estão configurados na sua loja.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, ajuda a entender este caso: envie o número do pedido e ele consulta a transação e a resposta da adquirente, além de verificar quais provedores antifraude estão configurados na sua loja.

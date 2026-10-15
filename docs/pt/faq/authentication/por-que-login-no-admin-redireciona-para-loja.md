@@ -21,4 +21,4 @@ Os perfis de televendas bloqueiam o acesso ao __Catálogo__, ou seja, o usuário
 
 Caso o perfil de acesso possua permissão para televendas e também outros módulos, o o acesso deve ser feito diretamente pela URL do módulo, por exemplo, para o Gerenciamento de pedidos: `https://{accountName}.myvtex.com/admin/checkout`
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar os perfis de acesso do usuário: envie o e-mail usado no login e ele identifica se algum perfil inclui recursos de televendas, o que causa o redirecionamento para a loja.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, verifica os perfis de acesso do usuário: envie o e-mail usado no login e ele identifica se algum perfil inclui recursos de televendas, o que causa o redirecionamento para a loja.

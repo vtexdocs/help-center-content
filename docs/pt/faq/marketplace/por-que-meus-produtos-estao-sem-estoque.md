@@ -30,4 +30,4 @@ ___ ATENÇÃO: Se o canal de vendas estiver configurado com uma coleção, é ne
 
 ___ ATENÇÃO: Caso a loja não utilize coleção no canal de venda e a configuração seja definida especificamente no produto, é necessário verificar se o produto está setado para venda no canal desejado. Caso contrário, nenhuma informação do item será atualizada no parceiro.___
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar este cenário: envie o ID do SKU e ele verifica o estoque por armazém, se a doca está associada à política comercial do marketplace e se o produto está nesse canal de venda.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga este cenário: envie o ID do SKU e ele verifica o estoque por armazém, se a doca está associada à política comercial do marketplace e se o produto está nessa política comercial.

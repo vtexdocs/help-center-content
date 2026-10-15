@@ -25,4 +25,4 @@ Source Message: `The e-mail with subject gateway-estorno-manual-requerido has be
 
 Ou seja, quando essa mensagem aparecer na interação após uma tentativa de cancelamento e estorno de uma transação que já teve o pagamento aprovado e/ou liquidado, significa que não foi possível fazer o estorno online de forma automática junto ao conector e será necessário efetuar o estorno manualmente.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar este caso: envie o número do pedido e ele verifica o status da transação e se o cancelamento ou o estorno foi concluído no gateway, indicando quando é preciso pedir o estorno manual ao provedor.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga este caso: envie o número do pedido e ele verifica o status da transação e se o cancelamento ou o estorno foi concluído no gateway, indicando quando é preciso pedir o estorno manual ao provedor.

@@ -17,7 +17,7 @@ legacySlug: por-que-o-status-do-pedido-nao-atualiza
 
 Esse cenário pode ocorrer com três status, dois na VTEX e um no marketplace. Segue descrição abaixo.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar o pedido: envie o número dele e ele identifica em que etapa o fluxo parou (pagamento, nota fiscal, manuseio ou ERP) e o que fazer em seguida.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga o pedido: envie o número do pedido e ele identifica em que etapa o fluxo parou (pagamento, nota fiscal, manuseio ou ERP) e o que fazer em seguida.
 
 ## Aguardando autorização para despachar
 

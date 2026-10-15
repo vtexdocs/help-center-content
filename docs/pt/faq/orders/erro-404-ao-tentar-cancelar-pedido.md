@@ -20,7 +20,7 @@ Ao tentar cancelar um pedido no módulo **Pedidos**, às vezes o sistema retorna
 - Como identificar o erro
 - O que fazer quando esse erro acontece
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar o pedido: envie o número dele e ele identifica se há erro no fluxo ou um cancelamento em andamento, o que ajuda a confirmar o cenário antes de você contatar o serviço externo.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, verifica o pedido: envie o número do pedido e ele identifica se há erro no fluxo ou um cancelamento em andamento, confirmando o cenário antes de você contatar o serviço externo.
 
 ## Como identificar o erro
 

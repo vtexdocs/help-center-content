@@ -42,4 +42,4 @@ Desse modo, continue com o processo:
 
 Pronto! Seus SKUs serão exibidos novamente na loja. 
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar a configuração de preço do SKU: envie o ID do SKU e ele mostra preço base, preço de lista, markup e preços fixos, indicando se um preço fixo está se sobrepondo ao preço de lista.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, verifica a configuração de preço do SKU: envie o ID do SKU e ele mostra preço base, preço de lista, markup e preços fixos, indicando se um preço fixo está se sobrepondo ao preço de lista.

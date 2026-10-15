@@ -28,4 +28,4 @@ Isso significa que, se uma compra foi realizada no dia __15/04__, a liquidação
 
 Já a liquidação do vale, será feita automaticamente, assim que o pagamento for aprovado.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar a liquidação de cada pagamento: envie a transação e ele mostra o histórico de liquidação, além das condições de pagamento configuradas na sua loja.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, verifica a liquidação de cada pagamento: envie a transação e ele mostra o histórico de liquidação, além das condições de pagamento configuradas na sua loja.

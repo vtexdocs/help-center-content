@@ -23,4 +23,4 @@ Ao visualizar a variável `hostName` no JSON da Central de mensagens, pode surgi
 
 Ou seja, não será carregado o valor inserido na área de Hosts, e sim, conforme imagem acima, será carregado para o template de e-mail o valor cadastrado em **Nome da Loja**.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode explicar as variáveis dos templates da Central de mensagens, como o hostName, e consultar os dados da sua conta para mostrar o nome da loja cadastrado.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, explica as variáveis dos templates da Central de mensagens, como o `hostName`, e consulta os dados da sua conta para mostrar o nome da loja cadastrado.

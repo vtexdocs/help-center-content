@@ -34,4 +34,4 @@ Caso fique constatado que o cliente não recebe o email e não esta no primeiro 
 
 Infelizmente a Amazon não possui uma forma automática para que isso seja feito. O processo ainda é manual.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar pelo e-mail se a conta do cliente existe na sua loja. Se for preciso pedir a remoção do e-mail da lista de supressão, ele abre o ticket para o Suporte VTEX com o contexto da conversa.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, verifica pelo e-mail se a conta do cliente existe na sua loja. Caso seja necessário solicitar a remoção do e-mail da lista de supressão, ele abre um ticket para o Suporte VTEX com o contexto da conversa.

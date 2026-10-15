@@ -23,4 +23,4 @@ Esta feature foi desenvolvida para atender aos casos em que sistemas participant
 
 Uma vez normalizada a situação do sistema parceiro, o Pagamentos envia as informações sobre o pagamento e o fluxo de aprovação pode seguir normalmente.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar um pagamento parado em Authorizing: envie o número do pedido e ele consulta o status da transação e verifica se a VTEX está com algum incidente no momento.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga um pagamento parado em `Authorizing`: envie o número do pedido e ele consulta o status da transação e verifica se a VTEX está com algum incidente no momento.

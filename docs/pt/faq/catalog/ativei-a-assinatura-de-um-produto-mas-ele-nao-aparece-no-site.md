@@ -34,4 +34,4 @@ _Para fazer a inclusão manual de SKUs específicos, siga o passo a passo abaixo
 
 Por fim, dê um nome ao __Grupo__ da sua Coleção e clique em __Save Group__.
 
-> ℹ️ Se o produto continuar fora do site depois da reindexação, peça ao [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, para verificar: com o ID do produto, ele lista cada configuração do catálogo que o mantém fora da vitrine.
+> ℹ️ Se o produto continuar fora do site após a reindexação, peça ao [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, para verificar: com o ID do produto, ele lista cada configuração do catálogo que o mantém fora da vitrine.

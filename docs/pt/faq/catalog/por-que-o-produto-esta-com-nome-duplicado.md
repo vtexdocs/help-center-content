@@ -44,4 +44,4 @@ Ou utilizar no nome do SKU apenas o complemento do nome do produto:
 - **Nome do SKU** estiver como: Azul
 - O sistema mostrará: Porta Canetas - Azul
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar a encontrar a diferença: envie o ID do produto e ele lista os SKUs com seus nomes, para você comparar com o nome do produto e ajustar o cadastro.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, ajuda a encontrar a diferença: envie o ID do produto e ele lista os SKUs com seus nomes, para você comparar com o nome do produto e ajustar o cadastro.

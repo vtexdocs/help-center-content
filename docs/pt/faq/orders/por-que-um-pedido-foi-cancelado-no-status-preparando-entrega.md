@@ -24,4 +24,4 @@ Quando o cancelamento acontece, o lojista é notificado por meio do [VTEX DO](/p
 
    > ❗ Apenas no status `Carência para cancelamento` a solicitação de cancelamento do cliente é unilateral, não cabendo ao lojista qualquer confirmação. Nos outros status, o lojista será informado sobre a solicitação através do VTEX DO.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode consultar o pedido: envie o número dele e ele mostra o status atual e se há um cancelamento em andamento, para ajudar você a decidir entre confirmar o cancelamento ou seguir com o faturamento.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, consulta o pedido: envie o número do pedido e ele mostra o status atual e se há um cancelamento em andamento, para ajudar você a decidir entre confirmar o cancelamento ou seguir com o faturamento.

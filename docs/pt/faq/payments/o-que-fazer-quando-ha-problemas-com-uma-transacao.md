@@ -37,4 +37,4 @@ A __TID__ é o número que deve ser usado para identificar uma transação no ga
 
 O fato de existir uma TID significa, inclusive, que a transação teve um início, pois essa informação é gerada quando se estabelece uma conexão com o gateway.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ler a transação por você: envie o número do pedido ou o ID da transação e ele mostra o status, a resposta da adquirente e o histórico de liquidação, ajudando a identificar a falha.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, lê a transação por você: envie o número do pedido ou o ID da transação e ele mostra o status, a resposta da adquirente e o histórico de liquidação, ajudando a identificar a falha.

@@ -27,4 +27,4 @@ O sistema provavelmente vai solicitar seu login. Faça a autenticação e tente 
 
 Se isto não resolver seu problema, pode ser que o módulo **Pedidos** esteja enfrentando uma indisponibilidade temporária, o que pode ser verificado em nossa [página de status](http://status.vtex.com/).
 
-> ℹ️ Se o erro continuar depois de fazer login novamente, pergunte ao [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, se a VTEX está com algum incidente: ele consulta o status da plataforma em tempo real e informa instabilidades recentes.
+> ℹ️ Se o erro persistir após fazer login novamente, pergunte ao [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, se a VTEX está com algum incidente: ele consulta o status da plataforma em tempo real e informa sobre instabilidades recentes.

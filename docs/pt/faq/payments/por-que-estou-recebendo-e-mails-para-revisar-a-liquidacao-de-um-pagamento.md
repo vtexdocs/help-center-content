@@ -23,4 +23,4 @@ No e-mail de alerta enviado pelo sistema, são incluídas informações úteis 
 
 _Importante: Caso deseje alterar o e-mail da pessoa que recebe as notificações do PCI, [clique aqui](/pt/docs/tutorials/como-configurar-notificacoes/) para saber como._
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar a confirmar essa liquidação: envie o número do pedido ou o ID da transação e ele consulta o histórico de liquidação em Pagamentos, reunindo os dados para você validar com o provedor.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, checa essa liquidação: envie o número do pedido ou o ID da transação e ele consulta o histórico de liquidação em Pagamentos, reunindo os dados para você validar com o provedor.

@@ -41,4 +41,4 @@ Por fim, retorne ao painel inicial e siga as etapas abaixo.
 
 Para saber mais, leia o artigo [Configurar tabelas de preços para usuários específicos](/pt/docs/tutorials/configurar-price-tables-especificas).
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode fazer essas verificações: com o ID do SKU e o e-mail do cliente, ele confere se o produto está ativo, se o cadastro do cliente tem a tabela de preços e se o SKU tem preço nela.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, faz essas verificações: com o ID do SKU e o e-mail do cliente, ele valida se o produto está ativo, se o cadastro do cliente está associado à tabela de preços e se o SKU tem preço nela.

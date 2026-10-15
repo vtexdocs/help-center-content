@@ -31,4 +31,4 @@ Mas caso a mensagem informe que `a chamada ao recurso do serviço retornou o sta
 
 Neste caso, é necessário entrar em contato com o marketplace para que ele verifique o serviço de integração.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar este pedido: envie o número do pedido e ele identifica onde o fluxo parou (pagamento, nota fiscal, manuseio ou ERP) e se a nota registrada cobre o valor total.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga este pedido: envie o número do pedido e ele identifica onde o fluxo parou (pagamento, nota fiscal, manuseio ou ERP) e se a nota registrada cobre o valor total.

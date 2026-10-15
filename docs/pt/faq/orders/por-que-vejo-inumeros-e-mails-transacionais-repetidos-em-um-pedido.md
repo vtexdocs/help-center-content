@@ -29,4 +29,4 @@ No Admin VTEX, em **Pedidos > Todos os pedidos**, ao clicar em um pedido e acess
 
    O servidor de envio dos emails transacionais (SMTP), não conseguindo o OK do servidor de destino, seguirá tentando repetidamente entregar o email enviado pelo módulo **Pedidos**.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar o pedido: envie o número dele e ele verifica se a nota fiscal registrada cobre o valor total, causa comum de o ERP reenviar a nota e repetir os e-mails.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga o pedido: envie o número do pedido e ele verifica se a nota fiscal registrada cobre o valor total, causa comum de o ERP reenviar a nota e repetir os e-mails.

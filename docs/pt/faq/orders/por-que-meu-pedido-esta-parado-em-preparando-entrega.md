@@ -17,7 +17,7 @@ legacySlug: por-que-meu-pedido-esta-parado-em-preparando-entrega
 
 `Preparando Entrega` é um status do fluxo de pedidos em que se espera o cadastro da nota fiscal para a fatura. O pedido ficará nesse status até que seu [faturamento](/pt/docs/tracks/faturar-um-pedido) seja realizado, ou seja, até que a nota fiscal seja inserida no pedido.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar este pedido: envie o número do pedido e ele verifica se há nota fiscal inserida e se o valor faturado cobre o total do pedido, indicando o que falta para avançar.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga este pedido: envie o número do pedido e ele verifica se há nota fiscal inserida e se o valor faturado cobre o total do pedido, indicando o que falta para avançar.
 
 ## Faturamento no módulo Pedidos
 

@@ -17,7 +17,7 @@ legacySlug: por-que-o-pedido-nao-fatura-no-marketplace
 
 Este cenário é caracterizado pela inserção da nota fiscal e a fatura do pedido na VTEX, mas a permanência do status anterior no marketplace.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar o pedido do lado da VTEX: envie o número do pedido e ele confirma o status e as notas fiscais registradas. O que acontece no marketplace deve ser conferido no Bridge.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, verifica o pedido do lado da VTEX: envie o número do pedido e ele confirma o status e as notas fiscais registradas. O que acontece no marketplace deve ser [conferido no Bridge](#verifique-o-bridge).
 
 ## Verifique o Bridge
 

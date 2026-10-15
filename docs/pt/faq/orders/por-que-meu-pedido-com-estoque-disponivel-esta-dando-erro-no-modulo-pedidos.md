@@ -23,4 +23,4 @@ Dessa forma, com um estoque reduzido e sem SKU para os dois pedidos, um deles fi
 
 A solução aqui é adicionar estoque a esse SKU ou cancelar o pedido, já que sua reserva caiu, seu SKU foi direcionado para outro pedido e o estoque estava sem cobertura.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar este pedido: envie o número do pedido e ele identifica em que etapa o fluxo parou. Com o ID do SKU, ele também mostra quanto do estoque está reservado e quanto está disponível.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga este pedido: envie o número do pedido e ele identifica em que etapa o fluxo parou. Com o ID do SKU, ele também mostra quanto do estoque está reservado e quanto está disponível.
