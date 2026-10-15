@@ -175,6 +175,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Bolivia address database update",
+                    "es": "Actualización de la base de direcciones de Bolivia",
+                    "pt": "Atualização da base de endereços da Bolívia"
+                  },
+                  "slug": {
+                    "en": "2026-09-30-bolivia-address-database-update",
+                    "es": "2026-09-30-actualizacion-de-la-base-de-direcciones-de-bolivia",
+                    "pt": "2026-09-30-atualizacao-da-base-de-enderecos-da-bolivia"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Budget Pacing now available in VTEX Ads",
                     "es": "Budget Pacing disponible en VTEX Ads",
                     "pt": "Budget Pacing disponível no VTEX Ads"
@@ -70346,6 +70361,21 @@
                 "en": "mercado-livre-ads-incorrectly-recreated-as-crossdocking-for-full-skus-with-zero-stock",
                 "es": "mercado-livre-anuncios-recreados-incorrectamente-como-crossdocking-para-sku-completos-con-stock-cero",
                 "pt": "mercado-livre-anuncios-recriados-incorretamente-como-crossdocking-para-skus-completos-com-estoque-zero"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Package dimensions are now mandatory for ME1 items on Mercado Livre",
+                "es": "Mercado Livre Las dimensiones del paquete ahora son obligatorias para los artículos ME1 en Mercado Livre",
+                "pt": "Mercado Livre Dimensões das embalagens agora são obrigatórias para itens ME1 no Mercado Livre"
+              },
+              "slug": {
+                "en": "mercado-livre-package-dimensions-are-now-mandatory-for-me1-items-on-mercado-livre",
+                "es": "mercado-livre-las-dimensiones-del-paquete-ahora-son-obligatorias-para-los-articulos-me1-en-mercado-livre",
+                "pt": "mercado-livre-dimensoes-das-embalagens-agora-sao-obrigatorias-para-itens-me1-no-mercado-livre"
               },
               "origin": "",
               "type": "markdown",
