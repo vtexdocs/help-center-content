@@ -23,7 +23,7 @@ Some important points about how this setting works:
 * When you enable persistent login for the first time, the default duration is **1 day**. You can change it at any time.
 * Changes to the setting (including disabling persistent login) apply only to new logins performed after the change. Sessions that are already active continue behaving as they did before the change.
 * If you disable persistent login and then enable it again, the last saved duration is restored (the setting doesn't automatically go back to 1 day).
-* In stores with [Store Framework](https://developers.vtex.com/docs/guides/store-framework) or [CMS Portal (Legacy)](https://help.vtex.com/en/docs/tracks/legacy-cms-portal), the renewal of customer access is automatic. In headless stores, you need to implement the token renewal on your own, except when the storefront uses the [FastStore SDK](https://developers.vtex.com/docs/guides/faststore/sdk-overview). To implement session renewal in a headless store, see the developer guide [Refresh token flow for headless implementations](https://developers.vtex.com/docs/guides/refresh-token-flow-for-headless-implementations). If your store uses FastStore, also see [Enabling refresh token on FastStore](https://developers.vtex.com/docs/guides/faststore/session-enabling-refresh-token).
+* How customer access is renewed depends on the storefront technology. Headless and FastStore stores require additional steps, described in [Additional steps by store type](#additional-steps-by-store-type).
 
 ## Prerequisites
 
@@ -40,6 +40,16 @@ To start using persistent login, enable the feature in the corresponding card on
     ![Persistent login card on the Webstore tab](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/configuring-persistent-login-for-customers_1.png)
 
 When you enable it, a notification confirms the activation and informs the duration that now applies to new logins (1 day, on first use, or the last saved duration, on reactivation).
+
+## Additional steps by store type
+
+After enabling persistent login, check whether your store needs any additional steps. What changes is how customer access is renewed, which depends on the storefront technology.
+
+In stores with [Store Framework](https://developers.vtex.com/docs/guides/store-framework) or [CMS Portal (Legacy)](https://help.vtex.com/en/docs/tracks/legacy-cms-portal), you only need to enable persistent login in the VTEX Admin, since customer access renewal in the store is automatic.
+
+In headless stores, in addition to enabling persistent login in the VTEX Admin, you need to implement customer access renewal through the VTEX ID APIs. The developer guide [Refresh token flow for headless implementations](https://developers.vtex.com/docs/guides/refresh-token-flow-for-headless-implementations) explains how to do this.
+
+If your store uses FastStore, in addition to enabling persistent login in the VTEX Admin, you need to enable the refresh token in your project, as described in [Enabling refresh token on FastStore](https://developers.vtex.com/docs/guides/faststore/session-enabling-refresh-token).
 
 ## Configure the persistent login duration
 
@@ -71,4 +81,5 @@ From that moment on, new customer logins stop receiving the refresh token, retur
 ## Learn more
 
 - [Refresh token flow for headless implementations](https://developers.vtex.com/docs/guides/refresh-token-flow-for-headless-implementations)
+- [Enabling refresh token on FastStore](https://developers.vtex.com/docs/guides/faststore/session-enabling-refresh-token)
 - [Authentication](https://help.vtex.com/en/docs/tutorials/authentication)
