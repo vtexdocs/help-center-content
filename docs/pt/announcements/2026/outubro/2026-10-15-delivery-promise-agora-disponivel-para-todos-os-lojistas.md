@@ -49,6 +49,6 @@ Para ativar a funcionalidade, siga as instruções do guia [Ativar o Delivery Pr
 - [Delivery Promise](/pt/docs/tutorials/delivery-promise)
 - [Ativar o Delivery Promise](/pt/docs/tutorials/ativar-delivery-promise)
 - [Delivery Promise: FAQ](/pt/docs/tutorials/delivery-promise-faq)
-- [Setting up Delivery Promise components (Beta)](https://developers.vtex.com/docs/guides/setting-up-delivery-promise-components)
+- [Setting up Delivery Promise components](https://developers.vtex.com/docs/guides/setting-up-delivery-promise-components)
 - [Delivery Promise for FastStore](https://developers.vtex.com/docs/guides/faststore/features-delivery-promise)
-- [Delivery promise for headless stores (Beta)](https://developers.vtex.com/docs/guides/delivery-promise-for-headless-stores)
+- [Delivery promise for headless stores](https://developers.vtex.com/docs/guides/delivery-promise-for-headless-stores)
