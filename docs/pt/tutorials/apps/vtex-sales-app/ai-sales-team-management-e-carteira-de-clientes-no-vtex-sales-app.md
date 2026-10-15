@@ -40,11 +40,15 @@ O **AI Sales Team Management** interpreta a sua instrução, prepara e apresenta
 
 ## Acessar o agente
 
-Para abrir o **AI Sales Team Management**, no Admin VTEX, acesse **Apps > Sales Management > Sales Team**. A interface apresentada é composta por uma janela conversacional, como mostra a imagem a seguir:
+Para abrir o **AI Sales Team Management**, no Admin VTEX, acesse **Aplicativos > Gestão de Vendas > Agente de Equipe**. A interface apresentada é composta por uma janela conversacional, como mostra a imagem a seguir:
 
 ![ai-sales-team-management-interface-pt](XXX)
 
-Pelo chat, você pode fazer a sua solicitação de forma inteiramente conversacional ou realizar [alterações em massa](#realizar-ações-em-massa-em-times-sales-reps-e-carteiras-de-clientes) por meio da importação de arquivos.
+A tela apresenta algumas sugestões para começar. Ao clicar em uma delas ou digitar uma instrução no chat e clicar em Enviar, o agente dará início ao atendimento.
+
+> ℹ️ Para conhecer as ações executadas pelo agente, confira a seção [Gerenciar times, sales reps e carteiras de clientes](#gerenciar-times-sales-reps-e-carteiras-de-clientes).
+
+O **AI Sales Team Management** pode realizar solicitações de forma inteiramente conversacional ou fazer [alterações em massa](#realizar-acoes-em-massa-em-times-sales-reps-e-carteiras-de-clientes) por meio da importação de arquivos, como será visto adiante.
 
 ## Regras do funcionamento
 
