@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Bolivia address database update",
+                    "es": "Actualización de la base de direcciones de Bolivia",
+                    "pt": "Atualização da base de endereços da Bolívia"
+                  },
+                  "slug": {
+                    "en": "2026-10-15-bolivia-address-database-update",
+                    "es": "2026-10-15-actualizacion-de-la-base-de-direcciones-de-bolivia",
+                    "pt": "2026-10-15-atualizacao-da-base-de-enderecos-da-bolivia"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "VTEX CMS: now available for early access",
                     "es": "VTEX CMS: ahora disponible en acceso anticipado",
                     "pt": "VTEX CMS: agora disponível em acesso antecipado"
@@ -173,21 +188,6 @@
               "origin": "",
               "type": "category",
               "children": [
-                {
-                  "name": {
-                    "en": "Bolivia address database update",
-                    "es": "Actualización de la base de direcciones de Bolivia",
-                    "pt": "Atualização da base de endereços da Bolívia"
-                  },
-                  "slug": {
-                    "en": "2026-09-30-bolivia-address-database-update",
-                    "es": "2026-09-30-actualizacion-de-la-base-de-direcciones-de-bolivia",
-                    "pt": "2026-09-30-atualizacao-da-base-de-enderecos-da-bolivia"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Budget Pacing now available in VTEX Ads",
