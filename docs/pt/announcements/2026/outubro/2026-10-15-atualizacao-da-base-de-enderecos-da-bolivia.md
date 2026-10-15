@@ -1,12 +1,12 @@
 ---
 title: 'Atualização da base de endereços da Bolívia'
-slug: '2026-09-30-atualizacao-da-base-de-enderecos-da-bolivia'
+slug: '2026-10-15-atualizacao-da-base-de-enderecos-da-bolivia'
 hidden: false
-createdAt: 2026-09-30T00:00:00.000Z
-updatedAt: 2026-09-30T00:00:00.000Z
+createdAt: 2026-10-15T00:00:00.000Z
+updatedAt: 2026-10-15T00:00:00.000Z
 contentType: updates
 productTeam: Checkout
-slugEN: '2026-09-30-bolivia-address-database-update'
+slugEN: '2026-10-15-bolivia-address-database-update'
 locale: pt
 announcementSynopsisPT: 'A base de endereços da Bolívia foi atualizada com os dados oficiais do Censo 2024. Lojas que usam códigos postais bolivianos devem revisar as planilhas de frete e os pontos de retirada.'
 tags:

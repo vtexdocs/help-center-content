@@ -1,12 +1,12 @@
 ---
 title: 'Bolivia address database update'
-slug: '2026-09-30-bolivia-address-database-update'
+slug: '2026-10-15-bolivia-address-database-update'
 hidden: false
-createdAt: 2026-09-30T00:00:00.000Z
-updatedAt: 2026-09-30T00:00:00.000Z
+createdAt: 2026-10-15T00:00:00.000Z
+updatedAt: 2026-10-15T00:00:00.000Z
 contentType: updates
 productTeam: Checkout
-slugEN: '2026-09-30-bolivia-address-database-update'
+slugEN: '2026-10-15-bolivia-address-database-update'
 locale: en
 announcementSynopsisEN: 'The Bolivia address database has been updated with official data from the 2024 Census. Stores using Bolivian postal codes must review their shipping rate templates and pickup points.'
 tags:

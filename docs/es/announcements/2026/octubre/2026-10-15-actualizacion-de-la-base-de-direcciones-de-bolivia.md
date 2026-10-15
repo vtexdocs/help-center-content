@@ -1,12 +1,12 @@
 ---
 title: 'Actualización de la base de direcciones de Bolivia'
-slug: '2026-09-30-actualizacion-de-la-base-de-direcciones-de-bolivia'
+slug: '2026-10-15-actualizacion-de-la-base-de-direcciones-de-bolivia'
 hidden: false
-createdAt: 2026-09-30T00:00:00.000Z
-updatedAt: 2026-09-30T00:00:00.000Z
+createdAt: 2026-10-15T00:00:00.000Z
+updatedAt: 2026-10-15T00:00:00.000Z
 contentType: updates
 productTeam: Checkout
-slugEN: '2026-09-30-bolivia-address-database-update'
+slugEN: '2026-10-15-bolivia-address-database-update'
 locale: es
 announcementSynopsisES: 'La base de direcciones de Bolivia se actualizó con los datos oficiales del Censo 2024. Las tiendas que usan códigos postales bolivianos deben revisar las plantillas de envío y los puntos de recogida.'
 tags:
