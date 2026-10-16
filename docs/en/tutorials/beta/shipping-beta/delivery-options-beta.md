@@ -17,7 +17,7 @@ subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 
 **Delivery Options** is a page in the VTEX Admin that allows you to configure flexible and accurate delivery options during the buying journey, such as defining different types of delivery availability and geographic zones and controlling how and when these options are displayed to the customer.
 
-> ℹ️ Delivery Options must be used together with [Delivery Promise](/en/docs/tutorials/delivery-promise): the delivery options you configure are displayed as shipping filters in the store search, so customers only see the products they can receive with the delivery method and time frame they choose. You activate Delivery Options in the [Delivery Promise activation flow](/en/docs/tutorials/activate-delivery-promise) in the VTEX Admin, in the **(Optional) Step 2: Reviewing delivery option** step. You don't need to contact VTEX Support to activate it.
+> ℹ️ Delivery Options must be used together with [Delivery Promise](/en/docs/tutorials/delivery-promise): the delivery options you configure are displayed as shipping filters in the store search, so customers only see the products they can receive with the delivery method and time frame they choose. You activate Delivery Options in the [Delivery Promise activation flow](/en/docs/tutorials/activate-delivery-promise) in the VTEX Admin, in the **(Optional) Step 2: Reviewing delivery option** step.
 
 This gives merchants autonomy to create, configure, and manage delivery options as strategic content on the VTEX platform. This approach provides more flexibility to align logistical capabilities with business objectives, enhancing the shopping experience for customers.
 
