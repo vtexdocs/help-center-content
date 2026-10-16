@@ -150,9 +150,11 @@ O time é a unidade da estrutura de vendas no contexto do **AI Sales Team Manage
 
 ### Realizar ações em carteiras de clientes
 
-A carteira de clientes representa os contratos para os quais um time ou subtime pode visualizar cotações e criar pedidos. Para que a carteira seja atendida por um único sales rep, crie um subtime com essa pessoa como único integrante.
+A carteira de clientes representa os contratos para os quais o time ou subtime tem acesso para cotações e criação de pedidos.
 
-A tabela a seguir apresenta as ações que você pode realizar em carteiras de clientes:
+> ℹ️ Para que uma carteira seja atendida por um sales rep, crie um subtime com essa pessoa como único integrante.
+
+A tabela a seguir apresenta as ações que você pode realizar sobre as carteiras de clientes:
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
