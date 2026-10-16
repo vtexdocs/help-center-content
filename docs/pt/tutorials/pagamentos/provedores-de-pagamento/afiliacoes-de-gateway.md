@@ -1,21 +1,17 @@
 ---
 title: 'Cadastrar provedores de pagamento e antifraude'
-id: tutorials_444
-status: PUBLISHED
 createdAt: 2017-04-27T22:05:18.209Z
-updatedAt: 2024-01-22T20:37:11.273Z
-publishedAt: 2024-01-22T20:37:11.273Z
-firstPublishedAt: 2017-04-27T23:03:24.823Z
+updatedAt: 2026-10-15T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: authors_84
 slugEN: registering-gateway-affiliations
-legacySlug: afiliacoes-de-gateway
 locale: pt
-subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+hidden: false
 ---
 
-Com a VTEX, você pode realizar a configuração de diversos provedores: gateways, adquirentes, subadquirentes, [orquestradores](https://www.y.uno/br), [PSPs](https://en.wikipedia.org/wiki/Payment_service_provider), entre outros. Estes lhe permitem oferecer diferentes métodos e condições de pagamentos aos seus clientes, bem como serviços de proteção de antifraude. Anteriormente, essas configurações eram conhecidas em nosso sistema como afiliações de gateway.
+Com a VTEX, você pode configurar diversos tipos de provedores, como gateways, adquirentes, subadquirentes, orquestradores e provedores de serviços de pagamento (PSPs), que permitem oferecer diferentes meios e condições de pagamento aos seus clientes, além de serviços de proteção antifraude. Anteriormente, essas configurações eram conhecidas em nosso sistema como afiliações de gateway.
+
+> ℹ️ Para compreender as atribuições de cada instituição envolvida nas operações de pagamento, consulte [Agentes financeiros no fluxo de pagamento](https://help.vtex.com/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento).
 
 Por meio da tela de gerenciamento de provedores você pode:
 
@@ -31,38 +27,32 @@ Para adicionar um novo provedor de pagamento ou antifraude em sua loja, siga os 
 
 1. No Admin VTEX, acesse __Configurações > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
 2. Clique em `Novo provedor`.
-3. Clique no provedor de pagamento de sua preferência.
-4. Preencha os campos __Chave de aplicação__ e __Token de aplicação__ com as informações fornecidas pelo provedor de pagamento.
-5. Caso seja exibida uma mensagem de alerta indicando a necessidade de instalação do app, clique no botão __Instalar app__ e siga as instruções de instalação. Esta mensagem é exibida somente para alguns tipos de afiliações de gateway.
+3. Digite o nome do provedor de pagamento ou antifraude desejado na barra de busca e clique sobre ele.
+4. Preencha os campos __Chave de aplicação__ e __Token de aplicação__ com as informações fornecidas pelo provedor.
+5. Caso seja exibida uma mensagem de alerta indicando a necessidade de instalação do app, clique no botão __Instalar app__ e siga as instruções de instalação. Esta mensagem é exibida somente para alguns tipos de conectores.
 6. Clique em `Salvar`.
 
-> ℹ️ Caso haja outros campos a serem preenchidos além do **Chave de aplicação** e **Token de aplicação** (Passo 6), o provedor deve ser configurado conforme tutorial específico. Para maiores informações, verifique a subseção [Configurações de Pagamento](/pt/subcategory/configuracoes-de-pagamentos--3tDGibM2tqMyqIyukqmmMw).
+> ℹ️ Alguns provedores exigem outros campos além da **Chave de aplicação** e do **Token de aplicação** (passo 4) ou a instalação de um app (passo 5). Nesses casos, configure o provedor conforme o tutorial específico, disponível na [Lista de provedores de pagamento por país](/pt/docs/tutorials/lista-de-provedores-de-pagamento-por-pais).
 
 > ❗ As credenciais utilizadas para preencher os campos **Chave de aplicação** e **Token de aplicação** devem ser fornecidas pelo provedor de pagamentos para identificar a loja. Não devem ser utilizadas [credenciais geradas no Admin](/pt/docs/tutorials/chaves-de-api#gerar-chaves-de-aplicacao-na-sua-conta), que se iniciam com `vtexappkey-`.
 
-Para configurar os métodos de pagamento a serem processados pelo provedor de pagamento escolhido, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento). 
-
-Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete).
+Depois de salvar, o provedor passa a ser exibido na tela de gerenciamento de provedores. Em seguida, defina em [Condições de pagamento](/pt/docs/tutorials/condicoes-de-pagamento) os meios de pagamento que ele vai processar e, se necessário, configure [condições especiais](/pt/docs/tutorials/condicoes-especiais) para esses meios.
 
 ![interface_provedor_PT_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/provedores-de-pagamento/afiliacoes-de-gateway_2.JPG)
 
 ## Visualizar provedores cadastrados
 
-A tela principal de gerenciamento de provedores, disponível no Admin VTEX em __Configurações > Pagamentos > Provedores__, exibe todos os provedores de pagamento ou antifraude cadastrados em uma loja. Para permitir o acesso rápido a informações de provedores específicos é possível realizar uma busca ou utilizar um filtro.
+A tela principal de gerenciamento de provedores, disponível no Admin VTEX em __Configurações > Pagamentos > Provedores__, exibe todos os provedores de pagamento ou antifraude cadastrados em uma loja. Para acessar rapidamente um provedor específico, você pode buscar pelo nome ou aplicar filtros.
 
 ### Buscar provedores
 
-Para localizar provedores pelo nome, acesse a página de gerenciamento de provedores e digite o nome do provedor desejado.
+Para localizar provedores pelo nome, acesse a página de gerenciamento de provedores e digite o nome do provedor desejado na barra de busca ou no filtro __Nome__.
 
 ![interface_provedor_PT_3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/provedores-de-pagamento/afiliacoes-de-gateway_3.JPG)
 
 ### Filtrar provedores
 
 Para selecionar a exibição de provedores por meio de filtros, acesse a página de gerenciamento de provedores e aplique um ou mais filtros indicados abaixo, conforme desejado.
-
-- __Nome__: selecione a exibição de provedores de pagamento por meio do nome, ativando a caixa de texto ou digitando na barra de busca do menu.
-
-![interface_provedor_PT_4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/provedores-de-pagamento/afiliacoes-de-gateway_4.JPG)
 
 - __Tipo__: selecione a exibição de provedores de pagamento, antifraude ou ambos.
 
@@ -74,7 +64,7 @@ Para selecionar a exibição de provedores por meio de filtros, acesse a página
 
 > ❗ Para remover os filtros aplicados e voltar a visualizar todos os provedores cadastrados na loja, clique no botão `Limpar todos`.
 
-### Editar configurações de provedores
+## Editar configurações de provedores
 
 Para editar configurações de provedores de pagamento ou antifraude já cadastrados na loja, siga os passos abaixo:
 
@@ -85,5 +75,4 @@ Para editar configurações de provedores de pagamento ou antifraude já cadastr
 
 ![interface_provedor_PT_7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/provedores-de-pagamento/afiliacoes-de-gateway_7.JPG)
 
-> ❗ Antes de realizar qualquer alteração na configuração de um provedor, como por exemplo: dados de autorização, modo de processamento ou tipo de reembolso, certifique-se de que as novas informações a serem inseridas não irão prejudicar o seu desempenho operacional na loja.
-
+> ❗ Alterações na configuração de um provedor, como nas credenciais de **Chave de aplicação** e **Token de aplicação**, no modo de processamento, no tipo de reembolso ou na opção **Ativar modo de teste**, afetam os pagamentos que ele processa na loja. Antes de salvar, confirme com o provedor que as novas informações estão corretas.

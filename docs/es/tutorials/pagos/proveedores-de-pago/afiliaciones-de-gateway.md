@@ -1,18 +1,12 @@
 ---
 title: 'Registrar proveedores de pagos y antifraude'
-id: tutorials_444
-status: PUBLISHED
 createdAt: 2017-04-27T22:05:18.209Z
-updatedAt: 2024-01-22T20:37:11.273Z
-publishedAt: 2024-01-22T20:37:11.273Z
-firstPublishedAt: 2017-04-27T23:03:24.823Z
+updatedAt: 2026-10-15T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: authors_84
 slugEN: registering-gateway-affiliations
-legacySlug: afiliaciones-de-gateway
 locale: es
-subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+hidden: false
 ---
 
 En VTEX puedes configurar diversos proveedores como gateways, adquirentes, subadquirentes, [orquestadores](https://www.y.uno/en) o [PSP](https://en.wikipedia.org/wiki/Payment_service_provider) que te permiten ofrecer diferentes medios y condiciones de pago a tus clientes, así como servicios de protección antifraude. Antes, estas configuraciones eran conocidas como "afiliaciones de gateway" en nuestro sistema.

@@ -1,18 +1,12 @@
 ---
 title: 'Register payment and anti-fraud providers'
-id: tutorials_444
-status: PUBLISHED
 createdAt: 2017-04-27T22:05:18.209Z
-updatedAt: 2024-01-22T20:37:11.273Z
-publishedAt: 2024-01-22T20:37:11.273Z
-firstPublishedAt: 2017-04-27T23:03:24.823Z
+updatedAt: 2026-10-15T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: authors_84
 slugEN: registering-gateway-affiliations
-legacySlug: registering-gateway-affiliations
 locale: en
-subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+hidden: false
 ---
 
 VTEX allows you to set up different providers: gateways, acquirers, sub-acquirers, [orchestrators](https://www.y.uno/br), [PSPs](https://en.wikipedia.org/wiki/Payment_service_provider), and more. These allow you to provide your customers with different payment methods and conditions and antifraud protection services. Previously, these settings were referred to in our system as "gateway providers".
