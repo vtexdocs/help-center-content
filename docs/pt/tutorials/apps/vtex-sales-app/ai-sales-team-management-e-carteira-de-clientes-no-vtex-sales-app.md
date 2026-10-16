@@ -18,6 +18,23 @@ O **AI Sales Team Management** é um agente de inteligência artificial que perm
 
 Para usar o **AI Sales Team Management**, é necessário que a sua conta utilize o [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt) e tenha [contratos](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) previamente cadastrados.
 
+### Permissões de acesso
+
+Para realizar ações no **AI Sales Team Management**, o usuário precisa ter um [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) com os [recursos do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager) correspondentes a cada operação, conforme a tabela a seguir:
+
+| **Produto** | **Categoria** | **Recurso** | **Operações permitidas** |
+| :--- | :--- | :--- | :--- |
+| Organization Units | units | **View Storefront User Permissions** | Listar times e visualizar detalhes, integrantes e contratos vinculados. |
+| Organization Units | units | **Edit Organization Unit** | Criar, renomear, mover e remover times, adicionar e remover usuários e vincular contratos. |
+| License Manager | Services access control | **Save user** | Criar usuários, atribuir ou remover perfis de acesso para usuários, editar dados de usuários, criar e alterar chaves de aplicação. Necessário para atribuir o perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person) aos sales reps. |
+| License Manager | Services access control | **Find user by email** | Buscar usuários por email. |
+| License Manager | Services access control | **Get paged roles** | Listar todos os perfis de acesso de uma conta. |
+| Dynamic Storage | Dynamic storage generic resources | **Insert or update document (not remove)** | Criar e atualizar os cadastros nas entidades `vendors` e `shopper` e consultar contratos (entidade `CL`). |
+
+> ℹ️ Se o usuário precisar apenas consultar informações, o recurso **Read only documents** do Dynamic Storage é suficiente no lugar de **Insert or update document (not remove)**.
+
+Para conceder o acesso mínimo necessário, recomendamos [criar um perfil de acesso](https://help.vtex.com/pt/docs/tutorials/criar-perfil-de-acesso) personalizado apenas com os recursos listados acima.
+
 ## Conceitos
 
 A tabela a seguir apresenta a terminologia utilizada no **AI Sales Team Management**:
