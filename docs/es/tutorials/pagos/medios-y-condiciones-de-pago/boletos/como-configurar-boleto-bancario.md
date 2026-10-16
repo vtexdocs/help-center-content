@@ -1,18 +1,12 @@
 ---
 title: 'Configurar boleto bancario'
-id: tutorials_447
-status: PUBLISHED
 createdAt: 2017-04-27T22:04:55.249Z
-updatedAt: 2024-04-16T14:44:36.023Z
-publishedAt: 2024-04-16T14:44:36.023Z
-firstPublishedAt: 2017-04-27T23:03:25.766Z
+updatedAt: 2026-10-05T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: authors_84
 slugEN: how-to-configure-a-boleto
-legacySlug: como-configurar-boleto-bancario
 locale: es
-subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+hidden: false
 ---
 
 En VTEX, su tienda puede vender a través del [Boleto Bancário](/es/docs/tutorials/boleto-bancario-registrado-flujo). Para configurar el Boleto Bancario, siga los pasos a continuación:
