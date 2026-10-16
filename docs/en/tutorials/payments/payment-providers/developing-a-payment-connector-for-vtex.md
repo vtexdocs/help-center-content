@@ -1,18 +1,12 @@
 ---
 title: 'Developing a payment connector for VTEX'
-id: 4QXXdhv3HQSMbvzTbgnv0G
-status: PUBLISHED
 createdAt: 2025-05-28T10:29:13.599Z
-updatedAt: 2025-06-17T11:08:47.238Z
-publishedAt: 2025-06-17T11:08:47.238Z
-firstPublishedAt: 2025-05-29T17:10:05.040Z
+updatedAt: 2026-10-16T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: developing-a-payment-connector-for-vtex
-legacySlug: developing-a-payment-connector-for-vtex
 locale: en
-subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
+hidden: false
 ---
 
 This article is a comprehensive guide for partners looking to develop [payment connectors](/en/docs/tutorials/what-is-the-connector) compatible with the VTEX platform. It focuses on enabling efficient, standardized integrations that allow connectors to work seamlessly across all stores on the platform.
