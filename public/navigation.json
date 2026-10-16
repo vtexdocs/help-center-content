@@ -57932,21 +57932,6 @@
             },
             {
               "name": {
-                "en": "Native split with asymmetric financial charge across suborders settles less than the invoiced amount",
-                "es": "La división nativa con cargo financiero asimétrico entre subórdenes se liquida por un monto menor al facturado.",
-                "pt": "A divisão nativa com cobrança financeira assimétrica entre subpedidos resulta em um valor inferior ao faturado."
-              },
-              "slug": {
-                "en": "native-split-with-asymmetric-financial-charge-across-suborders-settles-less-than-the-invoiced-amount",
-                "es": "la-division-nativa-con-cargo-financiero-asimetrico-entre-subordenes-se-liquida-por-un-monto-menor-al-facturado",
-                "pt": "a-divisao-nativa-com-cobranca-financeira-assimetrica-entre-subpedidos-resulta-em-um-valor-inferior-ao-faturado"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "User deletion from Order Authorization rule blocks order and does not allow UI reprocessing",
                 "es": "La eliminación del usuario de la regla de autorización de pedidos bloquea el pedido y no permite el reprocesamiento de la interfaz de usuario",
                 "pt": "A exclusão do usuário da regra de Autorização de Pedido bloqueia o pedido e não permite o reprocessamento da IU"
@@ -58090,6 +58075,21 @@
                 "en": "some-addresses-autocompleted-by-google-are-not-able-to-be-saved-on-my-account",
                 "es": "algunas-direcciones-que-google-autocompleta-no-se-pueden-guardar-en-mi-cuenta",
                 "pt": "alguns-enderecos-preenchidos-automaticamente-pelo-google-nao-podem-ser-salvos-em-minha-conta"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order changes can leave capture, cancellation and refund amounts out of sync with the order",
+                "es": "Los cambios en el pedido pueden provocar que los importes de captura, cancelación y reembolso no coincidan con el pedido.",
+                "pt": "Alterações no pedido podem fazer com que os valores de captura, cancelamento e reembolso fiquem dessincronizados com o pedido."
+              },
+              "slug": {
+                "en": "order-changes-can-leave-capture-cancellation-and-refund-amounts-out-of-sync-with-the-order",
+                "es": "los-cambios-en-el-pedido-pueden-provocar-que-los-importes-de-captura-cancelacion-y-reembolso-no-coincidan-con-el-pedido",
+                "pt": "alteracoes-no-pedido-podem-fazer-com-que-os-valores-de-captura-cancelamento-e-reembolso-fiquem-dessincronizados-com-o-pedido"
               },
               "origin": "",
               "type": "markdown",
