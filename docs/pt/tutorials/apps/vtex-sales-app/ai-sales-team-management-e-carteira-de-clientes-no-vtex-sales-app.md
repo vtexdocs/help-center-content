@@ -109,7 +109,7 @@ As ações só podem ser executadas por usuários com as [permissões de acesso]
 
 ### Realizar ações em sales reps
 
-Os integrantes do time são cadastrados pelo **AI Sales Team Management** e chamados de sales reps. Para poder acessar o Admin VTEX, esses usuários precisam ter o perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person).
+Os integrantes do time são cadastrados pelo **AI Sales Team Management** e chamados de sales reps. Esses usuários precisam ter o perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person), que dá acesso às funcionalidades de televendas, como navegar na loja em nome do cliente. Após o login, o usuário com esse perfil é redirecionado para a loja e não tem acesso a recursos importantes do Admin VTEX.
 
 Ao criar um sales rep, o agente atribui o perfil **inStore Sales Person** por padrão e pede a sua confirmação antes de prosseguir. Não é possível atribuir outro perfil de acesso a sales reps pelo agente, que também não cria [perfis de acesso](https://help.vtex.com/pt/docs/tutorials/criar-perfil-de-acesso).
 
