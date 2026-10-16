@@ -118,9 +118,7 @@ As ações só podem ser executadas por usuários com as [permissões de acesso]
 
 ### Realizar ações em sales reps
 
-Os integrantes do time são cadastrados pelo **AI Sales Team Management** e chamados de sales reps.
-
-A tabela a seguir apresenta as ações que você pode realizar em sales reps:
+Os integrantes do time cadastrados pelo **AI Sales Team Management** são chamados de sales reps e a tabela a seguir apresenta quais ações você pode realizar relacionadas a eles:
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
