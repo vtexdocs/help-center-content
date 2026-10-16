@@ -13,31 +13,28 @@ slugEN: how-to-identify-layout-errors-caused-by-javascript-files
 legacySlug: como-identificar-erros-de-layout-ocasionados-por-arquivos-javascript
 locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
+seeAlso:
+  - /pt/docs/tutorials/como-identificar-qual-arquivo-javascript-esta-sendo-aplicado-em-uma-pagina
+  - /pt/faq/como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja
+  - /pt/docs/tutorials/como-realizar-um-teste-para-verificar-problemas-de-layout
 ---
 
-<div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial válido apenas para lojas CMS Portal (Legado).
-</div>
+> ⚠️ Tutorial válido apenas para lojas CMS Portal (Legado).
 
-Uma maneira de identificar se um erro apresentado no layout é ocasionado por um controle padrão da VTEX ou por um arquivo Javascript personalizado na loja é utilizar o /tools.html.
+Você pode usar a página `/tools.html` para verificar se um erro de layout vem de um arquivo JavaScript customizado da loja ou do comportamento nativo da VTEX.
 
-Para isso faça os seguintes passos :
+Para desabilitar o JavaScript do cliente e testar a página, siga os passos abaixo:
 
-1. Para desabilitar o JS da página basta colocar o `/tools.html` no fim da URL. Ex: {AccountName}.myvtex.com/tools.html
-2. Clique em __Disable__ na aba __Client JavaScript is__.
+1. Acesse `https://{accountName}.myvtex.com/tools.html`, substituindo `{accountName}` pelo nome da conta da sua loja.
+2. Na aba **Client JavaScript is**, clique em **Disable**.
 
-![javascript-disable ](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/cms-portal-legado/layout/como-identificar-erros-de-layout-ocasionados-por-arquivos-javascript_1.png) 
+![Página tools.html com a opção de desabilitar o JavaScript do cliente](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/cms-portal-legado/layout/como-identificar-erros-de-layout-ocasionados-por-arquivos-javascript_1.png)
 
-3. Após isso, retire o `/tools.html` da URL e atualize a página.
+3. Remova `/tools.html` da URL e atualize a página da loja.
 
-Se o erro que estava sendo apresentado é ocasionado por um Javascript externo, o mesmo não irá aparecer mais.
-Com isso é necessário ajustar esse arquivo.
+Se o erro desaparecer, ele provavelmente é causado por um arquivo JavaScript customizado. Nesse caso, ajuste o arquivo.
 
-Sobre arquivos JavaScript inseridos na página é importante seguir algumas premissas:
+Ao inserir JavaScript na página, siga estas recomendações:
 
-- Utilizar JavaScript externo, e não online.
-- Verificar se o mesmo não irá interferir na performance da loja.
-
-Lembrando que temos também o Vtex Speed ferramenta que possibilita o desenvolvimento local com um tempo de cache menor. [Vtex Speed - Download e Execução](https://github.com/vtex/speed)
-
-Para investigar possíveis problemas envolvendo CSS recomendamos o uso do plugin WebDeveloper - veja [aqui](/pt/docs/tutorials/como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja) algumas ferramentas para melhorar a debugar problemas de customização.
+- Use um arquivo JavaScript externo, e não código inline.
+- Verifique se o arquivo não prejudica a performance da loja.

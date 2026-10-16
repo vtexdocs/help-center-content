@@ -21,11 +21,11 @@ El nuevo [My Account](/es/docs/tutorials/como-funciona-mi-cuenta) ya está insta
 
 Esto quiere decir que My Account ya está disponible para que su tienda realice las personalizaciones necesarias, antes de la migración masiva del aplicativo para producción, a través del siguiente link:
 
-[https://{{AccountName}}.myvtex.com/_secure/account?workspace=myaccounttest#/profile](https://{{AccountName}}.myvtex.com/_secure/account?workspace=myaccounttest#/profile)
+[https://{{accountName}}.myvtex.com/_secure/account?workspace=myaccounttest#/profile](https://{{accountName}}.myvtex.com/_secure/account?workspace=myaccounttest#/profile)
 
 Para realizar las personalizaciones en la página, es necesario:
 
-1. Acceder al link, sustituyendo el valor `{{AccountName}}` por el nombre de su cuenta VTEX
+1. Acceder al link, sustituyendo el valor `{{accountName}}` por el nombre de su cuenta VTEX
 2. Autenticarse a través de las opciones __Recibir código de acceso por e-mail__ o __Entrar con e-mail y contraseña__
 3. Ingrese a la sección __Mi cuenta__, ubicada en la esquina superior izquierda de la pantalla al lado de __Mi carrito__
 

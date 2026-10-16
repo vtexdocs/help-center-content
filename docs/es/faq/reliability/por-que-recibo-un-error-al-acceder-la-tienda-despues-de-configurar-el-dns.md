@@ -1,5 +1,6 @@
 ---
 title: '¿Por qué recibo un error al acceder a la tienda después de configurar el DNS?'
+excerpt: "Apuntar el DNS no es suficiente. Defina el status de la cuenta como producción en Gestión de la cuenta para que el storefront cargue."
 id: frequentlyAskedQuestions_2248
 status: PUBLISHED
 createdAt: 2017-04-27T22:25:29.934Z

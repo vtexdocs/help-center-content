@@ -31,7 +31,7 @@ El banner de la investigación E-bit debe insertarse única y exclusivamente en 
 
 Para más información sobre como ingresar el código de los banners, visite la [documentación del E-bit](https://ebit.com.br/developer/codigo-do-banner).
 
-Para acceder al footer de su página de finalización de compra, basta acceder a esta URL, sustituyendo el `{AccountName}` por el nombre de su cuenta: [http://{accountName}.myvtex.com/admin/portal/#/sites/default/code/templates/checkout-confirmation-bottom](http://nomedaloja.myvtex.com.br/admin/portal/#/sites/default/code/templates/checkout-confirmation-bottom).
+Para acceder al footer de su página de finalización de compra, basta acceder a esta URL, sustituyendo el `{accountName}` por el nombre de su cuenta: [http://{accountName}.myvtex.com/admin/portal/#/sites/default/code/templates/checkout-confirmation-bottom](http://nomedaloja.myvtex.com.br/admin/portal/#/sites/default/code/templates/checkout-confirmation-bottom).
 
 ## Medalla E-bit
 

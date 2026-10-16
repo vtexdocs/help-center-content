@@ -13,6 +13,8 @@ slugEN: promotion-list-beta
 legacySlug: promotions-list-beta
 locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
+seeAlso:
+  - /en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium
 ---
 
 The VTEX platform lets you add different promotion types for different scenarios. Through a centralized interface for managing promotions, your store can offer more benefits focused on customer attraction and retention.
@@ -110,7 +112,4 @@ By clicking on the <i class="fas fa-ellipsis-v"></i> icon in a promotion, you ca
 - <i class="far fa-times-circle"></i> __Deactivate:__ pause the promotion.
 - <i class="far fa-clone"></i> __Duplicate:__ create a copy of the promotion.
 - <i class="fas fa-archive"></i> __Archive:__ archive the promotion. The promotion will automatically be moved to the *[Archived Promotions](#archived-promotions)* page.
-
-#### Learn more
-- [What are utm_source, utm_campaign, and utm_medium](/en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium)
 

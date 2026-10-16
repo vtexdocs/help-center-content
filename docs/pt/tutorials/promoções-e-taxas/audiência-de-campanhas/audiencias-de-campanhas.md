@@ -14,6 +14,10 @@ legacySlug: audiencias-de-campanhas
 locale: pt
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
 categoryCover: true
+seeAlso:
+  - /pt/docs/tutorials/promocao-de-campanha
+  - /pt/docs/tutorials/lista-de-audiencias-de-campanhas
+  - /pt/docs/tutorials/criar-audiencia-de-campanha
 ---
 
 Audiência de campanha é uma funcionalidade que permite definir o [público-alvo](#publico-alvo)para uma promoção. Para saber como configurar esse recurso, leia o artigo [Criar Audiência de campanha](/pt/docs/tutorials/criar-audiencia-de-campanha).
@@ -31,9 +35,3 @@ O público-alvo segmenta os usuários e condições elegíveis da audiência de 
 ![campanha-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/audiência-de-campanhas/audiencias-de-campanhas_1.png)
 
 Quando todas as restrições da campanha forem atingidas e ela estiver ativada e elegível ao contexto de compra, não significa necessariamente que as promoções de audiências de campanhas associadas a ela serão aplicadas. Para isso, as restrições definidas na [promoção de campanha](/pt/docs/tutorials/promocao-de-campanha) também devem ser atendidas.
-
-## Saiba mais
-
-* [Criar promoção de campanha](/pt/docs/tutorials/promocao-de-campanha)
-* [Lista de Audiências de campanhas](/pt/docs/tutorials/lista-de-audiencias-de-campanhas)
-* [Criar Audiência de campanha](/pt/docs/tutorials/criar-audiencia-de-campanha)

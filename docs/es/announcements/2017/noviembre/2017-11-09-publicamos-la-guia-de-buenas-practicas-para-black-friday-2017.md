@@ -19,8 +19,8 @@ Como en los últimos años, VTEX ha creado una guía de buenas prácticas para a
 
 En ella presentamos recomendaciones para cada uno de los módulos VTEX, con destaque para el tiempo de antelación con que cada una de las acciones más importantes debe ser tomada.
 
-Para acceder a la guía, basta con entrar en la dirección abajo, sustituyendo el `{AccountName}` por el nombre de su tienda:
+Para acceder a la guía, basta con entrar en la dirección abajo, sustituyendo el `{accountName}` por el nombre de su tienda:
 
-`https://{AccountName}.vtexcommercestable.com.br/admin/survey/es`
+`https://{accountName}.vtexcommercestable.com.br/admin/survey/es`
 
 ¡Vamos juntos a hacer el mejor Black Friday de la historia!

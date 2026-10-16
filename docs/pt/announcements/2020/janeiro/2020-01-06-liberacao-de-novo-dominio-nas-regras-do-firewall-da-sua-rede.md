@@ -33,7 +33,7 @@ Entre em contato com a equipe de TI da sua operação, responsável pelas config
 
 Esta equipe precisará __revisar e ajustar as regras de firewall, garantindo a liberação para o domínio vtexassets.com__.
 
-> ℹ️ OBS: Não será necessário realizar qualquer ajuste no front-end, uma vez que o domínio `vteximg.com.br` continuará funcionando para customizações.
+> ℹ️ Não será necessário realizar qualquer ajuste no front-end, uma vez que o domínio `vteximg.com.br` continuará funcionando para customizações.
 
 ## Quais impactos sua operação poderá sofrer caso não ocorra a adequação?
 

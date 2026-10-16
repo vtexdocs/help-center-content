@@ -24,7 +24,7 @@ Siga as instruções abaixo para criar uma nova aplicação:
 1. No Admin VTEX, acesse **Configurações da loja** > **Storefront** > **Master Data**.
 2. Clique no botão `Criar aplicações`.
 4. Preencha o **Nome** da aplicação.
-5.Selecione uma opção no campo **Criar cópia de** caso deseje copiar os formulários de outra aplicação.
+5. Selecione uma opção no campo **Criar cópia de** caso deseje copiar os formulários de outra aplicação.
 6. Clique no botão `Salvar`.
 
 ## Editar aplicação

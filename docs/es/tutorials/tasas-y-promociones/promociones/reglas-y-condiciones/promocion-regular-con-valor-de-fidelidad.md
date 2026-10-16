@@ -13,6 +13,8 @@ slugEN: regular-promotion-with-reward-value
 legacySlug: promocion-regular-con-valor-de-fidelidad
 locale: es
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
+seeAlso:
+  - /es/docs/tutorials/registro-promocion-regular
 ---
 
 La [promoción regular](/es/docs/tutorials/registro-promocion-regular) ofrece descuentos flexibles, ya que combina varias condiciones, restricciones y beneficios. Una de las posibilidades de este tipo de promoción es brindar a los clientes algo de valor por su fidelidad, es decir, un crédito que funciona como _cashback_ para que lo utilicen en compras futuras en la tienda. El propósito de este tipo de descuento es generar fidelidad a través de compras recurrentes, es decir, ofrecer un incentivo para que los clientes vuelvan a comprar en la tienda.
@@ -110,7 +112,3 @@ El valor otorgado se puede usar como parte de pago. Para hacerlo, el cliente deb
 El valor se descontará de la otra forma de pago seleccionada. En el ejemplo a continuación, la factura pasó a tener un valor de `R$ 113,50`, que corresponde a `R$ 167,80` menos el valor de fidelidad utilizado (`R$ 54,30`).
 
 ![checkout-2-pt (1)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/reglas-y-condiciones/promocion-regular-con-valor-de-fidelidad_6.png)
-
-## Más información
-
-* [Promoción regular](/es/docs/tutorials/registro-promocion-regular)

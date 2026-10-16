@@ -1,5 +1,6 @@
 ---
 title: 'Recibí una factura y no soy cliente VTEX. ¿Por qué?'
+excerpt: "Las facturas emitidas con el CNPJ de VTEX pueden pertenecer a otras marcas del grupo. Use el canal de soporte de la plataforma que usted realmente usa."
 id: 2xW1boWieUC40KQgIaugGG
 status: PUBLISHED
 createdAt: 2018-03-28T18:35:49.057Z

@@ -13,6 +13,8 @@ slugEN: how-to-create-a-promotion-with-limitation-of-use
 legacySlug: como-crear-promoción-con-limitacion-de-uso
 locale: es
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
+seeAlso:
+  - /es/docs/tutorials/crear-promociones
 ---
 
 Para que una promoción del tipo regular sea aplicada por un número limitado de veces, basta desmarcar la opción **ilimitado** en restricciones y limitaciones de uso. Cuando es desmarcada, es puesto a disposición un campo para registrar la cantidad de veces en la que podrá aplicarse la promoción en compras en su tienda. Esto significa que, si usted registra el número 10, sólo se concederá la promoción a los primeros 10 pedidos cerrados en su tienda que cumplan las reglas de la promoción.
@@ -22,7 +24,3 @@ Para que una promoción del tipo regular sea aplicada por un número limitado de
 ![Promocion con limite de uso](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/crear-promociones/como-crear-promocion-con-limitacion-de-uso_1.png)
 
 También es posible configurar el límite por cliente, en vez de límite por promoción. Para ello, basta hacer la configuración arriba y hacer clic en la opción **Habilitar límite de uso por cliente**.
-
-## Más información
-
-- [Conozca más sobre cada tipo de promoción](/es/docs/tutorials/crear-promociones)

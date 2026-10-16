@@ -27,7 +27,7 @@ Below is a list of the newly available requests.
 
 __GET__
 
-`http://{{AccountName}}.{{environment}}.com.br/api/catalog_system/pub/products/crossselling/whosawalsosaw/{{productId}}`
+`http://{{accountName}}.{{environment}}.com.br/api/catalog_system/pub/products/crossselling/whosawalsosaw/{{productId}}`
 
 This API will return the products that __were seen__ by customers who also __saw__ a certain product.
 
@@ -35,7 +35,7 @@ This API will return the products that __were seen__ by customers who also __saw
 
 __GET__
 
-`http://{{AccountName}}.{{environment}}.com.br/api/catalog_system/pub/products/crossselling/whosawalsobought/{{productId}}`
+`http://{{accountName}}.{{environment}}.com.br/api/catalog_system/pub/products/crossselling/whosawalsobought/{{productId}}`
 
 This API will return the products that __have been purchased__ by customers that __have seen__ a particular product.
 
@@ -43,7 +43,7 @@ This API will return the products that __have been purchased__ by customers that
 
 __GET__
 
-`http://{{AccountName}}.{{environment}}.com.br/api/catalog_system/pub/products/crossselling/whoboughtalsobought/{{productId}}`
+`http://{{accountName}}.{{environment}}.com.br/api/catalog_system/pub/products/crossselling/whoboughtalsobought/{{productId}}`
 
 This API will return the products that have also __been purchased__ by customers who __have bought__ a particular product.
 
@@ -51,7 +51,7 @@ This API will return the products that have also __been purchased__ by customers
 
 __GET__ 
 
-`http://{{AccountName}}.{{environment}}.com.br/api/catalog_system/pub/products/crossselling/accessories/{{productId}}`
+`http://{{accountName}}.{{environment}}.com.br/api/catalog_system/pub/products/crossselling/accessories/{{productId}}`
 
 This API will return the products that were registered as __accessories__ or __complements__ of a certain product.
 
@@ -59,7 +59,7 @@ This API will return the products that were registered as __accessories__ or __c
 
 __GET__
 
-`http://{{AccountName}}.{{environment}}.com.br/api/catalog_system/pub/products/crossselling/similars/{{productId}}`
+`http://{{accountName}}.{{environment}}.com.br/api/catalog_system/pub/products/crossselling/similars/{{productId}}`
 
 This API will return products that have been registered as __similar products__ for a particular product.
 
@@ -67,7 +67,7 @@ This API will return products that have been registered as __similar products__ 
 
 __GET__ 
 
-`http://{{AccountName}}.{{environment}}.com.br/api/catalog_system/pub/products/crossselling/suggestions/{{productId}}`
+`http://{{accountName}}.{{environment}}.com.br/api/catalog_system/pub/products/crossselling/suggestions/{{productId}}`
 
 This API will return the products that were registered as Up-selling __suggestions__. It is worth mentioning that this product will only be shown if the value of the suggestion is greater than that of the product where the suggestion was registered.
 

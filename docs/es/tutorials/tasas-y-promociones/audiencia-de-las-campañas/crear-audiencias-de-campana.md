@@ -13,6 +13,10 @@ slugEN: creating-a-campaign-audience
 legacySlug: como-crear-campanas
 locale: es
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
+seeAlso:
+  - /es/docs/tutorials/audiencias-de-campanas
+  - /es/docs/tutorials/promocion-de-campana
+  - /es/docs/tutorials/lista-de-audiencias-de-campanas
 ---
 
 El recurso «Audiencia de campañas» te permite segmentar las promociones de tu tienda a partir de [públicos objetivos](/es/docs/tutorials/audiencias-de-campanas#publico-objetivo) definidos que cumplen con criterios específicos. Para obtener más información sobre esta funcionalidad, consulta [Audiencias de campañas](/es/docs/tutorials/audiencias-de-campanas).
@@ -107,9 +111,3 @@ Ejemplo: en la imagen a continuación, los ítems cuya marca es **Nike** forman 
 * **Medio de pago:** permite seleccionar los medios de pago que se incluirán en el público-objetivo. La audiencia de campaña se activará si la forma de pago elegida por el cliente es la misma que la registrada.
 
 > ⚠️ Las audiencias de campañas definidas por **Medio de pago** o** Número máximo de cuotas** no aplican a los pedidos que se pagan con dos tarjetas o con tarjetas de regalo.
-
-## Más información
-
-- [Audiencias de campañas](/es/docs/tutorials/audiencias-de-campanas)
-- [Crear promoción de campaña](/es/docs/tutorials/promocion-de-campana)
-- [Lista de audiencias de campañas](/es/docs/tutorials/lista-de-audiencias-de-campanas)

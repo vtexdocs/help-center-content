@@ -43,21 +43,21 @@ La alteración puede tardar hasta dos horas en aplicarse.
 
 ### Detección de sinónimos conflictivos
 
-Al completar el campo **Términos** en el paso anterior, Intelligent Search verifica si los términos ingresados ya están cubiertos por otra regla de sinónimo existente en la tienda. Esta verificación ayuda a evitar duplicados y conflictos de relevancia, especialmente en tiendas con una gran cantidad de sinónimos configurados.
+Al llenar el campo **Términos** en el paso anterior, Intelligent Search verifica si los términos ingresados ya están cubiertos por otra regla de sinónimo existente en la tienda. Esta verificación ayuda a evitar duplicados y conflictos de relevancia, especialmente en tiendas con una gran cantidad de sinónimos configurados.
 
-Si un término ya está cubierto por otro sinónimo, aparece un aviso en el formulario informando cuántos sinónimos comparten los mismos términos. Haz clic en `Ver reglas conflictivas` para abrir en otra pestaña la página de **Sinónimos conflictivos**, que lista las reglas superpuestas con la siguiente información:
+Cuando se detecta que alguno de los términos ya forma parte de otra regla de sinónimo, se muestra un aviso en el formulario indicando cuántos sinónimos comparten los mismos términos. Haz clic en `Ver reglas en conflicto` para abrir, en otra pestaña, la página de **Sinónimos en conflicto**, que muestra una lista de las reglas superpuestas con la siguiente información:
 
 | Columna | Descripción |
 |---|---|
-| Términos | Términos definidos en el sinónimo conflictivo. |
-| Creado el | Fecha de creación del sinónimo conflictivo. |
-| Estado | Situación del sinónimo conflictivo, que puede ser Activa o Inactiva. |
+| Términos | Términos definidos en el sinónimo en conflicto. |
+| Creado el | Fecha de creación del sinónimo en conflicto. |
+| Status | Status del sinónimo en conflicto, que puede ser Activo o Inactivo. |
 
-Desde esta página, puedes revisar cada sinónimo conflictivo individualmente y [editarlo](https://help.vtex.com/es/docs/tutorials/lista-de-sinonimos#editar-sinonimo) o [eliminarlo](https://help.vtex.com/es/docs/tutorials/lista-de-sinonimos#eliminar-sinonimo), según sea necesario.
+Desde esta página, puedes revisar cada sinónimo conflictivo de forma individual y [editarlo](https://help.vtex.com/es/docs/tutorials/lista-de-sinonimos#editar-sinonimo) o [eliminarlo](https://help.vtex.com/es/docs/tutorials/lista-de-sinonimos#eliminar-sinonimo), según sea necesario.
 
-Al hacer clic en `Guardar`, si hay un conflicto, se muestra una ventana de confirmación solicitando que confirmes el registro o la edición incluso con la superposición identificada.
+Al hacer clic en `Guardar`, si hay un conflicto, se muestra una ventana de confirmación que solicita que confirmes el registro o la edición aunque exista la superposición identificada.
 
-> ℹ️ La detección de conflictos no impide el registro del sinónimo. Solo alerta sobre superposiciones existentes en la base de datos, permitiéndote decidir si deseas ajustar las reglas registradas.
+> ℹ️ La detección de conflictos no impide el registro del sinónimo, solamente alerta sobre superposiciones existentes en la base para que puedas decidir si deseas ajustar las reglas registradas.
 
 ## Importar CSV
 

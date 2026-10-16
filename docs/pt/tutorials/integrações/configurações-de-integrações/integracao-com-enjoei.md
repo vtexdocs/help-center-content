@@ -133,7 +133,7 @@ Depois de concluir o preenchimento do formulário com as informações solicitad
 
 1. Acesse a URL abaixo, substituindo *{accountname}* pelo nome da sua loja.
 
-  `https://{AccountName}.myvtex.com/admin/Site/fullcleanup.aspx`
+  `https://{accountName}.myvtex.com/admin/Site/fullcleanup.aspx`
 
 2. Clique no botão `Reindexar Base`.
 

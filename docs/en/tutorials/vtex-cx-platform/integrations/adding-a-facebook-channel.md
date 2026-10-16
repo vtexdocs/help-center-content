@@ -31,6 +31,6 @@ Facebook has updated its integration policies so now you can easily connect a Fa
 
 If you need to log into the platform, you will be asked to give permissions to allow. You should allow all to complete the process. Then, you will be directed back to the previous step.
 
-That's it! You will be automatically directed to the page of your new channel, where you can view your channel's record.
+You will be automatically directed to the page of your new channel, where you can view your channel's record.
 
 Now, you can create a trigger that references a contact when a new conversation is initiated on Messenger.

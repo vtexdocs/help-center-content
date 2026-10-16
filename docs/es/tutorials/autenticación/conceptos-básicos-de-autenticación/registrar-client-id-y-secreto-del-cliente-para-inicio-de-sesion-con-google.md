@@ -54,7 +54,7 @@ Sigue los pasos a continuación:
 15. __Nombre__: para identificación interna;
 16. __Orígenes de JavaScript autorizados__: registrar las direcciones exactas que podrán usar este método de autenticación, lo que corresponde a tu sitio web; por ejemplo, `https://www.tienda.com`. También se recomienda registrar la dirección `https://{{accountName}}.myvtex.com` de tu cuenta, `{{accountName}}` es el nombre de la cuenta como se describe en el menú de administración de la tienda;
 17. __URIs de redireccionamiento autorizados__: registrar la URL de servicio de VTEX:
-    -`https://vtexid.vtex.com.br/VtexIdAuthSiteKnockout/ReceiveAuthorizationCode.ashx`
+    - `https://vtexid.vtex.com.br/VtexIdAuthSiteKnockout/ReceiveAuthorizationCode.ashx`
     ![Configuraciones aplicación Web Google ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/registrar-client-id-y-secreto-del-cliente-para-inicio-de-sesion-con-google_10.png)
 
 18. Después de completar este ajuste obtendrás tus credenciales:

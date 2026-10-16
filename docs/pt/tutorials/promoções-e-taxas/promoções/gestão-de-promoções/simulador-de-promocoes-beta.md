@@ -13,6 +13,10 @@ slugEN: promotions-simulator-beta
 legacySlug: simulador-de-promocoes-beta
 locale: pt
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
+seeAlso:
+  - /pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR
+  - /pt/docs/tracks/promocoes-para-cenarios-especificos
+  - /pt/docs/tutorials/configurar-o-cartman
 ---
 
 > ⚠️ Os usuários devem possuir um [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) com autorização para acessar o módulo **Promoções** no Admin VTEX para utilizar o **Simulador de promoções**.
@@ -89,9 +93,3 @@ Para fazer uma simulação, siga as instruções abaixo:
     Você verá o resultado da simulação a partir das promoções selecionadas. Para visualizar se as promoções testadas foram aplicadas aos itens do carrinho na simulação, observe o status da coluna **Desconto** ou clique no produto.
 
 > ℹ️ É possível aplicar promoções em produtos que já possuem uma promoção ativa. Apesar do conflito entre elas, o sistema VTEX sempre seleciona a promoção mais benéfica para os clientes da sua loja, considerando o preço total dos itens ou frete.
-
-### Saiba mais
-
-* [Como funcionam as promoções](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR)
-* [Promoções para cenários específicos](/pt/docs/tracks/promocoes-para-cenarios-especificos)
-* [Configurar o Cartman](/pt/docs/tutorials/configurar-o-cartman)

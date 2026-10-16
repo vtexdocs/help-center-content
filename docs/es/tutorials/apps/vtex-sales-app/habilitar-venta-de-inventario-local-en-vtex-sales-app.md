@@ -3,7 +3,7 @@ title: "Habilitar Venta de inventario local en VTEX Sales App"
 id: 54eQN4rOH5yBYPGG2w8v9q
 status: PUBLISHED
 createdAt: 2023-05-19T17:30:02.393Z
-updatedAt: 2024-11-04T21:09:14.115Z
+updatedAt: 2026-09-24T21:09:14.115Z
 publishedAt: 2024-11-04T21:09:14.115Z
 firstPublishedAt: 2023-05-22T23:31:37.597Z
 contentType: tutorial
@@ -25,7 +25,7 @@ Venta de inventario local permite al vendedor de una tienda física realizar ven
 6. [Conectar la cuenta franquicia a la tienda física](#conectar-la-cuenta-franquicia-a-la-tienda-fisica)
 7. [Integrar el punto de ventas](#integrar-el-punto-de-ventas)
 
-> ℹ️ Venta de inventario local solo puede configurarse en tiendas que ya utilicen Sales App. Para más información sobre cómo solicitar y configurar Sales App, consulta [Sales App - Primeros pasos y configuración](/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc).
+> ℹ️ Venta de inventario local solo puede configurarse en tiendas que ya utilicen Sales App. Para más información sobre cómo solicitar y configurar Sales App, consulta [Sales App - Primeros pasos y configuración](https://help.vtex.com/es/docs/tracks/vtex-sales-app-primeros-pasos-y-configuracion).
 
 ## Crear una cuenta franquicia
 
@@ -66,11 +66,16 @@ Puedes [habilitar la venta de un ítem sin stock](#habilitar-la-venta-de-un-item
 
 ## Conectar la cuenta franquicia a la tienda física
 
-Para asegurarte de que los vendedores de tu tienda física tienen el acceso adecuado al almacén de la tienda en la que trabajan, es importante conectar la cuenta franquicia al perfil de los vendedores. Para ello, crea un [registro de tienda física](/es/tutorial/loja-fisica-instore-beta--N4M9njT9xomdWD7mQyPt7) en Sales App.
+Conectar la cuenta franquicia a la tienda física significa informar, en el registro de la tienda física en VTEX Sales App, el **nombre de la cuenta franquicia** y el **ID del punto de recogida**. Esta asociación garantiza que los vendedores tengan acceso al stock de la tienda en la que trabajan.
 
-Deberás seleccionar un vendedor de la tienda en la que quieras probar Venta en mano y seguir los pasos que se indican a continuación.
+Para hacerlo, crea o edita un [registro de tienda física](https://help.vtex.com/es/docs/tracks/gestionar-tiendas-fisicas-en-vtex-sales-app) en VTEX Sales App y completa los campos en **Información técnica**:
 
-1. Tras [seleccionar un vendedor](/es/tutorial/vendedores-instore-beta--4rzit1pzp28km4HSDEdrEC), accede a Sales App e inicia sesión.
+- **Cuenta de franquicia:** nombre de la [cuenta franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia) creada en el paso [Crear una cuenta franquicia](#crear-una-cuenta-franquicia).
+- **Punto de recogida:** ID del [punto de recogida](/es/docs/tutorials/puntos-de-recogida) registrado en el paso [Configurar un punto de recogida](#configurar-un-punto-de-recogida).
+
+Después de conectar la cuenta franquicia a la tienda física, elige un vendedor registrado en la tienda en la que quieres probar la Venta de inventario local y sigue los pasos que se indican a continuación.
+
+1. Tras [seleccionar un vendedor](https://help.vtex.com/es/docs/tracks/gestionar-vendedores-en-vtex-sales-app), accede a Sales App e inicia sesión.
 2. Busca un ítem que exista en el almacén de la cuenta franquicia registrada. Este ítem debe mostrar la cantidad disponible correspondiente en el stock del seller.
 
 ![instore-pdp-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apps/vtex-sales-app/habilitar-venta-de-inventario-local-en-vtex-sales-app_1.png)

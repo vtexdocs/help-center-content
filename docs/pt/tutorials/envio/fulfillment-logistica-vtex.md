@@ -51,7 +51,7 @@ O processo logístico deve ser configurado conforme as necessidades da sua loja.
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
    <thead class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
 <tr class="bb b--muted-3">
-   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Estratégia de Envio](/pt/docs/tutorials/estrategia-de-envio)</span>
+   <td class="t-body pa5" style="min-width: 15rem;">[Estratégia de Envio](/pt/docs/tutorials/estrategia-de-envio)
    </td>
     <td class="t-body pa5" style="min-width: 15rem;">
       Gerenciamento de estoques, docas e políticas de envio. A partir das estratégias de envio configuradas, a plataforma calcula as possibilidades de envio e as apresenta para o cliente no checkout.
@@ -65,7 +65,7 @@ O processo logístico deve ser configurado conforme as necessidades da sua loja.
    </td>
   </tr>
  <tr class="bb b--muted-3">
-<td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Capacidade de entrega](/pt/docs/tutorials/gerenciar-capacidade-de-entrega)</spain>
+<td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Capacidade de entrega](/pt/docs/tutorials/gerenciar-capacidade-de-entrega)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Gerenciamento de entregas agendadas. É possível acompanhar as entregas que já estão agendadas e conferir os períodos de entrega que ainda estão disponíveis para agendamento.
 <body>
@@ -76,7 +76,7 @@ O processo logístico deve ser configurado conforme as necessidades da sua loja.
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Tarifas de envio](/pt/docs/tutorials/tarifas-de-envio)</span>
+            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Tarifas de envio](/pt/docs/tutorials/tarifas-de-envio)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Gerenciamento dos custos de envio da sua loja.
 <body>
@@ -89,7 +89,7 @@ O processo logístico deve ser configurado conforme as necessidades da sua loja.
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Gerenciar Inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque)</span>
+            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Gerenciar Inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Gerenciamento da disponibilidade dos itens cadastrados no estoque. É possível acompanhar as movimentações e reservas de itens.
 <body>
@@ -101,13 +101,13 @@ O processo logístico deve ser configurado conforme as necessidades da sua loja.
  </td>
  </tr>
  <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Simulador de envio](/pt/docs/tutorials/simulador-de-envio)</span>
+            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Simulador de envio](/pt/docs/tutorials/simulador-de-envio)
    </td>
     <td class="t-body pa5" style="min-width: 15rem;">Ferramenta de simulação de envio, que possibilita a reprodução de cenários de envio (disponibilidade de itens, tipos de entrega e retirada). 
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Envio por geolocalização](/pt/docs/tutorials/gerenciar-geolocalizacao)</span>
+            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Envio por geolocalização](/pt/docs/tutorials/gerenciar-geolocalizacao)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Cadastro dos locais de entrega utilizando a latitude e longitude dos endereços.
 
@@ -115,7 +115,7 @@ Normalmente essa funcionalidade é utilizada em endereços de zonas rurais e ind
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Feriados](/pt/docs/tutorials/cadastrar-feriados)</span>
+            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Feriados](/pt/docs/tutorials/cadastrar-feriados)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Cadastro de dias que não devem ser considerados úteis para a sua loja. Os dias cadastrados como feriados não são contabilizados no prazo de entrega dos pedidos.
 <body>
@@ -141,7 +141,7 @@ Normalmente essa funcionalidade é utilizada em endereços de zonas rurais e ind
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Pontos de retirada](/pt/docs/tutorials/pontos-de-retirada)</span>
+            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Pontos de retirada](/pt/docs/tutorials/pontos-de-retirada)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Gerenciamento de pontos de retirada. Esta funcionalidade permite que a loja ofereça aos clientes a retirada de pedidos em pontos físicos.
 <body>

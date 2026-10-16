@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ Tutorial valid only for Legacy CMS Stores.
+> ⚠️ This tutorial only applies to [CMS Portal (Legacy)](https://help.vtex.com/docs/tracks/legacy-cms-portal) stores.
 
 > ❗ Be very careful with this action. If you delete one of your websites, all the files and folders on this website will be deleted permanently. You will not be able to retrieve them. You can't delete the **default website**.
 

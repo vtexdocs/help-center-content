@@ -2,6 +2,18 @@
   "redirects": {
     "fromCsvExport": [
       {
+        "from": "/en/tutorial/setting-up-alternative-accounts--tutorials_6229",
+        "to": "/en/tutorial/white-label-seller--5orlGHyDHGAYciQ64oEgKa"
+      },
+      {
+        "from": "/es/tutorial/configurar-cuentas-alternativas--tutorials_6229",
+        "to": "/es/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa"
+      },
+      {
+        "from": "/pt/tutorial/configurando-contas-alternativas--tutorials_6229",
+        "to": "/pt/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa"
+      },
+      {
         "from": "/faq/donde-veo-a-los-clientes-que-utilizan-recurrencia",
         "to": "/tutorial/donde-veo-a-los-clientes-que-utilizan-recurrencia"
       },
@@ -12896,6 +12908,30 @@
     {
       "from": "pt/docs/tracks/configurar-integracao-com-a-amazon",
       "to": "pt/docs/tracks/configurar-a-integracao-da-amazon"
+    },
+    {
+      "from": "/pt/docs/tutorials/amazon-listing",
+      "to": "/pt/docs/tutorials/publicacao-de-produtos-amazon"
+    },
+    {
+      "from": "/en/docs/tutorials/amazon-listing",
+      "to": "/en/docs/tutorials/amazon-product-publishing"
+    },
+    {
+      "from": "/es/docs/tutorials/amazon-listing",
+      "to": "/es/docs/tutorials/publicacion-de-productos-amazon"
+    },
+    {
+      "from": "/pt/docs/tutorials/match-de-anuncios-amazon",
+      "to": "/pt/docs/tutorials/publicacao-de-produtos-amazon"
+    },
+    {
+      "from": "/en/docs/tutorials/amazon-offer-matching",
+      "to": "/en/docs/tutorials/amazon-product-publishing"
+    },
+    {
+      "from": "/es/docs/tutorials/match-de-anuncios-amazon",
+      "to": "/es/docs/tutorials/publicacion-de-productos-amazon"
     }
     ]
   }

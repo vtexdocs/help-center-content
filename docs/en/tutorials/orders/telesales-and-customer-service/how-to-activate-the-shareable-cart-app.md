@@ -265,7 +265,7 @@ The custom sales query page would be developed using [VTEX APIs](https://develop
 
 ### How do I change a cart that has already been shared? 
 
-Simply open the shared link to load the cart and make the necessary changes. All users with access to the link can see items, add and remove products, and even pay for the order.  
+Open the shared link to load the cart and make the necessary changes. All users with access to the link can see items, add and remove products, and even pay for the order.  
 
 ### If I change cart items or information, does it affect other previously shared carts?
 

@@ -23,16 +23,16 @@ Automations are designed to act proactively based on predefined rules and condit
 
 An automation is defined in an `agent_definition.yaml` file. The main fields are:
 
-- **agents.<agent_id>**: Identifies the agent.
-- **name**: The agent's display name, with a 55-character limit.
-- **description**: A description of the agent's purpose and capabilities.
-- **rules**: A dictionary of rules that trigger the agent's actions.
-- Inside **rules.<rule_id>**:
-  - **display_name**: The readable name of the rule.
-  - **template**: The Highly Structured Message (HSM) template to use.
-  - **start_condition**: A description of the condition that must be met to trigger the rule.
-  - **source**: Defines the code to run when the rule is triggered, with `entrypoint` pointing to the class/method and `path` to the directory where the code is located.
-- **pre_processing**: Defines a preprocessing step to prepare data before evaluating the rules, with `source` specifying the code and `result_examples_file` pointing to a JSON file with output examples.
+- `agents.<agent_id>`: Identifies the agent.
+- `name`: The agent's display name, with a 55-character limit.
+- `description`: A description of the agent's purpose and capabilities.
+- `rules`: A dictionary of rules that trigger the agent's actions.
+- Inside `rules.<rule_id>`:
+  - `display_name`: The readable name of the rule.
+  - `template`: The Highly Structured Message (HSM) template to use.
+  - `start_condition`: A description of the condition that must be met to trigger the rule.
+  - `source`: Defines the code to run when the rule is triggered, with `entrypoint` pointing to the class/method and `path` to the directory where the code is located.
+- `pre_processing`: Defines a preprocessing step to prepare data before evaluating the rules, with `source` specifying the code and `result_examples_file` pointing to a JSON file with output examples.
 
 The `result_example.json` file must be an array of objects. Each object contains:
 

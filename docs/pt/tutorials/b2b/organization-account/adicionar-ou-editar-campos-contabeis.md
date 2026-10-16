@@ -1,7 +1,7 @@
 ---
 title: 'Adicionar ou editar campos contábeis'
 createdAt: '2025-02-09T10:00:00.000Z'
-updatedAt: '2026-03-16T10:00:00.000Z'
+updatedAt: '2026-08-28T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: adding-or-editing-accounting-fields
@@ -10,51 +10,88 @@ locale: pt
 
 > ⚠️ Esta funcionalidade está disponível apenas para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
 
-A funcionalidade Campos contábeis permite padronizar a coleta de informações durante o processo de compra, por meio da adição de campos contábeis de acordo com as regras do seu negócio.
+A funcionalidade Campos contábeis permite que você padronize a coleta de informações durante o processo de compra ao adicionar campos com base nas regras do seu negócio.
 
-Esse recurso possibilita garantir que dados como número do pedido (PO number), centro de custo ou outras informações internas sejam preenchidos corretamente no checkout, assegurando maior controle operacional e conformidade com os processos da empresa.
+Essa funcionalidade garante que os compradores insiram corretamente informações como o número do pedido de compra (PO), o centro de custo e outros dados internos no checkout, melhorando o controle operacional e a conformidade com os processos da empresa.
 
-Este artigo aborda:
+Este artigo aborda os seguintes tópicos:
 
+- [Adicionar campo contábil](#adicionar-campo-contabil)
 - [Editar campo contábil](#editar-campo-contabil)
 - [Adicionar valor a um campo contábil](#adicionar-valor-a-um-campo-contabil)
 - [Editar valor em um campo contábil](#editar-valor-em-um-campo-contabil)
+- [Excluir campo contábil](#excluir-campo-contabil)
 
-> ℹ️ Atualmente, a criação de campos contábeis pode ser realizada via [API de campos customizáveis](https://developers.vtex.com/docs/api-reference/custom-fields-api). Para saber mais, consulte o [Guia de integração de campos customizáveis](https://developers.vtex.com/docs/guides/custom-fields-integration).
+## Adicionar campo contábil
+
+Para adicionar um campo contábil, siga os passos abaixo:
+
+1. Acesse a [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao).
+2. Clique no ícone `+` ao lado de **Campos contábeis**.
+3. No painel exibido, preencha as seguintes informações:
+    - **Rótulo do campo:** Insira o nome que identifica o campo contábil.
+    - **Nível de entrada:** Selecione **Nível do pedido** para aplicar o campo ao pedido inteiro ou **Nível do item** para aplicá-lo a cada item no carrinho.
+    - **Requisito de preenchimento:** Selecione se o preenchimento do campo é **Obrigatório** ou **Opcional**.
+    - **Habilitar campo de texto livre para que os compradores possam inserir um valor manualmente no checkout:** Marque essa caixa de seleção para permitir que os compradores digitem um valor próprio no checkout.
+4. Clique em `Criar`.
+
+Feito isso, você verá uma mensagem confirmando a criação do campo contábil. As alterações podem levar até 10 minutos para serem aplicadas.
+
+Os campos contábeis criados na interface funcionam como listas de valores: você adiciona e gerencia os valores disponíveis para os compradores, conforme descrito em [Adicionar valor a um campo contábil](#adicionar-valor-a-um-campo-contabil).
+
+> ℹ️ Você também pode criar campos contábeis de forma programática usando a [Custom Fields API](https://developers.vtex.com/docs/api-reference/custom-fields-api). Para mais informações, consulte o [Guia de integração de campos personalizados](https://developers.vtex.com/docs/guides/custom-fields-integration).
 
 ## Editar campo contábil
 
-![Buyer Portal B2B organization unit information page](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buyer-portal-b2b-organization-unit-information-page.png)
+Para editar as configurações de um campo contábil, siga os passos abaixo:
 
 1. Acesse a [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao).
-2. Clique sobre o nome do campo contábil desejado.
-3. Na tela do campo contábil, clique no ícone <i class="fas fa-cog"></i> no topo da tela para editar informações do campo contábil.
-4. Em **List type**, selecione se os valores do campo contábil devem ser utilizados unicamente na unidade organizacional (`Custom List`) ou se devem ser compartilhados por outras unidades organizacionais do contrato (`Synchronized List`).
-5. Em **Input level**, selecione se o campo contábil deve ser aplicado a nível de pedido ou de item.
-6. Em **Input requirement**, selecione se o campo deve ser opcional ou obrigatório.
-7. Em **Default {nome do campo}**, caso necessário, insira o valor padrão default a ser pré-preenchido em todos os pedidos em que o campo for aplicável.
-8. Clique em `Save`.
-
+2. Clique no nome do campo contábil que deseja editar.
+3. Na tela do campo contábil, clique no ícone de configurações <i class="fas fa-cog" aria-hidden="true"></i> no topo da página.
+4. Em **Tipo de lista**, selecione **Lista personalizada** para gerenciar uma lista de valores exclusiva da unidade organizacional ou **Lista compartilhada** para usar a lista de valores definida pelo [contrato](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt), que a plataforma atualiza automaticamente.
+5. Em **Rótulo do campo**, edite o nome que identifica o campo contábil, se necessário.
+6. Em **Nível de entrada**, selecione se o campo contábil se aplica no nível do pedido ou do item.
+7. Em **Requisito de preenchimento**, selecione se o preenchimento do campo é obrigatório ou opcional.
+8. Marque a caixa de seleção **Habilitar campo de texto livre para que os compradores possam inserir um valor manualmente no checkout** para permitir que os compradores digitem um valor próprio no checkout, ou desmarque a caixa para permitir apenas valores da lista.
+9. Clique em `Salvar`.
 
 ## Adicionar valor a um campo contábil
 
-1. Acesse a [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao).
-2. Clique sobre o nome do campo contábil desejado.
-3. Na tela do campo contábil, clique no ícone `+` no topo da tela.
-4. No modal exibido, informe o valor a ser atribuído no campo contábil, como número de pedido ou do centro de custo.
-5. Clique em `Add`.
+Para adicionar um valor a um campo contábil, siga os passos abaixo:
 
-Feito isso, você verá a mensagem de confirmação que o valor foi criado com sucesso no campo contábil.
+1. Acesse a [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao).
+2. Clique no nome do campo contábil ao qual deseja adicionar um valor.
+3. Na tela do campo contábil, clique no ícone `+` no topo da página.
+4. No painel exibido, preencha o campo **Nome** com o valor que deseja atribuir ao campo contábil, como um número de pedido de compra ou um centro de custo. Se quiser, preencha também o campo **Descrição (opcional)**.
+5. Clique em `Adicionar`.
+
+Feito isso, você verá uma mensagem confirmando a criação do valor no campo contábil.
 
 ## Editar valor em um campo contábil
 
-1. Acesse a [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao).
-2. Clique sobre o nome do campo contábil desejado.
-3. Na tela do campo contábil, clique no ícone <i class="fas fa-ellipsis-v"></i> ao lado do valor que deseja editar.
-4. Selecione uma das opções abaixo, de acordo com a ação desejada:
-- **Rename:** altera o nome do valor do campo.
-- **Set as default:** define o valor como padrão, para ser pré-preenchido em todos os pedidos em que o campo for aplicável.
-- **Remove from unit:** remove o valor da unidade organizacional à qual está atribuído. Esta ação não exclui o valor do sistema.
-- **Delete:** exclui permanentemente o valor do sistema.
+Para editar um valor em um campo contábil, siga os passos abaixo:
 
-> ⚠️ Use a opção **Delete** com cuidado. Ao excluir um valor, você remove definitivamente o valor e todos os dados associados a ele em múltiplas unidades organizacionais, o que pode comprometer o acesso a informações históricas e de auditoria. Após a confirmação, esta ação não pode ser desfeita.
+1. Acesse a [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao).
+2. Clique no nome do campo contábil que deseja editar.
+3. Na tela do campo contábil, clique no ícone de opções <i class="fas fa-ellipsis-v" aria-hidden="true"></i> ao lado do valor que deseja editar.
+4. Selecione uma das seguintes opções, de acordo com a ação desejada:
+    - **Editar:** Altera o nome do valor do campo.
+    - **Definir como padrão:** Define o valor como padrão, que a plataforma preenche automaticamente em todos os pedidos aos quais o campo se aplica.
+    - **Remover da unidade:** Remove o valor da unidade organizacional à qual está atribuído. Essa ação não exclui o valor do sistema.
+    - **Excluir:** Exclui permanentemente o valor do sistema.
+
+> ❗ Use a opção **Excluir** com cuidado. Excluir um valor remove permanentemente o valor e todos os dados associados a ele em múltiplas unidades organizacionais, o que pode comprometer o acesso a informações históricas e de auditoria. Após a confirmação, você não pode desfazer essa ação.
+
+## Excluir campo contábil
+
+Ao excluir um campo contábil, você remove o campo de todas as unidades organizacionais e exclui permanentemente todos os seus valores e dados relacionados. A plataforma mantém apenas o histórico de uso do campo, para fins de auditoria.
+
+> ❗ Você não pode desfazer a exclusão de um campo contábil. Para excluir apenas um valor específico de um campo, use a opção **Excluir** do menu de opções do valor, descrita em [Editar valor em um campo contábil](#editar-valor-em-um-campo-contabil).
+
+Para excluir um campo contábil, siga os passos abaixo:
+
+1. Acesse a [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao).
+2. Clique no nome do campo contábil que deseja excluir.
+3. Na tela do campo contábil, clique no ícone de exclusão <i class="fas fa-trash-alt" aria-hidden="true"></i> no topo da página.
+4. No painel **Excluir campo contábil**, digite o rótulo do campo para confirmar a exclusão.
+5. Clique em `Excluir`.

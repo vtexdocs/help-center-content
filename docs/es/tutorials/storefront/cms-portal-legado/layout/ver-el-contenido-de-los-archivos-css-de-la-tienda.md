@@ -28,12 +28,12 @@ Se mostrarán todos los archivos CSS de la tienda.
 
 Para acceder al código de un archivo CSS, basta con entrar en la siguiente URL, sustituyendo `{FileName}` por el nombre del archivo CSS, incluyendo la extensión `.css`.
 
-`https://{AccountName}.vteximg.com.br/arquivos/{FileName}`.
+`https://{accountName}.vteximg.com.br/arquivos/{FileName}`.
 
 Por ejemplo, digamos que desea ver el contenido del archivo `prateleira.css`.
 
 Para ello, usted debe abrir una nueva pestaña y escribir la siguiente URL:
 
-`https://{AccountName}.vteximg.com.br/arquivos/prateleira.css`.
+`https://{accountName}.vteximg.com.br/arquivos/prateleira.css`.
 
 Lo mismo se aplica a los archivos JavaScript, también almacenados en el Files Manager.

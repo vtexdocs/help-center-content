@@ -3,7 +3,7 @@ title: 'Sales App card entry (without payment terminal)'
 id: 48OR7InFvdLW6hekvfESs3
 status: PUBLISHED
 createdAt: 2025-03-28T15:33:24.822Z
-updatedAt: 2025-10-29T20:05:52.877Z
+updatedAt: 2026-09-22T20:05:52.877Z
 publishedAt: 2025-10-29T20:05:52.877Z
 firstPublishedAt: 2025-03-28T16:09:38.187Z
 contentType: tutorial
@@ -24,7 +24,7 @@ This feature ensures the purchase is processed through the same gateway as the e
 This article introduces the solution **Sales App card entry** and is organized in the following sections:
 
 - [Characteristics](#characteristics)
-- [Advantages](#advantages) 
+- [Advantages](#advantages)
 - [Use cases](#use-cases)
 - [Settings](#settings)
 - [Using the solution](#using-the-solution)
@@ -35,7 +35,7 @@ This article introduces the solution **Sales App card entry** and is organized i
 
 - ✅ Allows payments with the same credit card network as the ecommerce website.
 - ✅ Includes the same [payment conditions](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions) and installments provided by the ecommerce website.
-- ✅ It's [PCI compliant](/en/tutorial/o-que-e-o-pci-ssc), meaning it protects customer data and doesn't store sensitive information.
+- ✅ It's [PCI compliant](https://help.vtex.com/docs/tutorials/what-is-the-pci-ssc), meaning it protects customer data and doesn't store sensitive information.
 
 However, the feature has some restrictions:
 
@@ -78,7 +78,7 @@ When [setting up VTEX Sales App](/en/docs/tracks/vtex-sales-app-basic-settings),
 
 To use **Sales App card entry**, there are two main settings that need to be enabled: one for Checkout and another for Payments.
 
-#### Checkout configuration 
+#### Checkout configuration
 
 Credit card network IDs need to be enabled as payment methods in the VTEX Sales App payment settings. To confirm, follow the steps below:
 
@@ -111,6 +111,9 @@ Follow the steps below to sell using **Sales App card entry**:
 1. In the **VTEX Sales App** checkout, in the `Select a payment method` step, click `Enter card`.
 2. Select the option to scan the card or enter the data manually.
 3. Automatically capture the card data with the capture screen or enter the data manually. The front and back of the card must be scanned.
+
+  > ⚠️ It's only possible to fill in the CVV when the card number is valid.
+
 4. After the payment is approved, the purchase confirmation is made in **VTEX Sales App**.
 
 > ℹ️ Customers can scan the card or manually enter the data themselves if they prefer.

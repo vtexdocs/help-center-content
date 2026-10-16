@@ -1,0 +1,24 @@
+---
+title: 'What to do when the "Notify me" option is not displayed?'
+excerpt: "If the category display type is List of SKUs, include the SkuSelection control on the template even when there is only one SKU."
+id: oNb6JK1LPMOQwYsecKKCs
+status: PUBLISHED
+createdAt: 2019-01-24T20:30:45.175Z
+updatedAt: 2022-04-04T16:36:16.943Z
+publishedAt: 2022-04-04T16:36:16.943Z
+firstPublishedAt: 2019-01-24T20:30:45.618Z
+contentType: frequentlyAskedQuestion
+productTeam: Storefront
+author: 5fYXkMJagMwcSAeMAsAuOI
+slugEN: what-to-do-when-the-notify-me-option-is-not-displayed
+locale: en
+legacySlug: what-to-do-when-the-avise-me-doesnt-show
+---
+
+There is a situation in which the “Notify me” option does not appear, even if you have [set it up](/en/tutorial/set-up-the-avise-me) correctly. This happens **when the category display type is marked as “List of SKUs”.**
+
+![categoria-lista-de-skus EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/storefront/what-to-do-when-the-notify-me-option-is-not-displayed_1.png)
+
+In this case, in addition to the default settings, the use of the `vtex.cmc:SkuSelection` control is required, even if there is only one SKU per page.
+
+So, when the product category is set up as “List of SKUs,” as shown in the image above, the control `vtex.cmc:SkuSelection` must be included in the page template so that the **Notify me** option is displayed.

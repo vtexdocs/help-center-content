@@ -65,7 +65,7 @@ When sent successfully for the first time, the products undergo an internal cata
 
 For example, if the product description is changed, the integration will not update it in the marketplace. To make a change, you will need to contact Carrefour directly.
 
-> ⚠️ **NOTE:** a product can not be deleted in the Carrefour panel. If this happens, the integration will not be able to send it again.
+> ⚠️ a product can not be deleted in the Carrefour panel. If this happens, the integration will not be able to send it again.
 
 ## 2. Inventory
 When a product is sent for the first time, the inventory is sent as well. However, it is discarded by Carrefour, as they only accept inventories for products already cataloged. This policy exists so that the inventory available in the marketplace is always the most up-to-date.

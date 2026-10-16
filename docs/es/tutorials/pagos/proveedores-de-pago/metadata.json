@@ -1,0 +1,6 @@
+{
+  "id": "payment-providers",
+  "name": "Proveedores de pago",
+  "slug": "proveedores-de-pago",
+  "order": 2
+}

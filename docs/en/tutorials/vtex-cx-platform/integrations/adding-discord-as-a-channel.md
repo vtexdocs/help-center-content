@@ -34,7 +34,7 @@ https://discord.com/developers/applications
 2. Keep the default settings for Public Bot (checked) and Require OAuth2 code grant (unchecked).
 3. The next step is to copy the token.
 
-4.Click "Reset Token" and get your token.
+4. Click "Reset Token" and get your token.
 
 ### Add the channel to the VTEX CX Platform
 

@@ -3,7 +3,7 @@ title: 'Medidas técnicas y administrativas'
 id: 7ANSqBP5DgOrVVyglo3Lbh
 status: PUBLISHED
 createdAt: 2024-05-03T20:26:17.710Z
-updatedAt: 2024-05-03T21:12:11.696Z
+updatedAt: 2026-09-11T14:17:38.000Z
 publishedAt: 2024-05-03T21:12:11.696Z
 firstPublishedAt: 2024-05-03T20:57:29.358Z
 contentType: trackArticle
@@ -39,6 +39,21 @@ Consulta a continuación las prácticas adoptadas por VTEX, detalladas en el [DP
 * Apoyo a retailers para realizar la [Evaluación de impacto relativa a la protección de datos (EIPD)](https://commission.europa.eu/law/law-topic/data-protection/reform/rules-business-and-organisations/obligations/when-data-protection-impact-assessment-dpia-required_es).
 
 Para obtener más información, consulta [Prácticas de seguridad - VTEX](https://vtex.com/co-es/security/security-practices/).
+
+## Certificaciones
+
+VTEX audita regularmente sus controles de seguridad de la información a través de profesionales independientes para garantizar la transparencia y la excelencia en sus prácticas. Esta validación externa alinea políticas y procedimientos con los estándares de seguridad, lo que refuerza la confianza de clientes y partners.
+
+VTEX cuenta con las siguientes certificaciones y acreditaciones:
+
+* **ISO 27001** – Sistema de gestión de la seguridad de la información.
+* **ISO 27701** – Sistema de gestión de la privacidad de la información (PIMS), extensión de la norma ISO 27001.
+* **SOC 1 – Type 2**: informes que abarcan los controles internos sobre los sistemas de información financiera.
+* **SOC 2 – Type 2**: informes que abarcan la seguridad, disponibilidad, integridad, confidencialidad y privacidad.
+* **PCI-DSS**: validación de los controles sobre los datos de titulares de tarjetas para reducir el fraude con tarjetas de crédito.
+* **PCI-DESV**: conjunto adicional de procedimientos y requisitos de validación aplicados a determinadas organizaciones de alto riesgo o designadas.
+
+Consulta nuestras [Certificaciones](https://compliance.vtex.com/) para más detalles.
 
 ## Almacenamiento
 

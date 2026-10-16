@@ -17,11 +17,11 @@ announcementSynopsisEN: 'VTEX Pick and Pack provides a single place for merchant
 
 **[VTEX Pick and Pack](/en/docs/tutorials/vtex-pick-and-pack)** is the solution that provides a single place for you to manage picking, packing and last-mile delivery using inventory from physical stores and warehouses. 
 
-In addition, **VTEX Pick and Pack** [collects data and analytics](/en/docs/tutorials/vtex-pick-and-pack-fulfillment#insights) from your store, providing you information to make strategic decisions and scale your omnichannel operation.
+In addition, **VTEX Pick and Pack** [collects data and analytics](/en/docs/tutorials/vtex-pick-and-pack-insights) from your store, providing you information to make strategic decisions and scale your omnichannel operation.
 
 **VTEX Pick and Pack** is available to VTEX stores in Latin America, except for Brazil. The solution combines two features and mobile applications:
 
-* [VTEX Fulfillment](/en/docs/tutorials/vtex-pick-and-pack-fulfillment): Management of picking and packing.
+* [VTEX Fulfillment](/en/docs/tutorials/vtex-pick-and-pack-orders): Management of picking and packing.
 * [Last Mile](/en/docs/tutorials/vtex-pick-and-pack-last-mile): Control of last-mile delivery.
 * **Mobile Applications:** Applications for pickers and couriers.
 
@@ -68,6 +68,6 @@ To start using **VTEX Pick and Pack**, talk to your Customer Success Manager (CS
 ## Learn more
 
 - [VTEX Pick and Pack](/en/docs/tutorials/vtex-pick-and-pack) 
-- [VTEX Pick and Pack: Fulfillment](/en/docs/tutorials/vtex-pick-and-pack-fulfillment) 
+- [VTEX Pick and Pack: Fulfillment](/en/docs/tutorials/vtex-pick-and-pack-orders) 
 - [VTEX Pick and Pack: Last Mile](/en/docs/tutorials/vtex-pick-and-pack-last-mile)
 
