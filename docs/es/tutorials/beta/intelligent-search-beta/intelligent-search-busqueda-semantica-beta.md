@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
-> ℹ️ La búsqueda semántica está disponible exclusivamente como parte del Search Optimizer Agent, un servicio adicional de optimización de búsqueda.
+> ℹ️ La búsqueda semántica está disponible exclusivamente como parte de Search Optimizer Agent, servicio adicional de optimización de la búsqueda.
 > 
 > Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si ya eres cliente VTEX y deseas adoptar esta funcionalidad en tu empresa ponte en contacto con nuestro equipo de [Soporte comercial](/es/docs/tracks/soporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente, pero te interesa esta solución, llena el [formulario de contacto](https://www.vtex.com/es-mx/empezar/).
 
@@ -82,35 +82,35 @@ A continuación se destacan los principales beneficios de esta solución para la
 * **Comprensión del lenguaje natural:** los clientes pueden realizar búsquedas con el mismo lenguaje que emplean en su día a día: frases completas, términos ambiguos o lenguaje informal. Por ejemplo, el cliente puede realizar la siguiente consulta `¿cuál es el mejor tenis para senderismo?`, y la búsqueda entiende que están buscando zapatos con características específicas, como impermeables y con suela de agarre reforzado.
 * **Soporte para búsquedas complejas:** ideal para catálogos con productos que cuentan con descripciones subjetivas (como moda, belleza o decoración), donde el atributo exacto puede no estar explícito, pero la intención del usuario puede inferirse claramente.
 
-## Cómo probar la Búsqueda semántica
+## Cómo probar la búsqueda semántica
 
-Antes de aplicar la Búsqueda semántica para todos los clientes de la tienda, puedes probarla para comparar los resultados con y sin esta funcionalidad. La forma de probarla depende de la arquitectura de la tienda.
+Antes de aplicar la búsqueda semántica para todos los clientes de la tienda es posible probarla para comparar los resultados con y sin esta funcionalidad. El método para realizar las pruebas depende de la arquitectura de la tienda.
 
 ### Tiendas Store Framework
 
-Para tiendas que utilizan [Store Framework](https://help.vtex.com/es/docs/tracks/frontend#store-framework), VTEX puede crear un workspace de prueba y, si es necesario, configurar una prueba A/B con la solución interna de VTEX para comparar los resultados con y sin la Búsqueda semántica. Para ello, ponte en contacto con el [Soporte](https://help.vtex.com/es/docs/tutorials/como-funciona-el-soporte-de-vtex).
+Para tiendas que usan [Store Framework](https://help.vtex.com/es/docs/tracks/frontend#store-framework), VTEX puede crear un workspace de pruebas y, si es necesario, configurar una prueba A/B con la solución interna de VTEX para comparar los resultados con y sin búsqueda semántica. Para solicitarlo, ponte en contacto con el [Soporte](https://help.vtex.com/es/docs/tutorials/como-funciona-el-soporte-de-vtex).
 
 ### Tiendas Headless o FastStore
 
-Para tiendas Headless o que utilizan [FastStore](https://help.vtex.com/es/docs/tracks/frontend#faststore), la Búsqueda semántica se puede probar agregando un parámetro a la URL de la llamada hecha a la [API de Intelligent Search](https://developers.vtex.com/docs/api-reference/intelligent-search-api-v1#get-/product-search/-facets-), sin la necesidad de modificar ninguna configuración de la tienda.
+Para tiendas Headless o que usan [FastStore](https://help.vtex.com/es/docs/tracks/frontend#faststore), la búsqueda semántica puede probarse agregando un parámetro a la URL de la llamada realizada a la [API de Intelligent Search](https://developers.vtex.com/docs/api-reference/intelligent-search-api-v1#get-/product-search/-facets-), sin necesidad de modificar ninguna configuración de la tienda.
 
-Una query string es el fragmento que aparece después del símbolo `?` al final de una URL. Se utiliza para enviar información adicional al servidor sin alterar el resto de la dirección, en el formato `parámetro=valor`. Cuando hay más de un parámetro, se separan con el símbolo `&`.
+Una *query string* es el fragmento que aparece después del símbolo `?` al final de una URL. Se usa para enviar información adicional al servidor sin alterar el resto de la dirección, en el formato `parámetro=valor`. Cuando hay más de un parámetro, se separan con el símbolo `&`.
 
-Para probar la Búsqueda semántica en una llamada específica, agrega el parámetro `semanticRatio` a la query string de la URL de búsqueda, en el formato `?semanticRatio={valorPeso}`. Este parámetro acepta valores entre `0` y `1`, que definen el funcionamiento de la búsqueda:
+Para probar la búsqueda semántica en una llamada específica agrega el parámetro `semanticRatio` a la *query string* de la URL de búsqueda, en el formato `?semanticRatio={valorPeso}`. Este parámetro acepta valores entre `0` y `1`, que definen cómo funciona la búsqueda:
 
-* `0`: utiliza solo la búsqueda lexical. Este también es el comportamiento predeterminado cuando no se incluye el parámetro.
-* `1`: utiliza solo la búsqueda semántica.
-* `0.5`: combina ambos modelos. Cualquier valor entre `0` y `1` se comporta como `0.5`.
+* `0`: usa solo la búsqueda léxica. Si el parámetro no se especifica, se aplica este mismo comportamiento.
+* `1`: usa solo la búsqueda semántica.
+* `0.5`: combina los dos modelos. Cualquier valor entre `0` y `1` se comporta como `0.5`.
 
 **Ejemplo:**
 
-* Sin Búsqueda semántica:
-   `https://{accountName}.vtexcommercestable.com.br/api/intelligent-search/v1/product-search?query=leite%20para%20bebe`
-* Con Búsqueda semántica:
-   `https://{accountName}.vtexcommercestable.com.br/api/intelligent-search/v1/product-search?query=leite%20para%20bebe&semanticRatio=0.5`
+* Sin búsqueda semántica:
+   `https://{accountName}.vtexcommercestable.com/api/intelligent-search/v1/product-search?query=baby%20formula`
+* Con búsqueda semántica:
+   `https://{accountName}.vtexcommercestable.com/api/intelligent-search/v1/product-search?query=baby%20formula&semanticRatio=0.5`
 
-Como el parámetro se agrega solo en la URL de la llamada de prueba, no modifica la configuración de la tienda ni afecta otras llamadas. Esto permite comparar ambas versiones lado a lado o utilizar esta URL en una herramienta propia de prueba A/B para dirigir parte del tráfico hacia la versión con Búsqueda semántica.
+Como el parámetro se agrega solo en la URL de la llamada de prueba, no altera la configuración de la tienda ni afecta otras llamadas. Esto permite comparar las dos versiones lado a lado o usar esta URL en una herramienta propia de prueba A/B para dirigir parte del tráfico a la versión con búsqueda semántica.
 
 ### Activación directa en producción
 
-También es posible activar la Búsqueda semántica directamente para todas las llamadas realizadas a la API, sin la necesidad de incluir el parámetro `semanticRatio` en cada solicitud. Esta activación debe ser solicitada al [Soporte](https://help.vtex.com/es/docs/tutorials/como-funciona-el-soporte-de-vtex) y, dado que aplica el cambio para todos los clientes de la tienda en producción, no se recomienda como método de prueba.
+También es posible activar la búsqueda semántica directamente para todas las llamadas hechas a la API, sin necesidad de incluir el parámetro `semanticRatio` en cada solicitud. Solicita esta activación al [Soporte](https://help.vtex.com/es/docs/tutorials/como-funciona-el-soporte-de-vtex). Como afecta a todos los clientes de la tienda en producción, no se recomienda usarla para realizar pruebas.
