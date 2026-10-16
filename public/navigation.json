@@ -161,13 +161,13 @@
             },
             {
               "name": {
-                "en": "Outubro",
-                "es": "Outubro",
+                "en": "Octubre",
+                "es": "Octubre",
                 "pt": "Outubro"
               },
               "slug": {
-                "en": "outubro",
-                "es": "outubro",
+                "en": "octubre",
+                "es": "2026-octubre",
                 "pt": "2026-outubro"
               },
               "origin": "",
@@ -175,14 +175,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "Delivery Promise: agora disponível para todos os lojistas",
-                    "es": "Delivery Promise: agora disponível para todos os lojistas",
+                    "en": "Delivery Promise: ahora disponible para todos los retailers",
+                    "es": "Delivery Promise: ahora disponible para todos los retailers",
                     "pt": "Delivery Promise: agora disponível para todos os lojistas"
                   },
                   "slug": {
                     "en": "",
-                    "es": "",
-                    "pt": "2026-10-15-delivery-promise-agora-disponivel-para-todos-os-lojistas"
+                    "es": "2026-10-21-delivery-promise-ahora-disponible-para-todas-las-tiendas",
+                    "pt": "2026-10-21-delivery-promise-agora-disponivel-para-todos-os-lojistas"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -22348,7 +22348,7 @@
                 {
                   "name": {
                     "en": "Delivery Promise: FAQ",
-                    "es": "Delivery Promise: FAQ",
+                    "es": "Delivery Promise: preguntas frecuentes",
                     "pt": "Delivery Promise: FAQ"
                   },
                   "slug": {
@@ -39707,6 +39707,21 @@
             },
             {
               "name": {
+                "en": "B2B Checkout Settings is considering pickup address for deliveries",
+                "es": "La configuración de pago B2B está considerando la dirección de recogida para las entregas.",
+                "pt": "As configurações de finalização de compra B2B consideram o endereço de coleta para entregas."
+              },
+              "slug": {
+                "en": "b2b-checkout-settings-is-considering-pickup-address-for-deliveries",
+                "es": "la-configuracion-de-pago-b2b-esta-considerando-la-direccion-de-recogida-para-las-entregas",
+                "pt": "as-configuracoes-de-finalizacao-de-compra-b2b-consideram-o-endereco-de-coleta-para-entregas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Shipping options gets frozen when trying to select an option",
                 "es": "Las opciones de envío se bloquean al intentar seleccionar una opción",
                 "pt": "As opções de envio ficam travadas ao tentar selecionar uma opção"
@@ -39730,21 +39745,6 @@
                 "en": "b2b-organization-dont-consider-accounts-using-geolocation-when-registering-address",
                 "es": "las-organizaciones-b2b-no-tienen-en-cuenta-la-geolocalizacion-a-la-hora-de-registrar-las-direcciones-de-las-cuentas",
                 "pt": "as-organizacoes-b2b-nao-levam-em-conta-a-localizacao-geografica-ao-registrar-enderecos"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "B2B Checkout Settings is considering pickup address for deliveries",
-                "es": "B2B Checkout Settings está considerando la dirección de recogida para las entregas",
-                "pt": "B2B Checkout Settings está considerando o endereço de coleta para entregas"
-              },
-              "slug": {
-                "en": "b2b-checkout-settings-is-considering-pickup-address-for-deliveries",
-                "es": "b2b-checkout-settings-esta-considerando-la-direccion-de-recogida-para-las-entregas",
-                "pt": "b2b-checkout-settings-esta-considerando-o-endereco-de-coleta-para-entregas"
               },
               "origin": "",
               "type": "markdown",
@@ -48321,8 +48321,8 @@
             {
               "name": {
                 "en": "Orders with asterisks in the address and profile",
-                "es": "Pedidos con asteriscos en la dirección y el perfil",
-                "pt": "Pedidos com asteriscos no endereço e no perfil"
+                "es": "Pedidos con asteriscos en la dirección y el perfil.",
+                "pt": "Pedidos com asteriscos no endereço e no perfil."
               },
               "slug": {
                 "en": "orders-with-asterisks-in-the-address-and-profile",
@@ -52377,13 +52377,13 @@
             {
               "name": {
                 "en": "Divergence in the number of used permissions in the Security Monitor",
-                "es": "Divergencia en el número de permisos utilizados en el Monitor de Seguridad",
-                "pt": "Divergência no número de permissões usadas no Security Monitor"
+                "es": "Divergencia en el número de permisos utilizados en el Monitor de seguridad",
+                "pt": "Divergência no número de permissões utilizadas no Monitor de Segurança"
               },
               "slug": {
                 "en": "divergence-in-the-number-of-used-permissions-in-the-security-monitor",
                 "es": "divergencia-en-el-numero-de-permisos-utilizados-en-el-monitor-de-seguridad",
-                "pt": "divergencia-no-numero-de-permissoes-usadas-no-security-monitor"
+                "pt": "divergencia-no-numero-de-permissoes-utilizadas-no-monitor-de-seguranca"
               },
               "origin": "",
               "type": "markdown",
@@ -52850,6 +52850,21 @@
                 "en": "indexing-history-page-shows-high-volume-of-products-with-indexing-delay",
                 "es": "la-pagina-de-historial-de-indexacion-muestra-un-alto-volumen-de-productos-con-retraso-en-la-indexacion",
                 "pt": "a-pagina-de-historico-de-indexacao-mostra-um-grande-volume-de-produtos-com-atraso-na-indexacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Show more pagination repeats products after “Show less” back to page 1",
+                "es": "Mostrar más paginación repite los productos después de “Mostrar menos” volver a la página 1",
+                "pt": "A paginação \"Mostrar mais\" repete os produtos após \"Mostrar menos\" e retorna à página 1."
+              },
+              "slug": {
+                "en": "show-more-pagination-repeats-products-after-show-less-back-to-page-1",
+                "es": "mostrar-mas-paginacion-repite-los-productos-despues-de-mostrar-menos-volver-a-la-pagina-1",
+                "pt": "a-paginacao-mostrar-mais-repete-os-produtos-apos-mostrar-menos-e-retorna-a-pagina-1"
               },
               "origin": "",
               "type": "markdown",
@@ -57934,21 +57949,6 @@
             },
             {
               "name": {
-                "en": "Native split with asymmetric financial charge across suborders settles less than the invoiced amount",
-                "es": "La división nativa con cargo financiero asimétrico entre subórdenes se liquida por un monto menor al facturado.",
-                "pt": "A divisão nativa com cobrança financeira assimétrica entre subpedidos resulta em um valor inferior ao faturado."
-              },
-              "slug": {
-                "en": "native-split-with-asymmetric-financial-charge-across-suborders-settles-less-than-the-invoiced-amount",
-                "es": "la-division-nativa-con-cargo-financiero-asimetrico-entre-subordenes-se-liquida-por-un-monto-menor-al-facturado",
-                "pt": "a-divisao-nativa-com-cobranca-financeira-assimetrica-entre-subpedidos-resulta-em-um-valor-inferior-ao-faturado"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "User deletion from Order Authorization rule blocks order and does not allow UI reprocessing",
                 "es": "La eliminación del usuario de la regla de autorización de pedidos bloquea el pedido y no permite el reprocesamiento de la interfaz de usuario",
                 "pt": "A exclusão do usuário da regra de Autorização de Pedido bloqueia o pedido e não permite o reprocessamento da IU"
@@ -58092,6 +58092,21 @@
                 "en": "some-addresses-autocompleted-by-google-are-not-able-to-be-saved-on-my-account",
                 "es": "algunas-direcciones-que-google-autocompleta-no-se-pueden-guardar-en-mi-cuenta",
                 "pt": "alguns-enderecos-preenchidos-automaticamente-pelo-google-nao-podem-ser-salvos-em-minha-conta"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order changes can leave capture, cancellation and refund amounts out of sync with the order",
+                "es": "Los cambios en el pedido pueden provocar que los importes de captura, cancelación y reembolso no coincidan con el pedido.",
+                "pt": "Alterações no pedido podem fazer com que os valores de captura, cancelamento e reembolso fiquem dessincronizados com o pedido."
+              },
+              "slug": {
+                "en": "order-changes-can-leave-capture-cancellation-and-refund-amounts-out-of-sync-with-the-order",
+                "es": "los-cambios-en-el-pedido-pueden-provocar-que-los-importes-de-captura-cancelacion-y-reembolso-no-coincidan-con-el-pedido",
+                "pt": "alteracoes-no-pedido-podem-fazer-com-que-os-valores-de-captura-cancelamento-e-reembolso-fiquem-dessincronizados-com-o-pedido"
               },
               "origin": "",
               "type": "markdown",
@@ -66680,6 +66695,21 @@
                 "en": "error-cant-create-search-criteria-error-filter-already-existsbrandid-when-creating-a-promotion-excluding-more-than-1-brand",
                 "es": "error-no-se-pueden-crear-criterios-de-busqueda-error-el-filtro-ya-existe-brandid-al-crear-una-promocion-que-excluye-mas-de-1-marca",
                 "pt": "erro-nao-pode-criar-criterios-de-busca-erro-o-filtro-ja-existe-brandid-ao-criar-uma-promocao-excluindo-mais-de-1-marca"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Error When Adding a Store Usage Limit to a Promotion with an Existing Customer Usage Limit",
+                "es": "Error al agregar un límite de uso de la tienda a una promoción con un límite de uso del cliente existente.",
+                "pt": "Erro ao adicionar um limite de uso da loja a uma promoção com um limite de uso do cliente já existente."
+              },
+              "slug": {
+                "en": "error-when-adding-a-store-usage-limit-to-a-promotion-with-an-existing-customer-usage-limit",
+                "es": "error-al-agregar-un-limite-de-uso-de-la-tienda-a-una-promocion-con-un-limite-de-uso-del-cliente-existente",
+                "pt": "erro-ao-adicionar-um-limite-de-uso-da-loja-a-uma-promocao-com-um-limite-de-uso-do-cliente-ja-existente"
               },
               "origin": "",
               "type": "markdown",
