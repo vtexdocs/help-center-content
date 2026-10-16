@@ -25,54 +25,57 @@ symptomFilters:
 
 Below are some instructions to help you solve these issues in Site Editor.
 
-| Issue | Description | How to fix it |
+| Issue | Description | Instructions for resolving the issue |
 | ----- | ----------- | ------------- |
-| [Site Editor won't open](#site-editor-doesnt-open) | The Site Editor page displays a blank screen or the message `Something went wrong`. | - [Check the search integration](#checking-the-search-integration).<br> - [Check the tenant configuration (new accounts only)](#checking-the-tenant-configuration-new-accounts-only). |
-| [I can't manage my store's content in Site Editor](#i-cant-manage-my-store-content-in-site-editor) | I can't edit, save or delete content in Site Editor. | - [Check if the user role has the necessary permissions](#checking-if-the-user-role-has-the-necessary-permissions).<br> - [Check the domain's main location](#checking-the-domains-main-locale). |
-| [I lost the content stored in Site Editor](#i-lost-content-stored-in-site-editor) | The content saved in Site Editor has been lost. | [Open a ticket with VTEX Support](https://supporticket.vtex.com/support). |
-| [I'm still having problems with Site Editor](#im-still-experiencing-issues-with-site-editor) | Issues with the Site Editor persist even after trying to resolve them. | [Open a ticket with VTEX Support](https://supporticket.vtex.com/support). |
+| [Site Editor doesn't open](#site-editor-doesnt-open) | The Site Editor page displays a blank screen or the `Something went wrong` message. | - [Check the search integration](#checking-the-search-integration).<br> - [Check the tenant configuration (new accounts only)](#checking-the-tenant-configuration-new-accounts-only). |
+| [I can't manage my store's content in Site Editor](#i-cant-manage-my-stores-content-in-site-editor) | You can't edit, save, or delete content in Site Editor. | - [Check if the user role has the necessary permissions](#checking-if-the-user-role-has-the-necessary-permissions).<br> - [Check the domain's main location](#checking-the-domains-main-locale). |
+| [I lost the content stored in Site Editor](#i-lost-content-stored-in-site-editor) | Content saved in Site Editor was lost. | [Open a ticket with VTEX Support](https://supporticket.vtex.com/support). |
+| [I'm still experiencing issues with Site Editor](#i'm-still-experiencing-issues-with-site-editor) | You're still experiencing issues with Site Editor after trying to resolve them. | [Open a ticket with VTEX Support](https://supporticket.vtex.com/support). |
 
 To understand and correct each error, see the solutions below:
 
 ## Site Editor doesn't open
 
-The following error may occur: when accessing VTEX Admin, going to **Storefront** and clicking **Site Editor**, the Site Editor page shows a blank screen or the message `Something went wrong`.
+The following error may occur: when you go to **Storefront** > **Site Editor** in the VTEX Admin, the page may show a blank screen or the `Something went wrong` message.
 
 ![Site Editor - Something went wrong EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/data-access-and-security/my-stores-site-editor-is-not-working_1.png)
 
-To solve this error, see the following instructions:
+To solve this issue, see the following instructions:
 
 1. [Check the search integration](#checking-the-search-integration).
-2. [Check the tenant configuration](#checking-the-tenant-configuration-new-accounts-only).
+2. [Check the tenant configuration](#checking-the-tenant-configuration-new-accounts-only)
 
 ### Checking the search integration
 
-One possible reason for this issue might be related to the [Intelligent Search](/en/docs/tracks/overview-intelligent-search) search not integrated with your store’s catalog. Follow the steps below to integrate it into your store:
+This issue may be related to [Intelligent Search](/en/docs/tracks/intelligent-search-overview) not being integrated with the store catalog. Follow the steps below to integrate it into your store:
 
-1. Access the VTEX Admin and go to **Store Settings > Intelligent Search > Integrations**.
-2. On the **Integrations** page, all the statuses must be checked, as in the following image.
+1. In the VTEX Admin, go to **Store Settings > Intelligent Search > Integrations**.
 
-    ![Site Editor - IS integrations EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/data-access-and-security/my-stores-site-editor-is-not-working_2.png)
+2. On the **Integrations** page, make sure all statuses are checked, as shown in the image below.
 
-3. If the statuses are all checked, and you still can’t open Site Editor, see the [Checking the tenant configuration](#checking-the-tenant-configuration-new-accounts-only) section. Otherwise, proceed to the next step.
-4. If the Integrations page does not look like the image above, here are the reasons and how to fix them:
-    - **The status `Enable search` is not checked**: You didn’t start the integration. Click `Start Integration`.
-    - **One of the statuses failed and is not checked**: If you already tried to start the integration but it still failed, open a ticket with [VTEX Support](https://supporticket.vtex.com/support) to report the error.
+   ![Site Editor - IS integrations EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/data-access-and-security/my-stores-site-editor-is-not-working_2.png)
+
+3. If all statuses are checked, and you still can’t open Site Editor, see the [Checking the tenant configuration](#checking-the-new-account-tenant-configuration) section. Otherwise, proceed to the next step.
+
+4. If the Integrations page doesn't look like the image above, here are the causes and how to fix them:
+
+- **The status `Enable search` isn't checked**: The integration hasn't been started. Click `Start integration`.
+- **One of the statuses failed and is not checked**: If you've already tried to start the integration but it failed, open a ticket with [VTEX Support](https://supporticket.vtex.com/support) to report the error.
 
 ### Checking the tenant configuration (new accounts only)
 
-If you already have the [search integrated](#checking-the-search-integration) and still see a black screen when you click **Site Editor** in the VTEX Admin, the store might not have the tenant set, or there is an error in this setting.
+If you already have the [search integrated](#checking-the-search-integration) and still see a blank screen when you click **Site Editor** in the VTEX Admin, the store might not have the tenant set, or there might be an error in this setting.
 
-VTEX uses a [SaaS multi-tenancy](https://developers.vtex.com/docs/guides/cloud-infrastructure#saas-multi-tenancy) architecture approach, where each account is a tenant that needs to be connected (binding) to the VTEX architecture for data and information synchronization.
+VTEX uses a [SaaS multi-tenancy](https://developers.vtex.com/docs/guides/cloud-infrastructure#saas-multi-tenancy) architecture approach, where each account is a tenant that must be connected to the VTEX architecture through a binding to sync data.
 
-To set the tenant in your store, open a ticket with [VTEX Support](https://supporticket.vtex.com/support) team requesting it. Once you receive feedback from support confirming the tenant has been set, go to the VTEX Admin, access **Storefront > Site Editor**, and check if it opens correctly. If the blank screen persists, explain the new issue in the ticket you opened with VTEX Support so the team can further investigate.
+To configure the tenant in your store, open a ticket with the [VTEX Support](https://supporticket.vtex.com/support) team to request it. Once you receive a response from Support confirming the tenant configuration, go to the VTEX Admin and click **Storefront > Site Editor** to verify that the site opens correctly. If the blank screen persists, add this information to the same ticket so the team can investigate further.
 
 ## I can't manage my store content in Site Editor
 
 One error that can happen in Site Editor is when you can't edit, save, or delete content. When you try to do one of these actions, you see the following message:
 
 ```bash
-Something went wrong. Please try again.
+Something went wrong. Try again.
 ```
 
 To solve this error, see the following instructions:
@@ -83,19 +86,33 @@ To solve this error, see the following instructions:
 
 ### Checking if the user role has the necessary permissions
 
-One possible reason for this issue might be related to the lack of the `CMS GraphQL API` License Manager [resource](/en/docs/tutorials/license-manager-resources) in a [user role](/en/docs/tutorials/roles) for content management.
+One possible reason for this issue is that a [role](/en/docs/tutorials/roles) used for content management doesn't include the `CMS GraphQL API` [resource](/en/docs/tutorials/license-manager-resources) in License Manager.
 
-Ensure that users are associated with the `CMS GraphQL API` resource within their user roles by either [creating a new role](/en/docs/tutorials/roles#creating-a-role) or editing an existing one.
+Make sure that users have the `CMS GraphQL API` resource associated with their roles by either [creating a new role](/en/docs/tutorials/roles#creating-a-role) or editing an existing one.
 
-If you still can't manage the content even after adding the `CMS GraphQL API` resource to the user role, see the next section: [Check the domain's main locale](#checking-the-domains-main-locale).
+If you still can't manage content even after adding the `CMS GraphQL API` resource to the user role, see the next section: [Check if the sales channel is configured in the catalog](#checking-if-the-sales-channel-is-configured-in-the-catalog).
+
+### Checking if the sales channel is configured in the catalog
+
+Another possible reason for this error is that the account's sales channel isn't correctly associated with the store catalog, which prevents Site Editor from loading or saving content.
+
+1. In the VTEX Admin, go to **Store Settings > Channels > Sales channels**.
+2. Check whether there's a sales channel associated with your account and whether it's correctly configured for the store catalog.
+3. If no sales channel is configured, or if it isn't correctly associated with the store catalog, [configure a sales channel](/docs/tutorials/creating-a-trade-policy) for the account.
+4. If the sales channel is already configured and the problem persists, open a ticket with [VTEX Support](https://supporticket.vtex.com/support) to verify the association between the sales channel and the catalog.
+
+If you still can't manage content, see the next section: [Check the domain's main locale](#checking-the-domains-main-locale).
 
 ### Checking the domain's main locale
 
-Another possible reason for this error is related to the locale set for the account.
+This error can also occur due to the locale configured for the account.
 
 1. [Install](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-an-app) the `vtex.admin-graphql-ide@3.x` app using your terminal.
+
 2. In the VTEX Admin, go to **Store Settings > Storefront > GraphQL IDE**.
+
 3. In the dropdown menu, select the `vtex.tenant-graphql@0.1.2` app.
+
 4. In the text box, enter the following query:
 
     ```graphql
@@ -110,37 +127,39 @@ Another possible reason for this error is related to the locale set for the acco
     }
     ```
 
-5. Check the main location set for your store. This information is available in the `defaultLocale` field. See the example below.
+5. Check the main locale set for your store. This information is available in the `defaultLocale` field. See the example below.
 
-    ![graphql-default-locale-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/data-access-and-security/my-stores-site-editor-is-not-working_3.png)
+   ![graphql-default-locale-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/data-access-and-security/my-stores-site-editor-is-not-working_3.png)
 
-6. Now, go to **Store Settings > Channels > Sales Channels**.
-7. On the **Sales Channels** page, select the sales channel associated with your account and check the **Locale** field.
+6. Now, go to **Store Settings > Channels > Sales channels**.
 
-    ![Site Editor - Locale EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/data-access-and-security/my-stores-site-editor-is-not-working_4.png)
+7. On the **Sales channels** page, select the sales channel associated with your account and check the **Locale** field.
 
-    The locale is considered incorrect in the following cases:
-      - The locale is different from the one the account should use. For example, the locale is set as `pt-BR`, but the account should be `pt-PT`.
-      - The locale is in lowercase. Since this configuration is case-sensitive, you must set the locale as `pt-BR` instead of `pt-br`.
-      - The locality configured in the sales channel is different from the `defaultLocale` identified.
+   ![Site Editor - Locale EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/acesso-a-dados-e-segurança/o-site-editor-da-minha-loja-nao-esta-funcionando_4.png)
 
-8. In both cases, open a ticket with [VTEX Support](https://supporticket.vtex.com/support) to request a change in the locale set for the sales channel. Remember to include evidence of the error, such as screenshots, message logs, and details of your prior investigation.
+   The locale is considered incorrect in the following cases:
+
+   - The locale is different from the one the account should use. For example, the locale is set to `pt-BR`, but it should be `pt-PT`.
+   - The country code in the locale is lowercase. Since this configuration is case-sensitive, the locale must appear as `pt-BR` instead of `pt-br`.
+   - The locale configured in the sales channel is different from the `defaultLocale` identified.
+
+8. In all cases, open a ticket with [VTEX Support](https://supporticket.vtex.com/support) to request an update to the locale configured in the sales channel. Remember to include evidence of the error, such as screenshots, message logs, and details of your prior investigation.
 
 ## I lost content stored in Site Editor
 
-Open a ticket with the [VTEX Support](https://supporticket.vtex.com/support) team to investigate the issue further.
+Open a ticket with [VTEX Support](https://supporticket.vtex.com/support) to investigate the issue further.
 
-To avoid losing content stored in Site Editor when changing the pair dependencies of the Store Theme app, follow the steps in the guide [Migrating CMS settings after a major theme update](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-cms-settings-after-major-update).
+To avoid losing content stored in Site Editor when changing the peer dependencies of the Store Theme app, follow the steps in the guide [Migrating CMS settings after a major theme update](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-cms-settings-after-major-update).
 
-> ⚠️  In cases where you lose content in Site Editor, the content can only be restored if the loss is related to the known issue of [Intermittent Site Editor content loss](/en/known-issues/intermitent-site-editor-content-loss). In this situation, open a ticket with the [VTEX Support](https://supporticket.vtex.com/support) with `urgent` priority.
+> ⚠️ In cases where content stored in Site Editor is lost, restoration is only possible if the loss is related to the known issue of [Intermittent Site Editor content loss](/known-issues/intermitent-site-editor-content-loss). In this case, open a ticket with [VTEX Support](https://supporticket.vtex.com/support) with `urgent` priority.
 
 ## I'm still experiencing issues with Site Editor
 
-If you have already gone through the solutions described above and are still experiencing issues with Site Editor, please open a ticket with the [VTEX Support](https://supporticket.vtex.com/support) team and add evidence of the issues you are facing:
+If you've already tried the solutions mentioned above and are still experiencing issues with Site Editor, open a ticket with [VTEX Support](https://supporticket.vtex.com/support), including evidence of the problems encountered:
 
 - Error messages.
-- [Console log messages](https://developer.chrome.com/docs/devtools/console/understand-messages) (If there is any).
-- Changes made before the issue occurred.
+- [Console log messages](https://developer.chrome.com/docs/devtools/console/understand-messages) (if any).
+- Changes made before the error.
 - Screenshots of the issue.
 - Date and time when the issue started.
-- Tests you have already performed and the steps to reproduce them.
+- Tests you've already performed and the steps to reproduce them.
