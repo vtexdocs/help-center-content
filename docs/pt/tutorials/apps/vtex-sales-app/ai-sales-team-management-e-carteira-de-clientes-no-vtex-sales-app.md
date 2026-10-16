@@ -62,7 +62,7 @@ O **AI Sales Team Management** interpreta a sua instrução, prepara e apresenta
 - **Montar organograma de vendas:** criar times e subtimes seguindo a mesma lógica da operação, como estruturas por regiões, cidades ou carteiras.
 - **Registrar representantes de vendas:** cadastrar membros da equipe comercial na estrutura de vendas, associando cada pessoa ao time desejado.
 - **Controlar carteiras de clientes:** vincular [contratos B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) a um time ou subtime para definir quais contratos os sales reps terão acesso pelo **Sales App**.
-- **Alterar diversos registros simultaneamente:** modificar diversos registros ao mesmo tempo, seja de forma inteiramente conversacional ou com a importação de arquivos `.xlsx`, `.csv` ou `.txt`.
+- **Alterar diversos registros simultaneamente:** modificar diversos registros ao mesmo tempo, seja de forma inteiramente conversacional ou com a importação de arquivos `.xlsx`, `.csv`, `.txt` ou `.json`.
 
 ## Acessar o agente
 
@@ -140,7 +140,7 @@ O time é a unidade da estrutura de vendas no contexto do **AI Sales Team Manage
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
 | Criar time | Nome do time. Caso esteja criando um subtime, informe também o nome do time pai. | "Crie o time Vendas Sul" / "Crie o subtime Contagem dentro do time Nordeste" / "Crie meus times de vendas: Time Sul, Time Norte, Time Nordeste." |
-| Criar subtimes por sales rep | Anexe um arquivo `.xlsx`, `.csv` ou `.txt` com os dados dos sales reps e o time de destino. | "Crie subtimes baseados na carteira de cada sales rep." / "Crie subtimes baseados na carteira de cada sales rep." |
+| Criar subtimes por sales rep | Anexe um arquivo `.xlsx`, `.csv`, `.txt` ou `.json` com os dados dos sales reps e o time de destino. | "Crie subtimes baseados na carteira de cada sales rep." / "Crie subtimes baseados na carteira de cada sales rep." |
 | Editar nome do time | Nome atual do time e o novo nome. | "Edite o time Vendas Sul para Vendas Sudeste" / "Mude o nome Vendas Sudeste para Vendas Sudeste Principal" |
 | Mover time | Nomes do time a ser movido e do time de destino. | "Mova o time Vendas Sul para dentro do time Nordeste" / "Coloque o time Vendas Sul sob o time Vendas Nordeste |
 | Visualizar detalhes do time | Nome ou ID do time + informações que deseja visualizar (sales reps, contratos vinculados ou subtimes). | "A quais contratos o Vendas Sul tem acesso?" / "Quais sales reps existem no time Vendas Norte?" |
@@ -158,8 +158,8 @@ A tabela a seguir apresenta as ações que você pode realizar sobre as carteira
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
-| Vincular contrato a um ou mais times | Identificação do contrato e nome de um ou mais times. Você também pode fazer essa [ação em massa](#realizar-acoes-em-massa-em-times-sales-reps-e-carteiras-de-clientes) por meio da importação de arquivos. | "Vincule o contrato 1395 ao Time Sul, Time Norte, Time Nordeste" / "Crie a carteira de clientes do Time Norte com o contrato 1395" |
-| Visualizar carteiras de clientes | Identificação do time. | "O Time Norte atende quais carteiras?" / "A quais contratos o Vendas Sul foi vinculado?" |
+| Vincular contrato a um ou mais times | Nome ou ID do contrato + nome ou ID do time. Você também pode fazer essa [ação em massa](#realizar-acoes-em-massa-em-times-sales-reps-e-carteiras-de-clientes) por meio da importação de arquivos. | "Vincule o contrato `9eea9b43-c83c-42e9-86a8-fbef4ed228d5` ao Time Sul, Time Norte e Time Nordeste" / "Crie a carteira de clientes do Time Norte com o contrato Empresa AG" |
+| Visualizar carteiras de clientes | Nome ou ID do time ou nome ou ID do contrato. | "O Time Norte atende quais carteiras?" / "A quais contratos o Vendas Sul foi vinculado?" |
 
 > ⚠️ A criação de carteiras de clientes não pode ser desfeita pelo agente.
 
@@ -170,15 +170,15 @@ Para saber como controlar o nível de permissão de times a contratos, veja a se
 Vincular um contrato a um time define a carteira daquele time e muda o que o sales rep visualiza no **Sales App**.
 
 - **Times com contratos vinculados:** os sales reps visualizam no **Sales App** apenas as cotações e pedidos referentes aos contratos vinculados. A criação de novos pedidos também fica restrita a esses contratos.
-  - Exemplo: o "Time Sul" está vinculado aos contratos `100` e `200`, portanto, os sales reps desse time podem visualizar e criar pedidos somente para esses dois contratos.
+  - Exemplo: o Time Sul está vinculado aos contratos A e B, portanto, os sales reps desse time podem visualizar e criar pedidos somente para esses dois contratos.
 - **Times sem contratos vinculados:** os sales reps visualizam todos os contratos da conta.
-  - Exemplo: o "Time Norte" não está vinculado a nenhum contrato, portanto, os sales reps desse time podem visualizar e criar pedidos para todos os contratos da conta.
+  - Exemplo: o Time Norte não está vinculado a nenhum contrato, portanto, os sales reps podem visualizar e criar pedidos para todos os contratos da conta.
 
 > ⚠️ Recomendamos que você confirme os vínculos contratuais antes de definir restrições ao time de vendas.
 
 ### Realizar ações em massa em times, sales reps e carteiras de clientes
 
-O **AI Sales Team Management** permite que você realize ações em massa por meio da importação de arquivos no formato `.xlsx`, `.csv` ou `.txt`. Isso se aplica aos seguintes cenários:
+O **AI Sales Team Management** permite que você realize ações em massa por meio da importação de arquivos no formato `.xlsx`, `.csv`, `.txt` ou `.json`. Isso se aplica aos seguintes cenários:
 
 - **Times:** criar, mover, editar ou desativar times.
 - **Sales reps:** criar, adicionar, mover, editar ou remover sales reps.
