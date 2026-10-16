@@ -69,7 +69,7 @@ Para criar uma nova opção de envio, siga os passos abaixo.
 
    Recomendamos ativar e usar primeiro as opções de envio como filtros na loja e só depois avaliar a atribuição de precificação. Se não quiser atribuir precificação a uma opção de envio, selecione **Repasse de custo**, que é a opção recomendada.
 
-   - **Precificação**: condições de precificação da opção de envio. Os modelos de precificação aplicados em cada segmentação são: **Valor fixo**, um mesmo preço que será aplicado a todos os carrinhos, **Markup**, uma porcentagem de lucro em cima do valor do frete, e **Repasse de custo**, a loja arca com o custo da opção de envio. É possível combinar as opções de precificação entre si. As condições de precificação são definidas a partir das seguintes segmentações:
+   - **Precificação**: condições de precificação da opção de envio. Os modelos de precificação aplicados em cada segmentação são: **Valor fixo**, um mesmo preço que será aplicado a todos os carrinhos, **Markup**, uma porcentagem de lucro em cima do valor do frete, e **Repasse de custo**, em que o preço do frete é o calculado pelas políticas de envio, sem alteração. É possível combinar as opções de precificação entre si. As condições de precificação são definidas a partir das seguintes segmentações:
        - **Todos os carrinhos**: o preço será aplicado a todos os carrinhos criados na loja.
        - **Políticas comerciais**: o preço será aplicado a uma determinada política comercial.
        - **Valor do carrinho**: o preço será aplicado caso o valor do carrinho ultrapasse um determinado valor.
