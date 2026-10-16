@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Persistent login: set how long your customers stay authenticated",
+                    "es": "Inicio de sesión persistente: define por cuánto tiempo tus clientes permanecen autenticados",
+                    "pt": "Login persistente: defina por quanto tempo seus clientes permanecem autenticados"
+                  },
+                  "slug": {
+                    "en": "2026-10-16-persistent-login-set-how-long-your-customers-stay-authenticated",
+                    "es": "2026-10-16-inicio-de-sesion-persistente-define-por-cuanto-tiempo-tus-clientes-permanecen-autenticados",
+                    "pt": "2026-10-16-login-persistente-defina-por-quanto-tempo-seus-clientes-permanecem-autenticados"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Bolivia address database update",
                     "es": "Actualización de la base de direcciones de Bolivia",
                     "pt": "Atualização da base de endereços da Bolívia"
@@ -159,7 +174,7 @@
                 },
                 {
                   "name": {
-                    "en": "VTEX CX Platform: support for BSUID and WhatsApp usernames",
+                    "en": "VTEX CX Platform: BSUID and WhatsApp username support",
                     "es": "VTEX CX Platform: soporte para BSUID y nombres de usuario de WhatsApp",
                     "pt": "VTEX CX Platform: suporte a BSUID e usernames do WhatsApp"
                   },
@@ -39675,6 +39690,21 @@
             },
             {
               "name": {
+                "en": "B2B Checkout Settings is considering pickup address for deliveries",
+                "es": "La configuración de pago B2B está considerando la dirección de recogida para las entregas.",
+                "pt": "As configurações de finalização de compra B2B consideram o endereço de coleta para entregas."
+              },
+              "slug": {
+                "en": "b2b-checkout-settings-is-considering-pickup-address-for-deliveries",
+                "es": "la-configuracion-de-pago-b2b-esta-considerando-la-direccion-de-recogida-para-las-entregas",
+                "pt": "as-configuracoes-de-finalizacao-de-compra-b2b-consideram-o-endereco-de-coleta-para-entregas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Shipping options gets frozen when trying to select an option",
                 "es": "Las opciones de envío se bloquean al intentar seleccionar una opción",
                 "pt": "As opções de envio ficam travadas ao tentar selecionar uma opção"
@@ -39698,21 +39728,6 @@
                 "en": "b2b-organization-dont-consider-accounts-using-geolocation-when-registering-address",
                 "es": "las-organizaciones-b2b-no-tienen-en-cuenta-la-geolocalizacion-a-la-hora-de-registrar-las-direcciones-de-las-cuentas",
                 "pt": "as-organizacoes-b2b-nao-levam-em-conta-a-localizacao-geografica-ao-registrar-enderecos"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "B2B Checkout Settings is considering pickup address for deliveries",
-                "es": "B2B Checkout Settings está considerando la dirección de recogida para las entregas",
-                "pt": "B2B Checkout Settings está considerando o endereço de coleta para entregas"
-              },
-              "slug": {
-                "en": "b2b-checkout-settings-is-considering-pickup-address-for-deliveries",
-                "es": "b2b-checkout-settings-esta-considerando-la-direccion-de-recogida-para-las-entregas",
-                "pt": "b2b-checkout-settings-esta-considerando-o-endereco-de-coleta-para-entregas"
               },
               "origin": "",
               "type": "markdown",
@@ -40051,13 +40066,13 @@
             {
               "name": {
                 "en": "B2B Organizations without an address number as a valid address",
-                "es": "Organizaciones B2B sin número de dirección como dirección válida",
-                "pt": "Organizações B2B sem um número de endereço como um endereço válido"
+                "es": "Organizaciones B2B sin un número de dirección como dirección válida",
+                "pt": "Organizações B2B sem número de endereço como endereço válido"
               },
               "slug": {
                 "en": "b2b-organizations-without-an-address-number-as-a-valid-address",
-                "es": "organizaciones-b2b-sin-numero-de-direccion-como-direccion-valida",
-                "pt": "organizacoes-b2b-sem-um-numero-de-endereco-como-um-endereco-valido"
+                "es": "organizaciones-b2b-sin-un-numero-de-direccion-como-direccion-valida",
+                "pt": "organizacoes-b2b-sem-numero-de-endereco-como-endereco-valido"
               },
               "origin": "",
               "type": "markdown",
@@ -46955,12 +46970,12 @@
               "name": {
                 "en": "Order can't be created due to invalid credit card",
                 "es": "No se puede crear el pedido porque la tarjeta de crédito no es válida",
-                "pt": "Não é possível criar o pedido devido a um cartão de crédito inválido"
+                "pt": "Não foi possível criar o pedido devido a um cartão de crédito inválido."
               },
               "slug": {
                 "en": "order-cant-be-created-due-to-invalid-credit-card",
                 "es": "no-se-puede-crear-el-pedido-porque-la-tarjeta-de-credito-no-es-valida",
-                "pt": "nao-e-possivel-criar-o-pedido-devido-a-um-cartao-de-credito-invalido"
+                "pt": "nao-foi-possivel-criar-o-pedido-devido-a-um-cartao-de-credito-invalido"
               },
               "origin": "",
               "type": "markdown",
@@ -48289,8 +48304,8 @@
             {
               "name": {
                 "en": "Orders with asterisks in the address and profile",
-                "es": "Pedidos con asteriscos en la dirección y el perfil",
-                "pt": "Pedidos com asteriscos no endereço e no perfil"
+                "es": "Pedidos con asteriscos en la dirección y el perfil.",
+                "pt": "Pedidos com asteriscos no endereço e no perfil."
               },
               "slug": {
                 "en": "orders-with-asterisks-in-the-address-and-profile",
@@ -52345,13 +52360,13 @@
             {
               "name": {
                 "en": "Divergence in the number of used permissions in the Security Monitor",
-                "es": "Divergencia en el número de permisos utilizados en el Monitor de Seguridad",
-                "pt": "Divergência no número de permissões usadas no Security Monitor"
+                "es": "Divergencia en el número de permisos utilizados en el Monitor de seguridad",
+                "pt": "Divergência no número de permissões utilizadas no Monitor de Segurança"
               },
               "slug": {
                 "en": "divergence-in-the-number-of-used-permissions-in-the-security-monitor",
                 "es": "divergencia-en-el-numero-de-permisos-utilizados-en-el-monitor-de-seguridad",
-                "pt": "divergencia-no-numero-de-permissoes-usadas-no-security-monitor"
+                "pt": "divergencia-no-numero-de-permissoes-utilizadas-no-monitor-de-seguranca"
               },
               "origin": "",
               "type": "markdown",
@@ -52818,6 +52833,21 @@
                 "en": "indexing-history-page-shows-high-volume-of-products-with-indexing-delay",
                 "es": "la-pagina-de-historial-de-indexacion-muestra-un-alto-volumen-de-productos-con-retraso-en-la-indexacion",
                 "pt": "a-pagina-de-historico-de-indexacao-mostra-um-grande-volume-de-produtos-com-atraso-na-indexacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Show more pagination repeats products after “Show less” back to page 1",
+                "es": "Mostrar más paginación repite los productos después de “Mostrar menos” volver a la página 1",
+                "pt": "A paginação \"Mostrar mais\" repete os produtos após \"Mostrar menos\" e retorna à página 1."
+              },
+              "slug": {
+                "en": "show-more-pagination-repeats-products-after-show-less-back-to-page-1",
+                "es": "mostrar-mas-paginacion-repite-los-productos-despues-de-mostrar-menos-volver-a-la-pagina-1",
+                "pt": "a-paginacao-mostrar-mais-repete-os-produtos-apos-mostrar-menos-e-retorna-a-pagina-1"
               },
               "origin": "",
               "type": "markdown",
@@ -57902,21 +57932,6 @@
             },
             {
               "name": {
-                "en": "Native split with asymmetric financial charge across suborders settles less than the invoiced amount",
-                "es": "La división nativa con cargo financiero asimétrico entre subórdenes se liquida por un monto menor al facturado.",
-                "pt": "A divisão nativa com cobrança financeira assimétrica entre subpedidos resulta em um valor inferior ao faturado."
-              },
-              "slug": {
-                "en": "native-split-with-asymmetric-financial-charge-across-suborders-settles-less-than-the-invoiced-amount",
-                "es": "la-division-nativa-con-cargo-financiero-asimetrico-entre-subordenes-se-liquida-por-un-monto-menor-al-facturado",
-                "pt": "a-divisao-nativa-com-cobranca-financeira-assimetrica-entre-subpedidos-resulta-em-um-valor-inferior-ao-faturado"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "User deletion from Order Authorization rule blocks order and does not allow UI reprocessing",
                 "es": "La eliminación del usuario de la regla de autorización de pedidos bloquea el pedido y no permite el reprocesamiento de la interfaz de usuario",
                 "pt": "A exclusão do usuário da regra de Autorização de Pedido bloqueia o pedido e não permite o reprocessamento da IU"
@@ -58060,6 +58075,21 @@
                 "en": "some-addresses-autocompleted-by-google-are-not-able-to-be-saved-on-my-account",
                 "es": "algunas-direcciones-que-google-autocompleta-no-se-pueden-guardar-en-mi-cuenta",
                 "pt": "alguns-enderecos-preenchidos-automaticamente-pelo-google-nao-podem-ser-salvos-em-minha-conta"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order changes can leave capture, cancellation and refund amounts out of sync with the order",
+                "es": "Los cambios en el pedido pueden provocar que los importes de captura, cancelación y reembolso no coincidan con el pedido.",
+                "pt": "Alterações no pedido podem fazer com que os valores de captura, cancelamento e reembolso fiquem dessincronizados com o pedido."
+              },
+              "slug": {
+                "en": "order-changes-can-leave-capture-cancellation-and-refund-amounts-out-of-sync-with-the-order",
+                "es": "los-cambios-en-el-pedido-pueden-provocar-que-los-importes-de-captura-cancelacion-y-reembolso-no-coincidan-con-el-pedido",
+                "pt": "alteracoes-no-pedido-podem-fazer-com-que-os-valores-de-captura-cancelamento-e-reembolso-fiquem-dessincronizados-com-o-pedido"
               },
               "origin": "",
               "type": "markdown",
@@ -66550,6 +66580,21 @@
             },
             {
               "name": {
+                "en": "Incorrect Discount Calculation in Multi Payment Method promotions",
+                "es": "Cálculo incorrecto del descuento en promociones con múltiples métodos de pago.",
+                "pt": "Cálculo incorreto de desconto em promoções com múltiplos métodos de pagamento."
+              },
+              "slug": {
+                "en": "incorrect-discount-calculation-in-multi-payment-method-promotions",
+                "es": "calculo-incorrecto-del-descuento-en-promociones-con-multiples-metodos-de-pago",
+                "pt": "calculo-incorreto-de-desconto-em-promocoes-com-multiplos-metodos-de-pagamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Buy Together promotions with price range restriction impact in gift promotions",
                 "es": "Las promociones Buy Together con restricción de rango de precios repercuten en las promociones de regalos",
                 "pt": "Comprar juntos promoções com impacto de restrição de faixa de preço em promoções de presentes"
@@ -66633,6 +66678,21 @@
                 "en": "error-cant-create-search-criteria-error-filter-already-existsbrandid-when-creating-a-promotion-excluding-more-than-1-brand",
                 "es": "error-no-se-pueden-crear-criterios-de-busqueda-error-el-filtro-ya-existe-brandid-al-crear-una-promocion-que-excluye-mas-de-1-marca",
                 "pt": "erro-nao-pode-criar-criterios-de-busca-erro-o-filtro-ja-existe-brandid-ao-criar-uma-promocao-excluindo-mais-de-1-marca"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Error When Adding a Store Usage Limit to a Promotion with an Existing Customer Usage Limit",
+                "es": "Error al agregar un límite de uso de la tienda a una promoción con un límite de uso del cliente existente.",
+                "pt": "Erro ao adicionar um limite de uso da loja a uma promoção com um limite de uso do cliente já existente."
+              },
+              "slug": {
+                "en": "error-when-adding-a-store-usage-limit-to-a-promotion-with-an-existing-customer-usage-limit",
+                "es": "error-al-agregar-un-limite-de-uso-de-la-tienda-a-una-promocion-con-un-limite-de-uso-del-cliente-existente",
+                "pt": "erro-ao-adicionar-um-limite-de-uso-da-loja-a-uma-promocao-com-um-limite-de-uso-do-cliente-ja-existente"
               },
               "origin": "",
               "type": "markdown",
