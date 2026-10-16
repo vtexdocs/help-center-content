@@ -25721,44 +25721,13 @@
                 {
                   "name": {
                     "en": "Configuring persistent login for customers",
-                    "es": "Configuring persistent login for customers",
+                    "es": "Configurar el inicio de sesión persistente para clientes",
                     "pt": "Configurar login persistente para clientes"
                   },
                   "slug": {
                     "en": "configuring-persistent-login-for-customers",
-                    "es": "",
-                    "pt": "configurar-login-persistente-para-clientes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Conceptos básicos de autenticación",
-                "es": "Conceptos básicos de autenticación",
-                "pt": "Conceptos básicos de autenticación"
-              },
-              "slug": {
-                "en": "conceptos-basicos-de-autenticacion",
-                "es": "conceptos-basicos-de-autenticacion-subcategoria",
-                "pt": "conceptos-basicos-de-autenticacion"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Configurar el inicio de sesión persistente para clientes",
-                    "es": "Configurar el inicio de sesión persistente para clientes",
-                    "pt": "Configurar el inicio de sesión persistente para clientes"
-                  },
-                  "slug": {
-                    "en": "",
                     "es": "configurar-el-inicio-de-sesion-persistente-para-clientes",
-                    "pt": ""
+                    "pt": "configurar-login-persistente-para-clientes"
                   },
                   "origin": "",
                   "type": "markdown",
