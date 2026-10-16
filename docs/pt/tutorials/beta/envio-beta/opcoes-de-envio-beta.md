@@ -65,6 +65,10 @@ Para criar uma nova opção de envio, siga os passos abaixo.
 
    ### Precificação de envio (opcional)
 
+   Atribuir uma precificação à opção de envio é opcional. Com a precificação, as opções de entrega exibidas no checkout passam a usar os mesmos nomes das suas opções de envio, e você pode associar um preço a cada uma. Assim, a experiência fica consistente em toda a jornada de compra: na página de listagem de produtos (PLP), na página de produto (PDP) e no checkout, o cliente vê os mesmos nomes de opções de entrega que usou para filtrar os produtos. As regras de precificação das opções de envio são mais simples e menos granulares que as das [políticas de envio](/pt/docs/tutorials/politica-de-envio) e existem para garantir essa consistência.
+
+   Recomendamos ativar e usar primeiro as opções de envio como filtros na loja e só depois avaliar a atribuição de precificação. Se não quiser atribuir precificação a uma opção de envio, selecione **Repasse de custo**, que é a opção recomendada.
+
    - **Precificação**: condições de precificação da opção de envio. Os modelos de precificação aplicados em cada segmentação são: **Valor fixo**, um mesmo preço que será aplicado a todos os carrinhos, **Markup**, uma porcentagem de lucro em cima do valor do frete, e **Repasse de custo**, a loja arca com o custo da opção de envio. É possível combinar as opções de precificação entre si. As condições de precificação são definidas a partir das seguintes segmentações:
        - **Todos os carrinhos**: o preço será aplicado a todos os carrinhos criados na loja.
        - **Políticas comerciais**: o preço será aplicado a uma determinada política comercial.
