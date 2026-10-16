@@ -36396,9 +36396,9 @@
                 },
                 {
                   "name": {
-                    "en": "Delivery Options (Beta)",
-                    "es": "Opciones de envío (beta)",
-                    "pt": "Opções de envio (Beta)"
+                    "en": "Delivery Options",
+                    "es": "Opciones de envío",
+                    "pt": "Opções de envio"
                   },
                   "slug": {
                     "en": "delivery-options-beta",
@@ -62855,6 +62855,21 @@
             },
             {
               "name": {
+                "en": "Gift card balance changed even though the transaction request failed",
+                "es": "El saldo de la tarjeta de regalo cambió a pesar de que la solicitud de transacción falló.",
+                "pt": "O saldo do cartão-presente foi alterado mesmo que a solicitação de transação tenha falhado."
+              },
+              "slug": {
+                "en": "gift-card-balance-changed-even-though-the-transaction-request-failed",
+                "es": "el-saldo-de-la-tarjeta-de-regalo-cambio-a-pesar-de-que-la-solicitud-de-transaccion-fallo",
+                "pt": "o-saldo-do-cartaopresente-foi-alterado-mesmo-que-a-solicitacao-de-transacao-tenha-falhado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Legacy Antifrauds cannot complete a request when the accountId is missing.",
                 "es": "Los sistemas antifraude heredados no pueden completar una solicitud cuando falta el «accountId».",
                 "pt": "O sistema antissuperfícies antigo não consegue concluir uma solicitação quando o accountId está faltando."
@@ -62960,12 +62975,12 @@
             },
             {
               "name": {
-                "en": "Giftcard not getting refund after transaction cancellation",
+                "en": "No se reembolsa la tarjeta regalo tras la cancelación de la transacción",
                 "es": "No se reembolsa la tarjeta regalo tras la cancelación de la transacción",
                 "pt": "O vale-presente não está sendo reembolsado após o cancelamento da transação"
               },
               "slug": {
-                "en": "giftcard-not-getting-refund-after-transaction-cancellation",
+                "en": "",
                 "es": "no-se-reembolsa-la-tarjeta-regalo-tras-la-cancelacion-de-la-transaccion",
                 "pt": "o-valepresente-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao"
               },
