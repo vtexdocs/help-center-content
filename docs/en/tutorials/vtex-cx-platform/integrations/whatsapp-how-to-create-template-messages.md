@@ -1,9 +1,9 @@
 ---
-title: "WhatsApp: How to create template messages"
+title: 'WhatsApp: How to create template messages'
 id: 3KQizjNnrDY2K3DhPwiPim
 status: PUBLISHED
 createdAt: 2025-09-15T15:05:31.154Z
-updatedAt: 2025-10-03T14:20:32.643Z
+updatedAt: 2026-10-16T15:28:01.000Z
 publishedAt: 2025-10-03T14:20:32.643Z
 firstPublishedAt: 2025-10-03T14:20:32.643Z
 contentType: tutorial
