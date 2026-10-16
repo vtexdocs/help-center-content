@@ -65,6 +65,10 @@ Para crear una nueva opción de envío sigue los pasos a continuación:
 
    ### Precios de envío (opcional)
 
+   Asignar precios a una opción de envío es opcional. Con los precios de envío, las opciones de entrega que se muestran en el checkout usan los mismos nombres que tus opciones de envío, y puedes asociar un precio a cada una. Así, la experiencia es consistente en todo el proceso de compra: en la página de listado de productos (PLP), en la página de producto (PDP) y en el checkout, el cliente ve los mismos nombres de opciones de entrega que usó para filtrar los productos. Las reglas de precios de las opciones de envío son más simples y menos granulares que las de las [políticas de envío](/es/docs/tutorials/politica-de-envio) y existen para garantizar esta consistencia.
+
+   Recomendamos activar y usar primero las opciones de envío como filtros en la tienda y solo después evaluar la asignación de precios. Si no deseas asignar precios a una opción de envío, selecciona **Transferencia de costo**, que es la opción recomendada.
+
    - **Precios**: condiciones de precios de la opción de envío. Los modelos de precios aplicados en cada segmentación son: **Valor fijo** para aplicar un mismo precio a todos los carritos, **Markup**, o porcentaje de ganancia sobre el valor del envío, y **Transferencia de costo**, cuando la tienda asume el costo de la opción de envío. Puedes combinar las opciones de precios. Las condiciones de precios se definen según las siguientes segmentaciones:
      - **Todos los carritos**: el precio se aplicará a todos los carritos creados en la tienda.
      - **Políticas comerciales**: el precio se aplicará a una determinada política comercial.
