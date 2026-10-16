@@ -39479,6 +39479,21 @@
             },
             {
               "name": {
+                "en": "B2B Checkout Settings is considering pickup address for deliveries",
+                "es": "La configuración de pago B2B está considerando la dirección de recogida para las entregas.",
+                "pt": "As configurações de finalização de compra B2B consideram o endereço de coleta para entregas."
+              },
+              "slug": {
+                "en": "b2b-checkout-settings-is-considering-pickup-address-for-deliveries",
+                "es": "la-configuracion-de-pago-b2b-esta-considerando-la-direccion-de-recogida-para-las-entregas",
+                "pt": "as-configuracoes-de-finalizacao-de-compra-b2b-consideram-o-endereco-de-coleta-para-entregas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Shipping options gets frozen when trying to select an option",
                 "es": "Las opciones de envío se bloquean al intentar seleccionar una opción",
                 "pt": "As opções de envio ficam travadas ao tentar selecionar uma opção"
@@ -39502,21 +39517,6 @@
                 "en": "b2b-organization-dont-consider-accounts-using-geolocation-when-registering-address",
                 "es": "las-organizaciones-b2b-no-tienen-en-cuenta-la-geolocalizacion-a-la-hora-de-registrar-las-direcciones-de-las-cuentas",
                 "pt": "as-organizacoes-b2b-nao-levam-em-conta-a-localizacao-geografica-ao-registrar-enderecos"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "B2B Checkout Settings is considering pickup address for deliveries",
-                "es": "B2B Checkout Settings está considerando la dirección de recogida para las entregas",
-                "pt": "B2B Checkout Settings está considerando o endereço de coleta para entregas"
-              },
-              "slug": {
-                "en": "b2b-checkout-settings-is-considering-pickup-address-for-deliveries",
-                "es": "b2b-checkout-settings-esta-considerando-la-direccion-de-recogida-para-las-entregas",
-                "pt": "b2b-checkout-settings-esta-considerando-o-endereco-de-coleta-para-entregas"
               },
               "origin": "",
               "type": "markdown",
@@ -66467,6 +66467,21 @@
                 "en": "error-cant-create-search-criteria-error-filter-already-existsbrandid-when-creating-a-promotion-excluding-more-than-1-brand",
                 "es": "error-no-se-pueden-crear-criterios-de-busqueda-error-el-filtro-ya-existe-brandid-al-crear-una-promocion-que-excluye-mas-de-1-marca",
                 "pt": "erro-nao-pode-criar-criterios-de-busca-erro-o-filtro-ja-existe-brandid-ao-criar-uma-promocao-excluindo-mais-de-1-marca"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Error When Adding a Store Usage Limit to a Promotion with an Existing Customer Usage Limit",
+                "es": "Error al agregar un límite de uso de la tienda a una promoción con un límite de uso del cliente existente.",
+                "pt": "Erro ao adicionar um limite de uso da loja a uma promoção com um limite de uso do cliente já existente."
+              },
+              "slug": {
+                "en": "error-when-adding-a-store-usage-limit-to-a-promotion-with-an-existing-customer-usage-limit",
+                "es": "error-al-agregar-un-limite-de-uso-de-la-tienda-a-una-promocion-con-un-limite-de-uso-del-cliente-existente",
+                "pt": "erro-ao-adicionar-um-limite-de-uso-da-loja-a-uma-promocao-com-um-limite-de-uso-do-cliente-ja-existente"
               },
               "origin": "",
               "type": "markdown",
