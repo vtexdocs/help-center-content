@@ -1,5 +1,5 @@
 ---
-title: 'Delivery Promise: FAQ'
+title: 'Delivery Promise: preguntas frecuentes'
 id: 2frHHK5uPsQrLK5XbYHALN
 status: PUBLISHED
 createdAt: 2025-08-07T14:54:46.418Z
@@ -15,61 +15,63 @@ locale: es
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-Consulta a continuación algunas preguntas frecuentes relacionadas con **[Delivery Promise](/es/docs/tutorials/delivery-promise)**:
+A continuación, algunas preguntas frecuentes relacionadas con **[Delivery Promise](/es/docs/tutorials/delivery-promise)**:
 
 ## 1. ¿Cuáles son los requisitos para que el producto se muestre en la vitrina?
 
-Los siguientes ajustes del producto deben estar correctamente configurados:
+El retailer debe garantizar la configuración correcta de los siguientes aspectos del producto:
 
-* Registro del producto y SKU en el catálogo.
+* Registro a nivel de producto y SKU en el catálogo.
 * Registro de precio.
-* [Estrategia de envío](/es/docs/tutorials/estrategia-de-envio) que viabiliza el envío del pedido a la dirección proporcionada por el cliente.
-* Cantidad de producto en [stock](/es/docs/tutorials/gestionar-items-en-inventario) disponible para venta, o stock ilimitado configurado u opción activa para mostrar el producto cuando no hay stock.
+* [Estrategia de envío](/es/docs/tutorials/estrategia-de-envio) que hace posible el envío del pedido a la dirección proporcionada por el cliente.
+* Recuento del producto en el [stock](/es/docs/tutorials/gestionar-items-en-inventario) disponible para la venta, stock ilimitado configurado u opción habilitada para mostrar el producto cuando está agotado.
 * Plantillas de [CMS](/es/docs/tracks/o-que-e-o-cms) del frontend de la tienda configuradas.
 
 > ℹ️ Para más información, consulta el artículo [¿Por qué el producto no aparece en el sitio web?](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web).
 
 ## 2. ¿Delivery Promise garantiza que todos mis productos se mostrarán en la vitrina?
 
-Cuando se configuran correctamente los ajustes necesarios para que el producto se muestre en la vitrina, **Delivery Promise** muestra todo el surtido de tus productos y de los productos de tus sellers en la vitrina de la tienda. Si un producto no está disponible debido a configuraciones incorrectas o a la falta de stock, no se mostrará en la vitrina, incluso con la nueva funcionalidad. Para más información, consulta el artículo [¿Por qué el producto no aparece en el sitio?](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web).
+**Delivery Promise** muestra productos solo cuando todos los [requisitos de visualización](#1-cuales-son-los-requisitos-para-que-el-producto-se-muestre-en-la-vitrina) están configurados correctamente. Si un producto no está disponible por configuraciones incorrectas o por falta de stock de ese producto, no se mostrará en la vitrina, incluso con la nueva funcionalidad. Para saber más, consulta el artículo [¿Por qué el producto no aparece en el sitio web?](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web).
 
-## 3. ¿Cómo puedo garantizar que el stock del producto se muestre en la vitrina?
+## 3. Con relación al stock del producto, ¿cómo puedo garantizar que se mostrará en la vitrina?
 
-Hay tres formas:
+Existen tres formas de hacerlo:
 
-* Mantener el [stock](/es/docs/tutorials/gestionar-items-en-inventario) del producto con el recuento de almacén para ventas (recordando que los ítems [reservados](/es/docs/tutorials/como-se-maneja-la-reserva) no están disponibles para la venta).
-* Activar la configuración de [stock ilimitado](/es/docs/tutorials/gestionar-items-en-inventario) para el producto.
-* Configurar el producto para que se muestre en la vitrina incluso cuando esté sin stock. Para configurarlo, accede a **Catálogo > Productos y SKUs** en el Admin VTEX y, en la página de configuración del producto, en la pestaña Producto, **activa** el botón de alternancia `Mostrar cuando no hay stock`.
+* Mantener el [stock](/es/docs/tutorials/gestionar-items-en-inventario) del producto con recuento de stock para la venta. Recuerda que los ítems [reservados](/es/docs/tutorials/como-se-maneja-la-reserva) no están disponibles para la venta.
+* Habilitar la configuración de [stock ilimitado](/es/docs/tutorials/gestionar-items-en-inventario) para el producto.
+* Configurar el producto para que aparezca en la vitrina incluso cuando esté agotado. Para eso, en el Admin VTEX accede a **Catálogo > Todos los productos** y, en la página de configuración del producto, en la pestaña Producto, marca la opción **Sí** en el campo `Mostrar cuando no hay stock`.
 
 ## 4. ¿Necesito solicitar la ubicación del cliente para utilizar Delivery Promise?
 
-El funcionamiento de **Delivery Promise** solo es posible cuando el cliente facilita su dirección o cuando VTEX infiere su configuración regional. Esta inferencia puede realizarse de las siguientes maneras:
+Sí. El funcionamiento de **Delivery Promise** solo es posible cuando el cliente informa su dirección o cuando VTEX infiere su ubicación. Esta inferencia puede hacerse de las siguientes formas:
 
-* La dirección del cliente se captura automáticamente cuando este acepta el plugin del navegador para compartir su ubicación.
-* El cliente proporciona la dirección en el componente de código postal de Delivery Promise.
+* La dirección del cliente se captura automáticamente cuando acepta el plugin del navegador para compartir su ubicación.
+* Si el navegador no tiene el plugin mencionado o el cliente se niega a compartir su ubicación, la inferencia de la dirección se hace a partir de la dirección IP del dispositivo del cliente.
 
-En todas las opciones anteriores, el cliente tiene la posibilidad de proporcionar su dirección o una dirección diferente en cualquier momento.
+En todas las opciones mencionadas, el cliente puede en cualquier momento proporcionar su dirección o una dirección diferente.
 
-## 5. En el contexto de Delivery Promise, ¿qué ocurre si el cliente no desea compartir su ubicación y VTEX no puede inferir su dirección?
+## 5. En el contexto de Delivery Promise, ¿qué ocurre si el cliente se niega a compartir su ubicación y VTEX no puede inferir su dirección?
 
-En este caso, como retailer puedes definir [sellers de extensa cobertura](/es/docs/tutorials/seller-de-extensa-cobertura), para que los productos de estos sellers se muestren a los clientes que no proporcionan ubicación.
+En este caso, el retailer puede definir [sellers de extensa cobertura](/es/docs/tutorials/seller-de-extensa-cobertura), lo que permite que los productos de esos sellers se muestren a los clientes que no proporcionan ubicación.
 
-## 6. ¿Dónde debo configurar las tiendas que atienden determinados códigos postales?
+## 6. ¿Dónde debo configurar qué tiendas atienden determinados códigos postales?
 
-Incluso si utilizas **Delivery Promise**, debes realizar esta configuración en las [plantillas de envío](/es/docs/tutorials/plantilla-de-flete) de las [políticas de envío](/es/docs/tutorials/politica-de-envio) de los sellers.
+Esta configuración debe hacerse en las [plantillas de envío](/es/docs/tutorials/plantilla-de-flete) de las [políticas de envío](/es/docs/tutorials/politica-de-envio) de los sellers.
 
-## 7. ¿Qué ocurre si utilizo la funcionalidad Región?
+## 7. ¿Qué ocurre si utilizo la funcionalidad Region?
 
-**Delivery Promise** sustituye todas las funcionalidades existentes en [Region V1](https://help.vtex.com/es/docs/tutorials/configurar-la-regionalizacion-del-seller) y V2, además de añadir mejoras en el desempeño, experiencia de compra y nuevas funcionalidades. La regionalización de sellers sigue disponible para las tiendas que no han activado **Delivery Promise**.
+**Delivery Promise** sustituye todas las funcionalidades existentes en [Region V1](/es/docs/tutorials/configurar-la-regionalizacion-del-seller) y V2, además de añadir mejoras de desempeño, experiencia de compra y nuevas funcionalidades. La regionalización de sellers sigue disponible para las tiendas que no activaron **Delivery Promise**.
 
-## 8. ¿Delivery Promise permite mostrar filtros y tags de envío gratis?
+## 8. ¿Con Delivery Promise será posible mostrar filtros y tags de envío gratis?
 
-Delivery Promise no incluye componentes de tipo envío gratis. Ofrece opciones de filtros y otros componentes en el storefront por plazo de envío, tipo de envío (recogida o envío) y punto de recogida.
+No. **Delivery Promise** no ofrece filtros del tipo envío gratis. Los filtros disponibles incluyen: plazo de envío, tipo de envío (recogida o entrega) y punto de recogida.
 
 ## 9. ¿Puedo optar por no usar Delivery Promise?
 
-La decisión de utilizar o no **Delivery Promise** es tuya. Si no deseas solicitar la ubicación del comprador, puedes seguir utilizando la solución actual de navegación de clientes sin ubicación definida, con la opción de asociar [sellers de extensa cobertura](/es/docs/tutorials/seller-de-extensa-cobertura). Sin embargo, la mejor experiencia de compra para el cliente en la búsqueda y la navegación se logra con **Delivery Promise**, que es la recomendación de VTEX.
+Sí. El uso de la funcionalidad es opcional. Si no deseas solicitar la ubicación del cliente, puedes seguir usando la solución actual de navegación del cliente sin ubicación definida, y asociarla o no a [sellers de extensa cobertura](/es/docs/tutorials/seller-de-extensa-cobertura).
+
+Sin embargo, VTEX recomienda usar **Delivery Promise** para ofrecer una mejor experiencia de compra en la búsqueda y en la navegación.
 
 ## 10. ¿Los filtros de Delivery Promise se aplican a sellers externos?
 
-La experiencia de filtros (por código postal, método de envío, plazo, punto de recogida) y de otros componentes se aplica a productos de sellers VTEX, del [Seller Portal](https://help.vtex.com/es/docs/tutorials/seller-portal-primeros-pasos-para-el-marketplace) y externos.
+Sí. La experiencia de filtros (por código postal, forma de entrega, plazo y punto de recogida) y de otros componentes se aplica a productos de sellers VTEX, de sellers del [Seller Portal](https://help.vtex.com/es/docs/tutorials/seller-portal-primeros-pasos-para-el-marketplace) y de sellers externos.

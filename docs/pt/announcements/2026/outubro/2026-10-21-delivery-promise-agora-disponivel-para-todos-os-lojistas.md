@@ -1,10 +1,10 @@
 ---
 title: 'Delivery Promise: agora disponível para todos os lojistas'
-createdAt: 2026-10-15T12:00:00.000Z
-updatedAt: 2026-10-15T12:00:00.000Z
+createdAt: 2026-10-21T12:00:00.000Z
+updatedAt: 2026-10-21T12:00:00.000Z
 contentType: updates
 productTeam: Post-purchase
-slugEN: 2026-10-15-delivery-promise-now-generally-available
+slugEN: 2026-10-21-delivery-promise-now-generally-available
 locale: pt
 announcementSynopsisPT: 'O Delivery Promise está disponível para todos os lojistas que usam o Intelligent Search e pode ser ativado diretamente no Admin VTEX.'
 tags:
