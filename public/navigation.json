@@ -24124,6 +24124,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "AI Sales Team Management and Customer Portfolio on VTEX Sales App",
+                    "es": "AI Sales Team Management y Customer Portfolio en VTEX Sales App",
+                    "pt": "AI Sales Team Management e carteira de clientes no VTEX Sales App"
+                  },
+                  "slug": {
+                    "en": "ai-sales-team-management-and-customer-portfolio-on-vtex-sales-app",
+                    "es": "ai-sales-team-management-y-customer-portfolio-en-vtex-sales-app",
+                    "pt": "ai-sales-team-management-e-carteira-de-clientes-no-vtex-sales-app"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "VTEX Sales App Offers",
                     "es": "Anuncios de VTEX Sales App",
                     "pt": "Anúncios do VTEX Sales App"
@@ -62855,6 +62870,21 @@
             },
             {
               "name": {
+                "en": "Gift card balance changed even though the transaction request failed",
+                "es": "El saldo de la tarjeta de regalo cambió a pesar de que la solicitud de transacción falló.",
+                "pt": "O saldo do cartão-presente foi alterado mesmo que a solicitação de transação tenha falhado."
+              },
+              "slug": {
+                "en": "gift-card-balance-changed-even-though-the-transaction-request-failed",
+                "es": "el-saldo-de-la-tarjeta-de-regalo-cambio-a-pesar-de-que-la-solicitud-de-transaccion-fallo",
+                "pt": "o-saldo-do-cartaopresente-foi-alterado-mesmo-que-a-solicitacao-de-transacao-tenha-falhado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Legacy Antifrauds cannot complete a request when the accountId is missing.",
                 "es": "Los sistemas antifraude heredados no pueden completar una solicitud cuando falta el «accountId».",
                 "pt": "O sistema antissuperfícies antigo não consegue concluir uma solicitação quando o accountId está faltando."
@@ -62960,12 +62990,12 @@
             },
             {
               "name": {
-                "en": "Giftcard not getting refund after transaction cancellation",
+                "en": "No se reembolsa la tarjeta regalo tras la cancelación de la transacción",
                 "es": "No se reembolsa la tarjeta regalo tras la cancelación de la transacción",
                 "pt": "O vale-presente não está sendo reembolsado após o cancelamento da transação"
               },
               "slug": {
-                "en": "giftcard-not-getting-refund-after-transaction-cancellation",
+                "en": "",
                 "es": "no-se-reembolsa-la-tarjeta-regalo-tras-la-cancelacion-de-la-transaccion",
                 "pt": "o-valepresente-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao"
               },
