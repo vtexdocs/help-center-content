@@ -3,7 +3,7 @@ title: '¿Qué es una transacción?'
 id: 36vMP5PES4oUWMWQuskIQ6
 status: PUBLISHED
 createdAt: 2018-02-23T16:09:38.585Z
-updatedAt: 2023-09-28T16:00:07.059Z
+updatedAt: 2026-09-30T19:42:35.481Z
 publishedAt: 2023-09-28T16:00:07.059Z
 firstPublishedAt: 2018-02-26T20:24:17.085Z
 contentType: tutorial
