@@ -116,12 +116,13 @@ A tabela a seguir apresenta as ações que você pode realizar em sales reps:
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
-| Criar um sales rep | Nome do sales rep, email e time. O código do vendedor e da loja são opcionais. | "Crie o sales rep José Almeida, `jose@acme.com` no time Nordeste" / "Registre o sales rep Ricardo Alves, `ricardo.alves@empresa.com` código 204 e loja 578 no Vendas Norte" |
+| Criar sales rep | Nome do sales rep, email e time. O código do vendedor e da loja são opcionais. | "Crie o sales rep José Almeida, `jose@acme.com` no time Nordeste" / "Registre o sales rep Ricardo Alves, `ricardo.alves@empresa.com` código 204 e loja 578 no Vendas Norte" |
 | Adicionar sales rep ao time | Nome do sales rep, email e time. | "Adicione o sales rep Ricardo Alves no time Vendas Norte, e-mail `ricardo.alves@empresa.com`." |
 | Visualizar informações do sales resp | Nome do sales rep. | "O Ricardo Alves pertence a quais times?" / "O sales rep José Almeida atende quais contratos?" |
+| Buscar sales rep | Email ou ID do sales rep. | "Busque o sales rep José Almeida, `jose@acme.com`" / "Procure o sales rep `d9b3a77b-14ga-421a-94d8-b60330993872`" |
 | Mover sales rep entre times | Nome do sales rep e do time de destino. | "Movimente o sales rep José Almeida para o time Sudeste" / "Mova José Almeida para time Nordeste." |
 | Editar informações do sales rep | Você pode editar o nome ou email do sales rep, para isso forneça a nova informação. | "Edite o email do sales rep José Almeida para `jose.vendedor@acme.com`" / "Atualize o sales rep Ricardo Alves, código 204 e loja 578 no Vendas Norte" |
-| Desfazer criações recentes de sales rep | Na mesma sessão, você pode desfazer criações recentes. Para isso, informe o nome do sales rep e a ação a ser desfeita. | "Desfaça a criação do sales rep Ricardo Alves" / "Desconsidere a criação do sales rep José Almeida" |
+| Reverter criação de sales rep | Você pode desfazer criações recentes, desde que esteja na mesma sessão. Para isso, informe o nome do sales rep e a ação a ser desfeita. | "Desfaça a criação do sales rep Ricardo Alves" / "Desconsidere a criação do sales rep José Almeida" |
 | Remover sales rep do time | Nome do sales rep. Remover um sales rep de um time apenas desvincula a pessoa do time, mas ela permance como usuário da conta. | "Remova o sales rep José Almeida do time Vendas Sul." |
 
 > ℹ️ Quando você cria, edita ou remove mais de um sales rep em uma mesma ação, seja via arquivo ou conversacional, caso exista algum erro, o agente apresenta as mensagens de erro e um canvas de validação com o que será feito. É necessário que você revise e confirme esse resumo para que a ação seja executada.
@@ -138,9 +139,10 @@ A tabela a seguir apresenta as ações que você pode realizar em times:
 | Criar subtimes por sales rep | Anexe um arquivo `.xlsx`, `.csv` ou `.txt` com os dados dos sales reps e o time de destino. | "Crie subtimes baseados na carteira de cada sales rep." / "Quero criar subtimes baseados na carteira de cada sales rep." |
 | Editar nome time | Nome do time e as informações a serem alteradas. | "Edite o time Vendas Sul para Vendas Sudeste" |
 | Mover time | Nomes do time a ser movido e do time de destino. | "Mova o time Vendas Sul para dentro do time Nordeste" / " |
-| Visualizar contratos ou integrantes do time | Identificação do contrato ou do time. | "Quais contratos o Vendas Sul tem acesso?" / "Quais usuários existem no time Vendas Norte?" / "Quem são os sales reps do Time Sul?" |
+| Visualizar destalhes do time | Identificação do time e quais informações deseja visualizar (sales reps, escopo, subtimes associados). | "Quais contratos o Vendas Sul tem acesso?" / "Quais usuários existem no time Vendas Norte?" / "Quem são os sales reps do Time Sul?" |
+| Listar times | Apenas o comando. | "Liste os times" / "Mostre todos os times" |
 | Desfazer criação recente de times | Na mesma sessão, você pode desfazer times recém criados. Para isso, informe o time. | "Desfaça a criação do time" / "Cancele a criação do Time Sul" |
-| Remover time | Nome do time. | "Remova o time Vendas Sul" / "Delete o subtime Vendas Sudeste" |
+| Desativar time | Nome do time. | "Desative o time Vendas Sul" / "Remova o subtime Vendas Sudeste" |
 
 > ⚠️ Após transformar um time pai em um subtime, não é mais possível devolvê-lo ao nível raiz. Portanto, antes de criar os times, defina a hierarquia.
 
@@ -154,8 +156,7 @@ A tabela a seguir apresenta as ações que você pode realizar em carteiras de c
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
-| Definir carteiras de clientes do time | Identificação do contrato e o nome do time. A agente permite que um mesmo contrato seja vinculado a mais de um time, mas ele emite um aviso quando identifica esse tipo de situação. | "Vincule os contratos da planilha ao time Vendas Sul" / "Segue a planilha com a carteira de clientes por time." |
-| Vincular contrato a múltiplos times | Nome do contrato e nomes dos times. Você também pode fazer essa [ação em massa](#realizar-acoes-em-massa) por meio da importação de arquivos. | "Vincule o contrato 1395 ao Time Sul, Time Norte, Time Nordeste" / Crie carteiras de cliente para o Time Norte para o contrato 1395" |
+| Vincular contrato a um ou mais times | Identificação do contrato e nome de um ou mais times. Você também pode fazer essa [ação em massa](#realizar-acoes-em-massa) por meio da importação de arquivos. | "Vincule o contrato 1395 ao Time Sul, Time Norte, Time Nordeste" / "Crie carteiras de cliente para o Time Norte do contrato 1395" |
 | Visualizar carteiras de clientes | Identificação do time. | "O Time Norte atende quais carteiras?" / "A quais contratos o Vendas Sul foi vinculado?" |
 
 Para saber como controlar o nível de permissão de times a contratos, veja a seção a seguir.
