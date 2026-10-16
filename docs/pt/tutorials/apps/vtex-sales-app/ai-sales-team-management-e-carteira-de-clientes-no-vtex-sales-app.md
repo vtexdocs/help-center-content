@@ -20,7 +20,7 @@ Para usar o agente, é necessário que a sua conta utilize o [B2B Buyer Portal](
 
 ## Permissões de acesso
 
-O usuário precisa ter um [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) com os [recursos do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager) correspondentes às operações que deseja realizar, conforme descrito a seguir:
+O usuário precisa ter um [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) com os [recursos do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager) correspondentes às ações que deseja realizar, conforme descrito a seguir:
 
 | **Produto** | **Categoria** | **Recurso** | **Operações permitidas** |
 | :--- | :--- | :--- | :--- |
@@ -29,9 +29,10 @@ O usuário precisa ter um [perfil de acesso](https://help.vtex.com/pt/docs/tutor
 | License Manager | Services access control | **Save user** | Criar usuários, atribuir ou remover perfis de acesso para usuários, editar dados de usuários, criar e alterar chaves de aplicação. |
 | License Manager | Services access control | **Find user by email** | Buscar usuários por email. |
 | License Manager | Services access control | **Get paged roles** | Listar todos os perfis de acesso de uma conta. |
+| Dynamic Storage | Dynamic storage generic resources | **Read only documents** | Ler documentos. |
 | Dynamic Storage | Dynamic storage generic resources | **Insert or update document (not remove)** | Criar e atualizar os cadastros nas entidades `vendors` e `shopper` e consultar contratos (entidade `CL`). |
 
-> ℹ️ Se o usuário precisar apenas consultar informações, o recurso **Read only documents** do Dynamic Storage é suficiente no lugar de **Insert or update document (not remove)**.
+> ℹ️ Se o usuário precisar apenas consultar informações, o recurso **Read only documents** do Dynamic Storage é suficiente.
 
 Para conceder o acesso mínimo necessário, recomendamos [criar um perfil de acesso](https://help.vtex.com/pt/docs/tutorials/criar-perfil-de-acesso) personalizado apenas com os recursos listados acima.
 
@@ -41,7 +42,7 @@ A tabela a seguir apresenta a terminologia utilizada no **AI Sales Team Manageme
 
 | **Termo** | **Significado** |
 | :---- | :---- |
-| [Time](#realizar-acoes-em-times) | Agrupamento de pessoas que constitui a unidade da estrutura de vendas. Pode ser organizado de forma hierárquica com times e subtimes, refletindo o organograma da organização comercial. |
+| [Time](#realizar-acoes-em-times) | Unidade da estrutura de vendas. Pode ser organizado de forma hierárquica com times e subtimes, refletindo o organograma da organização comercial. |
 | [Sales rep](#realizar-acoes-em-sales-reps) | Pessoa do time comercial registrada via agente. O sales rep precisa ser um [usuário](https://help.vtex.com/pt/docs/tutorials/gerenciar-usuarios-administrativos) da conta com o perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person), atribuído por padrão pelo agente na criação do sales rep. |
 | [Carteira de clientes](#realizar-acoes-em-carteiras-de-clientes) | Vínculo entre um contrato e um time ou subtime, que permite aos sales reps visualizar e criar pedidos relacionados ao contrato. Saiba mais em [Acesso de times a contratos](#acesso-de-times-a-contratos). |
 | [Contrato B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) | Contrato B2B, previamente cadastrado na conta, utilizado na criação de carteiras de clientes. |
@@ -50,10 +51,10 @@ A tabela a seguir apresenta a terminologia utilizada no **AI Sales Team Manageme
 
 O **AI Sales Team Management** interpreta a sua instrução, prepara e apresenta o plano da mudança na estrutura comercial e só executa a ação após sua revisão e confirmação. Veja alguns casos de uso:
 
-- **Montar organograma de vendas:** crie times e subtimes seguindo a mesma lógica da operação, como estruturas por regiões, cidades ou carteiras.
-- **Registrar representantes de vendas:** cadastre membros da equipe comercial na estrutura de vendas, associando cada pessoa ao time desejado.
-- **Controlar carteiras de clientes:** vincule [contratos B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) a um time ou subtime para definir a quais contratos os sales reps terão acesso pelo **Sales App**.
-- **Alterar diversos registros simultaneamente:** modifique diversos registros ao mesmo tempo, seja de forma inteiramente conversacional ou com a importação de arquivos `.xlsx`, `.csv` ou `.txt`.
+- **Montar organograma de vendas:** criar times e subtimes seguindo a mesma lógica da operação, como estruturas por regiões, cidades ou carteiras.
+- **Registrar representantes de vendas:** cadastrar membros da equipe comercial na estrutura de vendas, associando cada pessoa ao time desejado.
+- **Controlar carteiras de clientes:** vincular [contratos B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) a um time ou subtime para definir quais contratos os sales reps terão acesso pelo **Sales App**.
+- **Alterar diversos registros simultaneamente:** modificar diversos registros ao mesmo tempo, seja de forma inteiramente conversacional ou com a importação de arquivos `.xlsx`, `.csv` ou `.txt`.
 
 ## Acessar o agente
 
@@ -69,20 +70,20 @@ O **AI Sales Team Management** pode realizar solicitações de forma inteirament
 
 ## Regras de funcionamento
 
-O **AI Sales Team Management** só executa ações após apresentar um plano e obter a [revisão e confirmação](#revisao-e-confirmacao-do-plano) do usuário. As regras de funcionamento do agente são:
+O agente só executa ações após apresentar um plano e obter a sua [confirmação](#revisao-e-confirmacao-do-plano). As regras de funcionamento são:
 
 - **Respostas sem suposições:** quando não dispõe de uma informação ou não tem permissão para acessá-la, o agente comunica essa limitação.
 - **Desambiguação de nomes:** quando identifica nomes semelhantes ou duplicados, o agente solicita esclarecimentos antes de montar o plano. Por exemplo, se você solicitar a criação de um time chamado "vendas sul" e já existir um "VENDAS SUL", isso será comunicado pelo agente.
-- **Validação e controle de usuários:** cada [usuário](https://help.vtex.com/pt/docs/tutorials/gerenciar-usuarios-administrativos) pode consultar apenas as informações permitidas pelo seu perfil de acesso. Usuários não cadastrados previamente não podem utilizar o agente, que também não cria [perfis de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso).
+- **Validação e controle de usuários:** cada [usuário](https://help.vtex.com/pt/docs/tutorials/gerenciar-usuarios-administrativos) pode consultar apenas as informações [permitidas pelos recursos do perfil](#permissoes-de-acesso).
 - **Validação de contratos:** o agente permite vincular apenas contratos B2B previamente cadastrados na conta.
 - **Alerta de contrato compartilhado:** se um contrato já estiver vinculado a outro time, o agente informa essa condição, mas permite realizar o vínculo.
 - **Mensagens de erro:** caso sejam identificados erros ou inconsistências, o agente informa os motivos e apresenta o plano de execução parcial com os dados válidos para você [revisar e confirmar](#revisao-e-confirmacao-do-plano).
 
 ### Revisão e confirmação do plano
 
-Antes que você crie, edite ou remova um item via arquivo ou de forma conversacional, o agente apresenta um plano do que será executado e só realiza as mudanças após a sua revisão e confirmação.
+Antes que você crie, edite ou remova um item de forma conversacional ou por meio da importação de arquivos, o agente apresenta um plano do que será executado e só realiza as mudanças após a sua revisão e confirmação.
 
-Caso exista algum erro ou inconsistência nas informações recebidas, o agente apresenta as mensagens de erro e uma tela de validação com o plano do que será feito. Para arquivos anexados, o agente processa o conteúdo inteiro e separa as linhas válidas das inválidas (quando existe erro). Ou seja, o processamento parcial das informações é o comportamento esperado: as linhas válidas seguem o plano e as inválidas são rejeitadas com a indicação do motivo.
+Caso exista algum erro ou inconsistência nas informações recebidas, o agente mostra as mensagens de erro e apresenta uma tela de validação com o plano do que será feito. Para arquivos importados, o agente processa o conteúdo inteiro e separa as linhas válidas das inválidas (quando existe erro): as linhas válidas seguem o plano e as inválidas são rejeitadas com a indicação do motivo.
 
 ### Restrições de escopo
 
