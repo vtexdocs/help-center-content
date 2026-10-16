@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Os Template Messages (mensagens modelo) são usados para iniciar conversas com os clientes e são o único [tipo de mensagem](https://developers.facebook.com/docs/whatsapp/conversation-types#message-types) que pode ser enviado a clientes que ainda não iniciaram uma conversa com você ou não enviaram uma mensagem nas últimas 24 horas em uma conversa existente.
 
-Antes de serem enviadas aos clientes, os Template Messages precisam ser aprovados. Além disso, eles podem ser desabilitados automaticamente com base no feedback dos clientes. Se for desabilitado, o Template Message não poderá ser enviado aos clientes até que a classificação de qualidade melhore e deixe de violar a [Política do WhatsApp Business](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.whatsapp.com%2Flegal%2Fbusiness-policy%2F&h=AT0oPctfHF7h359jza8YKEuZHFoYe87mcVbI5TT-nE2gyAcTKsdBggYsmA570ItHOiI_eZsjN3f3UDOwdu1-mm9ArVPb69CTBFkgMZ-bKeojp1o8DwA3A15HZaGqHkUBkxLvDFfn7f4vXe75v0koUw)  ou a [Política Comercial do WhatsApp](https://www.whatsapp.com/legal/commerce-policy/) .
+Antes de serem enviadas aos clientes, os Template Messages precisam ser aprovados. Além disso, eles podem ser desabilitados automaticamente com base no feedback dos clientes. Se for desabilitado, o Template Message não poderá ser enviado aos clientes até que a classificação de qualidade melhore e deixe de violar a [Política do WhatsApp Business](https://whatsappbusiness.com/pt-br/policy/)  ou a [Política Comercial do WhatsApp](https://www.whatsapp.com/legal/commerce-policy/) .
 
 ## Criação
 
@@ -32,14 +32,14 @@ Para criar um Template Message:
 
 1. Preencha o formulário com as informações necessárias. Use o botão **\+ Adicionar variável** caso queira inserir espaços reservados para conteúdo variável a ser fornecido no envio do modelo.
 
-1. Clique em **Adicionar exemplo** para adicionar exemplos de valores ao modelo. Fazer isso é opcional, mas altamente recomendado. Consulte os [Exemplos](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#samples) .
+1. Clique em **Adicionar exemplo** para adicionar exemplos de valores ao modelo. Fazer isso é opcional, mas altamente recomendado. Consulte os [Exemplos](https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/template-review#samples) .
 2. Clique em **Enviar** para enviar o modelo para aprovação.
 
 ## Processo de aprovação (Responsabilidade da Meta)
 
-Depois de criar o modelo, você poderá enviá-lo para aprovação. Geralmente, as aprovações ocorrem instantaneamente ou em alguns minutos (se submetidos diretamente pela plataforma). Assim que a decisão for tomada, uma notificação aparecerá no Gerenciador do WhatsApp. Além disso, será enviado um e-mail para os administradores do Gerenciador de Negócios. Caso você tenha assinado as atualizações sobre alterações de status do modelo de mensagem, também receberá da Meta uma notificação de webhook. Consulte [Como monitorar alterações de status](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#monitoring-status-changes) .
+Depois de criar o modelo, você poderá enviá-lo para aprovação. Geralmente, as aprovações ocorrem instantaneamente ou em alguns minutos (se submetidos diretamente pela plataforma). Assim que a decisão for tomada, uma notificação aparecerá no Gerenciador do WhatsApp. Além disso, será enviado um e-mail para os administradores do Gerenciador de Negócios. Caso você tenha assinado as atualizações sobre alterações de status do modelo de mensagem, também receberá da Meta uma notificação de webhook. Consulte [Como monitorar alterações de status](https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/template-review#template-review-webhooks) .
 
-Caso seja aprovado, o modelo de mensagem ficará com o status **Ativo – Qualidade pendente**. Com isso, você poderá começar a enviá-lo aos clientes. Se rejeitado, o modelo poderá ser [editado](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#editing) e reenvido para aprovação. Outra possibilidade é [fazer uma apelação](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#appeals) da decisão.
+Caso seja aprovado, o modelo de mensagem ficará com o status **Ativo – Qualidade pendente**. Com isso, você poderá começar a enviá-lo aos clientes. Se rejeitado, o modelo poderá ser [editado](https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/template-review#approval-process) e reenvido para aprovação. Outra possibilidade é [fazer uma apelação](https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/template-review#appeals) da decisão.
 
 ### Exemplos
 
@@ -54,5 +54,5 @@ Caso aconteça reprovações de mensagens e queira resolver ou mudar as configur
 ## Saiba mais
 
 - [Política do WhatsApp Business](https://whatsappbusiness.com/pt-br/policy/) : saiba mais sobre as políticas para empresas.
-- [Política Comercial do WhatsApp](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.whatsapp.com%2Flegal%2Fcommerce-policy%2F%3Ffbclid%3DIwAR3hJYolZAcjC0qlRoD3yAnxxDqcFfZWC9ckfMsownlLmmTNMmCWUBRBEwQ&h=AT3ol3uyDf5Ojn8nJYc5KRBV8cDeo5UiTAfDQM1B_ZIamZ39CjEoG9RO6inUQKNKrCX7wbtZUJ7bJjmDA4KIBzJ6ZJ1E841-mDihwVik4agXMDieprqwFgWo8ebGSwPgj-g3htULojJjNADBqzQMlw) : saiba mais sobre as políticas comerciais.
+- [Política Comercial do WhatsApp](https://whatsappbusiness.com/pt-br/policy/) : saiba mais sobre as políticas comerciais.
 - [Aplicação das Políticas](https://developers.facebook.com/documentation/business-messaging/whatsapp/policy-enforcement/?locale=pt_BR) : saiba mais sobre como aplicamos as políticas
