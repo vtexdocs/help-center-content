@@ -25,7 +25,7 @@ Para realizar ações no **AI Sales Team Management**, o usuário precisa ter um
 | **Produto** | **Categoria** | **Recurso** | **Operações permitidas** |
 | :--- | :--- | :--- | :--- |
 | Organization Units | units | **View Organization Unit** | Listar times e visualizar detalhes, integrantes e contratos vinculados. |
-| Organization Units | units | **Edit Organization Unit** | Criar, renomear, mover e remover times, adicionar e remover usuários e vincular contratos. |
+| Organization Units | units | **Edit Organization Unit** | Criar, renomear, mover e desativar times, adicionar e remover usuários e vincular contratos. |
 | License Manager | Services access control | **Save user** | Criar usuários, atribuir ou remover perfis de acesso para usuários, editar dados de usuários, criar e alterar chaves de aplicação. Necessário para atribuir o perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person) aos sales reps. |
 | License Manager | Services access control | **Find user by email** | Buscar usuários por email. |
 | License Manager | Services access control | **Get paged roles** | Listar todos os perfis de acesso de uma conta. |
@@ -42,7 +42,7 @@ A tabela a seguir apresenta a terminologia utilizada no **AI Sales Team Manageme
 | **Termo** | **Significado** |
 | :---- | :---- |
 | [Time](#realizar-acoes-em-times) | Agrupamento de pessoas que constitui a unidade da estrutura de vendas. Pode ser organizado de forma hierárquica com times e subtimes, refletindo o organograma da organização comercial. |
-| [Sales rep](#realizar-acoes-em-sales-reps) | Pessoa do time comercial registrada via agente. O sales rep precisa ser um [usuário](https://help.vtex.com/pt/docs/tutorials/gerenciar-usuarios-administrativos) da conta com o perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person), que é atribuído pelo agente de forma padrão na criação do sales rep. Não é possível atribuir outro perfil de acesso a sales reps pelo agente, e ele também não cria [perfis de acesso](https://help.vtex.com/pt/docs/tutorials/criar-perfil-de-acesso). |
+| [Sales rep](#realizar-acoes-em-sales-reps) | Pessoa do time comercial registrada via agente. O sales rep precisa ser um [usuário](https://help.vtex.com/pt/docs/tutorials/gerenciar-usuarios-administrativos) da conta com o perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person), atribuído por padrão pelo agente na criação do sales rep. |
 | [Carteira de clientes](#realizar-acoes-em-carteiras-de-clientes) | Vínculo entre um contrato e um time ou subtime, que permite aos sales reps visualizar e criar pedidos relacionados ao contrato. Saiba mais em [Acesso de times a contratos](#acesso-de-times-a-contratos). |
 | [Contrato B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) | Contrato B2B, previamente cadastrado na conta, utilizado na criação de carteiras de clientes. |
 
@@ -50,9 +50,9 @@ A tabela a seguir apresenta a terminologia utilizada no **AI Sales Team Manageme
 
 O **AI Sales Team Management** interpreta a sua instrução, prepara e apresenta o plano da mudança na estrutura comercial e só executa a ação após sua revisão e confirmação. Veja alguns casos de uso:
 
-- **Montar organograma de vendas:** crie times e subtimes seguindo a mesma lógica da operação, como estruturas por regiões, cidades ou por carteiras.
+- **Montar organograma de vendas:** crie times e subtimes seguindo a mesma lógica da operação, como estruturas por regiões, cidades ou carteiras.
 - **Registrar representantes de vendas:** cadastre membros da equipe comercial na estrutura de vendas, associando cada pessoa ao time desejado.
-- **Controlar carteiras de clientes:** vincule [Contratos B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) a um time ou subtime para definir a quais contratos os sales reps terão acesso pelo **Sales App**.
+- **Controlar carteiras de clientes:** vincule [contratos B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) a um time ou subtime para definir a quais contratos os sales reps terão acesso pelo **Sales App**.
 - **Alterar diversos registros simultaneamente:** modifique diversos registros ao mesmo tempo, seja de forma inteiramente conversacional ou com a importação de arquivos `.xlsx`, `.csv` ou `.txt`.
 
 ## Acessar o agente
@@ -105,7 +105,7 @@ Com o **AI Sales Team Management** você pode:
 
 > ℹ️ Os exemplos de instrução apresentados nas seções são ilustrativos e não a única forma de realizar uma ação no **AI Sales Team Management**.
 
-As ações só podem ser executadas por usuários com as [permissões de acesso](#permissoes-de-acesso) necessárias. Os sales reps, por sua vez, precisam ter o perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person).
+As ações só podem ser executadas por usuários com as [permissões de acesso](#permissoes-de-acesso) necessárias.
 
 ### Realizar ações em sales reps
 
@@ -123,10 +123,10 @@ A tabela a seguir apresenta as ações que você pode realizar em sales reps:
 | Buscar sales rep | Email ou ID do sales rep. | "Busque o sales rep José Almeida, `jose@acme.com`" / "Procure o sales rep `d9b3a77b-14fa-421a-94d8-b60330993872`" |
 | Mover sales rep entre times | Nome do sales rep e do time de destino. | "Movimente o sales rep José Almeida para o time Sudeste" / "Mova José Almeida para o time Nordeste." |
 | Editar informações do sales rep | Nome do sales rep e a informação a ser alterada, como nome, email, código do vendedor ou loja. | "Edite o email do sales rep José Almeida para `jose.vendedor@acme.com`" / "Atualize o sales rep Ricardo Alves, código 204 e loja 578 no Vendas Norte" |
-| Reverter criação de sales rep | Você pode desfazer criações recentes, desde que esteja na mesma sessão. Para isso, informe o nome do sales rep e a ação a ser desfeita. | "Desfaça a criação do sales rep Ricardo Alves" / "Desconsidere a criação do sales rep José Almeida" |
+| Desfazer criação recente de sales rep | Você pode desfazer criações recentes, desde que esteja na mesma sessão. Para isso, informe o nome do sales rep e a ação a ser desfeita. | "Desfaça a criação do sales rep Ricardo Alves" / "Desconsidere a criação do sales rep José Almeida" |
 | Remover sales rep do time | Nome do sales rep. Remover um sales rep de um time apenas desvincula a pessoa do time, mas ela permanece como usuário da conta. | "Remova o sales rep José Almeida do time Vendas Sul." |
 
-> ℹ️ Quando você cria, edita ou remove mais de um sales rep em uma mesma ação, seja via arquivo ou conversacional, caso exista algum erro, o agente apresenta as mensagens de erro e uma tela de validação com o que será feito. É necessário que você revise e confirme esse resumo para que a ação seja executada.
+> ℹ️ Quando você cria, edita ou remove mais de um sales rep em uma mesma ação, seja via arquivo ou de forma conversacional, caso exista algum erro, o agente apresenta as mensagens de erro e uma tela de validação com o que será feito. É necessário que você revise e confirme esse resumo para que a ação seja executada.
 
 ### Realizar ações em times
 
@@ -140,9 +140,9 @@ A tabela a seguir apresenta as ações que você pode realizar em times:
 | Criar subtimes por sales rep | Anexe um arquivo `.xlsx`, `.csv` ou `.txt` com os dados dos sales reps e o time de destino. | "Crie subtimes baseados na carteira de cada sales rep." / "Quero criar subtimes baseados na carteira de cada sales rep." |
 | Editar nome do time | Nome atual do time e o novo nome. | "Edite o time Vendas Sul para Vendas Sudeste" |
 | Mover time | Nomes do time a ser movido e do time de destino. | "Mova o time Vendas Sul para dentro do time Nordeste" |
-| Visualizar detalhes do time | Identificação do time e quais informações deseja visualizar (sales reps, escopo, subtimes associados). | "Quais contratos o Vendas Sul tem acesso?" / "Quais usuários existem no time Vendas Norte?" / "Quem são os sales reps do Time Sul?" |
+| Visualizar detalhes do time | Identificação do time e quais informações deseja visualizar (sales reps, contratos vinculados ou subtimes). | "A quais contratos o Vendas Sul tem acesso?" / "Quais usuários existem no time Vendas Norte?" / "Quem são os sales reps do Time Sul?" |
 | Listar times | Apenas o comando. | "Liste os times" / "Mostre todos os times" |
-| Desfazer criação recente de times | Na mesma sessão, você pode desfazer times recém criados. Para isso, informe o time. | "Desfaça a criação do time" / "Cancele a criação do Time Sul" |
+| Desfazer criação recente de times | Na mesma sessão, você pode desfazer times recém-criados. Para isso, informe o time. | "Desfaça a criação do time" / "Cancele a criação do Time Sul" |
 | Desativar time | Nome do time. | "Desative o time Vendas Sul" / "Remova o subtime Vendas Sudeste" |
 
 > ⚠️ Após transformar um time pai em um subtime, não é mais possível devolvê-lo ao nível raiz. Portanto, antes de criar os times, defina a hierarquia.
