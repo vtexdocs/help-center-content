@@ -18,7 +18,7 @@ O **AI Sales Team Management** é um agente de inteligência artificial que perm
 
 Para usar o **AI Sales Team Management**, é necessário que a sua conta utilize o [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt) e tenha [contratos](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) previamente cadastrados.
 
-### Permissões de acesso
+## Permissões de acesso
 
 Para realizar ações no **AI Sales Team Management**, o usuário precisa ter um [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) com os [recursos do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager) correspondentes a cada operação, conforme a tabela a seguir:
 
