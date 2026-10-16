@@ -135,6 +135,8 @@ Os integrantes do time cadastrados pelo **AI Sales Team Management** são chamad
 
 O time é a unidade da estrutura de vendas no contexto do **AI Sales Team Management** e você pode organizá-los de forma hierarquizada com times pai e subtimes. Veja na tabela a seguir quais ações você pode realizar em times:
 
+> ⚠️ Após transformar um time pai em um subtime, não é mais possível devolvê-lo ao nível raiz. Portanto, antes de criar os times, recomendadmos que você defina uma hierarquia que reflita o organograma da organização comercial.
+
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
 | Criar time | Nome do time. Caso esteja criando um subtime, informe também o nome do time pai. | "Crie o time Vendas Sul" / "Crie o subtime Contagem dentro do time Nordeste" / "Crie meus times de vendas: Time Sul, Time Norte, Time Nordeste." |
@@ -145,8 +147,6 @@ O time é a unidade da estrutura de vendas no contexto do **AI Sales Team Manage
 | Listar times | Apenas o comando. | "Liste os times" / "Mostre todos os times" |
 | Desfazer criação recente de times | Na mesma sessão, você pode desfazer times recém-criados. Para isso, informe o nome ou ID do time e a ação a ser desfeita. | "Desfaça a criação do Vendas Sul" / "Cancele o novo time 8934" |
 | Desativar time | Nome ou ID do time. | "Desative o time Vendas Sul" / "Remova o subtime Vendas Sudeste" |
-
-> ⚠️ Após transformar um time pai em um subtime, não é mais possível devolvê-lo ao nível raiz. Portanto, antes de criar os times, recomendadmos que você defina uma hierarquia que reflita o organograma da organização comercial.
 
 ### Realizar ações em carteiras de clientes
 
