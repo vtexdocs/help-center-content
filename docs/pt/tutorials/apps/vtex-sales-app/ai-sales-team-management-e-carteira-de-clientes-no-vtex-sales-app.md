@@ -24,7 +24,7 @@ Para realizar ações no **AI Sales Team Management**, o usuário precisa ter um
 
 | **Produto** | **Categoria** | **Recurso** | **Operações permitidas** |
 | :--- | :--- | :--- | :--- |
-| Organization Units | units | **View Storefront User Permissions** | Listar times e visualizar detalhes, integrantes e contratos vinculados. |
+| Organization Units | units | **View Organization Unit** | Listar times e visualizar detalhes, integrantes e contratos vinculados. |
 | Organization Units | units | **Edit Organization Unit** | Criar, renomear, mover e remover times, adicionar e remover usuários e vincular contratos. |
 | License Manager | Services access control | **Save user** | Criar usuários, atribuir ou remover perfis de acesso para usuários, editar dados de usuários, criar e alterar chaves de aplicação. Necessário para atribuir o perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person) aos sales reps. |
 | License Manager | Services access control | **Find user by email** | Buscar usuários por email. |
@@ -41,9 +41,9 @@ A tabela a seguir apresenta a terminologia utilizada no **AI Sales Team Manageme
 
 | **Termo** | **Significado** |
 | :---- | :---- |
-| [Time](#realizar-acoes-em-times) | Agrupamento de pessoas que constitui a unidade da estrutura de vendas. Pode ser organizado de forma hierárquica com com times e subtimes, refletindo o organograma da organização comercial. |
-| [Sales rep](#realizar-açoes-em-sales-reps) | Pessoa do time comercial registrada via agente. O sales rep precisa ser um [usuário](https://help.vtex.com/pt/docs/tutorials/gerenciar-usuarios-administrativos) da conta com o perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person). O agente não cria perfis de acesso. |
-| [Carteira de clientes](#realizar-açoes-em-carteiras-de-clientes) | Relação de vínculação de um contrato com um time ou subtime, o que permite aos sales reps visualizar e criar pedidos relacionados ao contrato. Saiba mais em [Acesso de times a contratos](#acesso-de-times-a-contratos). |
+| [Time](#realizar-acoes-em-times) | Agrupamento de pessoas que constitui a unidade da estrutura de vendas. Pode ser organizado de forma hierárquica com times e subtimes, refletindo o organograma da organização comercial. |
+| [Sales rep](#realizar-acoes-em-sales-reps) | Pessoa do time comercial registrada via agente. O sales rep precisa ser um [usuário](https://help.vtex.com/pt/docs/tutorials/gerenciar-usuarios-administrativos) da conta com o perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person). O agente não cria perfis de acesso. |
+| [Carteira de clientes](#realizar-acoes-em-carteiras-de-clientes) | Vínculo entre um contrato e um time ou subtime, que permite aos sales reps visualizar e criar pedidos relacionados ao contrato. Saiba mais em [Acesso de times a contratos](#acesso-de-times-a-contratos). |
 | [Contrato B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) | Contrato B2B, previamente cadastrado na conta, utilizado na criação de carteiras de clientes. |
 
 ## Casos de uso
@@ -61,13 +61,13 @@ Para abrir o **AI Sales Team Management**, no Admin VTEX, acesse **Aplicativos >
 
 ![ai-sales-team-management-interface-pt](XXX)
 
-A tela apresenta algumas sugestões para começar. Ao clicar em uma delas ou digitar uma instrução no chat e clicar em Enviar, o agente dará início ao atendimento.
+A tela apresenta algumas sugestões para começar. Ao clicar em uma delas ou digitar uma instrução no chat e clicar em **Enviar**, o agente dará início ao atendimento.
 
 > ℹ️ Para conhecer as ações executadas pelo agente, confira a seção [Gerenciar times, sales reps e carteiras de clientes](#gerenciar-times-sales-reps-e-carteiras-de-clientes).
 
 O **AI Sales Team Management** pode realizar solicitações de forma inteiramente conversacional ou fazer [alterações em massa](#realizar-acoes-em-massa-em-times-sales-reps-e-carteiras-de-clientes) por meio da importação de arquivos, como será visto adiante.
 
-## Regras do funcionamento
+## Regras de funcionamento
 
 O **AI Sales Team Management** só executa ações após apresentar um plano e obter a [revisão e confirmação](#revisao-e-confirmacao-do-plano) do usuário. As regras de funcionamento do agente são:
 
@@ -82,7 +82,7 @@ O **AI Sales Team Management** só executa ações após apresentar um plano e o
 
 Antes que você crie, edite ou remova um item via arquivo ou de forma conversacional, o agente apresenta um plano do que será executado e só realiza as mudanças após a sua revisão e confirmação.
 
-Caso exista algum erro ou inconsistência nas informações recebidas, o agente apresenta as mensagens de erro e uma tela de validação com o plano doque será feito. Para arquivos anexados, o agente processa o conteúdo inteiro e separa as linhas válidas das inválidas (quando existe erro). Ou seja, o processamento parcial das informações é o comportamento esperado: as linhas válidas seguem o plano e inválidas são rejeitadas e informadas sobre o motivo.
+Caso exista algum erro ou inconsistência nas informações recebidas, o agente apresenta as mensagens de erro e uma tela de validação com o plano do que será feito. Para arquivos anexados, o agente processa o conteúdo inteiro e separa as linhas válidas das inválidas (quando existe erro). Ou seja, o processamento parcial das informações é o comportamento esperado: as linhas válidas seguem o plano e as inválidas são rejeitadas com a indicação do motivo.
 
 ### Restrições de escopo
 
@@ -91,22 +91,21 @@ O **AI Sales Team Management** tem as seguintes restrições:
 - ❌ Não acessa nem altera dados de compradores, contatos ou organizações do [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt).
 - ❌ Não cria contratos B2B.
 - ❌ Não envia emails ou outras mensagens.
-- ❌ Não configura a permissões de acesso de usuários.
+- ❌ Não configura permissões de acesso de usuários.
 - ❌ Não mostra histórico de auditoria. Para consultar o histórico, use o [Audit](https://help.vtex.com/pt/docs/tutorials/audit).
 
 ## Gerenciar times, sales reps e carteiras de clientes
 
 Com o **AI Sales Team Management** você pode:
 
-- [Realizar ações em sales reps](#acoes-em-sales-reps)
-- [Realizar ações em times](#acoes-em-times)
-- [Realizar ações em carteiras de clientes](#acoes-em-carteiras-de-clientes)
-- [Realizar ações em massa em times, sales reps e carteiras de clientes](#acoes-em-massa-em-times-sales-reps-e-carteiras-de-clientes)
-- [Vincular contrato a time](#vincular-contrato-a-time)
+- [Realizar ações em sales reps](#realizar-acoes-em-sales-reps)
+- [Realizar ações em times](#realizar-acoes-em-times)
+- [Realizar ações em carteiras de clientes](#realizar-acoes-em-carteiras-de-clientes)
+- [Realizar ações em massa em times, sales reps e carteiras de clientes](#realizar-acoes-em-massa-em-times-sales-reps-e-carteiras-de-clientes)
 
 > ℹ️ Os exemplos de instrução apresentados nas seções são ilustrativos e não a única forma de realizar uma ação no **AI Sales Team Management**.
 
-As ações só podem ser executadas por usuários com [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) adequado. No caso de sales reps, o perfil é o [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person).
+As ações só podem ser executadas por usuários com as [permissões de acesso](#permissoes-de-acesso) necessárias. Os sales reps, por sua vez, precisam ter o perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person).
 
 ### Realizar ações em sales reps
 
@@ -117,15 +116,15 @@ A tabela a seguir apresenta as ações que você pode realizar em sales reps:
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
 | Criar sales rep | Nome do sales rep, email e time. O código do vendedor e da loja são opcionais. | "Crie o sales rep José Almeida, `jose@acme.com` no time Nordeste" / "Registre o sales rep Ricardo Alves, `ricardo.alves@empresa.com` código 204 e loja 578 no Vendas Norte" |
-| Adicionar sales rep ao time | Nome do sales rep, email e time. | "Adicione o sales rep Ricardo Alves no time Vendas Norte, e-mail `ricardo.alves@empresa.com`." |
-| Visualizar informações do sales resp | Nome do sales rep. | "O Ricardo Alves pertence a quais times?" / "O sales rep José Almeida atende quais contratos?" |
-| Buscar sales rep | Email ou ID do sales rep. | "Busque o sales rep José Almeida, `jose@acme.com`" / "Procure o sales rep `d9b3a77b-14ga-421a-94d8-b60330993872`" |
-| Mover sales rep entre times | Nome do sales rep e do time de destino. | "Movimente o sales rep José Almeida para o time Sudeste" / "Mova José Almeida para time Nordeste." |
-| Editar informações do sales rep | Você pode editar o nome ou email do sales rep, para isso forneça a nova informação. | "Edite o email do sales rep José Almeida para `jose.vendedor@acme.com`" / "Atualize o sales rep Ricardo Alves, código 204 e loja 578 no Vendas Norte" |
+| Adicionar sales rep ao time | Nome do sales rep, email e time. | "Adicione o sales rep Ricardo Alves no time Vendas Norte, email `ricardo.alves@empresa.com`." |
+| Visualizar informações do sales rep | Nome do sales rep. | "O Ricardo Alves pertence a quais times?" / "O sales rep José Almeida atende quais contratos?" |
+| Buscar sales rep | Email ou ID do sales rep. | "Busque o sales rep José Almeida, `jose@acme.com`" / "Procure o sales rep `d9b3a77b-14fa-421a-94d8-b60330993872`" |
+| Mover sales rep entre times | Nome do sales rep e do time de destino. | "Movimente o sales rep José Almeida para o time Sudeste" / "Mova José Almeida para o time Nordeste." |
+| Editar informações do sales rep | Nome do sales rep e a informação a ser alterada, como nome, email, código do vendedor ou loja. | "Edite o email do sales rep José Almeida para `jose.vendedor@acme.com`" / "Atualize o sales rep Ricardo Alves, código 204 e loja 578 no Vendas Norte" |
 | Reverter criação de sales rep | Você pode desfazer criações recentes, desde que esteja na mesma sessão. Para isso, informe o nome do sales rep e a ação a ser desfeita. | "Desfaça a criação do sales rep Ricardo Alves" / "Desconsidere a criação do sales rep José Almeida" |
-| Remover sales rep do time | Nome do sales rep. Remover um sales rep de um time apenas desvincula a pessoa do time, mas ela permance como usuário da conta. | "Remova o sales rep José Almeida do time Vendas Sul." |
+| Remover sales rep do time | Nome do sales rep. Remover um sales rep de um time apenas desvincula a pessoa do time, mas ela permanece como usuário da conta. | "Remova o sales rep José Almeida do time Vendas Sul." |
 
-> ℹ️ Quando você cria, edita ou remove mais de um sales rep em uma mesma ação, seja via arquivo ou conversacional, caso exista algum erro, o agente apresenta as mensagens de erro e um canvas de validação com o que será feito. É necessário que você revise e confirme esse resumo para que a ação seja executada.
+> ℹ️ Quando você cria, edita ou remove mais de um sales rep em uma mesma ação, seja via arquivo ou conversacional, caso exista algum erro, o agente apresenta as mensagens de erro e uma tela de validação com o que será feito. É necessário que você revise e confirme esse resumo para que a ação seja executada.
 
 ### Realizar ações em times
 
@@ -137,9 +136,9 @@ A tabela a seguir apresenta as ações que você pode realizar em times:
 | :--- | :--- | :--- |
 | Criar time | Nome do time. Caso esteja criando um subtime, informe também o nome do time pai. | "Crie o time Vendas Sul" / "Crie o subtime Contagem dentro do time Nordeste" / "Crie meus times de vendas: Time Sul, Time Norte, Time Nordeste." |
 | Criar subtimes por sales rep | Anexe um arquivo `.xlsx`, `.csv` ou `.txt` com os dados dos sales reps e o time de destino. | "Crie subtimes baseados na carteira de cada sales rep." / "Quero criar subtimes baseados na carteira de cada sales rep." |
-| Editar nome time | Nome do time e as informações a serem alteradas. | "Edite o time Vendas Sul para Vendas Sudeste" |
-| Mover time | Nomes do time a ser movido e do time de destino. | "Mova o time Vendas Sul para dentro do time Nordeste" / " |
-| Visualizar destalhes do time | Identificação do time e quais informações deseja visualizar (sales reps, escopo, subtimes associados). | "Quais contratos o Vendas Sul tem acesso?" / "Quais usuários existem no time Vendas Norte?" / "Quem são os sales reps do Time Sul?" |
+| Editar nome do time | Nome atual do time e o novo nome. | "Edite o time Vendas Sul para Vendas Sudeste" |
+| Mover time | Nomes do time a ser movido e do time de destino. | "Mova o time Vendas Sul para dentro do time Nordeste" |
+| Visualizar detalhes do time | Identificação do time e quais informações deseja visualizar (sales reps, escopo, subtimes associados). | "Quais contratos o Vendas Sul tem acesso?" / "Quais usuários existem no time Vendas Norte?" / "Quem são os sales reps do Time Sul?" |
 | Listar times | Apenas o comando. | "Liste os times" / "Mostre todos os times" |
 | Desfazer criação recente de times | Na mesma sessão, você pode desfazer times recém criados. Para isso, informe o time. | "Desfaça a criação do time" / "Cancele a criação do Time Sul" |
 | Desativar time | Nome do time. | "Desative o time Vendas Sul" / "Remova o subtime Vendas Sudeste" |
@@ -152,12 +151,12 @@ A carteira de clientes representa os contratos para os quais um time ou subtime 
 
 A tabela a seguir apresenta as ações que você pode realizar em carteiras de clientes:
 
-> ⚠️ A carteira de clientes não pode ser desfeita pelo agente.
-
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
-| Vincular contrato a um ou mais times | Identificação do contrato e nome de um ou mais times. Você também pode fazer essa [ação em massa](#realizar-acoes-em-massa) por meio da importação de arquivos. | "Vincule o contrato 1395 ao Time Sul, Time Norte, Time Nordeste" / "Crie carteiras de cliente para o Time Norte do contrato 1395" |
+| Vincular contrato a um ou mais times | Identificação do contrato e nome de um ou mais times. Você também pode fazer essa [ação em massa](#realizar-acoes-em-massa-em-times-sales-reps-e-carteiras-de-clientes) por meio da importação de arquivos. | "Vincule o contrato 1395 ao Time Sul, Time Norte, Time Nordeste" / "Crie a carteira de clientes do Time Norte com o contrato 1395" |
 | Visualizar carteiras de clientes | Identificação do time. | "O Time Norte atende quais carteiras?" / "A quais contratos o Vendas Sul foi vinculado?" |
+
+> ⚠️ A criação de carteiras de clientes não pode ser desfeita pelo agente.
 
 Para saber como controlar o nível de permissão de times a contratos, veja a seção a seguir.
 
@@ -165,10 +164,10 @@ Para saber como controlar o nível de permissão de times a contratos, veja a se
 
 Vincular um contrato a um time define a carteira daquele time e muda o que o sales rep visualiza no **Sales App**.
 
-- **Contratos vinculados a times:** os sales reps visualizam no **Sales App** apenas as cotações e pedidos referentes aos contratos vinculados. A criação de novos pedidos também fica restrita a esses contratos.
+- **Times com contratos vinculados:** os sales reps visualizam no **Sales App** apenas as cotações e pedidos referentes aos contratos vinculados. A criação de novos pedidos também fica restrita a esses contratos.
   - Exemplo: o "Time Sul" está vinculado aos contratos `100` e `200`, portanto, os sales reps desse time podem visualizar e criar pedidos somente para esses dois contratos.
-- **Contratos sem vinculação a times:** os sales reps visualizam todos os contratos da conta.
-  - Exemplo: o "Time Norte" não está vinculado a um contrato, portanto, os sales reps desse time podem visualizar e criar pedidos para todos os contratos da conta.
+- **Times sem contratos vinculados:** os sales reps visualizam todos os contratos da conta.
+  - Exemplo: o "Time Norte" não está vinculado a nenhum contrato, portanto, os sales reps desse time podem visualizar e criar pedidos para todos os contratos da conta.
 
 > ⚠️ Recomendamos que você confirme os vínculos contratuais antes de definir restrições ao time de vendas.
 
@@ -176,12 +175,12 @@ Vincular um contrato a um time define a carteira daquele time e muda o que o sal
 
 O **AI Sales Team Management** permite que você realize ações em massa por meio da importação de arquivos no formato `.xlsx`, `.csv` ou `.txt`. Isso se aplica aos seguintes cenários:
 
-- **Times:** criar, mover, editar ou remover times.
-- **Sales reps:** registrar, adicionar, mover, editar ou remover sales reps.
-- **Carteiras de clientes:** definir carteiras ou vincular contrato a múltiplos times.
+- **Times:** criar, mover, editar ou desativar times.
+- **Sales reps:** criar, adicionar, mover, editar ou remover sales reps.
+- **Carteiras de clientes:** vincular contratos a um ou mais times.
 
 Exemplos de instrução:
 
 - "Processe a planilha de criação de sales reps"
 - "Vincule os contratos com os times indicados no arquivo"
-- "Mova os sales reps de acordo com o documento" |
+- "Mova os sales reps de acordo com o documento"
