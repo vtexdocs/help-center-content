@@ -191,6 +191,37 @@
             },
             {
               "name": {
+                "en": "Octubre",
+                "es": "Octubre",
+                "pt": "Outubro"
+              },
+              "slug": {
+                "en": "octubre",
+                "es": "2026-octubre",
+                "pt": "2026-outubro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Delivery Promise: ahora disponible para todos los retailers",
+                    "es": "Delivery Promise: ahora disponible para todos los retailers",
+                    "pt": "Delivery Promise: agora disponível para todos os lojistas"
+                  },
+                  "slug": {
+                    "en": "",
+                    "es": "2026-10-21-delivery-promise-ahora-disponible-para-todas-las-tiendas",
+                    "pt": "2026-10-21-delivery-promise-agora-disponivel-para-todos-os-lojistas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "September",
                 "es": "Septiembre",
                 "pt": "Setembro"
@@ -22302,6 +22333,67 @@
           "children": [
             {
               "name": {
+                "en": "Delivery Promise",
+                "es": "Delivery Promise",
+                "pt": "Delivery Promise"
+              },
+              "slug": {
+                "en": "delivery-promise-subcategory",
+                "es": "delivery-promise-subcategoria",
+                "pt": "delivery-promise-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Activating Delivery Promise",
+                    "es": "Activar Delivery Promise",
+                    "pt": "Ativar o Delivery Promise"
+                  },
+                  "slug": {
+                    "en": "activate-delivery-promise",
+                    "es": "activar-delivery-promise",
+                    "pt": "ativar-delivery-promise"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Delivery Promise",
+                    "es": "Delivery Promise",
+                    "pt": "Delivery Promise"
+                  },
+                  "slug": {
+                    "en": "delivery-promise",
+                    "es": "delivery-promise",
+                    "pt": "delivery-promise"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Delivery Promise: FAQ",
+                    "es": "Delivery Promise: preguntas frecuentes",
+                    "pt": "Delivery Promise: FAQ"
+                  },
+                  "slug": {
+                    "en": "delivery-promise-faq",
+                    "es": "delivery-promise-faq",
+                    "pt": "delivery-promise-faq"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Inventory",
                 "es": "Inventario",
                 "pt": "Inventário"
@@ -36349,51 +36441,6 @@
               "origin": "",
               "type": "category",
               "children": [
-                {
-                  "name": {
-                    "en": "Activating Delivery Promise",
-                    "es": "Activar Delivery Promise",
-                    "pt": "Ativar o Delivery Promise"
-                  },
-                  "slug": {
-                    "en": "activate-delivery-promise",
-                    "es": "activar-delivery-promise",
-                    "pt": "ativar-delivery-promise"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Delivery Promise (Beta)",
-                    "es": "Delivery Promise (beta)",
-                    "pt": "Delivery Promise (Beta)"
-                  },
-                  "slug": {
-                    "en": "delivery-promise-beta",
-                    "es": "delivery-promise-beta",
-                    "pt": "delivery-promise-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Delivery Promise: FAQ",
-                    "es": "Delivery Promise: FAQ",
-                    "pt": "Delivery Promise: FAQ"
-                  },
-                  "slug": {
-                    "en": "delivery-promise-faq",
-                    "es": "delivery-promise-faq",
-                    "pt": "delivery-promise-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Delivery Options (Beta)",
