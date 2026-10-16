@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Delivery Promise: now available to all merchants",
+                    "es": "Delivery Promise: ahora disponible para todos los retailers",
+                    "pt": "Delivery Promise: agora disponível para todos os lojistas"
+                  },
+                  "slug": {
+                    "en": "2026-10-21-delivery-promise-now-generally-available",
+                    "es": "2026-10-21-delivery-promise-ahora-disponible-para-todas-las-tiendas",
+                    "pt": "2026-10-21-delivery-promise-agora-disponivel-para-todos-os-lojistas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "VTEX CMS: now available for early access",
                     "es": "VTEX CMS: ahora disponible en acceso anticipado",
                     "pt": "VTEX CMS: agora disponível em acesso antecipado"
@@ -152,37 +167,6 @@
                     "en": "2026-10-06-vtex-cx-platform-support-for-bsuid-and-whatsapp-usernames",
                     "es": "2026-10-06-vtex-cx-platform-soporte-para-bsuid-y-nombres-de-usuario-de-whatsapp",
                     "pt": "2026-10-06-vtex-cx-platform-suporte-a-bsuid-e-usernames-do-whatsapp"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Octubre",
-                "es": "Octubre",
-                "pt": "Outubro"
-              },
-              "slug": {
-                "en": "octubre",
-                "es": "2026-octubre",
-                "pt": "2026-outubro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Delivery Promise: ahora disponible para todos los retailers",
-                    "es": "Delivery Promise: ahora disponible para todos los retailers",
-                    "pt": "Delivery Promise: agora disponível para todos os lojistas"
-                  },
-                  "slug": {
-                    "en": "",
-                    "es": "2026-10-21-delivery-promise-ahora-disponible-para-todas-las-tiendas",
-                    "pt": "2026-10-21-delivery-promise-agora-disponivel-para-todos-os-lojistas"
                   },
                   "origin": "",
                   "type": "markdown",
