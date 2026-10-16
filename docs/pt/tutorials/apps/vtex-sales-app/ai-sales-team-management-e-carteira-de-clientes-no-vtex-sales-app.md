@@ -116,7 +116,7 @@ A tabela a seguir apresenta as ações que você pode realizar em sales reps:
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
-| Registrar um sales rep | Nome do sales rep, email e time. O código do vendedor e da loja, quando aplicáveis, são opcionais. | "Registre o sales rep José Almeida, `jose@acme.com` no time Nordeste" / "Crie o sales rep Ricardo Alves, `ricardo.alves@empresa.com` código 204 e loja 578 no Vendas Norte" |
+| Criar um sales rep | Nome do sales rep, email e time. O código do vendedor e da loja são opcionais. | "Crie o sales rep José Almeida, `jose@acme.com` no time Nordeste" / "Registre o sales rep Ricardo Alves, `ricardo.alves@empresa.com` código 204 e loja 578 no Vendas Norte" |
 | Adicionar sales rep ao time | Nome do sales rep, email e time. | "Adicione o sales rep Ricardo Alves no time Vendas Norte, e-mail `ricardo.alves@empresa.com`." |
 | Visualizar informações do sales resp | Nome do sales rep. | "O Ricardo Alves pertence a quais times?" / "O sales rep José Almeida atende quais contratos?" |
 | Mover sales rep entre times | Nome do sales rep e do time de destino. | "Movimente o sales rep José Almeida para o time Sudeste" / "Mova José Almeida para time Nordeste." |
