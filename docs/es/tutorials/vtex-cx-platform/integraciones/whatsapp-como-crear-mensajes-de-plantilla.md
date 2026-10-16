@@ -1,18 +1,11 @@
 ---
 title: 'WhatsApp: Cómo crear mensajes de plantilla'
-id: 3KQizjNnrDY2K3DhPwiPim
-status: PUBLISHED
 createdAt: 2025-09-15T15:05:31.154Z
 updatedAt: 2026-10-16T15:28:01.000Z
-publishedAt: 2025-10-03T14:20:32.643Z
-firstPublishedAt: 2025-10-03T14:20:32.643Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: whatsapp-how-to-create-template-messages
-legacySlug: whatsapp-como-crear-mensajes-de-plantilla
 locale: es
-subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
 Los mensajes de plantilla se utilizan para iniciar conversaciones con los clientes y son el único tipo de mensaje que se puede enviar a clientes que aún no han iniciado una conversación contigo o que no han enviado un mensaje en las últimas 24 horas en una conversación existente.

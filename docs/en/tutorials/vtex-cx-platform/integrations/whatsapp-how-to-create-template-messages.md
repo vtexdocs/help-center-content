@@ -1,18 +1,11 @@
 ---
 title: 'WhatsApp: How to create template messages'
-id: 3KQizjNnrDY2K3DhPwiPim
-status: PUBLISHED
 createdAt: 2025-09-15T15:05:31.154Z
 updatedAt: 2026-10-16T15:28:01.000Z
-publishedAt: 2025-10-03T14:20:32.643Z
-firstPublishedAt: 2025-10-03T14:20:32.643Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: whatsapp-how-to-create-template-messages
-legacySlug: whatsapp-how-to-create-template-messages
 locale: en
-subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
 Template messages are used to initiate conversations with customers and are the only [type of message](https://developers.facebook.com/docs/whatsapp/conversation-types#message-types) that can be sent to customers who haven't started a conversation with you yet or haven't messaged you in the last 24 hours in an existing conversation.
