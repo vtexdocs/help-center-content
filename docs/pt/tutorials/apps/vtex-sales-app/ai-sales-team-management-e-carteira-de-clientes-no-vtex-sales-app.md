@@ -87,12 +87,6 @@ O agente só executa ações após apresentar um plano e obter a sua [confirmaç
 - **Alerta de contrato compartilhado:** se um contrato já estiver vinculado a outro time, o agente informa essa condição, mas permite realizar o vínculo.
 - **Mensagens de erro:** caso sejam identificados erros ou inconsistências, o agente informa os motivos e apresenta o plano de execução parcial com os dados válidos para você [revisar e confirmar](#revisao-e-confirmacao-do-plano).
 
-### Revisão e confirmação do plano
-
-Antes que você crie, edite ou remova um item de forma conversacional ou por meio da importação de arquivos, o agente apresenta um plano do que será executado e só realiza as mudanças após a sua revisão e confirmação.
-
-Caso exista algum erro ou inconsistência nas informações recebidas, o agente mostra as mensagens de erro e apresenta uma tela de validação com o plano do que será feito. Para arquivos importados, o agente processa o conteúdo inteiro e separa as linhas válidas das inválidas (quando existe erro): as linhas válidas seguem o plano e as inválidas são rejeitadas com a indicação do motivo.
-
 ### Restrições de escopo
 
 O **AI Sales Team Management** tem as seguintes restrições:
@@ -102,6 +96,12 @@ O **AI Sales Team Management** tem as seguintes restrições:
 - ❌ Não envia emails ou outras mensagens.
 - ❌ Não configura permissões de acesso de usuários. A única exceção é o perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person), atribuído por padrão na criação de sales reps.
 - ❌ Não mostra histórico de auditoria. Para consultar o histórico, use o [Audit](https://help.vtex.com/pt/docs/tutorials/audit).
+
+### Revisão e confirmação do plano
+
+Antes que você crie, edite ou remova um item de forma conversacional ou por meio da importação de arquivos, o agente apresenta um plano do que será executado e só realiza as mudanças após a sua revisão e confirmação.
+
+Caso exista algum erro ou inconsistência nas informações recebidas, o agente mostra as mensagens de erro e apresenta uma tela de validação com o plano do que será feito. Para arquivos importados, o agente processa o conteúdo inteiro e separa as linhas válidas das inválidas (quando existe erro): as linhas válidas seguem o plano e as inválidas são rejeitadas com a indicação do motivo.
 
 ## Gerenciar times, sales reps e carteiras de clientes
 
@@ -126,8 +126,8 @@ Os integrantes do time cadastrados pelo **AI Sales Team Management** são chamad
 | Adicionar sales rep ao time | Nome, ID ou email do sales rep + nome ou ID do time. | "Adicione Ricardo Alves no time Vendas Norte" / "Inclua `jose.vendedor@acme.com` no Vendas Sul" |
 | Buscar ou visualizar informações do sales rep | Nome, ID ou email do sales rep. | "Ricardo Alves pertence a quais times?" / "`jose@acme.com` atende quais contratos?" |
 | Mover sales rep entre times | Nome, ID ou email do sales rep + nome ou ID do time de destino. | "Movimente José Almeida para o time Sudeste" / "Mova ID 7329 para o time Nordeste" |
-| Desfazer criação recente de sales rep | Você pode desfazer criações recentes, desde que esteja na mesma sessão. Para isso, informe o nome do sales rep e a ação a ser desfeita. | "Desfaça a criação do sales rep Ricardo Alves" / "Desconsidere a criação do sales rep José Almeida" |
-| Remover sales rep do time | Nome do sales rep. Remover um sales rep de um time apenas desvincula a pessoa do time, mas ela permanece como usuário da conta. | "Remova o sales rep José Almeida do time Vendas Sul" |
+| Desfazer criação recente de sales rep | Você pode desfazer criações recentes, desde que esteja na mesma sessão. Para isso, informe o nome, ID ou email do sales rep e a ação a ser desfeita. | "Desfaça a criação do sales rep Ricardo Alves" / "Desconsidere a criação de José Almeida" |
+| Remover sales rep do time | Nome, ID ou email do sales rep. Remover um sales rep de um time apenas desvincula a pessoa do time, mas ela permanece como [usuário](#permissões-de-acesso-de-sales-reps) da conta. | "Remova o José Almeida do Vendas Sul" |
 
 > ℹ️ Quando você cria, edita ou remove mais de um sales rep em uma mesma ação, seja via arquivo ou de forma conversacional, caso exista algum erro, o agente apresenta as mensagens de erro e uma tela de validação com o que será feito. É necessário que você revise e confirme esse resumo para que a ação seja executada.
 
