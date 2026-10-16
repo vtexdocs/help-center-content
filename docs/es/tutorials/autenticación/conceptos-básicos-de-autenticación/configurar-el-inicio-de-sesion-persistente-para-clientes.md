@@ -4,7 +4,7 @@ createdAt: 2026-09-18T00:00:00.000Z
 updatedAt: 2026-09-18T00:00:00.000Z
 contentType: tutorial
 productTeam: Identity
-slugEN: configuring-persistent-login-for-shoppers
+slugEN: configuring-persistent-login-for-customers
 locale: es
 ---
 
@@ -18,12 +18,12 @@ Al acceder a la tienda, el cliente recibe una cookie de acceso (`VtexIdclientAut
 
 Algunos puntos importantes sobre el funcionamiento de esta configuración:
 
-- El inicio de sesión persistente es opcional y, de forma predeterminada, esta opción está desactivada. Si no configuras nada, el comportamiento de tu tienda no cambia.
-- La duración puede ser cualquier número entero de días, de **1** a **365**.
-- Al activar el inicio de sesión persistente por primera vez, la duración predeterminada es de **1 día**. Puedes modificarla en cualquier momento.
-- Los cambios en la configuración, incluida la desactivación del inicio de sesión persistente, solo se aplican a los inicios de sesión posteriores. Las sesiones activas no se modifican.
-- Si desactivas el inicio de sesión persistente y luego lo vuelves a activar, se restaura la última duración guardada (la configuración no vuelve automáticamente a 1 día).
-- En tiendas con [Store Framework](https://developers.vtex.com/docs/guides/store-framework) o [CMS Portal (Legado)](https://help.vtex.com/es/docs/tracks/cms-portal-legado), la renovación del acceso del cliente es automática. En tiendas headless es necesario implementar la renovación del token por cuenta propia, excepto cuando el storefront usa [FastStore SDK](https://developers.vtex.com/docs/guides/faststore/sdk-overview). Para implementar la renovación de sesión en una tienda headless consulta la guía para desarrolladores [Refresh token flow for headless implementations](https://developers.vtex.com/docs/guides/refresh-token-flow-for-headless-implementations).
+* El inicio de sesión persistente es opcional y, de forma predeterminada, esta opción está desactivada. Si no configuras nada, el comportamiento de tu tienda no cambia.
+* La duración puede ser cualquier número entero de días, de **1** a **365**.
+* Al activar el inicio de sesión persistente por primera vez, la duración predeterminada es de **1 día**. Puedes modificarla en cualquier momento.
+* Los cambios en la configuración, incluida la desactivación del inicio de sesión persistente, solo se aplican a los inicios de sesión posteriores. Las sesiones activas no se modifican.
+* Si desactivas el inicio de sesión persistente y luego lo vuelves a activar, se restaura la última duración guardada (la configuración no vuelve automáticamente a 1 día).
+* La forma en que se renueva el acceso del cliente depende de la tecnología del storefront. Consulta [Pasos adicionales por tipo de tienda](#pasos-adicionales-por-tipo-de-tienda).
 
 ## Prerrequisitos
 
@@ -36,11 +36,20 @@ Para empezar a usar el inicio de sesión persistente activa la funcionalidad en 
 1. En la barra superior del Admin VTEX, haz clic en el avatar de tu perfil que tiene la inicial de tu email.
 2. Haz clic en **Configuración de la cuenta > Autenticación**.
 3. En la pestaña **Tienda virtual**, busca la tarjeta **Inicio de sesión persistente**, debajo de los métodos de inicio de sesión.
-    <!-- TODO: substituir pelo screenshot real do card Login persistente na aba Loja virtual -->
-   ![Tarjeta Inicio de sesión persistente en la pestaña Tienda virtual](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autenticação/conceitos-básicos-de-autenticação/configurar-login-persistente-para-clientes_1.png)
+   ![Tarjeta Inicio de sesión persistente en la pestaña Tienda virtual](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/configurar-el-inicio-de-sesion-persistente-para-clientes_1.png)
 4. Haz clic en el botón de alternancia para activar la funcionalidad.
 
 Cuando activas la funcionalidad, se muestra una notificación que lo confirma e indica la duración que se aplicará a los nuevos inicios de sesión: 1 día si es la primera vez, o la última duración guardada si la vuelves a activar.
+
+## Pasos adicionales por tipo de tienda
+
+Después de activar el inicio de sesión persistente, verifica si tu tienda necesita algún paso adicional. Lo que cambia es la forma en que se renueva el acceso del cliente, que depende de la tecnología del storefront.
+
+En tiendas con [Store Framework](https://developers.vtex.com/docs/guides/store-framework) o [CMS Portal (Legado)](https://help.vtex.com/es/docs/tracks/cms-portal-legado), basta con activar el inicio de sesión persistente en el Admin VTEX, ya que la renovación del acceso del cliente en la tienda es automática.
+
+En tiendas headless, además de activar el inicio de sesión persistente en el Admin VTEX, es necesario implementar la renovación del token por cuenta propia. La guía para desarrolladores [Refresh token flow for headless implementations](https://developers.vtex.com/docs/guides/refresh-token-flow-for-headless-implementations) explica cómo implementar la renovación de sesión en una tienda headless.
+
+Si tu tienda usa FastStore, además de activar el inicio de sesión persistente en el Admin VTEX, debes habilitar el refresh token en tu proyecto, como se describe en [Enabling refresh token on FastStore](https://developers.vtex.com/docs/guides/faststore/session-enabling-refresh-token).
 
 ## Configurar la duración del inicio de sesión persistente
 
@@ -52,9 +61,7 @@ La duración configurada no se muestra directamente en la tarjeta. Para consulta
 
    Se abre una ventana con la duración configurada actualmente, en días.
 
-    <!-- TODO: substituir pelo screenshot real da janela de configuração da duração -->
-
-   ![Ventana de configuración de la duración del inicio de sesión persistente](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autenticação/conceitos-básicos-de-autenticação/configurar-login-persistente-para-clientes_2.png)
+   ![Ventana de configuración de la duración del inicio de sesión persistente](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/configurar-el-inicio-de-sesion-persistente-para-clientes_2.png)
 4. En el campo **Duración de la sesión**, ingresa un número entero entre **1** y **365** días.
 5. Haz clic en `Guardar`.
 
@@ -75,5 +82,5 @@ A partir de ese momento los nuevos inicios de sesión de clientes dejan de recib
 ## Más información
 
 - [Refresh token flow for headless implementations](https://developers.vtex.com/docs/guides/refresh-token-flow-for-headless-implementations)
+- [Enabling refresh token on FastStore](https://developers.vtex.com/docs/guides/faststore/session-enabling-refresh-token)
 - [Autenticación](https://help.vtex.com/es/docs/tutorials/autenticacion)
-
