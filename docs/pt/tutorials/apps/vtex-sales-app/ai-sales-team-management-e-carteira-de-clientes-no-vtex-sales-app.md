@@ -10,23 +10,23 @@ locale: pt
 
 > ℹ️ O **AI Sales Team Management** está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Atualmente, a disponibilidade é somente para contas selecionadas. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
 
-O **AI Sales Team Management** é um agente de inteligência artificial que permite aos usuários do [VTEX Sales App](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes) administrarem [times, sales reps e carteiras de clientes](#conceitos). Tudo isso é feito por meio de uma experiência conversacional no Admin VTEX. Este artigo explica o funcionamento do agente e quais ações ele pode realizar para você no contexto de operações B2B.
+O **AI Sales Team Management** é um agente de inteligência artificial do [VTEX Sales App](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes) que te permite administrar [times, sales reps e carteiras de clientes](#conceitos) por meio de uma experiência conversacional. Este artigo explica o funcionamento do agente no Admin VTEX e quais ações ele pode realizar para você em operações B2B.
 
-> ⚠️ O **AI Sales Team Management** administra times e carteiras de clientes no [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). Para a gestão de vendedores de lojas físicas, veja o artigo [Gerenciar vendedores no VTEX Sales App](https://help.vtex.com/pt/docs/tracks/gerenciar-vendedores-no-vtex-sales-app).
+> ⚠️ O **AI Sales Team Management** permite administrar times e carteiras de clientes no [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). Para a gestão de vendedores de lojas físicas, veja o artigo [Gerenciar vendedores no VTEX Sales App](https://help.vtex.com/pt/docs/tracks/gerenciar-vendedores-no-vtex-sales-app).
 
 ## Pré-requisitos
 
-Para usar o **AI Sales Team Management**, é necessário que a sua conta utilize o [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt) e tenha [contratos](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) previamente cadastrados.
+Para usar o agente, é necessário que a sua conta utilize o [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt) e tenha [contratos](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) previamente cadastrados.
 
 ## Permissões de acesso
 
-Para realizar ações no **AI Sales Team Management**, o usuário precisa ter um [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) com os [recursos do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager) correspondentes a cada operação, conforme a tabela a seguir:
+O usuário precisa ter um [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) com os [recursos do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager) correspondentes às operações que deseja realizar, conforme descrito a seguir:
 
 | **Produto** | **Categoria** | **Recurso** | **Operações permitidas** |
 | :--- | :--- | :--- | :--- |
 | Organization Units | units | **View Organization Unit** | Listar times e visualizar detalhes, integrantes e contratos vinculados. |
 | Organization Units | units | **Edit Organization Unit** | Criar, renomear, mover e desativar times, adicionar e remover usuários e vincular contratos. |
-| License Manager | Services access control | **Save user** | Criar usuários, atribuir ou remover perfis de acesso para usuários, editar dados de usuários, criar e alterar chaves de aplicação. Necessário para atribuir o perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person) aos sales reps. |
+| License Manager | Services access control | **Save user** | Criar usuários, atribuir ou remover perfis de acesso para usuários, editar dados de usuários, criar e alterar chaves de aplicação. |
 | License Manager | Services access control | **Find user by email** | Buscar usuários por email. |
 | License Manager | Services access control | **Get paged roles** | Listar todos os perfis de acesso de uma conta. |
 | Dynamic Storage | Dynamic storage generic resources | **Insert or update document (not remove)** | Criar e atualizar os cadastros nas entidades `vendors` e `shopper` e consultar contratos (entidade `CL`). |
