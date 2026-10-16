@@ -122,11 +122,10 @@ Os integrantes do time cadastrados pelo **AI Sales Team Management** são chamad
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
-| Criar sales rep | Nome do sales rep, email e time. O código do vendedor e da loja são opcionais. O agente atribui o perfil **inStore Sales Person** por padrão. | "Crie o sales rep José Almeida, `jose@acme.com` no time Nordeste" / "Registre o sales rep Ricardo Alves, `ricardo.alves@empresa.com` código 204 e loja 578 no Vendas Norte" |
-| Adicionar sales rep ao time | Nome do sales rep, email e time. | "Adicione o sales rep Ricardo Alves no time Vendas Norte, email `ricardo.alves@empresa.com`." |
-| Visualizar informações do sales rep | Nome do sales rep. | "O Ricardo Alves pertence a quais times?" / "O sales rep José Almeida atende quais contratos?" |
-| Buscar sales rep | Email ou ID do sales rep. | "Busque o sales rep José Almeida, `jose@acme.com`" / "Procure o sales rep `d9b3a77b-14fa-421a-94d8-b60330993872`" |
-| Mover sales rep entre times | Nome do sales rep e do time de destino. | "Movimente o sales rep José Almeida para o time Sudeste" / "Mova José Almeida para o time Nordeste." |
+| Criar sales rep | Nome do sales rep, email e time. O código do vendedor e da loja são opcionais. Saiba sobre restrições para o usuário em [Permissões de acesso de sales reps](#permissoes-de-acesso-de-sales-reps). | "Crie José Almeida, `jose@acme.com` no time Nordeste" / "Registre Ricardo Alves, `ricardo.alves@empresa.com` código 204 e loja S no Vendas Norte" |
+| Adicionar sales rep ao time | Nome, ID ou email do sales rep e nome time. | "Adicione Ricardo Alves no time Vendas Norte" / "Inclua `jose.vendedor@acme.com` no Vendas Sul" |
+| Buscar ou visualizar informações do sales rep | Nome, ID ou email do sales rep. | "Ricardo Alves pertence a quais times?" / "`jose@acme.com` atende quais contratos?" |
+| Mover sales rep entre times | Nome, ID ou email do sales rep e nome do time de destino. | "Movimente José Almeida para o time Sudeste" / "Mova José Almeida para o time Nordeste." |
 | Editar informações do sales rep | Nome do sales rep e a informação a ser alterada, como nome, email, código do vendedor ou loja. | "Edite o email do sales rep José Almeida para `jose.vendedor@acme.com`" / "Atualize o sales rep Ricardo Alves, código 204 e loja 578 no Vendas Norte" |
 | Desfazer criação recente de sales rep | Você pode desfazer criações recentes, desde que esteja na mesma sessão. Para isso, informe o nome do sales rep e a ação a ser desfeita. | "Desfaça a criação do sales rep Ricardo Alves" / "Desconsidere a criação do sales rep José Almeida" |
 | Remover sales rep do time | Nome do sales rep. Remover um sales rep de um time apenas desvincula a pessoa do time, mas ela permanece como usuário da conta. | "Remova o sales rep José Almeida do time Vendas Sul" |
