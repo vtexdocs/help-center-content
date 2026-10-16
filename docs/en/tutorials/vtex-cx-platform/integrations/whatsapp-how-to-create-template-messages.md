@@ -53,6 +53,6 @@ If you experience message rejections and want to resolve or change your template
 
 ## Learn more
 
-- [**WhatsApp Business Policy**](https://business.whatsapp.com/policy) : Learn more about the policies for businesses.
-- [**WhatsApp Commerce Policy**](https://whatsappbusiness.com/policy/) : Learn more about commerce-related policies.
-- [**Policy Enforcement**](https://developers.facebook.com/docs/whatsapp/overview/policy-enforcement/) : Learn more about how policies are enforced.
+- [**WhatsApp Business Policy**](https://business.whatsapp.com/policy): policies for businesses.
+- [**WhatsApp Commerce Policy**](https://whatsappbusiness.com/policy/): commerce-related policies.
+- [**Policy Enforcement**](https://developers.facebook.com/docs/whatsapp/overview/policy-enforcement/): how Meta enforces these policies.
