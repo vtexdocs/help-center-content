@@ -25721,13 +25721,44 @@
                 {
                   "name": {
                     "en": "Configuring persistent login for customers",
-                    "es": "Configurar el inicio de sesión persistente para clientes",
+                    "es": "Configuring persistent login for customers",
                     "pt": "Configurar login persistente para clientes"
                   },
                   "slug": {
                     "en": "configuring-persistent-login-for-customers",
-                    "es": "configurar-el-inicio-de-sesion-persistente-para-clientes",
+                    "es": "",
                     "pt": "configurar-login-persistente-para-clientes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Conceptos básicos de autenticación",
+                "es": "Conceptos básicos de autenticación",
+                "pt": "Conceptos básicos de autenticación"
+              },
+              "slug": {
+                "en": "conceptos-basicos-de-autenticacion",
+                "es": "conceptos-basicos-de-autenticacion-subcategoria",
+                "pt": "conceptos-basicos-de-autenticacion"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Configurar el inicio de sesión persistente para clientes",
+                    "es": "Configurar el inicio de sesión persistente para clientes",
+                    "pt": "Configurar el inicio de sesión persistente para clientes"
+                  },
+                  "slug": {
+                    "en": "",
+                    "es": "configurar-el-inicio-de-sesion-persistente-para-clientes",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -61460,21 +61491,6 @@
             },
             {
               "name": {
-                "en": "Console error [Report Only] - Refused to apply inline style because it violates the following Content Security",
-                "es": "Error de consola [Sólo informe] - Se ha denegado la aplicación del estilo en línea porque infringe la siguiente seguridad de contenido",
-                "pt": "Erro de console [Report Only] - Recusou-se a aplicar o estilo inline porque ele viola a seguinte segurança de conteúdo"
-              },
-              "slug": {
-                "en": "console-error-report-only-refused-to-apply-inline-style-because-it-violates-the-following-content-security",
-                "es": "error-de-consola-solo-informe-se-ha-denegado-la-aplicacion-del-estilo-en-linea-porque-infringe-la-siguiente-seguridad-de-contenido",
-                "pt": "erro-de-console-report-only-recusouse-a-aplicar-o-estilo-inline-porque-ele-viola-a-seguinte-seguranca-de-conteudo"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Transaction error caused by BIN validation mismatch in payment rules",
                 "es": "Error de transacción causado por una discrepancia en la validación del BIN en las reglas de pago.",
                 "pt": "Erro de transação causado por incompatibilidade na validação do BIN nas regras de pagamento."
@@ -63613,6 +63629,21 @@
                 "en": "competing-authorization-rules-generated-when-receiving-a-delaytocancel-value",
                 "es": "reglas-de-autorizacion-competidoras-generadas-al-recibir-un-valor-delaytocancel",
                 "pt": "regras-de-autorizacao-concorrentes-geradas-ao-receber-um-valor-delaytocancel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CSP Report-Only console errors in io.vtexpayments.com.br payment iframes (invalid header syntax and io2.vtex.com not allowed)",
+                "es": "Errores de consola de solo informe de CSP en iframes de pago de io.vtexpayments.com.br (sintaxis de encabezado no válida e io2.vtex.com no permitido).",
+                "pt": "Relatório CSP - Apenas erros no console em iframes de pagamento io.vtexpayments.com.br (sintaxe de cabeçalho inválida e io2.vtex.com não permitido)"
+              },
+              "slug": {
+                "en": "csp-reportonly-console-errors-in-iovtexpaymentscombr-payment-iframes-invalid-header-syntax-and-io2vtexcom-not-allowed",
+                "es": "errores-de-consola-de-solo-informe-de-csp-en-iframes-de-pago-de-iovtexpaymentscombr-sintaxis-de-encabezado-no-valida-e-io2vtexcom-no-permitido",
+                "pt": "relatorio-csp-apenas-erros-no-console-em-iframes-de-pagamento-iovtexpaymentscombr-sintaxe-de-cabecalho-invalida-e-io2vtexcom-nao-permitido"
               },
               "origin": "",
               "type": "markdown",
