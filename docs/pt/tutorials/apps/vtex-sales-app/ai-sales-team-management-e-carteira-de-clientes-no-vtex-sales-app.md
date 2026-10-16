@@ -139,12 +139,12 @@ O time é a unidade da estrutura de vendas no contexto do **AI Sales Team Manage
 | :--- | :--- | :--- |
 | Criar time | Nome do time. Caso esteja criando um subtime, informe também o nome do time pai. | "Crie o time Vendas Sul" / "Crie o subtime Contagem dentro do time Nordeste" / "Crie meus times de vendas: Time Sul, Time Norte, Time Nordeste." |
 | Criar subtimes por sales rep | Anexe um arquivo `.xlsx`, `.csv` ou `.txt` com os dados dos sales reps e o time de destino. | "Crie subtimes baseados na carteira de cada sales rep." / "Crie subtimes baseados na carteira de cada sales rep." |
-| Editar nome do time | Nome atual do time e o novo nome. | "Edite o time Vendas Sul para Vendas Sudeste" | "Mude o nome Vendas Sudeste para Vendas Sudeste Principal" |
-| Mover time | Nomes do time a ser movido e do time de destino. | "Mova o time Vendas Sul para dentro do time Nordeste" |
-| Visualizar detalhes do time | Identificação do time e quais informações deseja visualizar (sales reps, contratos vinculados ou subtimes). | "A quais contratos o Vendas Sul tem acesso?" / "Quais usuários existem no time Vendas Norte?" / "Quem são os sales reps do Time Sul?" |
+| Editar nome do time | Nome atual do time e o novo nome. | "Edite o time Vendas Sul para Vendas Sudeste" / "Mude o nome Vendas Sudeste para Vendas Sudeste Principal" |
+| Mover time | Nomes do time a ser movido e do time de destino. | "Mova o time Vendas Sul para dentro do time Nordeste" / "Coloque o time Vendas Sul sob o time Vendas Nordeste |
+| Visualizar detalhes do time | Nome ou ID do time + informações que deseja visualizar (sales reps, contratos vinculados ou subtimes). | "A quais contratos o Vendas Sul tem acesso?" / "Quais sales reps existem no time Vendas Norte?" |
 | Listar times | Apenas o comando. | "Liste os times" / "Mostre todos os times" |
-| Desfazer criação recente de times | Na mesma sessão, você pode desfazer times recém-criados. Para isso, informe o time. | "Desfaça a criação do time" / "Cancele a criação do Time Sul" |
-| Desativar time | Nome do time. | "Desative o time Vendas Sul" / "Remova o subtime Vendas Sudeste" |
+| Desfazer criação recente de times | Na mesma sessão, você pode desfazer times recém-criados. Para isso, informe o nome ou ID do time e a ação a ser desfeita. | "Desfaça a criação do Vendas Sul" / "Cancele o novo time 8934" |
+| Desativar time | Nome ou ID do time. | "Desative o time Vendas Sul" / "Remova o subtime Vendas Sudeste" |
 
 > ⚠️ Após transformar um time pai em um subtime, não é mais possível devolvê-lo ao nível raiz. Portanto, antes de criar os times, recomendadmos que você defina uma hierarquia que reflita o organograma da organização comercial.
 
