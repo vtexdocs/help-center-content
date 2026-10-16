@@ -680,42 +680,11 @@
             {
               "name": {
                 "en": "October",
-                "es": "October",
-                "pt": "October"
-              },
-              "slug": {
-                "en": "october",
-                "es": "october",
-                "pt": "october"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Orders: Item-level promotions display available for all stores",
-                    "es": "Orders: Item-level promotions display available for all stores",
-                    "pt": "Orders: Item-level promotions display available for all stores"
-                  },
-                  "slug": {
-                    "en": "2026-10-05-orders-item-level-promotions-display-available-for-all-stores",
-                    "es": "",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Octubre",
                 "es": "Octubre",
                 "pt": "Outubro"
               },
               "slug": {
-                "en": "octubre",
+                "en": "october",
                 "es": "octubre",
                 "pt": "outubro"
               },
@@ -724,12 +693,12 @@
               "children": [
                 {
                   "name": {
-                    "en": "Pedidos: vista de promoción por ítem disponible para todas las tiendas",
+                    "en": "Orders: Item-level promotions display available for all stores",
                     "es": "Pedidos: vista de promoción por ítem disponible para todas las tiendas",
                     "pt": "Pedidos: visualização de promoção por item disponível para todas as lojas"
                   },
                   "slug": {
-                    "en": "",
+                    "en": "2026-10-05-orders-item-level-promotions-display-available-for-all-stores",
                     "es": "2026-10-05-pedidos-vista-de-promocion-por-item-disponible-para-todas-las-tiendas",
                     "pt": "2026-10-05-pedidos-visualizacao-de-promocao-por-item-disponivel-para-todas-as-lojas"
                   },
@@ -39886,13 +39855,13 @@
             {
               "name": {
                 "en": "B2B Organizations without an address number as a valid address",
-                "es": "Organizaciones B2B sin número de dirección como dirección válida",
-                "pt": "Organizações B2B sem um número de endereço como um endereço válido"
+                "es": "Organizaciones B2B sin un número de dirección como dirección válida",
+                "pt": "Organizações B2B sem número de endereço como endereço válido"
               },
               "slug": {
                 "en": "b2b-organizations-without-an-address-number-as-a-valid-address",
-                "es": "organizaciones-b2b-sin-numero-de-direccion-como-direccion-valida",
-                "pt": "organizacoes-b2b-sem-um-numero-de-endereco-como-um-endereco-valido"
+                "es": "organizaciones-b2b-sin-un-numero-de-direccion-como-direccion-valida",
+                "pt": "organizacoes-b2b-sem-numero-de-endereco-como-endereco-valido"
               },
               "origin": "",
               "type": "markdown",
@@ -46790,12 +46759,12 @@
               "name": {
                 "en": "Order can't be created due to invalid credit card",
                 "es": "No se puede crear el pedido porque la tarjeta de crédito no es válida",
-                "pt": "Não é possível criar o pedido devido a um cartão de crédito inválido"
+                "pt": "Não foi possível criar o pedido devido a um cartão de crédito inválido."
               },
               "slug": {
                 "en": "order-cant-be-created-due-to-invalid-credit-card",
                 "es": "no-se-puede-crear-el-pedido-porque-la-tarjeta-de-credito-no-es-valida",
-                "pt": "nao-e-possivel-criar-o-pedido-devido-a-um-cartao-de-credito-invalido"
+                "pt": "nao-foi-possivel-criar-o-pedido-devido-a-um-cartao-de-credito-invalido"
               },
               "origin": "",
               "type": "markdown",
@@ -48124,8 +48093,8 @@
             {
               "name": {
                 "en": "Orders with asterisks in the address and profile",
-                "es": "Pedidos con asteriscos en la dirección y el perfil",
-                "pt": "Pedidos com asteriscos no endereço e no perfil"
+                "es": "Pedidos con asteriscos en la dirección y el perfil.",
+                "pt": "Pedidos com asteriscos no endereço e no perfil."
               },
               "slug": {
                 "en": "orders-with-asterisks-in-the-address-and-profile",
@@ -52180,13 +52149,13 @@
             {
               "name": {
                 "en": "Divergence in the number of used permissions in the Security Monitor",
-                "es": "Divergencia en el número de permisos utilizados en el Monitor de Seguridad",
-                "pt": "Divergência no número de permissões usadas no Security Monitor"
+                "es": "Divergencia en el número de permisos utilizados en el Monitor de seguridad",
+                "pt": "Divergência no número de permissões utilizadas no Monitor de Segurança"
               },
               "slug": {
                 "en": "divergence-in-the-number-of-used-permissions-in-the-security-monitor",
                 "es": "divergencia-en-el-numero-de-permisos-utilizados-en-el-monitor-de-seguridad",
-                "pt": "divergencia-no-numero-de-permissoes-usadas-no-security-monitor"
+                "pt": "divergencia-no-numero-de-permissoes-utilizadas-no-monitor-de-seguranca"
               },
               "origin": "",
               "type": "markdown",
@@ -52465,6 +52434,21 @@
             },
             {
               "name": {
+                "en": "Intelligent Search multilanguage doesn't support 2 variations of the same language/idiom",
+                "es": "La búsqueda inteligente multilingüe no admite dos variaciones del mismo idioma o modismo.",
+                "pt": "A Busca Inteligente multilíngue não suporta duas variações da mesma língua/idioma."
+              },
+              "slug": {
+                "en": "intelligent-search-multilanguage-doesnt-support-2-variations-of-the-same-languageidiom",
+                "es": "la-busqueda-inteligente-multilingue-no-admite-dos-variaciones-del-mismo-idioma-o-modismo",
+                "pt": "a-busca-inteligente-multilingue-nao-suporta-duas-variacoes-da-mesma-linguaidioma"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Intelligent Search returns products generated by SKU split with incorrect availability",
                 "es": "La búsqueda inteligente devuelve productos generados por división de SKU con disponibilidad incorrecta.",
                 "pt": "A Busca Inteligente retorna produtos gerados pela divisão de SKU com disponibilidade incorreta."
@@ -52645,6 +52629,21 @@
             },
             {
               "name": {
+                "en": "Show more pagination repeats products after “Show less” back to page 1",
+                "es": "Mostrar más paginación repite los productos después de “Mostrar menos” volver a la página 1",
+                "pt": "A paginação \"Mostrar mais\" repete os produtos após \"Mostrar menos\" e retorna à página 1."
+              },
+              "slug": {
+                "en": "show-more-pagination-repeats-products-after-show-less-back-to-page-1",
+                "es": "mostrar-mas-paginacion-repite-los-productos-despues-de-mostrar-menos-volver-a-la-pagina-1",
+                "pt": "a-paginacao-mostrar-mais-repete-os-produtos-apos-mostrar-menos-e-retorna-a-pagina-1"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Intelligent Search's pagination of field values is limited to 9,999 items",
                 "es": "La paginación de los valores de los campos de la Búsqueda Inteligente está limitada a 9.999 elementos",
                 "pt": "A paginação inteligente dos valores de campo da Busca Inteligente é limitada a 9.999 itens"
@@ -52698,21 +52697,6 @@
                 "en": "intelligent-search-facets-hides-selected-parent-facet-in-multiselect-drilldown",
                 "es": "la-funcion-de-busqueda-inteligente-oculta-la-faceta-principal-seleccionada-en-la-exploracion-en-profundidad-de-seleccion-multiple",
                 "pt": "a-pesquisa-inteligente-de-facetas-oculta-a-faceta-principal-selecionada-na-selecao-multipla-com-detalhamento"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Intelligent Search multilanguage doesn't support 2 variations of the same language/idiom",
-                "es": "La búsqueda inteligente multilingüe no admite dos variantes del mismo idioma o jerga.",
-                "pt": "A Pesquisa Inteligente multilíngue não suporta duas variações do mesmo idioma"
-              },
-              "slug": {
-                "en": "intelligent-search-multilanguage-doesnt-support-2-variations-of-the-same-languageidiom",
-                "es": "la-busqueda-inteligente-multilingue-no-admite-dos-variantes-del-mismo-idioma-o-jerga",
-                "pt": "a-pesquisa-inteligente-multilingue-nao-suporta-duas-variacoes-do-mesmo-idioma"
               },
               "origin": "",
               "type": "markdown",
@@ -53200,21 +53184,6 @@
             },
             {
               "name": {
-                "en": "Filters by SKU specifications not considering regionalized availability",
-                "es": "Filtros por especificaciones SKU sin tener en cuenta la disponibilidad regionalizada",
-                "pt": "Filtra por especificações de SKU sem considerar a disponibilidade regionalizada"
-              },
-              "slug": {
-                "en": "filters-by-sku-specifications-not-considering-regionalized-availability",
-                "es": "filtros-por-especificaciones-sku-sin-tener-en-cuenta-la-disponibilidad-regionalizada",
-                "pt": "filtra-por-especificacoes-de-sku-sem-considerar-a-disponibilidade-regionalizada"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Price filter applied on top of \"spot price\" instead of regular price",
                 "es": "El filtro de precios se aplica al «precio al contado» en lugar de al precio habitual",
                 "pt": "Filtro de preço aplicado sobre o \"preço à vista\" em vez do preço normal"
@@ -53238,6 +53207,21 @@
                 "en": "filters-by-sku-specifications-not-considering-specific-trade-policy",
                 "es": "filtra-por-especificaciones-sku-sin-tener-en-cuenta-la-politica-comercial-especifica",
                 "pt": "filtros-por-especificacoes-de-sku-que-nao-consideram-uma-politica-comercial-especifica"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Filters by SKU specifications not considering regionalized availability",
+                "es": "Filtros por especificaciones de SKU sin tener en cuenta la disponibilidad regional.",
+                "pt": "Filtros por especificações de SKU, sem considerar a disponibilidade regional."
+              },
+              "slug": {
+                "en": "filters-by-sku-specifications-not-considering-regionalized-availability",
+                "es": "filtros-por-especificaciones-de-sku-sin-tener-en-cuenta-la-disponibilidad-regional",
+                "pt": "filtros-por-especificacoes-de-sku-sem-considerar-a-disponibilidade-regional"
               },
               "origin": "",
               "type": "markdown",
@@ -53501,13 +53485,13 @@
             {
               "name": {
                 "en": "PLP does not load when facet values are reserved words",
-                "es": "PLP no se carga cuando los valores de las facetas son palabras reservadas",
-                "pt": "O PLP não é carregado quando os valores da faceta são palavras reservadas"
+                "es": "PLP no se carga cuando los valores de faceta son palabras reservadas.",
+                "pt": "O PLP não carrega quando os valores das facetas são palavras reservadas."
               },
               "slug": {
                 "en": "plp-does-not-load-when-facet-values-are-reserved-words",
-                "es": "plp-no-se-carga-cuando-los-valores-de-las-facetas-son-palabras-reservadas",
-                "pt": "o-plp-nao-e-carregado-quando-os-valores-da-faceta-sao-palavras-reservadas"
+                "es": "plp-no-se-carga-cuando-los-valores-de-faceta-son-palabras-reservadas",
+                "pt": "o-plp-nao-carrega-quando-os-valores-das-facetas-sao-palavras-reservadas"
               },
               "origin": "",
               "type": "markdown",
@@ -64252,21 +64236,6 @@
             },
             {
               "name": {
-                "en": "PS – Only one agent receives email notification in active call",
-                "es": "PS - Sólo un agente recibe notificación por correo electrónico en llamada activa",
-                "pt": "PS - Somente um agente recebe notificação por e-mail em uma chamada ativa"
-              },
-              "slug": {
-                "en": "ps-only-one-agent-receives-email-notification-in-active-call",
-                "es": "ps-solo-un-agente-recibe-notificacion-por-correo-electronico-en-llamada-activa",
-                "pt": "ps-somente-um-agente-recebe-notificacao-por-email-em-uma-chamada-ativa"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Pick and Pack | Single Order Generating Multiple Worksheets Due to Concurrency Issue",
                 "es": "Seleccionar y empaquetar | Un solo pedido genera varias hojas de cálculo debido a un problema de concurrencia",
                 "pt": "Selecionar e embalar | Pedido único gerando várias planilhas devido a um problema de simultaneidade"
@@ -66393,6 +66362,21 @@
                 "en": "inconsistent-gift-calculation-when-mixing-eligible-skus-in-buy-one-get-one-promotion",
                 "es": "calculo-inconsistente-del-regalo-al-combinar-sku-elegibles-en-la-promocion-compre-uno-y-llevese-otro-gratis",
                 "pt": "calculo-inconsistente-de-brindes-ao-misturar-skus-elegiveis-na-promocao-compre-um-e-leve-outro"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Incorrect Discount Calculation in Multi Payment Method promotions",
+                "es": "Cálculo incorrecto del descuento en promociones con múltiples métodos de pago.",
+                "pt": "Cálculo incorreto de desconto em promoções com múltiplos métodos de pagamento."
+              },
+              "slug": {
+                "en": "incorrect-discount-calculation-in-multi-payment-method-promotions",
+                "es": "calculo-incorrecto-del-descuento-en-promociones-con-multiples-metodos-de-pago",
+                "pt": "calculo-incorreto-de-desconto-em-promocoes-com-multiplos-metodos-de-pagamento"
               },
               "origin": "",
               "type": "markdown",
@@ -70218,6 +70202,21 @@
             },
             {
               "name": {
+                "en": "Mercado Livre Package dimensions are now mandatory for ME1 items on Mercado Livre",
+                "es": "Mercado Livre Las dimensiones del paquete ahora son obligatorias para los artículos ME1 en Mercado Livre",
+                "pt": "Mercado Livre Dimensões das embalagens agora são obrigatórias para itens ME1 no Mercado Livre"
+              },
+              "slug": {
+                "en": "mercado-livre-package-dimensions-are-now-mandatory-for-me1-items-on-mercado-livre",
+                "es": "mercado-livre-las-dimensiones-del-paquete-ahora-son-obligatorias-para-los-articulos-me1-en-mercado-livre",
+                "pt": "mercado-livre-dimensoes-das-embalagens-agora-sao-obrigatorias-para-itens-me1-no-mercado-livre"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Mercado Livre Order fails to reprocess when shipment is cancelled (ERR_UNAVAILABLE_SLA)",
                 "es": "Mercado Livre El pedido no se puede reprocesar cuando se cancela el envío (ERR_UNAVAILABLE_SLA)",
                 "pt": "Mercado Livre O pedido não pode ser reprocessado quando o envio é cancelado (ERR_UNAVAILABLE_SLA)"
@@ -70338,14 +70337,14 @@
             },
             {
               "name": {
-                "en": "Shopee Product Protection amount is added to the shipping total of integrated orders",
-                "es": "Shopee El importe de la protección del producto se añade al total del envío de los pedidos integrados.",
-                "pt": "Shopee O valor da Proteção do Produto é adicionado ao total do frete de pedidos integrados."
+                "en": "Shopee Product Protection amount is added to the order total of integrated orders",
+                "es": "Shopee El importe de la protección del producto se añade al total del pedido en los pedidos integrados.",
+                "pt": "Shopee O valor da Proteção do Produto é adicionado ao total do pedido em pedidos integrados."
               },
               "slug": {
-                "en": "shopee-product-protection-amount-is-added-to-the-shipping-total-of-integrated-orders",
-                "es": "shopee-el-importe-de-la-proteccion-del-producto-se-anade-al-total-del-envio-de-los-pedidos-integrados",
-                "pt": "shopee-o-valor-da-protecao-do-produto-e-adicionado-ao-total-do-frete-de-pedidos-integrados"
+                "en": "shopee-product-protection-amount-is-added-to-the-order-total-of-integrated-orders",
+                "es": "shopee-el-importe-de-la-proteccion-del-producto-se-anade-al-total-del-pedido-en-los-pedidos-integrados",
+                "pt": "shopee-o-valor-da-protecao-do-produto-e-adicionado-ao-total-do-pedido-em-pedidos-integrados"
               },
               "origin": "",
               "type": "markdown",
