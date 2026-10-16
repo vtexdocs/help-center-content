@@ -112,7 +112,7 @@ Com o **AI Sales Team Management** você pode:
 - [Realizar ações em carteiras de clientes](#realizar-acoes-em-carteiras-de-clientes)
 - [Realizar ações em massa em times, sales reps e carteiras de clientes](#realizar-acoes-em-massa-em-times-sales-reps-e-carteiras-de-clientes)
 
-As ações só podem ser executadas por usuários com as [permissões de acesso](#permissoes-de-acesso) necessárias.
+As ações são executadas somente após a [confirmação do plano](#revisao-e-confirmacao-do-plano) por um usuário com as [permissões de acesso](#permissoes-de-acesso) necessárias.
 
 > ⚠️ Os exemplos de instrução apresentados nas seções são ilustrativos e não a única forma do agente entender e executar uma ação.
 
