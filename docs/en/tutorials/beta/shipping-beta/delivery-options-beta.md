@@ -65,6 +65,10 @@ To create a delivery option, follow the steps below:
 
    ### Delivery pricing (optional)
 
+   Assigning pricing to a delivery option is optional. With delivery pricing, the shipping options displayed at checkout use the same names as your delivery options, and you can associate a price with each one. This keeps the experience consistent throughout the shopping journey: on the product listing page (PLP), product details page (PDP), and checkout, customers see the same delivery option names they used to filter products. Delivery pricing rules are simpler and less granular than [shipping policy](/en/docs/tutorials/shipping-policy) rules, and they exist to keep this consistency.
+
+   We recommend activating and using delivery options as filters in the store first, and only then considering assigning pricing. If you don't want to assign pricing to a delivery option, select **Cost pass-through**, which is the recommended option.
+
    - **Pricing**: Pricing conditions of the delivery option. The pricing models applied to each segmentation are: **Fixed amount**, a single price applied to all carts; **Markup**, a profit percentage added to the shipping amount; and **Cost pass-through**, where the store bears the cost of the delivery option. You can combine pricing options. The pricing conditions are defined based on the following segmentations:
      - **All carts**: The price will be applied to all carts created in the store.
      - **Sales channels**: The price will be applied to a specific sales channel.
