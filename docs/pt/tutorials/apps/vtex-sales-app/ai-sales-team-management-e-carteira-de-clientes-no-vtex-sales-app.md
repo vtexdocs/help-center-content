@@ -42,7 +42,7 @@ A tabela a seguir apresenta a terminologia utilizada no **AI Sales Team Manageme
 | **Termo** | **Significado** |
 | :---- | :---- |
 | [Time](#realizar-acoes-em-times) | Agrupamento de pessoas que constitui a unidade da estrutura de vendas. Pode ser organizado de forma hierárquica com times e subtimes, refletindo o organograma da organização comercial. |
-| [Sales rep](#realizar-acoes-em-sales-reps) | Pessoa do time comercial registrada via agente. O sales rep precisa ser um [usuário](https://help.vtex.com/pt/docs/tutorials/gerenciar-usuarios-administrativos) da conta com o perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person). O agente não cria perfis de acesso. |
+| [Sales rep](#realizar-acoes-em-sales-reps) | Pessoa do time comercial registrada via agente. O sales rep precisa ser um [usuário](https://help.vtex.com/pt/docs/tutorials/gerenciar-usuarios-administrativos) da conta com o perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person), que é atribuído pelo agente de forma padrão na criação do sales rep. Não é possível atribuir outro perfil de acesso a sales reps pelo agente, e ele também não cria [perfis de acesso](https://help.vtex.com/pt/docs/tutorials/criar-perfil-de-acesso). |
 | [Carteira de clientes](#realizar-acoes-em-carteiras-de-clientes) | Vínculo entre um contrato e um time ou subtime, que permite aos sales reps visualizar e criar pedidos relacionados ao contrato. Saiba mais em [Acesso de times a contratos](#acesso-de-times-a-contratos). |
 | [Contrato B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) | Contrato B2B, previamente cadastrado na conta, utilizado na criação de carteiras de clientes. |
 
@@ -91,7 +91,7 @@ O **AI Sales Team Management** tem as seguintes restrições:
 - ❌ Não acessa nem altera dados de compradores, contatos ou organizações do [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt).
 - ❌ Não cria contratos B2B.
 - ❌ Não envia emails ou outras mensagens.
-- ❌ Não configura permissões de acesso de usuários.
+- ❌ Não configura permissões de acesso de usuários. A única exceção é o perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person), atribuído por padrão na criação de sales reps.
 - ❌ Não mostra histórico de auditoria. Para consultar o histórico, use o [Audit](https://help.vtex.com/pt/docs/tutorials/audit).
 
 ## Gerenciar times, sales reps e carteiras de clientes
@@ -109,13 +109,15 @@ As ações só podem ser executadas por usuários com as [permissões de acesso]
 
 ### Realizar ações em sales reps
 
-Os integrantes do time são cadastrados pelo **AI Sales Team Management** e chamados de sales reps. Para poder acessar o Admin VTEX, esses usuários precisam ter o perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person). O agente não cria [perfis de acesso](https://help.vtex.com/pt/docs/tutorials/criar-perfil-de-acesso).
+Os integrantes do time são cadastrados pelo **AI Sales Team Management** e chamados de sales reps. Para poder acessar o Admin VTEX, esses usuários precisam ter o perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person).
+
+Ao criar um sales rep, o agente atribui o perfil **inStore Sales Person** por padrão e pede a sua confirmação antes de prosseguir. Não é possível atribuir outro perfil de acesso a sales reps pelo agente, que também não cria [perfis de acesso](https://help.vtex.com/pt/docs/tutorials/criar-perfil-de-acesso).
 
 A tabela a seguir apresenta as ações que você pode realizar em sales reps:
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
-| Criar sales rep | Nome do sales rep, email e time. O código do vendedor e da loja são opcionais. | "Crie o sales rep José Almeida, `jose@acme.com` no time Nordeste" / "Registre o sales rep Ricardo Alves, `ricardo.alves@empresa.com` código 204 e loja 578 no Vendas Norte" |
+| Criar sales rep | Nome do sales rep, email e time. O código do vendedor e da loja são opcionais. O agente atribui o perfil **inStore Sales Person** por padrão. | "Crie o sales rep José Almeida, `jose@acme.com` no time Nordeste" / "Registre o sales rep Ricardo Alves, `ricardo.alves@empresa.com` código 204 e loja 578 no Vendas Norte" |
 | Adicionar sales rep ao time | Nome do sales rep, email e time. | "Adicione o sales rep Ricardo Alves no time Vendas Norte, email `ricardo.alves@empresa.com`." |
 | Visualizar informações do sales rep | Nome do sales rep. | "O Ricardo Alves pertence a quais times?" / "O sales rep José Almeida atende quais contratos?" |
 | Buscar sales rep | Email ou ID do sales rep. | "Busque o sales rep José Almeida, `jose@acme.com`" / "Procure o sales rep `d9b3a77b-14fa-421a-94d8-b60330993872`" |
