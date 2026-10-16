@@ -11,36 +11,19 @@ trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 1
 ---
 
-VTEX Sales App is VTEX's main solution for Unified Commerce operations. It's an app that allows you to integrate your online and physical sales channels, putting your customers at the center of the business.
+**VTEX Sales App** is a VTEX add-on that extends ecommerce to physical retail. It provides a mobile and desktop interface for sales associates and sales representatives to sell from local inventory and the online catalog. The solution enables new B2C sales channels, such as in-store support chat, pop-up events, and telesales, connecting physical and digital channels.
 
-Using VTEX Sales App, sales associates from your physical stores can serve customers in a personalized way and complete the entire sales process from helping to choose the right products to payment and delivery. 
+By unifying data and sales tools across channels, **Sales App** reduces lost sales due to stockouts, expands the assortment available to customers, and increases order capture, with integrated management of orders, payments, and customers.
 
-And what’s more important: they will do that using one single database, which guarantees the Unified Commerce experience.
+## Key benefits
 
-With that, you’ll be able to implement an Endless Aisle strategy, which helps you to:
+- Enables end-to-end omnichannel order flows, including endless aisle, local inventory sales, and unified checkout across channels.
+- Supports new B2C sales models, such as remote sales, pop-up stores, and in-person events, with a mobile-first experience integrated with VTEX.
+- Operates alongside or in place of a point-of-sale (POS) system, depending on the level of integration and the extensions the store uses.
+- Allows sales associates to start and complete sales anywhere in the store, with mixed carts that combine shipping, pickup, and real-time local inventory, reducing wait times.
 
-- Avoid stockout and never miss a sale.
-- Have real-time visibility of your inventory.
-- Benefit from an intelligent search and items lookup, when [Intelligent Search](/en/docs/tracks/overview-intelligent-search) is installed on the website. .
-- Build mixed cart transactions.
+## Native integration with VTEX
 
-Finally, with VTEX Sales App, the purchasing process becomes faster, both while adding products to the cart and during payment and confirmation.
+**Sales App** is natively integrated with VTEX catalog, inventory, promotions, pricing, and orders, which simplifies setup for merchants. This integration gives sales associates a unified view of store customers, allowing them to create seamless cross-channel shopping experiences.
 
-The checkout process no longer needs to be done from a physical and fixed location. Starting and finishing sales can be done anywhere in the store, which reduces queues and makes the customer experience smoother.
-
-Your sales associates will have a 360º view of the consumer and will be able to create memorable and frictionless shopping experiences.
-
-VTEX Sales App is one of the key products in your Unified Commerce or Omnichannel strategy. And the guides and tutorials you’ll find here will show you the way to set it all up in record time. 
-
-### Learn more
-
-See below all the recommended guides to get started with VTEX Sales App.
-
-* **[VTEX Sales App - Getting started and setting up](/en/docs/tracks/vtex-sales-app-getting-started-and-setting-up)**: concepts, prerequisites and instructions for you to set up VTEX Sales App. **You are on this track.**
-* **[VTEX Sales App - Payments](/en/docs/tracks/vtex-sales-app-payments)**: the step-by-step to set up the payment methods by each certified acquirer.
-* **[VTEX Sales App - Using the app](/en/docs/tracks/vtex-sales-app-using-the-app)**: the VTEX Sales App app features and how to use them.
-* **[Unified Commerce Strategies](/en/docs/tracks/configuring-physical-stores-as-pickup-points)**: step-by-step guides to implement some of the main Unified Commerce strategies at VTEX.
-
-To see all VTEX Sales App related tracks, click on **[`Start here`](/en/tracks/)** at the top of the page and scroll down to the **Omnichannel** category.
-
-Click `Next` to access the next articles in the **[VTEX Sales App - Getting Started and Configuring](/en/docs/tracks/vtex-sales-app-getting-started-and-setting-up)** track.
+This article shows you how to configure **Sales App** for your use case.
