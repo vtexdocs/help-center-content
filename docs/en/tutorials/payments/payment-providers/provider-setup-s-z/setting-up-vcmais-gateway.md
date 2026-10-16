@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-On the VTEX platform, you may set up VC+ [gateway](/en/docs/tutorials/financial-agents-in-the-payment-flow#gateway) to receive payments through Notes Payable.
+On the VTEX platform, you can set up the VC+ [gateway](/en/docs/tutorials/financial-agents-in-the-payment-flow#gateway) to receive payments through notes payable.
 
 To set VC+ up, follow the steps below:
 

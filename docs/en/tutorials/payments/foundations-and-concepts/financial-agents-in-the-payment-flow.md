@@ -1,76 +1,98 @@
 ---
 title: 'Financial agents in the payment flow'
-id: 1dyPJ3gQCCO4ea2o6OMgCi
-status: PUBLISHED
 createdAt: 2017-10-11T19:08:49.654Z
-updatedAt: 2026-09-24T20:15:00.000Z
-publishedAt: 2024-03-18T18:55:40.724Z
-firstPublishedAt: 2017-10-11T19:34:43.203Z
+updatedAt: 2026-10-01T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 245tA425AIeioKAk2eaiwS
 slugEN: financial-agents-in-the-payment-flow
-legacySlug: what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil
 locale: en
-subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
+hidden: false
 ---
 
-It is common for customers to be in doubt about the payment methods used during an order's payment flow.
+In this article, you'll learn about the financial agents involved in the payment flow on VTEX: gateway, acquirer, sub-acquirer, card network, issuing bank, and anti-fraud solution.
 
-In this article, we will clarify the concepts of acquirer, sub-aquirer, gateway, credit card brands, issuing bank and anti-fraud, as well as their role in an order's flow. 
+These concepts apply to the entire Payments module, but the complete sequence of all six agents describes the **credit card** flow. The other payment methods use only part of these roles: the gateway acts on methods processed by the platform, and the card network acts only on card transactions.
 
 ## Gateway
 
-A gateway (also called payment gateway) is a __system that transmits data from purchases made in your store at checkout__.
+A gateway (also called payment gateway) is a **system that transmits data from purchases made in your store at checkout**.
 
-As the first player in the flow, it's responsible for sending this information to acquirers, card brands and [issuing banks](#issuing-bank) then obtain a response about the continuation of the process or its cancellation. In other words, the gateway sends data and receives responses so that you know whether or not a particular purchase should be confirmed, showing whether the payment was approved or not. 
+It's the first agent in the flow. It sends the payment information to acquirers, card networks, and issuing banks, and receives a response confirming or canceling the purchase.
 
-As an intermediary between an e-commerce and its payment method used, the gateway acts as a terminal, integrating in all the transactions carried out between the players of the payment flow in a single place.
+The gateway acts as a terminal, centralizing the transactions between the agents in the flow, both for card payments and for other methods configured in your store, such as boleto and Pix (Brazilian payment methods).
 
-By activating the [connectors](/en/docs/tutorials/what-is-the-connector) and registering [payment and anti-fraud providers](https://help.vtex.com/en/docs/tutorials/registering-gateway-affiliations), your client's shopping data can be sent to acquirers or other gateways and thus move on through the approval flow in financial institutions.
+By activating the [connectors](/en/docs/tutorials/what-is-the-connector) and registering [payment and anti-fraud providers](https://help.vtex.com/en/docs/tutorials/registering-gateway-affiliations), your customers' purchase data can be sent to acquirers or other gateways, thereby moving through the approval flow at financial institutions.
 
-VTEX platform has its own [PCI](/en/docs/tutorials/what-is-the-pci-ssc) certified gateway, which means that data from any payment made in your store is protected according to the highest security standards.
+The VTEX platform has its own [PCI](/en/docs/tutorials/what-is-the-pci-ssc) certified gateway, which means that data from any payment made in your store is protected according to the highest security standards.
 
 ## Acquirer
 
-An acquirer (also called a creditor) is a __company that specializes in processing payments__, meaning that it processes credit or debit card payments on behalf of a merchant.  Through its network of accredited partners (or acquiring network), it enables a store to offer various payment conditions to its customers.
+An acquirer (also called an acquiring bank) is a company that specializes in processing payments, meaning it processes credit or debit card payments on behalf of a merchant. Through its network of accredited partners (or acquiring network), it enables a store to offer various payment conditions to its customers.
 
-The acquirer receives the payment information, processes it and passes it to the [card brand](#credit-card-brand) (when the payment method is credit card) and the [issuing bank](#issuing-bank). Some examples of acquirers are: Rede, Cielo, GetNet and Stone.
+The acquirer receives the payment information, processes it, and passes it to the [card network](#card-network) (when the payment method is a credit card) and the [issuing bank](#issuing-bank). Examples of acquirers include Rede, Cielo, GetNet, and Stone.
 
-For your store to be able to receive payments, you must enable its communication with an acquirer. This is done through a [gateway](#gateway), which must be configured to process the [payment conditions](/en/docs/tutorials/how-to-configure-payment-conditions). With that, purchases can follow the approval flow.
+To receive payments, your store needs to communicate with an acquirer. This is done through a [gateway](#gateway), which must be configured to process the [payment conditions](/en/docs/tutorials/how-to-configure-payment-conditions).
 
-When everything is in order and a purchase is authorized by the other players within the purchase flow, the acquirer is responsible for transferring the values (which the issuing bank receives from the customer) to the account of your store.
+When a purchase is authorized by other agents in the purchase flow, the acquirer transfers the funds (which the issuing bank receives from the customer) to your store's account.
 
 ## Sub-acquirer
 
-A sub-acquirer is a company that processes payments and transmits the generated data to the other players involved in the [payment flow](/en/docs/tutorials/credit-card-basic-payment-flow). Its role is similar to that of an acquirer, but it doesn't completely replace it due to the lack of autonomy to perform all the funcilnatilies of an acquirer. 
+A sub-acquirer is the company that processes payments and transmits the data to other agents in the flow. Its role is similar to that of an acquirer, but it doesn't fully replace one because it lacks the autonomy to perform all acquirer functions.
 
-A sub-acquirer can therefore __be understood as a kind of intermediary player between acquirer and store__. Some examples of sub-acquirers are: PagSeguro e Paypal.
+You can think of the sub-acquirer as an intermediary between the acquirer and your store. Examples of sub-acquirers include PagSeguro and PayPal.
 
-The main advantages of a sub-acquirer are its low implementation cost , own anti-fraud system and ease of integration which makes this a very attractive solution for small stores. On the other hand,  the choice of using the sub-acquirer may jeopardize the retailer's profits because of the high rates charged for each transaction (greater than the acquirers). 
+The main advantages of a sub-acquirer are its low implementation cost, its own anti-fraud system, and ease of integration, which makes this a very attractive solution for small stores. On the other hand,  the choice of using the sub-acquirer may jeopardize the retailer's profits because of the high rates charged for each transaction (greater than the acquirers).
 
-Another negative factor for retailers is the redirection of the customer to the sub-acquirer's own page during the final steps of the checkout, which can lead to higher withdrawal rates.
+Another negative factor for retailers is the redirection of customers to the sub-acquirer's page during the final steps of checkout, which can lead to higher cart abandonment rates.
 
-## Credit Card Brand
+## Card network
 
-Card brands are companies responsible for defining the business rules for purchases made using a credit card, such as installments or which national and international stores accept that particular card. They are the ones who define the standards by which the [acquirer](#acquirer) must process the transactions carried out by this payment method (each brand has its own rules). Some examples of card brands are: Mastercard, American Express and Visa. 
+Card networks set the business rules for credit card purchases, such as the number of installments a customer can split a payment into and the merchants that accept the card domestically and abroad. They also set the standards that acquirers follow to process these transactions, and each card network has its own rules. Examples of card networks include Mastercard, American Express, and Visa.
 
-These brands keep a close relationship with the acquirers to guarantee the acceptance of their credit cards in establishments. They therefore promote the use of credit cards and broaden the user base.
+These networks maintain close relationships with acquirers to ensure their credit cards are accepted at establishments. They therefore promote the use of credit cards and broaden the user base.
 
-In the [credit card payment flow](/en/docs/tutorials/credit-card-basic-payment-flow), the brand receives the information of the purchase made in your store from the acquirer. It then validates the conditions (such as the number of installments) and sends the data to the issuing bank, which verifies that the buyer has sufficient limit available. Hence, the card brand serves  to both regulate the use of the card and as a bridge between the acquirer and the consumer's bank.
+In the [credit card payment flow](/en/docs/tutorials/credit-card-basic-payment-flow), the network receives purchase information from the acquirer for a purchase made in your store. It then validates the conditions (such as the number of installments) and sends the data to the issuing bank, which verifies that the customer has sufficient limit available. Hence, the card network both regulates card use and acts as a bridge between the acquirer and the customer's bank.
 
-## Issuing Bank
+## Issuing bank
 
-The issuing bank is the financial institution responsible for the payment method, be it by Boleto, debit or credit card. It is the one who, when receiving the data of a purchase made in your store, will either authorize the sale or not (depending on the  available credit limit or available monetary resources in the user's account). If everything is OK, the bank collects the value.
+The issuing bank is the financial institution that issues payment methods, such as credit and debit cards. Upon receiving purchase data from your store, it authorizes or denies the sale based on the customer's available credit limit or balance. Once the sale is authorized, the bank completes the charge.
 
-This concept is important because it allows you to set up [special conditions](/en/docs/tutorials/special-conditions) for payments made through specific banks. In addition, for registered payment tickets, each bank has its own form of issuance.
+This is important because you can set up [special conditions](/en/docs/tutorials/special-conditions) for payments made through specific banks.
 
-## Anti-fraud
+## Anti-fraud solution
 
-Anti-fraud is a system specialized in analyzing the purchases made on websites, in order to identify fraudulent transactions.
+An anti-fraud solution is a system that analyzes purchases made on websites to identify fraudulent transactions.
 
-It collects data about the behavior of users and compares them with suspicious patterns to then approve or deny the order. The anti-fraud therefore adds an extra layer of security to your store.
+It collects data about customer behavior and compares it with suspicious patterns to approve or deny the order. The anti-fraud solution adds an extra layer of security to your store.
 
-At VTEX, the payment operator first approves the purchase and then the anti-fraud assesses the order. If everything goes OK, it follows its normal flow. Some examples of anti-fraud are: ClearSale and Konduto. 
+On VTEX, the payment operator approves the purchase first, and the anti-fraud solution then evaluates the order. If the order is approved, it follows its normal flow. Examples of anti-fraud solutions include ClearSale and Konduto.
 
-> ℹ️ It is important to emphasize that each business depends on specific factors that influence the decision of which modality to use. There are several variables that can determine the choice of a payment method and what your financial flow will be. It is critical, therefore, to keep the actual needs and purposes of the retailer and desired project in mind.
+To enable an anti-fraud solution in your store, see [Configuring the anti-fraud](https://help.vtex.com/docs/tutorials/how-to-configure-the-anti-fraud).
+
+## Payment flow sequence
+
+The following sequence describes the credit card flow:
+
+1. At checkout, the customer chooses credit card as the payment method.
+2. The checkout sends the payment information to the gateway.
+3. The gateway forwards the information to the acquirer or sub-acquirer.
+4. The acquirer sends the data to the card network, which validates the card rules, such as the number of installments.
+5. The card network sends the information to the issuing bank, which performs the credit analysis, checks the available limit, and authorizes or denies the payment.
+6. The issuing bank's response follows the reverse path back to the gateway, which registers the payment as pre-authorized.
+7. If the anti-fraud solution is part of the flow, the gateway informs it that the payment was pre-authorized, and it responds with approval or denial. If the anti-fraud solution denies it, the payment is canceled.
+8. Upon final approval, the gateway informs your store that the payment was approved, and the acquirer completes the financial settlement, transferring the funds to your store's account.
+
+### Local payment methods in Brazil
+
+The flow formed by the gateway, acquirer, card network, and issuing bank doesn't apply to all payment methods. In Brazil, for example:
+
+- **Registered boleto:** The flow doesn't have an acquirer or a card network. The gateway requests the boleto registration from the bank, which issues the invoice and sends the information back to the gateway. After the customer pays the boleto directly to the bank, the bank sends the gateway the bank reconciliation files with the payment status. See [Registered Ticket - Basic payment flow](https://help.vtex.com/docs/tutorials/registered-ticket-flow).
+- **Pix:** Processing depends on a payment partner integrated with VTEX, such as a bank, acquirer, or gateway. At checkout, this partner sends the QR code via the API, and VTEX displays it for the customer to complete the transaction with their financial institution. See [Pix: FAQ](/en/docs/tutorials/pix-faq).
+
+> ℹ️ The choice of agents and payment methods depends on your operation's needs. Evaluate your business's variables before defining your store's financial flow.
+
+## Next steps
+
+- [Register payment and anti-fraud providers](/en/docs/tutorials/registering-gateway-affiliations)
+- [Configuring payment conditions](/en/docs/tutorials/how-to-configure-payment-conditions)
+- [Configuring the anti-fraud](https://help.vtex.com/docs/tutorials/how-to-configure-the-anti-fraud)
