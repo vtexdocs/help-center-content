@@ -17,7 +17,7 @@ subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 
 **Opciones de envío** es una página del Admin VTEX que permite configurar ofertas de entrega flexibles y precisas durante el proceso de compra, como definir diferentes tipos de disponibilidad de envío/entrega y zonas geográficas, y controlar cómo y cuándo se muestran estas opciones al cliente.
 
-> ℹ️ Las Opciones de envío deben usarse junto con [Delivery Promise](/es/docs/tutorials/delivery-promise): las opciones de envío configuradas se muestran como filtros de envío en la búsqueda de la tienda, para que el cliente vea solo los productos que puede recibir con el método y el plazo de entrega elegidos. Las Opciones de envío se activan en el [flujo de activación de Delivery Promise](/es/docs/tutorials/activar-delivery-promise) en el Admin VTEX, en el paso **(Opcional) Paso 2: Revisar las Opciones de envío**. No es necesario ponerse en contacto con el Soporte VTEX para activar la funcionalidad.
+> ℹ️ Las Opciones de envío deben usarse junto con [Delivery Promise](/es/docs/tutorials/delivery-promise): las opciones de envío configuradas se muestran como filtros de envío en la búsqueda de la tienda, para que el cliente vea solo los productos que puede recibir con el método y el plazo de entrega elegidos. Las Opciones de envío se activan en el [flujo de activación de Delivery Promise](/es/docs/tutorials/activar-delivery-promise) en el Admin VTEX, en el paso **(Opcional) Paso 2: Revisar las Opciones de envío**.
 
 Esto proporciona a los retailers autonomía para crear, configurar y gestionar las opciones de envío como contenido estratégico dentro de la plataforma VTEX, y una mayor flexibilidad para alinear la capacidad logística con los objetivos comerciales, optimizando la experiencia de compra de los clientes.
 
