@@ -3,7 +3,7 @@ title: '¿Qué es 3D Secure?'
 id: 1eWPdop8mECuaEomQgkAIa
 status: PUBLISHED
 createdAt: 2018-03-02T13:13:14.436Z
-updatedAt: 2021-03-30T14:56:15.059Z
+updatedAt: 2026-09-29T13:20:00.000Z
 publishedAt: 2021-03-30T14:56:15.059Z
 firstPublishedAt: 2018-03-02T14:22:05.892Z
 contentType: tutorial

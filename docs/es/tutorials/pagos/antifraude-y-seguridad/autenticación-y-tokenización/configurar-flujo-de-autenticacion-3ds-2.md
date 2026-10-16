@@ -3,7 +3,7 @@ title: 'Configurar flujo de autenticación 3DS 2'
 id: 58XMn5LOA6fwrSkoDoAsg2
 status: PUBLISHED
 createdAt: 2020-11-26T18:03:32.678Z
-updatedAt: 2025-06-02T17:06:50.600Z
+updatedAt: 2026-09-29T12:58:00.000Z
 publishedAt: 2025-06-02T17:06:50.600Z
 firstPublishedAt: 2020-12-22T12:00:47.453Z
 contentType: tutorial
