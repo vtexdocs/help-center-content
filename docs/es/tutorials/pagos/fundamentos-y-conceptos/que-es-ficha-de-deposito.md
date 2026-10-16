@@ -1,18 +1,12 @@
 ---
 title: 'Qué es Ficha de Depósito'
-id: 5zcak00O9G2KqoysQggus6
-status: PUBLISHED
 createdAt: 2019-01-24T20:45:35.451Z
-updatedAt: 2024-03-18T13:03:11.449Z
-publishedAt: 2024-03-18T13:03:11.449Z
-firstPublishedAt: 2019-01-24T22:10:45.867Z
+updatedAt: 2026-10-13T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 245tA425AIeioKAk2eaiwS
 slugEN: what-is-deposit-slip
-legacySlug: que-es-ficha-de-deposito
 locale: es
-subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
+hidden: false
 ---
 
 Ficha de Depósito es un medio de pago bastante popular en el __México__. Su funcionamiento es muy parecido a los boletos bancarios de Brasil, pero con una diferencia: el pago sólo se puede hacer en puntos autorizados.
