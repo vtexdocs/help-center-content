@@ -10,7 +10,7 @@ locale: pt
 
 > ℹ️ O **AI Sales Team Management** está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Atualmente, a disponibilidade é somente para contas selecionadas. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
 
-O **AI Sales Team Management** é um agente de inteligência artificial que permite administrar [times, sales reps e carteiras de clientes](#conceitos) de quem usa o [VTEX Sales App](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes) por meio de uma experiência conversacional no Admin VTEX. Este artigo explica o funcionamento do agente e as ações que ele pode realizar para você em operações B2B.
+O **AI Sales Team Management** é um agente de inteligência artificial que permite aos usuários do [VTEX Sales App](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes) administrarem [times, sales reps e carteiras de clientes](#conceitos). Tudo isso é feito por meio de uma experiência conversacional no Admin VTEX. Este artigo explica o funcionamento do agente e quais ações ele pode realizar para você no contexto de operações B2B.
 
 > ⚠️ O **AI Sales Team Management** administra times e carteiras de clientes no [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). Para a gestão de vendedores de lojas físicas, veja o artigo [Gerenciar vendedores no VTEX Sales App](https://help.vtex.com/pt/docs/tracks/gerenciar-vendedores-no-vtex-sales-app).
 
