@@ -1,5 +1,5 @@
 ---
-title: 'Opciones de envío (beta)'
+title: 'Opciones de envío'
 id: 1fRDJFcHCtpTnk7GNyaRDY
 status: PUBLISHED
 createdAt: 2025-08-22T17:00:47.486Z
@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-> ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si tienes alguna duda, ponte en contacto con [nuestro Soporte](https://supporticket.vtex.com/support).
-
 **Opciones de envío** es una página del Admin VTEX que permite configurar ofertas de entrega flexibles y precisas durante el proceso de compra, como definir diferentes tipos de disponibilidad de envío/entrega y zonas geográficas, y controlar cómo y cuándo se muestran estas opciones al cliente.
+
+> ℹ️ Las Opciones de envío deben usarse junto con [Delivery Promise](/es/docs/tutorials/delivery-promise): las opciones de envío configuradas se muestran como filtros de envío en la búsqueda de la tienda, para que el cliente vea solo los productos que puede recibir con el método y el plazo de entrega elegidos. Las Opciones de envío se activan en el [flujo de activación de Delivery Promise](/es/docs/tutorials/activar-delivery-promise) en el Admin VTEX, en el paso **(Opcional) Paso 2: Revisar las Opciones de envío**.
 
 Esto proporciona a los retailers autonomía para crear, configurar y gestionar las opciones de envío como contenido estratégico dentro de la plataforma VTEX, y una mayor flexibilidad para alinear la capacidad logística con los objetivos comerciales, optimizando la experiencia de compra de los clientes.
 
@@ -63,9 +63,13 @@ Para crear una nueva opción de envío sigue los pasos a continuación:
 
    - **Zonas de entrega**: haz clic en el botón `+ Agregar zonas` y selecciona las zonas de envío que deseas que sean atendidas por la opción de envío. Puedes buscar por zona de envío utilizando la barra de búsqueda. Haz clic en `Guardar` para cerrar la ventana.
 
-   ### Precios de envío
+   ### Precios de envío (opcional)
 
-   - **Precios**: condiciones de precios de la opción de envío. Los modelos de precios aplicados en cada segmentación son: **Valor fijo** para aplicar un mismo precio a todos los carritos, **Markup**, o porcentaje de ganancia sobre el valor del envío, y **Transferencia de costo**, cuando la tienda asume el costo de la opción de envío. Puedes combinar las opciones de precios. Las condiciones de precios se definen según las siguientes segmentaciones:
+   Asignar precios a una opción de envío es opcional. Con los precios de envío, las opciones de entrega que se muestran en el checkout usan los mismos nombres que tus opciones de envío, y puedes asociar un precio a cada una. Así, la experiencia es consistente en todo el proceso de compra: en la página de listado de productos (PLP), en la página de producto (PDP) y en el checkout, el cliente ve los mismos nombres de opciones de entrega que usó para filtrar los productos. Las reglas de precios de las opciones de envío son más simples y menos granulares que las de las [políticas de envío](/es/docs/tutorials/politica-de-envio) y existen para garantizar esta consistencia.
+
+   Recomendamos activar y usar primero las opciones de envío como filtros en la tienda y solo después evaluar la asignación de precios. Si no deseas asignar precios a una opción de envío, selecciona **Transferencia de costo**, que es la opción recomendada.
+
+   - **Precios**: condiciones de precios de la opción de envío. Los modelos de precios aplicados en cada segmentación son: **Valor fijo** para aplicar un mismo precio a todos los carritos, **Markup**, o porcentaje de ganancia sobre el valor del envío, y **Transferencia de costo**, en la que el precio del envío es el calculado por las políticas de envío, sin cambios. Puedes combinar las opciones de precios. Las condiciones de precios se definen según las siguientes segmentaciones:
      - **Todos los carritos**: el precio se aplicará a todos los carritos creados en la tienda.
      - **Políticas comerciales**: el precio se aplicará a una determinada política comercial.
      - **Valor del carrito**: el precio se aplicará si el valor del carrito sobrepasa un determinado valor.

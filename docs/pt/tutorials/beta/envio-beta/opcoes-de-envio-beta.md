@@ -1,5 +1,5 @@
 ---
-title: 'Opções de envio (Beta)'
+title: 'Opções de envio'
 id: 1fRDJFcHCtpTnk7GNyaRDY
 status: PUBLISHED
 createdAt: 2025-08-22T17:00:47.486Z
@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://supporticket.vtex.com/support).
-
 **Opções de envio** é uma página do Admin VTEX que permite configurar ofertas de entrega flexíveis e precisas durante a jornada de compra, como definir diferentes tipos de disponibilidade de entrega e de zonas geográficas, e controlar como e quando essas opções são exibidas para o cliente.
+
+> ℹ️ As Opções de envio devem ser usadas em conjunto com o [Delivery Promise](/pt/docs/tutorials/delivery-promise): as opções de envio configuradas são exibidas como filtros de envio na busca da loja, para que o cliente veja apenas os produtos que pode receber com o método e o prazo de entrega escolhidos. A ativação das Opções de envio é feita no [fluxo de ativação do Delivery Promise](/pt/docs/tutorials/ativar-delivery-promise) no Admin VTEX, na etapa **(Opcional) Etapa 2: Revise as Opções de Envio**.
 
 Assim, os lojistas ganham autonomia para criar, configurar e gerenciar opções de entrega como um conteúdo estratégico dentro da plataforma VTEX. Essa abordagem oferece mais flexibilidade para alinhar as capacidades logísticas com os objetivos comerciais, aprimorando a experiência de compra dos clientes.
 
@@ -63,9 +63,13 @@ Para criar uma nova opção de envio, siga os passos abaixo.
 
    - **Zonas de envio**: clique no botão `+ Adicionar zonas` e selecione as zonas de envio que deseja que sejam atendidas pela opção de envio. É possível buscar por uma zona de envio por meio da barra de busca. Clique em `Salvar` para fechar a janela.
 
-   ### Precificação de envio
+   ### Precificação de envio (opcional)
 
-   - **Precificação**: condições de precificação da opção de envio. Os modelos de precificação aplicados em cada segmentação são: **Valor fixo**, um mesmo preço que será aplicado a todos os carrinhos, **Markup**, uma porcentagem de lucro em cima do valor do frete, e **Repasse de custo**, a loja arca com o custo da opção de envio. É possível combinar as opções de precificação entre si. As condições de precificação são definidas a partir das seguintes segmentações:
+   Atribuir uma precificação à opção de envio é opcional. Com a precificação, as opções de entrega exibidas no checkout passam a usar os mesmos nomes das suas opções de envio, e você pode associar um preço a cada uma. Assim, a experiência fica consistente em toda a jornada de compra: na página de listagem de produtos (PLP), na página de produto (PDP) e no checkout, o cliente vê os mesmos nomes de opções de entrega que usou para filtrar os produtos. As regras de precificação das opções de envio são mais simples e menos granulares que as das [políticas de envio](/pt/docs/tutorials/politica-de-envio) e existem para garantir essa consistência.
+
+   Recomendamos ativar e usar primeiro as opções de envio como filtros na loja e só depois avaliar a atribuição de precificação. Se não quiser atribuir precificação a uma opção de envio, selecione **Repasse de custo**, que é a opção recomendada.
+
+   - **Precificação**: condições de precificação da opção de envio. Os modelos de precificação aplicados em cada segmentação são: **Valor fixo**, um mesmo preço que será aplicado a todos os carrinhos, **Markup**, uma porcentagem de lucro em cima do valor do frete, e **Repasse de custo**, em que o preço do frete é o calculado pelas políticas de envio, sem alteração. É possível combinar as opções de precificação entre si. As condições de precificação são definidas a partir das seguintes segmentações:
        - **Todos os carrinhos**: o preço será aplicado a todos os carrinhos criados na loja.
        - **Políticas comerciais**: o preço será aplicado a uma determinada política comercial.
        - **Valor do carrinho**: o preço será aplicado caso o valor do carrinho ultrapasse um determinado valor.
