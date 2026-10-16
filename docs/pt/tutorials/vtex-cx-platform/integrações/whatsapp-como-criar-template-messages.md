@@ -53,6 +53,6 @@ Caso aconteça reprovações de mensagens e queira resolver ou mudar as configur
 
 ## Saiba mais
 
-- [Política do WhatsApp Business](https://whatsappbusiness.com/pt-br/policy/) : saiba mais sobre as políticas para empresas.
-- [Política Comercial do WhatsApp](https://whatsappbusiness.com/pt-br/policy/) : saiba mais sobre as políticas comerciais.
-- [Aplicação das Políticas](https://developers.facebook.com/documentation/business-messaging/whatsapp/policy-enforcement/?locale=pt_BR) : saiba mais sobre como aplicamos as políticas
+- [Política do WhatsApp Business](https://whatsappbusiness.com/pt-br/policy/): políticas para empresas.
+- [Política Comercial do WhatsApp](https://whatsappbusiness.com/pt-br/policy/): políticas comerciais.
+- [Aplicação das Políticas](https://developers.facebook.com/documentation/business-messaging/whatsapp/policy-enforcement/?locale=pt_BR): como a Meta aplica essas políticas.
