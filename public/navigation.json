@@ -54,6 +54,21 @@
                 },
                 {
                   "name": {
+                    "en": "Bolivia address database update",
+                    "es": "Actualización de la base de direcciones de Bolivia",
+                    "pt": "Atualização da base de endereços da Bolívia"
+                  },
+                  "slug": {
+                    "en": "2026-10-15-bolivia-address-database-update",
+                    "es": "2026-10-15-actualizacion-de-la-base-de-direcciones-de-bolivia",
+                    "pt": "2026-10-15-atualizacao-da-base-de-enderecos-da-bolivia"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "VTEX CMS: now available for early access",
                     "es": "VTEX CMS: ahora disponible en acceso anticipado",
                     "pt": "VTEX CMS: agora disponível em acesso antecipado"
@@ -35907,9 +35922,9 @@
                 },
                 {
                   "name": {
-                    "en": "Fraud Prevention (Beta)",
-                    "es": "Prevención de Fraude (Beta)",
-                    "pt": "Prevenção contra fraudes (Beta)"
+                    "en": "Fraud Prevention",
+                    "es": "Prevención de Fraude",
+                    "pt": "Prevenção contra fraudes"
                   },
                   "slug": {
                     "en": "fraud-prevention",
@@ -70368,6 +70383,21 @@
             },
             {
               "name": {
+                "en": "Mercado Livre Package dimensions are now mandatory for ME1 items on Mercado Livre",
+                "es": "Mercado Livre Las dimensiones del paquete ahora son obligatorias para los artículos ME1 en Mercado Livre",
+                "pt": "Mercado Livre Dimensões das embalagens agora são obrigatórias para itens ME1 no Mercado Livre"
+              },
+              "slug": {
+                "en": "mercado-livre-package-dimensions-are-now-mandatory-for-me1-items-on-mercado-livre",
+                "es": "mercado-livre-las-dimensiones-del-paquete-ahora-son-obligatorias-para-los-articulos-me1-en-mercado-livre",
+                "pt": "mercado-livre-dimensoes-das-embalagens-agora-sao-obrigatorias-para-itens-me1-no-mercado-livre"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Mercado Livre Order fails to reprocess when shipment is cancelled (ERR_UNAVAILABLE_SLA)",
                 "es": "Mercado Livre El pedido no se puede reprocesar cuando se cancela el envío (ERR_UNAVAILABLE_SLA)",
                 "pt": "Mercado Livre O pedido não pode ser reprocessado quando o envio é cancelado (ERR_UNAVAILABLE_SLA)"
@@ -70488,14 +70518,14 @@
             },
             {
               "name": {
-                "en": "Shopee Product Protection amount is added to the shipping total of integrated orders",
-                "es": "Shopee El importe de la protección del producto se añade al total del envío de los pedidos integrados.",
-                "pt": "Shopee O valor da Proteção do Produto é adicionado ao total do frete de pedidos integrados."
+                "en": "Shopee Product Protection amount is added to the order total of integrated orders",
+                "es": "Shopee El importe de la protección del producto se añade al total del pedido en los pedidos integrados.",
+                "pt": "Shopee O valor da Proteção do Produto é adicionado ao total do pedido em pedidos integrados."
               },
               "slug": {
-                "en": "shopee-product-protection-amount-is-added-to-the-shipping-total-of-integrated-orders",
-                "es": "shopee-el-importe-de-la-proteccion-del-producto-se-anade-al-total-del-envio-de-los-pedidos-integrados",
-                "pt": "shopee-o-valor-da-protecao-do-produto-e-adicionado-ao-total-do-frete-de-pedidos-integrados"
+                "en": "shopee-product-protection-amount-is-added-to-the-order-total-of-integrated-orders",
+                "es": "shopee-el-importe-de-la-proteccion-del-producto-se-anade-al-total-del-pedido-en-los-pedidos-integrados",
+                "pt": "shopee-o-valor-da-protecao-do-produto-e-adicionado-ao-total-do-pedido-em-pedidos-integrados"
               },
               "origin": "",
               "type": "markdown",
