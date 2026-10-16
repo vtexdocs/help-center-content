@@ -180,12 +180,12 @@ Vincular um contrato a um time define a carteira daquele time e muda o que o sal
 
 O **AI Sales Team Management** permite que você realize ações em massa por meio da importação de arquivos no formato `.xlsx`, `.csv`, `.txt` ou `.json`. Isso se aplica aos seguintes cenários:
 
-- **Times:** criar, mover, editar ou desativar times.
-- **Sales reps:** criar, adicionar, mover, editar ou remover sales reps.
+- **Times:** criar, mover, editar ou desativar times (desativação apenas para times vazios).
+- **Sales reps:** criar, adicionar ou remover sales reps de times.
 - **Carteiras de clientes:** vincular contratos a um ou mais times.
 
 Exemplos de instrução:
 
-- "Processe a planilha de criação de sales reps"
-- "Vincule os contratos com os times indicados no arquivo"
-- "Mova os sales reps de acordo com o documento"
+- "Crie 5 novos times regionais conforme o arquivo"
+- "Vincule os contratos com os times indicados na planilha"
+- "Adicione todos os vendedores da planilha aos times indicados no documento"
