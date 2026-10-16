@@ -1,75 +1,98 @@
 ---
 title: 'Agentes financieros en el flujo de pago'
-id: 1dyPJ3gQCCO4ea2o6OMgCi
-status: PUBLISHED
 createdAt: 2017-10-11T19:08:49.654Z
-updatedAt: 2026-09-24T20:15:00.000Z
-publishedAt: 2024-03-18T18:55:40.724Z
-firstPublishedAt: 2017-10-11T19:34:43.203Z
+updatedAt: 2026-10-01T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 245tA425AIeioKAk2eaiwS
 slugEN: financial-agents-in-the-payment-flow
-legacySlug: cual-es-la-diferencia-entre-adquirente-bandera-gateway-y-sub-adquirente-en-brasil
 locale: es
-subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
+hidden: false
 ---
 
-Es común que los clientes tengan dudas en cuanto a los medios y métodos de pago utilizados en el flujo de pago de un pedido.
+Este artículo presenta los agentes financieros que participan en el flujo de pago de VTEX: gateway, adquirente, subadquirente, red de tarjeta, banco emisor y antifraude.
 
-En este artículo, aclararemos los conceptos de adquirente, subadquirente, gateway, bandera, banco emisor y antifraude, así como el papel de cada uno en el flujo del pedido.
+Estos conceptos valen para todo el módulo de Pagos, pero la secuencia completa de los seis agentes describe el flujo de **tarjeta de crédito**. En los demás medios de pago, no todos estos agentes cumplen una función: el gateway participa en los medios que procesa la plataforma, y la red de tarjeta, solo en las transacciones con tarjeta.
 
 ## Gateway
 
-Un gateway (también llamado gateway de pago) es un __sistema que efectúa la transmisión de los datos de las compras realizadas en su tienda en el momento del checkout__.
+El gateway (también llamado gateway de pago) es el sistema que transmite los datos de las compras hechas en tu tienda en el momento del checkout.
 
-Como primer player del flujo, es responsable de enviar la información del pago recibida en el checkout a los adquirentes, banderas y [bancos emisores](#banco-emisor) para, entonces, obtener una respuesta sobre la continuación del flujo de compra o de su cancelación. En otras palabras, el gateway envía los datos de pago y recibe respuestas para que usted sepa si una determinada compra debe o no ser confirmada, es decir, si el pago ha sido aprobado o no. 
+Es el primer agente del flujo. Envía la información del pago a adquirentes, redes de tarjeta y bancos emisores, y recibe la respuesta que confirma o cancela la compra.
 
-Como agentes intermediarios entre un  e-commerce y sus medios de pago, los gateways actúan como un terminal, integrando en un solo lugar todos los movimientos realizados entre los players del flujo de pago.
+El gateway funciona como un terminal y concentra en un solo lugar los movimientos entre los agentes del flujo, tanto de tarjeta como de los otros medios configurados en tu tienda, como boleto y Pix (Brasil).
 
-Activando los [conectores](/es/docs/tutorials/que-es-el-conector) y registrando [proveedores de pagos y antifraude](https://help.vtex.com/es/docs/tutorials/afiliaciones-de-gateway), los datos de las compras de sus clientes podrán ser enviados a los adquirentes u otros gateways y, así, seguir el flujo de aprobación en las instituciones financieras.
+Al activar los [conectores](/es/docs/tutorials/que-es-el-conector) y registrar [proveedores de pagos y antifraude](/es/docs/tutorials/afiliaciones-de-gateway), habilitas el envío de los datos de la compra a adquirentes u otros gateways, siguiendo el flujo de aprobación en las instituciones financieras.
 
-La plataforma VTEX tiene un gateway propio con certificación [PCI](/es/docs/tutorials/que-es-el-pci-ssc), lo que significa que los datos de todos los pagos realizados en su tienda están protegidos de acuerdo con los más altos estándares de seguridad.
+VTEX tiene un gateway propio con certificación del [PCI Security Standards Council (PCI SSC)](/es/docs/tutorials/que-es-el-pci-ssc), que protege los datos de todos los pagos realizados en tu tienda según los estándares de seguridad más altos.
 
 ## Adquirente
 
-Un adquirente (también llamado de acreditador) __es una empresa especializada en procesar pagos__. A través de su red de socios acreditados (o red de adquirencia), permite que una tienda ofrezca diversas condiciones de pago a sus clientes.
+El adquirente (también llamado acreditador) es la empresa que procesa pagos y hace la liquidación financiera de las transacciones de tu tienda con tarjetas de crédito y débito. A través de la red de partners acreditados, o red de adquirencia, te permite ofrecer distintas condiciones de pago a tus clientes.
 
-El adquirente recibe la información del pago, la procesa y la transmite a la [bandera](#bandera-de-tarjeta-de-credito) (cuando el medio de pago es tarjeta de crédito) y al [banco emisor](#banco-emisor). Son ejemplos de adquirente empresas como: Rede, Cielo, Elavon, GetNet y Stone. 
+El adquirente recibe del gateway la información del pago, procesa los datos y los envía a la red de tarjeta y al banco emisor. Los ejemplos varían según el país: en México operan empresas como BBVA, Banorte, Getnet y EVO Payments.
 
-Para que su tienda VTEX pueda recibir pagos, usted necesita habilitar su comunicación con un adquirente. Esto se realiza a través de un [gateway](#gateway), que debe configurarse para procesar las [condiciones de pago deseadas](/es/docs/tutorials/condiciones-de-pago). Así, las compras pueden seguir el flujo de aprobación normalmente.
+Para recibir pagos, tu tienda tiene que comunicarse con un adquirente. Esa comunicación se hace a través del gateway, que configuras para procesar las [condiciones de pago](/es/docs/tutorials/condiciones-de-pago) que desees.
 
-Cuando todo está en orden y una compra es autorizada por los otros players, el adquirente es responsable de transferir los valores (cobrados del cliente por el banco emisor) a la cuenta de su tienda.
+Cuando los demás agentes autorizan la compra, el adquirente transfiere a la cuenta de tu tienda los valores cobrados al cliente por el banco emisor.
 
 ## Subadquirente
 
-Un subadquirente es una empresa que procesa pagos y transmite los datos generados a los otros players del [flujo de pago](/es/docs/tutorials/tarjeta-de-credito-flujo-basico-de-un-pago). Su papel es similar al de un [adquirente](#adquirente), pero no lo sustituye por completo por su falta de autonomía para desempeñar todas las funcionalidades de un adquirente.
+El subadquirente es la empresa que procesa pagos y transmite la información a los otros agentes del flujo. Como facilitador, tiene un papel similar al del adquirente, pero no lo sustituye por completo, porque no tiene autonomía para desempeñar todas las funciones de un adquirente.
 
-Así, puede ser entendido como una especie de intermediario entre adquirente y tienda. Son ejemplos de subadquirente empresas como: PagSeguro y Paypal.
+Puedes entender el subadquirente como un intermediario entre el adquirente y tu tienda. En algunos mercados, empresas como PagSeguro y PayPal actúan en ese papel.
 
-Las principales ventajas del subadquirente son su bajo costo de implementación, sistema de antifraude proprio y facilidad de integración en las tiendas, lo que lo convierte en una solución bastante atractiva para el pequeño comerciante.  Por otro lado, la elección por el uso del subadquirente puede perjudicar los beneficios del vendedor por la alta tasa cobrada por cada transacción realizada (mayor que las de los adquirentes). Otro factor negativo para los vendedores es la redirección del cliente a la página propia del subadquirente durante los últimos pasos del checkout, lo que puede llevar a mayores tasas de desistimiento de compra.
+Entre las ventajas del subadquirente están el bajo costo de implementación, el sistema de antifraude propio y la facilidad de integración, lo que hace que la solución sea atractiva para tiendas más pequeñas. A cambio, el cargo cobrado por transacción es mayor que el de los adquirentes y puede reducir tu margen.
 
-## Bandera de Tarjeta de Crédito
+Algunos subadquirentes también redirigen al cliente a una página propia en las etapas finales del checkout, lo que puede aumentar el abandono de la compra.
 
-Banderas son empresas responsables de definir las reglas de negocio para compras realizadas con tarjeta de crédito. Son estas las que definen los estándares por los que los [adquirentes](#adquirente) deben procesar las transacciones realizadas por ese medio de pago (cada bandera tiene sus propias reglas).Son ejemplos de banderas empresas como: Mastercard, American Express y Visa. 
+## Red de tarjeta
 
-Las banderas mantienen una relación cercana con los adquirentes para garantizar la aceptación de sus tarjetas de crédito en los establecimientos. Así, estas promueven su uso y amplían la base de usuarios.
+Las redes de tarjeta definen las reglas de negocio de las compras con tarjeta de crédito, como la cantidad de cuotas en las que el cliente puede dividir el pago y los establecimientos que aceptan la tarjeta en el país y en el extranjero. También definen los estándares que los adquirentes siguen para procesar esas transacciones, y cada red de tarjeta tiene sus propias reglas. Mastercard, American Express y Visa son ejemplos de redes de tarjeta.
 
-En el [flujo de pago por tarjeta de crédito](/es/docs/tutorials/tarjeta-de-credito-flujo-basico-de-un-pago), la bandera recibe del adquirente la información de la compra realizada en su tienda. Entonces, valida las condiciones (como el número de cuotas) y envía los datos al [banco emisor](#banco-emisor), que comprueba si el comprador tiene límite disponible. De esta forma, la bandera sirve tanto para regular el uso de la tarjeta como para servir de puente entre la adquirente y el banco del consumidor. 
+Las redes de tarjeta mantienen una relación cercana con los adquirentes para garantizar la aceptación de las tarjetas en los establecimientos, lo que fomenta el uso y amplía la base de usuarios.
 
-## Banco Emisor
+En el flujo de pago con tarjeta de crédito, la red de tarjeta recibe del adquirente la información de la compra, valida las condiciones (como el número de cuotas) y envía los datos al banco emisor, que verifica el límite disponible. La red de tarjeta regula el uso de la tarjeta y funciona como puente entre el adquirente y el banco del cliente.
 
-El Banco Emisor es la institución financiera responsable de los medios de pago, ya sean boletos bancarios, tarjetas de débito o de crédito. Es este quien, al recibir los datos de una compra hecha en su tienda, va a autorizar o no la venta (dependiendo del límite de crédito o del dinero disponible en la cuenta del usuario). Con todo correcto, el banco efectúa el cobro del valor
+## Banco emisor
 
-Este concepto es importante porque le permite configurar [condiciones especiales](/es/docs/tutorials/condiciones-especiales) para pagos realizados a través de bancos específicos. Además, en el caso de los boletos registrados, cada banco tiene su propia forma de emisión.
+El banco emisor es la institución financiera responsable de los medios de pago, como las tarjetas de crédito y débito. Cuando recibe los datos de una compra en tu tienda, autoriza o rechaza el pago según el límite de crédito o el saldo disponible en la cuenta del cliente. Con la autorización, el banco efectúa el cobro.
+
+Este agente también te permite configurar [condiciones especiales](/es/docs/tutorials/condiciones-especiales) para pagos realizados por bancos específicos.
 
 ## Antifraude
 
-El antifraude es un sistema especializado en analizar las compras realizadas en los sitios web, con el objetivo de identificar operaciones fraudulentas.
+El antifraude es el sistema que analiza las compras hechas en tu sitio para identificar operaciones fraudulentas.
 
-Recolecta datos sobre el comportamiento de los usuarios y los compara con patrones sospechosos para aprobar o no el pedido. Así pues, el antifraude añade una capa más de seguridad para su tienda.
+Recopila datos sobre el comportamiento de los clientes, compara esos datos con patrones sospechosos y aprueba o rechaza el pedido. Es una capa extra de seguridad para tu tienda.
 
-En VTEX, primero el operador del pago aprueba la compra y, a continuación, el antifraude evalúa el pedido. Con todo en orden, el sistema sigue su flujo normal. Son ejemplos de antifraude: ClearSale y Konduto. 
+En VTEX, la operadora del pago aprueba la compra primero y el antifraude evalúa el pedido después. Si todo está en orden, el pedido sigue el flujo normal. ClearSale y Signifyd son ejemplos de proveedores de antifraude.
 
-> ℹ️ Es importante resaltar que cada negocio depende de factores específicos que influencian en la decisión sobre qué modalidad usar. Son varias las variables que pueden determinar la elección del medio de pago y cuál será su flujo financiero. Es fundamental, por lo tanto, tener en mente las necesidades y los propósitos reales del comerciante y del proyecto deseado.
+Para activar un antifraude en tu tienda, consulta [Configurar el antifraude](/es/docs/tutorials/como-configurar-antifraude).
 
+## Secuencia del flujo de pago
+
+La secuencia siguiente describe el flujo de tarjeta de crédito:
+
+1. En el checkout, el cliente elige la tarjeta de crédito como medio de pago.
+2. El checkout envía la información del pago al gateway.
+3. El gateway envía la información al adquirente o al subadquirente.
+4. El adquirente envía los datos a la red de tarjeta, que valida las reglas de la tarjeta, como la cantidad de cuotas.
+5. La red de tarjeta envía la información al banco emisor, que hace el análisis de crédito, verifica el límite disponible y autoriza o rechaza el pago.
+6. La respuesta del banco emisor recorre el camino inverso hasta el gateway, que registra el pago como preautorizado.
+7. Si el antifraude forma parte del flujo, recibe del gateway la información de que el pago fue preautorizado y responde con aprobación o rechazo. Si el antifraude lo rechaza, el pago se cancela.
+8. Con la aprobación final, el gateway informa a tu tienda de que el pago fue aprobado y el adquirente hace la liquidación financiera, transfiriendo los valores a la cuenta de tu tienda.
+
+### Medios de pago locales en Brasil
+
+No todos los medios de pago pasan por el gateway, el adquirente, la red de tarjeta y el banco emisor. En Brasil, por ejemplo:
+
+- **Boleto bancario registrado:** el flujo no tiene adquirente ni red de tarjeta. El gateway solicita el registro del boleto al banco, que emite el título y devuelve la información al gateway. Después de que el cliente paga el boleto directamente al banco, el banco envía al gateway los archivos de conciliación bancaria con el status del pago. Consulta [Boleto Bancario Registrado - Flujo básico de pago](/es/docs/tutorials/boleto-bancario-registrado-flujo).
+- **Pix:** el procesamiento depende de un partner de pagos integrado con VTEX, que puede ser un banco, un adquirente o un gateway. Al finalizar la compra, ese partner envía el QR Code por API y VTEX lo muestra en el checkout para que el cliente complete la transacción con su institución financiera. Consulta [Pix: FAQ](/es/docs/tutorials/pix-faq).
+
+> ℹ️ La elección de los agentes y de los medios de pago depende de las necesidades de tu operación. Evalúa las variables de tu negocio antes de definir el flujo financiero de tu tienda.
+
+## Próximos pasos
+
+- [Registrar proveedores de pagos y antifraude](/es/docs/tutorials/afiliaciones-de-gateway)
+- [Configurar condiciones de pago](/es/docs/tutorials/condiciones-de-pago)
+- [Configurar el antifraude](/es/docs/tutorials/como-configurar-antifraude)
