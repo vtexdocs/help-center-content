@@ -4,7 +4,7 @@ excerpt: "Las promociones por cluster fallan cuando los valores del cluster falt
 id: 4I7FRBu5zj9JYs0xBwg5aR
 status: PUBLISHED
 createdAt: 2019-02-22T18:12:54.910Z
-updatedAt: 2020-09-17T18:15:55.021Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2020-09-17T18:15:55.021Z
 firstPublishedAt: 2019-02-22T18:16:10.272Z
 contentType: frequentlyAskedQuestion

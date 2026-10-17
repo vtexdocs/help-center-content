@@ -3,7 +3,7 @@ title: "The order doesn't progress after the status \"Ready for handling\""
 id: 1Esx82dbr5RHYPOHgEjRGg
 status: PUBLISHED
 createdAt: 2025-02-03T17:59:30.111Z
-updatedAt: 2025-02-03T18:59:58.956Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-02-03T18:59:58.956Z
 firstPublishedAt: 2025-02-03T18:59:58.956Z
 contentType: tutorial

@@ -4,7 +4,7 @@ excerpt: "If product weight is below the carrier minimum, VTEX prices freight by
 id: frequentlyAskedQuestions_164
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:17.904Z
-updatedAt: 2023-12-19T16:53:24.136Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-12-19T16:53:24.136Z
 firstPublishedAt: 2017-04-27T23:01:43.295Z
 contentType: frequentlyAskedQuestion

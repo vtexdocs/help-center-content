@@ -4,7 +4,7 @@ excerpt: "Si el conector rechaza el reverso automático después de la aprobaci�
 id: frequentlyAskedQuestions_492
 status: PUBLISHED
 createdAt: 2017-04-27T22:34:48.023Z
-updatedAt: 2024-08-13T18:57:07.052Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2024-08-13T18:57:07.052Z
 firstPublishedAt: 2017-04-27T23:02:22.399Z
 contentType: frequentlyAskedQuestion

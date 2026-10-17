@@ -4,7 +4,7 @@ excerpt: "Checkout hides a carrier when docks, sales channels, delivery type, or
 id: frequentlyAskedQuestions_165
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:09.470Z
-updatedAt: 2023-08-25T15:13:42.026Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-08-25T15:13:42.026Z
 firstPublishedAt: 2017-04-27T23:01:43.444Z
 contentType: frequentlyAskedQuestion

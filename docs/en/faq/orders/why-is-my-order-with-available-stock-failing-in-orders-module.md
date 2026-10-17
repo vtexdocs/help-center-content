@@ -4,7 +4,7 @@ excerpt: "Late payment approval can expire the reservation. Another sale may the
 id: 2FZHMJFo8oyWW46gYSqqOc
 status: PUBLISHED
 createdAt: 2018-03-07T14:26:47.000Z
-updatedAt: 2023-03-31T23:05:09.937Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-03-31T23:05:09.937Z
 firstPublishedAt: 2018-03-07T15:14:02.766Z
 contentType: frequentlyAskedQuestion

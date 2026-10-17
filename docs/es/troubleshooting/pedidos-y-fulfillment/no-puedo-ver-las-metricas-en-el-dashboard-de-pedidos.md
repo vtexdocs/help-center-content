@@ -3,7 +3,7 @@ title: 'No puedo ver las métricas en el dashboard de pedidos'
 id: 1B5OAicmK3AvnwPzs4iq7Z
 status: PUBLISHED
 createdAt: 2024-06-10T11:28:08.507Z
-updatedAt: 2024-11-08T18:41:59.361Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2024-11-08T18:41:59.361Z
 firstPublishedAt: 2024-06-10T17:15:44.616Z
 contentType: tutorial
