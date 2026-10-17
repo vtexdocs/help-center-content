@@ -24,7 +24,7 @@ No Master Data v1, os formulários de Cliente e Endereço são criados por padr�
 
 > ⚠️ Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais: <ul> <li> [ Características das versões do Master Data ](/pt/docs/tutorials/master-data#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/docs/guides/master-data-v2-basics) </li> </ul>
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar se as entidades de Cliente (CL) e Endereço (AD) já existem no Master Data da sua multiloja e ajudar você a seguir os passos abaixo caso estejam faltando.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, verifica se as entidades de Cliente (CL) e Endereço (AD) já existem no Master Data da sua multiloja e orienta você a seguir os passos abaixo caso estejam faltando.
 
 ## Solução
 

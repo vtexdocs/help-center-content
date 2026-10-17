@@ -44,7 +44,7 @@ Em determinadas situações, a indexação é interrompida durante o processo e 
    - Quantidade de coleções
    - Quantidade de sellers
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar o produto que não indexa: envie o ID dele e ele verifica o cadastro do produto, os SKUs, a categoria, a marca e as políticas comerciais associadas para identificar o que impede a indexação.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga o produto que não indexa: envie o ID do produto e ele verifica o cadastro, os SKUs, a categoria, a marca e as políticas comerciais associadas para identificar o que impede a indexação.
 
 ## Soluções
 

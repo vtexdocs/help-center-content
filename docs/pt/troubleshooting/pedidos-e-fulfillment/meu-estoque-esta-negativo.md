@@ -22,7 +22,7 @@ symptomFilters:
 
 Quando a quantidade disponível de um produto é exibida como negativa, pode ser uma indicação de que há mais itens [reservados](/pt/docs/tutorials/como-a-reserva-funciona) do que a quantidade total inserida em estoque. Este problema geralmente ocorre ao registrar (dar baixa) em um item de pedido que ainda está reservado pelo sistema.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar o estoque negativo: envie o ID do SKU e ele mostra estoque e reservas por armazém, identifica reservas presas de pedidos cancelados ou expirados e pode atualizar a contagem com sua confirmação.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga o estoque negativo: envie o ID do SKU e ele mostra estoque e reservas por armazém, identifica reservas presas de pedidos cancelados ou expirados e atualiza a contagem com sua confirmação.
 
 ## Solução
 

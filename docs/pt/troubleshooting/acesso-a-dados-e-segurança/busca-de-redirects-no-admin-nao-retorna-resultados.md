@@ -22,7 +22,7 @@ symptomFilters:
 
 Quando o número de redirects é muito grande, a página Redirecionamentos no Admin não consegue processar a busca. Então, ao tentar realizar a busca, ela não retorna resultados. Para mais detalhes sobre a página Redirecionamentos, veja o artigo [Gerenciando redirecionamentos de URL por binding](/pt/docs/tutorials/gerenciando-redirecionamentos-de-url-por-binding).
 
-> ℹ️ Se a busca de redirects continuar sem resultados, o [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode guiar você pelas queries do GraphQL IDE descritas abaixo e abrir um ticket para o Suporte VTEX já preenchido com os detalhes do caso.
+> ℹ️ Se a busca de redirects continuar sem resultados, o [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, orienta você pelas queries do GraphQL IDE descritas abaixo e, se necessário, abre um ticket para o Suporte VTEX já preenchido com os detalhes do caso.
 
 ## Solução
 

@@ -15,7 +15,7 @@ tags:
 
 Este artigo ajuda você a investigar problemas de layout no front-end de sua loja. Ao seguir as instruções deste guia, você poderá comparar diferentes versões da vitrine, isolar a origem dos problemas de layout e reunir evidências para compartilhar com o Suporte VTEX ou com seu parceiro de implementação, caso necessário.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar a isolar a origem do problema de layout: ele identifica a arquitetura da sua loja e, em lojas Store Framework, monta um workspace de teste só com apps nativos da VTEX para você comparar.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, isola a origem do problema de layout: ele identifica a arquitetura da sua loja e, em lojas Store Framework, monta um workspace de teste só com apps nativos da VTEX para você comparar.
 
 ## Solução
 

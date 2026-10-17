@@ -22,7 +22,7 @@ symptomFilters:
 
 Ao tentar atualizar o EAN (número de artigo europeu), que contém as informações do código de barras de um SKU, no Admin VTEX e na API, você pode encontrar problemas de sincronização do catálogo da loja, afetando o gerenciamento de estoque e a experiência do cliente.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar nesta atualização: ele encontra o SKU pelo EAN atual ou pelo novo, para confirmar qual código está associado, e explica os endpoints da Catalog API usados abaixo.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, orienta nesta atualização: ele encontra o SKU pelo EAN atual ou pelo novo para confirmar qual código está associado e explica os endpoints da Catalog API mencionados a seguir.
 
 ## Solução
 

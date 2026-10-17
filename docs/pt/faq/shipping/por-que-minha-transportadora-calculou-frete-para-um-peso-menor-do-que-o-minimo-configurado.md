@@ -17,7 +17,7 @@ legacySlug: por-que-minha-transportadora-calculou-frete-para-um-peso-menor-do-qu
 
 O cálculo do frete sempre considera dois parâmetros, o peso e o volume do produto. A prioridade de cálculo é sempre para o peso mínimo ou cubado &#8211; o maior entre eles. Porém, caso peso do produto seja menor do que o mínimo cadastrado para a transportadora, será considerado o volume.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar a entender este cálculo: com o ID do SKU e o CEP, ele simula o frete e confere o peso e as dimensões cadastrados no SKU.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, ajuda a entender este cálculo: com o ID do SKU e o CEP, ele simula o frete e confere o peso e as dimensões cadastrados no SKU.
 
 ## Exemplos
 

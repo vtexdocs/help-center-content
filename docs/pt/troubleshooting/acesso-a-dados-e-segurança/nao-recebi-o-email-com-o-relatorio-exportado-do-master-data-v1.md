@@ -22,7 +22,7 @@ symptomFilters:
 
 Ao [exportar um relatório com dados do Master Data v1](/pt/docs/tutorials/exportando-dados), o relatório é enviado para o email informado durante a exportação. Porém, é possível que o email demore mais que o esperado para chegar na sua caixa de entrada.
 
-> ℹ️ Se o relatório também não aparecer em Exportações, o [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar se a VTEX registra alguma instabilidade recente e abrir um ticket para o Suporte VTEX já preenchido com os detalhes da exportação.
+> ℹ️ Se o relatório também não aparecer em Exportações, o [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, verifica se a VTEX registra alguma instabilidade recente e abre um ticket para o Suporte VTEX já preenchido com os detalhes da exportação.
 
 ## Solução
 

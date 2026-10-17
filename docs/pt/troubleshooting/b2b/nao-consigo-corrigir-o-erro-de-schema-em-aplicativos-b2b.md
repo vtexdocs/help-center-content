@@ -24,7 +24,7 @@ Em ambientes que utilizam aplicativos B2B, os usuários podem encontrar o alerta
 
 A situação mais comum envolve a adição de campos obrigatórios ao schema que define os dados para essa entidade no Master Data. Quando um aplicativo da B2B Suite tenta criar um usuário sem fornecer os campos obrigatórios, o alerta de schema inválido é exibido. Esse problema pode ocorrer ao acessar a página de **Organização** no Admin VTEX ou a página **Solicitar Organização** na vitrine da loja.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode identificar a causa do alerta schema is invalid: ele verifica os campos da entidade CL no Master Data e aponta quais campos obrigatórios podem estar impedindo os apps B2B de criar usuários.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, identifica a causa do alerta `schema is invalid`: ele verifica os campos da entidade CL no Master Data e aponta quais campos obrigatórios podem estar impedindo os apps B2B de criar usuários.
 
 ## Solução
 

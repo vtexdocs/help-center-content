@@ -24,7 +24,7 @@ Uma [promoção personalizada](/pt/docs/tutorials/criando-promocao-para-um-clust
 - Ausência ou cadastro incorreto do valor do cluster durante a configuração da promoção.
 - Inconsistência entre os valores cadastrados na promoção e os valores atribuídos nos perfis dos clientes.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode comparar os dois lados deste problema: diga o nome da promoção e o e-mail de um cliente do cluster e ele confere a condição de cluster configurada e os valores no cadastro desse cliente no Master Data.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, compara os dois lados deste problema: informe o nome da promoção e o e-mail de um cliente do cluster e ele confere a condição de cluster configurada e os valores no cadastro desse cliente no Master Data.
 
 ## Solução
 

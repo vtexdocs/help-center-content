@@ -31,4 +31,4 @@ Após seu cadastro, analise os itens abaixo, que são os principais motivos para
 
 _Ajuste esses itens e acompanhe o disparo dos e-mails pela linha do tempo no pedido._
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar o rastreio: envie o número do pedido e ele confere número, URL e transportadora informados na nota fiscal e pode ajudar a corrigir esses dados depois da sua confirmação.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, verifica o rastreio: envie o número do pedido e ele confere número, URL e transportadora informados na nota fiscal e pode ajudar a corrigir esses dados depois da sua confirmação.

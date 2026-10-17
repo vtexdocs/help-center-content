@@ -26,7 +26,7 @@ O Smart Checkout suporta o recurso "Pre-Auth" de alguns adquirentes. Ou seja, ai
 
 Neste processo, é criado um pedido. No caso de negação por parte da operadora, essa transação é cancelada automaticamente.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode identificar o motivo do cancelamento: envie o número do pedido e ele verifica os dados de cancelamento do pedido e a resposta da adquirente na transação para indicar quem solicitou o cancelamento e por quê.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, identifica o motivo do cancelamento: envie o número do pedido e ele verifica os dados de cancelamento do pedido e a resposta da adquirente na transação para indicar quem solicitou o cancelamento e por quê.
 
 ## Solução
 

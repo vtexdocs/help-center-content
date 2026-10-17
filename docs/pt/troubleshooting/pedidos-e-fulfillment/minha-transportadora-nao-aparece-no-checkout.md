@@ -24,7 +24,7 @@ Em algumas situações, a transportadora pode não ser exibida como opção de e
 
 > ℹ️ Antes de prosseguir, certifique-se de que todas as [transportadoras estão cadastradas](https://help.vtex.com/pt/docs/tutorials/transportadoras-na-vtex) corretamente na plataforma.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar por que a transportadora não aparece: envie o ID do SKU e o CEP e ele simula o frete e revisa políticas de envio, faixas de CEP, docas e armazéns para identificar a causa.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga por que a transportadora não aparece: envie o ID do SKU e o CEP e ele simula o frete e revisa políticas de envio, faixas de CEP, docas e armazéns para identificar a causa.
 
 ## Soluções
 

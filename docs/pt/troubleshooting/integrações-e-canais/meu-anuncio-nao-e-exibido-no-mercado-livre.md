@@ -26,7 +26,7 @@ Quando um produto é removido ou desativado da política comercial utilizada na 
 
 Outra possibilidade é quando um produto atinge o [estoque mínimo](/pt/docs/tutorials/controle-de-estoque-minimo-para-integracoes) estabelecido na configuração da integração com o marketplace. Se o estoque de um produto estiver abaixo do valor atribuído, o anúncio será pausado para evitar vendas de produtos sem estoque.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar o lado VTEX deste problema: envie o ID do produto e ele confere se o produto está na política comercial do Mercado Livre e o estoque disponível. O painel do Mercado Livre fica fora do alcance dele.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga este problema do lado da VTEX: envie o ID do produto e ele confere se o produto está na política comercial do Mercado Livre e o estoque disponível. O painel do Mercado Livre fica fora do alcance dele.
 
 ## Solução
 

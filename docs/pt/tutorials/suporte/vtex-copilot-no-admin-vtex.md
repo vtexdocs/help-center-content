@@ -8,7 +8,7 @@ slugEN: vtex-copilot-in-the-vtex-admin
 locale: pt
 ---
 
-O VTEX Copilot é o assistente de IA da VTEX disponível no Admin VTEX. Você faz perguntas em linguagem natural sobre pedidos, pagamentos, catálogo, promoções ou qualquer outro tema da sua loja, e o Copilot responde com base na documentação oficial da VTEX, consulta dados reais da sua loja, executa diagnósticos automáticos e ajuda você a resolver problemas.
+O VTEX Copilot é o assistente de inteligência artificial (IA) da VTEX disponível no Admin VTEX. Você faz perguntas em linguagem natural sobre pedidos, pagamentos, catálogo, promoções ou qualquer outro tema da sua loja, e o Copilot responde com base na documentação oficial da VTEX, consulta dados reais da sua loja, executa diagnósticos automáticos e ajuda você a resolver problemas.
 
 Neste artigo, você vai encontrar:
 
@@ -38,12 +38,15 @@ O Copilot entende e responde no seu idioma: você pode escrever em português, e
 
 ## Como acessar
 
-1. Em qualquer página do Admin VTEX, clique em **Copilot**, no canto superior direito. O Copilot abre em um painel lateral, ao lado da página em que você está.
-2. Escreva sua pergunta no campo **Pergunte ao VTEX Copilot...** e clique em **Enviar**.
+Para abrir o VTEX Copilot, siga as instruções a seguir:
+
+1. Em qualquer página do Admin VTEX, clique em `Copilot`, no canto superior direito. O Copilot abre em um painel lateral, ao lado da página em que você está.
+2. Escreva sua pergunta no campo **Pergunte ao VTEX Copilot...**.
+3. Clique em `Enviar`.
 
 ![Tela inicial do VTEX Copilot no Admin VTEX](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/vtex-copilot-no-admin-vtex_1.png)
 
-Como você já está conectado ao Admin VTEX, não é necessário fazer login novamente: o Copilot usa o seu usuário e as suas permissões. E, como o painel fica aberto enquanto você navega, é possível conferir no Admin VTEX o que o Copilot respondeu sem fechar a conversa.
+Como você já tem a sessão iniciada no Admin VTEX, não é necessário fazer login novamente: o Copilot usa seu usuário e suas permissões. Como o painel permanece aberto enquanto você navega, é possível conferir no Admin VTEX o que o Copilot respondeu sem fechar a conversa.
 
 Na tela inicial, a seção **Experimente uma destas** traz sugestões prontas para começar:
 
@@ -105,9 +108,11 @@ Em diagnósticos e perguntas mais complexas, a resposta pode levar alguns instan
 
 ## Anexar arquivos
 
-Você pode enviar imagens e documentos para o Copilot analisar junto com a sua pergunta, como um print de erro, uma planilha exportada em PDF ou o comprovante de uma transação.
+Você pode enviar imagens e documentos para o Copilot analisar junto com a sua pergunta, como uma captura de tela do erro, uma planilha exportada em PDF ou o comprovante de uma transação.
 
-1. Clique em **Anexar arquivos**, ao lado do campo de mensagem.
+Para anexar arquivos, siga as instruções abaixo:
+
+1. Clique em `Anexar arquivos`, ao lado do campo de mensagem.
 2. Selecione os arquivos. São aceitos arquivos **JPG, PNG, WEBP, GIF e PDF** de até **4,3 MB** cada.
 3. Escreva sua pergunta e envie.
 
@@ -135,7 +140,7 @@ Se quiser manter a etapa de confirmação, descreva o problema e pergunte o que 
 O Copilot guarda as suas conversas para você retomar de onde parou.
 
 - Para ver conversas anteriores, clique no ícone de relógio no topo do painel para abrir o **Histórico de chat**. As conversas são agrupadas por data e você pode procurar uma conversa específica em **Buscar conversas…**.
-- Para começar um assunto novo, clique no ícone **+** (**Novo chat**) no topo do painel.
+- Para começar um novo assunto, clique no ícone `+`  no topo do painel.
 
 ![Histórico de conversas do VTEX Copilot](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/vtex-copilot-no-admin-vtex_5.png)
 
@@ -143,29 +148,27 @@ Dentro de uma conversa, o Copilot lembra o contexto recente. Perguntas como "e o
 
 ## Boas práticas
 
-Perguntas específicas recebem respostas melhores e mais rápidas.
+Perguntas específicas recebem respostas melhores e mais rápidas. Siga as recomendações abaixo para escrever boas perguntas:
 
-**Envie todo o contexto em uma única mensagem.** Em vez de dividir o problema em várias mensagens curtas, descreva tudo de uma vez: o que aconteceu, desde quando, o que você já tentou e os IDs relevantes.
+- **Envie todo o contexto em uma única mensagem.** Descreva o que aconteceu, desde quando, o que você já tentou e os IDs relevantes, em vez de dividir o problema em várias mensagens curtas.
+- **Trate um assunto por conversa.** Um pedido parado e um produto que não aparece são assuntos diferentes. Clique em `Novo chat` para cada um.
+- **Informe IDs sempre que puder.** Número do pedido, ID do produto ou do SKU, nome da promoção, CEP ou e-mail do cliente ajudam o Copilot a ir direto ao ponto.
+- **Diga o que você esperava e o que aconteceu.** Isso permite ao Copilot comparar o comportamento esperado com o real.
+- **Use termos específicos da área.** Eles ajudam o Copilot a encaminhar a pergunta ao especialista certo. Por exemplo, diga "erro no checkout" em vez de "erro ao finalizar o pedido".
+- **Pergunto "como faço..." à vontade.** O Copilot responde com base na documentação oficial da VTEX e envia o link da fonte.
 
-- ❌ "O pedido está com problema" → "é o pedido 1234" → "desde ontem"
-- ✅ "O pedido 1234567890-01 está em 'Pronto para manuseio' desde ontem. O pagamento foi aprovado e há estoque. O que está bloqueando?"
+Veja a seguir exemplos de perguntas que ajudam e que não ajudam:
 
-**Um assunto por conversa.** Uma mensagem longa sobre um problema é ótima, mas uma mensagem com vários problemas diferentes não é. Um pedido parado e um produto que não aparece são assuntos diferentes: use um **Novo chat** para cada um.
+| Evite ❌ | Prefira ✅ |
+| --- | --- |
+| "O pedido está com problema" | "O pedido 1234567890-01 está em 'Pronto para manuseio' desde ontem. O pagamento foi aprovado e há estoque. O que está bloqueando?" |
+| "A promoção não funciona" | "A promoção 'BLACKFRIDAY10' deveria dar 10% de desconto no total do carrinho, mas no checkout o desconto aparece zerado." |
 
-**Informe IDs sempre que puder.** Número do pedido, ID do produto ou do SKU, nome da promoção, CEP ou e-mail do cliente ajudam o Copilot a ir direto ao ponto.
-
-**Diga o que você esperava e o que aconteceu.**
-
-- ❌ "A promoção não funciona"
-- ✅ "A promoção 'BLACKFRIDAY10' deveria dar 10% de desconto no total do carrinho, mas no checkout o desconto aparece zerado"
-
-**Use o vocabulário da área.** Termos específicos ajudam o Copilot a encaminhar a pergunta para o especialista certo. Por exemplo, para falar de checkout, diga "erro no checkout" em vez de "erro ao finalizar o pedido".
-
-**Pergunte "como faço…" à vontade.** O Copilot responde com base na documentação oficial da VTEX e envia o link da fonte.
-
-**Confie, mas verifique.** Como toda IA, o Copilot pode errar. Antes de agir com base em uma resposta, confira em qual conta ele trabalhou, o que exatamente ele está propondo e se a funcionalidade mencionada realmente existe. Se tiver dúvida, peça para ele mostrar o raciocínio ou a fonte.
+> ℹ️ Como toda IA, o Copilot pode errar. Antes de agir com base em uma resposta, confira em qual conta ele trabalhou, o que exatamente ele está propondo e se a funcionalidade mencionada realmente existe. Se tiver dúvida, peça para ele mostrar o raciocínio ou a fonte.
 
 ## Privacidade e segurança
+
+O Copilot segue estas regras para proteger o seu acesso, as suas conversas e as alterações na loja:
 
 - **Seu login, suas permissões.** O Copilot usa a sua sessão do Admin VTEX e nunca uma credencial compartilhada. Ele só vê e altera o que o seu usuário pode ver e alterar. Se você não tem acesso ao módulo de Pagamentos, o Copilot também não tem. Por isso, dois usuários da mesma conta podem receber respostas diferentes para a mesma pergunta.
 - **Sem acessos extras.** O Copilot não concede acessos que você ainda não tem. Pedir a ele para contornar uma permissão não funciona.
@@ -174,6 +177,8 @@ Perguntas específicas recebem respostas melhores e mais rápidas.
 - **Rastreabilidade.** Cada alteração fica registrada em nome do usuário que fez o pedido, da mesma forma que no Admin VTEX.
 
 ## Perguntas frequentes
+
+Veja a seguir as respostas para as dúvidas mais comuns sobre o uso do Copilot:
 
 **O Copilot disse que não tenho permissão. O que faço?**
 O Copilot herda as permissões do seu usuário. Peça ao administrador da conta para revisar o seu [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) no Admin VTEX.

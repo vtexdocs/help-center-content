@@ -15,7 +15,7 @@ locale: pt
 legacySlug: faq-vtex-log
 ---
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar a verificar o VTEX Shipping Network na sua loja: com o ID do SKU e o CEP, ele simula o frete e mostra as opções de entrega retornadas, além de revisar suas docas, armazéns e políticas de envio.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, verifica o VTEX Shipping Network na sua loja: com o ID do SKU e o CEP, ele simula o frete e mostra as opções de entrega retornadas, além de revisar suas docas, armazéns e políticas de envio.
 
 ## 1) Como posso identificar se o VTEX Shipping Network está operando normalmente na minha loja?   
 

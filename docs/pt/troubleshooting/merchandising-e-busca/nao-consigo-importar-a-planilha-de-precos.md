@@ -32,7 +32,7 @@ Após [importar uma planilha de preços](/pt/docs/tracks/exportacao-e-importacao
 
 Caso você identifique mensagens de erro, valores incorretos de preço ou outras dificuldades para importar uma planilha, examine as possíveis soluções abaixo para resolver esses problemas.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar a investigar os erros da importação: envie o ID do SKU e ele mostra o preço-base, o preço de tabela e os preços fixos configurados, para você conferir o que foi importado.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga os erros da importação: envie o ID do SKU e ele mostra o preço-base, o preço de tabela e os preços fixos configurados para você conferir o que foi importado.
 
 ## Solução
 

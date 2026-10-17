@@ -33,4 +33,4 @@ A flag Filtro fica na tela de configuração do campo de produto.
 
 ![Filtro Campo de produto](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/search/por-que-o-filtro-de-campo-de-produto-ou-campo-de-sku-nao-esta-retornando_1.png)
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar este filtro: informe a categoria e o campo de produto ou SKU, e ele confere a configuração do campo no catálogo e explica como ativar a opção Filtro.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, verifica este filtro: informe a categoria e o campo de produto ou SKU, e ele confere a configuração do campo no catálogo e explica como ativar a opção `Filtro`.

@@ -35,7 +35,7 @@ As causas mais comuns para esse comportamento são:
 - [A hierarquia da categoria ou o caminho da trilha de navegação está incorreto](#revise-a-hierarquia-da-categoria-e-o-caminho-da-trilha-de-navegacao)
 - [As alterações do workspace não foram publicadas](#publique-as-alteracoes-do-workspace)
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar a página com erro 404: envie o ID do produto e ele lista as configurações do catálogo (produto, SKUs, categoria e marca) e as políticas comerciais que podem estar deixando o item fora da vitrine.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga a página com erro 404: envie o ID do produto e ele lista as configurações do catálogo (produto, SKUs, categoria e marca) e as políticas comerciais que possam deixar o item fora da vitrine.
 
 ## Soluções
 

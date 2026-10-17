@@ -30,4 +30,4 @@ Portanto, se você estiver com problemas relacionados a prazos incoerentes ou di
 
 Para mais informações, veja o artigo [Cadastrar feriado](/pt/docs/tutorials/cadastrar-feriados).
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar a divergência de prazo: envie o número do pedido e ele confere a data de entrega estimada e revisa os feriados cadastrados na sua configuração de envio.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga a divergência de prazo: envie o número do pedido e ele confere a data de entrega estimada e revisa os feriados cadastrados na sua configuração de envio.

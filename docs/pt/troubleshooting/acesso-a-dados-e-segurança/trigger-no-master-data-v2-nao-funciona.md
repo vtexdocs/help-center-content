@@ -25,7 +25,7 @@ Ao criar uma trigger para notificar mudanças em uma entidade de dados no Master
 
 Esse problema pode ocorrer devido a uma configuração incorreta da trigger ou a questões relacionadas a permissões e autenticação. Confira a seguir o passo a passo para identificar e corrigir a situação.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar a investigar a trigger: informe a entidade de dados e ele verifica se ela existe no Master Data v2 e revisa o schema em que a trigger está declarada, incluindo os campos obrigatórios.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga a trigger: informe a entidade de dados e ele verifica se ela existe no Master Data v2 e revisa o schema em que a trigger está declarada, incluindo os campos obrigatórios.
 
 ## Solução
 

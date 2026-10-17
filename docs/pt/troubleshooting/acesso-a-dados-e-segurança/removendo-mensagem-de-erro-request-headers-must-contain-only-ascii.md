@@ -29,7 +29,7 @@ Este cenário ocorre se a página ou funcionalidade solicitada contém um cookie
 
 Segundo as normas do [IETF](https://www.ietf.org/) (Internet Engineering Task Force), instituição responsável por documentar os padrões utilizados na internet, cookies não devem conter caracteres especiais (não-ASCII). Para mais informações sobre os caracteres aceitos em cookies e headers, acesse [IETF - Request for Comments 7230 - Section 3.2.6 - Field Value Components](https://datatracker.ietf.org/doc/html/rfc7230#section-3.2.6).
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode guiar você na identificação do cookie com caracteres especiais descrita abaixo e, se o erro persistir, abrir um ticket para o Suporte VTEX já preenchido, com seus prints anexados.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, guia você na identificação do cookie com caracteres especiais e, se o erro persistir, abre um ticket para o Suporte VTEX já preenchido, com suas capturas de tela anexadas.
 
 ## Soluções
 

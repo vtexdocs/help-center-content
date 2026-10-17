@@ -28,7 +28,7 @@ Por meio da [Central de mensagens](/pt/docs/tutorials/conhecendo-o-message-cente
 
 Caso você identifique que os emails de sua loja não estão sendo encaminhados de maneira adequada, prejudicando assim a transmissão de informações importantes aos seus clientes, verifique abaixo as possíveis soluções para identificar a origem deste problema.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar a investigar o envio de e-mails da sua loja: ele explica os templates, gatilhos e variáveis do Message Center e, se as mensagens caírem no spam, gera as chaves DKIM do seu domínio de envio.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga o envio de e-mails da sua loja: ele explica os templates, gatilhos e variáveis do Message Center e, se as mensagens caírem no spam, gera as chaves DKIM do seu domínio de envio.
 
 ## Solução
 

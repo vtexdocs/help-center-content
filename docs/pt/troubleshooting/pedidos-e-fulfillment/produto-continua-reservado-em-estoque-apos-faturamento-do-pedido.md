@@ -32,7 +32,7 @@ Após a venda de um produto, ele passa pelos seguintes status no inventário da 
 
 Somente quando o pedido está no status **Preparando entrega** que os produtos são retirados do estoque. A [baixa no estoque](/pt/docs/tutorials/como-a-reserva-funciona#baixa-no-estoque), que corresponde à atualização da quantidade de itens disponíveis para venda, pode ser feita manualmente pelo lojista ou de forma automática por meio do ERP. Esse processo é realizado por meio do [gerenciamento de inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) ou pelo endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar o inventário: envie o ID do SKU e ele mostra quanto está reservado e disponível em cada armazém, identifica reservas presas e pode atualizar a contagem, sempre com sua confirmação.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, verifica o inventário: envie o ID do SKU e ele mostra quanto está reservado e disponível em cada armazém, identifica reservas presas e atualiza a contagem, sempre com sua confirmação.
 
 ## Soluções
 

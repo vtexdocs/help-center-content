@@ -26,7 +26,7 @@ O status `Preparando entrega` ocorre no [fluxo do pedido](/pt/docs/tutorials/flu
 
 A permanência de um pedido no status `Preparando entrega` por um período superior ao previsto pode ser atribuída à falta de cadastro das notas fiscais na VTEX.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar este pedido: envie o número dele e ele verifica se as notas fiscais registradas cobrem o valor total e indica o próximo passo. Ele vê o pedido na VTEX, não dentro do seu ERP.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga este pedido: envie o número do pedido e ele verifica se as notas fiscais registradas cobrem o valor total e indica o próximo passo. Ele vê o pedido na VTEX, não dentro do seu ERP.
 
 ## Solução
 

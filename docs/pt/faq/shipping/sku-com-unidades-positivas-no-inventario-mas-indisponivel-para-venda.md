@@ -21,4 +21,4 @@ Isso ocorre porque a plataforma VTEX soma as unidades negativas de SKU de determ
 
 Saiba mais sobre estoque negativo no artigo [Como atualizar itens no inventário.](/pt/docs/tutorials/gerenciar-itens-em-estoque#atualizar-estoque)
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar este SKU: envie o ID do SKU e ele consulta o estoque em cada armazém, incluindo quantidades reservadas e disponíveis, e indica o que está deixando o item indisponível para venda.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga este SKU: envie o ID do SKU e ele consulta o estoque em cada armazém, incluindo quantidades reservadas e disponíveis, e indica o que está deixando o item indisponível para venda.

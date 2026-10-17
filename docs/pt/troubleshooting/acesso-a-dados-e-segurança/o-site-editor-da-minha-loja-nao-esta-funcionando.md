@@ -34,7 +34,7 @@ Veja a seguir instruções instruções que podem ajudar a solucionar esses prob
 
 Para entender e corrigir cada erro, consulte as soluções abaixo:
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar o Site Editor: ele confirma se a loja roda em Store Framework, verifica se o usuário tem o recurso CMS GraphQL API nos perfis (envie o e-mail) e abre um ticket para o Suporte VTEX quando necessário.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga o Site Editor: envie seu e-mail e ele confirma se a loja roda em Store Framework, verifica se o usuário tem o recurso CMS GraphQL API nos perfis de acesso e abre um ticket para o Suporte VTEX se necessário.
 
 ## O Site Editor não abre
 

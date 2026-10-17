@@ -25,7 +25,7 @@ Ao utilizar o Admin, alguns usuários podem ter problemas como o *Erro 403 - Des
 
 Esses problemas geralmente ocorrem devido a conflitos entre [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) dos usuários administrativos ou configurações específicas do navegador.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar o erro 403: envie o e-mail do usuário e ele compara os perfis de acesso dessa pessoa com o que cada perfil permite, indicando se falta algum perfil ou se há a combinação conflitante descrita abaixo.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga o erro 403: envie o e-mail do usuário e ele compara os perfis de acesso dessa pessoa com o que cada perfil permite, indicando se falta algum perfil ou se há combinação conflitante.
 
 ## Solução
 

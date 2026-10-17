@@ -25,7 +25,7 @@ Quando ocorre um erro de integração em pedidos entre um marketplace e o Mercad
 
 Os pedidos apresentam erros de integração por **ID de Loja Oficial no Mercado Livre** cadastrado incorretamente ou por **Categorias inexistentes no Mercado Livre**. Para verificar se um pedido contém erros de integração, no Admin VTEX, acesse **Marketplace > Conexões > Pedidos** ou digite **Pedidos** na barra de busca.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode explicar a mensagem de erro do seu pedido do Mercado Livre, guiar você pelas verificações deste artigo e abrir um ticket para o Suporte VTEX já preenchido, com seus prints anexados.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, explica a mensagem de erro do seu pedido do Mercado Livre, guia você pelas instruções deste artigo e, se necessário, abre um ticket para o Suporte VTEX já preenchido, com suas capturas de tela anexadas.
 
 ## Solução
 

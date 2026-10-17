@@ -28,7 +28,7 @@ Ao acessar o painel Admin, pode ser que sua loja não carregue métricas na **Vi
 
 ![Visão geral - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/pedidos-e-fulfillment/nao-consigo-visualizar-metricas-no-dashboard-de-pedidos_1.png)
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar se o seu usuário tem o recurso Insights Metrics nos perfis de acesso (envie seu e-mail) e explicar como usar a comparação de períodos do dashboard.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, verifica se seu usuário tem o recurso Insights Metrics nos perfis de acesso e explica como usar a comparação de períodos do dashboard. Envie seu e-mail para a verificação.
 
 ## Solução
 Para resolver inconsistências no dashboard inicial do painel administrativo, você pode testar as ações descritas abaixo:

@@ -21,4 +21,4 @@ Para a utilização do Intelligent Search, é necessário a configuração do ap
 
 As informações da página de busca serão atualizadas automaticamente, mas a loja pode configurar a propriedade `simulationBehavior` com o valor `default` para evitar futuras divergências.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar esta divergência: envie o ID do SKU e ele compara o preço exibido na busca com o preço configurado em cada canal de venda.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga esta divergência: envie o ID do SKU e ele compara o preço exibido na busca com o preço configurado em cada política comercial.

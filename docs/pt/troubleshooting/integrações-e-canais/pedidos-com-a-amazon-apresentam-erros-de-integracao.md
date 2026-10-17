@@ -33,7 +33,7 @@ Os erros mais comuns em pedidos realizados na Amazon são:
 - **SKU inexistente**
 - **Erro de comunicação com o catálogo**
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar os erros da tabela abaixo do lado da sua loja: envie o ID do SKU e ele verifica se o SKU está ativo, em quais políticas comerciais está e quanto estoque tem disponível.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga os erros da tabela abaixo do lado da sua loja: envie o ID do SKU e ele verifica se o SKU está ativo, em quais políticas comerciais está e quanto estoque tem disponível.
 
 ## Solução
 

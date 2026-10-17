@@ -28,7 +28,7 @@ Se ao realizar a [importação de SKUs por planilha](/pt/tutorial/exportar-e-imp
 - [Especificações obrigatórias de SKU não estejam preenchidas.](/pt/docs/tracks/especificacoes-definicao-de-conceito)
 - O arquivo esteja na formatação errada.
 
-> ℹ️ Se o erro persistir, o [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode verificar as especificações obrigatórias da categoria dos SKUs que você está importando e abrir um ticket para o Suporte VTEX já preenchido, com prints do erro anexados.
+> ℹ️ Se o erro persistir, o [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, verifica as especificações obrigatórias da categoria dos SKUs que você está importando e, se necessário, abre um ticket para o Suporte VTEX já preenchido, com as capturas de tela anexadas.
 
 ## Solução
 

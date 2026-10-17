@@ -26,7 +26,7 @@ O status `Pronto para manuseio` ocorre no [fluxo do pedido](/pt/docs/tutorials/f
 
 Enquanto a VTEX não recebe esta confirmação, o pedido permanece no status `Pronto para manuseio`.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar este pedido: envie o número dele e ele identifica se o fluxo parou aguardando a liberação do manuseio pelo ERP e o que fazer em seguida. Ele vê o pedido na VTEX, não dentro do seu ERP.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga este pedido: envie o número do pedido e ele identifica se o fluxo parou aguardando a liberação do manuseio pelo ERP e o que fazer em seguida. Ele vê o pedido na VTEX, não dentro do seu ERP.
 
 ## Solução
 

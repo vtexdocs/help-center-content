@@ -35,4 +35,4 @@ O valor de frete é calculado com base em vários fatores: tabela de frete, adic
 
 ![valortotal pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shipping/por-que-meu-valor-de-frete-esta-errado_2.jpg)
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode investigar o valor do frete: com o ID do SKU e o CEP, ele simula o frete, verifica quanto a política de envio cobra para esse CEP e revisa promoções que alteram o valor.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga o valor do frete: com o ID do SKU e o CEP, ele simula o frete, verifica quanto a política de envio cobra para esse CEP e revisa promoções que alteram o valor.

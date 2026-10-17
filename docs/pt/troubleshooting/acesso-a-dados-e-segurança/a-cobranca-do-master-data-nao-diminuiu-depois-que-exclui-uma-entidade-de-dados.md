@@ -18,7 +18,7 @@ Depois de excluir uma [entidade de dados](/pt/docs/tutorials/entidade-de-dados) 
 
 Esse problema ocorre porque a exclusão de uma entidade de dados pela interface não remove os documentos (registros) já armazenados nela. Esses documentos continuam sendo contabilizados na cobrança mensal até que sejam excluídos pela API.
 
-> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode ajudar nesta limpeza: informe a entidade de dados e ele localiza os documentos que continuam armazenados nela e pode excluí-los, sempre pedindo sua confirmação antes de remover qualquer registro.
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, ajuda nesta limpeza: informe a entidade de dados e ele localiza os documentos que continuam armazenados nela e os exclui, sempre pedindo sua confirmação antes de remover qualquer registro.
 
 ## Solução
 
