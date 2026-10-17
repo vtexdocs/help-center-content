@@ -17,7 +17,7 @@ legacySlug: por-que-meu-produto-esta-aparecendo-na-categoria-errada
 
 Caso você ache que um produto está sendo exibido numa categoria errada, existem alguns procedimentos que podemos realizar para testar essa hipótese. Siga os passos abaixo para analisar este cenário.
 
-> ℹ️ Em vez de chamar a API, peça ao [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, para verificar: envie o ID do produto e ele mostra o departamento e a categoria em que está cadastrado, para você comparar com a sua árvore de categorias.
+> ℹ️ Em vez de chamar a API, peça ao [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, para verificar: envie o ID do produto e ele mostra o departamento e a categoria em que está cadastrado, para você comparar com sua árvore de categorias.
 
 ## Verificação via API
 

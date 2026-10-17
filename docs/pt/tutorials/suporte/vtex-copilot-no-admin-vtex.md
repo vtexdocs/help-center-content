@@ -28,11 +28,11 @@ Neste artigo, você vai encontrar:
 Na prática, o VTEX Copilot pode:
 
 - **Responder dúvidas** sobre como a VTEX funciona, com base na documentação oficial e com o link da fonte.
-- **Consultar dados da sua loja**, como o status de um pedido, a configuração de um produto ou as regras de uma promoção, usando as suas próprias permissões de acesso.
+- **Consultar dados da sua loja**, como o status de um pedido, a configuração de um produto ou as regras de uma promoção, usando suas próprias permissões de acesso.
 - **Executar diagnósticos automáticos** que verificam várias partes da loja de uma vez para encontrar a causa de problemas comuns. Por exemplo, "por que este produto não aparece na loja?".
-- **Fazer alterações na loja**, como atualizar estoque, editar um cupom ou ativar um SKU, sempre explicando o impacto e pedindo a sua confirmação antes.
-- **Abrir chamados para o Suporte VTEX** já preenchidos com o que foi conversado e com os arquivos anexados.
-- **Informar sobre a VTEX**: status da plataforma, incidentes recentes e o que um anúncio ou uma nota de lançamento significa para a sua loja.
+- **Fazer alterações na loja**, como atualizar estoque, editar um cupom ou ativar um SKU, sempre explicando o impacto e pedindo sua confirmação antes.
+- **Abrir tickets para o Suporte VTEX** já preenchidos com o que foi conversado e com os arquivos anexados.
+- **Informar sobre a VTEX**: status da plataforma, incidentes recentes e o que um anúncio ou uma nota de lançamento significa para sua loja.
 
 O Copilot entende e responde no seu idioma: você pode escrever em português, espanhol ou inglês.
 
@@ -65,8 +65,8 @@ O Copilot reúne especialistas em cada área da VTEX. Você não precisa escolhe
 | --- | --- | --- |
 | **Pedidos e checkout** | Consulta, faturamento, cancelamento e rastreamento de pedidos, além do motivo de um pedido ter mudado ou parado. | "Qual é o status do pedido 1234567890-01?" |
 | **Pagamentos** | Transações, meios de pagamento, condições de pagamento, gateways e antifraude. | "Por que o pagamento do pedido 1234567890-01 foi negado?" |
-| **Catálogo** | Produtos, SKUs, categorias, marcas, imagens, especificações e canais de venda. | "Por que o SKU 4521 não aparece no site?" |
-| **Preços e promoções** | Preços por canal e tabela de preços, promoções e cupons. | "Quais promoções se aplicam ao produto 123?" |
+| **Catálogo** | Produtos, SKUs, categorias, marcas, imagens, especificações e políticas comerciais. | "Por que o SKU 4521 não aparece no site?" |
+| **Preços e promoções** | Preços por política comercial e tabela de preços, promoções e cupons. | "Quais promoções se aplicam ao produto 123?" |
 | **Estoque e entrega** | Estoque por armazém, reservas, políticas de envio, docas e pontos de retirada. | "Por que não há opção de entrega para o CEP 01310-100?" |
 | **Marketplace** | Sellers, ofertas ativas, vínculos de SKU e afiliados. | "Quais sellers oferecem o SKU 4521?" |
 | **Busca** | Resultados de busca, filtros, termos mais buscados e correção ortográfica. | "Por que meu produto não aparece quando busco 'tênis'?" |
@@ -80,8 +80,8 @@ O Copilot reúne especialistas em cada área da VTEX. Você não precisa escolhe
 | **Desenvolvimento de loja** | VTEX IO, Store Framework, FastStore, Headless CMS e APIs da VTEX. | "Qual endpoint uso para atualizar o estoque de um SKU?" |
 | **Dashboards** | Explicação dos dashboards do Admin VTEX, como Sales Performance e Store Overview. | "Como comparo uma campanha passada com hoje no dashboard?" |
 | **Novidades da VTEX** | Status da plataforma, incidentes e notas de lançamento. | "A VTEX está com algum incidente agora?" |
-| **Documentação** | Perguntas do tipo "como faço…" sobre qualquer funcionalidade da VTEX. | "Como crio uma promoção Leve 3 Pague 2?" |
-| **Chamados** | Abertura de chamados técnicos para o Suporte VTEX. | "Abra um chamado sobre este problema." |
+| **Documentação** | Perguntas do tipo "como faço..." sobre qualquer funcionalidade da VTEX. | "Como crio uma promoção Leve 3 Pague 2?" |
+| **Tickets** | Abertura de tickets técnicos para o Suporte VTEX. | "Abra um ticket sobre este problema." |
 
 ![VTEX Copilot respondendo sobre o status de um pedido](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/vtex-copilot-no-admin-vtex_2.png)
 
@@ -108,7 +108,7 @@ Em diagnósticos e perguntas mais complexas, a resposta pode levar alguns instan
 
 ## Anexar arquivos
 
-Você pode enviar imagens e documentos para o Copilot analisar junto com a sua pergunta, como uma captura de tela do erro, uma planilha exportada em PDF ou o comprovante de uma transação.
+Você pode enviar imagens e documentos para o Copilot analisar junto com sua pergunta, como uma captura de tela do erro, uma planilha exportada em PDF ou o comprovante de uma transação.
 
 Para anexar arquivos, siga as instruções abaixo:
 
@@ -116,7 +116,7 @@ Para anexar arquivos, siga as instruções abaixo:
 2. Selecione os arquivos. São aceitos arquivos **JPG, PNG, WEBP, GIF e PDF** de até **4,3 MB** cada.
 3. Escreva sua pergunta e envie.
 
-O Copilot lê os arquivos durante a investigação e pode anexá-los a um chamado para o Suporte VTEX, se for necessário.
+O Copilot lê os arquivos durante a investigação e pode anexá-los a um ticket para o Suporte VTEX, se for necessário.
 
 ![Anexando um arquivo no VTEX Copilot](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/vtex-copilot-no-admin-vtex_3.png)
 
@@ -126,8 +126,8 @@ O Copilot lê os arquivos durante a investigação e pode anexá-los a um chamad
 
 1. **Explica o impacto antes:** o que vai mudar e o que isso significa para a loja em produção.
 2. **Oferece o caminho manual:** se preferir, peça um passo a passo para fazer a alteração você mesmo no Admin VTEX ou pela API.
-3. **Pede a sua confirmação** antes de alterar qualquer valor, a menos que você já tenha autorizado a correção na sua mensagem. Por exemplo: "Corrija o estoque do SKU 4521 no armazém principal para 10 unidades".
-4. **Age com o seu usuário:** a alteração fica registrada em seu nome, da mesma forma que se você a fizesse no Admin VTEX.
+3. **Pede sua confirmação** antes de alterar qualquer valor, a menos que você já tenha autorizado a correção na sua mensagem. Por exemplo: "Corrija o estoque do SKU 4521 no armazém principal para 10 unidades".
+4. **Age com seu usuário:** a alteração fica registrada em seu nome, da mesma forma que se você a fizesse no Admin VTEX.
 
 ![VTEX Copilot pedindo confirmação antes de alterar a loja](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/vtex-copilot-no-admin-vtex_4.png)
 
@@ -137,10 +137,10 @@ Se quiser manter a etapa de confirmação, descreva o problema e pergunte o que 
 
 ## Histórico de conversas
 
-O Copilot guarda as suas conversas para você retomar de onde parou.
+O Copilot guarda suas conversas para você retomar de onde parou.
 
 - Para ver conversas anteriores, clique no ícone de relógio no topo do painel para abrir o **Histórico de chat**. As conversas são agrupadas por data e você pode procurar uma conversa específica em **Buscar conversas…**.
-- Para começar um novo assunto, clique no ícone `+`  no topo do painel.
+- Para começar um novo assunto, clique no ícone `+` (`Novo chat`) no topo do painel.
 
 ![Histórico de conversas do VTEX Copilot](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/vtex-copilot-no-admin-vtex_5.png)
 
@@ -155,25 +155,25 @@ Perguntas específicas recebem respostas melhores e mais rápidas. Siga as recom
 - **Informe IDs sempre que puder.** Número do pedido, ID do produto ou do SKU, nome da promoção, CEP ou e-mail do cliente ajudam o Copilot a ir direto ao ponto.
 - **Diga o que você esperava e o que aconteceu.** Isso permite ao Copilot comparar o comportamento esperado com o real.
 - **Use termos específicos da área.** Eles ajudam o Copilot a encaminhar a pergunta ao especialista certo. Por exemplo, diga "erro no checkout" em vez de "erro ao finalizar o pedido".
-- **Pergunto "como faço..." à vontade.** O Copilot responde com base na documentação oficial da VTEX e envia o link da fonte.
+- **Pergunte "como faço..." à vontade.** O Copilot responde com base na documentação oficial da VTEX e envia o link da fonte.
 
 Veja a seguir exemplos de perguntas que ajudam e que não ajudam:
 
 | Evite ❌ | Prefira ✅ |
 | --- | --- |
-| "O pedido está com problema" | "O pedido 1234567890-01 está em 'Pronto para manuseio' desde ontem. O pagamento foi aprovado e há estoque. O que está bloqueando?" |
+| "O pedido está com problema", depois "é o pedido 1234567890-01" e depois "desde ontem", em três mensagens | "O pedido 1234567890-01 está em 'Pronto para manuseio' desde ontem. O pagamento foi aprovado e há estoque. O que está bloqueando?" |
 | "A promoção não funciona" | "A promoção 'BLACKFRIDAY10' deveria dar 10% de desconto no total do carrinho, mas no checkout o desconto aparece zerado." |
 
 > ℹ️ Como toda IA, o Copilot pode errar. Antes de agir com base em uma resposta, confira em qual conta ele trabalhou, o que exatamente ele está propondo e se a funcionalidade mencionada realmente existe. Se tiver dúvida, peça para ele mostrar o raciocínio ou a fonte.
 
 ## Privacidade e segurança
 
-O Copilot segue estas regras para proteger o seu acesso, as suas conversas e as alterações na loja:
+O Copilot segue estas regras para proteger seu acesso, suas conversas e as alterações na loja:
 
-- **Seu login, suas permissões.** O Copilot usa a sua sessão do Admin VTEX e nunca uma credencial compartilhada. Ele só vê e altera o que o seu usuário pode ver e alterar. Se você não tem acesso ao módulo de Pagamentos, o Copilot também não tem. Por isso, dois usuários da mesma conta podem receber respostas diferentes para a mesma pergunta.
+- **Seu login, suas permissões.** O Copilot usa sua sessão do Admin VTEX e nunca uma credencial compartilhada. Ele só vê e altera o que seu usuário pode ver e alterar. Se você não tem acesso ao módulo de Pagamentos, o Copilot também não tem. Por isso, dois usuários da mesma conta podem receber respostas diferentes para a mesma pergunta.
 - **Sem acessos extras.** O Copilot não concede acessos que você ainda não tem. Pedir a ele para contornar uma permissão não funciona.
-- **Conversas privadas.** As suas conversas com o Copilot no Admin VTEX ficam visíveis apenas para você.
-- **Confirmação antes de alterações.** Nada é alterado na loja sem o seu pedido ou a sua confirmação.
+- **Conversas privadas.** Suas conversas com o Copilot no Admin VTEX ficam visíveis apenas para você.
+- **Confirmação antes de alterações.** Nada é alterado na loja sem seu pedido ou sua confirmação.
 - **Rastreabilidade.** Cada alteração fica registrada em nome do usuário que fez o pedido, da mesma forma que no Admin VTEX.
 
 ## Perguntas frequentes
@@ -181,7 +181,7 @@ O Copilot segue estas regras para proteger o seu acesso, as suas conversas e as 
 Veja a seguir as respostas para as dúvidas mais comuns sobre o uso do Copilot:
 
 **O Copilot disse que não tenho permissão. O que faço?**
-O Copilot herda as permissões do seu usuário. Peça ao administrador da conta para revisar o seu [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) no Admin VTEX.
+O Copilot herda as permissões do seu usuário. Peça ao administrador da conta para revisar seu [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) no Admin VTEX.
 
 **O Copilot altera a loja sem me perguntar?**
 Não. Perguntas de consulta são apenas respondidas. Qualquer alteração passa pela sua confirmação, a menos que você já tenha pedido explicitamente a correção na mensagem.
@@ -193,7 +193,7 @@ No idioma em que você escreve: português, espanhol ou inglês. Para mudar o id
 Envie uma nova mensagem pedindo para continuar, por exemplo: "continue a análise anterior". O histórico da conversa é mantido.
 
 **O Copilot pediu para eu entrar novamente ou disse que não tenho acesso à conversa. O que faço?**
-O Copilot usa a sua sessão do Admin VTEX. Saia do Admin VTEX, entre novamente e abra o Copilot outra vez.
+O Copilot usa sua sessão do Admin VTEX. Saia do Admin VTEX, entre novamente e abra o Copilot outra vez.
 
 **Posso usar o Copilot em mais de uma conta?**
-Sim. O Copilot trabalha na conta do Admin VTEX em que você está conectado. Para consultar outra conta, acesse o Admin VTEX dessa conta.
+Sim. O Copilot trabalha na conta do Admin VTEX em que você iniciou a sessão. Para consultar outra conta, acesse o Admin VTEX dessa conta.

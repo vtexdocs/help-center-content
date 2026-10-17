@@ -21,7 +21,7 @@ Neste artigo, você vai aprender a identificar a origem de um problema front-end
 
 Para fazer isso, vamos ensinar a remover as customizações por meio de uma ferramenta nativa do próprio Chrome, o **DevTools**.
 
-> ℹ️ Se o problema continuar mesmo com as customizações bloqueadas, o [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, pode abrir um ticket no Suporte VTEX já preenchido com o contexto da conversa e com os prints que você enviar.
+> ℹ️ Se o problema continuar mesmo com as customizações bloqueadas, o [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, abre um ticket para o Suporte VTEX já preenchido com o contexto da conversa e com as capturas de tela que você enviar.
 
 ## Como configurar o DevTools
 
