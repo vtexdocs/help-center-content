@@ -56,6 +56,7 @@ Na tela inicial, a seção **Experimente uma destas** traz sugestões prontas pa
 | **Por que meu SKU não aparece na loja?** | Verifica tudo que controla a visibilidade de um produto (status do produto e do SKU, preço, estoque e política comercial) e indica o que está faltando. |
 | **Criar uma promoção ou um cupom** | Pergunta o que você precisa decidir (tipo, desconto, itens afetados e validade) e mostra exatamente o que será criado antes de aplicar. |
 | **Excluir dados de um cliente (GDPR)** | Conduz a exclusão dos dados pessoais de um cliente, com uma prévia para você revisar antes de confirmar. |
+| **Continuar com: _título da conversa_** | Aparece no topo das sugestões quando você usou uma conversa nas últimas 24 horas neste navegador, com a data e o horário do último acesso. Reabre essa conversa com todo o histórico para você continuar de onde parou. |
 
 ## O que você pode pedir
 
@@ -196,4 +197,4 @@ Envie uma nova mensagem pedindo para continuar, por exemplo: "continue a anális
 O Copilot usa sua sessão do Admin VTEX. Saia do Admin VTEX, entre novamente e abra o Copilot outra vez.
 
 **Posso usar o Copilot em mais de uma conta?**
-Sim. O Copilot trabalha na conta do Admin VTEX em que você iniciou a sessão. Para consultar outra conta, acesse o Admin VTEX dessa conta.
+Sim. O Copilot trabalha na conta do Admin VTEX em que você iniciou a sessão. Para consultar outra conta, acesse o Admin VTEX dessa conta. Se o Copilot tiver dificuldade para abrir um ticket a partir de uma subconta, como uma conta franquia, acesse o Admin VTEX da conta principal e abra o mesmo ticket por lá, informando a subconta em que o problema acontece.
