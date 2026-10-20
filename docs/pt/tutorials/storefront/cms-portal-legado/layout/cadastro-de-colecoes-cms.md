@@ -99,7 +99,7 @@ Para excluir um SKU da lista, clique no botão vermelho ao lado dele.
 
 ### Por planilha
 
-> ℹ️ Baixe o [modelo de planilha](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/pt/tutorials/storefront/cms-portal-legado/layout/Colecao.xls) para a inclusão e exclusão de SKUs da coleção.
+> ℹ️ Baixe o [modelo de planilha](https://cdn.statically.io/gh/vtexdocs/help-center-content@main/docs/pt/tutorials/storefront/cms-portal-legado/layout/Colecao.xls) para a inclusão e exclusão de SKUs da coleção.
 
 #### Inclusão massiva
 
