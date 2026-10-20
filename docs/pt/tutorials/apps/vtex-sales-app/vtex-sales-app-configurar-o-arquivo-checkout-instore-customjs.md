@@ -132,7 +132,7 @@ noteAsVendorCode: {
 
 ## Cliente anônimo
 
-- `allowAnonymousUser`: quando configurado como `true`, permite finalizar pedidos sem identificar o cliente; quando `false`, não permite.
+- `allowAnonymousUser`: quando configurado como `true`, permite finalizar pedidos sem identificar o cliente; quando `false`, não permite. Utilizado para vendas de estoque local (On Hands).
 
 ## Social Selling
 
