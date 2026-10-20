@@ -59,11 +59,12 @@ O `checkout-instore-custom.js` é o arquivo usado para personalizar as configura
 - `sales.enabled`: habilita a funcionalidade de venda no Sales App.
 - `salesAssociateTracking.enabled`: ativa o rastreio de vendas por vendedor, de forma que pedidos sejam associados a um código de vendedor.
 
+> ⚠️ Tanto `sales.enabled` quanto `salesAssociateTracking.enabled` precisam estar configurados como `true` para que o Sales App funcione corretamente.
+
 ## Pagamentos
 
-- `challengeDrivenPaymentWorkflow`: ativa um fluxo de pagamento com validações adicionais, como [carteiras digitais (ewallets)](https://help.vtex.com/pt/docs/tracks/carteira-digital-e-wallet).
+- `challengeDrivenPaymentWorkflow`: ativa um fluxo de pagamento com validações adicionais, como [carteiras digitais (ewallets)](https://help.vtex.com/pt/docs/tracks/carteira-digital-e-wallet), [Payment Apps](https://developers.vtex.com/docs/guides/payments-integration-payment-app) e [POS (Point of Sales)](https://developers.vtex.com/docs/guides/payments-integration-ppp-applied-to-pos?utm_source=chatgpt.com).
 - `payments.filters`: lista os IDs dos meios de pagamento (`paymentSystemId`) que podem aparecer no checkout do Sales App (ex: `'1'`, `'4'`, `'125'`, `'202'`, `'44'`, `'45'`, `'207'`, `'208'`, `'209'`).
-- `newPaymentArchitectureEnabled`: define a bifurcação no fluxo de pagamento dentro do Sales App. Quando configurado como `true`, o Sales App usa a arquitetura na qual ele resolve o pagamento localmente sem chamar o endpoint do gateway.
 
 ## Código do vendedor (`noteAsVendorCode`)
 
