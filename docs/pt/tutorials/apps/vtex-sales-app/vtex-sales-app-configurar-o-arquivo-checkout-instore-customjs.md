@@ -100,7 +100,7 @@ O `checkout-instore-custom.js` é o arquivo usado para personalizar as configura
 - `search.vtexSearch`: quando configurado como `true`, usa o [Intelligent Search](https://help.vtex.com/pt/docs/tutorials/intelligent-search-overview). Quando `false` ou omitida, usa o [VTEX Search (Legado)](https://help.vtex.com/pt/docs/tutorials/how-does-vtex-search-legacy-work). Os filtros facetados (`search.filtersEnabled`) e a regionalização (`search.regionalizationEnabled`) dependem desta flag estar configurada como `true`.
 - `search.filtersEnabled`: habilita filtros facetados na interface de busca. Só tem efeito quando `search.vtexSearch` está configurada como `true`.
 - `search.regionalizationEnabled`: ativa a [busca regionalizada](https://help.vtex.com/pt/docs/tutorials/regionalizacao). Só tem efeito quando `search.vtexSearch` está configurada como `true`.
-- `search.alternateIdRegex`: identifica a expressão regular (regex) usada para reconhecer IDs alternativos (ex: código de barras).
+- `search.alternateIdRegex`: identifica a expressão regular (regex) usada para reconhecer IDs de SKU alternativos (ex: código de barras).
 
 ## Cancelamento de pedido
 
@@ -108,7 +108,6 @@ O `checkout-instore-custom.js` é o arquivo usado para personalizar as configura
 
 ## Configuração de dispositivo / impressora
 
-- `configureDeviceEnabled`: habilita a tela de configuração de dispositivos, como impressoras.
 - `printingConfig.printByBroker`: define como o Sales App realiza a impressão. Quando `false`, a impressão é feita diretamente pelo dispositivo; quando `true`, a solicitação passa por um "broker" de impressão, serviço intermediário que a encaminha para a impressora.
 - `defaultDevice.deviceName`: define o nome da impressora padrão (ex: `'PDFwriter'`).
 - `remotePrinterOptions.deviceName`: define o nome da impressora usada para impressão remota.
