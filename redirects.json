@@ -13023,11 +13023,11 @@
       },
       {
         "from": "/en/docs/tutorials/what-is-a-credit-card-brand",
-        "to": "/en/docs/tutorials/financial-agents-in-the-payment-flow#credit-card-brand"
+        "to": "/en/docs/tutorials/financial-agents-in-the-payment-flow#card-network"
       },
       {
         "from": "/en/tutorial/what-is-a-credit-card-brand",
-        "to": "/en/docs/tutorials/financial-agents-in-the-payment-flow#credit-card-brand"
+        "to": "/en/docs/tutorials/financial-agents-in-the-payment-flow#card-network"
       },
       {
         "from": "/en/docs/tutorials/what-is-the-issuing-bank",
@@ -13039,11 +13039,11 @@
       },
       {
         "from": "/en/docs/tutorials/what-is-anti-fraud",
-        "to": "/en/docs/tutorials/financial-agents-in-the-payment-flow#anti-fraud"
+        "to": "/en/docs/tutorials/financial-agents-in-the-payment-flow#anti-fraud-solution"
       },
       {
         "from": "/en/tutorial/what-is-anti-fraud",
-        "to": "/en/docs/tutorials/financial-agents-in-the-payment-flow#anti-fraud"
+        "to": "/en/docs/tutorials/financial-agents-in-the-payment-flow#anti-fraud-solution"
       },
       {
         "from": "/es/docs/tutorials/cual-es-la-diferencia-entre-adquirente-bandera-gateway-y-sub-adquirente-en-brasil",
@@ -13079,11 +13079,11 @@
       },
       {
         "from": "/es/docs/tutorials/que-es-una-bandera-de-tarjeta-de-credito",
-        "to": "/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#bandera-de-tarjeta-de-credito"
+        "to": "/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#red-de-tarjeta"
       },
       {
         "from": "/es/tutorial/que-es-una-bandera-de-tarjeta-de-credito",
-        "to": "/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#bandera-de-tarjeta-de-credito"
+        "to": "/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#red-de-tarjeta"
       },
       {
         "from": "/es/docs/tutorials/que-es-el-banco-emisor",
