@@ -41,11 +41,11 @@ La primera generación, 3D Secure 1.0, estaba basada en XML y redirigía al comp
 
 En VTEX, el proveedor de pago implementa 3DS 2 a través de [Payment App](https://developers.vtex.com/docs/guides/payments-integration-payment-app#scenario-2-payment-app-and-3d-secure-2). Así, el comprador permanece en el checkout y se autentica en una ventana modal, sin ser redirigido al sitio web del banco. Para activar 3DS 2 y conocer sus limitaciones, consulta [Configurar flujo de autenticación 3DS 2](/es/docs/tutorials/configurar-flujo-de-autenticacion-3ds-2).
 
-3D Secure y el [antifraude](/es/docs/tutorials/que-es-antifraude) tienen funciones diferentes: 3DS confirma la identidad del comprador ante el banco emisor y el antifraude evalúa el riesgo del pedido. Para configurar el antifraude, consulta [Configurar el antifraude](/es/docs/tutorials/como-configurar-antifraude). Para entender el flujo de autorización con tarjeta de crédito, consulta [Tarjeta de crédito - Flujo básico de un pago](/es/docs/tutorials/tarjeta-de-credito-flujo-basico-de-un-pago).
+3D Secure y el [antifraude](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#antifraude) tienen funciones diferentes: 3DS confirma la identidad del comprador ante el banco emisor y el antifraude evalúa el riesgo del pedido. Para configurar el antifraude, consulta [Configurar el antifraude](/es/docs/tutorials/como-configurar-antifraude). Para entender el flujo de autorización con tarjeta de crédito, consulta [Tarjeta de crédito - Flujo básico de un pago](/es/docs/tutorials/tarjeta-de-credito-flujo-basico-de-un-pago).
 
 ### Artículos relacionados
 
 - [Configurar flujo de autenticación 3DS 2](/es/docs/tutorials/configurar-flujo-de-autenticacion-3ds-2)
 - [Tarjeta de crédito - Flujo básico de un pago](/es/docs/tutorials/tarjeta-de-credito-flujo-basico-de-un-pago)
-- [¿Qué es antifraude?](/es/docs/tutorials/que-es-antifraude)
+- [Agentes financieros en el flujo de pago](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#antifraude)
 - [Configurar el antifraude](/es/docs/tutorials/como-configurar-antifraude)

@@ -41,11 +41,11 @@ The first generation, 3D Secure 1.0, was XML-based and redirected the buyer to t
 
 On VTEX, the payment provider implements 3DS 2 via [Payment App](https://developers.vtex.com/docs/guides/payments-integration-payment-app#scenario-2-payment-app-and-3d-secure-2). This way, the buyer stays in checkout and authenticates in a modal window, without being redirected to the bank's site. To activate 3DS 2 and learn about its limitations, see [Setting up 3DS 2 authentication flow](/docs/tutorials/setting-up-3ds-2-authentication-flow).
 
-3D Secure and the [anti-fraud solution](/docs/tutorials/what-is-anti-fraud) serve different purposes: 3DS confirms the buyer's identity with the issuing bank, and the anti-fraud solution evaluates the order's risk. To configure the anti-fraud solution, see [Configuring the anti-fraud](/docs/tutorials/how-to-configure-the-anti-fraud). To understand the credit card authorization flow, see [Credit Card - Basic payment flow](/docs/tutorials/credit-card-basic-payment-flow).
+3D Secure and the [anti-fraud solution](/docs/tutorials/financial-agents-in-the-payment-flow#anti-fraud-solution) serve different purposes: 3DS confirms the buyer's identity with the issuing bank, and the anti-fraud solution evaluates the order's risk. To configure the anti-fraud solution, see [Configuring the anti-fraud](/docs/tutorials/how-to-configure-the-anti-fraud). To understand the credit card authorization flow, see [Credit Card - Basic payment flow](/docs/tutorials/credit-card-basic-payment-flow).
 
 ### Related articles
 
 - [Setting up 3DS 2 authentication flow](/docs/tutorials/setting-up-3ds-2-authentication-flow)
 - [Credit Card - Basic payment flow](/docs/tutorials/credit-card-basic-payment-flow)
-- [What is anti-fraud?](/docs/tutorials/what-is-anti-fraud)
+- [Financial agents in the payment flow](/docs/tutorials/financial-agents-in-the-payment-flow#anti-fraud-solution)
 - [Configuring the anti-fraud](/docs/tutorials/how-to-configure-the-anti-fraud)
