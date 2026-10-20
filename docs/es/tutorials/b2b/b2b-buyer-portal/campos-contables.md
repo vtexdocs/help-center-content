@@ -8,13 +8,13 @@ locale: es
 slugEN: accounting-fields
 ---
 
-Los **campos contables** permiten recopilar información adicional durante la compra en [B2B Buyer Portal](https://help.vtex.com/es/docs/tutorials/b2b-buyer-portal-es), como **centro de costo**, **número de orden de compra (PO)** y otros datos de control. Esta información se asocia al pedido, ayudando a la empresa a estandarizar datos, aplicar reglas internas y facilitar auditorías.
+Los **campos contables** permiten recopilar información adicional durante la compra en [B2B Buyer Portal](https://help.vtex.com/es/docs/tutorials/b2b-buyer-portal-es), como centro de costos, número interno de orden de compra (PO) y otros datos de control. Esta información se asocia al pedido, ayudando a la empresa a estandarizar datos, aplicar reglas internas y facilitar auditorías.
 
-> ⚠️ Esta funcionalidad solo está disponible para tiendas que usan [B2B Buyer Portal](https://help.vtex.com/es/docs/tutorials/b2b-buyer-portal-es), actualmente disponible para cuentas seleccionadas.
+> ⚠️ Esta funcionalidad se encuentra disponible únicamente para tiendas que utilizan [B2B Buyer Portal](https://help.vtex.com/es/docs/tutorials/b2b-buyer-portal-es), actualmente disponible para cuentas seleccionadas.
 
-## Uso de los campos contables
+## Uso de campos contables
 
-Con campos contables, tu empresa puede:
+Con los campos contables tu empresa puede:
 
 - Estandarizar la información de compras entre unidades organizativas y compradores.
 - Exigir datos obligatorios antes de finalizar el pedido.
@@ -23,14 +23,14 @@ Con campos contables, tu empresa puede:
 
 ## Roles
 
-Hay dos roles relacionados con el uso de campos contables:
+Los campos contables funcionan en dos roles:
 
 - **Administrador**: crea los campos necesarios para la empresa y define dónde aparece cada campo en el checkout.
 - **Comprador**: llena los campos durante la compra.
 
 ## Aplicación de los campos
 
-Los campos pueden configurarse en diferentes niveles:
+El administrador puede configurar cada campo para que se aplique en uno de los siguientes niveles:
 
 - **Pedido**: se aplica a toda la compra.
 - **Ítem**: se aplica a cada producto en el carrito.
@@ -38,111 +38,110 @@ Los campos pueden configurarse en diferentes niveles:
 
 ## Tipos de campo
 
-Al crear un campo contable, el administrador debe elegir uno de los siguientes tipos.
+El comportamiento de llenado de un campo contable depende de cómo crea el campo el administrador: por la cuenta de la organización o por la [Custom Fields API](https://developers.vtex.com/docs/api-reference/custom-fields-api).
 
-### Texto (`text`)
+### Campos creados en la cuenta de la organización
 
-Permite que el comprador ingrese un valor libre en el checkout.
+Los campos creados en la interfaz de la cuenta de la organización son de tipo lista de forma predeterminada. En el checkout, el comprador selecciona uno de los valores predefinidos que el administrador gestiona en la página de detalles del campo.
 
-- Acepta cualquier secuencia de caracteres.
-- No tiene validación de formato además de la obligatoriedad (cuando está configurada).
+Al crear el campo, el administrador también puede marcar la opción **Habilitar campo de texto libre** para permitir que los compradores ingresen un valor manualmente en el checkout, además de seleccionar un valor de la lista.
 
-### Número (`number`)
+### Campos creados vía API
 
-Permite la inserción exclusiva de valores numéricos.
+Al crear un campo contable mediante Custom Fields API, el administrador debe elegir uno de los siguientes tipos:
 
-- Solamente acepta números.
-- Se puede utilizar cuando el valor debe seguir un formato estrictamente numérico.
+- **Texto (`text`):** acepta cualquier secuencia de caracteres, sin validación de formato. Si el campo está configurado como obligatorio, la plataforma solo verifica si el comprador lo completó.
+- **Número (`number`):** acepta solo números. Se puede utilizar cuando el valor debe seguir un formato estrictamente numérico.
+- **Opción (`option`):** muestra una lista de valores predefinidos para selección, lo que permite la estandarización de datos. Es el único tipo creado vía API que puede tener un valor predeterminado por unidad organizativa.
 
-### Opción (`option`)
-
-Muestra una lista de valores previamente registrados para selección.
-
-- El comprador debe seleccionar una de las opciones disponibles.
-- Permite la estandarización de datos.
-- Es el único tipo que puede recibir **un valor predeterminado por unidad organizativa**.
-
-## Configuración de cada campo
+## Configuración de los campos
 
 Al crear un campo, el administrador define:
 
 - Nombre del campo.
-- Tipo (`text`, `number` u `option`).
-- Nivel de aplicación (pedido, ítem o dirección).
+- Nivel de entrada (pedido o ítem).
 - Obligatoriedad (obligatorio u opcional).
-- Status (activado o desactivado).
+- Llenado con texto libre en el checkout (solo campos creados en la cuenta de la organización).
+- Tipo `text`, `number` u `option` (solo campos creados vía API).
+- Status habilitado o deshabilitado (solo campos creados vía API).
+
+El administrador puede crear y eliminar de forma permanente campos contables directamente en la cuenta de la organización, en **Contratos > [contrato] > Campos contables**, además de gestionar la configuración y los valores de cada campo. Para consultar las instrucciones, accede a [Agregar o editar campos contables](https://help.vtex.com/es/docs/tutorials/agregar-o-editar-campos-contables).
 
 ## Valores predeterminados en el checkout
 
-Para reducir el llenado manual y evitar incoherencias pueden configurarse valores predeterminados por **unidad organizativa**.
+Para reducir el llenado manual y evitar incoherencias, puedes configurar valores predeterminados por unidad organizativa.
 
-Es posible definir como predeterminado:
+Puedes definir como predeterminados los siguientes ítems:
 
 - Dirección
 - Tarjeta
-- Campos contables del tipo `option`.
+- Campos contables con valores predefinidos: campos de lista creados en la cuenta de la organización y campos del tipo `option` creados mediante API.
 
-> ⚠️ Solo los campos de tipo `option` pueden definirse como valor predeterminado.
+Para los campos creados en la cuenta de la organización, se define el valor predeterminado en la página de detalles del campo, usando la opción **Definir como predeterminado** en el menú de opciones del valor.
 
 > ℹ️ Para más información sobre cómo agregar o configurar campos contables, accede a [Agregar o editar campos contables](https://help.vtex.com/es/docs/tutorials/agregar-o-editar-campos-contables).
 
-## Resultados para el administrador
+## Asignación de presupuestos a campos contables
+
+Puedes usar campos contables como entidades vinculadas en asignaciones de presupuesto, distribuyendo un presupuesto entre los valores de un campo. Por ejemplo, puedes asignar un límite de gastos a cada centro de costos. Esto permite que la organización controle los gastos con base en la información contable recopilada en el checkout. Para más información, accede a [Presupuestos - Información general](https://help.vtex.com/es/docs/tutorials/presupuestos-informacion-general).
+
+## Resultados para los administradores
 
 - Datos coherentes entre unidades organizativas.
 - Mejor aplicación de reglas internas de compra.
 - Mayor seguridad para informes y auditorías.
 
-## Resultados para el comprador
+## Resultados para los compradores
 
 - Los campos se muestran en el checkout con instrucciones claras.
-- Algunos valores pueden venir autocompletados (cuando se configuran por la unidad organizativa).
-- El pedido se finaliza con menos retrabajo y menor riesgo de error.
+- El checkout completa automáticamente los valores predeterminados configurados para la unidad organizativa.
+- El comprador finaliza el pedido con menos retrabajo y menor riesgo de error.
 
 ## Ejemplos de uso
 
 ### Exigir información obligatoria en todos los pedidos
 
-- **Escenario:** la empresa necesita registrar **centro de costo** y **PO** en todos los pedidos.
-- **Configuración:** crear campos obligatorios a nivel de `pedido` (`option` para centro de costo y `text` o `number` para PO).
-- **Resultado:** el pedido solo puede completarse con los datos llenados, garantizando así su conformidad.
+- **Escenario:** la empresa necesita registrar el **centro de costos** y el **número de PO** en todos los pedidos.
+- **Configuración:** crear campos obligatorios a nivel de pedido (`option` para centro de costos y `text` o `number` para el número de PO).
+- **Resultado:** el comprador solo puede finalizar el pedido después de proporcionar toda la información, lo que garantiza el cumplimiento.
 
-### Checkout autocompletado por unidad organizativa
+### Autocompletar campos del checkout por unidad organizativa
 
 - **Escenario:** la empresa desea reducir errores y tiempo de compra en múltiples unidades.
-- **Configuración:** definir valores predeterminados por **unidad organizativa** para los campos de dirección, tarjeta y tipo `option`.
-- **Resultado:** el checkout aparece autocompletado tras el inicio de sesión, reduciendo el retrabajo.
+- **Configuración:** definir valores predeterminados por unidad organizativa para dirección, tarjeta y campos contables con valores predefinidos.
+- **Resultado:** el checkout completa los campos automáticamente después del inicio de sesión, reduciendo el esfuerzo.
 
-### Clasificación de proyecto o actividad
+### Clasificar proyectos o actividades
 
-- **Escenario:** la empresa necesita asociar cada ítem comprado a un proyecto o actividad.
-- **Configuración:** crear un campo `option` en el nivel de `item` con la lista de actividades o proyectos activos.
+- **Escenario:** la empresa necesita vincular cada ítem comprado a un proyecto o actividad.
+- **Configuración:** crear un campo `option` a nivel de ítem con una lista de proyectos o actividades activos.
 - **Resultado:** cada ítem se vincula a un proyecto, facilitando la distribución y el control de costos.
 
-### Diferenciar compra para reventa y consumo interno
+### Diferenciar compras para reventa y consumo interno
 
 - **Escenario:** la empresa necesita identificar el tipo de compra en el pedido.
-- **Configuración:** crear un campo `option` en el nivel de `pedido` con valores predefinidos (Reventa/Consumo interno).
-- **Resultado:** permite segmentar pedidos y aplicar reglas fiscales o comerciales.
+- **Configuración:** crear un campo `option` a nivel de pedido con valores predefinidos, como reventa y consumo interno.
+- **Resultado:** permite que la empresa segmente los pedidos y aplique reglas fiscales o comerciales.
 
-### Segmentación para informes de gestión
+### Segmentar para informes de gestión
 
-- **Escenario:** el equipo financiero necesita clasificar pedidos por tipo de gasto.
-- **Configuración:** crear campos `option` estandarizados en el nivel de `pedido` (ej.: CAPEX, OPEX).
-- **Resultado:** los informes se pueden filtrar sin necesidad de procesamiento manual posterior.
+- **Escenario:** el equipo financiero necesita clasificar los pedidos por tipo de gasto.
+- **Configuración:** crear campos `option` estandarizados a nivel de pedido (ejemplo: CAPEX, OPEX).
+- **Resultado:** el equipo financiero puede filtrar informes sin tratamiento manual posterior.
 
-### Justificación obligatoria para compras específicas
+### Exigir justificación para compras específicas
 
-- **Escenario:** la empresa exige justificación en compras sensibles o superiores a determinado valor.
-- **Configuración:** crear un campo `text` obligatorio en el nivel de `pedido`.
-- **Resultado:** la justificación queda registrada en el pedido para revisión o auditoría.
+- **Escenario:** la empresa requiere una justificación en compras sensibles o que superen un valor determinado.
+- **Configuración:** crear un campo `text` obligatorio a nivel de pedido.
+- **Resultado:** la plataforma registra la justificación en el pedido para revisión o auditoría.
 
-### Estandarización y gobernanza centralizada
+### Estandarizar y centralizar la gobernanza
 
 - **Escenario:** la empresa necesita evitar variaciones en el llenado de datos.
-- **Configuración:** utilizar campos `option` en lugar de texto libre y definir valores por **unidad organizativa**.
+- **Configuración:** utilizar campos de tipo `option` en lugar de texto libre y definir valores predeterminados por unidad organizativa.
 - **Resultado:** datos más coherentes y auditables en toda la operación.
 
-### Control de compliance en empresas reguladas
+### Controlar compliance en empresas reguladas
 
 - **Escenario:** la empresa necesita registrar códigos regulatorios por ítem.
 - **Configuración:** crear un campo obligatorio en el nivel de `item` (por ejemplo, de tipo `text` u `option`).

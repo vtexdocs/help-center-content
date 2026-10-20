@@ -3,7 +3,7 @@ title: 'Technical and administrative measures'
 id: 7ANSqBP5DgOrVVyglo3Lbh
 status: PUBLISHED
 createdAt: 2024-05-03T20:26:17.710Z
-updatedAt: 2024-05-03T21:12:11.696Z
+updatedAt: 2026-09-11T14:17:38.000Z
 publishedAt: 2024-05-03T21:12:11.696Z
 firstPublishedAt: 2024-05-03T20:57:29.358Z
 contentType: trackArticle
@@ -39,6 +39,21 @@ See below the practices adopted by VTEX, detailed in the[ DPA](https://complianc
 - Support for merchants in conducting a [Data Protection Impact Assessment (DPIA)](https://commission.europa.eu/law/law-topic/data-protection/reform/rules-business-and-organisations/obligations/when-data-protection-impact-assessment-dpia-required_pt).
 
 For more information, see [Security Practices - VTEX](https://vtex.com/us-en/security/security-practices/).
+
+## Certifications
+
+VTEX regularly audits its information security controls through independent professionals to ensure transparency and best practices. This external validation aligns policies and procedures with security standards and strengthens the trust of clients and partners.
+
+VTEX holds the following certifications and accreditations:
+
+* **ISO 27001** – Information Security Management System (ISMS).
+* **ISO 27701** – Privacy Information Management System (PIMS), an extension of ISO 27001.
+* **SOC 1 – Type 2**: Reports that covers internal controls over financial reporting systems.
+* **SOC 2 – Type 2**: Reports covering security, availability, integrity, confidentiality, and privacy.
+* **PCI-DSS**: Validation of controls over cardholder data, to reduce credit card fraud.
+* **PCI-DESV**: An additional set of procedures and validation requirements applied to specific high-risk or designated organizations.
+
+See our [Certifications](https://compliance.vtex.com/) for more details.
 
 ## Storage
 

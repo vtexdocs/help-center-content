@@ -23,7 +23,7 @@ Neste artigo, serão abordados pontos referentes à integração de pedidos e ap
 
 Pedidos feitos na B2W são automaticamente inseridos na base de dados da SkyHub e, em seguida, disponibilizados para a VTEX no formato de fila. Em geral, este processo leva cerca de uma hora e não requer ação manual. Como essa fila é absorvida constantemente pela VTEX, não há acúmulo de pedidos.
 
-A aprovação de pedidos na B2W só é feita quando existe estoque positivo para todos os SKUs inseridos no pedido no momento de sua aprovação. Para saber mais sobre casos de pedidos não integrados, consulte [Erros de integração de pedidos da B2W](/pt/docs/tutorials/erros-de-integracao-de-pedidos-da-b2w).
+A aprovação de pedidos na B2W só é feita quando existe estoque positivo para todos os SKUs inseridos no pedido no momento de sua aprovação. Para saber mais sobre casos de pedidos não integrados, consulte [Erros de integração de pedidos da B2W](/pt/troubleshooting/erros-de-integracao-de-pedidos-da-b2w).
 
 ## B2W Entregas e B2W Entregas Direct
 

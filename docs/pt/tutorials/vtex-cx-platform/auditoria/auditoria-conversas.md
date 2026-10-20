@@ -39,6 +39,7 @@ Para encontrar atendimentos específicos, você pode utilizar os recursos de bus
 
 - Para localizar um atendimento por contato, digite o nome do contato no campo **Buscar**.
 - Para filtrar a lista por critérios como intervalo de tempo, status, CSAT, tópico ou tipo de conversa, clique em `Filtrar conversas` e selecione as opções desejadas. Ao final, clique em `Aplicar filtros`.
+- Para encontrar conversas que não receberam nenhuma classificação de tópico, clique em `Filtrar conversas` e, em **Tópico**, selecione a opção **Nenhum tópico correspondente**. Esse filtro ajuda a identificar assuntos que os clientes trazem e que ainda não foram mapeados nos tópicos do seu agente.
 
 ## Abrir e ler uma conversa
 

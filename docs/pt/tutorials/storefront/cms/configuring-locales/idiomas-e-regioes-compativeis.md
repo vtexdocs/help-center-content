@@ -25,6 +25,8 @@ Você pode configurar localidades usando os idiomas abaixo:
 
 * Alemão (de)  
 * Búlgaro (bg)  
+* Chinês (zh)  
+* Coreano (ko)  
 * Croata (hr)  
 * Dinamarquês (da)  
 * Eslovaco (sk)  
@@ -39,6 +41,7 @@ Você pode configurar localidades usando os idiomas abaixo:
 * Inglês (en)  
 * Irlandês (ga)  
 * Italiano (it)  
+* Japonês (ja)  
 * Letão (lv)  
 * Lituano (lt)  
 * Maltês (mt)  
@@ -51,12 +54,6 @@ Você pode configurar localidades usando os idiomas abaixo:
 
 ## Regiões suportadas
 
-### América do Norte
-
-* Canadá (CA)  
-  * México (MX)  
-  * Estados Unidos (US)
-
 ### América Central
 
 * Belize (BZ)  
@@ -66,6 +63,35 @@ Você pode configurar localidades usando os idiomas abaixo:
   * Honduras (HN)  
   * Nicarágua (NI)  
   * Panamá (PA)
+
+### América do Norte
+
+* Canadá (CA)  
+  * México (MX)  
+  * Estados Unidos (US)
+
+### América do Sul
+
+* Argentina (AR)  
+  * Bolívia (BO)  
+  * Brasil (BR)  
+  * Chile (CL)  
+  * Colômbia (CO)  
+  * Equador (EC)  
+  * Guiana (GY)  
+  * Paraguai (PY)  
+  * Peru (PE)  
+  * Suriname (SR)  
+  * Uruguai (UY)  
+  * Venezuela (VE)
+
+### Ásia
+
+* China (CN)  
+  * Coreia do Sul (KR)  
+  * Hong Kong (HK)  
+  * Japão (JP)  
+  * Taiwan (TW)
 
 ### Caribe
 
@@ -113,18 +139,3 @@ Você pode configurar localidades usando os idiomas abaixo:
   * República Tcheca (CZ)  
   * Romênia (RO)  
   * Suécia (SE)
-
-### América do Sul
-
-* Argentina (AR)  
-  * Bolívia (BO)  
-  * Brasil (BR)  
-  * Chile (CL)  
-  * Colômbia (CO)  
-  * Equador (EC)  
-  * Guiana (GY)  
-  * Paraguai (PY)  
-  * Peru (PE)  
-  * Suriname (SR)  
-  * Uruguai (UY)  
-  * Venezuela (VE)
