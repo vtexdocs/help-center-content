@@ -29,10 +29,12 @@ Para adicionar um novo provedor de pagamento ou antifraude em sua loja, siga os 
 2. Clique em `Novo provedor`.
 3. Digite o nome do provedor de pagamento ou antifraude desejado na barra de busca e clique sobre ele.
 4. Preencha os campos __Chave de aplicação__ e __Token de aplicação__ com as informações fornecidas pelo provedor.
-5. Caso seja exibida uma mensagem de alerta indicando a necessidade de instalação do app, clique no botão __Instalar app__ e siga as instruções de instalação. Esta mensagem é exibida somente para alguns tipos de conectores.
-6. Clique em `Salvar`.
 
-> ℹ️ Alguns provedores exigem outros campos além da **Chave de aplicação** e do **Token de aplicação** (passo 4) ou a instalação de um app (passo 5). Nesses casos, configure o provedor conforme o tutorial específico, disponível na [Lista de provedores de pagamento por país](/pt/docs/tutorials/lista-de-provedores-de-pagamento-por-pais).
+    > ⚠️ Para alguns conectores, uma mensagem solicitará a instalação do app. Se ela aparecer, clique em `Instalar app` e siga as instruções.
+
+5. Clique em `Salvar`.
+
+> ℹ️ Alguns provedores exigem outros campos além da **Chave de aplicação** e do **Token de aplicação** (passo 4) ou a instalação de um app. Nesses casos, configure o provedor conforme o tutorial específico, disponível na [Lista de provedores de pagamento por país](/pt/docs/tutorials/lista-de-provedores-de-pagamento-por-pais).
 
 > ❗ As credenciais utilizadas para preencher os campos **Chave de aplicação** e **Token de aplicação** devem ser fornecidas pelo provedor de pagamentos para identificar a loja. Não devem ser utilizadas [credenciais geradas no Admin](/pt/docs/tutorials/chaves-de-api#gerar-chaves-de-aplicacao-na-sua-conta), que se iniciam com `vtexappkey-`.
 
