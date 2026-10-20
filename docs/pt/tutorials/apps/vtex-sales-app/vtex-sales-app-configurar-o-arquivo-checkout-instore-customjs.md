@@ -130,12 +130,6 @@ noteAsVendorCode: {
 
 - `isCancelOrderAlwaysVisible`: quando configurado como `true`, mantém sempre visível na interface a opção de cancelar o pedido; quando `false`, não mantém visível.
 
-## Configuração de dispositivo / impressora
-
-- `printingConfig.printByBroker`: define como o Sales App realiza a impressão. Quando `false`, a impressão é feita diretamente pelo dispositivo; quando `true`, a solicitação passa por um "broker" de impressão, serviço intermediário que a encaminha para a impressora.
-- `defaultDevice.deviceName`: define o nome da impressora padrão (ex: `'PDFwriter'`).
-- `remotePrinterOptions.deviceName`: define o nome da impressora usada para impressão remota.
-
 ## Cliente anônimo
 
 - `allowAnonymousUser`: quando configurado como `true`, permite finalizar pedidos sem identificar o cliente; quando `false`, não permite.
