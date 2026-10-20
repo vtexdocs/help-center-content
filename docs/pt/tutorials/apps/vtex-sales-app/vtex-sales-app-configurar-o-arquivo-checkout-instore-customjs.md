@@ -84,7 +84,31 @@ O `checkout-instore-custom.js` é o arquivo usado para personalizar as configura
   | `true` | Salva o código sem consultar o Master Data. |
   | Flag ausente do arquivo | O campo não se torna obrigatório, mas o Sales App realiza a validação se o código inserido na verificação estiver correto. |
 
-- `noteAsVendorCode.autofill`: quando configurado como `true`, tenta preencher automaticamente o código do vendedor; quando `false`, não tenta o preenchimento automático.
+- `noteAsVendorCode.autofill`: define se o código do vendedor é preenchido automaticamente no link compartilhado.
+
+  | Valor | Resultado |
+  | :--- | :--- |
+  | `false` | Não preenche o código automaticamente. |
+  | `true` | Preenche automaticamente o código do vendedor no link compartilhado. Só funciona se `socialShare` estiver definido. |
+  | Flag ausente do arquivo | O valor padrão é `true`. |
+
+- `noteAsVendorCode.mask`: expressão regular (regex) que valida o formato do código do vendedor.
+
+  | Valor | Resultado |
+  | :--- | :--- |
+  | Regex configurada | Valida o formato do código do vendedor. É ignorada quando `noteAsVendorCode.type` é `'select'`. |
+  | Flag ausente do arquivo | A expressão regular (regex) fica vazia e o campo aceita qualquer formato. |
+
+Veja um exemplo de como configurar o `noteAsVendorCode`:
+
+```js
+noteAsVendorCode: {
+  type: 'input',
+  mask: '^LL.{0,8}$',
+  skipValidation: true,
+  autofill: false,
+}
+```
 
 ## Anexos e serviços
 
