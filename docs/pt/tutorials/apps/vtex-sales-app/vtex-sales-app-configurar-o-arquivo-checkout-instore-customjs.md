@@ -76,7 +76,14 @@ O `checkout-instore-custom.js` é o arquivo usado para personalizar as configura
   | `'input'` | Campo de texto (`TextBox`). |
   | `'text'` | Campo de texto (`TextBox`). |
 
-- `noteAsVendorCode.skipValidation`: quando configurado como `false`, realiza a validação no código do vendedor, quando `true`, não realiza essa validação.
+- `noteAsVendorCode.skipValidation`: controla a obrigatoriedade do código do vendedor e a consulta ao [Master Data](https://help.vtex.com/pt/docs/tutorials/master-data).
+
+  | Valor | Resultado |
+  | :--- | :--- |
+  | `false` | Torna o campo obrigatório. |
+  | `true` | Salva o código sem consultar o Master Data. |
+  | Flag ausente do arquivo | O campo não se torna obrigatório, mas o Sales App realiza a validação se o código inserido na verificação estiver correto. |
+
 - `noteAsVendorCode.autofill`: quando configurado como `true`, tenta preencher automaticamente o código do vendedor; quando `false`, não tenta o preenchimento automático.
 
 ## Anexos e serviços
@@ -90,8 +97,9 @@ O `checkout-instore-custom.js` é o arquivo usado para personalizar as configura
 
 ## Busca de produtos (`search`)
 
-- `search.vtexSearch`: quando configurado como `true`, usa o [VTEX Search (Legado)](https://help.vtex.com/pt/docs/tutorials/como-funciona-vtex-search-legado) direto; quando `false`, usa o [Intelligent Search](https://help.vtex.com/pt/docs/tutorials/intelligent-search-visao-geral), que é a busca padrão do Sales App.
-- `search.filtersEnabled`: habilita filtros na interface de busca (ex: filtros de produto).
+- `search.vtexSearch`: quando configurado como `true`, usa o [Intelligent Search](https://help.vtex.com/pt/docs/tutorials/intelligent-search-overview). Quando `false` ou omitida, usa o [VTEX Search (Legado)](https://help.vtex.com/pt/docs/tutorials/how-does-vtex-search-legacy-work). Os filtros facetados (`search.filtersEnabled`) e a regionalização (`search.regionalizationEnabled`) dependem desta flag estar configurada como `true`.
+- `search.filtersEnabled`: habilita filtros facetados na interface de busca. Só tem efeito quando `search.vtexSearch` está configurada como `true`.
+- `search.regionalizationEnabled`: ativa a [busca regionalizada](https://help.vtex.com/pt/docs/tutorials/regionalizacao). Só tem efeito quando `search.vtexSearch` está configurada como `true`.
 - `search.alternateIdRegex`: identifica a expressão regular (regex) usada para reconhecer IDs alternativos (ex: código de barras).
 
 ## Cancelamento de pedido
