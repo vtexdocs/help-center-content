@@ -16,7 +16,7 @@ O `checkout-instore-custom.js` é o arquivo usado para personalizar as configura
 3. Clique na aba **Código**.
 4. Na seção **Arquivos**, você verá o arquivo `checkout-instore-custom.js`.
 
-## Idioma e locale
+## Idioma e localidade
 
 - `window.LOCALE_MESSAGES.locale`: define o idioma usado no **Sales App**, como português do Brasil (`'pt-br'`), inglês dos EUA (`'en-us'`) e espanhol da Espanha (`'es-es'`).
 
@@ -64,6 +64,39 @@ O `checkout-instore-custom.js` é o arquivo usado para personalizar as configura
 - `salesPerformance.enabled`: quando configurado como `true`, exibe o monitor de performance da loja no menu novo do Sales App; quando `false`, não exibe.
 - `enableStorePerformance`: quando configurado como `true`, exibe a performance da loja na barra lateral da versão anterior do Sales App; quando `false`, não exibe. Essa flag é independente de `salesPerformance.enabled`.
 - `showItemOriginSeller`: quando configurado como `true`, exibe o texto "loja parceira" nos itens vendidos por um seller externo; quando `false`, não exibe.
+
+## Cliente anônimo
+
+- `allowAnonymousUser`: quando configurado como `true`, permite finalizar pedidos sem identificar o cliente; quando `false`, não permite. Utilizado para vendas de estoque local (On Hands).
+
+## Cadastro e perfil do cliente
+
+- `customerProfile.isCorporate`: define se a venda para pessoa jurídica (PJ) fica disponível no cadastro do cliente. Além de `true` e `false`, a flag aceita o objeto `{ optional: true }`.
+
+  | Valor | Resultado |
+  | :--- | :--- |
+  | `false` | Desabilita a venda para pessoa jurídica. |
+  | `{ optional: true }` | Mantém a venda para pessoa jurídica disponível, mas o preenchimento é opcional. |
+  | `true` | Torna obrigatório identificar a venda como pessoa jurídica. |
+
+## Tipos de identificação do cliente
+
+- `enableIdentificationTypes`: define quais tipos de identificação do cliente ficam disponíveis no Sales App.
+  - **QRCode**: quando configurado como `true`, permite que o cliente identifique-se usando o QR Code; quando `false`, não permite.
+  - **CPF**: quando configurado como `true`, permite que o cliente identifique-se usando o CPF; quando `false`, não permite.
+  - **Email**: quando configurado como `true`, permite que o cliente identifique-se usando o email; quando `false`, não permite.
+  - **Phone**: quando configurado como `true`, permite que o cliente identifique-se usando o número de telefone; quando `false`, não permite.
+
+Veja um exemplo de como configurar o `enableIdentificationTypes`:
+
+```js
+enableIdentificationTypes: {
+  QRCode: false,
+  CPF: false,
+  Email: true,
+  Phone: false,
+}
+```
 
 ## Pagamentos
 
@@ -124,6 +157,11 @@ noteAsVendorCode: {
 - `sellWithoutStockInHands`: permite vender produtos sem estoque local em lojas com configuração de vendas de estoque local (On Hands).
 - `showStock`: quando configurado como `true`, exibe a quantidade em estoque nas telas de produto e de busca; quando `false`, não exibe.
 
+## Social Selling
+
+- `socialShare.vendorType`: determina a identificação do vendedor nos links de [Social Selling](https://help.vtex.com/pt/docs/tracks/compartilhar-carrinho-utilizando-o-vtex-sales-app-social-selling) (ex: `'code'` para usar o código do vendedor).
+- `socialShare.hostName`: define o endereço do site que aparece no link compartilhado com o cliente. O Sales App usa, nesta ordem, o valor definido nesta propriedade (`socialShare.hostName`), o endereço já salvo para o compartilhamento (`share.hostName`) e, por último, o endereço da página em que o vendedor está (`window.location.host`).
+
 ## Busca de produtos (`search`)
 
 - `search.vtexSearch`: quando configurado como `true`, usa o [Intelligent Search](https://help.vtex.com/pt/docs/tutorials/intelligent-search-overview). Quando `false` ou omitida, usa o [VTEX Search (Legado)](https://help.vtex.com/pt/docs/tutorials/how-does-vtex-search-legacy-work). Os filtros facetados (`search.filtersEnabled`) e a regionalização (`search.regionalizationEnabled`) dependem desta flag estar configurada como `true`.
@@ -135,30 +173,7 @@ noteAsVendorCode: {
 
 - `isCancelOrderAlwaysVisible`: quando configurado como `true`, mantém sempre visível na interface a opção de cancelar o pedido; quando `false`, não mantém visível.
 
-## Cliente anônimo
+## Dispositivos e impressora
 
-- `allowAnonymousUser`: quando configurado como `true`, permite finalizar pedidos sem identificar o cliente; quando `false`, não permite. Utilizado para vendas de estoque local (On Hands).
-
-## Social Selling
-
-- `socialShare.vendorType`: determina a identificação do vendedor nos links de [Social Selling](https://help.vtex.com/pt/docs/tracks/compartilhar-carrinho-utilizando-o-vtex-sales-app-social-selling) (ex: `'code'` para usar o código do vendedor).
-- `socialShare.hostName`: define o endereço do site que aparece no link compartilhado com o cliente. O Sales App usa, nesta ordem, o valor definido nesta propriedade (`socialShare.hostName`), o endereço já salvo para o compartilhamento (`share.hostName`) e, por último, o endereço da página em que o vendedor está (`window.location.host`).
-
-## Tipos de identificação do cliente
-
-- `enableIdentificationTypes`: define quais tipos de identificação do cliente ficam disponíveis no Sales App.
-  - **QRCode**: quando configurado como `true`, permite que o cliente identifique-se usando o QR Code; quando `false`, não permite.
-  - **CPF**: quando configurado como `true`, permite que o cliente identifique-se usando o CPF; quando `false`, não permite.
-  - **Email**: quando configurado como `true`, permite que o cliente identifique-se usando o email; quando `false`, não permite.
-  - **Phone**: quando configurado como `true`, permite que o cliente identifique-se usando o número de telefone; quando `false`, não permite.
-
-Veja um exemplo de como configurar o `enableIdentificationTypes`:
-
-```js
-enableIdentificationTypes: {
-  QRCode: false,
-  CPF: false,
-  Email: true,
-  Phone: false,
-}
-```
+- `printedOrderExtraText`: texto adicional impresso no comprovante do pedido.
+- `enablePrintButton`: quando configurado como `true`, exibe o botão de imprimir no pedido; quando `false`, não exibe. O valor padrão é `true`.
