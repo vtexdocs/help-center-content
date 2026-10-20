@@ -17,7 +17,7 @@ subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 
 **3D Secure** (3DS) es un protocolo de seguridad que agrega una capa de protección a las transacciones con tarjetas de crédito y débito realizadas en internet. La generación actual, EMV 3D Secure (EMV 3DS), también se conoce como 3DS 2.
 
-En 3DS 2, el [banco emisor](/es/docs/tutorials/que-es-el-banco-emisor) analiza los datos de la transacción y decide cómo autenticar al comprador:
+En 3DS 2, el [banco emisor](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#banco-emisor) analiza los datos de la transacción y decide cómo autenticar al comprador:
 
 - **Autenticación sin fricción:** el banco considera que la transacción es de bajo riesgo y completa la autenticación sin pedirle ninguna acción al comprador.
 - **Desafío:** el banco le pide al comprador que confirme su identidad, por ejemplo, con una contraseña, datos biométricos o un código enviado por SMS o email.
