@@ -25813,7 +25813,7 @@
               "children": [
                 {
                   "name": {
-                    "en": "What is 3D Secure?",
+                    "en": "3D Secure",
                     "es": "3D Secure",
                     "pt": "3D Secure"
                   },
@@ -39195,13 +39195,13 @@
             {
               "name": {
                 "en": "Seller account created with incorrect edition/sponsor during onboarding",
-                "es": "Cuenta de vendedor creada con edición/patrocinador incorrecto durante la incorporación",
-                "pt": "Conta de vendedor criada com edição/patrocinador incorreto durante a integração"
+                "es": "Cuenta de vendedor creada con edición/patrocinador incorrecto durante el proceso de incorporación.",
+                "pt": "Conta de vendedor criada com edição/patrocinador incorretos durante o processo de integração."
               },
               "slug": {
                 "en": "seller-account-created-with-incorrect-editionsponsor-during-onboarding",
-                "es": "cuenta-de-vendedor-creada-con-edicionpatrocinador-incorrecto-durante-la-incorporacion",
-                "pt": "conta-de-vendedor-criada-com-edicaopatrocinador-incorreto-durante-a-integracao"
+                "es": "cuenta-de-vendedor-creada-con-edicionpatrocinador-incorrecto-durante-el-proceso-de-incorporacion",
+                "pt": "conta-de-vendedor-criada-com-edicaopatrocinador-incorretos-durante-o-processo-de-integracao"
               },
               "origin": "",
               "type": "markdown",
