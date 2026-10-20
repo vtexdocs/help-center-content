@@ -61,6 +61,10 @@ O `checkout-instore-custom.js` é o arquivo usado para personalizar as configura
 
 > ⚠️ Tanto `sales.enabled` quanto `salesAssociateTracking.enabled` precisam estar configurados como `true` para que o Sales App funcione corretamente.
 
+- `salesPerformance.enabled`: quando configurado como `true`, exibe o monitor de performance da loja no menu novo do Sales App; quando `false`, não exibe.
+- `enableStorePerformance`: quando configurado como `true`, exibe a performance da loja na barra lateral da versão anterior do Sales App; quando `false`, não exibe. Essa flag é independente de `salesPerformance.enabled`.
+- `showItemOriginSeller`: quando configurado como `true`, exibe o texto "loja parceira" nos itens vendidos por um seller externo; quando `false`, não exibe.
+
 ## Pagamentos
 
 - `challengeDrivenPaymentWorkflow`: ativa um fluxo de pagamento com validações adicionais, como [carteiras digitais (ewallets)](https://help.vtex.com/pt/docs/tracks/carteira-digital-e-wallet), [Payment Apps](https://developers.vtex.com/docs/guides/payments-integration-payment-app) e [POS (Point of Sales)](https://developers.vtex.com/docs/guides/payments-integration-ppp-applied-to-pos?utm_source=chatgpt.com).
@@ -118,6 +122,7 @@ noteAsVendorCode: {
 ## Estoque e venda sem estoque
 
 - `sellWithoutStockInHands`: permite vender produtos sem estoque local em lojas com configuração de vendas de estoque local (On Hands).
+- `showStock`: quando configurado como `true`, exibe a quantidade em estoque nas telas de produto e de busca; quando `false`, não exibe.
 
 ## Busca de produtos (`search`)
 
