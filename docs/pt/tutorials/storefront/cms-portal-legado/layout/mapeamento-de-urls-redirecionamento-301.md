@@ -42,7 +42,7 @@ Para adicionar ou editar um mapeamento manualmente, siga estes passos:
 ### Campos do URL Builder
 
 - **Url from:** URL que será redirecionada. Essa URL não deve conter o domínio da loja. Campo obrigatório.
-- **Url to:** URL para qual a navegação será redirecionada. Essa URL não deve conter o domínio da loja. Campo obrigatório.
+- **Url to:** URL para a qual a navegação será redirecionada. Essa URL não deve conter o domínio da loja. Campo obrigatório.
 - **Start date:** data e hora em que o mapeamento começará a ser considerado. Campo obrigatório.
 - **End date:** data e hora em que o mapeamento deixará de ser considerado.
 - **Active:** indica se o mapeamento está ativo ou inativo.
@@ -69,7 +69,7 @@ Para importar mapeamentos por planilha, siga estes passos:
 ### Campos da planilha
 
 - **Url from:** URL que será redirecionada. Essa URL não deve conter o domínio da loja. Exemplo de preenchimento: `/caminho_no_meu_site_antigo.html`.
-- **Url to:** URL para qual a navegação será redirecionada. Essa URL não deve conter o domínio da loja. Exemplo de preenchimento: `/caminho_no_meu_site_novo.html`.
+- **Url to:** URL para a qual a navegação será redirecionada. Essa URL não deve conter o domínio da loja. Exemplo de preenchimento: `/caminho_no_meu_site_novo.html`.
 - **Active:** indica se o mapeamento está ativo ou inativo. Coloque o valor `1` para ativar e `0` para inativar.
 - **Start date:** data em que o mapeamento começará a ser considerado. O formato da data deve ser `dd/mm/aaaa`.
 - **End date:** data em que o mapeamento deixará de ser considerado. O formato da data deve ser `dd/mm/aaaa`.
@@ -97,5 +97,5 @@ Para excluir URLs por planilha, siga estes passos:
 2. Clique na pasta **CMS** para abrir o diretório.
 3. Clique na pasta **URL Builder**.
 4. No menu superior, clique no botão `Export` para baixar a planilha com as URLs já cadastradas.
-2. Na coluna **Remove**, preencha com o valor `1` as linhas que deseja excluir.
-3. Importe a planilha no URL Builder, seguindo os passos da seção [Importar por planilha](#importar-por-planilha).
+5. Na coluna **Remove**, preencha com o valor `1` as linhas que deseja excluir.
+6. Importe a planilha no URL Builder, seguindo os passos da seção [Importar por planilha](#importar-por-planilha).
