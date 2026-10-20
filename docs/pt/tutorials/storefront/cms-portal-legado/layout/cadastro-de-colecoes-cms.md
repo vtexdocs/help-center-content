@@ -22,7 +22,7 @@ Para cadastrar uma nova coleção, siga os passos a seguir:
 1. No Admin VTEX, acesse **Storefront > Layout**.
 2. Dentro da pasta CMS, clique em **Product Clusters (Collections)**.
 3. Clique em `New Collection`.
-4. Preencha os campos do formulário de Coleção. Para entender melhor o significado de cada campo, acesse nosso artigo sobre [como preencher campos de cadastro de coleção](/pt/docs/tutorials/preencher-campos-de-cadastro-de-colecao).
+4. Preencha os campos do formulário de coleção. Para entender melhor o significado de cada campo, acesse nosso artigo sobre [como preencher campos de cadastro de coleção](/pt/docs/tutorials/preencher-campos-de-cadastro-de-colecao).
 5. Clique em `Save Product Cluster`.
 
 > ⚠️ Quando a quantidade de coleções criadas ultrapassar o limite de 20, as coleções excedentes podem ser encontradas na interface por meio do campo de pesquisa. A busca nesse campo deve ser feita com base no nome da coleção desejada.
