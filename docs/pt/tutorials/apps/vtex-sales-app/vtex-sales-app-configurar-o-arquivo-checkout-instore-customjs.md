@@ -137,6 +137,7 @@ noteAsVendorCode: {
 ## Social Selling
 
 - `socialShare.vendorType`: determina a identificação do vendedor nos links de [Social Selling](https://help.vtex.com/pt/docs/tracks/compartilhar-carrinho-utilizando-o-vtex-sales-app-social-selling) (ex: `'code'` para usar o código do vendedor).
+- `socialShare.hostName`: define o endereço do site que aparece no link compartilhado com o cliente. O Sales App usa, nesta ordem, o valor definido nesta propriedade (`socialShare.hostName`), o endereço já salvo para o compartilhamento (`share.hostName`) e, por último, o endereço da página em que o vendedor está (`window.location.host`).
 
 ## Tipos de identificação do cliente
 
