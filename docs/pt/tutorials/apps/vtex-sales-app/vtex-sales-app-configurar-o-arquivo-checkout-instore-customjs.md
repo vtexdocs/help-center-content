@@ -12,7 +12,7 @@ locale: pt
 O `checkout-instore-custom.js` é o arquivo usado para personalizar as configurações do **VTEX Sales App**. Este artigo descreve as propriedades disponíveis nesse arquivo e como defini-las. Para localizá-lo, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Configurações da loja > Storefront > Checkout** ou digite **Checkout** no campo de busca.
-2. Clique na engrenagem do campo **Default**.
+2. Clique na engrenagem da conta principal em que o Sales App foi instalado.
 3. Clique na aba **Código**.
 4. Na seção **Arquivos**, você verá o arquivo `checkout-instore-custom.js`.
 
@@ -29,10 +29,24 @@ O `checkout-instore-custom.js` é o arquivo usado para personalizar as configura
 
 ## Fluxo de checkout e navegação
 
-- `enableNewCheckout`: ativa o novo fluxo de checkout do Sales App.
+- `enableNewCheckout`: ativa o novo fluxo de checkout do Sales App. O valor padrão dessa flag é `false`. Quando o lojista conclui o setup de onboarding, essa flag é salva como `true` na loja.
+
+  > ⚠️ Não altere o valor de `enableNewCheckout`.
+
 - `enableExplore`: ativa a tela com a experiência "Explore" (vitrine/anúncios).
-- `initialPage`: define a página que abre primeiro após o login (ex: `'advertisements'`).
-- `pathAfterLogin`: determina a rota interna para onde o usuário é direcionado depois de realizar o login (ex: `'/sale'`).
+- `initialPage`: define a página que abre primeiro após o login. Os valores aceitos são:
+
+  | Valor | Rota | O que abre |
+  | :--- | :--- | :--- |
+  | `'advertisements'` | `/checkout/advertisements` | Vitrine/anúncios (a página "Explore") |
+  | `'sale'` | `/sale` | Fluxo de venda (rota descontinuada) |
+  | `'turn-list'` | `/turn-list` | Lista da vez |
+  | `'b2b'` | `/b2b` | Home B2B |
+
+- `pathAfterLogin`: determina a rota interna para onde o usuário é direcionado depois de realizar o login (ex: `'/sale'`). Essa flag foi descontinuada e substituída por `initialPage`. No entanto, ela ainda tem precedência sobre `initialPage`, por isso se a loja tiver `pathAfterLogin` no arquivo, `initialPage` é ignorado.
+
+  > ⚠️ Use `initialPage` no lugar de `pathAfterLogin`.
+
 - `topbarTitle`: define o texto exibido na barra superior do Sales App (ex: `'Nome da loja'`).
 - `enableChangePrice`: quando configurado como `true`, permite que o vendedor altere o preço manualmente no Sales App; quando `false`, não permite. Está relacionado ao campo `manualPrice` do [orderform](https://developers.vtex.com/docs/guides/orderform-fields).
 
