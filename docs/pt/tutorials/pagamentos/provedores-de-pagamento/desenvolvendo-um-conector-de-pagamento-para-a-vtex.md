@@ -107,7 +107,7 @@ Ao implementar os endpoints, o parceiro escolhe se o conector será hospedado em
 
 - **Limitações nas linguagens e frameworks suportados**: o VTEX IO é compatível apenas com algumas linguagens e frameworks específicos, como React, Node e .NET. Desenvolvedores que não estão familiarizados com essas tecnologias precisarão se adaptar ao ambiente, o que pode demandar tempo adicional para aprendizado e ajustes no fluxo de trabalho.
 
-- **Necessidade de aprendizado do VTEX IO**: o VTEX IO tem características específicas, e desenvolvedores sem experiência prévia na plataforma precisam de um tempo de adaptação para aprendê-las.
+- **Necessidade de aprendizado do VTEX IO**: o [VTEX IO](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-io) tem características específicas, e desenvolvedores sem experiência prévia na plataforma precisam de um tempo de adaptação para aprendê-las.
 
 Nas duas opções, o conector implementa o [PPP](https://developers.vtex.com/docs/api-reference/payment-provider-protocol). A diferença está na hospedagem e no nível de customização: na infraestrutura própria, o parceiro mantém o ambiente e pode receber dados de cartão diretamente, enquanto no VTEX IO a infraestrutura é gerenciada pela plataforma e há mais recursos para customizações avançadas. A escolha depende das necessidades de cada integração e do nível de personalização desejado.
 
