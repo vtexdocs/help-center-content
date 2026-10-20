@@ -25813,24 +25813,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "What is Deposit Slip",
-                    "es": "Qué es Ficha de Depósito",
-                    "pt": "O que é  Ficha Depósito"
-                  },
-                  "slug": {
-                    "en": "what-is-deposit-slip",
-                    "es": "que-es-ficha-de-deposito",
-                    "pt": "o-que-e-ficha-deposito"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "What is 3D Secure?",
-                    "es": "¿Qué es 3D Secure?",
-                    "pt": "O que é 3D Secure?"
+                    "es": "3D Secure",
+                    "pt": "3D Secure"
                   },
                   "slug": {
                     "en": "what-is-3d-secure",
@@ -25843,14 +25828,14 @@
                 },
                 {
                   "name": {
-                    "en": "What is anti-fraud?",
-                    "es": "¿Qué es antifraude?",
-                    "pt": "O que é antifraude?"
+                    "en": "Financial agents in the payment flow",
+                    "es": "Agentes financieros en el flujo de pago",
+                    "pt": "Agentes financeiros no fluxo de pagamento"
                   },
                   "slug": {
-                    "en": "what-is-anti-fraud",
-                    "es": "que-es-antifraude",
-                    "pt": "o-que-e-antifraude"
+                    "en": "financial-agents-in-the-payment-flow",
+                    "es": "agentes-financieros-en-el-flujo-de-pago",
+                    "pt": "agentes-financeiros-no-fluxo-de-pagamento"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25858,14 +25843,14 @@
                 },
                 {
                   "name": {
-                    "en": "What is the Issuing Bank?",
-                    "es": "¿Qué es el Banco Emisor?",
-                    "pt": "O que é Banco Emissor?"
+                    "en": "What is Deposit Slip",
+                    "es": "Qué es Ficha de Depósito",
+                    "pt": "O que é  Ficha Depósito"
                   },
                   "slug": {
-                    "en": "what-is-the-issuing-bank",
-                    "es": "que-es-el-banco-emisor",
-                    "pt": "o-que-e-banco-emissor"
+                    "en": "what-is-deposit-slip",
+                    "es": "que-es-ficha-de-deposito",
+                    "pt": "o-que-e-ficha-deposito"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25896,66 +25881,6 @@
                     "en": "what-is-the-pci-ssc",
                     "es": "que-es-el-pci-ssc",
                     "pt": "o-que-e-o-pci-ssc"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is an acquirer?",
-                    "es": "¿Qué es un adquirente?",
-                    "pt": "O que é um adquirente?"
-                  },
-                  "slug": {
-                    "en": "what-is-an-acquirer",
-                    "es": "que-es-un-adquirente",
-                    "pt": "o-que-e-um-adquirente"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a payment gateway?",
-                    "es": "¿Qué es un gateway de pagos?",
-                    "pt": "O que é um gateway de pagamentos?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-payment-gateway",
-                    "es": "que-es-un-gateway-de-pagos",
-                    "pt": "o-que-e-um-gateway-de-pagamentos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a sub-acquirer?",
-                    "es": "¿Qué es un subadquirente?",
-                    "pt": "O que é um subadquirente?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-sub-acquirer",
-                    "es": "que-es-un-subadquirente",
-                    "pt": "o-que-e-um-subadquirente"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a credit card brand?",
-                    "es": "¿Qué es una bandera de tarjeta de crédito?",
-                    "pt": "O que é uma bandeira de cartão de crédito?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-credit-card-brand",
-                    "es": "que-es-una-bandera-de-tarjeta-de-credito",
-                    "pt": "o-que-e-uma-bandeira-de-cartao-de-credito"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26016,21 +25941,6 @@
                     "en": "payment-provider-protocol",
                     "es": "payment-provider-protocol",
                     "pt": "payment-provider-protocol"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is the role of financial agents in the payment flow of an application in Brazil?",
-                    "es": "¿Cuál es el papel de los agentes financieros en el flujo de pago de un pedido en Brasil?",
-                    "pt": "Qual é o papel dos agentes financeiros no fluxo de pagamento de um pedido no Brasil?"
-                  },
-                  "slug": {
-                    "en": "what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil",
-                    "es": "cual-es-la-diferencia-entre-adquirente-bandera-gateway-y-sub-adquirente-en-brasil",
-                    "pt": "diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -30405,21 +30315,6 @@
                   "origin": "",
                   "type": "category",
                   "children": [
-                    {
-                      "name": {
-                        "en": "Add 3DS support to the integration with Adyen",
-                        "es": "Añadir soporte a 3DS en la integración con Adyen",
-                        "pt": "Adicionar suporte a 3DS na integração com a Adyen"
-                      },
-                      "slug": {
-                        "en": "add-3ds-support-to-the-integration-with-adyen",
-                        "es": "anadir-soporte-a-3ds-en-la-integracion-con-adyen",
-                        "pt": "adicionando-suporte-a-3ds-na-integracao-com-a-adyen"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
                     {
                       "name": {
                         "en": "Setting up 3DS 2 authentication flow",
