@@ -25813,6 +25813,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Financial agents in the payment flow",
+                    "es": "Agentes financieros en el flujo de pago",
+                    "pt": "Agentes financeiros no fluxo de pagamento"
+                  },
+                  "slug": {
+                    "en": "financial-agents-in-the-payment-flow",
+                    "es": "agentes-financieros-en-el-flujo-de-pago",
+                    "pt": "agentes-financeiros-no-fluxo-de-pagamento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "What is Deposit Slip",
                     "es": "Qué es Ficha de Depósito",
                     "pt": "O que é  Ficha Depósito"
@@ -25843,36 +25858,6 @@
                 },
                 {
                   "name": {
-                    "en": "What is anti-fraud?",
-                    "es": "¿Qué es antifraude?",
-                    "pt": "O que é antifraude?"
-                  },
-                  "slug": {
-                    "en": "what-is-anti-fraud",
-                    "es": "que-es-antifraude",
-                    "pt": "o-que-e-antifraude"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is the Issuing Bank?",
-                    "es": "¿Qué es el Banco Emisor?",
-                    "pt": "O que é Banco Emissor?"
-                  },
-                  "slug": {
-                    "en": "what-is-the-issuing-bank",
-                    "es": "que-es-el-banco-emisor",
-                    "pt": "o-que-e-banco-emissor"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "What is the connector?",
                     "es": "¿Qué es el conector?",
                     "pt": "O que é o conector?"
@@ -25896,66 +25881,6 @@
                     "en": "what-is-the-pci-ssc",
                     "es": "que-es-el-pci-ssc",
                     "pt": "o-que-e-o-pci-ssc"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is an acquirer?",
-                    "es": "¿Qué es un adquirente?",
-                    "pt": "O que é um adquirente?"
-                  },
-                  "slug": {
-                    "en": "what-is-an-acquirer",
-                    "es": "que-es-un-adquirente",
-                    "pt": "o-que-e-um-adquirente"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a payment gateway?",
-                    "es": "¿Qué es un gateway de pagos?",
-                    "pt": "O que é um gateway de pagamentos?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-payment-gateway",
-                    "es": "que-es-un-gateway-de-pagos",
-                    "pt": "o-que-e-um-gateway-de-pagamentos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a sub-acquirer?",
-                    "es": "¿Qué es un subadquirente?",
-                    "pt": "O que é um subadquirente?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-sub-acquirer",
-                    "es": "que-es-un-subadquirente",
-                    "pt": "o-que-e-um-subadquirente"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a credit card brand?",
-                    "es": "¿Qué es una bandera de tarjeta de crédito?",
-                    "pt": "O que é uma bandeira de cartão de crédito?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-credit-card-brand",
-                    "es": "que-es-una-bandera-de-tarjeta-de-credito",
-                    "pt": "o-que-e-uma-bandeira-de-cartao-de-credito"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26016,21 +25941,6 @@
                     "en": "payment-provider-protocol",
                     "es": "payment-provider-protocol",
                     "pt": "payment-provider-protocol"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is the role of financial agents in the payment flow of an application in Brazil?",
-                    "es": "¿Cuál es el papel de los agentes financieros en el flujo de pago de un pedido en Brasil?",
-                    "pt": "Qual é o papel dos agentes financeiros no fluxo de pagamento de um pedido no Brasil?"
-                  },
-                  "slug": {
-                    "en": "what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil",
-                    "es": "cual-es-la-diferencia-entre-adquirente-bandera-gateway-y-sub-adquirente-en-brasil",
-                    "pt": "diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -46969,12 +46879,12 @@
             {
               "name": {
                 "en": "Order can't be created due to invalid credit card",
-                "es": "No se puede crear el pedido porque la tarjeta de crédito no es válida",
+                "es": "No se puede crear el pedido debido a que la tarjeta de crédito no es válida.",
                 "pt": "Não foi possível criar o pedido devido a um cartão de crédito inválido."
               },
               "slug": {
                 "en": "order-cant-be-created-due-to-invalid-credit-card",
-                "es": "no-se-puede-crear-el-pedido-porque-la-tarjeta-de-credito-no-es-valida",
+                "es": "no-se-puede-crear-el-pedido-debido-a-que-la-tarjeta-de-credito-no-es-valida",
                 "pt": "nao-foi-possivel-criar-o-pedido-devido-a-um-cartao-de-credito-invalido"
               },
               "origin": "",
@@ -52352,21 +52262,6 @@
                 "en": "the-field-administrator-who-approved-the-product-id-does-not-change-when-the-updating-is-done-by-webservice",
                 "es": "campo-administrador-que-aprobo-el-producto-id-no-cambia-cuando-la-actualizacion-se-hace-por-webservice",
                 "pt": "campo-administrador-que-aprovou-o-produto-id-nao-muda-quando-a-atualizacao-e-feita-por-webservice"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Divergence in the number of used permissions in the Security Monitor",
-                "es": "Divergencia en el número de permisos utilizados en el Monitor de seguridad",
-                "pt": "Divergência no número de permissões utilizadas no Monitor de Segurança"
-              },
-              "slug": {
-                "en": "divergence-in-the-number-of-used-permissions-in-the-security-monitor",
-                "es": "divergencia-en-el-numero-de-permisos-utilizados-en-el-monitor-de-seguridad",
-                "pt": "divergencia-no-numero-de-permissoes-utilizadas-no-monitor-de-seguranca"
               },
               "origin": "",
               "type": "markdown",
@@ -62855,6 +62750,21 @@
             },
             {
               "name": {
+                "en": "Gift card balance changed even though the transaction request failed",
+                "es": "El saldo de la tarjeta de regalo cambió a pesar de que la solicitud de transacción falló.",
+                "pt": "O saldo do cartão-presente foi alterado mesmo que a solicitação de transação tenha falhado."
+              },
+              "slug": {
+                "en": "gift-card-balance-changed-even-though-the-transaction-request-failed",
+                "es": "el-saldo-de-la-tarjeta-de-regalo-cambio-a-pesar-de-que-la-solicitud-de-transaccion-fallo",
+                "pt": "o-saldo-do-cartaopresente-foi-alterado-mesmo-que-a-solicitacao-de-transacao-tenha-falhado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Legacy Antifrauds cannot complete a request when the accountId is missing.",
                 "es": "Los sistemas antifraude heredados no pueden completar una solicitud cuando falta el «accountId».",
                 "pt": "O sistema antissuperfícies antigo não consegue concluir uma solicitação quando o accountId está faltando."
@@ -62953,21 +62863,6 @@
                 "en": "giftcard-hub-timeout-returned-as-401-unauthorized",
                 "es": "el-tiempo-de-espera-de-giftcard-hub-ha-devuelto-el-codigo-de-error-401-no-autorizado",
                 "pt": "o-tempo-limite-do-giftcard-hub-resultou-no-codigo-de-erro-401-nao-autorizado"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Giftcard not getting refund after transaction cancellation",
-                "es": "No se reembolsa la tarjeta regalo tras la cancelación de la transacción",
-                "pt": "O vale-presente não está sendo reembolsado após o cancelamento da transação"
-              },
-              "slug": {
-                "en": "giftcard-not-getting-refund-after-transaction-cancellation",
-                "es": "no-se-reembolsa-la-tarjeta-regalo-tras-la-cancelacion-de-la-transaccion",
-                "pt": "o-valepresente-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao"
               },
               "origin": "",
               "type": "markdown",
@@ -70663,6 +70558,21 @@
                 "en": "audit-csv-export-fails-for-large-result-sets-while-the-ui-reports-success",
                 "es": "la-exportacion-de-auditoria-csv-falla-para-conjuntos-de-resultados-grandes-aunque-la-interfaz-de-usuario-informa-que-se-realizo-correctamente",
                 "pt": "a-exportacao-de-csv-para-auditoria-falha-para-conjuntos-de-resultados-grandes-embora-a-interface-do-usuario-relate-sucesso"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Divergence in the number of used permissions in the Security Monitor",
+                "es": "Divergencia en el número de permisos utilizados en el Monitor de seguridad",
+                "pt": "Divergência no número de permissões utilizadas no Monitor de Segurança"
+              },
+              "slug": {
+                "en": "divergence-in-the-number-of-used-permissions-in-the-security-monitor",
+                "es": "divergencia-en-el-numero-de-permisos-utilizados-en-el-monitor-de-seguridad",
+                "pt": "divergencia-no-numero-de-permissoes-utilizadas-no-monitor-de-seguranca"
               },
               "origin": "",
               "type": "markdown",
