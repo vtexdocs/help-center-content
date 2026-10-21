@@ -35329,6 +35329,21 @@
               "origin": "",
               "type": "markdown",
               "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX Copilot in the VTEX Admin",
+                "es": "VTEX Copilot en el Admin VTEX",
+                "pt": "VTEX Copilot no Admin VTEX"
+              },
+              "slug": {
+                "en": "vtex-copilot-in-the-vtex-admin",
+                "es": "vtex-copilot-en-el-admin-de-vtex",
+                "pt": "vtex-copilot-no-admin-vtex"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },

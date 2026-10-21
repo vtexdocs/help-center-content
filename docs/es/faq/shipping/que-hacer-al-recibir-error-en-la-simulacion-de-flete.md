@@ -4,7 +4,7 @@ excerpt: "La simulación de envío devuelve el resultado de la API de cálculo l
 id: 3bkJwe0Yj6qEkuYKUWwKwK
 status: PUBLISHED
 createdAt: 2017-05-09T14:03:03.097Z
-updatedAt: 2023-10-10T16:20:54.988Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-10-10T16:20:54.988Z
 firstPublishedAt: 2017-05-09T14:06:10.341Z
 contentType: frequentlyAskedQuestion
