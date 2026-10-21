@@ -60,7 +60,7 @@ Escolha a configuração de acordo com a arquitetura da operação:
 O [Ship from Store](/pt/docs/tracks/configurar-ship-from-store) permite que o cliente receba em casa pedidos com produtos que saem do estoque de uma loja física. Ou seja, a loja funciona como um pequeno centro de distribuição.
 
 - **Público-alvo:** marcas que querem reduzir custos e prazos de entrega usando as lojas físicas mais próximas do cliente como origem dos pedidos.
-- **O que decidir:** quais lojas farão entregas, quais transportadoras atenderão cada loja e como integrar o ERP para que o inventário da loja esteja sempre atualizado.
+- **O que decidir:** quais lojas farão entregas, quais transportadoras atenderão cada loja e como integrar o ERP para que o inventário de cada loja esteja sempre atualizado.
 
 #### Configuração do Ship from Store
 
