@@ -29,6 +29,6 @@ Cada conta franquia representa uma loja física, tem um Admin VTEX próprio e lo
 
 > ⚠️ Cada conta franquia deve ter um CNPJ diferente para que o pagamento dos pedidos funcione corretamente.
 
-## Extensibilidade no VTEX Sales App
+## Extensibilidade no Sales App
 
 Para funcionalidades que o **Sales App** não oferece nativamente, como programas de fidelidade, serviços adicionais ou formulários customizados, avalie o [VTEX Sales App Extensibility](/pt/docs/tutorials/vtex-sales-app-extensibility-pt). Com ele, seu time ou um parceiro desenvolve módulos em pontos da jornada de vendas.
