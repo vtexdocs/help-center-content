@@ -23282,6 +23282,21 @@
               "origin": "",
               "type": "markdown",
               "children": []
+            },
+            {
+              "name": {
+                "en": "Delivery Options",
+                "es": "Opciones de envío",
+                "pt": "Opções de envio"
+              },
+              "slug": {
+                "en": "delivery-options",
+                "es": "opciones-de-envio",
+                "pt": "opcoes-de-envio"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -36299,21 +36314,6 @@
                     "en": "delivery-promise-faq",
                     "es": "delivery-promise-faq",
                     "pt": "delivery-promise-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Delivery Options (Beta)",
-                    "es": "Opciones de envío (beta)",
-                    "pt": "Opções de envio (Beta)"
-                  },
-                  "slug": {
-                    "en": "delivery-options-beta",
-                    "es": "opciones-de-envio-beta",
-                    "pt": "opcoes-de-envio-beta"
                   },
                   "origin": "",
                   "type": "markdown",
