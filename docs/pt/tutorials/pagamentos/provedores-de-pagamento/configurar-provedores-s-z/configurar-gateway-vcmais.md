@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na plataforma VTEX, você pode configurar o [gateway](/pt/docs/tutorials/o-que-e-um-gateway-de-pagamentos) VC+ para receber pagamentos por meio de promissórias.
+Na plataforma VTEX, você pode configurar o [gateway](/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#gateway) VC+ para receber pagamentos por meio de promissórias.
 
 Para configurar a VC+, siga os passos abaixo:
 

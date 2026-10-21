@@ -43,8 +43,8 @@ Nesta etapa, a **Delivery Promise (Beta)** permite que os compradores da sua loj
 * **Retirada:** produtos disponíveis para retirada em pontos de retirada num [raio configurado](https://help.vtex.com/pt/docs/tutorials/cadastro-de-pontos-de-retirada#campos-de-cadastro) ou até a distância padrão de [50 km](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R?&utm_source=autocomplete#como-funcionam-pontos-de-retirada) do endereço fornecido.  
 * **Retirada em lojas próximas:** produtos disponíveis para retirada em pontos de retirada num raio de até 10 km de distância do endereço fornecido.  
 * **Retirada em {{nome}}:** produtos disponíveis para retirada no [ponto de retirada](https://help.vtex.com/pt/docs/tutorials/cadastro-de-pontos-de-retirada) de escolha do comprador.  
-* **Prazo de envio ([Opções de envio](https://help.vtex.com/pt/tutorial/opcoes-de-envio-beta))**: produtos disponíveis conforme o prazo, método de envio e zonas geográficas configuradas pelo lojista no módulo de [**Opções de envio**](https://help.vtex.com/pt/tutorial/opcoes-de-envio-beta).  
-* **Prazo de envio dinâmico**: produtos disponíveis definidos por prazos dinâmicos (**Mesmo dia** e **Dia seguinte**), que consideram os horários de navegação do comprador e os prazos cadastrados nas [**Opções de envio**](https://help.vtex.com/pt/tutorial/opcoes-de-envio-beta--1fRDJFcHCtpTnk7GNyaRDY) da conta principal da loja para a data de entrega e de retirada.
+* **Prazo de envio ([Opções de envio](https://help.vtex.com/pt/tutorial/opcoes-de-envio))**: produtos disponíveis conforme o prazo, método de envio e zonas geográficas configuradas pelo lojista no módulo de [**Opções de envio**](https://help.vtex.com/pt/tutorial/opcoes-de-envio).  
+* **Prazo de envio dinâmico**: produtos disponíveis definidos por prazos dinâmicos (**Mesmo dia** e **Dia seguinte**), que consideram os horários de navegação do comprador e os prazos cadastrados nas [**Opções de envio**](https://help.vtex.com/pt/docs/tutorials/opcoes-de-envio) da conta principal da loja para a data de entrega e de retirada.
 
 Além dos filtros, a **Delivery Promise (Beta)** oferece os componentes que podem ser exibidos na página de listagem de produtos da loja e na frente de loja com opções de envio e prazo dinâmico e com detalhes dos métodos de envio e retirada disponíveis para cada produto.
 
@@ -73,17 +73,19 @@ Para operações [omnichannel](https://help.vtex.com/pt/tracks/estrategias-de-co
 
 O funcionamento da **Delivery Promise (Beta)** requer conhecer a localização do comprador desde o início da jornada de compra, de modo que a vitrine mostre somente os produtos com forma de envio válida.
 
-Para participar da fase atual da Delivery Promise (Beta), entre em contato com o nosso Suporte, atendendo às seguintes condições:
+Para usar a Delivery Promise (Beta), sua conta precisa atender às seguintes condições:
 
 * Usar [Intelligent Search](https://help.vtex.com/pt/docs/tutorials/intelligent-search-visao-geral).
 * Sellers externos precisam se adequar ao protocolo de notificações do [Delivery Promise Notification API](https://developers.vtex.com/docs/api-reference/delivery-promise-notification-api).
 * Não utilizar VTEX Shipping Network.
 * Não utilizar [Capacidade operacional](https://help.vtex.com/pt/docs/tutorials/capacidade-operacional).
-* Não utilizar mais de 10 mil pontos de retirada.
 * Não utilizar [Assembly Options](https://help.vtex.com/docs/tutorials/assembly-options) de sellers regulares.
+
+Se a sua conta atender a essas condições, você pode ativar a Delivery Promise diretamente no Admin VTEX. Saiba como em [Ativar o Delivery Promise](https://help.vtex.com/pt/docs/tutorials/ativar-delivery-promise).
 
 ### Saiba mais
 
+* [Ativar o Delivery Promise](https://help.vtex.com/pt/docs/tutorials/ativar-delivery-promise)
 * [Delivery Promise: FAQ](/pt/docs/tutorials/delivery-promise-faq)
 * [Setting up Delivery Promise components (Beta)](https://developers.vtex.com/docs/guides/setting-up-delivery-promise-components)
 * [Delivery Promise for FastStore](https://developers.vtex.com/docs/guides/faststore/features-delivery-promise)
