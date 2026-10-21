@@ -9,7 +9,7 @@ firstPublishedAt: 2025-08-22T20:33:50.257Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slugEN: delivery-options-beta
+slugEN: delivery-options
 legacySlug: opcoes-de-envio-beta
 locale: pt
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
@@ -25,7 +25,7 @@ As opções de envio usam as [políticas de envio](/pt/docs/tutorials/politica-d
 
 As políticas de envio são associadas a uma opção de envio quando cumprem tanto a promessa de entrega definida quanto as zonas de entrega configuradas. Se nenhuma política de envio atender aos critérios configurados, ou se as políticas de envio não tiverem sido configuradas corretamente, leia o artigo [Criar uma política de envio](/pt/docs/tutorials/criar-uma-politica-de-envio).
 
-![delivery-options-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_1.png)
+![delivery-options-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/opcoes-de-envio_1.png)
 
 A página apresenta as seguintes informações em uma tabela:
 
@@ -43,7 +43,7 @@ Para criar uma nova opção de envio, siga os passos abaixo.
 1. No Admin VTEX, acesse **Envio > Opções de envio** ou digite **Opções de envio** na barra de busca no topo da página.
 2. Clique em `Criar opção de envio`.
 3. Preencha os campos do formulário:
-  ![delivery-options-form-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_2.png)
+  ![delivery-options-form-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/opcoes-de-envio_2.png)
 
    ### Informações básicas
 
@@ -78,7 +78,7 @@ Para criar uma nova opção de envio, siga os passos abaixo.
 
 Feito isso, a opção de envio estará ativa e disponível para os clientes da loja, como demonstra o exemplo abaixo:
 
-![delivery-options-pt-example](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_4.png)
+![delivery-options-pt-example](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/opcoes-de-envio_4.png)
 
 ## Editar uma opção de envio
 

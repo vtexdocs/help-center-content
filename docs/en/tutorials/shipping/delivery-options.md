@@ -9,7 +9,7 @@ firstPublishedAt: 2025-08-22T20:33:50.257Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slugEN: delivery-options-beta
+slugEN: delivery-options
 legacySlug: opcoes-de-envio-beta
 locale: en
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
@@ -25,7 +25,7 @@ Delivery Options use the [shipping policies](/en/docs/tutorials/shipping-policy)
 
 Shipping policies are associated with a delivery option when they meet both the defined delivery promise and the configured delivery zones. If no shipping policy meets the configured criteria, or if the shipping policies haven't been properly configured, see the article [Creating a shipping policy](/en/docs/tutorials/creating-a-shipping-policy).
 
-![delivery-options-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/delivery-options-beta_1.png)
+![delivery-options-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/delivery-options_1.png)
 
 The page displays the following information in a table:
 
@@ -43,7 +43,7 @@ To create a delivery option, follow the steps below:
 1. In the VTEX Admin, go to **Shipping > Delivery Options**, or type **Delivery Options** in the search bar at the top of the page.
 2. Click `Create delivery option`.
 3. Complete the fields in the form:
-   ![delivery-options-form-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/delivery-options-beta_2.png)
+   ![delivery-options-form-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/delivery-options_2.png)
 
    ### Basic information
 
@@ -78,7 +78,7 @@ To create a delivery option, follow the steps below:
 
 The delivery option will then be active and available to customers:
 
-![delivery-options-en-example](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/delivery-options-beta_4.png)
+![delivery-options-en-example](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/delivery-options_4.png)
 
 ## Editing delivery options
 

@@ -43,8 +43,8 @@ Filtering by postal code, shipping method, delivery target, pickup point, and ta
 - **Pickup:** Products available at pickup points within a [configured radius](https://help.vtex.com/en/docs/tutorials/creating-pickup-points#fields) or up to the default distance of [50 km](https://help.vtex.com/en/docs/tutorials/pickup-points#how-pickup-points-work) from the address.  
 - **Pickup nearby:** Products available for pickup at pickup points within up to 10 km from the provided address.  
 - **Pickup at {{nome}}:** Products available at the selected [pickup point](https://help.vtex.com/en/docs/tutorials/creating-pickup-points).  
-- **Shipping time ([Delivery options](https://help.vtex.com/en/docs/tutorials/delivery-options-beta))**: Products available based on the deadline, shipping method, and geographic zones configured by the merchant in the [**Delivery options**](https://help.vtex.com/en/docs/tutorials/delivery-options-beta) module.  
-- **Dynamic shipping time**: Products available based on dynamic timeframes (**Same day** and **Next day**), which consider the customer browsing time and the timeframes configured in the [**Delivery options**](https://help.vtex.com/en/docs/tutorials/delivery-options-beta) of the store's main account for delivery and pickup.
+- **Shipping time ([Delivery options](https://help.vtex.com/en/docs/tutorials/delivery-options))**: Products available based on the deadline, shipping method, and geographic zones configured by the merchant in the [**Delivery options**](https://help.vtex.com/en/docs/tutorials/delivery-options) module.  
+- **Dynamic shipping time**: Products available based on dynamic timeframes (**Same day** and **Next day**), which consider the customer browsing time and the timeframes configured in the [**Delivery options**](https://help.vtex.com/en/docs/tutorials/delivery-options) of the store's main account for delivery and pickup.
 
 In addition to filters, **Delivery Promise (Beta)** provides components that can be displayed on the product listing page and storefront, including shipping options and dynamic shipping times, as well as details of available delivery and pickup methods for each product.
 
