@@ -10,7 +10,7 @@ firstPublishedAt: 2017-04-27T23:02:46.478Z
 contentType: frequentlyAskedQuestion
 productTeam: Orders
 author: authors_3
-slugEN: why-does-the-hostName-in-the-message-center-JSON-display-different-information-from-the-license-manager
+slugEN: why-does-the-hostname-in-the-message-center-json-display-different-information-from-the-license-manager
 locale: es
 legacySlug: por-que-el-hostname-en-el-json-del-message-center-muestra-informacion-distinta-a-la-del-license-manager
 ---
