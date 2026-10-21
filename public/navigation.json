@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "VTEX Shield: Fraud Prevention available for all accounts",
+                    "es": "VTEX Shield: Prevención de fraude disponible para todas las cuentas",
+                    "pt": "VTEX Shield: Prevenção contra fraudes disponível para todas as contas"
+                  },
+                  "slug": {
+                    "en": "2026-10-20-vtex-shield-fraud-prevention-available-for-all-accounts",
+                    "es": "2026-10-20-vtex-shield-prevencion-de-fraude-disponible-para-todas-las-cuentas",
+                    "pt": "2026-10-20-vtex-shield-prevencao-contra-fraudes-disponivel-para-todas-as-contas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Persistent login: set how long your customers stay authenticated",
                     "es": "Inicio de sesión persistente: define por cuánto tiempo tus clientes permanecen autenticados",
                     "pt": "Login persistente: defina por quanto tempo seus clientes permanecem autenticados"
