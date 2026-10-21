@@ -12,9 +12,9 @@ O sucesso de uma operação com o **VTEX Sales App** depende de decisões de neg
 
 Antes de iniciar a implementação, passe por estas quatro etapas:
 
-- **Definir os casos de uso do Sales App:** principais situações em que o app será utilizado.
-- **Definir a arquitetura técnica:** quais estratégias [omnichannel](/pt/docs/tracks/comercio-unificado-101) serão adotadas e o que cada uma exige, como contas franquia, pontos de retirada, estoques e integração com o ERP.
-- **Definir a operação de vendas:** como os vendedores vão acessar e usar o app, quais ações poderão realizar e como as vendas serão acompanhadas. Um ponto crucial é o modelo de comissionamento: em operações omnichannel, o engajamento da equipe depende de como a venda feita na loja, mas entregue pelo ecommerce, será creditada.
+- **Definir os casos de uso do Sales App:** principais situações em que o **Sales App** será utilizado.
+- **Definir a arquitetura técnica:** quais estratégias [omnichannel](/pt/docs/tracks/comercio-unificado-101) serão adotadas e o que cada uma exige, como [contas franquia](/pt/docs/tutorials/o-que-e-conta-franquia), pontos de retirada, estoques e integração com o ERP.
+- **Definir a operação de vendas:** como os vendedores vão acessar e usar o **Sales App**, quais ações poderão realizar e como as vendas serão acompanhadas. Um ponto importante é o modelo de comissionamento. Em operações omnichannel, o engajamento da equipe depende de como será creditada a venda feita na loja e entregue pelo ecommerce.
 - **Definir as configurações de pagamento:** quais métodos de pagamento serão aceitos, como link de pagamento, Pix, cartão e dinheiro. Alguns métodos exigem a contratação e homologação de provedores e adquirentes específicos para a operação física.
 
 > ℹ️ Se a arquitetura da sua conta for complexa ou exigir recursos customizados, considere contratar o time de Professional Services da VTEX para obter mais eficiência e segurança na implementação.
@@ -45,13 +45,15 @@ A [Prateleira Infinita](/pt/docs/tracks/prateleira-infinita) dá aos seus client
 
 - **Público-alvo:** empresas que buscam vendas incrementais, evitando a ruptura de estoque local ao oferecer o catálogo do ecommerce.
 - **O que decidir:** modelo de estoques e arquitetura de lojas, incluindo se haverá contas franquia e [pontos de retirada](#retirada-em-loja).
-- **Requisitos:** basta ter o **Sales App** instalado na conta principal e decidir qual [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) irá usar.
+- **Requisitos:** ter o **Sales App** instalado na conta principal e definir a [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) que ele vai usar.
 
 #### Configuração da Prateleira Infinita
 
-- **Sem [arquitetura omnichannel](/pt/docs/tracks/comercio-unificado-101):** configure o **Sales App** na conta principal usando as mesmas políticas comerciais e estoques do ecommerce.
+Escolha a configuração de acordo com a arquitetura da operação:
+
+- **Sem [arquitetura omnichannel](/pt/docs/tracks/comercio-unificado-101):** configure o **Sales App** na conta principal usando a mesma política comercial e os mesmos estoques do ecommerce.
 - **Com arquitetura omnichannel e multiestoque:** cadastre cada loja física como um estoque na conta principal. Essa opção é recomendada para quem não precisa de gestão separada de preços por loja.
-  - **Com contas franquia:** crie uma [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia) para cada loja. As contas franquia têm obrigatoriamente o mesmo catálogo da conta principal, mas podem ter configurações de logística próprias.
+- **Com contas franquia:** crie uma conta franquia para cada loja. As contas franquia têm obrigatoriamente o mesmo catálogo da conta principal, mas podem ter configurações de logística próprias.
 
 ### Ship from Store
 
@@ -62,8 +64,8 @@ O [Ship from Store](/pt/docs/tracks/configurar-ship-from-store) permite que o cl
 
 #### Configuração do Ship from Store
 
-- **Arquitetura de conta franquia:** a VTEX recomenda criar uma [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia) para cada loja, para que cada uma tenha sua própria logística.
-- **Configuração logística:** na conta franquia, cadastre a transportadora em uma [política de envio](/pt/docs/tutorials/politica-de-envio), associe essa política a uma doca e use a doca como origem do estoque da loja.
+- **Arquitetura de conta franquia:** recomendamos criar uma [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia) para cada loja, para que cada uma tenha sua própria logística.
+- **Configuração logística:** na conta franquia, cadastre a transportadora como uma [política de envio](/pt/docs/tutorials/politica-de-envio), associe essa política a uma doca e indique a doca como origem do estoque da loja.
 - **Integração com ERP:** obrigatória, para que o inventário da loja esteja sempre atualizado.
 
 ### Retirada em loja
@@ -76,11 +78,11 @@ Com a [retirada em loja](/pt/docs/tracks/configurar-lojas-fisicas-como-pontos-de
 #### Configuração da retirada em loja
 
 - **Arquitetura de conta franquia:** recomendamos que cada loja funcionando como ponto de retirada seja uma [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia).
-- **Configuração logística:** crie um [ponto de retirada](https://help.vtex.com/pt/docs/tutorials/cadastro-de-pontos-de-retirada) e associe-o ao estoque da loja seguindo os passos descritos no artigo [Lojas físicas como pontos de retirada](https://help.vtex.com/pt/docs/tracks/configurar-lojas-fisicas-como-pontos-de-retirada). Além disso, é necessário associar o ponto de retirada a uma [política de envio](https://help.vtex.com/pt/docs/tutorials/politica-de-envio).
+- **Configuração logística:** crie um [ponto de retirada](/pt/docs/tutorials/cadastro-de-pontos-de-retirada) e associe-o ao estoque da loja seguindo os passos descritos no artigo [Lojas físicas como pontos de retirada](/pt/docs/tracks/configurar-lojas-fisicas-como-pontos-de-retirada). Além disso, associe o ponto de retirada a uma [política de envio](/pt/docs/tutorials/politica-de-envio).
 
 ### Venda do estoque local e carrinhos mistos
 
-A [venda do estoque local](/pt/docs/tutorials/habilitar-venda-de-estoque-local-do-vtex-sales-app) permite que o cliente leve o produto na hora da compra na loja física, em uma venda do tipo "Levar agora" (OnHands). Essa estratégia pode ser combinada com carrinhos mistos, quando uma mesma venda contém itens que o cliente leva na hora e itens que serão entregues em sua casa a partir de outro estoque.
+A [venda do estoque local](/pt/docs/tutorials/habilitar-venda-de-estoque-local-do-vtex-sales-app) permite que o cliente leve o produto na hora da compra na loja física, em uma venda do tipo "Levar agora" (On Hands). Essa estratégia pode ser combinada com carrinhos mistos, quando uma mesma venda contém itens que o cliente leva na hora e itens que serão entregues em sua casa a partir de outro estoque.
 
 - **Público-alvo:** lojas físicas que desejam vender produtos do estoque local e combinar em um mesmo pedido itens para levar na hora e itens para entrega.
 - **O que decidir:** como integrar o ERP e o sistema fiscal da loja para que o inventário esteja sempre atualizado e a nota fiscal seja emitida no momento da venda.
@@ -88,11 +90,11 @@ A [venda do estoque local](/pt/docs/tutorials/habilitar-venda-de-estoque-local-d
 #### Configuração da venda do estoque local e carrinhos mistos
 
 - **Arquitetura de conta franquia:** usa a mesma base da [retirada em loja](#retirada-em-loja), ou seja, uma conta franquia para cada loja, com um ponto de retirada cadastrado com o endereço da loja física.
-- **Configuração logística:** siga o passo a passo de [venda do estoque local](/pt/docs/tutorials/habilitar-venda-de-estoque-local-do-vtex-sales-app) para vincular o ponto de retirada ao estoque da loja e habilitar vendas do tipo "Levar agora" (`instore`). A venda de carrinhos mistos já vem configurada por padrão nas lojas VTEX.
-- **Faturamento:** integre o sistema de faturamento ao de nota fiscal (NFC-e/SAT) via PDV ou ERP para permitir a saída imediata do produto.
+- **Configuração logística:** siga o passo a passo de [venda do estoque local](/pt/docs/tutorials/habilitar-venda-de-estoque-local-do-vtex-sales-app) para vincular o ponto de retirada ao estoque da loja e habilitar vendas do tipo "Levar agora" (On Hands). A venda de carrinhos mistos já vem configurada por padrão nas lojas VTEX.
+- **Faturamento:** integre o faturamento ao sistema de nota fiscal (NFC-e/SAT), pelo PDV ou pelo ERP, para permitir a saída imediata do produto.
 - **Conciliação:** ajuste o sistema e a operação de conciliação para garantir o fluxo correto de faturamento, de acordo com as definições da sua área financeira.
 
-> ℹ️ Para usar a retirada em loja e os carrinhos mistos, é necessário ativar o **Checkout v6**. Essa versão do checkout permite que o cliente escolha um ponto de retirada e divida um mesmo pedido entre itens entregues em casa e itens retirados na loja. Para mais informações, leia o artigo [Como ativar o Checkout v6](/pt/docs/tutorials/ativar-o-checkout-v6).
+> ℹ️ Para usar a retirada em loja e os carrinhos mistos, é necessário ativar o **Checkout v6**. Essa versão permite que o cliente escolha um ponto de retirada e divida um mesmo pedido entre itens entregues em casa e itens retirados na loja. Para mais informações, leia o artigo [Como ativar o Checkout v6](/pt/docs/tutorials/ativar-o-checkout-v6).
 
 ## Definir a operação de vendas
 
@@ -119,7 +121,7 @@ Você pode habilitar ou desabilitar algumas ações dos vendedores no app. Cada 
 ### Performance e comissionamento
 
 - **Acompanhamento no app:** ative a performance de vendas para que os vendedores acompanhem suas métricas básicas no próprio **Sales App**.
-- **Integração com sistemas internos:** use os campos do pedido para enviar os dados de venda aos seus sistemas internos e calcular o comissionamento. Em [customData.customApps](https://developers.vtex.com/docs/guides/orderform-fields#customdata), o `id` do Sales App é `sales-app`.
+- **Integração com sistemas internos:** use os campos do pedido para enviar os dados de venda aos seus sistemas internos e calcular o comissionamento. Em [customData.customApps](https://developers.vtex.com/docs/guides/orderform-fields#customdata), o `id` do **Sales App** é `sales-app`.
 - **Modelo de comissionamento:** defina com as áreas internas, lojas próprias e franquias como as vendas omnichannel entrarão nas metas e no repasse de lojas, franquias, gerentes e vendedores. Essa definição não depende de configuração na VTEX, mas é essencial para o modelo de repasse e para o engajamento da equipe com o app.
 
 > ⚠️ O **Sales App** não calcula o comissionamento de vendas. Esse cálculo deve ser realizado por um sistema externo com base nos dados do pedido.
@@ -131,7 +133,7 @@ Defina quais métodos de pagamento estarão disponíveis no **Sales App**. Algun
 - **Link de pagamento (social selling):** usa o checkout do ecommerce. Para configurá-lo, siga o tutorial [Como ativar o app Carrinho Compartilhável (Social Selling)](/pt/docs/tutorials/como-ativar-o-app-carrinho-compartilhavel).
 - **Pix:** usa o mesmo gateway de pagamento do ecommerce.
 - **Dinheiro:** o pagamento é controlado fora da plataforma, e o pedido é registrado com o método promissória.
-- **Adquirentes homologados:** exigem contratar um parceiro disponível na sua região, configurar os terminais de pagamento (maquininhas), configurar o provedor na conta principal e realizar testes.
+- **Adquirentes homologados:** exigem a contratação de um parceiro disponível na sua região, a configuração dos terminais de pagamento (maquininhas) e do provedor na conta principal, e a realização de testes.
 - **Pagamentos não integrados:** usam o método promissória e exigem integração com sistemas externos, como PDV ou ERP, para receber a confirmação do pagamento. São indicados para cartões private label ou métodos de pagamento já consolidados na loja.
 
 > ℹ️ Para mais informações, leia o artigo [Configurar métodos de pagamento para o VTEX Sales App](/pt/docs/tracks/configurar-metodos-de-pagamento-para-o-vtex-sales-app).
