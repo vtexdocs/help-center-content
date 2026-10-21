@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Delivery Promise: now available to all merchants",
+                    "es": "Delivery Promise: ahora disponible para todos los retailers",
+                    "pt": "Delivery Promise: agora disponível para todos os lojistas"
+                  },
+                  "slug": {
+                    "en": "2026-10-21-delivery-promise-now-generally-available",
+                    "es": "2026-10-21-delivery-promise-ahora-disponible-para-todas-las-tiendas",
+                    "pt": "2026-10-21-delivery-promise-agora-disponivel-para-todos-os-lojistas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Persistent login: set how long your customers stay authenticated",
                     "es": "Inicio de sesión persistente: define por cuánto tiempo tus clientes permanecen autenticados",
                     "pt": "Login persistente: defina por quanto tempo seus clientes permanecem autenticados"
@@ -22317,6 +22332,67 @@
           "children": [
             {
               "name": {
+                "en": "Delivery Promise",
+                "es": "Delivery Promise",
+                "pt": "Delivery Promise"
+              },
+              "slug": {
+                "en": "delivery-promise-subcategory",
+                "es": "delivery-promise-subcategoria",
+                "pt": "delivery-promise-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Activating Delivery Promise",
+                    "es": "Activar Delivery Promise",
+                    "pt": "Ativar o Delivery Promise"
+                  },
+                  "slug": {
+                    "en": "activate-delivery-promise",
+                    "es": "activar-delivery-promise",
+                    "pt": "ativar-delivery-promise"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Delivery Promise",
+                    "es": "Delivery Promise",
+                    "pt": "Delivery Promise"
+                  },
+                  "slug": {
+                    "en": "delivery-promise",
+                    "es": "delivery-promise",
+                    "pt": "delivery-promise"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Delivery Promise: FAQ",
+                    "es": "Delivery Promise: preguntas frecuentes",
+                    "pt": "Delivery Promise: FAQ"
+                  },
+                  "slug": {
+                    "en": "delivery-promise-faq",
+                    "es": "delivery-promise-faq",
+                    "pt": "delivery-promise-faq"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Inventory",
                 "es": "Inventario",
                 "pt": "Inventário"
@@ -36253,67 +36329,6 @@
                     "en": "releases-module-beta",
                     "es": "modulo-de-lanzamientos-beta",
                     "pt": "modulo-lancamentos-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Shipping Beta",
-                "es": "Envío Beta",
-                "pt": "Envio Beta"
-              },
-              "slug": {
-                "en": "shipping-beta-subcategory",
-                "es": "envio-beta-subcategoria",
-                "pt": "envio-beta-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Activating Delivery Promise",
-                    "es": "Activar Delivery Promise",
-                    "pt": "Ativar o Delivery Promise"
-                  },
-                  "slug": {
-                    "en": "activate-delivery-promise",
-                    "es": "activar-delivery-promise",
-                    "pt": "ativar-delivery-promise"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Delivery Promise (Beta)",
-                    "es": "Delivery Promise (beta)",
-                    "pt": "Delivery Promise (Beta)"
-                  },
-                  "slug": {
-                    "en": "delivery-promise-beta",
-                    "es": "delivery-promise-beta",
-                    "pt": "delivery-promise-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Delivery Promise: FAQ",
-                    "es": "Delivery Promise: FAQ",
-                    "pt": "Delivery Promise: FAQ"
-                  },
-                  "slug": {
-                    "en": "delivery-promise-faq",
-                    "es": "delivery-promise-faq",
-                    "pt": "delivery-promise-faq"
                   },
                   "origin": "",
                   "type": "markdown",
