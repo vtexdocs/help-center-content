@@ -3,7 +3,7 @@ title: 'Configurar Carrinho Abandonado'
 id: tutorials_740
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:05.882Z
-updatedAt: 2024-08-09T13:03:53.859Z
+updatedAt: 2026-10-01T18:48:35.000Z
 publishedAt: 2024-08-09T13:03:53.859Z
 firstPublishedAt: 2017-04-27T23:03:41.572Z
 contentType: tutorial
@@ -77,7 +77,7 @@ Como boa prática de configuração de DNS de um domínio genérico (não obriga
 
 ![Hostnames - SPF](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configurações-do-checkout/configurar-carrinho-abandonado_4.PNG)
 
-Saiba mais em [Configurar o apontamento de DNS para a VTEX](/pt/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280?&utm_source=autocomplete).
+Saiba mais em [Configurar o apontamento de DNS para a VTEX](https://help.vtex.com/pt/docs/tracks/go-live#realizar-apontamento-de-dns).
 
 ### Configurar trigger
 
