@@ -25,41 +25,41 @@ Antes de iniciar a implementação, passe por estas quatro etapas:
 
 Os casos de uso mais frequentes do **Sales App** são:
 
-- **Ruptura de estoque:** o app é usado apenas quando o produto não está disponível na loja, para vendê-lo a partir de outros estoques.
-- **Consulta de estoque e venda com mobilidade:** o app é a primeira opção dos vendedores para consultar o estoque local e remoto e fechar vendas em qualquer ponto da loja.
-- **Ferramenta única da loja física:** o app substitui o ponto de venda (PDV) tradicional em todas as vendas da loja.
-- **Atendimento remoto:** os vendedores usam o app para fechar vendas assistidas por canais digitais.
-- **Eventos e pop-up stores:** o app pode ser levado para onde o cliente estiver, como em feiras ou quiosques temporários.
+- **Ruptura de estoque:** o Sales App é usado apenas quando o produto não está disponível na loja, para vendê-lo a partir de outros estoques.
+- **Consulta de estoque e venda com mobilidade:** o Sales App é a primeira opção dos vendedores para consultar o estoque local e remoto e fechar vendas em qualquer ponto da loja.
+- **Ferramenta única da loja física:** o Sales App substitui o ponto de venda (PDV) tradicional em todas as vendas da loja.
+- **Atendimento remoto:** os vendedores usam o Sales App para fechar vendas assistidas por canais digitais.
+- **Eventos e pop-up stores:** o Sales App pode ser levado para onde o cliente estiver, como em feiras ou quiosques temporários.
 
 > ℹ️ Se você tem um caso de uso específico ou quer ampliar suas vendas assistidas, abra um ticket para o [Suporte VTEX](https://help.vtex.com/support). Nossa equipe ajudará você a entender como o **Sales App** pode atender ao seu negócio.
 
-### Extensibilidade no VTEX Sales App
+### Extensibilidade no Sales App
 
 Para funcionalidades que o **Sales App** não oferece nativamente, como programas de fidelidade, serviços adicionais ou formulários customizados, avalie o uso do [VTEX Sales App Extensibility](/pt/docs/tutorials/vtex-sales-app-extensibility-pt). Com ele, seu time ou um parceiro pode desenvolver módulos em pontos estratégicos da jornada de vendas.
 
 ## Definir a arquitetura técnica
 
-A arquitetura técnica depende das estratégias que sua operação adotará com o **Sales App**. As seções a seguir apresentam as principais estratégias, o que decidir em cada uma delas e as configurações necessárias. Se sua operação combinar mais de uma estratégia, atenda aos requisitos de todas elas.
+A arquitetura técnica depende das estratégias que sua operação adotará com o **Sales App**. As seções a seguir apresentam as principais estratégias, o que decidir em cada uma delas e as configurações necessárias.
 
 ### Prateleira Infinita
 
-A [Prateleira Infinita](/pt/docs/tracks/prateleira-infinita) dá aos seus clientes acesso a todo o inventário, integrado entre os canais de venda. Ou seja, um cliente que está em uma loja física pode comprar um produto do estoque de outras lojas físicas ou do ecommerce, e a entrega pode ser feita a partir de qualquer um desses estoques.
+A [Prateleira Infinita](/pt/docs/tracks/prateleira-infinita) permite aos seus clientes acessar todo o inventário, integrado entre os canais de venda. Ou seja, um cliente que está em uma loja física pode comprar um produto do estoque de outras lojas físicas ou do ecommerce, e a entrega pode ser feita a partir de qualquer um desses estoques.
 
 - **Público-alvo:** empresas que buscam vendas incrementais, evitando a ruptura de estoque local ao oferecer o catálogo do ecommerce.
 - **O que decidir:** modelo de estoques e arquitetura de lojas, incluindo se haverá contas franquia e [pontos de retirada](#retirada-em-loja).
-- **Requisitos:** ter o **Sales App** instalado na conta principal e definir a [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) que ele vai usar.
+- **Requisitos:** ter o Sales App instalado na conta principal e definir a [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) que ele vai usar.
 
 #### Configuração da Prateleira Infinita
 
 Escolha a configuração de acordo com a arquitetura da operação:
 
-- **Sem [arquitetura omnichannel](/pt/docs/tracks/comercio-unificado-101):** configure o **Sales App** na conta principal usando a mesma política comercial e os mesmos estoques do ecommerce.
+- **Sem [arquitetura omnichannel](/pt/docs/tracks/comercio-unificado-101):** configure o Sales App na conta principal usando a mesma política comercial e os mesmos estoques do ecommerce.
 - **Com arquitetura omnichannel e multiestoque:** cadastre cada loja física como um estoque na conta principal. Essa opção é recomendada para quem não precisa de gestão separada de preços por loja.
 - **Com contas franquia:** crie uma conta franquia para cada loja. As contas franquia têm obrigatoriamente o mesmo catálogo da conta principal, mas podem ter configurações de logística próprias.
 
 ### Ship from Store
 
-O [Ship from Store](/pt/docs/tracks/configurar-ship-from-store) permite que o cliente receba em casa pedidos com produtos que saem do estoque de uma loja física. Ou seja, a loja funciona como um pequeno centro de distribuição.
+O [Ship from Store](/pt/docs/tracks/configurar-ship-from-store) permite que o cliente receba em casa pedidos com produtos que saem do estoque de uma loja física. Ou seja, a loja funciona como um centro de distribuição.
 
 - **Público-alvo:** marcas que querem reduzir custos e prazos de entrega usando as lojas físicas mais próximas do cliente como origem dos pedidos.
 - **O que decidir:** quais lojas farão entregas, quais transportadoras atenderão cada loja e como integrar o ERP para que o inventário de cada loja esteja sempre atualizado.
@@ -72,10 +72,10 @@ O [Ship from Store](/pt/docs/tracks/configurar-ship-from-store) permite que o cl
 
 ### Retirada em loja
 
-Com a [retirada em loja](/pt/docs/tracks/configurar-lojas-fisicas-como-pontos-de-retirada), as lojas físicas funcionam como pontos de retirada. No **Sales App**, isso permite que o vendedor feche a venda em qualquer loja ou em um atendimento remoto e que o cliente busque o pedido na loja física de sua preferência. Pedidos feitos no ecommerce também podem ser retirados nesses pontos.
+Com a [retirada em loja](/pt/docs/tracks/configurar-lojas-fisicas-como-pontos-de-retirada), as lojas físicas funcionam como pontos de retirada. No **Sales App**, isso permite que o vendedor realize a venda em qualquer loja ou ecommerce e que o cliente retire o pedido na loja física de sua preferência.
 
 - **Público-alvo:** marcas com lojas físicas que querem oferecer ao cliente a opção de buscar o pedido na loja, reduzindo custos de frete e gerando mais visitas às lojas.
-- **O que decidir:** quais lojas serão pontos de retirada, se os pedidos retirados sairão do estoque da própria loja ou de outro estoque e como manter o inventário da loja atualizado. Para isso, recomendamos a integração com o ERP.
+- **O que decidir:** quais lojas serão pontos de retirada, se os pedidos retirados sairão do estoque da própria loja ou de outro estoque e como manter o inventário de cada loja atualizado. Para isso, recomendamos a integração com o ERP.
 
 #### Configuração da retirada em loja
 
