@@ -6,5 +6,4 @@ contentType: tutorial
 productTeam: Shopping
 slugEN: planning-the-vtex-sales-app-implementation
 locale: es
-subcategoryId: vtex-sales-app
 ---
