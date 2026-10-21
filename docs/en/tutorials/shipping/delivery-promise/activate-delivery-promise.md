@@ -70,7 +70,7 @@ In this step, you configure Delivery Promise on the storefront. The instructions
 
 ### Store Framework (VTEX IO)
 
-1. **Activate in the test version:** create a development workspace and, in the **GraphQL resolver for the VTEX store APIs** app, enable the `enableDeliveryPromisePreview` option. To do this, go to the following URL, replacing `{workspace}` with the workspace name and `{account}` with your account name:
+1. **Activate in the test version:** create a development workspace and, in the **GraphQL resolver for the VTEX store APIs** app, enable the **Enable Delivery Promises Preview for Intelligent Search** option. To do this, go to the following URL, replacing `{workspace}` with the workspace name and `{account}` with your account name:
 
     ```
     https://{workspace}--{account}.myvtex.com/admin/apps/vtex.search-resolver/setup
