@@ -39,14 +39,29 @@
               "children": [
                 {
                   "name": {
-                    "en": "Delivery Promise: now available to all merchants",
-                    "es": "Delivery Promise: ahora disponible para todos los retailers",
-                    "pt": "Delivery Promise: agora disponível para todos os lojistas"
+                    "en": "Persistent login: set how long your customers stay authenticated",
+                    "es": "Inicio de sesión persistente: define por cuánto tiempo tus clientes permanecen autenticados",
+                    "pt": "Login persistente: defina por quanto tempo seus clientes permanecem autenticados"
                   },
                   "slug": {
-                    "en": "2026-10-21-delivery-promise-now-generally-available",
-                    "es": "2026-10-21-delivery-promise-ahora-disponible-para-todas-las-tiendas",
-                    "pt": "2026-10-21-delivery-promise-agora-disponivel-para-todos-os-lojistas"
+                    "en": "2026-10-16-persistent-login-set-how-long-your-customers-stay-authenticated",
+                    "es": "2026-10-16-inicio-de-sesion-persistente-define-por-cuanto-tiempo-tus-clientes-permanecen-autenticados",
+                    "pt": "2026-10-16-login-persistente-defina-por-quanto-tempo-seus-clientes-permanecem-autenticados"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Bolivia address database update",
+                    "es": "Actualización de la base de direcciones de Bolivia",
+                    "pt": "Atualização da base de endereços da Bolívia"
+                  },
+                  "slug": {
+                    "en": "2026-10-15-bolivia-address-database-update",
+                    "es": "2026-10-15-actualizacion-de-la-base-de-direcciones-de-bolivia",
+                    "pt": "2026-10-15-atualizacao-da-base-de-enderecos-da-bolivia"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -159,7 +174,7 @@
                 },
                 {
                   "name": {
-                    "en": "VTEX CX Platform: support for BSUID and WhatsApp usernames",
+                    "en": "VTEX CX Platform: BSUID and WhatsApp username support",
                     "es": "VTEX CX Platform: soporte para BSUID y nombres de usuario de WhatsApp",
                     "pt": "VTEX CX Platform: suporte a BSUID e usernames do WhatsApp"
                   },
@@ -22287,67 +22302,6 @@
           "children": [
             {
               "name": {
-                "en": "Delivery Promise",
-                "es": "Delivery Promise",
-                "pt": "Delivery Promise"
-              },
-              "slug": {
-                "en": "delivery-promise-subcategory",
-                "es": "delivery-promise-subcategoria",
-                "pt": "delivery-promise-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Activating Delivery Promise",
-                    "es": "Activar Delivery Promise",
-                    "pt": "Ativar o Delivery Promise"
-                  },
-                  "slug": {
-                    "en": "activate-delivery-promise",
-                    "es": "activar-delivery-promise",
-                    "pt": "ativar-delivery-promise"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Delivery Promise",
-                    "es": "Delivery Promise",
-                    "pt": "Delivery Promise"
-                  },
-                  "slug": {
-                    "en": "delivery-promise",
-                    "es": "delivery-promise",
-                    "pt": "delivery-promise"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Delivery Promise: FAQ",
-                    "es": "Delivery Promise: preguntas frecuentes",
-                    "pt": "Delivery Promise: FAQ"
-                  },
-                  "slug": {
-                    "en": "delivery-promise-faq",
-                    "es": "delivery-promise-faq",
-                    "pt": "delivery-promise-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Inventory",
                 "es": "Inventario",
                 "pt": "Inventário"
@@ -23324,6 +23278,21 @@
                 "en": "logistics-glossary",
                 "es": "glosario-de-logistica",
                 "pt": "glossario-de-logistica"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Delivery Options",
+                "es": "Opciones de envío",
+                "pt": "Opções de envio"
+              },
+              "slug": {
+                "en": "delivery-options",
+                "es": "opciones-de-envio",
+                "pt": "opcoes-de-envio"
               },
               "origin": "",
               "type": "markdown",
@@ -25859,24 +25828,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "What is Deposit Slip",
-                    "es": "Qué es Ficha de Depósito",
-                    "pt": "O que é  Ficha Depósito"
-                  },
-                  "slug": {
-                    "en": "what-is-deposit-slip",
-                    "es": "que-es-ficha-de-deposito",
-                    "pt": "o-que-e-ficha-deposito"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is 3D Secure?",
-                    "es": "¿Qué es 3D Secure?",
-                    "pt": "O que é 3D Secure?"
+                    "en": "3D Secure",
+                    "es": "3D Secure",
+                    "pt": "3D Secure"
                   },
                   "slug": {
                     "en": "what-is-3d-secure",
@@ -25889,14 +25843,14 @@
                 },
                 {
                   "name": {
-                    "en": "What is anti-fraud?",
-                    "es": "¿Qué es antifraude?",
-                    "pt": "O que é antifraude?"
+                    "en": "Financial agents in the payment flow",
+                    "es": "Agentes financieros en el flujo de pago",
+                    "pt": "Agentes financeiros no fluxo de pagamento"
                   },
                   "slug": {
-                    "en": "what-is-anti-fraud",
-                    "es": "que-es-antifraude",
-                    "pt": "o-que-e-antifraude"
+                    "en": "financial-agents-in-the-payment-flow",
+                    "es": "agentes-financieros-en-el-flujo-de-pago",
+                    "pt": "agentes-financeiros-no-fluxo-de-pagamento"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25904,14 +25858,14 @@
                 },
                 {
                   "name": {
-                    "en": "What is the Issuing Bank?",
-                    "es": "¿Qué es el Banco Emisor?",
-                    "pt": "O que é Banco Emissor?"
+                    "en": "What is Deposit Slip",
+                    "es": "Qué es Ficha de Depósito",
+                    "pt": "O que é  Ficha Depósito"
                   },
                   "slug": {
-                    "en": "what-is-the-issuing-bank",
-                    "es": "que-es-el-banco-emisor",
-                    "pt": "o-que-e-banco-emissor"
+                    "en": "what-is-deposit-slip",
+                    "es": "que-es-ficha-de-deposito",
+                    "pt": "o-que-e-ficha-deposito"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25942,66 +25896,6 @@
                     "en": "what-is-the-pci-ssc",
                     "es": "que-es-el-pci-ssc",
                     "pt": "o-que-e-o-pci-ssc"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is an acquirer?",
-                    "es": "¿Qué es un adquirente?",
-                    "pt": "O que é um adquirente?"
-                  },
-                  "slug": {
-                    "en": "what-is-an-acquirer",
-                    "es": "que-es-un-adquirente",
-                    "pt": "o-que-e-um-adquirente"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a payment gateway?",
-                    "es": "¿Qué es un gateway de pagos?",
-                    "pt": "O que é um gateway de pagamentos?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-payment-gateway",
-                    "es": "que-es-un-gateway-de-pagos",
-                    "pt": "o-que-e-um-gateway-de-pagamentos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a sub-acquirer?",
-                    "es": "¿Qué es un subadquirente?",
-                    "pt": "O que é um subadquirente?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-sub-acquirer",
-                    "es": "que-es-un-subadquirente",
-                    "pt": "o-que-e-um-subadquirente"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a credit card brand?",
-                    "es": "¿Qué es una bandera de tarjeta de crédito?",
-                    "pt": "O que é uma bandeira de cartão de crédito?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-credit-card-brand",
-                    "es": "que-es-una-bandera-de-tarjeta-de-credito",
-                    "pt": "o-que-e-uma-bandeira-de-cartao-de-credito"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26062,21 +25956,6 @@
                     "en": "payment-provider-protocol",
                     "es": "payment-provider-protocol",
                     "pt": "payment-provider-protocol"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is the role of financial agents in the payment flow of an application in Brazil?",
-                    "es": "¿Cuál es el papel de los agentes financieros en el flujo de pago de un pedido en Brasil?",
-                    "pt": "Qual é o papel dos agentes financeiros no fluxo de pagamento de um pedido no Brasil?"
-                  },
-                  "slug": {
-                    "en": "what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil",
-                    "es": "cual-es-la-diferencia-entre-adquirente-bandera-gateway-y-sub-adquirente-en-brasil",
-                    "pt": "diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -30451,21 +30330,6 @@
                   "origin": "",
                   "type": "category",
                   "children": [
-                    {
-                      "name": {
-                        "en": "Add 3DS support to the integration with Adyen",
-                        "es": "Añadir soporte a 3DS en la integración con Adyen",
-                        "pt": "Adicionar suporte a 3DS na integração com a Adyen"
-                      },
-                      "slug": {
-                        "en": "add-3ds-support-to-the-integration-with-adyen",
-                        "es": "anadir-soporte-a-3ds-en-la-integracion-con-adyen",
-                        "pt": "adicionando-suporte-a-3ds-na-integracao-com-a-adyen"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
                     {
                       "name": {
                         "en": "Setting up 3DS 2 authentication flow",
@@ -35968,9 +35832,9 @@
                 },
                 {
                   "name": {
-                    "en": "Fraud Prevention (Beta)",
-                    "es": "Prevención de Fraude (Beta)",
-                    "pt": "Prevenção contra fraudes (Beta)"
+                    "en": "Fraud Prevention",
+                    "es": "Prevención de Fraude",
+                    "pt": "Prevenção contra fraudes"
                   },
                   "slug": {
                     "en": "fraud-prevention",
@@ -36397,14 +36261,44 @@
               "children": [
                 {
                   "name": {
-                    "en": "Delivery Options (Beta)",
-                    "es": "Opciones de envío (beta)",
-                    "pt": "Opções de envio (Beta)"
+                    "en": "Activating Delivery Promise",
+                    "es": "Activar Delivery Promise",
+                    "pt": "Ativar o Delivery Promise"
                   },
                   "slug": {
-                    "en": "delivery-options-beta",
-                    "es": "opciones-de-envio-beta",
-                    "pt": "opcoes-de-envio-beta"
+                    "en": "activate-delivery-promise",
+                    "es": "activar-delivery-promise",
+                    "pt": "ativar-delivery-promise"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Delivery Promise (Beta)",
+                    "es": "Delivery Promise (beta)",
+                    "pt": "Delivery Promise (Beta)"
+                  },
+                  "slug": {
+                    "en": "delivery-promise-beta",
+                    "es": "delivery-promise-beta",
+                    "pt": "delivery-promise-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Delivery Promise: FAQ",
+                    "es": "Delivery Promise: FAQ",
+                    "pt": "Delivery Promise: FAQ"
+                  },
+                  "slug": {
+                    "en": "delivery-promise-faq",
+                    "es": "delivery-promise-faq",
+                    "pt": "delivery-promise-faq"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -39301,13 +39195,13 @@
             {
               "name": {
                 "en": "Seller account created with incorrect edition/sponsor during onboarding",
-                "es": "Cuenta de vendedor creada con edición/patrocinador incorrecto durante la incorporación",
-                "pt": "Conta de vendedor criada com edição/patrocinador incorreto durante a integração"
+                "es": "Cuenta de vendedor creada con edición/patrocinador incorrecto durante el proceso de incorporación.",
+                "pt": "Conta de vendedor criada com edição/patrocinador incorretos durante o processo de integração."
               },
               "slug": {
                 "en": "seller-account-created-with-incorrect-editionsponsor-during-onboarding",
-                "es": "cuenta-de-vendedor-creada-con-edicionpatrocinador-incorrecto-durante-la-incorporacion",
-                "pt": "conta-de-vendedor-criada-com-edicaopatrocinador-incorreto-durante-a-integracao"
+                "es": "cuenta-de-vendedor-creada-con-edicionpatrocinador-incorrecto-durante-el-proceso-de-incorporacion",
+                "pt": "conta-de-vendedor-criada-com-edicaopatrocinador-incorretos-durante-o-processo-de-integracao"
               },
               "origin": "",
               "type": "markdown",
@@ -46970,12 +46864,12 @@
             {
               "name": {
                 "en": "Order can't be created due to invalid credit card",
-                "es": "No se puede crear el pedido porque la tarjeta de crédito no es válida",
+                "es": "No se puede crear el pedido debido a que la tarjeta de crédito no es válida.",
                 "pt": "Não foi possível criar o pedido devido a um cartão de crédito inválido."
               },
               "slug": {
                 "en": "order-cant-be-created-due-to-invalid-credit-card",
-                "es": "no-se-puede-crear-el-pedido-porque-la-tarjeta-de-credito-no-es-valida",
+                "es": "no-se-puede-crear-el-pedido-debido-a-que-la-tarjeta-de-credito-no-es-valida",
                 "pt": "nao-foi-possivel-criar-o-pedido-devido-a-um-cartao-de-credito-invalido"
               },
               "origin": "",
@@ -52353,21 +52247,6 @@
                 "en": "the-field-administrator-who-approved-the-product-id-does-not-change-when-the-updating-is-done-by-webservice",
                 "es": "campo-administrador-que-aprobo-el-producto-id-no-cambia-cuando-la-actualizacion-se-hace-por-webservice",
                 "pt": "campo-administrador-que-aprovou-o-produto-id-nao-muda-quando-a-atualizacao-e-feita-por-webservice"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Divergence in the number of used permissions in the Security Monitor",
-                "es": "Divergencia en el número de permisos utilizados en el Monitor de seguridad",
-                "pt": "Divergência no número de permissões utilizadas no Monitor de Segurança"
-              },
-              "slug": {
-                "en": "divergence-in-the-number-of-used-permissions-in-the-security-monitor",
-                "es": "divergencia-en-el-numero-de-permisos-utilizados-en-el-monitor-de-seguridad",
-                "pt": "divergencia-no-numero-de-permissoes-utilizadas-no-monitor-de-seguranca"
               },
               "origin": "",
               "type": "markdown",
@@ -61461,21 +61340,6 @@
             },
             {
               "name": {
-                "en": "Console error [Report Only] - Refused to apply inline style because it violates the following Content Security",
-                "es": "Error de consola [Sólo informe] - Se ha denegado la aplicación del estilo en línea porque infringe la siguiente seguridad de contenido",
-                "pt": "Erro de console [Report Only] - Recusou-se a aplicar o estilo inline porque ele viola a seguinte segurança de conteúdo"
-              },
-              "slug": {
-                "en": "console-error-report-only-refused-to-apply-inline-style-because-it-violates-the-following-content-security",
-                "es": "error-de-consola-solo-informe-se-ha-denegado-la-aplicacion-del-estilo-en-linea-porque-infringe-la-siguiente-seguridad-de-contenido",
-                "pt": "erro-de-console-report-only-recusouse-a-aplicar-o-estilo-inline-porque-ele-viola-a-seguinte-seguranca-de-conteudo"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Transaction error caused by BIN validation mismatch in payment rules",
                 "es": "Error de transacción causado por una discrepancia en la validación del BIN en las reglas de pago.",
                 "pt": "Erro de transação causado por incompatibilidade na validação do BIN nas regras de pagamento."
@@ -62646,12 +62510,12 @@
             },
             {
               "name": {
-                "en": "Gift Card HUB accepts Invalid/Empty ID in response to create transaction",
+                "en": "Gift Card HUB acepta un identificador no válido o vacío al intentar crear una transacción",
                 "es": "Gift Card HUB acepta un identificador no válido o vacío al intentar crear una transacción",
                 "pt": "O Gift Card HUB aceita um ID inválido/vazio ao criar uma transação"
               },
               "slug": {
-                "en": "gift-card-hub-accepts-invalidempty-id-in-response-to-create-transaction",
+                "en": "",
                 "es": "gift-card-hub-acepta-un-identificador-no-valido-o-vacio-al-intentar-crear-una-transaccion",
                 "pt": "o-gift-card-hub-aceita-um-id-invalidovazio-ao-criar-uma-transacao"
               },
@@ -62871,6 +62735,21 @@
             },
             {
               "name": {
+                "en": "Gift card balance changed even though the transaction request failed",
+                "es": "El saldo de la tarjeta de regalo cambió a pesar de que la solicitud de transacción falló.",
+                "pt": "O saldo do cartão-presente foi alterado mesmo que a solicitação de transação tenha falhado."
+              },
+              "slug": {
+                "en": "gift-card-balance-changed-even-though-the-transaction-request-failed",
+                "es": "el-saldo-de-la-tarjeta-de-regalo-cambio-a-pesar-de-que-la-solicitud-de-transaccion-fallo",
+                "pt": "o-saldo-do-cartaopresente-foi-alterado-mesmo-que-a-solicitacao-de-transacao-tenha-falhado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Legacy Antifrauds cannot complete a request when the accountId is missing.",
                 "es": "Los sistemas antifraude heredados no pueden completar una solicitud cuando falta el «accountId».",
                 "pt": "O sistema antissuperfícies antigo não consegue concluir uma solicitação quando o accountId está faltando."
@@ -62969,21 +62848,6 @@
                 "en": "giftcard-hub-timeout-returned-as-401-unauthorized",
                 "es": "el-tiempo-de-espera-de-giftcard-hub-ha-devuelto-el-codigo-de-error-401-no-autorizado",
                 "pt": "o-tempo-limite-do-giftcard-hub-resultou-no-codigo-de-erro-401-nao-autorizado"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Giftcard not getting refund after transaction cancellation",
-                "es": "No se reembolsa la tarjeta regalo tras la cancelación de la transacción",
-                "pt": "O vale-presente não está sendo reembolsado após o cancelamento da transação"
-              },
-              "slug": {
-                "en": "giftcard-not-getting-refund-after-transaction-cancellation",
-                "es": "no-se-reembolsa-la-tarjeta-regalo-tras-la-cancelacion-de-la-transaccion",
-                "pt": "o-valepresente-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao"
               },
               "origin": "",
               "type": "markdown",
@@ -63366,6 +63230,21 @@
             },
             {
               "name": {
+                "en": "Gift card orders stuck after invoicing (provider transaction ID missing at authorization)",
+                "es": "Los pedidos de tarjetas de regalo se quedan bloqueados después de la facturación (falta el ID de transacción del proveedor en la autorización).",
+                "pt": "Pedidos de vale-presente ficam retidos após a emissão da fatura (ID da transação do fornecedor ausente na autorização)."
+              },
+              "slug": {
+                "en": "gift-card-orders-stuck-after-invoicing-provider-transaction-id-missing-at-authorization",
+                "es": "los-pedidos-de-tarjetas-de-regalo-se-quedan-bloqueados-despues-de-la-facturacion-falta-el-id-de-transaccion-del-proveedor-en-la-autorizacion",
+                "pt": "pedidos-de-valepresente-ficam-retidos-apos-a-emissao-da-fatura-id-da-transacao-do-fornecedor-ausente-na-autorizacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Orders placed with Gift Card generate Transactions with Brazilian currency (R$)",
                 "es": "Los pedidos realizados con Tarjeta Regalo generan Transacciones con moneda brasileña (R$)",
                 "pt": "Pedidos feitos com Gift Card geram transações em moeda brasileira (R$)"
@@ -63614,6 +63493,21 @@
                 "en": "competing-authorization-rules-generated-when-receiving-a-delaytocancel-value",
                 "es": "reglas-de-autorizacion-competidoras-generadas-al-recibir-un-valor-delaytocancel",
                 "pt": "regras-de-autorizacao-concorrentes-geradas-ao-receber-um-valor-delaytocancel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CSP Report-Only console errors in io.vtexpayments.com.br payment iframes (invalid header syntax and io2.vtex.com not allowed)",
+                "es": "Errores de consola de solo informe de CSP en iframes de pago de io.vtexpayments.com.br (sintaxis de encabezado no válida e io2.vtex.com no permitido).",
+                "pt": "Relatório CSP - Apenas erros no console em iframes de pagamento io.vtexpayments.com.br (sintaxe de cabeçalho inválida e io2.vtex.com não permitido)"
+              },
+              "slug": {
+                "en": "csp-reportonly-console-errors-in-iovtexpaymentscombr-payment-iframes-invalid-header-syntax-and-io2vtexcom-not-allowed",
+                "es": "errores-de-consola-de-solo-informe-de-csp-en-iframes-de-pago-de-iovtexpaymentscombr-sintaxis-de-encabezado-no-valida-e-io2vtexcom-no-permitido",
+                "pt": "relatorio-csp-apenas-erros-no-console-em-iframes-de-pagamento-iovtexpaymentscombr-sintaxe-de-cabecalho-invalida-e-io2vtexcom-nao-permitido"
               },
               "origin": "",
               "type": "markdown",
@@ -70664,6 +70558,21 @@
                 "en": "audit-csv-export-fails-for-large-result-sets-while-the-ui-reports-success",
                 "es": "la-exportacion-de-auditoria-csv-falla-para-conjuntos-de-resultados-grandes-aunque-la-interfaz-de-usuario-informa-que-se-realizo-correctamente",
                 "pt": "a-exportacao-de-csv-para-auditoria-falha-para-conjuntos-de-resultados-grandes-embora-a-interface-do-usuario-relate-sucesso"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Divergence in the number of used permissions in the Security Monitor",
+                "es": "Divergencia en el número de permisos utilizados en el Monitor de seguridad",
+                "pt": "Divergência no número de permissões utilizadas no Monitor de Segurança"
+              },
+              "slug": {
+                "en": "divergence-in-the-number-of-used-permissions-in-the-security-monitor",
+                "es": "divergencia-en-el-numero-de-permisos-utilizados-en-el-monitor-de-seguridad",
+                "pt": "divergencia-no-numero-de-permissoes-utilizadas-no-monitor-de-seguranca"
               },
               "origin": "",
               "type": "markdown",
