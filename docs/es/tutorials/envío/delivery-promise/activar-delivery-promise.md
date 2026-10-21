@@ -55,7 +55,7 @@ Completa las siguientes secciones:
 
 Este paso es opcional para activar Delivery Promise. Sin embargo, para mostrar filtros de plazo de envío en la tienda, debes configurar las Opciones de envío.
 
-Delivery Promise usa las [Opciones de envío](https://help.vtex.com/es/docs/tutorials/opciones-de-envio-beta) registradas en tu cuenta para armar los filtros que se muestran a los clientes. En este paso, revisa y activa las sugerencias:
+Delivery Promise usa las [Opciones de envío](https://help.vtex.com/es/docs/tutorials/opciones-de-envio) registradas en tu cuenta para armar los filtros que se muestran a los clientes. En este paso, revisa y activa las sugerencias:
 
 1. Haz clic en `Ir a Opciones de envío`.
 2. En la pantalla de preferencias de Opciones de envío, elige qué opciones deben aparecer como filtro en la tienda (hasta tres) y define el orden de visualización. La primera opción de la lista se destaca más cuando el filtro se activa en el storefront.
@@ -143,4 +143,4 @@ Si tu cuenta no cumple los requisitos de Delivery Promise, la página muestra el
 
 * [Delivery Promise](https://help.vtex.com/es/docs/tutorials/delivery-promise)
 * [Delivery Promise: preguntas frecuentes](https://help.vtex.com/es/docs/tutorials/delivery-promise-faq)
-* [Opciones de envío (beta)](https://help.vtex.com/es/docs/tutorials/opciones-de-envio-beta)
+* [Opciones de envío](https://help.vtex.com/es/docs/tutorials/opciones-de-envio)

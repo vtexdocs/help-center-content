@@ -12,7 +12,7 @@ tags:
   - Logística
 ---
 
-[Delivery Promise](/es/docs/tutorials/delivery-promise) ya está disponible para todos los retailers que usan [Intelligent Search](/es/docs/tutorials/intelligent-search-vision-general). Con esta funcionalidad, durante la navegación el cliente ve solo los productos que puede comprar, según el stock disponible y las [Opciones de envío](/es/docs/tutorials/opciones-de-envio-beta) válidas para su dirección.
+[Delivery Promise](/es/docs/tutorials/delivery-promise) ya está disponible para todos los retailers que usan [Intelligent Search](/es/docs/tutorials/intelligent-search-vision-general). Con esta funcionalidad, durante la navegación el cliente ve solo los productos que puede comprar, según el stock disponible y las [Opciones de envío](/es/docs/tutorials/opciones-de-envio) válidas para su dirección.
 
 La activación, que antes dependía de una solicitud a Soporte, ahora se hace directamente en el Admin VTEX, en un flujo guiado.
 

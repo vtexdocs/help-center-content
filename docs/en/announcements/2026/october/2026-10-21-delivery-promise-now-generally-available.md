@@ -12,7 +12,7 @@ tags:
   - Logistics
 ---
 
-[Delivery Promise](/en/docs/tutorials/delivery-promise) is now available to all merchants that use [Intelligent Search](/en/docs/tutorials/intelligent-search-overview). With this feature, while browsing, the customer sees only the products they can buy, based on available inventory and the [delivery options](/en/docs/tutorials/delivery-options-beta) that are valid for their address.
+[Delivery Promise](/en/docs/tutorials/delivery-promise) is now available to all merchants that use [Intelligent Search](/en/docs/tutorials/intelligent-search-overview). With this feature, while browsing, the customer sees only the products they can buy, based on available inventory and the [delivery options](/en/docs/tutorials/delivery-options) that are valid for their address.
 
 Activation, which previously required a request to Support, is now done directly in the VTEX Admin, in a guided flow.
 

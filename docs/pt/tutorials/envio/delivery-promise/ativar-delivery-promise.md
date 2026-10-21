@@ -143,4 +143,4 @@ Se a sua conta não atender aos requisitos do Delivery Promise, a página exibe 
 
 * [Delivery Promise](https://help.vtex.com/pt/docs/tutorials/delivery-promise)
 * [Delivery Promise: FAQ](https://help.vtex.com/pt/docs/tutorials/delivery-promise-faq)
-* [Opções de Envio (Beta)](https://help.vtex.com/pt/docs/tutorials/opcoes-de-envio)
+* [Opções de envio](https://help.vtex.com/pt/docs/tutorials/opcoes-de-envio)

@@ -55,7 +55,7 @@ Complete the following sections:
 
 This step is optional for activating Delivery Promise. However, to display shipping time filters in the store, you need to configure the delivery option.
 
-Delivery Promise uses the [delivery option](https://help.vtex.com/en/docs/tutorials/delivery-options-beta) registered in your account to build the filters displayed to customers. In this step, review and activate the suggestions:
+Delivery Promise uses the [delivery option](https://help.vtex.com/en/docs/tutorials/delivery-options) registered in your account to build the filters displayed to customers. In this step, review and activate the suggestions:
 
 1. Click `Go to Delivery option`.
 2. On the delivery option preferences page, choose which options should appear as a filter in the store (up to three) and set the display order. The first option in the list gets more prominence when the filter is activated on the storefront.
@@ -143,4 +143,4 @@ If your account doesn't meet the Delivery Promise requirements, the page display
 
 * [Delivery Promise](https://help.vtex.com/en/docs/tutorials/delivery-promise)
 * [Delivery Promise: FAQ](https://help.vtex.com/en/docs/tutorials/delivery-promise-faq)
-* [Delivery option (Beta)](https://help.vtex.com/en/docs/tutorials/delivery-options-beta)
+* [Delivery Options](https://help.vtex.com/en/docs/tutorials/delivery-options)
