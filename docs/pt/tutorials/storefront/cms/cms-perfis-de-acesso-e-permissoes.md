@@ -4,7 +4,7 @@ createdAt: "2026-07-08T10:00:00.219Z"
 updatedAt: "2026-08-13T10:00:00.219Z"
 contentType: tutorial
 productTeam: CMS
-slugEN: roles-and-permissions
+slugEN: cms-roles-and-permissions
 locale: pt
 ---
 

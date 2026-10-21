@@ -25,7 +25,7 @@ Before you start, make sure you have:
 | Requirement | Description |
 | ----------- | ----------- |
 | A schema published by a developer | Without it, there are no fields to edit. Developers can find the setup steps in the Developer Portal guide [Getting started with CMS](https://developers.vtex.com/docs/guides/getting-started-with-cms). |
-| The right role | The CMS has three roles: Content Producer, Content Editor, and Content Administrator. See [CMS roles and permissions](/en/docs/tutorials/roles-and-permissions). |
+| The right role | The CMS has three roles: Content Producer, Content Editor, and Content Administrator. See [CMS roles and permissions](/en/docs/tutorials/cms-roles-and-permissions). |
 | A configured store with a Preview URL | A store links your storefront to the CMS and holds its settings, including the locales and the Preview URL used to preview entries and branches before publishing. See [Configuring stores](/en/docs/tutorials/cms-configuring-stores). |
 
 After completing these requirements, follow these steps to start working with the CMS:
