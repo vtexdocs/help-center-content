@@ -4,7 +4,7 @@ createdAt: 2026-09-30T00:00:00.000Z
 updatedAt: 2026-10-21T00:00:00.000Z
 contentType: tutorial
 productTeam: Shopping
-slugEN: planning-the-vtex-sales-app-implementation
+slugEN: planning-vtex-sales-app-implementation
 locale: pt
 ---
 
@@ -111,7 +111,7 @@ Com essas definições, cadastre as [lojas físicas](/pt/docs/tracks/gerenciar-l
 Você pode habilitar ou desabilitar algumas ações dos vendedores no app. Cada configuração tem uma forma de ativação própria. As principais são:
 
 - Aplicar preço manual.
-- Forçar estoque local.
+- [Forçar estoque local](https://developers.vtex.com/docs/guides/force-stock-availability).
 - Cancelar pedido.
 - Visualizar a própria performance de vendas.
 - Visualizar a performance de vendas dos demais vendedores.
