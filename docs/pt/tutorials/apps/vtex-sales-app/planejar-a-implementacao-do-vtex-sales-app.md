@@ -12,12 +12,14 @@ O sucesso de uma operação com o **VTEX Sales App** depende de decisões de neg
 
 Antes de iniciar a implementação, passe por estas quatro etapas:
 
-- **Definir os casos de uso do Sales App:** principais situações em que o **Sales App** será utilizado.
-- **Definir a arquitetura técnica:** quais estratégias [omnichannel](/pt/docs/tracks/comercio-unificado-101) serão adotadas e o que cada uma exige, como [contas franquia](/pt/docs/tutorials/o-que-e-conta-franquia), pontos de retirada, estoques e integração com o ERP.
-- **Definir a operação de vendas:** como os vendedores vão acessar e usar o **Sales App**, quais ações poderão realizar e como as vendas serão acompanhadas. Um ponto importante é o modelo de comissionamento. Em operações omnichannel, o engajamento da equipe depende de como será creditada a venda feita na loja e entregue pelo ecommerce.
-- **Definir as configurações de pagamento:** quais métodos de pagamento serão aceitos, como link de pagamento, Pix, cartão e dinheiro. Alguns métodos exigem a contratação e homologação de provedores e adquirentes específicos para a operação física.
+| Etapa | O que definir |
+| --- | --- |
+| [Definir os casos de uso do Sales App](#definir-os-casos-de-uso-do-sales-app) | Principais situações em que o **Sales App** será utilizado. |
+| [Definir a arquitetura técnica](#definir-a-arquitetura-tecnica) | Quais estratégias [omnichannel](/pt/docs/tracks/comercio-unificado-101) serão adotadas e o que cada uma exige, como [contas franquia](/pt/docs/tutorials/o-que-e-conta-franquia), pontos de retirada, estoques e integração com o ERP. |
+| [Definir a operação de vendas](#definir-a-operacao-de-vendas) | Como os vendedores vão acessar e usar o **Sales App**, quais ações poderão realizar e como as vendas serão acompanhadas. Um ponto importante é o modelo de comissionamento. Em operações omnichannel, o engajamento da equipe depende de como será creditada a venda feita na loja e entregue pelo ecommerce. |
+| [Definir as configurações de pagamento](#definir-as-configuracoes-de-pagamento) | Quais métodos de pagamento serão aceitos, como link de pagamento, Pix, cartão e dinheiro. Alguns métodos exigem a contratação e homologação de provedores e adquirentes específicos para a operação física. |
 
-> ℹ️ Se a arquitetura da sua conta for complexa ou exigir recursos customizados, considere contratar o time de Professional Services da VTEX para obter mais eficiência e segurança na implementação.
+> ℹ️ Se a arquitetura da sua conta for complexa ou exigir recursos customizados, considere contratar o time de Professional Services da VTEX para obter mais eficiência e segurança na implementação. Para isso, abra um chamado para o [nosso suporte comercial](https://help.vtex.com/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex#suporte-financeiro-e-comercial).
 
 ## Definir os casos de uso do Sales App
 
