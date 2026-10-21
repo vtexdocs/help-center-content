@@ -27,7 +27,7 @@ Os casos de uso mais frequentes do **Sales App** são:
 - **Consulta de estoque e venda com mobilidade:** o app é a primeira opção dos vendedores para consultar o estoque local e remoto e fechar vendas em qualquer ponto da loja.
 - **Ferramenta única da loja física:** o app substitui o ponto de venda (PDV) tradicional em todas as vendas da loja.
 - **Atendimento remoto:** os vendedores usam o app para fechar vendas assistidas por canais digitais.
-- **Eventos e pop-up stores:** o app pode ser levado para onde o cliente estiver, como feiras ou quiosques temporários.
+- **Eventos e pop-up stores:** o app pode ser levado para onde o cliente estiver, como em feiras ou quiosques temporários.
 
 > ℹ️ Se você tem um caso de uso específico ou quer ampliar suas vendas assistidas, abra um ticket para o [Suporte VTEX](https://help.vtex.com/support). Nossa equipe ajudará você a entender como o **Sales App** pode atender ao seu negócio.
 
