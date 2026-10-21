@@ -22,11 +22,13 @@ Every piece of content a shopper sees starts with a developer, who defines what 
 
 Before you start, make sure you have:
 
-* **A schema published by a developer.** Without it, there are no fields to edit. Developers can find the setup steps in the Developer Portal guide [Getting started with CMS](https://developers.vtex.com/docs/guides/getting-started-with-cms).
-* **The right role.** The CMS has three roles: Content Producer, Content Editor, and Content Administrator. See [CMS roles and permissions](/en/docs/tutorials/roles-and-permissions).
-* **A configured store with a Preview URL.** See [Configuring stores](/en/docs/tutorials/cms-configuring-stores).
+| Requirement | Description |
+| ----------- | ----------- |
+| A schema published by a developer | Without it, there are no fields to edit. Developers can find the setup steps in the Developer Portal guide [Getting started with CMS](https://developers.vtex.com/docs/guides/getting-started-with-cms). |
+| The right role | The CMS has three roles: Content Producer, Content Editor, and Content Administrator. See [CMS roles and permissions](/en/docs/tutorials/roles-and-permissions). |
+| A configured store with a Preview URL | A store links your storefront to the CMS and holds its settings, including the locales and the Preview URL used to preview entries and branches before publishing. See [Configuring stores](/en/docs/tutorials/cms-configuring-stores). |
 
-Then follow these steps the first time you use the CMS:
+After completing these requirements, follow these steps to start working with the CMS:
 
 1. **Configure your store.** Define the store name, the Preview URL, and the locales. Learn more in [Configuring stores](/en/docs/tutorials/cms-configuring-stores).
 2. **Create a branch and edit content.** Work in an isolated branch, preview your changes, and merge them into `main` now or on a scheduled date. Learn more in [Versions and branches](/en/docs/tutorials/managing-versions-and-branches) and [Collaboration workflows](/en/docs/tutorials/collaboration-workflows).
