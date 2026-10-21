@@ -2,7 +2,7 @@
 title: 'Planejar a implementação do VTEX Sales App'
 status: PUBLISHED
 createdAt: 2026-09-30T00:00:00.000Z
-updatedAt: 2026-09-30T00:00:00.000Z
+updatedAt: 2026-10-21T00:00:00.000Z
 contentType: tutorial
 productTeam: Shopping
 slugEN: planning-the-vtex-sales-app-implementation
@@ -76,8 +76,8 @@ Com a [retirada em loja](/pt/docs/tracks/configurar-lojas-fisicas-como-pontos-de
 
 #### Configuração da retirada em loja
 
-- **Arquitetura de conta franquia:** cada loja que funcionar como ponto de retirada precisa ser uma [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia).
-- **Configuração logística:** na conta franquia, cadastre o ponto de retirada, associe-o a uma política de envio e conecte-o ao estoque da loja ativando a opção **Estoque Sales App**.
+- **Arquitetura de conta franquia:** recomendamos que cada loja funcionando como ponto de retirada seja uma [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia).
+- **Configuração logística:** crie um [ponto de retirada](https://help.vtex.com/pt/docs/tutorials/cadastro-de-pontos-de-retirada) e associe-o ao estoque da loja seguindo os passos descritos no artigo [Lojas físicas como pontos de retirada](https://help.vtex.com/pt/docs/tracks/configurar-lojas-fisicas-como-pontos-de-retirada). Além disso, é necessário associar o ponto de retirada a uma [política de envio](https://help.vtex.com/pt/docs/tutorials/politica-de-envio).
 
 ### Venda do estoque local e carrinhos mistos
 
@@ -93,13 +93,13 @@ A [venda do estoque local](/pt/docs/tutorials/habilitar-venda-de-estoque-local-d
 - **Faturamento:** integre o sistema de faturamento ao de nota fiscal (NFC-e/SAT) via PDV ou ERP para permitir a saída imediata do produto.
 - **Conciliação:** ajuste o sistema e a operação de conciliação para garantir o fluxo correto de faturamento, de acordo com as definições da sua área financeira.
 
-> ℹ️ Para usar a retirada em loja e os carrinhos mistos, recomendamos ativar o **Checkout v6**. Essa versão do checkout permite que o cliente escolha um ponto de retirada e divida um mesmo pedido entre itens entregues em casa e itens retirados na loja. Para mais informações, leia o artigo [Como ativar o Checkout v6](/pt/docs/tutorials/ativar-o-checkout-v6).
+> ℹ️ Para usar a retirada em loja e os carrinhos mistos, é necessário ativar o **Checkout v6**. Essa versão do checkout permite que o cliente escolha um ponto de retirada e divida um mesmo pedido entre itens entregues em casa e itens retirados na loja. Para mais informações, leia o artigo [Como ativar o Checkout v6](/pt/docs/tutorials/ativar-o-checkout-v6).
 
 ### Preços nas lojas físicas
 
 Independentemente da estratégia escolhida, recomendamos que as lojas físicas herdem os preços do ecommerce. Se sua operação precisar de preços diferenciados por loja, considere os seguintes pontos:
 
-- **Regionalização do catálogo:** é necessário envolver uma agência parceira para regionalizar o catálogo.
+- **Regionalização de sellers:** configure a [regionalização de sellers](/pt/docs/tutorials/configurar-a-regionalizacao-de-sellers) para que a vitrine do ecommerce exiba o preço da conta franquia que atende a região do cliente. Sem essa configuração, o preço exibido na navegação pode ser diferente do preço no checkout.
 - **Comparadores de preço:** podem ser impactados, pois recebem apenas um valor por produto.
 - **Marketplaces:** as vendas podem ser impactadas pelo mesmo motivo, já que os marketplaces também recebem apenas um valor por produto.
 
