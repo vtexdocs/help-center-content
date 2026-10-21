@@ -92,7 +92,7 @@ O Live Desk oferece um painel completo de emojis, que ajudam a transmitir o tom 
 
 ### Inserir quebra de texto
 
-Para auxiliar na organização visual da mensagem, você pode inserir quebra de linhas pressionando `Shift + Enter`.
+Para auxiliar na organização visual da mensagem, você pode inserir quebras de linha pressionando `Shift + Enter`.
 
 ### Configurar assinatura ativa
 
@@ -130,7 +130,7 @@ O Live Desk oferece notificações via navegador como alternativa ao alerta sono
 
 O acompanhamento do atendimento humano é feito no dashboard do módulo **Analytics**, dividido em duas abas:
 
-- **Monitoramento:** dados em tempo real dos atendimentos em andamento, como status, tempos médios, volume por fila e tag, e CSAT.
+- **Monitoramento:** dados em tempo real dos atendimentos em andamento, como status, tempo médio, volume por fila e tag, e CSAT.
 - **Análise:** dados históricos dos atendimentos finalizados no período selecionado.
 
 Você pode filtrar os dados por setor, fila, atendente, tag e período, além de exportá-los com o botão `Exportar dados`.
