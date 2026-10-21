@@ -1,5 +1,5 @@
 ---
-title: 'Delivery Options (Beta)'
+title: 'Delivery Options'
 id: 1fRDJFcHCtpTnk7GNyaRDY
 status: PUBLISHED
 createdAt: 2025-08-22T17:00:47.486Z
@@ -9,15 +9,15 @@ firstPublishedAt: 2025-08-22T20:33:50.257Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slugEN: delivery-options-beta
+slugEN: delivery-options
 legacySlug: opcoes-de-envio-beta
 locale: en
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-> ℹ️ This feature is in beta, which means we're working on improving it. If you have any questions, contact [our Support team](https://supporticket.vtex.com/support).
-
 **Delivery Options** is a page in the VTEX Admin that allows you to configure flexible and accurate delivery options during the buying journey, such as defining different types of delivery availability and geographic zones and controlling how and when these options are displayed to the customer.
+
+> ℹ️ Delivery Options must be used together with [Delivery Promise](/en/docs/tutorials/delivery-promise): the delivery options you configure are displayed as shipping filters in the store search, so customers only see the products they can receive with the delivery method and time frame they choose. You activate Delivery Options in the [Delivery Promise activation flow](/en/docs/tutorials/activate-delivery-promise) in the VTEX Admin, in the **(Optional) Step 2: Reviewing delivery option** step.
 
 This gives merchants autonomy to create, configure, and manage delivery options as strategic content on the VTEX platform. This approach provides more flexibility to align logistical capabilities with business objectives, enhancing the shopping experience for customers.
 
@@ -25,7 +25,7 @@ Delivery Options use the [shipping policies](/en/docs/tutorials/shipping-policy)
 
 Shipping policies are associated with a delivery option when they meet both the defined delivery promise and the configured delivery zones. If no shipping policy meets the configured criteria, or if the shipping policies haven't been properly configured, see the article [Creating a shipping policy](/en/docs/tutorials/creating-a-shipping-policy).
 
-![delivery-options-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/delivery-options-beta_1.png)
+![delivery-options-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/delivery-options_1.png)
 
 The page displays the following information in a table:
 
@@ -43,7 +43,7 @@ To create a delivery option, follow the steps below:
 1. In the VTEX Admin, go to **Shipping > Delivery Options**, or type **Delivery Options** in the search bar at the top of the page.
 2. Click `Create delivery option`.
 3. Complete the fields in the form:
-   ![delivery-options-form-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/delivery-options-beta_2.png)
+   ![delivery-options-form-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/delivery-options_2.png)
 
    ### Basic information
 
@@ -63,9 +63,13 @@ To create a delivery option, follow the steps below:
 
    - **Delivery zones**: Click the `+ Add zones` button, then select the zones you want to cover with the delivery option. You can search for a delivery zone using the search bar. Click `Save` to close the window.
 
-   ### Delivery pricing
+   ### Delivery pricing (optional)
 
-   - **Pricing**: Pricing conditions of the delivery option. The pricing models applied to each segmentation are: **Fixed amount**, a single price applied to all carts; **Markup**, a profit percentage added to the shipping amount; and **Cost pass-through**, where the store bears the cost of the delivery option. You can combine pricing options. The pricing conditions are defined based on the following segmentations:
+   Assigning pricing to a delivery option is optional. With delivery pricing, the shipping options displayed at checkout use the same names as your delivery options, and you can associate a price with each one. This keeps the experience consistent throughout the shopping journey: on the product listing page (PLP), product details page (PDP), and checkout, customers see the same delivery option names they used to filter products. Delivery pricing rules are simpler and less granular than [shipping policy](/en/docs/tutorials/shipping-policy) rules, and they exist to keep this consistency.
+
+   We recommend activating and using delivery options as filters in the store first, and only then considering assigning pricing. If you don't want to assign pricing to a delivery option, select **Cost pass-through**, which is the recommended option.
+
+   - **Pricing**: Pricing conditions of the delivery option. The pricing models applied to each segmentation are: **Fixed amount**, a single price applied to all carts; **Markup**, a profit percentage added to the shipping amount; and **Cost pass-through**, where the shipping price is the one calculated by the shipping policies, without changes. You can combine pricing options. The pricing conditions are defined based on the following segmentations:
      - **All carts**: The price will be applied to all carts created in the store.
      - **Sales channels**: The price will be applied to a specific sales channel.
      - **Cart amount**: The price will be applied if the cart total exceeds a certain amount.
@@ -74,7 +78,7 @@ To create a delivery option, follow the steps below:
 
 The delivery option will then be active and available to customers:
 
-![delivery-options-en-example](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/delivery-options-beta_4.png)
+![delivery-options-en-example](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/delivery-options_4.png)
 
 ## Editing delivery options
 

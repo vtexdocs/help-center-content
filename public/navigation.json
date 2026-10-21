@@ -23282,6 +23282,21 @@
               "origin": "",
               "type": "markdown",
               "children": []
+            },
+            {
+              "name": {
+                "en": "Delivery Options",
+                "es": "Opciones de envío",
+                "pt": "Opções de envio"
+              },
+              "slug": {
+                "en": "delivery-options",
+                "es": "opciones-de-envio",
+                "pt": "opcoes-de-envio"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -36284,21 +36299,6 @@
                     "en": "delivery-promise-faq",
                     "es": "delivery-promise-faq",
                     "pt": "delivery-promise-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Delivery Options (Beta)",
-                    "es": "Opciones de envío (beta)",
-                    "pt": "Opções de envio (Beta)"
-                  },
-                  "slug": {
-                    "en": "delivery-options-beta",
-                    "es": "opciones-de-envio-beta",
-                    "pt": "opcoes-de-envio-beta"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -62510,12 +62510,12 @@
             },
             {
               "name": {
-                "en": "Gift Card HUB accepts Invalid/Empty ID in response to create transaction",
+                "en": "Gift Card HUB acepta un identificador no válido o vacío al intentar crear una transacción",
                 "es": "Gift Card HUB acepta un identificador no válido o vacío al intentar crear una transacción",
                 "pt": "O Gift Card HUB aceita um ID inválido/vazio ao criar uma transação"
               },
               "slug": {
-                "en": "gift-card-hub-accepts-invalidempty-id-in-response-to-create-transaction",
+                "en": "",
                 "es": "gift-card-hub-acepta-un-identificador-no-valido-o-vacio-al-intentar-crear-una-transaccion",
                 "pt": "o-gift-card-hub-aceita-um-id-invalidovazio-ao-criar-uma-transacao"
               },
@@ -63223,6 +63223,21 @@
                 "en": "orders-created-with-empty-userprofileid",
                 "es": "pedidos-creados-con-userprofileid-vacio",
                 "pt": "pedidos-criados-com-userprofileid-vazio"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Gift card orders stuck after invoicing (provider transaction ID missing at authorization)",
+                "es": "Los pedidos de tarjetas de regalo se quedan bloqueados después de la facturación (falta el ID de transacción del proveedor en la autorización).",
+                "pt": "Pedidos de vale-presente ficam retidos após a emissão da fatura (ID da transação do fornecedor ausente na autorização)."
+              },
+              "slug": {
+                "en": "gift-card-orders-stuck-after-invoicing-provider-transaction-id-missing-at-authorization",
+                "es": "los-pedidos-de-tarjetas-de-regalo-se-quedan-bloqueados-despues-de-la-facturacion-falta-el-id-de-transaccion-del-proveedor-en-la-autorizacion",
+                "pt": "pedidos-de-valepresente-ficam-retidos-apos-a-emissao-da-fatura-id-da-transacao-do-fornecedor-ausente-na-autorizacao"
               },
               "origin": "",
               "type": "markdown",

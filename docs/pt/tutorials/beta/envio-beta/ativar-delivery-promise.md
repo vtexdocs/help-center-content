@@ -55,7 +55,7 @@ Preencha as seções a seguir:
 
 Esta etapa é opcional para ativar o Delivery Promise. No entanto, para exibir filtros de prazo de envio na loja, você precisa configurar as Opções de Envio.
 
-O Delivery Promise usa as [Opções de Envio](https://help.vtex.com/pt/docs/tutorials/opcoes-de-envio-beta) cadastradas na sua conta para montar os filtros exibidos aos compradores. Nesta etapa, revise e ative as sugestões:
+O Delivery Promise usa as [Opções de Envio](https://help.vtex.com/pt/docs/tutorials/opcoes-de-envio) cadastradas na sua conta para montar os filtros exibidos aos compradores. Nesta etapa, revise e ative as sugestões:
 
 1. Clique em `Acessar Opções de Envio`.
 2. Na tela de preferências das Opções de Envio, escolha quais opções devem aparecer como filtro na loja (até três) e defina a ordem de exibição. A primeira opção da lista recebe mais destaque quando o filtro for ativado na frente de loja.
@@ -143,4 +143,4 @@ Se a sua conta não atender aos requisitos do Delivery Promise, a página exibe 
 
 * [Delivery Promise (Beta)](https://help.vtex.com/pt/docs/tutorials/delivery-promise-beta)
 * [Delivery Promise: FAQ](https://help.vtex.com/pt/docs/tutorials/delivery-promise-faq)
-* [Opções de Envio (Beta)](https://help.vtex.com/pt/docs/tutorials/opcoes-de-envio-beta)
+* [Opções de Envio (Beta)](https://help.vtex.com/pt/docs/tutorials/opcoes-de-envio)
