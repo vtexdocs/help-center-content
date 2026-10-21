@@ -10,13 +10,11 @@ trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 3
 ---
 
-Antes de instalar o **VTEX Sales App**, defina quais estratégias [omnichannel](/pt/docs/tracks/comercio-unificado-101) sua operação vai adotar. Essa decisão determina as configurações que sua conta precisa ter antes de seguir para as próximas etapas desta trilha, como [contas franquia](/pt/docs/tutorials/o-que-e-conta-franquia), [pontos de retirada](/pt/docs/tutorials/pontos-de-retirada) e integração com o ERP.
-
-A seção a seguir explica o que é cada estratégia. As configurações necessárias estão no artigo [Planejar a implementação do VTEX Sales App](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app).
+Antes de instalar o **VTEX Sales App**, defina quais estratégias [omnichannel](/pt/docs/tracks/comercio-unificado-101) sua operação vai adotar. Essa escolha define o que a conta precisa ter antes das próximas etapas desta trilha, como [contas franquia](/pt/docs/tutorials/o-que-e-conta-franquia), [pontos de retirada](/pt/docs/tutorials/pontos-de-retirada) e integração com o ERP. O que configurar em cada estratégia está no artigo [Planejar a implementação do VTEX Sales App](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app).
 
 ## Definir a arquitetura técnica
 
-A arquitetura técnica depende das estratégias que sua operação vai adotar, apresentadas a seguir:
+A arquitetura da conta depende das estratégias adotadas:
 
 - **[Prateleira Infinita](/pt/docs/tracks/prateleira-infinita):** o cliente acessa todo o seu inventário, integrado entre os canais de venda. Ou seja, um cliente que está em uma loja física pode comprar um produto do estoque de outras lojas físicas ou do ecommerce, e a entrega pode ser feita a partir de qualquer um desses estoques. Saiba mais em [Configuração da Prateleira Infinita](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app#configuracao-da-prateleira-infinita).
 - **[Ship from Store](/pt/docs/tracks/configurar-ship-from-store):** o cliente recebe em casa pedidos com produtos que saem do estoque de uma loja física, de forma que a loja funciona como um centro de distribuição. Saiba mais em [Configuração do Ship from Store](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app#configuracao-do-ship-from-store).
@@ -27,10 +25,10 @@ A arquitetura técnica depende das estratégias que sua operação vai adotar, a
 
 Se a estratégia escolhida exigir contas franquia, crie ao menos uma dessas contas antes de seguir com a instalação do **Sales App** e os testes iniciais. É necessário criar todas as contas antes do go-live e da configuração de inventário e dos times das lojas. Para criar contas franquia, abra um ticket para o [Suporte VTEX](https://help.vtex.com/support).
 
-Cada conta franquia representa uma loja física e tem um Admin VTEX próprio, com configurações de logística independentes, mas herda o catálogo da conta principal. O **Sales App** é instalado apenas na conta principal e busca nas contas franquia as informações de estoque e entrega de cada loja.
+Cada conta franquia representa uma loja física, tem um Admin VTEX próprio e logística independente, e herda o catálogo da conta principal. O **Sales App** é instalado apenas na conta principal e busca nas contas franquia as informações de estoque e entrega de cada loja.
 
 > ⚠️ Cada conta franquia deve ter um CNPJ diferente para que o pagamento dos pedidos funcione corretamente.
 
 ## Extensibilidade no VTEX Sales App
 
-Para funcionalidades que o **Sales App** não oferece nativamente, como programas de fidelidade, serviços adicionais ou formulários customizados, avalie o uso do [VTEX Sales App Extensibility](/pt/docs/tutorials/vtex-sales-app-extensibility-pt). Com ele, seu time ou um parceiro pode desenvolver módulos em pontos estratégicos da jornada de vendas.
+Para funcionalidades que o **Sales App** não oferece nativamente, como programas de fidelidade, serviços adicionais ou formulários customizados, avalie o [VTEX Sales App Extensibility](/pt/docs/tutorials/vtex-sales-app-extensibility-pt). Com ele, seu time ou um parceiro desenvolve módulos em pontos da jornada de vendas.
