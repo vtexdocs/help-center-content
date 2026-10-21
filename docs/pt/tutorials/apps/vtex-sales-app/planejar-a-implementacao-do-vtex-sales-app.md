@@ -37,7 +37,7 @@ Para funcionalidades que o **Sales App** não oferece nativamente, como programa
 
 ## Definir a arquitetura técnica
 
-A arquitetura técnica depende das estratégias que sua operação vai adotar com o **Sales App**. As seções a seguir apresentam as principais estratégias, o que decidir em cada uma e as configurações necessárias. Se sua operação combinar mais de uma estratégia, atenda aos requisitos de todas elas.
+A arquitetura técnica depende das estratégias que sua operação adotará com o **Sales App**. As seções a seguir apresentam as principais estratégias, o que decidir em cada uma delas e as configurações necessárias. Se sua operação combinar mais de uma estratégia, atenda aos requisitos de todas elas.
 
 ### Prateleira Infinita
 
