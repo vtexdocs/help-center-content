@@ -12,20 +12,16 @@ order: 3
 
 Antes de instalar o **VTEX Sales App**, defina quais estratégias [omnichannel](/pt/docs/tracks/comercio-unificado-101) sua operação vai adotar. Essa decisão determina as configurações que sua conta precisa ter antes de seguir para as próximas etapas desta trilha, como [contas franquia](/pt/docs/tutorials/o-que-e-conta-franquia), [pontos de retirada](/pt/docs/tutorials/pontos-de-retirada) e integração com o ERP.
 
-Este artigo resume essas configurações. Para entender em detalhes cada estratégia e as demais decisões da implementação, leia o artigo [Planejar a implementação do VTEX Sales App](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app).
+A seção a seguir explica o que é cada estratégia. As configurações necessárias estão no artigo [Planejar a implementação do VTEX Sales App](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app).
 
-## Identificar as configurações de cada estratégia
+## Definir a arquitetura técnica
 
-Veja a seguir o que configurar na sua conta para cada estratégia:
+A arquitetura técnica depende das estratégias que sua operação vai adotar, apresentadas a seguir:
 
-- **[Prateleira Infinita](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app#prateleira-infinita):** use apenas a conta principal, sem configurações adicionais obrigatórias. Para vender a partir do estoque das lojas físicas, cadastre cada loja como um estoque na conta principal ou crie uma conta franquia para cada loja.
-- **[Ship from Store](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app#ship-from-store):** recomendamos criar uma conta franquia para cada loja que fará entregas, com política de envio e doca próprias. A integração com o ERP é necessária para manter o inventário da loja atualizado.
-- **[Retirada em loja](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app#retirada-em-loja):** crie uma conta franquia para cada loja que funcionará como ponto de retirada e, nessa conta, cadastre o ponto de retirada conectado ao estoque da loja. Recomendamos integrar o ERP para manter o inventário da loja atualizado.
-- **[Venda do estoque local e carrinhos mistos](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app#venda-do-estoque-local-e-carrinhos-mistos):** use a mesma base da retirada em loja e integre o ERP e o sistema fiscal para emitir a nota fiscal no momento da venda.
-
-> ℹ️ Para usar a retirada em loja e os carrinhos mistos, é necessario ativar o **Checkout v6**. Essa versão permite que o cliente escolha um ponto de retirada e divida um mesmo pedido entre itens entregues em casa e itens retirados na loja. Para mais informações, leia o artigo [Como ativar o Checkout v6](/pt/docs/tutorials/ativar-o-checkout-v6).
-
-Se sua operação combinar mais de uma estratégia, atenda aos requisitos de todas elas.
+- **[Prateleira Infinita](/pt/docs/tracks/prateleira-infinita):** o cliente acessa todo o seu inventário, integrado entre os canais de venda. Ou seja, um cliente que está em uma loja física pode comprar um produto do estoque de outras lojas físicas ou do ecommerce, e a entrega pode ser feita a partir de qualquer um desses estoques. Saiba mais em [Configuração da Prateleira Infinita](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app#configuracao-da-prateleira-infinita).
+- **[Ship from Store](/pt/docs/tracks/configurar-ship-from-store):** o cliente recebe em casa pedidos com produtos que saem do estoque de uma loja física, de forma que a loja funciona como um centro de distribuição. Saiba mais em [Configuração do Ship from Store](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app#configuracao-do-ship-from-store).
+- **[Retirada em loja](/pt/docs/tracks/configurar-lojas-fisicas-como-pontos-de-retirada):** as lojas físicas funcionam como pontos de retirada, o que permite ao vendedor realizar a venda em qualquer loja ou ecommerce, e garante que o cliente possa retirar o pedido na loja de sua preferência. Saiba mais em [Configuração da retirada em loja](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app#configuracao-da-retirada-em-loja).
+- **[Venda do estoque local e carrinhos mistos](/pt/docs/tutorials/habilitar-venda-de-estoque-local-do-vtex-sales-app):** o cliente leve o produto no momento da compra na loja física, ou seja, permite a venda do tipo "Levar agora" (On Hands). Essa estratégia pode ser combinada com carrinhos mistos, quando uma mesma venda contém itens que o cliente retira imediatamente e itens que serão entregues no seu endereço a partir de outro estoque. Saiba mais em [Configuração da venda do estoque local e carrinhos mistos](/pt/docs/tutorials/planejar-a-implementacao-do-vtex-sales-app#configuracao-da-venda-do-estoque-local-e-carrinhos-mistos).
 
 ## Criar contas franquia
 
@@ -34,3 +30,7 @@ Se a estratégia escolhida exigir contas franquia, crie ao menos uma dessas cont
 Cada conta franquia representa uma loja física e tem um Admin VTEX próprio, com configurações de logística independentes, mas herda o catálogo da conta principal. O **Sales App** é instalado apenas na conta principal e busca nas contas franquia as informações de estoque e entrega de cada loja.
 
 > ⚠️ Cada conta franquia deve ter um CNPJ diferente para que o pagamento dos pedidos funcione corretamente.
+
+## Extensibilidade no VTEX Sales App
+
+Para funcionalidades que o **Sales App** não oferece nativamente, como programas de fidelidade, serviços adicionais ou formulários customizados, avalie o uso do [VTEX Sales App Extensibility](/pt/docs/tutorials/vtex-sales-app-extensibility-pt). Com ele, seu time ou um parceiro pode desenvolver módulos em pontos estratégicos da jornada de vendas.
