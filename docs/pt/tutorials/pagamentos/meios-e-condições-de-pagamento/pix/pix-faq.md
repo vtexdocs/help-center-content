@@ -55,7 +55,7 @@ Sim. Ao [criar uma promoção regular](/pt/docs/tutorials/promocao-regular), use
 
 ### Posso aceitar Pix na loja física pelo VTEX Sales App?
 
-Sim, em lojas no Brasil. Além de configurar a condição de pagamento Pix, você precisa definir que o Pix seja exibido no aplicativo. Consulte o passo a passo em [Configurar Pix](/pt/docs/tracks/configurar-pix) no VTEX Sales App.
+Sim, em lojas no Brasil. Além de configurar a condição de pagamento via Pix, você precisa definir que o Pix seja exibido no aplicativo. Consulte o passo a passo em [Configurar Pix](/pt/docs/tracks/configurar-pix) no VTEX Sales App.
 
 ## Experiência do cliente
 
