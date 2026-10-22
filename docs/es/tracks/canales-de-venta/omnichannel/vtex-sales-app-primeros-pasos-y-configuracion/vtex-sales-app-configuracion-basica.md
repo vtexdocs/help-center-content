@@ -95,4 +95,16 @@ Para configurar el binding y garantizar que el catálogo de la tienda se muestre
 
 ## Configurar logística
 
-Para empezar a utilizar **VTEX Sales App**, también debes realizar las configuraciones logísticas según las estrategias que quieres aplicar. Para más información, lee las guías sobre [Comercio unificado](/es/docs/tracks/comercio-unificado-101) y [Logística](https://help.vtex.com/es/docs/tracks/logistica-primeros-pasos).
+Para empezar a utilizar **VTEX Sales App** también debes realizar las configuraciones logísticas según las estrategias que desees implementar.
+
+Si la tienda ofrece recogida en **VTEX Sales App**, activa la opción **Almacén VTEX Sales App** en cada almacén que funcionará como punto de recogida y selecciona los puntos de recogida vinculados a ese almacén.
+
+1. En el Admin VTEX, ve a **Envío > Estrategia de envío > Almacenes**, o ingresa **Estrategia de envío** en la barra de búsqueda de la parte superior de la página.
+2. Abre el almacén que deseas usar como punto de recogida.
+3. Activa la opción **Almacén de Sales App** utilizando el botón <i class="fas fa-toggle-on"></i>.
+4. Selecciona los puntos de recogida que van a utilizar este almacén.
+5. Haz clic en `Guardar cambios`.
+
+> ℹ️ Para que los puntos de recogida estén disponibles para selección es necesario registrarlos previamente. Más información en [Registro de puntos de recogida](/es/docs/tutorials/registro-de-puntos-de-recogida).
+
+Para las demás configuraciones logísticas consulta [Tiendas físicas como puntos de recogida](/es/docs/tracks/configurar-tiendas-fisicas-como-puntos-de-recogida), [Omnichannel](/es/docs/tracks/comercio-unificado-101) y [Logística](/es/docs/tracks/logistica-101).

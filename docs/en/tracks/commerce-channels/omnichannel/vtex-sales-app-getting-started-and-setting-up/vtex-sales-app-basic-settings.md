@@ -95,4 +95,16 @@ To configure the binding and ensure the store catalog is displayed in **VTEX Sal
 
 ## Configuring logistics
 
-To start using **VTEX Sales App**, you also need to configure the logistics settings based on the strategies you want to implement. For more information, see [Unified commerce](https://help.vtex.com/docs/tracks/unified-commerce-101) and [Logistics](https://help.vtex.com/docs/tracks/getting-started-with-logistics).
+To start using **VTEX Sales App**, you also need to configure logistics according to the strategies you want to implement.
+
+If the store offers pickup in **VTEX Sales App**, enable the **Sales App warehouse** option for each warehouse that will serve as a pickup point, and select the pickup points linked to that warehouse.
+
+1. In the VTEX Admin, go to **Shipping > Shipping Strategy > Warehouses**, or type **Shipping Strategy** in the search bar at the top of the page.
+2. Open the warehouse you want to use as a pickup point.
+3. Activate the **Sales App warehouse** toggle switch <i class="fas fa-toggle-on"></i>.
+4. Select the pickup points that will use this warehouse.
+5. Click `Save changes`.
+
+> ℹ️ Pickup points must be created before they can be selected. Learn more in [Creating pickup points](/en/docs/tutorials/creating-pickup-points).
+
+For other logistics settings, see [Physical stores as pickup points](/en/docs/tracks/configuring-physical-stores-as-pickup-points), [Unified Commerce](/en/docs/tracks/unified-commerce-101), and [Logistics](/en/docs/tracks/logistica-101).
