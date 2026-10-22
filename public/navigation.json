@@ -206,6 +206,37 @@
             },
             {
               "name": {
+                "en": "Outubro",
+                "es": "Outubro",
+                "pt": "Outubro"
+              },
+              "slug": {
+                "en": "outubro",
+                "es": "outubro",
+                "pt": "2026-outubro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Promissórias customizadas: limite ampliado de 20 para 100",
+                    "es": "Promissórias customizadas: limite ampliado de 20 para 100",
+                    "pt": "Promissórias customizadas: limite ampliado de 20 para 100"
+                  },
+                  "slug": {
+                    "en": "",
+                    "es": "",
+                    "pt": "2026-10-22-promissorias-customizadas-limite-ampliado-de-20-para-100"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "September",
                 "es": "Septiembre",
                 "pt": "Setembro"
