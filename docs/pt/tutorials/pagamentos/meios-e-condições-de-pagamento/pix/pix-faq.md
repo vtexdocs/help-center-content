@@ -51,7 +51,7 @@ Não. A VTEX não cobra nada a mais por pagamentos via Pix. O custo de processam
 
 ### Posso oferecer desconto para pagamentos via Pix?
 
-Sim. Ao [criar uma promoção regular](/pt/docs/tutorials/promocao-regular), use a condição __Meios de pagamento__ e selecione o Pix. A promoção só é aplicada quando o pedido usa um único meio de pagamento, portanto não vale para pedidos divididos entre Pix e vale-presente.
+Sim. Ao [criar uma promoção regular](/pt/docs/tutorials/promocao-regular), use a condição __Meios de pagamento__ e selecione o Pix. A promoção só se aplica quando o pedido usa um único meio de pagamento; portanto, não se aplica a pedidos divididos entre Pix e vale-presente.
 
 ### Posso aceitar Pix na loja física pelo VTEX Sales App?
 
