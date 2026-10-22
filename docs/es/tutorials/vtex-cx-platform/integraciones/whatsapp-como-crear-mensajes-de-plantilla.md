@@ -46,6 +46,6 @@ Si hay rechazos de mensajes y quieres resolver o cambiar la configuración de tu
 
 ## Obtén más información
 
-- [Política de WhatsApp Business](https://whatsappbusiness.com/es-la/policy/): políticas relacionadas con empresas.
-- [Política Comercial de WhatsApp](https://whatsappbusiness.com/es-la/policy/): políticas comerciales.
+- [Política de WhatsApp Business](https://whatsappbusiness.com/es-la/policy/): obtén más información sobre las políticas relacionadas con empresas.
+- [Política Comercial de WhatsApp](https://whatsappbusiness.com/es-la/policy/#politica-para-las-funciones-de-comercio-de-whatsapp-incluida-la-venta-de-productos-o-servicios): obtén más información sobre las políticas comerciales.
 - [Aplicación de las Políticas](https://developers.facebook.com/documentation/business-messaging/whatsapp/policy-enforcement/?locale=es_LA): aprende cómo Meta aplica estas políticas.
