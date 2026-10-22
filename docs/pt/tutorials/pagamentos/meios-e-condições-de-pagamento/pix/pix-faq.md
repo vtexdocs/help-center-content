@@ -81,7 +81,7 @@ Atualmente, na VTEX, só é possível dividir um pagamento entre Pix e [vale-pre
 
 ### Como funciona o reembolso de um pagamento via Pix?
 
-O reembolso de pagamentos via Pix depende do provedor de pagamentos. Se o provedor processa reembolsos de Pix automaticamente pela integração com a VTEX, o reembolso é concluído pela plataforma. Caso contrário, o provedor indica à VTEX que o reembolso deve ser feito manualmente, e você precisa concluí-lo diretamente com o provedor, fora da plataforma. Para saber mais sobre reembolsos totais e parciais, consulte [Reembolso de pagamentos](/pt/docs/tutorials/reembolso-de-pagamentos).
+O reembolso de pagamentos via Pix depende do provedor de pagamentos. Se o provedor processa reembolsos de Pix automaticamente por meio da integração com a VTEX, o reembolso é concluído pela própria plataforma. Caso contrário, o provedor indica à VTEX que o reembolso deve ser feito manualmente, e você precisa concluí-lo diretamente com o provedor, fora da plataforma. Para saber mais sobre reembolsos totais e parciais, consulte [Reembolso de pagamentos](/pt/docs/tutorials/reembolso-de-pagamentos).
 
 ## Referência de API
 
