@@ -3,7 +3,7 @@ title: 'Defining a sales channel'
 id: 747gwmk5oMkyb6FtwLo17B
 status: PUBLISHED
 createdAt: 2021-02-08T19:01:29.489Z
-updatedAt: 2025-01-09T15:49:24.916Z
+updatedAt: 2026-09-28T20:45:00.000Z
 publishedAt: 2025-01-09T15:49:24.916Z
 firstPublishedAt: 2021-02-08T20:10:25.219Z
 contentType: trackArticle
