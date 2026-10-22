@@ -1,8 +1,8 @@
 ---
 title: 'Promissórias customizadas: limite ampliado de 20 para 100'
 slug: '2026-10-22-promissorias-customizadas-limite-ampliado-de-20-para-100'
-createdAt: 2026-10-20T00:00:00.000Z
-updatedAt: 2026-10-20T00:00:00.000Z
+createdAt: 2026-10-22T00:00:00.000Z
+updatedAt: 2026-10-22T00:00:00.000Z
 contentType: updates
 productTeam: Payments
 slugEN: '2026-10-22-custom-promissory-notes-limit-increased-from-20-to-100'
