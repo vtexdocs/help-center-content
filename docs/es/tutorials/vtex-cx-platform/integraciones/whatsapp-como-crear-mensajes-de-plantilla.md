@@ -10,7 +10,7 @@ locale: es
 
 Los mensajes de plantilla se utilizan para iniciar conversaciones con los clientes y son el único tipo de mensaje que se puede enviar a clientes que aún no han iniciado una conversación contigo o que no han enviado un mensaje en las últimas 24 horas en una conversación existente.
 
-Antes de enviarse a los clientes, los modelos de mensaje deben ser aprobados. Además, pueden ser desactivados automáticamente en función de la retroalimentación de los clientes. Si se desactiva, el modelo de mensaje no podrá ser enviado a los clientes hasta que mejore la calificación de calidad y deje de infringir la Política de WhatsApp Business o la Política Comercial de WhatsApp.
+Antes de enviarse a los clientes, los modelos de mensaje deben ser aprobados. Además, pueden ser desactivados automáticamente en función de la retroalimentación de los clientes. Si se desactiva, el modelo de mensaje no podrá ser enviado a los clientes hasta que mejore la calificación de calidad y deje de infringir la [Política de WhatsApp Business](https://whatsappbusiness.com/es-la/policy/) o la [Política Comercial de WhatsApp](https://whatsappbusiness.com/es-la/policy/#politica-para-las-funciones-de-comercio-de-whatsapp-incluida-la-venta-de-productos-o-servicios).
 
 ## Creación
 

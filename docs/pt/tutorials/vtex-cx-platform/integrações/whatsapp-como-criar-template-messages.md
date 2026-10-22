@@ -10,7 +10,7 @@ locale: pt
 
 Os Template Messages (mensagens modelo) são usados para iniciar conversas com os clientes e são o único [tipo de mensagem](https://developers.facebook.com/docs/whatsapp/conversation-types#message-types) que pode ser enviado a clientes que ainda não iniciaram uma conversa com você ou não enviaram uma mensagem nas últimas 24 horas em uma conversa existente.
 
-Antes de serem enviadas aos clientes, os Template Messages precisam ser aprovados. Além disso, eles podem ser desabilitados automaticamente com base no feedback dos clientes. Se for desabilitado, o Template Message não poderá ser enviado aos clientes até que a classificação de qualidade melhore e deixe de violar a [Política do WhatsApp Business](https://whatsappbusiness.com/pt-br/policy/) ou a [Política Comercial do WhatsApp](https://www.whatsapp.com/legal/commerce-policy/).
+Antes de serem enviadas aos clientes, os Template Messages precisam ser aprovados. Além disso, eles podem ser desabilitados automaticamente com base no feedback dos clientes. Se for desabilitado, o Template Message não poderá ser enviado aos clientes até que a classificação de qualidade melhore e deixe de violar a [Política do WhatsApp Business](https://whatsappbusiness.com/pt-br/policy/) ou a [Política Comercial do WhatsApp](https://whatsappbusiness.com/pt-br/policy/#politica-de-recursos-comerciais-do-whatsapp-incluindo-oferta-de-produtos-ou-servicos-para-venda).
 
 ## Criação
 

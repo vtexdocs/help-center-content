@@ -10,7 +10,7 @@ locale: en
 
 Template messages are used to initiate conversations with customers and are the only [type of message](https://developers.facebook.com/docs/whatsapp/conversation-types#message-types) that can be sent to customers who haven't started a conversation with you yet or haven't messaged you in the last 24 hours in an existing conversation.
 
-Before being sent to customers, message templates need to be approved. Also, they can be automatically deactivated based on customer feedback. If disabled, the message template cannot be sent to customers until it improves the quality rating and no longer violates the [WhatsApp Business Policy](https://www.whatsapp.com/legal/business-policy/) or [WhatsApp Commerce Policy](https://www.whatsapp.com/legal/commerce-policy/).
+Before being sent to customers, message templates need to be approved. Also, they can be automatically deactivated based on customer feedback. If disabled, the message template cannot be sent to customers until it improves the quality rating and no longer violates the [WhatsApp Business Policy](https://www.whatsapp.com/legal/business-policy/) or [WhatsApp Commerce Policy](https://whatsappbusiness.com/policy/#policy-for-whatsapp-commerce-features-including-offering-goods-or-services-for-sale).
 
 ## Creation
 
