@@ -34152,21 +34152,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Adding ticket creation fields in Zendesk",
-                    "es": "Agregando campos de creación de ticket en Zendesk",
-                    "pt": "Adicionando campos de criação de ticket no Zendesk"
-                  },
-                  "slug": {
-                    "en": "adding-ticket-creation-fields-in-zendesk",
-                    "es": "agregando-campos-de-creacion-de-ticket-en-zendesk",
-                    "pt": "adicionando-campos-de-criacao-de-ticket-no-zendesk"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Adding Discord as a channel",
                     "es": "Agregar Discord como un canal",
                     "pt": "Adicionando o Discord como um canal"
@@ -34655,21 +34640,6 @@
                     "en": "whatsapp-vtex-cx-platform-integration",
                     "es": "whatsapp-integracion-con-vtex-cx-platform",
                     "pt": "whatsapp-integracao-com-o-vtex-cx-platform"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Zendesk - human support",
-                    "es": "Zendesk - atención humana",
-                    "pt": "Zendesk - Atendimento Humano"
-                  },
-                  "slug": {
-                    "en": "zendesk-human-support",
-                    "es": "zendesk-atencion-humana",
-                    "pt": "zendesk-atendimento-humano"
                   },
                   "origin": "",
                   "type": "markdown",
