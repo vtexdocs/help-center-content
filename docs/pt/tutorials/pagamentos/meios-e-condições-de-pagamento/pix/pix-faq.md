@@ -33,7 +33,7 @@ Não. O Pix não é suportado em marketplaces que realizam split da transação.
 
 ### Pagamentos via Pix são afetados pelo Contingency Mode?
 
-Não. O [Contingency Mode](/pt/docs/tutorials/mode-off-faq) não bloqueia transações via Pix. Ainda assim, outros problemas podem interromper o processamento do pagamento e, nesses casos, as novas tentativas geralmente ocorrem a cada 5 minutos.
+Não. O [Contingency Mode](/pt/docs/tutorials/mode-off-faq) não bloqueia transações via Pix. Ainda assim, outros problemas podem interromper o processamento do pagamento e, nesses casos, novas tentativas geralmente ocorrem a cada 5 minutos.
 
 ## Configuração
 
