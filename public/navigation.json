@@ -16470,6 +16470,21 @@
               "origin": "",
               "type": "markdown",
               "children": []
+            },
+            {
+              "name": {
+                "en": "Logged-out users see information in my store with access restriction",
+                "es": "Los usuarios no conectados ven información en mi tienda con restricción de acceso",
+                "pt": "Usuários não logados veem informações na minha loja com restrição de acesso"
+              },
+              "slug": {
+                "en": "logged-out-users-see-information-in-my-store-with-access-restriction",
+                "es": "los-usuarios-no-conectados-ven-informacion-en-mi-tienda-con-restriccion-de-acceso",
+                "pt": "usuarios-nao-logados-veem-informacoes-na-minha-loja-com-restricao-de-acesso"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
