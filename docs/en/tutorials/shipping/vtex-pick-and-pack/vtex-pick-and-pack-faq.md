@@ -1,7 +1,7 @@
 ---
 title: 'VTEX Pick and Pack: FAQ'
 createdAt: 2025-05-16T16:11:28.033Z
-updatedAt: 2026-09-16T00:00:00.000Z
+updatedAt: 2026-10-23T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: vtex-pick-and-pack-faq
