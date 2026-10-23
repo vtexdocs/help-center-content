@@ -1,5 +1,5 @@
 ---
-title: '¿Qué es una transacción?'
+title: 'Transacción de pago'
 id: 36vMP5PES4oUWMWQuskIQ6
 status: PUBLISHED
 createdAt: 2018-02-23T16:09:38.585Z
@@ -15,15 +15,8 @@ locale: es
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 
-El movimiento que el dinero hace al ser cambiado por un producto o servicio es lo que llamamos __transación__. Así, el pago es sólo una etapa de un proceso que implica un intenso flujo de intercambio de información entre varias partes: [gateways](/es/docs/tutorials/que-es-un-gateway-de-pagos), [subadquirentes](/es/docs/tutorials/que-es-un-subadquirente) y/o [adquirentes](/es/docs/tutorials/que-es-un-adquirente), [banderas](/es/docs/tutorials/que-es-una-bandera-de-tarjeta-de-credito) y [bancos emisores](/es/docs/tutorials/que-es-el-banco-emisor).
+Una transacción es el movimiento del dinero al intercambiarse por un producto o servicio. El pago es una de las etapas de este proceso, que implica el intercambio de información entre gateways, subadquirentes y/o adquirentes, redes de tarjeta y bancos emisores (más información en [Agentes financieros en el flujo de pago](https://help.vtex.com/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago)).
 
-En una tienda VTEX, una transacción se inicia cada vez que un usuario elige una [condición de pago](/es/docs/tutorials/diferencia-entre-medios-de-pago-y-condiciones-de-pago) y cierra su pedido. A partir de ahí, los datos de la compra se envían para validación de cada uno de los integrantes del proceso. Usted puede realizar un seguimiento de cada paso del [flujo de la transacción](/es/docs/tutorials/flujo-de-la-transaccion-en-pagos) en Pagos. En él, usted visualiza exactamente la situación de un pago a través del status mostrado.
+En una tienda VTEX, cada pedido tiene al menos una transacción, identificada por el código de la transacción en el módulo Pago y compuesta por uno o más pagos del pedido. La transacción comienza cuando el cliente elige una [condición de pago](https://help.vtex.com/es/docs/tutorials/diferencia-entre-medios-de-pago-y-condiciones-de-pago) y completa el pedido. A partir de ese momento, los datos de la compra pasan a la validación de cada integrante del proceso.
 
-### Artículos relacionados
-- [¿Qué es un gateway de pagos?](/es/docs/tutorials/que-es-un-gateway-de-pagos)
-- [¿Qué es un subadquirente?](/es/docs/tutorials/que-es-un-subadquirente)
-- [¿Qué es un adquirente?](/es/docs/tutorials/que-es-un-adquirente)
-- [¿Qué es una bandera de tarjeta de crédito?](/es/docs/tutorials/que-es-una-bandera-de-tarjeta-de-credito)
-- [¿Qué es el banco emisor?](/es/docs/tutorials/que-es-el-banco-emisor)
-- [Diferencia entre medios de pago y condiciones de pago](/es/docs/tutorials/diferencia-entre-medios-de-pago-y-condiciones-de-pago)
-- [Flujo de transacción en Pagos](/es/docs/tutorials/flujo-de-la-transaccion-en-pagos)
+En el Admin VTEX, accede a **Pedidos > Transacciones** para buscar información sobre la transacción. El artículo [Flujo de la transacción en Pago](https://help.vtex.com/es/docs/tutorials/flujo-de-la-transaccion-en-pagos) describe los status de las transacciones, desde la autorización del pago hasta su finalización.

@@ -1,5 +1,5 @@
 ---
-title: 'What is a transaction?'
+title: 'Payment transaction'
 id: 36vMP5PES4oUWMWQuskIQ6
 status: PUBLISHED
 createdAt: 2018-02-23T16:09:38.585Z
@@ -15,15 +15,8 @@ locale: en
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 
-The movement that money makes when exchanged for a product or service is what we call __transaction__. Thus, payment is only one step in a process that involves an intense flow of information exchange between several parties: [gateways](/en/docs/tutorials/what-is-a-payment-gateway), [sub-acquirers](/en/docs/tutorials/what-is-a-sub-acquirer) and/or [acquirers](/en/docs/tutorials/what-is-an-acquirer), [brands](/en/docs/tutorials/what-is-a-credit-card-brand) and [issuing banks](/en/docs/tutorials/what-is-the-issuing-bank).
+A transaction is the movement of money when exchanged for a product or service. Payment is one of the steps in this process, which involves the exchange of information between gateways, sub-acquirers and/or acquirers, card networks, and issuing banks (learn more in [What is the difference between acquirer, brand, gateway and sub-acquirer in Brazil?](/en/docs/tutorials/what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil)).
 
-In a VTEX store, a transaction starts every time a user chooses a [payment condition](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions) and closes their order. From there, the purchase data is sent for the validation of each of the members involved in this process. You can track each step of the [transaction flow](/en/docs/tutorials/transaction-flow-in-payments) on the Payments. With this module, you accurately visualize the status of a payment through each status.
+In a VTEX store, each order has at least one transaction, identified by the transaction code in the Payments module and made up of one or more payments for the order. The transaction starts when the customer chooses a [payment condition](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions) and completes the order. After that, the purchase data is sent for validation by each member involved in this process.
 
-### Related articles
-- [What is a payment gateway?](/en/docs/tutorials/what-is-a-payment-gateway)
-- [What is a sub-acquirer?](/en/docs/tutorials/what-is-a-sub-acquirer)
-- [What is an acquirer?](/en/docs/tutorials/what-is-an-acquirer)
-- [What is a credit card brand?](/en/docs/tutorials/what-is-a-credit-card-brand)
-- [What is the issuing bank?](/en/docs/tutorials/what-is-the-issuing-bank)
-- [Difference between payment methods and payment conditions](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions)
-- [Transaction flow in Payments](/en/docs/tutorials/transaction-flow-in-payments)
+In the VTEX Admin, go to **Orders > Transactions** to find information about the transaction. The article [Transaction flow in Payments](/en/docs/tutorials/transaction-flow-in-payments) describes the transaction statuses, from payment authorization to completion.

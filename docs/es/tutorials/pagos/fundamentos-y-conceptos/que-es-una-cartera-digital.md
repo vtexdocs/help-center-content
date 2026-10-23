@@ -1,5 +1,5 @@
 ---
-title: '¿Qué es una cartera digital (ewallet)?'
+title: 'Cartera digital (ewallet)'
 id: 4v5wcOe4A0SiaimWM2cU60
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:38.294Z
@@ -13,12 +13,11 @@ slugEN: what-is-an-e-wallet
 legacySlug: que-es-una-cartera-digital
 locale: es
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
+hidden: false
 ---
 
-Una cartera digital (también llamada ewallet) es un ambiente seguro donde se pueden almacenar datos bancarios y/o de tarjeta de crédito. Esta información se cifra en el sistema y, cuando es accedida por su dueño, puede usarse para realizar compras en internet.
+Una cartera digital, también llamada ewallet, es un entorno seguro donde los datos bancarios y de tarjeta de crédito se almacenan cifrados y pueden usarse para comprar en internet. En el checkout el cliente no necesita informar estos datos a la tienda, lo que hace que la compra sea más segura. El cliente es redirigido al entorno de la cartera para autenticar su identidad y elegir el medio de pago. Después, la compra vuelve al flujo de la tienda y el pedido se completa.
 
-Comprar con una cartera digital ofrece más seguridad para el usuario, ya que no necesita informar sus datos de pago en el momento de la compra. En vez de eso, el usuario se redirige al ambiente de la cartera digital, donde deberá pasar por etapas de autenticación.
+El [subadquirente](https://help.vtex.com/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#subadquirente) es la empresa que procesa pagos y transmite los datos a los demás participantes del flujo de pago. Algunas carteras digitales también actúan como subadquirentes y, por eso, permiten que incluso usuarios sin cuenta completen una compra en el entorno de la cartera.
 
-Con la identidad confirmada y el medio de pago elegido, la compra vuelve al flujo normal y el pedido se completa. Algunas carteras digitales funcionan todavía como subadquirentes, permitiendo que incluso una persona que no tenga registro sea capaz de realizar la compra a través de su ambiente.
-
-Son ejemplos de carteras digitales que pueden ser configuradas para la realización de pagos en su tienda VTEX: __Paypal__, __Mercado Pago__, __PagSeguro__, __Stelo__, entre otras.
+Ejemplos de carteras digitales que puedes configurar en tu tienda VTEX: [Google Pay](/es/docs/tracks/google-pay), [Apple Pay](/es/docs/tracks/apple-pay), [Samsung Pay](/es/docs/tutorials/configurar-samsung-pay-como-medio-de-pago), [PayPal](/es/docs/tutorials/configurar-pago-con-paypalv2) y [Mercado Pago](/es/docs/tutorials/configurar-mercado-pago-offline-y-wallet-como-metodos-de-pago), entre otras.

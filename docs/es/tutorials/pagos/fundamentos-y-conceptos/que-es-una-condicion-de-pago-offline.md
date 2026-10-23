@@ -1,5 +1,5 @@
 ---
-title: '¿Qué es una condición de pago sin conexión?'
+title: 'Condición de pago offline'
 id: 3WtA4nmQJWqAaCy0kYG6IG
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:37.593Z
@@ -13,18 +13,19 @@ slugEN: what-is-an-offline-payment-condition
 legacySlug: que-es-una-condicion-de-pago-offline
 locale: es
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
+hidden: false
 ---
 
-Las condiciones de pago offline son aquellas que requieren una acción del cliente fuera del ambiente de la tienda para que la transacción pueda seguir su flujo. Esencialmente, obedecen a tres etapas:
+Las condiciones de pago offline son las que requieren que el cliente realice una acción fuera del entorno de la tienda para que la transacción continúe. El flujo tiene tres etapas:
 
 1. El cliente elige una condición de pago offline.
-2. Su sitio web genera la información para que el pago se haga junto al banco.
-3. El banco informa a su tienda que el pago se ha efectuado.
+2. El proveedor de pago o conector genera el boleto (Brasil) o el código de pago.
+3. El proveedor confirma el pago a VTEX o la confirmación llega mediante el archivo de retorno descrito en [Cómo funcionan las conciliaciones bancarias](https://help.vtex.com/es/docs/tutorials/conciliaciones-bancarias).
 
-Con eso, su tienda vuelve a tener control sobre la transacción y puede, en fin, concluir el pedido del cliente.
+Con la confirmación, la tienda recupera el control de la transacción y puede completar el pedido. Antes de ese punto, el pedido permanece en el status [**Pago pendiente**](https://help.vtex.com/es/docs/tutorials/flujo-y-status-de-pedidos) y, si el cliente no paga dentro del plazo, el pedido se cancela.
 
-Un ejemplo que ilustra este tipo de situación es el boleto bancario, que es emitido por usted, pero necesita ser pagado directamente al banco (ya sea en una agencia, un cajero electrónico o una aplicación de smartphone) antes de que el producto sea enviado para entrega.
+Ejemplos de condiciones de pago offline:
 
-### Artículos relacionados
-- [Boleto Bancario Registrado - Flujo básico de pago](/es/docs/tutorials/boleto-bancario-registrado-flujo)
-- [Configurar boleto bancario](/es/docs/tutorials/como-configurar-boleto-bancario)
+- **Boleto (Brasil):** el cliente paga directamente al banco, en una sucursal, cajero automático o aplicación, antes de que el producto se envíe. El flujo completo se describe en [Boleto bancario registrado - Flujo básico de pago](https://help.vtex.com/es/docs/tutorials/boleto-bancario-registrado-flujo). Para activar el uso de boleto en la tienda consulta [Configurar boleto bancario](/es/docs/tutorials/como-configurar-boleto-bancario).
+- **Ficha de depósito:** se usa en México. El cliente paga en puntos autorizados. El funcionamiento se describe en [Qué es ficha de depósito](https://help.vtex.com/es/docs/tutorials/que-es-ficha-de-deposito).
+- **Condiciones offline de Mercado Pago:** disponibles en países de América Latina. La configuración se describe en [Configurar Mercado Pago offline y Wallet como métodos de pago](https://help.vtex.com/es/docs/tutorials/configurar-mercado-pago-offline-y-wallet-como-metodos-de-pago).
