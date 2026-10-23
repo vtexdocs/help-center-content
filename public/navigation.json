@@ -29300,8 +29300,8 @@
                     },
                     {
                       "name": {
-                        "en": "Configuring a Boleto",
-                        "es": "Configurar boleto bancario",
+                        "en": "Configuring a boleto (for stores in Brazil)",
+                        "es": "Configurar boleto (Brasil)",
                         "pt": "Configurar boleto bancário"
                       },
                       "slug": {
