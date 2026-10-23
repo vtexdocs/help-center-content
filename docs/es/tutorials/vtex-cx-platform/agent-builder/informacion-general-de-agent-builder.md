@@ -173,24 +173,24 @@ También puedes usar el campo de búsqueda para encontrar un sitio web en la bas
 
 #### Textos
 
-En esta pestaña, puedes agregar contenido de texto a la base de conocimientos, organizado en segmentos con nombre. Cada segmento tiene su propio título, y la lista se ordena por la edición más reciente, indicando cuándo se modificó cada segmento.
+En esta pestaña puedes agregar contenido a la base de conocimiento, organizado en bloques de texto, cada uno con su propio título. La lista se ordena de la edición más reciente a la más antigua e indica cuándo se modificó cada texto.
 
-Para crear un segmento de texto, sigue estos pasos:
+Para crear un texto, sigue los pasos a continuación:
 
-1. Haz clic en <i class="fas fa-plus" aria-hidden="true"></i>`Agregar texto`.
-2. Escribe un título para identificar el segmento.
-3. Ingresa el contenido en el cuadro de texto.
+1. Haz clic en <i class="fas fa-plus" aria-hidden="true"></i>`Nuevo texto`.
+2. Ingresa un título para identificar el texto.
+3. Ingresa el contenido en la caja de texto.
 4. Haz clic en `Guardar`.
 
-Al hacer clic en los <i class="fas fa-ellipsis-v" aria-hidden="true"></i>tres puntos horizontales junto al segmento, puedes:
+Haciendo clic en los tres puntos verticales <i class="fas fa-ellipsis-v" aria-hidden="true"></i> junto al texto, puedes:
 
 - Editar el contenido.
-- Renombrar el título.
-- Eliminar el segmento. La eliminación requiere confirmación.
+- Cambiar el nombre del título.
+- Eliminar el bloque. La eliminación requiere confirmación.
 
-También puedes usar el campo de búsqueda para encontrar un segmento por título.
+También puedes usar el campo de búsqueda para encontrar un texto por el título.
 
-> ℹ️ Las bases de conocimiento creadas antes de esta organización mantienen el texto original como un único segmento, con un título predeterminado. No se pierde ningún contenido. La división en segmentos es solo un cambio de interfaz y no modifica la forma en que el agente usa el contenido de la base.
+> ℹ️ Las bases de conocimiento creadas antes de organizar el contenido de esta forma mantienen el texto original como un único texto, con un título predeterminado. No se pierde ningún contenido. Dividir el contenido en varios textos es solo un cambio de interfaz y no afecta la forma en que el agente usa el contenido de la base de conocimiento.
 
 ### Flujo de automatización
 
