@@ -6,5 +6,4 @@ contentType: tutorial
 productTeam: Shopping
 slugEN: vtex-sales-app-configuring-the-checkout-instore-custom-js-file
 locale: es
-subcategoryId: vtex-sales-app
 ---
