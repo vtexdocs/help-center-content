@@ -12,6 +12,7 @@ slugEN: merchandising-rule-conditions
 legacySlug: condicoes-de-regras-de-merchandising
 locale: pt
 subcategoryId: 32zXHBMygA2dB6TbCjQJej
+order: 4
 ---
 
 As condições de regras de merchandising no [Editor manual](/pt/docs/tutorials/criar-regra-de-merchandising-editor-manual) e no [Editor visual (Beta)](/pt/tutorial/criar-regra-de-merchandising-editor-visual-beta--6xteumx9MsDt0uEppbChu3) seguem o formato `{critério} {operador} {valor}`. Por exemplo, uma condição pode ter a estrutura `marca é athletic`, onde `marca` corresponde ao critério, `é` corresponde ao operador e `athletic `corresponde ao valor.
