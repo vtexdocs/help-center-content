@@ -1,7 +1,7 @@
 ---
 title: 'Planejar a implementação do VTEX Sales App'
-createdAt: 2026-09-30T00:00:00.000Z
-updatedAt: 2026-10-21T00:00:00.000Z
+createdAt: 2026-10-23T00:00:00.000Z
+updatedAt: 2026-10-23T00:00:00.000Z
 contentType: tutorial
 productTeam: Shopping
 slugEN: planning-vtex-sales-app-implementation
@@ -12,12 +12,12 @@ O sucesso de uma operação com o **VTEX Sales App** depende de decisões de neg
 
 Antes de iniciar a implementação, passe por estas quatro etapas:
 
-| Etapa | O que definir |
+| Etapa a ser definida | Decisões |
 | --- | --- |
-| [Definir os casos de uso do Sales App](#definir-os-casos-de-uso-do-sales-app) | Principais situações em que o **Sales App** será utilizado. |
-| [Definir a arquitetura técnica](#definir-a-arquitetura-tecnica) | Quais estratégias [omnichannel](/pt/docs/tracks/comercio-unificado-101) serão adotadas e o que cada uma exige, como [contas franquia](/pt/docs/tutorials/o-que-e-conta-franquia), pontos de retirada, estoques e integração com o ERP. |
-| [Definir a operação de vendas](#definir-a-operacao-de-vendas) | Como os vendedores vão acessar e usar o **Sales App**, quais ações poderão realizar e como as vendas serão acompanhadas. Um ponto importante é o modelo de comissionamento. Em operações omnichannel, o engajamento da equipe depende de como será creditada a venda feita na loja e entregue pelo ecommerce. |
-| [Definir as configurações de pagamento](#definir-as-configuracoes-de-pagamento) | Quais métodos de pagamento serão aceitos, como link de pagamento, Pix, cartão e dinheiro. Alguns métodos exigem a contratação e homologação de provedores e adquirentes específicos para a operação física. |
+| [Casos de uso do Sales App](#definir-os-casos-de-uso-do-sales-app) | Principais situações em que o **Sales App** será utilizado. |
+| [Arquitetura técnica](#definir-a-arquitetura-tecnica) | Quais estratégias [omnichannel](/pt/docs/tracks/comercio-unificado-101) serão adotadas e o que cada uma exige, como [contas franquia](/pt/docs/tutorials/o-que-e-conta-franquia), pontos de retirada, estoques e integração com o ERP. |
+| [Operação de vendas](#definir-a-operacao-de-vendas) | Como os vendedores vão acessar e usar o **Sales App**, quais ações poderão realizar e como as vendas serão acompanhadas. Um ponto importante é o modelo de comissionamento. Em operações omnichannel, o engajamento da equipe depende de como será creditada a venda feita na loja e entregue pelo ecommerce. |
+| [Configurações de pagamento](#definir-as-configuracoes-de-pagamento) | Quais métodos de pagamento serão aceitos, como link de pagamento, Pix, cartão e dinheiro. Alguns métodos exigem a contratação e homologação de provedores e adquirentes específicos para a operação física. |
 
 > ℹ️ Se a arquitetura da sua conta for complexa ou exigir recursos customizados, considere contratar o time de Professional Services da VTEX para obter mais eficiência e segurança na implementação. Para isso, abra um chamado para o [nosso suporte comercial](https://help.vtex.com/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex#suporte-financeiro-e-comercial).
 
@@ -102,9 +102,9 @@ A [venda do estoque local](/pt/docs/tutorials/habilitar-venda-de-estoque-local-d
 
 Com a arquitetura definida, decida como os vendedores vão usar o **Sales App** no dia a dia e como as vendas serão acompanhadas.
 
-### Acesso ao app
+### Acesso ao Sales App
 
-- **Dispositivo:** se os vendedores vão usar o app em um dispositivo móvel (celular ou tablet), no computador ou em ambos.
+- **Dispositivo:** se os vendedores vão usar o Sales App em um dispositivo móvel (celular ou tablet), no computador ou em ambos.
 - **Login:** se haverá um login único por loja ou um login para cada vendedor.
 - **Código do vendedor:** qual será o formato do código e se ele será obrigatório ou opcional no fluxo de venda.
 
@@ -112,7 +112,7 @@ Com essas definições, cadastre as [lojas físicas](/pt/docs/tracks/gerenciar-l
 
 ### Permissões dos vendedores
 
-Você pode habilitar ou desabilitar algumas ações dos vendedores no app. Cada configuração tem uma forma de ativação própria. As principais são:
+Você pode habilitar ou desabilitar algumas ações dos vendedores no **Sales App**. Cada configuração tem uma forma de ativação própria. As principais são:
 
 - Aplicar preço manual.
 - [Forçar estoque local](https://developers.vtex.com/docs/guides/force-stock-availability).
@@ -122,15 +122,15 @@ Você pode habilitar ou desabilitar algumas ações dos vendedores no app. Cada 
 
 ### Performance e comissionamento
 
-- **Acompanhamento no app:** ative a performance de vendas para que os vendedores acompanhem suas métricas básicas no próprio **Sales App**.
-- **Integração com sistemas internos:** use os campos do pedido para enviar os dados de venda aos seus sistemas internos e calcular o comissionamento. Em [customData.customApps](https://developers.vtex.com/docs/guides/orderform-fields#customdata), o `id` do **Sales App** é `sales-app`.
-- **Modelo de comissionamento:** defina com as áreas internas, lojas próprias e franquias como as vendas omnichannel entrarão nas metas e no repasse de lojas, franquias, gerentes e vendedores. Essa definição não depende de configuração na VTEX, mas é essencial para o modelo de repasse e para o engajamento da equipe com o app.
+- **Acompanhamento no app:** ative a performance de vendas para que os vendedores acompanhem suas métricas básicas no próprio Sales App.
+- **Integração com sistemas internos:** use os campos do pedido para enviar os dados de venda aos seus sistemas internos e calcular o comissionamento. Em [customData.customApps](https://developers.vtex.com/docs/guides/orderform-fields#customdata), o `id` do Sales App é `sales-app`.
+- **Modelo de comissionamento:** defina com as áreas internas, lojas próprias e franquias como as vendas omnichannel entrarão nas metas e no repasse de lojas, franquias, gerentes e vendedores. Essa definição não depende de configuração na VTEX, mas é importante para o modelo de repasse e para o engajamento da equipe com o Sales App.
 
 > ⚠️ O **Sales App** não calcula o comissionamento de vendas. Esse cálculo deve ser realizado por um sistema externo com base nos dados do pedido.
 
 ## Definir as configurações de pagamento
 
-Defina quais métodos de pagamento estarão disponíveis no **Sales App**. Alguns métodos reaproveitam configurações do ecommerce, enquanto outros exigem a contratação de parceiros ou integrações.
+Determine quais métodos de pagamento estarão disponíveis no **Sales App**. Alguns métodos reaproveitam configurações do ecommerce, enquanto outros exigem a contratação de parceiros ou integrações:
 
 - **Link de pagamento (social selling):** usa o checkout do ecommerce. Para configurá-lo, siga o tutorial [Como ativar o app Carrinho Compartilhável (Social Selling)](/pt/docs/tutorials/como-ativar-o-app-carrinho-compartilhavel).
 - **Pix:** usa o mesmo gateway de pagamento do ecommerce.
