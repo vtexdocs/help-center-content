@@ -11,7 +11,7 @@ hidden: false
 
 Este artículo presenta los agentes financieros que participan en el flujo de pago de VTEX: gateway, adquirente, subadquirente, red de tarjeta, banco emisor y antifraude.
 
-Estos conceptos valen para todo el módulo de Pagos, pero la secuencia completa de los seis agentes describe el flujo de **tarjeta de crédito**. En los demás medios de pago, no todos estos agentes cumplen una función: el gateway participa en los medios que procesa la plataforma, y la red de tarjeta, solo en las transacciones con tarjeta.
+Estos conceptos valen para todo el módulo de Pago, pero la secuencia completa de los seis agentes describe el flujo de **tarjeta de crédito**. En los demás medios de pago, no todos estos agentes cumplen una función: el gateway participa en los medios que procesa la plataforma, y la red de tarjeta, solo en las transacciones con tarjeta.
 
 ## Gateway
 
