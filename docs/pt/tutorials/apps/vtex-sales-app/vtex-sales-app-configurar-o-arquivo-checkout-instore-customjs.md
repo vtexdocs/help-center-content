@@ -18,7 +18,7 @@ O `checkout-instore-custom.js` é o arquivo usado para personalizar as configura
 
 ## Idioma e localidade
 
-- `window.LOCALE_MESSAGES.locale`: define o idioma usado no **Sales App**, como português do Brasil (`'pt-br'`), inglês dos EUA (`'en-us'`) e espanhol da Espanha (`'es-es'`).
+- `window.LOCALE_MESSAGES.locale`: define o idioma e a localidade usados no **Sales App**, como português do Brasil (`'pt-br'`), inglês dos EUA (`'en-us'`) e espanhol da Espanha (`'es-es'`).
 
 ## Configuração por conta
 
