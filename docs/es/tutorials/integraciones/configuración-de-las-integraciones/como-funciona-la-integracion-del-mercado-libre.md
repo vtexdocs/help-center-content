@@ -116,7 +116,7 @@ Durante la integración, el nivel de [stock](/es/tracks/logistica-101--13TFDwDtt
 
 Para ver el stock de los productos enviados, en el Admin, ingresa a *MARKETPLACE > Integraciones > Stock*. Si quieres encontrar un producto específico, usa el campo de búsqueda e ingresa el código del SKU.
 
-Si tienes alguna duda, consulta nuestra documentación sobre [Errores de integración de stock con Mercado Libre](/es/docs/tutorials/errores-de-integracion-de-stock-con-mercado-libre).
+Si tienes alguna duda, consulta nuestra documentación sobre [Errores de integración de stock con Mercado Libre](/es/troubleshooting/errores-de-integracion-de-stock-con-mercado-libre).
 
 ## 5. Puntos de recogida
 
