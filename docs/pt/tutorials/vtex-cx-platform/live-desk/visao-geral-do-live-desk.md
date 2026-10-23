@@ -49,6 +49,29 @@ Você pode navegar pelas mensagens com as setas do teclado e pressionar `Enter` 
 
 Também é possível configurar mensagens rápidas específicas por setor. Essa configuração é feita durante a criação do setor. Para mais informações, acesse [Configurar o Live Desk](https://help.vtex.com/pt/docs/tutorials/configure-live-desk).
 
+### Melhorar resposta com IA
+
+A função **Melhorar resposta com IA** permite revisar uma mensagem com ajuda de inteligência artificial antes de enviá-la ao contato. Você escreve a resposta normalmente no campo de texto e aciona a IA para corrigir erros, ajustar o tom ou reescrever o texto com mais clareza, mantendo o sentido original da mensagem.
+
+O botão <i class="fas fa-magic" aria-hidden="true"></i> **Melhorar resposta com IA** fica na barra de ações do campo de texto e só é habilitado quando há texto digitado. Ao clicar nele, você escolhe uma das seguintes opções:
+
+| Opção | Descrição |
+| :---- | :---- |
+| **Corrigir gramática e ortografia** | Corrige apenas erros de digitação, ortografia e gramática. A estrutura do texto é mantida o mais próximo possível da versão original. |
+| **Tornar mais empática** | Reescreve a mensagem com um tom mais gentil e acolhedor, sem alterar o seu sentido. |
+| **Reescrever com clareza** | Reorganiza o texto para torná-lo mais claro e objetivo, com explicações mais completas, sem alterar o seu sentido. |
+
+Para melhorar uma resposta, siga estas etapas:
+
+1. No campo de texto da conversa, escreva a mensagem que deseja enviar.
+2. Clique no botão <i class="fas fa-magic" aria-hidden="true"></i>`Melhorar resposta com IA`.
+3. Selecione a opção de melhoria desejada: `Corrigir gramática e ortografia`, `Tornar mais empática` ou `Reescrever com clareza`.
+4. Aguarde o processamento. Enquanto a mensagem **Melhorando sua resposta** é exibida, você pode clicar em <i class="fas fa-times" aria-hidden="true"></i>`Resposta aprimorada` para cancelar a ação.
+5. Revise a nova versão da mensagem. Se preferir, edite o texto ou clique em `Original` para voltar à mensagem original.
+6. Clique em `Enviar`.
+
+> ℹ️ A IA não envia nenhuma mensagem automaticamente ao contato. A conversa só é atualizada quando você clica em `Enviar`.
+
 ### Transferir chat
 
 A função de transferir chat direciona o contato para um setor, fila ou atendente específico e pode ser acessada no painel de informações do contato. A transferência pode ser acionada pelo agente de IA, quando essa opção está ativada nas configurações, ou manualmente por um gerente ou administrador. Na transferência manual, é possível pesquisar pelo nome de um atendente, fila ou setor, ou selecionar um destinatário na lista exibida. Ao confirmar a transferência, o contato é encaminhado para o destinatário escolhido.
@@ -69,7 +92,7 @@ O Live Desk oferece um painel completo de emojis, que ajudam a transmitir o tom 
 
 ### Inserir quebra de texto
 
-Para auxiliar na organização visual da mensagem, você pode inserir quebra de linhas pressionando `Shift + Enter`.
+Para auxiliar na organização visual da mensagem, você pode inserir quebras de linha pressionando `Shift + Enter`.
 
 ### Configurar assinatura ativa
 
@@ -107,7 +130,7 @@ O Live Desk oferece notificações via navegador como alternativa ao alerta sono
 
 O acompanhamento do atendimento humano é feito no dashboard do módulo **Analytics**, dividido em duas abas:
 
-- **Monitoramento:** dados em tempo real dos atendimentos em andamento, como status, tempos médios, volume por fila e tag, e CSAT.
+- **Monitoramento:** dados em tempo real dos atendimentos em andamento, como status, tempo médio, volume por fila e tag, e CSAT.
 - **Análise:** dados históricos dos atendimentos finalizados no período selecionado.
 
 Você pode filtrar os dados por setor, fila, atendente, tag e período, além de exportá-los com o botão `Exportar dados`.
