@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 
-A transaction is the movement of money when exchanged for a product or service. Payment is one of the steps in this process, which involves the exchange of information between gateways, sub-acquirers and/or acquirers, card networks, and issuing banks (learn more in [What is the difference between acquirer, brand, gateway and sub-acquirer in Brazil?](/en/docs/tutorials/what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil)).
+A transaction is the movement of money when exchanged for a product or service. Payment is one of the steps in this process, which involves the exchange of information between gateways, sub-acquirers and/or acquirers, card networks, and issuing banks (learn more in [Financial agents in the payment flow](/en/docs/tutorials/financial-agents-in-the-payment-flow)).
 
 In a VTEX store, each order has at least one transaction, identified by the transaction code in the Payments module and made up of one or more payments for the order. The transaction starts when the customer chooses a [payment condition](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions) and completes the order. After that, the purchase data is sent for validation by each member involved in this process.
 
