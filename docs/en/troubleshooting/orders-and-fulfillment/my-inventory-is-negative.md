@@ -3,7 +3,7 @@ title: 'My inventory is negative'
 id: JSFHaWsASXbnrX9dgNEeP
 status: PUBLISHED
 createdAt: 2024-06-10T11:08:39.990Z
-updatedAt: 2025-08-14T15:10:09.934Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-08-14T15:10:09.934Z
 firstPublishedAt: 2024-06-10T17:21:47.755Z
 contentType: tutorial

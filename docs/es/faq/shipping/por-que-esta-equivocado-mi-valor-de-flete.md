@@ -4,7 +4,7 @@ excerpt: "Compare los detalles de la simulación de flete con promociones y adic
 id: frequentlyAskedQuestions_163
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:27.397Z
-updatedAt: 2019-12-31T14:25:32.472Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:25:32.472Z
 firstPublishedAt: 2017-04-27T23:01:43.243Z
 contentType: frequentlyAskedQuestion
