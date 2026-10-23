@@ -1,18 +1,11 @@
 ---
 title: 'Agent Builder - Visão geral'
-id: 6t9oYS7E2AJH9c2AYReUrs
-status: PUBLISHED
 createdAt: 2025-07-23T12:24:11.906Z
-updatedAt: 2026-06-15T00:00:00.000Z
-publishedAt: 2025-09-08T16:21:28.723Z
-firstPublishedAt: 2025-07-29T16:45:36.827Z
+updatedAt: 2026-10-02T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: agent-builder-overview
-legacySlug: visao-geral-agent-builder
 locale: pt
-subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 order: 1
 ---
 
@@ -114,6 +107,22 @@ Para utilizar a validação de instrução por IA ao criar uma instrução, siga
 > ⚠️ Caso apareça uma mensagem de aviso em **Resultados da validação**, corrija a instrução conforme as orientações exibidas e clique em `Re-validar`.
 
 > ℹ️ É possível criar uma nova instrução personalizada sem a validação da IA. Para realizar esta ação, desative a opção **Validar instrução por IA**, digite a instrução e clique em `Publicar instrução`.
+
+##### Componentes interativos
+
+Com o **Manager 2.7**, o agente orquestrador pode responder usando componentes interativos nativos do WhatsApp:
+
+| Componente | Descrição |
+| --- | --- |
+| Respostas rápidas (`quick_reply`) | Botões com opções predefinidas para o cliente escolher. |
+| Botões de ação (`call_to_action`) | Botões que direcionam o cliente para um link externo. |
+| Lista de mensagens (`list_message`) | Menu com uma lista de opções selecionáveis. |
+
+Para orientar o agente a usar um componente, cite-o diretamente em uma instrução personalizada. Por exemplo: "Ao perguntar sobre o status do pedido, use o componente `quick_reply` com as opções Rastrear pedido, Cancelar pedido e Falar com atendente".
+
+> ℹ️ Para que o agente envie componentes interativos, a opção **Formato de mensagem múltipla** deve estar ativada em **Editar Manager > Motor**.
+
+> ⚠️ O catálogo de produtos não é um componente nativo do Manager 2.7. Quando há um agente Concierge atribuído ao time, o orquestrador aciona o Concierge para enviar o catálogo. Os agentes Concierge oficiais da VTEX já possuem essa capacidade.
 
 ##### Lista de instruções
 
