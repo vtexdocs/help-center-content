@@ -616,7 +616,7 @@
       "product": "Catalog",
       "category": "Content",
       "resource": "Fields list",
-      "description": "List all the fields in the system.",
+      "description": "Lists all fields in the system.",
       "key": "Campo.aspx",
       "resourceId": "891",
       "productId": "2"
@@ -2443,7 +2443,7 @@
       "product": "Payments",
       "category": "Card Token Vault",
       "resource": "Edit Card Tokens",
-      "description": "Allows editing of data for tokenized cards previously created in the Card Token Vault.",
+      "description": "Allows editing of data from tokenized cards previously created in the Card Token Vault.",
       "key": "ManageCardTokens",
       "resourceId": "2078744",
       "productId": "114"
@@ -3561,7 +3561,7 @@
       "product": "Catalog",
       "category": "Admin",
       "resource": "Admin list",
-      "description": "Enumera los administradores del sistema.",
+      "description": "Enumere a los administradores del sistema.",
       "key": "Administrador.aspx",
       "resourceId": "882",
       "productId": "2"
@@ -3930,7 +3930,7 @@
       "product": "Catalog",
       "category": "Content",
       "resource": "Price range",
-      "description": "Enumera todos los rangos de precios.",
+      "description": "Enumerar todos los rangos de precios",
       "key": "FaixaPreco.aspx",
       "resourceId": "933",
       "productId": "2"
@@ -4002,7 +4002,7 @@
       "product": "Catalog",
       "category": "Content",
       "resource": "SKUs",
-      "description": "Muestra todos los SKU registrados.",
+      "description": "Enumera todos los SKU registrados.",
       "key": "Sku.aspx",
       "resourceId": "996",
       "productId": "2"
@@ -5325,7 +5325,7 @@
       "product": "Message Center",
       "category": "Messages",
       "resource": "Send Message ",
-      "description": "Envía un mensaje al Centro de mensajes.",
+      "description": "Envía un mensaje desde el Centro de mensajes.",
       "key": "send-message",
       "resourceId": "1026939",
       "productId": "23"
@@ -5487,7 +5487,7 @@
       "product": "OMS",
       "category": "OMS access",
       "resource": "Feed v3 and Hook Admin",
-      "description": "Crear, editar y eliminar la configuración de Feed v3/hook.",
+      "description": "Crea, edita y elimina la configuración de Feed v3/hook.",
       "key": "FeedHookV3Admin",
       "resourceId": "592028",
       "productId": "19"
@@ -5685,7 +5685,7 @@
       "product": "Payments",
       "category": "Card Token Vault",
       "resource": "Edit Card Tokens",
-      "description": "Permite editar los datos de las tarjetas tokenizadas creadas previamente en la Bóveda de Tokens de Tarjetas.",
+      "description": "Permite editar datos de tarjetas tokenizadas creadas previamente en la Bóveda de Tokens de Tarjetas.",
       "key": "ManageCardTokens",
       "resourceId": "2078744",
       "productId": "114"
@@ -6036,7 +6036,7 @@
       "product": "Seller Register",
       "category": "Seller Administration",
       "resource": "View Seller",
-      "description": "Podrá ver todos los vendedores vinculados a la cuenta del mercado descrita en la página de Gestión de vendedores, incluyendo la posibilidad de recuperar datos de los vendedores, ya sea de la lista de vendedores o de un vendedor específico.",
+      "description": "Podrá ver todos los vendedores vinculados a la cuenta de la plataforma descrita en la página de Gestión de vendedores, incluyendo la posibilidad de recuperar datos de los vendedores, ya sea de la lista de vendedores o de un vendedor específico.",
       "key": "view-seller",
       "resourceId": "575457",
       "productId": "73"
