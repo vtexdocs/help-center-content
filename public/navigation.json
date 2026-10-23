@@ -54,6 +54,21 @@
                 },
                 {
                   "name": {
+                    "en": "Custom notes payable: limit increased from 20 to 100",
+                    "es": "Pagarés personalizados: límite ampliado de 20 a 100",
+                    "pt": "Promissórias customizadas: limite ampliado de 20 para 100"
+                  },
+                  "slug": {
+                    "en": "2026-10-22-custom-promissory-notes-limit-increased-from-20-to-100",
+                    "es": "2026-10-22-pagares-personalizados-limite-ampliado-de-20-a-100",
+                    "pt": "2026-10-22-promissorias-customizadas-limite-ampliado-de-20-para-100"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Delivery Promise: now available to all merchants",
                     "es": "Delivery Promise: ahora disponible para todos los retailers",
                     "pt": "Delivery Promise: agora disponível para todos os lojistas"
