@@ -107,4 +107,4 @@ If the store offers pickup in **VTEX Sales App**, enable the **Sales App warehou
 
 > ℹ️ Pickup points must be created before they can be selected. Learn more in [Creating pickup points](/en/docs/tutorials/creating-pickup-points).
 
-For other logistics settings, see [Physical stores as pickup points](/en/docs/tracks/configuring-physical-stores-as-pickup-points), [Unified Commerce](/en/docs/tracks/unified-commerce-101), and [Logistics](/en/docs/tracks/logistica-101).
+For other logistics settings, see [Physical stores as pickup points](/en/docs/tracks/configuring-physical-stores-as-pickup-points), [Unified Commerce](/en/docs/tracks/unified-commerce-101), and [Logistics](/en/docs/tracks/logistics-101).
