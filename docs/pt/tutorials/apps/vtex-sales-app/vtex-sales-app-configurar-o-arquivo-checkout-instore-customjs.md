@@ -1,8 +1,8 @@
 ---
 title: 'VTEX Sales App: configurar o arquivo checkout-instore-custom.js'
 status: PUBLISHED
-createdAt: 2026-09-22T21:43:00.000Z
-updatedAt: 2026-09-22T21:43:00.000Z
+createdAt: 2026-10-23T21:43:00.000Z
+updatedAt: 2026-10-23T21:43:00.000Z
 contentType: tutorial
 productTeam: Shopping
 slugEN: vtex-sales-app-configuring-the-checkout-instore-custom-js-file
@@ -35,7 +35,7 @@ O `checkout-instore-custom.js` é o arquivo usado para personalizar as configura
 
 - `enableNewCheckout`: ativa o novo fluxo de checkout do **Sales App**. O valor padrão dessa flag é `false`. Quando o lojista conclui a configuração inicial, essa flag é salva como `true` na loja.
 
-  > ⚠️ Não altere o valor de `enableNewCheckout`.
+  > ⚠️ Não altere o valor de `enableNewCheckout`. O **Sales App** grava esse valor automaticamente após a configuração inicial e uma alteração manual pode interromper o fluxo do checkout e gerar problemas na finalização de pedidos.
 
 - `enableExplore`: ativa a tela com a experiência **Explore** (vitrine e anúncios).
 - `initialPage`: define a página que abre primeiro após o login. Os valores aceitos são:
