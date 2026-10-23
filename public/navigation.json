@@ -39,6 +39,36 @@
               "children": [
                 {
                   "name": {
+                    "en": "Native personal data management in Master Data v2",
+                    "es": "Gestión nativa de datos personales en Master Data v2",
+                    "pt": "Gestão nativa de dados pessoais no Master Data v2"
+                  },
+                  "slug": {
+                    "en": "2026-10-22-native-personal-data-management-in-master-data-v2",
+                    "es": "2026-10-22-gestion-nativa-de-datos-personales-en-master-data-v2",
+                    "pt": "2026-10-22-gestao-nativa-de-dados-pessoais-no-master-data-v2"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Delivery Promise: now available to all merchants",
+                    "es": "Delivery Promise: ahora disponible para todos los retailers",
+                    "pt": "Delivery Promise: agora disponível para todos os lojistas"
+                  },
+                  "slug": {
+                    "en": "2026-10-21-delivery-promise-now-generally-available",
+                    "es": "2026-10-21-delivery-promise-ahora-disponible-para-todas-las-tiendas",
+                    "pt": "2026-10-21-delivery-promise-agora-disponivel-para-todos-os-lojistas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Persistent login: set how long your customers stay authenticated",
                     "es": "Inicio de sesión persistente: define por cuánto tiempo tus clientes permanecen autenticados",
                     "pt": "Login persistente: defina por quanto tempo seus clientes permanecem autenticados"
@@ -22302,6 +22332,67 @@
           "children": [
             {
               "name": {
+                "en": "Delivery Promise",
+                "es": "Delivery Promise",
+                "pt": "Delivery Promise"
+              },
+              "slug": {
+                "en": "delivery-promise-subcategory",
+                "es": "delivery-promise-subcategoria",
+                "pt": "delivery-promise-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Activating Delivery Promise",
+                    "es": "Activar Delivery Promise",
+                    "pt": "Ativar o Delivery Promise"
+                  },
+                  "slug": {
+                    "en": "activate-delivery-promise",
+                    "es": "activar-delivery-promise",
+                    "pt": "ativar-delivery-promise"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Delivery Promise",
+                    "es": "Delivery Promise",
+                    "pt": "Delivery Promise"
+                  },
+                  "slug": {
+                    "en": "delivery-promise",
+                    "es": "delivery-promise",
+                    "pt": "delivery-promise"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Delivery Promise: FAQ",
+                    "es": "Delivery Promise: preguntas frecuentes",
+                    "pt": "Delivery Promise: FAQ"
+                  },
+                  "slug": {
+                    "en": "delivery-promise-faq",
+                    "es": "delivery-promise-faq",
+                    "pt": "delivery-promise-faq"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Inventory",
                 "es": "Inventario",
                 "pt": "Inventário"
@@ -23278,6 +23369,21 @@
                 "en": "logistics-glossary",
                 "es": "glosario-de-logistica",
                 "pt": "glossario-de-logistica"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Delivery Options",
+                "es": "Opciones de envío",
+                "pt": "Opções de envio"
+              },
+              "slug": {
+                "en": "delivery-options",
+                "es": "opciones-de-envio",
+                "pt": "opcoes-de-envio"
               },
               "origin": "",
               "type": "markdown",
@@ -25813,24 +25919,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "What is Deposit Slip",
-                    "es": "Qué es Ficha de Depósito",
-                    "pt": "O que é  Ficha Depósito"
-                  },
-                  "slug": {
-                    "en": "what-is-deposit-slip",
-                    "es": "que-es-ficha-de-deposito",
-                    "pt": "o-que-e-ficha-deposito"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is 3D Secure?",
-                    "es": "¿Qué es 3D Secure?",
-                    "pt": "O que é 3D Secure?"
+                    "en": "3D Secure",
+                    "es": "3D Secure",
+                    "pt": "3D Secure"
                   },
                   "slug": {
                     "en": "what-is-3d-secure",
@@ -25843,14 +25934,14 @@
                 },
                 {
                   "name": {
-                    "en": "What is anti-fraud?",
-                    "es": "¿Qué es antifraude?",
-                    "pt": "O que é antifraude?"
+                    "en": "Financial agents in the payment flow",
+                    "es": "Agentes financieros en el flujo de pago",
+                    "pt": "Agentes financeiros no fluxo de pagamento"
                   },
                   "slug": {
-                    "en": "what-is-anti-fraud",
-                    "es": "que-es-antifraude",
-                    "pt": "o-que-e-antifraude"
+                    "en": "financial-agents-in-the-payment-flow",
+                    "es": "agentes-financieros-en-el-flujo-de-pago",
+                    "pt": "agentes-financeiros-no-fluxo-de-pagamento"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25858,14 +25949,14 @@
                 },
                 {
                   "name": {
-                    "en": "What is the Issuing Bank?",
-                    "es": "¿Qué es el Banco Emisor?",
-                    "pt": "O que é Banco Emissor?"
+                    "en": "What is Deposit Slip",
+                    "es": "Qué es Ficha de Depósito",
+                    "pt": "O que é  Ficha Depósito"
                   },
                   "slug": {
-                    "en": "what-is-the-issuing-bank",
-                    "es": "que-es-el-banco-emisor",
-                    "pt": "o-que-e-banco-emissor"
+                    "en": "what-is-deposit-slip",
+                    "es": "que-es-ficha-de-deposito",
+                    "pt": "o-que-e-ficha-deposito"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25896,66 +25987,6 @@
                     "en": "what-is-the-pci-ssc",
                     "es": "que-es-el-pci-ssc",
                     "pt": "o-que-e-o-pci-ssc"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is an acquirer?",
-                    "es": "¿Qué es un adquirente?",
-                    "pt": "O que é um adquirente?"
-                  },
-                  "slug": {
-                    "en": "what-is-an-acquirer",
-                    "es": "que-es-un-adquirente",
-                    "pt": "o-que-e-um-adquirente"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a payment gateway?",
-                    "es": "¿Qué es un gateway de pagos?",
-                    "pt": "O que é um gateway de pagamentos?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-payment-gateway",
-                    "es": "que-es-un-gateway-de-pagos",
-                    "pt": "o-que-e-um-gateway-de-pagamentos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a sub-acquirer?",
-                    "es": "¿Qué es un subadquirente?",
-                    "pt": "O que é um subadquirente?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-sub-acquirer",
-                    "es": "que-es-un-subadquirente",
-                    "pt": "o-que-e-um-subadquirente"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a credit card brand?",
-                    "es": "¿Qué es una bandera de tarjeta de crédito?",
-                    "pt": "O que é uma bandeira de cartão de crédito?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-credit-card-brand",
-                    "es": "que-es-una-bandera-de-tarjeta-de-credito",
-                    "pt": "o-que-e-uma-bandeira-de-cartao-de-credito"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26016,21 +26047,6 @@
                     "en": "payment-provider-protocol",
                     "es": "payment-provider-protocol",
                     "pt": "payment-provider-protocol"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is the role of financial agents in the payment flow of an application in Brazil?",
-                    "es": "¿Cuál es el papel de los agentes financieros en el flujo de pago de un pedido en Brasil?",
-                    "pt": "Qual é o papel dos agentes financeiros no fluxo de pagamento de um pedido no Brasil?"
-                  },
-                  "slug": {
-                    "en": "what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil",
-                    "es": "cual-es-la-diferencia-entre-adquirente-bandera-gateway-y-sub-adquirente-en-brasil",
-                    "pt": "diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -30407,21 +30423,6 @@
                   "children": [
                     {
                       "name": {
-                        "en": "Add 3DS support to the integration with Adyen",
-                        "es": "Añadir soporte a 3DS en la integración con Adyen",
-                        "pt": "Adicionar suporte a 3DS na integração com a Adyen"
-                      },
-                      "slug": {
-                        "en": "add-3ds-support-to-the-integration-with-adyen",
-                        "es": "anadir-soporte-a-3ds-en-la-integracion-con-adyen",
-                        "pt": "adicionando-suporte-a-3ds-na-integracao-com-a-adyen"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
                         "en": "Setting up 3DS 2 authentication flow",
                         "es": "Configurar flujo de autenticación 3DS 2",
                         "pt": "Configurar fluxo de autenticação 3DS 2"
@@ -34151,21 +34152,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Adding ticket creation fields in Zendesk",
-                    "es": "Agregando campos de creación de ticket en Zendesk",
-                    "pt": "Adicionando campos de criação de ticket no Zendesk"
-                  },
-                  "slug": {
-                    "en": "adding-ticket-creation-fields-in-zendesk",
-                    "es": "agregando-campos-de-creacion-de-ticket-en-zendesk",
-                    "pt": "adicionando-campos-de-criacao-de-ticket-no-zendesk"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Adding Discord as a channel",
                     "es": "Agregar Discord como un canal",
                     "pt": "Adicionando o Discord como um canal"
@@ -34633,7 +34619,7 @@
                   "name": {
                     "en": "WhatsApp: How to create template messages",
                     "es": "WhatsApp: Cómo crear mensajes de plantilla",
-                    "pt": "Whatsapp: Como criar Template Messages"
+                    "pt": "WhatsApp: Como criar Template Messages"
                   },
                   "slug": {
                     "en": "whatsapp-how-to-create-template-messages",
@@ -34654,21 +34640,6 @@
                     "en": "whatsapp-vtex-cx-platform-integration",
                     "es": "whatsapp-integracion-con-vtex-cx-platform",
                     "pt": "whatsapp-integracao-com-o-vtex-cx-platform"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Zendesk - human support",
-                    "es": "Zendesk - atención humana",
-                    "pt": "Zendesk - Atendimento Humano"
-                  },
-                  "slug": {
-                    "en": "zendesk-human-support",
-                    "es": "zendesk-atencion-humana",
-                    "pt": "zendesk-atendimento-humano"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36328,82 +36299,6 @@
                     "en": "releases-module-beta",
                     "es": "modulo-de-lanzamientos-beta",
                     "pt": "modulo-lancamentos-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Shipping Beta",
-                "es": "Envío Beta",
-                "pt": "Envio Beta"
-              },
-              "slug": {
-                "en": "shipping-beta-subcategory",
-                "es": "envio-beta-subcategoria",
-                "pt": "envio-beta-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Activating Delivery Promise",
-                    "es": "Activar Delivery Promise",
-                    "pt": "Ativar o Delivery Promise"
-                  },
-                  "slug": {
-                    "en": "activate-delivery-promise",
-                    "es": "activar-delivery-promise",
-                    "pt": "ativar-delivery-promise"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Delivery Promise (Beta)",
-                    "es": "Delivery Promise (beta)",
-                    "pt": "Delivery Promise (Beta)"
-                  },
-                  "slug": {
-                    "en": "delivery-promise-beta",
-                    "es": "delivery-promise-beta",
-                    "pt": "delivery-promise-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Delivery Promise: FAQ",
-                    "es": "Delivery Promise: FAQ",
-                    "pt": "Delivery Promise: FAQ"
-                  },
-                  "slug": {
-                    "en": "delivery-promise-faq",
-                    "es": "delivery-promise-faq",
-                    "pt": "delivery-promise-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Delivery Options (Beta)",
-                    "es": "Opciones de envío (beta)",
-                    "pt": "Opções de envio (Beta)"
-                  },
-                  "slug": {
-                    "en": "delivery-options-beta",
-                    "es": "opciones-de-envio-beta",
-                    "pt": "opcoes-de-envio-beta"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -39300,13 +39195,13 @@
             {
               "name": {
                 "en": "Seller account created with incorrect edition/sponsor during onboarding",
-                "es": "Cuenta de vendedor creada con edición/patrocinador incorrecto durante la incorporación",
-                "pt": "Conta de vendedor criada com edição/patrocinador incorreto durante a integração"
+                "es": "Cuenta de vendedor creada con edición/patrocinador incorrecto durante el proceso de incorporación.",
+                "pt": "Conta de vendedor criada com edição/patrocinador incorretos durante o processo de integração."
               },
               "slug": {
                 "en": "seller-account-created-with-incorrect-editionsponsor-during-onboarding",
-                "es": "cuenta-de-vendedor-creada-con-edicionpatrocinador-incorrecto-durante-la-incorporacion",
-                "pt": "conta-de-vendedor-criada-com-edicaopatrocinador-incorreto-durante-a-integracao"
+                "es": "cuenta-de-vendedor-creada-con-edicionpatrocinador-incorrecto-durante-el-proceso-de-incorporacion",
+                "pt": "conta-de-vendedor-criada-com-edicaopatrocinador-incorretos-durante-o-processo-de-integracao"
               },
               "origin": "",
               "type": "markdown",
@@ -62615,12 +62510,12 @@
             },
             {
               "name": {
-                "en": "Gift Card HUB accepts Invalid/Empty ID in response to create transaction",
+                "en": "Gift Card HUB acepta un identificador no válido o vacío al intentar crear una transacción",
                 "es": "Gift Card HUB acepta un identificador no válido o vacío al intentar crear una transacción",
                 "pt": "O Gift Card HUB aceita um ID inválido/vazio ao criar uma transação"
               },
               "slug": {
-                "en": "gift-card-hub-accepts-invalidempty-id-in-response-to-create-transaction",
+                "en": "",
                 "es": "gift-card-hub-acepta-un-identificador-no-valido-o-vacio-al-intentar-crear-una-transaccion",
                 "pt": "o-gift-card-hub-aceita-um-id-invalidovazio-ao-criar-uma-transacao"
               },
@@ -63328,6 +63223,21 @@
                 "en": "orders-created-with-empty-userprofileid",
                 "es": "pedidos-creados-con-userprofileid-vacio",
                 "pt": "pedidos-criados-com-userprofileid-vazio"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Gift card orders stuck after invoicing (provider transaction ID missing at authorization)",
+                "es": "Los pedidos de tarjetas de regalo se quedan bloqueados después de la facturación (falta el ID de transacción del proveedor en la autorización).",
+                "pt": "Pedidos de vale-presente ficam retidos após a emissão da fatura (ID da transação do fornecedor ausente na autorização)."
+              },
+              "slug": {
+                "en": "gift-card-orders-stuck-after-invoicing-provider-transaction-id-missing-at-authorization",
+                "es": "los-pedidos-de-tarjetas-de-regalo-se-quedan-bloqueados-despues-de-la-facturacion-falta-el-id-de-transaccion-del-proveedor-en-la-autorizacion",
+                "pt": "pedidos-de-valepresente-ficam-retidos-apos-a-emissao-da-fatura-id-da-transacao-do-fornecedor-ausente-na-autorizacao"
               },
               "origin": "",
               "type": "markdown",
