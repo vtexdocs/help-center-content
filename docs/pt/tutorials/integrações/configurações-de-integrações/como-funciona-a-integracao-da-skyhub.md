@@ -143,7 +143,7 @@ Os pedidos na SkyHub possuem status próprios, conforme a tabela a seguir. Para 
 
 A VTEX recebe um _feed_ de pedidos da SkyHub e integra apenas aqueles que estão no status `New` ou `Approved`. Nenhum outro status além desses dois será aceito para integrar um pedido. Os pedidos são integrados na VTEX com os mesmos IDs usados pela SkyHub.
 
-Caso um pedido não integre na primeira tentativa, existe uma retentativa automática programada para erros não mapeados pela integração. Em casos de erros conhecidos, é necessário resolvê-los com ações manuais. Para mais informações, veja [Erros de integração de pedidos da B2W](/pt/docs/tutorials/erros-de-integracao-de-pedidos-da-b2w).
+Caso um pedido não integre na primeira tentativa, existe uma retentativa automática programada para erros não mapeados pela integração. Em casos de erros conhecidos, é necessário resolvê-los com ações manuais. Para mais informações, veja [Erros de integração de pedidos da B2W](/pt/troubleshooting/erros-de-integracao-de-pedidos-da-b2w).
 
 ### Interagir com pedido
 
@@ -181,4 +181,4 @@ No caso de uma solução de terceiros fazer o cálculo de frete ou no caso de ut
 
 - [Integração com SkyHub/B2W](/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk)
 - [Configurar integração de lojas físicas com a B2W](/pt/docs/tutorials/configurar-integracao-de-lojas-fisicas-com-a-b2w)
-- [Erros de integração de pedidos da B2W](/pt/docs/tutorials/erros-de-integracao-de-pedidos-da-b2w)
+- [Erros de integração de pedidos da B2W](/pt/troubleshooting/erros-de-integracao-de-pedidos-da-b2w)

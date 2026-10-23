@@ -46,7 +46,7 @@ VTEX also proactively initiates incident management in a preventive manner to av
 
 ## 4. Communication
 
-This procedure includes an integrated communication plan that is applied throughout all phases of the response. VTEX notifies customers who may have been affected by the incident within 24 hours of confirming the incident.
+This procedure includes an integrated communication plan that is applied throughout all phases of the response. VTEX notifies customers who may have been affected by the incident within 72 hours of confirming the incident.
 
 ## 5. Post-incident activities
 
