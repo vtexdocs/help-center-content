@@ -70,7 +70,7 @@ O `checkout-instore-custom.js` é o arquivo usado para personalizar as configura
 - `search.vtexSearch`: quando configurado como `true`, usa o [**Intelligent Search**](https://help.vtex.com/pt/docs/tutorials/intelligent-search-visao-geral). Quando `false` ou ausente do arquivo, usa o [**VTEX Search (Legado)**](https://help.vtex.com/pt/docs/tutorials/como-funciona-vtex-search-legado). Os filtros facetados (`search.filtersEnabled`) e a regionalização (`search.regionalizationEnabled`) dependem desta flag estar configurada como `true`.
 - `search.filtersEnabled`: habilita filtros facetados na interface de busca. Só tem efeito quando `search.vtexSearch` está configurada como `true`.
 - `search.regionalizationEnabled`: ativa a [busca regionalizada](https://help.vtex.com/pt/docs/tutorials/regionalizacao). Só tem efeito quando `search.vtexSearch` está configurada como `true`.
-- `search.alternateIdRegex`: expressão regular (regex) usada para reconhecer IDs alternativos de SKU, como o código de barras.
+- `search.alternateIdRegex`: expressão regular (regex) usada para reconhecer IDs alternativos de SKU, como códigos de barras.
 
 ## Estoque e venda sem estoque
 
