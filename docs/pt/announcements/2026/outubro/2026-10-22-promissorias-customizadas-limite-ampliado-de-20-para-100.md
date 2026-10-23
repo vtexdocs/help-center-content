@@ -20,7 +20,7 @@ Agora sua loja pode configurar até 100 promissórias customizadas. Com essa mel
 
 ## O que mudou?
 
-Antes, era possível configurar até 20 promissórias customizadas. Agora, você pode configurar até 100 na seção **Promissórias**, em **Configurações da loja > Pagamentos > Configurações > Pagamentos customizados**.
+Antes, era possível configurar até 20 promissórias customizadas. Agora, você pode configurar até 100 na seção **Promissórias** do VTEX Admin, em **Configurações da loja > Pagamentos > Configurações > Pagamentos customizados**.
 
 A forma de configurar cada promissória não muda e está descrita em [Configurar pagamentos com Promissória](https://help.vtex.com/pt/docs/tutorials/configurar-pagamentos-com-promissoria).
 
