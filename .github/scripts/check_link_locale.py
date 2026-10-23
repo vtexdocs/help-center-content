@@ -46,10 +46,8 @@ def load_navigation():
     if local_path and os.path.isfile(local_path):
         with open(local_path, "r", encoding="utf-8") as f:
             return json.load(f)
-    # The token is required because the repo is private; raw.githubusercontent.com returns 404 without it
-    request = urllib.request.Request(NAVIGATION_URL, headers={"Authorization": f"token {GITHUB_TOKEN}"})
     try:
-        with urllib.request.urlopen(request) as resp:
+        with urllib.request.urlopen(NAVIGATION_URL) as resp:
             return json.load(resp)
     except (urllib.error.URLError, urllib.error.HTTPError) as e:
         print(f"Failed to fetch navigation: {e}")
