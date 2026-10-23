@@ -3,7 +3,7 @@ title: "Assigning and testing agents"
 id: 41beBpRcBouxMywt6dUW2z
 status: PUBLISHED
 createdAt: 2025-07-09T18:14:18.864Z
-updatedAt: 2026-06-18T00:00:00.000Z
+updatedAt: 2026-09-18T00:00:00.000Z
 publishedAt: 2025-09-11T13:21:03.550Z
 firstPublishedAt: 2025-07-29T16:38:35.307Z
 contentType: tutorial
@@ -24,6 +24,7 @@ This article is divided into the following sections:
 - [Assigning an agent to the team](#assigning-an-agent-to-the-team)
 - [Removing an agent](#removing-an-agent)
 - [Testing an agent](#testing-an-agent)
+- [Configuring constants for custom agents](#configuring-constants-for-custom-agents)
 
 ## Assigning an agent to the team
 
@@ -44,9 +45,19 @@ To assign a new agent to your store, follow these steps:
 8. In **Assign {Agent name}**, in the **System selection** section, select one of the available options and click `Next`.
 9. In **MCP selection**, select one of the available options to define the agent's behavior.
 10. In **Configure {System name} MCP**, if available, enter or select the agent's parameters. Some agents don't have configurable parameters.
-11. In **Review the setup and enter credentials**, review the information, complete the required fields, and click `Finish`.
+11. For custom agents, under **Constants**, select the constants defined via CLI and enter the desired values. Learn more in [Configuring constants for custom agents](#configuring-constants-for-custom-agents).
+12. In **Review the setup and enter credentials**, review the information, complete the required fields, and click `Finish`.
 
+> ℹ️ Custom agent cards display the date and time the agent was created or last updated. Official agents don't display this information.
 After completing these steps, the agent will be displayed in the **Assigned agents** section of the **My agents** page.
+
+## Configuring constants for custom agents
+
+Constants are reusable configuration values, defined at the agent level and shared across all its tools, such as environment URLs or store identifiers. They're created in the agent's code and sent to the platform via the [VTEX CX Platform CLI](https://weni-ai.github.io/weni-cli/core-concepts/constants/).
+
+When assigning a custom agent, you can view the available constants, define values for each, and apply them directly in the interface without needing the CLI.
+
+> ℹ️ Constants are different from credentials. Credentials are confidential information, such as API keys, that the agent uses to trigger a specific tool. Constants are configuration values shared across the agent's tools.
 
 ## Removing an agent
 
