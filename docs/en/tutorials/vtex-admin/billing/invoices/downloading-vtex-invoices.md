@@ -3,7 +3,7 @@ title: 'Downloading VTEX invoices'
 id: tutorials_653
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:30.802Z
-updatedAt: 2026-08-11T00:00:00.000Z
+updatedAt: 2026-09-28T00:00:00.000Z
 publishedAt: 2021-03-22T20:48:29.214Z
 firstPublishedAt: 2017-04-27T23:03:40.557Z
 contentType: tutorial
@@ -33,6 +33,22 @@ To generate an invoice, follow these steps:
 2. Click **Billing > Invoices**.
 3. Find the desired invoice and click **Open invoice**. The invoice will open in a new tab.
 4. (Optional) To save the file as a PDF, use the download or print options available in your browser.
+
+### Downloading the complemento de pago
+
+> ⚠️ The instructions in this section apply only to customers billed in Mexico.
+
+The complemento de pago (official name of a Mexican tax document) proves that a payment has been made. It's required by the Mexican Tax Administration Service (SAT) regulation for invoices issued with the installment or deferred payment method (PPD).
+
+The document becomes available in the VTEX Admin once it's issued and successfully returned by the applicable tax integration flow. It's also sent automatically by email shortly after it's issued.
+
+To download the complemento de pago, follow these steps:
+
+1. In VTEX Admin, click your avatar — identified by the initial letter of your email — in the top right corner of the screen.
+2. Click **Billing > Invoices**.
+3. Find the desired invoice and click **Open Invoice**.
+
+If the complemento de pago hasn't arrived by email and isn't available in the VTEX Admin, [open a ticket with financial support](https://help.vtex.com/docs/tutorials/opening-tickets-to-vtex-support#financial-and-commercial-support) to request the document.
 
 ### Generating a boleto (Brazil only)
 
