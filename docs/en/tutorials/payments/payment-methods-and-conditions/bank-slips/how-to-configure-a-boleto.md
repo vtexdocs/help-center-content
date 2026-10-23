@@ -18,7 +18,7 @@ On VTEX, your store can sell using boleto, a Brazilian payment method. To config
 
 Before configuring a boleto, make sure your store has:
 
-- A contract with a bank or payment provider that processes boleto. To find out which providers are available in your operation, go to [List of payment providers by country](/docs/tutorials/list-of-payment-providers-by-country).
+- A contract with a bank or payment provider that processes boleto. To find out which providers are available in your operation, go to [List of payment providers by country](/en/docs/tutorials/list-of-payment-providers-by-country).
 - The credentials provided by the bank or payment provider, required to add the provider in the VTEX Admin.
 - Permission to access the payments module in the VTEX Admin.
 
@@ -32,7 +32,7 @@ Boleto is processed by the payment provider added to your store. To add this pro
 4. Complete the form fields with the data provided by your payment provider or bank.
 5. Click `Save`.
 
-> ℹ️ The fields displayed in the form vary depending on the provider. For instructions on each provider, open the corresponding article in the [Payment provider list by country](/docs/tutorials/list-of-payment-providers-by-country).
+> ℹ️ The fields displayed in the form vary depending on the provider. For instructions on each provider, open the corresponding article in the [Payment provider list by country](/en/docs/tutorials/list-of-payment-providers-by-country).
 
 ## Configuring payment conditions
 
@@ -43,7 +43,7 @@ To create the boleto payment condition that will be displayed at checkout, follo
 3. In **Boleto**, select the option **Boleto Bancário**.
 4. Activate the condition in the **Status** field.
 5. In **Process with provider**, select the previously configured provider.
-6. (Optional) Define [special payment conditions](/docs/tutorials/special-conditions) for boleto.
+6. (Optional) Define [special payment conditions](/en/docs/tutorials/special-conditions) for boleto.
 7. Click `Save`.
 
 ## Validating the configuration
@@ -57,7 +57,7 @@ If the option isn't displayed after this target, see [Troubleshooting](#troubles
 
 Some payment providers allow you to set the boleto expiration date, which determines how many days the customer has to pay it, directly on the provider's configuration page. When the provider doesn't offer this field in the VTEX Admin, you'll need to handle the configuration directly with the provider's support team.
 
-The cancellation period for an order with an unpaid boleto depends on the boleto's validity period and the inventory reservation release period. To learn how both deadlines are calculated, go to [How long does it take to cancel an order with an unpaid "boleto"?](/docs/tutorials/how-long-does-it-take-to-cancel-an-order-with-an-unpaid-boleto).
+The cancellation period for an order with an unpaid boleto depends on the boleto's validity period and the inventory reservation release period. To learn how both deadlines are calculated, go to [How long does it take to cancel an order with an unpaid "boleto"?](/en/docs/tutorials/how-long-does-it-take-to-cancel-an-order-with-an-unpaid-boleto).
 
 ## Troubleshooting
 
@@ -69,7 +69,7 @@ If the boleto isn't displayed at checkout after 10 minutes, check the following 
 
 ## Next steps
 
-- [How are the payments made through boletos approved?](/docs/tutorials/how-are-the-payments-made-through-boletos-approved)
-- [Approving payment of the bank payment slip](/docs/tutorials/approving-payment-of-the-bank-payment-slip)
-- [How long does it take to cancel an order with an unpaid "boleto"?](/docs/tutorials/how-long-does-it-take-to-cancel-an-order-with-an-unpaid-boleto)
-- [Changing the logo on the boleto](/en/docs/tutorials/alterar-o-logotipo-do-boleto)
+- [How are the payments made through boletos approved?](/en/docs/tutorials/how-are-the-payments-made-through-boletos-approved)
+- [Approving payment of the bank payment slip](/en/docs/tutorials/approving-payment-of-the-bank-payment-slip)
+- [How long does it take to cancel an order with an unpaid "boleto"?](/en/docs/tutorials/how-long-does-it-take-to-cancel-an-order-with-an-unpaid-boleto)
+- [Changing the logo on the boleto](/en/docs/tutorials/changing-the-logo-on-the-boleto)
