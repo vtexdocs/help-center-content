@@ -54,6 +54,21 @@
                 },
                 {
                   "name": {
+                    "en": "Custom notes payable: limit increased from 20 to 100",
+                    "es": "Pagarés personalizados: límite ampliado de 20 a 100",
+                    "pt": "Promissórias customizadas: limite ampliado de 20 para 100"
+                  },
+                  "slug": {
+                    "en": "2026-10-22-custom-promissory-notes-limit-increased-from-20-to-100",
+                    "es": "2026-10-22-pagares-personalizados-limite-ampliado-de-20-a-100",
+                    "pt": "2026-10-22-promissorias-customizadas-limite-ampliado-de-20-para-100"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Delivery Promise: now available to all merchants",
                     "es": "Delivery Promise: ahora disponible para todos los retailers",
                     "pt": "Delivery Promise: agora disponível para todos os lojistas"
@@ -212,37 +227,6 @@
                     "en": "2026-10-06-vtex-cx-platform-support-for-bsuid-and-whatsapp-usernames",
                     "es": "2026-10-06-vtex-cx-platform-soporte-para-bsuid-y-nombres-de-usuario-de-whatsapp",
                     "pt": "2026-10-06-vtex-cx-platform-suporte-a-bsuid-e-usernames-do-whatsapp"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Outubro",
-                "es": "Outubro",
-                "pt": "Outubro"
-              },
-              "slug": {
-                "en": "outubro",
-                "es": "outubro",
-                "pt": "2026-outubro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Promissórias customizadas: limite ampliado de 20 para 100",
-                    "es": "Promissórias customizadas: limite ampliado de 20 para 100",
-                    "pt": "Promissórias customizadas: limite ampliado de 20 para 100"
-                  },
-                  "slug": {
-                    "en": "",
-                    "es": "",
-                    "pt": "2026-10-22-promissorias-customizadas-limite-ampliado-de-20-para-100"
                   },
                   "origin": "",
                   "type": "markdown",
