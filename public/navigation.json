@@ -24350,13 +24350,13 @@
                 },
                 {
                   "name": {
-                    "en": "VTEX Sales App: configurar o arquivo checkout-instore-custom.js",
-                    "es": "VTEX Sales App: configurar o arquivo checkout-instore-custom.js",
+                    "en": "VTEX Sales App: configuring the checkout-instore-custom.js file",
+                    "es": "VTEX Sales App: configurar el archivo checkout-instore-custom.js",
                     "pt": "VTEX Sales App: configurar o arquivo checkout-instore-custom.js"
                   },
                   "slug": {
-                    "en": "",
-                    "es": "",
+                    "en": "vtex-sales-app-configuring-the-checkout-instore-custom-js-file",
+                    "es": "vtex-sales-app-configurar-el-archivo-checkout-instore-custom-js",
                     "pt": "vtex-sales-app-configurar-o-arquivo-checkout-instore-customjs"
                   },
                   "origin": "",
