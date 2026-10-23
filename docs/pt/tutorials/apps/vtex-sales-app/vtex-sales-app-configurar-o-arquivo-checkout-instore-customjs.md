@@ -147,7 +147,7 @@ noteAsVendorCode: {
 
 ## Tipos de identificação do cliente
 
-- `enableIdentificationTypes`: define quais tipos de identificação do cliente ficam disponíveis no **Sales App**.
+- `enableIdentificationTypes`: define quais tipos de identificação do cliente ficam disponíveis no **Sales App**. Configure cada propriedade como `true` para habilitar o método ou como `false` para desabilitá-lo.
   - `QRCode`: quando configurado como `true`, permite que o cliente identifique-se usando o QR Code. Quando `false`, não permite.
   - `CPF`: quando configurado como `true`, permite que o cliente identifique-se usando o CPF. Quando `false`, não permite.
   - `Email`: quando configurado como `true`, permite que o cliente identifique-se usando o email. Quando `false`, não permite.
