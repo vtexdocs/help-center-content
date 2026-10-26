@@ -44012,12 +44012,12 @@
             {
               "name": {
                 "en": "Catalog Filters Timeout",
-                "es": "Tiempo de espera de los filtros del catálogo",
+                "es": "Los filtros del catálogo tienen un tiempo de espera agotado.",
                 "pt": "Tempo limite dos filtros do catálogo"
               },
               "slug": {
                 "en": "catalog-filters-timeout",
-                "es": "tiempo-de-espera-de-los-filtros-del-catalogo",
+                "es": "los-filtros-del-catalogo-tienen-un-tiempo-de-espera-agotado",
                 "pt": "tempo-limite-dos-filtros-do-catalogo"
               },
               "origin": "",
@@ -62503,21 +62503,6 @@
                 "en": "payments-gateway-does-not-correctly-send-subaccount-information-in-the-payload-to-the-connector",
                 "es": "payments-gateway-no-envia-correctamente-la-informacion-de-la-subcuenta-en-la-carga-util-al-conector",
                 "pt": "o-gateway-de-pagamentos-nao-envia-corretamente-as-informacoes-da-subconta-na-carga-util-para-o-conector"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Gift Card HUB acepta un identificador no válido o vacío al intentar crear una transacción",
-                "es": "Gift Card HUB acepta un identificador no válido o vacío al intentar crear una transacción",
-                "pt": "O Gift Card HUB aceita um ID inválido/vazio ao criar uma transação"
-              },
-              "slug": {
-                "en": "",
-                "es": "gift-card-hub-acepta-un-identificador-no-valido-o-vacio-al-intentar-crear-una-transaccion",
-                "pt": "o-gift-card-hub-aceita-um-id-invalidovazio-ao-criar-uma-transacao"
               },
               "origin": "",
               "type": "markdown",
