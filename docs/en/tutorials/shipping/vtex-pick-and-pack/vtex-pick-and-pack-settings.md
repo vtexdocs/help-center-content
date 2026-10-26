@@ -28,7 +28,7 @@ In this section, you can configure settings for orders processed by VTEX Pick an
 
 ![vtex-pick-and-pack-settings_5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_5.png)
 
-* **Download orders from OMS:** Allows you to download orders from the [VTEX Orders module](https://help.vtex.com/docs/tutorials/orders-overview) to Pick and Pack. Orders are only downloaded when the items' warehouse is associated with a [fulfillment location](#fulfillment-locations).
+* **Download orders from OMS:** Allows you to download orders from the [VTEX Orders module](https://help.vtex.com/en/docs/tutorials/orders-overview) to Pick and Pack. Orders are only downloaded when the items' warehouse is associated with a [fulfillment location](#fulfillment-locations).
 
 ### Filters
 
@@ -40,11 +40,11 @@ The following filters determine which orders will be downloaded:
 * **Shipping methods**: Shipping methods used in the orders to be downloaded.
 * **Shipment type**: Shipment types used in the orders to be downloaded (`SHIP_FROM_STORE`, `PICKUP_IN_STORE`, and `DRIVE_THRU`).
 * **Order tags**: Restricts the download to orders with specific tags.
-* **Sales channels**: [Sales channels](https://help.vtex.com/docs/tutorials/how-trade-policies-work) applied to the orders to be downloaded.
+* **Sales channels**: [Sales channels](https://help.vtex.com/en/docs/tutorials/how-trade-policies-work) applied to the orders to be downloaded.
 
 ### Submit changes to the OMS
 
-This option allows you to submit the changes (replacements, rejections, or adjustments) made to handled orders in the [VTEX Orders module](https://help.vtex.com/docs/tutorials/orders-overview). For the changes to be submitted, the order's worksheet must be completed and the order can't have pending picking or packing in the OMS.
+This option allows you to submit the changes (replacements, rejections, or adjustments) made to handled orders in the [VTEX Orders module](https://help.vtex.com/en/docs/tutorials/orders-overview). For the changes to be submitted, the order's worksheet must be completed and the order can't have pending picking or packing in the OMS.
 
 ### Automatic removal of invoiced orders
 
@@ -67,7 +67,7 @@ Click `Save` to save the changes made in the tab.
 
 ## Worksheets
 
-In this section, you can configure the settings that will be applied to store [worksheets](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-worksheets). A worksheet consists of a single order or a set of orders that will be processed by the Pick and Pack flow simultaneously.
+In this section, you can configure the settings that will be applied to store [worksheets](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-worksheets). A worksheet consists of a single order or a set of orders that will be processed by the Pick and Pack flow simultaneously.
 
 ### General
 
@@ -77,8 +77,8 @@ In this tab, you choose how orders are grouped into worksheets and which feature
 
 * **Single order**: Limits each worksheet to a single order.
 * **Multi order**: Allows a worksheet to group more than one order.
-* **Worksheet tags**: Custom tags that help identify worksheets. Tags can be viewed on the [pending worksheets](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-mobile#pending-worksheets) screen in the Pick and Pack mobile app.
-* **Allow worksheet notes**: Enables the picker [to add notes to the worksheet](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-mobile#pending-worksheets).
+* **Worksheet tags**: Custom tags that help identify worksheets. Tags can be viewed on the [pending worksheets](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-mobile#pending-worksheets) screen in the Pick and Pack mobile app.
+* **Allow worksheet notes**: Enables the picker [to add notes to the worksheet](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-mobile#pending-worksheets).
 * **Allow support chat**: Enables a chat between the picker and the merchant through the VTEX Admin.
 * **Activate picking list**: List that contains the necessary worksheet information for the picker to pick items. This information can be printed in label format.
 
@@ -106,20 +106,20 @@ In this tab, you define what the picker can see and do while picking items, such
 
 ![vtex-pick-and-pack-settings_3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_3.png)
 
-* **Show order information tab**: Displays the order information tab to the picker in the worksheet, both in the [VTEX Admin](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-mobile#worksheets) and in the [Pick and Pack mobile app](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-mobile#pending-worksheets).
+* **Show order information tab**: Displays the order information tab to the picker in the worksheet, both in the [VTEX Admin](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-worksheets) and in the [Pick and Pack mobile app](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-mobile#pending-worksheets).
 * **Show customer information per order**: Displays the customer information tab to the picker.
-* **Allow item notes**: Allows the picker to [add notes to order items during picking](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-mobile#pending-worksheets).
+* **Allow item notes**: Allows the picker to [add notes to order items during picking](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-mobile#pending-worksheets).
 * **Ask confirmation to pick items**: Enables extra validation in the Pick and Pack app, requiring the picker to confirm an item before picking it.
 * **Activate approval flow**: Requires admin approval for picking items.
-* **Allow adding new SKUs**: Allows the picker to [add new items during picking](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-mobile#add-new-products-to-an-order).
-* **Allow item replacements**: Allows the picker to [replace items during picking](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-mobile#replacing-items).
-* **Replacement reasons**: Reasons for [item replacement](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-mobile#replacing-items) that the picker will be able to select in the [Pick and Pack mobile app](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-mobile). The replacement reasons you add aren't translated when the picker selects another language in the Pick and Pack mobile app.
-* **Allow item rejections**: Allows the picker to [reject items during picking](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#recusar-itens).
-* **Rejection reasons**: Reasons for [rejecting items](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-mobile#rejecting-items) that the picker will be able to select in the [Pick and Pack mobile app](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-mobile). The rejection reasons you add aren't translated when the picker selects another language in the Pick and Pack mobile app.
+* **Allow adding new SKUs**: Allows the picker to [add new items during picking](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-mobile#add-new-products-to-an-order).
+* **Allow item replacements**: Allows the picker to [replace items during picking](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-mobile#replacing-items).
+* **Replacement reasons**: Reasons for [item replacement](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-mobile#replacing-items) that the picker will be able to select in the [Pick and Pack mobile app](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-mobile). The replacement reasons you add aren't translated when the picker selects another language in the Pick and Pack mobile app.
+* **Allow item rejections**: Allows the picker to [reject items during picking](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-mobile#rejecting-items).
+* **Rejection reasons**: Reasons for [rejecting items](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-mobile#rejecting-items) that the picker will be able to select in the [Pick and Pack mobile app](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-mobile). The rejection reasons you add aren't translated when the picker selects another language in the Pick and Pack mobile app.
 * **Allow item price changes**: Allows the picker to change the price of items during picking.
-* **Price change reasons**: Price change reasons that the picker will be able to select in the [Pick and Pack mobile app](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-mobile). The price change reasons you add aren't translated when the picker selects another language in the Pick and Pack mobile app.
+* **Price change reasons**: Price change reasons that the picker will be able to select in the [Pick and Pack mobile app](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-mobile). The price change reasons you add aren't translated when the picker selects another language in the Pick and Pack mobile app.
 * **Threshold for changes to item prices**: Limit for changes to item price in an order. **100%** is the maximum amount that can be added to the original price when making a change (calculated over the original item price). `-100%` is the minimum.
-* **Allow item quantity changes**: Allows the picker to [change the quantity of items during picking](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-mobile#change-product-quantity).
+* **Allow item quantity changes**: Allows the picker to [change the quantity of items during picking](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-mobile#change-product-quantity).
 * **Threshold for changes to item quantities**: Quantity change limits for items in an order. 100% is the maximum value that can be added to the original quantity when making a change, calculated over the original item quantity. -100% is the minimum.
 * **Limit order total changes**: Limits the changes that a picker can make to the order total. 100% is the maximum amount that can be added to the final order total when making a change, calculated over the original order value. -100% is the minimum.
 * **Threshold for total changes to an order**: Maximum number of changes (replacements, rejections, and new items) that can be made to an order.
@@ -136,7 +136,7 @@ In this tab, you activate the packing process and configure packaging and packin
 
 ![vtex-pick-and-pack-settings_4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_4.png)![vtex-pick-and-pack-settings_5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_5.png)
 
-* **Activate packing process**: Enables the [packing flow](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#packing) performed by the picker.
+* **Activate packing process**: Enables the [packing flow](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-mobile#packing) performed by the picker.
 * **Activate packages report**: Allows displaying a report on packages. This option is currently deactivated.
 * **Activate packing labels**: Allows generating labels for packing orders and shows the label settings on the page.
 * **Packaging options**: Settings for the packaging that will be used during packing. The following options are available:
@@ -226,7 +226,7 @@ In this tab, you can define the item details that will be shown in the mobile ap
 
 ![vtex-pick-and-pack-settings_15](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_15.png)
 
-* **Item card data in picking app**: Information about the products that will be displayed on the item card in the [Pick and Pack mobile app](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-mobile).
+* **Item card data in picking app**: Information about the products that will be displayed on the item card in the [Pick and Pack mobile app](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-mobile).
 * **Activate item transfer**: Allows fulfilling an item from a location other than the originally specified fulfillment location. This feature is in testing and may show inconsistencies during use.
 * **Activate item location**: Assigns a unique code to each SKU to make it easier to locate items in the store or warehouse. For more information about this setting, see the [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-api).
 * **Codes**: Item location code. For more information about this setting, see the [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-api).
@@ -263,7 +263,7 @@ To define the available categories for a fulfillment location, follow the steps 
 
 To remove a selected category, click the delete icon <i class="fas fa-trash" aria-hidden="true"></i>.
 
-To export the information of the categories that will be displayed in the [Pick and Pack mobile app](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-mobile), follow these steps:
+To export the information of the categories that will be displayed in the [Pick and Pack mobile app](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-mobile), follow these steps:
 
 1. In the VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or type **Settings** in the search bar at the top of the page.
 2. Click the **Categories** tab.
@@ -279,7 +279,7 @@ category_id,name,priority
 * `name`: Category name.
 * `priority`: Priority in the category sort order displayed in the mobile app.
 
-To import information for the selected categories that will be displayed in the [Pick and Pack mobile app](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-mobile), follow the steps below:
+To import information for the selected categories that will be displayed in the [Pick and Pack mobile app](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-mobile), follow the steps below:
 
 1. In the VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or type **Settings** in the search bar at the top of the page.
 2. Click the **Categories** tab.
@@ -290,7 +290,7 @@ To import information for the selected categories that will be displayed in the 
 
 ### Catalog
 
-In this tab, you can bulk update and index the catalog available in the [Pick and Pack mobile app](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-mobile).
+In this tab, you can bulk update and index the catalog available in the [Pick and Pack mobile app](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-mobile).
 
 > ℹ️ During the initial Pick and Pack setup, bulk update the catalog first and then index it.
 
@@ -480,7 +480,7 @@ Orders from all warehouses associated with the same fulfillment location are pro
 
 ## Integration
 
-In this section, you can configure integrations with the [Pick and Pack mobile app](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-mobile).
+In this section, you can configure integrations with the [Pick and Pack mobile app](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-mobile).
 
 ### Webhook
 
