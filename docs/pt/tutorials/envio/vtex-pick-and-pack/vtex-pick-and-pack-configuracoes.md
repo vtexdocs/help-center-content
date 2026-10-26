@@ -1,7 +1,7 @@
 ---
 title: 'VTEX Pick and Pack: Configurações'
 createdAt: 2024-01-05T20:43:38.480Z
-updatedAt: 2026-10-01T00:00:00.000Z
+updatedAt: 2026-10-26T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: vtex-pick-and-pack-settings
