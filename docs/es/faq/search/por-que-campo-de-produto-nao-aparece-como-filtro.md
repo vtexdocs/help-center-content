@@ -4,7 +4,7 @@ excerpt: "Solo los campos Combo, Radio y CheckBox se convierten en filtros de me
 id: frequentlyAskedQuestions_376
 status: PUBLISHED
 createdAt: 2017-04-27T22:36:38.251Z
-updatedAt: 2019-12-31T14:24:57.361Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:57.361Z
 firstPublishedAt: 2017-04-27T23:01:46.278Z
 contentType: frequentlyAskedQuestion

@@ -4,7 +4,7 @@ excerpt: "Los pedidos se pueden cancelar hasta que se facturan. Confirme o recha
 id: LDgtkquNEssyQMYUGcYeO
 status: PUBLISHED
 createdAt: 2017-05-16T23:08:29.742Z
-updatedAt: 2023-03-20T18:38:44.805Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-03-20T18:38:44.805Z
 firstPublishedAt: 2017-05-18T19:20:59.326Z
 contentType: frequentlyAskedQuestion

@@ -34,6 +34,8 @@ Veja a seguir instruções que podem ajudar a solucionar esses problemas no Site
 
 Para entender e corrigir cada erro, consulte as soluções abaixo:
 
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga o Site Editor: envie seu e-mail e ele confirma se a loja roda em Store Framework, verifica se o usuário tem o recurso CMS GraphQL API nos perfis de acesso e abre um ticket para o Suporte VTEX se necessário.
+
 ## O Site Editor não abre
 
 É possível que o seguinte erro ocorra: ao acessar o VTEX Admin, ir para **Storefront** e clicar em **Site Editor**, a página do Site Editor mostra uma tela em branco ou a mensagem `Algo deu errado`.

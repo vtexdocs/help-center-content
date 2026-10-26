@@ -3,7 +3,7 @@ title: "Why don't marketplace orders integrate with my store?"
 id: 275YvF8dyry5KmfY9epoET
 status: PUBLISHED
 createdAt: 2024-06-21T14:24:48.621Z
-updatedAt: 2025-07-31T17:28:33.906Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-07-31T17:28:33.906Z
 firstPublishedAt: 2024-06-21T14:48:49.434Z
 contentType: tutorial

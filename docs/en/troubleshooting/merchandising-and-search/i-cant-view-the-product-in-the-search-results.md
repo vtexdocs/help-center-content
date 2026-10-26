@@ -3,7 +3,7 @@ title: "I can't view the product in the search results"
 id: 2Ry55Fh6JW8v7oKBiB2pH3
 status: PUBLISHED
 createdAt: 2024-07-24T16:39:50.379Z
-updatedAt: 2025-08-14T22:44:25.091Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-08-14T22:44:25.091Z
 firstPublishedAt: 2024-07-24T18:55:15.925Z
 contentType: tutorial

@@ -4,7 +4,7 @@ excerpt: "La edición de SKU falla cuando hay campos inválidos, datos obligator
 id: kcHp9ealgWmmyuMCso2uc
 status: PUBLISHED
 createdAt: 2018-01-22T16:31:52.753Z
-updatedAt: 2019-12-31T14:24:09.716Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:09.716Z
 firstPublishedAt: 2018-01-22T16:45:47.269Z
 contentType: frequentlyAskedQuestion
