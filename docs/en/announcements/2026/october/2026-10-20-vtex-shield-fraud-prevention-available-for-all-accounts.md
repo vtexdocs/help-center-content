@@ -34,7 +34,7 @@ With **Fraud Prevention**, VTEX Shield adds a protection layer specific to this 
 
 Fraud Prevention is available for all accounts, regardless of whether they have the other VTEX Shield features. To access the page, the user needs a [role](https://help.vtex.com/en/docs/tutorials/roles) with the [License Manager resource](https://help.vtex.com/en/docs/tutorials/license-manager-resources) *View transaction attempts*, from the *Transaction Attempts* category of the *Fraud Prevention* product. Learn more about permissions in the [Fraud Prevention](https://help.vtex.com/en/docs/tutorials/fraud-prevention) guide.
 
->ℹ️ To learn about the other [VTEX Shield](https://help.vtex.com/en/docs/tutorials/vtex-shield) features, contact [Commercial Support](https://help.vtex.com/en/docs/tracks/commercial-support). Additional fees may apply. If you're not yet a VTEX client but are interested in this solution, fill out the [contact form](https://vtex.com/en-us/contact-us/).
+> ℹ️ To learn about the other [VTEX Shield](https://help.vtex.com/en/docs/tutorials/vtex-shield) features, contact [Commercial Support](https://help.vtex.com/en/docs/tracks/commercial-support). Additional fees may apply. If you're not yet a VTEX client but are interested in this solution, fill out the [contact form](https://vtex.com/en-us/contact-us/).
 
 Learn more:
 
