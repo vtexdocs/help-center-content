@@ -48,6 +48,29 @@ Puedes navegar por los mensajes con las flechas del teclado y presionar `Enter` 
 
 También es posible configurar mensajes rápidos específicos por departamento. Esta configuración se realiza durante la creación del departamento. Para más información, accede a [Configure Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk).
 
+### Mejorar respuesta con IA
+
+La función **Mejorar respuesta con IA** te permite revisar un mensaje con ayuda de inteligencia artificial antes de enviarlo al contacto. Escribe la respuesta normalmente en el campo de texto y activa la IA para corregir errores, ajustar el tono o reescribir el texto con más claridad, manteniendo el sentido original del mensaje.
+
+> ℹ️ El botón <i class="fas fa-magic" aria-hidden="true"></i> **Mejorar respuesta con IA** solo se habilita cuando hay texto escrito.
+
+Para mejorar una respuesta, sigue estos pasos:
+
+1. En el campo de texto de la conversación, escribe el mensaje que deseas enviar.
+2. Haz clic en <i class="fas fa-magic" aria-hidden="true"></i>`Mejorar respuesta con IA`.
+3. Selecciona la opción de mejora deseada:
+  - `Corregir gramática y ortografía`: Corrige solo errores de digitación, ortografía y gramática.
+  - `Hacer más empática`: Reescribe el mensaje con un tono más amable y acogedor.
+  - `Reescribir con claridad`: Reorganiza el texto para hacerlo más claro y objetivo, con explicaciones más completas.
+4. Espera a que termine el procesamiento.
+
+> ℹ️ Mientras se muestra el mensaje **Mejorando tu respuesta**, puedes hacer clic en <i class="fas fa-times" aria-hidden="true"></i>`Respuesta mejorada` para cancelar la acción.
+
+5. Revisa la nueva versión del mensaje. Si lo prefieres, edita el texto o haz clic en `Original` para volver al mensaje original.
+6. Haz clic en `Enviar`.
+
+> ℹ️ La IA no envía ningún mensaje automáticamente al contacto. La conversación solo se actualiza cuando haces clic en `Enviar`.
+
 ### Transferir chat
 
 La función de transferir chat dirige el contacto a un departamento, cola o representante específico y se puede acceder en el panel de información del contacto. La transferencia puede ser accionada por el agente de IA, cuando esta opción está activada en la configuración, o manualmente por un gerente o administrador. En la transferencia manual, es posible buscar por nombre de un representante, cola o departamento, o seleccionar un destinatario en la lista exhibida. Al confirmar la transferencia, el contacto es encaminado al destinatario elegido.
