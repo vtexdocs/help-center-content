@@ -3,7 +3,7 @@ title: 'Importing Amazon FBA Classic orders'
 id: 2MJZgBen3hpK4xkXqcv8TO
 status: PUBLISHED
 createdAt: 2022-10-07T21:33:29.864Z
-updatedAt: 2024-11-04T21:07:30.839Z
+updatedAt: 2026-10-07T21:45:00.000Z
 publishedAt: 2024-11-04T21:07:30.839Z
 firstPublishedAt: 2022-10-07T21:52:55.581Z
 contentType: tutorial
@@ -19,7 +19,6 @@ There are three types of logistics configuration to fulfill orders placed on Ama
 
 - [Self Ship](#self-ship)  
 - [FBA Classic (Fulfillment by Amazon)](#fba-classic-fulfillment-by-amazon)
-- FBA Onsite, to learn about the program and integration with VTEX, check out the documentation on [Importing FBA Onsite orders](/en/docs/tutorials/importing-amazon-fba-onsite-orders) 
 - DBA (learn more about the program and the integration with VTEX by reading the [Amazon DBA order import](/en/docs/tutorials/importing-amazon-dba-orders) documentation)  
 
 The seller can use Self Ship, FBA, and DBA simultaneously or only one of the logistics options, considering the eligibility of the products for the respective programs. Regardless of using only one or more logistics options, through the VTEX Admin, you can track and manage all orders placed.  

@@ -3,7 +3,7 @@ title: 'Recommendations dashboard (beta)'
 id: 2QIexbD2FSXBxELUnFtg7g
 status: PUBLISHED
 createdAt: 2026-02-20T13:01:10.919Z
-updatedAt: 2026-02-20T13:01:10.919Z
+updatedAt: 2026-10-09T15:18:22.000Z
 publishedAt: 2026-02-20T13:01:10.919Z
 firstPublishedAt: 2025-06-27T20:41:49.041Z
 contentType: tutorial
@@ -25,6 +25,15 @@ To access the dashboard in the VTEX Admin, go to _Storefront > Recommendations_.
 
 - The [Product recommendations](https://help.vtex.com/docs/tutorials/product-recommendations-beta) feature must be enabled in your store.
 - [Recommendation strategies](https://help.vtex.com/docs/tutorials/product-recommendations-beta) must be implemented in your store.
+- You need a [role](https://help.vtex.com/en/docs/tutorials/roles) with the [License Manager resources](https://help.vtex.com/en/docs/tutorials/license-manager-resources) below. Without the *View Recommendations* resource, the **Recommendations** page doesn't open in the VTEX Admin.
+
+  * **Product:** *Recommendations*
+  * **Category:** *Recommendations*
+
+  | Resource | Key | Description |
+  | --- | --- | --- |
+  | *View Recommendations* | `ViewRecommendations` | View the list of recommendations in the Admin panel. |
+  | *View Recommendations metrics* | `ViewRecommendationsMetrics` | View recommendation metrics in the Admin panel. |
 
 ## Overview
 
