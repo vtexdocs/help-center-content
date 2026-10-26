@@ -1,5 +1,5 @@
 ---
-title: "Información general de Live Desk"
+title: 'Información general de Live Desk'
 createdAt: 2025-09-12T16:29:16.322Z
 updatedAt: 2026-08-27T00:00:00.000Z
 contentType: tutorial
