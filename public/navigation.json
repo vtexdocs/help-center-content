@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "VTEX Shield: Fraud Prevention available for all accounts",
+                    "es": "VTEX Shield: Prevención de fraude disponible para todas las cuentas",
+                    "pt": "VTEX Shield: Prevenção contra fraudes disponível para todas as contas"
+                  },
+                  "slug": {
+                    "en": "2026-10-26-vtex-shield-fraud-prevention-available-for-all-accounts",
+                    "es": "2026-10-26-vtex-shield-prevencion-de-fraude-disponible-para-todas-las-cuentas",
+                    "pt": "2026-10-26-vtex-shield-prevencao-contra-fraudes-disponivel-para-todas-as-contas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Native personal data management in Master Data v2",
                     "es": "Gestión nativa de datos personales en Master Data v2",
                     "pt": "Gestão nativa de dados pessoais no Master Data v2"
