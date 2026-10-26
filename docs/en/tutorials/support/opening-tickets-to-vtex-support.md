@@ -138,7 +138,7 @@ In this initial step, you must authenticate your access to VTEX Support. Follow 
 
    - Access by _token_, sent to the email registered with your store.
    - Sign in with Google.
-   - Log in with your email and password, which requires [two-factor authentication](/en/tutorial/habilitar-login-por-autenticacao-de-2-fatores) via the app or SMS.
+   - Log in with your email and password, which requires [two-factor authentication](/en/docs/tutorials/enabling-2-factor-authentication-login) via the app or SMS.
 
 Once authenticated, you'll be directed to the next step.
 
