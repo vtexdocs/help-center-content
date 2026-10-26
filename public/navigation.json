@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "VTEX Shield: Fraud Prevention available for all accounts",
+                    "es": "VTEX Shield: Fraud Prevention available for all accounts",
+                    "pt": "VTEX Shield: Fraud Prevention available for all accounts"
+                  },
+                  "slug": {
+                    "en": "2026-10-26-vtex-shield-fraud-prevention-available-for-all-accounts",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Native personal data management in Master Data v2",
                     "es": "Gestión nativa de datos personales en Master Data v2",
                     "pt": "Gestão nativa de dados pessoais no Master Data v2"
@@ -62,21 +77,6 @@
                     "en": "2026-10-21-delivery-promise-now-generally-available",
                     "es": "2026-10-21-delivery-promise-ahora-disponible-para-todas-las-tiendas",
                     "pt": "2026-10-21-delivery-promise-agora-disponivel-para-todos-os-lojistas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Shield: Fraud Prevention available for all accounts",
-                    "es": "VTEX Shield: Prevención de fraude disponible para todas las cuentas",
-                    "pt": "VTEX Shield: Prevenção contra fraudes disponível para todas as contas"
-                  },
-                  "slug": {
-                    "en": "2026-10-20-vtex-shield-fraud-prevention-available-for-all-accounts",
-                    "es": "2026-10-20-vtex-shield-prevencion-de-fraude-disponible-para-todas-las-cuentas",
-                    "pt": "2026-10-20-vtex-shield-prevencao-contra-fraudes-disponivel-para-todas-as-contas"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -227,6 +227,37 @@
                     "en": "2026-10-06-vtex-cx-platform-support-for-bsuid-and-whatsapp-usernames",
                     "es": "2026-10-06-vtex-cx-platform-soporte-para-bsuid-y-nombres-de-usuario-de-whatsapp",
                     "pt": "2026-10-06-vtex-cx-platform-suporte-a-bsuid-e-usernames-do-whatsapp"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Octubre",
+                "es": "Octubre",
+                "pt": "Outubro"
+              },
+              "slug": {
+                "en": "octubre",
+                "es": "2026-octubre",
+                "pt": "2026-outubro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "VTEX Shield: Prevención de fraude disponible para todas las cuentas",
+                    "es": "VTEX Shield: Prevención de fraude disponible para todas las cuentas",
+                    "pt": "VTEX Shield: Prevenção contra fraudes disponível para todas as contas"
+                  },
+                  "slug": {
+                    "en": "",
+                    "es": "2026-10-20-vtex-shield-prevencion-de-fraude-disponible-para-todas-las-cuentas",
+                    "pt": "2026-10-20-vtex-shield-prevencao-contra-fraudes-disponivel-para-todas-as-contas"
                   },
                   "origin": "",
                   "type": "markdown",
