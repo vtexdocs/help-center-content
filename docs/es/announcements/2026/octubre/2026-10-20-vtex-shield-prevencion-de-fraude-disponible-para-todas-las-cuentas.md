@@ -20,7 +20,7 @@ Para fortalecer la protección contra este tipo de amenaza, lanzamos la **Preven
 
 La nueva funcionalidad analiza los intentos de pago en el checkout y devuelve una **puntuación de fraude (0 a 1)**. Con base en esta puntuación, el sistema recomienda acciones preventivas y bloquea automáticamente los intentos considerados sospechosos.
 
-La nueva página está disponible en el Admin en: **Configuración de la tienda > Shield > Prevención de Fraude**.
+La nueva página está disponible en el Admin en: **Configuración de la tienda > Shield > Prevención de fraude**.
 
 ![Página Prevención de Fraude en el Admin VTEX](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/seguridad/vtex-shield/prevencion-de-fraude.png)
 
