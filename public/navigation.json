@@ -35227,8 +35227,8 @@
           "children": [
             {
               "name": {
-                "en": "Opening tickets to VTEX support",
-                "es": "Abrir tickets para el soporte VTEX",
+                "en": "Opening tickets with VTEX Support",
+                "es": "Abrir tickets con el Soporte VTEX",
                 "pt": "Abrir chamados para o suporte VTEX"
               },
               "slug": {
