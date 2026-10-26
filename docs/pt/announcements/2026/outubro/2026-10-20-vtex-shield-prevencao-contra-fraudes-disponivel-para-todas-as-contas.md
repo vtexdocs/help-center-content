@@ -12,7 +12,7 @@ tags:
   - VTEX Shield
 ---
 
-A segurança no checkout é essencial para garantir a estabilidade da operação e a confiança dos clientes. Nos últimos anos, ataques de esquenta cartão (*card attacks*) têm se tornado mais frequentes no ecommerce, gerando alto volume de tentativas de pagamento malsucedidas e custos adicionais para as lojas.
+A segurança no checkout é essencial para garantir a estabilidade da operação e a confiança dos clientes. Nos últimos anos, ataques de esquenta cartão (*card attack*) têm se tornado mais frequentes no ecommerce, gerando alto volume de tentativas de pagamento malsucedidas e custos adicionais para as lojas.
 
 Para fortalecer a proteção contra esse tipo de ameaça, lançamos a **Prevenção contra fraudes**, uma nova funcionalidade do [VTEX Shield](https://help.vtex.com/pt/docs/tutorials/vtex-shield) disponível para todas as contas. A solução adiciona uma camada inteligente de análise de risco às tentativas de pagamento, permitindo identificar e mitigar ataques de esquenta cartão em pagamentos.
 
