@@ -53,20 +53,20 @@ Também é possível configurar mensagens rápidas específicas por setor. Essa 
 
 A função **Melhorar resposta com IA** permite revisar uma mensagem com ajuda de inteligência artificial antes de enviá-la ao contato. Você escreve a resposta normalmente no campo de texto e aciona a IA para corrigir erros, ajustar o tom ou reescrever o texto com mais clareza, mantendo o sentido original da mensagem.
 
-O botão <i class="fas fa-magic" aria-hidden="true"></i> **Melhorar resposta com IA** fica na barra de ações do campo de texto e só é habilitado quando há texto digitado. Ao clicar nele, você escolhe uma das seguintes opções:
-
-| Opção | Descrição |
-| :---- | :---- |
-| **Corrigir gramática e ortografia** | Corrige apenas erros de digitação, ortografia e gramática. A estrutura do texto é mantida o mais próximo possível da versão original. |
-| **Tornar mais empática** | Reescreve a mensagem com um tom mais gentil e acolhedor, sem alterar o seu sentido. |
-| **Reescrever com clareza** | Reorganiza o texto para torná-lo mais claro e objetivo, com explicações mais completas, sem alterar o seu sentido. |
+> ℹ️ O botão <i class="fas fa-magic" aria-hidden="true"></i> **Melhorar resposta com IA** só é habilitado quando há texto digitado.
 
 Para melhorar uma resposta, siga estas etapas:
 
 1. No campo de texto da conversa, escreva a mensagem que deseja enviar.
 2. Clique no botão <i class="fas fa-magic" aria-hidden="true"></i>`Melhorar resposta com IA`.
-3. Selecione a opção de melhoria desejada: `Corrigir gramática e ortografia`, `Tornar mais empática` ou `Reescrever com clareza`.
-4. Aguarde o processamento. Enquanto a mensagem **Melhorando sua resposta** é exibida, você pode clicar em <i class="fas fa-times" aria-hidden="true"></i>`Resposta aprimorada` para cancelar a ação.
+3. Selecione a opção de melhoria desejada:
+  - `Corrigir gramática e ortografia`: Corrige apenas erros de digitação, ortografia e gramática.
+  - `Tornar mais empática`: Reescreve a mensagem com um tom mais gentil e acolhedor.
+  - `Reescrever com clareza`: Reorganiza o texto para torná-lo mais claro e objetivo, com explicações mais completas.
+4. Aguarde o processamento.
+
+> ℹ️ Enquanto a mensagem **Melhorando sua resposta** é exibida, você pode clicar em <i class="fas fa-times" aria-hidden="true"></i>`Resposta aprimorada` para cancelar a ação.
+
 5. Revise a nova versão da mensagem. Se preferir, edite o texto ou clique em `Original` para voltar à mensagem original.
 6. Clique em `Enviar`.
 
