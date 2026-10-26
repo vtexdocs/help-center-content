@@ -3,7 +3,7 @@ title: 'Products Add-on'
 id: 1t2QBZvrOBSLgvHaAV9fYm
 status: PUBLISHED
 createdAt: 2024-02-20T20:29:42.983Z
-updatedAt: 2026-08-13T00:00:00.000Z
+updatedAt: 2026-09-22T00:00:00.000Z
 publishedAt: 2025-05-13T20:19:47.676Z
 firstPublishedAt: 2024-02-22T14:09:28.506Z
 contentType: trackArticle
@@ -29,14 +29,6 @@ Los productos add-on son soluciones que VTEX ofrece para satisfacer demandas esp
 VTEX Live Shopping permite crear transmisiones online para hacer demostraciones en vivo de las características de los productos de la tienda. Las interacciones directas e instantáneas con los clientes ayudan a mejorar el engagement del público con la marca y aumentar el rendimiento de ventas.
 
 ![live-shopping-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/guía-de-onboarding/proximos-pasos-tras-el-go-live/products-add-on_2.JPG)
-
-## VTEX Personal Shopper
-
-VTEX Personal Shopper permite ofrecer un servicio personalizado directo entre el cliente y el vendedor para incorporar la experiencia de la tienda física al entorno digital. Con esta aplicación el vendedor puede hacer demostraciones de productos, dar recomendaciones y aclarar las dudas de los clientes. Durante la videollamada se pueden agregar ítems al carrito.
-
-![personal-shopper-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/guía-de-onboarding/proximos-pasos-tras-el-go-live/products-add-on_3.JPG)
-
-Para programar una demostración de la aplicación con un especialista, debes acceder a la página de [VTEX Personal Shopper](/es/docs/tutorials/personal-shopper-vision-general).
 
 ## VTEX Pick and Pack
 VTEX Pick and Pack es una solución de gestión del proceso de fulfillment que proporciona visibilidad completa, desde el alistamiento y empaque de productos en las tiendas físicas o almacenes hasta la entrega en puntos de recogida o domicilio.
