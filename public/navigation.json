@@ -40,12 +40,12 @@
                 {
                   "name": {
                     "en": "VTEX Shield: Fraud Prevention available for all accounts",
-                    "es": "VTEX Shield: Fraud Prevention available for all accounts",
+                    "es": "VTEX Shield: Prevención de fraude disponible para todas las cuentas",
                     "pt": "VTEX Shield: Fraud Prevention available for all accounts"
                   },
                   "slug": {
                     "en": "2026-10-26-vtex-shield-fraud-prevention-available-for-all-accounts",
-                    "es": "",
+                    "es": "2026-10-26-vtex-shield-prevencion-de-fraude-disponible-para-todas-las-cuentas",
                     "pt": ""
                   },
                   "origin": "",
@@ -236,13 +236,13 @@
             },
             {
               "name": {
-                "en": "Octubre",
-                "es": "Octubre",
+                "en": "Outubro",
+                "es": "Outubro",
                 "pt": "Outubro"
               },
               "slug": {
-                "en": "octubre",
-                "es": "2026-octubre",
+                "en": "outubro",
+                "es": "outubro",
                 "pt": "2026-outubro"
               },
               "origin": "",
@@ -250,13 +250,13 @@
               "children": [
                 {
                   "name": {
-                    "en": "VTEX Shield: Prevención de fraude disponible para todas las cuentas",
-                    "es": "VTEX Shield: Prevención de fraude disponible para todas las cuentas",
+                    "en": "VTEX Shield: Prevenção contra fraudes disponível para todas as contas",
+                    "es": "VTEX Shield: Prevenção contra fraudes disponível para todas as contas",
                     "pt": "VTEX Shield: Prevenção contra fraudes disponível para todas as contas"
                   },
                   "slug": {
                     "en": "",
-                    "es": "2026-10-20-vtex-shield-prevencion-de-fraude-disponible-para-todas-las-cuentas",
+                    "es": "",
                     "pt": "2026-10-20-vtex-shield-prevencao-contra-fraudes-disponivel-para-todas-as-contas"
                   },
                   "origin": "",
