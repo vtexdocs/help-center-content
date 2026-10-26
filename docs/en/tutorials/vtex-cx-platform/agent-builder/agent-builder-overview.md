@@ -174,7 +174,7 @@ You can also use the search field to find a site in the knowledge base.
 
 #### Text
 
-In this tab, you can add text content to the knowledge base, organized into named segments. Each segment has its own title, and the list is sorted by the most recent edit, showing when each segment was last modified.
+On this tab, you can add text content to the knowledge base, organized into named segments. Each segment has its own title, and the list is sorted by the most recent edit, showing when each segment was last updated.
 
 To create a text segment, follow these steps:
 
@@ -183,7 +183,7 @@ To create a text segment, follow these steps:
 3. Enter the content in the text box.
 4. Click `Save`.
 
-By clicking the <i class="fas fa-ellipsis-v" aria-hidden="true"></i>ellipsis next to the segment, you can:
+By clicking the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> vertical ellipsis next to the segment, you can:
 
 - Edit the content.
 - Rename the title.
@@ -191,7 +191,7 @@ By clicking the <i class="fas fa-ellipsis-v" aria-hidden="true"></i>ellipsis nex
 
 You can also use the search field to find a segment by title.
 
-> ℹ️ Knowledge bases created before this organization keep the original text as a single segment, with a default title. No content is lost. Splitting into segments is just an interface change and doesn't affect how the agent uses the knowledge base content.
+> ℹ️ Knowledge bases created before this change keep their original text as a single segment, with a default title. No content is lost. Dividing content into segments is only an interface change and doesn't affect how the agent uses the knowledge base content.
 
 ### Automation flow
 
