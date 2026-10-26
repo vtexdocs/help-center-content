@@ -14,7 +14,7 @@ tags:
 
 Checkout security is essential to ensure operational stability and maintain customer trust. In recent years, card testing attacks have become more frequent in ecommerce, generating a high volume of failed payment attempts and additional costs for stores.
 
-To strengthen protection against this type of threat, we launched **Fraud Prevention**, a new [VTEX Shield](https://help.vtex.com/en/docs/tutorials/vtex-shield) feature available for all accounts. The solution adds an intelligent risk analysis layer to payment attempts, allowing you to identify and mitigate card testing attacks on payments.
+To strengthen protection against this type of threat, we've launched **Fraud Prevention**, a new [VTEX Shield](https://help.vtex.com/en/docs/tutorials/vtex-shield) feature available for all accounts. The solution adds an intelligent risk analysis layer to payment attempts, allowing you to identify and mitigate card testing attacks on payments.
 
 ## What has changed?
 
