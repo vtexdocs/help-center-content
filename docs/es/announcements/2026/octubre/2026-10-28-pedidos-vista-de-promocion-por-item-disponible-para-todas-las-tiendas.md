@@ -27,7 +27,7 @@ Con esta funcionalidad, en cada ítem del pedido se muestran los siguientes elem
 
 La información de las promociones se muestra en las filas de productos de los paquetes sugeridos, las facturas emitidas, los ítems devueltos y los paquetes de notificación al ERP, en el modal **Todos los ítems** y en el flujo de creación de factura. La funcionalidad admite los siguientes tipos de promoción: Regular, Descuento progresivo, Comprar juntos, Más por menos, Compra uno y lleva uno gratis y Campaña.
 
-> ℹ️ El módulo **Pedidos** muestra el resultado de las promociones que ya se aplicaron durante el checkout. No crea ni gestiona promociones. Para configurar promociones accede al módulo [Promociones](/es/docs/tracks/como-funcionan-las-promociones).
+> ℹ️ El módulo **Pedidos** muestra el resultado de las promociones que ya se aplicaron durante el checkout. No crea ni gestiona promociones. Para configurar promociones accede al módulo [Promociones](https://help.vtex.com/es/docs/tracks/como-funcionan-las-promociones).
 
 ## ¿Por qué realizamos este cambio?
 
@@ -41,4 +41,4 @@ El periodo de beta abierta permitió validar la funcionalidad con tiendas de dis
 
 No es necesaria ninguna acción. La vista de promociones por ítem ya está disponible en todas las tiendas VTEX. Para comprobarlo, accede a un pedido en **Pedidos** > **Todos los pedidos** en el Admin VTEX y pasa el cursor sobre la insignia de promociones junto a un ítem con descuento.
 
-Para más información sobre los detalles de un pedido, consulta [Página de detalles del pedido](/es/docs/tutorials/pagina-de-detalles-del-pedido).
+Para más información sobre los detalles de un pedido, consulta [Página de detalles del pedido](https://help.vtex.com/es/docs/tutorials/pagina-de-detalles-del-pedido).

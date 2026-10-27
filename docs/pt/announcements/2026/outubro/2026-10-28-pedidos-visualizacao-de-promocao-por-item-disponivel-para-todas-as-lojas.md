@@ -27,7 +27,7 @@ Com o recurso, você vê, em cada item do pedido:
 
 A exibição aparece nos itens de linha do produto em pacotes sugeridos, notas fiscais emitidas, itens devolvidos e pacotes de notificação para ERP, no modal **Todos os itens** e no fluxo de criação de nota fiscal. Ela reconhece os seguintes tipos de promoção: Regular, Desconto progressivo, Compre junto, Mais por menos, Compre e ganhe e Campanha.
 
-> ℹ️ O módulo **Pedidos** exibe o resultado das promoções que já foram aplicadas durante o checkout. Ele não cria nem gerencia promoções. Para configurar promoções, use o módulo [Promoções](https://help.vtex.com/pt/docs/tutorials/how-promotions-work--tutorials_2298).
+> ℹ️ O módulo **Pedidos** exibe o resultado das promoções que já foram aplicadas durante o checkout. Ele não cria nem gerencia promoções. Para configurar promoções, use o módulo [Promoções](https://help.vtex.com/pt/docs/tracks/como-funcionam-as-promocoes).
 
 ## Por que fizemos essa mudança?
 

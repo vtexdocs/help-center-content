@@ -27,7 +27,7 @@ With this feature, for each item in the order, you can now see:
 
 The view appears in product line items in suggested bundles, issued invoices, returned items, and ERP notification bundles, as well as in the **All items** modal and in the invoice creation flow. It supports the following promotion types: Regular, Progressive Discount, Buy Together, More for Less, Buy One Get One, and Campaign Promotion.
 
-> ℹ️ The **Orders** module displays the result of promotions already applied during checkout. It doesn't create or manage promotions. To configure promotions, use the [Promotions](/en/docs/tutorials/how-promotions-work--tutorials_2298) module.
+> ℹ️ The **Orders** module displays the result of promotions already applied during checkout. It doesn't create or manage promotions. To configure promotions, use the [Promotions](https://help.vtex.com/en/docs/tracks/how-promotions-work) module.
 
 ## Why did we make this change?
 
@@ -41,4 +41,4 @@ The open beta period allowed us to validate the feature with different types of 
 
 No action is needed. The item-level promotion view is now available in all VTEX stores. To check it out, in the VTEX Admin, go to **Orders** > **All orders**, open an order, and hover over the promotion badge next to a discounted item.
 
-To learn more about order details, see [Order details](/en/docs/tutorials/order-details-page).
+To learn more about order details, see [Order details](https://help.vtex.com/en/docs/tutorials/order-details-page).
