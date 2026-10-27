@@ -55,7 +55,7 @@ A tabela a seguir apresenta a terminologia utilizada no **Sales Operations Agent
 | [Time](#realizar-acoes-em-times) | Unidade da estrutura de vendas. Pode ser organizado de forma hierárquica com times e subtimes, refletindo o organograma da organização comercial. |
 | [Sales rep](#realizar-acoes-em-sales-reps) | Pessoa do time comercial registrada via agente e com [perfil de acesso](#permissoes-de-acesso-de-sales-reps) restrito. |
 | [Carteira de clientes](#realizar-acoes-em-carteiras-de-clientes) | Vínculo entre um contrato e um time ou subtime, que permite aos sales reps visualizar e criar pedidos relacionados ao contrato. Saiba mais em [Acesso de times a contratos](#acesso-de-times-a-contratos). |
-| [Contrato B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) | Contrato B2B, previamente cadastrado na conta, utilizado na criação de carteiras de clientes. |
+| [Contrato B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) | [Contrato](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) previamente cadastrado na conta, utilizado na criação de carteiras de clientes. |
 
 ## Casos de uso
 
@@ -70,7 +70,7 @@ O **Sales Operations Agent** interpreta a sua instrução, prepara e apresenta o
 
 Para abrir o **Sales Operations Agent**, no Admin VTEX, acesse **Aplicativos > Gestão de Vendas > Agente de Equipe**. A interface apresentada é composta por uma janela conversacional, como mostra a imagem a seguir:
 
-![ai-sales-team-management-interface-pt](XXX)
+![sales-operations-agent-interface-pt](XXX)
 
 A tela apresenta algumas sugestões para começar. Ao clicar em uma delas ou digitar uma instrução no chat e clicar em **Enviar**, o agente dará início ao atendimento.
 
