@@ -144,7 +144,7 @@ A tabela a seguir apresenta as ações que você pode realizar em times:
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
 | Criar time | Nome do time. Caso esteja criando um subtime, informe também o nome do time pai. | "Crie o time Vendas Sul" ou "Crie o subtime Contagem dentro do time Nordeste" ou "Crie meus times de vendas: Time Sul, Time Norte, Time Nordeste." |
-| Criar subtimes por sales rep | Anexe um arquivo `.xlsx`, `.csv`, `.txt` ou `.json` com os dados dos sales reps e o time de destino. | "Crie subtimes baseados na carteira de cada sales rep." ou "Quero criar subtimes baseados na carteira de cada sales rep." |
+| Criar subtimes por sales rep | Anexe um arquivo `.xlsx`, `.csv`, `.txt` ou `.json` com os dados dos sales reps e o time de destino. | "Crie subtimes baseados na carteira de cada sales rep" ou "Quero criar subtimes baseados na carteira de cada sales rep" |
 | Editar nome do time | Nome atual do time e o novo nome. | "Edite o time Vendas Sul para Vendas Sudeste" ou "Mude o nome Vendas Sudeste para Vendas Sudeste Principal" |
 | Mover time | Nomes do time a ser movido e do time de destino. | "Mova o time Vendas Sul para dentro do time Nordeste" ou "Coloque o time Vendas Sul sob o time Vendas Nordeste" |
 | Visualizar detalhes do time | Nome ou ID do time + informações que deseja visualizar (sales reps, contratos vinculados ou subtimes). | "A quais contratos o Vendas Sul tem acesso?" ou "Quais sales reps existem no time Vendas Norte?" |
@@ -156,8 +156,6 @@ A tabela a seguir apresenta as ações que você pode realizar em times:
 
 A carteira de clientes representa os contratos aos quais o time ou subtime tem acesso para visualizar cotações e criar pedidos. Para que uma carteira seja atendida por um único sales rep, crie um subtime com ele como único integrante.
 
-> ℹ️ Uma vez criada, a carteira de clientes não pode ser excluída pelo agente.
-
 A tabela a seguir apresenta as ações que você pode realizar sobre as carteiras de clientes:
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
@@ -166,7 +164,7 @@ A tabela a seguir apresenta as ações que você pode realizar sobre as carteira
 | Visualizar carteiras de clientes | Nome ou ID do time ou do contrato. | "O Time Norte atende quais carteiras?" ou "A quais contratos o Vendas Sul foi vinculado?" |
 | Remover contrato de uma carteira | Nome ou ID do contrato + nome ou ID do time. | "Remova o contrato `9eea9b43-c83c-42e9-86a8-fbef4ed228d5` da carteira do Time Sul" ou "Remova o contrato Empresa AG da carteira do Time Norte" |
 
-> ⚠️ Por padrão, quando você não vincula um contrato a um time ou subtime, os sales reps podem visualizar e criar pedidos para todos os contratos da conta. Portanto, se você não pretende utilizar carteiras de clientes de forma segmentada, recomendamos não vincular um contrato a um time. Desta forma, toda a sua lista de clientes será disponibilizada no **Sales App**.
+> ⚠️ Por padrão, quando você não vincula um contrato a um time ou subtime, os sales reps podem visualizar e criar pedidos para todos os contratos da conta. Portanto, se você não pretende utilizar carteiras de clientes de forma segmentada, recomendamos não vincular contratos a times. Desta forma, toda a sua lista de clientes será disponibilizada no **Sales App**.
 
 #### Acesso de times a contratos
 
@@ -183,7 +181,7 @@ Vincular um contrato a um time define a carteira de clientes daquele time e muda
 
 O **Sales Operations Agent** permite que você realize ações em massa por meio da importação de arquivos no formato `.xlsx`, `.csv`, `.txt` ou `.json`. Isso se aplica aos seguintes cenários:
 
-- **Times:** criar, mover, editar ou desativar times (desativação apenas para times vazios).
+- **Times:** criar, mover, editar ou desativar times (desativação apenas para times vazios) e criar subtimes a partir dos sales reps.
 - **Sales reps:** criar, adicionar ou remover sales reps de times.
 - **Carteiras de clientes:** vincular contratos a um ou mais times.
 
