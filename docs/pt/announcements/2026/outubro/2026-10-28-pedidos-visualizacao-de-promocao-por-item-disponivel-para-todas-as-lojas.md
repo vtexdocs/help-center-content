@@ -1,7 +1,7 @@
 ---
 title: 'Pedidos: visualização de promoção por item disponível para todas as lojas'
-createdAt: 2026-10-05T12:00:00.000Z
-updatedAt: 2026-10-05T12:00:00.000Z
+createdAt: 2026-10-28T12:00:00.000Z
+updatedAt: 2026-10-28T12:00:00.000Z
 contentType: updates
 productTeam: Orders
 slugEN: orders-item-level-promotions-display-available-for-all-stores
