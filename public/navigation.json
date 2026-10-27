@@ -52630,6 +52630,21 @@
             },
             {
               "name": {
+                "en": "Product availability is not updated after a ZIP code change when returning to a previously visited page using the browser's back button",
+                "es": "La disponibilidad del producto no se actualiza después de un cambio de código postal al regresar a una página visitada anteriormente usando el botón Atrás del navegador.",
+                "pt": "A disponibilidade do produto não é atualizada após uma alteração do CEP ao retornar a uma página visitada anteriormente usando o botão \"Voltar\" do navegador."
+              },
+              "slug": {
+                "en": "product-availability-is-not-updated-after-a-zip-code-change-when-returning-to-a-previously-visited-page-using-the-browsers-back-button",
+                "es": "la-disponibilidad-del-producto-no-se-actualiza-despues-de-un-cambio-de-codigo-postal-al-regresar-a-una-pagina-visitada-anteriormente-usando-el-boton-atras-del-navegador",
+                "pt": "a-disponibilidade-do-produto-nao-e-atualizada-apos-uma-alteracao-do-cep-ao-retornar-a-uma-pagina-visitada-anteriormente-usando-o-botao-voltar-do-navegador"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Price range at the facets API doesn't correspond to the search results",
                 "es": "El rango de precios de la API de Facets no se corresponde con los resultados de la búsqueda",
                 "pt": "A faixa de preço na API do Facets não corresponde aos resultados da pesquisa"
