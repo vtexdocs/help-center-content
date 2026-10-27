@@ -4,7 +4,7 @@ createdAt: 2026-10-28T12:00:00.000Z
 updatedAt: 2026-10-28T12:00:00.000Z
 contentType: updates
 productTeam: Orders
-slugEN: orders-item-level-promotions-display-available-for-all-stores
+slugEN: 2026-10-28-orders-item-level-promotions-display-available-for-all-stores
 locale: en
 announcementSynopsisEN: 'The item-level promotion view on order details exits open beta and is now available for all VTEX stores.'
 tags:
