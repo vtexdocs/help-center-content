@@ -44012,12 +44012,12 @@
             {
               "name": {
                 "en": "Catalog Filters Timeout",
-                "es": "Tiempo de espera de los filtros del catálogo",
+                "es": "Los filtros del catálogo tienen un tiempo de espera agotado.",
                 "pt": "Tempo limite dos filtros do catálogo"
               },
               "slug": {
                 "en": "catalog-filters-timeout",
-                "es": "tiempo-de-espera-de-los-filtros-del-catalogo",
+                "es": "los-filtros-del-catalogo-tienen-un-tiempo-de-espera-agotado",
                 "pt": "tempo-limite-dos-filtros-do-catalogo"
               },
               "origin": "",
@@ -52593,6 +52593,21 @@
                 "en": "criteria-composition-is-not-returned-on-the-explained-search-ui",
                 "es": "la-composicion-de-los-criterios-no-se-devuelve-en-la-interfaz-de-busqueda-explicada",
                 "pt": "a-composicao-dos-criterios-nao-e-retornada-na-ui-de-pesquisa-explicada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Product availability is not updated after a ZIP code change when returning to a previously visited page using the browser's back button",
+                "es": "La disponibilidad del producto no se actualiza después de un cambio de código postal al regresar a una página visitada anteriormente usando el botón Atrás del navegador.",
+                "pt": "A disponibilidade do produto não é atualizada após uma alteração do CEP ao retornar a uma página visitada anteriormente usando o botão \"Voltar\" do navegador."
+              },
+              "slug": {
+                "en": "product-availability-is-not-updated-after-a-zip-code-change-when-returning-to-a-previously-visited-page-using-the-browsers-back-button",
+                "es": "la-disponibilidad-del-producto-no-se-actualiza-despues-de-un-cambio-de-codigo-postal-al-regresar-a-una-pagina-visitada-anteriormente-usando-el-boton-atras-del-navegador",
+                "pt": "a-disponibilidade-do-produto-nao-e-atualizada-apos-uma-alteracao-do-cep-ao-retornar-a-uma-pagina-visitada-anteriormente-usando-o-botao-voltar-do-navegador"
               },
               "origin": "",
               "type": "markdown",
@@ -62510,21 +62525,6 @@
             },
             {
               "name": {
-                "en": "Gift Card HUB acepta un identificador no válido o vacío al intentar crear una transacción",
-                "es": "Gift Card HUB acepta un identificador no válido o vacío al intentar crear una transacción",
-                "pt": "O Gift Card HUB aceita um ID inválido/vazio ao criar uma transação"
-              },
-              "slug": {
-                "en": "",
-                "es": "gift-card-hub-acepta-un-identificador-no-valido-o-vacio-al-intentar-crear-una-transaccion",
-                "pt": "o-gift-card-hub-aceita-um-id-invalidovazio-ao-criar-uma-transacao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Gift Card hub is adding an extra backslash ('/') when calling providers.",
                 "es": "Gift Card hub está añadiendo una barra invertida extra ('/') al llamar a los proveedores.",
                 "pt": "O hub do Gift Card está adicionando uma contrabarra extra ('/') ao ligar para os fornecedores."
@@ -69960,6 +69960,21 @@
           "origin": "",
           "type": "category",
           "children": [
+            {
+              "name": {
+                "en": "Seller lead invitation acceptance links the invite to any existing active VTEX account without validating ownership",
+                "es": "La aceptación de la invitación de contacto del vendedor vincula la invitación a cualquier cuenta VTEX activa existente sin validar la propiedad.",
+                "pt": "A aceitação do convite para contato de vendedor vincula o convite a qualquer conta VTEX ativa existente, sem necessidade de validar a propriedade."
+              },
+              "slug": {
+                "en": "seller-lead-invitation-acceptance-links-the-invite-to-any-existing-active-vtex-account-without-validating-ownership",
+                "es": "la-aceptacion-de-la-invitacion-de-contacto-del-vendedor-vincula-la-invitacion-a-cualquier-cuenta-vtex-activa-existente-sin-validar-la-propiedad",
+                "pt": "a-aceitacao-do-convite-para-contato-de-vendedor-vincula-o-convite-a-qualquer-conta-vtex-ativa-existente-sem-necessidade-de-validar-a-propriedade"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
             {
               "name": {
                 "en": "Category mapping spreadsheet does not include offers in WaitingReview",
