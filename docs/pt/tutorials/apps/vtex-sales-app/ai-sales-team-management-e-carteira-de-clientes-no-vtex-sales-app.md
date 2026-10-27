@@ -1,18 +1,18 @@
 ---
-title: 'AI Sales Team Management e carteira de clientes no VTEX Sales App'
+title: 'Sales Operations Agent e carteira de clientes no VTEX Sales App'
 createdAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z
 contentType: tutorial
 productTeam: Physical Stores
-slugEN: ai-sales-team-management-and-customer-portfolio-on-vtex-sales-app
+slugEN: sales-operations-agent-and-customer-portfolio-on-vtex-sales-app
 locale: pt
 ---
 
-> ℹ️ O **AI Sales Team Management** está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Atualmente, a disponibilidade é somente para contas selecionadas utilizando o **Sales App B2B**. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
+> ℹ️ O **Sales Operations Agent** está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Atualmente, a disponibilidade é somente para contas selecionadas utilizando o **Sales App B2B**. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
 
-O **AI Sales Team Management** é um agente de inteligência artificial do [VTEX Sales App](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes) que permite administrar [times de venda, sales reps e carteiras de clientes](#conceitos) por meio de uma experiência conversacional. Este artigo explica o funcionamento do agente no Admin VTEX e quais ações ele pode realizar para você em operações B2B.
+O **Sales Operations Agent** é um agente de inteligência artificial do [VTEX Sales App](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes) que permite administrar [times de venda, sales reps e carteiras de clientes](#conceitos) por meio de uma experiência conversacional. Este artigo explica o funcionamento do agente no Admin VTEX e quais ações ele pode realizar para você em operações B2B.
 
-> ⚠️ O **AI Sales Team Management** permite administrar times e carteiras de clientes do [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). Para a gestão de vendedores de lojas físicas, veja o artigo [Gerenciar vendedores no VTEX Sales App](https://help.vtex.com/pt/docs/tracks/gerenciar-vendedores-no-vtex-sales-app).
+> ⚠️ O **Sales Operations Agent** permite administrar times e carteiras de clientes do [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). Para a gestão de vendedores de lojas físicas, veja o artigo [Gerenciar vendedores no VTEX Sales App](https://help.vtex.com/pt/docs/tracks/gerenciar-vendedores-no-vtex-sales-app).
 
 ## Pré-requisitos
 
@@ -48,7 +48,7 @@ O perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-d
 
 ## Conceitos
 
-A tabela a seguir apresenta a terminologia utilizada no **AI Sales Team Management**:
+A tabela a seguir apresenta a terminologia utilizada no **Sales Operations Agent**:
 
 | **Termo** | **Significado** |
 | :---- | :---- |
@@ -59,7 +59,7 @@ A tabela a seguir apresenta a terminologia utilizada no **AI Sales Team Manageme
 
 ## Casos de uso
 
-O **AI Sales Team Management** interpreta a sua instrução, prepara e apresenta o plano da mudança na estrutura comercial e só executa a ação após sua revisão e confirmação. Veja alguns casos de uso:
+O **Sales Operations Agent** interpreta a sua instrução, prepara e apresenta o plano da mudança na estrutura comercial e só executa a ação após sua revisão e confirmação. Veja alguns casos de uso:
 
 - **Montar organograma de vendas:** criar times e subtimes seguindo a mesma lógica da operação, como estruturas por regiões, cidades ou carteiras de clientes.
 - **Registrar representantes de vendas:** cadastrar membros da equipe comercial na estrutura de vendas, associando cada pessoa ao time desejado.
@@ -68,7 +68,7 @@ O **AI Sales Team Management** interpreta a sua instrução, prepara e apresenta
 
 ## Acessar o agente
 
-Para abrir o **AI Sales Team Management**, no Admin VTEX, acesse **Aplicativos > Gestão de Vendas > Agente de Equipe**. A interface apresentada é composta por uma janela conversacional, como mostra a imagem a seguir:
+Para abrir o **Sales Operations Agent**, no Admin VTEX, acesse **Aplicativos > Gestão de Vendas > Agente de Equipe**. A interface apresentada é composta por uma janela conversacional, como mostra a imagem a seguir:
 
 ![ai-sales-team-management-interface-pt](XXX)
 
@@ -76,7 +76,7 @@ A tela apresenta algumas sugestões para começar. Ao clicar em uma delas ou dig
 
 > ℹ️ Para conhecer as ações executadas pelo agente, confira a seção [Gerenciar times, sales reps e carteiras de clientes](#gerenciar-times-sales-reps-e-carteiras-de-clientes).
 
-O **AI Sales Team Management** pode realizar solicitações de forma inteiramente conversacional ou fazer [alterações em massa](#realizar-acoes-em-massa-em-times-sales-reps-e-carteiras-de-clientes) por meio da importação de arquivos, como será visto adiante.
+O **Sales Operations Agent** pode realizar solicitações de forma inteiramente conversacional ou fazer [alterações em massa](#realizar-acoes-em-massa-em-times-sales-reps-e-carteiras-de-clientes) por meio da importação de arquivos, como será visto adiante.
 
 ## Regras de funcionamento
 
@@ -91,7 +91,7 @@ O agente só executa ações após apresentar um plano e obter a sua [confirmaç
 
 ### Restrições de escopo
 
-O **AI Sales Team Management** tem as seguintes restrições:
+O **Sales Operations Agent** tem as seguintes restrições:
 
 - ❌ Não acessa nem altera dados de compradores, contatos ou organizações do [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt).
 - ❌ Não cria contratos B2B.
@@ -107,7 +107,7 @@ Caso exista algum erro ou inconsistência nas informações recebidas, o agente 
 
 ## Gerenciar times, sales reps e carteiras de clientes
 
-Com o **AI Sales Team Management** você pode:
+Com o **Sales Operations Agent** você pode:
 
 - [Realizar ações em sales reps](#realizar-acoes-em-sales-reps)
 - [Realizar ações em times](#realizar-acoes-em-times)
@@ -120,7 +120,7 @@ As ações são executadas somente após a [confirmação do plano](#revisao-e-c
 
 ### Realizar ações em sales reps
 
-Os integrantes do time cadastrados pelo **AI Sales Team Management** são chamados de sales reps. A tabela a seguir apresenta as ações que você pode realizar em sales reps:
+Os integrantes do time cadastrados pelo **Sales Operations Agent** são chamados de sales reps. A tabela a seguir apresenta as ações que você pode realizar em sales reps:
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
@@ -135,7 +135,7 @@ Os integrantes do time cadastrados pelo **AI Sales Team Management** são chamad
 
 ### Realizar ações em times
 
-O time é a unidade da estrutura de vendas no contexto do **AI Sales Team Management**. Você pode organizar os times de forma hierárquica, com times pai e subtimes.
+O time é a unidade da estrutura de vendas no contexto do **Sales Operations Agent**. Você pode organizar os times de forma hierárquica, com times pai e subtimes.
 
 > ⚠️ Após transformar um time pai em um subtime, não é mais possível devolvê-lo ao nível raiz. Portanto, antes de criar os times, recomendamos que você defina uma hierarquia que reflita o organograma da organização comercial.
 
@@ -181,7 +181,7 @@ Vincular um contrato a um time define a carteira de clientes daquele time e muda
 
 ### Realizar ações em massa em times, sales reps e carteiras de clientes
 
-O **AI Sales Team Management** permite que você realize ações em massa por meio da importação de arquivos no formato `.xlsx`, `.csv`, `.txt` ou `.json`. Isso se aplica aos seguintes cenários:
+O **Sales Operations Agent** permite que você realize ações em massa por meio da importação de arquivos no formato `.xlsx`, `.csv`, `.txt` ou `.json`. Isso se aplica aos seguintes cenários:
 
 - **Times:** criar, mover, editar ou desativar times (desativação apenas para times vazios).
 - **Sales reps:** criar, adicionar ou remover sales reps de times.
