@@ -59,7 +59,7 @@ A tabela a seguir apresenta a terminologia utilizada no **Sales Operations Agent
 
 ## Casos de uso
 
-O **Sales Operations Agent** interpreta a sua instrução, prepara e apresenta o plano da mudança na estrutura comercial e só executa a ação após sua revisão e confirmação. Veja alguns casos de uso:
+O **Sales Operations Agent** interpreta a sua instrução, prepara e apresenta o plano de mudança na estrutura comercial e só executa a ação após sua revisão e confirmação. Veja alguns casos de uso:
 
 - **Montar organograma de vendas:** criar times e subtimes seguindo a mesma lógica da operação, como estruturas por regiões, cidades ou carteiras de clientes.
 - **Registrar representantes de vendas:** cadastrar membros da equipe comercial na estrutura de vendas, associando cada pessoa ao time desejado.
