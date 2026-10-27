@@ -26850,6 +26850,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with Dinelco",
+                        "es": "Configurar pago con Dinelco",
+                        "pt": "Configurar pagamento com Dinelco"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-dinelco",
+                        "es": "configurar-pago-con-dinelco",
+                        "pt": "configurar-pagamento-com-dinelco"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with Directa",
                         "es": "Configurar pago con Directa",
                         "pt": "Configurar pagamento com Directa"
@@ -27060,6 +27075,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with FastPayBrasil",
+                        "es": "Configurar pago con FastPayBrasil",
+                        "pt": "Configurar pagamento com FastPayBrasil"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-fastpaybrasil",
+                        "es": "configurar-pago-con-fastpaybrasil",
+                        "pt": "configurar-pagamento-com-fastpaybrasil"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with FCamara (Payment initiator)",
                         "es": "Configurar pago con FCamara (Iniciador de pagos)",
                         "pt": "Configurar pagamento com FCamara (Iniciador de pagamentos)"
@@ -27225,6 +27255,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with GlobalPayBancolombia",
+                        "es": "Configurar pago con GlobalPayBancolombia",
+                        "pt": "Configurar pagamento com GlobalPayBancolombia"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-globalpaybancolombia",
+                        "es": "configurar-pago-con-globalpaybancolombia",
+                        "pt": "configurar-pagamento-com-globalpaybancolombia"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with GlobalPayments",
                         "es": "Configurar pago con GlobalPayments",
                         "pt": "Configurar pagamento com GlobalPayments"
@@ -27240,6 +27285,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with GlobalPayPSE",
+                        "es": "Configurar pago con GlobalPayPSE",
+                        "pt": "Configurar pagamento com GlobalPayPSE"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-globalpaypse",
+                        "es": "configurar-pago-con-globalpaypse",
+                        "pt": "configurar-pagamento-com-globalpaypse"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with GOcuotas",
                         "es": "Configurar pago con GOcuotas",
                         "pt": "Configurar pagamento com GOcuotas"
@@ -27248,6 +27308,21 @@
                         "en": "setting-up-payments-with-gocuotas",
                         "es": "configurar-pago-con-gocuotas",
                         "pt": "configurar-pagamento-com-gocuotas"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with HibouPay",
+                        "es": "Configurar pago con HibouPay",
+                        "pt": "Configurar pagamento com HibouPay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-hiboupay",
+                        "es": "configurar-pago-con-hiboupay",
+                        "pt": "configurar-pagamento-com-hiboupay"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -27827,6 +27902,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with OderoPay",
+                        "es": "Configurar pago con OderoPay",
+                        "pt": "Configurar pagamento com OderoPay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-oderopay",
+                        "es": "configurar-pago-con-oderopay",
+                        "pt": "configurar-pagamento-com-oderopay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with OpenpayV2",
                         "es": "Configurar pago con OpenpayV2",
                         "pt": "Configurar pagamento com OpenpayV2"
@@ -28120,6 +28210,21 @@
                         "en": "setting-up-payments-with-paymentezv2",
                         "es": "configurar-pago-con-paymentezv2",
                         "pt": "configurar-pagamento-com-paymentezv2"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with PaymentsWay",
+                        "es": "Configurar pago con PaymentsWay",
+                        "pt": "Configurar pagamento com PaymentsWay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-paymentsway",
+                        "es": "configurar-pago-con-paymentsway",
+                        "pt": "configurar-pagamento-com-paymentsway"
                       },
                       "origin": "",
                       "type": "markdown",
