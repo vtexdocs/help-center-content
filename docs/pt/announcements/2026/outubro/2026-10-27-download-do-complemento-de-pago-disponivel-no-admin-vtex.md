@@ -1,11 +1,11 @@
 ---
 title: 'Download do complemento de pago disponível no Admin VTEX'
 slug: '2026-10-01-download-do-complemento-de-pago-disponivel-no-admin-vtex'
-createdAt: 2026-10-01T00:00:00.000Z
-updatedAt: 2026-10-01T00:00:00.000Z
+createdAt: 2026-10-27T00:00:00.000Z
+updatedAt: 2026-10-27T00:00:00.000Z
 contentType: updates
 productTeam: Financial
-slugEN: '2026-10-01-pago-complement-download-now-available-in-vtex-admin'
+slugEN: '2026-10-27-pago-complement-download-now-available-in-vtex-admin'
 locale: pt
 announcementSynopsisPT: 'Clientes com faturamento no México agora podem baixar o complemento de pago diretamente na página Faturas do Admin VTEX.'
 tags:
