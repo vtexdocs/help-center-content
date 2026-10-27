@@ -8,7 +8,7 @@ slugEN: sales-operations-agent-and-customer-portfolio-on-vtex-sales-app
 locale: pt
 ---
 
-> ℹ️ O **Sales Operations Agent** está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Atualmente, a disponibilidade é somente para contas selecionadas utilizando o **Sales App B2B**. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
+> ℹ️ O **Sales Operations Agent** está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Atualmente, a disponibilidade é somente para contas selecionadas utilizando o **Sales App B2B**. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/support).
 
 O **Sales Operations Agent** é um agente de inteligência artificial do [VTEX Sales App](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes) que permite administrar [times de venda, sales reps e carteiras de clientes](#conceitos) por meio de uma experiência conversacional. Este artigo explica o funcionamento do agente no Admin VTEX e quais ações ele pode realizar para você em operações B2B.
 
