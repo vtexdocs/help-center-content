@@ -60,10 +60,11 @@ O Delivery Promise usa as [Opções de Envio](https://help.vtex.com/pt/docs/tuto
 Nesta etapa, revise as opções geradas e defina quais serão usadas como filtro:
 
 1. Clique em `Acessar Opções de Envio`.
-2. Confira as Opções de Envio geradas automaticamente. Se necessário, edite-as para que reflitam a sua operação.
-3. Na tela de preferências das Opções de Envio, escolha quais opções devem aparecer como filtro na loja (até três) e defina a ordem de exibição. A primeira opção da lista recebe mais destaque quando o filtro for ativado na frente de loja.
-4. Salve as alterações e volte à página **Delivery Promise**.
-5. Clique em `Avançar`.
+2. Na página de **Opções de Envio**, verifique a listagem das opções geradas automaticamente. Para editar as opções, siga o guia [Opções de envio](https://help.vtex.com/pt/docs/tutorials/opcoes-de-envio#editar-uma-opcao-de-envio).
+3. Clique em `Preferências`.
+4. Escolha até três opções que vão aparecer como filtro na loja e defina a ordem de exibição. A primeira opção da lista recebe mais destaque quando o filtro for ativado na frente de loja.
+5. Salve as alterações e volte à página **Delivery Promise**.
+6. Clique em `Avançar`.```
 
 ## Etapa 3: Configure na loja
 
