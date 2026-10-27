@@ -20,9 +20,13 @@ O **AI Sales Team Management** é um agente de inteligência artificial do [VTEX
 
 ## Permissões de acesso
 
-Para usar o agente, é necessário que o seu [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) tenha os [recursos do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager) correspondentes às ações que você deseja realizar, conforme descrito a seguir:
+Para usar o agente, o [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) do usuário precisa ter os [recursos do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager) correspondentes às ações a serem executadas.
 
-| **Produto** | **Categoria** | **Recurso** | **Operações permitidas** |
+> ℹ️ O agente não cria perfis de acesso.
+
+A tabela a seguir lista quais recursos são necessários para cada ação:
+
+| Produto | Categoria | Recurso | Operações permitidas |
 | :--- | :--- | :--- | :--- |
 | Organization Units | units | **View Organization Unit** | Listar times e visualizar detalhes, integrantes e contratos vinculados. |
 | Organization Units | units | **Edit Organization Unit** | Criar, renomear, mover e desativar times, adicionar e remover usuários e vincular contratos. |
@@ -38,11 +42,9 @@ Para conceder o acesso mínimo necessário, recomendamos [criar um perfil de ace
 
 ### Permissões de acesso de sales reps
 
-O sales rep precisa ser um usuário com o perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person), que é atribuído por padrão pelo agente na criação do sales rep.
+Ao criar um sales rep, o agente automaticamente atribui a ele o perfil de acesso [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person). Não é possível atribuir outro perfil a sales reps.
 
-O perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person) permite aos usuários acessar o **Sales App** para visualizar e criar pedidos em nome do cliente. Após o login, o usuário com esse perfil é redirecionado para a loja e não tem acesso a recursos importantes do Admin VTEX.
-
-> ℹ️ O único perfil de acesso que o agente atribui a sales reps é o [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person).
+O perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person) permite aos usuários acesso ao **Sales App** para visualizar e criar pedidos em nome de clientes.
 
 ## Conceitos
 
