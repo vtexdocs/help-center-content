@@ -24365,6 +24365,21 @@
                 },
                 {
                   "name": {
+                    "en": "Sales Operations Agent and customer portfolio on VTEX Sales App",
+                    "es": "Sales Operations Agent y cartera de clientes en VTEX Sales App",
+                    "pt": "Sales Operations Agent e carteira de clientes no VTEX Sales App"
+                  },
+                  "slug": {
+                    "en": "sales-operations-agent-and-customer-portfolio-on-vtex-sales-app",
+                    "es": "sales-operations-agent-y-cartera-de-clientes-en-vtex-sales-app",
+                    "pt": "ai-sales-team-management-e-carteira-de-clientes-no-vtex-sales-app"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "VTEX Sales App Extensibility",
                     "es": "VTEX Sales App Extensibility",
                     "pt": "VTEX Sales App Extensibility"
