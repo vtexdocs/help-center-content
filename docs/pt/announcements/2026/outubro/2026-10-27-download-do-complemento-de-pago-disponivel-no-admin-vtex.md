@@ -1,6 +1,6 @@
 ---
 title: 'Download do complemento de pago disponível no Admin VTEX'
-slug: '2026-10-01-download-do-complemento-de-pago-disponivel-no-admin-vtex'
+slug: '2026-10-27-download-do-complemento-de-pago-disponivel-no-admin-vtex'
 createdAt: 2026-10-27T00:00:00.000Z
 updatedAt: 2026-10-27T00:00:00.000Z
 contentType: updates
