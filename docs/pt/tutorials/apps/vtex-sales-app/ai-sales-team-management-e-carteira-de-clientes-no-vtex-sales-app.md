@@ -154,24 +154,23 @@ A tabela a seguir apresenta as ações que você pode realizar em times:
 
 ### Realizar ações em carteiras de clientes
 
-A carteira de clientes representa os contratos aos quais o time ou subtime tem acesso para visualizar cotações e criar pedidos.
+A carteira de clientes representa os contratos aos quais o time ou subtime tem acesso para visualizar cotações e criar pedidos. Para que uma carteira seja atendida por um único sales rep, crie um subtime com ele como único integrante.
 
-> ℹ️ Para que uma carteira seja atendida por um único sales rep, crie um subtime com essa pessoa como único integrante.
+> ℹ️ Uma vez criada, a carteira de clientes não pode ser excluída pelo agente.
 
 A tabela a seguir apresenta as ações que você pode realizar sobre as carteiras de clientes:
 
 | **Ação** | **Informações necessárias** | **Exemplos de instrução** |
 | :--- | :--- | :--- |
-| Vincular contrato a um ou mais times | Nome ou ID do contrato + nome ou ID de um ou mais times. Você também pode fazer essa [ação em massa](#realizar-acoes-em-massa-em-times-sales-reps-e-carteiras-de-clientes) por meio da importação de arquivos. | "Vincule o contrato `9eea9b43-c83c-42e9-86a8-fbef4ed228d5` ao Time Sul, Time Norte e Time Nordeste" / "Crie a carteira de clientes do Time Norte com o contrato Empresa AG" |
-| Visualizar carteiras de clientes | Nome ou ID do time ou do contrato. | "O Time Norte atende quais carteiras?" / "A quais contratos o Vendas Sul foi vinculado?" |
+| Vincular contrato a um ou mais times | Nome ou ID do contrato + nome ou ID de um ou mais times. Você também pode fazer essa [ação em massa](#realizar-acoes-em-massa-em-times-sales-reps-e-carteiras-de-clientes) por meio da importação de arquivos. | "Vincule o contrato `9eea9b43-c83c-42e9-86a8-fbef4ed228d5` ao Time Sul, Time Norte e Time Nordeste" ou "Crie a carteira de clientes do Time Norte com o contrato Empresa AG" |
+| Visualizar carteiras de clientes | Nome ou ID do time ou do contrato. | "O Time Norte atende quais carteiras?" ou "A quais contratos o Vendas Sul foi vinculado?" |
+| Remover contrato de uma carteira | Nome ou ID do contrato + nome ou ID do time. | "Remova o contrato `9eea9b43-c83c-42e9-86a8-fbef4ed228d5` da carteira do Time Sul" ou "Remova o contrato Empresa AG da carteira do Time Norte" |
 
-> ⚠️ A criação de carteiras de clientes não pode ser desfeita pelo agente.
-
-Para saber como o vínculo com contratos define o acesso dos times, veja a seção a seguir.
+> ⚠️ Por padrão, quando você não vincula um contrato a um time ou subtime, os sales reps podem visualizar e criar pedidos para todos os contratos da conta. Portanto, se você não pretende utilizar carteiras de clientes de forma segmentada, recomendamos não vincular um contrato a um time. Desta forma, toda a sua lista de clientes será disponibilizada no **Sales App**.
 
 #### Acesso de times a contratos
 
-Vincular um contrato a um time define a carteira daquele time e muda o que o sales rep visualiza no **Sales App**.
+Vincular um contrato a um time define a carteira de clientes daquele time e muda o que o sales rep visualiza no **Sales App**.
 
 - **Times com contratos vinculados:** os sales reps visualizam no **Sales App** apenas as cotações e pedidos referentes aos contratos vinculados. A criação de novos pedidos também fica restrita a esses contratos.
   - Exemplo: o Time Sul está vinculado aos contratos A e B, portanto, os sales reps desse time podem visualizar e criar pedidos somente para esses dois contratos.
