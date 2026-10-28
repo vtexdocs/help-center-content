@@ -917,6 +917,37 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Novembro",
+                "es": "Novembro",
+                "pt": "Novembro"
+              },
+              "slug": {
+                "en": "novembro",
+                "es": "novembro",
+                "pt": "novembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Live Desk: envio de mensagens rápidas em massa",
+                    "es": "Live Desk: envio de mensagens rápidas em massa",
+                    "pt": "Live Desk: envio de mensagens rápidas em massa"
+                  },
+                  "slug": {
+                    "en": "",
+                    "es": "",
+                    "pt": "2026-11-17-live-desk-envio-de-mensagens-rapidas-em-massa"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
