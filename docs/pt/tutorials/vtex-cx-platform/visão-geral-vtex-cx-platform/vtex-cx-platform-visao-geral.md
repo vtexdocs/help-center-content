@@ -63,7 +63,7 @@ Clientes enterprise podem fazer login no VTEX CX Platform com o próprio tenant 
 
 O acesso às organizações continua sendo feito apenas por convite, e o mapeamento de domínio vale somente para a empresa que o configurou.
 
-> ⚠️ Para utilizar o login com o Okta, entre em contato com o [Suporte VTEX]() e solicite a configuração do mapeamento do domínio de email e da política da sua organização.
+> ⚠️ Para utilizar o login com o Okta, entre em contato com o [Suporte VTEX](https://help.vtex.com/pt/support) e solicite a configuração do mapeamento do domínio de email e da política da sua organização.
 
 ### Preencher os dados de organização e projeto
 
