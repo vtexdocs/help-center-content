@@ -1,10 +1,10 @@
 ---
 title: 'Live Desk: envio de mensagens rápidas em massa'
-createdAt: 2026-10-28T12:00:00.000Z
-updatedAt: 2026-10-28T12:00:00.000Z
+createdAt: 2026-11-17T12:00:00.000Z
+updatedAt: 2026-11-17T12:00:00.000Z
 contentType: updates
 productTeam: VTEX CX Platform
-slugEN: 2026-10-28-live-desk-bulk-quick-messages
+slugEN: 2026-11-17-live-desk-bulk-quick-messages
 locale: pt
 tags:
   - Novidade
@@ -21,7 +21,7 @@ Antes, para enviar a mesma mensagem rápida a vários contatos, o atendente prec
 Agora, a partir do menu de opções de uma mensagem rápida salva, o atendente pode:
  
 - **Enviar para várias conversas ao mesmo tempo**, sem precisar abrir cada uma.
-- **Escolher os contatos** que receberão a mensagem. Por padrão, todas as conversas vêm selecionadas.
+- **Escolher os contatos** que receberão a mensagem. Por padrão, todas os contatos vêm selecionados.
 - **Revisar antes de enviar**, por meio de um checklist de confirmação que evita envios em massa acidentais.
 - **Acompanhar o envio** com uma barra de progresso em tempo real e receber uma notificação de confirmação com a quantidade de conversas que receberam a mensagem.
 
