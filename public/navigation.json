@@ -25,6 +25,37 @@
           "children": [
             {
               "name": {
+                "en": "Novembro",
+                "es": "Novembro",
+                "pt": "Novembro"
+              },
+              "slug": {
+                "en": "novembro",
+                "es": "novembro",
+                "pt": "2026-novembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "VTEX CX Platform: login com Okta para clientes enterprise",
+                    "es": "VTEX CX Platform: login com Okta para clientes enterprise",
+                    "pt": "VTEX CX Platform: login com Okta para clientes enterprise"
+                  },
+                  "slug": {
+                    "en": "",
+                    "es": "",
+                    "pt": "2026-11-16-vtex-cx-platform-login-com-okta-para-clientes-enterprise"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "October",
                 "es": "Octubre",
                 "pt": "Outubro"
