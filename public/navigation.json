@@ -35801,12 +35801,12 @@
                 {
                   "name": {
                     "en": "Reporting security incidents",
-                    "es": "Informar incidentes de seguridad",
+                    "es": "Reportar incidentes de seguridad",
                     "pt": "Reportar incidentes de segurança"
                   },
                   "slug": {
                     "en": "reporting-security-incidents",
-                    "es": "informar-incidentes-de-seguridad",
+                    "es": "reportar-incidentes-de-seguridad",
                     "pt": "reportar-incidentes-de-seguranca"
                   },
                   "origin": "",
