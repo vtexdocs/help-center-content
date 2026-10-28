@@ -57,6 +57,14 @@ Para fazer login em uma conta existente, siga os passos abaixo:
 
 Se o seu cadastro foi feito com o **GitHub**, **Google** ou **Microsoft**, selecione uma dessas opções para fazer o login.
 
+### Login com Okta
+
+Clientes enterprise podem fazer login no VTEX CX Platform com o próprio tenant Okta. Nesse caso, após inserir o email, você é redirecionado automaticamente para o Okta, com a autenticação multifator configurada, e o campo de senha da plataforma não é exibido.
+
+O acesso às organizações continua sendo feito apenas por convite, e o mapeamento de domínio vale somente para a empresa que o configurou.
+
+> ⚠️ Para utilizar o login com o Okta, entre em contato com o [Suporte VTEX](https://help.vtex.com/pt/support) e solicite a configuração do mapeamento do domínio de email e da política da sua organização.
+
 ### Preencher os dados de organização e projeto
 
 > ℹ️ Se a sua organização já existe e você foi convidado para ela, preencha os campos com nomes fictícios apenas para se registrar na plataforma. Não é necessário usar os nomes reais da empresa.
