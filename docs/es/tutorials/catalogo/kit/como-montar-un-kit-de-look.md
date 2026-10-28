@@ -3,7 +3,7 @@ title: 'Montando un Kit de look'
 id: tutorials_266
 status: PUBLISHED
 createdAt: 2017-04-27T22:11:08.863Z
-updatedAt: 2026-01-30T14:45:58.909Z
+updatedAt: 2026-10-28T16:40:00.000Z
 publishedAt: 2025-09-16T14:45:58.909Z
 firstPublishedAt: 2017-04-27T23:03:12.436Z
 contentType: tutorial
