@@ -35800,6 +35800,21 @@
                 },
                 {
                   "name": {
+                    "en": "Reporting security incidents",
+                    "es": "Reportar incidentes de seguridad",
+                    "pt": "Reportar incidentes de segurança"
+                  },
+                  "slug": {
+                    "en": "reporting-security-incidents",
+                    "es": "reportar-incidentes-de-seguridad",
+                    "pt": "reportar-incidentes-de-seguranca"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Reporting vulnerabilities",
                     "es": "Informar vulnerabilidad",
                     "pt": "Reportar vulnerabilidade"
