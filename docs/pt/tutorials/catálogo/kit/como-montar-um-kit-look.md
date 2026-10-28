@@ -19,7 +19,7 @@ subcategoryId: 17Lkzo2rGBE1Bt7dXjE0tV
 
 Neste artigo, você aprende a configurar um kit look (também chamado de Lookbook) na sua loja.
 
-Antes de configurar um kit look, você precisa saber criar um kit. Saiba como no artigo [Como criar um kit](/pt/tutorial/cadastrando-kit/).
+Antes de configurar um kit look, você precisa saber criar um kit. Saiba como no artigo [Como criar um kit](/pt/docs/tutorials/cadastrar-kit).
 
 A tabela a seguir apresenta as características e contextos para o uso de kit ou kit look:
 
@@ -131,7 +131,7 @@ Para criar o template de produto, siga os passos a seguir:
 
 Depois de colar o código, clique em **Save Template**, no canto superior direito, para salvar o template.
 
-> ℹ️ O controle `BuyInPage`, usado no código do template, só funciona com o controle `AmountItemsInCart` (no próprio template ou em qualquer sub-template relacionado). Para entender a relação entre esses controles, veja [Lista completa de controles](/pt/tutorial/lista-de-controles-para-templates).
+> ℹ️ O controle `BuyInPage`, usado no código do template, só funciona com o controle `AmountItemsInCart` (no próprio template ou em qualquer sub-template relacionado). Para entender a relação entre esses controles, veja a [lista de controles para templates](https://developers.vtex.com/docs/guides/list-of-controls-for-templates).
 
 `changeImage="1"`: indica qual campo muda a imagem do SKU ao ser selecionado.
 
