@@ -34,7 +34,7 @@ A tabela a seguir lista quais recursos são necessários para cada ação:
 | License Manager | Services access control | **Edit Admin Users** | Criar, editar ou remover usuários ou chaves de aplicação. |
 | License Manager | Services access control | **View Admin Users** | Listar todos os usuários da conta. |
 | Dynamic Storage | Dynamic storage generic resources | **Read only documents** | Ler documentos. |
-| Dynamic Storage | Dynamic storage generic resources | **Insert or update document (not remove)** | Criar e atualizar os cadastros nas entidades `vendors` e `shopper` e consultar contratos (entidade `CL`). |
+| Dynamic Storage | Dynamic storage generic resources | **Insert or update document (not remove)** | Criar e atualizar documentos, mas não removê-los. |
 
 > ℹ️ Se o usuário precisar apenas consultar informações, o recurso **Read only documents** do Dynamic Storage é suficiente.
 
