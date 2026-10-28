@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27",
+  "updatedAt": "2026-10-28",
   "providers": [
     {
       "name": "55Pay",
@@ -793,6 +793,16 @@
       "countries": ["CL"]
     },
     {
+      "name": "GlobalPay",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-globalpay",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-globalpay",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-globalpay"
+      },
+      "countries": ["CO"]
+    },
+    {
       "name": "GlobalPay-Redeban",
       "payoutSplit": false,
       "docs": {
@@ -823,6 +833,16 @@
       "countries": ["BR"]
     },
     {
+      "name": "GlobalPayNiqui",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-globalpayniqui",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-globalpayniqui",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-globalpayniqui"
+      },
+      "countries": ["CO"]
+    },
+    {
       "name": "GlobalPayPSE",
       "payoutSplit": false,
       "docs": {
@@ -851,6 +871,26 @@
         "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-hiboupay"
       },
       "countries": ["BR"]
+    },
+    {
+      "name": "InstaPago",
+      "payoutSplit": true,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-instapago",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-instapago",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-instapago"
+      },
+      "countries": ["VE"]
+    },
+    {
+      "name": "InstaPagoU",
+      "payoutSplit": true,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-instapagou",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-instapagou",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-instapagou"
+      },
+      "countries": ["VE"]
     },
     {
       "name": "Inswitch",
@@ -1169,6 +1209,16 @@
         "pt": "https://help.vtex.com/pt/tutorial/configurar-pagamento-com-nupay--4nVjWfJw7PwraBHCoS45tc",
         "en": "https://help.vtex.com/en/tutorial/setting-up-payments-with-nupay--4nVjWfJw7PwraBHCoS45tc",
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-nupay--4nVjWfJw7PwraBHCoS45tc"
+      },
+      "countries": ["BR"]
+    },
+    {
+      "name": "NuPay",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-nupay",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-nupay",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-nupay"
       },
       "countries": ["BR"]
     },
@@ -1593,6 +1643,16 @@
       "countries": ["BO"]
     },
     {
+      "name": "RedebanConnector",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-redebanconnector",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-redebanconnector",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-redebanconnector"
+      },
+      "countries": ["CO"]
+    },
+    {
       "name": "RedPayv2",
       "payoutSplit": false,
       "docs": {
@@ -1851,6 +1911,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-tiptoppay--6dCm2Qe7Xe9qWs7Vb7DC73"
       },
       "countries": ["MX"]
+    },
+    {
+      "name": "Toku",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-toku",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-toku",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-toku"
+      },
+      "countries": ["BR"]
     },
     {
       "name": "Transbank Webpay",
