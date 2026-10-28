@@ -30,9 +30,9 @@ A tabela a seguir lista quais recursos são necessários para cada ação:
 | :--- | :--- | :--- | :--- |
 | Organization Units | units | **View Organization Unit** | Listar times e visualizar detalhes, integrantes e contratos vinculados. |
 | Organization Units | units | **Edit Organization Unit** | Criar, renomear, mover e desativar times, adicionar e remover usuários e vincular contratos. |
-| License Manager | Services access control | **Save user** | Criar usuários, atribuir ou remover perfis de acesso para usuários, editar dados de usuários, criar e alterar chaves de aplicação. |
-| License Manager | Services access control | **Find user by email** | Buscar usuários por email. |
-| License Manager | Services access control | **Get paged roles** | Listar todos os perfis de acesso de uma conta. |
+| Organization Units | units | **Move Organization Unit** | Transformar um time pai em subtime ou mover um subtime na hierarquia. |
+| License Manager | Services access control | **Edit Admin Users** | Criar, editar ou remover usuários ou chaves de aplicação. |
+| License Manager | Services access control | **View Admin Users** | Listar todos os usuários da conta. |
 | Dynamic Storage | Dynamic storage generic resources | **Read only documents** | Ler documentos. |
 | Dynamic Storage | Dynamic storage generic resources | **Insert or update document (not remove)** | Criar e atualizar os cadastros nas entidades `vendors` e `shopper` e consultar contratos (entidade `CL`). |
 
