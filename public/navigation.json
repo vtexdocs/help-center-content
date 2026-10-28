@@ -27255,6 +27255,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with GlobalPay",
+                        "es": "Configurar pago con GlobalPay",
+                        "pt": "Configurar pagamento com GlobalPay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-globalpay",
+                        "es": "configurar-pago-con-globalpay",
+                        "pt": "configurar-pagamento-com-globalpay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with GlobalPay-Redeban",
                         "es": "Configurar pago con GlobalPay-Redeban",
                         "pt": "Configurar pagamento com GlobalPay-Redeban"
@@ -27293,6 +27308,21 @@
                         "en": "setting-up-payments-with-globalpayments",
                         "es": "configurar-pago-con-globalpayments",
                         "pt": "configurar-pagamento-com-globalpayments"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with GlobalPayNiqui",
+                        "es": "Configurar pago con GlobalPayNiqui",
+                        "pt": "Configurar pagamento com GlobalPayNiqui"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-globalpayniqui",
+                        "es": "configurar-pago-con-globalpayniqui",
+                        "pt": "configurar-pagamento-com-globalpayniqui"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -27384,6 +27414,21 @@
                         "en": "setting-up-payments-with-instapago",
                         "es": "configurar-pago-con-instapago",
                         "pt": "configurar-pagamento-com-instapago"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with InstaPagoU",
+                        "es": "Configurar pago con InstaPagoU",
+                        "pt": "Configurar pagamento com InstaPagoU"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-instapagou",
+                        "es": "configurar-pago-con-instapagou",
+                        "pt": "configurar-pagamento-com-instapagou"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -28532,6 +28577,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with RedebanConnector",
+                        "es": "Configurar pago con RedebanConnector",
+                        "pt": "Configurar pagamento com RedebanConnector"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-redebanconnector",
+                        "es": "configurar-pago-con-redebanconnector",
+                        "pt": "configurar-pagamento-com-redebanconnector"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with RedPayV2",
                         "es": "Configurar pago con RedPayV2",
                         "pt": "Configurar pagamento com RedPayV2"
@@ -28961,6 +29021,21 @@
                         "en": "setting-up-payments-with-tiptoppay",
                         "es": "configurar-pago-con-tiptoppay",
                         "pt": "configurar-pagamento-com-tiptoppay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with Toku",
+                        "es": "Configurar pago con Toku",
+                        "pt": "Configurar pagamento com Toku"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-toku",
+                        "es": "configurar-pago-con-toku",
+                        "pt": "configurar-pagamento-com-toku"
                       },
                       "origin": "",
                       "type": "markdown",
