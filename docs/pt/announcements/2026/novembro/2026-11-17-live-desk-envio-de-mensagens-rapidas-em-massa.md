@@ -29,4 +29,20 @@ A funcionalidade estende as mensagens rápidas já existentes. Para saber mais, 
 
 ## O que precisa ser feito?
  
-Nenhuma configuração adicional é necessária. A funcionalidade já está disponível para os atendentes nas conversas do Live Desk com mensagens rápidas cadastradas.
+A funcionalidade já está disponível para os atendentes nas conversas do Live Desk com mensagens rápidas cadastradas.
+
+Para fazer o envio em massa de mensagens rápidas, siga o passo a passo seguinte:
+
+1. No **Live Desk**, clique em `Ver opções`.
+2. Selecione `Mensagens rápidas`.
+3. No menu de opções <i class="fas fa-ellipsis-v" aria-hidden="true"></i> da mensagem desejada, clique em `Enviar em massa`.
+4. Selecione os contatos que receberão a mensagem. Por padrão, todos os contatos estão selecionados.
+5. Clique na caixa de seleção de **Verifiquei todos os campos e quero enviar** para confirmar a revisão do envio em massa.
+
+> ⚠️ O checklist de confirmação é obrigatório e ajuda a evitar envios em massa acidentais. Revise os contatos selecionados antes de confirmar.
+
+6. Clique em `Enviar para todos`.
+
+Durante o envio, uma barra de progresso mostra o andamento em tempo real. Ao final, uma notificação confirma quantas conversas receberam a mensagem.
+
+Para mais informações, acesse o artigo [Visão geral do Live Desk](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk).
