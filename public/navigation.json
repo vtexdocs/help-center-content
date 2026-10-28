@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Orders: Item-level promotions display available for all stores",
+                    "es": "Pedidos: vista de promoción por ítem disponible para todas las tiendas",
+                    "pt": "Pedidos: visualização de promoção por item disponível para todas as lojas"
+                  },
+                  "slug": {
+                    "en": "2026-10-28-orders-item-level-promotions-display-available-for-all-stores",
+                    "es": "2026-10-28-pedidos-vista-de-promocion-por-item-disponible-para-todas-las-tiendas",
+                    "pt": "2026-10-28-pedidos-visualizacao-de-promocao-por-item-disponivel-para-todas-as-lojas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "\"Complemento de pago\" download now available in the VTEX Admin",
                     "es": "Descargar complemento de pago disponible en el Admin VTEX",
                     "pt": "Download do complemento de pago disponível no Admin VTEX"
@@ -896,37 +911,6 @@
                     "en": "2026-01-08-new-audit-event-export",
                     "es": "2026-01-08-nueva-audit-exportacion-eventos",
                     "pt": "2026-01-08-nova-exportacao-eventos-audit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "October",
-                "es": "Octubre",
-                "pt": "Outubro"
-              },
-              "slug": {
-                "en": "october",
-                "es": "octubre",
-                "pt": "outubro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Orders: Item-level promotions display available for all stores",
-                    "es": "Pedidos: vista de promoción por ítem disponible para todas las tiendas",
-                    "pt": "Pedidos: visualização de promoção por item disponível para todas as lojas"
-                  },
-                  "slug": {
-                    "en": "2026-10-28-orders-item-level-promotions-display-available-for-all-stores",
-                    "es": "2026-10-28-pedidos-vista-de-promocion-por-item-disponible-para-todas-las-tiendas",
-                    "pt": "2026-10-28-pedidos-visualizacao-de-promocao-por-item-disponivel-para-todas-as-lojas"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -27271,6 +27255,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with GlobalPay",
+                        "es": "Configurar pago con GlobalPay",
+                        "pt": "Configurar pagamento com GlobalPay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-globalpay",
+                        "es": "configurar-pago-con-globalpay",
+                        "pt": "configurar-pagamento-com-globalpay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with GlobalPay-Redeban",
                         "es": "Configurar pago con GlobalPay-Redeban",
                         "pt": "Configurar pagamento com GlobalPay-Redeban"
@@ -27309,6 +27308,21 @@
                         "en": "setting-up-payments-with-globalpayments",
                         "es": "configurar-pago-con-globalpayments",
                         "pt": "configurar-pagamento-com-globalpayments"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with GlobalPayNiqui",
+                        "es": "Configurar pago con GlobalPayNiqui",
+                        "pt": "Configurar pagamento com GlobalPayNiqui"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-globalpayniqui",
+                        "es": "configurar-pago-con-globalpayniqui",
+                        "pt": "configurar-pagamento-com-globalpayniqui"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -27400,6 +27414,21 @@
                         "en": "setting-up-payments-with-instapago",
                         "es": "configurar-pago-con-instapago",
                         "pt": "configurar-pagamento-com-instapago"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with InstaPagoU",
+                        "es": "Configurar pago con InstaPagoU",
+                        "pt": "Configurar pagamento com InstaPagoU"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-instapagou",
+                        "es": "configurar-pago-con-instapagou",
+                        "pt": "configurar-pagamento-com-instapagou"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -28548,6 +28577,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with RedebanConnector",
+                        "es": "Configurar pago con RedebanConnector",
+                        "pt": "Configurar pagamento com RedebanConnector"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-redebanconnector",
+                        "es": "configurar-pago-con-redebanconnector",
+                        "pt": "configurar-pagamento-com-redebanconnector"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with RedPayV2",
                         "es": "Configurar pago con RedPayV2",
                         "pt": "Configurar pagamento com RedPayV2"
@@ -28977,6 +29021,21 @@
                         "en": "setting-up-payments-with-tiptoppay",
                         "es": "configurar-pago-con-tiptoppay",
                         "pt": "configurar-pagamento-com-tiptoppay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with Toku",
+                        "es": "Configurar pago con Toku",
+                        "pt": "Configurar pagamento com Toku"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-toku",
+                        "es": "configurar-pago-con-toku",
+                        "pt": "configurar-pagamento-com-toku"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -41717,21 +41776,6 @@
             },
             {
               "name": {
-                "en": "CatalogV2 User Roles not Applying",
-                "es": "No se aplican los roles de usuario de CatalogV2",
-                "pt": "As funções de usuário do CatalogV2 não estão sendo aplicadas"
-              },
-              "slug": {
-                "en": "catalogv2-user-roles-not-applying",
-                "es": "no-se-aplican-los-roles-de-usuario-de-catalogv2",
-                "pt": "as-funcoes-de-usuario-do-catalogv2-nao-estao-sendo-aplicadas"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Catalog Search inconsistencies may not return products due to an indexing issue",
                 "es": "Es posible que la búsqueda en el catálogo no devuelva los productos debido a un problema de indexación.",
                 "pt": "As inconsistências da Pesquisa de catálogo podem não retornar produtos devido a um problema de indexação"
@@ -42655,6 +42699,21 @@
                 "en": "fullcleanup-may-generate-a-timeout",
                 "es": "la-limpieza-completa-puede-generar-un-tiempo-de-espera",
                 "pt": "fullcleanup-pode-gerar-um-tempo-limite"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CatalogV2 User Roles not Applying",
+                "es": "No se aplican los roles de usuario de CatalogV2",
+                "pt": "Funções de usuário do CatalogV2 não se aplicam"
+              },
+              "slug": {
+                "en": "catalogv2-user-roles-not-applying",
+                "es": "no-se-aplican-los-roles-de-usuario-de-catalogv2",
+                "pt": "funcoes-de-usuario-do-catalogv2-nao-se-aplicam"
               },
               "origin": "",
               "type": "markdown",
@@ -54973,21 +55032,6 @@
             },
             {
               "name": {
-                "en": "Space in street property in Postal Code JSON affects address field display at checkout",
-                "es": "El espacio en el campo «código postal» del JSON afecta a la visualización del campo de la dirección durante el proceso de pago",
-                "pt": "O espaço na propriedade da rua no código postal JSON afeta a exibição do campo de endereço no checkout"
-              },
-              "slug": {
-                "en": "space-in-street-property-in-postal-code-json-affects-address-field-display-at-checkout",
-                "es": "el-espacio-en-el-campo-codigo-postal-del-json-afecta-a-la-visualizacion-del-campo-de-la-direccion-durante-el-proceso-de-pago",
-                "pt": "o-espaco-na-propriedade-da-rua-no-codigo-postal-json-afeta-a-exibicao-do-campo-de-endereco-no-checkout"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "The holiday is not shown in the list after using the API to create (PUT)",
                 "es": "Las vacaciones no se muestran en la lista después de utilizar la API para crear (PUT)",
                 "pt": "O feriado não é mostrado na lista depois de usar o API para criar (PUT)"
@@ -55056,21 +55100,6 @@
                 "en": "excluded-warehouses-continue-to-return-stock-availability-in-the-simulation-and-availability-api",
                 "es": "los-almacenes-excluidos-siguen-devolviendo-la-disponibilidad-de-stock-en-la-simulacion-y-la-api-de-disponibilidad",
                 "pt": "os-armazens-excluidos-continuam-a-apresentar-disponibilidade-de-estoque-na-simulacao-e-na-api-de-disponibilidade"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Pick-up points do not work in the shipping simulator in countries that do not use our postal code API",
-                "es": "Los puntos de recogida no funcionan en el simulador de envíos en los países que no utilizan nuestra API de códigos postales.",
-                "pt": "Os pontos de coleta não funcionam no simulador de envios em países que não utilizam nossa API de código postal."
-              },
-              "slug": {
-                "en": "pickup-points-do-not-work-in-the-shipping-simulator-in-countries-that-do-not-use-our-postal-code-api",
-                "es": "los-puntos-de-recogida-no-funcionan-en-el-simulador-de-envios-en-los-paises-que-no-utilizan-nuestra-api-de-codigos-postales",
-                "pt": "os-pontos-de-coleta-nao-funcionam-no-simulador-de-envios-em-paises-que-nao-utilizam-nossa-api-de-codigo-postal"
               },
               "origin": "",
               "type": "markdown",
