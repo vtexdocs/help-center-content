@@ -21,7 +21,7 @@ Antes, para enviar a mesma mensagem rápida a vários contatos, o atendente prec
 Agora, a partir do menu de opções de uma mensagem rápida salva, o atendente pode:
  
 - **Enviar para várias conversas ao mesmo tempo**, sem precisar abrir cada uma.
-- **Escolher os contatos** que receberão a mensagem. Por padrão, todas os contatos vêm selecionados.
+- **Escolher os contatos** que receberão a mensagem. Por padrão, todos os contatos vêm selecionados.
 - **Revisar antes de enviar**, por meio de um checklist de confirmação que evita envios em massa acidentais.
 - **Acompanhar o envio** com uma barra de progresso em tempo real e receber uma notificação de confirmação com a quantidade de conversas que receberam a mensagem.
 
