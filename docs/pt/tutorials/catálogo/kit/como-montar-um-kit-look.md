@@ -145,7 +145,7 @@ Para associar o template a um novo layout de página de produto, que será aplic
 4. Clique em **New Layout**.
 5. Preencha os campos **Layout Name** e **Body Class**.
 6. Em **Template**, selecione o template criado com o código do kit look.
-8. Desmarque a opção **Default Page**. Com ela marcada, o layout é aplicado a todos os produtos da loja, e não apenas aos kits.
+7. Desmarque a opção **Default Page**. Com ela marcada, o layout é aplicado a todos os produtos da loja, e não apenas aos kits.
 
 #### Atribuir o layout aos kits
 
