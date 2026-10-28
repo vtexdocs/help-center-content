@@ -58,7 +58,7 @@ Você também pode enviar uma mensagem rápida salva para várias conversas de u
 
 > ℹ️ Por padrão, todos os contatos estão selecionados.
 
-5. Clique na caixa de seleção de **Verifiquei todos os campos e quero enviar** para confirme a revisão do envio em massa.
+5. Clique na caixa de seleção de **Verifiquei todos os campos e quero enviar** para confirmar a revisão do envio em massa.
 
 > ⚠️ O checklist de confirmação é obrigatório e ajuda a evitar envios em massa acidentais. Revise os contatos selecionados antes de confirmar.
 
