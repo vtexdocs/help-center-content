@@ -39,6 +39,51 @@
               "children": [
                 {
                   "name": {
+                    "en": "Orders: Item-level promotions display available for all stores",
+                    "es": "Pedidos: vista de promoción por ítem disponible para todas las tiendas",
+                    "pt": "Pedidos: visualização de promoção por item disponível para todas as lojas"
+                  },
+                  "slug": {
+                    "en": "2026-10-28-orders-item-level-promotions-display-available-for-all-stores",
+                    "es": "2026-10-28-pedidos-vista-de-promocion-por-item-disponible-para-todas-las-tiendas",
+                    "pt": "2026-10-28-pedidos-visualizacao-de-promocao-por-item-disponivel-para-todas-as-lojas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "\"Complemento de pago\" download now available in the VTEX Admin",
+                    "es": "Descargar complemento de pago disponible en el Admin VTEX",
+                    "pt": "Download do complemento de pago disponível no Admin VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-10-27-pago-complement-download-now-available-in-vtex-admin",
+                    "es": "2026-10-27-descarga-del-complemento-de-pago-disponible-en-el-admin-vtex",
+                    "pt": "2026-10-27-download-do-complemento-de-pago-disponivel-no-admin-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "VTEX Shield: Fraud Prevention available for all accounts",
+                    "es": "VTEX Shield: Prevención de fraude disponible para todas las cuentas",
+                    "pt": "VTEX Shield: Prevenção contra fraudes disponível para todas as contas"
+                  },
+                  "slug": {
+                    "en": "2026-10-26-vtex-shield-fraud-prevention-available-for-all-accounts",
+                    "es": "2026-10-26-vtex-shield-prevencion-de-fraude-disponible-para-todas-las-cuentas",
+                    "pt": "2026-10-26-vtex-shield-prevencao-contra-fraudes-disponivel-para-todas-as-contas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Native personal data management in Master Data v2",
                     "es": "Gestión nativa de datos personales en Master Data v2",
                     "pt": "Gestão nativa de dados pessoais no Master Data v2"
@@ -25949,6 +25994,36 @@
                 },
                 {
                   "name": {
+                    "en": "Digital wallet (ewallet)",
+                    "es": "Cartera digital (ewallet)",
+                    "pt": "Carteira digital (ewallet)"
+                  },
+                  "slug": {
+                    "en": "what-is-an-e-wallet",
+                    "es": "que-es-una-cartera-digital",
+                    "pt": "o-que-e-uma-carteira-digital-e-wallet"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Offline payment condition",
+                    "es": "Condición de pago offline",
+                    "pt": "Condição de pagamento offline"
+                  },
+                  "slug": {
+                    "en": "what-is-an-offline-payment-condition",
+                    "es": "que-es-una-condicion-de-pago-offline",
+                    "pt": "o-que-e-uma-condicao-de-pagamento-offline"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "What is Deposit Slip",
                     "es": "Qué es Ficha de Depósito",
                     "pt": "O que é  Ficha Depósito"
@@ -25994,51 +26069,6 @@
                 },
                 {
                   "name": {
-                    "en": "What is an ewallet?",
-                    "es": "¿Qué es una cartera digital (ewallet)?",
-                    "pt": "O que é uma carteira digital (ewallet)?"
-                  },
-                  "slug": {
-                    "en": "what-is-an-e-wallet",
-                    "es": "que-es-una-cartera-digital",
-                    "pt": "o-que-e-uma-carteira-digital-e-wallet"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is an offline payment condition?",
-                    "es": "¿Qué es una condición de pago sin conexión?",
-                    "pt": "O que é uma condição de pagamento offline?"
-                  },
-                  "slug": {
-                    "en": "what-is-an-offline-payment-condition",
-                    "es": "que-es-una-condicion-de-pago-offline",
-                    "pt": "o-que-e-uma-condicao-de-pagamento-offline"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a transaction?",
-                    "es": "¿Qué es una transacción?",
-                    "pt": "O que é uma transação?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-transaction",
-                    "es": "que-es-una-transaccion",
-                    "pt": "o-que-e-uma-transacao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Payment Provider Protocol",
                     "es": "Payment Provider Protocol",
                     "pt": "Payment Provider Protocol"
@@ -26047,6 +26077,21 @@
                     "en": "payment-provider-protocol",
                     "es": "payment-provider-protocol",
                     "pt": "payment-provider-protocol"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Payment transaction",
+                    "es": "Transacción de pago",
+                    "pt": "Transação de pagamento"
+                  },
+                  "slug": {
+                    "en": "what-is-a-transaction",
+                    "es": "que-es-una-transaccion",
+                    "pt": "o-que-e-uma-transacao"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26820,6 +26865,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with Dinelco",
+                        "es": "Configurar pago con Dinelco",
+                        "pt": "Configurar pagamento com Dinelco"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-dinelco",
+                        "es": "configurar-pago-con-dinelco",
+                        "pt": "configurar-pagamento-com-dinelco"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with Directa",
                         "es": "Configurar pago con Directa",
                         "pt": "Configurar pagamento com Directa"
@@ -27030,6 +27090,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with FastPayBrasil",
+                        "es": "Configurar pago con FastPayBrasil",
+                        "pt": "Configurar pagamento com FastPayBrasil"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-fastpaybrasil",
+                        "es": "configurar-pago-con-fastpaybrasil",
+                        "pt": "configurar-pagamento-com-fastpaybrasil"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with FCamara (Payment initiator)",
                         "es": "Configurar pago con FCamara (Iniciador de pagos)",
                         "pt": "Configurar pagamento com FCamara (Iniciador de pagamentos)"
@@ -27180,6 +27255,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with GlobalPay",
+                        "es": "Configurar pago con GlobalPay",
+                        "pt": "Configurar pagamento com GlobalPay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-globalpay",
+                        "es": "configurar-pago-con-globalpay",
+                        "pt": "configurar-pagamento-com-globalpay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with GlobalPay-Redeban",
                         "es": "Configurar pago con GlobalPay-Redeban",
                         "pt": "Configurar pagamento com GlobalPay-Redeban"
@@ -27188,6 +27278,21 @@
                         "en": "setting-up-payments-with-globalpay-redeban",
                         "es": "configurar-pago-con-globalpay-redeban",
                         "pt": "configurar-pagamento-com-globalpay-redeban"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with GlobalPayBancolombia",
+                        "es": "Configurar pago con GlobalPayBancolombia",
+                        "pt": "Configurar pagamento com GlobalPayBancolombia"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-globalpaybancolombia",
+                        "es": "configurar-pago-con-globalpaybancolombia",
+                        "pt": "configurar-pagamento-com-globalpaybancolombia"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -27210,6 +27315,36 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with GlobalPayNiqui",
+                        "es": "Configurar pago con GlobalPayNiqui",
+                        "pt": "Configurar pagamento com GlobalPayNiqui"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-globalpayniqui",
+                        "es": "configurar-pago-con-globalpayniqui",
+                        "pt": "configurar-pagamento-com-globalpayniqui"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with GlobalPayPSE",
+                        "es": "Configurar pago con GlobalPayPSE",
+                        "pt": "Configurar pagamento com GlobalPayPSE"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-globalpaypse",
+                        "es": "configurar-pago-con-globalpaypse",
+                        "pt": "configurar-pagamento-com-globalpaypse"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with GOcuotas",
                         "es": "Configurar pago con GOcuotas",
                         "pt": "Configurar pagamento com GOcuotas"
@@ -27218,6 +27353,21 @@
                         "en": "setting-up-payments-with-gocuotas",
                         "es": "configurar-pago-con-gocuotas",
                         "pt": "configurar-pagamento-com-gocuotas"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with HibouPay",
+                        "es": "Configurar pago con HibouPay",
+                        "pt": "Configurar pagamento com HibouPay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-hiboupay",
+                        "es": "configurar-pago-con-hiboupay",
+                        "pt": "configurar-pagamento-com-hiboupay"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -27264,6 +27414,21 @@
                         "en": "setting-up-payments-with-instapago",
                         "es": "configurar-pago-con-instapago",
                         "pt": "configurar-pagamento-com-instapago"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with InstaPagoU",
+                        "es": "Configurar pago con InstaPagoU",
+                        "pt": "Configurar pagamento com InstaPagoU"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-instapagou",
+                        "es": "configurar-pago-con-instapagou",
+                        "pt": "configurar-pagamento-com-instapagou"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -27797,6 +27962,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with OderoPay",
+                        "es": "Configurar pago con OderoPay",
+                        "pt": "Configurar pagamento com OderoPay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-oderopay",
+                        "es": "configurar-pago-con-oderopay",
+                        "pt": "configurar-pagamento-com-oderopay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with OpenpayV2",
                         "es": "Configurar pago con OpenpayV2",
                         "pt": "Configurar pagamento com OpenpayV2"
@@ -28097,6 +28277,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with PaymentsWay",
+                        "es": "Configurar pago con PaymentsWay",
+                        "pt": "Configurar pagamento com PaymentsWay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-paymentsway",
+                        "es": "configurar-pago-con-paymentsway",
+                        "pt": "configurar-pagamento-com-paymentsway"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with PayPalCheckout",
                         "es": "Configurar pago con PayPalCheckout",
                         "pt": "Configurar pagamento com PayPalCheckout"
@@ -28375,6 +28570,21 @@
                         "en": "setting-up-payments-with-qhantuy",
                         "es": "configurar-pago-con-qhantuy",
                         "pt": "configurar-pagamento-com-qhantuy"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with RedebanConnector",
+                        "es": "Configurar pago con RedebanConnector",
+                        "pt": "Configurar pagamento com RedebanConnector"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-redebanconnector",
+                        "es": "configurar-pago-con-redebanconnector",
+                        "pt": "configurar-pagamento-com-redebanconnector"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -28811,6 +29021,21 @@
                         "en": "setting-up-payments-with-tiptoppay",
                         "es": "configurar-pago-con-tiptoppay",
                         "pt": "configurar-pagamento-com-tiptoppay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with Toku",
+                        "es": "Configurar pago con Toku",
+                        "pt": "Configurar pagamento com Toku"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-toku",
+                        "es": "configurar-pago-con-toku",
+                        "pt": "configurar-pagamento-com-toku"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -29300,8 +29525,8 @@
                     },
                     {
                       "name": {
-                        "en": "Configuring a Boleto",
-                        "es": "Configurar boleto bancario",
+                        "en": "Configuring a boleto (for stores in Brazil)",
+                        "es": "Configurar boleto (Brasil)",
                         "pt": "Configurar boleto bancário"
                       },
                       "slug": {
@@ -35212,8 +35437,8 @@
           "children": [
             {
               "name": {
-                "en": "Opening tickets to VTEX support",
-                "es": "Abrir tickets para el soporte VTEX",
+                "en": "Opening tickets with VTEX Support",
+                "es": "Abrir tickets con el Soporte VTEX",
                 "pt": "Abrir chamados para o suporte VTEX"
               },
               "slug": {
@@ -35568,6 +35793,21 @@
                     "en": "security-incident-response-plan",
                     "es": "plan-de-respuesta-a-incidentes-de-seguridad",
                     "pt": "plano-de-resposta-a-incidentes-de-seguranca"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Reporting security incidents",
+                    "es": "Reportar incidentes de seguridad",
+                    "pt": "Reportar incidentes de segurança"
+                  },
+                  "slug": {
+                    "en": "reporting-security-incidents",
+                    "es": "reportar-incidentes-de-seguridad",
+                    "pt": "reportar-incidentes-de-seguranca"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -41551,21 +41791,6 @@
             },
             {
               "name": {
-                "en": "CatalogV2 User Roles not Applying",
-                "es": "No se aplican los roles de usuario de CatalogV2",
-                "pt": "As funções de usuário do CatalogV2 não estão sendo aplicadas"
-              },
-              "slug": {
-                "en": "catalogv2-user-roles-not-applying",
-                "es": "no-se-aplican-los-roles-de-usuario-de-catalogv2",
-                "pt": "as-funcoes-de-usuario-do-catalogv2-nao-estao-sendo-aplicadas"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Catalog Search inconsistencies may not return products due to an indexing issue",
                 "es": "Es posible que la búsqueda en el catálogo no devuelva los productos debido a un problema de indexación.",
                 "pt": "As inconsistências da Pesquisa de catálogo podem não retornar produtos devido a um problema de indexação"
@@ -42489,6 +42714,21 @@
                 "en": "fullcleanup-may-generate-a-timeout",
                 "es": "la-limpieza-completa-puede-generar-un-tiempo-de-espera",
                 "pt": "fullcleanup-pode-gerar-um-tempo-limite"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CatalogV2 User Roles not Applying",
+                "es": "No se aplican los roles de usuario de CatalogV2",
+                "pt": "Funções de usuário do CatalogV2 não se aplicam"
+              },
+              "slug": {
+                "en": "catalogv2-user-roles-not-applying",
+                "es": "no-se-aplican-los-roles-de-usuario-de-catalogv2",
+                "pt": "funcoes-de-usuario-do-catalogv2-nao-se-aplicam"
               },
               "origin": "",
               "type": "markdown",
@@ -54807,21 +55047,6 @@
             },
             {
               "name": {
-                "en": "Space in street property in Postal Code JSON affects address field display at checkout",
-                "es": "El espacio en el campo «código postal» del JSON afecta a la visualización del campo de la dirección durante el proceso de pago",
-                "pt": "O espaço na propriedade da rua no código postal JSON afeta a exibição do campo de endereço no checkout"
-              },
-              "slug": {
-                "en": "space-in-street-property-in-postal-code-json-affects-address-field-display-at-checkout",
-                "es": "el-espacio-en-el-campo-codigo-postal-del-json-afecta-a-la-visualizacion-del-campo-de-la-direccion-durante-el-proceso-de-pago",
-                "pt": "o-espaco-na-propriedade-da-rua-no-codigo-postal-json-afeta-a-exibicao-do-campo-de-endereco-no-checkout"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "The holiday is not shown in the list after using the API to create (PUT)",
                 "es": "Las vacaciones no se muestran en la lista después de utilizar la API para crear (PUT)",
                 "pt": "O feriado não é mostrado na lista depois de usar o API para criar (PUT)"
@@ -54890,21 +55115,6 @@
                 "en": "excluded-warehouses-continue-to-return-stock-availability-in-the-simulation-and-availability-api",
                 "es": "los-almacenes-excluidos-siguen-devolviendo-la-disponibilidad-de-stock-en-la-simulacion-y-la-api-de-disponibilidad",
                 "pt": "os-armazens-excluidos-continuam-a-apresentar-disponibilidade-de-estoque-na-simulacao-e-na-api-de-disponibilidade"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Pick-up points do not work in the shipping simulator in countries that do not use our postal code API",
-                "es": "Los puntos de recogida no funcionan en el simulador de envíos en los países que no utilizan nuestra API de códigos postales.",
-                "pt": "Os pontos de coleta não funcionam no simulador de envios em países que não utilizam nossa API de código postal."
-              },
-              "slug": {
-                "en": "pickup-points-do-not-work-in-the-shipping-simulator-in-countries-that-do-not-use-our-postal-code-api",
-                "es": "los-puntos-de-recogida-no-funcionan-en-el-simulador-de-envios-en-los-paises-que-no-utilizan-nuestra-api-de-codigos-postales",
-                "pt": "os-pontos-de-coleta-nao-funcionam-no-simulador-de-envios-em-paises-que-nao-utilizam-nossa-api-de-codigo-postal"
               },
               "origin": "",
               "type": "markdown",
