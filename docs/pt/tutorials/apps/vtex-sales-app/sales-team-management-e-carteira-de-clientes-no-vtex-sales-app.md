@@ -16,7 +16,7 @@ O **Sales Operations Agent** é um agente de inteligência artificial do [VTEX S
 
 ## Pré-requisitos
 
-É necessário que a sua conta utilize o [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). Se você trabalha com times de venda que atendem carteiras de clientes, é necessário que já tenha cadastrado um [contrato B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt).
+É necessário que a sua conta utilize o [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). Se você trabalha com times de vendas que atendem carteiras de clientes, é necessário que já tenha um [contrato B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) cadastrado.
 
 ## Permissões de acesso
 
