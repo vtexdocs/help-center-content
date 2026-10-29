@@ -18,6 +18,17 @@ O **Sales Operations Agent** é um agente de inteligência artificial do [VTEX S
 
 É necessário que a sua conta utilize o [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). Se você trabalha com times de vendas que atendem carteiras de clientes, é necessário que já tenha um [contrato B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) cadastrado.
 
+## Conceitos
+
+A tabela a seguir apresenta a terminologia utilizada no **Sales Operations Agent**:
+
+| **Termo** | **Significado** |
+| :---- | :---- |
+| [Time](#realizar-acoes-em-times) | Unidade da estrutura de vendas. Pode ser organizado de forma hierárquica com times e subtimes, refletindo o organograma da organização comercial. |
+| [Sales rep](#realizar-acoes-em-sales-reps) | Pessoa do time comercial registrada via agente e com [perfil de acesso](#permissoes-de-acesso-de-sales-reps) restrito. |
+| [Carteira de clientes](#realizar-acoes-em-carteiras-de-clientes) | Vínculo entre um contrato e um time ou subtime, que permite aos sales reps visualizar e criar pedidos relacionados ao contrato. Saiba mais em [Acesso de times a contratos](#acesso-de-times-a-contratos). |
+| [Contrato B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) | [Contrato](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) previamente cadastrado na conta, utilizado na criação de carteiras de clientes. |
+
 ## Permissões de acesso
 
 Para usar o agente, o [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) do usuário precisa ter os [recursos do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager) correspondentes às ações a serem executadas.
@@ -45,17 +56,6 @@ Para conceder o acesso mínimo necessário, recomendamos [criar um perfil de ace
 Ao criar um sales rep, o agente automaticamente atribui a ele o perfil de acesso [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person). Não é possível atribuir outro perfil a sales reps.
 
 O perfil [inStore Sales Person](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#instore-sales-person) permite aos usuários acesso ao **Sales App** para visualizar e criar pedidos em nome de clientes.
-
-## Conceitos
-
-A tabela a seguir apresenta a terminologia utilizada no **Sales Operations Agent**:
-
-| **Termo** | **Significado** |
-| :---- | :---- |
-| [Time](#realizar-acoes-em-times) | Unidade da estrutura de vendas. Pode ser organizado de forma hierárquica com times e subtimes, refletindo o organograma da organização comercial. |
-| [Sales rep](#realizar-acoes-em-sales-reps) | Pessoa do time comercial registrada via agente e com [perfil de acesso](#permissoes-de-acesso-de-sales-reps) restrito. |
-| [Carteira de clientes](#realizar-acoes-em-carteiras-de-clientes) | Vínculo entre um contrato e um time ou subtime, que permite aos sales reps visualizar e criar pedidos relacionados ao contrato. Saiba mais em [Acesso de times a contratos](#acesso-de-times-a-contratos). |
-| [Contrato B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) | [Contrato](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) previamente cadastrado na conta, utilizado na criação de carteiras de clientes. |
 
 ## Casos de uso
 
