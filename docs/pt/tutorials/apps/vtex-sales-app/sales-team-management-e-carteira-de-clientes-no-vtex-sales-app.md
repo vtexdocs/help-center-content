@@ -179,7 +179,7 @@ Vincular um contrato a um time define a carteira de clientes daquele time e muda
 
 ### Realizar ações em massa em times, sales reps e carteiras de clientes
 
-O **Sales Operations Agent** permite que você realize ações em massa por meio da importação de arquivos no formato `.xlsx`, `.csv`, `.txt` ou `.json`. Isso se aplica aos seguintes cenários:
+O **Sales Operations Agent** permite que você realize ações em massa por meio da importação de arquivos nos formatos `.xlsx`, `.csv`, `.txt` ou `.json`. Isso se aplica aos seguintes cenários:
 
 - **Times:** criar, mover, editar ou desativar times (desativação apenas para times vazios) e criar subtimes a partir dos sales reps.
 - **Sales reps:** criar, adicionar ou remover sales reps de times.
