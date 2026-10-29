@@ -3,7 +3,7 @@ title: 'Approving payment of the bank payment slip'
 id: tutorials_184
 status: PUBLISHED
 createdAt: 2017-04-27T22:16:19.919Z
-updatedAt: 2024-06-03T20:36:09.927Z
+updatedAt: 2026-10-29T00:00:00.000Z
 publishedAt: 2024-06-03T20:36:09.927Z
 firstPublishedAt: 2017-04-27T23:00:46.699Z
 contentType: tutorial
