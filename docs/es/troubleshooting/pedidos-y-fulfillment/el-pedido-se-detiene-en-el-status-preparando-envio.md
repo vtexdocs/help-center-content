@@ -3,7 +3,7 @@ title: 'El pedido se detiene en el status "Preparando envío"'
 id: 2yia6QhoLh204lHzEaIrnK
 status: PUBLISHED
 createdAt: 2025-02-07T14:22:07.199Z
-updatedAt: 2025-02-07T17:20:26.154Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-02-07T17:20:26.154Z
 firstPublishedAt: 2025-02-07T17:20:26.154Z
 contentType: tutorial

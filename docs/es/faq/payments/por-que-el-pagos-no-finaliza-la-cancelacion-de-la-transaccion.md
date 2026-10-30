@@ -4,7 +4,7 @@ excerpt: "La transacción se queda en Cancelando cuando el gateway no devuelve u
 id: 3IBqfy5IhOMkYKuKmu2wSs
 status: PUBLISHED
 createdAt: 2017-05-16T14:37:21.265Z
-updatedAt: 2019-12-31T14:23:49.504Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:23:49.504Z
 firstPublishedAt: 2017-05-18T18:55:27.278Z
 contentType: frequentlyAskedQuestion

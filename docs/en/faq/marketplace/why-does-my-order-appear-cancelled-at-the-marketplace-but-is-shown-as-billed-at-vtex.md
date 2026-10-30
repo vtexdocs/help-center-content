@@ -4,7 +4,7 @@ excerpt: "After billing, VTEX no longer receives marketplace cancellations. Comp
 id: frequentlyAskedQuestions_6279
 status: PUBLISHED
 createdAt: 2017-04-27T22:22:27.939Z
-updatedAt: 2019-12-31T14:24:13.695Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:13.695Z
 firstPublishedAt: 2017-04-27T23:02:45.597Z
 contentType: frequentlyAskedQuestion

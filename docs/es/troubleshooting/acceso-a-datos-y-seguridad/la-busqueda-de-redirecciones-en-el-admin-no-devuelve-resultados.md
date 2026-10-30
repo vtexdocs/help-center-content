@@ -3,7 +3,7 @@ title: 'La búsqueda de redirecciones en el Admin no devuelve resultados'
 id: 2u5cJhUSVM6bbEAFkgUww7
 status: PUBLISHED
 createdAt: 2024-07-24T13:41:02.016Z
-updatedAt: 2024-11-08T19:06:54.349Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2024-11-08T19:06:54.349Z
 firstPublishedAt: 2024-07-24T14:13:11.586Z
 contentType: tutorial

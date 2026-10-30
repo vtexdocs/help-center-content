@@ -4,7 +4,7 @@ title: '¿Por qué no se enviaron los precios de los productos de mi tienda al
 id: 7LMjXNoYJXsgPyKFkk6I25
 status: PUBLISHED
 createdAt: 2024-09-13T18:09:21.855Z
-updatedAt: 2024-11-08T18:33:24.038Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2024-11-08T18:33:24.038Z
 firstPublishedAt: 2024-09-13T18:21:24.321Z
 contentType: tutorial

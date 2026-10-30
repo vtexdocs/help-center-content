@@ -4,7 +4,7 @@ excerpt: "After three failed login attempts, VTEX ID blocks the email for one ho
 id: 1DISDN4tFaSSccu2WK2amG
 status: PUBLISHED
 createdAt: 2017-05-09T13:46:57.095Z
-updatedAt: 2019-12-31T14:25:13.615Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:25:13.615Z
 firstPublishedAt: 2017-05-09T13:48:52.807Z
 contentType: frequentlyAskedQuestion

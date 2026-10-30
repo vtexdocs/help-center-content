@@ -3,7 +3,7 @@ title: 'Mi transportadora no se muestra en el checkout'
 id:
 status: PUBLISHED
 createdAt: 2026-02-20T00:00:00.199Z
-updatedAt: 2026-02-20T00:00:00.199Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2026-02-20T00:00:00.199Z
 firstPublishedAt: 2026-02-20T00:00:00.199Z
 contentType: tutorial

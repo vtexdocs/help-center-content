@@ -4,7 +4,7 @@ excerpt: "Empiece por el log de la transacción en el Admin. Muestra cada solici
 id: 3d183R70xqAYoyyqwaAmGa
 status: PUBLISHED
 createdAt: 2017-05-09T13:38:39.142Z
-updatedAt: 2019-12-31T14:25:26.812Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:25:26.812Z
 firstPublishedAt: 2017-05-09T13:44:57.343Z
 contentType: frequentlyAskedQuestion
