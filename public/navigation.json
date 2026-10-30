@@ -114,8 +114,8 @@
                 },
                 {
                   "name": {
-                    "en": "Persistent login: set how long your customers stay authenticated",
-                    "es": "Inicio de sesión persistente: define por cuánto tiempo tus clientes permanecen autenticados",
+                    "en": "Persistent login: Set how long your customers stay authenticated",
+                    "es": "Inicio de sesión persistente: define cuánto tiempo permanecen autenticados tus clientes",
                     "pt": "Login persistente: defina por quanto tempo seus clientes permanecem autenticados"
                   },
                   "slug": {
