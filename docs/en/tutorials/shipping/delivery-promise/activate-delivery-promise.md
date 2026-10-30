@@ -38,7 +38,7 @@ In this step, you choose where Delivery Promise will be used and confirm the con
 
 Complete the following sections:
 
-1. **Trade policies:** select the [sales channels](https://help.vtex.com/en/docs/tutorials/how-trade-policies-work) where Delivery Promise will be used. You can select up to four sales channels.
+1. **Sales Channels:** select the [sales channels](https://help.vtex.com/en/docs/tutorials/how-trade-policies-work) where Delivery Promise will be used. You can select up to four sales channels.
 2. **Conditions of use:** select **I understand that I won't be able to activate these features while Delivery Promise is active**. Delivery Promise isn't compatible with the following features, and using them can cause problems in the store:
     * [Multilevel Omnichannel Inventory](https://help.vtex.com/en/docs/tutorials/multilevel-omnichannel-inventory)
     * [Operational capacity](https://help.vtex.com/en/docs/tutorials/operational-capacity)
@@ -55,12 +55,15 @@ Complete the following sections:
 
 This step is optional for activating Delivery Promise. However, to display shipping time filters in the store, you need to configure the delivery options.
 
-Delivery Promise uses the [delivery options](https://help.vtex.com/en/docs/tutorials/delivery-options) registered in your account to build the filters displayed to customers. In this step, review and activate the suggestions:
+Delivery Promise uses the [delivery options](https://help.vtex.com/en/docs/tutorials/delivery-options) registered in your account to build the filters displayed to customers. To make this configuration easier, the platform analyzes the logistics of your account and all its sellers and automatically generates delivery options.
+
+In this step, review the generated options and define which ones will be used as filters:
 
 1. Click `Go to Delivery option`.
-2. On the Delivery Options preferences page, choose which options should appear as filters in the store (up to three) and set the display order. The first option in the list is highlighted when the filter is active on the storefront.
-3. Save the changes and go back to the **Delivery Promise** page.
-4. Click `Next`.
+2. Check the automatically generated delivery options. If needed, edit them to reflect your operation.
+3. On the Delivery Options preferences page, choose which options should appear as filters in the store (up to three) and set the display order. The first option in the list is highlighted when the filter is active on the storefront.
+4. Save the changes and go back to the **Delivery Promise** page.
+5. Click `Next`.
 
 ## Step 3: Configuring the storefront
 
