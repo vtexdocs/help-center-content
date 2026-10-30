@@ -58187,6 +58187,21 @@
             },
             {
               "name": {
+                "en": "Change v1 Item disappears from UI after being invoiced, scenario with promotion.",
+                "es": "El cambio v1 El artículo desaparece de la interfaz de usuario después de ser facturado, escenario con promoción.",
+                "pt": "Alteração v1: O item desaparece da interface do usuário após ser faturado, cenário com promoção."
+              },
+              "slug": {
+                "en": "change-v1-item-disappears-from-ui-after-being-invoiced-scenario-with-promotion",
+                "es": "el-cambio-v1-el-articulo-desaparece-de-la-interfaz-de-usuario-despues-de-ser-facturado-escenario-con-promocion",
+                "pt": "alteracao-v1-o-item-desaparece-da-interface-do-usuario-apos-ser-faturado-cenario-com-promocao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Order changes can leave capture, cancellation and refund amounts out of sync with the order",
                 "es": "Los cambios en el pedido pueden provocar que los importes de captura, cancelación y reembolso no coincidan con el pedido.",
                 "pt": "Alterações no pedido podem fazer com que os valores de captura, cancelamento e reembolso fiquem dessincronizados com o pedido."
@@ -58217,24 +58232,9 @@
             },
             {
               "name": {
-                "en": "Change v1 Item disappears from UI after being invoiced, scenario with promotion.",
-                "es": "Cambiar v1 El artículo desaparece de la interfaz de usuario después de ser facturado, escenario con promoción.",
-                "pt": "Alterar v1 O item desaparece da interface do usuário após ser faturado, cenário com promoção."
-              },
-              "slug": {
-                "en": "change-v1-item-disappears-from-ui-after-being-invoiced-scenario-with-promotion",
-                "es": "cambiar-v1-el-articulo-desaparece-de-la-interfaz-de-usuario-despues-de-ser-facturado-escenario-con-promocion",
-                "pt": "alterar-v1-o-item-desaparece-da-interface-do-usuario-apos-ser-faturado-cenario-com-promocao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "When accessing my orders, the name that appears is the name of the ProductName without the SKU Name information.",
                 "es": "Al consultar mis pedidos, el nombre que aparece es el del «ProductName», sin la información del «SKU Name».",
-                "pt": "Ao acessar meus pedidos, o nome que aparece é o nome do produto (ProductName), sem as informações do SKU."
+                "pt": "Ao acessar meus pedidos, o nome que aparece é o nome do produto (ProductName) sem as informações do SKU."
               },
               "slug": {
                 "en": "when-accessing-my-orders-the-name-that-appears-is-the-name-of-the-productname-without-the-sku-name-information",
