@@ -1,12 +1,12 @@
 ---
 title: 'Configurar pagamentos com Promissória'
 createdAt: 2018-06-21T20:20:24.484Z
-updatedAt: 2025-02-26T18:35:04.108Z
+updatedAt: 2026-10-22T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 245tA425AIeioKAk2eaiwS
 slugEN: setting-up-payments-with-notes-payable
 locale: pt
+hidden: false
 ---
 
 Na VTEX, sua loja pode receber pagamentos por meio de promissórias customizadas. Para isso, você deve seguir os seguintes passos:
@@ -43,6 +43,9 @@ Após cadastrar o provedor de pagamento, siga os passos abaixo:
 - **Faturamento automático:** Quantidade de dias para faturamento automático da promissória após autorização. Promissórias são faturadas no momento da autorização do pagamento. Ao configurar esse campo, o faturamento deixará de acontecer na autorização e passará a ser feito após o número de dias definido pelo cliente.
 
 5. Clique em `Salvar`.
+
+> ⚠️ O Admin VTEX permite configurar até 20 promissórias customizadas por padrão. Para ampliar esse limite (máximo de 100 por conta), abra um ticket no [Suporte VTEX](https://supporticket.vtex.com/support).
+
 
 
 ## Configurar condição de pagamento

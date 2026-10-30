@@ -39,6 +39,81 @@
               "children": [
                 {
                   "name": {
+                    "en": "Orders: Item-level promotions display available for all stores",
+                    "es": "Pedidos: vista de promoción por ítem disponible para todas las tiendas",
+                    "pt": "Pedidos: visualização de promoção por item disponível para todas as lojas"
+                  },
+                  "slug": {
+                    "en": "2026-10-28-orders-item-level-promotions-display-available-for-all-stores",
+                    "es": "2026-10-28-pedidos-vista-de-promocion-por-item-disponible-para-todas-las-tiendas",
+                    "pt": "2026-10-28-pedidos-visualizacao-de-promocao-por-item-disponivel-para-todas-as-lojas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "\"Complemento de pago\" download now available in the VTEX Admin",
+                    "es": "Descargar complemento de pago disponible en el Admin VTEX",
+                    "pt": "Download do complemento de pago disponível no Admin VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-10-27-pago-complement-download-now-available-in-vtex-admin",
+                    "es": "2026-10-27-descarga-del-complemento-de-pago-disponible-en-el-admin-vtex",
+                    "pt": "2026-10-27-download-do-complemento-de-pago-disponivel-no-admin-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "VTEX Shield: Fraud Prevention available for all accounts",
+                    "es": "VTEX Shield: Prevención de fraude disponible para todas las cuentas",
+                    "pt": "VTEX Shield: Prevenção contra fraudes disponível para todas as contas"
+                  },
+                  "slug": {
+                    "en": "2026-10-26-vtex-shield-fraud-prevention-available-for-all-accounts",
+                    "es": "2026-10-26-vtex-shield-prevencion-de-fraude-disponible-para-todas-las-cuentas",
+                    "pt": "2026-10-26-vtex-shield-prevencao-contra-fraudes-disponivel-para-todas-as-contas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Native personal data management in Master Data v2",
+                    "es": "Gestión nativa de datos personales en Master Data v2",
+                    "pt": "Gestão nativa de dados pessoais no Master Data v2"
+                  },
+                  "slug": {
+                    "en": "2026-10-22-native-personal-data-management-in-master-data-v2",
+                    "es": "2026-10-22-gestion-nativa-de-datos-personales-en-master-data-v2",
+                    "pt": "2026-10-22-gestao-nativa-de-dados-pessoais-no-master-data-v2"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Delivery Promise: now available to all merchants",
+                    "es": "Delivery Promise: ahora disponible para todos los retailers",
+                    "pt": "Delivery Promise: agora disponível para todos os lojistas"
+                  },
+                  "slug": {
+                    "en": "2026-10-21-delivery-promise-now-generally-available",
+                    "es": "2026-10-21-delivery-promise-ahora-disponible-para-todas-las-tiendas",
+                    "pt": "2026-10-21-delivery-promise-agora-disponivel-para-todos-os-lojistas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Persistent login: set how long your customers stay authenticated",
                     "es": "Inicio de sesión persistente: define por cuánto tiempo tus clientes permanecen autenticados",
                     "pt": "Login persistente: defina por quanto tempo seus clientes permanecem autenticados"
@@ -22302,6 +22377,67 @@
           "children": [
             {
               "name": {
+                "en": "Delivery Promise",
+                "es": "Delivery Promise",
+                "pt": "Delivery Promise"
+              },
+              "slug": {
+                "en": "delivery-promise-subcategory",
+                "es": "delivery-promise-subcategoria",
+                "pt": "delivery-promise-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Activating Delivery Promise",
+                    "es": "Activar Delivery Promise",
+                    "pt": "Ativar o Delivery Promise"
+                  },
+                  "slug": {
+                    "en": "activate-delivery-promise",
+                    "es": "activar-delivery-promise",
+                    "pt": "ativar-delivery-promise"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Delivery Promise",
+                    "es": "Delivery Promise",
+                    "pt": "Delivery Promise"
+                  },
+                  "slug": {
+                    "en": "delivery-promise",
+                    "es": "delivery-promise",
+                    "pt": "delivery-promise"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Delivery Promise: FAQ",
+                    "es": "Delivery Promise: preguntas frecuentes",
+                    "pt": "Delivery Promise: FAQ"
+                  },
+                  "slug": {
+                    "en": "delivery-promise-faq",
+                    "es": "delivery-promise-faq",
+                    "pt": "delivery-promise-faq"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Inventory",
                 "es": "Inventario",
                 "pt": "Inventário"
@@ -23278,6 +23414,21 @@
                 "en": "logistics-glossary",
                 "es": "glosario-de-logistica",
                 "pt": "glossario-de-logistica"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Delivery Options",
+                "es": "Opciones de envío",
+                "pt": "Opções de envio"
+              },
+              "slug": {
+                "en": "delivery-options",
+                "es": "opciones-de-envio",
+                "pt": "opcoes-de-envio"
               },
               "origin": "",
               "type": "markdown",
@@ -25843,6 +25994,36 @@
                 },
                 {
                   "name": {
+                    "en": "Digital wallet (ewallet)",
+                    "es": "Cartera digital (ewallet)",
+                    "pt": "Carteira digital (ewallet)"
+                  },
+                  "slug": {
+                    "en": "what-is-an-e-wallet",
+                    "es": "que-es-una-cartera-digital",
+                    "pt": "o-que-e-uma-carteira-digital-e-wallet"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Offline payment condition",
+                    "es": "Condición de pago offline",
+                    "pt": "Condição de pagamento offline"
+                  },
+                  "slug": {
+                    "en": "what-is-an-offline-payment-condition",
+                    "es": "que-es-una-condicion-de-pago-offline",
+                    "pt": "o-que-e-uma-condicao-de-pagamento-offline"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "What is Deposit Slip",
                     "es": "Qué es Ficha de Depósito",
                     "pt": "O que é  Ficha Depósito"
@@ -25888,51 +26069,6 @@
                 },
                 {
                   "name": {
-                    "en": "What is an ewallet?",
-                    "es": "¿Qué es una cartera digital (ewallet)?",
-                    "pt": "O que é uma carteira digital (ewallet)?"
-                  },
-                  "slug": {
-                    "en": "what-is-an-e-wallet",
-                    "es": "que-es-una-cartera-digital",
-                    "pt": "o-que-e-uma-carteira-digital-e-wallet"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is an offline payment condition?",
-                    "es": "¿Qué es una condición de pago sin conexión?",
-                    "pt": "O que é uma condição de pagamento offline?"
-                  },
-                  "slug": {
-                    "en": "what-is-an-offline-payment-condition",
-                    "es": "que-es-una-condicion-de-pago-offline",
-                    "pt": "o-que-e-uma-condicao-de-pagamento-offline"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a transaction?",
-                    "es": "¿Qué es una transacción?",
-                    "pt": "O que é uma transação?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-transaction",
-                    "es": "que-es-una-transaccion",
-                    "pt": "o-que-e-uma-transacao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Payment Provider Protocol",
                     "es": "Payment Provider Protocol",
                     "pt": "Payment Provider Protocol"
@@ -25941,6 +26077,21 @@
                     "en": "payment-provider-protocol",
                     "es": "payment-provider-protocol",
                     "pt": "payment-provider-protocol"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Payment transaction",
+                    "es": "Transacción de pago",
+                    "pt": "Transação de pagamento"
+                  },
+                  "slug": {
+                    "en": "what-is-a-transaction",
+                    "es": "que-es-una-transaccion",
+                    "pt": "o-que-e-uma-transacao"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26714,6 +26865,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with Dinelco",
+                        "es": "Configurar pago con Dinelco",
+                        "pt": "Configurar pagamento com Dinelco"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-dinelco",
+                        "es": "configurar-pago-con-dinelco",
+                        "pt": "configurar-pagamento-com-dinelco"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with Directa",
                         "es": "Configurar pago con Directa",
                         "pt": "Configurar pagamento com Directa"
@@ -26924,6 +27090,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with FastPayBrasil",
+                        "es": "Configurar pago con FastPayBrasil",
+                        "pt": "Configurar pagamento com FastPayBrasil"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-fastpaybrasil",
+                        "es": "configurar-pago-con-fastpaybrasil",
+                        "pt": "configurar-pagamento-com-fastpaybrasil"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with FCamara (Payment initiator)",
                         "es": "Configurar pago con FCamara (Iniciador de pagos)",
                         "pt": "Configurar pagamento com FCamara (Iniciador de pagamentos)"
@@ -27074,6 +27255,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with GlobalPay",
+                        "es": "Configurar pago con GlobalPay",
+                        "pt": "Configurar pagamento com GlobalPay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-globalpay",
+                        "es": "configurar-pago-con-globalpay",
+                        "pt": "configurar-pagamento-com-globalpay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with GlobalPay-Redeban",
                         "es": "Configurar pago con GlobalPay-Redeban",
                         "pt": "Configurar pagamento com GlobalPay-Redeban"
@@ -27082,6 +27278,21 @@
                         "en": "setting-up-payments-with-globalpay-redeban",
                         "es": "configurar-pago-con-globalpay-redeban",
                         "pt": "configurar-pagamento-com-globalpay-redeban"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with GlobalPayBancolombia",
+                        "es": "Configurar pago con GlobalPayBancolombia",
+                        "pt": "Configurar pagamento com GlobalPayBancolombia"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-globalpaybancolombia",
+                        "es": "configurar-pago-con-globalpaybancolombia",
+                        "pt": "configurar-pagamento-com-globalpaybancolombia"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -27104,6 +27315,36 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with GlobalPayNiqui",
+                        "es": "Configurar pago con GlobalPayNiqui",
+                        "pt": "Configurar pagamento com GlobalPayNiqui"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-globalpayniqui",
+                        "es": "configurar-pago-con-globalpayniqui",
+                        "pt": "configurar-pagamento-com-globalpayniqui"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with GlobalPayPSE",
+                        "es": "Configurar pago con GlobalPayPSE",
+                        "pt": "Configurar pagamento com GlobalPayPSE"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-globalpaypse",
+                        "es": "configurar-pago-con-globalpaypse",
+                        "pt": "configurar-pagamento-com-globalpaypse"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with GOcuotas",
                         "es": "Configurar pago con GOcuotas",
                         "pt": "Configurar pagamento com GOcuotas"
@@ -27112,6 +27353,21 @@
                         "en": "setting-up-payments-with-gocuotas",
                         "es": "configurar-pago-con-gocuotas",
                         "pt": "configurar-pagamento-com-gocuotas"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with HibouPay",
+                        "es": "Configurar pago con HibouPay",
+                        "pt": "Configurar pagamento com HibouPay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-hiboupay",
+                        "es": "configurar-pago-con-hiboupay",
+                        "pt": "configurar-pagamento-com-hiboupay"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -27158,6 +27414,21 @@
                         "en": "setting-up-payments-with-instapago",
                         "es": "configurar-pago-con-instapago",
                         "pt": "configurar-pagamento-com-instapago"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with InstaPagoU",
+                        "es": "Configurar pago con InstaPagoU",
+                        "pt": "Configurar pagamento com InstaPagoU"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-instapagou",
+                        "es": "configurar-pago-con-instapagou",
+                        "pt": "configurar-pagamento-com-instapagou"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -27691,6 +27962,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with OderoPay",
+                        "es": "Configurar pago con OderoPay",
+                        "pt": "Configurar pagamento com OderoPay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-oderopay",
+                        "es": "configurar-pago-con-oderopay",
+                        "pt": "configurar-pagamento-com-oderopay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with OpenpayV2",
                         "es": "Configurar pago con OpenpayV2",
                         "pt": "Configurar pagamento com OpenpayV2"
@@ -27991,6 +28277,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with PaymentsWay",
+                        "es": "Configurar pago con PaymentsWay",
+                        "pt": "Configurar pagamento com PaymentsWay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-paymentsway",
+                        "es": "configurar-pago-con-paymentsway",
+                        "pt": "configurar-pagamento-com-paymentsway"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with PayPalCheckout",
                         "es": "Configurar pago con PayPalCheckout",
                         "pt": "Configurar pagamento com PayPalCheckout"
@@ -28269,6 +28570,21 @@
                         "en": "setting-up-payments-with-qhantuy",
                         "es": "configurar-pago-con-qhantuy",
                         "pt": "configurar-pagamento-com-qhantuy"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with RedebanConnector",
+                        "es": "Configurar pago con RedebanConnector",
+                        "pt": "Configurar pagamento com RedebanConnector"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-redebanconnector",
+                        "es": "configurar-pago-con-redebanconnector",
+                        "pt": "configurar-pagamento-com-redebanconnector"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -28705,6 +29021,21 @@
                         "en": "setting-up-payments-with-tiptoppay",
                         "es": "configurar-pago-con-tiptoppay",
                         "pt": "configurar-pagamento-com-tiptoppay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with Toku",
+                        "es": "Configurar pago con Toku",
+                        "pt": "Configurar pagamento com Toku"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-toku",
+                        "es": "configurar-pago-con-toku",
+                        "pt": "configurar-pagamento-com-toku"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -29194,8 +29525,8 @@
                     },
                     {
                       "name": {
-                        "en": "Configuring a Boleto",
-                        "es": "Configurar boleto bancario",
+                        "en": "Configuring a boleto (for stores in Brazil)",
+                        "es": "Configurar boleto (Brasil)",
                         "pt": "Configurar boleto bancário"
                       },
                       "slug": {
@@ -34046,21 +34377,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Adding ticket creation fields in Zendesk",
-                    "es": "Agregando campos de creación de ticket en Zendesk",
-                    "pt": "Adicionando campos de criação de ticket no Zendesk"
-                  },
-                  "slug": {
-                    "en": "adding-ticket-creation-fields-in-zendesk",
-                    "es": "agregando-campos-de-creacion-de-ticket-en-zendesk",
-                    "pt": "adicionando-campos-de-criacao-de-ticket-no-zendesk"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Adding Discord as a channel",
                     "es": "Agregar Discord como un canal",
                     "pt": "Adicionando o Discord como um canal"
@@ -34528,7 +34844,7 @@
                   "name": {
                     "en": "WhatsApp: How to create template messages",
                     "es": "WhatsApp: Cómo crear mensajes de plantilla",
-                    "pt": "Whatsapp: Como criar Template Messages"
+                    "pt": "WhatsApp: Como criar Template Messages"
                   },
                   "slug": {
                     "en": "whatsapp-how-to-create-template-messages",
@@ -34549,21 +34865,6 @@
                     "en": "whatsapp-vtex-cx-platform-integration",
                     "es": "whatsapp-integracion-con-vtex-cx-platform",
                     "pt": "whatsapp-integracao-com-o-vtex-cx-platform"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Zendesk - human support",
-                    "es": "Zendesk - atención humana",
-                    "pt": "Zendesk - Atendimento Humano"
-                  },
-                  "slug": {
-                    "en": "zendesk-human-support",
-                    "es": "zendesk-atencion-humana",
-                    "pt": "zendesk-atendimento-humano"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -35136,8 +35437,8 @@
           "children": [
             {
               "name": {
-                "en": "Opening tickets to VTEX support",
-                "es": "Abrir tickets para el soporte VTEX",
+                "en": "Opening tickets with VTEX Support",
+                "es": "Abrir tickets con el Soporte VTEX",
                 "pt": "Abrir chamados para o suporte VTEX"
               },
               "slug": {
@@ -35492,6 +35793,21 @@
                     "en": "security-incident-response-plan",
                     "es": "plan-de-respuesta-a-incidentes-de-seguridad",
                     "pt": "plano-de-resposta-a-incidentes-de-seguranca"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Reporting security incidents",
+                    "es": "Reportar incidentes de seguridad",
+                    "pt": "Reportar incidentes de segurança"
+                  },
+                  "slug": {
+                    "en": "reporting-security-incidents",
+                    "es": "reportar-incidentes-de-seguridad",
+                    "pt": "reportar-incidentes-de-seguranca"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36223,82 +36539,6 @@
                     "en": "releases-module-beta",
                     "es": "modulo-de-lanzamientos-beta",
                     "pt": "modulo-lancamentos-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Shipping Beta",
-                "es": "Envío Beta",
-                "pt": "Envio Beta"
-              },
-              "slug": {
-                "en": "shipping-beta-subcategory",
-                "es": "envio-beta-subcategoria",
-                "pt": "envio-beta-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Activating Delivery Promise",
-                    "es": "Activar Delivery Promise",
-                    "pt": "Ativar o Delivery Promise"
-                  },
-                  "slug": {
-                    "en": "activate-delivery-promise",
-                    "es": "activar-delivery-promise",
-                    "pt": "ativar-delivery-promise"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Delivery Promise (Beta)",
-                    "es": "Delivery Promise (beta)",
-                    "pt": "Delivery Promise (Beta)"
-                  },
-                  "slug": {
-                    "en": "delivery-promise-beta",
-                    "es": "delivery-promise-beta",
-                    "pt": "delivery-promise-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Delivery Promise: FAQ",
-                    "es": "Delivery Promise: FAQ",
-                    "pt": "Delivery Promise: FAQ"
-                  },
-                  "slug": {
-                    "en": "delivery-promise-faq",
-                    "es": "delivery-promise-faq",
-                    "pt": "delivery-promise-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Delivery Options (Beta)",
-                    "es": "Opciones de envío (beta)",
-                    "pt": "Opções de envio (Beta)"
-                  },
-                  "slug": {
-                    "en": "delivery-options-beta",
-                    "es": "opciones-de-envio-beta",
-                    "pt": "opcoes-de-envio-beta"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -41551,21 +41791,6 @@
             },
             {
               "name": {
-                "en": "CatalogV2 User Roles not Applying",
-                "es": "No se aplican los roles de usuario de CatalogV2",
-                "pt": "As funções de usuário do CatalogV2 não estão sendo aplicadas"
-              },
-              "slug": {
-                "en": "catalogv2-user-roles-not-applying",
-                "es": "no-se-aplican-los-roles-de-usuario-de-catalogv2",
-                "pt": "as-funcoes-de-usuario-do-catalogv2-nao-estao-sendo-aplicadas"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Catalog Search inconsistencies may not return products due to an indexing issue",
                 "es": "Es posible que la búsqueda en el catálogo no devuelva los productos debido a un problema de indexación.",
                 "pt": "As inconsistências da Pesquisa de catálogo podem não retornar produtos devido a um problema de indexação"
@@ -42489,6 +42714,21 @@
                 "en": "fullcleanup-may-generate-a-timeout",
                 "es": "la-limpieza-completa-puede-generar-un-tiempo-de-espera",
                 "pt": "fullcleanup-pode-gerar-um-tempo-limite"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CatalogV2 User Roles not Applying",
+                "es": "No se aplican los roles de usuario de CatalogV2",
+                "pt": "Funções de usuário do CatalogV2 não se aplicam"
+              },
+              "slug": {
+                "en": "catalogv2-user-roles-not-applying",
+                "es": "no-se-aplican-los-roles-de-usuario-de-catalogv2",
+                "pt": "funcoes-de-usuario-do-catalogv2-nao-se-aplicam"
               },
               "origin": "",
               "type": "markdown",
@@ -44012,12 +44252,12 @@
             {
               "name": {
                 "en": "Catalog Filters Timeout",
-                "es": "Tiempo de espera de los filtros del catálogo",
+                "es": "Los filtros del catálogo tienen un tiempo de espera agotado.",
                 "pt": "Tempo limite dos filtros do catálogo"
               },
               "slug": {
                 "en": "catalog-filters-timeout",
-                "es": "tiempo-de-espera-de-los-filtros-del-catalogo",
+                "es": "los-filtros-del-catalogo-tienen-un-tiempo-de-espera-agotado",
                 "pt": "tempo-limite-dos-filtros-do-catalogo"
               },
               "origin": "",
@@ -52600,6 +52840,21 @@
             },
             {
               "name": {
+                "en": "Product availability is not updated after a ZIP code change when returning to a previously visited page using the browser's back button",
+                "es": "La disponibilidad del producto no se actualiza después de un cambio de código postal al regresar a una página visitada anteriormente usando el botón Atrás del navegador.",
+                "pt": "A disponibilidade do produto não é atualizada após uma alteração do CEP ao retornar a uma página visitada anteriormente usando o botão \"Voltar\" do navegador."
+              },
+              "slug": {
+                "en": "product-availability-is-not-updated-after-a-zip-code-change-when-returning-to-a-previously-visited-page-using-the-browsers-back-button",
+                "es": "la-disponibilidad-del-producto-no-se-actualiza-despues-de-un-cambio-de-codigo-postal-al-regresar-a-una-pagina-visitada-anteriormente-usando-el-boton-atras-del-navegador",
+                "pt": "a-disponibilidade-do-produto-nao-e-atualizada-apos-uma-alteracao-do-cep-ao-retornar-a-uma-pagina-visitada-anteriormente-usando-o-botao-voltar-do-navegador"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Price range at the facets API doesn't correspond to the search results",
                 "es": "El rango de precios de la API de Facets no se corresponde con los resultados de la búsqueda",
                 "pt": "A faixa de preço na API do Facets não corresponde aos resultados da pesquisa"
@@ -54792,21 +55047,6 @@
             },
             {
               "name": {
-                "en": "Space in street property in Postal Code JSON affects address field display at checkout",
-                "es": "El espacio en el campo «código postal» del JSON afecta a la visualización del campo de la dirección durante el proceso de pago",
-                "pt": "O espaço na propriedade da rua no código postal JSON afeta a exibição do campo de endereço no checkout"
-              },
-              "slug": {
-                "en": "space-in-street-property-in-postal-code-json-affects-address-field-display-at-checkout",
-                "es": "el-espacio-en-el-campo-codigo-postal-del-json-afecta-a-la-visualizacion-del-campo-de-la-direccion-durante-el-proceso-de-pago",
-                "pt": "o-espaco-na-propriedade-da-rua-no-codigo-postal-json-afeta-a-exibicao-do-campo-de-endereco-no-checkout"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "The holiday is not shown in the list after using the API to create (PUT)",
                 "es": "Las vacaciones no se muestran en la lista después de utilizar la API para crear (PUT)",
                 "pt": "O feriado não é mostrado na lista depois de usar o API para criar (PUT)"
@@ -54875,21 +55115,6 @@
                 "en": "excluded-warehouses-continue-to-return-stock-availability-in-the-simulation-and-availability-api",
                 "es": "los-almacenes-excluidos-siguen-devolviendo-la-disponibilidad-de-stock-en-la-simulacion-y-la-api-de-disponibilidad",
                 "pt": "os-armazens-excluidos-continuam-a-apresentar-disponibilidade-de-estoque-na-simulacao-e-na-api-de-disponibilidade"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Pick-up points do not work in the shipping simulator in countries that do not use our postal code API",
-                "es": "Los puntos de recogida no funcionan en el simulador de envíos en los países que no utilizan nuestra API de códigos postales.",
-                "pt": "Os pontos de coleta não funcionam no simulador de envios em países que não utilizam nossa API de código postal."
-              },
-              "slug": {
-                "en": "pickup-points-do-not-work-in-the-shipping-simulator-in-countries-that-do-not-use-our-postal-code-api",
-                "es": "los-puntos-de-recogida-no-funcionan-en-el-simulador-de-envios-en-los-paises-que-no-utilizan-nuestra-api-de-codigos-postales",
-                "pt": "os-pontos-de-coleta-nao-funcionam-no-simulador-de-envios-em-paises-que-nao-utilizam-nossa-api-de-codigo-postal"
               },
               "origin": "",
               "type": "markdown",
@@ -57962,6 +58187,21 @@
             },
             {
               "name": {
+                "en": "Change v1 Item disappears from UI after being invoiced, scenario with promotion.",
+                "es": "El cambio v1 El artículo desaparece de la interfaz de usuario después de ser facturado, escenario con promoción.",
+                "pt": "Alteração v1: O item desaparece da interface do usuário após ser faturado, cenário com promoção."
+              },
+              "slug": {
+                "en": "change-v1-item-disappears-from-ui-after-being-invoiced-scenario-with-promotion",
+                "es": "el-cambio-v1-el-articulo-desaparece-de-la-interfaz-de-usuario-despues-de-ser-facturado-escenario-con-promocion",
+                "pt": "alteracao-v1-o-item-desaparece-da-interface-do-usuario-apos-ser-faturado-cenario-com-promocao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Order changes can leave capture, cancellation and refund amounts out of sync with the order",
                 "es": "Los cambios en el pedido pueden provocar que los importes de captura, cancelación y reembolso no coincidan con el pedido.",
                 "pt": "Alterações no pedido podem fazer com que os valores de captura, cancelamento e reembolso fiquem dessincronizados com o pedido."
@@ -57992,24 +58232,9 @@
             },
             {
               "name": {
-                "en": "Change v1 Item disappears from UI after being invoiced, scenario with promotion.",
-                "es": "Cambiar v1 El artículo desaparece de la interfaz de usuario después de ser facturado, escenario con promoción.",
-                "pt": "Alterar v1 O item desaparece da interface do usuário após ser faturado, cenário com promoção."
-              },
-              "slug": {
-                "en": "change-v1-item-disappears-from-ui-after-being-invoiced-scenario-with-promotion",
-                "es": "cambiar-v1-el-articulo-desaparece-de-la-interfaz-de-usuario-despues-de-ser-facturado-escenario-con-promocion",
-                "pt": "alterar-v1-o-item-desaparece-da-interface-do-usuario-apos-ser-faturado-cenario-com-promocao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "When accessing my orders, the name that appears is the name of the ProductName without the SKU Name information.",
                 "es": "Al consultar mis pedidos, el nombre que aparece es el del «ProductName», sin la información del «SKU Name».",
-                "pt": "Ao acessar meus pedidos, o nome que aparece é o nome do produto (ProductName), sem as informações do SKU."
+                "pt": "Ao acessar meus pedidos, o nome que aparece é o nome do produto (ProductName) sem as informações do SKU."
               },
               "slug": {
                 "en": "when-accessing-my-orders-the-name-that-appears-is-the-name-of-the-productname-without-the-sku-name-information",
@@ -58165,21 +58390,6 @@
                 "en": "order-authorization-lessthan-100-goes-with-the-flow",
                 "es": "la-autorizacion-de-pedidos-de-menos-de-100-va-con-la-corriente",
                 "pt": "autorizacao-de-pedido-inferior-a-100-segue-o-fluxo-normal"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Delivery Flag in My Orders. Due to an error in filling the Invoice.",
-                "es": "Bandera de entrega en Mis Pedidos. Debido a un error al rellenar la factura.",
-                "pt": "Bandeira de entrega em Meus Pedidos. Devido a um erro no preenchimento da Nota Fiscal."
-              },
-              "slug": {
-                "en": "delivery-flag-in-my-orders-due-to-an-error-in-filling-the-invoice",
-                "es": "bandera-de-entrega-en-mis-pedidos-debido-a-un-error-al-rellenar-la-factura",
-                "pt": "bandeira-de-entrega-em-meus-pedidos-devido-a-um-erro-no-preenchimento-da-nota-fiscal"
               },
               "origin": "",
               "type": "markdown",
@@ -58525,6 +58735,21 @@
                 "en": "my-subscription-showing-error-message-when-subscription-is-associated-with-a-pick-up-point",
                 "es": "mi-suscripcion-muestra-un-mensaje-de-error-cuando-esta-vinculada-a-un-punto-de-recogida",
                 "pt": "minha-assinatura-exibe-uma-mensagem-de-erro-quando-esta-associada-a-um-ponto-de-retirada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "My Account > Addresses - Required field alert not showing for city/state",
+                "es": "Mi cuenta > Direcciones: No se muestra la alerta de campo obligatorio para ciudad/estado.",
+                "pt": "Minha conta > Endereços - Alerta de campo obrigatório não exibido para cidade/estado"
+              },
+              "slug": {
+                "en": "my-account-addresses-required-field-alert-not-showing-for-citystate",
+                "es": "mi-cuenta-direcciones-no-se-muestra-la-alerta-de-campo-obligatorio-para-ciudadestado",
+                "pt": "minha-conta-enderecos-alerta-de-campo-obrigatorio-nao-exibido-para-cidadeestado"
               },
               "origin": "",
               "type": "markdown",
@@ -58938,13 +59163,13 @@
             {
               "name": {
                 "en": "The vtexcommerce-order-changed-v2 template cannot send the reason field, as in version 1 of changeOrders.",
-                "es": "La plantilla vtexcommerce-order-changed-v2 no puede enviar el campo reason, como en la versión 1 de changeOrders.",
-                "pt": "O modelo vtexcommerce-order-changed-v2 não pode enviar o campo reason, como na versão 1 de changeOrders."
+                "es": "La plantilla vtexcommerce-order-changed-v2 no puede enviar el campo de motivo, como en la versión 1 de changeOrders.",
+                "pt": "O modelo vtexcommerce-order-changed-v2 não consegue enviar o campo de motivo, diferentemente da versão 1 do changeOrders."
               },
               "slug": {
                 "en": "the-vtexcommerceorderchangedv2-template-cannot-send-the-reason-field-as-in-version-1-of-changeorders",
-                "es": "la-plantilla-vtexcommerceorderchangedv2-no-puede-enviar-el-campo-reason-como-en-la-version-1-de-changeorders",
-                "pt": "o-modelo-vtexcommerceorderchangedv2-nao-pode-enviar-o-campo-reason-como-na-versao-1-de-changeorders"
+                "es": "la-plantilla-vtexcommerceorderchangedv2-no-puede-enviar-el-campo-de-motivo-como-en-la-version-1-de-changeorders",
+                "pt": "o-modelo-vtexcommerceorderchangedv2-nao-consegue-enviar-o-campo-de-motivo-diferentemente-da-versao-1-do-changeorders"
               },
               "origin": "",
               "type": "markdown",
@@ -59028,8 +59253,8 @@
             {
               "name": {
                 "en": "First subscription cycle is skipped",
-                "es": "Se omite el primer ciclo de suscripción",
-                "pt": "O primeiro ciclo de assinatura é ignorado"
+                "es": "Se omite el primer ciclo de suscripción.",
+                "pt": "O primeiro ciclo de assinatura é ignorado."
               },
               "slug": {
                 "en": "first-subscription-cycle-is-skipped",
@@ -59650,6 +59875,21 @@
                 "en": "feed-hook-indexing-feature-skipping-events-in-fromorders-filters",
                 "es": "la-funcion-de-indexacion-de-feed-hook-omite-eventos-en-los-filtros-de-fromorders",
                 "pt": "recurso-de-indexacao-do-feed-hook-que-ignora-eventos-nos-filtros-fromorders"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Delivery Flag in My Orders. Due to an error in filling the Invoice.",
+                "es": "Error de entrega en Mis Pedidos. Debido a un error al completar la factura.",
+                "pt": "Sinal de entrega em Meus Pedidos. Devido a um erro no preenchimento da fatura."
+              },
+              "slug": {
+                "en": "delivery-flag-in-my-orders-due-to-an-error-in-filling-the-invoice",
+                "es": "error-de-entrega-en-mis-pedidos-debido-a-un-error-al-completar-la-factura",
+                "pt": "sinal-de-entrega-em-meus-pedidos-devido-a-um-erro-no-preenchimento-da-fatura"
               },
               "origin": "",
               "type": "markdown",
@@ -62503,21 +62743,6 @@
                 "en": "payments-gateway-does-not-correctly-send-subaccount-information-in-the-payload-to-the-connector",
                 "es": "payments-gateway-no-envia-correctamente-la-informacion-de-la-subcuenta-en-la-carga-util-al-conector",
                 "pt": "o-gateway-de-pagamentos-nao-envia-corretamente-as-informacoes-da-subconta-na-carga-util-para-o-conector"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Gift Card HUB acepta un identificador no válido o vacío al intentar crear una transacción",
-                "es": "Gift Card HUB acepta un identificador no válido o vacío al intentar crear una transacción",
-                "pt": "O Gift Card HUB aceita um ID inválido/vazio ao criar uma transação"
-              },
-              "slug": {
-                "en": "",
-                "es": "gift-card-hub-acepta-un-identificador-no-valido-o-vacio-al-intentar-crear-una-transaccion",
-                "pt": "o-gift-card-hub-aceita-um-id-invalidovazio-ao-criar-uma-transacao"
               },
               "origin": "",
               "type": "markdown",
@@ -69960,6 +70185,21 @@
           "origin": "",
           "type": "category",
           "children": [
+            {
+              "name": {
+                "en": "Seller lead invitation acceptance links the invite to any existing active VTEX account without validating ownership",
+                "es": "La aceptación de la invitación de contacto del vendedor vincula la invitación a cualquier cuenta VTEX activa existente sin validar la propiedad.",
+                "pt": "A aceitação do convite para contato de vendedor vincula o convite a qualquer conta VTEX ativa existente, sem necessidade de validar a propriedade."
+              },
+              "slug": {
+                "en": "seller-lead-invitation-acceptance-links-the-invite-to-any-existing-active-vtex-account-without-validating-ownership",
+                "es": "la-aceptacion-de-la-invitacion-de-contacto-del-vendedor-vincula-la-invitacion-a-cualquier-cuenta-vtex-activa-existente-sin-validar-la-propiedad",
+                "pt": "a-aceitacao-do-convite-para-contato-de-vendedor-vincula-o-convite-a-qualquer-conta-vtex-ativa-existente-sem-necessidade-de-validar-a-propriedade"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
             {
               "name": {
                 "en": "Category mapping spreadsheet does not include offers in WaitingReview",
