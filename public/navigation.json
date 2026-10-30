@@ -19181,7 +19181,7 @@
                 {
                   "name": {
                     "en": "Creating a product for presale",
-                    "es": "Registrar un producto para la preventa",
+                    "es": "Registrar un producto para preventa",
                     "pt": "Cadastrar um produto para pré-venda"
                   },
                   "slug": {
@@ -58187,6 +58187,21 @@
             },
             {
               "name": {
+                "en": "Change v1 Item disappears from UI after being invoiced, scenario with promotion.",
+                "es": "El cambio v1 El artículo desaparece de la interfaz de usuario después de ser facturado, escenario con promoción.",
+                "pt": "Alteração v1: O item desaparece da interface do usuário após ser faturado, cenário com promoção."
+              },
+              "slug": {
+                "en": "change-v1-item-disappears-from-ui-after-being-invoiced-scenario-with-promotion",
+                "es": "el-cambio-v1-el-articulo-desaparece-de-la-interfaz-de-usuario-despues-de-ser-facturado-escenario-con-promocion",
+                "pt": "alteracao-v1-o-item-desaparece-da-interface-do-usuario-apos-ser-faturado-cenario-com-promocao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Order changes can leave capture, cancellation and refund amounts out of sync with the order",
                 "es": "Los cambios en el pedido pueden provocar que los importes de captura, cancelación y reembolso no coincidan con el pedido.",
                 "pt": "Alterações no pedido podem fazer com que os valores de captura, cancelamento e reembolso fiquem dessincronizados com o pedido."
@@ -58217,24 +58232,9 @@
             },
             {
               "name": {
-                "en": "Change v1 Item disappears from UI after being invoiced, scenario with promotion.",
-                "es": "Cambiar v1 El artículo desaparece de la interfaz de usuario después de ser facturado, escenario con promoción.",
-                "pt": "Alterar v1 O item desaparece da interface do usuário após ser faturado, cenário com promoção."
-              },
-              "slug": {
-                "en": "change-v1-item-disappears-from-ui-after-being-invoiced-scenario-with-promotion",
-                "es": "cambiar-v1-el-articulo-desaparece-de-la-interfaz-de-usuario-despues-de-ser-facturado-escenario-con-promocion",
-                "pt": "alterar-v1-o-item-desaparece-da-interface-do-usuario-apos-ser-faturado-cenario-com-promocao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "When accessing my orders, the name that appears is the name of the ProductName without the SKU Name information.",
                 "es": "Al consultar mis pedidos, el nombre que aparece es el del «ProductName», sin la información del «SKU Name».",
-                "pt": "Ao acessar meus pedidos, o nome que aparece é o nome do produto (ProductName), sem as informações do SKU."
+                "pt": "Ao acessar meus pedidos, o nome que aparece é o nome do produto (ProductName) sem as informações do SKU."
               },
               "slug": {
                 "en": "when-accessing-my-orders-the-name-that-appears-is-the-name-of-the-productname-without-the-sku-name-information",
@@ -58390,21 +58390,6 @@
                 "en": "order-authorization-lessthan-100-goes-with-the-flow",
                 "es": "la-autorizacion-de-pedidos-de-menos-de-100-va-con-la-corriente",
                 "pt": "autorizacao-de-pedido-inferior-a-100-segue-o-fluxo-normal"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Delivery Flag in My Orders. Due to an error in filling the Invoice.",
-                "es": "Bandera de entrega en Mis Pedidos. Debido a un error al rellenar la factura.",
-                "pt": "Bandeira de entrega em Meus Pedidos. Devido a um erro no preenchimento da Nota Fiscal."
-              },
-              "slug": {
-                "en": "delivery-flag-in-my-orders-due-to-an-error-in-filling-the-invoice",
-                "es": "bandera-de-entrega-en-mis-pedidos-debido-a-un-error-al-rellenar-la-factura",
-                "pt": "bandeira-de-entrega-em-meus-pedidos-devido-a-um-erro-no-preenchimento-da-nota-fiscal"
               },
               "origin": "",
               "type": "markdown",
@@ -58750,6 +58735,21 @@
                 "en": "my-subscription-showing-error-message-when-subscription-is-associated-with-a-pick-up-point",
                 "es": "mi-suscripcion-muestra-un-mensaje-de-error-cuando-esta-vinculada-a-un-punto-de-recogida",
                 "pt": "minha-assinatura-exibe-uma-mensagem-de-erro-quando-esta-associada-a-um-ponto-de-retirada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "My Account > Addresses - Required field alert not showing for city/state",
+                "es": "Mi cuenta > Direcciones: No se muestra la alerta de campo obligatorio para ciudad/estado.",
+                "pt": "Minha conta > Endereços - Alerta de campo obrigatório não exibido para cidade/estado"
+              },
+              "slug": {
+                "en": "my-account-addresses-required-field-alert-not-showing-for-citystate",
+                "es": "mi-cuenta-direcciones-no-se-muestra-la-alerta-de-campo-obligatorio-para-ciudadestado",
+                "pt": "minha-conta-enderecos-alerta-de-campo-obrigatorio-nao-exibido-para-cidadeestado"
               },
               "origin": "",
               "type": "markdown",
@@ -59163,13 +59163,13 @@
             {
               "name": {
                 "en": "The vtexcommerce-order-changed-v2 template cannot send the reason field, as in version 1 of changeOrders.",
-                "es": "La plantilla vtexcommerce-order-changed-v2 no puede enviar el campo reason, como en la versión 1 de changeOrders.",
-                "pt": "O modelo vtexcommerce-order-changed-v2 não pode enviar o campo reason, como na versão 1 de changeOrders."
+                "es": "La plantilla vtexcommerce-order-changed-v2 no puede enviar el campo de motivo, como en la versión 1 de changeOrders.",
+                "pt": "O modelo vtexcommerce-order-changed-v2 não consegue enviar o campo de motivo, diferentemente da versão 1 do changeOrders."
               },
               "slug": {
                 "en": "the-vtexcommerceorderchangedv2-template-cannot-send-the-reason-field-as-in-version-1-of-changeorders",
-                "es": "la-plantilla-vtexcommerceorderchangedv2-no-puede-enviar-el-campo-reason-como-en-la-version-1-de-changeorders",
-                "pt": "o-modelo-vtexcommerceorderchangedv2-nao-pode-enviar-o-campo-reason-como-na-versao-1-de-changeorders"
+                "es": "la-plantilla-vtexcommerceorderchangedv2-no-puede-enviar-el-campo-de-motivo-como-en-la-version-1-de-changeorders",
+                "pt": "o-modelo-vtexcommerceorderchangedv2-nao-consegue-enviar-o-campo-de-motivo-diferentemente-da-versao-1-do-changeorders"
               },
               "origin": "",
               "type": "markdown",
@@ -59253,8 +59253,8 @@
             {
               "name": {
                 "en": "First subscription cycle is skipped",
-                "es": "Se omite el primer ciclo de suscripción",
-                "pt": "O primeiro ciclo de assinatura é ignorado"
+                "es": "Se omite el primer ciclo de suscripción.",
+                "pt": "O primeiro ciclo de assinatura é ignorado."
               },
               "slug": {
                 "en": "first-subscription-cycle-is-skipped",
@@ -59875,6 +59875,21 @@
                 "en": "feed-hook-indexing-feature-skipping-events-in-fromorders-filters",
                 "es": "la-funcion-de-indexacion-de-feed-hook-omite-eventos-en-los-filtros-de-fromorders",
                 "pt": "recurso-de-indexacao-do-feed-hook-que-ignora-eventos-nos-filtros-fromorders"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Delivery Flag in My Orders. Due to an error in filling the Invoice.",
+                "es": "Error de entrega en Mis Pedidos. Debido a un error al completar la factura.",
+                "pt": "Sinal de entrega em Meus Pedidos. Devido a um erro no preenchimento da fatura."
+              },
+              "slug": {
+                "en": "delivery-flag-in-my-orders-due-to-an-error-in-filling-the-invoice",
+                "es": "error-de-entrega-en-mis-pedidos-debido-a-un-error-al-completar-la-factura",
+                "pt": "sinal-de-entrega-em-meus-pedidos-devido-a-um-erro-no-preenchimento-da-fatura"
               },
               "origin": "",
               "type": "markdown",
