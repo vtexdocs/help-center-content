@@ -26039,24 +26039,9 @@
                 },
                 {
                   "name": {
-                    "en": "What is Deposit Slip",
-                    "es": "Qué es Ficha de Depósito",
-                    "pt": "O que é  Ficha Depósito"
-                  },
-                  "slug": {
-                    "en": "what-is-deposit-slip",
-                    "es": "que-es-ficha-de-deposito",
-                    "pt": "o-que-e-ficha-deposito"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is the connector?",
-                    "es": "¿Qué es el conector?",
-                    "pt": "O que é o conector?"
+                    "en": "Payment connector",
+                    "es": "Conector de pago",
+                    "pt": "Conector de pagamento"
                   },
                   "slug": {
                     "en": "what-is-the-connector",
@@ -26069,14 +26054,14 @@
                 },
                 {
                   "name": {
-                    "en": "What is the PCI SSC",
-                    "es": "Qué es el PCI SSC",
-                    "pt": "O que é o PCI SSC"
+                    "en": "Deposit Slip",
+                    "es": "Ficha de Depósito",
+                    "pt": "Ficha Depósito"
                   },
                   "slug": {
-                    "en": "what-is-the-pci-ssc",
-                    "es": "que-es-el-pci-ssc",
-                    "pt": "o-que-e-o-pci-ssc"
+                    "en": "what-is-deposit-slip",
+                    "es": "que-es-ficha-de-deposito",
+                    "pt": "o-que-e-ficha-deposito"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26092,6 +26077,21 @@
                     "en": "payment-provider-protocol",
                     "es": "payment-provider-protocol",
                     "pt": "payment-provider-protocol"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "PCI SSC",
+                    "es": "PCI SSC",
+                    "pt": "PCI SSC"
+                  },
+                  "slug": {
+                    "en": "what-is-the-pci-ssc",
+                    "es": "que-es-el-pci-ssc",
+                    "pt": "o-que-e-o-pci-ssc"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -54725,21 +54725,6 @@
                 "en": "shipping-policy-stuck-in-processing-status-is-displayed-as-active-in-the-new-logistics-ui",
                 "es": "una-politica-de-envios-que-se-encuentra-en-estado-de-procesamiento-aparece-como-activa-en-la-nueva-interfaz-de-usuario-de-logistica",
                 "pt": "a-politica-de-envio-que-esta-no-status-em-processamento-e-exibida-como-ativa-na-nova-interface-de-logistica"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Route prioritization does not offer the best option in terms of quantity of packages and items",
-                "es": "La priorización de rutas no ofrece la mejor opción en cuanto a cantidad de paquetes y artículos",
-                "pt": "A priorização de rotas não oferece a melhor opção em termos de quantidade de pacotes e itens"
-              },
-              "slug": {
-                "en": "route-prioritization-does-not-offer-the-best-option-in-terms-of-quantity-of-packages-and-items",
-                "es": "la-priorizacion-de-rutas-no-ofrece-la-mejor-opcion-en-cuanto-a-cantidad-de-paquetes-y-articulos",
-                "pt": "a-priorizacao-de-rotas-nao-oferece-a-melhor-opcao-em-termos-de-quantidade-de-pacotes-e-itens"
               },
               "origin": "",
               "type": "markdown",
