@@ -112,17 +112,17 @@ To use AI instruction validation when creating an instruction, follow these step
 
 With **Manager 2.7**, the orchestrator agent can respond using WhatsApp's native interactive components:
 
-| Component | Description |
-| --- | --- |
-| Quick replies (`quick_reply`) | Buttons with predefined options for the customer to choose from. |
-| Call-to-action buttons (`call_to_action`) | Buttons that direct the customer to an external link. |
-| List message (`list_message`) | Menu with a list of selectable options. |
+| Component                                                    | Description                                                                      |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| Quick replies (`quick_reply`)             | Buttons with predefined options for the customer to choose from. |
+| Call-to-action buttons (`call_to_action`) | Buttons that direct the customer to an external link.            |
+| List message (`list_message`)             | Menu with a list of selectable options.                          |
 
-To guide the agent to use a component, reference it directly in a custom instruction. For example: "When asking about order status, use the `quick_reply` component with the options Track order, Cancel order, and Talk to a representative."
+To instruct the agent to use a component, reference it directly in a custom instruction. For example: "When the customer asks about the order status, use the `quick_reply` component with the options Track order, Cancel order, and Talk to a representative."
 
-> ℹ️ For the agent to send interactive components, the **Multiple message format** option must be enabled in **Edit Manager > Engine**.
+> ℹ️ For the agent to send interactive components, activate the **Multiple message format** option in **Edit Manager > Engine**.
 
-> ⚠️ The product catalog is not a native Manager 2.7 component. When a Concierge agent is assigned to the team, the orchestrator triggers Concierge to send the catalog. VTEX's official Concierge agents already have this capability.
+> ⚠️ The product catalog isn't a native component of Manager 2.7. When a concierge agent is assigned to the team, the orchestrator triggers concierge to submit the catalog. VTEX's official concierge agents already have this capability.
 
 ##### Instruction list
 
