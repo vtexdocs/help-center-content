@@ -1,5 +1,5 @@
 ---
-title: 'Carteira de Crédito: acompanhe o crédito que abate sua cobrança de Master Data'
+title: 'Carteira de crédito: acompanhe o crédito que abate sua cobrança de Master Data'
 createdAt: '2026-10-08T00:00:00.000Z'
 updatedAt: '2026-10-08T00:00:00.000Z'
 contentType: updates
