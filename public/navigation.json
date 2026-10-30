@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Custom notes payable: limit increased from 20 to 100",
+                    "es": "Pagarés personalizados: límite ampliado de 20 a 100",
+                    "pt": "Promissórias customizadas: limite ampliado de 20 para 100"
+                  },
+                  "slug": {
+                    "en": "2026-10-30-custom-promissory-notes-limit-increased-from-20-to-100",
+                    "es": "2026-10-30-pagares-personalizados-limite-ampliado-de-20-a-100",
+                    "pt": "2026-10-30-promissorias-customizadas-limite-ampliado-de-20-para-100"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Orders: Item-level promotions display available for all stores",
                     "es": "Pedidos: vista de promoción por ítem disponible para todas las tiendas",
                     "pt": "Pedidos: visualização de promoção por item disponível para todas as lojas"
