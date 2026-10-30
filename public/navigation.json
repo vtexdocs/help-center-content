@@ -26101,6 +26101,37 @@
             },
             {
               "name": {
+                "en": "Fundamentos e conceitos",
+                "es": "Fundamentos e conceitos",
+                "pt": "Fundamentos e conceitos"
+              },
+              "slug": {
+                "en": "fundamentos-e-conceitos",
+                "es": "fundamentos-e-conceitos",
+                "pt": "fundamentos-e-conceitos"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Pagamentos no ecossistema de módulos da VTEX",
+                    "es": "Pagamentos no ecossistema de módulos da VTEX",
+                    "pt": "Pagamentos no ecossistema de módulos da VTEX"
+                  },
+                  "slug": {
+                    "en": "",
+                    "es": "",
+                    "pt": "pagamentos-no-ecossistema-de-modulos-da-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Payment providers",
                 "es": "Proveedores de pago",
                 "pt": "Provedores de pagamento"
