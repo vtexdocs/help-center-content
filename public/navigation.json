@@ -24395,6 +24395,21 @@
                 },
                 {
                   "name": {
+                    "en": "VTEX Sales App: configuring the checkout-instore-custom.js file",
+                    "es": "VTEX Sales App: configurar el archivo checkout-instore-custom.js",
+                    "pt": "VTEX Sales App: configurar o arquivo checkout-instore-custom.js"
+                  },
+                  "slug": {
+                    "en": "vtex-sales-app-configuring-the-checkout-instore-custom-js-file",
+                    "es": "vtex-sales-app-configurar-el-archivo-checkout-instore-custom-js",
+                    "pt": "vtex-sales-app-configurar-o-arquivo-checkout-instore-customjs"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "VTEX Sales App: FAQ",
                     "es": "VTEX Sales App: preguntas frecuentes",
                     "pt": "VTEX Sales App: FAQ"
