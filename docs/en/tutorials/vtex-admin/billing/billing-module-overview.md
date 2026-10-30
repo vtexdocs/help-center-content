@@ -3,7 +3,7 @@ title: 'Billing'
 id: 6UxfCl4fw4GmyQwoUuIcQs
 status: PUBLISHED
 createdAt: 2018-05-17T20:22:30.358Z
-updatedAt: 2026-10-08T00:00:00.000Z
+updatedAt: 2026-10-30T00:00:00.000Z
 publishedAt: 2025-09-04T20:02:13.442Z
 firstPublishedAt: 2018-05-17T20:24:17.809Z
 contentType: tutorial
@@ -44,7 +44,7 @@ To check the details of each invoice, read the article [Check invoice details](/
 
 ## Registration Information
 
-The **Registration Information** page includes the data you entered when registering your store. Only the store name and address are available for editing. To change other information, see the article [Changing my store information](/en/docs/tutorials/changing-the-store-information).
+The **Registration Information** page includes the data you entered when registering your store. Only the store name and address are available for editing. To change other information, see the article [Changing my store’s registration details](/en/docs/tutorials/changing-the-stores-registration-details).
 
 ## Billing Contacts
 
@@ -52,4 +52,4 @@ The **Billing Contacts** page contains the details of the user who owns the VTEX
 
 ## Credits
 
-The **Credits** page displays the balance and usage of your [Credit Wallet](/en/docs/tutorials/credit-wallet). This billing credit is automatically granted to your company and used to offset Master Data charges.
+The **Credits** page displays the balance and usage of your [credit wallet](/en/docs/tutorials/credit-wallet). This billing credit is automatically granted to your company and used to offset Master Data charges.

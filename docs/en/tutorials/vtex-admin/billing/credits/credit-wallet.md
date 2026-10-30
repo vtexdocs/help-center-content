@@ -1,7 +1,7 @@
 ---
-title: 'Credit Wallet'
+title: 'Credit wallet'
 createdAt: '2026-10-08T00:00:00.000Z'
-updatedAt: '2026-10-08T00:00:00.000Z'
+updatedAt: '2026-10-30T00:00:00.000Z'
 contentType: tutorial
 productTeam: Billing
 slugEN: credit-wallet
@@ -13,26 +13,26 @@ seeAlso:
   - "/en/docs/tutorials/checking-master-data-usage-in-the-vtex-admin"
 ---
 
-**Credit Wallet** is a billing credit automatically granted to your company, used to offset Master Data charges.
+The **credit wallet** is a billing credit automatically granted to your company, used to offset [Master Data](/en/docs/tutorials/master-data) charges.
 
-This article explains how Credit Wallet credit is calculated, how it's applied to Master Data charges, and what happens to unused balance.
+This article explains how credit from the credit wallet is calculated, how it's applied to Master Data charges, and what happens to the unused balance.
 
-> ℹ️ To learn how to query your Credit Wallet information, see [Checking Credit Wallet](/en/docs/tutorials/checking-credit-wallet).
+> ℹ️ To learn how to check your credit wallet information, see [Checking credit wallet](/en/docs/tutorials/checking-credit-wallet).
 
 ## How credit is calculated
 
-When a company operates more than one account on VTEX (for example, franchise accounts or additional environments), all accounts are grouped under one company for billing purposes. This company receives a consolidated invoice, and Credit Wallet credit is calculated and applied at this level, not by individual account.
+When a company operates with more than one account on VTEX (for example, [franchise accounts](/en/docs/tutorials/what-is-a-franchise-account) or additional environments), all of them are grouped under a single company for billing purposes. This company receives a consolidated invoice, and credit from the credit wallet is calculated and applied at this level, not by individual account.
 
-Every month, VTEX adds up everything the company — meaning all accounts grouped under it — paid to VTEX in the previous month (from the 1st to the last day of the month) and grants a credit equivalent to 2% of that total value in the following month.
+Every month, VTEX adds up everything the company — meaning all accounts grouped under it — paid to VTEX during the previous month (from the 1st to the last day of the month) and grants a credit equal to 2% of that total in the following month.
 
-> ⚠️ Payments for Ads, Professional Services, and consulting in general are not included in this calculation base.
+> ⚠️ Payments related to Ads, Professional Services, and consulting in general aren't included in this calculation base.
 
 ## How credit is used
 
-Credit Wallet credit is applied exclusively to offset Master Data charges on the following month's invoice.
+Credit from the credit wallet is applied exclusively to offset Master Data charges on the following month's invoice.
 
-Master Data consumption happens within each account, but VTEX adds up Master Data consumption from all accounts in a company to calculate the total Master Data cost. Credit is applied to this consolidated total.
+Master Data consumption occurs within each account, but VTEX aggregates it across all accounts within a company to calculate the total Master Data cost. Credit is applied to this consolidated total.
 
 If the credit value is greater than the Master Data charge for the period, the remaining balance stays available for use in future months. Unused credit accumulates.
 
-> ℹ️ Credit accumulated in Credit Wallet is valid until the end of the current contract cycle. It doesn't continue to accumulate indefinitely.
+> ℹ️ Credit accumulated in the credit wallet is valid until the end of the current contractual cycle. It doesn't keep accumulating indefinitely.

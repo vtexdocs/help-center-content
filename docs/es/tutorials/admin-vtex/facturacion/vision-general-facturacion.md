@@ -3,7 +3,7 @@ title: 'Facturación'
 id: 6UxfCl4fw4GmyQwoUuIcQs
 status: PUBLISHED
 createdAt: 2018-05-17T20:22:30.358Z
-updatedAt: 2026-10-08T00:00:00.000Z
+updatedAt: 2026-10-30T00:00:00.000Z
 publishedAt: 2025-09-04T20:02:13.442Z
 firstPublishedAt: 2018-05-17T20:24:17.809Z
 contentType: tutorial
@@ -44,7 +44,7 @@ Para consultar el detalle de cada factura consulta el artículo [Verificar el de
 
 ## Datos de registro
 
-La página **Datos de registro** reúne la información que ingresaste al registrar tu tienda. Solo puedes editar tu nombre y tu dirección. Para modificar otra información consulta el artículo [Modificar datos de registro de la tienda](/es/docs/tutorials/modificar-datos-de-registro-de-la-tienda).
+La página **Datos de registro** reúne la información que ingresaste al registrar tu tienda. Solo puedes editar tu nombre y tu dirección. Para modificar otra información consulta el artículo [Modificar los datos de registro de mi tienda](/es/docs/tutorials/modificar-los-datos-de-registro-de-la-tienda).
 
 ## Contactos de facturación
 
@@ -52,4 +52,4 @@ La página **Contactos de facturación** reúne los datos del usuario propietari
 
 ## Créditos
 
-La página **Créditos** muestra el saldo y el consumo de tu [Cartera de Crédito](/es/docs/tutorials/cartera-de-credito). Este crédito de facturación se concede automáticamente a tu empresa y se utiliza para descontar el cobro de Master Data.
+La página **Créditos** muestra el saldo y el consumo de tu [Cartera de crédito](/es/docs/tutorials/cartera-de-credito). Este crédito de facturación se concede automáticamente a tu empresa y se utiliza para descontar el cobro de Master Data.
