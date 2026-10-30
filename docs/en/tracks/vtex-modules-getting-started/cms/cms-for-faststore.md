@@ -52,7 +52,7 @@ Each branch is an isolated version of your content, allowing multiple editors to
 
 ## Roles and permissions
 
-**[Roles and permissions](https://help.vtex.com/docs/tutorialsroles-and-permissions)** control what each team member can create, edit, and publish in the CMS. The three predefined roles, Content Producer, Content Editor, and Content Administrator, follow the CMS's git-like branching model, separating content authoring from content publishing.
+**[Roles and permissions](https://help.vtex.com/docs/tutorials/roles-and-permissions)** control what each team member can create, edit, and publish in the CMS. The three predefined roles, Content Producer, Content Editor, and Content Administrator, follow the CMS's git-like branching model, separating content authoring from content publishing.
 
 ## Learn more
 
