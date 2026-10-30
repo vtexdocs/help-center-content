@@ -62,7 +62,7 @@ Nesta etapa, revise as opções geradas e defina quais serão usadas como filtro
 1. Clique em `Acessar Opções de Envio`.
 2. Na página de **Opções de Envio**, verifique as opções geradas automaticamente. Se necessário, edite-as para refletir sua operação. [Opções de envio](https://help.vtex.com/pt/docs/tutorials/opcoes-de-envio#editar-uma-opcao-de-envio).
 3. Clique em `Preferências`.
-4. Escolha quais opções devem aparecer como filtros na loja (até três) e defina a ordem de exibição. A primeira opção da lista é destacada quando o filtro está ativo no storefront.
+4. Escolha até opções devem aparecer como filtros na loja e defina a ordem de exibição. A primeira opção da lista é destacada quando o filtro está ativo no storefront.
 5. Salve as alterações e volte à página **Delivery Promise**.
 6. Clique em `Avançar`.```
 
