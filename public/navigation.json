@@ -204,8 +204,8 @@
                 },
                 {
                   "name": {
-                    "en": "Credit Wallet: track the credit that offsets your Master Data charges",
-                    "es": "Cartera de Crédito: sigue el crédito que compensa tu cargo de Master Data",
+                    "en": "Credit wallet: Track the credit that offsets your Master Data charges",
+                    "es": "Cartera de crédito: monitorea el crédito que descuenta tu cobro de Master Data",
                     "pt": "Carteira de Crédito: acompanhe o crédito que abate sua cobrança de Master Data"
                   },
                   "slug": {
@@ -58180,6 +58180,21 @@
                 "en": "some-addresses-autocompleted-by-google-are-not-able-to-be-saved-on-my-account",
                 "es": "algunas-direcciones-que-google-autocompleta-no-se-pueden-guardar-en-mi-cuenta",
                 "pt": "alguns-enderecos-preenchidos-automaticamente-pelo-google-nao-podem-ser-salvos-em-minha-conta"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Change v1 Item disappears from UI after being invoiced, scenario with promotion.",
+                "es": "El cambio v1 El artículo desaparece de la interfaz de usuario después de ser facturado, escenario con promoción.",
+                "pt": "Alteração v1: O item desaparece da interface do usuário após ser faturado, cenário com promoção."
+              },
+              "slug": {
+                "en": "change-v1-item-disappears-from-ui-after-being-invoiced-scenario-with-promotion",
+                "es": "el-cambio-v1-el-articulo-desaparece-de-la-interfaz-de-usuario-despues-de-ser-facturado-escenario-con-promocion",
+                "pt": "alteracao-v1-o-item-desaparece-da-interface-do-usuario-apos-ser-faturado-cenario-com-promocao"
               },
               "origin": "",
               "type": "markdown",
