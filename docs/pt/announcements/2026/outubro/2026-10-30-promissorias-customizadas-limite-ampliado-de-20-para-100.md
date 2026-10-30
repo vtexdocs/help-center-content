@@ -1,11 +1,11 @@
 ---
 title: 'Promissórias customizadas: limite ampliado de 20 para 100'
-slug: '2026-10-22-promissorias-customizadas-limite-ampliado-de-20-para-100'
-createdAt: 2026-10-22T00:00:00.000Z
-updatedAt: 2026-10-22T00:00:00.000Z
+slug: '2026-10-30-promissorias-customizadas-limite-ampliado-de-20-para-100'
+createdAt: 2026-10-30T00:00:00.000Z
+updatedAt: 2026-10-30T00:00:00.000Z
 contentType: updates
 productTeam: Payments
-slugEN: '2026-10-22-custom-promissory-notes-limit-increased-from-20-to-100'
+slugEN: '2026-10-30-custom-promissory-notes-limit-increased-from-20-to-100'
 locale: pt
 announcementSynopsisPT: 'Agora é possível configurar até 100 promissórias customizadas por loja. A melhoria está disponível em beta aberto.'
 tags:
@@ -16,7 +16,7 @@ tags:
 
 Agora sua loja pode configurar até 100 promissórias customizadas. Com essa melhoria, lojistas que oferecem pagamento a prazo por meio de promissórias customizadas podem disponibilizar uma variedade maior de condições de pagamento. A funcionalidade está disponível em beta aberto para todas as lojas.
 
-![Seção Promissórias na aba Pagamentos customizados do Admin VTEX](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2026/outubro/2026-10-22-promissorias-customizadas-limite-ampliado-de-20-para-100_1.png)
+![Seção Promissórias na aba Pagamentos customizados do Admin VTEX](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2026/outubro/2026-10-30-promissorias-customizadas-limite-ampliado-de-20-para-100.png)
 
 ## O que mudou?
 

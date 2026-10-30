@@ -1,10 +1,10 @@
 ---
 title: 'Custom notes payable: limit increased from 20 to 100'
-createdAt: 2026-10-22T00:00:00.000Z
-updatedAt: 2026-10-22T00:00:00.000Z
+createdAt: 2026-10-30T00:00:00.000Z
+updatedAt: 2026-10-30T00:00:00.000Z
 contentType: updates
 productTeam: Payments
-slugEN: 2026-10-22-custom-promissory-notes-limit-increased-from-20-to-100
+slugEN: 2026-10-30-custom-promissory-notes-limit-increased-from-20-to-100
 locale: en
 announcementSynopsisEN: 'You can now configure up to 100 custom notes payable per store. The improvement is available in open beta.'
 tags:
@@ -15,7 +15,7 @@ tags:
 
 You can now configure up to 100 custom notes payable in your store. With this improvement, merchants who offer deferred payment through custom notes payable can provide a wider variety of payment conditions. The feature is available in open beta for all stores.
 
-![Notes Payable section in the Custom Payments tab of the VTEX Admin](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2026/outubro/2026-10-22-promissorias-customizadas-limite-ampliado-de-20-para-100_1.png)
+![Notes Payable section in the Custom Payments tab of the VTEX Admin](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2026/october/2026-10-30-custom-promissory-notes-limit-increased-from-20-to-100.png)
 
 ## What has changed?
 

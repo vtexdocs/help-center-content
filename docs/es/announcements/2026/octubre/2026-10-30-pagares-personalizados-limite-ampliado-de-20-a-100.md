@@ -1,10 +1,10 @@
 ---
 title: 'Pagarés personalizados: límite ampliado de 20 a 100'
-createdAt: 2026-10-22T00:00:00.000Z
-updatedAt: 2026-10-22T00:00:00.000Z
+createdAt: 2026-10-30T00:00:00.000Z
+updatedAt: 2026-10-30T00:00:00.000Z
 contentType: updates
 productTeam: Payments
-slugEN: 2026-10-22-custom-promissory-notes-limit-increased-from-20-to-100
+slugEN: 2026-10-30-custom-promissory-notes-limit-increased-from-20-to-100
 locale: es
 announcementSynopsisES: 'Ahora es posible configurar hasta 100 pagarés personalizados por tienda. La mejora está disponible en beta abierta.'
 tags:
@@ -15,7 +15,7 @@ tags:
 
 Ahora tu tienda puede configurar hasta 100 pagarés personalizados. Con esta mejora, los retailers que ofrecen pago a plazos mediante pagarés personalizados pueden ofrecer una mayor variedad de condiciones de pago. La funcionalidad está disponible en beta abierta para todas las tiendas.
 
-![Sección Pagarés en la pestaña Pagos personalizados del Admin VTEX](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2026/outubro/2026-10-22-promissorias-customizadas-limite-ampliado-de-20-para-100_1.png)
+![Sección Pagarés en la pestaña Pagos personalizados del Admin VTEX](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2026/octubre/2026-10-30-pagares-personalizados-limite-ampliado-de-20-a-100.png)
 
 ## ¿Qué cambió?
 
