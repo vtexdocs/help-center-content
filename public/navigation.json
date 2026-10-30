@@ -41566,21 +41566,6 @@
             },
             {
               "name": {
-                "en": "CatalogV2 User Roles not Applying",
-                "es": "No se aplican los roles de usuario de CatalogV2",
-                "pt": "As funções de usuário do CatalogV2 não estão sendo aplicadas"
-              },
-              "slug": {
-                "en": "catalogv2-user-roles-not-applying",
-                "es": "no-se-aplican-los-roles-de-usuario-de-catalogv2",
-                "pt": "as-funcoes-de-usuario-do-catalogv2-nao-estao-sendo-aplicadas"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Catalog Search inconsistencies may not return products due to an indexing issue",
                 "es": "Es posible que la búsqueda en el catálogo no devuelva los productos debido a un problema de indexación.",
                 "pt": "As inconsistências da Pesquisa de catálogo podem não retornar produtos devido a um problema de indexação"
@@ -42504,6 +42489,21 @@
                 "en": "fullcleanup-may-generate-a-timeout",
                 "es": "la-limpieza-completa-puede-generar-un-tiempo-de-espera",
                 "pt": "fullcleanup-pode-gerar-um-tempo-limite"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CatalogV2 User Roles not Applying",
+                "es": "No se aplican los roles de usuario de CatalogV2",
+                "pt": "Funções de usuário do CatalogV2 não se aplicam"
+              },
+              "slug": {
+                "en": "catalogv2-user-roles-not-applying",
+                "es": "no-se-aplican-los-roles-de-usuario-de-catalogv2",
+                "pt": "funcoes-de-usuario-do-catalogv2-nao-se-aplicam"
               },
               "origin": "",
               "type": "markdown",
@@ -44027,12 +44027,12 @@
             {
               "name": {
                 "en": "Catalog Filters Timeout",
-                "es": "Tiempo de espera de los filtros del catálogo",
+                "es": "Los filtros del catálogo tienen un tiempo de espera agotado.",
                 "pt": "Tempo limite dos filtros do catálogo"
               },
               "slug": {
                 "en": "catalog-filters-timeout",
-                "es": "tiempo-de-espera-de-los-filtros-del-catalogo",
+                "es": "los-filtros-del-catalogo-tienen-un-tiempo-de-espera-agotado",
                 "pt": "tempo-limite-dos-filtros-do-catalogo"
               },
               "origin": "",
@@ -52615,6 +52615,21 @@
             },
             {
               "name": {
+                "en": "Product availability is not updated after a ZIP code change when returning to a previously visited page using the browser's back button",
+                "es": "La disponibilidad del producto no se actualiza después de un cambio de código postal al regresar a una página visitada anteriormente usando el botón Atrás del navegador.",
+                "pt": "A disponibilidade do produto não é atualizada após uma alteração do CEP ao retornar a uma página visitada anteriormente usando o botão \"Voltar\" do navegador."
+              },
+              "slug": {
+                "en": "product-availability-is-not-updated-after-a-zip-code-change-when-returning-to-a-previously-visited-page-using-the-browsers-back-button",
+                "es": "la-disponibilidad-del-producto-no-se-actualiza-despues-de-un-cambio-de-codigo-postal-al-regresar-a-una-pagina-visitada-anteriormente-usando-el-boton-atras-del-navegador",
+                "pt": "a-disponibilidade-do-produto-nao-e-atualizada-apos-uma-alteracao-do-cep-ao-retornar-a-uma-pagina-visitada-anteriormente-usando-o-botao-voltar-do-navegador"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Price range at the facets API doesn't correspond to the search results",
                 "es": "El rango de precios de la API de Facets no se corresponde con los resultados de la búsqueda",
                 "pt": "A faixa de preço na API do Facets não corresponde aos resultados da pesquisa"
@@ -54477,21 +54492,6 @@
             },
             {
               "name": {
-                "en": "Route prioritization does not offer the best option in terms of quantity of packages and items",
-                "es": "La priorización de rutas no ofrece la mejor opción en cuanto a cantidad de paquetes y artículos",
-                "pt": "A priorização de rotas não oferece a melhor opção em termos de quantidade de pacotes e itens"
-              },
-              "slug": {
-                "en": "route-prioritization-does-not-offer-the-best-option-in-terms-of-quantity-of-packages-and-items",
-                "es": "la-priorizacion-de-rutas-no-ofrece-la-mejor-opcion-en-cuanto-a-cantidad-de-paquetes-y-articulos",
-                "pt": "a-priorizacao-de-rotas-nao-oferece-a-melhor-opcao-em-termos-de-quantidade-de-pacotes-e-itens"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Warehouse prioritization is not deterministic during shipping simulation",
                 "es": "La priorización de almacenes no es determinista durante la simulación de envío",
                 "pt": "A priorização do armazém não é determinística durante a simulação de expedição"
@@ -54807,21 +54807,6 @@
             },
             {
               "name": {
-                "en": "Space in street property in Postal Code JSON affects address field display at checkout",
-                "es": "El espacio en el campo «código postal» del JSON afecta a la visualización del campo de la dirección durante el proceso de pago",
-                "pt": "O espaço na propriedade da rua no código postal JSON afeta a exibição do campo de endereço no checkout"
-              },
-              "slug": {
-                "en": "space-in-street-property-in-postal-code-json-affects-address-field-display-at-checkout",
-                "es": "el-espacio-en-el-campo-codigo-postal-del-json-afecta-a-la-visualizacion-del-campo-de-la-direccion-durante-el-proceso-de-pago",
-                "pt": "o-espaco-na-propriedade-da-rua-no-codigo-postal-json-afeta-a-exibicao-do-campo-de-endereco-no-checkout"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "The holiday is not shown in the list after using the API to create (PUT)",
                 "es": "Las vacaciones no se muestran en la lista después de utilizar la API para crear (PUT)",
                 "pt": "O feriado não é mostrado na lista depois de usar o API para criar (PUT)"
@@ -54890,21 +54875,6 @@
                 "en": "excluded-warehouses-continue-to-return-stock-availability-in-the-simulation-and-availability-api",
                 "es": "los-almacenes-excluidos-siguen-devolviendo-la-disponibilidad-de-stock-en-la-simulacion-y-la-api-de-disponibilidad",
                 "pt": "os-armazens-excluidos-continuam-a-apresentar-disponibilidade-de-estoque-na-simulacao-e-na-api-de-disponibilidade"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Pick-up points do not work in the shipping simulator in countries that do not use our postal code API",
-                "es": "Los puntos de recogida no funcionan en el simulador de envíos en los países que no utilizan nuestra API de códigos postales.",
-                "pt": "Os pontos de coleta não funcionam no simulador de envios em países que não utilizam nossa API de código postal."
-              },
-              "slug": {
-                "en": "pickup-points-do-not-work-in-the-shipping-simulator-in-countries-that-do-not-use-our-postal-code-api",
-                "es": "los-puntos-de-recogida-no-funcionan-en-el-simulador-de-envios-en-los-paises-que-no-utilizan-nuestra-api-de-codigos-postales",
-                "pt": "os-pontos-de-coleta-nao-funcionam-no-simulador-de-envios-em-paises-que-nao-utilizam-nossa-api-de-codigo-postal"
               },
               "origin": "",
               "type": "markdown",
@@ -57977,6 +57947,21 @@
             },
             {
               "name": {
+                "en": "Change v1 Item disappears from UI after being invoiced, scenario with promotion.",
+                "es": "El cambio v1 El artículo desaparece de la interfaz de usuario después de ser facturado, escenario con promoción.",
+                "pt": "Alteração v1: O item desaparece da interface do usuário após ser faturado, cenário com promoção."
+              },
+              "slug": {
+                "en": "change-v1-item-disappears-from-ui-after-being-invoiced-scenario-with-promotion",
+                "es": "el-cambio-v1-el-articulo-desaparece-de-la-interfaz-de-usuario-despues-de-ser-facturado-escenario-con-promocion",
+                "pt": "alteracao-v1-o-item-desaparece-da-interface-do-usuario-apos-ser-faturado-cenario-com-promocao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Order changes can leave capture, cancellation and refund amounts out of sync with the order",
                 "es": "Los cambios en el pedido pueden provocar que los importes de captura, cancelación y reembolso no coincidan con el pedido.",
                 "pt": "Alterações no pedido podem fazer com que os valores de captura, cancelamento e reembolso fiquem dessincronizados com o pedido."
@@ -58007,24 +57992,9 @@
             },
             {
               "name": {
-                "en": "Change v1 Item disappears from UI after being invoiced, scenario with promotion.",
-                "es": "Cambiar v1 El artículo desaparece de la interfaz de usuario después de ser facturado, escenario con promoción.",
-                "pt": "Alterar v1 O item desaparece da interface do usuário após ser faturado, cenário com promoção."
-              },
-              "slug": {
-                "en": "change-v1-item-disappears-from-ui-after-being-invoiced-scenario-with-promotion",
-                "es": "cambiar-v1-el-articulo-desaparece-de-la-interfaz-de-usuario-despues-de-ser-facturado-escenario-con-promocion",
-                "pt": "alterar-v1-o-item-desaparece-da-interface-do-usuario-apos-ser-faturado-cenario-com-promocao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "When accessing my orders, the name that appears is the name of the ProductName without the SKU Name information.",
                 "es": "Al consultar mis pedidos, el nombre que aparece es el del «ProductName», sin la información del «SKU Name».",
-                "pt": "Ao acessar meus pedidos, o nome que aparece é o nome do produto (ProductName), sem as informações do SKU."
+                "pt": "Ao acessar meus pedidos, o nome que aparece é o nome do produto (ProductName) sem as informações do SKU."
               },
               "slug": {
                 "en": "when-accessing-my-orders-the-name-that-appears-is-the-name-of-the-productname-without-the-sku-name-information",
@@ -58180,21 +58150,6 @@
                 "en": "order-authorization-lessthan-100-goes-with-the-flow",
                 "es": "la-autorizacion-de-pedidos-de-menos-de-100-va-con-la-corriente",
                 "pt": "autorizacao-de-pedido-inferior-a-100-segue-o-fluxo-normal"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Delivery Flag in My Orders. Due to an error in filling the Invoice.",
-                "es": "Bandera de entrega en Mis Pedidos. Debido a un error al rellenar la factura.",
-                "pt": "Bandeira de entrega em Meus Pedidos. Devido a um erro no preenchimento da Nota Fiscal."
-              },
-              "slug": {
-                "en": "delivery-flag-in-my-orders-due-to-an-error-in-filling-the-invoice",
-                "es": "bandera-de-entrega-en-mis-pedidos-debido-a-un-error-al-rellenar-la-factura",
-                "pt": "bandeira-de-entrega-em-meus-pedidos-devido-a-um-erro-no-preenchimento-da-nota-fiscal"
               },
               "origin": "",
               "type": "markdown",
@@ -58540,6 +58495,21 @@
                 "en": "my-subscription-showing-error-message-when-subscription-is-associated-with-a-pick-up-point",
                 "es": "mi-suscripcion-muestra-un-mensaje-de-error-cuando-esta-vinculada-a-un-punto-de-recogida",
                 "pt": "minha-assinatura-exibe-uma-mensagem-de-erro-quando-esta-associada-a-um-ponto-de-retirada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "My Account > Addresses - Required field alert not showing for city/state",
+                "es": "Mi cuenta > Direcciones: No se muestra la alerta de campo obligatorio para ciudad/estado.",
+                "pt": "Minha conta > Endereços - Alerta de campo obrigatório não exibido para cidade/estado"
+              },
+              "slug": {
+                "en": "my-account-addresses-required-field-alert-not-showing-for-citystate",
+                "es": "mi-cuenta-direcciones-no-se-muestra-la-alerta-de-campo-obligatorio-para-ciudadestado",
+                "pt": "minha-conta-enderecos-alerta-de-campo-obrigatorio-nao-exibido-para-cidadeestado"
               },
               "origin": "",
               "type": "markdown",
@@ -58953,13 +58923,13 @@
             {
               "name": {
                 "en": "The vtexcommerce-order-changed-v2 template cannot send the reason field, as in version 1 of changeOrders.",
-                "es": "La plantilla vtexcommerce-order-changed-v2 no puede enviar el campo reason, como en la versión 1 de changeOrders.",
-                "pt": "O modelo vtexcommerce-order-changed-v2 não pode enviar o campo reason, como na versão 1 de changeOrders."
+                "es": "La plantilla vtexcommerce-order-changed-v2 no puede enviar el campo de motivo, como en la versión 1 de changeOrders.",
+                "pt": "O modelo vtexcommerce-order-changed-v2 não consegue enviar o campo de motivo, diferentemente da versão 1 do changeOrders."
               },
               "slug": {
                 "en": "the-vtexcommerceorderchangedv2-template-cannot-send-the-reason-field-as-in-version-1-of-changeorders",
-                "es": "la-plantilla-vtexcommerceorderchangedv2-no-puede-enviar-el-campo-reason-como-en-la-version-1-de-changeorders",
-                "pt": "o-modelo-vtexcommerceorderchangedv2-nao-pode-enviar-o-campo-reason-como-na-versao-1-de-changeorders"
+                "es": "la-plantilla-vtexcommerceorderchangedv2-no-puede-enviar-el-campo-de-motivo-como-en-la-version-1-de-changeorders",
+                "pt": "o-modelo-vtexcommerceorderchangedv2-nao-consegue-enviar-o-campo-de-motivo-diferentemente-da-versao-1-do-changeorders"
               },
               "origin": "",
               "type": "markdown",
@@ -59043,8 +59013,8 @@
             {
               "name": {
                 "en": "First subscription cycle is skipped",
-                "es": "Se omite el primer ciclo de suscripción",
-                "pt": "O primeiro ciclo de assinatura é ignorado"
+                "es": "Se omite el primer ciclo de suscripción.",
+                "pt": "O primeiro ciclo de assinatura é ignorado."
               },
               "slug": {
                 "en": "first-subscription-cycle-is-skipped",
@@ -59665,6 +59635,21 @@
                 "en": "feed-hook-indexing-feature-skipping-events-in-fromorders-filters",
                 "es": "la-funcion-de-indexacion-de-feed-hook-omite-eventos-en-los-filtros-de-fromorders",
                 "pt": "recurso-de-indexacao-do-feed-hook-que-ignora-eventos-nos-filtros-fromorders"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Delivery Flag in My Orders. Due to an error in filling the Invoice.",
+                "es": "Error de entrega en Mis Pedidos. Debido a un error al completar la factura.",
+                "pt": "Sinal de entrega em Meus Pedidos. Devido a um erro no preenchimento da fatura."
+              },
+              "slug": {
+                "en": "delivery-flag-in-my-orders-due-to-an-error-in-filling-the-invoice",
+                "es": "error-de-entrega-en-mis-pedidos-debido-a-un-error-al-completar-la-factura",
+                "pt": "sinal-de-entrega-em-meus-pedidos-devido-a-um-erro-no-preenchimento-da-fatura"
               },
               "origin": "",
               "type": "markdown",
@@ -62518,21 +62503,6 @@
                 "en": "payments-gateway-does-not-correctly-send-subaccount-information-in-the-payload-to-the-connector",
                 "es": "payments-gateway-no-envia-correctamente-la-informacion-de-la-subcuenta-en-la-carga-util-al-conector",
                 "pt": "o-gateway-de-pagamentos-nao-envia-corretamente-as-informacoes-da-subconta-na-carga-util-para-o-conector"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Gift Card HUB acepta un identificador no válido o vacío al intentar crear una transacción",
-                "es": "Gift Card HUB acepta un identificador no válido o vacío al intentar crear una transacción",
-                "pt": "O Gift Card HUB aceita um ID inválido/vazio ao criar uma transação"
-              },
-              "slug": {
-                "en": "",
-                "es": "gift-card-hub-acepta-un-identificador-no-valido-o-vacio-al-intentar-crear-una-transaccion",
-                "pt": "o-gift-card-hub-aceita-um-id-invalidovazio-ao-criar-uma-transacao"
               },
               "origin": "",
               "type": "markdown",
@@ -69975,6 +69945,21 @@
           "origin": "",
           "type": "category",
           "children": [
+            {
+              "name": {
+                "en": "Seller lead invitation acceptance links the invite to any existing active VTEX account without validating ownership",
+                "es": "La aceptación de la invitación de contacto del vendedor vincula la invitación a cualquier cuenta VTEX activa existente sin validar la propiedad.",
+                "pt": "A aceitação do convite para contato de vendedor vincula o convite a qualquer conta VTEX ativa existente, sem necessidade de validar a propriedade."
+              },
+              "slug": {
+                "en": "seller-lead-invitation-acceptance-links-the-invite-to-any-existing-active-vtex-account-without-validating-ownership",
+                "es": "la-aceptacion-de-la-invitacion-de-contacto-del-vendedor-vincula-la-invitacion-a-cualquier-cuenta-vtex-activa-existente-sin-validar-la-propiedad",
+                "pt": "a-aceitacao-do-convite-para-contato-de-vendedor-vincula-o-convite-a-qualquer-conta-vtex-ativa-existente-sem-necessidade-de-validar-a-propriedade"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
             {
               "name": {
                 "en": "Category mapping spreadsheet does not include offers in WaitingReview",
