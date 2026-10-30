@@ -14,6 +14,14 @@ locale: es
 
 El sistema de gestión de contenidos (CMS) ofrece a las empresas la flexibilidad y el control necesarios para gestionar y estructurar el contenido de su storefront de manera independiente permitiendo que los equipos de negocio y editores de contenido creen múltiples versiones, colaboren en detalles, revisen la calidad y programen la publicación. Accede al CMS desde el Admin VTEX en **Storefront > Contenido > Contenido**.
 
+## Getting started
+
+{ADD THE SPANISH LOCALIZATION HERE}
+
+## Main parts of the CMS
+
+{ADD THE SPANISH LOCALIZATION HERE}
+
 A continuación se describen las principales partes del CMS:
 
 ## Todo el contenido

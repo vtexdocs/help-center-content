@@ -15,6 +15,14 @@ categoryCover: true
 
 O Sistema de Gerenciamento de Conteúdo (CMS) oferece aos lojistas a flexibilidade e o controle necessários para gerenciar e estruturar o conteúdo da frente de loja de forma independente, permitindo que equipes de negócios e editores de conteúdo criem múltiplas versões de conteúdo, colaborem nas informações, revisem a qualidade e programem a publicação. Para acessar o CMS, abra o Admin VTEX e acesse **Storefront > Conteúdo > Conteúdo**.
 
+## Getting started
+
+{ADD THE PORTUGUESE LOCALIZATION HERE}
+
+## Main parts of the CMS
+
+{ADD THE PORTUGUESE LOCALIZATION HERE}
+
 Abaixo estão as principais partes do CMS:
 
 ## Todos os conteúdos
