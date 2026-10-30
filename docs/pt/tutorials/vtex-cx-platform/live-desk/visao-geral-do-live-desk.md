@@ -124,6 +124,12 @@ A edição de campos de contato permite que você corrija dados incorretos ou at
 
 O Live Desk oferece notificações via navegador como alternativa ao alerta sonoro. Para recebê-las, permita as notificações do site nas configurações do seu navegador.
 
+#### Alerta e encerramento automático de salas inativas
+
+Quando o contato não responde à última mensagem do atendente dentro do tempo configurado para o setor, o chat recebe um alerta de inatividade na listagem do Live Desk e o contato recebe automaticamente uma mensagem de notificação. Se o setor tiver a opção **Encerrar chats inativos automaticamente** ativa e o contato continuar sem responder após o alerta, o chat é encerrado automaticamente, com o envio de uma mensagem de encerramento.
+
+Você pode definir os tempos e as mensagens por setor, na seção **Inatividade da conversa**. Para configurá-los, consulte [Configurar o Live Desk](https://help.vtex.com/pt/docs/tutorials/configurar-o-live-desk#etapa-3-configurar-opções-e-mensagens).
+
 ## Histórico e dashboard
 
 ### Dashboard e métricas
@@ -141,7 +147,7 @@ Para a descrição completa de cada métrica e seção, consulte o artigo [Analy
 
 A lista do Live Desk fica em ordem cronológica, do atendimento mais recente ao mais antigo. Nessa listagem, você pode ver a foto do contato, o nome, o atendente que fez o atendimento, as tags usadas na classificação, a data e um botão para abrir o chat.
 
-Ao visualizar o histórico do contato, você pode ver o início do atendimento, o histórico com o bot, os acontecimentos do chat e as tags usadas para classificá-lo.
+Ao visualizar o histórico do contato, você pode ver o início do atendimento, o histórico com o bot, os acontecimentos do chat e as tags usadas para classificá-lo. Chats encerrados automaticamente por inatividade são identificados como tal no histórico.
 
 ### Modo de visualização
 
