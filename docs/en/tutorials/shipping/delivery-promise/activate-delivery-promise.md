@@ -38,7 +38,7 @@ In this step, you choose where Delivery Promise will be used and confirm the con
 
 Complete the following sections:
 
-1. **Trade policies:** select the [sales channels](https://help.vtex.com/en/docs/tutorials/how-trade-policies-work) where Delivery Promise will be used. You can select up to four sales channels.
+1. **Sales Channels:** select the [sales channels](https://help.vtex.com/en/docs/tutorials/how-trade-policies-work) where Delivery Promise will be used. You can select up to four sales channels.
 2. **Conditions of use:** select **I understand that I won't be able to activate these features while Delivery Promise is active**. Delivery Promise isn't compatible with the following features, and using them can cause problems in the store:
     * [Multilevel Omnichannel Inventory](https://help.vtex.com/en/docs/tutorials/multilevel-omnichannel-inventory)
     * [Operational capacity](https://help.vtex.com/en/docs/tutorials/operational-capacity)
