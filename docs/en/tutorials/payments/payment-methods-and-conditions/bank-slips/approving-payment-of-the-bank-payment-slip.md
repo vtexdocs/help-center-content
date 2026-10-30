@@ -3,7 +3,7 @@ title: 'Approving payment of the bank payment slip'
 id: tutorials_184
 status: PUBLISHED
 createdAt: 2017-04-27T22:16:19.919Z
-updatedAt: 2024-06-03T20:36:09.927Z
+updatedAt: 2026-10-29T00:00:00.000Z
 publishedAt: 2024-06-03T20:36:09.927Z
 firstPublishedAt: 2017-04-27T23:00:46.699Z
 contentType: tutorial
@@ -33,5 +33,5 @@ This approval can be done manually through the Orders Management module as shown
 
 To approve payments through API, check the [documentation about the payment notification request](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/payments/-paymentId-/payment-notification).
 
-> ⚠️ Since [ERP integrations](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) are governed by the [orders flow](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196#), manually approving a payment will continue the integration of this order with the store’s back office as usual. Therefore, caution is recommended when approving payments manually, in order to ensure that every order that is processed and shipped is received.
+> ⚠️ Since [ERP integrations](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) are governed by the [orders flow](/en/docs/tutorials/order-flow-on-the-oms), manually approving a payment will continue the integration of this order with the store’s back office as usual. Therefore, caution is recommended when approving payments manually to ensure that every order processed and shipped is received.
 
