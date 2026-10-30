@@ -1,7 +1,7 @@
 ---
 title: "Usando grupos para controlar la atención humana"
 createdAt: 2025-09-12T16:48:55.585Z
-updatedAt: 2026-07-24T00:00:00.000Z
+updatedAt: 2026-07-28T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: using-groups-to-organize-human-attendance
