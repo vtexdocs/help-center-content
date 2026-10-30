@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Custom notes payable: limit increased from 20 to 100",
+                    "es": "Pagarés personalizados: límite ampliado de 20 a 100",
+                    "pt": "Promissórias customizadas: limite ampliado de 20 para 100"
+                  },
+                  "slug": {
+                    "en": "2026-10-30-custom-promissory-notes-limit-increased-from-20-to-100",
+                    "es": "2026-10-30-pagares-personalizados-limite-ampliado-de-20-a-100",
+                    "pt": "2026-10-30-promissorias-customizadas-limite-ampliado-de-20-para-100"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Native personal data management in Master Data v2",
                     "es": "Gestión nativa de datos personales en Master Data v2",
                     "pt": "Gestão nativa de dados pessoais no Master Data v2"
@@ -47,21 +62,6 @@
                     "en": "2026-10-22-native-personal-data-management-in-master-data-v2",
                     "es": "2026-10-22-gestion-nativa-de-datos-personales-en-master-data-v2",
                     "pt": "2026-10-22-gestao-nativa-de-dados-pessoais-no-master-data-v2"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Custom notes payable: limit increased from 20 to 100",
-                    "es": "Pagarés personalizados: límite ampliado de 20 a 100",
-                    "pt": "Promissórias customizadas: limite ampliado de 20 para 100"
-                  },
-                  "slug": {
-                    "en": "2026-10-22-custom-promissory-notes-limit-increased-from-20-to-100",
-                    "es": "2026-10-22-pagares-personalizados-limite-ampliado-de-20-a-100",
-                    "pt": "2026-10-22-promissorias-customizadas-limite-ampliado-de-20-para-100"
                   },
                   "origin": "",
                   "type": "markdown",
