@@ -54552,21 +54552,6 @@
             },
             {
               "name": {
-                "en": "Route prioritization does not offer the best option in terms of quantity of packages and items",
-                "es": "La priorización de rutas no ofrece la mejor opción en cuanto a cantidad de paquetes y artículos",
-                "pt": "A priorização de rotas não oferece a melhor opção em termos de quantidade de pacotes e itens"
-              },
-              "slug": {
-                "en": "route-prioritization-does-not-offer-the-best-option-in-terms-of-quantity-of-packages-and-items",
-                "es": "la-priorizacion-de-rutas-no-ofrece-la-mejor-opcion-en-cuanto-a-cantidad-de-paquetes-y-articulos",
-                "pt": "a-priorizacao-de-rotas-nao-oferece-a-melhor-opcao-em-termos-de-quantidade-de-pacotes-e-itens"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Warehouse prioritization is not deterministic during shipping simulation",
                 "es": "La priorización de almacenes no es determinista durante la simulación de envío",
                 "pt": "A priorização do armazém não é determinística durante a simulação de expedição"
