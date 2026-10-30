@@ -83,7 +83,7 @@ In Buyer Portal Checkout, users can select shipping addresses from the [list pro
 
 ### Multiple delivery options (Multidelivery)
 
-This feature allows buyers to choose different combinations of [shipping options](https://help.vtex.com/docs/tutorials/delivery-options-beta) for each item in the cart, providing more flexibility at checkout.
+This feature allows buyers to choose different combinations of [shipping options](https://help.vtex.com/docs/tutorials/delivery-options) for each item in the cart, providing more flexibility at checkout.
 
 ![Multidelivery](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/buyer-portal-checkout/buyer-portal-checkout-en_6.png)
 

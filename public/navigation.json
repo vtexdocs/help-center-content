@@ -39,14 +39,194 @@
               "children": [
                 {
                   "name": {
-                    "en": "Credit wallet: Track the credit that offsets your Master Data charges",
-                    "es": "Cartera de crédito: monitorea el crédito que descuenta tu cobro de Master Data",
+                    "en": "Orders: Item-level promotions display available for all stores",
+                    "es": "Pedidos: vista de promoción por ítem disponible para todas las tiendas",
+                    "pt": "Pedidos: visualização de promoção por item disponível para todas as lojas"
+                  },
+                  "slug": {
+                    "en": "2026-10-28-orders-item-level-promotions-display-available-for-all-stores",
+                    "es": "2026-10-28-pedidos-vista-de-promocion-por-item-disponible-para-todas-las-tiendas",
+                    "pt": "2026-10-28-pedidos-visualizacao-de-promocao-por-item-disponivel-para-todas-as-lojas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "\"Complemento de pago\" download now available in the VTEX Admin",
+                    "es": "Descargar complemento de pago disponible en el Admin VTEX",
+                    "pt": "Download do complemento de pago disponível no Admin VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-10-27-pago-complement-download-now-available-in-vtex-admin",
+                    "es": "2026-10-27-descarga-del-complemento-de-pago-disponible-en-el-admin-vtex",
+                    "pt": "2026-10-27-download-do-complemento-de-pago-disponivel-no-admin-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "VTEX Shield: Fraud Prevention available for all accounts",
+                    "es": "VTEX Shield: Prevención de fraude disponible para todas las cuentas",
+                    "pt": "VTEX Shield: Prevenção contra fraudes disponível para todas as contas"
+                  },
+                  "slug": {
+                    "en": "2026-10-26-vtex-shield-fraud-prevention-available-for-all-accounts",
+                    "es": "2026-10-26-vtex-shield-prevencion-de-fraude-disponible-para-todas-las-cuentas",
+                    "pt": "2026-10-26-vtex-shield-prevencao-contra-fraudes-disponivel-para-todas-as-contas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Native personal data management in Master Data v2",
+                    "es": "Gestión nativa de datos personales en Master Data v2",
+                    "pt": "Gestão nativa de dados pessoais no Master Data v2"
+                  },
+                  "slug": {
+                    "en": "2026-10-22-native-personal-data-management-in-master-data-v2",
+                    "es": "2026-10-22-gestion-nativa-de-datos-personales-en-master-data-v2",
+                    "pt": "2026-10-22-gestao-nativa-de-dados-pessoais-no-master-data-v2"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Delivery Promise: now available to all merchants",
+                    "es": "Delivery Promise: ahora disponible para todos los retailers",
+                    "pt": "Delivery Promise: agora disponível para todos os lojistas"
+                  },
+                  "slug": {
+                    "en": "2026-10-21-delivery-promise-now-generally-available",
+                    "es": "2026-10-21-delivery-promise-ahora-disponible-para-todas-las-tiendas",
+                    "pt": "2026-10-21-delivery-promise-agora-disponivel-para-todos-os-lojistas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Persistent login: set how long your customers stay authenticated",
+                    "es": "Inicio de sesión persistente: define por cuánto tiempo tus clientes permanecen autenticados",
+                    "pt": "Login persistente: defina por quanto tempo seus clientes permanecem autenticados"
+                  },
+                  "slug": {
+                    "en": "2026-10-16-persistent-login-set-how-long-your-customers-stay-authenticated",
+                    "es": "2026-10-16-inicio-de-sesion-persistente-define-por-cuanto-tiempo-tus-clientes-permanecen-autenticados",
+                    "pt": "2026-10-16-login-persistente-defina-por-quanto-tempo-seus-clientes-permanecem-autenticados"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Bolivia address database update",
+                    "es": "Actualización de la base de direcciones de Bolivia",
+                    "pt": "Atualização da base de endereços da Bolívia"
+                  },
+                  "slug": {
+                    "en": "2026-10-15-bolivia-address-database-update",
+                    "es": "2026-10-15-actualizacion-de-la-base-de-direcciones-de-bolivia",
+                    "pt": "2026-10-15-atualizacao-da-base-de-enderecos-da-bolivia"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "VTEX CMS: now available for early access",
+                    "es": "VTEX CMS: ahora disponible en acceso anticipado",
+                    "pt": "VTEX CMS: agora disponível em acesso antecipado"
+                  },
+                  "slug": {
+                    "en": "2026-10-13-cms-now-available-for-early-access",
+                    "es": "2026-10-13-cms-ahora-disponible-en-acceso-anticipado",
+                    "pt": "2026-10-13-cms-agora-disponivel-em-acesso-antecipado"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Google Shopping: regionalization of the integration",
+                    "es": "Google Shopping: regionalización de la integración",
+                    "pt": "Google Shopping: regionalização da integração"
+                  },
+                  "slug": {
+                    "en": "2026-10-09-google-shopping-regionalization-of-the-integration",
+                    "es": "2026-10-09-google-shopping-regionalizacion-de-la-integracion",
+                    "pt": "2026-10-09-google-shopping-regionalizacao-da-integracao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "User Rights API: Automated erasure of personal data",
+                    "es": "User Rights API: eliminación automatizada de datos personales",
+                    "pt": "User Rights API: exclusão automatizada de dados pessoais"
+                  },
+                  "slug": {
+                    "en": "2026-10-09-user-rights-api-automated-personal-data-erasure",
+                    "es": "2026-10-09-user-rights-api-automated-personal-data-erasure",
+                    "pt": "2026-10-09-user-rights-api-apagamento-automatizado-de-dados-pessoais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Agent Builder: More control over agent configuration and knowledge base",
+                    "es": "Agent Builder: más control al configurar los agentes y la base de conocimiento",
+                    "pt": "Agent Builder: mais controle na configuração de agentes e da base de conhecimento"
+                  },
+                  "slug": {
+                    "en": "2026-10-08-agent-builder-more-control-over-agent-and-knowledge-base-configuration",
+                    "es": "2026-10-08-agent-builder-mas-control-al-configurar-los-agentes-y-la-base-de-conocimiento",
+                    "pt": "2026-10-08-agent-builder-mais-controle-na-configuracao-de-agentes-e-da-base-de-conhecimento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Credit Wallet: track the credit that offsets your Master Data charges",
+                    "es": "Cartera de Crédito: sigue el crédito que compensa tu cargo de Master Data",
                     "pt": "Carteira de Crédito: acompanhe o crédito que abate sua cobrança de Master Data"
                   },
                   "slug": {
                     "en": "2026-10-08-credit-wallet-track-the-credit-that-offsets-your-master-data-charges",
                     "es": "2026-10-08-cartera-de-credito-sigue-el-credito-que-compensa-tu-cargo-de-master-data",
                     "pt": "2026-10-08-carteira-de-credito-acompanhe-o-credito-que-abate-sua-cobranca-de-master-data"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Master Data: Bulk document deletion via API",
+                    "es": "Master Data: eliminación en masa de documentos por API",
+                    "pt": "Master Data: exclusão em massa de documentos via API"
+                  },
+                  "slug": {
+                    "en": "2026-10-08-master-data-bulk-document-deletion-via-api",
+                    "es": "2026-10-08-master-data-eliminacion-masiva-de-documentos-via-api",
+                    "pt": "2026-10-08-master-data-exclusao-em-massa-de-documentos-via-api"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -69,7 +249,7 @@
                 },
                 {
                   "name": {
-                    "en": "VTEX CX Platform: support for BSUID and WhatsApp usernames",
+                    "en": "VTEX CX Platform: BSUID and WhatsApp username support",
                     "es": "VTEX CX Platform: soporte para BSUID y nombres de usuario de WhatsApp",
                     "pt": "VTEX CX Platform: suporte a BSUID e usernames do WhatsApp"
                   },
@@ -15978,6 +16158,246 @@
           "children": [
             {
               "name": {
+                "en": "Out-of-stock errors in marketplace integration orders",
+                "es": "Errores de falta de stock en la integración de pedidos de marketplace",
+                "pt": "Erros de falta de estoque na integração de pedidos de marketplace"
+              },
+              "slug": {
+                "en": "out-of-stock-errors-in-marketplace-integration-orders",
+                "es": "errores-de-falta-de-stock-en-la-integracion-de-pedidos-de-marketplace",
+                "pt": "erros-de-falta-de-estoque-na-integracao-de-pedidos-de-marketplace"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon inventory integration errors",
+                "es": "Errores de integración de stock con Amazon",
+                "pt": "Erros de integração de estoque com a Amazon"
+              },
+              "slug": {
+                "en": "amazon-inventory-integration-errors",
+                "es": "errores-de-integracion-de-stock-con-amazon",
+                "pt": "erros-de-integracao-de-estoque-com-a-amazon"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Netshoes inventory integration errors",
+                "es": "Errores de integración de stock con Netshoes",
+                "pt": "Erros de integração de estoque com a Netshoes"
+              },
+              "slug": {
+                "en": "netshoes-inventory-integration-errors",
+                "es": "errores-de-integracion-de-stock-con-netshoes",
+                "pt": "erros-de-integracao-de-estoque-com-a-netshoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Via inventory integration errors",
+                "es": "Errores de integración de stock con Via",
+                "pt": "Erros de integração de estoque com a Via"
+              },
+              "slug": {
+                "en": "via-inventory-integration-errors",
+                "es": "errores-de-integracion-de-stock-con-via",
+                "pt": "erros-de-integracao-de-estoque-com-a-via"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Carrefour inventory integration errors",
+                "es": "Errores de integración de stock con Carrefour",
+                "pt": "Erros de integração de estoque com o Carrefour"
+              },
+              "slug": {
+                "en": "carrefour-inventory-integration-errors",
+                "es": "errores-de-integracion-de-stock-con-carrefour",
+                "pt": "erros-de-integracao-de-estoque-com-o-carrefour"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Magazine Luiza inventory integration errors",
+                "es": "Errores de integración de stock con Magazine Luiza",
+                "pt": "Erros de integração de estoque com o Magazine Luiza"
+              },
+              "slug": {
+                "en": "magazine-luiza-inventory-integration-errors",
+                "es": "errores-de-integracion-de-stock-con-magazine-luiza",
+                "pt": "erros-de-integracao-de-estoque-com-o-magazine-luiza"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre inventory integration errors",
+                "es": "Errores de integración de stock con Mercado Libre",
+                "pt": "Erros de integração de estoque com o Mercado Livre"
+              },
+              "slug": {
+                "en": "mercado-livre-inventory-integration-errors",
+                "es": "errores-de-integracion-de-stock-con-mercado-libre",
+                "pt": "erros-de-integracao-de-estoque-com-o-mercado-livre"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order errors in the Amazon integration",
+                "es": "Errores de integración de pedidos de Amazon",
+                "pt": "Erros de integração de pedidos da Amazon"
+              },
+              "slug": {
+                "en": "order-errors-in-the-amazon-integration",
+                "es": "errores-de-integracion-de-pedidos-de-amazon",
+                "pt": "erros-de-integracao-de-pedidos-da-amazon"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order errors in the B2W integration",
+                "es": "Errores de integración de pedidos de B2W",
+                "pt": "Erros de integração de pedidos da B2W"
+              },
+              "slug": {
+                "en": "order-errors-in-the-b2w-integration",
+                "es": "errores-de-integracion-de-pedidos-de-b2w",
+                "pt": "erros-de-integracao-de-pedidos-da-b2w"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order errors in the Dafiti integration",
+                "es": "Errores de integración de pedidos de Dafiti",
+                "pt": "Erros de integração de pedidos da Dafiti"
+              },
+              "slug": {
+                "en": "order-errors-in-the-dafiti-integration",
+                "es": "errores-de-integracion-de-pedidos-de-dafiti",
+                "pt": "erros-de-integracao-de-pedidos-da-dafiti"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order errors in the Netshoes integration",
+                "es": "Errores de integración de pedidos de Netshoes",
+                "pt": "Erros de integração de pedidos da Netshoes"
+              },
+              "slug": {
+                "en": "order-errors-in-the-netshoes-integration",
+                "es": "errores-de-integracion-de-pedidos-de-netshoes",
+                "pt": "erros-de-integracao-de-pedidos-da-netshoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order errors in the Via integration",
+                "es": "Errores de integración de pedidos de Via",
+                "pt": "Erros de integração de pedidos da Via"
+              },
+              "slug": {
+                "en": "order-errors-in-the-via-integration",
+                "es": "errores-de-integracion-de-pedidos-de-via",
+                "pt": "erros-de-integracao-de-pedidos-da-via"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order errors in the Carrefour integration",
+                "es": "Errores de integración de pedidos de Carrefour",
+                "pt": "Erros de integração de pedidos do Carrefour"
+              },
+              "slug": {
+                "en": "order-errors-in-the-carrefour-integration",
+                "es": "errores-de-integracion-de-pedidos-de-carrefour",
+                "pt": "erros-de-integracao-de-pedidos-do-carrefour"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order errors in the Magazine Luiza integration",
+                "es": "Errores de integración de pedidos de Magazine Luiza",
+                "pt": "Erros de integração de pedidos do Magazine Luiza"
+              },
+              "slug": {
+                "en": "order-errors-in-the-magazine-luiza-integration",
+                "es": "errores-de-integracion-de-pedidos-de-magazine-luiza",
+                "pt": "erros-de-integracao-de-pedidos-do-magazine-luiza"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order errors in the Mercado Livre integration",
+                "es": "Errores de integración de pedidos de Mercado Libre",
+                "pt": "Erros de integração de pedidos do Mercado Livre"
+              },
+              "slug": {
+                "en": "order-errors-in-the-mercado-livre-integration",
+                "es": "errores-de-integracion-de-pedidos-de-mercado-libre",
+                "pt": "erros-de-integracao-de-pedidos-do-mercado-livre"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "SLA errors in marketplace integration orders",
+                "es": "Errores de SLA en la integración de pedidos de marketplace",
+                "pt": "Erros de SLA na integração de pedidos de marketplace"
+              },
+              "slug": {
+                "en": "sla-errors-in-marketplace-integration-orders",
+                "es": "errores-de-sla-en-la-integracion-de-pedidos-de-marketplace",
+                "pt": "erros-de-sla-na-integracao-de-pedidos-de-marketplace"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "My ad is not displayed on Mercado Livre",
                 "es": "Mi anuncio no aparece en Mercado Libre",
                 "pt": "Meu anúncio não é exibido no Mercado Livre"
@@ -16076,6 +16496,21 @@
                 "en": "promotion-not-applied-to-the-marketplace",
                 "es": "promocion-no-aplicada-en-marketplace",
                 "pt": "promocao-nao-aplicada-ao-marketplace"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Troubleshooting price divergence errors in marketplace orders",
+                "es": "Resolución de errores de divergencia de precio en pedidos de marketplace",
+                "pt": "Resolução de erros de divergência de preço em pedidos de marketplace"
+              },
+              "slug": {
+                "en": "troubleshooting-price-divergence-errors-in-marketplace-orders",
+                "es": "resolucion-de-errores-de-divergencia-de-precio-en-pedidos-de-marketplace",
+                "pt": "resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace"
               },
               "origin": "",
               "type": "markdown",
@@ -20538,202 +20973,6 @@
                 },
                 {
                   "name": {
-                    "en": "Store Settings - Storefront",
-                    "es": "Configuración de la Tienda - Storefront",
-                    "pt": "Configurações da Loja - Storefront"
-                  },
-                  "slug": {
-                    "en": "store-settings---storefront-subcategory",
-                    "es": "configuracion-de-la-tienda---storefront-subcategoria",
-                    "pt": "configurações-da-loja---storefront-subcategoria"
-                  },
-                  "origin": "",
-                  "type": "category",
-                  "children": [
-                    {
-                      "name": {
-                        "en": "Store - Overview",
-                        "es": "Tienda - Información general",
-                        "pt": "Loja - Visão geral"
-                      },
-                      "slug": {
-                        "en": "cms-store-overview",
-                        "es": "cms-tienda-vision-general",
-                        "pt": "cms-loja-visao-geral"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Storefront Settings - Overview",
-                        "es": "Configuración de Storefront - Información general",
-                        "pt": "Configurações de Storefront - Visão geral"
-                      },
-                      "slug": {
-                        "en": "storefront-settings-overview",
-                        "es": "vision-general-configuracion-de-storefront",
-                        "pt": "visao-geral-configuracoes-de-storefront"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Changing default system texts displayed in the store",
-                        "es": "Cambiar los textos predeterminados del sistema que aparecen en la tienda",
-                        "pt": "Alterar textos padrão do sistema exibidos na loja"
-                      },
-                      "slug": {
-                        "en": "changing-default-system-texts-displayed-in-the-store",
-                        "es": "cambiar-los-textos-predeterminados-del-sistema",
-                        "pt": "alterar-textos-padrao-do-sistema-exibidos-na-loja"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "How to install a Service Worker",
-                        "es": "Cómo instalar un Service Worker",
-                        "pt": "Como instalar um Service Worker"
-                      },
-                      "slug": {
-                        "en": "how-to-install-a-service-worker",
-                        "es": "como-instalar-un-service-worker",
-                        "pt": "como-instalar-um-service-worker"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Filling in system settings",
-                        "es": "Cómo llenar las configuraciones del sistema",
-                        "pt": "Como preencher as configurações do sistema"
-                      },
-                      "slug": {
-                        "en": "filling-in-system-settings",
-                        "es": "configuraciones-sistema",
-                        "pt": "preenchendo-as-configuracoes-do-sistema"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Configuring PWA in your Store Framework store",
-                        "es": "Configurar PWA en tu tienda Store Framework",
-                        "pt": "Configurando PWA em sua loja Store Framework"
-                      },
-                      "slug": {
-                        "en": "configuring-pwa-in-your-store-framework-store",
-                        "es": "configurar-pwa-en-tu-tienda-store-framework",
-                        "pt": "configurando-pwa-em-sua-loja-store-framework"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Configuring SEO in CMS Portal (Legacy) stores",
-                        "es": "Configurar SEO en tiendas CMS Portal (Legado)",
-                        "pt": "Configurando SEO em sua loja CMS Portal (Legado)"
-                      },
-                      "slug": {
-                        "en": "configuring-seo-in-legacy-cms-portal-stores",
-                        "es": "configurar-seo-en-tiendas-cms-portal-legado",
-                        "pt": "configurando-seo-em-sua-loja-cms-portal-legado"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Configuring SEO in your Store Framework store",
-                        "es": "Configurar SEO en tu tienda Store Framework",
-                        "pt": "Configurando SEO em sua loja Store Framework"
-                      },
-                      "slug": {
-                        "en": "configuring-seo-in-your-store",
-                        "es": "configurar-seo-en-la-tienda",
-                        "pt": "configurando-seo-em-sua-loja"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Configuring zoom and thumbnails in CMS Portal (Legacy) stores",
-                        "es": "Configurar zoom y miniaturas en tiendas CMS Portal (Legado)",
-                        "pt": "Configurando zoom e miniaturas em lojas CMS Portal (Legado)"
-                      },
-                      "slug": {
-                        "en": "configuring-zoom-and-thumbnails-in-cms-portal-legacy-stores",
-                        "es": "configurar-zoom-y-miniaturas-en-tiendas-cms-portal-legado",
-                        "pt": "configurando-zoom-e-miniaturas-em-lojas-cms-portal-legado"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Set the store display texts",
-                        "es": "Definir los textos de visualización de la tienda",
-                        "pt": "Definir os textos de exibição da loja"
-                      },
-                      "slug": {
-                        "en": "set-the-store-display-language",
-                        "es": "definir-el-idioma-de-visualizacion-de-la-tienda",
-                        "pt": "definir-o-idioma-de-exibicao-da-loja"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Enabling PWA push notifications in your store",
-                        "es": "Habilitar las notificaciones PWA de la tienda",
-                        "pt": "Habilitando notificações PWA da loja"
-                      },
-                      "slug": {
-                        "en": "enabling-pwa-push-notifications-in-your-store",
-                        "es": "habilitar-las-notificaciones-pwa-de-la-tienda",
-                        "pt": "habilitando-notificacoes-pwa-da-loja"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "What are the internal UTMs utmi_cp, utmi_pc and utmi_p",
-                        "es": "Qué son las UTMs internas utmi_cp, utmi_pc y utmi_p",
-                        "pt": "O que são as UTMs internas utmi_cp, utmi_pc e utmi_p"
-                      },
-                      "slug": {
-                        "en": "what-are-the-internal-utms",
-                        "es": "que-son-las-utms-internas",
-                        "pt": "o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": {
                     "en": "Styles",
                     "es": "Estilos",
                     "pt": "Estilos"
@@ -21908,6 +22147,217 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Store Settings - Storefront",
+                "es": "Configuración de la Tienda - Storefront",
+                "pt": "Configurações da Loja - Storefront"
+              },
+              "slug": {
+                "en": "store-settings---storefront-subcategory",
+                "es": "configuracion-de-la-tienda---storefront-subcategoria",
+                "pt": "configurações-da-loja---storefront-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Store - Overview",
+                    "es": "Tienda - Información general",
+                    "pt": "Loja - Visão geral"
+                  },
+                  "slug": {
+                    "en": "cms-store-overview",
+                    "es": "cms-tienda-vision-general",
+                    "pt": "cms-loja-visao-geral"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Storefront Settings - Overview",
+                    "es": "Configuración de Storefront - Información general",
+                    "pt": "Configurações de Storefront - Visão geral"
+                  },
+                  "slug": {
+                    "en": "storefront-settings-overview",
+                    "es": "vision-general-configuracion-de-storefront",
+                    "pt": "visao-geral-configuracoes-de-storefront"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Changing default system texts displayed in the store",
+                    "es": "Cambiar los textos predeterminados del sistema que aparecen en la tienda",
+                    "pt": "Alterar textos padrão do sistema exibidos na loja"
+                  },
+                  "slug": {
+                    "en": "changing-default-system-texts-displayed-in-the-store",
+                    "es": "cambiar-los-textos-predeterminados-del-sistema",
+                    "pt": "alterar-textos-padrao-do-sistema-exibidos-na-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How to install a Service Worker",
+                    "es": "Cómo instalar un Service Worker",
+                    "pt": "Como instalar um Service Worker"
+                  },
+                  "slug": {
+                    "en": "how-to-install-a-service-worker",
+                    "es": "como-instalar-un-service-worker",
+                    "pt": "como-instalar-um-service-worker"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Filling in system settings",
+                    "es": "Cómo llenar las configuraciones del sistema",
+                    "pt": "Como preencher as configurações do sistema"
+                  },
+                  "slug": {
+                    "en": "filling-in-system-settings",
+                    "es": "configuraciones-sistema",
+                    "pt": "preenchendo-as-configuracoes-do-sistema"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Configuring PWA in your Store Framework store",
+                    "es": "Configurar PWA en tu tienda Store Framework",
+                    "pt": "Configurando PWA em sua loja Store Framework"
+                  },
+                  "slug": {
+                    "en": "configuring-pwa-in-your-store-framework-store",
+                    "es": "configurar-pwa-en-tu-tienda-store-framework",
+                    "pt": "configurando-pwa-em-sua-loja-store-framework"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Configuring SEO in CMS Portal (Legacy) stores",
+                    "es": "Configurar SEO en tiendas CMS Portal (Legado)",
+                    "pt": "Configurando SEO em sua loja CMS Portal (Legado)"
+                  },
+                  "slug": {
+                    "en": "configuring-seo-in-legacy-cms-portal-stores",
+                    "es": "configurar-seo-en-tiendas-cms-portal-legado",
+                    "pt": "configurando-seo-em-sua-loja-cms-portal-legado"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Configuring SEO in your Store Framework store",
+                    "es": "Configurar SEO en tu tienda Store Framework",
+                    "pt": "Configurando SEO em sua loja Store Framework"
+                  },
+                  "slug": {
+                    "en": "configuring-seo-in-your-store",
+                    "es": "configurar-seo-en-la-tienda",
+                    "pt": "configurando-seo-em-sua-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Configuring file types",
+                    "es": "Configurar tipos de archivo",
+                    "pt": "Configurando tipos de arquivos"
+                  },
+                  "slug": {
+                    "en": "configuring-file-types",
+                    "es": "configurar-tipos-de-archivo",
+                    "pt": "configurando-tipos-de-arquivos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Configuring zoom and thumbnails in CMS Portal (Legacy) stores",
+                    "es": "Configurar zoom y miniaturas en tiendas CMS Portal (Legado)",
+                    "pt": "Configurando zoom e miniaturas em lojas CMS Portal (Legado)"
+                  },
+                  "slug": {
+                    "en": "configuring-zoom-and-thumbnails-in-cms-portal-legacy-stores",
+                    "es": "configurar-zoom-y-miniaturas-en-tiendas-cms-portal-legado",
+                    "pt": "configurando-zoom-e-miniaturas-em-lojas-cms-portal-legado"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Set the store display texts",
+                    "es": "Definir los textos de visualización de la tienda",
+                    "pt": "Definir os textos de exibição da loja"
+                  },
+                  "slug": {
+                    "en": "set-the-store-display-language",
+                    "es": "definir-el-idioma-de-visualizacion-de-la-tienda",
+                    "pt": "definir-o-idioma-de-exibicao-da-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Enabling PWA push notifications in your store",
+                    "es": "Habilitar las notificaciones PWA de la tienda",
+                    "pt": "Habilitando notificações PWA da loja"
+                  },
+                  "slug": {
+                    "en": "enabling-pwa-push-notifications-in-your-store",
+                    "es": "habilitar-las-notificaciones-pwa-de-la-tienda",
+                    "pt": "habilitando-notificacoes-pwa-da-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "What are the internal UTMs utmi_cp, utmi_pc and utmi_p",
+                    "es": "Qué son las UTMs internas utmi_cp, utmi_pc y utmi_p",
+                    "pt": "O que são as UTMs internas utmi_cp, utmi_pc e utmi_p"
+                  },
+                  "slug": {
+                    "en": "what-are-the-internal-utms",
+                    "es": "que-son-las-utms-internas",
+                    "pt": "o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
@@ -21925,6 +22375,67 @@
           "origin": "",
           "type": "markdown",
           "children": [
+            {
+              "name": {
+                "en": "Delivery Promise",
+                "es": "Delivery Promise",
+                "pt": "Delivery Promise"
+              },
+              "slug": {
+                "en": "delivery-promise-subcategory",
+                "es": "delivery-promise-subcategoria",
+                "pt": "delivery-promise-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Activating Delivery Promise",
+                    "es": "Activar Delivery Promise",
+                    "pt": "Ativar o Delivery Promise"
+                  },
+                  "slug": {
+                    "en": "activate-delivery-promise",
+                    "es": "activar-delivery-promise",
+                    "pt": "ativar-delivery-promise"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Delivery Promise",
+                    "es": "Delivery Promise",
+                    "pt": "Delivery Promise"
+                  },
+                  "slug": {
+                    "en": "delivery-promise",
+                    "es": "delivery-promise",
+                    "pt": "delivery-promise"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Delivery Promise: FAQ",
+                    "es": "Delivery Promise: preguntas frecuentes",
+                    "pt": "Delivery Promise: FAQ"
+                  },
+                  "slug": {
+                    "en": "delivery-promise-faq",
+                    "es": "delivery-promise-faq",
+                    "pt": "delivery-promise-faq"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
             {
               "name": {
                 "en": "Inventory",
@@ -22903,6 +23414,21 @@
                 "en": "logistics-glossary",
                 "es": "glosario-de-logistica",
                 "pt": "glossario-de-logistica"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Delivery Options",
+                "es": "Opciones de envío",
+                "pt": "Opções de envio"
+              },
+              "slug": {
+                "en": "delivery-options",
+                "es": "opciones-de-envio",
+                "pt": "opcoes-de-envio"
               },
               "origin": "",
               "type": "markdown",
@@ -25438,24 +25964,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "What is Deposit Slip",
-                    "es": "Qué es Ficha de Depósito",
-                    "pt": "O que é  Ficha Depósito"
-                  },
-                  "slug": {
-                    "en": "what-is-deposit-slip",
-                    "es": "que-es-ficha-de-deposito",
-                    "pt": "o-que-e-ficha-deposito"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is 3D Secure?",
-                    "es": "¿Qué es 3D Secure?",
-                    "pt": "O que é 3D Secure?"
+                    "en": "3D Secure",
+                    "es": "3D Secure",
+                    "pt": "3D Secure"
                   },
                   "slug": {
                     "en": "what-is-3d-secure",
@@ -25468,14 +25979,14 @@
                 },
                 {
                   "name": {
-                    "en": "What is anti-fraud?",
-                    "es": "¿Qué es antifraude?",
-                    "pt": "O que é antifraude?"
+                    "en": "Financial agents in the payment flow",
+                    "es": "Agentes financieros en el flujo de pago",
+                    "pt": "Agentes financeiros no fluxo de pagamento"
                   },
                   "slug": {
-                    "en": "what-is-anti-fraud",
-                    "es": "que-es-antifraude",
-                    "pt": "o-que-e-antifraude"
+                    "en": "financial-agents-in-the-payment-flow",
+                    "es": "agentes-financieros-en-el-flujo-de-pago",
+                    "pt": "agentes-financeiros-no-fluxo-de-pagamento"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25483,14 +25994,44 @@
                 },
                 {
                   "name": {
-                    "en": "What is the Issuing Bank?",
-                    "es": "¿Qué es el Banco Emisor?",
-                    "pt": "O que é Banco Emissor?"
+                    "en": "Digital wallet (ewallet)",
+                    "es": "Cartera digital (ewallet)",
+                    "pt": "Carteira digital (ewallet)"
                   },
                   "slug": {
-                    "en": "what-is-the-issuing-bank",
-                    "es": "que-es-el-banco-emisor",
-                    "pt": "o-que-e-banco-emissor"
+                    "en": "what-is-an-e-wallet",
+                    "es": "que-es-una-cartera-digital",
+                    "pt": "o-que-e-uma-carteira-digital-e-wallet"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Offline payment condition",
+                    "es": "Condición de pago offline",
+                    "pt": "Condição de pagamento offline"
+                  },
+                  "slug": {
+                    "en": "what-is-an-offline-payment-condition",
+                    "es": "que-es-una-condicion-de-pago-offline",
+                    "pt": "o-que-e-uma-condicao-de-pagamento-offline"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "What is Deposit Slip",
+                    "es": "Qué es Ficha de Depósito",
+                    "pt": "O que é  Ficha Depósito"
+                  },
+                  "slug": {
+                    "en": "what-is-deposit-slip",
+                    "es": "que-es-ficha-de-deposito",
+                    "pt": "o-que-e-ficha-deposito"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25528,111 +26069,6 @@
                 },
                 {
                   "name": {
-                    "en": "What is an acquirer?",
-                    "es": "¿Qué es un adquirente?",
-                    "pt": "O que é um adquirente?"
-                  },
-                  "slug": {
-                    "en": "what-is-an-acquirer",
-                    "es": "que-es-un-adquirente",
-                    "pt": "o-que-e-um-adquirente"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a payment gateway?",
-                    "es": "¿Qué es un gateway de pagos?",
-                    "pt": "O que é um gateway de pagamentos?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-payment-gateway",
-                    "es": "que-es-un-gateway-de-pagos",
-                    "pt": "o-que-e-um-gateway-de-pagamentos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a sub-acquirer?",
-                    "es": "¿Qué es un subadquirente?",
-                    "pt": "O que é um subadquirente?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-sub-acquirer",
-                    "es": "que-es-un-subadquirente",
-                    "pt": "o-que-e-um-subadquirente"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a credit card brand?",
-                    "es": "¿Qué es una bandera de tarjeta de crédito?",
-                    "pt": "O que é uma bandeira de cartão de crédito?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-credit-card-brand",
-                    "es": "que-es-una-bandera-de-tarjeta-de-credito",
-                    "pt": "o-que-e-uma-bandeira-de-cartao-de-credito"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is an ewallet?",
-                    "es": "¿Qué es una cartera digital (ewallet)?",
-                    "pt": "O que é uma carteira digital (ewallet)?"
-                  },
-                  "slug": {
-                    "en": "what-is-an-e-wallet",
-                    "es": "que-es-una-cartera-digital",
-                    "pt": "o-que-e-uma-carteira-digital-e-wallet"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is an offline payment condition?",
-                    "es": "¿Qué es una condición de pago sin conexión?",
-                    "pt": "O que é uma condição de pagamento offline?"
-                  },
-                  "slug": {
-                    "en": "what-is-an-offline-payment-condition",
-                    "es": "que-es-una-condicion-de-pago-offline",
-                    "pt": "o-que-e-uma-condicao-de-pagamento-offline"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a transaction?",
-                    "es": "¿Qué es una transacción?",
-                    "pt": "O que é uma transação?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-transaction",
-                    "es": "que-es-una-transaccion",
-                    "pt": "o-que-e-uma-transacao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Payment Provider Protocol",
                     "es": "Payment Provider Protocol",
                     "pt": "Payment Provider Protocol"
@@ -25648,14 +26084,14 @@
                 },
                 {
                   "name": {
-                    "en": "What is the role of financial agents in the payment flow of an application in Brazil?",
-                    "es": "¿Cuál es el papel de los agentes financieros en el flujo de pago de un pedido en Brasil?",
-                    "pt": "Qual é o papel dos agentes financeiros no fluxo de pagamento de um pedido no Brasil?"
+                    "en": "Payment transaction",
+                    "es": "Transacción de pago",
+                    "pt": "Transação de pagamento"
                   },
                   "slug": {
-                    "en": "what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil",
-                    "es": "cual-es-la-diferencia-entre-adquirente-bandera-gateway-y-sub-adquirente-en-brasil",
-                    "pt": "diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil"
+                    "en": "what-is-a-transaction",
+                    "es": "que-es-una-transaccion",
+                    "pt": "o-que-e-uma-transacao"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26429,6 +26865,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with Dinelco",
+                        "es": "Configurar pago con Dinelco",
+                        "pt": "Configurar pagamento com Dinelco"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-dinelco",
+                        "es": "configurar-pago-con-dinelco",
+                        "pt": "configurar-pagamento-com-dinelco"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with Directa",
                         "es": "Configurar pago con Directa",
                         "pt": "Configurar pagamento com Directa"
@@ -26639,6 +27090,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with FastPayBrasil",
+                        "es": "Configurar pago con FastPayBrasil",
+                        "pt": "Configurar pagamento com FastPayBrasil"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-fastpaybrasil",
+                        "es": "configurar-pago-con-fastpaybrasil",
+                        "pt": "configurar-pagamento-com-fastpaybrasil"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with FCamara (Payment initiator)",
                         "es": "Configurar pago con FCamara (Iniciador de pagos)",
                         "pt": "Configurar pagamento com FCamara (Iniciador de pagamentos)"
@@ -26789,6 +27255,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with GlobalPay",
+                        "es": "Configurar pago con GlobalPay",
+                        "pt": "Configurar pagamento com GlobalPay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-globalpay",
+                        "es": "configurar-pago-con-globalpay",
+                        "pt": "configurar-pagamento-com-globalpay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with GlobalPay-Redeban",
                         "es": "Configurar pago con GlobalPay-Redeban",
                         "pt": "Configurar pagamento com GlobalPay-Redeban"
@@ -26797,6 +27278,21 @@
                         "en": "setting-up-payments-with-globalpay-redeban",
                         "es": "configurar-pago-con-globalpay-redeban",
                         "pt": "configurar-pagamento-com-globalpay-redeban"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with GlobalPayBancolombia",
+                        "es": "Configurar pago con GlobalPayBancolombia",
+                        "pt": "Configurar pagamento com GlobalPayBancolombia"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-globalpaybancolombia",
+                        "es": "configurar-pago-con-globalpaybancolombia",
+                        "pt": "configurar-pagamento-com-globalpaybancolombia"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -26819,6 +27315,36 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with GlobalPayNiqui",
+                        "es": "Configurar pago con GlobalPayNiqui",
+                        "pt": "Configurar pagamento com GlobalPayNiqui"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-globalpayniqui",
+                        "es": "configurar-pago-con-globalpayniqui",
+                        "pt": "configurar-pagamento-com-globalpayniqui"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with GlobalPayPSE",
+                        "es": "Configurar pago con GlobalPayPSE",
+                        "pt": "Configurar pagamento com GlobalPayPSE"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-globalpaypse",
+                        "es": "configurar-pago-con-globalpaypse",
+                        "pt": "configurar-pagamento-com-globalpaypse"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with GOcuotas",
                         "es": "Configurar pago con GOcuotas",
                         "pt": "Configurar pagamento com GOcuotas"
@@ -26827,6 +27353,21 @@
                         "en": "setting-up-payments-with-gocuotas",
                         "es": "configurar-pago-con-gocuotas",
                         "pt": "configurar-pagamento-com-gocuotas"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with HibouPay",
+                        "es": "Configurar pago con HibouPay",
+                        "pt": "Configurar pagamento com HibouPay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-hiboupay",
+                        "es": "configurar-pago-con-hiboupay",
+                        "pt": "configurar-pagamento-com-hiboupay"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -26873,6 +27414,21 @@
                         "en": "setting-up-payments-with-instapago",
                         "es": "configurar-pago-con-instapago",
                         "pt": "configurar-pagamento-com-instapago"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with InstaPagoU",
+                        "es": "Configurar pago con InstaPagoU",
+                        "pt": "Configurar pagamento com InstaPagoU"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-instapagou",
+                        "es": "configurar-pago-con-instapagou",
+                        "pt": "configurar-pagamento-com-instapagou"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -27406,6 +27962,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with OderoPay",
+                        "es": "Configurar pago con OderoPay",
+                        "pt": "Configurar pagamento com OderoPay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-oderopay",
+                        "es": "configurar-pago-con-oderopay",
+                        "pt": "configurar-pagamento-com-oderopay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with OpenpayV2",
                         "es": "Configurar pago con OpenpayV2",
                         "pt": "Configurar pagamento com OpenpayV2"
@@ -27706,6 +28277,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with PaymentsWay",
+                        "es": "Configurar pago con PaymentsWay",
+                        "pt": "Configurar pagamento com PaymentsWay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-paymentsway",
+                        "es": "configurar-pago-con-paymentsway",
+                        "pt": "configurar-pagamento-com-paymentsway"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with PayPalCheckout",
                         "es": "Configurar pago con PayPalCheckout",
                         "pt": "Configurar pagamento com PayPalCheckout"
@@ -27984,6 +28570,21 @@
                         "en": "setting-up-payments-with-qhantuy",
                         "es": "configurar-pago-con-qhantuy",
                         "pt": "configurar-pagamento-com-qhantuy"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with RedebanConnector",
+                        "es": "Configurar pago con RedebanConnector",
+                        "pt": "Configurar pagamento com RedebanConnector"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-redebanconnector",
+                        "es": "configurar-pago-con-redebanconnector",
+                        "pt": "configurar-pagamento-com-redebanconnector"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -28420,6 +29021,21 @@
                         "en": "setting-up-payments-with-tiptoppay",
                         "es": "configurar-pago-con-tiptoppay",
                         "pt": "configurar-pagamento-com-tiptoppay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with Toku",
+                        "es": "Configurar pago con Toku",
+                        "pt": "Configurar pagamento com Toku"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-toku",
+                        "es": "configurar-pago-con-toku",
+                        "pt": "configurar-pagamento-com-toku"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -28909,8 +29525,8 @@
                     },
                     {
                       "name": {
-                        "en": "Configuring a Boleto",
-                        "es": "Configurar boleto bancario",
+                        "en": "Configuring a boleto (for stores in Brazil)",
+                        "es": "Configurar boleto (Brasil)",
                         "pt": "Configurar boleto bancário"
                       },
                       "slug": {
@@ -30030,21 +30646,6 @@
                   "origin": "",
                   "type": "category",
                   "children": [
-                    {
-                      "name": {
-                        "en": "Add 3DS support to the integration with Adyen",
-                        "es": "Añadir soporte a 3DS en la integración con Adyen",
-                        "pt": "Adicionar suporte a 3DS na integração com a Adyen"
-                      },
-                      "slug": {
-                        "en": "add-3ds-support-to-the-integration-with-adyen",
-                        "es": "anadir-soporte-a-3ds-en-la-integracion-con-adyen",
-                        "pt": "adicionando-suporte-a-3ds-na-integracao-com-a-adyen"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
                     {
                       "name": {
                         "en": "Setting up 3DS 2 authentication flow",
@@ -31621,6 +32222,21 @@
                 },
                 {
                   "name": {
+                    "en": "Google Shopping regionalization",
+                    "es": "Regionalización de Google Shopping",
+                    "pt": "Regionalização do Google Shopping"
+                  },
+                  "slug": {
+                    "en": "google-shopping-regionalization",
+                    "es": "regionalizacion-de-google-shopping",
+                    "pt": "regionalizacao-do-google-shopping"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Price suggestion in Amazon integration",
                     "es": "Sugerencia de precios en la integración con Amazon",
                     "pt": "Sugestão de preços na integração com a Amazon"
@@ -31893,126 +32509,6 @@
                 },
                 {
                   "name": {
-                    "en": "Out-of-stock errors in marketplace integration orders",
-                    "es": "Errores de falta de stock en la integración de pedidos de marketplace",
-                    "pt": "Erros de falta de estoque na integração de pedidos de marketplace"
-                  },
-                  "slug": {
-                    "en": "out-of-stock-errors-in-marketplace-integration-orders",
-                    "es": "errores-de-falta-de-stock-en-la-integracion-de-pedidos-de-marketplace",
-                    "pt": "erros-de-falta-de-estoque-na-integracao-de-pedidos-de-marketplace"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Amazon inventory integration errors",
-                    "es": "Errores de integración de stock con Amazon",
-                    "pt": "Erros de integração de estoque com a Amazon"
-                  },
-                  "slug": {
-                    "en": "amazon-inventory-integration-errors",
-                    "es": "errores-de-integracion-de-stock-con-amazon",
-                    "pt": "erros-de-integracao-de-estoque-com-a-amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Netshoes inventory integration errors",
-                    "es": "Errores de integración de stock con Netshoes",
-                    "pt": "Erros de integração de estoque com a Netshoes"
-                  },
-                  "slug": {
-                    "en": "netshoes-inventory-integration-errors",
-                    "es": "errores-de-integracion-de-stock-con-netshoes",
-                    "pt": "erros-de-integracao-de-estoque-com-a-netshoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Via inventory integration errors",
-                    "es": "Errores de integración de stock con Via",
-                    "pt": "Erros de integração de estoque com a Via"
-                  },
-                  "slug": {
-                    "en": "via-inventory-integration-errors",
-                    "es": "errores-de-integracion-de-stock-con-via",
-                    "pt": "erros-de-integracao-de-estoque-com-a-via"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Inventory integration errors with marketplaces",
-                    "es": "Errores de integración de stock con marketplaces",
-                    "pt": "Erros de integração de estoque com marketplaces"
-                  },
-                  "slug": {
-                    "en": "inventory-integration-errors-with-marketplaces",
-                    "es": "errores-de-integracion-de-stock-con-marketplaces",
-                    "pt": "erros-de-integracao-de-estoque-com-marketplaces"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Carrefour inventory integration errors",
-                    "es": "Errores de integración de stock con Carrefour",
-                    "pt": "Erros de integração de estoque com o Carrefour"
-                  },
-                  "slug": {
-                    "en": "carrefour-inventory-integration-errors",
-                    "es": "errores-de-integracion-de-stock-con-carrefour",
-                    "pt": "erros-de-integracao-de-estoque-com-o-carrefour"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Magazine Luiza inventory integration errors",
-                    "es": "Errores de integración de stock con Magazine Luiza",
-                    "pt": "Erros de integração de estoque com o Magazine Luiza"
-                  },
-                  "slug": {
-                    "en": "magazine-luiza-inventory-integration-errors",
-                    "es": "errores-de-integracion-de-stock-con-magazine-luiza",
-                    "pt": "erros-de-integracao-de-estoque-com-o-magazine-luiza"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Mercado Livre inventory integration errors",
-                    "es": "Errores de integración de stock con Mercado Libre",
-                    "pt": "Erros de integração de estoque com o Mercado Livre"
-                  },
-                  "slug": {
-                    "en": "mercado-livre-inventory-integration-errors",
-                    "es": "errores-de-integracion-de-stock-con-mercado-libre",
-                    "pt": "erros-de-integracao-de-estoque-com-o-mercado-livre"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Customized inventory in the marketplace",
                     "es": "Inventario personalizado en el marketplace",
                     "pt": "Estoque personalizado no marketplace"
@@ -32143,156 +32639,6 @@
                     "en": "how-shipping-works-when-delivery-is-done-by-the-marketplace",
                     "es": "como-funciona-el-flete-cuando-la-entrega-es-hecha-por-el-marketplace",
                     "pt": "como-funciona-o-frete-quando-o-marketplace-faz-a-entrega"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Order errors in the Amazon integration",
-                    "es": "Errores de integración de pedidos de Amazon",
-                    "pt": "Erros de integração de pedidos da Amazon"
-                  },
-                  "slug": {
-                    "en": "order-errors-in-the-amazon-integration",
-                    "es": "errores-de-integracion-de-pedidos-de-amazon",
-                    "pt": "erros-de-integracao-de-pedidos-da-amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Order errors in the B2W integration",
-                    "es": "Errores de integración de pedidos de B2W",
-                    "pt": "Erros de integração de pedidos da B2W"
-                  },
-                  "slug": {
-                    "en": "order-errors-in-the-b2w-integration",
-                    "es": "errores-de-integracion-de-pedidos-de-b2w",
-                    "pt": "erros-de-integracao-de-pedidos-da-b2w"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Order errors in the Dafiti integration",
-                    "es": "Errores de integración de pedidos de Dafiti",
-                    "pt": "Erros de integração de pedidos da Dafiti"
-                  },
-                  "slug": {
-                    "en": "order-errors-in-the-dafiti-integration",
-                    "es": "errores-de-integracion-de-pedidos-de-dafiti",
-                    "pt": "erros-de-integracao-de-pedidos-da-dafiti"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Order errors in the Netshoes integration",
-                    "es": "Errores de integración de pedidos de Netshoes",
-                    "pt": "Erros de integração de pedidos da Netshoes"
-                  },
-                  "slug": {
-                    "en": "order-errors-in-the-netshoes-integration",
-                    "es": "errores-de-integracion-de-pedidos-de-netshoes",
-                    "pt": "erros-de-integracao-de-pedidos-da-netshoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Order errors in the Via integration",
-                    "es": "Errores de integración de pedidos de Via",
-                    "pt": "Erros de integração de pedidos da Via"
-                  },
-                  "slug": {
-                    "en": "order-errors-in-the-via-integration",
-                    "es": "errores-de-integracion-de-pedidos-de-via",
-                    "pt": "erros-de-integracao-de-pedidos-da-via"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Order errors in the Carrefour integration",
-                    "es": "Errores de integración de pedidos de Carrefour",
-                    "pt": "Erros de integração de pedidos do Carrefour"
-                  },
-                  "slug": {
-                    "en": "order-errors-in-the-carrefour-integration",
-                    "es": "errores-de-integracion-de-pedidos-de-carrefour",
-                    "pt": "erros-de-integracao-de-pedidos-do-carrefour"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Order errors in the Magazine Luiza integration",
-                    "es": "Errores de integración de pedidos de Magazine Luiza",
-                    "pt": "Erros de integração de pedidos do Magazine Luiza"
-                  },
-                  "slug": {
-                    "en": "order-errors-in-the-magazine-luiza-integration",
-                    "es": "errores-de-integracion-de-pedidos-de-magazine-luiza",
-                    "pt": "erros-de-integracao-de-pedidos-do-magazine-luiza"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Order errors in the Mercado Livre integration",
-                    "es": "Errores de integración de pedidos de Mercado Libre",
-                    "pt": "Erros de integração de pedidos do Mercado Livre"
-                  },
-                  "slug": {
-                    "en": "order-errors-in-the-mercado-livre-integration",
-                    "es": "errores-de-integracion-de-pedidos-de-mercado-libre",
-                    "pt": "erros-de-integracao-de-pedidos-do-mercado-livre"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "SLA errors in marketplace integration orders",
-                    "es": "Errores de SLA en la integración de pedidos de marketplace",
-                    "pt": "Erros de SLA na integração de pedidos de marketplace"
-                  },
-                  "slug": {
-                    "en": "sla-errors-in-marketplace-integration-orders",
-                    "es": "errores-de-sla-en-la-integracion-de-pedidos-de-marketplace",
-                    "pt": "erros-de-sla-na-integracao-de-pedidos-de-marketplace"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Troubleshooting price divergence errors in marketplace orders",
-                    "es": "Resolución de errores de divergencia de precio en pedidos de marketplace",
-                    "pt": "Resolução de erros de divergência de preço em pedidos de marketplace"
-                  },
-                  "slug": {
-                    "en": "troubleshooting-price-divergence-errors-in-marketplace-orders",
-                    "es": "resolucion-de-errores-de-divergencia-de-precio-en-pedidos-de-marketplace",
-                    "pt": "resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -34031,21 +34377,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Adding ticket creation fields in Zendesk",
-                    "es": "Agregando campos de creación de ticket en Zendesk",
-                    "pt": "Adicionando campos de criação de ticket no Zendesk"
-                  },
-                  "slug": {
-                    "en": "adding-ticket-creation-fields-in-zendesk",
-                    "es": "agregando-campos-de-creacion-de-ticket-en-zendesk",
-                    "pt": "adicionando-campos-de-criacao-de-ticket-no-zendesk"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Adding Discord as a channel",
                     "es": "Agregar Discord como un canal",
                     "pt": "Adicionando o Discord como um canal"
@@ -34513,7 +34844,7 @@
                   "name": {
                     "en": "WhatsApp: How to create template messages",
                     "es": "WhatsApp: Cómo crear mensajes de plantilla",
-                    "pt": "Whatsapp: Como criar Template Messages"
+                    "pt": "WhatsApp: Como criar Template Messages"
                   },
                   "slug": {
                     "en": "whatsapp-how-to-create-template-messages",
@@ -34534,21 +34865,6 @@
                     "en": "whatsapp-vtex-cx-platform-integration",
                     "es": "whatsapp-integracion-con-vtex-cx-platform",
                     "pt": "whatsapp-integracao-com-o-vtex-cx-platform"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Zendesk - human support",
-                    "es": "Zendesk - atención humana",
-                    "pt": "Zendesk - Atendimento Humano"
-                  },
-                  "slug": {
-                    "en": "zendesk-human-support",
-                    "es": "zendesk-atencion-humana",
-                    "pt": "zendesk-atendimento-humano"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -35121,8 +35437,8 @@
           "children": [
             {
               "name": {
-                "en": "Opening tickets to VTEX support",
-                "es": "Abrir tickets para el soporte VTEX",
+                "en": "Opening tickets with VTEX Support",
+                "es": "Abrir tickets con el Soporte VTEX",
                 "pt": "Abrir chamados para o suporte VTEX"
               },
               "slug": {
@@ -35484,6 +35800,21 @@
                 },
                 {
                   "name": {
+                    "en": "Reporting security incidents",
+                    "es": "Reportar incidentes de seguridad",
+                    "pt": "Reportar incidentes de segurança"
+                  },
+                  "slug": {
+                    "en": "reporting-security-incidents",
+                    "es": "reportar-incidentes-de-seguridad",
+                    "pt": "reportar-incidentes-de-seguranca"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Reporting vulnerabilities",
                     "es": "Informar vulnerabilidad",
                     "pt": "Reportar vulnerabilidade"
@@ -35802,9 +36133,9 @@
                 },
                 {
                   "name": {
-                    "en": "Fraud Prevention (Beta)",
-                    "es": "Prevención de Fraude (Beta)",
-                    "pt": "Prevenção contra fraudes (Beta)"
+                    "en": "Fraud Prevention",
+                    "es": "Prevención de Fraude",
+                    "pt": "Prevenção contra fraudes"
                   },
                   "slug": {
                     "en": "fraud-prevention",
@@ -36208,82 +36539,6 @@
                     "en": "releases-module-beta",
                     "es": "modulo-de-lanzamientos-beta",
                     "pt": "modulo-lancamentos-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Shipping Beta",
-                "es": "Envío Beta",
-                "pt": "Envio Beta"
-              },
-              "slug": {
-                "en": "shipping-beta-subcategory",
-                "es": "envio-beta-subcategoria",
-                "pt": "envio-beta-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Activating Delivery Promise",
-                    "es": "Activar Delivery Promise",
-                    "pt": "Ativar o Delivery Promise"
-                  },
-                  "slug": {
-                    "en": "activate-delivery-promise",
-                    "es": "activar-delivery-promise",
-                    "pt": "ativar-delivery-promise"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Delivery Promise (Beta)",
-                    "es": "Delivery Promise (beta)",
-                    "pt": "Delivery Promise (Beta)"
-                  },
-                  "slug": {
-                    "en": "delivery-promise-beta",
-                    "es": "delivery-promise-beta",
-                    "pt": "delivery-promise-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Delivery Promise: FAQ",
-                    "es": "Delivery Promise: FAQ",
-                    "pt": "Delivery Promise: FAQ"
-                  },
-                  "slug": {
-                    "en": "delivery-promise-faq",
-                    "es": "delivery-promise-faq",
-                    "pt": "delivery-promise-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Delivery Options (Beta)",
-                    "es": "Opciones de envío (beta)",
-                    "pt": "Opções de envio (Beta)"
-                  },
-                  "slug": {
-                    "en": "delivery-options-beta",
-                    "es": "opciones-de-envio-beta",
-                    "pt": "opcoes-de-envio-beta"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -57925,21 +58180,6 @@
                 "en": "some-addresses-autocompleted-by-google-are-not-able-to-be-saved-on-my-account",
                 "es": "algunas-direcciones-que-google-autocompleta-no-se-pueden-guardar-en-mi-cuenta",
                 "pt": "alguns-enderecos-preenchidos-automaticamente-pelo-google-nao-podem-ser-salvos-em-minha-conta"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Change v1 Item disappears from UI after being invoiced, scenario with promotion.",
-                "es": "El cambio v1 El artículo desaparece de la interfaz de usuario después de ser facturado, escenario con promoción.",
-                "pt": "Alteração v1: O item desaparece da interface do usuário após ser faturado, cenário com promoção."
-              },
-              "slug": {
-                "en": "change-v1-item-disappears-from-ui-after-being-invoiced-scenario-with-promotion",
-                "es": "el-cambio-v1-el-articulo-desaparece-de-la-interfaz-de-usuario-despues-de-ser-facturado-escenario-con-promocion",
-                "pt": "alteracao-v1-o-item-desaparece-da-interface-do-usuario-apos-ser-faturado-cenario-com-promocao"
               },
               "origin": "",
               "type": "markdown",

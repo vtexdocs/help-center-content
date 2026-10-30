@@ -49,6 +49,29 @@ You can navigate through messages with the keyboard arrows and press `Enter` to 
 
 You can also configure department-specific quick replies. This configuration is done during department creation. For more information, see [Configuring Live Desk](https://help.vtex.com/docs/tutorials/configure-live-desk).
 
+### Improve response with AI
+
+The **Improve response with AI** feature lets you review a message with the help of artificial intelligence before sending it to the contact. You write the response as usual in the text field and trigger the AI to fix errors, adjust the tone, or rewrite the text more clearly, while keeping the original meaning of the message.
+
+> ℹ️ The <i class="fas fa-magic" aria-hidden="true"></i> **Improve response with AI** button is only enabled when there's text typed in.
+
+To improve a response, follow these steps:
+
+1. In the conversation's text field, write the message you want to send.
+2. Click <i class="fas fa-magic" aria-hidden="true"></i>`Improve response with AI`.
+3. Select the desired improvement option:
+  - `Fix grammar and spelling`: Fixes only typing, spelling, and grammar errors.
+  - `Make more empathetic`: Rewrites the message with a kinder, more welcoming tone.
+  - `Rewrite for clarity`: Reorganizes the text to make it clearer and more objective, with more complete explanations.
+4. Wait for the processing to finish.
+
+> ℹ️ While the **Improving your response** message is displayed, you can click <i class="fas fa-times" aria-hidden="true"></i>`Improved response` to cancel the action.
+
+5. Review the new version of the message. If you prefer, edit the text or click `Original` to go back to the original message.
+6. Click `Submit`.
+
+> ℹ️ The AI doesn't send any message automatically to the contact. The conversation is only updated when you click `Submit`.
+
 ### Transferring chat
 
 The transfer chat function directs the contact to a specific department, queue, or representative and can be accessed in the contact information panel. The transfer can be triggered by the AI agent, when this option is enabled in the configurations, or manually by a manager or admin. In manual transfer, you can search by name of a representative, queue, or department, or select a recipient from the displayed list. When you confirm the transfer, the contact is forwarded to the chosen recipient.
