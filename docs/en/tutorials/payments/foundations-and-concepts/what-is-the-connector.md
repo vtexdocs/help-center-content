@@ -1,7 +1,7 @@
 ---
 title: 'Payment connector'
 createdAt: 2018-02-08T21:31:32.599Z
-updatedAt: 2026-10-13T00:00:00.000Z
+updatedAt: 2026-10-30T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
 slugEN: what-is-the-connector

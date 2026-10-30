@@ -1,7 +1,7 @@
 ---
-title: 'O que é o PCI SSC'
+title: 'PCI SSC'
 createdAt: 2019-01-24T20:45:48.373Z
-updatedAt: 2026-10-13T00:00:00.000Z
+updatedAt: 2026-10-30T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
 slugEN: what-is-the-pci-ssc
