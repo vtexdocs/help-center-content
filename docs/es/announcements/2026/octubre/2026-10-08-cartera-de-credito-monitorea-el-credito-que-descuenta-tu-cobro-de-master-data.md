@@ -1,7 +1,7 @@
 ---
 title: 'Cartera de crédito: monitorea el crédito que descuenta tu cobro de Master Data'
 createdAt: '2026-10-08T00:00:00.000Z'
-updatedAt: '2026-10-08T00:00:00.000Z'
+updatedAt: '2026-10-30T00:00:00.000Z'
 contentType: updates
 productTeam: Billing
 slugEN: 2026-10-08-credit-wallet-track-the-credit-that-offsets-your-master-data-charges
