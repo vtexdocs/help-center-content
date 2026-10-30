@@ -20,6 +20,7 @@ The CMS is organized around the following features:
 - [Locales](#locales)
 - [Media](#media)
 - [Roles and permissions](#roles-and-permissions)
+- [Learn more](#learn-more)
 
 ## All content
 
@@ -51,7 +52,7 @@ Each branch is an isolated version of your content, allowing multiple editors to
 
 ## Roles and permissions
 
-**[Roles and permissions](https://help.vtex.com/docs/tutorials/cms-roles-and-permissions)** control what each team member can create, edit, and publish in the CMS. The three predefined roles, Content Producer, Content Editor, and Content Administrator, follow the CMS's git-like branching model, separating content authoring from content publishing.
+**[Roles and permissions](https://help.vtex.com/docs/tutorialsroles-and-permissions)** control what each team member can create, edit, and publish in the CMS. The three predefined roles, Content Producer, Content Editor, and Content Administrator, follow the CMS's git-like branching model, separating content authoring from content publishing.
 
 ## Learn more
 
@@ -63,4 +64,4 @@ Each branch is an isolated version of your content, allowing multiple editors to
 
 - **[Configuring locales](https://help.vtex.com/docs/tutorials/configuring-locales):** Configure languages and regions for your store content.
 
-- **[Roles and permissions](https://help.vtex.com/docs/tutorials/cms-roles-and-permissions):** Learn about predefined CMS roles and what each one can do.
+- **[Roles and permissions](https://help.vtex.com/docs/tutorials/roles-and-permissions):** Learn about predefined CMS roles and what each one can do.
