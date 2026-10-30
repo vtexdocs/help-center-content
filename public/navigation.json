@@ -26039,14 +26039,14 @@
                 },
                 {
                   "name": {
-                    "en": "What is Deposit Slip",
-                    "es": "Qué es Ficha de Depósito",
-                    "pt": "O que é  Ficha Depósito"
+                    "en": "Payment connector",
+                    "es": "Conector de pago",
+                    "pt": "Conector de pagamento"
                   },
                   "slug": {
-                    "en": "what-is-deposit-slip",
-                    "es": "que-es-ficha-de-deposito",
-                    "pt": "o-que-e-ficha-deposito"
+                    "en": "what-is-the-connector",
+                    "es": "que-es-el-conector",
+                    "pt": "o-que-e-conector"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26054,14 +26054,14 @@
                 },
                 {
                   "name": {
-                    "en": "What is the connector?",
-                    "es": "¿Qué es el conector?",
-                    "pt": "O que é o conector?"
+                    "en": "What is Deposit Slip",
+                    "es": "Qué es Ficha de Depósito",
+                    "pt": "O que é Ficha Depósito"
                   },
                   "slug": {
-                    "en": "what-is-the-connector",
-                    "es": "que-es-el-conector",
-                    "pt": "o-que-e-conector"
+                    "en": "what-is-deposit-slip",
+                    "es": "que-es-ficha-de-deposito",
+                    "pt": "o-que-e-ficha-deposito"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -54725,21 +54725,6 @@
                 "en": "shipping-policy-stuck-in-processing-status-is-displayed-as-active-in-the-new-logistics-ui",
                 "es": "una-politica-de-envios-que-se-encuentra-en-estado-de-procesamiento-aparece-como-activa-en-la-nueva-interfaz-de-usuario-de-logistica",
                 "pt": "a-politica-de-envio-que-esta-no-status-em-processamento-e-exibida-como-ativa-na-nova-interface-de-logistica"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Route prioritization does not offer the best option in terms of quantity of packages and items",
-                "es": "La priorización de rutas no ofrece la mejor opción en cuanto a cantidad de paquetes y artículos",
-                "pt": "A priorização de rotas não oferece a melhor opção em termos de quantidade de pacotes e itens"
-              },
-              "slug": {
-                "en": "route-prioritization-does-not-offer-the-best-option-in-terms-of-quantity-of-packages-and-items",
-                "es": "la-priorizacion-de-rutas-no-ofrece-la-mejor-opcion-en-cuanto-a-cantidad-de-paquetes-y-articulos",
-                "pt": "a-priorizacao-de-rotas-nao-oferece-a-melhor-opcao-em-termos-de-quantidade-de-pacotes-e-itens"
               },
               "origin": "",
               "type": "markdown",
