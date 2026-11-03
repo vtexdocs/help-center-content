@@ -13627,7 +13627,7 @@
                     {
                       "name": {
                         "en": "10. Match Offers Mercado Livre",
-                        "es": "10. Match de anuncios de Mercado Libre",
+                        "es": "10. Publicación de productos Mercado Libre",
                         "pt": "10. Publicação de produtos Mercado Livre"
                       },
                       "slug": {
@@ -55062,21 +55062,6 @@
             },
             {
               "name": {
-                "en": "The template 'relatorio-de-importacao-de-estoque' does not support multi-language",
-                "es": "La plantilla 'relatorio-de-importacao-de-estoque' no admite el multilingüismo",
-                "pt": "O modelo 'relatorio-de-importacao-de-estoque' não suporta multi-linguagem"
-              },
-              "slug": {
-                "en": "the-template-relatoriodeimportacaodeestoque-does-not-support-multilanguage",
-                "es": "la-plantilla-relatoriodeimportacaodeestoque-no-admite-el-multilinguismo",
-                "pt": "o-modelo-relatoriodeimportacaodeestoque-nao-suporta-multilinguagem"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Logistics simulator is showing default currency instead of local currency.",
                 "es": "El simulador de logística muestra la moneda por defecto en lugar de la moneda local.",
                 "pt": "O simulador logístico está mostrando a moeda padrão em vez da moeda local."
@@ -55145,21 +55130,6 @@
                 "en": "problems-opening-manage-inventory-by-admin-page-with-error-ui",
                 "es": "problemas-al-abrir-la-pagina-gestionar-el-inventario-por-parte-del-administrador-con-error-ui",
                 "pt": "problemas-ao-abrir-a-pagina-gerenciar-inventario-por-admin-com-erro-ui"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Logistics Simulation with Minimum and Maximum price in Shipping Policy does not work when ProductPrice as 0 (ZERO)",
-                "es": "La simulación logística con el precio mínimo y máximo en la política de envío no funciona cuando ProductPrice es 0 (CERO)",
-                "pt": "Simulação Logística com preço mínimo e máximo na Política de Embarque não funciona quando o Preço do Produto como 0 (ZERO)"
-              },
-              "slug": {
-                "en": "logistics-simulation-with-minimum-and-maximum-price-in-shipping-policy-does-not-work-when-productprice-as-0-zero",
-                "es": "la-simulacion-logistica-con-el-precio-minimo-y-maximo-en-la-politica-de-envio-no-funciona-cuando-productprice-es-0-cero",
-                "pt": "simulacao-logistica-com-preco-minimo-e-maximo-na-politica-de-embarque-nao-funciona-quando-o-preco-do-produto-como-0-zero"
               },
               "origin": "",
               "type": "markdown",
@@ -58233,12 +58203,12 @@
             {
               "name": {
                 "en": "When accessing my orders, the name that appears is the name of the ProductName without the SKU Name information.",
-                "es": "Al consultar mis pedidos, el nombre que aparece es el del «ProductName», sin la información del «SKU Name».",
+                "es": "Al acceder a mis pedidos, el nombre que aparece es el nombre del producto sin la información del código SKU.",
                 "pt": "Ao acessar meus pedidos, o nome que aparece é o nome do produto (ProductName) sem as informações do SKU."
               },
               "slug": {
                 "en": "when-accessing-my-orders-the-name-that-appears-is-the-name-of-the-productname-without-the-sku-name-information",
-                "es": "al-consultar-mis-pedidos-el-nombre-que-aparece-es-el-del-productname-sin-la-informacion-del-sku-name",
+                "es": "al-acceder-a-mis-pedidos-el-nombre-que-aparece-es-el-nombre-del-producto-sin-la-informacion-del-codigo-sku",
                 "pt": "ao-acessar-meus-pedidos-o-nome-que-aparece-e-o-nome-do-produto-productname-sem-as-informacoes-do-sku"
               },
               "origin": "",
@@ -62638,21 +62608,6 @@
                 "en": "the-payu-connector-is-unable-to-process-payments-when-there-is-shipping-data-containing-more-than-40-characters",
                 "es": "el-conector-de-payu-no-puede-procesar-los-pagos-cuando-los-datos-de-envio-contienen-mas-de-40-caracteres",
                 "pt": "o-conector-payu-nao-consegue-processar-pagamentos-quando-os-dados-de-envio-contem-mais-de-40-caracteres"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Regex conflict causes us to misidentify Mastercard as Visa",
-                "es": "Un conflicto de Regex hace que identifiquemos erróneamente Mastercard como Visa",
-                "pt": "O conflito de regex nos faz identificar erroneamente Mastercard como Visa"
-              },
-              "slug": {
-                "en": "regex-conflict-causes-us-to-misidentify-mastercard-as-visa",
-                "es": "un-conflicto-de-regex-hace-que-identifiquemos-erroneamente-mastercard-como-visa",
-                "pt": "o-conflito-de-regex-nos-faz-identificar-erroneamente-mastercard-como-visa"
               },
               "origin": "",
               "type": "markdown",
