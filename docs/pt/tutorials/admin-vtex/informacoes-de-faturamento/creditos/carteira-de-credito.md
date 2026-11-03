@@ -1,7 +1,7 @@
 ---
 title: 'Carteira de Crédito'
 createdAt: '2026-10-08T00:00:00.000Z'
-updatedAt: '2026-10-08T00:00:00.000Z'
+updatedAt: '2026-11-03T00:00:00.000Z'
 contentType: tutorial
 productTeam: Billing
 slugEN: credit-wallet
@@ -12,15 +12,15 @@ seeAlso:
   - "/pt/docs/tutorials/consultar-o-uso-do-master-data-no-admin-vtex"
 ---
 
-A **Carteira de Crédito** é um crédito de faturamento concedido automaticamente à sua empresa, usado para abater a cobrança de [Master Data](/pt/docs/tutorials/master-data).
+A **carteira de crédito** é um crédito de faturamento concedido automaticamente à sua empresa, usado para abater a cobrança de [Master Data](/pt/docs/tutorials/master-data).
 
-Neste artigo, entenda como o crédito da Carteira de Crédito é calculado, como ele é aplicado à cobrança de Master Data e o que acontece com o saldo não utilizado.
+Neste artigo, entenda como o crédito da carteira de crédito é calculado, como ele é aplicado à cobrança de Master Data e o que acontece com o saldo não utilizado.
 
-> ℹ️ Para saber como consultar as informações da sua Carteira de Crédito, acesse [Consultar Carteira de Crédito](/pt/docs/tutorials/consultar-carteira-de-credito).
+> ℹ️ Para saber como consultar as informações da sua carteira de crédito, acesse [Consultar Carteira de Crédito](/pt/docs/tutorials/consultar-carteira-de-credito).
 
 ## Como o crédito é calculado
 
-Quando uma empresa opera com mais de uma conta na VTEX (por exemplo, [contas franquia](/pt/docs/tutorials/o-que-e-conta-franquia) ou ambientes adicionais), todas são agrupadas em uma empresa para fins de faturamento. É essa empresa que recebe uma fatura consolidada, e é neste nível que o crédito da Carteira de Crédito é calculado e aplicado, e não por conta individual.
+Quando uma empresa opera com mais de uma conta na VTEX (por exemplo, [contas franquia](/pt/docs/tutorials/o-que-e-conta-franquia) ou ambientes adicionais), todas são agrupadas em uma empresa para fins de faturamento. É essa empresa que recebe uma fatura consolidada, e é neste nível que o crédito da carteira de crédito é calculado e aplicado, e não por conta individual.
 
 Todo mês, a VTEX soma tudo o que a empresa — ou seja, todas as contas agrupadas sob ela — pagou à VTEX no mês anterior (do dia 1 ao último dia do mês) e concede, no mês seguinte, um crédito equivalente a 2% deste valor total.
 
@@ -28,10 +28,10 @@ Todo mês, a VTEX soma tudo o que a empresa — ou seja, todas as contas agrupad
 
 ## Como o crédito é usado
 
-O crédito da Carteira de Crédito é aplicado exclusivamente para abater a cobrança de Master Data na fatura do mês seguinte.
+O crédito da carteira de Crédito é aplicado exclusivamente para abater a cobrança de Master Data na fatura do mês seguinte.
 
 O consumo de Master Data acontece dentro de cada conta, mas a VTEX soma o consumo de Master Data de todas as contas de uma empresa para calcular o custo total de Master Data. É sobre este total consolidado que o crédito é abatido.
 
 Se o valor do crédito for maior que a cobrança de Master Data do período, o saldo remanescente permanece disponível para uso em meses futuros. O crédito não utilizado se acumula.
 
-> ℹ️ O crédito acumulado na Carteira de Crédito vale até o fim do ciclo contratual vigente. Ele não continua acumulando indefinidamente.
+> ℹ️ O crédito acumulado na carteira de crédito vale até o fim do ciclo contratual vigente. Ele não continua acumulando indefinidamente.

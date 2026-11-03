@@ -1,18 +1,20 @@
 ---
 title: 'Consultar Carteira de Crédito'
 createdAt: '2026-10-08T00:00:00.000Z'
-updatedAt: '2026-10-08T00:00:00.000Z'
+updatedAt: '2026-11-03T00:00:00.000Z'
 contentType: tutorial
 productTeam: Billing
 slugEN: checking-credit-wallet
 locale: pt
 ---
 
-Para acessar a Carteira de Crédito, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito da tela. Em seguida, clique em **Informações de faturamento > Créditos**.
+Para acessar a carteira de crédito, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito da tela. Em seguida, clique em **Informações de faturamento > Créditos**.
 
 > ⚠️ Somente usuários com o perfil de acesso [Finance](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance), [Finance Full Access](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance-full-access) ou com o recurso `View Credits` de [Billing](/pt/docs/tutorials/perfis-de-acesso-predefinidos#billing) vinculados ao perfil podem acessar a página **Créditos** no Admin VTEX.
 
 ![creditos-pt](https://cdn.jsdelivr.net/gh/vtexdocs/help-center-content@main/docs/pt/tutorials/admin-vtex/informacoes-de-faturamento/creditos/creditos-pt.png)
+
+> ⚠️ Se a sua loja usa uma edition customizada, ou seja, diferente das editions da VTEX (`vtex.edition-business@0.x` ou `vtex.edition-store@5.x`), a página **Créditos** pode não estar disponível no Admin VTEX. Se necessário, [abra um ticket para o Suporte VTEX](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex) e solicite a instalação do app de Billing (`[NOME-DO-APP-A-CONFIRMAR]`), que exibe as páginas de **Informações de faturamento**, incluindo **Créditos**.
 
 Na página **Créditos**, você encontra as seguintes informações:
 
