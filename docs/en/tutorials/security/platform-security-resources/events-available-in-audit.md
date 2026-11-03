@@ -39,6 +39,7 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 * [Delivery Options](#delivery-options)
 * [Search Optimizer Agent](#search-optimizer-agent)
 * [Authenticator](#authenticator)
+* [Contract Management](#contract-management)
 
 > ℹ️ In case you encounter an event in Audit which has not been included in this list, please inform us through the [documentation feedback page](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
@@ -502,4 +503,33 @@ In the **Action** column, all Headless CMS (Legacy) events also display the foll
 | DelegationRevoked | Revocation of a delegation before its end date. | Delegation ID. |
 | ImpersonationSuccess | Successful impersonation of a user through an on-behalf-of (OBO) token exchange. | Original user ID, delegate user ID, impersonation type, delegation ID, and organizational unit ID. |
 | ImpersonationFailed | Failed attempt to impersonate a user through an on-behalf-of (OBO) token exchange. | Original user ID, delegate user ID, impersonation type, delegation ID, organizational unit ID, and failure reason. |
+
+## Contract Management
+
+> ℹ️ These events cover creates, updates, and deletes of a contract and of the records attached to it. The same actions include changes made in Contract Management and changes committed by the Contracts Management Agent. `DENIED_ATTEMPT` records a write that was refused because the user lacked permission. It does not mean the record was changed, and it does not include field values.
+
+| Action | Event description | Event details |
+|---|---|---|
+| CREATE_CONTRACT | Creation of a contract. | Contract ID and the fields saved on the contract. |
+| UPDATE_CONTRACT | Update of a contract. | Contract ID and each changed field, with the value before and after the change. |
+| DELETE_CONTRACT | Deletion of a contract. | Contract ID and the field values immediately before deletion. |
+| CREATE_ADDRESS | Creation of an address on a contract. | Contract ID and the fields saved on the address. |
+| UPDATE_ADDRESS | Update of an address on a contract. | Contract ID, address ID, and each changed field, with the value before and after the change. |
+| DELETE_ADDRESS | Deletion of an address on a contract. | Contract ID, address ID, and the field values immediately before deletion. |
+| CREATE_LOCATION | Creation of a delivery location on a contract address. | Contract ID and the fields saved on the location. |
+| UPDATE_LOCATION | Update of a delivery location on a contract address. | Contract ID, location ID, and each changed field, with the value before and after the change. |
+| DELETE_LOCATION | Deletion of a delivery location on a contract address. | Contract ID, location ID, and the field values immediately before deletion. |
+| CREATE_RECIPIENT | Creation of a recipient on a contract. | Contract ID and the fields saved on the recipient. |
+| UPDATE_RECIPIENT | Update of a recipient on a contract. | Contract ID, recipient ID, and each changed field, with the value before and after the change. |
+| DELETE_RECIPIENT | Deletion of a recipient on a contract. | Contract ID, recipient ID, and the field values immediately before deletion. |
+| CREATE_PAYMENT_METHOD | Creation of a payment method or payment group on a contract. | Contract ID and the fields saved on the record. |
+| UPDATE_PAYMENT_METHOD | Update of a payment method or payment group on a contract. | Contract ID, record ID, and each changed field, with the value before and after the change. |
+| DELETE_PAYMENT_METHOD | Deletion of a payment method or payment group on a contract. | Contract ID, record ID, and the field values immediately before deletion. |
+| CREATE_ASSORTMENT | Creation of an assortment or collection on a contract. | Contract ID and the fields saved on the record. |
+| UPDATE_ASSORTMENT | Update of an assortment or collection on a contract. | Contract ID, record ID, and each changed field, with the value before and after the change. |
+| DELETE_ASSORTMENT | Deletion of an assortment or collection on a contract. | Contract ID, record ID, and the field values immediately before deletion. |
+| CREATE_PRICE_TABLE | Creation of a price table on a contract. | Contract ID and the fields saved on the price table. |
+| UPDATE_PRICE_TABLE | Update of a price table on a contract. | Contract ID, price table ID, and each changed field, with the value before and after the change. |
+| DELETE_PRICE_TABLE | Deletion of a price table on a contract. | Contract ID, price table ID, and the field values immediately before deletion. |
+| DENIED_ATTEMPT | Attempt to create, update, or delete a Contract Management record that was refused because the user lacked the admin permission. | Contract ID, the attempted operation, the denial reason, and the names of the fields in the request. Field values are not recorded. |
 
