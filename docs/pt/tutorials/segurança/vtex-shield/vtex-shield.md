@@ -3,7 +3,7 @@ title: 'VTEX Shield'
 id: 2CVk6H9eY2CBtHjtDI7BFh
 status: PUBLISHED
 createdAt: 2024-04-25T00:31:01.895Z
-updatedAt: 2025-05-21T23:32:42.108Z
+updatedAt: 2026-10-13T19:34:16.000Z
 publishedAt: 2025-05-21T23:32:42.108Z
 firstPublishedAt: 2024-04-25T01:19:00.025Z
 contentType: tutorial
@@ -29,6 +29,8 @@ Ao contratar o VTEX Shield, é possível optar pelas funcionalidades a seguir:
 * [Data Protection Plus](#data-protection-plus)
 * [Certificados SSL customizados](#certificados-ssl-customizados)
 * [Mutual Transport Layer Security (mTLS)](#mutual-transport-layer-security-mtls)
+
+O VTEX Shield disponibiliza para todas as contas a [Prevenção contra fraudes](#prevencao-contra-fraudes), independentemente da contratação das demais funcionalidades.
 
 ## Security Monitor
 
@@ -65,3 +67,9 @@ Para isso, a página **Certificados SSL** permite instalar e gerenciar certifica
 O Mutual Transport Layer Security (mTLS) é uma solução de segurança avançada oferecida pelo VTEX Shield, que reforça a proteção das integrações entre sistemas externos e a VTEX. Essa camada extra de proteção é aplicável a cenários de integração via APIs, como lojas headless ou conexões com ERPs e WMS.
 
 Diferente do TLS tradicional, em que apenas o servidor precisa comprovar sua identidade, o mTLS exige autenticação mútua: tanto o cliente quanto o servidor apresentam certificados digitais válidos, assegurando que ambos os lados da comunicação sejam confiáveis antes da troca de dados. Saiba mais em [Mutual Transport Layer Security (mTLS)](/pt/docs/tutorials/mutual-transport-layer-security-mtls).
+
+## Prevenção contra fraudes
+
+A Prevenção contra fraudes protege sua loja contra ataques de esquenta cartão (*card attack*), analisando cada tentativa de pagamento no checkout e atribuindo um score de fraude que indica a probabilidade de a transação fazer parte de um ataque.
+
+Embora faça parte do VTEX Shield, esta funcionalidade está disponível para todas as contas, independentemente da contratação das demais funcionalidades do produto. Saiba mais em [Prevenção contra fraudes](https://help.vtex.com/pt/docs/tutorials/prevencao-contra-fraudes).

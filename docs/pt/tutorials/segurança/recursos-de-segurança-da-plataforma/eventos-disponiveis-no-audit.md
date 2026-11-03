@@ -471,7 +471,7 @@ Na coluna **Ação**, todos os eventos do Headless CMS (Legacy) também apresent
 
 ## Opções de envio
 
-> ℹ️ [Opções de envio](/pt/docs/tutorials/opcoes-de-envio-beta) está em fase de open beta. Esses eventos são registrados apenas em contas que usam Opções de envio. Nas demais contas, a busca por essa aplicação não retorna resultados.
+> ℹ️ [Opções de envio](/pt/docs/tutorials/opcoes-de-envio) está em fase de open beta. Esses eventos são registrados apenas em contas que usam Opções de envio. Nas demais contas, a busca por essa aplicação não retorna resultados.
 
 | Ação | Descrição do evento | Detalhes do evento |
 |---|---|---|

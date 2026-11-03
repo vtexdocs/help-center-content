@@ -470,7 +470,7 @@ In the **Action** column, all Headless CMS (Legacy) events also display the foll
 
 ## Delivery Options
 
-> ℹ️ [Delivery Options](/en/docs/tutorials/delivery-options-beta) is in open beta and appears as **Shipping Options** in the Audit filter options. These events are only recorded in accounts that use Delivery Options. In other accounts, searching for this application returns no results.
+> ℹ️ [Delivery Options](/en/docs/tutorials/delivery-options) is in open beta and appears as **Shipping Options** in the Audit filter options. These events are only recorded in accounts that use Delivery Options. In other accounts, searching for this application returns no results.
 
 | Action | Event description | Event details |
 |---|---|---|
