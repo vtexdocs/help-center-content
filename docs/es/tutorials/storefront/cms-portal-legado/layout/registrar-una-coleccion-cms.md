@@ -3,7 +3,7 @@ title: 'Registrar una colección CMS'
 id: 2YBy6P6X0NFRpkD2ZBxF6L
 status: PUBLISHED
 createdAt: 2020-11-25T22:05:53.169Z
-updatedAt: 2023-04-19T18:38:40.730Z
+updatedAt: 2026-10-20T15:45:00.000Z
 publishedAt: 2023-04-19T18:38:40.730Z
 firstPublishedAt: 2020-11-25T22:10:10.072Z
 contentType: tutorial
