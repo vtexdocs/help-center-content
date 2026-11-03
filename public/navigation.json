@@ -43876,6 +43876,21 @@
             },
             {
               "name": {
+                "en": "Products can enter inactive state despite all skus being inactive",
+                "es": "Los productos pueden entrar en estado inactivo a pesar de que todos los SKU estén inactivos.",
+                "pt": "Os produtos podem entrar em estado inativo mesmo que todos os SKUs estejam inativos."
+              },
+              "slug": {
+                "en": "products-can-enter-inactive-state-despite-all-skus-being-inactive",
+                "es": "los-productos-pueden-entrar-en-estado-inactivo-a-pesar-de-que-todos-los-sku-esten-inactivos",
+                "pt": "os-produtos-podem-entrar-em-estado-inativo-mesmo-que-todos-os-skus-estejam-inativos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Products without SKU are not returned in the admin when searching by Product ID",
                 "es": "Los productos sin SKU no aparecen en el panel de administración al realizar una búsqueda por ID de producto",
                 "pt": "Os produtos sem SKU não são exibidos no painel de administração ao pesquisar pelo ID do produto"
@@ -61138,6 +61153,21 @@
                 "en": "callback-with-approved-status-not-being-considered-to-proceed-with-the-transaction",
                 "es": "la-devolucion-de-llamada-con-estado-aprobado-no-se-tiene-en-cuenta-para-continuar-con-la-transaccion",
                 "pt": "callback-com-status-aprovado-nao-esta-sendo-considerado-para-prosseguir-com-a-transacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Payment cancellation delayed over one hour after antifraud rejection in native split transactions",
+                "es": "La cancelación del pago se retrasó más de una hora tras el rechazo por parte del sistema antifraude en transacciones divididas nativas.",
+                "pt": "Cancelamento de pagamento atrasado em mais de uma hora após rejeição antifraude em transações nativas divididas."
+              },
+              "slug": {
+                "en": "payment-cancellation-delayed-over-one-hour-after-antifraud-rejection-in-native-split-transactions",
+                "es": "la-cancelacion-del-pago-se-retraso-mas-de-una-hora-tras-el-rechazo-por-parte-del-sistema-antifraude-en-transacciones-divididas-nativas",
+                "pt": "cancelamento-de-pagamento-atrasado-em-mais-de-uma-hora-apos-rejeicao-antifraude-em-transacoes-nativas-divididas"
               },
               "origin": "",
               "type": "markdown",
