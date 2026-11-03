@@ -3,7 +3,7 @@ title: 'Descargar facturas de VTEX'
 id: tutorials_653
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:30.802Z
-updatedAt: 2026-08-11T00:00:00.000Z
+updatedAt: 2026-09-28T00:00:00.000Z
 publishedAt: 2021-03-22T20:48:29.214Z
 firstPublishedAt: 2017-04-27T23:03:40.557Z
 contentType: tutorial
@@ -33,6 +33,22 @@ Para generar una factura sigue los pasos a continuación:
 2. Haz clic en **Facturación > Facturas**.
 3. Busca la factura deseada y haz clic en **Abrir factura**. La factura se abrirá en una nueva pestaña.
 4. (Opcional) Guarda el archivo en formato PDF mediante las opciones de descarga o impresión del navegador.
+
+### Descargar el complemento de pago
+
+> ⚠️ Las instrucciones de esta sección se aplican solo a clientes con facturación en México.
+
+El complemento de pago (nombre oficial de un documento fiscal mexicano) comprueba un pago ya realizado. Lo exige la normativa del Servicio de Administración Tributaria mexicano (SAT) para las facturas emitidas con el medio de pago en parcialidades o diferido (PPD).
+
+Una vez emitido, y si el flujo de integración fiscal lo devuelve correctamente, el documento queda disponible en el Admin VTEX. Además, se envía automáticamente por email.
+
+Para descargar la información adicional de pago sigue estos pasos:
+
+1. En el Admin VTEX haz clic en el avatar con la inicial de tu email, ubicado en la esquina superior derecha de la pantalla.
+2. Haz clic en **Facturación > Facturas**.
+3. Busca la factura deseada y haz clic en **Abrir factura**.
+
+En caso de que el complemento de pago no haya llegado por email y no está disponible en el Admin VTEX, [abre un ticket con nuestro Soporte financiero](https://help.vtex.com/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex#soporte-financiero-y-comercial) para solicitar el documento.
 
 ### Descargar boletos
 
