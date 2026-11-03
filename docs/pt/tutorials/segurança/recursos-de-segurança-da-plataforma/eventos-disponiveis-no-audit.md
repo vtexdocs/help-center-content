@@ -532,5 +532,5 @@ Na coluna **Ação**, todos os eventos do Headless CMS (Legacy) também apresent
 | CREATE_PRICE_TABLE | Criação de uma tabela de preços em um contrato. | ID do contrato e os campos salvos na tabela de preços. |
 | UPDATE_PRICE_TABLE | Atualização de uma tabela de preços de um contrato. | ID do contrato, ID da tabela de preços e cada campo alterado, com o valor antes e depois da alteração. |
 | DELETE_PRICE_TABLE | Exclusão de uma tabela de preços de um contrato. | ID do contrato, ID da tabela de preços e os valores dos campos imediatamente antes da exclusão. |
-| DENIED_ATTEMPT | Tentativa de criar, atualizar ou excluir um registro da Gestão de Contratos recusada por falta de permissão de administrador. | ID do contrato, a operação tentada, o motivo da recusa e os nomes dos campos enviados na requisição. Os valores dos campos não são registrados. |
+| DENIED_ATTEMPT | Tentativa de criar, atualizar ou excluir um registro da Gestão de Contratos recusada por falta de permissão. | ID do contrato, a operação tentada, o motivo da recusa e os nomes dos campos enviados na requisição. Os valores dos campos não são registrados. |
 

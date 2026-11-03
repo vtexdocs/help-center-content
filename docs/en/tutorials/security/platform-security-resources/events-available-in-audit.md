@@ -531,5 +531,5 @@ In the **Action** column, all Headless CMS (Legacy) events also display the foll
 | CREATE_PRICE_TABLE | Creation of a price table on a contract. | Contract ID and the fields saved on the price table. |
 | UPDATE_PRICE_TABLE | Update of a price table on a contract. | Contract ID, price table ID, and each changed field, with the value before and after the change. |
 | DELETE_PRICE_TABLE | Deletion of a price table on a contract. | Contract ID, price table ID, and the field values immediately before deletion. |
-| DENIED_ATTEMPT | Attempt to create, update, or delete a Contract Management record that was refused because the user lacked the admin permission. | Contract ID, the attempted operation, the denial reason, and the names of the fields in the request. Field values are not recorded. |
+| DENIED_ATTEMPT | Attempt to create, update, or delete a Contract Management record that was refused because the user lacked permission. | Contract ID, the attempted operation, the denial reason, and the names of the fields in the request. Field values are not recorded. |
 
