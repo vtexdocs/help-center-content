@@ -3,7 +3,7 @@ title: 'VTEX Sales App - Configuración básica'
 id: 4L5SoLxE8O3YkxF7FKymrO
 status: PUBLISHED
 createdAt: 2020-06-28T13:51:53.895Z
-updatedAt: 2025-11-21T23:01:37.261Z
+updatedAt: 2026-10-01T16:50:00.000Z
 publishedAt: 2025-02-20T23:01:37.261Z
 firstPublishedAt: 2020-06-28T14:01:36.462Z
 contentType: trackArticle
@@ -95,4 +95,16 @@ Para configurar el binding y garantizar que el catálogo de la tienda se muestre
 
 ## Configurar logística
 
-Para empezar a utilizar **VTEX Sales App**, también debes realizar las configuraciones logísticas según las estrategias que quieres aplicar. Para más información, lee las guías sobre [Comercio unificado](/es/docs/tracks/comercio-unificado-101) y [Logística](https://help.vtex.com/es/docs/tracks/logistica-primeros-pasos).
+Para empezar a utilizar **VTEX Sales App** también debes realizar las configuraciones logísticas según las estrategias que desees implementar.
+
+Si la tienda ofrece recogida en **VTEX Sales App**, activa la opción **Almacén VTEX Sales App** en cada almacén que funcionará como punto de recogida y selecciona los puntos de recogida vinculados a ese almacén.
+
+1. En el Admin VTEX, ve a **Envío > Estrategia de envío > Almacenes**, o ingresa **Estrategia de envío** en la barra de búsqueda de la parte superior de la página.
+2. Abre el almacén que deseas usar como punto de recogida.
+3. Activa la opción **Almacén de Sales App** utilizando el botón <i class="fas fa-toggle-on"></i>.
+4. Selecciona los puntos de recogida que van a utilizar este almacén.
+5. Haz clic en `Guardar cambios`.
+
+> ℹ️ Para que los puntos de recogida estén disponibles para selección es necesario registrarlos previamente. Más información en [Registro de puntos de recogida](/es/docs/tutorials/registro-de-puntos-de-recogida).
+
+Para las demás configuraciones logísticas consulta [Tiendas físicas como puntos de recogida](/es/docs/tracks/configurar-tiendas-fisicas-como-puntos-de-recogida), [Omnichannel](/es/docs/tracks/comercio-unificado-101) y [Logística](/es/docs/tracks/logistica-101).
