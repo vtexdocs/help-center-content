@@ -1,23 +1,16 @@
 ---
-title: "WhatsApp: Cómo crear mensajes de plantilla"
-id: 3KQizjNnrDY2K3DhPwiPim
-status: PUBLISHED
+title: 'WhatsApp: Cómo crear mensajes de plantilla'
 createdAt: 2025-09-15T15:05:31.154Z
-updatedAt: 2025-10-03T14:20:32.643Z
-publishedAt: 2025-10-03T14:20:32.643Z
-firstPublishedAt: 2025-10-03T14:20:32.643Z
+updatedAt: 2026-10-16T15:28:01.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: whatsapp-how-to-create-template-messages
-legacySlug: whatsapp-como-crear-mensajes-de-plantilla
 locale: es
-subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
 Los mensajes de plantilla se utilizan para iniciar conversaciones con los clientes y son el único tipo de mensaje que se puede enviar a clientes que aún no han iniciado una conversación contigo o que no han enviado un mensaje en las últimas 24 horas en una conversación existente.
 
-Antes de enviarse a los clientes, los modelos de mensaje deben ser aprobados. Además, pueden ser desactivados automáticamente en función de la retroalimentación de los clientes. Si se desactiva, el modelo de mensaje no podrá ser enviado a los clientes hasta que mejore la calificación de calidad y deje de infringir la Política de WhatsApp Business o la Política Comercial de WhatsApp.
+Antes de enviarse a los clientes, los modelos de mensaje deben ser aprobados. Además, pueden ser desactivados automáticamente en función de la retroalimentación de los clientes. Si se desactiva, el modelo de mensaje no podrá ser enviado a los clientes hasta que mejore la calificación de calidad y deje de infringir la [Política de WhatsApp Business](https://whatsappbusiness.com/es-la/policy/) o la [Política Comercial de WhatsApp](https://whatsappbusiness.com/es-la/policy/#politica-para-las-funciones-de-comercio-de-whatsapp-incluida-la-venta-de-productos-o-servicios).
 
 ## Creación
 
@@ -37,9 +30,9 @@ Para crear un mensaje de plantilla:
 
 ## Proceso de aprobación (responsabilidad de la Meta)
 
-Después de crear el modelo, podrás enviarlo para su aprobación. Generalmente, las aprobaciones ocurren de forma instantánea o en unos pocos minutos (si se envían directamente desde la plataforma). Tan pronto como se tome la decisión, aparecerá una notificación en el Administrador de WhatsApp. Además, se enviará un correo electrónico a los administradores del Administrador de Negocios. Si te has suscrito a las actualizaciones sobre cambios en el estado del modelo de mensaje, también recibirás una notificación de webhook de Meta. Consulta [Cómo monitorear cambios de estado.](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#monitoring-status-changes)
+Después de crear el modelo, podrás enviarlo para su aprobación. Generalmente, las aprobaciones ocurren de forma instantánea o en unos pocos minutos (si se envían directamente desde la plataforma). Tan pronto como se tome la decisión, aparecerá una notificación en el Administrador de WhatsApp. Además, se enviará un correo electrónico a los administradores del Administrador de Negocios. Si te has suscrito a las actualizaciones sobre cambios en el estado del modelo de mensaje, también recibirás una notificación de webhook de Meta. Consulta [Cómo monitorear cambios de estado](https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/template-review#template-review-webhooks).
 
-Si se aprueba, el modelo de mensaje tendrá el estado **Activo - Calidad pendiente**. Con esto, podrás comenzar a enviarlo a los clientes. Si es rechazado, el modelo se podrá [editar](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#editing) y reenviar para su aprobación. Otra posibilidad es [apelar la decisión](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#editing).
+Si se aprueba, el modelo de mensaje tendrá el estado **Activo - Calidad pendiente**. Con esto, podrás comenzar a enviarlo a los clientes. Si es rechazado, el modelo se podrá [editar](https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/template-review#approval-process) y reenviar para su aprobación. Otra posibilidad es [apelar la decisión](https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/template-review#appeals).
 
 ## Ejemplos
 
@@ -53,6 +46,6 @@ Si hay rechazos de mensajes y quieres resolver o cambiar la configuración de tu
 
 ## Obtén más información
 
-- [Política de WhatsApp Business](https://whatsappbusiness.com/es-la/policy/): obtén más información sobre las políticas para empresas.
-- [Política Comercial de WhatsApp](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.whatsapp.com%2Flegal%2Fcommerce-policy%2F%3Ffbclid%3DIwAR3hJYolZAcjC0qlRoD3yAnxxDqcFfZWC9ckfMsownlLmmTNMmCWUBRBEwQ&h=AT3ol3uyDf5Ojn8nJYc5KRBV8cDeo5UiTAfDQM1B_ZIamZ39CjEoG9RO6inUQKNKrCX7wbtZUJ7bJjmDA4KIBzJ6ZJ1E841-mDihwVik4agXMDieprqwFgWo8ebGSwPgj-g3htULojJjNADBqzQMlw): obtén más información sobre las políticas comerciales.
-- [Aplicación de las Políticas](https://developers.facebook.com/documentation/business-messaging/whatsapp/policy-enforcement/?locale=es_LA): obtén más información sobre cómo aplicamos las políticas.
+- [Política de WhatsApp Business](https://whatsappbusiness.com/es-la/policy/): obtén más información sobre las políticas relacionadas con empresas.
+- [Política Comercial de WhatsApp](https://whatsappbusiness.com/es-la/policy/#politica-para-las-funciones-de-comercio-de-whatsapp-incluida-la-venta-de-productos-o-servicios): obtén más información sobre las políticas comerciales.
+- [Aplicación de las Políticas](https://developers.facebook.com/documentation/business-messaging/whatsapp/policy-enforcement/?locale=es_LA): aprende cómo Meta aplica estas políticas.

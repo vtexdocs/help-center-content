@@ -1,18 +1,12 @@
 ---
 title: 'Setting up payments with Notes Payable'
-id: 5pW7avTwtyQcMu4uiW8quQ
-status: PUBLISHED
 createdAt: 2018-06-21T20:20:24.484Z
-updatedAt: 2025-02-26T18:35:04.108Z
-publishedAt: 2025-02-26T18:35:04.108Z
-firstPublishedAt: 2018-06-25T15:42:31.515Z
+updatedAt: 2026-10-22T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 245tA425AIeioKAk2eaiwS
 slugEN: setting-up-payments-with-notes-payable
-legacySlug: setting-up-payments-with-notes-payable
 locale: en
-subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+hidden: false
 ---
 
 On VTEX, your store can receive payments made with Notes Payable. To enable this option, you must perform the following steps:
@@ -48,6 +42,9 @@ After registering the payment provider, follow the steps below:
 - **Automatic invoicing:** number of days for the system to invoice the Note Payable after payment authorization. By default, Notes Payable are invoiced upon payment authorization. By configuring this field, billing will no longer occur upon authorization and will begin after the number of days defined by the customer.
 
 5. Click on `Save`.
+
+> ⚠️ The VTEX Admin allows you to set up to 20 custom notes payable by default. To increase this threshold (maximum of 100 per account), open a ticket with [VTEX Support](https://supporticket.vtex.com/support).
+
 
 ## Setting up the payment condition
 

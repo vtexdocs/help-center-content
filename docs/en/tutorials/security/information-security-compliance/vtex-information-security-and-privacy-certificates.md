@@ -35,7 +35,7 @@ The certificate is available at the [VTEX Trust Center](https://compliance.vtex.
 
 PCI-DSS (Payment Card Industry Data Security Standard) is a required certification for companies that process, store, or transmit credit and debit card data.
 
-VTEX complies with the latest version of the certification, PCI-DSS v4.0. This certification is valid for 12 months from the audit date and is renewed annually.
+VTEX complies with the latest version of the certification, PCI-DSS v4.0.1. This certification is valid for 12 months from the audit date and is renewed annually.
 
 The certificate is available at the [VTEX Trust Center](https://compliance.vtex.com/?itemUid=53e1508c-665e-45a8-9ce0-03fdf9ae1efb&source=title).  
 
