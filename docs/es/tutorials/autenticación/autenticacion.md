@@ -3,7 +3,7 @@ title: 'Autenticación'
 id: 21CkKHLKP1o41lUpGhuRUs
 status: PUBLISHED
 createdAt: 2021-10-25T19:06:37.982Z
-updatedAt: 2024-12-12T14:23:17.290Z
+updatedAt: 2026-11-04T16:52:47.000Z
 publishedAt: 2024-12-12T14:23:17.290Z
 firstPublishedAt: 2021-11-08T18:39:50.432Z
 contentType: tutorial
