@@ -133,7 +133,7 @@ Essa funcionalidade atende organizações que utilizam software de procurement c
 
 ## Pedido rápido com IA
 
-Compradores podem criar um carrinho rapidamente enviando um arquivo com os itens. Após o envio, o **Order entry agent** monta o pedido e o comprador pode finalizar a compra em seguida. Saiba mais em [Pedido rápido com IA](https://help.vtex.com/pt/docs/tutorials/pedido-rapido-com-ia).
+Compradores podem criar um carrinho rapidamente enviando um arquivo com os itens. Após o envio, o **Agente de entrada de pedidos** monta o pedido e o comprador pode finalizar a compra em seguida. Essa funcionalidade está disponível apenas para contas selecionadas entre as lojas que usam o B2B Buyer Portal. Saiba mais em [Pedido rápido com IA](https://help.vtex.com/pt/docs/tutorials/pedido-rapido-com-ia).
 
 ## Saiba mais
 
