@@ -4,7 +4,7 @@ excerpt: "Los pedidos de marketplace suelen pagarse en el marketplace. Ese medio
 id: frequentlyAskedQuestions_695
 status: PUBLISHED
 createdAt: 2017-04-27T22:29:28.700Z
-updatedAt: 2019-12-31T14:24:53.813Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:53.813Z
 firstPublishedAt: 2017-04-27T23:02:33.099Z
 contentType: frequentlyAskedQuestion

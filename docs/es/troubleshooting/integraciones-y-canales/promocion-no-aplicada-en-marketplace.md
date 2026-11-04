@@ -3,7 +3,7 @@ title: 'Promoción no aplicada en Marketplace'
 id: 2pxlVpzgThuw2wTEISRwA2
 status: PUBLISHED
 createdAt: 2024-08-15T11:38:33.808Z
-updatedAt: 2025-08-14T22:05:41.032Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-08-14T22:05:41.032Z
 firstPublishedAt: 2024-08-15T19:18:48.612Z
 contentType: tutorial

@@ -3,7 +3,7 @@ title: 'No puedo acceder a una página del Admin'
 id: 3U8TJMlAqHIM5Qs8rLwkwQ
 status: PUBLISHED
 createdAt: 2024-11-28T14:27:44.578Z
-updatedAt: 2025-08-14T15:09:37.454Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-08-14T15:09:37.454Z
 firstPublishedAt: 2024-11-28T14:46:25.398Z
 contentType: tutorial

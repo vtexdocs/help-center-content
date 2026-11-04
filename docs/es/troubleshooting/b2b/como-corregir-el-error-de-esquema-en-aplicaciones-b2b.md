@@ -3,7 +3,7 @@ title: 'Cómo corregir el error de esquema en aplicaciones B2B'
 id: WkjJZSnGXCiqmLhg4b0OR
 status: PUBLISHED
 createdAt: 2024-09-11T18:54:34.611Z
-updatedAt: 2025-08-14T22:02:49.294Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-08-14T22:02:49.294Z
 firstPublishedAt: 2024-09-11T19:42:01.055Z
 contentType: tutorial

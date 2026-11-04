@@ -4,7 +4,7 @@ excerpt: "El envío gratis aplica solo al tipo de entrega más barato, a menos q
 id: 68Eifg69ocCSsIS0ukw6W4
 status: PUBLISHED
 createdAt: 2018-03-06T14:42:34.568Z
-updatedAt: 2019-12-31T14:24:55.841Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:55.841Z
 firstPublishedAt: 2018-03-06T19:19:16.993Z
 contentType: frequentlyAskedQuestion

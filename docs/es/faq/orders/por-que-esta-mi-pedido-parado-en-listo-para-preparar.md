@@ -4,7 +4,7 @@ excerpt: "Listo para manipulación espera la factura. Agregue la invoice en el A
 id: frequentlyAskedQuestions_301
 status: PUBLISHED
 createdAt: 2017-04-27T22:38:27.319Z
-updatedAt: 2023-03-20T18:45:54.181Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-03-20T18:45:54.181Z
 firstPublishedAt: 2017-04-27T23:01:44.420Z
 contentType: frequentlyAskedQuestion

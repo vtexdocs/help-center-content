@@ -3,7 +3,7 @@ title: 'My ad is not displayed on Mercado Livre'
 id: 2UpudfowEvG97e2lstj4qc
 status: PUBLISHED
 createdAt: 2024-06-13T16:38:00.931Z
-updatedAt: 2024-11-08T15:28:30.286Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2024-11-08T15:28:30.286Z
 firstPublishedAt: 2024-06-13T18:01:04.982Z
 contentType: tutorial

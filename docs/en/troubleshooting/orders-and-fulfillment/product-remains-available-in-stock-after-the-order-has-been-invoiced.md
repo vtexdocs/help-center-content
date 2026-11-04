@@ -3,7 +3,7 @@ title: 'Product remains available in stock after the order has been invoiced'
 id: 5kQ3sJTo7hxIjysT7f9EvD
 status: PUBLISHED
 createdAt: 2024-10-29T16:42:28.787Z
-updatedAt: 2024-11-08T19:36:08.007Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2024-11-08T19:36:08.007Z
 firstPublishedAt: 2024-10-29T16:51:27.322Z
 contentType: tutorial

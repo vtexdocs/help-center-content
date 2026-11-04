@@ -4,7 +4,7 @@ excerpt: "A simulação de frete devolve o resultado da API de cálculo logísti
 id: 3bkJwe0Yj6qEkuYKUWwKwK
 status: PUBLISHED
 createdAt: 2017-05-09T14:03:03.097Z
-updatedAt: 2023-10-10T16:20:54.988Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-10-10T16:20:54.988Z
 firstPublishedAt: 2017-05-09T14:06:10.341Z
 contentType: frequentlyAskedQuestion
@@ -34,3 +34,5 @@ Mas o que fazer para corrigir isso?
 Isso depende de cada lojista, mas após reconfigurar a Logística Estoque-Doca-Transportadora talvez, também, seja necessário alterar a [planilha da transportadora](/pt/tutorial/como-montar-a-planilha-de-frete).
 
 Uma forma rápida de conferir o range de CEP´s de uma transportadora é usando a aba [Valores de Frete](/pt/tutorial/gerenciar-valores-de-frete/).
+
+> ℹ️ Antes de seguir os passos abaixo, peça ao [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, para simular o frete: com o ID do SKU e o CEP, ele verifica se o problema está no preço, no estoque ou na entrega e revisa docas, armazéns e políticas de envio.

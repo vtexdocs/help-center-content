@@ -3,7 +3,7 @@ title: 'My orders in Mercado Libre have errors'
 id: 170njWgSw9UQ5DG6NRl14d
 status: PUBLISHED
 createdAt: 2024-06-28T15:03:26.959Z
-updatedAt: 2025-08-14T22:54:23.267Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-08-14T22:54:23.267Z
 firstPublishedAt: 2024-06-28T16:04:14.266Z
 contentType: tutorial

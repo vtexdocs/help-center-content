@@ -4,7 +4,7 @@ excerpt: "Intelligent Search puede mostrar precios desactualizados cuando simula
 id: 2A75LUcywLJdeq38hsBhk0
 status: PUBLISHED
 createdAt: 2023-02-28T21:09:23.876Z
-updatedAt: 2023-02-28T21:11:29.565Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-02-28T21:11:29.565Z
 firstPublishedAt: 2023-02-28T21:11:29.565Z
 contentType: frequentlyAskedQuestion

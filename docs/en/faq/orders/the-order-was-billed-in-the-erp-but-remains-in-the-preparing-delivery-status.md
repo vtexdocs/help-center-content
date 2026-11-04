@@ -4,7 +4,7 @@ excerpt: "The marketplace API may be rejecting the invoice update. Open the orde
 id: 4szpXviNMAkwOe2cCiMiMe
 status: PUBLISHED
 createdAt: 2017-12-19T13:00:23.800Z
-updatedAt: 2023-03-31T21:05:01.214Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-03-31T21:05:01.214Z
 firstPublishedAt: 2017-12-19T13:25:22.289Z
 contentType: frequentlyAskedQuestion

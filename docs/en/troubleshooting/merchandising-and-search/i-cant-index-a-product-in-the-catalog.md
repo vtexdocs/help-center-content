@@ -3,7 +3,7 @@ title: "I can't index a product in the catalog"
 id: 5ZKLTqnCyGbWEYGPTCBIxI
 status: PUBLISHED
 createdAt: 2024-09-06T13:35:52.255Z
-updatedAt: 2025-08-14T22:18:48.876Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-08-14T22:18:48.876Z
 firstPublishedAt: 2024-09-06T20:54:50.631Z
 contentType: tutorial

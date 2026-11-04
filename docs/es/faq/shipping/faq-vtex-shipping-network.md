@@ -4,7 +4,7 @@ excerpt: "Este FAQ aún se está traduciendo al español."
 id: 7rORylcjzSixyExqVhtmaW
 status: PUBLISHED
 createdAt: 2020-07-20T17:29:40.264Z
-updatedAt: 2022-04-08T20:18:50.816Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2022-04-08T20:18:50.816Z
 firstPublishedAt: 2020-07-20T20:56:01.437Z
 contentType: frequentlyAskedQuestion

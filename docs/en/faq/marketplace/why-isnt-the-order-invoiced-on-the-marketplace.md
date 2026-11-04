@@ -4,7 +4,7 @@ excerpt: "The invoice may be in VTEX while the marketplace still shows an earlie
 id: frequentlyAskedQuestions_715
 status: PUBLISHED
 createdAt: 2017-04-27T22:28:23.898Z
-updatedAt: 2020-05-11T15:48:16.337Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2020-05-11T15:48:16.337Z
 firstPublishedAt: 2017-04-27T23:02:33.970Z
 contentType: frequentlyAskedQuestion

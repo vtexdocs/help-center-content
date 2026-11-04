@@ -1,6 +1,7 @@
 ---
 title: "El frontend de mi tienda presenta problemas de layout"
 createdAt: 2026-04-27T15:50:40.668Z
+updatedAt: 2026-10-07T00:00:00.000Z
 locale: es
 slugEN: my-storefront-has-layout-issues
 contentType: troubleshooting

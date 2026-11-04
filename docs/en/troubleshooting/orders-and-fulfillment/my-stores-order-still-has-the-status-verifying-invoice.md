@@ -3,7 +3,7 @@ title: ​'​My store's order still has the status "Verifying invoice"'
 id: 2YY7ILOOd0lEjpiT7SSgag
 status: PUBLISHED
 createdAt: 2024-08-16T18:32:15.867Z
-updatedAt: 2024-11-08T19:29:24.003Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2024-11-08T19:29:24.003Z
 firstPublishedAt: 2024-08-16T18:52:24.803Z
 contentType: tutorial

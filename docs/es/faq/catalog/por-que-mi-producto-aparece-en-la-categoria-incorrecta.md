@@ -4,7 +4,7 @@ excerpt: "Compare el DepartmentId y el CategoryId de la Catalog API con el árbo
 id: 189ijTfdJkcy2gg2MWkuEE
 status: PUBLISHED
 createdAt: 2018-01-23T13:35:06.489Z
-updatedAt: 2022-08-24T21:09:00.452Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2022-08-24T21:09:00.452Z
 firstPublishedAt: 2018-01-23T14:36:56.218Z
 contentType: frequentlyAskedQuestion

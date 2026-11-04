@@ -4,7 +4,7 @@ excerpt: "The store hit the maximum number of active promotions. Combine rules i
 id: frequentlyAskedQuestions_349
 status: PUBLISHED
 createdAt: 2017-04-27T22:37:28.949Z
-updatedAt: 2019-12-31T14:25:18.709Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:25:18.709Z
 firstPublishedAt: 2017-04-27T23:01:45.229Z
 contentType: frequentlyAskedQuestion

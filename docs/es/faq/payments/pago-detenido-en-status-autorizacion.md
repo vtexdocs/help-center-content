@@ -4,7 +4,7 @@ excerpt: "Autorizando significa que Payments está esperando al adquirente o al 
 id: 3hMw16ZijKm6QmSSY0KOGk
 status: PUBLISHED
 createdAt: 2019-01-24T20:30:45.163Z
-updatedAt: 2025-09-26T13:15:48.309Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-09-26T13:15:48.309Z
 firstPublishedAt: 2019-01-24T20:30:45.528Z
 contentType: frequentlyAskedQuestion

@@ -4,7 +4,7 @@ excerpt: "Store not found significa que el Store Name no está en Hosts en Gesti
 id: 23ZZv5zvfuAsSWCwOMIoQE
 status: PUBLISHED
 createdAt: 2017-11-29T14:00:08.262Z
-updatedAt: 2019-12-31T14:24:32.241Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:32.241Z
 firstPublishedAt: 2017-11-29T14:05:04.071Z
 contentType: frequentlyAskedQuestion

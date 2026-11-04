@@ -4,7 +4,7 @@ excerpt: "With two payment methods, each one is settled according to its own aff
 id: 32vvCkFrmbUydhI5ncFCja
 status: PUBLISHED
 createdAt: 2021-06-15T15:14:09.235Z
-updatedAt: 2022-07-19T12:56:42.732Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2022-07-19T12:56:42.732Z
 firstPublishedAt: 2021-06-15T15:20:41.908Z
 contentType: frequentlyAskedQuestion

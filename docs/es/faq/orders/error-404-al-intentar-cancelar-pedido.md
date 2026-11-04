@@ -4,7 +4,7 @@ excerpt: "Un 404 al cancelar suele significar que falló la API de un partner. A
 id: 7re22Xm5MswgmkgKiyiygE
 status: PUBLISHED
 createdAt: 2018-02-19T19:22:21.391Z
-updatedAt: 2023-03-22T20:05:41.355Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-03-22T20:05:41.355Z
 firstPublishedAt: 2018-02-19T19:36:07.899Z
 contentType: frequentlyAskedQuestion

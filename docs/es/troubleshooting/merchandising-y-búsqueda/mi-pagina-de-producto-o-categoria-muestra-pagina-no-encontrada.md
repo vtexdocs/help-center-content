@@ -3,7 +3,7 @@ title: "Mi página de producto o de categoría muestra 'Página no encontrada'"
 id:
 status: PUBLISHED
 createdAt: 2026-04-30T00:00:00.000Z
-updatedAt: 2026-04-30T00:00:00.000Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt:
 firstPublishedAt:
 contentType: tutorial

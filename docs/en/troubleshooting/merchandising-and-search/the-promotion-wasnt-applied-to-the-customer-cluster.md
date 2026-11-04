@@ -3,7 +3,7 @@ title: "The promotion wasn't applied to the customer cluster"
 id: 1fQEKdmWwIAPfDQAbuP3Kr
 status: PUBLISHED
 createdAt: 2025-02-28T18:00:30.100Z
-updatedAt: 2025-08-14T22:53:01.477Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2025-08-14T22:53:01.477Z
 firstPublishedAt: 2025-02-28T19:31:52.785Z
 contentType: tutorial

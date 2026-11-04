@@ -4,7 +4,7 @@ excerpt: "En VTEX Search (Legacy), los filtros de campo de producto o SKU exigen
 id: 7e9P6HiXTiKsgYCKiEoauy
 status: PUBLISHED
 createdAt: 2017-11-06T20:18:06.419Z
-updatedAt: 2020-11-27T19:40:33.151Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2020-04-20T15:26:32.997Z
 firstPublishedAt: 2017-11-06T20:54:28.487Z
 contentType: frequentlyAskedQuestion

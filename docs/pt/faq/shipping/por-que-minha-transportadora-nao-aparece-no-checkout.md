@@ -4,7 +4,7 @@ excerpt: "O checkout esconde a transportadora quando docas, políticas comerciai
 id: frequentlyAskedQuestions_165
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:09.470Z
-updatedAt: 2023-08-25T15:13:42.026Z
+updatedAt: 2026-10-07T00:00:00.000Z
 publishedAt: 2023-08-25T15:13:42.026Z
 firstPublishedAt: 2017-04-27T23:01:43.444Z
 contentType: frequentlyAskedQuestion
@@ -20,6 +20,8 @@ Para finalizar um pedido na plataforma VTEX, é necessário selecionar uma forma
 Eventualmente, uma transportadora pode não ser exibida no checkout. Separamos seis cenários em que essa situação pode ocorrer e suas respectivas soluções. 
 
 Vale ressaltar que antes de prosseguir a leitura desse artigo, é preciso garantir que todas as [transportadoras estão cadastradas](/pt/docs/tutorials/transportadoras-na-vtex) corretamente na plataforma. Além disso, todas as soluções são feitas no módulo [Envio](/pt/docs/tutorials/fulfillment-logistica-vtex). 
+
+> ℹ️ Antes de seguir os passos abaixo, peça ao [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, para investigar: com o ID do SKU e o CEP, ele simula o frete, verifica se cada política de envio atende esse CEP e revisa docas e armazéns para achar a falha.
 
 ## Concorrência entre transportadoras do mesmo tipo
 
