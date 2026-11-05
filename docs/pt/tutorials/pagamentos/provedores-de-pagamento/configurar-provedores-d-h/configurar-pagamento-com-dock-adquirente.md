@@ -1,21 +1,15 @@
 ---
 title: 'Configurar pagamento com Dock Adquirente'
-id: 538RMLmZheQdTCgyG1MAA6
-status: PUBLISHED
 createdAt: 2025-06-11T21:40:53.256Z
-updatedAt: 2025-09-24T17:34:11.358Z
-publishedAt: 2025-09-24T17:34:11.358Z
-firstPublishedAt: 2025-06-11T21:46:15.542Z
+updatedAt: 2026-11-05T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-dock-adquirente
-legacySlug: configurar-pagamento-com-dock-adquirente
 locale: pt
-subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+hidden: false
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento Dock Adquirente. Por meio deste provedor, sua loja pode oferecer pagamento por meio de cartão de créditos e PIX.
+Na VTEX, é possível realizar a integração com o provedor de pagamento Dock Adquirente. Por meio deste provedor, sua loja pode oferecer pagamento por meio de cartão de crédito, PIX, Google Pay e boleto bancário.
 
 Para configurar Dock Adquirente, siga os passos abaixo:
 
@@ -25,7 +19,8 @@ Para configurar Dock Adquirente, siga os passos abaixo:
 4. Em **Autorização do provedor**, preencha os campos **Chave de aplicação** e **Token de aplicação** com as informações da sua conta Dock Adquirente.
 5. Caso deseje modificar o nome de identificação a ser exibido para o provedor Dock Adquirente na tela do Admin VTEX, insira a informação no campo **Nome** em **Informações básicas**.
 6. Em **Controle de pagamento**, selecione se deseja ativar o provedor em ambiente de teste clicando em **Ativar modo de teste**.
-7. Clique em `Salvar`.
+7. Em **Campos do provedor**, preencha o campo **expireDays** de acordo com as instruções do provedor.
+8. Clique em `Salvar`.
 
 Para configurar os métodos de pagamento a serem processados pela Dock Adquirente, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento). 
 

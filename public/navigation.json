@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Custom notes payable: limit increased from 20 to 100",
+                    "es": "Pagarés personalizados: límite ampliado de 20 a 100",
+                    "pt": "Promissórias customizadas: limite ampliado de 20 para 100"
+                  },
+                  "slug": {
+                    "en": "2026-10-30-custom-promissory-notes-limit-increased-from-20-to-100",
+                    "es": "2026-10-30-pagares-personalizados-limite-ampliado-de-20-a-100",
+                    "pt": "2026-10-30-promissorias-customizadas-limite-ampliado-de-20-para-100"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Orders: Item-level promotions display available for all stores",
                     "es": "Pedidos: vista de promoción por ítem disponible para todas las tiendas",
                     "pt": "Pedidos: visualização de promoção por item disponível para todas as lojas"
@@ -99,8 +114,8 @@
                 },
                 {
                   "name": {
-                    "en": "Delivery Promise: now available to all merchants",
-                    "es": "Delivery Promise: ahora disponible para todos los retailers",
+                    "en": "Delivery Promise: Now available for all merchants",
+                    "es": "Delivery Promise: ya disponible para todos los retailers",
                     "pt": "Delivery Promise: agora disponível para todos os lojistas"
                   },
                   "slug": {
@@ -114,8 +129,8 @@
                 },
                 {
                   "name": {
-                    "en": "Persistent login: set how long your customers stay authenticated",
-                    "es": "Inicio de sesión persistente: define por cuánto tiempo tus clientes permanecen autenticados",
+                    "en": "Persistent login: Set how long your customers stay authenticated",
+                    "es": "Inicio de sesión persistente: define cuánto tiempo permanecen autenticados tus clientes",
                     "pt": "Login persistente: defina por quanto tempo seus clientes permanecem autenticados"
                   },
                   "slug": {
@@ -13612,8 +13627,8 @@
                     {
                       "name": {
                         "en": "10. Match Offers Mercado Livre",
-                        "es": "10. Match de anuncios de Mercado Libre",
-                        "pt": "10. Match de anúncios Mercado Livre"
+                        "es": "10. Publicación de productos Mercado Libre",
+                        "pt": "10. Publicação de produtos Mercado Livre"
                       },
                       "slug": {
                         "en": "match-offers-mercado-livre",
@@ -26024,24 +26039,9 @@
                 },
                 {
                   "name": {
-                    "en": "What is Deposit Slip",
-                    "es": "Qué es Ficha de Depósito",
-                    "pt": "O que é  Ficha Depósito"
-                  },
-                  "slug": {
-                    "en": "what-is-deposit-slip",
-                    "es": "que-es-ficha-de-deposito",
-                    "pt": "o-que-e-ficha-deposito"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is the connector?",
-                    "es": "¿Qué es el conector?",
-                    "pt": "O que é o conector?"
+                    "en": "Payment connector",
+                    "es": "Conector de pago",
+                    "pt": "Conector de pagamento"
                   },
                   "slug": {
                     "en": "what-is-the-connector",
@@ -26054,14 +26054,14 @@
                 },
                 {
                   "name": {
-                    "en": "What is the PCI SSC",
-                    "es": "Qué es el PCI SSC",
-                    "pt": "O que é o PCI SSC"
+                    "en": "Deposit Slip",
+                    "es": "Ficha de Depósito",
+                    "pt": "Ficha Depósito"
                   },
                   "slug": {
-                    "en": "what-is-the-pci-ssc",
-                    "es": "que-es-el-pci-ssc",
-                    "pt": "o-que-e-o-pci-ssc"
+                    "en": "what-is-deposit-slip",
+                    "es": "que-es-ficha-de-deposito",
+                    "pt": "o-que-e-ficha-deposito"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26077,6 +26077,21 @@
                     "en": "payment-provider-protocol",
                     "es": "payment-provider-protocol",
                     "pt": "payment-provider-protocol"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "PCI SSC",
+                    "es": "PCI SSC",
+                    "pt": "PCI SSC"
+                  },
+                  "slug": {
+                    "en": "what-is-the-pci-ssc",
+                    "es": "que-es-el-pci-ssc",
+                    "pt": "o-que-e-o-pci-ssc"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -28023,8 +28038,8 @@
                     {
                       "name": {
                         "en": "Setting up payments with PagarMeV3",
-                        "es": "Configurar pago con PagarMeV3",
-                        "pt": "Configurar pagamento com PagarMeV3"
+                        "es": "Configurar pago con PagarMeV3 (Stone)",
+                        "pt": "Configurar pagamento com PagarMeV3 (Stone)"
                       },
                       "slug": {
                         "en": "setting-up-payments-with-pagarmev3",
@@ -43861,6 +43876,21 @@
             },
             {
               "name": {
+                "en": "Products can enter inactive state despite all skus being inactive",
+                "es": "Los productos pueden entrar en estado inactivo a pesar de que todos los SKU estén inactivos.",
+                "pt": "Os produtos podem entrar em estado inativo mesmo que todos os SKUs estejam inativos."
+              },
+              "slug": {
+                "en": "products-can-enter-inactive-state-despite-all-skus-being-inactive",
+                "es": "los-productos-pueden-entrar-en-estado-inactivo-a-pesar-de-que-todos-los-sku-esten-inactivos",
+                "pt": "os-produtos-podem-entrar-em-estado-inativo-mesmo-que-todos-os-skus-estejam-inativos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Products without SKU are not returned in the admin when searching by Product ID",
                 "es": "Los productos sin SKU no aparecen en el panel de administración al realizar una búsqueda por ID de producto",
                 "pt": "Os produtos sem SKU não são exibidos no painel de administração ao pesquisar pelo ID do produto"
@@ -54717,21 +54747,6 @@
             },
             {
               "name": {
-                "en": "Route prioritization does not offer the best option in terms of quantity of packages and items",
-                "es": "La priorización de rutas no ofrece la mejor opción en cuanto a cantidad de paquetes y artículos",
-                "pt": "A priorização de rotas não oferece a melhor opção em termos de quantidade de pacotes e itens"
-              },
-              "slug": {
-                "en": "route-prioritization-does-not-offer-the-best-option-in-terms-of-quantity-of-packages-and-items",
-                "es": "la-priorizacion-de-rutas-no-ofrece-la-mejor-opcion-en-cuanto-a-cantidad-de-paquetes-y-articulos",
-                "pt": "a-priorizacao-de-rotas-nao-oferece-a-melhor-opcao-em-termos-de-quantidade-de-pacotes-e-itens"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Warehouse prioritization is not deterministic during shipping simulation",
                 "es": "La priorización de almacenes no es determinista durante la simulación de envío",
                 "pt": "A priorização do armazém não é determinística durante a simulação de expedição"
@@ -55062,21 +55077,6 @@
             },
             {
               "name": {
-                "en": "The template 'relatorio-de-importacao-de-estoque' does not support multi-language",
-                "es": "La plantilla 'relatorio-de-importacao-de-estoque' no admite el multilingüismo",
-                "pt": "O modelo 'relatorio-de-importacao-de-estoque' não suporta multi-linguagem"
-              },
-              "slug": {
-                "en": "the-template-relatoriodeimportacaodeestoque-does-not-support-multilanguage",
-                "es": "la-plantilla-relatoriodeimportacaodeestoque-no-admite-el-multilinguismo",
-                "pt": "o-modelo-relatoriodeimportacaodeestoque-nao-suporta-multilinguagem"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Logistics simulator is showing default currency instead of local currency.",
                 "es": "El simulador de logística muestra la moneda por defecto en lugar de la moneda local.",
                 "pt": "O simulador logístico está mostrando a moeda padrão em vez da moeda local."
@@ -55145,21 +55145,6 @@
                 "en": "problems-opening-manage-inventory-by-admin-page-with-error-ui",
                 "es": "problemas-al-abrir-la-pagina-gestionar-el-inventario-por-parte-del-administrador-con-error-ui",
                 "pt": "problemas-ao-abrir-a-pagina-gerenciar-inventario-por-admin-com-erro-ui"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Logistics Simulation with Minimum and Maximum price in Shipping Policy does not work when ProductPrice as 0 (ZERO)",
-                "es": "La simulación logística con el precio mínimo y máximo en la política de envío no funciona cuando ProductPrice es 0 (CERO)",
-                "pt": "Simulação Logística com preço mínimo e máximo na Política de Embarque não funciona quando o Preço do Produto como 0 (ZERO)"
-              },
-              "slug": {
-                "en": "logistics-simulation-with-minimum-and-maximum-price-in-shipping-policy-does-not-work-when-productprice-as-0-zero",
-                "es": "la-simulacion-logistica-con-el-precio-minimo-y-maximo-en-la-politica-de-envio-no-funciona-cuando-productprice-es-0-cero",
-                "pt": "simulacao-logistica-com-preco-minimo-e-maximo-na-politica-de-embarque-nao-funciona-quando-o-preco-do-produto-como-0-zero"
               },
               "origin": "",
               "type": "markdown",
@@ -58233,12 +58218,12 @@
             {
               "name": {
                 "en": "When accessing my orders, the name that appears is the name of the ProductName without the SKU Name information.",
-                "es": "Al consultar mis pedidos, el nombre que aparece es el del «ProductName», sin la información del «SKU Name».",
+                "es": "Al acceder a mis pedidos, el nombre que aparece es el nombre del producto sin la información del código SKU.",
                 "pt": "Ao acessar meus pedidos, o nome que aparece é o nome do produto (ProductName) sem as informações do SKU."
               },
               "slug": {
                 "en": "when-accessing-my-orders-the-name-that-appears-is-the-name-of-the-productname-without-the-sku-name-information",
-                "es": "al-consultar-mis-pedidos-el-nombre-que-aparece-es-el-del-productname-sin-la-informacion-del-sku-name",
+                "es": "al-acceder-a-mis-pedidos-el-nombre-que-aparece-es-el-nombre-del-producto-sin-la-informacion-del-codigo-sku",
                 "pt": "ao-acessar-meus-pedidos-o-nome-que-aparece-e-o-nome-do-produto-productname-sem-as-informacoes-do-sku"
               },
               "origin": "",
@@ -61175,6 +61160,21 @@
             },
             {
               "name": {
+                "en": "Payment cancellation delayed over one hour after antifraud rejection in native split transactions",
+                "es": "La cancelación del pago se retrasó más de una hora tras el rechazo por parte del sistema antifraude en transacciones divididas nativas.",
+                "pt": "Cancelamento de pagamento atrasado em mais de uma hora após rejeição antifraude em transações nativas divididas."
+              },
+              "slug": {
+                "en": "payment-cancellation-delayed-over-one-hour-after-antifraud-rejection-in-native-split-transactions",
+                "es": "la-cancelacion-del-pago-se-retraso-mas-de-una-hora-tras-el-rechazo-por-parte-del-sistema-antifraude-en-transacciones-divididas-nativas",
+                "pt": "cancelamento-de-pagamento-atrasado-em-mais-de-uma-hora-apos-rejeicao-antifraude-em-transacoes-nativas-divididas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Co-branded saved card with wrong payment system id",
                 "es": "Tarjeta guardada de marca compartida con un identificador de sistema de pago incorrecto",
                 "pt": "Cartão salvo em co-branding com ID incorreta do sistema de pagamento"
@@ -62645,21 +62645,6 @@
             },
             {
               "name": {
-                "en": "Regex conflict causes us to misidentify Mastercard as Visa",
-                "es": "Un conflicto de Regex hace que identifiquemos erróneamente Mastercard como Visa",
-                "pt": "O conflito de regex nos faz identificar erroneamente Mastercard como Visa"
-              },
-              "slug": {
-                "en": "regex-conflict-causes-us-to-misidentify-mastercard-as-visa",
-                "es": "un-conflicto-de-regex-hace-que-identifiquemos-erroneamente-mastercard-como-visa",
-                "pt": "o-conflito-de-regex-nos-faz-identificar-erroneamente-mastercard-como-visa"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Customer Credit doesn't show installments correctly",
                 "es": "El crédito del cliente no muestra las cuotas correctamente",
                 "pt": "O crédito ao cliente não mostra as parcelas corretamente"
@@ -63928,6 +63913,21 @@
                 "en": "transaction-stuck-in-cancelling-when-payments-are-finished",
                 "es": "la-transaccion-se-queda-bloqueada-en-cancelando-cuando-los-pagos-estan-finalizados",
                 "pt": "transacao-presa-em-cancelando-quando-os-pagamentos-estao-concluidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transaction stuck in \"Cancelling\" although the payment provider confirmed the cancellation",
+                "es": "La transacción se quedó atascada en \"Cancelando\" aunque el proveedor de pagos confirmó la cancelación.",
+                "pt": "Transação presa em \"Cancelando\", embora o provedor de pagamento tenha confirmado o cancelamento."
+              },
+              "slug": {
+                "en": "transaction-stuck-in-cancelling-although-the-payment-provider-confirmed-the-cancellation",
+                "es": "la-transaccion-se-quedo-atascada-en-cancelando-aunque-el-proveedor-de-pagos-confirmo-la-cancelacion",
+                "pt": "transacao-presa-em-cancelando-embora-o-provedor-de-pagamento-tenha-confirmado-o-cancelamento"
               },
               "origin": "",
               "type": "markdown",
@@ -70721,52 +70721,6 @@
                 "en": "shopee-catalog-sync-blocked-due-to-excess-variation-attributes",
                 "es": "sincronizacion-del-catalogo-bloqueada-debido-a-un-exceso-de-atributos-de-variacion",
                 "pt": "sincronizacao-do-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "Personal shopper",
-            "es": "Personal shopper",
-            "pt": "Personal shopper"
-          },
-          "slug": {
-            "en": "personal-shopper",
-            "es": "personal-shopper",
-            "pt": "personal-shopper"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Only one agent receives email notification in active call",
-                "es": "Solo un agente recibe notificación por correo electrónico en una llamada activa.",
-                "pt": "Apenas um agente recebe notificação por e-mail em uma chamada ativa."
-              },
-              "slug": {
-                "en": "only-one-agent-receives-email-notification-in-active-call",
-                "es": "solo-un-agente-recibe-notificacion-por-correo-electronico-en-una-llamada-activa",
-                "pt": "apenas-um-agente-recebe-notificacao-por-email-em-uma-chamada-ativa"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Notifications from the personal shopper are not arriving on WhatsApp.",
-                "es": "Las notificaciones del personal shopper no llegan a WhatsApp.",
-                "pt": "As notificações do personal shopper não estão chegando no WhatsApp."
-              },
-              "slug": {
-                "en": "notifications-from-the-personal-shopper-are-not-arriving-on-whatsapp",
-                "es": "las-notificaciones-del-personal-shopper-no-llegan-a-whatsapp",
-                "pt": "as-notificacoes-do-personal-shopper-nao-estao-chegando-no-whatsapp"
               },
               "origin": "",
               "type": "markdown",

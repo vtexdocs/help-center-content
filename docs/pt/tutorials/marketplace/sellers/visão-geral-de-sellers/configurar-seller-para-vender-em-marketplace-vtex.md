@@ -3,7 +3,7 @@ title: 'Configurar seller para vender em marketplace VTEX'
 id: 6g045OkRSjNpqhkExbQRlP
 status: PUBLISHED
 createdAt: 2022-05-11T16:49:11.747Z
-updatedAt: 2023-04-17T21:46:38.715Z
+updatedAt: 2026-11-04T15:00:00.000Z
 publishedAt: 2023-04-17T21:46:38.715Z
 firstPublishedAt: 2022-05-11T18:35:14.080Z
 contentType: tutorial
@@ -21,7 +21,6 @@ Este artigo orienta como configurar sua loja para se tornar seller VTEX e começ
 
 - [Definir política comercial](#definir-politica-comercial)
 - [Criar ID do afiliado](#criar-id-do-afiliado)
-- [Reindexar base](#reindexar-base)
 
 Para saber quais dados precisam ser trocados entre sellers e marketplaces, veja o artigo [Informações compartilhadas](/pt/docs/tutorials/informacoes-compartilhadas-entre-marketplace-e-seller-na-vtex) entre marketplace e seller na VTEX. Caso sua loja deseje operar como marketplace, confira o artigo [Configurar marketplace VTEX](/pt/docs/tutorials/configurar-marketplace-vtex).
 
@@ -44,27 +43,6 @@ Na VTEX, o [afiliado](/pt/docs/tutorials/o-que-e-afiliado) é o código que o se
 > ℹ️ A integração com [conectores nativos](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-conector-nativo-vtex) cria o código do afiliado de forma automática. No entanto, para um seller VTEX integrar com um marketplace VTEX ou externo, o seller precisa criar o ID do afiliado de forma manual.
 
 O seller deve seguir os passos do artigo [Configurar afiliado](/pt/docs/tutorials/como-configurar-afiliado) e, uma vez que tenha criado o código identificador, deve informá-lo ao marketplace. A partir disso, o marketplace VTEX vai [adicionar o seller](/pt/docs/tutorials/adicionar-seller) e associá-lo a uma política comercial.
-
-## Reindexar base
-
-Após seller e marketplace estarem integrados, o envio de produtos para o marketplace não é automático, é necessário ao seller [reindexar a base](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao). Esse processo prepara os dados dos SKUs e produtos e envia para o marketplace informações gerais sobre catálogo, preço e estoque. 
-
-> ℹ️ Somente o [usuário Titular (owner)](/pt/docs/tracks/o-que-e-o-usuario-master) tem permissão para reindexar a base de uma loja VTEX. Durante o período de reindexação, que é variável, os produtos entram numa fila para atualização de dados, mas seguem disponíveis para venda no site da loja.
-
-Para reindexar a base, copie o endereço abaixo no seu navegador, substituindo `{nomedaloja}` pelo nome da sua loja:
-
-`{nomedaloja}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`
-
-Ao acessar o endereço, clique no botão `Reindexar Base`. O processo pode ser acompanhado pelo Admin VTEX, em **Catálogo > Relatórios**.
-
-### Checar indexação
-
-É possível conferir se um SKU específico foi corretamente indexado à política comercial da integração. Para isso, siga os passos abaixo:
-
-1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**.
-2. Clique na <i class="fas fa-angle-down"></i> seta para baixo, ao lado do botão **ALTERAR**.
-3. Selecione a opção `Indexed Info`.
-4. Verifique se nas informações do SKU aparece o número da política comercial usada na integração com o marketplace.
 
 ## Ações do marketplace
 

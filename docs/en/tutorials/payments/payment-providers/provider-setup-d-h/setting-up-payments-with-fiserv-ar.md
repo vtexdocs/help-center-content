@@ -1,21 +1,15 @@
 ---
 title: 'Setting up payments with Fiserv AR'
-id: 1qF6HiMShBpMCyzz53edlx
-status: PUBLISHED
 createdAt: 2024-10-07T20:10:41.652Z
-updatedAt: 2024-10-07T20:52:09.314Z
-publishedAt: 2024-10-07T20:52:09.314Z
-firstPublishedAt: 2024-10-07T20:31:20.030Z
+updatedAt: 2026-11-05T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-fiserv-ar
-legacySlug: setting-up-payments-with-fiserv-ar
 locale: en
-subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+hidden: false
 ---
 
-At VTEX, it is possible to integrate with the Fiserv AR payment provider. With this provider, your store can make sales through credit, debit, cobranded, private labels cards, bank invoices and Fiserv.
+At VTEX, it is possible to integrate with the Fiserv AR payment provider. With this provider, your store can make sales through credit, debit, cobranded, private labels cards, bank invoices, Fiserv and local payment methods such as Naranja, Cabal, OCA, Creditel, Club del Este, Lider, Passcard, ANDA, Creditos Directos, Edenred and Sodexo.
 
 To configure Fiserv AR, follow the steps below:
 
@@ -26,8 +20,9 @@ To configure Fiserv AR, follow the steps below:
 5. If you wish to modify the identification name to be displayed for the Fiserv provider on the VTEX Admin screen, enter the information in the __Name__ field in __Basic Information__.
 6. In __Payment Control__, select whether you want to activate the provider in a test environment by clicking __Enable test mode__.
 7. In __Provider Fields__, fill in the __Ingrese su Store ID__, __Ingrese su API Key Pública__, and __Ingrese su API Key Privada__ fields with your Fiserv account information.
-8. In __Activar autenticación 3DS__, __Flujo mastercard__ and __Autorización y captura diferidos__ select the desired options.
-9. Click `Save`.
+8. In __3DS - Visa__, __3DS - Mastercard__, __Autorización y captura diferidos__, __Plan Gobierno__, __Plan Z - Naranja__ and __Soft Descriptor__, select or fill in the desired options.
+9. If your store processes payments in Uruguay, fill in the __Legislación aplicable (Aplica solo para Uruguay)__ field according to the provider's instructions.
+10. Click `Save`.
 
 To configure the payment methods to be processed by Fiserv AR, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
 

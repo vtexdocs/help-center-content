@@ -6,14 +6,14 @@ contentType: tutorial
 productTeam: Others
 slugEN: reporting-security-incidents
 locale: es
-excerpt: Aprende a identificar y reportar incidentes de seguridad relacionados con los servicios de VTEX y qué canales usar en cada situación.
+excerpt: Aprende a identificar incidentes de seguridad relacionados con los servicios de VTEX y el canal indicado para cada situación.
 ---
 
-Este artículo explica cómo identificar y reportar incidentes de seguridad relacionados con los servicios de VTEX, incluidas sospechas de compromiso de sistemas, exposición de datos personales e incidentes en [VTEX CX Platform](/es/docs/tutorials/vtex-cx-platform-vision-de-conjunto).
+Este artículo explica cómo identificar y reportar incidentes de seguridad relacionados con los servicios de VTEX: sospecha de sistemas comprometidos, exposición de datos personales e incidentes en [VTEX CX Platform](/es/docs/tutorials/vtex-cx-platform-vision-de-conjunto).
 
-El canal de reporte depende del tipo de incidente. Sigue el procedimiento recomendado para garantizar una respuesta rápida y eficaz en caso de sospecha de compromiso o anomalía en tus sistemas.
+El canal indicado para reportar un incidente depende del tipo de incidente. Si sospechas que tus sistemas están comprometidos o que muestran una anomalía, sigue los pasos de este artículo para recibir una respuesta rápida y eficaz.
 
-> En caso de sospecha, comunica la ocurrencia lo antes posible, aunque aún no tengas toda la información.
+> Ante cualquier sospecha reporta el evento lo antes posible aunque aún no tengas toda la información.
 
 ## ¿Qué es un incidente de seguridad?
 
@@ -26,49 +26,49 @@ Algunos ejemplos son:
 - Modificación no autorizada de información.
 - Indisponibilidad de sistemas causada por ataques o actividades sospechosas.
 
-> Para saber cómo actúa VTEX en la prevención y el tratamiento de estas ocurrencias, consulta [Audit](/es/docs/tutorials/audit) y [Plan de respuesta a incidentes de seguridad](/es/docs/tutorials/plan-de-respuesta-a-incidentes-de-seguridad).
+> Para saber cómo actúa VTEX en la prevención y el tratamiento de estas situaciones consulta [Audit](/es/docs/tutorials/audit) y [Plan de respuesta a incidentes de seguridad](/es/docs/tutorials/plan-de-respuesta-a-incidentes-de-seguridad).
 
 ## Cómo reportar un incidente de seguridad
 
-Identifica la situación correspondiente y usa el canal de comunicación indicado.
+Identifica la situación correspondiente y utiliza el canal de notificación indicado.
 
 ### Incidentes generales de seguridad
 
-Para reportar sospechas de compromiso, accesos no autorizados u otras actividades sospechosas en los sistemas VTEX, accede al [Soporte de VTEX](/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex) y abre un ticket con la siguiente información:
+Para reportar sospechas de sistemas comprometidos, accesos no autorizados u otras actividades sospechosas relacionadas con VTEX, accede a [Abrir tickets con el Soporte VTEX](/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex) y abre un ticket con la siguiente información:
 
 - Descripción detallada del incidente.
-- Fecha y hora de la ocurrencia.
+- Fecha y hora del incidente.
 - Sistemas afectados y posibles impactos.
-- Evidencias o logs relevantes, si están disponibles.
+- Evidencias o registros relevantes, si hubiera.
 
-Después de abrir el ticket, recibirás un correo electrónico de confirmación con el número de atención. Las actualizaciones y la continuidad de la atención se realizarán por correo electrónico.
+Al abrir el ticket recibirás un email de confirmación con el número de identificación. Las actualizaciones y el seguimiento del caso se realizarán por email.
 
-### Incidentes que involucran datos personales
+### Incidentes relacionados con datos personales
 
-Si hay sospecha de acceso no autorizado, exposición, pérdida o filtración de datos personales, comunica de inmediato la ocurrencia al Encargado de Protección de Datos (DPO, por sus siglas en inglés de *Data Protection Officer*) de VTEX al correo [dpo@vtex.com](mailto:dpo@vtex.com).
+Si sospechas de un acceso no autorizado, exposición, pérdida o filtración de datos personales, comunica de inmediato lo ocurrido al Oficial de Protección de Datos (DPO, del inglés Data Protection Officer) de VTEX por el email [dpo@vtex.com](mailto:dpo@vtex.com).
 
 > Los datos personales son información relacionada con una persona física identificada o identificable, como nombre, dirección, información de contacto, documentos de identificación, datos bancarios e historial de compras.
 
-Incluye en la comunicación:
+Incluye en la notificación:
 
 - Descripción del incidente.
 - Categorías de datos personales potencialmente afectados.
-- Fecha y hora del hallazgo o la sospecha.
+- Fecha y hora del descubrimiento o la sospecha.
 - Número estimado de personas afectadas, si se conoce.
 - Posible causa u origen del incidente.
 - Medidas de contención ya adoptadas, si las hay.
 
-> ⚠️ Los incidentes que involucran datos personales pueden estar sujetos a obligaciones legales de comunicación a las autoridades y a los titulares afectados. En Brasil, la Resolución CD/ANPD n.º 15/2024 establece, en los casos aplicables, un plazo de tres días laborables para la comunicación por parte del controlador. Para más información, consulta las [orientaciones de la ANPD sobre comunicación de incidentes de seguridad](https://www.gov.br/anpd/pt-br/canais_atendimento/agente-de-tratamento/comunicado-de-incidente-de-seguranca-cis).
+> ⚠️ Los incidentes relacionados con datos personales pueden estar sujetos a obligaciones legales de notificación a las autoridades y a los titulares afectados. El plazo para notificar el incidente a la autoridad y a las personas afectadas depende de la legislación del país en el que operas.
 
 ### Incidentes en VTEX CX Platform
 
-Para reportar incidentes de seguridad relacionados con [VTEX CX Platform](/es/docs/tutorials/vtex-cx-platform-vision-de-conjunto), ponte en contacto con el soporte especializado al correo [support.weni@vtex.com](mailto:support.weni@vtex.com).
+Para reportar incidentes de seguridad relacionados con [VTEX CX Platform](/es/docs/tutorials/vtex-cx-platform-vision-de-conjunto) ponte en contacto con el soporte especializado por el email [support.weni@vtex.com](mailto:support.weni@vtex.com).
 
-Incluye en la comunicación:
+Incluye en la notificación:
 
 - Descripción del incidente.
-- Fecha y hora de la ocurrencia.
+- Fecha y hora del evento.
 - Posible impacto en las operaciones.
-- Evidencias o logs relevantes, si están disponibles.
+- Evidencias o registros relevantes, si hubiera.
 
-El equipo especializado analizará la ocurrencia y responderá según la prioridad del incidente.
+El equipo especializado analizará el evento y responderá según la prioridad del mismo.
