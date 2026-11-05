@@ -63920,6 +63920,21 @@
             },
             {
               "name": {
+                "en": "Transaction stuck in \"Cancelling\" although the payment provider confirmed the cancellation",
+                "es": "La transacción se quedó atascada en \"Cancelando\" aunque el proveedor de pagos confirmó la cancelación.",
+                "pt": "Transação presa em \"Cancelando\", embora o provedor de pagamento tenha confirmado o cancelamento."
+              },
+              "slug": {
+                "en": "transaction-stuck-in-cancelling-although-the-payment-provider-confirmed-the-cancellation",
+                "es": "la-transaccion-se-quedo-atascada-en-cancelando-aunque-el-proveedor-de-pagos-confirmo-la-cancelacion",
+                "pt": "transacao-presa-em-cancelando-embora-o-provedor-de-pagamento-tenha-confirmado-o-cancelamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transaction stuck in Approved while payment remains Settling when using partial settlements",
                 "es": "Transacción atascada en Aprobado mientras el pago permanece Liquidando cuando se utilizan liquidaciones parciales.",
                 "pt": "Transação presa em Aprovado enquanto o pagamento permanece Liquidado ao usar liquidações parciais"
