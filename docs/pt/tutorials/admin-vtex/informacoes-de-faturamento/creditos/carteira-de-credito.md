@@ -1,7 +1,7 @@
 ---
 title: 'Carteira de Crédito'
 createdAt: '2026-10-08T00:00:00.000Z'
-updatedAt: '2026-11-03T00:00:00.000Z'
+updatedAt: '2026-11-05T00:00:00.000Z'
 contentType: tutorial
 productTeam: Billing
 slugEN: credit-wallet
@@ -28,7 +28,7 @@ Todo mês, a VTEX soma tudo o que a empresa — ou seja, todas as contas agrupad
 
 ## Como o crédito é usado
 
-O crédito da carteira de Crédito é aplicado exclusivamente para abater a cobrança de Master Data na fatura do mês seguinte.
+O crédito da carteira de crédito é aplicado exclusivamente para abater a cobrança de Master Data na fatura do mês seguinte.
 
 O consumo de Master Data acontece dentro de cada conta, mas a VTEX soma o consumo de Master Data de todas as contas de uma empresa para calcular o custo total de Master Data. É sobre este total consolidado que o crédito é abatido.
 
