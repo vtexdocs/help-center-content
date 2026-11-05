@@ -33118,6 +33118,21 @@
                 },
                 {
                   "name": {
+                    "en": "Managing custom storefront roles and permissions",
+                    "es": "Gestionar roles y permisos de storefront personalizados",
+                    "pt": "Gerenciar perfis de acesso e permissões de storefront personalizados"
+                  },
+                  "slug": {
+                    "en": "manage-custom-storefront-roles-and-permissions",
+                    "es": "gestionar-roles-y-permisos-de-storefront-personalizados",
+                    "pt": "gerenciar-perfis-de-acesso-e-permissoes-de-storefront-personalizados"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Login for B2B stores",
                     "es": "Login para tiendas B2B",
                     "pt": "Login em lojas B2B"
@@ -33126,6 +33141,21 @@
                     "en": "login-for-b2b-stores",
                     "es": "login-para-tiendas-b2b",
                     "pt": "login-em-lojas-b2b"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Custom storefront roles and permissions",
+                    "es": "Roles y permisos de storefront personalizados",
+                    "pt": "Perfis de acesso e permissões de storefront personalizados"
+                  },
+                  "slug": {
+                    "en": "custom-storefront-roles-and-permissions-overview",
+                    "es": "roles-y-permisos-de-storefront-personalizados",
+                    "pt": "perfis-de-acesso-e-permissoes-de-storefront-personalizados"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -63913,6 +63943,21 @@
                 "en": "transaction-stuck-in-cancelling-when-payments-are-finished",
                 "es": "la-transaccion-se-queda-bloqueada-en-cancelando-cuando-los-pagos-estan-finalizados",
                 "pt": "transacao-presa-em-cancelando-quando-os-pagamentos-estao-concluidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transaction stuck in \"Cancelling\" although the payment provider confirmed the cancellation",
+                "es": "La transacción se quedó atascada en \"Cancelando\" aunque el proveedor de pagos confirmó la cancelación.",
+                "pt": "Transação presa em \"Cancelando\", embora o provedor de pagamento tenha confirmado o cancelamento."
+              },
+              "slug": {
+                "en": "transaction-stuck-in-cancelling-although-the-payment-provider-confirmed-the-cancellation",
+                "es": "la-transaccion-se-quedo-atascada-en-cancelando-aunque-el-proveedor-de-pagos-confirmo-la-cancelacion",
+                "pt": "transacao-presa-em-cancelando-embora-o-provedor-de-pagamento-tenha-confirmado-o-cancelamento"
               },
               "origin": "",
               "type": "markdown",
