@@ -33,6 +33,6 @@ A chave de acesso da nota fiscal é um instrumento auxiliar para a consulta da N
 
 ![ChaveDeAcesso](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketplace/por-que-o-pedido-nao-fatura-no-marketplace_1.png)
 
- ℹ️ Este dado é gerado na emissão da nota fiscal e é de responsabilidade do ERP. Caso tenha um, solicite-o.
+> ℹ️ Este dado é gerado na emissão da nota fiscal e é de responsabilidade do ERP. Caso tenha um, solicite-o.
 
 Esse valor pode ser inserido manualmente pelo admin ou pela [API de notificação da fatura](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice), pelo campo **invoiceKey**.
