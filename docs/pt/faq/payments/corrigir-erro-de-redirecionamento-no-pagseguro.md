@@ -2,7 +2,7 @@
 title: 'Corrigir erro de redirecionamento no PagSeguro'
 excerpt: "Esse conector do PagSeguro está em descontinuação. Erros de redirect costumam vir de URL incorreta; configure com ou sem redirect."
 id: 5b1lVDQ9HUKQs4Wy24uWq2
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2018-02-15T16:07:47.669Z
 updatedAt: 2024-02-16T12:41:04.461Z
 publishedAt: 2024-02-16T12:41:04.461Z
@@ -13,6 +13,7 @@ author: authors_59
 slugEN: fix-redirect-error-in-pagseguro
 locale: pt
 legacySlug: corrigir-erro-de-redirecionamento-no-pagseguro
+hidden: true
 ---
 
 > ❗ Essa integração de pagamento não pode ser mais configurada na plataforma devido ao [processo de remoção de provedores legados](/pt/announcements/2023-10-13-conectores-legados-de-pagamentos-serao-descontinuados-em-2024) e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.

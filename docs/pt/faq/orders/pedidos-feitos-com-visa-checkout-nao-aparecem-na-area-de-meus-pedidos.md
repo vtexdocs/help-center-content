@@ -2,7 +2,7 @@
 title: 'Pedidos feitos com Visa Checkout não aparecem na área de Meus Pedidos'
 excerpt: "O Visa Checkout fecha fora da VTEX, então quem compra pela primeira vez não tem cadastro no Profile System. Meus Pedidos só mostra esses pedidos para e-mails iguais."
 id: 4BrqWFB2XCUS0SmkcqOAwe
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2018-06-15T20:21:24.876Z
 updatedAt: 2020-01-09T18:09:56.766Z
 publishedAt: 2020-01-09T18:09:56.766Z
@@ -13,6 +13,7 @@ author: authors_59
 slugEN: visa-checkout-orders-do-not-appear-in-my-orders-section
 locale: pt
 legacySlug: pedidos-feitos-com-visa-checkout-nao-aparecem-na-area-de-meus-pedidos
+hidden: true
 ---
 
 Pedidos realizados com o Visa Checkout são fechados fora do checkout da VTEX. 
