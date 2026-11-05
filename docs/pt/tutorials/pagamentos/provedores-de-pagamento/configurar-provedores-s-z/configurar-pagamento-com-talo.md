@@ -1,14 +1,14 @@
 ---
 title: 'Configurar pagamento com Talo'
 createdAt: 2026-07-31T00:00:00.000Z
-updatedAt: 2026-07-31T00:00:00.000Z
+updatedAt: 2026-11-05T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
 slugEN: setting-up-payments-with-talo
 locale: pt
 hidden: false
 ---
-Na VTEX, é possível realizar a integração com o provedor de pagamento Talo. Por meio deste provedor, sua loja pode oferecer pagamentos com o promissórias.
+Na VTEX, é possível realizar a integração com o provedor de pagamento Talo. Por meio deste provedor, sua loja pode oferecer pagamentos com promissórias e Transferencia Bancaria Automatica.
 
 Para configurar Talo, siga os passos abaixo:
 
@@ -18,7 +18,7 @@ Para configurar Talo, siga os passos abaixo:
 4. Em **Autorização do provedor**, preencha os campos **Chave de aplicação** e **Token de aplicação** com as informações da sua conta Talo.
 5. Caso deseje modificar o nome de identificação a ser exibido para o provedor Talo na tela do Admin VTEX, insira a informação no campo **Nome** em **Informações básicas**.
 6. Em **Controle de pagamento**, selecione se deseja ativar o provedor em ambiente de teste clicando em **Ativar modo de teste**.
-7. Em **Campos do provedor**, selecione ou preencha os campos **clientId**, **clientSecret**, **userId**, **useSandbox** e **integratedCheckout** conforme orientações do provedor.
+7. Em **Campos do provedor**, selecione ou preencha os campos **clientId**, **clientSecret**, **userId**, **useSandbox**, **paymentPagePath** e **integratedCheckout** conforme orientações do provedor.
 8. Clique em `Salvar`.
 
 Para configurar o pagamento por meio de promissória, acesse [Configurar pagamentos com Promissória](https://help.vtex.com/pt/docs/tutorials/configurar-pagamentos-com-promissoria).
