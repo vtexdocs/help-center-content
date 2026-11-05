@@ -34,7 +34,7 @@ To set up the Holidays, follow the steps below:
 3. In the **Weekends and Holidays** section, make sure the option `Holiday delivery` disabled <i class="fas fa-toggle-off"></i>.
 4. Click on `Save`.
 
-> ℹ️ You may configure holidays for the years to come.
+> ℹ️ You may configure holidays for the years to come. You can register up to 250 holidays in your store.
 
 ## How to consider holidays when calculating shipping time
 

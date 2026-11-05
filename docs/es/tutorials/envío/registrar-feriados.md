@@ -34,7 +34,7 @@ Solo se considerarán **Feriados** para las transportadoras con la configuració
 3. En la sección **Fines de semana y feriados**, asegúrese de que la opción `Entrega feriados` esté desactivada <i class="fas fa-toggle-off"></i>.
 4. Haga clic en `Guardar`.
 
-> ℹ️ Usted puede definir Feriados para los próximos años con antelación.
+> ℹ️ Usted puede definir Feriados para los próximos años con antelación. Es posible registrar hasta 250 feriados en la tienda.
 
 ## Cómo se calcula el tiempo de envío con feriados
 

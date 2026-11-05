@@ -3,7 +3,7 @@ title: 'Master Data'
 id: 4otjBnR27u4WUIciQsmkAw
 status: PUBLISHED
 createdAt: 2018-04-02T19:01:38.026Z
-updatedAt: 2026-07-20T00:00:00.000Z
+updatedAt: 2026-10-08T00:00:00.000Z
 publishedAt: 2025-08-29T14:19:54.707Z
 firstPublishedAt: 2018-04-02T20:54:18.272Z
 contentType: tutorial
@@ -289,16 +289,18 @@ Para conhecer os valores aplicáveis à sua operação, consulte seu contrato co
 
 A cada pagamento realizado durante a vigência do contrato, é concedido um crédito de faturamento equivalente a 2% do valor líquido pago pelos produtos VTEX Commerce Platform e CX Commerce Platform. Os créditos acumulam ao longo do contrato e ficam disponíveis para uso até o seu encerramento.
 
+> ℹ️ Esse crédito compõe a sua Carteira de Crédito. Para saber mais sobre como ele é calculado e como consultar o saldo e o consumo, veja o artigo [Carteira de Crédito](/pt/docs/tutorials/carteira-de-credito).
+
 A medição e a cobrança seguem um ciclo mensal:
 
 - Ao final de cada mês, é gerado um snapshot do volume de documentos armazenados em entidades não nativas.
 - Até o dia 30 de cada mês, a VTEX calcula os valores referentes ao uso do Master Data e os créditos aplicáveis para a próxima fatura.
 
-> ⚠️ Excluir uma entidade de dados pela interface do Master Data v1 **não** remove os documentos (registros) já armazenados. O volume faturado permanece inalterado até que os registros sejam removidos pela API. Para excluir documentos e reduzir a cobrança, consulte o guia [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) no portal de desenvolvedores.
+> ⚠️ Excluir uma entidade de dados pela interface do Master Data v1 **não** remove os documentos (registros) já armazenados. O volume faturado permanece inalterado até que os registros sejam removidos pela API. Para excluir documentos e reduzir a cobrança, consulte o guia [Deleting documents in bulk in Master Data](https://developers.vtex.com/docs/guides/deleting-documents-in-bulk-in-master-data) no portal de desenvolvedores.
 
 > ℹ️ Para monitorar o volume de documentos em entidades personalizadas ao longo do mês, consulte o dashboard **Master Data usage** no Admin VTEX. Este dashboard é atualizado semanalmente e destinado apenas ao acompanhamento do uso. Para saber como acessá-lo, veja [Consultar o uso do Master Data no Admin VTEX](/pt/docs/tutorials/consultar-o-uso-do-master-data-no-admin-vtex).
 
-> ℹ️ Para consultar o detalhamento de cobranças, veja como [fazer o download das faturas da VTEX](/pt/docs/tutorials/como-fazer-download-faturas-da-vtex).
+> ℹ️ Para consultar o detalhamento de cobranças, veja como [Baixar faturas da VTEX](/pt/docs/tutorials/baixar-faturas-da-vtex).
 
 ## Casos de uso
 

@@ -25,7 +25,7 @@ O [Carrefour Marketplace](https://marketplace.carrefour.com.br/login) exige o ca
 
 Utilize a seguinte rota API GET substituindo `{accountName}` pelo [nome da sua loja](/pt/docs/tutorials/o-que-e-account-name) na plataforma VTEX.
 
-`http://portal.vtexcommercestable.com.br/api/carrefourintegration/pub/{accountName}/freight`
+`https://portal.vtexcommercestable.com.br/api/carrefourintegration/pub/{accountName}/freight`
 
 Em caso de dúvidas, assista ao tutorial do Carrefour [“Como configurar a Intelipost no Carrefour”](https://www.youtube.com/watch?v=hDn-pAwd5jY).
 

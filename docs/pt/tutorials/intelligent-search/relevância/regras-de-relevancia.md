@@ -13,6 +13,7 @@ slugEN: relevance-rules
 legacySlug: regras-de-relevancia
 locale: pt
 subcategoryId: 32zXHBMygA2dB6TbCjQJej
+order: 6
 ---
 
 As **Regras de relevância** definem a ordem em que os produtos são exibidos nos resultados de busca nas páginas de listagem de produtos (PLP). A ordem muda de acordo com os critérios e prioridades configurados.

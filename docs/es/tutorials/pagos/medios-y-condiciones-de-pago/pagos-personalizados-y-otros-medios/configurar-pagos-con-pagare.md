@@ -1,18 +1,12 @@
 ---
 title: 'Configurar pagos con Pagaré'
-id: 5pW7avTwtyQcMu4uiW8quQ
-status: PUBLISHED
 createdAt: 2018-06-21T20:20:24.484Z
-updatedAt: 2025-02-26T18:35:04.108Z
-publishedAt: 2025-02-26T18:35:04.108Z
-firstPublishedAt: 2018-06-25T15:42:31.515Z
+updatedAt: 2026-10-22T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 245tA425AIeioKAk2eaiwS
 slugEN: setting-up-payments-with-notes-payable
-legacySlug: configurar-pagos-con-pagare
 locale: es
-subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+hidden: false
 ---
 
 En VTEX, su tienda puede recibir pagos a través de pagarés. Para habilitar esta opción, debe realizar los siguientes pasos:
@@ -50,6 +44,8 @@ Después de registrar el proveedor de pagos, siga los pasos a continuación:
 Los pagarés se facturan en el momento de la autorización del pago. Al configurar este campo, la facturación no se producirá al momento de la autorización, sino después del número de días que establezca.
 
 5. Haga clic en `Salvar`.
+
+> ⚠️ El Admin VTEX permite configurar hasta 20 pagarés personalizados de forma predeterminada. Para ampliar este límite (máximo de 100 por cuenta), abre un ticket con el [Soporte VTEX](https://supporticket.vtex.com/support).
 
 ## Configurar las condiciones de pago
 

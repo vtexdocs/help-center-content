@@ -13,6 +13,7 @@ slugEN: merchandising-rules-list
 legacySlug: lista-de-regras-de-merchandising
 locale: pt
 subcategoryId: 32zXHBMygA2dB6TbCjQJej
+order: 5
 ---
 
 No Admin VTEX, a página **Storefront** > **Intelligent Search** > **Regras de merchandising** permite que você realize as seguintes ações: 

@@ -3,7 +3,7 @@ title: 'Integração com MadeiraMadeira'
 id: J4QCENKiz4urYNfaMuE0i
 status: PUBLISHED
 createdAt: 2021-11-05T21:04:22.888Z
-updatedAt: 2024-02-19T20:17:16.961Z
+updatedAt: 2026-11-04T17:45:00.000Z
 publishedAt: 2024-02-19T20:17:16.961Z
 firstPublishedAt: 2021-11-05T21:34:03.556Z
 contentType: tutorial
@@ -125,16 +125,6 @@ Uma vez concluídas as configurações na plataforma VTEX, para dar continuidade
 - **E-mail do responsável pela integração:** preencha com um email do responsável pela integração da sua loja com a MadeiraMadeira.
 - **Telefone do responsável pela integração:** cadastre um telefone para contato.
 CNPJ da empresa: preencher com o CNPJ da sua loja.
-
-### Reindexar base dos produtos
-
-Depois de concluir o preenchimento do formulário com as informações solicitadas, o suporte do MadeiraMaderia enviará um e-mail solicitando a [reindexação da base](/pt/docs/tutorials/manutencao-de-base-full-cleanup) dos produtos. Entretanto, somente usuários Master conseguem realizar essa etapa. Para reindexar, siga os passos a seguir: 
-
-1. Acesse a URL abaixo, substituindo *{accountname}* pelo nome da sua loja.
-
-  `https://{accountName}.myvtex.com/admin/Site/fullcleanup.aspx`
-
-2. Clique no botão `Reindexar Base`.
 
 Uma vez que você tenha concluído todas as etapas anteriores, sua loja será integrada na plataforma da MadeiraMadeira e a integração será concluída pelo parceiro.
 

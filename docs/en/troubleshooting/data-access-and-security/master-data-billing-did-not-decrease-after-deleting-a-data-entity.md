@@ -27,7 +27,7 @@ To solve this problem, follow the steps below:
 
 ### Deleting the entity documents via the API
 
-Follow the instructions in the [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) guide to delete the documents stored in the data entity. Only this deletion via API reduces the volume counted in the monthly billing.
+Follow the instructions in the [Deleting documents in bulk in Master Data](https://developers.vtex.com/docs/guides/deleting-documents-in-bulk-in-master-data) guide to delete the documents stored in the data entity. Only this deletion via API reduces the volume counted in the monthly billing.
 
 ### Confirming the decrease in the Master Data usage dashboard
 

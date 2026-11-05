@@ -3,7 +3,7 @@ title: 'VTEX Shield'
 id: 2CVk6H9eY2CBtHjtDI7BFh
 status: PUBLISHED
 createdAt: 2024-04-25T00:31:01.895Z
-updatedAt: 2025-05-21T23:32:42.108Z
+updatedAt: 2026-10-13T19:34:16.000Z
 publishedAt: 2025-05-21T23:32:42.108Z
 firstPublishedAt: 2024-04-25T01:19:00.025Z
 contentType: tutorial
@@ -28,6 +28,8 @@ When requesting VTEX Shield, you can choose from the following features:
 * [Data Protection Plus](#data-protection-plus)
 * [Customized SSL Certificates](#customized-ssl-certificates)
 * [Mutual Transport Layer Security (mTLS)](#mutual-transport-layer-security-mtls)
+
+VTEX Shield makes [Fraud Prevention](#fraud-prevention) available to all accounts, regardless of whether you adopt the other features.
 
 ## Security Monitor
 
@@ -64,3 +66,9 @@ The **SSL certificates** page in the VTEX Admin allows you to install and manage
 Mutual Transport Layer Security (mTLS) is an advanced security solution offered by VTEX Shield, which reinforces the protection of integrations between external systems and VTEX. This extra layer of protection is applicable to integration scenarios via APIs, such as headless stores or connections with ERPs and WMS.
 
 Unlike traditional TLS, in which only the server needs to prove its identity, mTLS requires mutual authentication: both the client and the server present valid digital certificates, ensuring that both sides of the communication are trustworthy before exchanging data. Learn more at [Mutual Transport Layer Security (mTLS)](/en/docs/tutorials/mutual-transport-layer-security-mtls).
+
+## Fraud Prevention
+
+Fraud Prevention protects your store against card testing attacks by analyzing each payment attempt at checkout and assigning a fraud score that indicates the probability that the transaction is part of an attack.
+
+Although it is part of VTEX Shield, this feature is available to all accounts, regardless of whether you adopt the other features of the product. Learn more at [Fraud Prevention](https://help.vtex.com/en/docs/tutorials/fraud-prevention).
