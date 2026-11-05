@@ -44,7 +44,7 @@ To check the details of each invoice, read the article [Check invoice details](/
 
 ## Registration Information
 
-The **Registration Information** page includes the data you entered when registering your store. Only the store name and address are available for editing. To change other information, see the article [Changing my store’s registration details](/en/docs/tutorials/changing-the-stores-registration-details).
+The **Registration Information** page includes the data you entered when registering your store. Only the store name and address are available for editing. To change other information, see the article [Changing my store’s registration details](/en/docs/tutorials/changing-the-store-information).
 
 ## Billing Contacts
 

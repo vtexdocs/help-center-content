@@ -44,7 +44,7 @@ Para consultar el detalle de cada factura consulta el artículo [Verificar el de
 
 ## Datos de registro
 
-La página **Datos de registro** reúne la información que ingresaste al registrar tu tienda. Solo puedes editar tu nombre y tu dirección. Para modificar otra información consulta el artículo [Modificar los datos de registro de mi tienda](/es/docs/tutorials/modificar-los-datos-de-registro-de-la-tienda).
+La página **Datos de registro** reúne la información que ingresaste al registrar tu tienda. Solo puedes editar tu nombre y tu dirección. Para modificar otra información consulta el artículo [Modificar los datos de registro de mi tienda](/es/docs/tutorials/modificar-datos-de-registro-de-la-tienda).
 
 ## Contactos de facturación
 
