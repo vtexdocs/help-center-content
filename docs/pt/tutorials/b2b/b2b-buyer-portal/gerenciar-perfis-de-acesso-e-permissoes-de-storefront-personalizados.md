@@ -8,13 +8,13 @@ slugEN: manage-custom-storefront-roles-and-permissions
 locale: pt
 ---
 
-> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
+> ⚠️ Esta funcionalidade é exclusiva para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
 
-A página **Permissões personalizadas** possibilita que você visualize os perfis de acesso e as permissões de storefront personalizados da sua conta e os gerencie pelo VTEX Admin.
+A página **Permissões personalizadas** possibilita que você visualize os perfis de acesso e as permissões de storefront personalizados da sua conta e os gerencie pelo Admin VTEX.
 
 Para entender os conceitos, as regras e a lista de perfis e permissões predefinidos, leia [Perfis de acesso e permissões de storefront personalizados](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-e-permissoes-de-storefront-personalizados).
 
-Para acessar a página no VTEX Admin, clique em **Configurações > Permissões personalizadas**.
+Para acessar a página no Admin VTEX, clique em **Configurações > Permissões personalizadas**.
 
 A partir desta página, você pode:
 
@@ -30,7 +30,7 @@ A partir desta página, você pode:
 
 Dois requisitos precisam ser atendidos para acessar a página **Permissões personalizadas**:
 
-- A conta precisa utilizar o [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). Em contas que não estão nessa edição, a página não fica visível nem pode ser acessada.
+- A conta precisa utilizar o [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). Em contas que não usam essa solução, a página não fica visível nem pode ser acessada.
 - O usuário deve ter um perfil de acesso do Admin com o [recurso do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager) **Edit Storefront User Permissions**, na categoria **Services access control**. Sem esse recurso, o usuário não vê a página.
 
 ### Aba Perfis
@@ -70,7 +70,7 @@ A lista de permissões apresenta as permissões personalizadas da conta, com as 
 | **Criado em** | Data de criação da permissão. Ao passar o cursor sobre a data, uma dica mostra o dia e o horário exatos. |
 | **Ações** | Menu com a ação de `Excluir` uma permissão. |
 
-O menu na linha de cada permissão apresenta a opção **Excluir**, que remove a permissão depois de uma confirmação. A opção fica desabilitada enquanto a permissão estiver em uso por algum perfil de acesso. Leia [Excluir permissão de storefront personalizada](#excluir-permissao-de-storefront-personalizada). Não é possível editar uma permissão depois de criada.
+Você não pode editar uma permissão depois de criá-la, apenas excluí-la. Para isso, use a opção **Excluir** no menu da linha da permissão e confirme a ação. A opção fica desabilitada enquanto algum perfil de acesso estiver usando a permissão. Para mais detalhes, leia [Excluir permissão de storefront personalizada](#excluir-permissao-de-storefront-personalizada).
 
 ## Gerenciar perfis de acesso de storefront personalizados
 
@@ -80,11 +80,11 @@ Nesta seção, você aprende a criar, editar e excluir perfis de acesso personal
 
 Para criar um perfil de acesso personalizado, siga as instruções abaixo:
 
-1. No VTEX Admin, acesse **Configurações > Permissões personalizadas**.
+1. No Admin VTEX, acesse **Configurações > Permissões personalizadas**.
 2. Na aba **Perfis**, clique em `Criar perfil`.
 3. Em **Nome**, digite o nome do perfil.
 
-    > ⚠️ É importante escolher nomes descritivos para os perfis de acesso, deixando claro que tipo de usuário deve ter aquele acesso.
+    > ⚠️ Escolha nomes descritivos para os perfis de acesso, que deixem claro o tipo de usuário a que cada perfil se destina.
 4. Na lista de permissões, marque as que o perfil deve conter. Para encontrá-las mais rápido, você pode buscar pelo nome da permissão ou filtrar por **Tipo**: **Todos**, **Personalizados** ou **Predefinidos**.
 5. Clique em `Criar perfil`.
 
@@ -105,11 +105,11 @@ Se a conta já tiver 10 permissões personalizadas, a opção **Criar uma permis
 
 ### Editar perfil de acesso de storefront personalizado
 
-> ⚠️ Ao remover uma permissão de um perfil de acesso, a alteração vale imediatamente para todos os usuários que têm esse perfil.
+> ⚠️ Ao remover uma permissão de um perfil de acesso, a alteração entra em vigor imediatamente para todos os usuários que têm esse perfil.
 
 Para editar um perfil de acesso personalizado, siga as instruções abaixo:
 
-1. No VTEX Admin, acesse **Configurações > Permissões personalizadas**.
+1. No Admin VTEX, acesse **Configurações > Permissões personalizadas**.
 2. Na aba **Perfis**, clique no ícone de menu (⋮) do perfil que você quer editar e selecione `Editar perfil`.
 3. Altere o nome ou as permissões do perfil.
 
@@ -122,14 +122,14 @@ Para editar um perfil de acesso personalizado, siga as instruções abaixo:
 
 Para excluir um perfil de acesso personalizado, siga as instruções abaixo:
 
-1. No VTEX Admin, acesse **Configurações > Permissões personalizadas**.
+1. No Admin VTEX, acesse **Configurações > Permissões personalizadas**.
 2. Na aba **Perfis**, clique no ícone de menu (⋮) do perfil que você quer excluir.
 3. Clique em `Excluir`.
 4. Na janela de confirmação, clique em `Excluir` novamente.
 
     Uma mensagem confirma a exclusão e o perfil é removido da lista.
 
-Se a opção **Excluir** estiver desabilitada, o perfil está atribuído a algum usuário, e a dica explica o motivo. Para excluí-lo, remova o perfil de todos os usuários que o têm. Saiba como em [Adicionar usuários à organização compradora](https://help.vtex.com/pt/docs/tutorials/adicionar-usuarios-a-organizacao-compradora).
+Se a opção **Excluir** estiver desabilitada, o perfil ainda está atribuído a algum usuário. Passe o cursor sobre a opção para ver o motivo. Para excluir o perfil, remova-o de todos os usuários que o utilizam. Saiba como em [Adicionar usuários à organização compradora](https://help.vtex.com/pt/docs/tutorials/adicionar-usuarios-a-organizacao-compradora).
 
 ## Gerenciar permissões de storefront personalizadas
 
@@ -139,7 +139,7 @@ Nesta seção, você aprende a criar e excluir permissões personalizadas. Não 
 
 Para criar uma permissão personalizada, siga as instruções abaixo:
 
-1. No VTEX Admin, acesse **Configurações > Permissões personalizadas**.
+1. No Admin VTEX, acesse **Configurações > Permissões personalizadas**.
 2. Na aba **Permissões**, clique em `Criar permissão`.
 3. Em **Nome**, digite o nome da permissão.
 
@@ -153,14 +153,14 @@ Para criar uma permissão personalizada, siga as instruções abaixo:
 
 Para excluir uma permissão personalizada, siga as instruções abaixo:
 
-1. No VTEX Admin, acesse **Configurações > Permissões personalizadas**.
+1. No Admin VTEX, acesse **Configurações > Permissões personalizadas**.
 2. Na aba **Permissões**, clique no ícone de menu (⋮) da permissão que você quer excluir.
 3. Clique em `Excluir`.
 4. Na janela de confirmação, clique em `Excluir` novamente.
 
     Uma mensagem confirma a exclusão e a permissão é removida da lista. Se a conta estava no limite de 10 permissões personalizadas, o botão `Criar permissão` volta a ficar disponível.
 
-Se a opção **Excluir** estiver desabilitada, a permissão está em uso por algum perfil de acesso, e a dica informa quantos perfis a utilizam. A coluna **Perfis que utilizam** mostra quais são. Para excluir a permissão, remova-a de cada um desses perfis, seguindo os passos de [Editar perfil de acesso de storefront personalizado](#editar-perfil-de-acesso-de-storefront-personalizado).
+Se a opção **Excluir** estiver desabilitada, a permissão ainda está em uso por algum perfil de acesso. Passe o cursor sobre a opção para ver quantos perfis a utilizam. A coluna **Perfis que utilizam** mostra quais são. Para excluir a permissão, remova-a de cada um desses perfis, seguindo os passos de [Editar perfil de acesso de storefront personalizado](#editar-perfil-de-acesso-de-storefront-personalizado).
 
 > ℹ️ Para gerenciar perfis de acesso e permissões personalizados via API, acesse a [Storefront Roles API](https://developers.vtex.com/docs/api-reference/storefront-roles-api) e o guia para desenvolvedores [Custom storefront roles and resources](https://developers.vtex.com/docs/guides/custom-storefront-roles-and-resources).
 

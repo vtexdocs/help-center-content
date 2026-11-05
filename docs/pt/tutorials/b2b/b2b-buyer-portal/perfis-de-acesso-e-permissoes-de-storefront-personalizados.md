@@ -8,13 +8,13 @@ slugEN: custom-storefront-roles-and-permissions-overview
 locale: pt
 ---
 
-> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
+> ⚠️ Esta funcionalidade é exclusiva para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
 
 No B2B Buyer Portal, o que cada usuário de uma organização compradora pode fazer na loja é definido por [perfis de acesso de storefront](#perfis-de-acesso-de-storefront), que reúnem [permissões](#permissoes-de-storefront) para acessar recursos no site da loja, como por exemplo `PlaceOrders` (fazer pedidos) ou `ApproveOrders` (aprovar pedidos).
 
 A VTEX oferece perfis de acesso e permissões predefinidos e, para cenários específicos do seu negócio, você também pode criar perfis e permissões personalizadas por API ou pelo Admin VTEX.
 
-> ℹ️ No VTEX Admin, esses itens aparecem como **permissões**. Na API e nos eventos do [Audit](https://help.vtex.com/pt/docs/tutorials/audit), eles são chamados de **recursos** (*resources*), como em `Create Storefront Custom Resource`. Não confunda com os [recursos do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager), que controlam o acesso ao Admin.
+> ℹ️ No Admin VTEX, as permissões personalizadas aparecem como **permissões**. Na API e nos eventos do [Audit](https://help.vtex.com/pt/docs/tutorials/audit), eles são chamados de **recursos** (*resources*), como em `Create Storefront Custom Resource`. Não confunda com os [recursos do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager), que controlam o acesso ao Admin.
 
 Confira a seguir mais detalhes sobre esses conceitos.
 
