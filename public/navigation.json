@@ -28038,8 +28038,8 @@
                     {
                       "name": {
                         "en": "Setting up payments with PagarMeV3",
-                        "es": "Configurar pago con PagarMeV3",
-                        "pt": "Configurar pagamento com PagarMeV3"
+                        "es": "Configurar pago con PagarMeV3 (Stone)",
+                        "pt": "Configurar pagamento com PagarMeV3 (Stone)"
                       },
                       "slug": {
                         "en": "setting-up-payments-with-pagarmev3",
@@ -63913,6 +63913,21 @@
                 "en": "transaction-stuck-in-cancelling-when-payments-are-finished",
                 "es": "la-transaccion-se-queda-bloqueada-en-cancelando-cuando-los-pagos-estan-finalizados",
                 "pt": "transacao-presa-em-cancelando-quando-os-pagamentos-estao-concluidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transaction stuck in \"Cancelling\" although the payment provider confirmed the cancellation",
+                "es": "La transacción se quedó atascada en \"Cancelando\" aunque el proveedor de pagos confirmó la cancelación.",
+                "pt": "Transação presa em \"Cancelando\", embora o provedor de pagamento tenha confirmado o cancelamento."
+              },
+              "slug": {
+                "en": "transaction-stuck-in-cancelling-although-the-payment-provider-confirmed-the-cancellation",
+                "es": "la-transaccion-se-quedo-atascada-en-cancelando-aunque-el-proveedor-de-pagos-confirmo-la-cancelacion",
+                "pt": "transacao-presa-em-cancelando-embora-o-provedor-de-pagamento-tenha-confirmado-o-cancelamento"
               },
               "origin": "",
               "type": "markdown",
