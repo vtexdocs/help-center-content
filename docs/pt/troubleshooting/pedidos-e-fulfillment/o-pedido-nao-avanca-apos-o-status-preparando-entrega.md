@@ -40,7 +40,7 @@ Após essa confirmação, para verificar se o status mudou, siga os passos a seg
 2. Acesse o pedido desejado.
 3. Na [página de detalhes do pedido](/pt/docs/tutorials/pagina-de-detalhes-do-pedido), verifique se o seu status foi alterado para `Faturado`.
 
-> ℹ️ Se o pedido continuar no status `Preparando entrega`, verifique se existe alguma inconsistência na comunicação com o marketplace. Saiba mais em [O pedido foi faturado no ERP mas continua no status "Preparando Entrega". O que fazer?](/pt/faq/o-pedido-foi-faturado-no-erp-mas-continua-no-status-preparando-entrega).
+> ℹ️ Se o pedido continuar no status `Preparando entrega`, verifique se existe alguma inconsistência na comunicação com o marketplace. Saiba mais em [O pedido foi faturado no ERP, mas continua no status "Preparando Entrega". O que fazer?](/pt/faq/o-pedido-foi-faturado-no-erp-mas-continua-no-status-preparando-entrega).
 
 ### Cadastrar notas fiscais manualmente
 
