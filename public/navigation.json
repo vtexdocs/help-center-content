@@ -43876,6 +43876,21 @@
             },
             {
               "name": {
+                "en": "Products can enter inactive state despite all skus being inactive",
+                "es": "Los productos pueden entrar en estado inactivo a pesar de que todos los SKU estén inactivos.",
+                "pt": "Os produtos podem entrar em estado inativo mesmo que todos os SKUs estejam inativos."
+              },
+              "slug": {
+                "en": "products-can-enter-inactive-state-despite-all-skus-being-inactive",
+                "es": "los-productos-pueden-entrar-en-estado-inactivo-a-pesar-de-que-todos-los-sku-esten-inactivos",
+                "pt": "os-produtos-podem-entrar-em-estado-inativo-mesmo-que-todos-os-skus-estejam-inativos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Products without SKU are not returned in the admin when searching by Product ID",
                 "es": "Los productos sin SKU no aparecen en el panel de administración al realizar una búsqueda por ID de producto",
                 "pt": "Os produtos sem SKU não são exibidos no painel de administração ao pesquisar pelo ID do produto"
@@ -61145,6 +61160,21 @@
             },
             {
               "name": {
+                "en": "Payment cancellation delayed over one hour after antifraud rejection in native split transactions",
+                "es": "La cancelación del pago se retrasó más de una hora tras el rechazo por parte del sistema antifraude en transacciones divididas nativas.",
+                "pt": "Cancelamento de pagamento atrasado em mais de uma hora após rejeição antifraude em transações nativas divididas."
+              },
+              "slug": {
+                "en": "payment-cancellation-delayed-over-one-hour-after-antifraud-rejection-in-native-split-transactions",
+                "es": "la-cancelacion-del-pago-se-retraso-mas-de-una-hora-tras-el-rechazo-por-parte-del-sistema-antifraude-en-transacciones-divididas-nativas",
+                "pt": "cancelamento-de-pagamento-atrasado-em-mais-de-uma-hora-apos-rejeicao-antifraude-em-transacoes-nativas-divididas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Co-branded saved card with wrong payment system id",
                 "es": "Tarjeta guardada de marca compartida con un identificador de sistema de pago incorrecto",
                 "pt": "Cartão salvo em co-branding com ID incorreta do sistema de pagamento"
@@ -63883,6 +63913,21 @@
                 "en": "transaction-stuck-in-cancelling-when-payments-are-finished",
                 "es": "la-transaccion-se-queda-bloqueada-en-cancelando-cuando-los-pagos-estan-finalizados",
                 "pt": "transacao-presa-em-cancelando-quando-os-pagamentos-estao-concluidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transaction stuck in \"Cancelling\" although the payment provider confirmed the cancellation",
+                "es": "La transacción se quedó atascada en \"Cancelando\" aunque el proveedor de pagos confirmó la cancelación.",
+                "pt": "Transação presa em \"Cancelando\", embora o provedor de pagamento tenha confirmado o cancelamento."
+              },
+              "slug": {
+                "en": "transaction-stuck-in-cancelling-although-the-payment-provider-confirmed-the-cancellation",
+                "es": "la-transaccion-se-quedo-atascada-en-cancelando-aunque-el-proveedor-de-pagos-confirmo-la-cancelacion",
+                "pt": "transacao-presa-em-cancelando-embora-o-provedor-de-pagamento-tenha-confirmado-o-cancelamento"
               },
               "origin": "",
               "type": "markdown",
@@ -70676,52 +70721,6 @@
                 "en": "shopee-catalog-sync-blocked-due-to-excess-variation-attributes",
                 "es": "sincronizacion-del-catalogo-bloqueada-debido-a-un-exceso-de-atributos-de-variacion",
                 "pt": "sincronizacao-do-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "Personal shopper",
-            "es": "Personal shopper",
-            "pt": "Personal shopper"
-          },
-          "slug": {
-            "en": "personal-shopper",
-            "es": "personal-shopper",
-            "pt": "personal-shopper"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Only one agent receives email notification in active call",
-                "es": "Solo un agente recibe notificación por correo electrónico en una llamada activa.",
-                "pt": "Apenas um agente recebe notificação por e-mail em uma chamada ativa."
-              },
-              "slug": {
-                "en": "only-one-agent-receives-email-notification-in-active-call",
-                "es": "solo-un-agente-recibe-notificacion-por-correo-electronico-en-una-llamada-activa",
-                "pt": "apenas-um-agente-recebe-notificacao-por-email-em-uma-chamada-ativa"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Notifications from the personal shopper are not arriving on WhatsApp.",
-                "es": "Las notificaciones del personal shopper no llegan a WhatsApp.",
-                "pt": "As notificações do personal shopper não estão chegando no WhatsApp."
-              },
-              "slug": {
-                "en": "notifications-from-the-personal-shopper-are-not-arriving-on-whatsapp",
-                "es": "las-notificaciones-del-personal-shopper-no-llegan-a-whatsapp",
-                "pt": "as-notificacoes-do-personal-shopper-nao-estao-chegando-no-whatsapp"
               },
               "origin": "",
               "type": "markdown",
