@@ -1,22 +1,24 @@
 ---
 title: 'Consultar Carteira de Crédito'
 createdAt: '2026-10-08T00:00:00.000Z'
-updatedAt: '2026-10-08T00:00:00.000Z'
+updatedAt: '2026-11-05T00:00:00.000Z'
 contentType: tutorial
 productTeam: Billing
 slugEN: checking-credit-wallet
 locale: pt
 ---
 
-Para acessar a Carteira de Crédito, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito da tela. Em seguida, clique em **Informações de faturamento > Créditos**.
+Para acessar a carteira de crédito, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito da tela. Em seguida, clique em **Informações de faturamento > Créditos**.
 
 > ⚠️ Somente usuários com o perfil de acesso [Finance](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance), [Finance Full Access](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance-full-access) ou com o recurso `View Credits` de [Billing](/pt/docs/tutorials/perfis-de-acesso-predefinidos#billing) vinculados ao perfil podem acessar a página **Créditos** no Admin VTEX.
 
 ![creditos-pt](https://cdn.jsdelivr.net/gh/vtexdocs/help-center-content@main/docs/pt/tutorials/admin-vtex/informacoes-de-faturamento/creditos/creditos-pt.png)
 
+> ⚠️ Se a sua loja usa uma edition customizada, ou seja, diferente das editions da VTEX (`vtex.edition-business@0.x` ou `vtex.edition-store@5.x`), a página **Créditos** pode não estar disponível no Admin VTEX. Se necessário, [abra um ticket para o Suporte VTEX](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex) e solicite a instalação do app de Billing (`[NOME-DO-APP-A-CONFIRMAR]`), que exibe as páginas de **Informações de faturamento**, incluindo **Créditos**.
+
 Na página **Créditos**, você encontra as seguintes informações:
 
-- **Saldo total**: o saldo atual da sua Carteira de Crédito.
+- **Saldo total**: o saldo atual da sua carteira de crédito.
 - **Cobertura estimada para o consumo atual**: estimativa de quantos meses o saldo atual cobriria, mantendo o ritmo de consumo recente. É uma projeção, não uma garantia — muda conforme sua operação cresce ou o consumo varia.
 - **Resumo anual de crédito**: resumo anual do crédito, com dois indicadores:
   - **Entradas e saídas**: total de crédito gerado ("entradas") e efetivamente usado para abater cobranças de Master Data ("saídas") no período. Crédito expirado é contabilizado separadamente (coluna **Expirado** do extrato) e não entra nesse número.
@@ -31,8 +33,8 @@ Na página **Créditos**, você encontra as seguintes informações:
 
 Para ver o consumo de Master Data, expanda a linha de um mês no **Extrato de crédito** e, na seção **Consumo por add-on**, no canto inferior esquerdo da tela, clique no card **Master Data**. Isso abre um painel lateral com:
 
-- **Custo estimado para o próximo ciclo**: custo bruto de Master Data no próximo ciclo, calculado com base no volume de documentos armazenados na última atualização do dashboard (semanal) — antes de aplicar o crédito da Carteira de Crédito.
-- **Cobertura pelo crédito**: percentual do custo estimado de Master Data para o próximo ciclo que é coberto pelo saldo atual da Carteira de Crédito. Se for menor que 100%, a diferença é cobrada na fatura.
+- **Custo estimado para o próximo ciclo**: custo bruto de Master Data no próximo ciclo, calculado com base no volume de documentos armazenados na última atualização do dashboard (semanal) — antes de aplicar o crédito da carteira de crédito.
+- **Cobertura pelo crédito**: percentual do custo estimado de Master Data para o próximo ciclo que é coberto pelo saldo atual da carteira de crédito. Se for menor que 100%, a diferença é cobrada na fatura.
 - **Documentos armazenados**: volume atual de documentos e o tier de preço correspondente.
 - **Volume de documentos** (gráfico): volume de documentos armazenados por mês. A barra do mês corrente mostra o acumulado até a última atualização do dashboard (última segunda-feira), não o volume final do mês — diferente das barras de meses já fechados, que mostram o total definitivo daquele mês.
 
