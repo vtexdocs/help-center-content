@@ -1,10 +1,10 @@
 ---
 title: 'Por que meus produtos estão sem estoque no marketplace?'
-excerpt: "A política comercial do marketplace precisa de doca, estoque e transportadora próprios. Depois, reindexe o catálogo para enviar o estoque."
+excerpt: "A política comercial do marketplace precisa de doca, estoque e transportadora próprios."
 id: frequentlyAskedQuestions_693
 status: PUBLISHED
 createdAt: 2017-04-27T22:29:36.839Z
-updatedAt: 2023-03-22T21:11:13.467Z
+updatedAt: 2026-11-04T17:45:00.000Z
 publishedAt: 2023-03-22T21:11:13.467Z
 firstPublishedAt: 2017-04-27T23:02:32.909Z
 contentType: frequentlyAskedQuestion
@@ -18,13 +18,6 @@ legacySlug: por-que-meus-produtos-estao-sem-estoque
 Caso o Marketplace utilize uma política comercial que não é utilizada por outro marketplace ou pela loja principal, é preciso que a logística seja configurada para esta nova política comercial.
 
 Isto é feito nas configurações da doca, onde a política comercial deve ser associada no campo **Canal de vendas**. Verifique também se a doca está associada a pelo menos um estoque e pelo menos uma transportadora.
-
-Após as configurações, é necessário realizar a indexação de todos os produtos da base, para que a integração ocorra.
-
-1. Com o usuário titular, acesse o link {{ACCOUNTNAME}}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx;
-2. Clique no botão **Reindexar Base**.
-
-Lembre-se! É possível acompanhar o status de indexação e o status de integração dos estoques. Para isso, acesse o [relatório de indexação](/pt/docs/tutorials/utilizar-o-relatorio-de-indexacao) e o modulo [Integrações](/pt/docs/tutorials/guia-de-integracao-para-marketplaces).
 
 ___ ATENÇÃO: Se o canal de vendas estiver configurado com uma coleção, é necessário verificar se o item pertence à coleção. Caso contrário, nenhuma informação do item será atualizada no parceiro.___
 
