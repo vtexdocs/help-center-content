@@ -25,7 +25,7 @@ Como em qualquer passo da compra, algo pode ocorrer com a integração. Porém, 
 
 ## Insira a chave de acesso com a nota fiscal
 
-Alguns marketplaces exigem o fornecimento da chave de acesso da nota fiscal no momento da inserção da nota fiscal no pedido. Sem essa informação, não é possível inserir dados de rastreio na VTEX por esses marketplaces.
+Alguns marketplaces exigem o fornecimento da chave de acesso da nota fiscal no momento da inserção da nota fiscal no pedido. Sem essa informação, não é possível inserir dados de rastreio na VTEX nesses marketplaces.
 
 Nesse caso, o pedido chega ao status faturado apenas na VTEX, sendo necessário atualizar o status manualmente no painel do próprio marketplace.
 
