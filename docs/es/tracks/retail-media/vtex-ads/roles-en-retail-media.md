@@ -3,7 +3,7 @@ title: 'Roles en retail media'
 id: 6uZNA50xAxvloMaVcQAET2
 status: PUBLISHED
 createdAt: 2025-05-29T17:39:53.267Z
-updatedAt: 2025-07-04T15:55:48.375Z
+updatedAt: 2026-11-06T00:00:00.000Z
 publishedAt: 2025-07-04T15:55:48.375Z
 firstPublishedAt: 2025-05-29T17:42:16.097Z
 contentType: trackArticle
