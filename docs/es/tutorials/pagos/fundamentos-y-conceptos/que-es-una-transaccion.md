@@ -1,9 +1,9 @@
 ---
-title: '¿Qué es una transacción?'
+title: 'Transacción de pago'
 id: 36vMP5PES4oUWMWQuskIQ6
 status: PUBLISHED
 createdAt: 2018-02-23T16:09:38.585Z
-updatedAt: 2026-09-24T19:30:00.000Z
+updatedAt: 2026-09-30T19:42:35.481Z
 publishedAt: 2023-09-28T16:00:07.059Z
 firstPublishedAt: 2018-02-26T20:24:17.085Z
 contentType: tutorial
@@ -15,11 +15,8 @@ locale: es
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 
-Llamamos **transacción** al intercambio de dinero por un producto o servicio. Así, el pago es solo una etapa de un proceso que implica un intenso flujo de intercambio de información entre varias partes: [gateways](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#gateway), [subadquirentes](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#subadquirente) y/o [adquirentes](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#adquirente), [redes de tarjeta](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#red-de-tarjeta) y [bancos emisores](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#banco-emisor).
+Una transacción es el movimiento del dinero al intercambiarse por un producto o servicio. El pago es una de las etapas de este proceso, que implica el intercambio de información entre gateways, subadquirentes y/o adquirentes, redes de tarjeta y bancos emisores (más información en [Agentes financieros en el flujo de pago](https://help.vtex.com/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago)).
 
-En una tienda VTEX, una transacción se inicia cada vez que un usuario elige una [condición de pago](/es/docs/tutorials/diferencia-entre-medios-de-pago-y-condiciones-de-pago) y cierra su pedido. A partir de ahí, los datos de la compra se envían para validación de cada uno de los integrantes del proceso. Usted puede realizar un seguimiento de cada paso del [flujo de la transacción](/es/docs/tutorials/flujo-de-la-transaccion-en-pagos) en Pagos. En él, usted visualiza exactamente la situación de un pago a través del status mostrado.
+En una tienda VTEX, cada pedido tiene al menos una transacción, identificada por el código de la transacción en el módulo Pago y compuesta por uno o más pagos del pedido. La transacción comienza cuando el cliente elige una [condición de pago](https://help.vtex.com/es/docs/tutorials/diferencia-entre-medios-de-pago-y-condiciones-de-pago) y completa el pedido. A partir de ese momento, los datos de la compra pasan a la validación de cada integrante del proceso.
 
-### Artículos relacionados
-- [Agentes financieros en el flujo de pago](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago)
-- [Diferencia entre medios de pago y condiciones de pago](/es/docs/tutorials/diferencia-entre-medios-de-pago-y-condiciones-de-pago)
-- [Flujo de transacción en Pagos](/es/docs/tutorials/flujo-de-la-transaccion-en-pagos)
+En el Admin VTEX, accede a **Pedidos > Transacciones** para buscar información sobre la transacción. El artículo [Flujo de la transacción en Pago](https://help.vtex.com/es/docs/tutorials/flujo-de-la-transaccion-en-pagos) describe los status de las transacciones, desde la autorización del pago hasta su finalización.
