@@ -70593,6 +70593,21 @@
             },
             {
               "name": {
+                "en": "Mercado Livre Error when re-authenticating the integration",
+                "es": "Mercado Livre Error al volver a autenticar la integración",
+                "pt": "Mercado Livre Erro ao reautenticar a integração"
+              },
+              "slug": {
+                "en": "mercado-livre-error-when-reauthenticating-the-integration",
+                "es": "mercado-livre-error-al-volver-a-autenticar-la-integracion",
+                "pt": "mercado-livre-erro-ao-reautenticar-a-integracao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Mercado Livre Order fails to reprocess when shipment is cancelled (ERR_UNAVAILABLE_SLA)",
                 "es": "Mercado Livre El pedido no se puede reprocesar cuando se cancela el envío (ERR_UNAVAILABLE_SLA)",
                 "pt": "Mercado Livre O pedido não pode ser reprocessado quando o envio é cancelado (ERR_UNAVAILABLE_SLA)"
