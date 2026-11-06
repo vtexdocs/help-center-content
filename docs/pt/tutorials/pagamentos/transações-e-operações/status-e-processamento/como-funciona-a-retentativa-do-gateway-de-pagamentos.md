@@ -3,7 +3,7 @@ title: 'Como funciona a retentativa do gateway de pagamentos?'
 id: 2JaHsjQIs0ceks0e2Mkwgu
 status: PUBLISHED
 createdAt: 2019-01-24T21:38:42.128Z
-updatedAt: 2019-12-31T15:27:07.836Z
+updatedAt: 2026-09-24T19:30:00.000Z
 publishedAt: 2019-12-31T15:27:07.836Z
 firstPublishedAt: 2019-01-24T21:38:42.460Z
 contentType: tutorial
@@ -28,6 +28,5 @@ Abaixo, seguem os casos onde o gateway da VTEX realiza as retentativas:
 
 ## Artigos relacionados
 
-- [O que é um gateway de pagamentos?](/pt/docs/tutorials/o-que-e-um-gateway-de-pagamentos)
+- [Agentes financeiros no fluxo de pagamento](/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento)
 - [Diferença entre meios de pagamento e condições de pagamento](/pt/docs/tutorials/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento)
-- [O que é um adquirente?](/pt/docs/tutorials/o-que-e-um-adquirente)

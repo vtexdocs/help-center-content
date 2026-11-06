@@ -3,7 +3,7 @@ title: 'How does payment gateway retry work?'
 id: 2JaHsjQIs0ceks0e2Mkwgu
 status: PUBLISHED
 createdAt: 2019-01-24T21:38:42.128Z
-updatedAt: 2019-12-31T15:27:07.836Z
+updatedAt: 2026-09-24T19:30:00.000Z
 publishedAt: 2019-12-31T15:27:07.836Z
 firstPublishedAt: 2019-01-24T21:38:42.460Z
 contentType: tutorial
@@ -28,6 +28,5 @@ Here are the cases in which VTEX gateway performs the retries:
 
 ## Related articles
 
-- [What is a payment gateway?](/en/docs/tutorials/what-is-a-payment-gateway)
+- [Financial agents in the payment flow](/en/docs/tutorials/financial-agents-in-the-payment-flow)
 - [Difference between payment methods and payment conditions](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions)
-- [What is an acquirer?](/en/docs/tutorials/what-is-an-acquirer)

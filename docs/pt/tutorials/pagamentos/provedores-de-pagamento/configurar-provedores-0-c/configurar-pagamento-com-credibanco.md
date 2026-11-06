@@ -1,21 +1,15 @@
 ---
 title: 'Configurar pagamento com Credibanco'
-id:
-status: PUBLISHED
 createdAt: 2025-12-11T00:00:00.000Z
-updatedAt: 2025-12-11T00:00:00.000Z
-publishedAt: 2025-12-11T00:00:00.000Z
-firstPublishedAt: 2025-12-11T00:00:00.000Z
+updatedAt: 2026-11-05T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-credibanco
-legacySlug: configurar-pagamento-com-credibanco
 locale: pt
-subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+hidden: false
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento Credibanco. Por meio deste provedor, sua loja pode realizar vendas por meio de cartões de crédito, PSE, Promissórias, Venda Direta Crédito, Venda Direta Débito, Bancolombia-Credibanco, Efecty-Credibanco e Datafono-Credibanco.
+Na VTEX, é possível realizar a integração com o provedor de pagamento Credibanco. Por meio deste provedor, sua loja pode realizar vendas por meio de cartões de crédito, PSE, Promissórias, Venda Direta Crédito, Venda Direta Débito, Bancolombia-Credibanco, Efecty-Credibanco, Datafono-Credibanco e Bre-B-Credibanco.
 
 Para configurar o Credibanco, siga os passos abaixo:
 

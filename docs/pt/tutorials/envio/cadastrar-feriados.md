@@ -34,7 +34,7 @@ A funcionalidade **Feriados** será considerada para transportadoras com a confi
 3. Na seção **Finais de semana e feriados**, certifique-se que a opção `Entrega em feriados` está com o switch desativado <i class="fas fa-toggle-off"></i>. 
 4. Clique em `Salvar`.
 
-> ℹ️ Você pode definir feriados para os anos seguintes.
+> ℹ️ Você pode definir feriados para os anos seguintes. É possível cadastrar até 250 feriados na loja.
 
 ## Como é feito o cálculo do envio com feriados
 

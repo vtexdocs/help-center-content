@@ -1,7 +1,7 @@
 ---
 title: 'Crear lista de recomendaciones (beta)'
 createdAt: 2026-03-17T13:01:10.919Z
-updatedAt: 2026-03-17T13:01:10.919Z
+updatedAt: 2026-10-09T15:18:22.000Z
 publishedAt: 2026-03-17T13:01:10.919Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -17,9 +17,18 @@ Esta guía describe cómo crear una nueva lista de recomendaciones desde el Admi
 
 > ⚠️ No recomendamos reutilizar la misma lista en múltiples posiciones en el frontend. Crea una lista para cada posición para hacer seguimiento de las métricas de desempeño de forma separada y con mayor granularidad.
 
-## Requisito
+## Requisitos
 
-Tener activada la funcionalidad de [Recomendaciones de productos](https://help.vtex.com/es/docs/tutorials/recomendaciones-de-productos-beta) en la tienda.
+* Tener activada la funcionalidad de [Recomendaciones de productos](https://help.vtex.com/es/docs/tutorials/recomendaciones-de-productos-beta) en la tienda.
+* Tener un [rol](https://help.vtex.com/es/docs/tutorials/roles) con los [recursos de License Manager](https://help.vtex.com/es/docs/tutorials/recursos-del-license-manager) a continuación. Sin el recurso *View Recommendations*, la página **Recomendaciones** no se abre en el Admin VTEX.
+
+  * **Producto:** *Recommendations*
+  * **Categoría:** *Recommendations*
+
+  | Recurso | Clave | Descripción |
+  | --- | --- | --- |
+  | *View Recommendations* | `ViewRecommendations` | Consulte la lista de recomendaciones en el panel de administración. |
+  | *Edit Recommendations* | `EditRecommendations` | Edita las recomendaciones en el panel de administración. |
 
 ## Crear lista de recomendaciones
 

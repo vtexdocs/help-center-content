@@ -1,7 +1,7 @@
 ---
 title: 'Creating recommendation lists (Beta)'
 createdAt: 2026-03-17T13:01:10.919Z
-updatedAt: 2026-03-17T13:01:10.919Z
+updatedAt: 2026-10-09T15:18:22.000Z
 publishedAt: 2026-03-17T13:01:10.919Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -17,9 +17,18 @@ This guide describes how to create a new recommendation list through the VTEX Ad
 
 > ⚠️ We don't recommend reusing the same list in multiple locations in the storefront. Create a list for each place to track performance metrics separately and in more detail.
 
-## Requirement
+## Requirements
 
-The [Product recommendations](https://help.vtex.com/en/docs/tutorials/product-recommendations-beta) feature must be enabled in your store.
+* The [Product recommendations](https://help.vtex.com/en/docs/tutorials/product-recommendations-beta) feature must be enabled in your store.
+* You need a [role](https://help.vtex.com/en/docs/tutorials/roles) with the [License Manager resources](https://help.vtex.com/en/docs/tutorials/license-manager-resources) below. Without the *View Recommendations* resource, the **Recommendations** page doesn't open in the VTEX Admin.
+
+  * **Product:** *Recommendations*
+  * **Category:** *Recommendations*
+
+  | Resource | Key | Description |
+  | --- | --- | --- |
+  | *View Recommendations* | `ViewRecommendations` | View the list of recommendations in the Admin panel. |
+  | *Edit Recommendations* | `EditRecommendations` | Edit recommendations in the Admin panel. |
 
 ## Creating recommendation lists
 

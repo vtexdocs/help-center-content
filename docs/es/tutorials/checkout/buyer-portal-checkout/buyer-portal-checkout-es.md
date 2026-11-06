@@ -83,7 +83,7 @@ En Buyer Portal Checkout, los usuarios pueden seleccionar direcciones de envío 
 
 ### Múltiples opciones de envío (Multidelivery)
 
-La funcionalidad permite que los compradores elijan diferentes combinaciones de [opciones de envío](https://help.vtex.com/es/docs/tutorials/opciones-de-envio-beta) para cada ítem del carrito, proporcionando más flexibilidad en el chekout.
+La funcionalidad permite que los compradores elijan diferentes combinaciones de [opciones de envío](https://help.vtex.com/es/docs/tutorials/opciones-de-envio) para cada ítem del carrito, proporcionando más flexibilidad en el chekout.
 
 ![Múltiples opciones de envío](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/buyer-portal-checkout/buyer-portal-checkout-es_6.png)
 
