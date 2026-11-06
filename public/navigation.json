@@ -70488,6 +70488,21 @@
             },
             {
               "name": {
+                "en": "Facebook “Review your account permission on Facebook” error requires support to remove the integration authentication",
+                "es": "Facebook El error \"Revisa los permisos de tu cuenta en Facebook\" requiere asistencia para eliminar la autenticación de integración.",
+                "pt": "Facebook O erro “Revise as permissões da sua conta no Facebook” requer suporte para remover a autenticação de integração."
+              },
+              "slug": {
+                "en": "facebook-review-your-account-permission-on-facebook-error-requires-support-to-remove-the-integration-authentication",
+                "es": "facebook-el-error-revisa-los-permisos-de-tu-cuenta-en-facebook-requiere-asistencia-para-eliminar-la-autenticacion-de-integracion",
+                "pt": "facebook-o-erro-revise-as-permissoes-da-sua-conta-no-facebook-requer-suporte-para-remover-a-autenticacao-de-integracao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "FBE PLP/PDP images intermittently fail to load when Meta",
                 "es": "FBE Las imágenes PLP/PDP fallan intermitentemente al cargarse cuando Meta",
                 "pt": "FBE Imagens PLP/PDP falham intermitentemente ao carregar o Meta"
@@ -70571,6 +70586,21 @@
                 "en": "mercado-livre-package-dimensions-are-now-mandatory-for-me1-items-on-mercado-livre",
                 "es": "mercado-livre-las-dimensiones-del-paquete-ahora-son-obligatorias-para-los-articulos-me1-en-mercado-livre",
                 "pt": "mercado-livre-dimensoes-das-embalagens-agora-sao-obrigatorias-para-itens-me1-no-mercado-livre"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Error when re-authenticating the integration",
+                "es": "Mercado Livre Error al volver a autenticar la integración",
+                "pt": "Mercado Livre Erro ao reautenticar a integração"
+              },
+              "slug": {
+                "en": "mercado-livre-error-when-reauthenticating-the-integration",
+                "es": "mercado-livre-error-al-volver-a-autenticar-la-integracion",
+                "pt": "mercado-livre-erro-ao-reautenticar-a-integracao"
               },
               "origin": "",
               "type": "markdown",
