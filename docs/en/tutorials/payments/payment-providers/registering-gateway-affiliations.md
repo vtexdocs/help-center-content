@@ -1,5 +1,5 @@
 ---
-title: 'Register payment and anti-fraud providers'
+title: 'Adding payment and anti-fraud providers'
 createdAt: 2017-04-27T22:05:18.209Z
 updatedAt: 2026-10-15T00:00:00.000Z
 contentType: tutorial
@@ -9,7 +9,9 @@ locale: en
 hidden: false
 ---
 
-VTEX allows you to set up different providers: gateways, acquirers, sub-acquirers, [orchestrators](https://www.y.uno/br), [PSPs](https://en.wikipedia.org/wiki/Payment_service_provider), and more. These allow you to provide your customers with different payment methods and conditions and antifraud protection services. Previously, these settings were referred to in our system as "gateway providers".
+VTEX allows you to configure different types of providers, such as gateways, acquirers, sub-acquirers, orchestrators, and payment service providers (PSPs), allowing you to offer your customers different payment methods and conditions, as well as anti-fraud protection services. Previously, these settings were known in our system as gateway affiliations.
+
+> ℹ️ To understand what each institution involved in payment operations does, see [Financial agents in the payment flow](/en/docs/tutorials/financial-agents-in-the-payment-flow).
 
 The provider management screen allows you to:
 
@@ -21,63 +23,61 @@ The provider management screen allows you to:
 
 ## Adding providers
 
-To add a new payment or antifraud provider to your store, follow the steps below:
+To add a new payment or anti-fraud provider to your store, follow the steps below:
 
-1. In the VTEX Admin, go to __Store Settings > Payments > Providers__, or type __Providers__ in the search bar at the top of the page.
+1. In the VTEX Admin, go to **Store Settings > Payment > Providers**, or type **Providers** in the search bar at the top of the page.
+
 2. Click `New Provider`.
-3. Click on your preferred payment provider.
-4. Complete the __App key__ and __App token__ fields with the information supplied by the payment provider.
-5. If a warning message is displayed indicating that you need to install the app, click the __Install App__ button and follow the installation instructions. This message is only displayed for some gateway provider types. 
-6. Click `Save`.
 
-> ℹ️ If there are other fields to be completed besides App key and App token (Step 6), the gateway provider must be configured according to the specific tutorial. For more information, see the [Payment Settings](/en/subcategory/payment-settings--3tDGibM2tqMyqIyukqmmMw) subsection.
+3. Type the name of the payment or anti-fraud provider in the search bar and click it.
 
-> ❗ The credentials used to complete the App key and Appn token fields must be supplied by the payment provider to identify the store. [Credentials generated in the Admin](/en/docs/tutorials/api-keys) starting with `vtexappkey-` should be used.
+4. Complete the **App key** and **App token** fields with the information from the provider.
 
-To configure the payment methods that will be processed by your chosen payment provider, read [Configuring Payment Conditions](/en/docs/tutorials/how-to-configure-payment-conditions).
+   > ⚠️ For some connectors, a message will ask you to install the app. If it appears, click `Install app` and follow the instructions.
 
-To set special conditions for payment methods, read [Configuring payment special  conditions](/en/docs/tutorials/special-conditions).
+5. Click `Save`.
+
+> ℹ️ Some providers require fields other than **App key** and **App token** (step 4) or the installation of an app. In these cases, configure the provider according to its specific tutorial, available in [List of payment providers by country](/en/docs/tutorials/list-of-payment-providers-by-country).
+
+> ❗ The credentials used to complete the **App key** and **App token** fields must be provided by the payment provider to identify the store. Don't use [credentials generated in the Admin](/en/docs/tutorials/api-keys), which start with `vtexappkey-`.
+
+After saving, the provider is displayed on the provider management screen. Next, in [Payment conditions](/en/docs/tutorials/how-to-configure-payment-conditions), define which payment methods it will process and, if needed, set up [special conditions](/en/docs/tutorials/special-conditions) for those methods.
 
 ![interface_provedor_EN_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-providers/registering-gateway-affiliations_2.JPG)
 
 ## Viewing added providers
 
-The main provider management screen, available in the VTEX Admin under __Store Settings > Payments > Providers__, displays all the payment or antifraud providers in a store. To allow quick access to information on specific providers, you can search or use filters.
+The main provider management screen, available in the VTEX Admin under **Store Settings > Payment > Providers**, displays all the payment or anti-fraud providers added to a store. To quickly access a specific provider, you can search by name or apply filters.
 
 ### Searching for providers
 
-To search for providers by name, go to the provider management page and enter the name of the provider you want to find.
+To find providers by name, go to the provider management page and type the provider's name in the search bar or in the **Name** filter.
 
 ![interface_provedor_EN_3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-providers/registering-gateway-affiliations_3.JPG)
 
 ### Filtering providers
 
-To select the providers using filters, go to the provider management page and apply one or more of the filters shown below:
+To display providers using filters, go to the provider management page and apply one or more of the filters below:
 
-- __Name__: Select the payment provider using the name by checking the box or using the menu search bar.
+- **Type**: Select whether to display payment providers, anti-fraud providers, or both.
 
 ![interface_provedor_EN_4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-providers/registering-gateway-affiliations_4.JPG)
 
-- __Type__: Select to display payment providers, antifraud providers, or both.
+- **Environment**: Select providers by the operating environment type (production or test).
 
 ![interface_provedor_EN_5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-providers/registering-gateway-affiliations_5.JPG)
 
-- __Environment__: Select the providers by type of operating environment (production or test).
-
-![interface_provedor_EN_6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-providers/registering-gateway-affiliations_6.JPG)
-
-> ❗ To clear the applied filters and see all the providers in the store again, click the `Clear All` button.
+> ❗ To clear the applied filters and see all the providers in the store again, click the `Clear all` button.
 
 ## Editing provider settings
 
-To edit the settings of existing payment or antifraud providers in the store, follow the steps below:
+To edit the settings of payment or anti-fraud providers already added to the store, follow the steps below:
 
-1. In the VTEX Admin, go to __Store Settings > Payments > Providers__, or type __Providers__ in the search bar at the top of the page.
-2. Click the desired payment or antifraud provider.
+1. In the VTEX Admin, go to **Store Settings > Payment > Providers**, or type **Providers** in the search bar at the top of the page.
+2. Click the payment or anti-fraud provider you want.
 3. On the provider configuration screen, click `Edit`.
 4. Make the necessary changes and click `Save`.
 
 ![interface_provedor_EN_7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-providers/registering-gateway-affiliations_7.JPG)
 
-> ❗ Before changing the provider's settings, such as authorization details, processing mode, or refund type, ensure the new information entered will not affect your store's performance.
-
+> ❗ Changes to a provider's settings, such as the **App key** and **App token** credentials, processing mode, refund type, or the **Activate test mode** option, affect the payments it processes in the store. Before saving, confirm with the provider that the new information is correct.
