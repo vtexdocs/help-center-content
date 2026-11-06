@@ -1,24 +1,16 @@
 ---
-title: 'O que é uma carteira digital (ewallet)?'
-id: 4v5wcOe4A0SiaimWM2cU60
-status: PUBLISHED
+title: 'Carteira digital (ewallet)'
 createdAt: 2019-01-24T20:45:38.294Z
-updatedAt: 2025-10-21T13:26:28.545Z
-publishedAt: 2025-10-21T13:26:28.545Z
-firstPublishedAt: 2019-01-24T22:05:07.777Z
+updatedAt: 2026-09-30T19:55:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 245tA425AIeioKAk2eaiwS
 slugEN: what-is-an-e-wallet
-legacySlug: o-que-e-uma-carteira-digital-e-wallet
 locale: pt
-subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
+hidden: false
 ---
 
-Uma carteira digital (também chamada de ewallet) é um ambiente seguro onde podem ser armazenados dados bancários e/ou de cartão de crédito. Essas informações ficam criptografadas no sistema e, quando acessadas pelo seu dono, podem ser usadas para realizar compras na internet.
+Uma carteira digital, também chamada de ewallet, é um ambiente seguro em que dados bancários e de cartão de crédito ficam criptografados e podem ser usados para comprar na internet. No checkout, o cliente não precisa informar esses dados à loja, o que torna a compra mais segura. Ele é redirecionado ao ambiente da carteira para autenticar a identidade e escolher o meio de pagamento. Em seguida, a compra volta ao fluxo da loja e o pedido é concluído.
 
-Comprar com uma carteira digital oferece mais segurança para o usuário, uma vez que ele não precisa informar seus dados de pagamento no checkout da loja. Ao invés disso, o usuário é redirecionado para o ambiente da carteira digital, onde deverá passar por etapas de autenticação.
+O [subadquirente](/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#subadquirente) é a empresa que processa pagamentos e transmite os dados aos demais participantes do fluxo de pagamento. Algumas carteiras digitais também atuam como subadquirentes e, por isso, permitem que mesmo quem não tem cadastro conclua a compra no ambiente da carteira.
 
-Com identidade confirmada e meio de pagamento escolhido, a compra volta ao fluxo normal e o pedido é concluído. Algumas carteiras digitais funcionam ainda como subadquirentes, permitindo que mesmo uma pessoa que não tenha cadastro seja capaz de realizar a compra através do seu ambiente. 
-
-São exemplos de carteiras digitais que podem ser configuradas para a realização de pagamentos na sua loja VTEX: __Paypal__, __Mercado Pago__, __PagSeguro__, __Stelo__, entre outras.
+Exemplos de carteiras digitais que você pode configurar na sua loja VTEX: [Google Pay](/pt/docs/tracks/google-pay), [Apple Pay](/pt/docs/tracks/apple-pay), [Samsung Pay](/pt/docs/tutorials/configurar-samsung-pay-como-meio-de-pagamento), [PayPal](/pt/docs/tutorials/configurar-pagamento-com-paypalv2) e [Mercado Pago](/pt/docs/tutorials/configurar-mercado-pago-offline-e-wallet-como-metodos-de-pagamentos), entre outras.

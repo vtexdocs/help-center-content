@@ -3,7 +3,7 @@ title: 'VTEX Sales App - Configurações Básicas'
 id: 4L5SoLxE8O3YkxF7FKymrO
 status: PUBLISHED
 createdAt: 2020-06-28T13:51:53.895Z
-updatedAt: 2026-07-07T23:01:37.261Z
+updatedAt: 2026-10-01T16:50:00.000Z
 publishedAt: 2025-02-20T23:01:37.261Z
 firstPublishedAt: 2020-06-28T14:01:36.462Z
 contentType: trackArticle
@@ -95,4 +95,16 @@ Para configurar o binding e garantir que o catálogo da loja seja exibido no **V
 
 ## Configurar logística
 
-Para começar a utilizar o **VTEX Sales App**, você também precisa realizar as configurações logísticas de acordo com as estratégias que deseja implementar. Saiba mais em [Comércio Unificado](/pt/docs/tracks/comercio-unificado-101) e [Logística](/pt/docs/tracks/logistica-101) para mais informações.
+Para começar a utilizar o **VTEX Sales App**, você também precisa realizar as configurações logísticas de acordo com as estratégias que deseja implementar.
+
+Se a loja vai oferecer retirada no **VTEX Sales App**, ative a opção **Estoque Sales App** em cada estoque que deve funcionar como ponto de retirada e selecione os pontos de retirada associados a esse estoque.
+
+1. No Admin VTEX, acesse **Envio > Estratégia de envio > Estoques**, ou digite **Estratégia de envio** na barra de busca no topo da página.
+2. Abra o estoque que deseja usar como ponto de retirada.
+3. Ative a opção **Estoque do Sales App** utilizando o botão <i class="fas fa-toggle-on"></i>.
+4. Selecione os pontos de retirada que vão utilizar esse estoque.
+5. Clique em `Salvar alterações`.
+
+> ℹ️ Para que os pontos de retirada fiquem disponíveis para seleção, eles precisam estar previamente cadastrados. Saiba mais em [Configurar Pontos de Retirada (Pickup Points)](/pt/docs/tutorials/cadastro-de-pontos-de-retirada).
+
+Para as demais configurações logísticas, consulte [Lojas físicas como pontos de retirada](/pt/docs/tracks/configurar-lojas-fisicas-como-pontos-de-retirada), [Comércio Unificado](/pt/docs/tracks/comercio-unificado-101) e [Logística](/pt/docs/tracks/logistica-101).
