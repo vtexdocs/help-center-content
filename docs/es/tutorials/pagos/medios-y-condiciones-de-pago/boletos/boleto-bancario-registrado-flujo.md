@@ -3,7 +3,7 @@ title: 'Boleto Bancario Registrado - Flujo básico de pago'
 id: 1WlPkeueWQiykUwW8mcM4S
 status: PUBLISHED
 createdAt: 2019-01-24T21:38:41.612Z
-updatedAt: 2019-12-31T15:22:32.884Z
+updatedAt: 2026-10-29T15:00:00.000Z
 publishedAt: 2019-12-31T15:22:32.884Z
 firstPublishedAt: 2019-01-24T21:38:41.989Z
 contentType: tutorial
