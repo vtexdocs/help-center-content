@@ -1,14 +1,14 @@
 ---
 title: 'Pedido rápido com IA'
 createdAt: 2026-10-02T00:00:00.000Z
-updatedAt: 2026-11-04T00:00:00.000Z
+updatedAt: 2026-11-06T00:00:00.000Z
 contentType: tutorial
 productTeam: B2B
 slugEN: ai-quick-order
 locale: pt
 ---
 
-O **Pedido rápido com IA** (inteligência artificial) usa o **Agente de entrada de pedidos** para montar o pedido a partir de um arquivo ou de uma conversa no chat. O agente interpreta o contexto sem depender de um modelo fixo.
+O **Pedido rápido com IA** usa o **Agente de entrada de pedidos** para montar o pedido a partir de um arquivo ou de uma conversa no chat. O agente interpreta o contexto sem depender de um modelo fixo.
 
 > ⚠️ Esta funcionalidade está disponível apenas para contas selecionadas entre as lojas que usam o [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt).
 
@@ -18,7 +18,7 @@ Para montar um pedido a partir de um arquivo, siga estas instruções:
 
 1. Faça login na loja e acesse diretamente o caminho `/pvt/organization-account/order-entry`.
 
-   Em **Como prefere começar?**, a tela do **Agente de entrada de pedidos** oferece as opções **Enviar um arquivo**, **Arrastar e soltar um documento** e **Buscar produtos pelo chat**. Este artigo segue o fluxo por arquivo. A linha **Formatos suportados** lista os formatos aceitos: `csv`, `xlsx`, `xls`, `txt` e `json`.
+   Em **Como prefere começar?**, a tela do **Agente de entrada de pedidos** oferece as opções **Enviar um arquivo**, **Arrastar e soltar um documento** e **Buscar produtos pelo chat**. Este artigo segue o fluxo por arquivo, que pode ser feito enviando o arquivo ou arrastando e soltando o documento. Com **Buscar produtos pelo chat**, você informa ao agente o nome ou o ID do SKU dos produtos e as quantidades, como descrito em **Fazer um pedido pelo chat**. A linha **Formatos suportados** lista os formatos aceitos: `csv`, `xlsx`, `xls`, `txt` e `json`.
 2. Envie o arquivo clicando no ícone `+` ou arraste-o para a área do chat.
 
    O agente interpreta os itens sem depender de um modelo fixo de planilha. No entanto, o arquivo deve conter alguma identificação dos produtos (nome ou ID do SKU) e a quantidade de cada um. Linhas sem ambiguidade são adicionadas ao pedido automaticamente.
@@ -29,7 +29,7 @@ Para montar um pedido a partir de um arquivo, siga estas instruções:
    - `Revisar depois`: deixa o item para uma revisão posterior.
 4. Continue a revisão até resolver todos os itens pendentes.
 
-   A revisão ocorre um item por vez, e o agente informa quantos itens ainda estão pendentes. Ao final, ele informa que o pedido foi montado e quantos itens foram adicionados, incluindo os resolvidos automaticamente e durante a revisão.
+   A revisão ocorre um item por vez, e o agente informa quantos itens ainda estão pendentes. Ao final, ele informa que o pedido foi montado e quantos itens foram adicionados, incluindo os resolvidos automaticamente e os escolhidos durante a revisão.
 5. Em **Itens**, confira **Detalhes da linha**, **Quantidade**, **Preço unitário** e **Subtotal** de cada item. O preço unitário vem do catálogo.
 
    O resumo também exibe o identificador do pedido, **Contrato**, **Criadores**, **Última atualização**, **Código promocional**, **Comentários**, **Entrega** e **Pagamento**. O botão `Checkout` fica inativo enquanto o pedido não tem itens.
