@@ -8,7 +8,7 @@ slugEN: whatsapp-vtex-cx-platform-integration
 locale: en
 ---
 
-WhatsApp integration in VTEX CX Platform connects a WhatsApp Business commercial number to your project. With the active channel, the store sends and receives messages through this number and manages account settings without leaving the platform.
+The WhatsApp integration in [VTEX CX Platform](/en/docs/tutorials/vtex-cx-platform-overview) connects a WhatsApp Business number to your project. With the channel active, the store sends and receives messages through this number and manages account settings without leaving the platform.
 
 After linking your Meta account and creating the channel, you can:
 
@@ -25,10 +25,10 @@ In this tutorial, you'll learn how to integrate WhatsApp with the project, creat
 To start integrating WhatsApp, follow these steps:
 
 1. In the desired project, go to **Settings > Channels**.
-2. In **Communication channels**, locate the **WhatsApp** card or type **WhatsApp** in the search field.
-4. Select the **WhatsApp** card.
-5. Click `+ Add`.
-6. In the pop-up, click `Continue`. The platform opens the connection flow with Meta. Follow the on-screen steps to link your Meta account with VTEX CX Platform.
+2. In **Communication channels**, locate the **WhatsApp** card, or type **WhatsApp** in the search field.
+3. Select the **WhatsApp** card.
+4. Click `+ Add`.
+5. In the pop-up, click `Continue`. The platform opens the connection flow with Meta. Follow the steps on the screen to link your Meta account with VTEX CX Platform.
 
 ## Creating the channel
 
@@ -41,72 +41,73 @@ This channel is available at **Settings > Channels > My apps > WhatsApp [WhatsAp
 
 ## Configuring the channel
 
-When you click the number card, you can manage the channel content for that WhatsApp phone number, such as changing profile picture, viewing templates, changing description, connecting with webhook, and verifying your account.
+When you click the number card, you can manage the channel settings for that WhatsApp number, such as changing the profile picture, viewing templates, editing the description, connecting a webhook, and verifying your account.
 
 ### General
 
-In the **General** tab, you view the identifiers for the number and WhatsApp Business account and access the channel templates. The fields displayed in this tab are read-only. To modify them, you need to access your Meta Business account.
+In the **General** tab, you can view the number and WhatsApp Business account IDs and access the channel templates. The fields displayed in this tab are read-only. To edit them, you need to access your Meta Business account.
 
 In the **Manage content** section, click `View my templates` to open the message templates associated with the number.
 
-The **WhatsApp channel** section displays the connected line data. The visible fields are:
+The **WhatsApp channel** section displays the details of the connected number. The visible fields are:
 
-| Field | Description |
-| --- | --- |
-| **Phone number** | Commercial number connected to the channel. |
-| **WhatsApp display name** | Name that WhatsApp shows to the user. |
+| Field                              | Description                                                                                                                         |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Phone number**                   | Business number connected to the channel.                                                                           |
+| **WhatsApp display name**          | Name that WhatsApp shows to the user.                                                                               |
 | **Default language for templates** | Default language for templates. If not set, the interface displays a dash (`-`). |
-| **Certificate** | Certificate associated with the number. When not applicable, the interface displays `N/A`. |
-| **Consent status** | Number consent status. If not set, the interface displays a dash (`-`). |
+| **Certificate**                    | Certificate associated with the number. When not applicable, the interface displays `N/A`.          |
+| **Consent status**                 | Consent status of the number. If not set, the interface displays a dash (`-`).   |
 
-The **WhatsApp Business Account** section displays the identifiers for the WhatsApp Business account linked to the channel. The visible fields are:
+The **WhatsApp Business account** section displays the identifiers for the WhatsApp Business account linked to the channel. The visible fields are:
 
-| Field | Description |
-| --- | --- |
-| **WABA name** | WhatsApp Business account name. |
-| **WABA ID** | WhatsApp Business identifier on Meta. |
+| Field                      | Description                                                                                                                                     |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **WABA name**              | WhatsApp Business account name.                                                                                                 |
+| **WABA ID**                | WhatsApp Business identifier on Meta.                                                                                           |
 | **Messaging on behalf of** | Identity on whose behalf messages are sent. If not set, the interface displays a dash (`-`). |
-| **Time zone ID** | WhatsApp Business time zone, in IANA format. Example: `America/Sao_Paulo`. |
-| **Namespace** | WhatsApp Business template namespace. |
+| **Time zone ID**           | WhatsApp Business time zone, in IANA format. Example: `America/Sao_Paulo`.                      |
+| **Namespace**              | WhatsApp Business template namespace.                                                                                           |
 
 ### Profile
 
 In the **Profile** tab, you define the public information for the number, visible to customers on WhatsApp. You can edit the following fields:
 
-- **Profile image:** image associated with the WhatsApp profile.
-- **Description:** description of the organization or chatbot purpose.
-- **Organization industry:** organization industry.
-- **Websites:** store website addresses. You can include up to two websites.
-- **Corporate email:** email for contacting users.
-- **Address:** your store's business address.
+- **Profile image:** Image associated with the WhatsApp profile.
+- **Description:** Description of the organization or the chatbot's purpose.
+- **Organization department:** Department your organization operates in.
+- **Websites:** The store website addresses. You can include up to two websites.
+- **Corporate email:** Email address for contacting users.
+- **Address:** The store business address.
 
-If you modified any of the fields and want to save, click `Save changes`. To exit without saving, click `Configure later`.
+To save your changes, click `Save changes`. To exit without saving, click `Configure later`.
 
 ### Webhook
 
 In the **Webhook** tab, you define the endpoint that receives channel notifications. Use this tab when an external system needs to handle message events outside VTEX CX Platform.
 
-To configure the webhook, fill in the following fields:
+To configure the webhook, complete the following fields:
 
-| Field | Description |
-| --- | --- |
-| **Method** | HTTP request method. The options are: `GET`, `POST`, `PUT`, `PATCH`, and `DELETE`. |
-| **Webhook URL** | URL of the service that will receive notifications. |
-| **Key** | HTTP request key. |
-| **Value** | Value for the key. |
+| Field           | Description                                                                                                                        |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **Method**      | HTTP request method. The options are: `GET`, `POST`, `PUT`, `PATCH`, and `DELETE`. |
+| **Webhook URL** | URL of the service that will receive notifications.                                                                |
+| **Key**         | HTTP request key.                                                                                                  |
+| **Value**       | Value for the key.                                                                                                 |
 
-If you modified any of the fields and want to save, click `Save changes`. To exit without saving, click `Configure later`.
+To save your changes, click `Save changes`. To exit without saving, click `Configure later`.
 
 ### Conversations
 
-The **Conversations** tab shows the number's conversation volume, grouped by WhatsApp billing categories, and allows you to request a detailed report via email.
+The **Conversations** tab shows the number's conversation volume, grouped by WhatsApp billing categories, and allows you to request a detailed report by email.
 
 To view conversation volume, follow the steps below:
 
 1. In **Filter by**, select the date range in `DD/MM/YYYY ~ DD/MM/YYYY` format.
-2. After filtering by time range, the **Number of conversations** table shows the number of conversations for each category.
-3. If you want to receive a detailed report of the conversations for the selected time range, click `Request report`.
-  - You can receive message details from up to 6 months ago.
+2. After you filter by date range, the **Number of conversations** table shows how many conversations each category has.
+3. To receive a detailed report of conversations in the selected date range, click `Request report`.
+
+- You can receive message details from up to 6 months ago.
 
 ### Account verification
 
@@ -117,14 +118,16 @@ In the **Account verification** tab, you can verify your account with Meta. Veri
 To verify your account, follow these steps:
 
 1. Select the following checkboxes:
-  - This company is a legal entity.
-  - The account admin is a company representative.
-  - The company follows the WhatsApp Business Policy.
+
+- This company is a legal entity.
+- The account admin is a company representative.
+- The company follows the WhatsApp Business Policy.
+
 2. Click <i class="fas fa-plus" aria-hidden="true"></i>`Upload files` to upload your company's documents.
 3. Finally, click `Submit`.
 
 Below are some suggested documents for verifying your account with Meta:
 
-| Country | Documents |
-| --- | --- |
-| Brazil | - Company registration document or license (for example, CNPJ) <br> - Articles of association or corporate contract (for example, MEI). <br> - Tax payment receipt, bank statement, or utility bill. |
+| Country | Documents                                                                                                                                                                                                                                                                                 |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Brazil  | - Company registration document or license (for example, CNPJ in Brazil) <br> - Articles of association or incorporation (for example, MEI in Brazil). <br> - Tax payment receipt, bank statement, or utility bill. |
