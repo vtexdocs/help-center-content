@@ -3,7 +3,7 @@ title: 'Retail Media'
 id: 36ZHI8z0VQjcu5yHeGEvv3
 status: PUBLISHED
 createdAt: 2025-05-29T14:17:24.579Z
-updatedAt: 2025-07-04T15:53:33.192Z
+updatedAt: 2026-11-06T00:00:00.000Z
 publishedAt: 2025-07-04T15:53:33.192Z
 firstPublishedAt: 2025-05-29T14:23:22.627Z
 contentType: trackArticle
