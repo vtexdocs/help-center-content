@@ -25936,7 +25936,7 @@
               "name": {
                 "en": "Creating an OAuth2 authentication",
                 "es": "Crear autenticación OAuth2",
-                "pt": "Criar autenticação OAuth2"
+                "pt": "Criar login com provedor de identidade OAuth2"
               },
               "slug": {
                 "en": "creating-an-oauth2-authentication",

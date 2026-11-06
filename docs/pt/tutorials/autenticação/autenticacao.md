@@ -3,7 +3,7 @@ title: 'Autenticação'
 id: 21CkKHLKP1o41lUpGhuRUs
 status: PUBLISHED
 createdAt: 2021-10-25T19:06:37.982Z
-updatedAt: 2024-12-12T14:23:17.290Z
+updatedAt: 2026-11-04T16:52:47.000Z
 publishedAt: 2024-12-12T14:23:17.290Z
 firstPublishedAt: 2021-11-08T18:39:50.432Z
 contentType: tutorial
@@ -81,6 +81,7 @@ Ao desenvolver integrações utilizando as [APIs](https://developers.vtex.com/do
 
 * **Chaves de aplicação (appKeys):** as [chaves de aplicação](/pt/docs/tutorials/chaves-de-api) são utilizadas para autenticar solicitações às APIs da VTEX. Os administradores da loja podem criar chaves e associá-las a [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete), com permissão para utilizar determinados [recursos](/pt/docs/tutorials/recursos-do-license-manager) da plataforma. Mais informações estão disponíveis no guia para desenvolvedores [API authentication using application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys).
 * **Tokens de usuário:** os tokens de usuário são usados para autenticar solicitações de API, especialmente para aplicativos [frontend](/pt/docs/tracks/frontend) desenvolvidos com VTEX IO. Veja como usar no guia para desenvolvedores [API authentication using user tokens](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens).
+* **VTEX OAuth provider:** permite que aplicativos e agentes de IA acessem a VTEX em nome de um usuário, usando o fluxo padrão do OAuth. Veja como usar no guia para desenvolvedores [VTEX OAuth provider](https://developers.vtex.com/docs/guides/vtex-oauth-provider).
 
 ## Desenvolvimento de apps
 

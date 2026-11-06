@@ -3,7 +3,7 @@ title: 'Creating an OAuth2 authentication'
 id: 21LbTSTgag4MsuisQsyIm6
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:47.861Z
-updatedAt: 2021-10-14T19:16:15.207Z
+updatedAt: 2026-11-04T16:52:47.000Z
 publishedAt: 2021-10-14T19:16:15.207Z
 firstPublishedAt: 2019-01-24T22:04:05.091Z
 contentType: tutorial
