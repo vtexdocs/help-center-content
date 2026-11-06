@@ -1,21 +1,15 @@
 ---
 title: 'Configurar pago con CieloEcommerce'
-id: 6zuELBqEo0QzApbU4l7L4
-status: PUBLISHED
 createdAt: 2023-09-18T14:07:22.540Z
-updatedAt: 2025-04-09T19:25:40.961Z
-publishedAt: 2025-04-09T19:25:40.961Z
-firstPublishedAt: 2023-09-18T15:29:57.321Z
+updatedAt: 2026-11-05T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-cieloecommerce
-legacySlug: configurar-pago-con-cieloecommerce
 locale: es
-subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+hidden: false
 ---
 
-En VTEX es posible la integración con el CieloEcommerce. Con esta integración, su tienda puede rrealizar ventas a través de tarjetas de credito, debito, private y cobranded labels, boletos, PIX, entre otros.
+En VTEX es posible la integración con el CieloEcommerce. Con esta integración, su tienda puede rrealizar ventas a través de tarjetas de credito, debito, private y cobranded labels, boletos, PIX, Alelo, entre otros.
 
 Para configurar CieloEcommerce, siga los siguientes pasos:
 1. En el Admin VTEX, accede a **Configuración de la tienda > Pago > Proveedores**, o escribe **Proveedores** en la barra de búsqueda en la parte superior de la página.
@@ -44,7 +38,7 @@ Para configurar CieloEcommerce, siga los siguientes pasos:
 21. En **CustomMdds**, seleccione las opciones según la información antifraude de CieloEcommerce.
 22. Em **Captura**, seleccione el período en el que se debe solicitar la captura de pago. El horario estándar se realizará cuatro días después de la autorización.
 23. Seleccione los campos **UseVerifyCard**, **AcceptInternationalCard**, **AcceptPrePaidCard** y **CancelRefundType** según su configuración en CieloEcommerce.
-24. En **CieloLIOClientId**, complete según la información del proveedor CieloEcommerce.
+24. En **CieloLIOClientId** y **EcAmex**, complete según la información del proveedor CieloEcommerce.
 25. Haga clic en **Guardar**.
 
 Para configurar los métodos de pago a procesar por CieloEcommerce, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455#).

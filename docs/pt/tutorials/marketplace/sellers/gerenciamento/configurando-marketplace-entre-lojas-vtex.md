@@ -3,7 +3,7 @@ title: 'Configurando marketplace entre lojas VTEX'
 id: tutorials_6520
 status: PUBLISHED
 createdAt: 2017-04-27T21:48:44.692Z
-updatedAt: 2025-09-04T15:23:15.845Z
+updatedAt: 2026-11-04T15:00:00.000Z
 publishedAt: 2025-09-04T15:23:15.845Z
 firstPublishedAt: 2017-04-27T23:11:18.934Z
 contentType: tutorial
@@ -30,16 +30,5 @@ Ser um seller significa que sua loja vai enviar e vender produtos por meio de ou
 1. Configure a [política comercial](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace/).
 2. Configure a [logística](/pt/docs/tutorials/configurando-logistica-para-marketplace/) para esta política comercial.
 3. Configure o [afiliado](/pt/docs/tutorials/como-configurar-afiliado/).
-
-##### Sobre a integração
-
-Depois de realizar as configurações, é necessário fazer a indexação de todos os produtos da base, para que a integração ocorra.
-
-1. Com o [usuário titular](/pt/docs/tracks/o-que-e-o-usuario-master), acesse o link `{nomedaloja}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`.
-2. Clique no botão __Reindexar Base__.
-
-![ReindexarBase](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/sellers/gerenciamento/configurando-marketplace-entre-lojas-vtex_1.png)
-
-Perceba que, na URL, é preciso alterar o termo `{nomedaloja}` para o nome de sua loja.
 
 Com essas configurações feitas, os produtos começarão a ser enviados para o marketplace. Então, o marketplace deve realizar o [mapeamento de categorias, marcas e especificações](/pt/docs/tutorials/mapeando-categorias-e-marcas-para-marketplace), além de aceitar os produtos enviados.

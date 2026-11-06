@@ -3,7 +3,7 @@ title: 'Configurar promoción para marketplace'
 id: tutorials_406
 status: PUBLISHED
 createdAt: 2017-04-27T22:06:28.854Z
-updatedAt: 2024-11-11T16:46:25.421Z
+updatedAt: 2026-11-04T17:45:00.000Z
 publishedAt: 2024-11-11T16:46:25.421Z
 firstPublishedAt: 2017-04-27T23:03:23.902Z
 contentType: tutorial
@@ -133,4 +133,3 @@ Los sellers pueden segmentar las promociones para mercados específicos. Hay dos
 2. En la sección **Política Comercial**, seleccione las opciones **Es igual a** y **Entregado por mí (Tienda de otros)**.
 4. Haga clic en `Guardar`.
 
-> ⚠️ Una vez creada la promoción, recuerde [reindexar los productos afectados](/es/docs/tutorials/mantenimiento-de-base-de-datos-full-cleanup) al inicio y al final de las promociones. De esta manera, sus productos tendrán los precios actualizados.

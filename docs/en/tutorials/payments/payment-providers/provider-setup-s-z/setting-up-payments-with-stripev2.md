@@ -1,18 +1,12 @@
 ---
 title: 'Setting up payments with StripeV2'
-id: 3XG7Vrb0GGhdN40ICNKQoN
-status: PUBLISHED
 createdAt: 2025-03-07T15:20:58.287Z
-updatedAt: 2025-09-19T19:45:07.908Z
-publishedAt: 2025-09-19T19:45:07.908Z
-firstPublishedAt: 2025-03-07T15:34:55.639Z
+updatedAt: 2026-11-05T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-stripev2
-legacySlug: setting-up-payments-with-stripev2
 locale: en
-subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+hidden: false
 ---
 
 At VTEX, you can integrate with the payment provider StripeV2. Through this provider, your store can offer several payment methods, such as Visa, American Express, Diners, Elo, Hipercard, Mastercard, BankInvoice, Stripe, Google Pay, Apple Pay, OXXO, Discover, Affirm, Klarna, ZIP, BLIK, Ideal, SPEI, Multibanco, Afterpay, Bancontact, EPS, FPX, Giropay, and P24.
@@ -79,7 +73,8 @@ To configure the StripeV2 integration on VTEX, follow the steps below:
 6. In **Basic Information**, in the **Name** option, enter **StripeV2NativeCheckout** to quickly identify the integration.
 7. In **Provider fields**, in the **Mode** option, select **Float**.
 8. In **Test Mode**, select **False** if the mode is **Live** or **True** if the mode is **Test**.
-9. Click `Save`.
+9. If applicable, fill in the **SAT_CATEGORY**, **INSURANCE_CATEGORY** and **PRIMARY_WAREHOUSE** fields according to the provider's instructions.
+10. Click `Save`.
 
 ### Configuring anti-fraud script
 
@@ -147,8 +142,9 @@ To configure the StripeV2 integration on VTEX, follow the steps below:
 6. In **Basic Information**, in the **Name** option, enter **StripeV2Elements** to quickly identify the integration.
 7. In **Provider fields**, in the **Mode** option, select **Embedded**.
 8. In **Test Mode**, select **False** if the mode is **Live** or **True** if the mode is **Test**.
-9. Click `Save`.
-10. Add Stripe keys in the Provider App settings, as follows:
+9. If applicable, fill in the **SAT_CATEGORY**, **INSURANCE_CATEGORY** and **PRIMARY_WAREHOUSE** fields according to the provider's instructions.
+10. Click `Save`.
+11. Add Stripe keys in the Provider App settings, as follows:
 a. Go to **Applications > My applications > Stripe Payment Provider**.
 b. Click **Settings**.
 c. In **Publishable Key**, enter your key starting with **pk_**.
