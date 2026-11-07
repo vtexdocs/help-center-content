@@ -35495,14 +35495,14 @@
                     },
                     {
                       "name": {
-                        "en": "AI Workspace - Home",
-                        "es": "AI Workspace - Página Inicial",
-                        "pt": "AI Workspace - Início"
+                        "en": "AI Workspace - My assistant",
+                        "es": "AI Workspace - Mi asistente",
+                        "pt": "AI Workspace - Meu assistente"
                       },
                       "slug": {
-                        "en": "ai-workspace-home",
-                        "es": "ai-workspace-pagina-inicial",
-                        "pt": "ai-workspace-inicio"
+                        "en": "ai-workspace-my-assistant",
+                        "es": "ai-workspace-mi-asistente",
+                        "pt": "ai-workspace-meu-assistente"
                       },
                       "origin": "",
                       "type": "markdown",
