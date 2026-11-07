@@ -14,5 +14,6 @@ Esta é uma lista com os [Agentes de IA](https://help.vtex.com/pt/docs/tutorials
 
 | Agente | Disponibilidade |
 | :- | :- |
+| [Agente de Coleções](https://help.vtex.com/pt/docs/tutorials/agente-de-colecoes) | Admin |
 | [Agente de Gerenciamento de Contratos](https://help.vtex.com/pt/docs/tutorials/agente-de-gerenciamento-de-contratos) | Admin, AI Workspace |
 | [Data Insights Agent](https://help.vtex.com/pt/docs/tutorials/data-insights-agent) | Admin, AI Workspace |

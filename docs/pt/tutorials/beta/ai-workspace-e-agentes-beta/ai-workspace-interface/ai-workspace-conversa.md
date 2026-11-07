@@ -21,19 +21,7 @@ Uma conversa pode iniciar das seguintes formas:
 
 ![AI Workspace conversa PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-conversa.png)
 
-## Opções da conversa
-
-No topo da página, à direita, ficam os elementos com as opções da conversa:
-
-- **Participantes:** Contém os ícones dos participantes da conversa. Ao passar o mouse sobre um participante, aparece o nome dele.
-- **… Mais opções:** exibe opções adicionais.
-
-![AI Workspace conversa mais opções PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-conversa-mais-opcoes.png)
-
-Ao clicar em **… Mais opções**, aparecem as seguintes opções:
-
-- **Novo chat:** Leva para o Início, onde você pode iniciar uma nova conversa.
-- **Ver histórico:** Mostra a Página Conversas.
+No topo da página, à direita, aparecem os ícones dos participantes da conversa. Ao passar o mouse sobre um participante, aparece o nome dele.
 
 ## Conteúdo da conversa
 
@@ -41,7 +29,7 @@ No centro da página se encontra o histórico da conversa, com as mensagens do a
 
 ### Botões de interação rápida
 
-Durante a conversa, o agente pode apresentar **botões** **de interação rápida** que permitem executar ações sem precisar escrever uma mensagem. Alguns exemplos de ações com botões incluem aprovar sugestões do agente em uma tarefa e usar um prompt sugerido para continuar a conversa.
+Durante a conversa, o agente pode apresentar **botões de interação rápida** que permitem executar ações sem precisar escrever uma mensagem. Alguns exemplos de ações com botões incluem aprovar sugestões do agente em uma tarefa e usar um prompt sugerido para continuar a conversa.
 
 > ℹ️ Os botões de interação rápida variam conforme o contexto da conversa e o conteúdo apresentado pelo agente.
 
@@ -58,6 +46,6 @@ Ao clicar em um **cartão do canvas**, abre-se o **canvas** no lado direito da p
 As formas de interação com o canvas variam conforme o tipo de conteúdo apresentado. No exemplo da imagem, o canvas exibe 10 amostras de mudanças nas descrições de produtos, e o usuário pode:
 
 - **Visualizar a comparação** dos detalhes do produto entre a sugestão de modificação e a versão original.
-- **Navegar pelas amostras** utilizando a paginação (botões **\< Anterior** e **Próximo \>**).
+- **Ver mais sugestões**. Ao clicar no botão **Ver mais n sugestões** (n entre 1 e 10), aparecem mais sugestões de modificações. O botão aparece enquanto houverem sugestões adicionais a serem exibidas.
 
 > ℹ️ O conteúdo e as formas de interação com o canvas dependem do contexto em que ele é utilizado.

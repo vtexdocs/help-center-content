@@ -1,10 +1,10 @@
 ---
-title: 'AI Workspace - Início'
+title: 'AI Workspace - Meu assistente'
 createdAt: 2026-09-28T12:00:00.000Z
 updatedAt: 2026-09-28T12:00:00.000Z
 contentType: tutorial
 productTeam: AI Workspace
-slugEN: ai-workspace-home
+slugEN: ai-workspace-my-assistant
 locale: pt
 ---
 
@@ -14,11 +14,11 @@ O AI Workspace é o ambiente de trabalho com inteligência artificial da VTEX, n
 
 ![AI Workspace Início PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-inicio.png)
 
-As seções a seguir descrevem cada parte da página **Início** do AI Workspace.
+As seções a seguir descrevem cada parte da página **Meu assistente** do AI Workspace.
 
 ## Indicadores de desempenho
 
-Este quadro exibe as principais métricas de desempenho da loja, permitindo acompanhar rapidamente a evolução do negócio e oferecer um panorama completo da operação. Ao clicar no quadro, o [Data Insights Agent](https://help.vtex.com/pt/docs/tutorials/data-insights-agent) gera um relatório de desempenho e abre uma conversa, na qual o usuário pode interagir com o Agente sobre o relatório. Você pode ajustar a visualização por intervalos de tempo de 7, 30 e 90 dias.
+Este quadro exibe as principais métricas de desempenho da loja, permitindo acompanhar rapidamente a evolução do negócio e oferecer um panorama completo da operação. Ao clicar no quadro, o [Data Insights Agent](https://help.vtex.com/pt/docs/tutorials/data-insights-agent) gera um relatório de desempenho e abre uma conversa, na qual o usuário pode interagir com o agente sobre o relatório. Você pode ajustar a visualização por intervalos de tempo de 7, 30 e 90 dias.
 
 As métricas disponíveis são:
 
@@ -40,4 +40,5 @@ Esta seção destaca as iniciativas propostas para melhorar o desempenho da loja
 Na parte inferior da página, a caixa de mensagem é o ponto central de interação com o seu assistente de IA e apresenta os seguintes elementos:
 
 - **Campo de texto:** digitar uma solicitação ou pergunta para o assistente.
+- **Adicionar imagens e arquivos:** insira imagens e arquivos ao contexto da conversa junto com o texto enviado para o assistente.
 - **Seleção de agente:** selecionar um dos agentes de IA instalados para iniciar uma conversa.

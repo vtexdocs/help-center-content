@@ -27,7 +27,7 @@ A página **Tarefas** é acessada pelo item **Tarefas** no [menu de navegação]
 
 A página possui um quadro que organiza as tarefas em colunas, de acordo com o status de cada uma:
 
-- **Aberta:** tarefas ainda não iniciadas.
+- **Abertas:** tarefas ainda não iniciadas.
 - **Em execução:** tarefas em andamento.
 - **Aguardando ação:** tarefas que dependem de interação para avançar.
 - **Concluídas:** tarefas finalizadas.

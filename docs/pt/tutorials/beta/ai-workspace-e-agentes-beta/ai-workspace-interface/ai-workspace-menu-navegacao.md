@@ -19,12 +19,14 @@ No topo do menu você encontra o **Título da loja**, que identifica a conta em 
 Logo abaixo, estão as seguintes seções de navegação:
 
 - **Início:** acesso à página inicial.
+- **Minhas Iniciativas:** visualização e gestão das iniciativas recomendadas e em andamento.
 - **Tarefas:** visualização e gestão das tarefas.
-- **Iniciativas:** visualização e gestão das iniciativas recomendadas e em andamento.
+- **Chats:** seção com a lista de conversas com os agentes. Cada item abaixo é um botão que dá acesso à respectiva conversa.
 
 Na parte inferior do menu lateral, estão disponíveis os seguintes itens:
 
+- **🔍 Busca**: abre a barra de busca, que permite buscar em conversas e iniciativas.
+- **🔔 Notificações**: abre um componente com a lista de notificações.
 - **Perfil:** ícone circular com sua foto de perfil. Este componente também é um botão com as seguintes opções:
-  - **Idioma:** escolha o idioma da interface do AI Workspace.
-  - **Central de ajuda:** acesso ao VTEX Help Center.
+  - **Meu perfil:** abre o painel de configurações do perfil. Neste painel,
   - **Sair:** desconexão do seu usuário com a sua seção atual do AI Workspace.
