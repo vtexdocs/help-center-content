@@ -1,9 +1,9 @@
 ---
-title: 'Crear autenticación OAuth2'
+title: 'Crear inicio de sesión con proveedor de identidad OAuth2'
 id: 21LbTSTgag4MsuisQsyIm6
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:47.861Z
-updatedAt: 2026-11-04T16:52:47.000Z
+updatedAt: 2026-11-09T17:44:34.000Z
 publishedAt: 2021-10-14T19:16:15.207Z
 firstPublishedAt: 2019-01-24T22:04:05.091Z
 contentType: tutorial
@@ -22,6 +22,8 @@ Para algunos administradores de tienda, existe la necesidad de crear una autenti
 Debido a esto, VTEX pone a disposición la __autenticación OAuth2__ integrada a VTEX ID.
 
 > ⚠️ Como este es un asunto con aspectos bastante técnicos, recomendamos el acompañamiento de un compañero o equipo de TI.
+
+> ℹ️ Este tutorial explica cómo VTEX utiliza un proveedor de identidad externo para autenticar a los clientes de la tienda. Si quieres que una aplicación o un agente de IA acceda a VTEX en nombre de un usuario, consulta la guía para desarrolladores [VTEX OAuth provider](https://developers.vtex.com/docs/guides/vtex-oauth-provider).
 
 ### ¿Qué es OAuth2?
 
