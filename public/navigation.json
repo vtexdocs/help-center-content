@@ -51142,13 +51142,13 @@
             {
               "name": {
                 "en": "Mercado Livre Error when accepting Buybox/ME2 suggestion: BRAND attribute required",
-                "es": "Mercado Livre Error al aceptar la sugerencia de Buybox/ME2: se requiere el atributo BRAND",
-                "pt": "Mercado Livre Erro ao aceitar a sugestão da Buybox/ME2: atributo BRAND obrigatório"
+                "es": "Mercado Livre Error al aceptar la sugerencia de Buybox/ME2: Se requiere el atributo BRAND",
+                "pt": "Mercado Livre Erro ao aceitar a sugestão Buybox/ME2: Atributo BRAND obrigatório"
               },
               "slug": {
                 "en": "mercado-livre-error-when-accepting-buyboxme2-suggestion-brand-attribute-required",
                 "es": "mercado-livre-error-al-aceptar-la-sugerencia-de-buyboxme2-se-requiere-el-atributo-brand",
-                "pt": "mercado-livre-erro-ao-aceitar-a-sugestao-da-buyboxme2-atributo-brand-obrigatorio"
+                "pt": "mercado-livre-erro-ao-aceitar-a-sugestao-buyboxme2-atributo-brand-obrigatorio"
               },
               "origin": "",
               "type": "markdown",
@@ -54131,8 +54131,8 @@
             {
               "name": {
                 "en": "Search results may not display products from the synonyms",
-                "es": "Es posible que los resultados de la búsqueda no muestren productos de los sinónimos",
-                "pt": "Os resultados da pesquisa podem não exibir produtos dos sinônimos"
+                "es": "Es posible que los resultados de la búsqueda no muestren productos de los sinónimos.",
+                "pt": "Os resultados da pesquisa podem não exibir produtos dos sinônimos."
               },
               "slug": {
                 "en": "search-results-may-not-display-products-from-the-synonyms",
@@ -70276,6 +70276,21 @@
           "origin": "",
           "type": "category",
           "children": [
+            {
+              "name": {
+                "en": "Amazon tracking failure is not displayed in Bridge when the invoice items don’t match the order items",
+                "es": "Amazon El error de seguimiento no se muestra en Bridge cuando los artículos de la factura no coinciden con los artículos del pedido.",
+                "pt": "A falha de rastreamento da Amazon não é exibida no Bridge quando os itens da fatura não correspondem aos itens do pedido."
+              },
+              "slug": {
+                "en": "amazon-tracking-failure-is-not-displayed-in-bridge-when-the-invoice-items-dont-match-the-order-items",
+                "es": "amazon-el-error-de-seguimiento-no-se-muestra-en-bridge-cuando-los-articulos-de-la-factura-no-coinciden-con-los-articulos-del-pedido",
+                "pt": "a-falha-de-rastreamento-da-amazon-nao-e-exibida-no-bridge-quando-os-itens-da-fatura-nao-correspondem-aos-itens-do-pedido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
             {
               "name": {
                 "en": "Amazon In some cases, a SKU may be published successfully on Amazon, but the stock is not updated and remains at zero.",
