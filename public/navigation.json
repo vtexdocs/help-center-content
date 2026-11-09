@@ -8823,21 +8823,6 @@
             },
             {
               "name": {
-                "en": "Fix redirect error in PagSeguro",
-                "es": "Corregir error de redireccionamiento en PagSeguro",
-                "pt": "Corrigir erro de redirecionamento no PagSeguro"
-              },
-              "slug": {
-                "en": "fix-redirect-error-in-pagseguro",
-                "es": "corregir-error-de-redirecionamento-en-pagseguro",
-                "pt": "corrigir-erro-de-redirecionamento-no-pagseguro"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "What should I do when there are problems with a transaction?",
                 "es": "¿Qué hacer cuando hay problemas con una transacción?",
                 "pt": "O que fazer quando há problemas com uma transação?"
@@ -9753,21 +9738,6 @@
                 "en": "the-order-was-billed-in-the-erp-but-remains-in-the-preparing-delivery-status",
                 "es": "el-pedido-fue-facturado-en-el-erp-pero-continua-en-el-statu-preparando-entrega",
                 "pt": "o-pedido-foi-faturado-no-erp-mas-continua-no-status-preparando-entrega"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Visa Checkout orders do not appear in the My Orders section",
-                "es": "Pedidos realizados con Visa Checkout no aparecen en el área de Mis Pedidos",
-                "pt": "Pedidos feitos com Visa Checkout não aparecem na área de Meus Pedidos"
-              },
-              "slug": {
-                "en": "visa-checkout-orders-do-not-appear-in-my-orders-section",
-                "es": "pedidos-realizados-con-visa-checkout-no-aparecen-en-el-area-de-mis-pedidos",
-                "pt": "pedidos-feitos-com-visa-checkout-nao-aparecem-na-area-de-meus-pedidos"
               },
               "origin": "",
               "type": "markdown",
@@ -29654,21 +29624,6 @@
                         "en": "configuring-samsung-pay-as-a-payment-method",
                         "es": "configurar-samsung-pay-como-medio-de-pago",
                         "pt": "configurar-samsung-pay-como-meio-de-pagamento"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "How to install Visa Checkout in the VTEX App Store",
-                        "es": "Instalar el Visa Checkout en la VTEX App Store",
-                        "pt": "Instalar o Visa Checkout na VTEX App Store"
-                      },
-                      "slug": {
-                        "en": "install-visa-checkout-in-the-extension-store",
-                        "es": "instalar-el-visa-checkout-en-la-extension-store",
-                        "pt": "instalar-o-visa-checkout-na-extension-store"
                       },
                       "origin": "",
                       "type": "markdown",

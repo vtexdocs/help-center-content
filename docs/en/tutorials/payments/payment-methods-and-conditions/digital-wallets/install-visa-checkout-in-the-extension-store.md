@@ -1,7 +1,7 @@
 ---
 title: 'How to install Visa Checkout in the VTEX App Store'
 id: swNvxnmhvqc2Eg2OycK8Y
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2017-06-28T03:09:32.057Z
 updatedAt: 2020-05-28T14:08:35.065Z
 publishedAt: 2020-05-28T14:08:35.065Z
@@ -13,6 +13,7 @@ slugEN: install-visa-checkout-in-the-extension-store
 legacySlug: install-visa-checkout-in-the-extension-store
 locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+hidden: true
 ---
 
 The purpose of this article is a step-by-step demonstration of how to install the Visa Checkout extension in the VTEX App Store.

@@ -2,7 +2,7 @@
 title: 'Visa Checkout orders do not appear in the My Orders section'
 excerpt: "Visa Checkout closes outside VTEX, so first-time shoppers have no Profile System record. My Orders only shows those orders for matching emails."
 id: 4BrqWFB2XCUS0SmkcqOAwe
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2018-06-15T20:21:24.876Z
 updatedAt: 2020-01-09T18:09:56.766Z
 publishedAt: 2020-01-09T18:09:56.766Z
@@ -13,6 +13,7 @@ author: authors_59
 slugEN: visa-checkout-orders-do-not-appear-in-my-orders-section
 locale: en
 legacySlug: visa-checkout-orders-do-not-appear-in-my-orders-section
+hidden: true
 ---
 
 Orders made with Visa Checkout are closed outside VTEX checkout.

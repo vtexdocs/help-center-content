@@ -2,7 +2,7 @@
 title: 'Fix redirect error in PagSeguro'
 excerpt: "This PagSeguro connector is being discontinued. Redirect errors usually come from an incorrect redirect URL; configure it with or without redirect."
 id: 5b1lVDQ9HUKQs4Wy24uWq2
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2018-02-15T16:07:47.669Z
 updatedAt: 2024-02-16T12:41:04.461Z
 publishedAt: 2024-02-16T12:41:04.461Z
@@ -13,6 +13,7 @@ author: authors_59
 slugEN: fix-redirect-error-in-pagseguro
 locale: en
 legacySlug: fix-redirect-error-in-pagseguro
+hidden: true
 ---
 
 > ❗ This payment integration can no longer be configured on the platform due to the [legacy provider removal process](/en/announcements/2023-10-13-legacy-payment-connectors-will-be-discontinued-in-2024). The article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.
