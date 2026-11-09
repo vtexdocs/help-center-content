@@ -1,5 +1,5 @@
 ---
-title: 'Fundamentos y conceptos de Pagos'
+title: 'Fundamentos y conceptos de pagos'
 createdAt: 2026-11-09T00:00:00.000Z
 updatedAt: 2026-11-09T00:00:00.000Z
 contentType: tutorial
