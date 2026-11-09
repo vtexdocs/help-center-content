@@ -219,13 +219,13 @@
                 },
                 {
                   "name": {
-                    "en": "Credit Wallet: track the credit that offsets your Master Data charges",
-                    "es": "Cartera de Crédito: sigue el crédito que compensa tu cargo de Master Data",
-                    "pt": "Carteira de Crédito: acompanhe o crédito que abate sua cobrança de Master Data"
+                    "en": "Credit wallet: Track the credit that offsets your Master Data charges",
+                    "es": "Cartera de crédito: monitorea el crédito que descuenta tu cobro de Master Data",
+                    "pt": "Carteira de crédito: acompanhe o crédito que abate sua cobrança de Master Data"
                   },
                   "slug": {
                     "en": "2026-10-08-credit-wallet-track-the-credit-that-offsets-your-master-data-charges",
-                    "es": "2026-10-08-cartera-de-credito-sigue-el-credito-que-compensa-tu-cargo-de-master-data",
+                    "es": "2026-10-08-cartera-de-credito-monitorea-el-credito-que-descuenta-tu-cobro-de-master-data",
                     "pt": "2026-10-08-carteira-de-credito-acompanhe-o-credito-que-abate-sua-cobranca-de-master-data"
                   },
                   "origin": "",
@@ -17483,8 +17483,8 @@
                   "children": [
                     {
                       "name": {
-                        "en": "Credit Wallet",
-                        "es": "Cartera de Crédito",
+                        "en": "Credit wallet",
+                        "es": "Cartera de crédito",
                         "pt": "Carteira de Crédito"
                       },
                       "slug": {
@@ -17498,8 +17498,8 @@
                     },
                     {
                       "name": {
-                        "en": "Checking Credit Wallet",
-                        "es": "Consultar Cartera de Crédito",
+                        "en": "Checking credit wallet",
+                        "es": "Consultar cartera de crédito",
                         "pt": "Consultar Carteira de Crédito"
                       },
                       "slug": {
@@ -28038,8 +28038,8 @@
                     {
                       "name": {
                         "en": "Setting up payments with PagarMeV3",
-                        "es": "Configurar pago con PagarMeV3",
-                        "pt": "Configurar pagamento com PagarMeV3"
+                        "es": "Configurar pago con PagarMeV3 (Stone)",
+                        "pt": "Configurar pagamento com PagarMeV3 (Stone)"
                       },
                       "slug": {
                         "en": "setting-up-payments-with-pagarmev3",
@@ -29420,8 +29420,8 @@
                 },
                 {
                   "name": {
-                    "en": "Register payment and anti-fraud providers",
-                    "es": "Registrar proveedores de pagos y antifraude",
+                    "en": "Adding payment and anti-fraud providers",
+                    "es": "Registrar proveedores de pago y antifraude",
                     "pt": "Cadastrar provedores de pagamento e antifraude"
                   },
                   "slug": {
@@ -30100,8 +30100,8 @@
                     },
                     {
                       "name": {
-                        "en": "Pix: FAQ",
-                        "es": "Pix: FAQ",
+                        "en": "Pix (Brazil): FAQ",
+                        "es": "Pix (Brasil): preguntas frecuentes",
                         "pt": "Pix: FAQ"
                       },
                       "slug": {
@@ -63920,6 +63920,21 @@
             },
             {
               "name": {
+                "en": "Transaction stuck in \"Cancelling\" although the payment provider confirmed the cancellation",
+                "es": "La transacción se quedó atascada en \"Cancelando\" aunque el proveedor de pagos confirmó la cancelación.",
+                "pt": "Transação presa em \"Cancelando\", embora o provedor de pagamento tenha confirmado o cancelamento."
+              },
+              "slug": {
+                "en": "transaction-stuck-in-cancelling-although-the-payment-provider-confirmed-the-cancellation",
+                "es": "la-transaccion-se-quedo-atascada-en-cancelando-aunque-el-proveedor-de-pagos-confirmo-la-cancelacion",
+                "pt": "transacao-presa-em-cancelando-embora-o-provedor-de-pagamento-tenha-confirmado-o-cancelamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transaction stuck in Approved while payment remains Settling when using partial settlements",
                 "es": "Transacción atascada en Aprobado mientras el pago permanece Liquidando cuando se utilizan liquidaciones parciales.",
                 "pt": "Transação presa em Aprovado enquanto o pagamento permanece Liquidado ao usar liquidações parciais"
@@ -70473,6 +70488,21 @@
             },
             {
               "name": {
+                "en": "Facebook “Review your account permission on Facebook” error requires support to remove the integration authentication",
+                "es": "Facebook El error \"Revisa los permisos de tu cuenta en Facebook\" requiere asistencia para eliminar la autenticación de integración.",
+                "pt": "Facebook O erro “Revise as permissões da sua conta no Facebook” requer suporte para remover a autenticação de integração."
+              },
+              "slug": {
+                "en": "facebook-review-your-account-permission-on-facebook-error-requires-support-to-remove-the-integration-authentication",
+                "es": "facebook-el-error-revisa-los-permisos-de-tu-cuenta-en-facebook-requiere-asistencia-para-eliminar-la-autenticacion-de-integracion",
+                "pt": "facebook-o-erro-revise-as-permissoes-da-sua-conta-no-facebook-requer-suporte-para-remover-a-autenticacao-de-integracao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "FBE PLP/PDP images intermittently fail to load when Meta",
                 "es": "FBE Las imágenes PLP/PDP fallan intermitentemente al cargarse cuando Meta",
                 "pt": "FBE Imagens PLP/PDP falham intermitentemente ao carregar o Meta"
@@ -70556,6 +70586,21 @@
                 "en": "mercado-livre-package-dimensions-are-now-mandatory-for-me1-items-on-mercado-livre",
                 "es": "mercado-livre-las-dimensiones-del-paquete-ahora-son-obligatorias-para-los-articulos-me1-en-mercado-livre",
                 "pt": "mercado-livre-dimensoes-das-embalagens-agora-sao-obrigatorias-para-itens-me1-no-mercado-livre"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Error when re-authenticating the integration",
+                "es": "Mercado Livre Error al volver a autenticar la integración",
+                "pt": "Mercado Livre Erro ao reautenticar a integração"
+              },
+              "slug": {
+                "en": "mercado-livre-error-when-reauthenticating-the-integration",
+                "es": "mercado-livre-error-al-volver-a-autenticar-la-integracion",
+                "pt": "mercado-livre-erro-ao-reautenticar-a-integracao"
               },
               "origin": "",
               "type": "markdown",
