@@ -1,7 +1,7 @@
 ---
 title: "Analytics: Support metrics"
 createdAt: 2026-07-02T16:25:21.244Z
-updatedAt: 2026-11-10T19:00:00.000Z
+updatedAt: 2026-11-10T19:30:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: analytics-support-metrics
@@ -19,7 +19,7 @@ On this page, you'll find the following controls:
 ![Update, filter, and data export buttons](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/analytics/live-desk-data-management-and-filters.png)
 
 - `Refresh`: Manually reloads the dashboard data.
-- `Filters`: Opens filter options by department, queue, representative, tags, and period.
+- `Filters`: Opens filter options by department, queue, representative, tags, channel, and period. In **Channel**, search and select one or more channels used in the project, such as **Instagram**, **Facebook**, **WhatsApp**, **Teams**, and **Email**. The selection applies to the metrics on the dashboard.
 - `Export data`: Allows you to download the data displayed on the dashboard.
 
 This data refreshes automatically, and you can see the time of the last update next to the **Refresh** button.
@@ -79,7 +79,11 @@ Table listing all tags associated with active support chats and displaying, for 
 
 To expand and view the full list of tags, click `View all`.
 
-#### 6. CSAT
+#### 6. Volume per channel
+
+Shows how support chats are distributed across the channels used in the project. Select **Waiting** or **In progress** to see the count for that status. Each channel shows its icon and the number of support chats. With **In progress** selected, the footer shows how many channels have chats in progress.
+
+#### 7. CSAT
 
 Displays the customer satisfaction score (CSAT) based on the surveys collected at the end of support chats.
 
@@ -91,12 +95,12 @@ Displays the customer satisfaction score (CSAT) based on the surveys collected a
 
 ![Monitoring screen 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/analytics/monitoring-screen-3.png)
 
-#### 7. Detailed monitoring
+#### 8. Detailed monitoring
 
 Table listing individual support chats in real time. You can switch between the following views using the tabs at the top of the table:
 
 - **Waiting:** Contacts awaiting a support chat, with accumulated wait time.
-- **In progress:** Active support chats, with representative, department, queue, tag, and recorded time data.
+- **In progress:** Active support chats, with representative, department, queue, channel, tag, and recorded time data. The **Channel** column shows the channel icon.
 - **Representative:** History of representatives for the period.
 - **Custom breaks:** Record of breaks taken by representatives.
 

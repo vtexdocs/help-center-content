@@ -1,7 +1,7 @@
 ---
 title: "Live Desk - Overview"
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-11-10T18:45:00.000Z
+updatedAt: 2026-11-10T19:30:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
@@ -170,10 +170,10 @@ To change the theme, open **Preferences** and select **Light Mode** or **Dark Mo
 
 Human support tracking is done in the **Analytics** module dashboard, divided into two tabs:
 
-- **Monitoring:** real-time data from ongoing support, such as status, average times, volume by queue and tag, and CSAT. Project moderators can set time goals so the dashboard highlights support chats that exceed them. See [Configuring risk alerts](https://help.vtex.com/docs/tutorials/configuring-risk-alerts).
+- **Monitoring:** real-time data from ongoing support, such as status, average times, volume by queue, tag, and channel, and CSAT. Project moderators can set time goals so the dashboard highlights support chats that exceed them. See [Configuring risk alerts](https://help.vtex.com/docs/tutorials/configuring-risk-alerts).
 - **Analytics:** historical data from support finalized in the selected period.
 
-You can filter data by department, queue, representative, tag, and period, as well as export them with the `Export data` button.
+You can filter data by department, queue, representative, tag, channel, and period, as well as export them with the `Export data` button.
 
 For the complete description of each metric and section, see the article [Analytics: Support metrics](https://help.vtex.com/docs/tutorials/analytics-support-metrics). To create custom views, see the article [Analytics: Creating custom dashboard](https://help.vtex.com/docs/tutorials/create-analytics-dashboard).
 
@@ -184,6 +184,10 @@ The Live Desk list is in chronological order, from the most recent support to th
 When viewing the contact's history, you can see the start of the support, the history with the bot, the chat events, and the tags used to classify it. For a closed support chat with a native CSAT response, the history also shows the CSAT score and, when the customer left one, their comment.
 
 To download a closed conversation, see [Exporting a closed conversation](#exporting-a-closed-conversation).
+
+### Viewing webchat history across sessions
+
+Shopping Assistant generates a different URN for each webchat session. When you open the contact's history, webchat conversations from the same contact are grouped together if the room was opened with `email`, `document`, or both.
 
 ### Viewing a representative's support
 
