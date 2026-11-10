@@ -1,7 +1,7 @@
 ---
 title: "Live Desk - Overview"
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-11-10T21:00:00.000Z
+updatedAt: 2026-11-10T21:45:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
@@ -13,12 +13,13 @@ Live Desk is the human support module of VTEX CX Platform, available in every pr
 
 This article covers:
 
-- [Project roles in Live Desk](#project-roles-in-live-desk)
-- [Personal preferences](#personal-preferences)
-- [Handling conversations](#handling-conversations)
-- [Support history and metrics](#support-history-and-metrics)
+- [Roles and permissions in Live Desk](#roles-and-permissions-in-live-desk)
+- [Managing conversations](#managing-conversations)
+- [Composing messages](#composing-messages)
+- [Reviewing support history and metrics](#reviewing-support-history-and-metrics)
+- [Setting personal preferences](#setting-personal-preferences)
 
-## Project roles in Live Desk
+## Roles and permissions in Live Desk
 
 Your project role determines which parts of Live Desk you can use. Two roles apply directly to human support:
 
@@ -27,21 +28,7 @@ Your project role determines which parts of Live Desk you can use. Two roles app
 
 To assign these roles, see [Managing VTEX CX Platform members](https://help.vtex.com/en/docs/tutorials/managing-vtex-cx-platform-members). For the other project roles, such as Contributor, Viewer, and Marketing, see [VTEX CX Platform: Overview](https://help.vtex.com/en/docs/tutorials/vtex-cx-platform-overview#project-permissions).
 
-## Personal preferences
-
-These settings change how Live Desk looks and how it alerts you. They don't change departments, queues, or conversations.
-
-### Receiving browser notifications
-
-Live Desk offers browser notifications as an alternative to audio alerts. To receive them, allow site notifications in your browser settings.
-
-### Choosing light or dark mode
-
-Live Desk offers **Light Mode** and **Dark Mode**. Light Mode is the default. Dark Mode applies a dark theme to Live Desk and the side menu.
-
-To change the theme, open **Preferences** and select **Light Mode** or **Dark Mode**. The selection is saved automatically and applied every time you log in.
-
-## Handling conversations
+## Managing conversations
 
 ### Identifying pending conversations
 
@@ -79,6 +66,20 @@ To view details about the customer you're assisting, click the contact's photo o
 - The option to transfer the conversation
 - The contact's media gallery
 
+### Editing custom contact fields
+
+Representatives can edit a contact's custom fields during support when the department allows it. To enable this option, see [Configuring Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk).
+
+To edit a field, follow these steps:
+
+1. In the conversation, click the contact's name to open the information panel.
+2. Click the field you want to change.
+3. Enter the new value.
+
+### Downloading audio from the contact
+
+You can play an audio message from the contact in the conversation and download the original file. Download the audio when you need to share it with another team, such as logistics or operations, while you escalate a case internally.
+
 ### Transferring a conversation
 
 From the contact information panel, you can transfer an ongoing conversation to a department, a queue, or a representative. Transfers can happen in two ways:
@@ -89,6 +90,27 @@ From the contact information panel, you can transfer an ongoing conversation to 
 After you confirm, the conversation goes to the chosen recipient. To see how a transferred room appears in the conversation list, see [Identifying pending conversations](#identifying-pending-conversations).
 
 Each representative in the transfer list shows a status: **Online**, **Paused** (with the custom break name), or **Offline**. The list shows representatives in that order and sorts names alphabetically within each status. Custom breaks and the **Block chat transfers to offline representatives** option are set in [Configuring Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk).
+
+## Composing messages
+
+### Copying and clearing the message
+
+When you start typing in the message field, two actions become available:
+
+- `Copy text`: Copies the entire content of the message field.
+- `Clear text`: Empties the message field.
+
+### Adding emojis, audio, and files
+
+Use the buttons under the message field to add content to a message:
+
+- **Emojis:** Click the emoji button to open the emoji panel and add an emoji to the message.
+- **Audio:** Click the audio button to record a message and play it back before you send it to the contact.
+- **Files:** Click the attachment button to attach a file.
+
+To attach files faster, you can also drag a file onto the message field, or press `Ctrl + V` to paste an image.
+
+To add a line break in the message field, press `Shift + Enter`.
 
 ### Using quick messages
 
@@ -102,39 +124,6 @@ You can insert a quick message in two ways:
 - **Using a shortcut:** Type `/` followed by the shortcut assigned to the message.
 
 In the list, you can move between messages with the arrow keys and press `Enter` to insert the selected message. You can also set up department-specific quick messages while you create the department. For more information, see [Configuring Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk).
-
-### Adding emojis, audio, and files
-
-Use the buttons under the message field to add content to a message:
-
-- **Emojis:** Click the emoji button to open the emoji panel and add an emoji to the message.
-- **Audio:** Click the audio button to record a message and play it back before you send it to the contact.
-- **Files:** Click the attachment button to attach a file.
-
-To attach files faster, you can also drag a file onto the message field, or press `Ctrl + V` to paste an image.
-
-### Inserting line breaks
-
-To add a line break in the message field, press `Shift + Enter`.
-
-### Copying and clearing the message
-
-When you start typing in the message field, two actions become available:
-
-- `Copy text`: Copies the entire content of the message field.
-- `Clear text`: Empties the message field.
-
-### Downloading audio from the contact
-
-You can play an audio message from the contact in the conversation and download the original file. Download the audio when you need to share it with another team, such as logistics or operations, while you escalate a case internally.
-
-### Adding an internal note
-
-An internal note keeps context in the conversation for other representatives, such as screenshots and a longer explanation. They can read it when they take over the conversation or review it later. The contact doesn't receive it.
-
-In the conversation, the note appears on a yellow background and starts with `Internal note:`, followed by the text. Attached media appears as thumbnails under the text.
-
-Under the message field, click the internal note button, write the note, and send it. You can use more than one paragraph and attach up to 10 media files.
 
 ### Improving a response with AI
 
@@ -159,23 +148,21 @@ To improve a response, follow these steps:
 
     > ℹ️ The AI doesn't send the message on its own. The conversation updates only after you click `Submit`.
 
+### Adding an internal note
+
+An internal note keeps context in the conversation for other representatives, such as screenshots and a longer explanation. They can read it when they take over the conversation or review it later. The contact doesn't receive it.
+
+In the conversation, the note appears on a yellow background and starts with `Internal note:`, followed by the text. Attached media appears as thumbnails under the text.
+
+Under the message field, click the internal note button, write the note, and send it. You can use more than one paragraph and attach up to 10 media files.
+
 ### Adding a representative signature
 
 When **Use signature** is enabled for the department, the representative's name appears in each message bubble, followed by a colon. To enable it, see [Configuring Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk).
 
-### Editing custom contact fields
+## Reviewing support history and metrics
 
-Representatives can edit a contact's custom fields during support when the department allows it. To enable this option, see [Configuring Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk).
-
-To edit a field, follow these steps:
-
-1. In the conversation, click the contact's name to open the information panel.
-2. Click the field you want to change.
-3. Enter the new value.
-
-## Support history and metrics
-
-### Live Desk dashboard
+### Tracking support metrics
 
 Human support is tracked on the **Live Desk** dashboard in the **Analytics** module. The dashboard has two tabs:
 
@@ -223,6 +210,20 @@ To export a closed conversation, follow these steps:
 5. Click `Export conversation`.
 6. Open the email from `no-reply@weni.ai`.
 7. Click `Download report`.
+
+## Setting personal preferences
+
+These settings change how Live Desk looks and how it alerts you. They don't change departments, queues, or conversations.
+
+### Receiving browser notifications
+
+Live Desk offers browser notifications as an alternative to audio alerts. To receive them, allow site notifications in your browser settings.
+
+### Choosing light or dark mode
+
+Live Desk offers **Light Mode** and **Dark Mode**. Light Mode is the default. Dark Mode applies a dark theme to Live Desk and the side menu.
+
+To change the theme, open **Preferences** and select **Light Mode** or **Dark Mode**. The selection is saved automatically and applied every time you log in.
 
 ## Learn more
 
