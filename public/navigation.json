@@ -35281,6 +35281,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Analytics: Configuring risk alerts",
+                    "es": "Analytics: Configuring risk alerts",
+                    "pt": "Analytics: Configuring risk alerts"
+                  },
+                  "slug": {
+                    "en": "configuring-risk-alerts",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Analytics: Create custom dashboard",
                     "es": "Analytics: Crear dashboard personalizado",
                     "pt": "Analytics: Criar dashboard personalizado"
