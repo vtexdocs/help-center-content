@@ -1,7 +1,7 @@
 ---
 title: "Analytics: Support metrics"
 createdAt: 2026-07-02T16:25:21.244Z
-updatedAt: 2026-07-02T14:20:03.298Z
+updatedAt: 2026-11-10T18:10:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: analytics-support-metrics
@@ -52,6 +52,15 @@ Displays average times calculated in real time for active support chats:
 
 Each metric also displays the maximum value recorded in the period.
 
+Project moderators can set an optional time goal for any of these metrics. Goals are independent, so you can configure one, some, or all of them, and choose the unit in seconds, minutes, or hours. When a goal is set and the current maximum for that metric exceeds it, the widget shows a visual alert. A metric without a goal doesn't show an alert.
+
+The same goals can also notify the operation outside the widget:
+
+- A toast appears in **Analytics**, on any open dashboard, when the number of support chats over the limit reaches the number you configured. The default is 5. The toast appears again only after that count drops below the limit and reaches it once more. While the count stays at or above the limit, it doesn't appear again.
+- An email can be sent to selected moderators and managers, with one message per goal (wait time, time to 1st response, or chat duration), using the same count rule as the toast.
+
+To set the goals, the number of support chats that must exceed them, and the email recipients, see [Configuring risk alerts](https://help.vtex.com/en/docs/tutorials/configuring-risk-alerts).
+
 #### 3. Support chats opened per hour
 
 Line chart showing the distribution of support chats started throughout the hours of the day. You can use this chart to identify peak demand times and plan representative shift scheduling.
@@ -90,6 +99,11 @@ Table listing individual support chats in real time. You can switch between the 
 - **In progress:** Active support chats, with representative, department, queue, tag, and recorded time data.
 - **Representative:** History of representatives for the period.
 - **Custom breaks:** Record of breaks taken by representatives.
+
+When a time goal is configured, the table highlights the support chats that exceed it:
+
+- **Waiting:** Highlights chats whose wait time exceeds the average wait time goal.
+- **In progress:** Highlights chats that exceed the time to 1st response goal or the chat duration goal. If a chat exceeds both, the row shows the first-response alert.
 
 The columns display information such as contact, wait time, time to first response, representative, department, and queue.
 
@@ -143,7 +157,7 @@ Table listing the individual support chats completed in the period. You can swit
 
 ##### Completed
 
-This tab contains information about completed support chats, including data on representative, department, queue, wait time, time to first response, duration, contact, and protocol. You can filter results by **representative**, **contact**, and **protocol**.
+This tab contains information about completed support chats, including data on representative, department, queue, wait time, time to first response, duration, contact, protocol, and CSAT score. You can filter results by **representative**, **contact**, and **protocol**.
 
 | Column | Description |
 | --- | --- |
@@ -155,6 +169,7 @@ This tab contains information about completed support chats, including data on r
 | Duration | How long the support chat lasted from start to finish. |
 | Contact | Name of the customer who reached out for support. |
 | Protocol | Protocol number of the support chat. |
+| CSAT score | Customer satisfaction score from the native CSAT response for that closed support chat, when the contact answered the survey. |
 
 ##### Representative
 
@@ -229,6 +244,10 @@ You can choose between native VTEX CX Platform widgets or custom widgets.
 - **Most used agents:** Displays a ranking of the agents most used by support.
 - **Most used tools:** Lists the tools most used by support.
 - **Sales funnel and data:** Relates conversations to the business results generated during the period.
+- **Most searched terms:** Lists the search terms shoppers use most often during conversations. This widget appears automatically when the Concierge agent is assigned to the project.
+- **Most added products to cart:** Lists the products shoppers add to the cart most often during conversations. This widget appears automatically when the Payments agent is assigned to the project.
+
+> ℹ️ **Most searched terms** and **Most added products to cart** don't require any extra configuration. You can remove them from the dashboard and add them back later. They show search and add-to-cart activity inside conversations. They don't measure completed purchases, conversion rates, or business impact.
 
 #### Custom widgets
 

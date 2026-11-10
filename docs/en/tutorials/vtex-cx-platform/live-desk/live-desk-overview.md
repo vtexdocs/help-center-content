@@ -1,7 +1,7 @@
 ---
 title: "Live Desk - Overview"
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-11-10T17:56:00.000Z
+updatedAt: 2026-11-10T18:04:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
@@ -164,7 +164,7 @@ To change the theme, open **Preferences** and select **Light Mode** or **Dark Mo
 
 Human support tracking is done in the **Analytics** module dashboard, divided into two tabs:
 
-- **Monitoring:** real-time data from ongoing support, such as status, average times, volume by queue and tag, and CSAT.
+- **Monitoring:** real-time data from ongoing support, such as status, average times, volume by queue and tag, and CSAT. Project moderators can set time goals so the dashboard highlights support chats that exceed them. See [Configuring risk alerts](https://help.vtex.com/docs/tutorials/configuring-risk-alerts).
 - **Analytics:** historical data from support finalized in the selected period.
 
 You can filter data by department, queue, representative, tag, and period, as well as export them with the `Export data` button.
@@ -175,7 +175,7 @@ For the complete description of each metric and section, see the article [Analyt
 
 The Live Desk list is in chronological order, from the most recent support to the oldest. In this list, you can see the contact's photo, name, the representative who handled the support, the tags used in classification, the date, and a button to open the chat.
 
-When viewing the contact's history, you can see the start of the support, the history with the bot, the chat events, and the tags used to classify it.
+When viewing the contact's history, you can see the start of the support, the history with the bot, the chat events, and the tags used to classify it. For a closed support chat with a native CSAT response, the history also shows the CSAT score and, when the customer left one, their comment.
 
 ### View mode
 
