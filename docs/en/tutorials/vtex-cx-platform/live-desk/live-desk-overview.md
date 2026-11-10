@@ -1,7 +1,7 @@
 ---
 title: "Live Desk - Overview"
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-11-10T18:04:00.000Z
+updatedAt: 2026-11-10T18:30:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
@@ -51,18 +51,44 @@ The filter applies to rooms awaiting support. Moderators can also use it for roo
 
 When you click the contact's photo or name in any area of the conversation, you access the contact information panel, which displays the enlarged photo, data such as the channel the contact is using, the time of the last message, the transfer chat function, and the contact's media gallery.
 
-### Creating and sending quick replies
+### Transferring chat
 
-Quick replies allow you to register message templates for agile use during support. When you click the quick replies button, you access the feature panel, where you can view, manage, and register messages. When you select the desired message, the registered text fills the text editor field.
+The transfer chat function directs the contact to a specific department, queue, or representative and can be accessed in the contact information panel. The transfer can be triggered by the AI agent, when this option is enabled in the configurations, or manually by a manager or admin. In manual transfer, you can search by name of a representative, queue, or department, or select a recipient from the displayed list. When you confirm the transfer, the contact is forwarded to the chosen recipient.
 
-You can use quick replies in two ways:
+Each representative in the list shows a current status: **Online**, **Paused** (with the name of the custom break), or **Offline**. Representatives appear in this order: Online, then Paused, then Offline. Within each status, names are listed alphabetically. Custom breaks and the option **Block chat transfers to offline representatives** are configured in [Configuring Live Desk](https://help.vtex.com/docs/tutorials/configure-live-desk).
 
-- Open the panel by clicking the quick replies button, then click the desired message.
+To learn how support is distributed among representatives, see [Attendance distribution rule](https://help.vtex.com/docs/tutorials/attendance-distribution-rule).
+
+### Creating and sending quick messages
+
+Quick messages are templates you can register and reuse during support. The message field shows `Type your message or / to activate quick messages`. Under the field, click the quick messages button to open the panel, where you can view, manage, and register messages. When you select a message, the text fills the field.
+
+You can use quick messages in two ways:
+
+- Open the panel by clicking the quick messages button, then click the desired message.
 - When registering the message, define a keyword as a shortcut. To use it, type `/` followed by the shortcut.
 
 You can navigate through messages with the keyboard arrows and press `Enter` to use the message. When you type the shortcut text, the tool also performs a specific search.
 
-You can also configure department-specific quick replies. This configuration is done during department creation. For more information, see [Configuring Live Desk](https://help.vtex.com/docs/tutorials/configure-live-desk).
+You can also configure department-specific quick messages. This configuration is done during department creation. For more information, see [Configuring Live Desk](https://help.vtex.com/docs/tutorials/configure-live-desk).
+
+### Sending emojis
+
+Click the emoji button under the message field to open the emoji panel and add an emoji to the message.
+
+### Recording and sending audio
+
+Under the message field, click the audio button to record and send audio. Before sending, you can play the audio and then send it to the contact.
+
+### Attaching files
+
+To attach a file, click the attachment button under the message field. You can also drag the file onto the text box, or press `Ctrl + V` to paste an image.
+
+### Adding an internal note
+
+An internal note keeps context in the conversation for other representatives. The contact doesn't receive it.
+
+Under the message field, click the internal note button, write the note, and send it. You can use more than one paragraph and attach up to 10 files.
 
 ### Improve response with AI
 
@@ -87,30 +113,6 @@ To improve a response, follow these steps:
 
 > ℹ️ The AI doesn't send any message automatically to the contact. The conversation is only updated when you click `Submit`.
 
-### Transferring chat
-
-The transfer chat function directs the contact to a specific department, queue, or representative and can be accessed in the contact information panel. The transfer can be triggered by the AI agent, when this option is enabled in the configurations, or manually by a manager or admin. In manual transfer, you can search by name of a representative, queue, or department, or select a recipient from the displayed list. When you confirm the transfer, the contact is forwarded to the chosen recipient.
-
-Each representative in the list shows a current status: **Online**, **Paused** (with the name of the custom break), or **Offline**. Representatives appear in this order: Online, then Paused, then Offline. Within each status, names are listed alphabetically. Custom breaks and the option **Block chat transfers to offline representatives** are configured in [Configuring Live Desk](https://help.vtex.com/docs/tutorials/configure-live-desk).
-
-To learn how support is distributed among representatives, see [Attendance distribution rule](https://help.vtex.com/docs/tutorials/attendance-distribution-rule).
-
-### Recording and sending audio
-
-Through the text box buttons, you can record and send audio. Before sending, you can play the audio and then send it to the contact.
-
-### Downloading audio from the contact
-
-You can play an audio message sent by the contact inside the conversation and download the original file. Download the audio when you need to share it with another team, such as logistics, operations, or another support area, while escalating a case internally.
-
-### Attaching files
-
-To attach files, drag them to the text box. You can also use the `Ctrl + V` shortcut to paste images directly without manually attaching them.
-
-### Sending emojis
-
-Live Desk offers a complete emoji panel, which helps convey the tone and intent of messages during support.
-
 ### Inserting line breaks
 
 To help with the visual organization of the message, you can insert line breaks by pressing `Shift + Enter`.
@@ -121,6 +123,10 @@ As soon as you start typing in the conversation's text field, two actions become
 
 - `Copy text`: Copies the entire content of the message field.
 - `Clear text`: Empties the message field.
+
+### Downloading audio from the contact
+
+You can play an audio message sent by the contact inside the conversation and download the original file. Download the audio when you need to share it with another team, such as logistics, operations, or another support area, while escalating a case internally.
 
 ### Configuring active signature
 
