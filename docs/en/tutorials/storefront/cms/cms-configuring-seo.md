@@ -89,7 +89,7 @@ Product page URLs are generated from the Catalog. The page title and meta descri
 
 ### Product Listing Page (PLP)
 
-PLP URLs, including Category Landing Pages (CLPs) and Subcategory Landing Pages (SCLPs), are generated from the Catalog category tree. The page title and meta description are configured in the Catalog category settings. See [Configuring SEO for PLPs and PDPs](https://developers.vtex.com/docs/guides/faststore/seo-configuring-seo-for-plp-and-pdp).
+Product Listing Page (PLP) URLs, including Category Landing Pages (CLPs) and Subcategory Landing Pages (SCLPs), are generated from the Catalog category tree. The page title and meta description are configured in the Catalog category settings. See [Configuring SEO for PLPs and PDPs](https://developers.vtex.com/docs/guides/faststore/seo-configuring-seo-for-plp-and-pdp).
 
 | Field | Description | Example |
 | ----- | ----- | ----- |
