@@ -1,7 +1,7 @@
 ---
 title: "Analytics: Support metrics"
 createdAt: 2026-07-02T16:25:21.244Z
-updatedAt: 2026-11-10T19:30:00.000Z
+updatedAt: 2026-11-10T19:45:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: analytics-support-metrics
@@ -100,7 +100,7 @@ Displays the customer satisfaction score (CSAT) based on the surveys collected a
 Table listing individual support chats in real time. You can switch between the following views using the tabs at the top of the table:
 
 - **Waiting:** Contacts awaiting a support chat, with accumulated wait time.
-- **In progress:** Active support chats, with representative, department, queue, channel, tag, and recorded time data. The **Channel** column shows the channel icon.
+- **In progress:** Active support chats, with representative, department, queue, channel, tag, and recorded time data. The **Channel** column shows the channel icon. The **Duration** column shows a blue arrow next to the time when the chat is waiting for a reply.
 - **Representative:** History of representatives for the period.
 - **Custom breaks:** Record of breaks taken by representatives.
 

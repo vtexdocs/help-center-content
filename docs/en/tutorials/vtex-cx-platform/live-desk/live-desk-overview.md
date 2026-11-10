@@ -1,7 +1,7 @@
 ---
 title: "Live Desk - Overview"
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-11-10T19:30:00.000Z
+updatedAt: 2026-11-10T20:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
@@ -32,6 +32,17 @@ To learn how to assign these roles, see the article [Managing VTEX CX Platform m
 
 ## Features
 
+### Identifying pending conversations
+
+The conversation list shows who sent the last message in each room, so you can see which rooms are waiting for a reply.
+
+- A number shows how many messages from the contact are unread.
+- A blue arrow shows that the contact's last message has been read and still needs a reply.
+- When you sent the last message, the preview starts with `You:`. This applies to text and media messages.
+- A blue dot shows that the room was transferred, returned to a queue, picked up from the queue, or assigned automatically. The dot appears regardless of who sent the last message. When a previous representative sent that message, the preview doesn't start with `You:`.
+
+In the **representative's support view mode**, a room waiting for a reply shows the blue arrow. The preview doesn't include the `You:` prefix.
+
 ### Filtering rooms by queue
 
 In the **Waiting rooms** view, filter the list by queue to see only the rooms in the queues you select. You can select one or more queues. Clear the filter to return to the full list.
@@ -53,7 +64,7 @@ When you click the contact's photo or name in any area of the conversation, you 
 
 ### Transferring chat
 
-The transfer chat function directs the contact to a specific department, queue, or representative and can be accessed in the contact information panel. The transfer can be triggered by the AI agent, when this option is enabled in the configurations, or manually by a manager or admin. In manual transfer, you can search by name of a representative, queue, or department, or select a recipient from the displayed list. When you confirm the transfer, the contact is forwarded to the chosen recipient.
+The transfer chat function directs the contact to a specific department, queue, or representative and can be accessed in the contact information panel. The transfer can be triggered by the AI agent, when this option is enabled in the configurations, or manually by a manager or admin. When the AI agent transfers the conversation, it chooses the queue from the descriptions set in [Configuring Live Desk](https://help.vtex.com/docs/tutorials/configure-live-desk). In manual transfer, you can search by name of a representative, queue, or department, or select a recipient from the displayed list. When you confirm the transfer, the contact is forwarded to the chosen recipient. To see how a transferred room appears in the conversation list, see [Identifying pending conversations](#identifying-pending-conversations).
 
 Each representative in the list shows a current status: **Online**, **Paused** (with the name of the custom break), or **Offline**. Representatives appear in this order: Online, then Paused, then Offline. Within each status, names are listed alphabetically. Custom breaks and the option **Block chat transfers to offline representatives** are configured in [Configuring Live Desk](https://help.vtex.com/docs/tutorials/configure-live-desk).
 
@@ -86,9 +97,11 @@ To attach a file, click the attachment button under the message field. You can a
 
 ### Adding an internal note
 
-An internal note keeps context in the conversation for other representatives. The contact doesn't receive it.
+An internal note keeps context in the conversation for other representatives, such as screenshots and a longer explanation, so they can read it when they pick up the conversation or review it later. The contact doesn't receive it.
 
-Under the message field, click the internal note button, write the note, and send it. You can use more than one paragraph and attach up to 10 files.
+In the conversation, the note appears on a yellow background. It starts with **Internal note:**, followed by the text. Attached media appears as thumbnails under the text.
+
+Under the message field, click the internal note button, write the note, and send it. You can use more than one paragraph and attach up to 10 media files.
 
 ### Improve response with AI
 
@@ -191,7 +204,7 @@ Shopping Assistant generates a different URN for each webchat session. When you 
 
 ### Viewing a representative's support
 
-When you click the representative's name in the dashboard, the **representative's support view mode** opens. This way, you can have an overview of the support details by representative, and a manager can take over a chat at any time, transferring the support to themselves.
+When you click the representative's name in the dashboard, the **representative's support view mode** opens. This way, you can have an overview of the support details by representative, and a manager can take over a chat at any time, transferring the support to themselves. To see how pending rooms appear in this view, see [Identifying pending conversations](#identifying-pending-conversations).
 
 ### Exporting a closed conversation
 
