@@ -14,7 +14,7 @@ Este artigo explica o que diferencia uma campanha offsite, quem participa dela, 
 
 ## Como funciona a jornada
 
-Uma campanha offsite envolve duas partes diferentes: o publisher de mídia, que exibe o anúncio, e o varejo de destino, que recebe o usuário e onde a compra acontece. Por isso, a atribuição da venda depende de o **VTEX Ads** reconhecer o usuário quando ele chega ao varejo de destino. A jornada segue estas etapas:
+Uma campanha offsite envolve, além do anunciante, duas partes: o publisher de mídia, que exibe o anúncio, e o varejo de destino, que recebe o usuário e onde a compra acontece. Por isso, a atribuição da venda depende de que o **VTEX Ads** registre a chegada do usuário ao varejo de destino. A jornada segue estas etapas:
 
 1. **Exibição:** o anúncio é exibido fora do varejo de destino, no canal do publisher de mídia.
 2. **Clique:** o usuário clica no anúncio. O link de destino carrega os parâmetros do **VTEX Ads** que identificam a campanha e o clique.
@@ -40,18 +40,18 @@ Uma campanha offsite reúne três partes, cada uma com um papel distinto:
 
 A atribuição de uma venda à campanha offsite só acontece quando todas as pré-condições a seguir são atendidas. Cada uma depende de uma parte diferente:
 
-| Pré-condição | Responsável | Onde saber mais |
-| :---- | :---- | :---- |
-| O anúncio é veiculado com os parâmetros do **VTEX Ads** preservados, e o link de destino não é encurtado nem alterado. | Publisher de mídia | - |
-| A loja está disponível como destino de campanhas offsite, com o toggle `Disponível para novas campanhas` ativo na tela **Varejo de destino**. | Varejo de destino | [Varejo de destino](/pt/docs/tutorials/varejo-de-destino) |
-| O script web está instalado na vitrine, o SDK mobile está instalado no app, ou ambos, e a página ou o app de destino carrega para o usuário. | Equipe do varejo de destino | [Installing the offsite capture web script](https://developers.vtex.com/docs/guides/installing-the-offsite-capture-web-script) e [Installing Activity Flow in mobile apps](https://developers.vtex.com/docs/guides/installing-activity-flow-in-mobile-apps) |
-| A campanha está configurada com o varejo de destino correto. | Equipe do **VTEX Ads** | - |
+| Pré-condição                                                                                                                                  | Responsável                 | Saiba mais                                                                                                                                                                                                                                                  |
+| :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| O anúncio é veiculado com os parâmetros do **VTEX Ads** preservados, e o link de destino não é encurtado nem alterado.                        | Publisher de mídia          | -                                                                                                                                                                                                                                                           |
+| A loja está disponível como destino de campanhas offsite, com o toggle `Disponível para novas campanhas` ativo na tela **Varejo de destino**. | Varejo de destino           | [Varejo de destino](/pt/docs/tutorials/varejo-de-destino)                                                                                                                                                                                                   |
+| O script web está instalado na vitrine, o SDK mobile está instalado no app, ou ambos, e a página ou o app de destino carrega para o usuário.  | Equipe do varejo de destino | [Installing the offsite capture web script](https://developers.vtex.com/docs/guides/installing-the-offsite-capture-web-script) e [Installing Activity Flow in mobile apps](https://developers.vtex.com/docs/guides/installing-activity-flow-in-mobile-apps) |
+| A campanha está configurada com o varejo de destino correto.                                                                                  | Equipe do **VTEX Ads**      | -                                                                                                                                                                                                                                                           |
 
 > ⚠️ Participar como destino e ter a coleta de dados funcionando são estados independentes. Ativar a participação na tela **Varejo de destino** não instala nem valida a coleta. Se o script web ou o SDK mobile não estiver implementado, o **VTEX Ads** não registra a chegada do usuário e a venda não é atribuída à campanha.
 
 ## Como a campanha é criada
 
-Hoje, a equipe do **VTEX Ads** cria a campanha offsite na conta do anunciante, define o publisher de mídia e o varejo de destino e aprova a campanha. O anunciante não cria a campanha nem passa por uma etapa de aprovação, e o varejo de destino também não aprova. Como a criação não está disponível em autoatendimento, este artigo não descreve esse procedimento. Para solicitar uma campanha offsite, o anunciante entra em contato com a equipe do **VTEX Ads**.
+Atualmente, a equipe do **VTEX Ads** cria a campanha offsite na conta do anunciante, define o publisher de mídia e o varejo de destino e aprova a campanha. O anunciante não cria a campanha nem passa por uma etapa de aprovação, e o varejo de destino também não aprova. Para solicitar uma campanha offsite, o anunciante entra em contato com a equipe do **VTEX Ads**.
 
 ## Onde os resultados aparecem
 
@@ -60,7 +60,7 @@ Cada parte vê uma parcela diferente dos resultados de uma campanha offsite:
 - **Anunciante:** acompanha as métricas de entrega e de conversão no relatório de campanha do **VTEX Ads**, agregadas por campanha. O relatório não detalha qual publisher de mídia veiculou o anúncio.
 - **Varejo de destino:** vê, na tela **Varejo de destino**, quais anunciantes estão enviando tráfego de campanhas offsite para a loja e quantas campanhas ativas cada um tem. A tela não exibe métricas de desempenho dessas campanhas.
 
-<!-- TODO: confirmar com a equipe do VTEX Ads o que o publisher de mídia vê dentro da plataforma (Q5b) antes de publicar. -->
+
 
 ## Saiba mais
 
