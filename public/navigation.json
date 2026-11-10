@@ -31637,6 +31637,36 @@
           "children": [
             {
               "name": {
+                "en": "VTEX Ads campaign and creative approval",
+                "es": "Aprobación de campañas y creativos en VTEX Ads",
+                "pt": "Aprovação de campanhas e criativos no VTEX Ads"
+              },
+              "slug": {
+                "en": "vtex-ads-campaign-and-creative-approval",
+                "es": "aprobacion-de-campanas-y-creativos-en-vtex-ads",
+                "pt": "aprovacao-de-campanhas-e-criativos-no-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "How to review and approve campaigns and creatives in VTEX Ads",
+                "es": "Cómo revisar y aprobar campañas y creativos en VTEX Ads",
+                "pt": "Como revisar e aprovar campanhas e criativos no VTEX Ads"
+              },
+              "slug": {
+                "en": "vtex-ads-review-and-approve-campaigns-and-creatives",
+                "es": "como-revisar-y-aprobar-campanas-y-creativos-en-vtex-ads",
+                "pt": "como-revisar-e-aprovar-campanhas-e-criativos-no-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "VTEX Ads metrics and attribution",
                 "es": "Métricas y atribución de VTEX Ads",
                 "pt": "Métricas e atribuição do VTEX Ads"
@@ -40088,6 +40118,21 @@
                 "en": "search-organization-filter-not-applying-after-changing-organization-in-store-frontend",
                 "es": "el-filtro-de-organizacion-de-busqueda-no-se-aplica-despues-de-cambiar-la-organizacion-en-el-frontend-de-la-tienda",
                 "pt": "o-filtro-search-organization-nao-esta-sendo-aplicado-apos-a-alteracao-da-organizacao-no-frontend-da-loja"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order Again flow in B2B Suite can lead to orders placed with wrong marketing data",
+                "es": "El flujo de \"Volver a pedir\" en B2B Suite puede dar lugar a pedidos realizados con datos de marketing incorrectos.",
+                "pt": "O fluxo \"Fazer novo pedido\" no B2B Suite pode levar a pedidos feitos com dados de marketing incorretos."
+              },
+              "slug": {
+                "en": "order-again-flow-in-b2b-suite-can-lead-to-orders-placed-with-wrong-marketing-data",
+                "es": "el-flujo-de-volver-a-pedir-en-b2b-suite-puede-dar-lugar-a-pedidos-realizados-con-datos-de-marketing-incorrectos",
+                "pt": "o-fluxo-fazer-novo-pedido-no-b2b-suite-pode-levar-a-pedidos-feitos-com-dados-de-marketing-incorretos"
               },
               "origin": "",
               "type": "markdown",
