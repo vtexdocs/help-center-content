@@ -3,7 +3,7 @@ title: "Using active triggering of flows"
 id: 2G7HPM4mD3vuxPHUgtexb7
 status: PUBLISHED
 createdAt: 2025-09-12T16:44:52.727Z
-updatedAt: 2026-11-10T00:00:00.000Z
+updatedAt: 2026-11-10T19:00:00.000Z
 publishedAt: 2025-10-03T14:22:54.202Z
 firstPublishedAt: 2025-10-03T14:22:54.202Z
 contentType: tutorial
@@ -82,10 +82,12 @@ After the flow is enabled and the department allows outbound triggers, agents ca
 2. In the side menu, click **Live Desk**.
 3. Click `View options`.
 4. Click `Flows`.
-5. Check the boxes for the contacts you want to trigger the flow for.
-6. Click `Continue`.
-7. In **Select flow**, choose the desired flow.
-8. If the flow has no template variables configured with `@trigger.params`, click `Send`.
+5. Search for a contact by phone number.
+        > ℹ️ For a Brazilian phone number, the search finds the contact whether the number is saved with or without the ninth digit. No configuration is required.
+6. Check the boxes for the contacts you want to trigger the flow for.
+7. Click `Continue`.
+8. In **Select flow**, choose the desired flow.
+9. If the flow has no template variables configured with `@trigger.params`, click `Send`.
 
 The selected contacts will receive the flow. When a contact replies, the conversation will become available as a support chat in Live Desk.
 
