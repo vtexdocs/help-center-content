@@ -3,7 +3,7 @@ title: 'Configuring promotions for marketplaces'
 id: tutorials_406
 status: PUBLISHED
 createdAt: 2017-04-27T22:06:28.854Z
-updatedAt: 2024-11-11T16:46:25.421Z
+updatedAt: 2026-11-04T17:45:00.000Z
 publishedAt: 2024-11-11T16:46:25.421Z
 firstPublishedAt: 2017-04-27T23:03:23.902Z
 contentType: tutorial
@@ -134,4 +134,3 @@ If necessary, you can segment promotions for specific marketplaces. You can obta
 3. In the **Sales Policy** section, select the **Equal to** and **Delivered by me (Other stores)** options.
 4. Click on `Save`.
 
-> ⚠️  Please remember to [reindex all products included in the promotion](/en/docs/tutorials/database-maintenance-full-cleanup) after you’ve created it and at the beginning and end of the promotions. This will ensure that the prices of your products are up to date.

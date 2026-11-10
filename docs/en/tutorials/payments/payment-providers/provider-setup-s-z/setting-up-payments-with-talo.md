@@ -1,14 +1,14 @@
 ---
 title: 'Setting up payments with Talo'
 createdAt: 2026-07-31T00:00:00.000Z
-updatedAt: 2026-07-31T00:00:00.000Z
+updatedAt: 2026-11-05T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
 slugEN: setting-up-payments-with-talo
 locale: en
 hidden: false
 ---
-At VTEX, it is possible to integrate with the Talo payment provider. Through this provider, your store can make sales using Notes Payable.
+At VTEX, it is possible to integrate with the Talo payment provider. Through this provider, your store can make sales using Notes Payable and Transferencia Bancaria Automatica.
 
 
 
@@ -20,7 +20,7 @@ To configure Talo, follow the steps below:
 4. In **Provider Authorization**, fill in the **App key** and **App token** fields with data provided by your account Talo.
 5. If you wish to modify the identification name to be displayed for the Talo provider on the VTEX Admin screen, enter the information in the **Name** field in **Basic Information**.
 6. In **Payment Control**, select whether you want to activate the provider in a test environment by clicking **Enable test mode**.
-7. In **Provider Fields**, select or complete the fields **clientId**, **clientSecret**, **userId**, **useSandbox**, y **integratedCheckout** according to the provider's  instructions.
+7. In **Provider Fields**, select or complete the fields **clientId**, **clientSecret**, **userId**, **useSandbox**, **paymentPagePath** and **integratedCheckout** according to the provider's  instructions.
 8. Click `Save`.
 
 To set up payment through Notes Payable, access [Setting up payments with Notes Payable](/en/docs/tutorials/setting-up-payments-with-notes-payable).

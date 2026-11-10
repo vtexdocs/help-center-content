@@ -1,21 +1,15 @@
 ---
 title: 'Setting up payments with Credibanco'
-id:
-status: PUBLISHED
 createdAt: 2025-12-11T00:00:00.000Z
-updatedAt: 2025-12-11T00:00:00.000Z
-publishedAt: 2025-12-11T00:00:00.000Z
-firstPublishedAt: 2025-12-11T00:00:00.000Z
+updatedAt: 2026-11-05T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-credibanco
-legacySlug: setting-up-payments-with-credibanco
 locale: en
-subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+hidden: false
 ---
 
-At VTEX, it is possible to integrate with the payment provider Credibanco. Through this provider, your store can make sales via credit cards, PSE, notes payable, Venda Direta Crédito, Venda Direta Débito, Bancolombia-Credibanco, Efecty-Credibanco and Datafono-Credibanco.
+At VTEX, it is possible to integrate with the payment provider Credibanco. Through this provider, your store can make sales via credit cards, PSE, notes payable, Venda Direta Crédito, Venda Direta Débito, Bancolombia-Credibanco, Efecty-Credibanco, Datafono-Credibanco and Bre-B-Credibanco.
 
 To configure Credibanco, follow the steps below:
 

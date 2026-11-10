@@ -3,7 +3,7 @@ title: 'Integrating with Zoom'
 id: 2OoQjigCVOIEWWkgOqwCK6
 status: PUBLISHED
 createdAt: 2017-05-19T17:47:11.266Z
-updatedAt: 2025-08-26T17:51:12.618Z
+updatedAt: 2026-11-04T17:45:00.000Z
 publishedAt: 2025-08-26T17:51:12.618Z
 firstPublishedAt: 2017-05-19T18:04:32.420Z
 contentType: tutorial
