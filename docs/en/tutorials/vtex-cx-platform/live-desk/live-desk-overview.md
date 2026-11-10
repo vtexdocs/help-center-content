@@ -1,7 +1,7 @@
 ---
 title: "Live Desk - Overview"
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-07-24T00:00:00.000Z
+updatedAt: 2026-11-10T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
@@ -123,6 +123,12 @@ Editing contact fields allows you to correct incorrect data or update customer i
 ### Receiving browser notifications
 
 Live Desk offers browser notifications as an alternative to audio alerts. To receive them, allow site notifications in your browser settings.
+
+### Choosing the interface theme
+
+Live Desk offers **Light Mode** and **Dark Mode**. Light Mode is the default. Dark Mode applies a dark theme to Live Desk and the side menu.
+
+To change the theme, open **Preferences** and select **Light Mode** or **Dark Mode**. The selection is saved automatically and applied every time you log in.
 
 ## History and dashboard
 
