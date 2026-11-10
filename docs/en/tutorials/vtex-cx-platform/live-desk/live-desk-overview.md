@@ -1,7 +1,7 @@
 ---
 title: "Live Desk - Overview"
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-11-10T18:30:00.000Z
+updatedAt: 2026-11-10T18:45:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
@@ -183,9 +183,29 @@ The Live Desk list is in chronological order, from the most recent support to th
 
 When viewing the contact's history, you can see the start of the support, the history with the bot, the chat events, and the tags used to classify it. For a closed support chat with a native CSAT response, the history also shows the CSAT score and, when the customer left one, their comment.
 
-### View mode
+To download a closed conversation, see [Exporting a closed conversation](#exporting-a-closed-conversation).
+
+### Viewing a representative's support
 
 When you click the representative's name in the dashboard, the **representative's support view mode** opens. This way, you can have an overview of the support details by representative, and a manager can take over a chat at any time, transferring the support to themselves.
+
+### Exporting a closed conversation
+
+Only project moderators can export a closed conversation. You can export it for up to one year after the conversation is closed. Active conversations can't be exported.
+
+The file is a conversation report. It includes the message transcription, chat events, and support details such as **Started**, **Ended**, **Representative**, **Contact**, **URN**, **Ticket ID**, **Tags**, and **CSAT**.
+
+To export a closed conversation, follow these steps:
+
+1. Open a closed conversation from the history list.
+2. Click `Export conversation`.
+3. Select **PDF** or **HTML**. **PDF** is selected by default.
+4. Select `I accept the terms and understand the export limitations.`
+5. Click `Export conversation`.
+6. Open the email from `no-reply@weni.ai`.
+7. Click `Download report`.
+
+> ⚠️ While this export is being processed, new exports are temporarily blocked for this conversation.
 
 ## Configuration and related resources
 
