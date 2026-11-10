@@ -37,13 +37,13 @@ Por padrão, a campanha Network veicula em toda a rede. A rede pode habilitar a 
 
 A rede aprova os criativos da campanha Network. Depois da aprovação, os anúncios são exibidos nas lojas dos sub-publishers incluídos na campanha, e cada uma dessas lojas recebe o tráfego e registra as conversões dos anúncios exibidos nela.
 
-<!-- TODO (equipe de docs): reconfirmar com a equipe do VTEX Ads o estado atual da aprovação em campanhas Network (quem aprova os criativos e quem define a URL de destino) antes de publicar (Q7b). -->
+
 
 ## Campanha offsite
 
 A campanha offsite reúne um anunciante, um publisher de mídia e um varejo de destino. O anúncio é exibido fora da loja que recebe o tráfego, no canal do publisher de mídia, e o clique leva o usuário até o varejo de destino, onde a compra acontece.
 
-Nesse modelo, a equipe do **VTEX Ads** cria a campanha na conta do anunciante, define o publisher de mídia e o varejo de destino e aprova a campanha. O anunciante financia a campanha, mas não a cria nem a aprova. O publisher de mídia e o varejo de destino também não aprovam.
+Nesse modelo, o anunciante cria a campanha na conta do anunciante, define o publisher de mídia e o varejo de destino e aprova a campanha. Atualmente este processo é feito com auxílio do time do VTEX Ads.
 
 Cada parte acompanha um recorte diferente dos resultados. O anunciante vê as métricas de entrega e de conversão agregadas por campanha, sem detalhe de qual publisher de mídia exibiu o anúncio. O varejo de destino vê quais anunciantes enviam tráfego para a loja e quantas campanhas ativas cada um tem, sem métricas de desempenho. Para entender a jornada do clique até o pedido atribuído e o que cada parte precisa garantir, consulte [Campanhas offsite no VTEX Ads](/pt/docs/tutorials/campanhas-offsite-no-vtex-ads).
 
@@ -62,7 +62,7 @@ A tabela a seguir resume quem é responsável por cada etapa em cada modelo de c
 | Registrar a conversão | Loja do publisher | Loja do sub-publisher em que o anúncio foi exibido | Varejo de destino, por meio do script web ou do SDK mobile instalado |
 | Acompanhar métricas | Anunciante e publisher, cada um com a visão do seu lado | Anunciante e rede, cada um com a visão do seu lado | Anunciante, com métricas agregadas por campanha. Varejo de destino, com a lista de anunciantes e de campanhas ativas |
 
-<!-- TODO (equipe de docs): antes de publicar, confirmar com a equipe do VTEX Ads (1) o que o publisher de mídia vê dentro da plataforma em campanhas offsite (Q5b) e (2) o estado atual da aprovação em campanhas Network, refletido nas células "Aprovar criativos" e "Definir a URL de destino" da coluna Network (Q7b). -->
+
 
 ## Saiba mais
 
