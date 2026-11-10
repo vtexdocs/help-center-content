@@ -20787,6 +20787,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Configuring SEO via CMS",
+                    "es": "Configuring SEO via CMS",
+                    "pt": "Configuring SEO via CMS"
+                  },
+                  "slug": {
+                    "en": "cms-configuring-seo",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
