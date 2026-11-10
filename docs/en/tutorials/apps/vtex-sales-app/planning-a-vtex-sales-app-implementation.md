@@ -1,10 +1,10 @@
 ---
-title: 'Planning VTEX Sales App implementation'
+title: 'Planning a VTEX Sales App implementation'
 createdAt: 2026-11-10T00:00:00.000Z
 updatedAt: 2026-11-10T00:00:00.000Z
 contentType: tutorial
 productTeam: Shopping
-slugEN: planning-vtex-sales-app-implementation
+slugEN: planning-a-vtex-sales-app-implementation
 locale: en
 ---
 
