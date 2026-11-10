@@ -1,26 +1,21 @@
 ---
-title: 'What is the connector?'
-id: 3lze0Cu0bmyC6u2o2iaeEA
-status: PUBLISHED
+title: 'Payment connector'
 createdAt: 2018-02-08T21:31:32.599Z
-updatedAt: 2019-12-31T15:29:12.894Z
-publishedAt: 2019-12-31T15:29:12.894Z
-firstPublishedAt: 2018-02-08T22:18:43.418Z
+updatedAt: 2026-10-30T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 245tA425AIeioKAk2eaiwS
 slugEN: what-is-the-connector
-legacySlug: what-is-the-connector
 locale: en
-subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
+hidden: false
 ---
 
-Connectors are communication protocols that your store needs to use to enable data transmission between itself and acquirers, sub-acquirers, or gateways.
+A payment connector is the integration between the VTEX Payments module and a payment provider, such as a gateway, an acquirer, or a sub-acquirer. The connector implements the [Payment Provider Protocol](/en/docs/tutorials/payment-provider-protocol), which defines how VTEX and the provider exchange data for each transaction. The same provider can offer more than one connector, such as different versions of an integration or country-specific connectors.
 
-For example, for your web site to offer a particular payment method to your customers, you need to enable the connector that will communicate with the gateway responsible for the processing.
+For your store to offer a payment method, you need to configure the provider that will process it in **Store Settings > Payments > Providers**, as described in [Configuring payment providers](/en/docs/tracks/configuring-payment-connectors). A single payment method can be processed by multiple providers, and a single provider can process multiple payment methods. That's why, for each [payment condition](/en/docs/tutorials/how-to-configure-payment-conditions), you use the **Process with provider** field to choose which of the configured providers will process it.
 
-Another important characteristic is the parity of connections. Just as one means of payment can communicate with multiple connectors, one connector can establish communication with multiple means of payment. Because of this possibility, you need to [configure the connector](https://help.vtex.com/en/docs/tutorials/registering-gateway-affiliations) on your store.
+To find out which connectors are available for your provider at VTEX, see the [List of Payment Providers by Country](/en/docs/tutorials/list-of-payment-providers-by-country), which also links to the setup tutorial for each provider. If no connector is available, the provider can develop one by following the guidelines in [Developing a payment connector for VTEX](/en/docs/tutorials/developing-a-payment-connector-for-vtex).
 
 ### Related articles
-- [Payments - Overview](/en/tutorial/pci-gateway-overview)
-- [Register payment and anti-fraud providers](https://help.vtex.com/en/docs/tutorials/registering-gateway-affiliations)
+
+- [How the payments module works](/en/docs/tracks/how-the-payments-module-works)
+- [Register payment and anti-fraud providers](/en/docs/tutorials/registering-gateway-affiliations)

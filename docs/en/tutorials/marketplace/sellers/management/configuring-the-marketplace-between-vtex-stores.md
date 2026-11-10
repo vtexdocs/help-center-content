@@ -3,7 +3,7 @@ title: 'Configuring a marketplace between VTEX stores'
 id: tutorials_6520
 status: PUBLISHED
 createdAt: 2017-04-27T21:48:44.692Z
-updatedAt: 2025-09-04T15:23:15.845Z
+updatedAt: 2026-11-04T15:00:00.000Z
 publishedAt: 2025-09-04T15:23:15.845Z
 firstPublishedAt: 2017-04-27T23:11:18.934Z
 contentType: tutorial
@@ -29,15 +29,6 @@ Being a seller means that your store will send and sell products through another
 1. Set up the [sales channel](/en/tutorial/configuring-a-marketplace-sales-policy/).
 2. Set up the [logistics](/en/docs/tutorials/configuring-logistics-for-a-marketplace/) regarding this sales channel.
 3. Set up the [affiliate](/en/docs/tutorials/configuring-affiliates/).
-
-##### About the integration
-
-After defining the settings, you must index all products of the base in order to make the integration.
-
-1. Using the [sponsor user](/en/docs/tracks/what-is-the-master-user), access the link `{accountname}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`.
-2. Click on the __Reindex Base__ button.
-
-Please note that in the URL you must change the term `{accountname}` to the name of your store.
 
 After adjusting these settings, the products will start to be sent to the marketplace. Then, the marketplace must [map the categories, brands and specifications](/en/tutorial/mapeando-categorias-e-marcas-para-marketplace), as well as accept the products sent.
 

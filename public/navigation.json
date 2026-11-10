@@ -39,6 +39,66 @@
               "children": [
                 {
                   "name": {
+                    "en": "Custom notes payable: limit increased from 20 to 100",
+                    "es": "Pagarés personalizados: límite ampliado de 20 a 100",
+                    "pt": "Promissórias customizadas: limite ampliado de 20 para 100"
+                  },
+                  "slug": {
+                    "en": "2026-10-30-custom-promissory-notes-limit-increased-from-20-to-100",
+                    "es": "2026-10-30-pagares-personalizados-limite-ampliado-de-20-a-100",
+                    "pt": "2026-10-30-promissorias-customizadas-limite-ampliado-de-20-para-100"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Orders: Item-level promotions display available for all stores",
+                    "es": "Pedidos: vista de promoción por ítem disponible para todas las tiendas",
+                    "pt": "Pedidos: visualização de promoção por item disponível para todas as lojas"
+                  },
+                  "slug": {
+                    "en": "2026-10-28-orders-item-level-promotions-display-available-for-all-stores",
+                    "es": "2026-10-28-pedidos-vista-de-promocion-por-item-disponible-para-todas-las-tiendas",
+                    "pt": "2026-10-28-pedidos-visualizacao-de-promocao-por-item-disponivel-para-todas-as-lojas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "\"Complemento de pago\" download now available in the VTEX Admin",
+                    "es": "Descargar complemento de pago disponible en el Admin VTEX",
+                    "pt": "Download do complemento de pago disponível no Admin VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-10-27-pago-complement-download-now-available-in-vtex-admin",
+                    "es": "2026-10-27-descarga-del-complemento-de-pago-disponible-en-el-admin-vtex",
+                    "pt": "2026-10-27-download-do-complemento-de-pago-disponivel-no-admin-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "VTEX Shield: Fraud Prevention available for all accounts",
+                    "es": "VTEX Shield: Prevención de fraude disponible para todas las cuentas",
+                    "pt": "VTEX Shield: Prevenção contra fraudes disponível para todas as contas"
+                  },
+                  "slug": {
+                    "en": "2026-10-26-vtex-shield-fraud-prevention-available-for-all-accounts",
+                    "es": "2026-10-26-vtex-shield-prevencion-de-fraude-disponible-para-todas-las-cuentas",
+                    "pt": "2026-10-26-vtex-shield-prevencao-contra-fraudes-disponivel-para-todas-as-contas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Native personal data management in Master Data v2",
                     "es": "Gestión nativa de datos personales en Master Data v2",
                     "pt": "Gestão nativa de dados pessoais no Master Data v2"
@@ -54,8 +114,8 @@
                 },
                 {
                   "name": {
-                    "en": "Delivery Promise: now available to all merchants",
-                    "es": "Delivery Promise: ahora disponible para todos los retailers",
+                    "en": "Delivery Promise: Now available for all merchants",
+                    "es": "Delivery Promise: ya disponible para todos los retailers",
                     "pt": "Delivery Promise: agora disponível para todos os lojistas"
                   },
                   "slug": {
@@ -69,8 +129,8 @@
                 },
                 {
                   "name": {
-                    "en": "Persistent login: set how long your customers stay authenticated",
-                    "es": "Inicio de sesión persistente: define por cuánto tiempo tus clientes permanecen autenticados",
+                    "en": "Persistent login: Set how long your customers stay authenticated",
+                    "es": "Inicio de sesión persistente: define cuánto tiempo permanecen autenticados tus clientes",
                     "pt": "Login persistente: defina por quanto tempo seus clientes permanecem autenticados"
                   },
                   "slug": {
@@ -159,13 +219,13 @@
                 },
                 {
                   "name": {
-                    "en": "Credit Wallet: track the credit that offsets your Master Data charges",
-                    "es": "Cartera de Crédito: sigue el crédito que compensa tu cargo de Master Data",
-                    "pt": "Carteira de Crédito: acompanhe o crédito que abate sua cobrança de Master Data"
+                    "en": "Credit wallet: Track the credit that offsets your Master Data charges",
+                    "es": "Cartera de crédito: monitorea el crédito que descuenta tu cobro de Master Data",
+                    "pt": "Carteira de crédito: acompanhe o crédito que abate sua cobrança de Master Data"
                   },
                   "slug": {
                     "en": "2026-10-08-credit-wallet-track-the-credit-that-offsets-your-master-data-charges",
-                    "es": "2026-10-08-cartera-de-credito-sigue-el-credito-que-compensa-tu-cargo-de-master-data",
+                    "es": "2026-10-08-cartera-de-credito-monitorea-el-credito-que-descuenta-tu-cobro-de-master-data",
                     "pt": "2026-10-08-carteira-de-credito-acompanhe-o-credito-que-abate-sua-cobranca-de-master-data"
                   },
                   "origin": "",
@@ -13567,8 +13627,8 @@
                     {
                       "name": {
                         "en": "10. Match Offers Mercado Livre",
-                        "es": "10. Match de anuncios de Mercado Libre",
-                        "pt": "10. Match de anúncios Mercado Livre"
+                        "es": "10. Publicación de productos Mercado Libre",
+                        "pt": "10. Publicação de produtos Mercado Livre"
                       },
                       "slug": {
                         "en": "match-offers-mercado-livre",
@@ -17423,8 +17483,8 @@
                   "children": [
                     {
                       "name": {
-                        "en": "Credit Wallet",
-                        "es": "Cartera de Crédito",
+                        "en": "Credit wallet",
+                        "es": "Cartera de crédito",
                         "pt": "Carteira de Crédito"
                       },
                       "slug": {
@@ -17438,8 +17498,8 @@
                     },
                     {
                       "name": {
-                        "en": "Checking Credit Wallet",
-                        "es": "Consultar Cartera de Crédito",
+                        "en": "Checking credit wallet",
+                        "es": "Consultar cartera de crédito",
                         "pt": "Consultar Carteira de Crédito"
                       },
                       "slug": {
@@ -24320,6 +24380,21 @@
                 },
                 {
                   "name": {
+                    "en": "Planning a VTEX Sales App implementation",
+                    "es": "Planificar la implementación de VTEX Sales App",
+                    "pt": "Planejar a implementação do VTEX Sales App"
+                  },
+                  "slug": {
+                    "en": "planning-a-vtex-sales-app-implementation",
+                    "es": "planificar-la-implementacion-de-vtex-sales-app",
+                    "pt": "planejar-a-implementacao-do-vtex-sales-app"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Promotions on the Sales App search page",
                     "es": "Promociones en la página de búsqueda de Sales App",
                     "pt": "Promoção na página de busca do Sales App"
@@ -24343,21 +24418,6 @@
                     "en": "vtex-sales-app-extensibility-en",
                     "es": "vtex-sales-app-extensibility-es",
                     "pt": "vtex-sales-app-extensibility-pt"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Sales App: Configuring the checkout-instore-custom.js file",
-                    "es": "VTEX Sales App: configurar el archivo checkout-instore-custom.js",
-                    "pt": "VTEX Sales App: configurar o arquivo checkout-instore-custom.js"
-                  },
-                  "slug": {
-                    "en": "vtex-sales-app-configuring-the-checkout-instore-custom-js-file",
-                    "es": "vtex-sales-app-configurar-el-archivo-checkout-instore-custom-js",
-                    "pt": "vtex-sales-app-configurar-o-arquivo-checkout-instore-customjs"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25920,17 +25980,17 @@
           "children": [
             {
               "name": {
-                "en": "Foundations and concepts",
-                "es": "Fundamentos y conceptos",
-                "pt": "Fundamentos e conceitos"
+                "en": "Payments foundations and concepts",
+                "es": "Fundamentos y conceptos de pagos",
+                "pt": "Fundamentos e conceitos de pagamentos"
               },
               "slug": {
-                "en": "foundations-and-concepts",
-                "es": "fundamentos-y-conceptos",
-                "pt": "fundamentos-e-conceitos"
+                "en": "payments-foundations-and-concepts",
+                "es": "fundamentos-y-conceptos-de-pagos",
+                "pt": "fundamentos-e-conceitos-de-pagamentos"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -25994,24 +26054,9 @@
                 },
                 {
                   "name": {
-                    "en": "What is Deposit Slip",
-                    "es": "Qué es Ficha de Depósito",
-                    "pt": "O que é  Ficha Depósito"
-                  },
-                  "slug": {
-                    "en": "what-is-deposit-slip",
-                    "es": "que-es-ficha-de-deposito",
-                    "pt": "o-que-e-ficha-deposito"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is the connector?",
-                    "es": "¿Qué es el conector?",
-                    "pt": "O que é o conector?"
+                    "en": "Payment connector",
+                    "es": "Conector de pago",
+                    "pt": "Conector de pagamento"
                   },
                   "slug": {
                     "en": "what-is-the-connector",
@@ -26024,14 +26069,14 @@
                 },
                 {
                   "name": {
-                    "en": "What is the PCI SSC",
-                    "es": "Qué es el PCI SSC",
-                    "pt": "O que é o PCI SSC"
+                    "en": "Deposit Slip",
+                    "es": "Ficha de Depósito",
+                    "pt": "Ficha Depósito"
                   },
                   "slug": {
-                    "en": "what-is-the-pci-ssc",
-                    "es": "que-es-el-pci-ssc",
-                    "pt": "o-que-e-o-pci-ssc"
+                    "en": "what-is-deposit-slip",
+                    "es": "que-es-ficha-de-deposito",
+                    "pt": "o-que-e-ficha-deposito"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26047,6 +26092,21 @@
                     "en": "payment-provider-protocol",
                     "es": "payment-provider-protocol",
                     "pt": "payment-provider-protocol"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "PCI SSC",
+                    "es": "PCI SSC",
+                    "pt": "PCI SSC"
+                  },
+                  "slug": {
+                    "en": "what-is-the-pci-ssc",
+                    "es": "que-es-el-pci-ssc",
+                    "pt": "o-que-e-o-pci-ssc"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26081,7 +26141,7 @@
                 "pt": "provedores-de-pagamento"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -26835,6 +26895,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with Dinelco",
+                        "es": "Configurar pago con Dinelco",
+                        "pt": "Configurar pagamento com Dinelco"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-dinelco",
+                        "es": "configurar-pago-con-dinelco",
+                        "pt": "configurar-pagamento-com-dinelco"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with Directa",
                         "es": "Configurar pago con Directa",
                         "pt": "Configurar pagamento com Directa"
@@ -27045,6 +27120,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with FastPayBrasil",
+                        "es": "Configurar pago con FastPayBrasil",
+                        "pt": "Configurar pagamento com FastPayBrasil"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-fastpaybrasil",
+                        "es": "configurar-pago-con-fastpaybrasil",
+                        "pt": "configurar-pagamento-com-fastpaybrasil"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with FCamara (Payment initiator)",
                         "es": "Configurar pago con FCamara (Iniciador de pagos)",
                         "pt": "Configurar pagamento com FCamara (Iniciador de pagamentos)"
@@ -27195,6 +27285,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with GlobalPay",
+                        "es": "Configurar pago con GlobalPay",
+                        "pt": "Configurar pagamento com GlobalPay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-globalpay",
+                        "es": "configurar-pago-con-globalpay",
+                        "pt": "configurar-pagamento-com-globalpay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with GlobalPay-Redeban",
                         "es": "Configurar pago con GlobalPay-Redeban",
                         "pt": "Configurar pagamento com GlobalPay-Redeban"
@@ -27203,6 +27308,21 @@
                         "en": "setting-up-payments-with-globalpay-redeban",
                         "es": "configurar-pago-con-globalpay-redeban",
                         "pt": "configurar-pagamento-com-globalpay-redeban"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with GlobalPayBancolombia",
+                        "es": "Configurar pago con GlobalPayBancolombia",
+                        "pt": "Configurar pagamento com GlobalPayBancolombia"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-globalpaybancolombia",
+                        "es": "configurar-pago-con-globalpaybancolombia",
+                        "pt": "configurar-pagamento-com-globalpaybancolombia"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -27225,6 +27345,36 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with GlobalPayNiqui",
+                        "es": "Configurar pago con GlobalPayNiqui",
+                        "pt": "Configurar pagamento com GlobalPayNiqui"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-globalpayniqui",
+                        "es": "configurar-pago-con-globalpayniqui",
+                        "pt": "configurar-pagamento-com-globalpayniqui"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with GlobalPayPSE",
+                        "es": "Configurar pago con GlobalPayPSE",
+                        "pt": "Configurar pagamento com GlobalPayPSE"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-globalpaypse",
+                        "es": "configurar-pago-con-globalpaypse",
+                        "pt": "configurar-pagamento-com-globalpaypse"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with GOcuotas",
                         "es": "Configurar pago con GOcuotas",
                         "pt": "Configurar pagamento com GOcuotas"
@@ -27233,6 +27383,21 @@
                         "en": "setting-up-payments-with-gocuotas",
                         "es": "configurar-pago-con-gocuotas",
                         "pt": "configurar-pagamento-com-gocuotas"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with HibouPay",
+                        "es": "Configurar pago con HibouPay",
+                        "pt": "Configurar pagamento com HibouPay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-hiboupay",
+                        "es": "configurar-pago-con-hiboupay",
+                        "pt": "configurar-pagamento-com-hiboupay"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -27279,6 +27444,21 @@
                         "en": "setting-up-payments-with-instapago",
                         "es": "configurar-pago-con-instapago",
                         "pt": "configurar-pagamento-com-instapago"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with InstaPagoU",
+                        "es": "Configurar pago con InstaPagoU",
+                        "pt": "Configurar pagamento com InstaPagoU"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-instapagou",
+                        "es": "configurar-pago-con-instapagou",
+                        "pt": "configurar-pagamento-com-instapagou"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -27812,6 +27992,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with OderoPay",
+                        "es": "Configurar pago con OderoPay",
+                        "pt": "Configurar pagamento com OderoPay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-oderopay",
+                        "es": "configurar-pago-con-oderopay",
+                        "pt": "configurar-pagamento-com-oderopay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with OpenpayV2",
                         "es": "Configurar pago con OpenpayV2",
                         "pt": "Configurar pagamento com OpenpayV2"
@@ -27858,8 +28053,8 @@
                     {
                       "name": {
                         "en": "Setting up payments with PagarMeV3",
-                        "es": "Configurar pago con PagarMeV3",
-                        "pt": "Configurar pagamento com PagarMeV3"
+                        "es": "Configurar pago con PagarMeV3 (Stone)",
+                        "pt": "Configurar pagamento com PagarMeV3 (Stone)"
                       },
                       "slug": {
                         "en": "setting-up-payments-with-pagarmev3",
@@ -28105,6 +28300,21 @@
                         "en": "setting-up-payments-with-paymentezv2",
                         "es": "configurar-pago-con-paymentezv2",
                         "pt": "configurar-pagamento-com-paymentezv2"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with PaymentsWay",
+                        "es": "Configurar pago con PaymentsWay",
+                        "pt": "Configurar pagamento com PaymentsWay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-paymentsway",
+                        "es": "configurar-pago-con-paymentsway",
+                        "pt": "configurar-pagamento-com-paymentsway"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -28390,6 +28600,21 @@
                         "en": "setting-up-payments-with-qhantuy",
                         "es": "configurar-pago-con-qhantuy",
                         "pt": "configurar-pagamento-com-qhantuy"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with RedebanConnector",
+                        "es": "Configurar pago con RedebanConnector",
+                        "pt": "Configurar pagamento com RedebanConnector"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-redebanconnector",
+                        "es": "configurar-pago-con-redebanconnector",
+                        "pt": "configurar-pagamento-com-redebanconnector"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -28833,6 +29058,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with Toku",
+                        "es": "Configurar pago con Toku",
+                        "pt": "Configurar pagamento com Toku"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-toku",
+                        "es": "configurar-pago-con-toku",
+                        "pt": "configurar-pagamento-com-toku"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with Transbank Webpay",
                         "es": "Configurar pago con Transbank Webpay",
                         "pt": "Configurar pagamento com Transbank Webpay"
@@ -29195,8 +29435,8 @@
                 },
                 {
                   "name": {
-                    "en": "Register payment and anti-fraud providers",
-                    "es": "Registrar proveedores de pagos y antifraude",
+                    "en": "Adding payment and anti-fraud providers",
+                    "es": "Registrar proveedores de pago y antifraude",
                     "pt": "Cadastrar provedores de pagamento e antifraude"
                   },
                   "slug": {
@@ -29315,8 +29555,8 @@
                     },
                     {
                       "name": {
-                        "en": "Configuring a Boleto",
-                        "es": "Configurar boleto bancario",
+                        "en": "Configuring a boleto (for stores in Brazil)",
+                        "es": "Configurar boleto (Brasil)",
                         "pt": "Configurar boleto bancário"
                       },
                       "slug": {
@@ -29875,8 +30115,8 @@
                     },
                     {
                       "name": {
-                        "en": "Pix: FAQ",
-                        "es": "Pix: FAQ",
+                        "en": "Pix (Brazil): FAQ",
+                        "es": "Pix (Brasil): preguntas frecuentes",
                         "pt": "Pix: FAQ"
                       },
                       "slug": {
@@ -35227,8 +35467,8 @@
           "children": [
             {
               "name": {
-                "en": "Opening tickets to VTEX support",
-                "es": "Abrir tickets para el soporte VTEX",
+                "en": "Opening tickets with VTEX Support",
+                "es": "Abrir tickets con el Soporte VTEX",
                 "pt": "Abrir chamados para o suporte VTEX"
               },
               "slug": {
@@ -35583,6 +35823,21 @@
                     "en": "security-incident-response-plan",
                     "es": "plan-de-respuesta-a-incidentes-de-seguridad",
                     "pt": "plano-de-resposta-a-incidentes-de-seguranca"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Reporting security incidents",
+                    "es": "Reportar incidentes de seguridad",
+                    "pt": "Reportar incidentes de segurança"
+                  },
+                  "slug": {
+                    "en": "reporting-security-incidents",
+                    "es": "reportar-incidentes-de-seguridad",
+                    "pt": "reportar-incidentes-de-seguranca"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -44823,6 +45078,21 @@
             },
             {
               "name": {
+                "en": "Checkout payment step doesn't work if Apple Pay is the first payment method",
+                "es": "El paso de pago al finalizar la compra no funciona si Apple Pay es el primer método de pago.",
+                "pt": "A etapa de pagamento no checkout não funciona se o Apple Pay for o primeiro método de pagamento."
+              },
+              "slug": {
+                "en": "checkout-payment-step-doesnt-work-if-apple-pay-is-the-first-payment-method",
+                "es": "el-paso-de-pago-al-finalizar-la-compra-no-funciona-si-apple-pay-es-el-primer-metodo-de-pago",
+                "pt": "a-etapa-de-pagamento-no-checkout-nao-funciona-se-o-apple-pay-for-o-primeiro-metodo-de-pagamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Impersonation is ignored after one purchase is completed",
                 "es": "La suplantación de identidad se ignora después de completar una compra",
                 "pt": "A falsificação de identidade é ignorada após a conclusão de uma compra"
@@ -46166,21 +46436,6 @@
                 "en": "checkout-incorrectly-sending-item-details-to-transaction",
                 "es": "el-pago-envia-incorrectamente-los-detalles-del-articulo-a-la-transaccion",
                 "pt": "checkout-incorretamente-enviando-detalhes-do-item-para-a-transacao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Checkout payment step doesn't work if Apple Pay is the first payment method",
-                "es": "Checkout payment step doesn't work if Apple Pay is the first payment method",
-                "pt": "Checkout payment step doesn't work if Apple Pay is the first payment method"
-              },
-              "slug": {
-                "en": "checkout-payment-step-doesnt-work-if-apple-pay-is-the-first-payment-method",
-                "es": "checkout-payment-step-doesnt-work-if-apple-pay-is-the-first-payment-method",
-                "pt": "checkout-payment-step-doesnt-work-if-apple-pay-is-the-first-payment-method"
               },
               "origin": "",
               "type": "markdown",
@@ -50692,13 +50947,13 @@
             {
               "name": {
                 "en": "Magazine Luiza Orders pending dispatch authorization even if approved by Marketplace",
-                "es": "Revista Luiza Pedidos pendientes de autorización de envío aunque estén aprobados por Marketplace",
-                "pt": "Magazine Luiza Pedidos pendentes de autorização de despacho mesmo que aprovados pelo Marketplace"
+                "es": "Magazine Luiza Pedidos pendientes de autorización de envío, incluso si son aprobados por Marketplace.",
+                "pt": "Magazine Luiza Pedidos aguardando autorização de envio mesmo se aprovados pelo Marketplace"
               },
               "slug": {
                 "en": "magazine-luiza-orders-pending-dispatch-authorization-even-if-approved-by-marketplace",
-                "es": "revista-luiza-pedidos-pendientes-de-autorizacion-de-envio-aunque-esten-aprobados-por-marketplace",
-                "pt": "magazine-luiza-pedidos-pendentes-de-autorizacao-de-despacho-mesmo-que-aprovados-pelo-marketplace"
+                "es": "magazine-luiza-pedidos-pendientes-de-autorizacion-de-envio-incluso-si-son-aprobados-por-marketplace",
+                "pt": "magazine-luiza-pedidos-aguardando-autorizacao-de-envio-mesmo-se-aprovados-pelo-marketplace"
               },
               "origin": "",
               "type": "markdown",
@@ -50894,21 +51149,6 @@
                 "en": "mercado-livre-bridge-bridge-isnt-logging-some-error-messages",
                 "es": "mercado-livre-bridge-bridge-no-registra-algunos-mensajes-de-error",
                 "pt": "mercado-livre-bridge-o-bridge-nao-esta-registrando-algumas-mensagens-de-erro"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Mercado Livre Error when accepting Buybox/ME2 suggestion: BRAND attribute required",
-                "es": "Mercado Livre Error al aceptar la sugerencia de Buybox/ME2: se requiere el atributo BRAND",
-                "pt": "Mercado Livre Erro ao aceitar a sugestão da Buybox/ME2: atributo BRAND obrigatório"
-              },
-              "slug": {
-                "en": "mercado-livre-error-when-accepting-buyboxme2-suggestion-brand-attribute-required",
-                "es": "mercado-livre-error-al-aceptar-la-sugerencia-de-buyboxme2-se-requiere-el-atributo-brand",
-                "pt": "mercado-livre-erro-ao-aceitar-a-sugestao-da-buyboxme2-atributo-brand-obrigatorio"
               },
               "origin": "",
               "type": "markdown",
@@ -53891,8 +54131,8 @@
             {
               "name": {
                 "en": "Search results may not display products from the synonyms",
-                "es": "Es posible que los resultados de la búsqueda no muestren productos de los sinónimos",
-                "pt": "Os resultados da pesquisa podem não exibir produtos dos sinônimos"
+                "es": "Es posible que los resultados de la búsqueda no muestren productos de los sinónimos.",
+                "pt": "Os resultados da pesquisa podem não exibir produtos dos sinônimos."
               },
               "slug": {
                 "en": "search-results-may-not-display-products-from-the-synonyms",
@@ -69866,6 +70106,21 @@
               "origin": "",
               "type": "markdown",
               "children": []
+            },
+            {
+              "name": {
+                "en": "vtex.structured-data Settings page shows GTIN Value “EAN” as default, but the app uses the SKU ID until the setting is saved",
+                "es": "vtex.structured-data La página de configuración muestra el valor GTIN \"EAN\" como predeterminado, pero la aplicación utiliza el ID de SKU hasta que se guarda la configuración.",
+                "pt": "vtex.structured-data A página de configurações mostra o valor GTIN “EAN” como padrão, mas o aplicativo usa o ID SKU até que a configuração seja salva."
+              },
+              "slug": {
+                "en": "vtexstructureddata-settings-page-shows-gtin-value-ean-as-default-but-the-app-uses-the-sku-id-until-the-setting-is-saved",
+                "es": "vtexstructureddata-la-pagina-de-configuracion-muestra-el-valor-gtin-ean-como-predeterminado-pero-la-aplicacion-utiliza-el-id-de-sku-hasta-que-se-guarda-la-configuracion",
+                "pt": "vtexstructureddata-a-pagina-de-configuracoes-mostra-o-valor-gtin-ean-como-padrao-mas-o-aplicativo-usa-o-id-sku-ate-que-a-configuracao-seja-salva"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -70036,6 +70291,21 @@
           "origin": "",
           "type": "category",
           "children": [
+            {
+              "name": {
+                "en": "Amazon tracking failure is not displayed in Bridge when the invoice items don’t match the order items",
+                "es": "Amazon El error de seguimiento no se muestra en Bridge cuando los artículos de la factura no coinciden con los artículos del pedido.",
+                "pt": "A falha de rastreamento da Amazon não é exibida no Bridge quando os itens da fatura não correspondem aos itens do pedido."
+              },
+              "slug": {
+                "en": "amazon-tracking-failure-is-not-displayed-in-bridge-when-the-invoice-items-dont-match-the-order-items",
+                "es": "amazon-el-error-de-seguimiento-no-se-muestra-en-bridge-cuando-los-articulos-de-la-factura-no-coinciden-con-los-articulos-del-pedido",
+                "pt": "a-falha-de-rastreamento-da-amazon-nao-e-exibida-no-bridge-quando-os-itens-da-fatura-nao-correspondem-aos-itens-do-pedido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
             {
               "name": {
                 "en": "Amazon In some cases, a SKU may be published successfully on Amazon, but the stock is not updated and remains at zero.",
@@ -70346,6 +70616,21 @@
                 "en": "mercado-livre-package-dimensions-are-now-mandatory-for-me1-items-on-mercado-livre",
                 "es": "mercado-livre-las-dimensiones-del-paquete-ahora-son-obligatorias-para-los-articulos-me1-en-mercado-livre",
                 "pt": "mercado-livre-dimensoes-das-embalagens-agora-sao-obrigatorias-para-itens-me1-no-mercado-livre"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Error when accepting Buybox/ME2 suggestion: BRAND attribute required",
+                "es": "Mercado Livre Error al aceptar la sugerencia de Buybox/ME2: Se requiere el atributo BRAND",
+                "pt": "Mercado Livre Erro ao aceitar a sugestão Buybox/ME2: Atributo BRAND obrigatório"
+              },
+              "slug": {
+                "en": "mercado-livre-error-when-accepting-buyboxme2-suggestion-brand-attribute-required",
+                "es": "mercado-livre-error-al-aceptar-la-sugerencia-de-buyboxme2-se-requiere-el-atributo-brand",
+                "pt": "mercado-livre-erro-ao-aceitar-a-sugestao-buyboxme2-atributo-brand-obrigatorio"
               },
               "origin": "",
               "type": "markdown",
