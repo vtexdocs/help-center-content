@@ -1,7 +1,7 @@
 ---
 title: "Live Desk - Overview"
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-11-10T17:48:00.000Z
+updatedAt: 2026-11-10T17:56:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
@@ -98,6 +98,10 @@ To learn how support is distributed among representatives, see [Attendance distr
 ### Recording and sending audio
 
 Through the text box buttons, you can record and send audio. Before sending, you can play the audio and then send it to the contact.
+
+### Downloading audio from the contact
+
+You can play an audio message sent by the contact inside the conversation and download the original file. Download the audio when you need to share it with another team, such as logistics, operations, or another support area, while escalating a case internally.
 
 ### Attaching files
 
