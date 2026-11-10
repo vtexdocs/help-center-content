@@ -53559,6 +53559,21 @@
             },
             {
               "name": {
+                "en": "Deleted product may still appears in Intelligent Search after a concurrent update",
+                "es": "Es posible que el producto eliminado siga apareciendo en la Búsqueda inteligente después de una actualización simultánea.",
+                "pt": "O produto excluído ainda pode aparecer na Busca Inteligente após uma atualização simultânea."
+              },
+              "slug": {
+                "en": "deleted-product-may-still-appears-in-intelligent-search-after-a-concurrent-update",
+                "es": "es-posible-que-el-producto-eliminado-siga-apareciendo-en-la-busqueda-inteligente-despues-de-una-actualizacion-simultanea",
+                "pt": "o-produto-excluido-ainda-pode-aparecer-na-busca-inteligente-apos-uma-atualizacao-simultanea"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Autocomplete does not display Search Suggestions during the first interaction after PLP renders",
                 "es": "La función de autocompletar no muestra sugerencias de búsqueda durante la primera interacción después de que se renderiza la página de perfil de usuario (PLP).",
                 "pt": "O recurso de autocompletar não exibe sugestões de pesquisa durante a primeira interação após a renderização do PLP."
