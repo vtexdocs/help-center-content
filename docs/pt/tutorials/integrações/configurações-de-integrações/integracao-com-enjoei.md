@@ -3,7 +3,7 @@ title: 'Integração com Enjoei'
 id: 3mV9uhw1AdqFol8K2tfwly
 status: PUBLISHED
 createdAt: 2021-11-05T19:27:31.160Z
-updatedAt: 2024-02-19T20:17:35.239Z
+updatedAt: 2026-11-04T17:45:00.000Z
 publishedAt: 2024-02-19T20:17:35.239Z
 firstPublishedAt: 2021-11-05T20:49:41.372Z
 contentType: tutorial
@@ -111,10 +111,7 @@ O [afiliado](/pt/docs/tutorials/o-que-e-afiliado) é o identificador de uma loja
 
 ## Envio de informações para o Enjoei
 
-Uma vez concluídas as configurações na plataforma VTEX, para dar continuidade à integração é necessário enviar alguns dados para o Enjoei, dividido em duas etapas:
-
-- [Ativar integração no Enjoei](#ativar-a-integracao-no-enjoei)
-- [Reindexar base de produtos](#reindexar-base-dos-produtos)
+Uma vez concluídas as configurações na plataforma VTEX, para dar continuidade à integração é necessário enviar alguns dados para o Enjoei.
 
 ### Ativar a integração no Enjoei
 
@@ -126,16 +123,6 @@ Você deve enviar os seguintes dados para o Enjoei por meio do seguinte [formul�
 - **Política comercial:** número da política comercial determinada na etapa [Definir política comercial](#definir-a-politica-comercial).
 - **ID do Seller:** se você estiver integrando a partir da sua conta principal, o valor a ser informado é o número 1. Caso sua loja possua [contas franquia](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa?&utm_source=autocomplete#o-que-e-uma-conta-franquia) e você esteja realizando a integração a partir de uma delas, é necessário enviar o ID do Seller dessa conta. Para encontrá-lo, acesse o Admin no módulo *MARKETPLACE > Sellers > Gerenciamento > ID do Seller*.
 - **Atributos do produto:** nomes dos atributos Cor e Tamanho como estão cadastrados na VTEX. Para encontrá-lo, acesse o Admin no módulo *PRODUTO > Catálogo > Categorias*. Selecione a categoria do produto, acesse *Ações > Campo do produto*.
-
-### Reindexar base dos produtos
-
-Depois de concluir o preenchimento do formulário com as informações solicitadas, o suporte do Enjoei enviará um e-mail solicitando a [reindexação da base](/pt/docs/tutorials/manutencao-de-base-full-cleanup) dos produtos. Entretanto, somente usuários Master conseguem realizar essa etapa. Para reindexar, siga os passos a seguir: 
-
-1. Acesse a URL abaixo, substituindo *{accountname}* pelo nome da sua loja.
-
-  `https://{accountName}.myvtex.com/admin/Site/fullcleanup.aspx`
-
-2. Clique no botão `Reindexar Base`.
 
 Uma vez que você tenha concluído todas as etapas anteriores, sua loja será integrada na plataforma do Enjoei e a integração será concluída pelo parceiro.
 
