@@ -29585,21 +29585,6 @@
                     },
                     {
                       "name": {
-                        "en": "Setting up Itaú registered ticket (ItauShopline)",
-                        "es": "Configurar boleto registrado Itaú (ItauShopline)",
-                        "pt": "Configurar boleto registrado Itaú (ItauShopline)"
-                      },
-                      "slug": {
-                        "en": "setting-up-itau-registered-ticket",
-                        "es": "configurar-boleto-registrado-itau",
-                        "pt": "configurar-boleto-registrado-itau"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
                         "en": "How long does it take to cancel an order with an unpaid \"boleto\"?",
                         "es": "¿En cuánto tiempo un pedido de boleto sin pago se cancela?",
                         "pt": "Em quanto tempo um pedido de boleto sem pagamento é cancelado?"
@@ -29684,21 +29669,6 @@
                         "en": "configuring-samsung-pay-as-a-payment-method",
                         "es": "configurar-samsung-pay-como-medio-de-pago",
                         "pt": "configurar-samsung-pay-como-meio-de-pagamento"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "How to install Visa Checkout in the VTEX App Store",
-                        "es": "Instalar el Visa Checkout en la VTEX App Store",
-                        "pt": "Instalar o Visa Checkout na VTEX App Store"
-                      },
-                      "slug": {
-                        "en": "install-visa-checkout-in-the-extension-store",
-                        "es": "instalar-el-visa-checkout-en-la-extension-store",
-                        "pt": "instalar-o-visa-checkout-na-extension-store"
                       },
                       "origin": "",
                       "type": "markdown",
