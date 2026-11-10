@@ -3,7 +3,7 @@ title: "Using active triggering of flows"
 id: 2G7HPM4mD3vuxPHUgtexb7
 status: PUBLISHED
 createdAt: 2025-09-12T16:44:52.727Z
-updatedAt: 2026-07-07T00:00:00.000Z
+updatedAt: 2026-11-10T00:00:00.000Z
 publishedAt: 2025-10-03T14:22:54.202Z
 firstPublishedAt: 2025-10-03T14:22:54.202Z
 contentType: tutorial
@@ -17,12 +17,15 @@ subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
 
 Active flow triggering allows agents to start conversations with contacts or contact groups from Live Desk. This feature is useful for active communications, such as notifications, confirmations, or follow-ups, and can use message templates approved by WhatsApp when the conversation starts through that channel.
 
+When a template includes variables configured for editing, the agent fills in those values before sending.
+
 This article covers how to:
 
 - [Enable an existing flow to be sent from Live Desk](#enabling-an-existing-flow-to-be-sent-from-live-desk)
 - [Create a flow for sending message templates](#creating-a-flow-for-sending-message-templates)
 - [Enable flow triggering in Live Desk](#enabling-flow-triggering-in-live-desk)
 - [Trigger a flow](#triggering-a-flow)
+- [Map template variables](#mapping-template-variables)
 
 ## Enabling an existing flow to be sent from Live Desk
 
@@ -53,6 +56,8 @@ Before configuring the flow, confirm that the message template has been register
 8. Click `Confirm`.
 9. Continue creating as many blocks as needed based on the characteristics of the flow you want to make available in the store.
 
+For an agent to edit a template variable in Live Desk, fill that variable on the **WhatsApp** tab of the send message card with `@trigger.params.variable_name`. Replace `variable_name` with the name that should appear in **Variable mapping**. A variable filled with another expression, such as `@contact.name`, is applied automatically and is not shown for editing. For how to fill these fields, see [Active message dispatch on WhatsApp](https://help.vtex.com/docs/tutorials/active-message-dispatch-on-whatsapp).
+
 ## Enabling flow triggering in Live Desk
 
 In addition to enabling the flow with the `chats` label, you need to enable flow triggering in the Live Desk department. This setting defines which departments can use the feature.
@@ -80,6 +85,18 @@ After the flow is enabled and the department allows outbound triggers, agents ca
 5. Check the boxes for the contacts you want to trigger the flow for.
 6. Click `Continue`.
 7. In **Select flow**, choose the desired flow.
-8. Click `Send`.
+8. If the flow has no template variables configured with `@trigger.params`, click `Send`.
 
 The selected contacts will receive the flow. When a contact replies, the conversation will become available as a support chat in Live Desk.
+
+## Mapping template variables
+
+If the WhatsApp templates in the flow include variables set to `@trigger.params.variable_name`, Live Desk opens **Variable mapping** after you select the flow. The name after `params.` is the label of each field. For how to configure these variables, see [Active message dispatch on WhatsApp](https://help.vtex.com/docs/tutorials/active-message-dispatch-on-whatsapp).
+
+1. For each variable, select a contact field or type a text value. The field shows `Select a matching field or type text`.
+2. Review **Preview of the 1st template**. Variables that reference contact fields are shown with sample values from the selected contacts.
+3. When the flow has more than one template with variables, the screen shows the current template, such as **Template 1 of 3**, under **Define the variables of the 1st template**. Click `Next template` and repeat the mapping for each template.
+4. Select `I've checked it and I'm ready to send it.`
+5. Click `Send`.
+
+The template sent to each contact uses the values from this mapping. When a contact replies, the conversation will become available as a support chat in Live Desk.
