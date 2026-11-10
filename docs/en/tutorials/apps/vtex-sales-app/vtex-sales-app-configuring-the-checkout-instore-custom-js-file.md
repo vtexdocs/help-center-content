@@ -1,8 +1,7 @@
 ---
 title: 'VTEX Sales App: Configuring the checkout-instore-custom.js file'
-status: PUBLISHED
-createdAt: 2026-10-23T21:43:00.000Z
-updatedAt: 2026-10-23T21:43:00.000Z
+createdAt: 2026-11-10T21:43:00.000Z
+updatedAt: 2026-11-10T21:43:00.000Z
 contentType: tutorial
 productTeam: Shopping
 slugEN: vtex-sales-app-configuring-the-checkout-instore-custom-js-file
