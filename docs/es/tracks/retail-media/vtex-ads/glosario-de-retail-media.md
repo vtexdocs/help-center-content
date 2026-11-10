@@ -3,7 +3,7 @@ title: 'Glosario de Retail Media'
 id: 60HoAleRC38rjrhHeDlDDE
 status: PUBLISHED
 createdAt: 2025-05-29T17:46:57.083Z
-updatedAt: 2025-07-04T16:13:56.687Z
+updatedAt: 2026-11-06T00:00:00.000Z
 publishedAt: 2025-07-04T16:13:56.687Z
 firstPublishedAt: 2025-05-29T17:48:06.231Z
 contentType: trackArticle
