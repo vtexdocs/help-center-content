@@ -1,10 +1,10 @@
 ---
 title: 'Planejar a implementação do VTEX Sales App'
-createdAt: 2026-10-23T00:00:00.000Z
-updatedAt: 2026-10-23T00:00:00.000Z
+createdAt: 2026-11-10T00:00:00.000Z
+updatedAt: 2026-11-10T00:00:00.000Z
 contentType: tutorial
 productTeam: Shopping
-slugEN: planning-vtex-sales-app-implementation
+slugEN: planning-a-vtex-sales-app-implementation
 locale: pt
 ---
 
