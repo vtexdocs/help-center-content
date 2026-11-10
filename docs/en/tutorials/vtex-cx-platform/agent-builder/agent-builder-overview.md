@@ -13,7 +13,7 @@ order: 1
 
 The feature focuses on an orchestrator agent (or manager), which is the point of contact with the customer and controls the chat. This orchestrator triggers collaborating agents that return data and information based on the user's needs.
 
-> ℹ️ To learn more about collaborator agents, see the article [Official VTEX CX Platform agents](https://help.vtex.com/docs/tutorials/official-agents-from-vtex-cx-platform).
+> ℹ️ To learn more about collaborator agents, see the article [Official VTEX CX Platform agents](https://help.vtex.com/en/docs/tutorials/official-agents-from-vtex-cx-platform).
 
 Besides assigning and testing these agents, you can also create your own agents to meet your company’s specific needs.
 
@@ -33,7 +33,7 @@ In **Agent Builder**, the following pages are available:
 
 > On this page, you can assign and test agents for your store, as well as edit the manager and the instructions it must follow.
 
-For more information on how to assign agents, see [Assigning and testing agents](https://help.vtex.com/docs/tutorials/assigning-and-testing-agents-in-agent-builder).
+For more information on how to assign agents, see [Assigning and testing agents](https://help.vtex.com/en/docs/tutorials/assigning-and-testing-agents-in-agent-builder).
 
 #### Edit manager
 
@@ -174,7 +174,7 @@ To delete a custom category, follow these steps:
 
 > ℹ️ Instructions in a deleted category move to **Uncategorized**. An empty category is removed from the list.
 
-To choose which sensitive topics the agent must reject, see [Configuring safety guardrails per project](https://help.vtex.com/docs/tutorials/configuring-extra-safety-guardrails-per-project).
+To choose which sensitive topics the agent must reject, see [Configuring safety guardrails per project](https://help.vtex.com/en/docs/tutorials/configuring-extra-safety-guardrails-per-project).
 
 ### Knowledge base
 
@@ -233,4 +233,4 @@ You can also use the search field to find a segment by title.
 
 You can create automation flows to interact with a group of users and determine agent responses based on user messages.
 
-For more information, see [Automation flow overview](https://help.vtex.com/docs/tutorials/automation-flow-overview).
+For more information, see [Automation flow overview](https://help.vtex.com/en/docs/tutorials/automation-flow-overview).

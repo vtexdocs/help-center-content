@@ -44,7 +44,7 @@ For a flow to appear as a messaging option in Live Desk, it must have the `chats
 
 Only users with admin, moderator, or collaborator permissions can create flows. When creating a flow for outbound triggering, include a messaging block and select an approved message template to start the conversation on WhatsApp.
 
-Before configuring the flow, confirm that the message template has been registered and approved by WhatsApp. For more information, see [WhatsApp: How to create template messages](https://help.vtex.com/docs/tutorials/whatsapp-how-to-create-template-messages).
+Before configuring the flow, confirm that the message template has been registered and approved by WhatsApp. For more information, see [WhatsApp: How to create template messages](https://help.vtex.com/en/docs/tutorials/whatsapp-how-to-create-template-messages).
 
 1. Access your organization in the [VTEX CX Platform dashboard](https://dash.weni.ai/orgs).
 2. In the side menu, click the **Automation flow** icon.
@@ -56,7 +56,7 @@ Before configuring the flow, confirm that the message template has been register
 8. Click `Confirm`.
 9. Continue creating as many blocks as needed based on the characteristics of the flow you want to make available in the store.
 
-For an agent to edit a template variable in Live Desk, fill that variable on the **WhatsApp** tab of the send message card with `@trigger.params.variable_name`. Replace `variable_name` with the name that should appear in **Variable mapping**. A variable filled with another expression, such as `@contact.name`, is applied automatically and is not shown for editing. For how to fill these fields, see [Active message dispatch on WhatsApp](https://help.vtex.com/docs/tutorials/active-message-dispatch-on-whatsapp).
+For an agent to edit a template variable in Live Desk, fill that variable on the **WhatsApp** tab of the send message card with `@trigger.params.variable_name`. Replace `variable_name` with the name that should appear in **Variable mapping**. A variable filled with another expression, such as `@contact.name`, is applied automatically and is not shown for editing. For how to fill these fields, see [Active message dispatch on WhatsApp](https://help.vtex.com/en/docs/tutorials/active-message-dispatch-on-whatsapp).
 
 ## Enabling flow triggering in Live Desk
 
@@ -93,7 +93,7 @@ The selected contacts will receive the flow. When a contact replies, the convers
 
 ## Mapping template variables
 
-If the WhatsApp templates in the flow include variables set to `@trigger.params.variable_name`, Live Desk opens **Variable mapping** after you select the flow. The name after `params.` is the label of each field. For how to configure these variables, see [Active message dispatch on WhatsApp](https://help.vtex.com/docs/tutorials/active-message-dispatch-on-whatsapp).
+If the WhatsApp templates in the flow include variables set to `@trigger.params.variable_name`, Live Desk opens **Variable mapping** after you select the flow. The name after `params.` is the label of each field. For how to configure these variables, see [Active message dispatch on WhatsApp](https://help.vtex.com/en/docs/tutorials/active-message-dispatch-on-whatsapp).
 
 1. For each variable, select a contact field or type a text value. The field shows `Select a matching field or type text`.
 2. Review **Preview of the 1st template**. Variables that reference contact fields are shown with sample values from the selected contacts.

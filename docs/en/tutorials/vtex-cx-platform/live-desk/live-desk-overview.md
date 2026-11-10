@@ -28,7 +28,7 @@ User permissions represent assignments for each user in the project. In Live Des
 - **Marketing:** accesses the Campaigns and Studio modules to configure, manage, and monitor campaign sends using message templates.
 - **Human support:** accesses the human support module to handle support in Live Desk, according to the departments and queues they're assigned to.
 
-To learn how to assign these roles, see the article [Managing VTEX CX Platform members](https://help.vtex.com/docs/tutorials/manage-vtex-cx-platform-members).
+To learn how to assign these roles, see the article [Managing VTEX CX Platform members](https://help.vtex.com/en/docs/tutorials/managing-vtex-cx-platform-members).
 
 ## Features
 
@@ -56,7 +56,7 @@ Each queue shows the number of rooms in it and the sector it belongs to.
 
 The filter applies to rooms awaiting support. Moderators can also use it for rooms in progress.
 
-> ℹ️ The filter keeps the current room distribution and the existing room order. To learn how support is distributed among representatives, see [Attendance distribution rule](https://help.vtex.com/docs/tutorials/attendance-distribution-rule).
+> ℹ️ The filter keeps the current room distribution and the existing room order. To learn how support is distributed among representatives, see [Attendance distribution rule](https://help.vtex.com/en/docs/tutorials/attendance-distribution-rule).
 
 ### Viewing contact information
 
@@ -64,11 +64,11 @@ When you click the contact's photo or name in any area of the conversation, you 
 
 ### Transferring chat
 
-The transfer chat function directs the contact to a specific department, queue, or representative and can be accessed in the contact information panel. The transfer can be triggered by the AI agent, when this option is enabled in the configurations, or manually by a manager or admin. When the AI agent transfers the conversation, it chooses the queue from the descriptions set in [Configuring Live Desk](https://help.vtex.com/docs/tutorials/configure-live-desk). In manual transfer, you can search by name of a representative, queue, or department, or select a recipient from the displayed list. When you confirm the transfer, the contact is forwarded to the chosen recipient. To see how a transferred room appears in the conversation list, see [Identifying pending conversations](#identifying-pending-conversations).
+The transfer chat function directs the contact to a specific department, queue, or representative and can be accessed in the contact information panel. The transfer can be triggered by the AI agent, when this option is enabled in the configurations, or manually by a manager or admin. When the AI agent transfers the conversation, it chooses the queue from the descriptions set in [Configuring Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk). In manual transfer, you can search by name of a representative, queue, or department, or select a recipient from the displayed list. When you confirm the transfer, the contact is forwarded to the chosen recipient. To see how a transferred room appears in the conversation list, see [Identifying pending conversations](#identifying-pending-conversations).
 
-Each representative in the list shows a current status: **Online**, **Paused** (with the name of the custom break), or **Offline**. Representatives appear in this order: Online, then Paused, then Offline. Within each status, names are listed alphabetically. Custom breaks and the option **Block chat transfers to offline representatives** are configured in [Configuring Live Desk](https://help.vtex.com/docs/tutorials/configure-live-desk).
+Each representative in the list shows a current status: **Online**, **Paused** (with the name of the custom break), or **Offline**. Representatives appear in this order: Online, then Paused, then Offline. Within each status, names are listed alphabetically. Custom breaks and the option **Block chat transfers to offline representatives** are configured in [Configuring Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk).
 
-To learn how support is distributed among representatives, see [Attendance distribution rule](https://help.vtex.com/docs/tutorials/attendance-distribution-rule).
+To learn how support is distributed among representatives, see [Attendance distribution rule](https://help.vtex.com/en/docs/tutorials/attendance-distribution-rule).
 
 ### Creating and sending quick messages
 
@@ -81,7 +81,7 @@ You can use quick messages in two ways:
 
 You can navigate through messages with the keyboard arrows and press `Enter` to use the message. When you type the shortcut text, the tool also performs a specific search.
 
-You can also configure department-specific quick messages. This configuration is done during department creation. For more information, see [Configuring Live Desk](https://help.vtex.com/docs/tutorials/configure-live-desk).
+You can also configure department-specific quick messages. This configuration is done during department creation. For more information, see [Configuring Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk).
 
 ### Sending emojis
 
@@ -183,12 +183,12 @@ To change the theme, open **Preferences** and select **Light Mode** or **Dark Mo
 
 Human support tracking is done in the **Analytics** module dashboard, divided into two tabs:
 
-- **Monitoring:** real-time data from ongoing support, such as status, average times, volume by queue, tag, and channel, and CSAT. Project moderators can set time goals so the dashboard highlights support chats that exceed them. See [Configuring risk alerts](https://help.vtex.com/docs/tutorials/configuring-risk-alerts).
+- **Monitoring:** real-time data from ongoing support, such as status, average times, volume by queue, tag, and channel, and CSAT. Project moderators can set time goals so the dashboard highlights support chats that exceed them. See [Configuring risk alerts](https://help.vtex.com/en/docs/tutorials/configuring-risk-alerts).
 - **Analytics:** historical data from support finalized in the selected period.
 
 You can filter data by department, queue, representative, tag, channel, and period, as well as export them with the `Export data` button.
 
-For the complete description of each metric and section, see the article [Analytics: Support metrics](https://help.vtex.com/docs/tutorials/analytics-support-metrics). To create custom views, see the article [Analytics: Creating custom dashboard](https://help.vtex.com/docs/tutorials/create-analytics-dashboard).
+For the complete description of each metric and section, see the article [Analytics: Support metrics](https://help.vtex.com/en/docs/tutorials/analytics-support-metrics). To create custom views, see the article [Analytics: Creating custom dashboard](https://help.vtex.com/en/docs/tutorials/create-analytics-dashboard).
 
 ### History view
 
@@ -228,7 +228,7 @@ To export a closed conversation, follow these steps:
 
 To configure and use Live Desk in your operation, see the related articles:
 
-- [Configuring Live Desk](https://help.vtex.com/docs/tutorials/configure-live-desk): create and manage departments, queues, and representatives, and define support rules.
-- [Attendance distribution rule](https://help.vtex.com/docs/tutorials/attendance-distribution-rule): understand how support is distributed among representatives.
-- [Using active triggering of flows](https://help.vtex.com/docs/tutorials/using-active-triggering-of-flows): start conversations actively with contacts through Live Desk.
-- [Using groups to organize human attendance](https://help.vtex.com/docs/tutorials/using-groups-to-organize-human-attendance): prevent the chatbot from interrupting ongoing support.
+- [Configuring Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk): create and manage departments, queues, and representatives, and define support rules.
+- [Attendance distribution rule](https://help.vtex.com/en/docs/tutorials/attendance-distribution-rule): understand how support is distributed among representatives.
+- [Using active triggering of flows](https://help.vtex.com/en/docs/tutorials/using-active-triggering-of-flows): start conversations actively with contacts through Live Desk.
+- [Using groups to organize human attendance](https://help.vtex.com/en/docs/tutorials/using-groups-to-organize-human-attendance): prevent the chatbot from interrupting ongoing support.

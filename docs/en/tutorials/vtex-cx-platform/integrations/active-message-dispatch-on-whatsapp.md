@@ -39,7 +39,7 @@ For example, in the template `retornar_contato`, the variable fields can be `@tr
 
 If the flow includes more than one template with variables, use `@trigger.params.variable_name` in every variable the agent should fill in.
 
-For how the agent completes these values before sending, see [Using active triggering of flows](https://help.vtex.com/docs/tutorials/using-active-triggering-of-flows).
+For how the agent completes these values before sending, see [Using active triggering of flows](https://help.vtex.com/en/docs/tutorials/using-active-triggering-of-flows).
 
 This process is always carried out for the first message and is exclusive to the WhatsApp channel. After the Template Message is delivered, if the user responds, the company can follow the message flow freely with the other action cards. The entire flow can be planned normally after the first Template Message card. For the user to be able to respond, it is necessary to add a "Wait for Response" card, thus creating a continuous service experience.
 

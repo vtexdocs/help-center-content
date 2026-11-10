@@ -74,7 +74,7 @@ Below, we will list how to reference all types of variables available on VTEX CX
 
 Inside the flow, you can save this value in a contact field with the **Update the contact** card.
 
-For how to configure the variable and how the agent fills it in, see [Active message dispatch on WhatsApp](https://help.vtex.com/docs/tutorials/active-message-dispatch-on-whatsapp) and [Using active triggering of flows](https://help.vtex.com/docs/tutorials/using-active-triggering-of-flows).
+For how to configure the variable and how the agent fills it in, see [Active message dispatch on WhatsApp](https://help.vtex.com/en/docs/tutorials/active-message-dispatch-on-whatsapp) and [Using active triggering of flows](https://help.vtex.com/en/docs/tutorials/using-active-triggering-of-flows).
 
 ## Globals
 
