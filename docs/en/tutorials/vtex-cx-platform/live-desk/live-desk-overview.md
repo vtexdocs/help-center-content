@@ -32,6 +32,21 @@ To learn how to assign these roles, see the article [Managing VTEX CX Platform m
 
 ## Features
 
+### Filtering rooms by queue
+
+In the **Waiting rooms** view, filter the list by queue to see only the rooms in the queues you select. You can select one or more queues. Clear the filter to return to the full list.
+
+The queues available in the filter depend on your role:
+
+- Moderators can see and filter by every queue in the project.
+- Users with the **Human support** role can see and filter only by the queues they're assigned to.
+
+Each queue shows the number of rooms in it and the sector it belongs to.
+
+The filter applies to rooms awaiting support. Moderators can also use it for rooms in progress.
+
+> ℹ️ The filter keeps the current room distribution and the existing room order. To learn how support is distributed among representatives, see [Attendance distribution rule](https://help.vtex.com/docs/tutorials/attendance-distribution-rule).
+
 ### Viewing contact information
 
 When you click the contact's photo or name in any area of the conversation, you access the contact information panel, which displays the enlarged photo, data such as the channel the contact is using, the time of the last message, the transfer chat function, and the contact's media gallery.
