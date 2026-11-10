@@ -24381,28 +24381,13 @@
                 {
                   "name": {
                     "en": "Planning a VTEX Sales App implementation",
-                    "es": "Planning a VTEX Sales App implementation",
+                    "es": "Planificar la implementación de VTEX Sales App",
                     "pt": "Planejar a implementação do VTEX Sales App"
                   },
                   "slug": {
                     "en": "planning-a-vtex-sales-app-implementation",
-                    "es": "",
-                    "pt": "planejar-a-implementacao-do-vtex-sales-app"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Planificar la implementación de VTEX Sales App",
-                    "es": "Planificar la implementación de VTEX Sales App",
-                    "pt": "Planificar la implementación de VTEX Sales App"
-                  },
-                  "slug": {
-                    "en": "",
                     "es": "planificar-la-implementacion-de-vtex-sales-app",
-                    "pt": ""
+                    "pt": "planejar-a-implementacao-do-vtex-sales-app"
                   },
                   "origin": "",
                   "type": "markdown",
