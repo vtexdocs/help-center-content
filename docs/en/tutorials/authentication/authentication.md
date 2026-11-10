@@ -80,7 +80,7 @@ When developing integrations using VTEX [APIs](https://developers.vtex.com/docs/
 
 - **Application keys (appKeys):** [Application keys](/en/docs/tutorials/api-keys) authenticate requests made to VTEX APIs. Store admins can create keys and associate them with [roles](/en/docs/tutorials/roles), allowing them to use certain platform[ resources](/en/docs/tutorials/license-manager-resources). Learn more in the [API authentication using application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) developer guide.
 -	**User tokens:** User tokens authenticate API requests, especially for[ frontend](/en/docs/tracks/frontend) applications developed with VTEX IO. Learn how to use them in the [API authentication using user tokens](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) developer guide.
-- **VTEX OAuth provider:** allows apps and AI agents to access VTEX on behalf of a user, using the standard OAuth flow. Learn how to use it in the [VTEX OAuth provider](https://developers.vtex.com/docs/guides/vtex-oauth-provider) developer guide.
+- **VTEX OAuth provider:** Allows apps and AI agents to access VTEX on behalf of a user, using the standard OAuth flow. Learn how to use it in the [VTEX OAuth provider](https://developers.vtex.com/docs/guides/vtex-oauth-provider) developer guide.
 
 ## Developing apps
 
