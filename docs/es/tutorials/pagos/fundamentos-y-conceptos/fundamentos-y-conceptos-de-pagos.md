@@ -16,13 +16,21 @@ Los artículos de esta sección explican los términos y mecanismos usados en to
 
 | Artículo | Descripción |
 | --- | --- |
-| [Transacción de pago](/es/docs/tutorials/que-es-una-transaccion) | Qué es una transacción y cómo se relaciona con el pedido. |
-| [Agentes financieros en el flujo de pago](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago) | El rol de cada participante del flujo de pago, desde el gateway hasta el antifraude. |
-| [Conector de pago](/es/docs/tutorials/que-es-el-conector) | Cómo VTEX se integra con los proveedores que procesan los pagos. |
-| [Payment Provider Protocol](/es/docs/tutorials/payment-provider-protocol) | El protocolo que los proveedores usan para desarrollar conectores de pago. |
-| [PCI SSC](/es/docs/tutorials/que-es-el-pci-ssc) | Los estándares de seguridad para datos de tarjeta y la certificación de VTEX. |
 | [3D Secure](/es/docs/tutorials/que-es-3d-secure) | El protocolo de autenticación para transacciones con tarjeta en internet. |
+| [Agentes financieros en el flujo de pago](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago) | El rol de cada participante del flujo de pago, desde el gateway hasta el antifraude. |
 | [Cartera digital (ewallet)](/es/docs/tutorials/que-es-una-cartera-digital) | Cómo funcionan las carteras digitales en el checkout. |
 | [Condición de pago offline](/es/docs/tutorials/que-es-una-condicion-de-pago-offline) | Pagos que dependen de una acción del cliente fuera de la tienda, como el boleto. |
+| [Conector de pago](/es/docs/tutorials/que-es-el-conector) | Cómo VTEX se integra con los proveedores que procesan los pagos. |
 | [Ficha de Depósito](/es/docs/tutorials/que-es-ficha-de-deposito) | El medio de pago offline usado en México. |
+| [Payment Provider Protocol](/es/docs/tutorials/payment-provider-protocol) | El protocolo que los proveedores usan para desarrollar conectores de pago. |
+| [PCI SSC](/es/docs/tutorials/que-es-el-pci-ssc) | Los estándares de seguridad para datos de tarjeta y la certificación de VTEX. |
+| [Transacción de pago](/es/docs/tutorials/que-es-una-transaccion) | Qué es una transacción y cómo se relaciona con el pedido. |
+
+
+
+
+
+
+
+
 
