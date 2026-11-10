@@ -26141,7 +26141,7 @@
                 "pt": "provedores-de-pagamento"
               },
               "origin": "",
-              "type": "markdown",
+              "type": "category",
               "children": [
                 {
                   "name": {
