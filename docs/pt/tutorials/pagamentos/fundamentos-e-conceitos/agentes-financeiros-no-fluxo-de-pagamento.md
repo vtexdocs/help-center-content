@@ -1,7 +1,7 @@
 ---
 title: 'Agentes financeiros no fluxo de pagamento'
 createdAt: 2017-10-11T19:08:49.654Z
-updatedAt: 2026-10-01T00:00:00.000Z
+updatedAt: 2026-11-11T19:26:00.000Z
 contentType: tutorial
 productTeam: Financial
 slugEN: financial-agents-in-the-payment-flow
@@ -51,7 +51,7 @@ As bandeiras definem as regras de negócio das compras com cartão de crédito, 
 
 As bandeiras mantêm uma relação próxima com os adquirentes para garantir a aceitação dos cartões nos estabelecimentos, o que promove o uso e amplia a base de usuários.
 
-No fluxo de pagamento por cartão de crédito, a bandeira recebe do adquirente as informações da compra, valida as condições, como o número de parcelas, e envia os dados ao banco emissor, que verifica o limite disponível. A bandeira regula o uso do cartão e funciona como ponte entre o adquirente e o banco do cliente.
+No [fluxo de pagamento por cartão de crédito](/pt/docs/tracks/fluxo-de-um-pagamento-por-cartao-de-credito), a bandeira recebe do adquirente as informações da compra, valida as condições, como o número de parcelas, e envia os dados ao banco emissor, que verifica o limite disponível. A bandeira regula o uso do cartão e funciona como ponte entre o adquirente e o banco do cliente.
 
 ## Banco emissor
 
