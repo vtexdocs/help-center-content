@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Custom notes payable: limit increased from 20 to 100",
+                    "es": "Pagarés personalizados: límite ampliado de 20 a 100",
+                    "pt": "Promissórias customizadas: limite ampliado de 20 para 100"
+                  },
+                  "slug": {
+                    "en": "2026-10-30-custom-promissory-notes-limit-increased-from-20-to-100",
+                    "es": "2026-10-30-pagares-personalizados-limite-ampliado-de-20-a-100",
+                    "pt": "2026-10-30-promissorias-customizadas-limite-ampliado-de-20-para-100"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Orders: Item-level promotions display available for all stores",
                     "es": "Pedidos: vista de promoción por ítem disponible para todas las tiendas",
                     "pt": "Pedidos: visualização de promoção por item disponível para todas as lojas"
@@ -99,8 +114,8 @@
                 },
                 {
                   "name": {
-                    "en": "Delivery Promise: now available to all merchants",
-                    "es": "Delivery Promise: ahora disponible para todos los retailers",
+                    "en": "Delivery Promise: Now available for all merchants",
+                    "es": "Delivery Promise: ya disponible para todos los retailers",
                     "pt": "Delivery Promise: agora disponível para todos os lojistas"
                   },
                   "slug": {
@@ -114,8 +129,8 @@
                 },
                 {
                   "name": {
-                    "en": "Persistent login: set how long your customers stay authenticated",
-                    "es": "Inicio de sesión persistente: define por cuánto tiempo tus clientes permanecen autenticados",
+                    "en": "Persistent login: Set how long your customers stay authenticated",
+                    "es": "Inicio de sesión persistente: define cuánto tiempo permanecen autenticados tus clientes",
                     "pt": "Login persistente: defina por quanto tempo seus clientes permanecem autenticados"
                   },
                   "slug": {
@@ -204,13 +219,13 @@
                 },
                 {
                   "name": {
-                    "en": "Credit Wallet: track the credit that offsets your Master Data charges",
-                    "es": "Cartera de Crédito: sigue el crédito que compensa tu cargo de Master Data",
-                    "pt": "Carteira de Crédito: acompanhe o crédito que abate sua cobrança de Master Data"
+                    "en": "Credit wallet: Track the credit that offsets your Master Data charges",
+                    "es": "Cartera de crédito: monitorea el crédito que descuenta tu cobro de Master Data",
+                    "pt": "Carteira de crédito: acompanhe o crédito que abate sua cobrança de Master Data"
                   },
                   "slug": {
                     "en": "2026-10-08-credit-wallet-track-the-credit-that-offsets-your-master-data-charges",
-                    "es": "2026-10-08-cartera-de-credito-sigue-el-credito-que-compensa-tu-cargo-de-master-data",
+                    "es": "2026-10-08-cartera-de-credito-monitorea-el-credito-que-descuenta-tu-cobro-de-master-data",
                     "pt": "2026-10-08-carteira-de-credito-acompanhe-o-credito-que-abate-sua-cobranca-de-master-data"
                   },
                   "origin": "",
@@ -13612,8 +13627,8 @@
                     {
                       "name": {
                         "en": "10. Match Offers Mercado Livre",
-                        "es": "10. Match de anuncios de Mercado Libre",
-                        "pt": "10. Match de anúncios Mercado Livre"
+                        "es": "10. Publicación de productos Mercado Libre",
+                        "pt": "10. Publicação de produtos Mercado Livre"
                       },
                       "slug": {
                         "en": "match-offers-mercado-livre",
@@ -17468,8 +17483,8 @@
                   "children": [
                     {
                       "name": {
-                        "en": "Credit Wallet",
-                        "es": "Cartera de Crédito",
+                        "en": "Credit wallet",
+                        "es": "Cartera de crédito",
                         "pt": "Carteira de Crédito"
                       },
                       "slug": {
@@ -17483,8 +17498,8 @@
                     },
                     {
                       "name": {
-                        "en": "Checking Credit Wallet",
-                        "es": "Consultar Cartera de Crédito",
+                        "en": "Checking credit wallet",
+                        "es": "Consultar cartera de crédito",
                         "pt": "Consultar Carteira de Crédito"
                       },
                       "slug": {
@@ -24365,6 +24380,21 @@
                 },
                 {
                   "name": {
+                    "en": "Planning a VTEX Sales App implementation",
+                    "es": "Planificar la implementación de VTEX Sales App",
+                    "pt": "Planejar a implementação do VTEX Sales App"
+                  },
+                  "slug": {
+                    "en": "planning-a-vtex-sales-app-implementation",
+                    "es": "planificar-la-implementacion-de-vtex-sales-app",
+                    "pt": "planejar-a-implementacao-do-vtex-sales-app"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Promotions on the Sales App search page",
                     "es": "Promociones en la página de búsqueda de Sales App",
                     "pt": "Promoção na página de busca do Sales App"
@@ -24388,6 +24418,21 @@
                     "en": "vtex-sales-app-extensibility-en",
                     "es": "vtex-sales-app-extensibility-es",
                     "pt": "vtex-sales-app-extensibility-pt"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "VTEX Sales App: Configuring the checkout-instore-custom.js file",
+                    "es": "VTEX Sales App: configurar el archivo checkout-instore-custom.js",
+                    "pt": "VTEX Sales App: configurar o arquivo checkout-instore-custom.js"
+                  },
+                  "slug": {
+                    "en": "vtex-sales-app-configuring-the-checkout-instore-custom-js-file",
+                    "es": "vtex-sales-app-configurar-el-archivo-checkout-instore-custom-js",
+                    "pt": "vtex-sales-app-configurar-o-arquivo-checkout-instore-customjs"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25950,17 +25995,17 @@
           "children": [
             {
               "name": {
-                "en": "Foundations and concepts",
-                "es": "Fundamentos y conceptos",
-                "pt": "Fundamentos e conceitos"
+                "en": "Payments foundations and concepts",
+                "es": "Fundamentos y conceptos de pagos",
+                "pt": "Fundamentos e conceitos de pagamentos"
               },
               "slug": {
-                "en": "foundations-and-concepts",
-                "es": "fundamentos-y-conceptos",
-                "pt": "fundamentos-e-conceitos"
+                "en": "payments-foundations-and-concepts",
+                "es": "fundamentos-y-conceptos-de-pagos",
+                "pt": "fundamentos-e-conceitos-de-pagamentos"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -26024,24 +26069,9 @@
                 },
                 {
                   "name": {
-                    "en": "What is Deposit Slip",
-                    "es": "Qué es Ficha de Depósito",
-                    "pt": "O que é  Ficha Depósito"
-                  },
-                  "slug": {
-                    "en": "what-is-deposit-slip",
-                    "es": "que-es-ficha-de-deposito",
-                    "pt": "o-que-e-ficha-deposito"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is the connector?",
-                    "es": "¿Qué es el conector?",
-                    "pt": "O que é o conector?"
+                    "en": "Payment connector",
+                    "es": "Conector de pago",
+                    "pt": "Conector de pagamento"
                   },
                   "slug": {
                     "en": "what-is-the-connector",
@@ -26054,14 +26084,14 @@
                 },
                 {
                   "name": {
-                    "en": "What is the PCI SSC",
-                    "es": "Qué es el PCI SSC",
-                    "pt": "O que é o PCI SSC"
+                    "en": "Deposit Slip",
+                    "es": "Ficha de Depósito",
+                    "pt": "Ficha Depósito"
                   },
                   "slug": {
-                    "en": "what-is-the-pci-ssc",
-                    "es": "que-es-el-pci-ssc",
-                    "pt": "o-que-e-o-pci-ssc"
+                    "en": "what-is-deposit-slip",
+                    "es": "que-es-ficha-de-deposito",
+                    "pt": "o-que-e-ficha-deposito"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26077,6 +26107,21 @@
                     "en": "payment-provider-protocol",
                     "es": "payment-provider-protocol",
                     "pt": "payment-provider-protocol"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "PCI SSC",
+                    "es": "PCI SSC",
+                    "pt": "PCI SSC"
+                  },
+                  "slug": {
+                    "en": "what-is-the-pci-ssc",
+                    "es": "que-es-el-pci-ssc",
+                    "pt": "o-que-e-o-pci-ssc"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26111,7 +26156,7 @@
                 "pt": "provedores-de-pagamento"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -28023,8 +28068,8 @@
                     {
                       "name": {
                         "en": "Setting up payments with PagarMeV3",
-                        "es": "Configurar pago con PagarMeV3",
-                        "pt": "Configurar pagamento com PagarMeV3"
+                        "es": "Configurar pago con PagarMeV3 (Stone)",
+                        "pt": "Configurar pagamento com PagarMeV3 (Stone)"
                       },
                       "slug": {
                         "en": "setting-up-payments-with-pagarmev3",
@@ -29405,8 +29450,8 @@
                 },
                 {
                   "name": {
-                    "en": "Register payment and anti-fraud providers",
-                    "es": "Registrar proveedores de pagos y antifraude",
+                    "en": "Adding payment and anti-fraud providers",
+                    "es": "Registrar proveedores de pago y antifraude",
                     "pt": "Cadastrar provedores de pagamento e antifraude"
                   },
                   "slug": {
@@ -29540,21 +29585,6 @@
                     },
                     {
                       "name": {
-                        "en": "Setting up Itaú registered ticket (ItauShopline)",
-                        "es": "Configurar boleto registrado Itaú (ItauShopline)",
-                        "pt": "Configurar boleto registrado Itaú (ItauShopline)"
-                      },
-                      "slug": {
-                        "en": "setting-up-itau-registered-ticket",
-                        "es": "configurar-boleto-registrado-itau",
-                        "pt": "configurar-boleto-registrado-itau"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
                         "en": "How long does it take to cancel an order with an unpaid \"boleto\"?",
                         "es": "¿En cuánto tiempo un pedido de boleto sin pago se cancela?",
                         "pt": "Em quanto tempo um pedido de boleto sem pagamento é cancelado?"
@@ -29624,21 +29654,6 @@
                         "en": "configuring-samsung-pay-as-a-payment-method",
                         "es": "configurar-samsung-pay-como-medio-de-pago",
                         "pt": "configurar-samsung-pay-como-meio-de-pagamento"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "How to install Visa Checkout in the VTEX App Store",
-                        "es": "Instalar el Visa Checkout en la VTEX App Store",
-                        "pt": "Instalar o Visa Checkout na VTEX App Store"
-                      },
-                      "slug": {
-                        "en": "install-visa-checkout-in-the-extension-store",
-                        "es": "instalar-el-visa-checkout-en-la-extension-store",
-                        "pt": "instalar-o-visa-checkout-na-extension-store"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -30070,8 +30085,8 @@
                     },
                     {
                       "name": {
-                        "en": "Pix: FAQ",
-                        "es": "Pix: FAQ",
+                        "en": "Pix (Brazil): FAQ",
+                        "es": "Pix (Brasil): preguntas frecuentes",
                         "pt": "Pix: FAQ"
                       },
                       "slug": {

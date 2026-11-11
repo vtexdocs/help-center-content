@@ -3,7 +3,7 @@ title: 'Configurar promoção para marketplace'
 id: tutorials_406
 status: PUBLISHED
 createdAt: 2017-04-27T22:06:28.854Z
-updatedAt: 2024-11-11T16:46:25.421Z
+updatedAt: 2026-11-04T17:45:00.000Z
 publishedAt: 2024-11-11T16:46:25.421Z
 firstPublishedAt: 2017-04-27T23:03:23.902Z
 contentType: tutorial
@@ -132,5 +132,3 @@ Se necessário, é possível segmentar promoções para marketplaces específico
 2. Preencha o campo **Afiliados** com o nome do afiliado relacionado ao marketplace desejado.
 3. Na seção **Política Comercial**, selecione as opções **Iguais a** e **Entregue por mim (Lojas de terceiros)**.
 4. Clique em `Salvar`.
-
-> ⚠️ Uma vez que você crie a promoção, lembre-se de [reindexar os produtos afetados](/pt/docs/tutorials/manutencao-de-base-full-cleanup) no inicio e fim das promoções. Dessa forma, os seus produtos terão os preços atualizados.

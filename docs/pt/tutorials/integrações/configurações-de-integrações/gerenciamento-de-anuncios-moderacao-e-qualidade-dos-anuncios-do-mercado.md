@@ -27,7 +27,7 @@ Quando um anúncio possuir a etiqueta `Moderação`, isso significa que ele não
 
 Para isso, clique no título do anúncio em **Marketplace > Mercado Livre > Gerenciamento de anúncios**. Você será direcionado para a página de gerenciamento da moderação e qualidade do anúncio.
 
-Na página, você encontrará informações do seu anúncio. Para verificar quais oportunidades de catálogo Mercado Livre estão disponíveis para sua loja, acesse a documentação [Match de anúncios Mercado Livre](/pt/docs/tracks/match-de-anuncios-mercado-livre).
+Na página, você encontrará informações do seu anúncio. Para verificar quais oportunidades de catálogo do Mercado Livre estão disponíveis para sua loja, acesse a documentação [Publicação de produtos Mercado Livre](/pt/docs/tracks/match-de-anuncios-mercado-livre).
 
 ## Qualidade
 
