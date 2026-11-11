@@ -1,5 +1,5 @@
 ---
-title: "The basics of integrations"
+title: "Integrations"
 id: 5x9gjiQTdD6lrQLJziRozj
 status: PUBLISHED
 createdAt: 2025-09-15T15:52:46.844Z

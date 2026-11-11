@@ -1,5 +1,5 @@
 ---
-title: 'Integração com o Microsoft Teams'
+title: 'Integrar com o Microsoft Teams'
 id: 6Of4QOVgAa95Z2QjZZYeDR
 status: PUBLISHED
 createdAt: 2025-09-15T14:44:39.171Z
@@ -14,8 +14,6 @@ legacySlug: integracao-com-o-microsoft-teams
 locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
-
-## Integração com o Microsoft Teams
 
 Devido às recentes atualizações nos serviços da Microsoft Azure, o processo de criação e integração de Bots pelo Portal do Azure passou por diversas modificações, tornando necessário o desenvolvimento de uma nova documentação, atualizada, para a integração com o Microsoft Teams. O objetivo desta documentação é orientar os usuários na criação, implementação e integração do Chatbot no ambiente corporativo, Microsoft Azure e Teams, da Raízen.
 

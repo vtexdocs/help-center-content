@@ -15,8 +15,6 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-## Configuração de Canal Externo
-
 Esta documentação descreve como configurar e integrar um **canal externo** para que a plataforma receba e envie mensagens usando um serviço externo. Ela complementa o material existente e detalha os campos e opções disponíveis para que a conexão funcione corretamente.
 
 ## Visão geral

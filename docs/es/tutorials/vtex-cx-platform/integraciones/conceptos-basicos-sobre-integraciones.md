@@ -1,5 +1,5 @@
 ---
-title: "Conceptos básicos sobre integraciones"
+title: "Integraciones"
 id: 5x9gjiQTdD6lrQLJziRozj
 status: PUBLISHED
 createdAt: 2025-09-15T15:52:46.844Z

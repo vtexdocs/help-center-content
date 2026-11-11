@@ -1,11 +1,12 @@
 ---
-title: "Analytics: Métricas de atendimento"
+title: "Analytics"
 createdAt: 2025-09-12T16:25:21.244Z
 updatedAt: 2026-11-10T19:45:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: analytics-support-metrics
 locale: pt
+categoryCover: true
 ---
 
 A página de **Analytics** apresenta métricas sobre atendimentos, conversas de agentes de IA e envio de mensagens da sua operação. Use-a para monitorar atendimentos ativos em tempo real, avaliar o desempenho da equipe e analisar tendências operacionais em três dashboards: **Live Desk**, **Conversacional** e **WhatsApp**.

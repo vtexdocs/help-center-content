@@ -15,8 +15,6 @@ locale: pt
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-## Introdução a contatos
-
 Aqui estão todas as pessoas com quem você manterá contato. Existem duas maneiras de um usuário se tornar contato na plataforma:
 
 - De forma ativa, por meio do **envio de uma mensagem** para algum dos canais cadastrados pela organização.

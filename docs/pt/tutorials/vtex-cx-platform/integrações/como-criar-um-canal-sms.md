@@ -1,5 +1,5 @@
 ---
-title: 'Como criar um canal SMS'
+title: 'Criar um canal SMS'
 id: 27vYYO5fWrfZM0I4SsjHGX
 status: PUBLISHED
 createdAt: 2025-09-15T14:24:32.351Z
@@ -14,8 +14,6 @@ legacySlug: como-criar-um-canal-sms
 locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
-
-## Como criar um canal SMS
 
 O VTEX CX Platformios canais SMS para serem configurados para receber e enviar mensagens e, de acordo com o aplicativo escolhido, terá configurações diferenciadas a serem feitas. Para ativar um canal vá a **Configurações > Canais > Outras Aplicações > Adicionar Canal**
 

@@ -1,5 +1,5 @@
 ---
-title: 'Glossário da plataforma'
+title: 'Glossário do VTEX CX Platform'
 id: 7rMzZk0t1uHVfkKgtxc1z6
 status: PUBLISHED
 createdAt: 2025-09-12T15:31:28.664Z

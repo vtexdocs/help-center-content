@@ -1,5 +1,5 @@
 ---
-title: 'Como criar um canal no WhatsApp Demo'
+title: 'Criar um canal no WhatsApp Demo'
 id: 4AXs746iQgEDFxMDccpdO9
 status: PUBLISHED
 createdAt: 2025-09-15T15:01:29.556Z

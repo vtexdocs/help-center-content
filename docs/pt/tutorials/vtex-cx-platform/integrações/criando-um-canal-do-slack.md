@@ -1,5 +1,5 @@
 ---
-title: 'Criando um Canal do Slack'
+title: 'Criar um canal do Slack'
 id: 6At6Ne3yXdVJqEVR8mUzC8
 status: PUBLISHED
 createdAt: 2025-09-15T14:30:28.340Z
@@ -14,8 +14,6 @@ legacySlug: criando-um-canal-do-slack
 locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
-
-## Iniciando
 
 1. Com sua conta e seu workspace já criado, acesse <https://api.slack.com/apps> e acione o botão para criar um novo app.
 

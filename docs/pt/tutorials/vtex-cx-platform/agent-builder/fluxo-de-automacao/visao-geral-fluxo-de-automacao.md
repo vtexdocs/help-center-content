@@ -1,5 +1,5 @@
 ---
-title: 'Visão geral Fluxo de automação'
+title: 'Fluxo de automação'
 id: 5XxzVEJtDzXXEOS0SXANeS
 status: PUBLISHED
 createdAt: 2025-09-16T16:38:04.873Z
@@ -13,6 +13,7 @@ slugEN: automation-flow-overview
 legacySlug: introducao-a-fluxos
 locale: pt
 subcategoryId: hXGU8pFfABVFIg724zWBN
+categoryCover: true
 ---
 
 Um fluxo é um conjunto de passos organizados em formato de fluxograma. Esses passos são aplicados aos seus contatos quando eles entram no fluxo, ou seja, quando começam uma conversa.

@@ -15,15 +15,13 @@ locale: pt
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-## Chatbot Template Omie
-
 É um chatbot pronto para envio de **Segunda via em PDF** e **Captura de Leads** (possíveis clientes para o seu negócio). O VTEX CX Platform fornece soluções digitais para automatização da comunicação consciente, aberta e acessível. Este chatbot é um projeto template desenvolvido pelo VTEX CX Platform, utilizando a API da [Omie](https://www.omie.com.br/).
 
 Lembrando que, para consumir a [API da Omie](https://developer.omie.com.br/) é requisito possuir um aplicativo Omie com as seguintes credenciais: [AppKey e AppSecret](https://app.omie.com.br/my-apps/).
 
 [Assista uma demonstração do Chatbot Template.](https://www.youtube.com/watch?v=7HtP5Vdm0nc)
 
-### Segunda via em PDF
+## Segunda via em PDF
 
 Para a funcionalidade de envio da **Segunda via de boleto em PDF** usamos o **Módulo Geral** para Credenciamento dos clientes e **Módulo de Finanças** para listagem de lançamentos e boletos.
 
@@ -35,7 +33,7 @@ Para o fornecimento de segunda via de boletos, por questão de segurança da inf
 Você pode escolher se a confirmação vai ser por email ou usando os 4 últimos dígitos do telefone cadastrado. Sempre que quiser, você pode personalizar o seu tipo de credenciamento.
 Após o usuário estar credenciado, ele receberá as informações financeiras das parcelas através do recurso de [Lançamentos](https://app.omie.com.br/api/v1/financas/pesquisartitulos/#PesquisarLancamentos). Após o chatbot enviar os lançamentos, usamos o recurso de [ObterURLBoleto](https://app.omie.com.br/api/v1/financas/pesquisartitulos/#ObterURLBoleto) para enviar o PDF do boleto referente a esse lançamento.
 
-### Captura de Leads
+## Captura de Leads
 
 Para a funcionalidade de Captura de Leads usamos o **M ódulo CRM** para criar **Contatos e Oportunidades**.
 

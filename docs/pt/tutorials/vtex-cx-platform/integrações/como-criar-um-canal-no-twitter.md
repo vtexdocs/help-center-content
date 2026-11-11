@@ -1,5 +1,5 @@
 ---
-title: 'Como criar um canal no Twitter'
+title: 'Criar um canal no Twitter'
 id: 105ZDpGE4db4bOwN4IGjEL
 status: PUBLISHED
 createdAt: 2025-09-15T14:14:31.530Z

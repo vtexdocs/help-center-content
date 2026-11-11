@@ -1,5 +1,5 @@
 ---
-title: 'Como criar um canal SMS - para desenvolvedores (RapidPro)'
+title: 'Criar um canal SMS - para desenvolvedores (RapidPro)'
 id: 3vQxJJOAjRC2eizkGZ4mix
 status: PUBLISHED
 createdAt: 2025-09-15T14:10:36.156Z
