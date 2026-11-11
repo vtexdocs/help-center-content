@@ -1,18 +1,12 @@
 ---
 title: 'Em quanto tempo um pedido de boleto sem pagamento é cancelado?'
-id: frequentlyAskedQuestions_300
-status: PUBLISHED
 createdAt: 2019-01-24T20:45:51.983Z
-updatedAt: 2024-06-11T21:26:30.893Z
-publishedAt: 2024-06-11T21:26:30.893Z
-firstPublishedAt: 2019-01-24T22:03:31.971Z
+updatedAt: 2026-11-11T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: authors_84
 slugEN: how-long-does-it-take-to-cancel-an-order-with-an-unpaid-boleto
-legacySlug: em-quanto-tempo-um-pedido-de-boleto-sem-pagamento-e-cancelado
 locale: pt
-subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
+hidden: false
 ---
 
 Quando o boleto de um pedido não é pago, o pedido é cancelado automaticamente. O tempo total até esse cancelamento é a soma dos seguintes prazos:
