@@ -3,7 +3,7 @@ title: 'Creating a Buy Together promotion'
 id: tutorials_323
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:34.791Z
-updatedAt: 2025-09-30T13:55:10.549Z
+updatedAt: 2026-11-11T17:30:00.000Z
 publishedAt: 2025-09-30T13:55:10.549Z
 firstPublishedAt: 2017-04-27T23:03:15.238Z
 contentType: tutorial

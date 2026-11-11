@@ -3,7 +3,7 @@ title: 'Crear una promoción de campaña'
 id: 1ChYXhK2AQGuS6wAqS8Ume
 status: PUBLISHED
 createdAt: 2018-12-02T18:57:52.792Z
-updatedAt: 2025-09-24T14:00:05.744Z
+updatedAt: 2026-11-11T17:30:00.000Z
 publishedAt: 2025-09-24T14:00:05.744Z
 firstPublishedAt: 2018-12-03T16:52:03.595Z
 contentType: tutorial
