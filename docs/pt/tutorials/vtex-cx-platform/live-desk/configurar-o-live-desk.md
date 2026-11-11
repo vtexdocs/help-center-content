@@ -137,7 +137,7 @@ Na terceira etapa, configure as opções de atendimento, mensagens automáticas 
    | Opção | Descrição |
    | --- | --- |
    | **Exibir alerta de inatividade ao atendente e notificar o contato** | Exibe um alerta na listagem de chats e envia uma mensagem automática ao contato quando ele não responde dentro do tempo definido. O alerta é exibido apenas em chats em andamento e considera o tempo desde a última mensagem do atendente. Ao ativar, defina o tempo em minutos e a mensagem enviada ao contato. |
-   | **Encerrar chats inativos automaticamente** | Encerra o chat automaticamente se o contato não enviar nenhuma mensagem após o alerta de inatividade. Ao ativar, defina o tempo em minutos, contado a partir do alerta, e a mensagem de encerramento enviada ao contato. Essa funcionalidade está disponível apenas quando **Exibir alerta de inatividade ao atendente e notificar o contato** estiver ativa. |
+   | **Encerrar chats inativos automaticamente** | Encerra o chat automaticamente se o contato não enviar nenhuma mensagem após o alerta de inatividade. Ao ativar, defina o tempo em minutos, contado a partir da exibição do alerta, e a mensagem de encerramento a ser enviada ao contato. Essa funcionalidade está disponível apenas quando **Exibir alerta de inatividade ao atendente e notificar o contato** estiver ativa. |
 
    > ℹ️ As mensagens automáticas de alerta e de encerramento não reiniciam a contagem de inatividade, e chats na fila de **Aguardando** não são afetados. Chats encerrados automaticamente ficam identificados no histórico do Live Desk e no **Analytics**.
    
