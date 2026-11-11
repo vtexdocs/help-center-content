@@ -7,12 +7,12 @@ productTeam: VTEX CX Platform
 slugEN: 2026-11-17-live-desk-bulk-quick-messages
 locale: pt
 tags:
-  - Novidade
+  - Nova funcionalidade
   - VTEX CX Platform
 announcementSynopsisPT: 'Atendentes agora podem enviar uma mensagem rápida salva para várias conversas de uma vez no Live Desk, com revisão antes do envio e acompanhamento em tempo real.'
 ---
  
-Lançamos no Live Desk o **envio de mensagens rápidas em massa**, que permite ao atendente enviar uma mensagem rápida salva para várias conversas de uma só vez, diretamente pelo menu de opções da mensagem.
+Lançamos no [Live Desk](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk) o **envio de mensagens rápidas em massa**, que permite ao atendente enviar uma mensagem rápida salva para vários contatos de uma só vez, diretamente pelo menu de opções da mensagem.
  
 ## O que mudou?
  
@@ -31,18 +31,5 @@ A funcionalidade estende as mensagens rápidas já existentes. Para saber mais, 
  
 A funcionalidade já está disponível para os atendentes nas conversas do Live Desk com mensagens rápidas cadastradas.
 
-Para fazer o envio em massa de mensagens rápidas, siga o passo a passo seguinte:
-
-1. No **Live Desk**, clique em `Ver opções`.
-2. Selecione `Mensagens rápidas`.
-3. No menu de opções <i class="fas fa-ellipsis-v" aria-hidden="true"></i> da mensagem desejada, clique em `Enviar em massa`.
-4. Selecione os contatos que receberão a mensagem. Por padrão, todos os contatos estão selecionados.
-5. Clique na caixa de seleção de **Verifiquei todos os campos e quero enviar** para confirmar a revisão do envio em massa.
-
-> ⚠️ O checklist de confirmação é obrigatório e ajuda a evitar envios em massa acidentais. Revise os contatos selecionados antes de confirmar.
-
-6. Clique em `Enviar para todos`.
-
-Durante o envio, uma barra de progresso mostra o andamento em tempo real. Ao final, uma notificação confirma quantas conversas receberam a mensagem.
 
 Para mais informações, acesse o artigo [Visão geral do Live Desk](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk).
