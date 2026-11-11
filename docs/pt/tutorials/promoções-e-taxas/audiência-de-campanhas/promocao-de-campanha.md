@@ -150,5 +150,5 @@ Defina o número máximo de vezes que a promoção pode ser aplicada na loja ou 
 
 Defina nesta seção o destaque visual da promoção de campanha nos produtos exibidos na loja.
 
-* **Destacar promoção nos produtos:**  ative esta opção para exibir um selo promocional nos produtos afetados pela promoção. Para que o destaque funcione corretamente, é necessário configurar a exibição de acordo com o frontend da loja, seja CMS Portal (Legado) ou Store Framework. Para mais informações, veja [Configurar promoção com destaque/flag](/pt/docs/tutorials/configurando-promocao-com-destaque-flag).  
+* **Destacar promoção nos produtos:** ative esta opção para exibir um selo promocional nos produtos afetados pela promoção. Para que o destaque funcione corretamente, é necessário configurar a exibição de acordo com o frontend da loja, seja CMS Portal (Legado) ou Store Framework. Para mais informações, veja [Configurar promoção com destaque/flag](/pt/docs/tutorials/configurando-promocao-com-destaque-flag).  
 * **Informações adicionais:** clique em `Criar` para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.
