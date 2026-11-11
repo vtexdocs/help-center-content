@@ -35159,6 +35159,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Subscribing to a VTEX CX Platform plan",
+                    "es": "Suscribirse a un plan de VTEX CX Platform",
+                    "pt": "Assinando um plano da VTEX CX Platform"
+                  },
+                  "slug": {
+                    "en": "subscribing-to-a-vtex-cx-platform-plan",
+                    "es": "suscribirse-a-un-plan-de-vtex-cx-platform",
+                    "pt": "assinando-um-plano-da-vtex-cx-platform"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Platform glossary",
                     "es": "Glosário de la plataforma",
                     "pt": "Glossário da plataforma"
@@ -35167,21 +35182,6 @@
                     "en": "platform-glossary",
                     "es": "glosario-de-la-plataforma",
                     "pt": "glossario-da-plataforma"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Subscribing to a VTEX CX Platform plan",
-                    "es": "Subscribing to a VTEX CX Platform plan",
-                    "pt": "Subscribing to a VTEX CX Platform plan"
-                  },
-                  "slug": {
-                    "en": "subscribing-to-a-vtex-cx-platform-plan",
-                    "es": "",
-                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
