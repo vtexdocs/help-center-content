@@ -3,7 +3,7 @@ title: 'Criar uma promoção Compre e ganhe'
 id: tutorials_322
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:41.148Z
-updatedAt: 2025-09-30T13:53:58.091Z
+updatedAt: 2026-11-11T17:30:00.000Z
 publishedAt: 2025-09-30T13:53:58.091Z
 firstPublishedAt: 2017-04-27T23:03:14.992Z
 contentType: tutorial
@@ -142,7 +142,7 @@ Destaque a promoção na página de produtos e adicione dados personalizados par
 
 - **Destacar nos produtos:** marque esta opção para exibir a promoção diretamente nas páginas de produtos. Lembre-se de configurar essa exibição no módulo CMS.
 
-> ℹ️ Lembre-se configurar essa exibição no módulo [CMS.](/pt/docs/tutorials/configurando-promocao-com-destaque-flag)
+> ℹ️ Lembre-se de [configurar essa exibição de acordo com o frontend da sua loja](/pt/docs/tutorials/configurando-promocao-com-destaque-flag), seja CMS Portal (Legado) ou Store Framework.
 
 - **Informações adicionais:** clique em `Criar` para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.
 

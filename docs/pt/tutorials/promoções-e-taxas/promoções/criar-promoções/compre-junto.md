@@ -3,7 +3,7 @@ title: 'Criar promoção Compre Junto'
 id: tutorials_323
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:34.791Z
-updatedAt: 2025-09-30T13:55:10.549Z
+updatedAt: 2026-11-11T17:30:00.000Z
 publishedAt: 2025-09-30T13:55:10.549Z
 firstPublishedAt: 2017-04-27T23:03:15.238Z
 contentType: tutorial
@@ -142,7 +142,7 @@ Nesta seção, defina se a promoção poderá ser combinada com outras promoçõ
 
 Destaque a promoção na página de produto e adicione dados personalizados para customizações da loja nesta seção.
 
-- **Destacar nos produtos:** marque esta opção para exibir a promoção diretamente nas páginas de produtos. Lembre-se de [configurar essa exibição no módulo CMS](/pt/docs/tutorials/configurando-promocao-com-destaque-flag).
+- **Destacar nos produtos:** marque esta opção para exibir a promoção diretamente nas páginas de produtos. Lembre-se de [configurar essa exibição de acordo com o frontend da sua loja](/pt/docs/tutorials/configurando-promocao-com-destaque-flag), seja CMS Portal (Legado) ou Store Framework.
 - **Informações adicionais:** clique em **Criar** para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.
 
 Veja abaixo o formulário de criar promoções Compre Junto:

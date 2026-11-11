@@ -3,7 +3,7 @@ title: 'Criar promoção de campanha'
 id: 1ChYXhK2AQGuS6wAqS8Ume
 status: PUBLISHED
 createdAt: 2018-12-02T18:57:52.792Z
-updatedAt: 2025-09-24T14:00:05.744Z
+updatedAt: 2026-11-11T17:30:00.000Z
 publishedAt: 2025-09-24T14:00:05.744Z
 firstPublishedAt: 2018-12-03T16:52:03.595Z
 contentType: tutorial
@@ -150,5 +150,5 @@ Defina o número máximo de vezes que a promoção pode ser aplicada na loja ou 
 
 Defina nesta seção o destaque visual da promoção de campanha nos produtos exibidos na loja.
 
-* **Destacar promoção nos produtos:**  ative esta opção para exibir um selo promocional nos produtos afetados pela promoção. Para que o destaque funcione corretamente, é necessário[configurar a exibição no módulo CMS da loja](/pt/docs/tutorials/configurando-promocao-com-destaque-flag).  
+* **Destacar promoção nos produtos:**  ative esta opção para exibir um selo promocional nos produtos afetados pela promoção. Para que o destaque funcione corretamente, é necessário configurar a exibição de acordo com o frontend da loja, seja CMS Portal (Legado) ou Store Framework. Para mais informações, veja [Configurar promoção com destaque/flag](/pt/docs/tutorials/configurando-promocao-com-destaque-flag).  
 * **Informações adicionais:** clique em `Criar` para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.
