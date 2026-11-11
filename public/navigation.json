@@ -22028,6 +22028,53 @@
             },
             {
               "name": {
+                "en": "CMS Portal (Legado)",
+                "es": "CMS Portal (Legado)",
+                "pt": "CMS Portal (Legado)"
+              },
+              "slug": {
+                "en": "cms-portal-legado",
+                "es": "cms-portal-legado-subcategoria",
+                "pt": "cms-portal-legado-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Layout",
+                    "es": "Layout",
+                    "pt": "Layout"
+                  },
+                  "slug": {
+                    "en": "layout",
+                    "es": "layout-subcategoria",
+                    "pt": "layout-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Configurar destaque de promoción en CMS Portal (Legado)",
+                        "es": "Configurar destaque de promoción en CMS Portal (Legado)",
+                        "pt": "Configurar destaque de promoção no CMS Portal (Legado)"
+                      },
+                      "slug": {
+                        "en": "",
+                        "es": "configurar-destaque-de-promocion-en-cms-portal-legado",
+                        "pt": "configurar-destaque-de-promocao-no-cms-portal-legado"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Headless CMS (Legacy)",
                 "es": "Headless CMS (Legado)",
                 "pt": "Headless CMS (Legado)"
