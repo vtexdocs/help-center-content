@@ -22134,13 +22134,13 @@
                 {
                   "name": {
                     "en": "Configuring Pix payment recovery",
-                    "es": "Configuring Pix payment recovery",
-                    "pt": "Configuring Pix payment recovery"
+                    "es": "Configuración de la recuperación de pagos con Pix",
+                    "pt": "Configurando a recuperação de pagamento via Pix"
                   },
                   "slug": {
                     "en": "configuring-pix-payment-recovery",
-                    "es": "",
-                    "pt": ""
+                    "es": "configuracion-de-la-recuperacion-de-pagos-con-pix",
+                    "pt": "configurando-recuperacao-de-pagamento-via-pix"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -34632,6 +34632,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configuring back in stock alerts",
+                    "es": "Configurar alertas de disponibilidad de stock",
+                    "pt": "Configurar alertas de volta ao estoque"
+                  },
+                  "slug": {
+                    "en": "configuring-back-in-stock-alerts",
+                    "es": "configurar-alertas-de-disponibilidad-de-stock",
+                    "pt": "configurando-alertas-de-volta-ao-estoque"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Configurar o Shopping Assistant",
                     "es": "Configurar o Shopping Assistant",
                     "pt": "Configurar o Shopping Assistant"
@@ -34640,21 +34655,6 @@
                     "en": "configure-shopping-assistant",
                     "es": "configurar-el-shopping-assistant",
                     "pt": "configurar-o-shopping-assistant"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring back in stock alerts",
-                    "es": "Configuring back in stock alerts",
-                    "pt": "Configuring back in stock alerts"
-                  },
-                  "slug": {
-                    "en": "configuring-back-in-stock-alerts",
-                    "es": "",
-                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
