@@ -16,11 +16,11 @@ This guide explains each alert and how to configure its time limit, notification
 
 Each alert is optional and works independently. The corresponding time cards on the **Live** tab display the current average and the maximum value recorded for active support chats. When a chat exceeds a configured limit, the dashboard highlights it in the detailed monitoring table.
 
-| Alert | Limit field | Description |
+| Alert | Acronym | Description |
 | --- | --- | --- |
-| **Waiting time** | **Maximum wait time** | Time a contact spends in the queue before a support chat starts. |
-| **First response time** | **Maximum time to 1st response** | Time between the start of a support chat and the representative's first message. |
-| **Handle time** | **Maximum handle time** | Total duration of a support chat, from start to finish. |
+| **Average Wait time** | AVG | Time a contact spends in the queue before a support chat starts. |
+| **Average First Response Time** | AVFTR | Time between the start of a support chat and the representative's first message. |
+| **Average Support Time** | ASV | Total duration of a support chat, from start to finish. |
 
 > ℹ️ The first-response alert remains active until the representative sends the first message.
 
