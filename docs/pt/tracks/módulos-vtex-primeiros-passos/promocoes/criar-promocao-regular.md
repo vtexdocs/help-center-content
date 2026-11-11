@@ -116,14 +116,14 @@ Nesta seção, você define os critérios que precisam ser atendidos para que a 
 - **Preço de lista**: considere o valor original do produto (sem descontos) para validar a aplicação da promoção.  
 - **Número do BIN do cartão:** aplique a promoção apenas quando o cartão utilizado pertencer a uma bandeira, banco ou categoria identificada por um número BIN específico. Importe um arquivo `.txt` ou `.csv` com a lista de BINs, informando um número por linha.  
 - **Tags de marketing**: aplique a promoção quando a compra for realizada por meio do [módulo de assinaturas](/pt/docs/tutorials/como-funciona-a-assinatura) da VTEX.  
-- **Afiliados**: selecione os afiliados marketplaces ou parceiros elegíveis para a promoção. Para mais informações acesse [O que é afiliado](/pt/docs/tutorials/o-que-e-afiliado).  
+- **Afiliados**: selecione os afiliados marketplaces ou parceiros elegíveis para a promoção. Para mais informações, acesse [O que é afiliado](/pt/docs/tutorials/o-que-e-afiliado).  
 - **Cluster de clientes:** selecione um [cluster de clientes](/pt/docs/tutorials/desconto-progressivo) já criado no Master Data, seguindo o formato `field=value` ou `field contains value`. Escolha uma das seguintes opções:  
   - **Todos os seguintes**: aplique a promoção apenas se todos os critérios do cluster forem atendidos.  
   - **Pelo menos um dos seguintes:** aplique a promoção se pelo menos um dos critérios do cluster for atendido.  
 - **Local de entrega:** aplica a promoção com base no endereço de entrega associado ao pedido. As condições podem ser configuradas utilizando os seguintes critérios:  
   - **Países de entrega:** selecione os países de entrega nos quais a promoção será aplicada. Você pode adicionar até 50 países nesta lista. A promoção será aplicada apenas para pedidos cuja entrega esteja associada aos países configurados.  
   - **CEP de entrega:** permite configurar intervalos de CEP para limitar a aplicação da promoção a regiões específicas.  
-    - **Escolha Incluir ou Excluir:** defina se a promoção será aplicada aos intervalos configurados (incluir) ou excluídas deles (Excluir).  
+    - **Escolha Incluir ou Excluir:** defina se a promoção será aplicada aos intervalos configurados (incluir) ou excluída deles (excluir).  
     - **Configure os intervalos de CEP:** preencha os campos “De” e “Até” com os códigos postais desejados.  
     - **Adicione múltiplos intervalos:** utilize a opção **Adicionar intervalo** para incluir múltiplos intervalos de CEP, conforme os critérios da campanha.  
 - **Tipo de frete**: aplica a promoção somente quando for selecionado um dos tipos de frete definidos.  
