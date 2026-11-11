@@ -20,7 +20,8 @@ seeAlso:
 ## Before you begin
 
 Before configuring the alert, make sure that:
-
+- Your store uses **FastStore** or **Store Framework**, and the **Shopping Assistant** is active and configured. The alert appears only when the Shopping Assistant is set up.
+    - On **FastStore**, add the **Shopping Assistant** component through **Global Sections** in the [CMS](https://help.vtex.com/en/docs/tutorials/cms-overview). This component adds the `agentic-cx` script to the store. Then, activate the **Shopping Assistant** in the VTEX CX app.
 - WhatsApp is connected to the VTEX CX app.
 - The **WhatsApp Back in Stock** automation is connected.
 - Meta has approved the **Back in stock** WhatsApp template. Wait until the template status changes to **Approved** before enabling the alert, because messages can't be sent while the template is pending or rejected.
