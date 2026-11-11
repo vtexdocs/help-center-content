@@ -1,5 +1,5 @@
 ---
-title: "How to create a campaign"
+title: "Creating a campaign"
 id: 552TQfDeoedLJoKg6RFBB3
 status: PUBLISHED
 createdAt: 2025-09-12T18:03:34.475Z

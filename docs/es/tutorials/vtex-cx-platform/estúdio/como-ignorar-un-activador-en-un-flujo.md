@@ -1,5 +1,5 @@
 ---
-title: "Cómo ignorar un activador en un flujo"
+title: "Ignorar un activador en un flujo"
 id: 1IMvEnf0FUEFTW37zy3mQ6
 status: PUBLISHED
 createdAt: 2025-09-12T17:57:54.426Z

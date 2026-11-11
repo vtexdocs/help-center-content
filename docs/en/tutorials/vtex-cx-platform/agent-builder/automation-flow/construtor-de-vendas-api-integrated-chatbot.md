@@ -15,8 +15,6 @@ locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-## Construtor de Vendas template
-
 This is a communication solution for **listing projects, sending addresses, campaign materials, floor plans, creating leads with conversation history, and opening customer service cases in the Relationship module**. VTEX CX Platform provides digital solutions to automate conscious, open, and accessible communication. This template is a chatbot developed by VTEX CX Platform, using the [Construtor de Vendas API](https://docs.cvcrm.com.br/).
 
 Watch a demonstration to understand how the chatbot works and its business rules:

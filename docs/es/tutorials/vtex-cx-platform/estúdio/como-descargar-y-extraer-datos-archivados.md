@@ -1,5 +1,5 @@
 ---
-title: "Cómo descargar y extraer datos archivados"
+title: "Descargar y extraer datos archivados"
 id: 3fYq4fID5fMrm5BT2uVxG0
 status: PUBLISHED
 createdAt: 2025-09-12T17:09:16.264Z

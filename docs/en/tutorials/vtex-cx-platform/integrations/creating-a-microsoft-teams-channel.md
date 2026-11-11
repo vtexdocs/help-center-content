@@ -15,8 +15,6 @@ locale: en
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-## Building an application in Azure
-
 1. To create your bot application, go to https://portal.azure.com/ you will need to create an account, if you don't have one.
 2. After logging into your account, select **Create a Resource.**
 3. Search for **Azure Bot** in the search box.
