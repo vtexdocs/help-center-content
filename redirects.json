@@ -13112,6 +13112,54 @@
       {
         "from": "/es/docs/tutorials/anadir-soporte-a-3ds-en-la-integracion-con-adyen",
         "to": "https://developers.vtex.com/docs/apps/adyen.payment-provider-v3#3ds-authentication-type-required"
+      },
+      {
+        "from": "/pt/docs/tutorials/por-que-o-pagamento-por-boleto-registado-exige-autenticacao",
+        "to": "/pt/docs/tutorials/boleto-bancario-registrado-fluxo-basico-de-um-pagamento"
+      },
+      {
+        "from": "/pt/tutorial/por-que-o-pagamento-por-boleto-registado-exige-autenticacao",
+        "to": "/pt/docs/tutorials/boleto-bancario-registrado-fluxo-basico-de-um-pagamento"
+      },
+      {
+        "from": "/en/docs/tutorials/why-does-payment-with-registered-boleto-require-authentication",
+        "to": "/en/docs/tutorials/registered-ticket-flow"
+      },
+      {
+        "from": "/en/tutorial/why-does-payment-with-registered-boleto-require-authentication",
+        "to": "/en/docs/tutorials/registered-ticket-flow"
+      },
+      {
+        "from": "/es/docs/tutorials/por-que-el-pago-por-boleto-registrado-requiere-autenticacion",
+        "to": "/es/docs/tutorials/boleto-bancario-registrado-flujo"
+      },
+      {
+        "from": "/es/tutorial/por-que-el-pago-por-boleto-registrado-requiere-autenticacion",
+        "to": "/es/docs/tutorials/boleto-bancario-registrado-flujo"
+      },
+      {
+        "from": "/pt/docs/tutorials/cartao-de-credito-fluxo-basico-de-um-pagamento",
+        "to": "/pt/docs/tracks/fluxo-de-um-pagamento-por-cartao-de-credito"
+      },
+      {
+        "from": "/pt/tutorial/cartao-de-credito-fluxo-basico-de-um-pagamento",
+        "to": "/pt/docs/tracks/fluxo-de-um-pagamento-por-cartao-de-credito"
+      },
+      {
+        "from": "/en/docs/tutorials/credit-card-basic-payment-flow",
+        "to": "/en/docs/tracks/credit-card-payment-flow"
+      },
+      {
+        "from": "/en/tutorial/credit-card-basic-payment-flow",
+        "to": "/en/docs/tracks/credit-card-payment-flow"
+      },
+      {
+        "from": "/es/docs/tutorials/tarjeta-de-credito-flujo-basico-de-un-pago",
+        "to": "/es/docs/tracks/flujo-de-pago-por-tarjeta-de-credito"
+      },
+      {
+        "from": "/es/tutorial/tarjeta-de-credito-flujo-basico-de-un-pago",
+        "to": "/es/docs/tracks/flujo-de-pago-por-tarjeta-de-credito"
       }
     ]
   }
