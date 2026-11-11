@@ -1,44 +1,41 @@
 ---
 title: 'Registrar información de BIN'
-id: 7xvo4JJ53WM7aLzufdC4au
-status: PUBLISHED
 createdAt: 2024-05-02T19:11:00.734Z
-updatedAt: 2025-08-11T19:36:44.910Z
-publishedAt: 2025-08-11T19:36:44.910Z
-firstPublishedAt: 2024-05-02T19:44:35.388Z
+updatedAt: 2026-11-11T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: adding-bin-information
-legacySlug: registrar-informacion-de-bin
 locale: es
-subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
+hidden: false
 ---
 
-El número de identificación bancaria (BIN) se compone de los primeros seis u ocho dígitos de una tarjeta de crédito o débito y caracteriza la entidad emisora de la tarjeta.
+El Número de Identificación Bancaria (BIN) está compuesto por los primeros seis u ocho dígitos de una tarjeta de crédito o débito e identifica a la [institución emisora](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#banco-emisor) de la tarjeta. En el siguiente ejemplo, los primeros seis dígitos, en azul y marcados arriba del número, forman el BIN de seis dígitos. Junto con los dos dígitos siguientes, en rosa, forman el BIN de ocho dígitos, marcado abajo del número.
 
-![BIN_image_digits_ES_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/medios-y-condiciones-de-pago/tarjetas-beneficios-y-tarjetas-de-regalo/registrar-informacion-de-bin_1.png)
+![Tarjeta de ejemplo con el número 5502 0912 3456 7890, los seis primeros dígitos marcados en azul arriba del número y los ocho primeros dígitos marcados en rosa debajo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/medios-y-condiciones-de-pago/tarjetas-beneficios-y-tarjetas-de-regalo/registrar-informacion-de-bin_1.png)
 
-Cuando la entidad emisora desea crear nuevos perfiles de tarjetas o emitir nuevas tarjetas para un modelo existente, debe crear nuevos BIN. Esto también se aplica cuando una [red de tarjeta](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#red-de-tarjeta) es adquirida por otra.
+Se crean nuevos BINs cuando la institución emisora lanza nuevos perfiles de tarjeta o emite nuevas tarjetas para un modelo ya existente, y también cuando una [red de tarjeta](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#red-de-tarjeta) es adquirida por otra.
 
-En estos casos, se debe notificar a VTEX para permitir que las nuevas tarjetas se validen de forma correcta en el proceso de pago durante una compra realizada en la plataforma.
+Cuando un BIN no está registrado o está desactualizado en VTEX, el checkout puede identificar la tarjeta con la red de tarjeta o la institución emisora incorrecta, o no reconocerla. Las promociones, condiciones de pago y opciones de pago en cuotas configuradas para la institución emisora pueden no aparecer o ser diferentes de lo configurado, y el pago puede ser rechazado o devolver un error genérico solo para tarjetas de esa institución. En estos casos, notifica a VTEX para que las tarjetas se validen correctamente en el pago.
 
-## Solicitar la inclusión de BIN
+## Solicitar la inclusión o actualización de BINs
 
-Para agegar un BIN o actualizar la información de un BIN existente en VTEX, debes abrir un ticket con el [Soporte VTEX](https://supporticket.vtex.com/support).
+Para agregar un nuevo BIN o actualizar la información de un BIN ya registrado en VTEX, sigue los pasos a continuación:
 
-> ⚠️ Para garantizar la seguridad y la legitimidad de los cambios solicitados, es obligatorio enviar una comprobación formal de la entidad financiera que acredite la titularidad de los BINs informados. Las solicitudes sin esta validación no podrán ser atendidas.
+1. Solicita a la institución emisora propietaria de los BINs un documento oficial en PDF que confirme explícitamente esa propiedad.
 
-El ticket debe incluir como adjunto una plantilla rellenada con la siguiente información:
+   > ⚠️ Para garantizar la seguridad y la legitimidad de los cambios, VTEX solo atiende solicitudes acompañadas de este documento. Los archivos .EML, las capturas de pantalla y las conversaciones por correo electrónico no se aceptan como comprobante, incluso cuando los envía un empleado de la institución emisora.
 
-- __code__: el nuevo BIN que se debe agregar o el BIN existente que se debe actualizar.
-- __cardBrand__: red de la tarjeta correspondiente al BIN.
-- __cardType__: tipo de tarjeta (crédito o débito).
-- __country__: país de utilización de la tarjeta.
-- __bank__: banco emisor de la tarjeta.
-- __cvvSize__: número de caracteres del CVV (Card Verification Value).
-- __cardLevel__: clasificación de la tarjeta (Gold, Platinum, Black, entre otros).
+2. Completa una plantilla con la siguiente información:
+   - __code__: nuevo BIN a agregar o BIN ya existente que deberá actualizarse.
+   - __cardBrand__: red de tarjeta correspondiente al BIN.
+   - __cardType__: tipo de tarjeta, crédito o débito.
+   - __country__: país de uso de la tarjeta.
+   - __bank__: institución emisora de la tarjeta.
+   - __cvvSize__: cantidad de caracteres del CVV (Card Verification Value).
+   - __cardLevel__: clasificación de la tarjeta (Gold, Platinum, Black, entre otras).
 
-Modelo de plantilla rellenada:
+   La siguiente imagen muestra un ejemplo de plantilla completada:
 
-![Bin_spreadsheet](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/medios-y-condiciones-de-pago/tarjetas-beneficios-y-tarjetas-de-regalo/registrar-informacion-de-bin_2.PNG)
+   ![Planilla de ejemplo con las columnas code, cardBrand, cardType, country, bank, cvvSize y cardLevel, y una fila completada con un BIN de tarjeta de crédito Mastercard Gold emitida en Brasil](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/medios-y-condiciones-de-pago/tarjetas-beneficios-y-tarjetas-de-regalo/registrar-informacion-de-bin_2.PNG)
+
+3. Abre un ticket en [Soporte VTEX](https://supporticket.vtex.com/support) y adjunta la plantilla y el documento en PDF.
