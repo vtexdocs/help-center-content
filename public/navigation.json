@@ -22133,6 +22133,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Configuring Pix payment recovery",
+                    "es": "Configuración de la recuperación de pagos con Pix",
+                    "pt": "Configurando a recuperação de pagamento via Pix"
+                  },
+                  "slug": {
+                    "en": "configuring-pix-payment-recovery",
+                    "es": "configuracion-de-la-recuperacion-de-pagos-con-pix",
+                    "pt": "configurando-recuperacao-de-pagamento-via-pix"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Creating CX automations",
                     "es": "Crear automatizaciones de CX",
                     "pt": "Criar automações do CX"
@@ -34587,6 +34602,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configuring back in stock alerts",
+                    "es": "Configurar alertas de disponibilidad de stock",
+                    "pt": "Configurar alertas de volta ao estoque"
+                  },
+                  "slug": {
+                    "en": "configuring-back-in-stock-alerts",
+                    "es": "configurar-alertas-de-disponibilidad-de-stock",
+                    "pt": "configurando-alertas-de-volta-ao-estoque"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Configurar o Shopping Assistant",
                     "es": "Configurar o Shopping Assistant",
                     "pt": "Configurar o Shopping Assistant"
@@ -35127,6 +35157,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Subscribing to a VTEX CX Platform plan",
+                    "es": "Suscribirse a un plan de VTEX CX Platform",
+                    "pt": "Assinando um plano da VTEX CX Platform"
+                  },
+                  "slug": {
+                    "en": "subscribing-to-a-vtex-cx-platform-plan",
+                    "es": "suscribirse-a-un-plan-de-vtex-cx-platform",
+                    "pt": "assinando-um-plano-da-vtex-cx-platform"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Platform glossary",

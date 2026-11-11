@@ -8,7 +8,7 @@ slugEN: vtex-cx-platform-overview
 locale: pt
 ---
 
-> ℹ️ Para conhecer o VTEX CX Platform e implementá-lo no seu negócio, [agende uma demonstração](https://www.vtex.com/en-us/products/cx_platform/).
+> ℹ️ Para saber mais sobre a VTEX CX Platform e implementá-la em sua pessoa jurídica, [agende uma demonstração](https://www.vtex.com/en-us/products/cx_platform/). Se a loja estiver em um período de teste e for elegível para um plano padrão, consulte [Assinar um plano da VTEX CX Platform](https://help.vtex.com/pt/docs/tutorials/assinar-um-plano-da-vtex-cx-platform).
 
 O **VTEX CX Platform** é a solução de commerce conversacional que permite criar agentes de inteligência artificial (IA) autônomos para atuar em toda a jornada do cliente, do primeiro contato ao pós-venda. Esses agentes executam ações diretamente na sua operação, como consultar o status de um pedido, aplicar promoções, finalizar a compra e recuperar carrinhos abandonados.
 
