@@ -22133,6 +22133,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Configuring Pix payment recovery",
+                    "es": "Configuring Pix payment recovery",
+                    "pt": "Configuring Pix payment recovery"
+                  },
+                  "slug": {
+                    "en": "configuring-pix-payment-recovery",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Creating CX automations",
                     "es": "Crear automatizaciones de CX",
                     "pt": "Criar automações do CX"
@@ -34632,6 +34647,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configuring back in stock alerts (Beta)",
+                    "es": "Configuring back in stock alerts (Beta)",
+                    "pt": "Configuring back in stock alerts (Beta)"
+                  },
+                  "slug": {
+                    "en": "configuring-back-in-stock-alerts",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Creating a Slack channel",
                     "es": "Creando un canal de Slack",
                     "pt": "Criando um Canal do Slack"
@@ -35167,6 +35197,21 @@
                     "en": "platform-glossary",
                     "es": "glosario-de-la-plataforma",
                     "pt": "glossario-da-plataforma"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Subscribing to a VTEX CX Platform plan",
+                    "es": "Subscribing to a VTEX CX Platform plan",
+                    "pt": "Subscribing to a VTEX CX Platform plan"
+                  },
+                  "slug": {
+                    "en": "subscribing-to-a-vtex-cx-platform-plan",
+                    "es": "",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
