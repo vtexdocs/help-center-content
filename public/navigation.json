@@ -34528,33 +34528,275 @@
                 },
                 {
                   "name": {
-                    "en": "Adding Discord as a channel",
-                    "es": "Agregar Discord como un canal",
-                    "pt": "Adicionando o Discord como um canal"
+                    "en": "Channels",
+                    "es": "Canales",
+                    "pt": "Canais"
                   },
                   "slug": {
-                    "en": "adding-discord-as-a-channel",
-                    "es": "agregar-discord-como-un-canal",
-                    "pt": "adicionando-o-discord-como-um-canal"
+                    "en": "cx-platform-channels-subcategory",
+                    "es": "cx-platform-canales-subcategoria",
+                    "pt": "cx-platform-canais-subcategoria"
                   },
                   "origin": "",
-                  "type": "markdown",
-                  "children": []
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Adding Discord as a channel",
+                        "es": "Agregar Discord como un canal",
+                        "pt": "Adicionando o Discord como um canal"
+                      },
+                      "slug": {
+                        "en": "adding-discord-as-a-channel",
+                        "es": "agregar-discord-como-un-canal",
+                        "pt": "adicionando-o-discord-como-um-canal"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Adding a Viber channel (RapidPro)",
+                        "es": "Agregando un canal de Viber (RapidPro)",
+                        "pt": "Adicionando um canal Viber (RapidPro)"
+                      },
+                      "slug": {
+                        "en": "adding-a-viber-channel-rapidpro",
+                        "es": "agregando-un-canal-de-viber-rapidpro",
+                        "pt": "adicionando-um-canal-viber-rapidpro"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a Slack channel",
+                        "es": "Creando un canal de Slack",
+                        "pt": "Criar um canal do Slack"
+                      },
+                      "slug": {
+                        "en": "creating-a-slack-channel",
+                        "es": "creando-un-canal-de-slack",
+                        "pt": "criando-um-canal-do-slack"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Adding a Facebook channel",
+                        "es": "Crear un canal en Facebook",
+                        "pt": "Criar um canal no Facebook"
+                      },
+                      "slug": {
+                        "en": "adding-a-facebook-channel",
+                        "es": "como-crear-un-canal-en-facebook",
+                        "pt": "como-criar-um-canal-no-facebook"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a channel on Instagram",
+                        "es": "Crear un canal en Instagram",
+                        "pt": "Criar um canal no Instagram"
+                      },
+                      "slug": {
+                        "en": "how-to-create-a-channel-on-instagram",
+                        "es": "como-crear-un-canal-en-instagram",
+                        "pt": "como-criar-um-canal-no-instagram"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Adding a Telegram channel",
+                        "es": "Crear un canal en Telegram",
+                        "pt": "Criar um canal no Telegram"
+                      },
+                      "slug": {
+                        "en": "adding-a-telegram-channel",
+                        "es": "como-crear-un-canal-en-telegram",
+                        "pt": "como-criar-um-canal-no-telegram"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a channel on Twitter",
+                        "es": "Crear un canal en Twitter",
+                        "pt": "Criar um canal no Twitter"
+                      },
+                      "slug": {
+                        "en": "how-to-create-a-channel-on-twitter",
+                        "es": "como-crear-un-canal-en-twitter",
+                        "pt": "como-criar-um-canal-no-twitter"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Adding a Viber channel",
+                        "es": "Crear un canal en Viber",
+                        "pt": "Criar um canal no Viber"
+                      },
+                      "slug": {
+                        "en": "adding-a-viber-channel",
+                        "es": "como-crear-un-canal-en-viber",
+                        "pt": "como-criar-um-canal-no-viber"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating an SMS channel",
+                        "es": "Crear un canal SMS",
+                        "pt": "Criar um canal SMS"
+                      },
+                      "slug": {
+                        "en": "how-to-create-an-sms-channel",
+                        "es": "como-crear-un-canal-sms",
+                        "pt": "como-criar-um-canal-sms"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating an SMS channel - for developers (RapidPro)",
+                        "es": "Crear un canal de SMS - para desarrolladores (RapidPro)",
+                        "pt": "Criar um canal SMS - para desenvolvedores (RapidPro)"
+                      },
+                      "slug": {
+                        "en": "how-to-create-an-sms-channel-for-developers-rapidpro",
+                        "es": "como-crear-un-canal-de-sms-para-desarrolladores-rapidpro",
+                        "pt": "como-criar-um-canal-sms-para-desenvolvedores-rapidpro"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a Web Channel",
+                        "es": "Crear un canal web",
+                        "pt": "Criar um canal web"
+                      },
+                      "slug": {
+                        "en": "how-to-create-a-web-channel",
+                        "es": "como-crear-un-canal-web",
+                        "pt": "como-criar-um-canal-web"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Native ChatGPT integration",
+                        "es": "Integración nativa ChatGPT",
+                        "pt": "Integrar com o ChatGPT"
+                      },
+                      "slug": {
+                        "en": "native-chatgpt-integration",
+                        "es": "integracion-nativa-chatgpt",
+                        "pt": "integracao-nativa-chatgpt"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a Microsoft Teams channel",
+                        "es": "Creación de un canal de Microsoft Teams",
+                        "pt": "Integrar com o Microsoft Teams"
+                      },
+                      "slug": {
+                        "en": "creating-a-microsoft-teams-channel",
+                        "es": "creacion-de-un-canal-de-microsoft-teams",
+                        "pt": "integracao-com-o-microsoft-teams"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Ticketer: Ticketer on Rapid Pro",
+                        "es": "Ticketer: Añadiendo el servicio de Ticketer en RapidPro",
+                        "pt": "Ticketer: Adicionando serviço de Ticketer no RapidPro"
+                      },
+                      "slug": {
+                        "en": "ticketer-ticketer-on-rapid-pro",
+                        "es": "ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro",
+                        "pt": "ticketer-adicionando-servico-de-ticketer-no-rapidpro"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
                 },
                 {
                   "name": {
-                    "en": "Adding a Viber channel (RapidPro)",
-                    "es": "Agregando un canal de Viber (RapidPro)",
-                    "pt": "Adicionando um canal Viber (RapidPro)"
+                    "en": "Shopping Assistant",
+                    "es": "Shopping Assistant",
+                    "pt": "Shopping Assistant"
                   },
                   "slug": {
-                    "en": "adding-a-viber-channel-rapidpro",
-                    "es": "agregando-un-canal-de-viber-rapidpro",
-                    "pt": "adicionando-um-canal-viber-rapidpro"
+                    "en": "cx-platform-shopping-assistant-subcategory",
+                    "es": "cx-platform-shopping-assistant-subcategoria",
+                    "pt": "cx-platform-shopping-assistant-subcategoria"
                   },
                   "origin": "",
-                  "type": "markdown",
-                  "children": []
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Configurar o Shopping Assistant",
+                        "es": "Configurar o Shopping Assistant",
+                        "pt": "Configurar o Shopping Assistant"
+                      },
+                      "slug": {
+                        "en": "configure-shopping-assistant",
+                        "es": "configurar-el-shopping-assistant",
+                        "pt": "configurar-o-shopping-assistant"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Shopping Assistant: Suggested questions",
+                        "es": "Shopping Assistant: preguntas sugeridas",
+                        "pt": "Shopping Assistant: perguntas sugeridas"
+                      },
+                      "slug": {
+                        "en": "shopping-assistant-suggested-questions",
+                        "es": "shopping-assistant-preguntas-sugeridas",
+                        "pt": "shopping-assistant-perguntas-sugeridas"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
                 },
                 {
                   "name": {
@@ -34588,186 +34830,6 @@
                 },
                 {
                   "name": {
-                    "en": "Configurar o Shopping Assistant",
-                    "es": "Configurar o Shopping Assistant",
-                    "pt": "Configurar o Shopping Assistant"
-                  },
-                  "slug": {
-                    "en": "configure-shopping-assistant",
-                    "es": "configurar-el-shopping-assistant",
-                    "pt": "configurar-o-shopping-assistant"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a Slack channel",
-                    "es": "Creando un canal de Slack",
-                    "pt": "Criar um canal do Slack"
-                  },
-                  "slug": {
-                    "en": "creating-a-slack-channel",
-                    "es": "creando-un-canal-de-slack",
-                    "pt": "criando-um-canal-do-slack"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Adding a Facebook channel",
-                    "es": "Crear un canal en Facebook",
-                    "pt": "Criar um canal no Facebook"
-                  },
-                  "slug": {
-                    "en": "adding-a-facebook-channel",
-                    "es": "como-crear-un-canal-en-facebook",
-                    "pt": "como-criar-um-canal-no-facebook"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a channel on Instagram",
-                    "es": "Crear un canal en Instagram",
-                    "pt": "Criar um canal no Instagram"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-channel-on-instagram",
-                    "es": "como-crear-un-canal-en-instagram",
-                    "pt": "como-criar-um-canal-no-instagram"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Adding a Telegram channel",
-                    "es": "Crear un canal en Telegram",
-                    "pt": "Criar um canal no Telegram"
-                  },
-                  "slug": {
-                    "en": "adding-a-telegram-channel",
-                    "es": "como-crear-un-canal-en-telegram",
-                    "pt": "como-criar-um-canal-no-telegram"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a channel on Twitter",
-                    "es": "Crear un canal en Twitter",
-                    "pt": "Criar um canal no Twitter"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-channel-on-twitter",
-                    "es": "como-crear-un-canal-en-twitter",
-                    "pt": "como-criar-um-canal-no-twitter"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Adding a Viber channel",
-                    "es": "Crear un canal en Viber",
-                    "pt": "Criar um canal no Viber"
-                  },
-                  "slug": {
-                    "en": "adding-a-viber-channel",
-                    "es": "como-crear-un-canal-en-viber",
-                    "pt": "como-criar-um-canal-no-viber"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating an SMS channel",
-                    "es": "Crear un canal SMS",
-                    "pt": "Criar um canal SMS"
-                  },
-                  "slug": {
-                    "en": "how-to-create-an-sms-channel",
-                    "es": "como-crear-un-canal-sms",
-                    "pt": "como-criar-um-canal-sms"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating an SMS channel - for developers (RapidPro)",
-                    "es": "Crear un canal de SMS - para desarrolladores (RapidPro)",
-                    "pt": "Criar um canal SMS - para desenvolvedores (RapidPro)"
-                  },
-                  "slug": {
-                    "en": "how-to-create-an-sms-channel-for-developers-rapidpro",
-                    "es": "como-crear-un-canal-de-sms-para-desarrolladores-rapidpro",
-                    "pt": "como-criar-um-canal-sms-para-desenvolvedores-rapidpro"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a Web Channel",
-                    "es": "Crear un canal web",
-                    "pt": "Criar um canal web"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-web-channel",
-                    "es": "como-crear-un-canal-web",
-                    "pt": "como-criar-um-canal-web"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Native ChatGPT integration",
-                    "es": "Integración nativa ChatGPT",
-                    "pt": "Integrar com o ChatGPT"
-                  },
-                  "slug": {
-                    "en": "native-chatgpt-integration",
-                    "es": "integracion-nativa-chatgpt",
-                    "pt": "integracao-nativa-chatgpt"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a Microsoft Teams channel",
-                    "es": "Creación de un canal de Microsoft Teams",
-                    "pt": "Integrar com o Microsoft Teams"
-                  },
-                  "slug": {
-                    "en": "creating-a-microsoft-teams-channel",
-                    "es": "creacion-de-un-canal-de-microsoft-teams",
-                    "pt": "integracao-com-o-microsoft-teams"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "External service",
                     "es": "Servicio externo",
                     "pt": "Serviço Externo"
@@ -34776,36 +34838,6 @@
                     "en": "external-service",
                     "es": "servicio-externo",
                     "pt": "servico-externo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Shopping Assistant: Suggested questions",
-                    "es": "Shopping Assistant: preguntas sugeridas",
-                    "pt": "Shopping Assistant: perguntas sugeridas"
-                  },
-                  "slug": {
-                    "en": "shopping-assistant-suggested-questions",
-                    "es": "shopping-assistant-preguntas-sugeridas",
-                    "pt": "shopping-assistant-perguntas-sugeridas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Ticketer: Ticketer on Rapid Pro",
-                    "es": "Ticketer: Añadiendo el servicio de Ticketer en RapidPro",
-                    "pt": "Ticketer: Adicionando serviço de Ticketer no RapidPro"
-                  },
-                  "slug": {
-                    "en": "ticketer-ticketer-on-rapid-pro",
-                    "es": "ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro",
-                    "pt": "ticketer-adicionando-servico-de-ticketer-no-rapidpro"
                   },
                   "origin": "",
                   "type": "markdown",
