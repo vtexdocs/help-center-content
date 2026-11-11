@@ -11,9 +11,9 @@ seeAlso:
   - /en/docs/tutorials/setting-up-the-notify-me-option
 ---
 
-> ⚠️ This feature is in beta and is available for stores that use the Shopping Assistant on FastStore or Store Framework.
-
 **Back in stock alerts** allow shoppers to request a WhatsApp notification when an out-of-stock item becomes available again. Shoppers subscribe through the Shopping Assistant by entering their name and WhatsApp number, without needing a store account. When the SKU is active and available again, the **Back in stock** template is sent to the number provided.
+
+> ℹ️ Out-of-stock product pages also let shoppers explore similar products with the **Shopping Assistant**. This can start a conversation with the agent and help the shopper find another product that meets their needs, instead of leaving the page without finding anything.
 
 > ⚠️ The WhatsApp alert is separate from the [Notify me](https://help.vtex.com/en/docs/tutorials/setting-up-the-notify-me-option) email option. Both options can appear on the same product page, but an email subscription doesn't subscribe the shopper to WhatsApp alerts.
 

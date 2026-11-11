@@ -11,7 +11,7 @@ seeAlso:
     - /en/docs/tutorials/whatsapp-business-api-pricing
 ---
 
-Eligible stores can choose and subscribe to a standard [VTEX CX Platform](https://help.vtex.com/en/docs/tutorials/vtex-cx-platform-overview) plan from the VTEX Admin. Plans are based on monthly conversation volume, and the contract is signed by email.
+Eligible stores can choose and subscribe to a standard [VTEX CX Platform](https://help.vtex.com/en/docs/tutorials/vtex-cx-platform-overview) plan from the VTEX Admin. Plans are based on monthly conversation volume.
 
 ## Prerequisites
 
@@ -35,7 +35,7 @@ To get started:
 4. Review the variable and excess costs, then select the checkbox to acknowledge them.
 5. Confirm the subscription.
 
-You'll see a confirmation in the app, and VTEX will email you a contract addendum. Sign the addendum to activate the plan and move the project from trial to enterprise. VTEX stores the signed copy, which you can request if needed.
+After you confirm, the plan is activated automatically and the project moves from trial to enterprise. 
 
 ## Monitoring usage
 

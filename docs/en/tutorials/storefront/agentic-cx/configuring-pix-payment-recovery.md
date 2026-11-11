@@ -10,7 +10,7 @@ seeAlso:
     - /en/docs/tutorials/introduction-to-cx
 ---
 
-Pix payment recovery helps stores in Brazil recover orders that are waiting for a Pix payment. While the Pix code is still valid, the automation sends the shopper a WhatsApp reminder with a button to copy the code and complete the payment. The message can also include a payment link for choosing another method, such as a credit card or boleto.
+Pix payment recovery helps stores in Brazil recover orders that are waiting for a Pix payment. While the Pix code is still valid, the automation sends the shopper a WhatsApp reminder with a button to copy the code and complete the payment. The message can also include a second button. When the shopper clicks it, a new cart with the same items is ready, and the shopper goes straight to the checkout page, where they can complete the purchase with the payment method they prefer, such as a credit card or boleto.
 
 > ❗ Each reminder is a WhatsApp marketing message, and the Meta fee is charged to the store.
 
@@ -28,10 +28,10 @@ To access the payment recovery settings, follow these steps:
 
 In the automation settings, you can edit the WhatsApp template and set the rules for the reminder:
 
-- Edit the text of the WhatsApp template. The template includes a button to copy the Pix code, and it can include a button that opens a payment link.
+- Edit the text of the WhatsApp template. The template includes a button to copy the Pix code, and it can include a second button that takes the shopper to the checkout with a new cart containing the same items, where they can finish the purchase with the payment method they prefer.
 - Set how long the automation waits before sending the reminder. The default wait is 5 minutes, and the shortest wait is 1 minute.
 - Set a minimum order value. Orders below that value don't receive a reminder.
-- In **Sales channels**, enter the sales channel IDs that can trigger the reminder, separated by commas, such as `1,2,3`. The reminder is sent only for Pix orders from the sales channels included in this setting.
+- (Optional) In **Sales channels**, enter the IDs of the sales channels that can trigger the reminder, separated by commas, such as `1,2,3`. By default, only sales channel `1` is included. 
 - Set the share of shoppers who receive the reminder.
 
 ## Reminder rules
