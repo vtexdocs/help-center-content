@@ -3,7 +3,7 @@ title: '3D Secure'
 id: 1eWPdop8mECuaEomQgkAIa
 status: PUBLISHED
 createdAt: 2018-03-02T13:13:14.436Z
-updatedAt: 2026-09-29T13:20:00.000Z
+updatedAt: 2026-11-11T15:07:00.000Z
 publishedAt: 2021-03-30T14:56:15.059Z
 firstPublishedAt: 2018-03-02T14:22:05.892Z
 contentType: tutorial
@@ -41,11 +41,11 @@ La primera generación, 3D Secure 1.0, estaba basada en XML y redirigía al comp
 
 En VTEX, el proveedor de pago implementa 3DS 2 a través de [Payment App](https://developers.vtex.com/docs/guides/payments-integration-payment-app#scenario-2-payment-app-and-3d-secure-2). Así, el comprador permanece en el checkout y se autentica en una ventana modal, sin ser redirigido al sitio web del banco. Para activar 3DS 2 y conocer sus limitaciones, consulta [Configurar flujo de autenticación 3DS 2](/es/docs/tutorials/configurar-flujo-de-autenticacion-3ds-2).
 
-3D Secure y el [antifraude](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#antifraude) tienen funciones diferentes: 3DS confirma la identidad del comprador ante el banco emisor y el antifraude evalúa el riesgo del pedido. Para configurar el antifraude, consulta [Configurar el antifraude](/es/docs/tutorials/como-configurar-antifraude). Para entender el flujo de autorización con tarjeta de crédito, consulta [Tarjeta de crédito - Flujo básico de un pago](/es/docs/tutorials/tarjeta-de-credito-flujo-basico-de-un-pago).
+3D Secure y el [antifraude](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#antifraude) tienen funciones diferentes: 3DS confirma la identidad del comprador ante el banco emisor y el antifraude evalúa el riesgo del pedido. Para configurar el antifraude, consulta [Configurar el antifraude](/es/docs/tutorials/como-configurar-antifraude). Para entender el flujo de autorización con tarjeta de crédito, consulta [Flujo de pago por tarjeta de crédito](/es/docs/tracks/flujo-de-pago-por-tarjeta-de-credito).
 
 ### Artículos relacionados
 
 - [Configurar flujo de autenticación 3DS 2](/es/docs/tutorials/configurar-flujo-de-autenticacion-3ds-2)
-- [Tarjeta de crédito - Flujo básico de un pago](/es/docs/tutorials/tarjeta-de-credito-flujo-basico-de-un-pago)
+- [Flujo de pago por tarjeta de crédito](/es/docs/tracks/flujo-de-pago-por-tarjeta-de-credito)
 - [Agentes financieros en el flujo de pago](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#antifraude)
 - [Configurar el antifraude](/es/docs/tutorials/como-configurar-antifraude)

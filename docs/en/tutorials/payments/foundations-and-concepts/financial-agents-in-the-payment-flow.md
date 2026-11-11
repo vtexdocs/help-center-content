@@ -1,7 +1,7 @@
 ---
 title: 'Financial agents in the payment flow'
 createdAt: 2017-10-11T19:08:49.654Z
-updatedAt: 2026-10-01T00:00:00.000Z
+updatedAt: 2026-11-11T19:26:00.000Z
 contentType: tutorial
 productTeam: Financial
 slugEN: financial-agents-in-the-payment-flow
@@ -51,7 +51,7 @@ Card networks set the business rules for credit card purchases, such as the numb
 
 These networks maintain close relationships with acquirers to ensure their credit cards are accepted at establishments. They therefore promote the use of credit cards and broaden the user base.
 
-In the [credit card payment flow](/en/docs/tutorials/credit-card-basic-payment-flow), the network receives purchase information from the acquirer for a purchase made in your store. It then validates the conditions (such as the number of installments) and sends the data to the issuing bank, which verifies that the customer has sufficient limit available. Hence, the card network both regulates card use and acts as a bridge between the acquirer and the customer's bank.
+In the [credit card payment flow](/en/docs/tracks/credit-card-payment-flow), the network receives purchase information from the acquirer for a purchase made in your store. It then validates the conditions (such as the number of installments) and sends the data to the issuing bank, which verifies that the customer has sufficient limit available. Hence, the card network both regulates card use and acts as a bridge between the acquirer and the customer's bank.
 
 ## Issuing bank
 
