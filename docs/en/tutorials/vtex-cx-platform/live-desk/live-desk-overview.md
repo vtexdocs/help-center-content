@@ -1,7 +1,7 @@
 ---
 title: "Live Desk - Overview"
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-07-24T00:00:00.000Z
+updatedAt: 2026-11-11T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
@@ -49,28 +49,28 @@ You can navigate through messages with the keyboard arrows and press `Enter` to 
 
 You can also configure department-specific quick replies. This configuration is done during department creation. For more information, see [Configuring Live Desk](https://help.vtex.com/docs/tutorials/configure-live-desk).
 
-### Improve response with AI
+### Improving responses with AI
 
-The **Improve response with AI** feature lets you review a message with the help of artificial intelligence before sending it to the contact. You write the response as usual in the text field and trigger the AI to fix errors, adjust the tone, or rewrite the text more clearly, while keeping the original meaning of the message.
+The **Improve response with AI** feature allows you to review a message using artificial intelligence before sending it to the contact. You write the response as usual in the text field and trigger the AI to fix errors, adjust the tone, or rewrite the text more clearly, while keeping the original meaning of the message.
 
-> ℹ️ The <i class="fas fa-magic" aria-hidden="true"></i> **Improve response with AI** button is only enabled when there's text typed in.
+The <i class="fas fa-magic" aria-hidden="true"></i> **Improve response with AI** button appears in the text field action bar and is only available when text is typed. When you click it, you can choose one of the following options:
+
+| Option                       | Description                                                                                                                                              |
+| :--------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Fix spelling and grammar** | Fixes only typos, spelling, and grammar errors. The text structure is kept as close as possible to the original version. |
+| **Make more empathetic**     | Rewrites the message with a kinder, more welcoming tone, without changing its meaning.                                                   |
+| **Rewrite for clarity**      | Reorganizes the text to make it clearer and more objective, with more complete explanations, without changing its meaning.               |
 
 To improve a response, follow these steps:
 
-1. In the conversation's text field, write the message you want to send.
-2. Click <i class="fas fa-magic" aria-hidden="true"></i>`Improve response with AI`.
-3. Select the desired improvement option:
-  - `Fix grammar and spelling`: Fixes only typing, spelling, and grammar errors.
-  - `Make more empathetic`: Rewrites the message with a kinder, more welcoming tone.
-  - `Rewrite for clarity`: Reorganizes the text to make it clearer and more objective, with more complete explanations.
-4. Wait for the processing to finish.
-
-> ℹ️ While the **Improving your response** message is displayed, you can click <i class="fas fa-times" aria-hidden="true"></i>`Improved response` to cancel the action.
-
+1. In the conversation text field, write the message you want to send.
+2. Click the <i class="fas fa-magic" aria-hidden="true"></i>`Improve response with AI` button.
+3. Select the desired improvement option: `Fix spelling and grammar`, `Make more empathetic`, or `Rewrite for clarity`.
+4. Wait for the processing to finish. While the **Improving your response** message is displayed, you can click <i class="fas fa-times" aria-hidden="true"></i>`Improvement` to cancel the action.
 5. Review the new version of the message. If you prefer, edit the text or click `Original` to go back to the original message.
 6. Click `Submit`.
 
-> ℹ️ The AI doesn't send any message automatically to the contact. The conversation is only updated when you click `Submit`.
+> ℹ️ The AI doesn't send any messages to the contact automatically. The conversation is only updated when you click `Submit`.
 
 ### Transferring chat
 
