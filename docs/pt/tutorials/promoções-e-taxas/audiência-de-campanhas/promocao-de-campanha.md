@@ -49,7 +49,7 @@ Após criar a audiência de campanha, siga os passos abaixo:
 2. Clique em `Criar promoção`.  
 3. Clique em `Promoção de Campanha`.  
 4. Preencha os campos da promoção, conforme descrito na tabela abaixo. Campos com asterisco são de preenchimento obrigatório.  
-5. Clique em `Salvar.`
+5. Clique em `Salvar`.
 
 | Campo | Descrição |
 | ----- | --------- |
@@ -137,7 +137,7 @@ Selecione o benefício a ser aplicado quando as condições da promoção de cam
 
 As condições de aplicação da promoção de campanha são determinadas pelas audiências selecionadas anteriormente. A promoção será exibida e aplicada apenas para usuários que atenderem aos critérios configurados no público-alvo da campanha.
 
-Para consultar ou editar as condições da audiência, clique em `Ver audiência.`
+Para consultar ou editar as condições da audiência, clique em `Ver audiência`.
 
 ## Configurar restrições para o uso da promoção
 
