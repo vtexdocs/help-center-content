@@ -1,5 +1,5 @@
 ---
-title: "Cómo conectar y hablar con el bot"
+title: "Conectar y hablar con el bot"
 id: 2bL4YkQxhUVZcRuyWRcTNs
 status: PUBLISHED
 createdAt: 2025-09-15T14:00:06.153Z

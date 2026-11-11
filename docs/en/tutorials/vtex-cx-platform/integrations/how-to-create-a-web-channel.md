@@ -1,5 +1,5 @@
 ---
-title: "How to Create a Web Channel"
+title: "Creating a Web Channel"
 id: 1E5AfNZbC5NzbUokYCICW4
 status: PUBLISHED
 createdAt: 2025-09-15T14:56:55.893Z

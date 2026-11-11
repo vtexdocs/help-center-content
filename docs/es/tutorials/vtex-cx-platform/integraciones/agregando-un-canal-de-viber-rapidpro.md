@@ -15,8 +15,6 @@ locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-## Cómo activar un canal de Viber
-
 Puedes agregar tu cuenta pública de Viber como un canal en la plataforma.
 
 ### Comenzando

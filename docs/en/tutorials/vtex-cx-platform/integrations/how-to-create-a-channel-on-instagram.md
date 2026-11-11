@@ -1,5 +1,5 @@
 ---
-title: "How to create a channel on Instagram"
+title: "Creating a channel on Instagram"
 id: 2OIxJaBTkfZbTAvGh0Ykuv
 status: PUBLISHED
 createdAt: 2025-09-15T14:18:02.785Z

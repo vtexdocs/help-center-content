@@ -15,8 +15,6 @@ locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-## What is an API?
-
 The acronym API corresponds to “Application Programming Interface“. They are a way of integrating systems, enabling benefits such as data security and ease of exchanging information
 
 Today, the ability to connect and integrate with other systems is an essential feature for most solutions today. For this reason, we have an action card to use in flows precisely for this function: Call Webhook

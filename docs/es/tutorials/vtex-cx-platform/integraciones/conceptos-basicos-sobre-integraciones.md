@@ -15,8 +15,6 @@ locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-## Integración a través de API
-
 La integración implica la acción de **buscar, modificar o enviar información a un servicio**. Las integraciones se dividen en dos:
 
 - **Nativa:** La VTEX CX Platform puede integrarse con APIs que tienen formato REST/Json mediante una tarjeta Webhook o a través de una aplicación preexistente en el menú de Integraciones.

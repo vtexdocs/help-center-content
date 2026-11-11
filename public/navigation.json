@@ -34377,8 +34377,8 @@
                 },
                 {
                   "name": {
-                    "en": "How to connect and talk to the bot through the settings",
-                    "es": "Cómo conectar y hablar con el bot",
+                    "en": "Connecting and talking to the bot through the settings",
+                    "es": "Conectar y hablar con el bot",
                     "pt": "Conectar e falar com o bot através das configurações"
                   },
                   "slug": {
@@ -34453,7 +34453,7 @@
                 {
                   "name": {
                     "en": "Adding a Facebook channel",
-                    "es": "Cómo crear un canal en Facebook",
+                    "es": "Crear un canal en Facebook",
                     "pt": "Criar um canal no Facebook"
                   },
                   "slug": {
@@ -34467,8 +34467,8 @@
                 },
                 {
                   "name": {
-                    "en": "How to create a channel on Instagram",
-                    "es": "Cómo crear un canal en Instagram",
+                    "en": "Creating a channel on Instagram",
+                    "es": "Crear un canal en Instagram",
                     "pt": "Criar um canal no Instagram"
                   },
                   "slug": {
@@ -34483,7 +34483,7 @@
                 {
                   "name": {
                     "en": "Adding a Telegram channel",
-                    "es": "Cómo crear un canal en Telegram",
+                    "es": "Crear un canal en Telegram",
                     "pt": "Criar um canal no Telegram"
                   },
                   "slug": {
@@ -34497,8 +34497,8 @@
                 },
                 {
                   "name": {
-                    "en": "How to create a channel on Twitter",
-                    "es": "Cómo crear un canal en Twitter",
+                    "en": "Creating a channel on Twitter",
+                    "es": "Crear un canal en Twitter",
                     "pt": "Criar um canal no Twitter"
                   },
                   "slug": {
@@ -34513,7 +34513,7 @@
                 {
                   "name": {
                     "en": "Adding a Viber channel",
-                    "es": "Cómo crear un canal en Viber",
+                    "es": "Crear un canal en Viber",
                     "pt": "Criar um canal no Viber"
                   },
                   "slug": {
@@ -34527,8 +34527,8 @@
                 },
                 {
                   "name": {
-                    "en": "How to create a channel with WhatsApp Demo",
-                    "es": "Cómo crear un canal en WhatsApp demo",
+                    "en": "Creating a channel with WhatsApp Demo",
+                    "es": "Crear un canal en WhatsApp demo",
                     "pt": "Criar um canal no WhatsApp Demo"
                   },
                   "slug": {
@@ -34542,8 +34542,8 @@
                 },
                 {
                   "name": {
-                    "en": "How to create an SMS channel",
-                    "es": "Cómo crear un canal SMS",
+                    "en": "Creating an SMS channel",
+                    "es": "Crear un canal SMS",
                     "pt": "Criar um canal SMS"
                   },
                   "slug": {
@@ -34557,8 +34557,8 @@
                 },
                 {
                   "name": {
-                    "en": "How to create an SMS channel - for developers (RapidPro)",
-                    "es": "Cómo crear un canal de SMS - para desarrolladores (RapidPro)",
+                    "en": "Creating an SMS channel - for developers (RapidPro)",
+                    "es": "Crear un canal de SMS - para desarrolladores (RapidPro)",
                     "pt": "Criar um canal SMS - para desenvolvedores (RapidPro)"
                   },
                   "slug": {
@@ -34572,8 +34572,8 @@
                 },
                 {
                   "name": {
-                    "en": "How to Create a Web Channel",
-                    "es": "Como crear un canal web",
+                    "en": "Creating a Web Channel",
+                    "es": "Crear un canal web",
                     "pt": "Criar um canal web"
                   },
                   "slug": {
@@ -34737,8 +34737,8 @@
                 },
                 {
                   "name": {
-                    "en": "How to use the applications module",
-                    "es": "Como utilizar el módulo de aplicaciones",
+                    "en": "Using the applications module",
+                    "es": "Utilizar el módulo de aplicaciones",
                     "pt": "Utilizar Canais (em Configurações)"
                   },
                   "slug": {
@@ -34858,8 +34858,8 @@
                 },
                 {
                   "name": {
-                    "en": "How to download and extract archived data",
-                    "es": "Cómo descargar y extraer datos archivados",
+                    "en": "Downloading and extracting archived data",
+                    "es": "Descargar y extraer datos archivados",
                     "pt": "Baixar, extrair, transformar e combinar os dados arquivados do Fluxo de automação"
                   },
                   "slug": {
@@ -34904,7 +34904,7 @@
                 {
                   "name": {
                     "en": "Adding a trigger",
-                    "es": "Cómo crear un activador",
+                    "es": "Crear un activador",
                     "pt": "Criar um disparador"
                   },
                   "slug": {
@@ -34918,8 +34918,8 @@
                 },
                 {
                   "name": {
-                    "en": "How to create a campaign",
-                    "es": "Cómo crear una campaña",
+                    "en": "Creating a campaign",
+                    "es": "Crear una campaña",
                     "pt": "Criar uma campanha"
                   },
                   "slug": {
@@ -34979,7 +34979,7 @@
                 {
                   "name": {
                     "en": "Tell a flow to ignore triggers and keywords",
-                    "es": "Cómo ignorar un activador en un flujo",
+                    "es": "Ignorar un activador en un flujo",
                     "pt": "Ignorar um gatilho em um fluxo"
                   },
                   "slug": {
@@ -34994,7 +34994,7 @@
                 {
                   "name": {
                     "en": "Importing contacts",
-                    "es": "Cómo importar contactos",
+                    "es": "Importar contactos",
                     "pt": "Importar contatos"
                   },
                   "slug": {

@@ -1,5 +1,5 @@
 ---
-title: "Cómo importar contactos"
+title: "Importar contactos"
 id: 2iPoWuJtzfIvGrpUdIvvhR
 status: PUBLISHED
 createdAt: 2025-09-12T17:23:02.357Z

@@ -1,5 +1,5 @@
 ---
-title: "Cómo crear un canal en Viber"
+title: "Crear un canal en Viber"
 id: 4FnOuBsgb3OlRTxGFxeRWf
 status: PUBLISHED
 createdAt: 2025-09-15T14:06:26.972Z

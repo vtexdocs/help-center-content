@@ -1,5 +1,5 @@
 ---
-title: "How to create an SMS channel"
+title: "Creating an SMS channel"
 id: 27vYYO5fWrfZM0I4SsjHGX
 status: PUBLISHED
 createdAt: 2025-09-15T14:24:32.351Z

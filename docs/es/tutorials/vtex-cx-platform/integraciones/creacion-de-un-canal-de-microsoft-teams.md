@@ -15,8 +15,6 @@ locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-## Creación de una aplicación en Azure
-
 1. Para crear tu aplicación de bot, dirígete a <https://portal.azure.com/>. Necesitarás crear una cuenta si aún no tienes una.
 2. Después de iniciar sesión en tu cuenta, selecciona **Crear un recurso**.
 3. Busca **Azure Bot** en el cuadro de búsqueda.

@@ -15,8 +15,6 @@ locale: en
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-## What is a campaign?
-
 A campaign is a set of temporary events designed to impact groups of contacts. To create a campaign, it is necessary to define a contact group and include at least one date and time variable associated with them.
 
 The temporary events that make up a campaign are scheduled triggers designed to activate at specific moments. These triggers can send messages, initiate interaction flows, and even take priority over other activities the contact may be engaged in on the platform.
