@@ -126,9 +126,9 @@ O Live Desk oferece notificações via navegador como alternativa ao alerta sono
 
 #### Alerta e encerramento automático de salas inativas
 
-Quando o contato não responde à última mensagem do atendente dentro do tempo configurado para o setor, o chat recebe um alerta de inatividade na listagem do Live Desk e o contato recebe automaticamente uma mensagem de notificação. Se o setor tiver a opção **Encerrar chats inativos automaticamente** ativa e o contato continuar sem responder após o alerta, o chat é encerrado automaticamente, com o envio de uma mensagem de encerramento.
+Quando o contato não responde à última mensagem do atendente dentro do tempo configurado para o setor, o chat recebe um alerta de inatividade na listagem do Live Desk e o contato recebe automaticamente uma mensagem de notificação. Se o setor estiver com a opção **Encerrar chats inativos automaticamente** ativada e o contato continuar sem responder após o alerta, o chat é encerrado automaticamente, com o envio de uma mensagem de encerramento.
 
-Você pode definir os tempos e as mensagens por setor, na seção **Inatividade da conversa**. Para configurá-los, consulte [Configurar o Live Desk](https://help.vtex.com/pt/docs/tutorials/configurar-o-live-desk#etapa-3-configurar-opções-e-mensagens).
+Você pode definir os tempos e as mensagens por setor na seção **Inatividade da conversa**. Para configurá-los, consulte [Configurar o Live Desk](https://help.vtex.com/pt/docs/tutorials/configurar-o-live-desk#etapa-3-configurar-opções-e-mensagens).
 
 ## Histórico e dashboard
 

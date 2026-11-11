@@ -141,7 +141,7 @@ Na terceira etapa, configure as opções de atendimento, mensagens automáticas 
 
    > ℹ️ As mensagens automáticas de alerta e de encerramento não reiniciam a contagem de inatividade, e chats na fila de **Aguardando** não são afetados. Chats encerrados automaticamente ficam identificados no histórico do Live Desk e no **Analytics**.
    
-   > ⚠️ As mensagens de inatividade de conversa são obrigatórias, mas podem ser editadas.
+   > ⚠️ É obrigatório enviar mensagens de inatividade de conversa, mas elas podem ser editadas.
 
 4. Em **Pesquisa de satisfação**, ative **Enviar automaticamente uma pesquisa de satisfação após o atendimento do Live Desk ser encerrado** para coletar feedback dos clientes ao fim de cada atendimento.
    
