@@ -1,5 +1,5 @@
 ---
-title: 'Configuring back in stock alerts (Beta)'
+title: 'Configuring back in stock alerts'
 createdAt: 2026-11-11T12:00:00.000Z
 updatedAt: 2026-11-11T12:00:00.000Z
 contentType: tutorial

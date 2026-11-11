@@ -3,7 +3,7 @@ title: 'Configuring Pix payment recovery'
 createdAt: 2026-11-11T12:00:00.000Z
 updatedAt: 2026-11-11T12:00:00.000Z
 contentType: tutorial
-productTeam: Post-purchase
+productTeam: VTEX CX Platform
 slugEN: configuring-pix-payment-recovery
 locale: en
 seeAlso:

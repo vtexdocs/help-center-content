@@ -3,7 +3,7 @@ title: 'Subscribing to a VTEX CX Platform plan'
 createdAt: 2026-11-11T11:09:00.000Z
 updatedAt: 2026-11-11T11:29:00.000Z
 contentType: tutorial
-productTeam: Post-purchase
+productTeam: VTEX CX Platform
 slugEN: subscribing-to-a-vtex-cx-platform-plan
 locale: en
 seeAlso:
