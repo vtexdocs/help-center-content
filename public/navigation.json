@@ -34647,9 +34647,9 @@
                 },
                 {
                   "name": {
-                    "en": "Configuring back in stock alerts (Beta)",
-                    "es": "Configuring back in stock alerts (Beta)",
-                    "pt": "Configuring back in stock alerts (Beta)"
+                    "en": "Configuring back in stock alerts",
+                    "es": "Configuring back in stock alerts",
+                    "pt": "Configuring back in stock alerts"
                   },
                   "slug": {
                     "en": "configuring-back-in-stock-alerts",
