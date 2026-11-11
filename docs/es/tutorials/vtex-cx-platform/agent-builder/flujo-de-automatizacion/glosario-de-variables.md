@@ -3,7 +3,7 @@ title: "Glosario de variables"
 id: MOTwhIJlY251TLzK3UUPl
 status: PUBLISHED
 createdAt: 2025-09-16T16:20:16.591Z
-updatedAt: 2025-10-03T14:20:04.252Z
+updatedAt: 2026-11-10T00:00:00.000Z
 publishedAt: 2025-10-03T14:20:04.252Z
 firstPublishedAt: 2025-10-03T14:20:04.252Z
 contentType: tutorial
@@ -23,6 +23,7 @@ A continuación, haremos una lista de cómo referirse a todos los tipos de varia
 
 - Contactos y campos de contacto
 - Resultados y flujos
+- Parámetros del disparo
 - Globals
 
 ## Contactos y campos de contacto
@@ -55,6 +56,16 @@ A continuación, haremos una lista de cómo referirse a todos los tipos de varia
 **`@child`** : permite hacer referencia a todas las variables del flujo hijo, es decir, el flujo que fue llamado por la carta de acción "Enter a flow", dentro del flujo padre. Si deseas acceder a un resultado del flujo hijo después de su finalización, por ejemplo, solo debes usar @child.results.nombre_del_resultado. Al usar otra carta de "Enter a flow", el valor de @child se sobrescribe.
 
 **`@parent`** : permite hacer referencia a todas las variables del flujo padre, es decir, el flujo que llamó la carta de acción "Enter a flow", dentro del flujo hijo. Si deseas acceder a un resultado del flujo padre durante la ejecución del flujo hijo, por ejemplo, solo debes usar @parent.results.nombre_del_resultado.
+
+## Parámetros del disparo
+
+`@trigger.params`: valores enviados cuando Live Desk inicia el flujo. El agente mapea estos valores antes del envío, y el flujo los recibe cuando comienza.
+
+- `@trigger.params.variable_name`: un valor mapeado. Sustituye `variable_name` por el nombre ingresado en el campo de la variable en la pestaña **WhatsApp** de la tarjeta de enviar mensaje. Ese nombre es la etiqueta que se muestra en **Mapeo de variables**. No necesita ser un campo de contacto.
+
+Dentro del flujo, puedes guardar este valor en un campo de contacto con la tarjeta **Actualizar Contacto**.
+
+Para saber cómo configurar la variable y cómo la completa el agente, consulta [Envío activo de mensajes en WhatsApp](https://help.vtex.com/es/docs/tutorials/envio-activo-de-mensajes-en-whatsapp) y [Disparo activo de flujos](https://help.vtex.com/es/docs/tutorials/utilizando-el-disparo-activo-de-flujos).
 
 ## Globals
 

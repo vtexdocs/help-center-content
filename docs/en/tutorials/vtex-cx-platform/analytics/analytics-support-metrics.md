@@ -59,7 +59,7 @@ The same goals can also notify the operation outside the widget:
 - A toast appears in **Analytics**, on any open dashboard, when the number of support chats over the limit reaches the number you configured. The default is 5. The toast appears again only after that count drops below the limit and reaches it once more. While the count stays at or above the limit, it doesn't appear again.
 - An email can be sent to selected moderators and managers, with one message per goal (wait time, time to 1st response, or chat duration), using the same count rule as the toast.
 
-To set the goals, the number of support chats that must exceed them, and the email recipients, see [Configuring risk alerts](https://help.vtex.com/en/docs/tutorials/configuring-risk-alerts).
+To set the goals, the number of support chats that must exceed them, and the email recipients, see [Analytics: Configuring operational alerts](https://help.vtex.com/en/docs/tutorials/configuring-operational-alerts).
 
 #### 3. Support chats opened per hour
 

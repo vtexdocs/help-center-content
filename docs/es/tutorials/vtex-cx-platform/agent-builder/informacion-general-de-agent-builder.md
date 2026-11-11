@@ -1,7 +1,7 @@
 ---
 title: 'Información general de Agent Builder'
 createdAt: 2025-07-23T12:24:11.906Z
-updatedAt: 2026-10-08T00:00:00.000Z
+updatedAt: 2026-11-10T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: agent-builder-overview
@@ -93,19 +93,35 @@ Para guardar tus ajustes haz clic en `Guardar cambios`.
 
 Al hacer clic en el botón `Editar instrucciones` del agente orquestador, accedes a la página **Instrucciones**, donde puedes agregar instrucciones directas para determinar cómo se comporta tu agente. No hay un límite para la cantidad de instrucciones que se pueden crear.
 
-##### Validación por IA
+Toda instrucción personalizada es revisada por IA antes de guardarse. La revisión analiza la instrucción en busca de problemas, sugiere una reescritura cuando es necesario y asigna una categoría para que puedas organizar las instrucciones relacionadas.
 
-Al crear instrucciones personalizadas puedes solicitar la validación de la IA, que analizará cada una de ellas e indicará posibles problemas o puntos de mejora. Además, también puedes solicitar una sugerencia automática, que revisará la instrucción y la editará según sea necesario.
+##### Crear una instrucción
 
-Para usar la validación de instrucciones con IA al crear una instrucción sigue estos pasos:
+Para crear una instrucción personalizada, sigue estos pasos:
 
-1. Activa el botón <i class="fas fa-toggle-on" aria-hidden="true"></i> **Validar instrucción por IA**.
-2. Escribe tu instrucción en **Nueva instrucción personalizada** y haz clic en `Validar instrucción`.
-3. Después del análisis de la instrucción, si el resultado es **No se encontraron problemas. ¡Listo para publicar!**, haz clic en `Publicar`.
+1. En la página **Instrucciones**, haz clic en `Nueva instrucción`.
+2. Ingresa la instrucción.
+3. Haz clic en `Validar`.
+4. En **Categoría sugerida**, mantén la categoría asignada por la IA, selecciona otra en **Otras categorías** o selecciona **Sin categoría**.
+5. Haz clic en `Guardar`.
 
-> ⚠️ Si aparece un mensaje de advertencia en **Resultados de la validación**, corrige la instrucción según las indicaciones mostradas y haz clic en `Revalidar`.
+> ℹ️ El botón `Guardar` queda disponible cuando termina la revisión por IA. Cuando no se encuentran problemas, **Problemas encontrados** muestra **Todo bien. No se encontraron problemas.** Para agregar una categoría antes de guardar, consulta [Crear una categoría](#crear-una-categoria).
 
-> ℹ️ Puedes crear una nueva instrucción personalizada sin la validación de la IA. Para hacerlo, desactiva la opción **Validar instrucción por IA**, escribe la instrucción y haz clic en `Publicar instrucción`.
+> ⚠️ Si **Problemas encontrados** indica algún problema, actualiza la instrucción o haz clic en `Aplicar` en **Sugerencia de reescritura**. Haz clic en `Deshacer` para restaurar el texto anterior. Después de cambiar el texto, haz clic en `Revalidar` y, luego, en `Guardar`.
+
+##### Crear una categoría
+
+Puedes crear una categoría al crear o editar una instrucción y reutilizarla después en otras instrucciones.
+
+Para crear una categoría, sigue estos pasos:
+
+1. En el panel lateral de la instrucción, abre **Categoría** o **Categoría sugerida**.
+2. Haz clic en `Nueva categoría`.
+3. En **Nombre de la categoría**, ingresa un nombre.
+4. Haz clic en `Crear`.
+5. Haz clic en `Guardar` para almacenar la instrucción en esa categoría.
+
+> ℹ️ El nombre de la categoría puede tener hasta 50 caracteres e incluir letras, números, espacios y guiones. Usa un nombre único. **Sin categoría** está reservado para instrucciones sin categoría. Una categoría creada en el panel lateral queda marcada con la tag **Nuevo** hasta que guardes la instrucción.
 
 ##### Componentes interactivos
 
@@ -123,21 +139,41 @@ Para orientar al agente a usar un componente, menciónalo directamente en una in
 
 > ⚠️ El catálogo de productos no es un componente nativo de Manager 2.7. Cuando hay un agente Concierge asignado al equipo, el orquestador activa al Concierge para enviar el catálogo. Los agentes Concierge oficiales de VTEX ya tienen esta capacidad.
 
-##### Lista de instrucciones
+##### Visualizar instrucciones
 
-En la **Lista de instrucciones**, puedes verificar la siguiente información:
+Selecciona `Categorías` o `Lista` para cambiar cómo se muestran las instrucciones:
 
-- **Instrucciones personalizadas:** instrucciones creadas para el agente. Puedes encontrarlas usando la barra de búsqueda o copiarlas haciendo clic en el botón `Copiar instrucciones`.
+- **Categorías:** agrupa las instrucciones por categoría. Una categoría personalizada sin instrucciones permanece visible y muestra **Aún no hay instrucciones en esta categoría**.
 
-- **Instrucciones predeterminadas:** comportamientos definidos por la plataforma. Estas instrucciones no se pueden editar.
+- **Lista:** muestra cada instrucción existente con su categoría.
 
-- **Temas de seguridad:** asuntos que el agente no menciona durante un chat de soporte. Estos temas no se pueden editar.
+Usa el campo de búsqueda para encontrar una instrucción. Para descargar las instrucciones, haz clic en `Exportar instrucciones`.
 
-Para editar o eliminar una instrucción personalizada sigue los pasos a continuación:
+La página incluye los siguientes grupos:
 
-1. Haz clic en el botón de tres puntos <i class="fas fa-ellipsis-v" aria-hidden="true"></i> junto a la instrucción deseada.
-2. Para editarla, haz clic en `Editar instrucción`, realiza los ajustes necesarios y haz clic en `Guardar`.
-3. Para eliminarla, haz clic en `Eliminar instrucción` y luego en `Eliminar`.
+- **Sin categoría:** instrucciones personalizadas que no tienen categoría. Puedes editarlas y eliminarlas. Este grupo no se puede eliminar.
+
+- **Instrucciones predeterminadas:** comportamientos definidos por la plataforma. Estas instrucciones no se pueden editar ni eliminar.
+
+Para editar o eliminar una instrucción personalizada, sigue estos pasos:
+
+1. Haz clic en el botón de tres puntos <i class="fas fa-ellipsis-v" aria-hidden="true"></i> junto a la instrucción.
+2. Para editarla, haz clic en `Editar instrucción`, cambia el texto o la categoría y haz clic en `Guardar`.
+3. Para eliminarla, haz clic en `Eliminar instrucción` y confirma la eliminación.
+
+> ℹ️ **Categoría** está disponible en cuanto abres la instrucción. Haz clic en `Revalidar` para revisar el texto de nuevo. La revalidación mantiene la categoría ya seleccionada.
+
+> ⚠️ Eliminar una instrucción es permanente, y el agente deja de seguirla.
+
+Para eliminar una categoría personalizada, sigue estos pasos:
+
+1. Selecciona `Categorías`.
+2. Abre el menú de acciones de la categoría.
+3. Haz clic en `Eliminar categoría` y confirma la eliminación.
+
+> ℹ️ Las instrucciones de una categoría eliminada se mueven a **Sin categoría**. Una categoría vacía se elimina de la lista.
+
+Para elegir qué temas sensibles debe rechazar el agente, consulta [Configurar barreras de seguridad por proyecto](https://help.vtex.com/es/docs/tutorials/configurar-capas-adicionales-de-seguridad-por-proyecto).
 
 ### Base de conocimiento
 

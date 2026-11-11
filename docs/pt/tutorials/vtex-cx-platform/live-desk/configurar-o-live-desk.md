@@ -1,11 +1,11 @@
 ---
 title: 'Configurar o Live Desk'
 createdAt: 2026-07-07T10:05:01.763Z
-updatedAt: 2026-08-24T18:00:00.000Z
+updatedAt: 2026-11-10T19:40:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: configure-live-desk
-locale: en
+locale: pt
 ---
 
 A página **Preferências do Live Desk** permite configurar o comportamento do atendimento humano da sua operação no VTEX CX Platform. Nela, você define as regras de transferência e finalização de chats, organiza os setores de atendimento e gerencia os atendentes da sua equipe. O gerente de atendimento poderá realizar alterações no setor que gerencia, tais como horário de funcionamento, adicionar ou remover atendentes, criar novas filas, remover e adicionar tags.
@@ -24,7 +24,7 @@ A seção **Preferências do projeto** contém preferências gerais do atendimen
 
 | Definição | Descrição |
 | --- | --- |
-| **Permitir que agentes de IA transfiram conversas para atendimento humano** | Permite que um agente de IA encaminhe a conversa para um atendente humano. Ao ativar essa opção, descreva no campo de texto os cenários ou critérios que requerem transferência para atendimento humano, em até 1000 caracteres. |
+| **Permitir que agentes de IA transfiram conversas para atendimento humano** | Permite que um agente de IA encaminhe a conversa para um atendente humano. Ao ativar essa opção, descreva no campo de texto os cenários ou critérios que requerem transferência para atendimento humano, em até 1000 caracteres. A fila que recebe a conversa vem da descrição definida para cada fila. |
 | **Permitir interações apenas para atendentes online** | Impede que atendentes offline ou em pausa respondam a chats em andamento. |
 | **Transferir chats em massa para outra fila ou atendente** | Permite transferir vários chats de uma vez para outra fila ou para outro atendente. |
 | **Bloquear transferência de chats para atendentes offline** | Impede a transferência de chats para atendentes que estão offline. |
@@ -106,10 +106,11 @@ Se optar por **Personalizar novo setor**, siga o passo a passo a seguir:
 
 Se optar por **Criar uma fila personalizada**, siga o passo a passo a seguir:
 1. Preencha **Nome da fila** com um nome para a fila, como _Pagamentos_ ou _Trocas_.
-2. Ative **Limitar o número de chats aguardando atendimento** para definir um teto para a fila. Quando o limite for atingido, novos chats não serão criados.
-3. Clique no menu de **Adicionar atendente** para pesquisar e selecionar os atendentes para a fila.
-4. Para adicionar mais de uma fila ao setor, clique em `+ Adicionar fila` e repita o preenchimento.
-5. Em seguida, clique em `Continuar`.
+2. Descreva os tipos de solicitações que devem ir para essa fila, como dúvidas de pagamento ou solicitações de troca. A IA usa essa descrição para escolher a fila quando transfere a conversa para o atendimento humano.
+3. Ative **Limitar o número de chats aguardando atendimento** para definir um teto para a fila. Quando o limite for atingido, novos chats não serão criados.
+4. Clique no menu de **Adicionar atendente** para pesquisar e selecionar os atendentes para a fila.
+5. Para adicionar mais de uma fila ao setor, clique em `+ Adicionar fila` e repita o preenchimento.
+6. Em seguida, clique em `Continuar`.
 
 #### Etapa 3: Configurar opções e mensagens
 

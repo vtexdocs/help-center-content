@@ -3,7 +3,7 @@ title: 'Utilizando o disparo ativo de fluxos'
 id: 2G7HPM4mD3vuxPHUgtexb7
 status: PUBLISHED
 createdAt: 2025-09-12T16:44:52.727Z
-updatedAt: 2026-07-07T00:00:00.000Z
+updatedAt: 2026-11-10T19:00:00.000Z
 publishedAt: 2025-10-03T14:22:54.202Z
 firstPublishedAt: 2025-10-03T14:22:54.202Z
 contentType: tutorial
@@ -17,12 +17,15 @@ subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
 
 O disparo ativo de fluxos permite que agentes iniciem conversas no Live Desk enviando fluxos para contatos ou grupos de contatos. Esse recurso é útil para comunicações ativas, como avisos, confirmações ou acompanhamentos, e pode usar modelos de mensagem aprovados pelo WhatsApp quando a conversa começa por esse canal.
 
+Quando um modelo inclui variáveis configuradas para edição, o agente preenche esses valores antes do envio.
+
 Neste artigo será apresentado como:
 
 - [Habilitar um fluxo existente para envio no Live Desk](#habilitar-um-fluxo-existente-para-envio-no-live-desk)
 - [Criar um fluxo com envio de modelo de mensagem](#criar-um-fluxo-com-envio-de-modelo-de-mensagem)
 - [Ativar o disparo de fluxos no Live Desk](#ativar-o-disparo-de-fluxos-no-live-desk)
 - [Disparar um fluxo](#disparar-um-fluxo)
+- [Mapear variáveis do modelo](#mapear-variaveis-do-modelo)
 
 ## Habilitar um fluxo existente para envio no Live Desk
 
@@ -55,6 +58,7 @@ Antes de configurar o fluxo, verifique se o modelo de mensagem já está cadastr
 8. Clique em `Confirmar`.
 9. Continue criando a quantidade de blocos conforme as características do fluxo que deseja disponibilizar na loja.
 
+Para o agente editar uma variável do modelo no Live Desk, preencha essa variável na aba **WhatsApp** do cartão de enviar mensagem com `@trigger.params.variable_name`. Substitua `variable_name` pelo nome que deve aparecer em **Mapeamento de variáveis**. Uma variável preenchida com outra expressão, como `@contact.name`, é aplicada automaticamente e não aparece para edição. Para saber como preencher esses campos, consulte [Disparo Ativo no WhatsApp](https://help.vtex.com/pt/docs/tutorials/disparo-ativo-no-whatsapp).
 
 ## Ativar o disparo de fluxos no Live Desk
 
@@ -81,9 +85,23 @@ Depois que o fluxo estiver habilitado e o setor permitir disparos ativos, os age
 2. No menu lateral, clique em **Live Desk**.
 3. Clique em `Opções`.
 4. Clique em `Fluxos`.
-5. Marque as caixas de seleção dos contatos para os quais deseja disparar o fluxo.
-6. Clique em `Continuar`.
-7. Em **Selecionar fluxo**, escolha o fluxo desejado.
-8. Clique em `Enviar`.
+5. Pesquise um contato pelo número de telefone.
+        > ℹ️ Para um número de telefone brasileiro, a busca encontra o contato independentemente de o número estar salvo com ou sem o nono dígito. Nenhuma configuração é necessária.
+6. Marque as caixas de seleção dos contatos para os quais deseja disparar o fluxo.
+7. Clique em `Continuar`.
+8. Em **Selecionar fluxo**, escolha o fluxo desejado.
+9. Se o fluxo não tiver variáveis de modelo configuradas com `@trigger.params`, clique em `Enviar`.
 
 Os contatos selecionados receberão o fluxo. Quando um contato responder, a conversa ficará disponível para atendimento no Live Desk.
+
+## Mapear variáveis do modelo
+
+Se os modelos de WhatsApp do fluxo incluírem variáveis definidas como `@trigger.params.variable_name`, o Live Desk abre **Mapeamento de variáveis** depois que você seleciona o fluxo. O nome depois de `params.` é o rótulo de cada campo. Para saber como configurar essas variáveis, consulte [Disparo Ativo no WhatsApp](https://help.vtex.com/pt/docs/tutorials/disparo-ativo-no-whatsapp).
+
+1. Para cada variável, selecione um campo de contato ou digite um valor de texto. O campo exibe `Selecione um campo correspondente ou digite um texto`.
+2. Revise **Pré-visualização do 1º modelo**. As variáveis que referenciam campos de contato são exibidas com valores de exemplo dos contatos selecionados.
+3. Quando o fluxo tem mais de um modelo com variáveis, a tela mostra o modelo atual, como **Modelo 1 de 3**, em **Defina as variáveis do 1º modelo**. Clique em `Próximo modelo` e repita o mapeamento de cada modelo.
+4. Selecione `Conferi e estou pronto para enviar.`
+5. Clique em `Enviar`.
+
+O modelo enviado a cada contato usa os valores desse mapeamento. Quando um contato responder, a conversa ficará disponível para atendimento no Live Desk.

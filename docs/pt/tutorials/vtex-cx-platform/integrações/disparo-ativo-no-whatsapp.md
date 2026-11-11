@@ -3,7 +3,7 @@ title: 'Disparo Ativo no WhatsApp'
 id: 20E0eUtogj84N0vf6nZeia
 status: PUBLISHED
 createdAt: 2025-09-15T15:27:41.354Z
-updatedAt: 2025-10-03T14:20:32.448Z
+updatedAt: 2026-11-10T00:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.448Z
 firstPublishedAt: 2025-10-03T14:20:32.448Z
 contentType: tutorial
@@ -30,6 +30,16 @@ O **segundo passo** é adicionar o cartão enviar mensagem, na caixa de texto ba
 A expressão acima indica que um Template Message (modelo de mensagem) será enviado e que este campo não será levado em consideração, pois o modelo de mensagem a ser enviado aos clientes pode ser selecionado na aba ""WhatsApp"", localizada no mesmo cartão de ""Enviar Mensagem"". Ao clicar na aba ""WhatsApp"", é possível acessar as mensagens que foram pré-aprovadas e selecioná-las para envio.
 
 Neste momento, também é possível adicionar variáveis que tornarão a mensagem mais personalizada, como, por exemplo, a variável *@contact.name*, que chama o usuário pelo nome registrado no próprio WhatsApp.
+
+### Variáveis que o agente preenche no Live Desk
+
+`@contact.name` é preenchida automaticamente com os dados do contato. Para o agente editar uma variável ao disparar o fluxo pelo Live Desk, informe `@trigger.params.variable_name` no campo dessa variável na aba **WhatsApp**. Substitua `variable_name` pelo nome que deve aparecer em **Mapeamento de variáveis**. Você define esse nome no fluxo. Ele não precisa ser um campo de contato.
+
+Por exemplo, no modelo `retornar_contato`, os campos de variável podem ser `@trigger.params.contact_name` e `@trigger.params.atendente`. No Live Desk, a tela de mapeamento identifica esses campos como **Variável contact_name** e **Variável atendente**.
+
+Se o fluxo incluir mais de um modelo com variáveis, use `@trigger.params.variable_name` em todas as variáveis que o agente deve preencher.
+
+Para saber como o agente completa esses valores antes do envio, consulte [Utilizando o disparo ativo de fluxos](https://help.vtex.com/pt/docs/tutorials/utilizando-disparo-ativo-de-fluxos).
 
 Este processo é sempre realizado para a primeira mensagem e é exclusivo para o canal WhatsApp. Após a entrega da Template Message, se o usuário responder, a empresa pode seguir o fluxo de mensagens de forma livre com os demais cartões/ cards de ação. Toda a construção do fluxo pode ser planejada normalmente após o primeiro cartão de Template Message. Para que o usuário possa responder, é necessário adicionar um cartão ""*Aguarde por Resposta*"", criando assim uma experiência de atendimento contínua.
 
