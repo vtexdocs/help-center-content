@@ -3,7 +3,7 @@ title: 'Checking for errors or problems in a transaction'
 id: 3QecZEdmzumGKe8WGmeI8a
 status: PUBLISHED
 createdAt: 2019-01-24T21:38:42.709Z
-updatedAt: 2023-03-29T01:18:23.081Z
+updatedAt: 2026-11-11T15:07:00.000Z
 publishedAt: 2023-03-29T01:18:23.081Z
 firstPublishedAt: 2019-01-24T21:38:43.264Z
 contentType: tutorial
@@ -21,7 +21,7 @@ The steps of a transaction are logged in a timeline, with the most recent intera
 
 VTEX gateway can communicate with acquirers, sub-acquirers, anti-frauds and other gateways. The __status changes in the transaction__ and the __partner's reply messages__ are displayed in boxes on the transaction details screen.
 
-> ℹ️ You can [click here](/en/docs/tutorials/credit-card-basic-payment-flow) to find out how the flow of a credit card transaction works. Also visit [our article](/en/docs/tutorials/registered-ticket-flow) with the basic scheme of a Boleto transaction.
+> ℹ️ You can [click here](/en/docs/tracks/credit-card-payment-flow) to find out how the flow of a credit card transaction works. Also visit [our article](/en/docs/tutorials/registered-ticket-flow) with the basic scheme of a Boleto transaction.
 
 ## Check the transaction status
 

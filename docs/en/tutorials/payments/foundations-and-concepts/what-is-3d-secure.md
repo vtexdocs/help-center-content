@@ -3,7 +3,7 @@ title: '3D Secure'
 id: 1eWPdop8mECuaEomQgkAIa
 status: PUBLISHED
 createdAt: 2018-03-02T13:13:14.436Z
-updatedAt: 2026-09-29T13:20:00.000Z
+updatedAt: 2026-11-11T15:07:00.000Z
 publishedAt: 2021-03-30T14:56:15.059Z
 firstPublishedAt: 2018-03-02T14:22:05.892Z
 contentType: tutorial
@@ -41,11 +41,11 @@ The first generation, 3D Secure 1.0, was XML-based and redirected the buyer to t
 
 On VTEX, the payment provider implements 3DS 2 via [Payment App](https://developers.vtex.com/docs/guides/payments-integration-payment-app#scenario-2-payment-app-and-3d-secure-2). This way, the buyer stays in checkout and authenticates in a modal window, without being redirected to the bank's site. To activate 3DS 2 and learn about its limitations, see [Setting up 3DS 2 authentication flow](/docs/tutorials/setting-up-3ds-2-authentication-flow).
 
-3D Secure and the [anti-fraud solution](/docs/tutorials/financial-agents-in-the-payment-flow#anti-fraud-solution) serve different purposes: 3DS confirms the buyer's identity with the issuing bank, and the anti-fraud solution evaluates the order's risk. To configure the anti-fraud solution, see [Configuring the anti-fraud](/docs/tutorials/how-to-configure-the-anti-fraud). To understand the credit card authorization flow, see [Credit Card - Basic payment flow](/docs/tutorials/credit-card-basic-payment-flow).
+3D Secure and the [anti-fraud solution](/docs/tutorials/financial-agents-in-the-payment-flow#anti-fraud-solution) serve different purposes: 3DS confirms the buyer's identity with the issuing bank, and the anti-fraud solution evaluates the order's risk. To configure the anti-fraud solution, see [Configuring the anti-fraud](/docs/tutorials/how-to-configure-the-anti-fraud). To understand the credit card authorization flow, see [Credit card payment flow](/en/docs/tracks/credit-card-payment-flow).
 
 ### Related articles
 
 - [Setting up 3DS 2 authentication flow](/docs/tutorials/setting-up-3ds-2-authentication-flow)
-- [Credit Card - Basic payment flow](/docs/tutorials/credit-card-basic-payment-flow)
+- [Credit card payment flow](/en/docs/tracks/credit-card-payment-flow)
 - [Financial agents in the payment flow](/docs/tutorials/financial-agents-in-the-payment-flow#anti-fraud-solution)
 - [Configuring the anti-fraud](/docs/tutorials/how-to-configure-the-anti-fraud)

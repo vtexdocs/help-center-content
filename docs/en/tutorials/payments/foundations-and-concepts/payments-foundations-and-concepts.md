@@ -16,12 +16,15 @@ The articles in this section explain the terms and mechanisms used throughout th
 
 | Article | Description |
 | --- | --- |
-| [Payment transaction](/en/docs/tutorials/what-is-a-transaction) | What a transaction is and how it relates to the order. |
-| [Financial agents in the payment flow](/en/docs/tutorials/financial-agents-in-the-payment-flow) | The role of each participant in the payment flow, from the gateway to the anti-fraud solution. |
-| [Payment connector](/en/docs/tutorials/what-is-the-connector) | How VTEX integrates with providers that process payments. |
-| [Payment Provider Protocol](/en/docs/tutorials/payment-provider-protocol) | The protocol providers use to develop payment connectors. |
-| [PCI SSC](/en/docs/tutorials/what-is-the-pci-ssc) | The security standards for card data and VTEX's certification. |
 | [3D Secure](/en/docs/tutorials/what-is-3d-secure) | The authentication protocol for online card transactions. |
+| [Financial agents in the payment flow](/en/docs/tutorials/financial-agents-in-the-payment-flow) | The role of each participant in the payment flow, from the gateway to the anti-fraud solution. |
 | [Digital wallet (ewallet)](/en/docs/tutorials/what-is-an-e-wallet) | How digital wallets work at checkout. |
 | [Offline payment method](/en/docs/tutorials/what-is-an-offline-payment-condition) | Payments that depend on a customer action outside the store, such as boleto. |
+| [Payment connector](/en/docs/tutorials/what-is-the-connector) | How VTEX integrates with providers that process payments. |
 | [Deposit Slip](/en/docs/tutorials/what-is-deposit-slip) | The offline payment method used in Mexico. |
+| [Payment Provider Protocol](/en/docs/tutorials/payment-provider-protocol) | The protocol providers use to develop payment connectors. |
+| [PCI SSC](/en/docs/tutorials/what-is-the-pci-ssc) | The security standards for card data and VTEX's certification. |
+| [Payment transaction](/en/docs/tutorials/what-is-a-transaction) | What a transaction is and how it relates to the order. |
+
+
+
