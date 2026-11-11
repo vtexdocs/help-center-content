@@ -1,14 +1,14 @@
 ---
 title: 'VTEX CX Platform: Overview'
 createdAt: 2026-03-31T15:33:34.931Z
-updatedAt: 2026-08-11T00:00:00.000Z
+updatedAt: 2026-11-11T11:09:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: vtex-cx-platform-overview
 locale: en
 ---
 
-> ℹ️ To learn about VTEX CX Platform and implement it in your business, [schedule a demo](https://www.vtex.com/en-us/products/cx_platform/).
+> ℹ️ To learn about VTEX CX Platform and implement it in your business, [schedule a demo](https://www.vtex.com/en-us/products/cx_platform/). If the store is on a trial and eligible for a standard plan, see [Subscribing to a VTEX CX Platform plan](https://help.vtex.com/en/docs/tutorials/subscribing-to-a-vtex-cx-platform-plan).
 
 **VTEX CX Platform** is the conversational commerce solution that allows you to create autonomous artificial intelligence (AI) agents to operate across the entire customer journey, from first contact to after-sales. These agents perform actions directly in your operation, such as checking order status, applying promotions, completing purchases, and recovering abandoned carts.
 
