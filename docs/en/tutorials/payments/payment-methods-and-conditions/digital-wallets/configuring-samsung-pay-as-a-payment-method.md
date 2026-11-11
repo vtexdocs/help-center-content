@@ -3,7 +3,7 @@ title: 'Configuring Samsung Pay as a payment method'
 id: 5Yj9rgzOCVYuGmAumQlfpP
 status: PUBLISHED
 createdAt: 2020-08-26T13:40:16.356Z
-updatedAt: 2024-07-24T13:36:58.723Z
+updatedAt: 2026-11-11T00:00:00.000Z
 publishedAt: 2024-07-24T13:36:58.723Z
 firstPublishedAt: 2020-08-26T16:30:52.180Z
 contentType: tutorial
