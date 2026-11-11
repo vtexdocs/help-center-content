@@ -29540,7 +29540,7 @@
                   "children": [
                     {
                       "name": {
-                        "en": "Approving payment of the bank payment slip",
+                        "en": "Approving boleto payments (for stores in Brazil)",
                         "es": "Aprobar pago de boleto",
                         "pt": "Aprovar pagamento de boleto"
                       },
@@ -29555,9 +29555,9 @@
                     },
                     {
                       "name": {
-                        "en": "Registered Ticket - Basic payment flow",
-                        "es": "Boleto Bancario Registrado - Flujo básico de pago",
-                        "pt": "Boleto Bancário Registrado - Fluxo básico de pagamento"
+                        "en": "Registered boleto: Basic payment flow (for stores in Brazil)",
+                        "es": "Boleto registrado (Brasil): flujo básico de pago",
+                        "pt": "Boleto bancário registrado: fluxo básico de pagamento"
                       },
                       "slug": {
                         "en": "registered-ticket-flow",
@@ -29608,21 +29608,6 @@
                         "en": "how-long-does-it-take-to-cancel-an-order-with-an-unpaid-boleto",
                         "es": "en-cuanto-tiempo-un-pedido-de-boleto-sin-pago-se-cancela",
                         "pt": "em-quanto-tempo-um-pedido-de-boleto-sem-pagamento-e-cancelado"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Why does payment with registered Boleto require authentication?",
-                        "es": "¿Por qué el pago por boleto registrado requiere autenticación?",
-                        "pt": "Por que o pagamento por boleto registrado exige autenticação?"
-                      },
-                      "slug": {
-                        "en": "why-does-payment-with-registered-boleto-require-authentication",
-                        "es": "por-que-el-pago-por-boleto-registrado-requiere-autenticacion",
-                        "pt": "por-que-o-pagamento-por-boleto-registado-exige-autenticacao"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -29715,21 +29700,6 @@
                         "en": "adding-bin-information",
                         "es": "registrar-informacion-de-bin",
                         "pt": "cadastrar-informacoes-de-bins"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Credit Card - Basic payment flow",
-                        "es": "Tarjeta de crédito - Flujo básico de un pago",
-                        "pt": "Cartão de crédito - Fluxo básico de um pagamento"
-                      },
-                      "slug": {
-                        "en": "credit-card-basic-payment-flow",
-                        "es": "tarjeta-de-credito-flujo-basico-de-un-pago",
-                        "pt": "cartao-de-credito-fluxo-basico-de-um-pagamento"
                       },
                       "origin": "",
                       "type": "markdown",

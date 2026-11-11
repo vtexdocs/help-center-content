@@ -3,7 +3,7 @@ title: '3D Secure'
 id: 1eWPdop8mECuaEomQgkAIa
 status: PUBLISHED
 createdAt: 2018-03-02T13:13:14.436Z
-updatedAt: 2026-09-29T13:20:00.000Z
+updatedAt: 2026-11-11T15:07:00.000Z
 publishedAt: 2021-03-30T14:56:15.059Z
 firstPublishedAt: 2018-03-02T14:22:05.892Z
 contentType: tutorial
@@ -41,11 +41,11 @@ A primeira geração, o 3D Secure 1.0, era baseada em XML e redirecionava o comp
 
 Na VTEX, o provedor de pagamento implementa o 3DS 2 via [Payment App](https://developers.vtex.com/docs/guides/payments-integration-payment-app#scenario-2-payment-app-and-3d-secure-2). Assim, o comprador permanece no checkout e se autentica em uma janela modal, sem ser redirecionado para o site do banco. Para ativar o 3DS 2 e conhecer as limitações, consulte [Configurar fluxo de autenticação 3DS 2](/pt/docs/tutorials/configurar-fluxo-de-autenticacao-3ds-2).
 
-O 3D Secure e o [antifraude](/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#antifraude) têm funções diferentes: o 3DS confirma a identidade do comprador junto ao banco emissor, e o antifraude avalia o risco do pedido. Para configurar o antifraude, consulte [Configurar o antifraude](/pt/docs/tutorials/como-configurar-antifraude). Para entender o fluxo de autorização com cartão de crédito, consulte [Cartão de crédito - Fluxo básico de um pagamento](/pt/docs/tutorials/cartao-de-credito-fluxo-basico-de-um-pagamento).
+O 3D Secure e o [antifraude](/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#antifraude) têm funções diferentes: o 3DS confirma a identidade do comprador junto ao banco emissor, e o antifraude avalia o risco do pedido. Para configurar o antifraude, consulte [Configurar o antifraude](/pt/docs/tutorials/como-configurar-antifraude). Para entender o fluxo de autorização com cartão de crédito, consulte [Fluxo de um pagamento por cartão de crédito](/pt/docs/tracks/fluxo-de-um-pagamento-por-cartao-de-credito).
 
 ### Artigos relacionados
 
 - [Configurar fluxo de autenticação 3DS 2](/pt/docs/tutorials/configurar-fluxo-de-autenticacao-3ds-2)
-- [Cartão de crédito - Fluxo básico de um pagamento](/pt/docs/tutorials/cartao-de-credito-fluxo-basico-de-um-pagamento)
+- [Fluxo de um pagamento por cartão de crédito](/pt/docs/tracks/fluxo-de-um-pagamento-por-cartao-de-credito)
 - [Agentes financeiros no fluxo de pagamento](/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#antifraude)
 - [Configurar o antifraude](/pt/docs/tutorials/como-configurar-antifraude)
