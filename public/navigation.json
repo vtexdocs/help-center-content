@@ -29692,21 +29692,6 @@
                     },
                     {
                       "name": {
-                        "en": "Credit Card - Basic payment flow",
-                        "es": "Tarjeta de crédito - Flujo básico de un pago",
-                        "pt": "Cartão de crédito - Fluxo básico de um pagamento"
-                      },
-                      "slug": {
-                        "en": "credit-card-basic-payment-flow",
-                        "es": "tarjeta-de-credito-flujo-basico-de-un-pago",
-                        "pt": "cartao-de-credito-fluxo-basico-de-um-pagamento"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
                         "en": "How to configure the Caixa Virtual Debit Card",
                         "es": "Cómo configurar la Tarjeta de Débito Virtual de Caixa",
                         "pt": "Como configurar o Cartão de Débito Virtual da Caixa"
