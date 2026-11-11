@@ -34332,6 +34332,202 @@
               "children": [
                 {
                   "name": {
+                    "en": "WhatsApp: Integration with VTEX CX Platform",
+                    "es": "WhatsApp: Integración con VTEX CX Platform",
+                    "pt": "WhatsApp: Integração com o VTEX CX Platform"
+                  },
+                  "slug": {
+                    "en": "whatsapp-vtex-cx-platform-integration",
+                    "es": "whatsapp-integracion-con-vtex-cx-platform",
+                    "pt": "whatsapp-integracao-com-o-vtex-cx-platform"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Webhook configuration: Message delivery status",
+                        "es": "Configuración del webhook: Estado del envío de mensajes",
+                        "pt": "Configuração do Webhook: Status de envio das mensagens"
+                      },
+                      "slug": {
+                        "en": "webhook-configuration-message-delivery-status",
+                        "es": "configuracion-del-webhook-estado-del-envio-de-mensajes",
+                        "pt": "configuracao-do-webhook-status-de-envio-das-mensagens"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring back in stock alerts",
+                        "es": "Configurar alertas de disponibilidad de stock",
+                        "pt": "Configurar alertas de volta ao estoque"
+                      },
+                      "slug": {
+                        "en": "configuring-back-in-stock-alerts",
+                        "es": "configurar-alertas-de-disponibilidad-de-stock",
+                        "pt": "configurando-alertas-de-volta-ao-estoque"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a channel with WhatsApp Demo",
+                        "es": "Crear un canal en WhatsApp demo",
+                        "pt": "Criar um canal no WhatsApp Demo"
+                      },
+                      "slug": {
+                        "en": "how-to-create-a-channel-with-whatsapp-demo",
+                        "es": "como-crear-un-canal-en-whatsapp-demo",
+                        "pt": "como-criar-um-canal-no-whatsapp-demo"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Active message dispatch on WhatsApp",
+                        "es": "Envío activo de mensajes en WhatsApp",
+                        "pt": "Disparo Ativo no WhatsApp"
+                      },
+                      "slug": {
+                        "en": "active-message-dispatch-on-whatsapp",
+                        "es": "envio-activo-de-mensajes-en-whatsapp",
+                        "pt": "disparo-ativo-no-whatsapp"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Supported media sending - WhatsApp Cloud",
+                        "es": "WhatsApp business API: Envio de mídias",
+                        "pt": "Envio de Mídias Suportadas - WhatsApp Cloud"
+                      },
+                      "slug": {
+                        "en": "supported-media-sending-whatsapp-cloud",
+                        "es": "whatsapp-business-api-envio-de-midias",
+                        "pt": "envio-de-midias-suportadas-whatsapp-cloud"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Opt-in: Obtaining consent for WhatsApp",
+                        "es": "Buenas prácticas: Opt-in",
+                        "pt": "Opt-In: Obter aceitação para o WhatsApp"
+                      },
+                      "slug": {
+                        "en": "opt-in-obtaining-consent-for-whatsapp",
+                        "es": "buenas-practicas-opt-in",
+                        "pt": "opt-in-obter-aceitacao-para-o-whatsapp"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "WhatsApp business API pricing",
+                        "es": "Precificación de WhatsApp business API",
+                        "pt": "Precificação do Whatsapp Business API"
+                      },
+                      "slug": {
+                        "en": "whatsapp-business-api-pricing",
+                        "es": "precificacion-de-whatsapp-business-api",
+                        "pt": "precificacao-do-whatsapp-business-api"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Regaining access to Business Manager",
+                        "es": "Recuperando el acceso al Administrador de negocios",
+                        "pt": "Recuperando acesso ao Gerenciador de Negócios"
+                      },
+                      "slug": {
+                        "en": "regaining-access-to-business-manager",
+                        "es": "recuperando-el-acceso-al-administrador-de-negocios",
+                        "pt": "recuperando-acesso-ao-gerenciador-de-negocios"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "WhatsApp Bussiness API: How to verify my business",
+                        "es": "WhatsApp bussiness API: ¿Cómo verificar mi negocio?",
+                        "pt": "Whatsapp Bussiness API: Como Verificar o meu Negócio"
+                      },
+                      "slug": {
+                        "en": "whatsapp-bussiness-api-how-to-verify-my-business",
+                        "es": "whatsapp-bussiness-api-como-verificar-mi-negocio",
+                        "pt": "whatsapp-bussiness-api-como-verificar-o-meu-negocio"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "WhatsApp Bussiness API: WhatsApp message triggering limitation",
+                        "es": "WhatsApp business API: Limitación de envios masivos en WhatsApp",
+                        "pt": "Whatsapp Bussiness API: Limitação de Disparos em Massa do WhatsApp"
+                      },
+                      "slug": {
+                        "en": "whatsapp-bussiness-api-whatsapp-message-triggering-limitation",
+                        "es": "whatsapp-business-api-limitacion-de-envios-masivos-en-whatsapp",
+                        "pt": "whatsapp-bussiness-api-limitacao-de-disparos-em-massa-do-whatsapp"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "WhatsApp template messages: Impediments and configurations",
+                        "es": "Mensajes de plantilla de WhatsApp: Obstáculos y configuraciones",
+                        "pt": "Whatsapp Template Messages: impedimentos e configurações"
+                      },
+                      "slug": {
+                        "en": "whatsapp-template-messages-impediments-and-configurations",
+                        "es": "mensajes-de-plantilla-de-whatsapp-obstaculos-y-configuraciones",
+                        "pt": "whatsapp-template-messages-impedimentos-e-configuracoes"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "WhatsApp: How to create template messages",
+                        "es": "WhatsApp: Cómo crear mensajes de plantilla",
+                        "pt": "WhatsApp: Como criar Template Messages"
+                      },
+                      "slug": {
+                        "en": "whatsapp-how-to-create-template-messages",
+                        "es": "whatsapp-como-crear-mensajes-de-plantilla",
+                        "pt": "whatsapp-como-criar-template-messages"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
                     "en": "Adding Discord as a channel",
                     "es": "Agregar Discord como un canal",
                     "pt": "Adicionando o Discord como um canal"
@@ -34385,36 +34581,6 @@
                     "en": "how-to-connect-and-talk-to-the-bot-through-the-settings",
                     "es": "como-conectar-y-hablar-con-el-bot",
                     "pt": "como-conectar-e-falar-com-o-bot-atraves-das-configuracoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Webhook configuration: Message delivery status",
-                    "es": "Configuración del webhook: Estado del envío de mensajes",
-                    "pt": "Configuração do Webhook: Status de envio das mensagens"
-                  },
-                  "slug": {
-                    "en": "webhook-configuration-message-delivery-status",
-                    "es": "configuracion-del-webhook-estado-del-envio-de-mensajes",
-                    "pt": "configuracao-do-webhook-status-de-envio-das-mensagens"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring back in stock alerts",
-                    "es": "Configurar alertas de disponibilidad de stock",
-                    "pt": "Configurar alertas de volta ao estoque"
-                  },
-                  "slug": {
-                    "en": "configuring-back-in-stock-alerts",
-                    "es": "configurar-alertas-de-disponibilidad-de-stock",
-                    "pt": "configurando-alertas-de-volta-ao-estoque"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -34527,21 +34693,6 @@
                 },
                 {
                   "name": {
-                    "en": "Creating a channel with WhatsApp Demo",
-                    "es": "Crear un canal en WhatsApp demo",
-                    "pt": "Criar um canal no WhatsApp Demo"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-channel-with-whatsapp-demo",
-                    "es": "como-crear-un-canal-en-whatsapp-demo",
-                    "pt": "como-criar-um-canal-no-whatsapp-demo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Creating an SMS channel",
                     "es": "Crear un canal SMS",
                     "pt": "Criar um canal SMS"
@@ -34587,36 +34738,6 @@
                 },
                 {
                   "name": {
-                    "en": "Active message dispatch on WhatsApp",
-                    "es": "Envío activo de mensajes en WhatsApp",
-                    "pt": "Disparo Ativo no WhatsApp"
-                  },
-                  "slug": {
-                    "en": "active-message-dispatch-on-whatsapp",
-                    "es": "envio-activo-de-mensajes-en-whatsapp",
-                    "pt": "disparo-ativo-no-whatsapp"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Supported media sending - WhatsApp Cloud",
-                    "es": "WhatsApp business API: Envio de mídias",
-                    "pt": "Envio de Mídias Suportadas - WhatsApp Cloud"
-                  },
-                  "slug": {
-                    "en": "supported-media-sending-whatsapp-cloud",
-                    "es": "whatsapp-business-api-envio-de-midias",
-                    "pt": "envio-de-midias-suportadas-whatsapp-cloud"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Native ChatGPT integration",
                     "es": "Integración nativa ChatGPT",
                     "pt": "Integrar com o ChatGPT"
@@ -34640,51 +34761,6 @@
                     "en": "creating-a-microsoft-teams-channel",
                     "es": "creacion-de-un-canal-de-microsoft-teams",
                     "pt": "integracao-com-o-microsoft-teams"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Opt-in: Obtaining consent for WhatsApp",
-                    "es": "Buenas prácticas: Opt-in",
-                    "pt": "Opt-In: Obter aceitação para o WhatsApp"
-                  },
-                  "slug": {
-                    "en": "opt-in-obtaining-consent-for-whatsapp",
-                    "es": "buenas-practicas-opt-in",
-                    "pt": "opt-in-obter-aceitacao-para-o-whatsapp"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "WhatsApp business API pricing",
-                    "es": "Precificación de WhatsApp business API",
-                    "pt": "Precificação do Whatsapp Business API"
-                  },
-                  "slug": {
-                    "en": "whatsapp-business-api-pricing",
-                    "es": "precificacion-de-whatsapp-business-api",
-                    "pt": "precificacao-do-whatsapp-business-api"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Regaining access to Business Manager",
-                    "es": "Recuperando el acceso al Administrador de negocios",
-                    "pt": "Recuperando acesso ao Gerenciador de Negócios"
-                  },
-                  "slug": {
-                    "en": "regaining-access-to-business-manager",
-                    "es": "recuperando-el-acceso-al-administrador-de-negocios",
-                    "pt": "recuperando-acesso-ao-gerenciador-de-negocios"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -34745,81 +34821,6 @@
                     "en": "how-to-use-the-applications-module",
                     "es": "como-utilizar-el-modulo-de-aplicaciones",
                     "pt": "como-utilizar-o-modulo-aplicativos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "WhatsApp Bussiness API: How to verify my business",
-                    "es": "WhatsApp bussiness API: ¿Cómo verificar mi negocio?",
-                    "pt": "Whatsapp Bussiness API: Como Verificar o meu Negócio"
-                  },
-                  "slug": {
-                    "en": "whatsapp-bussiness-api-how-to-verify-my-business",
-                    "es": "whatsapp-bussiness-api-como-verificar-mi-negocio",
-                    "pt": "whatsapp-bussiness-api-como-verificar-o-meu-negocio"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "WhatsApp Bussiness API: WhatsApp message triggering limitation",
-                    "es": "WhatsApp business API: Limitación de envios masivos en WhatsApp",
-                    "pt": "Whatsapp Bussiness API: Limitação de Disparos em Massa do WhatsApp"
-                  },
-                  "slug": {
-                    "en": "whatsapp-bussiness-api-whatsapp-message-triggering-limitation",
-                    "es": "whatsapp-business-api-limitacion-de-envios-masivos-en-whatsapp",
-                    "pt": "whatsapp-bussiness-api-limitacao-de-disparos-em-massa-do-whatsapp"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "WhatsApp template messages: Impediments and configurations",
-                    "es": "Mensajes de plantilla de WhatsApp: Obstáculos y configuraciones",
-                    "pt": "Whatsapp Template Messages: impedimentos e configurações"
-                  },
-                  "slug": {
-                    "en": "whatsapp-template-messages-impediments-and-configurations",
-                    "es": "mensajes-de-plantilla-de-whatsapp-obstaculos-y-configuraciones",
-                    "pt": "whatsapp-template-messages-impedimentos-e-configuracoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "WhatsApp: How to create template messages",
-                    "es": "WhatsApp: Cómo crear mensajes de plantilla",
-                    "pt": "WhatsApp: Como criar Template Messages"
-                  },
-                  "slug": {
-                    "en": "whatsapp-how-to-create-template-messages",
-                    "es": "whatsapp-como-crear-mensajes-de-plantilla",
-                    "pt": "whatsapp-como-criar-template-messages"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "WhatsApp: Integration with VTEX CX Platform",
-                    "es": "WhatsApp: Integración con VTEX CX Platform",
-                    "pt": "WhatsApp: Integração com o VTEX CX Platform"
-                  },
-                  "slug": {
-                    "en": "whatsapp-vtex-cx-platform-integration",
-                    "es": "whatsapp-integracion-con-vtex-cx-platform",
-                    "pt": "whatsapp-integracao-com-o-vtex-cx-platform"
                   },
                   "origin": "",
                   "type": "markdown",
