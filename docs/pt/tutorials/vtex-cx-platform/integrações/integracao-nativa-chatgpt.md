@@ -1,5 +1,5 @@
 ---
-title: 'Integração Nativa ChatGPT'
+title: 'Integrar com o ChatGPT'
 id: UXxv0OSNSdcu4OOXyqaQX
 status: PUBLISHED
 createdAt: 2025-09-16T14:17:58.294Z
@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Com a integração do VTEX CX PlatformhatGPT, você tem à sua disposição um assistente virtual inteligente, alimentado pela avançada tecnologia de linguagem natural da OpenAI. Atendimento ao cliente totalmente automatizado, porém, com um toque humano e personalizado.
+Com a integração do VTEX CX Platform e ChatGPT, você tem à sua disposição um assistente virtual inteligente, alimentado pela avançada tecnologia de linguagem natural da OpenAI. Atendimento ao cliente totalmente automatizado, porém, com um toque humano e personalizado.
 
 Com o ChatGPT é possível proporcionar aos seus clientes respostas instantâneas, precisas e envolventes para suas perguntas e necessidades, a qualquer hora e em qualquer lugar. Ele é capaz de compreender nuances da linguagem humana, aprendendo e adaptando-se constantemente.
 

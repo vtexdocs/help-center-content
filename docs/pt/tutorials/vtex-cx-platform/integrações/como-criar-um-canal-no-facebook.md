@@ -1,5 +1,5 @@
 ---
-title: 'Como criar um canal no Facebook'
+title: 'Criar um canal no Facebook'
 id: 5ImudpMfcQjuyVOIgPyNxr
 status: PUBLISHED
 createdAt: 2025-09-15T14:03:58.606Z

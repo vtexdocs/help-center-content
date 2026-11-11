@@ -1,5 +1,5 @@
 ---
-title: 'Audit: Overview'
+title: 'Audit'
 createdAt: 2026-08-05T00:00:00.000Z
 updatedAt: 2026-08-05T00:00:00.000Z
 contentType: tutorial

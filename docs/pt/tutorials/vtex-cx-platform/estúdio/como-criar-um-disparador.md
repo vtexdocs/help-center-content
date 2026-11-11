@@ -1,5 +1,5 @@
 ---
-title: 'Como criar um disparador'
+title: 'Criar um disparador'
 id: 4bo1N0wsONdFMVDMlIPU9T
 status: PUBLISHED
 createdAt: 2025-09-12T17:40:04.331Z

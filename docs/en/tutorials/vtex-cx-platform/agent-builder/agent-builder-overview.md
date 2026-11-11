@@ -1,5 +1,5 @@
 ---
-title: 'Agent Builder - Overview'
+title: 'Agent Builder'
 createdAt: 2025-07-23T12:24:11.906Z
 updatedAt: 2026-11-10T00:00:00.000Z
 contentType: tutorial

@@ -15,8 +15,6 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-## Como ativar um canal Viber
-
 Você pode adicionar a conta pública do seu Viber como um canal na plataforma.
 
 ## Começando
@@ -27,11 +25,11 @@ Role para baixo até a opção Viber e clique nela.
 
 Após isso, você verá uma breve descrição do canal. O único requisito para conectar o Viber é um token de autorização (chamado de App token pela equipe do Viber).
 
-### Agora vamos ver como obter este App token
+### Obter App token
 
 O processo principal consiste em aprovar uma conta pública do Viber e obter o App token.
 
-## Criando uma conta no Viber
+## Criar uma conta no Viber
 
 Instale o aplicativo móvel do Viber e realize o processo de registro através de um número de telefone exclusivo para o projeto. Com sua conta válida, acesse o painel de administração do Viber e vincule\-a a uma conta pública.
 
@@ -47,7 +45,7 @@ Levará alguns segundos para processar e uma nova janela aparecerá com o token 
 
 Agora, volte para o RapidPro, cole o token e clique em Submit.
 
-## Editar mensagem de boas\-vindas
+## Editar mensagem de boas-vindas
 
 O canal Viber foi criado, mas para que ele seja publicado e esteja disponível para o público, alguns passos são necessários pela equipe de suporte do Viber. O primeiro passo é fornecer uma mensagem de boas-vindas. Para adicionar uma, vá às configurações do seu Workspace e abra as configurações do Canal Viber.
 

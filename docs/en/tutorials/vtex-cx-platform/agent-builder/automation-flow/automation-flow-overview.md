@@ -1,5 +1,5 @@
 ---
-title: "Automation flow overview"
+title: "Automation flow"
 id: 5XxzVEJtDzXXEOS0SXANeS
 status: PUBLISHED
 createdAt: 2025-09-16T16:38:04.873Z

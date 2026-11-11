@@ -1,5 +1,5 @@
 ---
-title: 'Visão geral do Live Desk'
+title: 'Live Desk'
 createdAt: 2025-09-12T16:29:16.322Z
 updatedAt: 2026-11-10T21:45:00.000Z
 contentType: tutorial
@@ -7,6 +7,7 @@ productTeam: Post-purchase
 slugEN: live-desk-overview
 locale: pt
 hidden: false
+categoryCover: true
 ---
 
 O Live Desk é o módulo de atendimento humano do VTEX CX Platform, disponível em todos os projetos. Os atendentes o usam para realizar o atendimento em tempo real e em um só lugar: recebem os contatos por setor e fila, respondem no canal do contato e consultam cada conversa.

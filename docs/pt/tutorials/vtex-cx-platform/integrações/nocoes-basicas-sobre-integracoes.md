@@ -1,5 +1,5 @@
 ---
-title: 'Noções básicas sobre Integrações'
+title: 'Integrações'
 id: 5x9gjiQTdD6lrQLJziRozj
 status: PUBLISHED
 createdAt: 2025-09-15T15:52:46.844Z
@@ -13,9 +13,8 @@ slugEN: the-basics-of-integrations
 legacySlug: nocoes-basicas-sobre-integracoes
 locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
+categoryCover: true
 ---
-
-## Integração via API
 
 Integração é a ação realizar busca, modificar ou enviar informações para um serviço. As integrações se subdividem em duas:
 

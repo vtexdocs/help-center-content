@@ -1,5 +1,5 @@
 ---
-title: "Introducción a los flujos"
+title: "Flujo de automatización"
 id: 5XxzVEJtDzXXEOS0SXANeS
 status: PUBLISHED
 createdAt: 2025-09-16T16:38:04.873Z

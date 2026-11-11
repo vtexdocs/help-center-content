@@ -33886,12 +33886,12 @@
             "pt": "VTEX CX Platform"
           },
           "slug": {
-            "en": "vtex-cx-platform-category",
-            "es": "vtex-cx-platform-categoria",
-            "pt": "vtex-cx-platform-categoria"
+            "en": "vtex-cx-platform-overview",
+            "es": "vtex-cx-platform-vision-de-conjunto",
+            "pt": "vtex-cx-platform-visao-geral"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -33900,26 +33900,26 @@
                 "pt": "Agent Builder"
               },
               "slug": {
-                "en": "agent-builder-subcategory",
-                "es": "agent-builder-subcategoria",
-                "pt": "agent-builder-subcategoria"
+                "en": "agent-builder-overview",
+                "es": "informacion-general-de-agent-builder",
+                "pt": "visao-geral-agent-builder"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
-                    "en": "Automation Flow",
+                    "en": "Automation flow",
                     "es": "Flujo de automatización",
                     "pt": "Fluxo de automação"
                   },
                   "slug": {
-                    "en": "automation-flow-subcategory",
-                    "es": "flujo-de-automatizacion-subcategoria",
-                    "pt": "fluxo-de-automacao-subcategoria"
+                    "en": "automation-flow-overview",
+                    "es": "introduccion-a-los-flujos",
+                    "pt": "visao-geral-fluxo-de-automacao"
                   },
                   "origin": "",
-                  "type": "category",
+                  "type": "markdown",
                   "children": [
                     {
                       "name": {
@@ -34178,21 +34178,6 @@
                     },
                     {
                       "name": {
-                        "en": "Automation flow overview",
-                        "es": "Introducción a los flujos",
-                        "pt": "Visão geral Fluxo de automação"
-                      },
-                      "slug": {
-                        "en": "automation-flow-overview",
-                        "es": "introduccion-a-los-flujos",
-                        "pt": "visao-geral-fluxo-de-automacao"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
                         "en": "Viewing reports on the platform",
                         "es": "Visualizando informes en la plataforma",
                         "pt": "Visualizando relatórios na plataforma"
@@ -34207,21 +34192,6 @@
                       "children": []
                     }
                   ]
-                },
-                {
-                  "name": {
-                    "en": "Agent Builder - Overview",
-                    "es": "Información general de Agent Builder",
-                    "pt": "Agent Builder - Visão geral"
-                  },
-                  "slug": {
-                    "en": "agent-builder-overview",
-                    "es": "informacion-general-de-agent-builder",
-                    "pt": "visao-geral-agent-builder"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 },
                 {
                   "name": {
@@ -34277,12 +34247,12 @@
                 "pt": "Live Desk"
               },
               "slug": {
-                "en": "live-desk-subcategory",
-                "es": "live-desk-subcategoria",
-                "pt": "live-desk-subcategoria"
+                "en": "live-desk-overview",
+                "es": "informacion-general-de-live-desk",
+                "pt": "visao-geral-do-live-desk"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -34303,7 +34273,7 @@
                   "name": {
                     "en": "Attendance distribution rule",
                     "es": "Distribución y enrutamiento de las atenciones",
-                    "pt": "Distribuição e Roteamento dos atendimentos"
+                    "pt": "Distribuição e roteamento dos atendimentos"
                   },
                   "slug": {
                     "en": "attendance-distribution-rule",
@@ -34343,21 +34313,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "Live Desk - Overview",
-                    "es": "Información general de Live Desk",
-                    "pt": "Visão geral do Live Desk"
-                  },
-                  "slug": {
-                    "en": "live-desk-overview",
-                    "es": "informacion-general-de-live-desk",
-                    "pt": "visao-geral-do-live-desk"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -34368,12 +34323,12 @@
                 "pt": "Integrações"
               },
               "slug": {
-                "en": "integrations-subcategory",
-                "es": "integraciones-subcategoria",
-                "pt": "integrações-subcategoria"
+                "en": "the-basics-of-integrations",
+                "es": "conceptos-basicos-sobre-integraciones",
+                "pt": "nocoes-basicas-sobre-integracoes"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -34424,162 +34379,12 @@
                   "name": {
                     "en": "How to connect and talk to the bot through the settings",
                     "es": "Cómo conectar y hablar con el bot",
-                    "pt": "Como conectar e falar com o bot através das configurações"
+                    "pt": "Conectar e falar com o bot através das configurações"
                   },
                   "slug": {
                     "en": "how-to-connect-and-talk-to-the-bot-through-the-settings",
                     "es": "como-conectar-y-hablar-con-el-bot",
                     "pt": "como-conectar-e-falar-com-o-bot-atraves-das-configuracoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Adding a Facebook channel",
-                    "es": "Cómo crear un canal en Facebook",
-                    "pt": "Como criar um canal no Facebook"
-                  },
-                  "slug": {
-                    "en": "adding-a-facebook-channel",
-                    "es": "como-crear-un-canal-en-facebook",
-                    "pt": "como-criar-um-canal-no-facebook"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to create a channel on Instagram",
-                    "es": "Cómo crear un canal en Instagram",
-                    "pt": "Como criar um canal no Instagram"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-channel-on-instagram",
-                    "es": "como-crear-un-canal-en-instagram",
-                    "pt": "como-criar-um-canal-no-instagram"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Adding a Telegram channel",
-                    "es": "Cómo crear un canal en Telegram",
-                    "pt": "Como criar um canal no Telegram"
-                  },
-                  "slug": {
-                    "en": "adding-a-telegram-channel",
-                    "es": "como-crear-un-canal-en-telegram",
-                    "pt": "como-criar-um-canal-no-telegram"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to create a channel on Twitter",
-                    "es": "Cómo crear un canal en Twitter",
-                    "pt": "Como criar um canal no Twitter"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-channel-on-twitter",
-                    "es": "como-crear-un-canal-en-twitter",
-                    "pt": "como-criar-um-canal-no-twitter"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Adding a Viber channel",
-                    "es": "Cómo crear un canal en Viber",
-                    "pt": "Como criar um canal no Viber"
-                  },
-                  "slug": {
-                    "en": "adding-a-viber-channel",
-                    "es": "como-crear-un-canal-en-viber",
-                    "pt": "como-criar-um-canal-no-viber"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to create a channel with WhatsApp Demo",
-                    "es": "Cómo crear un canal en WhatsApp demo",
-                    "pt": "Como criar um canal no WhatsApp Demo"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-channel-with-whatsapp-demo",
-                    "es": "como-crear-un-canal-en-whatsapp-demo",
-                    "pt": "como-criar-um-canal-no-whatsapp-demo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to create an SMS channel",
-                    "es": "Cómo crear un canal SMS",
-                    "pt": "Como criar um canal SMS"
-                  },
-                  "slug": {
-                    "en": "how-to-create-an-sms-channel",
-                    "es": "como-crear-un-canal-sms",
-                    "pt": "como-criar-um-canal-sms"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to create an SMS channel - for developers (RapidPro)",
-                    "es": "Cómo crear un canal de SMS - para desarrolladores (RapidPro)",
-                    "pt": "Como criar um canal SMS - para desenvolvedores (RapidPro)"
-                  },
-                  "slug": {
-                    "en": "how-to-create-an-sms-channel-for-developers-rapidpro",
-                    "es": "como-crear-un-canal-de-sms-para-desarrolladores-rapidpro",
-                    "pt": "como-criar-um-canal-sms-para-desenvolvedores-rapidpro"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to Create a Web Channel",
-                    "es": "Como crear un canal web",
-                    "pt": "Como criar um canal web"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-web-channel",
-                    "es": "como-crear-un-canal-web",
-                    "pt": "como-criar-um-canal-web"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to use the applications module",
-                    "es": "Como utilizar el módulo de aplicaciones",
-                    "pt": "Como utilizar Canais (em Configurações)"
-                  },
-                  "slug": {
-                    "en": "how-to-use-the-applications-module",
-                    "es": "como-utilizar-el-modulo-de-aplicaciones",
-                    "pt": "como-utilizar-o-modulo-aplicativos"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -34634,12 +34439,147 @@
                   "name": {
                     "en": "Creating a Slack channel",
                     "es": "Creando un canal de Slack",
-                    "pt": "Criando um Canal do Slack"
+                    "pt": "Criar um canal do Slack"
                   },
                   "slug": {
                     "en": "creating-a-slack-channel",
                     "es": "creando-un-canal-de-slack",
                     "pt": "criando-um-canal-do-slack"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Adding a Facebook channel",
+                    "es": "Cómo crear un canal en Facebook",
+                    "pt": "Criar um canal no Facebook"
+                  },
+                  "slug": {
+                    "en": "adding-a-facebook-channel",
+                    "es": "como-crear-un-canal-en-facebook",
+                    "pt": "como-criar-um-canal-no-facebook"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How to create a channel on Instagram",
+                    "es": "Cómo crear un canal en Instagram",
+                    "pt": "Criar um canal no Instagram"
+                  },
+                  "slug": {
+                    "en": "how-to-create-a-channel-on-instagram",
+                    "es": "como-crear-un-canal-en-instagram",
+                    "pt": "como-criar-um-canal-no-instagram"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Adding a Telegram channel",
+                    "es": "Cómo crear un canal en Telegram",
+                    "pt": "Criar um canal no Telegram"
+                  },
+                  "slug": {
+                    "en": "adding-a-telegram-channel",
+                    "es": "como-crear-un-canal-en-telegram",
+                    "pt": "como-criar-um-canal-no-telegram"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How to create a channel on Twitter",
+                    "es": "Cómo crear un canal en Twitter",
+                    "pt": "Criar um canal no Twitter"
+                  },
+                  "slug": {
+                    "en": "how-to-create-a-channel-on-twitter",
+                    "es": "como-crear-un-canal-en-twitter",
+                    "pt": "como-criar-um-canal-no-twitter"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Adding a Viber channel",
+                    "es": "Cómo crear un canal en Viber",
+                    "pt": "Criar um canal no Viber"
+                  },
+                  "slug": {
+                    "en": "adding-a-viber-channel",
+                    "es": "como-crear-un-canal-en-viber",
+                    "pt": "como-criar-um-canal-no-viber"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How to create a channel with WhatsApp Demo",
+                    "es": "Cómo crear un canal en WhatsApp demo",
+                    "pt": "Criar um canal no WhatsApp Demo"
+                  },
+                  "slug": {
+                    "en": "how-to-create-a-channel-with-whatsapp-demo",
+                    "es": "como-crear-un-canal-en-whatsapp-demo",
+                    "pt": "como-criar-um-canal-no-whatsapp-demo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How to create an SMS channel",
+                    "es": "Cómo crear un canal SMS",
+                    "pt": "Criar um canal SMS"
+                  },
+                  "slug": {
+                    "en": "how-to-create-an-sms-channel",
+                    "es": "como-crear-un-canal-sms",
+                    "pt": "como-criar-um-canal-sms"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How to create an SMS channel - for developers (RapidPro)",
+                    "es": "Cómo crear un canal de SMS - para desarrolladores (RapidPro)",
+                    "pt": "Criar um canal SMS - para desenvolvedores (RapidPro)"
+                  },
+                  "slug": {
+                    "en": "how-to-create-an-sms-channel-for-developers-rapidpro",
+                    "es": "como-crear-un-canal-de-sms-para-desarrolladores-rapidpro",
+                    "pt": "como-criar-um-canal-sms-para-desenvolvedores-rapidpro"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How to Create a Web Channel",
+                    "es": "Como crear un canal web",
+                    "pt": "Criar um canal web"
+                  },
+                  "slug": {
+                    "en": "how-to-create-a-web-channel",
+                    "es": "como-crear-un-canal-web",
+                    "pt": "como-criar-um-canal-web"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -34677,24 +34617,9 @@
                 },
                 {
                   "name": {
-                    "en": "Creating a Microsoft Teams channel",
-                    "es": "Creación de un canal de Microsoft Teams",
-                    "pt": "Integração com o Microsoft Teams"
-                  },
-                  "slug": {
-                    "en": "creating-a-microsoft-teams-channel",
-                    "es": "creacion-de-un-canal-de-microsoft-teams",
-                    "pt": "integracao-com-o-microsoft-teams"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Native ChatGPT integration",
                     "es": "Integración nativa ChatGPT",
-                    "pt": "Integração Nativa ChatGPT"
+                    "pt": "Integrar com o ChatGPT"
                   },
                   "slug": {
                     "en": "native-chatgpt-integration",
@@ -34707,14 +34632,14 @@
                 },
                 {
                   "name": {
-                    "en": "The basics of integrations",
-                    "es": "Conceptos básicos sobre integraciones",
-                    "pt": "Noções básicas sobre Integrações"
+                    "en": "Creating a Microsoft Teams channel",
+                    "es": "Creación de un canal de Microsoft Teams",
+                    "pt": "Integrar com o Microsoft Teams"
                   },
                   "slug": {
-                    "en": "the-basics-of-integrations",
-                    "es": "conceptos-basicos-sobre-integraciones",
-                    "pt": "nocoes-basicas-sobre-integracoes"
+                    "en": "creating-a-microsoft-teams-channel",
+                    "es": "creacion-de-un-canal-de-microsoft-teams",
+                    "pt": "integracao-com-o-microsoft-teams"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -34805,6 +34730,21 @@
                     "en": "ticketer-ticketer-on-rapid-pro",
                     "es": "ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro",
                     "pt": "ticketer-adicionando-servico-de-ticketer-no-rapidpro"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How to use the applications module",
+                    "es": "Como utilizar el módulo de aplicaciones",
+                    "pt": "Utilizar Canais (em Configurações)"
+                  },
+                  "slug": {
+                    "en": "how-to-use-the-applications-module",
+                    "es": "como-utilizar-el-modulo-de-aplicaciones",
+                    "pt": "como-utilizar-o-modulo-aplicativos"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -34918,6 +34858,21 @@
                 },
                 {
                   "name": {
+                    "en": "How to download and extract archived data",
+                    "es": "Cómo descargar y extraer datos archivados",
+                    "pt": "Baixar, extrair, transformar e combinar os dados arquivados do Fluxo de automação"
+                  },
+                  "slug": {
+                    "en": "how-to-download-and-extract-archived-data",
+                    "es": "como-descargar-y-extraer-datos-archivados",
+                    "pt": "como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-fluxo-de-automacao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Contact fields",
                     "es": "Campo de contactos",
                     "pt": "Campos de contato"
@@ -34933,14 +34888,14 @@
                 },
                 {
                   "name": {
-                    "en": "How to download and extract archived data",
-                    "es": "Cómo descargar y extraer datos archivados",
-                    "pt": "Como baixar, extrair, transformar e combinar os dados arquivados do Fluxo de automação"
+                    "en": "Creating contact from an external webhook",
+                    "es": "Creando contactos con webhooks externos",
+                    "pt": "Criando contatos com Webhooks externos"
                   },
                   "slug": {
-                    "en": "how-to-download-and-extract-archived-data",
-                    "es": "como-descargar-y-extraer-datos-archivados",
-                    "pt": "como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-fluxo-de-automacao"
+                    "en": "creating-contact-from-an-external-webhook",
+                    "es": "creando-contactos-con-webhooks-externos",
+                    "pt": "criando-contatos-com-webhooks-externos"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -34950,7 +34905,7 @@
                   "name": {
                     "en": "Adding a trigger",
                     "es": "Cómo crear un activador",
-                    "pt": "Como criar um disparador"
+                    "pt": "Criar um disparador"
                   },
                   "slug": {
                     "en": "adding-a-trigger",
@@ -34965,57 +34920,12 @@
                   "name": {
                     "en": "How to create a campaign",
                     "es": "Cómo crear una campaña",
-                    "pt": "Como criar uma campanha"
+                    "pt": "Criar uma campanha"
                   },
                   "slug": {
                     "en": "how-to-create-a-campaign",
                     "es": "como-crear-una-campana",
                     "pt": "como-criar-uma-campanha"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Tell a flow to ignore triggers and keywords",
-                    "es": "Cómo ignorar un activador en un flujo",
-                    "pt": "Como ignorar um gatilho em um fluxo"
-                  },
-                  "slug": {
-                    "en": "tell-a-flow-to-ignore-triggers-and-keywords",
-                    "es": "como-ignorar-un-activador-en-un-flujo",
-                    "pt": "como-ignorar-um-gatilho-em-um-fluxo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Importing contacts",
-                    "es": "Cómo importar contactos",
-                    "pt": "Como importar contatos"
-                  },
-                  "slug": {
-                    "en": "importing-contacts",
-                    "es": "como-importar-contactos",
-                    "pt": "como-importar-contatos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating contact from an external webhook",
-                    "es": "Creando contactos con webhooks externos",
-                    "pt": "Criando contatos com Webhooks externos"
-                  },
-                  "slug": {
-                    "en": "creating-contact-from-an-external-webhook",
-                    "es": "creando-contactos-con-webhooks-externos",
-                    "pt": "criando-contatos-com-webhooks-externos"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -35061,6 +34971,36 @@
                     "en": "contact-history",
                     "es": "historial-de-contacto",
                     "pt": "historico-de-contato"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Tell a flow to ignore triggers and keywords",
+                    "es": "Cómo ignorar un activador en un flujo",
+                    "pt": "Ignorar um gatilho em um fluxo"
+                  },
+                  "slug": {
+                    "en": "tell-a-flow-to-ignore-triggers-and-keywords",
+                    "es": "como-ignorar-un-activador-en-un-flujo",
+                    "pt": "como-ignorar-um-gatilho-em-um-fluxo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Importing contacts",
+                    "es": "Cómo importar contactos",
+                    "pt": "Importar contatos"
+                  },
+                  "slug": {
+                    "en": "importing-contacts",
+                    "es": "como-importar-contactos",
+                    "pt": "como-importar-contatos"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -35145,67 +35085,6 @@
             },
             {
               "name": {
-                "en": "VTEX CX Platform - Overview",
-                "es": "Visión de conjunto de VTEX CX Platform",
-                "pt": "Visão geral VTEX CX Platform"
-              },
-              "slug": {
-                "en": "vtex-cx-platform-overview-subcategory",
-                "es": "vision-de-conjunto-de-vtex-cx-platform-subcategoria",
-                "pt": "visão-geral-vtex-cx-platform-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Subscribing to a VTEX CX Platform plan",
-                    "es": "Suscribirse a un plan de VTEX CX Platform",
-                    "pt": "Assinando um plano da VTEX CX Platform"
-                  },
-                  "slug": {
-                    "en": "subscribing-to-a-vtex-cx-platform-plan",
-                    "es": "suscribirse-a-un-plan-de-vtex-cx-platform",
-                    "pt": "assinando-um-plano-da-vtex-cx-platform"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Platform glossary",
-                    "es": "Glosário de la plataforma",
-                    "pt": "Glossário da plataforma"
-                  },
-                  "slug": {
-                    "en": "platform-glossary",
-                    "es": "glosario-de-la-plataforma",
-                    "pt": "glossario-da-plataforma"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX CX Platform: Overview",
-                    "es": "Información general de VTEX CX Platform",
-                    "pt": "Visão geral do VTEX CX Platform"
-                  },
-                  "slug": {
-                    "en": "vtex-cx-platform-overview",
-                    "es": "vtex-cx-platform-vision-de-conjunto",
-                    "pt": "vtex-cx-platform-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "VTEX CX Platform Settings",
                 "es": "Configuraciones VTEX CX Platform",
                 "pt": "Configurações VTEX CX Platform"
@@ -35257,12 +35136,12 @@
                 "pt": "Analytics"
               },
               "slug": {
-                "en": "analytics",
-                "es": "analytics",
-                "pt": "analytics"
+                "en": "analytics-support-metrics",
+                "es": "analytics-metricas-de-atencion",
+                "pt": "analytics-metricas-de-atendimento"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -35293,29 +35172,14 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "Analytics: Support metrics",
-                    "es": "Analytics: Métricas de atención",
-                    "pt": "Analytics: Métricas de atendimento"
-                  },
-                  "slug": {
-                    "en": "analytics-support-metrics",
-                    "es": "analytics-metricas-de-atencion",
-                    "pt": "analytics-metricas-de-atendimento"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Audit: Overview",
-                "es": "Auditoría: Información general",
-                "pt": "Auditoria Overview"
+                "en": "Audit",
+                "es": "Auditoría",
+                "pt": "Auditoria"
               },
               "slug": {
                 "en": "audit-overview",
@@ -35359,14 +35223,44 @@
             },
             {
               "name": {
-                "en": "Code action first steps",
-                "es": "Primeros pasos - Code Action",
-                "pt": "Primeiros passos - Code Action"
+                "en": "Subscribing to a VTEX CX Platform plan",
+                "es": "Suscribirse a un plan de VTEX CX Platform",
+                "pt": "Assinando um plano da VTEX CX Platform"
+              },
+              "slug": {
+                "en": "subscribing-to-a-vtex-cx-platform-plan",
+                "es": "suscribirse-a-un-plan-de-vtex-cx-platform",
+                "pt": "assinando-um-plano-da-vtex-cx-platform"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Code Action",
+                "es": "Code Action",
+                "pt": "Code Action"
               },
               "slug": {
                 "en": "code-action-first-steps",
                 "es": "primeros-pasos-code-action",
                 "pt": "primeiros-passos-code-action"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX CX Platform Glossary",
+                "es": "Glosario de VTEX CX Platform",
+                "pt": "Glossário do VTEX CX Platform"
+              },
+              "slug": {
+                "en": "platform-glossary",
+                "es": "glosario-de-la-plataforma",
+                "pt": "glossario-da-plataforma"
               },
               "origin": "",
               "type": "markdown",

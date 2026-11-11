@@ -1,5 +1,5 @@
 ---
-title: "Analytics: Support metrics"
+title: "Analytics"
 createdAt: 2026-07-02T16:25:21.244Z
 updatedAt: 2026-11-10T19:45:00.000Z
 contentType: tutorial

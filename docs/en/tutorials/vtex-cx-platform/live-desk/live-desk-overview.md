@@ -1,5 +1,5 @@
 ---
-title: "Live Desk - Overview"
+title: "Live Desk"
 createdAt: 2025-09-12T16:29:16.322Z
 updatedAt: 2026-11-10T21:45:00.000Z
 contentType: tutorial

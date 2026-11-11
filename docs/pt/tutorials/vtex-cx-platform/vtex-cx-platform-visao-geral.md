@@ -1,11 +1,12 @@
 ---
-title: 'Visão geral do VTEX CX Platform'
+title: 'VTEX CX Platform'
 createdAt: 2026-03-31T15:33:34.931Z
 updatedAt: 2026-07-30T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: vtex-cx-platform-overview
 locale: pt
+categoryCover: true
 ---
 
 > ℹ️ Para saber mais sobre a VTEX CX Platform e implementá-la em sua pessoa jurídica, [agende uma demonstração](https://www.vtex.com/en-us/products/cx_platform/). Se a loja estiver em um período de teste e for elegível para um plano padrão, consulte [Assinar um plano da VTEX CX Platform](https://help.vtex.com/pt/docs/tutorials/assinar-um-plano-da-vtex-cx-platform).

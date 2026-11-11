@@ -1,12 +1,12 @@
 ---
-title: 'Agent Builder - Visão geral'
+title: 'Agent Builder'
 createdAt: 2025-07-23T12:24:11.906Z
 updatedAt: 2026-11-10T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: agent-builder-overview
 locale: pt
-order: 1
+categoryCover: true
 ---
 
 O **Agent Builder** é uma ferramenta de conversação com o cliente baseada em inteligência artificial. Usando essa funcionalidade, você pode customizar agentes para interagir com seus clientes, permitindo que eles solicitem informações sobre um pedido em andamento, o catálogo da sua loja e o cancelamento de um pedido, por exemplo.

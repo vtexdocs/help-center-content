@@ -15,8 +15,6 @@ locale: pt
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-## Acessando os resultados de fluxo
-
 Para acessar os resultados de fluxo, siga os passos abaixo:
 
 1. Dentro do seu projeto, clique em **Fluxo de automação** (em **Agent Builder**).
@@ -25,11 +23,11 @@ Para acessar os resultados de fluxo, siga os passos abaixo:
 
 A aba de **Resultados** fornece duas opções de relatórios:
 
-### Visão Global
+## Visão Global
 
 A aba de visão global fornece uma visão geral dos usuários que passaram pelo fluxo.
 
-### Execuções
+## Execuções
 
 A aba de **Execuções** contém todos os dados brutos, como última atividade e o contato do cliente. Você pode optar por visualizar todos os dados ou apenas os contatos que responderam. Os resultados são exibidos em colunas.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Como criar um canal no Instagram'
+title: 'Criar um canal no Instagram'
 id: 2OIxJaBTkfZbTAvGh0Ykuv
 status: PUBLISHED
 createdAt: 2025-09-15T14:18:02.785Z

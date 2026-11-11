@@ -1,5 +1,5 @@
 ---
-title: 'Como criar um canal no Viber'
+title: 'Criar um canal no Viber'
 id: 4FnOuBsgb3OlRTxGFxeRWf
 status: PUBLISHED
 createdAt: 2025-09-15T14:06:26.972Z
@@ -14,8 +14,6 @@ legacySlug: como-criar-um-canal-no-viber
 locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
-
-## Processo inicial de integração do canal viber
 
 Para criar o canal, clique em **""Aplicações > Descobertas""** dentro do seu projeto:
 

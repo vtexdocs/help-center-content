@@ -1,5 +1,5 @@
 ---
-title: 'Como conectar e falar com o bot através das configurações'
+title: 'Conectar e falar com o bot através das configurações'
 id: 2bL4YkQxhUVZcRuyWRcTNs
 status: PUBLISHED
 createdAt: 2025-09-15T14:00:06.153Z

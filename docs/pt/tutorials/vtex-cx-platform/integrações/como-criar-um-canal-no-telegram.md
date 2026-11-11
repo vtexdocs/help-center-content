@@ -1,5 +1,5 @@
 ---
-title: 'Como criar um canal no Telegram'
+title: 'Criar um canal no Telegram'
 id: 2HpxHtgeLai6EpgEFxQL2p
 status: PUBLISHED
 createdAt: 2025-09-15T14:59:37.246Z
