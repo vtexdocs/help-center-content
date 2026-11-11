@@ -1,7 +1,7 @@
 ---
 title: 'Agent Builder - Overview'
 createdAt: 2025-07-23T12:24:11.906Z
-updatedAt: 2026-10-08T00:00:00.000Z
+updatedAt: 2026-11-10T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: agent-builder-overview
@@ -13,7 +13,7 @@ order: 1
 
 The feature focuses on an orchestrator agent (or manager), which is the point of contact with the customer and controls the chat. This orchestrator triggers collaborating agents that return data and information based on the user's needs.
 
-> ℹ️ To learn more about collaborator agents, see the article [Official VTEX CX Platform agents](https://help.vtex.com/docs/tutorials/official-agents-from-vtex-cx-platform).
+> ℹ️ To learn more about collaborator agents, see the article [Official VTEX CX Platform agents](https://help.vtex.com/en/docs/tutorials/official-agents-from-vtex-cx-platform).
 
 Besides assigning and testing these agents, you can also create your own agents to meet your company’s specific needs.
 
@@ -33,7 +33,7 @@ In **Agent Builder**, the following pages are available:
 
 > On this page, you can assign and test agents for your store, as well as edit the manager and the instructions it must follow.
 
-For more information on how to assign agents, see [Assigning and testing agents](https://help.vtex.com/docs/tutorials/assigning-and-testing-agents-in-agent-builder).
+For more information on how to assign agents, see [Assigning and testing agents](https://help.vtex.com/en/docs/tutorials/assigning-and-testing-agents-in-agent-builder).
 
 #### Edit manager
 
@@ -94,19 +94,35 @@ To save your changes, click `Save changes`.
 
 By clicking the `Edit instructions` button for the orchestrator agent, you access the **Instructions** page, where you can add direct instructions to determine how your agent behaves. There's no limit to the number of instructions that can be created.
 
-##### Validate instruction by AI
+Every custom instruction is reviewed by AI before it can be saved. The review checks the instruction for issues, suggests a rewrite when needed, and assigns a category so you can organize related instructions.
 
-When creating custom instructions, you can request AI validation to analyze each instruction and identify potential issues or opportunities for improvement. Additionally, you can also request an automatic suggestion, which will review the instruction and edit it as needed.
+##### Creating an instruction
 
-To use AI instruction validation when creating an instruction, follow these steps:
+To create a custom instruction, follow these steps:
 
-1. Activate the <i class="fas fa-toggle-on" aria-hidden="true"></i> **Validate instruction by AI** button.
-2. Enter your instruction in **New custom instruction** and click `Validate instruction`.
-3. After the instruction analysis, if the result is **No problems found. Ready to publish!**, click `Publish`.
+1. On the **Instructions** page, click `New instruction`.
+2. Enter the instruction.
+3. Click `Validate`.
+4. In **Suggested category**, keep the category assigned by AI, select another one under **Other categories**, or select **Uncategorized**.
+5. Click `Save`.
 
-> ⚠️ If a warning message appears in **Validation results**, correct the instruction according to the displayed guidance and click `Re-validate`.
+> ℹ️ `Save` becomes available after the AI review finishes. When no issues are found, **Issues found** shows **Looks good. No issues found.** To add a category before saving, see [Creating a category](#creating-a-category).
 
-> ℹ️ You can create a new custom instruction without AI validation. To perform this action, activate the **Validate instruction by AI** option, enter the instruction, and click `Publish instruction`.
+> ⚠️ If **Issues found** lists a problem, update the instruction or click `Apply` in **Suggested rewrite**. Click `Undo` to restore the previous text. After you change the text, click `Re-validate`, then click `Save`.
+
+##### Creating a category
+
+You can create a category while creating or editing an instruction, then reuse it for other instructions.
+
+To create a category, follow these steps:
+
+1. In the instruction drawer, open **Category** or **Suggested category**.
+2. Click `New category`.
+3. In **Category name**, enter a name.
+4. Click `Create`.
+5. Click `Save` to store the instruction in that category.
+
+> ℹ️ A category name can have up to 50 characters and can include letters, numbers, spaces, and hyphens. Use a unique name. **Uncategorized** is reserved for instructions without a category. A category created in the drawer is marked with the **New** tag until you save the instruction.
 
 ##### Interactive components
 
@@ -124,21 +140,41 @@ To guide the agent to use a component, reference it directly in a custom instruc
 
 > ⚠️ The product catalog is not a native Manager 2.7 component. When a Concierge agent is assigned to the team, the orchestrator triggers Concierge to send the catalog. VTEX's official Concierge agents already have this capability.
 
-##### Instruction list
+##### Viewing instructions
 
-In the **Instruction list**, you can check the following information:
+Select `Categories` or `List` to change how instructions are displayed:
 
-- **Custom instructions**: Instructions created for the agent. You can locate them using the search bar or copy them by clicking the `Copy instructions` button.
+- **Categories:** Groups instructions by category. A custom category with no instructions stays visible and shows **No instructions in this category yet**.
 
-- **Default instructions**: Behaviors defined by the platform. These instructions can't be edited.
+- **List:** Shows each existing instruction with its category.
 
-- **Safety topics**: Subjects not mentioned by the agent during a service interaction. These topics can't be edited.
+Use the search field to find an instruction. To download the instructions, click `Export instructions`.
 
-To edit or remove a custom instruction, follow these steps:
+The page includes these groups:
 
-1. Click the vertical ellipsis button <i class="fas fa-ellipsis-v" aria-hidden="true"></i> next to the desired instruction.
-2. To edit it, click `Edit instruction`, make the necessary changes, and click `Save`.
-3. To delete it, click `Delete instruction` and then click `Delete`.
+- **Uncategorized:** Custom instructions that don't have a category. You can edit and delete them. This group can't be removed.
+
+- **Default instructions:** Behaviors defined by the platform. These instructions can't be edited or removed.
+
+To edit or delete a custom instruction, follow these steps:
+
+1. Click the vertical ellipsis button <i class="fas fa-ellipsis-v" aria-hidden="true"></i> next to the instruction.
+2. To edit it, click `Edit instruction`, change the text or the category, and click `Save`.
+3. To delete it, click `Delete instruction` and confirm the deletion.
+
+> ℹ️ **Category** is available as soon as you open the instruction. Click `Re-validate` to review the text again. Re-validation keeps the category already selected.
+
+> ⚠️ Deleting an instruction is permanent, and the agent stops following it.
+
+To delete a custom category, follow these steps:
+
+1. Select `Categories`.
+2. Open the actions menu on the category.
+3. Click `Delete category` and confirm the deletion.
+
+> ℹ️ Instructions in a deleted category move to **Uncategorized**. An empty category is removed from the list.
+
+To choose which sensitive topics the agent must reject, see [Configuring safety guardrails per project](https://help.vtex.com/en/docs/tutorials/configuring-extra-safety-guardrails-per-project).
 
 ### Knowledge base
 
@@ -197,4 +233,4 @@ You can also use the search field to find a segment by title.
 
 You can create automation flows to interact with a group of users and determine agent responses based on user messages.
 
-For more information, see [Automation flow overview](https://help.vtex.com/docs/tutorials/automation-flow-overview).
+For more information, see [Automation flow overview](https://help.vtex.com/en/docs/tutorials/automation-flow-overview).

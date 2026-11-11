@@ -3,7 +3,7 @@ title: "Active message dispatch on WhatsApp"
 id: 20E0eUtogj84N0vf6nZeia
 status: PUBLISHED
 createdAt: 2025-09-15T15:27:41.354Z
-updatedAt: 2025-10-03T14:20:32.448Z
+updatedAt: 2026-11-10T00:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.448Z
 firstPublishedAt: 2025-10-03T14:20:32.448Z
 contentType: tutorial
@@ -30,6 +30,16 @@ The **second step** is to add the send message card. In the text box, enter the 
 The above expression indicates that a Template Message will be sent and that this field will not be considered, as the message template to be sent to customers can be selected in the "WhatsApp" tab, located in the same "Send Message" card. By clicking on the "WhatsApp" tab, you can access the messages that have been pre-approved and select them for sending.
 
 At this point, it is also possible to add variables that will make the message more personalized, such as the variable @contact.name, which addresses the user by the name registered in their own WhatsApp.
+
+### Variables the agent fills in Live Desk
+
+`@contact.name` is filled in automatically with the contact's data. For the agent to edit a variable when triggering the flow from Live Desk, enter `@trigger.params.variable_name` in that variable's field on the **WhatsApp** tab. Replace `variable_name` with the name that should appear in **Variable mapping**. You define this name in the flow. It does not need to be a contact field.
+
+For example, in the template `retornar_contato`, the variable fields can be `@trigger.params.contact_name` and `@trigger.params.atendente`. In Live Desk, the mapping screen labels these fields **Variable contact_name** and **Variable atendente**.
+
+If the flow includes more than one template with variables, use `@trigger.params.variable_name` in every variable the agent should fill in.
+
+For how the agent completes these values before sending, see [Using active triggering of flows](https://help.vtex.com/en/docs/tutorials/using-active-triggering-of-flows).
 
 This process is always carried out for the first message and is exclusive to the WhatsApp channel. After the Template Message is delivered, if the user responds, the company can follow the message flow freely with the other action cards. The entire flow can be planned normally after the first Template Message card. For the user to be able to respond, it is necessary to add a "Wait for Response" card, thus creating a continuous service experience.
 

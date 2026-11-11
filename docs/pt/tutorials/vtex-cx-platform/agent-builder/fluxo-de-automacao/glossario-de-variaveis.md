@@ -3,7 +3,7 @@ title: "Glossário de variáveis"
 id: MOTwhIJlY251TLzK3UUPl
 status: PUBLISHED
 createdAt: 2025-09-16T16:20:16.591Z
-updatedAt: 2025-10-03T14:20:04.252Z
+updatedAt: 2026-11-10T00:00:00.000Z
 publishedAt: 2025-10-03T14:20:04.252Z
 firstPublishedAt: 2025-10-03T14:20:04.252Z
 contentType: tutorial
@@ -23,6 +23,7 @@ Abaixo, faremos uma lista de como se referenciar a todos os tipos de variáveis 
 
 - Contatos e campos de contato
 - Resultados e fluxos
+- Parâmetros do disparo
 - Globals
 
 ## Contatos e campos de contato
@@ -52,6 +53,16 @@ Abaixo, faremos uma lista de como se referenciar a todos os tipos de variáveis 
 - `@child`: permite referenciar todas as variáveis do fluxo filho, ou seja, o fluxo chamado pela carta de ação Entrar em um Fluxo, dentro do fluxo pai. Caso você queira acessar um resultado do fluxo filho após a sua finalização, por exemplo, basta utilizar `@child.results.nome_do_resultado`. Ao utilizar outra carta de Entrar em um Fluxo, o valor de `@child` é sobrescrito.
 
 - `@parent`: permite referenciar todas as variáveis do fluxo pai, ou seja, o fluxo que chamou a carta de ação Entrar em um Fluxo, dentro do fluxo filho. Caso você queira acessar um resultado do fluxo pai durante a execução do fluxo filho, por exemplo, basta utilizar `@parent.results.nome_do_resultado`.
+
+## Parâmetros do disparo
+
+`@trigger.params`: valores enviados quando o Live Desk inicia o fluxo. O agente mapeia esses valores antes do envio, e o fluxo os recebe quando começa.
+
+- `@trigger.params.variable_name`: um valor mapeado. Substitua `variable_name` pelo nome informado no campo da variável na aba **WhatsApp** do cartão de enviar mensagem. Esse nome é o rótulo exibido em **Mapeamento de variáveis**. Não precisa ser um campo de contato.
+
+Dentro do fluxo, você pode salvar esse valor em um campo de contato com o cartão **Atualizar Contato**.
+
+Para saber como configurar a variável e como o agente a preenche, consulte [Disparo Ativo no WhatsApp](https://help.vtex.com/pt/docs/tutorials/disparo-ativo-no-whatsapp) e [Utilizando o disparo ativo de fluxos](https://help.vtex.com/pt/docs/tutorials/utilizando-disparo-ativo-de-fluxos).
 
 ## Globals
 

@@ -35266,6 +35266,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Analytics: Configuring operational alerts",
+                    "es": "Analytics: Configurar alertas operativas",
+                    "pt": "Analytics: Configurar alertas operacionais"
+                  },
+                  "slug": {
+                    "en": "configuring-operational-alerts",
+                    "es": "analytics-configurar-alertas-operativas",
+                    "pt": "analytics-configurar-alertas-operacionais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Analytics: Create custom dashboard",
                     "es": "Analytics: Crear dashboard personalizado",
                     "pt": "Analytics: Criar dashboard personalizado"
@@ -41349,6 +41364,21 @@
                 "en": "category-trees-specification-navigation-can-return-incorrect-data",
                 "es": "la-navegacion-por-las-especificaciones-del-arbol-de-categorias-puede-devolver-datos-incorrectos",
                 "pt": "a-navegacao-de-especificacao-da-arvore-de-categorias-pode-retornar-dados-incorretos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "ActivateIfPossible set to \"False\" if mandatory specifications are not fully saved on catalog admin",
+                "es": "ActivateIfPossible se establece en \"False\" si las especificaciones obligatorias no se guardan completamente en el administrador del catálogo.",
+                "pt": "A opção ActivateIfPossible deve ser definida como \"False\" se as especificações obrigatórias não estiverem totalmente salvas no painel de administração do catálogo."
+              },
+              "slug": {
+                "en": "activateifpossible-set-to-false-if-mandatory-specifications-are-not-fully-saved-on-catalog-admin",
+                "es": "activateifpossible-se-establece-en-false-si-las-especificaciones-obligatorias-no-se-guardan-completamente-en-el-administrador-del-catalogo",
+                "pt": "a-opcao-activateifpossible-deve-ser-definida-como-false-se-as-especificacoes-obrigatorias-nao-estiverem-totalmente-salvas-no-painel-de-administracao-do-catalogo"
               },
               "origin": "",
               "type": "markdown",

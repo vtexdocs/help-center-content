@@ -3,7 +3,7 @@ title: "Variables glossary"
 id: MOTwhIJlY251TLzK3UUPl
 status: PUBLISHED
 createdAt: 2025-09-16T16:20:16.591Z
-updatedAt: 2025-10-03T14:20:04.252Z
+updatedAt: 2026-11-10T00:00:00.000Z
 publishedAt: 2025-10-03T14:20:04.252Z
 firstPublishedAt: 2025-10-03T14:20:04.252Z
 contentType: tutorial
@@ -23,6 +23,7 @@ Below, we will list how to reference all types of variables available on VTEX CX
 
 - Contacts and Contact Fields
 - Results and Flows
+- Trigger parameters
 - Globals
 
 ## Contacts and contact fields
@@ -64,6 +65,16 @@ Below, we will list how to reference all types of variables available on VTEX CX
 `@child`: Allows you to reference all variables from the child flow, i.e., the flow called by the **Enter Flow** action card, within the parent flow. If you want to access a result from the child flow after its completion, for example, use `@child.results.result_name`. Using another **Enter another Flow** card will overwrite the value of `@child`.
 
 `@parent`: Allows you to reference all variables from the parent flow, i.e., the flow that called the **Enter another Flow** action card, within the child flow. If you want to access a result from the parent flow during the execution of the child flow, use `@parent.results.result_name`.
+
+## Trigger parameters
+
+`@trigger.params`: Values sent when Live Desk starts the flow. The agent maps these values before sending, and the flow receives them when it starts.
+
+- `@trigger.params.variable_name`: One mapped value. Replace `variable_name` with the name entered in the variable field on the **WhatsApp** tab of the send message card. That name is the label shown in **Variable mapping**. It does not need to be a contact field.
+
+Inside the flow, you can save this value in a contact field with the **Update the contact** card.
+
+For how to configure the variable and how the agent fills it in, see [Active message dispatch on WhatsApp](https://help.vtex.com/en/docs/tutorials/active-message-dispatch-on-whatsapp) and [Using active triggering of flows](https://help.vtex.com/en/docs/tutorials/using-active-triggering-of-flows).
 
 ## Globals
 

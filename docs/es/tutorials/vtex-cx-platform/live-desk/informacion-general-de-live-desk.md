@@ -1,156 +1,232 @@
 ---
 title: 'Información general de Live Desk'
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-08-27T00:00:00.000Z
+updatedAt: 2026-11-10T21:45:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
 locale: es
 ---
 
-Live Desk es el módulo oficial de soporte humano de VTEX CX Platform, nativo en todos los proyectos de la plataforma. Con él, los representantes realizan el soporte a los clientes en tiempo real y en un solo lugar: reciben los contactos distribuidos por departamento y cola, responden a través de diferentes canales y acompañan el historial de cada conversación.
+Live Desk es el módulo de soporte humano de VTEX CX Platform, disponible en todos los proyectos. Los representantes lo usan para atender el soporte en tiempo real y en un solo lugar: reciben los contactos por departamento y cola, responden por el canal del contacto y revisan cada conversación.
 
-En este artículo, conocerás los principales conceptos y funciones del módulo:
+Este artículo cubre:
 
-- [Permisos de usuario](#permisos-de-usuario)
-- [Funcionalidades](#funcionalidades)
-- [Historial y dashboard](#historial-y-dashboard)
-- [Configuración y recursos relacionados](#configuración-y-recursos-relacionados)
+- [Roles y permisos en Live Desk](#roles-y-permisos-en-live-desk)
+- [Gestionar conversaciones](#gestionar-conversaciones)
+- [Redactar mensajes](#redactar-mensajes)
+- [Revisar el historial de soporte y las métricas](#revisar-el-historial-de-soporte-y-las-métricas)
+- [Ajustar preferencias personales](#ajustar-preferencias-personales)
 
-## Permisos de usuario
+## Roles y permisos en Live Desk
 
-Los permisos de usuario representan atribuciones referentes a cada usuario en el proyecto. En Live Desk, indican los siguientes roles:
+Tu rol en el proyecto determina qué partes de Live Desk puedes usar. Dos roles se aplican directamente al soporte humano:
 
-- **Moderador:** administra el proyecto y puede gestionar miembros, permisos y configuraciones. También puede modificar contenidos, flujos y otros recursos disponibles en el proyecto.
-- **Contribuidor:** crea y edita contenidos del proyecto, como flujos, instrucciones y templates de mensaje, pero no gestiona miembros, permisos ni configuraciones administrativas.
-- **Visualizador:** accede a la información del proyecto en modo de lectura, incluidos flujos, contactos y mensajes, sin permiso para editar contenidos o configuraciones.
-- **Marketing:** accede a los módulos Campaigns y Studio para configurar, gestionar y acompañar envíos de campañas con templates de mensaje.
-- **Soporte humano:** accede al módulo de soporte humano para realizar atenciones en Live Desk, de acuerdo con los departamentos y colas a los que esté asociado.
+- **Moderador:** tiene acceso administrativo completo al proyecto y puede configurar Live Desk.
+- **Soporte humano:** atiende los chats de soporte de los departamentos y colas a los que está asignado.
 
-Para saber cómo asignar estos roles, consulta el artículo [Gestionar miembros de VTEX CX Platform](https://help.vtex.com/es/docs/tutorials/administrar-miembros-de-la-plataforma-vtex-cx).
+Para asignar estos roles, consulta [Gestionar miembros de VTEX CX Platform](https://help.vtex.com/es/docs/tutorials/administrar-miembros-de-la-plataforma-vtex-cx). Para los demás roles del proyecto, como Contribuidor, Visualizador y Marketing, consulta [VTEX CX Platform: Visión de conjunto](https://help.vtex.com/es/docs/tutorials/vtex-cx-platform-vision-de-conjunto).
 
-## Funcionalidades
+## Gestionar conversaciones
 
-### Visualizar información del contacto
+### Identificar conversaciones pendientes
 
-Al hacer clic en la foto o en el nombre del contacto en cualquier área de la conversación, accedes al panel de información del contacto, que presenta la foto ampliada, datos como el canal a través del cual el contacto está conversando, el horario del último mensaje, la función de transferir chat y la galería de medios del contacto.
+La lista de conversaciones muestra quién envió el último mensaje de cada sala, para que veas cuáles esperan una respuesta.
 
-### Crear y enviar mensajes rápidos
+- Un número indica cuántos mensajes del contacto no has leído.
+- Una flecha azul indica que el último mensaje del contacto ya fue leído y todavía necesita respuesta.
+- El prefijo `Tú:` indica que tú enviaste el último mensaje. Se aplica a mensajes de texto y multimedia.
+- Un punto azul indica que la sala fue transferida, devuelta a una cola, tomada de la cola o asignada automáticamente. El punto aparece sin importar quién envió el último mensaje.
 
-Los mensajes rápidos permiten registrar plantillas de mensajes para uso ágil durante el soporte. Al hacer clic en el botón de mensajes rápidos, accedes al panel de la función, donde puedes visualizar, gestionar y registrar mensajes. Al seleccionar el mensaje deseado, el texto registrado llena el campo del editor de texto.
+Cuando un representante anterior envió el último mensaje de una sala transferida, la vista previa no comienza con `Tú:`. Cuando abres las conversaciones de un representante desde el dashboard, una sala que espera respuesta muestra la flecha azul y la vista previa no incluye el prefijo `Tú:`.
 
-Puedes utilizar los mensajes rápidos de dos maneras:
+### Filtrar salas por cola
 
-- Abre el panel haciendo clic en el botón de mensajes rápidos y, a continuación, haz clic en el mensaje deseado.
-- Al registrar el mensaje, define una palabra clave como atajo. Para utilizarla, solo tienes que escribir `/` seguido del atajo.
+En la vista **Salas en espera**, filtra la lista por cola para ver solo las salas de las colas que selecciones. Puedes seleccionar una o más colas. Quita el filtro para volver a la lista completa.
 
-Puedes navegar por los mensajes con las flechas del teclado y presionar `Enter` para usar el mensaje. Al escribir el texto del atajo, la herramienta también realiza la búsqueda específica.
+Las colas disponibles en el filtro dependen de tu rol:
 
-También es posible configurar mensajes rápidos específicos por departamento. Esta configuración se realiza durante la creación del departamento. Para más información, accede a [Configure Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk).
+- Los moderadores pueden ver y filtrar por todas las colas del proyecto.
+- Los usuarios con el rol **Soporte humano** solo pueden ver y filtrar por las colas a las que están asignados.
 
-### Mejorar respuesta con IA
+Cada cola muestra la cantidad de salas que contiene y el departamento al que pertenece.
 
-La función **Mejorar respuesta con IA** te permite revisar un mensaje con ayuda de inteligencia artificial antes de enviarlo al contacto. Escribe la respuesta normalmente en el campo de texto y activa la IA para corregir errores, ajustar el tono o reescribir el texto con más claridad, manteniendo el sentido original del mensaje.
+El filtro se aplica a las salas que esperan atención. Los moderadores también pueden usarlo para las salas en curso.
 
-> ℹ️ El botón <i class="fas fa-magic" aria-hidden="true"></i> **Mejorar respuesta con IA** solo se habilita cuando hay texto escrito.
+> ℹ️ El filtro mantiene la distribución actual de las salas y el orden existente de la lista. Para saber cómo se distribuye el soporte entre los representantes, consulta [Distribución y enrutamiento de las atenciones](https://help.vtex.com/es/docs/tutorials/distribucion-y-enrutamiento-de-las-atenciones).
+
+### Ver información del contacto
+
+Para ver los detalles del cliente que estás atendiendo, haz clic en la foto o el nombre del contacto en la conversación. El panel de información del contacto incluye:
+
+- La foto del contacto ampliada
+- El canal que utiliza el contacto, como WhatsApp o Email
+- La hora del último mensaje
+- La opción para transferir la conversación
+- La galería de medios del contacto
+
+### Editar campos personalizados del contacto
+
+Los representantes pueden editar los campos personalizados de un contacto durante el soporte cuando el departamento lo permite. Para activar esta opción, consulta [Configurar Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk).
+
+Para editar un campo, sigue estos pasos:
+
+1. En la conversación, haz clic en el nombre del contacto para abrir el panel de información.
+2. Haz clic en el campo que quieres cambiar.
+3. Escribe el nuevo valor.
+
+### Descargar audio del contacto
+
+Puedes reproducir un mensaje de audio del contacto en la conversación y descargar el archivo original. Descarga el audio cuando necesites compartirlo con otro equipo, como logística u operaciones, mientras escalas un caso internamente.
+
+### Transferir una conversación
+
+Desde el panel de información del contacto, puedes transferir una conversación en curso a un departamento, una cola o un representante. Las transferencias pueden ocurrir de dos formas:
+
+- **Transferencia automática:** el agente de IA transfiere la conversación cuando la opción **Permitir que agentes de IA transfieran conversaciones a soporte humano** está activada. Elige la cola según las descripciones definidas en [Configurar Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk).
+- **Transferencia manual:** un gerente o administrador transfiere la conversación. Busca por nombre de representante, cola o departamento, o selecciona un destinatario de la lista.
+
+Después de confirmar, la conversación pasa al destinatario elegido. Para ver cómo aparece una sala transferida en la lista de conversaciones, consulta [Identificar conversaciones pendientes](#identificar-conversaciones-pendientes).
+
+Cada representante de la lista de transferencia muestra un estado: **En línea**, **En pausa** (con el nombre de la pausa personalizada) o **Fuera de línea**. La lista muestra primero los representantes en línea, luego los que están en pausa y después los que están fuera de línea. Dentro de cada estado, los nombres se ordenan alfabéticamente. Las pausas personalizadas y la opción **Bloquear transferencia de chats a representantes offline** se configuran en [Configurar Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk).
+
+## Redactar mensajes
+
+### Copiar y borrar el mensaje
+
+Al empezar a escribir en el campo de mensaje, aparecen dos acciones:
+
+- `Copiar texto`: copia todo el contenido del campo de mensaje.
+- `Borrar texto`: vacía el campo de mensaje.
+
+### Agregar emojis, audio y archivos
+
+Usa los botones debajo del campo de mensaje para agregar contenido:
+
+- **Emojis:** haz clic en el botón de emojis para abrir el panel y agregar un emoji al mensaje.
+- **Audio:** haz clic en el botón de audio para grabar un mensaje y reproducirlo antes de enviarlo al contacto.
+- **Archivos:** haz clic en el botón de adjuntar para añadir un archivo.
+
+Para adjuntar archivos más rápido, también puedes arrastrar un archivo al campo de mensaje o presionar `Ctrl + V` para pegar una imagen.
+
+Para agregar un salto de línea en el campo de mensaje, presiona `Shift + Enter`.
+
+### Usar mensajes rápidos
+
+Los mensajes rápidos son plantillas de texto preconfiguradas. Los representantes los usan para enviar respuestas estándar con más rapidez durante el soporte.
+
+El campo de mensaje muestra `Escribe tu mensaje o / para activar los mensajes rápidos`. Debajo del campo, haz clic en el botón de mensajes rápidos para abrir el panel, donde puedes ver, gestionar y registrar mensajes. Al seleccionar un mensaje, su texto llena el campo.
+
+Puedes insertar un mensaje rápido de dos formas:
+
+- **Usando el panel:** haz clic en el botón de mensajes rápidos y, a continuación, en el mensaje que quieras.
+- **Usando un atajo:** escribe `/` seguido del atajo asignado al mensaje.
+
+En la lista, puedes moverte entre los mensajes con las flechas del teclado y presionar `Enter` para insertar el mensaje seleccionado. También puedes configurar mensajes rápidos específicos de cada departamento al crearlo. Para más información, consulta [Configurar Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk).
+
+### Mejorar una respuesta con IA
+
+`Mejorar respuesta con IA` revisa un mensaje antes de enviarlo al contacto. Escribes la respuesta en el campo de mensaje y la IA corrige errores, ajusta el tono o reescribe el texto manteniendo el significado original.
+
+> ℹ️ El botón <i class="fas fa-magic" aria-hidden="true"></i> `Mejorar respuesta con IA` solo está disponible cuando el campo de mensaje tiene texto.
 
 Para mejorar una respuesta, sigue estos pasos:
 
-1. En el campo de texto de la conversación, escribe el mensaje que deseas enviar.
-2. Haz clic en <i class="fas fa-magic" aria-hidden="true"></i>`Mejorar respuesta con IA`.
-3. Selecciona la opción de mejora deseada:
-  - `Corregir gramática y ortografía`: Corrige solo errores de digitación, ortografía y gramática.
-  - `Hacer más empática`: Reescribe el mensaje con un tono más amable y acogedor.
-  - `Reescribir con claridad`: Reorganiza el texto para hacerlo más claro y objetivo, con explicaciones más completas.
-4. Espera a que termine el procesamiento.
+1. En el campo de mensaje, escribe el mensaje que quieres enviar.
+2. Haz clic en <i class="fas fa-magic" aria-hidden="true"></i> `Mejorar respuesta con IA`.
+3. Selecciona una opción de mejora:
+    - **Corregir gramática y ortografía:** corrige errores de escritura, ortografía y gramática.
+    - **Hacer más empática:** reescribe el mensaje con un tono más cálido y acogedor.
+    - **Reescribir para mayor claridad:** reorganiza el texto para que las explicaciones sean más claras y objetivas.
+4. Espera hasta que desaparezca `Mejorando tu respuesta`.
 
-> ℹ️ Mientras se muestra el mensaje **Mejorando tu respuesta**, puedes hacer clic en <i class="fas fa-times" aria-hidden="true"></i>`Respuesta mejorada` para cancelar la acción.
+    > ℹ️ Para cancelar mientras se muestra `Mejorando tu respuesta`, haz clic en <i class="fas fa-times" aria-hidden="true"></i> `Respuesta mejorada`.
 
-5. Revisa la nueva versión del mensaje. Si lo prefieres, edita el texto o haz clic en `Original` para volver al mensaje original.
+5. Revisa el nuevo mensaje. Puedes editar el texto o hacer clic en `Original` para restaurar tu borrador.
 6. Haz clic en `Enviar`.
 
-> ℹ️ La IA no envía ningún mensaje automáticamente al contacto. La conversación solo se actualiza cuando haces clic en `Enviar`.
+    > ℹ️ La IA no envía el mensaje por su cuenta. La conversación se actualiza solo después de que hagas clic en `Enviar`.
 
-### Transferir chat
+### Agregar una nota interna
 
-La función de transferir chat dirige el contacto a un departamento, cola o representante específico y se puede acceder en el panel de información del contacto. La transferencia puede ser accionada por el agente de IA, cuando esta opción está activada en la configuración, o manualmente por un gerente o administrador. En la transferencia manual, es posible buscar por nombre de un representante, cola o departamento, o seleccionar un destinatario en la lista exhibida. Al confirmar la transferencia, el contacto es encaminado al destinatario elegido.
+Una nota interna mantiene el contexto en la conversación para otros representantes, como capturas de pantalla y explicaciones más largas. Pueden leerla cuando tomen la conversación o revisarla más tarde. El contacto no la recibe.
 
-Para saber cómo se distribuye el soporte entre los representantes, consulta [Distribución y enrutamiento de las atenciones](https://help.vtex.com/es/docs/tutorials/distribucion-y-enrutamiento-de-las-atenciones).
+En la conversación, la nota aparece con fondo amarillo y comienza con `Nota interna:`, seguida del texto. Los medios adjuntos aparecen como miniaturas debajo del texto.
 
-### Grabar y enviar audio
+Debajo del campo de mensaje, haz clic en el botón de nota interna, escribe la nota y envíala. Puedes usar más de un párrafo y adjuntar hasta 10 archivos multimedia.
 
-A través de los botones del cuadro de texto, puedes grabar y enviar un audio. Antes del envío, puedes reproducir el audio y después enviarlo al contacto.
+### Agregar una firma de representante
 
-### Adjuntar archivos
+Cuando **Usar firma** está activada para el departamento, el nombre del representante aparece en cada globo de mensaje, seguido de dos puntos. Para activarla, consulta [Configurar Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk).
 
-Para adjuntar archivos, arrástralos hasta el cuadro de texto. También puedes usar el atajo `Ctrl + V` para pegar imágenes directamente, sin adjuntarlas manualmente.
+## Revisar el historial de soporte y las métricas
 
-### Enviar emojis
+### Seguir las métricas de soporte
 
-Live Desk ofrece un panel completo de emojis, que ayudan a transmitir el tono y la intención de los mensajes durante el soporte.
+El soporte humano se monitorea en el dashboard de **Live Desk** dentro del módulo **Analytics**. El dashboard tiene dos pestañas:
 
-### Insertar salto de texto
+- **Monitoreo:** muestra datos en tiempo real de los chats de soporte en curso, como estado, tiempos promedio, volumen por cola, tag y canal, y satisfacción del cliente (CSAT). Los moderadores del proyecto pueden definir metas de tiempo para que el dashboard resalte los chats que las superan. Consulta [Analytics: Configurar alertas operativas](https://help.vtex.com/es/docs/tutorials/analytics-configurar-alertas-operativas).
+- **Análisis:** muestra datos históricos de los chats de soporte cerrados en el periodo seleccionado.
 
-Para auxiliar en la organización visual del mensaje, puedes insertar saltos de línea presionando `Shift + Enter`.
+Puedes filtrar los datos por departamento, cola, representante, tag, canal y periodo. Para descargar los datos que se muestran en el dashboard, haz clic en `Exportar datos`.
 
-### Configurar firma activa
+Para cada métrica y sección, consulta [Analytics: Métricas de atención](https://help.vtex.com/es/docs/tutorials/analytics-metricas-de-atencion). Para crear un dashboard personalizado, consulta [Analytics: Crear dashboard personalizado](https://help.vtex.com/es/docs/tutorials/crear-dashboard-personalizado).
 
-La firma activa agrega el nombre del representante que está respondiendo a cada mensaje intercambiado. Para activarla, sigue estos pasos:
+### Ver el historial de soporte
 
-1. Accede a la organización y al proyecto que deseas modificar en [VTEX CX Platform](https://dash.weni.ai/orgs).
-2. En el menú lateral, haz clic en **Configuración**.
-3. Haz clic en **Live Desk**.
-4. En la pestaña **Sectores**, haz clic en el menú de acciones <i class="fas fa-ellipsis-v" aria-hidden="true"></i> del departamento deseado y en `Editar`.
-5. En la pestaña **Opciones adicionales**, activa la opción **Usar firma**.
-6. Haz clic en `Guardar cambios`.
+La lista de Live Desk está en orden cronológico, del soporte más reciente al más antiguo. En esta lista, puedes ver la foto del contacto, su nombre, el representante que atendió el soporte, los tags usados en la clasificación, la fecha y un botón para abrir el chat.
 
-> ℹ️ Después de la activación, el nombre del representante aparecerá en el globo de mensaje seguido de dos puntos.
+Al abrir el historial del contacto, puedes ver el inicio del soporte, el historial con el bot, los eventos del chat y los tags. En un chat de soporte cerrado con respuesta CSAT nativa, el historial también muestra la puntuación CSAT y, cuando el cliente la dejó, su comentario.
 
-### Editar campos de contacto
+Para descargar una conversación cerrada, consulta [Exportar una conversación cerrada](#exportar-una-conversación-cerrada).
 
-La edición de campos de contacto permite que corrijas datos incorrectos o actualices información del cliente durante el soporte. Para habilitar esta función, sigue estos pasos:
+### Ver el historial de webchat entre sesiones
 
-1. Accede a la organización y al proyecto que deseas modificar en [VTEX CX Platform](https://dash.weni.ai/orgs).
-2. En el menú lateral, haz clic en **Configuración**.
-3. Haz clic en **Live Desk**.
-4. En la pestaña **Sectores**, haz clic en el menú de acciones <i class="fas fa-ellipsis-v" aria-hidden="true"></i> del departamento deseado y en `Editar`.
-5. En la pestaña **Opciones adicionales**, activa la opción **Permitir que los representantes editen la información personalizada del contacto**.
-6. Haz clic en `Guardar cambios`.
+Shopping Assistant crea un Uniform Resource Name (URN) diferente para cada sesión de webchat. Cuando abres el historial del contacto, las conversaciones de webchat del mismo contacto se agrupan si la sala se abrió con `email`, `document` o ambos.
 
-> ℹ️ Para editar un campo, abre el panel de información haciendo clic en el nombre del contacto y, a continuación, haz clic en el campo deseado para insertar el nuevo valor.
+### Ver las conversaciones de un representante
 
-### Recibir notificación vía navegador
+Haz clic en el nombre de un representante en el dashboard para abrir el **modo de vista de soporte del representante**. Esta vista ofrece un resumen de los detalles de soporte de cada representante. Un gerente puede tomar un chat en cualquier momento transfiriéndoselo a sí mismo. Para ver cómo aparece una sala que espera respuesta en esta vista, consulta [Identificar conversaciones pendientes](#identificar-conversaciones-pendientes).
 
-Live Desk ofrece notificaciones vía navegador como alternativa a la alerta sonora. Para recibirlas, permite las notificaciones del sitio en la configuración de tu navegador.
+### Exportar una conversación cerrada
 
-## Historial y dashboard
+Solo los moderadores del proyecto pueden exportar una conversación cerrada. Puedes exportarla hasta un año después de que se cierre. Las conversaciones activas no se pueden exportar.
 
-### Dashboard y métricas
+> ⚠️ Mientras se procesa una exportación, las nuevas exportaciones de esta conversación están temporalmente bloqueadas.
 
-El seguimiento del soporte humano se realiza en el dashboard del módulo **Analytics**, dividido en dos pestañas:
+El archivo es un informe de la conversación que incluye:
 
-- **Monitorización:** datos en tiempo real del soporte en curso, como status, tiempos promedio, volumen por cola y tag, y CSAT.
-- **Analytics:** datos históricos del soporte finalizado en el periodo seleccionado.
+- La transcripción de los mensajes
+- Los eventos del chat
+- Los detalles del soporte: **Iniciado**, **Finalizado**, **Representante**, **Contacto**, **URN**, **ID del ticket**, **Tags** y **CSAT**
 
-Puedes filtrar los datos por departamento, cola, representante, tag y periodo, además de exportarlos con el botón `Exportar datos`.
+Para exportar una conversación cerrada, sigue estos pasos:
 
-Para la descripción completa de cada métrica y sección, consulta el artículo [Analytics: Métricas de atención](https://help.vtex.com/es/docs/tutorials/analytics-metricas-de-atencion). Para crear visualizaciones personalizadas, consulta el artículo [Analytics: Crear dashboard personalizado](https://help.vtex.com/es/docs/tutorials/crear-dashboard-personalizado).
+1. En la lista de historial, abre una conversación cerrada.
+2. Haz clic en `Exportar conversación`.
+3. Selecciona **PDF** o **HTML**. **PDF** viene seleccionado por defecto.
+4. Selecciona **Acepto los términos y entiendo las limitaciones de la exportación**.
+5. Haz clic en `Exportar conversación`.
+6. Abre el email de `no-reply@weni.ai`.
+7. Haz clic en `Descargar informe`.
 
-### Visualización del historial
+## Ajustar preferencias personales
 
-La lista de Live Desk queda en orden cronológico, del soporte más reciente al más antiguo. En este listado, puedes ver la foto del contacto, el nombre, el representante que realizó el soporte, los tags usados en la clasificación, la fecha y un botón para abrir el chat.
+Estas configuraciones cambian la apariencia de Live Desk y la forma en que te avisa. No cambian departamentos, colas ni conversaciones.
 
-Al visualizar el historial del contacto, puedes ver el inicio del soporte, el historial con el bot, los acontecimientos del chat y los tags usados para clasificarlo.
+### Recibir notificaciones del navegador
 
-### Modo de visualización
+Live Desk ofrece notificaciones del navegador como alternativa a la alerta sonora. Para recibirlas, permite las notificaciones del sitio en la configuración de tu navegador.
 
-Al hacer clic en el nombre del representante en el dashboard, se abre el **modo de visualización del soporte del representante**. Así, es posible tener una vista general de los detalles del soporte por representante, y un gerente puede asumir un chat en cualquier momento, transfiriendo el soporte hacia sí mismo.
+### Elegir el modo claro u oscuro
 
-## Configuración y recursos relacionados
+Live Desk ofrece **Modo claro** y **Modo oscuro**. El modo claro es el predeterminado. El modo oscuro aplica un tema oscuro a Live Desk y al menú lateral.
 
-Para configurar y utilizar Live Desk en tu operación, consulta los artículos relacionados:
+Para cambiar el tema, abre **Preferencias** y selecciona **Modo claro** o **Modo oscuro**. La selección se guarda automáticamente y se aplica cada vez que inicias sesión.
 
-- [Configure Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk): crea y gestiona departamentos, colas y representantes, y define las reglas de soporte.
-- [Distribución y enrutamiento de las atenciones](https://help.vtex.com/es/docs/tutorials/distribucion-y-enrutamiento-de-las-atenciones): entiende cómo se distribuye el soporte entre los representantes.
-- [Utilizar el disparo activo de flujos](https://help.vtex.com/es/docs/tutorials/utilizando-el-disparo-activo-de-flujos): inicia conversaciones activamente con contactos a través de Live Desk.
-- [Usando grupos para controlar la atención humana](https://help.vtex.com/es/docs/tutorials/usando-grupos-para-controlar-la-atencion-humana): evita que el chatbot interrumpa el soporte en curso.
+## Más información
+
+- [Configurar Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk): Aprende a crear y gestionar departamentos, colas y representantes, y a definir las reglas de soporte.
+- [Distribución y enrutamiento de las atenciones](https://help.vtex.com/es/docs/tutorials/distribucion-y-enrutamiento-de-las-atenciones): Aprende cómo se distribuye el soporte entre los representantes.
+- [Utilizar el disparo activo de flujos](https://help.vtex.com/es/docs/tutorials/utilizando-el-disparo-activo-de-flujos): Aprende a iniciar conversaciones con contactos desde Live Desk.
+- [Usando grupos para controlar la atención humana](https://help.vtex.com/es/docs/tutorials/usando-grupos-para-controlar-la-atencion-humana): Aprende a evitar que el chatbot interrumpa un chat de soporte en curso.
