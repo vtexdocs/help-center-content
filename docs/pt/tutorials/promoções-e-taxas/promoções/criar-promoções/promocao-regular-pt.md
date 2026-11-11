@@ -134,14 +134,14 @@ Nesta seção, você define os critérios que precisam ser atendidos para que a 
 
 > ℹ️ Essa condição não se aplica a pagamentos via boleto, vale-presente ou pedidos com mais de um meio de pagamento.
 
-- **UTM:** aplique a promoção quando o acesso à loja for feito por uma URL com parâmetros UTM ou quando o cliente usar um cupom vinculado a esses parâmetros. Use apenas letras, números, hífens e *underscores* ao definir os valores dos campos UTM. Para mais detalhes, consulte o artigo [Rastreamento de campanhas com parâmetros UTM](/pt/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium).
+- **UTM:** aplique a promoção quando o acesso à loja for feito por uma URL com parâmetros UTM ou quando o cliente usar um cupom vinculado a esses parâmetros. Use apenas letras, números, hífens e *underscores* ao definir os valores dos campos UTM. Para mais detalhes, consulte o artigo [Rastreamento de campanhas com parâmetros UTM](/pt/docs/tutorials/o-que-sao-utm-source-utm-campaign-e-utm-medium).
 
 **Defina os parâmetros abaixo, se necessário:**
 
 - **Utm_source:** permite o desconto quando a navegação for realizada com a utm_source configurada.  
 - **Utm_campaign:** permite o desconto quando a navegação for realizada com o parâmetro utm_campaign configurado.  
 - **Criar cupom a partir dos parâmetros UTM acima:** gere um cupom com base nos parâmetros UTM inseridos nos campos `UTM_source` e `UTM_campaign`.  
-- **Utmi_cp:** o desconto será aplicado apenas se a navegação incluir o parâmetro `utmi_cp` com o valor cadastrado. Para mais detalhes, consulte o artigo [O que são as UTMs internas utmi_cp, utmi_pc e utmi_p](/pt/tutorial/what-are-the-internal-utms).  
+- **Utmi_cp:** o desconto será aplicado apenas se a navegação incluir o parâmetro `utmi_cp` com o valor cadastrado. Para mais detalhes, consulte o artigo [O que são as UTMs internas utmi_cp, utmi_pc e utmi_p](/pt/docs/tutorials/o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p).  
 - **Ver cupons vinculados:** permite visualizar os cupons que já foram associados aos parâmetros UTM definidos.
 
 ## Configurar restrições para o uso da promoção

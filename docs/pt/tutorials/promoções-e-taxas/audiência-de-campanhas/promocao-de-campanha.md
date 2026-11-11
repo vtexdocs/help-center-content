@@ -82,7 +82,7 @@ Na seção **Política comercial**, defina as políticas comerciais às quais a 
 
 Defina quais audiências terão acesso a esta promoção. A promoção será aplicada somente aos usuários que atenderem às condições configuradas nas audiências selecionadas.
 
-> ℹ️ Para criar novas audiências ou entender como configurá-las, acesse o artigo [Audiência de campanha](/pt/tutorial/como-criar-campanhas).
+> ℹ️ Para criar novas audiências ou entender como configurá-las, acesse o artigo [Audiência de campanha](/pt/docs/tutorials/criar-audiencia-de-campanha).
 
 ## Definir itens para ativação da promoção
 
