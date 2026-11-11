@@ -35282,13 +35282,13 @@
                 {
                   "name": {
                     "en": "Analytics: Configuring operational alerts",
-                    "es": "Analytics: Configuring operational alerts",
-                    "pt": "Analytics: Configuring operational alerts"
+                    "es": "Analytics: Configurar alertas operativas",
+                    "pt": "Analytics: Configurar alertas operacionais"
                   },
                   "slug": {
                     "en": "configuring-operational-alerts",
-                    "es": "",
-                    "pt": ""
+                    "es": "analytics-configurar-alertas-operativas",
+                    "pt": "analytics-configurar-alertas-operacionais"
                   },
                   "origin": "",
                   "type": "markdown",
