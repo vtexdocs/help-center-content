@@ -1,18 +1,13 @@
 ---
 title: 'Data entity'
-id: tutorials_1265
-status: PUBLISHED
 createdAt: 2017-04-27T21:56:57.118Z
-updatedAt: 2026-07-08T18:37:00.000Z
-publishedAt: 2024-10-23T23:39:13.110Z
-firstPublishedAt: 2017-04-27T23:03:49.803Z
+updatedAt: 2026-11-11T00:00:00.000Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_3
 slugEN: data-entity
 legacySlug: creating-data-entity
 locale: en
-subcategoryId: 1l3IVVYwrrG5YOtdt7R2SN
 ---
 
 A data entity is a representation of a set of information about a given concept. Each entity includes fields with information that makes up the entity.
@@ -62,6 +57,8 @@ When creating a field, the following types are displayed:
 | **Varchar 50** | Stores numbers, letters, and special characters, limited to 50 characters. |
 | **Varchar 750** | Stores numbers, letters, and special characters, limited to 750 characters. |
 
+> ⚠️ **Text** and **Varchar** fields accept only plain text, not objects or other structured values. If one of these fields has the **Is searchable?** or **Is filterable?** option checked and receives an object (for example, `{}`), the document containing that value is left out of the index. The other documents in the entity continue to be indexed normally. The affected document remains stored and is returned in queries by ID, but it doesn't appear in API searches (`/search`) or in the Master Data interface. To fix this, send the value as text or uncheck the **Is searchable?** and **Is filterable?** options for the field. Then reindex the entity.
+
 ## Creating data entities
 
 Follow the steps below to configure a new data entity.
@@ -80,7 +77,7 @@ Follow the steps below to configure a new data entity.
 9.  Complete the **Fields** tab with the fields you want to include in the new data entity, indicated as follows.
 10. Complete the **Name** column with the field's identification value. Do not insert spaces or special characters. Example: CustomerName.
 11. Complete the **Display Name** column with the name that will be displayed on the form. Example: Customer name.
-12. Select the field type based on the options described in the [Data types](#data-typed) section.
+12. Select the field type based on the options described in the [Data types](#data-types) section.
 13. Click the <i class="fas fa-cog"></i> gear icon to open the field configuration options.
 14. Complete the **General settings**:
 
@@ -93,6 +90,9 @@ Follow the steps below to configure a new data entity.
 
 	- **Is searchable?**: If this field is used for searching in the form and via API.
 	- **Is filterable?:** If this field is used to filter the form and via API.
+
+	For **Text** and **Varchar** fields with these options checked, see the warning about accepted values in the [Data types](#data-types) section.
+
 16. Add a field description.
 17. To add more fields, click the `New Field` button and repeat steps 10 to 16.
 18. At the end of the field definition, click the `Save` button to complete or `Save and New` to create a new data entity.

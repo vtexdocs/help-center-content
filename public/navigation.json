@@ -24380,6 +24380,21 @@
                 },
                 {
                   "name": {
+                    "en": "Planning a VTEX Sales App implementation",
+                    "es": "Planificar la implementación de VTEX Sales App",
+                    "pt": "Planejar a implementação do VTEX Sales App"
+                  },
+                  "slug": {
+                    "en": "planning-a-vtex-sales-app-implementation",
+                    "es": "planificar-la-implementacion-de-vtex-sales-app",
+                    "pt": "planejar-a-implementacao-do-vtex-sales-app"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Promotions on the Sales App search page",
                     "es": "Promociones en la página de búsqueda de Sales App",
                     "pt": "Promoção na página de busca do Sales App"
@@ -24403,6 +24418,21 @@
                     "en": "vtex-sales-app-extensibility-en",
                     "es": "vtex-sales-app-extensibility-es",
                     "pt": "vtex-sales-app-extensibility-pt"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "VTEX Sales App: Configuring the checkout-instore-custom.js file",
+                    "es": "VTEX Sales App: configurar el archivo checkout-instore-custom.js",
+                    "pt": "VTEX Sales App: configurar o arquivo checkout-instore-custom.js"
+                  },
+                  "slug": {
+                    "en": "vtex-sales-app-configuring-the-checkout-instore-custom-js-file",
+                    "es": "vtex-sales-app-configurar-el-archivo-checkout-instore-custom-js",
+                    "pt": "vtex-sales-app-configurar-o-arquivo-checkout-instore-customjs"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25965,17 +25995,17 @@
           "children": [
             {
               "name": {
-                "en": "Foundations and concepts",
-                "es": "Fundamentos y conceptos",
-                "pt": "Fundamentos e conceitos"
+                "en": "Payments foundations and concepts",
+                "es": "Fundamentos y conceptos de pagos",
+                "pt": "Fundamentos e conceitos de pagamentos"
               },
               "slug": {
-                "en": "foundations-and-concepts",
-                "es": "fundamentos-y-conceptos",
-                "pt": "fundamentos-e-conceitos"
+                "en": "payments-foundations-and-concepts",
+                "es": "fundamentos-y-conceptos-de-pagos",
+                "pt": "fundamentos-e-conceitos-de-pagamentos"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -26126,7 +26156,7 @@
                 "pt": "provedores-de-pagamento"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -29555,21 +29585,6 @@
                     },
                     {
                       "name": {
-                        "en": "Setting up Itaú registered ticket (ItauShopline)",
-                        "es": "Configurar boleto registrado Itaú (ItauShopline)",
-                        "pt": "Configurar boleto registrado Itaú (ItauShopline)"
-                      },
-                      "slug": {
-                        "en": "setting-up-itau-registered-ticket",
-                        "es": "configurar-boleto-registrado-itau",
-                        "pt": "configurar-boleto-registrado-itau"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
                         "en": "How long does it take to cancel an order with an unpaid \"boleto\"?",
                         "es": "¿En cuánto tiempo un pedido de boleto sin pago se cancela?",
                         "pt": "Em quanto tempo um pedido de boleto sem pagamento é cancelado?"
@@ -29654,21 +29669,6 @@
                         "en": "configuring-samsung-pay-as-a-payment-method",
                         "es": "configurar-samsung-pay-como-medio-de-pago",
                         "pt": "configurar-samsung-pay-como-meio-de-pagamento"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "How to install Visa Checkout in the VTEX App Store",
-                        "es": "Instalar el Visa Checkout en la VTEX App Store",
-                        "pt": "Instalar o Visa Checkout na VTEX App Store"
-                      },
-                      "slug": {
-                        "en": "install-visa-checkout-in-the-extension-store",
-                        "es": "instalar-el-visa-checkout-en-la-extension-store",
-                        "pt": "instalar-o-visa-checkout-na-extension-store"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -40095,6 +40095,21 @@
             },
             {
               "name": {
+                "en": "Order Again flow in B2B Suite can lead to orders placed with wrong marketing data",
+                "es": "El flujo de \"Volver a pedir\" en B2B Suite puede dar lugar a pedidos realizados con datos de marketing incorrectos.",
+                "pt": "O fluxo \"Fazer novo pedido\" no B2B Suite pode levar a pedidos feitos com dados de marketing incorretos."
+              },
+              "slug": {
+                "en": "order-again-flow-in-b2b-suite-can-lead-to-orders-placed-with-wrong-marketing-data",
+                "es": "el-flujo-de-volver-a-pedir-en-b2b-suite-puede-dar-lugar-a-pedidos-realizados-con-datos-de-marketing-incorrectos",
+                "pt": "o-fluxo-fazer-novo-pedido-no-b2b-suite-pode-levar-a-pedidos-feitos-com-dados-de-marketing-incorretos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "B2B Orders History considers Sales' Representative roles when impersonating an user",
                 "es": "El historial de pedidos B2B tiene en cuenta los roles de representante de ventas al suplantar a un usuario",
                 "pt": "O histórico de pedidos B2B considera as funções de representante de vendas ao se passar por um usuário"
@@ -45063,6 +45078,21 @@
             },
             {
               "name": {
+                "en": "Checkout payment step doesn't work if Apple Pay is the first payment method",
+                "es": "El paso de pago al finalizar la compra no funciona si Apple Pay es el primer método de pago.",
+                "pt": "A etapa de pagamento no checkout não funciona se o Apple Pay for o primeiro método de pagamento."
+              },
+              "slug": {
+                "en": "checkout-payment-step-doesnt-work-if-apple-pay-is-the-first-payment-method",
+                "es": "el-paso-de-pago-al-finalizar-la-compra-no-funciona-si-apple-pay-es-el-primer-metodo-de-pago",
+                "pt": "a-etapa-de-pagamento-no-checkout-nao-funciona-se-o-apple-pay-for-o-primeiro-metodo-de-pagamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Impersonation is ignored after one purchase is completed",
                 "es": "La suplantación de identidad se ignora después de completar una compra",
                 "pt": "A falsificação de identidade é ignorada após a conclusão de uma compra"
@@ -46406,21 +46436,6 @@
                 "en": "checkout-incorrectly-sending-item-details-to-transaction",
                 "es": "el-pago-envia-incorrectamente-los-detalles-del-articulo-a-la-transaccion",
                 "pt": "checkout-incorretamente-enviando-detalhes-do-item-para-a-transacao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Checkout payment step doesn't work if Apple Pay is the first payment method",
-                "es": "Checkout payment step doesn't work if Apple Pay is the first payment method",
-                "pt": "Checkout payment step doesn't work if Apple Pay is the first payment method"
-              },
-              "slug": {
-                "en": "checkout-payment-step-doesnt-work-if-apple-pay-is-the-first-payment-method",
-                "es": "checkout-payment-step-doesnt-work-if-apple-pay-is-the-first-payment-method",
-                "pt": "checkout-payment-step-doesnt-work-if-apple-pay-is-the-first-payment-method"
               },
               "origin": "",
               "type": "markdown",
@@ -50932,13 +50947,13 @@
             {
               "name": {
                 "en": "Magazine Luiza Orders pending dispatch authorization even if approved by Marketplace",
-                "es": "Revista Luiza Pedidos pendientes de autorización de envío aunque estén aprobados por Marketplace",
-                "pt": "Magazine Luiza Pedidos pendentes de autorização de despacho mesmo que aprovados pelo Marketplace"
+                "es": "Magazine Luiza Pedidos pendientes de autorización de envío, incluso si son aprobados por Marketplace.",
+                "pt": "Magazine Luiza Pedidos aguardando autorização de envio mesmo se aprovados pelo Marketplace"
               },
               "slug": {
                 "en": "magazine-luiza-orders-pending-dispatch-authorization-even-if-approved-by-marketplace",
-                "es": "revista-luiza-pedidos-pendientes-de-autorizacion-de-envio-aunque-esten-aprobados-por-marketplace",
-                "pt": "magazine-luiza-pedidos-pendentes-de-autorizacao-de-despacho-mesmo-que-aprovados-pelo-marketplace"
+                "es": "magazine-luiza-pedidos-pendientes-de-autorizacion-de-envio-incluso-si-son-aprobados-por-marketplace",
+                "pt": "magazine-luiza-pedidos-aguardando-autorizacao-de-envio-mesmo-se-aprovados-pelo-marketplace"
               },
               "origin": "",
               "type": "markdown",
@@ -51134,21 +51149,6 @@
                 "en": "mercado-livre-bridge-bridge-isnt-logging-some-error-messages",
                 "es": "mercado-livre-bridge-bridge-no-registra-algunos-mensajes-de-error",
                 "pt": "mercado-livre-bridge-o-bridge-nao-esta-registrando-algumas-mensagens-de-erro"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Mercado Livre Error when accepting Buybox/ME2 suggestion: BRAND attribute required",
-                "es": "Mercado Livre Error al aceptar la sugerencia de Buybox/ME2: se requiere el atributo BRAND",
-                "pt": "Mercado Livre Erro ao aceitar a sugestão da Buybox/ME2: atributo BRAND obrigatório"
-              },
-              "slug": {
-                "en": "mercado-livre-error-when-accepting-buyboxme2-suggestion-brand-attribute-required",
-                "es": "mercado-livre-error-al-aceptar-la-sugerencia-de-buyboxme2-se-requiere-el-atributo-brand",
-                "pt": "mercado-livre-erro-ao-aceitar-a-sugestao-da-buyboxme2-atributo-brand-obrigatorio"
               },
               "origin": "",
               "type": "markdown",
@@ -53868,6 +53868,21 @@
                 "en": "plp-does-not-load-when-facet-values-are-reserved-words",
                 "es": "plp-no-se-carga-cuando-los-valores-de-faceta-son-palabras-reservadas",
                 "pt": "o-plp-nao-carrega-quando-os-valores-das-facetas-sao-palavras-reservadas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Deleted product may still appears in Intelligent Search after a concurrent update",
+                "es": "Es posible que el producto eliminado siga apareciendo en la Búsqueda inteligente después de una actualización simultánea.",
+                "pt": "O produto excluído ainda pode aparecer na Busca Inteligente após uma atualização simultânea."
+              },
+              "slug": {
+                "en": "deleted-product-may-still-appears-in-intelligent-search-after-a-concurrent-update",
+                "es": "es-posible-que-el-producto-eliminado-siga-apareciendo-en-la-busqueda-inteligente-despues-de-una-actualizacion-simultanea",
+                "pt": "o-produto-excluido-ainda-pode-aparecer-na-busca-inteligente-apos-uma-atualizacao-simultanea"
               },
               "origin": "",
               "type": "markdown",
@@ -70106,6 +70121,21 @@
               "origin": "",
               "type": "markdown",
               "children": []
+            },
+            {
+              "name": {
+                "en": "vtex.structured-data Settings page shows GTIN Value “EAN” as default, but the app uses the SKU ID until the setting is saved",
+                "es": "vtex.structured-data La página de configuración muestra el valor GTIN \"EAN\" como predeterminado, pero la aplicación utiliza el ID de SKU hasta que se guarda la configuración.",
+                "pt": "vtex.structured-data A página de configurações mostra o valor GTIN “EAN” como padrão, mas o aplicativo usa o ID SKU até que a configuração seja salva."
+              },
+              "slug": {
+                "en": "vtexstructureddata-settings-page-shows-gtin-value-ean-as-default-but-the-app-uses-the-sku-id-until-the-setting-is-saved",
+                "es": "vtexstructureddata-la-pagina-de-configuracion-muestra-el-valor-gtin-ean-como-predeterminado-pero-la-aplicacion-utiliza-el-id-de-sku-hasta-que-se-guarda-la-configuracion",
+                "pt": "vtexstructureddata-a-pagina-de-configuracoes-mostra-o-valor-gtin-ean-como-padrao-mas-o-aplicativo-usa-o-id-sku-ate-que-a-configuracao-seja-salva"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -70276,6 +70306,21 @@
           "origin": "",
           "type": "category",
           "children": [
+            {
+              "name": {
+                "en": "Amazon tracking failure is not displayed in Bridge when the invoice items don’t match the order items",
+                "es": "Amazon El error de seguimiento no se muestra en Bridge cuando los artículos de la factura no coinciden con los artículos del pedido.",
+                "pt": "A falha de rastreamento da Amazon não é exibida no Bridge quando os itens da fatura não correspondem aos itens do pedido."
+              },
+              "slug": {
+                "en": "amazon-tracking-failure-is-not-displayed-in-bridge-when-the-invoice-items-dont-match-the-order-items",
+                "es": "amazon-el-error-de-seguimiento-no-se-muestra-en-bridge-cuando-los-articulos-de-la-factura-no-coinciden-con-los-articulos-del-pedido",
+                "pt": "a-falha-de-rastreamento-da-amazon-nao-e-exibida-no-bridge-quando-os-itens-da-fatura-nao-correspondem-aos-itens-do-pedido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
             {
               "name": {
                 "en": "Amazon In some cases, a SKU may be published successfully on Amazon, but the stock is not updated and remains at zero.",
@@ -70586,6 +70631,21 @@
                 "en": "mercado-livre-package-dimensions-are-now-mandatory-for-me1-items-on-mercado-livre",
                 "es": "mercado-livre-las-dimensiones-del-paquete-ahora-son-obligatorias-para-los-articulos-me1-en-mercado-livre",
                 "pt": "mercado-livre-dimensoes-das-embalagens-agora-sao-obrigatorias-para-itens-me1-no-mercado-livre"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Error when accepting Buybox/ME2 suggestion: BRAND attribute required",
+                "es": "Mercado Livre Error al aceptar la sugerencia de Buybox/ME2: Se requiere el atributo BRAND",
+                "pt": "Mercado Livre Erro ao aceitar a sugestão Buybox/ME2: Atributo BRAND obrigatório"
+              },
+              "slug": {
+                "en": "mercado-livre-error-when-accepting-buyboxme2-suggestion-brand-attribute-required",
+                "es": "mercado-livre-error-al-aceptar-la-sugerencia-de-buyboxme2-se-requiere-el-atributo-brand",
+                "pt": "mercado-livre-erro-ao-aceitar-a-sugestao-buyboxme2-atributo-brand-obrigatorio"
               },
               "origin": "",
               "type": "markdown",
