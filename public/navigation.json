@@ -34393,9 +34393,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Contact's messages",
-                    "es": "Mensajes de contacto",
-                    "pt": "Mensagens do contato"
+                    "en": "Messages",
+                    "es": "Mensajes",
+                    "pt": "Mensagens"
                   },
                   "slug": {
                     "en": "contacts-messages",
