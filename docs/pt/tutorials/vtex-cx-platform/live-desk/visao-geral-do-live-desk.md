@@ -1,7 +1,7 @@
 ---
 title: 'Live Desk'
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-11-10T21:45:00.000Z
+updatedAt: 2026-11-12T17:52:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
@@ -43,7 +43,7 @@ A lista de conversas mostra quem enviou a última mensagem em cada uma, para voc
 - Um número mostra quantas mensagens do contato não foram lidas.
 - Uma seta azul mostra que a última mensagem do contato foi lida e ainda precisa de resposta.
 - O prefixo `Você:` indica que você enviou a última mensagem. Vale para mensagens de texto e de mídia.
-- Um ponto azul indica que a conversa foi transferida, devolvida a uma fila, assumida da fila ou atribuída automaticamente. O ponto aparece independentemente de quem enviou a última mensagem.
+- Um ponto azul indica que uma conversa requer atenção depois de ser transferida, devolvida a uma fila, assumida da fila ou atribuída automaticamente. O ponto aparece independentemente de quem enviou a última mensagem.
 
 Quando outro atendente enviou a última mensagem em uma conversa transferida, a prévia não começa com `Você:`. Ao abrir as conversas de um atendente pelo dashboard, uma conversa que aguarda resposta mostra a seta azul, e a prévia não inclui o prefixo `Você:`.
 

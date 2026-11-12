@@ -1,7 +1,7 @@
 ---
 title: 'Live Desk'
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-11-10T21:45:00.000Z
+updatedAt: 2026-11-12T17:52:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
@@ -41,7 +41,7 @@ La lista de conversaciones muestra quién envió el último mensaje de cada sala
 - Un número indica cuántos mensajes del contacto no has leído.
 - Una flecha azul indica que el último mensaje del contacto ya fue leído y todavía necesita respuesta.
 - El prefijo `Tú:` indica que tú enviaste el último mensaje. Se aplica a mensajes de texto y multimedia.
-- Un punto azul indica que la sala fue transferida, devuelta a una cola, tomada de la cola o asignada automáticamente. El punto aparece sin importar quién envió el último mensaje.
+- Un punto azul indica que una sala requiere atención después de ser transferida, devuelta a una cola, tomada de la cola o asignada automáticamente. El punto aparece sin importar quién envió el último mensaje.
 
 Cuando un representante anterior envió el último mensaje de una sala transferida, la vista previa no comienza con `Tú:`. Cuando abres las conversaciones de un representante desde el dashboard, una sala que espera respuesta muestra la flecha azul y la vista previa no incluye el prefijo `Tú:`.
 

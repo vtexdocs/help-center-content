@@ -1,7 +1,7 @@
 ---
 title: "Live Desk"
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-11-10T21:45:00.000Z
+updatedAt: 2026-11-12T17:50:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
@@ -42,7 +42,7 @@ The conversation list shows who sent the last message in each room, so you can s
 - A number shows how many messages from the contact are unread.
 - A blue arrow shows that the contact's last message has been read and still needs a reply.
 - A `You:` prefix shows that you sent the last message. It applies to text and media messages.
-- A blue dot shows that the room was transferred, returned to a queue, picked up from the queue, or assigned automatically. The dot appears regardless of who sent the last message.
+- A blue dot shows that a room requires attention after it's transferred, returned to a queue, picked up from the queue, or assigned automatically. The dot appears regardless of who sent the last message.
 
 When a previous representative sent the last message in a transferred room, the preview doesn't start with `You:`. When you open a representative's conversations from the dashboard, a room waiting for a reply shows the blue arrow, and the preview doesn't include the `You:` prefix.
 
