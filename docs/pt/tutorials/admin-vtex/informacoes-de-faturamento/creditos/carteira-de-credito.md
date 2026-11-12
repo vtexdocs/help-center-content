@@ -12,7 +12,7 @@ seeAlso:
   - "/pt/docs/tutorials/consultar-o-uso-do-master-data-no-admin-vtex"
 ---
 
-A **carteira de crédito** é um crédito de faturamento concedido automaticamente à sua empresa, usado para abater a cobrança de [Master Data](/pt/docs/tutorials/master-data).
+A **carteira de crédito** é um crédito de faturamento concedido automaticamente à sua empresa, usado para abater a cobrança de [Master Data](/pt/docs/tutorials/master-data-pt).
 
 Neste artigo, entenda como o crédito da carteira de crédito é calculado, como ele é aplicado à cobrança de Master Data e o que acontece com o saldo não utilizado.
 
