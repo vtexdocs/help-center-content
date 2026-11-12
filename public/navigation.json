@@ -33170,6 +33170,21 @@
                 },
                 {
                   "name": {
+                    "en": "Managing custom storefront roles and permissions",
+                    "es": "Gestionar roles y permisos de storefront personalizados",
+                    "pt": "Gerenciar perfis de acesso e permissões de storefront personalizados"
+                  },
+                  "slug": {
+                    "en": "manage-custom-storefront-roles-and-permissions",
+                    "es": "gestionar-roles-y-permisos-de-storefront-personalizados",
+                    "pt": "gerenciar-perfis-de-acesso-e-permissoes-de-storefront-personalizados"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Login for B2B stores",
                     "es": "Login para tiendas B2B",
                     "pt": "Login em lojas B2B"
@@ -33178,6 +33193,21 @@
                     "en": "login-for-b2b-stores",
                     "es": "login-para-tiendas-b2b",
                     "pt": "login-em-lojas-b2b"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Custom storefront roles and permissions",
+                    "es": "Roles y permisos de storefront personalizados",
+                    "pt": "Perfis de acesso e permissões de storefront personalizados"
+                  },
+                  "slug": {
+                    "en": "custom-storefront-roles-and-permissions-overview",
+                    "es": "roles-y-permisos-de-storefront-personalizados",
+                    "pt": "perfis-de-acesso-e-permissoes-de-storefront-personalizados"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -34036,9 +34066,9 @@
                   "children": [
                     {
                       "name": {
-                        "en": "Flows creation",
-                        "es": "Creación de flujos",
-                        "pt": "Criação de fluxos"
+                        "en": "Creating a flow",
+                        "es": "Crear un flujo",
+                        "pt": "Criar um fluxo"
                       },
                       "slug": {
                         "en": "flows-creation",

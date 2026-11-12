@@ -1,9 +1,9 @@
 ---
-title: "Creación de flujos"
+title: "Crear un flujo"
 id: 6AoGPZEA6aihcY2bS85Wz4
 status: PUBLISHED
 createdAt: 2025-09-16T16:29:17.584Z
-updatedAt: 2026-11-12T12:20:00.000Z
+updatedAt: 2026-11-12T17:20:00.000Z
 publishedAt: 2025-10-03T14:20:04.194Z
 firstPublishedAt: 2025-10-03T14:20:04.194Z
 contentType: tutorial
@@ -15,23 +15,44 @@ locale: es
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-Para crear un flujo, indique el nombre, las palabras clave de los triggers globales, el tipo de flujo y el idioma.
+Un flujo es una secuencia de acciones y decisiones que automatiza las interacciones con los contactos. Después de crear el flujo, agregas las etapas en el editor de flujos.
 
-1. Haga clic en **Flows** en el menú lateral.
-2. En la página de flujos, haga clic en **Create flow**.
-3. En el pop-up de creación, complete los campos **Nombre**, **Triggers de palabras clave globales**, **Tipo de flujo** e **Idioma**:
+> Para saber cómo se estructura un flujo, consulta [Flujo de automatización](https://help.vtex.com/es/docs/tutorials/introduccion-a-los-flujos).
 
-- **Nombre**: es el nombre que queremos dar a nuestro flujo. Es un campo obligatorio, pero que puede ser editado después.
-- **Triggers de palabras clave globales**: en ese campo, usted podrá escoger una palabra llave global que funcionará como un trigger para su flujo. Ese campo no es obligatorio, y usted podrá crear un trigger para su flujo cuando quiera, en la opción Triggers en el menú superior. Para más detalles, visite el artículo sobre triggers.
-- **Tipo de flujo**: campo obligatorio responsable por definir cuál va a ser el método utilizado por su flujo.
-- **Idioma**: el idioma de su proyecto.
+## Antes de comenzar
 
-Por defecto, la opción **Mensajería** ya viene marcada. Un flujo que utiliza el método Mensajería es un flujo creado para ser utilizado en canales de texto, como WhatsApp, Facebook Messenger, SMS, entre otros.
+Solo los usuarios con permiso de administrador, moderador o colaborador pueden crear flujos.
 
-Además de eso, tenemos dos opciones: **Llamada telefónica** y **Surveyor**.
+## Crear un flujo
 
-Un flujo que utiliza el método Phone Call es un flujo creado para ser utilizado en canales de llamadas. Existen algunas cartas de decisión y acción especiales para ese tipo de flujo, que usted puede conocer visitando el artículo sobre flujos de llamadas.
+1. Ve a tu organización en el dashboard de [VTEX CX Platform](https://dash.weni.ai/orgs).
+2. En el menú lateral, haz clic en **Flujo de automatización**.
+3. Haz clic en `Crear flujos`.
+4. En **Nombre**, ingresa un nombre para el flujo.
+5. (Opcional) En **Triggers de palabras clave globales**, ingresa las palabras clave que inician el flujo cuando un contacto las envía.
 
-Un flujo creado para ser descargado y ejecutado de forma offline en un dispositivo móvil, por la app Surveyor, tendrá sus respuestas sincronizadas después, de acuerdo con el acceso a internet. Para conocer más sobre el método Surveyor, visite el artículo sobre uso de la plataforma offline.
+    > ⚠️ Si Agent Builder está activo, las palabras clave y otros triggers no inician este flujo. Agent Builder inicia el flujo.
 
-Ahora que usted conoce las configuraciones, haga clic en **Create** y comience la creación de su nuevo flujo, debidamente configurado para la finalidad que desee.
+    Puedes dejar este campo vacío y agregar triggers después. Para más información, consulta [Crear un trigger](https://help.vtex.com/es/docs/tutorials/como-crear-un-activador) y [Tipos de triggers](https://help.vtex.com/es/docs/tutorials/tipos-de-activadores).
+
+6. En **Tipo de flujo**, selecciona **Mensajería**, **Llamada telefónica** o **Surveyor**. **Mensajería** está seleccionada de forma predeterminada. Para elegir un tipo, consulta [Tipos de flujo](#tipos-de-flujo).
+7. Haz clic en `Crear`.
+
+El flujo se crea. Puedes agregar acciones y decisiones en el editor de flujos. Para más información, consulta [Editor de flujos](https://help.vtex.com/es/docs/tutorials/editor-de-flujo-y-sus-herramientas).
+
+## Tipos de flujo
+
+El tipo controla cómo interactúa el flujo con los contactos.
+
+- **Mensajería:** Usa este tipo para canales de texto, como WhatsApp, Facebook Messenger y SMS. Esta opción está seleccionada de forma predeterminada.
+- **Llamada telefónica:** Usa este tipo para canales de llamadas. Este tipo incluye cartas de acción y decisión para llamadas.
+- **Surveyor:** Usa este tipo para flujos que recopilan respuestas de encuestas.
+
+## Más información
+
+Para construir y gestionar el flujo, consulta:
+
+- [Editor de flujos](https://help.vtex.com/es/docs/tutorials/editor-de-flujo-y-sus-herramientas)
+- [Cartas de acción](https://help.vtex.com/es/docs/tutorials/cartas-de-accion)
+- [Cartas de decisión](https://help.vtex.com/es/docs/tutorials/cartas-de-decision)
+- [Importar y exportar flujos](https://help.vtex.com/es/docs/tutorials/importar-y-exportar-flujos)
