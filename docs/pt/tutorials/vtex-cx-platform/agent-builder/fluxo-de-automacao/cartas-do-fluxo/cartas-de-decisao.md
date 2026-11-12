@@ -97,12 +97,12 @@ Boa forma de verificar a data de compra dos seus produtos.
 
 São regras utilizadas para validar formatações de texto personalizadas, seja para obedecer alguma regra de formatação de números, documentos, etc.
 
-A plataforma nos dá suporte ao uso de expressões regulares, ou regex, que é uma linguagem de busca de padrões. Assim, conseguimos criar regras de padrões personalizados para vários tipos de formatação, como CPF, CNPJ, CNH, etc. Um bom site para criar suas regex é o <https://regex101.com/>.
+A plataforma nos dá suporte ao uso de expressões regulares, ou regex, que é uma linguagem de busca de padrões. Assim, conseguimos criar regras de padrões personalizados para vários tipos de formatação, como CPF, CNPJ, CNH, etc. Um bom site para criar suas regex é o [https://regex101.com/](https://regex101.com/).
 
 As regras são:
 
 - tem um número de telefone: Caso a resposta/valor possua um formato válido para telefone celular (exemplo: 5582999999999), ele seguirá a rota indicada.
-- tem um e-mail: Caso a resposta/valor possua um formato válido para e-mail (exemplo: <no-reply@ilhasoft.com.br>), ele seguirá a rota indicada.
+- tem um e-mail: Caso a resposta/valor possua um formato válido para e-mail (exemplo: no-reply@ilhasoft.com.br), ele seguirá a rota indicada.
 - corresponde a regex: Caso a resposta/valor siga a regra da expressão regular escolhida, ele seguirá a rota indicada.
 
 Quer validar o formato de um CPF? Essas regras são o caminho.

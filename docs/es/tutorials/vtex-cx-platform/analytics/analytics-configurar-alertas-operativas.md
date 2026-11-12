@@ -48,5 +48,4 @@ Los destinatarios de correo electrónico y el umbral de notificación se configu
    4. En **Cuando**, ingresa la cantidad de chats que deben tener una alerta activa antes de que se envíe la notificación. El valor predeterminado es `5`.
 8. Haz clic en `Guardar`.
 
-
 El botón `Guardar` permanece deshabilitado hasta que ingreses un tiempo límite para cada alerta que hayas activado. Si no seleccionas destinatarios de correo electrónico, los chats que superen los límites seguirán destacados en la pestaña **En tiempo real**, y Analytics seguirá mostrando su notificación cuando se alcance el umbral configurado.

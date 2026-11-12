@@ -85,7 +85,7 @@ Esta lista de principios se utiliza para definir qué acciones tomar al momento 
 
 Puedes insertar más de un prompt en las configuraciones de ChatGPT, pudiendo elegir en el flujo qué prompt usar de acuerdo con la etapa de la conversación.
 
-**Cómo usar la integración en los flujos**
+### Cómo usar la integración en los flujos
 
 Para utilizar la integración de ChatGPT en los flujos, debes emplear la tarjeta “Call External Service” después de recibir un mensaje o respuesta del usuario. Tu flujo puede estructurarse de la siguiente manera:
 

@@ -35,7 +35,7 @@ To get started:
 4. Review the variable and excess costs, then select the checkbox to acknowledge them.
 5. Confirm the subscription.
 
-After you confirm, the plan is activated automatically and the project moves from trial to enterprise. 
+After you confirm, the plan is activated automatically and the project moves from trial to enterprise.
 
 ## Monitoring usage
 

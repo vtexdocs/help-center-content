@@ -15,7 +15,7 @@ locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-Zero Shot is a natural language processing technique that allows intelligent agents to recognize features that have not been previously trained. Zero Shot requires no training data, allowing you to shorten the AI ​​creation process and classify sentences. Its benefits are: increased customer adoption, better understanding during the conversation with the end user and greater ease in implementing AI in new projects.
+Zero Shot is a natural language processing technique that allows intelligent agents to recognize features that have not been previously trained. Zero Shot requires no training data, allowing you to shorten the AI creation process and classify sentences. Its benefits are: increased customer adoption, better understanding during the conversation with the end user and greater ease in implementing AI in new projects.
 Some important information about the model:
 
 - ZeroShot ranks higher in Portuguese, Spanish and English compared to the current market leaders:
@@ -59,20 +59,30 @@ The difference between the **Smart Wait for response** card and the **Automatic 
 ### Use cases
 
 Example use case for client context in the financial area:
+
 **phrase:** "I want to talk to an attendant"
 
-**categories:** [{"class":"HumanAssistance","context":"When the user wants to speak with an attendant or human specialist."},
+**categories:**
+
+```json
+[{"class":"HumanAssistance","context":"When the user wants to speak with an attendant or human specialist."},
 {"class":"Invoice","context":"When the user wants to generate a new payment invoice"},
 {"class":"Statement","context":"When the user wants to see their financial status"},
 {"class":"Debts","context":"When the user wants to access or renegotiate their debts."}]
+```
 
 **expected result:** "HumanAssistance"
 Example use case for client context in the educational area:
+
 **phrase:** "I would like to know my test score"
 
-**categories:** [{"class":"Calendar","context":"When the user wants to know the class schedule."},
+**categories:**
+
+```json
+[{"class":"Calendar","context":"When the user wants to know the class schedule."},
 {"class":"Subjects","context":"When the user needs to access information about the subjects."},
 {"class":"Scores","context":"When the user requests access to their scores"},
 {"class":"Teachers","context":"When more information about the teachers is requested."}]
+```
 
 **expected result:** "Scores"

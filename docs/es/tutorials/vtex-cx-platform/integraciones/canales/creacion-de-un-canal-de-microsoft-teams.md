@@ -25,7 +25,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 8. Selecciona tu grupo de recursos o crea uno nuevo.
 9. Si deseas crear un grupo de recursos, selecciona Crear Nuevo, ingresa el nombre del recurso, selecciona Aceptar y elige la ubicación requerida en la lista desplegable de Ubicación del Nuevo Grupo de Recursos.
 
-Selecciona el tipo de aplicación; se recomienda multiinquilino. Luego, selecciona Revisar + Crear.
+    Selecciona el tipo de aplicación; se recomienda multiinquilino. Luego, selecciona Revisar + Crear.
 
 10. Selecciona Crear si la validación es aprobada. Tomará unos momentos para que tu servicio de bot sea aprovisionado.
 11. Selecciona Ir al recurso. Tu aplicación está creada.

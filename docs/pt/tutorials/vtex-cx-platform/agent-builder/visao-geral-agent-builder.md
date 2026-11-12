@@ -182,7 +182,7 @@ Nessa página, você pode adicionar [arquivos](#arquivos), [sites](#sites) e [te
 
 #### Arquivos
 
-Para adicionar um arquivo à base de dados, clique em <i class="fas fa-plus" aria-hidden="true"></i>`Adicionar arquivo`.
+Para adicionar um arquivo à base de dados, clique em <i class="fas fa-plus" aria-hidden="true"></i> `Adicionar arquivo`.
 
 > ⚠️ Os arquivos devem ter extensão `.pdf`, `.doc`, `.docx`, `.txt`, `.xls` ou `.xlsx` e tamanho de até 50 MB.
 
@@ -197,7 +197,7 @@ Você também pode usar o campo de busca para encontrar um arquivo na base de co
 
 Para inserir um site na base de dados do agente, siga este passo a passo:
 
-1. Clique em <i class="fas fa-plus" aria-hidden="true"></i>`Adicionar site`.
+1. Clique em <i class="fas fa-plus" aria-hidden="true"></i> `Adicionar site`.
 2. Em seguida, copie a URL do site que deseja adicionar e cole-a no campo vazio.
 3. Clique em `Concluir`.
 
@@ -214,7 +214,7 @@ Nessa aba, você pode adicionar conteúdos em texto à base de conhecimento, org
 
 Para criar um segmento de texto, siga os passos a seguir:
 
-1. Clique em <i class="fas fa-plus" aria-hidden="true"></i>`Adicionar texto`.
+1. Clique em <i class="fas fa-plus" aria-hidden="true"></i> `Adicionar texto`.
 2. Digite um título para identificar o segmento.
 3. Insira o conteúdo na caixa de texto.
 4. Clique em `Salvar`.
@@ -234,4 +234,3 @@ Você também pode usar o campo de busca para encontrar um segmento pelo título
 Você pode criar fluxos de automação para interagir com um grupo de usuários e determinar as respostas do agente com base nas mensagens dos usuários.
 
 Para mais informações, acesse [Visão geral Fluxo de automação](https://help.vtex.com/pt/docs/tutorials/visao-geral-fluxo-de-automacao).
-

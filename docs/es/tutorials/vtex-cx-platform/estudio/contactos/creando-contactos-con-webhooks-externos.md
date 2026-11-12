@@ -30,7 +30,7 @@ Cuando ocurren estos eventos, deben dispararse solicitudes a la VTEX CX Platform
 
 ## Añadiendo contactos
 
-Puedes añadir un nuevo contacto enviando una solicitud **POST** a esta URL con los siguientes datos:
+Puedes añadir un nuevo contacto enviando una solicitud `POST` a esta URL con los siguientes datos:
 
 - **Name**: el nombre completo del contacto (cadena, opcional).
 - **Language**: el idioma preferido del contacto (código ISO de 3 dígitos, opcional).
@@ -44,7 +44,7 @@ Puedes añadir un nuevo contacto enviando una solicitud **POST** a esta URL con 
 
 Ejemplo:
 
-```
+```http
 POST /api/v2/contacts.json
 ​{​
 ​""name""​:​ ​""Manu Silva""​,​
@@ -65,13 +65,13 @@ POST /api/v2/contacts.json
 
 ## Actualizando contactos
 
-Una solicitud **POST** también puede ser utilizada para actualizar un contacto existente si especificas en la URL tanto su **UUID** como una de sus **URNs**. Solo los campos incluidos en el cuerpo serán actualizados en el contacto, los demás permanecerán intactos.
+Una solicitud `POST` también puede ser utilizada para actualizar un contacto existente si especificas en la URL tanto su **UUID** como una de sus **URNs**. Solo los campos incluidos en el cuerpo serán actualizados en el contacto, los demás permanecerán intactos.
 
 Si estás utilizando una **URN** en la URL, no la incluyas en el cuerpo de la solicitud. Además, si no existe un contacto con esa **URN**, crearemos uno nuevo y recibirás una respuesta **201** en ese caso.
 
 Ejemplo:
 
-```
+```http
 POST ​/​api​/​v2​/​contacts​.​json​?​uuid​=​09d23a05​-​47fe​-​11e4​-​bfe9​-​b8f6b119e9ab
 ​{​
 ​""name""​:​ ​""Manu Silva""​,​
@@ -94,11 +94,11 @@ POST ​/​api​/​v2​/​contacts​.​json​?​urn​=​tel​%​3A�
 
 ## Eliminando contactos
 
-Una solicitud **DELETE** también puede usarse para eliminar un contacto existente si especificas en la URL tanto su **UUID** como uno de sus **URNs**.
+Una solicitud `DELETE` también puede usarse para eliminar un contacto existente si especificas en la URL tanto su **UUID** como uno de sus **URNs**.
 
 Ejemplo:
 
-```
+```http
 DELETE /api/v2/contacts.json?uuid=27fb583b-3087-4778-a2b3-8af489bf4a93
 
 DELETE /api/v2/contacts.json?urn=tel%3A%2B250783835665
@@ -108,7 +108,7 @@ Recibirás una respuesta **204** si tu contacto fue eliminado correctamente, o u
 
 ## Añadiendo campos personalizados
 
-Una solicitud **POST** puede utilizarse para crear un nuevo campo de contacto. No necesitas especificar una clave, ya que se generará automáticamente.
+Una solicitud `POST` puede utilizarse para crear un nuevo campo de contacto. No necesitas especificar una clave, ya que se generará automáticamente.
 
 - **label**: El nombre o etiqueta de visualización (cadena).
 - **value_type**: Uno de los tipos de datos aceptados (cadena).
@@ -138,13 +138,13 @@ Recibirás un objeto (con la nueva clave del campo) si la respuesta es exitosa:
 
 ## Añadiendo un grupo de contacto
 
-Una solicitud **POST** puede utilizarse para crear un nuevo grupo de contacto. No es necesario especificar un **UUID**, ya que se generará automáticamente.
+Una solicitud `POST` puede utilizarse para crear un nuevo grupo de contacto. No es necesario especificar un **UUID**, ya que se generará automáticamente.
 
 - **name**: el nombre del grupo (cadena).
 
 Ejemplo:
 
-```
+```http
 POST /api/v2/groups.json
 ​{​
 ​""name""​:​ ​""""​
@@ -164,7 +164,7 @@ Recibirás un objeto de grupo si la respuesta es exitosa:
 
 ## Actualizando un grupo
 
-Una solicitud **POST** puede utilizarse para actualizar un grupo de contactos existente si especificas el **UUID** en la URL.
+Una solicitud `POST` puede utilizarse para actualizar un grupo de contactos existente si especificas el **UUID** en la URL.
 
 Ejemplo:
 
@@ -188,7 +188,7 @@ Recibirás un objeto de grupo actualizado si la respuesta es exitosa:
 
 ## Eliminando un grupo
 
-Una solicitud **DELETE** puede utilizarse para eliminar un grupo de contacto si especificas el **UUID** en la URL.
+Una solicitud `DELETE` puede utilizarse para eliminar un grupo de contacto si especificas el **UUID** en la URL.
 
 **Notas**: No puedes eliminar grupos que están asociados con campañas, flujos o triggers. Debes primero eliminar los objetos relacionados a través de la interfaz web.
 

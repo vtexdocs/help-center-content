@@ -32,7 +32,7 @@ A mensagem interativa oferece **respostas rápidas, lista de opções, solicita�
 
 ### Respostas rápidas
 
-1. No **cabeçalho**, escolha enviar uma **mídia ou um texto.**
+1. No **cabeçalho**, escolha enviar uma **mídia ou um texto**.
 2. Caso selecione a opção de texto para o cabeçalho, escreva no campo ao lado (texto do cabeçalho).
 3. Caso selecione a opção de mídia para o cabeçalho, use sua mídia fazendo upload do seu dispositivo ou colando a URL. **Sua mídia pode ser uma imagem, vídeo, arquivo em PDF ou áudio.**
 4. Preencha os campos com **mensagens pré-definidas**. Nesta etapa, você também pode **adicionar uma mensagem de rodapé.**

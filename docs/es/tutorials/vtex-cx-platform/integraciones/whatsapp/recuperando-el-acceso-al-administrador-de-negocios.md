@@ -33,7 +33,7 @@ Primero, es importante buscar y contactar a los posibles administradores del Adm
 
 Si, después de realizar todos estos procedimientos, aún no encuentras a la persona o no puedes restaurar el acceso al Administrador de Negocios, abre una solicitud con el equipo de especialistas de Meta solicitando una disputa administrativa. Para ello, será necesario presentar varios documentos de la persona legalmente asociada al negocio que representa al Administrador de Negocios. Esta persona debe tener una conexión directa con el CNPJ.
 
-**Si es necesario seguir este camino, abre un caso en Business Suite con los siguientes documentos a la mano:**
+Si es necesario seguir este camino, abre un caso en Business Suite con los siguientes documentos a la mano:
 
 1. Una copia de un documento de identificación con foto válido emitido por el gobierno del individuo que firma la declaración.
 2. [UNA DECLARACIÓN FIRMADA](https://docs.google.com/document/d/19KjVuEGSMHlm30BLw6SJJXpkLEipR3WO4Me83M4KVb4/edit) en formato de archivo PDF de una persona con suficiente conocimiento y autoridad sobre el asunto, que incluya todos los siguientes elementos:

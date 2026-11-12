@@ -45,17 +45,17 @@ Observe que um número pode ser impedido de passar para o próximo nível, ou at
 
 Essa limitação **NÃO** se aplica a mensagens enviadas em resposta a uma mensagem iniciada pelo usuário em um período de 24 horas.
 
-É possível aumentar o limite de mensagens para 1.000 por conta própria pelos métodos a seguir. No entanto, limites mais altos só serão alcançados por meio do [ajuste automático](https://developers.facebook.com/docs/whatsapp/messaging-limits/#automatic-scaling), que acontece após o limite aumentar para 1.000.
+É possível aumentar o limite de mensagens para 1.000 por conta própria pelos métodos a seguir. No entanto, limites mais altos só serão alcançados por meio do [ajuste automático](https://developers.facebook.com/docs/whatsapp/messaging-limits/#automatic-scaling), que acontece após o limite aumentar para 1.000.
 
 ### Classificação de qualidade do WhatsApp
 
 Como o WhatsApp criptografa as mensagens, ele depende do feedback do usuário para medir a qualidade das mensagens. O WhatsApp usa esse feedback para definir uma “classificação de qualidade” interna que pode afetar como os usuários se movem entre os níveis de limitação. Fatores como a frequência que o seu número é marcado em “denunciar spam” e “bloquear” podem influenciar a classificação de qualidade. Remetentes com uma baixa classificação de qualidade podem não estar qualificados para subir nos níveis apresentados anteriormente.
 
-Caso a verificação da empresa ou de identidade seja rejeitada, verifique se você está enviando mensagens de alta qualidade. Periodicamente, reavaliaremos sua atividade e a qualidade das mensagens. Com base nisso, poderemos [aprovar](https://developers.facebook.com/docs/whatsapp/messaging-limits/#increase-approvals) o aumento.
+Caso a verificação da empresa ou de identidade seja rejeitada, verifique se você está enviando mensagens de alta qualidade. Periodicamente, reavaliaremos sua atividade e a qualidade das mensagens. Com base nisso, poderemos [aprovar](https://developers.facebook.com/docs/whatsapp/messaging-limits/#increase-approvals) o aumento.
 
 Veja a seguir algumas diretrizes para enviar mensagens de alta qualidade:
 
-- Verifique se as mensagens seguem a [Política de Mensagens do WhatsApp Business](https://business.whatsapp.com/policy).
+- Verifique se as mensagens seguem a [Política de Mensagens do WhatsApp Business](https://business.whatsapp.com/policy).
 - Envie mensagens apenas a usuários que aceitaram receber contato da sua empresa.
 - Crie mensagens altamente personalizadas e úteis para os usuários. Evite enviar mensagens introdutórias ou de boas-vindas que sejam vagas demais.
 - Leve em conta a frequência: evite enviar muitas mensagens por dia aos clientes. Ao elaborar mensagens informativas, mantenha o foco no conteúdo e na concisão.

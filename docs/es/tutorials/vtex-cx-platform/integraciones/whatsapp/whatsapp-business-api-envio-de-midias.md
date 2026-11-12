@@ -54,7 +54,7 @@ Enviar los datos binarios en una solicitud `POST HTTP` es el método estándar p
 
 Carga de medios:
 
-```
+```http
 POST /v1/media
 Content-Type:
 
@@ -62,7 +62,7 @@ Content-Type:
 
 Carga de medios con `cURL`:
 
-```
+```bash
 curl -X POST \
 https://:/v1/media \
 -H 'Authorization: Bearer ' \
@@ -72,7 +72,7 @@ https://:/v1/media \
 
 En ambos casos, una respuesta exitosa devolverá el campo `id`, necesario para recuperar medios o enviar [mensajes de medios](https://developers.facebook.com/docs/whatsapp/on-premises/Messages/Media_Messages) a los clientes.
 
-```
+```json
 {
     "media": [
         {

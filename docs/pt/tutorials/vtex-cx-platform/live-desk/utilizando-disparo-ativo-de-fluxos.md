@@ -38,9 +38,7 @@ Para que um fluxo apareça como opção de envio no Live Desk, ele precisa estar
 5. Em **Nome**, insira `chats`.
 6. Clique em `Criar`.
 
-
 > ℹ️ Caso o rótulo `chats` já exista, selecione o fluxo desejado, clique na aba **Rótulo** e marque a caixa de seleção `chats`.
-
 
 ## Criar um fluxo com envio de modelo de mensagem
 
@@ -69,13 +67,12 @@ Além de habilitar o fluxo com o rótulo `chats`, é necessário ativar o dispar
 3. Clique em **Live Desk**.
 4. Clique na aba **Setores**.
 
-> ℹ️ Caso ainda não existam setores configurados no Live Desk, clique em `Novo setor` e preencha as informações solicitadas na página **Novo setor**.
+    > ℹ️ Caso ainda não existam setores configurados no Live Desk, clique em `Novo setor` e preencha as informações solicitadas na página **Novo setor**.
 
 5. No setor desejado, clique no botão de ações <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
 6. Clique em `Editar`.
 7. Em **Opções extras**, ative a opção **Disparo de modelos de mensagens ativo**.
 8. Clique em `Salvar`.
-
 
 ## Disparar um fluxo
 

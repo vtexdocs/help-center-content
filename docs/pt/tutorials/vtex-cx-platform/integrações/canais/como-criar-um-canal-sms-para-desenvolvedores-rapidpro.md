@@ -31,15 +31,15 @@ Essa integração do canal SMS à plataforma usa a funcionalidade interna de env
 
 ### Mensagens enviadas
 
-Quando precisamos enviar uma mensagem de saída, a plataforma fará um POST para esta URL com os parâmetros 'texto', 'para', 'de', 'canal' e 'id'. Exemplo:
+Quando precisamos enviar uma mensagem de saída, a plataforma fará um `POST` para esta URL com os parâmetros 'texto', 'para', 'de', 'canal' e 'id'. Exemplo:
 
-POST [https://google.com.br](https://google.com.br/) Tipo de conteúdo: application/json Body: {"id": 1241244, "texto": "O amor é paciente. O amor é gentil.", "Para": "\+250788123123", "to\_no\_plus": "250788123123", "from": "\+5582999489287", "from\_no\_plus": "5582999489287", "channel": 346}
+POST [https://google.com.br](https://google.com.br/) Tipo de conteúdo: application/json Body: {"id": 1241244, "texto": "O amor é paciente. O amor é gentil.", "Para": "\+250788123123", "to\_no\_plus": "250788123123", "from": "\+5582999489287", "from\_no\_plus": "5582999489287", "channel": 346}
 
 ### Mensagens recebidas
 
-Quando uma nova mensagem é recebida pelo seu serviço, ela deve nos notificar com um POST para a seguinte URL, passando os seguintes parâmetros: 'from' e 'text'. Opcionalmente, os chamadores também podem enviar um parâmetro 'date' no formato ISO\-8601 (ex: 2012\-04\-23T18:25:43\.511Z) para especificar a hora em que a mensagem foi recebida. Exemplo:
+Quando uma nova mensagem é recebida pelo seu serviço, ela deve nos notificar com um `POST` para a seguinte URL, passando os seguintes parâmetros: 'from' e 'text'. Opcionalmente, os chamadores também podem enviar um parâmetro 'date' no formato ISO\-8601 (ex: 2012\-04\-23T18:25:43\.511Z) para especificar a hora em que a mensagem foi recebida. Exemplo:
 
-POST [https://rapidpro.ilhasoft.mobi/c/ex/a86f686f\-9168\-4dd9\-a03e\-77f11b265b56/receive](https://rapidpro.ilhasoft.mobi/c/ex/a86f686f-9168-4dd9-a03e-77f11b265b56/receive) from\=%2B250788123123\&text\=Love\+is\+patient.\+Love\+is\+kind.\&date\=2012\-04\-23T18:25:43\.511Z
+POST [https://rapidpro.ilhasoft.mobi/c/ex/a86f686f\-9168\-4dd9\-a03e\-77f11b265b56/receive](https://rapidpro.ilhasoft.mobi/c/ex/a86f686f-9168-4dd9-a03e-77f11b265b56/receive) from\=%2B250788123123\&text\=Love\+is\+patient.\+Love\+is\+kind.\&date\=2012\-04\-23T18:25:43\.511Z
 
 1. **API REST (External API)**
 
@@ -62,4 +62,4 @@ No caso de uma conexão SMSC, é necessário conectar-se a uma Rede Privada Virt
 
 Depois que os itens acima estiverem totalmente preenchidos, o VTEX CX Platform se conecta à VPN e notifica o agregador para rotear as mensagens recebidas para o servidor do VTEX CX Platform, e a integração é iniciada. Durante essas fases, é necessário entrar em contato diretamente com os membros da equipe do VTEX CX Platform para que os contatos possam ser usados:
 
-- Email: [suporte@weni.ai](mailto:suporte@weni.ai)
+- Email: [suporte@weni.ai](mailto:suporte@weni.ai)

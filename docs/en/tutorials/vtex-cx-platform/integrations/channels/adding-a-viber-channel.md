@@ -21,7 +21,7 @@ You can add a Viber public account as a channel on the platform.
 
 To create the channel, click on **"Apps > Discovery"** within your project:
 
-Then, click the "Add" button, and a confirmation window will open.
+Then, click the `Add` button, and a confirmation window will open.
 
 You can find the application under **My Apps**. By clicking on the indicated location in the image > **Configure**, a new window will open.
 
@@ -33,7 +33,7 @@ The main process is to approve a Viber's public account and collect the applicat
 
 Install Viber's mobile app and go through the registration process for your mobile phone number.
 
-Having a valid account, access [Viber's admin panel](https://partners.viber.com/login) and link it to a public account.
+Having a valid account, access [Viber's admin panel](https://partners.viber.com/login) and link it to a public account.
 
 You will receive a verification token on your mobile phone, and confirm it as well.
 

@@ -17,7 +17,6 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 Each action card runs a command in the conversation. Use the list below to go directly to a card.
 
-
 - Send the contact a message
 - Send somebody else a message
 - Label the incoming message

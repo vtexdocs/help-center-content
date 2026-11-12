@@ -27,11 +27,11 @@ After you receive approval from your developer account, Twitter will send you a 
 
 2. Next, you will need to create a [development environment](https://developer.twitter.com/en/portal/petition/essential/basic-info) for your application to run. You will want to create an environment for the "Account Activity API / Sandbox". You can name it however you want, but we recommend "production". Be sure to select the application you created in step 1.
 
-- This name should be used when connecting the account on the VTEX CX Platform.
+    - This name should be used when connecting the account on the VTEX CX Platform.
 
 3. Now you need to create the keys and tokens for your application, which you need when creating your channel. Go back to your app and select the Keys and Tokens tab. Click Regenerate for the Consumer API Keys and Access Token & Access Token Secret sections. Keys and tokens must be generated with the "Read, write, and direct messages" permissions.
 
-Make sure your account is enabled to receive direct messages from anyone. You can do this in Twitter's security/privacy settings.
+    Make sure your account is enabled to receive direct messages from anyone. You can do this in Twitter's security/privacy settings.
 
 ## Connect the channel on the platform
 
@@ -39,4 +39,4 @@ Make sure your account is enabled to receive direct messages from anyone. You ca
 
 5. Then, click on the **My Apps** tab; the app will be in the **Installed Apps** section. Fill out the page with the previously collected data, and don’t forget to enter the "Environment Name" exactly as it was configured in step 2. Once completed, click **Save Changes**, and your channel will be connected.
 
-**Your channel is now connected. You can test sending and receiving direct messages.**
+Your channel is now connected. You can test sending and receiving direct messages.

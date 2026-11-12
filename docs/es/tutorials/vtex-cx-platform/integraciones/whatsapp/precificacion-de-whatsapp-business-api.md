@@ -61,7 +61,7 @@ El envío de varios modelos de la misma categoría en una conversación abierta 
 
 Las conversaciones con punto de entrada gratuito son aquellas en las que el cliente contacta a la empresa a través de un botón de llamada a la acción en anuncios de clic para WhatsApp o en Páginas de Facebook. Dado que el usuario de WhatsApp Business ya está siendo cobrado por el anuncio publicado en las redes sociales, no se le cobrará por ningún modelo de mensaje enviado en esa conversación durante un período de 72 horas.
 
-**La conversación iniciada es gratuita, sin embargo, el anuncio es cobrado.**
+La conversación iniciada es gratuita, sin embargo, el anuncio es cobrado.
 
 Recuerda que: Cada cuenta de WhatsApp Business (WABA) tiene 1.000 conversaciones iniciadas por el usuario gratuitas por mes, independientemente de la cantidad de teléfonos incluidos. El límite de conversaciones gratuitas se restablece cada mes según la zona horaria asociada a la WABA.
 
@@ -71,7 +71,7 @@ Las conversaciones de marketing, utilidad, autenticación y servicio duran 24 ho
 
 ## Precios
 
-**Conversaciones iniciadas por la empresa:**
+Conversaciones iniciadas por la empresa:
 
 - **Utilidad**: Se utiliza para facilitar una solicitud, transacción o actualización sobre transacciones en curso, incluyendo notificaciones post-venta y estados de facturas recurrentes.
 - **Autenticación**: Se emplea para la autenticación de usuarios mediante contraseñas de un solo uso en varias etapas del proceso de inicio de sesión. Por ejemplo, verificación de cuenta, recuperación de cuenta y desafíos de integridad.

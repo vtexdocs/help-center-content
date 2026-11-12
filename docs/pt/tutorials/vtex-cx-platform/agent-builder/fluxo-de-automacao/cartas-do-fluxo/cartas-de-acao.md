@@ -52,7 +52,7 @@ Nem todos os canais têm suporte para botões de texto. Atualmente os canais que
 Também é possível enviar _arquivos_ (anexos) para um usuário. Esses anexos podem ser fotos, vídeos, áudios e documentos. Para enviar esses anexos, coloque o link das mídias, ou escolher o arquivo pelo seletor de arquivos do seu computador. Atualmente, você pode adicionar até 3 anexos por carta.
 
 Sempre verifique se o canal em que seu público está trabalhando tem suporte para a mídia que você quer enviar.
-  
+
 - **Avançado**
 
 A opção _Avançados_ (Configuração avançada) permite ativar o envio de mensagens para todos os destinos, ou seja, enviar mensagens para todos os canais que o contato possui vínculo, e não apenas para o canal preferencial. Depois disso, o canal escolhido pelo usuário para responder virará o canal preferencial para aquela conversa.

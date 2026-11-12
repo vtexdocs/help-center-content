@@ -21,7 +21,7 @@ Aquí podrás ver soluciones para posibles obstáculos, rechazos y errores en el
 
 Una vez que hayas creado el modelo, podrás enviarlo para su aprobación. Puede tomar hasta 24 horas para que se tome una decisión de aprobación. Una vez tomada la decisión, aparecerá una notificación en el Administrador de WhatsApp. Además, META enviará un correo electrónico a los administradores del Administrador de Negocios. Si te has suscrito a las actualizaciones sobre cambios en el estado del modelo de mensaje, META también enviará una notificación de webhook. Consulta [Cómo monitorear cambios de estado.](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#monitoring-status-changes)
 
-Si es aprobado, el modelo de mensaje tendrá el estado **Activo - Calidad pendiente.** Con esto, podrás comenzar a enviarlo a los clientes. Si es rechazado, el modelo de mensaje puede ser [editado](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#editing) y reenviado para su aprobación. Otra opción es [apelar](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#appeals) la decisión.
+Si es aprobado, el modelo de mensaje tendrá el estado **Activo - Calidad pendiente**. Con esto, podrás comenzar a enviarlo a los clientes. Si es rechazado, el modelo de mensaje puede ser [editado](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#editing) y reenviado para su aprobación. Otra opción es [apelar](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#appeals) la decisión.
 
 ## Ejemplos
 
@@ -34,9 +34,9 @@ Para incluir un ejemplo en el envío, primero crea tu modelo, agregando las vari
 ## Motivos comunes de rechazo
 
 - Estos son los errores más comunes que conducen al rechazo del envío y deben evitarse:
-- Faltan parámetros variables o tienen claves incompatibles. El formato correcto es {{1}}.
+- Faltan parámetros variables o tienen claves incompatibles. El formato correcto es `{{1}}`.
 - Los parámetros variables tienen caracteres especiales, como \#, $ o %.
-- Los parámetros variables no son secuenciales. Por ejemplo, {{1}}, {{2}}, {{4}} y {{5}} están definidos. Sin embargo, el parámetro {{3}} no existe.
+- Los parámetros variables no son secuenciales. Por ejemplo, `{{1}}`, `{{2}}`, `{{4}}` y `{{5}}` están definidos. Sin embargo, el parámetro `{{3}}` no existe.
 - El modelo de mensaje presenta contenido que viola la Política Comercial de WhatsApp: cuando promocionas la venta de bienes y servicios, todos los medios y mensajes relacionados con tus productos se consideran transacciones. Esto incluye descripciones, precios, tarifas, impuestos y/o divulgaciones legales obligatorias. Las transacciones deben cumplir con la Política Comercial de WhatsApp.
 - El modelo de mensaje tiene contenido que viola la Política de WhatsApp Business: no solicites identificadores sensibles de los usuarios. Por ejemplo, no pidas a los clientes que compartan números completos de tarjetas de crédito y débito individuales, números de cuenta financiera, número de identificación nacional ni otra información confidencial. Esto incluye no solicitar a los usuarios documentos que puedan contener identificadores sensibles. Solicitar identificadores parciales (por ejemplo, los últimos 4 dígitos del CPF) es aceptable.
 - El contenido es potencialmente abusivo o amenazante. Por ejemplo, amenaza al cliente con acciones legales o vergüenza pública.
@@ -105,15 +105,15 @@ Disponible para empresas configuradas en Brasil, México y Colombia el 7 de sept
 
 Si un modelo de mensaje alcanza la clasificación de calidad más baja (estado **Activo - Calidad baja**), se pausará automáticamente por un período para proteger la clasificación de calidad de los números de teléfono que lo usaron. Las duraciones de las pausas son las siguientes:
 
-Primera instancia: **Pausado por 3 horas.**
+Primera instancia: **Pausado por 3 horas**.
 
-Segunda instancia: **Pausado por 6 horas.**
+Segunda instancia: **Pausado por 6 horas**.
 
-Tercera instancia: **Desactivado.**
+Tercera instancia: **Desactivado**.
 
-Cuando un modelo de mensaje se pausa (estado **Pausado**), no se puede enviar a los clientes. Por lo tanto, debes detener las campañas de mensajes automáticos que dependan de ese modelo. Aunque el intento de envío de un modelo pausado no se cobrará ni contará como límite de mensajes, la API lo rechazará. Reanuda estas campañas solo cuando el estado del modelo vuelva a ser **Activo.**
+Cuando un modelo de mensaje se pausa (estado **Pausado**), no se puede enviar a los clientes. Por lo tanto, debes detener las campañas de mensajes automáticos que dependan de ese modelo. Aunque el intento de envío de un modelo pausado no se cobrará ni contará como límite de mensajes, la API lo rechazará. Reanuda estas campañas solo cuando el estado del modelo vuelva a ser **Activo**.
 
-Puedes editar un modelo pausado si crees que esto reducirá los comentarios negativos. Sin embargo, si lo haces, el modelo tendrá el estado **En revisión** y no podrá ser enviado a los clientes hasta que sea aprobado nuevamente y tenga el estado **Activo.**
+Puedes editar un modelo pausado si crees que esto reducirá los comentarios negativos. Sin embargo, si lo haces, el modelo tendrá el estado **En revisión** y no podrá ser enviado a los clientes hasta que sea aprobado nuevamente y tenga el estado **Activo**.
 
 También puedes cambiar la lógica comercial (definición de público objetivo, parámetros de entrega, entre otros) si crees que esto está influyendo en los comentarios negativos.
 
@@ -129,7 +129,7 @@ El modelo se reanudará automáticamente después de que se complete la pausa de
 
 La clasificación de calidad del modelo también se establecerá en un valor basado en los comentarios más recientes.
 
-Así como con las notificaciones de pausa, enviaremos notificaciones a través del Administrador de WhatsApp, por correo electrónico y webhook cuando el estado del modelo se establezca como **Activo.**
+Así como con las notificaciones de pausa, enviaremos notificaciones a través del Administrador de WhatsApp, por correo electrónico y webhook cuando el estado del modelo se establezca como **Activo**.
 
 ## Apelaciones
 
@@ -137,12 +137,12 @@ Si el envío es rechazado, puedes hacer una apelación. Ten en cuenta que las ap
 
 En el **Administrador de WhatsApp:**
 
-1. Pasa el cursor sobre el icono del sobre **(Herramientas de la cuenta)** y haz clic en **Modelos de mensaje.**
+1. Pasa el cursor sobre el icono del sobre **(Herramientas de la cuenta)** y haz clic en **Modelos de mensaje**.
 2. Si tienes varias cuentas de WhatsApp Business, utiliza el menú desplegable en la esquina superior derecha para seleccionar la cuenta cuyos modelos quieras gestionar.
 3. Encuentra el modelo de mensaje que quieras editar y haz clic en él.
 4. Edita el contenido del modelo.
-5. Haz clic en el botón **Agregar ejemplo.** Agrega las variables de valores e imágenes.
-6. Haz clic en **Enviar.**
+5. Haz clic en el botón **Agregar ejemplo**. Agrega las variables de valores e imágenes.
+6. Haz clic en **Enviar**.
 
 META analizará y tomará una decisión en un plazo de 24 horas.
 

@@ -33,4 +33,4 @@ Para editar cuándo se enviará un mensaje o se iniciará un flujo, elegir otro 
 
 - A continuación, define el tiempo en el que deseas que tu evento comience.
 
-- Haz clic en "Actualizar evento" para guardar los cambios.
+- Haz clic en `Actualizar evento` para guardar los cambios.

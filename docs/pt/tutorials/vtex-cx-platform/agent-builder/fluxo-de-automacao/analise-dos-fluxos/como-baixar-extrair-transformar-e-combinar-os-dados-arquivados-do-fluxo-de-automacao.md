@@ -34,7 +34,7 @@ Por fim, em cada arquivo, você poderá verificar o conteúdo, o período (mês)
 - Ao clicar em conectar você deve alterar a opção da caixa de seleção para Todos os Arquivos.
 - Selecione o arquivo desejado e clique em abrir.
 
-No Power Query irá aparecer a opção para Importar os arquivos, se você deseja importá-los para o Power BI, ou a opção DirectQuery, que faz a conexão direta com o arquivo sem fazer sua importação.  Use Importar, pois o arquivo pode ser alterado ou removido da pasta.
+No Power Query irá aparecer a opção para Importar os arquivos, se você deseja importá-los para o Power BI, ou a opção DirectQuery, que faz a conexão direta com o arquivo sem fazer sua importação.  Use Importar, pois o arquivo pode ser alterado ou removido da pasta.
 
 Ao fazer a importação do arquivo, você verá que ele já irá expandir todas as colunas que contenham dados.
 

@@ -19,7 +19,7 @@ Here are all the people you will be in contact with. There are two ways for a us
 
 - **Actively**, by sending a message to one of the channels registered by the organization.
 
-- **Via the import contacts button**, which allows you to import a spreadsheet (following specific rules) with contacts who have not yet interacted with the platform.To access this information, go to your project and click on the "Studio" module in the left sidebar menu.
+- **Via the import contacts button**, which allows you to import a spreadsheet (following specific rules) with contacts who have not yet interacted with the platform.To access this information, go to your project and click on the `Studio` module in the left sidebar menu.
 
 When selecting the "Contacts" option, you will encounter the following features:
 

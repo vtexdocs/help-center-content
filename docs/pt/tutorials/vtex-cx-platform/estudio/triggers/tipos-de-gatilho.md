@@ -60,7 +60,7 @@ Use este trigger para iniciar um fluxo após receber uma mensagem não capturada
 - Em "Fluxo", você pode escolher qual fluxo será iniciado
 - Em "Somente grupos", você pode escolher o(s) grupo(s) em que o trigger será incluído ou não incluído
 - se você deixar o campo vazio, o trigger será aplicado a todos os contatos
-- Clique em "Criar Trigger"
+- Clique em `Criar Trigger`
 
 ## Iniciar um fluxo futuramente ou segundo agendamento
 
@@ -70,7 +70,7 @@ Use este trigger para agendar um fluxo em um momento no futuro, o repita diariam
 - Escolha a data que gostaria de agendar
 - Logo abaixo, em Repeat. Você pode optar por repetir o fluxo diariamente, semanalmente ou mensalmente (sendo opcional tal uso)
 - Escolha o fluxo que você deseja iniciar, para quais contatos ou grupos o fluxo será ou não transmitido.
-- Clique em "Criar Trigger"
+- Clique em `Criar Trigger`
 
 ## Iniciar um fluxo depois de receber uma chamada
 
@@ -78,7 +78,7 @@ Use este trigger para agendar um fluxo em um momento no futuro, o repita diariam
 - Em "Fluxo", você pode escolher qual fluxo será iniciado
 - Em "Somente grupos", você pode escolher o(s) grupo(s) em que o trigger será incluído ou não incluído
 - se você deixar o campo vazio, o trigger será aplicado a todos os contatos
-- Clique em "Criar Trigger"
+- Clique em `Criar Trigger`
 
 ## Iniciar um fluxo depois de uma chamada perdida
 
@@ -88,7 +88,7 @@ Use este trigger após uma chamada perdida.
 - Em "Fluxo", você pode escolher qual fluxo será iniciado
 - Em "Somente grupos", você pode escolher o(s) grupo(s) em que o trigger será incluído ou não incluído
 - se você deixar o campo vazio, o trigger será aplicado a todos os contatos
-- Clique em "Criar Trigger"
+- Clique em `Criar Trigger`
 
 ## Iniciar um fluxo posterior ao fechamento do ticket com agente humano
 
@@ -98,4 +98,4 @@ Use este trigger para disparar o fluxo de encerramento de atendimento humano no 
 - Em "Fluxo", você pode escolher qual fluxo será iniciado
 - Em "Somente grupos", você pode escolher o(s) grupo(s) em que o trigger será ou não incluído
 - se você deixar o campo vazio, o trigger será aplicado a todos os contatos
-- Clique em "Criar Trigger"
+- Clique em `Criar Trigger`

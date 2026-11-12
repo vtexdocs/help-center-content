@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-When integrating the web channel, you can customize aspects of the Web Chat such as color, message spacing time, message indicators, avatar, and much more! This way, the VTEX CX Platform offers everything tailored to your brand. Below, we’ll guide you step by step to complete the integration.​
+When integrating the web channel, you can customize aspects of the Web Chat such as color, message spacing time, message indicators, avatar, and much more! This way, the VTEX CX Platform offers everything tailored to your brand. Below, we’ll guide you step by step to complete the integration.
 
 ## Create a web channel
 
@@ -27,16 +27,16 @@ When integrating the web channel, you can customize aspects of the Web Chat such
 
 6. When you open the **VTEX CX Platform Web Chat** customization panel, you will have the following options to configure:
 
-- **Chat Title**;
-- **Chat Subtitle** (optional);
-- **Trigger Message**: When enabled, it is the first message your chatbot sends (optional);
-- **Chat Notification Message** (optional);
-- **Show Full-Screen Button** (optional);
-- **Unread Messages Indicator** (optional);
-- **Keep Message History** (optional);
-- **Time Between Messages**.
+    - **Chat Title**;
+    - **Chat Subtitle** (optional);
+    - **Trigger Message**: When enabled, it is the first message your chatbot sends (optional);
+    - **Chat Notification Message** (optional);
+    - **Show Full-Screen Button** (optional);
+    - **Unread Messages Indicator** (optional);
+    - **Keep Message History** (optional);
+    - **Time Between Messages**.
 
-These options allow you to tailor the chat experience to better match your brand and user preferences.
+    These options allow you to tailor the chat experience to better match your brand and user preferences.
 
 7. Moving on to the **Appearances** tab, you have the option to customize the chat using CSS. Additionally, you can upload an image in PNG, JPG, or JPEG format to serve as your avatar, and you can also change the chat's color to match your brand.
 

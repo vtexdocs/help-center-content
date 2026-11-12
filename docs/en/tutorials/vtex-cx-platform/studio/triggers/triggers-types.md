@@ -31,7 +31,7 @@ To facilitate navigation in this article, if you want to go directly to a specif
 
 ### To create a new keyword trigger
 
-- Click on the "Create a keyword that starts a flow" button
+- Click on the `Create a keyword that starts a flow` button
 
 - In a keyword, you can define a word to function as a keyword
 
@@ -51,7 +51,7 @@ To facilitate navigation in this article, if you want to go directly to a specif
 
 Using this trigger to add an entry contact to a group. This trigger is useful for managing contacts who want to disassociate a group using the keywords "stop" or "freeze a record".
 
-**To create a trigger with a keyword that links contacts to a group:**
+To create a trigger with a keyword that links contacts to a group:
 
 - Click the "Create a message keyword that allows people to join a group" button:
 
@@ -73,7 +73,7 @@ Use this trigger to start a stream after receiving an uncaught message (the mess
 
 - In "Groups only", you can choose the groups in which the trigger will be applied. If you leave the field empty, the trigger will be applied to all contacts
 
-- Click on "Create Trigger"
+- Click on `Create Trigger`
 
 ### Start a flow in the future or on schedule
 
@@ -85,11 +85,11 @@ Use this trigger to schedule a flow at a time in the future, repeat it daily, we
 
 - Optional: you can choose to repeat the flow daily, weekly or monthly
 
-- Click on the "Create Trigger" box
+- Click on the `Create Trigger` box
 
 ### Start a flow after receiving a call
 
-- Click the "Create a stream after receiving a call" button:
+- Click the `Create a stream after receiving a call` button:
 
 - Under "Flow", you can choose which flow to start
 
@@ -97,23 +97,23 @@ Use this trigger to schedule a flow at a time in the future, repeat it daily, we
 
 - if you leave the field empty, the trigger will be applied to all contacts
 
-- Click on "Create trigger".
+- Click on `Create trigger`.
 
 ### Start a flow after a missed call
 
 Use this trigger after a missed call.
 
-- Click the "Start a flow after a missed call" button
+- Click the `Start a flow after a missed call` button
 
 - Under "Flow", you can choose which flow to start
 
-- Click on "Create Trigger"
+- Click on `Create Trigger`
 
 ### Start a flow after closing a ticket with a human agent
 
 Use this trigger to initiate the flow for closing human support in Live Desk.
 
-- Click on the "Start a flow after a ticket is closed" button:
+- Click on the `Start a flow after a ticket is closed` button:
 
 - In "Flow," you can choose which flow will be initiated
 
@@ -121,4 +121,4 @@ Use this trigger to initiate the flow for closing human support in Live Desk.
 
 - if you leave this field blank, the trigger will be applied to all contacts
 
-- Click "Create Trigger."
+- Click `Create Trigger`.

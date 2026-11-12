@@ -33,7 +33,7 @@ Teniendo una cuenta válida, ya puede acceder al panel de administración de Vib
 
 Usted recibirá un token de verificación en su celular, el cual debe confirmar.
 
-En el panel izquierdo, seleccione "Create bot account".
+En el panel izquierdo, seleccione `Create bot account`.
 
 Llene los requisitos y haga clic en "create" al final de la página.
 
@@ -41,8 +41,8 @@ Llevará algunos segundos para procesar y una nueva ventana será exhibida con e
 
 #### Concluir la configuración del canal
 
-Ahora vuelva al proceso de edición de canal, pegue el Token y presione "Guardar los cambios".
+Ahora vuelva al proceso de edición de canal, pegue el Token y presione `Guardar los cambios`.
 
 ## Publicar la cuenta
 
-Una etapa final es necesaria. Acceda a la aplicación de Viber en el celular, abra "Más", seleccione "Descubra" y abra la guía Mina. Seleccione la página que acabó de crear y verá la opción "Publicar".
+Una etapa final es necesaria. Acceda a la aplicación de Viber en el celular, abra "Más", seleccione `Descubra` y abra la guía Mina. Seleccione la página que acabó de crear y verá la opción "Publicar".

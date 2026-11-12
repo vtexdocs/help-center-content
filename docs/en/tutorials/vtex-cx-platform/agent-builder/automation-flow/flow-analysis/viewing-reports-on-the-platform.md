@@ -25,7 +25,7 @@ In the **_Results_** tab we have two report options:
 
 1. **Overview:**
 
-This option allows us to have an overview of users who have passed through the flow.
+    This option allows us to have an overview of users who have passed through the flow.
 
 2. **Runs:**
 

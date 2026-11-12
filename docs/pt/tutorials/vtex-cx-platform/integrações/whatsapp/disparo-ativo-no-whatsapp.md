@@ -49,6 +49,6 @@ Por fim, para verificar se tudo ocorreu corretamente, acesse **Contatos** (em **
 
 ## Disparar pela lista de contatos
 
-Também é possível enviar uma Template Message em **Contatos > Contatos**, selecionando o contato para o qual deseja fazer o envio e clicando no menu de opções, localizado no canto superior direito. Depois, selecione "Iniciar no Fluxo", escolher o fluxo e enviar.
+Também é possível enviar uma Template Message em **Contatos > Contatos**, selecionando o contato para o qual deseja fazer o envio e clicando no menu de opções, localizado no canto superior direito. Depois, selecione `Iniciar no Fluxo`, escolher o fluxo e enviar.
 
 O processo de **disparo ativo** é o mesmo para todos os canais de comunicação, porém a criação da Template Message é **exclusiva** para o canal WhatsApp. Isso significa que, enquanto o uso da Template Message não é necessário para outros canais, no WhatsApp só é possível enviar um modelo de mensagem (início do fluxo). Nos demais canais, é possível enviar mais de uma mensagem, sem limitações prévias.

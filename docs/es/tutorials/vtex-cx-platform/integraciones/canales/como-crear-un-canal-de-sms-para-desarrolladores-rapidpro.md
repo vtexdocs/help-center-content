@@ -31,7 +31,7 @@ Esta es una forma de integrar el canal SMS a la plataforma, ya que tiene funcion
 
 Cuando necesitamos enviar un mensaje saliente, se hará un POST a esta URL con los parámetros 'texto', 'para', 'de', 'canal' e 'id'. Ejemplo:
 
-```
+```http
 POST https://google.com.br Tipo de contenido: application/json Body: {"id": 1241244, "texto": "El amor es paciente. El amor es amable.", "para": "\+250788123123", "to\_no\_plus": "250788123123", "from": "\+5582999489287", "from\_no\_plus": "5582999489287", "channel": 346}
 ```
 
@@ -39,8 +39,8 @@ POST https://google.com.br Tipo de contenido: application/json Body: {"id": 1241
 
 Cuando su servicio recibe un nuevo mensaje, debe notificarnos mediante un POST a la siguiente URL, pasando los parámetros 'from' y 'text'. Opcionalmente, los llamantes también pueden enviar un parámetro 'date' en formato ISO-8601 (ej: 2012-04-23T18:25:43.511Z) para especificar la hora en que se recibió el mensaje. Ejemplo:
 
-```
-POST [https://rapidpro.ilhasoft.mobi/c/ex/a86f686f-9168-4dd9-a03e-77f11b265b56/receive](https://rapidpro.ilhasoft.mobi/c/ex/a86f686f-9168-4dd9-a03e-77f11b265b56/receive) from=%2B250788123123&text=El+amor+es+paciente.+El+amor+es+amable.&date=2012-04-23T18:25:43.511Z
+```http
+POST [https://rapidpro.ilhasoft.mobi/c/ex/a86f686f-9168-4dd9-a03e-77f11b265b56/receive](https://rapidpro.ilhasoft.mobi/c/ex/a86f686f-9168-4dd9-a03e-77f11b265b56/receive) from=%2B250788123123&text=El+amor+es+paciente.+El+amor+es+amable.&date=2012-04-23T18:25:43.511Z
 ```
 
 1. **API REST (API Externa)**

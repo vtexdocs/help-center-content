@@ -61,7 +61,7 @@ Además de activar el flujo con la etiqueta `chats`, debes activar el disparo de
 3. Haz clic en **Live Desk**.
 4. Haz clic en la pestaña **Sectores**.
 
-> ℹ️ Si aún no hay sectores configurados en Live Desk, haz clic en `Nuevo sector` y completa la información solicitada en la página **Nuevo departamento**.
+    > ℹ️ Si aún no hay sectores configurados en Live Desk, haz clic en `Nuevo sector` y completa la información solicitada en la página **Nuevo departamento**.
 
 5. En el departamento deseado, haz clic en el botón de acciones <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
 6. Haz clic en `Editar`.

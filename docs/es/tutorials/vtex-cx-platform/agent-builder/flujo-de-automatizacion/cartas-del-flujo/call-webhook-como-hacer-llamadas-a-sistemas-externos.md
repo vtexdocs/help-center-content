@@ -17,20 +17,20 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 La sigla **API** corresponde a las palabras en inglés **" Application Programming Interface"**. En español, "Interfaz de Programación de Aplicaciones". Son una forma de **integrar sistemas** , posibilitando beneficios como la seguridad de los datos y la facilidad en el intercambio entre información.
 
-Actualmente, la capacidad de conectarse e integrarse con otros sistemas es una funcionalidad esencial para la mayoría de las soluciones hoy en día. Por ello, tenemos una carta de acción para utilizar en los flujos justamente para esa función: **Llamar Webhook.**
+Actualmente, la capacidad de conectarse e integrarse con otros sistemas es una funcionalidad esencial para la mayoría de las soluciones hoy en día. Por ello, tenemos una carta de acción para utilizar en los flujos justamente para esa función: **Llamar Webhook**.
 
 ## Llamar webhook
 
 La carta de **Llamar Webhook** es la responsable de la conexión entre la VTEX CX Platform y otros sistemas externos, a continuación, tenemos un poco sobre su anatomía:
 
-1. Método de la solicitud: Donde se define cuál será el método para su solicitud de API (GET, POST, PUT o DELETE).
+1. Método de la solicitud: Donde se define cuál será el método para su solicitud de API (`GET`, `POST`, `PUT` o DELETE).
 2. URL de la solicitud: Donde se coloca la URL de la solicitud para la API.
 3. Encabezado de la solicitud: Donde se coloca el encabezado de la solicitud junto con información como tokens de autorización y tipos de contenido.
-4. Cuerpo de la solicitud: Donde se agrega un cuerpo para su solicitud (usado para POST y PUT).
+4. Cuerpo de la solicitud: Donde se agrega un cuerpo para su solicitud (usado para `POST` y PUT).
 
 ## Cómo formatear correctamente el cuerpo de la solicitud
 
-Normalmente, para el cuerpo de las solicitudes POST y PUT, utilizamos la notación JSON para enviar la información solicitada por la API. A continuación, sigue el ejemplo de un cuerpo en JSON:
+Normalmente, para el cuerpo de las solicitudes `POST` y `PUT`, utilizamos la notación JSON para enviar la información solicitada por la API. A continuación, sigue el ejemplo de un cuerpo en JSON:
 `{ ""platform"":""push"", ""author"":""john"" }`
 
 ¿Cómo podemos reproducir esta notación utilizando la carta _Call Webhook_? En la plataforma, utilizamos las funciones `@json y @object` para esta construcción, siendo la primera para señalar qué notación traduciremos los valores, y la segunda para señalar el comienzo y el fin de nuestras llaves. Traduciendo el ejemplo anterior a la notación utilizada en la plataforma, tenemos:

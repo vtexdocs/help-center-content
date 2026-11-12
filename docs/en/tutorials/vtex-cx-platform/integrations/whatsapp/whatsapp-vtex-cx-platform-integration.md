@@ -106,7 +106,7 @@ To view conversation volume, follow the steps below:
 1. In **Filter by**, select the date range in `DD/MM/YYYY ~ DD/MM/YYYY` format.
 2. After filtering by time range, the **Number of conversations** table shows the number of conversations for each category.
 3. If you want to receive a detailed report of the conversations for the selected time range, click `Request report`.
-  - You can receive message details from up to 6 months ago.
+    - You can receive message details from up to 6 months ago.
 
 ### Account verification
 
@@ -117,14 +117,14 @@ In the **Account verification** tab, you can verify your account with Meta. Veri
 To verify your account, follow these steps:
 
 1. Select the following checkboxes:
-  - This company is a legal entity.
-  - The account admin is a company representative.
-  - The company follows the WhatsApp Business Policy.
-2. Click <i class="fas fa-plus" aria-hidden="true"></i>`Upload files` to upload your company's documents.
+    - This company is a legal entity.
+    - The account admin is a company representative.
+    - The company follows the WhatsApp Business Policy.
+2. Click <i class="fas fa-plus" aria-hidden="true"></i> `Upload files` to upload your company's documents.
 3. Finally, click `Submit`.
 
 Below are some suggested documents for verifying your account with Meta:
 
 | Country | Documents |
 | --- | --- |
-| Brazil | - Company registration document or license (for example, CNPJ) <br> - Articles of association or corporate contract (for example, MEI). <br> - Tax payment receipt, bank statement, or utility bill. |
+| Brazil | - Company registration document or license (for example, CNPJ) <br /> - Articles of association or corporate contract (for example, MEI). <br /> - Tax payment receipt, bank statement, or utility bill. |

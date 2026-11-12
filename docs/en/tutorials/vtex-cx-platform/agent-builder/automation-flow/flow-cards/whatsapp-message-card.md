@@ -48,8 +48,8 @@ Each quick reply field has a **limit of 20 characters**, and you can include up 
 The difference between Quick Replies and the Option List is that the latter offers more variety. Additionally, you can set a title and subtitle for the list. Another distinction is that the Option List does not support media in the header.
 
 1. After that, add **options** and fill in the **title and description fields (optional)** for each added option.
-   **Title**: A clear and concise name for the option, reflecting its content or purpose.
-   **Description (optional)**: Additional details about the option, informative and relevant, to help users better understand it.
+    **Title**: A clear and concise name for the option, reflecting its content or purpose.
+    **Description (optional)**: Additional details about the option, informative and relevant, to help users better understand it.
 
 1. Fill in the **Action Button (optional)** with the text that appears in the message. When the contact clicks this button, the list of available options opens.
 

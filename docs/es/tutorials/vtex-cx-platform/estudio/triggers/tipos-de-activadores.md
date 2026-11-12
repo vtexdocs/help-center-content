@@ -73,7 +73,7 @@ Utiliza este trigger para iniciar un flujo después de recibir un mensaje no cap
 
 - si dejas el campo vacío, el trigger se aplicará a todos los contactos.
 
-- Haz clic en "Crear Trigger".
+- Haz clic en `Crear Trigger`.
 
 Si tu proyecto cuenta con atención humana, en el campo "Grupos para Excluir", selecciona el grupo en el que están las personas del equipo de atención humana para que el bot no interactúe con ellas durante el momento de la atención humana.
 
@@ -90,7 +90,7 @@ da:
 
 - Elige el flujo que deseas iniciar y selecciona a qué contactos o grupos se transmitirá o no el flujo.
 
-- Haz clic en "Crear Trigger".
+- Haz clic en `Crear Trigger`.
 
 ## Iniciar un flujo después de recibir una llamada
 
@@ -102,7 +102,7 @@ da:
 
 - si dejas el campo vacío, el trigger se aplicará a todos los contactos.
 
-- Haz clic en "Crear Trigger".
+- Haz clic en `Crear Trigger`.
 
 ## Iniciar un flujo después de una llamada perdida
 
@@ -116,7 +116,7 @@ Utiliza este trigger después de una llamada perdida.
 
 - si dejas el campo vacío, el trigger se aplicará a todos los contactos.
 
-- Haz clic en "Crear Trigger".
+- Haz clic en `Crear Trigger`.
 
 ## Iniciar un flujo después del cierre de ticket con un agente humano
 
@@ -130,4 +130,4 @@ Utiliza este trigger para activar el flujo de finalización de atención humana 
 
 - si dejas el campo vacío, el trigger se aplicará a todos los contactos.
 
-- Haz clic en "Crear Trigger".
+- Haz clic en `Crear Trigger`.

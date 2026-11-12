@@ -23,15 +23,13 @@ Once you create a template, you can submit it for approval. It may take up to 24
 
 If approved, the message template will have the status "Active – Quality Pending," allowing you to begin sending it to customers. If rejected, the template can be [**edited**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#editing) and resubmitted for approval. Another option is to [**appeal**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#appeals) the decision.
 
-​
-
 ## Common reasons for rejection
 
 These are the most common errors leading to rejection and should be avoided:
 
-- Variable parameters are missing or have incompatible keys. The correct variable format is **{{1}}**.
+- Variable parameters are missing or have incompatible keys. The correct variable format is `{{1}}`.
 - Variable parameters contain special characters, such as **\#**, **$**, or **%**.
-- Variable parameters are not sequential. For example, **{{1}}, {{2}}, {{4}}**, and **{{5}}** are defined, but the parameter **{{3}}** is missing.
+- Variable parameters are not sequential. For example, `{{1}}`, `{{2}}`, `{{4}}`, and `{{5}}` are defined, but the parameter `{{3}}` is missing.
 - The message template contains content that violates WhatsApp’s [**Commerce Policy**](https://www.whatsapp.com/legal/commerce-policy/): when promoting the sale of goods and services, all media and messages related to your products are considered transactions. This includes descriptions, prices, fees, taxes, and/or required legal disclosures. Transactions must comply with WhatsApp's Commerce Policy.
 - The message template contains content that violates WhatsApp’s [**Business Policy**](https://business.whatsapp.com/policy): do not request sensitive identifiers from users. For example, do not ask customers to share full individual credit and debit card numbers, financial account numbers, national identification numbers, or other confidential information. This includes not requesting documents that may contain sensitive identifiers. Requesting partial identifiers (e.g., the last 4 digits of a CPF) is acceptable.
 - The content is potentially abusive or threatening, such as threatening legal action or public embarrassment for the customer.
@@ -69,7 +67,7 @@ You can check the status of a template in **WhatsApp Manager > Overview**. Then 
 
 A template's status can automatically change based on review decisions, appeal outcomes, or changes in the [**quality rating**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#quality-rating). If the status of a template changes, you will receive a notification via email, in the Business Manager, and through the webhook.
 
-Since you can only send message templates with an **Active** status, we recommend subscribing to the **message_template_status_update** webhook to receive notifications about status changes in templates. Refer to [**Webhook Setup**](https://developers.facebook.com/docs/whatsapp/business-management-api/guides/set-up-webhooks) for how to subscribe to this field, and **Message Template Updates** for webhook payload examples.
+Since you can only send message templates with an **Active** status, we recommend subscribing to the `message_template_status_update` webhook to receive notifications about status changes in templates. Refer to [**Webhook Setup**](https://developers.facebook.com/docs/whatsapp/business-management-api/guides/set-up-webhooks) for how to subscribe to this field, and **Message Template Updates** for webhook payload examples.
 
 If you have webhooks set up and notice that a template’s quality is dropping, access **WhatsApp Manager > Message Templates** and hover over the relevant template. A tooltip will display details about the issue. Based on this information, you can choose to [**edit the template**](https://developers.facebook.com/docs/whatsapp/business-management-api/webhooks/components#message-template-updates) and resubmit it for approval, use a different template, or change your app’s business logic. If you edit the message template and it’s approved, its quality rating will gradually improve as long as it doesn’t receive frequent negative feedback.
 
@@ -88,7 +86,7 @@ While webhooks for template status changes exist, webhooks for customer feedback
 
 ## Template pauses
 
-Available for businesses in Brazil, Mexico, and Colombia from September 7, 2022, and globally from October 6, 2022\.
+Available for businesses in Brazil, Mexico, and Colombia from September 7, 2022, and globally from October 6, 2022.
 
 If a message template reaches the lowest quality rating (**Active – Low Quality**), it will automatically be paused for a period to protect the phone number's quality rating. The pauses are as follows:
 

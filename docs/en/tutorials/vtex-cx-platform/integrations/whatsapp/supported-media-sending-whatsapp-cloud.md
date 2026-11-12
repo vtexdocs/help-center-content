@@ -31,8 +31,6 @@ Media sent through messages is stored on WhatsApp's servers for 14 days. If a us
 
 It is not safe to assume that the download was completed solely based on delivery and read receipts. In general, media sent can be removed after 30 days, but it is important to adopt the strategy that best suits your company.
 
-​
-
 ## Restrictions
 
 If you use the media upload process instead of a link to the media URL, the file must be uploaded to the media volume. Once the upload is complete, send a message using the media ID.
@@ -56,7 +54,7 @@ Sending binary data in a `POST` HTTP request is the standard method for uploadin
 
 Media Upload:
 
-```
+```http
 POST /v1/media
 Content-Type:
 
@@ -64,7 +62,7 @@ Content-Type:
 
 Media Upload with `cURL:`
 
-```
+```bash
 curl -X POST \
 https://:/v1/media \
 -H 'Authorization: Bearer ' \
@@ -74,7 +72,7 @@ https://:/v1/media \
 
 In both cases, a successful response returns the `id` field
 
-```
+```json
 {
     "media": [
         {

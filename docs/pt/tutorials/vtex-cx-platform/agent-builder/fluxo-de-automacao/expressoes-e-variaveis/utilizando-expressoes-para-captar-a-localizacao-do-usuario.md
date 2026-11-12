@@ -29,12 +29,12 @@ A mensagem recebida pelo canal web sempre começará com: "Minha Localização �
 
 ### Canal Telegram
 
-Para enviar a localização via Telegram, o usuário precisa clicar no botão de anexo, selecionar "Localização" e depois "Enviar minha localização atual".
+Para enviar a localização via Telegram, o usuário precisa clicar no botão de anexo, selecionar `Localização` e depois "Enviar minha localização atual".
 Com isso, crie uma carta de decisão "Wait for response" e salve o valor. O Telegram envia a localização no formato "latitude, longitude", sem precisar usar `@(replace)` para remover textos. Separe usando `split`, como no canal web.
 
 ### Canal WhatsApp
 
-Para enviar a localização via WhatsApp, o usuário precisa clicar no botão de anexo ou no botão de adicionar, selecionar "Localização" e depois "Localização fixa".
+Para enviar a localização via WhatsApp, o usuário precisa clicar no botão de anexo ou no botão de adicionar, selecionar `Localização` e depois "Localização fixa".
 
 Diferentemente dos outros canais, a localização via WhatsApp não vem como texto, mas sim como anexo. Por isso, precisamos acessá-la utilizando a variável: `@input.attachments.0`
 

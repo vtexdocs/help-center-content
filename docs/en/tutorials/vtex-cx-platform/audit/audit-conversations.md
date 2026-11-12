@@ -15,8 +15,8 @@ The **Conversations** tab displays a table with all interactions, containing the
 | Data | Description |
 | --- | --- |
 | **Contact** | Name and phone number of the customer served. [Great conversations](#great-conversations) are marked with a star next to the contact name. |
-| **Status** | Current status of the conversation. The possible statuses are: <br> `Not resolved`: The AI agent failed to resolve the support request due to an error, such as providing incorrect information, ignoring a complaint, or not performing a promised action. <br> `Handled by AI`: The AI agent successfully resolved the request. <br> `In progress`: The support chat is still ongoing. <br> `Forwarded to human support`: The AI agent couldn't resolve the support request and had to forward it to a human agent. |
-| **Feedback** | Satisfaction rating (CSAT) on a scale from 1 to 5, sent at the end of the interaction. Possible ratings are: <br> 😡`Very dissatisfied/CSAT: 1` <br> 😔`Dissatisfied/CSAT: 2` <br> 😐`Neutral/CSAT: 3` <br> 😃`Satisfied/CSAT: 4` <br> 🤩`Very satisfied/CSAT: 5` <br> Unrated conversations are marked with a dash (`-`). |
+| **Status** | Current status of the conversation. The possible statuses are: <br /> `Not resolved`: The AI agent failed to resolve the support request due to an error, such as providing incorrect information, ignoring a complaint, or not performing a promised action. <br /> `Handled by AI`: The AI agent successfully resolved the request. <br /> `In progress`: The support chat is still ongoing. <br /> `Forwarded to human support`: The AI agent couldn't resolve the support request and had to forward it to a human agent. |
+| **Feedback** | Satisfaction rating (CSAT) on a scale from 1 to 5, sent at the end of the interaction. Possible ratings are: <br /> 😡`Very dissatisfied/CSAT: 1` <br /> 😔`Dissatisfied/CSAT: 2` <br /> 😐`Neutral/CSAT: 3` <br /> 😃`Satisfied/CSAT: 4` <br /> 🤩`Very satisfied/CSAT: 5` <br /> Unrated conversations are marked with a dash (`-`). |
 | **Date** | Date when the conversation occurred. |
 | **Time** | Time when the conversation occurred. |
 

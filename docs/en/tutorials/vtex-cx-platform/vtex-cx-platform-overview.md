@@ -70,7 +70,7 @@ To create a custom agent, complete the fields below:
 1. **Agent name**: The name of the agent, such as "Support Chat".
 2. **Goal**: The goal of the agent, such as "Answer customer questions".
 
-> ℹ️ Define your agent's main goal when interacting with customers. Example: "Help customers find products that fit their needs" or "Provide technical support." This guides conversations.
+    > ℹ️ Define your agent's main goal when interacting with customers. Example: "Help customers find products that fit their needs" or "Provide technical support." This guides conversations.
 
 3. **Content**: The base content for the agent. Completing the content is optional during sign-up and can be added later.
 
@@ -86,7 +86,7 @@ Click `Finish` to proceed.
 
 To create a new organization, follow the steps below:
 
-1. Go to the VTEX CX Platform homepage and click <i class="fas fa-plus" aria-hidden="true"></i>`Create organization`.
+1. Go to the VTEX CX Platform homepage and click <i class="fas fa-plus" aria-hidden="true"></i> `Create organization`.
 2. Enter a name for your organization, the organization's description, and the project name.
 3. Click `Continue`.
 4. In the project setup step, you can choose between **Create a custom agent** or **Use template**.
@@ -94,10 +94,10 @@ To create a new organization, follow the steps below:
 To create a custom agent, follow the instructions below:
 
 1. Complete the agent's name and its purpose.
-2. Click <i class="fas fa-plus" aria-hidden="true"></i>`Add content`.
+2. Click <i class="fas fa-plus" aria-hidden="true"></i> `Add content`.
 
-- In this field, you can add information that the agent will use in your project, such as catalog files or your store website. Then, click `Complete`.
-- This step is optional when creating an organization, and the content can be added later.
+    - In this field, you can add information that the agent will use in your project, such as catalog files or your store website. Then, click `Complete`.
+    - This step is optional when creating an organization, and the content can be added later.
 
 3. Click `Done`.
 

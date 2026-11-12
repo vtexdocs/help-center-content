@@ -28,14 +28,14 @@ Ao integrar o canal, você consegue customizar aspectos do Web Chat como: cor, t
 
 6. Ao abrir o painel de customização do **VTEX CX Platform Web Chat**, você terá as seguintes opções para configurar:
 
-- Título do seu chat;
-- Subtítulo do chat (opcional);
-- Mensagem de disparo: quando ativada é a primeira mensagem que seu chatbot envia (opcional);
-- Mensagem de notificação do chat (opcional);
-- Mostrar botão de tela cheia (opcional);
-- Indicador de mensagens não lidas (opcional);
-- Manter histórico de mensagens (opcional);
-- Tempo entre as mensagens.
+    - Título do seu chat;
+    - Subtítulo do chat (opcional);
+    - Mensagem de disparo: quando ativada é a primeira mensagem que seu chatbot envia (opcional);
+    - Mensagem de notificação do chat (opcional);
+    - Mostrar botão de tela cheia (opcional);
+    - Indicador de mensagens não lidas (opcional);
+    - Manter histórico de mensagens (opcional);
+    - Tempo entre as mensagens.
 
 7. Seguindo para a aba de aparência, você tem a opção de customizar o chat através do formato CSS. Além disso, você pode importar uma imagem em png, jpg ou jpeg para ser seu avatar e também alterar a cor do seu chat.
 
