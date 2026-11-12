@@ -70514,6 +70514,21 @@
             },
             {
               "name": {
+                "en": "APP FBE Store pages wait for an external file to load when Facebook Business Extension is installed",
+                "es": "APP FBE Las páginas de la tienda esperan a que se cargue un archivo externo cuando se instala la extensión de Facebook Business.",
+                "pt": "APP FBE As páginas da loja aguardam o carregamento de um arquivo externo quando a Extensão de Negócios do Facebook está instalada."
+              },
+              "slug": {
+                "en": "app-fbe-store-pages-wait-for-an-external-file-to-load-when-facebook-business-extension-is-installed",
+                "es": "app-fbe-las-paginas-de-la-tienda-esperan-a-que-se-cargue-un-archivo-externo-cuando-se-instala-la-extension-de-facebook-business",
+                "pt": "app-fbe-as-paginas-da-loja-aguardam-o-carregamento-de-um-arquivo-externo-quando-a-extensao-de-negocios-do-facebook-esta-instalada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "APP FBE Checkout Pixel app throws a \"Maximum call stack size exceeded\" error in the checkout",
                 "es": "APP FBE La aplicación Checkout Pixel genera un error de \"Se ha superado el tamaño máximo de la pila de llamadas\" en el proceso de pago.",
                 "pt": "APP FBE O aplicativo Checkout Pixel apresenta um erro de \"Tamanho máximo da pilha de chamadas excedido\" no checkout."
