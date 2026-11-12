@@ -52,4 +52,4 @@ Todas las nuevas funcionalidades introducidas a partir de la certificación tien
 
 Los usuarios que ya utilizan la integración VTEX - Mercado Libre pueden ponerse en contacto con el [soporte de VTEX](https://supporticket.vtex.com/support) o con su equipo de CSM para obtener detalles sobre las mejoras implementadas.
 
-Si tu tienda aún no tiene [integración con Mercado Libre](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), consulta nuestra Guía de integración.
+Si tu tienda aún no tiene [integración con Mercado Libre](/es/docs/tutorials/mercado-libre), consulta nuestra Guía de integración.

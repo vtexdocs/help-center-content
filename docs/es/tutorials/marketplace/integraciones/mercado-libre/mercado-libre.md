@@ -1,0 +1,149 @@
+---
+title: 'Mercado Libre'
+id: 3cKjnItfjyqauWWcMkOqC0
+status: PUBLISHED
+createdAt: 2018-09-06T15:36:57.140Z
+updatedAt: 2026-11-12T18:47:00.000Z
+publishedAt: 2022-06-07T22:58:01.177Z
+firstPublishedAt: 2018-09-17T15:45:39.870Z
+contentType: tutorial
+productTeam: Channels
+author: 1nsS1IgG3WWQ4cA8e2qsw6
+slugEN: how-mercado-livre-integration-works
+legacySlug: como-funciona-la-integracion-del-mercado-libre
+locale: es
+subcategoryId: 4uqMnZjwBO04uWgCom8QiA
+---
+
+[Mercado Libre](https://mercadolibre.com/) es uno de los líderes de ecommerce en América Latina, ya que ofrece soluciones de comercio electrónico tanto a personas como a empresas para que puedan comprar, vender, pagar, anunciar y enviar productos por internet.
+
+Opera en los siguientes países: Argentina, Brasil, Chile, Colombia, México, Uruguay y Venezuela.
+
+Antes de empezar, [crea una cuenta en Mercado Libre](https://vendedores.mercadolibre.com.ar/blog/notas/como-crear-una-cuenta-en-mercado-libre/) en el [Centro de vendedores](https://vendedores.mercadolibre.com/). Con la cuenta creada, sigue los pasos de **Configure la integración** para conectar la tienda.
+
+> ⚠️ Revisa la [arquitectura de la cuenta](/es/docs/tutorials/error-de-configuracion-en-cuentas-de-mercado-libre-con-multiples-tiendas) antes de integrar. La configuración de tienda paraguas, con varias tiendas oficiales en el mismo usuario de Mercado Libre, impide la importación de los pedidos.
+
+## Qué ofrece la integración
+
+Además de sincronizar productos, precios, stock y pedidos, la integración ofrece estas funcionalidades:
+
+| Funcionalidad | Descripción |
+|---|---|
+| [Migrar anuncios en Mercado Libre](/es/docs/tutorials/migrar-anuncios-en-mercado-libre) | Para sellers que migran de plataforma de ecommerce: cómo llevar a VTEX los anuncios ya registrados en Mercado Libre. |
+| [Facturas en Mercado Libre](/es/docs/tutorials/facturas-de-mercado-libre) | Consultar y descargar las facturas generadas en la plataforma de Mercado Libre. |
+| [Publicación de productos Mercado Libre](/es/docs/tutorials/match-de-anuncios-de-mercado-libre) | Evalúa los anuncios del seller y sugiere oportunidades de vinculación con el catálogo de Mercado Libre. |
+| [Central de promociones Mercado Libre](/es/docs/tutorials/central-de-promociones-mercado-libre) | Lista las promociones que Mercado Libre ofrece para los productos del catálogo. |
+| [¿Cómo configurar la tienda paraguas en la integración con Mercado Libre?](/es/docs/tutorials/como-configurar-la-tienda-paraguas-en-la-integracion-con-el-mercado-libre) | Registrar productos en las tiendas oficiales de Mercado Libre, segmentando por categoría, marca u otro criterio. |
+| [Cómo configurar múltiples cuentas en la integración con Mercado Libre](/es/docs/tutorials/como-configurar-multiples-cuentas-en-la-integracion-con-el-mercado-libre) | Usar el mismo catálogo en dos tiendas de Mercado Libre y gestionar los pedidos en un solo lugar, el [OMS](/es/category/gerenciamento-de-pedidos--2663q96EyQuYc20y0yYAEE). |
+| [Errores de integración de stock con Mercado Libre](/es/troubleshooting/errores-de-integracion-de-stock-con-mercado-libre) | Errores más comunes de integración de stock y cómo resolverlos. |
+| [Errores de integración de pedidos de Mercado Libre](/es/troubleshooting/errores-de-integracion-de-pedidos-de-mercado-libre) | Errores más comunes de integración de pedidos y cómo resolverlos. |
+| [¿Cómo funciona el carrito con múltiples artículos en Mercado Libre?](/es/docs/tutorials/como-funciona-el-carrito-con-multiples-articulos-en-mercado-libre) | Por qué algunos pedidos con varios productos aparecen con dos ID en el Admin VTEX y otros con un solo ID. |
+| [Mercado Libre: compatibilidad de autopartes](/es/docs/tutorials/mercado-libre-compatibilidad-de-autopartes) | Cómo corregir errores de integración de productos de la categoría de autopartes. |
+| [Campos de producto personalizables para Mercado Libre](/es/docs/tutorials/campos-de-producto-personalizables) | Personalizar título, modelo de envío, tienda oficial, descripción y envío gratuito. |
+
+Las dudas más frecuentes están en [Mercado Libre: FAQ](/es/docs/tutorials/mercado-libre-faq).
+
+## Cómo la integración mantiene la información actualizada
+
+Después de conectar la tienda, la integración mantiene pedidos, productos, precios, stock y puntos de recogida actualizados en Mercado Libre. El flujo se divide en:
+
+1. [Pedidos](#1-pedidos)
+2. [Productos](#2-productos)
+3. [Precios](#3-precios)
+4. [Stock](#4-stock)
+5. [Puntos de recogida](#5-puntos-de-recogida)
+
+## 1. Pedidos 
+
+Todos los [pedidos](/es/docs/tracks/o-que-e-um-pedido-na-vtex) que se hacen en Mercado Libre se enviarán a la plataforma VTEX. Cada pedido tendrá un status según la tabla a continuación. Para más información sobre los status de los pedidos en VTEX, consulta el artículo [Flujo y status de pedidos](/es/docs/tutorials/flujo-y-status-de-pedidos).
+
+| Status en la plataforma VTEX | Respuesta de Mercado Libre | Descripción de la respuesta de Mercado Libre |
+| ---------- | ---------- | ---------- |
+| Listo para preparación | Ready-for-handing | Status que indica que se debe iniciar la preparación del envío, emitir la factura y hacer el seguimiento del pedido. En este status, se espera que haya una confirmación de la reducción en la [reserva](/es/docs/tutorials/como-se-maneja-la-reserva) del ítem. En general, es en este momento cuando tiene lugar la integración con el ERP. Sin embargo, la integración también se puede completar de forma manual a través del módulo de Gestión de pedidos |
+| Preparando envío | Handling | Se reservan los ítems para evitar las ventas de ítems no disponibles. El pedido queda en preparación, a la espera de la factura (o nota fiscal) que, por lo general, envía el ERP |
+| Facturado | Invoiced | El flujo se completó con éxito y se envió el pedido |
+| Enviado | Shipped | Pedidos que ya se despacharon para la entrega |
+| Entregado  | Delivered | Pedidos entregados a sus destinatarios finales |
+| Cancelado | Cancelled | Pedidos que se cancelaron |
+| Ventana de cancelación | Window-to-cancel | Status del plazo de cancelación del cliente. Después de la aprobación del pago, el cliente tiene 30 minutos (estándar en la [Configuración general](/es/docs/tutorials/configuraciones-generales) del módulo de Gestión de pedidos) para cancelar el pedido. En este periodo, el reembolso del pedido se realiza de modo automático |
+
+Debes contar con un [perfil de acceso](/es/docs/tutorials/roles) *OMS - Full Acess* para realizar acciones en el flujo de pedidos. Recibirás una respuesta distinta de Mercado Libre en cada status del flujo de pedidos en VTEX. Los pedidos se integran en VTEX solo cuando Mercado Libre los identifica con el status `Paid`.
+
+El ID del pedido en Mercado Libre será distinto al que verás en VTEX. Para comprender la lógica que se aplica a la correspondencia de estos ID, consulta el artículo [Cómo funciona el carrito con múltiples artículos en Mercado Libre](/es/docs/tutorials/como-funciona-el-carrito-con-multiples-articulos-en-mercado-libre).
+
+### Facturación del pedido
+
+Según la [configuración de la logística](/es/docs/tutorials/configurar-la-logistica-para-mercado-libre) que hayas establecido, podrás emitir la factura directamente desde el marketplace o a través de tu ERP integrado con VTEX. Existen dos tipos de configuraciones de la logística:
+
+- [Pedidos ME1](#pedidos-me1)
+- [Pedidos ME2](#pedidos-me2)
+
+#### Pedidos ME1
+
+En los pedidos de la [modalidad ME1](/es/docs/tutorials/configurar-la-logistica-para-mercado-libre#flete-dinamico), cuando llega un pedido nuevo a la plataforma VTEX, el seller debe encargarse de todos los cambios de status en la plataforma VTEX para que estos se reflejen automáticamente en la plataforma de Mercado Libre. Para esto, debes usar la ruta [POST Order Invoice Notification](https://developers.vtex.com/vtex-rest-api/reference/invoicenotification) y VTEX cargará la factura de Mercado Libre y la enviará al ERP.
+
+Los pedidos de la modalidad ME1 no pasan por el status `Invoiced`. El status del pedido cambiará a `Shipped` cuando el seller informe el `trackingNumber`, lo cual actualizará el OMS. 
+
+Para esto, usa la ruta API [POST Order invoice notification](https://developers.vtex.com/vtex-rest-api/reference/invoice#invoicenotification) y completa todos los campos obligatorios y el campo `embeddedInvoice`.
+
+La única acción del proceso de integración que no se refleja en la plataforma de Mercado Libre es la cancelación del pedido en VTEX porque este proceso no permite cancelar el pedido en la plataforma de Mercado Libre.
+
+#### Pedidos ME2
+
+En los pedidos de la [modalidad ME2](/es/docs/tutorials/configurar-la-logistica-para-mercado-libre#mercado-envios-2-me2), el [ERP](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) enviará la información del pedido a VTEX y VTEX, a su vez, enviará dicha información a Mercado Libre. Por lo tanto, existen las siguientes diferencias en la emisión de la factura entre los tipos de logística de ME2:
+
+- En la logística tipo [Colectas](/es/docs/tutorials/configurar-la-logistica-para-mercado-libre#crossdocking-colectas) o [Places](/es/docs/tutorials/configurar-la-logistica-para-mercado-libre#places), es obligatoria la emisión de una factura, ya sea en Mercado Libre o en el ERP.
+- En la logística tipo [Mercado Envíos Full](/es/docs/tutorials/configurar-la-logistica-para-mercado-libre#mercado-envios-full), debes emitir la factura en el facturador de Mercado Libre. 
+- En la logística tipo [Flex](/es/docs/tutorials/configurar-la-logistica-para-mercado-libre#flex) o [Drop Off](/es/docs/tutorials/configurar-la-logistica-para-mercado-libre#drop-off), podrás emitir la factura en el facturador de Mercado Libre o en el ERP. La factura no es obligatoria.
+
+En los pedidos de la modalidad ME2, la plataforma de Mercado Libre es la encargada de cambiar el status del pedido a `Shipped` y `Delivered`.
+
+En el tipo de logística Mercado Envíos Full, siempre se deberá configurar el facturador en la plataforma de Mercado Libre porque es el propio [marketplace el que factura el pedido](/es/docs/tutorials/configurar-la-logistica-para-mercado-libre#como-consultar-las-facturas-de-mercado-libre-mediante-api). Esta configuración es opcional en los demás tipos de logística del modo ME2.
+
+Si el seller no configuró el facturador de Mercado Libre para imprimir la etiqueta, deberá facturar en el [ERP](https://developers.vtex.com/docs/erp-integration-set-up-order-processing) y enviar la factura a VTEX para que Mercado Libre la reciba a través del proceso de integración. Usa la ruta API [POST Order invoice notification](https://developers.vtex.com/vtex-rest-api/reference/invoice#invoicenotification) y completa el campo `embeddedInvoice` para que Mercado Libre libere la etiqueta del envío.
+
+Mientras tanto, para cambiar el status de los pedidos a `Invoiced`, deberás completar los campos obligatorios de los ERP y el campo `embeddedInvoice`, según el tipo de logística configurada.
+
+En los pedidos con logística tipo Colecta y Places, debes completar los campos `invoiceKey` y `cfop`.
+
+## 2. Productos
+
+Los [productos](/es/docs/tracks/productos-definicion-de-concepto) son los ítems que se venden en la tienda y que forman parte de una [categoría](/es/docs/tracks/categorias-definicion-de-concepto) registrada en tu [Catálogo VTEX](/es/docs/tracks/catalogo-definicion-de-concepto). Para enviar los productos registrados en tu catálogo a la plataforma de Mercado Libre, deberás hacer el [mapeo de categorías, atributos y variaciones](/es/docs/tutorials/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper).
+
+Cualquier cambio que el Admin VTEX realice en los productos desde *PRODUCTO > Catálogo > Productos y SKU*, o cualquier cambio que se realice en el [ERP](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-import-products) de tu tienda durante la integración, se actualizará automáticamente en Mercado Libre.
+
+Cada categoría de productos anunciados en la plataforma de Mercado Libre posee atributos que pueden o no ser obligatorios. Cuantos más atributos completados tenga el producto en Mercado Libre, mejor posicionado estará en el marketplace.
+
+Para poder integrarse, los campos de la plataforma VTEX a continuación deben estar seleccionados en los productos:
+
+- **Mostrar en el sitio**
+- **Mostrar producto agotado**
+- **Política comercial**
+
+En el campo **Política comercial**, debes marcar la opción correspondiente a [política comercial](/es/docs/tutorials/configurar-politica-comercial-para-mercado-libre) vinculada a Mercado Libre.
+
+> ℹ️ Para agregar imágenes nuevas en un anuncio que ya existe en Mercado Libre, deberás hacer todos los cambios directamente en el panel del marketplace. Mercado Libre solo acepta 12 imágenes por producto sin variación, y hasta 10 imágenes por producto con variación.
+
+## 3. Precios
+
+Durante la integración, los precios se envían por primera vez junto con el primer envío de productos. Luego, los precios de los anuncios en Mercado Libre se actualizan automáticamente siempre que haya algún cambio en el precio en la plataforma VTEX.
+
+Durante la integración, se envía el [precio fijo](/es/docs/tracks/precio-fijo-definicion-de-concepto) correspondiente a cada SKU, el cual se configuró en la política comercial [asociada a la integración](/es/docs/tutorials/configurar-politica-comercial-para-mercado-libre).
+
+### Promociones
+
+Mercado Libre no permite y VTEX no envía promociones personalizadas. Para poder acceder a una promoción disponible, debes ingresar a [Promociones de Mercado Libre](/es/docs/tutorials/central-de-promociones-mercado-libre).
+
+Mercado Libre no mostrará un descuento en el precio de un producto como promoción ni el valor de una promoción.
+
+## 4. Stock
+
+Durante la integración, el nivel de [stock](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/lbDt7ovsUK2Fbj4GupSy9) de un producto se envía por primera vez junto con el primer envío de los productos. Luego, siempre que haya algún cambio de stock en la plataforma VTEX, los stocks de los productos anunciados en Mercado Libre se actualizan automáticamente.
+
+Para ver el stock de los productos enviados, en el Admin, ingresa a *MARKETPLACE > Integraciones > Stock*. Si quieres encontrar un producto específico, usa el campo de búsqueda e ingresa el código del SKU.
+
+Si tienes alguna duda, consulta nuestra documentación sobre [Errores de integración de stock con Mercado Libre](/es/troubleshooting/errores-de-integracion-de-stock-con-mercado-libre).
+
+## 5. Puntos de recogida
+
+La etapa del Punto de recogida solo está disponible para los clientes que [activaron y configuraron sus puntos de recogida con la integración de Mercado Libre](/es/docs/tutorials/configurar-la-logistica-para-mercado-libre). En Mercado Libre, el cliente tendrá la opción de seleccionar entre los puntos de recogida registrados para retirar el pedido.

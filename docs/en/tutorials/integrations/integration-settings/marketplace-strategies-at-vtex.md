@@ -126,7 +126,7 @@ For each additional sales channel, a monthly fee is charged, whether it is used 
 Currently, on the VTEX platform, you can find the following marketplaces:  
 
 - [Amazon](/en/docs/tracks/amazon-integration)  
-- [Mercado Libre](/en/docs/tracks/mercado-libre-integration-set-up)  
+- [Mercado Libre](/en/docs/tutorials/mercado-libre)  
 - [Magazine Luiza](/en/docs/tracks/magazine-luiza-integration-set-up)  
 - [Carrefour](/en/docs/tracks/carrefour-integration-set-up)  
 - [Centauro](/en/docs/tracks/centauro-integration)  

@@ -95,7 +95,7 @@ Once connected to a marketplace, you can edit the connection by following these 
 See the list of tutorials available for marketplace integration:  
 
 - [Amazon](/en/docs/tracks/amazon-integration)  
-- [Mercado Livre](/en/docs/tracks/mercado-libre-integration-set-up)  
+- [Mercado Livre](/en/docs/tutorials/mercado-libre)  
 - [Magazine Luiza](/en/docs/tracks/magazine-luiza-integration-set-up)  
 - [Carrefour](/en/docs/tracks/carrefour-integration-set-up)  
 - [Centauro](/en/docs/tracks/centauro-integration)  
