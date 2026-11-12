@@ -35160,16 +35160,16 @@
                     "pt": "Shopping Assistant"
                   },
                   "slug": {
-                    "en": "cx-platform-shopping-assistant-subcategory",
-                    "es": "cx-platform-shopping-assistant-subcategoria",
-                    "pt": "cx-platform-shopping-assistant-subcategoria"
+                    "en": "shopping-assistant-overview",
+                    "es": "shopping-assistant-vision-general",
+                    "pt": "visao-geral-do-shopping-assistant"
                   },
                   "origin": "",
-                  "type": "category",
+                  "type": "markdown",
                   "children": [
                     {
                       "name": {
-                        "en": "Configurar o Shopping Assistant",
+                        "en": "Configuring the Shopping Assistant",
                         "es": "Configurar el Shopping Assistant",
                         "pt": "Configurar o Shopping Assistant"
                       },

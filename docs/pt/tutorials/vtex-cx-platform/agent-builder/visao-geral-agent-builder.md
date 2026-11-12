@@ -1,7 +1,7 @@
 ---
 title: 'Agent Builder'
 createdAt: 2025-07-23T12:24:11.906Z
-updatedAt: 2026-11-10T00:00:00.000Z
+updatedAt: 2026-11-12T18:32:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: agent-builder-overview
@@ -82,7 +82,9 @@ Em **Prévia dos agentes**, existem duas configurações possíveis:
 
 - **Formato de mensagem múltipla:** ative-o <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o agente envie várias mensagens, como respostas rápidas, listas, catálogo. Caso contrário, deixe-o desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
-- **Feedback progressivo dos agentes:** ative-o <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o agente envie atualizações em tempo real ao usuário enquanto redige a resposta final. Caso contrário, deixe-o desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
+- **Feedback progressivo dos agentes:** ative-o <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o agente mostre atualizações curtas enquanto prepara a resposta final. Essas atualizações não alteram a resposta final e não exigem desenvolvimento adicional na loja. Caso contrário, deixe-o desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
+
+> ⚠️ As opções **Feedback progressivo dos agentes** e **Formato de mensagem múltipla** não podem ser ativadas ao mesmo tempo.
 
 Em **Mensagens do sistema**, você pode personalizar a mensagem de erro enviada ao cliente quando um erro de API impede o agente de gerar uma resposta. Cada projeto pode ter a sua própria mensagem, adaptada ao tom de voz da marca.
 

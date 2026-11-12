@@ -1,7 +1,7 @@
 ---
 title: 'Live Desk'
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-11-10T21:45:00.000Z
+updatedAt: 2026-11-12T18:32:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
@@ -43,7 +43,7 @@ A lista de conversas mostra quem enviou a última mensagem em cada uma, para voc
 - Um número mostra quantas mensagens do contato não foram lidas.
 - Uma seta azul mostra que a última mensagem do contato foi lida e ainda precisa de resposta.
 - O prefixo `Você:` indica que você enviou a última mensagem. Vale para mensagens de texto e de mídia.
-- Um ponto azul indica que a conversa foi transferida, devolvida a uma fila, assumida da fila ou atribuída automaticamente. O ponto aparece independentemente de quem enviou a última mensagem.
+- Um ponto azul indica que uma conversa requer atenção depois de ser transferida, devolvida a uma fila, assumida da fila ou atribuída automaticamente. O ponto aparece independentemente de quem enviou a última mensagem.
 
 Quando outro atendente enviou a última mensagem em uma conversa transferida, a prévia não começa com `Você:`. Ao abrir as conversas de um atendente pelo dashboard, uma conversa que aguarda resposta mostra a seta azul, e a prévia não inclui o prefixo `Você:`.
 
@@ -99,6 +99,8 @@ Cada atendente na lista de transferência mostra um status: **Online**, **Em pau
 
 ## Compor mensagens
 
+O campo de composição de mensagens tem uma barra de ações fixa abaixo do campo de mensagem. Nessa barra, você pode abrir mensagens rápidas, anexar arquivos, adicionar uma nota interna, inserir emojis ou gravar áudio.
+
 ### Copiar e limpar a mensagem
 
 Ao começar a digitar no campo de mensagem, duas ações ficam disponíveis:
@@ -130,6 +132,8 @@ Você pode inserir uma mensagem rápida de duas formas:
 - **Por atalho:** Digite `/` seguido do atalho atribuído à mensagem.
 
 Na lista, você pode passar de uma mensagem para outra com as setas do teclado e pressionar `Enter` para inserir a mensagem selecionada. Você também pode configurar mensagens rápidas específicas do setor durante a criação do setor. Para mais informações, consulte [Configurar o Live Desk](https://help.vtex.com/pt/docs/tutorials/configurar-o-live-desk).
+
+Para enviar uma mensagem rápida salva a várias conversas, abra o menu de ações da mensagem e clique em `Enviar em massa`. A lista de revisão mostra os contatos em atendimento e seleciona todos por padrão. Desmarque a caixa de seleção dos contatos que não deseja incluir e confirme o envio. Uma barra de progresso mostra o status do envio em tempo real. Quando o processo termina, uma notificação de confirmação mostra quantas mensagens foram enviadas.
 
 ### Melhorar uma resposta com IA
 
