@@ -40125,6 +40125,21 @@
             },
             {
               "name": {
+                "en": "Order Again flow in B2B Suite can lead to orders placed with wrong marketing data",
+                "es": "El flujo de \"Volver a pedir\" en B2B Suite puede dar lugar a pedidos realizados con datos de marketing incorrectos.",
+                "pt": "O fluxo \"Fazer novo pedido\" no B2B Suite pode levar a pedidos feitos com dados de marketing incorretos."
+              },
+              "slug": {
+                "en": "order-again-flow-in-b2b-suite-can-lead-to-orders-placed-with-wrong-marketing-data",
+                "es": "el-flujo-de-volver-a-pedir-en-b2b-suite-puede-dar-lugar-a-pedidos-realizados-con-datos-de-marketing-incorrectos",
+                "pt": "o-fluxo-fazer-novo-pedido-no-b2b-suite-pode-levar-a-pedidos-feitos-com-dados-de-marketing-incorretos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "B2B Orders History considers Sales' Representative roles when impersonating an user",
                 "es": "El historial de pedidos B2B tiene en cuenta los roles de representante de ventas al suplantar a un usuario",
                 "pt": "O histórico de pedidos B2B considera as funções de representante de vendas ao se passar por um usuário"
@@ -41349,6 +41364,21 @@
                 "en": "category-trees-specification-navigation-can-return-incorrect-data",
                 "es": "la-navegacion-por-las-especificaciones-del-arbol-de-categorias-puede-devolver-datos-incorrectos",
                 "pt": "a-navegacao-de-especificacao-da-arvore-de-categorias-pode-retornar-dados-incorretos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "ActivateIfPossible set to \"False\" if mandatory specifications are not fully saved on catalog admin",
+                "es": "ActivateIfPossible se establece en \"False\" si las especificaciones obligatorias no se guardan completamente en el administrador del catálogo.",
+                "pt": "A opção ActivateIfPossible deve ser definida como \"False\" se as especificações obrigatórias não estiverem totalmente salvas no painel de administração do catálogo."
+              },
+              "slug": {
+                "en": "activateifpossible-set-to-false-if-mandatory-specifications-are-not-fully-saved-on-catalog-admin",
+                "es": "activateifpossible-se-establece-en-false-si-las-especificaciones-obligatorias-no-se-guardan-completamente-en-el-administrador-del-catalogo",
+                "pt": "a-opcao-activateifpossible-deve-ser-definida-como-false-se-as-especificacoes-obrigatorias-nao-estiverem-totalmente-salvas-no-painel-de-administracao-do-catalogo"
               },
               "origin": "",
               "type": "markdown",
@@ -45093,6 +45123,21 @@
             },
             {
               "name": {
+                "en": "Checkout payment step doesn't work if Apple Pay is the first payment method",
+                "es": "El paso de pago al finalizar la compra no funciona si Apple Pay es el primer método de pago.",
+                "pt": "A etapa de pagamento no checkout não funciona se o Apple Pay for o primeiro método de pagamento."
+              },
+              "slug": {
+                "en": "checkout-payment-step-doesnt-work-if-apple-pay-is-the-first-payment-method",
+                "es": "el-paso-de-pago-al-finalizar-la-compra-no-funciona-si-apple-pay-es-el-primer-metodo-de-pago",
+                "pt": "a-etapa-de-pagamento-no-checkout-nao-funciona-se-o-apple-pay-for-o-primeiro-metodo-de-pagamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Impersonation is ignored after one purchase is completed",
                 "es": "La suplantación de identidad se ignora después de completar una compra",
                 "pt": "A falsificação de identidade é ignorada após a conclusão de uma compra"
@@ -46436,21 +46481,6 @@
                 "en": "checkout-incorrectly-sending-item-details-to-transaction",
                 "es": "el-pago-envia-incorrectamente-los-detalles-del-articulo-a-la-transaccion",
                 "pt": "checkout-incorretamente-enviando-detalhes-do-item-para-a-transacao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Checkout payment step doesn't work if Apple Pay is the first payment method",
-                "es": "Checkout payment step doesn't work if Apple Pay is the first payment method",
-                "pt": "Checkout payment step doesn't work if Apple Pay is the first payment method"
-              },
-              "slug": {
-                "en": "checkout-payment-step-doesnt-work-if-apple-pay-is-the-first-payment-method",
-                "es": "checkout-payment-step-doesnt-work-if-apple-pay-is-the-first-payment-method",
-                "pt": "checkout-payment-step-doesnt-work-if-apple-pay-is-the-first-payment-method"
               },
               "origin": "",
               "type": "markdown",
@@ -50962,13 +50992,13 @@
             {
               "name": {
                 "en": "Magazine Luiza Orders pending dispatch authorization even if approved by Marketplace",
-                "es": "Revista Luiza Pedidos pendientes de autorización de envío aunque estén aprobados por Marketplace",
-                "pt": "Magazine Luiza Pedidos pendentes de autorização de despacho mesmo que aprovados pelo Marketplace"
+                "es": "Magazine Luiza Pedidos pendientes de autorización de envío, incluso si son aprobados por Marketplace.",
+                "pt": "Magazine Luiza Pedidos aguardando autorização de envio mesmo se aprovados pelo Marketplace"
               },
               "slug": {
                 "en": "magazine-luiza-orders-pending-dispatch-authorization-even-if-approved-by-marketplace",
-                "es": "revista-luiza-pedidos-pendientes-de-autorizacion-de-envio-aunque-esten-aprobados-por-marketplace",
-                "pt": "magazine-luiza-pedidos-pendentes-de-autorizacao-de-despacho-mesmo-que-aprovados-pelo-marketplace"
+                "es": "magazine-luiza-pedidos-pendientes-de-autorizacion-de-envio-incluso-si-son-aprobados-por-marketplace",
+                "pt": "magazine-luiza-pedidos-aguardando-autorizacao-de-envio-mesmo-se-aprovados-pelo-marketplace"
               },
               "origin": "",
               "type": "markdown",
@@ -51164,21 +51194,6 @@
                 "en": "mercado-livre-bridge-bridge-isnt-logging-some-error-messages",
                 "es": "mercado-livre-bridge-bridge-no-registra-algunos-mensajes-de-error",
                 "pt": "mercado-livre-bridge-o-bridge-nao-esta-registrando-algumas-mensagens-de-erro"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Mercado Livre Error when accepting Buybox/ME2 suggestion: BRAND attribute required",
-                "es": "Mercado Livre Error al aceptar la sugerencia de Buybox/ME2: se requiere el atributo BRAND",
-                "pt": "Mercado Livre Erro ao aceitar a sugestão da Buybox/ME2: atributo BRAND obrigatório"
-              },
-              "slug": {
-                "en": "mercado-livre-error-when-accepting-buyboxme2-suggestion-brand-attribute-required",
-                "es": "mercado-livre-error-al-aceptar-la-sugerencia-de-buyboxme2-se-requiere-el-atributo-brand",
-                "pt": "mercado-livre-erro-ao-aceitar-a-sugestao-da-buyboxme2-atributo-brand-obrigatorio"
               },
               "origin": "",
               "type": "markdown",
@@ -53905,6 +53920,21 @@
             },
             {
               "name": {
+                "en": "Deleted product may still appears in Intelligent Search after a concurrent update",
+                "es": "Es posible que el producto eliminado siga apareciendo en la Búsqueda inteligente después de una actualización simultánea.",
+                "pt": "O produto excluído ainda pode aparecer na Busca Inteligente após uma atualização simultânea."
+              },
+              "slug": {
+                "en": "deleted-product-may-still-appears-in-intelligent-search-after-a-concurrent-update",
+                "es": "es-posible-que-el-producto-eliminado-siga-apareciendo-en-la-busqueda-inteligente-despues-de-una-actualizacion-simultanea",
+                "pt": "o-produto-excluido-ainda-pode-aparecer-na-busca-inteligente-apos-uma-atualizacao-simultanea"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Autocomplete does not display Search Suggestions during the first interaction after PLP renders",
                 "es": "La función de autocompletar no muestra sugerencias de búsqueda durante la primera interacción después de que se renderiza la página de perfil de usuario (PLP).",
                 "pt": "O recurso de autocompletar não exibe sugestões de pesquisa durante a primeira interação após a renderização do PLP."
@@ -54161,8 +54191,8 @@
             {
               "name": {
                 "en": "Search results may not display products from the synonyms",
-                "es": "Es posible que los resultados de la búsqueda no muestren productos de los sinónimos",
-                "pt": "Os resultados da pesquisa podem não exibir produtos dos sinônimos"
+                "es": "Es posible que los resultados de la búsqueda no muestren productos de los sinónimos.",
+                "pt": "Os resultados da pesquisa podem não exibir produtos dos sinônimos."
               },
               "slug": {
                 "en": "search-results-may-not-display-products-from-the-synonyms",
@@ -62825,6 +62855,21 @@
             },
             {
               "name": {
+                "en": "Saved-card payment uses the BIN of a previously typed card in Checkout (card UI keeps the typed card number after switching to a saved card)",
+                "es": "El pago con tarjeta guardada utiliza el BIN de una tarjeta introducida previamente en el proceso de pago (la interfaz de usuario de la tarjeta conserva el número de tarjeta introducido después de cambiar a una tarjeta guardada).",
+                "pt": "O pagamento com cartão salvo utiliza o BIN de um cartão previamente digitado no Checkout (a interface do cartão mantém o número do cartão digitado após a troca para um cartão salvo)."
+              },
+              "slug": {
+                "en": "savedcard-payment-uses-the-bin-of-a-previously-typed-card-in-checkout-card-ui-keeps-the-typed-card-number-after-switching-to-a-saved-card",
+                "es": "el-pago-con-tarjeta-guardada-utiliza-el-bin-de-una-tarjeta-introducida-previamente-en-el-proceso-de-pago-la-interfaz-de-usuario-de-la-tarjeta-conserva-el-numero-de-tarjeta-introducido-despues-de-cambiar-a-una-tarjeta-guardada",
+                "pt": "o-pagamento-com-cartao-salvo-utiliza-o-bin-de-um-cartao-previamente-digitado-no-checkout-a-interface-do-cartao-mantem-o-numero-do-cartao-digitado-apos-a-troca-para-um-cartao-salvo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Payment created without connector leads to canceled transaction",
                 "es": "El pago creado sin conector provoca la cancelación de la transacción",
                 "pt": "O pagamento criado sem conector leva ao cancelamento da transação"
@@ -70136,6 +70181,21 @@
               "origin": "",
               "type": "markdown",
               "children": []
+            },
+            {
+              "name": {
+                "en": "vtex.structured-data Settings page shows GTIN Value “EAN” as default, but the app uses the SKU ID until the setting is saved",
+                "es": "vtex.structured-data La página de configuración muestra el valor GTIN \"EAN\" como predeterminado, pero la aplicación utiliza el ID de SKU hasta que se guarda la configuración.",
+                "pt": "vtex.structured-data A página de configurações mostra o valor GTIN “EAN” como padrão, mas o aplicativo usa o ID SKU até que a configuração seja salva."
+              },
+              "slug": {
+                "en": "vtexstructureddata-settings-page-shows-gtin-value-ean-as-default-but-the-app-uses-the-sku-id-until-the-setting-is-saved",
+                "es": "vtexstructureddata-la-pagina-de-configuracion-muestra-el-valor-gtin-ean-como-predeterminado-pero-la-aplicacion-utiliza-el-id-de-sku-hasta-que-se-guarda-la-configuracion",
+                "pt": "vtexstructureddata-a-pagina-de-configuracoes-mostra-o-valor-gtin-ean-como-padrao-mas-o-aplicativo-usa-o-id-sku-ate-que-a-configuracao-seja-salva"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -70308,6 +70368,21 @@
           "children": [
             {
               "name": {
+                "en": "Amazon tracking failure is not displayed in Bridge when the invoice items don’t match the order items",
+                "es": "Amazon El error de seguimiento no se muestra en Bridge cuando los artículos de la factura no coinciden con los artículos del pedido.",
+                "pt": "A falha de rastreamento da Amazon não é exibida no Bridge quando os itens da fatura não correspondem aos itens do pedido."
+              },
+              "slug": {
+                "en": "amazon-tracking-failure-is-not-displayed-in-bridge-when-the-invoice-items-dont-match-the-order-items",
+                "es": "amazon-el-error-de-seguimiento-no-se-muestra-en-bridge-cuando-los-articulos-de-la-factura-no-coinciden-con-los-articulos-del-pedido",
+                "pt": "a-falha-de-rastreamento-da-amazon-nao-e-exibida-no-bridge-quando-os-itens-da-fatura-nao-correspondem-aos-itens-do-pedido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Amazon In some cases, a SKU may be published successfully on Amazon, but the stock is not updated and remains at zero.",
                 "es": "Amazon En algunos casos, un SKU puede publicarse correctamente en Amazon, pero el stock no se actualiza y permanece en cero.",
                 "pt": "Amazon Em alguns casos, um SKU pode ser publicado com sucesso na Amazon, mas o estoque não é atualizado e permanece zerado."
@@ -70443,6 +70518,21 @@
             },
             {
               "name": {
+                "en": "APP FBE Store pages wait for an external file to load when Facebook Business Extension is installed",
+                "es": "APP FBE Las páginas de la tienda esperan a que se cargue un archivo externo cuando se instala la extensión de Facebook Business.",
+                "pt": "APP FBE As páginas da loja aguardam o carregamento de um arquivo externo quando a Extensão de Negócios do Facebook está instalada."
+              },
+              "slug": {
+                "en": "app-fbe-store-pages-wait-for-an-external-file-to-load-when-facebook-business-extension-is-installed",
+                "es": "app-fbe-las-paginas-de-la-tienda-esperan-a-que-se-cargue-un-archivo-externo-cuando-se-instala-la-extension-de-facebook-business",
+                "pt": "app-fbe-as-paginas-da-loja-aguardam-o-carregamento-de-um-arquivo-externo-quando-a-extensao-de-negocios-do-facebook-esta-instalada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "APP FBE Checkout Pixel app throws a \"Maximum call stack size exceeded\" error in the checkout",
                 "es": "APP FBE La aplicación Checkout Pixel genera un error de \"Se ha superado el tamaño máximo de la pila de llamadas\" en el proceso de pago.",
                 "pt": "APP FBE O aplicativo Checkout Pixel apresenta um erro de \"Tamanho máximo da pilha de chamadas excedido\" no checkout."
@@ -70511,6 +70601,21 @@
                 "en": "dafiti-image-urls-converted-to-webp-cause-rejection-by-markeplace-image-type-unsupported",
                 "es": "dafiti-las-url-de-imagenes-convertidas-a-webp-provocan-el-rechazo-del-mercado-tipo-de-imagen-no-compatible",
                 "pt": "dafiti-urls-de-imagens-convertidas-para-webp-causam-rejeicao-pelo-marketplace-tipo-de-imagem-nao-suportado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Facebook “Review your account permission on Facebook” error requires support to remove the integration authentication",
+                "es": "Facebook El error \"Revisa los permisos de tu cuenta en Facebook\" requiere asistencia para eliminar la autenticación de integración.",
+                "pt": "Facebook O erro “Revise as permissões da sua conta no Facebook” requer suporte para remover a autenticação de integração."
+              },
+              "slug": {
+                "en": "facebook-review-your-account-permission-on-facebook-error-requires-support-to-remove-the-integration-authentication",
+                "es": "facebook-el-error-revisa-los-permisos-de-tu-cuenta-en-facebook-requiere-asistencia-para-eliminar-la-autenticacion-de-integracion",
+                "pt": "facebook-o-erro-revise-as-permissoes-da-sua-conta-no-facebook-requer-suporte-para-remover-a-autenticacao-de-integracao"
               },
               "origin": "",
               "type": "markdown",
@@ -70601,6 +70706,36 @@
                 "en": "mercado-livre-package-dimensions-are-now-mandatory-for-me1-items-on-mercado-livre",
                 "es": "mercado-livre-las-dimensiones-del-paquete-ahora-son-obligatorias-para-los-articulos-me1-en-mercado-livre",
                 "pt": "mercado-livre-dimensoes-das-embalagens-agora-sao-obrigatorias-para-itens-me1-no-mercado-livre"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Error when accepting Buybox/ME2 suggestion: BRAND attribute required",
+                "es": "Mercado Livre Error al aceptar la sugerencia de Buybox/ME2: Se requiere el atributo BRAND",
+                "pt": "Mercado Livre Erro ao aceitar a sugestão Buybox/ME2: Atributo BRAND obrigatório"
+              },
+              "slug": {
+                "en": "mercado-livre-error-when-accepting-buyboxme2-suggestion-brand-attribute-required",
+                "es": "mercado-livre-error-al-aceptar-la-sugerencia-de-buyboxme2-se-requiere-el-atributo-brand",
+                "pt": "mercado-livre-erro-ao-aceitar-a-sugestao-buyboxme2-atributo-brand-obrigatorio"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Error when re-authenticating the integration",
+                "es": "Mercado Livre Error al volver a autenticar la integración",
+                "pt": "Mercado Livre Erro ao reautenticar a integração"
+              },
+              "slug": {
+                "en": "mercado-livre-error-when-reauthenticating-the-integration",
+                "es": "mercado-livre-error-al-volver-a-autenticar-la-integracion",
+                "pt": "mercado-livre-erro-ao-reautenticar-a-integracao"
               },
               "origin": "",
               "type": "markdown",
