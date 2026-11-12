@@ -6,6 +6,11 @@ contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
 locale: es
+seeAlso:
+  - "/es/docs/tutorials/configurar-el-live-desk"
+  - "/es/docs/tutorials/distribucion-y-enrutamiento-de-las-atenciones"
+  - "/es/docs/tutorials/utilizando-el-disparo-activo-de-flujos"
+  - "/es/docs/tutorials/usando-grupos-para-controlar-la-atencion-humana"
 ---
 
 Live Desk es el módulo de soporte humano de VTEX CX Platform, disponible en todos los proyectos. Los representantes lo usan para atender el soporte en tiempo real y en un solo lugar: reciben los contactos por departamento y cola, responden por el canal del contacto y revisan cada conversación.
@@ -223,10 +228,3 @@ Live Desk ofrece notificaciones del navegador como alternativa a la alerta sonor
 Live Desk ofrece **Modo claro** y **Modo oscuro**. El modo claro es el predeterminado. El modo oscuro aplica un tema oscuro a Live Desk y al menú lateral.
 
 Para cambiar el tema, abre **Preferencias** y selecciona **Modo claro** o **Modo oscuro**. La selección se guarda automáticamente y se aplica cada vez que inicias sesión.
-
-## Más información
-
-- [Configurar Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk): Aprende a crear y gestionar departamentos, colas y representantes, y a definir las reglas de soporte.
-- [Distribución y enrutamiento de las atenciones](https://help.vtex.com/es/docs/tutorials/distribucion-y-enrutamiento-de-las-atenciones): Aprende cómo se distribuye el soporte entre los representantes.
-- [Utilizar el disparo activo de flujos](https://help.vtex.com/es/docs/tutorials/utilizando-el-disparo-activo-de-flujos): Aprende a iniciar conversaciones con contactos desde Live Desk.
-- [Usando grupos para controlar la atención humana](https://help.vtex.com/es/docs/tutorials/usando-grupos-para-controlar-la-atencion-humana): Aprende a evitar que el chatbot interrumpa un chat de soporte en curso.

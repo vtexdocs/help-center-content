@@ -24,12 +24,5 @@ Watch a demonstration to understand how the chatbot works and its business rules
 
 To begin using the integration, some information is needed to set up your chatbot:
 
-1. **Email and API Token for CV API Consumption**
-
-Create a token and an email to access the CV API. [Here’s how to create them.](https://suporte.cvcrm.com.br/kb/article/139171/como-gerar-um-token-painel-do-gestor)
-
-1. **Topics and Subtopics for Customer Service**
-
-Topics and subtopics are required to open a case in CV. For each menu option that will open a case in CV, provide the Topic ID and Subtopic ID.
-
-Do you have questions about creating topics and subtopics? [Watch the tutorial.](https://suporte.cvcrm.com.br/kb/article/159333/como-criar-um-assunto-e-subassunto-de-atendimento-painel-do-g)",
+- **Email and token for CV API consumption:** Create a token and an email to access the CV API. To learn how to generate the token, see [Como gerar um token (Painel do Gestor)](https://suporte.cvcrm.com.br/kb/article/139171/como-gerar-um-token-painel-do-gestor).
+- **Topics and subtopics for customer service:** Topics and subtopics are required to open a case in CV. For each menu option that will open a case in CV, provide the topic ID and the subtopic ID. To learn how to create them, see [Como criar um assunto e subassunto de atendimento (Painel do Gestor)](https://suporte.cvcrm.com.br/kb/article/159333/como-criar-um-assunto-e-subassunto-de-atendimento-painel-do-g).

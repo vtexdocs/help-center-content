@@ -15,22 +15,27 @@ locale: en
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-To edit when a message or flow will be sent, choose a different flow, or change the action from "Send a message" to "Start a flow" (and vice versa):
+Campaign events define which action will run and when it will occur. After [creating a campaign](/en/docs/tutorials/how-to-create-a-campaign), you can edit its events to change the message, select another flow, switch the action type, or adjust the schedule.
 
-- Click on the `Campaigns` menu within the "Studio" module in the side menu and select the campaign containing the event you'd like to edit.
+## Editing an event
 
-- To edit the Campaign name and group, click on the three-line menu and select `Edit`.
+To edit an event:
 
-- To edit an event from the list of events within the Campaign, click on the event and a window will open.
+1. In **Studio**, go to **Campaigns**.
+2. Select the campaign that contains the event.
+3. In the campaign's event list, click the event you want to edit.
+4. In the window that appears, click **Edit** in the top-right corner.
+5. Make the necessary changes. You can:
+    - Switch between **Send a message** and **Start a flow**.
+    - Edit the message content or select another flow.
+    - Define what should happen when the contact is already active in a flow.
+    - Change the event's start date or time.
+6. Click **Update Event** to save.
 
-- Click the `Edit` button in the top right corner of the screen.
+## Editing the campaign name or group
 
-- In the event update dialog box, you can make the following changes:Select the option to send a message or start a flow
+The name and contact group are campaign settings, not settings for a specific event. To change them:
 
-- In the blank field, you can type a message
-
-- Next, choose an option for when the contact is already active in a flow
-
-- Then, set the time you want your event to start.
-
-- Click `Update Event` to save the changes.
+1. Access the campaign.
+2. Click the three-line menu.
+3. Select **Edit** and update the desired information.

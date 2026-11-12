@@ -17,24 +17,21 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 Para crear un flujo, indique el nombre, las palabras clave de los triggers globales, el tipo de flujo y el idioma.
 
-1. Haga clic en **flows** en el menú lateral.
+1. Haga clic en **Flows** en el menú lateral.
+2. En la página de flujos, haga clic en **Create flow**.
+3. En el pop-up de creación, complete los campos **Nombre**, **Triggers de palabras clave globales**, **Tipo de flujo** e **Idioma**:
 
-1. En la página de flujos, haga clic en **Create flow**.
+- **Nombre**: es el nombre que queremos dar a nuestro flujo. Es un campo obligatorio, pero que puede ser editado después.
+- **Triggers de palabras clave globales**: en ese campo, usted podrá escoger una palabra llave global que funcionará como un trigger para su flujo. Ese campo no es obligatorio, y usted podrá crear un trigger para su flujo cuando quiera, en la opción Triggers en el menú superior. Para más detalles, visite el artículo sobre triggers.
+- **Tipo de flujo**: campo obligatorio responsable por definir cuál va a ser el método utilizado por su flujo.
+- **Idioma**: el idioma de su proyecto.
 
-1. En el pop-up de creación, complete los campos **Nombre**, **Triggers de palabras clave globales**, **Tipo de flujo** e **Idioma**.
+Por defecto, la opción **Mensajería** ya viene marcada. Un flujo que utiliza el método Mensajería es un flujo creado para ser utilizado en canales de texto, como WhatsApp, Facebook Messenger, SMS, entre otros.
 
-**1 - Nombre**: es el nombre que queremos dar a nuestro flujo. Es un campo obligatorio, pero que puede ser editado después.
+Además de eso, tenemos dos opciones: **Llamada telefónica** y **Surveyor**.
 
-**2 - Triggers de palabras clave globales**: en ese campo, usted podrá escoger una palabra llave global que funcionará como un trigger para su flujo. Ese campo no es obligatorio, y usted podrá crear un trigger para su flujo cuando quiera, en la opción Triggers en el menú superior. Para más detalles, visite el artículo sobre triggers.
-
-**3 - Tipo de flujo**: campo obligatorio responsable por definir cuál va a ser el método utilizado por su flujo.
-
-Por padrón la opción **Mensajeria** ya viene marcada. Un flujo que utiliza el método Mensajeria es un flujo creado para ser utilizado en canales de texto, como WhatsApp, Facebook Messenger, SMS, entre otros.
-
-Además de eso, tenemos dos opciones naturales:**Llamada telef ónica** y **Surveyor**.
 Un flujo que utiliza el método Phone Call es un flujo creado para ser utilizado en canales de llamadas. Existen algunas cartas de decisión y acción especiales para ese tipo de flujo, que usted puede conocer visitando el artículo sobre flujos de llamadas.
 
-Un flujo creado para ser descargado y ejecutado de forma offline en un dispositivo móvil, por la app Surveyor, tendrá sus respuestas sincronizadas después, de acuerdo con el acceso a internet. Para conocer más sobre el método Surveyor. visite el artículo sobre uso de la plataforma offline.
+Un flujo creado para ser descargado y ejecutado de forma offline en un dispositivo móvil, por la app Surveyor, tendrá sus respuestas sincronizadas después, de acuerdo con el acceso a internet. Para conocer más sobre el método Surveyor, visite el artículo sobre uso de la plataforma offline.
 
-**4 - Idioma:** El idioma de su proyecto
-Ahora que usted conoce las configuraciones, haga clic en `Create` y comenzar la creación de su nuevo flujo, debidamente configurado para la finalidad que desee."
+Ahora que usted conoce las configuraciones, haga clic en **Create** y comience la creación de su nuevo flujo, debidamente configurado para la finalidad que desee.

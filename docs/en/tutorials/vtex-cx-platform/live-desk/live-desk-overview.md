@@ -7,6 +7,11 @@ productTeam: Post-purchase
 slugEN: live-desk-overview
 locale: en
 hidden: false
+seeAlso:
+  - /en/docs/tutorials/configure-live-desk
+  - /en/docs/tutorials/attendance-distribution-rule
+  - /en/docs/tutorials/using-active-triggering-of-flows
+  - /en/docs/tutorials/using-groups-to-organize-human-attendance
 ---
 
 Live Desk is the human support module of VTEX CX Platform, available in every project. Representatives use it to handle support in real time and in one place: they receive contacts by department and queue, reply on the contact's channel, and review each conversation.
@@ -224,10 +229,3 @@ Live Desk offers browser notifications as an alternative to audio alerts. To rec
 Live Desk offers **Light Mode** and **Dark Mode**. Light Mode is the default. Dark Mode applies a dark theme to Live Desk and the side menu.
 
 To change the theme, open **Preferences** and select **Light Mode** or **Dark Mode**. The selection is saved automatically and applied every time you log in.
-
-## Learn more
-
-- [Configuring Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk): Learn how to create and manage departments, queues, and representatives, and how to define support rules.
-- [Attendance distribution rule](https://help.vtex.com/en/docs/tutorials/attendance-distribution-rule): Learn how support is distributed among representatives.
-- [Using active triggering of flows](https://help.vtex.com/en/docs/tutorials/using-active-triggering-of-flows): Learn how to start conversations with contacts from Live Desk.
-- [Using groups to organize human attendance](https://help.vtex.com/en/docs/tutorials/using-groups-to-organize-human-attendance): Learn how to keep the chatbot from interrupting an ongoing support chat.

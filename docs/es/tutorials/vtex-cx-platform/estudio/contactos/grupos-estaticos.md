@@ -15,16 +15,35 @@ locale: es
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-Como vimos en nuestra [Introducción a contactos](https://help.vtex.com/es/docs/tutorials/introduccion-a-contactos), existen dos tipos de grupos para los contactos en la plataforma. Ahora explicaremos cómo funcionan y cómo crear tus grupos.
+Los grupos estáticos permiten organizar contactos cuya participación se gestiona de forma explícita. Son útiles cuando necesitas reunir un conjunto específico de contactos que no esté determinado por criterios de búsqueda.
 
-## Grupo estático
+A diferencia de los [grupos dinámicos](/es/docs/tutorials/grupos-dinamicos), los grupos estáticos no incluyen contactos automáticamente según una regla de búsqueda. Los contactos deben añadirse o eliminarse manualmente o mediante un flujo de automatización.
 
-El grupo estático es el tipo de grupo donde los contactos deben ser añadidos y/o eliminados manualmente. Para que un contacto entre o salga de un grupo estático, debe ser añadido/eliminado por el usuario de la plataforma en la pestaña de contactos, o añadido/eliminado a través de flujos durante la conversación con tu automatización.
+Para conocer los elementos disponibles en la página Contactos, consulta [Introducción a contactos](/es/docs/tutorials/introduccion-a-contactos).
 
-Puedes encontrar la descripción de las cartas de flujo para grupos haciendo clic en [cartas de acciones](https://help.vtex.com/es/docs/tutorials/cartas-de-accion) y [decisiones](https://help.vtex.com/es/docs/tutorials/cartas-de-decision).
+## Crear un grupo estático
 
-Para crear un grupo estático, navega hasta la página de contactos, dentro del módulo "Estudio", y haz clic en el botón Crear Grupo en el menú lateral.
+Para crear un grupo estático:
 
-Después de eso, elige el nombre de tu grupo y crearlo en el pop-up que aparecerá.
+1. En **Estudio**, accede a la página **Contactos**.
+2. En el menú lateral, haz clic en **Crear Grupo**.
+3. En la ventana que aparece, introduce un nombre para el grupo y confirma.
 
-El grupo comenzará a aparecer en tu lista de grupos, justo debajo de las categorías de contactos en el menú lateral izquierdo. Si deseas editar el nombre de tu grupo, exportar los contactos participantes o eliminarlo, accede al grupo y luego haz clic en el botón de configuración en la esquina derecha, al lado de Gestionar Campos.
+El nuevo grupo aparecerá en la lista de grupos, debajo de las categorías de contactos en el menú lateral izquierdo.
+
+## Gestionar los participantes del grupo
+
+Puedes añadir contactos a un grupo estático o eliminarlos de dos formas:
+
+- Manualmente, desde la página **Contactos**.
+- Automáticamente, en un flujo de automatización, mediante las cartas de acción **Añadir el contacto a un grupo** y **Eliminar el contacto de un grupo**.
+
+Para obtener más información sobre cómo configurar estas acciones, consulta [Cartas de acción](/es/docs/tutorials/cartas-de-accion). También puedes utilizar la participación en grupos para definir rutas en un flujo, como se describe en [Cartas de decisión](/es/docs/tutorials/cartas-de-decision).
+
+## Gestionar un grupo estático
+
+Para gestionar un grupo existente:
+
+1. Accede al grupo desde la lista del menú lateral izquierdo.
+2. Haz clic en el botón de configuración situado junto a **Gestionar Campos**.
+3. Selecciona la opción para editar el nombre, exportar los contactos o eliminar el grupo.

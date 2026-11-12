@@ -15,19 +15,30 @@ locale: pt
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-Quando uma pessoa interage por algum dos canais conectados no VTEX CX Platform, automaticamente ela vira um contato. Porém, muitas vezes, já temos informações dos futuros contatos que vão interagir pelos canais, então, como podemos importar esses contatos para a plataforma?
+A lista de contatos do VTEX CX Platform reúne as pessoas que interagem pelos canais conectados à plataforma. Esses contatos são adicionados automaticamente. Para incluir também pessoas que ainda não interagiram com seus canais, você pode importar os dados delas em massa por meio de uma planilha. Este artigo explica como preparar a planilha e realizar a importação.
 
-1. Acesse **Contatos** (em **Operações**) e vá para a aba de **contatos**.
-2. Clique em `Importar contatos` no canto esquerdo.
-3. Na página de importação, você pode escolher uma planilha do Excel, no formato `.xls`, e importar os contatos dessa planilha. Para que isso funcione, é necessário nomear corretamente o nome das colunas. No final da página, disponibilizamos um modelo de template.
+## Preparar a planilha
 
-    Utilize as seguintes regras para as colunas:
+O arquivo deve ser uma planilha do Excel no formato `.xls`. Na página de importação, há um modelo que você pode usar como referência.
 
-    - Name: nome do contato
-    - Language: língua que o contato interage
-    - URN: URN do canal que o contato vai se comunicar. O contato só é válido se possuir pelo menos uma URN. A **URN:whatsapp** é extremamente importante e necessária para o envio de mensagens template. Se essa coluna, juntamente com os números de telefone abaixo dela, não estiver presente ao importar os contatos, o envio de mensagens via WhatsApp para esses contatos ficará indisponível posteriormente.
-    - Field: campos customizados dos contatos.
+Os nomes das colunas devem seguir o formato esperado pela plataforma:
 
-4. Depois de selecionar o arquivo, clique em `Prévia` e seus contatos serão importados para a plataforma.
+- `Name`: nome do contato.
+- `Language`: idioma usado pelo contato nas interações.
+- `URN`: identificador do contato no canal pelo qual ele se comunicará. Cada contato deve ter pelo menos uma URN.
+- `Field`: campos personalizados do contato.
 
-Todos os contatos aparecerão vinculados a um grupo estático, com o mesmo nome do arquivo da planilha. Caso você não deseje manter o grupo, exclua-o.
+> ⚠️ Para enviar mensagens de template pelo WhatsApp, inclua a coluna `URN:whatsapp` e os números de telefone correspondentes. Sem essas informações, não será possível enviar mensagens de WhatsApp aos contatos importados.
+
+## Importar os contatos
+
+Para importar os contatos:
+
+1. No **Estúdio**, acesse a página **Contatos**.
+2. No menu lateral esquerdo, clique em **Importar contatos**.
+3. Na página de importação, selecione a planilha `.xls`.
+4. Clique em **Prévia** e conclua a importação.
+
+## Resultado da importação
+
+Após a importação, os contatos serão vinculados a um grupo estático com o mesmo nome do arquivo da planilha. Caso não queira manter esse grupo, você poderá excluí-lo sem remover os contatos importados.

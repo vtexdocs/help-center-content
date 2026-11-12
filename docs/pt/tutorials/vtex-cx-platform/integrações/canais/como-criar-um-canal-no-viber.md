@@ -13,6 +13,9 @@ slugEN: adding-a-viber-channel
 legacySlug: como-criar-um-canal-no-viber
 locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
+seeAlso:
+  - "/pt/docs/tutorials/criando-contatos-com-webhooks-externos"
+  - "/pt/docs/tutorials/call-webhook-como-fazer-chamadas-para-sistemas-externos"
 ---
 
 Para criar o canal, clique em **Aplicações > Descobertas** dentro do seu projeto:
@@ -48,7 +51,3 @@ Em seguida, o canal aparecerá como conectado à URL do webhook.
 ## Publicar a conta
 
 Uma etapa final é necessária na conta pública. Acesse o aplicativo do Viber no celular, abra Mais, selecione **Configurações** e abra a guia **Meus Bots**. Selecione a página que criamos e você verá a opção Publicar, que precisa ser ativada para que a página possa ser utilizada pelos usuários.
-
-## Saiba mais
-
-Para saber mais sobre webhooks, consulte [Criando contatos com Webhooks externos](/pt/docs/tutorials/criando-contatos-com-webhooks-externos) e [Call Webhook: Como fazer chamadas para sistemas externos](/pt/docs/tutorials/call-webhook-como-fazer-chamadas-para-sistemas-externos).

@@ -21,10 +21,7 @@ Si deseas mantener a tus contactos en un flujo hasta que lo terminen o expire, p
 
 Para indicar a un flujo que ignore triggers y palabras clave:
 
-- Ve a "Flujo" y haz clic en el flujo que deseas modificar.
-
-- Haz clic en el ícono de engranaje en la esquina superior derecha del editor de flujo y luego selecciona la opción "Editar".
-
-- Marca la casilla "Ignorar los Triggers de palabras clave mientras se encuentre en este flujo"
-
-- Haz clic en `Guardar Cambios`.
+1. Ve a "Flujo" y haz clic en el flujo que deseas modificar.
+2. Haz clic en el ícono de engranaje en la esquina superior derecha del editor de flujo y luego selecciona la opción "Editar".
+3. Marca la casilla "Ignorar los Triggers de palabras clave mientras se encuentre en este flujo".
+4. Haz clic en `Guardar Cambios`.

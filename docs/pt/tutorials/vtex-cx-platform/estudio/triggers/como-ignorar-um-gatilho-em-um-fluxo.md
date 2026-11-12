@@ -19,9 +19,9 @@ Quando um contato envia uma mensagem que contém uma palavra-chave previamente d
 
 No entanto, se preferir manter os contatos em um fluxo até que concluam ou que o fluxo expire, você pode configurar o sistema para ignorar as palavras-chave enquanto o contato estiver ativo no primeiro fluxo.
 
-Para configurar um fluxo para ignorar triggers e palavras-chave enquanto um contato ainda estiver participando, ajuste as configurações.
+Para configurar um fluxo para ignorar triggers e palavras-chave enquanto um contato ainda estiver participando, ajuste as configurações:
 
-- Acesse **Fluxo de automação** (em **Agent Builder**) e clique no fluxo desejado.
-- Clique no ícone de três listras no canto superior direito e depois em `Editar`.
-- Marque a caixa Ignorar Triggers.
-- Clique em `Salvar interações`.
+1. Acesse **Fluxo de automação** (em **Agent Builder**) e clique no fluxo desejado.
+2. Clique no ícone de três listras no canto superior direito e depois em `Editar`.
+3. Marque a caixa **Ignorar Triggers**.
+4. Clique em `Salvar interações`.

@@ -15,19 +15,30 @@ locale: es
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-En este punto, tu chatbot está conectado a algún canal, pero para iniciar un flujo automáticamente cuando el usuario interactúe con el chatbot, debes configurar un trigger. Para crearlo, debes ir al Menú de Triggers dentro del módulo "Estudio" y hacer clic en Crear Trigger.
+En este punto, tu chatbot está conectado a algún canal, pero para iniciar un flujo automáticamente cuando el usuario interactúe con el chatbot, debes configurar un trigger.
 
-- Haz clic en el botón "Cree una palabra clave de mensaje que lance un flujo"
-- En la palabra clave, definirás la palabra que funcionará como trigger.
+## Crear un trigger estándar
 
-- En el trigger, puedes elegir entre activar cuando:
+En esta sección, crearemos un trigger estándar que se puede configurar tanto en **Contactos** como en el flujo:
 
-El mensaje comienza con la palabra clave: Si la frase escrita por el usuario comienza con la palabra clave, el flujo seleccionado se activará.
+1. Haz clic en `Crear Trigger`. Se abrirá una nueva ventana.
+2. Haz clic en **Cree una palabra clave que inicia un flujo**.
+3. En el campo **Palabra clave**, definirás la palabra que funcionará como trigger:
+    - En este primer momento, evita nombres comunes como "ayuda", "hola" y "buenas tardes". Usa "teste123" o "ayuda123". De esta forma, si el usuario utiliza un nombre común en un mensaje, el flujo con este trigger no se activará.
+4. Elige el momento del disparo:
+    - Cuando el mensaje comienza con la palabra clave: el flujo elegido se activará.
+    - Si la frase escrita por el usuario comienza con la palabra clave: el flujo elegido se activará.
+    - Si el mensaje contiene solo la palabra clave: el flujo elegido ejecutará una acción si el usuario escribe **solo** el único conjunto de palabras clave registrado.
+5. En **Flujo** se define el flujo que se iniciará.
+6. En **Grupos a incluir**, incluye las reglas de este trigger para un grupo de contactos específico.
+7. En **Grupos a excluir**, excluye las reglas de este trigger para un grupo de contactos específico.
+8. Haz clic en la casilla `Crear Trigger`.
 
-El mensaje contiene solo la palabra clave: El flujo seleccionado se ejecutará si el usuario escribe **únicamente** el conjunto de palabras clave registrado.
+> Si tu Agent Builder está activo, los triggers no funcionarán, porque la activación de los flujos la realiza el agente inteligente y no los triggers.
 
-- En "Flujo" se define el flujo que se iniciará.
+## Crear triggers en un flujo de automatización
 
-- En "Solo Grupos" es posible incluir o no las reglas de este trigger a un grupo de contactos específico; deja el espacio en blanco si deseas aplicar esta regla a todos.
-
-- Haz clic en la caja "Crear Trigger".
+1. Haz clic en **Flujo de automatización**.
+2. Selecciona el flujo y, después, haz clic en el menú de tres líneas.
+3. Haz clic en `Editar`.
+4. En **Palabras clave de los triggers globales**, escribe el trigger deseado y haz clic en `Guardar cambios`.
