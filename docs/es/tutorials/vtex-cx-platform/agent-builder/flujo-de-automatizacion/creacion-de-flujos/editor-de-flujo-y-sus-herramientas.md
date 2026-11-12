@@ -1,5 +1,5 @@
 ---
-title: "Editor de flujo y sus herramientas"
+title: "Editor de flujos"
 id: 5vaaCPNxAy3f21esjfeb84
 status: PUBLISHED
 createdAt: 2025-09-16T16:40:08.008Z
@@ -17,7 +17,7 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 El editor de flujo es el ambiente en el que creas las cartas y armas el flujo. En él, creas y editas conexiones, decisiones y acciones de la conversación.
 
-## Simulador
+## Simular flujo
 
 El simulador reproduce en tiempo real una conversación con el flujo que estás creando.
 
@@ -37,34 +37,34 @@ Para acceder a las versiones de edición, haz clic en el botón con el ícono de
 
 Puedes seleccionar una de las opciones de la lista para ver las versiones anteriores del flujo, y si deseas retroceder a esa versión, haz clic en el botón revertir.
 
-## Botón start flow
+## Iniciar flujo manualmente
 
 El botón **Desencadenar Flujo** inicia manualmente un flujo con contactos o grupos que ya existen en la plataforma. A diferencia del simulador, este flujo será ejecutado por el contacto en su canal preferido.
 
 Antes de lanzar esos contactos en el flujo, podemos configurar algunos detalles:
 
-1. Decidir si preferimos escoger contactos/grupos de forma específica, o si preferimos crear alguna regla para filtrar los contactos que deseamos;
-2. Decidir si, en el caso de que el contacto ya este activo en el flujo en cuestión, ese flujo será reiniciado o no;
-3. Decidir si, en el caso de que el contacto ya este activo en algún otro flujo, ese flujo será interrumpido o no;
+- Decidir si preferimos escoger contactos/grupos de forma específica, o si preferimos crear alguna regla para filtrar los contactos que deseamos;
+- Decidir si, en el caso de que el contacto ya este activo en el flujo en cuestión, ese flujo será reiniciado o no;
+- Decidir si, en el caso de que el contacto ya este activo en algún otro flujo, ese flujo será interrumpido o no;
 
 ## Menú de configuraciones
 
 El menú de configuraciones está al lado del botón Start Flow.
 
-1. **Resultados:** Opción que permite analizar y exportar los resultados de sus flujos, basados en la utilización de ellos por los contactos.
-2. **Editar:** Opción que permite la edición de las configuraciones iniciales del flujo, como el nombre, los triggers y la expiración del flujo (por cuánto tiempo esperará una respuesta).
-3. **Copiar:** Opción que crea una copia exacta del flujo. Este flujo-copia aparecerá en su lista de flujos siguiendo el padrón de nomenclatura _Copy-Nombre del flujo copiado_.
-4. **Eliminar:** Opción que permite borrar el flujo. Ten cuidado, pues esta operación no puede deshacerse.
-5. **Exportar definición:** Opción que redirige a la página de exportación de flujos. Para saber más, consulta el artículo sobre [importación y exportación de flujos](https://help.vtex.com/es/docs/tutorials/importar-y-exportar-flujos).
-6. **Exportar traducción:** Opción que permite exportar la traducción de un idioma en la plataforma.
-7. **Importar traducción:** Opción que permite importar la traducción de un idioma en la plataforma.
+- **Resultados:** Opción que permite analizar y exportar los resultados de sus flujos, basados en la utilización de ellos por los contactos.
+- **Editar:** Opción que permite la edición de las configuraciones iniciales del flujo, como el nombre, los triggers y la expiración del flujo (por cuánto tiempo esperará una respuesta).
+- **Copiar:** Opción que crea una copia exacta del flujo. Este flujo-copia aparecerá en su lista de flujos siguiendo el padrón de nomenclatura _Copy-Nombre del flujo copiado_.
+- **Eliminar:** Opción que permite borrar el flujo. Ten cuidado, pues esta operación no puede deshacerse.
+- **Exportar definición:** Opción que redirige a la página de exportación de flujos. Para saber más, consulta el artículo sobre [importación y exportación de flujos](https://help.vtex.com/es/docs/tutorials/importar-y-exportar-flujos).
+- **Exportar traducción:** Opción que permite exportar la traducción de un idioma en la plataforma.
+- **Importar traducción:** Opción que permite importar la traducción de un idioma en la plataforma.
 
 ## Barra de herramientas
 
 La barra de herramientas contiene las acciones de abajo.
 
-1. **Seleccionar y Arrastrar:** Estas funciones te ayudarán a seleccionar tarjetas (botón en forma de flecha) y navegar por el flujo (botón en forma de mano). También puedes utilizar la tecla "v" para alternar entre estas funciones.
-2. **Crear Bloque:** En este botón puedes crear cualquier tarjeta para tu flujo.
-3. **Copiar:** Selecciona una o más tarjetas y haz clic en este botón para copiarlas. Utiliza las teclas Ctrl + V para pegar. Esta función permite pegar las tarjetas copiadas en otro flujo. También es posible copiar usando las teclas Ctrl + C.
-4. **Buscar:** Busca elementos dentro de las tarjetas, como el nombre de la tarjeta, el texto de un mensaje o el nombre de un resultado. Esta función se puede activar con las teclas Ctrl + F.
-5. **Zoom:** Permite aumentar o disminuir el zoom. Al hacer clic en la flecha hacia arriba, serás dirigido al inicio del flujo. Puede activarse con Ctrl + Scroll.
+- **Seleccionar y Arrastrar:** Estas funciones te ayudarán a seleccionar tarjetas (botón en forma de flecha) y navegar por el flujo (botón en forma de mano). También puedes utilizar la tecla "v" para alternar entre estas funciones.
+- **Crear Bloque:** En este botón puedes crear cualquier tarjeta para tu flujo.
+- **Copiar:** Selecciona una o más tarjetas y haz clic en este botón para copiarlas. Utiliza las teclas Ctrl + V para pegar. Esta función permite pegar las tarjetas copiadas en otro flujo. También es posible copiar usando las teclas Ctrl + C.
+- **Buscar:** Busca elementos dentro de las tarjetas, como el nombre de la tarjeta, el texto de un mensaje o el nombre de un resultado. Esta función se puede activar con las teclas Ctrl + F.
+- **Zoom:** Permite aumentar o disminuir el zoom. Al hacer clic en la flecha hacia arriba, serás dirigido al inicio del flujo. Puede activarse con Ctrl + Scroll.

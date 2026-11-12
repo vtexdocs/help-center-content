@@ -29,10 +29,10 @@ Você será direcionado para a página de gerenciamento de campos de contato.
 
 Para criar um novo campo, siga os passos abaixo:
 
-- Clique em **Gerenciar campos**.
-- Clique em **Criar campo**.
-- Escolha o rótulo do seu campo de contato, preenchendo o campo **Nome**.
-- Depois selecione o tipo de dado do seu campo em **Tipo de Dados**. Os valores aceitos são: Texto, Número, Data & Horário, Estado, Distrito e Divisão.
-- Se você deseja que esse campo apareça na pré-visualização da página de contatos, selecione a caixa de seleção **Destaque**.
+1. Clique em **Gerenciar campos**.
+2. Clique em **Criar campo**.
+3. Escolha o rótulo do seu campo de contato, preenchendo o campo **Nome**.
+4. Depois selecione o tipo de dado do seu campo em **Tipo de Dados**. Os valores aceitos são: Texto, Número, Data & Horário, Estado, Distrito e Divisão.
+5. Se você deseja que esse campo apareça na pré-visualização da página de contatos, selecione a caixa de seleção **Destaque**.
 
 Caso queira editar alguma informação, clique no campo de contato já existent. O pop-up de edição irá abrir novamente.

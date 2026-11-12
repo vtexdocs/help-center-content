@@ -13,6 +13,8 @@ slugEN: automation-flow-overview
 legacySlug: flows-introduction
 locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
+seeAlso:
+  - /en/docs/tutorials/flows-creation
 ---
 
 A flow is a set of steps organized in a flowchart format. These steps are applied to your contacts when they enter the flow, meaning when they start a conversation.
@@ -57,9 +59,3 @@ These decisions are based on existing decision rules in the card, which can be:
 Note cards allow the creation of notes, similar to post-its, in our flows. They can be used as a form of communication between you and a colleague who is also working on the same project, whether to explain how a part of the flow works or to alert them that it might be better not to change that step.
 
 To create a note card, double-click on an empty space in the flow. After that, you can freely move your notes, change the background colors, and position them as you see fit.
-
-## What's next?
-
-Now that we have a better understanding of the concept of a flow and how it is formed, we can delve deeper into each of the existing cards, as well as some other settings within our editor.
-
-If you want to learn more, check out our article on [creating flows](/en/docs/tutorials/flows-creation).

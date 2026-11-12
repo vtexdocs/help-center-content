@@ -29,10 +29,8 @@ You will be directed to the contact fields management page, where you will find:
 
 Then:
 
-- Choose the label for your contact field by filling in the **Name** field
-
-- Select the type of value the field can store in the **Data Type** selection. The accepted value types are: Text, Number, Date & Time, State, District, and Division
-
-- Decide whether you want this field to appear in the contact page preview by selecting the **Highlight** checkbox.
+1. Choose the label for your contact field by filling in the **Name** field.
+2. Select the type of value the field can store in the **Data Type** selection. The accepted value types are: Text, Number, Date & Time, State, District, and Division.
+3. Decide whether you want this field to appear in the contact page preview by selecting the **Highlight** checkbox.
 
 If you want to edit any information, click on the existing contact field, and the edit pop-up will open again.

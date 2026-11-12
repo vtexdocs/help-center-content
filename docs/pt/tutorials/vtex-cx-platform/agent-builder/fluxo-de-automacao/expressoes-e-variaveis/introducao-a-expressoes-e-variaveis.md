@@ -1,5 +1,5 @@
 ---
-title: 'Introdução a expressões e variáveis'
+title: 'Expressões e variáveis'
 id: 4MDzN6Z7Sau2Xt1eyyQ4Ik
 status: PUBLISHED
 createdAt: 2025-09-16T16:14:16.027Z
@@ -13,6 +13,7 @@ slugEN: expressions-and-variables-introduction
 legacySlug: introducao-a-expressoes-e-variaveis
 locale: pt
 subcategoryId: hXGU8pFfABVFIg724zWBN
+categoryCover: true
 ---
 
 A criação de um fluxo conecta um conjunto de ações para obter um resultado.

@@ -1,5 +1,5 @@
 ---
-title: "Modificando eventos"
+title: "Editar eventos"
 id: 5YbnE0SOmxaAbRSgdvHpqb
 status: PUBLISHED
 createdAt: 2025-09-12T18:07:37.351Z
@@ -15,22 +15,27 @@ locale: es
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-Para editar cuándo se enviará un mensaje o se iniciará un flujo, elegir otro flujo o cambiar la acción de "Enviar un mensaje" a "Iniciar un flujo" (y viceversa):
+Los eventos de una campaña definen qué acción se ejecutará y cuándo ocurrirá. Después de [crear una campaña](/es/docs/tutorials/como-crear-una-campana), puedes editar sus eventos para cambiar el mensaje, seleccionar otro flujo, cambiar el tipo de acción o ajustar la programación.
 
-- Haz clic en el menú "Campañas", dentro del módulo "Estudio" en el menú lateral, y selecciona la campaña que contiene el/los evento(s) que deseas editar.
+## Editar un evento
 
-- Haz clic en la casilla "Fecha de registro" para abrir el evento que deseas editar. Ten en cuenta que también puedes acceder a los contactos del grupo y a los flujos asociados con un evento en esta página
+Para editar un evento:
 
-- haz clic en el hipervínculo.
+1. En **Estudio**, accede a **Campañas**.
+2. Selecciona la campaña que contiene el evento.
+3. En la lista de eventos de la campaña, haz clic en el evento que deseas editar.
+4. En la ventana que aparece, haz clic en **Editar**, en la esquina superior derecha.
+5. Realiza los cambios necesarios. Puedes:
+    - Cambiar entre **Enviar un mensaje** e **Iniciar un flujo**.
+    - Editar el contenido del mensaje o seleccionar otro flujo.
+    - Definir qué debe ocurrir cuando el contacto ya está activo en un flujo.
+    - Cambiar la fecha o la hora de inicio del evento.
+6. Haz clic en **Actualizar evento** para guardar.
 
-- Haz clic en la casilla "Editar" en la esquina superior derecha de la pantalla.
-- En el cuadro de diálogo de actualización de eventos, puedes realizar las siguientes modificaciones:
-- Selecciona la opción de enviar un mensaje o iniciar un flujo.
+## Editar el nombre o el grupo de la campaña
 
-- En el campo en blanco, puedes escribir un mensaje.
+El nombre y el grupo de contactos son configuraciones de la campaña, no de un evento específico. Para cambiarlos:
 
-- Luego, elige una de las opciones para cuando el contacto ya esté activo en un flujo.
-
-- A continuación, define el tiempo en el que deseas que tu evento comience.
-
-- Haz clic en `Actualizar evento` para guardar los cambios.
+1. Accede a la campaña.
+2. Haz clic en el menú de tres líneas.
+3. Selecciona **Editar** y actualiza la información deseada.

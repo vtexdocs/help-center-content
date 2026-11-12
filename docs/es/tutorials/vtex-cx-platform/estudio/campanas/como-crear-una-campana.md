@@ -23,27 +23,19 @@ Las campañas permiten que los mensajes programados se agenden en fechas y horar
 
 ## Creando un evento de campaña
 
-- Accede a la opción "Campañas", dentro del módulo "Estudio" en el menú lateral.
+1. Accede a la opción "Campañas", dentro del módulo "Estudio" en el menú lateral.
+2. Haz clic en `Crear Campaña` para crear la campaña.
+3. La campaña requiere un título en el campo (Nombre) y la selección de un grupo de contactos en (Grupo) al que se enviarán los mensajes.
 
-- Haz clic en `Crear Campaña` para crear la campaña.
+    Cada campaña puede operar solo con un grupo. Por lo tanto, es necesario crear una nueva campaña para cada grupo con el que desees interactuar.
 
-- La campaña requiere un título en el campo (Nombre) y la selección de un grupo de contactos en (Grupo) al que se enviarán los mensajes.
-
-Cada campaña puede operar solo con un grupo. Por lo tanto, es necesario crear una nueva campaña para cada grupo con el que desees interactuar.
-
-- Se abrirá una nueva página. Haz clic en `Añadir evento`.
-
-- Ahora define las directrices del evento.
-
-1. En "Send a message": Selecciona la acción que deseas asignar a un evento. Dependiendo de la elección, escribe el mensaje o selecciona el flujo.
-2. En el campo "Si el contacto ya estaba activo en un flujo":
-3. Selecciona la opción deseada.
-4. A continuación, define la fecha y hora en la que deseas que comience tu evento. La cadencia se compone de la siguiente información:
-
-    - Cuántos minutos, horas, días, semanas, antes o después del valor del campo de contacto
-
-    - El campo de contacto seleccionado
-
+4. Se abrirá una nueva página. Haz clic en `Añadir evento`.
+5. Ahora define las directrices del evento.
+6. En "Send a message": Selecciona la acción que deseas asignar a un evento. Dependiendo de la elección, escribe el mensaje o selecciona el flujo.
+7. En el campo "Si el contacto ya estaba activo en un flujo":
+8. Selecciona la opción deseada.
+9. A continuación, define la fecha y hora en la que deseas que comience tu evento. La cadencia se compone de la siguiente información:
+    - Cuántos minutos, horas, días, semanas, antes o después del valor del campo de contacto.
+    - El campo de contacto seleccionado.
     - El momento en que el evento comenzará.
-
-5. En "Entregado": Puede utilizarse en caso de programaciones con más de 24 horas de anticipación. Aquí puedes definir si las personas recibirán el mensaje en la fecha y hora exactas del evento, o si deseas estandarizar para que todos los mensajes se envíen juntos en un horario específico del día.
+10. En "Entregado": Puede utilizarse en caso de programaciones con más de 24 horas de anticipación. Aquí puedes definir si las personas recibirán el mensaje en la fecha y hora exactas del evento, o si deseas estandarizar para que todos los mensajes se envíen juntos en un horario específico del día.

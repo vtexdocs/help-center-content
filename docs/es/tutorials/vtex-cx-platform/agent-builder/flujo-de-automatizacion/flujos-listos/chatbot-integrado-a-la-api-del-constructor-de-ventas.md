@@ -24,12 +24,5 @@ Vea una demostración para entender cómo funciona el chatbot y sus reglas de ne
 
 Para iniciar el uso de la integración, algunos datos son necesarios para configurar su chatbot:
 
-1. Correo electrónico y Token de consumo de la API CV
-
-    Cree un token y un correo electrónico para consumir la API del CV. [Vea cómo crear](https://suporte.cvcrm.com.br/kb/article/139171/como-gerar-um-token-painel-do-gestor).
-
-2. Asuntos y Subasuntos que serán utilizados en la atención
-
-Los asuntos y subasuntos son obligatorios para la apertura de un atención en el CV. Por lo tanto, para cada opción del menú que abra un atención en el CV, informe cuál será el ID del asunto y el ID del subasunto.
-
-¿Tiene dudas sobre cómo crear asunto y subasunto? [Vea el tutorial](https://suporte.cvcrm.com.br/kb/article/159333/como-criar-um-assunto-e-subassunto-de-atendimento-painel-do-g).
+- **Correo electrónico y token de consumo de la API del CV:** Cree un token y un correo electrónico para consumir la API del CV. Para saber cómo generar el token, consulte el artículo [Como gerar um token (Painel do Gestor)](https://suporte.cvcrm.com.br/kb/article/139171/como-gerar-um-token-painel-do-gestor).
+- **Asuntos y subasuntos que se utilizarán en la atención:** Los asuntos y subasuntos son obligatorios para abrir una atención en el CV. Por lo tanto, para cada opción del menú que abra una atención en el CV, informe cuál será el ID del asunto y el ID del subasunto. Para saber cómo crearlos, vea el tutorial [Como criar um assunto e subassunto de atendimento (Painel do Gestor)](https://suporte.cvcrm.com.br/kb/article/159333/como-criar-um-assunto-e-subassunto-de-atendimento-painel-do-g).

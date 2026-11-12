@@ -3,7 +3,7 @@ title: "Campañas"
 id: 17BPSCm7jcrKSvTv3n3kWd
 status: PUBLISHED
 createdAt: 2025-09-12T18:00:29.520Z
-updatedAt: 2025-10-03T14:20:33.968Z
+updatedAt: 2026-11-12T14:20:00.000Z
 publishedAt: 2025-10-03T14:20:33.968Z
 firstPublishedAt: 2025-10-03T14:20:33.968Z
 contentType: tutorial
@@ -19,7 +19,7 @@ Una campaña es un conjunto de eventos temporales creados para impactar grupos d
 
 Los eventos temporales que componen una campaña son triggers programados para activarse en una fecha determinada. Estos triggers pueden enviar mensajes, iniciar flujos e incluso tener prioridad sobre otras interacciones que el contacto esté realizando con la plataforma.
 
-## ¿Por qué utilizar una campaña?
+## Uso de las campañas
 
 Las campañas son nuestra forma de interactuar activamente con el contacto. Es decir, con ellas podemos hacer que la plataforma se comunique con el contacto, en lugar de depender solo de que el contacto inicie la conversación.
 
