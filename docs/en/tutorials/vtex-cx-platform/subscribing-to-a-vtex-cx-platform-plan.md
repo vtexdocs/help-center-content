@@ -1,7 +1,7 @@
 ---
 title: 'Subscribing to a VTEX CX Platform plan'
 createdAt: 2026-11-11T11:09:00.000Z
-updatedAt: 2026-11-11T11:29:00.000Z
+updatedAt: 2026-11-12T18:06:00.000Z
 contentType: tutorial
 productTeam: VTEX CX Platform
 slugEN: subscribing-to-a-vtex-cx-platform-plan
@@ -24,6 +24,23 @@ The self-service flow is limited to standard plans and commercial terms. Contact
 - Marketing template dispatch pricing.
 
 > ℹ️ The sales team also handles plan changes and upgrades for stores that already have a contract.
+
+## Contacting a VTEX CX specialist
+
+During your trial, you can contact a VTEX CX specialist from the CX Dashboard to ask about the platform, pricing, and contract options. You can schedule a call or send a message on WhatsApp. This option requires no setup and is only available during the trial.
+
+> ℹ️ If your account is in Brazil, your specialist speaks Portuguese. For accounts outside Brazil, specialists speak Portuguese, Spanish, and English.
+
+To contact your specialist, follow these steps:
+
+1. In the VTEX Admin, go to **Storefront > VTEX CX Platform > CX Dashboard**.
+2. Click `Talk to {Name}`, where `{Name}` is the name displayed in the contact widget.
+
+    The specialist's contact options open.
+
+3. Choose how to reach the specialist:
+    - To schedule a call, click `Schedule a time` and select an available slot in the specialist's calendar. The calendar displays times in your local time zone.
+    - To start a WhatsApp conversation, click `Send a message on WhatsApp`.
 
 ## Subscribing to a plan
 
