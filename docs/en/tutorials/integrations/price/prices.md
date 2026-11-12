@@ -30,5 +30,5 @@ The new price list consists of: a list of products with their base prices; rules
 
 - [Adding Price Tables](/en/docs/tracks/cadastrar-tabelas-de-preco)
 - [Price rule](/en/docs/tracks/regra-de-preco-definicao-de-conceito)
-- [Rounding Rules](/en/tutorial/psychological-price-v2/)
+- [Rounding Rules](/en/docs/tutorials/rounding-rules)
 - [Price Configuration](/en/docs/tutorials/prices-settings)

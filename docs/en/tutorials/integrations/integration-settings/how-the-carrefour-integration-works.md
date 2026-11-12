@@ -26,7 +26,7 @@ This article aims to describe the integration flow between VTEX and __Carrefour_
 ## 1. Products
 
 ### Product Submission
-Products are sent automatically, aproximately 8 hours after the [integration setup](/en/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2) has been successfully completed. For this, it is based on the registered sales policy and sends the first package of products.
+Products are sent automatically, aproximately 8 hours after the [integration setup](/en/docs/tracks/carrefour-integration-set-up) has been successfully completed. For this, it is based on the registered sales policy and sends the first package of products.
 
 Product and SKU fields are sent together in a separate batch from the offers one (which gathers SKU inventory and price information). Both batches can be uploaded at the same time - Carrefour will validate them.
 
@@ -157,4 +157,4 @@ __1-__ To change the status to __Shipped__, you will need:
 `invoiceKey`, `invoiceNumber`, `trackingUrl`, `trackingNumber`, `courier`, `issuanceDate`.
 
 __2-__ To change the order with the information __delivered to the customer__, you will need:
-`courierStatus`: this field can be populated automatically (via [tracking updates in the carriers themselves](/en/faq/quais-transportadoras-disponibilizam-o-rastreio-de-frete)) or manually, via API or the Orders interface (formerly Orders Management). When the field returns `finished=true`, the integration sends the information to the marketplace. If the field returns `finished=false`, the order will not be changed with the delivery information.
+`courierStatus`: this field can be populated automatically (via [tracking updates in the carriers themselves](/en/docs/tutorials/which-carriers-allow-delivery-tracking)) or manually, via API or the Orders interface (formerly Orders Management). When the field returns `finished=true`, the integration sends the information to the marketplace. If the field returns `finished=false`, the order will not be changed with the delivery information.

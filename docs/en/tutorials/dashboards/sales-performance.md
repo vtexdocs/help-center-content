@@ -30,7 +30,7 @@ You can customize the view of chart and list data by filtering by period, dimens
 
 ## Data 
 
-The data on the page comes from the [VTEX Order Management System](/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa). Sales Performance is an analytical solution, which calculates metrics using heuristics and formulas created based on our experience taking our ecommerce clients to the next level. The page must not be used as a substitute for the data from the OMS, but as a tool for analysis and business insights.
+The data on the page comes from the [VTEX Order Management System](/en/docs/tracks/allowing-order-replacement). Sales Performance is an analytical solution, which calculates metrics using heuristics and formulas created based on our experience taking our ecommerce clients to the next level. The page must not be used as a substitute for the data from the OMS, but as a tool for analysis and business insights.
 
 To ensure that you have access to the latest updated data as well as to all of your history for conducting analysis without affecting performance, internally, the Sales Performance dashboard divides this data in separate groups.
 

@@ -77,7 +77,7 @@ To analyze payment errors, follow the steps below:
 4. Identify the order you want to analyze and click on its ID, as illustrated in the image below. You will be redirected to the order details page in the **All Orders** module.
   ![EN Log Erro de pagamento](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/subscriptions/troubleshooting-errors-in-subscription-orders_3.png)
 5. Then, click on **View transaction details** under the **Payment** card. You will be redirected to the **Transactions** page in the **Payments** module.
-6. On the **Transactions** page, you can view and analyze the order transaction events. Read the article [Viewing the order's details in Payments](/en/tutorial/como-visualizar-detalhes-do-pedido) for more information.
+6. On the **Transactions** page, you can view and analyze the order transaction events. Read the article [Viewing the order's details in Payments](/en/docs/tutorials/how-to-view-the-orders-details) for more information.
 
 Orders with payment errors go through 5 automatic retries within a period of up to 12 hours, according to the payment gateway flow. You cannot retry placing orders manually to correct payment errors in the Admin.
 

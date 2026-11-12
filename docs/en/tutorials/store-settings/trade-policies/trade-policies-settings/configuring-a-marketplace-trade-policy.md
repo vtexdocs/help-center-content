@@ -87,7 +87,7 @@ Sellers can define a different pricing strategy for each marketplace in which th
 This configuration can be done in the *Prices* module by means of sales channels. When entering prices for their products, sellers must take into account that each sales channel is created with its own price table. To differentiate prices between sales channels, you can use:
 
 - [Price rules](/en/docs/tutorials/configuring-a-pricing-rule-for-a-sales-policy): to determine a markup for specific categories and brands.
-- [Fixed prices](/en/docs/tracks/preco-fixo-definicao-de-conceito): to differentiate prices for specific products.
+- [Fixed prices](/en/docs/tracks/fixed-price-concept-definition): to differentiate prices for specific products.
 
 ![EN Regra de preço](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/store-settings/trade-policies/trade-policies-settings/configuring-a-marketplace-trade-policy_6.jpg)
 
@@ -95,9 +95,9 @@ This configuration can be done in the *Prices* module by means of sales channels
 
 ## Shipping strategy
 
-Sellers can set up specific [logistics routes](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/1xo0jmMDcnAUU5ZOavdQ7M) for each marketplace in which they sell their products. This means associating a combination of stock, inventory, shipping policy (carrier) and even pickup points with different sales channels. If your store provides products from *Stock 1* to *Marketplace A*, you must make this association when configuring loading docks and inventory.
+Sellers can set up specific [logistics routes](/en/docs/tracks/inventory) for each marketplace in which they sell their products. This means associating a combination of stock, inventory, shipping policy (carrier) and even pickup points with different sales channels. If your store provides products from *Stock 1* to *Marketplace A*, you must make this association when configuring loading docks and inventory.
 
-Both settings can be configured on the *Shipping strategy* page. When creating a [loading dock](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj), you must indicate which sales channels will be associated with it. This makes the shipping policies associated with this loading dock available to the linked sales channels. Then, you must link the desired [inventory](/en/tutorial/gerenciar-estoque) to a loading dock to make the inventory available to the sales channels associated with the loading dock.
+Both settings can be configured on the *Shipping strategy* page. When creating a [loading dock](/en/docs/tracks/inventory), you must indicate which sales channels will be associated with it. This makes the shipping policies associated with this loading dock available to the linked sales channels. Then, you must link the desired [inventory](/en/docs/tutorials/managing-warehouses) to a loading dock to make the inventory available to the sales channels associated with the loading dock.
 
 ![EN Doca politica](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/store-settings/trade-policies/trade-policies-settings/configuring-a-marketplace-trade-policy_7.jpg)
 
@@ -109,7 +109,7 @@ Both settings can be configured on the *Shipping strategy* page. When creating a
 ## Integrations
 Sales channels also apply to all integrations in which your store sells products. Through them, the sellers indicate which conditions of price, catalog, promotions, logistics, payment and shipping strategy will be available for the sales made in the integrations with Netshoes or Google Shopping, for example.
 
-[Integrations](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete#vender-em-marketplace) can be configured in the *Settings* page of the *Integrations* module. Usually, each channel requires specific commercial conditions, but it is possible that different channels share the same sales channel.
+[Integrations](/en/docs/tutorials/marketplace-strategies-at-vtex#vender-em-marketplace) can be configured in the *Settings* page of the *Integrations* module. Usually, each channel requires specific commercial conditions, but it is possible that different channels share the same sales channel.
 
 ![EN Integracao Politica](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/store-settings/trade-policies/trade-policies-settings/configuring-a-marketplace-trade-policy_9.jpg)
 *In the example above, the "Marketplace" sales channel applies to the Google Shopping integration.*

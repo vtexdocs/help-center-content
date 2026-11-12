@@ -41,7 +41,7 @@ Check out our articles for an overview of each menu in your VTEX Admin to learn 
 
 - [Dashboards](/en/docs/tutorials/dashboards-overview)   
 - [Orders](/en/docs/tutorials/orders-overview)
-- [Products](/en/tutorial/visao-geral-catalogo--FFrumKPYFpvIWKRXfhQYp)   
+- [Products](/en/docs/tutorials/catalog-overview)   
 - [Promotions](/en/docs/tutorials/promotions-overview)  
 - [Storefront](/en/docs/tutorials/storefront-overview)  
 - [Shipping](/en/docs/tutorials/shipping-overview)  

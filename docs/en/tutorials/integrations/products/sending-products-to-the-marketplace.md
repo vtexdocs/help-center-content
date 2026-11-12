@@ -15,17 +15,17 @@ locale: en
 subcategoryId: 4HBbKdnwneGew2qGGykSM8
 ---
 
-When integrating with a marketplace, you have to define which products are to be sent for sale in this other store. [You can send either all the products, or a customized catalog](/en/tutorial/configuring-a-marketplace-sales-policy/). All these configurations are possible using the sales policy, which will be dealt with below.
+When integrating with a marketplace, you have to define which products are to be sent for sale in this other store. [You can send either all the products, or a customized catalog](/en/docs/tutorials/configuring-a-marketplace-trade-policy). All these configurations are possible using the sales policy, which will be dealt with below.
 
 ## Defining the product mix
 
-One possibility is to work with the entire product catalog on the marketplace. To do this, just associate the main store’s sales policy ID which will always be **ID 1**, [when asked to do so during configuration](/en/tutorial/integrating-with-marketplace/).
+One possibility is to work with the entire product catalog on the marketplace. To do this, just associate the main store’s sales policy ID which will always be **ID 1**, [when asked to do so during configuration](/en/docs/tutorials/marketplace-strategies-at-vtex).
 
 ![ExemploPoliticaComercial](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/products/sending-products-to-the-marketplace_1.png)
 
 This sales policy does not require a configured collection of products, since the system already understands that it refers to all products.
 
-Another possibility is to work with a specific mix. Through some differentiated sales policy, you will have to create and define a new collection and associate it with a new [sales policy](/en/tutorial/configuring-a-marketplace-sales-policy/).
+Another possibility is to work with a specific mix. Through some differentiated sales policy, you will have to create and define a new collection and associate it with a new [sales policy](/en/docs/tutorials/configuring-a-marketplace-trade-policy).
 
 1. In the Admin menu, click on **Catalog**.
 2. Click on **Products and SKUs**.
@@ -59,6 +59,6 @@ To check if the product was actually indexed in the marketplace's sales policy, 
 
 After indexing, the products must be cataloged at the markerplace. The time for this action to be completed depends on the internal process of the marketplace.
 
-If the marketplace is a VTEX store, just perform the [brands and categories mapping](/en/docs/tutorials/mapping-categories-and-brands-for-the-marketplace/) and the [SKUs approval](/en/tutorial/approving-suggestions-for-skus/).
+If the marketplace is a VTEX store, just perform the [brands and categories mapping](/en/docs/tutorials/mapping-categories-and-brands-for-the-marketplace/) and the [SKUs approval](/en/docs/tutorials/manual-sku-cataloging).
 
 The tracking of all such communication will be recorded in VTEX Bridge.

@@ -45,7 +45,7 @@ __Example__: If your store has a "Motherboard" category, you should choose the g
 
 ### How to configure a global category?
 
-In the [VTEX catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ), global categories are based on the [list of all Google product categories](https://support.google.com/merchants/answer/6324436?hl=en). We use this standard because it applies to multiple contexts, which facilitates categorizing products from different segments in a single and comprehensive structure.
+In the [VTEX catalog](/en/docs/tracks/catalog-101), global categories are based on the [list of all Google product categories](https://support.google.com/merchants/answer/6324436?hl=en). We use this standard because it applies to multiple contexts, which facilitates categorizing products from different segments in a single and comprehensive structure.
 
 Defining a global category is mandatory. **You can use it to integrate a store with external sales channels.** Currently, VTEX uses the global category only for the Amazon integration connector. 
 
