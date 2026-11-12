@@ -175,7 +175,7 @@ When **Use signature** is enabled for the department, the representative's name 
 
 Human support is tracked on the **Live Desk** dashboard in the **Analytics** module. The dashboard has two tabs:
 
-- **Monitoring:** Shows real-time data for ongoing support chats, such as status, average times, volume by queue, tag, and channel, and customer satisfaction (CSAT). Project moderators can set time goals so the dashboard highlights chats that exceed them. See [Analytics: Configuring risk alerts](https://help.vtex.com/en/docs/tutorials/configuring-risk-alerts).
+- **Monitoring:** Shows real-time data for ongoing support chats, such as status, average times, volume by queue, tag, and channel, and customer satisfaction (CSAT). Project moderators can set time goals so the dashboard highlights chats that exceed them. See [Analytics: Configuring risk alerts](https://help.vtex.com/en/docs/tutorials/configuring-operational-alerts).
 - **Analysis:** Shows historical data for support chats closed in the selected period.
 
 You can filter the data by department, queue, representative, tag, channel, and period. To download the data displayed on the dashboard, click `Export data`.
