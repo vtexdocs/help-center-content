@@ -36,7 +36,7 @@ Contiene las siguientes secciones:
 
 #### 1. Status de los chats de soporte
 
-Presenta un resumen rápido del estado actual de los chats de soporte con tres contadores:
+Presenta un resumen del estado actual de los chats de soporte con tres contadores:
 
 - **Esperando:** número de contactos en la cola que esperan el inicio de un chat de soporte.
 - **En curso:** número de chats de soporte atendidos por un representante en este momento.
@@ -232,7 +232,7 @@ La sección **Conversaciones** muestra un resumen del volumen y la distribución
 | Métrica | Descripción |
 | --- | --- |
 | **Total de conversaciones** | Número total de conversaciones iniciadas en el periodo. |
-| **Atendido por IA** | Porcentaje y número total de conversaciones finalizadas completamente por el agente de IA sin transferirlas a soporte humano. |
+| **Atendido por IA** | Porcentaje y número total de conversaciones finalizadas por el agente de IA sin transferirlas a soporte humano. |
 | **No atendido por IA** | Porcentaje y número total de conversaciones en las que el agente de IA no logró finalizar el chat de soporte. |
 | **Transferidas a Live Desk** | Porcentaje y número total de conversaciones que necesitaron soporte humano en Live Desk. |
 

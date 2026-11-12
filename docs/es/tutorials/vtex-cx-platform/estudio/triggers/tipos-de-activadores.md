@@ -19,7 +19,7 @@ La palabra clave es la primera palabra en un mensaje y puede usarse para iniciar
 
 Todos los pasos descritos aquí se realizarán en la pestaña "**Triggers**", ubicada dentro del módulo "**Estudio**".
 
-Para facilitar la navegación en este artículo, si deseas ir directamente a un tipo de trigger específico, simplemente haz clic en su nombre a continuación:
+Para facilitar la navegación en este artículo, si deseas ir directamente a un tipo de trigger específico, haz clic en su nombre a continuación:
 
 - [Crea una palabra clave de mensaje que lance un flujo.](#Para_crear_una_palabra_clave_que_inicie_un_flujo)
 - [Crea una palabra clave de mensaje que permita a las personas unirse a un grupo.](#Creando_una_palabra_clave_de_mensaje_que_permite_que_las_personas_ingresen_a_un_grupo)

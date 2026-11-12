@@ -3,7 +3,7 @@ title: "Cartas de decisión"
 id: 3V6NZBfEuJpNQCumY3p5Sg
 status: PUBLISHED
 createdAt: 2025-09-16T16:52:15.475Z
-updatedAt: 2025-10-03T14:20:03.824Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:03.824Z
 firstPublishedAt: 2025-10-03T14:20:03.824Z
 contentType: tutorial
@@ -15,9 +15,7 @@ locale: es
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-Las cartas de decisión son una parte muy importante para las construcciones lógicas de nuestros flujos. En la [introducción a flujos](https://help.vtex.com/es/docs/tutorials/introduccion-a-los-flujos) hablamos un poco sobre el concepto de estas cartas, y ahora vamos a entender un poco más sobre su anatomía y los tipos que existen dentro de la plataforma.
-
-Para facilitar la navegación por este artículo, si deseas ir directamente a un tema específico, solo haz clic en su nombre a continuación:
+Las cartas de decisión crean rutas en la conversación a partir de reglas. Usa la lista de abajo para ir directo al tipo de carta.
 
 - Rutas y reglas de decisión
 - Resultados de flujo
@@ -32,9 +30,9 @@ Para facilitar la navegación por este artículo, si deseas ir directamente a un
 
 ## Rutas y reglas de decisión
 
-### ¿Qué son las rutas?
+### Rutas
 
-La mayor diferencia entre las cartas de decisión y las cartas de acción es la creación de rutas. Estas rutas son posibles caminos que una conversación puede tomar según alguna respuesta o algún dato del contacto, es decir, la finalidad de todas las cartas de decisión es crear rutas para cada regla y, así, ramificar nuestro flujo.
+La diferencia entre las cartas de decisión y las cartas de acción es la creación de rutas. Estas rutas son caminos que la conversación puede tomar según una respuesta o un dato del contacto. La finalidad de las cartas de decisión es crear una ruta para cada regla y, así, ramificar el flujo.
 
 Cada ruta tiene un nombre/categoría y sigue una regla de decisión. Puedes ver en las conexiones de tus rutas la cantidad de contactos que ya han seguido ese camino en tu flujo.
 
@@ -44,7 +42,7 @@ La ruta **Otro** es una ruta predeterminada que existe para el caso en que el va
 
 Las reglas de decisión son un conjunto de normas que utilizamos para crear rutas, es decir, parámetros que se verificarán para decidir si un contacto debe o no seguir ese camino.
 
-Para utilizar una regla de decisión, solo necesitas seleccionar el tipo de regla, luego ingresar el valor para comparación y, por último, definir la categoría/nombre de la ruta a la que pertenece esa regla. Cada nombre de categoría diferente generará una nueva ruta con ese mismo nombre. Si creas más de una regla pero las nombras con la misma categoría, todas las reglas apuntarán a la ruta con ese nombre.
+Para utilizar una regla de decisión, selecciona el tipo de regla, luego ingresa el valor para comparación y, por último, definir la categoría/nombre de la ruta a la que pertenece esa regla. Cada nombre de categoría diferente generará una nueva ruta con ese mismo nombre. Si creas más de una regla pero las nombras con la misma categoría, todas las reglas apuntarán a la ruta con ese nombre.
 
 Las reglas son evaluadas por la plataforma en forma de pila, de arriba hacia abajo. Si tienes reglas más específicas que podrían ser abarcadas por opciones más generales, es importante colocar las reglas específicas en la parte superior y las más generales al final de la lista.
 
@@ -111,7 +109,7 @@ La plataforma admite el uso de expresiones regulares, o regex, que es un lenguaj
 
 ## Resultados de flujo
 
-Cada carta de decisión elige una ruta al final de su ejecución, lo que genera para nosotros un resultado de flujo. Cada resultado de flujo contiene información como:
+Cada carta de decisión elige una ruta al final de su ejecución, lo que genera un resultado de flujo. Cada resultado de flujo contiene información como:
 
 - Valor que se utilizó para la decisión;
 - Categoría de la ruta elegida después de las reglas;
@@ -121,14 +119,14 @@ Cada carta de decisión elige una ruta al final de su ejecución, lo que genera 
 
 Puedes acceder a estos valores de flujo utilizando las variables de la plataforma (para más información, consulta el artículo sobre expresiones y variables) y también puedes ver estos resultados en forma de gráficos en la sección de resultados en el editor de flujo (para más información, consulta el artículo sobre el editor de flujo y sus herramientas).
 
-Por defecto, los nombres de los resultados serán siempre **(Result + n)** donde **n** es el número de resultados que existen en tu flujo, pero esto se puede cambiar fácilmente en el campo **Result name**.
+Por defecto, los nombres de los resultados serán siempre **(Result + n)**, en el que **n** es el número de resultados que existen en tu flujo. Sin embargo, puedes cambiar este nombre en el campo **Result name**.
 
-Siempre cambia el nombre de tus resultados de flujo por nombres que puedas entender de manera simple e intuitiva.
+Cambia el nombre de los resultados de flujo por un nombre que identifique el dato guardado.
 
 **Wait for the contact to respond**
 La primera y más utilizada de las cartas de decisión. Las rutas se deciden a partir del texto ingresado por un contacto. Además, tiene la opción de crear una ruta en caso de que el usuario no responda, marcando la casilla de selección en la parte inferior de la carta y eligiendo el tiempo de espera para la respuesta.
 
-Carta muy utilizada para gestionar las respuestas a las preguntas hechas al usuario.
+Carta utilizada para gestionar las respuestas a las preguntas hechas al usuario.
 
 ## Split by custom expression
 
@@ -138,30 +136,30 @@ Permite personalizar ciertos procesos, como verificar el horario de funcionamien
 
 ## Split by contact field
 
-Aquí, todas las reglas de decisión analizan un campo del contacto. Solo necesitas seleccionar qué campo del contacto deseas verificar y luego definir las reglas correspondientes.
+Aquí, todas las reglas de decisión analizan un campo del contacto. Selecciona el campo del contacto que deseas verificar y define las reglas correspondientes.
 
 Buena forma de clasificar contactos a través de sus datos.
 
 ## Split by result in the flow
 
-El objetivo aquí es crear rutas a partir de los resultados del flujo, que pueden ser tanto los creados por otras cartas de decisión como los creados manualmente por la carta de acción correspondiente. Solo necesitas seleccionar el nombre del resultado de flujo que se va a analizar.
+El objetivo aquí es crear rutas a partir de los resultados del flujo, que pueden ser tanto los creados por otras cartas de decisión como los creados manualmente por la carta de acción correspondiente. Selecciona el nombre del resultado de flujo que se va a analizar.
 
 Esta carta puede usarse para analizar si alguna respuesta del usuario debe guardarse en un campo de contacto.
 
 ## Split by random chance
 
-Aquí, la ruta elegida se selecciona de forma aleatoria. Solo necesitas elegir la cantidad de rutas que deseas y esperar el resultado. En este caso, no hay una regla de decisión, y solo se puede personalizar el nombre de la ruta junto con la cantidad de rutas que existirán.
+Aquí, la ruta elegida se selecciona de forma aleatoria. Elige la cantidad de rutas que deseas y espera el resultado. En este caso, no hay una regla de decisión, y solo se puede personalizar el nombre de la ruta junto con la cantidad de rutas que existirán.
 
 Puedes crear varios mensajes de saludo y despedida que serán diferentes en cada ejecución por un contacto.
 
 ## Split by group membership
 
-Crea rutas a partir de los grupos en los que el contacto participa. Para hacerlo, solo debes seleccionar uno de los grupos de contacto existentes en la organización.
+Crea rutas a partir de los grupos en los que el contacto participa. Para hacerlo, selecciona uno de los grupos de contacto existentes en la organización.
 
 Puede utilizarse para limitar el acceso de ciertos grupos a partes específicas de los flujos.
 
 ## Split by URN type
 
-Crea rutas basadas en qué canal está utilizando el contacto en ese momento. Solo necesitas seleccionar el tipo de canal entre los disponibles y guardar.
+Crea rutas basadas en qué canal está utilizando el contacto en ese momento. Selecciona uno de los tipos de canal disponibles y guarda.
 
 ¿Deseas realizar tratamientos diferentes según el canal del contacto? Usa esta carta.

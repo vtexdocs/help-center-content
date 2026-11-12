@@ -3,7 +3,7 @@ title: 'Recuperando acesso ao Gerenciador de Negócios'
 id: 2kj7yKJWbEx2CsdWG50QNN
 status: PUBLISHED
 createdAt: 2025-09-15T15:34:21.608Z
-updatedAt: 2025-10-03T14:20:32.336Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.336Z
 firstPublishedAt: 2025-10-03T14:20:32.336Z
 contentType: tutorial
@@ -19,7 +19,7 @@ O acesso ao gerenciador de negócios é fundamental para que uma empresa possa c
 
 ## Processo de recuperação
 
-Primeiro é importante procurar e entrar em contato com os possíveis administradores do Gerenciador De Negócios, por exemplo, funcionários ou pessoas que podem ter criado ou administrado o Gerenciador de Negócios anteriormente. Se encontrar o Administrador do Gerenciador de Negócios, basta solicitar que ele siga os seguintes passos:
+Primeiro é importante procurar e entrar em contato com os possíveis administradores do Gerenciador de Negócios, por exemplo, funcionários ou pessoas que podem ter criado ou administrado o Gerenciador de Negócios anteriormente. Se encontrar o Administrador do Gerenciador de Negócios, solicite que ele siga os seguintes passos:
 
 1. Acesse as Configurações do negócio.
 2. Clique em Pessoas.
@@ -31,7 +31,7 @@ Primeiro é importante procurar e entrar em contato com os possíveis administra
 8. Selecione o ativo e o acesso à tarefa que você deseja atribuir à pessoa.
 9. Clique em Convidar. [Esta documentação explica mais detalhes.](https://www.facebook.com/business/help/2169003770027706)
 
-Se após realizar todo esses procedimentos e mesmo assim não encontrar a pessoa ou restaurar o acesso ao Gerenciador de Negócio, abra uma solicitação com a equipe de especialistas da Meta solicitando uma disputa administrativa, para isso será necessário vários documentos da pessoa Associada legalmente ao negócio que representa o Gerenciador de Negócio, essa pessoa tem que ter ligação direta com o CPNJ.
+Se, após realizar todos esses procedimentos, e mesmo assim não encontrar a pessoa ou restaurar o acesso ao Gerenciador de Negócios, abra uma solicitação com a equipe de especialistas da Meta solicitando uma disputa administrativa, para isso serão necessários vários documentos da pessoa associada legalmente ao negócio que representa o Gerenciador de Negócios. Essa pessoa precisa ter ligação direta com o CNPJ.
 
 Se for necessário seguir por esse caminho, abra um chamado no business suites com os seguintes documentos em mãos:
 
@@ -43,5 +43,5 @@ Se for necessário seguir por esse caminho, abra um chamado no business suites c
    3. Uma explicação do seu pedido (exemplo: houve uma cessação da relação de trabalho e/ou comercial com a(s) pessoa(s) nomeada(s)/Empresa e outra pessoa tem de ser adicionada como Administrador)
    4. As três faturas/extratos de faturamento mais recentes (independentemente do tempo passado) na(s) conta(s) de anúncios que a Empresa possui E os últimos 4 dígitos do(s) cartão(ões) de crédito na(s) conta(s)\*
    5. Se a BM não tiver nenhuma conta de anúncios, declare essas informações no extrato.
-   6. Uma declaração, com a verborragia ""Sob Pena de Perjúrio"", de que as informações que você forneceu são verdadeiras e precisas (por exemplo, ""Eu certifico que as informações fornecidas são verdadeiras e precisas""). Sua declaração deve incluir linguagem semelhante para ser considerada compatível e deve ser assinada à mão. Embora fosse um requisito anteriormente, atualmente não há exigência de que o documento seja reconhecido em cartório.
+   6. Uma declaração, com a expressão “Sob Pena de Perjúrio”, de que as informações que você forneceu são verdadeiras e precisas (por exemplo, “Eu certifico que as informações fornecidas são verdadeiras e precisas”). Sua declaração deve incluir linguagem semelhante para ser considerada compatível e deve ser assinada à mão. Embora fosse um requisito anteriormente, atualmente não há exigência de que o documento seja reconhecido em cartório.
    7. O ID da Empresa (BID) deve aparecer na declaração de corpo do documento

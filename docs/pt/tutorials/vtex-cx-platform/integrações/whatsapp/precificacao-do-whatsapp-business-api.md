@@ -3,7 +3,7 @@ title: 'Precificação do Whatsapp Business API'
 id: 6PzP7aMpkaYmICNyXFlNwr
 status: PUBLISHED
 createdAt: 2025-09-15T15:29:16.093Z
-updatedAt: 2025-10-03T14:20:32.421Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.421Z
 firstPublishedAt: 2025-10-03T14:20:32.421Z
 contentType: tutorial
@@ -45,7 +45,7 @@ A conversa iniciada é gratuita, porém o anúncio é cobrado.
 
 Lembrando que: Cada conta do WhatsApp Business (WABA) tem 1\.000 conversas iniciadas pelo usuário gratuitas por mês, independentemente da quantidade de telefones incluídos. O limite de conversas gratuitas é restaurado a cada mês, de acordo com o fuso horário associado à WABA.
 
-## Duração da Conversa
+## Duração da conversa
 
 As conversas de marketing, utilidade, autenticação e serviço têm uma duração de 24 horas (caso não sejam conversas por ponto de entrada gratuito — de anúncios de clique para o WhatsApp ou de Páginas do Facebook). Após esse período, o tempo será reiniciado, e qualquer mensagem enviada iniciará uma nova janela, sendo cobrada de acordo com a categoria.
 

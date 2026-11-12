@@ -3,7 +3,7 @@ title: "Crear un canal en Instagram"
 id: 2OIxJaBTkfZbTAvGh0Ykuv
 status: PUBLISHED
 createdAt: 2025-09-15T14:18:02.785Z
-updatedAt: 2025-10-03T14:20:33.457Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:33.457Z
 firstPublishedAt: 2025-10-03T14:20:33.457Z
 contentType: tutorial
@@ -15,19 +15,19 @@ locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Instagram ha alcanzado el hito de 2.0 mil millones de usuarios activos, de los cuales más de 500 millones navegan diariamente, no solo buscando interacción, sino también servicios y productos.
+Instagram ha alcanzado el hito de 2.000 millones de usuarios activos, de los cuales más de 500 millones navegan diariamente, no solo buscando interacción, sino también servicios y productos.
 
-Ahora, imagina que tu institución no está presente, activa y eficiente en este canal. Ya no es simplemente una red social para compartir fotos y videos de la vida cotidiana, sino una vitrina para hacer negocios y asociaciones importantes.
+Ahora, imagina que tu institución no está presente y activa en este canal. Ya no es una red social para compartir fotos y videos de la vida cotidiana, sino una vitrina para hacer negocios y asociaciones importantes.
 
-Ahora puedes elevar el nivel y potencial de tu atención al cliente integrando tu Instagram con VTEX CX Platforma.
+Ahora puedes elevar el nivel y potencial de tu atención al cliente integrando tu Instagram con la plataforma VTEX CX Platform.
 
 De esta manera, creas más compromiso e interacción con tus seguidores, clientes potenciales y socios, aumentando las posibilidades de cerrar nuevos proyectos mientras reduces los costos operativos de atención.
 
-## ¿Cómo configurar tu cuenta de Instagram para crear un canal en nuestra plataforma?
+## Configurar la cuenta de Instagram
 
 Las configuraciones a continuación son de suma importancia para la creación del canal de Instagram en nuestra plataforma, ya que sin ellas, la creación no será posible. Los siguientes pasos deberán realizarse en la aplicación de Instagram.
 
-### Paso 1: primero, es necesario que tu cuenta de Instagram sea empresarial o profesional
+### Convertir la cuenta en profesional
 
 Para hacerlo, sigue estos pasos:
 
@@ -36,16 +36,16 @@ Para hacerlo, sigue estos pasos:
 
 Tu cuenta ahora es empresarial.
 
-### Paso 2: conectar tu cuenta de Instagram al perfil de Facebook en la central de cuentas
+### Conectar la cuenta de Instagram al perfil de Facebook
 
 1. En tu perfil, haz clic en el menú de configuración de tres líneas en la esquina superior derecha.
 2. Haz clic en **Centro de cuentas**.
 3. Haz clic en **Iniciar sesión con cuentas**.
 4. Sigue los demás pasos y concluye la conexión de tu cuenta de Facebook con Instagram.
 
-Para eliminar las cuentas conectadas a Instagram o cambiar la cuenta de Facebook, simplemente entra en **Centro de cuentas** y elimina o cambia las cuentas.
+Para eliminar las cuentas conectadas a Instagram o cambiar la cuenta de Facebook, entra en **Centro de cuentas** y elimina o cambia las cuentas.
 
-### Paso 3: permite el acceso a los mensajes de Instagram
+### Permitir el acceso a los mensajes
 
 Esta autorización te permite gestionar tus mensajes de Instagram a través de nuestra plataforma. Para habilitarla, sigue los pasos a continuación:
 
@@ -54,11 +54,11 @@ Esta autorización te permite gestionar tus mensajes de Instagram a través de n
 3. Controles de mensajes
 4. Habilita la opción Permitir acceso a los mensajes.
 
-## Ahora, es momento de crear el canal en la VTEX CX Platform
+## Crear el canal de Instagram
 
 Después de realizar las configuraciones indicadas en la sección anterior, ahora crearemos un canal de Instagram.
 
 1. En tu proyecto, haz clic en **Aplicaciones > Descubrimientos** y añade el canal de **Instagram**.
 2. Haz clic en **Conectar** y se abrirá una nueva ventana.
-3. Si ya has iniciado sesión en la cuenta que administra la página a utilizar, simplemente haz clic en **Conectar**. Si prefieres cambiar de cuenta, haz clic en **Iniciar sesión en otra cuenta**. Si necesitas revisar las configuraciones y confirmar que esta es la cuenta que deseas usar, haz clic en **Editar configuraciones anteriores**.
+3. Si ya has iniciado sesión en la cuenta que administra la página a utilizar, haz clic en **Conectar**. Si prefieres cambiar de cuenta, haz clic en **Iniciar sesión en otra cuenta**. Si necesitas revisar las configuraciones y confirmar que esta es la cuenta que deseas usar, haz clic en **Editar configuraciones anteriores**.
 4. Después de hacer clic en **Conectar**, selecciona la página o perfil de Instagram que deseas integrar y haz clic en **Crear canal**.

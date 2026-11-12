@@ -155,7 +155,7 @@ In step 3, configure the support options, automated messages, and tags for the d
 
 ![Etapa 4 do assistente de criação de setor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configurações-vtex-cx-platform/configurar-o-live-desk_4.png)
 
-In step 4 (last step), configure quick messages for the department. Quick messages are shortcuts that let representatives send standardized responses more quickly in a support chat.
+In step 4 (last step), configure quick messages for the department. Quick messages are shortcuts that let representatives send standardized responses in a support chat.
 
 > ℹ️ This step is optional. You can skip the quick message configuration and complete it later in the department settings.
 

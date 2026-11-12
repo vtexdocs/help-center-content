@@ -3,7 +3,7 @@ title: "Classificação e resposta inteligente"
 id: 5Qk9g3o19n26jSz7cnbVL8
 status: PUBLISHED
 createdAt: 2025-09-16T16:48:11.308Z
-updatedAt: 2025-10-03T14:20:03.861Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:03.861Z
 firstPublishedAt: 2025-10-03T14:20:03.861Z
 contentType: tutorial
@@ -17,15 +17,13 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 O funcionamento da aplicação da Classificação e Resposta Inteligente consiste em receber como entrada uma frase, que será categorizada, e identificar a qual categoria essa entrada pertence de acordo com o contexto do cliente. As categorias são definidas através de Frases de comando, que servem de contexto para identificar e gerar a classificação correta. A partir dos dados de entrada é esperado que o modelo retorne a categoria da frase.
 
-Quando falamos de contexto, leve em consideração que sempre que for usar o Zero Shot, devemos configurar as Frases de Comando. **As frases de comando vão instruir a inteligência para classificar suas intenções (chamadas de ""Classes"") de acordo com regras definidas por você**.
+Quando falamos de contexto, leve em consideração que sempre que for usar o Zero Shot, devemos configurar as Frases de Comando. **As frases de comando vão instruir a inteligência para classificar suas intenções (chamadas de "Classes") de acordo com regras definidas por você**.
 
-## Na prática
+Existem duas formas de criar uma IA de classificação no VTEX CX Platform: os cartões **Classificar automaticamente** e **Aguarde por resposta inteligente**.
 
-Existem duas formas de se criar uma IA de classificação no VTEX CX Platform: através dos cards de fluxo **Classificar automaticamente** e **Aguarde por resposta inteligente**.
+## Aguarde por resposta inteligente
 
-### Aguarde por resposta inteligente
-
-Com o cartão **Aguarde por resposta inteligente** , você consegue aguardar pela resposta do usuário e enviar essa resposta direto para a sua Classificação de IA, assim você cria suas categorias e trata cada intenção como desejar:
+Com o cartão **Aguarde por resposta inteligente**, você aguarda a resposta do usuário e a envia diretamente para a sua Classificação de IA. Assim, você cria suas categorias e trata cada intenção como desejar:
 
 No exemplo abaixo, criamos as intenções e seus devidos contextos para que possamos categorizar e tratar as solicitações do usuário:
 
@@ -35,8 +33,8 @@ Lembre-se, cada categoria deve ter uma Frase de Comando. **As frases de comando 
 - quando o usuário quer saber por que o pedido dele atrasou ou se vai atrasar > Atraso
 - quando o usuário quer substituir um produto ou falar sobre um produto que foi substituído ou mudar um item > Substituição
 
-### Classificar automaticamente
+## Classificar automaticamente
 
-Com o cartão **Classificar automaticamente** , você pode utilizar uma expressão ou variáveis como a entrada para a classificação da intenção (Classe) do usuário. Normalmente esse cartão é usado quando você já tem um texto para tratar e não precisa aguardar uma resposta do usuário antes de consultar a Inteligência artificial:
+Com o cartão **Classificar automaticamente**, você pode utilizar uma expressão ou variáveis como a entrada para a classificação da intenção (Classe) do usuário. Normalmente esse cartão é usado quando você já tem um texto para tratar e não precisa aguardar uma resposta do usuário antes de consultar a inteligência artificial:
 
-Diferença entre o cartão **Aguarde por resposta inteligente** e o **Classificar automaticamente -** O **Classificar automaticamente** não irá provocar uma pausa no fluxo para receber a resposta do contato.
+A diferença entre o cartão **Aguarde por resposta inteligente** e o **Classificar automaticamente** é que este último não provoca uma pausa no fluxo para receber a resposta do contato.

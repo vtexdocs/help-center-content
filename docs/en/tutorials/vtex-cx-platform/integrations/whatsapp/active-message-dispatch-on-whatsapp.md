@@ -3,7 +3,7 @@ title: "Active message dispatch on WhatsApp"
 id: 20E0eUtogj84N0vf6nZeia
 status: PUBLISHED
 createdAt: 2025-09-15T15:27:41.354Z
-updatedAt: 2026-11-10T00:00:00.000Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.448Z
 firstPublishedAt: 2025-10-03T14:20:32.448Z
 contentType: tutorial
@@ -21,7 +21,7 @@ Passive dispatch occurs when the end user voluntarily contacts the company. At t
 
 On the other hand, active dispatch occurs when the company takes the initiative to start a conversation with the user. For active dispatch to take place, the message to be sent needs to go through a validation process guided by Meta, and only after its pre-approval can it be sent to users. On the VTEX CX Platform, we call this message model a Template Message.
 
-## Dispatching through the flow module
+## Send through the flow module
 
 After the pre-approval of the Template Message, the conversational flow can begin to be built. The first step is to add the "Update Contact" card and choose the "Channel" option, as it will define which channel the dispatch will be sent from. At this stage, select your WhatsApp channel.
 
@@ -31,7 +31,7 @@ The above expression indicates that a Template Message will be sent and that thi
 
 At this point, it is also possible to add variables that will make the message more personalized, such as the variable @contact.name, which addresses the user by the name registered in their own WhatsApp.
 
-### Variables the agent fills in Live Desk
+### Variables filled in by the agent in Live Desk
 
 `@contact.name` is filled in automatically with the contact's data. For the agent to edit a variable when triggering the flow from Live Desk, enter `@trigger.params.variable_name` in that variable's field on the **WhatsApp** tab. Replace `variable_name` with the name that should appear in **Variable mapping**. You define this name in the flow. It does not need to be a contact field.
 
@@ -45,9 +45,9 @@ This process is always carried out for the first message and is exclusive to the
 
 After selecting the message, click the "Trigger Flow" button located in the upper right corner of the screen and send it to a specific contact or a group of contacts.
 
-Finally, to check if everything went correctly, just access the "Studio" module, and in the "Flow" tab, you can track the sending history, gaining access to important information such as errors, initiated flows, and much more. This management is essential, especially for implementing improvements to your chatbot.
+Finally, to check whether everything went correctly, access the "Studio" module, and in the "Flow" tab, you can track the sending history, gaining access to important information such as errors, initiated flows, and much more. This management is essential, especially for implementing improvements to your chatbot.
 
-## Triggering a flow through the studio module
+## Send from the studio module
 
 It is also possible to send a Template Message through the "Studio" module by selecting the contact to whom you want to send the message and clicking on the options menu located in the upper right corner. Then, select "Start in Flow," choose the flow, and send. This is another option that the VTEX CX Platform offers for performing active dispatch.
 

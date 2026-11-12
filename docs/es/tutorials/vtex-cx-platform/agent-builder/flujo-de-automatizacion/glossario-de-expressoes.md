@@ -3,7 +3,7 @@ title: "Glosario de expresiones"
 id: 2E6mLfj9JEizAWTgfQCCED
 status: PUBLISHED
 createdAt: 2025-09-16T16:24:13.021Z
-updatedAt: 2025-10-03T14:20:04.224Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:04.224Z
 firstPublishedAt: 2025-10-03T14:20:04.224Z
 contentType: tutorial
@@ -15,20 +15,20 @@ locale: es
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-Las expresiones son fórmulas utilizadas en la plataforma de manera muy similar a las usadas en programas de hojas de cálculo, como Microsoft Excel. Aunque han evolucionado con el tiempo y estas similitudes son ahora menores, siguen siendo una herramienta poderosa. Es un lenguaje de modelado basado en expresiones que facilita la generación de texto a partir de un contexto de valores.
+Las expresiones son fórmulas que generan texto a partir de un contexto de valores. La sintaxis es parecida a la de las hojas de cálculo, como Microsoft Excel.
 
-En este artículo abordaremos:
+Este glosario cubre:
 
-- Modelos
-- Tipos
-- Operadores
-- Funciones
+- [Modelos](#modelos)
+- [Tipos](#tipos)
+- [Operadores](#operadores)
+- [Funciones](#funciones)
 
 ## Modelos
 
 Las expresiones pueden invocarse usando el siguiente modelo: `@(...)`.
 
-Por ejemplo, el modelo `Hi `@(""Dr "" & upper(foo))``toma el valor de la variable`@foo`, lo convierte a mayúsculas y lo prefija con otra palabra. Observa que dentro de una expresión compleja no es necesario poner `@` antes de todas las variables.
+Por ejemplo, el modelo `Hi @(""Dr "" & upper(foo))` toma el valor de la variable `@foo`, lo convierte a mayúsculas y lo prefija con otra palabra. Observa que dentro de una expresión compleja no es necesario poner `@` antes de todas las variables.
 
 ## Tipos
 
@@ -151,7 +151,7 @@ A continuación, se muestra la lista de todos los operadores que pueden utilizar
     @(3 / 0) → ERROR
     ```
 
-= : retorna ""true"" si dos valores son textualmente iguales
+= : retorna "true" si dos valores son textualmente iguales
 
     ```
     @(""hello"" = ""hello"") → true
@@ -165,13 +165,13 @@ A continuación, se muestra la lista de todos los operadores que pueden utilizar
     @(2 ^ 8) → 256
     ```
 
-**>** : retorna ""true"" si el primer número es mayor que el segundo
+**>**: retorna "true" si el primer número es mayor que el segundo
 
     ```
     @(2 > 3) → false@(3 > 3) → false@(4 > 3) → true
     ```
 
-**> =** : retorna ""true"" si el primer número es mayor o igual que el segundo
+**>=**: retorna "true" si el primer número es mayor o igual que el segundo
 
     ```
     @(2 >= 3) → false
@@ -179,7 +179,7 @@ A continuación, se muestra la lista de todos los operadores que pueden utilizar
     @(4 >= 3) → true
     ```
 
-**<** : retorna ""true"" si el primer número es menor que el segundo
+**<**: retorna "true" si el primer número es menor que el segundo
 
     ```
     @(2 < 3) → true
@@ -187,7 +187,7 @@ A continuación, se muestra la lista de todos los operadores que pueden utilizar
     @(4 < 3) → false
     ```
 
-**< =** : retorna ""true"" si el primer número es menor o igual que el segundo
+**<=**: retorna "true" si el primer número es menor o igual que el segundo
 
     ```
     @(2 <= 3) → true
@@ -208,7 +208,7 @@ A continuación, se muestra la lista de todos los operadores que pueden utilizar
     @(-fields.age) → -23
     ```
 
-**!** : retorna ""true"" si dos valores no son textualmente iguales
+**!=**: retorna "true" si dos valores no son textualmente iguales
 
     ```
     @(""hello"" != ""hello"") → false

@@ -3,7 +3,7 @@ title: "Creando un canal de Slack"
 id: 6At6Ne3yXdVJqEVR8mUzC8
 status: PUBLISHED
 createdAt: 2025-09-15T14:30:28.340Z
-updatedAt: 2025-10-03T14:20:32.860Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.860Z
 firstPublishedAt: 2025-10-03T14:20:32.860Z
 contentType: tutorial
@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-1. Con tu cuenta y workspace ya creados, accede a <https://api.slack.com/apps> y pulsa el botón para crear una nueva aplicación.
+1. Con tu cuenta y workspace ya creados, accede a [Slack API](https://api.slack.com/apps) y pulsa el botón para crear una nueva aplicación.
 2. Selecciona la opción **From scratch**.
 3. Nombra la aplicación y selecciona el workspace.
 4. En **App Home**, haz clic en el botón indicado.
@@ -36,6 +36,6 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 19. Se abrirá una nueva ventana. Haz clic en **Permitir**.
 20. Haz clic en **App Home**, desplázate hacia abajo y marca la casilla indicada.
 
-## Cómo activar respuestas rápidas/botones en Slack
+## Activar respuestas rápidas y botones
 
 En Slack, debes habilitar el envío de respuestas rápidas. Ve a **Features** > **Interactivity & Shortcuts**. En la pestaña de **Interactivity**, añade en el campo **Request URL** la URL de callback del Flows.

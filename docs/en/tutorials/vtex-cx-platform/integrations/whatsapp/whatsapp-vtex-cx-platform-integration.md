@@ -1,14 +1,14 @@
 ---
 title: 'WhatsApp: Integration with VTEX CX Platform'
 createdAt: 2025-09-15T15:02:52.737Z
-updatedAt: 2026-09-09T19:40:00.000Z
+updatedAt: 2026-11-12T12:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: whatsapp-vtex-cx-platform-integration
 locale: en
 ---
 
-WhatsApp integration in VTEX CX Platform connects a WhatsApp Business commercial number to your project. With the active channel, the store sends and receives messages through this number and manages account settings without leaving the platform.
+WhatsApp integration on the VTEX CX Platform connects a WhatsApp Business commercial number to your project. With the active channel, the store sends and receives messages through this number and manages account settings without leaving the platform.
 
 After linking your Meta account and creating the channel, you can:
 
@@ -26,9 +26,9 @@ To start integrating WhatsApp, follow these steps:
 
 1. In the desired project, go to **Settings > Channels**.
 2. In **Communication channels**, locate the **WhatsApp** card or type **WhatsApp** in the search field.
-4. Select the **WhatsApp** card.
-5. Click `+ Add`.
-6. In the pop-up, click `Continue`. The platform opens the connection flow with Meta. Follow the on-screen steps to link your Meta account with VTEX CX Platform.
+3. Select the **WhatsApp** card.
+4. Click `+ Add`.
+5. In the pop-up, click `Continue`. The platform opens the connection flow with Meta. Follow the on-screen steps to link your Meta account with VTEX CX Platform.
 
 ## Creating the channel
 
@@ -41,15 +41,15 @@ This channel is available at **Settings > Channels > My apps > WhatsApp [WhatsAp
 
 ## Configuring the channel
 
-When you click the number card, you can manage the channel content for that WhatsApp phone number, such as changing profile picture, viewing templates, changing description, connecting with webhook, and verifying your account.
+When you click the number card, you can manage the channel content for that WhatsApp phone number, such as changing the profile picture, viewing templates, changing the description, connecting a webhook, and verifying your account.
 
 ### General
 
-In the **General** tab, you view the identifiers for the number and WhatsApp Business account and access the channel templates. The fields displayed in this tab are read-only. To modify them, you need to access your Meta Business account.
+In the **General** tab, you view the identifiers for the number and WhatsApp Business account and access the channel templates. The fields displayed in this tab are read-only. To modify them, you need to access your account in Meta Business.
 
 In the **Manage content** section, click `View my templates` to open the message templates associated with the number.
 
-The **WhatsApp channel** section displays the connected line data. The visible fields are:
+The **WhatsApp channel** section displays the connected number's data. The visible fields are:
 
 | Field | Description |
 | --- | --- |
@@ -66,7 +66,7 @@ The **WhatsApp Business Account** section displays the identifiers for the Whats
 | **WABA name** | WhatsApp Business account name. |
 | **WABA ID** | WhatsApp Business identifier on Meta. |
 | **Messaging on behalf of** | Identity on whose behalf messages are sent. If not set, the interface displays a dash (`-`). |
-| **Time zone ID** | WhatsApp Business time zone, in IANA format. Example: `America/Sao_Paulo`. |
+| **Time zone ID** | WhatsApp Business account time zone, in IANA format. Example: `America/Sao_Paulo`. |
 | **Namespace** | WhatsApp Business template namespace. |
 
 ### Profile
@@ -84,7 +84,7 @@ If you modified any of the fields and want to save, click `Save changes`. To exi
 
 ### Webhook
 
-In the **Webhook** tab, you define the endpoint that receives channel notifications. Use this tab when an external system needs to handle message events outside VTEX CX Platform.
+In the **Webhook** tab, you define the endpoint that receives channel notifications. Use this tab when an external system needs to handle message events outside the VTEX CX Platform.
 
 To configure the webhook, fill in the following fields:
 

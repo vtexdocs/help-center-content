@@ -1,7 +1,7 @@
 ---
 title: 'Shopping Assistant: preguntas sugeridas'
 createdAt: 2026-09-03T21:30:00.000Z
-updatedAt: 2026-09-10T12:00:00.000Z
+updatedAt: 2026-11-12T12:00:00.000Z
 contentType: tutorial
 productTeam: VTEX CX Platform
 slugEN: shopping-assistant-suggested-questions
@@ -14,7 +14,7 @@ En este artículo se explica qué son las preguntas sugeridas, dónde aparecen, 
 
 ## Dónde aparecen las preguntas
 
-Las preguntas sugeridas funcionan exclusivamente en páginas de detalles del producto (PDP). No se muestran en la página de inicio, en páginas de categoría, en los resultados de búsqueda ni en el checkout.
+Las preguntas sugeridas funcionan exclusivamente en páginas de detalle del producto (PDP). No se muestran en la página de inicio, en páginas de categoría, en los resultados de búsqueda ni en el checkout.
 
 En la página de producto las preguntas aparecen de dos formas:
 
@@ -35,15 +35,15 @@ Al usar la funcionalidad ten en cuenta los siguientes comportamientos:
 - **La calidad de las preguntas depende directamente de la calidad del catálogo.** Los productos con descripción completa y especificaciones bien detalladas generan preguntas específicas y útiles. Los productos con poco contenido o campos vacíos generan preguntas genéricas.
 - **Cada tienda muestra preguntas en un único idioma;** no hay traducción automática entre configuraciones regionales.
 
-> ℹ️ Mejorar el contenido del catálogo es la forma más eficaz de mejorar las preguntas sugeridas. Revisa la descripción y las especificaciones de los productos para obtener preguntas más relevantes.
+> ℹ️ Mejorar el contenido del catálogo ayuda a mejorar las preguntas sugeridas. Revisa la descripción y las especificaciones de los productos para obtener preguntas más relevantes.
 
-## Activación
+## Comportamiento predeterminado
 
 Las preguntas sugeridas están activas de forma predeterminada. Las cuentas configuradas mediante el [onboarding de VTEX CX](https://help.vtex.com/es/docs/tutorials/introduccion-a-cx) ya tienen Shopping Assistant y preguntas sugeridas configurados, por lo que no es necesaria ninguna acción para empezar a usar la funcionalidad.
 
 ## Activar o desactivar las preguntas sugeridas
 
-Si prefieres no mostrar las preguntas en la tienda puedes desactivarlas en el VTEX CX Admin. Desactivar las preguntas sugeridas no afecta a Shopping Assistant: el chat sigue disponible en la tienda y los clientes aún pueden iniciar una conversación desde el launcher.
+Si prefieres no mostrar las preguntas en la tienda, puedes desactivarlas en el VTEX CX Admin. Desactivar las preguntas sugeridas no afecta a Shopping Assistant: el chat sigue disponible en la tienda y los clientes aún pueden iniciar una conversación desde el launcher.
 
 Para activar o desactivar las preguntas sugeridas sigue los pasos a continuación:
 

@@ -3,7 +3,7 @@ title: "Agregar Discord como un canal"
 id: 2s5uqsnula0RiNQXXJDDrL
 status: PUBLISHED
 createdAt: 2025-09-15T14:27:46.594Z
-updatedAt: 2025-10-03T14:20:32.891Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.891Z
 firstPublishedAt: 2025-10-03T14:20:32.891Z
 contentType: tutorial
@@ -19,22 +19,22 @@ Tus usuarios necesitarán una cuenta de Discord y un dispositivo compatible para
 
 La infraestructura necesaria para el proxy no es proporcionada por VTEX CX Platform.
 
-## Registra tu aplicación siguiendo las instrucciones oficiales
+## Registrar la aplicación en Discord
 
 Discord tiene documentación oficial sobre cómo registrar tu bot.
 
-[https://discord.com/developers/docs/getting-started](https://discord.com/developers/docs/getting-started)
+[Documentación de primeros pasos de Discord](https://discord.com/developers/docs/getting-started)
 
 - Accede al panel de desarrolladores y haz clic en "New Application" y crea tu aplicación:
 
-<https://discord.com/developers/applications>
+[Discord Developer Portal](https://discord.com/developers/applications)
 
 1. Ve a la pestaña "Bot" y haz clic en "Add Bot". Tendrás que confirmar haciendo clic en "Yes, do it!"
 2. Mantén las configuraciones predeterminadas para "Bot público" (marcado) y "Requerir concesión de código OAuth2" (desmarcado).
 3. El siguiente paso es copiar el token.
 4. Haz clic en "Redefinir Token" y obtén tu token.
 
-## Agrega el canal a la plataforma de VTEX CX Platform.
+## Agregar el canal a VTEX CX Platform
 
 1. Dentro del proyecto, ve a: Aplicaciones > Descubrimiento > Agregar Discord.
 2. Después de agregarlo a "Mis Aplicaciones", inserta tu discord_bot_token proporcionado por la página de Desarrolladores de Discord y la URL del Proxy, que es la URL donde el proxy de Discord está ejecutándose.

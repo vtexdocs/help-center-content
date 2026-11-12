@@ -3,7 +3,7 @@ title: "Import and export flows"
 id: 2jwPSnXsL3wniLWt9i7IA5
 status: PUBLISHED
 createdAt: 2025-09-17T14:03:45.539Z
-updatedAt: 2025-10-03T14:20:03.745Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:03.745Z
 firstPublishedAt: 2025-10-03T14:20:03.745Z
 contentType: tutorial
@@ -15,35 +15,34 @@ locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-There are many reasons for wanting to import and export flows, from wanting to pass on a solution to a friend that we created on the platform to creating a template to disseminate within our community. Here, we'll explain a little more about how this process works.
+You can export flows from one organization and import them into another.
 
-## Exporting
+## Export flows
 
 There are two ways to access the flow export page.
 
-1. **First Path: Via flow editor**
+### Through the flow editor
 
 To access the export page through the flow editor, go to the options menu and click the "Export Definition" button.
 
-Or also through the Flow module
+Or also through the **Flow module**.
 
-You can learn a little more about the [Flow Editor](/en/docs/tutorials/flow-editor-and-tools) and its tools by clicking on the link.
+To learn more about the editor, see [Flow editor and tools](/en/docs/tutorials/flow-editor-and-tools).
 
-1. **Second Path: Via general organization settings**
+### Through the organization's general settings
 
-To access the export page through the organization's general settings, just go to the options menu and click the "Export" button.
+To access the export page through the organization's general settings, go to the options menu and click the "Export" button.
 
-You can learn more about the Organization General Settings by clicking the [link](/en/docs/tutorials/general-project-settings).
+To learn more, see [General project settings](/en/docs/tutorials/general-project-settings).
 
-Once on the export page, it will display all the flows and campaigns of that organization, grouped by usage, meaning all flows in the same group interact with each other.
-If you export only one flow from a group, you may experience issues with its functionality.
+On the export page, the platform displays all the flows and campaigns of the organization, grouped by usage. That is, all flows in the same group interact with each other. If you export only one flow from a group, it may not work correctly.
 
-To export the flows you want, just select the ones you are interested in and then press the export button at the bottom of the page, it will generate a `.json` file that you can use in the next step, the import.
+To export the flows you want, select them and click the export button at the bottom of the page. The platform generates a `.json` file, which you use in the import step.
 
-## Import
+## Import flows
 
-To access the flow import page, go to the options menu and click the "Import" button in the organization's general settings.
+To open the import page, go to the options menu in the organization's general settings and click the "Import" button.
 
-After that, on the import page, select the .json file created on the export page and press the "Import" button.
+On the import page, select the `.json` file created in the export and click the "Import" button.
 
-That done, just wait a while and your flows will be properly imported into that organization.
+The platform imports the flows into the organization.

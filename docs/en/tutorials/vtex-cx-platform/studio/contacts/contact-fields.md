@@ -27,7 +27,7 @@ To access this information, go to your project and click on the "**Studio**" mod
 
 You will be directed to the contact fields management page, where you will find: all existing fields within your project, their written form as a variable, the type of value accepted, and how many times they have been used. To create a new field, click on "Create Field."
 
-After that, simply:
+Then:
 
 - Choose the label for your contact field by filling in the **Name** field
 

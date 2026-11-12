@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-Os marcadores de rota são números que aparecem abaixo de cada carta de ação e decisão, mostrando quantas vezes as pessoas passaram por aquela rota no fluxo. Essa ferramenta identifica o caminho mais procurado pelos usuários e é atualizada em tempo real. Também é possível identificar certos gargalos, como uma pergunta que segura um usuário tempo demais no fluxo.
+Os marcadores de rota são números que aparecem abaixo de cada carta de ação e decisão, mostrando quantas vezes as pessoas passaram por aquela rota no fluxo. Essa ferramenta identifica o caminho mais procurado pelos usuários e é atualizada em tempo real. Também é possível identificar certos gargalos, como uma pergunta que retém o usuário por tempo demais no fluxo.
 
 > ℹ️ Se um mesmo contato seguir pela mesma rota várias vezes, esse número exibido aumentará. Entretanto, se você alterar uma rota, esse número será zerado.
 

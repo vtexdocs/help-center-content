@@ -3,7 +3,7 @@ title: 'Disparo Ativo no WhatsApp'
 id: 20E0eUtogj84N0vf6nZeia
 status: PUBLISHED
 createdAt: 2025-09-15T15:27:41.354Z
-updatedAt: 2026-11-10T00:00:00.000Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.448Z
 firstPublishedAt: 2025-10-03T14:20:32.448Z
 contentType: tutorial
@@ -19,15 +19,15 @@ Antes de tudo, é importante entender a diferença entre *disparo ativo* e *pass
 
 O **disparo passivo** ocorre quando o usuário final entra em contato com a empresa de forma voluntária. Nesse momento, um fluxo de conversa é iniciado a partir da primeira mensagem enviada pelo usuário à empresa.
 
-Por outro lado, o **disparo ativo** ocorre quando a empresa toma a iniciativa de iniciar uma conversa com o usuário. Para que o disparo ativo seja realizado, a mensagem a ser enviada precisa passar por um processo de validação guiado pela Meta e, somente após sua pré-aprovação, é possível enviá-la aos usuários. No VTEX CX Platformos esse modelo de mensagem de Template Message.
+Por outro lado, o **disparo ativo** ocorre quando a empresa toma a iniciativa de iniciar uma conversa com o usuário. Para que o disparo ativo seja realizado, a mensagem a ser enviada precisa passar por um processo de validação guiado pela Meta e, somente após sua pré-aprovação, é possível enviá-la aos usuários. No VTEX CX Platform, chamamos esse modelo de mensagem de Template Message.
 
-## Disparando pelo Fluxo de automação
+## Disparar pelo fluxo de automação
 
-Após a pré-aprovação da Template Message, o fluxo conversacional pode começar a ser construído. O primeiro passo é adicionar o cartão/ card de ""Atualizar Contato"" e escolher a opção ""Channel"" (Canal), pois ela definirá de qual canal será feito o disparo. Nesta etapa, escolha o seu canal do WhatsApp.
+Após a pré-aprovação da Template Message, o fluxo conversacional pode começar a ser construído. O primeiro passo é adicionar o cartão “Atualizar Contato” e escolher a opção “Channel” (Canal), pois ela definirá de qual canal será feito o disparo. Nesta etapa, escolha o seu canal do WhatsApp.
 
-O **segundo passo** é adicionar o cartão enviar mensagem, na caixa de texto basta apenas digitar a seguinte expressão: @(“”).
+O **segundo passo** é adicionar o cartão “Enviar mensagem”. Na caixa de texto, digite a seguinte expressão: @(“”).
 
-A expressão acima indica que um Template Message (modelo de mensagem) será enviado e que este campo não será levado em consideração, pois o modelo de mensagem a ser enviado aos clientes pode ser selecionado na aba ""WhatsApp"", localizada no mesmo cartão de ""Enviar Mensagem"". Ao clicar na aba ""WhatsApp"", é possível acessar as mensagens que foram pré-aprovadas e selecioná-las para envio.
+A expressão acima indica que um Template Message (modelo de mensagem) será enviado e que este campo não será levado em consideração, pois o modelo de mensagem a ser enviado aos clientes pode ser selecionado na aba “WhatsApp”, localizada no mesmo cartão de “Enviar Mensagem”. Ao clicar na aba “WhatsApp”, é possível acessar as mensagens que foram pré-aprovadas e selecioná-las para envio.
 
 Neste momento, também é possível adicionar variáveis que tornarão a mensagem mais personalizada, como, por exemplo, a variável *@contact.name*, que chama o usuário pelo nome registrado no próprio WhatsApp.
 
@@ -41,14 +41,14 @@ Se o fluxo incluir mais de um modelo com variáveis, use `@trigger.params.variab
 
 Para saber como o agente completa esses valores antes do envio, consulte [Utilizando o disparo ativo de fluxos](https://help.vtex.com/pt/docs/tutorials/utilizando-disparo-ativo-de-fluxos).
 
-Este processo é sempre realizado para a primeira mensagem e é exclusivo para o canal WhatsApp. Após a entrega da Template Message, se o usuário responder, a empresa pode seguir o fluxo de mensagens de forma livre com os demais cartões/ cards de ação. Toda a construção do fluxo pode ser planejada normalmente após o primeiro cartão de Template Message. Para que o usuário possa responder, é necessário adicionar um cartão ""*Aguarde por Resposta*"", criando assim uma experiência de atendimento contínua.
+Este processo é sempre realizado para a primeira mensagem e é exclusivo para o canal WhatsApp. Após a entrega da Template Message, se o usuário responder, a empresa pode seguir o fluxo de mensagens de forma livre com os demais cartões de ação. Toda a construção do fluxo pode ser planejada normalmente após o primeiro cartão de Template Message. Para que o usuário possa responder, é necessário adicionar um cartão “Aguarde por Resposta”, criando assim uma experiência de atendimento contínua.
 
-Após selecionar a mensagem, basta clicar no botão ""*Disparar Fluxo*"", localizado no canto superior direito da tela, e fazer o disparo para um contato específico ou um grupo de contatos.
+Após selecionar a mensagem, clique no botão “Disparar Fluxo”, localizado no canto superior direito da tela, e fazer o disparo para um contato específico ou um grupo de contatos.
 
-Por fim, para verificar se tudo ocorreu corretamente, basta acessar **Contatos** (em **Operações**) e, na aba ""*Fluxo*"", é possível acompanhar o histórico de envio, tendo acesso a informações importantes como erros, fluxos iniciados e muito mais. Esse gerenciamento é essencial, principalmente para a implementação de melhorias no seu chatbot.
+Por fim, para verificar se tudo ocorreu corretamente, acesse **Contatos** (em **Operações**) e, na aba “Fluxo”, é possível acompanhar o histórico de envio, tendo acesso a informações importantes como erros, fluxos iniciados e muito mais. Esse gerenciamento é essencial, principalmente para a implementação de melhorias no seu chatbot.
 
-## Disparando fluxo por Contatos
+## Disparar pela lista de contatos
 
-Também é possível enviar uma Template Message em **Contatos > Contatos**, selecionando o contato para o qual deseja fazer o envio e clicando no menu de opções, localizado no canto superior direito. Depois, basta selecionar "Iniciar no Fluxo", escolher o fluxo e enviar.
+Também é possível enviar uma Template Message em **Contatos > Contatos**, selecionando o contato para o qual deseja fazer o envio e clicando no menu de opções, localizado no canto superior direito. Depois, selecione "Iniciar no Fluxo", escolher o fluxo e enviar.
 
 O processo de **disparo ativo** é o mesmo para todos os canais de comunicação, porém a criação da Template Message é **exclusiva** para o canal WhatsApp. Isso significa que, enquanto o uso da Template Message não é necessário para outros canais, no WhatsApp só é possível enviar um modelo de mensagem (início do fluxo). Nos demais canais, é possível enviar mais de uma mensagem, sem limitações prévias.

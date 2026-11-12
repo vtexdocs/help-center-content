@@ -19,7 +19,7 @@ Once we create our streams, our goal and anxiety becomes knowing how people are 
 
 ## Route markers
 
-Route markers are guide numbers that appear below each action and decision chart, showing how many people went through that route in the flow. Very interesting tool to identify which path is being the most sought after by its users, besides always being updated in real time. You can also identify certain bottlenecks, such as when a question holds a user too long in the flow.
+Route markers are guide numbers that appear below each action and decision chart, showing how many people went through that route in the flow. Use route markers to identify the paths users take most often. They are updated in real time. You can also identify certain bottlenecks, such as when a question holds a user too long in the flow.
 
 By placing the cursor on top of one of the route markers, you can see the last messages received by the people who went through that path. Besides knowing the date of last contact.
 

@@ -1,7 +1,7 @@
 ---
 title: 'Shopping Assistant: perguntas sugeridas'
 createdAt: 2026-09-03T21:30:00.000Z
-updatedAt: 2026-09-10T12:00:00.000Z
+updatedAt: 2026-11-12T12:00:00.000Z
 contentType: tutorial
 productTeam: VTEX CX Platform
 slugEN: shopping-assistant-suggested-questions
@@ -37,7 +37,7 @@ Ao usar a funcionalidade, considere os seguintes comportamentos:
 
 > ℹ️ Melhorar o conteúdo do catálogo é a forma mais eficaz de melhorar as perguntas sugeridas. Revise a descrição e as especificações dos produtos para obter perguntas mais relevantes.
 
-## Ativação
+## Comportamento padrão
 
 As perguntas sugeridas vêm habilitadas por padrão. Contas configuradas por meio do [onboarding do VTEX CX](https://help.vtex.com/pt/docs/tutorials/introducao-ao-cx) já têm o Shopping Assistant e as perguntas sugeridas configurados, portanto nenhuma ação é necessária para começar a usar a funcionalidade.
 

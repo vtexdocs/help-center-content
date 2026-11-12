@@ -19,7 +19,7 @@ A palavra-chave é a primeira palavra em uma mensagem e pode ser usada para inic
 
 Todos os passos aqui descritos serão realizados na guia "**Triggers**", localizada dentro de **Contatos** (em **Operações**).
 
-Para facilitar a navegação neste artigo, caso queira ir diretamente para um tipo de trigger específico, basta clicar no nome dele abaixo:
+Para facilitar a navegação neste artigo, caso queira ir diretamente para um tipo de trigger específico, clique no nome dele abaixo:
 
 - [Para criar uma palavra-chave que inicie um fluxo](#para-criar-uma-palavra-chave-que-inicie-um-fluxo)
 - [Criando uma palavra-chave de mensagem que permite que as pessoas ingressem em um grupo](#criando-uma-palavra-chave-de-mensagem-que-permite-que-as-pessoas-ingressem-em-um-grupo)
@@ -37,7 +37,7 @@ Para facilitar a navegação neste artigo, caso queira ir diretamente para um ti
 - A mensagem começa com a palavra-chave: Se a frase digitada pelo usuário começar com uma palavra-chave, o fluxo escolhido será acionado
 - A mensagem contém apenas a palavra-chave: O fluxo escolhido será acionado se o usuário digitar apenas a palavra-chave
 - Em **fluxo**, é definido o fluxo que será iniciado quando você usar a palavra-chave
-- Em **apenas grupos**, é possível incluir ou não incluir as regras desse trigger a grupos de contato específicos, basta deixa o espaço em branco se você quiser aplicar essa regra a todos os usuários
+- Em **apenas grupos**, é possível incluir ou não incluir as regras desse trigger a grupos de contato específicos. Deixe o espaço em branco para aplicar essa regra a todos os usuários
 - Clique na caixa **Criar Trigger**
 
 ## Criando uma palavra-chave de mensagem que permite que as pessoas ingressem em um grupo

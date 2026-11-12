@@ -3,7 +3,7 @@ title: 'Importar e exportar fluxos'
 id: 2jwPSnXsL3wniLWt9i7IA5
 status: PUBLISHED
 createdAt: 2025-09-17T14:03:45.539Z
-updatedAt: 2025-10-03T14:20:03.745Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:03.745Z
 firstPublishedAt: 2025-10-03T14:20:03.745Z
 contentType: tutorial
@@ -15,34 +15,34 @@ locale: pt
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-Existem muitos motivos para querermos importar e exportar fluxos, desde querer passar para um amigo alguma solução que criamos na plataforma até mesmo criar um template para divulgar dentro da nossa comunidade. Aqui, vamos explicar um pouco mais sobre como esse processo funciona.
+Você pode exportar fluxos de uma organização e importá-los em outra.
 
-## Exportação
+## Exportar fluxos
 
-Existem dois caminhos de chegarmos na página de exportação de fluxos.
+Há dois caminhos para abrir a página de exportação de fluxos.
 
-1. **Primeiro Caminho: Via editor de fluxos**
+### Pelo editor de fluxos
 
-Para acessar a página de exportação pelo editor de fluxos, basta ir ao menu de opções e clicar no botão _**exportar definição**_.
+Para acessar a página de exportação pelo editor de fluxos, vá ao menu de opções e clique em _**exportar definição**_.
 
-Ou também em **Fluxo de automação**
+Ou também em **Fluxo de automação**.
 
-Você pode conhecer um pouco mais sobre o [Editor de fluxo e suas ferramentas](/pt/docs/tutorials/editor-de-fluxo-e-suas-ferramentas) clicando no link.
+Para saber mais sobre o editor, consulte [Editor de fluxo e suas ferramentas](/pt/docs/tutorials/editor-de-fluxo-e-suas-ferramentas).
 
-2. **Segundo Caminho: Via configurações gerais da organização**
+### Pelas configurações gerais da organização
 
-Para acessar a página de exportação pelas configurações gerais da organização, basta ir ao menu de opções e clicar no botão _**exportar**_.
+Para acessar a página de exportação pelas configurações gerais da organização, vá ao menu de opções e clique em _**exportar**_.
 
-Você pode conhecer um pouco mais sobre as Configurações gerais de organização na página [Configurações gerais do projeto](/pt/docs/tutorials/configuracoes-gerais-do-projeto).
+Para saber mais, consulte [Configurações gerais do projeto](/pt/docs/tutorials/configuracoes-gerais-do-projeto).
 
-Já na página de exportação, ela irá te exibir todos os fluxos e campanhas daquela organização, estando eles agrupados por uso, ou seja, todos os fluxos de um mesmo grupo interagem entre si. Caso você exporte apenas um fluxo de um grupo, você pode ter problemas em seu funcionamento.
+Na página de exportação, a plataforma exibe todos os fluxos e campanhas da organização, agrupados por uso. Ou seja, todos os fluxos de um mesmo grupo interagem entre si. Se você exportar apenas um fluxo de um grupo, ele pode não funcionar corretamente.
 
-Para exportar os fluxos que deseja, basta selecionar os de seu interesse e depois apertar no botão _**exportar**_ no fim da página, ele irá gerar um arquivo `.json` que você poderá utilizar na próxima etapa, a importação.
+Para exportar os fluxos desejados, selecione-os e clique em _**exportar**_ no fim da página. A plataforma gera um arquivo `.json`, que você usa na etapa de importação.
 
-## Importação
+## Importar fluxos
 
-Para chegarmos na página de importação de fluxo basta ir ao menu de opções e clicar no botão **_importar_** nas configurações gerais da organização.
+Para abrir a página de importação, vá ao menu de opções nas configurações gerais da organização e clique em **_importar_**.
 
-Depois disso, ao acessar a página de importação, basta selecionar o arquivo `.json` criado na página de exportação e pressionar o botão _**import**_.
+Na página de importação, selecione o arquivo `.json` criado na exportação e clique em _**import**_.
 
-Feito isso, basta esperar um pouco e seus fluxos serão devidamente importados naquela organização.
+A plataforma importa os fluxos na organização.

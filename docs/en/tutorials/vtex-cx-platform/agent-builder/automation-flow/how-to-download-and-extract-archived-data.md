@@ -3,7 +3,7 @@ title: "Downloading and extracting archived data"
 id: 3fYq4fID5fMrm5BT2uVxG0
 status: PUBLISHED
 createdAt: 2025-09-12T17:09:16.264Z
-updatedAt: 2025-10-03T14:21:49.361Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:21:49.361Z
 firstPublishedAt: 2025-10-03T14:21:49.361Z
 contentType: tutorial
@@ -15,11 +15,11 @@ locale: en
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-Something very important to know about data collection on the VTEX CX Platform is that the data is stored for 180 days. After this period, the data is archived on the platform and stored in JSON format in the Archives menu.
+Data from the Automation flow is stored for 180 days. After this period, the platform archives the data in JSON format in the Archives menu.
 
-## Instructions
+## Get the files in the Automation flow
 
-You can download these archived data by accessing the settings panel. At the bottom of the page, it will show the number of files and their records.
+You can download these archived data by accessing the settings panel. At the bottom of the page, the platform shows the number of files and records.
 
 You can access both the content of the **Messages** table and the **Runs** table. To view either, click the button highlighted in yellow.
 

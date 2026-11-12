@@ -23,6 +23,6 @@ You can find the description of the flow charts for groups by clicking [here](/e
 
 To create a static group, navigate to the contacts page within the "**Studio**" module and click the **Create Group** button in the side menu.
 
-After that, just choose the name of your group and create it by the pop-up that will appear.
+After that, choose the name of your group and create it by the pop-up that will appear.
 
-The group will start to be listed in your group list, just below the contact categories in the left side menu. If you want to edit the name of your group, export the participating contacts or delete it, just access the group and then click on the settings button in the right corner next to **Manage Fields**.
+The group will start to be listed in your group list, below the contact categories in the left side menu. If you want to edit the name of your group, export the participating contacts or delete it, access the group and then click on the settings button in the right corner next to **Manage Fields**.

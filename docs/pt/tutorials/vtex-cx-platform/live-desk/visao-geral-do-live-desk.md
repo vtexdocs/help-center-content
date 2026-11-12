@@ -109,13 +109,13 @@ Use os botões abaixo do campo de mensagem para incluir conteúdo:
 - **Áudio:** Clique no botão de áudio para gravar uma mensagem e reproduzi-la antes de enviá-la ao contato.
 - **Arquivos:** Clique no botão de anexo para anexar um arquivo.
 
-Para anexar arquivos com mais rapidez, você também pode arrastar um arquivo até o campo de mensagem ou pressionar `Ctrl + V` para colar uma imagem.
+Para anexar arquivos, você também pode arrastar um arquivo até o campo de mensagem ou pressionar `Ctrl + V` para colar uma imagem.
 
 Para inserir uma quebra de linha no campo de mensagem, pressione `Shift + Enter`.
 
 ### Usar mensagens rápidas
 
-As mensagens rápidas são modelos de texto pré-configurados. Os atendentes as usam para enviar respostas padrão com mais rapidez durante o atendimento.
+As mensagens rápidas são modelos de texto pré-configurados. Os atendentes as usam para enviar respostas padrão durante o atendimento.
 
 O campo de mensagem exibe `Digite sua mensagem ou / para ativar mensagens rápidas`. Abaixo do campo, clique no botão de mensagens rápidas para abrir o painel, onde você pode visualizar, gerenciar e cadastrar mensagens. Ao selecionar uma mensagem, o texto preenche o campo.
 

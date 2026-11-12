@@ -3,7 +3,7 @@ title: 'Visualizando relatórios na plataforma'
 id: 336oZVyzWmvheGQC1cGnpN
 status: PUBLISHED
 createdAt: 2025-09-17T14:08:47.929Z
-updatedAt: 2025-10-03T14:20:03.697Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:03.697Z
 firstPublishedAt: 2025-10-03T14:20:03.697Z
 contentType: tutorial
@@ -23,7 +23,7 @@ Para acessar os resultados de fluxo, siga os passos abaixo:
 
 A aba de **Resultados** fornece duas opções de relatórios:
 
-## Visão Global
+## Visão global
 
 A aba de visão global fornece uma visão geral dos usuários que passaram pelo fluxo.
 
@@ -33,4 +33,4 @@ A aba de **Execuções** contém todos os dados brutos, como última atividade e
 
 Para exportar esses resultados, clique no botão `Baixar`, no canto superior direito. Você pode selecionar os grupos, campos e URNs. Se você marcar a caixa `Somente respondidos`, a planilha vai conter apenas os contatos que enviaram alguma resposta no fluxo.
 
-A exportação de resultados gera uma planilha `.xlxs` e envia essa planilha para o email de usuário que fez a exportação. A planilha inclui nome, URN do contato, data de início e de término das interações no fluxo, mensagens que o contato enviou e outras informações coletadas no fluxo.
+A exportação de resultados gera uma planilha `.xlsx` e envia essa planilha para o e-mail do usuário que fez a exportação. A planilha inclui nome, URN do contato, data de início e de término das interações no fluxo, mensagens que o contato enviou e outras informações coletadas no fluxo.

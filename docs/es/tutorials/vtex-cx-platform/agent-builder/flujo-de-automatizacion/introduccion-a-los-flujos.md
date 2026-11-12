@@ -3,7 +3,7 @@ title: "Flujo de automatización"
 id: 5XxzVEJtDzXXEOS0SXANeS
 status: PUBLISHED
 createdAt: 2025-09-16T16:38:04.873Z
-updatedAt: 2025-10-03T14:20:03.960Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:03.960Z
 firstPublishedAt: 2025-10-03T14:20:03.960Z
 contentType: tutorial
@@ -55,7 +55,7 @@ Esas decisiones son tomadas en cima de las reglas de decisión existentes en su 
 
 Las cartas para comentario permiten la creación de notas, semejantes a posts-its, en nuestros flujos. Pueden ser utilizadas como forma de comunicación entre usted y un colega que también esté trabajando en el mismo proyecto, sea para explicar sobre cómo una parte del flujo funciona, o para alertar de que tal vez sea mejor no alterar esa etapa.
 
-Para crear una carta de comentario, basta con clickear dos veces en un lugar vacío del flujo. Después de eso, usted consigue mover libremente sus notas y posicionarlas en el lugar que guste.
+Para crear una carta de comentario, haga clic dos veces en un lugar vacío del flujo. Después de eso, usted consigue mover libremente sus notas y posicionarlas en el lugar que guste.
 
 ## Y ahora?
 

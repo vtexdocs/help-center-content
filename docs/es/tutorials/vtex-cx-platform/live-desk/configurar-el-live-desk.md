@@ -155,7 +155,7 @@ En el paso tres, configura las opciones de chats de soporte, mensajes automatiza
 
 ![Etapa 4 do assistente de criação de setor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configurações-vtex-cx-platform/configurar-o-live-desk_4.png)
 
-En el paso cuatro, que es el último, configura mensajes rápidos para el departamento. Los mensajes rápidos son atajos que permiten a los representantes enviar respuestas estandarizadas con más agilidad durante el chat de soporte.
+En el paso cuatro, que es el último, configura mensajes rápidos para el departamento. Los mensajes rápidos son atajos que permiten a los representantes enviar respuestas estandarizadas durante el chat de soporte.
 
 > ℹ️ Este paso es opcional. Puedes omitir la configuración de mensajes rápidos y completarla después en los ajustes del departamento.
 

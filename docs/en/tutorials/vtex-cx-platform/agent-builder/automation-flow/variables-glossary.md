@@ -3,7 +3,7 @@ title: "Variables glossary"
 id: MOTwhIJlY251TLzK3UUPl
 status: PUBLISHED
 createdAt: 2025-09-16T16:20:16.591Z
-updatedAt: 2026-11-10T00:00:00.000Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:04.252Z
 firstPublishedAt: 2025-10-03T14:20:04.252Z
 contentType: tutorial
@@ -19,12 +19,12 @@ Variables are created to store values on the platform, allowing data to be saved
 
 To use a variable, you should type `@`, and the expression will be replaced by the actual value of the variable, provided it is properly created.
 
-Below, we will list how to reference all types of variables available on VTEX CX Platform:
+The sections below describe how to reference the types of variables available on VTEX CX Platform:
 
 - Contacts and Contact Fields
 - Results and Flows
 - Trigger parameters
-- Globals
+- Global variables
 
 ## Contacts and contact fields
 
@@ -76,12 +76,12 @@ Inside the flow, you can save this value in a contact field with the **Update th
 
 For how to configure the variable and how the agent fills it in, see [Active message dispatch on WhatsApp](https://help.vtex.com/en/docs/tutorials/active-message-dispatch-on-whatsapp) and [Using active triggering of flows](https://help.vtex.com/en/docs/tutorials/using-active-triggering-of-flows).
 
-## Globals
+## Global variables
 
-Global variables, or **globals** , are variables that can be accessed from any flow at any time, but their value cannot be modified during the flow's execution. They are widely used when the same information needs to be sent to multiple flows, and later that value needs to be updated practically across all the flows where it is used.
+Global variables, or **globals**, are variables that can be accessed from any flow at any time, but their value cannot be modified during the flow's execution. They are widely used when the same information needs to be sent to multiple flows, and later that value needs to be updated practically across all the flows where it is used.
 
-To create a global, go to the general settings of your organization and scroll to the bottom of the page, where you will find the section for globals.
+To create a global, go to the general settings of your organization and scroll to the bottom of the page, where you will find the globals tab.
 
-After that, click on **Create Global** , enter the name of the global along with its value.
+After that, click on **Create Global**, enter the name of the global along with its value.
 
 Thus, it will become accessible in any flow using the variable `@globals.global_name`.

@@ -37,7 +37,7 @@ Ela contém as seguintes seções:
 
 #### 1. Status dos atendimentos
 
-Apresenta um resumo rápido do estado atual dos atendimentos com três contadores:
+Apresenta um resumo do estado atual dos atendimentos com três contadores:
 
 - **Em espera:** Número de contatos na fila aguardando o início do atendimento.
 - **Em andamento:** Número de atendimentos conduzidos por um agente no momento.

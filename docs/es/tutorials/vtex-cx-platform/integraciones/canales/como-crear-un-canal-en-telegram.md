@@ -3,7 +3,7 @@ title: "Crear un canal en Telegram"
 id: 2HpxHtgeLai6EpgEFxQL2p
 status: PUBLISHED
 createdAt: 2025-09-15T14:59:37.246Z
-updatedAt: 2025-10-03T14:20:32.736Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.736Z
 firstPublishedAt: 2025-10-03T14:20:32.736Z
 contentType: tutorial
@@ -19,11 +19,11 @@ Para conectar tu chatbot con Telegram, siga estos pasos:
 
 1. Converse con BotFather:
 
-Botfather es un chatbot que crea y controla otros chatbots para Telegram. Para encontrarlo, busque en @BotFather en el buscador de Telegram.
+BotFather es un chatbot que crea y controla otros chatbots para Telegram. Para encontrarlo, busque en @BotFather en el buscador de Telegram.
 
 2. Cree un nuevo chatbot con BotFather:
 
-Cuando inicie una nueva conversación con BotFather, envie un mensaje /newbot para crear un nuevo chatbot. En seguida escoja un nombre y un Username (los usernames deben siempre terminar en "\_bot", por ejemplo, "test_bot").
+Cuando inicie una nueva conversación con BotFather, envíe un mensaje `/newbot` para crear un nuevo chatbot. En seguida escoja un nombre y un Username (los usernames deben siempre terminar en "\_bot", por ejemplo, "test_bot").
 
 Reciba el Token de acceso:
 

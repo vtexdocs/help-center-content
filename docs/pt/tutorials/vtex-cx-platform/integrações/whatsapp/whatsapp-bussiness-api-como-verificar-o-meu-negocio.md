@@ -3,7 +3,7 @@ title: 'Whatsapp Bussiness API: Como Verificar o meu Negócio'
 id: 7MaArO3CPxHsjnyyddL6t3
 status: PUBLISHED
 createdAt: 2025-09-15T15:30:49.392Z
-updatedAt: 2025-10-03T14:20:32.393Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.393Z
 firstPublishedAt: 2025-10-03T14:20:32.393Z
 contentType: tutorial
@@ -27,11 +27,11 @@ O VTEX CX Platform, como parceiro oficial (BPS) da Meta, habilita o botão de ve
 
 ## Como acessar o Gerenciador de negócios
 
-- Acesse o Business Manager como administrador via este link: <https://business.facebook.com/settings/>
+- Acesse o Business Manager como administrador via este link: [Business Manager](https://business.facebook.com/settings/)
 - Selecione a conta empresarial a ser utilizada
-- Siga com os passos abaixo para realizar a verificação de negócios.
+- Siga os passos abaixo para realizar a verificação de negócios.
 
-## Passo 1
+## Iniciar a verificação
 
  Clique em Contas de WhatsApp e escolha a conta que deseja verificar
 
@@ -44,26 +44,26 @@ Seguem alguns links importantes para o processo de Verificação de Negócios:
 - [Processo de verificação](https://www.facebook.com/business/help/2058515294227817?id=180505742745347) (é **obrigatório** ter site com a razão social, telefone, endereço comercial e CNPJ estampados na primeira página)
 - [Documentos oficiais](https://www.facebook.com/business/help/159334372093366)
 
-## Passo 2
+## Confirmar o botão de verificação
 
-Caso já tenha integrado seu número na nossa plataforma através de **Configurações > Canais > Outras aplicações** ou tenha sido aceito o vínculo entre o seu Meta Business e o VTEX CX Platformo Iniciar verificação estará disponível para você na nova página aberta através do Ver Detalhes.
+Caso já tenha integrado seu número na nossa plataforma através de **Configurações > Canais > Outras aplicações** ou tenha sido aceito o vínculo entre o seu Meta Business e o VTEX CX Platform, o botão Iniciar verificação estará disponível para você na nova página aberta através do Ver Detalhes.
 
-Caso este botão não esteja visível, contate o suporte/seu analista responsável para auxílio da ativação do botão de verificação de negócios.
+Caso este botão não esteja visível, contate o suporte ou seu analista responsável para obter ajuda com a ativação do botão de verificação de negócios.
 
-## Passo 3
+## Enviar a documentação
 
-Siga as instruções da Meta, leia atentamente as solicitações e preencha com dados compatíveis a sua documentação de empresa/CNPJ ou aos indicados pela Meta.
+Siga as instruções da Meta, leia atentamente as solicitações e preencha com dados compatíveis com sua documentação de empresa/CNPJ ou aos indicados pela Meta.
 
-Nesse momento, serão solicitados os documentos oficiais e **obrigatórios** para validação do negócio. Os documentos oficiais aceitos estão descritos [na seção Passo 1](#passo-1).
+Nesse momento, serão solicitados os documentos oficiais e **obrigatórios** para validação do negócio. Os documentos oficiais aceitos estão descritos [na seção Iniciar a verificação](#iniciar-a-verificacao).
 
 É importante:
 
 - Que as informações da empresa estejam idênticas aos documentos;
-- Checar se os dados da sua empresa se sugerido pela Meta estão atualizados;
-- O telefone preenchido esteja disponível para receber ligações oficiais, este é o telefone cadastrado no CNPJ;
-- Caso escolha a opção e-mail é importante ser um e-mail corporativo pessoal como <nome@empresa.com>;
+- Checar se os dados sugeridos pela Meta estão atualizados;
+- Que o telefone preenchido esteja disponível para receber ligações oficiais, este é o telefone cadastrado no CNPJ;
+- Caso escolha a opção e-mail é importante ser um e-mail corporativo pessoal como nome@empresa.com;
 - Se for pelo método Meta TAG, siga as instruções;
 
-Não cumprir com esses pontos **impossibilita** o envio do código para verificação da empresa.
+Não cumprir esses pontos **impossibilita** o envio do código para verificação da empresa.
 
-Agora só aguardar a análise e sua empresa receberá a validação da verificação, que dura em torno de 2 dias úteis para a aprovação. Em caso de recusa, identificar os pontos solicitados e tentar novamente.
+Agora, aguarde a análise. Sua empresa receberá a validação da verificação, que dura em torno de 2 dias úteis para a aprovação. Em caso de recusa, identifique os pontos solicitados e tente novamente.

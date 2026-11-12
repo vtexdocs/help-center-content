@@ -107,13 +107,13 @@ Usa los botones debajo del campo de mensaje para agregar contenido:
 - **Audio:** haz clic en el botón de audio para grabar un mensaje y reproducirlo antes de enviarlo al contacto.
 - **Archivos:** haz clic en el botón de adjuntar para añadir un archivo.
 
-Para adjuntar archivos más rápido, también puedes arrastrar un archivo al campo de mensaje o presionar `Ctrl + V` para pegar una imagen.
+Para adjuntar archivos, también puedes arrastrar un archivo al campo de mensaje o presionar `Ctrl + V` para pegar una imagen.
 
 Para agregar un salto de línea en el campo de mensaje, presiona `Shift + Enter`.
 
 ### Usar mensajes rápidos
 
-Los mensajes rápidos son plantillas de texto preconfiguradas. Los representantes los usan para enviar respuestas estándar con más rapidez durante el soporte.
+Los mensajes rápidos son plantillas de texto preconfiguradas. Los representantes los usan para enviar respuestas estándar durante el soporte.
 
 El campo de mensaje muestra `Escribe tu mensaje o / para activar los mensajes rápidos`. Debajo del campo, haz clic en el botón de mensajes rápidos para abrir el panel, donde puedes ver, gestionar y registrar mensajes. Al seleccionar un mensaje, su texto llena el campo.
 

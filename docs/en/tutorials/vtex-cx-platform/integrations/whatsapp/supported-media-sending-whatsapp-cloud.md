@@ -3,7 +3,7 @@ title: "Supported media sending - WhatsApp Cloud"
 id: 2XRQLsebPsHrnxkUXx4YcG
 status: PUBLISHED
 createdAt: 2025-09-15T15:10:19.456Z
-updatedAt: 2025-10-03T14:20:32.579Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.579Z
 firstPublishedAt: 2025-10-03T14:20:32.579Z
 contentType: tutorial
@@ -46,13 +46,13 @@ The following actions are not supported:
 - Sending media via byte streams.
 - Sending messages with animated stickers.
 
-## How to upload
+## Upload media
 
-Make a `POST`request to `/v1/media` to upload the media. The body of the local request should contain the binary media data, and the `Content-Type` header must be set according to the type of media uploaded. Check the supported content types for accepted options.
+Make a `POST` request to `/v1/media` to upload the media. The body of the local request should contain the binary media data, and the `Content-Type` header must be set according to the type of media uploaded. Check the supported content types for accepted options.
 
-Sending binary data in an `POST HTTP` request is the standard method for uploading binary data. For example, if you want to upload an image, send a `POST` request with the actual image bytes in the payload. Another option is to use `--data-binary` if you want `cURL` to read and use the file provided in binary exactly as it is.
+Sending binary data in a `POST` HTTP request is the standard method for uploading binary data. For example, if you want to upload an image, send a `POST` request with the actual image bytes in the payload. Another option is to use `--data-binary` if you want `cURL` to read and use the file provided in binary exactly as it is.
 
-## Example
+## Upload example
 
 Media Upload:
 
@@ -76,9 +76,9 @@ In both cases, a successful response returns the `id` field
 
 ```
 {
-    ""media"": [
+    "media": [
         {
-            ""id"": ""f043afd0-f0ae-4b9c-ab3d-696fb4c8cd68""
+            "id": "f043afd0-f0ae-4b9c-ab3d-696fb4c8cd68"
         }
     ]
 }
@@ -88,4 +88,4 @@ If you receive an error message, refer to [**Error Messages and Status**](https:
 
 As you can see, videos and audio files have a maximum size limit of 16 MB. For example, if you upload a 20 MB video to the VTEX CX Platform, the video will be saved on the platform, but at runtime, WhatsApp will not be able to send it. For documents, the maximum limit is 100 MB, but this does not work on the VTEX CX Platform, as it only supports up to 32 MB.
 
-You can find more about this information on the official META [page](https://developers.facebook.com/docs/whatsapp/cloud-api/reference/media/)
+You can find more about this information on the official Meta [page](https://developers.facebook.com/docs/whatsapp/cloud-api/reference/media/)

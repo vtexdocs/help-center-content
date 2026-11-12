@@ -150,7 +150,7 @@ Na terceira etapa, configure as opções de atendimento, mensagens automáticas 
 
 ![Etapa 4 do assistente de criação de setor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configurações-vtex-cx-platform/configurar-o-live-desk_4.png)
 
-Na quarta e última etapa, configure mensagens rápidas para o setor. As mensagens rápidas são atalhos que permitem aos atendentes enviar respostas padronizadas com mais agilidade durante o atendimento.
+Na quarta e última etapa, configure mensagens rápidas para o setor. As mensagens rápidas são atalhos que permitem aos atendentes enviar respostas padronizadas durante o atendimento.
 
 > ℹ️ Esta etapa é opcional. Você pode pular a configuração de mensagens rápidas e fazê-la depois nas configurações do setor.
 

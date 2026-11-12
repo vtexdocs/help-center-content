@@ -3,7 +3,7 @@ title: "Creating an SMS channel - for developers (RapidPro)"
 id: 3vQxJJOAjRC2eizkGZ4mix
 status: PUBLISHED
 createdAt: 2025-09-15T14:10:36.156Z
-updatedAt: 2025-10-03T14:20:33.769Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:33.769Z
 firstPublishedAt: 2025-10-03T14:20:33.769Z
 contentType: tutorial
@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 The RapidPro platform allows organizations to visually build scalable interactive messaging applications and is a hosted service for setting up SMS channel configurations.
 
-To learn more, visit the project site at <http://rapidpro.github.io/rapidpro>. Dozens of channels are supported in collaboration with SMS companies and social networks that communicate in different ways within the platform. SMS integration can be done in three main ways:
+To learn more, visit the [RapidPro project site](http://rapidpro.github.io/rapidpro). Dozens of channels are supported in collaboration with SMS companies and social networks that communicate in different ways within the platform. SMS integration can be done in three main ways:
 
 - Using the RapidPro Integrated Channel
 - Using a REST API (External API)
@@ -25,14 +25,14 @@ To learn more, visit the project site at <http://rapidpro.github.io/rapidpro>. D
 
 1. **RapidPro Integrated Channel**
 
-This is the fastest way to integrate the SMS channel into the platform, as it has built-in functionality to send and receive messages to external services available to all workspaces. There are two parts to this integration:
+This is the fastest way to integrate the SMS channel into the platform, as it has built-in functionality to send and receive messages through external services available to all workspaces. There are two parts to this integration:
 
 **Outgoing Messages**
 
 When an outgoing message needs to be sent, it will make a POST to this URL with the parameters 'text', 'to', 'from', 'channel', and 'id'. Example:
 
 ```
-POST <https://google.com.br> Content-Type: application/json Body: {"id": 1241244, "text": "Love is patient. Love is kind.", "to": "+250788123123", "to_no_plus": "250788123123", "from": "+5582999489287", "from_no_plus": "5582999489287", "channel": 346}
+POST https://google.com.br Content-Type: application/json Body: {"id": 1241244, "text": "Love is patient. Love is kind.", "to": "+250788123123", "to_no_plus": "250788123123", "from": "+5582999489287", "from_no_plus": "5582999489287", "channel": 346}
 ````
 
 **Incoming Messages**
@@ -45,9 +45,9 @@ POST [https://rapidpro.ilhasoft.mobi/c/ex/a86f686f-9168-4dd9-a03e-77f11b265b56/
 
 1. **REST API (External API)**
 
-The platform easily connects to many channels using an HTTP API, which is available to all workspaces to add channels of the same aggregator. The SMS Aggregator needs to provide the following information for integration:
+The platform connects to many channels using an HTTP API, which is available to all workspaces to add channels from the same aggregator. The SMS Aggregator needs to provide the following information for integration:
 
-- Full documentation of its Public API, including authentication methods, input parameters, and output format for each endpoint;
+- Full documentation of its public API, including authentication methods, input parameters, and output format for each endpoint;
 - A test phone number provided by the aggregator;
 - Access to a test account in the aggregator console to allow developers to validate the integration during development;
 - Contact details of the SMS Aggregator's support team to resolve any integration issues.
@@ -62,4 +62,4 @@ In the case of an SMSC connection, it is necessary to connect to a Virtual Priva
 
 Once the above items are completed, VTEX CX Platform connects to the VPN and notifies the aggregator to route incoming messages to VTEX CX Platform's server, and the testing phase begins. During these phases, it is necessary to directly contact VTEX CX Platform team members, so the following contacts can be used:
 
-Email: suporte@weni.ai
+Email: [suporte@weni.ai](mailto:suporte@weni.ai)

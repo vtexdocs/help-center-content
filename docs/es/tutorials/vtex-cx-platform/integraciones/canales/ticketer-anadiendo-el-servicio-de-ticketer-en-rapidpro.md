@@ -3,7 +3,7 @@ title: "Ticketer: Añadiendo el servicio de Ticketer en RapidPro"
 id: 1X3XC7dZqvjeRPL5Ywrzx4
 status: PUBLISHED
 createdAt: 2025-09-15T15:15:18.674Z
-updatedAt: 2025-10-03T14:20:32.477Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.477Z
 firstPublishedAt: 2025-10-03T14:20:32.477Z
 contentType: tutorial
@@ -26,10 +26,10 @@ El Servicio de Ticketer se utiliza para proporcionar asistencia humana a los usu
 
 ## Abrir un ticket en un flujo
 
-Puedes iniciar rápidamente un ticket en cualquier punto de tu flujo añadiendo la acción de 'open ticket'.
+Puedes iniciar un ticket en cualquier punto de tu flujo añadiendo la acción de 'open ticket'.
 
 1. Crea una carta “Open a ticket with a human agent”.
-2. Elige un tema o categoría. Para crear una nueva opción de tema o categoría, simplemente escribe el nombre en la barra y se creará automáticamente.
+2. Elige un tema o categoría. Para crear una nueva opción de tema o categoría, escribe el nombre en la barra y se creará automáticamente.
 
 3. Esta es una configuración opcional; si no asignas un agente al ticket, cualquier agente podrá tomar el ticket en la bandeja de tickets "no asignados". Si eliges un Agente, todos los tickets se asignarán automáticamente y aparecerán en la bandeja de “Mis tickets”.
 
@@ -43,7 +43,7 @@ Ahora debes agregar agentes para gestionar el ticket. Primero, ve a la página d
 
 Desplázate hacia abajo para encontrar la sección de inicio de sesión múltiple.
 
-Haz clic en el botón 'Menage Logins'.
+Haz clic en el botón 'Manage Logins'.
 
 En esta página, puedes invitar a tus agentes ingresando su dirección de correo electrónico (1\), asignar el rol de "agent" desde el menú desplegable (2\) y hacer clic en “Save Changes” (3\).
 

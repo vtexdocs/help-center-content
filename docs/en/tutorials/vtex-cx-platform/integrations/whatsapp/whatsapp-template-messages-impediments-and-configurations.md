@@ -3,7 +3,7 @@ title: "WhatsApp template messages: Impediments and configurations"
 id: 4bc7imLyUicKHtCIJVGNSE
 status: PUBLISHED
 createdAt: 2025-09-15T15:07:41.131Z
-updatedAt: 2025-10-03T14:20:32.609Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.609Z
 firstPublishedAt: 2025-10-03T14:20:32.609Z
 contentType: tutorial
@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Here you will find solutions for potential obstacles, rejections, and errors in the creation, sending, and modification of WhatsApp Template Messages. Follow the topics below for more information.
 
-## Approval process (Meta’s responsibility)
+## Meta's approval process
 
 Once you create a template, you can submit it for approval. It may take up to 24 hours for a decision to be made. Once a decision is reached, a notification will appear in the WhatsApp Manager. Additionally, Meta will send an email to the Business Manager administrators. If you have subscribed to updates on message template status changes, Meta will also send a notification via webhook. Refer to [**How to Monitor Status Changes**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#monitoring-status-changes) for more details.
 
@@ -32,16 +32,16 @@ These are the most common errors leading to rejection and should be avoided:
 - Variable parameters are missing or have incompatible keys. The correct variable format is **{{1}}**.
 - Variable parameters contain special characters, such as **\#**, **$**, or **%**.
 - Variable parameters are not sequential. For example, **{{1}}, {{2}}, {{4}}**, and **{{5}}** are defined, but the parameter **{{3}}** is missing.
-- The message template contains content that violates WhatsApp’s [**Commerce Policy**](https://www.whatsapp.com/legal/commerce-policy/) : when promoting the sale of goods and services, all media and messages related to your products are considered transactions. This includes descriptions, prices, fees, taxes, and/or required legal disclosures. Transactions must comply with WhatsApp's Commerce Policy.
-- The message template contains content that violates WhatsApp’s [**Business Policy**](https://business.whatsapp.com/policy) : do not request sensitive identifiers from users. For example, do not ask customers to share full individual credit and debit card numbers, financial account numbers, national identification numbers, or other confidential information. This includes not requesting documents that may contain sensitive identifiers. Requesting partial identifiers (e.g., the last 4 digits of a CPF) is acceptable.
+- The message template contains content that violates WhatsApp’s [**Commerce Policy**](https://www.whatsapp.com/legal/commerce-policy/): when promoting the sale of goods and services, all media and messages related to your products are considered transactions. This includes descriptions, prices, fees, taxes, and/or required legal disclosures. Transactions must comply with WhatsApp's Commerce Policy.
+- The message template contains content that violates WhatsApp’s [**Business Policy**](https://business.whatsapp.com/policy): do not request sensitive identifiers from users. For example, do not ask customers to share full individual credit and debit card numbers, financial account numbers, national identification numbers, or other confidential information. This includes not requesting documents that may contain sensitive identifiers. Requesting partial identifiers (e.g., the last 4 digits of a CPF) is acceptable.
 - The content is potentially abusive or threatening, such as threatening legal action or public embarrassment for the customer.
 - The message template is a duplicate of an existing one. If a template is submitted with the same body and footer text as an existing one, the duplicate will be rejected. A rejection notification, including the reason, will appear in the Account Quality section of WhatsApp Manager and be sent via email. In the Account Quality notification, you can review the name and language of the existing template with the same content as the rejected duplicate. You can also edit and resubmit the template. Note that this verification does not apply to OTP templates.
 
-## Editing
+## Edit a template
 
-You can edit the template through the WhatsApp Manager or the [**Message Template Endpoint**](https://developers.facebook.com/docs/whatsapp/business-management-api/message-templates#edit-a-message-template) . If edited and resubmitted for approval, the message template will have the status **In Review** and cannot be sent to customers until it is **Active**.
+You can edit the template through the WhatsApp Manager or the [**Message Template Endpoint**](https://developers.facebook.com/docs/whatsapp/business-management-api/message-templates#edit-a-message-template). If edited and resubmitted for approval, the message template will have the status **In Review** and cannot be sent to customers until it is **Active**.
 
-## How to send message templates
+## Send message templates
 
 Once the template is approved, you can send it to customers. For instructions on sending message templates, refer to [**Sending Message Templates**](https://developers.facebook.com/docs/whatsapp/cloud-api/guides/send-message-templates) for Cloud API users or [**How to Send Message Templates**](https://developers.facebook.com/docs/whatsapp/message-templates/creation) for Local API users.
 
@@ -49,25 +49,25 @@ Only templates with the **Active** status (e.g., **Active – Quality Pending**,
 
 The status may automatically change from **Active** to **Paused** or **Disabled** based on customer feedback. Therefore, we recommend you [**monitor status changes**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#monitoring-status-changes) and take appropriate action when a template you depend on is paused or disabled, or is at risk of being paused or disabled.
 
-## Status
+## Template status
 
 Templates can have the following statuses:
 
 - **In Review**: Indicates that the template is still under review. The review may take up to 24 hours.
-- **Rejected**: The template was rejected during the review process. See [**Appeals**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#appeals) .
-- **Active – Quality Pending**: The message template still needs to receive customer feedback on quality. Templates with this status can be sent to customers. See [**Quality Rating**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#quality-rating) .
-- **Active – High Quality**: The template has received little or no negative feedback from customers. Templates with this status can be sent to customers. See [**Quality Rating**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#quality-rating) .
-- **Active – Medium Quality**: The template has received negative feedback from several customers and may soon be paused or disabled. Templates with this status can be sent to customers. See [**Quality Rating**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#quality-rating) .
-- **Active – Low Quality**: The template has received negative feedback from several customers. Templates with this status can be sent to customers, but they may be suspended or disabled soon. We recommend resolving the issues reported by customers. See [**Quality Rating**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#quality-rating) .
-- **Paused**: The template was paused due to recurring negative customer feedback. Templates with this status cannot be sent to customers. See [**Template Pause**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#template-pausing) .
-- **Disabled**: The template was disabled due to recurring negative feedback or a violation of one or more of our policies. Templates with this status cannot be sent to customers. It may be possible to edit a disabled message template and file an appeal. See [**Appeals**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#appeals) .
-- **Appeal Requested**: Indicates that an appeal has been made. See [**Appeals**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#appeals) .
+- **Rejected**: The template was rejected during the review process. See [**Appeals**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#appeals).
+- **Active – Quality Pending**: The message template still needs to receive customer feedback on quality. Templates with this status can be sent to customers. See [**Quality Rating**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#quality-rating).
+- **Active – High Quality**: The template has received little or no negative feedback from customers. Templates with this status can be sent to customers. See [**Quality Rating**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#quality-rating).
+- **Active – Medium Quality**: The template has received negative feedback from several customers and may soon be paused or disabled. Templates with this status can be sent to customers. See [**Quality Rating**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#quality-rating).
+- **Active – Low Quality**: The template has received negative feedback from several customers. Templates with this status can be sent to customers, but they may be suspended or disabled soon. We recommend resolving the issues reported by customers. See [**Quality Rating**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#quality-rating).
+- **Paused**: The template was paused due to recurring negative customer feedback. Templates with this status cannot be sent to customers. See [**Template Pause**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#template-pausing).
+- **Disabled**: The template was disabled due to recurring negative feedback or a violation of one or more of our policies. Templates with this status cannot be sent to customers. It may be possible to edit a disabled message template and file an appeal. See [**Appeals**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#appeals).
+- **Appeal Requested**: Indicates that an appeal has been made. See [**Appeals**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#appeals).
 
 You can check the status of a template in **WhatsApp Manager > Overview**. Then hover over the suitcase icon (Account Tools) and click **Message Templates**. If you have more than one WhatsApp Business account, select the account whose template status you want to check from the list of accounts in the top-right drop-down menu.
 
-## How to monitor status changes
+## Monitor status changes
 
-A template's status can automatically change based on review decisions, appeal outcomes, or changes in the [**quality rating**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#quality-rating) . If the status of a template changes, you will receive a notification via email, in the Business Manager, and through the webhook.
+A template's status can automatically change based on review decisions, appeal outcomes, or changes in the [**quality rating**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#quality-rating). If the status of a template changes, you will receive a notification via email, in the Business Manager, and through the webhook.
 
 Since you can only send message templates with an **Active** status, we recommend subscribing to the **message_template_status_update** webhook to receive notifications about status changes in templates. Refer to [**Webhook Setup**](https://developers.facebook.com/docs/whatsapp/business-management-api/guides/set-up-webhooks) for how to subscribe to this field, and **Message Template Updates** for webhook payload examples.
 
@@ -108,7 +108,7 @@ Initially, the pause will not affect the business phone number or reduce the mes
 
 When a message template is paused, a notification will be sent in WhatsApp Manager, via email, and through the webhook (if you subscribed to the template status change webhooks). Refer to [**How to Monitor Status Changes**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#monitoring-status-changes) for webhook setup information, and see [**Examples – Paused Template**](https://developers.facebook.com/docs/whatsapp/business-management-api/webhooks/components#template-paused) for an example of a webhook payload.
 
-## Resumption
+## Resume a paused template
 
 The template will automatically resume after the pause period described above. Once resumed, the template will have the **Active** status and can be sent to customers again. If you did not stop automated messaging campaigns that relied on the paused template, they will start functioning again. However, we recommend stopping these campaigns while the template is paused, as the API will reject requests.
 
@@ -133,6 +133,6 @@ Meta reviews and makes a decision within 24 hours.
 
 ## Learn more
 
-- [**WhatsApp Business Policy**](https://business.whatsapp.com/policy) : Learn about policies for businesses.
-- [**WhatsApp Commerce Policy**](https://www.whatsapp.com/legal/commerce-policy/?fbclid=IwY2xjawGDLzsBHeEliiVkByMLSqVGgPfICfHEOpwV9lYL1yR8yyjCeUuaZM0yYJZQFEETBA) : Learn about commerce-related policies.
-- [**Policy Enforcement**](https://developers.facebook.com/docs/whatsapp/overview/policy-enforcement/) : Learn about how policies are enforced.
+- [**WhatsApp Business Policy**](https://business.whatsapp.com/policy): Learn about policies for businesses.
+- [**WhatsApp Commerce Policy**](https://www.whatsapp.com/legal/commerce-policy/?fbclid=IwY2xjawGDLzsBHeEliiVkByMLSqVGgPfICfHEOpwV9lYL1yR8yyjCeUuaZM0yYJZQFEETBA): Learn about commerce-related policies.
+- [**Policy Enforcement**](https://developers.facebook.com/docs/whatsapp/overview/policy-enforcement/): Learn about how policies are enforced.

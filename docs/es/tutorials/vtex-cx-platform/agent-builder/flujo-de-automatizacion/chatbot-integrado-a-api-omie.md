@@ -3,7 +3,7 @@ title: "Chatbot integrado a API Omie"
 id: 1W5RJ85YEpDtSliYRE90xB
 status: PUBLISHED
 createdAt: 2025-09-17T14:21:19.010Z
-updatedAt: 2025-10-03T14:20:03.593Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:03.593Z
 firstPublishedAt: 2025-10-03T14:20:03.593Z
 contentType: tutorial

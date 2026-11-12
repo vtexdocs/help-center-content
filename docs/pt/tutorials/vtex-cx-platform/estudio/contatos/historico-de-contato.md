@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-Todas as mensagens e ações que passam pelo canal ficam registradas no contato e podem ser visualizadas ao acessar um contato específico. As mensagens são ordenadas por data e separadas por cor, de acordo com sua origem. Nesta seção, você poderá ver os arquivos trocados, os fluxos que foram executados e as chamadas para APIs externas, com seus respectivos campos de chamadas externas e internas.Você pode optar por uma visualização resumida, que mostra apenas as conversas para uma análise rápida, ou por uma visualização detalhada, com mais informações.
+Todas as mensagens e ações que passam pelo canal ficam registradas no contato e podem ser visualizadas ao acessar um contato específico. As mensagens são ordenadas por data e separadas por cor, de acordo com sua origem. Nesta seção, você poderá ver os arquivos trocados, os fluxos que foram executados e as chamadas para APIs externas, com seus respectivos campos de chamadas externas e internas.Você pode optar por uma visualização resumida, que mostra apenas as conversas, ou por uma visualização detalhada, com mais informações.
 
 ## Como acessar o histórico de um contato
 
@@ -23,6 +23,6 @@ Todas as mensagens e ações trafegadas no canal estão registradas no contato, 
 
 As mensagens são ordenadas por data e separadas por cor de acordo com a origem. Nesta seção, você poderá visualizar os arquivos trocados, os fluxos que foram executados e as chamadas às APIs externas, com seus respectivos campos de chamadas externas e internas.
 
-Você pode optar por uma visão resumida, mostrando apenas as conversas para uma análise rápida, ou por uma visão detalhada, com mais informações.
+Você pode optar por uma visão resumida, mostrando apenas as conversas, ou por uma visão detalhada, com mais informações.
 
 Ao clicar no contato desejado, uma nova tela será aberta onde você poderá ver o histórico do contato.

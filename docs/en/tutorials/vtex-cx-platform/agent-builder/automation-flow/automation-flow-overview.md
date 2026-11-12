@@ -3,7 +3,7 @@ title: "Automation flow"
 id: 5XxzVEJtDzXXEOS0SXANeS
 status: PUBLISHED
 createdAt: 2025-09-16T16:38:04.873Z
-updatedAt: 2025-10-03T14:20:03.960Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:03.960Z
 firstPublishedAt: 2025-10-03T14:20:03.960Z
 contentType: tutorial
@@ -21,7 +21,7 @@ In flows, these steps can be actions or decisions, which allow for the creation 
 
 ## Anatomy of a flow
 
-In the image above, we have an example of a flow for a simple survey. In it, we can see decision cards, action cards, and note cards that together form the structure for the following conversation: send a question that needs to be answered with yes or no, and from that, we have a response for each option.
+In the image above, we have an example of a flow for a survey. In it, we can see decision cards, action cards, and note cards that together form the structure for the following conversation: send a question that needs to be answered with yes or no, and from that, we have a response for each option.
 
 ## Action cards
 

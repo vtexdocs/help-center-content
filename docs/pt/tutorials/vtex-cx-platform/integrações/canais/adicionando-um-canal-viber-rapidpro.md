@@ -3,7 +3,7 @@ title: 'Adicionando um canal Viber (RapidPro)'
 id: 3mEbPicH5tFMiZ6jVlPIlh
 status: PUBLISHED
 createdAt: 2025-09-15T14:41:38.441Z
-updatedAt: 2025-10-03T14:20:32.831Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.831Z
 firstPublishedAt: 2025-10-03T14:20:32.831Z
 contentType: tutorial
@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Você pode adicionar a conta pública do seu Viber como um canal na plataforma.
 
-## Começando
+## Localizar o canal Viber
 
 Acesse as configurações do Workspace e clique em **Add Channel**.
 
@@ -25,11 +25,11 @@ Role para baixo até a opção Viber e clique nela.
 
 Após isso, você verá uma breve descrição do canal. O único requisito para conectar o Viber é um token de autorização (chamado de App token pela equipe do Viber).
 
-### Obter App token
+## Obter o App token
 
 O processo principal consiste em aprovar uma conta pública do Viber e obter o App token.
 
-## Criar uma conta no Viber
+### Criar uma conta no Viber
 
 Instale o aplicativo móvel do Viber e realize o processo de registro através de um número de telefone exclusivo para o projeto. Com sua conta válida, acesse o painel de administração do Viber e vincule\-a a uma conta pública.
 
@@ -41,11 +41,11 @@ Preencha todos os requisitos apresentados e clique em Criar ao final da página.
 
 Levará alguns segundos para processar e uma nova janela aparecerá com o token necessário.
 
-### Criar o canal
+## Criar o canal
 
 Agora, volte para o RapidPro, cole o token e clique em Submit.
 
-## Editar mensagem de boas-vindas
+## Editar a mensagem de boas-vindas
 
 O canal Viber foi criado, mas para que ele seja publicado e esteja disponível para o público, alguns passos são necessários pela equipe de suporte do Viber. O primeiro passo é fornecer uma mensagem de boas-vindas. Para adicionar uma, vá às configurações do seu Workspace e abra as configurações do Canal Viber.
 
@@ -59,7 +59,7 @@ Para que o canal seja exibido completamente, será necessário entrar em contato
 
 Depois de promovido, você pode compartilhá-lo por meio dos canais de mídia social do cliente para alcançar o público de forma orgânica. Com ferramentas como stickers e anúncios no Viber, você poderá reunir centenas de milhares de inscritos no seu chatbot, aos quais é possível enviar mensagens diretas e personalizadas.
 
-Através do chatbot, você também terá um período de 24 horas a partir da última interação do usuário com o bot para enviar mensagens gratuitas pelo VTEX CX Platforms usuários podem não só consultar e obter informações, mas também optar por comprar produtos, por exemplo. Você também pode enviar mensagens de saída, mas elas são pagas.
+Através do chatbot, você também terá um período de 24 horas a partir da última interação do usuário com o bot para enviar mensagens gratuitas pela plataforma VTEX CX Platform, onde os usuários podem não só consultar e obter informações, mas também optar por comprar produtos, por exemplo. Você também pode enviar mensagens de saída, mas elas são pagas.
 
 Em relação ao pacote de stickers, aqui estão os passos que você precisa seguir com a equipe de suporte do Viber:
 

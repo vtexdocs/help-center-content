@@ -59,7 +59,7 @@ If you signed up using **GitHub**, **Google**, or **Microsoft**, select one of t
 
 ### Completing the organization and project details
 
-> ℹ️ If your organization already exists and you've been invited to it, complete the fields with fictitious names just to register on the platform. You don't need to use the company's real names.
+> ℹ️ If your organization already exists and you've been invited to it, complete the fields with fictitious names only to register on the platform. You don't need to use the company's real names.
 
 After completing the fields, click `Next`.
 
@@ -70,11 +70,11 @@ To create a custom agent, complete the fields below:
 1. **Agent name**: The name of the agent, such as "Support Chat".
 2. **Goal**: The goal of the agent, such as "Answer customer questions".
 
-> ℹ️ Clearly define your agent's main goal when interacting with customers. Example: "Help customers find products that fit their needs" or "Provide technical support." This guides conversations in a direct and assertive way.
+> ℹ️ Define your agent's main goal when interacting with customers. Example: "Help customers find products that fit their needs" or "Provide technical support." This guides conversations.
 
 3. **Content**: The base content for the agent. Completing the content is optional during sign-up and can be added later.
 
-> ℹ️ By including a content base, you empower your AI agent to respond to users more effectively. You can import essential information by dragging and dropping files, automatically integrating the text, entering content from sites, or writing whatever you'd like in the base.
+> ℹ️ By including a content base, you empower your AI agent to respond to users. You can import essential information by dragging and dropping files, automatically integrating the text, entering content from sites, or writing whatever you'd like in the base.
 
 Templates are ready-made flows for specific purposes, divided into three categories: support, integrations, and sales. When you click one of the cards in a category, a pop-up appears detailing how to use the template.
 
@@ -188,7 +188,7 @@ The organization permissions are described below:
 
 ### Project permissions
 
-You can also add permissions to a specific project, not just to the entire organization. To access the options, click `Manage members` on the desired project.
+You can also add permissions to a specific project, not only to the entire organization. To access the options, click `Manage members` on the desired project.
 
 The project permissions are as follows:
 

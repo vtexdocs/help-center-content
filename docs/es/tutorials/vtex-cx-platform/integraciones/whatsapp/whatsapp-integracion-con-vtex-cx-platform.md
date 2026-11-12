@@ -1,7 +1,7 @@
 ---
 title: 'WhatsApp: Integración con VTEX CX Platform'
 createdAt: 2025-09-15T15:02:52.737Z
-updatedAt: 2026-09-09T19:40:00.000Z
+updatedAt: 2026-11-12T12:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: whatsapp-vtex-cx-platform-integration
@@ -41,11 +41,11 @@ Este canal está disponible en **Configuración > Canales > Mis aplicaciones > W
 
 ## Configurar el canal
 
-Al hacer clic en la tarjeta del número, puedes gestionar el contenido del canal de ese número de teléfono de WhatsApp, como cambiar la foto de perfil, ver plantillas, cambiar la descripción, conectar con webhook y verificar tu cuenta.
+Al hacer clic en la tarjeta del número, puedes gestionar el contenido del canal de ese número de teléfono de WhatsApp, como cambiar la foto de perfil, ver plantillas, cambiar la descripción, conectar un webhook y verificar tu cuenta.
 
 ### General
 
-En la pestaña **General**, consultas los identificadores del número y de la cuenta de WhatsApp Business y accedes a las plantillas del canal. Los campos que se muestran en esta pestaña son de solo lectura. Para modificarlos, debes acceder a tu cuenta de Meta Business.
+En la pestaña **General**, consultas los identificadores del número y de la cuenta de WhatsApp Business y accedes a las plantillas del canal. Los campos que se muestran en esta pestaña son de solo lectura. Para modificarlos, debes acceder a tu cuenta en Meta Business.
 
 En la sección **Gestionar contenido**, haz clic en `Ver mis plantillas` para abrir las plantillas de mensaje asociadas al número.
 
@@ -66,7 +66,7 @@ La sección **Cuenta de WhatsApp Business** muestra los identificadores de la cu
 | **Nombre WABA** | Nombre de la cuenta de WhatsApp Business. |
 | **ID del WABA** | Identificador de WhatsApp Business en Meta. |
 | **Mensajes en nombre de** | Identidad en nombre de quien se envían los mensajes. Si no está definido, la interfaz muestra un guion (`-`). |
-| **ID del huso horario** | Huso horario de WhatsApp Business, en formato IANA. Ejemplo: `America/Sao_Paulo`. |
+| **ID del huso horario** | Huso horario de la cuenta de WhatsApp Business, en formato IANA. Ejemplo: `America/Sao_Paulo`. |
 | **Namespace** | Namespace de las plantillas de WhatsApp Business. |
 
 ### Perfil

@@ -26,4 +26,4 @@ As campanhas são a forma de interação ativa que possibilita à plataforma se 
 
 Quer cobrar uma resposta de seu contato? Lembrar um compromisso importante? Ou notificar sobre atualizações de um pedido? Uma campanha pode ser a solução ideal.
 
-Nos próximos artigos, vamos explorar como construir suas campanhas e configurar corretamente os eventos para otimizar suas interações.
+Nos próximos artigos, vamos explorar como construir suas campanhas e configurar os eventos.

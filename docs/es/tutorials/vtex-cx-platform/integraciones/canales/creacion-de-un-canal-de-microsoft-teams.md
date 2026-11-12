@@ -3,7 +3,7 @@ title: "Creación de un canal de Microsoft Teams"
 id: 6Of4QOVgAa95Z2QjZZYeDR
 status: PUBLISHED
 createdAt: 2025-09-15T14:44:39.171Z
-updatedAt: 2025-10-03T14:20:32.801Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.801Z
 firstPublishedAt: 2025-10-03T14:20:32.801Z
 contentType: tutorial
@@ -15,13 +15,13 @@ locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-1. Para crear tu aplicación de bot, dirígete a <https://portal.azure.com/>. Necesitarás crear una cuenta si aún no tienes una.
+1. Para crear tu aplicación de bot, dirígete a [Azure Portal](https://portal.azure.com/). Necesitarás crear una cuenta si aún no tienes una.
 2. Después de iniciar sesión en tu cuenta, selecciona **Crear un recurso**.
 3. Busca **Azure Bot** en el cuadro de búsqueda.
 4. Selecciona **Azure Bot** en el marketplace.
 5. Selecciona **Crear**.
 6. Ingresa el nombre identificador para el bot en el campo de identificación.
-7. Selecciona tu firma de la lista; por defecto, parecerá una firma ya creada.
+7. Selecciona tu suscripción de la lista; por defecto, aparecerá una ya creada.
 8. Selecciona tu grupo de recursos o crea uno nuevo.
 9. Si deseas crear un grupo de recursos, selecciona Crear Nuevo, ingresa el nombre del recurso, selecciona Aceptar y elige la ubicación requerida en la lista desplegable de Ubicación del Nuevo Grupo de Recursos.
 
@@ -67,7 +67,7 @@ Selecciona el tipo de aplicación; se recomienda multiinquilino. Luego, seleccio
 9. En Tenant id ingresa el valor de tenant id que guardaste anteriormente.
 10. Ahora haz clic en Enviar.
 11. Tu canal está creado.
-12. En la página del canal a la que serás dirigido justo después de hacer clic en Enviar, tendrás el ID de ese canal, necesitaremos ese valor. Para obtenerlo, puedes copiar el ID largo que aparece al final de la URL de esta página. Después de leer/copiar todo este ID compuesto de números, letras y guiones, guárdalo.
+12. En la página del canal a la que serás dirigido justo después de hacer clic en Enviar, tendrás el ID de ese canal; lo necesitaremos. Para obtenerlo, puedes copiar el ID largo que aparece al final de la URL de esta página. Después de leer/copiar todo este ID compuesto de números, letras y guiones, guárdalo.
 
 ### Configurar el endpoint en la aplicación
 
@@ -92,9 +92,9 @@ Ejemplo: [https://new.push.al/c/tm/37b755f9-2d97-48fd-8c46-6f0f4d102d16/receive]
 10. En Branding, actualiza las imágenes de perfil que deseas que tenga tu bot, haz clic en actualizar y elige tus imágenes.
 11. En el paso 2, bajo Capacidades, puedes establecer algunas especificaciones para tu bot; este paso no es necesario para que tu bot funcione con nuestra plataforma, por lo que omitiremos este paso.
 12. Ahora, en el paso 3 del menú izquierdo, haz clic en Dominios y Permisos.
-13. En Dominios Válidos, ingresa el dominio de nuestra plataforma para que tu bot pueda integrarse con nosotros (<https://new.push.al>) y haz clic en Agregar.
+13. En Dominios Válidos, ingresa el dominio de nuestra plataforma para que tu bot pueda integrarse con nosotros ([https://new.push.al](https://new.push.al)) y haz clic en Agregar.
 14. En ID de la Aplicación AAD, ingresa tu Tenant ID que guardaste anteriormente.
 15. Para el último paso, haz clic en Probar y Distribuir en el paso 3 del menú izquierdo.
-16. Puedes publicar tu bot en el catálogo de tu organización para que todos los que participan en tu organización puedan agregar tu bot y enviarle mensajes. Para hacer esto, haz clic en Publicar aplicación en el catálogo de mi organización y luego en Enviar.
+16. Puedes publicar tu bot en el catálogo de tu organización para que todos los que participen en tu organización puedan agregar tu bot y enviarle mensajes. Para hacer esto, haz clic en Publicar aplicación en el catálogo de mi organización y luego en Enviar.
 
 Importante: para que tu aplicación se publique en el catálogo de tu organización, deberá ser aceptada por el administrador de TI de tu organización. Una vez aceptada, tu bot estará disponible para instalación en el catálogo de tu empresa para todos los empleados que formen parte de ella.

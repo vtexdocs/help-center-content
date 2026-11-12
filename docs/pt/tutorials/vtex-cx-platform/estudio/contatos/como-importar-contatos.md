@@ -30,4 +30,4 @@ Utilize as seguintes regras para as colunas:
 
 4. Depois de selecionar o arquivo, clique em `Prévia` e seus contatos serão importados para a plataforma.
 
-Todos os contatos aparecerão vinculados a um grupo estático, com o mesmo nome do arquivo da planilha. Caso você não deseje manter o grupo, basta exclui-lo.
+Todos os contatos aparecerão vinculados a um grupo estático, com o mesmo nome do arquivo da planilha. Caso você não deseje manter o grupo, exclua-o.

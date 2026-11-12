@@ -1,9 +1,9 @@
 ---
-title: "Precificación de WhatsApp business API"
+title: "Precios de WhatsApp Business API"
 id: 6PzP7aMpkaYmICNyXFlNwr
 status: PUBLISHED
 createdAt: 2025-09-15T15:29:16.093Z
-updatedAt: 2025-10-03T14:20:32.421Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.421Z
 firstPublishedAt: 2025-10-03T14:20:32.421Z
 contentType: tutorial
@@ -55,7 +55,7 @@ Servicio: Son las conversaciones iniciadas por el usuario, que ayudan a los clie
 
 ### Cobro de las conversaciones
 
-El envío de varios modelos de la misma categoría en una conversación abierta no resultará en cargos adicionales, y las conversaciones de servicio solo se iniciarán cuando no haya ventanas de conversación abiertas, y la empresa puede responder al usuario con un formato libre de mensaje en la ventana de atención al cliente de 24 horas.
+El envío de varios modelos de la misma categoría en una conversación abierta no resultará en cargos adicionales, y las conversaciones de servicio solo se iniciarán cuando no haya ventanas de conversación abiertas, y la empresa puede responder al usuario con un mensaje de formato libre en la ventana de atención al cliente de 24 horas.
 
 ### Excepciones
 
@@ -63,7 +63,7 @@ Las conversaciones con punto de entrada gratuito son aquellas en las que el clie
 
 **La conversación iniciada es gratuita, sin embargo, el anuncio es cobrado.**
 
-Recordando que: Cada cuenta de WhatsApp Business (WABA) tiene 1.000 conversaciones iniciadas por el usuario gratuitas por mes, independientemente de la cantidad de teléfonos incluidos. El límite de conversaciones gratuitas se restablece cada mes según la zona horaria asociada a la WABA.
+Recuerda que: Cada cuenta de WhatsApp Business (WABA) tiene 1.000 conversaciones iniciadas por el usuario gratuitas por mes, independientemente de la cantidad de teléfonos incluidos. El límite de conversaciones gratuitas se restablece cada mes según la zona horaria asociada a la WABA.
 
 ### Duración de la conversación
 
@@ -79,4 +79,4 @@ Las conversaciones de marketing, utilidad, autenticación y servicio duran 24 ho
 
 Para obtener más información sobre esto, puedes consultar [aquí](https://weni.ai/precificacao-whatsapp/).
 
-Para conocer sobre precios, consulta esta [documentación de Meta](https://developers.facebook.com/docs/whatsapp/pricing).
+Para conocer los precios, consulta esta [documentación de Meta](https://developers.facebook.com/docs/whatsapp/pricing).

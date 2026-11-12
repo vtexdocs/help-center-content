@@ -22,9 +22,9 @@ The **Conversations** tab displays a table with all interactions, containing the
 
 ## Great conversations
 
-**Great conversations** are conversations that showcase the value of AI agents in effectively resolving a real need. When reviewing the **Improvement backlog**, these conversations receive a star tag and indicate that the agent took relevant actions, such as:
+**Great conversations** are conversations that showcase the value of AI agents in resolving a real need. When reviewing the **Improvement backlog**, these conversations receive a star tag and indicate that the agent took relevant actions, such as:
 
-- Fully resolving a question or issue, using the [knowledge base](https://help.vtex.com/en/docs/tutorials/agent-builder-overview#base-de-conhecimento), tools, or team members.
+- Resolving a question or issue, using the [knowledge base](https://help.vtex.com/en/docs/tutorials/agent-builder-overview#base-de-conhecimento), tools, or team members.
 - Successfully carrying out a complex flow (order, exchange, cancellation, among others).
 - Gathering only the necessary information and being direct, without asking additional questions.
 - Successfully handling multiple requests in the same conversation.
