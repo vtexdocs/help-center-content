@@ -19,19 +19,17 @@ seeAlso:
   - /en/docs/tutorials/variables-glossary
 ---
 
-Contact fields store information you define about a person, such as their age. The platform keeps each value on the contact, together with data it already stores, such as the contact's URN and the date the contact was created. A URN is the identifier of the contact on a channel, such as a WhatsApp number.
+Contact fields store information about a person that the platform doesn't provide by default, such as their age. You can save a value in one automation flow and use it in later flows, messages, contact groups, and campaigns.
 
-The value remains available in any flow, including a flow that starts after the one that saved it. You don't create fields for data the platform already stores, such as the contact's name. To read that data, use `@contact`, for example `@contact.name`. For the full list, see [Variables glossary](https://help.vtex.com/en/docs/tutorials/variables-glossary).
+>⚠️ You don't need to create fields for information the platform already stores, such as the contact's name, creation date, and URN. The URN identifies the contact on a channel, such as a WhatsApp number. To access built-in contact information in a flow, use `@contact`, for example, `@contact.name`. For the complete list of available variables, see [Variables glossary](https://help.vtex.com/en/docs/tutorials/variables-glossary).
 
 ## Creating a contact field
 
-Create the field on **Manage Fields** when you want to choose the type of value it stores before a flow writes to it. You can also create a field from a flow with the **Update the contact** card, by entering a name that doesn't exist yet. For more information, see [Action cards](https://help.vtex.com/en/docs/tutorials/action-cards).
-
-To create a contact field, follow these steps:
+To define the type of value that a field accepts before using the field in a flow, follow these steps:
 
 1. Go to the organization and project you want to modify in the [VTEX CX Platform](https://dash.weni.ai/orgs).
 2. In the sidebar menu, click **Contacts**.
-3. Click **Manage Fields**.
+3. Click `Manage Fields`.
 
     The page lists the fields in the project, the variable name of each field, the type of value it accepts, and how many times the field has been used.
 
@@ -44,23 +42,27 @@ To create a contact field, follow these steps:
     - **State**
     - **District**
     - **Division**
-7. (Optional) Select **Highlight** to show the field in the contact page preview.
+7. (Optional) Select **Highlight** to show the field in the contact preview.
+
+You can also create a contact field while configuring a flow. In the **Update the contact** card, enter a field name that doesn't exist yet. For more information, see [Action cards](https://help.vtex.com/en/docs/tutorials/action-cards).
 
 ## Editing a contact field
 
-To change a field, on the **Manage Fields** page, click the field. The edit dialog opens.
+On the **Manage Fields** page, click the field you want to change. The edit dialog opens.
 
-## Saving and reading a field value
+## Saving a contact field value
 
-To save a value while a contact is in a flow, use the **Update the contact** card. Select the field, then enter a fixed value or a flow result.
+To save a value while a contact is in a flow, use the **Update the contact** card. Select the contact field, then enter a fixed value or a flow result.
 
-To read the value in a message or an expression, use `@fields.field_name` or `@contact.fields.field_name`. Replace `field_name` with the variable name shown on **Manage Fields**. Both expressions return the same field.
+## Reading a contact field value
+
+To use a contact field value in a message or expression, enter `@fields.field_name` or `@contact.fields.field_name`. Replace `field_name` with the variable name shown on the **Manage Fields** page. Both expressions return the same value.
 
 For example, `@fields.age` returns the value of the field whose variable name is `age`.
 
 For more information about expressions, see [Expressions and variables introduction](https://help.vtex.com/en/docs/tutorials/expressions-and-variables-introduction).
 
-## Other ways to use a contact field
+## Using contact fields in other tasks
 
 After a field has a value, you can use it in these tasks:
 

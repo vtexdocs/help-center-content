@@ -19,9 +19,9 @@ seeAlso:
 
 Você pode exportar fluxos de uma organização e importá-los em outra. A exportação gera um arquivo `.json`, que é usado durante a importação para adicionar os fluxos à organização de destino.
 
-Um fluxo é o conjunto de etapas que um contato segue em uma conversa. Para saber como um fluxo é estruturado, consulte [Visão geral do fluxo de automação](https://help.vtex.com/pt/docs/tutorials/visao-geral-fluxo-de-automacao).
+Para duplicar um fluxo dentro da mesma organização, use `Copiar` no menu de configurações do editor de fluxos.
 
-Para duplicar um fluxo dentro da mesma organização, use `Copiar` no menu de configurações do editor de fluxos. Use a exportação quando a organização de destino for outra.
+> Para saber mais sobre os fluxos e sua estrutura, consulte [Visão geral do fluxo de automação](https://help.vtex.com/pt/docs/tutorials/visao-geral-fluxo-de-automacao).
 
 ## Exportar fluxos
 
@@ -36,39 +36,31 @@ No editor de fluxos, o menu de configurações fica ao lado do botão Começar F
 Para abrir a página de exportação pelo editor de fluxos, siga estas etapas:
 
 1. No menu lateral, acesse **Agent Builder > Fluxo de automação**.
-2. Abra o fluxo que você deseja exportar.
-3. Abra o menu de configurações ao lado do botão Começar Fluxo.
+2. Abra um fluxo que você deseja exportar.
+3. Abra o menu de configurações ao lado de `Começar Fluxo`.
 4. Clique em `Exportar definição`.
 
-A página de exportação será aberta.
+> ℹ️ `Exportar tradução` exporta a tradução do fluxo, não a definição. Para saber mais sobre as outras configurações, consulte [Editor de fluxo e suas ferramentas](https://help.vtex.com/pt/docs/tutorials/editor-de-fluxo-e-suas-ferramentas).
 
-### Abrir a página de exportação pelas configurações gerais da organização
+### Pelas configurações gerais
 
-Para abrir a página de exportação pelas configurações gerais da organização, siga estas etapas:
-
-1. Abra as configurações gerais da organização.
+1. Abra as configurações gerais da organização de origem.
 2. No menu de opções, clique em `Exportar`.
 
-A página de exportação será aberta.
+### Selecionar e exportar fluxos
 
-### Selecionar os fluxos para exportar
+Depois de abrir a página de exportação:
 
-Para exportar os fluxos, siga estas etapas:
+1. Selecione os fluxos que você deseja transferir. Se um fluxo fizer parte de um grupo, selecione todos os fluxos desse grupo.
+2. No final da página, clique em `Exportar`.
 
-1. Na página de exportação, selecione os fluxos que você deseja exportar. Inclua todos os fluxos do mesmo grupo.
-2. No final da página, clique no botão de exportação.
-
-A plataforma gera um arquivo `.json`. Use esse arquivo para importar os fluxos.
+A plataforma baixa um arquivo `.json` que contém os fluxos selecionados. Guarde esse arquivo para realizar a importação.
 
 ## Importar fluxos
 
-A importação usa o arquivo `.json` gerado durante a exportação para adicionar os fluxos a uma organização. O processo começa nas configurações gerais dessa organização.
-
-Para importar os fluxos, siga estas etapas:
-
-1. Abra as configurações gerais da organização que receberá os fluxos.
+1. Abra as configurações gerais da organização de destino.
 2. No menu de opções, clique em `Importar`.
 3. Selecione o arquivo `.json` gerado durante a exportação.
 4. Clique em `Importar`.
 
-A plataforma importa os fluxos na organização.
+Os fluxos importados são adicionados à organização de destino.

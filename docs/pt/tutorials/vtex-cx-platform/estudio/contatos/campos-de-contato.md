@@ -19,19 +19,17 @@ seeAlso:
   - /pt/docs/tutorials/glossario-de-variaveis
 ---
 
-Campos de contato armazenam informações que você define sobre uma pessoa, como a idade. A plataforma mantém cada valor no contato junto aos dados que já armazena, como a URN e a data de criação do contato. A URN é o identificador do contato em um canal, como um número de WhatsApp.
+Campos de contato armazenam informações sobre uma pessoa que a plataforma não fornece por padrão, como a idade. Você pode salvar um valor em um fluxo de automação e usá-lo em fluxos posteriores, mensagens, grupos de contatos e campanhas.
 
-O valor permanece disponível em qualquer fluxo, inclusive em um fluxo iniciado depois daquele que salvou a informação. Você não precisa criar campos para dados que a plataforma já armazena, como o nome do contato. Para consultar esses dados, use `@contact`, por exemplo, `@contact.name`. Para conferir a lista completa, consulte o [Glossário de variáveis](https://help.vtex.com/pt/docs/tutorials/glossario-de-variaveis).
+> ⚠️ Você não precisa criar campos para informações que a plataforma já armazena, como o nome, a data de criação e a URN do contato. A URN identifica o contato em um canal, como um número de WhatsApp. Para acessar essas informações em um fluxo, use `@contact`, por exemplo, `@contact.name`. Para conferir a lista completa de variáveis disponíveis, consulte o [Glossário de variáveis](https://help.vtex.com/pt/docs/tutorials/glossario-de-variaveis).
 
 ## Criar um campo de contato
 
-Crie o campo em **Gerenciar campos** quando quiser escolher o tipo de valor armazenado antes que um fluxo grave uma informação nele. Também é possível criar um campo em um fluxo com a carta **Atualizar o contato**, inserindo um nome que ainda não existe. Para mais informações, consulte [Cartas de ação](https://help.vtex.com/pt/docs/tutorials/cartas-de-acao).
-
-Para criar um campo de contato, siga estas etapas:
+Para definir o tipo de valor aceito por um campo antes de usá-lo em um fluxo, siga estas etapas:
 
 1. Acesse a organização e o projeto que deseja modificar na [VTEX CX Platform](https://dash.weni.ai/orgs).
 2. No menu lateral, clique em **Contatos**.
-3. Clique em **Gerenciar campos**.
+3. Clique em `Gerenciar campos`.
 
     A página exibe os campos do projeto, o nome da variável de cada campo, o tipo de valor aceito e quantas vezes o campo foi utilizado.
 
@@ -44,23 +42,27 @@ Para criar um campo de contato, siga estas etapas:
     - **Estado**
     - **Distrito**
     - **Divisão**
-7. (Opcional) Selecione **Destaque** para exibir o campo na pré-visualização da página do contato.
+7. (Opcional) Selecione **Destaque** para exibir o campo na pré-visualização do contato.
+
+Também é possível criar um campo de contato ao configurar um fluxo. Na carta **Atualizar o contato**, insira um nome de campo que ainda não existe. Para mais informações, consulte [Cartas de ação](https://help.vtex.com/pt/docs/tutorials/cartas-de-acao).
 
 ## Editar um campo de contato
 
-Para alterar um campo, clique nele na página **Gerenciar campos**. A caixa de diálogo de edição será aberta.
+Na página **Gerenciar campos**, clique no campo que deseja alterar. A caixa de diálogo de edição será aberta.
 
-## Salvar e consultar o valor de um campo
+## Salvar o valor de um campo de contato
 
-Para salvar um valor enquanto o contato estiver em um fluxo, use a carta **Atualizar o contato**. Selecione o campo e insira um valor fixo ou um resultado do fluxo.
+Para salvar um valor enquanto o contato estiver em um fluxo, use a carta **Atualizar o contato**. Selecione o campo de contato e insira um valor fixo ou um resultado do fluxo.
 
-Para consultar o valor em uma mensagem ou expressão, use `@fields.nome_do_campo` ou `@contact.fields.nome_do_campo`. Substitua `nome_do_campo` pelo nome da variável exibido em **Gerenciar campos**. As duas expressões retornam o mesmo campo.
+## Consultar o valor de um campo de contato
+
+Para usar o valor de um campo de contato em uma mensagem ou expressão, insira `@fields.nome_do_campo` ou `@contact.fields.nome_do_campo`. Substitua `nome_do_campo` pelo nome da variável exibido na página **Gerenciar campos**. As duas expressões retornam o mesmo valor.
 
 Por exemplo, `@fields.idade` retorna o valor do campo cujo nome de variável é `idade`.
 
 Para mais informações sobre expressões, consulte [Introdução a expressões e variáveis](https://help.vtex.com/pt/docs/tutorials/introducao-a-expressoes-e-variaveis).
 
-## Outras formas de usar um campo de contato
+## Usar campos de contato em outras tarefas
 
 Depois que um campo recebe um valor, você pode utilizá-lo nas seguintes tarefas:
 
