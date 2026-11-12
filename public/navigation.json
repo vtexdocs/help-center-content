@@ -24104,12 +24104,12 @@
                           "name": {
                             "en": "Refurbished products on Mercado Libre",
                             "es": "Productos reacondicionados en Mercado Libre",
-                            "pt": "Refurbished products on Mercado Libre"
+                            "pt": "Produtos recondicionados no Mercado Livre"
                           },
                           "slug": {
                             "en": "refurbished-products-on-mercado-libre",
                             "es": "productos-reacondicionados-en-mercado-libre",
-                            "pt": ""
+                            "pt": "produto-recondicionado-mercado-livre"
                           },
                           "origin": "",
                           "type": "markdown",
