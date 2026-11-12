@@ -139,7 +139,7 @@ At the time of ordering, Netshoes does not check the price of the product or if 
 
 ### 2º - Integrating the order
 
-Netshoes orders have their own statuses. Here's an explanation of these statuses compared to the ones used by VTEX. [Learn more about the statuses of VTEX orders here.](/en/tutorial/order-flow-on-the-oms)
+Netshoes orders have their own statuses. Here's an explanation of these statuses compared to the ones used by VTEX. [Learn more about the statuses of VTEX orders here.](/en/docs/tutorials/order-flow-and-status)
 <br />
 
 | Status VTEX | Status Netshoes | Netshoes Status Description |
@@ -189,4 +189,4 @@ When you invoice the order in VTEX, the integration updates the status in Netsho
   - `trackingNumber`, `trackingUrl` and `courier`
 
 - To change the status to __delivered__ you will need:
-  - `courierStatus`: this is a field that can be automatically populated (via [carrier's tracking updates](/en/tutorial/quais-transportadoras-disponibilizam-o-rastreio-de-frete)) or manually (via API or the OMS interface).
+  - `courierStatus`: this is a field that can be automatically populated (via [carrier's tracking updates](/en/docs/tutorials/which-carriers-allow-delivery-tracking)) or manually (via API or the OMS interface).

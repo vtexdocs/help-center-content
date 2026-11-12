@@ -51,7 +51,7 @@ End customers do not choose or acknowledge the existence of White Label Sellers 
 
 ## Franchise account configuration
 
-You can access and configure the [Logistics](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/7k4SWtm3EIvLQ3aGXWC07), [Order management](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa), [Prices](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP),[Payments](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) and [Promotions &amp; Taxes](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR) modules directly in the Admin of each of the franchise accounts or using [VTEX APIs](https://developers.vtex.com/vtex-rest-api/reference/get-to-know-vtex-apis).
+You can access and configure the [Logistics](/en/docs/tracks/inventory), [Order management](/en/docs/tutorials/orders-data-pipeline-beta), [Prices](/en/docs/tracks/prices-101),[Payments](/en/docs/tracks/payments) and [Promotions &amp; Taxes](/en/docs/tracks/promotions) modules directly in the Admin of each of the franchise accounts or using [VTEX APIs](https://developers.vtex.com/vtex-rest-api/reference/get-to-know-vtex-apis).
 
 To access the Admin of each franchise account, enter the URL `{{franchiseaccountname}}.myvtex.com/admin`, replacing the `{{franchiseaccountname}}` with the name of the franchise account you wish to manage.
 
@@ -65,9 +65,9 @@ In order for the franchise account to use the prices configured in the main acco
 
 #### Configuring prices specific to the franchise account
 
-To configure specific prices for the franchise account, you must deselect the option **Inherit prices from parent account** in the Settings of the **Prices** module of the franchise account, as described in [this article](/en/docs/tutorials/prices-settings#price-general-settings). In addition, it is necessary to configure the desired prices in the [Prices module](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) or via the [Pricing API](https://developers.vtex.com/vtex-rest-api/reference/pricing-api-overview).
+To configure specific prices for the franchise account, you must deselect the option **Inherit prices from parent account** in the Settings of the **Prices** module of the franchise account, as described in [this article](/en/docs/tutorials/prices-settings#price-general-settings). In addition, it is necessary to configure the desired prices in the [Prices module](/en/docs/tracks/prices-101) or via the [Pricing API](https://developers.vtex.com/vtex-rest-api/reference/pricing-api-overview).
 
-When prices vary across franchise accounts, you should [configure regionalization](/en/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw?&utm_source=autocomplete) to ensure a consistent shopping experience. 
+When prices vary across franchise accounts, you should [configure regionalization](/en/docs/tutorials/configure-seller-regionalization) to ensure a consistent shopping experience. 
 By adopting regionalization, you can request the customer postal code before they navigate your store.This will allow you to display the products and prices available to their franchise account before proceeding to checkout.
 If regionalization is not implemented, a certain product price may be displayed in the store, but when the customer proceeds to checkout and enters their postal code, the price might differ for the franchise account fulfilling the order, resulting in another price.
 This discrepancy occurs because the catalog with the lowest price is prioritized during store navigation. However, at checkout, if the franchise account with the lowest price does not have the product in stock, the seller that has the product available will be selected, and the price will adjust to that seller's price.

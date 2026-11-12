@@ -25,7 +25,7 @@ Para esa configuración, es necesario configurar una promoción del tipo Lleve m
 2. Haga clic en el botón `Crear Promoción`.
 3. Haga clic en la opción **Más Por Menos**.
 4. Rellene los campos conforme el tutorial [Crear promoción Más por Menos
-](/es/tutorial/creating-a-more-for-less-promotion--tutorials_325 "Crear promoción Más por Menos").
+](/es/docs/tutorials/mas-por-menos "Crear promoción Más por Menos").
 5. En el campo **SKUs**, rellene con el SKU al que desea dar la promoción.
 6. En el campo **Cada _ producto(s)**, rellene con el valor **1**.
 7. En el campo **El cliente llevará __ producto(s)**, rellene con el valor **1**.

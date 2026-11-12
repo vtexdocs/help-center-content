@@ -51,7 +51,7 @@ Los clientes finales no eligen ni tienen visibilidad de la existencia de los _Se
 
 ## Configuración de la cuenta franquicia
 
-Puedes acceder y hacer configuraciones en los módulos de **[Logística](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/7k4SWtm3EIvLQ3aGXWC07)**, **[Gestión de pedidos](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa)**, **[Precios](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP)**, **[Pagos](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG)** y **[Tasas y Promociones](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR)** directamente en el Admin de cada una de las cuentas franquicia o utilizando las [API de VTEX](https://developers.vtex.com/vtex-rest-api/reference/get-to-know-vtex-apis).
+Puedes acceder y hacer configuraciones en los módulos de **[Logística](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/7k4SWtm3EIvLQ3aGXWC07)**, **[Gestión de pedidos](/es/docs/tutorials/pedidos-data-pipeline-beta)**, **[Precios](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP)**, **[Pagos](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG)** y **[Tasas y Promociones](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR)** directamente en el Admin de cada una de las cuentas franquicia o utilizando las [API de VTEX](https://developers.vtex.com/vtex-rest-api/reference/get-to-know-vtex-apis).
 
 Para acceder al Admin de cada cuenta franquicia, entre en la URL `{{nombredelacuentafranquicia}}.myvtex.com/admin`, sustituyendo el `{{nombredelacuentafranquicia}}` por el nombre de la cuenta franquicia que desees gestionar.
 
@@ -65,7 +65,7 @@ Para que la cuenta franquicia utilice los precios configurados en la cuenta prin
 
 Para configurar precios propios de la cuenta franquicia, es necesario quitar la marca de la casilla **Heredar precios de la cuenta padre** en la Configuración del módulo de **Precios** de la cuenta franquicia, como se describe en [este artículo](/es/docs/tutorials/configuracion-de-precios). Además, es necesario configurar los precios deseados en el [módulo de Precios](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) o mediante la [API de Pricing](https://developers.vtex.com/vtex-rest-api/reference/pricing-api-overview).
 
-Para garantizar una experiencia de compra uniforme, es importante [configurar la regionalización](/es/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw?&utm_source=autocomplete) cuando cada cuenta franquicia tiene precios diferentes.
+Para garantizar una experiencia de compra uniforme, es importante [configurar la regionalización](/es/docs/tutorials/configurar-la-regionalizacion-del-seller?&utm_source=autocomplete) cuando cada cuenta franquicia tiene precios diferentes.
 La adopción de la regionalización posibilita solicitar el código postal del cliente antes de que este inicie la navegación, lo que a su vez permite mostrar los productos y precios correspondientes a la cuenta franquicia antes de continuar al checkout.
 Si la regionalización no está activa, puede haber casos en los que el consumidor vea un determinado valor de producto al navegar por la tienda, pero al llegar al checkout e ingresar el código postal se determine que la cuenta franquicia que debe atender el pedido es otra y, por lo tanto, el precio sea diferente.
 Esto ocurre porque el catálogo de menor precio es priorizado durante la navegación por la tienda. Sin embargo, en el checkout, si la cuenta franquicia de menor precio no tiene stock disponible, se seleccionará el catálogo de otro seller que tenga stock del producto disponible y se actualizará el precio al valor utilizado por dicho seller.

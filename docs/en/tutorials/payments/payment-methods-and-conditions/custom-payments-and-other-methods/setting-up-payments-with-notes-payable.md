@@ -17,7 +17,7 @@ On VTEX, your store can receive payments made with Notes Payable. To enable this
 
 > ⚠️ The information in this article does not refer to the **Promissory** or **CardPromissory** payment conditions available in the Admin in **Store Settings > Payment > Settings > Payment Conditions**.
 
-> ⚠️ Stores using [**B2B Buyer Portal**](https://help.vtex.com/docs/tutorials/b2b-buyer-portal) need the note payable supported by this product. The configuration box in the Admin doesn't display the payment method number. The direct access URL is available in [Contract settings](https://help.vtex.com/en/docs/tutorials/contract-settings).
+> ⚠️ Stores using [**B2B Buyer Portal**](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal) need the note payable supported by this product. The configuration box in the Admin doesn't display the payment method number. The direct access URL is available in [Contract settings](https://help.vtex.com/en/docs/tutorials/contract-settings).
 
 ## Setting up a payment provider
 
@@ -37,7 +37,7 @@ After registering the payment provider, follow the steps below:
 - **Description:** details of the payment condition.
 - **Note payable expiration date:** the due date for your customer to pay the note payable before it expires.
 - **Automatic authorization:** select whether you want to authorize payments automatically. We recommend enabling this option only for payments on delivery or in-store pickup. By choosing Yes, the order status will automatically change to Handling shipping without requiring payment verification.
-- **Change margin range:** percentage margin range allowed for changes in the value of the Note Payable. Some customers may want to authorize [changes to orders](https://help.vtex.com/docs/tutorials/how-order-modification-works). In this case, please fill in the **Change margin range** field to determine the percentage margin allowed for changes.
+- **Change margin range:** percentage margin range allowed for changes in the value of the Note Payable. Some customers may want to authorize [changes to orders](https://help.vtex.com/en/docs/tutorials/how-order-modification-works). In this case, please fill in the **Change margin range** field to determine the percentage margin allowed for changes.
 - **Split payment:** choose whether to use the [split payment solution](/en/docs/tutorials/split-payment). If you opt to use it, the Note Payable will be split between the sellers and the marketplace, when applicable.
 - **Automatic invoicing:** number of days for the system to invoice the Note Payable after payment authorization. By default, Notes Payable are invoiced upon payment authorization. By configuring this field, billing will no longer occur upon authorization and will begin after the number of days defined by the customer.
 

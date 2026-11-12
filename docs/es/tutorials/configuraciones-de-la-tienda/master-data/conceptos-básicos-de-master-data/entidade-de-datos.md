@@ -1,18 +1,13 @@
 ---
 title: 'Entidad de datos'
-id: tutorials_1265
-status: PUBLISHED
 createdAt: 2017-04-27T21:56:57.118Z
-updatedAt: 2026-07-08T18:37:00.000Z
-publishedAt: 2024-10-23T23:39:13.110Z
-firstPublishedAt: 2017-04-27T23:03:49.803Z
+updatedAt: 2026-11-11T00:00:00.000Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_3
 slugEN: data-entity
 legacySlug: entidades-de-datos-creacion-y-mantenimiento
 locale: es
-subcategoryId: 1l3IVVYwrrG5YOtdt7R2SN
 ---
 
 Una entidad de datos es una representación de un conjunto de información sobre un determinado concepto. Toda entidad tiene campos, que son los datos que forman las entidades.
@@ -23,9 +18,9 @@ Para ilustrarlo, imaginemos un sistema de control de bibliotecas. Este sistema c
 
 Estos conceptos permiten configurar los más diversos escenarios de control de datos en Master Data. De forma predeterminada, se ingresan las siguientes entidades de datos: Cliente, Dirección, Tiendas, etc. Puedes crear todas las entidades de datos que desees para personalizar el entorno de acuerdo con las necesidades de cada tienda.
 
-> ℹ️ Las entidades de datos creadas por tu operación se consideran entidades personalizadas y están sujetas a una facturación mensual. Más información en [Entidades de datos personalizadas](/es/docs/tutorials/master-data).
+> ℹ️ Las entidades de datos creadas por tu operación se consideran entidades personalizadas y están sujetas a una facturación mensual. Más información en [Entidades de datos personalizadas](/es/docs/tutorials/master-data-es).
 
-> ⚠️ Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar la versión de Master Data que satisface las necesidades de tu operación o que ya está en uso. Más información: <ul> <li>[Características de las versiones de Master Data](/es/docs/tutorials/master-data#versiones-disponibles)</li> <li>[Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics)</li> </ul>
+> ⚠️ Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar la versión de Master Data que satisface las necesidades de tu operación o que ya está en uso. Más información: <ul> <li>[Características de las versiones de Master Data](/es/docs/tutorials/master-data-es#versiones-disponibles)</li> <li>[Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics)</li> </ul>
 
 > ⚠️ Eliminar una entidad de datos a través de la interfaz de Master Data v1 **no** elimina los documentos (registros) ya almacenados. El volumen facturado permanece sin cambios hasta que los registros se eliminen mediante la API. Para eliminar documentos y reducir la facturación, consulta la guía [Deleting documents in bulk in Master Data](https://developers.vtex.com/docs/guides/deleting-documents-in-bulk-in-master-data) en el portal de desarrolladores. Consulta la [guía para resolver](/es/docs/tutorials/la-facturacion-de-master-data-no-disminuyo-despues-de-eliminar-una-entidad-de-datos) este problema.
 
@@ -62,6 +57,8 @@ Al crear un campo puedes seleccionar cualquiera de los tipos que se describen a 
 | **Varchar 50** | Almacena números, letras y caracteres especiales con un límite de 50 caracteres. |
 | **Varchar 750** | Almacena números, letras y caracteres especiales con un límite de 750 caracteres. |
 
+> ⚠️ Los campos de los tipos **Text** y **Varchar** solo aceptan texto simple, no objetos ni otros valores estructurados. Si uno de estos campos tiene marcada la opción **¿Es buscable?** o **¿Es filtrable?** y recibe un objeto (por ejemplo, `{}`), el documento que contiene ese valor queda fuera del índice. Los demás documentos de la entidad se siguen indexando normalmente. El documento afectado sigue almacenado y se devuelve en las consultas por ID, pero no aparece en las búsquedas por API (`/search`) ni en la interfaz de Master Data. Para corregirlo, envía el valor como texto o desmarca las opciones **¿Es buscable?** y **¿Es filtrable?** del campo. Luego, reindexa la entidad.
+
 ## Crear entidad de datos
 
 Sigue los pasos a continuación para configurar una nueva entidad de datos.
@@ -93,6 +90,9 @@ Sigue los pasos a continuación para configurar una nueva entidad de datos.
 
 	- **¿Es buscable?**: determina si el campo se utiliza para búsquedas en el formulario y por API.
 	- **¿Es filtrable?:** determina si el campo se utiliza para filtrar en el formulario y por API.
+
+	Para los campos de los tipos **Text** y **Varchar** con estas opciones marcadas, consulta el aviso sobre los valores aceptados en la sección [Tipos de datos](#tipos-de-datos).
+
 16. Ingresa la descripción del campo.
 17. Para agregar más campos, haz clic en el botón `Nuevo campo` y repite los pasos 10 al 16.
 18. Después de definir los campos, haz clic en el botón `Guardar` para finalizar o `Guardar y crear` para continuar con la creación de una nueva entidad de datos.

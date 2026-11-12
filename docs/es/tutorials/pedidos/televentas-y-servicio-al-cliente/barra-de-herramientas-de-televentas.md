@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 6SEjoixhY5LlA7G15W6oZS
 ---
 
-La barra de herramientas de televentas es una barra superior que se muestra en el sitio web de la tienda a los usuarios con el [rol «Call Center Operator»](/es/docs/tutorials/como-creo-un-usuario-de-televentas), responsables del servicio al cliente. A través de este elemento los operadores de televentas pueden navegar por la tienda en nombre de los clientes, “personificando” usuarios.
+La barra de herramientas de televentas es una barra superior que se muestra en el sitio web de la tienda a los usuarios con el [rol «Call Center Operator»](/es/docs/tutorials/crear-usuario-de-televentas), responsables del servicio al cliente. A través de este elemento los operadores de televentas pueden navegar por la tienda en nombre de los clientes, “personificando” usuarios.
 
 La barra de herramientas aparece una vez que el operador registrado inicia sesión en el ambiente de la tienda y esta se muestra en todas las áreas del sitio web.
 
@@ -25,7 +25,7 @@ Estos son los principales recursos de la barra de herramientas:
 *   [Entrar como cliente](#entrar-como-cliente)
 *   [Información del cliente](#informacion-del-cliente)
 
-Para habilitar la barra de herramientas de televentas, el administrador de la tienda debe [asignar el rol Call Center Operator](/es/faq/como-criar-um-usuario-de-televendas) a los operadores de televentas. En el Admin VTEX, accede a **Configuración de la cuenta > Roles de usuario**, o escribe **Roles de usuario** en la barra de búsqueda en la parte superior de la página.
+Para habilitar la barra de herramientas de televentas, el administrador de la tienda debe [asignar el rol Call Center Operator](/es/docs/tutorials/crear-usuario-de-televentas) a los operadores de televentas. En el Admin VTEX, accede a **Configuración de la cuenta > Roles de usuario**, o escribe **Roles de usuario** en la barra de búsqueda en la parte superior de la página.
 
 Para saber cómo personalizar la apariencia de la barra de herramientas en el módulo CMS, consulte el artículo [Personalizar la barra de herramientas de televentas](/es/docs/tutorials/customizar-a-toolbar-de-televendas).
 
@@ -56,7 +56,7 @@ Al hacer clic en el nombre del cliente, el operador puede ver la siguiente infor
 ## Artículos relacionados
 
 *   [Roles de usuario predefinidos - Call center operator](/es/docs/tutorials/roles-de-usuario-predefinidos#call-center-operator)
-*   [Crear usuario de televentas](/es/docs/tutorials/como-creo-un-usuario-de-televentas)
+*   [Crear usuario de televentas](/es/docs/tutorials/crear-usuario-de-televentas)
 *   [Personalizar la barra de herramientas de televentas](/es/docs/tutorials/customizar-a-toolbar-de-televendas)
 *   [Pedidos](/es/docs/tutorials/como-funciona-mi-cuenta#pedidos)
 *   [Funcionalidades de televentas](/es/docs/tutorials/funcionalidades-de-televentas)

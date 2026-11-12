@@ -24,7 +24,7 @@ symptomFilters:
 
 When a marketplace order is not integrated into VTEX because of an out-of-stock error, an error message is displayed for each order. To check the errors, in the VTEX Admin, go to **Marketplace > Connections > Orders**, or type **Orders** in the search bar.
 
-To check whether the SKU is available, run a [shipping simulation](/en/tutorial/simulacao-de-frete). The simulator shows the product's delivery conditions without placing an order.
+To check whether the SKU is available, run a [shipping simulation](/en/docs/tutorials/shipping-simulation). The simulator shows the product's delivery conditions without placing an order.
 
 The most common out-of-stock errors in marketplace order integration are:
 

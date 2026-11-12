@@ -29,7 +29,7 @@ Para configurar o Mercado Pago Pro, siga os passos abaixo:
 6. Na tela de configuração, ative a condição clicando em __Status__.
 7. Em __Processar com o provedor__, selecione __MercadoPagoV2__.
 8. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__.
-9. Caso necessário, você também pode configurar [condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condiciones-especiales--tutorials_456).
+9. Caso necessário, você também pode configurar [condições especiais de pagamento](https://help.vtex.com/pt/docs/tutorials/condicoes-especiais).
 10. Clique em `Salvar`.
 
 > ℹ️ Para processar pagamentos feitos com o Pix, basta [cadastrar uma chave Pix no Mercado Pago](https://www.mercadopago.com.br/ferramentas-para-vender/aceitar-pix) após concluir a configuração do meio de pagamento.

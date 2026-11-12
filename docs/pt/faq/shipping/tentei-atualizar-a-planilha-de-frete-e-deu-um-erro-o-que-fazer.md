@@ -15,7 +15,7 @@ locale: pt
 legacySlug: tentei-atualizar-a-planilha-de-frete-e-deu-um-erro-o-que-fazer
 ---
 
-Para realizar a atualização da planilha de frete via importação de planilha, é necessário estar com os nomes das colunas corretos e no formato **.xls**. Caso o arquivo ultrapasse 10MB, é necessário compactá-lo no formato **.zip**. Para maiores detalhes, veja os documentos: [Como montar a planilha de frete](/pt/tutorial/como-montar-a-planilha-de-frete) e [Valores de Frete](/pt/tutorial/gerenciar-valores-de-frete).
+Para realizar a atualização da planilha de frete via importação de planilha, é necessário estar com os nomes das colunas corretos e no formato **.xls**. Caso o arquivo ultrapasse 10MB, é necessário compactá-lo no formato **.zip**. Para maiores detalhes, veja os documentos: [Como montar a planilha de frete](/pt/tutorial/como-montar-a-planilha-de-frete) e [Valores de Frete](/pt/docs/tutorials/gerenciar-tarifas-de-envio).
 
 Se tentar importar a planilha com o formato **.xlsx**, o frete não será atualizado.
 

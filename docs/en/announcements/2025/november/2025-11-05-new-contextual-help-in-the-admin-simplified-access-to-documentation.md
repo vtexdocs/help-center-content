@@ -38,7 +38,7 @@ Now, the Information Center is accessible via the `? Help` button, which is stil
 
 - **Additional Resources:** Provides useful links that redirect you to the Help Center, Developer Portal, Platform Status, Troubleshooting, VTEX Blog, and Support.
 
-    - [Help Center](https://help.vtex.com/): Redirects you to the homepage of the Help Center
+    - [Help Center](https://help.vtex.com/en): Redirects you to the homepage of the Help Center
     - [Developer Portal](https://developers.vtex.com/): Redirects you to the homepage of the Developer Portal.
     - [Platform Status](https://status.vtex.com/): Redirects you to the VTEX Status page
     - [Troubleshooting](/en/docs/tutorials/vtex-admin-start-here): Redirects you to the Troubleshooting page in the Help Center.

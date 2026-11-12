@@ -64,5 +64,5 @@ Para realizar esta configuração:
 1. Acesse *Configurações da conta* > *Autenticação*.
 2. Desabilite o campo *senha*.
 
-Saiba mais sobre como [gerenciar as formas de autenticação](/pt/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs#) da sua loja.
+Saiba mais sobre como [gerenciar as formas de autenticação](/pt/docs/tutorials/autenticacao#) da sua loja.
 

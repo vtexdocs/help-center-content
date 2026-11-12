@@ -55,7 +55,7 @@ The main benefits of creating and maintaining updated documentation of the opera
 There are strategies to prevent and reduce store exposure to the risk of malicious attacks. Some of the main ones are:
 
 * **Anti-fraud solution:** Configure an [anti-fraud system](/en/docs/tutorials/financial-agents-in-the-payment-flow#anti-fraud-solution) for all store payment methods.
-* **reCAPTCHA:** Use [reCAPTCHA](/en/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP#) to prevent fraud involving fake user accounts created by malicious software.
+* **reCAPTCHA:** Use [reCAPTCHA](/en/docs/tutorials/using-recaptcha-at-checkout#) to prevent fraud involving fake user accounts created by malicious software.
 * **Authentication:** If your store has been experiencing recurrent attacks, consider disabling password login and opting for alternative [authentication](/en/docs/tutorials/authentication) methods for your customers.
 
 > ℹ️ For more information about preventive actions, see the article [Best practices against virtual attacks](/en/docs/tutorials/best-practices-against-virtual-attacks) and this [post](https://community.vtex.com/t/duvidas-frequentes-varias-tentativas-de-compras-fraudulentas-o-que-fazer/39470) on VTEX Community (available in Portuguese).
@@ -66,7 +66,7 @@ There are strategies to prevent and reduce store exposure to the risk of malicio
 
 Some key recommendations for VTEX [roles](/en/docs/tutorials/roles) are:
 
-* **Grant minimal permissions:** Create roles considering the minimum level of permissions necessary for users to perform their tasks. Beyond the [predefined roles](/en/tutorial/perfis-de-acesso), you can create [customized roles](/en/docs/tutorials/roles#criando-um-perfil-de-acesso). Limiting third-party access to critical content minimizes the risk of unwanted access, data leakage, or other harmful scenarios. 
+* **Grant minimal permissions:** Create roles considering the minimum level of permissions necessary for users to perform their tasks. Beyond the [predefined roles](/en/docs/tutorials/roles), you can create [customized roles](/en/docs/tutorials/roles#criando-um-perfil-de-acesso). Limiting third-party access to critical content minimizes the risk of unwanted access, data leakage, or other harmful scenarios. 
 * **Re-evaluate roles:** [Manage users](/en/docs/tutorials/managing-admin-users) periodically and ensure that each has an appropriate level of permission. It is crucial to delete roles from employees or vendors who are no longer in your business. Proactively and regularly reviewing users help prevent security breaches caused by improper access.
 * **Control app key permissions:** [App keys](/en/docs/tutorials/api-keys) used in integrations can also access your VTEX store. Please follow our [Best practices for using application keys](/en/docs/tutorials/best-practices-api-keys).
 * **Restrict VTEX Admin access to corporate domains:** Using corporate domains adds a layer of security, preventing unauthorized access to your store. Limiting access to only use corporate email addresses mitigates the risk of data leaks (intentional or accidental), enhances protection against phishing, and improves the traceability of audit activities.

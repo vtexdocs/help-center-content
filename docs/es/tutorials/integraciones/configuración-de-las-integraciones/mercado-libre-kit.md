@@ -70,7 +70,7 @@ También es posible modificar únicamente el precio final del kit directamente d
 
 ## Activar la sincronización de kits
 
-Después de registrar los kits en el catálogo VTEX siguiendo el tutorial [Registrar kit](https://help.vtex.com/es/docs/tutorials/cadastrar-kit) y vincularlos a la política comercial de la integración con Mercado Libre, el seller debe seguir los pasos a continuación para activar la sincronización:
+Después de registrar los kits en el catálogo VTEX siguiendo el tutorial [Registrar kit](https://help.vtex.com/es/docs/tutorials/registrar-kit) y vincularlos a la política comercial de la integración con Mercado Libre, el seller debe seguir los pasos a continuación para activar la sincronización:
 
 1. En el Admin VTEX, ve a **Marketplace > Conexiones > Mercado Libre > Preferencias** o escribe **Preferencias** en la barra de búsqueda.
 2. En la sección **Kits en Mercado Libre,** activa el toggle <label class="toggle-switch">.

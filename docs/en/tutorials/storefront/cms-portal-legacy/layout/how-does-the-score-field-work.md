@@ -34,9 +34,9 @@ If your store uses the [VTEX Search (Legacy)](/en/docs/tutorials/how-does-vtex-s
 
 ## Score in VTEX Intelligent Search
 
-The `OrderByScoreASC` and `OrderByScoreDESC` parameters are not supported by[ VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb), only by the [VTEX Search (Legacy)](/en/docs/tutorials/how-does-vtex-search-legacy-work).
+The `OrderByScoreASC` and `OrderByScoreDESC` parameters are not supported by[ VTEX Intelligent Search](/en/docs/tracks/implementing-the-search-in-your-store-frontend), only by the [VTEX Search (Legacy)](/en/docs/tutorials/how-does-vtex-search-legacy-work).
 
-[VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb) does not allow direct sorting of products by the score defined in the **Score** field. When using one of these parameters in VTEX Intelligent Search, the default sorting will be by[ relevance](/en/docs/tutorials/relevance-rules).
+[VTEX Intelligent Search](/en/docs/tracks/implementing-the-search-in-your-store-frontend) does not allow direct sorting of products by the score defined in the **Score** field. When using one of these parameters in VTEX Intelligent Search, the default sorting will be by[ relevance](/en/docs/tutorials/relevance-rules).
 
 However, the Catalog score composes Intelligent Search's [relevance](/en/docs/tutorials/relevance-rules) among the other criteria, allowing it to be given greater weight or even prioritized. Thus, the higher the score, the greater the weight, i.e., the behavior is descending: products with a higher score are prioritized.
 

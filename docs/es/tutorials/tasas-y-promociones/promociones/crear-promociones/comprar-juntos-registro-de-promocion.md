@@ -83,7 +83,7 @@ Para obtener más información, consulta [Seller Opt-in for Promotions](https://
 
 ### Políticas comerciales
 
-Selecciona las políticas comerciales que ofrecerán el descuento. Puedes ofrecer descuentos para políticas comerciales en las que [tu tienda opera como marketplace](/es/faq/o-que-e-um-marketplace) (mi tienda) o como [seller](/es/faq/o-que-e-um-seller) (tiendas de terceros - fulfillment).
+Selecciona las políticas comerciales que ofrecerán el descuento. Puedes ofrecer descuentos para políticas comerciales en las que [tu tienda opera como marketplace](/es/docs/tutorials/que-es-un-marketplace) (mi tienda) o como [seller](/es/docs/tutorials/que-es-un-seller) (tiendas de terceros - fulfillment).
 
 Puedes elegir entre las siguientes opciones:
 
@@ -120,7 +120,7 @@ Define las restricciones que se aplicarán a la promoción. Las condiciones perm
 
 - **Número BIN de la tarjeta:** la promoción solo se aplicará cuando se utilicen tarjetas de redes, bancos o categorías específicas identificadas por su número BIN. Importa una lista de BIN con un archivo de texto (.txt) o un archivo CSV (.csv) que describa cada BIN en una fila diferente.
 
-- **Clúster de clientes:** selecciona un [clúster de clientes](/es/tutorial/como-criar-um-cluster-de-clientes) previamente creado en Master Data, siguiendo el formato `field=value` o `field contains value`. El clúster agrupa clientes con características específicas y que son elegibles para la promoción. Escoge una de las siguientes opciones:
+- **Clúster de clientes:** selecciona un [clúster de clientes](/es/docs/tutorials/como-crear-un-cluster-de-cliente) previamente creado en Master Data, siguiendo el formato `field=value` o `field contains value`. El clúster agrupa clientes con características específicas y que son elegibles para la promoción. Escoge una de las siguientes opciones:
 
   - **Todos los siguientes:** la promoción se aplicará solo si se cumplen todos los criterios del clúster.
   - **Al menos uno de los siguientes:** la promoción se aplicará si se cumple al menos uno de los criterios del clúster.

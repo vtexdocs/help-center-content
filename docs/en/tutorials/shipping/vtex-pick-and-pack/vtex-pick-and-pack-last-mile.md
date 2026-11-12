@@ -11,7 +11,7 @@ hidden: false
 
 > ℹ️ If you're interested in adopting this feature for your business, complete our [form](https://www.vtex.com/en-us/get-started/) and enter the desired product name in the `Comments` field.
 
-**Last Mile** is the VTEX Admin page that tracks the final fulfillment stage of orders processed by [VTEX Pick and Pack](/docs/tutorials/vtex-pick-and-pack): shipping to the customer by integrated carriers and in-store pickup.
+**Last Mile** is the VTEX Admin page that tracks the final fulfillment stage of orders processed by [VTEX Pick and Pack](/en/docs/tutorials/vtex-pick-and-pack): shipping to the customer by integrated carriers and in-store pickup.
 
 Each movement is represented by a **service**, the record that brings together the origin, destination, packages, and status history of one or more orders. The page is organized into two tabs, one for each service type:
 
@@ -52,7 +52,7 @@ To find a specific service, use the search bar at the top of the page. You can a
 - **Carrier:** Carrier handling the delivery.
 - **Status:** Current stage of the service. You can select more than one status.
 - **Fulfillment locations:** Store or distribution center where the service originates.
-- **Payment methods:** [Payment method](/docs/tutorials/difference-between-payment-methods-and-payment-conditions) used for the order.
+- **Payment methods:** [Payment method](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions) used for the order.
 
 To deselect a filter, open it and click `Clear`.
 
@@ -285,7 +285,7 @@ To add an integration, follow these steps:
 
    > ℹ️ Each company has its own configuration fields, and some information must be obtained directly from the company. If needed, contact the carrier's support.
 
-   > ℹ️ Some integrations require sending credentials to VTEX. In such cases, contact [VTEX Support](https://help.vtex.com/docs/tutorials/opening-tickets-to-vtex-support) to receive guidance on how to submit the required information.
+   > ℹ️ Some integrations require sending credentials to VTEX. In such cases, contact [VTEX Support](https://help.vtex.com/en/docs/tutorials/opening-tickets-to-vtex-support) to receive guidance on how to submit the required information.
 
    ![vtex-pick-and-pack-last-mile_16](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_en_16.png)
 
@@ -308,7 +308,7 @@ In **Store location**, enter the country, state, city, postal code, street, and 
 ## Learn more
 
 - [VTEX Pick and Pack](/en/docs/tutorials/vtex-pick-and-pack)
-- [VTEX Pick and Pack: Orders](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-orders)
+- [VTEX Pick and Pack: Orders](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-orders)
 - [VTEX Pick and Pack: Service orders](/en/docs/tutorials/vtex-pick-and-pack-worksheets)
 - [VTEX Pick and Pack: Settings](/en/docs/tutorials/vtex-pick-and-pack-settings)
 - [VTEX Pick and Pack: Insights](/en/docs/tutorials/vtex-pick-and-pack-insights)

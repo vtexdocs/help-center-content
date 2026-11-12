@@ -3,7 +3,7 @@ title: 'Sending products to Google Shopping'
 id: 5L5LnccDCj5lJk8H95GQ82
 status: PUBLISHED
 createdAt: 2021-04-15T14:10:45.645Z
-updatedAt: 2025-09-08T17:53:08.339Z
+updatedAt: 2026-11-04T17:45:00.000Z
 publishedAt: 2025-09-08T17:53:08.339Z
 firstPublishedAt: 2021-04-15T17:41:23.772Z
 contentType: trackArticle
@@ -16,34 +16,6 @@ order: 7
 ---
 
 In Google Shopping, only catalogs can be integrated with Google Shopping. Unlike other integrations, **you do not have to map products using a spreadsheet.**
-
-## Reindexing the database
-
-After integrating and authenticating your account, the marketplace does not automatically receive the products after integrating with the seller. First, the seller must [reindex the database](/en/docs/tutorials/understanding-how-indexation-works). This process prepares the SKU information and products and sends catalog, price, and stock general information to the marketplace.  
-
-> ℹ️ Please note that only the [sponsor user (owner)](/en/docs/tracks/what-is-the-master-user) has permission to reindex a VTEX store database. During reindexing, which may vary in terms of time, the products are queued for updating the information, while still remaining available for sale on the store site.
-
-To reindex the database, paste the link below in your browser, replacing the `{storename}` with the name of your store:
-
-`{storename}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`
-
-Access the link and click the `Reindex database` button. You can track the process in the VTEX Admin, through **Catalog > Reports**.
-
-### Checking index
-
-You can verify if a specific SKU has been indexed correctly to the integration sales channel. Follow the steps below:
-
-1. In the VTEX Admin, access **Catalog > Products and SKUs**.
-2. Click the menu button <i class="fas fa-angle-down"></i> .  
-3. Select the `View indexed info` option.
-4. Check the status of each SKU. 
-
-See below the messages for each indexing status:  
-
-| Status | Message examples |
-|---|---|
-| Indexed SKUs | Sku: 70 - yellow sneakers variation Sales Channel: 1 Sku: 70 Price: 1740.00 Stock: 1 Quantity Sold last month SalesChannel: 1, Sales: 0 |
-| Unindexed SKUs	 | Sku: 112 - blue sneakers variation Sales Channel: 1 Sku: 112 Sku is UNAVAILABLE - check price and stock, Checkout Info: Code: withoutStock \| Status:error \| Message: The item Sneakers – Male – Navy/silver yellow sneaker variation is out of stock Quantity Sold last month SalesChannel: 1, Sales: -1 |
 
 ## Product approval
 

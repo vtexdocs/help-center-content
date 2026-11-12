@@ -29,7 +29,7 @@ No nosso portal, você encontra agora a categoria de tutoriais **Weni by VTEX**,
 - [Agent Builder](/pt/subcategory/agent-builder--3TASbcSqDuDZwmgDLc0O5I): ferramenta de criação e atribuição de agentes para comunicação com o cliente.
 - [Insights](/pt/subcategory/insights--13xAeqd2qH34rW2VHBXuWh): painel com dados e métricas sobre os atendimentos em curso.
 - [Chats](/pt/subcategory/chats--6Jkw23mYV23p4V33O1Hjdh): ajudante do atendimento humano.
-- [Estúdio](/pt/subcategory/studio--2kZMtDveyKwicJ6Hs8s2yN): módulo de contatos, mensagens, campanhas e disparadores de mensagens.
+- [Estúdio](/pt/subcategory/studio--2kZMtDveyKwicJ6Hs8s2yN): módulo de contatos, mensagens, campanhas e triggers.
 - [Integrações](/pt/subcategory/weni-integrations--7e9LaCixVcvflzgWkxlftd): integrações com ferramentas como ChatGPT, Slack, Instagram, entre outros. 
 - [Code Action](/pt/subcategory/code-action--3q6HjVqNcRNNZttPAV93wi): ferramenta para configuração de webhook.
 - [Configurações](/pt/subcategory/configuracoes-weni--119WfAe6xGl5c0S1hLdHRQ): módulo de configurações de projetos e Weni Chats.

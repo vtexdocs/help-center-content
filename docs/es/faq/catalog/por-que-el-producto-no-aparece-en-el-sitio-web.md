@@ -35,7 +35,7 @@ Este artículo explica cómo investigar errores de indisponibilidad de productos
 * [Logística](#logistica)
 * [CMS](#cms)
 
-> ⚠️ Después de ajustar la información de producto y SKU o editar la configuración de logística, debes esperar a que se indexe el producto. Puedes dar seguimiento al status a través de la [cola de indexación](/es/tutorial/entendendo-o-funcionamento-da-indexacao) del Admin VTEX, en **Catálogo > Informes > Productos indexados**. Después de la indexación, recomendamos acceder a la página del producto en el sitio web de la tienda con una pestaña anónima en el navegador para ver la versión actualizada y sin caché.
+> ⚠️ Después de ajustar la información de producto y SKU o editar la configuración de logística, debes esperar a que se indexe el producto. Puedes dar seguimiento al status a través de la [cola de indexación](/es/docs/tutorials/entendiendo-el-funcionamento-de-la-indexacion) del Admin VTEX, en **Catálogo > Informes > Productos indexados**. Después de la indexación, recomendamos acceder a la página del producto en el sitio web de la tienda con una pestaña anónima en el navegador para ver la versión actualizada y sin caché.
 
 Hay casos en que el producto aparece en la vitrina, pero se muestra indisponible cuando se agrega al carrito. Esto puede depender de varios ajustes de logística. Aprende más en el artículo [¿Qué ajustes de logística impactan la disponibilidad del producto en el carrito?](/es/docs/tutorials/que-ajustes-de-logistica-impactan-la-disponibilidad-del-producto-en-el-carrito).
 
@@ -215,7 +215,7 @@ Independientemente de qué CMS usa tu tienda, ya sea el Portal Legado o VTEX IO,
 
     Si el ícono está azul, significa que el _binding_ está correcto y no debes hacer nada.
 
-    Si el ícono está amarillo, hay un error en el _binding_. En ese caso, deberás seguir los pasos que se indican en el artículo [Sitio web con error: ¿cómo ajustarlo?](/es/faq/website-com-erro-como-ajustar) para corregir el error.
+    Si el ícono está amarillo, hay un error en el _binding_. En ese caso, deberás seguir los pasos que se indican en el artículo [Sitio web con error: ¿cómo ajustarlo?](/es/faq/website-con-error-como-ajustarlo) para corregir el error.
 
 ### CMS - Portal Legado
 

@@ -53,7 +53,7 @@ If a term is already covered by another synonym, a notification appears in the f
 | Created on | Date the conflicting synonym was created. |
 | Status | Status of the conflicting synonym, which can be Active or Inactive. |
 
-From this page, you can review each conflicting synonym individually and [edit it](https://help.vtex.com/docs/tutorials/synonym-list#editing-synonyms) or [delete it](https://help.vtex.com/docs/tutorials/synonym-list#deleting-synonyms), as needed.
+From this page, you can review each conflicting synonym individually and [edit it](https://help.vtex.com/en/docs/tutorials/synonym-list#editing-synonyms) or [delete it](https://help.vtex.com/en/docs/tutorials/synonym-list#deleting-synonyms), as needed.
 
 When you click `Save`, if there's a conflict, a confirmation window is displayed asking you to confirm or edit considering the identified overlap.
 

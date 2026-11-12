@@ -29,18 +29,18 @@ Below is an example of a $100 order and how it can be settled in each scenario:
 
 ## Total settlement
 
-In this model, the merchant issues an invoice either for the total amount ($100) or a [partial amount](https://help.vtex.com/docs/tracks/partial-invoices#sending-a-partial-invoice), such as $50.
+In this model, the merchant issues an invoice either for the total amount ($100) or a [partial amount](https://help.vtex.com/en/docs/tracks/partial-invoices#sending-a-partial-invoice), such as $50.
 
-The [Orders](https://help.vtex.com/docs/tutorials/orders-category) system sends a settlement request to the VTEX payment gateway based on the invoice total ($100 or $50). Then, the gateway transfers the total order amount ($100) to the payment provider, regardless of the amount on the invoice.
+The [Orders](https://help.vtex.com/en/docs/tutorials/orders-category) system sends a settlement request to the VTEX payment gateway based on the invoice total ($100 or $50). Then, the gateway transfers the total order amount ($100) to the payment provider, regardless of the amount on the invoice.
 
 
 ## Hold settlement
 
-In this model, the merchant issues a [partial invoice](https://help.vtex.com/docs/tracks/partial-invoices#sending-a-partial-invoice) for $70, using the same example. The Orders system requests settlement for this amount, but the gateway holds the amount. It doesn't transfer the $70 to the payment provider until the remaining $30 is invoiced, completing the full order amount. When the amount from partial requests reaches the total transaction amount ($100), the gateway transfers the amount to the payment provider.
+In this model, the merchant issues a [partial invoice](https://help.vtex.com/en/docs/tracks/partial-invoices#sending-a-partial-invoice) for $70, using the same example. The Orders system requests settlement for this amount, but the gateway holds the amount. It doesn't transfer the $70 to the payment provider until the remaining $30 is invoiced, completing the full order amount. When the amount from partial requests reaches the total transaction amount ($100), the gateway transfers the amount to the payment provider.
 
 ## Partial settlement
 
-In this model, when the merchant issues a [partial invoice](https://help.vtex.com/docs/tracks/partial-invoices) (for example, $60), the Orders system requests settlement for the corresponding amount, and the gateway automatically transfers the $60 to the payment provider.
+In this model, when the merchant issues a [partial invoice](https://help.vtex.com/en/docs/tracks/partial-invoices) (for example, $60), the Orders system requests settlement for the corresponding amount, and the gateway automatically transfers the $60 to the payment provider.
 
 As new invoices are added, the gateway automatically and proportionally settles the remaining amount (up to $40 in this example).
 

@@ -36,7 +36,7 @@ Na VTEX você encontra dois tipos, o seller comum e o seller white label
 
 ## Artigos relacionados
 
-- [O que é um marketplace?](/pt/tutorial/what-is-a-marketplace)  
-- [Configurar seller](/pt/tutorial/configurando-seller)  
+- [O que é um marketplace?](/pt/docs/tutorials/o-que-e-um-marketplace)  
+- [Configurar seller](/pt/docs/tutorials/adicionar-seller)  
 - [Estratégias de marketplace na VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex)  
 

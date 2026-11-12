@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 ---
 
-Cada cuenta de VTEX tiene un único [usuario titular](/es/tutorial/what-is-the-sponsor-user) que es el único que tiene acceso completo a todas las secciones del Admin, incluidas las acciones críticas de mantenimiento y autorización. De forma predeterminada, este rol se asigna a un usuario especificado en el contrato y usualmente es la persona que supervisa las operaciones de comercio digital a diario.
+Cada cuenta de VTEX tiene un único [usuario titular](/es/docs/tutorials/que-es-el-usuario-titular) que es el único que tiene acceso completo a todas las secciones del Admin, incluidas las acciones críticas de mantenimiento y autorización. De forma predeterminada, este rol se asigna a un usuario especificado en el contrato y usualmente es la persona que supervisa las operaciones de comercio digital a diario.
 
 El usuario titular actual puede transferir esta responsabilidad a cualquier otra persona que desee a través de la página de [Gestión de titulares](#gestion-de-titulares) siguiendo los [pasos de transferencia de propiedad](#transferencia-de-la-propiedad-de-la-cuenta).
 

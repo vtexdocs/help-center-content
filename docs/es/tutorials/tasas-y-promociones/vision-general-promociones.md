@@ -35,7 +35,7 @@ Este módulo incluye las siguientes secciones:
 
 En esta sección, creas los descuentos que tu tienda ofrece a los clientes según criterios específicos. También puedes ver, filtrar, buscar y archivar promociones.
 
-Según la configuración de tu tienda, existe un límite de promociones que pueden estar activas al mismo tiempo. Para consultar el límite actual, consulta [Límites de cupones, tasas y promociones](/es/docs/tutorials/cual-es-el-limite-máximo-de-promociones).
+Según la configuración de tu tienda, existe un límite de promociones que pueden estar activas al mismo tiempo. Para consultar el límite actual, consulta [Límites de cupones, tasas y promociones](/es/docs/tutorials/cual-es-el-limite-maximo-de-promociones).
 
 Aprende a gestionar promociones en [Promociones](/es/docs/tutorials/lista-de-promociones-beta) y [Crear promociones](/es/docs/tutorials/crear-promociones). Los tipos de promociones que puedes crear incluyen:
 

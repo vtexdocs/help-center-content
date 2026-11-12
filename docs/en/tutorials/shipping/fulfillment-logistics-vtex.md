@@ -132,11 +132,11 @@ Days registered as holidays are not considered in the delivery time of orders.
    <td class="t-body pa5" style="min-width: 15rem;">Manage specific configurations of logistics routes. These configurations allow you to detail the delivery conditions that will be available to the customer. The possible configurations in this section are:
 <body>
 <ul>
-<li>[Additional shipping cost](/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV?&utm_source=autocomplete#adicional-de-frete): extra cost charged on top of the [shipping rate](/en/docs/tutorials/shipping-rates);</li>
-<li>[Shipment group](/en/tutorial/como-funciona-a-remessa): a group of bundled packages shipped together.</li>
-<li>[Modality](/en/tutorial/como-funciona-o-modal): type of items accepted for delivery.</li>
-<li>[Cargo splitting](/en/tutorial/como-funciona-a-divisao-de-carga): how products must be split for delivery.</li>
-<li>[Critical inventory level alert](/en/tutorial/configurar-o-alerta-de-estoque-critico): an alert for when the quantity of items is below the expected level.</li>
+<li>[Additional shipping cost](/en/docs/tutorials/additional-shipping-costs#adicional-de-frete): extra cost charged on top of the [shipping rate](/en/docs/tutorials/shipping-rates);</li>
+<li>[Shipment group](/en/docs/tutorials/setting-up-shipment): a group of bundled packages shipped together.</li>
+<li>[Modality](/en/docs/tutorials/how-does-the-modal-work): type of items accepted for delivery.</li>
+<li>[Cargo splitting](/en/docs/tutorials/configuring-cargo-splitting): how products must be split for delivery.</li>
+<li>[Critical inventory level alert](/en/docs/tutorials/setting-up-the-critical-stock-alert): an alert for when the quantity of items is below the expected level.</li>
 </body>
 </ul>
    </td>
@@ -147,7 +147,7 @@ Days registered as holidays are not considered in the delivery time of orders.
    <td class="t-body pa5" style="min-width: 15rem;">Manage pickup points. With this feature, stores can allow customers to pick up their orders at physical pickup points.
 <body>
 <ul>
-<li>[Configuring pickup points](/en/tutorial/configurar-pontos-de-retirada-pickup-points)</li>
+<li>[Configuring pickup points](/en/docs/tutorials/2017-10-30-vtex-releases-new-pickup-points-feature)</li>
 </body>
 </ul>
    </td>

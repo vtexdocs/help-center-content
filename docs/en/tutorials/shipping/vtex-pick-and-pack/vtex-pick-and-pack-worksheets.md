@@ -44,7 +44,7 @@ Orders are displayed in cards with the following information:
 | **Start date**           | Date and time when item picking started.                                                      |
 | **Deadline**             | Deadline with date and time to complete the handling of the worksheet.                        |
 | **Picker**               | Picker assigned to the worksheet.                                                             |
-| **Fulfillment location** | [Fulfillment location](/docs/tutorials/managing-warehouses) where the worksheet is processed. |
+| **Fulfillment location** | [Fulfillment location](/en/docs/tutorials/managing-warehouses) where the worksheet is processed. |
 | **Picked** or **Packed** | Progress of the current stage, in processed units out of the expected total.                  |
 
 ![Worksheet card](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-worksheets_2.png)
@@ -88,7 +88,7 @@ When creating a worksheet, you can define the orders to be picked together and w
 
 ![Action to create the worksheet](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-worksheets_3.png)
 
-> ℹ️ The number of orders per worksheet depends on the options: **Single order** and **Multiple orders**, which can be defined on the [Settings](/docs/tutorials/vtex-pick-and-pack-settings) page.
+> ℹ️ The number of orders per worksheet depends on the options: **Single order** and **Multiple orders**, which can be defined on the [Settings](/en/docs/tutorials/vtex-pick-and-pack-settings) page.
 
 ## Viewing worksheet details
 
@@ -96,7 +96,7 @@ To open the details panel, click to expand the desired worksheet. The panel head
 
 | Information              | Description                                                                                                   |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------- |
-| **Fulfillment location** | [Fulfillment location](/docs/tutorials/managing-warehouses) where the worksheet is processed. |
+| **Fulfillment location** | [Fulfillment location](/en/docs/tutorials/managing-warehouses) where the worksheet is processed. |
 | **Created date**         | Date and time when the worksheet was created.                                                 |
 | **Start date**           | Date and time when item picking started.                                                      |
 | **Orders**               | Number of orders grouped in the worksheet.                                                    |
@@ -111,7 +111,7 @@ To open the details panel, click to expand the desired worksheet. The panel head
 
 Tags identify worksheets with common characteristics, such as the type of operation they relate to. To add a tag, click `+` in the details panel and select the desired tag. You can use the **Search tags** field to find a tag by name.
 
-> ℹ️ Available tags are added in the **Worksheet tags** field, on the [Settings](/docs/tutorials/vtex-pick-and-pack-settings) page.
+> ℹ️ Available tags are added in the **Worksheet tags** field, on the [Settings](/en/docs/tutorials/vtex-pick-and-pack-settings) page.
 
 ### Orders
 
@@ -128,7 +128,7 @@ The **Orders** tab lists the orders in the worksheet. To find an order, enter th
 
 The **Approvals** tab displays requests from pickers that require admin authorization for item picking to continue.
 
-> ℹ️ The **Approvals** tab is only displayed when the **Enable approval flow** option is enabled on the [Settings](/docs/tutorials/vtex-pick-and-pack-settings#picking) page.
+> ℹ️ The **Approvals** tab is only displayed when the **Enable approval flow** option is enabled on the [Settings](/en/docs/tutorials/vtex-pick-and-pack-settings#picking) page.
 
 ## Managing worksheets
 
@@ -141,7 +141,7 @@ In the details panel, click the menu icon <i class="fas fa-ellipsis-v" aria-hidd
 
 ![Action menu of the details panel](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-worksheets_6.png)
 
-> ℹ️ The content of the picking list is defined on the [Settings](/docs/tutorials/vtex-pick-and-pack-settings) page, in the **Enable picking list** option.
+> ℹ️ The content of the picking list is defined on the [Settings](/en/docs/tutorials/vtex-pick-and-pack-settings) page, in the **Enable picking list** option.
 
 ### Adding notes
 

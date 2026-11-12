@@ -19,7 +19,7 @@ Se calcula el valor de flete en base a varios factores: tabla de flete, adiciona
 
 ## Logística
 
-1. Realizar la [simulación de envío](/es/tutorial/simulacion-de-flete/).
+1. Realizar la [simulación de envío](/es/docs/tutorials/simulador-de-envio).
 2. Hacer clic en __Detallar__.
 3. Aquí, usted verificará el valor catastrado en la plantilla más todos los [adicionales](/es/tutorial/como-se-maneja-el-adicional-de-carga) sumados a ese valor.
 4. Caso el valor todavía no este condecente con el exhibido en la tienda, siga los pasos abajo para verificar si no hay ninguna promoción alterando el valor del flete.

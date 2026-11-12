@@ -74,11 +74,11 @@ No cenário B2B, é comum o uso de informações básicas como nome, e-mail e te
 
 > ❗ O campo utilizado como regra condicional na política comercial **nunca poderá fazer parte desse formulário**, uma vez que o próprio usuário não pode realizar sua própria aprovação, cabendo à loja essa responsabilidade.
 
-Na VTEX, formulários são criados através do [Master Data](/pt/docs/tutorials/master-data), o banco de dados da loja, que guarda as informações da base de clientes da loja e organiza os dados recebidos através de formulários.
+Na VTEX, formulários são criados através do [Master Data](/pt/docs/tutorials/master-data-pt), o banco de dados da loja, que guarda as informações da base de clientes da loja e organiza os dados recebidos através de formulários.
 
 Para criar um formulário:
 
-1. Crie uma entidade de dados com todas as informações que você deseja que constem no formulário. Em caso de dúvidas, confira o artigo sobre [como criar uma entidade de dados no Master Data](/pt/tutorial/criando-entidade-de-dados--tutorials_1265?&utm_source=autocomplete).
+1. Crie uma entidade de dados com todas as informações que você deseja que constem no formulário. Em caso de dúvidas, confira o artigo sobre [como criar uma entidade de dados no Master Data](/pt/docs/tutorials/entidade-de-dados?&utm_source=autocomplete).
 
 2. Crie o formulário utilizando o tutorial para [criar formulários no Master Data](/pt/docs/tutorials/criando-formulario-no-master-data/).
 
@@ -87,7 +87,7 @@ Assim, quando um cliente preencher o formulário, seus dados serão incluídos n
 > ℹ️ Você pode optar por criar um formulário com mais recursos, tais como o preenchimento automático do CEP, múltiplas abas ou validação do CNAE (Classificação Nacional de Atividades Econômicas). Caso opte por esse tipo de formulário, confira a documentação técnica do [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-new-custom-page).
 
 ### Aprovação de usuários
-A aprovação dos usuários, assim como o cadastro, é feita no [Master Data](/pt/docs/tutorials/master-data). Cabe aos responsáveis pela gestão do ecommerce aprovar o acesso dos clientes ao conteúdo da loja. 
+A aprovação dos usuários, assim como o cadastro, é feita no [Master Data](/pt/docs/tutorials/master-data-pt). Cabe aos responsáveis pela gestão do ecommerce aprovar o acesso dos clientes ao conteúdo da loja. 
 
 Para aprovar o acesso dos clientes à loja, é necessário aprovar cada um dos clientes que se cadastraram ao preencher o formulário. A aprovação pode ser realizada via Admin ou via API.
 
@@ -109,7 +109,7 @@ Você pode configurar estratégias de envio, docas e estoques através da [API d
 
 Na configuração através do Admin, é preciso:
 
-1. __Associar a política comercial de B2B a uma doca__: a associação é feita com o preenchimento do campo Políticas de envio e canais de venda presente na tela de cadastro/edição da doca — caso não existam docas cadastradas na sua loja, você deverá [cadastrar doca](/pt/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW?&utm_source=autocomplete). Neste campo, você deve inserir a política comercial configurada para o cenário B2B.
+1. __Associar a política comercial de B2B a uma doca__: a associação é feita com o preenchimento do campo Políticas de envio e canais de venda presente na tela de cadastro/edição da doca — caso não existam docas cadastradas na sua loja, você deverá [cadastrar doca](/pt/docs/tutorials/gerenciar-doca?&utm_source=autocomplete). Neste campo, você deve inserir a política comercial configurada para o cenário B2B.
 
 2. __Associar uma transportadora à doca escolhida__: essa associação é feita por meio do preenchimento do campo Políticas de envio associadas presente na tela de cadastro/edição da doca, no qual você deve selecionar a política comercial configurada para o cenário B2B — caso não existam transportadoras cadastradas na sua loja, você deverá [cadastrar uma transportadora](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/55MezrFTw2limlgT7KUg6l).
 

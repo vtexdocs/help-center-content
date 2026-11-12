@@ -27,7 +27,7 @@ A seção inclui as seguintes páginas, em breve no design do Admin v4.
 
 ## Funções do usuário
 
-Esta página define quais funcionalidades o usuário poderá visualizar e/ou alterar dentro de cada módulo da plataforma. Saiba mais sobre a página no artigo [Perfis de acesso](/pt/tutorial/como-criar-perfil-de-acesso/).
+Esta página define quais funcionalidades o usuário poderá visualizar e/ou alterar dentro de cada módulo da plataforma. Saiba mais sobre a página no artigo [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso).
 
 ## Conta
 

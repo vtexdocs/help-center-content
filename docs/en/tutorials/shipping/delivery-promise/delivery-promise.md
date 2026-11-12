@@ -21,7 +21,7 @@ With **Delivery Promise**, your store can make a delivery promise to customers f
 
 ## Available features
 
-When customers enter their address, an initial selection is shown with only the products available for delivery to that locale or pickup at eligible points within a [configured radius](https://help.vtex.com/pt/docs/tutorials/cadastro-de-pontos-de-retirada#campos-de-cadastro) or [up tothe default limit of 50 km from the locale](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R?&utm_source=autocomplete#como-funcionam-pontos-de-retirada).
+When customers enter their address, an initial selection is shown with only the products available for delivery to that locale or pickup at eligible points within a [configured radius](https://help.vtex.com/en/docs/tutorials/creating-pickup-points#campos-de-cadastro) or [up tothe default limit of 50 km from the locale](https://help.vtex.com/en/docs/tutorials/pickup-points?&utm_source=autocomplete#como-funcionam-pontos-de-retirada).
 
 In addition to viewing available products, customers can use filters on the product listing page to view only those that meet specific criteria. This allows customers to tailor their navigation experience to meet their needs:
 
@@ -76,9 +76,9 @@ To use Delivery Promise, your account must meet the following conditions:
 - Use [Intelligent Search](https://help.vtex.com/en/docs/tracks/overview-intelligent-search).  
 - External sellers must comply with the notification protocol of the [Delivery Promise Notification API](https://developers.vtex.com/docs/api-reference/delivery-promise-notification-api).
 - Don't use VTEX Shipping Network.
-- Don't use [Operational capacity](https://help.vtex.com/docs/tutorials/operational-capacity).
+- Don't use [Operational capacity](https://help.vtex.com/en/docs/tutorials/operational-capacity).
 - Don't use more than 10,000 pickup points.
-- Don't use [Assembly Options](https://help.vtex.com/docs/tutorials/assembly-options) for regular sellers.
+- Don't use [Assembly Options](https://help.vtex.com/en/docs/tutorials/assembly-options) for regular sellers.
 
 If your account meets these conditions, you can activate Delivery Promise directly in the VTEX Admin. Learn how in [Activating Delivery Promise](https://help.vtex.com/en/docs/tutorials/activate-delivery-promise).
 

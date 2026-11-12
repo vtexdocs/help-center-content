@@ -54,7 +54,7 @@ Para buscar una promoción, sigue los pasos a continuación:
 
    1. Accede al menú **Promociones**.
    2. Haz clic en **Promociones**. 
-   3. En la barra de búsqueda, introduce el nombre, la descripción, la [UTM](/es/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii?&utm_source=autocomplete) o la [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV?&utm_source=autocomplete) registrada en la promoción. 
+   3. En la barra de búsqueda, introduce el nombre, la descripción, la [UTM](/es/docs/tutorials/que-son-utm-source-utm-campaign-y-utm-medium?&utm_source=autocomplete) o la [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial?&utm_source=autocomplete) registrada en la promoción. 
 
 ## Ordenar promoción
 Puedes ordenar las promociones creadas por status o por nombre. Este recurso tiene por objeto ayudarte a encontrar una promoción que quieras verificar o cuya configuración quieras modificar. Para ordenarlas, sigue los pasos a continuación:
@@ -80,7 +80,7 @@ Estas promociones se pueden identificar fácilmente en la página principal de P
 
 ![programada](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/crear-promociones/crear-promociones_1.png)
 
-Para programar una promoción, sigue los pasos descritos en la sección [Programar promociones](/es/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI?&utm_source=autocomplete#programar-promociones) del artículo [Programación de funcionalidades para eventos especiales](/es/docs/tutorials/programacion-de-funcionalidades-para-eventos-especiales).
+Para programar una promoción, sigue los pasos descritos en la sección [Programar promociones](/es/docs/tutorials/programacion-de-funcionalidades-para-eventos-especiales?&utm_source=autocomplete#programar-promociones) del artículo [Programación de funcionalidades para eventos especiales](/es/docs/tutorials/programacion-de-funcionalidades-para-eventos-especiales).
 
 ## Archivar promoción
 Si no quieres que se siga utilizando una promoción, puedes moverla a la lista de promociones archivadas, con lo que su status cambiará automáticamente a Inactiva. Para archivar una promoción, sigue los pasos a continuación:

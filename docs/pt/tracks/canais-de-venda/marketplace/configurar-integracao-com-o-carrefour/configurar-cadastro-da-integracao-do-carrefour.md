@@ -3,7 +3,7 @@ title: 'Configurar cadastro do conector Carrefour'
 id: 2AhqcmRN1mseCsGuGIe6GK
 status: PUBLISHED
 createdAt: 2018-10-08T23:26:55.073Z
-updatedAt: 2024-07-02T19:27:42.975Z
+updatedAt: 2026-11-04T17:45:00.000Z
 publishedAt: 2024-07-02T19:27:42.975Z
 firstPublishedAt: 2018-10-08T23:51:59.055Z
 contentType: trackArticle
@@ -34,7 +34,7 @@ O cadastro do conector é feito no Admin da VTEX. Para realizá-la, siga as inst
   * Nome do produto - Marca
   * Nome do produto
 - __Estoque mínimo:__ determina o valor mínimo de estoque de segurança. Se a quantidade de itens de um produto em estoque estiver abaixo do valor escolhido, seu anúncio é pausado para evitar que sejam feitas vendas sem estoque durante o tempo de atualização do Carrefour pela VTEX. O valor de estoque mínimo é aplicado a todos os produtos, portanto verifique se algum produto deixaria de ser anunciado devido ao seu estoque inicial.
-- __Enviar KIT*:__ ao escolher `Não`, SKUs [cadastrados como kit](/pt/docs/tutorials/cadastrar-kit) não são enviados para o Carrefour. Ao habilitar `Sim`, todos os itens da sua política comercial são enviados para o marketplace, sem filtrar SKUs cadastrados como kit. Mudanças na configuração do conector podem ser feitas a qualquer momento, sendo que isso não afeta SKUs que já tenham sido enviados. Por exemplo, se você mudasse sua configuração de `Sim` para `Não`, SKUs enviados anteriormente para o Carrefour não seriam removidos ou sofreriam qualquer alteração. Se você mudar sua configuração de `Não` para `Sim`, você precisará [reindexar a base](/pt/docs/tutorials/manutencao-de-base-full-cleanup) para que a configuração seja aplicada.
+- __Enviar KIT*:__ ao escolher `Não`, SKUs [cadastrados como kit](/pt/docs/tutorials/cadastrar-kit) não são enviados para o Carrefour. Ao habilitar `Sim`, todos os itens da sua política comercial são enviados para o marketplace, sem filtrar SKUs cadastrados como kit. Mudanças na configuração do conector podem ser feitas a qualquer momento, sendo que isso não afeta SKUs que já tenham sido enviados. Por exemplo, se você mudasse sua configuração de `Sim` para `Não`, SKUs enviados anteriormente para o Carrefour não seriam removidos ou sofreriam qualquer alteração.
 
 > ℹ️ Com a opção *Não* ativada, tentativas de envio para o Carrefour de SKUs cadastrados como kit resultarão no seguinte aviso: *O conector está configurado para não enviar SKUs do tipo Kit*. Esta mensagem pode ser visualizada no Admin, no módulo **MARKETPLACE > Integrações > Produtos**, ao se clicar sobre o SKU.
 

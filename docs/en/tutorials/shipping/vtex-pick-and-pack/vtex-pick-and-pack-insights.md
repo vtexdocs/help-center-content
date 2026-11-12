@@ -22,7 +22,7 @@ The **General** tab displays the **Orders** and **Worksheets** charts in a singl
 
 ![pick-pack-insights-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-insights_1.png)
 
-The **Orders** chart displays the total number of orders for the selected period, and the **Worksheets** chart displays the total number of [worksheets](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-worksheets) created in the same period.
+The **Orders** chart displays the total number of orders for the selected period, and the **Worksheets** chart displays the total number of [worksheets](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-worksheets) created in the same period.
 
 ### Processing times
 
@@ -36,9 +36,9 @@ Processing times indicate the duration of each step in the fulfillment process, 
 |      **Shipping time**      |                  Time required to ship an order.                 |     Σ (date in `Delivered` − date in `Preparing shipping`) / total orders considered     |
 | **Average processing time** | Time between the start of picking and the completion of packing. | Σ (date in `Preparing shipping` − date in `Ready for picking`) / total orders considered |
 
-> ⚠️ The **Order cycle time** and **Shipping time** indicators are only calculated if your operation uses [VTEX Pick and Pack Last Mile](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-last-mile). Without this module enabled in your store, VTEX doesn't receive the order delivery confirmation, and these indicators display an error.
+> ⚠️ The **Order cycle time** and **Shipping time** indicators are only calculated if your operation uses [VTEX Pick and Pack Last Mile](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-last-mile). Without this module enabled in your store, VTEX doesn't receive the order delivery confirmation, and these indicators display an error.
 
-> ℹ️ For time indicators, only orders that have gone through both considered statuses are included in the calculation. See the description of each status in [Order flow and status](https://help.vtex.com/docs/tutorials/order-flow-and-status).
+> ℹ️ For time indicators, only orders that have gone through both considered statuses are included in the calculation. See the description of each status in [Order flow and status](https://help.vtex.com/en/docs/tutorials/order-flow-and-status).
 
 ### Performance indicators
 
@@ -56,9 +56,9 @@ Performance indicators evaluate the results of orders processed in the operation
 |                 **Pick rate**                 |                  Volume of items picked per hour in the operation.                  |                               total items picked / hours elapsed                              |                                                                                                           -                                                                                                          |
 |                 **Pack rate**                 |                  Volume of items packed per hour in the operation.                  |                               total items packed / hours elapsed                              |                                                                                                           -                                                                                                          |
 
-> ⚠️ The **Deadline accuracy**, **On-time delivery**, and **OTIF** indicators are only calculated if your operation uses [VTEX Pick and Pack Last Mile](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-last-mile). Without this module enabled in your store, VTEX doesn't receive the order delivery confirmation, and these indicators display an error.
+> ⚠️ The **Deadline accuracy**, **On-time delivery**, and **OTIF** indicators are only calculated if your operation uses [VTEX Pick and Pack Last Mile](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-last-mile). Without this module enabled in your store, VTEX doesn't receive the order delivery confirmation, and these indicators display an error.
 
-> ℹ️ The OTIF denominator considers all orders in the period, including those still being processed, canceled, or rejected. Therefore, orders that aren't yet in the Delivered status lower the rate. Insights uses the order status on VTEX, which can be updated to Delivered by different systems and flows, such as the [Last Mile](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-last-mile) module.
+> ℹ️ The OTIF denominator considers all orders in the period, including those still being processed, canceled, or rejected. Therefore, orders that aren't yet in the Delivered status lower the rate. Insights uses the order status on VTEX, which can be updated to Delivered by different systems and flows, such as the [Last Mile](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-last-mile) module.
 
 > ℹ️ The **Backorder rate** only considers rejections whose reason includes the word "missing". To ensure the indicator reflects your operation, configure the rejection reason for lack of inventory using this term.
 

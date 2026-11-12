@@ -58,7 +58,7 @@ Para cambiar las opciones, siga los pasos a continuación:
 ## Artículos relacionados
 
 - [¿Por qué un pedido fue cancelado?](/es/troubleshooting/el-pedido-de-mi-tienda-se-cancelo)
-- [Configurar el tiempo de espera para cancelar el pedido](/es/tutorial/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido)
+- [Configurar el tiempo de espera para cancelar el pedido](/es/docs/tutorials/configurar-el-tiempo-de-espera-para-cancelar-el-pedido)
 - [¿Por qué el pedido fue cancelado en VTEX y no en el marketplace?](/es/troubleshooting/el-pedido-de-mi-tienda-se-cancelo)
 - [Cambio de pedido](/es/docs/tutorials/cambio-de-pedido)
 

@@ -35,7 +35,7 @@ Para actualizar los ítems del _stock_ en el Admin de forma manual, sigue los pa
 
 Para que los SKU estén disponibles, incluye las unidades disponibles de cada SKU para cada stock correspondiente. Además, la actualización debe corresponder a la cantidad de ítems disponibles en tu _stock_. De esta manera, te aseguras de que los SKU disponibles en tu tienda están realmente disponibles para su envío. 
 
-Un pedido puede tener una reserva de SKU activa. Si el producto no ha sido enviado, solo se considerará como un **ítem reservado**. Obtén más información sobre [pedidos facturados y reservas](/es/faq/por-que-meu-pedido-foi-faturado-e-o-produto-continua-reservado). Los pedidos con SKU reservados seguirán apareciendo como reservados y no estarán disponibles para la venta. Obtén más información sobre [como se maneja la reserva](/es/docs/tutorials/como-se-maneja-la-reserva).
+Un pedido puede tener una reserva de SKU activa. Si el producto no ha sido enviado, solo se considerará como un **ítem reservado**. Obtén más información sobre [pedidos facturados y reservas](/es/faq/por-que-se-facturo-mi-pedido-y-sigue-reservado-el-producto). Los pedidos con SKU reservados seguirán apareciendo como reservados y no estarán disponibles para la venta. Obtén más información sobre [como se maneja la reserva](/es/docs/tutorials/como-se-maneja-la-reserva).
 
 ## Stock negativo
 

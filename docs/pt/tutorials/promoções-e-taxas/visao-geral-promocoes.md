@@ -39,7 +39,7 @@ De acordo com a configuração da sua loja, existe um limite de promoções que 
 
 Saiba como gerenciar promoções em [Promoções](/pt/docs/tutorials/lista-de-promocoes-beta) e [Criar promoções](/pt/docs/tutorials/criar-promocoes). Os tipos de promoção que você pode criar incluem:
 
-- [Promoção regular](/pt/docs/tutorials/promocao-regular)
+- [Promoção regular](/pt/docs/tutorials/promocao-regular-pt)
 - [Compre junto](/pt/docs/tutorials/compre-junto)
 - [Leve mais por menos](/pt/docs/tutorials/leve-mais-por-menos)
 - [Desconto progressivo](/pt/docs/tutorials/desconto-progressivo)

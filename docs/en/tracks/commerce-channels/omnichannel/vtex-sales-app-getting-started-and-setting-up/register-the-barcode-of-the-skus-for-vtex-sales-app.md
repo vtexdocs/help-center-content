@@ -21,7 +21,7 @@ To use the **VTEX Sales App**, products from the physical store must be added to
 
 Among the information entered during the registration of a product in the **Catalog**, is the **EAN**, which corresponds to the barcode of the SKU. This code allows the sales associate to easily add the product to the **VTEX Sales App** cart by reading the product's barcode. The app also allows the barcode to be entered in the search field.
 
-Usually, the catalog information displayed in the app is inherited from the ecommerce catalog. This is how your **VTEX Sales App** will be configured, as described in [Basic settings](https://help.vtex.com/docs/tracks/vtex-sales-app-basic-settings). In this scenario, the products will already be added. You only need to ensure that the bar codes are correctly entered in the **EAN** field of each SKU.
+Usually, the catalog information displayed in the app is inherited from the ecommerce catalog. This is how your **VTEX Sales App** will be configured, as described in [Basic settings](https://help.vtex.com/en/docs/tracks/vtex-sales-app-basic-settings). In this scenario, the products will already be added. You only need to ensure that the bar codes are correctly entered in the **EAN** field of each SKU.
 
 ## Adding the EAN to your SKUs
 
@@ -35,4 +35,4 @@ To add the SKU's **EAN**, follow the steps below:
 
 >ℹ️ The **EAN** information can take up to 10 minutes to update. After this procedure, it will be possible to add the SKU to the **VTEX Sales App** cart using the barcode reader machine.
 
-Alternatively, the **EAN** field, as well as other SKU fields, can be filled out in bulk using a [spreadsheet](https://help.vtex.com/docs/tutorials/filling-in-fields-in-the-import-spreadsheet) or your ERP. For more information, see [Backend integrations](https://help.vtex.com/docs/tracks/backend-integrations).
+Alternatively, the **EAN** field, as well as other SKU fields, can be filled out in bulk using a [spreadsheet](https://help.vtex.com/en/docs/tutorials/filling-in-fields-in-the-import-spreadsheet) or your ERP. For more information, see [Backend integrations](https://help.vtex.com/en/docs/tracks/backend-integrations).

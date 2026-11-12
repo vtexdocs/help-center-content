@@ -19,7 +19,7 @@ Confira abaixo algumas das dúvidas mais frequentes acerca de Google Analytics p
 
 ## Como instalar o Google Analytics na sua loja?
 
-A instalação é feita através do [Google Tag Manager](/pt/docs/tutorials/integracao-com-o-google-tag-manager#), como descrita no artigo [Configurar Google Analytics em loja VTEX](/pt/tutorial/how-to-setup-google-analytics-in-vtex-store--G2P0rmSrEiqCcmUMyUUwG#).
+A instalação é feita através do [Google Tag Manager](/pt/docs/tutorials/integracao-com-o-google-tag-manager#), como descrita no artigo [Configurar Google Analytics em loja VTEX](/pt/docs/tutorials/como-configurar-google-analytics-em-loja-vtex#).
 
 ## De onde vêm os dados exibidos no Google Analytics? O que são tags do Google?
 

@@ -14,7 +14,7 @@ tags:
   - Storefront
 ---
 
-Está aberta a lista de espera para o novo [VTEX CMS](https://help.vtex.com/en/docs/tutorials/cms-overview), um sistema de gerenciamento de conteúdo moderno e escalável, projetado para ajudar os lojistas a criar, colaborar e distribuir conteúdos de storefront de forma mais eficiente.
+Está aberta a lista de espera para o novo [VTEX CMS](https://help.vtex.com/pt/docs/tutorials/cms-visao-geral), um sistema de gerenciamento de conteúdo moderno e escalável, projetado para ajudar os lojistas a criar, colaborar e distribuir conteúdos de storefront de forma mais eficiente.
 
 | ![Todos os conteúdos](https://vtexhelp.vtexassets.com/assets/docs/src/cms-conteudo-pt___0073aa95aa1b4f68a49ffcb635ea66ea.gif) |
 |---|
@@ -57,4 +57,4 @@ Essas melhorias permitem que as equipes avancem mais rápido, reduzam erros e en
 
 ## O que precisa ser feito?
 
-Para começar a usar o novo CMS, abra um ticket para o [Suporte VTEX](https://help.vtex.com/en/support) solicitando a instalação do VTEX CMS ou uma demonstração dele. Assim que o novo CMS estiver habilitado, sua equipe poderá começar a criar, gerenciar e publicar conteúdo diretamente no Admin VTEX, em **Storefront > Conteúdo**.
+Para começar a usar o novo CMS, abra um ticket para o [Suporte VTEX](https://help.vtex.com/pt/support) solicitando a instalação do VTEX CMS ou uma demonstração dele. Assim que o novo CMS estiver habilitado, sua equipe poderá começar a criar, gerenciar e publicar conteúdo diretamente no Admin VTEX, em **Storefront > Conteúdo**.

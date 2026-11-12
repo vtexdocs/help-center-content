@@ -15,7 +15,7 @@ locale: es
 legacySlug: que-hacer-cuando-el-aviseme-no-es-exhibido
 ---
 
-Existe un caso en que, aun con la [configuración del Avíseme](/es/tutorial/configurar-el-aviseme) hecha, el Avíseme no aparece. Es **cuando el tipo de exhibición de la categoría está seleccionado como Lista de SKUs**.
+Existe un caso en que, aun con la [configuración del Avíseme](/es/docs/tutorials/configurar-la-opcion-avisame) hecha, el Avíseme no aparece. Es **cuando el tipo de exhibición de la categoría está seleccionado como Lista de SKUs**.
 
 ![categoria-lista-de-skus ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/storefront/que-hacer-cuando-no-aparece-la-opcion-avisame_1.png)
 
