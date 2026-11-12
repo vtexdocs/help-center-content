@@ -10,9 +10,9 @@ locale: pt
 
 > ℹ️ Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/docs/tracks/suporte-comercial). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/pt-br/contato/).
 
-A aba **Relatórios**, em Recomendações, é uma aba do Admin VTEX que apresenta a listagem de relatórios sobre o desempenho das estratégias de recomendação de produtos da loja. Diferente do [dashboard de recomendações](https://help.vtex.com/pt/docs/tutorials/dashboard-de-recomendacoes), que exibe dados em tempo real e filtráveis, os relatórios são retratos estáticos de um período, que podem ser baixados.
+A aba **Relatórios**, em **Recomendações**, é uma aba do Admin VTEX que apresenta a listagem de relatórios sobre o desempenho das estratégias de recomendação de produtos da loja. Diferente do [dashboard de recomendações](https://help.vtex.com/pt/docs/tutorials/dashboard-de-recomendacoes), que exibe dados em tempo real e filtráveis, os relatórios são retratos estáticos de um período, que podem ser baixados.
 
-O recurso está disponível a todos os clientes que já têm Recomendações de produtos habilitada na loja.
+O recurso está disponível a todos os clientes que já têm [Recomendações de produtos](https://help.vtex.com/pt/docs/tutorials/recomendacoes-de-produtos-beta) habilitada na loja.
 
 Para acessá-la no Admin VTEX, entre em *Storefront > Recomendações* e clique na aba **Relatórios**.
 
