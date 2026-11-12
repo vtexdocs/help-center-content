@@ -48,5 +48,4 @@ Os destinatários de e-mail e o limite de notificação são configurados separa
    4. Em **Quando**, informe o número de atendimentos que devem ter um alerta ativo antes do envio da notificação. O padrão é `5`.
 8. Clique em `Salvar`.
 
-
 O botão `Salvar` permanece indisponível até que você informe um tempo limite para todos os alertas ativados. Se você não selecionar destinatários de e-mail, os atendimentos que ultrapassarem os limites continuam destacados na aba **Ao vivo**, e o Analytics ainda exibe a notificação quando o limite configurado for atingido.

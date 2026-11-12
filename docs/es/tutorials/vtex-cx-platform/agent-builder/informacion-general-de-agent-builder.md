@@ -181,7 +181,7 @@ En esta página puedes agregar [archivos](#archivos), [sitios web](#sitios-web) 
 
 #### Archivos
 
-Para agregar un archivo a la base de datos haz clic en <i class="fas fa-plus" aria-hidden="true"></i>`Agregar archivo`.
+Para agregar un archivo a la base de datos haz clic en <i class="fas fa-plus" aria-hidden="true"></i> `Agregar archivo`.
 
 > ⚠️ Los archivos deben tener extensión `.pdf`, `.doc`, `.docx`, `.txt`, `.xls` o `.xlsx` y un tamaño de hasta 50 MB.
 
@@ -196,7 +196,7 @@ También puedes usar el campo de búsqueda para encontrar un archivo en la base 
 
 Para agregar un sitio web a la base de datos del agente sigue los pasos a continuación:
 
-1. Haz clic en <i class="fas fa-plus" aria-hidden="true"></i>`Agregar sitio web`.
+1. Haz clic en <i class="fas fa-plus" aria-hidden="true"></i> `Agregar sitio web`.
 2. Luego, copia la URL del sitio web que deseas agregar y pégala en el campo vacío.
 3. Haz clic en `Finalizar`.
 
@@ -213,7 +213,7 @@ En esta pestaña puedes agregar contenido a la base de conocimiento, organizado 
 
 Para crear un texto, sigue los pasos a continuación:
 
-1. Haz clic en <i class="fas fa-plus" aria-hidden="true"></i>`Nuevo texto`.
+1. Haz clic en <i class="fas fa-plus" aria-hidden="true"></i> `Nuevo texto`.
 2. Ingresa un título para identificar el texto.
 3. Ingresa el contenido en la caja de texto.
 4. Haz clic en `Guardar`.

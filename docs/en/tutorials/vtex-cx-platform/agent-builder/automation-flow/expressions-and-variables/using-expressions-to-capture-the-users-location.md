@@ -29,15 +29,15 @@ The message received by the web channel will always begin with: "My Location is:
 
 ### Telegram channel
 
-To send the location via Telegram, the user needs to click the attachment button, select "Location" and then "Send my current location".
+To send the location via Telegram, the user needs to click the attachment button, select `Location` and then "Send my current location".
 
 With this, create a "Wait for response" decision card and save the value. Telegram sends the location in the format "latitude, longitude", without needing to use @(replace) to remove text. Separate it using split, as in the web channel.
 
 ### WhatsApp channel
 
-To send the location via WhatsApp, the user needs to click the attachment button or the add button, select "Location" and then "Fixed location".
+To send the location via WhatsApp, the user needs to click the attachment button or the add button, select `Location` and then "Fixed location".
 
-Unlike other channels, the location via WhatsApp does not come as text, but as an attachment. So, we need to access it using the variable: @input.attachments.0
+Unlike other channels, the location via WhatsApp does not come as text, but as an attachment. So, we need to access it using the variable: `@input.attachments.0`
 
 This variable stores the location in the format "geo: latitude, longitude". So, we need to use the expression @(replace) to remove the "geo:" and then use @(split) to separate latitude and longitude like the other channels.
 

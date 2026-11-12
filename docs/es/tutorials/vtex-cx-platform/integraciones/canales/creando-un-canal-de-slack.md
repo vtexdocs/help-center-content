@@ -20,8 +20,8 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 3. Nombra la aplicación y selecciona el workspace.
 4. En **App Home**, haz clic en el botón indicado.
 5. Se abrirá una nueva ventana, desplázate hacia abajo hasta **Scopes** y haz clic en el botón indicado.
-6. Para el **Bot Token Scopes**, añade los siguientes permisos: `chat:write`, `files:read`, `files:write`, `users:read`.
-7. Para el **User Token Scopes**, añade los siguientes permisos: `files:read` e `files:write`.
+6. Para el **Bot Token Scopes**, añade los siguientes permisos: `chat:write`, `files:read`, `files:write`, `users:read`.
+7. Para el **User Token Scopes**, añade los siguientes permisos: `files:read` e `files:write`.
 8. Desplázate hacia arriba hasta encontrar el botón **Install to Workspace** y haz clic en él para instalar la aplicación del bot en tu workspace.
 9. Se abrirá una nueva ventana. Haz clic en el botón **Permitir**.
 10. En **OAuth & Permissions**, copia y guarda el **Bot User OAuth Token** y el **User OAuth Token**.

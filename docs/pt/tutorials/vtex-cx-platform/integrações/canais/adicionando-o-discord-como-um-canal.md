@@ -29,10 +29,10 @@ A infraestrutura necessária para o proxy não é fornecida pelo VTEX CX Platfor
 
 [Discord Developer Portal](https://discord.com/developers/applications)
 
-1. Acesse a aba “Bot” e clique em “Add Bot”. Confirme clicando em “Yes, do it!”
+1. Acesse a aba “Bot” e clique em `Add Bot`. Confirme clicando em “Yes, do it!”
 2. Mantenha as configurações padrão para Bot público (marcada) e Exigir concessão de código OAuth2 (desmarcada).
 3. O próximo passo é copiar o token.
-4. Clique em “Redefinir Token” e obtenha seu token.
+4. Clique em `Redefinir Token` e obtenha seu token.
 
 ## Adicionar o canal ao VTEX CX Platform
 

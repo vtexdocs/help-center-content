@@ -38,15 +38,14 @@ Email recipients and the notification threshold are configured separately for ea
 4. Next to `Export data`, click the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> more options button.
 5. Click `Operational alerts`.
 6. Turn on one or more of the following alerts:
-   - **Waiting time:** Alert on the Live Desk dashboard when a chat's wait time exceeds the defined limit**
-   - **First response time:** Alert on the Live Desk dashboard when a chat's 1st response time exceeds the defined limit
-   - **Handle time:** Alert on the Live Desk dashboard when a chat's handle time exceeds the defined threshold
+    - **Waiting time:** Alert on the Live Desk dashboard when a chat's wait time exceeds the defined limit**
+    - **First response time:** Alert on the Live Desk dashboard when a chat's 1st response time exceeds the defined limit
+    - **Handle time:** Alert on the Live Desk dashboard when a chat's handle time exceeds the defined threshold
 7. For each alert you turn on:
-   1. Enter the limit in **Maximum wait time**, **Maximum time to 1st response**, or **Maximum handle time**.
-   2. In **Unit**, select **Seconds**, **Minutes**, or **Hours**. The default unit is **Minutes**.
-   3. Under **Email notification (optional)**, use **Send email to** to select the moderators and managers who should receive the alert by email.
-   4. In **When**, enter the number of chats that must have an active alert before the notification is sent. The default is `5`.
+    1. Enter the limit in **Maximum wait time**, **Maximum time to 1st response**, or **Maximum handle time**.
+    2. In **Unit**, select **Seconds**, **Minutes**, or **Hours**. The default unit is **Minutes**.
+    3. Under **Email notification (optional)**, use **Send email to** to select the moderators and managers who should receive the alert by email.
+    4. In **When**, enter the number of chats that must have an active alert before the notification is sent. The default is `5`.
 8. Click `Save`.
-
 
 The `Save` button remains unavailable until you enter a time limit for every alert you turned on. If you don't select email recipients, chats that exceed the limits are still highlighted on the **Live** tab, and Analytics still displays its notification when the configured threshold is reached.

@@ -33,7 +33,7 @@ Tendo uma conta válida, acesse o [painel de administração do Viber](https://p
 
 Você receberá um token de verificação no celular, confirme\-o também.
 
- No painel esquerdo, selecione ***“Create bot account”.***
+ No painel esquerdo, selecione `Create bot account`.
 
   Preencha todos os requisitos apresentados e clique em *Criar* no final da página.
 

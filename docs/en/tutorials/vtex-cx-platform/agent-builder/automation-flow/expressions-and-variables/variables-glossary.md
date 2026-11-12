@@ -34,7 +34,7 @@ The sections below describe how to reference the types of variables available on
 
 - `@contact.first_name`: First name of the contact.
 
-- `@contact.urns`: List of URNs for the contact. It can also be accessed with **@urns**.
+- `@contact.urns`: List of URNs for the contact. It can also be accessed with `@urns`.
 
 - `@contact.uuid`: Unique ID of the contact.
 

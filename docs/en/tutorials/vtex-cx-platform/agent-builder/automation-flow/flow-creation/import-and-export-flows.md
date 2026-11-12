@@ -23,7 +23,7 @@ There are two ways to access the flow export page.
 
 ### Through the flow editor
 
-To access the export page through the flow editor, go to the options menu and click the "Export Definition" button.
+To access the export page through the flow editor, go to the options menu and click the `Export Definition` button.
 
 Or also through the **Flow module**.
 
@@ -31,7 +31,7 @@ To learn more about the editor, see [Flow editor and tools](/en/docs/tutorials/f
 
 ### Through the organization's general settings
 
-To access the export page through the organization's general settings, go to the options menu and click the "Export" button.
+To access the export page through the organization's general settings, go to the options menu and click the `Export` button.
 
 To learn more, see [General project settings](/en/docs/tutorials/general-project-settings).
 
@@ -41,8 +41,8 @@ To export the flows you want, select them and click the export button at the bot
 
 ## Import flows
 
-To open the import page, go to the options menu in the organization's general settings and click the "Import" button.
+To open the import page, go to the options menu in the organization's general settings and click the `Import` button.
 
-On the import page, select the `.json` file created in the export and click the "Import" button.
+On the import page, select the `.json` file created in the export and click the `Import` button.
 
 The platform imports the flows into the organization.

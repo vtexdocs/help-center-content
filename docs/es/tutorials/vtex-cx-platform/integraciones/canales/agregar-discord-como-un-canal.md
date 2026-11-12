@@ -25,14 +25,14 @@ Discord tiene documentación oficial sobre cómo registrar tu bot.
 
 [Documentación de primeros pasos de Discord](https://discord.com/developers/docs/getting-started)
 
-- Accede al panel de desarrolladores y haz clic en "New Application" y crea tu aplicación:
+- Accede al panel de desarrolladores y haz clic en `New Application` y crea tu aplicación:
 
 [Discord Developer Portal](https://discord.com/developers/applications)
 
-1. Ve a la pestaña "Bot" y haz clic en "Add Bot". Tendrás que confirmar haciendo clic en "Yes, do it!"
+1. Ve a la pestaña "Bot" y haz clic en `Add Bot`. Tendrás que confirmar haciendo clic en "Yes, do it!"
 2. Mantén las configuraciones predeterminadas para "Bot público" (marcado) y "Requerir concesión de código OAuth2" (desmarcado).
 3. El siguiente paso es copiar el token.
-4. Haz clic en "Redefinir Token" y obtén tu token.
+4. Haz clic en `Redefinir Token` y obtén tu token.
 
 ## Agregar el canal a VTEX CX Platform
 

@@ -120,11 +120,11 @@ Para verificar tu cuenta, sigue las siguientes instrucciones:
   - Esta compañía es una entidad legal.
   - El administrador de la cuenta es un representante de la compañía.
   - La compañía cumple con la Política de WhatsApp Business.
-2. Haz clic en <i class="fas fa-plus" aria-hidden="true"></i>`Subir archivos` para cargar los documentos de tu compañía.
+2. Haz clic en <i class="fas fa-plus" aria-hidden="true"></i> `Subir archivos` para cargar los documentos de tu compañía.
 3. Al final, haz clic en `Enviar`.
 
 A continuación, destacamos algunos documentos sugeridos al verificar tu cuenta con Meta:
 
 | País | Documentos |
 | --- | --- |
-| Brasil | - Documento o licencia de registro de la compañía (por ejemplo, CNPJ) <br> - Documento de asociación o contrato social (por ejemplo, MEI). <br> - Comprobante de pago de impuestos, comprobante bancario o factura de servicios públicos. |
+| Brasil | - Documento o licencia de registro de la compañía (por ejemplo, CNPJ) <br /> - Documento de asociación o contrato social (por ejemplo, MEI). <br /> - Comprobante de pago de impuestos, comprobante bancario o factura de servicios públicos. |

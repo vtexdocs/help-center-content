@@ -80,17 +80,17 @@ Se optar por **Personalizar novo setor**, siga o passo a passo a seguir:
    - **Adicionar gerente:** pesquise e selecione os responsáveis pelo setor pelo nome ou email.
 2. Em **Definições da jornada de trabalho**, configure os dias e horários de funcionamento do setor:
    - Ative **Copiar a jornada de trabalho de um setor já configurado** para reutilizar as configurações de outro setor existente.
-       
+
        Em seguida, escolha o setor que você quer copiar.
    - Selecione os dias da semana em que o setor estará ativo clicando em cada dia.
-     
+
       Depois, escolha os intervalos de horário. Você pode escolher até dois intervalos para cada dia.
    - Ative **Feriados em Brasil** para incluir automaticamente os feriados nacionais.
      - Clique em `Ver todos os feriados` para consultar a lista completa.
      - Para desconsiderar um feriado, desative o botão referente ao feriado.
    - Clique em `+ Adicionar datas específicas` para incluir datas em que o setor não funcionará, como recessos ou feriados corporativos.
 3. Em **Defina um limite na quantidade de chats simultâneos por atendente**, insira o número máximo de chats que cada atendente pode receber ao mesmo tempo. Esse limite pode ser excedido quando o atendente escolhe chats manualmente ou recebe transferência de chats.
-  
+
    Insira `0` para que os atendentes busquem chats diretamente da fila, sem distribuição automática.
 
    > ⚠️ O limite de um atendente prevalece em relação ao limite da equipe ou do setor. Por exemplo, se a equipe tem um limite de 20 chats, mas um atendente tem um limite de 25 chats, esse atendente poderá realizar até 25 atendimentos.
@@ -134,7 +134,7 @@ Na terceira etapa, configure as opções de atendimento, mensagens automáticas 
    | **Enviar mensagem automática ao iniciar o atendimento** | Envia uma mensagem automática quando o chat é atribuído a um atendente. A mensagem aparece como se enviada pelo atendente atribuído. |
 
 3. Em **Pesquisa de satisfação**, ative **Enviar automaticamente uma pesquisa de satisfação após o atendimento do Live Desk ser encerrado** para coletar feedback dos clientes ao fim de cada atendimento.
-   
+
    Escolha entre as opções disponíveis:
      - **Pesquisa CSAT padrão (recomendado)**
      - **Fluxos personalizados**

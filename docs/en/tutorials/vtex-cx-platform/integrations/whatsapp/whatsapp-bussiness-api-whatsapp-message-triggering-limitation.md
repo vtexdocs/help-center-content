@@ -52,7 +52,7 @@ This limitation **does not** apply to messages sent in response to a user-initia
 
 Since WhatsApp encrypts messages, it relies on user feedback to measure message quality. WhatsApp uses this feedback to define an internal “quality rating” that can affect how numbers move between the rate limiting levels. Factors like how frequently your number is marked as “report spam” and “block” can influence the quality rating. Senders with a low quality rating may not be eligible to advance to higher levels.
 
-**To maintain high quality, WhatsApp recommends the following:**
+To maintain high quality, WhatsApp recommends the following:
 
 - If your business or identity verification is rejected, ensure you are sending high-quality messages. We will periodically reassess your activity and message quality. Based on this, we may approve the increase.
 - Here are some guidelines for sending high-quality messages:

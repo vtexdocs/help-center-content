@@ -28,15 +28,15 @@ The Ticketer Service is used to provide human assistance to users who contact yo
 
 You can start a ticket at any point in your flow by adding the 'open a ticket with a human agent' action.
 
-1\. Create a card “Open a ticket with a human agent”
+1. Create a card “Open a ticket with a human agent”
 
-2\. Pick a topic or category. To create a new topic or category, type its name in the bar, and it will be created automatically.
+2. Pick a topic or category. To create a new topic or category, type its name in the bar, and it will be created automatically.
 
-3\. This is an optional configuration. If you don't assign an agent to the ticket, any agent will be able to pick it up from the “unassigned” ticket box. If you choose an agent, the ticket will be automatically assigned and appear in the “My tickets” box.
+3. This is an optional configuration. If you don't assign an agent to the ticket, any agent will be able to pick it up from the “unassigned” ticket box. If you choose an agent, the ticket will be automatically assigned and appear in the “My tickets” box.
 
-_*See the section below on how to add new agents to your workspace._
+    _*See the section below on how to add new agents to your workspace._
 
-4\. Add any information you want your agents to see while interacting with the contact by referencing any result in the flow using '@results'.
+4. Add any information you want your agents to see while interacting with the contact by referencing any result in the flow using `@results`.
 
 ## Add agents
 
@@ -44,9 +44,9 @@ Now, you should add agents to handle the ticket. First, go to your workspace set
 
 Scroll down to the [multi-login](https://help.nyaruka.com/en/article/multi-login-support-adding-editing-removing-multiple-account-roles-df2ay6/) section.
 
- Click the 'Manage Logins' button.
+Click the 'Manage Logins' button.
 
-On this page you can invite your agents by entering their email address(1), assign the role of "agent" from the drop-down menu(1) and click “Save changes”(3)
+On this page you can invite your agents by entering their email address(1), assign the role of "agent" from the drop-down menu(1) and click `Save changes`(3)
 
 ## View and manage tickets
 

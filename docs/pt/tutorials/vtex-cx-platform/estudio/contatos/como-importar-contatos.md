@@ -21,12 +21,12 @@ Quando uma pessoa interage por algum dos canais conectados no VTEX CX Platform, 
 2. Clique em `Importar contatos` no canto esquerdo.
 3. Na página de importação, você pode escolher uma planilha do Excel, no formato `.xls`, e importar os contatos dessa planilha. Para que isso funcione, é necessário nomear corretamente o nome das colunas. No final da página, disponibilizamos um modelo de template.
 
-Utilize as seguintes regras para as colunas:
+    Utilize as seguintes regras para as colunas:
 
-- Name: nome do contato
-- Language: língua que o contato interage
-- URN: URN do canal que o contato vai se comunicar. O contato só é válido se possuir pelo menos uma URN. A **URN:whatsapp** é extremamente importante e necessária para o envio de mensagens template. Se essa coluna, juntamente com os números de telefone abaixo dela, não estiver presente ao importar os contatos, o envio de mensagens via WhatsApp para esses contatos ficará indisponível posteriormente.
-- Field: campos customizados dos contatos.
+    - Name: nome do contato
+    - Language: língua que o contato interage
+    - URN: URN do canal que o contato vai se comunicar. O contato só é válido se possuir pelo menos uma URN. A **URN:whatsapp** é extremamente importante e necessária para o envio de mensagens template. Se essa coluna, juntamente com os números de telefone abaixo dela, não estiver presente ao importar os contatos, o envio de mensagens via WhatsApp para esses contatos ficará indisponível posteriormente.
+    - Field: campos customizados dos contatos.
 
 4. Depois de selecionar o arquivo, clique em `Prévia` e seus contatos serão importados para a plataforma.
 

@@ -43,7 +43,7 @@ Caso opte por HTML, o retorno do seu código, estará preparado para retornar um
 
 Para realizar a criação do tipo JSON, você poderá encontrar uma requisição chamada **create code action \[python] -> json,**.
 
-Para criar um código, você precisará de alguns parâmetros como: **project_uuid**, **code_name** e **Bearer Token.**
+Para criar um código, você precisará de alguns parâmetros como: **project_uuid**, **code_name** e **Bearer Token**.
 
 - **project_uuid**
   - Essa informação você conseguirá pegar na URL do seu projeto no [VTEX CX Platform](https://dash.weni.ai).
@@ -63,7 +63,7 @@ Esse ID será o identificador do seu código, salve-o em algum lugar, pois ele �
 
 Para realizar a execução do código, será necessário pegar o ID do código que você criou na etapa anterior. Após isso você fará uma requisição passando o ID do seu código.
 
-Não é necessário passar as credenciais na request acima.O seu código poderá receber requests de qualquer tipo, como: GET, POST, PUT, DELETE... Seu código deverá estar adaptado para receber a request esperada. Para dúvidas relacionadas a como pegar dados da Query ou Body, você poderá visitar [Padrão de código e exemplos](#padrão-de-código-e-exemplos).
+Não é necessário passar as credenciais na request acima.O seu código poderá receber requests de qualquer tipo, como: `GET`, `POST`, `PUT`, DELETE... Seu código deverá estar adaptado para receber a request esperada. Para dúvidas relacionadas a como pegar dados da Query ou Body, você poderá visitar [Padrão de código e exemplos](#padrão-de-código-e-exemplos).
 
 ## Padrão de código e exemplos
 
@@ -144,11 +144,11 @@ Esse código tem a função de receber um Webhook da VTEX e conseguir consultar 
 #### Regras
 
 - Esse código é uma lambda, então para que haja o funcionamento adequado, sempre será buscado a função **Run**. Sempre utilize e coloque a função **Run** em eu código.
-- Para que consiga utilizar algumas funcionalidades, é necessário que você solicite uma função chamada **engine**, entro do seu **Run.** Exemplo:
+- Para que consiga utilizar algumas funcionalidades, é necessário que você solicite uma função chamada **engine**, entro do seu **Run**. Exemplo:
 
   ```
   def Run(engine):
-  ```
+```
 
 - Sempre que for necessário acessar informações presentes no **body** da requisição recebida, elas estarão disponíveis em `engine.body`. No entanto, esse conteúdo **não estará no formato JSON por padrão**. Para convertê-lo em um dicionário Python, utilize a função `json.loads()`. Após essa conversão, os dados estarão prontos para serem manipulados normalmente no formato de objeto JSON.
 
@@ -173,7 +173,7 @@ Esse código tem a função de receber um Webhook da VTEX e conseguir consultar 
     bd = engine.body
     bd_dict = json.loads(bd)
     order_id = bd_dict.get(""OrderId"")
-    ```
+```
 
 - Caso a informação esteja vindo através da Query da requisição, você deverá utilizar `engine.params.get(“”)`.
 - Caso seja necessário pegar os headers da requisição que está sendo recebida, poderá ser utilizado o seguinte comando

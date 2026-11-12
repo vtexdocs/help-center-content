@@ -36,7 +36,7 @@ Se, após realizar todos esses procedimentos, e mesmo assim não encontrar a pes
 Se for necessário seguir por esse caminho, abra um chamado no business suites com os seguintes documentos em mãos:
 
 1. Uma cópia de um documento de identificação com foto válido emitido pelo governo do indivíduo que assina a declaração
-2. [UMA DECLARAÇÃO ASSINADA](https://docs.google.com/document/d/19KjVuEGSMHlm30BLw6SJJXpkLEipR3WO4Me83M4KVb4/edit) no formato de arquivo PDF de uma pessoa com conhecimento e autoridade suficientes sobre este assunto que inclui todos os itens a seguir:
+2. [UMA DECLARAÇÃO ASSINADA](https://docs.google.com/document/d/19KjVuEGSMHlm30BLw6SJJXpkLEipR3WO4Me83M4KVb4/edit) no formato de arquivo PDF de uma pessoa com conhecimento e autoridade suficientes sobre este assunto que inclui todos os itens a seguir:
 
    1. O endereço de e-mail do Facebook e o URL do perfil associados à conta do Facebook que você deseja adicionar como o novo administrador
    2. Uma descrição da relação do solicitante com a Empresa e a ID da Empresa (e autoridade para solicitar acesso à Empresa, conforme aplicável)

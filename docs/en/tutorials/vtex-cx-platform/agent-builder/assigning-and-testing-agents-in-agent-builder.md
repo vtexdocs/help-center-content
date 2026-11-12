@@ -32,19 +32,19 @@ To assign a new agent to your store, follow these steps:
 
 1. Access your organization in the [VTEX CX Platform dashboard](https://dash.weni.ai/orgs).
 2. In the side menu, click the **My agents** icon.
-3. Click <i class="fas fa-plus"></i>`Assign new agents`.
+3. Click <i class="fas fa-plus"></i> `Assign new agents`.
 4. On the **Assign new agents** page, select one of the available options:
-- **Official agents:** Agents provided by VTEX or by external integrations already added to the platform.
-- **Custom agents:** Agents created for your operation.
+    - **Official agents:** Agents provided by VTEX or by external integrations already added to the platform.
+    - **Custom agents:** Agents created for your operation.
 
-> ℹ️ You can also find agents using the search field or filtering by category type.
+    > ℹ️ You can also find agents using the search field or filtering by category type.
 
 5. After choosing an agent, click `View details`.
 6. In the agent modal, review the information about available MCPs and the conversation example.
 7. Click `Start setup`.
-8. In **Assign {Agent name}**, in the **System selection** section, select one of the available options and click `Next`.
+8. In **Assign `{Agent name}`**, in the **System selection** section, select one of the available options and click `Next`.
 9. In **MCP selection**, select one of the available options to define the agent's behavior.
-10. In **Configure {System name} MCP**, if available, enter or select the agent's parameters. Some agents don't have configurable parameters.
+10. In **Configure `{System name}` MCP**, if available, enter or select the agent's parameters. Some agents don't have configurable parameters.
 11. For custom agents, under **Constants**, select the constants defined via CLI and enter the desired values. Learn more in [Configuring constants for custom agents](#configuring-constants-for-custom-agents).
 12. In **Review the setup and enter credentials**, review the information, complete the required fields, and click `Finish`.
 

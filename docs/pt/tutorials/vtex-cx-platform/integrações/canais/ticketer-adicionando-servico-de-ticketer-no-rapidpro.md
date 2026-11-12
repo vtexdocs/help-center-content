@@ -34,7 +34,7 @@ Você pode abrir um ticket em qualquer ponto do fluxo adicionando a ação 'abri
 
 3-Esta é uma configuração opcional, caso você não atribua um agente ao ticket, qualquer agente poderá retirar o ticket na caixa de ticket “não assinado”. Caso você escolha um Agente, todos os tickets serão atribuídos automaticamente e aparecerão na caixa “Meus tickets”.
 
-  \*Consulte a seção abaixo sobre como adicionar novos agentes ao seu workspace.
+  \*Consulte a seção abaixo sobre como adicionar novos agentes ao seu workspace.
 
 4-Você pode adicionar qualquer informação que queira que seus agentes vejam enquanto interagem com o contato referenciando qualquer resultado no fluxo usando '@results'.
 
@@ -46,11 +46,11 @@ Role para baixo para encontrar na seção de login múltiplo.
 
 Clique no botão 'Manage Logins'.
 
-Nesta página, você pode convidar seus agentes digitando seu endereço de e-mail (1\), atribuir a função de “agente” no menu suspenso (1\) e clicar em “Save changes” (3\)
+Nesta página, você pode convidar seus agentes digitando seu endereço de e-mail (1\), atribuir a função de “agente” no menu suspenso (1\) e clicar em `Save changes` (3\)
 
 ## Visualizar e gerenciar tickets
 
-Clique na guia “Tickets” (1\) em seu espaço de trabalho para visualizar todos os tickets. A pasta “all” é para todos os tickets, enquanto a pasta “unassigned”  é para tickets que ainda não foram atribuídos(2\).
+Clique na guia “Tickets” (1\) em seu espaço de trabalho para visualizar todos os tickets. A pasta “all” é para todos os tickets, enquanto a pasta “unassigned”  é para tickets que ainda não foram atribuídos(2\).
 
 Após escolher uma pasta, abra ou feche usando o menu suspenso para visualizar os tickets resolvidos ou não resolvidos(3\).
 

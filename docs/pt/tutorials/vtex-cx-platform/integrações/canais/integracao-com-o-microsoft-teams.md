@@ -58,9 +58,9 @@ Após a criação do **Segredo do cliente**, é gerado um **Valor** e um **ID se
 
 A criação do Bot no Portal do Azure deve ser realizada pelo cliente, é recomendado que o usuário tenha permissões administrativas para criar o Bot.
 
-No campo de pesquisa da página inicial, pesquise por **Azure bot.**
+No campo de pesquisa da página inicial, pesquise por **Azure bot**.
 
-Na seção **Criar um Bot do Azure**, insira um **Identificador do Bot**, selecione a **Assinatura (Avaliação Gratuita)** ou outra de sua opção, também será necessário criar um **Grupo de recursos.** No campo **Novo local do grupo de recursos**, selecione a região **Sul do Brasil**. Altere o **Tipo de preço**, para **Free**.
+Na seção **Criar um Bot do Azure**, insira um **Identificador do Bot**, selecione a **Assinatura (Avaliação Gratuita)** ou outra de sua opção, também será necessário criar um **Grupo de recursos**. No campo **Novo local do grupo de recursos**, selecione a região **Sul do Brasil**. Altere o **Tipo de preço**, para **Free**.
 
 Na etapa da **Microsoft App ID**, selecione **Usar registro de aplicativo existente**:
 
@@ -142,7 +142,7 @@ Clique no botão publicar.
 
 Ao clicarmos em publicar, abrirá um pop-up \- (**Publicar seu aplicativo**) Clique na opção (**Publicar para sua organização**)
 
-Após clicar, abrirá uma janela semelhante à da figura abaixo. Clique no botão **Publicar seu aplicativo.**
+Após clicar, abrirá uma janela semelhante à da figura abaixo. Clique no botão **Publicar seu aplicativo**.
 
 Logo em seguida, aparecerá uma mensagem notificando que a **publicação foi enviada** para aprovação.
 

@@ -70,7 +70,7 @@ Para crear un agente personalizado llena los campos a continuación:
 1. **Nombre del agente**: nombre del agente, como "Soporte".
 2. **Objetivo**: objetivo del agente, como "Resolver dudas de los clientes".
 
-> ℹ️ Define claramente el objetivo principal de tu agente al interactuar con los clientes, por ejemplo: "Ayudar a los clientes a encontrar productos adecuados para sus necesidades" o "Brindar soporte técnico". Esto orienta las conversaciones de forma directa y asertiva.
+    > ℹ️ Define claramente el objetivo principal de tu agente al interactuar con los clientes, por ejemplo: "Ayudar a los clientes a encontrar productos adecuados para sus necesidades" o "Brindar soporte técnico". Esto orienta las conversaciones de forma directa y asertiva.
 
 3. **Contenido**: contenido de base del agente. Agregar el contenido es opcional en la etapa de registro. Se puede completar después.
 
@@ -86,7 +86,7 @@ Haz clic en `Finalizar` para continuar.
 
 Para crear una nueva organización sigue los pasos a continuación:
 
-1. En la página de inicio de VTEX CX Platform haz clic en <i class="fas fa-plus" aria-hidden="true"></i>`Crear organización`.
+1. En la página de inicio de VTEX CX Platform haz clic en <i class="fas fa-plus" aria-hidden="true"></i> `Crear organización`.
 2. Ingresa un nombre para tu organización, la descripción de la organización y el nombre del proyecto.
 3. Haz clic en `Siguiente`.
 4. En la etapa de configuración del proyecto puedes elegir entre **Crear un agente personalizado** o **Usar plantilla**.
@@ -94,10 +94,10 @@ Para crear una nueva organización sigue los pasos a continuación:
 Para crear un agente personalizado sigue las instrucciones a continuación:
 
 1. Completa el nombre del agente y su objetivo.
-2. Haz clic en <i class="fas fa-plus" aria-hidden="true"></i>`Agregar contenido`.
+2. Haz clic en <i class="fas fa-plus" aria-hidden="true"></i> `Agregar contenido`.
 
-- En ese campo puedes agregar información que el agente utilizará en tu proyecto, como archivos de catálogo o el sitio web de tu tienda. Después, haz clic en `Finalizar`.
-- Este paso es opcional al momento de crear una organización y el contenido se puede agregar después.
+    - En ese campo puedes agregar información que el agente utilizará en tu proyecto, como archivos de catálogo o el sitio web de tu tienda. Después, haz clic en `Finalizar`.
+    - Este paso es opcional al momento de crear una organización y el contenido se puede agregar después.
 
 3. Haz clic en `Finalizar`.
 

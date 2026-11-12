@@ -17,7 +17,6 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 Decision cards create routes in the conversation based on rules. Use the list below to go directly to a card type.
 
-
 - Routes and decision rules
 - Flow results
 - Wait for the contact to respond
@@ -98,7 +97,7 @@ Good way to check the date of purchase of your products.
 
 These are rules used to validate personalized text formatting, to obey any rules for formatting numbers, documents, etc.
 
-The platform supports us to use regular expressions, or regex, which is a pattern search language. We are able to create custom standards rules for various types of formatting, such as CPF, CNPJ, CNH, etc. A good site for creating your regex is <https://regex101.com/>.
+The platform supports us to use regular expressions, or regex, which is a pattern search language. We are able to create custom standards rules for various types of formatting, such as CPF, CNPJ, CNH, etc. A good site for creating your regex is [regex101](https://regex101.com/).
 
 The rules are:
 
@@ -117,7 +116,7 @@ Every decision card chooses a route at the end of its execution, which generates
 - Date and time that this result was saved;
 - Extra contents and attachments sent with the value;
 
-You can access these flow values ​​using the platform variables (to learn more visit the article on [expressions and variables](/en/docs/tutorials/expressions-and-variables-introduction)) and you can also see these results in the form of graphs in the results area in the flow editor (to learn more access the article about the [flow editor and tools](/en/docs/tutorials/flow-editor-and-tools).)
+You can access these flow values using the platform variables (to learn more visit the article on [expressions and variables](/en/docs/tutorials/expressions-and-variables-introduction)) and you can also see these results in the form of graphs in the results area in the flow editor (to learn more access the article about the [flow editor and tools](/en/docs/tutorials/flow-editor-and-tools).)
 
 By default, the results' name will always be **(Result + n)**, where n is the number of results that exist in your flow. However, you can change this name in the Result name field.
 
@@ -129,7 +128,8 @@ The first and most used decision card. Routes are decided from the text entered 
 
 Card widely used to handle answers to questions asked to the user
 
-Advanced
+**Advanced**
+
 If you are using this card to collect mandatory information in the flow, be cautious when selecting the option "continue when no response." If the "No response" option is not connected to another card, the flow will end when the waiting time expires. If you want to remind the contact to respond, you can create a loop, which will prevent the contact from moving to the next card without providing an answer.
 
 ## Split by custom expression

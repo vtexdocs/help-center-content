@@ -26,7 +26,7 @@ Para iniciar el uso de la integración, algunos datos son necesarios para config
 
 1. Correo electrónico y Token de consumo de la API CV
 
-Cree un token y un correo electrónico para consumir la API del CV. [Vea cómo crear](https://suporte.cvcrm.com.br/kb/article/139171/como-gerar-um-token-painel-do-gestor).
+    Cree un token y un correo electrónico para consumir la API del CV. [Vea cómo crear](https://suporte.cvcrm.com.br/kb/article/139171/como-gerar-um-token-painel-do-gestor).
 
 2. Asuntos y Subasuntos que serán utilizados en la atención
 

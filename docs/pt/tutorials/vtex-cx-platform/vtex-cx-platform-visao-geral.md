@@ -71,7 +71,7 @@ Para criar um agente personalizado, preencha os campos abaixo:
 1. **Nome do agente**: nome do agente, como "Atendimento".
 2. **Objetivo**: objetivo do agente, como "Tirar dúvidas dos clientes".
 
-> ℹ️ Defina claramente o objetivo principal do seu agente ao interagir com os clientes, por exemplo: "Auxiliar os clientes a encontrar produtos adequados às suas necessidades" ou "Fornecer suporte técnico". Isso orienta as conversas de forma direta e assertiva.
+    > ℹ️ Defina claramente o objetivo principal do seu agente ao interagir com os clientes, por exemplo: "Auxiliar os clientes a encontrar produtos adequados às suas necessidades" ou "Fornecer suporte técnico". Isso orienta as conversas de forma direta e assertiva.
 
 3. **Conteúdo**: conteúdo de base do agente. Preencher o conteúdo é opcional na etapa de cadastro e pode ser adicionado depois.
 
@@ -87,7 +87,7 @@ Clique em `Concluir` para seguir adiante.
 
 Para criar uma nova organização, siga os passos a seguir:
 
-1. Na página inicial do VTEX CX Platform, clique em <i class="fas fa-plus" aria-hidden="true"></i>`Criar organização`.
+1. Na página inicial do VTEX CX Platform, clique em <i class="fas fa-plus" aria-hidden="true"></i> `Criar organização`.
 2. Digite um nome para sua organização, a descrição da organização e o nome do projeto.
 3. Clique em `Avançar`.
 4. Na etapa de configuração do projeto, você pode escolher entre **Criar um agente personalizado** ou **Usar template**.
@@ -95,7 +95,7 @@ Para criar uma nova organização, siga os passos a seguir:
 Para criar um agente personalizado, siga o passo a passo a seguir:
 
 1. Preencha o nome do agente e o objetivo desse agente.
-2. Em seguida, clique em <i class="fas fa-plus" aria-hidden="true"></i>`Adicionar conteúdo`.
+2. Em seguida, clique em <i class="fas fa-plus" aria-hidden="true"></i> `Adicionar conteúdo`.
   - Nesse campo, você pode adicionar informações que o agente vai usar no seu projeto, como arquivos de catálogo ou o site da sua loja. Depois, clique em `Finalizar`.
   - Essa etapa é opcional no momento de criação de uma organização e o conteúdo pode ser adicionado depois.
 3. Clique em `Concluir`.

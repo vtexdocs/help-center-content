@@ -251,7 +251,7 @@ A seção **Contatos** exibe métricas sobre os contatos que iniciaram conversas
 
 A seção **Assuntos** permite categorizar e analisar as conversas por tema. Após adicionar assuntos, esta seção exibe a distribuição das conversas por categoria, ajudando a identificar os temas mais recorrentes na sua operação.
 
-Para começar, clique em <i class="fas fa-plus" aria-hidden="true"></i>`Adicione seu primeiro assunto` e defina as categorias relevantes para a sua operação.
+Para começar, clique em <i class="fas fa-plus" aria-hidden="true"></i> `Adicione seu primeiro assunto` e defina as categorias relevantes para a sua operação.
 
 ### Valores gerados pelo agente
 
@@ -261,7 +261,7 @@ Para adicionar um indicador, clique no botão de adicionar da seção. Escolha c
 
 ### Personalize seu dashboard
 
-Você pode adicionar widgets ao dashboard para exibir as métricas mais relevantes para a sua operação. Para isso, clique em <i class="fas fa-plus" aria-hidden="true"></i>`Adicionar widget` e escolha as métricas que deseja acompanhar.
+Você pode adicionar widgets ao dashboard para exibir as métricas mais relevantes para a sua operação. Para isso, clique em <i class="fas fa-plus" aria-hidden="true"></i> `Adicionar widget` e escolha as métricas que deseja acompanhar.
 
 Você pode escolher entre widgets nativos do VTEX CX Platform ou widgets personalizados.
 

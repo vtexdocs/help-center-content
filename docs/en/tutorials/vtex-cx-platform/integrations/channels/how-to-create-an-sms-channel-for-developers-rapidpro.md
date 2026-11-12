@@ -29,19 +29,19 @@ This is the fastest way to integrate the SMS channel into the platform, as it ha
 
 **Outgoing Messages**
 
-When an outgoing message needs to be sent, it will make a POST to this URL with the parameters 'text', 'to', 'from', 'channel', and 'id'. Example:
+When an outgoing message needs to be sent, it will make a `POST` to this URL with the parameters `text`, `to`, `from`, `channel`, and `id`. Example:
 
+```http
+POST https://google.com.br Content-Type: application/json Body: {"id": 1241244, "text": "Love is patient. Love is kind.", "to": "+250788123123", "to_no_plus": "250788123123", "from": "+5582999489287", "from_no_plus": "5582999489287", "channel": 346}
 ```
-POST https://google.com.br Content-Type: application/json Body: {"id": 1241244, "text": "Love is patient. Love is kind.", "to": "+250788123123", "to_no_plus": "250788123123", "from": "+5582999489287", "from_no_plus": "5582999489287", "channel": 346}
-````
 
 **Incoming Messages**
 
-When a new message is received by your service, it should notify us with a POST to the following URL, passing the following parameters: 'from' and 'text'. Optionally, callers can also send a 'date' parameter in ISO-8601 format (e.g., 2012-04-23T18:25:43.511Z) to specify the time the message was received. Example:
+When a new message is received by your service, it should notify us with a `POST` to the following URL, passing the following parameters: `from` and `text`. Optionally, callers can also send a `date` parameter in ISO-8601 format (e.g., 2012-04-23T18:25:43.511Z) to specify the time the message was received. Example:
 
+```http
+POST https://rapidpro.ilhasoft.mobi/c/ex/a86f686f-9168-4dd9-a03e-77f11b265b56/receive from=%2B250788123123&text=Love+is+patient.+Love+is+kind.&date=2012-04-23T18:25:43.511Z
 ```
-POST [https://rapidpro.ilhasoft.mobi/c/ex/a86f686f-9168-4dd9-a03e-77f11b265b56/receive](https://rapidpro.ilhasoft.mobi/c/ex/a86f686f-9168-4dd9-a03e-77f11b265b56/receive) from=%2B250788123123&text=Love+is+patient.+Love+is+kind.&date=2012-04-23T18:25:43.511Z
-````
 
 1. **REST API (External API)**
 

@@ -123,18 +123,18 @@ En el paso tres, configura las opciones de chats de soporte, mensajes automatiza
 
 1. En **Opciones adicionales**, activa o desactiva las configuraciones según la necesidad de tu operación:
 
-| Opción | Descripción |
-| --- | --- |
-| **Envío de plantillas de mensajes** | Permite que los representantes envíen plantillas de mensajes preconfiguradas durante el chat de soporte. |
-| **Usar firma** | Agrega automáticamente el nombre del representante en cada mensaje enviado. |
-| **Permitir a los representantes editar campos personalizables** | Permite que los representantes editen campos personalizados del contacto en la sección **Toda la información**. |
+    | Opción | Descripción |
+    | --- | --- |
+    | **Envío de plantillas de mensajes** | Permite que los representantes envíen plantillas de mensajes preconfiguradas durante el chat de soporte. |
+    | **Usar firma** | Agrega automáticamente el nombre del representante en cada mensaje enviado. |
+    | **Permitir a los representantes editar campos personalizables** | Permite que los representantes editen campos personalizados del contacto en la sección **Toda la información**. |
 
 2. En **Mensajes automatizados**, configura el envío automático de mensajes a los contactos:
 
-| Opción | Descripción |
-| --- | --- |
-| **Enviar mensaje automático a contactos en espera** | Envía un mensaje automático a contactos que esperan por un chat de soporte en la cola. El mensaje se muestra como si hubiera sido enviado por el representante asignado. |
-| **Enviar mensaje automático al iniciar el soporte** | Envía un mensaje automático cuando se asigna el chat a un representante. El mensaje se muestra como si hubiera sido enviado por el representante asignado. |
+    | Opción | Descripción |
+    | --- | --- |
+    | **Enviar mensaje automático a contactos en espera** | Envía un mensaje automático a contactos que esperan por un chat de soporte en la cola. El mensaje se muestra como si hubiera sido enviado por el representante asignado. |
+    | **Enviar mensaje automático al iniciar el soporte** | Envía un mensaje automático cuando se asigna el chat a un representante. El mensaje se muestra como si hubiera sido enviado por el representante asignado. |
 
 3. En **Encuesta de satisfacción** activa **Enviar automáticamente una encuesta de satisfacción después de finalizar el chat de soporte en Live Desk** para recopilar feedback de los clientes al final de cada chat de soporte.
 

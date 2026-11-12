@@ -57,7 +57,7 @@ En este momento, se solicitarán los documentos oficiales y obligatorios para la
 
 El tipo de documento puede variar según el país. Esto se revelará al iniciar el proceso al hacer clic en el botón Iniciar verificación.
 
-**Dependiendo de tu localidad, verifica la siguiente documentación:**
+Dependiendo de tu localidad, verifica la siguiente documentación:
 
 - Que la información de la empresa sea idéntica a los documentos;
 - Verifica que los datos de tu empresa sugeridos por Meta estén actualizados;

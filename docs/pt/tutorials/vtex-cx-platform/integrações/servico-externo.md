@@ -52,11 +52,11 @@ O campo **Endereço** ou **address** deve ser preenchido **apenas com um nome ou
 
 O campo **HTTP Method** define como as mensagens serão enviadas ao serviço externo. Estão disponíveis três métodos:
 
-- **GET** – envia dados como parâmetros de URL. Use apenas quando o serviço externo aceitar parâmetros em uma chamada GET.
-- **POST** – envia dados no corpo da requisição. Este é o método mais comum para integrações de mensagens.
-- **PUT** – semelhante ao POST, mas usado quando o serviço externo espera atualizações de recursos existentes.
+- `GET` – envia dados como parâmetros de URL. Use apenas quando o serviço externo aceitar parâmetros em uma chamada GET.
+- `POST` – envia dados no corpo da requisição. Este é o método mais comum para integrações de mensagens.
+- `PUT` – semelhante ao `POST`, mas usado quando o serviço externo espera atualizações de recursos existentes.
 
-> Ao escolher **POST** ou **PUT** você deve definir também o **Content-Type** (veja a seção 5). Para **GET** o campo Content-Type não é obrigatório.
+> Ao escolher `POST` ou `PUT` você deve definir também o **Content-Type** (veja a seção 5). Para `GET` o campo Content-Type não é obrigatório.
 
 ## Codificação (Encoding)
 
@@ -70,7 +70,7 @@ O campo **Codificação** controla como os caracteres da mensagem são processad
 
 ## Content-Type
 
-O campo **Content type** informa ao serviço externo em qual formato os dados estão sendo enviados. Ele **só é obrigatório** quando o método HTTP selecionado é **POST** ou **PUT**. Para requisições **GET** o campo pode ficar em branco. As opções disponíveis são:
+O campo **Content type** informa ao serviço externo em qual formato os dados estão sendo enviados. Ele **só é obrigatório** quando o método HTTP selecionado é `POST` ou `PUT`. Para requisições `GET` o campo pode ficar em branco. As opções disponíveis são:
 
 | Content-Type | Descrição |
 |--------------|-----------|
@@ -133,21 +133,21 @@ A forma de construção da requisição varia de acordo com o método HTTP selec
 
 ### GET (somente Enviar URL)
 
-Se o método escolhido for **GET**, somente o campo **Enviar URL** estará disponível.
+Se o método escolhido for `GET`, somente o campo **Enviar URL** estará disponível.
 
 Você deve preencher esse campo com a URL do seu serviço (endpoint), incluindo os parâmetros desejados em formato de query string. Os valores entre {{...}} serão substituídos dinamicamente pela plataforma.
 
-**Por exemplo**, para enviar as variáveis from, text, to e quick_replies via GET, a URL pode ser:
+**Por exemplo**, para enviar as variáveis from, text, to e quick_replies via `GET`, a URL pode ser:
 
 ```
 https://send.weni.ai/api/v2?from={{from}}&text={{text}}&to={{to}}{{quick_replies}}
 ```
 
-Na chamada acima, a plataforma realizará um GET para a URL informada sempre que houver uma mensagem de saída, substituindo as variáveis pelos valores reais. Não existe corpo de solicitação no método GET e, portanto, o Content-Type é ignorado.
+Na chamada acima, a plataforma realizará um `GET` para a URL informada sempre que houver uma mensagem de saída, substituindo as variáveis pelos valores reais. Não existe corpo de solicitação no método GET e, portanto, o Content-Type é ignorado.
 
 ### POST ou PUT (Enviar URL + Corpo da solicitação)
 
-Quando o método selecionado for **POST** ou **PUT**, além do campo **Enviar URL** surge o campo **Corpo da solicitação**.
+Quando o método selecionado for `POST` ou `PUT`, além do campo **Enviar URL** surge o campo **Corpo da solicitação**.
 
 Nesses métodos o envio das variáveis ocorre no corpo da requisição, respeitando o Content-Type selecionado. O **Content-Type** deve sempre corresponder ao formato utilizado no corpo:
 
@@ -175,7 +175,7 @@ Para um serviço que aceita JSON, a configuração pode ser:
 }
 ```
 
-Com essa configuração a plataforma fará um POST para [https://send.weni.ai/api/v2](https://send.weni.ai/api/v2) enviando o JSON acima.
+Com essa configuração a plataforma fará um `POST` para [https://send.weni.ai/api/v2](https://send.weni.ai/api/v2) enviando o JSON acima.
 
 Se você optar por application/x-www-form-urlencoded, o corpo poderá ser:
 
@@ -203,7 +203,7 @@ A URL utilizada para enviar mensagens **será exatamente aquela definida por voc
 
 Por exemplo, se na etapa 9 você configurou a URL `https://send.weni.ai/api/v2` com o método POST e escolheu o formato JSON, a chamada de envio terá a seguinte estrutura:
 
-```
+```http
 POST https://send.weni.ai/api/v2
 {
   "id": "1241244",
@@ -217,11 +217,11 @@ POST https://send.weni.ai/api/v2
 }
 ```
 
-Se o método configurado for **GET**, a plataforma chamará a URL com os parâmetros na query string conforme exemplificado na seção 9.1.
+Se o método configurado for `GET`, a plataforma chamará a URL com os parâmetros na query string conforme exemplificado na seção 9.1.
 
 ### URL de mensagens recebidas (receive)
 
-Esta é a URL que **seu serviço** deve chamar quando receber uma mensagem de um usuário. Sempre que uma nova mensagem chegar ao seu canal externo, envie um POST para esse endpoint com os parâmetros:
+Esta é a URL que **seu serviço** deve chamar quando receber uma mensagem de um usuário. Sempre que uma nova mensagem chegar ao seu canal externo, envie um `POST` para esse endpoint com os parâmetros:
 
 - from – URN do usuário (identificador único definido por você)
 - text – conteúdo da mensagem enviada pelo usuário
@@ -229,7 +229,7 @@ Esta é a URL que **seu serviço** deve chamar quando receber uma mensagem de um
 
 Por exemplo:
 
-```
+```http
 POST https://flows.weni.ai/c/ex/<ID>/receive
 from=%2B2520788123123&text=Love+is+patient.+Love+is+kind.&date=2012-04-23T18:25:43.511Z
 ```
@@ -238,25 +238,25 @@ Ao receber esta requisição, a plataforma processará a mensagem e enviará uma
 
 ### URL de mensagens enviadas (sent) – opcional
 
-Seu serviço pode notificar a plataforma sempre que uma mensagem for **enviada** com sucesso para o usuário. Para isso, faça um POST para essa URL, passando o identificador da mensagem no body:
+Seu serviço pode notificar a plataforma sempre que uma mensagem for **enviada** com sucesso para o usuário. Para isso, faça um `POST` para essa URL, passando o identificador da mensagem no body:
 
-```
+```http
 POST https://flows.weni.ai/c/ex/<ID>/sent?id=1234
 ```
 
 ### URL de mensagens entregues (delivered) – opcional
 
-Caso deseje informar à plataforma que uma mensagem foi **entregue** ao destinatário final, faça um POST para essa URL com o parâmetro id igual ao identificador da mensagem:
+Caso deseje informar à plataforma que uma mensagem foi **entregue** ao destinatário final, faça um `POST` para essa URL com o parâmetro id igual ao identificador da mensagem:
 
-```
+```http
 POST https://flows.weni.ai/c/ex/<ID>/delivered?id=234
 ```
 
 ### URL de desativação / parada do contato (stopped)
 
-Se o seu canal fornecer uma maneira de os usuários optarem por **parar de receber mensagens**, você deve notificar a plataforma. Quando um usuário se descadastrar, seu serviço deve enviar um POST para essa URL com o parâmetro from contendo a URN do usuário que pediu a desativação:
+Se o seu canal fornecer uma maneira de os usuários optarem por **parar de receber mensagens**, você deve notificar a plataforma. Quando um usuário se descadastrar, seu serviço deve enviar um `POST` para essa URL com o parâmetro from contendo a URN do usuário que pediu a desativação:
 
-```
+```http
 POST https://flows.weni.ai/c/ex/<ID>/stopped?from=%2B2520788123123
 ```
 

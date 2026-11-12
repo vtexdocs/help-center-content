@@ -67,7 +67,7 @@ In addition to enabling the flow with the `chats` label, you need to enable flow
 3. Click **Live Desk**.
 4. Click the **Sectors** tab.
 
-> ℹ️ If there are no departments configured in Live Desk yet, click `New sector` and fill in the requested information on the **New sector** page.
+    > ℹ️ If there are no departments configured in Live Desk yet, click `New sector` and fill in the requested information on the **New sector** page.
 
 5. In the desired department, click the actions button <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
 6. Click `Edit`.
@@ -83,7 +83,7 @@ After the flow is enabled and the department allows outbound triggers, agents ca
 3. Click `View options`.
 4. Click `Flows`.
 5. Search for a contact by phone number.
-        > ℹ️ For a Brazilian phone number, the search finds the contact whether the number is saved with or without the ninth digit. No configuration is required.
+    > ℹ️ For a Brazilian phone number, the search finds the contact whether the number is saved with or without the ninth digit. No configuration is required.
 6. Check the boxes for the contacts you want to trigger the flow for.
 7. Click `Continue`.
 8. In **Select flow**, choose the desired flow.

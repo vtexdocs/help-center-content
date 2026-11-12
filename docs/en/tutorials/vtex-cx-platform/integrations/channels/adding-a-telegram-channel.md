@@ -19,11 +19,11 @@ To connect your chatbot with Telegram, follow these steps:
 
 ## Talk to BotFather
 
-BotFather is a chatbot that creates and manages other chatbots for Telegram. To find it, look for @BotFather in your Telegram's search bar.
+BotFather is a chatbot that creates and manages other chatbots for Telegram. To find it, look for `@BotFather` in your Telegram's search bar.
 
 ## Create a chatbot with BotFather
 
-Once you start the conversation with BotFather, send the message /newbot to create a new chatbot. Then choose a name and a username (usernames must always end with “\_bot”, e.g., test_bot).
+Once you start the conversation with BotFather, send the message `/newbot` to create a new chatbot. Then choose a name and a username (usernames must always end with “`_bot`”, e.g., `test_bot`).
 
 ## Get the access token
 

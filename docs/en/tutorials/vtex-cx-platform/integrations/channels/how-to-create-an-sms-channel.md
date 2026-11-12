@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 The VTEX CX Platform has several SMS channels that can be configured to receive and send messages. The settings to configure depend on the chosen application. To activate a channel, go to the **Applications module > Other Apps > Add Channel.**
 
-In the new tab, look for **Voice and SMS Channels.**
+In the new tab, look for **Voice and SMS Channels**.
 
 After selecting your SMS channel, follow the step-by-step guide to complete the integration. Here are the SMS channels available in the project.
 

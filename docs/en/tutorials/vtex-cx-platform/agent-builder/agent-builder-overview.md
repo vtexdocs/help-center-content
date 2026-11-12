@@ -182,7 +182,7 @@ On this page, you can add [files](#files), [sites](#sites) and [texts](#texts) t
 
 #### Files
 
-To add a file to the database, click <i class="fas fa-plus" aria-hidden="true"></i>`Add file`.
+To add a file to the database, click <i class="fas fa-plus" aria-hidden="true"></i> `Add file`.
 
 > ⚠️ Files must have a `.pdf`, `.doc`, `.docx`, `.txt`, `.xls`, or `.xlsx` extension and be up to 50 MB.
 
@@ -197,7 +197,7 @@ You can also use the search field to find a file in the knowledge base.
 
 To add a site to the agent's database, follow these instructions:
 
-1. Click <i class="fas fa-plus" aria-hidden="true"></i>`Add site`.
+1. Click <i class="fas fa-plus" aria-hidden="true"></i> `Add site`.
 2. Copy the URL of the site you want to add and paste it into the empty field.
 3. Click `Done`.
 
@@ -214,7 +214,7 @@ On this tab, you can add text content to the knowledge base, organized into name
 
 To create a text segment, follow these steps:
 
-1. Click <i class="fas fa-plus" aria-hidden="true"></i>`Add text`.
+1. Click <i class="fas fa-plus" aria-hidden="true"></i> `Add text`.
 2. Enter a title to identify the segment.
 3. Enter the content in the text box.
 4. Click `Save`.

@@ -23,7 +23,7 @@ The messages are sent following a pre-defined schedule, respecting a determined 
 
 - Go to the "Campaigns" option in the "Studio" module on the side menu
 
-- Click on "Create Campaign" to start building your campaign
+- Click on `Create Campaign` to start building your campaign
 
 - Give a name for your campaign, choose a group to which the messages will be sent, and a new window will open.
 
@@ -39,10 +39,10 @@ Each campaign can only operate with one group. Therefore, a new campaign is requ
 
 4. Then, set the date and time you want the event to start. The following information makes up a cadence:
 
-- How many minutes, hours, days, or weeks before or after the value of the contact field.
+    - How many minutes, hours, days, or weeks before or after the value of the contact field.
 
-- The selected contact field.
+    - The selected contact field.
 
-- The time the event will start.
+    - The time the event will start.
 
 5. In "Delivered": This can be used for schedules over 24 hours. Here, you can specify whether people receive the message at the exact time of the event or if you want to standardize all messages to be sent together at a specific time of day.

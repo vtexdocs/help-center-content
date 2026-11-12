@@ -23,9 +23,9 @@ As conversas iniciadas pela empresa são divididas em três categorias: utilidad
 
 ## Conversas iniciadas pela empresa
 
-- **Utilidade**:  Serve para facilitar uma solicitação, transação ou atualização sobre transações em andamento, incluindo notificações pós-venda e extratos de faturas recorrentes.
+- **Utilidade**:  Serve para facilitar uma solicitação, transação ou atualização sobre transações em andamento, incluindo notificações pós-venda e extratos de faturas recorrentes.
 
-- **Autenticação**:  Serve para autenticação de usuários com senhas de uso único em várias etapas do processo de login. Por exemplo, verificação da conta, recuperação da conta e desafios de integridade.
+- **Autenticação**:  Serve para autenticação de usuários com senhas de uso único em várias etapas do processo de login. Por exemplo, verificação da conta, recuperação da conta e desafios de integridade.
 
 - **Marketing**: Serve para promoções ou ofertas, atualizações de informações ou convites. As conversas que não se enquadrarem nas categorias de utilidade ou autenticação serão consideradas de marketing.
 
@@ -53,8 +53,8 @@ As conversas de marketing, utilidade, autenticação e serviço têm uma duraç�
 
 ### Conversas iniciadas pela empresa (referência de precificação)
 
-- **Utilidade**: Serve para facilitar uma solicitação, transação ou atualização sobre transações em andamento, incluindo notificações pós-venda e extratos de faturas recorrentes.
-- **Autenticação**: Serve para autenticação de usuários com senhas de uso único em várias etapas do processo de login. Por exemplo, verificação da conta, recuperação da conta e desafios de integridade.
+- **Utilidade**: Serve para facilitar uma solicitação, transação ou atualização sobre transações em andamento, incluindo notificações pós-venda e extratos de faturas recorrentes.
+- **Autenticação**: Serve para autenticação de usuários com senhas de uso único em várias etapas do processo de login. Por exemplo, verificação da conta, recuperação da conta e desafios de integridade.
 - **Marketing**: Serve para promoções ou ofertas, atualizações de informações ou convites. As conversas que não se enquadrarem nas categorias de utilidade ou autenticação serão consideradas de marketing.
 
 Para saber mais sobre isso, você pode consultar [aqui](https://weni.ai/precificacao-whatsapp/).

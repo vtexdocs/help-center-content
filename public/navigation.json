@@ -33969,288 +33969,368 @@
                   "children": [
                     {
                       "name": {
-                        "en": "Adding Media to the message",
-                        "es": "Agregar mídias a su mensaje",
-                        "pt": "Adicionar mídias"
-                      },
-                      "slug": {
-                        "en": "adding-media-to-the-message",
-                        "es": "agregar-midias-a-su-mensaje",
-                        "pt": "adicionando-midias-ao-cartao-de-enviar-mensagem"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Downloading and extracting archived data",
-                        "es": "Descargar y extraer datos archivados",
-                        "pt": "Baixar, extrair, transformar e combinar os dados arquivados do Fluxo de automação"
-                      },
-                      "slug": {
-                        "en": "how-to-download-and-extract-archived-data",
-                        "es": "como-descargar-y-extraer-datos-archivados",
-                        "pt": "como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-fluxo-de-automacao"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Call webhook: Making requests to external services",
-                        "es": "Call webhook: Cómo hacer llamadas a sistemas externos",
-                        "pt": "Call webhook: Making requests to external services"
-                      },
-                      "slug": {
-                        "en": "call-webhook-making-requests-to-external-services",
-                        "es": "call-webhook-como-hacer-llamadas-a-sistemas-externos",
-                        "pt": ""
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "WhatsApp message card",
-                        "es": "Tarjeta de mensaje de WhatsApp",
-                        "pt": "Cartão de mensagem do WhatsApp"
-                      },
-                      "slug": {
-                        "en": "whatsapp-message-card",
-                        "es": "tarjeta-de-mensaje-de-whatsapp",
-                        "pt": "cartao-de-mensagem-do-whatsapp"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Action cards",
-                        "es": "Cartas de acción",
-                        "pt": "Cartas de ação"
-                      },
-                      "slug": {
-                        "en": "action-cards",
-                        "es": "cartas-de-accion",
-                        "pt": "cartas-de-acao"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Decision cards",
-                        "es": "Cartas de decisión",
-                        "pt": "Cartas de decisão"
-                      },
-                      "slug": {
-                        "en": "decision-cards",
-                        "es": "cartas-de-decision",
-                        "pt": "cartas-de-decisao"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Construtor de Vendas API-integrated chatbot",
-                        "es": "Chatbot integrado a la API del Constructor de Ventas",
-                        "pt": "Chatbot integrado a API do Construtor de Vendas"
-                      },
-                      "slug": {
-                        "en": "construtor-de-vendas-api-integrated-chatbot",
-                        "es": "chatbot-integrado-a-la-api-del-constructor-de-ventas",
-                        "pt": "chatbot-integrado-a-api-do-construtor-de-vendas"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Chatbot integrado a API Omie",
-                        "es": "Chatbot integrado a API Omie",
-                        "pt": "Chatbot integrado a API Omie"
-                      },
-                      "slug": {
-                        "en": "chatbot-integrado-a-api-omie",
-                        "es": "chatbot-integrado-a-api-omie",
-                        "pt": "chatbot-integrado-a-api-omie"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Sienge API-integrated chatbot",
-                        "es": "Chatbot integrado a la API Sienge",
-                        "pt": "Chatbot integrado a API Sienge"
-                      },
-                      "slug": {
-                        "en": "sienge-api-integrated-chatbot",
-                        "es": "chatbot-integrado-a-la-api-sienge",
-                        "pt": "chatbot-integrado-a-api-sienge"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Zero shot learning",
-                        "es": "Aprendizaje zero shot",
-                        "pt": "Classificação e resposta inteligente"
-                      },
-                      "slug": {
-                        "en": "zero-shot-learning",
-                        "es": "aprendizaje-zero-shot",
-                        "pt": "classificacao-e-resposta-inteligente"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Flows creation",
+                        "en": "Flow creation",
                         "es": "Creación de flujos",
                         "pt": "Criação de fluxos"
                       },
                       "slug": {
-                        "en": "flows-creation",
-                        "es": "creacion-de-flujos",
-                        "pt": "criacao-de-fluxos"
+                        "en": "flow-creation-subcategory",
+                        "es": "creacion-de-flujos-subcategoria",
+                        "pt": "criacao-de-fluxos-subcategoria"
                       },
                       "origin": "",
-                      "type": "markdown",
-                      "children": []
+                      "type": "category",
+                      "children": [
+                        {
+                          "name": {
+                            "en": "Flows creation",
+                            "es": "Creación de flujos",
+                            "pt": "Criação de fluxos"
+                          },
+                          "slug": {
+                            "en": "flows-creation",
+                            "es": "creacion-de-flujos",
+                            "pt": "criacao-de-fluxos"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Flow editor and tools",
+                            "es": "Editor de flujo y sus herramientas",
+                            "pt": "Editor de fluxo e suas ferramentas"
+                          },
+                          "slug": {
+                            "en": "flow-editor-and-tools",
+                            "es": "editor-de-flujo-y-sus-herramientas",
+                            "pt": "editor-de-fluxo-e-suas-ferramentas"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Import and export flows",
+                            "es": "Importar y exportar flujos",
+                            "pt": "Importar e exportar fluxos"
+                          },
+                          "slug": {
+                            "en": "import-and-export-flows",
+                            "es": "importar-y-exportar-flujos",
+                            "pt": "importar-e-exportar-fluxos"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        }
+                      ]
                     },
                     {
                       "name": {
-                        "en": "Flow editor and tools",
-                        "es": "Editor de flujo y sus herramientas",
-                        "pt": "Editor de fluxo e suas ferramentas"
+                        "en": "Flow cards",
+                        "es": "Cartas del flujo",
+                        "pt": "Cartas do fluxo"
                       },
                       "slug": {
-                        "en": "flow-editor-and-tools",
-                        "es": "editor-de-flujo-y-sus-herramientas",
-                        "pt": "editor-de-fluxo-e-suas-ferramentas"
+                        "en": "flow-cards-subcategory",
+                        "es": "cartas-del-flujo-subcategoria",
+                        "pt": "cartas-do-fluxo-subcategoria"
                       },
                       "origin": "",
-                      "type": "markdown",
-                      "children": []
+                      "type": "category",
+                      "children": [
+                        {
+                          "name": {
+                            "en": "Adding Media to the message",
+                            "es": "Agregar mídias a su mensaje",
+                            "pt": "Adicionar mídias"
+                          },
+                          "slug": {
+                            "en": "adding-media-to-the-message",
+                            "es": "agregar-midias-a-su-mensaje",
+                            "pt": "adicionando-midias-ao-cartao-de-enviar-mensagem"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Call webhook: Making requests to external services",
+                            "es": "Call webhook: Cómo hacer llamadas a sistemas externos",
+                            "pt": "Call webhook: Making requests to external services"
+                          },
+                          "slug": {
+                            "en": "call-webhook-making-requests-to-external-services",
+                            "es": "call-webhook-como-hacer-llamadas-a-sistemas-externos",
+                            "pt": ""
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "WhatsApp message card",
+                            "es": "Tarjeta de mensaje de WhatsApp",
+                            "pt": "Cartão de mensagem do WhatsApp"
+                          },
+                          "slug": {
+                            "en": "whatsapp-message-card",
+                            "es": "tarjeta-de-mensaje-de-whatsapp",
+                            "pt": "cartao-de-mensagem-do-whatsapp"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Action cards",
+                            "es": "Cartas de acción",
+                            "pt": "Cartas de ação"
+                          },
+                          "slug": {
+                            "en": "action-cards",
+                            "es": "cartas-de-accion",
+                            "pt": "cartas-de-acao"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Decision cards",
+                            "es": "Cartas de decisión",
+                            "pt": "Cartas de decisão"
+                          },
+                          "slug": {
+                            "en": "decision-cards",
+                            "es": "cartas-de-decision",
+                            "pt": "cartas-de-decisao"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Zero shot learning",
+                            "es": "Aprendizaje zero shot",
+                            "pt": "Classificação e resposta inteligente"
+                          },
+                          "slug": {
+                            "en": "zero-shot-learning",
+                            "es": "aprendizaje-zero-shot",
+                            "pt": "classificacao-e-resposta-inteligente"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        }
+                      ]
                     },
                     {
                       "name": {
-                        "en": "Expressions glossary",
-                        "es": "Glosario de expresiones",
-                        "pt": "Glossário de expressões"
+                        "en": "Expressions and variables",
+                        "es": "Expresiones y variables",
+                        "pt": "Expressões e variáveis"
                       },
                       "slug": {
-                        "en": "expressions-glossary",
-                        "es": "glossario-de-expressoes",
-                        "pt": "glossario-de-expressoes"
+                        "en": "expressions-and-variables-subcategory",
+                        "es": "expresiones-y-variables-subcategoria",
+                        "pt": "expressoes-e-variaveis-subcategoria"
                       },
                       "origin": "",
-                      "type": "markdown",
-                      "children": []
+                      "type": "category",
+                      "children": [
+                        {
+                          "name": {
+                            "en": "Expressions glossary",
+                            "es": "Glosario de expresiones",
+                            "pt": "Glossário de expressões"
+                          },
+                          "slug": {
+                            "en": "expressions-glossary",
+                            "es": "glossario-de-expressoes",
+                            "pt": "glossario-de-expressoes"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Variables glossary",
+                            "es": "Glosario de variables",
+                            "pt": "Glossário de variáveis"
+                          },
+                          "slug": {
+                            "en": "variables-glossary",
+                            "es": "glosario-de-variables",
+                            "pt": "glossario-de-variaveis"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Expressions and variables introduction",
+                            "es": "Introducción a expresiones y variables",
+                            "pt": "Introdução a expressões e variáveis"
+                          },
+                          "slug": {
+                            "en": "expressions-and-variables-introduction",
+                            "es": "introduccion-a-expresiones-y-variables",
+                            "pt": "introducao-a-expressoes-e-variaveis"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Using expressions to capture the user's location",
+                            "es": "Utilizando expresiones para capturar la ubicación del usuario",
+                            "pt": "Utilizando expressões para captar a localização do usuário"
+                          },
+                          "slug": {
+                            "en": "using-expressions-to-capture-the-users-location",
+                            "es": "utilizando-expresiones-para-capturar-la-ubicacion-del-usuario",
+                            "pt": "utilizando-expressoes-para-captar-a-localizacao-do-usuario"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        }
+                      ]
                     },
                     {
                       "name": {
-                        "en": "Variables glossary",
-                        "es": "Glosario de variables",
-                        "pt": "Glossário de variáveis"
+                        "en": "Flow analysis",
+                        "es": "Análisis de los flujos",
+                        "pt": "Análise dos fluxos"
                       },
                       "slug": {
-                        "en": "variables-glossary",
-                        "es": "glosario-de-variables",
-                        "pt": "glossario-de-variaveis"
+                        "en": "flow-analysis-subcategory",
+                        "es": "analisis-de-los-flujos-subcategoria",
+                        "pt": "analise-dos-fluxos-subcategoria"
                       },
                       "origin": "",
-                      "type": "markdown",
-                      "children": []
+                      "type": "category",
+                      "children": [
+                        {
+                          "name": {
+                            "en": "Downloading and extracting archived data",
+                            "es": "Descargar y extraer datos archivados",
+                            "pt": "Baixar, extrair, transformar e combinar os dados arquivados do Fluxo de automação"
+                          },
+                          "slug": {
+                            "en": "how-to-download-and-extract-archived-data",
+                            "es": "como-descargar-y-extraer-datos-archivados",
+                            "pt": "como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-fluxo-de-automacao"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Route markers",
+                            "es": "Marcadores de ruta",
+                            "pt": "Marcadores de rota"
+                          },
+                          "slug": {
+                            "en": "route-markers",
+                            "es": "marcadores-de-ruta",
+                            "pt": "marcadores-de-rota"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Viewing reports on the platform",
+                            "es": "Visualizando informes en la plataforma",
+                            "pt": "Visualizando relatórios na plataforma"
+                          },
+                          "slug": {
+                            "en": "viewing-reports-on-the-platform",
+                            "es": "visualizando-informes-en-la-plataforma",
+                            "pt": "visualizando-relatorios-na-plataforma"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        }
+                      ]
                     },
                     {
                       "name": {
-                        "en": "Import and export flows",
-                        "es": "Importar y exportar flujos",
-                        "pt": "Importar e exportar fluxos"
+                        "en": "Ready-made flows",
+                        "es": "Flujos listos",
+                        "pt": "Fluxos prontos"
                       },
                       "slug": {
-                        "en": "import-and-export-flows",
-                        "es": "importar-y-exportar-flujos",
-                        "pt": "importar-e-exportar-fluxos"
+                        "en": "ready-made-flows-subcategory",
+                        "es": "flujos-listos-subcategoria",
+                        "pt": "fluxos-prontos-subcategoria"
                       },
                       "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Expressions and variables introduction",
-                        "es": "Introducción a expresiones y variables",
-                        "pt": "Introdução a expressões e variáveis"
-                      },
-                      "slug": {
-                        "en": "expressions-and-variables-introduction",
-                        "es": "introduccion-a-expresiones-y-variables",
-                        "pt": "introducao-a-expressoes-e-variaveis"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Route markers",
-                        "es": "Marcadores de ruta",
-                        "pt": "Marcadores de rota"
-                      },
-                      "slug": {
-                        "en": "route-markers",
-                        "es": "marcadores-de-ruta",
-                        "pt": "marcadores-de-rota"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Using expressions to capture the user's location",
-                        "es": "Utilizando expresiones para capturar la ubicación del usuario",
-                        "pt": "Utilizando expressões para captar a localização do usuário"
-                      },
-                      "slug": {
-                        "en": "using-expressions-to-capture-the-users-location",
-                        "es": "utilizando-expresiones-para-capturar-la-ubicacion-del-usuario",
-                        "pt": "utilizando-expressoes-para-captar-a-localizacao-do-usuario"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Viewing reports on the platform",
-                        "es": "Visualizando informes en la plataforma",
-                        "pt": "Visualizando relatórios na plataforma"
-                      },
-                      "slug": {
-                        "en": "viewing-reports-on-the-platform",
-                        "es": "visualizando-informes-en-la-plataforma",
-                        "pt": "visualizando-relatorios-na-plataforma"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
+                      "type": "category",
+                      "children": [
+                        {
+                          "name": {
+                            "en": "Construtor de Vendas API-integrated chatbot",
+                            "es": "Chatbot integrado a la API del Constructor de Ventas",
+                            "pt": "Chatbot integrado a API do Construtor de Vendas"
+                          },
+                          "slug": {
+                            "en": "construtor-de-vendas-api-integrated-chatbot",
+                            "es": "chatbot-integrado-a-la-api-del-constructor-de-ventas",
+                            "pt": "chatbot-integrado-a-api-do-construtor-de-vendas"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Chatbot integrado a API Omie",
+                            "es": "Chatbot integrado a API Omie",
+                            "pt": "Chatbot integrado a API Omie"
+                          },
+                          "slug": {
+                            "en": "chatbot-integrado-a-api-omie",
+                            "es": "chatbot-integrado-a-api-omie",
+                            "pt": "chatbot-integrado-a-api-omie"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Sienge API-integrated chatbot",
+                            "es": "Chatbot integrado a la API Sienge",
+                            "pt": "Chatbot integrado a API Sienge"
+                          },
+                          "slug": {
+                            "en": "sienge-api-integrated-chatbot",
+                            "es": "chatbot-integrado-a-la-api-sienge",
+                            "pt": "chatbot-integrado-a-api-sienge"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        }
+                      ]
                     }
                   ]
                 },

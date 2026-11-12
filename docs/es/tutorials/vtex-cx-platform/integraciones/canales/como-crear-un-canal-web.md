@@ -26,14 +26,14 @@ Al integrar el canal, puedes personalizar aspectos del Web Chat como: color, tie
 5. Haz clic en el botón **Acceder a mis aplicaciones** y luego haz clic nuevamente en la tarjeta de **VTEX CX Platform Web Chat** para acceder a las configuraciones de personalización.
 6. Al abrir el panel de personalización de **VTEX CX Platform Web Chat**, tendrás las siguientes opciones para configurar:
 
-- Título de tu chat;
-- Subtítulo del chat (opcional);
-- Mensaje inicial: cuando está activado, es el primer mensaje que envía tu chatbot (opcional);
-- Mensaje de notificación del chat (opcional);
-- Mostrar botón de pantalla completa (opcional);
-- Indicador de mensajes no leídos (opcional);
-- Mantener historial de mensajes (opcional);
-- Tiempo entre los mensajes.
+    - Título de tu chat;
+    - Subtítulo del chat (opcional);
+    - Mensaje inicial: cuando está activado, es el primer mensaje que envía tu chatbot (opcional);
+    - Mensaje de notificación del chat (opcional);
+    - Mostrar botón de pantalla completa (opcional);
+    - Indicador de mensajes no leídos (opcional);
+    - Mantener historial de mensajes (opcional);
+    - Tiempo entre los mensajes.
 
 7. En la pestaña de apariencia, tienes la opción de personalizar el chat a través de formato CSS. Además, puedes importar una imagen en formato PNG, JPG o JPEG para usarla como avatar y también cambiar el color de tu chat.
 8. Al finalizar la personalización, para instalar **VTEX CX Platform Web Chat** en tu sitio web, copia este código, que aparecerá al hacer clic en "código script", y pégalo justo antes de la última etiqueta `</body>` en tu sitio web.

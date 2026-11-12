@@ -21,7 +21,7 @@ La VTEX CX Platform te permite probar el bot de WhatsApp a través de nuestro **
 2. Después de añadirlo, podrás encontrarlo en **Mis Aplicaciones**.
 3. Para probar tu canal Demo, haz clic en la aplicación en **Mis Aplicaciones** y se abrirá una nueva ventana.
 
-Puedes usar el **código QR** o copiar el enlace y abrirlo en el navegador.
+    Puedes usar el **código QR** o copiar el enlace y abrirlo en el navegador.
 
 4. En tu navegador, pega la URL que copiaste en el paso anterior.
 5. Al abrir WhatsApp Web, verás un código único que es la identificación de tu bot. Inicia la conversación.

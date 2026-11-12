@@ -27,7 +27,7 @@ This practice involves providing methods for users to stop communication wheneve
 - Transparent: From the beginning of the interactions, companies need to inform customers how they can opt out of receiving messages.
 
 The opt-out practice is essential to ensure respect for user privacy and preferences, promoting a transparent and reliable communication experience.
-**The reasons that might lead a customer to request an opt-out can vary, such as:**
+The reasons that might lead a customer to request an opt-out can vary, such as:
 
 - Disinterest in the content being sent;
 - Resolution of the issue the customer had;

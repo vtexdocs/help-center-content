@@ -51,14 +51,14 @@ If you want to remove a Facebook account from Account Center, take the steps bel
 2. Tap menu, top-right, and **Settings**.
 3. Tap **Accounts Center** at the bottom and tap your name at the top.
 4. Tap your connected account and **Remove from Account Center**.
-5. Tap **Continue** and **Remove \[Username].**
+5. Tap **Continue** and **Remove \[Username]**.
 6. After that, you can link the account you want.
 
 Add or change the Facebook page connected to your Instagram account:
 
 1. Access your profile.
-2. Select **Edit profile.**
-3. Under Public Business Information, select **Page.**
+2. Select **Edit profile**.
+3. Under Public Business Information, select **Page**.
 4. Choose the Page you want to connect to, or select **Create a new Facebook Page.**
 
 ### Allow access to messages
@@ -67,7 +67,7 @@ This permission makes it possible for you to manage your Instagram messages thro
 
 1. Access your **profile** by tapping your profile picture in the lower right corner,
 2. Tap menu, top-right, and **Settings**.
-3. Tap **Privacy.** Under Interactions tap **Messages.**
+3. Tap **Privacy**. Under Interactions tap **Messages**.
 4. Below Connected Tools **enable Allow access to messages**.
 
 Done! After performing these steps, your Instagram account is able to create a channel on our platform.

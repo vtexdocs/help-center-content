@@ -32,19 +32,19 @@ Para asignar un nuevo agente a tu tienda sigue los pasos a continuación:
 
 1. Accede a tu organización en el [dashboard de VTEX CX Platform](https://dash.weni.ai/orgs).
 2. En el menú lateral, haz clic en el ícono **Mis agentes**.
-3. Haz clic en <i class="fas fa-plus" aria-hidden="true"></i>`Asignar nuevos agentes`.
+3. Haz clic en <i class="fas fa-plus" aria-hidden="true"></i> `Asignar nuevos agentes`.
 4. En la página **Asignar nuevos agentes**, selecciona una de las opciones disponibles:
-- **Agentes oficiales:** agentes de VTEX o de integraciones externas previamente registradas en la plataforma.
-- **Agentes personalizados:** agentes creados para tu operación.
+    - **Agentes oficiales:** agentes de VTEX o de integraciones externas previamente registradas en la plataforma.
+    - **Agentes personalizados:** agentes creados para tu operación.
 
-> ℹ️ También puedes encontrar agentes utilizando el campo de búsqueda o filtrando por tipo de categoría.
+    > ℹ️ También puedes encontrar agentes utilizando el campo de búsqueda o filtrando por tipo de categoría.
 
 5. Después de elegir un agente, haz clic en `Ver detalles`.
 6. En el modal del agente revisa la información sobre los MCPs disponibles y el ejemplo de conversación.
 7. Haz clic en `Iniciar configuración`.
-8. En **Asignar {Nombre del agente}**, en la sección **Selección de sistema**, elige una de las opciones disponibles y haz clic en `Siguiente`.
+8. En **Asignar \{Nombre del agente\}**, en la sección **Selección de sistema**, elige una de las opciones disponibles y haz clic en `Siguiente`.
 9. En **Selección de MCP**, selecciona una de las opciones disponibles para definir el comportamiento del agente.
-10. En **Configurar MCP {Nombre del sistema}**, si está disponible, completa o selecciona los parámetros del agente. Algunos agentes no tienen parámetros configurables.
+10. En **Configurar MCP \{Nombre del sistema\}**, si está disponible, completa o selecciona los parámetros del agente. Algunos agentes no tienen parámetros configurables.
 11. Para agentes personalizados, en **Constantes**, selecciona las constantes definidas mediante la CLI e ingresa los valores deseados. Más información en [Configurar constantes de agentes personalizados](#configurar-constantes-de-agentes-personalizados).
 12. En **Revisa la configuración e ingresa las credenciales**, revisa la información, llena los campos solicitados y haz clic en `Finalizar`.
 

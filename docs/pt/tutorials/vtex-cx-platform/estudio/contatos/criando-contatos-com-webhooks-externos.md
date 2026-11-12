@@ -27,16 +27,16 @@ Normalmente, os webhooks são disparados a partir de um determinado evento dentr
 
 ## Adicionando Contatos
 
-Você pode adicionar um novo contato enviando uma requisição **POST** para essa URL com os seguintes dados:
+Você pode adicionar um novo contato enviando uma requisição `POST` para essa URL com os seguintes dados:
 
-- **Name** - o nome completo do contato (string, opcional)
-- **Language** - o idioma preferido do contato (ISO Code de 3 dígitos, opcional)
-- **Urns** - uma lista de URNs que você quer associar a esse contato (array de até 100 strings, opcional). Dentro das URNs é usado um prefixo com o canal no qual a comunicação com esse contato pode ser iniciada, segue alguns exemplos abaixo:tel: Telefone para envios de SMS e Ligações;- whatsapp: Telefone de WhatsApp para comunicação por esse canal, veja que nesse caso devem ser utilizados 8 ou 9 dígitos para o telefone, dependendo de como esse número está no WhatsApp;- mailto: E-mail não é um canal de comunicação para recebimento, apenas para envio;
+- **Name** - o nome completo do contato (string, opcional)
+- **Language** - o idioma preferido do contato (ISO Code de 3 dígitos, opcional)
+- **Urns** - uma lista de URNs que você quer associar a esse contato (array de até 100 strings, opcional). Dentro das URNs é usado um prefixo com o canal no qual a comunicação com esse contato pode ser iniciada, segue alguns exemplos abaixo:tel: Telefone para envios de SMS e Ligações;- whatsapp: Telefone de WhatsApp para comunicação por esse canal, veja que nesse caso devem ser utilizados 8 ou 9 dígitos para o telefone, dependendo de como esse número está no WhatsApp;- mailto: E-mail não é um canal de comunicação para recebimento, apenas para envio;
 - **Ext:** - Identificador externo que pode ser utilizado para o canal externo ou para facilitar a busca de um contato por meio de um identificador qualquer.
-- **Groups** - uma lista de UUIDs de grupos que esse contato faz parte, grupos são explicados abaixo (array de até 100 strings, opcional)
-- **Fields** - os campos de contato que você quer configurar ou atualizar para esse contato, os campos precisam estar previamente criados (dicionário com até 100 itens, opcional). Exemplo:
+- **Groups** - uma lista de UUIDs de grupos que esse contato faz parte, grupos são explicados abaixo (array de até 100 strings, opcional)
+- **Fields** - os campos de contato que você quer configurar ou atualizar para esse contato, os campos precisam estar previamente criados (dicionário com até 100 itens, opcional). Exemplo:
 
-```
+```http
 POST /api/v2/contacts.json
 ​{​
 ​""name""​:​ ​""John Cordeiro""​,​
@@ -57,7 +57,7 @@ POST /api/v2/contacts.json
 
 ## Atualizando Contatos
 
-Uma requisição **POST** também pode ser usada para atualizar um contato existente se você especificar pela URL tanto o seu UUID quanto uma de suas URNs. Apenas aqueles campos incluídos no corpo serão atualizados no contato, os demais permanecerão intactos.
+Uma requisição `POST` também pode ser usada para atualizar um contato existente se você especificar pela URL tanto o seu UUID quanto uma de suas URNs. Apenas aqueles campos incluídos no corpo serão atualizados no contato, os demais permanecerão intactos.
 
 Se estiver passando uma URN na URL, então não inclua ela no corpo. Também note que nós criaremos um novo contato caso não exista nenhum com essa URN, você receberá uma resposta 201 caso isso aconteça.
 
@@ -86,11 +86,11 @@ POST ​/​api​/​v2​/​contacts​.​json​?​urn​=​tel​%​3A�
 
 ## Deletando Contatos
 
-Uma requisição **DELETE** também pode ser usada para deletar um contato existente se você especificar na URL tanto o seu UUID quanto uma de suas URNs.
+Uma requisição `DELETE` também pode ser usada para deletar um contato existente se você especificar na URL tanto o seu UUID quanto uma de suas URNs.
 
 Exemplo:
 
-```
+```http
 DELETE /api/v2/contacts.json?uuid=27fb583b-3087-4778-a2b3-8af489bf4a93
 
 DELETE /api/v2/contacts.json?urn=tel%3A%2B250783835665
@@ -100,10 +100,10 @@ Você receberá uma resposta 204 se seu contato for deletado, ou uma resposta 40
 
 ## Adicionando campos personalizados
 
-Uma requisição **POST** pode ser usada para criar um novo campo de contato. Você não precisa especificar uma chave, nós geraremos uma para você.
+Uma requisição `POST` pode ser usada para criar um novo campo de contato. Você não precisa especificar uma chave, nós geraremos uma para você.
 
-- **label** - A label de exibição (string)
-- **value_type** - um dos tipos de dados aceitos (string)
+- **label** - A label de exibição (string)
+- **value_type** - um dos tipos de dados aceitos (string)
 - **text:** Campos do tipo texto
 - **datetime:** Campos com informação de data e hora (exemplo do formato: 2020-01-31T09:27:39.071299-03:00)
 - **numeric:** Campos numéricos.
@@ -130,11 +130,11 @@ Você receberá um objeto (com a nova chave do campo) se a resposta for bem suce
 
 ## Adicionando um Grupo de Contato
 
-Uma requisição **POST** pode ser usada para criar um novo grupo de contato. Não especifique um UUID, nós geraremos um pra você.
+Uma requisição `POST` pode ser usada para criar um novo grupo de contato. Não especifique um UUID, nós geraremos um pra você.
 
-- **name** - o nome do grupo (string)Example:
+- **name** - o nome do grupo (string)Example:
 
-```
+```http
 POST /api/v2/groups.json
 ​{​
 ​""name""​:​ ​""""​
@@ -154,7 +154,7 @@ Você receberá um objeto de grupo se a resposta for bem sucedida:
 
 ## Atualizando um grupo
 
-Uma requisição **POST** pode ser usada para atualizar um grupo de contatos existente se você especificar na URL o seu UUID.
+Uma requisição `POST` pode ser usada para atualizar um grupo de contatos existente se você especificar na URL o seu UUID.
 
 Exemplo:
 
@@ -178,7 +178,7 @@ Você receberá um objeto de grupo atualizado se a resposta for bem sucedida:
 
 ## Deletando um Grupo
 
-Uma requisição **DELETE** pode ser usada para deletar um grupo de contato se você especificar na URL o seu UUID.
+Uma requisição `DELETE` pode ser usada para deletar um grupo de contato se você especificar na URL o seu UUID.
 
 Notas: - Você não pode deletar grupos que estão associados à campanhas, fluxos ou triggers. Você deve primeiro deletar objetos relacionados através da interface web.
 

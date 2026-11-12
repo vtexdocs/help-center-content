@@ -38,7 +38,7 @@ Sua conta agora é empresarial.
 
 ### Conectar a conta do Instagram ao perfil do Facebook
 
-1. Acesse **Configurações.**
+1. Acesse **Configurações**.
 2. Toque em **Central de Contas** na parte inferior e, depois, em **Configurar a Central de Contas**.
 
 3. Toque em **Perfis** **> Adicionar contas >** **Adicionar conta do Facebook** e conecte\-se a ela ou selecione a conta à qual deseja se conectar.
@@ -52,13 +52,13 @@ Caso queira remover uma conta do Facebook da Central de Contas, realize os passo
 2. Toque em menu, no canto superior direito e em **configurações**.
 3. Toque em **Central de Contas** na parte inferior e toque no seu nome na parte superior.
 4. Toque na sua conta conectada e em **Remover da Central de Contas**.
-5. Toque em **Continuar** e em **Remover \[Nome de Usuário].**
+5. Toque em **Continuar** e em **Remover \[Nome de Usuário]**.
 6. Após isso, poderá vincular a conta que deseja.
 
 ### Adicionar ou alterar a Página do Facebook
 
 1. Acesse o seu perfil.
-2. Selecione **Editar perfil.**
+2. Selecione **Editar perfil**.
 3. Sob Informações comerciais públicas, selecione **Página**.
 4. Escolha a Página a qual deseja se conectar ou selecione **Criar uma nova Página do Facebook**.
 

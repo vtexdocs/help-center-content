@@ -33,7 +33,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 9. On the Slack apps page, go to the Basic Information menu to copy the `Verification Token`.
 
-10. Go to **Applications > Discovery** and add the Slack app. After adding the app, you will be able to fill in the tokens. Once you have filled in all the fields in the form below—User OAuth Token, Bot User OAuth Token, and Verification Token—click the "Save changes" button to complete the process.
+10. Go to **Applications > Discovery** and add the Slack app. After adding the app, you will be able to fill in the tokens. Once you have filled in all the fields in the form below—User OAuth Token, Bot User OAuth Token, and Verification Token—click the `Save changes` button to complete the process.
 
 11. After the registration form is complete, copy the URL that will appear on the created channel configuration screen.
 
@@ -53,6 +53,6 @@ After these steps, the bot will be able to interact in the Slack workspace chann
 
 ## Activate quick replies and buttons
 
-In Slack, you need to enable sending quick replies in Features > Interactivity \& Shortcuts. In the Interactivity tab, add the Flows callback URL in the Request URL field.
+In Slack, you need to enable sending quick replies in Features > Interactivity & Shortcuts. In the Interactivity tab, add the Flows callback URL in the Request URL field.
 
 With all these steps, your Slack bot channel will be integrated and able to send and receive messages in the Slack channels where the bot is added or in direct messages.
