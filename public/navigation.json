@@ -34393,17 +34393,17 @@
               "children": [
                 {
                   "name": {
-                    "en": "Messages",
-                    "es": "Mensajes",
-                    "pt": "Mensagens"
+                    "en": "Contact's messages",
+                    "es": "Mensajes de contacto",
+                    "pt": "Mensagens do contato"
                   },
                   "slug": {
-                    "en": "messages-subcategory",
-                    "es": "mensajes-subcategoria",
-                    "pt": "mensagens-subcategoria"
+                    "en": "contacts-messages",
+                    "es": "mensajes-de-contacto",
+                    "pt": "mensagens-do-contato"
                   },
                   "origin": "",
-                  "type": "category",
+                  "type": "markdown",
                   "children": [
                     {
                       "name": {
@@ -34419,21 +34419,6 @@
                       "origin": "",
                       "type": "markdown",
                       "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Contact's messages",
-                        "es": "Mensajes de contacto",
-                        "pt": "Mensagens do contato"
-                      },
-                      "slug": {
-                        "en": "contacts-messages",
-                        "es": "mensajes-de-contacto",
-                        "pt": "mensagens-do-contato"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
                     }
                   ]
                 },
@@ -34444,12 +34429,12 @@
                     "pt": "Contatos"
                   },
                   "slug": {
-                    "en": "contacts-subcategory",
-                    "es": "contactos-subcategoria",
-                    "pt": "contatos-subcategoria"
+                    "en": "introduction-to-contacts",
+                    "es": "introduccion-a-contactos",
+                    "pt": "introducao-a-contatos"
                   },
                   "origin": "",
-                  "type": "category",
+                  "type": "markdown",
                   "children": [
                     {
                       "name": {
@@ -34540,21 +34525,6 @@
                       "origin": "",
                       "type": "markdown",
                       "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Introduction to contacts",
-                        "es": "Introducción a contactos",
-                        "pt": "Introdução a contatos"
-                      },
-                      "slug": {
-                        "en": "introduction-to-contacts",
-                        "es": "introduccion-a-contactos",
-                        "pt": "introducao-a-contatos"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
                     }
                   ]
                 },
@@ -34565,12 +34535,12 @@
                     "pt": "Campanhas"
                   },
                   "slug": {
-                    "en": "campaigns-subcategory",
-                    "es": "campanas-subcategoria",
-                    "pt": "campanhas-subcategoria"
+                    "en": "campaign-introduction",
+                    "es": "introduccion-a-campanas",
+                    "pt": "introducao-a-campanhas"
                   },
                   "origin": "",
-                  "type": "category",
+                  "type": "markdown",
                   "children": [
                     {
                       "name": {
@@ -34582,21 +34552,6 @@
                         "en": "how-to-create-a-campaign",
                         "es": "como-crear-una-campana",
                         "pt": "como-criar-uma-campanha"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Campaign introduction",
-                        "es": "Introducción a campañas",
-                        "pt": "Introdução a Campanhas"
-                      },
-                      "slug": {
-                        "en": "campaign-introduction",
-                        "es": "introduccion-a-campanas",
-                        "pt": "introducao-a-campanhas"
                       },
                       "origin": "",
                       "type": "markdown",
