@@ -1,9 +1,9 @@
 ---
-title: 'Criação de fluxos'
+title: 'Criar um fluxo'
 id: 6AoGPZEA6aihcY2bS85Wz4
 status: PUBLISHED
 createdAt: 2025-09-16T16:29:17.584Z
-updatedAt: 2026-11-12T12:20:00.000Z
+updatedAt: 2026-11-12T17:20:00.000Z
 publishedAt: 2025-10-03T14:20:04.194Z
 firstPublishedAt: 2025-10-03T14:20:04.194Z
 contentType: tutorial
@@ -16,20 +16,44 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 categoryCover: true
 ---
 
-Para criar um fluxo, informe o nome, as palavras-chave dos triggers globais e o método de uso.
+Um fluxo é uma sequência de ações e decisões que automatiza interações com contatos. Depois de criar o fluxo, você adiciona as etapas no editor de fluxos.
 
-1. Clique em **Fluxo de automação** (em **Agent Builder**) no menu lateral.
-2. Na página de fluxos, clique em **Criar fluxo**.
-3. No pop-up de criação, preencha os campos **Nome**, **Palavras-chave dos Triggers globais** e **Digite**:
+> Para saber como um fluxo é estruturado, consulte [Fluxo de automação](https://help.vtex.com/pt/docs/tutorials/visao-geral-fluxo-de-automacao).
 
-- **Nome**: É o nome que queremos dar para o nosso fluxo. Campo obrigatório, mas que pode ser editado depois.
-- **Palavras-chave dos Triggers globais**: Nesse campo, você pode escolher uma palavra-chave global que funcionará como um trigger para o seu fluxo. Esse campo não é obrigatório, e você pode criar um trigger para seu fluxo quando quiser clicando na opção Triggers no menu superior. Para mais detalhes, visite o artigo sobre triggers.
-- **Digite**: Campo obrigatório responsável por definir qual vai ser o método utilizado pelo seu fluxo.
+## Antes de começar
 
-Por padrão, a opção **Mensagem** vem marcada. Um fluxo que utiliza o método de mensagens é um fluxo criado para ser utilizado em canais de texto, como o WhatsApp, Facebook Messenger, SMS, entre outros.
+Apenas usuários com permissão de administrador, moderador ou colaborador podem criar fluxos.
 
-Além disso, temos mais duas opções: **Chamada Telefônica** e **Pesquisador**.
+## Criar um fluxo
 
-Um fluxo que utiliza o método Phone Call é um fluxo criado para ser utilizado em canais de ligação. Existem algumas cartas de ação e decisão especiais para esse tipo de fluxo, que você pode conhecer visitando o artigo sobre fluxos de ligação.
+1. Acesse sua organização no dashboard do [VTEX CX Platform](https://dash.weni.ai/orgs).
+2. No menu lateral, clique em **Fluxo de automação**.
+3. Clique em `Criar fluxo`.
+4. Em **Nome**, insira um nome para o fluxo.
+5. (Opcional) Em **Palavras-chave dos Triggers globais**, insira as palavras-chave que iniciam o fluxo quando um contato as envia.
 
-Agora que você conhece as configurações, clique em **Criar** e comece a criação do seu novo fluxo, devidamente configurado para a finalidade desejada.
+    > ⚠️ Se o Agent Builder estiver ativo, as palavras-chave e outros triggers não iniciam este fluxo. O Agent Builder inicia o fluxo.
+
+    Você pode deixar este campo vazio e adicionar triggers depois. Para mais informações, consulte [Criar um trigger](https://help.vtex.com/pt/docs/tutorials/como-criar-um-disparador) e [Tipos de Trigger](https://help.vtex.com/pt/docs/tutorials/tipos-de-gatilho).
+
+6. Em **Tipo**, selecione **Mensagem**, **Chamada Telefônica** ou **Pesquisador**. **Mensagem** é selecionada por padrão. Para escolher um tipo, consulte [Tipos de fluxo](#tipos-de-fluxo).
+7. Clique em `Criar`.
+
+O fluxo é criado. Você pode adicionar ações e decisões no editor de fluxos. Para mais informações, consulte [Editor de fluxos](https://help.vtex.com/pt/docs/tutorials/editor-de-fluxo-e-suas-ferramentas).
+
+## Tipos de fluxo
+
+O tipo controla como o fluxo interage com os contatos.
+
+- **Mensagem:** Use este tipo para canais de texto, como WhatsApp, Facebook Messenger e SMS. Esta opção é selecionada por padrão.
+- **Chamada Telefônica:** Use este tipo para canais de ligação. Este tipo inclui cartas de ação e decisão para chamadas.
+- **Pesquisador:** Use este tipo para fluxos que coletam respostas de pesquisas.
+
+## Saiba mais
+
+Para construir e gerenciar o fluxo, consulte:
+
+- [Editor de fluxos](https://help.vtex.com/pt/docs/tutorials/editor-de-fluxo-e-suas-ferramentas)
+- [Cartas de ação](https://help.vtex.com/pt/docs/tutorials/cartas-de-acao)
+- [Cartas de decisão](https://help.vtex.com/pt/docs/tutorials/cartas-de-decisao)
+- [Importar e exportar fluxos](https://help.vtex.com/pt/docs/tutorials/importar-e-exportar-fluxos)

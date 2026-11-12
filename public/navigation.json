@@ -33969,9 +33969,9 @@
                   "children": [
                     {
                       "name": {
-                        "en": "Flows creation",
-                        "es": "Creación de flujos",
-                        "pt": "Criação de fluxos"
+                        "en": "Creating a flow",
+                        "es": "Crear un flujo",
+                        "pt": "Criar um fluxo"
                       },
                       "slug": {
                         "en": "flows-creation",
@@ -70507,6 +70507,21 @@
                 "en": "amazonmatch-in-some-cases-sku-reverts-to-pending-review-after-match-confirmation-with-no-indication-of-amazons-rejection-reason",
                 "es": "amazoncoincidencia-en-algunos-casos-el-sku-vuelve-a-estar-en-pendiente-de-revision-despues-de-la-confirmacion-de-la-coincidencia-sin-ninguna-indicacion-del-motivo-del-rechazo-de-amazon",
                 "pt": "amazonmatch-em-alguns-casos-o-sku-volta-para-aguardando-revisao-apos-a-confirmacao-da-correspondencia-sem-nenhuma-indicacao-do-motivo-da-rejeicao-da-amazon"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "APP FBE Store pages wait for an external file to load when Facebook Business Extension is installed",
+                "es": "APP FBE Las páginas de la tienda esperan a que se cargue un archivo externo cuando se instala la extensión de Facebook Business.",
+                "pt": "APP FBE As páginas da loja aguardam o carregamento de um arquivo externo quando a Extensão de Negócios do Facebook está instalada."
+              },
+              "slug": {
+                "en": "app-fbe-store-pages-wait-for-an-external-file-to-load-when-facebook-business-extension-is-installed",
+                "es": "app-fbe-las-paginas-de-la-tienda-esperan-a-que-se-cargue-un-archivo-externo-cuando-se-instala-la-extension-de-facebook-business",
+                "pt": "app-fbe-as-paginas-da-loja-aguardam-o-carregamento-de-um-arquivo-externo-quando-a-extensao-de-negocios-do-facebook-esta-instalada"
               },
               "origin": "",
               "type": "markdown",

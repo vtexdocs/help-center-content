@@ -1,199 +1,135 @@
 ---
 title: 'VTEX CX Platform'
 createdAt: 2026-03-31T15:33:34.931Z
-updatedAt: 2026-07-30T00:00:00.000Z
+updatedAt: 2026-11-12T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: vtex-cx-platform-overview
 locale: pt
 categoryCover: true
+seeAlso:
+  - /pt/docs/tutorials/atribuir-e-testar-agentes
+  - /pt/docs/tutorials/gerenciar-membros-do-vtex-cx-platform
+  - /pt/docs/tutorials/nocoes-basicas-sobre-integracoes
+  - /pt/docs/tutorials/configurar-o-live-desk
 ---
-
-> ℹ️ Para saber mais sobre a VTEX CX Platform e implementá-la em sua pessoa jurídica, [agende uma demonstração](https://www.vtex.com/en-us/products/cx_platform/). Se a loja estiver em um período de teste e for elegível para um plano padrão, consulte [Assinar um plano da VTEX CX Platform](https://help.vtex.com/pt/docs/tutorials/assinar-um-plano-da-vtex-cx-platform).
 
 O **VTEX CX Platform** é a solução de commerce conversacional que permite criar agentes de inteligência artificial (IA) autônomos para atuar em toda a jornada do cliente, do primeiro contato ao pós-venda. Esses agentes executam ações diretamente na sua operação, como consultar o status de um pedido, aplicar promoções, finalizar a compra e recuperar carrinhos abandonados.
 
-A plataforma se conecta nativamente à sua operação de commerce, como pedidos, catálogo, checkout e promoções. Isso dá aos agentes acesso a dados em tempo real e permite resolver as solicitações dos clientes de ponta a ponta em uma única conversa, em canais como WhatsApp, webchat, voz, email e redes sociais.
+A plataforma se conecta nativamente à sua operação de commerce, incluindo pedidos, catálogo, checkout e promoções. Isso dá aos agentes acesso a dados em tempo real e permite resolver as solicitações dos clientes de ponta a ponta em uma única conversa, em canais como WhatsApp, webchat, voz, email e redes sociais.
 
-## Funcionalidades
+> ℹ️ Para avaliar o VTEX CX Platform para sua empresa, [agende uma demonstração](https://www.vtex.com/en-us/products/cx_platform/). Se a loja estiver em período de teste e for elegível para um plano padrão, consulte [Assinando um plano da VTEX CX Platform](https://help.vtex.com/pt/docs/tutorials/assinando-um-plano-da-vtex-cx-platform).
 
-Confira algumas das funcionalidades do **VTEX CX Platform**:
+## Principais casos de uso
 
-- **Agentes autônomos** planejam e executam tarefas complexas, sem depender de fluxos fixos e predefinidos.
-- **Concierge de produtos** recomenda itens com base no catálogo, no estoque e nas promoções em tempo real.
-- **Acompanhamento de pedidos** informa o status em tempo real por meio do acesso nativo ao OMS.
-- **Trocas, devoluções e cancelamentos** são resolvidos de ponta a ponta, sem intervenção humana.
-- **Recuperação de carrinhos abandonados** reengaja o cliente com contexto do produto e checkout direto na conversa.
-- **Pagamento no chat** finaliza a compra sem sair da conversa, com Pix, crédito ou débito.
-- **Campanhas conversacionais** promovem reativação, reposição de estoque e upsell por meio de mensagens com templates aprovados.
-- **Analytics** oferece dados e métricas sobre os atendimentos e os resultados da operação.
+Você pode usar o VTEX CX Platform para:
 
-Este tutorial ajuda você a navegar pela plataforma e está dividido nas seguintes seções:
+- Ajudar clientes a encontrar produtos com base nas necessidades e nas informações atuais do catálogo.
+- Responder a perguntas sobre pedidos e fornecer atualizações de rastreamento.
+- Automatizar trocas, devoluções e cancelamentos elegíveis.
+- Recuperar carrinhos abandonados e direcionar os clientes de volta ao checkout.
+- Aceitar formas de pagamento compatíveis em uma conversa.
+- Enviar campanhas conversacionais de reativação, reposição e upsell.
+- Transferir uma conversa para um atendente quando for necessário atendimento humano.
+- Monitorar conversas, desempenho do atendimento e resultados operacionais.
 
-- [Cadastrar e fazer login](#cadastrar-e-fazer-login)
-- [Criar organização e projeto](#criar-organização-e-projeto)
-- [Acessar perfil](#acessar-perfil)
-- [Sistema de permissões](#sistema-de-permissões)
-- [Alterar idioma da plataforma](#alterar-idioma-da-plataforma)
+As funcionalidades disponíveis dependem do plano, das integrações, dos canais e da configuração do projeto.
 
-## Cadastrar e fazer login
+## Como a plataforma é organizada
 
-Ao acessar a plataforma, você pode criar um cadastro gratuito ou fazer login em uma conta existente.
+O acesso e os recursos são organizados em dois níveis:
 
-Para criar um cadastro gratuito, siga os passos abaixo:
+- **Organização:** Agrupa os projetos e membros da empresa. As funções da organização definem o acesso em toda a organização.
+- **Projeto:** Contém agentes, conhecimento, canais, contatos, conversas e configurações de uma operação ou caso de uso específico. As funções do projeto definem o que cada membro pode fazer nele.
 
-1. Acesse o [VTEX CX Platform](https://accounts.weni.ai/auth/realms/weni/login-actions/registration?client_id=weni-webapp&tab_id=GrzDdSDmT-8&client_data=eyJydSI6Imh0dHBzOi8vZGFzaC53ZW5pLmFpL3Byb2plY3RzLzZjZjZiODIzLTFkYjktNDg5Ny04NTFmLWM2OTZlOTkxMjA2NS9zZXR0aW5ncy9wcm9qZWN0L3IvaW5pdCIsInJ0IjoiY29kZSIsInJtIjoiZnJhZ21lbnQiLCJzdCI6IjcwOGI1OTA4LTcwMTktNDcxMi05YTQ5LWY3OGRhMTM5MGM2OCJ9).
-2. Insira seu email e a senha desejada.
-3. Clique em `Criar uma conta`.
+Depois de abrir um projeto, use o menu principal para acessar os seguintes módulos:
 
-Você também pode fazer o cadastro com os seguintes provedores: **GitHub**, **Google** e **Microsoft**.
+- **Agent Builder:** Configure e teste agentes de IA, adicione fontes de conhecimento, defina instruções e crie fluxos de automação. Consulte [Agent Builder](https://help.vtex.com/pt/docs/tutorials/visao-geral-agent-builder).
+- **Studio:** Gerencie contatos, mensagens, campanhas e gatilhos de conversas.
+- **Live Desk:** Atenda conversas que exigem suporte humano e consulte o histórico de atendimento. Consulte [Live Desk](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk).
+- **Analytics:** Monitore atendimentos ativos e analise métricas de conversas, entrega de mensagens, equipe e operação. Consulte [Analytics: Métricas de atendimento](https://help.vtex.com/pt/docs/tutorials/analytics-metricas-de-atendimento).
+- **Auditoria:** Revise conversas atendidas por agentes de IA, investigue resultados e identifique oportunidades de melhoria. Consulte [Auditoria](https://help.vtex.com/pt/docs/tutorials/auditoria-overview).
+- **Integrações:** Conecte canais de comunicação e aplicativos externos ao projeto.
+- **Configurações:** Gerencie preferências, credenciais, membros e opções de segurança do projeto. Consulte [Configurações CX Platform: Espaço de trabalho](https://help.vtex.com/pt/docs/tutorials/configuracoes-cx-platform-espaco-de-trabalho).
 
-Se você concluiu o cadastro ou recebeu um convite para uma organização, mas ainda não tem cadastro na plataforma, preencha os campos exibidos na tela e clique em `Avançar`.
+## Primeiros passos
 
-Para fazer login em uma conta existente, siga os passos abaixo:
+### Criar ou acessar sua conta
 
-1. Acesse o [VTEX CX Platform](https://accounts.weni.ai/auth/realms/weni/protocol/openid-connect/auth?client_id=weni-webapp&redirect_uri=https%3A%2F%2Fdash.weni.ai%2Fprojects%2F6cf6b823-1db9-4897-851f-c696e9912065%2Fsettings%2Fproject%2Fr%2Finit&state=708b5908-7019-4712-9a49-f78da1390c68&response_mode=fragment&response_type=code&scope=email%20profile%20openid%20offline_access&code_challenge=FEKSvKUaU81i_zufbxFiZg40t-efyp6Krh2xutDxkSY&code_challenge_method=S256).
-2. Insira seu email e sua senha.
-3. Clique em `Entrar`.
+Acesse o [painel do VTEX CX Platform](https://dash.weni.ai/). Você pode criar uma conta com email e senha ou continuar com GitHub, Google ou Microsoft. Use o mesmo método nos próximos acessos.
 
-Se o seu cadastro foi feito com o **GitHub**, **Google** ou **Microsoft**, selecione uma dessas opções para fazer o login.
+Se você recebeu um convite, crie ou acesse a conta associada ao email convidado. Depois de entrar, selecione a organização e o projeto incluídos no convite.
 
-### Preencher os dados de organização e projeto
+### Criar uma organização e um projeto
 
-> ℹ️ Se a sua organização já existe e você foi convidado para ela, preencha os campos com nomes fictícios apenas para se registrar na plataforma. Não é necessário usar os nomes reais da empresa.
-
-Após preencher os campos, clique em `Avançar`.
-
-Em seguida, escolha entre criar um agente personalizado ou usar um template.
-
-Para criar um agente personalizado, preencha os campos abaixo:
-
-1. **Nome do agente**: nome do agente, como "Atendimento".
-2. **Objetivo**: objetivo do agente, como "Tirar dúvidas dos clientes".
-
-    > ℹ️ Defina claramente o objetivo principal do seu agente ao interagir com os clientes, por exemplo: "Auxiliar os clientes a encontrar produtos adequados às suas necessidades" ou "Fornecer suporte técnico". Isso orienta as conversas de forma direta e assertiva.
-
-3. **Conteúdo**: conteúdo de base do agente. Preencher o conteúdo é opcional na etapa de cadastro e pode ser adicionado depois.
-
-> ℹ️ Ao incluir uma base de conteúdo, você capacita seu agente inteligente a responder aos usuários com mais eficácia. Você pode importar informações essenciais arrastando e soltando arquivos, com o texto integrado automaticamente, inserindo conteúdos de sites ou escrevendo o que desejar na base.
-
-Os templates são fluxos prontos com finalidades específicas, divididos em três categorias: suporte, integrações e vendas. Ao clicar em um dos cards de uma categoria, você visualiza um pop-up que detalha o uso do template.
-
-> ℹ️ Se optar por um template, clique na aba correspondente e escolha um dos templates disponíveis.
-
-Clique em `Concluir` para seguir adiante.
-
-## Criar organização e projeto
-
-Para criar uma nova organização, siga os passos a seguir:
+Se você estiver configurando uma nova operação, siga estas etapas:
 
 1. Na página inicial do VTEX CX Platform, clique em <i class="fas fa-plus" aria-hidden="true"></i> `Criar organização`.
-2. Digite um nome para sua organização, a descrição da organização e o nome do projeto.
+2. Insira o nome e a descrição da organização e o nome do projeto.
 3. Clique em `Avançar`.
-4. Na etapa de configuração do projeto, você pode escolher entre **Criar um agente personalizado** ou **Usar template**.
+4. Escolha como iniciar o projeto:
+    - **Criar um agente personalizado:** Insira o nome e o objetivo do agente. Você também pode adicionar arquivos, conteúdo de sites ou textos para o agente usar como fonte de conhecimento.
+    - **Usar template:** Selecione um template de suporte, integração ou vendas, revise os detalhes e clique em `Usar template`.
+5. Preencha as informações solicitadas do projeto e clique em `Concluir`.
+6. Clique em `Começar` para abrir o projeto.
 
-Para criar um agente personalizado, siga o passo a passo a seguir:
+Adicionar conteúdo durante a configuração é opcional. Você pode atualizar o conhecimento do agente depois em **Agent Builder > Base de conhecimento**.
 
-1. Preencha o nome do agente e o objetivo desse agente.
-2. Em seguida, clique em <i class="fas fa-plus" aria-hidden="true"></i> `Adicionar conteúdo`.
-  - Nesse campo, você pode adicionar informações que o agente vai usar no seu projeto, como arquivos de catálogo ou o site da sua loja. Depois, clique em `Finalizar`.
-  - Essa etapa é opcional no momento de criação de uma organização e o conteúdo pode ser adicionado depois.
-3. Clique em `Concluir`.
+> ℹ️ Defina um objetivo específico para o agente, como "Ajudar clientes a encontrar produtos adequados às suas necessidades" ou "Responder a perguntas sobre pedidos". Um objetivo claro ajuda a determinar o comportamento esperado do agente e o conteúdo necessário.
 
-Os templates são fluxos prontos com finalidades específicas, divididos em três categorias: **Suporte**, **Integrações** e **Vendas**.
+Depois de criar o projeto, convide sua equipe e atribua somente as permissões necessárias. Para ver as instruções, consulte [Gerenciar membros do VTEX CX Platform](https://help.vtex.com/pt/docs/tutorials/gerenciar-membros-do-vtex-cx-platform).
 
-Para usar um template, siga o passo a passo a seguir:
+## Funções e permissões
 
-1. Selecione um dos templates, como _Suporte_ ou _Captura de Leads_, para ver mais informações.
-2. Clique em `Usar template` para ativar o template.
-3. Preencha a descrição do projeto.
-4. Clique em `Concluir`.
+As permissões podem ser aplicadas a toda a organização ou a um projeto específico.
 
-Após criar um agente personalizado ou escolher um template, a última etapa é concluída. Para entrar no seu projeto, clique em `Começar`.
+### Funções da organização
 
-> ℹ️ Depois de criar a organização e o projeto, inclua a sua equipe configurando as permissões. As pessoas adicionadas à organização terão acesso a todos os projetos criados dentro dela. Para saber mais, consulte a seção [Sistema de permissões](#sistema-de-permissões).
+- **Admin:** Gerencia a organização, os membros e suas permissões.
+- **Financeiro:** Acessa as informações de faturamento.
+- **Contribuidor:** Cria projetos e edita conteúdo.
+- **Marketing:** Acessa contatos e envia templates de mensagens.
 
-Para saber como adicionar ou gerenciar membros da organização ou do projeto, acesse o artigo [Gerenciar membros do VTEX CX Platform](https://help.vtex.com/pt/docs/tutorials/gerenciar-membros-do-vtex-cx-platform).
+> ⚠️ As funções da organização se aplicam a todos os projetos dentro dela.
 
-## Alterar idioma da plataforma
+### Funções do projeto
 
-Para alterar o idioma, siga os passos abaixo:
+- **Moderador:** Tem acesso administrativo completo ao projeto.
+- **Contribuidor:** Edita recursos como fluxos, instruções e templates de mensagens.
+- **Visualizador:** Visualiza informações do projeto sem editá-las.
+- **Marketing:** Gerencia contatos, campanhas e gatilhos de campanhas.
+- **Human support:** Acessa o Live Desk para atender conversas com clientes.
+
+As funções do projeto se aplicam somente ao projeto em que foram atribuídas. Para adicionar membros ou alterar suas funções, abra o menu de ações da organização ou do projeto e clique em `Gerenciar membros`.
+
+## Preferências pessoais e segurança da conta
+
+Clique no seu nome de usuário e selecione `Perfil` para gerenciar suas informações pessoais, senha, preferências de email e configurações de segurança.
+
+### Alterar o idioma da interface
 
 1. Clique no seu nome de usuário.
 2. Clique em `Idioma`.
-3. Escolha um dos idiomas.
-  - No momento, a plataforma oferece quatro opções de idioma: **English**, **Español**, **Português (Brasil)** e **Română**.
+3. Selecione **English**, **Español**, **Português (Brasil)** ou **Română**.
 
-> ℹ️ Caso a plataforma não mude o idioma, você pode sair e entrar novamente na plataforma ou reiniciar o navegador.
+Se o idioma da interface não for atualizado, saia e entre novamente.
 
-## Acessar perfil
+### Ativar a autenticação de dois fatores
 
-A seção **Perfil** permite gerenciar sua conta e editar preferências pessoais, de segurança e notificações.
+A autenticação de dois fatores adiciona um código de verificação ao processo de login:
 
-Na aba **Perfil**, você pode mudar seu nome, sobrenome, foto de perfil, número de contato e senha.
+1. Clique no seu nome de usuário e selecione `Perfil`.
+2. Abra **Privacidade e segurança**.
+3. Ative `Habilitar autenticação`.
+4. Clique em `Salvar alterações`.
+5. Entre novamente e escaneie o QR code exibido com um aplicativo autenticador.
+6. Insira o código de uso único gerado pelo aplicativo e clique em `Salvar`.
 
-Em **Preferências**, você seleciona quais emails deseja receber do VTEX CX Platform.
+Depois da configuração, você deve inserir um código do aplicativo autenticador sempre que entrar.
 
-Em **Privacidade e segurança**, você consegue ativar a autenticação de dois fatores seguindo os passos abaixo:
+Os administradores da organização podem exigir autenticação de dois fatores de todos os membros:
 
-1. Clique no seu nome de usuário.
-2. Clique em `Perfil`.
-3. Selecione a seção **Privacidade e segurança**.
-4. Ative o botão `Habilitar autenticação`.
-5. Clique em `Salvar alterações`.
-
-Após salvar, você é deslogado da plataforma automaticamente.
-
-Ao fazer login novamente, siga os passos abaixo:
-
-1. Abra o aplicativo autenticador de sua escolha e escaneie o QR code exibido na tela.
-2. Na plataforma, digite o código de uso único que aparece no aplicativo.
-3. Clique em `Salvar` para concluir a configuração.
-
-> ℹ️ A partir de então, o login exigirá o código de verificação exibido no seu aplicativo autenticador.
-
-### Solicitação de autenticação na organização
-
-Para adicionar uma camada extra de segurança aos projetos e dados da sua organização, você pode permitir que apenas usuários com a autenticação de dois fatores habilitada entrem na organização.
-
-Para solicitar a autenticação de dois fatores na organização, siga os passos abaixo:
-
-1. Clique no ícone de <i class="fas fa-ellipsis-v" aria-hidden="true"></i> no card da organização.
-2. Clique em `Configurações`.
-3. Selecione a aba **Segurança**.
-4. Em **Autenticação de dois fatores**, clique no botão de alternância de **Ativar autenticação**.
-5. Por fim, clique em `Salvar alterações`.
-
-## Sistema de permissões
-
-No VTEX CX Platform, você pode gerenciar diferentes permissões para cada usuário, divididas em dois grupos:
-
-- [Permissões da organização](#permissões-da-organização)
-- [Permissões do projeto](#permissões-do-projeto)
-
-### Permissões da organização
-
-Essas permissões podem ser adicionadas na etapa de criação da organização ou a qualquer momento pelo ícone de configurações da organização.
-
-As permissões da organização estão descritas a seguir:
-
-- **Admin:** tem acesso completo à plataforma e pode adicionar novos membros ou mudar as permissões dos membros existentes.
-- **Financeiro:** acessa apenas a área de faturamento.
-- **Contribuidor:** pode criar novos projetos e editar conteúdo.
-- **Marketing:** acessa apenas o módulo de **Contatos** e consegue enviar templates de mensagens.
-
-> ⚠️ As permissões da organização se aplicam a todos os projetos dentro dela.
-
-### Permissões do projeto
-
-Também é possível adicionar permissões a um projeto específico, e não necessariamente à organização inteira. Para acessar as opções, clique em `Gerenciar membros` no projeto desejado.
-
-As permissões de projeto são as seguintes:
-
-- **Moderador:** tem acesso completo de administrador de um projeto. Pode realizar qualquer alteração ou configuração do projeto.
-- **Contribuidor:** pode editar conteúdo (por exemplo, fluxos, instruções, templates de mensagens).
-- **Visualizador:** apenas faz a leitura de informações, como fluxos, contatos, mensagens, mas sem poder editá-las.
-- **Marketing:** tem acesso aos módulos **Campanhas** e **Contatos** para configurar e gerenciar disparos de campanhas com templates.
-- **Human support:** permissão exclusiva do atendente humano. Apenas tem acesso ao módulo **Live Desk**.
-
-> ⚠️ As permissões de um projeto se aplicam especificamente ao projeto e podem ser diferentes das permissões de organização. Por exemplo, se um usuário tem permissão de Admin na organização e de Visualizador em um projeto, ele pode realizar modificações em toda a organização, exceto no projeto em que ele foi designado como Visualizador. Nesse projeto, ele não pode editar as informações, apenas visualizá-las.
+1. No card da organização, clique no ícone de menu <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
+2. Clique em `Configurações` e abra a aba **Segurança**.
+3. Em **Autenticação de dois fatores**, ative `Habilitar autenticação`.
+4. Clique em `Salvar alterações`.
