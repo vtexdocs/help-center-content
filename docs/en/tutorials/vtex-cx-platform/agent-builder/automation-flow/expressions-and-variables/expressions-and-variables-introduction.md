@@ -1,5 +1,5 @@
 ---
-title: "Expressions and variables introduction"
+title: "Expressions and variables"
 id: 4MDzN6Z7Sau2Xt1eyyQ4Ik
 status: PUBLISHED
 createdAt: 2025-09-16T16:14:16.027Z

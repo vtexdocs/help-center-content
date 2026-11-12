@@ -19,6 +19,6 @@ A plataforma permite que as mensagens agendadas sejam enviadas em uma data e hor
 
 Para agendar uma mensagem, siga estes passos:
 
-- Dentro do seu projeto, acesse **Contatos** (em **Operações**) e em seguida clique em **Mensagens** no menu lateral.
-- Clique no botão **Enviar Mensagem**.
-- Selecione **contatos ou grupos** e digite o texto que você deseja enviar. Em seguida, clique na caixa **Agendar para mais tarde** e depois em **Enviar**.
+1. Dentro do seu projeto, acesse **Operações > Contatos** e em seguida clique em **Mensagens** no menu lateral.
+2. Clique no botão **Enviar Mensagem**.
+3. Selecione **contatos ou grupos** e digite o texto que você deseja enviar. Em seguida, clique na caixa **Agendar para mais tarde** e depois em **Enviar**.

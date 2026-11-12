@@ -31,14 +31,14 @@ Para facilitar a navegação neste artigo, caso queira ir diretamente para um ti
 
 ## Para criar uma palavra-chave que inicie um fluxo
 
-- Clique no botão **Criar uma palavra-chave que inicie um fluxo**
-- Em **palavra-chave**, você pode definir uma palavra para funcionar como palavra-chave
-- Em **disparar** **quando**, você escolherá entre duas opções:
-- A mensagem começa com a palavra-chave: Se a frase digitada pelo usuário começar com uma palavra-chave, o fluxo escolhido será acionado
-- A mensagem contém apenas a palavra-chave: O fluxo escolhido será acionado se o usuário digitar apenas a palavra-chave
-- Em **fluxo**, é definido o fluxo que será iniciado quando você usar a palavra-chave
-- Em **apenas grupos**, é possível incluir ou não incluir as regras desse trigger a grupos de contato específicos. Deixe o espaço em branco para aplicar essa regra a todos os usuários
-- Clique na caixa **Criar Trigger**
+1. Clique no botão **Criar uma palavra-chave que inicie um fluxo**.
+2. Em **palavra-chave**, você pode definir uma palavra para funcionar como palavra-chave.
+3. Em **disparar quando**, você escolherá entre duas opções:
+    - **A mensagem começa com a palavra-chave:** se a frase digitada pelo usuário começar com uma palavra-chave, o fluxo escolhido será acionado.
+    - **A mensagem contém apenas a palavra-chave:** o fluxo escolhido será acionado se o usuário digitar apenas a palavra-chave.
+4. Em **fluxo**, é definido o fluxo que será iniciado quando você usar a palavra-chave.
+5. Em **apenas grupos**, é possível incluir ou não incluir as regras desse trigger a grupos de contato específicos. Deixe o espaço em branco para aplicar essa regra a todos os usuários.
+6. Clique na caixa **Criar Trigger**.
 
 ## Criando uma palavra-chave de mensagem que permite que as pessoas ingressem em um grupo
 
@@ -46,56 +46,52 @@ Usando esse trigger para adicionar um contato de ingresso em um grupo. Esse trig
 
 **Para criar um trigger com uma palavra-chave que une contatos a um grupo:**
 
-- Clique no botão "Criar uma palavra-chave de mensagem que permita que as pessoas se juntem a um grupo":
-- Introduza uma palavra-chave em "Juntar palavra-chave"
-- Escolha o grupo que você gostaria de adicionar os seus contatos em "Grupo para participar"
-- Opcional: Em "Resposta", você pode escolher uma mensagem para enviar
-- Em "Fluxo", você pode escolher qual fluxo será iniciado
+1. Clique no botão "Criar uma palavra-chave de mensagem que permita que as pessoas se juntem a um grupo":
+2. Introduza uma palavra-chave em "Juntar palavra-chave".
+3. Escolha o grupo que você gostaria de adicionar os seus contatos em "Grupo para participar".
+4. (Opcional) Em "Resposta", você pode escolher uma mensagem para enviar.
+5. Em "Fluxo", você pode escolher qual fluxo será iniciado.
 
 ## Iniciar um fluxo depois de receber uma mensagem não tratada em outro lugar
 
 Use este trigger para iniciar um fluxo após receber uma mensagem não capturada (a mensagem não é tratada em outro lugar para outros triggers). Esse trigger pode ser usado para mensagens que não foram tratadas para um fluxo informativo que explica seu serviço e o conduz para fluxo.
 
-- Clique no botão "Iniciar um fluxo após receber uma mensagem que não corresponda a nenhuma palavra-chave"
-- Em "Fluxo", você pode escolher qual fluxo será iniciado
-- Em "Somente grupos", você pode escolher o(s) grupo(s) em que o trigger será incluído ou não incluído
-- se você deixar o campo vazio, o trigger será aplicado a todos os contatos
-- Clique em `Criar Trigger`
+1. Clique no botão "Iniciar um fluxo após receber uma mensagem que não corresponda a nenhuma palavra-chave".
+2. Em "Fluxo", você pode escolher qual fluxo será iniciado.
+3. Em "Somente grupos", você pode escolher o(s) grupo(s) em que o trigger será incluído ou não incluído. Se você deixar o campo vazio, o trigger será aplicado a todos os contatos.
+4. Clique em `Criar Trigger`.
 
 ## Iniciar um fluxo futuramente ou segundo agendamento
 
 Use este trigger para agendar um fluxo em um momento no futuro, o repita diariamente, semanalmente ou mensalmente. Para iniciar o fluxo no futuro ou de forma programada:
 
-- Clique no botão "Iniciar um fluxo no futuro ou segundo agendamento"
-- Escolha a data que gostaria de agendar
-- Logo abaixo, em Repeat. Você pode optar por repetir o fluxo diariamente, semanalmente ou mensalmente (sendo opcional tal uso)
-- Escolha o fluxo que você deseja iniciar, para quais contatos ou grupos o fluxo será ou não transmitido.
-- Clique em `Criar Trigger`
+1. Clique no botão "Iniciar um fluxo no futuro ou segundo agendamento".
+2. Escolha a data que gostaria de agendar.
+3. Logo abaixo, em Repeat, você pode optar por repetir o fluxo diariamente, semanalmente ou mensalmente (sendo opcional tal uso).
+4. Escolha o fluxo que você deseja iniciar, para quais contatos ou grupos o fluxo será ou não transmitido.
+5. Clique em `Criar Trigger`.
 
 ## Iniciar um fluxo depois de receber uma chamada
 
-- Clique no botão "Comece um fluxo depois de receber uma chamada":
-- Em "Fluxo", você pode escolher qual fluxo será iniciado
-- Em "Somente grupos", você pode escolher o(s) grupo(s) em que o trigger será incluído ou não incluído
-- se você deixar o campo vazio, o trigger será aplicado a todos os contatos
-- Clique em `Criar Trigger`
+1. Clique no botão "Comece um fluxo depois de receber uma chamada":
+2. Em "Fluxo", você pode escolher qual fluxo será iniciado.
+3. Em "Somente grupos", você pode escolher o(s) grupo(s) em que o trigger será incluído ou não incluído. Se você deixar o campo vazio, o trigger será aplicado a todos os contatos.
+4. Clique em `Criar Trigger`.
 
 ## Iniciar um fluxo depois de uma chamada perdida
 
 Use este trigger após uma chamada perdida.
 
-- Clique no botão "Comece um fluxo após uma chamada perdida"
-- Em "Fluxo", você pode escolher qual fluxo será iniciado
-- Em "Somente grupos", você pode escolher o(s) grupo(s) em que o trigger será incluído ou não incluído
-- se você deixar o campo vazio, o trigger será aplicado a todos os contatos
-- Clique em `Criar Trigger`
+1. Clique no botão "Comece um fluxo após uma chamada perdida".
+2. Em "Fluxo", você pode escolher qual fluxo será iniciado.
+3. Em "Somente grupos", você pode escolher o(s) grupo(s) em que o trigger será incluído ou não incluído. Se você deixar o campo vazio, o trigger será aplicado a todos os contatos.
+4. Clique em `Criar Trigger`.
 
 ## Iniciar um fluxo posterior ao fechamento do ticket com agente humano
 
 Use este trigger para disparar o fluxo de encerramento de atendimento humano no Live Desk.
 
-- Clique no botão "Start a flow after a ticket is closed":
-- Em "Fluxo", você pode escolher qual fluxo será iniciado
-- Em "Somente grupos", você pode escolher o(s) grupo(s) em que o trigger será ou não incluído
-- se você deixar o campo vazio, o trigger será aplicado a todos os contatos
-- Clique em `Criar Trigger`
+1. Clique no botão "Start a flow after a ticket is closed":
+2. Em "Fluxo", você pode escolher qual fluxo será iniciado.
+3. Em "Somente grupos", você pode escolher o(s) grupo(s) em que o trigger será ou não incluído. Se você deixar o campo vazio, o trigger será aplicado a todos os contatos.
+4. Clique em `Criar Trigger`.

@@ -15,14 +15,35 @@ locale: en
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-As mentioned in our [Introduction to Contacts](/en/docs/tutorials/introduction-to-contacts), there are two types of groups for contacts on the platform. Now, we will explain how they work and how to create your groups.
+Static groups allow you to organize contacts whose membership is managed explicitly. They are useful when you need a specific set of contacts that is not determined by search criteria.
 
-A static group is where contacts need to be added or removed manually. For a contact to enter or leave a static group, they must be added or removed by the platform user through the Contacts tab, or they can be added or removed through flows during interactions with your automation.
+Unlike [dynamic groups](/en/docs/tutorials/dynamic-groups), static groups do not automatically include contacts based on a search rule. Contacts must be added to or removed from the group manually or through an automation flow.
 
-You can find the description of the flow charts for groups by clicking [here](/en/docs/tutorials/action-cards).
+For an overview of the Contacts page, see [Introduction to Contacts](/en/docs/tutorials/introduction-to-contacts).
 
-To create a static group, navigate to the contacts page within the "**Studio**" module and click the **Create Group** button in the side menu.
+## Creating a static group
 
-After that, choose the name of your group and create it by the pop-up that will appear.
+To create a static group:
 
-The group will start to be listed in your group list, below the contact categories in the left side menu. If you want to edit the name of your group, export the participating contacts or delete it, access the group and then click on the settings button in the right corner next to **Manage Fields**.
+1. In **Studio**, go to the **Contacts** page.
+2. In the side menu, click **Create Group**.
+3. In the window that appears, enter a name for the group and confirm.
+
+The new group appears in the group list below the contact categories in the left side menu.
+
+## Managing group membership
+
+You can add contacts to or remove them from a static group in two ways:
+
+- Manually, from the **Contacts** page.
+- Automatically, in an automation flow using the **Add the contact to a group** and **Remove the contact from a group** action cards.
+
+For more information about configuring these actions, see [Action cards](/en/docs/tutorials/action-cards). You can also use group membership to define routes in a flow, as described in [Decision cards](/en/docs/tutorials/decision-cards).
+
+## Managing a static group
+
+To manage an existing group:
+
+1. Access the group from the list in the left side menu.
+2. Click the settings button next to **Manage Fields**.
+3. Select the option to edit the group name, export its contacts, or delete the group.

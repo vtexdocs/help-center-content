@@ -3,7 +3,7 @@ title: "Baixar, extrair, transformar e combinar os dados arquivados do Fluxo de 
 id: 3fYq4fID5fMrm5BT2uVxG0
 status: PUBLISHED
 createdAt: 2025-09-12T17:09:16.264Z
-updatedAt: 2026-11-12T12:20:00.000Z
+updatedAt: 2026-11-12T14:20:00.000Z
 publishedAt: 2025-10-03T14:21:49.361Z
 firstPublishedAt: 2025-10-03T14:21:49.361Z
 contentType: tutorial
@@ -30,9 +30,11 @@ Por fim, em cada arquivo, você poderá verificar o conteúdo, o período (mês)
 
 ## Carregar e transformar os dados arquivados no Power BI
 
-- Após baixar os arquivos e extraí-los no Power BI, através do Power Query, você conseguirá carregá-los ao selecionar nova fonte e escolhendo a opção **JSON**.
-- Ao clicar em conectar você deve alterar a opção da caixa de seleção para Todos os Arquivos.
-- Selecione o arquivo desejado e clique em abrir.
+Para carregar os arquivos no Power BI, siga os passos abaixo:
+
+1. Após baixar os arquivos e extraí-los no Power BI, através do Power Query, você conseguirá carregá-los ao selecionar nova fonte e escolhendo a opção **JSON**.
+2. Ao clicar em conectar você deve alterar a opção da caixa de seleção para Todos os Arquivos.
+3. Selecione o arquivo desejado e clique em abrir.
 
 No Power Query irá aparecer a opção para Importar os arquivos, se você deseja importá-los para o Power BI, ou a opção DirectQuery, que faz a conexão direta com o arquivo sem fazer sua importação.  Use Importar, pois o arquivo pode ser alterado ou removido da pasta.
 
@@ -42,8 +44,11 @@ Ao fazer a importação do arquivo, você verá que ele já irá expandir todas 
 
 ## Combinar as tabelas
 
-- Para fazer a combinação das tabelas, selecione a opção **Combinar** e, logo após, **Acrescentar Consultas**, **Acrescentar Consultas como novas**.
-- Feito isso, selecione as tabelas desejadas e finalizar o processo clicando em ok.
-- Ao finalizar o processo, será gerada uma nova consulta com todos os dados selecionados em uma única tabela.
+Para combinar as tabelas, siga os passos abaixo:
+
+1. Selecione a opção **Combinar** e, logo após, **Acrescentar Consultas**, **Acrescentar Consultas como novas**.
+2. Feito isso, selecione as tabelas desejadas e finalize o processo clicando em ok.
+
+Ao finalizar o processo, será gerada uma nova consulta com todos os dados selecionados em uma única tabela.
 
 > A conexão dos dados ocorre através da API de integração com o Power BI. Os dados estão estruturados no formato JSON. Para acessar todos os campos dos dados, você deve expandir as colunas no Power Query no Power BI.

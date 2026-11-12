@@ -21,15 +21,15 @@ O envio das mensagens segue um cronograma pré-definido, respeitando uma sequên
 
 ## Criando uma Campanha
 
-- Acesse **Contatos** (em **Operações**) e depois clique em `Campanhas`.
-- Clique em `Criar campanha`.
-- Crie um nome para a sua campanha e escolha um **Grupo** para o qual as mensagens serão enviadas.
+1. Em **Operações**, acesse **Contatos** e depois clique em `Campanhas`.
+2. Clique em `Criar campanha`.
+3. Crie um nome para a sua campanha e escolha um **Grupo** para o qual as mensagens serão enviadas.
 
-Cada campanha pode operar apenas um grupo. É necessário criar uma nova campanha para cada grupo com o qual você deseja interagir.
+    Cada campanha pode operar apenas um grupo. É necessário criar uma nova campanha para cada grupo com o qual você deseja interagir.
 
-- Agora defina as regras do evento clicando no botão `Adicionar evento`.
-- Escolha entre enviar uma mensagem ou selecionar um fluxo.
-  - Caso queira enviar uma mensagem, digite-a.
-  - Caso queira selecionar um fluxo, escolha uma opção dos fluxos existentes.
-- Em seguida, defina quando você quer que seu evento comece.
-- Em Entregue, você pode agendar para mais de 24h. Você pode definir se as pessoas receberam a mensagem na data e hora exata do evento ou se deseja padronizar para todas as mensagens serem disparadas juntas em um horário específico do dia.
+4. Agora defina as regras do evento clicando no botão `Adicionar evento`.
+5. Escolha entre enviar uma mensagem ou selecionar um fluxo:
+    - Caso queira enviar uma mensagem, digite-a.
+    - Caso queira selecionar um fluxo, escolha uma opção dos fluxos existentes.
+6. Em seguida, defina quando você quer que seu evento comece.
+7. Em **Entregue**, você pode agendar para mais de 24h. Você pode definir se as pessoas receberão a mensagem na data e hora exata do evento ou se deseja padronizar para todas as mensagens serem disparadas juntas em um horário específico do dia.

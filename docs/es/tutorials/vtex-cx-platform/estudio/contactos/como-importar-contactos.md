@@ -15,20 +15,30 @@ locale: es
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-Cuando una persona interactúa a través de alguno de los canales conectados en la VTEX CX Platform, automáticamente se convierte en un contacto. Sin embargo, muchas veces ya tenemos información de los futuros contactos que interactuarán por los canales, entonces, ¿cómo podemos importar esos contactos a la plataforma?
+La lista de contactos de VTEX CX reúne a las personas que interactúan a través de los canales conectados a la plataforma. Estos contactos se añaden automáticamente. Para incluir también a personas que todavía no han interactuado a través de tus canales, puedes importar sus datos de forma masiva mediante una hoja de cálculo. Este artículo explica cómo preparar la hoja de cálculo y realizar la importación.
 
-Primero, accede al **Estudio** y dirigirte a la página de **contactos**, donde encontrarás el botón de **Importar Contactos** en la esquina izquierda.
+## Preparar la hoja de cálculo
 
-Después de eso, serás dirigido a la página de importación, donde podrás seleccionar una hoja de Excel en formato **.XLS** y cargar los contactos que existen en la hoja a la plataforma. Sin embargo, para que esto funcione, es necesario nombrar correctamente el encabezado de la hoja, es decir, el nombre de las columnas. Al final de la página, proporcionamos una plantilla de ejemplo que puedes utilizar.
+El archivo debe ser una hoja de cálculo de Excel en formato `.xls`. La página de importación ofrece una plantilla que puedes utilizar como referencia.
 
-Las reglas para nombrar las columnas son:
+Los nombres de las columnas deben seguir el formato esperado por la plataforma:
 
-- **Name**: columna para el nombre del contacto.
+- `Name`: nombre del contacto.
+- `Language`: idioma que utiliza el contacto en las interacciones.
+- `URN`: identificador del contacto en el canal por el que se comunicará. Cada contacto debe tener al menos una URN.
+- `Field`: campos personalizados del contacto.
 
-- **Language**: columna para el idioma en el que el contacto interactúa.
+> ⚠️ Para enviar mensajes de plantilla por WhatsApp, incluye la columna `URN:whatsapp` y los números de teléfono correspondientes. Sin esta información, no podrás enviar mensajes de WhatsApp a los contactos importados.
 
-- **URN**: columna para la URN del canal por el cual el contacto se comunicará. Recuerda que el contacto solo es válido si posee al menos una URN.La **URN:whatsapp** es extremadamente importante y necesaria para el envío de mensajes template. Si esta columna, junto con los números de teléfono debajo de ella, no está presente al importar los contactos, el envío de mensajes a través de WhatsApp para esos contactos estará **indisponible** posteriormente.
+## Importar los contactos
 
-- **Field:** columna para los campos personalizados de los contactos.
+Para importar los contactos:
 
-Después de seleccionar el archivo, haz clic en **(Avance)** y tus contactos se importarán a la plataforma. Todos los contactos aparecerán vinculados a un grupo estático, que tendrá el mismo nombre que el archivo de la hoja de cálculo. Si no deseas mantener el grupo, elimínalo.
+1. En **Estudio**, accede a la página **Contactos**.
+2. En el menú lateral izquierdo, haz clic en **Importar contactos**.
+3. En la página de importación, selecciona la hoja de cálculo `.xls`.
+4. Haz clic en **Vista previa** y completa la importación.
+
+## Resultado de la importación
+
+Después de la importación, los contactos se vinculan a un grupo estático con el mismo nombre que el archivo de la hoja de cálculo. Si no deseas conservar este grupo, puedes eliminarlo sin borrar los contactos importados.

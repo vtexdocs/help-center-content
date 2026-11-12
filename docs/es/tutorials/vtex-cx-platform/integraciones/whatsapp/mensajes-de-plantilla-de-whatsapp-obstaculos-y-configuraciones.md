@@ -3,7 +3,7 @@ title: "Mensajes de plantilla de WhatsApp: Obstáculos y configuraciones"
 id: 4bc7imLyUicKHtCIJVGNSE
 status: PUBLISHED
 createdAt: 2025-09-15T15:07:41.131Z
-updatedAt: 2026-11-12T12:00:00.000Z
+updatedAt: 2026-11-12T14:20:00.000Z
 publishedAt: 2025-10-03T14:20:32.609Z
 firstPublishedAt: 2025-10-03T14:20:32.609Z
 contentType: tutorial
@@ -146,7 +146,7 @@ En el **Administrador de WhatsApp:**
 
 META analizará y tomará una decisión en un plazo de 24 horas.
 
-## Conoce más
+## Más información
 
 [Política de WhatsApp Business:](https://www.whatsapp.com/legal/business-policy/) aprende más sobre las políticas para empresas.
 

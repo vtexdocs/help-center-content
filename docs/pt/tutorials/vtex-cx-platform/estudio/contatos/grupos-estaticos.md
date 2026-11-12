@@ -1,5 +1,5 @@
 ---
-title: 'Grupos estáticos e grupos dinâmicos'
+title: 'Grupos estáticos'
 id: NpZX08omekZDgF95308Le
 status: PUBLISHED
 createdAt: 2025-09-12T17:27:13.619Z
@@ -15,37 +15,35 @@ locale: pt
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-Existem dois tipos de grupos para os contatos na plataforma. Agora explicaremos como funcionam e como criar seus grupos.
+Grupos estáticos permitem organizar contatos cuja participação é gerenciada de forma explícita. Eles são úteis quando você precisa reunir um conjunto específico de contatos que não seja determinado por critérios de busca.
 
-## Grupo estático
+Diferentemente dos [grupos dinâmicos](/pt/docs/tutorials/grupos-dinamicos), os grupos estáticos não incluem contatos automaticamente com base em uma regra de busca. Os contatos devem ser adicionados ou removidos manualmente ou por meio de um fluxo de automação.
 
-O grupo estático é o tipo de grupo onde os contatos precisam ser adicionados e/ou removidos manualmente. Para que um contato entre e/ou saia de um grupo estático, ele precisa ser adicionado/removido pelo usuário da plataforma pela aba de contatos, ou, adicionado/removido através de fluxos durante a conversa com a sua automação.
+Para conhecer os elementos disponíveis na página Contatos, consulte [Introdução a contatos](/pt/docs/tutorials/introducao-a-contatos).
 
-Você pode encontrar a descrição das cartas de fluxo para grupos clicando [cartas de ações](https://help.vtex.com/pt/docs/tutorials/cartas-de-acao) e [decisões.](https://help.vtex.com/pt/docs/tutorials/cartas-de-decisao).
+## Criar um grupo estático
 
-Para criar um grupo estático, vá até a página de contatos, em **Contatos** (em **Operações**), e clicar no botão **Criar Grupo** no menu lateral.
+Para criar um grupo estático:
 
-Depois disso, escolha o nome do seu grupo e criá-lo pelo pop-up que vai aparecer.
+1. No **Estúdio**, acesse a página **Contatos**.
+2. No menu lateral, clique em **Criar Grupo**.
+3. Na janela exibida, insira um nome para o grupo e confirme.
 
-O grupo vai começar a ser listado na sua lista de grupos, abaixo das categorias de contatos no menu lateral da esquerda. Caso você queira editar o nome do seu grupo, exportar os contatos participantes ou excluí-lo, acesse o grupo e clique no botão de configurações no canto direito ao lado de **Gerenciar Campos**.
+O novo grupo será exibido na lista de grupos, abaixo das categorias de contatos no menu lateral esquerdo.
 
-## Grupo dinâmico e pesquisas de contato
+## Gerenciar participantes do grupo
 
-Na aba de contatos, existe uma barra de busca. Essa barra de busca pode ser utilizada para achar e filtrar contatos que obedecem às regras definidas na barra. Normalmente, utilizamos campos de contato e alguns operadores para fazer a expressão de busca.
+Você pode adicionar contatos a um grupo estático ou removê-los de duas formas:
 
-Se no meu grupo existe o campo de contato Idade e o campo de contato Sexo e eu quero saber quantos contatos do sexo masculino são maiores de 18 anos, posso utilizar a seguinte expressão na busca:
+- Manualmente, na página **Contatos**.
+- Automaticamente, em um fluxo de automação, usando as cartas de ação **Adicionar o contato a um grupo** e **Remover o contato de um grupo**.
 
-`idade > 18 AND (sexo = ""M"" OR sexo = ""Masculino"")`
+Para saber mais sobre a configuração dessas ações, consulte [Cartas de ação](/pt/docs/tutorials/cartas-de-acao). Você também pode usar a participação em grupos para definir rotas em um fluxo, conforme descrito em [Cartas de decisão](/pt/docs/tutorials/cartas-de-decisao).
 
-Abaixo, seguem alguns dos operadores que podemos utilizar nessas buscas:
+## Gerenciar um grupo estático
 
-- `AND` (obedece as duas regras ao mesmo tempo)
-- `OR` (obedece apenas uma das regras)
-- > (Maior que)
-- >= (Maior ou igual a)
+Para gerenciar um grupo existente:
 
-Ou seja, um grupo dinâmico é um tipo de grupo onde não conseguimos adicionar e/ou remover usuários manualmente. Todos os usuários adicionados entram no grupo se obedeceram a regra da busca realizada.
-
-Caso você clique no botão para salvar seu grupo dinâmico, um pop-up aparecerá para escolher o nome do seu novo grupo
-
-Caso você queira editar o nome do grupo, exportar os contatos participantes, deletar o grupo ou até mesmo modificar a regra para participação, o processo é o mesmo que o dos grupos estáticos.
+1. Acesse o grupo na lista do menu lateral esquerdo.
+2. Clique no botão de configurações ao lado de **Gerenciar Campos**.
+3. Selecione a opção para editar o nome, exportar os contatos ou excluir o grupo.

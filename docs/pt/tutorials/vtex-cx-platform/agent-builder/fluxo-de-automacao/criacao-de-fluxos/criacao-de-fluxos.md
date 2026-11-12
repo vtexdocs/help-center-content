@@ -13,6 +13,7 @@ slugEN: flows-creation
 legacySlug: criacao-de-fluxos
 locale: pt
 subcategoryId: hXGU8pFfABVFIg724zWBN
+categoryCover: true
 ---
 
 Um fluxo é uma sequência de ações e decisões que automatiza interações com contatos. Ao criar um fluxo, você define o nome, as palavras-chave opcionais do trigger e o tipo.

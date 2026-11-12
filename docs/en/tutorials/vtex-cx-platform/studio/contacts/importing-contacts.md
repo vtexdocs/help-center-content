@@ -15,20 +15,30 @@ locale: en
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-When a person interacts through any of the channels connected to the VTEX CX Platform, they automatically become a contact. However, in many cases, we already have information about future contacts who will interact through the channels, so how can we import these contacts into the platform?
+The VTEX CX contact list includes people who interact through channels connected to the platform. These contacts are added automatically. To also include people who have not yet interacted through your channels, you can import their data in bulk using a spreadsheet. This article explains how to prepare the spreadsheet and complete the import.
 
-First, access the **Studio** and go to the **Contacts** tab, where you will find the **Import Contacts** button on the left-hand side.
+## Preparing the spreadsheet
 
-After that, you will be directed to the import page, where you can select an Excel spreadsheet in .XLS format and import the contacts listed in the spreadsheet into the platform. However, for this to work, the spreadsheet headers must be correctly named, meaning the column names should follow the required format. At the bottom of the page, we provide a template that you can use as a reference.
+The file must be an Excel spreadsheet in `.xls` format. The import page provides a template you can use as a reference.
 
-The rules for naming columns are:
+The column names must follow the format expected by the platform:
 
-- **_Name:_** contact name column
+- `Name`: contact name.
+- `Language`: language the contact uses in interactions.
+- `URN`: the contact identifier for the channel through which they will communicate. Each contact must have at least one URN.
+- `Field`: custom contact fields.
 
-- **_Language:_** column with the language the contact interacts with
+> ⚠️ To send WhatsApp template messages, include the `URN:whatsapp` column and the corresponding phone numbers. Without this information, you will not be able to send WhatsApp messages to the imported contacts.
 
-- **_URN: :_** column with the URN of the channel that the contact will communicate, remembering, that the contact is only valid if it has at least one URN.
+## Importing contacts
 
-- **_Field: :_** column with custom fields for contacts.Then click **_Import_** and your contacts will be imported to the platform. All contacts appeared linked to a static group, which has the same name as the spreadsheet file, if you don't want to keep the group, delete it.
+To import contacts:
 
-The **URN:whatsapp** is extremely important and necessary for sending template messages. If this column, along with the phone numbers listed under it, is not present when importing contacts, sending messages via WhatsApp to these contacts will be unavailable later.
+1. In **Studio**, go to the **Contacts** page.
+2. In the left side menu, click **Import Contacts**.
+3. On the import page, select the `.xls` spreadsheet.
+4. Click **Preview** and complete the import.
+
+## Import result
+
+After the import, the contacts are linked to a static group with the same name as the spreadsheet file. If you do not want to keep this group, you can delete it without removing the imported contacts.

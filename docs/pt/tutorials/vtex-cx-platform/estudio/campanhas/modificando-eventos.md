@@ -1,5 +1,5 @@
 ---
-title: 'Modificando eventos'
+title: 'Editar eventos'
 id: 5YbnE0SOmxaAbRSgdvHpqb
 status: PUBLISHED
 createdAt: 2025-09-12T18:07:37.351Z
@@ -15,15 +15,27 @@ locale: pt
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-Para editar quando uma mensagem ou fluxo serão enviados, escolher outro fluxo ou mudar a ação de Enviar uma mensagem para Começar um fluxo (e vice-versa):
+Os eventos de uma campanha definem qual ação será executada e quando ela ocorrerá. Depois de [criar uma campanha](/pt/docs/tutorials/como-criar-uma-campanha), você pode editar seus eventos para alterar a mensagem, selecionar outro fluxo, mudar o tipo de ação ou ajustar o agendamento.
 
-- Clique no menu **Campanhas**, dentro de **Contatos** (em **Operações**) no menu lateral, e clique na campanha que contém o(s) evento(s) que você gostaria de editar.
-- Para editar nome da Campanha e o grupo, clique no menu de 3 listras e em Editar
-- Para Editar um evento, da lista de eventos dentro da Campanha, clique no evento e uma janela será aberta
-- Clique no botão ""Editar"" no canto superior direito da tela
-- Na caixa de diálogo de atualização de eventos você pode realizar as seguintes alterações:
-- Selecionar a opção de enviar uma mensagem ou iniciar um fluxo
-- No campo em branco você pode digitar uma mensagem
-- Ao seguir, determine uma das opções para quando o contato já estiver ativo em um fluxo
-- Em seguida, defina o tempo que você quer que seu evento comece.
-- Clique em ""Atualizar evento"" para salvar as alterações.
+## Editar um evento
+
+Para editar um evento:
+
+1. Em **Operações**, acesse **Contatos > Campanhas**.
+2. Selecione a campanha que contém o evento.
+3. Na lista de eventos da campanha, clique no evento que deseja editar.
+4. Na janela exibida, clique em **Editar**, no canto superior direito.
+5. Faça as alterações necessárias. Você pode:
+    - Alternar entre **Enviar uma mensagem** e **Iniciar um fluxo**.
+    - Editar o conteúdo da mensagem ou selecionar outro fluxo.
+    - Definir o que deve acontecer quando o contato já estiver ativo em um fluxo.
+    - Alterar a data ou o horário de início do evento.
+6. Clique em **Atualizar evento** para salvar.
+
+## Editar o nome ou o grupo da campanha
+
+O nome e o grupo de contatos são configurações da campanha, não de um evento específico. Para alterá-los:
+
+1. Acesse a campanha.
+2. Clique no menu de três linhas.
+3. Selecione **Editar** e atualize as informações desejadas.

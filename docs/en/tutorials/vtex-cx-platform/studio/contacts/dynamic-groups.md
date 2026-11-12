@@ -15,26 +15,48 @@ locale: en
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-In the contacts tab, there is a search bar. This search bar can be used to find and filter contacts that obey the rules defined in the bar. Normally, we use contact fields and some operators to make the search expression, that is:
+Dynamic groups allow you to segment contacts according to criteria defined in a search. For example, you can use them to group contacts by age, location, or any other information stored in contact fields.
 
-If my group has the contact field "Age" and the contact field "Gender" and I want to know how many male contacts are over 18 years old, I can use the following expression in the search:
+Unlike static groups, dynamic groups don't allow you to add or remove contacts manually. Group membership is determined by the search rule: only contacts that match the defined criteria are included.
 
-`Age > 18 AND (sexo = "M" OR sexo = "Male")`
+## Creating a dynamic group
 
-Below are some of the operators that we can use in these searches:
+To create a dynamic group:
 
-- AND (-and
+1. Go to the **Contacts** page.
+2. In the search bar, enter an expression using contact fields and operators.
+3. Review the contacts returned by the search.
+4. Click the button to save the dynamic group.
+5. In the window that appears, enter a name for the group and confirm.
 
-- obeys both rules at the same time)
+## Defining a search rule
 
-- OR (-or
+Rules combine contact fields, values, and operators. Available operators include:
 
-- obeys one of the rules)
+- `AND`: requires both conditions to be met.
+- `OR`: requires at least one condition to be met.
+- `>`: greater than.
+- `>=`: greater than or equal to.
 
-- > , >= (Greater than, greater than or equal to)
+For example, consider contacts that have the `age` and `gender` fields. To create a group containing male contacts over 18 years old, you can use the following expression:
 
-That is, a dynamic group is a type of group where we cannot manually add and/or remove users. All added users enter the group if they obeyed the search rule.
+`age > 18 AND (gender = "M" OR gender = "Male")`
 
-In case you click on the button to save your dynamic group, a pop-up will appear to choose the name of your new group.
+In this example:
 
-In case you want to edit the name of the group, export the participating contacts, delete the group or even modify the rule for participation, the process is the same as for static groups.
+- `age > 18` selects contacts over 18 years old.
+- `(gender = "M" OR gender = "Male")` accepts either of the specified values for the `gender` field.
+- `AND` determines that both conditions must be met.
+
+The field names and values in the expression must match the information stored in the contacts.
+
+## Managing a dynamic group
+
+After creating the group, you can:
+
+- Edit its name.
+- Export participating contacts.
+- Delete the group.
+- Change the membership rule.
+
+These management options follow the same process used for static groups.

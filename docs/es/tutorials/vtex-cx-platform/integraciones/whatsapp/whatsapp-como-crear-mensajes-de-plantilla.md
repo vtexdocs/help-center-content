@@ -1,7 +1,7 @@
 ---
 title: 'WhatsApp: Cómo crear mensajes de plantilla'
 createdAt: 2025-09-15T15:05:31.154Z
-updatedAt: 2026-11-12T12:00:00.000Z
+updatedAt: 2026-11-12T14:20:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: whatsapp-how-to-create-template-messages
@@ -44,7 +44,7 @@ Para incluir un ejemplo en el envío, primero crea tu modelo, agregando las vari
 
 Si hay rechazos de mensajes y quieres resolver o cambiar la configuración de tus mensajes de plantilla, ve a [Mensajes de Plantilla de WhatsApp: Impedimentos y configuraciones](https://help.vtex.com/es/docs/tutorials/mensajes-de-plantilla-de-whatsapp-obstaculos-y-configuraciones) y obtén más información.
 
-## Obtén más información
+## Más información
 
 - [Política de WhatsApp Business](https://whatsappbusiness.com/es-la/policy/): obtén más información sobre las políticas relacionadas con empresas.
 - [Política Comercial de WhatsApp](https://whatsappbusiness.com/es-la/policy/#politica-para-las-funciones-de-comercio-de-whatsapp-incluida-la-venta-de-productos-o-servicios): obtén más información sobre las políticas comerciales.

@@ -15,26 +15,48 @@ locale: es
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-En la pestaña de contactos, existe una barra de búsqueda. Esta barra puede utilizarse para encontrar y filtrar contactos que cumplan con las reglas definidas en dicha barra. Normalmente, usamos campos de contacto y algunos operadores para crear la expresión de búsqueda, es decir:
+Los grupos dinámicos permiten segmentar contactos según los criterios definidos en una búsqueda. Por ejemplo, puedes utilizarlos para reunir contactos con determinada edad, ubicación o cualquier otra información almacenada en los campos de contacto.
 
-Si en mi grupo existe el campo de contacto "Edad" y el campo de contacto "Sexo", y quiero saber cuántos contactos del sexo masculino son mayores de 18 años, puedo utilizar la siguiente expresión en la búsqueda:
+A diferencia de los grupos estáticos, los grupos dinámicos no permiten añadir ni eliminar contactos manualmente. La participación en el grupo se determina mediante la regla de búsqueda: solo se incluyen los contactos que cumplen con los criterios definidos.
 
-`edad > 18 AND (género = ""M"" OR género = ""Masculino"")`
+## Crear un grupo dinámico
 
-A continuación, se muestran algunos de los operadores que podemos utilizar en estas búsquedas:
+Para crear un grupo dinámico:
 
-- AND (-y
+1. Accede a la página **Contactos**.
+2. En la barra de búsqueda, introduce una expresión con campos de contacto y operadores.
+3. Comprueba los contactos que devuelve la búsqueda.
+4. Haz clic en el botón para guardar el grupo dinámico.
+5. En la ventana que aparece, introduce un nombre para el grupo y confirma.
 
-- cumple ambas reglas al mismo tiempo)
+## Definir una regla de búsqueda
 
-- OR (-o
+Las reglas combinan campos de contacto, valores y operadores. Entre los operadores disponibles se encuentran:
 
-- cumple una de las reglas)
+- `AND`: exige que se cumplan ambas condiciones.
+- `OR`: exige que se cumpla al menos una de las condiciones.
+- `>`: mayor que.
+- `>=`: mayor o igual que.
 
-- > , >= (Mayor que, mayor o igual a)
+Por ejemplo, considera que los contactos tienen los campos `edad` y `sexo`. Para crear un grupo con contactos de sexo masculino mayores de 18 años, puedes utilizar la siguiente expresión:
 
-Es decir, un grupo dinámico es un tipo de grupo en el que no podemos añadir y/o eliminar usuarios manualmente. Todos los usuarios que se añaden entran al grupo si cumplen con la regla de la búsqueda realizada.
+`edad > 18 AND (sexo = "M" OR sexo = "Masculino")`
 
-Si haces clic en el botón para guardar tu grupo dinámico, aparecerá un pop-up para que elijas el nombre de tu nuevo grupo.
+En este ejemplo:
 
-Si deseas editar el nombre del grupo, exportar los contactos participantes, eliminar el grupo o incluso modificar la regla de participación, el proceso es el mismo que para los grupos estáticos.
+- `edad > 18` selecciona contactos mayores de 18 años.
+- `(sexo = "M" OR sexo = "Masculino")` acepta cualquiera de los valores indicados para el campo `sexo`.
+- `AND` determina que deben cumplirse ambas condiciones.
+
+Los nombres de los campos y los valores de la expresión deben coincidir con la información registrada en los contactos.
+
+## Gestionar un grupo dinámico
+
+Después de crear el grupo, puedes:
+
+- Editar el nombre.
+- Exportar los contactos participantes.
+- Eliminar el grupo.
+- Cambiar la regla de participación.
+
+Estas opciones de gestión siguen el mismo proceso utilizado para los grupos estáticos.

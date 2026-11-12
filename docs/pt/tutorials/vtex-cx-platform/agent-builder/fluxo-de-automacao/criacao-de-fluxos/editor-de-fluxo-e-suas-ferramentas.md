@@ -1,5 +1,5 @@
 ---
-title: 'Editor de fluxo e suas ferramentas'
+title: 'Editor de fluxos'
 id: 5vaaCPNxAy3f21esjfeb84
 status: PUBLISHED
 createdAt: 2025-09-16T16:40:08.008Z
@@ -17,7 +17,7 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 O editor de fluxo é o ambiente em que você cria as cartas e monta o fluxo. Nele, você cria e edita conexões, decisões e ações da conversa.
 
-## Simulador
+## Simular fluxo
 
 O simulador reproduz em tempo real uma conversa com o fluxo que você está criando.
 
@@ -39,7 +39,7 @@ Para acessar as versões da edição, clique no botão do relógio abaixo do bot
 
 Você pode selecionar uma das opções da lista para ver as versões antigas do fluxo, e caso queira retroceder para aquela versão, clique no botão _Reverter_.
 
-## Botão começar fluxo
+## Iniciar fluxo manualmente
 
 O botão Disparar Fluxo inicia manualmente um fluxo com contatos ou grupos já existentes na plataforma.
 
@@ -49,29 +49,29 @@ O botão se encontra no canto direito, um pouco acima das outras ferramentas mos
 
 Antes de lançarmos esses contatos no fluxo, podemos configurar alguns detalhes:
 
-1. Decidir se preferimos escolher contatos/grupos de forma específica, ou se preferimos criar alguma regra para filtrar os contatos que desejamos;
-2. Decidir se, caso um contato já esteja ativo no fluxo em questão, esse fluxo será reiniciado ou não;
-3. Decidir se, caso um contato já esteja ativo em algum outro fluxo, esse fluxo será interrompido ou não.
+- Decidir se preferimos escolher contatos/grupos de forma específica, ou se preferimos criar alguma regra para filtrar os contatos que desejamos;
+- Decidir se, caso um contato já esteja ativo no fluxo em questão, esse fluxo será reiniciado ou não;
+- Decidir se, caso um contato já esteja ativo em algum outro fluxo, esse fluxo será interrompido ou não.
 
 ## Menu de configurações
 
 O menu de configurações fica ao lado do botão Começar Fluxo.
 
-  1. **Resultados:** Opção para analisar e exportar resultados dos fluxos, com base na utilização pelos contatos. Um meio de verificar quais contatos passaram pelo fluxo.
-  2. **Copy UUID**: Opção que permite obter o identificador do fluxo. Sendo assim, cada fluxo possui um UUID específico.
-  3. **Editar:** Opção que permite a edição das configurações iniciais do fluxo, como o nome, os triggers e a expiração do fluxo (por quanto tempo ele irá esperar por uma resposta).
-  4. **Copiar:** Opção que cria uma cópia exata do fluxo. Esse fluxo-cópia aparecerá na sua lista de fluxos seguindo o padrão de nomenclatura _Copy - Nome do fluxo copiado_.
-  5. **Deletar:** Opção que permite deletar o fluxo em questão. Tome cuidado, pois essa operação não pode ser desfeita.
-  6. **Exportar definição:** Opção que redireciona para a página de exportação de fluxos. Para saber mais, consulte o artigo sobre [exportação e importação de fluxos](/pt/docs/tutorials/importar-e-exportar-fluxos).
-  7. **Exportar tradução**: Opção que possibilita exportar a tradução de um determinado idioma na plataforma.
-  8. **Importar tradução**: Opção que possibilita importar a tradução do idioma na plataforma.
+- **Resultados:** Opção para analisar e exportar resultados dos fluxos, com base na utilização pelos contatos. Um meio de verificar quais contatos passaram pelo fluxo.
+- **Copy UUID**: Opção que permite obter o identificador do fluxo. Sendo assim, cada fluxo possui um UUID específico.
+- **Editar:** Opção que permite a edição das configurações iniciais do fluxo, como o nome, os triggers e a expiração do fluxo (por quanto tempo ele irá esperar por uma resposta).
+- **Copiar:** Opção que cria uma cópia exata do fluxo. Esse fluxo-cópia aparecerá na sua lista de fluxos seguindo o padrão de nomenclatura _Copy - Nome do fluxo copiado_.
+- **Deletar:** Opção que permite deletar o fluxo em questão. Tome cuidado, pois essa operação não pode ser desfeita.
+- **Exportar definição:** Opção que redireciona para a página de exportação de fluxos. Para saber mais, consulte o artigo sobre [exportação e importação de fluxos](/pt/docs/tutorials/importar-e-exportar-fluxos).
+- **Exportar tradução**: Opção que possibilita exportar a tradução de um determinado idioma na plataforma.
+- **Importar tradução**: Opção que possibilita importar a tradução do idioma na plataforma.
 
 ## Barra de ferramentas
 
 A barra de ferramentas contém as ações abaixo.
 
-  1. **Selecionar e Arrastar:** Essas funções irão ajudar a selecionar cards (botão em formato de seta) e navegar pelo fluxo (botão em formato de mão). Também é possível utilizar a tecla **v** para alternar entre essas funções.
-  2. **Criar Bloco:** Nesse botão você pode criar qualquer card para o seu fluxo.
-  3. **Copiar:** Selecione um ou mais cards e clique neste botão para copiá-los. Utilize as teclas Ctrl + V para colar. Essa função permite colar os cards copiados em outro fluxo. Também é possível copiar usando as teclas Ctrl + C.
-  4. **Busca:** Pesquise por elementos dentro dos cards, como o nome do card, o texto de uma mensagem ou o nome de um resultado. Esta função pode ser ativada com as teclas Ctrl + F.
-  5. **Zoom:** Permite aumentar ou diminuir o zoom. Ao clicar na seta para cima, você será direcionado ao início do fluxo. Pode ser acionado com Ctrl + Scroll.
+- **Selecionar e Arrastar:** Essas funções irão ajudar a selecionar cards (botão em formato de seta) e navegar pelo fluxo (botão em formato de mão). Também é possível utilizar a tecla **v** para alternar entre essas funções.
+- **Criar Bloco:** Nesse botão você pode criar qualquer card para o seu fluxo.
+- **Copiar:** Selecione um ou mais cards e clique neste botão para copiá-los. Utilize as teclas Ctrl + V para colar. Essa função permite colar os cards copiados em outro fluxo. Também é possível copiar usando as teclas Ctrl + C.
+- **Busca:** Pesquise por elementos dentro dos cards, como o nome do card, o texto de uma mensagem ou o nome de um resultado. Esta função pode ser ativada com as teclas Ctrl + F.
+- **Zoom:** Permite aumentar ou diminuir o zoom. Ao clicar na seta para cima, você será direcionado ao início do fluxo. Pode ser acionado com Ctrl + Scroll.

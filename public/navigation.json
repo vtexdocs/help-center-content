@@ -33969,38 +33969,23 @@
                   "children": [
                     {
                       "name": {
-                        "en": "Flow creation",
+                        "en": "Flows creation",
                         "es": "Creación de flujos",
                         "pt": "Criação de fluxos"
                       },
                       "slug": {
-                        "en": "flow-creation-subcategory",
-                        "es": "creacion-de-flujos-subcategoria",
-                        "pt": "criacao-de-fluxos-subcategoria"
+                        "en": "flows-creation",
+                        "es": "creacion-de-flujos",
+                        "pt": "criacao-de-fluxos"
                       },
                       "origin": "",
-                      "type": "category",
+                      "type": "markdown",
                       "children": [
                         {
                           "name": {
-                            "en": "Flows creation",
-                            "es": "Creación de flujos",
-                            "pt": "Criação de fluxos"
-                          },
-                          "slug": {
-                            "en": "flows-creation",
-                            "es": "creacion-de-flujos",
-                            "pt": "criacao-de-fluxos"
-                          },
-                          "origin": "",
-                          "type": "markdown",
-                          "children": []
-                        },
-                        {
-                          "name": {
-                            "en": "Flow editor and tools",
-                            "es": "Editor de flujo y sus herramientas",
-                            "pt": "Editor de fluxo e suas ferramentas"
+                            "en": "Flow editor",
+                            "es": "Editor de flujos",
+                            "pt": "Editor de fluxos"
                           },
                           "slug": {
                             "en": "flow-editor-and-tools",
@@ -34141,12 +34126,12 @@
                         "pt": "Expressões e variáveis"
                       },
                       "slug": {
-                        "en": "expressions-and-variables-subcategory",
-                        "es": "expresiones-y-variables-subcategoria",
-                        "pt": "expressoes-e-variaveis-subcategoria"
+                        "en": "expressions-and-variables-introduction",
+                        "es": "introduccion-a-expresiones-y-variables",
+                        "pt": "introducao-a-expressoes-e-variaveis"
                       },
                       "origin": "",
-                      "type": "category",
+                      "type": "markdown",
                       "children": [
                         {
                           "name": {
@@ -34173,21 +34158,6 @@
                             "en": "variables-glossary",
                             "es": "glosario-de-variables",
                             "pt": "glossario-de-variaveis"
-                          },
-                          "origin": "",
-                          "type": "markdown",
-                          "children": []
-                        },
-                        {
-                          "name": {
-                            "en": "Expressions and variables introduction",
-                            "es": "Introducción a expresiones y variables",
-                            "pt": "Introdução a expressões e variáveis"
-                          },
-                          "slug": {
-                            "en": "expressions-and-variables-introduction",
-                            "es": "introduccion-a-expresiones-y-variables",
-                            "pt": "introducao-a-expressoes-e-variaveis"
                           },
                           "origin": "",
                           "type": "markdown",
@@ -34550,12 +34520,12 @@
                       "name": {
                         "en": "Dynamic groups",
                         "es": "Grupos dinámicos",
-                        "pt": "Dynamic groups"
+                        "pt": "Grupos dinâmicos"
                       },
                       "slug": {
                         "en": "dynamic-groups",
                         "es": "grupos-dinamicos",
-                        "pt": ""
+                        "pt": "grupos-dinamicos"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -34565,7 +34535,7 @@
                       "name": {
                         "en": "Static groups",
                         "es": "Grupos estáticos",
-                        "pt": "Grupos estáticos e grupos dinâmicos"
+                        "pt": "Grupos estáticos"
                       },
                       "slug": {
                         "en": "static-groups",
@@ -34640,8 +34610,8 @@
                     {
                       "name": {
                         "en": "Editing events",
-                        "es": "Modificando eventos",
-                        "pt": "Modificando eventos"
+                        "es": "Editar eventos",
+                        "pt": "Editar eventos"
                       },
                       "slug": {
                         "en": "editing-events",
@@ -62874,6 +62844,21 @@
                 "en": "same-boleto-number-generated-for-two-distinct-transactions-itau-shopline",
                 "es": "se-genero-el-mismo-numero-de-boleto-para-dos-transacciones-distintas-itau-shopline",
                 "pt": "o-mesmo-numero-de-boleto-foi-gerado-para-duas-transacoes-distintas-itau-shopline"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Saved-card payment uses the BIN of a previously typed card in Checkout (card UI keeps the typed card number after switching to a saved card)",
+                "es": "El pago con tarjeta guardada utiliza el BIN de una tarjeta introducida previamente en el proceso de pago (la interfaz de usuario de la tarjeta conserva el número de tarjeta introducido después de cambiar a una tarjeta guardada).",
+                "pt": "O pagamento com cartão salvo utiliza o BIN de um cartão previamente digitado no Checkout (a interface do cartão mantém o número do cartão digitado após a troca para um cartão salvo)."
+              },
+              "slug": {
+                "en": "savedcard-payment-uses-the-bin-of-a-previously-typed-card-in-checkout-card-ui-keeps-the-typed-card-number-after-switching-to-a-saved-card",
+                "es": "el-pago-con-tarjeta-guardada-utiliza-el-bin-de-una-tarjeta-introducida-previamente-en-el-proceso-de-pago-la-interfaz-de-usuario-de-la-tarjeta-conserva-el-numero-de-tarjeta-introducido-despues-de-cambiar-a-una-tarjeta-guardada",
+                "pt": "o-pagamento-com-cartao-salvo-utiliza-o-bin-de-um-cartao-previamente-digitado-no-checkout-a-interface-do-cartao-mantem-o-numero-do-cartao-digitado-apos-a-troca-para-um-cartao-salvo"
               },
               "origin": "",
               "type": "markdown",
