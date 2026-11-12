@@ -3,7 +3,7 @@ title: 'Serviço Externo'
 id: 26X76IsTismURqqELr6R2v
 status: PUBLISHED
 createdAt: 2025-09-15T15:46:29.264Z
-updatedAt: 2025-10-03T14:20:32.210Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.210Z
 firstPublishedAt: 2025-10-03T14:20:32.210Z
 contentType: tutorial
@@ -15,11 +15,9 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-## Configuração de Canal Externo
-
 Esta documentação descreve como configurar e integrar um **canal externo** para que a plataforma receba e envie mensagens usando um serviço externo. Ela complementa o material existente e detalha os campos e opções disponíveis para que a conexão funcione corretamente.
 
-## Visão geral
+## Canal externo
 
 Um **canal externo** é uma integração que permite que o sistema de atendimento se conecte a serviços de mensageria de terceiros (ex.: telefones, redes sociais, bots, etc.). Para cada canal é preciso configurar alguns campos básicos e opções, como o tipo de identificador (URN Type), endereço, método HTTP, codificação e tipo de conteúdo. Este documento explica o propósito de cada campo, quando usá-los e quais são os valores disponíveis.
 
@@ -58,7 +56,7 @@ O campo **HTTP Method** define como as mensagens serão enviadas ao serviço ext
 - **POST** – envia dados no corpo da requisição. Este é o método mais comum para integrações de mensagens.
 - **PUT** – semelhante ao POST, mas usado quando o serviço externo espera atualizações de recursos existentes.
 
-> ao escolher **POST** ou **PUT** você deve definir também o **Content-Type** (veja a seção 5). Para **GET** o campo Content-Type não é obrigatório.
+> Ao escolher **POST** ou **PUT** você deve definir também o **Content-Type** (veja a seção 5). Para **GET** o campo Content-Type não é obrigatório.
 
 ## Codificação (Encoding)
 
@@ -68,7 +66,7 @@ O campo **Codificação** controla como os caracteres da mensagem são processad
 |-------------|-----------------|
 | **Codificação Padrão** | Envia o texto sem alterações ou codificações extras. Indicado para a maioria dos canais. |
 | **Codificação Inteligente** | Efetua substituições e remoção de símbolos potencialmente problemáticos (por exemplo, convertendo emojis em textos). Útil quando o canal externo possui limitações de caracteres ou não suporta certos símbolos. |
-| **Codificação Unicode** | Converte a mensagem para a forma unicode, preservando todos os caracteres especiais. Use quando o canal exige envio de caracteres em formato unicode |
+| **Codificação Unicode** | Converte a mensagem para a forma unicode, preservando todos os caracteres especiais. Use quando o canal exige envio de caracteres em formato unicode. |
 
 ## Content-Type
 
@@ -80,7 +78,7 @@ O campo **Content type** informa ao serviço externo em qual formato os dados es
 | **JSON – application/json** | Formato JSON, recomendável para APIs modernas. |
 | **XML – text/xml; charset=utf-8** | Formato XML, utilizado em algumas integrações legadas. |
 
-> sempre verifique a documentação do serviço externo para saber qual Content-Type ele espera. Para APIs REST é comum utilizar application/json.
+> Sempre verifique a documentação do serviço externo para saber qual Content-Type ele espera. Para APIs REST é comum utilizar application/json.
 
 ## Limite de caracteres (max_length)
 
@@ -161,7 +159,7 @@ Para um serviço que aceita JSON, a configuração pode ser:
 
 - Method: HTTP POST
 - Content-type: JSON – application/json
-- Enviar URL: <https://send.weni.ai/api/v2>
+- Enviar URL: [https://send.weni.ai/api/v2](https://send.weni.ai/api/v2)
 - Corpo da solicitação:
 
 ```json
@@ -177,7 +175,7 @@ Para um serviço que aceita JSON, a configuração pode ser:
 }
 ```
 
-Com essa configuração a plataforma fará um POST para <https://send.weni.ai/api/v2> enviando o JSON acima.
+Com essa configuração a plataforma fará um POST para [https://send.weni.ai/api/v2](https://send.weni.ai/api/v2) enviando o JSON acima.
 
 Se você optar por application/x-www-form-urlencoded, o corpo poderá ser:
 
@@ -203,7 +201,7 @@ As principais URLs são:
 
 A URL utilizada para enviar mensagens **será exatamente aquela definida por você no campo Enviar URL** na etapa 9. Ou seja, quando a plataforma precisar encaminhar uma mensagem de saída ao canal externo, ela executará um GET/POST/PUT para a URL que você configurou, incluindo os parâmetros e/ou o corpo definidos.
 
-Por exemplo, se na etapa 9 você configurou a URL <https://send.weni.ai/api/v2> com o método POST e escolheu o formato JSON, a chamada de envio terá a seguinte estrutura:
+Por exemplo, se na etapa 9 você configurou a URL `https://send.weni.ai/api/v2` com o método POST e escolheu o formato JSON, a chamada de envio terá a seguinte estrutura:
 
 ```
 POST https://send.weni.ai/api/v2
@@ -221,7 +219,7 @@ POST https://send.weni.ai/api/v2
 
 Se o método configurado for **GET**, a plataforma chamará a URL com os parâmetros na query string conforme exemplificado na seção 9.1.
 
-### URL recebidas (receive)
+### URL de mensagens recebidas (receive)
 
 Esta é a URL que **seu serviço** deve chamar quando receber uma mensagem de um usuário. Sempre que uma nova mensagem chegar ao seu canal externo, envie um POST para esse endpoint com os parâmetros:
 
@@ -238,7 +236,7 @@ from=%2B2520788123123&text=Love+is+patient.+Love+is+kind.&date=2012-04-23T18:25:
 
 Ao receber esta requisição, a plataforma processará a mensagem e enviará uma resposta através da URL configurada anteriormente, fechando o ciclo.
 
-### URL enviadas (sent) – opcional
+### URL de mensagens enviadas (sent) – opcional
 
 Seu serviço pode notificar a plataforma sempre que uma mensagem for **enviada** com sucesso para o usuário. Para isso, faça um POST para essa URL, passando o identificador da mensagem no body:
 
@@ -246,7 +244,7 @@ Seu serviço pode notificar a plataforma sempre que uma mensagem for **enviada**
 POST https://flows.weni.ai/c/ex/<ID>/sent?id=1234
 ```
 
-### URL entregues (delivered) – opcional
+### URL de mensagens entregues (delivered) – opcional
 
 Caso deseje informar à plataforma que uma mensagem foi **entregue** ao destinatário final, faça um POST para essa URL com o parâmetro id igual ao identificador da mensagem:
 
@@ -256,7 +254,7 @@ POST https://flows.weni.ai/c/ex/<ID>/delivered?id=234
 
 ### URL de desativação / parada do contato (stopped)
 
-Se o seu canal fornecer uma maneira de os usuários optarem por **parar de receber mensagens**, você deve notificar a plataforma. Quando um usuário se descadastrar, seu serviço deve enviar um POST para essa URL com o parâmetro from contendo o URN do usuário que pediu a desativação:
+Se o seu canal fornecer uma maneira de os usuários optarem por **parar de receber mensagens**, você deve notificar a plataforma. Quando um usuário se descadastrar, seu serviço deve enviar um POST para essa URL com o parâmetro from contendo a URN do usuário que pediu a desativação:
 
 ```
 POST https://flows.weni.ai/c/ex/<ID>/stopped?from=%2B2520788123123

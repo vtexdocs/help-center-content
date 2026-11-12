@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Understanding how the seller selection logic works for delivery or pickup'
 ---
 
-When a store has multiple sellers to increase its product offering and logistic capabilities, there could be infinite combinations for price and delivery time available for the same SKU. To ensure showing the customer the best alternatives, we coded different filters and business rules in the [seller selection algorithm](/en/tutorial/algoritmo-de-selecao-de-white-label-sellers--3MemNQ4pKkWCpMdzI27AHa?&utm_source=autocomplete) at checkout.
+When a store has multiple sellers to increase its product offering and logistic capabilities, there could be infinite combinations for price and delivery time available for the same SKU. To ensure showing the customer the best alternatives, we coded different filters and business rules in the [seller selection algorithm](/en/docs/tutorials/white-label-sellers-selection?&utm_source=autocomplete) at checkout.
 
 The seller selection algorithm was modified in order to tailor the delivery and pickup options to the client, prioritizing the greatest coverage of cart items. That means that before applying value and delivery time criteria, or pickup distance, the algorithm will try to ensure that all the items in the cart are in stock.
 

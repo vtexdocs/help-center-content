@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ This tutorial is only valid for CMS Portal (Legacy) stores and for the legacy search. If your store uses VTEX Intelligent Search, see the [Intelligent Search track](https://help.vtex.com/docs/tutorials/intelligent-search-overview).
+> ⚠️ This tutorial is only valid for CMS Portal (Legacy) stores and for the legacy search. If your store uses VTEX Intelligent Search, see the [Intelligent Search track](https://help.vtex.com/en/docs/tutorials/intelligent-search-overview).
 
 The search engine used by CMS Portal (Legacy) stores is customizable and allows you to apply filters by department, category, brand, collection, specification, and SKU, among others.
 
@@ -29,11 +29,11 @@ In this guide, you will learn how to use **Search Context** to associate a searc
 
 ## Before you begin
 
-Make sure that the [template](/docs/tutorials/what-are-templates) of the page contains the `<vtex.cmc:searchResult/>` control. The Search Context only works if the template contains this control. Learn more at [How to use the Search Result control](/docs/tutorials/how-to-use-the-search-result-control).
+Make sure that the [template](/en/docs/tutorials/what-are-templates) of the page contains the `<vtex.cmc:searchResult/>` control. The Search Context only works if the template contains this control. Learn more at [How to use the Search Result control](/en/docs/tutorials/how-to-use-the-search-result-control).
 
 1. In the Admin, go to **Storefront > Layout**.
 2. Click **CMS > HTML Templates**.
-3. Create a new template or ensure that an existing template contains the `<vtex.cmc:searchResult/>` control. For more details on how to create a template, see [Creating and editing a page template](/docs/tutorials/how-to-create-a-page-template).
+3. Create a new template or ensure that an existing template contains the `<vtex.cmc:searchResult/>` control. For more details on how to create a template, see [Creating and editing a page template](/en/docs/tutorials/how-to-create-a-page-template).
 
 > ℹ️ The `<vtex.cmc:searchResult/>` control only works on pages with search context, such as pages where the displayed results were obtained from a user search.
 
@@ -49,7 +49,7 @@ To create a landing page with a custom URL, follow the steps below:
    - [An existing page on your website](#configuring-search-context-on-an-existing-page)
    - [A new page to be created](#configure-search-context-on-a-new-page)
 
-> ⚠️ The legacy search renders a landing page when the searched term exactly matches the name of a folder configured in the CMS. For this folder to be searchable, a [layout](/docs/tutorials/what-are-layouts) must be associated with it, as does the parent folder. In structures with more than one directory level, such as `/folder1/landing-page`, this behavior may not work as expected, and the search may return a 404 page.
+> ⚠️ The legacy search renders a landing page when the searched term exactly matches the name of a folder configured in the CMS. For this folder to be searchable, a [layout](/en/docs/tutorials/what-are-layouts) must be associated with it, as does the parent folder. In structures with more than one directory level, such as `/folder1/landing-page`, this behavior may not work as expected, and the search may return a 404 page.
 
 ### Configuring Search Context on an existing page
 
@@ -68,7 +68,7 @@ After clicking the root folder (`/`), follow the instructions below:
 6. On the right side of the screen, click `new folder`.
 7. Complete the fields based on the guidelines below:
    - **Folder Name:** URL path.
-   - **Marketing Context (Default):** Defines whether the page can be accessed by [UTM](/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium) parameters. This field is optional.
+   - **Marketing Context (Default):** Defines whether the page can be accessed by [UTM](/en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium) parameters. This field is optional.
    - **Search Context (Default):** Adds search parameters. For example, to display products from category `111`, brand `222` and with specification `333`, use the following value: `fq=C:111&fq=B:222&fq=spec_fct_1:333`.
    - **Protocol:** Defines the communication protocol between a web server and a web browser. Recommended: `HTTPS`.
    - **Cache Type:** Defines the browser cache storage behavior. Recommended: `Local and Remote`.

@@ -1,9 +1,9 @@
 ---
-title: "Conceptos básicos sobre integraciones"
+title: "Integraciones"
 id: 5x9gjiQTdD6lrQLJziRozj
 status: PUBLISHED
 createdAt: 2025-09-15T15:52:46.844Z
-updatedAt: 2025-10-03T14:20:32.177Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.177Z
 firstPublishedAt: 2025-10-03T14:20:32.177Z
 contentType: tutorial
@@ -14,8 +14,6 @@ legacySlug: conceptos-basicos-sobre-integraciones
 locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
-
-## Integración a través de API
 
 La integración implica la acción de **buscar, modificar o enviar información a un servicio**. Las integraciones se dividen en dos:
 

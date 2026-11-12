@@ -22,16 +22,16 @@ The **Conversations** tab displays a table with all interactions, containing the
 
 ## Great conversations
 
-**Great conversations** are conversations that showcase the value of AI agents in effectively resolving a real need. When reviewing the **Improvement backlog**, these conversations receive a star tag and indicate that the agent took relevant actions, such as:
+**Great conversations** are conversations that showcase the value of AI agents in resolving a real need. When reviewing the **Improvement backlog**, these conversations receive a star tag and indicate that the agent took relevant actions, such as:
 
-- Fully resolving a question or issue, using the [knowledge base](https://help.vtex.com/en/docs/tutorials/visao-geral-agent-builder#base-de-conhecimento), tools, or team members.
+- Resolving a question or issue, using the [knowledge base](https://help.vtex.com/en/docs/tutorials/agent-builder-overview#base-de-conhecimento), tools, or team members.
 - Successfully carrying out a complex flow (order, exchange, cancellation, among others).
 - Gathering only the necessary information and being direct, without asking additional questions.
 - Successfully handling multiple requests in the same conversation.
 
 Receiving a high CSAT score and a customer satisfaction message also counts when determining a **great conversation**.
 
-> ℹ️ To learn more, see the article [Audit: Improvements Backlog](https://help.vtex.com/docs/tutorials/audit-improvements-backlog).
+> ℹ️ To learn more, see the article [Audit: Improvements Backlog](https://help.vtex.com/en/docs/tutorials/audit-improvements-backlog).
 
 ## Searching and filtering conversations
 
@@ -39,6 +39,7 @@ To find specific support interactions, you can use the search and filter feature
 
 - To find a conversation by contact, type the contact name in the **Search** field.
 - To filter the list by criteria such as time range, status, CSAT, topic, or conversation type, click `Filter conversations` and select the desired options. Then click `Apply filters`.
+- To find conversations that haven't received a topic classification, click `Filter conversations` and, under **Topic**, select the **No matching topic** option. This filter helps identify topics customers bring up that aren't yet mapped to your agent's topics.
 
 ## Opening and reading a conversation
 
@@ -55,6 +56,6 @@ The page displays the complete conversation in the order it occurred, with the d
 
 ## Checking message logs
 
-In messages sent by the AI agent, you can check the technical logs that explain how that response was generated. Logs help you understand the agent's reasoning and actions behind each response, such as whether it searched for information in the [knowledge base](https://help.vtex.com/en/docs/tutorials/visao-geral-agent-builder#base-de-conhecimento) or looked for that customer among existing contacts, among other actions.
+In messages sent by the AI agent, you can check the technical logs that explain how that response was generated. Logs help you understand the agent's reasoning and actions behind each response, such as whether it searched for information in the [knowledge base](https://help.vtex.com/en/docs/tutorials/agent-builder-overview#base-de-conhecimento) or looked for that customer among existing contacts, among other actions.
 
 To check the logs, click `Show logs` on the desired message.

@@ -45,4 +45,4 @@ If the payment still hasn't been identified after the reconciliation target has 
 2. Select the **Submission of payment receipt** option.
 3. Attach the receipts and, when applicable, the withholding certificates.
 
-> ⚠️ If access to the VTEX Admin is blocked, you can temporarily unblock it while you settle the payment. Learn more in [How to temporarily unblock the Admin](/en/docs/tutorials/how-to-temporarily-unblock-the-admin).
+> ⚠️ If access to the VTEX Admin is blocked, you can temporarily unblock it while you settle the payment. Learn more in [How to temporarily unblock the Admin](/en/docs/tutorials/temporarily-unblocking-the-vtex-admin).

@@ -1,5 +1,6 @@
 ---
 title: "I received an invoice and I'm not a VTEX client. Why?"
+excerpt: "Invoices issued under the VTEX tax ID can belong to other brands VTEX operates. Use the support channel for the platform you actually use."
 id: 2xW1boWieUC40KQgIaugGG
 status: PUBLISHED
 createdAt: 2018-03-28T18:35:49.057Z

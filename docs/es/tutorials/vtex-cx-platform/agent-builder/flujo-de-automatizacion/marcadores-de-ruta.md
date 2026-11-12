@@ -19,7 +19,7 @@ Después de crear nuestros flujos, nuestro objetivo y ansiedad se centran en sab
 
 ## Marcadores de ruta
 
-Los marcadores de ruta son números guía que aparecen debajo de cada carta de acción y decisión, mostrando cuántas personas han pasado por esa ruta en el flujo. Es una herramienta muy interesante para identificar cuál es el camino más frecuentado por tus usuarios, además de actualizarse siempre en tiempo real. También es útil para identificar ciertos cuellos de botella, como cuando una pregunta retiene a un usuario demasiado tiempo en el flujo.
+Los marcadores de ruta son números guía que aparecen debajo de cada carta de acción y decisión, mostrando cuántas personas han pasado por esa ruta en el flujo. Es una herramienta para identificar cuál es el camino más frecuentado por tus usuarios, y se actualiza en tiempo real. También es útil para identificar ciertos cuellos de botella, como cuando una pregunta retiene a un usuario demasiado tiempo en el flujo.
 
 Al colocar el cursor sobre uno de los marcadores de ruta, puedes ver cuáles fueron los últimos mensajes recibidos por las personas que pasaron por ese camino, además de conocer la fecha del último contacto.
 

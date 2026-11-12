@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6SEjoixhY5LlA7G15W6oZS
 ---
 
-The telesales toolbar is displayed at the top of your store's website for users with the [Call Center Operator user role](/en/docs/tutorials/how-can-i-create-callcenter-user), in charge of customer service. This tool allows telesales operators to browse the store on behalf of customers, "impersonating" end-users.
+The telesales toolbar is displayed at the top of your store's website for users with the [Call Center Operator user role](/en/docs/tutorials/creating-a-telesales-user), in charge of customer service. This tool allows telesales operators to browse the store on behalf of customers, "impersonating" end-users.
 
 Once the registered operator logs into the store environment, the toolbar will be displayed at the top of all sections of the website.
 
@@ -25,7 +25,7 @@ See below the main features of the telesales toolbar:
 *   [Log in as customer](#log-in-as-customer)
 *   [Customer information](#customer-information)
 
-To enable this toolbar, the store administrator must [assign the Call Center Operator role](/en/faq/como-criar-um-usuario-de-televendas) to telesales operators. In the VTEX Admin, go to **Account settings > User roles**, or type **User roles** in the search bar at the top of the page.
+To enable this toolbar, the store administrator must [assign the Call Center Operator role](/en/docs/tutorials/creating-a-telesales-user) to telesales operators. In the VTEX Admin, go to **Account settings > User roles**, or type **User roles** in the search bar at the top of the page.
 
 To learn how to customize the toolbar in the **CMS** module, check out the article [Customizing the telesales toolbar](/en/docs/tutorials/customizar-a-toolbar-de-televendas).
 
@@ -56,7 +56,7 @@ By clicking on the customer's name, the operator will view the following informa
 ## Related articles
 
 * [Predefined roles - Call center operator](/en/docs/tutorials/predefined-roles#call-center-operator)
-* [Creating a call center user](/en/docs/tutorials/how-can-i-create-callcenter-user)
+* [Creating a call center user](/en/docs/tutorials/creating-a-telesales-user)
 * [Customizing the telesales toolbar](/en/docs/tutorials/customizar-a-toolbar-de-televendas)
 * [My orders](/en/docs/tutorials/how-my-account-works#pedidos)
 * [How to use telesales features](/en/docs/tutorials/telesales-features)

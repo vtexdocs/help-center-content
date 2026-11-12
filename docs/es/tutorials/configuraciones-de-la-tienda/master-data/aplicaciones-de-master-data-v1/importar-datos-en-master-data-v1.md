@@ -17,7 +17,7 @@ subcategoryId: 2AThnkEZAYbk4G4EIs53rL
 
 La inclusión y modificación en masa de registros en Master Data v1 puede realizarse por API o importando una plantilla. Este artículo tiene como objetivo proporcionar las instrucciones necesarias para crear e importar una plantilla con los datos nuevos y modificados.
 
-> ⚠️ Al importar datos en masa a una entidad personalizada el volumen de documentos almacenados aumenta, lo que puede afectar el valor mensual de Master Data. Más información en [Entidades de datos personalizadas](/es/docs/tutorials/master-data). El almacenamiento de documentos en entidades nativas de Master Data no genera cargos adicionales.
+> ⚠️ Al importar datos en masa a una entidad personalizada el volumen de documentos almacenados aumenta, lo que puede afectar el valor mensual de Master Data. Más información en [Entidades de datos personalizadas](/es/docs/tutorials/master-data-es). El almacenamiento de documentos en entidades nativas de Master Data no genera cargos adicionales.
 
 ## Exportar datos del formulario
 

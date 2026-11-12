@@ -9,7 +9,7 @@ locale: pt
 hidden: false
 ---
 
-Quando um contato inicia um atendimento humano no [Live Desk](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk), o chatbot continua ativo em segundo plano. Se nada for feito, as mensagens automáticas configuradas nos disparadores podem ser acionadas durante a conversa e interromper o atendimento. Para evitar esse conflito, use um **grupo de controle**: um [grupo estático](https://help.vtex.com/pt/docs/tutorials/grupos-estaticos) que reúne todos os contatos que estão em atendimento humano e que deve ser ignorado pelos disparadores.
+Quando um contato inicia um atendimento humano no [Live Desk](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk), o chatbot continua ativo em segundo plano. Se nada for feito, as mensagens automáticas configuradas nos triggers podem ser acionadas durante a conversa e interromper o atendimento. Para evitar esse conflito, use um **grupo de controle**: um [grupo estático](https://help.vtex.com/pt/docs/tutorials/grupos-estaticos) que reúne todos os contatos que estão em atendimento humano e que deve ser ignorado pelos triggers.
 
 > ⚠️ Caso os contatos não sejam adicionados a um grupo de controle, o chatbot irá conflitar e interromper o atendimento humano, enviando as mensagens padrão configuradas no seu ambiente.
 
@@ -17,7 +17,7 @@ Neste artigo você aprenderá a:
 
 - [Criar o grupo de controle](#criar-o-grupo-de-controle)
 - [Adicionar contatos ao grupo de controle](#adicionar-contatos-ao-grupo-de-controle)
-- [Ignorar o grupo de controle nos disparadores](#ignorar-o-grupo-de-controle-nos-disparadores)
+- [Ignorar o grupo de controle nos triggers](#ignorar-o-grupo-de-controle-nos-triggers)
 - [Remover contatos do grupo de controle](#remover-contatos-do-grupo-de-controle)
 - [Enviar campos customizados no ticket](#enviar-campos-customizados-no-ticket)
 
@@ -52,30 +52,30 @@ No fluxo em que você utiliza a carta de ação **Abrir um ticket com um agente 
 
 Para saber mais sobre essas cartas, consulte o artigo [Cartas de ação](https://help.vtex.com/pt/docs/tutorials/cartas-de-acao).
 
-## Ignorar o grupo de controle nos disparadores
+## Ignorar o grupo de controle nos triggers
 
-Após adicionar o contato ao grupo, é preciso configurar cada disparador do projeto para ignorar os contatos que estão no grupo _Atendimento Humano_. Assim, o chatbot não interrompe o atendimento. Para isso, siga as etapas abaixo:
+Após adicionar o contato ao grupo, é preciso configurar cada trigger do projeto para ignorar os contatos que estão no grupo _Atendimento Humano_. Assim, o chatbot não interrompe o atendimento. Para isso, siga as etapas abaixo:
 
 1. Acesse a organização e o projeto que deseja modificar no [VTEX CX Platform](https://dash.weni.ai/orgs).
 2. No menu lateral, clique em **Contatos**.
-3. Clique em **Disparadores**.
-4. Clique em um disparador configurado no seu projeto.
+3. Clique em **Triggers**.
+4. Clique em um trigger configurado no seu projeto.
 5. No campo **Grupos a Excluir**, selecione o grupo _Atendimento Humano_.
 6. Clique em `Salvar alterações`.
-7. Repita o processo para **todos os disparadores** do projeto.
+7. Repita o processo para **todos os triggers** do projeto.
 
-Com isso, enquanto o contato estiver no grupo de controle, ele não será acionado pelas mensagens automáticas, e o atendimento humano seguirá sem interrupções. Para mais informações sobre disparadores, consulte os artigos [Como criar um disparador](https://help.vtex.com/pt/docs/tutorials/como-criar-um-disparador) e [Tipos de Gatilho](https://help.vtex.com/pt/docs/tutorials/tipos-de-gatilho).
+Com isso, enquanto o contato estiver no grupo de controle, ele não será acionado pelas mensagens automáticas, e o atendimento humano seguirá sem interrupções. Para mais informações sobre triggers, consulte os artigos [Criar um trigger](https://help.vtex.com/pt/docs/tutorials/como-criar-um-disparador) e [Tipos de Trigger](https://help.vtex.com/pt/docs/tutorials/tipos-de-gatilho).
 
 ## Remover contatos do grupo de controle
 
-É importante remover o contato do grupo de controle quando a sessão de atendimento humano for concluída. Caso contrário, ele continuará sendo ignorado pelos disparadores mesmo após o fim do atendimento.
+É importante remover o contato do grupo de controle quando a sessão de atendimento humano for concluída. Caso contrário, ele continuará sendo ignorado pelos triggers mesmo após o fim do atendimento.
 
 Essa automação envolve dois elementos com funções distintas:
 
 - Um **fluxo de encerramento**, que remove o contato do grupo de controle.
-- Um **disparador**, que inicia esse fluxo sempre que um ticket do Live Desk é encerrado.
+- Um **trigger**, que inicia esse fluxo sempre que um ticket do Live Desk é encerrado.
 
-Por isso, primeiro crie o fluxo de encerramento e, em seguida, o disparador que o aciona.
+Por isso, primeiro crie o fluxo de encerramento e, em seguida, o trigger que o aciona.
 
 ### Criar o fluxo de encerramento
 
@@ -90,20 +90,20 @@ O fluxo de encerramento requer apenas um bloco com a carta de ação **Remover c
 7. Clique em **Ok**.
 8. Salve as alterações do fluxo.
 
-### Criar o disparador de encerramento
+### Criar o trigger de encerramento
 
-Depois de criar o fluxo, configure o disparador que o inicia automaticamente quando um ticket é encerrado. Para isso, siga as etapas abaixo:
+Depois de criar o fluxo, configure o trigger que o inicia automaticamente quando um ticket é encerrado. Para isso, siga as etapas abaixo:
 
 1. Acesse a organização e o projeto que deseja modificar no [VTEX CX Platform](https://dash.weni.ai/orgs).
 2. No menu lateral, clique em **Contatos**.
-3. Clique em **Disparadores**.
-4. Clique em `Criar disparador`.
+3. Clique em **Triggers**.
+4. Clique em `Criar Trigger`.
 5. Clique em **Iniciar um fluxo após um ticket ser fechado.**.
 6. Em **Fluxo**, selecione o fluxo de encerramento criado anteriormente.
-7. Deixe o campo **Grupos a Excluir** vazio para aplicar o gatilho a todos os contatos.
-8. Clique em `Criar disparador`.
+7. Deixe o campo **Grupos a Excluir** vazio para aplicar o trigger a todos os contatos.
+8. Clique em `Criar Trigger`.
 
-Dessa forma, ao encerrar o ticket, o disparador inicia o fluxo de encerramento, que remove o contato do grupo de controle. Assim, o contato volta a interagir normalmente com o chatbot.
+Dessa forma, ao encerrar o ticket, o trigger inicia o fluxo de encerramento, que remove o contato do grupo de controle. Assim, o contato volta a interagir normalmente com o chatbot.
 
 ## Enviar campos customizados no ticket
 

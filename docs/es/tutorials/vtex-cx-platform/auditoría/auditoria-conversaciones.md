@@ -22,7 +22,7 @@ En el módulo **Auditoría** puedes acceder a la pestaña **Conversaciones**, do
 
 ## Conversaciones excelentes
 
-Las **conversaciones excelentes** son conversaciones que muestran el valor de los agentes de IA al resolver una demanda real de forma eficaz. Al hacer un análisis en el **Backlog de mejoras**, estas conversaciones se marcan con una tag de estrella e indican que el agente realizó acciones relevantes como:
+Las **conversaciones excelentes** son conversaciones que muestran el valor de los agentes de IA al resolver una demanda real. Al hacer un análisis en el **Backlog de mejoras**, estas conversaciones se marcan con una tag de estrella e indican que el agente realizó acciones relevantes como:
 
 - Resolver una duda o un problema de forma completa utilizando la [base de conocimiento](https://help.vtex.com/es/docs/tutorials/informacion-general-de-agent-builder#base-de-conocimiento), las herramientas o los colaboradores.
 - Ejecutar un flujo complejo con éxito (de pedido, cambio, cancelación, entre otros).
@@ -39,6 +39,7 @@ Puedes utilizar los recursos de búsqueda y filtros para localizar chats de sopo
 
 - Para buscar un chat de soporte por contacto, escribe el nombre del contacto en el campo **Buscar**.
 - Para filtrar la lista por criterios como rango de tiempo, status, CSAT, tema o tipo de conversación haz clic en `Filtrar conversaciones` y selecciona las opciones deseadas. Al finalizar haz clic en `Aplicar filtros`.
+- Para encontrar conversaciones que no han sido clasificadas por tema, haz clic en `Filtrar conversaciones` y, en **Asunto**, selecciona la opción **Ningún asunto correspondiente**. Este filtro ayuda a identificar temas que los clientes mencionan y que aún no se han mapeado en los asuntos de tu agente.
 
 ## Abrir y leer una conversación
 
@@ -55,6 +56,6 @@ El cuerpo del panel muestra la conversación completa, en el orden en que ocurri
 
 ## Consultar los logs de un mensaje
 
-En los mensajes enviados por el agente de IA, puedes consultar los registros técnicos que explican cómo se generó esa respuesta. Los logs ayudan a entender el razonamiento y las acciones del agente detrás de cada respuesta, si buscó información en la [base de conocimiento](https://help.vtex.com/es/docs/tutorials/visao-geral-agent-builder#base-de-conhecimento), si buscó a ese cliente entre los contactos existentes, entre otras acciones.
+En los mensajes enviados por el agente de IA, puedes consultar los registros técnicos que explican cómo se generó esa respuesta. Los logs ayudan a entender el razonamiento y las acciones del agente detrás de cada respuesta, si buscó información en la [base de conocimiento](https://help.vtex.com/es/docs/tutorials/informacion-general-de-agent-builder#base-de-conhecimento), si buscó a ese cliente entre los contactos existentes, entre otras acciones.
 
 Para consultar los logs, haz clic en `Mostrar logs` en el mensaje deseado.

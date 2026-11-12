@@ -38,4 +38,4 @@ No se requiere ninguna acción. La actualización se aplicará automáticamente 
 
 * [Configurar inicio de sesión con Facebook y Google](https://help.vtex.com/es/docs/tutorials/configurar-inicio-de-sesion-con-facebook-y-google)
 * [Registrar Client ID y Secreto del cliente para inicio de sesión con Google](https://help.vtex.com/es/docs/tutorials/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google)
-* [Registrar Client ID y Secreto del cliente para Inicio de sesión con Facebook](https://help.vtex.com/es/docs/tutorials/registrar-client-id-y-client-secret-para-login-con-facebook)
+* [Registrar Client ID y Secreto del cliente para Inicio de sesión con Facebook](https://help.vtex.com/es/docs/tutorials/registrar-client-id-y-secreto-del-cliente-para-inicio-de-sesion-con-facebook)

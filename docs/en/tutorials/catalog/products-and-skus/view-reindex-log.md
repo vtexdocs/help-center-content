@@ -31,4 +31,4 @@ The log displays the following information for each action:
 
 ### Related articles
 
-- [Cleaning store's database](/en/tutorial/understanding-how-to-maintain-a-database)
+- [Cleaning store's database](/en/docs/tutorials/database-maintenance-full-cleanup)

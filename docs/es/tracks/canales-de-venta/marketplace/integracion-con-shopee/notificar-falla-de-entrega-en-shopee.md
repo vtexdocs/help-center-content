@@ -10,3 +10,5 @@ trackId: 4CaZCzU9ZO1CByH0haZ9hA
 trackSlugEN: integracion-con-shopee
 order: 8
 ---
+
+> ℹ️ Este contenido está disponible solo en portugués. Haz clic [aquí](https://help.vtex.com/pt/docs/tracks/notificar-falha-de-entrega-na-shopee) para acceder.

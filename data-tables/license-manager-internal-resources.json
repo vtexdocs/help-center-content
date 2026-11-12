@@ -1,20 +1,28 @@
 {
   "rows": [
     {
+      "product": "AI Workspace",
+      "category": "Settings",
+      "resource": "View Instructions",
+      "key": "ai_workspace.settings.view_instructions",
+      "resourceId": "2165644",
+      "productId": "134"
+    },
+    {
+      "product": "AI Workspace",
+      "category": "Settings",
+      "resource": "Edit Instructions",
+      "key": "ai_workspace.settings.edit_instructions",
+      "resourceId": "2165645",
+      "productId": "134"
+    },
+    {
       "product": "Audit",
       "category": "Product",
       "resource": "Export Job",
       "key": "ExportJob",
       "resourceId": "2124114",
       "productId": "55"
-    },
-    {
-      "product": "Availability Notify",
-      "category": "Notification Requests",
-      "resource": "Download Notification Requests",
-      "key": "downloadNotificationRequests",
-      "resourceId": "2156515",
-      "productId": "136"
     },
     {
       "product": "B2B",
@@ -158,6 +166,22 @@
       "resource": "Update boleto overdue date",
       "key": "boleto_overdue_date",
       "resourceId": "2102653",
+      "productId": "43"
+    },
+    {
+      "product": "Billing",
+      "category": "Credit",
+      "resource": "Edit Credit",
+      "key": "billing.credit.edit",
+      "resourceId": "2165313",
+      "productId": "43"
+    },
+    {
+      "product": "Billing",
+      "category": "Credit",
+      "resource": "Edit Credit Settings",
+      "key": "billing.credit.edit_settings",
+      "resourceId": "2165314",
       "productId": "43"
     },
     {
@@ -1641,6 +1665,14 @@
       "productId": "99"
     },
     {
+      "product": "User Rights",
+      "category": "User Rights",
+      "resource": "View User Rights Configuration",
+      "key": "user_rights_read_configuration",
+      "resourceId": "2163604",
+      "productId": "99"
+    },
+    {
       "product": "VTEX CX Platform",
       "category": "CX Platform Access",
       "resource": "Access CX Platform",
@@ -1694,6 +1726,54 @@
       "resource": "File Manager Bucket Config",
       "key": "file-manager-bucket-config",
       "resourceId": "2156623",
+      "productId": "66"
+    },
+    {
+      "product": "VTEX IO",
+      "category": "Infrastructure",
+      "resource": "Read workspace routes",
+      "key": "read-workspace-routes",
+      "resourceId": "2167148",
+      "productId": "66"
+    },
+    {
+      "product": "VTEX IO",
+      "category": "Infrastructure",
+      "resource": "Read/write user routes",
+      "key": "read-write-user-routes",
+      "resourceId": "2167149",
+      "productId": "66"
+    },
+    {
+      "product": "VTEX IO",
+      "category": "Infrastructure",
+      "resource": "Read workspace simulated routes",
+      "key": "read-workspace-simulated-routes",
+      "resourceId": "2167150",
+      "productId": "66"
+    },
+    {
+      "product": "VTEX IO",
+      "category": "Infrastructure",
+      "resource": "Read role policies",
+      "key": "read-role-policies",
+      "resourceId": "2167158",
+      "productId": "66"
+    },
+    {
+      "product": "VTEX IO",
+      "category": "Infrastructure",
+      "resource": "Sphinx - Is Admin",
+      "key": "sphinx-is-admin",
+      "resourceId": "2167159",
+      "productId": "66"
+    },
+    {
+      "product": "VTEX IO",
+      "category": "Infrastructure",
+      "resource": "Read workspace apps bundle",
+      "key": "read-workspace-apps-bundle",
+      "resourceId": "2167160",
       "productId": "66"
     },
     {

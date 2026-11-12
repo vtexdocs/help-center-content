@@ -80,7 +80,7 @@ This setting allows you to activate the desired sharing channels in the cart sha
 
 ## Customization (optional)
 
-You can change the button colors on your store's cart sharing interface through [Checkout customization](/en/tutorial/configurar-template-no-smartcheckout--frequentlyAskedQuestions_599). 
+You can change the button colors on your store's cart sharing interface through [Checkout customization](/en/docs/tutorials/configure-template-in-smartcheckout-update). 
 
 In the image below, option A shows the original colors and option B shows one possible customization.
 

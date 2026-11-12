@@ -17,7 +17,7 @@ subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 
 This article sets out to describe how VTEX's search system works.
 
-> ⚠️ VTEX has two search options - VTEX Search (Legacy) and VTEX Intelligent Search. This article refers to the VTEX Search (Legacy). To learn more about VTEX Intelligent Search, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ VTEX has two search options - VTEX Search (Legacy) and VTEX Intelligent Search. This article refers to the VTEX Search (Legacy). To learn more about VTEX Intelligent Search, see [this track](/en/docs/tracks/implementing-the-search-in-your-store-frontend).
 
 ## VTEX Search (Legacy) engine product display prioritization 
 

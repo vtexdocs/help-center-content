@@ -3,7 +3,7 @@ title: "Sienge API-integrated chatbot"
 id: 3ysIw5ORs4JzRTJN92GDx7
 status: PUBLISHED
 createdAt: 2025-09-17T14:23:32.240Z
-updatedAt: 2025-10-03T14:20:03.565Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:03.565Z
 firstPublishedAt: 2025-10-03T14:20:03.565Z
 contentType: tutorial
@@ -15,11 +15,11 @@ locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-## Sienge chatbot template
+This template sends duplicate invoices in PDF, PDF statements, and outstanding balances, and runs collections through external channels, such as WhatsApp. The template was developed on VTEX CX Platform and uses the Sienge Platform.
 
-This is a chatbot designed to handle the issuance of duplicate invoices in PDF format, PDF statements, outstanding balances, and external collections through channels such as WhatsApp. VTEX CX Platform provides digital solutions for automating conscious, open, and accessible communication. This chatbot is a template project developed by VTEX CX Platform using the Sienge Platform.
+## Before you begin
 
-For full automation functionality, an API user must be created with permissions to access the following resources:
+For full automation functionality, create an API user with permission to access the resources below:
 
 - Invoice generation (duplicate)
 - Generation of the client’s current outstanding balance
@@ -34,6 +34,6 @@ For full automation functionality, an API user must be created with permissions 
 
 To create an API user, please follow this [step-by-step](https://www.youtube.com/watch?v=w0f9O20ZeLM&list=PLel5qygu4y7SE1xF8UmVhJBJX6S5YavCE) guide.
 
-To better understand how the Sienge chatbot template works, watch this [demonstration video](https://www.youtube.com/watch?v=Z7KYanhT-aw&feature=youtu.be).
+To see how the template works, watch the [demonstration](https://www.youtube.com/watch?v=Z7KYanhT-aw&feature=youtu.be).
 
-Interested in this solution for your business? Contact our sales team to request a demo.
+To use this template, contact the VTEX sales team and request a demo.

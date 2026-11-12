@@ -45,7 +45,7 @@ Las demás páginas del Admin serán rediseñadas a lo largo de 2022.
 
 ### Cambios en el menú de navegación
 
-No se ha eliminado ninguna página del Admin VTEX, pero sí hemos reorganizado el menú de navegación para que se ajuste mejor a las páginas más visitadas y refleje las prioridades de tu operación. Aprende más sobre nuestra [navegación mejorada](/es/tutorial/vtex-admin-start-here--5bBA7QgKuU2wL2Aq11pqAA#Enhanced%20Navigation).
+No se ha eliminado ninguna página del Admin VTEX, pero sí hemos reorganizado el menú de navegación para que se ajuste mejor a las páginas más visitadas y refleje las prioridades de tu operación. Aprende más sobre nuestra [navegación mejorada](/es/docs/tutorials/admin-vtex-comience-aqui#Enhanced%20Navigation).
 
 > ℹ️ Puedes utilizar la barra de búsqueda en la parte superior del Admin VTEX para buscar páginas específicas. Las páginas que no son parte de nuestra edición estándar del Admin VTEX se pueden encontrar al acceder a Apps > Apps instaladas.
 
@@ -81,4 +81,4 @@ Nuestro objetivo es aportar coherencia a tu experiencia, reduciendo la complejid
 
 Si deseas participar en este programa Beta, haz clic [aquí](https://content.vtex.com/join-new-admin-beta-program-es/). El equipo de VTEX se pondrá en contacto y, una vez que te hayas unido a nuestro programa Beta, actualizaremos a todos los usuarios de la cuenta de tu tienda a la nueva experiencia. No se requiere ninguna configuración adicional.
 
-Para ayudarte a navegar por la nueva experiencia, hemos creado un [nuevo Help Center](/es/v4) dedicado a la experiencia rediseñada, donde podrás acceder a [artículos de ayuda sobre las nuevas páginas](/es/tutorial/vtex-admin-start-here--5bBA7QgKuU2wL2Aq11pqAA) y estar al tanto de los lanzamientos mientras rediseñamos toda la plataforma.
+Para ayudarte a navegar por la nueva experiencia, hemos creado un [nuevo Help Center](/es/v4) dedicado a la experiencia rediseñada, donde podrás acceder a [artículos de ayuda sobre las nuevas páginas](/es/docs/tutorials/admin-vtex-comience-aqui) y estar al tanto de los lanzamientos mientras rediseñamos toda la plataforma.

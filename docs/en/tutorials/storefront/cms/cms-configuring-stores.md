@@ -61,7 +61,7 @@ To edit the store name, click `Edit`. You can view the following fields:
 
 ### Locales
 
-The **Locales** tab defines the language and regional settings for the store content. For more information, see the [Configuring locales](https://help.vtex.com/docs/tutorials/configuring-locales) guide.
+The **Locales** tab defines the language and regional settings for the store content. For more information, see the [Configuring locales](https://help.vtex.com/en/docs/tutorials/configuring-locales) guide.
 
 ![locales-tab](https://vtexhelp.vtexassets.com/assets/docs/src/cms-locales-tab___b0ea3a987998523c52ed26d1133b53cb.png)
 

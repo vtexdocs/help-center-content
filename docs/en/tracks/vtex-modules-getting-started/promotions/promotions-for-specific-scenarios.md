@@ -43,7 +43,7 @@ The setup screen has two SKU lists, which you can add manually or import via spr
 - Buy a pair of pants and get **10% off** a belt. 
 - Buy a pair of sneakers and a pair of socks and get **15% off**.
 
-For more information, check [Creating a Buy Together promotion](https://help.vtex.com/docs/tutorials/buy-together).
+For more information, check [Creating a Buy Together promotion](https://help.vtex.com/en/docs/tutorials/buy-together).
 
 ## More for Less
 
@@ -70,7 +70,7 @@ Advanced settings define how the discount will be applied to the selected produc
 - **Cheapest products:** The discount applies to the lowest-priced products.
 **Most expensive products:** The discount applies to the highest-priced products.
 
-For more information, see [Creating a More for Less promotion](https://help.vtex.com/docs/tutorials/creating-a-more-for-less-promotion).
+For more information, see [Creating a More for Less promotion](https://help.vtex.com/en/docs/tutorials/creating-a-more-for-less-promotion).
 
 ## Progressive Discount
 
@@ -87,7 +87,7 @@ When configuring this promotion, set the participating **SKUs** or **collections
 
 ![Progressive Discount – EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/progressive-discount_1.gif)
 
-For more information, see [How the progressive discount works](https://help.vtex.com/docs/tutorials/progressive-discount).
+For more information, see [How the progressive discount works](https://help.vtex.com/en/docs/tutorials/progressive-discount).
 
 ## Buy One Get One
 The **Buy One Get One** promotion offers free shipping, a gift, or the option of setting a **maximum price per item** whenever a customer adds the eligible products to the cart, depending on the configured rules.
@@ -122,7 +122,7 @@ The configuration screen allows you to set the purchase conditions and the benef
 
 > ⚠️ A Buy One Get One promotion allows you to configure up to 100 different SKUs simultaneously.
 
-For more information, see [How the Buy One Get One (BoGo) promotion works](https://help.vtex.com/docs/tutorials/buy-one-get-one).
+For more information, see [How the Buy One Get One (BoGo) promotion works](https://help.vtex.com/en/docs/tutorials/buy-one-get-one).
 
 ## Campaign Promotion
 
@@ -132,7 +132,7 @@ This type of promotion is linked to a [campaign audience](https://help.vtex.com/
 
 > ❗Campaign audiences and their promotions are only valid for the main store account. Seller accounts don't support this feature.
 
-For more information, see [Creating a campaign promotion](https://help.vtex.com/docs/tutorials/campaign-promotion).
+For more information, see [Creating a campaign promotion](https://help.vtex.com/en/docs/tutorials/campaign-promotion).
 
 ## Usage restrictions
 
@@ -146,7 +146,7 @@ The Restrictions section is available for all types of promotions. See below the
 
 - For **Fixed amount discount**, **Fixed amount discount: formula** and **Maximum price per item**, the limit applies to the total items in the cart.
 
- - For **Percentage discount**, you can choose whether the limit applies per cart, per product, or per SKU. For more information on these discounts, see [Regular Promotion](https://help.vtex.com/docs/tutorials/regular-promotion).
+ - For **Percentage discount**, you can choose whether the limit applies per cart, per product, or per SKU. For more information on these discounts, see [Regular Promotion](https://help.vtex.com/en/docs/tutorials/regular-promotion).
 
  The table below shows the restrictions that apply to each promotion type:
 

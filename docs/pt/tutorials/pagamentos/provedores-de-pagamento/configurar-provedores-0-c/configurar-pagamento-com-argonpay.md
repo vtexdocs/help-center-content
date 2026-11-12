@@ -1,0 +1,46 @@
+---
+title: 'Configurar pagamento com argonPAY'
+id: 6Pktml6MJpdc7dNvJ4zwzI
+status: PUBLISHED
+createdAt: 2023-12-18T14:51:00.261Z
+updatedAt: 2023-12-18T15:02:08.524Z
+publishedAt: 2023-12-18T15:02:08.524Z
+firstPublishedAt: 2023-12-18T15:02:08.524Z
+contentType: tutorial
+productTeam: Financial
+author: 6DODK49lJPk3yvcoe6GB6g
+slugEN: setting-up-payments-with-argonpay
+legacySlug: configurar-pagamento-com-argonpay
+locale: pt
+subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+---
+
+Na VTEX, é possível realizar a integração com o provedor de pagamento argonPAY. Por meio deste conector, sua loja pode realizar vendas por meio do argonPAY.
+
+Para configurar o provedor argonPAY, siga os passos abaixo:
+
+1. No Admin VTEX, acesse **Configurações da loja > Pagamentos > Configurações**, ou digite **Configurações** na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome **ArgonPay** na barra de busca e clique sobre o nome do provedor.
+4. Em **Autorização do provedor**, preencha os campos **Chave de aplicação** e **Token de aplicação** com as informações da sua conta argonPay.
+5. Caso deseje modificar o nome de identificação a ser exibido para o provedor argonPay na tela do Admin VTEX, insira a informação no campo **Nome** em **Informações básicas**.
+6. Em **Controle de pagamento**, selecione se deseja ativar o provedor em ambiente de teste clicando em **Ativar modo de teste**.
+7. No campo **Liquidação automática**, selecione uma das seguintes opções:
+- **Use o comportamento recomendado pelo processador de pagamentos**: a captura não é automática, mas agendada de acordo com o prazo especificado pela adquirente que, além de indicar se o pagamento foi autorizado, pode especificar ou recomendar um número de dias para a captura no momento da resposta à autorização do pagamento (este é o comportamento padrão da plataforma).
+- **Liquidação automática imediatamente após a autorização do pagamento**: a captura é automática e acontece logo após a autorização, mesmo que a transação possua uma análise antifraude.
+- **Liquidação automática imediatamente após a análise antifraude**: a captura é automática e acontece logo após a autorização e análise antifraude (Caso você selecione este comportamento e não possua análise antifraude, a captura do pagamento acontecerá da mesma forma que no comportamento "Liquidação automática imediatamente após a autorização do pagamento").
+- **Desativado**: a captura acontece somente quando o pedido for faturado. Caso escolha esse comportamento de captura, é importante atentar-se quanto ao tempo do faturamento. Isso porque o faturamento pode ultrapassar o tempo de captura acordado com o provedor de pagamentos e levar à perda da transação.
+
+8. Caso deseje utilizar o split de pagamento em sua loja, selecione a opção **Ativar split de recebíveis e enviar recebedores de pagamento** e indique o **Responsável pelas tarifas de processamento de pagamentos** e **Responsável pelos estornos** (marketplace, sellers ou marketplaces e sellers).
+9. Clique em `Salvar`.
+
+## Configurar condição de pagamento
+
+1. No Admin VTEX, acesse _**Configurações da loja > Pagamentos > Configurações**, ou digite **Configurações** na barra de busca no topo da página.
+2. Na aba **Condições de Pagamentos**, clique no botão `+`.
+3. Clique em **ArgonPay**.
+4. Ative a condição no campo **Status**.
+5. Se desejar, você também pode [configurar condições especiais de pagamento](https://help.vtex.com/pt/docs/tutorials/condicoes-especiais).
+6. Clique em `Salvar`.
+
+Depois de seguir os passos indicados, o conector argonPAY pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento.

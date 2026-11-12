@@ -3,7 +3,7 @@ title: "Glosario de variables"
 id: MOTwhIJlY251TLzK3UUPl
 status: PUBLISHED
 createdAt: 2025-09-16T16:20:16.591Z
-updatedAt: 2025-10-03T14:20:04.252Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:04.252Z
 firstPublishedAt: 2025-10-03T14:20:04.252Z
 contentType: tutorial
@@ -19,11 +19,12 @@ Las variables son espacios creados para almacenar valores en la plataforma, lo q
 
 Para utilizar una variable, se debe colocar el símbolo @, y la expresión escrita será sustituida por el valor real de la variable, siempre que se haya creado de manera adecuada.
 
-A continuación, haremos una lista de cómo referirse a todos los tipos de variables existentes en la VTEX CX Platform, que son:
+Las secciones de abajo describen cómo referenciar los tipos de variables de VTEX CX Platform:
 
 - Contactos y campos de contacto
 - Resultados y flujos
-- Globals
+- Parámetros del disparo
+- Variables globales
 
 ## Contactos y campos de contacto
 
@@ -36,12 +37,12 @@ A continuación, haremos una lista de cómo referirse a todos los tipos de varia
 - `@contact.created_on`: Fecha en la que se creó el contacto;
 - `@contact.language`: Idioma preferido del contacto;
 - `@contact.channel`: Nombre del canal preferido del contacto;
-- `@contact.groups`: Nombre de los grupos a los que pertenece el contacto;
-- `@contact.fields`: Campos de contacto personalizados del contacto. Para acceder, basta usar `@contact.fields.nombre_del_campo` o `@fields.nombre_del_campo`.
+- `@contact.groups`: Nombres de los grupos a los que pertenece el contacto;
+- `@contact.fields`: Campos de contacto personalizados del contacto. Para acceder, usa `@contact.fields.nombre_del_campo` o `@fields.nombre_del_campo`.
 
 ## Resultados y flujos
 
-**`@results`** : variables para guardar valores directamente relacionados con los resultados del flujo. Para acceder a un resultado, basta usar @results.nombre_del_resultado. A continuación, se muestra una lista de las subvariables más utilizadas:
+**`@results`** : variables para guardar valores directamente relacionados con los resultados del flujo. Para acceder a un resultado, usa @results.nombre_del_resultado. A continuación, se muestra una lista de las subvariables más utilizadas:
 
 - `@results.nombre_del_resultado.category`: categoría/ruta a la que pertenece ese resultado;
 - `@results.nombre_del_resultado.value`: valor exacto de texto del resultado;
@@ -52,16 +53,26 @@ A continuación, haremos una lista de cómo referirse a todos los tipos de varia
 - `@input.text`: Valor de texto ingresado por el contacto en su última interacción con la plataforma;
 - `@input.attachments`: Archivos adjuntos ingresados por el contacto en su última interacción con la plataforma.
 
-**`@child`** : permite hacer referencia a todas las variables del flujo hijo, es decir, el flujo que fue llamado por la carta de acción "Enter a flow", dentro del flujo padre. Si deseas acceder a un resultado del flujo hijo después de su finalización, por ejemplo, solo debes usar @child.results.nombre_del_resultado. Al usar otra carta de "Enter a flow", el valor de @child se sobrescribe.
+**`@child`** : permite hacer referencia a todas las variables del flujo hijo, es decir, el flujo que fue llamado por la carta de acción "Enter a flow", dentro del flujo padre. Si deseas acceder a un resultado del flujo hijo después de su finalización, por ejemplo, usa @child.results.nombre_del_resultado. Al usar otra carta de "Enter a flow", el valor de @child se sobrescribe.
 
-**`@parent`** : permite hacer referencia a todas las variables del flujo padre, es decir, el flujo que llamó la carta de acción "Enter a flow", dentro del flujo hijo. Si deseas acceder a un resultado del flujo padre durante la ejecución del flujo hijo, por ejemplo, solo debes usar @parent.results.nombre_del_resultado.
+**`@parent`** : permite hacer referencia a todas las variables del flujo padre, es decir, el flujo que llamó la carta de acción "Enter a flow", dentro del flujo hijo. Si deseas acceder a un resultado del flujo padre durante la ejecución del flujo hijo, por ejemplo, usa @parent.results.nombre_del_resultado.
 
-## Globals
+## Parámetros del disparo
 
-Las variables globales, o **globals** , son variables creadas que pueden ser accedidas desde cualquier flujo en cualquier momento, pero no pueden modificarse durante la ejecución de un flujo. Son muy útiles cuando necesitamos enviar la misma información a varios flujos diferentes y, posteriormente, modificar ese valor de manera práctica para todos los flujos en los que está presente.
+`@trigger.params`: valores enviados cuando Live Desk inicia el flujo. El agente mapea estos valores antes del envío, y el flujo los recibe cuando comienza.
 
-Para crear una global, simplemente ve a la configuración general de tu organización y desplázate hasta el final de la página, donde encontrarás la pestaña para las **globals**.
+- `@trigger.params.variable_name`: un valor mapeado. Sustituye `variable_name` por el nombre ingresado en el campo de la variable en la pestaña **WhatsApp** de la tarjeta de enviar mensaje. Ese nombre es la etiqueta que se muestra en **Mapeo de variables**. No necesita ser un campo de contacto.
 
-Después de eso, solo tienes que hacer clic en "**Crear Global** ", escribir el nombre de la global que deseas junto con su valor.
+Dentro del flujo, puedes guardar este valor en un campo de contacto con la tarjeta **Actualizar Contacto**.
+
+Para saber cómo configurar la variable y cómo la completa el agente, consulta [Envío activo de mensajes en WhatsApp](https://help.vtex.com/es/docs/tutorials/envio-activo-de-mensajes-en-whatsapp) y [Disparo activo de flujos](https://help.vtex.com/es/docs/tutorials/utilizando-el-disparo-activo-de-flujos).
+
+## Variables globales
+
+Las variables globales, o **globals**, son variables creadas que pueden ser accedidas desde cualquier flujo en cualquier momento, pero no pueden modificarse durante la ejecución de un flujo. Son útiles cuando necesitamos enviar la misma información a varios flujos diferentes y, posteriormente, modificar ese valor para todos los flujos en los que está presente.
+
+Para crear una global, ve a la configuración general de tu organización y desplázate hasta el final de la página, donde encontrarás la pestaña de **globals**.
+
+Después de eso, haz clic en "**Crear Global** ", escribir el nombre de la global que deseas junto con su valor.
 
 De esta manera, se volverá accesible en cualquier flujo a través de la variable `@globals.nombre_de_la_global`.

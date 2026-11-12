@@ -1,9 +1,9 @@
 ---
-title: 'Match de anúncios Mercado Livre'
+title: 'Publicação de produtos Mercado Livre'
 id: 43uD4LPU5PLUWe11IaWwyR
 status: PUBLISHED
 createdAt: 2024-09-09T15:11:51.966Z
-updatedAt: 2024-09-26T13:45:03.913Z
+updatedAt: 2026-10-08T19:18:00.000Z
 publishedAt: 2024-09-26T13:38:29.627Z
 firstPublishedAt: 2024-09-09T15:16:41.777Z
 contentType: trackArticle
@@ -15,126 +15,122 @@ trackSlugEN: configurar-integracao-do-mercado-livre
 order: 10
 ---
 
-> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://vtexhelp.zendesk.com/auth/v2/login/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fpt-br%2Frequests&theme=hc&locale=pt-br&brand_id=144968&auth_origin=144968%2Ctrue%2Ctrue).  
+Antes de iniciar a leitura deste artigo, confira a tabela abaixo para compreender os termos específicos da funcionalidade **Publicação de produtos Mercado Livre**.
 
-Antes de iniciar a leitura do artigo, é importante a leitura da tabela abaixo para compreendimento de alguns termos de uso específico da funcionalidade **Match de anúncios Mercado Livre.**
-
-| Termo|Significado |
+| Termo | Significado |
 |-----|-----|
-|**Anúncios**| Um anúncio é um [SKU](/pt/docs/tracks/sku-definicao-de-conceito) de um seller que foi enviado para um marketplace e teve seu preço e estoque configurados.|
-| **Catálogo Mercado Livre** | Oferta pré-existente no Mercado Livre, onde o seller tem espaço para vincular seu produto e melhorar a visibilidade de seus produtos.|
-|**Oportunidades**| Oportunidade é quando um produto do seller pode ser associado a um produto do catálogo Mercado Livre. O objetivo da oportunidade é fornecer ao seller uma ferramenta que possa fazer essa associação entre os produtos.|
+| **Produto** | Um [SKU](/pt/docs/tracks/sku-definicao-de-conceito) de um seller que foi enviado para um marketplace e teve seu preço e estoque configurados. |
+| **Sugestão de vínculo do marketplace** | Produto preexistente no catálogo do Mercado Livre, sugerido pelo marketplace, ao qual o seller pode vincular o próprio produto para melhorar a visibilidade. |
+| **Vincular oportunidade** | Ação de associar um produto do seller a uma sugestão de vínculo do marketplace. |
+| **Método de vínculo** | Indica como a associação entre o produto do seller e a sugestão de vínculo foi criada: **Manual**, quando o próprio seller faz a vinculação, ou **Automático**, quando o Mercado Livre identifica e associa o produto automaticamente. |
 
-Ao realizar a integração com o Mercado Livre, o seller envia para o marketplace os anúncios que deseja vender na plataforma. Com os anúncios enviados, o Mercado Livre oferece ao seller oportunidades de match com anúncios do tipo **catálogo,** que é quando um anúncio pode estar em um espaço de destaque no marketplace.
+Ao realizar a [integração com o Mercado Livre](/pt/docs/tutorials/como-funciona-a-integracao-do-mercado-livre), o seller envia para o marketplace os anúncios que deseja vender na plataforma. Com os anúncios enviados, o Mercado Livre oferece oportunidades de vínculo com produtos do catálogo do marketplace.
 
 Nesse artigo você pode explorar os seguintes tópicos:
 
-- [**Estrutura da página**](#estrutura-da-pagina)  
-- [**Tipos de oportunidades**](#tipos-de-oportunidades)  
-- [**Analisar oportunidade**](#analisar-oportunidade)  
+- [**Estrutura da página**](#estrutura-da-pagina)
+- [**Tipos de oportunidades**](#tipos-de-oportunidades)
+- [**Detalhes da oportunidade**](#detalhes-da-oportunidade)
+- [**Oportunidade inválida**](#oportunidade-invalida)
 
-![overview-match-meli-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/canais-de-venda/marketplace/configurar-integracao-do-mercado-livre/match-de-anuncios-mercado-livre_1.png)
+Para acessar a página, no Admin VTEX, clique em **Marketplace > Mercado Livre > Publicação de produtos**, ou digite **Publicação de produtos** na barra de busca no topo da página.
 
 ## Estrutura da página
-A página **Match de anúncios Mercado Livre** é composta por duas abas, [Oportunidades](#aba-oportunidades) e [catálogos ativos](#aba-anuncios-vinculados). Veja a seguir quais as informações e dados disponíveis em cada uma.
 
-### Aba Oportunidades
+A página **Publicação de produtos** é composta por duas abas: [Vincular oportunidades](#vincular-oportunidades) e [Produtos ativos](#produtos-ativos). Veja a seguir quais informações e dados estão disponíveis em cada uma.
 
-Nessa aba, o seller visualiza uma lista dos anúncios elegíveis para o catálogo Mercado Livre, filtra as oportunidades por tipo e por canal de venda, caso utilize a integração **Mercado Livre Classic** e **Mercado Livre Premium,** também é possível buscar as oportunidades digitando o nome do produto ou o **SKU ID** na barra de busca.
+### Vincular oportunidades
 
-Cada linha da lista, representa um anúncio e cada linha é composta pelas seguintes informações dispostas em coluna:
+Nessa aba, o seller visualiza a lista dos anúncios elegíveis para o catálogo do Mercado Livre. É possível filtrar as oportunidades por **Canal** (caso utilize a integração **Mercado Livre Classic** e **Mercado Livre Premium**) e por **Tipo**, além de buscar pelo nome do produto ou pelo **SKU ID** no campo **Buscar SKU ou produto**.
 
-- **Caixa de seleção:** caixa utilizada para selecionar os anúncios desejados e realizar a ação de `Aceitar sugestão`.  
-- **Seu anúncio:** produto do catálogo VTEX configurado pelo seller e enviado ao marketplace.  
-- **Sugestão de catálogo:** produto do catálogo sugerido pelo Mercado Livre.
-- **Oportunidade:** tipo de ação indicada pelo Mercado Livre para o anúncio do seller.  
-- **Analisar oportunidade:**  botão que leva o seller à página para [analisar oportunidade](#analisar-oportunidade).
+O contador ao lado do nome da aba mostra a quantidade de oportunidades aguardando vínculo.
 
-> ℹ️ Os produtos disponíveis na aba **Oportunidades**, aparecerão como **erro** no menu Pedidos, até que o match de produtos seja realizado.  
+![Aba Vincular oportunidades](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/canais-de-venda/marketplace/configurar-integracao-do-mercado-livre/match-de-anuncios-mercado-livre_1.png)
 
-### Aba Catálogos ativos
+Cada linha da lista representa um produto e é composta pelas seguintes informações dispostas em colunas:
 
-Nessa aba, o seller visualiza uma lista dos anúncios já vinculados ao catálogo Mercado Livre, filtra os anúncios pelo status da relevância e pesquisa os anúncios pelo nome do produto ou pelo **SKU ID.**  
-Na lista dos catálogos ativos, cada linha representa um anúncio e cada linha é composta pelas seguintes informações dispostas em colunas:
+- **Caixa de seleção:** caixa utilizada para selecionar os anúncios desejados e realizar a [vinculação em massa](#vinculacao-em-massa).
+- **SKU VTEX:** produto do catálogo VTEX configurado pelo seller e enviado ao marketplace.
+- **Sugestão de vínculo do marketplace:** produto do catálogo sugerido pelo Mercado Livre.
+- **Canal:** integração à qual aquela oportunidade pertence (**Mercado Livre Classic** ou **Mercado Livre Premium**).
+- **Tipo:** tipo de ação indicada pelo Mercado Livre para o anúncio do seller. Saiba mais em [Tipos de oportunidades](#tipos-de-oportunidades).
 
-- **Anúncio:** apresenta o nome e especificações do produto.  
-- **SKU ID:** SKU ID do produto.  
-- **Status:** qual a relevância daquele anúncio no catálogo Mercado Livre.  
-- **Melhorar relevância:** seta na última cocluna da tabela.  
+> ℹ️ Os produtos disponíveis na aba **Vincular oportunidades** podem aparecer com erro no menu Pedidos até que o vínculo seja realizado.
 
-No topo da tela é possível acompanhar quantos dos catálogos ativos estão em cada status de relevância.
+### Aba Produtos ativos
 
-![relevancia-anuncio-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/canais-de-venda/marketplace/configurar-integracao-do-mercado-livre/match-de-anuncios-mercado-livre_2.png)
+Nessa aba, o seller visualiza a lista dos produtos já vinculados ao catálogo do Mercado Livre, filtra os anúncios por **Canal** e pelo **Status** da relevância, e pesquisa os anúncios pelo nome do produto ou pelo **SKU ID**.
 
-> ℹ️ Os anúncios ganham relevância quando eles oferecem os melhores preços e as melhores condições logísticas.  
+Na lista de produtos ativos, cada linha representa um anúncio e é composta pelas seguintes informações dispostas em colunas:
 
-A relevância de um anúncio mostra se a oferta do seller aparece como a primeira no anúncio do catálogo no marketplace ou se ele não é a primeira oferta. Os possíveis status para uma oferta são:
+- **Produtos:** apresenta a imagem, o nome e o SKU ID do produto.
+- **Método de vínculo:** indica se a associação foi feita de forma **Manual** ou **Automática** pelo Mercado Livre. Ao passar o cursor sobre cada valor, uma tooltip explica a origem do vínculo:
+  - **Manual:** vínculo criado manualmente pelo seller, associando a publicação a um produto do catálogo.
+  - **Automático:** o vínculo foi criado automaticamente pelo Mercado Livre após identificar que o produto é elegível e corresponde a um produto de catálogo.
+- **Canal:** integração à qual aquele produto pertence (**Mercado Livre Classic** ou **Mercado Livre Premium**).
+- **Status:** relevância daquele anúncio no catálogo do Mercado Livre.
 
-- **Ganhando relevância:** quando o anúncio do seller está em primeiro lugar ou empatado em primeiro.  
-- **Perdendo relevância:** quando o anúncio do seller não está em primeiro lugar na busca por aquele produto.  
-- **Processando relevância:** quando as informações do anúncio estão sendo avaliadas pelo Mercado Livre.  
+No topo da tela é possível acompanhar quantos dos produtos ativos estão em cada status de relevância. Os mesmos valores também estão disponíveis no filtro **Status**, que pode ser combinado com o filtro de **Canal**.
+
+A relevância de um anúncio mostra se a oferta do seller aparece como a primeira no anúncio do catálogo no marketplace. Os possíveis status para uma oferta são:
+
+- **Ganhando relevância:** quando o anúncio do seller está em primeiro lugar ou empatado em primeiro.
+- **Perdendo relevância:** quando o anúncio do seller não está em primeiro lugar na busca por aquele produto.
+- **Processando relevância:** quando as informações do anúncio estão sendo avaliadas pelo Mercado Livre.
+
+> ℹ️ Os anúncios ganham relevância quando oferecem os melhores preços e as melhores condições logísticas.
+
+Ao clicar em um produto da lista, o seller acessa o painel lateral **Status do produto**, que reúne o status de relevância atual do anúncio, com os motivos que impactam esse status, quando aplicável; os detalhes da publicação e o botão `Ver produto no Mercado Livre`, que leva diretamente ao anúncio no marketplace.
 
 ## Tipos de oportunidades
 
-Quatro tipos de oportunidades podem ser disponibilizadas para os anúncios de um seller, **Aviso prévio, Obrigatório**, **Opcional** e **Restrito.** Em todas as oportunidades listadas pelo Mercado Livre, o seller precisa vincular o produto a um anúncio e caso não tenha correspondência do anúncio do seller com uma oferta de catálogo, é possível publicar o anúncio sem sugestão clicando no botão `Publicar sem sugestão`.
+Em todas as oportunidades listadas pelo Mercado Livre, o seller precisa vincular o produto a um anúncio. Caso não haja correspondência entre o anúncio do seller e uma oferta de catálogo, é possível publicar o anúncio sem vincular clicando no botão `Publicar sem vincular`. Quatro tipos de oportunidades podem ser disponibilizados para os anúncios de um seller, veja abaixo quais são e os seus significados:
 
-- **Aviso prévio:**  as oportunidades desse tipo são de caráter obrigatório e têm um prazo para serem vinculadas, ou seja, o seller precisa vincular o produto a uma oferta do catálogo Mercado Livre. Caso a vinculação não seja realizada no prazo determinado pelo Mercado Livre, o anúncio do seller será moderado pelo marketplace.  
-![oportunidade-avisoprevio-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/canais-de-venda/marketplace/configurar-integracao-do-mercado-livre/match-de-anuncios-mercado-livre_3.png)
+- **Tem prazo:** as oportunidades desse tipo são obrigatórias e têm um prazo para serem vinculadas. O seller precisa vincular o produto a uma oferta do catálogo do Mercado Livre. Caso a vinculação não seja realizada no prazo determinado pelo marketplace, o anúncio poderá ficar sujeito a moderação. O prazo é exibido em um alerta no topo da tela de [detalhes da oportunidade](#detalhes-da-oportunidade).
+- **Obrigatório:** as oportunidades desse tipo são obrigatórias, mas não têm um prazo para serem vinculadas. Caso o anúncio não seja vinculado, o Mercado Livre poderá moderar o anúncio do seller no marketplace.
+- **Opcional:** as oportunidades desse tipo não são obrigatórias. Caso a vinculação não seja realizada, o anúncio do seller não perde relevância nem é bloqueado pelo marketplace.
+- **Restrito:** as oportunidades desse tipo são obrigatórias e o produto só pode ser vendido através do catálogo do Mercado Livre. Caso a vinculação não seja realizada, o anúncio do seller não será publicado no Mercado Livre. Um alerta no topo da tela de detalhes informa essa restrição.
 
-- **Obrigatória:** as oportunidades desse tipo são de caráter obrigatório, mas não têm um prazo para serem vinculadas, mas caso o anúncio não seja vinculado, o Mercado Livre poderá moderar o anúncio do seller no marketplace.  
+Quando a oportunidade é do tipo **Tem prazo** ou **Restrito**, um alerta é exibido no topo da tela, informando o prazo ou a restrição de publicação, com o link **Saiba mais** para mais informações.
 
-![oportunidade-obrigatoria-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/canais-de-venda/marketplace/configurar-integracao-do-mercado-livre/match-de-anuncios-mercado-livre_4.png)
+## Detalhes da oportunidade
 
-- **Opcional:** as oportunidades desse tipo não são de caráter obrigatório. Caso a vinculação não seja realizada, o anúncio do seller não perde relevância e nem é bloqueado pelo marketplace.  
+Na aba **Vincular oportunidades** é possível analisar e vincular as oportunidades, independentemente do tipo. As vinculações podem ser realizadas [individualmente](#vinculacao-individual) ou em [massa](#vinculacao-em-massa).
 
-![oportunidade-opcional-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/canais-de-venda/marketplace/configurar-integracao-do-mercado-livre/match-de-anuncios-mercado-livre_5.png)  
+A tela **Detalhes da oportunidade** aparece quando o seller clica em um dos anúncios disponíveis na aba **Vincular oportunidades**. Nessa tela, o seller visualiza:
 
-**Restrito:** as oportunidades desse tipo são obrigatórias. Caso a vinculação não seja realizada, o anúncio do seller não será publicado no Mercado Livre.  
+- À esquerda, o card **SKU VTEX**, com o produto cadastrado no catálogo VTEX e o botão `Ver SKU`, que leva à página do produto no catálogo.
+- No centro, o card **Produto para vincular**, com o produto sugerido pelo Mercado Livre e o atalho para visualizar o anúncio no marketplace.
+- À direita, o painel **Produto sugerido pelo Mercado Livre**, com o campo **Buscar outro produto para vincular**, caso a sugestão não corresponda ao SKU do seller.
+- No topo direito, os botões `Publicar sem vincular` e `Confirmar e publicar`.
 
-![restrito-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/canais-de-venda/marketplace/configurar-integracao-do-mercado-livre/match-de-anuncios-mercado-livre_6.png)  
-
-## Analisar oportunidade
-
-Na aba **Oportunidades** é possível analisar e vincular as oportunidades, independente de seu tipo. As vinculações podem ser realizadas [individualmente](#vinculacao-individual) ou em [massa](#vinculacao-em-massa).
-
-Para analisar uma oportunidade, o seller utiliza a página **Match de anúncios**, que pode ser acessada em **Admin VTEX > Marketplace > Mercado Livre > Match de anúncios,** ou digitar **Match de anúncios** na barra de busca do Admin VTEX.
-
-A tela **Analisar oportunidade,** aparecerá quando o seller clicar no botão **`Analisar oportunidade`** em um dos anúncios disponíveis na aba **Oportunidades.**  
-Nessa tela o seller visualizará do lado esquerdo o seu produto cadastrado no catálogo VTEX, do lado direito o produto do catálogo Mercado Livre que foi sugerido para vinculação e no topo direito os botões `Publicar sem sugestão` e `Aceitar sugestão`. 
-
-O botão `Publicar sem sugestão` deve ser utilizado para publicar um produto que não tem correspondência com nenhum produto no Mercado Livre.
-O botão `Aceitar sugestão`será utilizado para publicar um produto vinculando-o à sugestão do Mercado Livre.
-
-![analisar-oportunidade-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/canais-de-venda/marketplace/configurar-integracao-do-mercado-livre/match-de-anuncios-mercado-livre_7.png) 
+Os atributos do produto, como marca, linha, modelo, cor, voltagem, potência de refrigeração, entre outros, são exibidos lado a lado, já preenchidos com os dados de ambos os produtos, para facilitar a conferência da compatibilidade.
 
 ### Vinculação individual
 
-Para vincular as oportunidades individualmente, após acessar a página **Match de anúncios** siga os seguintes passos:
+Para vincular as oportunidades individualmente, após acessar a página **Publicação de produtos**, siga os seguintes passos:
 
-1. Na oportunidade desejada clique no botão `Analisar oportunidade`.  
-2. Confira se os dados do anúncio sugerido pelo Mercado Livre são compatíveis com os dados do seu produto.  
-3. Clique no botão `Aceitar sugestão` para anúncios com correspondência ou `Publicar sem sugestão` para anúncios sem correspondência.  
-4. Clique no botão `Confirmar`.  
+1. No Admin VTEX, clique em **Marketplace > Mercado Livre > Publicação de produtos**, ou digite **Publicação de produtos** na barra de busca no topo da página.
+2. Na oportunidade desejada, clique sobre a linha do anúncio para abrir a tela **Detalhes da oportunidade**.
+3. Confira se os dados do anúncio sugerido pelo Mercado Livre são compatíveis com os dados do seu produto.
+4. Clique no botão `Confirmar e publicar` para anúncios com correspondência, ou `Publicar sem vincular` para anúncios sem correspondência.
+5. Confirme a ação no pop-up exibido clicando no botão `Confirmar`.
 
-![aceitar-sugestão-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/canais-de-venda/marketplace/configurar-integracao-do-mercado-livre/match-de-anuncios-mercado-livre_8.png) 
+Após vincular, o anúncio é publicado no catálogo do Mercado Livre e enviado para a aba **Produtos ativos** com o status **Processando**.
 
-Após vincular, o anúncio é publicado no catálogo Mercado Livre e enviado para a **Aba catálogos ativos** sob o status de **Processando relevância.**
-
-Caso os produtos não sejam correspondentes, o seller deve buscar um anúncio no catálogo Mercado Livre que seja correspondente ao seu produto para realizar a vinculação.
-
-Para procurar outros anúncios no catálogo Mercado Livre,  o seller deve digitar o nome de seu produto na barra de busca que está abaixo da foto principal do produto na página **`Analisar oportunidade`.** Veja na imagem abaixo:
-
-![buscar-anuncio-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/canais-de-venda/marketplace/configurar-integracao-do-mercado-livre/match-de-anuncios-mercado-livre_9.png) 
+Caso os produtos não sejam correspondentes, o seller deve buscar no catálogo do Mercado Livre um anúncio correspondente ao seu produto para realizar a vinculação. Para isso, digite o nome do produto ou o EAN no campo **Buscar outro produto para vincular**, à direita da tela. Os resultados da busca são paginados.
 
 ### Vinculação em massa
 
-Para vincular as oportunidades massivamente, após acessar a página **Match de anúncios** siga os seguintes passos:
+Para vincular as oportunidades em massa, após acessar a página **Publicação de produtos**, siga os seguintes passos:
 
-1. Selecione as oportunidades que deseja vincular. Um pop-up aparecerá na parte  inferior da tela.
-2. Clique no botão **`Aceitar sugestões`.**
-3. Clique no botão **`Confirmar`.**
+1. No Admin VTEX, clique em **Marketplace > Mercado Livre > Publicação de produtos**, ou digite **Publicação de produtos** na barra de busca no topo da página.
+2. Selecione as checkboxes <a class="far fa-check-square" aria-hidden="true"></a> das oportunidades que deseja vincular. Uma barra fixa aparece na parte inferior da tela, indicando quantos itens foram selecionados.
+3. Clique no botão `Publicar`.
+4. Confirme a ação no pop-up exibido clicando no botão `Confirmar`.
 
-![aceitar-sugestão-bulk-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/canais-de-venda/marketplace/configurar-integracao-do-mercado-livre/match-de-anuncios-mercado-livre_10.png)  
+Após vincular, os anúncios são publicados no catálogo do Mercado Livre e enviados para a aba **Produtos ativos** com o status **Processando**.
 
-Após vincular, o anúncio é publicado no catálogo Mercado Livre e enviado para a **Aba catálogos ativos** sob o status de **Processando relevância.**
+## Oportunidade inválida
 
+Ao acessar a tela de detalhes de uma oportunidade que não está mais disponível, por exemplo, porque já foi publicada por outro caminho ou deixou de ser válida, o seller visualiza o estado **Oportunidade inválida**, com um disclaimer e o botão `Voltar` para retornar à listagem.

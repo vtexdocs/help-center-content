@@ -23,7 +23,7 @@ symptomFilters:
 
 Al utilizar el Admin, algunos usuarios pueden experimentar problemas como el Error 403 \- Lo sentimos, no tienes acceso a esta página, o que una página no termine de cargar.
 
-Estos problemas suelen producirse por conflictos entre [roles](/es/tutorialroles--7HKK5Uau2H6wxE1rH5oRbc) de usuarios administrativos o configuraciones específicas del navegador.
+Estos problemas suelen producirse por conflictos entre [roles](/es/docs/tutorials/roles) de usuarios administrativos o configuraciones específicas del navegador.
 
 ## Solución
 

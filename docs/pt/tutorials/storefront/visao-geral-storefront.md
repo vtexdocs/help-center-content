@@ -25,7 +25,7 @@ Confira abaixo as diferentes seções disponíveis nesse menu.
 
 ## CMS para FastStore e Headless Stores
 
-Disponível para lojas FastStore (v3 e versões posteriores) e Headless Stores, o CMS oferece aos comerciantes a flexibilidade e o controle necessários para gerenciar e estruturar de forma independente o conteúdo do storefront, incluindo páginas, layouts, templates, branches e mídias. Para mais informações, consulte [CMS](/pt/docs/tutorials/cms-overview).
+Disponível para lojas FastStore (v3 e versões posteriores) e Headless Stores, o CMS oferece aos comerciantes a flexibilidade e o controle necessários para gerenciar e estruturar de forma independente o conteúdo do storefront, incluindo páginas, layouts, templates, branches e mídias. Para mais informações, consulte [CMS](/pt/docs/tutorials/cms-visao-geral).
 
 ## CMS para Store Framework
 
@@ -46,4 +46,4 @@ Disponível para lojas FastStore (v1 e v2) e Headless Stores que ainda não migr
 
 ## Agentic CX
 
-A [VTEX CX Platform](/pt/docs/tutorials/introducao-ao-weni-agentic-ai) é uma ferramenta nativa de atendimento ao cliente que utiliza agentes com inteligência artificial para interagir com seus clientes, como exibir o catálogo da sua loja, criar carrinhos e recuperar carrinhos abandonados.
+A [VTEX CX Platform](/pt/docs/tutorials/introducao-ao-cx) é uma ferramenta nativa de atendimento ao cliente que utiliza agentes com inteligência artificial para interagir com seus clientes, como exibir o catálogo da sua loja, criar carrinhos e recuperar carrinhos abandonados.

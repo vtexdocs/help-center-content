@@ -3,7 +3,7 @@ title: "Chatbot integrado a la API del Constructor de Ventas"
 id: 31l91LHeVDM8I2ldGxrrAn
 status: PUBLISHED
 createdAt: 2025-09-17T14:25:32.909Z
-updatedAt: 2025-10-03T14:20:03.502Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:03.502Z
 firstPublishedAt: 2025-10-03T14:20:03.502Z
 contentType: tutorial
@@ -15,18 +15,18 @@ locale: es
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-El Template Constructor de Ventas es una solución en comunicación para la **Listado de los Emprendimientos, Envío de Dirección, Materiales de campaña, Planos, Creación de Leads con historial de conversación y Apertura de atenciones en el módulo Relacionamiento.** VTEX CX Platform proporciona soluciones digitales para la automatización de la comunicación consciente, abierta y accesible. El template es un chatbot desarrollado por VTEX CX Platform, utilizando la [API del Constructor de Ventas](https://docs.cvcrm.com.br/).
+Este template lista emprendimientos, envía dirección, materiales de campaña y planos, crea leads con el historial de la conversación y abre atenciones en el módulo Relacionamiento. El template se desarrolló en VTEX CX Platform y usa la [API del Constructor de Ventas](https://docs.cvcrm.com.br/).
 
 Vea una demostración para entender cómo funciona el chatbot y sus reglas de negocio:
 [Demostración del Chatbot Template CV @cvcrm | VTEX CX Platform](https://www.youtube.com/watch?v=Pdis7GPSeiU)
 
-## Requisitos
+## Antes de comenzar
 
 Para iniciar el uso de la integración, algunos datos son necesarios para configurar su chatbot:
 
 1. Correo electrónico y Token de consumo de la API CV
 
-Cree un Token y Correo electrónico para consumir la API del CV. [Vea cómo crear](https://suporte.cvcrm.com.br/kb/article/139171/como-gerar-um-token-painel-do-gestor).
+Cree un token y un correo electrónico para consumir la API del CV. [Vea cómo crear](https://suporte.cvcrm.com.br/kb/article/139171/como-gerar-um-token-painel-do-gestor).
 
 2. Asuntos y Subasuntos que serán utilizados en la atención
 

@@ -41,7 +41,7 @@ The most common causes for this behavior are:
 
 1. In the VTEX Admin, go to **Catalog**, or type **Catalog** in the search bar at the top of the page.
 2. Click **Products and SKUs** or **Categories** to access the affected product or category.
-3. Confirm whether the current [product](https://help.vtex.com/docs/tutorials/adding-or-editing-products#seo) or [category](https://help.vtex.com/docs/tutorials/registering-a-category#filling-in-the-category-registration-fields) URL slugs are correct.
+3. Confirm whether the current [product](https://help.vtex.com/en/docs/tutorials/adding-or-editing-products#seo) or [category](https://help.vtex.com/en/docs/tutorials/registering-a-category#filling-in-the-category-registration-fields) URL slugs are correct.
 4. Check whether the storefront URL matches the current slug exactly.
 5. If the slug changed recently, test the new URL.
 6. If internal or external links still point to the old URL, create a redirect from the old path to the current one, following the instructions in [Managing URL redirects](https://help.vtex.com/en/docs/tutorials/managing-url-redirects).
@@ -72,7 +72,7 @@ Once the indexing process is complete, test the affected URL again and confirm t
 
 ### Refresh route generation
 
-1. Check whether the expected route exists in the [rewriter configuration](https://help.vtex.com/troubleshooting/i-cant-view-the-product-in-the-search-results).
+1. Check whether the expected route exists in the [rewriter configuration](https://help.vtex.com/en/troubleshooting/i-cant-view-the-product-in-the-search-results).
 2. Confirm that the route points to the correct product, category, or subcategory path.
 3. If the route is stale or inconsistent, refresh route generation based on your internal procedure.
 4. If your team uses route versioning, increment the route version and wait for the storefront to rebuild the routes.

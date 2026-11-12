@@ -3,7 +3,7 @@ title: "Cartas de acción"
 id: 5TQ44l4pp84PPWdnWdg3JN
 status: PUBLISHED
 createdAt: 2025-09-16T16:43:29.253Z
-updatedAt: 2025-10-03T14:20:03.887Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:03.887Z
 firstPublishedAt: 2025-10-03T14:20:03.887Z
 contentType: tutorial
@@ -15,9 +15,7 @@ locale: es
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-Después de entender un poco más sobre qué son las Cartas de acción en nuestra [Introducción a flujos](https://help.vtex.com/es/docs/tutorials/introduccion-a-los-flujos), ahora avanzaremos sobre qué cartas existen y qué podemos hacer con cada una de ellas.
-
-Para facilitar la navegación por este artículo, si deseas ir directamente a una carta de acción específica, solo tienes que hacer clic en su nombre a continuación:
+Cada carta de acción ejecuta un comando en la conversación. Usa la lista de abajo para ir directo a la carta.
 
 - **Enviar un mensaje al contacto**
 - **Enviar un mensaje a alguien m ás**
@@ -36,7 +34,7 @@ Para facilitar la navegación por este artículo, si deseas ir directamente a un
 
 ## Envía un mensaje al contacto
 
-La carta de acción más conocida y utilizada de la plataforma. Su función es enviar un mensaje al contacto. Este mensaje será recibido independientemente del canal en el que el usuario esté conversando, solo necesitas escribirlo en el cuadro de texto.
+La carta de acción más conocida y utilizada de la plataforma. Su función es enviar un mensaje al contacto. Este mensaje será recibido independientemente del canal en el que el usuario esté conversando, escríbelo en el cuadro de texto.
 
 1. **Facebook**
    El envío de mensajes masivos por un canal de Facebook requiere que se especifique un tema si el usuario no ha enviado un mensaje en las últimas 24 horas. Definir un tema para usar en Facebook es especialmente importante para el primer mensaje en su flujo.
@@ -46,13 +44,13 @@ El envío de mensajes por un canal de WhatsApp requiere usar una plantilla si no
 
 1. Respuestas rápidas
 
-Existe la posibilidad de enviar respuestas rápidas (botones de texto) a los usuarios, facilitando así la respuesta y sirviendo como una guía para la conversación. Actualmente, puedes agregar hasta 10 botones de texto por carta.
+Puedes enviar respuestas rápidas (botones de texto) a los usuarios. Orientan la conversación. Actualmente, puedes agregar hasta 10 botones de texto por carta.
 
-¡Atención! No todos los canales soportan botones de texto. Actualmente, los canales que tienen soporte para botones son: Telegram, Web y Facebook Messenger.
+No todos los canales soportan botones de texto. Actualmente, los canales que tienen soporte para botones son: Telegram, Web y Facebook Messenger.
 
 1. Archivos
 
-También es posible enviar archivos (adjuntos) a un usuario. Estos adjuntos pueden ser fotos, videos, audios y documentos. Para enviar estos adjuntos, solo tienes que colocar el enlace de los medios o elegir el archivo mediante el selector de archivos de tu computadora. Actualmente, puedes añadir hasta 3 adjuntos por carta.
+También es posible enviar archivos (adjuntos) a un usuario. Estos adjuntos pueden ser fotos, videos, audios y documentos. Para enviar estos adjuntos, coloca el enlace de los medios o elegir el archivo mediante el selector de archivos de tu computadora. Actualmente, puedes añadir hasta 3 adjuntos por carta.
 
 Siempre verifica si el canal en el que tu público está trabajando es compatible con el tipo de medios que deseas enviar.
 
@@ -62,7 +60,7 @@ La opción Avanzado (Configuración avanzada) permite activar el envío de mensa
 
 Es decir, si tu canal preferido es WhatsApp, al marcar la opción de todos los destinos, el contacto recibirá el mensaje en todos los canales que tenga, y si responde por SMS, el SMS se convertirá en el nuevo canal preferido del contacto y el flujo continuará allí.
 
-¡Esta configuración es útil solo en casos específicos! Si tienes dudas sobre su uso, preferiblemente déjala desmarcada.
+Usa esta configuración solo en casos específicos. Si tienes dudas, deja la opción desmarcada.
 
 ## Enviar un mensaje a alguien más
 
@@ -72,9 +70,9 @@ Con esto, usted o un grupo de personas de su elección podrán recibir notificac
 
 ## Etiquetar el mensaje entrante
 
-Puedes marcar el último mensaje enviado por el contacto con una etiqueta (rótulo). Todos los mensajes etiquetados se agrupan bajo el mismo nombre del rótulo. Puedes aprender más sobre mensajes y etiquetas en el artículo de [mensajes](https://help.vtex.com/es/docs/tutorials/mensajes-de-contacto).
+Puedes marcar el último mensaje enviado por el contacto con una etiqueta (rótulo). Todos los mensajes etiquetados se agrupan bajo el mismo nombre del rótulo. Para saber más sobre mensajes y etiquetas, consulta el artículo de [mensajes](https://help.vtex.com/es/docs/tutorials/mensajes-de-contacto).
 
-¿Qué tal marcar todos los intereses en los productos de tu empresa? Sería una buena forma de utilizar las etiquetas.
+Por ejemplo, usa una etiqueta para marcar el interés del contacto en un producto.
 
 ## Añadir una URN para al contacto
 
@@ -98,31 +96,29 @@ Puedes eliminar el contacto de algún [grupo estático](https://help.vtex.com/es
 
 ## Actualizar el contacto
 
-Para completar los campos del contacto, solo necesitas utilizar la opción **Actualizar Contacto**. En ella, seleccionas el campo del contacto que deseas actualizar, y después puedes insertar un valor fijo o un resultado de flujo. Si el campo del contacto aún no existe, solo escribe el nombre que deseas para él.
+Para completar los campos del contacto, utiliza la opción **Actualizar Contacto**. En ella, seleccionas el campo del contacto que deseas actualizar, y después puedes insertar un valor fijo o un resultado de flujo. Si el campo del contacto aún no existe, escribe el nombre que deseas para él.
 
 ¿Preguntaste la edad de tu contacto? Puedes guardar el valor para consultarlo más tarde.
 
 ## Envía un correo electrónico
 
-Aquí puedes enviar un correo electrónico a alguien. Este correo puede ser tanto del contacto que está ejecutando el flujo, como de cualquier otro. Recuerda que el correo electrónico no es un canal de conversación en la VTEX CX Platform, es decir, si alguien responde al correo enviado, la respuesta irá a la bandeja de entrada del correo electrónico configurado en la organización. Para más información, visita el artículo de [configuración de la organización](/es/docs/tutorials/configuraciones-generales-de-proyecto).
+Aquí puedes enviar un correo electrónico a alguien. Este correo puede ser tanto del contacto que está ejecutando el flujo, como de cualquier otro. Recuerda que el correo electrónico no es un canal de conversación en la VTEX CX Platform, es decir, si alguien responde al correo enviado, la respuesta irá a la bandeja de entrada del correo electrónico configurado en la organización. Para saber más, consulta el artículo de [configuración de la organización](/es/docs/tutorials/configuraciones-generales-de-proyecto).
 
-Para enviar el correo electrónico, solo necesitas ingresar el destinatario, el asunto y el cuerpo del mensaje en los campos correspondientes.
+Para enviar el correo electrónico, ingresa el destinatario, el asunto y el cuerpo del mensaje en los campos correspondientes.
 
-Puedes usar esta tarjeta para enviar recordatorios rápidos a un contacto sin gastar en SMS o llamadas.
+Puedes usar esta tarjeta para enviar recordatorios a un contacto sin gastar en SMS o llamadas.
 
 ## Guarda un resultado para este flujo
 
-Podemos simular un resultado de flujo con esta carta de acción. Creándolo desde cero, sin la necesidad de un input o pasar por alguna carta de decisión. Así, solo debes elegir el nombre del resultado del flujo, asignar su valor y, si lo deseas, una categoría. Además, podemos actualizar el valor de algunos resultados de flujo ya existentes.
+Esta carta de acción simula un resultado de flujo. Lo crea desde cero, sin necesidad de un input ni de una carta de decisión. Así, elige el nombre del resultado del flujo, asignar su valor y, si lo deseas, una categoría. Además, podemos actualizar el valor de algunos resultados de flujo ya existentes.
 
 ¿Deseas guardar la cantidad de preguntas que un contacto hizo, pero no quieres vincularlo directamente a un campo de contacto? La mejor forma es creando una variable de flujo.
 
 ## Ingresar en otro flujo
 
-Aquí podemos iniciar un nuevo flujo para el usuario. Cuando el usuario entra en un nuevo flujo, el flujo en el que estaba antes (que ahora puede llamarse flujo padre) queda en espera hasta su finalización. Mientras tanto, el usuario ejecutará el nuevo flujo (que ahora puede llamarse flujo hijo) y al finalizar, regresará al punto donde se detuvo en el flujo padre. Para que funcione, solo debes elegir el nombre del flujo que deseas entre las opciones existentes.
+Aquí podemos iniciar un nuevo flujo para el usuario. Cuando el usuario entra en un nuevo flujo, el flujo en el que estaba antes (que ahora puede llamarse flujo padre) queda en espera hasta su finalización. Mientras tanto, el usuario ejecutará el nuevo flujo (que ahora puede llamarse flujo hijo) y al finalizar, regresará al punto donde se detuvo en el flujo padre. Para que funcione, elige el nombre del flujo que deseas entre las opciones existentes.
 
-Cuando se termina la ejecución del flujo hijo, la carta **Ingresar en otro flujo** nos da la oportunidad de tener dos rutas, siendo así la única carta de acción que utiliza este concepto (para entender el concepto de ruta, visita el artículo de cartas de decisión). Estas dos rutas posibles se basan en cómo terminó el flujo hijo. Si se completó sin problemas, el flujo tomará la ruta de **Complete** , y si el flujo hijo expiró, el flujo padre utilizará la ruta de **Caducado**.
-
-Entrar en un flujo es una excelente manera de organizar tus proyectos.
+Cuando se termina la ejecución del flujo hijo, la carta **Ingresar en otro flujo** ofrece dos rutas, y es la única carta de acción que utiliza este concepto (para entender el concepto de ruta, consulta el artículo de cartas de decisión). Estas dos rutas se basan en cómo terminó el flujo hijo. Si se completó sin problemas, el flujo tomará la ruta de **Complete**, y si el flujo hijo expiró, el flujo padre utilizará la ruta de **Caducado**.
 
 ## Iniciar a otra persona en un flujo
 
@@ -133,17 +129,17 @@ Para decidir quién será iniciado en el flujo, podemos elegir entre tres opcion
 2. Crear una regla lógica (normalmente basada en campos de contacto) para filtrar los contactos que deben entrar en el flujo;
 3. Crear un nuevo contacto e iniciarlo en el flujo.
 
-Después de decidir entre estas opciones, solo queda seleccionar un flujo para ser iniciado. A diferencia de **Entrar en otro flujo** , esta carta no crea opciones de ruta, ya que no espera el fin de los flujos hijos para continuar con la ejecución del flujo padre.
+Después de decidir entre estas opciones, selecciona un flujo para ser iniciado. A diferencia de **Entrar en otro flujo** , esta carta no crea opciones de ruta, ya que no espera el fin de los flujos hijos para continuar con la ejecución del flujo padre.
 
 Esta carta puede utilizarse para crear campañas reactivas, como notificar a un grupo sobre la llegada de un nuevo integrante.
 
 ## Enviar un mensaje de WhatsApp
 
-La carta nativa para enviar mensajes interactivos en WhatsApp permite a los usuarios utilizar de manera práctica las funcionalidades disponibles en el canal, integrando estas opciones en sus proyectos de forma sencilla.
+La tarjeta de mensaje de WhatsApp envía mensajes interactivos en el canal.
 
 Ofrece tres tipos de mensajes interactivos:
 
-- **Respuestas r ápidas**: Permite crear hasta 3 respuestas predefinidas que los destinatarios pueden seleccionar rápidamente.
+- **Respuestas r ápidas**: Permite crear hasta 3 respuestas predefinidas que los destinatarios pueden seleccionar.
 - **Lista de opciones** : Ofrece un menú interactivo con hasta 10 elementos, cada uno con título y descripción.
 - **Solicitar ubicaci ón**: Posibilita solicitar la ubicación del cliente final, facilitando la atención.
 

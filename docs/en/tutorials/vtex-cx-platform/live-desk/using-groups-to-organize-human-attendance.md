@@ -9,7 +9,7 @@ locale: en
 hidden: false
 ---
 
-When a contact initiates human support on [Live Desk](https://help.vtex.com/docs/tutorials/live-desk-overview), the chatbot remains active in the background. If no action is taken, the automated messages configured in the triggers can be activated during the conversation and interrupt the service. To avoid this conflict, use a **control group**: a [static group](https://help.vtex.com/docs/tutorials/static-groups) that includes all contacts currently in human support and should be ignored by triggers.
+When a contact initiates human support on [Live Desk](https://help.vtex.com/en/docs/tutorials/live-desk-overview), the chatbot remains active in the background. If no action is taken, the automated messages configured in the triggers can be activated during the conversation and interrupt the service. To avoid this conflict, use a **control group**: a [static group](https://help.vtex.com/en/docs/tutorials/static-groups) that includes all contacts currently in human support and should be ignored by triggers.
 
 > ⚠️ If contacts aren't added to a control group, the chatbot will conflict and interrupt human support by sending the default messages configured in your environment.
 
@@ -34,7 +34,7 @@ The group will be listed alongside other contact categories in the sidebar menu.
 
 ## Add contacts to the control group
 
-The contact should enter the control group in the same [automation flow](https://help.vtex.com/docs/tutorials/automation-flow-overview) where the human support ticket is opened. This way, they're controlled when the conversation is directed to an agent.
+The contact should enter the control group in the same [automation flow](https://help.vtex.com/en/docs/tutorials/automation-flow-overview) where the human support ticket is opened. This way, they're controlled when the conversation is directed to an agent.
 
 In the flow where you use the **Open a ticket with a human agent** action card, also add the **Add a contact to a group** action card and select the _Human Support_ group. To do this, follow these steps:
 
@@ -50,7 +50,7 @@ In the flow where you use the **Open a ticket with a human agent** action card, 
 
 > ⚠️ If you open tickets in different flows, you must add this card to all flows that direct contacts to human support.
 
-To learn more about these cards, see the article [Action cards](https://help.vtex.com/docs/tutorials/action-cards).
+To learn more about these cards, see the article [Action cards](https://help.vtex.com/en/docs/tutorials/action-cards).
 
 ## Ignore the control group in triggers
 
@@ -64,7 +64,7 @@ After adding the contact to the group, configure each project trigger to ignore 
 6. Click `Save changes`.
 7. Repeat the process for **all triggers** in the project.
 
-This way, while the contact is in the control group, they won't be activated by automated messages, and human support will continue without interruptions. For more information about triggers, see the articles [Adding a trigger](https://help.vtex.com/docs/tutorials/adding-a-trigger) and [Trigger types](https://help.vtex.com/docs/tutorials/triggers-types).
+This way, while the contact is in the control group, they won't be activated by automated messages, and human support will continue without interruptions. For more information about triggers, see the articles [Adding a trigger](https://help.vtex.com/en/docs/tutorials/adding-a-trigger) and [Trigger types](https://help.vtex.com/en/docs/tutorials/triggers-types).
 
 ## Remove contacts from the control group
 

@@ -16,7 +16,7 @@ announcementSynopsisEN: 'Now it is possible to choose pickup points for subscrip
 ---
 
 
-You can now make pickup points available for subscription orders. This delivery option can be chosen when creating subscriptions [at checkout](/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453?&utm_source=autocomplete#adicionar-produtos-para-assinatura-durante-o-checkout) or via the [Subscriptions API](https://developers.vtex.com/vtex-rest-api/reference/subscriptions-1#post_api-rns-pub-subscriptions).
+You can now make pickup points available for subscription orders. This delivery option can be chosen when creating subscriptions [at checkout](/en/docs/tutorials/how-subscriptions-work?&utm_source=autocomplete#adicionar-produtos-para-assinatura-durante-o-checkout) or via the [Subscriptions API](https://developers.vtex.com/vtex-rest-api/reference/subscriptions-1#post_api-rns-pub-subscriptions).
 
 The pickup points feature for subscriptions is available in beta only for accounts using the **Checkout V6**.
 

@@ -1,18 +1,13 @@
 ---
 title: 'Entidade de dados'
-id: tutorials_1265
-status: PUBLISHED
 createdAt: 2017-04-27T21:56:57.118Z
-updatedAt: 2026-07-08T18:37:00.000Z
-publishedAt: 2024-10-23T23:39:13.110Z
-firstPublishedAt: 2017-04-27T23:03:49.803Z
+updatedAt: 2026-11-11T00:00:00.000Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_3
 slugEN: data-entity
 legacySlug: criando-entidade-de-dados
 locale: pt
-subcategoryId: 1l3IVVYwrrG5YOtdt7R2SN
 ---
 
 Entidade de dados é uma representação de um conjunto de informações sobre um determinado conceito. Toda entidade possui campos, que são as informações que formam as entidades.
@@ -23,11 +18,11 @@ Para exemplificar, imagine um sistema de controle de uma biblioteca. Esse sistem
 
 Com esses conceitos, é possível configurar os mais diversos cenários de controle de dados pelo Master Data. Por padrão, são inseridas as seguintes entidades de dados: Cliente, Endereço, Stores etc. É possível criar quantas mais entidades de dados desejar, possibilitando um ambiente personalizado, voltado às necessidade de cada loja.
 
-> ℹ️ Entidades de dados criadas pela sua operação são consideradas entidades personalizadas e estão sujeitas a cobrança mensal. Saiba mais em [Entidades de dados personalizadas](/pt/docs/tutorials/master-data#entidades-de-dados-personalizadas).
+> ℹ️ Entidades de dados criadas pela sua operação são consideradas entidades personalizadas e estão sujeitas a cobrança mensal. Saiba mais em [Entidades de dados personalizadas](/pt/docs/tutorials/master-data-pt#entidades-de-dados-personalizadas).
 
-> ⚠️ Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais: <ul> <li>[Características das versões do Master Data](/pt/docs/tutorials/master-data#versoes-disponiveis)</li> <li>[Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics)</li> </ul>
+> ⚠️ Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais: <ul> <li>[Características das versões do Master Data](/pt/docs/tutorials/master-data-pt#versoes-disponiveis)</li> <li>[Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics)</li> </ul>
 
-> ⚠️ Excluir uma entidade de dados pela interface do Master Data v1 **não** remove os documentos (registros) já armazenados. O volume faturado permanece inalterado até que os registros sejam removidos pela API. Para excluir documentos e reduzir a cobrança, consulte o guia [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) no portal de desenvolvedores. Veja o [guia para resolver](/pt/docs/tutorials/a-cobranca-do-master-data-nao-diminuiu-depois-que-exclui-uma-entidade-de-dados) esse problema.
+> ⚠️ Excluir uma entidade de dados pela interface do Master Data v1 **não** remove os documentos (registros) já armazenados. O volume faturado permanece inalterado até que os registros sejam removidos pela API. Para excluir documentos e reduzir a cobrança, consulte o guia [Deleting documents in bulk in Master Data](https://developers.vtex.com/docs/guides/deleting-documents-in-bulk-in-master-data) no portal de desenvolvedores. Veja o [guia para resolver](/pt/docs/tutorials/a-cobranca-do-master-data-nao-diminuiu-depois-que-exclui-uma-entidade-de-dados) esse problema.
 
 ## Tipos de dados
 
@@ -62,6 +57,8 @@ Na criação de um campo, são exibidos os tipos listados abaixo:
 | **Varchar 50** |  Armazena números, letras e caracteres especiais. Neste caso, limita o número de caracteres em 50. |
 | **Varchar 750** |  Armazena números, letras e caracteres especiais. Neste caso, limita o número de caracteres em 750. |
 
+> ⚠️ Campos dos tipos **Text** e **Varchar** aceitam apenas texto simples, e não objetos ou outros valores estruturados. Se um desses campos estiver com a opção **É pesquisável?** ou **É filtrável?** marcada e receber um objeto (por exemplo, `{}`), o documento que contém esse valor fica fora do índice. Os demais documentos da entidade continuam sendo indexados normalmente. O documento afetado continua armazenado e é retornado em consultas pelo ID, mas não aparece nas buscas pela API (`/search`) nem na interface do Master Data. Para corrigir, envie o valor como texto ou desmarque as opções **É pesquisável?** e **É filtrável?** do campo. Depois, reindexe a entidade.
+
 ## Criar entidade de dados
 
 Siga o passo a passo abaixo para configurar uma nova entidade de dados.
@@ -93,6 +90,9 @@ Siga o passo a passo abaixo para configurar uma nova entidade de dados.
 
     - **É pesquisável?**: se esse campo for utilizado para busca no formulário e por API.
     - **É filtrável?:** se esse campo for utilizado para filtro no formulário e por API.
+
+    Para campos dos tipos **Text** e **Varchar** com essas opções marcadas, confira o aviso sobre valores aceitos na seção [Tipos de dados](#tipos-de-dados).
+
 16. Escreva a descrição do campo.
 17. Para inserir mais campos, clique no botão `Novo campo` e repita os passos 10 a 16.
 18. Ao final da definição de campos, clique no botão `Salvar` para concluir ou `Salvar e criar` para seguir para a criação de uma nova entidade de dados.

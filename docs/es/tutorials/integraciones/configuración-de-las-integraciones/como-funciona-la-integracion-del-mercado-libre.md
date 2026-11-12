@@ -39,11 +39,11 @@ Todos los [pedidos](/es/docs/tracks/o-que-e-um-pedido-na-vtex) que se hacen en M
 | Enviado | Shipped | Pedidos que ya se despacharon para la entrega |
 | Entregado  | Delivered | Pedidos entregados a sus destinatarios finales |
 | Cancelado | Cancelled | Pedidos que se cancelaron |
-| Ventana de cancelación | Window-to-cancel | Status del plazo de cancelación del cliente. Después de la aprobación del pago, el cliente tiene 30 minutos (estándar en la [Configuración general](/es/tutorial/configuracoes-gerais/) del módulo de Gestión de pedidos) para cancelar el pedido. En este periodo, el reembolso del pedido se realiza de modo automático |
+| Ventana de cancelación | Window-to-cancel | Status del plazo de cancelación del cliente. Después de la aprobación del pago, el cliente tiene 30 minutos (estándar en la [Configuración general](/es/docs/tutorials/configuraciones-generales) del módulo de Gestión de pedidos) para cancelar el pedido. En este periodo, el reembolso del pedido se realiza de modo automático |
 
 Debes contar con un [perfil de acceso](/es/docs/tutorials/roles) *OMS - Full Acess* para realizar acciones en el flujo de pedidos. Recibirás una respuesta distinta de Mercado Libre en cada status del flujo de pedidos en VTEX. Los pedidos se integran en VTEX solo cuando Mercado Libre los identifica con el status `Paid`.
 
-El ID del pedido en Mercado Libre será distinto al que verás en VTEX. Para comprender la lógica que se aplica a la correspondencia de estos ID, consulta el artículo [Cómo funciona el carrito con múltiples artículos en Mercado Libre](/es/tutorial/como-funciona-o-carrinho-com-multiplos-itens-no-mercado-livre).
+El ID del pedido en Mercado Libre será distinto al que verás en VTEX. Para comprender la lógica que se aplica a la correspondencia de estos ID, consulta el artículo [Cómo funciona el carrito con múltiples artículos en Mercado Libre](/es/docs/tutorials/como-funciona-el-carrito-con-multiples-articulos-en-mercado-libre).
 
 ### Facturación del pedido
 
@@ -116,7 +116,7 @@ Durante la integración, el nivel de [stock](/es/tracks/logistica-101--13TFDwDtt
 
 Para ver el stock de los productos enviados, en el Admin, ingresa a *MARKETPLACE > Integraciones > Stock*. Si quieres encontrar un producto específico, usa el campo de búsqueda e ingresa el código del SKU.
 
-Si tienes alguna duda, consulta nuestra documentación sobre [Errores de integración de stock con Mercado Libre](/es/docs/tutorials/errores-de-integracion-de-stock-con-mercado-libre).
+Si tienes alguna duda, consulta nuestra documentación sobre [Errores de integración de stock con Mercado Libre](/es/troubleshooting/errores-de-integracion-de-stock-con-mercado-libre).
 
 ## 5. Puntos de recogida
 

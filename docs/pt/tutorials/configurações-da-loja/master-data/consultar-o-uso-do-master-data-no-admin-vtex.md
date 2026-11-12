@@ -9,11 +9,11 @@ locale: pt
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q
 ---
 
-O dashboard **Master Data usage** no Admin VTEX ajuda você a acompanhar o volume de documentos armazenados em [entidades personalizadas](/pt/docs/tutorials/master-data#entidades-de-dados-personalizadas) do [Master Data](/pt/docs/tutorials/master-data). Essas entidades são criadas pela sua operação e não incluem as [entidades nativas do Master Data](/pt/docs/tutorials/master-data#entidades-nativas-do-master-data), usadas por funcionalidades padrão da plataforma.
+O dashboard **Master Data usage** no Admin VTEX ajuda você a acompanhar o volume de documentos armazenados em [entidades personalizadas](/pt/docs/tutorials/master-data-pt#entidades-de-dados-personalizadas) do [Master Data](/pt/docs/tutorials/master-data-pt). Essas entidades são criadas pela sua operação e não incluem as [entidades nativas do Master Data](/pt/docs/tutorials/master-data-pt#entidades-nativas-do-master-data), usadas por funcionalidades padrão da plataforma.
 
 Com esse dashboard, você pode consultar o total de documentos, verificar quando os dados foram atualizados pela última vez e analisar o volume por entidade antes de tomar decisões sobre armazenamento ou limpeza de dados.
 
-> ℹ️ O uso de entidades personalizadas segue regras de cobrança mensal. Para entender como a VTEX mede o volume de documentos para faturamento, consulte a seção [Cobrança](/pt/docs/tutorials/master-data#cobranca) do artigo Master Data. Se a cobrança não diminuiu como esperado após excluir uma entidade, veja [este guia](/pt/docs/tutorials/a-cobranca-do-master-data-nao-diminuiu-depois-que-exclui-uma-entidade-de-dados).
+> ℹ️ O uso de entidades personalizadas segue regras de cobrança mensal. Para entender como a VTEX mede o volume de documentos para faturamento, consulte a seção [Cobrança](/pt/docs/tutorials/master-data-pt#cobranca) do artigo Master Data. Se a cobrança não diminuiu como esperado após excluir uma entidade, veja [este guia](/pt/docs/tutorials/a-cobranca-do-master-data-nao-diminuiu-depois-que-exclui-uma-entidade-de-dados).
 
 ## Acessar o dashboard
 
@@ -40,5 +40,5 @@ As entidades são exibidas em ordem decrescente de volume de documentos, com as 
 
 ## Saiba mais
 
-* [Master Data](/pt/docs/tutorials/master-data)
-* [Entidades de dados personalizadas e cobrança](/pt/docs/tutorials/master-data#entidades-de-dados-personalizadas)
+* [Master Data](/pt/docs/tutorials/master-data-pt)
+* [Entidades de dados personalizadas e cobrança](/pt/docs/tutorials/master-data-pt#entidades-de-dados-personalizadas)

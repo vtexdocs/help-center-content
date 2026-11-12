@@ -3,7 +3,7 @@ title: "Glossário de variáveis"
 id: MOTwhIJlY251TLzK3UUPl
 status: PUBLISHED
 createdAt: 2025-09-16T16:20:16.591Z
-updatedAt: 2025-10-03T14:20:04.252Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:04.252Z
 firstPublishedAt: 2025-10-03T14:20:04.252Z
 contentType: tutorial
@@ -19,15 +19,16 @@ As variáveis são locais criados para armazenar valores na plataforma, permitin
 
 Para utilizar uma variável, deve-se colocar o `@` e a expressão digitada será substituída pelo real valor da variável, desde que seja criada de forma adequada.
 
-Abaixo, faremos uma lista de como se referenciar a todos os tipos de variáveis existentes no VTEX CX Platform, sendo eles:
+As seções abaixo descrevem como referenciar os tipos de variáveis do VTEX CX Platform:
 
 - Contatos e campos de contato
 - Resultados e fluxos
-- Globals
+- Parâmetros do disparo
+- Variáveis globais
 
 ## Contatos e campos de contato
 
-- `@contact`: variáveis para salvar valores ligados diretamente com o contato. Abaixo, segue a lista de sub-variáveis mais utilizadas:
+- `@contact`: variáveis para salvar valores ligados diretamente ao contato. Abaixo, segue a lista de sub-variáveis mais utilizadas:
   - `@contact.name`: Nome completo do contato;
   - `@contact.first_name`: Primeiro nome do contato;
   - `@contact.urns`: lista de URNs do contato. Também pode ser acessado pelo `@urns`;
@@ -35,13 +36,13 @@ Abaixo, faremos uma lista de como se referenciar a todos os tipos de variáveis 
   - `@contact.created_on`: Data em que o contato foi criado;
   - `@contact.language`: Língua preferencial do contato;
   - `@contact.channel`: Nome do canal preferencial do contato;
-  - `@contact.groups`: Nome dos grupos que o contato participa;
-  - `@contact.fields`: Campos de contato personalizados do contato. Para acessar basta utilizar `@contact.fields.nome_do_campo` ou `@fields.nome_do_campo`.
+  - `@contact.groups`: Nomes dos grupos de que o contato participa;
+  - `@contact.fields`: Campos de contato personalizados do contato. Para acessar, utilize `@contact.fields.nome_do_campo` ou `@fields.nome_do_campo`.
 
 ## Resultados e fluxos
 
-- `@results`: variáveis para salvar valores ligados diretamente aos resultados de fluxo. Para acessar um resultado basta utilizar `@results.nome_do_resultado`. Abaixo, segue a lista de sub-variáveis mais utilizadas:
-  - `@results.nome_do_resultado.category`: categoria/rota a qual aquele resultado pertence;
+- `@results`: variáveis para salvar valores ligados diretamente aos resultados de fluxo. Para acessar um resultado, utilize `@results.nome_do_resultado`. Abaixo, segue a lista de sub-variáveis mais utilizadas:
+  - `@results.nome_do_resultado.category`: categoria/rota à qual aquele resultado pertence;
   - `@results.nome_do_resultado.value`: valor de texto exato do resultado;
   - `@results.nome_do_resultado.extra`: valores além de texto que um resultado pode possuir, como anexos ou informações de requisição.
 
@@ -49,16 +50,26 @@ Abaixo, faremos uma lista de como se referenciar a todos os tipos de variáveis 
   - `@input.text`: valor de texto inserido pelo contato em sua última interação com a plataforma.
   - `@input.attachments`: anexos inseridos pelo contato em sua última interação com a plataforma.
 
-- `@child`: permite referenciar todas as variáveis do fluxo filho, ou seja, o fluxo chamado pela carta de ação Entrar em um Fluxo, dentro do fluxo pai. Caso você queira acessar um resultado do fluxo filho após a sua finalização, por exemplo, basta utilizar `@child.results.nome_do_resultado`. Ao utilizar outra carta de Entrar em um Fluxo, o valor de `@child` é sobrescrito.
+- `@child`: permite referenciar todas as variáveis do fluxo filho, ou seja, o fluxo chamado pela carta de ação Entrar em um Fluxo, dentro do fluxo pai. Caso você queira acessar um resultado do fluxo filho após a sua finalização, por exemplo, utilize `@child.results.nome_do_resultado`. Ao utilizar outra carta de Entrar em um Fluxo, o valor de `@child` é sobrescrito.
 
-- `@parent`: permite referenciar todas as variáveis do fluxo pai, ou seja, o fluxo que chamou a carta de ação Entrar em um Fluxo, dentro do fluxo filho. Caso você queira acessar um resultado do fluxo pai durante a execução do fluxo filho, por exemplo, basta utilizar `@parent.results.nome_do_resultado`.
+- `@parent`: permite referenciar todas as variáveis do fluxo pai, ou seja, o fluxo que chamou a carta de ação Entrar em um Fluxo, dentro do fluxo filho. Caso você queira acessar um resultado do fluxo pai durante a execução do fluxo filho, por exemplo, utilize `@parent.results.nome_do_resultado`.
 
-## Globals
+## Parâmetros do disparo
 
-Variáveis globais, ou globals, são variáveis criadas que podem ser acessadas de qualquer fluxo, a qualquer momento, porém não podem ter o seu valor modificado durante uma execução de fluxo. São muito utilizadas quando precisamos mandar a mesma informação para vários fluxos diferentes, e depois precisamos modificar esse valor de forma prática para todos os fluxos onde ela está inserida.
+`@trigger.params`: valores enviados quando o Live Desk inicia o fluxo. O agente mapeia esses valores antes do envio, e o fluxo os recebe quando começa.
 
-Para criar uma global, basta ir para as configurações gerais de sua organização e descer até o fim da página, onde você irá encontrar a aba para as globals.
+- `@trigger.params.variable_name`: um valor mapeado. Substitua `variable_name` pelo nome informado no campo da variável na aba **WhatsApp** do cartão de enviar mensagem. Esse nome é o rótulo exibido em **Mapeamento de variáveis**. Não precisa ser um campo de contato.
 
-Após isso, basta clicar em Criar Global, digitar o nome da global que você deseja juntamente com o valor.
+Dentro do fluxo, você pode salvar esse valor em um campo de contato com o cartão **Atualizar Contato**.
+
+Para saber como configurar a variável e como o agente a preenche, consulte [Disparo Ativo no WhatsApp](https://help.vtex.com/pt/docs/tutorials/disparo-ativo-no-whatsapp) e [Utilizando o disparo ativo de fluxos](https://help.vtex.com/pt/docs/tutorials/utilizando-disparo-ativo-de-fluxos).
+
+## Variáveis globais
+
+Variáveis globais, ou globals, são variáveis criadas que podem ser acessadas de qualquer fluxo, a qualquer momento, porém, não podem ter o seu valor modificado durante uma execução de fluxo. São muito utilizadas quando precisamos mandar a mesma informação para vários fluxos diferentes, e depois precisamos modificar esse valor para todos os fluxos em que ela está inserida.
+
+Para criar uma global, vá para as configurações gerais de sua organização e descer até o fim da página, onde você irá encontrar a aba de globals.
+
+Após isso, clique em Criar Global, digitar o nome da global que você deseja juntamente com o valor.
 
 Assim, ela vai se tornar acessível em qualquer fluxo através da variável `@globals.nome_da_global`

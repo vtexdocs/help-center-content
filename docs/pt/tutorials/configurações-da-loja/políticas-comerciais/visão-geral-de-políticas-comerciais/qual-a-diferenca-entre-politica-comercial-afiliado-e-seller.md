@@ -33,7 +33,7 @@ O cadastro do seller será necessário apenas no __cenário em que sua loja atu
 
 Cada seller deverá ter um __identificador único__.
 
-Para configurar um seller, siga o passo a passo descrito [neste artigo](/pt/tutorial/configurando-seller/).
+Para configurar um seller, siga o passo a passo descrito [neste artigo](/pt/docs/tutorials/adicionar-seller).
 
 ## Afiliado
 

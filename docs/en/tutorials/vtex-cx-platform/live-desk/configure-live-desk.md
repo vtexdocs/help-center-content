@@ -1,7 +1,7 @@
 ---
 title: 'Configuring Live Desk'
 createdAt: 2026-07-07T10:05:01.763Z
-updatedAt: 2026-07-07T10:20:04.339Z
+updatedAt: 2026-11-10T19:40:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: configure-live-desk
@@ -24,7 +24,7 @@ The **Project preferences** section contains general preferences for human suppo
 
 | Preference | Description |
 | --- | --- |
-| **Allow AI agents to transfer conversations to human support** | Allows an AI agent to forward the conversation to a human representative. When you enable this option, describe in the text field the scenarios or criteria that require transfer to human support in up to 1,000 characters. |
+| **Allow AI agents to transfer conversations to human support** | Allows an AI agent to forward the conversation to a human representative. When you enable this option, describe in the text field the scenarios or criteria that require transfer to human support in up to 1,000 characters. The queue that receives the conversation comes from the description you set for each queue. |
 | **Allow interactions only for online representatives** | Prevents offline or paused representatives from responding to ongoing chats. |
 | **Transfer chats in bulk to another queue or representative** | Allows you to transfer multiple chats at once to another queue or representative. |
 | **Block chat transfers to offline representatives** | Prevents chat transfers to representatives who are offline. |
@@ -109,10 +109,11 @@ If you choose **Customize new department**, follow the instructions below:
 If you choose **Create a custom queue**, follow the instructions below:
 
 1. Complete **Queue name** with a name for the queue, such as *Payments* or *Exchanges*.
-2. Enable **Limit chats** to set a maximum limit for the queue. When this limit is reached, new chats won't be created.
-3. Click the **Add representative** menu to search for and select representatives for the queue.
-4. To add more than one queue to the department, click `+ Add queue` and repeat the process.
-5. Click `Continue`.
+2. Describe the types of requests that should go to this queue, such as payment questions or exchange requests. The AI uses this description to choose the queue when it transfers the conversation to human support.
+3. Enable **Limit chats** to set a maximum limit for the queue. When this limit is reached, new chats won't be created.
+4. Click the **Add representative** menu to search for and select representatives for the queue.
+5. To add more than one queue to the department, click `+ Add queue` and repeat the process.
+6. Click `Continue`.
 
 #### Step 3: Configure options and messages
 
@@ -154,7 +155,7 @@ In step 3, configure the support options, automated messages, and tags for the d
 
 ![Etapa 4 do assistente de criação de setor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configurações-vtex-cx-platform/configurar-o-live-desk_4.png)
 
-In step 4 (last step), configure quick messages for the department. Quick messages are shortcuts that let representatives send standardized responses more quickly in a support chat.
+In step 4 (last step), configure quick messages for the department. Quick messages are shortcuts that let representatives send standardized responses in a support chat.
 
 > ℹ️ This step is optional. You can skip the quick message configuration and complete it later in the department settings.
 

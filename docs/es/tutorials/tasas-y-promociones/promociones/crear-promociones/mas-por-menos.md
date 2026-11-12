@@ -61,7 +61,7 @@ Define si la promoción se aplicará a todos tus sellers o solo a sellers espec�
 Para obtener más información, consulta [Seller Opt-in for Promotions](https://developers.vtex.com/docs/guides/seller-opt-in-promotions).
 
 ### Seleccionar políticas comerciales para aplicar el descuento
-Selecciona las políticas comerciales en las que se aplicará el descuento. Puedes ofrecer descuentos para políticas comerciales en las que [tu tienda opera como marketplace](/es/faq/o-que-e-um-marketplace) (mi tienda) o como seller (tiendas de terceros - fulfillment).
+Selecciona las políticas comerciales en las que se aplicará el descuento. Puedes ofrecer descuentos para políticas comerciales en las que [tu tienda opera como marketplace](/es/docs/tutorials/que-es-un-marketplace) (mi tienda) o como seller (tiendas de terceros - fulfillment).
 
 Puedes elegir entre las siguientes opciones:
 
@@ -128,7 +128,7 @@ Para agregar una condición a la promoción sigue las instrucciones a continuaci
   - **Ver cupones vinculados:** permite ver los cupones que ya se vincularon a los parámetros UTM definidos.
 
 - **Precio de lista:** permite restringir la promoción en función de la presencia o ausencia de un precio de lista en los productos seleccionados. Selecciona una de las siguientes opciones:
-  - **No tiene un precio de lista definido:** aplica la promoción solamente a ítems en los que los valores "de" y "por" son iguales, lo que indica que no hay un [precio de lista](/es/tutorial/precos-v2) establecido.
+  - **No tiene un precio de lista definido:** aplica la promoción solamente a ítems en los que los valores "de" y "por" son iguales, lo que indica que no hay un [precio de lista](/es/docs/tutorials/precios) establecido.
   - **Tiene un precio de lista definido:** aplica la promoción solamente a ítems en los que los valores "de" y "por" son diferentes, lo que indica la existencia de un precio de lista.
 
 ## Configurar restricciones de uso de la promoción

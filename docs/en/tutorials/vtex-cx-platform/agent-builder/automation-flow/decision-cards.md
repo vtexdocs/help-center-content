@@ -3,7 +3,7 @@ title: "Decision cards"
 id: 3V6NZBfEuJpNQCumY3p5Sg
 status: PUBLISHED
 createdAt: 2025-09-16T16:52:15.475Z
-updatedAt: 2025-10-03T14:20:03.824Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:03.824Z
 firstPublishedAt: 2025-10-03T14:20:03.824Z
 contentType: tutorial
@@ -15,9 +15,8 @@ locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-Decision cards are a very important part of the logical constructions of our flows. In the [introduction](/en/docs/tutorials/automation-flow-overview) of transfers we talked little about the concept of these cards, and now we will understand a little more about their anatomy and the types that exist within the platform.
+Decision cards create routes in the conversation based on rules. Use the list below to go directly to a card type.
 
-To facilitate navigation through this article, if you want to go directly to a specific topic, just click on the name below:
 
 - Routes and decision rules
 - Flow results
@@ -34,9 +33,9 @@ To facilitate navigation through this article, if you want to go directly to a s
 
 ## Routes and decision rules
 
-### What are routes?
+### Routes
 
-The biggest difference between decision cards and action cards is the creation of routes. These routes are possible paths that a conversation can take according to some response or some contact data. The purpose of all decision cards is to create routes for each rule and ramifications of our flow.
+The difference between decision cards and action cards is the creation of routes. These routes are paths that the conversation can take according to a response or a contact data. The purpose of decision cards is to create a route for each rule and, thus, branch the flow.
 
 Each route has a **name / category** and follows a decision rule. You can see in the connections of your routes the number of contacts that have already followed that path through your flow.
 
@@ -83,7 +82,7 @@ These rules can be useful for age filters.
 
 These are the rules that involve date and time, comparing the dates entered by the user or other events with the chosen dates.
 
-An important detail about the date comparison rules (before, equal to and after) is that all comparisons are not made by an absolute date, but by a date in relation to the current day, in the format **(today + n)** where n is the number of days forward or backward.
+An important detail about the date comparison rules (before, equal to and after) is that all comparisons are not made by an absolute date, but by a date in relation to the current day, in the format **(today + n)**, where **today** is the current day and n is the number of days forward or backward.
 
 The rules are:
 
@@ -111,7 +110,7 @@ Do you want to validate your ID's format? These rules are the way.
 
 ## Flow results
 
-Every decision card chooses a route at the end of its execution, and this generates a flow result for us. Each flow result contains information such as:
+Every decision card chooses a route at the end of its execution, which generates a flow result. Each flow result contains information such as:
 
 - Value that was used for the decision;
 - Route category chosen after the rules;
@@ -120,9 +119,9 @@ Every decision card chooses a route at the end of its execution, and this genera
 
 You can access these flow values ​​using the platform variables (to learn more visit the article on [expressions and variables](/en/docs/tutorials/expressions-and-variables-introduction)) and you can also see these results in the form of graphs in the results area in the flow editor (to learn more access the article about the [flow editor and tools](/en/docs/tutorials/flow-editor-and-tools).)
 
-By default, the results' name will always be **(Result + n)** where n is the number of results that exist in your stream, however, this can be easily changed in the Result name field.
+By default, the results' name will always be **(Result + n)**, where n is the number of results that exist in your flow. However, you can change this name in the Result name field.
 
-Always change the results' names to names that you can understand in a simple and intuitive way.
+Change the results' names to a name that identifies the saved data.
 
 ## Wait for the contact to respond
 
@@ -141,19 +140,19 @@ It allows customizing some treatments, such as checking the service's opening ho
 
 ## Split by contact field
 
-Here, all decision rules analyze a contact field. Just select which contact field you want to check, and define the rules in question.
+Here, all decision rules analyze a contact field. Select the contact field you want to check, and define the rules in question.
 
 Good way to classify contacts using their data.
 
 ## Split by result in the flow
 
-The focus here is to create routes from the flow results, which can be either those created by other decision cards or those created manually by the responsible action card. Just select the name of the flow result to be analyzed.
+The focus here is to create routes from the flow results, which can be either those created by other decision cards or those created manually by the responsible action card. Select the name of the flow result to be analyzed.
 
 This letter can be used to analyze any user responses before it be saved in a contact field.
 
 ## Split by random chance
 
-Here, the chosen route is made at random, just choose the number of routes you want and wait for the result. In this case, there is no decision rule, and only the route's name can be customized, along with the number of routes that will exist.
+Here, the chosen route is made at random. Choose the number of routes you want and wait for the result. In this case, there is no decision rule, and only the route's name can be customized, along with the number of routes that will exist.
 
 You can create several greeting and goodbye messages that will be different with each execution by a contact.
 
@@ -165,7 +164,7 @@ It can be used to limit the access of certain groups to specific parts of flows.
 
 ## Split by URN type
 
-Creates routes based on which channel the contact is currently using. Just select the type of channel that are among those available and save.
+Creates routes based on which channel the contact is currently using. Select one of the available channel types and save.
 
 Do you want to do different treatments according to the contact channel? Use this card
 

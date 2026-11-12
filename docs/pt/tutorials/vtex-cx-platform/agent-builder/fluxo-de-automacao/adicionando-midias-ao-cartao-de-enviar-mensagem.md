@@ -35,7 +35,7 @@ Você pode adicionar mídias à sua mensagem na plataforma, como imagens, áudio
 
 6. Em seguida, insira a URL no campo ao lado.
 
-> ℹ️ Você pode incluir até três URLs por cada bloco do fluxo.
+> ℹ️ Você pode incluir até três URLs em cada bloco do fluxo.
 
 7. Ao final, clique em `Confirmar`.
 
@@ -48,10 +48,10 @@ Você pode adicionar mídias à sua mensagem na plataforma, como imagens, áudio
 5. No menu dropdown de **Arquivo 1**, selecione **Enviar arquivo**.
 6. Em seguida, escolha o arquivo do seu computador e clique em `Abrir`.
 
-> ℹ️ Você pode incluir até três arquivos por cada bloco do fluxo.
+> ℹ️ Você pode incluir até três arquivos em cada bloco do fluxo.
 
-> ⚠️ O limite de tamanho dos arquivos é de 32 mb ou upload de 30 segundos. Por exemplo, se você enviar um arquivo de menos de 32 mb e o upload durar mais que 30 segundos, o arquivo não será enviado ao bloco do fluxo de automação.
+> ⚠️ O limite de tamanho dos arquivos é de 32 MB ou upload de 30 segundos. Por exemplo, se você enviar um arquivo de menos de 32 MB e o upload durar mais que 30 segundos, o arquivo não será enviado ao bloco do fluxo de automação.
 
-> ⚠️ O WhatsApp tem suas próprias regras, como demonstra a [documentação](https://developers.facebook.com/docs/whatsapp/cloud-api/reference/media#supported-media-types). O limite de tamanho de vídeos e áudios no WhatsApp é de 16 mb. Por exemplo, se você enviar um vídeo de 20 mb no VTEX CX Platform, o vídeo ficará salvo na plataforma, mas o WhatsApp não vai enviá-lo ao cliente.
+> ⚠️ O WhatsApp tem suas próprias regras, como demonstra a [documentação](https://developers.facebook.com/docs/whatsapp/cloud-api/reference/media#supported-media-types). O limite de tamanho de vídeos e áudios no WhatsApp é de 16 MB. Por exemplo, se você enviar um vídeo de 20 MB no VTEX CX Platform, o vídeo ficará salvo na plataforma, mas o WhatsApp não vai enviá-lo ao cliente.
 
 7. Ao final, clique em `Confirmar`.

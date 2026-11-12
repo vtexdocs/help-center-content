@@ -45,7 +45,7 @@ As métricas a seguir descrevem o volume, a eficiência e o resultado direto das
 | **Conversões**                       | Número total de conversões atribuídas ao anúncio (clique + visualização), aplicando a prioridade Clique > Visualização. Cada conversão é atribuída uma única vez. | -                       |
 | **Conversões (clique)**              | Número de conversões atribuídas exclusivamente por clique.                                                                                                        | -                       |
 | **Vendas**                           | Valor monetário total das vendas atribuídas ao anúncio.                                                                                                           | -                       |
-| **Receita**                          | Receita total atribuída diretamente ao anúncio. Considera as vendas dos produtos anunciados, sem incluir vendas Halo.                                             | -                       |
+| **Receita**                          | Receita total atribuída diretamente ao anúncio. Considera as vendas dos produtos anunciados, sem incluir vendas assistidas.                                             | -                       |
 | **ACOS** (Advertising Cost of Sales) | Proporção da receita gasta com publicidade. Quanto menor o ACOS, mais eficiente a campanha.                                                                       | (Custo / Receita) × 100 |
 
 
@@ -105,14 +105,14 @@ O VTEX Ads usa o modelo **Last Touch**, que credita a conversão à interação 
 
 > ℹ️ A interação (clique ou visualização) deve ocorrer antes da efetivação do pedido para que a conversão seja válida. Cada conversão é atribuída a um único anúncio e a uma única interação, sem divisão proporcional de crédito.
 
-### Conversão direta e vendas Halo
+### Conversão direta e vendas assistidas
 
 A interação do usuário pode gerar dois tipos de venda:
 
 - **Conversão direta:** venda do próprio produto anunciado, atribuída ao anúncio por clique ou por visualização.
-- **Venda Halo:** venda de **outro produto não anunciado**, comprado no mesmo pedido influenciado pelo anúncio. É a receita assistida gerada por itens que não eram o produto anunciado, mas foram adquiridos junto por influência do anúncio.
+- **Venda assistida:** venda de **outro produto não anunciado**, comprado no mesmo pedido influenciado pelo anúncio. É a receita gerada por itens que não eram o produto anunciado, mas foram adquiridos junto por influência do anúncio.
 
-Por exemplo, um anúncio de tênis leva o cliente a comprar o tênis (conversão direta) e, no mesmo pedido, uma meia (venda Halo).
+Por exemplo, um anúncio de tênis leva o cliente a comprar o tênis (conversão direta) e, no mesmo pedido, uma meia (venda assistida).
 
 ### Mapeamento de produtos
 
@@ -136,16 +136,16 @@ Por **origem da atribuição** (clique, visualização ou ambos):
 
 Por **tipo de venda** (produto anunciado ou produtos influenciados):
 
-- **Receita direta:** receita das conversões diretas do produto anunciado. Usada em contraposição à receita Halo.
-- **Receita Halo:** receita gerada por vendas Halo, ou seja, de outros produtos não anunciados comprados no mesmo pedido influenciado pelo anúncio.
+- **Receita direta:** receita das conversões diretas do produto anunciado. Usada em contraposição à receita assistida.
+- **Receita assistida:** receita gerada por vendas assistidas, ou seja, de outros produtos não anunciados comprados no mesmo pedido influenciado pelo anúncio.
 
 
 | Métrica             | O que mede                                                                                                                                                    | Fórmula                                 |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 | **ROAS**            | Retorno sobre o investimento a partir das conversões atribuídas (clique e visualização combinados).                                                           | Receita atribuída / Custo               |
 | **ROAS por clique** | Retorno gerado por usuários que clicaram no anúncio. Disponível como métrica complementar para comparação por canal de atribuição.                            | Receita atribuída a cliques / Custo     |
-| **ROAS Halo**       | ROAS de receita assistida: receita de outros produtos do pedido que não eram o anunciado, mas foram influenciados pelo anúncio, dividida pelo investimento.   | Receita Halo / Custo                    |
-| **ROAS total**      | ROAS total: soma a receita direta (produto anunciado) e a receita Halo (outros produtos do mesmo pedido). Mede o impacto total da campanha no pedido inteiro. | (Receita direta + Receita Halo) / Custo |
+| **ROAS assistido**  | Retorno sobre a receita assistida: receita de outros produtos do pedido que não eram o anunciado, mas foram influenciados pelo anúncio, dividida pelo investimento. | Receita assistida / Custo                    |
+| **ROAS total**      | ROAS total: soma a receita direta (produto anunciado) e a receita assistida (outros produtos do mesmo pedido). Mede o impacto total da campanha no pedido inteiro. | (Receita direta + Receita assistida) / Custo |
 
 
 > ℹ️ A receita atribuída por visualização é incluída no cálculo do **ROAS** consolidado, mas não é exibida como métrica isolada nos dashboards ou nas tabelas.
@@ -154,16 +154,16 @@ Comparar o ROAS consolidado com o **ROAS por clique** ajuda a identificar quais 
 
 > ⚠️ O **ROAS por clique** está disponível apenas para usuários com permissões de super administrador (superAdmin) no VTEX Ads. Usuários padrão não verão essa métrica nos dashboards ou nas tabelas.
 
-## Métricas de vendas influenciadas (Halo)
+## Métricas de vendas assistidas
 
-As métricas Halo medem o impacto indireto do anúncio em vendas de outros produtos não anunciados comprados no mesmo pedido influenciado pelo anúncio.
+As métricas de vendas assistidas medem o impacto indireto do anúncio em vendas de outros produtos não anunciados comprados no mesmo pedido influenciado pelo anúncio.
 
 
-| Métrica          | O que mede                                                                              | Fórmula |
-| ---------------- | --------------------------------------------------------------------------------------- | ------- |
-| **Pedidos Halo** | Número de pedidos com pelo menos um item Halo.                                          | -       |
-| **Receita Halo** | Receita de produtos não anunciados comprados no mesmo pedido influenciado pelo anúncio. | -       |
-| **Itens Halo**   | Quantidade de itens Halo vendidos.                                                      | -       |
+| Métrica               | O que mede                                                                              | Fórmula |
+| --------------------- | --------------------------------------------------------------------------------------- | ------- |
+| **Pedidos assistidos** | Número de pedidos com pelo menos um item assistido.                                     | -       |
+| **Receita assistida**  | Receita de produtos não anunciados comprados no mesmo pedido influenciado pelo anúncio. | -       |
+| **Itens assistidos**   | Quantidade de itens assistidos vendidos.                                                | -       |
 
 ## Métricas de percentual de impressões
 

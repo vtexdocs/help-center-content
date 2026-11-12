@@ -43,7 +43,7 @@ La pantalla de configuración tiene dos listas de SKUs, que se pueden agregar ma
 - Compra un pantalón y recibe **10% de descuento** en un cinturón.
 - Compra un par de zapatillas y un par de calcetines y recibe **15% de descuento**.
 
-Para más información, consulta [Crear promoción Comprar juntos](https://help.vtex.com/es/tutorial/compre-junto--tutorials_323).
+Para más información, consulta [Crear promoción Comprar juntos](https://help.vtex.com/es/docs/tutorials/comprar-juntos-registro-de-promocion).
 
 ## Más por menos
 
@@ -69,7 +69,7 @@ Los ajustes avanzados permiten definir cómo se aplicará el descuento a los pro
 - **Productos más baratos:** el descuento se aplica a los productos de menor valor.
 - **Productos más caros:** el descuento se aplica a los productos de mayor valor.
 
-Para más información, consulta [Crear promoción Más por menos](https://help.vtex.com/es/tutorial/leve-mais-por-menos--tutorials_325).
+Para más información, consulta [Crear promoción Más por menos](https://help.vtex.com/es/docs/tutorials/mas-por-menos).
 
 ## Descuento progresivo
 
@@ -86,7 +86,7 @@ En la configuración, define los **SKUs** o **colecciones** participantes y esta
 
 ![Descuento progresivo – PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/promociones/descuento-progresivo_1.gif)
 
-Para más información, consulta [Cómo funciona la promoción Descuento progresivo](https://help.vtex.com/es/tutorial/desconto-progressivo--tutorials_324).
+Para más información, consulta [Cómo funciona la promoción Descuento progresivo](https://help.vtex.com/es/docs/tutorials/descuento-progresivo).
 
 ## Compra uno y lleva uno gratis
 La promoción **Compra uno y lleva uno gratis** otorga envío gratis, un regalo o la opción de establecer un **precio máximo por ítem** cada vez que el cliente agregue los productos elegibles al carrito, según las reglas configuradas.
@@ -118,7 +118,7 @@ La pantalla de configuración permite definir las condiciones de la compra y el 
 
 > ⚠️ Una promoción Compra uno y lleva uno gratis permite configurar hasta 100 SKUs diferentes simultáneamente.
 
-Para más información, consulta [Cómo funciona la promoción Compra uno y lleva uno gratis](https://help.vtex.com/es/tutorial/compre-e-ganhe--tutorials_322).
+Para más información, consulta [Cómo funciona la promoción Compra uno y lleva uno gratis](https://help.vtex.com/es/docs/tutorials/como-funciona-la-promocion-compre-y-gane).
 
 ## Promoción de campaña
 

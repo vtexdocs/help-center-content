@@ -1,0 +1,51 @@
+---
+title: 'WhatsApp: Cómo crear mensajes de plantilla'
+createdAt: 2025-09-15T15:05:31.154Z
+updatedAt: 2026-11-12T12:00:00.000Z
+contentType: tutorial
+productTeam: Post-purchase
+slugEN: whatsapp-how-to-create-template-messages
+locale: es
+---
+
+Los mensajes de plantilla se utilizan para iniciar conversaciones con los clientes y son el único tipo de mensaje que se puede enviar a clientes que aún no han iniciado una conversación contigo o que no han enviado un mensaje en las últimas 24 horas en una conversación existente.
+
+Antes de enviarse a los clientes, los modelos de mensaje deben ser aprobados. Además, pueden ser desactivados automáticamente en función de la retroalimentación de los clientes. Si se desactiva, el modelo de mensaje no podrá ser enviado a los clientes hasta que mejore la calificación de calidad y deje de infringir la [Política de WhatsApp Business](https://whatsappbusiness.com/es-la/policy/) o la [Política Comercial de WhatsApp](https://whatsappbusiness.com/es-la/policy/#politica-para-las-funciones-de-comercio-de-whatsapp-incluida-la-venta-de-productos-o-servicios).
+
+## Crear un modelo de mensaje
+
+Puedes usar la VTEX CX Platform para crear modelos de mensaje manualmente y enviarlos para su aprobación.
+
+Para crear un mensaje de plantilla:
+
+1. Accede al Panel de **Aplicaciones** y ve a la pestaña **Mis Aplicaciones**;
+2. Haz clic en la tarjeta que contiene la cuenta de WhatsApp que recibirá la Plantilla.
+3. Haz clic en la pestaña **Plantilla** en el lado derecho.
+4. Se abrirá un panel donde deberás hacer clic en Nuevo modelo para agregar el mensaje:
+
+5. Completa el formulario con la información necesaria. Usa el botón **+ Agregar variable** si deseas insertar espacios reservados para contenido variable que se proporcionará al enviar el modelo.
+
+6. Haz clic en Agregar ejemplo para agregar ejemplos de valores al modelo. Esto es opcional, pero recomendable. Consulta los Ejemplos.
+7. Haz clic en Enviar para enviar el modelo para su aprobación.
+
+## Proceso de aprobación de Meta
+
+Después de crear el modelo, podrás enviarlo para su aprobación. Generalmente, las aprobaciones ocurren de forma instantánea o en unos pocos minutos (si se envían directamente desde la plataforma). Tan pronto como se tome la decisión, aparecerá una notificación en el Administrador de WhatsApp. Además, se enviará un correo electrónico a los administradores del Administrador de Negocios. Si te has suscrito a las actualizaciones sobre cambios en el estado del modelo de mensaje, también recibirás una notificación de webhook de Meta. Consulta [Cómo monitorear cambios de estado](https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/template-review#template-review-webhooks).
+
+Si se aprueba, el modelo de mensaje tendrá el estado **Activo - Calidad pendiente**. Con esto, podrás comenzar a enviarlo a los clientes. Si es rechazado, el modelo se podrá [editar](https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/template-review#approval-process) y reenviar para su aprobación. Otra posibilidad es [apelar la decisión](https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/template-review#appeals).
+
+## Incluir ejemplos
+
+Recomendamos que incluyas un ejemplo antes de enviar el modelo para su aprobación. Los ejemplos te permiten enviar ejemplos de activos multimedia y valores de texto para variables de medios o texto requeridos por el modelo. Esto facilita que Meta visualice cómo aparecerá el modelo para tus clientes.
+
+Además, en caso de que el envío sea rechazado y decidas apelar, será necesario incluir un ejemplo en tu apelación. Por lo tanto, es mejor incluirlo en el envío inicial.
+
+Para incluir un ejemplo en el envío, primero crea tu modelo, agregando las variables necesarias. Luego, haz clic en el botón Agregar ejemplo. El panel de vista previa mostrará los ejemplos de activos multimedia o valores de texto proporcionados.
+
+Si hay rechazos de mensajes y quieres resolver o cambiar la configuración de tus mensajes de plantilla, ve a [Mensajes de Plantilla de WhatsApp: Impedimentos y configuraciones](https://help.vtex.com/es/docs/tutorials/mensajes-de-plantilla-de-whatsapp-obstaculos-y-configuraciones) y obtén más información.
+
+## Obtén más información
+
+- [Política de WhatsApp Business](https://whatsappbusiness.com/es-la/policy/): obtén más información sobre las políticas relacionadas con empresas.
+- [Política Comercial de WhatsApp](https://whatsappbusiness.com/es-la/policy/#politica-para-las-funciones-de-comercio-de-whatsapp-incluida-la-venta-de-productos-o-servicios): obtén más información sobre las políticas comerciales.
+- [Aplicación de las Políticas](https://developers.facebook.com/documentation/business-messaging/whatsapp/policy-enforcement/?locale=es_LA): aprende cómo Meta aplica estas políticas.

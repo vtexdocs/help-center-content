@@ -3,7 +3,7 @@ title: 'Managing physical stores in VTEX Sales App'
 id: 5PSjRstg7UU4lOm0s8aqKN
 status: PUBLISHED
 createdAt: 2020-06-29T13:30:51.354Z
-updatedAt: 2026-07-07T18:59:24.074Z
+updatedAt: 2026-09-24T18:59:24.074Z
 publishedAt: 2023-07-26T18:59:24.074Z
 firstPublishedAt: 2020-06-29T14:22:11.121Z
 contentType: trackArticle
@@ -74,6 +74,8 @@ You can add a physical store by following the steps below:
 * **Franchise account:** [Franchise account](/en/docs/tutorials/what-is-a-franchise-account) in which the physical store must be added.
 * **Sales channel:** [Sales channel](/en/docs/tutorials/how-trade-policies-work) that will be applied in the physical store. Mandatory field.
 * **Pickup point:** [Pickup point](/en/docs/tutorials/pickup-points) associated to this physical store, where customers pick up their orders.
+
+> ⚠️ The **Franchise account** and **Pickup point** fields should only be filled in if the store wants to use [Local stock sale](/en/docs/tutorials/enabling-local-stock-sale-in-vtex-sales-app) (on hands). Filling in these fields without properly configuring Local stock sale can cause items to be unavailable on the product page (PDP) and the listing page (PLP).
 
 > ℹ️ Changes can take up to 15 minutes to be processed and applied to VTEX Sales App.
 

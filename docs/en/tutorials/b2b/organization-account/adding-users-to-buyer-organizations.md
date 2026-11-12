@@ -1,7 +1,7 @@
 ---
 title: 'Adding users to buyer organizations'
 createdAt: '2026-03-05T10:00:00.000Z'
-updatedAt: '2026-04-13T10:00:00.000Z'
+updatedAt: '2026-09-21T00:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: adding-users-to-buyer-organizations
@@ -25,7 +25,6 @@ The table below summarizes the main roles and their functions:
 | **Buyer** | Can place orders in the store. |
 | **Order Approver** | Can approve or reject orders following the configured approval flows. |
 | **Order Modifier** | Can use the order change feature on orders they have access to. |
-| **Address Manager** | Can add and manage addresses during checkout, and view saved addresses. |
 | **Buyer Organization Manager** | Can view all orders within their organizational unit. |
 | **Contract Manager** | Can view orders placed under the contract assigned to them. |
 | **User Manager** | Can manage users and view user details within the organization. |
@@ -34,6 +33,8 @@ The table below summarizes the main roles and their functions:
 | **Accounting Field Manager** | Can create, edit, and delete accounting fields, and view accounting field configurations. |
 | **Credit Card Manager** | Can manage and view saved credit cards. |
 | **Personal Cards User** | Can use a new credit card not saved in the contract by default at checkout. |
+
+> ℹ️ The **Address Manager** role was removed on September 21, 2026. Managing B2B customer addresses is now only available through a custom role with the same resources. Accounts that already used this role don't need to do anything, since access was automatically preserved. New accounts that need this permission must create their own custom role.
 
 > ℹ️ Learn more about Storefront roles and resources in the developer guide [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles).
 

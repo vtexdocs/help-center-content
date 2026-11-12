@@ -1,14 +1,14 @@
 ---
-title: "Analytics: Support metrics"
+title: "Analytics"
 createdAt: 2026-07-02T16:25:21.244Z
-updatedAt: 2026-07-02T14:20:03.298Z
+updatedAt: 2026-11-10T19:45:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: analytics-support-metrics
 locale: en
 ---
 
-The **Analytics** page offers data and metrics about human support in your operation. It allows you to track support chats in real time, check representative and team performance, and analyze history to identify opportunities for improvement. Each native VTEX CX Platform dashboard brings different support chat data.
+The **Analytics** page provides metrics about support chats, AI agent conversations, and message delivery in your operation. Use it to monitor active chats in real time, evaluate team performance, and analyze operational trends across three dashboards: **Live Desk**, **Conversational**, and **WhatsApp**.
 
 ## Live Desk
 
@@ -19,7 +19,7 @@ On this page, you'll find the following controls:
 ![Update, filter, and data export buttons](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/analytics/live-desk-data-management-and-filters.png)
 
 - `Refresh`: Manually reloads the dashboard data.
-- `Filters`: Opens filter options by department, queue, representative, tags, and period.
+- `Filters`: Opens filter options by department, queue, representative, tags, channel, and period. In **Channel**, search and select one or more channels used in the project, such as **Instagram**, **Facebook**, **WhatsApp**, **Teams**, and **Email**. The selection applies to the metrics on the dashboard.
 - `Export data`: Allows you to download the data displayed on the dashboard.
 
 This data refreshes automatically, and you can see the time of the last update next to the **Refresh** button.
@@ -38,19 +38,28 @@ It includes the following sections:
 
 Provides a quick summary of the current state of support chats with three counters:
 
-- **Waiting:** Number of contacts in the queue waiting for a support chat to start.
-- **In progress:** Support chats currently being handled by a representative.
-- **Completed:** Total number of support chats completed in the period. This metric considers the current day only.
+- **Waiting:** Number of contacts in queue waiting for a support chat to start.
+- **In progress:** Number of support chats currently handled by a representative.
+- **Completed:** Number of support chats finished during the current day.
 
 #### 2. Current time metrics
 
 Displays average times calculated in real time for active support chats:
 
-- **Average wait time:** The average time contacts stay queued before entering a support chat.
-- **Average time to 1st response:** The average interval between the start of the support chat with the contact and the first message from the representative.
-- **Average chat duration:** The average total time of each support chat, from start to end.
+- **Average wait time:** Average time contacts wait in queue before a chat starts.
+- **Average time to 1st response:** Average interval between the start of a chat and the representative's first message.
+- **Average chat duration:** Average total duration of each support chat, from start to end.
 
 Each metric also displays the maximum value recorded in the period.
+
+Project moderators can set an optional time goal for any of these metrics. Goals are independent, so you can configure one, some, or all of them, and choose the unit in seconds, minutes, or hours. When a goal is set and the current maximum for that metric exceeds it, the widget shows a visual alert. A metric without a goal doesn't show an alert.
+
+The same goals can also notify the operation outside the widget:
+
+- A toast appears in **Analytics**, on any open dashboard, when the number of support chats over the limit reaches the number you configured. The default is 5. The toast appears again only after that count drops below the limit and reaches it once more. While the count stays at or above the limit, it doesn't appear again.
+- An email can be sent to selected moderators and managers, with one message per goal (wait time, time to 1st response, or chat duration), using the same count rule as the toast.
+
+To set the goals, the number of support chats that must exceed them, and the email recipients, see [Analytics: Configuring operational alerts](https://help.vtex.com/en/docs/tutorials/configuring-operational-alerts).
 
 #### 3. Support chats opened per hour
 
@@ -70,26 +79,35 @@ Table listing all tags associated with active support chats and displaying, for 
 
 To expand and view the full list of tags, click `View all`.
 
-#### 6. CSAT
+#### 6. Volume per channel
+
+Shows how support chats are distributed across the channels used in the project. Select **Waiting** or **In progress** to see the count for that status. Each channel shows its icon and the number of support chats. With **In progress** selected, the footer shows how many channels have chats in progress.
+
+#### 7. CSAT
 
 Displays the customer satisfaction score (CSAT) based on the surveys collected at the end of support chats.
 
 - **Overall rating:** Average score calculated based on all surveys received in the period, with the total number of support chats and answered surveys.
-- **Rating by representative:** Individual score for each representative, with the number of support chats and ratings received. Representatives with the highest scores will appear in this list.
+- **Rating by representative:** Individual score for each representative, with the number of support chats and ratings received. Representatives with the highest scores appear in this list.
 - **Rating distribution:** Bar chart showing the percentage and number of responses for each level: Very satisfied, Satisfied, Neutral, Dissatisfied, and Very dissatisfied.
 
 > ⚠️ To display the CSAT widget, it needs to be enabled natively in at least one of the project's departments. If it's not active, you need to click the `Enable` button and enable it in a department. For more information about departments, see the [Configure Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk) article.
 
 ![Monitoring screen 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/analytics/monitoring-screen-3.png)
 
-#### 7. Detailed monitoring
+#### 8. Detailed monitoring
 
 Table listing individual support chats in real time. You can switch between the following views using the tabs at the top of the table:
 
 - **Waiting:** Contacts awaiting a support chat, with accumulated wait time.
-- **In progress:** Active support chats, with representative, department, queue, tag, and recorded time data.
+- **In progress:** Active support chats, with representative, department, queue, channel, tag, and recorded time data. The **Channel** column shows the channel icon. The **Duration** column shows a blue arrow next to the time when the chat is waiting for a reply.
 - **Representative:** History of representatives for the period.
 - **Custom breaks:** Record of breaks taken by representatives.
+
+When a time goal is configured, the table highlights the support chats that exceed it:
+
+- **Waiting:** Highlights chats whose wait time exceeds the average wait time goal.
+- **In progress:** Highlights chats that exceed the time to 1st response goal or the chat duration goal. If a chat exceeds both, the row shows the first-response alert.
 
 The columns display information such as contact, wait time, time to first response, representative, department, and queue.
 
@@ -143,18 +161,19 @@ Table listing the individual support chats completed in the period. You can swit
 
 ##### Completed
 
-This tab contains information about completed support chats, including data on representative, department, queue, wait time, time to first response, duration, contact, and protocol. You can filter results by **representative**, **contact**, and **protocol**.
+This tab contains information about completed support chats, including data on representative, department, queue, wait time, time to first response, duration, contact, protocol, and CSAT score. You can filter results by **representative**, **contact**, and **protocol**.
 
 | Column | Description |
 | --- | --- |
-| Representative | Representative name. |
-| Department | Representative department (such as **Logistics**, **Finance**, among others). |
-| Queue | Support chat queue (such as **Tracking**, **Payments**, among others). |
-| Wait time | Time the contact waited in the queue until before the support chat started. |
-| Time to 1st response | Average time between the contact entering the support chat and receiving the first message from the representative. |
-| Duration | How long the support chat lasted from start to finish. |
-| Contact | Name of the customer who reached out for support. |
-| Protocol | Protocol number of the support chat. |
+| **Representative** | Representative name. |
+| **Department** | Representative department (such as **Logistics**, **Finance**, among others). |
+| **Queue** | Support chat queue (such as **Tracking**, **Payments**, among others). |
+| **Wait time** | Time the contact waited in the queue before the support chat started. |
+| **Time to 1st response** | Average time between the contact entering the support chat and receiving the first message from the representative. |
+| **Duration** | How long the support chat lasted from start to finish. |
+| **Contact** | Name of the customer who reached out for support. |
+| **Protocol** | Protocol number of the support chat. |
+| **CSAT score** | Customer satisfaction score from the native CSAT response for that closed support chat, when the contact answered the survey. |
 
 ##### Representative
 
@@ -162,12 +181,12 @@ This tab provides information about representatives in the selected period. You 
 
 | Column | Description |
 | --- | --- |
-| Representative | Representative name. |
-| Total support chats | Number of support chats handled by this representative in the selected period. |
-| Average time to 1st response | Average time between the contact entering the support chat and receiving the first message from the representative. |
-| Average response time | Average interval between representative responses. |
-| Average duration | Average duration of all the representative's support chats. |
-| Time in support chat | Total support chat time for the representative. |
+| **Representative** | Representative name. |
+| **Total support chats** | Number of support chats handled by this representative in the selected period. |
+| **Average time to 1st response** | Average time between the contact entering the support chat and receiving the first message from the representative. |
+| **Average response time** | Average interval between representative responses. |
+| **Average duration** | Average duration of all the representative's support chats. |
+| **Time in support chat** | Total support chat time for the representative. |
 
 ##### Custom breaks
 
@@ -175,19 +194,36 @@ In this tab, you can view the breaks taken by representatives. Each column refer
 
 To learn how to add, remove, or edit custom breaks, see the [Configure Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk) article.
 
-## Conversational (beta)
+## Conversational
 
-The **Conversational** dashboard provides data on conversations managed by AI agents in your operation. It allows you to track conversation volume, contact behavior, AI agent performance, and the impact of interactions on sales.
+The **Conversational** dashboard provides data on conversations managed by AI agents in your operation. It allows you to track conversation volume, contact behavior, AI agent performance, abandoned cart recovery, and numeric indicators you define for your operation.
 
-> ℹ️ Data in the Conversational dashboard includes windows closed by 23:59:59 on the start day, considering the time zone configured in the project. Conversations from the current day will be processed and displayed after the period closes.
+> ℹ️ The **Conversational** dashboard includes conversation windows closed by 23:59:59 on the start day, in the project time zone. Conversations from the current day appear after that period closes.
 
 The dashboard offers the following controls:
 
-- Period selector: Defines the date range for displaying the data.
+- `Period selector:` Defines the date range for displaying the data.
 - `Refresh`: Manually reloads the dashboard data.
 - `Export data`: Allows you to download the data displayed in the dashboard.
 
-This dashboard contains the following sections:
+### Abandoned cart recovery
+
+**Abandoned cart recovery** shows the results of abandoned cart recovery messages for the period selected at the top of the dashboard.
+
+> ℹ️ **Abandoned cart recovery** appears when abandoned cart recovery automation is active on the account. With the automation inactive, this widget isn't on the dashboard.
+
+| Metric | Description |
+| --- | --- |
+| **Sent** | Number of abandoned cart recovery messages sent in the selected period. |
+| **Delivered** | Number of recovery messages delivered to contacts. |
+| **Read** | Number of recovery messages read by contacts. |
+| **Clicks** | Number of clicks on recovery messages. |
+| **Recovered revenue** | Total value of the converted sales in the selected period. |
+| **RoAS** | Return multiple shown next to **Recovered revenue**. |
+| **Total sends** | Total number of recovery messages sent in the selected period. |
+| **Converted sales** | Number of sales converted in the selected period. |
+| **Conversion rate** | Percentage of sent recovery messages that resulted in a converted sale. |
+| **Average order value** | Average value of the converted sales in the selected period. |
 
 ### Conversations
 
@@ -216,6 +252,12 @@ The **Topics** section allows you to categorize and analyze conversations by top
 
 To get started, click <i class="fas fa-plus" aria-hidden="true"></i>`Add your first topic` and define the categories relevant to your operation.
 
+### Values generated by the agent
+
+The **Values generated by the agent** section shows numeric indicators you define for your operation. Each indicator appears as a card with the name you set and the value for the selected period. The value can be a monetary amount or a number.
+
+To add an indicator, click the add button in the section. Choose how the value is calculated: total, average, minimum, or maximum.
+
 ### Customize your dashboard
 
 You can add widgets to the dashboard to display the metrics most relevant to your operation. To do this, click <i class="fas fa-plus" aria-hidden="true"></i>`Add widget` and choose the metrics you want to track.
@@ -226,15 +268,19 @@ You can choose between native VTEX CX Platform widgets or custom widgets.
 
 - **CSAT:** Tracks customer satisfaction levels based on the CSAT score.
 - **NPS:** Measures the likelihood of a contact recommending the service they received.
-- **Most used agents:** Displays a ranking of the agents most used by support.
-- **Most used tools:** Lists the tools most used by support.
+- **Most used agents:** Ranks the agents used most often in conversations during the period.
+- **Most used tools:** Ranks the tools used most often in conversations during the period.
 - **Sales funnel and data:** Relates conversations to the business results generated during the period.
+- **Most searched terms:** Lists the search terms shoppers use most often in conversations during the period.
+- **Most added products to cart:** Lists the products shoppers add to the cart most often in conversations during the period.
+
+> ℹ️ The **Most searched terms** widget appears automatically when the Concierge agent is assigned to the project. The **Most added products to cart** widget appears when the Payments agent is assigned. You can remove them from the dashboard and add them back later. They show search and add-to-cart activity inside conversations. They don't measure completed purchases, conversion rates, or business impact.
 
 #### Custom widgets
 
-- **Horizontal bar chart**: Select an agent and track its data with a bar chart view.
-- **Crosstab**: Choose two data points you want to track and compare their results.
-- **Absolute numbers**: Select a metric and view its absolute value.
+- **Horizontal bar chart:** Displays data for a selected agent as a bar chart.
+- **Crosstab:** Compares two metrics against each other in a table.
+- **Absolute numbers:** Displays the total numeric value of a selected metric.
 
 ## WhatsApp
 
@@ -248,9 +294,7 @@ The dashboard offers the following controls:
 - **Favorite template selector:** Displays the list of templates you've marked as favorite. Select a template to view more information.
 - **Search template:** Displays the list of all templates in your store. Select a template to view more information.
 
-After selecting a template, you can view the message information for that template.
-
-The chart contains the following information:
+After selecting a template, the chart displays:
 
 - **Sent messages:** Total number of messages sent for this template in the selected period.
 - **Delivered messages:** Total number and percentage of messages delivered to contacts.

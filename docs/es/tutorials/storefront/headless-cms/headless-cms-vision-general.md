@@ -17,7 +17,7 @@ order: 1
 ---
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-  Headless CMS (Legacy) está disponible solo para tiendas FastStore (v1, v2 y v3) y Headless Stores. Recomendamos migrar al nuevo <a href="/es/docs/tutorials/cms-overview">CMS</a>, que ofrece mejor rendimiento, colaboración y escalabilidad.
+  Headless CMS (Legacy) está disponible solo para tiendas FastStore (v1, v2 y v3) y Headless Stores. Recomendamos migrar al nuevo <a href="/es/docs/tutorials/cms-informacion-general">CMS</a>, que ofrece mejor rendimiento, colaboración y escalabilidad.
 </div>
 
 Headless CMS (Legacy) es un sistema de gestión de contenido desarrollado por VTEX para brindar a las empresas la flexibilidad de crear y entregar contenido en diversos canales, como sitios web y aplicaciones móviles.

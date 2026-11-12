@@ -1,16 +1,16 @@
 ---
-title: 'Prevención de Fraude (Beta)'
+title: 'Prevención de Fraude'
 createdAt: 2026-03-27T00:00:00.000Z
-updatedAt: 2026-03-27T00:00:00.000Z
+updatedAt: 2026-10-13T20:27:00.000Z
 contentType: tutorial
 productTeam: Others
 slugEN: fraud-prevention
 locale: es
 ---
 
->ℹ️ Esta funcionalidad es parte del producto [VTEX Shield](https://help.vtex.com/es/docs/tutorials/vtex-shield). Si ya eres cliente de VTEX y deseas adoptar VTEX Shield en tu empresa, ponte en contacto con nuestro [Soporte comercial](https://help.vtex.com/es/docs/tracks/soporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente VTEX, pero te interesa esta solución, llena el [formulario de contacto](https://www.vtex.com/es-mx/empezar/).
+La **Prevención de fraude** es una funcionalidad de seguridad que forma parte de [VTEX Shield](https://help.vtex.com/es/docs/tutorials/vtex-shield) y está disponible para todas las cuentas. Protege tu tienda contra ataques de pruebas de tarjetas (card testing).
 
-La **Prevención de fraude** es una funcionalidad de **VTEX Shield** que protege tu tienda contra ataques de pruebas de tarjetas (card testing).
+>ℹ️ Para conocer las demás funcionalidades de [VTEX Shield](https://help.vtex.com/es/docs/tutorials/vtex-shield), ponte en contacto con nuestro [Soporte comercial](https://help.vtex.com/es/docs/tracks/soporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente VTEX, pero te interesa esta solución, llena el [formulario de contacto](https://www.vtex.com/es-mx/empezar/).
 
 Los ataques de pruebas de tarjetas ocurren cuando los estafadores prueban diferentes combinaciones de tarjetas robadas en un corto periodo de tiempo para identificar las que están activas. Este tipo de práctica puede generar un alto volumen de intentos de pago fallidos, costos adicionales con adquirentes y herramientas antifraude, además de impactar la operación de la tienda.
 
@@ -48,19 +48,13 @@ La tabla **Historial de detecciones** muestra los detalles de los intentos anali
 | Acción sugerida | Acción recomendada por el mecanismo de análisis de fraude para ese intento de transacción, de acuerdo con el riesgo identificado. De forma predeterminada, a partir de una puntuación de 0.9 se recomienda bloquear la transacción, pero esta configuración puede modificarse al contratar el producto o contactando al [Soporte](https://help.vtex.com/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex). |
 | Puntuación de fraude | Puntuación de 0 a 1 que indica la probabilidad de fraude. Cuanto más cerca de 1, mayor es la probabilidad. |
 
-Esta página también te permite realizar las siguientes acciones:
-
-* [Filtrar intentos de transacción por periodo](#filtrar-intentos-de-transacción-por-periodo)
-* [Activar bloqueo](#activar-bloqueo)
-* [Desactivar bloqueo](#desactivar-bloqueo)
-
 ## Permisos requeridos
 
-Para acceder y gestionar la funcionalidad de prevención de fraude, el usuario debe tener un [rol](https://help.vtex.com/es/docs/tutorials/roles) con los siguientes [recursos de License Manager](https://help.vtex.com/es/docs/tutorials/recursos-del-license-manager):
+Para acceder a la funcionalidad de prevención de fraude, el usuario debe tener un [rol](https://help.vtex.com/es/docs/tutorials/roles) con el siguiente [recurso de License Manager](https://help.vtex.com/es/docs/tutorials/recursos-del-license-manager):
 
 * **Producto:** Fraud Prevention
 * **Categoría:** Transaction Attempts
-* **Recursos:** View transaction attempts y Edit transaction attempt action settings
+* **Recurso:** View transaction attempts
 
 ## Filtrar intentos de transacción por periodo
 
@@ -74,25 +68,6 @@ Para cambiar el periodo, haz clic en el periodo actual y luego en la opción des
 * Personalizada: selecciona la fecha de inicio y la fecha de fin, luego haz clic en Aplicar.
 
 El historial se actualizará automáticamente con los intentos de transacción en el periodo seleccionado.
-
-## Activar bloqueo
-
-Para activar el bloqueo automático de transacciones de alto riesgo:
-
-1. Haz clic en el menú **⋮**.
-2. Haz clic en **Activar bloqueo**.
-
-A partir de ese momento, las transacciones consideradas sospechosas podrán bloquearse automáticamente según la configuración del algoritmo.
-
-## Desactivar bloqueo
-
-Para desactivar el bloqueo automático:
-
-1. Haz clic en el menú **⋮**.
-2. Haz clic en **Desactivar bloqueo**.
-3. Haz clic en **Confirmar**.
-
-Los intentos seguirán analizándose y mostrándose en el historial, pero no se bloquearán automáticamente. Cuando el bloqueo automático está desactivado, la funcionalidad opera en modo de monitoreo (observación), registrando y analizando los intentos sin impedir el checkout.
 
 ## Más información
 

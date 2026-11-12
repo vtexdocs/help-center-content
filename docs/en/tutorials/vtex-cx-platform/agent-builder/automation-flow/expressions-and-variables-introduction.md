@@ -3,7 +3,7 @@ title: "Expressions and variables introduction"
 id: 4MDzN6Z7Sau2Xt1eyyQ4Ik
 status: PUBLISHED
 createdAt: 2025-09-16T16:14:16.027Z
-updatedAt: 2025-10-03T14:20:04.285Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:04.285Z
 firstPublishedAt: 2025-10-03T14:20:04.285Z
 contentType: tutorial
@@ -15,11 +15,11 @@ locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-The creation of a flow aims to fully connect a set of actions in order to achieve a certain result.
+Creating a flow connects a set of actions to achieve a result.
 
 Variables are used to store the values and results of these steps, allowing data persistence. For example, the **Wait for Response** option below will generate a flow variable called name as the contact's response. Additionally, the variable will be used to save the data in the contact's Name field.
 
-Variables start with the symbol `@`. However, you can also move on to more complex expressions using `@(`. These expressions are modeled within specific syntaxes and are intended to handle data in order to manipulate the variables saved by the platform.
+Variables start with the symbol `@`. However, you can also move on to more complex expressions using `@(`. These expressions are modeled within specific syntaxes and are intended to handle data to manipulate the variables saved by the platform.
 
 When using flow variables, it is also possible to specify subtopics you want. See the example below:
 
@@ -28,9 +28,9 @@ When using flow variables, it is also possible to specify subtopics you want. Se
 
 All variables and expressions show their actual value when the contact is active in the flow. If you enter a variable or expression incorrectly, the message will not be replaced, and the incorrect formula will be displayed to the user.
 
-## Other variables
+## Contact, URN, and webhook variables
 
-In addition to the `@results` expression, there are other commonly used expressions:
+In addition to the `@results` expression, these expressions are also available:
 **`@contact`**
 This expression is used to retrieve values saved in standard contact fields on the VTEX CX Platform and is updated through the **Update Contact** card. Examples:
 `@contact.name`: Contact's name
@@ -46,5 +46,5 @@ This expression is used to retrieve the identifier of the contact's main channel
 **`@webhook`**
 This expression is used to retrieve values returned from the last webhook call made in the flow. Examples:
 `@webhook.results.cliente`: Client's name returned from the API, if it returns only one object.
-`@webhook.results.0.cliente`: Client's name returned from the API. If it returns an array, you need to specify the position of the array in the expression using **0, 1, 2** , and so on.
-To learn more about expressions, watch our [Ask VTEX CX Platform](https://comunidade.weni.ai/t/expressoes-e-variaveis/248) on this topic.
+`@webhook.results.0.cliente`: Client's name returned from the API. If the response is an array, specify the position you want in the expression, using **0, 1, 2**, and so on.
+To learn more about expressions, watch the [Ask VTEX CX Platform](https://comunidade.weni.ai/t/expressoes-e-variaveis/248) on this topic.

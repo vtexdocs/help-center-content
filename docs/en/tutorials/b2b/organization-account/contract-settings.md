@@ -20,6 +20,7 @@ This article covers the following topics:
   - [Editing an address](#editing-an-address)
   - [Deleting an address](#deleting-an-address)
 - [Managing payment methods](#managing-payment-methods)
+  - [Configuring the supported note payable](#configuring-the-supported-note-payable)
   - [Adding a payment method](#adding-a-payment-method)
   - [Removing a payment method](#removing-a-payment-method)
 - [Managing credit cards](#managing-credit-cards)
@@ -33,7 +34,7 @@ This article covers the following topics:
 
 The **Profile** page displays basic information about the contract, including name, email, and created date. This information can't be edited.
 
-1. On the [Organization Account home screen](https://help.vtex.com/docs/tutorials/organization-account), in the **Contract** section, click **Profile.**
+1. On the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account), in the **Contract** section, click **Profile.**
 2. See the details in the **Details** section.
 
 ## Managing addresses
@@ -48,7 +49,7 @@ A **location** is a specific delivery point within an address, such as a loading
 
 ### Adding an address
 
-1. On the [Organization Account home screen](https://help.vtex.com/docs/tutorials/organization-account), in the **Contract** section, click **Addresses.**
+1. On the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account), in the **Contract** section, click **Addresses.**
 2. On the **Addresses** page, click the **+** icon at the top of the page.
 3. In the **Add address** drawer, you can choose an address already added to your organization. If there's no address added yet or you want to save a new one, complete the information in the following tabs:
    - On the **Details** tab, complete the address fields:
@@ -66,7 +67,7 @@ A **location** is a specific delivery point within an address, such as a loading
 
 ### Editing an address
 
-1. On the [Organization Account home screen](https://help.vtex.com/docs/tutorials/organization-account), in the **Contract** section, click **Addresses.**
+1. On the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account), in the **Contract** section, click **Addresses.**
 2. On the **Addresses** page, in the corresponding row, click the menu icon <i class="fas fa-ellipsis-v" aria-hidden="true"></i> and select one of the available actions:
    - `Open`: View address details.
    - `Edit details`: Edit address information.
@@ -81,7 +82,7 @@ A **location** is a specific delivery point within an address, such as a loading
 
 > ❗ Deleting an address is permanent and can't be undone. The address may be used by several organizational units. When deleted, the address and all associated information are removed from all units; the usage history is retained for audit purposes.
 
-1. On the [Organization Account home screen](https://help.vtex.com/docs/tutorials/organization-account), in the **Contract** section, click **Addresses.**
+1. On the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account), in the **Contract** section, click **Addresses.**
 2. On the **Addresses** page, in the corresponding row, click the menu icon <i class="fas fa-ellipsis-v" aria-hidden="true"></i> > `Delete`.
 3. In the confirmation modal, enter the address name to confirm.
 4. Click `Remove`.
@@ -90,9 +91,23 @@ A **location** is a specific delivery point within an address, such as a loading
 
 The **Payment methods** page lists the available payment methods for the organizational unit. The user can add payment methods from among the available options for the unit or remove existing ones.
 
+### Configuring the supported note payable
+
+When setting up payment methods in your store, there are different note payable options, distinguished by numeric codes.
+
+For payments with notes payable, the **B2B Buyer Portal** only supports the note payable of payment method `207`. Configure this note payable in the **Admin** before adding it to the contract's payment methods.
+
+To open the supported note payable, go to the URL `https://{accountName}.myvtex.com/admin/pci-gateway#/custom-payments/promissories/207`, replacing `{accountName}` with the store's [account name](https://help.vtex.com/en/docs/tutorials/what-is-an-account-name).
+
+Don't use the **Admin** notes payable search to find the supported note payable.
+
+The first search result may be a note payable that isn't supported by the **B2B Buyer Portal**.
+
+To complete the remaining note payable fields, see [Setting up payments with Notes Payable](https://help.vtex.com/en/docs/tutorials/setting-up-payments-with-notes-payable).
+
 ### Adding a payment method
 
-1. On the [Organization Account home screen](https://help.vtex.com/docs/tutorials/organization-account), in the **Contract** section, click **Payment methods.**
+1. On the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account), in the **Contract** section, click **Payment methods.**
 2. On the **Payment methods** page, click the **+** icon at the top of the screen.
 3. In the **Add payment methods** drawer, select the payment methods to add by checking the corresponding boxes.
 4. Click `Add`.
@@ -101,7 +116,7 @@ The selected methods will appear on the **Payment Methods** page and will be ava
 
 ### Removing a payment method
 
-1. On the [Organization Account home screen](https://help.vtex.com/docs/tutorials/organization-account), in the **Contract** section, click **Payment methods.**
+1. On the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account), in the **Contract** section, click **Payment methods.**
 2. On the **Payment methods** page, click the **−** icon next to the payment method you want to remove.
 3. In the confirmation modal, click `Remove`.
 
@@ -111,11 +126,11 @@ The selected methods will appear on the **Payment Methods** page and will be ava
 
 The **Credit cards** page displays all cards available to the organizational unit. Each card shows the nickname and an option to enable or disable it. Users can add new cards, edit details of existing cards, and remove cards.
 
-Credit cards associated with the contract are shared with the organizational unit but can be restricted with [scopes](https://help.vtex.com/docs/tutorials/scopes-overview). At checkout, buyers select a card by nickname among the cards linked to the contract and available for that unit.
+Credit cards associated with the contract are shared with the organizational unit but can be restricted with [scopes](https://help.vtex.com/en/docs/tutorials/scopes-overview). At checkout, buyers select a card by nickname among the cards linked to the contract and available for that unit.
 
 ### Adding a credit card
 
-1. On the [Organization Account home screen](https://help.vtex.com/docs/tutorials/organization-account), in the **Contract** section, click **Credit cards.**
+1. On the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account), in the **Contract** section, click **Credit cards.**
 2. On the **Credit cards** page, click the **+** icon.
 3. In the **Add credit card** drawer, complete the following fields:
    - **Card nickname:** Enter a name to identify the card.
@@ -135,7 +150,7 @@ Credit cards associated with the contract are shared with the organizational uni
 
 After adding a credit card, only the nickname can be edited.
 
-1. On the [Organization Account home screen](https://help.vtex.com/docs/tutorials/organization-account), in the **Contract** section, click **Credit cards.**
+1. On the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account), in the **Contract** section, click **Credit cards.**
 2. On the **Credit cards** page, in the corresponding row, click the menu icon <i class="fas fa-ellipsis-v" aria-hidden="true"></i> > `Edit`.
 3. In the **Edit credit card** drawer, update the card nickname.
 4. Click `Save`.
@@ -144,7 +159,7 @@ After adding a credit card, only the nickname can be edited.
 
 > ❗ Deleting a credit card is permanent and can't be undone.
 
-1. On the [Organization Account home screen](https://help.vtex.com/docs/tutorials/organization-account), in the **Contract** section, click **Credit cards.**
+1. On the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account), in the **Contract** section, click **Credit cards.**
 2. On the **Credit Cards** page, in the corresponding row, click the menu icon <i class="fas fa-ellipsis-v" aria-hidden="true"></i> > `Delete`.
 3. In the confirmation modal, click `Delete`.
 
@@ -154,13 +169,13 @@ The **Product assortments** page allows you to choose which product assortments 
 
 A **product assortment** is the set of products available to buyers of that unit. Different units can use distinct assortments when business rules require separate catalogs or selections.
 
-1. On the [Organization Account home screen](https://help.vtex.com/docs/tutorials/organization-account), in the **Contract** section, click **Product assortment.**
+1. On the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account), in the **Contract** section, click **Product assortment.**
 2. On the **Product assortments** page, select the desired assortment from the list by clicking the corresponding radio button.
 
 The selection is saved automatically.
 
 ## Accounting fields
 
-[Accounting fields](https://help.vtex.com/docs/tutorials/accounting-fields) configured by the buyer organization are displayed as individual menu items in the **Contract** section of the sidebar. These fields gather additional information during checkout, such as cost centers, purchase order (PO) numbers, or department codes.
+[Accounting fields](https://help.vtex.com/en/docs/tutorials/accounting-fields) configured by the buyer organization are displayed as individual menu items in the **Contract** section of the sidebar. These fields gather additional information during checkout, such as cost centers, purchase order (PO) numbers, or department codes.
 
-To learn how to add or manage these fields, see [Adding or editing accounting fields](https://help.vtex.com/docs/tutorials/adding-or-editing-accounting-fields).
+To learn how to add or manage these fields, see [Adding or editing accounting fields](https://help.vtex.com/en/docs/tutorials/adding-or-editing-accounting-fields).

@@ -70,6 +70,10 @@ Si la opción de inicio de sesión con contraseña está activada, puedes establ
 
 Tras el periodo especificado, al intentar iniciar sesión, el usuario deberá restablecer su contraseña.
 
+### Configurar la duración de la sesión del cliente
+
+Además de gestionar los métodos de inicio de sesión y el vencimiento de la contraseña, puedes configurar el tiempo que un cliente permanece autenticado en tu tienda virtual. Por defecto, las sesiones expiran después de 24 horas, pero puedes extender este período hasta 365 días utilizando el inicio de sesión persistente. Para más detalles, consulta la guía [Configurar el inicio de sesión persistente para clientes](/es/docs/tutorials/configurar-el-inicio-de-sesion-persistente-para-clientes).
+
 ## Desarrollo de integraciones
 
 Al desarrollar integraciones utilizando las [API](https://developers.vtex.com/docs/guides/getting-started) de VTEX, es necesario proporcionar parámetros de autenticación para realizar las operaciones deseadas. Consulta a continuación los métodos disponibles:

@@ -93,7 +93,7 @@ La tienda debe cumplir los siguientes criterios para vender stock local (On Hand
 
 Esta integración entre la plataforma VTEX y el sistema de la tienda es lo que proporciona a los clientes la experiencia de carritos mixtos, conteniendo en un único pedido y transacción financiera tanto ítems del stock local como del remoto.
 
-> ℹ️ Para disponibilizar el stock local, realiza los pasos descritos en [Activar venta de stock local en VTEX Sales App](/es/tutorial/habilitar-venda-de-estoque-local-do-vtex-sales-app--54eQN4rOH5yBYPGG2w8v9q?&utm_source=autocomplete).
+> ℹ️ Para disponibilizar el stock local, realiza los pasos descritos en [Activar venta de stock local en VTEX Sales App](/es/docs/tutorials/habilitar-venta-de-inventario-local-en-vtex-sales-app?&utm_source=autocomplete).
 
 ### 4. ¿Es VTEX Sales App igualmente estratégica para cualquier modelo de negocio?
 
@@ -188,5 +188,5 @@ Sí, tener [cuentas franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia)
 
 A pesar de que la solución actualmente no permite configurar [tarjetas de la tienda (red propia)](/es/docs/tutorials/configurar-pagos-con-private-label) como medio de pago, hay una alternativa para hacerlo: los vendedores pueden finalizar las ventas de **VTEX Sales App** utilizando el carrito compartido (social selling) y enviar el link de pago a los clientes. En estos casos, los pedidos pagados a través de links no se procesan en el checkout de **VTEX Sales App**, sino en el checkout de la tienda de ecommerce configurado para realizar transacciones con tarjetas de red propia.
 
-Un beneficio adicional de los pedidos finalizados vía carrito compartido es que pasan por el flujo de [antifraude](/es/docs/tutorials/que-es-antifraude), algo que actualmente no es compatible con la configuración de pagos de **VTEX Sales App**.
+Una ventaja adicional de los pedidos finalizados con el carrito compartido es que pasan por el flujo de [antifraude](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#antifraude), lo que actualmente no se admite en la configuración de pago de **VTEX Sales App**.
 

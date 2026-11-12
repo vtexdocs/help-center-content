@@ -13,6 +13,7 @@ slugEN: creating-merchandising-rules-visual-editor
 legacySlug: criar-regra-de-merchandising-editor-visual
 locale: pt
 subcategoryId: 32zXHBMygA2dB6TbCjQJej
+order: 3
 ---
 
 Para configurar uma [regra de merchandising](/pt/docs/tutorials/regras-de-merchandising) do VTEX Intelligent Search utilizando o [Editor visual](/pt/docs/tutorials/regras-de-merchandising#tipos-de-edicao), siga os passos abaixo.

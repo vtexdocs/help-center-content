@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q
 ---
 
-Por medio del [Master Data](/es/docs/tutorials/master-data) — el módulo de VTEX que permite la creación de arquitecturas de bases de datos— es posible recoger, almacenar y poner a disposición datos en los más diversos formatos para los clientes y usuarios administrativos de una tienda. Este es un módulo de la plataforma VTEX que puede ser configurado de dos maneras:
+Por medio del [Master Data](/es/docs/tutorials/master-data-es) — el módulo de VTEX que permite la creación de arquitecturas de bases de datos— es posible recoger, almacenar y poner a disposición datos en los más diversos formatos para los clientes y usuarios administrativos de una tienda. Este es un módulo de la plataforma VTEX que puede ser configurado de dos maneras:
 - Utilizando un Sistema de Gestión de Contenido (CMS) interno al panel administrativo de la tienda.
 - Por medio del envío de requests a la [API del Master Data](https://developers.vtex.com/docs/api-reference/master-data-api-v2-overview).
 
@@ -51,7 +51,7 @@ Algunos campos importantes en las tablas con este objetivo son:
 
 ### Clientes
 
-Toda tienda tiene una Entidad de Datos que configura la tabla de clientes. Es posible añadir campos a esta entidad siguiendo los pasos del artículo [Crear un campo en el Master Data](/es/docs/tutorials/como-crear-un-campo-en-master-data). De esta manera, cuando un cliente visita una tienda, el front-end tiene acceso a información relevante sobre su posición en la estructura de ventas y puede presentar una experiencia personalizada. Además, se puede limitar el acceso a la tienda apenas para los clientes aprobados, como se explica en el artículo [Configurar B2B en VTEX](/es/docs/tutorials/configurando-b2b-na-vtex).
+Toda tienda tiene una Entidad de Datos que configura la tabla de clientes. Es posible añadir campos a esta entidad siguiendo los pasos del artículo [Crear un campo en el Master Data](/es/docs/tutorials/como-crear-un-campo-en-master-data). De esta manera, cuando un cliente visita una tienda, el front-end tiene acceso a información relevante sobre su posición en la estructura de ventas y puede presentar una experiencia personalizada. Además, se puede limitar el acceso a la tienda apenas para los clientes aprobados, como se explica en el artículo [Configurar B2B en VTEX](/es/docs/tutorials/configurando-b2b-na-vtex-es).
 
 Algunos campos importantes que pueden ser añadidos a la tabla de Clientes son:
 - ID del representante/RCA
@@ -104,13 +104,13 @@ También es posible rellenar tablas de forma masiva enviando plantillas, como se
 
 ## Más información
 
-- [Qué es el Master Data](/es/docs/tutorials/master-data)
+- [Qué es el Master Data](/es/docs/tutorials/master-data-es)
 - [API del Master Data](https://developers.vtex.com/docs/api-reference/master-data-api-v2-overview)
 - [Crear entidades de datos](/es/docs/tutorials/entidade-de-datos)
 - [Crear relacionamentos entre entidades de datos](/es/tutorial/creating-relationships-between-data-entities--6TdIa6Q2IgWYUu2wsYIG48)
 - [Como crear un trigger en el Master Data](/es/docs/tutorials/creando-trigger-en-el-master-data)
 - [Crear un campo en el Master Data](/es/docs/tutorials/como-crear-un-campo-en-master-data)
-- [Configurar B2B en VTEX](/es/docs/tutorials/configurando-b2b-na-vtex)
+- [Configurar B2B en VTEX](/es/docs/tutorials/configurando-b2b-na-vtex-es)
 - [Crear formulario en el Master Data](/es/docs/tutorials/creando-formulario-en-master-data)
 - [Crear aplicación en el Master Data](/es/docs/tutorials/creando-una-aplicacion-en-el-vtex-master-data)
 - [Crear formulario de Contáctenos utilizando el Master Data](/es/tutorial/criar-formulario-de-fale-conosco-usando-master-data--frequentlyAskedQuestions_614)

@@ -1,7 +1,7 @@
 ---
 title: 'Adicionar usuários à organização compradora'
 createdAt: '2026-03-05T10:00:00.000Z'
-updatedAt: '2026-04-13T10:00:00.000Z'
+updatedAt: '2026-09-21T00:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: adding-users-to-buyer-organizations
@@ -25,7 +25,6 @@ A tabela abaixo resume os principais perfis de acesso e suas funções:
 | **Buyer** | Pode realizar pedidos na loja. |
 | **Order Approver** | Pode aprovar ou rejeitar pedidos de acordo com os fluxos de aprovação configurados. |
 | **Order Modifier** | Pode usar a funcionalidade de alteração de pedido nos pedidos aos quais tem acesso. |
-| **Address Manager** | Pode adicionar e gerenciar endereços durante o checkout e visualizar endereços salvos. |
 | **Buyer Organization Manager** | Pode visualizar todos os pedidos da sua unidade organizacional. |
 | **Contract Manager** | Pode visualizar pedidos realizados sob o contrato atribuído a ele. |
 | **User Manager** | Pode gerenciar usuários e visualizar detalhes de usuários dentro da organização. |
@@ -34,6 +33,8 @@ A tabela abaixo resume os principais perfis de acesso e suas funções:
 | **Accounting Field Manager** | Pode criar, editar e excluir campos contábeis, e visualizar configurações de campos contábeis. |
 | **Credit Card Manager** | Pode gerenciar e visualizar cartões de crédito salvos. |
 | **Personal Cards User** | Pode usar um novo cartão de crédito no checkout que não é salvo no contrato por padrão. |
+
+> ℹ️ O perfil **Address Manager** foi removido em 21 de setembro de 2026. A gestão de endereços de clientes B2B agora só está disponível por meio de um perfil de acesso personalizado com os mesmos recursos. Contas que já usavam esse perfil não precisam fazer nada, pois o acesso foi mantido automaticamente. Contas novas que precisarem dessa permissão devem criar seu próprio perfil personalizado.
 
 > ℹ️ Saiba mais sobre perfis de acesso do storefront e recursos no guia do desenvolvedor [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles).
 

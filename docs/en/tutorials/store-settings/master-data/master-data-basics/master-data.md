@@ -3,7 +3,7 @@ title: 'Master Data'
 id: 4otjBnR27u4WUIciQsmkAw
 status: PUBLISHED
 createdAt: 2018-04-02T19:01:38.026Z
-updatedAt: 2026-07-20T00:00:00.000Z
+updatedAt: 2026-10-30T00:00:00.000Z
 publishedAt: 2025-08-29T14:19:54.707Z
 firstPublishedAt: 2018-04-02T20:54:18.272Z
 contentType: tutorial
@@ -35,14 +35,14 @@ Check the table below to learn more about how the features of each version diffe
 | --- | --- | --- | --- |
 | Graphical interface | ✅ Yes | ❌ No | - |
 | API | ✅ Yes | ✅ Yes | - [Master Data API v1](https://developers.vtex.com/docs/api-reference/masterdata-api)<br>- [Master Data API v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2#overview) |
-| Spreadsheet import and export | ✅ Yes | ❌ No | - [Importing data to Master Data v1](/docs/tutorials/importing-data-into-master-data-v1)<br>- [Exporting data from Master Data v1](/docs/tutorials/exporting-data) |
+| Spreadsheet import and export | ✅ Yes | ❌ No | - [Importing data to Master Data v1](/en/docs/tutorials/importing-data-into-master-data-v1)<br>- [Exporting data from Master Data v1](/en/docs/tutorials/exporting-data) |
 | Attachments (images) | ✅ Yes | ❌ No | - |
-| Triggers | ✅ Yes | ✅ Yes | - [Triggers](#triggers)<br>- [Creating triggers with Master Data v1](/docs/tutorials/creating-trigger-in-master-data)<br>- [Creating triggers with Master Data v2](https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2) |
+| Triggers | ✅ Yes | ✅ Yes | - [Triggers](#triggers)<br>- [Creating triggers with Master Data v1](/en/docs/tutorials/creating-trigger-in-master-data)<br>- [Creating triggers with Master Data v2](https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2) |
 | JSON Schemas | ❌ No | ✅ Yes | - [JSON Schemas](http://json-schema.org/)<br>- [Understanding JSON schemas](https://json-schema.org/understanding-json-schema)<br>- [Getting started with JSON schemas in Master Data v2](https://developers.vtex.com/docs/guides/starting-to-work-on-master-data-with-json-schema)<br>- [Schema lifecycle in Master Data v2](https://developers.vtex.com/docs/guides/master-data-schema-lifecycle) |
 | Nested properties | ❌ No | ✅ Yes | - [Nested properties](#nested-properties) |
-| Data entities | Referenced by acronyms composed of two uppercase letters. For example, the entity 'CL' stores customer data, and 'AD' stores their address data. They can't be created via API. | Referenced by name. For example, 'Notification'. They can only be created via API. | - [Data entities](#data-entities)<br>- [Data entities in Master Data v1](/docs/tutorials/data-entity)<br>- [Creating relationships between Master Data v2 data entities](https://developers.vtex.com/docs/guides/creating-relationships-between-data-entities-using-api) |
-| Fields | They must be completed in the specific format configured in the data entity. | In principle, there are no restrictions on fields or formats. Format validation happens through JSON schemas. | - [Field types in Master Data v1](/docs/tutorials/data-entity#data-types)<br>- [JSON schemas](#v2-schemas) |
-| Indexes | ✅ Yes | ✅ Yes | - [Configure indices in Master Data v1](/docs/tutorials/indexes-in-master-data)<br>- [Configure indices with the Master Data v2 API](https://developers.vtex.com/docs/api-reference/master-data-api-v2#put-/api/dataentities/-dataEntityName-/indices) |
+| Data entities | Referenced by acronyms composed of two uppercase letters. For example, the entity 'CL' stores customer data, and 'AD' stores their address data. They can't be created via API. | Referenced by name. For example, 'Notification'. They can only be created via API. | - [Data entities](#data-entities)<br>- [Data entities in Master Data v1](/en/docs/tutorials/data-entity)<br>- [Creating relationships between Master Data v2 data entities](https://developers.vtex.com/docs/guides/creating-relationships-between-data-entities-using-api) |
+| Fields | They must be completed in the specific format configured in the data entity. | In principle, there are no restrictions on fields or formats. Format validation happens through JSON schemas. | - [Field types in Master Data v1](/en/docs/tutorials/data-entity#data-types)<br>- [JSON schemas](#v2-schemas) |
+| Indexes | ✅ Yes | ✅ Yes | - [Configure indices in Master Data v1](/en/docs/tutorials/indexes-in-master-data)<br>- [Configure indices with the Master Data v2 API](https://developers.vtex.com/docs/api-reference/master-data-api-v2#put-/api/dataentities/-dataEntityName-/indices) |
 
 > ❗ Note that the data entities of the two versions are independent, even if some may be analogous. This means that data created in a v1 entity can't be queried or edited using v2 resources and vice versa.
 
@@ -77,7 +77,7 @@ The attributes that compose Master Data documents are called fields. When compar
 
 For example, in an entity that stores the store's customer data, such as `CL` or `Client`, you can complete fields like **name**, **email**, **date of birth**, and **document**.
 
-In Master Data v1, fields must be completed in the specific format configured for the data entity. Learn more about [field types in Master Data v1](/docs/tutorials/data-entity).
+In Master Data v1, fields must be completed in the specific format configured for the data entity. Learn more about [field types in Master Data v1](/en/docs/tutorials/data-entity).
 
 In v2, however, there's no restriction on fields or formats at first. Format validation happens through [JSON schemas](#v2-schemas).
 
@@ -93,7 +93,7 @@ As mentioned above, each document has an ID automatically generated by the platf
 
 For example, you can query a document containing a customer's information by specifying the value of the `email` field associated with that customer.
 
-> ℹ️ Learn more about how to [configure indexes in Master Data v1](/docs/tutorials/indexes-in-master-data) or [configure indexes with the Master Data v2 API](https://developers.vtex.com/vtex-rest-api/reference/putindices).
+> ℹ️ Learn more about how to [configure indexes in Master Data v1](/en/docs/tutorials/indexes-in-master-data) or [configure indexes with the Master Data v2 API](https://developers.vtex.com/vtex-rest-api/reference/putindices).
 
 ## Triggers
 
@@ -103,7 +103,7 @@ A Master Data trigger is a mechanism that executes an action after a document is
 - Send email.
 - Save a document in another data entity.
 
-Learn more about how to [configure triggers in Master Data v1](/docs/tutorials/creating-trigger-in-master-data) or how to [configure triggers with the Master Data v2 API](https://developers.vtex.com/vtex-rest-api/docs/setting-up-triggers-in-master-data-v2).
+Learn more about how to [configure triggers in Master Data v1](/en/docs/tutorials/creating-trigger-in-master-data) or how to [configure triggers with the Master Data v2 API](https://developers.vtex.com/vtex-rest-api/docs/setting-up-triggers-in-master-data-v2).
 
 ## v2 schemas
 
@@ -279,7 +279,7 @@ In addition to the [native entities](#master-data-native-entities) automatically
 
 You can create custom entities as follows:
 
-- In v1, through the VTEX Admin. Learn how to [create a data entity](/docs/tutorials/data-entity).
+- In v1, through the VTEX Admin. Learn how to [create a data entity](/en/docs/tutorials/data-entity).
 - In v2, exclusively through the [Master Data v2 API](https://developers.vtex.com/docs/api-reference/master-data-api-v2).
 
 ### Billing
@@ -290,16 +290,18 @@ To learn about the amounts applicable to your operation, see your commercial agr
 
 For each payment made during the term of the agreement, a billing credit equivalent to 2% of the net amount paid for VTEX Commerce Platform and CX Commerce Platform products is granted. The credits accumulate throughout the agreement and remain available for use until its termination.
 
+> ℹ️ This credit is part of your credit wallet. To learn more about how it's calculated and how to check the balance and usage, see the [Credit wallet](/en/docs/tutorials/credit-wallet) article.
+
 Measurement and billing follow a monthly cycle:
 
 - At the end of each month, a snapshot of the number of documents stored in custom entities is generated.
 - By the 30th of each month, VTEX calculates the amounts related to Master Data usage and the applicable credits for the next invoice.
 
-> ⚠️ Deleting a data entity through the Master Data v1 interface **doesn't** remove the documents (records) already stored. The billed volume remains unchanged until the records are removed via the API. To delete documents and reduce billing, see the [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) guide on the developer portal.
+> ⚠️ Deleting a data entity through the Master Data v1 interface **doesn't** remove the documents (records) already stored. The billed volume remains unchanged until the records are removed via the API. To delete documents and reduce billing, see the [Deleting documents in bulk in Master Data](https://developers.vtex.com/docs/guides/deleting-documents-in-bulk-in-master-data) guide on the developer portal.
 
-> ℹ️ To track the number of documents in custom entities throughout the month, check the **Master Data usage** dashboard in the VTEX Admin. This dashboard is updated weekly and is intended only for usage tracking. To learn how to access it, see [Checking Master Data usage in the VTEX Admin](/docs/tutorials/checking-master-data-usage-in-the-vtex-admin).
+> ℹ️ To track the number of documents in custom entities throughout the month, check the **Master Data usage** dashboard in the VTEX Admin. This dashboard is updated weekly and is intended only for usage tracking. To learn how to access it, see [Checking Master Data usage in the VTEX Admin](/en/docs/tutorials/checking-master-data-usage-in-the-vtex-admin).
 
-> ℹ️ To view billing details, learn how to [download VTEX invoices](/docs/tutorials/how-to-download-the-vtex-invoices).
+> ℹ️ To view billing details, learn how to [download VTEX invoices](/en/docs/tutorials/downloading-vtex-invoices).
 
 ## Use cases
 
@@ -315,4 +317,4 @@ Learn how to configure [A/B tests with Master Data v2](https://developers.vtex.c
 
 Master Data can also be used to create abandoned cart integrations. In other words, automatic actions triggered whenever a customer adds products to the cart and ends their session without completing the purchase.
 
-To learn more, see this guide on [configuring abandoned cart](/docs/tutorials/setting-up-abandoned-carts)
+To learn more, see this guide on [configuring abandoned cart](/en/docs/tutorials/setting-up-abandoned-carts)

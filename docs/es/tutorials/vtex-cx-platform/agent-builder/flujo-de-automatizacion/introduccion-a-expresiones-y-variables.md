@@ -3,7 +3,7 @@ title: "Introducción a expresiones y variables"
 id: 4MDzN6Z7Sau2Xt1eyyQ4Ik
 status: PUBLISHED
 createdAt: 2025-09-16T16:14:16.027Z
-updatedAt: 2025-10-03T14:20:04.285Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:04.285Z
 firstPublishedAt: 2025-10-03T14:20:04.285Z
 contentType: tutorial
@@ -15,7 +15,7 @@ locale: es
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-La creación de un flujo se realiza con el objetivo de conectar un conjunto de acciones por completo para obtener algún resultado.
+La creación de un flujo conecta un conjunto de acciones para obtener un resultado.
 
 Las variables sirven precisamente para almacenar los valores y resultados de esas etapas, con el fin de persistir los datos. Por ejemplo, la opción "Wait for Response" (Esperar Respuesta) a continuación generará una variable de flujo denominada "name" como respuesta del contacto. Además, la variable se utilizará para guardar los datos en el campo de contacto "Name".
 
@@ -27,9 +27,9 @@ Al usar variables de flujo, también es posible especificar subtemas que desees.
 
 Todas las variables y expresiones muestran su verdadero valor cuando el contacto está activo en el flujo. Si escribes una variable o expresión de manera incorrecta, el mensaje no será sustituido y la fórmula incorrecta se mostrará al usuario.
 
-## Otras variables
+## Variables de contacto, URN y webhook
 
-Además de la expresión @results, también existen otras expresiones que utilizamos con frecuencia, como:
+Además de la expresión `@results`, estas expresiones también están disponibles:
 
 ### `@Contact`
 
@@ -54,6 +54,6 @@ Esta expresión se utiliza para recuperar el identificador del canal principal d
 Esta expresión se utiliza para recuperar valores devueltos por la última llamada webhook realizada en el flujo, por ejemplo:
 
 `@webhook.results.cliente`: Nombre del cliente devuelto por la API, en caso de que retorne solo un objeto
-`@webhook.results.0.cliente`: Nombre del cliente devuelto por la API. Si retorna en un array, es necesario especificar la posición del array que deseas en la expresión, usando 0, 1, 2 y así sucesivamente.
+`@webhook.results.0.cliente`: Nombre del cliente devuelto por la API. Si el retorno es un array, indica la posición que quieres en la expresión, usando 0, 1, 2 y así sucesivamente.
 
-Para entender más sobre expresiones, mira nuestro [VTEX CX Platform Responde sobre este tema](https://comunidade.weni.ai/t/expressoes-e-variaveis/248).
+Para entender más sobre expresiones, mira el [VTEX CX Platform Responde sobre este tema](https://comunidade.weni.ai/t/expressoes-e-variaveis/248).

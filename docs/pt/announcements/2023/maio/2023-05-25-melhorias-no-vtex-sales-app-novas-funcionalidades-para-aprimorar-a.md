@@ -30,7 +30,7 @@ Com o objetivo de aprimorar a experiência de compra do cliente nas lojas físic
 
 As funcionalidades **HTML na descrição do produto** e **Outras ofertas** serão aplicadas automaticamente em todas as lojas VTEX que utilizam o VTEX Sales App.
 
-Para implementar a **Sugestões de produtos similares**, siga as etapas do artigo [Configurar produto similar, sugestões, acessórios e genéricos](/pt/docs/tutorials/configurando-produto-similar-sugestoes-acessorios-e-genericos). 
+Para implementar a **Sugestões de produtos similares**, siga as etapas do artigo [Configurar produto similar, sugestões, acessórios e genéricos](/pt/docs/tutorials/configurar-acessorios-sugestoes-produtos-similares-e-mostrar-junto). 
 
 Para configurar a **Venda de estoque local** na sua loja, consulte o artigo [Habilitar Venda de estoque local do VTEX Sales App](/pt/docs/tutorials/habilitar-venda-de-estoque-local-do-vtex-sales-app).
 
