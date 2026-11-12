@@ -9,7 +9,7 @@ firstPublishedAt: 2026-02-11T17:00:19.374Z
 contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slugEN: 
+slugEN: refurbished-products-on-mercado-libre
 legacySlug: 
 locale: pt
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

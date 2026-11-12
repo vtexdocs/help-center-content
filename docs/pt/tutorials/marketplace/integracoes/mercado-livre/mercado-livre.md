@@ -9,7 +9,7 @@ firstPublishedAt: 2018-09-17T15:45:39.870Z
 contentType: tutorial
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
-slugEN: how-mercado-livre-integration-works
+slugEN: mercado-libre
 legacySlug: como-funciona-a-integracao-do-mercado-livre
 locale: pt
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
