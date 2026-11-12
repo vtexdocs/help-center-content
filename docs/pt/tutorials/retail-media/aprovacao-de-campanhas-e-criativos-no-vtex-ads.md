@@ -10,7 +10,10 @@ locale: pt
 
 Antes de ser veiculada no site de um publisher, uma campanha do VTEX Ads passa por uma etapa de aprovação, de acordo com o [formato dos anúncios](#formatos-cobertos). O anunciante envia a campanha ou um novo criativo para revisão, e o publisher aprova ou rejeita a partir do seu próprio dashboard antes que o anúncio seja exibido em seu inventário.
 
-Este artigo descreve o fluxo em que um anunciante envia campanhas para a revisão de um único publisher.
+Este artigo descreve como funciona esse fluxo nos dois tipos de campanha:
+
+- **Campanhas 1:1:** um anunciante envia campanhas para a revisão de um único publisher.
+- **Campanhas Network:** um anunciante alcança vários publishers ao mesmo tempo, e cada um deles revisa, de forma independente, os criativos elegíveis para o próprio inventário.
 
 > ℹ️ Para a definição dos papéis de anunciante e publisher citados neste artigo, consulte [Papéis e atribuições em Retail Media](/pt/docs/tracks/papeis-e-atribuicoes-em-retail-media).
 
@@ -33,6 +36,36 @@ A aprovação pode acontecer em dois níveis:
 
 - **Campanha inteira:** aprova ou rejeita de uma vez todos os criativos da campanha.
 - **Criativo individual:** aprova ou rejeita um anúncio específico dentro da campanha, sem afetar os demais.
+
+## Especificidades de campanhas Network
+
+Para o publisher, a aprovação de uma campanha Network acontece na mesma tela do fluxo 1:1, e a mecânica de revisão, aprovação e rejeição não muda. Por isso, não é preciso saber se a campanha é Network ou 1:1 para revisá-la.
+
+O que muda são o alcance da aprovação, o conjunto de criativos exibido a cada publisher e o preenchimento da URL de destino, como descrito a seguir.
+
+> ℹ️ Para saber se a aprovação de criativos em campanhas Network já está ativa na sua rede, ou para solicitar ativação, entre em contato com o [Suporte VTEX](https://help.vtex.com/support).
+
+### URL de destino
+
+No momento da aprovação, o próprio publisher informa a URL de destino dos criativos de banner, ou seja, a página para onde o cliente é levado ao clicar no anúncio veiculado na loja do publisher. O preenchimento é obrigatório e o campo aceita apenas endereços iniciados por `http://` ou `https://`. O botão `Aprovar` permanece indisponível até que todas as URLs exigidas estejam preenchidas corretamente.
+
+A URL informada por um publisher vale somente para os anúncios veiculados no inventário dele e não fica visível para os demais publishers da rede. Se o anunciante enviar a mesma campanha novamente para aprovação, o publisher pode informar uma URL diferente ao aprová-la.
+
+### Aprovação independente por publisher
+
+A aprovação ou a rejeição feita por um publisher da rede não depende dos demais publishers nem os bloqueia. Assim que um publisher aprova, a campanha passa a ser veiculada no inventário dele, mesmo que os demais ainda não tenham revisado o conteúdo.
+
+Por isso, uma mesma campanha Network pode estar ativa para parte da rede e pendente de aprovação para o restante.
+
+### Criativos filtrados pelo inventário
+
+Cada publisher vê apenas os tamanhos de banner e as variações de marcas patrocinadas (Sponsored Brands) cadastrados no próprio inventário. Um publisher nunca é solicitado a aprovar um formato que não pode veicular, mesmo que a campanha inclua outros formatos para outros publishers da rede.
+
+Como o filtro é aplicado individualmente, a mesma campanha pode apresentar conjuntos diferentes de criativos a publishers diferentes.
+
+### Dados financeiros ocultos para o publisher
+
+O orçamento total da campanha, o custo por clique (CPC) e o custo por mil impressões (CPM) não aparecem para o publisher em nenhuma tela de aprovação. O número de publishers que participam da mesma campanha Network também não é exibido.
 
 ## Saiba mais
 
