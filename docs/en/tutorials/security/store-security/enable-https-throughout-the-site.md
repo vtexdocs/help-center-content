@@ -64,7 +64,7 @@ You can change the protocol in all folders at once by using our API, documented 
 
 ### Loss of parameters
 
-This [known issue](/en/known-issues/campaign-parameters-are-lost-when-http-is-redirected-to-https) has been solved! With the use of the [new VTEX CDN](/en/tutorial/activating-new-vtex-cdn), redirection between pages retains the original parameters.
+This [known issue](/en/known-issues/campaign-parameters-are-lost-when-http-is-redirected-to-https) has been solved! With the use of the [new VTEX CDN](/en/docs/tutorials/2023-12-01-new-rules-for-activating-vtex-support), redirection between pages retains the original parameters.
 
 ### XML URLs
 

@@ -30,13 +30,13 @@ Learn how to operate the features you have configured in our guide [How to use t
 
 Before starting a telesales operation in your store, you must assign the Call center operator role to telesales and customer service operators in **Account settings**.
 
-Check out the tutorial [Creating a telesales user](/en/docs/tutorials/how-can-i-create-callcenter-user) to learn more about this process.
+Check out the tutorial [Creating a telesales user](/en/docs/tutorials/creating-a-telesales-user) to learn more about this process.
 
 After logging in, the telesales user will be redirected to the store's home page, where the [telesales toolbar](/en/docs/tutorials/telesales-toolbar) will be displayed.
 
 Users with the telesales role (Call center operator) can also view, track and make changes to orders in Admin in the [All Orders](/en/docs/tutorials/all-orders) page.
 
-To understand all the roles available in your store, check out the article [Roles](/en/tutorial/como-criar-perfil-de-acesso).
+To understand all the roles available in your store, check out the article [Roles](/en/docs/tutorials/roles).
 
 ## Configuring the telesales toolbar
 

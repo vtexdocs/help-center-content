@@ -28,7 +28,7 @@ To learn about what type of information needs to be exchanged between sellers an
 
 ## Defining the sales channel
 
-On VTEX, the [sales channel](/en/docs/tutorials/how-trade-policies-work) groups the configurations for your catalog, pricing, promotions, logistics, customer segmentation, and payments in a single sales channel. A seller can integrate with the marketplace by using the store's default sales channel or by defining specific settings for the integration, configuring a [sales channel for the marketplace](/en/tutorial/configurando-a-politica-comercial-para-marketplace/).
+On VTEX, the [sales channel](/en/docs/tutorials/how-trade-policies-work) groups the configurations for your catalog, pricing, promotions, logistics, customer segmentation, and payments in a single sales channel. A seller can integrate with the marketplace by using the store's default sales channel or by defining specific settings for the integration, configuring a [sales channel for the marketplace](/en/docs/tutorials/configuring-a-marketplace-trade-policy).
 
 > ℹ️ The same sales channel can be used to integrate with multiple marketplaces. [Requesting additional sales channels](/en/docs/tutorials/requesting-an-additional-trade-policy) to integrate with [native connectors](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-a-native-connector-vtex), certified connectors (partners), or other VTEX stores is free of charge.
 
@@ -48,7 +48,7 @@ The seller must follow the steps described in the article [Configuring affiliate
 
 After the seller sends the products, the marketplace needs to [map the product categories, brands, and specifications](/en/docs/tutorials/mapping-categories-and-brands-for-the-marketplace), in order to match its catalog structure to the seller's catalog.
 
-Once the mapping is done, the marketplace must [catalog the seller's SKUs](/en/tutorial/sugerindo-e-aprovando-skus/). After this last step, the seller's products will be available to customers on the marketplace.
+Once the mapping is done, the marketplace must [catalog the seller's SKUs](/en/docs/tutorials/manual-sku-cataloging). After this last step, the seller's products will be available to customers on the marketplace.
 
 ## Learn more
 

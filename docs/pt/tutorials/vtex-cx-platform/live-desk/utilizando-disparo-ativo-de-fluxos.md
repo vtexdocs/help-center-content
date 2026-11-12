@@ -51,7 +51,7 @@ Antes de configurar o fluxo, verifique se o modelo de mensagem já está cadastr
 1. Acesse sua organização no dashboard do [VTEX CX Platform](https://dash.weni.ai/orgs).
 2. No menu lateral, clique no ícone **Fluxo de automação**.
 3. Clique em `Criar fluxo`.
-4. Preencha os campos de nome, tipo de fluxo e, se necessário, palavras-chave dos disparadores globais.
+4. Preencha os campos de nome, tipo de fluxo e, se necessário, palavras-chave dos Triggers globais.
 5. Clique em `Criar`.
 6. Para inserir um bloco, clique no botão `Criar bloco`.
 7. Preencha as informações necessárias para o seu bloco.

@@ -83,7 +83,7 @@ For more information, see [Seller Opt-in for Promotions](https://developers.vtex
 
 ### Sales channels
 
-Select the sales channels that will offer the discount. You can offer discounts for sales channels where [your store acts as a marketplace](/en/tutorial/o-que-e-um-marketplace) (My Store) or a [seller](/en/faq/o-que-e-um-seller) (Third Party Stores - Fulfillment).
+Select the sales channels that will offer the discount. You can offer discounts for sales channels where [your store acts as a marketplace](/en/docs/tutorials/what-is-a-marketplace) (My Store) or a [seller](/en/docs/tutorials/what-is-a-seller) (Third Party Stores - Fulfillment).
 
 Choose from the following options:
 

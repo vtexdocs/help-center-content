@@ -28,5 +28,5 @@ En los próximos articulos, usted aprendera mucho mas sobre como nuestra platafo
 - **Variábles:** Parametros que pueden ser usados para substituir valores de contactos e/o de organización en los textos. Ej: Globals, Variables de contacto, resultados de flujo, etc.
 - **Expresiones:** Funciones para manipular datos que pueden recibir o no variábles, Ej: Contador de caracteres, formatador de fechas e horários, etc.
 - **Campaña:** Conjunto de eventos que son aplicados en grupos basados en reglas de horário. Permiten la comunicación activa de la plataforma, es decir, hace con que la plataforma inicie un flujo para un contacto, sin haberse comunicado primero.
-- **Activadores:** Conjunto de eventos que son responsables de la inicialización de los flujos de la plataforma de forma pasiva, es decir, reglas que activan os flujos cuando un contacto manda un mensaje en algun canal.
+- **Triggers:** Conjunto de eventos que son responsables de la inicialización de los flujos de la plataforma de forma pasiva, es decir, reglas que activan os flujos cuando un contacto manda un mensaje en algun canal.
 - **Clasificadores:** Plataformas de inteligencia artificial creadas para clasificar entradas de los contactos y retornar palabras-llaves válidas que serán utilizadas por la plataforma.

@@ -188,7 +188,7 @@ This section includes fields related to the store's sales strategies:
 
 ## Customizations
 
-SKUs can be configured to offer customization options to customers. For example, a customer can add a name to a t-shirt. There are two types of customizations: [attachments](/en/docs/tutorials/what-is-an-attachment) and [services](/en/tutorial/o-que-e-um-servico).
+SKUs can be configured to offer customization options to customers. For example, a customer can add a name to a t-shirt. There are two types of customizations: [attachments](/en/docs/tutorials/what-is-an-attachment) and [services](/en/docs/tutorials/what-is-a-service).
 
 To link a customization to a SKU, click the add + icon, select the desired option, and follow these steps:
 
@@ -199,7 +199,7 @@ To link a customization to a SKU, click the add + icon, select the desired optio
 
 ## Cross-sell and up-sell recommendations
 
-This section allows the store to configure [cross-selling](/en/docs/tutorials/setting-up-a-similar-product-suggestions-accessories-and-generics#what-is-cross-selling) and [up-selling](/en/docs/tutorials/setting-up-a-similar-product-suggestions-accessories-and-generics#what-is-up-selling) options for the new SKU, reflecting them on the storefront and in the customer browsing experience.
+This section allows the store to configure [cross-selling](/en/docs/tutorials/setting-up-accessories-suggestions-similar-products-and-show-together#what-is-cross-selling) and [up-selling](/en/docs/tutorials/setting-up-accessories-suggestions-similar-products-and-show-together#what-is-up-selling) options for the new SKU, reflecting them on the storefront and in the customer browsing experience.
 
 To configure cross-sell and up-sell options, follow the steps below:
 
@@ -215,7 +215,7 @@ To configure cross-sell and up-sell options, follow the steps below:
 4. Select the SKUs you want to add. You can use the search bar if you wish.
 5. Click `Apply`.
 
-> ℹ️ For more information, see the article [How to set up similar product, suggestions, accessories and generics](/en/docs/tutorials/setting-up-a-similar-product-suggestions-accessories-and-generics).
+> ℹ️ For more information, see the article [How to set up similar product, suggestions, accessories and generics](/en/docs/tutorials/setting-up-accessories-suggestions-similar-products-and-show-together).
 
 ## Attributes
 
@@ -235,4 +235,4 @@ To configure an attribute for the SKU, follow the steps below:
 * [Products and SKUs](/en/docs/tutorials/products-and-skus)
 * [Adding or editing products](/en/docs/tutorials/adding-or-editing-products)
 * [Catalog: Overview](/en/docs/tutorials/catalog-overview)
-* [Catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ) (track)
+* [Catalog](/en/docs/tracks/catalog-101) (track)

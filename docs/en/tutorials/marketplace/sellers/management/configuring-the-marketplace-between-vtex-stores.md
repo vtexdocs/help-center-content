@@ -16,19 +16,19 @@ subcategoryId: 2xWRgEIlR2ookieEmm4KQu
 ---
 
 
-All VTEX stores are prepared to be a marketplace, or to sell to other VTEX stores or to [our integrated marketplaces](/en/tutorial/integrating-with-marketplace/). This can be done through simple settings, without the need to develop an integration.
+All VTEX stores are prepared to be a marketplace, or to sell to other VTEX stores or to [our integrated marketplaces](/en/docs/tutorials/marketplace-strategies-at-vtex). This can be done through simple settings, without the need to develop an integration.
 
 The integration between VTEX stores is the simplest of all, and it does not require some steps needed for other integrations. See below the instructions for each of the following settings.
 
 ## For stores that want to be marketplaces: How to set up a VTEX seller
-Being a marketplace means that your website will receive (and sell) another store's products (that will work as a seller). To allow that, you need to follow the [seller set up instructions](/en/tutorial/configuring-the-seller/).
+Being a marketplace means that your website will receive (and sell) another store's products (that will work as a seller). To allow that, you need to follow the [seller set up instructions](/en/docs/tutorials/adding-a-seller).
 
 ## For stores that want to be sellers: How to set up a VTEX marketplace
 Being a seller means that your store will send and sell products through another website (that will work as a marketplace). To do that, you need to set up that store as a marketplace in your admin. Follow the steps below:
 
-1. Set up the [sales channel](/en/tutorial/configuring-a-marketplace-sales-policy/).
+1. Set up the [sales channel](/en/docs/tutorials/configuring-a-marketplace-trade-policy).
 2. Set up the [logistics](/en/docs/tutorials/configuring-logistics-for-a-marketplace/) regarding this sales channel.
 3. Set up the [affiliate](/en/docs/tutorials/configuring-affiliates/).
 
-After adjusting these settings, the products will start to be sent to the marketplace. Then, the marketplace must [map the categories, brands and specifications](/en/tutorial/mapeando-categorias-e-marcas-para-marketplace), as well as accept the products sent.
+After adjusting these settings, the products will start to be sent to the marketplace. Then, the marketplace must [map the categories, brands and specifications](/en/docs/tutorials/mapping-categories-and-brands-for-the-marketplace), as well as accept the products sent.
 

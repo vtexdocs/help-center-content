@@ -9,7 +9,7 @@ locale: es
 hidden: false
 ---
 
-Cuando un contacto inicia un soporte humano en el [Live Desk](https://help.vtex.com/pt/docs/tutorials/vision-de-conjunto-de-live-desk), el chatbot continúa activo en segundo plano. Si no se hace nada, los mensajes automáticos configurados en los activadores pueden activarse durante la conversación e interrumpir el servicio. Para evitar este conflicto, usa un **grupo de control**: un [grupo estático](https://help.vtex.com/es/docs/tutorials/grupos-estaticos) que reúne a todos los contactos que están en soporte humano y que debe ser ignorado por los activadores.
+Cuando un contacto inicia un soporte humano en el [Live Desk](https://help.vtex.com/pt/docs/tutorials/vision-de-conjunto-de-live-desk), el chatbot continúa activo en segundo plano. Si no se hace nada, los mensajes automáticos configurados en los triggers pueden activarse durante la conversación e interrumpir el servicio. Para evitar este conflicto, usa un **grupo de control**: un [grupo estático](https://help.vtex.com/es/docs/tutorials/grupos-estaticos) que reúne a todos los contactos que están en soporte humano y que debe ser ignorado por los triggers.
 
 > ⚠️ Si los contactos no se agregan a un grupo de control, el chatbot generará conflictos e interrumpirá el soporte humano, enviando los mensajes predeterminados configurados en tu entorno.
 
@@ -17,7 +17,7 @@ En este artículo aprenderás a:
 
 - [Crear el grupo de control](#crear-el-grupo-de-control)
 - [Agregar contactos al grupo de control](#agregar-contactos-al-grupo-de-control)
-- [Ignorar el grupo de control en los activadores](#ignorar-el-grupo-de-control-en-los-activadores)
+- [Ignorar el grupo de control en los triggers](#ignorar-el-grupo-de-control-en-los-triggers)
 - [Remover contactos del grupo de control](#remover-contactos-del-grupo-de-control)
 - [Enviar campos personalizados en el ticket](#enviar-campos-personalizados-en-el-ticket)
 
@@ -52,30 +52,30 @@ En el flujo donde utilizas la carta de acción **Abrir un ticket con un agente h
 
 Para saber más sobre estas cartas, consulta el artículo [Cartas de acción](https://help.vtex.com/es/docs/tutorials/cartas-de-accion).
 
-## Ignorar el grupo de control en los activadores
+## Ignorar el grupo de control en los triggers
 
-Después de agregar el contacto al grupo, es necesario configurar cada activador del proyecto para ignorar los contactos que están en el grupo _Soporte Humano_. Así, el chatbot no interrumpe el servicio. Para esto, sigue los pasos a continuación:
+Después de agregar el contacto al grupo, es necesario configurar cada trigger del proyecto para ignorar los contactos que están en el grupo _Soporte Humano_. Así, el chatbot no interrumpe el servicio. Para esto, sigue los pasos a continuación:
 
 1. Accede a la organización y el proyecto que deseas modificar en [VTEX CX Platform](https://dash.weni.ai/orgs).
 2. En el menú lateral, haz clic en **Contactos**.
-3. Haz clic en **Activadores**.
-4. Haz clic en un activador configurado en tu proyecto.
+3. Haz clic en **Triggers**.
+4. Haz clic en un trigger configurado en tu proyecto.
 5. En el campo **Grupos para Excluir**, selecciona el grupo _Soporte Humano_.
 6. Haz clic en `Guardar cambios`.
-7. Repite el proceso para **todos los activadores** del proyecto.
+7. Repite el proceso para **todos los triggers** del proyecto.
 
-Con esto, mientras el contacto esté en el grupo de control, no será activado por los mensajes automáticos, y el soporte humano continuará sin interrupciones. Para más información sobre activadores, consulta los artículos [Cómo crear un activador](https://help.vtex.com/es/docs/tutorials/como-crear-un-activador) y [Tipos de activadores](https://help.vtex.com/es/docs/tutorials/tipos-de-activadores).
+Con esto, mientras el contacto esté en el grupo de control, no será activado por los mensajes automáticos, y el soporte humano continuará sin interrupciones. Para más información sobre triggers, consulta los artículos [Crear un trigger](https://help.vtex.com/es/docs/tutorials/como-crear-un-activador) y [Tipos de triggers](https://help.vtex.com/es/docs/tutorials/tipos-de-activadores).
 
 ## Remover contactos del grupo de control
 
-Es importante remover el contacto del grupo de control cuando la sesión de soporte humano finalice. De lo contrario, continuará siendo ignorado por los activadores incluso después del fin del servicio.
+Es importante remover el contacto del grupo de control cuando la sesión de soporte humano finalice. De lo contrario, continuará siendo ignorado por los triggers incluso después del fin del servicio.
 
 Esta automatización involucra dos elementos con funciones distintas:
 
 - Un **flujo de cierre**, que remueve el contacto del grupo de control.
-- Un **activador**, que inicia ese flujo siempre que se cierra un ticket del Live Desk.
+- Un **trigger**, que inicia ese flujo siempre que se cierra un ticket del Live Desk.
 
-Por esto, primero crea el flujo de cierre y, luego, el activador que lo activa.
+Por esto, primero crea el flujo de cierre y, luego, el trigger que lo activa.
 
 ### Crear el flujo de cierre
 
@@ -90,20 +90,20 @@ El flujo de cierre requiere solo un bloque con la carta de acción **Eliminar el
 7. Haz clic en **Ok**.
 8. Guarda los cambios del flujo.
 
-### Crear el activador de cierre
+### Crear el trigger de cierre
 
-Después de crear el flujo, configura el activador que lo inicia automáticamente cuando se cierra un ticket. Para esto, sigue los pasos a continuación:
+Después de crear el flujo, configura el trigger que lo inicia automáticamente cuando se cierra un ticket. Para esto, sigue los pasos a continuación:
 
 1. Accede a la organización y el proyecto que deseas modificar en [VTEX CX Platform](https://dash.weni.ai/orgs).
 2. En el menú lateral, haz clic en **Contactos**.
-3. Haz clic en **Activadores**.
-4. Haz clic en `Crear activador`.
+3. Haz clic en **Triggers**.
+4. Haz clic en `Crear Trigger`.
 5. Haz clic en **Inicie un flujo después de cerrar un ticket.**.
 6. En **Flujo**, selecciona el flujo de cierre creado anteriormente.
-7. Deja el campo **Grupos para Excluir** vacío para aplicar el activador a todos los contactos.
-8. Haz clic en `Crear activador`.
+7. Deja el campo **Grupos para Excluir** vacío para aplicar el trigger a todos los contactos.
+8. Haz clic en `Crear Trigger`.
 
-De esta forma, al cerrar el ticket, el activador inicia el flujo de cierre, que remueve el contacto del grupo de control. Así, el contacto vuelve a interactuar normalmente con el chatbot.
+De esta forma, al cerrar el ticket, el trigger inicia el flujo de cierre, que remueve el contacto del grupo de control. Así, el contacto vuelve a interactuar normalmente con el chatbot.
 
 ## Enviar campos personalizados en el ticket
 

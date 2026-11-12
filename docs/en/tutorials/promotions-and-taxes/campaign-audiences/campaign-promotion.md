@@ -83,7 +83,7 @@ In the **Sales channels** section, define the sales channels the promotion will 
 
 Define the audiences that will have access to this promotion. The promotion will only be applied to users who meet the conditions configured in the selected audiences.
 
-> ℹ️ To create new audiences or learn how to configure them, see the article [Creating a campaign audience](/en/tutorial/como-criar-campanhas).
+> ℹ️ To create new audiences or learn how to configure them, see the article [Creating a campaign audience](/en/docs/tutorials/creating-a-campaign-audience).
 
 ## Defining the items that trigger the promotion
 

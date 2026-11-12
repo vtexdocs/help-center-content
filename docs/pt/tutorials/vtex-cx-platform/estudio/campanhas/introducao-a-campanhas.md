@@ -17,7 +17,7 @@ subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 
 Uma campanha é um conjunto de eventos temporários projetados para impactar grupos de contatos. Para criar uma campanha, é necessário definir um grupo de contatos e incluir pelo menos uma variável de data e hora associada a eles.
 
-Os eventos temporários que compõem uma campanha são gatilhos programados para serem acionados em momentos específicos. Esses gatilhos podem enviar mensagens, iniciar fluxos de interação, e até mesmo ter prioridade sobre outras atividades que o contato esteja realizando na plataforma.
+Os eventos temporários que compõem uma campanha são triggers programados para serem acionados em momentos específicos. Esses triggers podem enviar mensagens, iniciar fluxos de interação, e até mesmo ter prioridade sobre outras atividades que o contato esteja realizando na plataforma.
 
 ## Por que utilizar uma campanha?
 

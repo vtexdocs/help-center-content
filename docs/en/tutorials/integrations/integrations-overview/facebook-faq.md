@@ -100,8 +100,8 @@ The platform natively offers login options with email and password, and also log
 
 Before setting up our Google and Facebook login integrations, you need to create OAuth 2.0 credentials (the protocol used for integration) in these services. To do this, follow the instructions in the articles below:
 
-- [Facebook](/en/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook)
-- [Google](/en/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google)
+- [Facebook](/en/docs/tutorials/adding-a-client-id-and-a-client-secret-to-log-in-with-facebook)
+- [Google](/en/docs/tutorials/adding-a-client-id-and-a-client-secret-to-log-in-with-google)
 
 #### Setting up the integration in your store
 

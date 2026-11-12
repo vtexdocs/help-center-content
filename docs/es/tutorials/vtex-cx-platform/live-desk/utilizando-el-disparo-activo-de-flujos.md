@@ -43,7 +43,7 @@ Antes de configurar el flujo, verifica si la plantilla de mensaje ya está regis
 1. Accede a tu organización en el dashboard de [VTEX CX Platform](https://dash.weni.ai/orgs).
 2. En el menú lateral, haz clic en el ícono **Flujo de automatización**.
 3. Haz clic en `Crear flujos`.
-4. Completa los campos de nombre, tipo de flujo y, si es necesario, palabras clave de los disparadores globales.
+4. Completa los campos de nombre, tipo de flujo y, si es necesario, palabras clave de los Triggers globales.
 5. Haz clic en `Crear`.
 6. Para insertar un bloque, haz clic en el botón `Crear bloque`.
 7. Completa la información necesaria para tu bloque.

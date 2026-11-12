@@ -21,10 +21,10 @@ O processo para criação de fluxos é bem simples e intuitivo. Existem algumas 
 
   1. Chegando na página de fluxos, basta clicar no botão **Criar fluxo** , no canto esquerdo da tela.
 
-  1. Depois disso, um pop-up para criação de fluxo irá aparecer na sua tela. Ele é formado por três campos que podem ser preenchidos: **Nome** , **Palavras-chave dos disparadores globais** , **Digite**
+  1. Depois disso, um pop-up para criação de fluxo irá aparecer na sua tela. Ele é formado por três campos que podem ser preenchidos: **Nome** , **Palavras-chave dos Triggers globais** , **Digite**
 
 **1 -** **Nome** : É o nome que queremos dar para o nosso fluxo. Campo obrigatório, mas que pode ser editado depois.
-**2 -** **Palavras-chave dos disparadores globais** : Nesse campo, você pode escolher uma palavra-chave global que funcionará como uma trigger para o seu fluxo. Esse campo não é obrigatório, e você pode criar uma trigger para seu fluxo quando quiser clicando na opção trigger no menu superior. Para mais detalhes, visite o artigo sobre triggers.
+**2 -** **Palavras-chave dos Triggers globais** : Nesse campo, você pode escolher uma palavra-chave global que funcionará como um trigger para o seu fluxo. Esse campo não é obrigatório, e você pode criar um trigger para seu fluxo quando quiser clicando na opção Triggers no menu superior. Para mais detalhes, visite o artigo sobre triggers.
 **3 -** **Digite** : Campo obrigatório responsável por definir qual vai ser o método utilizado pelo seu fluxo.
 Por padrão, a opção **Mensagem** vem marcada. Um fluxo que utiliza o método de mensagens é um fluxo criado para ser utilizado em canais de texto, como o WhatsApp, Facebook Messenger, SMS, entre outros.
 Além disso, temos mais duas opções: **Chamada Telefônica** e **Pesquisador**.

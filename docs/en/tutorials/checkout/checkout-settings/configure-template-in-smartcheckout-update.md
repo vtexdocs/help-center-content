@@ -100,7 +100,7 @@ The HTML code filled in the template corresponds to what will appear on the __ch
 
 Of the available templates, the only ones that cannot be changed are __vtex-checkout__ and __vtex-orderPlaced__. These correspond to the native functioning of the platform, rendering the main content of the __checkout__ and __order placed__ pages.
 
-> ⚠️ Javascripts included directly in any Portal templates will be ignored by the platform. The reason behind this is that only scripts that originated in Google Tag Manager are accepted by [SmartCheckout](/en/tutorial/smartcheckout-preenchimento-automatico-de-dados-do-cliente--2Nuu3xAFzdhIzJIldAdtan#). aTherefore, whenever you need to customize something (or even to insert specific tags) using javascript, do this through [Google Tag Manager](/en/tutorial/integration-with-google-tag-manager--frequentlyAskedQuestions_616#).
+> ⚠️ Javascripts included directly in any Portal templates will be ignored by the platform. The reason behind this is that only scripts that originated in Google Tag Manager are accepted by [SmartCheckout](/en/docs/tutorials/smartcheckout-customer-information-automatic-fill-in#). aTherefore, whenever you need to customize something (or even to insert specific tags) using javascript, do this through [Google Tag Manager](/en/tutorial/integration-with-google-tag-manager--frequentlyAskedQuestions_616#).
 
 ### Examples of how to fill out templates
 

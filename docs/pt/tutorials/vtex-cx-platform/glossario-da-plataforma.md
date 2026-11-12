@@ -28,5 +28,5 @@ Nos próximos artigos, você vai aprender muito mais sobre como nossa plataforma
 - **Variáveis:** Parâmetros que podem ser usados para substituir valores de contatos e/ou de organização nos textos. Ex: Globals, Variáveis de contato, resultados de fluxo, etc.
 - **Expressões:** Funções para manipular dados que podem receber ou não variáveis, Ex: Contador de caracteres, formatador de datas e horários, etc.
 - **Campanhas:** Conjunto de eventos aplicados em grupos baseados em regras de horário. Permitem a comunicação ativa da plataforma, ou seja, fazem com que a plataforma inicie um fluxo para um contato, sem que ele tenha falado primeiro.
-- **Disparadores:** Conjunto de eventos responsáveis pela inicialização dos fluxos da plataforma de forma passiva, ou seja, regras que ativam os fluxos quando um contato manda uma mensagem em algum canal.
+- **Triggers:** Conjunto de eventos responsáveis pela inicialização dos fluxos da plataforma de forma passiva, ou seja, regras que ativam os fluxos quando um contato manda uma mensagem em algum canal.
 - **Classificadores:** Plataformas de inteligência artificial criadas para classificar entradas dos contatos e retornar palavras\-chave válidas que serão utilizadas pela plataforma.

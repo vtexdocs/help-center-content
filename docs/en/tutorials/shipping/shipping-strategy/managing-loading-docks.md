@@ -26,7 +26,7 @@ This article describes how to:
 * [Edit an existing loading dock](#editing-a-loading-dock).
 * [Delete a loading dock](#delete-a-loading-dock).
 
-To configure a loading dock correctly, you need to: create the loading dock, fill in the fields for adding it (which include working hours and priority), and associate the loading dock with a [sales channel](/en/docs/tutorials/creating-a-trade-policy), a warehouse, and a [shipping policy](/en/tutorial/politica-de-envio--tutorials_140?&utm_source=autocomplete). 
+To configure a loading dock correctly, you need to: create the loading dock, fill in the fields for adding it (which include working hours and priority), and associate the loading dock with a [sales channel](/en/docs/tutorials/creating-a-trade-policy), a warehouse, and a [shipping policy](/en/docs/tutorials/shipping-policy). 
 
 > ⚠️ For the logistics system to work as expected, we suggest that you configure it in the following order: <ul><li>[Shipping policy](/en/docs/tutorials/shipping-policy)</li><li>[Loading dock](/en/docs/tutorials/loading-dock)</li><li>[Warehouse](/en/docs/tutorials/warehouse)</li></ul>
 

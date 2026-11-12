@@ -26,4 +26,4 @@ Puedes usar el **código QR** o copiar el enlace y abrirlo en el navegador.1. En
 4. Al abrir WhatsApp Web, verás un código único que es la identificación de tu bot. Inicia la conversación.
 5. El campo de envío de mensajes tendrá el código único de tu bot Demo. Presiona **Enter** y tu bot será activado.
 
-Usa un activador para probar alguno de tus flujos.
+Usa un trigger para probar alguno de tus flujos.

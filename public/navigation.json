@@ -33895,6 +33895,52 @@
           "children": [
             {
               "name": {
+                "en": "Analytics",
+                "es": "Analytics",
+                "pt": "Analytics"
+              },
+              "slug": {
+                "en": "analytics-support-metrics",
+                "es": "analytics-metricas-de-atencion",
+                "pt": "analytics-metricas-de-atendimento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": [
+                {
+                  "name": {
+                    "en": "Analytics: Configuring operational alerts",
+                    "es": "Analytics: Configurar alertas operativas",
+                    "pt": "Analytics: Configurar alertas operacionais"
+                  },
+                  "slug": {
+                    "en": "configuring-operational-alerts",
+                    "es": "analytics-configurar-alertas-operativas",
+                    "pt": "analytics-configurar-alertas-operacionais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Analytics: Create custom dashboard",
+                    "es": "Analytics: Crear dashboard personalizado",
+                    "pt": "Analytics: Criar dashboard personalizado"
+                  },
+                  "slug": {
+                    "en": "create-analytics-dashboard",
+                    "es": "crear-dashboard-personalizado",
+                    "pt": "analytics-criar-dashboard-personalizado"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Agent Builder",
                 "es": "Agent Builder",
                 "pt": "Agent Builder"
@@ -33931,6 +33977,21 @@
                         "en": "adding-media-to-the-message",
                         "es": "agregar-midias-a-su-mensaje",
                         "pt": "adicionando-midias-ao-cartao-de-enviar-mensagem"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Downloading and extracting archived data",
+                        "es": "Descargar y extraer datos archivados",
+                        "pt": "Baixar, extrair, transformar e combinar os dados arquivados do Fluxo de automação"
+                      },
+                      "slug": {
+                        "en": "how-to-download-and-extract-archived-data",
+                        "es": "como-descargar-y-extraer-datos-archivados",
+                        "pt": "como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-fluxo-de-automacao"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -34313,6 +34374,311 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Studio",
+                "es": "Estúdio",
+                "pt": "Estúdio"
+              },
+              "slug": {
+                "en": "studio-subcategory",
+                "es": "estudio-subcategoria",
+                "pt": "estúdio-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Messages",
+                    "es": "Mensajes",
+                    "pt": "Mensagens"
+                  },
+                  "slug": {
+                    "en": "messages-subcategory",
+                    "es": "mensajes-subcategoria",
+                    "pt": "mensagens-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Select a message to schedule for later",
+                        "es": "Agendando envio de mensajes",
+                        "pt": "Agendando envio de mensagens"
+                      },
+                      "slug": {
+                        "en": "select-a-message-to-schedule-for-later",
+                        "es": "agendando-envio-de-mensajes",
+                        "pt": "agendando-envio-de-mensagens"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Contact's messages",
+                        "es": "Mensajes de contacto",
+                        "pt": "Mensagens do contato"
+                      },
+                      "slug": {
+                        "en": "contacts-messages",
+                        "es": "mensajes-de-contacto",
+                        "pt": "mensagens-do-contato"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "Contacts",
+                    "es": "Contactos",
+                    "pt": "Contatos"
+                  },
+                  "slug": {
+                    "en": "contacts-subcategory",
+                    "es": "contactos-subcategoria",
+                    "pt": "contatos-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Contact fields",
+                        "es": "Campo de contactos",
+                        "pt": "Campos de contato"
+                      },
+                      "slug": {
+                        "en": "contact-fields",
+                        "es": "campo-de-contactos",
+                        "pt": "campos-de-contato"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating contact from an external webhook",
+                        "es": "Creando contactos con webhooks externos",
+                        "pt": "Criando contatos com Webhooks externos"
+                      },
+                      "slug": {
+                        "en": "creating-contact-from-an-external-webhook",
+                        "es": "creando-contactos-con-webhooks-externos",
+                        "pt": "criando-contatos-com-webhooks-externos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Dynamic groups",
+                        "es": "Grupos dinámicos",
+                        "pt": "Dynamic groups"
+                      },
+                      "slug": {
+                        "en": "dynamic-groups",
+                        "es": "grupos-dinamicos",
+                        "pt": ""
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Static groups",
+                        "es": "Grupos estáticos",
+                        "pt": "Grupos estáticos e grupos dinâmicos"
+                      },
+                      "slug": {
+                        "en": "static-groups",
+                        "es": "grupos-estaticos",
+                        "pt": "grupos-estaticos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Contact history",
+                        "es": "Historial de contacto",
+                        "pt": "Histórico de Contato"
+                      },
+                      "slug": {
+                        "en": "contact-history",
+                        "es": "historial-de-contacto",
+                        "pt": "historico-de-contato"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Importing contacts",
+                        "es": "Importar contactos",
+                        "pt": "Importar contatos"
+                      },
+                      "slug": {
+                        "en": "importing-contacts",
+                        "es": "como-importar-contactos",
+                        "pt": "como-importar-contatos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Introduction to contacts",
+                        "es": "Introducción a contactos",
+                        "pt": "Introdução a contatos"
+                      },
+                      "slug": {
+                        "en": "introduction-to-contacts",
+                        "es": "introduccion-a-contactos",
+                        "pt": "introducao-a-contatos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "Campaigns",
+                    "es": "Campañas",
+                    "pt": "Campanhas"
+                  },
+                  "slug": {
+                    "en": "campaigns-subcategory",
+                    "es": "campanas-subcategoria",
+                    "pt": "campanhas-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Creating a campaign",
+                        "es": "Crear una campaña",
+                        "pt": "Criar uma campanha"
+                      },
+                      "slug": {
+                        "en": "how-to-create-a-campaign",
+                        "es": "como-crear-una-campana",
+                        "pt": "como-criar-uma-campanha"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Campaign introduction",
+                        "es": "Introducción a campañas",
+                        "pt": "Introdução a Campanhas"
+                      },
+                      "slug": {
+                        "en": "campaign-introduction",
+                        "es": "introduccion-a-campanas",
+                        "pt": "introducao-a-campanhas"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Editing events",
+                        "es": "Modificando eventos",
+                        "pt": "Modificando eventos"
+                      },
+                      "slug": {
+                        "en": "editing-events",
+                        "es": "modificando-eventos",
+                        "pt": "modificando-eventos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "Triggers",
+                    "es": "Triggers",
+                    "pt": "Triggers"
+                  },
+                  "slug": {
+                    "en": "triggers-subcategory",
+                    "es": "triggers-subcategoria",
+                    "pt": "triggers-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Adding a trigger",
+                        "es": "Crear un trigger",
+                        "pt": "Criar um trigger"
+                      },
+                      "slug": {
+                        "en": "adding-a-trigger",
+                        "es": "como-crear-un-activador",
+                        "pt": "como-criar-um-disparador"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Tell a flow to ignore triggers and keywords",
+                        "es": "Ignorar un trigger en un flujo",
+                        "pt": "Ignorar um trigger em um fluxo"
+                      },
+                      "slug": {
+                        "en": "tell-a-flow-to-ignore-triggers-and-keywords",
+                        "es": "como-ignorar-un-activador-en-un-flujo",
+                        "pt": "como-ignorar-um-gatilho-em-um-fluxo"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Triggers types",
+                        "es": "Tipos de triggers",
+                        "pt": "Tipos de Trigger"
+                      },
+                      "slug": {
+                        "en": "triggers-types",
+                        "es": "tipos-de-activadores",
+                        "pt": "tipos-de-gatilho"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
                 }
               ]
             },
@@ -34862,265 +35228,9 @@
             },
             {
               "name": {
-                "en": "Studio",
-                "es": "Estúdio",
-                "pt": "Estúdio"
-              },
-              "slug": {
-                "en": "studio-subcategory",
-                "es": "estudio-subcategoria",
-                "pt": "estúdio-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Select a message to schedule for later",
-                    "es": "Agendando envio de mensajes",
-                    "pt": "Agendando envio de mensagens"
-                  },
-                  "slug": {
-                    "en": "select-a-message-to-schedule-for-later",
-                    "es": "agendando-envio-de-mensajes",
-                    "pt": "agendando-envio-de-mensagens"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Downloading and extracting archived data",
-                    "es": "Descargar y extraer datos archivados",
-                    "pt": "Baixar, extrair, transformar e combinar os dados arquivados do Fluxo de automação"
-                  },
-                  "slug": {
-                    "en": "how-to-download-and-extract-archived-data",
-                    "es": "como-descargar-y-extraer-datos-archivados",
-                    "pt": "como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-fluxo-de-automacao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Contact fields",
-                    "es": "Campo de contactos",
-                    "pt": "Campos de contato"
-                  },
-                  "slug": {
-                    "en": "contact-fields",
-                    "es": "campo-de-contactos",
-                    "pt": "campos-de-contato"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating contact from an external webhook",
-                    "es": "Creando contactos con webhooks externos",
-                    "pt": "Criando contatos com Webhooks externos"
-                  },
-                  "slug": {
-                    "en": "creating-contact-from-an-external-webhook",
-                    "es": "creando-contactos-con-webhooks-externos",
-                    "pt": "criando-contatos-com-webhooks-externos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Adding a trigger",
-                    "es": "Crear un activador",
-                    "pt": "Criar um disparador"
-                  },
-                  "slug": {
-                    "en": "adding-a-trigger",
-                    "es": "como-crear-un-activador",
-                    "pt": "como-criar-um-disparador"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a campaign",
-                    "es": "Crear una campaña",
-                    "pt": "Criar uma campanha"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-campaign",
-                    "es": "como-crear-una-campana",
-                    "pt": "como-criar-uma-campanha"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Dynamic groups",
-                    "es": "Grupos dinámicos",
-                    "pt": "Dynamic groups"
-                  },
-                  "slug": {
-                    "en": "dynamic-groups",
-                    "es": "grupos-dinamicos",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Static groups",
-                    "es": "Grupos estáticos",
-                    "pt": "Grupos estáticos e grupos dinâmicos"
-                  },
-                  "slug": {
-                    "en": "static-groups",
-                    "es": "grupos-estaticos",
-                    "pt": "grupos-estaticos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Contact history",
-                    "es": "Historial de contacto",
-                    "pt": "Histórico de Contato"
-                  },
-                  "slug": {
-                    "en": "contact-history",
-                    "es": "historial-de-contacto",
-                    "pt": "historico-de-contato"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Tell a flow to ignore triggers and keywords",
-                    "es": "Ignorar un activador en un flujo",
-                    "pt": "Ignorar um gatilho em um fluxo"
-                  },
-                  "slug": {
-                    "en": "tell-a-flow-to-ignore-triggers-and-keywords",
-                    "es": "como-ignorar-un-activador-en-un-flujo",
-                    "pt": "como-ignorar-um-gatilho-em-um-fluxo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Importing contacts",
-                    "es": "Importar contactos",
-                    "pt": "Importar contatos"
-                  },
-                  "slug": {
-                    "en": "importing-contacts",
-                    "es": "como-importar-contactos",
-                    "pt": "como-importar-contatos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Campaign introduction",
-                    "es": "Introducción a campañas",
-                    "pt": "Introdução a Campanhas"
-                  },
-                  "slug": {
-                    "en": "campaign-introduction",
-                    "es": "introduccion-a-campanas",
-                    "pt": "introducao-a-campanhas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Introduction to contacts",
-                    "es": "Introducción a contactos",
-                    "pt": "Introdução a contatos"
-                  },
-                  "slug": {
-                    "en": "introduction-to-contacts",
-                    "es": "introduccion-a-contactos",
-                    "pt": "introducao-a-contatos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Contact's messages",
-                    "es": "Mensajes de contacto",
-                    "pt": "Mensagens do contato"
-                  },
-                  "slug": {
-                    "en": "contacts-messages",
-                    "es": "mensajes-de-contacto",
-                    "pt": "mensagens-do-contato"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Editing events",
-                    "es": "Modificando eventos",
-                    "pt": "Modificando eventos"
-                  },
-                  "slug": {
-                    "en": "editing-events",
-                    "es": "modificando-eventos",
-                    "pt": "modificando-eventos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Triggers types",
-                    "es": "Tipos de activadores",
-                    "pt": "Tipos de Gatilho"
-                  },
-                  "slug": {
-                    "en": "triggers-types",
-                    "es": "tipos-de-activadores",
-                    "pt": "tipos-de-gatilho"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "VTEX CX Platform Settings",
-                "es": "Configuraciones VTEX CX Platform",
-                "pt": "Configurações VTEX CX Platform"
+                "en": "Settings",
+                "es": "Configuración",
+                "pt": "Configurações"
               },
               "slug": {
                 "en": "vtex-cx-platform-settings-subcategory",
@@ -35155,52 +35265,6 @@
                     "en": "managing-vtex-cx-platform-members",
                     "es": "administrar-miembros-de-la-plataforma-vtex-cx",
                     "pt": "gerenciar-membros-do-vtex-cx-platform"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Analytics",
-                "es": "Analytics",
-                "pt": "Analytics"
-              },
-              "slug": {
-                "en": "analytics-support-metrics",
-                "es": "analytics-metricas-de-atencion",
-                "pt": "analytics-metricas-de-atendimento"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": [
-                {
-                  "name": {
-                    "en": "Analytics: Configuring operational alerts",
-                    "es": "Analytics: Configurar alertas operativas",
-                    "pt": "Analytics: Configurar alertas operacionais"
-                  },
-                  "slug": {
-                    "en": "configuring-operational-alerts",
-                    "es": "analytics-configurar-alertas-operativas",
-                    "pt": "analytics-configurar-alertas-operacionais"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Analytics: Create custom dashboard",
-                    "es": "Analytics: Crear dashboard personalizado",
-                    "pt": "Analytics: Criar dashboard personalizado"
-                  },
-                  "slug": {
-                    "en": "create-analytics-dashboard",
-                    "es": "crear-dashboard-personalizado",
-                    "pt": "analytics-criar-dashboard-personalizado"
                   },
                   "origin": "",
                   "type": "markdown",
