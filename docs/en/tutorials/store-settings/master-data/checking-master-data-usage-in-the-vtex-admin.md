@@ -9,11 +9,11 @@ locale: en
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q
 ---
 
-The **Master Data usage** dashboard in the VTEX Admin helps you track the volume of documents stored in [Master Data](/docs/tutorials/master-data) [custom entities](/docs/tutorials/master-data#custom-data-entities). These entities are created by your operation. The dashboard doesn't display [native Master Data entities](/docs/tutorials/master-data#master-data-native-entities), which support the platform's default features.
+The **Master Data usage** dashboard in the VTEX Admin helps you track the volume of documents stored in [Master Data](/en/docs/tutorials/master-data) [custom entities](/en/docs/tutorials/master-data#custom-data-entities). These entities are created by your operation. The dashboard doesn't display [native Master Data entities](/en/docs/tutorials/master-data#master-data-native-entities), which support the platform's default features.
 
 With this dashboard, you can check the total number of documents, see when the data was last updated, and analyze the volume per entity before making decisions about storage or data cleanup.
 
-> ℹ️ The use of custom entities is subject to monthly charges. To understand how VTEX measures the volume of documents for billing, see the [Billing](/en/docs/tutorials/master-data#billing) section of the Master Data article. If billing hasn't decreased as expected after deleting an entity, see [this guide](/en/docs/tutorials/a-cobranca-do-master-data-nao-diminuiu-depois-que-exclui-uma-entidade-de-dados).
+> ℹ️ The use of custom entities is subject to monthly charges. To understand how VTEX measures the volume of documents for billing, see the [Billing](/en/docs/tutorials/master-data#billing) section of the Master Data article. If billing hasn't decreased as expected after deleting an entity, see [this guide](/en/troubleshooting/master-data-billing-did-not-decrease-after-deleting-a-data-entity).
 
 ## Accessing the dashboard
 

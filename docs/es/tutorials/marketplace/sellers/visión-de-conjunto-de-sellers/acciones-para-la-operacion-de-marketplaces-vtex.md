@@ -33,7 +33,7 @@ Al planificar tu operación como _marketplace_ VTEX, incluye un periodo para ide
 
 Si quieres encontrar nuevos _sellers_ para vender en tu _marketplace_, utiliza __Encontrar sellers__. Esta herramienta facilita la identificación y el contacto entre _marketplaces_ y _sellers_ que operan en el ecosistema VTEX. Para acceder a esta página, entra en tu Admin VTEX y dirígete a **Marketplace > Sellers > Encontrar sellers.**
 
-Para agregar nuevos _sellers_ a tu _marketplace_ desde el Admin, sigue las instrucciones descritas en el artículo [Agregar seller](/es/tutorial/configurando-seller/). También puedes realizar este proceso a través de la integración de API. Para ello, sigue las instrucciones de [External Seller Integration Guide](https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide). 
+Para agregar nuevos _sellers_ a tu _marketplace_ desde el Admin, sigue las instrucciones descritas en el artículo [Agregar seller](/es/docs/tutorials/agregar-seller). También puedes realizar este proceso a través de la integración de API. Para ello, sigue las instrucciones de [External Seller Integration Guide](https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide). 
 
 ## Analizar los resultados de los sellers 
 La página de [Desempeño de ventas](/es/docs/tutorials/desempeno-de-ventas) en tu Admin VTEX es un panel diseñado para el comercio unificado, que ayuda a las tiendas a hacer crecer su negocio y a tomar decisiones más precisas. El panel facilita el proceso de "cultivo" de los _sellers_, es decir, permite a los _marketplaces_ analizar los datos de los pedidos de su tienda y de sus _sellers_ para monitorear la salud del negocio, comprender las razones de las variaciones en el volumen de ventas o en la tasa de conversión y encontrar oportunidades para mejorar los resultados de _sellers_ específicos. 
@@ -52,7 +52,7 @@ Esta herramienta es una opción recomendada para los _marketplaces_ que deseen t
 
 Un producto de un_ seller_ que haya sido enviado al _marketplace_ con la información de precio y _stock_ configurada se convierte en un anuncio. Sin embargo, antes de que el anuncio esté disponible para la venta, el _marketplace_ debe revisarlo y aprobarlo siguiendo un proceso llamado catalogación de anuncios. La catalogación permite crear nuevos productos y asociar anuncios a SKU o productos ya existentes para ponerlos a la venta.
 
-El proceso de catalogación se realiza en la página de [SKU recibidos](/es/tutorial/sugerindo-e-aprovando-skus/) en el menú **MARKETPLACE > Sellers** de tu Admin VTEX o a través de llamadas a la API de [Match Received SKUs](https://developers.vtex.com/vtex-rest-api/reference/match). 
+El proceso de catalogación se realiza en la página de [SKU recibidos](/es/docs/tutorials/catalogacion-manual-de-skus) en el menú **MARKETPLACE > Sellers** de tu Admin VTEX o a través de llamadas a la API de [Match Received SKUs](https://developers.vtex.com/vtex-rest-api/reference/match). 
 
 > ℹ️ Antes de aprobar un anuncio, es importante asegurarse de que la información de producto enviada por el seller coincida con tu estrategia comercial. A la hora de catalogar anuncios, ten en cuenta la calidad de la información enviada por el seller, como el precio, la descripción del producto y la imagen.
 

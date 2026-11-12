@@ -41,7 +41,7 @@ No cadastro do endereço, você deve inserir o CEP corretamente para que o clien
 
 ## Configuração do ponto de retirada
 
-Com o ponto de retirada castrado, é preciso configurá-lo. Leia o artigo “[Configurar pontos de retirada](/pt/tutorial/configurar-pontos-de-retirada-pickup-points)” para mais informações. O ponto de retirada deve estar associado a uma [política de envio](/pt/tutorial/o-que-e-uma-transportadora--7u9duMD5UQa2QQwukAWMcE?&utm_source=autocomplete), que esteja vinculada à [doca](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj) que faça parte da [política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) utilizada na integração da B2W. 
+Com o ponto de retirada castrado, é preciso configurá-lo. Leia o artigo “[Configurar pontos de retirada](/pt/tutorial/configurar-pontos-de-retirada-pickup-points)” para mais informações. O ponto de retirada deve estar associado a uma [política de envio](/pt/docs/tutorials/transportadoras-na-vtex?&utm_source=autocomplete), que esteja vinculada à [doca](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj) que faça parte da [política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) utilizada na integração da B2W. 
 
 Quando as configurações forem ativadas, os pontos de retirada cadastrados e que pertencem à política comercial configurada serão automaticamente enviados para B2W.
 

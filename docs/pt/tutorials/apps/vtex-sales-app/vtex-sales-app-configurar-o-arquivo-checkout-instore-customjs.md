@@ -96,7 +96,7 @@ O `checkout-instore-custom.js` é o arquivo usado para personalizar as configura
   | `'input'` | Campo de texto (`TextBox`). |
   | `'text'` | Campo de texto (`TextBox`). |
 
-- `noteAsVendorCode.skipValidation`: controla a obrigatoriedade do código do vendedor e a consulta ao [Master Data](https://help.vtex.com/pt/docs/tutorials/master-data).
+- `noteAsVendorCode.skipValidation`: controla a obrigatoriedade do código do vendedor e a consulta ao [Master Data](https://help.vtex.com/pt/docs/tutorials/master-data-pt).
 
   | Valor | Resultado |
   | :--- | :--- |

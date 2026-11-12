@@ -15,7 +15,7 @@ locale: es
 legacySlug: intente-actualizar-la-plantilla-de-flete-y-ocurrio-un-error-que-hacer
 ---
 
-Para realizar la actualización de la plantilla de flete vía importación de plantilla, es necesario que esté con los nombres de las columnas correctos, en el formato **.xls**, y, excepcionales 10 MB, se debe comprimir en el formato **.zip**. Para mayores detalles, vea los documentos: [Cómo montar la plantilla de flete](/es/tutorial/como-montar-la-plantilla-de-flete) y [Valores de Flete](/es/tutorial/gestionar-valores-de-flete).
+Para realizar la actualización de la plantilla de flete vía importación de plantilla, es necesario que esté con los nombres de las columnas correctos, en el formato **.xls**, y, excepcionales 10 MB, se debe comprimir en el formato **.zip**. Para mayores detalles, vea los documentos: [Cómo montar la plantilla de flete](/es/tutorial/como-montar-la-plantilla-de-flete) y [Valores de Flete](/es/docs/tutorials/gestionar-las-tarifas-de-envio).
 
 Caso intente importar la plantilla con el formato **.xlsx**, no se actualizará el flete.
 

@@ -49,11 +49,11 @@ Besides reorganizing the order of pages, we have also changed some of the labels
 | [Storefront](/en/docs/tutorials/storefront-overview)                  | Defines the user experience and visual identity of the store website, Intelligent Search, and releases.                     |
 | [Shipping](/en/docs/tutorials/shipping-overview)                          | Management of inventory, shipping rates, item availability, and delivery tracking.                                          |
 | [Marketplace](/en/docs/tutorials/marketplace-overview)                   | Management of sellers, marketplaces, and connections.                                                                       |
-| [Apps](/en/tutorial/visao-geral-apps--4xfsHXyAQTjbZNuiKl6Y0e#)                               | App Store and installed apps.                                                                                               |
+| [Apps](/en/docs/tutorials/apps-overview#)                               | App Store and installed apps.                                                                                               |
 | [Store Settings](/en/tutorial/store-settings-overview--6VtlMoid6iM9dP14X1CopT#)   | Settings for payments, orders, email templates, shipping, products, storefront, channels, Intelligent Search, and calendar. |
 | [User Settings](/en/docs/tutorials/user-settings-overview)     | Settings applied to your store, including your storefront.                                                                  |
 | [Account Settings](/en/docs/tutorials/account-settings-overview) | Settings applied to your personal profile in the Admin, not related to the store or your VTEX business account.             |
-| [Invoices](/en/tutorial/visao-geral-faturas--6UxfCl4fw4GmyQwoUuIcQs#)                         | Management of all financial aspects of your VTEX account.                                                                   |
+| [Invoices](/en/docs/tutorials/billing-module-overview#)                         | Management of all financial aspects of your VTEX account.                                                                   |
 
 ## Why did we make this change?
 

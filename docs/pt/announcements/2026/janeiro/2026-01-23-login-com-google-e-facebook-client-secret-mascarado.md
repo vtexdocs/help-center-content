@@ -38,5 +38,5 @@ Nenhuma ação é necessária. A atualização será aplicada automaticamente pa
 Para mais detalhes sobre a configuração de login social, acesse:
 
 * [Configurar login com Facebook e Google](https://help.vtex.com/pt/docs/tutorials/configurar-login-com-facebook-e-google)
-* [Cadastrar Client Id e Client Secret para login com Google](https://help.vtex.com/docs/tutorials/cadastrar-client-id-e-client-secret-para-login-com-google)
-* [Cadastrar Client Id e Client Secret para login com Facebook](https://help.vtex.com/docs/tutorials/cadastrar-client-id-e-segredo-do-cliente-para-login-com-facebook)
+* [Cadastrar Client Id e Client Secret para login com Google](https://help.vtex.com/pt/docs/tutorials/cadastrar-client-id-e-client-secret-para-login-com-google)
+* [Cadastrar Client Id e Client Secret para login com Facebook](https://help.vtex.com/pt/docs/tutorials/cadastrar-client-id-e-segredo-do-cliente-para-login-com-facebook)

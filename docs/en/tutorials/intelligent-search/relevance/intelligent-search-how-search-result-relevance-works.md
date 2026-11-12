@@ -42,7 +42,7 @@ Intelligent Search tries to find products that match the search in sequential gr
 
 Intelligent Search also normalizes singular and plural variations of the same word, unifying them into the same stem before matching. For example, in English-language stores, a search for `sneaker` also returns products that contain `sneakers`.
 
-> ℹ️ VTEX fixed stemming inconsistencies in the English language analyzer for terms such as `sticks`, `sharpies`, `its`, `bags`, `boards`, `books`, `bowls`, `cards`, `crackers`, `dividers`, `games`, `glue-sticks`, `k-cups`, `knives`, `nuts`, `rolls`, `shelves`, and `supplies`, whose plural forms weren't correctly mapped to the singular stem. This fix isn't applied automatically to all accounts: to request it for an English-language store, contact [VTEX Support](https://supporticket.vtex.com/support). Learn more in [Search behavior](https://help.vtex.com/docs/tutorials/search-behavior#stemming).
+> ℹ️ VTEX fixed stemming inconsistencies in the English language analyzer for terms such as `sticks`, `sharpies`, `its`, `bags`, `boards`, `books`, `bowls`, `cards`, `crackers`, `dividers`, `games`, `glue-sticks`, `k-cups`, `knives`, `nuts`, `rolls`, `shelves`, and `supplies`, whose plural forms weren't correctly mapped to the singular stem. This fix isn't applied automatically to all accounts: to request it for an English-language store, contact [VTEX Support](https://supporticket.vtex.com/support). Learn more in [Search behavior](https://help.vtex.com/en/docs/tutorials/search-behavior#stemming).
 
 ### Decision flow
 

@@ -65,6 +65,6 @@ After that, you can start transmitting the event. Since the steps vary for each 
 
 ## After live streaming from an external studio
 
-When the transmission has ended and the event [status](https://help.vtex.com/docs/tracks/creating-event#event-status) is `Completed`, you must hide the **Live Shopping** component or remove the script, depending on your frontend solution.The audience will continue to see the black screen on your site or landing page until you complete this step.
+When the transmission has ended and the event [status](https://help.vtex.com/en/docs/tracks/creating-event#event-status) is `Completed`, you must hide the **Live Shopping** component or remove the script, depending on your frontend solution.The audience will continue to see the black screen on your site or landing page until you complete this step.
 
-For the complete instructions, check [Hiding or removing the Live Shopping component](https://help.vtex.com/docs/tracks/hiding-or-removing-live-shopping-component).
+For the complete instructions, check [Hiding or removing the Live Shopping component](https://help.vtex.com/en/docs/tracks/hiding-or-removing-live-shopping-component).

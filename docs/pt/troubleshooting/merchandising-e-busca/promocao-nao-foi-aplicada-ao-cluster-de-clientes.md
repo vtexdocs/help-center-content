@@ -58,6 +58,6 @@ Para resolver este caso, você poderia realizar uma das seguintes ações:
 
 - Alterar a opção __Cluster de clientes__ para a condição __Pelo menos um dos seguintes__, permitindo que clientes identificados como __funcionário__ ou com código __platinum__ possam acessar a promoção.
 
-- Manter a opção __Cluster de clientes__ com a condição __Todos os seguintes__ e atualizar os cadastros dos clientes desejados por meio do [Master Data](/pt/docs/tutorials/master-data) para incluir ambos os critérios: ser __funcionário__ e estar classificado na categoria __platinum__.
+- Manter a opção __Cluster de clientes__ com a condição __Todos os seguintes__ e atualizar os cadastros dos clientes desejados por meio do [Master Data](/pt/docs/tutorials/master-data-pt) para incluir ambos os critérios: ser __funcionário__ e estar classificado na categoria __platinum__.
 
 - Manter a opção __Cluster de clientes__ com a condição __Todos os seguintes__ e declarar outros valores que estejam atualmente presentes nos clientes aos quais deseja exibir a promoção.

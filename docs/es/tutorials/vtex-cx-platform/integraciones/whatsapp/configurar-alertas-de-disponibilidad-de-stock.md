@@ -21,7 +21,7 @@ Las **alertas de disponibilidad de stock** permiten a los compradores solicitar 
 
 Antes de configurar la alerta, verifica lo siguiente:
 - Tu tienda usa **FastStore** o **Store Framework**, y el **Shopping Assistant** está activo y configurado. La alerta solo aparece cuando el Shopping Assistant está configurado.
-    - En **FastStore**, agrega el componente **Shopping Assistant** mediante **Global Sections** en el [CMS](https://help.vtex.com/es/docs/tutorials/cms-overview). Este componente agrega el script `agentic-cx` a la tienda. Luego, activa el **Shopping Assistant** en la aplicación VTEX CX.
+    - En **FastStore**, agrega el componente **Shopping Assistant** mediante **Global Sections** en el [CMS](https://help.vtex.com/es/docs/tutorials/cms-informacion-general). Este componente agrega el script `agentic-cx` a la tienda. Luego, activa el **Shopping Assistant** en la aplicación VTEX CX.
 - WhatsApp está conectado a la aplicación VTEX CX.
 - La automatización **WhatsApp Back in Stock** está conectada.
 - Meta aprobó el template de WhatsApp **Back in stock**. Espera hasta que el status del template cambie a **Approved** antes de activar la alerta, ya que los mensajes no se pueden enviar mientras el template esté pendiente o rechazado.

@@ -101,7 +101,7 @@ Con el conector Stripe configurado, puedes añadir Apple Pay siguiendo los pasos
 16. En el campo __Procesar con afiliación__, selecciona la opción Stripe.
 17. Si tiene un antifraude configurado en su tienda, puede habilitarlo para esa condicione de pago marcando la casilla __Utilizar antifraude__.
 18. Elige si los pagos será con o sin cuotas.
-19. Si desea, puede [configurar condiciones especiales de pago](/es/tutorial/condicoes-especiais).
+19. Si desea, puede [configurar condiciones especiales de pago](/es/docs/tutorials/condiciones-especiales).
 20. Haga clic en __Guardar__.
 
 Cuando hayas realizado estos pasos, Apple Pay figurará en el checkout de la tienda como uno de los métodos de pago disponibles.

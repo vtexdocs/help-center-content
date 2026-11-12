@@ -1,5 +1,5 @@
 ---
-title: 'Mensagens do contato'
+title: 'Mensagens'
 id: 2hnStp32i679W6czvmkNP0
 status: PUBLISHED
 createdAt: 2025-09-12T17:35:53.101Z
@@ -13,6 +13,7 @@ slugEN: contacts-messages
 legacySlug: mensagens-do-contato
 locale: pt
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
+categoryCover: true
 ---
 
 Mensagens são todas as interações realizadas quando você envia ou recebe uma mensagem usando seus contatos ou aplicativo. Semelhante à sua conta de e-mail, a plataforma permite visualizar todas as mensagens, arquivá-las, excluí-las, etc.

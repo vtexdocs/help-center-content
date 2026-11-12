@@ -21,7 +21,7 @@ Existem dois tipos de grupos para os contatos na plataforma. Agora explicaremos 
 
 O grupo estático é o tipo de grupo onde os contatos precisam ser adicionados e/ou removidos manualmente. Para que um contato entre e/ou saia de um grupo estático, ele precisa ser adicionado/removido pelo usuário da plataforma pela aba de contatos, ou, adicionado/removido através de fluxos durante a conversa com a sua automação.
 
-Você pode encontrar a descrição das cartas de fluxo para grupos clicando [cartas de ações](https://help.vtex.com/docs/tutorials/cartas-de-acao) e [decisões.](https://help.vtex.com/docs/tutorials/cartas-de-decisao).
+Você pode encontrar a descrição das cartas de fluxo para grupos clicando [cartas de ações](https://help.vtex.com/pt/docs/tutorials/cartas-de-acao) e [decisões.](https://help.vtex.com/pt/docs/tutorials/cartas-de-decisao).
 
 Para criar um grupo estático, basta navegar até a página de contatos, em **Contatos** (em **Operações**), e clicar no botão **Criar Grupo** no menu lateral.
 

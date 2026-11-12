@@ -99,7 +99,7 @@ Este filtro indica el número de parcelas de los pagos realizados en su tienda. 
 
 ## Status
 
-Este filtro muestra todas las transacciones de acuerdo con su status. Para obtener más información sobre el flujo de transacciones, usted puede acceder a [nuestro artículo sobre este tema](/es/faq/flujo-de-la-transaccion-en-pci-gateway).
+Este filtro muestra todas las transacciones de acuerdo con su status. Para obtener más información sobre el flujo de transacciones, usted puede acceder a [nuestro artículo sobre este tema](/es/docs/tutorials/flujo-de-la-transaccion-en-pagos).
 
 Algunos ejemplos de status de la transacción:
 

@@ -18,7 +18,7 @@ tags:
   - Identity
 ---
 
-To enhance the security of social login integrations, the **Client secret** field in the [login with Google and Facebook](https://help.vtex.com/docs/tutorials/configuring-login-with-facebook-and-google) configuration is now masked in the VTEX Admin.
+To enhance the security of social login integrations, the **Client secret** field in the [login with Google and Facebook](https://help.vtex.com/en/docs/tutorials/configuring-login-with-facebook-and-google) configuration is now masked in the VTEX Admin.
 
 ## What has changed?
 
@@ -36,6 +36,6 @@ This change enhances store security by reducing the risk of improper exposure of
 
 No action is needed. This update will be automatically applied to all stores. For more information about social login configuration, see:
 
-* [Configuring login with Facebook and Google](https://help.vtex.com/docs/tutorials/configuring-login-with-facebook-and-google)
-* [Adding Client ID and Client secret for login with Google](https://help.vtex.com/docs/tutorials/adding-a-client-id-and-a-client-secret-to-log-in-with-google)
-* [Adding Client ID and Client secret for login with Facebook](https://help.vtex.com/docs/tutorials/adding-a-client-id-and-a-client-secret-to-log-in-with-facebook)
+* [Configuring login with Facebook and Google](https://help.vtex.com/en/docs/tutorials/configuring-login-with-facebook-and-google)
+* [Adding Client ID and Client secret for login with Google](https://help.vtex.com/en/docs/tutorials/adding-a-client-id-and-a-client-secret-to-log-in-with-google)
+* [Adding Client ID and Client secret for login with Facebook](https://help.vtex.com/en/docs/tutorials/adding-client-id-and-client-secret-to-log-in-with-facebook)

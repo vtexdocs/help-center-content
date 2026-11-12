@@ -25,7 +25,7 @@ To configure Credibanco, follow the steps below:
 - **Automatic capture immediately after anti-fraud analysis**: Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in "Automatic capture immediately after payment authorization".
 - **Disabled**: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.
 
-8. If you want to use [payment split](https://help.vtex.com/docs/tutorials/split-payment) in your store, select the option **Enable payout split and send payment recipients** and indicate the **Accountable for payment processing charges** and **Accountable for chargebacks (marketplace, sellers or marketplaces and sellers)**.
+8. If you want to use [payment split](https://help.vtex.com/en/docs/tutorials/split-payment) in your store, select the option **Enable payout split and send payment recipients** and indicate the **Accountable for payment processing charges** and **Accountable for chargebacks (marketplace, sellers or marketplaces and sellers)**.
 9. Click `Save`.
 
 To configure the payment methods to be processed by Credibanco, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).

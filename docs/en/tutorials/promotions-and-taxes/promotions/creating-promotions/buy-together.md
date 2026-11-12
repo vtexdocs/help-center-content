@@ -120,7 +120,7 @@ Define the conditions that will apply to the promotion. Conditions allow the pro
 
 - **Card BIN:** Apply this promotion when the customer uses cards from specific networks, banks, or categories identified by their BIN codes. Import a list of BINs saved in a .txt or .csv file, with each BIN on a separate row.
 
-- **Customer cluster:** Select an already created [customer cluster](/en/tutorial/como-criar-um-cluster-de-clientes) in Master Data, following the `field=value` or `field contains value` format. Then, choose one of the following options:
+- **Customer cluster:** Select an already created [customer cluster](/en/docs/tutorials/how-can-i-create-cluster-of-customers) in Master Data, following the `field=value` or `field contains value` format. Then, choose one of the following options:
 
   - **All of the following:** Apply the promotion only if all cluster criteria are met.
   - **At least one of the following:** Apply the promotion if at least one of the cluster criteria is met.

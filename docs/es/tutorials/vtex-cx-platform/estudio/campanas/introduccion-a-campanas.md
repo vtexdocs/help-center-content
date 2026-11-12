@@ -1,5 +1,5 @@
 ---
-title: "Introducción a campañas"
+title: "Campañas"
 id: 17BPSCm7jcrKSvTv3n3kWd
 status: PUBLISHED
 createdAt: 2025-09-12T18:00:29.520Z

@@ -15,12 +15,12 @@ locale: es
 subcategoryId: 2xWRgEIlR2ookieEmm4KQu
 ---
 
-Toda tienda VTEX se encuentra apta para ser tanto marketplace como seller de otras tiendas VTEX o de [nuestros marketplaces integrados](/es/tutorial/integrando-con-marketplace/). Esto se realiza a través de configuraciones simples y sin la necesidad de desarrollar una integración.
+Toda tienda VTEX se encuentra apta para ser tanto marketplace como seller de otras tiendas VTEX o de [nuestros marketplaces integrados](/es/docs/tutorials/estrategias-de-marketplace-en-vtex). Esto se realiza a través de configuraciones simples y sin la necesidad de desarrollar una integración.
 
 La integración entre tiendas VTEX es la mas simple de todas y reemplaza algunos pasos necesarios de las demás integraciones. Siguen a continuación las instrucciones para cada configuración:
 
 ## Para las tiendas que quieren actuar como marketplace: cómo configurar un seller VTEX
-Ser un marketplace significa que su website recibirá (y vendrá) productos de otra tienda (que funcionará como seller). Para hacer esto, usted necesita seguir las [instrucciones para la creación de un seller](/es/tutorial/configuracion-de-seller/).
+Ser un marketplace significa que su website recibirá (y vendrá) productos de otra tienda (que funcionará como seller). Para hacer esto, usted necesita seguir las [instrucciones para la creación de un seller](/es/docs/tutorials/agregar-seller).
 
 ## Para las tiendas que quieren actuar como sellers: cómo configurar un marketplace VTEX
 Ser un seller significa que su tienda va a enviar y vender productos a través de otro website (que funcionará como marketplace). Para hacer esto, usted necesita registrar esta tienda como un marketplace en su admin. Sólo tienes que seguir los siguientes pasos:
@@ -29,4 +29,4 @@ Ser un seller significa que su tienda va a enviar y vender productos a través d
 2. Configure la [logística](/es/docs/tutorials/como-configurar-logistica-para-politica-comercial/) para esta política comercial
 3. Configure al [afiliado](/es/docs/tutorials/como-configurar-afiliado/).
 
-Despúes de esas configuraciones, los productos comenzarán a ser enviados para el marketplace. Luego, el marketplace deberá realizar el [mapeo de categorías, marcas y especificaciones](/es/tutorial/mapeando-categorias-e-marcas-para-marketplace), además de aceptar los productos enviados.
+Despúes de esas configuraciones, los productos comenzarán a ser enviados para el marketplace. Luego, el marketplace deberá realizar el [mapeo de categorías, marcas y especificaciones](/es/docs/tutorials/mapeo-de-categorias-y-marcas-para-marketplace), además de aceptar los productos enviados.

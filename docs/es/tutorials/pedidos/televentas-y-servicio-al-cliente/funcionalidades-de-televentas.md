@@ -27,7 +27,7 @@ Las funcionalidades de televentas disponibles en VTEX son:
 - [Ingresar precio manual](#ingresar-precio-manual)
 - [Gestión de pedidos](#gestion-de-pedidos)
 
-> ⚠️ Para acceder a la barra de herramientas de televentas, precios manuales y a la página **[Todos los pedidos](/es/docs/tutorials/todos-los-pedidos)**, el usuario debe estar registrado en la tienda con el rol de [Call center operator](/es/docs/tutorials/como-creo-un-usuario-de-televentas).
+> ⚠️ Para acceder a la barra de herramientas de televentas, precios manuales y a la página **[Todos los pedidos](/es/docs/tutorials/todos-los-pedidos)**, el usuario debe estar registrado en la tienda con el rol de [Call center operator](/es/docs/tutorials/crear-usuario-de-televentas).
 
 Además, es necesario configurar estas funcionalidades de antemano, siguiendo los pasos del tutorial [Cómo configurar las funcionalidades de televentas](/es/docs/tutorials/como-configurar-las-funcionalidades-de-televentas).
 

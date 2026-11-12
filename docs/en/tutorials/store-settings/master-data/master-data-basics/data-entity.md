@@ -18,11 +18,11 @@ For example, imagine a system that controls a library. This system controls book
 
 With these concepts in mind, you can set up several data control scenarios in Master Data. By default, the following data entities are considered: customer, address, stores, etc. You can create as many data entities as you want to develop a customized environment tailored to your store's needs.
 
-> ℹ️ Data entities created by your operation are considered custom entities and are subject to a monthly charge. Learn more in [Custom data entities](/docs/tutorials/master-data).
+> ℹ️ Data entities created by your operation are considered custom entities and are subject to a monthly charge. Learn more in [Custom data entities](/en/docs/tutorials/master-data).
 
 > ⚠️ This article outlines the Master Data v1 operation. You should evaluate which Master Data version meets your needs or is in use in your operation. Learn more: <ul> <li>[Master Data version features](/en/docs/tutorials/master-data#available-versions)</li> <li>[Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics)</li> </ul>
 
-> ⚠️ Deleting a data entity through the Master Data v1 interface **doesn't** remove the documents (records) already stored. The billed volume remains unchanged until the records are removed via the API. To delete documents and reduce billing, see the [Deleting documents in bulk in Master Data](https://developers.vtex.com/docs/guides/deleting-documents-in-bulk-in-master-data) guide on the developer portal. See the [guide to fix](/docs/tutorials/master-data-billing-did-not-decrease-after-deleting-a-data-entity) this issue.
+> ⚠️ Deleting a data entity through the Master Data v1 interface **doesn't** remove the documents (records) already stored. The billed volume remains unchanged until the records are removed via the API. To delete documents and reduce billing, see the [Deleting documents in bulk in Master Data](https://developers.vtex.com/docs/guides/deleting-documents-in-bulk-in-master-data) guide on the developer portal. See the [guide to fix](/en/troubleshooting/master-data-billing-did-not-decrease-after-deleting-a-data-entity) this issue.
 
 ## Data types
 

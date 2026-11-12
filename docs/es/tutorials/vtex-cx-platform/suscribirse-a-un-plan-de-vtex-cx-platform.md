@@ -11,7 +11,7 @@ seeAlso:
     - /en/docs/tutorials/whatsapp-business-api-pricing
 ---
 
-Las tiendas elegibles pueden elegir y suscribirse a un plan estándar de [VTEX CX Platform](https://help.vtex.com/en/docs/tutorials/vtex-cx-platform-overview) desde el Admin VTEX. Los planes se basan en el volumen mensual de conversaciones.
+Las tiendas elegibles pueden elegir y suscribirse a un plan estándar de [VTEX CX Platform](https://help.vtex.com/es/docs/tutorials/vtex-cx-platform-vision-de-conjunto) desde el Admin VTEX. Los planes se basan en el volumen mensual de conversaciones.
 
 ## Prerrequisitos
 
@@ -41,4 +41,4 @@ Después de confirmar, el plan se activa automáticamente y el proyecto pasa de 
 
 Una vez que el plan está activo, la pantalla de uso muestra cuánto del paquete mensual de conversaciones ha utilizado tu proyecto. Las conversaciones que superan el volumen contratado se cobran por separado.
 
-Los costos de las plantillas de WhatsApp no están incluidos en el paquete de conversaciones. Para saber cómo WhatsApp cobra las conversaciones, consulta [WhatsApp business API pricing](https://help.vtex.com/en/docs/tutorials/whatsapp-business-api-pricing).
+Los costos de las plantillas de WhatsApp no están incluidos en el paquete de conversaciones. Para saber cómo WhatsApp cobra las conversaciones, consulta [WhatsApp business API pricing](https://help.vtex.com/es/docs/tutorials/precificacion-de-whatsapp-business-api).

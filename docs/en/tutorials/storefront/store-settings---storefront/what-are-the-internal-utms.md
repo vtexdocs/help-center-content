@@ -41,5 +41,5 @@ They can be found inside the `marketingData` node.
 
 ### Related articles
 
-- [What are utm_source, utm_campaign and utm_medium](/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium)
+- [What are utm_source, utm_campaign and utm_medium](/en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium)
 - [Creating a coupon](/en/docs/tutorials/creating-a-coupon-beta)

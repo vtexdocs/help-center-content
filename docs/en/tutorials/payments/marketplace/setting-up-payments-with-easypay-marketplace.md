@@ -231,4 +231,4 @@ To configure the payment methods that easypay will process, read the [Configurin
 To set special conditions for payment methods, read [Configuring payment special conditions](/en/docs/tutorials/special-conditions).
 
 After following the instructions, it can take up to 10 minutes for the easypay connector to be displayed as a payment option at your store checkout.  
-(https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
+(https://help.vtex.com/en/docs/tutorials/special-conditions#).

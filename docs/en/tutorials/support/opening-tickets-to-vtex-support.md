@@ -178,7 +178,7 @@ To request billing support, follow these steps:
 
 Sales support assists the user with requests related to [additional environments](/en/docs/tutorials/requesting-a-new-environment), [white-label sellers](/en/docs/tutorials/white-label-seller), or [user changes](/en/docs/tutorials/managing-admin-users) with the Sponsor user role (Master Admin user).
 
-> ℹ️ Creating a [sales channel](/en/docs/tutorials/how-trade-policies-work) doesn't depend on a ticket: you can create a sales channel directly through the VTEX Admin. Learn more in [Creating a sales channel](https://help.vtex.com/docs/tutorials/creating-a-trade-policy).
+> ℹ️ Creating a [sales channel](/en/docs/tutorials/how-trade-policies-work) doesn't depend on a ticket: you can create a sales channel directly through the VTEX Admin. Learn more in [Creating a sales channel](https://help.vtex.com/en/docs/tutorials/creating-a-trade-policy).
 
 To request this type of support, follow the steps below:
 
@@ -204,4 +204,4 @@ Possible ticket statuses are:
 - **Solved:** The ticket has been solved by the support agent or the user. The user has 27 working hours to reopen the ticket by replying to the support email or accessing the **Ticket history**. Otherwise, the ticket will be closed.
 - **Closed:** The ticket has been solved and marked as closed automatically after 27 working hours without further interaction. Closed tickets can't be reopened.
 
-Once the ticket is solved, the support team will email you a link to a [satisfaction survey](https://help.vtex.com/announcements/2022-01-13-rate-vtexs-service-in-your-admin). This survey allows you to evaluate the service without leaving the VTEX environment and helps us continuously improve our support.
+Once the ticket is solved, the support team will email you a link to a [satisfaction survey](https://help.vtex.com/en/announcements/2022-01-13-rate-vtexs-service-in-your-admin). This survey allows you to evaluate the service without leaving the VTEX environment and helps us continuously improve our support.

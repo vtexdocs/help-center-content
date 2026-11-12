@@ -28,7 +28,7 @@ Para saber qué datos deben intercambiar los _sellers_ y los _marketplaces_, con
 
 ## Definir la política comercial
 
-En VTEX, la [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) agrupa configuraciones de catálogo, precios, promociones, logística, segmentación de clientes y pagos en un canal de venta. El _seller_ puede integrarse al _marketplace_ utilizando la política comercial predefinida de su tienda o también puede definir configuraciones específicas para la integración mediante la configuración de una [política comercial para el marketplace](/es/tutorial/configurando-a-politica-comercial-para-marketplace/).
+En VTEX, la [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) agrupa configuraciones de catálogo, precios, promociones, logística, segmentación de clientes y pagos en un canal de venta. El _seller_ puede integrarse al _marketplace_ utilizando la política comercial predefinida de su tienda o también puede definir configuraciones específicas para la integración mediante la configuración de una [política comercial para el marketplace](/es/docs/tutorials/configurar-politica-comercial-para-marketplace).
 
 > ℹ️ Se puede usar una misma política comercial para integrarla con varios *marketplaces*. La [contratación de una política comercial adicional](/es/docs/tutorials/contratacion-de-politicas-comerciales-adicionales) para integrarse con un [conector nativo](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-conector-nativo-vtex), un conector certificado (partner) u otras tiendas VTEX es gratuita.
 
@@ -48,7 +48,7 @@ El _seller_ debe seguir los pasos que se indican en el artículo [Configurar afi
 
 Después que el _seller_ envía sus productos, el _marketplace_ debe [mapear las categorías, marcas y especificaciones](/es/docs/tutorials/mapeo-de-categorias-y-marcas-para-marketplace) de los productos del _seller_ de manera tal que se genere una correspondencia entre su propia estructura de catálogo y el catálogo del _seller_.
 
-Tras el mapeo, el _marketplace_ debe [catalogar los SKU](/es/tutorial/sugerindo-e-aprovando-skus/) del _seller_. Esta es la última etapa para que los productos del _seller_ queden a disposición de los consumidores en el _marketplace_.
+Tras el mapeo, el _marketplace_ debe [catalogar los SKU](/es/docs/tutorials/catalogacion-manual-de-skus) del _seller_. Esta es la última etapa para que los productos del _seller_ queden a disposición de los consumidores en el _marketplace_.
 
 ## Sepa más
 

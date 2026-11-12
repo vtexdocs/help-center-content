@@ -37,7 +37,7 @@ Every time a customer changes something in the cart (adds or removes items), or 
 
 ![Checkout overview](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/checkout-vtex-overview_1.png)
 
-> ℹ️ If one or more items selected by the customer are eligible for delivery by a [Seller white label](/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#), the seller responsible for delivering the items will be chosen based on shipping simulations, as shown in the right side of the picture. Learn more in [Selecting white label sellers](/en/tutorial/white-label-sellers-selection--3MemNQ4pKkWCpMdzI27AHa#).
+> ℹ️ If one or more items selected by the customer are eligible for delivery by a [Seller white label](/en/docs/tutorials/white-label-seller#), the seller responsible for delivering the items will be chosen based on shipping simulations, as shown in the right side of the picture. Learn more in [Selecting white label sellers](/en/tutorial/white-label-sellers-selection--3MemNQ4pKkWCpMdzI27AHa#).
 
 ## VTEX Checkout features
 

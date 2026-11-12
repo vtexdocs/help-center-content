@@ -19,7 +19,7 @@ Caso seja necessário, é possível gerar um [cupom](/pt/tutorial/como-criar-cup
 
 O mais comum é que esse valor seja relativo a duas quantias: o preço nominal do produto e o frete. 
 
-Por conta disso, é preciso criar duas [promoções regulares](/pt/tutorial/promocao-regular) relacionadas ao mesmo cupom:
+Por conta disso, é preciso criar duas [promoções regulares](/pt/docs/tutorials/promocao-regular-pt) relacionadas ao mesmo cupom:
 
 - Uma promoção de frete grátis.
 - Uma promoção de desconto de valor nominal.

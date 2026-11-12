@@ -114,7 +114,7 @@ After creating a custom agent or choosing a template, the setup is complete. To 
 
 > ℹ️ After creating the organization and the project, add your team by configuring permissions. People added to the organization will have access to all projects created within the organization. To learn more, see the [Permission system](#permission-system) section.
 
-To learn how to add or manage organization or project members, go to the article [Managing VTEX CX Platform members](https://help.vtex.com/docs/tutorials/managing-vtex-cx-platform-members).
+To learn how to add or manage organization or project members, go to the article [Managing VTEX CX Platform members](https://help.vtex.com/en/docs/tutorials/managing-vtex-cx-platform-members).
 
 ## Changing the platform language
 

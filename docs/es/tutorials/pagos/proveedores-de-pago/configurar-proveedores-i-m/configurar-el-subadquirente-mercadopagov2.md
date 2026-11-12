@@ -51,6 +51,6 @@ Para establecer condiciones especiales en los métodos de pago, acceda al [Confi
 
 ## Configurar métodos de pago únicos
 
-Para saber cómo configurar métodos de pago exclusivos de pagamento do Mercado Pago,  acceda a [configurar Mercado Pago Offline y Wallet como métodos de pago](/es/tutorial/configurar-mercado-pago-offline-e-wallet-como-metodos-de-pagamentos).
+Para saber cómo configurar métodos de pago exclusivos de pagamento do Mercado Pago,  acceda a [configurar Mercado Pago Offline y Wallet como métodos de pago](/es/docs/tutorials/configurar-mercado-pago-offline-y-wallet-como-metodos-de-pago).
 
 Para más información sobre la integración con Mercado Pago, acceda al [DevSite Mercado Pago](https://www.mercadopago.com.br/developers/es/guides/plugins/unofficial/vtex/gateway-affiliations).

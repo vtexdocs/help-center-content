@@ -15,7 +15,7 @@ trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 6
 ---
 
-After configuring the [VTEX Sales App basic settings](https://help.vtex.com/docs/tracks/vtex-sales-app-basic-settings), you can add sales associates to the system or manage the existing ones in the VTEX Admin.
+After configuring the [VTEX Sales App basic settings](https://help.vtex.com/en/docs/tracks/vtex-sales-app-basic-settings), you can add sales associates to the system or manage the existing ones in the VTEX Admin.
 
 On the VTEX Admin **Store Settings** page, there is a **Sales associates** category that displays a list of the sales associates added to your **VTEX Sales App**. It allows you to manage sales associate information across all [franchise accounts](/en/docs/tutorials/what-is-a-franchise-account) of your store, enabling you to [add](#adding-sales-associate), [search](#searching-for-sales-associate), [filter](#filtering-sales-associates), [edit](#editing-sales-associate-information), and [inactivate](#inactivating-sales-associate) them.
 

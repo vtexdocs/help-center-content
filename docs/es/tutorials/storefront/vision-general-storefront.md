@@ -24,7 +24,7 @@ A continuación, encontrarás las diferentes secciones disponibles en este menú
 
 ## CMS para FastStore y Headless Stores
 
-Disponible para tiendas FastStore (v3 y versiones posteriores) y Headless Stores, el CMS ofrece a los comerciantes la flexibilidad y el control necesarios para gestionar y estructurar de forma independiente el contenido del storefront, incluyendo páginas, layouts, plantillas, branches y medios. Para más información, consulta [CMS](/es/docs/tutorials/cms-overview).
+Disponible para tiendas FastStore (v3 y versiones posteriores) y Headless Stores, el CMS ofrece a los comerciantes la flexibilidad y el control necesarios para gestionar y estructurar de forma independiente el contenido del storefront, incluyendo páginas, layouts, plantillas, branches y medios. Para más información, consulta [CMS](/es/docs/tutorials/cms-informacion-general).
 
 ## CMS para Store Framework
 
@@ -41,8 +41,8 @@ CMS Portal (Legado) es la interfaz original de gestión de contenidos, disponibl
 
 ## Headless CMS (Legado)
 
-Disponible para tiendas FastStore (v1 y v2) y Headless Stores que aún no migraron al nuevo CMS, Headless CMS (Legado) te permite gestionar el contenido de forma independiente del frontend que lo muestra, mediante Projects, Pages y Singleton content types. Para más información, consulta [Headless CMS (Legado)](/es/docs/tutorials/headless-cms-visao-geral).
+Disponible para tiendas FastStore (v1 y v2) y Headless Stores que aún no migraron al nuevo CMS, Headless CMS (Legado) te permite gestionar el contenido de forma independiente del frontend que lo muestra, mediante Projects, Pages y Singleton content types. Para más información, consulta [Headless CMS (Legado)](/es/docs/tutorials/headless-cms-vision-general).
 
 ## Agentic CX
 
-[VTEX CX Platform](/es/docs/tutorials/introduccion-a-weni-agentic-ai) es una herramienta nativa de atención al cliente que utiliza agentes con inteligencia artificial para interactuar con tus clientes, como mostrar el catálogo de tu tienda, crear carritos y recuperar carritos abandonados.
+[VTEX CX Platform](/es/docs/tutorials/introduccion-a-cx) es una herramienta nativa de atención al cliente que utiliza agentes con inteligencia artificial para interactuar con tus clientes, como mostrar el catálogo de tu tienda, crear carritos y recuperar carritos abandonados.

@@ -112,7 +112,7 @@ Todos los ajustes se realizan dentro de la plataforma de Mercado Libre.
 
 [Mercado Envíos Full](https://envios.mercadolibre.com.ar/mercado-envios-full) es un servicio ofrecido por Mercado Libre en el que el almacenaje y el envío de los productos al consumidor final está bajo la responsabilidad del Mercado Libre. Cada vez que se completa una venta, los productos comprados se separan, embalan y envían en un plazo de 24 horas.
 
-Puede integrar este servicio a su tienda a través del [registro de un stock](/es/tutorial/gerenciar-estoque) destinado exclusivamente para Mercado Envíos Full. Esa integración permite hacer seguimiento al nivel del stock, ya que la cantidad de productos se actualiza automáticamente a medida que se realizan las ventas mediante Mercado Libre Full.
+Puede integrar este servicio a su tienda a través del [registro de un stock](/es/docs/tutorials/gestionar-almacenes) destinado exclusivamente para Mercado Envíos Full. Esa integración permite hacer seguimiento al nivel del stock, ya que la cantidad de productos se actualiza automáticamente a medida que se realizan las ventas mediante Mercado Libre Full.
 
 > ❗ Si el vendedor elige el modelo logístico **Mercado Envíos Full**, es necesario seguir el siguiente orden de configuración: <ol>[Configurar modelo de envío](#configurando-el-modelo-de-envio) <br>[Configurar Mercado Envíos Full](#configurar-mercado-envios-full)</br></ol>
 
@@ -121,7 +121,7 @@ Puede integrar este servicio a su tienda a través del [registro de un stock](/e
 Para configurar, realice los siguientes pasos: 
 
 1. En el Admin VTEX, accede a **Envío > Estrategia de Envío > Almacenes**, o escribe *Estrategia de Envío* en la barra de búsqueda en la parte superior de la página, y haz clic en *Almacenes*.  
-2. [Registra](/es/tutorial/gerenciar-estoque) un stock.   
+2. [Registra](/es/docs/tutorials/gestionar-almacenes) un stock.   
 3. Seleccione la pestaña **Almacenes** y copie el ID del stock que desea utilizar.  
 4. Accede en **Marketplace > Marketplace e Integraciones.**
 3. Haz clic en la integracion con Mercado Libre y seleccione la opción `Editar configuración`.  

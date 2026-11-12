@@ -31,7 +31,7 @@ Los casos de uso más frecuentes de **Sales App** son:
 - **Servicio al cliente remoto:** los vendedores usan Sales App para cerrar ventas asistidas por canales digitales.
 - **Eventos y tiendas pop-up:** Sales App se puede llevar a donde esté el cliente, como en ferias o kioscos temporales.
 
-> ℹ️ Si tienes un caso de uso específico o quieres ampliar tus ventas asistidas, abre un ticket con el [Soporte VTEX](https://help.vtex.com/support). Nuestro equipo te ayudará a entender cómo **Sales App** puede responder a las necesidades de tu negocio.
+> ℹ️ Si tienes un caso de uso específico o quieres ampliar tus ventas asistidas, abre un ticket con el [Soporte VTEX](https://help.vtex.com/es/support). Nuestro equipo te ayudará a entender cómo **Sales App** puede responder a las necesidades de tu negocio.
 
 ### Extensibilidad en Sales App
 

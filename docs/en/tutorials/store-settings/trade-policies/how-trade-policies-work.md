@@ -55,7 +55,7 @@ When you create a payment condition, you can restrict its availability in certai
 When you create different payment conditions for the same product, the checkout system will select the most suitable option according to the audience. If there are no restrictions, the sales channel will be applied to all sales channels. Learn more about how to configure [payments](/en/docs/tracks/payments). 
 
 ## Master data
-You can limit access to the store to specific audiences, for example, a B2B site where only registered companies can browse, or a site that has an exclusive area for certain customers. This can be set by creating a [customer cluster in Master Data](/en/tutorial/como-criar-um-cluster-de-clientes) or via sales channel. Learn more about [Master Data](/en/docs/tutorials/master-data) settings. 
+You can limit access to the store to specific audiences, for example, a B2B site where only registered companies can browse, or a site that has an exclusive area for certain customers. This can be set by creating a [customer cluster in Master Data](/en/docs/tutorials/how-can-i-create-cluster-of-customers) or via sales channel. Learn more about [Master Data](/en/docs/tutorials/master-data) settings. 
 
 ## Account management
 

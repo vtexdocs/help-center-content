@@ -56,6 +56,6 @@ El cuerpo del panel muestra la conversación completa, en el orden en que ocurri
 
 ## Consultar los logs de un mensaje
 
-En los mensajes enviados por el agente de IA, puedes consultar los registros técnicos que explican cómo se generó esa respuesta. Los logs ayudan a entender el razonamiento y las acciones del agente detrás de cada respuesta, si buscó información en la [base de conocimiento](https://help.vtex.com/es/docs/tutorials/visao-geral-agent-builder#base-de-conhecimento), si buscó a ese cliente entre los contactos existentes, entre otras acciones.
+En los mensajes enviados por el agente de IA, puedes consultar los registros técnicos que explican cómo se generó esa respuesta. Los logs ayudan a entender el razonamiento y las acciones del agente detrás de cada respuesta, si buscó información en la [base de conocimiento](https://help.vtex.com/es/docs/tutorials/informacion-general-de-agent-builder#base-de-conhecimento), si buscó a ese cliente entre los contactos existentes, entre otras acciones.
 
 Para consultar los logs, haz clic en `Mostrar logs` en el mensaje deseado.

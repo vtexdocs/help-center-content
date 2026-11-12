@@ -67,7 +67,7 @@ It collects data about customer behavior and compares it with suspicious pattern
 
 On VTEX, the payment operator approves the purchase first, and the anti-fraud solution then evaluates the order. If the order is approved, it follows its normal flow. Examples of anti-fraud solutions include ClearSale and Konduto.
 
-To enable an anti-fraud solution in your store, see [Configuring the anti-fraud](https://help.vtex.com/docs/tutorials/how-to-configure-the-anti-fraud).
+To enable an anti-fraud solution in your store, see [Configuring the anti-fraud](https://help.vtex.com/en/docs/tutorials/how-to-configure-the-anti-fraud).
 
 ## Payment flow sequence
 
@@ -86,7 +86,7 @@ The following sequence describes the credit card flow:
 
 The flow formed by the gateway, acquirer, card network, and issuing bank doesn't apply to all payment methods. In Brazil, for example:
 
-- **Registered boleto:** The flow doesn't have an acquirer or a card network. The gateway requests the boleto registration from the bank, which issues the invoice and sends the information back to the gateway. After the customer pays the boleto directly to the bank, the bank sends the gateway the bank reconciliation files with the payment status. See [Registered Ticket - Basic payment flow](https://help.vtex.com/docs/tutorials/registered-ticket-flow).
+- **Registered boleto:** The flow doesn't have an acquirer or a card network. The gateway requests the boleto registration from the bank, which issues the invoice and sends the information back to the gateway. After the customer pays the boleto directly to the bank, the bank sends the gateway the bank reconciliation files with the payment status. See [Registered Ticket - Basic payment flow](https://help.vtex.com/en/docs/tutorials/registered-ticket-flow).
 - **Pix:** Processing depends on a payment partner integrated with VTEX, such as a bank, acquirer, or gateway. At checkout, this partner sends the QR code via the API, and VTEX displays it for the customer to complete the transaction with their financial institution. See [Pix: FAQ](/en/docs/tutorials/pix-faq).
 
 > ℹ️ The choice of agents and payment methods depends on your operation's needs. Evaluate your business's variables before defining your store's financial flow.
@@ -95,4 +95,4 @@ The flow formed by the gateway, acquirer, card network, and issuing bank doesn't
 
 - [Register payment and anti-fraud providers](/en/docs/tutorials/registering-gateway-affiliations)
 - [Configuring payment conditions](/en/docs/tutorials/how-to-configure-payment-conditions)
-- [Configuring the anti-fraud](https://help.vtex.com/docs/tutorials/how-to-configure-the-anti-fraud)
+- [Configuring the anti-fraud](https://help.vtex.com/en/docs/tutorials/how-to-configure-the-anti-fraud)

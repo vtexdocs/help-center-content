@@ -101,7 +101,7 @@ Once the Stripe connector is configured, you can add Apple Pay by following the 
 16. In the __Process with affiliation__ field, select the Stripe option.
 17. If you have an anti-fraud set up in your store, you can enable it for that payment condition by checking the __Use anti-fraud solution__ box.
 18. Choose whether payments will be with or without installments.
-19. It you want, you can also [configure special payment conditions](/en/tutorial/condicoes-especiais).
+19. It you want, you can also [configure special payment conditions](/en/docs/tutorials/special-conditions).
 20. Click on __Save__.
 
 After this configuration, Apple Pay will be displayed as one of the available payment methods in your store’s checkout.

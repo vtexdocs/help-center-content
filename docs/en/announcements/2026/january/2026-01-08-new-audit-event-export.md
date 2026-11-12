@@ -33,4 +33,4 @@ This new Audit feature was developed to:
 
 ## What needs to be done?
 
-The feature is available to all VTEX accounts. For more information on how to export Audit events, see the [Exporting results](https://help.vtex.com/docs/tutorials/audit#exporting-results) section of the [Audit](https://help.vtex.com/en/docs/tutorials/audit) article.
+The feature is available to all VTEX accounts. For more information on how to export Audit events, see the [Exporting results](https://help.vtex.com/en/docs/tutorials/audit#exporting-results) section of the [Audit](https://help.vtex.com/en/docs/tutorials/audit) article.

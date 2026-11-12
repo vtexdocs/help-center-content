@@ -8,7 +8,7 @@ slugEN: shopping-assistant-suggested-questions
 locale: en
 ---
 
-**Suggested questions** are the entry point for the store Shopping Assistant in the [VTEX CX Platform](https://help.vtex.com/docs/tutorials/vtex-cx-platform-overview). On the product page, the chat displays up to 3 prewritten questions about the product. When the customer clicks one of them, the chat opens and the question is sent as if they had typed it themselves, starting the conversation with a clear intent instead of an empty chat.
+**Suggested questions** are the entry point for the store Shopping Assistant in the [VTEX CX Platform](https://help.vtex.com/en/docs/tutorials/vtex-cx-platform-overview). On the product page, the chat displays up to 3 prewritten questions about the product. When the customer clicks one of them, the chat opens and the question is sent as if they had typed it themselves, starting the conversation with a clear intent instead of an empty chat.
 
 In this article, you'll learn what suggested questions are, where they appear, how they're generated, what influences their quality, and how to enable or disable them in the VTEX CX Admin.
 
@@ -39,7 +39,7 @@ When using this feature, keep the following behaviors in mind:
 
 ## Activation
 
-Suggested questions are enabled by default. Accounts set up through [VTEX CX onboarding](https://help.vtex.com/docs/tutorials/introduction-to-cx) already have Shopping Assistant and suggested questions configured, so no action is needed to start using the feature.
+Suggested questions are enabled by default. Accounts set up through [VTEX CX onboarding](https://help.vtex.com/en/docs/tutorials/introduction-to-cx) already have Shopping Assistant and suggested questions configured, so no action is needed to start using the feature.
 
 ## Activating or deactivating suggested questions
 

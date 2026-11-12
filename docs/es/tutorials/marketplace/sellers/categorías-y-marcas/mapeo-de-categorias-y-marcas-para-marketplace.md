@@ -77,7 +77,7 @@ con las categorías que ya existen en el marketplace. Una vez completado el mape
 
 ## Mapeo de marcas
 
-Después de que el seller complete el [envío de productos al Marketplace](/es/tutorial/entendendo-a-catalogacao-de-produtos-para-o-marketplace), este último debe hacer el mapeo de las marcas. La correspondencia entre las marcas del marketplace y las marcas del seller se realiza mediante una plantilla. 
+Después de que el seller complete el [envío de productos al Marketplace](/es/docs/tutorials/catalogacion-de-productos-para-marketplace), este último debe hacer el mapeo de las marcas. La correspondencia entre las marcas del marketplace y las marcas del seller se realiza mediante una plantilla. 
 
 ### Rellenando la plantilla
 Puede descargar el modelo de plantilla actualizado desde el botón Descargar la tabla actual en el seller agregado, en la página «Categorías y marcas». La plantilla contiene las siguientes columnas:  
@@ -119,7 +119,7 @@ Observe que no todas las marcas del marketplace coinciden en este caso. Esto var
 
 ## Mapeo de especificaciones
 
-Las especificaciones son propiedades adicionales que se pueden registrar en los productos o los SKU de su tienda. Después de que el seller complete el [envío de productos](/es/tutorial/entendendo-a-catalogacao-de-produtos-para-o-marketplace), las especificaciones de los productos y de los SKU deben ser mapeadas en el marketplace. El mapeo se realiza manualmente, en la página de «Categorías y Marcas», para señalar las equivalencias entre los campos del marketplace y el seller.
+Las especificaciones son propiedades adicionales que se pueden registrar en los productos o los SKU de su tienda. Después de que el seller complete el [envío de productos](/es/docs/tutorials/catalogacion-de-productos-para-marketplace), las especificaciones de los productos y de los SKU deben ser mapeadas en el marketplace. El mapeo se realiza manualmente, en la página de «Categorías y Marcas», para señalar las equivalencias entre los campos del marketplace y el seller.
 
 Cuando un *seller* envía un producto con una especificación que no ha sido mapeada por el *marketplace* y el *marketplace* [aprueba](/es/docs/tutorials/catalogacion-manual-de-skus) este producto, se crea un nuevo SKU, aunque ya existe un SKU en el catálogo del marketplace con el que asociarlo. La especificación no mapeada (por ejemplo, color) o su valor (por ejemplo, amarillo) se registrará como un **atributo no estructurado** en el catálogo del *marketplace*, pero **no aparecerá en el storefront del marketplace**. Por lo tanto, es necesario mapear todas las especificaciones y sus valores para que sean visibles para los compradores. Puedes ver los atributos no estructurados en tu Admin. Ve a *Catálogo > Productos y SKU > elige un ítem de la lista > haz clic en la pestaña Especificaciones*.
 
@@ -146,7 +146,7 @@ Mapearemos las especificaciones del seller asociando las especificaciones que ya
 
 ### Especificaciones y aprobación de los SKU recibidos
 
-El mapeo de especificaciones se aplica en el sitio del marketplace de diferentes maneras, dependiendo de la acción realizada en el módulo [SKU Recibidos](/es/tutorial/sugerindo-e-aprovando-skus/), al aprobar los SKU del seller:
+El mapeo de especificaciones se aplica en el sitio del marketplace de diferentes maneras, dependiendo de la acción realizada en el módulo [SKU Recibidos](/es/docs/tutorials/catalogacion-manual-de-skus), al aprobar los SKU del seller:
 
 - __Asociar a un SKU existente:__ el sistema del marketplace ignora el mapeo de especificaciones porque el SKU ya existe en el marketplace con las mismas especificaciones.  
 - __Asociar a un producto existente:__ el mapeo solo se considera para las especificaciones de SKU. Esto se debe a que las especificaciones del producto ya están presentes en el marketplace.  
@@ -154,7 +154,7 @@ El mapeo de especificaciones se aplica en el sitio del marketplace de diferentes
 
 ## Sepa más
 
-- [Aprobar productos](/es/tutorial/sugerindo-e-aprovando-skus/)    
+- [Aprobar productos](/es/docs/tutorials/catalogacion-manual-de-skus)    
 - [Crear política comercial](/es/docs/tutorials/crear-una-politica-comercial)    
 - [Política comercial para marketplaces](/es/docs/tutorials/configurar-politica-comercial-para-marketplace)    
 

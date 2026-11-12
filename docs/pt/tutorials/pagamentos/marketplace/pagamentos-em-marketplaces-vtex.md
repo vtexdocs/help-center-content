@@ -25,7 +25,7 @@ Confira abaixo as opções para Split de pagamentos e as configurações necess�
 
 Pedidos realizados em um marketplace podem conter itens de múltiplos sellers, que são pagos numa experiência unificada de checkout no _storefront_ (frente da loja) do marketplace. A VTEX oferece a solução [Split de pagamentos](/pt/docs/tutorials/split-de-pagamento) para que a divisão do valor de um pedido seja feita automaticamente, com base nas comissões configuradas ao [Adicionar seller](/pt/docs/tutorials/adicionar-seller).
 
-Caso o seller seja o processador de pagamentos, ele deve operar sob as condições determinadas em nosso [Split de transação](/pt/tutorial/split-payment#split-de-transacao). Da mesma forma, se o marketplace VTEX processar pagamentos, deve seguir o fluxo de [Split de recebíveis](/pt/docs/tutorials/split-de-pagamento#split-de-recebiveis), ou realizar as suas transferências fora do ambiente da VTEX.
+Caso o seller seja o processador de pagamentos, ele deve operar sob as condições determinadas em nosso [Split de transação](/pt/docs/tutorials/split-de-pagamento#split-de-transacao). Da mesma forma, se o marketplace VTEX processar pagamentos, deve seguir o fluxo de [Split de recebíveis](/pt/docs/tutorials/split-de-pagamento#split-de-recebiveis), ou realizar as suas transferências fora do ambiente da VTEX.
 
 > ℹ️ Clientes VTEX no Brasil podem utilizar tanto o split de transação quanto o split de recebíveis. Já clientes VTEX em outros países devem utilizar somente o split de transação. Note que alguns países impõem restrições sobre o repasse de valores entre sellers e marketplaces. Informe-se sobre as restrições com as autoridades financeiras do seu país antes de construir sua arquitetura de pagamentos.
 

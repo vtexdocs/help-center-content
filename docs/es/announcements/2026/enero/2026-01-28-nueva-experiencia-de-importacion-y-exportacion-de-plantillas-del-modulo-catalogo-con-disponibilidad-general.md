@@ -37,6 +37,6 @@ No se requiere ninguna acción. Hasta el final de febrero de 2026, las tiendas V
 ### Documentación relacionada
 
 * [Importar y exportar productos y SKUs mediante plantilla](https://help.vtex.com/es/docs/tutorials/importar-e-exportar-produtos-e-skus-via-planilha-beta)
-* [Importar y exportar especificaciones de productos mediante plantilla](https://help.vtex.com/pt/docs/tutorials/importar-e-exportar-especificacoes-de-produtos-via-planilha-beta)
+* [Importar y exportar especificaciones de productos mediante plantilla](https://help.vtex.com/es/docs/tutorials/importar-e-exportar-especificacoes-de-produtos-via-planilha-beta)
 * [Importar y exportar especificaciones de SKUs mediante plantilla](https://help.vtex.com/es/docs/tutorials/importar-e-exportar-especificacoes-de-skus-via-planilha-beta)
 * [Importar y exportar imágenes de productos y SKUs mediante plantilla](https://help.vtex.com/es/docs/tutorials/importar-e-exportar-imagens-de-produtos-e-skus-via-planilha-beta)

@@ -25,7 +25,7 @@ Add a sales channel (trade policy)
 
 To add a new trade policy, access the VTEX Admin. Users with the Owner (admin) role can perform this action directly through the interface.
 
-For more information, see the article [Creating a sales channel (trade policy)](https://help.vtex.com/docs/tutorials/creating-a-trade-policy).
+For more information, see the article [Creating a sales channel (trade policy)](https://help.vtex.com/en/docs/tutorials/creating-a-trade-policy).
 
 ## Billing rules
 

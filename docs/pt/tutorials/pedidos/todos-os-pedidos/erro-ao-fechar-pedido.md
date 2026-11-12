@@ -19,6 +19,6 @@ Sempre que o usuário clica em fechar pedido, o checkout cria um novo pedido na 
 
 E como todo pedido tem, no mínimo, uma transação, também é possível encontrar essa transação em **Pedidos > Transações**. Por ser um cenário de erro, provavelmente já estará como transação cancelada.
 
-> ℹ️ A recomendação é para todo erro de pedido, o primeiro local a se consutar é o log das transações em **Pedidos > Transações**. Saiba mais em [Visualizar detalhes da transação em Pedidos](/pt/tutorial/how-to-view-the-orders-details).
+> ℹ️ A recomendação é para todo erro de pedido, o primeiro local a se consutar é o log das transações em **Pedidos > Transações**. Saiba mais em [Visualizar detalhes da transação em Pedidos](/pt/docs/tutorials/como-visualizar-detalhes-do-pedido).
 
 A mensagem de erro exibida para o cliente pode ser gerada por diferentes motivos. Desde erros internos, como falha em efetuar uma reserva de um item, até problemas com o cartão, como dados incompletos, ou mesmo uma resposta do gateway, como dados inseridos errados.

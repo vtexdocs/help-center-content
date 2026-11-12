@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 7ogirQ8NClawO2X6xdgCKc
 ---
 
-> ⚠️ This tutorial is only applicable to Legacy (CMS Portal) stores. For stores developed with [Store Framework](https://help.vtex.com/docs/tracks/frontend-implementation), see the [Product Images](https://developers.vtex.com/docs/apps/vtex.store-components/productimages) component documentation.
+> ⚠️ This tutorial is only applicable to Legacy (CMS Portal) stores. For stores developed with [Store Framework](https://help.vtex.com/en/docs/tracks/frontend-implementation), see the [Product Images](https://developers.vtex.com/docs/apps/vtex.store-components/productimages) component documentation.
 
 In your CMS Portal (Legacy) store, you can configure the following storefront display effects directly in the VTEX Admin:
 
@@ -24,11 +24,11 @@ In your CMS Portal (Legacy) store, you can configure the following storefront di
 
 ## Before you begin
 
-Before configuring zoom or thumbnails in your store, read the [Configuring file types](/docs/tutorials/configuring-file-types) article to learn how to configure file types.
+Before configuring zoom or thumbnails in your store, read the [Configuring file types](/en/docs/tutorials/configuring-file-types) article to learn how to configure file types.
 
 ## Configuring zoom
 
-For product zoom to work correctly in your **CMS Portal (Legacy)** store, configure the `Product - Zoom` type in **Store Settings > Storefront > Settings > File Types**. Learn more in [Configuring file types](/docs/tutorials/configuring-file-types).
+For product zoom to work correctly in your **CMS Portal (Legacy)** store, configure the `Product - Zoom` type in **Store Settings > Storefront > Settings > File Types**. Learn more in [Configuring file types](/en/docs/tutorials/configuring-file-types).
 
 By default, this type is usually **1000×1000** pixels, which means that:
 
@@ -48,7 +48,7 @@ Thumbnails (or _thumbs_) help pages load faster and make products easier to iden
 
 To do this, images are resized and compressed based on the CMS configuration. If the file size (in KB) is too low, compression may compromise the thumbnail's quality.
 
-For product thumbnails to be displayed with adequate quality in your **CMS Portal (Legacy)** store, configure the `Product - Thumb` type in **Store Settings > Storefront > Settings > File Types**. Learn more in [Configuring file types](/docs/tutorials/configuring-file-types).
+For product thumbnails to be displayed with adequate quality in your **CMS Portal (Legacy)** store, configure the `Product - Thumb` type in **Store Settings > Storefront > Settings > File Types**. Learn more in [Configuring file types](/en/docs/tutorials/configuring-file-types).
 
 The **Maximum size in KB** field of this type defines the compression threshold for thumbnails, which means that:
 

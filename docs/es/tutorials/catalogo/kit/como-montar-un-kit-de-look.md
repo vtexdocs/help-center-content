@@ -19,7 +19,7 @@ subcategoryId: 17Lkzo2rGBE1Bt7dXjE0tV
 
 Aprenda cómo configurar en VTEX un kit de look o Lookbook.
 
-Antes de hablar sobre el Kit de look es importante recordarle que debe crear un Kit. Para eso, acceda al artículo [Registrar kit](/es/tutorial/cadastrando-kit/).
+Antes de hablar sobre el Kit de look es importante recordarle que debe crear un Kit. Para eso, acceda al artículo [Registrar kit](/es/docs/tutorials/registrar-kit).
 
 La siguiente tabla presenta las características y contextos para el uso de kit o kit de look:
 

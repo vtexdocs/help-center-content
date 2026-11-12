@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Mercado Pago Pro is a payment solution from Mercado Pago’s [digital wallet](https://help.vtex.com/docs/tutorials/what-is-an-e-wallet) (ewallet). Before configuring the payment condition, you must ensure that the [MercadoPagoV2](https://help.vtex.com/docs/tutorials/setting-up-mercadopagov2-sub-acquirer) sub-acquirer is added to your store.
+Mercado Pago Pro is a payment solution from Mercado Pago’s [digital wallet](https://help.vtex.com/en/docs/tutorials/what-is-an-e-wallet) (ewallet). Before configuring the payment condition, you must ensure that the [MercadoPagoV2](https://help.vtex.com/en/docs/tutorials/setting-up-mercadopagov2-sub-acquirer) sub-acquirer is added to your store.
 
 ## Configuring the Mercado Pago Pro payment method
 

@@ -12,7 +12,7 @@ tags:
   - Storefront
 ---
 
-The new [VTEX CMS](https://help.vtex.com/docs/tutorials/cms-overview) is now available for early access. Introducing a modern, scalable content management system designed to help merchants create, collaborate, and distribute storefront content more efficiently and collaboratively.
+The new [VTEX CMS](https://help.vtex.com/en/docs/tutorials/cms-overview) is now available for early access. Introducing a modern, scalable content management system designed to help merchants create, collaborate, and distribute storefront content more efficiently and collaboratively.
 
 <table style="border-spacing: 0 12px; border-collapse: separate; width: 100%; max-width: 200px; margin: 0 auto;">
   <tbody>
@@ -75,6 +75,6 @@ Once CMS is available in your account, go to **Storefront \> Content** in VTEX A
 
 ## Learn more
 
-* [CMS for FastStore and Headless Stores](https://help.vtex.com/docs/tutorials/cms-overview)
+* [CMS for FastStore and Headless Stores](https://help.vtex.com/en/docs/tutorials/cms-overview)
 * [Getting started with CMS](https://developers.vtex.com/docs/guides/getting-started-with-cms)  
 * [Comparing Headless CMS (legacy) and CMS features](https://developers.vtex.com/docs/guides/comparing-headless-cms-legacy-and-cms-features)

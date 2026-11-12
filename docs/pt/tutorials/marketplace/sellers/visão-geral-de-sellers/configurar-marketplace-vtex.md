@@ -41,7 +41,7 @@ Sellers são as lojas donas do produto, e responsáveis pelo fulfillment dos ped
 - **Seller VTEX:** loja hospedada na plataforma VTEX.  
 - **Seller Externo:** loja hospedada em outra plataforma de ecommerce, ou que ainda não está hospedada em nenhuma plataforma.  
 
-Para adicionar sellers ao seu marketplace pelo Admin VTEX, siga as instruções em [Adicionar Seller](/pt/tutorial/configurando-seller/). Também é possível realizar esse processo por meio de integração de API. Para isso, siga as instruções em [External Seller Integration Guide](https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide). Se o seller que você deseja adicionar ainda não tem uma conta VTEX ou não está hospedado em nenhuma plataforma, sugerimos adicioná-lo por meio do [Seller Portal](#seller-portal--beta).
+Para adicionar sellers ao seu marketplace pelo Admin VTEX, siga as instruções em [Adicionar Seller](/pt/docs/tutorials/adicionar-seller). Também é possível realizar esse processo por meio de integração de API. Para isso, siga as instruções em [External Seller Integration Guide](https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide). Se o seller que você deseja adicionar ainda não tem uma conta VTEX ou não está hospedado em nenhuma plataforma, sugerimos adicioná-lo por meio do [Seller Portal](#seller-portal--beta).
 
 ### Seller Portal
 

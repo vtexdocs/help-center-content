@@ -34,4 +34,4 @@ Nesse caso, a plataforma entenderá que pelo fato do peso do produto ser maior d
 ## Para saber mais
 
 [Entenda como o peso cubado é calculado.](/pt/docs/tutorials/como-o-peso-cubado-e-calculado/)
-[Saiba como fazer a simulação de frete.](/pt/tutorial/simulacao-de-frete/)
+[Saiba como fazer a simulação de frete.](/pt/docs/tutorials/simulador-de-envio)

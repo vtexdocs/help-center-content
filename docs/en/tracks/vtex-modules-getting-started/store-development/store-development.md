@@ -19,7 +19,7 @@ Store development involves building and maintaining the customer-facing experien
 
 The storefront displays commerce data and allows customers to browse products, manage their accounts, and place orders. It communicates with backend services responsible for capabilities such as catalog, pricing, promotions, checkout, logistics, and orders.
 
-On VTEX, you can develop a storefront using [FastStore](https://developers.vtex.com/docs/guides/faststore), [Store Framework](https://developers.vtex.com/docs/guides/store-framework), or [CMS Portal (Legacy)](https://help.vtex.com/docs/tracks/legacy-cms-portal).
+On VTEX, you can develop a storefront using [FastStore](https://developers.vtex.com/docs/guides/faststore), [Store Framework](https://developers.vtex.com/docs/guides/store-framework), or [CMS Portal (Legacy)](https://help.vtex.com/en/docs/tracks/legacy-cms-portal).
 
 ## Storefront solutions
 
@@ -50,7 +50,7 @@ flowchart TB
 | --- | --- | --- |
 | [FastStore](https://developers.vtex.com/docs/guides/faststore) | Next.js, React, TypeScript, Node.js, and GraphQL | Developed in GitHub and deployed through FastStore WebOps |
 | [Store Framework](https://developers.vtex.com/docs/guides/store-framework) | VTEX IO apps, React, TypeScript, Node.js, and GraphQL | Developed and deployed through VTEX IO |
-| [CMS Portal (Legacy) - No longer available to newly created VTEX stores.](https://help.vtex.com/docs/tracks/legacy-cms-portal) | HTML, CSS, and JavaScript | Developed and managed through the VTEX Admin |
+| [CMS Portal (Legacy) - No longer available to newly created VTEX stores.](https://help.vtex.com/en/docs/tracks/legacy-cms-portal) | HTML, CSS, and JavaScript | Developed and managed through the VTEX Admin |
 
 To compare the three solutions in more detail, see [Getting started with storefront solutions](https://developers.vtex.com/docs/guides/getting-started-with-storefront-solutions).
 
@@ -58,7 +58,7 @@ To compare the three solutions in more detail, see [Getting started with storefr
 
 [FastStore](https://developers.vtex.com/docs/guides/faststore) is a toolkit for developing high-performance storefronts with [React](https://react.dev/) and [Next.js](https://nextjs.org/). It follows a [Jamstack](https://jamstack.org/) architecture in which pages can be pre-rendered and delivered through a content delivery network (CDN), while APIs provide dynamic commerce data and functionality.
 
-For FastStore storefronts, developers maintain the source code in GitHub and deploy the storefront through [FastStore WebOps](https://developers.vtex.com/docs/guides/faststore/webops-dashboard). Business users manage storefront content with [CMS](https://help.vtex.com/docs/tutorials/cms-overview).
+For FastStore storefronts, developers maintain the source code in GitHub and deploy the storefront through [FastStore WebOps](https://developers.vtex.com/docs/guides/faststore/webops-dashboard). Business users manage storefront content with [CMS](https://help.vtex.com/en/docs/tutorials/cms-overview).
 
 FastStore has multiple major versions with different support levels. FastStore v4 is the current version recommended for new storefront implementations. For more information, see [FastStore versions and support levels](https://developers.vtex.com/docs/guides/faststore/getting-started-faststore-versions-and-support-levels).
 
@@ -66,13 +66,13 @@ FastStore has multiple major versions with different support levels. FastStore v
 
 [Store Framework](https://developers.vtex.com/docs/guides/store-framework) is a frontend development framework based on React and the VTEX IO Development Platform. Developers build storefronts by composing native and custom VTEX IO apps in a store theme.
 
-Because Store Framework runs on VTEX IO, developers can use capabilities such as development and production workspaces, A/B testing, and managed cloud infrastructure. Business users manage storefront content through the [Site Editor](https://help.vtex.com/docs/tutorials/site-editor-overview).
+Because Store Framework runs on VTEX IO, developers can use capabilities such as development and production workspaces, A/B testing, and managed cloud infrastructure. Business users manage storefront content through the [Site Editor](https://help.vtex.com/en/docs/tutorials/site-editor-overview).
 
 ### CMS Portal (Legacy)
 
-[CMS Portal (Legacy)](https://help.vtex.com/docs/tracks/legacy-cms-portal) is VTEX's original storefront development and content-management solution. Developers create HTML templates and use CSS, JavaScript, and VTEX native controls to render commerce data, with code managed directly through the VTEX Admin.
+[CMS Portal (Legacy)](https://help.vtex.com/en/docs/tracks/legacy-cms-portal) is VTEX's original storefront development and content-management solution. Developers create HTML templates and use CSS, JavaScript, and VTEX native controls to render commerce data, with code managed directly through the VTEX Admin.
 
-> ⚠️ CMS Portal (Legacy) is no longer available to newly created VTEX stores. For guidance on migrating an existing storefront to FastStore, contact [VTEX Support Team](https://help.vtex.com/support).
+> ⚠️ CMS Portal (Legacy) is no longer available to newly created VTEX stores. For guidance on migrating an existing storefront to FastStore, contact [VTEX Support Team](https://help.vtex.com/en/support).
 
 ## Backend development and integrations
 
@@ -108,4 +108,4 @@ The storefront features available in the VTEX Admin depend on the selected techn
 
 - [Storefront Development](https://developers.vtex.com/docs/storefront-development): Explore the complete developer documentation for VTEX storefront solutions.
 - [Getting started with storefront solutions](https://developers.vtex.com/docs/guides/getting-started-with-storefront-solutions): Compare the capabilities and development experience of each solution.
-- [Frontend implementation](https://help.vtex.com/docs/tracks/frontend-implementation): Learn about the steps involved in implementing a storefront project.
+- [Frontend implementation](https://help.vtex.com/en/docs/tracks/frontend-implementation): Learn about the steps involved in implementing a storefront project.

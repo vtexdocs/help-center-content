@@ -12,11 +12,11 @@ tags:
   - Audit
 ---
 
-We've expanded the list of events recorded by [Audit](https://help.vtex.com/docs/tutorials/audit), a VTEX Admin module that stores the history of actions performed in different applications. The new features cover the **VTEX ID**, **Master Data**, **Orders**, and **Gift Cards** applications.
+We've expanded the list of events recorded by [Audit](https://help.vtex.com/en/docs/tutorials/audit), a VTEX Admin module that stores the history of actions performed in different applications. The new features cover the **VTEX ID**, **Master Data**, **Orders**, and **Gift Cards** applications.
 
 ## What has changed?
 
-The list of [events available in Audit](https://help.vtex.com/docs/tutorials/events-available-in-audit) now includes the following records:
+The list of [events available in Audit](https://help.vtex.com/en/docs/tutorials/events-available-in-audit) now includes the following records:
 
 ### VTEX ID
 
@@ -55,8 +55,8 @@ The list of [events available in Audit](https://help.vtex.com/docs/tutorials/eve
 | CREATE_GIFT_CARD_SETTLEMENT | Gift card settlement record. | Gift card ID. |
 | INSERT_GIFT_CARD_CREDITS | Added credit to gift card. | Gift card ID. |
 
-> ℹ️ Check the full list in [Events available in Audit](https://help.vtex.com/docs/tutorials/events-available-in-audit).
+> ℹ️ Check the full list in [Events available in Audit](https://help.vtex.com/en/docs/tutorials/events-available-in-audit).
 
 ## What needs to be done?
 
-No action is required. The new events are already available for all VTEX accounts and can be used as filters in [Audit](https://help.vtex.com/docs/tutorials/audit) using the action names listed above.
+No action is required. The new events are already available for all VTEX accounts and can be used as filters in [Audit](https://help.vtex.com/en/docs/tutorials/audit) using the action names listed above.
