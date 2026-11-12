@@ -21,11 +21,11 @@ El proceso de creación de flujos es simple e intuitivo. Existen algunas opcione
 
 1. Llegando en la página de flujos, basta con clickear en el botón de **Create flow** , en la esquina izquierda de la pantalla.
 
-1. Después de eso, un pop-up para creación de flujo aparecerá en si pantalla. Esta esta formada por 4 campos que pueden ser llenados: **Nombre** , **Activadores de palabras clave globales** , **Idioma, Tipo de Flujo.**
+1. Después de eso, un pop-up para creación de flujo aparecerá en si pantalla. Esta esta formada por 4 campos que pueden ser llenados: **Nombre** , **Triggers de palabras clave globales** , **Idioma, Tipo de Flujo.**
 
 **1 - Nombre** : es el nombre que queremos dar a nuestro flujo. Es un campo obligatorio, pero que puede ser editado después.
 
-**2 - Activadores de palabras clave globales** : en ese campo, usted podrá escoger una palabra llave global que funcionará como un activador para su flujo. Ese campo no es obligatorio, y usted podrá crear un activador para su flujo cuando quiera, en la opción activador en el menú superior. Para más detalles, visite el artículo sobre activadores.
+**2 - Triggers de palabras clave globales** : en ese campo, usted podrá escoger una palabra llave global que funcionará como un trigger para su flujo. Ese campo no es obligatorio, y usted podrá crear un trigger para su flujo cuando quiera, en la opción Triggers en el menú superior. Para más detalles, visite el artículo sobre triggers.
 
 **3 - Tipo de flujo** : campo obligatorio responsable por definir cuál va a ser el método utilizado por su flujo.
 

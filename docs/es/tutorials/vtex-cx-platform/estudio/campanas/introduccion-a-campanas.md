@@ -17,7 +17,7 @@ subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 
 Una campaña es un conjunto de eventos temporales creados para impactar grupos de contacto. Para crear una campaña, necesitamos un grupo de contactos y al menos una variable de contacto del tipo fecha y hora.
 
-Los eventos temporales que componen una campaña son disparadores programados para activarse en una fecha determinada. Estos disparadores pueden enviar mensajes, iniciar flujos e incluso tener prioridad sobre otras interacciones que el contacto esté realizando con la plataforma.
+Los eventos temporales que componen una campaña son triggers programados para activarse en una fecha determinada. Estos triggers pueden enviar mensajes, iniciar flujos e incluso tener prioridad sobre otras interacciones que el contacto esté realizando con la plataforma.
 
 ## ¿Por qué utilizar una campaña?
 

@@ -1,5 +1,5 @@
 ---
-title: "Tipos de activadores"
+title: "Tipos de triggers"
 id: 6yVuYFp3lrmZL0C7AUdEac
 status: PUBLISHED
 createdAt: 2025-09-12T17:43:13.439Z
@@ -15,11 +15,11 @@ locale: es
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-La palabra clave es la primera palabra en un mensaje y puede usarse para iniciar el flujo. Por ejemplo, puedes definir un activador usando la "palabra clave" para iniciar el flujo y registrar contactos en tu servicio.
+La palabra clave es la primera palabra en un mensaje y puede usarse para iniciar el flujo. Por ejemplo, puedes definir un trigger usando la "palabra clave" para iniciar el flujo y registrar contactos en tu servicio.
 
-Todos los pasos descritos aquí se realizarán en la pestaña "**Activadores**", ubicada dentro del módulo "**Estudio**".
+Todos los pasos descritos aquí se realizarán en la pestaña "**Triggers**", ubicada dentro del módulo "**Estudio**".
 
-Para facilitar la navegación en este artículo, si deseas ir directamente a un tipo de activador específico, simplemente haz clic en su nombre a continuación:
+Para facilitar la navegación en este artículo, si deseas ir directamente a un tipo de trigger específico, simplemente haz clic en su nombre a continuación:
 
 - [Crea una palabra clave de mensaje que lance un flujo.](#Para_crear_una_palabra_clave_que_inicie_un_flujo)
 - [Crea una palabra clave de mensaje que permita a las personas unirse a un grupo.](#Creando_una_palabra_clave_de_mensaje_que_permite_que_las_personas_ingresen_a_un_grupo)
@@ -41,15 +41,15 @@ Para facilitar la navegación en este artículo, si deseas ir directamente a un 
 
 - En "Flujo", defines el flujo que se iniciará cuando se use la palabra clave
 
-- En "Solo grupos", es posible incluir o no incluir las reglas de este disparador para grupos de contacto específicos . Deja el espacio en blanco si deseas aplicar esta regla a todos los usuarios
+- En "Solo grupos", es posible incluir o no incluir las reglas de este trigger para grupos de contacto específicos . Deja el espacio en blanco si deseas aplicar esta regla a todos los usuarios
 
-- Haz clic en la caja "Crear Activador".
+- Haz clic en la caja "Crear Trigger".
 
 ## Creando una palabra clave de mensaje que permite que las personas ingresen a un grupo
 
-Usando este disparador para agregar un contacto a un grupo. Este disparador es útil para gestionar contactos que desean desvincularse de un grupo utilizando palabras clave como "parar" o "congelar un registro"
+Usando este trigger para agregar un contacto a un grupo. Este trigger es útil para gestionar contactos que desean desvincularse de un grupo utilizando palabras clave como "parar" o "congelar un registro"
 
-Para crear un activador con una palabra clave que una contactos a un grupo:
+Para crear un trigger con una palabra clave que una contactos a un grupo:
 
 - Haz clic en el botón "Crear una palabra clave de mensaje que permita que las personas se unan a un grupo":
 
@@ -63,23 +63,23 @@ Para crear un activador con una palabra clave que una contactos a un grupo:
 
 ## Iniciar un flujo después de recibir un mensaje que no ha sido gestionado en otro lugar
 
-Utiliza este activador para iniciar un flujo después de recibir un mensaje no capturado (cuando el mensaje no ha sido gestionado en otro lugar por otros activadores). Este activador puede emplearse para mensajes no tratados, ofreciendo un flujo informativo que explique tu servicio y dirija al usuario a un flujo adecuado.
+Utiliza este trigger para iniciar un flujo después de recibir un mensaje no capturado (cuando el mensaje no ha sido gestionado en otro lugar por otros triggers). Este trigger puede emplearse para mensajes no tratados, ofreciendo un flujo informativo que explique tu servicio y dirija al usuario a un flujo adecuado.
 
 - Haz clic en el botón "Inicie un flujo después de recibir un mensaje que no coincide con ninguna palabra clave"
 
 - En "Flujo", puedes elegir qué flujo se iniciará.
 
-- En "Solo grupos", puedes seleccionar el/los grupo(s) en los que el disparador será incluido o no
+- En "Solo grupos", puedes seleccionar el/los grupo(s) en los que el trigger será incluido o no
 
-- si dejas el campo vacío, el disparador se aplicará a todos los contactos.
+- si dejas el campo vacío, el trigger se aplicará a todos los contactos.
 
-- Haz clic en "Crear Activador".
+- Haz clic en "Crear Trigger".
 
 Si tu proyecto cuenta con atención humana, en el campo "Grupos para Excluir", selecciona el grupo en el que están las personas del equipo de atención humana para que el bot no interactúe con ellas durante el momento de la atención humana.
 
 ## Iniciar un flujo en el futuro o dentro de un cronograma
 
-Utiliza este activador para programar un flujo en un momento futuro, repitiéndolo diariamente, semanalmente o mensualmente. Para iniciar el flujo en el futuro o de forma programa
+Utiliza este trigger para programar un flujo en un momento futuro, repitiéndolo diariamente, semanalmente o mensualmente. Para iniciar el flujo en el futuro o de forma programa
 da:
 
 - Haz clic en el botón "Empezar un flujo en el futuro o en un horario".
@@ -90,7 +90,7 @@ da:
 
 - Elige el flujo que deseas iniciar y selecciona a qué contactos o grupos se transmitirá o no el flujo.
 
-- Haz clic en "Crear Activador".
+- Haz clic en "Crear Trigger".
 
 ## Iniciar un flujo después de recibir una llamada
 
@@ -98,34 +98,36 @@ da:
 
 - En "Flujo", puedes elegir qué flujo se iniciará.
 
-- En "Solo grupos", puedes seleccionar el/los grupo(s) en los que el disparador será incluido o no
+- En "Solo grupos", puedes seleccionar el/los grupo(s) en los que el trigger será incluido o no
 
-- si dejas el campo vacío, el activador se aplicará a todos los contactos.
+- si dejas el campo vacío, el trigger se aplicará a todos los contactos.
 
-- Haz clic en "Crear Activador".
+- Haz clic en "Crear Trigger".
 
-## Iniciar un flujo después de una llamada perdidautiliza este disparador después de una llamada perdida.
+## Iniciar un flujo después de una llamada perdida
+
+Utiliza este trigger después de una llamada perdida.
 
 - Haz clic en el botón "Inicie un flujo después de una llamada perdida"
 
 - En "Flujo", puedes elegir qué flujo se iniciará.
 
-- En "Solo grupos", puedes seleccionar el/los grupo(s) en los que el activador será incluido o no
+- En "Solo grupos", puedes seleccionar el/los grupo(s) en los que el trigger será incluido o no
 
-- si dejas el campo vacío, el activador se aplicará a todos los contactos.
+- si dejas el campo vacío, el trigger se aplicará a todos los contactos.
 
-- Haz clic en "Crear Activador".
+- Haz clic en "Crear Trigger".
 
 ## Iniciar un flujo después del cierre de ticket con un agente humano
 
-Utiliza este disparador para activar el flujo de finalización de atención humana en Live Desk.
+Utiliza este trigger para activar el flujo de finalización de atención humana en Live Desk.
 
 - Haz clic en el botón "Inicie un flujo después de cerrar un ticket."
 
 - En "Flujo", puedes elegir qué flujo se iniciará.
 
-- En "Solo grupos", puedes seleccionar el/los grupo(s) en los que el activador será o no incluido
+- En "Solo grupos", puedes seleccionar el/los grupo(s) en los que el trigger será o no incluido
 
-- si dejas el campo vacío, el activador se aplicará a todos los contactos.
+- si dejas el campo vacío, el trigger se aplicará a todos los contactos.
 
-- Haz clic en "Crear Activador".
+- Haz clic en "Crear Trigger".

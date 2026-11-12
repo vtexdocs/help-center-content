@@ -1,5 +1,5 @@
 ---
-title: "Crear un activador"
+title: "Crear un trigger"
 id: 4bo1N0wsONdFMVDMlIPU9T
 status: PUBLISHED
 createdAt: 2025-09-12T17:40:04.331Z
@@ -15,12 +15,12 @@ locale: es
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-En este punto, tu chatbot está conectado a algún canal, pero para iniciar un flujo automáticamente cuando el usuario interactúe con el chatbot, debes configurar un Activador (trigger). Para crearlo, debes ir al Menú de Disparadores dentro del módulo "Estudio" y hacer clic en Crear Activador.
+En este punto, tu chatbot está conectado a algún canal, pero para iniciar un flujo automáticamente cuando el usuario interactúe con el chatbot, debes configurar un trigger. Para crearlo, debes ir al Menú de Triggers dentro del módulo "Estudio" y hacer clic en Crear Trigger.
 
 - Haz clic en el botón "Cree una palabra clave de mensaje que lance un flujo"
-- En la palabra clave, definirás la palabra que funcionará como activador.
+- En la palabra clave, definirás la palabra que funcionará como trigger.
 
-- En el activador, puedes elegir entre activar cuando:
+- En el trigger, puedes elegir entre activar cuando:
 
 El mensaje comienza con la palabra clave: Si la frase escrita por el usuario comienza con la palabra clave, el flujo seleccionado se activará.
 
@@ -28,6 +28,6 @@ El mensaje contiene solo la palabra clave: El flujo seleccionado se ejecutará s
 
 - En "Flujo" se define el flujo que se iniciará.
 
-- En "Solo Grupos" es posible incluir o no las reglas de este activador a un grupo de contactos específico; deja el espacio en blanco si deseas aplicar esta regla a todos.
+- En "Solo Grupos" es posible incluir o no las reglas de este trigger a un grupo de contactos específico; deja el espacio en blanco si deseas aplicar esta regla a todos.
 
-- Haz clic en la caja "Crear activador".
+- Haz clic en la caja "Crear Trigger".

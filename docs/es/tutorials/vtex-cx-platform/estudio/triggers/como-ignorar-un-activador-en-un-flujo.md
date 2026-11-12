@@ -1,5 +1,5 @@
 ---
-title: "Ignorar un activador en un flujo"
+title: "Ignorar un trigger en un flujo"
 id: 1IMvEnf0FUEFTW37zy3mQ6
 status: PUBLISHED
 createdAt: 2025-09-12T17:57:54.426Z
@@ -19,12 +19,12 @@ Cuando un contacto envía un mensaje que coincide con una palabra clave que has 
 
 Si deseas mantener a tus contactos en un flujo hasta que lo terminen o expire, puedes configurar el sistema para que ignore la palabra clave hasta que los contactos hayan salido del primer flujo.
 
-**Para indicar a un flujo que ignore activadores y palabras clave:**
+**Para indicar a un flujo que ignore triggers y palabras clave:**
 
 - Ve a "Flujo" y haz clic en el flujo que deseas modificar.
 
 - Haz clic en el ícono de engranaje en la esquina superior derecha del editor de flujo y luego selecciona la opción "Editar".
 
-- Marca la casilla "Ignorar los activadores de palabras clave mientras se encuentre en este flujo"
+- Marca la casilla "Ignorar los Triggers de palabras clave mientras se encuentre en este flujo"
 
 - Haz clic en "Guardar Cambios".

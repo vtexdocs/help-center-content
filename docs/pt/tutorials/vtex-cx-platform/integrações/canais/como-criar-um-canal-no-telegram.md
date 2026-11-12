@@ -39,10 +39,10 @@ Pronto! Você criou seu novo chatbot e já recebeu o seu token! Copie e guarde e
 
 6. Tudo pronto! O canal gerado terá o mesmo nome do bot criado.
 
-## Habilitando os gatilhos
+## Habilitando os triggers
 
 O bot do Telegram exibe um botão ""Começar"" quando você interage com ele pela primeira vez:
 
-Para que o botão inicie uma nova conversa ao ser clicado, é preciso configurar o [gatilho correspondente](/pt/docs/tutorials/tipos-de-gatilho#iniciar_um_fluxo_quando_uma_conversa_for_iniciada_por_um_contato) informando o nome do canal do Telegram e o fluxo desejado.
+Para que o botão inicie uma nova conversa ao ser clicado, é preciso configurar o [trigger correspondente](/pt/docs/tutorials/tipos-de-gatilho#iniciar_um_fluxo_quando_uma_conversa_for_iniciada_por_um_contato) informando o nome do canal do Telegram e o fluxo desejado.
 
-Como essa modalidade de gatilho funciona apenas no primeiro contato, para que haja interações em fluxos subsequentes, é preciso ter pelo menos mais um gatilho configurado, como o que [captura mensagens não tratadas por outro fluxo](/pt/docs/tutorials/tipos-de-gatilho#iniciar_um_fluxo_depois_de_receber_uma_mensagem_n_o_tratada_em_outro_lugar) .
+Como essa modalidade de trigger funciona apenas no primeiro contato, para que haja interações em fluxos subsequentes, é preciso ter pelo menos mais um trigger configurado, como o que [captura mensagens não tratadas por outro fluxo](/pt/docs/tutorials/tipos-de-gatilho#iniciar_um_fluxo_depois_de_receber_uma_mensagem_n_o_tratada_em_outro_lugar) .
