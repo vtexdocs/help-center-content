@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-All messages and actions passing through the channel are logged in the contact and can be viewed by accessing a specific contact. Messages are sorted by date and color-coded according to their origin. In this section, you can see exchanged files, executed flows, and external API calls, along with their respective external and internal call fields. You can choose between a summarized view, which shows only the conversations for quick analysis, or a detailed view with more information.
+All messages and actions passing through the channel are logged in the contact and can be viewed by accessing a specific contact. Messages are sorted by date and color-coded according to their origin. In this section, you can see exchanged files, executed flows, and external API calls, along with their respective external and internal call fields. You can choose between a summarized view, which shows only the conversations, or a detailed view with more information.
 
 ## Access a contact's history
 
@@ -23,6 +23,6 @@ All messages and actions transmitted through the channel are recorded in the con
 
 Messages are sorted by date and color-coded according to their origin. In this section, you can view exchanged files, executed flows, and external API calls, along with their respective external and internal call fields.
 
-You can choose between a summarized view, showing only the conversations for quick analysis, or a detailed view with more information.
+You can choose between a summarized view, showing only the conversations, or a detailed view with more information.
 
 When you click on the desired contact, a new screen will open where you can view the contact's history.

@@ -19,7 +19,7 @@ Todos los mensajes y acciones que pasan por el canal están registrados en el co
 
 Los mensajes están ordenados por fechas y separados por colores según su origen. En esta sección, podrás ver los archivos intercambiados, los flujos que se ejecutaron y las llamadas a las APIs externas, con sus respectivos campos de llamadas externas e internas.
 
-Puedes tener una vista resumida que solo muestra las conversaciones para un análisis rápido o una vista detallada con más información.
+Puedes tener una vista resumida que solo muestra las conversaciones o una vista detallada con más información.
 
 ## Cómo acceder al historial de un contacto
 

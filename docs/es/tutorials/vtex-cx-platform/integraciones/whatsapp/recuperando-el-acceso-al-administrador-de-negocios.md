@@ -3,7 +3,7 @@ title: "Recuperando el acceso al Administrador de negocios"
 id: 2kj7yKJWbEx2CsdWG50QNN
 status: PUBLISHED
 createdAt: 2025-09-15T15:34:21.608Z
-updatedAt: 2025-10-03T14:20:32.336Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.336Z
 firstPublishedAt: 2025-10-03T14:20:32.336Z
 contentType: tutorial
@@ -19,7 +19,7 @@ El acceso al Administrador de Negocios es fundamental para que una empresa pueda
 
 Proceso de recuperación
 
-Primero, es importante buscar y contactar a los posibles administradores del Administrador de Negocios, como empleados o personas que podrían haber creado o administrado anteriormente el Administrador de Negocios. Si encuentras al Administrador, simplemente pídele que siga estos pasos:
+Primero, es importante buscar y contactar a los posibles administradores del Administrador de Negocios, como empleados o personas que podrían haber creado o administrado anteriormente el Administrador de Negocios. Si encuentras al Administrador, pídele que siga estos pasos:
 
 1. Accede a la Configuración del negocio.
 2. Haz clic en Personas.
@@ -31,7 +31,7 @@ Primero, es importante buscar y contactar a los posibles administradores del Adm
 8. Selecciona el activo y el acceso a la tarea que deseas asignar a la persona.
 9. Haz clic en Invitar. Esta documentación explica más detalles.
 
-Si después de realizar todos estos procedimientos aún no encuentras a la persona o no puedes restaurar el acceso al Administrador de Negocios, abre una solicitud con el equipo de especialistas de Meta solicitando una disputa administrativa. Para ello, será necesario presentar varios documentos de la persona legalmente asociada al negocio que representa al Administrador de Negocios. Esta persona debe tener una conexión directa con el CNPJ.
+Si, después de realizar todos estos procedimientos, aún no encuentras a la persona o no puedes restaurar el acceso al Administrador de Negocios, abre una solicitud con el equipo de especialistas de Meta solicitando una disputa administrativa. Para ello, será necesario presentar varios documentos de la persona legalmente asociada al negocio que representa al Administrador de Negocios. Esta persona debe tener una conexión directa con el CNPJ.
 
 **Si es necesario seguir este camino, abre un caso en Business Suite con los siguientes documentos a la mano:**
 
@@ -43,5 +43,5 @@ Si después de realizar todos estos procedimientos aún no encuentras a la perso
 - Una explicación de tu solicitud (por ejemplo: hubo una terminación de la relación laboral y/o comercial con la(s) persona(s)/Empresa designada(s), y otra persona debe ser añadida como Administrador).
 - Las tres facturas/extractos de facturación más recientes (independientemente del tiempo transcurrido) en las cuentas de anuncios que posee la Empresa Y los últimos 4 dígitos de las tarjetas de crédito en las cuentas\*.
 - Si la BM no tiene ninguna cuenta de anuncios, declara esta información en el extracto.
-- Una declaración, con la frase "Bajo Pena de Perjurio", que indique que la información que proporcionaste es verdadera y precisa (por ejemplo, "Certifico que la información proporcionada es verdadera y precisa"). Tu declaración debe incluir un lenguaje similar para ser considerada válida y debe estar firmada a mano. Aunque anteriormente se requería, actualmente no es necesario que el documento esté notarizado.
+- Una declaración, con la expresión “Bajo pena de perjurio”, que indique que la información que proporcionaste es verdadera y precisa (por ejemplo, “Certifico que la información proporcionada es verdadera y precisa”). Tu declaración debe incluir un lenguaje similar para ser considerada válida y debe estar firmada a mano. Aunque anteriormente se requería, actualmente no es necesario que el documento esté notarizado.
 - La ID de la Empresa (BID) debe aparecer en la declaración dentro del cuerpo del documento.

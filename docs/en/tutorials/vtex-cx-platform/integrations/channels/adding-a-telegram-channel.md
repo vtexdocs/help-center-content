@@ -3,7 +3,7 @@ title: "Adding a Telegram channel"
 id: 2HpxHtgeLai6EpgEFxQL2p
 status: PUBLISHED
 createdAt: 2025-09-15T14:59:37.246Z
-updatedAt: 2025-10-03T14:20:32.736Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.736Z
 firstPublishedAt: 2025-10-03T14:20:32.736Z
 contentType: tutorial
@@ -17,19 +17,19 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 To connect your chatbot with Telegram, follow these steps:
 
-## Talk with BotFather
+## Talk to BotFather
 
 BotFather is a chatbot that creates and manages other chatbots for Telegram. To find it, look for @BotFather in your Telegram's search bar.
 
-## Create a new chatbot with BotFather
+## Create a chatbot with BotFather
 
-Once you start the conversation with BotFather, send the message /newbot to create a new chatbot. Then choose a name and a Username (usernames must always end with “\_bot”, ex test_bot).
+Once you start the conversation with BotFather, send the message /newbot to create a new chatbot. Then choose a name and a username (usernames must always end with “\_bot”, e.g., test_bot).
 
-## Receive the access token
+## Get the access token
 
 All set! You’ve created your new chatbot and received your token! Copy and save it for use on the VTEX CX Platform.
 
-## Registering Telegram on the platform
+## Register Telegram on the platform
 
 1. With the token in hand, you can now integrate Telegram into your project.
 2. Locate the project you want to integrate.
@@ -39,7 +39,7 @@ All set! You’ve created your new chatbot and received your token! Copy and sav
 
 6. All set! The generated channel will have the same name as the bot you created.
 
-## Enabling triggers
+## Enable triggers
 
 The Telegram bot displays a **"Start"** button when you interact with it for the first time:
 

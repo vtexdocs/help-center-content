@@ -3,7 +3,7 @@ title: "Action cards"
 id: 5TQ44l4pp84PPWdnWdg3JN
 status: PUBLISHED
 createdAt: 2025-09-16T16:43:29.253Z
-updatedAt: 2025-10-03T14:20:03.887Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:03.887Z
 firstPublishedAt: 2025-10-03T14:20:03.887Z
 contentType: tutorial
@@ -15,9 +15,8 @@ locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-After understanding a little more about what Action Cards are in our [Introduction to flow](/en/docs/tutorials/automation-flow-overview), we will now move on to what cards exists and what we can do with each one.
+Each action card runs a command in the conversation. Use the list below to go directly to a card.
 
-To facilitate navigation through this article, if you want to go directly to a specific action card, just click on its name below:
 
 - Send the contact a message
 - Send somebody else a message
@@ -36,7 +35,7 @@ To facilitate navigation through this article, if you want to go directly to a s
 
 ## Send the contact a message
 
-The most popular and widely used action card on the platform. Its function is to send a message to the contact. This message will be received regardless of the channel the user is chatting in, just write it in the text box.
+The most popular and widely used action card on the platform. Its function is to send a message to the contact. This message will be received regardless of the channel the user is chatting in, write it in the text box.
 
 1. **Facebook**
 
@@ -48,9 +47,9 @@ Sending messages via a WhatsApp channel requires using a template if you have no
 
 1. **Quick Replies**
 
-There is the possibility to send quick replies (text buttons) to users, thus facilitating the response and serving as a possibility for a guide to your conversation. Currently, you can add up to 10 text buttons per letter.
+You can send quick replies (text buttons) to users. They guide the conversation. Currently, you can add up to 10 text buttons per card.
 
-Stay tuned! Not all channels support text buttons. Currently, the channels that have the buttons are: Telegram, Web, Facebook Messenger and WhatsApp.
+Not all channels support text buttons. Currently, the channels that have the buttons are: Telegram, Web, Facebook Messenger and WhatsApp.
 
 1. **Attachments**
 
@@ -60,11 +59,11 @@ Always make sure the channel your audience is working on supports the media you 
 
 1. **Advanced**
 
-The "Advanced" option (Advanced Settings) allows you to enable message delivery to all destinations, meaning the message will be sent to all channels the contact is linked to, not just the preferred channel. After that, the channel chosen by the user to reply will become the new preferred channel for that conversation.
+The "Advanced" option (Advanced Settings) allows you to enable message delivery to all destinations, meaning the message will be sent to all channels the contact is linked to, not only the preferred channel. After that, the channel chosen by the user to reply will become the new preferred channel for that conversation.
 
 In other words, if your preferred channel is WhatsApp, by selecting the "all destinations" option, the contact will receive the message on all channels they have. If they reply via SMS, SMS will become the new preferred channel for that contact, and the flow will continue there.
 
-This setting is only useful in specific cases! If in doubt about use, preferably leave it unchecked.
+Use this setting only in specific cases. If in doubt, leave the option unchecked.
 
 ## Send somebody else a message
 
@@ -74,9 +73,9 @@ With this, you or a group of people of your choice, can receive notifications fr
 
 ## Label the incoming message
 
-You can mark the last message sent by the contact with a Label. All labeled messages go to a message group with the same name as the label. You can learn more about messages and labels in the [messages article](/en/docs/tutorials/contacts-messages).
+You can mark the last message sent by the contact with a Label. All labeled messages go to a message group with the same name as the label. To learn more about messages and labels, see the [messages article](/en/docs/tutorials/contacts-messages).
 
-How about marking all interests in your company's products? It would be a good way to use the labels.
+For example, use a label to mark the contact's interest in a product.
 
 ### Add a URN for the contact
 
@@ -98,31 +97,29 @@ Is the contact no longer your customer? You can remove it from the group and the
 
 ### Update the contact
 
-To fill in the contact fields, just use Update Contact. In it, you select the contact field you want to update, and after that you can enter a fixed value or a flow result. If the contact field does not yet exist, just write the name you want for it. To learn more about the contact fields, visit the contact article
+To fill in the contact fields, use Update Contact. In it, you select the contact field you want to update, and after that you can enter a fixed value or a flow result. If the contact field does not yet exist, write the name you want for it. To learn more about the contact fields, visit the contact article
 
 Did you ask the age of your contact? You can save the value for later reference.
 
 ### Send an email
 
-Here you can send an email to someone. This email can be sent either to the contact running the flow or to anyone else. Keep in mind that email is not a conversation channel on the VTEX CX Platform, meaning that if someone replies to the sent email, it will go to the inbox of the email configured in the organization. To learn more, visit the [project settings](/en/docs/tutorials/general-project-settings) article.
+Here you can send an email to someone. This email can be sent either to the contact running the flow or to anyone else. Keep in mind that email is not a conversation channel on the VTEX CX Platform, meaning that if someone replies to the sent email, it will go to the inbox of the email configured in the organization. To learn more, see the [project settings](/en/docs/tutorials/general-project-settings) article.
 
 To send the email, fill in the recipient, subject, and message body in the corresponding fields.
 
-You can use this card to send quick reminders to a contact without spending on SMS or calls.
+You can use this card to send reminders to a contact without spending on SMS or calls.
 
 ### Save a result for this flow
 
-We were able to simulate a flow result with this action card. Creating from scratch, without the need for input or going through a decision card. Therefore, just choose the name of the flow result, enter its value and, if you want, a category. In addition, we can update the value of some existing flow results. To understand a little more about flow results and their structures, visit the results section in the decision cards article
+This action card simulates a flow result. It creates the result from scratch, without the need for an input or a decision card. Therefore, choose the name of the flow result, enter its value and, if you want, a category. In addition, we can update the value of some existing flow results. To understand a little more about flow results and their structures, visit the results section in the decision cards article
 
 Want to save the number of questions a contact has asked, but don't want to link it directly to a contact field? The best way is to create a flow variable.
 
 ### Enter another flow
 
-Here, we can start a new flow for the user. When the user enters a new flow, the flow he was in before (which can now be called the parent flow), is on hold until completion. In the meantime, the user will execute the new flow (which can now be called a child flow) and at the end of the execution, it will return to the point where it left off in the parent flow. To work, just choose the name of the flow you want among existing options.
+Here, we can start a new flow for the user. When the user enters a new flow, the flow he was in before (which can now be called the parent flow), is on hold until completion. In the meantime, the user will execute the new flow (which can now be called a child flow) and at the end of the execution, it will return to the point where it left off in the parent flow. To work, choose the name of the flow you want from the existing options.
 
-When the execution of the child flow is finished, the enter a flow letter gives us the opportunity for two routes, thus being the only action card that uses this concept (to understand the concept of route, visit the decision cards article). These two possible routes are based on how the child flow ended. If it was completed without any problems, the flow will take the Complete route and if the child flow has expired, the parent flow will use the Expired route.
-
-Enter a flow is a great way to organize your projects.
+When the execution of the child flow is finished, the Enter a flow card offers two routes, so it is the only action card that uses this concept (to understand the concept of route, visit the decision cards article). These two possible routes are based on how the child flow ended. If it was completed without any problems, the flow will take the Complete route and if the child flow has expired, the parent flow will use the Expired route.
 
 ### Start somebody else in a flow
 
@@ -131,7 +128,7 @@ To decide who will be initiated by the flow, we can choose between three options
 
 1. Manually define the contacts / groups that will be started in the new flow;
 2. Create a logical rule (usually based on contact fields) to filter the contacts that should enter the flow;
-3. Create a new contact, and that contact will be initiated in the flow;
+3. Create a new contact, and start it in the flow;
 
 After deciding on these options, select a stream to start. Unlike Enter another flow, this card does not create route options, after all, it does not wait for the end of the child flows to continue executing the parent flow.
 
@@ -139,13 +136,13 @@ This card can be used to create reactive campaigns, such as notifying a group of
 
 ### Send a WhatsApp message
 
-The native card for sending interactive messages on WhatsApp allows users to conveniently utilize the available channel features, integrating these options into their projects in a simple way.
+The WhatsApp message card sends interactive messages on the channel.
 
 It offers three types of interactive messages:
 
 - **Quick Replies** : Allows you to create up to 3 predefined responses that recipients can quickly select.
 - **Option List** : Provides an interactive menu with up to 10 items, each with a title and description.
-- **Request Location** : Enables you to request the final customer's location, making customer service easier.
+- **Request Location** : Enables you to request the final customer's location.
 
 In addition to these interactions, you can include headers (with media or text) and footers in the messages. The availability of these elements depends on the type of interactive message chosen.
 
@@ -157,4 +154,4 @@ This card is used to open support tickets for human assistance. To direct the in
 
 ### Call a webhook
 
-This card allows you to make API requests, storing the response in a variable that can be used within the flow. This makes it easier to connect with other external systems. Learn [how to make calls to external services](/en/docs/tutorials/call-webhook-making-requests-to-external-services).
+This card allows you to make API requests, storing the response in a variable that can be used within the flow. This helps you connect with other external systems. Learn [how to make calls to external services](/en/docs/tutorials/call-webhook-making-requests-to-external-services).

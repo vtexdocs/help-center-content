@@ -3,7 +3,7 @@ title: "Mensajes de plantilla de WhatsApp: Obstáculos y configuraciones"
 id: 4bc7imLyUicKHtCIJVGNSE
 status: PUBLISHED
 createdAt: 2025-09-15T15:07:41.131Z
-updatedAt: 2025-10-03T14:20:32.609Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.609Z
 firstPublishedAt: 2025-10-03T14:20:32.609Z
 contentType: tutorial
@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Aquí podrás ver soluciones para posibles obstáculos, rechazos y errores en el proceso de creación, envío y cambios en los mensajes de plantilla de WhatsApp. A continuación, se presentan los siguientes temas para obtener más información.
 
-## Proceso de aprobación (responsabilidad de Meta)
+## Proceso de aprobación de Meta
 
 Una vez que hayas creado el modelo, podrás enviarlo para su aprobación. Puede tomar hasta 24 horas para que se tome una decisión de aprobación. Una vez tomada la decisión, aparecerá una notificación en el Administrador de WhatsApp. Además, META enviará un correo electrónico a los administradores del Administrador de Negocios. Si te has suscrito a las actualizaciones sobre cambios en el estado del modelo de mensaje, META también enviará una notificación de webhook. Consulta [Cómo monitorear cambios de estado.](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#monitoring-status-changes)
 
@@ -40,13 +40,13 @@ Para incluir un ejemplo en el envío, primero crea tu modelo, agregando las vari
 - El modelo de mensaje presenta contenido que viola la Política Comercial de WhatsApp: cuando promocionas la venta de bienes y servicios, todos los medios y mensajes relacionados con tus productos se consideran transacciones. Esto incluye descripciones, precios, tarifas, impuestos y/o divulgaciones legales obligatorias. Las transacciones deben cumplir con la Política Comercial de WhatsApp.
 - El modelo de mensaje tiene contenido que viola la Política de WhatsApp Business: no solicites identificadores sensibles de los usuarios. Por ejemplo, no pidas a los clientes que compartan números completos de tarjetas de crédito y débito individuales, números de cuenta financiera, número de identificación nacional ni otra información confidencial. Esto incluye no solicitar a los usuarios documentos que puedan contener identificadores sensibles. Solicitar identificadores parciales (por ejemplo, los últimos 4 dígitos del CPF) es aceptable.
 - El contenido es potencialmente abusivo o amenazante. Por ejemplo, amenaza al cliente con acciones legales o vergüenza pública.
-- El modelo de mensaje es una duplicata de uno existente. Si se envía un modelo con el mismo texto que uno existente en el cuerpo y el pie de página, la duplicata será rechazada. Se mostrará una notificación de rechazo que incluye el motivo en la Calidad de la cuenta en el Administrador de WhatsApp y se enviará por correo electrónico. En la notificación de Calidad de la cuenta, puedes consultar el nombre y el idioma del modelo existente que tiene el mismo contenido del duplicado rechazado. También puedes editar y reenviar el modelo. Es importante tener en cuenta que esta verificación no se aplica a los modelos de OTP.
+- El modelo de mensaje es una duplicata de uno existente. Si se envía un modelo con el mismo texto que uno existente en el cuerpo y el pie de página, la duplicata será rechazada. Se mostrará una notificación de rechazo que incluye el motivo en la Calidad de la cuenta en el Administrador de WhatsApp y se enviará por correo electrónico. En la notificación de Calidad de la cuenta, puedes consultar el nombre y el idioma del modelo existente que tiene el mismo contenido que el duplicado rechazado. También puedes editar y reenviar el modelo. Es importante tener en cuenta que esta verificación no se aplica a los modelos de OTP.
 
-## Edición
+## Editar un modelo
 
 Puedes editar el modelo a través del Administrador de WhatsApp o del punto de extremo de Modelo de mensaje. Si se edita y se reenvía para su aprobación, el modelo de mensaje tendrá el estado En revisión y no podrá ser enviado a los clientes hasta que esté Activo.
 
-## Cómo enviar modelos de mensaje
+## Enviar modelos de mensaje
 
 Una vez aprobado el modelo, podrás enviarlo a los clientes. Para enviar un modelo de mensaje, consulta Cómo enviar modelos de mensaje a usuarios de la API de Nube o Cómo enviar modelos de mensaje a usuarios de la API Local.
 
@@ -54,7 +54,7 @@ Solo los modelos con estado **Activo (por ejemplo, Activo - Calidad pendiente, A
 
 El estado puede cambiar automáticamente de **Activo** a **Pausado** o **Desactivado** según los comentarios de los clientes. Por lo tanto, te recomendamos que monitorees los cambios de estado y tomes las medidas apropiadas cuando un modelo de mensaje en el que dependes sea pausado o desactivado o corra ese riesgo.
 
-## Estado
+## Estado de los modelos
 
 Los modelos pueden tener los siguientes estados.
 
@@ -78,13 +78,13 @@ Los modelos pueden tener los siguientes estados.
 
 Puedes consultar el estado de un modelo en **Administrador de WhatsApp > Resumen**. Luego, pasa el cursor sobre el icono del sobre **(Herramientas de la cuenta)** y haz clic en **Modelos de mensaje**. Si tienes más de una cuenta de WhatsApp Business, selecciona la cuenta cuyo estado de modelo quieras consultar en la lista de cuentas en el menú desplegable en la esquina superior derecha.
 
-## Cómo monitorear cambios de estado
+## Monitorear cambios de estado
 
 El estado de un modelo puede cambiar automáticamente según decisiones de revisión, resultados de apelaciones o cambios en la clasificación de calidad. Si el estado de un modelo cambia, recibirás una notificación por correo electrónico, en el Administrador de Negocios y en el webhook.
 
 Dado que solo puedes enviar modelos de mensaje con estado **Activo**, te recomendamos que te suscribas al campo de actualización de estado de la plantilla de mensaje webhook para recibir notificaciones sobre los cambios de estado en los modelos. Consulta Configuración de webhooks para obtener información sobre cómo suscribirte a este campo y Actualizaciones del modelo de mensaje para ejemplos de cargas de webhook.
 
-Si has configurado los webhooks y ves que la calidad de un modelo está disminuyendo, ve a Administrador de **WhatsApp > Modelos de mensaje** y pasa el cursor sobre el modelo de mensaje en cuestión. Se mostrará un mensaje con información sobre el problema. Con base en esta información, puedes optar por editar el modelo y enviarlo para su reaprobación, usar un modelo diferente o cambiar la lógica comercial de tu aplicación. Si editas el modelo de mensaje y es aprobado, la clasificación de calidad mejorará gradualmente si no recibe comentarios negativos con frecuencia.
+Si has configurado los webhooks y ves que la calidad de un modelo está disminuyendo, ve al Administrador de **WhatsApp > Modelos de mensaje** y pasa el cursor sobre el modelo de mensaje en cuestión. Se mostrará un mensaje con información sobre el problema. Con base en esta información, puedes optar por editar el modelo y enviarlo para su reaprobación, usar un modelo diferente o cambiar la lógica comercial de tu aplicación. Si editas el modelo de mensaje y es aprobado, la clasificación de calidad mejorará gradualmente si no recibe comentarios negativos con frecuencia.
 
 ## Clasificación de calidad
 
@@ -123,9 +123,9 @@ Inicialmente, la pausa no afectará el número de teléfono comercial ni reducir
 
 Cuando se pausa un modelo de mensaje, enviaremos una notificación en el Administrador de WhatsApp, por correo electrónico y webhook (si has suscrito webhooks de cambios en modelos de mensaje). Consulta Cómo monitorear cambios de estado para ver información sobre la configuración del webhook y Ejemplos - Modelo pausado para ver un ejemplo de carga de webhook.
 
-## Reanudar
+## Reanudar un modelo pausado
 
-El modelo se reanudará automáticamente después de que se complete la pausa descrita anteriormente. Una vez reanudado, el modelo tendrá el estado **Activo** y podrá ser enviado a los clientes nuevamente. Si no has detenido las campañas de mensajes automáticos que dependían del modelo, volverán a funcionar. Sin embargo, te recomendamos que detengas las campañas que dependan de modelos suspendidos hasta que se retiren de la pausa, ya que nuestras API las rechazarán.
+El modelo se reanudará automáticamente después de que se complete la pausa descrita anteriormente. Una vez reanudado, el modelo tendrá el estado **Activo** y podrá ser enviado a los clientes nuevamente. Si no has detenido las campañas de mensajes automáticos que dependían del modelo, volverán a funcionar. Sin embargo, te recomendamos que detengas las campañas que dependan de modelos pausados hasta que se levante la pausa, ya que nuestras API las rechazarán.
 
 La clasificación de calidad del modelo también se establecerá en un valor basado en los comentarios más recientes.
 

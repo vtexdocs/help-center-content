@@ -1,9 +1,9 @@
 ---
-title: "WhatsApp Bussiness API: WhatsApp message triggering limitation"
+title: "WhatsApp Business API: WhatsApp message triggering limitation"
 id: 1mMpu05SPvb9ZDJTSSkTEp
 status: PUBLISHED
 createdAt: 2025-09-15T15:32:11.616Z
-updatedAt: 2025-10-03T14:20:32.366Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.366Z
 firstPublishedAt: 2025-10-03T14:20:32.366Z
 contentType: tutorial
@@ -34,9 +34,9 @@ There are different levels of message rate limiting on WhatsApp:
 
 Newly enabled WhatsApp numbers start at **Level 1**. WhatsApp monitors the volume and quality of messages and automatically updates the client’s level based on the total number of active contacts in the past 7 days.
 
-If, within this 7-day period, a WhatsApp-enabled phone number communicates with twice the number of active contacts of its current level's limit per day, and maintains a good "quality rating" with WhatsApp, it will automatically move to the next level the following day.
+If, within this 7-day period, a WhatsApp-enabled phone number communicates with twice the number of active contacts of its current level's limit per day, and maintains a good “quality rating” with WhatsApp, it will automatically move to the next level the following day.
 
-A number may be prevented from advancing to the next level, or even downgraded, if WhatsApp's internal "quality rating" for the number is low. VTEX CX Platform cannot influence this rating or display it to clients on the platform. More details on quality ratings will be discussed later.If you exceed your daily level limit, your messages will not be delivered.VTEX CX Platform cannot manually move or request clients to be moved between message limit levels. Additionally, WhatsApp will not start a number at a higher level or manually increase the limit.
+A number may be prevented from advancing to the next level, or even downgraded, if WhatsApp's internal “quality rating” for the number is low. VTEX CX Platform cannot influence this rating or display it to clients on the platform. More details on quality ratings will be discussed later. If you exceed your daily level limit, your messages will not be delivered. Important: VTEX CX Platform cannot manually move or request clients to be moved between message limit levels. Additionally, WhatsApp will not start a number at a higher level or manually increase the limit.
 
 **Example 1:**
 
@@ -46,9 +46,11 @@ A WhatsApp-approved phone number starts at Level 1. On Day 1, the number sends m
 
 A WhatsApp-approved phone number starts at Level 1. On Day 1, the number sends messages to 50 active contacts. On Day 2, the number sends messages to 150 active contacts. On Day 3, the number sends messages to 200 active contacts. From Days 4 to 7, the number sends messages to 400 active contacts each day. At the end of Day 7, the number would be upgraded to Level 2 based on sending messages to 2,000 active contacts over the past 7 days.
 
-This limitation **does not** apply to messages sent in response to a user-initiated message within a 24-hour period.It’s possible to increase the message limit to 1,000 on your own through the following methods. However, higher limits will only be achieved through automatic adjustment after the limit reaches 1,000.**WhatsApp Quality Rating**
+This limitation **does not** apply to messages sent in response to a user-initiated message within a 24-hour period. It’s possible to increase the message limit to 1,000 on your own through the following methods. However, higher limits will only be achieved through automatic adjustment after the limit reaches 1,000.
 
-Since WhatsApp encrypts messages, it relies on user feedback to measure message quality. WhatsApp uses this feedback to define an internal "quality rating" that can affect how users move between the rate limiting levels. Factors like how frequently your number is marked as "report spam" and "block" can influence the quality rating. Senders with a low quality rating may not be eligible to advance to higher levels.
+## WhatsApp quality rating
+
+Since WhatsApp encrypts messages, it relies on user feedback to measure message quality. WhatsApp uses this feedback to define an internal “quality rating” that can affect how numbers move between the rate limiting levels. Factors like how frequently your number is marked as “report spam” and “block” can influence the quality rating. Senders with a low quality rating may not be eligible to advance to higher levels.
 
 **To maintain high quality, WhatsApp recommends the following:**
 

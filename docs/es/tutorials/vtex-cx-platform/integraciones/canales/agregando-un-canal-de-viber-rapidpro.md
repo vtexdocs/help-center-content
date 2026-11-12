@@ -3,7 +3,7 @@ title: "Agregando un canal de Viber (RapidPro)"
 id: 3mEbPicH5tFMiZ6jVlPIlh
 status: PUBLISHED
 createdAt: 2025-09-15T14:41:38.441Z
-updatedAt: 2025-10-03T14:20:32.831Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.831Z
 firstPublishedAt: 2025-10-03T14:20:32.831Z
 contentType: tutorial
@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Puedes agregar tu cuenta pública de Viber como un canal en la plataforma.
 
-### Comenzando
+## Localizar el canal de Viber
 
 Ve a la configuración del Workspace y haz clic en Add Channel.
 
@@ -25,11 +25,11 @@ Desplázate hacia abajo hasta la opción de Viber y haz clic en ella.
 
 Después de eso, verás una breve descripción del canal. El único requisito para conectar Viber es un token de autorización (llamado App token por el equipo de Viber).
 
-#### Ahora veamos cómo obtener este app token
+## Obtener el App token
 
 El proceso principal consiste en aprobar una cuenta pública de Viber y obtener el App token.
 
-## Creando una cuenta en Viber
+### Crear una cuenta en Viber
 
 Instala la aplicación móvil de Viber y realiza el proceso de registro mediante un número de teléfono exclusivo para el proyecto. Con tu cuenta válida, accede al panel de administración de Viber y vincúlala a una cuenta pública.
 
@@ -41,11 +41,11 @@ Completa todos los requisitos presentados y haz clic en Create al final de la p�
 
 Tomará unos segundos para procesar y aparecerá una nueva ventana con el token necesario.
 
-**Enviar el canal**
+## Crear el canal
 
 Ahora vuelve a RapidPro, pega el token y haz clic en Submit.
 
-## Editar mensaje de bienvenida
+## Editar el mensaje de bienvenida
 
 El canal de Viber fue creado, pero para que sea publicado y esté disponible para todo tu público, el equipo de soporte de Viber requiere algunos pasos. El primer paso es proporcionar un mensaje de bienvenida. Para agregar uno, ve a la configuración de tu Workspace y abre la configuración del Canal de Viber.
 
@@ -55,7 +55,7 @@ Cuando hagas clic en Editar, aparecerá una nueva ventana para que añadas un co
 
 ## Publicar la cuenta
 
-Para que el canal se muestre completamente, será necesario contactar al equipo de soporte de Viber. En general, cualquier persona puede abrir y construir un chatbot en la plataforma de Viber. Sin embargo, los usuarios no pueden encontrarlo por defecto. Por lo tanto, para que el perfil sea descubra, por ejemplo, que sea buscable y verificado, debe ir acompañado de una campaña de promoción con stickers o anuncios de Viber.
+Para que el canal se muestre, será necesario contactar al equipo de soporte de Viber. En general, cualquier persona puede abrir y construir un chatbot en la plataforma de Viber. Sin embargo, los usuarios no pueden encontrarlo por defecto. Por lo tanto, para que el perfil sea descubierto (por ejemplo, que sea buscable y verificado), debe ir acompañado de una campaña de promoción con stickers o anuncios de Viber.
 
 Una vez promovido, puedes compartirlo a través de los canales de redes sociales del cliente para alcanzar un público de forma orgánica. Con herramientas como stickers y anuncios de Viber, podrás reunir cientos de miles de suscriptores en tu chatbot, a quienes se les puede enviar mensajes directos y personalizados.
 

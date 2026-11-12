@@ -3,7 +3,7 @@ title: "Flow editor and tools"
 id: 5vaaCPNxAy3f21esjfeb84
 status: PUBLISHED
 createdAt: 2025-09-16T16:40:08.008Z
-updatedAt: 2025-10-03T14:20:03.921Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:03.921Z
 firstPublishedAt: 2025-10-03T14:20:03.921Z
 contentType: tutorial
@@ -15,36 +15,34 @@ locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-The flow editor is the environment where we create the charts and set up our flow. In it, we are free to create and edit connections, decisions and actions for our conversation.
-
-In this article, we will talk about the tools that exist within this editor to facilitate the creation of our flows.
+The flow editor is the environment where you create the cards and build the flow. In it, you create and edit connections, decisions, and actions in the conversation.
 
 ## Simulator
 
-One of the most used tools in creating and editing flows is the simulator. With it, we can simulate in real time a conversation that would happen with the execution of the flow we are creating.
+The simulator reproduces, in real time, a conversation with the flow you are creating.
 
-To access the simulator, just click on the button with the symbol of a cell phone in the right corner of the screen.
+To access the simulator, click the button with the symbol of a cell phone in the right corner of the screen.
 
 When you click the button, you will see the simulator, which appears in the shape of a cell phone in the right corner of the screen, with the flow running.
 
 Now, you can send messages as a response to your flow using the text bar (1), restart the simulation anytime by using the simulator's restart button (2), send attachments like photos, audio, and videos using the attachments button (3), enable WhatsApp mode (4), and end the use of the simulator whenever you wish (5).
-If you want a more complete version of the simulator, just press the @ (5) button that will transform the simulator to this new mode:
+To use a more complete version of the simulator, click the @ (6) button:
 
-Allowing you to be able to follow in real time the changes in the expressions that are involved with that flow execution. To learn more about expressions, read the [expressions](/en/docs/tutorials/expressions-glossary) article.
+This mode lets you follow, in real time, the changes in the expressions involved in the flow execution. To learn more about expressions, read the [expressions](/en/docs/tutorials/expressions-glossary) article.
 
 ## Edition versions
 
-Another very useful tool is the edition version registration. Each change you make to a flow, from the creation of a new letter, to aesthetically realigning your flowchart, has your change recorded in a list of edition versions. Using this list, we were able to return the modifications of a flow to any past moment, avoiding rework to undo unwanted modifications.
+The edition version log records each change to the flow, from creating a card to realigning the flowchart. With this list, you can revert the flow to a previous version.
 
-To access the edition versions, just click on the clock button just below the simulator button.
+To access the edition versions, click the clock button below the simulator button.
 
-You can select one of the options from the list to see the old versions of the flow, and if you want to go back to that version, just click the revert button.
+You can select one of the options from the list to see the old versions of the flow, and if you want to go back to that version, click the revert button.
 
 ## Start flow button
 
-The start flow button is important for some tests and validations. With it, we were able to start a flow manually with contacts or groups that already exist on the platform. This flow, unlike the simulator, will actually be executed by the contact on your preferred channel.
+The start flow button manually starts a flow with contacts or groups that already exist on the platform. This flow, unlike the simulator, will be executed by the contact on your preferred channel.
 
-The button is located in the right corner, just above the other tools shown in the article.
+The button is located in the right corner, above the other tools shown in the article.
 
 Before we launch these contacts in the flow, we can configure some details:
 
@@ -54,7 +52,7 @@ Before we launch these contacts in the flow, we can configure some details:
 
 ## Settings menu
 
-In addition, we have a number of options in the settings menu, which we can easily find next to the Start Flow button.
+The settings menu is next to the Start Flow button.
 
 1. **Results:** Option to analyze and export flow results, based on contact usage. A way to verify which contacts have passed through the flow.
 2. **Copy UUID:** Option that allows you to obtain the flow's identifier. Each flow has a specific UUID.
@@ -67,9 +65,9 @@ In addition, we have a number of options in the settings menu, which we can easi
 
 ## Toolbar
 
-In this part of the Flow Editor, you will find some tools to make your work easier. Just click and use them.
+The toolbar contains the actions below.
 
-1. **Select and Drag:** These functions help select cards (arrow-shaped button) and navigate through the flow (hand-shaped button). You can also use the "v" key to switch between these functions more easily.
+1. **Select and Drag:** These functions help select cards (arrow-shaped button) and navigate through the flow (hand-shaped button). You can also use the "v" key to switch between these functions.
 2. **Create Block:** Use this button to create any card for your flow.
 3. **Copy:** Select one or more cards and click this button to copy them. Use the Ctrl + V keys to paste. This function allows you to paste copied cards into another flow. You can also copy using the Ctrl + C keys.
 4. **Search:** Search for elements within cards, such as the card name, message text, or result name. This function can be activated with the Ctrl + F keys.

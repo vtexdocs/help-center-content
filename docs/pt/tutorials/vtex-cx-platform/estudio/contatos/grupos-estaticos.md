@@ -23,11 +23,11 @@ O grupo estático é o tipo de grupo onde os contatos precisam ser adicionados e
 
 Você pode encontrar a descrição das cartas de fluxo para grupos clicando [cartas de ações](https://help.vtex.com/pt/docs/tutorials/cartas-de-acao) e [decisões.](https://help.vtex.com/pt/docs/tutorials/cartas-de-decisao).
 
-Para criar um grupo estático, basta navegar até a página de contatos, em **Contatos** (em **Operações**), e clicar no botão **Criar Grupo** no menu lateral.
+Para criar um grupo estático, vá até a página de contatos, em **Contatos** (em **Operações**), e clicar no botão **Criar Grupo** no menu lateral.
 
-Depois disso, basta escolher o nome do seu grupo e criá-lo pelo pop-up que vai aparecer.
+Depois disso, escolha o nome do seu grupo e criá-lo pelo pop-up que vai aparecer.
 
-O grupo vai começar a ser listado na sua lista de grupos, logo abaixo das categorias de contatos no menu lateral da esquerda. Caso você queira editar o nome do seu grupo, exportar os contatos participantes ou exclui-lo, basta acessar o grupo e em seguida clicar no botão de configurações no canto direito ao lado de **Gerenciar Campos**.
+O grupo vai começar a ser listado na sua lista de grupos, abaixo das categorias de contatos no menu lateral da esquerda. Caso você queira editar o nome do seu grupo, exportar os contatos participantes ou excluí-lo, acesse o grupo e clique no botão de configurações no canto direito ao lado de **Gerenciar Campos**.
 
 ## Grupo dinâmico e pesquisas de contato
 

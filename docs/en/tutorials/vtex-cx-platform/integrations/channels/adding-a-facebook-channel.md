@@ -3,7 +3,7 @@ title: "Adding a Facebook channel"
 id: 5ImudpMfcQjuyVOIgPyNxr
 status: PUBLISHED
 createdAt: 2025-09-15T14:03:58.606Z
-updatedAt: 2025-10-03T14:20:33.830Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:33.830Z
 firstPublishedAt: 2025-10-03T14:20:33.830Z
 contentType: tutorial
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Facebook has updated its integration policies so now you can easily connect a Facebook page to create a Messenger channel in just a few moments.
+Facebook has updated its integration policies, so you can connect a Facebook page to create a Messenger channel.
 
 ## Adding a page
 
@@ -29,7 +29,7 @@ Facebook has updated its integration policies so now you can easily connect a Fa
 
 5. Choose the page you want to add and click **Create Channel**.
 
-If you need to log into the platform, you will be asked to give permissions to allow. You should allow all to complete the process. Then, you will be directed back to the previous step.
+If you need to log in to the platform, you will be asked to grant permissions. You should allow all of them to complete the process. Then, you will be directed back to the previous step.
 
 You will be automatically directed to the page of your new channel, where you can view your channel's record.
 

@@ -3,7 +3,7 @@ title: 'Integrar com o ChatGPT'
 id: UXxv0OSNSdcu4OOXyqaQX
 status: PUBLISHED
 createdAt: 2025-09-16T14:17:58.294Z
-updatedAt: 2025-10-03T14:20:32.129Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.129Z
 firstPublishedAt: 2025-10-03T14:20:32.129Z
 contentType: tutorial
@@ -15,13 +15,13 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Com a integração do VTEX CX Platform e ChatGPT, você tem à sua disposição um assistente virtual inteligente, alimentado pela avançada tecnologia de linguagem natural da OpenAI. Atendimento ao cliente totalmente automatizado, porém, com um toque humano e personalizado.
+Com a integração do VTEX CX Platform e ChatGPT, você tem à sua disposição um assistente virtual inteligente, alimentado pela avançada tecnologia de linguagem natural da OpenAI. Atendimento ao cliente automatizado, porém, com um toque humano e personalizado.
 
 Com o ChatGPT é possível proporcionar aos seus clientes respostas instantâneas, precisas e envolventes para suas perguntas e necessidades, a qualquer hora e em qualquer lugar. Ele é capaz de compreender nuances da linguagem humana, aprendendo e adaptando-se constantemente.
 
-Dessa maneira aprimora o suporte ao cliente, automatiza tarefas repetitivas e proporciona uma experiência personalizada. Esse recurso, impulsionado pelo VTEX CX Platformvocê a aumentar a eficiência, economizar tempo e conquistar a satisfação dos clientes de forma excepcional.
+Dessa maneira aprimora o suporte ao cliente, automatiza tarefas repetitivas e proporciona uma experiência personalizada. Esse recurso, impulsionado pelo VTEX CX Platform, ajuda você a aumentar a eficiência, economizar tempo e conquistar a satisfação dos clientes de forma excepcional.
 
-Para começar, acesse o VTEX CX Platformu lateral esquerdo, clique em **Configurações > Canais**. Em seguida, na seção **Descoberta**, clique no botão procure por "ChatGPT".
+Para começar, acesse o VTEX CX Platform. No menu lateral esquerdo, clique em **Configurações > Canais**. Em seguida, na seção **Descoberta**, procure por “ChatGPT”.
 
 Preencha os campos com **Nome**, **Token** (seu token de consumo da API do chatGPT) e **Versão**. Para concluir essa etapa clique em continuar.
 
@@ -72,11 +72,11 @@ Após definir a base de conteúdo é preciso inserir os prompts, que são a inst
 
 *Essa lista de princípios é usada para definir quais ações tomar no momento da resposta. Também é possível criar um prompt para, caso a pergunta esteja fora do contexto, o chatGPT responder somente com um caractere ou emoji e você tratar essa resposta no fluxo para direcionar ao atendimento humano ou como preferir:*
 
-> *Se essa pergunta não estiver no contexto, responda com o emoji \\""😕\\"".*
+> *Se essa pergunta não estiver no contexto, responda com o emoji “😕”.*
 
 Você pode inserir mais de um Prompt nas configurações do chatGPT, podendo escolher no fluxo qual prompt usar, de acordo com a jornada conversacional.
 
-## Como usar a integração nos fluxos
+## Usar a integração nos fluxos
 
 Para usar a integração do chatGPT nos fluxos, você deve usar o cartão “Call External Service” após receber uma mensagem ou resposta do usuário. Seu fluxo pode ser construído dessa forma:
 
@@ -87,4 +87,4 @@ Para usar a integração do chatGPT nos fluxos, você deve usar o cartão “Cal
 5. Definir o input de mensagem do usuário: pode manter @input.text, porém se quiser buscar a resposta do usuário em determinada etapa conversacional, você pode adicionar uma expressão para buscar esse valor. O input de texto vai buscar a última mensagem que o usuário digitou em seu canal;
 6. Defina um nome para salvar o resultado do seu cartão de integração com o chatGPT. Esse nome será usado posteriormente na expressão que vai consumir a resposta gerada pela inteligência: @results.retorno.extra.choices.0.message.content
 
-[Clique para baixar um fluxo de exemplo](https://github.com/weni-ai/weni-responde/blob/main/Integra%C3%A7%C3%A3o%20Nativa%20com%20ChatGPT.json), depois é só importar no seu projeto.
+[Clique para baixar um fluxo de exemplo](https://github.com/weni-ai/weni-responde/blob/main/Integra%C3%A7%C3%A3o%20Nativa%20com%20ChatGPT.json), depois importe-o no seu projeto.

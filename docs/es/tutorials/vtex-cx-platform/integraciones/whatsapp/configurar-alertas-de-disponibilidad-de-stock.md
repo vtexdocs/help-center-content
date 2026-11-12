@@ -24,7 +24,7 @@ Antes de configurar la alerta, verifica lo siguiente:
     - En **FastStore**, agrega el componente **Shopping Assistant** mediante **Global Sections** en el [CMS](https://help.vtex.com/es/docs/tutorials/cms-informacion-general). Este componente agrega el script `agentic-cx` a la tienda. Luego, activa el **Shopping Assistant** en la aplicación VTEX CX.
 - WhatsApp está conectado a la aplicación VTEX CX.
 - La automatización **WhatsApp Back in Stock** está conectada.
-- Meta aprobó el template de WhatsApp **Back in stock**. Espera hasta que el status del template cambie a **Approved** antes de activar la alerta, ya que los mensajes no se pueden enviar mientras el template esté pendiente o rechazado.
+- Meta aprobó el template de WhatsApp **Back in stock**. Espera hasta que el estado del template cambie a **Approved** antes de activar la alerta, ya que los mensajes no se pueden enviar mientras el template esté pendiente o rechazado.
 
 ## Mostrar la alerta en las páginas de producto
 
@@ -34,7 +34,7 @@ Para mostrar el diálogo de suscripción en las páginas de producto sin stock, 
 2. Ve a **Settings > Shopping Assistant**.
 3. En **Back in stock alert**, activa **Show on out-of-stock product pages**.
 
-El status de **Back in stock alert** cambia a **Active**, y los compradores pueden suscribirse en las páginas de producto elegibles.
+El estado de **Back in stock alert** cambia a **Active**, y los compradores pueden suscribirse en las páginas de producto elegibles.
 
 Para dejar de mostrar el diálogo, desactiva **Show on out-of-stock product pages**.
 
@@ -56,15 +56,15 @@ Para editar el template, sigue los pasos a continuación:
     - Pie de página.
     - Etiquetas de los botones. El template incluye un botón que abre el producto y otro que detiene los mensajes promocionales.
     - URL del botón del producto. La URL contiene una sección editable seguida de una variable fija `{{1}}`.
-5. Revisa las variables que aparecen en el editor. Cada variable incluye su significado y un texto de fallback.
-6. Mantén completada la condición de inicio. Esta condición determina cuándo se envía el mensaje.
+5. Revisa las variables que aparecen en el editor. Cada variable incluye su significado y un texto alternativo.
+6. Verifica que la condición de inicio esté completa. Esta condición determina cuándo se envía el mensaje.
 7. Haz clic en `Save`.
 
 > ⚠️ Mantén el texto del mensaje dentro de los 1.024 caracteres, el pie de página dentro de los 60 caracteres y cada etiqueta de botón dentro de los 25 caracteres. La URL del botón no puede contener espacios. El editor no valida estos límites antes de guardar, pero Meta rechaza los templates que los superan.
 
 El texto del mensaje es obligatorio, y `Save` permanece no disponible cuando este campo está vacío. No puedes agregar más botones porque `Add element` no está disponible para este template.
 
-Después de guardar los cambios, el template se envía a Meta para su revisión, lo que puede tardar hasta 24 horas. Durante este período, el template tiene un status pendiente. Una vez completada la revisión, el status cambia a aprobado o rechazado. Si Meta rechaza el template, la lista de templates muestra el status rechazado sin el motivo.
+Después de guardar los cambios, el template se envía a Meta para su revisión, lo que puede tardar hasta 24 horas. Durante este período, el template tiene un estado pendiente. Una vez completada la revisión, el estado cambia a aprobado o rechazado. Si Meta rechaza el template, la lista de templates muestra el estado rechazado sin el motivo.
 
 ## Comportamiento de la alerta
 

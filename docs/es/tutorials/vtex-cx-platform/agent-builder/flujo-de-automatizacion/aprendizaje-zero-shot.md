@@ -3,7 +3,7 @@ title: "Aprendizaje zero shot"
 id: 5Qk9g3o19n26jSz7cnbVL8
 status: PUBLISHED
 createdAt: 2025-09-16T16:48:11.308Z
-updatedAt: 2025-10-03T14:20:03.861Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:03.861Z
 firstPublishedAt: 2025-10-03T14:20:03.861Z
 contentType: tutorial
@@ -15,7 +15,7 @@ locale: es
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-Zero Shot es una técnica de procesamiento de lenguaje natural que permite a los **agentes inteligentes reconocer caracter ísticas que no han sido entrenadas previamente**. Zero Shot no necesita datos de entrenamiento, lo que permite acelerar el proceso de creación de IA y clasificar frases de manera rápida y precisa. Sus mayores beneficios son: aumentar la adhesión de los clientes, mejorar la comprensión durante la conversación con el usuario final y facilitar la implementación de IA en nuevos proyectos.
+Zero Shot es una técnica de procesamiento de lenguaje natural que permite a los **agentes inteligentes reconocer caracter ísticas que no han sido entrenadas previamente**. Zero Shot no necesita datos de entrenamiento, lo que permite acelerar el proceso de creación de IA y clasificar frases. Sus beneficios son: aumentar la adhesión de los clientes, mejorar la comprensión durante la conversación con el usuario final y facilitar la implementación de IA en nuevos proyectos.
 
 Algunas informaciones importantes sobre el modelo:
 
@@ -27,10 +27,9 @@ Algunas informaciones importantes sobre el modelo:
 | Claude 3 (Sonnet) | 77,6% Exactitud |
 
 - Al menos 3 veces más rápido en la clasificación (inferencia);
-- Modelo eficiente incluido en su plan VTEX CX Platform, sin necesidad de llamadas de API o costos adicionales;
-- Implementación fácil y rápida.
+- Modelo incluido en su plan VTEX CX Platform, sin necesidad de llamadas de API o costos adicionales.
 
-Vea un video rápido y explicativo: [video.](https://youtu.be/RDRgSXIJRrM)
+Vea el video explicativo: [video.](https://youtu.be/RDRgSXIJRrM)
 
 ## Aplicación y funcionalidades
 
@@ -38,9 +37,7 @@ El funcionamiento de la aplicación de Zero Shot consiste en recibir como entrad
 
 Cuando hablamos de contexto, tenga en cuenta que siempre que use Zero Shot, debemos configurar las Frases de Comando. Estas frases instruir án a la inteligencia para clasificar sus intenciones (llamadas "Clases") de acuerdo con las reglas que usted defina.
 
-## Zero shot en la práctica
-
-Hay dos formas de crear una IA de clasificación de tipo Zero Shot en la VTEX CX Platform: a través de las tarjetas de flujo** "Clasificar automáticamente" y "Esperar por respuesta inteligente".**
+Hay dos formas de crear una IA de clasificación de tipo Zero Shot en la VTEX CX Platform: las tarjetas **Clasificar automáticamente** y **Esperar por respuesta inteligente**.
 
 ## Esperar por respuesta inteligente
 
@@ -56,4 +53,6 @@ Recuerde, cada categoría debe tener una Frase de Comando. **Estas frases instru
 
 ## Clasificar automáticamente
 
-Con la tarjeta "Clasificar automáticamente", puede utilizar una expresión o variables como entrada para la clasificación de la intención (Clase) del usuario. Normalmente, esta tarjeta se usa cuando ya tiene un texto para tratar y no necesita esperar una respuesta del usuario antes de consultar la Inteligencia Artificial:
+Con la tarjeta **Clasificar automáticamente**, puede utilizar una expresión o variables como entrada para la clasificación de la intención (Clase) del usuario. Normalmente, esta tarjeta se usa cuando ya tiene un texto para tratar y no necesita esperar una respuesta del usuario antes de consultar la inteligencia artificial:
+
+La diferencia entre la tarjeta **Esperar por respuesta inteligente** y **Clasificar automáticamente** es que esta última no provoca una pausa en el flujo para recibir la respuesta del contacto.

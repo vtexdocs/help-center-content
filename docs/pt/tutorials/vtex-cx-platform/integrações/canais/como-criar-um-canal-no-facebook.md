@@ -3,7 +3,7 @@ title: 'Criar um canal no Facebook'
 id: 5ImudpMfcQjuyVOIgPyNxr
 status: PUBLISHED
 createdAt: 2025-09-15T14:03:58.606Z
-updatedAt: 2025-10-03T14:20:33.830Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:33.830Z
 firstPublishedAt: 2025-10-03T14:20:33.830Z
 contentType: tutorial
@@ -15,13 +15,13 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-O Facebook atualizou suas políticas de integração, então agora você pode conectar facilmente uma página do Facebook para criar um canal do Messenger em apenas alguns instantes.
+O Facebook atualizou suas políticas de integração, então agora você pode conectar uma página do Facebook para criar um canal do Messenger.
 
 ## Adicionar uma página
 
 1. Em seu projeto, acesse **Configurações > Canais**
 
-2. Em descobertas procure pelo app e clique no botão de adicionar
+2. Em **Descoberta**, procure pelo app e clique no botão de adicionar
 
 3. Uma nova janela será aberta. Clique no botão Conectar;
 

@@ -3,7 +3,7 @@ title: "Connecting and talking to the bot through the settings"
 id: 2bL4YkQxhUVZcRuyWRcTNs
 status: PUBLISHED
 createdAt: 2025-09-15T14:00:06.153Z
-updatedAt: 2025-10-03T14:20:33.859Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:33.859Z
 firstPublishedAt: 2025-10-03T14:20:33.859Z
 contentType: tutorial
@@ -32,4 +32,4 @@ To add channels to your account, you must:
 
 Choose the channels you want to use and integrate.
 
-We provide a standardized approach for all channels, meaning that even if you choose more than one option, the platform will handle the contacts in the same way.Another way to integrate channels is through the **Discovery** tab in the **Applications** module.
+We provide a standardized approach for all channels, meaning that even if you choose more than one option, the platform will handle the contacts in the same way. Another way to integrate channels is through the **Discovery** tab in the **Applications** module.

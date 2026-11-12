@@ -35,4 +35,4 @@ Para criar um novo campo, siga os passos abaixo:
 - Depois selecione o tipo de dado do seu campo em **Tipo de Dados**. Os valores aceitos são: Texto, Número, Data & Horário, Estado, Distrito e Divisão.
 - Se você deseja que esse campo apareça na pré-visualização da página de contatos, selecione a caixa de seleção **Destaque**.
 
-Caso queira editar alguma informação, basta clicar em cima do campo de contato já existent. O pop-up de edição irá abrir novamente.
+Caso queira editar alguma informação, clique no campo de contato já existent. O pop-up de edição irá abrir novamente.

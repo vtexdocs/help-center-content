@@ -3,7 +3,7 @@ title: 'Criar um canal SMS'
 id: 27vYYO5fWrfZM0I4SsjHGX
 status: PUBLISHED
 createdAt: 2025-09-15T14:24:32.351Z
-updatedAt: 2025-10-03T14:20:32.957Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.957Z
 firstPublishedAt: 2025-10-03T14:20:32.957Z
 contentType: tutorial
@@ -15,14 +15,14 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-O VTEX CX Platformios canais SMS para serem configurados para receber e enviar mensagens e, de acordo com o aplicativo escolhido, terá configurações diferenciadas a serem feitas. Para ativar um canal vá a **Configurações > Canais > Outras Aplicações > Adicionar Canal**
+O VTEX CX Platform tem vários canais SMS para serem configurados para receber e enviar mensagens e, de acordo com o aplicativo escolhido, terá configurações diferenciadas a serem feitas. Para ativar um canal, vá a **Configurações > Canais > Outras Aplicações > Adicionar Canal**
 
 Na nova aba procure por **Canais de Voz e SMS:**
 
 Após escolher o seu canal SMS, realize o passo a passo para realizar essa integração. Aqui temos os canais SMS disponíveis no projeto.
 
-- Twillio
-- Twillio Messaging Service
+- Twilio
+- Twilio Messaging Service
 - Vonage
 - Clickatell
 - External API

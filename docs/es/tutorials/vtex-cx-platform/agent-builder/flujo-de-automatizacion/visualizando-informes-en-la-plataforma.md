@@ -3,7 +3,7 @@ title: "Visualizando informes en la plataforma"
 id: 336oZVyzWmvheGQC1cGnpN
 status: PUBLISHED
 createdAt: 2025-09-17T14:08:47.929Z
-updatedAt: 2025-10-03T14:20:03.697Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:03.697Z
 firstPublishedAt: 2025-10-03T14:20:03.697Z
 contentType: tutorial
@@ -19,11 +19,11 @@ Después de construir y ejecutar nuestros flujos, nuestro próximo deseo, sin du
 
 ## Accediendo a los resultados del flujo
 
-Para acceder a los resultados del flujo, simplemente abre el flujo en cuestión, haz clic en el menú de hamburguesa junto al botón **Comenzar flujo** y selecciona la opción **Resultados**.
+Para acceder a los resultados del flujo, abre el flujo en cuestión, haz clic en el menú de hamburguesa junto al botón **Comenzar flujo** y selecciona la opción **Resultados**.
 
 En la pestaña de Resultados, tenemos dos opciones de informes:
 
-**Visión General**:
+**Visión general**:
 La pestaña de visión global permite tener una visión general de los usuarios que pasaron por el flujo.
 
 **Ejecuciones (runs)** La pestaña de _runs_ permite acceder a todos los datos brutos, en formato de hoja de cálculo, que pueden ser exportados y utilizados en otras aplicaciones para la validación de datos.

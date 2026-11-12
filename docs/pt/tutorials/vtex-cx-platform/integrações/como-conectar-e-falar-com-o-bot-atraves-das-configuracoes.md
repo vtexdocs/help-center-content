@@ -3,7 +3,7 @@ title: 'Conectar e falar com o bot através das configurações'
 id: 2bL4YkQxhUVZcRuyWRcTNs
 status: PUBLISHED
 createdAt: 2025-09-15T14:00:06.153Z
-updatedAt: 2025-10-03T14:20:33.859Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:33.859Z
 firstPublishedAt: 2025-10-03T14:20:33.859Z
 contentType: tutorial
@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Alcançar o consumidor requer uma abordagem multicanal. A comunicação multicanal envolve utilizar as tecnologias disponíveis para garantir que o cliente receba informações personalizadas através dos diversos canais que ele já utiliza em seu dia a dia.
 
-## Para adicionar canais em sua conta, você deve
+## Adicionar canais
 
 1. Em seu projeto: Configurações > Canais > Outras Aplicações > Add Channel
 
@@ -30,6 +30,6 @@ Alcançar o consumidor requer uma abordagem multicanal. A comunicação multican
 
 **APIs:**
 
-Agora é só escolher os canais que você deseja utilizar e fazer a integração.
+Agora, escolha os canais que você deseja utilizar e faça a integração.
 
 Oferecemos um tratamento padronizado para todos os canais, ou seja, mesmo que você escolha mais de uma opção, a plataforma vai tratar os contatos exatamente da mesma forma. Outra forma de integrar canais é em **Configurações > Canais**.

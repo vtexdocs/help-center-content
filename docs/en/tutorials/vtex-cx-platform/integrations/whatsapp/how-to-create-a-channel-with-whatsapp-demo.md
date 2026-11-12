@@ -3,7 +3,7 @@ title: "Creating a channel with WhatsApp Demo"
 id: 4AXs746iQgEDFxMDccpdO9
 status: PUBLISHED
 createdAt: 2025-09-15T15:01:29.556Z
-updatedAt: 2025-10-03T14:20:32.706Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.706Z
 firstPublishedAt: 2025-10-03T14:20:32.706Z
 contentType: tutorial
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-VTEX CX Platform allows you to test the WhatsApp bot quickly and efficiently through our Applications Module! To use this tool, follow these steps:
+VTEX CX Platform allows you to test the WhatsApp bot through our Applications Module! To use this tool, follow these steps:
 
 1. First, access the organization where the project you want to integrate is located.
 2. Find the project you want to integrate.

@@ -3,7 +3,7 @@ title: "Ticketer: Ticketer on Rapid Pro"
 id: 1X3XC7dZqvjeRPL5Ywrzx4
 status: PUBLISHED
 createdAt: 2025-09-15T15:15:18.674Z
-updatedAt: 2025-10-03T14:20:32.477Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.477Z
 firstPublishedAt: 2025-10-03T14:20:32.477Z
 contentType: tutorial
@@ -19,57 +19,57 @@ The Ticketer Service is used to provide human assistance to users who contact yo
 
 - Open a ticket using flows
 - Add service agents
-- View and manage services
-- Close services
-- Transfer services
+- View and manage tickets
+- Close tickets
+- Transfer tickets
 - Contact information
 
-## Opening a ticket in a flow
+## Open a ticket in a flow
 
-You can quickly start a ticket at any point in your flow by adding the 'open a ticket with a human agent' action.
+You can start a ticket at any point in your flow by adding the 'open a ticket with a human agent' action.
 
 1\. Create a card “Open a ticket with a human agent”
 
-2\. Pick a topic or category. To create a new topic or category option, type the name in the bar and it will be automatically created.
+2\. Pick a topic or category. To create a new topic or category, type its name in the bar, and it will be created automatically.
 
-3\. This is an optional configuration, in case you don't Assign an agent to the ticket, Any agent will be able to pick up the ticket in the “unsigned” ticket box . In case you choose an Agent, all the tickets will be automatically assigned and appear on the “My tickets” box.
+3\. This is an optional configuration. If you don't assign an agent to the ticket, any agent will be able to pick it up from the “unassigned” ticket box. If you choose an agent, the ticket will be automatically assigned and appear in the “My tickets” box.
 
 _*See the section below on how to add new agents to your workspace._
 
 4\. Add any information you want your agents to see while interacting with the contact by referencing any result in the flow using '@results'.
 
-## Adding agents
+## Add agents
 
-Now, you should  add agents to handle the ticket. First, go to your workspace settings page by clicking on your name at the top right.
+Now, you should add agents to handle the ticket. First, go to your workspace settings page by clicking on your name at the top right.
 
-Scroll down to find on the [multi-login](https://help.nyaruka.com/en/article/multi-login-support-adding-editing-removing-multiple-account-roles-df2ay6/) section.
+Scroll down to the [multi-login](https://help.nyaruka.com/en/article/multi-login-support-adding-editing-removing-multiple-account-roles-df2ay6/) section.
 
  Click the 'Manage Logins' button.
 
 On this page you can invite your agents by entering their email address(1), assign the role of "agent" from the drop-down menu(1) and click “Save changes”(3)
 
-## Viewing and handling tickets
+## View and manage tickets
 
-Click the ‘tickets’ tab(1) in your workspace to view all tickets. The all folder is for all tickets while the unassigned folder is for tickets that are yet to be assigned(2).
+Click the ‘tickets’ tab(1) in your workspace to view all tickets. The all folder shows all tickets, while the unassigned folder shows tickets that have not yet been assigned (2).
 
 Once you choose a folder, toggle open or closed using the drop-down menu to view resolved or unresolved tickets(3).
 
-## Opening and closing tickets
+## Open and close tickets
 
-Once the ticket has been resolved, you can mark the tickets as resolved by clicking the checkmark on the open ticket.
+Once a ticket has been resolved, you can mark it as resolved by clicking the checkmark on the open ticket.
 
 If you need to reopen a ticket, all closed tickets have a button to reopen them at the bottom of the conversation.
 
 ## Contact details
 
-All customed fields for contacts are visible from the contact’s details pane, along with any information entered from the flow. To open the pane, click on the small square icon on the right of the conversation.
+All custom fields for contacts are visible from the contact’s details pane, along with any information entered from the flow. To open the pane, click on the small square icon on the right side of the conversation.
 
-## Assigning tickets to another agent
+## Assign tickets to another agent
 
 Aside from assigning tickets from the flow, you can always assign tickets directly from the Tickets tab. Right under the details icon, you will see the icon to assign.
 
-Once you clock on the assign icon, you will be able to select the agent (1), add Notes and save the changes.
+Once you click the assign icon, you will be able to select the agent (1), add Notes and save the changes.
 
 ## Starting a flow after a ticket is closed
 
-It is essential to follow up with your contacts once an agent has resolved an open ticket. You can start the contact in a flow immediately after closing a ticket. Navigate to the "Triggers" tab then scroll down to find Start a flow after a ticket is closed and choose your flow.
+It is essential to follow up with your contacts once an agent has resolved an open ticket. You can start a flow with the contact immediately after closing a ticket. Navigate to the "Triggers" tab, then scroll down to find Start a flow after a ticket is closed, and choose your flow.

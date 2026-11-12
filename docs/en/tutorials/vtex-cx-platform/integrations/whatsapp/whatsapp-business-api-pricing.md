@@ -3,7 +3,7 @@ title: "WhatsApp business API pricing"
 id: 6PzP7aMpkaYmICNyXFlNwr
 status: PUBLISHED
 createdAt: 2025-09-15T15:29:16.093Z
-updatedAt: 2025-10-03T14:20:32.421Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.421Z
 firstPublishedAt: 2025-10-03T14:20:32.421Z
 contentType: tutorial
@@ -37,11 +37,11 @@ Sending multiple templates of the same category in an open conversation will not
 
 ## Exceptions
 
-Free-entry point conversations occur when the customer contacts the company through a call-to-action button in click-to-WhatsApp ads or Facebook Pages. Since the WhatsApp Business user is already being charged for the ad published on social media, they will not be charged for any message templates sent in that conversation within a 72-hour period.
+Free-entry point conversations occur when the customer contacts the company through a call-to-action button in click-to-WhatsApp ads or Facebook Pages. Since the business is already paying for the ad published on social media, it will not be charged for any message templates sent in that conversation within a 72-hour period.
 
 The initiated conversation is free, but the ad is charged.
 
-Remember that: Each WhatsApp Business account (WABA) has 1,000 free user-initiated conversations per month, regardless of the number of phone numbers included. The free conversation limit is reset each month, according to the time zone associated with the WABA.
+Remember that each WhatsApp Business account (WABA) has 1,000 free user-initiated conversations per month, regardless of the number of phone numbers included. The free conversation limit is reset each month, according to the time zone associated with the WABA.
 
 ## Conversation duration
 

@@ -3,7 +3,7 @@ title: "Opt-in: Obtaining consent for WhatsApp"
 id: 1zqhPT4869IgWgRZ6eJDkv
 status: PUBLISHED
 createdAt: 2025-09-15T15:35:50.207Z
-updatedAt: 2025-10-03T14:20:32.308Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.308Z
 firstPublishedAt: 2025-10-03T14:20:32.308Z
 contentType: tutorial
@@ -19,15 +19,15 @@ Before initiating marketing, service, or authentication conversations with custo
 
 It is allowed to use consent methods through websites, interactive voice response (IVR) flows, or even directly in WhatsApp conversations.
 
-### Requirements for obtaining consent
+## Requirements for obtaining consent
 
 Businesses must follow these requirements when collecting user consent:
 
-- Clearly state that the user is consenting to receive messages from the business via WhatsApp.
+- State that the user is consenting to receive messages from the business via WhatsApp.
 - Visibly display the company's name so that the customer knows who they are agreeing to interact with.
 - Comply with all applicable local laws and regulations.
 
-### Methods for collecting consent
+## Methods for collecting consent
 
 If the collection method meets the above requirements, it will comply with Meta's policies. Below are examples of valid methods for obtaining consent:
 
@@ -39,18 +39,18 @@ If the collection method meets the above requirements, it will comply with Meta'
 
 It is highly recommended that businesses constantly optimize the user experience when developing their consent flows.
 
-##### Tips for improving the consent experience
+### Tips for improving the consent experience
 
 To ensure a positive and optimized experience, businesses should follow these best practices when obtaining consent:
 
 - Set Clear Expectations: Make sure users know what type of messages they will receive and in what contexts.
 - Include Various Message Categories: When requesting consent, include all relevant categories, such as order updates, promotions, and product recommendations.
 - Category-Specific Consent: Obtain specific consents for each type of message, reducing the risk of the user blocking the business for unsolicited messages.
-- Offer Opt-Out Options: Clearly inform users how they can opt out of specific message categories and respect those preferences.
-- Intuitive Flows: Ensure that the opt-in and opt-out processes are simple, clear, and easy to use.
+- Offer Opt-Out Options: Inform users how they can opt out of specific message categories and respect those preferences.
+- Flows: Ensure that the opt-in and opt-out processes are short.
 - Explain the Relevance: Communicate the importance and benefits of receiving information via WhatsApp, ensuring users understand the value of these interactions.
 - Regularly Monitor Quality: Pay attention to the business’s quality rating, especially when implementing new consent collection methods.
 
-### Maintaining high quality in interactions
+## Interaction quality
 
 Maintaining high-quality conversations between businesses and customers is one of Meta's top priorities. Users can block or report businesses, and if this happens frequently, the business's account quality may be impacted, resulting in messaging volume limitations. Additionally, Meta may reactively review a business's consent collection methods, considering user feedback and other forms of monitoring to identify potential policy violations.

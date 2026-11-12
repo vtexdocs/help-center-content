@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-Neste artigo, mostraremos de forma simples como trazer contatos da sua plataforma externa para o VTEX CX Platform.
+Neste artigo, mostraremos como trazer contatos da sua plataforma externa para o VTEX CX Platform.
 
 O VTEX CX Platform possui dezenas de [APIs](https://dash.weni.ai/api/flows/api/v2/explorer) que podem ser consumidas para diversas funcionalidades. Neste artigo, focaremos estritamente na integração de contatos para automatizar sua comunicação.
 

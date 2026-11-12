@@ -1,9 +1,9 @@
 ---
-title: "WhatsApp Bussiness API: How to verify my business"
+title: "WhatsApp Business API: How to verify my business"
 id: 7MaArO3CPxHsjnyyddL6t3
 status: PUBLISHED
 createdAt: 2025-09-15T15:30:49.392Z
-updatedAt: 2025-10-03T14:20:32.393Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.393Z
 firstPublishedAt: 2025-10-03T14:20:32.393Z
 contentType: tutorial
@@ -21,15 +21,15 @@ During the verification process, Meta may request documents such as the certific
 
 While not all businesses need verification on Facebook, verification may be required to access certain features or display business information to users. For example:
 
-WhatsApp Business: When creating a WhatsApp Business account, business verification will be required. VTEX CX Platform, as an official Meta Business Partner (BPS), enables the business verification button for your company after the number integration. (It’s important to remember that Business Verification is the document verification process, not related to the Official Account Badge).
+WhatsApp Business: When creating a WhatsApp Business account, business verification will be required. VTEX CX Platform, as an official Meta Business Partner (BSP), enables the business verification button for your company after the number is integrated. (It’s important to remember that Business Verification is the document verification process, not related to the Official Account Badge).
 
 ## How to access Business Manager
 
-- Access the Business Manager as an administrator via this link: \[https://business.facebook.com/settings/](https://business.facebook.com/settings/)
+- Access the Business Manager as an administrator via this link: [Business Manager](https://business.facebook.com/settings/)
 - Select the business account to be used.
 - Follow the steps below to complete business verification.
 
-### Step 1
+## Start verification
 
 Click on **WhatsApp Accounts** and select the account you want to verify.
 
@@ -43,11 +43,11 @@ Here are some important links for the Business Verification process:
 
 [Upload Official Documents to Verify Your Business](https://www.facebook.com/business/help/159334372093366)
 
-### Step 2
+## Confirm the verification button
 
 If you have already integrated your number into our platform via the **Integrations Menu > My Apps** or if the link between your Meta Business and VTEX CX Platform has been accepted, the **Start Verification** button will be available for you in the new page opened through **View Details**.
 
-### Step 3
+## Submit the documentation
 
 Follow Meta’s instructions carefully, read the requirements thoroughly, and enter the information that matches your company documentation/tax ID (CNPJ) or as requested by Meta.
 
@@ -58,9 +58,9 @@ At this stage, the official documents required for business validation will be r
 - The company information must match the documents exactly;
 - Check that the company data suggested by Meta is up-to-date;
 - The phone number provided must be available to receive official calls, and this should be the number registered in the CNPJ;
-- If you choose the email option, it’s important to use a personal corporate email like **name@company.com**;
+- If you choose the email option, it’s important to use a corporate email like **name@company.com**;
 - If using the Meta TAG method, follow the instructions carefully.
 
 Failure to comply with these requirements will prevent the verification code from being sent to the company.
 
-Now, just wait for the review, and your company will receive verification approval, which typically takes around 2 business days. In case of rejection, identify the issues and try again.
+Now, wait for the review. Your company will receive verification approval, which typically takes around 2 business days. If it is rejected, identify the issues and try again.

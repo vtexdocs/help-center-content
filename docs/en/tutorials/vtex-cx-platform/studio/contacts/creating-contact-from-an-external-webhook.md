@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-In this article we will show you in a simple way how to bring contacts from your external platform to our flow platform.
+In this article we will show you how to bring contacts from your external platform to our flow platform.
 
 The flow platform has dozens of [APIs](https://dash.weni.ai/api/flows/api/v2/explorer) that can be consumed for several other features, in this article we will focus strictly on contact integration to automate your communication.
 

@@ -19,7 +19,7 @@ The keyword is the first word in a message and can be used to start the flow. Fo
 
 All steps described here will be performed on the **"Triggers"** tab, located within the **"Studio"** module.
 
-To facilitate navigation in this article, if you want to go directly to a specific trigger type, just click on its name below:
+To facilitate navigation in this article, if you want to go directly to a specific trigger type, click on its name below:
 
 - [To create a new keyword trigger](#to_create_a_new_keyword_trigger)
 - [Creating a message keyword that allows people to join a group](#creating_a_message_keyword_that_allows_people_to_join_a_group)
@@ -43,7 +43,7 @@ To facilitate navigation in this article, if you want to go directly to a specif
 
 - In flow, it is defined the flow that will be started when you use the keyword
 
-- In groups only, it is possible to apply the rules of this trigger to specific contact groups, just leave the space blank if you want to apply this rule to all users
+- In groups only, it is possible to apply the rules of this trigger to specific contact groups, leave the space blank to apply this rule to all users
 
 - Click the Create trigger button
 

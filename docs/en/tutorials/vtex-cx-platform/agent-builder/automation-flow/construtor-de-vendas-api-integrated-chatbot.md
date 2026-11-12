@@ -3,7 +3,7 @@ title: "Construtor de Vendas API-integrated chatbot"
 id: 31l91LHeVDM8I2ldGxrrAn
 status: PUBLISHED
 createdAt: 2025-09-17T14:25:32.909Z
-updatedAt: 2025-10-03T14:20:03.502Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:03.502Z
 firstPublishedAt: 2025-10-03T14:20:03.502Z
 contentType: tutorial
@@ -15,18 +15,18 @@ locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-This is a communication solution for **listing projects, sending addresses, campaign materials, floor plans, creating leads with conversation history, and opening customer service cases in the Relationship module**. VTEX CX Platform provides digital solutions to automate conscious, open, and accessible communication. This template is a chatbot developed by VTEX CX Platform, using the [Construtor de Vendas API](https://docs.cvcrm.com.br/).
+This template lists projects, sends addresses, campaign materials, and floor plans, creates leads with the conversation history, and opens customer service cases in the Relationship module. The template was developed on VTEX CX Platform and uses the [Construtor de Vendas API](https://docs.cvcrm.com.br/).
 
 Watch a demonstration to understand how the chatbot works and its business rules:
 [**Demonstration of the Chatbot Template CV @cvcrm | VTEX CX Platform**](https://www.youtube.com/watch?v=Pdis7GPSeiU)
 
-### Requirements
+## Before you begin
 
 To begin using the integration, some information is needed to set up your chatbot:
 
 1. **Email and API Token for CV API Consumption**
 
-Create a Token and Email to access the CV API. [Here’s how to create them.](https://suporte.cvcrm.com.br/kb/article/139171/como-gerar-um-token-painel-do-gestor)
+Create a token and an email to access the CV API. [Here’s how to create them.](https://suporte.cvcrm.com.br/kb/article/139171/como-gerar-um-token-painel-do-gestor)
 
 1. **Topics and Subtopics for Customer Service**
 

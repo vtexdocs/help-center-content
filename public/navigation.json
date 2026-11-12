@@ -34728,7 +34728,7 @@
                     {
                       "name": {
                         "en": "Supported media sending - WhatsApp Cloud",
-                        "es": "WhatsApp business API: Envio de mídias",
+                        "es": "WhatsApp Business API: Envío de medios",
                         "pt": "Envio de Mídias Suportadas - WhatsApp Cloud"
                       },
                       "slug": {
@@ -34758,7 +34758,7 @@
                     {
                       "name": {
                         "en": "WhatsApp business API pricing",
-                        "es": "Precificación de WhatsApp business API",
+                        "es": "Precios de WhatsApp Business API",
                         "pt": "Precificação do Whatsapp Business API"
                       },
                       "slug": {
@@ -34787,8 +34787,8 @@
                     },
                     {
                       "name": {
-                        "en": "WhatsApp Bussiness API: How to verify my business",
-                        "es": "WhatsApp bussiness API: ¿Cómo verificar mi negocio?",
+                        "en": "WhatsApp Business API: How to verify my business",
+                        "es": "WhatsApp Business API: ¿Cómo verificar mi negocio?",
                         "pt": "Whatsapp Bussiness API: Como Verificar o meu Negócio"
                       },
                       "slug": {
@@ -34802,8 +34802,8 @@
                     },
                     {
                       "name": {
-                        "en": "WhatsApp Bussiness API: WhatsApp message triggering limitation",
-                        "es": "WhatsApp business API: Limitación de envios masivos en WhatsApp",
+                        "en": "WhatsApp Business API: WhatsApp message triggering limitation",
+                        "es": "WhatsApp Business API: Limitación de envíos masivos en WhatsApp",
                         "pt": "Whatsapp Bussiness API: Limitação de Disparos em Massa do WhatsApp"
                       },
                       "slug": {
@@ -35090,7 +35090,7 @@
                     {
                       "name": {
                         "en": "Configurar o Shopping Assistant",
-                        "es": "Configurar o Shopping Assistant",
+                        "es": "Configurar el Shopping Assistant",
                         "pt": "Configurar o Shopping Assistant"
                       },
                       "slug": {

@@ -3,7 +3,7 @@ title: "Chatbot integrado a API Sienge"
 id: 3ysIw5ORs4JzRTJN92GDx7
 status: PUBLISHED
 createdAt: 2025-09-17T14:23:32.240Z
-updatedAt: 2025-10-03T14:20:03.565Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:03.565Z
 firstPublishedAt: 2025-10-03T14:20:03.565Z
 contentType: tutorial
@@ -15,9 +15,11 @@ locale: pt
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-É um chatbot pronto para envio de segunda via em PDF, extrato em PDF, saldo devedor e realização de cobranças por canais externos, como Whatsapp. O VTEX CX Platform fornece soluções digitais para automatização da comunicação consciente, aberta e acessível. Este chatbot é um projeto template desenvolvido pelo VTEX CX Platform, utilizando o Sienge Plataforma.
+Este template envia segunda via em PDF, extrato em PDF e saldo devedor, e realiza cobranças por canais externos, como WhatsApp. O template foi desenvolvido no VTEX CX Platform e usa o Sienge Plataforma.
 
-Para o funcionamento completo da automatização é necessário criar um usuário de API com permissões para consumir todos os seguintes recursos:
+## Antes de começar
+
+Para o funcionamento completo da automatização, crie um usuário de API com permissão para consumir os recursos abaixo:
 
   * Geração de boleto (Segunda via)
   * Geração do saldo devedor presente do cliente
@@ -32,6 +34,6 @@ Para o funcionamento completo da automatização é necessário criar um usuári
 
 Para criar um usuário de API siga esse [passo a passo](https://www.youtube.com/watch?v=w0f9O20ZeLM&list=PLel5qygu4y7SE1xF8UmVhJBJX6S5YavCE).
 
-Para entender melhor como funciona o chatbot template sienge é só assistir esse [vídeo de demonstração](https://www.youtube.com/watch?v=Z7KYanhT-aw&feature=youtu.be).
+Para ver o funcionamento do template, assista à [demonstração](https://www.youtube.com/watch?v=Z7KYanhT-aw&feature=youtu.be).
 
-Tem interesse nesta solução para o seu negócio? Entre em contato com nossa equipe comercial e solicite uma demonstração.
+Para usar este template, entre em contato com a equipe comercial da VTEX e solicite uma demonstração.

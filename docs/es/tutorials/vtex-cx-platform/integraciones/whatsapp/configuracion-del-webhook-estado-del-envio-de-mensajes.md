@@ -3,7 +3,7 @@ title: "Configuración del webhook: Estado del envío de mensajes"
 id: 4Vz0SFzmpK8tTsA2CUbWAp
 status: PUBLISHED
 createdAt: 2025-09-15T15:38:30.364Z
-updatedAt: 2025-10-03T14:20:32.239Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.239Z
 firstPublishedAt: 2025-10-03T14:20:32.239Z
 contentType: tutorial
@@ -21,19 +21,19 @@ Este servicio de webhook funcionará de la siguiente manera: **cada vez que se e
 
 El manejo de los datos no se realiza dentro de la plataforma de VTEX CX Platform, sino en tu servicio externo de acuerdo con el tratamiento que hayas configurado.
 
-## ¿Qué es un servicio externo y cuál usar?
+## Elegir el servicio externo
 
 Existen diversos servicios externos y se utilizan como una **infraestructura en la nube que almacena un código** que ejecuta alguna acción. Puedes elegir qué servicio usar: [Back4app](https://www.back4app.com/#), [Pipedream](https://pipedream.com/) u otros.
 
 Esto significa que, en estas plataformas externas, puedes configurar una URL para recibir los datos del Webhook de VTEX CX Platform y crear un código para manejar esos datos.
 
-## Cómo configurar
+## Configurar el webhook
 
-Para configurar tu webhook, ve a **Aplicaciones > Mis Aplicaciones > Canal de Whatsapp que deseas configurar > Webhook > Configurar Método, URL y Cabecera de la solicitud:**
+Para configurar tu webhook, ve a **Aplicaciones > Mis Aplicaciones > Canal de WhatsApp que deseas configurar > Webhook > Configurar Método, URL y Cabecera de la solicitud:**
 
 Después de configurar el servicio de webhooks, podrás crear soluciones mediante código o aplicación externa según tu necesidad.
 
-## Retorno de datos
+## Retorno de los datos
 
 Los datos que los webhooks enviarán a tu servicio externo (URL) seguirán el formato Json:
 

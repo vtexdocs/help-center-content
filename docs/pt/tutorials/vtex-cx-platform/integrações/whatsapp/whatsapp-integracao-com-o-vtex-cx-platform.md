@@ -1,7 +1,7 @@
 ---
 title: 'WhatsApp: Integração com o VTEX CX Platform'
 createdAt: 2025-09-15T15:02:52.737Z
-updatedAt: 2026-09-09T19:40:00.000Z
+updatedAt: 2026-11-12T12:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: whatsapp-vtex-cx-platform-integration
@@ -46,7 +46,7 @@ Ao clicar no card do número, você pode gerenciar o conteúdo do canal desse n�
 
 ### Geral
 
-Na aba **Geral**, você consulta os identificadores do número e da conta do WhatsApp Business e acessa os templates do canal. Os campos exibidos nesta aba são somente para leitura. Para modificar, você precisa acessar sua conta da Meta Business.
+Na aba **Geral**, você consulta os identificadores do número e da conta do WhatsApp Business e acessa os templates do canal. Os campos exibidos nesta aba são somente para leitura. Para modificar, você precisa acessar sua conta no Meta Business.
 
 Na seção **Gerenciar conteúdo**, clique em `Ver meus templates` para abrir os templates de mensagem associados ao número.
 
@@ -60,14 +60,14 @@ A seção **Canal do WhatsApp** exibe os dados da linha conectada. Os campos vis
 | **Certificado** | Certificado associado ao número. Quando não se aplica, a interface exibe `N/A`. |
 | **Status de consentimento** | Status de consentimento do número. Se não estiver definido, a interface exibe um traço (`-`). |
 
-A seção **Conta do WhatsApp Business** exibe os identificadores da cona WhatsApp Business vinculada ao canal. Os campos visíveis são:
+A seção **Conta do WhatsApp Business** exibe os identificadores da conta WhatsApp Business vinculada ao canal. Os campos visíveis são:
 
 | Campo | Descrição |
 | --- | --- |
 | **Nome WABA** | Nome da conta do WhatsApp Business. |
 | **ID do WABA** | Identificador do WhatsApp Business na Meta. |
 | **Mensagens em nome de** | Identidade em nome de quem as mensagens são enviadas. Se não estiver definido, a interface exibe um traço (`-`). |
-| **ID do fuso horário** | Fuso horário da WhatsApp Business, no formato IANA. Exemplo: `America/Sao_Paulo`. |
+| **ID do fuso horário** | Fuso horário da conta WhatsApp Business, no formato IANA. Exemplo: `America/Sao_Paulo`. |
 | **Namespace** | Namespace dos templates da WhatsApp Business. |
 
 ### Perfil

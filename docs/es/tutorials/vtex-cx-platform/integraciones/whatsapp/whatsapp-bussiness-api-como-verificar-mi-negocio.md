@@ -1,9 +1,9 @@
 ---
-title: "WhatsApp bussiness API: ¿Cómo verificar mi negocio?"
+title: "WhatsApp Business API: ¿Cómo verificar mi negocio?"
 id: 7MaArO3CPxHsjnyyddL6t3
 status: PUBLISHED
 createdAt: 2025-09-15T15:30:49.392Z
-updatedAt: 2025-10-03T14:20:32.393Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.393Z
 firstPublishedAt: 2025-10-03T14:20:32.393Z
 contentType: tutorial
@@ -27,7 +27,7 @@ VTEX CX Platform es una empresa BPS de Meta, y tras la integración del número,
 
 ## Cómo acceder al administrador de negocios
 
-Accede al Business Manager como administrador a través de este enlace: <https://business.facebook.com/settings/>
+Accede al Business Manager como administrador a través de este enlace: [Business Manager](https://business.facebook.com/settings/)
 
 Selecciona la cuenta empresarial que deseas utilizar.
 
@@ -35,7 +35,7 @@ Sigue los pasos a continuación para realizar la verificación de negocios.
 
 1. Elige la cuenta
 2. Haz clic en configuraciones
-3. Luego, cuentas de WhatsApp
+3. Luego, haz clic en cuentas de WhatsApp
 4. Busca o selecciona en la lista
 5. Haz clic en Iniciar verificación
 
@@ -45,11 +45,13 @@ A continuación, algunos enlaces importantes para el proceso de Verificación de
 
 [Documentos oficiales](https://www.facebook.com/business/help/159334372093366)
 
-### Paso 2
+## Confirmar el botón de verificación
 
 Si ya has integrado tu número en nuestra plataforma a través del Menú Integraciones > Mis Aplicaciones o si se ha aceptado el vínculo entre tu Meta Business y VTEX CX Platform, el botón Iniciar verificación estará disponible para ti en la nueva página que se abre al hacer clic en Ver Detalles.
 
-Si este botón no está visible, contacta al soporte o a tu analista responsable para obtener ayuda con la activación del botón de verificación de negocios.Sigue las instrucciones de Meta, lee atentamente las solicitudes y completa con datos compatibles con tu documentación de empresa/CNPJ o los indicados por Meta.
+Si este botón no está visible, contacta al soporte o a tu analista responsable para obtener ayuda con la activación del botón de verificación de negocios. Sigue las instrucciones de Meta, lee atentamente las solicitudes y completa con datos compatibles con tu documentación de empresa/CNPJ o los indicados por Meta.
+
+## Enviar la documentación
 
 En este momento, se solicitarán los documentos oficiales y obligatorios para la validación del negocio.
 
@@ -59,8 +61,8 @@ El tipo de documento puede variar según el país. Esto se revelará al iniciar 
 
 - Que la información de la empresa sea idéntica a los documentos;
 - Verifica que los datos de tu empresa sugeridos por Meta estén actualizados;
-- El teléfono ingresado debe estar disponible para recibir llamadas oficiales, este es el teléfono registrado en el CNPJ;
+- El teléfono ingresado debe estar disponible para recibir llamadas oficiales, que es el teléfono registrado en el CNPJ;
 - Si eliges la opción de correo electrónico, es importante que sea un correo corporativo, como nombre@empresa.com;
 - Si es por el método Meta TAG, sigue las instrucciones;
 - No cumplir con estos puntos imposibilita el envío del código para la verificación de la empresa;
-- Ahora solo queda esperar el análisis y tu empresa recibirá la validación de la verificación, que dura alrededor de 2 días hábiles para la aprobación. En caso de rechazo, identifica los puntos solicitados y vuelve a intentarlo.
+- Ahora, espera el análisis. Tu empresa recibirá la validación de la verificación, que dura alrededor de 2 días hábiles para la aprobación. En caso de rechazo, identifica los puntos solicitados e inténtalo de nuevo.

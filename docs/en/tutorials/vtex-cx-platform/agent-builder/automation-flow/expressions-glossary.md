@@ -3,7 +3,7 @@ title: "Expressions glossary"
 id: 2E6mLfj9JEizAWTgfQCCED
 status: PUBLISHED
 createdAt: 2025-09-16T16:24:13.021Z
-updatedAt: 2025-10-03T14:20:04.224Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:04.224Z
 firstPublishedAt: 2025-10-03T14:20:04.224Z
 contentType: tutorial
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-Excellent gets its name from borrowing some of the syntax and function names of formulas in Microsoft Excel™, though it has evolved over time and similarities are now much fewer. It is an expression based templating language which aims to make it easy to generate text from a context of values.
+Excellent gets its name from borrowing some of the syntax and function names of formulas in Microsoft Excel™, though it has evolved over time and similarities are now much fewer. It is an expression based templating language which generates text from a context of values.
 
 ## Templates
 

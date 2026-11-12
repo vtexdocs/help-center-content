@@ -3,7 +3,7 @@ title: 'Criar um canal do Slack'
 id: 6At6Ne3yXdVJqEVR8mUzC8
 status: PUBLISHED
 createdAt: 2025-09-15T14:30:28.340Z
-updatedAt: 2025-10-03T14:20:32.860Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.860Z
 firstPublishedAt: 2025-10-03T14:20:32.860Z
 contentType: tutorial
@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-1. Com sua conta e seu workspace já criado, acesse <https://api.slack.com/apps> e acione o botão para criar um novo app.
+1. Com sua conta e seu workspace já criado, acesse [Slack API](https://api.slack.com/apps) e acione o botão para criar um novo app.
 
 2. Selecione a opção `From scratch`.
 
@@ -25,7 +25,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 5. Desça a página até o bloco de conteúdo Scopes e clique em Add an OAuth Scopes.
 
-6. Para o ""Bot Token Scopes"" adicione os escopos de `chat:write`, `files:read`, `files:write`, `users:read`. Para o ""User Token Scopes"" adicione os escopos de `files:read` e `files:write`.
+6. Para o “Bot Token Scopes” adicione os escopos de `chat:write`, `files:read`, `files:write`, `users:read`. Para o “User Token Scopes” adicione os escopos de `files:read` e `files:write`.
 
 7. Suba a página até encontrar o botão `Install to Workspace` e o acione para instalar o app do bot para o seu workspace.
 
@@ -34,7 +34,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 9. Na página de apps do Slack, acesse o menu Basic Information para copiar o `Verification Token`.
 
 10. Vá em **Configurações > Canais** e adicione o app do Slack. Depois de adicionar o canal, você poderá preencher os tokens.
-11. Após preencher todos os campos do formulário abaixo, User OAuth Token, Bot User OAuth Token e Verification Token, acione o botão ""Salvar alterações"" para finalizar.
+11. Após preencher todos os campos do formulário abaixo, User OAuth Token, Bot User OAuth Token e Verification Token, acione o botão “Salvar alterações” para finalizar.
 
 12. Após a finalização do formulário de cadastro, copie a URL que aparecerá na tela de configuração do canal criado.
 
@@ -52,7 +52,7 @@ Após esses passos o bot poderá interagir nos Channels do workspace do Slack qu
 
 1. Para ativar a permissão de troca de mensagens diretas acesse App Home e marque o check box indicado na imagem.
 
-## Como ativar quick replies/botões no Slack
+## Ativar quick replies e botões
 
 No Slack, você precisa habilitar o envio de quick replies. Vá em **Features > Interactivity \& Shortcuts**, e na aba **Interactivity**, adicione a URL que você copiou das configurações do canal no campo **Request URL**. Depois, salve as alterações.
 

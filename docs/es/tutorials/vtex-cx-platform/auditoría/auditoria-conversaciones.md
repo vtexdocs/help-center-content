@@ -22,7 +22,7 @@ En el módulo **Auditoría** puedes acceder a la pestaña **Conversaciones**, do
 
 ## Conversaciones excelentes
 
-Las **conversaciones excelentes** son conversaciones que muestran el valor de los agentes de IA al resolver una demanda real de forma eficaz. Al hacer un análisis en el **Backlog de mejoras**, estas conversaciones se marcan con una tag de estrella e indican que el agente realizó acciones relevantes como:
+Las **conversaciones excelentes** son conversaciones que muestran el valor de los agentes de IA al resolver una demanda real. Al hacer un análisis en el **Backlog de mejoras**, estas conversaciones se marcan con una tag de estrella e indican que el agente realizó acciones relevantes como:
 
 - Resolver una duda o un problema de forma completa utilizando la [base de conocimiento](https://help.vtex.com/es/docs/tutorials/informacion-general-de-agent-builder#base-de-conocimiento), las herramientas o los colaboradores.
 - Ejecutar un flujo complejo con éxito (de pedido, cambio, cancelación, entre otros).
