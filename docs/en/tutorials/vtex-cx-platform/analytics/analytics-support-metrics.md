@@ -1,7 +1,7 @@
 ---
 title: "Analytics"
 createdAt: 2026-07-02T16:25:21.244Z
-updatedAt: 2026-11-10T19:45:00.000Z
+updatedAt: 2026-11-12T23:30:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: analytics-support-metrics
@@ -12,7 +12,7 @@ The **Analytics** page provides metrics about support chats, AI agent conversati
 
 ## Live Desk
 
-**Live Desk** is the human support dashboard in Analytics. It's divided into two tabs: **Monitoring** and **Analysis**.
+**Live Desk** is the human support dashboard in Analytics. It's divided into two tabs: **Live** and **Historical data**.
 
 On this page, you'll find the following controls:
 
@@ -26,13 +26,13 @@ This data refreshes automatically, and you can see the time of the last update n
 
 To configure Live Desk preferences, go to **Settings > Live Desk**. Learn more in [Configure Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk).
 
-### Monitoring
+### Live
 
-The **Monitoring** tab displays real-time information about ongoing support chats in your operation.
+The **Live** tab displays real-time information about ongoing support chats in your operation.
 
 It includes the following sections:
 
-![Monitoring screen 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/analytics/monitoring-screen-1.png)
+![Live screen 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/analytics/monitoring-screen-1.png)
 
 #### 1. Status of support chats
 
@@ -52,20 +52,17 @@ Displays average times calculated in real time for active support chats:
 
 Each metric also displays the maximum value recorded in the period.
 
-Project moderators can set an optional time goal for any of these metrics. Goals are independent, so you can configure one, some, or all of them, and choose the unit in seconds, minutes, or hours. When a goal is set and the current maximum for that metric exceeds it, the widget shows a visual alert. A metric without a goal doesn't show an alert.
+Project moderators can set an optional time limit for any of these metrics. The limits are independent, so you can configure one, some, or all of them, in seconds, minutes, or hours. When chats exceed a limit, the card shows how many chats exceeded it. A metric without a limit doesn't show an alert.
 
-The same goals can also notify the operation outside the widget:
+You can also send an email to selected moderators when the number of chats over a limit reaches the number you set. The default is 5. One email is sent for each limit: wait time, time to 1st response, or chat duration.
 
-- A toast appears in **Analytics**, on any open dashboard, when the number of support chats over the limit reaches the number you configured. The default is 5. The toast appears again only after that count drops below the limit and reaches it once more. While the count stays at or above the limit, it doesn't appear again.
-- An email can be sent to selected moderators and managers, with one message per goal (wait time, time to 1st response, or chat duration), using the same count rule as the toast.
-
-To set the goals, the number of support chats that must exceed them, and the email recipients, see [Analytics: Configuring operational alerts](https://help.vtex.com/en/docs/tutorials/configuring-operational-alerts).
+To set the limits and the email, see [Analytics: Configuring operational alerts](https://help.vtex.com/en/docs/tutorials/configuring-operational-alerts).
 
 #### 3. Support chats opened per hour
 
 Line chart showing the distribution of support chats started throughout the hours of the day. You can use this chart to identify peak demand times and plan representative shift scheduling.
 
-![Monitoring screen 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/analytics/monitoring-screen-2.png)
+![Live screen 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/analytics/monitoring-screen-2.png)
 
 #### 4. Volume per queue
 
@@ -93,7 +90,7 @@ Displays the customer satisfaction score (CSAT) based on the surveys collected a
 
 > ⚠️ To display the CSAT widget, it needs to be enabled natively in at least one of the project's departments. If it's not active, you need to click the `Enable` button and enable it in a department. For more information about departments, see the [Configure Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk) article.
 
-![Monitoring screen 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/analytics/monitoring-screen-3.png)
+![Live screen 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/analytics/monitoring-screen-3.png)
 
 #### 8. Detailed monitoring
 
@@ -104,18 +101,20 @@ Table listing individual support chats in real time. You can switch between the 
 - **Representative:** History of representatives for the period.
 - **Custom breaks:** Record of breaks taken by representatives.
 
-When a time goal is configured, the table highlights the support chats that exceed it:
+When a time limit is configured, the table highlights the support chats that exceed it:
 
-- **Waiting:** Highlights chats whose wait time exceeds the average wait time goal.
-- **In progress:** Highlights chats that exceed the time to 1st response goal or the chat duration goal. If a chat exceeds both, the row shows the first-response alert.
+- **Waiting:** Highlights chats whose wait time exceeds the limit.
+- **In progress:** Highlights chats that exceed the time to 1st response limit or the chat duration limit. If a chat exceeds both, the row shows the first-response alert. The time to 1st response alert clears after the representative sends the first message.
+
+Point to the time to see the limit that chat exceeded.
 
 The columns display information such as contact, wait time, time to first response, representative, department, and queue.
 
 By clicking one of the support chats, you'll be redirected to the Live Desk page under **Operations**.
 
-### Analytics
+### Historical data
 
-The **Analytics** tab displays historical data about completed support chats. Use the period selector to set the date range you want to query.
+The **Historical data** tab displays historical data about completed support chats. Use the period selector to set the date range you want to query.
 
 This tab has the following sections:
 

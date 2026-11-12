@@ -1,7 +1,7 @@
 ---
 title: "Analytics"
 createdAt: 2025-09-12T16:25:21.244Z
-updatedAt: 2026-11-10T19:45:00.000Z
+updatedAt: 2026-11-12T23:50:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: analytics-support-metrics
@@ -20,7 +20,7 @@ Nessa página, você encontra os seguintes controles:
 ![Botões de atualização, filtros e exportação de dados](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/analytics/live-desk-controle-de-dados-e-filtros.png)
 
 - `Atualizar`: Recarrega os dados do painel manualmente.
-- `Filtros`: Abre as opções de filtragem por setor, fila, agente, tags, canal e período. Em **Canal**, pesquise e selecione um ou mais canais usados no projeto, como **Instagram**, **Facebook**, **WhatsApp**, **Teams** e **Email**. A seleção se aplica às métricas do painel.
+- `Filtros`: Abre as opções de filtragem por setor, fila, agente, tags, canal e período. Em **Canal**, pesquise e selecione um ou mais canais usados no projeto, como **WhatsApp**, **Shopping Assistant**, **Email**, **Instagram**, **Facebook**, **Telegram**, **Teams** e outros canais conectados. A seleção se aplica a todas as métricas do dashboard do Live Desk. O filtro de canal fica disponível automaticamente e não requer configuração.
 - `Exportar dados`: Permite baixar os dados exibidos no painel.
 
 Esses dados são atualizados automaticamente e você consegue visualizar a hora da última atualização ao lado do botão **Atualizar**.
@@ -114,9 +114,9 @@ As colunas exibem informações como contato, tempo de espera, tempo para a prim
 
 Ao clicar em um dos atendimentos, você será redirecionado à página do Live Desk dentro de **Operações**.
 
-### Análise
+### Dados históricos
 
-A aba **Análise** exibe dados históricos sobre atendimentos finalizados. Use o seletor de período para definir o intervalo de datas que deseja consultar.
+A aba **Dados históricos** exibe dados históricos sobre atendimentos finalizados. Use o seletor de período para definir o intervalo de datas que deseja consultar.
 
 Essa aba contém as seguintes seções:
 

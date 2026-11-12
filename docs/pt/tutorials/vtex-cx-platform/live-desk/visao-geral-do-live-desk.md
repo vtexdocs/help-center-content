@@ -1,7 +1,7 @@
 ---
 title: 'Live Desk'
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-11-12T18:32:00.000Z
+updatedAt: 2026-11-12T23:30:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
@@ -176,8 +176,8 @@ Quando **Usar assinatura** está ativado no setor, o nome do atendente aparece e
 
 O atendimento humano é acompanhado no dashboard **Live Desk**, no módulo **Analytics**. O dashboard tem duas abas:
 
-- **Monitoramento:** Exibe dados em tempo real dos atendimentos em andamento, como status, tempos médios, volume por fila, tag e canal, e satisfação do cliente (CSAT). Moderadores do projeto podem definir metas de tempo para o dashboard destacar os atendimentos que as ultrapassam. Consulte [Analytics: Configurar alertas operacionais](https://help.vtex.com/pt/docs/tutorials/analytics-configurar-alertas-operacionais).
-- **Análise:** Exibe dados históricos dos atendimentos encerrados no período selecionado.
+- **Ao vivo:** Exibe dados em tempo real dos atendimentos em andamento, como status, tempos médios, volume por fila, tag e canal, e satisfação do cliente (CSAT). Moderadores do projeto podem definir metas de tempo para o dashboard destacar os atendimentos que as ultrapassam. Consulte [Analytics: Configurar alertas operacionais](https://help.vtex.com/pt/docs/tutorials/analytics-configurar-alertas-operacionais).
+- **Dados históricos:** Exibe dados históricos dos atendimentos encerrados no período selecionado.
 
 Você pode filtrar os dados por setor, fila, atendente, tag, canal e período. Para baixar os dados exibidos no dashboard, clique em `Exportar dados`.
 
