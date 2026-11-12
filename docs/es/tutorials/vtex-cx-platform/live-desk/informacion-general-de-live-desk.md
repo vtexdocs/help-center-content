@@ -1,7 +1,7 @@
 ---
 title: 'Live Desk'
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-11-12T18:32:00.000Z
+updatedAt: 2026-11-12T23:30:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
@@ -174,8 +174,8 @@ Cuando **Usar firma** está activada para el departamento, el nombre del represe
 
 El soporte humano se monitorea en el dashboard de **Live Desk** dentro del módulo **Analytics**. El dashboard tiene dos pestañas:
 
-- **Monitoreo:** muestra datos en tiempo real de los chats de soporte en curso, como estado, tiempos promedio, volumen por cola, tag y canal, y satisfacción del cliente (CSAT). Los moderadores del proyecto pueden definir metas de tiempo para que el dashboard resalte los chats que las superan. Consulta [Analytics: Configurar alertas operativas](https://help.vtex.com/es/docs/tutorials/analytics-configurar-alertas-operativas).
-- **Análisis:** muestra datos históricos de los chats de soporte cerrados en el periodo seleccionado.
+- **En tiempo real:** muestra datos en tiempo real de los chats de soporte en curso, como estado, tiempos promedio, volumen por cola, tag y canal, y satisfacción del cliente (CSAT). Los moderadores del proyecto pueden definir metas de tiempo para que el dashboard resalte los chats que las superan. Consulta [Analytics: Configurar alertas operativas](https://help.vtex.com/es/docs/tutorials/analytics-configurar-alertas-operativas).
+- **Datos históricos:** muestra datos históricos de los chats de soporte cerrados en el periodo seleccionado.
 
 Puedes filtrar los datos por departamento, cola, representante, tag, canal y periodo. Para descargar los datos que se muestran en el dashboard, haz clic en `Exportar datos`.
 

@@ -1,7 +1,7 @@
 ---
 title: "Analytics: Configuring operational alerts"
 createdAt: 2026-11-10T17:36:00.000Z
-updatedAt: 2026-11-11T21:20:00.000Z
+updatedAt: 2026-11-12T23:30:00.000Z
 contentType: tutorial
 productTeam: VTEX CX Platform
 slugEN: configuring-operational-alerts
@@ -38,7 +38,7 @@ Email recipients and the notification threshold are configured separately for ea
 4. Next to `Export data`, click the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> more options button.
 5. Click `Operational alerts`.
 6. Turn on one or more of the following alerts:
-    - **Waiting time:** Alert on the Live Desk dashboard when a chat's wait time exceeds the defined limit**
+    - **Waiting time:** Alert on the Live Desk dashboard when a chat's wait time exceeds the defined limit
     - **First response time:** Alert on the Live Desk dashboard when a chat's 1st response time exceeds the defined limit
     - **Handle time:** Alert on the Live Desk dashboard when a chat's handle time exceeds the defined threshold
 7. For each alert you turn on:

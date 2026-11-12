@@ -1,7 +1,7 @@
 ---
 title: "Analytics"
 createdAt: 2026-07-02T16:25:21.244Z
-updatedAt: 2026-11-10T19:45:00.000Z
+updatedAt: 2026-11-12T23:30:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: analytics-support-metrics
@@ -12,7 +12,7 @@ La página **Analytics** presenta métricas sobre chats de soporte, conversacion
 
 ## Live Desk
 
-**Live Desk** es el dashboard de chats de soporte humano de Analytics. Está dividido en dos pestañas: **Monitoreo** y **Análisis**.
+**Live Desk** es el dashboard de chats de soporte humano de Analytics. Está dividido en dos pestañas: **En tiempo real** y **Datos históricos**.
 
 Se muestran los siguientes controles:
 
@@ -26,9 +26,9 @@ Los datos se actualizan automáticamente y puedes ver la hora de la última actu
 
 Para configurar las preferencias de Live Desk, accede a **Configuración > Live Desk**. Más información en el artículo [Configurar Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk).
 
-### Monitoreo
+### En tiempo real
 
-La pestaña **Monitoreo** muestra información en tiempo real sobre los chats de soporte en curso en tu operación.
+La pestaña **En tiempo real** muestra información en tiempo real sobre los chats de soporte en curso en tu operación.
 
 Contiene las siguientes secciones:
 
@@ -113,9 +113,9 @@ Las columnas muestran información como contacto, tiempo de espera, tiempo hasta
 
 Al hacer clic en uno de los chats de soporte, se te redirigirá a la página de Live Desk en la sección **Operaciones**.
 
-### Analytics
+### Datos históricos
 
-La pestaña **Analytics** muestra datos históricos sobre los chats de soporte finalizados. Utiliza el selector de periodo para definir el intervalo de fechas que deseas consultar.
+La pestaña **Datos históricos** muestra datos históricos sobre los chats de soporte finalizados. Utiliza el selector de periodo para definir el intervalo de fechas que deseas consultar.
 
 Esta pestaña contiene las siguientes secciones:
 
