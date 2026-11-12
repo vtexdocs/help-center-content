@@ -1,7 +1,7 @@
 ---
 title: 'Subscribing to a VTEX CX Platform plan'
 createdAt: 2026-11-11T11:09:00.000Z
-updatedAt: 2026-11-12T18:06:00.000Z
+updatedAt: 2026-11-12T18:30:00.000Z
 contentType: tutorial
 productTeam: VTEX CX Platform
 slugEN: subscribing-to-a-vtex-cx-platform-plan
@@ -11,11 +11,11 @@ seeAlso:
     - /en/docs/tutorials/whatsapp-business-api-pricing
 ---
 
-Eligible stores can choose and subscribe to a standard [VTEX CX Platform](https://help.vtex.com/en/docs/tutorials/vtex-cx-platform-overview) plan from the VTEX Admin. Plans are based on monthly conversation volume.
+Eligible stores can choose and subscribe to a standard [VTEX CX Platform](https://help.vtex.com/en/docs/tutorials/vtex-cx-platform-overview) plan from the VTEX Admin without a sales call or manual approval. Plans are based on monthly conversation volume.
 
 ## Prerequisites
 
-Self-service subscription is available to stores with at least 1,000 orders per month that qualify for a standard conversation-volume plan.
+Self-service subscription is available to stores that qualify for a standard conversation-volume plan.
 
 The self-service flow is limited to standard plans and commercial terms. Contact the VTEX sales team if you need:
 
@@ -49,10 +49,10 @@ To get started:
 1. In the VTEX Admin, go to **Storefront > VTEX CX Platform**.
 2. In the trial usage bar, click `View Plans`.
 3. On **Billing Plans**, select a conversation volume.
-4. Review the variable and excess costs, then select the checkbox to acknowledge them.
+4. Review the variable and excess costs, then select the checkbox to acknowledge the costs and accept the terms.
 5. Confirm the subscription.
 
-After you confirm, the plan is activated automatically and the project moves from trial to enterprise.
+After you confirm, the plan is activated automatically and the project moves from trial to enterprise. Your acceptance of the terms formalizes the contract, so no further signature is needed. The platform records the acceptance, generates the contract documents and digital signature, provisions the account, and sets up billing with VTEX.
 
 ## Monitoring usage
 

@@ -1,7 +1,7 @@
 ---
 title: 'Live Desk'
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-11-12T17:52:00.000Z
+updatedAt: 2026-11-12T18:32:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
@@ -97,6 +97,8 @@ Cada representante de la lista de transferencia muestra un estado: **En línea**
 
 ## Redactar mensajes
 
+El campo de redacción de mensajes tiene una barra de acciones fija debajo del campo de mensaje. Desde esta barra, puedes abrir mensajes rápidos, adjuntar archivos, agregar una nota interna, insertar emojis o grabar audio.
+
 ### Copiar y borrar el mensaje
 
 Al empezar a escribir en el campo de mensaje, aparecen dos acciones:
@@ -128,6 +130,8 @@ Puedes insertar un mensaje rápido de dos formas:
 - **Usando un atajo:** escribe `/` seguido del atajo asignado al mensaje.
 
 En la lista, puedes moverte entre los mensajes con las flechas del teclado y presionar `Enter` para insertar el mensaje seleccionado. También puedes configurar mensajes rápidos específicos de cada departamento al crearlo. Para más información, consulta [Configurar Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk).
+
+Para enviar un mensaje rápido guardado a varias conversaciones, abre el menú de acciones del mensaje y haz clic en `Enviar en masa`. La lista de revisión muestra los contactos que están recibiendo soporte y los selecciona a todos de forma predeterminada. Desmarca la casilla de los contactos que no quieras incluir y confirma el envío. Una barra de progreso muestra el estado del envío en tiempo real. Cuando finaliza el proceso, una notificación de confirmación muestra cuántos mensajes se enviaron.
 
 ### Mejorar una respuesta con IA
 

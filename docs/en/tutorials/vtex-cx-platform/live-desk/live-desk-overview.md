@@ -1,7 +1,7 @@
 ---
 title: "Live Desk"
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-11-12T17:50:00.000Z
+updatedAt: 2026-11-12T18:30:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
@@ -98,6 +98,8 @@ Each representative in the transfer list shows a status: **Online**, **Paused** 
 
 ## Composing messages
 
+The message composer has a fixed action bar under the message field. From this bar, you can open quick messages, attach files, add an internal note, insert emojis, or record audio.
+
 ### Copying and clearing the message
 
 When you start typing in the message field, two actions become available:
@@ -129,6 +131,8 @@ You can insert a quick message in two ways:
 - **Using a shortcut:** Type `/` followed by the shortcut assigned to the message.
 
 In the list, you can move between messages with the arrow keys and press `Enter` to insert the selected message. You can also set up department-specific quick messages while you create the department. For more information, see [Configuring Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk).
+
+To send a saved quick message to multiple conversations, open the message's actions menu and click `Send in bulk`. The review checklist shows contacts currently in service and selects all of them by default. Clear the checkbox for any contact you don't want to include, then confirm the send. A progress bar shows the sending status in real time. When the process finishes, a confirmation notification shows how many messages were sent.
 
 ### Improving a response with AI
 

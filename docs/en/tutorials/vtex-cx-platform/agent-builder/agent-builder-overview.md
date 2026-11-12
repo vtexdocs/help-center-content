@@ -1,7 +1,7 @@
 ---
 title: 'Agent Builder'
 createdAt: 2025-07-23T12:24:11.906Z
-updatedAt: 2026-11-10T00:00:00.000Z
+updatedAt: 2026-11-12T18:30:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: agent-builder-overview
@@ -82,7 +82,9 @@ In **Agent preview**, there are two possible settings:
 
 - **Multiple message format:** Activate it <i class="fas fa-toggle-on" aria-hidden="true"></i> if you want the agent to send multiple messages, such as quick replies, lists, catalog. Otherwise, leave it deactivated <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
-- **Agent progressive feedback:** Activate it <i class="fas fa-toggle-on" aria-hidden="true"></i> if you want the agent to send real-time updates to the user while drafting the final response. Otherwise, leave it deactivated<i class="fas fa-toggle-off" aria-hidden="true"></i>.
+- **Agent progressive feedback:** Enable it <i class="fas fa-toggle-on" aria-hidden="true"></i> if you want the agent to show short progress updates while preparing the final response. These updates don't change the final response and don't require additional storefront development. Otherwise, leave it disabled <i class="fas fa-toggle-off" aria-hidden="true"></i>.
+
+> ⚠️ **Agent progressive feedback** and **Multiple message format** can't be enabled at the same time.
 
 In **System messages**, you can customize the error message sent to the customer when an API error prevents the agent from generating a response. Each project can have its own message, tailored to the brand's tone of voice.
 
