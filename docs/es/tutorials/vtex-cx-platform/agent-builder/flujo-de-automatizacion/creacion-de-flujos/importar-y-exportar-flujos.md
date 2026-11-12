@@ -3,7 +3,7 @@ title: "Importar y exportar flujos"
 id: 2jwPSnXsL3wniLWt9i7IA5
 status: PUBLISHED
 createdAt: 2025-09-17T14:03:45.539Z
-updatedAt: 2026-11-12T12:20:00.000Z
+updatedAt: 2026-11-12T15:07:00.000Z
 publishedAt: 2025-10-03T14:20:03.745Z
 firstPublishedAt: 2025-10-03T14:20:03.745Z
 contentType: tutorial
@@ -13,38 +13,54 @@ slugEN: import-and-export-flows
 legacySlug: importar-y-exportar-flujos
 locale: es
 subcategoryId: hXGU8pFfABVFIg724zWBN
+seeAlso:
+  - /es/docs/tutorials/creacion-de-flujos
 ---
 
-Puedes exportar flujos de una organización e importarlos en otra.
+Puedes exportar flujos de una organización e importarlos en otra. La exportación genera un archivo `.json`, que se utiliza durante la importación para agregar los flujos a la organización de destino.
+
+Para duplicar un flujo dentro de la misma organización, utiliza `Copiar` en el menú de configuraciones del editor de flujos.
+
+> Para obtener una descripción general de los flujos y su estructura, consulta [Introducción a los flujos](https://help.vtex.com/es/docs/tutorials/introduccion-a-los-flujos).
 
 ## Exportar flujos
 
-Hay dos caminos para abrir la página de exportación de flujos.
+Puedes abrir la página de exportación desde el editor de flujos o desde las configuraciones generales de la organización. La página muestra todos los flujos y campañas de la organización, agrupados por uso.
 
-### Por el editor de flujos
+> ⚠️ Los flujos de un mismo grupo interactúan entre sí. Si exportas solo un flujo del grupo, es posible que no funcione correctamente después de importarlo. Selecciona todos los flujos del grupo.
 
-Para acceder a la página de exportación por el editor de flujos, ve al menú de opciones y haz clic en **Exportar definición**.
+### Abrir la página de exportación desde el editor de flujos
 
-O también en el **módulo de flujos**.
+En el editor de flujos, el menú de configuraciones está junto al botón Start Flow. La opción `Exportar definición` de este menú abre la página de exportación. `Exportar traducción` es una opción diferente: exporta la traducción del flujo, no su definición. Para conocer las demás opciones de este menú, consulta [Editor de flujo y sus herramientas](https://help.vtex.com/es/docs/tutorials/editor-de-flujo-y-sus-herramientas).
 
-Para saber más sobre el editor, consulta [Editor de flujo y sus herramientas](https://help.vtex.com/es/docs/tutorials/editor-de-flujo-y-sus-herramientas).
+Para abrir la página de exportación desde el editor de flujos, sigue estos pasos:
 
-### Por las configuraciones generales de la organización
+1. En el menú lateral, haz clic en **Flows**.
+2. Abre un flujo que quieras exportar.
+3. Abre el menú de configuraciones junto a `Start Flow`.
+4. Haz clic en `Exportar definición`.
 
-Para acceder a la página de exportación por las configuraciones generales de la organización, ve al menú de opciones y haz clic en **Exportar**.
+> ℹ️ `Exportar traducción` exporta la traducción del flujo, no su definición. Para obtener más información sobre las demás configuraciones, consulta [Editor de flujo y sus herramientas](https://help.vtex.com/es/docs/tutorials/editor-de-flujo-y-sus-herramientas).
 
-Para saber más, consulta [Configuraciones generales del proyecto](https://help.vtex.com/es/docs/tutorials/configuraciones-generales-de-proyecto).
+### Desde las configuraciones generales
 
-En la página de exportación, la plataforma muestra todos los flujos y campañas de la organización, agrupados por uso. Es decir, todos los flujos de un mismo grupo interactúan entre sí. Si exportas solo un flujo de un grupo, puede que no funcione correctamente.
+1. Abre las configuraciones generales de la organización de origen.
+2. En el menú de opciones, haz clic en `Exportar`.
 
-Para exportar los flujos que quieres, selecciónalos y haz clic en **Exportar** al final de la página. La plataforma genera un archivo `.json`, que usas en la etapa de importación.
+### Seleccionar y exportar flujos
+
+Después de abrir la página de exportación:
+
+1. Selecciona los flujos que quieres transferir. Si un flujo pertenece a un grupo, selecciona todos los flujos de ese grupo.
+2. Al final de la página, haz clic en `Exportar`.
+
+La plataforma descarga un archivo `.json` que contiene los flujos seleccionados. Guarda este archivo para realizar la importación.
 
 ## Importar flujos
 
-Para abrir la página de importación, ve al menú de opciones en las configuraciones generales de la organización y haz clic en **Importar**.
+1. Abre las configuraciones generales de la organización de destino.
+2. En el menú de opciones, haz clic en `Importar`.
+3. Selecciona el archivo `.json` generado durante la exportación.
+4. Haz clic en `Importar`.
 
-1. Haz clic en el módulo de **Flujos > Botón Importar**.
-
-En la página de importación, selecciona el archivo `.json` creado en la exportación y haz clic en **Importar**.
-
-La plataforma importa los flujos en la organización.
+Los flujos importados se agregan a la organización de destino.
