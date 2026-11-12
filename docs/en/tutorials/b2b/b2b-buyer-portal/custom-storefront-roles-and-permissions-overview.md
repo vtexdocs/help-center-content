@@ -8,13 +8,13 @@ slugEN: custom-storefront-roles-and-permissions-overview
 locale: en
 ---
 
-> ⚠️ This feature is exclusive to stores that use [B2B Buyer Portal](https://help.vtex.com/docs/tutorials/b2b-buyer-portal), currently available to select accounts.
+> ⚠️ This feature is exclusive to stores that use [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal), currently available to select accounts.
 
 In B2B Buyer Portal, what each user of a buyer organization can do in the store is defined by [storefront roles](#storefront-roles), which group [permissions](#storefront-permissions) to access resources on the store website, such as `PlaceOrders` or `ApproveOrders`.
 
 VTEX provides predefined roles and permissions, and for specific business scenarios, you can also create custom roles and permissions via API or in the VTEX Admin.
 
-> ℹ️ In the VTEX Admin, custom permissions are displayed as **permissions**. In the API and in [Audit](https://help.vtex.com/docs/tutorials/audit) events, they're called **resources**, as in `Create Storefront Custom Resource`. Don't confuse them with [License Manager resources](https://help.vtex.com/docs/tutorials/license-manager-resources), which control access to the Admin.
+> ℹ️ In the VTEX Admin, custom permissions are displayed as **permissions**. In the API and in [Audit](https://help.vtex.com/en/docs/tutorials/audit) events, they're called **resources**, as in `Create Storefront Custom Resource`. Don't confuse them with [License Manager resources](https://help.vtex.com/en/docs/tutorials/license-manager-resources), which control access to the Admin.
 
 See below for more details on these concepts.
 
@@ -105,20 +105,20 @@ The following table shows the available predefined roles, with the permissions a
 - Unlike custom permissions, roles can be edited after they're created. When you edit a role, the permission changes apply immediately to all users who already have that role.
 - A role can't be deleted while it's assigned to at least one user.
 
-Creating roles doesn't assign them to any user. Roles are assigned when you manage the users of the buyer organization. Learn more in [Adding users to buyer organizations](https://help.vtex.com/docs/tutorials/adding-users-to-buyer-organizations).
+Creating roles doesn't assign them to any user. Roles are assigned when you manage the users of the buyer organization. Learn more in [Adding users to buyer organizations](https://help.vtex.com/en/docs/tutorials/adding-users-to-buyer-organizations).
 
 ## Auditing
 
-All creations, edits, and deletions of custom roles and permissions are recorded in [Audit](https://help.vtex.com/docs/tutorials/audit). The events related to this feature, such as `Create Storefront Custom Role` and `Delete Storefront Custom Resource`, are listed in the License Manager section of the [Events available in Audit](https://help.vtex.com/docs/tutorials/events-available-in-audit#license-manager) article.
+All creations, edits, and deletions of custom roles and permissions are recorded in [Audit](https://help.vtex.com/en/docs/tutorials/audit). The events related to this feature, such as `Create Storefront Custom Role` and `Delete Storefront Custom Resource`, are listed in the License Manager section of the [Events available in Audit](https://help.vtex.com/en/docs/tutorials/events-available-in-audit#license-manager) article.
 
 ## Managing custom storefront roles and permissions
 
-You can create, view, edit, and delete custom roles and permissions in the VTEX Admin, on the **Custom permissions** page. To learn about the access requirements, the page components, and the step-by-step instructions for each action, see [Managing custom storefront roles and permissions](https://help.vtex.com/docs/tutorials/manage-custom-storefront-roles-and-permissions).
+You can create, view, edit, and delete custom roles and permissions in the VTEX Admin, on the **Custom permissions** page. To learn about the access requirements, the page components, and the step-by-step instructions for each action, see [Managing custom storefront roles and permissions](https://help.vtex.com/en/docs/tutorials/manage-custom-storefront-roles-and-permissions).
 
 > ℹ️ To manage custom roles and permissions via API, see the [Storefront Roles API](https://developers.vtex.com/docs/api-reference/storefront-roles-api) and the [Custom storefront roles and resources](https://developers.vtex.com/docs/guides/custom-storefront-roles-and-resources) developer guide.
 
 ## Learn more
 
-- [Managing custom storefront roles and permissions](https://help.vtex.com/docs/tutorials/manage-custom-storefront-roles-and-permissions)
-- [Adding users to buyer organizations](https://help.vtex.com/docs/tutorials/adding-users-to-buyer-organizations)
-- [License Manager resources](https://help.vtex.com/docs/tutorials/license-manager-resources)
+- [Managing custom storefront roles and permissions](https://help.vtex.com/en/docs/tutorials/manage-custom-storefront-roles-and-permissions)
+- [Adding users to buyer organizations](https://help.vtex.com/en/docs/tutorials/adding-users-to-buyer-organizations)
+- [License Manager resources](https://help.vtex.com/en/docs/tutorials/license-manager-resources)

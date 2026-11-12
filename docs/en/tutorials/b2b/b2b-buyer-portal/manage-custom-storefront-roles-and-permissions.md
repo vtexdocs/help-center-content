@@ -8,11 +8,11 @@ slugEN: manage-custom-storefront-roles-and-permissions
 locale: en
 ---
 
-> ⚠️ This feature is exclusive to stores that use [B2B Buyer Portal](https://help.vtex.com/docs/tutorials/b2b-buyer-portal), currently available to selected accounts.
+> ⚠️ This feature is exclusive to stores that use [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal), currently available to selected accounts.
 
 The **Custom permissions** page allows you to view and manage the custom storefront roles and permissions in your account from the VTEX Admin.
 
-To understand the concepts, rules, and list of predefined roles and permissions, see [Custom storefront roles and permissions](https://help.vtex.com/docs/tutorials/custom-storefront-roles-and-permissions-overview).
+To understand the concepts, rules, and list of predefined roles and permissions, see [Custom storefront roles and permissions](https://help.vtex.com/en/docs/tutorials/custom-storefront-roles-and-permissions-overview).
 
 To access this page in the VTEX Admin, go to **Settings > Custom permissions**.
 
@@ -30,8 +30,8 @@ From this page, you can:
 
 Two requirements must be met to access the **Custom permissions** page:
 
-- The account must use [B2B Buyer Portal](https://help.vtex.com/docs/tutorials/b2b-buyer-portal). In accounts that don't use this solution, the page isn't visible and can't be accessed.
-- The user must have an Admin role with the **Edit Storefront User Permissions** [License Manager resource](https://help.vtex.com/docs/tutorials/license-manager-resources), in the **Services access control** category. Without this resource, the user can't see the page.
+- The account must use [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal). In accounts that don't use this solution, the page isn't visible and can't be accessed.
+- The user must have an Admin role with the **Edit Storefront User Permissions** [License Manager resource](https://help.vtex.com/en/docs/tutorials/license-manager-resources), in the **Services access control** category. Without this resource, the user can't see the page.
 
 ### Roles tab
 
@@ -129,7 +129,7 @@ To delete a custom role, follow the instructions below:
 
     A message confirms the deletion and the role is removed from the list.
 
-If the **Delete** option is unavailable, the role is still assigned to at least one user. Hover over the option to see the reason. To delete the role, remove it from all users who have it. Learn how in [Adding users to buyer organizations](https://help.vtex.com/docs/tutorials/adding-users-to-buyer-organizations).
+If the **Delete** option is unavailable, the role is still assigned to at least one user. Hover over the option to see the reason. To delete the role, remove it from all users who have it. Learn how in [Adding users to buyer organizations](https://help.vtex.com/en/docs/tutorials/adding-users-to-buyer-organizations).
 
 ## Managing custom storefront permissions
 
@@ -143,7 +143,7 @@ To create a custom permission, follow the instructions below:
 2. In the **Permissions** tab, click `Create permission`.
 3. In **Name**, enter the permission name.
 
-    > ⚠️ The name must follow the [custom permission rules](https://help.vtex.com/docs/tutorials/custom-storefront-roles-and-permissions-overview#custom-storefront-permission-rules-and-limits) and can't be changed after the permission is created.
+    > ⚠️ The name must follow the [custom permission rules](https://help.vtex.com/en/docs/tutorials/custom-storefront-roles-and-permissions-overview#custom-storefront-permission-rules-and-limits) and can't be changed after the permission is created.
 4. In **Description**, explain what the permission authorizes.
 5. Click `Create`.
 
@@ -166,6 +166,6 @@ If the **Delete** option is unavailable, the permission is still in use by at le
 
 ## Learn more
 
-- [Custom storefront roles and permissions](https://help.vtex.com/docs/tutorials/custom-storefront-roles-and-permissions-overview)
-- [Adding users to buyer organizations](https://help.vtex.com/docs/tutorials/adding-users-to-buyer-organizations)
-- [License Manager resources](https://help.vtex.com/docs/tutorials/license-manager-resources)
+- [Custom storefront roles and permissions](https://help.vtex.com/en/docs/tutorials/custom-storefront-roles-and-permissions-overview)
+- [Adding users to buyer organizations](https://help.vtex.com/en/docs/tutorials/adding-users-to-buyer-organizations)
+- [License Manager resources](https://help.vtex.com/en/docs/tutorials/license-manager-resources)
