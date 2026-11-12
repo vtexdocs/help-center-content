@@ -18,7 +18,7 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 A atualização de frete depende de uma prévia configuração da logística que vai atender à política comercial associada ao marketplace.
 As configurações necessárias são aquelas padrões para a logística da loja. Porém, é na Doca que você deve associar a política comercial vinculada ao marketplace.
 
-1. [Crie ou edite uma doca](/pt/tutorial/como-cadastrar-doca) associando a política comercial;
+1. [Crie ou edite uma doca](/pt/docs/tutorials/gerenciar-doca) associando a política comercial;
 2. Associe uma [transportadora](/pt/tutorial/gerenciar-transportadora) a esta doca;
 3. Verifique se existe algum [estoque](/pt/docs/tutorials/gerenciar-estoque) que se associe a esta doca.
 
@@ -30,6 +30,6 @@ Caso seja utilizada uma política comercial que já possui a logística ativa, n
 
 Em alguns marketplaces, é possível configurar para que os valores de frete utilizados na compra sejam aqueles configurados no próprio marketplace e não no seller (sua loja).
 
-Para isso, você precisa configurar a logística para que o produto seja indexado na política comercial correta e, além disso, [configurar uma promoção de frete grátis para essa política ](/pt/tutorial/configurando-promocao-para-marketplace).
+Para isso, você precisa configurar a logística para que o produto seja indexado na política comercial correta e, além disso, [configurar uma promoção de frete grátis para essa política ](/pt/docs/tutorials/configurar-promocao-para-marketplace).
 
 Assim, o frete será calculado sem conflitos com o seller.

@@ -74,4 +74,4 @@ However, we recommend using **Delivery Promise** to provide the best shopping ex
 
 ## 10. Do Delivery Promise filters apply to external sellers?
 
-Yes. The filter experience (by postal code, delivery method, target, pickup point) and other components apply to products from VTEX sellers, [Seller Portal](https://help.vtex.com/en/docs/tutorials/seller-portal-primeiros-passos-para-o-marketplace) sellers, and external sellers.
+Yes. The filter experience (by postal code, delivery method, target, pickup point) and other components apply to products from VTEX sellers, [Seller Portal](https://help.vtex.com/en/docs/tutorials/seller-portal-getting-started-for-the-marketplace) sellers, and external sellers.

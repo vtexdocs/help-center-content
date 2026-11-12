@@ -33,7 +33,7 @@ Siga o passo a passo, preenchendo os campos da planilha de mapeamento conforme a
 
 Dadas essas informações, continue o preenchimento da planilha seguindo as orientações abaixo:
 
-  1. **VTEXField**: é o nome do [campo de SKU](/pt/tutorial/criando-campo-de-sku) usado na sua loja na VTEX.
+  1. **VTEXField**: é o nome do [campo de SKU](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-sku) usado na sua loja na VTEX.
 _Ex: campos como "Tamanho", "Cor"._
 
   2. **WishField**: é o nome da especificação na Wish, que corresponde ao campo de SKU que você usou no campo VTEXField.

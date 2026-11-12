@@ -78,4 +78,4 @@ Use Restore to Branch to bring a previous version into a branch for further edit
 4. Click `Restore to Branch`.  
 5. Select the target branch.
 
-The CMS duplicates the selected version and adds it to the chosen branch. The storefront isn't affected until you merge the branch into the `main` branch. For more information on merging a branch, see [Managing versions and branches](https://help.vtex.com/docs/tutorials/managing-versions-and-branches).
+The CMS duplicates the selected version and adds it to the chosen branch. The storefront isn't affected until you merge the branch into the `main` branch. For more information on merging a branch, see [Managing versions and branches](https://help.vtex.com/en/docs/tutorials/managing-versions-and-branches).

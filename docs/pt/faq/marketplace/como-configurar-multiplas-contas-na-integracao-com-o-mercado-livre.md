@@ -22,5 +22,5 @@ _`Ex:` muitos vendedores fazem isto através de segmentação de marcas. Vamos p
 Siga os passos abaixo para realizar esta configuração:
 
 1. Caso queria segmentar mix de produtos ou logística, [crie uma nova política comercial](/pt/faq/por-que-nao-consigo-criar-uma-nova-politica-comercial). Caso não precise segmentar nada, apenas vá para o próximo passo.
-2. [Crie uma multiloja](/pt/tutorial/como-criar-multiloja-multidominio) no seu ambiente VTEX e associe à política comercial desejada.
+2. [Crie uma multiloja](/pt/docs/tutorials/gerenciando-uma-multiloja) no seu ambiente VTEX e associe à política comercial desejada.
 3. Em sua nova conta VTEX, siga [este passo-a-passo](/pt/tracks/configurar-integracao-do-mercado-livre) para configurar a integração na sua outra conta do Mercado Livre.

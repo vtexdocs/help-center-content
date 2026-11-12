@@ -35,7 +35,7 @@ This article introduces the solution **Sales App card entry** and is organized i
 
 - ✅ Allows payments with the same credit card network as the ecommerce website.
 - ✅ Includes the same [payment conditions](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions) and installments provided by the ecommerce website.
-- ✅ It's [PCI compliant](https://help.vtex.com/docs/tutorials/what-is-the-pci-ssc), meaning it protects customer data and doesn't store sensitive information.
+- ✅ It's [PCI compliant](https://help.vtex.com/en/docs/tutorials/what-is-the-pci-ssc), meaning it protects customer data and doesn't store sensitive information.
 
 However, the feature has some restrictions:
 

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 ---
 
-This article presents the official VTEX CX Platform agents and the credentials required to assign them to a team in Agent Builder. For more information on how to configure the agents in your store, see [Assigning and testing agents](https://help.vtex.com/docs/tutorials/assigning-and-testing-agents-in-agent-builder).
+This article presents the official VTEX CX Platform agents and the credentials required to assign them to a team in Agent Builder. For more information on how to configure the agents in your store, see [Assigning and testing agents](https://help.vtex.com/en/docs/tutorials/assigning-and-testing-agents-in-agent-builder).
 
 Official agent templates:
 
@@ -49,7 +49,7 @@ Official agent templates:
 
 | System | MCP (Model Context Protocol) | Description | Required credentials |
 | --- | --- | --- | --- |
-| -- | -- | Logs unanswered questions or out-of-scope questions and generates data for reports in the [**Analytics**](https://help.vtex.com/pt/docs/tutorials/analytics). | -- |
+| -- | -- | Logs unanswered questions or out-of-scope questions and generates data for reports in the [**Analytics**](https://help.vtex.com/en/docs/tutorials/intelligent-search-analytics). | -- |
 
 ## Order Cancellation
 
@@ -64,7 +64,7 @@ Official agent templates:
 | [Intelipost](https://secure.intelipost.com.br/login/) | Order Status (Intelipost) | Queries Intelipost to provide status, tracking, and other relevant order information. | `API Key Intelipost`: Your Intelipost API key. <br> `VTEX Base URL`: Your VTEX account URL. <br> `VTEX App Key`: Your [VTEX API](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) key. <br> `VTEX App Token`: Your [VTEX API](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) token. |
 | [Cadê Meu Pedido](https://www.cademeupedido.com.br/login) | Cadê Meu Pedido | Queries Cadê Meu Pedido to provide order details, such as billing and tracking. | `CadeMeuPedido Base URL`: Your Cadê Meu Pedido account URL. <br> `CadeMeuPedido Subdomain`: Your Cadê Meu Pedido account subdomain. |
 | VTEX | Orders Agent - VTEX B2B | Queries B2B order status and details in VTEX. Allows access only to authenticated users with permission to view orders and must be used with the Organizations Agent for authentication. | `VTEX Account Name`: Your VTEX account name. <br> `VTEX App Key`: Your [VTEX API](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) key. <br> `VTEX App Token`: Your [VTEX API](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) token. |
-| VTEX | Pick and Pack | Queries VTEX Pick and Pack data to answer customer questions about orders. | `API Key Pick and Pack`: Your [Pick and Pack](https://help.vtex.com/pt/docs/tutorials/vtex-pick-and-pack-configuracoes#chave-de-api) API token. <br> `VTEX Base URL`: Your VTEX account URL. <br> `VTEX App Key`: Your [VTEX API](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) key. <br> `VTEX App Token`: Your [VTEX API](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) token. |
+| VTEX | Pick and Pack | Queries VTEX Pick and Pack data to answer customer questions about orders. | `API Key Pick and Pack`: Your [Pick and Pack](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-settings#chave-de-api) API token. <br> `VTEX Base URL`: Your VTEX account URL. <br> `VTEX App Key`: Your [VTEX API](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) key. <br> `VTEX App Token`: Your [VTEX API](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) token. |
 | VTEX | VTEX Default | Queries standard VTEX order information to respond to customers. | `VTEX Account`: Your VTEX account name. <br> `VTEX App Key`: Your [VTEX API](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) key. <br> `VTEX App Token`: Your [VTEX API](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) token. |
 
 ## Organizations Agent

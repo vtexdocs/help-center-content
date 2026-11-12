@@ -23,5 +23,5 @@ Com esse novo status, os marketplaces podem recuperar vendas que seriam perdidas
 
 A nova funcionalidade também permite que o marketplace tenha mais controle sobre a qualidade da entrega dos produtos, uma vez que também será possível trocar de seller quando o pedido estiver com os status "__Pagamento pendente__" e "__Aguardando autorização__". Outro caso de uso é para lojas que possuem franqueados (sellers white label): agora, elas também vão poder alterar o franqueado responsável por um pedido. 
 
-Para saber mais sobre a API, acesse [este artigo do VTEX Help](/pt/tutorial/veja-como-utilizar-o-change-seller). 
+Para saber mais sobre a API, acesse [este artigo do VTEX Help](/pt/docs/tutorials/change-seller). 
 

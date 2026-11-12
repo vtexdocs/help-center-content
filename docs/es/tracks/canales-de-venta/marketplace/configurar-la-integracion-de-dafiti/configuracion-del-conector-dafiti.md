@@ -27,7 +27,7 @@ La configuración del conector se realiza en el Admin. Para completarla, siga la
 
 - **Ambiente*:** elija la opción _Producción_ para utilizar el ambiente real de ventas de Dafiti. Esta es la configuración sugerida. Si desea realizar algunas pruebas en la integración, marque _QA_. Dafiti proporciona el _token_ y el acceso al ambiente de prueba.
 
-- **ID del afiliado*:** es el identificador del [afiliado](/es/tutorial/o-que-e-afiliado) que está creando con esta integración. No puede ser igual a ningún afiliado anteriormente registrado en el Admin. Para configurar el ID del afiliado, debe elegir tres consonantes, repetidas o no (sugerencia: DFT). Si tiene una configuración de [integración para multidominios](/es/tutorial/como-criar-multiloja-multidominio), preste mucha atención al ID de afiliado, ya que este campo debe tener un valor diferente para cada dominio.
+- **ID del afiliado*:** es el identificador del [afiliado](/es/docs/tutorials/que-es-afiliado) que está creando con esta integración. No puede ser igual a ningún afiliado anteriormente registrado en el Admin. Para configurar el ID del afiliado, debe elegir tres consonantes, repetidas o no (sugerencia: DFT). Si tiene una configuración de [integración para multidominios](/es/docs/tutorials/gestionar-multitienda), preste mucha atención al ID de afiliado, ya que este campo debe tener un valor diferente para cada dominio.
 
 - **Política comercial*:** es el ID de la política comercial que se utilizará para la integración con Dafiti. Todos los productos vinculados a esta política comercial se enviarán al marketplace.
 

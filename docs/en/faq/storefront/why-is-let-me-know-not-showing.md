@@ -15,7 +15,7 @@ locale: en
 legacySlug: why-is-let-me-know-not-showing
 ---
 
-> ⚠️ This tutorial only applies to [CMS Portal (Legacy)](https://help.vtex.com/docs/tracks/legacy-cms-portal) stores.
+> ⚠️ This tutorial only applies to [CMS Portal (Legacy)](https://help.vtex.com/en/docs/tracks/legacy-cms-portal) stores.
 
 To show **Let me know** when the product is unavailable, use these settings:
 

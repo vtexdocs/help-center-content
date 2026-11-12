@@ -35,7 +35,7 @@ The VTEX besides offering integrations with the biggest market players, also off
 
 Chrome browser extension, in this tool is possible to test, store history, save access requests collections from all APIs of the VTEX modules (OMS, Logistics, Pricing, GCS, Catalog, Payments, etc.), besides it allows to export and import requests from other developers.
 
-[[Developer] - VTEX API Collection](http://help.vtex.com/developer-docs/)
+[[Developer] - VTEX API Collection](http://help.vtex.com/en/developer-docs)
 
 It's very important the integrator get the knowledge of this kind of tools, or other similar tools before start an integration process using the REST VTEX APIs.
 

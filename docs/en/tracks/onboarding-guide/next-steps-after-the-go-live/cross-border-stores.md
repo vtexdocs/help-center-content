@@ -17,7 +17,7 @@ seeAlso:
   - "/docs/tutorials/choosing-between-a-multistore-architecture-or-an-additional-environment"
 ---
 
-An international store, also called a cross-border store, is a type of [multistore](https://help.vtex.com/docs/tutorials/managing-a-multistore), which at VTEX means an account with multiple [bindings](/en/docs/tutorials/what-is-binding) and different sales channels for each one of its local stores.
+An international store, also called a cross-border store, is a type of [multistore](https://help.vtex.com/en/docs/tutorials/managing-a-multistore), which at VTEX means an account with multiple [bindings](/en/docs/tutorials/what-is-binding) and different sales channels for each one of its local stores.
 
 Cross-border stores can reach buyers worldwide by offering localized shopping experiences.
 
@@ -38,7 +38,7 @@ Before setting up a cross-border store on the VTEX platform, it's important to u
 
 A multistore or multidomain is a second store managed within the same VTEX Admin. This feature is typically used when the store requires some specific environment (such as support for B2B sales) or when a store has multiple brands with similar logistics and payment methods.
 
-> ℹ️ Learn more in [Managing a multistore](https://help.vtex.com/docs/tutorials/managing-a-multistore).
+> ℹ️ Learn more in [Managing a multistore](https://help.vtex.com/en/docs/tutorials/managing-a-multistore).
 
 ### Binding
 
@@ -50,7 +50,7 @@ Binding is the process of linking a website to one of the stores available in yo
 
 A sales channel defines the content to be displayed on a website. Sales channels contain settings regarding catalog, prices, promotions, logistics, customer segmentation, and payments for different sales strategies.
 
-> ℹ️ Learn more in [How sales channels work?](https://help.vtex.com/docs/tutorials/how-trade-policies-work)
+> ℹ️ Learn more in [How sales channels work?](https://help.vtex.com/en/docs/tutorials/how-trade-policies-work)
 
 ## Multi-language stores
 

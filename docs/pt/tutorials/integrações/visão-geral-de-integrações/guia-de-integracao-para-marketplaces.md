@@ -35,7 +35,7 @@ A VTEX além de oferecer as integrações com os grandes players do mercado nati
 
 Extensão do navegador chrome, nesta ferramenta pode se testar, armazenar histórico, salvar coleções de requests do acesso de todas as APIs dos módulos VTEX (OMS, Logistics, Pricing, GCS, Catalog, módulo de Pagamentos etc), além de permitir exportar e importar requests de outros desenvolvedores.
 
-[[Developer] - Collection das APIs da VTEX](http://help.vtex.com/developer-docs/)
+[[Developer] - Collection das APIs da VTEX](http://help.vtex.com/pt/developer-docs)
 
 É de suma importância que o integrador tenha o conhecimento de ferramentas desse tipo, ou outras parecidas, antes de inciar um processo de integração usando as APIs REST VTEX.
 

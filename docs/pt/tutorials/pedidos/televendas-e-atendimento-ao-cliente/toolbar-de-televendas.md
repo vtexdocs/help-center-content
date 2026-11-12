@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 6SEjoixhY5LlA7G15W6oZS
 ---
 
-A toolbar de televendas é uma barra superior exibida no site da loja para usuários com o [perfil de acesso Call Center Operator](/pt/docs/tutorials/como-criar-um-usuario-de-televendas), responsáveis pelo atendimento ao cliente. Com essa ferramenta, operadores de televendas podem navegar na loja em nome dos clientes, "personificando” usuários.
+A toolbar de televendas é uma barra superior exibida no site da loja para usuários com o [perfil de acesso Call Center Operator](/pt/docs/tutorials/criar-usuario-de-televendas), responsáveis pelo atendimento ao cliente. Com essa ferramenta, operadores de televendas podem navegar na loja em nome dos clientes, "personificando” usuários.
 
 A toolbar aparece uma vez que o operador cadastrado faz o login no ambiente da loja e é exibida em todas as áreas do site.
 
@@ -25,7 +25,7 @@ Veja abaixo os principais recursos da toolbar:
 *   [Entrar como cliente](#entrar-como-cliente)
 *   [Informações do cliente](#informacoes-do-cliente)
 
-Para habilitar a toolbar de televendas, é necessário que o administrador da loja [atribua o perfil Call Center Operator](/pt/docs/tutorials/como-criar-um-usuario-de-televendas) aos operadores de televendas. No Admin VTEX, acesse **Configurações da conta > Perfis de Acesso**, ou digite **Perfis de Acesso** na barra de busca no topo da página.
+Para habilitar a toolbar de televendas, é necessário que o administrador da loja [atribua o perfil Call Center Operator](/pt/docs/tutorials/criar-usuario-de-televendas) aos operadores de televendas. No Admin VTEX, acesse **Configurações da conta > Perfis de Acesso**, ou digite **Perfis de Acesso** na barra de busca no topo da página.
 
 Para saber como customizar a aparência da Toolbar no módulo **CMS**, confira o artigo [Customizar a Toolbar de televendas](/pt/docs/tutorials/customizar-a-toolbar-de-televendas).
 
@@ -56,7 +56,7 @@ Ao clicar no nome do cliente, o operador pode visualizar as informações abaixo
 ## Artigos relacionados
 
 * [Perfis de acesso predefinidos - Call center operator](/pt/docs/tutorials/perfis-de-acesso-predefinidos#call-center-operator)
-* [Como criar um usuário televendas](/pt/docs/tutorials/como-criar-um-usuario-de-televendas)
+* [Como criar um usuário televendas](/pt/docs/tutorials/criar-usuario-de-televendas)
 * [Customizar a Toolbar de televendas](/pt/docs/tutorials/customizar-a-toolbar-de-televendas)
 * [Pedidos](/pt/docs/tutorials/como-funciona-a-minha-conta#pedidos)
 * [Como utilizar as funcionalidades de televendas](/pt/docs/tutorials/funcionalidades-de-televendas)

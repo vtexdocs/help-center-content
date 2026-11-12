@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 ---
 
-The **My agents** section allows you to assign agents to the team and test their operation. Some official agents require credentials to operate on the platform. For more information, go to [Official agents from VTEX CX Platform and their credentials](https://help.vtex.com/docs/tutorials/official-agents-from-vtex-cx-platform).
+The **My agents** section allows you to assign agents to the team and test their operation. Some official agents require credentials to operate on the platform. For more information, go to [Official agents from VTEX CX Platform and their credentials](https://help.vtex.com/en/docs/tutorials/official-agents-from-vtex-cx-platform).
 
 > ℹ️ To create custom agents, use the VTEX CX Platform (Weni) CLI. Learn more in [Using the VTEX CX Platform (Weni) CLI](https://developers.vtex.com/docs/guides/using-the-weni-by-vtex-cli).
 

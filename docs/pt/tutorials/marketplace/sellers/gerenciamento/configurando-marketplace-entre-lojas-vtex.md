@@ -22,7 +22,7 @@ A integração entre lojas VTEX dispensa alguns passos necessários nas demais i
 - Quero me tornar um marketplace VTEX
 - Quero me tornar um seller VTEX 
 
-Ser um marketplace significa que seu website vai receber (e vender) produtos de outra loja (que vai funcionar como seller). Para fazer isso, você precisa seguir as [instruções para criação de seller](/pt/tutorial/configurando-seller/).
+Ser um marketplace significa que seu website vai receber (e vender) produtos de outra loja (que vai funcionar como seller). Para fazer isso, você precisa seguir as [instruções para criação de seller](/pt/docs/tutorials/adicionar-seller).
 
 ## Para lojas que querem atuar como sellers: como configurar um marketplace VTEX
 Ser um seller significa que sua loja vai enviar e vender produtos por meio de outro website (que vai funcionar como marketplace). Para fazer isso, você precisa cadastrar essa loja como marketplace no seu admin. Basta seguir os passos abaixo:

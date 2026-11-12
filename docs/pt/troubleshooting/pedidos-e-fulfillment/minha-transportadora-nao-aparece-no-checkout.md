@@ -28,7 +28,7 @@ Em algumas situações, a transportadora pode não ser exibida como opção de e
 
 ### Concorrência entre transportadoras do mesmo tipo
 
-O Checkout exibe os [métodos de envio](https://help.vtex.com/pt/tutorial/como-funciona-o-tipo-de-entrega/) dos produtos, não os nomes das transportadoras. O sistema prioriza a transportadora mais rápida ou com menor custo entre as opções de um mesmo método de envio. Assim, uma transportadora pode não aparecer se outra do mesmo tipo tiver menor prazo ou custo cadastrado.
+O Checkout exibe os [métodos de envio](https://help.vtex.com/pt/docs/tutorials/como-funciona-o-tipo-de-envio) dos produtos, não os nomes das transportadoras. O sistema prioriza a transportadora mais rápida ou com menor custo entre as opções de um mesmo método de envio. Assim, uma transportadora pode não aparecer se outra do mesmo tipo tiver menor prazo ou custo cadastrado.
 
 1. Para exibir todas as transportadoras, acesse **Configurações da Loja > Envio > Configurações**.
 2. Cadastre as transportadoras com métodos de envio diferentes.

@@ -41,7 +41,7 @@ To configure argonPAY provider, follow the steps below:
 2. In the **Payment Conditions** tab, click on the `+` button.
 3. Click on **ArgonPay**.
 4. Activate the condition in the **Status** field.
-5. If you want, you can also [configure special payment conditions](https://help.vtex.com/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+5. If you want, you can also [configure special payment conditions](https://help.vtex.com/en/docs/tutorials/special-conditions?&utm_source=autocomplete#).
 6. Click `Save`.
 
 After following the indicated steps, argonPAY connector may take up to 10 minutes to appear at your store's checkout as a payment option.

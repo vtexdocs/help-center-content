@@ -17,7 +17,7 @@ subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 
 **3D Secure** (3DS) is a security protocol that adds a layer of protection to online credit and debit card transactions. The current generation, EMV 3-D Secure (EMV 3DS), is also known as 3DS 2.
 
-In 3DS 2, the [issuing bank](/docs/tutorials/financial-agents-in-the-payment-flow#issuing-bank) analyzes the transaction data and decides how to authenticate the buyer:
+In 3DS 2, the [issuing bank](/en/docs/tutorials/financial-agents-in-the-payment-flow#issuing-bank) analyzes the transaction data and decides how to authenticate the buyer:
 
 - **Frictionless authentication:** The bank considers the transaction low risk and completes authentication without requiring any action from the buyer.
 - **Challenge:** The bank asks the buyer to confirm their identity, for example, with a password, biometrics, or a code sent via SMS or email.
@@ -39,13 +39,13 @@ The first generation, 3D Secure 1.0, was XML-based and redirected the buyer to t
 
 ## 3D Secure on VTEX
 
-On VTEX, the payment provider implements 3DS 2 via [Payment App](https://developers.vtex.com/docs/guides/payments-integration-payment-app#scenario-2-payment-app-and-3d-secure-2). This way, the buyer stays in checkout and authenticates in a modal window, without being redirected to the bank's site. To activate 3DS 2 and learn about its limitations, see [Setting up 3DS 2 authentication flow](/docs/tutorials/setting-up-3ds-2-authentication-flow).
+On VTEX, the payment provider implements 3DS 2 via [Payment App](https://developers.vtex.com/docs/guides/payments-integration-payment-app#scenario-2-payment-app-and-3d-secure-2). This way, the buyer stays in checkout and authenticates in a modal window, without being redirected to the bank's site. To activate 3DS 2 and learn about its limitations, see [Setting up 3DS 2 authentication flow](/en/docs/tutorials/setting-up-3ds-2-authentication-flow).
 
-3D Secure and the [anti-fraud solution](/docs/tutorials/financial-agents-in-the-payment-flow#anti-fraud-solution) serve different purposes: 3DS confirms the buyer's identity with the issuing bank, and the anti-fraud solution evaluates the order's risk. To configure the anti-fraud solution, see [Configuring the anti-fraud](/docs/tutorials/how-to-configure-the-anti-fraud). To understand the credit card authorization flow, see [Credit card payment flow](/en/docs/tracks/credit-card-payment-flow).
+3D Secure and the [anti-fraud solution](/en/docs/tutorials/financial-agents-in-the-payment-flow#anti-fraud-solution) serve different purposes: 3DS confirms the buyer's identity with the issuing bank, and the anti-fraud solution evaluates the order's risk. To configure the anti-fraud solution, see [Configuring the anti-fraud](/en/docs/tutorials/how-to-configure-the-anti-fraud). To understand the credit card authorization flow, see [Credit card payment flow](/en/docs/tracks/credit-card-payment-flow).
 
 ### Related articles
 
-- [Setting up 3DS 2 authentication flow](/docs/tutorials/setting-up-3ds-2-authentication-flow)
+- [Setting up 3DS 2 authentication flow](/en/docs/tutorials/setting-up-3ds-2-authentication-flow)
 - [Credit card payment flow](/en/docs/tracks/credit-card-payment-flow)
-- [Financial agents in the payment flow](/docs/tutorials/financial-agents-in-the-payment-flow#anti-fraud-solution)
-- [Configuring the anti-fraud](/docs/tutorials/how-to-configure-the-anti-fraud)
+- [Financial agents in the payment flow](/en/docs/tutorials/financial-agents-in-the-payment-flow#anti-fraud-solution)
+- [Configuring the anti-fraud](/en/docs/tutorials/how-to-configure-the-anti-fraud)

@@ -78,7 +78,7 @@ La sección [SEO](/es/docs/tutorials/mejorar-el-seo-de-las-paginas-de-lista-de-p
 Los campos de esta sección definen ajustes del producto en el contexto del [storefront](/es/docs/tutorials/vision-general-storefront):
 
 * **Mostrar en el sitio web:** Si deseas que el producto se muestre en la vitrina, activa el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i>. Para ocultarlo, deja el botón de alternancia desactivado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
-* **Mostrar cuando está sin stock:** si deseas que el producto se muestre en la vitrina aunque no tenga stock, activa el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i>. Esto permite utilizar la opción [Avísame](/es/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e#) para que el cliente ingrese su email y reciba una notificación cuando el producto esté disponible nuevamente. Si prefieres ocultar el producto cuando esté sin stock, deja el botón de alternancia desactivado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
+* **Mostrar cuando está sin stock:** si deseas que el producto se muestre en la vitrina aunque no tenga stock, activa el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i>. Esto permite utilizar la opción [Avísame](/es/docs/tutorials/configurar-la-opcion-avisame#) para que el cliente ingrese su email y reciba una notificación cuando el producto esté disponible nuevamente. Si prefieres ocultar el producto cuando esté sin stock, deja el botón de alternancia desactivado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 * **Fecha de release:** define la fecha en que el producto estará disponible para la venta. Este campo se utiliza para ayudar en la ordenación de los resultados de búsqueda en el sitio web. Puedes utilizar una query string `O=OrderByReleaseDateDESC` para obtener este valor y mostrar el orden de visualización por fecha de release. Además, el valor de este campo influye en la creación de [colecciones automáticas](/es/docs/tutorials/registrar-colecciones-beta) y determina la fecha de [indexación](/es/docs/tutorials/entendiendo-el-funcionamento-de-la-indexacion) del producto.
 * **Palabras sustitutas:** incluye sinónimos de los nombres del departamento y/o categoría del producto escribiendo el término deseado y presionando `Enter`. Este campo es importante para que las búsquedas del producto sean más amplias. Puedes incluir varias palabras hasta un límite de 8000 caracteres.
 
@@ -96,7 +96,7 @@ Los campos de esta sección son los códigos que identifican el producto:
 
 ## Atributos de categoría
 
-Para ciertas categorías asignadas a un producto creado, debajo de Predeterminado, se mostrará la sección **Atributos de categoría**. Esta sección incluye campos de información para asignarle características al producto, también conocidas como [especificaciones de producto](/es/tutorial/criando-um-campo-de-produto).
+Para ciertas categorías asignadas a un producto creado, debajo de Predeterminado, se mostrará la sección **Atributos de categoría**. Esta sección incluye campos de información para asignarle características al producto, también conocidas como [especificaciones de producto](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto).
 
 La siguiente tabla muestra ejemplos de especificaciones para productos de diferentes categorías:
 

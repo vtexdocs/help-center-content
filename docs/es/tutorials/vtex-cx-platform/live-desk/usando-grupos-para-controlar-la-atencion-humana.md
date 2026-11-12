@@ -9,7 +9,7 @@ locale: es
 hidden: false
 ---
 
-Cuando un contacto inicia un soporte humano en el [Live Desk](https://help.vtex.com/pt/docs/tutorials/vision-de-conjunto-de-live-desk), el chatbot continúa activo en segundo plano. Si no se hace nada, los mensajes automáticos configurados en los triggers pueden activarse durante la conversación e interrumpir el servicio. Para evitar este conflicto, usa un **grupo de control**: un [grupo estático](https://help.vtex.com/es/docs/tutorials/grupos-estaticos) que reúne a todos los contactos que están en soporte humano y que debe ser ignorado por los triggers.
+Cuando un contacto inicia un soporte humano en el [Live Desk](https://help.vtex.com/es/docs/tutorials/vision-de-conjunto-de-live-desk), el chatbot continúa activo en segundo plano. Si no se hace nada, los mensajes automáticos configurados en los triggers pueden activarse durante la conversación e interrumpir el servicio. Para evitar este conflicto, usa un **grupo de control**: un [grupo estático](https://help.vtex.com/es/docs/tutorials/grupos-estaticos) que reúne a todos los contactos que están en soporte humano y que debe ser ignorado por los triggers.
 
 > ⚠️ Si los contactos no se agregan a un grupo de control, el chatbot generará conflictos e interrumpirá el soporte humano, enviando los mensajes predeterminados configurados en tu entorno.
 

@@ -40,7 +40,7 @@ Para configurar Digital River V2, siga os passos abaixo:
 4. Preencha o campo **Nome da regra** com um nome de sua preferência para identificação.
 5. Ative a condição no campo **Status**.
 6. Se desejar utilizar um sistema antifraude, selecione a opção **Usar antifraude**.
-7. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+7. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/docs/tutorials/condicoes-especiais?&utm_source=autocomplete#).
 8. Clique em `Salvar`.
 
 Depois de seguir os passos indicados, o conector Digital River V2 pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento.

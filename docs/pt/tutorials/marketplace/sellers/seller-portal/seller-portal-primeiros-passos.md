@@ -112,7 +112,7 @@ Tanto o seller quanto o marketplace podem ser responsáveis por processar o paga
 
 Para saber mais, confira os seguintes artigos:  
 
-- [Como funciona o módulo de Pagamentos](/pt/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG)  
+- [Como funciona o módulo de Pagamentos](/pt/docs/tutorials/pagamentos-data-pipeline-beta)  
 - [Como funciona split de pagamento entre seller e marketplace](/pt/docs/tutorials/split-de-pagamento)  
 - [Cadastrar afiliado](/pt/docs/tutorials/como-configurar-afiliado)  
 - [Configurar um conector de pagamentos](/pt/docs/tracks/configurar-um-conector-de-pagamentos)   
@@ -135,7 +135,7 @@ Para acessar o módulo de Pedidos, navegue na barra lateral clicando em Pedidos 
 
 Para saber mais, confira os artigos abaixo:
 
-- [Como funcionam Pedidos na VTEX](/pt/tracks/orders--2xkTisx4SXOWXQel8Jg8sa)
+- [Como funcionam Pedidos na VTEX](/pt/docs/tutorials/pedidos-data-pipeline-beta)
 
 ### 8. Criar e gerenciar promoções
 

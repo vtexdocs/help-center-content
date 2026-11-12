@@ -45,4 +45,4 @@ Si una vez transcurrido el plazo de procesamiento el pago aún no se ha identifi
 2. Selecciona la opción **Envío de comprobante de pago**.
 3. Adjunta los comprobantes y, cuando corresponda, los certificados de retención.
 
-> ⚠️ Si el acceso al Admin VTEX está bloqueado, puedes desbloquearlo temporalmente mientras regularizas el pago. Más información en [Desbloqueo temporal del Admin](/es/docs/tutorials/desbloqueio-temporal-del-admin).
+> ⚠️ Si el acceso al Admin VTEX está bloqueado, puedes desbloquearlo temporalmente mientras regularizas el pago. Más información en [Desbloqueo temporal del Admin](/es/docs/tutorials/desbloquear-temporalmente-el-admin-vtex).

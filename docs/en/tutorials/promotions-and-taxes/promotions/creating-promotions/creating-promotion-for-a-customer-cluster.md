@@ -19,7 +19,7 @@ A promotion for a customer cluster is a promotion that is only valid for a group
 
 Configuring customer clusters allows you to create a variety of promotions tailored to segmented audiences.
 
-Before creating a promotion, you must define the property that determines whether a customer is part of the cluster. To do this, you can use fields that already exist in the customer profile (for example, `email`) or [create a customer cluster in the __Master Data__ module](/en/faq/como-criar-um-cluster-de-clientes/).
+Before creating a promotion, you must define the property that determines whether a customer is part of the cluster. To do this, you can use fields that already exist in the customer profile (for example, `email`) or [create a customer cluster in the __Master Data__ module](/en/docs/tutorials/how-can-i-create-cluster-of-customers).
 
 After configuring the property, follow the instructions below.
 

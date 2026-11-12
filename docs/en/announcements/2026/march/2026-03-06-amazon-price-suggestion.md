@@ -33,7 +33,7 @@ This centralizes SKU competitiveness diagnosis in a single place, reducing opera
 
 The feature is already active for all clients connected to Amazon and doesn't require additional activation. To activate the feature, go to **Marketplace > Amazon > Preferences > Smart Pricing**.
 
-For detailed instructions, see the tutorial [Price suggestions in the Amazon integration](/en/docs/tutorials/sugestao-de-precos-amazon).
+For detailed instructions, see the tutorial [Price suggestions in the Amazon integration](/en/docs/tutorials/amazon-price-suggestion).
 
 ## Feedback and questions
 

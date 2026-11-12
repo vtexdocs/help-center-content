@@ -61,7 +61,7 @@ Para editar el nombre de la tienda haz clic en `Editar`. Puedes ver los siguient
 
 ### Configuraciones regionales
 
-La pestaña **Configuraciones regionales** define el idioma y las configuraciones regionales del contenido de la tienda. Para más información, consulta la guía [Configurar configuraciones regionales](https://help.vtex.com/docs/tutorials/configuring-locales).
+La pestaña **Configuraciones regionales** define el idioma y las configuraciones regionales del contenido de la tienda. Para más información, consulta la guía [Configurar configuraciones regionales](https://help.vtex.com/es/docs/tutorials/configurar-configuraciones-regionales).
 
 ![locales-tab](https://vtexhelp.vtexassets.com/assets/docs/src/cms-locales-tab___b0ea3a987998523c52ed26d1133b53cb.png)
 

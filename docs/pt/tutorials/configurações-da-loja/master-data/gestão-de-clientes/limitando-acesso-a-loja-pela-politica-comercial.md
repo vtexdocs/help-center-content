@@ -19,7 +19,7 @@ A limitação no acesso de uma loja pode ser implementado por diversos motivos, 
 
 Esse cenário pode ser atendido através do uso do Master Data v1 e da política comercial utilizada na loja.
 
-> ⚠️ Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais: <ul> <li> [ Características das versões do Master Data ](/pt/docs/tutorials/master-data#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/docs/guides/master-data-v2-basics) </li> </ul>
+> ⚠️ Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais: <ul> <li> [ Características das versões do Master Data ](/pt/docs/tutorials/master-data-pt#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/docs/guides/master-data-v2-basics) </li> </ul>
 
 ## Criar cluster de clientes
 
@@ -42,7 +42,7 @@ Porém, existem outras possibilidades de configuração. Pode ser configurado, p
 
 ## Cadastrar os clientes que poderão acessar
 
-Para um caso de B2B, onde a loja ainda não conhece quais são os clientes que poderão acessar, será necessário criar um formulário onde as empresas cadastrarão seus dados. Então, pelo Master Data a loja fará a verificação dos dados e liberação ou não do acesso à loja. [Para realizar essa configuração, acesse nosso manual para lojas B2B](/pt/docs/tutorials/configurando-b2b-na-vtex/).
+Para um caso de B2B, onde a loja ainda não conhece quais são os clientes que poderão acessar, será necessário criar um formulário onde as empresas cadastrarão seus dados. Então, pelo Master Data a loja fará a verificação dos dados e liberação ou não do acesso à loja. [Para realizar essa configuração, acesse nosso manual para lojas B2B](/pt/docs/tutorials/configurando-b2b-na-vtex-pt).
 
 ## Saiba mais
 

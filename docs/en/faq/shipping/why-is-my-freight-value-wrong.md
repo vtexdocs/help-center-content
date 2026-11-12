@@ -19,7 +19,7 @@ Freight calculation is based on several factors: freight table, additional freig
 
 ## Logistics
 
-1. Perform a [shipping simulation](/en/tutorial/freight-simulation/);
+1. Perform a [shipping simulation](/en/docs/tutorials/shipping-simulation);
 2. Click on the **Show Details** link.
 3. Here, you can see the value registered on the spreadsheet, as well as all [additionals](/en/tutorial/understanding-the-additional-freight) added to this value.
 4. If the value is not consistent with the one displayed at the store, follow the steps below to check if there isn't a sale altering the value of the freight.

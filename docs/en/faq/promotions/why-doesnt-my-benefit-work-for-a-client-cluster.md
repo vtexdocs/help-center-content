@@ -15,7 +15,7 @@ locale: en
 legacySlug: 
 ---
 
-Within the VTEX platform, you may apply a [benefit](/en/tutorial/creating-promotions-for-a-cluster-of-customers) to only one given [cluster](/en/docs/tutorials/how-can-i-create-cluster-of-customers). That is, for only a specific group of customers.
+Within the VTEX platform, you may apply a [benefit](/en/docs/tutorials/creating-promotion-for-a-customer-cluster) to only one given [cluster](/en/docs/tutorials/how-can-i-create-cluster-of-customers). That is, for only a specific group of customers.
 
 There are cases, however, where this benefit is not viewed by some customers.
 

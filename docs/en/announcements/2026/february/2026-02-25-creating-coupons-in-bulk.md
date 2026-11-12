@@ -15,7 +15,7 @@ tags:
   - Promotions
 ---
 
-The Promotions module will allow [creating coupons](https://help.vtex.com/docs/tutorials/creating-a-coupon-beta) in bulk. This update increases the supported volume and reduces manual operations when creating campaigns that require a large number of coupons.
+The Promotions module will allow [creating coupons](https://help.vtex.com/en/docs/tutorials/creating-a-coupon-beta) in bulk. This update increases the supported volume and reduces manual operations when creating campaigns that require a large number of coupons.
 
 ## What has changed?
 

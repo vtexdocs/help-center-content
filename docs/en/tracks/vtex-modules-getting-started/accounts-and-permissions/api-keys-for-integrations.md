@@ -52,13 +52,13 @@ Associate only with the strictly necessary roles. Examples:
 
 ## Token renewal and alerts
 
-Renew tokens periodically (every 3-6 months for critical keys). Configure [automatic alerts](https://help.vtex.com/docs/tutorials/configuring-alerts-to-renew-api-tokens) so you don’t forget.
+Renew tokens periodically (every 3-6 months for critical keys). Configure [automatic alerts](https://help.vtex.com/en/docs/tutorials/configuring-alerts-to-renew-api-tokens) so you don’t forget.
 
 > ⚠️ The API token is displayed only once, upon creation. Store it securely.
 
 ## Permission requirements
 
-[User Administrator - RESTRICTED](https://help.vtex.com/docs/tutorials/predefined-roles#user-administrator-restricted) role or a custom role with the following resources:
+[User Administrator - RESTRICTED](https://help.vtex.com/en/docs/tutorials/predefined-roles#user-administrator-restricted) role or a custom role with the following resources:
 
 - View API keys
 - Edit API keys
@@ -84,8 +84,8 @@ Renew tokens periodically (every 3-6 months for critical keys). Configure [autom
 - [Best practices for using API keys](https://help.vtex.com/en/docs/tutorials/best-practices-api-keys)
 - [Generated keys](https://help.vtex.com/en/docs/tutorials/generated-keys)
 - [External keys](https://help.vtex.com/en/docs/tutorials/external-keys)
-- [Renewing API tokens](https://help.vtex.com/docs/tutorials/renewing-api-tokens)
-- [Configuring alerts to renew API tokens](https://help.vtex.com/docs/tutorials/configuring-alerts-to-renew-api-tokens)
+- [Renewing API tokens](https://help.vtex.com/en/docs/tutorials/renewing-api-tokens)
+- [Configuring alerts to renew API tokens](https://help.vtex.com/en/docs/tutorials/configuring-alerts-to-renew-api-tokens)
 - [Exporting API keys](https://help.vtex.com/en/docs/tutorials/exporting-api-keys)
 - [Roles](https://help.vtex.com/en/docs/tutorials/roles)
 - [License Manager resources](https://help.vtex.com/en/docs/tutorials/license-manager-resources)

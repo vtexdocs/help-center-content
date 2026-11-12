@@ -32,7 +32,7 @@ Ao planejar a sua operação enquanto marketplace VTEX, inclua um período no se
 
 Se quiser encontrar novos sellers para venderem em seu marketplace, utilize o __Encontrar sellers__, que facilita a identificação e o contato entre marketplaces e sellers que operam no ecossistema VTEX. Para acessar essa página, em seu Admin VTEX, vá para **Markeplace > Sellers > Encontrar sellers.**
 
-Para acrescentar novos sellers ao seu marketplace pelo Admin VTEX, siga as instruções descritas no artigo [Adicionar Seller](/pt/tutorial/configurando-seller/). Também é possível realizar esse processo por meio de integração de API. Para isso, siga as instruções em [External Seller Integration Guide](https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide). 
+Para acrescentar novos sellers ao seu marketplace pelo Admin VTEX, siga as instruções descritas no artigo [Adicionar Seller](/pt/docs/tutorials/adicionar-seller). Também é possível realizar esse processo por meio de integração de API. Para isso, siga as instruções em [External Seller Integration Guide](https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide). 
 
 ## Analisar resultados de sellers
 

@@ -30,7 +30,7 @@ Learn how you can configure sales channels in the following modules when your st
 
 To add a new trade policy, access the VTEX Admin. Users with the Owner (admin) role can perform this action directly through the interface.
 
-For more information, see the article [Creating a sales channel (trade policy)](https://help.vtex.com/docs/tutorials/creating-a-trade-policy).
+For more information, see the article [Creating a sales channel (trade policy)](https://help.vtex.com/en/docs/tutorials/creating-a-trade-policy).
 
 ## Store setup
 Creating a new sales channel is the first step in defining the conditions that apply to each marketplace in which a seller operates. Sellers can create multiple sales channels, or apply the same policy to more than one marketplace.

@@ -49,7 +49,7 @@ We value transparency regarding the integrity of our systems. Thus, whenever the
 We'll take all appropriate measures to resolve issues as soon as possible and guarantee compliance with the [SLA](/en/docs/tutorials/vtex-operation-service-level-agreement-sla) set in our contract.
 
 ### Help Center
-In this [documentation portal for users](https://help.vtex.com/), you'll find tutorials for beginners, reference guides, and troubleshooting articles. This knowledge base contains all the information you need to use the VTEX Admin.
+In this [documentation portal for users](https://help.vtex.com/en), you'll find tutorials for beginners, reference guides, and troubleshooting articles. This knowledge base contains all the information you need to use the VTEX Admin.
 
 ### Developer Portal
 In this [portal for developers](https://developers.vtex.com/), you'll find all the documentation on integrations with APIs and development guides for your store. The content on this site is primarily intended for our [partners](https://vtex.com/br-pt/partner/) and our clients' team of developers.

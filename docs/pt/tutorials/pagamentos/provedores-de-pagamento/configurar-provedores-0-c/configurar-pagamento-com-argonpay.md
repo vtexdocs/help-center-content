@@ -40,7 +40,7 @@ Para configurar o provedor argonPAY, siga os passos abaixo:
 2. Na aba **Condições de Pagamentos**, clique no botão `+`.
 3. Clique em **ArgonPay**.
 4. Ative a condição no campo **Status**.
-5. Se desejar, você também pode [configurar condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condiciones-especiales--tutorials_456).
+5. Se desejar, você também pode [configurar condições especiais de pagamento](https://help.vtex.com/pt/docs/tutorials/condicoes-especiais).
 6. Clique em `Salvar`.
 
 Depois de seguir os passos indicados, o conector argonPAY pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento.

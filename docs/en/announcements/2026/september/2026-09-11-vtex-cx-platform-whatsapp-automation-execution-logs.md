@@ -43,4 +43,4 @@ We developed the **Logs** tab so you can access information about automations wi
 
 No action is required to view WhatsApp logs in VTEX CX Platform. The update is already available in the VTEX Admin for all stores. To view logs, go to **Storefront > VTEX CX Platform > Dashboard**, click `Settings`, open a WhatsApp automation, and select the **Logs** tab.
 
-To learn more about VTEX CX Platform, see [Introduction to CX](https://help.vtex.com/en/docs/tutorials/introducao-ao-cx).
+To learn more about VTEX CX Platform, see [Introduction to CX](https://help.vtex.com/en/docs/tutorials/introduction-to-cx).

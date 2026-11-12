@@ -51,7 +51,7 @@ End customers do not choose or acknowledge the existence of White Label Sellers 
 
 ## Franchise account configuration
 
-You can access and configure the [Logistics](/en/docs/tracks/inventory), [Order management](/en/docs/tracks/orders), [Prices](/en/docs/tracks/prices-101),[Payments](/en/docs/tracks/payments) and [Promotions &amp; Taxes](/en/docs/tracks/promotions) modules directly in the Admin of each of the franchise accounts or using [VTEX APIs](https://developers.vtex.com/vtex-rest-api/reference/get-to-know-vtex-apis).
+You can access and configure the [Logistics](/en/docs/tracks/inventory), [Order management](/en/docs/tutorials/orders-data-pipeline-beta), [Prices](/en/docs/tracks/prices-101),[Payments](/en/docs/tracks/payments) and [Promotions &amp; Taxes](/en/docs/tracks/promotions) modules directly in the Admin of each of the franchise accounts or using [VTEX APIs](https://developers.vtex.com/vtex-rest-api/reference/get-to-know-vtex-apis).
 
 To access the Admin of each franchise account, enter the URL `{{franchiseaccountname}}.myvtex.com/admin`, replacing the `{{franchiseaccountname}}` with the name of the franchise account you wish to manage.
 

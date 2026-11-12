@@ -60,7 +60,7 @@ Selecciona una de las siguientes opciones para aplicar la promoción.
 Para obtener más información, consulta [Seller Opt-in for Promotions](https://developers.vtex.com/docs/guides/seller-opt-in-promotions).
 
 ### Seleccionar políticas comerciales 
-En la esquina derecha de la página, en la sección **Políticas comerciales**, selecciona las políticas comerciales válidas para el descuento. Puedes ofrecer descuentos para políticas comerciales en las que [tu tienda opera como marketplace](/es/tutorial/o-que-e-um-marketplace) (**Mi tienda**) o como seller (**Tiendas de terceros - Fulfillment**).
+En la esquina derecha de la página, en la sección **Políticas comerciales**, selecciona las políticas comerciales válidas para el descuento. Puedes ofrecer descuentos para políticas comerciales en las que [tu tienda opera como marketplace](/es/docs/tutorials/que-es-un-marketplace) (**Mi tienda**) o como seller (**Tiendas de terceros - Fulfillment**).
 
 Puedes elegir entre las siguientes opciones:
 
@@ -85,7 +85,7 @@ Determina las condiciones y los porcentajes de descuento que deben aplicarse. Co
 Las condiciones permiten activar la promoción en circunstancias específicas según los criterios seleccionados. Para agregar una condición, sigue las instrucciones a continuación:
 
 - **Número BIN de la tarjeta:** la promoción solo se aplicará cuando se utilicen tarjetas de redes, bancos o categorías específicas identificadas por su número BIN. Importa una lista de BIN con un archivo de texto (.txt) o un archivo CSV (.csv) que describa cada BIN en una fila diferente.
-- **Clúster de clientes:** selecciona un [clúster de clientes](/es/tutorial/como-criar-um-cluster-de-clientes) previamente creado en Master Data, siguiendo el formato `field=value` o `field contains value`. Selecciona una de las siguientes opciones:
+- **Clúster de clientes:** selecciona un [clúster de clientes](/es/docs/tutorials/como-crear-un-cluster-de-cliente) previamente creado en Master Data, siguiendo el formato `field=value` o `field contains value`. Selecciona una de las siguientes opciones:
 
     - **Todos los siguientes:** la promoción se aplicará solo si se cumplen todos los criterios del clúster.
     - **Al menos uno de los siguientes:** la promoción se aplicará si se cumple al menos uno de los criterios del clúster.

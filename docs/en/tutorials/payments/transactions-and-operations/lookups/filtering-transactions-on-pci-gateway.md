@@ -97,7 +97,7 @@ This filter indicates the number of installments of the payments made in your st
 
 ## Status
 
-This filter lists all transactions according to their statuses. For more details on the transaction flow, you can access [our article on this topic](/en/faq/transaction-flow-in-pci-gateway).
+This filter lists all transactions according to their statuses. For more details on the transaction flow, you can access [our article on this topic](/en/docs/tutorials/transaction-flow-in-payments).
 
 Some examples of transaction status are:
 

@@ -31,7 +31,7 @@ As **Conversas incríveis** são conversas que mostram o valor dos agentes de IA
 
 Receber uma nota CSAT alta e uma mensagem de satisfação do cliente também conta ao determinar uma **Conversa incrível**.
 
-> ℹ️ Para saber mais, consulte nosso artigo [Auditoria: Backlog de melhorias](https://help.vtex.com/pt/tutorial/audit-improvements-backlog).
+> ℹ️ Para saber mais, consulte nosso artigo [Auditoria: Backlog de melhorias](https://help.vtex.com/pt/docs/tutorials/auditoria-backlog-de-melhorias).
 
 ## Buscar e filtrar conversas
 
