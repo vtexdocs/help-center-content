@@ -1,5 +1,5 @@
 ---
-title: "Introducción a contactos"
+title: "Contactos"
 id: 4X4YaqNra4d8PmUYo8MpID
 status: PUBLISHED
 createdAt: 2025-09-12T17:12:46.028Z

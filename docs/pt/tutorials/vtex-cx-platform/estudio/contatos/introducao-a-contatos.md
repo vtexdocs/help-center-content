@@ -1,5 +1,5 @@
 ---
-title: 'Introdução a contatos'
+title: 'Contatos'
 id: 4X4YaqNra4d8PmUYo8MpID
 status: PUBLISHED
 createdAt: 2025-09-12T17:12:46.028Z
@@ -13,6 +13,7 @@ slugEN: introduction-to-contacts
 legacySlug: introducao-a-contatos
 locale: pt
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
+categoryCover: true
 ---
 
 Aqui estão todas as pessoas com quem você manterá contato. Existem duas maneiras de um usuário se tornar contato na plataforma:
