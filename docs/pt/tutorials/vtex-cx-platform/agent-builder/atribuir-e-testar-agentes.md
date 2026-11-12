@@ -32,19 +32,19 @@ Para atribuir um novo agente em sua loja, siga os passos abaixo:
 
 1. Acesse sua organização no [dashboard do VTEX CX Platform](https://dash.weni.ai/orgs).
 2. No menu lateral, clique no ícone **Meus agentes**.
-3. Clique em <i class="fas fa-plus" aria-hidden="true"></i>`Atribuir novos agentes`.
+3. Clique em <i class="fas fa-plus" aria-hidden="true"></i> `Atribuir novos agentes`.
 4. Na página **Atribuir novos agentes**, selecione uma das opções disponíveis:
  - **Agentes oficiais:** agentes da VTEX ou de integrações externas previamente cadastradas na plataforma.
  - **Agentes personalizados:** agentes criados para sua operação.
 
-> ℹ️ Você também pode localizar agentes usando o campo de busca ou filtrando por tipo de categoria.
+    > ℹ️ Você também pode localizar agentes usando o campo de busca ou filtrando por tipo de categoria.
 
 5. Após escolher um agente, clique em `Ver detalhes`.
 6. No modal do agente, confira as informações sobre os MCPs disponíveis e o exemplo de conversa.
 7. Clique em `Iniciar configuração`.
-8. Em **Atribuir {Nome do agente}**, na seção **Seleção de sistema**, selecione uma das opções disponíveis e clique em `Avançar`.
+8. Em **Atribuir \{Nome do agente\}**, na seção **Seleção de sistema**, selecione uma das opções disponíveis e clique em `Avançar`.
 9. Em **Seleção de MCP**, selecione uma das opções disponíveis para definir o comportamento do agente.
-10. Em **Configurar MCP {Nome do sistema}**, se disponível, preencha ou selecione os parâmetros do agente. Alguns agentes não possuem parâmetros configuráveis.
+10. Em **Configurar MCP \{Nome do sistema\}**, se disponível, preencha ou selecione os parâmetros do agente. Alguns agentes não possuem parâmetros configuráveis.
 11. Para agentes personalizados, em **Constantes**, selecione as constantes definidas via CLI e preencha os valores desejados. Saiba mais em [Configurar constantes de agentes personalizados](#configurar-constantes-de-agentes-personalizados).
 12. Em **Revise a configuração e insira as credenciais**, confira as informações, preencha os campos solicitados e clique em `Concluir`.
 
@@ -71,7 +71,6 @@ Para remover um agente de sua loja, siga os passos abaixo:
 5. Clique em `Remover agente`.
 
 > ℹ️ Caso deseje utilizar novamente este agente, realize a nova atribuição conforme descrito em [Atribuir um agente ao time](#atribuir-um-agente-ao-time).
-
 
 ## Testar um agente
 

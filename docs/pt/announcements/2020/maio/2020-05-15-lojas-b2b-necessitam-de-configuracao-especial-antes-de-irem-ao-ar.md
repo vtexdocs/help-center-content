@@ -19,7 +19,7 @@ __Clientes ou parceiros implementando lojas B2B:__ Lojas B2B, de forma semelhant
 
 ## Quem é afetado?
 
-Lojas B2B. Ou seja, toda loja que possui alguma política comercial restrita (regra condicional). Principalmente novas lojas. Entenda mais sobre lojas B2B [aqui](/pt/docs/tutorials/configurando-b2b-na-vtex).
+Lojas B2B. Ou seja, toda loja que possui alguma política comercial restrita (regra condicional). Principalmente novas lojas. Entenda mais sobre lojas B2B [aqui](/pt/docs/tutorials/configurando-b2b-na-vtex-pt).
 
 ## Como proceder
 

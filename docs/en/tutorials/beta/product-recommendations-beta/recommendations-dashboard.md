@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6WyZwZfn89IsnNFNkTAi8d
 ---
 
-> ℹ️ This feature is in closed beta and only available to selected clients. If you're a VTEX client and want to adopt this feature for your business, contact our [commercial support](/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client but are interested in this solution, complete the <a href="https://vtex.com/pt-br/contato/">contact form</a>.
+> ℹ️ This feature is in closed beta and only available to selected clients. If you're a VTEX client and want to adopt this feature for your business, contact our [commercial support](/en/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client but are interested in this solution, complete the <a href="https://vtex.com/pt-br/contato/">contact form</a>.
 
 The **Recommendations** page provides a dashboard to track and analyze the performance of product recommendation strategies in your store through consolidated metrics or divided by shelves.
 
@@ -23,8 +23,8 @@ To access the dashboard in the VTEX Admin, go to _Storefront > Recommendations_.
 
 ## Requirements
 
-- The [Product recommendations](https://help.vtex.com/docs/tutorials/product-recommendations-beta) feature must be enabled in your store.
-- [Recommendation strategies](https://help.vtex.com/docs/tutorials/product-recommendations-beta) must be implemented in your store.
+- The [Product recommendations](https://help.vtex.com/en/docs/tutorials/product-recommendations-beta) feature must be enabled in your store.
+- [Recommendation strategies](https://help.vtex.com/en/docs/tutorials/product-recommendations-beta) must be implemented in your store.
 - You need a [role](https://help.vtex.com/en/docs/tutorials/roles) with the [License Manager resources](https://help.vtex.com/en/docs/tutorials/license-manager-resources) below. Without the *View Recommendations* resource, the **Recommendations** page doesn't open in the VTEX Admin.
 
   * **Product:** *Recommendations*
@@ -147,7 +147,7 @@ To remove a filter, repeat steps 1 and 2 and click `Clear`.
 
 ## Learn more
 
-- [Product Recommendations](https://help.vtex.com/docs/tutorials/product-recommendations-beta)
+- [Product Recommendations](https://help.vtex.com/en/docs/tutorials/product-recommendations-beta)
 - [Recommendation Shelf (Store Framework)](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf)
 - [Integrating product recommendations in headless or FastStore web stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-or-faststore-web-stores)
 - [Integrating product recommendations in mobile stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-mobile-stores)

@@ -22,7 +22,7 @@ Además de ser dueño del producto y responsable de la logística de distribuci�
 
 El __seller__ puede mostrar su catálogo para venta en una tienda externa, VTEX o no VTEX, o puede vender sus productos en una tienda propia, en cuyo caso la tienda actúa como __seller__ y __marketplace__ simultáneamente y se le llama [seller white label](/es/docs/tutorials/seller-white-label).  
 
-En este caso, la tienda que es responsable de la venta actúa como [marketplace](/es/tutorial/o-que-e-um-marketplace) y debe efectuar la venta y recibir el pago del cliente, mientras que el __seller__ cumple la función de enviar el pedido.  
+En este caso, la tienda que es responsable de la venta actúa como [marketplace](/es/docs/tutorials/que-es-un-marketplace) y debe efectuar la venta y recibir el pago del cliente, mientras que el __seller__ cumple la función de enviar el pedido.  
 
 El surtido de productos enviados a un marketplace se define al escoger la política comercial.  
 
@@ -37,5 +37,5 @@ En VTEX, hay dos tipos de sellers:
 ## Artículos relacionados
 
 - [¿Qué es un marketplace?](/es/docs/tutorials/que-es-un-marketplace)  
-- [Configurar seller](/es/tutorial/configuracion-de-seller)  
+- [Configurar seller](/es/docs/tutorials/agregar-seller)  
 - [Estrategias de marketplace en VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex)  

@@ -94,7 +94,7 @@ Na opção **Definir dados de marketing**, é possível aplicar cupons de descon
 
 ![Definir dados de marketing](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configurações-do-checkout/configurar-o-cartman_4.PNG)
 
-Para saber mais sobre UTMs e UTMIs , acesse [O que são utm_source, utm_campaign e utm_medium](/pt/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii#) e [O que são as UTMs internas utmi_cp, utmi_pc e utmi_p](/pt/tutorial/o-que-sao-as-utms-internas-utmi_cp-utmi_pc-e-utmi_p#).
+Para saber mais sobre UTMs e UTMIs , acesse [O que são utm_source, utm_campaign e utm_medium](/pt/docs/tutorials/o-que-sao-utm-source-utm-campaign-e-utm-medium#) e [O que são as UTMs internas utmi_cp, utmi_pc e utmi_p](/pt/tutorial/o-que-sao-as-utms-internas-utmi_cp-utmi_pc-e-utmi_p#).
 
 ## Desativar o Cartman ##
 

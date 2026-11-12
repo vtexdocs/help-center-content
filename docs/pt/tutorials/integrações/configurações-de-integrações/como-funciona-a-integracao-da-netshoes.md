@@ -135,7 +135,7 @@ No momento do pedido, a Netshoes não consulta o preço do produto e nem se ele 
 
 ### Integrando o pedido
 
-Os pedidos na Netshoes dispõem dos próprios status. Segue uma explicação deles comparando com os status dentro da VTEX. [Entenda mais sobre os status dos pedidos da VTEX aqui.](/pt/tutorial/fluxo-de-pedido#fluxo-do-pedido-do-seller)
+Os pedidos na Netshoes dispõem dos próprios status. Segue uma explicação deles comparando com os status dentro da VTEX. [Entenda mais sobre os status dos pedidos da VTEX aqui.](/pt/docs/tutorials/fluxo-e-status-de-pedidos#fluxo-do-pedido-do-seller)
 <br />
 
 | Status VTEX     | Status Netshoes     | Descrição Status Netshoes |

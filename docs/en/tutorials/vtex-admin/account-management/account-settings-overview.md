@@ -27,7 +27,7 @@ This section includes the following pages, soon to be included in Admin v4.
 
 ## User Roles
 
-This page defines which features can be viewed and/or edited by the user within each module of the platform. For more information, see the article [Roles](/en/tutorial/como-criar-perfil-de-acesso/).
+This page defines which features can be viewed and/or edited by the user within each module of the platform. For more information, see the article [Roles](/en/docs/tutorials/roles).
 
 ## Account
 

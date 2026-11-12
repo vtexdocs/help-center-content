@@ -82,7 +82,7 @@ En esta sección se presentan los datos del usuario titular de la cuenta. Cada c
 
 ![Página de detalles de la cuenta - Titular](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/admin-vtex/gestión-de-la-cuenta/cuentas/gestion-de-la-cuenta_5.png)
 
-Si eres el usuario titular, puedes [transferir la propiedad de la tienda](/es/tutorial/transferencia-de-propriedade-da-loja) en esta sección. Esto te permite transferir la propiedad de la tienda a otro usuario.
+Si eres el usuario titular, puedes [transferir la propiedad de la tienda](/es/docs/tutorials/transferir-la-propiedad-de-la-tienda) en esta sección. Esto te permite transferir la propiedad de la tienda a otro usuario.
 
 ## Tiendas
 
@@ -118,8 +118,8 @@ Para crear una nueva tienda, sigue los pasos a continuación.
 	- Nombre de la tienda:** el identificador interno de la tienda.
 	- **Nombre comercial:** el nombre utilizado comercialmente.
 	- **Región:** el idioma predefinido asociado a esta tienda.
-    - **Política comercial:** la [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV#) que deseas asociar a la nueva tienda.
-5. Si deseas iniciar el proceso [go-live](/es/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM) para tu tienda, rellena el campo **Hosts** con el [dominio de tu tienda](/es/tutorial/configurando-dominios-no-license-manager). En caso contrario, deja este campo en blanco.
+    - **Política comercial:** la [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial#) que deseas asociar a la nueva tienda.
+5. Si deseas iniciar el proceso [go-live](/es/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM) para tu tienda, rellena el campo **Hosts** con el [dominio de tu tienda](/es/docs/tutorials/configurar-dominio-de-la-tienda). En caso contrario, deja este campo en blanco.
 6. Haz clic en el botón `Crear`.
 
 > ℹ️ Para obtener más información sobre la configuración de los **Hosts** de tu tienda, consulta el artículo [Configurar el dominio de tu tienda](/es/docs/tutorials/configurar-dominio-de-la-tienda).
@@ -155,7 +155,7 @@ El nombre de la tienda eliminada no puede volver a utilizarse.
 
 - [¿Qué es un nombre de cuenta?](/es/docs/tutorials/que-es-account-name)
 - [Usuario titular](/es/docs/tutorials/que-es-el-usuario-titular)
-- [Transferir la propiedad de la tienda](/es/tutorial/transferencia-de-propriedade-da-loja)
+- [Transferir la propiedad de la tienda](/es/docs/tutorials/transferir-la-propiedad-de-la-tienda)
 - [Configurando el dominio de tu tienda](/es/docs/tutorials/configurar-dominio-de-la-tienda)
 - [Go-live](/es/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM)
 

@@ -31,5 +31,5 @@ A nova lista de preços é composta de: uma lista com os produtos e seus preços
 
 - [Cadastrar Tabelas de Preços](/pt/docs/tracks/cadastrar-tabelas-de-precos)
 - [Regras de preços](/pt/docs/tracks/regra-de-preco-definicao-de-conceito)
-- [Arredondamento de Preços](/pt/tutorial/preco-psicologico-v2/)
+- [Arredondamento de Preços](/pt/docs/tutorials/arredondamento-de-precos)
 - [Configurações de preços](/pt/docs/tutorials/configuracoes-de-precos)

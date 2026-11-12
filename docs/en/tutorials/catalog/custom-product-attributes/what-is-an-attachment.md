@@ -28,4 +28,4 @@ If your purchased item is a Brazilian National Team Shirt, the name of your Atta
 ### Related articles
 - [Adding an attachment](/en/docs/tutorials/adding-an-attachment)
 - [What is a service?](/en/docs/tutorials/what-is-a-service)
-- [How to create a service for an SKU](/en/tutorial/creating-a-service-for-a-sku)
+- [How to create a service for an SKU](/en/docs/tutorials/creating-service-for-a-sku)

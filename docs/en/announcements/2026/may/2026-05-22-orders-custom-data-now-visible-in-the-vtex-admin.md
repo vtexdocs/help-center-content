@@ -18,7 +18,7 @@ Custom data now displays on orders in the VTEX Admin. With this update, you can 
 
 Previously, custom data linked to orders in the OMS, including store custom fields (`customFields`) and app payloads (`customApps`), could only be accessed via API calls. Now, when an order contains custom data, both the order details page and the print view in the VTEX Admin display this information in collapsible menus: one for custom fields and another for app payloads.
 
-> ℹ️ To learn more about `customFields` and `customApps`, read the article [VTEX Data Pipeline Beta](https://help.vtex.com/docs/tutorials/orders-data-pipeline-beta#table-orders_custom_fields).
+> ℹ️ To learn more about `customFields` and `customApps`, read the article [VTEX Data Pipeline Beta](https://help.vtex.com/en/docs/tutorials/orders-data-pipeline-beta#table-orders_custom_fields).
 
 ## Why did we make this change?
 

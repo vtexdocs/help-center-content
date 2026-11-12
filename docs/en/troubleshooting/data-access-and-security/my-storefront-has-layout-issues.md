@@ -59,14 +59,14 @@ If the unwanted behavior persists even when customizations are blocked, open a t
 
 This solution should be used when you want to test a page URL that has a problem with the VTEX native layout or with a different layout by changing the template or controls. To perform this test, follow the steps below:
 
-1. In the VTEX Admin, go to **Storefront > Layout > CMS** and create a new template in **HTML Templates**. Make sure the new template is the same type as the one currently used on the affected page. For example, if the issue occurs on a category page, you should create a new category template. For more details on how to create a template, see the guide [Creating and editing a page template](https://help.vtex.com/docs/tutorials/how-to-create-a-page-template).
+1. In the VTEX Admin, go to **Storefront > Layout > CMS** and create a new template in **HTML Templates**. Make sure the new template is the same type as the one currently used on the affected page. For example, if the issue occurs on a category page, you should create a new category template. For more details on how to create a template, see the guide [Creating and editing a page template](https://help.vtex.com/en/docs/tutorials/how-to-create-a-page-template).
 2. In the created template, keep the basic layout structure and use only the [native controls](https://developers.vtex.com/docs/guides/list-of-controls-for-templates) required to render the page.
 3. Go to the layouts section in **CMS > Sites and channels** and locate the folder for the page with the issue. For example, if the problem is on a category page, you should:
    - Click the desired website.
    - Click the root folder (`/`).
    - Click the **Category > @category@** folder.
    - In the window on the side, click `new layout` to create a new layout.
-4. Associate the created template with the new layout. For more details, see the guide [Associating a template with a layout](https://help.vtex.com/docs/tutorials/associating-a-template-with-a-layout).
+4. Associate the created template with the new layout. For more details, see the guide [Associating a template with a layout](https://help.vtex.com/en/docs/tutorials/associating-a-template-with-a-layout).
 5. In the **Properties** section of the new layout, find the LID.
 6. Go to the page with the issue and add the layout's LID as a `QueryString` (`?` or `&`) to the URL in the browser's address bar.
 

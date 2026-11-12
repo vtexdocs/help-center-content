@@ -32,4 +32,4 @@ To set the base price, follow the steps below:
 
 ## Related articles
 
-[Setting a pricing rule for a sales policy](/en/tutorial/setting-a-pricing-rule-for-a-sales-policy)
+[Setting a pricing rule for a sales policy](/en/docs/tutorials/configuring-a-pricing-rule-for-a-sales-policy)

@@ -13,7 +13,7 @@ tags:
   - Storefront
 ---
 
-A partir de **30 de março de 2026**, a VTEX começará a atualizar automaticamente as contas de [Headless CMS (Legacy) (Legado)](https://developers.vtex.com/docs/guides/faststore/headless-cms-overview) para a nova experiência [VTEX CMS](https://help.vtex.com/docs/tutorials/cms-overview). 
+A partir de **30 de março de 2026**, a VTEX começará a atualizar automaticamente as contas de [Headless CMS (Legacy) (Legado)](https://developers.vtex.com/docs/guides/faststore/headless-cms-overview) para a nova experiência [VTEX CMS](https://help.vtex.com/pt/docs/tutorials/cms-visao-geral). 
 
 Esta atualização introduz um sistema de gerenciamento de conteúdo moderno e mais robusto, desenvolvido para melhorar como as equipes criam, colaboram e distribuem conteúdo, permitindo fluxos de trabalho mais rápidos, melhor colaboração e maior escalabilidade.
 
@@ -58,11 +58,11 @@ Essas melhorias permitem que sua equipe crie e gerencie conteúdo de forma mais 
 Nenhuma ação é necessária para iniciar a atualização. No entanto, recomendamos o seguinte para ajudar durante a transição:
 
 * **Revise a documentação para se familiarizar com o novo CMS:**  
-  * Guia do usuário: [Visão geral do CMS](https://help.vtex.com/docs/tutorials/cms-overview)   
+  * Guia do usuário: [Visão geral do CMS](https://help.vtex.com/pt/docs/tutorials/cms-visao-geral)   
   * Guia do desenvolvedor: [Upgrading from Headless CMS (Legacy) (legacy) to CMS](https://developers.vtex.com/docs/guides/upgrading-from-headless-cms-legacy-to-cms-overview) (em inglês)
 
 * **Valide seu conteúdo após a migração:**  
   * No Admin VTEX, acesse **Storefront\> Content** e verifique se o conteúdo da sua loja está sendo exibido conforme esperado.
 
 * **Entre em contato com o Suporte se necessário:**  
-  * Caso tenha dúvidas ou precise de assistência durante a atualização, nosso time de suporte está pronto para ajudar. Abra um ticket para o [Suporte VTEX](https://help.vtex.com/en/support).
+  * Caso tenha dúvidas ou precise de assistência durante a atualização, nosso time de suporte está pronto para ajudar. Abra um ticket para o [Suporte VTEX](https://help.vtex.com/pt/support).

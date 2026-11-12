@@ -1,12 +1,12 @@
 ---
-title: 'Agent Builder - Visão geral'
+title: 'Agent Builder'
 createdAt: 2025-07-23T12:24:11.906Z
-updatedAt: 2026-10-02T00:00:00.000Z
+updatedAt: 2026-11-10T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: agent-builder-overview
 locale: pt
-order: 1
+categoryCover: true
 ---
 
 O **Agent Builder** é uma ferramenta de conversação com o cliente baseada em inteligência artificial. Usando essa funcionalidade, você pode customizar agentes para interagir com seus clientes, permitindo que eles solicitem informações sobre um pedido em andamento, o catálogo da sua loja e o cancelamento de um pedido, por exemplo.
@@ -94,19 +94,35 @@ Para salvar seus ajustes, clique em `Salvar alterações`.
 
 Ao clicar no botão `Editar instruções` do agente orquestrador, você acessa a página **Instruções**, onde pode adicionar instruções diretas para determinar como seu agente se comporta. Não há limite para a quantidade de instruções que podem ser criadas.
 
-##### Validação por IA
+Toda instrução personalizada é revisada por IA antes de ser salva. A revisão analisa a instrução em busca de problemas, sugere uma reescrita quando necessário e atribui uma categoria para que você possa organizar instruções relacionadas.
 
-Ao criar instruções personalizadas, você pode solicitar a validação da IA, que analisará cada uma delas e indicará possíveis problemas ou pontos de melhoria. Além disso, você também pode solicitar uma sugestão automática, que revisará a instrução e a editará conforme necessário.
+##### Criar uma instrução
 
-Para utilizar a validação de instrução por IA ao criar uma instrução, siga os passos a seguir:
+Para criar uma instrução personalizada, siga os passos a seguir:
 
-1. Ative o botão <i class="fas fa-toggle-on" aria-hidden="true"></i> **Validar instrução por IA**.
-2. Digite a sua instrução em **Nova instrução personalizada** e clique em `Validar instrução`.
-3. Após a análise da instrução, caso o resultado seja **Nenhum problema encontrado. Pronto para publicar!**, clique em `Publicar`.
+1. Na página **Instruções**, clique em `Nova instrução`.
+2. Digite a instrução.
+3. Clique em `Validar`.
+4. Em **Categoria sugerida**, mantenha a categoria atribuída pela IA, selecione outra opção em **Outras categorias** ou selecione **Sem categoria**.
+5. Clique em `Salvar`.
 
-> ⚠️ Caso apareça uma mensagem de aviso em **Resultados da validação**, corrija a instrução conforme as orientações exibidas e clique em `Re-validar`.
+> ℹ️ O botão `Salvar` fica disponível após a conclusão da revisão por IA. Quando nenhum problema é encontrado, o campo **Problemas encontrados** exibe **Tudo certo. Nenhum problema encontrado.** Para adicionar uma categoria antes de salvar, confira [Criar uma categoria](#criar-uma-categoria).
 
-> ℹ️ É possível criar uma nova instrução personalizada sem a validação da IA. Para realizar esta ação, desative a opção **Validar instrução por IA**, digite a instrução e clique em `Publicar instrução`.
+> ⚠️ Se o campo **Problemas encontrados** listar algum problema, atualize a instrução ou clique em `Aplicar` em **Sugestão de reescrita**. Clique em `Desfazer` para restaurar o texto anterior. Depois de alterar o texto, clique em `Re-validar` e, em seguida, em `Salvar`.
+
+##### Criar uma categoria
+
+Você pode criar uma categoria durante a criação ou edição de uma instrução e depois reutilizá-la em outras instruções.
+
+Para criar uma categoria, siga os passos a seguir:
+
+1. No painel lateral da instrução, abra **Categoria** ou **Categoria sugerida**.
+2. Clique em `Nova categoria`.
+3. Em **Nome da categoria**, digite um nome.
+4. Clique em `Criar`.
+5. Clique em `Salvar` para armazenar a instrução nessa categoria.
+
+> ℹ️ O nome da categoria pode ter até 50 caracteres e incluir letras, números, espaços e hifens. Use um nome exclusivo. A opção **Sem categoria** é reservada para instruções sem categoria. Uma categoria criada no painel lateral fica marcada com a tag **Novo** até que você salve a instrução.
 
 ##### Componentes interativos
 
@@ -124,21 +140,41 @@ Para orientar o agente a usar um componente, cite-o diretamente em uma instruç�
 
 > ⚠️ O catálogo de produtos não é um componente nativo do Manager 2.7. Quando há um agente Concierge atribuído ao time, o orquestrador aciona o Concierge para enviar o catálogo. Os agentes Concierge oficiais da VTEX já possuem essa capacidade.
 
-##### Lista de instruções
+##### Visualizar instruções
 
-Na **Lista de instruções**, você pode verificar as seguintes informações:
+Selecione `Categorias` ou `Lista` para alterar o modo de exibição das instruções:
 
-- **Instruções personalizadas:** instruções criadas para o agente. É possível localizá-las usando a barra de busca ou copiá-las clicando no botão `Copiar instruções`.
+- **Categorias:** agrupa as instruções por categoria. Uma categoria personalizada sem instruções permanece visível e exibe **Nenhuma instrução nesta categoria ainda**.
 
-- **Instruções padrão:** comportamentos definidos pela plataforma. Essas instruções não podem ser editadas.
+- **Lista:** exibe cada instrução existente com a sua respectiva categoria.
 
-- **Temas de segurança:** assuntos não mencionados pelo agente durante um atendimento. Esses temas não podem ser editados.
+Use o campo de busca para encontrar uma instrução. Para baixar as instruções, clique em `Exportar instruções`.
 
-Para editar ou remover uma instrução personalizada, siga os passos a seguir:
+A página inclui os seguintes grupos:
 
-1. Clique no botão de três pontos <i class="fas fa-ellipsis-v" aria-hidden="true"></i> ao lado da instrução desejada.
-2. Para editá-la, clique em `Editar instrução`, faça os ajustes necessários e clique em `Salvar`.
-3. Para excluí-la, clique em `Excluir instrução` e, em seguida, em `Excluir`.
+- **Sem categoria:** instruções personalizadas que não possuem uma categoria. Você pode editá-las e excluí-las. Este grupo não pode ser removido.
+
+- **Instruções padrão:** comportamentos definidos pela plataforma. Essas instruções não podem ser editadas ou removidas.
+
+Para editar ou excluir uma instrução personalizada, siga os passos a seguir:
+
+1. Clique no botão de três pontos <i class="fas fa-ellipsis-v" aria-hidden="true"></i> ao lado da instrução.
+2. Para editá-la, clique em `Editar instrução`, altere o texto ou a categoria e clique em `Salvar`.
+3. Para excluí-la, clique em `Excluir instrução` e confirme a exclusão.
+
+> ℹ️ O campo **Categoria** fica disponível assim que você abre a instrução. Clique em `Re-validar` para revisar o texto novamente. A revalidação mantém a categoria já selecionada.
+
+> ⚠️ A exclusão de uma instrução é permanente, e o agente deixa de segui-la.
+
+Para excluir uma categoria personalizada, siga os passos a seguir:
+
+1. Selecione `Categorias`.
+2. Abra o menu de ações da categoria.
+3. Clique em `Excluir categoria` e confirme a exclusão.
+
+> ℹ️ As instruções de uma categoria excluída são movidas para **Sem categoria**. Uma categoria vazia é removida da lista.
+
+Para escolher quais tópicos sensíveis o agente deve recusar, confira [Configurar camadas extras de segurança por projeto](https://help.vtex.com/pt/docs/tutorials/configurar-camadas-extras-de-seguranca-por-projeto).
 
 ### Base de conhecimento
 
@@ -146,7 +182,7 @@ Nessa página, você pode adicionar [arquivos](#arquivos), [sites](#sites) e [te
 
 #### Arquivos
 
-Para adicionar um arquivo à base de dados, clique em <i class="fas fa-plus" aria-hidden="true"></i>`Adicionar arquivo`.
+Para adicionar um arquivo à base de dados, clique em <i class="fas fa-plus" aria-hidden="true"></i> `Adicionar arquivo`.
 
 > ⚠️ Os arquivos devem ter extensão `.pdf`, `.doc`, `.docx`, `.txt`, `.xls` ou `.xlsx` e tamanho de até 50 MB.
 
@@ -161,7 +197,7 @@ Você também pode usar o campo de busca para encontrar um arquivo na base de co
 
 Para inserir um site na base de dados do agente, siga este passo a passo:
 
-1. Clique em <i class="fas fa-plus" aria-hidden="true"></i>`Adicionar site`.
+1. Clique em <i class="fas fa-plus" aria-hidden="true"></i> `Adicionar site`.
 2. Em seguida, copie a URL do site que deseja adicionar e cole-a no campo vazio.
 3. Clique em `Concluir`.
 
@@ -178,7 +214,7 @@ Nessa aba, você pode adicionar conteúdos em texto à base de conhecimento, org
 
 Para criar um segmento de texto, siga os passos a seguir:
 
-1. Clique em <i class="fas fa-plus" aria-hidden="true"></i>`Adicionar texto`.
+1. Clique em <i class="fas fa-plus" aria-hidden="true"></i> `Adicionar texto`.
 2. Digite um título para identificar o segmento.
 3. Insira o conteúdo na caixa de texto.
 4. Clique em `Salvar`.
@@ -198,4 +234,3 @@ Você também pode usar o campo de busca para encontrar um segmento pelo título
 Você pode criar fluxos de automação para interagir com um grupo de usuários e determinar as respostas do agente com base nas mensagens dos usuários.
 
 Para mais informações, acesse [Visão geral Fluxo de automação](https://help.vtex.com/pt/docs/tutorials/visao-geral-fluxo-de-automacao).
-

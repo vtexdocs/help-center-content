@@ -15,9 +15,9 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Before activating your promotional price table, you must have already created a price table. See our tutorial for more info on [creating price tables](/en/tutorial/criar-tabelas-de-precos). Complete this step first and then move on to the next steps.
+Before activating your promotional price table, you must have already created a price table. See our tutorial for more info on [creating price tables](/en/docs/tutorials/creating-price-tables). Complete this step first and then move on to the next steps.
 
-After choosing a price table that you wish to use, you can create a promotional price table using one of the two promotion types below: Regular or Campaign Promotion. Check which fields to fill out here:  **[regular benefits](/en/tutorial/promocao-regular) or [campaign audience benefits](/en/tutorial/promocao-de-campanha)**
+After choosing a price table that you wish to use, you can create a promotional price table using one of the two promotion types below: Regular or Campaign Promotion. Check which fields to fill out here:  **[regular benefits](/en/docs/tutorials/regular-promotion) or [campaign audience benefits](/en/docs/tutorials/campaign-promotion)**
 
 The steps above must be successfully completed prior to attempting to create a promotional price table. Afterwards, follow the steps below:
 

@@ -17,7 +17,7 @@ subcategoryId: 42hDtnYXHw5ExG6l19RP1l
 
 En VTEX, se puede aplicar una promoción o descuento a un grupo de clientes. Este grupo de clientes se puede definir por las propiedades que tienen en común.
 
-> ⚠️ Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar cuál versión de Master Data satisface las necesidades de tu operación o ya está en uso. <ul> <li> [ Características de las versiones de Master Data ](/es/docs/tutorials/master-data#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/docs/guides/master-data-v2-basics) </li> </ul>
+> ⚠️ Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar cuál versión de Master Data satisface las necesidades de tu operación o ya está en uso. <ul> <li> [ Características de las versiones de Master Data ](/es/docs/tutorials/master-data-es#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/docs/guides/master-data-v2-basics) </li> </ul>
 
 Este artículo muestra cómo configurar una promoción para los empleados. Se considera que los empleados son un grupo de clientes, por lo que se identifican mediante clústeres de Master Data.
 
@@ -30,7 +30,7 @@ Aquí, la propiedad común de los clientes será que también son empleados de l
 
 En este artículo se asume que los empleados están debidamente registrados con un campo booleano `isEmployee` establecido como true en sus respectivos documentos para la entidad de datos CL, como se muestra en la siguiente imagen.
 
-Si no lo están, revise el artículo [Crear un campo en Master Data](/es/tutorial/how-can-i-create-field-in-master-data) para crear un campo que identifique a los empleados y configurarlo adecuadamente para cada documento correspondiente a los mismos.
+Si no lo están, revise el artículo [Crear un campo en Master Data](/es/docs/tutorials/como-crear-un-campo-en-master-data) para crear un campo que identifique a los empleados y configurarlo adecuadamente para cada documento correspondiente a los mismos.
 ![Campo empleado](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/configuraciones-de-la-tienda/master-data/gestión-de-clientes/configurar-los-beneficios-para-empleados-usando-clusters-de-master-data_1.png)
 
 > ℹ️ Hay muchos detalles para configurar completamente una promoción. Si necesita información adicional sobre este asunto, consulte el artículo [Crear promociones](/es/tutorial/creating-promotions-2).

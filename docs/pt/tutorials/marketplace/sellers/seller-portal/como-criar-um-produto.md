@@ -32,7 +32,7 @@ O formulário de cadastro de um novo produto contém as seguintes seções:
 *   [SEO](#seo)
 *   [Frente de loja](#frente-de-loja)
 
-> ℹ️ Antes de criar um produto, você precisa criar a [Categoria](/pt/tutorial/cadastrando-categoria--tutorials_206?&utm_source=autocomplete) correspondente a esse produto, caso ela não tenha sido cadastrada anteriormente na sua loja.
+> ℹ️ Antes de criar um produto, você precisa criar a [Categoria](/pt/docs/tutorials/cadastrar-uma-categoria?&utm_source=autocomplete) correspondente a esse produto, caso ela não tenha sido cadastrada anteriormente na sua loja.
 
 ## Informações Básicas
 

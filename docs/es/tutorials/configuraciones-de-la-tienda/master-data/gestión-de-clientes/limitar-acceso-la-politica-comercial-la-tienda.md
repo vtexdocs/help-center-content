@@ -19,7 +19,7 @@ La limitación en el acceso a una tienda puede ser implementado por diversas raz
 
 Este escenario se puede cumplir mediante el uso de Master Data v1 y la política comercial utilizada en la tienda.
 
-> ⚠️ Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar cuál versión de Master Data satisface las necesidades de tu operación o ya está en uso. <ul> <li> [ Características de las versiones de Master Data ](/es/docs/tutorials/master-data#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/docs/guides/master-data-v2-basics) </li> </ul>
+> ⚠️ Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar cuál versión de Master Data satisface las necesidades de tu operación o ya está en uso. <ul> <li> [ Características de las versiones de Master Data ](/es/docs/tutorials/master-data-es#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/docs/guides/master-data-v2-basics) </li> </ul>
 
 ## Crear cluster de clientes
 
@@ -42,11 +42,11 @@ Sin embargo, hay otras opciones de configuración. Se puede configurar, por ejem
 
 ## Registrar los clientes que pueden acceder
 
-Para el caso de B2B, donde la tienda no sabe qué clientes pueden acceder, se debe crear una forma en que las empresas registren sus datos. A través del Master Data se comprobará la verificación de datos y se dará acceso o no a la tienda. [Para realizar este ajuste, visite nuestro manual para las tiendas B2B.](/es/docs/tutorials/configurando-b2b-na-vtex/)
+Para el caso de B2B, donde la tienda no sabe qué clientes pueden acceder, se debe crear una forma en que las empresas registren sus datos. A través del Master Data se comprobará la verificación de datos y se dará acceso o no a la tienda. [Para realizar este ajuste, visite nuestro manual para las tiendas B2B.](/es/docs/tutorials/configurando-b2b-na-vtex-es)
 
 ## Learn more
 
-- [Estrategias de marketplace en VTEX](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
+- [Estrategias de marketplace en VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex?&utm_source=autocomplete)
 - [Como funciona una Política Comercial](/es/docs/tutorials/como-funciona-una-politica-comercial)
 - [Crear una política comercial](/es/docs/tutorials/crear-una-politica-comercial)
 - [Configurar política comercial para marketplace](/es/docs/tutorials/configurar-politica-comercial-para-marketplace)

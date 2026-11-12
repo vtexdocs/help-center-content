@@ -35,5 +35,5 @@ Tenemos presente que cada negocio tiene estrategias y necesidades diferentes. Po
 
 ## ¿Qué se necesita hacer?
 
-Por defecto, el número límite del campo será de 15 días. En caso de que desee alterarlo, solo tiene que acceder a la documentación [Configurar pagos con pagarés](/es/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ?&utm_source=autocomplete) y realizar el paso a paso.
+Por defecto, el número límite del campo será de 15 días. En caso de que desee alterarlo, solo tiene que acceder a la documentación [Configurar pagos con pagarés](/es/docs/tutorials/configurar-pagos-con-pagare?&utm_source=autocomplete) y realizar el paso a paso.
 

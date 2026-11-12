@@ -41,7 +41,7 @@ Finalmente, haga clic en el botón **Guardar**.
 
 Después, será necesario:
 
-1. [Crear colección](/es/tutorial/criando-colecao-de-produtos/) (sólo si su tienda todavía no posee una colección que desee atribuir al marketplace);
+1. [Crear colección](/es/docs/tutorials/creando-colecciones-de-productos) (sólo si su tienda todavía no posee una colección que desee atribuir al marketplace);
 2. Crear grupo por departamento, categoría o sub-categoría;
 3. Crear grupo por marca;
 4. [Configurar la política comercial](/es/tutorial/politica-comercial-para-marketplace/).

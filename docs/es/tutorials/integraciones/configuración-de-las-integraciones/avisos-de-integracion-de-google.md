@@ -38,7 +38,7 @@ Cuando un producto muestra el status **Procesado con error o Procesado con adver
 Comprueba a continuación los campos obligatorios y cómo rellenarlos:  
 
 **Price (precio):** campo obligatorio; debe rellenarse especificando el tipo de precio que se desea mostrar en Google shopping.
-Para identificar el error de integración del precio del SKU con Google, lee el artículo [Verificar integraciones](/es/tutorial/verificando-integracao-no-bridge/#preco).   
+Para identificar el error de integración del precio del SKU con Google, lee el artículo [Verificar integraciones](/es/docs/tutorials/como-verificar-la-integracion-en-bridge#preco).   
 
 **Availability (disponibilidad):** campo obligatorio. Si la integración de un SKU presenta error, consulta los artículos [Gestión del stock](/es/docs/tutorials/gestionar-items-en-inventario) y [Almacén](/es/docs/tutorials/almacen).   
 

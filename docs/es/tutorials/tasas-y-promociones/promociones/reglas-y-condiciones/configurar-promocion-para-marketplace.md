@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-VTEX permite la creación de diferentes tipos de [promociones](/es/tutorial/visao-geral-promocoes--3PeHVYcooLIDmA33IAnjhm?&utm_source=autocomplete#). Sin embargo, las promociones que se configuran en la cuenta de un seller y se utilizan en marketplaces (VTEX o externos) se limitan a algunos tipos específicos. Este tutorial explica cómo definir las promociones y condiciones que son aplicables en estos escenarios.
+VTEX permite la creación de diferentes tipos de [promociones](/es/docs/tutorials/vision-general-promociones?&utm_source=autocomplete#). Sin embargo, las promociones que se configuran en la cuenta de un seller y se utilizan en marketplaces (VTEX o externos) se limitan a algunos tipos específicos. Este tutorial explica cómo definir las promociones y condiciones que son aplicables en estos escenarios.
 
 ## Promociones disponibles de sellers para marketplaces
 
@@ -44,7 +44,7 @@ Para este tipo de promociones es importante tener en cuenta la siguiente informa
 * Una vez que el seller crea y activa la promoción, esta no genera ningún tipo de notificación para el marketplace. Corresponde al marketplace consultar el precio promocional.
 * Para que la promoción se aplique al valor del producto, el marketplace debe simular el precio del SKU utilizando el endpoint [Do OrderForm Simulation](https://developers.vtex.com/vtex-developer-docs/reference/orderform#orderformsimulation) de la API de Checkout.
 * La promoción no se aplicará al valor del producto si el marketplace utiliza el endpoint [Get Price](https://developers.vtex.com/vtex-developer-docs/reference/prices-and-fixed-prices#getprice) de la API de Pricing para consulta de envíos. Este endpoint devuelve únicamente los precios registrados en VTEX, sin considerar los efectos de la aplicación de la promoción.
-* Los sellers determinan los límites de reducción de precio que el marketplace puede aplicar sobre el valor total del envío. Si el valor de la reducción supera el límite establecido, no se realizará el pedido. Puedes modificar la configuración de tu tienda en la sección [Autorización de pedidos](/es/tutorial/como-funciona-a-autorizacao-de-pedidos--3MBK6CmKHAuUjMBieDU0pn?&utm_source=autocomplete#divergencia-de-valores).
+* Los sellers determinan los límites de reducción de precio que el marketplace puede aplicar sobre el valor total del envío. Si el valor de la reducción supera el límite establecido, no se realizará el pedido. Puedes modificar la configuración de tu tienda en la sección [Autorización de pedidos](/es/docs/tutorials/como-funciona-la-autorizacion-de-pedidos?&utm_source=autocomplete#divergencia-de-valores).
 
 ### Configuración disponible
 
@@ -95,7 +95,7 @@ A continuación se muestran las opciones de configuración** **no disponibles pa
 | Nombre | Descripción |
 | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Clúster de clientes                                                  | Descuento concedido si el cliente está registrado en el [clúster](/es/docs/tutorials/como-crear-un-cluster-de-cliente) seleccionado.                                           |
-| Tag de marketing                                                     | Utilizado para restringir la activación de la promoción si la compra se realiza a través del [módulo de Suscripciones de VTEX](/es/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453#). |
+| Tag de marketing                                                     | Utilizado para restringir la activación de la promoción si la compra se realiza a través del [módulo de Suscripciones de VTEX](/es/docs/tutorials/como-funciona-suscripciones#). |
 | UTM                                                                  | Descuento concedido en función del valor de un determinado [parámetro UTM](/es/docs/tutorials/que-son-utm-source-utm-campaign-y-utm-medium).                                         |
 | Audiencia de campaña                                                 | Permite segmentar las promociones de tu tienda definiendo [públicos objetivos](/es/docs/tutorials/audiencias-de-campanas#publico-alvo) que cumplan criterios específicos.             |
 | Cupones                                                              | Código que permite aplicar promociones sobre el valor del carrito.                                                                                                                                                            |

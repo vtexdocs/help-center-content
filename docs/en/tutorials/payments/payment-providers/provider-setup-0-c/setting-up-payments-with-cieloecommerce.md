@@ -1,21 +1,15 @@
 ---
 title: 'Setting up payments with CieloEcommerce'
-id: 6zuELBqEo0QzApbU4l7L4
-status: PUBLISHED
 createdAt: 2023-09-18T14:07:22.540Z
-updatedAt: 2025-04-09T19:25:40.961Z
-publishedAt: 2025-04-09T19:25:40.961Z
-firstPublishedAt: 2023-09-18T15:29:57.321Z
+updatedAt: 2026-11-05T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-cieloecommerce
-legacySlug: setting-up-payments-with-cieloecommerce
 locale: en
-subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+hidden: false
 ---
 
-At VTEX, it is possible to integrate with the CieloEcommerce. With this integration, your store can make sales through credit, debit, private labels and cobranded cards, bank invoices, PIX, among others.
+At VTEX, it is possible to integrate with the CieloEcommerce. With this integration, your store can make sales through credit, debit, private labels and cobranded cards, bank invoices, PIX, Alelo, among others.
 
 To configure CieloEcommerce, follow the steps below:
 1. In the VTEX Admin, go to **Store Settings > Payment > Providers**, or type **Providers** in the search bar at the top of the page.
@@ -44,7 +38,7 @@ To configure CieloEcommerce, follow the steps below:
 21. In **CustomMdds**, select the options according to information from CieloEcommerce anti-fraud.
 22. In **Captura**, select the period in which payment capture should be requested. Standard time will be held four days after authorization.
 23. Select the **UseVerifyCard**, **AcceptInternationalCard_**, **AcceptPrePaidCard** and **CancelRefundType** fields according to your settings in CieloEcommerce.
-24. In **CieloLIOClientId**, fill in according to information from the CieloEcommerce provider.
+24. In **CieloLIOClientId** and **EcAmex**, fill in according to information from the CieloEcommerce provider.
 25. Click **Save**.
 
 To configure the payment methods to be processed by CieloEcommerce, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).

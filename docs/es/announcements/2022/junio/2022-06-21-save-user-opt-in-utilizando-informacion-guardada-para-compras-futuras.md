@@ -25,7 +25,7 @@ A partir de ahora, dos casillas de verificación en la pantalla de pago permitir
 
 ![ Save user data opt-in ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2022/junio/2022-06-21-save-user-opt-in-utilizando-informacion-guardada-para-compras-futuras_1.PNG)
 
-Más información en [SmartCheckout - Rellenado automático de los datos del cliente](/es/tutorial/smartcheckout-customer-information-automatic-fill-in--2Nuu3xAFzdhIzJIldAdtan#).
+Más información en [SmartCheckout - Rellenado automático de los datos del cliente](/es/docs/tutorials/smartcheckout-rellenado-automatico-de-los-datos-del-cliente#).
 
 ## ¿Qué se necesita hacer?
 

@@ -15,7 +15,7 @@ locale: en
 legacySlug: how-does-the-scheduled-capture-flow-work-for-purchases-made-with-two-payment
 ---
 
-When the customer makes a purchase using two payment methods (credit card + voucher, for example), the amount will be settled according to the period established in each of the [gateway affiliations](/en/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete) and in your store’s [payment conditions](/en/tutorial/condicoes-de-pagamento) settings.
+When the customer makes a purchase using two payment methods (credit card + voucher, for example), the amount will be settled according to the period established in each of the [gateway affiliations](/en/docs/tutorials/registering-gateway-affiliations?&utm_source=autocomplete) and in your store’s [payment conditions](/en/docs/tutorials/how-to-configure-payment-conditions) settings.
 
 Let us take the following example:
 

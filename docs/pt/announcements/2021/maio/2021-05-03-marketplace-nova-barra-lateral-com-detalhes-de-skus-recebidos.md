@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Catalogue SKUs Recebidos com mais agilidade, conferindo dados de SKUs  na nova barra lateral.'
 ---
 
-A página de [SKUs Recebidos](/pt/tutorial/approving-suggestions-for-skus/) permite que o marketplace visualize, priorize e catalogue os itens enviados pelos sellers, tornando esses produtos disponíveis para venda. Nela, é possível catalogar os SKUs recebidos de sellers em relação aos SKUs e/ou produtos que já estão no marketplace, recusando-os, criando novos produtos, ou associando-os a produtos existentes. 
+A página de [SKUs Recebidos](/pt/docs/tutorials/sugerindo-e-aprovando-skus) permite que o marketplace visualize, priorize e catalogue os itens enviados pelos sellers, tornando esses produtos disponíveis para venda. Nela, é possível catalogar os SKUs recebidos de sellers em relação aos SKUs e/ou produtos que já estão no marketplace, recusando-os, criando novos produtos, ou associando-os a produtos existentes. 
 
 A página conta com uma lista dos SKUs enviados pelos sellers para o marketplace. Agora, ao clicar em um item da lista, uma barra lateral é aberta, contendo as principais informações sobre aquele SKU. 
 
@@ -36,4 +36,4 @@ Desenvolvemos a barra lateral para trazer mais agilidade para a sua operação e
 ## O que precisa ser feito?
 Nenhuma atualização precisa ser feita, incluímos a barra lateral automaticamente em seu Admin VTEX.   
 
-Para acessar a nova funcionalidade, navegue por Sellers > SKUs Recebidos e clique em qualquer item da lista. A barra pode ser visualizada a partir de qualquer aba da página SKUs Recebidos. Saiba mais em nosso artigo sobre [catalogação de SKUs Recebidos](/pt/tutorial/approving-suggestions-for-skus/). 
+Para acessar a nova funcionalidade, navegue por Sellers > SKUs Recebidos e clique em qualquer item da lista. A barra pode ser visualizada a partir de qualquer aba da página SKUs Recebidos. Saiba mais em nosso artigo sobre [catalogação de SKUs Recebidos](/pt/docs/tutorials/sugerindo-e-aprovando-skus). 
