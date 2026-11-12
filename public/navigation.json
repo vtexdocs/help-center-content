@@ -35130,16 +35130,16 @@
                     "pt": "Shopping Assistant"
                   },
                   "slug": {
-                    "en": "cx-platform-shopping-assistant-subcategory",
-                    "es": "cx-platform-shopping-assistant-subcategoria",
-                    "pt": "cx-platform-shopping-assistant-subcategoria"
+                    "en": "shopping-assistant-overview",
+                    "es": "shopping-assistant-vision-general",
+                    "pt": "visao-geral-do-shopping-assistant"
                   },
                   "origin": "",
-                  "type": "category",
+                  "type": "markdown",
                   "children": [
                     {
                       "name": {
-                        "en": "Configurar o Shopping Assistant",
+                        "en": "Configuring the Shopping Assistant",
                         "es": "Configurar el Shopping Assistant",
                         "pt": "Configurar o Shopping Assistant"
                       },
@@ -51228,13 +51228,13 @@
             {
               "name": {
                 "en": "Mercado Livre Multi-Origin - orders allocated to inactive stock",
-                "es": "Mercado Livre Orígenes múltiples: pedidos asignados a existencias inactivas",
-                "pt": "Mercado Livre Multi-Origem - pedidos alocados ao estoque inativo"
+                "es": "Mercado Livre Multi-Origen - pedidos asignados a stock inactivo",
+                "pt": "Mercado Livre Multi-Origem - pedidos alocados a estoque inativo"
               },
               "slug": {
                 "en": "mercado-livre-multiorigin-orders-allocated-to-inactive-stock",
-                "es": "mercado-livre-origenes-multiples-pedidos-asignados-a-existencias-inactivas",
-                "pt": "mercado-livre-multiorigem-pedidos-alocados-ao-estoque-inativo"
+                "es": "mercado-livre-multiorigen-pedidos-asignados-a-stock-inactivo",
+                "pt": "mercado-livre-multiorigem-pedidos-alocados-a-estoque-inativo"
               },
               "origin": "",
               "type": "markdown",
@@ -70188,6 +70188,21 @@
                 "en": "vtexstructureddata-settings-page-shows-gtin-value-ean-as-default-but-the-app-uses-the-sku-id-until-the-setting-is-saved",
                 "es": "vtexstructureddata-la-pagina-de-configuracion-muestra-el-valor-gtin-ean-como-predeterminado-pero-la-aplicacion-utiliza-el-id-de-sku-hasta-que-se-guarda-la-configuracion",
                 "pt": "vtexstructureddata-a-pagina-de-configuracoes-mostra-o-valor-gtin-ean-como-padrao-mas-o-aplicativo-usa-o-id-sku-ate-que-a-configuracao-seja-salva"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "vtex.structured-data App settings are not applied in PDP SSR HTML",
+                "es": "vtex.structured-data La configuración de la aplicación no se aplica en PDP SSR HTML",
+                "pt": "vtex.structured-data As configurações do aplicativo não são aplicadas no PDP SSR HTML"
+              },
+              "slug": {
+                "en": "vtexstructureddata-app-settings-are-not-applied-in-pdp-ssr-html",
+                "es": "vtexstructureddata-la-configuracion-de-la-aplicacion-no-se-aplica-en-pdp-ssr-html",
+                "pt": "vtexstructureddata-as-configuracoes-do-aplicativo-nao-sao-aplicadas-no-pdp-ssr-html"
               },
               "origin": "",
               "type": "markdown",
