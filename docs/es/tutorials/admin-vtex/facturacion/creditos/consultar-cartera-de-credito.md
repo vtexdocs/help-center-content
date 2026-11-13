@@ -15,6 +15,8 @@ Para acceder a la cartera de crédito, haz clic en tu avatar, identificado por l
 
 ![creditos-es](https://cdn.jsdelivr.net/gh/vtexdocs/help-center-content@main/docs/es/tutorials/admin-vtex/facturacion/creditos/creditos-es.png)
 
+> ⚠️ Si tu tienda usa una edition personalizada, es decir, diferente de las editions de VTEX (`vtex.edition-business@0.x` o `vtex.edition-store@5.x`), la página **Créditos** puede no estar disponible en el Admin VTEX. Si es necesario, [abre un ticket con el Soporte de VTEX](/es/docs/tutorials/como-abrir-tickets-para-el-soporte-vtex) y solicita la instalación de la aplicación de Billing, que muestra las páginas de **Información de facturación**, incluyendo **Créditos**.
+
 En la página **Créditos** puedes consultar la siguiente información:
 
 - **Saldo total**: saldo actual de tu cartera de crédito.
