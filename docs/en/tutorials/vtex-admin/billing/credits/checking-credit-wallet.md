@@ -15,6 +15,8 @@ To access the credit wallet, click your avatar — identified by your email init
 
 ![credits-en](https://cdn.jsdelivr.net/gh/vtexdocs/help-center-content@main/docs/en/tutorials/vtex-admin/billing/credits/credits-en.png)
 
+> ⚠️ If your store uses a customized edition, that is, one different from VTEX editions (`vtex.edition-business@0.x` or `vtex.edition-store@5.x`), the **Credits** page might not be available in the VTEX Admin. If needed, [open a ticket with VTEX Support](/en/docs/tutorials/how-to-open-a-ticket-with-vtex-support) and request the installation of the Billing app (`[APP-NAME-TO-BE-CONFIRMED]`), which displays the **Billing Information** pages, including **Credits**.
+
 On the **Credits** page, you'll find the following information:
 
 - **Total balance**: Current balance of your credit wallet.
