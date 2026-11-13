@@ -3,7 +3,7 @@ title: 'Criar promoção Leve Mais por Menos'
 id: tutorials_325
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:17.186Z
-updatedAt: 2025-09-30T13:52:31.023Z
+updatedAt: 2026-11-11T17:30:00.000Z
 publishedAt: 2025-09-30T13:52:31.023Z
 firstPublishedAt: 2017-04-27T23:03:15.551Z
 contentType: tutorial
@@ -138,7 +138,7 @@ Nesta seção, saiba como destacar a promoção na página de produto e adiciona
 
 - **Destacar nos produtos:** marque esta opção para exibir a promoção diretamente nas páginas de produtos. 
 
-> ⚠️ Lembre-se [configurar essa exibição no módulo CMS](/pt/docs/tutorials/configurando-promocao-com-destaque-flag).
+> ⚠️ Lembre-se de [configurar essa exibição de acordo com o frontend da sua loja](/pt/docs/tutorials/configurando-promocao-com-destaque-flag), seja CMS Portal (Legado) ou Store Framework.
 
 - **Informações adicionais:** clique em `Criar` para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.
 

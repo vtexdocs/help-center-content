@@ -3,7 +3,7 @@ title: 'Criar uma promoção regular'
 id: tutorials_327
 status: PUBLISHED
 createdAt: 2017-04-27T22:07:59.690Z
-updatedAt: 2025-08-28T18:35:47.144Z
+updatedAt: 2026-11-11T17:30:00.000Z
 publishedAt: 2025-08-28T18:35:47.144Z
 firstPublishedAt: 2017-04-27T23:03:15.647Z
 contentType: tutorial
@@ -165,6 +165,6 @@ Defina se a promoção pode ser aplicada junto com outras promoções ou com pre
 
 Use esta seção para destacar a promoção visualmente nos produtos exibidos na vitrine da loja.
 
-- **Destacar promoção nos produtos:** ative esta opção para exibir um selo promocional nos produtos afetados pela promoção. Para que o destaque funcione corretamente, é necessário [configurar a exibição no módulo CMS da loja](/pt/docs/tutorials/configurando-promocao-com-destaque-flag).  
+- **Destacar promoção nos produtos:** ative esta opção para exibir um selo promocional nos produtos afetados pela promoção. Para que o destaque funcione corretamente, é necessário configurar a exibição de acordo com o frontend da loja. Em lojas CMS Portal (Legado), a configuração é feita nos templates do módulo CMS. Em lojas Store Framework, ela é feita pelo componente Product Highlights. Para mais informações, veja [Configurar promoção com destaque/flag](/pt/docs/tutorials/configurando-promocao-com-destaque-flag).  
 - **Informações adicionais:** clique em `Criar` para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.
 

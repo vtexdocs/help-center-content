@@ -3,7 +3,7 @@ title: "Criar uma promoção de desconto progressivo"
 id: tutorials_324
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:26.447Z
-updatedAt: 2025-09-30T13:50:03.053Z
+updatedAt: 2026-11-11T17:30:00.000Z
 publishedAt: 2025-09-30T13:50:03.053Z
 firstPublishedAt: 2017-04-27T23:03:15.195Z
 contentType: tutorial
@@ -140,6 +140,6 @@ Destaque a promoção na página de produto e adicione dados personalizados para
 
 - **Destacar nos produtos:** marque esta opção para exibir a promoção diretamente nas páginas de produtos.
 
-> ⚠️ Lembre-se [configurar essa exibição no módulo CMS](/pt/docs/tutorials/configurando-promocao-com-destaque-flag).
+> ⚠️ Lembre-se de [configurar essa exibição de acordo com o frontend da sua loja](/pt/docs/tutorials/configurando-promocao-com-destaque-flag), seja CMS Portal (Legado) ou Store Framework.
 
 - **Informações adicionais:** clique em `Criar` para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.

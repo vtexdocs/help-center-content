@@ -3,7 +3,7 @@ title: 'Crear promoción Más por Menos'
 id: tutorials_325
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:17.186Z
-updatedAt: 2025-09-30T13:52:31.023Z
+updatedAt: 2026-11-11T17:30:00.000Z
 publishedAt: 2025-09-30T13:52:31.023Z
 firstPublishedAt: 2017-04-27T23:03:15.551Z
 contentType: tutorial

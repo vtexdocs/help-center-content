@@ -3,7 +3,7 @@ title: 'Criar uma promoção Compre e ganhe'
 id: tutorials_322
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:41.148Z
-updatedAt: 2025-09-30T13:53:58.091Z
+updatedAt: 2026-11-11T17:30:00.000Z
 publishedAt: 2025-09-30T13:53:58.091Z
 firstPublishedAt: 2017-04-27T23:03:14.992Z
 contentType: tutorial
@@ -107,7 +107,7 @@ Após definir os itens de compra, escolha o benefício que o cliente receberá:
 Nesta seção, detalharemos as condições em que você deve aplicar para que uma promoção seja considerada válida.
 
 - **Meio de pagamento:** a promoção será aplicada quando você selecionar um dos métodos de pagamento especificados e o carrinho tiver apenas um método de pagamento.
-- **Número do Bin do cartão:** a promoção só poderá ser aplicada se forem utilizados cartões de bandeiras, bancos ou categorias específicas, identificados por seus códigos BIN. É possível realizar a importação de uma lista de BINs, que deve estar salvo em um arquivo de texto (**.txt**) ou (**.csv**) com cada BIN descrito em uma linha diferente.
+- **Número do Bin do cartão:** a promoção só poderá ser aplicada se forem utilizados cartões de bandeiras, bancos ou categorias específicas, identificados por seus códigos BIN. É possível realizar a importação de uma lista de BINs, que deve estar salva em um arquivo de texto (**.txt**) ou (**.csv**) com cada BIN descrito em uma linha diferente.
 - **Cluster de clientes:** selecione um [cluster de clientes](/pt/docs/tutorials/como-criar-um-cluster-de-clientes) já criado no Master Data, seguindo o formato `field=value` ou `field contains value`.
 - **Tipo de frete:** permite escolher se a promoção será aplicada em um ou mais tipos de fretes selecionados.
 - **Localização de entrega:** a promoção só será aplicada caso o endereço de entrega do pedido esteja de acordo com as seguintes definições abaixo:
@@ -142,7 +142,7 @@ Destaque a promoção na página de produtos e adicione dados personalizados par
 
 - **Destacar nos produtos:** marque esta opção para exibir a promoção diretamente nas páginas de produtos. Lembre-se de configurar essa exibição no módulo CMS.
 
-> ℹ️ Lembre-se configurar essa exibição no módulo [CMS.](/pt/docs/tutorials/configurando-promocao-com-destaque-flag)
+> ℹ️ Lembre-se de [configurar essa exibição de acordo com o frontend da sua loja](/pt/docs/tutorials/configurando-promocao-com-destaque-flag), seja CMS Portal (Legado) ou Store Framework.
 
 - **Informações adicionais:** clique em `Criar` para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.
 

@@ -21454,6 +21454,21 @@
                     },
                     {
                       "name": {
+                        "en": "Configuring promotion highlights in CMS Portal (Legacy)",
+                        "es": "Configurar destaque de promoción en CMS Portal (Legado)",
+                        "pt": "Configurar destaque de promoção no CMS Portal (Legado)"
+                      },
+                      "slug": {
+                        "en": "configuring-promotion-highlights-in-cms-portal-legacy",
+                        "es": "configurar-destaque-de-promocion-en-cms-portal-legado",
+                        "pt": "configurar-destaque-de-promocao-no-cms-portal-legado"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Configuring an XML domain",
                         "es": "Configurar dominio del XML",
                         "pt": "Configurar domínio do XML"

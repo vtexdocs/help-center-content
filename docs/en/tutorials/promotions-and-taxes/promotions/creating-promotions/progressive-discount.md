@@ -3,7 +3,7 @@ title: "Creating a Progressive Discount promotion"
 id: tutorials_324
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:26.447Z
-updatedAt: 2025-09-30T13:50:03.053Z
+updatedAt: 2026-11-11T17:30:00.000Z
 publishedAt: 2025-09-30T13:50:03.053Z
 firstPublishedAt: 2017-04-27T23:03:15.195Z
 contentType: tutorial

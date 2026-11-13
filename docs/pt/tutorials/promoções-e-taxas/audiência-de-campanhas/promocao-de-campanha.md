@@ -3,7 +3,7 @@ title: 'Criar promoção de campanha'
 id: 1ChYXhK2AQGuS6wAqS8Ume
 status: PUBLISHED
 createdAt: 2018-12-02T18:57:52.792Z
-updatedAt: 2025-09-24T14:00:05.744Z
+updatedAt: 2026-11-11T17:30:00.000Z
 publishedAt: 2025-09-24T14:00:05.744Z
 firstPublishedAt: 2018-12-03T16:52:03.595Z
 contentType: tutorial
@@ -49,7 +49,7 @@ Após criar a audiência de campanha, siga os passos abaixo:
 2. Clique em `Criar promoção`.  
 3. Clique em `Promoção de Campanha`.  
 4. Preencha os campos da promoção, conforme descrito na tabela abaixo. Campos com asterisco são de preenchimento obrigatório.  
-5. Clique em `Salvar.`
+5. Clique em `Salvar`.
 
 | Campo | Descrição |
 | ----- | --------- |
@@ -137,7 +137,7 @@ Selecione o benefício a ser aplicado quando as condições da promoção de cam
 
 As condições de aplicação da promoção de campanha são determinadas pelas audiências selecionadas anteriormente. A promoção será exibida e aplicada apenas para usuários que atenderem aos critérios configurados no público-alvo da campanha.
 
-Para consultar ou editar as condições da audiência, clique em `Ver audiência.`
+Para consultar ou editar as condições da audiência, clique em `Ver audiência`.
 
 ## Configurar restrições para o uso da promoção
 
@@ -150,5 +150,5 @@ Defina o número máximo de vezes que a promoção pode ser aplicada na loja ou 
 
 Defina nesta seção o destaque visual da promoção de campanha nos produtos exibidos na loja.
 
-* **Destacar promoção nos produtos:**  ative esta opção para exibir um selo promocional nos produtos afetados pela promoção. Para que o destaque funcione corretamente, é necessário[configurar a exibição no módulo CMS da loja](/pt/docs/tutorials/configurando-promocao-com-destaque-flag).  
+* **Destacar promoção nos produtos:** ative esta opção para exibir um selo promocional nos produtos afetados pela promoção. Para que o destaque funcione corretamente, é necessário configurar a exibição de acordo com o frontend da loja, seja CMS Portal (Legado) ou Store Framework. Para mais informações, veja [Configurar promoção com destaque/flag](/pt/docs/tutorials/configurando-promocao-com-destaque-flag).  
 * **Informações adicionais:** clique em `Criar` para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.
