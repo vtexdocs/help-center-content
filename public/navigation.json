@@ -33985,6 +33985,52 @@
               "children": [
                 {
                   "name": {
+                    "en": "My agents",
+                    "es": "Mis agentes",
+                    "pt": "Meus agentes"
+                  },
+                  "slug": {
+                    "en": "assigning-and-testing-agents-in-agent-builder",
+                    "es": "asignar-y-probar-agentes",
+                    "pt": "atribuir-e-testar-agentes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Official agents from VTEX CX Platform",
+                        "es": "Agentes oficiales de VTEX CX Platform",
+                        "pt": "Agentes oficiais do VTEX CX Platform"
+                      },
+                      "slug": {
+                        "en": "official-agents-from-vtex-cx-platform",
+                        "es": "agentes-oficiales-de-vtex-cx-platform",
+                        "pt": "agentes-oficiais-da-vtex-cx-platform"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring safety guardrails per project",
+                        "es": "Configurar barreras de seguridad por proyecto",
+                        "pt": "Configurar camadas extras de segurança por projeto"
+                      },
+                      "slug": {
+                        "en": "configuring-extra-safety-guardrails-per-project",
+                        "es": "configurar-capas-adicionales-de-seguridad-por-proyecto",
+                        "pt": "configurar-camadas-extras-de-seguranca-por-projeto"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
                     "en": "Automation flow",
                     "es": "Flujo de automatización",
                     "pt": "Fluxo de automação"
@@ -34333,51 +34379,6 @@
                       ]
                     }
                   ]
-                },
-                {
-                  "name": {
-                    "en": "Official agents from VTEX CX Platform",
-                    "es": "Agentes oficiales de VTEX CX Platform",
-                    "pt": "Agentes oficiais do VTEX CX Platform"
-                  },
-                  "slug": {
-                    "en": "official-agents-from-vtex-cx-platform",
-                    "es": "agentes-oficiales-de-vtex-cx-platform",
-                    "pt": "agentes-oficiais-da-vtex-cx-platform"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Assigning and testing agents",
-                    "es": "Asignar y probar agentes",
-                    "pt": "Atribuir e testar agentes"
-                  },
-                  "slug": {
-                    "en": "assigning-and-testing-agents-in-agent-builder",
-                    "es": "asignar-y-probar-agentes",
-                    "pt": "atribuir-e-testar-agentes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring safety guardrails per project",
-                    "es": "Configurar barreras de seguridad por proyecto",
-                    "pt": "Configurar camadas extras de segurança por projeto"
-                  },
-                  "slug": {
-                    "en": "configuring-extra-safety-guardrails-per-project",
-                    "es": "configurar-capas-adicionales-de-seguridad-por-proyecto",
-                    "pt": "configurar-camadas-extras-de-seguranca-por-projeto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -34459,9 +34460,9 @@
             },
             {
               "name": {
-                "en": "Studio",
-                "es": "Estúdio",
-                "pt": "Estúdio"
+                "en": "Contacts",
+                "es": "Contactos",
+                "pt": "Contatos"
               },
               "slug": {
                 "en": "studio-subcategory",
@@ -34719,6 +34720,98 @@
             },
             {
               "name": {
+                "en": "Audit",
+                "es": "Auditoría",
+                "pt": "Auditoria"
+              },
+              "slug": {
+                "en": "audit-overview",
+                "es": "auditoria-overview",
+                "pt": "auditoria-overview"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": [
+                {
+                  "name": {
+                    "en": "Audit: Improvement backlog",
+                    "es": "Auditoría: Backlog de mejoras",
+                    "pt": "Auditoria: Backlog de melhorias"
+                  },
+                  "slug": {
+                    "en": "audit-improvements-backlog",
+                    "es": "auditoria-backlog-de-mejoras",
+                    "pt": "auditoria-backlog-de-melhorias"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Audit: Conversations",
+                    "es": "Auditoría: Conversaciones",
+                    "pt": "Auditoria: Conversas"
+                  },
+                  "slug": {
+                    "en": "audit-conversations",
+                    "es": "auditoria-conversaciones",
+                    "pt": "auditoria-conversas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Settings",
+                "es": "Configuración",
+                "pt": "Configurações"
+              },
+              "slug": {
+                "en": "vtex-cx-platform-settings-subcategory",
+                "es": "configuraciones-vtex-cx-platform-subcategoria",
+                "pt": "configurações-vtex-cx-platform-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "CX Platform settings: Workspace",
+                    "es": "Configuración de CX Platform: Workspace",
+                    "pt": "Configurações CX Platform: Espaço de trabalho"
+                  },
+                  "slug": {
+                    "en": "cx-platform-settings-workspace",
+                    "es": "configuracion-de-cx-platform-espacio-de-trabajo",
+                    "pt": "configuracoes-cx-platform-espaco-de-trabalho"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Managing VTEX CX Platform members",
+                    "es": "Gestionar miembros de VTEX CX Platform",
+                    "pt": "Gerenciar membros do VTEX CX Platform"
+                  },
+                  "slug": {
+                    "en": "managing-vtex-cx-platform-members",
+                    "es": "administrar-miembros-de-la-plataforma-vtex-cx",
+                    "pt": "gerenciar-membros-do-vtex-cx-platform"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Integrations",
                 "es": "Integraciones",
                 "pt": "Integrações"
@@ -34794,7 +34887,7 @@
                       "name": {
                         "en": "Active message dispatch on WhatsApp",
                         "es": "Envío activo de mensajes en WhatsApp",
-                        "pt": "Disparo Ativo no WhatsApp"
+                        "pt": "Disparo ativo no WhatsApp"
                       },
                       "slug": {
                         "en": "active-message-dispatch-on-whatsapp",
@@ -35254,98 +35347,6 @@
                     "en": "how-to-use-the-applications-module",
                     "es": "como-utilizar-el-modulo-de-aplicaciones",
                     "pt": "como-utilizar-o-modulo-aplicativos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Settings",
-                "es": "Configuración",
-                "pt": "Configurações"
-              },
-              "slug": {
-                "en": "vtex-cx-platform-settings-subcategory",
-                "es": "configuraciones-vtex-cx-platform-subcategoria",
-                "pt": "configurações-vtex-cx-platform-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "CX Platform settings: Workspace",
-                    "es": "Configuración de CX Platform: Workspace",
-                    "pt": "Configurações CX Platform: Espaço de trabalho"
-                  },
-                  "slug": {
-                    "en": "cx-platform-settings-workspace",
-                    "es": "configuracion-de-cx-platform-espacio-de-trabajo",
-                    "pt": "configuracoes-cx-platform-espaco-de-trabalho"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing VTEX CX Platform members",
-                    "es": "Gestionar miembros de VTEX CX Platform",
-                    "pt": "Gerenciar membros do VTEX CX Platform"
-                  },
-                  "slug": {
-                    "en": "managing-vtex-cx-platform-members",
-                    "es": "administrar-miembros-de-la-plataforma-vtex-cx",
-                    "pt": "gerenciar-membros-do-vtex-cx-platform"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Audit",
-                "es": "Auditoría",
-                "pt": "Auditoria"
-              },
-              "slug": {
-                "en": "audit-overview",
-                "es": "auditoria-overview",
-                "pt": "auditoria-overview"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": [
-                {
-                  "name": {
-                    "en": "Audit: Improvement backlog",
-                    "es": "Auditoría: Backlog de mejoras",
-                    "pt": "Auditoria: Backlog de melhorias"
-                  },
-                  "slug": {
-                    "en": "audit-improvements-backlog",
-                    "es": "auditoria-backlog-de-mejoras",
-                    "pt": "auditoria-backlog-de-melhorias"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Audit: Conversations",
-                    "es": "Auditoría: Conversaciones",
-                    "pt": "Auditoria: Conversas"
-                  },
-                  "slug": {
-                    "en": "audit-conversations",
-                    "es": "auditoria-conversaciones",
-                    "pt": "auditoria-conversas"
                   },
                   "origin": "",
                   "type": "markdown",

@@ -3,7 +3,7 @@ title: "Active message dispatch on WhatsApp"
 id: 20E0eUtogj84N0vf6nZeia
 status: PUBLISHED
 createdAt: 2025-09-15T15:27:41.354Z
-updatedAt: 2026-11-13T14:20:00.000Z
+updatedAt: 2026-11-13T18:56:00.000Z
 publishedAt: 2025-10-03T14:20:32.448Z
 firstPublishedAt: 2025-10-03T14:20:32.448Z
 contentType: tutorial
@@ -15,40 +15,64 @@ locale: en
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-First of all, it is important to understand the difference between active and passive dispatch.
+Active dispatch is when you start a conversation with a contact, for example to send a notification, a confirmation, or a follow-up. This is different from passive dispatch, which starts when the contact messages you first.
 
-Passive dispatch occurs when the end user voluntarily contacts the company. At this point, a conversation flow is initiated from the first message sent by the user to the company.
+On WhatsApp, active dispatch requires a template message. Meta must approve each template message before you can send it. The VTEX CX Platform uses the same active dispatch process for all channels, but only WhatsApp requires a template message. On other channels, you don't need one, and you can send more than one message.
 
-On the other hand, active dispatch occurs when the company takes the initiative to start a conversation with the user. For active dispatch to take place, the message to be sent needs to go through a validation process guided by Meta, and only after its pre-approval can it be sent to users. On the VTEX CX Platform, we call this message model a Template Message.
+## Before you begin
 
-## Send through the flow module
+Before you start, make sure that:
 
-After the pre-approval of the Template Message, the conversational flow can begin to be built. The first step is to add the "Update Contact" card and choose the `Channel` option, as it will define which channel the dispatch will be sent from. At this stage, select your WhatsApp channel.
+- Your WhatsApp channel is connected. For more information, see [WhatsApp: Integration with VTEX CX Platform](https://help.vtex.com/en/docs/tutorials/whatsapp-vtex-cx-platform-integration).
+- The template message you want to send is approved by Meta. To create one, see [WhatsApp: How to create template messages](https://help.vtex.com/en/docs/tutorials/whatsapp-how-to-create-template-messages).
+- Your role allows you to create flows. Only users with admin, moderator, or collaborator permissions can create flows.
 
-The **second step** is to add the send message card. In the text box, enter the following expression: @(“”).
+## Building a flow that starts with a template message
 
-The above expression indicates that a Template Message will be sent and that this field will not be considered, as the message template to be sent to customers can be selected in the "WhatsApp" tab, located in the same "Send Message" card. By clicking on the "WhatsApp" tab, you can access the messages that have been pre-approved and select them for sending.
+> ⚠️ On WhatsApp, the first message of the flow must be a template message. Other message types can't reach a contact who hasn't messaged you in the last 24 hours.
 
-At this point, it is also possible to add variables that will make the message more personalized, such as the variable `@contact.name`, which addresses the user by the name registered in their own WhatsApp.
+To build the flow, follow these steps:
 
-### Variables filled in by the agent in Live Desk
+1. Add an **Update Contact** card to the flow.
+2. In the **Channel** option, select your WhatsApp channel. This sets the channel that the dispatch is sent from.
+3. Add a **Send Message** card after the **Update Contact** card.
+4. In the text box of the **Send Message** card, enter `@(“”)`.
 
-`@contact.name` is filled in automatically with the contact's data. For the agent to edit a variable when triggering the flow from Live Desk, enter `@trigger.params.variable_name` in that variable's field on the **WhatsApp** tab. Replace `variable_name` with the name that should appear in **Variable mapping**. You define this name in the flow. It does not need to be a contact field.
+    This expression doesn't affect the message. The template message is selected in the **WhatsApp** tab of the same card.
 
-For example, in the template `retornar_contato`, the variable fields can be `@trigger.params.contact_name` and `@trigger.params.atendente`. In Live Desk, the mapping screen labels these fields **Variable contact_name** and **Variable atendente**.
+5. In the **Send Message** card, click the **WhatsApp** tab. Select the template message you want to send. The tab shows only the template messages that Meta has approved.
+6. (Optional) Add variables to personalize the message. For example, `@contact.name` inserts the contact's name.
+7. (Optional) Add the rest of the flow after the **Send Message** card. To let the contact reply, add a **Wait for Response** card.
 
-If the flow includes more than one template with variables, use `@trigger.params.variable_name` in every variable the agent should fill in.
+## Letting agents fill in variables in Live Desk
 
-For how the agent completes these values before sending, see [Using active triggering of flows](https://help.vtex.com/en/docs/tutorials/using-active-triggering-of-flows).
+If a Live Desk agent needs to enter a value before the template message is sent, configure the variable as follows:
 
-This step applies to the first message and only to the WhatsApp channel. After the template message is delivered, if the contact responds, continue the flow with the other action cards. You can add the rest of the flow after the first template message card. To let the contact respond, add a `Wait for Response` card.
+1. In the variable field on the **WhatsApp** tab, enter `@trigger.params.variable_name`. Replace `variable_name` with the name that should appear in **Variable mapping**. You define this name in the flow. It doesn't need to match a contact field.
+2. If the flow includes more than one template message with variables, repeat step 1 for each variable that the agent should fill in.
 
-After selecting the message, click the `Trigger Flow` button located in the upper right corner of the screen and send it to a specific contact or a group of contacts.
+Variables that use other expressions, such as `@contact.name`, are filled in automatically and don't appear for editing.
 
-To check the result, go to **Studio** and open the **Flow** tab. The sending history lists errors and initiated flows.
+For example, a template message named `return_contact` can have the variables `@trigger.params.contact_name` and `@trigger.params.agent_name`. In Live Desk, the mapping screen shows these fields as **Variable contact_name** and **Variable agent_name**.
 
-## Send from the studio module
+For how agents complete these values before sending, see [Using active triggering of flows](https://help.vtex.com/en/docs/tutorials/using-active-triggering-of-flows).
 
-It is also possible to send a Template Message through the "Studio" module by selecting the contact to whom you want to send the message and clicking on the options menu located in the upper right corner. Then, select `Start in Flow,` choose the flow, and send. This is another option that the VTEX CX Platform offers for performing active dispatch.
+## Triggering the flow
 
-The active dispatch process is the same for all communication channels; however, the creation of the Template Message is exclusive to the WhatsApp channel. This means that while the use of a Template Message is not necessary for other channels, on WhatsApp, it is only possible to send a message template (to initiate the flow). In the other channels, it is possible to send more than one message without prior limitations.
+To send the flow to contacts, follow these steps:
+
+1. Click `Trigger Flow` in the upper-right corner of the screen.
+2. Select the contact or group of contacts that should receive the flow, and send it.
+
+## Sending from the Contacts module
+
+You can also start a flow for a single contact from the **Contacts** module:
+
+1. Select the contact that should receive the message.
+2. Click the options menu in the upper-right corner.
+3. Click `Start in Flow`, select the flow, and send it.
+
+## Learn more
+
+- [WhatsApp template messages: Impediments and configurations](https://help.vtex.com/en/docs/tutorials/whatsapp-template-messages-impediments-and-configurations): Learn how to resolve rejected or disabled template messages.
+- [Automation flow overview](https://help.vtex.com/en/docs/tutorials/automation-flow-overview)
