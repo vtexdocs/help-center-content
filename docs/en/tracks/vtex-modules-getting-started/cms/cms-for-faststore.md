@@ -20,6 +20,7 @@ The CMS is organized around the following features:
 - [Locales](#locales)
 - [Media](#media)
 - [Roles and permissions](#roles-and-permissions)
+- [Learn more](#learn-more)
 
 ## All content
 

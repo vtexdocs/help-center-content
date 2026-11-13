@@ -14,6 +14,31 @@ locale: en
 
 The Content Management System (CMS) provides merchants with the flexibility and control needed to manage and structure their storefront content independently. It allows business teams and content editors to create multiple versions of content, collaborate on details, review for quality, and schedule publishing. To access the CMS, open the VTEX Admin and go to **Storefront > Content > Content**.
 
+## Getting started
+
+Every piece of content a shopper sees starts with a developer, who defines what can be edited: the fields, their types, and their names. Once the developer publishes that structure, content operators use the Admin to create, review, and publish pages based on it, without writing code.
+
+![cms-workflow-overview](https://vtexhelp.vtexassets.com/assets/docs/src/cms-workflow___1051ba6444b1b3aeaf5a5623620dc62f.png)
+
+Before you start, make sure you have:
+
+| Requirement | Description |
+| ----------- | ----------- |
+| A schema published by a developer | Without it, there are no fields to edit. Developers can find the setup steps in the Developer Portal guide [Getting started with CMS](https://developers.vtex.com/docs/guides/getting-started-with-cms). |
+| The right role | The CMS has three roles: Content Producer, Content Editor, and Content Administrator. See [CMS roles and permissions](/en/docs/tutorials/cms-roles-and-permissions). |
+| A configured store with a Preview URL | A store links your storefront to the CMS and holds its settings, including the locales and the Preview URL used to preview entries and branches before publishing. See [Configuring stores](/en/docs/tutorials/cms-configuring-stores). |
+
+After completing these requirements, follow these steps to start working with the CMS:
+
+1. **Configure your store.** Define the store name, the Preview URL, and the locales. Learn more in [Configuring stores](/en/docs/tutorials/cms-configuring-stores).
+2. **Create a branch and edit content.** Work in an isolated branch, preview your changes, and merge them into `main` now or on a scheduled date. Learn more in [Versions and branches](/en/docs/tutorials/managing-versions-and-branches) and [Collaboration workflows](/en/docs/tutorials/collaboration-workflows).
+3. **Restore earlier work if needed.** See [Version history](/en/docs/tutorials/cms-version-history).
+4. **Translate your content.** Set up locales and fallback behavior. Learn more in [Configuring locales](/en/docs/tutorials/configuring-locales), [Localizing content](/en/docs/tutorials/localizing-content), and [Understanding locale fallback rules](/en/docs/tutorials/understanding-locale-fallback-rules).
+
+> ℹ️ Developers can find the technical side of the CMS, such as environment setup and schema declarations, in the [Developer Portal](https://developers.vtex.com/docs/guides/getting-started-with-cms).
+
+## Main parts of the CMS
+
 Below are the main parts of the CMS:
 
 ## All content
