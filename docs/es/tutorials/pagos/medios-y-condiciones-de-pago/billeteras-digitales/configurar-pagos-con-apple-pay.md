@@ -3,7 +3,7 @@ title: 'Configurar pagos con Apple Pay'
 id: 5L3NWMgvdKswWQa6eIc008
 status: PUBLISHED
 createdAt: 2018-04-12T20:38:42.521Z
-updatedAt: 2024-06-25T21:20:56.252Z
+updatedAt: 2026-11-11T00:00:00.000Z
 publishedAt: 2024-06-25T21:20:56.252Z
 firstPublishedAt: 2018-05-23T19:26:11.000Z
 contentType: tutorial

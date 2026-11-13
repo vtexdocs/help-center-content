@@ -29631,21 +29631,6 @@
                   "children": [
                     {
                       "name": {
-                        "en": "Setting up Mercado Pago Offline and Wallet as payment methods",
-                        "es": "Configurar Mercado Pago Offline y Wallet como métodos de pago",
-                        "pt": "Configurar Mercado Pago Offline e Wallet como métodos de pagamentos"
-                      },
-                      "slug": {
-                        "en": "setting-up-mercado-pago-offline-and-wallet-as-payment-methods",
-                        "es": "configurar-mercado-pago-offline-y-wallet-como-metodos-de-pago",
-                        "pt": "configurar-mercado-pago-offline-e-wallet-como-metodos-de-pagamentos"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
                         "en": "Setting up payments with Apple Pay",
                         "es": "Configurar pagos con Apple Pay",
                         "pt": "Configurar pagamentos com Apple Pay"
@@ -29661,9 +29646,24 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up Mercado Pago Offline and Wallet as payment methods",
+                        "es": "Configurar Mercado Pago Offline y Wallet como métodos de pago",
+                        "pt": "Configurar pagamentos com Mercado Pago Offline e Wallet"
+                      },
+                      "slug": {
+                        "en": "setting-up-mercado-pago-offline-and-wallet-as-payment-methods",
+                        "es": "configurar-mercado-pago-offline-y-wallet-como-metodos-de-pago",
+                        "pt": "configurar-mercado-pago-offline-e-wallet-como-metodos-de-pagamentos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Configuring Samsung Pay as a payment method",
                         "es": "Configurar Samsung Pay como medio de pago",
-                        "pt": "Configurar Samsung Pay como meio de pagamento"
+                        "pt": "Configurar pagamentos com Samsung Pay"
                       },
                       "slug": {
                         "en": "configuring-samsung-pay-as-a-payment-method",
