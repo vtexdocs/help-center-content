@@ -1,7 +1,7 @@
 ---
 title: 'Consultar cartera de crédito'
 createdAt: '2026-10-08T00:00:00.000Z'
-updatedAt: '2026-10-30T00:00:00.000Z'
+updatedAt: '2026-11-03T00:00:00.000Z'
 contentType: tutorial
 productTeam: Billing
 slugEN: checking-credit-wallet
@@ -14,6 +14,8 @@ Para acceder a la cartera de crédito, haz clic en tu avatar, identificado por l
 > ⚠️ Solo los usuarios con el rol [Finance](/es/docs/tutorials/roles-de-usuario-predefinidos#finance), [Finance - Full access](/es/docs/tutorials/roles-de-usuario-predefinidos#finance-full-access) o con el recurso `View Credits` de [Billing](/es/docs/tutorials/roles-de-usuario-predefinidos#billing) vinculado al rol pueden acceder a la página **Créditos** en el Admin VTEX.
 
 ![creditos-es](https://cdn.jsdelivr.net/gh/vtexdocs/help-center-content@main/docs/es/tutorials/admin-vtex/facturacion/creditos/creditos-es.png)
+
+> ⚠️ Si tu tienda usa una edition personalizada, es decir, diferente de las editions de VTEX (`vtex.edition-business@0.x` o `vtex.edition-store@5.x`), la página **Créditos** puede no estar disponible en el Admin VTEX. Si es necesario, [abre un ticket con el Soporte de VTEX](/es/docs/tutorials/como-abrir-tickets-para-el-soporte-vtex) y solicita la instalación de la aplicación de Billing (`[NOMBRE-DE-LA-APP-POR-CONFIRMAR]`), que muestra las páginas de **Información de facturación**, incluyendo **Créditos**.
 
 En la página **Créditos** puedes consultar la siguiente información:
 
