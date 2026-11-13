@@ -125,7 +125,7 @@ Por cada pólítica comercial adicional, se cobra una tarifa mensual, ya sea que
 Actualmente, la plataforma VTEX cuenta con los siguientes marketplaces certificados:  
 
 - [Amazon](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP)  
-- [Mercado Libre](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq)  
+- [Mercado Libre](/es/docs/tutorials/mercado-libre)  
 - [Magazine Luiza](/es/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y)  
 - [Carrefour](/es/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2)  
 - [Centauro](/es/tracks/integracao-com-a-centauro--D8Qnjbr5lfLkUfMRhsfbj)  

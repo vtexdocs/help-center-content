@@ -21,7 +21,7 @@ tags:
 
 The new offer model on **Mercado Libre** allows sellers to configure different sales conditions for each product SKU, such as individual pricing for variations.    
 
-The [integration with Mercado Libre](/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) is available in Argentina, Brazil, Chile, Colombia, Ecuador, Mexico, Peru, Uruguay, and Venezuela.  
+The [integration with Mercado Libre](/en/docs/tutorials/mercado-libre) is available in Argentina, Brazil, Chile, Colombia, Ecuador, Mexico, Peru, Uruguay, and Venezuela.  
 
 ## What has changed?
 

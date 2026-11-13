@@ -8477,36 +8477,6 @@
           "children": [
             {
               "name": {
-                "en": "How to configure a multi-brand store in the integration with Mercado Livre?",
-                "es": "¿Cómo configurar la tienda paraguas en la integración con Mercado Libre?",
-                "pt": "Como configurar loja guarda-chuva na integração com o Mercado Livre?"
-              },
-              "slug": {
-                "en": "how-to-configure-a-top-level-store-in-the-integration-with-mercado-livre",
-                "es": "como-configurar-la-tienda-paraguas-en-la-integracion-con-el-mercado-libre",
-                "pt": "como-configurar-loja-guarda-chuva-na-integracao-com-o-mercado-livre"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "How to set up multiple accounts in the Mercado Livre Integration?",
-                "es": "¿Cómo configurar múltiples cuentas en la integración con Mercado Libre?",
-                "pt": "Como configurar múltiplas contas na integração com o Mercado Livre?"
-              },
-              "slug": {
-                "en": "how-to-set-up-multiple-accounts-in-the-mercado-livre-integration",
-                "es": "como-configurar-multiples-cuentas-en-la-integracion-con-el-mercado-libre",
-                "pt": "como-configurar-multiplas-contas-na-integracao-com-o-mercado-livre"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "I don't recognize the reservation ID of an order. What's happened?",
                 "es": "No reconozco el ID de reserva de un pedido. ¿Qué puede haber ocurrido?",
                 "pt": "Não reconheço o ID de reserva de um pedido. O que pode ter acontecido?"
@@ -8552,21 +8522,6 @@
             },
             {
               "name": {
-                "en": "Why has my product been wrongly categorized on Mercado Livre?",
-                "es": "¿Por qué mi producto fue categorizado equivocadamente en Mercado Livre?",
-                "pt": "Por que meu produto foi categorizado errado no Mercado Livre?"
-              },
-              "slug": {
-                "en": "why-has-my-product-been-wrongly-categorized-on-mercado-livre",
-                "es": "por-que-mi-producto-fue-categorizado-equivocadamente-en-mercado-livre",
-                "pt": "por-que-meu-produto-foi-categorizado-errado-no-mercado-livre"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Why was an inactive product sold on the marketplace?",
                 "es": "¿Por qué mi producto inactivo fue vendido en el marketplace?",
                 "pt": "Por que meu produto inativo foi vendido no marketplace?"
@@ -8605,21 +8560,6 @@
                 "en": "why-dont-my-payment-methods-appear-on-the-marketplace",
                 "es": "por-que-mis-medios-de-pago-no-aparecen-en-marketplace",
                 "pt": "por-que-meus-meios-de-pagamento-nao-aparecem-no-marketplace"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Why are my orders not integrating with Mercado Livre?",
-                "es": "¿Por qué mis pedidos no integran con el Mercado Libre?",
-                "pt": "Por que meus pedidos não integram com o Mercado Livre?"
-              },
-              "slug": {
-                "en": "why-are-my-orders-not-integrating-with-mercado-livre",
-                "es": "por-que-mis-pedidos-no-integran-con-el-mercado-libre",
-                "pt": "por-que-meus-pedidos-nao-integram-com-o-mercado-livre"
               },
               "origin": "",
               "type": "markdown",
@@ -8695,21 +8635,6 @@
                 "en": "why-is-it-not-possible-to-integrate-vtex-marketplace-to-other-marketplaces",
                 "es": "por-que-no-puedo-integrar-un-marketplace-vtex-con-otro-marketplace",
                 "pt": "por-que-nao-consigo-integrar-um-marketplace-vtex-com-outro-marketplace"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Why does Mercado Livre return attribution errors after mapping?",
-                "es": "¿Por qué el Mercado Livre retorna errores de atributo tras el mapeo?",
-                "pt": "Por que o Mercado Livre retorna erros de atributo após o mapeamento?"
-              },
-              "slug": {
-                "en": "why-does-mercado-livre-return-attribution-errors-after-mapping",
-                "es": "por-que-el-mercado-livre-retorna-errores-de-atributo-tras-el-mapeo",
-                "pt": "por-que-o-mercado-livre-retorna-erros-de-atributo-apos-o-mapeamento"
               },
               "origin": "",
               "type": "markdown",
@@ -13468,187 +13393,6 @@
                         "en": "product-integration-errors-with-amazon",
                         "es": "errores-de-integracion-de-productos-amazon",
                         "pt": "erros-de-integracao-de-produtos-amazon"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": {
-                    "en": "Mercado Livre integration",
-                    "es": "Integración con Mercado Libre",
-                    "pt": "Integração com o Mercado Livre"
-                  },
-                  "slug": {
-                    "en": "mercado-libre-integration-set-up",
-                    "es": "configurar-integracion-con-mercado-libre",
-                    "pt": "configurar-integracao-do-mercado-livre"
-                  },
-                  "origin": "",
-                  "type": "category",
-                  "children": [
-                    {
-                      "name": {
-                        "en": "1. Mercado Libre",
-                        "es": "1. Mercado Libre",
-                        "pt": "1. Mercado Livre"
-                      },
-                      "slug": {
-                        "en": "mercado-libre-marketplace",
-                        "es": "mercado-libre-marketplace",
-                        "pt": "mercado-livre-marketplace"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "2. Ad types: Classic and Premium",
-                        "es": "2. Tipos de anuncios: Clásico y Premium",
-                        "pt": "2. Tipos de anúncio: Clássico e Premium"
-                      },
-                      "slug": {
-                        "en": "ad-types-classic-and-premium",
-                        "es": "tipos-de-anuncios-clasico-y-premium",
-                        "pt": "tipos-de-anuncio-classico-e-premium"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "3. Setting up a sales channel for Mercado Livre",
-                        "es": "3. Configurar política comercial para Mercado Libre",
-                        "pt": "3. Configurar política comercial para o Mercado Livre"
-                      },
-                      "slug": {
-                        "en": "setting-up-a-trade-policy-for-mercado-livre",
-                        "es": "configurar-politica-comercial-para-mercado-libre",
-                        "pt": "configurar-politica-comercial-para-o-mercado-livre"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "4. Defining the Shipping Strategy",
-                        "es": "4. Definir la Estrategia de Envío",
-                        "pt": "4. Definição da Estratégia de Envio"
-                      },
-                      "slug": {
-                        "en": "defining-the-shipping-strategy",
-                        "es": "definir-la-estrategia-de-envio",
-                        "pt": "definicao-da-estrategia-de-envio"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "5. Configuring Price Divergence rule",
-                        "es": "5. Configurar regla de Divergencia de precios",
-                        "pt": "5. Configurar regra de Divergência de valores"
-                      },
-                      "slug": {
-                        "en": "configuring-price-divergence-rule-mercado-libre",
-                        "es": "configurar-regla-de-divergencia-de-precios-mercado-libre",
-                        "pt": "configurar-regra-de-divergencia-de-valores-mercado-livre"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "6. Adding Mercado Livre conector",
-                        "es": "6. Registro del conector de Mercado Libre",
-                        "pt": "6. Cadastro do conector Mercado Livre"
-                      },
-                      "slug": {
-                        "en": "register-mercado-livre-integration",
-                        "es": "registro-de-la-integracion-de-mercado-libre",
-                        "pt": "cadastro-da-integracao-do-mercado-livre"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "7. Authorizing Mercado Livre integration in VTEX panel",
-                        "es": "7. Autorizar la integración de Mercado Libre en el panel de VTEX",
-                        "pt": "7. Autorizar integração do Mercado Livre no painel da VTEX"
-                      },
-                      "slug": {
-                        "en": "authorizing-mercado-livre-integration-in-vtex-panel",
-                        "es": "autorizar-la-integracion-de-mercado-libre-en-el-panel-de-vtex",
-                        "pt": "autorizar-integracao-do-mercado-livre-no-painel-da-vtex"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "8. Setting up the logistics for Mercado Livre",
-                        "es": "8. Configurar logística para Mercado Libre",
-                        "pt": "8. Configurar logística para o Mercado Livre"
-                      },
-                      "slug": {
-                        "en": "setting-up-the-logistics-for-mercado-livre",
-                        "es": "configurar-la-logistica-para-mercado-libre",
-                        "pt": "configurar-logistica-para-o-mercado-livre"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "9. Mapping product categories and attributes to Mercado Libre",
-                        "es": "9. Mapear categorías y atributos de los productos para Mercado Libre",
-                        "pt": "9. Mapear categorias e atributos dos produtos para o Mercado Livre"
-                      },
-                      "slug": {
-                        "en": "mapping-product-categories-and-attributes-to-mercado-libre",
-                        "es": "mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper",
-                        "pt": "mapear-categorias-e-atributos-dos-produtos-para-o-mercado-livre-mapper"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "10. Match Offers Mercado Livre",
-                        "es": "10. Publicación de productos Mercado Libre",
-                        "pt": "10. Publicação de produtos Mercado Livre"
-                      },
-                      "slug": {
-                        "en": "match-offers-mercado-livre",
-                        "es": "match-de-anuncios-de-mercado-libre",
-                        "pt": "match-de-anuncios-mercado-livre"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "11. What features does the integration offer?",
-                        "es": "11. ¿Qué funcionalidades ofrece la integración?",
-                        "pt": "11. Quais são as funcionalidades que a integração oferece?"
-                      },
-                      "slug": {
-                        "en": "what-features-does-the-integration-offer",
-                        "es": "que-funcionalidades-ofrece-la-integracion",
-                        "pt": "quais-sao-as-funcionalidades-que-a-integracao-oferece"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -24090,6 +23834,614 @@
             },
             {
               "name": {
+                "en": "Integrations",
+                "es": "Integraciones",
+                "pt": "Integrações"
+              },
+              "slug": {
+                "en": "marketplace-integrations-subcategory",
+                "es": "integraciones-marketplace-subcategoria",
+                "pt": "integracoes-marketplace-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Mercado Libre",
+                    "es": "Mercado Libre",
+                    "pt": "Mercado Livre"
+                  },
+                  "slug": {
+                    "en": "mercado-libre",
+                    "es": "mercado-libre",
+                    "pt": "mercado-livre"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Set up the integration",
+                        "es": "Configure la integración",
+                        "pt": "Configure a integração"
+                      },
+                      "slug": {
+                        "en": "set-up-the-integration-mercado-libre",
+                        "es": "configure-la-integracion-mercado-libre",
+                        "pt": "configure-a-integracao-mercado-livre"
+                      },
+                      "origin": "",
+                      "type": "category",
+                      "children": [
+                        {
+                          "name": {
+                            "en": "Ad types: Classic and Premium",
+                            "es": "Tipos de anuncios: Clásico y Premium",
+                            "pt": "Tipos de anúncio: Clássico e Premium"
+                          },
+                          "slug": {
+                            "en": "ad-types-classic-and-premium",
+                            "es": "tipos-de-anuncios-clasico-y-premium",
+                            "pt": "tipos-de-anuncio-classico-e-premium"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Setting up a sales channel for Mercado Livre",
+                            "es": "Configurar política comercial para Mercado Libre",
+                            "pt": "Configurar política comercial para o Mercado Livre"
+                          },
+                          "slug": {
+                            "en": "setting-up-a-trade-policy-for-mercado-livre",
+                            "es": "configurar-politica-comercial-para-mercado-libre",
+                            "pt": "configurar-politica-comercial-para-o-mercado-livre"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Defining the Shipping Strategy",
+                            "es": "Definir la Estrategia de Envío",
+                            "pt": "Definição da Estratégia de Envio"
+                          },
+                          "slug": {
+                            "en": "defining-the-shipping-strategy",
+                            "es": "definir-la-estrategia-de-envio",
+                            "pt": "definicao-da-estrategia-de-envio"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Configuring Price Divergence rule",
+                            "es": "Configurar regla de Divergencia de precios",
+                            "pt": "Configurar regra de Divergência de valores"
+                          },
+                          "slug": {
+                            "en": "configuring-price-divergence-rule-mercado-libre",
+                            "es": "configurar-regla-de-divergencia-de-precios-mercado-libre",
+                            "pt": "configurar-regra-de-divergencia-de-valores-mercado-livre"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Adding Mercado Livre conector",
+                            "es": "Registro del conector de Mercado Libre",
+                            "pt": "Cadastro do conector Mercado Livre"
+                          },
+                          "slug": {
+                            "en": "register-mercado-livre-integration",
+                            "es": "registro-de-la-integracion-de-mercado-libre",
+                            "pt": "cadastro-da-integracao-do-mercado-livre"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Authorizing Mercado Livre integration in VTEX panel",
+                            "es": "Autorizar la integración de Mercado Libre en el panel de VTEX",
+                            "pt": "Autorizar integração do Mercado Livre no painel da VTEX"
+                          },
+                          "slug": {
+                            "en": "authorizing-mercado-livre-integration-in-vtex-panel",
+                            "es": "autorizar-la-integracion-de-mercado-libre-en-el-panel-de-vtex",
+                            "pt": "autorizar-integracao-do-mercado-livre-no-painel-da-vtex"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Setting up the logistics for Mercado Livre",
+                            "es": "Configurar logística para Mercado Libre",
+                            "pt": "Configurar logística para o Mercado Livre"
+                          },
+                          "slug": {
+                            "en": "setting-up-the-logistics-for-mercado-livre",
+                            "es": "configurar-la-logistica-para-mercado-libre",
+                            "pt": "configurar-logistica-para-o-mercado-livre"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Mapping product categories and attributes to Mercado Libre",
+                            "es": "Mapear categorías y atributos de los productos para Mercado Libre",
+                            "pt": "Mapear categorias e atributos dos produtos para o Mercado Livre"
+                          },
+                          "slug": {
+                            "en": "mapping-product-categories-and-attributes-to-mercado-libre",
+                            "es": "mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper",
+                            "pt": "mapear-categorias-e-atributos-dos-produtos-para-o-mercado-livre-mapper"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Match Offers Mercado Livre",
+                            "es": "Publicación de productos Mercado Libre",
+                            "pt": "Publicação de produtos Mercado Livre"
+                          },
+                          "slug": {
+                            "en": "match-offers-mercado-livre",
+                            "es": "match-de-anuncios-de-mercado-libre",
+                            "pt": "match-de-anuncios-mercado-livre"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Migrating ads in Mercado Livre",
+                            "es": "Migrar anuncios en Mercado Libre",
+                            "pt": "Migrar anúncios no Mercado Livre"
+                          },
+                          "slug": {
+                            "en": "migrating-ads-in-mercado-livre",
+                            "es": "migrar-anuncios-en-mercado-libre",
+                            "pt": "migrar-anuncios-no-mercado-livre"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": {
+                        "en": "Publish and manage products and offers",
+                        "es": "Envíe y gestione productos y anuncios",
+                        "pt": "Envie e gerencie produtos e anúncios"
+                      },
+                      "slug": {
+                        "en": "publish-and-manage-products-and-offers-mercado-libre",
+                        "es": "envie-y-gestione-productos-y-anuncios-mercado-libre",
+                        "pt": "envie-e-gerencie-produtos-e-anuncios-mercado-livre"
+                      },
+                      "origin": "",
+                      "type": "category",
+                      "children": [
+                        {
+                          "name": {
+                            "en": "Custom product fields for Mercado Libre",
+                            "es": "Campos de producto personalizables para Mercado Libre",
+                            "pt": "Campos customizáveis de produto para Mercado Livre"
+                          },
+                          "slug": {
+                            "en": "custom-product-fields",
+                            "es": "campos-de-producto-personalizables",
+                            "pt": "campos-customizaveis-de-produto"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Offer Management: moderation and quality of Mercado Libre",
+                            "es": "Gestión de anuncios: moderación y calidad de los anuncios en Mercado Libre",
+                            "pt": "Gerenciamento de Anúncios: moderação e qualidade dos anúncios do Mercado Livre"
+                          },
+                          "slug": {
+                            "en": "offer-management-moderation-and-quality-of-mercado-libre",
+                            "es": "gestion-de-anuncios-moderacion-y-calidad-de-los-anuncios-en-mercado-libre",
+                            "pt": "gerenciamento-de-anuncios-moderacao-e-qualidade-dos-anuncios-do-mercado"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Mercado Libre Kit",
+                            "es": "Mercado Libre Kit",
+                            "pt": "Mercado Livre Kit"
+                          },
+                          "slug": {
+                            "en": "mercado-libre-kit",
+                            "es": "mercado-libre-kit",
+                            "pt": "mercado-livre-kit"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Mercado Livre: automobilist compatibility",
+                            "es": "Mercado Libre: compatibilidad de autopartes",
+                            "pt": "Mercado Livre: Compatibilidade automobilística"
+                          },
+                          "slug": {
+                            "en": "mercado-livre-automobilist-compatibility",
+                            "es": "mercado-libre-compatibilidad-de-autopartes",
+                            "pt": "mercado-livre-compatibilidade-automobilistica"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Refurbished products on Mercado Libre",
+                            "es": "Productos reacondicionados en Mercado Libre",
+                            "pt": "Produtos recondicionados no Mercado Livre"
+                          },
+                          "slug": {
+                            "en": "refurbished-products-on-mercado-libre",
+                            "es": "productos-reacondicionados-en-mercado-libre",
+                            "pt": "produto-recondicionado-mercado-livre"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Mercado Libre size chart",
+                            "es": "Tabla de tallas de Mercado Libre",
+                            "pt": "Tabela de medidas do Mercado Livre"
+                          },
+                          "slug": {
+                            "en": "mercado-libre-size-chart",
+                            "es": "tabla-de-tallas-de-mercado-libre",
+                            "pt": "tabela-de-medidas-do-mercado-livre"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": {
+                        "en": "Inventory, pricing, and shipping",
+                        "es": "Stock, precio y envío",
+                        "pt": "Estoque, preço e frete"
+                      },
+                      "slug": {
+                        "en": "inventory-pricing-and-shipping-mercado-libre",
+                        "es": "stock-precio-y-envio-mercado-libre",
+                        "pt": "estoque-preco-e-frete-mercado-livre"
+                      },
+                      "origin": "",
+                      "type": "category",
+                      "children": [
+                        {
+                          "name": {
+                            "en": "Mercado Libre Promotions Center",
+                            "es": "Central de promociones Mercado Libre",
+                            "pt": "Central de Promoções Mercado Livre"
+                          },
+                          "slug": {
+                            "en": "mercado-libre-promotions-center",
+                            "es": "central-de-promociones-mercado-libre",
+                            "pt": "central-de-promocoes-mercado-livre"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Mercado Libre Envios",
+                            "es": "Envíos de Mercado Libre",
+                            "pt": "Mercado Livre Envios"
+                          },
+                          "slug": {
+                            "en": "mercado-libre-envios",
+                            "es": "envios-de-mercado-libre",
+                            "pt": "mercado-livre-envios"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Mercado Libre Holidays",
+                            "es": "Mercado Libre Feriados",
+                            "pt": "Mercado Livre Feriados"
+                          },
+                          "slug": {
+                            "en": "mercado-libre-holidays",
+                            "es": "mercado-libre-feriados",
+                            "pt": "mercado-livre-feriados"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Mercado Libre Smart Pricing",
+                            "es": "Precios inteligentes de Mercado Libre",
+                            "pt": "Precificação inteligente do Mercado Livre"
+                          },
+                          "slug": {
+                            "en": "smart-pricing-mercado-libre",
+                            "es": "precios-inteligentes-mercado-libre",
+                            "pt": "precificacao-inteligente-mercado-livre"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Selecting inventory for Mercado Envíos Full orders",
+                            "es": "Seleccionando stock para pedidos de Mercado Envíos Full",
+                            "pt": "Selecionando estoque para pedidos do Mercado Envios Full"
+                          },
+                          "slug": {
+                            "en": "selecting-stock-for-orders-mercado-envios-full",
+                            "es": "seleccion-de-stock-para-pedidos-de-mercado-envios-full",
+                            "pt": "selecionando-estoque-para-pedidos-do-mercado-envios-full"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": {
+                        "en": "Orders and operations",
+                        "es": "Pedidos y operación",
+                        "pt": "Pedidos e operação"
+                      },
+                      "slug": {
+                        "en": "orders-and-operations-mercado-libre",
+                        "es": "pedidos-y-operacion-mercado-libre",
+                        "pt": "pedidos-e-operacao-mercado-livre"
+                      },
+                      "origin": "",
+                      "type": "category",
+                      "children": [
+                        {
+                          "name": {
+                            "en": "How does the cart with multiple items work in Mercado Livre?",
+                            "es": "¿Cómo funciona el carrito con múltiples artículos en Mercado Libre?",
+                            "pt": "Como funciona o carrinho com múltiplos itens no Mercado Livre?"
+                          },
+                          "slug": {
+                            "en": "how-does-the-cart-with-multiple-items-work-in-mercado-livre",
+                            "es": "como-funciona-el-carrito-con-multiples-articulos-en-mercado-libre",
+                            "pt": "como-funciona-o-carrinho-com-multiplos-itens-no-mercado-livre"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Mercado Libre invoices",
+                            "es": "Facturas de Mercado Libre",
+                            "pt": "Notas fiscais do Mercado Livre"
+                          },
+                          "slug": {
+                            "en": "mercado-libre-invoices",
+                            "es": "facturas-de-mercado-libre",
+                            "pt": "notas-fiscais-do-mercado-livre"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": {
+                        "en": "Advanced features",
+                        "es": "Recursos avanzados",
+                        "pt": "Recursos avançados"
+                      },
+                      "slug": {
+                        "en": "advanced-features-mercado-libre",
+                        "es": "recursos-avanzados-mercado-libre",
+                        "pt": "recursos-avancados-mercado-livre"
+                      },
+                      "origin": "",
+                      "type": "category",
+                      "children": [
+                        {
+                          "name": {
+                            "en": "Warehouse assignment on Mercado Libre",
+                            "es": "Asignación de almacén en Mercado Libre",
+                            "pt": "Alocação de estoque no Mercado Livre"
+                          },
+                          "slug": {
+                            "en": "warehouse-assignment-on-mercado-libre",
+                            "es": "asignacion-de-almacen-en-mercado-libre",
+                            "pt": "alocacao-de-estoque-no-mercado-livre"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "How to configure a multi-brand store in the integration with Mercado Livre?",
+                            "es": "¿Cómo configurar la tienda paraguas en la integración con Mercado Libre?",
+                            "pt": "Como configurar loja guarda-chuva na integração com o Mercado Livre?"
+                          },
+                          "slug": {
+                            "en": "how-to-configure-a-top-level-store-in-the-integration-with-mercado-livre",
+                            "es": "como-configurar-la-tienda-paraguas-en-la-integracion-con-el-mercado-libre",
+                            "pt": "como-configurar-loja-guarda-chuva-na-integracao-com-o-mercado-livre"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "How to set up multiple accounts in the Mercado Livre Integration?",
+                            "es": "¿Cómo configurar múltiples cuentas en la integración con Mercado Libre?",
+                            "pt": "Como configurar múltiplas contas na integração com o Mercado Livre?"
+                          },
+                          "slug": {
+                            "en": "how-to-set-up-multiple-accounts-in-the-mercado-livre-integration",
+                            "es": "como-configurar-multiples-cuentas-en-la-integracion-con-el-mercado-libre",
+                            "pt": "como-configurar-multiplas-contas-na-integracao-com-o-mercado-livre"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Configuring Warehouse assignment",
+                            "es": "Configurar Asignación de almacén",
+                            "pt": "Configurar Alocação de estoque"
+                          },
+                          "slug": {
+                            "en": "configuring-warehouse-assignment",
+                            "es": "configurar-asignacion-de-almacen",
+                            "pt": "configurar-alocacao-de-estoque"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Configuration errors in Mercado Libre accounts with multiple official stores",
+                            "es": "Error de configuración en cuentas de Mercado Libre con múltiples tiendas oficiales",
+                            "pt": "Erro de configuração de lojas guarda chuva"
+                          },
+                          "slug": {
+                            "en": "configuration-errors-in-mercado-libre-accounts-with-multiple-official-stores",
+                            "es": "error-de-configuracion-en-cuentas-de-mercado-libre-con-multiples-tiendas",
+                            "pt": "erro-de-configuracao-de-lojas-guarda-chuva"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": {
+                        "en": "Troubleshooting and support",
+                        "es": "Problemas y soporte",
+                        "pt": "Problemas e suporte"
+                      },
+                      "slug": {
+                        "en": "troubleshooting-and-support-mercado-libre",
+                        "es": "problemas-y-soporte-mercado-libre",
+                        "pt": "problemas-e-suporte-mercado-livre"
+                      },
+                      "origin": "",
+                      "type": "category",
+                      "children": [
+                        {
+                          "name": {
+                            "en": "Mercado Libre: FAQ",
+                            "es": "Mercado Libre: FAQ",
+                            "pt": "Mercado Livre: FAQ"
+                          },
+                          "slug": {
+                            "en": "mercado-livre-faq",
+                            "es": "mercado-libre-faq",
+                            "pt": "mercado-livre-faq"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Why has my product been wrongly categorized on Mercado Livre?",
+                            "es": "¿Por qué mi producto fue categorizado equivocadamente en Mercado Livre?",
+                            "pt": "Por que meu produto foi categorizado errado no Mercado Livre?"
+                          },
+                          "slug": {
+                            "en": "why-has-my-product-been-wrongly-categorized-on-mercado-livre",
+                            "es": "por-que-mi-producto-fue-categorizado-equivocadamente-en-mercado-livre",
+                            "pt": "por-que-meu-produto-foi-categorizado-errado-no-mercado-livre"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Why are my orders not integrating with Mercado Livre?",
+                            "es": "¿Por qué mis pedidos no integran con el Mercado Libre?",
+                            "pt": "Por que meus pedidos não integram com o Mercado Livre?"
+                          },
+                          "slug": {
+                            "en": "why-are-my-orders-not-integrating-with-mercado-livre",
+                            "es": "por-que-mis-pedidos-no-integran-con-el-mercado-libre",
+                            "pt": "por-que-meus-pedidos-nao-integram-com-o-mercado-livre"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Why does Mercado Livre return attribution errors after mapping?",
+                            "es": "¿Por qué el Mercado Livre retorna errores de atributo tras el mapeo?",
+                            "pt": "Por que o Mercado Livre retorna erros de atributo após o mapeamento?"
+                          },
+                          "slug": {
+                            "en": "why-does-mercado-livre-return-attribution-errors-after-mapping",
+                            "es": "por-que-el-mercado-livre-retorna-errores-de-atributo-tras-el-mapeo",
+                            "pt": "por-que-o-mercado-livre-retorna-erros-de-atributo-apos-o-mapeamento"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Suggestions",
                 "es": "Sugerencias",
                 "pt": "Sugestões"
@@ -31667,21 +32019,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Warehouse assignment on Mercado Libre",
-                    "es": "Asignación de almacén en Mercado Libre",
-                    "pt": "Alocação de estoque no Mercado Livre"
-                  },
-                  "slug": {
-                    "en": "warehouse-assignment-on-mercado-libre",
-                    "es": "asignacion-de-almacen-en-mercado-libre",
-                    "pt": "alocacao-de-estoque-no-mercado-livre"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Google integration warnings",
                     "es": "Avisos de integración de Google",
                     "pt": "Avisos de integração com o Google"
@@ -31690,36 +32027,6 @@
                     "en": "google-integration-warnings",
                     "es": "avisos-de-integracion-de-google",
                     "pt": "avisos-de-integracao-com-o-google"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Custom product fields for Mercado Libre",
-                    "es": "Campos de producto personalizables para Mercado Libre",
-                    "pt": "Campos customizáveis de produto para Mercado Livre"
-                  },
-                  "slug": {
-                    "en": "custom-product-fields",
-                    "es": "campos-de-producto-personalizables",
-                    "pt": "campos-customizaveis-de-produto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Mercado Libre Promotions Center",
-                    "es": "Central de promociones Mercado Libre",
-                    "pt": "Central de Promoções Mercado Livre"
-                  },
-                  "slug": {
-                    "en": "mercado-libre-promotions-center",
-                    "es": "central-de-promociones-mercado-libre",
-                    "pt": "central-de-promocoes-mercado-livre"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -31772,36 +32079,6 @@
                 },
                 {
                   "name": {
-                    "en": "How Mercado Livre integration works",
-                    "es": "Cómo funciona la integración del Mercado Libre",
-                    "pt": "Como funciona a integração do Mercado Livre"
-                  },
-                  "slug": {
-                    "en": "how-mercado-livre-integration-works",
-                    "es": "como-funciona-la-integracion-del-mercado-libre",
-                    "pt": "como-funciona-a-integracao-do-mercado-livre"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring Warehouse assignment",
-                    "es": "Configurar Asignación de almacén",
-                    "pt": "Configurar Alocação de estoque"
-                  },
-                  "slug": {
-                    "en": "configuring-warehouse-assignment",
-                    "es": "configurar-asignacion-de-almacen",
-                    "pt": "configurar-alocacao-de-estoque"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Configuring physical stores integration with B2W",
                     "es": "Configurar la integración de tiendas físicas con B2W",
                     "pt": "Configurar integração de lojas físicas com a B2W"
@@ -31832,21 +32109,6 @@
                 },
                 {
                   "name": {
-                    "en": "Configuration errors in Mercado Libre accounts with multiple official stores",
-                    "es": "Error de configuración en cuentas de Mercado Libre con múltiples tiendas oficiales",
-                    "pt": "Erro de configuração de lojas guarda chuva"
-                  },
-                  "slug": {
-                    "en": "configuration-errors-in-mercado-libre-accounts-with-multiple-official-stores",
-                    "es": "error-de-configuracion-en-cuentas-de-mercado-libre-con-multiples-tiendas",
-                    "pt": "erro-de-configuracao-de-lojas-guarda-chuva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Marketplace strategies at VTEX",
                     "es": "Estrategias de marketplace en VTEX",
                     "pt": "Estratégias de marketplace na VTEX"
@@ -31870,21 +32132,6 @@
                     "en": "fulfillment-magalu",
                     "es": "fulfillment-magalu",
                     "pt": "fulfillment-magalu"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Offer Management: moderation and quality of Mercado Libre",
-                    "es": "Gestión de anuncios: moderación y calidad de los anuncios en Mercado Libre",
-                    "pt": "Gerenciamento de Anúncios: moderação e qualidade dos anúncios do Mercado Livre"
-                  },
-                  "slug": {
-                    "en": "offer-management-moderation-and-quality-of-mercado-libre",
-                    "es": "gestion-de-anuncios-moderacion-y-calidad-de-los-anuncios-en-mercado-libre",
-                    "pt": "gerenciamento-de-anuncios-moderacao-e-qualidade-dos-anuncios-do-mercado"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -32072,51 +32319,6 @@
                 },
                 {
                   "name": {
-                    "en": "Mercado Libre Envios",
-                    "es": "Envíos de Mercado Libre",
-                    "pt": "Mercado Livre Envios"
-                  },
-                  "slug": {
-                    "en": "mercado-libre-envios",
-                    "es": "envios-de-mercado-libre",
-                    "pt": "mercado-livre-envios"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Mercado Libre Holidays",
-                    "es": "Mercado Libre Feriados",
-                    "pt": "Mercado Livre Feriados"
-                  },
-                  "slug": {
-                    "en": "mercado-libre-holidays",
-                    "es": "mercado-libre-feriados",
-                    "pt": "mercado-livre-feriados"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Mercado Libre Kit",
-                    "es": "Mercado Libre Kit",
-                    "pt": "Mercado Livre Kit"
-                  },
-                  "slug": {
-                    "en": "mercado-libre-kit",
-                    "es": "mercado-libre-kit",
-                    "pt": "mercado-livre-kit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Direct Migration Magazine Luiza",
                     "es": "Migración Directa Magazine Luiza",
                     "pt": "Migração Direta Magazine Luiza"
@@ -32125,21 +32327,6 @@
                     "en": "direct-migration-magazine-luiza",
                     "es": "migracion-directa-magazine-luiza",
                     "pt": "migracao-direta-magazine-luiza"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Migrating ads in Mercado Livre",
-                    "es": "Migrar anuncios en Mercado Libre",
-                    "pt": "Migrar anúncios no Mercado Livre"
-                  },
-                  "slug": {
-                    "en": "migrating-ads-in-mercado-livre",
-                    "es": "migrar-anuncios-en-mercado-libre",
-                    "pt": "migrar-anuncios-no-mercado-livre"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -32162,36 +32349,6 @@
                 },
                 {
                   "name": {
-                    "en": "Mercado Libre invoices",
-                    "es": "Facturas de Mercado Libre",
-                    "pt": "Notas fiscais do Mercado Livre"
-                  },
-                  "slug": {
-                    "en": "mercado-libre-invoices",
-                    "es": "facturas-de-mercado-libre",
-                    "pt": "notas-fiscais-do-mercado-livre"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Mercado Libre Smart Pricing",
-                    "es": "Precios inteligentes de Mercado Libre",
-                    "pt": "Precificação inteligente do Mercado Livre"
-                  },
-                  "slug": {
-                    "en": "smart-pricing-mercado-libre",
-                    "es": "precios-inteligentes-mercado-libre",
-                    "pt": "precificacao-inteligente-mercado-livre"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Amazon Product Publishing",
                     "es": "Publicacíon de Productos Amazon",
                     "pt": "Publicação de produtos Amazon"
@@ -32200,21 +32357,6 @@
                     "en": "amazon-product-publishing",
                     "es": "publicacion-de-productos-amazon",
                     "pt": "publicacao-de-produtos-amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Refurbished products on Mercado Libre",
-                    "es": "Productos reacondicionados en Mercado Libre",
-                    "pt": "Refurbished products on Mercado Libre"
-                  },
-                  "slug": {
-                    "en": "refurbished-products-on-mercado-libre",
-                    "es": "productos-reacondicionados-en-mercado-libre",
-                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -32249,21 +32391,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "Mercado Libre size chart",
-                    "es": "Tabla de tallas de Mercado Libre",
-                    "pt": "Tabela de medidas do Mercado Livre"
-                  },
-                  "slug": {
-                    "en": "mercado-libre-size-chart",
-                    "es": "tabla-de-tallas-de-mercado-libre",
-                    "pt": "tabela-de-medidas-do-mercado-livre"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -32291,21 +32418,6 @@
                     "en": "what-is-a-marketplace",
                     "es": "que-es-un-marketplace",
                     "pt": "o-que-e-um-marketplace"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How does the cart with multiple items work in Mercado Livre?",
-                    "es": "¿Cómo funciona el carrito con múltiples artículos en Mercado Libre?",
-                    "pt": "Como funciona o carrinho com múltiplos itens no Mercado Livre?"
-                  },
-                  "slug": {
-                    "en": "how-does-the-cart-with-multiple-items-work-in-mercado-livre",
-                    "es": "como-funciona-el-carrito-con-multiples-articulos-en-mercado-libre",
-                    "pt": "como-funciona-o-carrinho-com-multiplos-itens-no-mercado-livre"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -32396,21 +32508,6 @@
                     "en": "kabum-integration",
                     "es": "integracion-de-kabum",
                     "pt": "integracao-com-o-kabum"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Mercado Libre: FAQ",
-                    "es": "Mercado Libre: FAQ",
-                    "pt": "Mercado Livre: FAQ"
-                  },
-                  "slug": {
-                    "en": "mercado-livre-faq",
-                    "es": "mercado-libre-faq",
-                    "pt": "mercado-livre-faq"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -32521,21 +32618,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "Selecting inventory for Mercado Envíos Full orders",
-                    "es": "Seleccionando stock para pedidos de Mercado Envíos Full",
-                    "pt": "Selecionando estoque para pedidos do Mercado Envios Full"
-                  },
-                  "slug": {
-                    "en": "selecting-stock-for-orders-mercado-envios-full",
-                    "es": "seleccion-de-stock-para-pedidos-de-mercado-envios-full",
-                    "pt": "selecionando-estoque-para-pedidos-do-mercado-envios-full"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -32563,21 +32645,6 @@
                     "en": "offer-quality-filters",
                     "es": "calidad-de-anuncios",
                     "pt": "filtros-de-qualidade-dos-anuncios"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Mercado Livre: automobilist compatibility",
-                    "es": "Mercado Libre: compatibilidad de autopartes",
-                    "pt": "Mercado Livre: Compatibilidade automobilística"
-                  },
-                  "slug": {
-                    "en": "mercado-livre-automobilist-compatibility",
-                    "es": "mercado-libre-compatibilidad-de-autopartes",
-                    "pt": "mercado-livre-compatibilidade-automobilistica"
                   },
                   "origin": "",
                   "type": "markdown",

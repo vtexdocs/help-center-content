@@ -36,7 +36,7 @@ Solo el usuario titular puede realizar estas acciones críticas de mantenimiento
 * Autenticar la cuenta en nuestros conectores nativos, como:
     * [Facebook](/es/docs/tracks/configuracion-del-conector-facebook)
     * [Google Shopping](/es/docs/tracks/autenticar-la-cuenta-google-shopping)
-    * [Mercado Libre](/es/docs/tracks/autorizar-la-integracion-de-mercado-libre-en-el-panel-de-vtex)
+    * [Mercado Libre](/es/docs/tutorials/autorizar-la-integracion-de-mercado-libre-en-el-panel-de-vtex)
 * [Aprobar solicitudes de cancelación de pedidos](/es/docs/tutorials/cancelacion-de-pedido-solicitada-por-el-cliente)
 
 Además, cuando VTEX necesita comunicar información importante sobre la tienda, como cambios de roles, dicha comunicación se lleva a cabo directa y exclusivamente con el usuario titular.

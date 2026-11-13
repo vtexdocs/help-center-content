@@ -21,7 +21,7 @@ tags:
 
 O novo modelo de anúncios do **Mercado Livre** oferece aos sellers a possibilidade de configurar diferentes condições de venda para cada SKU de um produto. O seller pode personalizar o preço para cada variação.  
 
-A [integração com o Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) está disponível para os seguintes países: Argentina, Brasil, Chile, Colômbia, Equador, México, Peru, Uruguai e Venezuela.  
+A [integração com o Mercado Livre](/pt/docs/tutorials/mercado-livre) está disponível para os seguintes países: Argentina, Brasil, Chile, Colômbia, Equador, México, Peru, Uruguai e Venezuela.  
 
 ## O que mudou?
 
