@@ -62,7 +62,7 @@ As seções abaixo descrevem como referenciar os tipos de variáveis do VTEX CX 
 
 Dentro do fluxo, você pode salvar esse valor em um campo de contato com o cartão **Atualizar Contato**.
 
-Para saber como configurar a variável e como o agente a preenche, consulte [Disparo Ativo no WhatsApp](https://help.vtex.com/pt/docs/tutorials/disparo-ativo-no-whatsapp) e [Utilizando o disparo ativo de fluxos](https://help.vtex.com/pt/docs/tutorials/utilizando-disparo-ativo-de-fluxos).
+Para saber como configurar a variável e como o agente a preenche, consulte [Disparo ativo no WhatsApp](https://help.vtex.com/pt/docs/tutorials/disparo-ativo-no-whatsapp) e [Utilizando o disparo ativo de fluxos](https://help.vtex.com/pt/docs/tutorials/utilizando-disparo-ativo-de-fluxos).
 
 ## Variáveis globais
 
