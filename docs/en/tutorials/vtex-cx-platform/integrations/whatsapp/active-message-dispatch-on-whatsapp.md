@@ -3,7 +3,7 @@ title: "Active message dispatch on WhatsApp"
 id: 20E0eUtogj84N0vf6nZeia
 status: PUBLISHED
 createdAt: 2025-09-15T15:27:41.354Z
-updatedAt: 2026-11-12T12:00:00.000Z
+updatedAt: 2026-11-13T14:20:00.000Z
 publishedAt: 2025-10-03T14:20:32.448Z
 firstPublishedAt: 2025-10-03T14:20:32.448Z
 contentType: tutorial
@@ -41,11 +41,11 @@ If the flow includes more than one template with variables, use `@trigger.params
 
 For how the agent completes these values before sending, see [Using active triggering of flows](https://help.vtex.com/en/docs/tutorials/using-active-triggering-of-flows).
 
-This process is always carried out for the first message and is exclusive to the WhatsApp channel. After the Template Message is delivered, if the user responds, the company can follow the message flow freely with the other action cards. The entire flow can be planned normally after the first Template Message card. For the user to be able to respond, it is necessary to add a "Wait for Response" card, thus creating a continuous service experience.
+This step applies to the first message and only to the WhatsApp channel. After the template message is delivered, if the contact responds, continue the flow with the other action cards. You can add the rest of the flow after the first template message card. To let the contact respond, add a `Wait for Response` card.
 
 After selecting the message, click the `Trigger Flow` button located in the upper right corner of the screen and send it to a specific contact or a group of contacts.
 
-Finally, to check whether everything went correctly, access the "Studio" module, and in the "Flow" tab, you can track the sending history, gaining access to important information such as errors, initiated flows, and much more. This management is essential, especially for implementing improvements to your chatbot.
+To check the result, go to **Studio** and open the **Flow** tab. The sending history lists errors and initiated flows.
 
 ## Send from the studio module
 

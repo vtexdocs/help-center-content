@@ -3,7 +3,7 @@ title: "Envío activo de mensajes en WhatsApp"
 id: 20E0eUtogj84N0vf6nZeia
 status: PUBLISHED
 createdAt: 2025-09-15T15:27:41.354Z
-updatedAt: 2026-11-12T12:00:00.000Z
+updatedAt: 2026-11-13T14:40:00.000Z
 publishedAt: 2025-10-03T14:20:32.448Z
 firstPublishedAt: 2025-10-03T14:20:32.448Z
 contentType: tutorial
@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Antes que nada, es importante entender la diferencia entre _envío activo_ y _pasivo_.
+El envío activo y el envío pasivo difieren en quién inicia la conversación.
 
 El **envío pasivo** ocurre cuando el usuario final se pone en contacto con la empresa de forma voluntaria. En ese momento, se inicia un flujo de conversación a partir del primer mensaje enviado por el usuario a la empresa.
 
@@ -29,7 +29,7 @@ El **segundo paso** es agregar la tarjeta "Enviar mensaje", en la casilla de tex
 
 La expresión anterior indica que se enviará un Template Message (modelo de mensaje) y que este campo no será tomado en cuenta, ya que el modelo de mensaje a enviar a los clientes puede seleccionarse en la pestaña "WhatsApp", ubicada en la misma tarjeta de "Enviar Mensaje". Al hacer clic en la pestaña "WhatsApp", es posible acceder a los mensajes que han sido preaprobados y seleccionarlos para su envío.
 
-En este momento, también es posible añadir variables que harán el mensaje más personalizado, como, por ejemplo, la variable @contact.name, que llama al usuario por el nombre registrado en su propio WhatsApp.
+También puedes añadir variables en el modelo. `@contact.name` inserta el nombre del contacto registrado en WhatsApp.
 
 ### Variables que el agente completa en Live Desk
 
@@ -41,11 +41,11 @@ Si el flujo incluye más de una plantilla con variables, usa `@trigger.params.va
 
 Para saber cómo el agente completa estos valores antes del envío, consulta [Disparo activo de flujos](https://help.vtex.com/es/docs/tutorials/utilizando-el-disparo-activo-de-flujos).
 
-Este proceso siempre se realiza para el primer mensaje y es exclusivo para el canal de WhatsApp. Después de la entrega del Template Message, si el usuario responde, la empresa puede continuar el flujo de mensajes libremente con las demás tarjetas de acción. Toda la construcción del flujo puede planificarse normalmente después de la primera tarjeta de Template Message. Para que el usuario pueda responder, es necesario agregar una tarjeta "Esperar Respuesta", creando así una experiencia de atención continua.
+Este proceso siempre se realiza para el primer mensaje y es exclusivo para el canal de WhatsApp. Después de la entrega del Template Message, si el usuario responde, la empresa puede continuar el flujo con las demás tarjetas de acción. Para que el usuario pueda responder, agrega una tarjeta de esperar respuesta.
 
 Después de seleccionar el mensaje, haz clic en el botón "Enviar Flujo", ubicado en la esquina superior derecha de la pantalla, y realizar el envío a un contacto específico o a un grupo de contactos.
 
-Finalmente, para verificar si todo ocurrió correctamente, accede al módulo "Estudio" y, en la pestaña "Flujo", es posible seguir el historial de envíos, obteniendo información importante como errores, flujos iniciados y mucho más. Esta gestión es esencial, especialmente para implementar mejoras en tu chatbot.
+Para comprobar el envío, ve a **Estudio** y abre la pestaña **Flujo**. El historial muestra los errores y los flujos iniciados.
 
 ## Enviar desde el módulo de estudio
 

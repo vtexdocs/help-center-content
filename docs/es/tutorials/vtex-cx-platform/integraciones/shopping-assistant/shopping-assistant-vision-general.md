@@ -1,7 +1,7 @@
 ---
 title: 'Shopping Assistant'
 createdAt: 2026-11-12T18:32:00.000Z
-updatedAt: 2026-11-12T22:40:00.000Z
+updatedAt: 2026-11-13T14:40:00.000Z
 contentType: tutorial
 productTeam: VTEX CX Platform
 slugEN: shopping-assistant-overview
@@ -12,7 +12,7 @@ seeAlso:
   - /es/docs/tutorials/shopping-assistant-preguntas-sugeridas
 ---
 
-**Shopping Assistant** es el canal de chat web de VTEX CX Platform que permite atender a los visitantes de la tienda con un agente de inteligencia artificial (IA). Lleva la experiencia de comercio conversacional al sitio web para ayudar a los clientes a resolver dudas y encontrar productos durante la compra.
+**Shopping Assistant** es el canal de chat web de VTEX CX Platform que permite atender a los visitantes de la tienda con un agente de inteligencia artificial (IA). Los clientes pueden resolver dudas y encontrar productos sin salir del sitio web.
 
 El chat se muestra en un widget personalizable que se instala en el sitio web mediante un script generado por VTEX CX Platform.
 

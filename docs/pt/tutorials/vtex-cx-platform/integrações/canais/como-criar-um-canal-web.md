@@ -3,7 +3,7 @@ title: 'Criar um canal web'
 id: 1E5AfNZbC5NzbUokYCICW4
 status: PUBLISHED
 createdAt: 2025-09-15T14:56:55.893Z
-updatedAt: 2026-11-12T12:00:00.000Z
+updatedAt: 2026-11-13T14:30:00.000Z
 publishedAt: 2025-10-03T14:20:32.773Z
 firstPublishedAt: 2025-10-03T14:20:32.773Z
 contentType: tutorial
@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Ao integrar o canal, você consegue customizar aspectos do Web Chat como: cor, tempo de espaçamento entre mensagens, indicadores de mensagem, avatar e muito mais! Assim, garantindo tudo que o VTEX CX Platform tem a oferecer com a cara da sua marca. Logo abaixo iremos te mostrar o passo a passo para realizar a integração.
+O canal web adiciona o VTEX CX Platform Web Chat ao seu site. No painel de customização, você define o título do chat, as mensagens, o histórico de mensagens, o tempo entre as mensagens, o indicador de mensagens não lidas, o botão de tela cheia, o avatar, a cor e o CSS.
 
 ## Criar um canal web
 

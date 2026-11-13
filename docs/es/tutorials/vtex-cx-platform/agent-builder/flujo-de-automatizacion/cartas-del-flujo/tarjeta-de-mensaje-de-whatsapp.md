@@ -3,7 +3,7 @@ title: "Tarjeta de mensaje de WhatsApp"
 id: 4IsU6gP2dUx1F1A5AMKN4D
 status: PUBLISHED
 createdAt: 2025-09-17T14:17:04.971Z
-updatedAt: 2026-11-12T12:20:00.000Z
+updatedAt: 2026-11-13T13:47:00.000Z
 publishedAt: 2025-10-03T14:20:03.619Z
 firstPublishedAt: 2025-10-03T14:20:03.619Z
 contentType: tutorial
@@ -13,59 +13,76 @@ slugEN: whatsapp-message-card
 legacySlug: tarjeta-de-mensaje-de-whatsapp
 locale: es
 subcategoryId: hXGU8pFfABVFIg724zWBN
+seeAlso:
+  - /es/docs/tutorials/cartas-de-accion
 ---
 
-La tarjeta de mensaje de WhatsApp utiliza recursos ofrecidos por Meta para cambiar el formato de las interacciones con los clientes. Puedes importar archivos, solicitar ubicación y usar respuestas rápidas o menús interactivos con botones descriptivos.
+La tarjeta de mensaje de WhatsApp te permite crear interacciones específicas de WhatsApp en un [flujo de automatización](/es/docs/tutorials/introduccion-a-los-flujos). Úsala cuando el flujo necesite enviar un mensaje y ofrecer al contacto una forma estructurada de responder o continuar la conversación. Puedes enviar un mensaje simple o configurar un mensaje interactivo con respuestas rápidas, una lista de opciones, una solicitud de ubicación o un botón de URL.
+
+## Antes de comenzar
+
+Antes de añadir la tarjeta, ten en cuenta los siguientes requisitos:
+
+- El contacto debe tener una URN de WhatsApp. La URN identifica al contacto en un canal de comunicación.
+- En las conversaciones iniciadas por tu empresa, esta tarjeta no sustituye un mensaje de plantilla aprobado por Meta. Para más información, consulta [Mensajes de plantilla de WhatsApp: Obstáculos y configuraciones](/es/docs/tutorials/mensajes-de-plantilla-de-whatsapp-obstaculos-y-configuraciones).
 
 ## Añadir la tarjeta al flujo
 
-Para añadir la tarjeta al flujo, sigue los pasos de abajo:
+Para añadir la tarjeta al flujo, sigue estos pasos:
 
-1. En tu flujo, añade la tarjeta **Mensaje de WhatsApp**.
+1. En el proyecto, ve a **Agent Builder > Flujo de automatización**.
+2. Abre un flujo existente o crea uno nuevo.
+3. Haz clic en `Crear Bloque`.
+4. Selecciona **Mensaje de WhatsApp**.
 
-La opción de mensaje simple mantiene todas las funcionalidades de la tarjeta **Enviar mensaje** , permitiendo la carga de medios, la formateación de texto y la inserción de emojis.
+En los mensajes simples, puedes subir archivos multimedia, aplicar formato al texto e insertar emojis. Para consultar las instrucciones y los límites de carga, consulta [Agregar mídias a su mensaje](/es/docs/tutorials/agregar-midias-a-su-mensaje). Para añadir un mensaje interactivo, configura una de las opciones descritas en las siguientes secciones.
 
-## Mensaje interactivo
+## Configurar un mensaje interactivo
 
-El mensaje interactivo ofrece **respuestas rápidas, lista de opciones, solicitud de ubicación y botón de URL**.
+Los mensajes interactivos admiten respuestas rápidas, listas de opciones, solicitudes de ubicación y botones de URL.
 
-## Respuestas rápidas
+### Añadir respuestas rápidas
 
-1. En el encabezado, elige enviar un medio o un texto.
+Las respuestas rápidas permiten que los contactos seleccionen una de hasta 3 respuestas predefinidas. Cada respuesta debe ser diferente de las demás y puede contener hasta 20 caracteres.
 
-- Si seleccionas la opción de texto para el encabezado, escribe en el campo correspondiente.
-- Si seleccionas la opción de medio para el encabezado, utiliza tu medio subiéndolo desde tu dispositivo o pegando la URL. Tu medio puede ser una imagen, video, archivo en PDF o audio.
+Para configurar respuestas rápidas, sigue estos pasos:
 
-1. Rellena los campos con **mensajes predefinidos**. En esta etapa, también puedes **agregar un mensaje en el pie de página**.
+1. En **Encabezado**, selecciona **Texto** o **Medio**.
+2. Configura el encabezado según la opción seleccionada:
+    - Para **Texto**, introduce el texto del encabezado.
+    - Para **Medio**, sube un archivo desde tu dispositivo o introduce la URL. El encabezado admite imágenes, videos, archivos PDF y audios.
+3. Introduce las respuestas rápidas.
+4. (Opcional) Introduce un mensaje en el pie de página.
+5. Haz clic en `Confirmar`.
 
-Cada campo de respuestas rápidas tiene un límite de 20 caracteres, y puedes incluir hasta 3 opciones de texto, de acuerdo con las reglas establecidas por Meta. Además, las opciones de mensajes rápidos deben ser diferentes entre sí.
+### Añadir una lista de opciones
 
-1. Después de completar los campos, haz clic en el botón Confirmar. A continuación, mira un ejemplo de cómo se mostrará el mensaje en WhatsApp:
+Una lista puede contener hasta 10 opciones. Cada opción tiene un título y puede incluir una descripción. A diferencia de las respuestas rápidas, la lista de opciones no admite archivos multimedia en el encabezado.
 
-## Lista de opciones
+Para configurar una lista de opciones, sigue estos pasos:
 
-En Interacciones, selecciona la opción Lista de Opciones. Aquí puedes configurar hasta 10 botones con descripción. Rellena los campos de encabezado, cuerpo y pie de página.
+1. En **Interacciones**, selecciona **Lista de Opciones**.
+2. Completa los campos **Encabezado**, **Cuerpo** y **Pie de página**.
+3. Añade las opciones y completa los siguientes campos para cada una:
+    - **Título:** Introduce un nombre corto que identifique la opción.
+    - **Descripción (opcional):** Introduce detalles que ayuden al contacto a entender la opción.
+4. (Opcional) En **Botón de acción**, introduce el texto que aparece en el botón que abre la lista.
+5. Haz clic en `Confirmar`.
 
-La diferencia entre las Respuestas Rápidas y la Lista de Opciones es que esta última ofrece más variedad. Además, puedes definir un título y subtítulo para la lista, otra diferencia es que para la Lista de Opciones no se admite el envío de medios en el encabezado.
+### Solicitar la ubicación del contacto
 
-1. Después de eso, agrega opciones y completa los campos de título y descripción (opcional) para cada opción agregada.
-2. Título: Nombre de la opción, claro y conciso, reflejando su contenido o finalidad.
-3. Descripción (opcional): Detalles adicionales sobre la opción, informativos y relevantes, para ayudar a los usuarios a comprenderla mejor.
+Para solicitar la ubicación del contacto, sigue estos pasos:
 
-Rellena el **Botón de acción (opcional)** con el texto que aparece en el mensaje. Al hacer clic en ese botón, el contacto abre la lista de opciones.
+1. En **Interacciones**, selecciona **Solicitar ubicación**.
+2. En el campo de mensaje, introduce el texto que recibirá el contacto con la solicitud.
 
-Después de terminar esta etapa, haz clic en Confirmar. Mira un ejemplo de cómo se mostrará el mensaje en WhatsApp:
+### Añadir un botón de URL
 
-## Solicitar ubicación
+Un botón de URL dirige al contacto a un enlace. El mensaje también puede incluir texto personalizado en el encabezado y el pie de página.
 
-Aún en **Interacciones**, selecciona **Solicitar ubicación** y completa el campo de texto (mensaje).
+Para añadir un botón de URL, sigue estos pasos:
 
-Esta tarjeta no reemplaza el envío de la plantilla de mensaje.
-
-## Botón de URL
-
-Aún en **Interacciones**, puedes agregar un **Botón de URL**. Esto permite crear un botón que dirige a cualquier enlace de tu elección. Además, esta funcionalidad también ofrece la posibilidad de incluir encabezados y pies de página personalizados en texto.
-
-Es posible añadir una variable en tu URL si es necesario.
-
-Utiliza esta tarjeta **solo para URN en WhatsApp**.
+1. En **Interacciones**, añade un **Botón de URL**.
+2. Introduce la URL de destino.
+3. (Opcional) Añade una variable a la URL.
+4. (Opcional) Introduce texto para el encabezado y el pie de página.

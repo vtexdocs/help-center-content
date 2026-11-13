@@ -3,7 +3,7 @@ title: "Aprendizaje zero shot"
 id: 5Qk9g3o19n26jSz7cnbVL8
 status: PUBLISHED
 createdAt: 2025-09-16T16:48:11.308Z
-updatedAt: 2026-11-12T12:20:00.000Z
+updatedAt: 2026-11-13T14:40:00.000Z
 publishedAt: 2025-10-03T14:20:03.861Z
 firstPublishedAt: 2025-10-03T14:20:03.861Z
 contentType: tutorial
@@ -15,21 +15,9 @@ locale: es
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-Zero Shot es una técnica de procesamiento de lenguaje natural que permite a los **agentes inteligentes reconocer caracter ísticas que no han sido entrenadas previamente**. Zero Shot no necesita datos de entrenamiento, lo que permite acelerar el proceso de creación de IA y clasificar frases. Sus beneficios son: aumentar la adhesión de los clientes, mejorar la comprensión durante la conversación con el usuario final y facilitar la implementación de IA en nuevos proyectos.
+Zero Shot clasifica el mensaje de un contacto en categorías que defines con frases de comando. No requiere datos de entrenamiento.
 
-Algunas informaciones importantes sobre el modelo:
-
-- ZeroShot se muestra superior en la clasificación en portugués, español e inglés en comparación con los líderes actuales del mercado:
-
-| Zero Shot         | 78,4% Exactitud |
-| ----------------- | --------------- |
-| GPT-4-Turbo       | 76,8% Exactitud |
-| Claude 3 (Sonnet) | 77,6% Exactitud |
-
-- Al menos 3 veces más rápido en la clasificación (inferencia);
-- Modelo incluido en su plan VTEX CX Platform, sin necesidad de llamadas de API o costos adicionales.
-
-Vea el video explicativo: [video.](https://youtu.be/RDRgSXIJRrM)
+Mira el video explicativo: [Video](https://youtu.be/RDRgSXIJRrM)
 
 ## Aplicación y funcionalidades
 
