@@ -31622,6 +31622,36 @@
           "children": [
             {
               "name": {
+                "en": "VTEX Ads campaign and creative approval",
+                "es": "Aprobación de campañas y creativos en VTEX Ads",
+                "pt": "Aprovação de campanhas e criativos no VTEX Ads"
+              },
+              "slug": {
+                "en": "vtex-ads-campaign-and-creative-approval",
+                "es": "aprobacion-de-campanas-y-creativos-en-vtex-ads",
+                "pt": "aprovacao-de-campanhas-e-criativos-no-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "How to review and approve campaigns and creatives in VTEX Ads",
+                "es": "Cómo revisar y aprobar campañas y creativos en VTEX Ads",
+                "pt": "Como revisar e aprovar campanhas e criativos no VTEX Ads"
+              },
+              "slug": {
+                "en": "vtex-ads-review-and-approve-campaigns-and-creatives",
+                "es": "como-revisar-y-aprobar-campanas-y-creativos-en-vtex-ads",
+                "pt": "como-revisar-e-aprovar-campanhas-e-criativos-no-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "VTEX Ads metrics and attribution",
                 "es": "Métricas y atribución de VTEX Ads",
                 "pt": "Métricas e atribuição do VTEX Ads"
