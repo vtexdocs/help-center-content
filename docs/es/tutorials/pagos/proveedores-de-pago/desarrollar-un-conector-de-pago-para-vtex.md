@@ -1,7 +1,7 @@
 ---
 title: 'Desarrollar un conector de pago para VTEX'
 createdAt: 2025-05-28T10:29:13.599Z
-updatedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-11-12T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
 slugEN: developing-a-payment-connector-for-vtex
