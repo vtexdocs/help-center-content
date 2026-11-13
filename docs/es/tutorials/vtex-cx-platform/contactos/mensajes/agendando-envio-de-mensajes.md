@@ -19,7 +19,7 @@ Los mensajes programados te permiten enviar un mensaje a contactos o grupos en l
 
 Para programar un mensaje, sigue estos pasos:
 
-1. En tu proyecto, haz clic en **Estudio** en el menú lateral izquierdo y luego en **Mensajes**.
+1. En tu proyecto, haz clic en **Contactos** en el menú lateral izquierdo y luego en **Mensajes**.
 2. Haz clic en `Enviar Mensaje`.
 3. Selecciona uno o más contactos o grupos.
 4. Ingresa el mensaje que quieres enviar.

@@ -17,7 +17,7 @@ subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 
 Messages are all interactions that take place when you send or receive a message using your contacts or application. Similar to your email account, the platform allows you to view all messages, archive them, delete them, etc.
 
-To access this information, enter your project and click the "**Studio**" module in the left side menu.
+To access this information, enter your project and click the "**Contacts**" module in the left side menu.
 
 Then select the "**Messages**" option from the side menu. You will come across the following information:
 

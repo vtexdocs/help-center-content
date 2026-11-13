@@ -25,7 +25,7 @@ Para conocer los elementos disponibles en la página Contactos, consulta [Introd
 
 Para crear un grupo estático:
 
-1. En **Estudio**, accede a la página **Contactos**.
+1. En **Contactos**, accede a la página **Contactos**.
 2. En el menú lateral, haz clic en **Crear Grupo**.
 3. En la ventana que aparece, introduce un nombre para el grupo y confirma.
 

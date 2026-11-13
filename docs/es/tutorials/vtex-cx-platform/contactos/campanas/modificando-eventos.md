@@ -21,7 +21,7 @@ Los eventos de una campaña definen qué acción se ejecutará y cuándo ocurrir
 
 Para editar un evento:
 
-1. En **Estudio**, accede a **Campañas**.
+1. En **Contactos**, accede a **Campañas**.
 2. Selecciona la campaña que contiene el evento.
 3. En la lista de eventos de la campaña, haz clic en el evento que deseas editar.
 4. En la ventana que aparece, haz clic en **Editar**, en la esquina superior derecha.

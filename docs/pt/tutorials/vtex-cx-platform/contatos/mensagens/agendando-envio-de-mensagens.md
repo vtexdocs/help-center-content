@@ -19,7 +19,7 @@ As mensagens agendadas permitem enviar uma mensagem para contatos ou grupos na d
 
 Para agendar uma mensagem, siga estes passos:
 
-1. No seu projeto, clique em **Estúdio** no menu lateral esquerdo e depois em **Mensagens**.
+1. No seu projeto, clique em **Contatos** no menu lateral esquerdo e depois em **Mensagens**.
 2. Clique em `Enviar Mensagem`.
 3. Selecione um ou mais contatos ou grupos.
 4. Insira a mensagem que você quer enviar.

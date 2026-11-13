@@ -44,7 +44,7 @@ Access and resources are organized into two levels:
 After you open a project, use the main menu to access the following modules:
 
 - **Agent Builder:** Configure and test AI agents, add knowledge sources, define instructions, and create automation flows. See [Agent Builder](https://help.vtex.com/en/docs/tutorials/agent-builder-overview).
-- **Studio:** Manage contacts, messages, campaigns, and conversation triggers.
+- **Contacts:** Manage contacts, messages, campaigns, and conversation triggers.
 - **Live Desk:** Handle conversations that require human support and review support history. See [Live Desk](https://help.vtex.com/en/docs/tutorials/live-desk-overview).
 - **Analytics:** Monitor active support and analyze conversation, message delivery, team, and operational metrics. See [Analytics: Support metrics](https://help.vtex.com/en/docs/tutorials/analytics-support-metrics).
 - **Audit:** Review conversations handled by AI agents, investigate outcomes, and identify opportunities for improvement. See [Audit](https://help.vtex.com/en/docs/tutorials/audit-overview).

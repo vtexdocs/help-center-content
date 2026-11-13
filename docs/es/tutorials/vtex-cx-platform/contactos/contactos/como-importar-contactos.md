@@ -34,7 +34,7 @@ Los nombres de las columnas deben seguir el formato esperado por la plataforma:
 
 Para importar los contactos:
 
-1. En **Estudio**, accede a la página **Contactos**.
+1. En **Contactos**, accede a la página **Contactos**.
 2. En el menú lateral izquierdo, haz clic en **Importar contactos**.
 3. En la página de importación, selecciona la hoja de cálculo `.xls`.
 4. Haz clic en **Vista previa** y completa la importación.

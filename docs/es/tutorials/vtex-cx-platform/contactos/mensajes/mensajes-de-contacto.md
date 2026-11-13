@@ -17,7 +17,7 @@ subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 
 Los mensajes son todas las interacciones realizadas cuando envías o recibes un mensaje utilizando tus contactos o aplicación. Similar a tu cuenta de correo electrónico, la plataforma te permite visualizar todos los mensajes, archivarlos, eliminarlos, etc.
 
-- Para acceder a esta información, ingresa a tu proyecto y haz clic en el módulo "Estudio" en el menú lateral izquierdo
+- Para acceder a esta información, ingresa a tu proyecto y haz clic en el módulo "Contactos" en el menú lateral izquierdo
 
 - Inmediatamente después, selecciona la opción "Mensajes" en el menú lateral. Te encontrarás con la siguiente información
 

@@ -44,7 +44,7 @@ El acceso y los recursos se organizan en dos niveles:
 Después de abrir un proyecto, usa el menú principal para acceder a los siguientes módulos:
 
 - **Agent Builder:** Configura y prueba agentes de IA, agrega fuentes de conocimiento, define instrucciones y crea flujos de automatización. Consulta [Agent Builder](https://help.vtex.com/es/docs/tutorials/informacion-general-de-agent-builder).
-- **Studio:** Gestiona contactos, mensajes, campañas y disparadores de conversaciones.
+- **Contactos:** Gestiona contactos, mensajes, campañas y disparadores de conversaciones.
 - **Live Desk:** Atiende conversaciones que requieren soporte humano y consulta el historial de soporte. Consulta [Live Desk](https://help.vtex.com/es/docs/tutorials/informacion-general-de-live-desk).
 - **Analytics:** Monitorea el soporte activo y analiza métricas de conversaciones, entrega de mensajes, equipo y operación. Consulta [Analytics: Métricas de atención](https://help.vtex.com/es/docs/tutorials/analytics-metricas-de-atencion).
 - **Auditoría:** Revisa las conversaciones atendidas por agentes de IA, investiga resultados e identifica oportunidades de mejora. Consulta [Auditoría](https://help.vtex.com/es/docs/tutorials/auditoria-overview).

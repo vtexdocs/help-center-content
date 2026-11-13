@@ -42,7 +42,7 @@ Uma mensagem em massa em um canal do Facebook precisa de um tópico quando o con
 
 ### WhatsApp
 
-Uma mensagem em um canal do WhatsApp precisa de um template quando você não recebeu uma mensagem do contato nas últimas 24 horas. Defina um template para a primeira mensagem do fluxo. Para saber mais, consulte [Disparo Ativo no WhatsApp](https://help.vtex.com/pt/docs/tutorials/disparo-ativo-no-whatsapp).
+Uma mensagem em um canal do WhatsApp precisa de um template quando você não recebeu uma mensagem do contato nas últimas 24 horas. Defina um template para a primeira mensagem do fluxo. Para saber mais, consulte [Disparo ativo no WhatsApp](https://help.vtex.com/pt/docs/tutorials/disparo-ativo-no-whatsapp).
 
 ### Respostas rápidas
 

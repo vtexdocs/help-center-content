@@ -34,7 +34,7 @@ The column names must follow the format expected by the platform:
 
 To import contacts:
 
-1. In **Studio**, go to the **Contacts** page.
+1. In **Contacts**, go to the **Contacts** page.
 2. In the left side menu, click **Import Contacts**.
 3. On the import page, select the `.xls` spreadsheet.
 4. Click **Preview** and complete the import.

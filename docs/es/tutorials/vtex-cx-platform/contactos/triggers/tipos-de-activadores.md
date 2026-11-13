@@ -17,7 +17,7 @@ subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 
 La palabra clave es la primera palabra en un mensaje y puede usarse para iniciar el flujo. Por ejemplo, puedes definir un trigger usando la "palabra clave" para iniciar el flujo y registrar contactos en tu servicio.
 
-Todos los pasos descritos aquí se realizarán en la pestaña "**Triggers**", ubicada dentro del módulo "**Estudio**".
+Todos los pasos descritos aquí se realizarán en la pestaña "**Triggers**", ubicada dentro del módulo "**Contactos**".
 
 Para facilitar la navegación en este artículo, si deseas ir directamente a un tipo de trigger específico, haz clic en su nombre a continuación:
 

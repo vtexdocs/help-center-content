@@ -21,7 +21,7 @@ Campaign events define which action will run and when it will occur. After [crea
 
 To edit an event:
 
-1. In **Studio**, go to **Campaigns**.
+1. In **Contacts**, go to **Campaigns**.
 2. Select the campaign that contains the event.
 3. In the campaign's event list, click the event you want to edit.
 4. In the window that appears, click **Edit** in the top-right corner.

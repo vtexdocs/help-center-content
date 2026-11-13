@@ -17,7 +17,7 @@ subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 
 The keyword is the first word in a message and can be used to start the flow. For example, you can define a trigger using the "keyword" to start the flow and record contacts in your service.
 
-All steps described here will be performed on the **"Triggers"** tab, located within the **"Studio"** module.
+All steps described here will be performed on the **"Triggers"** tab, located within the **"Contacts"** module.
 
 To facilitate navigation in this article, if you want to go directly to a specific trigger type, click on its name below:
 

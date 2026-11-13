@@ -3,7 +3,7 @@ title: "Envío activo de mensajes en WhatsApp"
 id: 20E0eUtogj84N0vf6nZeia
 status: PUBLISHED
 createdAt: 2025-09-15T15:27:41.354Z
-updatedAt: 2026-11-13T14:40:00.000Z
+updatedAt: 2026-11-13T18:56:00.000Z
 publishedAt: 2025-10-03T14:20:32.448Z
 firstPublishedAt: 2025-10-03T14:20:32.448Z
 contentType: tutorial
@@ -15,40 +15,64 @@ locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-El envío activo y el envío pasivo difieren en quién inicia la conversación.
+El envío activo es cuando inicias una conversación con un contacto, por ejemplo para enviar una notificación, una confirmación o un seguimiento. Es distinto del envío pasivo, que empieza cuando el contacto te envía el primer mensaje.
 
-El **envío pasivo** ocurre cuando el usuario final se pone en contacto con la empresa de forma voluntaria. En ese momento, se inicia un flujo de conversación a partir del primer mensaje enviado por el usuario a la empresa.
+En WhatsApp, el envío activo requiere una plantilla de mensaje. Meta debe aprobar cada plantilla antes de que puedas enviarla. VTEX CX Platform usa el mismo proceso de envío activo en todos los canales, pero solo WhatsApp requiere una plantilla de mensaje. En los demás canales, la plantilla no es necesaria y puedes enviar más de un mensaje.
 
-Por otro lado, el **envío activo** ocurre cuando la empresa toma la iniciativa de iniciar una conversación con el usuario. Para realizar el envío activo, el mensaje a enviar debe pasar por un proceso de validación guiado por Meta y, solo después de su preaprobación, es posible enviarlo a los usuarios. En la VTEX CX Platform, llamamos a este modelo de mensaje "Template Message".
+## Antes de comenzar
 
-## Enviar por el módulo de flujos
+Antes de comenzar, confirma que:
 
-Después de la preaprobación del Template Message, se puede comenzar a construir el flujo conversacional. El primer paso es agregar la tarjeta "Actualizar Contacto" y elegir la opción "Canal", ya que esta definirá desde qué canal se realizará el envío. En esta etapa, elige tu canal de WhatsApp.
+- El canal de WhatsApp está conectado. Para más información, consulta [WhatsApp: Integración con VTEX CX Platform](https://help.vtex.com/es/docs/tutorials/whatsapp-integracion-con-vtex-cx-platform).
+- La plantilla de mensaje que quieres enviar está aprobada por Meta. Para crear una, consulta [WhatsApp: Cómo crear mensajes de plantilla](https://help.vtex.com/es/docs/tutorials/whatsapp-como-crear-mensajes-de-plantilla).
+- Tu rol permite crear flujos. Solo los usuarios con permiso de administrador, moderador o colaborador pueden crear flujos.
 
-El **segundo paso** es agregar la tarjeta "Enviar mensaje", en la casilla de texto escribe la siguiente expresión: `@(“”)`.
+## Crear un flujo que empieza con una plantilla de mensaje
 
-La expresión anterior indica que se enviará un Template Message (modelo de mensaje) y que este campo no será tomado en cuenta, ya que el modelo de mensaje a enviar a los clientes puede seleccionarse en la pestaña "WhatsApp", ubicada en la misma tarjeta de "Enviar Mensaje". Al hacer clic en la pestaña "WhatsApp", es posible acceder a los mensajes que han sido preaprobados y seleccionarlos para su envío.
+> ⚠️ En WhatsApp, el primer mensaje del flujo debe ser una plantilla de mensaje. Los demás tipos de mensaje no llegan a un contacto que no te ha escrito en las últimas 24 horas.
 
-También puedes añadir variables en el modelo. `@contact.name` inserta el nombre del contacto registrado en WhatsApp.
+Para crear el flujo, sigue estos pasos:
 
-### Variables que el agente completa en Live Desk
+1. Agrega una carta **Actualizar contacto** al flujo.
+2. En la opción **Canal**, selecciona tu canal de WhatsApp. Esta opción define el canal desde el que se envía el mensaje.
+3. Agrega una carta **Enviar mensaje** después de la carta **Actualizar contacto**.
+4. En el cuadro de texto de la carta **Enviar mensaje**, ingresa `@(“”)`.
 
-`@contact.name` se completa automáticamente con los datos del contacto. Para que el agente edite una variable al disparar el flujo desde Live Desk, ingresa `@trigger.params.variable_name` en el campo de esa variable en la pestaña **WhatsApp**. Sustituye `variable_name` por el nombre que debe aparecer en **Mapeo de variables**. Tú defines este nombre en el flujo. No necesita ser un campo de contacto.
+    Esta expresión no modifica el mensaje. La plantilla de mensaje se selecciona en la pestaña **WhatsApp** de la misma carta.
 
-Por ejemplo, en la plantilla `retornar_contato`, los campos de variable pueden ser `@trigger.params.contact_name` y `@trigger.params.atendente`. En Live Desk, la pantalla de mapeo identifica estos campos como **Variable contact_name** y **Variable atendente**.
+5. En la carta **Enviar mensaje**, haz clic en la pestaña **WhatsApp**. Selecciona la plantilla de mensaje que quieres enviar. La pestaña muestra solo las plantillas aprobadas por Meta.
+6. (Opcional) Agrega variables para personalizar el mensaje. Por ejemplo, `@contact.name` inserta el nombre del contacto.
+7. (Opcional) Agrega el resto del flujo después de la carta **Enviar mensaje**. Para que el contacto pueda responder, agrega una carta **Esperar respuesta**.
 
-Si el flujo incluye más de una plantilla con variables, usa `@trigger.params.variable_name` en todas las variables que el agente deba completar.
+## Permitir que el agente complete variables en Live Desk
+
+Si un agente de Live Desk necesita ingresar un valor antes de que se envíe la plantilla, configura la variable de esta forma:
+
+1. En el campo de la variable, en la pestaña **WhatsApp**, ingresa `@trigger.params.variable_name`. Sustituye `variable_name` por el nombre que debe aparecer en **Mapeo de variables**. Tú defines este nombre en el flujo. No necesita corresponder a un campo de contacto.
+2. Si el flujo incluye más de una plantilla de mensaje con variables, repite el paso 1 para cada variable que el agente deba completar.
+
+Las variables que usan otras expresiones, como `@contact.name`, se completan automáticamente y no aparecen para edición.
+
+Por ejemplo, una plantilla llamada `retornar_contacto` puede tener las variables `@trigger.params.nombre_contacto` y `@trigger.params.agente`. En Live Desk, la pantalla de mapeo muestra estos campos como **Variable nombre_contacto** y **Variable agente**.
 
 Para saber cómo el agente completa estos valores antes del envío, consulta [Disparo activo de flujos](https://help.vtex.com/es/docs/tutorials/utilizando-el-disparo-activo-de-flujos).
 
-Este proceso siempre se realiza para el primer mensaje y es exclusivo para el canal de WhatsApp. Después de la entrega del Template Message, si el usuario responde, la empresa puede continuar el flujo con las demás tarjetas de acción. Para que el usuario pueda responder, agrega una tarjeta de esperar respuesta.
+## Disparar el flujo
 
-Después de seleccionar el mensaje, haz clic en el botón "Enviar Flujo", ubicado en la esquina superior derecha de la pantalla, y realizar el envío a un contacto específico o a un grupo de contactos.
+Para enviar el flujo a los contactos, sigue estos pasos:
 
-Para comprobar el envío, ve a **Estudio** y abre la pestaña **Flujo**. El historial muestra los errores y los flujos iniciados.
+1. Haz clic en `Enviar flujo` en la esquina superior derecha de la pantalla.
+2. Selecciona el contacto o el grupo de contactos que debe recibir el flujo y envíalo.
 
-## Enviar desde el módulo de estudio
+## Enviar desde el módulo de Contactos
 
-También es posible enviar un Template Message desde el módulo "Estudio", seleccionando el contacto al que deseas enviar el mensaje y haciendo clic en el menú de opciones, ubicado en la esquina superior derecha. Luego, selecciona "Iniciar en el Flujo", elige el flujo y envía. Esta es otra posibilidad que ofrece la VTEX CX Platform para realizar el envío activo.
+También puedes iniciar un flujo para un solo contacto desde el módulo **Contactos**:
 
-El proceso de envío activo es el mismo para todos los canales de comunicación, pero la creación del Template Message es exclusiva para el canal de WhatsApp. Esto significa que, mientras que el uso del Template Message no es necesario para otros canales, en WhatsApp solo es posible enviar un modelo de mensaje (inicio del flujo). En los demás canales, es posible enviar más de un mensaje sin limitaciones previas.
+1. Selecciona el contacto que debe recibir el mensaje.
+2. Haz clic en el menú de opciones en la esquina superior derecha.
+3. Haz clic en `Iniciar en el flujo`, selecciona el flujo y envíalo.
+
+## Más información
+
+- [Mensajes de plantilla de WhatsApp: Obstáculos y configuraciones](https://help.vtex.com/es/docs/tutorials/mensajes-de-plantilla-de-whatsapp-obstaculos-y-configuraciones): Aprende a resolver plantillas de mensaje rechazadas o desactivadas.
+- [Flujo de automatización](https://help.vtex.com/es/docs/tutorials/introduccion-a-los-flujos)

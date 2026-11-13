@@ -25,7 +25,7 @@ Para conhecer os elementos disponíveis na página Contatos, consulte [Introduç
 
 Para criar um grupo estático:
 
-1. No **Estúdio**, acesse a página **Contatos**.
+1. No **Contatos**, acesse a página **Contatos**.
 2. No menu lateral, clique em **Criar Grupo**.
 3. Na janela exibida, insira um nome para o grupo e confirme.
 

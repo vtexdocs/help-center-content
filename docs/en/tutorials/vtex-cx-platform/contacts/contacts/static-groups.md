@@ -25,7 +25,7 @@ For an overview of the Contacts page, see [Introduction to Contacts](/en/docs/tu
 
 To create a static group:
 
-1. In **Studio**, go to the **Contacts** page.
+1. In **Contacts**, go to the **Contacts** page.
 2. In the side menu, click **Create Group**.
 3. In the window that appears, enter a name for the group and confirm.
 

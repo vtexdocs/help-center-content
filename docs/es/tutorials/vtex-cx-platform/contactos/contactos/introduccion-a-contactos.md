@@ -21,7 +21,7 @@ Aquí están todas las personas con las que mantendrás contacto. Existen dos ma
 
 - A través del botón de importar contactos, que permite la importación de una hoja de cálculo (que debe seguir reglas específicas) con contactos que aún no han interactuado con la plataforma.
 
-Para acceder a esta información, ingresa a tu proyecto y haz clic en el módulo "Estudio" en el menú lateral izquierdo.
+Para acceder a esta información, ingresa a tu proyecto y haz clic en el módulo "Contactos" en el menú lateral izquierdo.
 
 Al seleccionar la opción "**Contactos**" te encontrarás con las siguientes funcionalidades:
 

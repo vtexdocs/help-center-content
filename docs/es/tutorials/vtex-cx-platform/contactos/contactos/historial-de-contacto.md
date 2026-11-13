@@ -23,6 +23,6 @@ Puedes tener una vista resumida que solo muestra las conversaciones o una vista 
 
 ## Cómo acceder al historial de un contacto
 
-En la página de inicio, haz clic en **Estudio** > **Contactos**, luego selecciona un contacto de la lista o utiliza el **campo de búsqueda** para encontrarlo por nombre, número de teléfono, WhatsApp u otro dato único del cliente que esté registrado en un campo de contacto, como correo electrónico o número de identificación.
+En la página de inicio, haz clic en **Contactos** > **Contactos**, luego selecciona un contacto de la lista o utiliza el **campo de búsqueda** para encontrarlo por nombre, número de teléfono, WhatsApp u otro dato único del cliente que esté registrado en un campo de contacto, como correo electrónico o número de identificación.
 
 Al hacer clic en el contacto deseado, se abrirá una nueva pantalla donde podrás ver el historial del contacto.
