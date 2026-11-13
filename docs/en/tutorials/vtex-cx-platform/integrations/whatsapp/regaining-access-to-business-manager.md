@@ -3,7 +3,7 @@ title: "Regaining access to Business Manager"
 id: 2kj7yKJWbEx2CsdWG50QNN
 status: PUBLISHED
 createdAt: 2025-09-15T15:34:21.608Z
-updatedAt: 2026-11-12T12:00:00.000Z
+updatedAt: 2026-11-13T14:20:00.000Z
 publishedAt: 2025-10-03T14:20:32.336Z
 firstPublishedAt: 2025-10-03T14:20:32.336Z
 contentType: tutorial
@@ -42,6 +42,6 @@ If it is necessary to follow this path, open a ticket in Business Suite with the
 - A description of the requester's relationship to the Company and the Company ID (and authority to request access to the Company, as applicable)
 - An explanation of your request (example: there has been a termination of employment and/or business relationship with the named person(s)/Company and another person needs to be added as Administrator)
 - The three most recent billing statements/invoices (regardless of the elapsed time) on the ad account(s) the Company owns AND the last 4 digits of the credit card(s) on the account(s)\*
-- If BM does not have any ad accounts, please state this information on the statement.
+- If BM does not have any ad accounts, state this information on the statement.
 - A statement, using the wording “Under Penalty of Perjury”, that the information you have provided is true and accurate (for example, “I certify that the information provided is true and accurate”). Your statement must include similar language to be considered compliant and must be signed by hand. While it was previously a requirement, there is currently no requirement that the document be notarized.
 - The Company ID (BID) must appear in the body of the declaration

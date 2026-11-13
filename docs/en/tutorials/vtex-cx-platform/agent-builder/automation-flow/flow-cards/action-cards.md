@@ -3,7 +3,7 @@ title: "Action cards"
 id: 5TQ44l4pp84PPWdnWdg3JN
 status: PUBLISHED
 createdAt: 2025-09-16T16:43:29.253Z
-updatedAt: 2026-11-12T12:20:00.000Z
+updatedAt: 2026-11-13T14:00:00.000Z
 publishedAt: 2025-10-03T14:20:03.887Z
 firstPublishedAt: 2025-10-03T14:20:03.887Z
 contentType: tutorial
@@ -15,142 +15,146 @@ locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-Each action card runs a command in the conversation. Use the list below to go directly to a card.
+An action card runs one command in an [automation flow](https://help.vtex.com/en/docs/tutorials/automation-flow-overview), such as sending a message, updating a contact, or opening a ticket. Use the list below to open the description of a card while you build a flow.
 
-- Send the contact a message
-- Send somebody else a message
-- Label the incoming message
-- Add a URN for the contact
-- Add the contact to a group
-- Remove the contact from a group
-- Update the contact
-- Send an email
-- Save a result for this flow
-- Enter another flow
-- Start somebody else in a flow
-- Send a WhatsApp message
-- Open a ticket with a human agent
-- Call a webhook
+- [Send the contact a message](#send-the-contact-a-message)
+- [Send somebody else a message](#send-somebody-else-a-message)
+- [Label the incoming message](#label-the-incoming-message)
+- [Add a URN for the contact](#add-a-urn-for-the-contact)
+- [Add the contact to a group](#add-the-contact-to-a-group)
+- [Remove the contact from a group](#remove-the-contact-from-a-group)
+- [Update the contact](#update-the-contact)
+- [Send an email](#send-an-email)
+- [Save a result for this flow](#save-a-result-for-this-flow)
+- [Enter another flow](#enter-another-flow)
+- [Start somebody else in a flow](#start-somebody-else-in-a-flow)
+- [Send a WhatsApp message](#send-a-whatsapp-message)
+- [Open a ticket with a human agent](#open-a-ticket-with-a-human-agent)
+- [Call a webhook](#call-a-webhook)
 
 ## Send the contact a message
 
-The most popular and widely used action card on the platform. Its function is to send a message to the contact. This message will be received regardless of the channel the user is chatting in, write it in the text box.
+This card sends a message to the contact in the current conversation. The contact receives the message on the channel they're using. Write the message in the text box.
 
-1. **Facebook**
+### Facebook
 
-Sending mass messages via a Facebook channel requires specifying a topic if the user has not sent a message in the last 24 hours. Setting a topic to use on Facebook is especially important for the first message in your flow.
+A mass message on a Facebook channel needs a topic when the contact hasn't sent a message in the last 24 hours. Set a topic for the first message in the flow.
 
-1. **WhatsApp**
+### WhatsApp
 
-Sending messages via a WhatsApp channel requires using a template if you have not received a message from a contact in the last 24 hours. Configuring a template for use on WhatsApp is especially important for the first message in your flow. Read the article about [conversations started by a business on WhatsApp](/en/docs/tutorials/active-message-dispatch-on-whatsapp).
+A message on a WhatsApp channel needs a template when you haven't received a message from the contact in the last 24 hours. Set a template for the first message in the flow. For more information, see [Active message dispatch on WhatsApp](https://help.vtex.com/en/docs/tutorials/active-message-dispatch-on-whatsapp).
 
-1. **Quick Replies**
+### Quick replies
 
-You can send quick replies (text buttons) to users. They guide the conversation. Currently, you can add up to 10 text buttons per card.
+Quick replies are text buttons that guide the next step in the conversation. You can add up to 10 text buttons on this card.
 
-Not all channels support text buttons. Currently, the channels that have the buttons are: Telegram, Web, Facebook Messenger and WhatsApp.
+> ⚠️ Text buttons are available on Telegram, the Web channel, Facebook Messenger, and WhatsApp.
 
-1. **Attachments**
+### Attachments
 
-It is also possible to send attachments to a user. These attachments can be photos, videos, audios and documents. To send these attachments, place the media link, or choose the file using your computer's file selector. Currently, you can add up to 3 attachments per card.
+You can send up to 3 attachments on this card: photos, videos, audio, or documents. Enter the media link, or select the file on your computer. For upload steps and file size limits, see [Adding Media to the message](https://help.vtex.com/en/docs/tutorials/adding-media-to-the-message).
 
-Always make sure the channel your audience is working on supports the media you want to send.
+> ⚠️ Confirm that the contact's channel supports the media before you send it.
 
-1. **Advanced**
+### All destinations
 
-The "Advanced" option (Advanced Settings) allows you to enable message delivery to all destinations, meaning the message will be sent to all channels the contact is linked to, not only the preferred channel. After that, the channel chosen by the user to reply will become the new preferred channel for that conversation.
+In **Advanced**, you can send the message to every channel linked to the contact, not only the preferred channel. The channel the contact uses to reply becomes the preferred channel, and the flow continues on that channel.
 
-In other words, if your preferred channel is WhatsApp, by selecting the "all destinations" option, the contact will receive the message on all channels they have. If they reply via SMS, SMS will become the new preferred channel for that contact, and the flow will continue there.
+For example, if the preferred channel is WhatsApp and you send the message to all destinations, the contact receives it on every linked channel. If the contact replies by SMS, SMS becomes the preferred channel.
 
-Use this setting only in specific cases. If in doubt, leave the option unchecked.
+> ⚠️ Send the message to all destinations only when the contact should receive it on every linked channel. Otherwise, leave the option cleared.
 
 ## Send somebody else a message
 
-We can send a message to a contact or group other than the one running the flow. This message will be displayed to the contact / group without affecting any flow or conversation that may be currently running for them.
+This card sends a message to a contact or group other than the one running the flow. The recipient sees the message. The card doesn't change a flow or conversation already running for that recipient.
 
-With this, you or a group of people of your choice, can receive notifications from users who pass through specific points of your flows.
+Use it when you or a group need a notification that a contact reached a specific point in a flow.
 
 ## Label the incoming message
 
-You can mark the last message sent by the contact with a Label. All labeled messages go to a message group with the same name as the label. To learn more about messages and labels, see the [messages article](/en/docs/tutorials/contacts-messages).
+This card applies a label to the last message the contact sent. Labeled messages are collected in a message group with the same name as the label.
 
-For example, use a label to mark the contact's interest in a product.
+For example, label a message when the contact shows interest in a product.
 
-### Add a URN for the contact
+## Add a URN for the contact
 
-It is possible to add new URNs for your contact. You can select the type of URN to be added (Phone Number, Whatsapp, SMS, Telegram, etc.) and enter the new value, using some fixed value or a flow variable. To understand a little more about URN, you can visit the article on the subject
+This card adds a URN to the contact. A URN identifies the contact on a channel, such as a phone number or a WhatsApp number. Select the URN type, such as phone number, WhatsApp, SMS, or Telegram, and enter a fixed value or a flow variable.
 
-Did your lead arrive through your website? Ask his Whatsapp number and send a message over there! Remember to add the country code when modifying the phone number or WhatsApp Number.
+> ⚠️ Include the country code when you add or change a phone number or WhatsApp number.
 
-### Add the contact to a group
+If the contact started the conversation on your website, ask for a WhatsApp number, add it as a URN, and continue the conversation on WhatsApp.
 
-You can add the contact to a static group. If the group does not exist in the contacts tab, you can create it by typing the name you want for the group in the selection field. To understand a little more about groups, visit the [contact article](/en/docs/tutorials/introduction-to-contacts)
+## Add the contact to a group
 
-Did the contact complete a satisfaction survey? You can group it with everyone who answered the survey.
+This card adds the contact to a [static group](https://help.vtex.com/en/docs/tutorials/static-groups). If the group doesn't exist on the Contacts page, type the group name in the selection field to create it.
 
-### Remove the contact from a group
+For example, after a contact completes a satisfaction survey, add them to a group with the other contacts who answered it.
 
-You can remove the contact from some [static group](/en/docs/tutorials/static-groups). In addition, you have the option to mark to remove the contact from all groups that he is part of, without distinction. To understand a little more about groups, visit the contact article.
+## Remove the contact from a group
 
-Is the contact no longer your customer? You can remove it from the group and thereby block exclusive actions for customers.
+This card removes the contact from a [static group](https://help.vtex.com/en/docs/tutorials/static-groups). You can remove the contact from one group, or from every group they belong to.
 
-### Update the contact
+For example, when a contact is no longer a customer, remove them from that group so actions limited to the group no longer include them.
 
-To fill in the contact fields, use Update Contact. In it, you select the contact field you want to update, and after that you can enter a fixed value or a flow result. If the contact field does not yet exist, write the name you want for it. To learn more about the contact fields, visit the contact article
+## Update the contact
 
-Did you ask the age of your contact? You can save the value for later reference.
+This card updates a [contact field](https://help.vtex.com/en/docs/tutorials/contact-fields). Select the field, then enter a fixed value or a flow result. If the field doesn't exist yet, enter a name to create it.
 
-### Send an email
+For example, when you ask for the contact's age, save the answer in a contact field so a later flow can use it.
 
-Here you can send an email to someone. This email can be sent either to the contact running the flow or to anyone else. Keep in mind that email is not a conversation channel on the VTEX CX Platform, meaning that if someone replies to the sent email, it will go to the inbox of the email configured in the organization. To learn more, see the [project settings](/en/docs/tutorials/general-project-settings) article.
+## Send an email
 
-To send the email, fill in the recipient, subject, and message body in the corresponding fields.
+This card sends an email to the contact running the flow or to another recipient. Enter the recipient, the subject, and the message body.
 
-You can use this card to send reminders to a contact without spending on SMS or calls.
+Email isn't a conversation channel on the VTEX CX Platform. If the recipient replies, the reply goes to the inbox of the email address configured for the organization.
 
-### Save a result for this flow
+Use this card to send a reminder by email instead of by SMS or phone call.
 
-This action card simulates a flow result. It creates the result from scratch, without the need for an input or a decision card. Therefore, choose the name of the flow result, enter its value and, if you want, a category. In addition, we can update the value of some existing flow results. To understand a little more about flow results and their structures, visit the results section in the decision cards article
+## Save a result for this flow
 
-Want to save the number of questions a contact has asked, but don't want to link it directly to a contact field? The best way is to create a flow variable.
+This card creates a [flow result](https://help.vtex.com/en/docs/tutorials/decision-cards#flow-results) without waiting for an input or a decision card. Enter the result name and value. You can also enter a category, or update the value of a result that already exists.
 
-### Enter another flow
+For example, save how many questions a contact has asked without storing that count in a contact field.
 
-Here, we can start a new flow for the user. When the user enters a new flow, the flow he was in before (which can now be called the parent flow), is on hold until completion. In the meantime, the user will execute the new flow (which can now be called a child flow) and at the end of the execution, it will return to the point where it left off in the parent flow. To work, choose the name of the flow you want from the existing options.
+## Enter another flow
 
-When the execution of the child flow is finished, the Enter a flow card offers two routes, so it is the only action card that uses this concept (to understand the concept of route, visit the decision cards article). These two possible routes are based on how the child flow ended. If it was completed without any problems, the flow will take the Complete route and if the child flow has expired, the parent flow will use the Expired route.
+This card starts another flow for the contact in the current conversation. The current flow, the parent flow, waits while the contact runs the new flow, the child flow. When the child flow ends, the contact returns to the same point in the parent flow. Select the flow from the list.
 
-### Start somebody else in a flow
+This is the only action card that creates [routes](https://help.vtex.com/en/docs/tutorials/decision-cards). The route depends on how the child flow ends:
 
-In the same way that we can send a message to a contact / group that is not the current one, we can also start a new flow.
-To decide who will be initiated by the flow, we can choose between three options:
+- **Complete:** The child flow finished.
+- **Expired:** The child flow expired.
 
-1. Manually define the contacts / groups that will be started in the new flow;
-2. Create a logical rule (usually based on contact fields) to filter the contacts that should enter the flow;
-3. Create a new contact, and start it in the flow;
+## Start somebody else in a flow
 
-After deciding on these options, select a stream to start. Unlike Enter another flow, this card does not create route options, after all, it does not wait for the end of the child flows to continue executing the parent flow.
+This card starts a flow for a contact or group that isn't running the current flow. The current flow doesn't wait for that flow to finish, and this card doesn't create routes.
 
-This card can be used to create reactive campaigns, such as notifying a group of the arrival of a new member.
+Choose who enters the flow:
 
-### Send a WhatsApp message
+- Select the contacts or groups.
+- Create a rule, usually based on contact fields, that filters which contacts enter.
+- Create a new contact and start that contact in the flow.
 
-The WhatsApp message card sends interactive messages on the channel.
+After you choose who enters, select the flow to start.
 
-It offers three types of interactive messages:
+For example, use this card to notify a group when a new member joins.
 
-- **Quick Replies** : Allows you to create up to 3 predefined responses that recipients can quickly select.
-- **Option List** : Provides an interactive menu with up to 10 items, each with a title and description.
-- **Request Location** : Enables you to request the final customer's location.
+## Send a WhatsApp message
 
-In addition to these interactions, you can include headers (with media or text) and footers in the messages. The availability of these elements depends on the type of interactive message chosen.
+This card sends an interactive message on WhatsApp. It doesn't replace a template approved by Meta when your business starts the conversation. To configure the card, see [WhatsApp message card](https://help.vtex.com/en/docs/tutorials/whatsapp-message-card).
 
-Using this card does not replace the use of templates (pre-approved messages by Meta) for conversations started by a business.
+The card offers these interactive messages:
 
-### Open a ticket with a human agent
+- **Quick replies:** Up to 3 predefined responses the contact can select.
+- **Option list:** A menu of up to 10 items. Each item has a title and a description.
+- **Request location:** A request for the contact's location.
 
-This card is used to open support tickets for human assistance. To direct the inquiries to the Live Desk module, you need to select the department (1) and the queue (2). Learn more about [Setting Up Human Attendance](/en/docs/tutorials/manage-live-desk).
+Depending on the message type, you can also add a header, with media or text, and a footer.
 
-### Call a webhook
+## Open a ticket with a human agent
 
-This card allows you to make API requests, storing the response in a variable that can be used within the flow. This helps you connect with other external systems. Learn [how to make calls to external services](/en/docs/tutorials/call-webhook-making-requests-to-external-services).
+This card opens a ticket so a human agent can continue the conversation in Live Desk. Select the department and the queue that receive the ticket. To set up departments and queues, see [Configuring Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk).
+
+## Call a webhook
+
+This card sends an API request and stores the response in a variable you can use later in the flow. Use it to connect the flow to an external system. For more information, see [Call webhook: Making requests to external services](https://help.vtex.com/en/docs/tutorials/call-webhook-making-requests-to-external-services).

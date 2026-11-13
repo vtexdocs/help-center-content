@@ -3,7 +3,7 @@ title: "Creando contactos con webhooks externos"
 id: 2uiciJ2WsW6G9tfSDpvE12
 status: PUBLISHED
 createdAt: 2025-09-12T16:55:38.856Z
-updatedAt: 2025-10-03T14:21:49.419Z
+updatedAt: 2026-11-13T14:40:00.000Z
 publishedAt: 2025-10-03T14:21:49.419Z
 firstPublishedAt: 2025-10-03T14:21:49.419Z
 contentType: tutorial
@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-En este artículo, te mostraremos de manera simple cómo traer contactos desde tu plataforma externa a la VTEX CX Platform.
+Puedes traer contactos desde tu plataforma externa a VTEX CX Platform con un webhook.
 
 La VTEX CX Platform tiene docenas de [APIs](https://dash.weni.ai/api/flows/api/v2/explorer) que pueden ser utilizadas para diversas funcionalidades. En este artículo, nos enfocaremos específicamente en la integración de contactos para automatizar tu comunicación.
 
@@ -202,4 +202,4 @@ Recibirás una respuesta **204** si el grupo fue eliminado correctamente, o una 
 
 ## Conclusión
 
-Al final, tu plataforma estará habilitada para sincronizar los datos en tiempo real con nuestra plataforma, lo que permitirá al usuario aprovechar el poder de las automatizaciones y la Inteligencia Artificial para comunicarse de manera más cercana y continua con su audiencia.
+Con el webhook configurado, los contactos se crean o actualizan en VTEX CX Platform a partir de los eventos de tu plataforma.

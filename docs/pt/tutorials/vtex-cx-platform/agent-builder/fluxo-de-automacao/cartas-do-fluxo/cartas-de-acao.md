@@ -3,7 +3,7 @@ title: 'Cartas de ação'
 id: 5TQ44l4pp84PPWdnWdg3JN
 status: PUBLISHED
 createdAt: 2025-09-16T16:43:29.253Z
-updatedAt: 2026-11-12T12:20:00.000Z
+updatedAt: 2026-11-13T14:00:00.000Z
 publishedAt: 2025-10-03T14:20:03.887Z
 firstPublishedAt: 2025-10-03T14:20:03.887Z
 contentType: tutorial
@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-Cada carta de ação executa um comando na conversa. Use a lista abaixo para ir direto à carta.
+Uma carta de ação executa um comando em um [fluxo de automação](https://help.vtex.com/pt/docs/tutorials/visao-geral-fluxo-de-automacao), como enviar uma mensagem, atualizar um contato ou abrir um ticket. Use a lista abaixo para abrir a descrição de uma carta enquanto você monta um fluxo.
 
 - [Enviar uma mensagem ao contato](#enviar-uma-mensagem-ao-contato)
 - [Enviar uma mensagem a outra pessoa](#enviar-uma-mensagem-a-outra-pessoa)
@@ -34,123 +34,127 @@ Cada carta de ação executa um comando na conversa. Use a lista abaixo para ir 
 
 ## Enviar uma mensagem ao contato
 
-A carta de ação mais conhecida e mais utilizada da plataforma. Sua função é enviar uma mensagem ao contato. Essa mensagem será recebida independentemente do canal em que o usuário está conversando, escreva-a na caixa de texto.
+Esta carta envia uma mensagem ao contato na conversa atual. O contato recebe a mensagem no canal que está usando. Escreva a mensagem na caixa de texto.
 
-- **Facebook**
-O envio de mensagens em massa por um canal do Facebook exige que um tópico seja especificado se o usuário não tiver enviado uma mensagem nas últimas 24 horas. Definir um tópico para usar no Facebook é especialmente importante para a primeira mensagem no seu fluxo.
+### Facebook
 
-- **WhatsApp**
-O envio de mensagens por um canal do WhatsApp exige que um template seja usado se você não recebeu uma mensagem de um contato nas últimas 24 horas. A configuração de template para uso no WhatsApp é especialmente importante para a primeira mensagem no seu fluxo. Leia o artigo sobre [disparo ativo no WhatsApp](https://help.vtex.com/pt/docs/tutorials/disparo-ativo-no-whatsapp)
+Uma mensagem em massa em um canal do Facebook precisa de um tópico quando o contato não enviou uma mensagem nas últimas 24 horas. Defina um tópico para a primeira mensagem do fluxo.
 
-- **Respostas rápidas**
-Você pode enviar _respostas rápidas_ (botões de texto) para os usuários. Elas orientam a conversa. Atualmente, você pode adicionar até 10 botões de texto por carta.
+### WhatsApp
 
-Nem todos os canais têm suporte para botões de texto. Atualmente os canais que possuem os botões são: Telegram, VTEX CX Platform Web Chat, Facebook Messenger e WhatsApp.
+Uma mensagem em um canal do WhatsApp precisa de um template quando você não recebeu uma mensagem do contato nas últimas 24 horas. Defina um template para a primeira mensagem do fluxo. Para saber mais, consulte [Disparo Ativo no WhatsApp](https://help.vtex.com/pt/docs/tutorials/disparo-ativo-no-whatsapp).
 
-- **Arquivos**
+### Respostas rápidas
 
-Também é possível enviar _arquivos_ (anexos) para um usuário. Esses anexos podem ser fotos, vídeos, áudios e documentos. Para enviar esses anexos, coloque o link das mídias, ou escolher o arquivo pelo seletor de arquivos do seu computador. Atualmente, você pode adicionar até 3 anexos por carta.
+Respostas rápidas são botões de texto que orientam o próximo passo da conversa. Você pode adicionar até 10 botões de texto nesta carta.
 
-Sempre verifique se o canal em que seu público está trabalhando tem suporte para a mídia que você quer enviar.
+> ⚠️ Os botões de texto estão disponíveis no Telegram, no canal Web, no Facebook Messenger e no WhatsApp.
 
-- **Avançado**
+### Anexos
 
-A opção _Avançados_ (Configuração avançada) permite ativar o envio de mensagens para todos os destinos, ou seja, enviar mensagens para todos os canais que o contato possui vínculo, e não apenas para o canal preferencial. Depois disso, o canal escolhido pelo usuário para responder virará o canal preferencial para aquela conversa.
+Você pode enviar até 3 anexos nesta carta: fotos, vídeos, áudios ou documentos. Informe o link da mídia ou selecione o arquivo no computador. Para consultar as etapas de upload e os limites de tamanho, consulte [Adicionar mídias](https://help.vtex.com/pt/docs/tutorials/adicionando-midias-ao-cartao-de-enviar-mensagem).
 
-Ou seja, caso seu canal preferencial seja o WhatsApp, ao marcar a opção de todos os destinos, o contato receberá a mensagem em todos os canais que ele possui, e caso ele responda pelo SMS, o SMS se tornará o novo canal preferencial do contato e o fluxo continuará por lá.
+> ⚠️ Confirme que o canal do contato aceita a mídia antes de enviá-la.
 
-Use essa configuração apenas em casos específicos. Em caso de dúvida, deixe a opção desmarcada.
+### Todos os destinos
+
+Em **Avançado**, você pode enviar a mensagem para todos os canais vinculados ao contato, e não apenas para o canal preferencial. O canal que o contato usar para responder passa a ser o canal preferencial, e o fluxo continua nesse canal.
+
+Por exemplo, se o canal preferencial for o WhatsApp e você enviar a mensagem para todos os destinos, o contato a recebe em todos os canais vinculados. Se o contato responder por SMS, o SMS passa a ser o canal preferencial.
+
+> ⚠️ Envie a mensagem para todos os destinos apenas quando o contato precisar recebê-la em todos os canais vinculados. Caso contrário, deixe a opção desmarcada.
 
 ## Enviar uma mensagem a outra pessoa
 
-Podemos mandar uma mensagem para um contato ou grupo diferente daquele que está executando o fluxo. Essa mensagem será exibida para o contato/grupo sem afetar qualquer fluxo ou conversa que possa estar em execução para ele no momento.
+Esta carta envia uma mensagem para um contato ou grupo diferente daquele que está executando o fluxo. O destinatário vê a mensagem. A carta não altera um fluxo ou uma conversa que já esteja em execução para esse destinatário.
 
-Com isso, você ou um grupo de pessoas à sua escolha, pode receber notificações de usuários que passarem por pontos específicos dos seus fluxos.
+Use esta carta quando você ou um grupo precisarem ser avisados de que um contato chegou a um ponto específico do fluxo.
 
 ## Etiquetar uma mensagem recebida
 
-Você pode marcar a última mensagem enviada pelo contato com uma _etiqueta_ (rótulo). Todas as mensagens rotuladas vão para um grupo de mensagens com o mesmo nome do rótulo. Para saber mais sobre mensagens e rótulos, consulte o artigo [mensagens](https://help.vtex.com/pt/docs/tutorials/disparo-ativo-no-whatsapp)
+Esta carta aplica uma etiqueta à última mensagem enviada pelo contato. As mensagens etiquetadas ficam reunidas em um grupo de mensagens com o mesmo nome da etiqueta.
 
-Por exemplo, use um rótulo para marcar o interesse do contato em um produto.
+Por exemplo, etiquete uma mensagem quando o contato demonstrar interesse em um produto.
 
 ## Adicionar uma URN ao contato
 
-É possível adicionar novas URNs para o seu contato. Você pode selecionar o tipo da URN que vai ser adicionada (Phone Number, Whatsapp, SMS, Telegram, etc.) e informar o novo valor, utilizando algum valor fixo ou uma variável de fluxo.
+Esta carta adiciona uma URN ao contato. A URN identifica o contato em um canal, como um número de telefone ou um número de WhatsApp. Selecione o tipo de URN, como telefone, WhatsApp, SMS ou Telegram, e informe um valor fixo ou uma variável de fluxo.
 
-Se o lead chegou pelo seu site, você pode solicitar o número do WhatsApp e enviar uma mensagem por esse canal.
+> ⚠️ Inclua o código do país ao adicionar ou alterar um número de telefone ou de WhatsApp.
+
+Se o contato iniciou a conversa no site, peça o número de WhatsApp, adicione esse número como URN e continue a conversa no WhatsApp.
 
 ## Adicionar um contato ao grupo
 
-Você consegue adicionar o contato em um grupo estático. Caso o grupo não exista na aba de contatos, você pode criar digitando o nome que deseja para o grupo no campo de seleção.
+Esta carta adiciona o contato a um [grupo estático](https://help.vtex.com/pt/docs/tutorials/grupos-estaticos). Se o grupo ainda não existir na página Contatos, insira o nome do grupo no campo de seleção para criá-lo.
 
-Para saber mais, consulte [Grupos estáticos e grupos dinâmicos](https://help.vtex.com/pt/docs/tutorials/grupos-estaticos).
-
-O contato respondeu uma pesquisa de satisfação? Você pode agrupá-lo com todos que responderam à pesquisa.
+Por exemplo, depois que um contato concluir uma pesquisa de satisfação, adicione esse contato a um grupo com os outros contatos que responderam.
 
 ## Remover contato de um grupo
 
-Você pode remover o contato de algum [grupo estático](https://help.vtex.com/pt/docs/tutorials/grupos-estaticos). Além disso, você tem a opção de marcar para remover o contato de todos os grupos dos quais ele faz parte, sem distinção.
+Esta carta remove o contato de um [grupo estático](https://help.vtex.com/pt/docs/tutorials/grupos-estaticos). Você pode remover o contato de um grupo ou de todos os grupos dos quais participa.
 
-O contato não é mais seu cliente? Você pode removê-lo do grupo e assim bloquear as ações exclusivas para clientes.
+Por exemplo, quando um contato deixa de ser cliente, remova-o desse grupo para que as ações limitadas ao grupo não o incluam mais.
 
 ## Atualizar o contato
 
-Para preencher os campos do contato, utilize o Update Contact. Nele, você seleciona o campo de contato que deseja atualizar, e depois disso pode inserir um valor fixo ou um resultado de fluxo. Caso o campo do contato ainda não exista, escreva o nome que você deseja para ele.
+Esta carta atualiza um [campo de contato](https://help.vtex.com/pt/docs/tutorials/campos-de-contato). Selecione o campo e informe um valor fixo ou um resultado de fluxo. Se o campo ainda não existir, informe um nome para criá-lo.
 
-Perguntou a idade do seu contato? Você pode salvar o valor para consultar mais tarde.
+Por exemplo, quando você perguntar a idade do contato, salve a resposta em um campo de contato para um fluxo posterior usar.
 
 ## Enviar um e-mail
 
-Aqui você pode enviar um e-mail para alguém. Esse e-mail pode ser tanto do contato que está executando o fluxo, como qualquer outro. Lembrando que o e-mail não é um canal de conversa no VTEX CX Platform, ou seja, caso alguém responda o e-mail enviado, ele irá cair na caixa de entrada do e-mail configurado na organização. Para saber mais, consulte o artigo de [configurações do projeto](https://help.vtex.com/pt/docs/tutorials/configuracoes-gerais-do-projeto).
+Esta carta envia um e-mail para o contato que está executando o fluxo ou para outro destinatário. Informe o destinatário, o assunto e o corpo da mensagem.
 
-Para enviar o e-mail, coloque o destinatário, o assunto e o corpo da mensagem nos campos correspondentes.
+O e-mail não é um canal de conversa na VTEX CX Platform. Se o destinatário responder, a resposta vai para a caixa de entrada do e-mail configurado na organização.
 
-Você pode usar este cartão para enviar lembretes a um contato sem gastar com SMS ou ligações.
+Use esta carta para enviar um lembrete por e-mail, em vez de SMS ou ligação.
 
 ## Salvar o resultado para este fluxo
 
-Conseguimos simular um resultado de fluxo com essa carta de ação. Ela cria o resultado do zero, sem a necessidade de um input nem de uma carta de decisão. Sendo assim, escolha o nome do resultado de fluxo, colocar o seu valor e caso queira, uma categoria. Além disso, podemos atualizar o valor de alguns resultados de fluxo já existentes.
+Esta carta cria um [resultado de fluxo](https://help.vtex.com/pt/docs/tutorials/cartas-de-decisao#resultados-de-fluxo) sem esperar um input ou uma carta de decisão. Informe o nome e o valor do resultado. Você também pode informar uma categoria ou atualizar o valor de um resultado que já existe.
 
-Deseja salvar a quantidade de perguntas que um contato fez, mas não deseja atrelar isso diretamente a um campo de contato? A melhor forma é criando uma variável de fluxo.
+Por exemplo, salve quantas perguntas um contato fez sem guardar essa contagem em um campo de contato.
 
 ## Entrar em outro fluxo
 
-Aqui, podemos iniciar um novo fluxo para o usuário. Quando o usuário entra em um novo fluxo, o fluxo em que ele estava antes (que agora pode ser chamado de fluxo pai), fica em espera até a conclusão. Enquanto isso, o usuário irá executar o fluxo novo (que agora pode ser chamado de fluxo filho) e no final da execução, retornará para o ponto de onde parou no fluxo pai. Para funcionar, escolha o nome do fluxo desejado entre as opções existentes.
+Esta carta inicia outro fluxo para o contato na conversa atual. O fluxo atual, o fluxo pai, espera enquanto o contato executa o novo fluxo, o fluxo filho. Quando o fluxo filho termina, o contato volta ao mesmo ponto do fluxo pai. Selecione o fluxo na lista.
 
-Quando a execução do fluxo filho é encerrada, a carta de enter a flow oferece duas rotas, sendo assim a única carta de ação que utiliza esse conceito (para entender o conceito de rota, visite o artigo de cartas de decisão). Essas duas rotas são baseadas em como o fluxo filho terminou. Caso ele tenha sido completado sem nenhum problema, o fluxo irá tomar a rota de _Completo_ e caso o fluxo filho tenha expirado, o fluxo pai utilizará a rota de _Expirado_.
+Esta é a única carta de ação que cria [rotas](https://help.vtex.com/pt/docs/tutorials/cartas-de-decisao). A rota depende de como o fluxo filho termina:
+
+- **Completo:** O fluxo filho terminou.
+- **Expirado:** O fluxo filho expirou.
 
 ## Iniciar outra pessoa em um fluxo
 
-Da mesma forma que podemos mandar uma mensagem para um contato/grupo que não é o atual, nós também podemos começar um novo fluxo.
-Para decidir quem vai ser iniciado pelo fluxo, podemos escolher entre três opções:
+Esta carta inicia um fluxo para um contato ou grupo que não está executando o fluxo atual. O fluxo atual não espera esse fluxo terminar, e esta carta não cria rotas.
 
-  1. Definir manualmente os contatos/grupos que serão iniciados no novo fluxo;
-  2. Criar uma regra lógica (normalmente baseada em campos de contato) para filtrar os contatos que devem entrar no fluxo;
-  3. Criar um novo contato, e iniciá-lo no fluxo;
+Escolha quem entra no fluxo:
 
-Depois de decidir sobre essas opções, selecione um fluxo para ser iniciado. Diferentemente do _Entrar em outro fluxo_, esse card não cria opções de rota, afinal, ele não espera o fim dos fluxos filhos para continuar a execução do fluxo pai.
+- Selecione os contatos ou os grupos.
+- Crie uma regra, em geral baseada em campos de contato, que filtre quais contatos entram.
+- Crie um contato e inicie esse contato no fluxo.
 
-Essa carta pode ser utilizada para criar campanhas reativas, como notificar um grupo sobre a chegada de um novo integrante.
+Depois de escolher quem entra, selecione o fluxo a ser iniciado.
+
+Por exemplo, use esta carta para avisar um grupo quando um novo integrante entra.
 
 ## Enviar uma mensagem do WhatsApp
 
-O cartão de mensagem do WhatsApp envia mensagens interativas no canal.
+Esta carta envia uma mensagem interativa no WhatsApp. Ela não substitui um template aprovado pela Meta quando a empresa inicia a conversa. Para configurar a carta, consulte [Cartão de mensagem do WhatsApp](https://help.vtex.com/pt/docs/tutorials/cartao-de-mensagem-do-whatsapp).
 
-Ele oferece três tipos de mensagens interativas:
+A carta oferece estas mensagens interativas:
 
-  1. **Respostas rápidas**: Permite criar até 3 respostas predefinidas que os destinatários podem selecionar.
-  2. **Lista de opções**: Oferece um menu interativo com até 10 itens, cada um com título e descrição.
-  3. **Solicitar localização**: Possibilita solicitar a localização do cliente final.
+- **Respostas rápidas:** Até 3 respostas predefinidas que o contato pode selecionar.
+- **Lista de opções:** Um menu de até 10 itens. Cada item tem um título e uma descrição.
+- **Solicitar localização:** Uma solicitação da localização do contato.
 
-Além dessas interações, é possível incluir cabeçalhos (com mídia ou texto) e rodapés nas mensagens. A disponibilidade desses elementos varia conforme o tipo de mensagem interativa escolhida.
-A utilização deste card não substitui o uso de templates (mensagens pré-aprovadas pela Meta) para disparos ativos.
+Conforme o tipo de mensagem, você também pode adicionar um cabeçalho, com mídia ou texto, e um rodapé.
 
 ## Abrir um ticket com um agente humano
 
-Este card é utilizado para abrir tickets de atendimento humano. Para que os atendimentos sejam direcionados ao Live Desk, é necessário selecionar o setor (1) e a fila (2). Saiba mais sobre como configurar o [atendimento humano no módulo Live Desk](https://help.vtex.com/pt/docs/tutorials/dashboard-do-live-desk).
+Esta carta abre um ticket para que um agente humano continue a conversa no Live Desk. Selecione o setor e a fila que recebem o ticket. Para configurar setores e filas, consulte [Configurar o Live Desk](https://help.vtex.com/pt/docs/tutorials/configurar-o-live-desk).
 
 ## Chamar um webhook
 
-Este card permite fazer requisições para APIs, armazenando o retorno dessas requisições em uma variável que pode ser utilizada no fluxo. Isso ajuda a conectar o fluxo a outros sistemas externos.
-
-[Como fazer chamadas para sistemas externos](https://help.vtex.com/pt/docs/tutorials/call-webhook-como-fazer-chamadas-para-sistemas-externos)
+Esta carta envia uma requisição de API e guarda a resposta em uma variável que você pode usar depois no fluxo. Use a carta para conectar o fluxo a um sistema externo.

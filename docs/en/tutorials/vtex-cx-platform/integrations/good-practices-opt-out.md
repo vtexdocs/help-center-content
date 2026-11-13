@@ -3,7 +3,7 @@ title: "Good practices: Opt-out"
 id: 1jxivj0ahiEpDwWcfYScGk
 status: PUBLISHED
 createdAt: 2025-09-15T15:37:10.459Z
-updatedAt: 2026-11-12T12:00:00.000Z
+updatedAt: 2026-11-13T14:20:00.000Z
 publishedAt: 2025-10-03T14:20:32.275Z
 firstPublishedAt: 2025-10-03T14:20:32.275Z
 contentType: tutorial
@@ -21,24 +21,19 @@ This practice involves providing methods for users to stop communication wheneve
 
 ## Key features of the opt-out practice
 
-- User Control: The customer has the power to choose when to stop receiving communications.
+- User control: The contact can choose to stop receiving communications.
 - Process: It should take the user as few steps as possible to request to unsubscribe.
 - Immediate: Companies must ensure that the cancellation is processed without delay.
 - Transparent: From the beginning of the interactions, companies need to inform customers how they can opt out of receiving messages.
 
-The opt-out practice is essential to ensure respect for user privacy and preferences, promoting a transparent and reliable communication experience.
-The reasons that might lead a customer to request an opt-out can vary, such as:
+A contact might request an opt-out for reasons such as:
 
 - Disinterest in the content being sent;
 - Resolution of the issue the customer had;
 - Dissatisfaction with the provided material;
 - Registration done without the user's consent.
 
-If the customer loses interest and the company does not remove them from the sending list, it can lead to even greater frustration.
-
-This can result in the company's image being tarnished in the eyes of that customer.
-
-Therefore, if they need new solutions or services from the institution in the future, they may not feel comfortable, which could be enough to prevent new business deals from being closed.
+If a contact asks to stop receiving messages and the company keeps sending them, the contact can block or report the number. Blocks and reports affect the account's quality rating.
 
 ## Improving quality rating
 

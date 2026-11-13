@@ -3,7 +3,7 @@ title: "Route markers"
 id: 6Ik6WA9HMhGvPr1IsfQPJE
 status: PUBLISHED
 createdAt: 2025-09-17T14:12:14.855Z
-updatedAt: 2025-10-03T14:20:03.673Z
+updatedAt: 2026-11-13T14:20:00.000Z
 publishedAt: 2025-10-03T14:20:03.673Z
 firstPublishedAt: 2025-10-03T14:20:03.673Z
 contentType: tutorial
@@ -14,10 +14,6 @@ legacySlug: route-markers
 locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
-
-Once we create our streams, our goal and anxiety becomes knowing how people are using and reacting to conversations. In order for you to be able, in real time, to analyze how the interaction and engagement is in your flows, what paths users are preferring and be able to use this data for decision making, the platform has some tools to help you with this.
-
-## Route markers
 
 Route markers are guide numbers that appear below each action and decision chart, showing how many people went through that route in the flow. Use route markers to identify the paths users take most often. They are updated in real time. You can also identify certain bottlenecks, such as when a question holds a user too long in the flow.
 

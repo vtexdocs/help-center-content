@@ -3,7 +3,7 @@ title: "Sienge API-integrated chatbot"
 id: 3ysIw5ORs4JzRTJN92GDx7
 status: PUBLISHED
 createdAt: 2025-09-17T14:23:32.240Z
-updatedAt: 2026-11-12T12:20:00.000Z
+updatedAt: 2026-11-13T14:20:00.000Z
 publishedAt: 2025-10-03T14:20:03.565Z
 firstPublishedAt: 2025-10-03T14:20:03.565Z
 contentType: tutorial
@@ -32,7 +32,7 @@ For full automation functionality, create an API user with permission to access 
 - Client’s current outstanding balance (Total)
 - Cost center
 
-To create an API user, please follow this [step-by-step](https://www.youtube.com/watch?v=w0f9O20ZeLM&list=PLel5qygu4y7SE1xF8UmVhJBJX6S5YavCE) guide.
+To create an API user, follow this [step-by-step](https://www.youtube.com/watch?v=w0f9O20ZeLM&list=PLel5qygu4y7SE1xF8UmVhJBJX6S5YavCE) guide.
 
 To see how the template works, watch the [demonstration](https://www.youtube.com/watch?v=Z7KYanhT-aw&feature=youtu.be).
 

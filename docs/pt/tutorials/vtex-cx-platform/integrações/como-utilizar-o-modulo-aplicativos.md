@@ -3,7 +3,7 @@ title: 'Utilizar Canais (em Configurações)'
 id: 6Nd01r7zysXn1tvmoq1XHY
 status: PUBLISHED
 createdAt: 2025-09-15T14:55:25.130Z
-updatedAt: 2026-11-12T12:00:00.000Z
+updatedAt: 2026-11-13T14:30:00.000Z
 publishedAt: 2025-10-03T14:20:03.229Z
 firstPublishedAt: 2025-10-03T14:20:03.229Z
 contentType: tutorial
@@ -17,10 +17,10 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 O VTEX CX Platform permite que você faça integrações com seu chatbot em mais de um tipo de canal de comunicação, sendo eles:
 
-[WhatsApp Demo](/pt/docs/tutorials/como-criar-um-canal-no-whatsapp-demo), no qual você pode trazer o maior aplicativo de conversas do mundo, de graça para validar o seu projeto. Com um número compartilhado gratuito você consegue testar com 200 usuários mensais, e utilizar todas a features disponíveis na plataforma, bem como validar o funcionamento e atendimento do seu negócio por esse canal.
+[WhatsApp Demo](/pt/docs/tutorials/como-criar-um-canal-no-whatsapp-demo): usa um número compartilhado para você testar um projeto. O número compartilhado aceita até 200 usuários por mês.
 
-[Telegram](/pt/docs/tutorials/como-criar-um-canal-no-telegram), você pode conectar com um dos maiores aplicativos de troca de mensagem, para o seu público no VTEX CX Platform. Envie e receba textos, vídeos e áudios através desse canal, garantindo o conforto da sua audiência, bem como os recursos disponíveis na plataforma.
+[Telegram](/pt/docs/tutorials/como-criar-um-canal-no-telegram): envia e recebe mensagens de texto, vídeo e áudio.
 
-[VTEX CX Platform Web Chat](/pt/docs/tutorials/como-criar-um-canal-web), para ter a experiência de atendimento humanizado do VTEX CX Platform no seu site ou plataforma web. Ao integrar o canal, você consegue customizar aspectos como: Cor, espaçamento entre mensagens, indicadores de mensagem, avatar, e muito mais! Assim, garantindo um chatbot com a cara da sua marca.
+[VTEX CX Platform Web Chat](/pt/docs/tutorials/como-criar-um-canal-web): adiciona um chat ao seu site. Você pode definir a cor, o tempo entre as mensagens, os indicadores de mensagem e o avatar.
 
 Você também pode se conectar com o Facebook, e vários outros canais por meio de **Configurações > Canais**, que foram listados na documentação, como criar um canal.

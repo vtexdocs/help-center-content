@@ -3,7 +3,7 @@ title: "Campañas"
 id: 17BPSCm7jcrKSvTv3n3kWd
 status: PUBLISHED
 createdAt: 2025-09-12T18:00:29.520Z
-updatedAt: 2026-11-12T14:20:00.000Z
+updatedAt: 2026-11-13T14:40:00.000Z
 publishedAt: 2025-10-03T14:20:33.968Z
 firstPublishedAt: 2025-10-03T14:20:33.968Z
 contentType: tutorial
@@ -23,6 +23,6 @@ Los eventos temporales que componen una campaña son triggers programados para a
 
 Las campañas son nuestra forma de interactuar activamente con el contacto. Es decir, con ellas podemos hacer que la plataforma se comunique con el contacto, en lugar de depender solo de que el contacto inicie la conversación.
 
-¿Deseas solicitar una respuesta de tu contacto? ¿Recordarle algún compromiso? ¿Notificar al contacto sobre actualizaciones de su pedido? Una campaña puede ser la solución.
+Puedes usar una campaña para pedir una respuesta al contacto, recordarle un compromiso o notificar una actualización de su pedido.
 
 En los próximos artículos hablaremos sobre cómo construir tus campañas y configurar correctamente tus eventos.
