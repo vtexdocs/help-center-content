@@ -50942,21 +50942,6 @@
             },
             {
               "name": {
-                "en": "Magazine Luiza Order with error \"Object reference not set to an instance of an object\"",
-                "es": "Magazine Luiza Pedido con el error «La referencia al objeto no se ha establecido en una instancia de un objeto»",
-                "pt": "Magazine Luiza Erro no pedido: \"Referência de objeto não definida para uma instância de objeto\""
-              },
-              "slug": {
-                "en": "magazine-luiza-order-with-error-object-reference-not-set-to-an-instance-of-an-object",
-                "es": "magazine-luiza-pedido-con-el-error-la-referencia-al-objeto-no-se-ha-establecido-en-una-instancia-de-un-objeto",
-                "pt": "magazine-luiza-erro-no-pedido-referencia-de-objeto-nao-definida-para-uma-instancia-de-objeto"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Magazine Luiza Orders with APPROVED status on the marketplace are not being approved on VTEX",
                 "es": "Magazine Luiza Los pedidos con el estado «APROBADO» en el marketplace no se están aprobando en VTEX",
                 "pt": "Magazine Luiza Os pedidos com o status \"APROVADO\" no marketplace não estão sendo aprovados no VTEX"
@@ -50980,6 +50965,21 @@
                 "en": "magazine-luiza-order-canceled-on-marketplace-didnt-cancel-on-vtex",
                 "es": "magazine-luiza-el-pedido-cancelado-en-marketplace-no-se-ha-cancelado-en-vtex",
                 "pt": "magazine-luiza-pedido-cancelado-no-marketplace-mas-nao-no-vtex"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Magazine Luiza Order with error \"Object reference not set to an instance of an object\"",
+                "es": "Magazine Luiza Pedido con error \"La referencia a objeto no está establecida en una instancia de un objeto\"",
+                "pt": "Magazine Luiza Pedido com erro \"Referência de objeto não definida para uma instância de um objeto\""
+              },
+              "slug": {
+                "en": "magazine-luiza-order-with-error-object-reference-not-set-to-an-instance-of-an-object",
+                "es": "magazine-luiza-pedido-con-error-la-referencia-a-objeto-no-esta-establecida-en-una-instancia-de-un-objeto",
+                "pt": "magazine-luiza-pedido-com-erro-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto"
               },
               "origin": "",
               "type": "markdown",
@@ -51228,13 +51228,13 @@
             {
               "name": {
                 "en": "Mercado Livre Multi-Origin - orders allocated to inactive stock",
-                "es": "Mercado Livre Orígenes múltiples: pedidos asignados a existencias inactivas",
-                "pt": "Mercado Livre Multi-Origem - pedidos alocados ao estoque inativo"
+                "es": "Mercado Livre Multi-Origen - pedidos asignados a stock inactivo",
+                "pt": "Mercado Livre Multi-Origem - pedidos alocados a estoque inativo"
               },
               "slug": {
                 "en": "mercado-livre-multiorigin-orders-allocated-to-inactive-stock",
-                "es": "mercado-livre-origenes-multiples-pedidos-asignados-a-existencias-inactivas",
-                "pt": "mercado-livre-multiorigem-pedidos-alocados-ao-estoque-inativo"
+                "es": "mercado-livre-multiorigen-pedidos-asignados-a-stock-inactivo",
+                "pt": "mercado-livre-multiorigem-pedidos-alocados-a-estoque-inativo"
               },
               "origin": "",
               "type": "markdown",
@@ -70192,6 +70192,21 @@
               "origin": "",
               "type": "markdown",
               "children": []
+            },
+            {
+              "name": {
+                "en": "vtex.structured-data App settings are not applied in PDP SSR HTML",
+                "es": "vtex.structured-data La configuración de la aplicación no se aplica en PDP SSR HTML",
+                "pt": "vtex.structured-data As configurações do aplicativo não são aplicadas no PDP SSR HTML"
+              },
+              "slug": {
+                "en": "vtexstructureddata-app-settings-are-not-applied-in-pdp-ssr-html",
+                "es": "vtexstructureddata-la-configuracion-de-la-aplicacion-no-se-aplica-en-pdp-ssr-html",
+                "pt": "vtexstructureddata-as-configuracoes-do-aplicativo-nao-sao-aplicadas-no-pdp-ssr-html"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -70627,6 +70642,21 @@
                 "en": "fbe-plppdp-images-intermittently-fail-to-load-when-meta",
                 "es": "fbe-las-imagenes-plppdp-fallan-intermitentemente-al-cargarse-cuando-meta",
                 "pt": "fbe-imagens-plppdp-falham-intermitentemente-ao-carregar-o-meta"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Magalu SLA not available in Multilevel architecture",
+                "es": "Magalu SLA no disponible en arquitectura multinivel",
+                "pt": "Magalu SLA não disponível na arquitetura multinível"
+              },
+              "slug": {
+                "en": "magalu-sla-not-available-in-multilevel-architecture",
+                "es": "magalu-sla-no-disponible-en-arquitectura-multinivel",
+                "pt": "magalu-sla-nao-disponivel-na-arquitetura-multinivel"
               },
               "origin": "",
               "type": "markdown",
