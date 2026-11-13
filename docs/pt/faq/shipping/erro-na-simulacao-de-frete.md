@@ -19,7 +19,7 @@ Como proceder ao fazer uma simulação de frete e não encontrar o resultado esp
 
 Vamos desenhar aqui o passo-a-passo para conferir a configuração de Logística.
 
-Antes de começar vale a pena lembrar que a [Simulação de Frete](/pt/tutorial/simulacao-de-frete/) retorna o resultado da API de [Cálculo de SLA](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping/calculate). Recomendamos sempre o uso das API´s. Caso não tenha acesso, consulte o administrador da sua loja e confira qual perfil de acesso está associado ao seu usuário.
+Antes de começar vale a pena lembrar que a [Simulação de Frete](/pt/docs/tutorials/simulador-de-envio) retorna o resultado da API de [Cálculo de SLA](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping/calculate). Recomendamos sempre o uso das API´s. Caso não tenha acesso, consulte o administrador da sua loja e confira qual perfil de acesso está associado ao seu usuário.
 
 Para ilustrar esse artigo vamos criar um cenário em que o produto __X-Box__ não está sendo entregue no Cep 22451-451 para a política comercial 1. A mensagem de erro é esta: "_Não foi possível gerar o carrinho. Veja os detalhes abaixo_".
 
@@ -33,4 +33,4 @@ Mas o que fazer para corrigir isso?
 
 Isso depende de cada lojista, mas após reconfigurar a Logística Estoque-Doca-Transportadora talvez, também, seja necessário alterar a [planilha da transportadora](/pt/tutorial/como-montar-a-planilha-de-frete).
 
-Uma forma rápida de conferir o range de CEP´s de uma transportadora é usando a aba [Valores de Frete](/pt/tutorial/gerenciar-valores-de-frete/).
+Uma forma rápida de conferir o range de CEP´s de uma transportadora é usando a aba [Valores de Frete](/pt/docs/tutorials/gerenciar-tarifas-de-envio).

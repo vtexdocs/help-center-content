@@ -46,4 +46,4 @@ If you use external systems that rely exclusively on the phone number as the con
 
 > ⚠️ Interaction using only the BSUID depends on Meta making usernames available to WhatsApp end users. Meta hasn't announced a timeline for this release yet. So far, the behavior has been validated in simulated scenarios, and no changes to the current WhatsApp channel experience are expected.
 
-To learn more about the WhatsApp channel, see the article [WhatsApp: Integration with VTEX CX Platform](https://help.vtex.com/docs/tutorials/whatsapp-vtex-cx-platform-integration).
+To learn more about the WhatsApp channel, see the article [WhatsApp: Integration with VTEX CX Platform](https://help.vtex.com/en/docs/tutorials/whatsapp-vtex-cx-platform-integration).

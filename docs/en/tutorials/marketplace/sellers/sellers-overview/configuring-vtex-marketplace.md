@@ -41,7 +41,7 @@ The sellers are the stores that own the product and are responsible for fulfilli
 - **VTEX seller:** store hosted on the VTEX platform.  
 - **External seller:** store hosted on another ecommerce platform or not yet hosted on any platform.  
 
-To add sellers to your marketplace from the VTEX Admin, follow the instructions in [Adding a seller](/en/tutorial/configurando-seller/). You can also do this using API integration. To use the API, follow the instructions in the [External Seller Integration Guide](https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide). If the seller you want to add does not have a VTEX account or is not hosted on any platform, we suggest adding it via the [Seller Portal](#seller-portal)
+To add sellers to your marketplace from the VTEX Admin, follow the instructions in [Adding a seller](/en/docs/tutorials/adding-a-seller). You can also do this using API integration. To use the API, follow the instructions in the [External Seller Integration Guide](https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide). If the seller you want to add does not have a VTEX account or is not hosted on any platform, we suggest adding it via the [Seller Portal](#seller-portal)
 
 ### Seller Portal
 
@@ -60,7 +60,7 @@ The [catalog](/en/docs/tracks/catalog-architecture) of sellers who sell products
 
 This allows adding the products sent by the seller to the catalog of the VTEX marketplace with the equivalent information. 
 
-To complete this step, follow the instructions in [Mapping categories, brands and specifications for a marketplace](/en/tutorial/mapeando-categorias-e-marcas-para-marketplace/). 
+To complete this step, follow the instructions in [Mapping categories, brands and specifications for a marketplace](/en/docs/tutorials/mapping-categories-and-brands-for-the-marketplace). 
 
 ## Configuring the seller selection on the storefront and at checkout
 
@@ -132,5 +132,5 @@ Now that you have configured the VTEX platform to become a marketplace, you need
 
 ## Learn more
 
-- [Approving received offers](/en/tutorial/sugerindo-e-aprovando-skus/)
+- [Approving received offers](/en/docs/tutorials/manual-sku-cataloging)
 - [Shared information between a marketplace and a seller on VTEX](/en/docs/tutorials/shared-information-between-a-marketplace-and-a-seller-on-vtex)

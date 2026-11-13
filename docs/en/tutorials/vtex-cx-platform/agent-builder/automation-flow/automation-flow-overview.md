@@ -1,9 +1,9 @@
 ---
-title: "Automation flow overview"
+title: "Automation flow"
 id: 5XxzVEJtDzXXEOS0SXANeS
 status: PUBLISHED
 createdAt: 2025-09-16T16:38:04.873Z
-updatedAt: 2025-10-03T14:20:03.960Z
+updatedAt: 2026-11-12T12:20:00.000Z
 publishedAt: 2025-10-03T14:20:03.960Z
 firstPublishedAt: 2025-10-03T14:20:03.960Z
 contentType: tutorial
@@ -13,6 +13,8 @@ slugEN: automation-flow-overview
 legacySlug: flows-introduction
 locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
+seeAlso:
+  - /en/docs/tutorials/flows-creation
 ---
 
 A flow is a set of steps organized in a flowchart format. These steps are applied to your contacts when they enter the flow, meaning when they start a conversation.
@@ -21,7 +23,7 @@ In flows, these steps can be actions or decisions, which allow for the creation 
 
 ## Anatomy of a flow
 
-In the image above, we have an example of a flow for a simple survey. In it, we can see decision cards, action cards, and note cards that together form the structure for the following conversation: send a question that needs to be answered with yes or no, and from that, we have a response for each option.
+In the image above, we have an example of a flow for a survey. In it, we can see decision cards, action cards, and note cards that together form the structure for the following conversation: send a question that needs to be answered with yes or no, and from that, we have a response for each option.
 
 ## Action cards
 
@@ -57,9 +59,3 @@ These decisions are based on existing decision rules in the card, which can be:
 Note cards allow the creation of notes, similar to post-its, in our flows. They can be used as a form of communication between you and a colleague who is also working on the same project, whether to explain how a part of the flow works or to alert them that it might be better not to change that step.
 
 To create a note card, double-click on an empty space in the flow. After that, you can freely move your notes, change the background colors, and position them as you see fit.
-
-## What's next?
-
-Now that we have a better understanding of the concept of a flow and how it is formed, we can delve deeper into each of the existing cards, as well as some other settings within our editor.
-
-If you want to learn more, check out our article on [creating flows](/en/docs/tutorials/flows-creation).

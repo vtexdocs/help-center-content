@@ -48,4 +48,4 @@ To configure PagarMeV2, follow the steps below:
 ## Setting up the payment condition
 
 After completing the previous steps, __PagarMeV2__ is ready to be used in your store.
-If you want to associate it with a payment condition that is compatible with PagarMeV2, check out our article [Configuring payment conditions](/en/tutorial/condicoes-de-pagamento).
+If you want to associate it with a payment condition that is compatible with PagarMeV2, check out our article [Configuring payment conditions](/en/docs/tutorials/how-to-configure-payment-conditions).

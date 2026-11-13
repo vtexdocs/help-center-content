@@ -26,7 +26,7 @@ Atualmente, a solicitação de exclusão de dados pessoais de clientes é feita 
 
 ## O que precisa ser feito?
 
-Somente lojistas autorizados poderão solicitar a exclusão de dados de clientes via Copilot. Para conceder essa autorização aos lojistas, será necessário criar um [perfil de acesso customizado](/pt/docs/tutorials/criar-perfil-de-acesso) chamado **Lei Geral de Proteção de Dados** com os seguintes recursos do [License Manager](/pt/tutorial/license-manager-resources):
+Somente lojistas autorizados poderão solicitar a exclusão de dados de clientes via Copilot. Para conceder essa autorização aos lojistas, será necessário criar um [perfil de acesso customizado](/pt/docs/tutorials/criar-perfil-de-acesso) chamado **Lei Geral de Proteção de Dados** com os seguintes recursos do [License Manager](/pt/docs/tutorials/recursos-do-license-manager):
 - **Write user rights requests** (do produto **User Rights**);
 - **Open Support Ticket** (do produto **VTEX Support**).
 

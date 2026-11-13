@@ -21,7 +21,7 @@ El envío de productos para el marketplace pasa por dos grandes procesos: el pro
 
 Integraciones es el primer lugar que se debe considerar para entender el escenario. [Acceda y verifique el status de integración de cada producto](/es/docs/tutorials/como-verificar-la-integracion-en-bridge).
 
-Si no tiene ningún registro, puede significar que la configuración no se ha realizado correctamente, por lo tanto [revalide la configuración de mercado](/es/tutorial/integrando-con-marketplace).
+Si no tiene ningún registro, puede significar que la configuración no se ha realizado correctamente, por lo tanto [revalide la configuración de mercado](/es/docs/tutorials/estrategias-de-marketplace-en-vtex).
 
 En el registro de Integraciones, los problemas más comunes son:
 - Producto inactivo.

@@ -21,8 +21,8 @@ To configure Plexo, follow the steps below:
 7. In **Provider Fields**, complete the fields **Merchant Name**, **Merchant Id** and **Tax Return Law** according to the provider's  instructions.
 8. Click `Save`.
 
-To configure the payment methods to be processed by Plexo, access [Configuring Payment Conditions](https://help.vtex.com/docs/tutorials/how-to-configure-payment-conditions).
+To configure the payment methods to be processed by Plexo, access [Configuring Payment Conditions](https://help.vtex.com/en/docs/tutorials/how-to-configure-payment-conditions).
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/docs/tutorials/special-conditions).
+To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/en/docs/tutorials/special-conditions).
 
 After following the indicated steps, Plexo may take up to 10 minutes to appear at your store's checkout as a payment option.

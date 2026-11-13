@@ -131,7 +131,7 @@ Para mais informações, acesse [Como funciona a promoção Compre e Ganhe](http
 
 A **Promoção de Campanha** permite criar promoções voltadas a audiências específicas, oferecendo benefícios como **frete grátis**, **brindes** e **tabelas de preços promocionais**.
 
-Esse tipo de promoção é vinculado a uma [audiência de campanha](https://help.vtex.com/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K), que define o público-alvo impactado pela oferta.
+Esse tipo de promoção é vinculado a uma [audiência de campanha](https://help.vtex.com/pt/docs/tutorials/criar-audiencia-de-campanha), que define o público-alvo impactado pela oferta.
 
 > ❗Audiências de campanha e suas promoções são válidas apenas para a conta principal da loja. Contas de sellers não oferecem essa funcionalidade.
 
@@ -149,7 +149,7 @@ A seção Restrições de uso está presente em todos os tipos de promoções. V
 
   - Para as condições **Desconto nominal**, **Desconto nominal: fórmula** e **Preço máximo por item**, o limite é aplicado ao total de itens no carrinho.
 
- - Para a condição **Desconto percentual**, é permitido escolher se o limite será aplicado por carrinho, por produto ou por SKU. Para mais informações sobre descontos nessas  condições , acesse a [Promoção Regular](https://help.vtex.com/pt/tutorial/regular-promotion--tutorials_327).
+ - Para a condição **Desconto percentual**, é permitido escolher se o limite será aplicado por carrinho, por produto ou por SKU. Para mais informações sobre descontos nessas  condições , acesse a [Promoção Regular](https://help.vtex.com/pt/docs/tutorials/promocao-regular-pt).
 
  A tabela a seguir mostra em quais tipos de promoção cada restrição pode ser aplicada:
 

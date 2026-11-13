@@ -36,7 +36,7 @@ You now have a pricing rule configured for a sales policy.
 
 ## Learn more
 
-- [Marketplace strategies at VTEX](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
+- [Marketplace strategies at VTEX](/en/docs/tutorials/marketplace-strategies-at-vtex)
 - [How sales channels work](/en/docs/tutorials/how-trade-policies-work)
 - [Creating a sales channel](/en/docs/tutorials/creating-a-trade-policy)
 - [Configuring a marketplace sales channel](/en/docs/tutorials/configuring-a-marketplace-trade-policy)

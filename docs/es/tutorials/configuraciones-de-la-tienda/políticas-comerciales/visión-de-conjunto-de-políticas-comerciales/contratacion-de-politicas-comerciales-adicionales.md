@@ -28,7 +28,7 @@ Para más información, consulta el artículo [Crear una política comercial](ht
 
 ## Reglas de costos
 
-Cada cliente VTEX tiene valores definidos en su contrato para la compra de políticas comerciales adicionales, y estas tienen un costo. Tenga en cuenta que cada cuenta VTEX ya cuenta con una [póliza comercial nativa](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV?&amp;utm_source=autocomplete), que no se rige por estas normas de facturación.
+Cada cliente VTEX tiene valores definidos en su contrato para la compra de políticas comerciales adicionales, y estas tienen un costo. Tenga en cuenta que cada cuenta VTEX ya cuenta con una [póliza comercial nativa](/es/docs/tutorials/como-funciona-una-politica-comercial?&amp;utm_source=autocomplete), que no se rige por estas normas de facturación.
 
 Se cobra una tarifa mensual por cada política comercial adicional, independientemente de si se utiliza para la integración con marketplaces certificados, partners, externos o VTEX. 
 

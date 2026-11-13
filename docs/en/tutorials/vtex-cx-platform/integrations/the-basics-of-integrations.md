@@ -1,9 +1,9 @@
 ---
-title: "The basics of integrations"
+title: "Integrations"
 id: 5x9gjiQTdD6lrQLJziRozj
 status: PUBLISHED
 createdAt: 2025-09-15T15:52:46.844Z
-updatedAt: 2025-10-03T14:20:32.177Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.177Z
 firstPublishedAt: 2025-10-03T14:20:32.177Z
 contentType: tutorial

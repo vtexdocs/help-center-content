@@ -71,7 +71,7 @@ To learn more, check out the following articles:
 - [All Products](/en/docs/tutorials/product-list)    
 - [How to create a product](/en/docs/tutorials/how-to-create-a-product)  
 - [Categories](/en/docs/tutorials/seller-portal-categories)    
-- [Brands](/en/entutorial/brands-beta--3QvNtxO57U0QPNOGutv7Sy)
+- [Brands](/en/docs/tutorials/seller-portal-brands)
 - [Seller Portal: Shared Products](/en/docs/tutorials/seller-portal-shared-products)    
 - [Seller Portal: Product details](/en/docs/tutorials/seller-portal-product-details)     
 
@@ -81,7 +81,7 @@ For a product to be sold, your customer needs to know how much each item display
 
  To learn more, check out the following articles:  
 
-- [Pricing Module Overview](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP)  
+- [Pricing Module Overview](/en/docs/tracks/prices-101)  
 - [Adding a base price](/en/docs/tracks/cadastrar-preco-base)  
 
 ### 3. Logistics
@@ -115,7 +115,7 @@ __Seller processing payment:__ if the seller is allocated as the payment process
 
 To learn more, check out the following articles:  
 
-- [How the Payments module works](/en/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG)    
+- [How the Payments module works](/en/docs/tracks/configuring-a-payment-condition)    
 - [How payment split between the seller and the marketplace works](/en/docs/tutorials/split-payment)    
 - [Configuring affiliates](/en/docs/tutorials/configuring-affiliates)    
 - [Configuring payment connectors](/en/docs/tracks/configuring-payment-connectors)     

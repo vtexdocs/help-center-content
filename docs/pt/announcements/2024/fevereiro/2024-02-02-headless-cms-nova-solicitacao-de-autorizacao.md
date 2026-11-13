@@ -41,7 +41,7 @@ Certifique-se de que os usuários do Headless CMS (Legacy) estejam associados ao
 
 ### Criar um novo perfil de acesso
 
-Se você ainda não criou um perfil de acesso específico para os usuários do Headless CMS (Legacy) e deseja criar um, acesse o guia [Criando um perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete#creating-a-role). Não deixe de associar o perfil de acesso aos recursos `CMS GraphQL API`, `See CMS menu on the top-bar` e `Settings` na seção **Produtos e recursos**.
+Se você ainda não criou um perfil de acesso específico para os usuários do Headless CMS (Legacy) e deseja criar um, acesse o guia [Criando um perfil de acesso](/pt/docs/tutorials/perfis-de-acesso?&utm_source=autocomplete#creating-a-role). Não deixe de associar o perfil de acesso aos recursos `CMS GraphQL API`, `See CMS menu on the top-bar` e `Settings` na seção **Produtos e recursos**.
 
 ### Editar um perfil de acesso
 

@@ -37,7 +37,7 @@ To create a shipping policy, follow the steps below:
   - **Minimum weight factor:** Uses the cubic weight only if it exceeds this value. If this is the case, the cubic weight will be used to calculate the shipping rate.
 - **Weekends and holidays:** Days on which deliveries can be made. Click the toggle switches to enable or disable delivery in the following scenarios: `Saturday delivery`, `Sunday delivery`, `Holiday delivery`.
 
-> ⚠️ To offer shipping on weekends, you must check the `Saturday shipping` and `Sunday shipping` options and include Saturday and Sunday in the [Business hours](/docs/tutorials/carrier-working-hours) settings of the shipping policy. If the day is set in the business hours but the corresponding option isn't active, weekend delivery won't be offered to the customer at checkout.
+> ⚠️ To offer shipping on weekends, you must check the `Saturday shipping` and `Sunday shipping` options and include Saturday and Sunday in the [Business hours](/en/docs/tutorials/carrier-working-hours) settings of the shipping policy. If the day is set in the business hours but the corresponding option isn't active, weekend delivery won't be offered to the customer at checkout.
 
 - **[Active modals](/en/docs/tutorials/how-does-the-modal-work):** Specifications for products that require special delivery. They indicate product shipping limitations covered by the shipping policy. Check the boxes to enable delivery for the following items: `chemicals`, `electronics`, `furniture`, `glass`, `liquids`, `mattresses`, `refrigerated products`, `tires`, `appliances`, and `firearms`.
 - **Package items:** Specification for the price and number of items in the package:

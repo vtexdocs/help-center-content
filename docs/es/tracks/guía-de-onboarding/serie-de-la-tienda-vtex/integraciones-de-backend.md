@@ -230,9 +230,9 @@ Para más información sobre la importación de stock al back office, consulta [
 
  ### Datos de clientes
 
-La importación de datos de clientes permite integrar los datos de los clientes de otros sistemas, como aplicaciones de CRM, con VTEX. De forma predeterminada, VTEX almacena los datos de los clientes en [Master Data V1](/es/docs/tutorials/master-data).
+La importación de datos de clientes permite integrar los datos de los clientes de otros sistemas, como aplicaciones de CRM, con VTEX. De forma predeterminada, VTEX almacena los datos de los clientes en [Master Data V1](/es/docs/tutorials/master-data-es).
 
-Los datos de Master Data se organizan en [entidades de datos](/es/docs/tutorials/master-data#entidades-de-dados) análogas a tablas en otros sistemas de bases de datos, cuyos [documentos](/es/docs/tutorials/master-data#documentos) son el equivalente de filas o registros. Los datos de perfil de los clientes se almacenan en la entidad `CL` y sus direcciones en la entidad `AD`.
+Los datos de Master Data se organizan en [entidades de datos](/es/docs/tutorials/master-data-es#entidades-de-dados) análogas a tablas en otros sistemas de bases de datos, cuyos [documentos](/es/docs/tutorials/master-data-es#documentos) son el equivalente de filas o registros. Los datos de perfil de los clientes se almacenan en la entidad `CL` y sus direcciones en la entidad `AD`.
 
 Los pasos para importar los datos de clientes son:
 

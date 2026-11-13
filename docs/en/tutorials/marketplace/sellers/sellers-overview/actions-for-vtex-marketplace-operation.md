@@ -33,7 +33,7 @@ When planning your operation as a VTEX marketplace, set aside some time to ident
 
 If you want to find new partners to sell in your marketplace, use the __Find sellers__ which facilitates the identification of and communication between marketplaces and sellers operating in the VTEX ecosystem. To access this page, log in to your VTEX Admin and go to **Marketplace > Sellers > Find sellers.**
 
-To add new sellers to your marketplace from the VTEX Admin, follow the instructions in [Adding a seller](/en/tutorial/configurando-seller/). You can also do this using API integration. To use the API, follow the instructions in the [External seller integration guide](https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide). 
+To add new sellers to your marketplace from the VTEX Admin, follow the instructions in [Adding a seller](/en/docs/tutorials/adding-a-seller). You can also do this using API integration. To use the API, follow the instructions in the [External seller integration guide](https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide). 
 
 ## Analyzing seller results
 
@@ -53,7 +53,7 @@ This tool is recommended for marketplaces that want to have more control over th
 
 A product submitted by a seller to a marketplace with price and inventory information becomes an offer. However, before the product is available for sale, the marketplace needs to review and approve the offer in a process called offer cataloging. Cataloging allows you to create new products and associate offers with SKUs or existing products to make them available for sale.
 
-The cataloging process is performed on the [Received SKUs](/en/tutorial/sugerindo-e-aprovando-skus/) page, in the **MARKETPLACE > Sellers** menu of your VTEX Admin, or using the [Match Received SKUs](https://developers.vtex.com/vtex-rest-api/reference/match) API. 
+The cataloging process is performed on the [Received SKUs](/en/docs/tutorials/manual-sku-cataloging) page, in the **MARKETPLACE > Sellers** menu of your VTEX Admin, or using the [Match Received SKUs](https://developers.vtex.com/vtex-rest-api/reference/match) API. 
 
 > ℹ️ Before approving an offer, it is important to ensure that the product information submitted by the seller matches your business strategy. When listing offers, consider the quality of the information submitted by the seller, such as price, product description, and image.
 

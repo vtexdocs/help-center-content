@@ -35,7 +35,7 @@ You can activate a discount linked to a payment method in two steps: First, [con
 To configure a discount linked to a payment method, see the following documentation:
 
 1. [Set a discount using the checkout API](https://developers.vtex.com/docs/guides/set-a-discount-using-the-checkout-api) to enter the desired payment method in the `paymentSystemToCheckFirstInstallment` variable and simulate a shopping cart to make sure the payment method was updated.  
-2. [Configuring a discount for orders paid in full](/en/docs/tutorials/configuring-a-discount-for-orders-prepaid-in-full) to link an SKU to a payment method.  
+2. [Configuring a discount for orders paid in full](/en/docs/tutorials/configuring-a-pay-in-full-discount) to link an SKU to a payment method.  
 3. [Configuring discounts for orders paid in full on Google Shopping](/en/docs/tutorials/configuring-discounts-for-orders-prepaid-in-full-on-google-shopping).  
 
 After following these instructions, you should activate the connector by [configuring the connector](/en/docs/tracks/configuring-the-connector).

@@ -8,7 +8,7 @@ slugEN: collaboration-workflows
 locale: pt
 ---
 
-Ao colaborar com uma equipe, as [branches](https://help.vtex.com/en/docs/tutorials/managing-versions-and-branches) oferecem funcionalidades essenciais para facilitar os processos de edição e revisão de conteúdo. Elas permitem que vários colaboradores trabalhem juntos de forma eficiente, mantendo o controle de diferentes versões de conteúdo.
+Ao colaborar com uma equipe, as [branches](https://help.vtex.com/pt/docs/tutorials/gerenciando-versoes-e-branches) oferecem funcionalidades essenciais para facilitar os processos de edição e revisão de conteúdo. Elas permitem que vários colaboradores trabalhem juntos de forma eficiente, mantendo o controle de diferentes versões de conteúdo.
 
 ## Awareness multiusuário
 

@@ -21,7 +21,7 @@ This article explains how to locate and download these documents in the VTEX Adm
 
 ## Before you begin
 
-To access this section of the VTEX Admin, you need to have a financial role. To learn how to configure this role, see [Creating a financial role](/en/docs/tutorials/creating-a-financial-role) or ask the store owner to adjust your permissions.
+To access this section of the VTEX Admin, you need to have a financial role. To learn how to configure this role, see [Creating a financial role](/en/docs/tutorials/creating-a-financial-access-profile) or ask the store owner to adjust your permissions.
 
 ## Instructions
 

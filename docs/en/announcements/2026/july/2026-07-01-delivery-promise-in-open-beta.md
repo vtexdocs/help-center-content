@@ -14,7 +14,7 @@ tags:
   - Logistics
 ---
 
-VTEX is releasing the [Delivery Promise](https://help.vtex.com/docs/tutorials/delivery-promise-beta) feature in open beta, which allows buyers to see, while browsing, only the products they can actually purchase, considering inventory availability and the [delivery options](https://help.vtex.com/docs/tutorials/delivery-options-beta) valid for the delivery address provided.
+VTEX is releasing the [Delivery Promise](https://help.vtex.com/en/docs/tutorials/delivery-promise) feature in open beta, which allows buyers to see, while browsing, only the products they can actually purchase, considering inventory availability and the [delivery options](https://help.vtex.com/en/docs/tutorials/delivery-options-beta) valid for the delivery address provided.
 
 By knowing the buyer's location from the very start of the journey, the store can display a more precise and relevant assortment, including information about delivery times and available shipping methods from the earliest stages of the purchase.
 
@@ -29,16 +29,16 @@ With Delivery Promise, the shopping experience now takes the buyer's location in
 
 ## What needs to be done?
 
-In the open beta phase, interested merchants can test the feature by contacting [our Support team](https://help.vtex.com/support). To use it, you need to:
+In the open beta phase, interested merchants can test the feature by contacting [our Support team](https://help.vtex.com/en/support). To use it, you need to:
 
-- Use [Intelligent Search](https://help.vtex.com/docs/tutorials/intelligent-search-overview).
-- Use [Delivery Options](https://help.vtex.com/docs/tutorials/delivery-options-beta) for navigation filters.
+- Use [Intelligent Search](https://help.vtex.com/en/docs/tutorials/intelligent-search-overview).
+- Use [Delivery Options](https://help.vtex.com/en/docs/tutorials/delivery-options-beta) for navigation filters.
 - Make sure external sellers implement the [Delivery Promise Notification API](https://developers.vtex.com/docs/api-reference/delivery-promise-notification-api).
 - Know the buyer's location from the very beginning of the buying journey through automatic capture via a browser plugin, inference from the device's IP address, or the address provided by the buyer.
 
-To learn more about how to configure and use this feature, check the main article [Delivery Promise (Beta)](https://help.vtex.com/docs/tutorials/delivery-promise-beta) and the additional materials below:
+To learn more about how to configure and use this feature, check the main article [Delivery Promise (Beta)](https://help.vtex.com/en/docs/tutorials/delivery-promise) and the additional materials below:
 
-- [Delivery Promise: FAQ](https://help.vtex.com/docs/tutorials/delivery-promise-faq)
+- [Delivery Promise: FAQ](https://help.vtex.com/en/docs/tutorials/delivery-promise-faq)
 - [Setting up Delivery Promise components (Beta)](https://developers.vtex.com/docs/guides/setting-up-delivery-promise-components)
 - [Delivery Promise for FastStore](https://developers.vtex.com/docs/guides/faststore/features-delivery-promise)
 - [Delivery Promise for headless stores (Beta)](https://developers.vtex.com/docs/guides/delivery-promise-for-headless-stores)

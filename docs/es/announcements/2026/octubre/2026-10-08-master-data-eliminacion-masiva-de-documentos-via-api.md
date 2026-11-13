@@ -12,7 +12,7 @@ tags:
   - Master Data
 ---
 
-Las tiendas VTEX ahora cuentan con la eliminación en masa de documentos de [Master Data](/es/docs/tutorials/master-data) por API. Esta función está en beta abierta. Con el nuevo recurso, puedes remover de una sola vez todos los documentos de una [entidad de datos](/es/docs/tutorials/entidade-de-datos) que cumplan con un filtro.
+Las tiendas VTEX ahora cuentan con la eliminación en masa de documentos de [Master Data](/es/docs/tutorials/master-data-es) por API. Esta función está en beta abierta. Con el nuevo recurso, puedes remover de una sola vez todos los documentos de una [entidad de datos](/es/docs/tutorials/entidade-de-datos) que cumplan con un filtro.
 
 ## ¿Qué cambió?
 
@@ -22,7 +22,7 @@ Antes, la única forma de eliminar documentos era recorrer la entidad de datos y
 
 ## ¿Por qué cambió?
 
-El uso de [entidades de datos personalizadas](/es/docs/tutorials/master-data#entidades-de-datos-personalizadas) se factura mensualmente, en rangos que varían según el volumen total de documentos almacenados. Eliminar los documentos por API es la única forma de reducir ese volumen, ya que borrar una entidad de datos desde la interfaz de Master Data v1 no elimina los documentos ya almacenados.
+El uso de [entidades de datos personalizadas](/es/docs/tutorials/master-data-es#entidades-de-datos-personalizadas) se factura mensualmente, en rangos que varían según el volumen total de documentos almacenados. Eliminar los documentos por API es la única forma de reducir ese volumen, ya que borrar una entidad de datos desde la interfaz de Master Data v1 no elimina los documentos ya almacenados.
 
 ## ¿Qué se necesita hacer?
 
@@ -31,6 +31,6 @@ No es necesaria ninguna acción. Cuando necesites reducir el volumen de document
 ## Más información
 
 * [Deleting documents in bulk in Master Data](https://developers.vtex.com/docs/guides/deleting-documents-in-bulk-in-master-data)
-* [Master Data](/es/docs/tutorials/master-data)
+* [Master Data](/es/docs/tutorials/master-data-es)
 * [Consultar el uso de Master Data en el Admin VTEX](/es/docs/tutorials/consultar-el-uso-de-master-data-en-el-admin-vtex)
 * [La facturación de Master Data no disminuyó después de eliminar una entidad de datos](/es/docs/tutorials/la-facturacion-de-master-data-no-disminuyo-despues-de-eliminar-una-entidad-de-datos)

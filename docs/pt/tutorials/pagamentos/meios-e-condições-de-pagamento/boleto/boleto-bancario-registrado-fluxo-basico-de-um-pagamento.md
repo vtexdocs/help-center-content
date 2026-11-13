@@ -1,44 +1,64 @@
 ---
-title: 'Boleto Bancário Registrado - Fluxo básico de pagamento'
-id: 1WlPkeueWQiykUwW8mcM4S
-status: PUBLISHED
+title: 'Boleto bancário registrado: fluxo básico de pagamento'
 createdAt: 2019-01-24T21:38:41.612Z
-updatedAt: 2019-12-31T15:22:32.884Z
-publishedAt: 2019-12-31T15:22:32.884Z
-firstPublishedAt: 2019-01-24T21:38:41.989Z
+updatedAt: 2026-10-29T15:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: authors_59
 slugEN: registered-ticket-flow
-legacySlug: boleto-bancario-registrado-fluxo-basico-de-um-pagamento
 locale: pt
-subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
+hidden: false
 ---
 
-O boleto bancário registrado é um dos __meios de pagamento__ que pode ser utilizado para o fechamento de compras em sua loja. Ele é composto por campos específicos que asseguram que o pagamento chegue corretamente ao seu destino final. 
+O boleto bancário registrado é um dos meios de pagamento que podem ser utilizados para o fechamento de compras em sua loja. Antes da emissão, o banco registra o boleto com os dados do cliente que está realizando a compra, como nome e CPF, e esses dados também são exibidos no boleto. Para impedir que fraudadores acessem essas informações, a loja solicita o login do cliente quando ele escolhe o boleto registrado como meio de pagamento e quando baixa o boleto na página de confirmação do pedido (**Order Placed**).
 
-Para emitir estes títulos, sua loja deve entrar em contato com alguma instituição financeira que possa emitir os boletos registrados.
+Para emitir boletos registrados, sua loja precisa ter contrato com um banco ou provedor de pagamento que emita esse tipo de boleto, cadastrar esse provedor no Admin VTEX e criar uma condição de pagamento de boleto bancário processada por ele. Os passos estão em [Configurar boleto bancário](/pt/docs/tutorials/como-configurar-boleto-bancario).
 
-A seguir, veremos como funciona o fluxo básico de um pagamento com boleto registrado. O fluxo é dividido em duas partes: __Emissão do Boleto__ e __Conciliação Bancária__.
+O fluxo básico de um pagamento com boleto registrado é dividido em duas partes: [Emissão do boleto](#emissao-do-boleto) e [Pagamento do boleto e conciliação bancária](#pagamento-do-boleto-e-conciliacao-bancaria).
  
-## Emissão do Boleto
+## Emissão do boleto
 
-![Frame 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/meios-e-condições-de-pagamento/boleto/boleto-bancario-registrado-fluxo-basico-de-um-pagamento_1.png)
+O diagrama a seguir mostra a emissão do boleto, da solicitação da sua loja até o envio do link ao cliente:
 
-1. Seu __e-commerce__ informa ao __Gateway__ que um pedido será pago através de boleto bancário.
-2. O gateway entra em contato com o __Banco__ para realizar o registro do boleto.
+```mermaid
+sequenceDiagram
+    autonumber
+    participant L as Sua loja
+    participant G as Gateway
+    participant B as Banco
+    actor C as Cliente
+    L->>G: Informa que o pedido será pago com boleto
+    G->>B: Solicita o registro do boleto
+    B->>G: Emite o boleto e envia as informações
+    G->>L: Envia o link do boleto
+    L->>C: Envia o link para pagamento
+```
+
+1. Sua loja informa ao gateway que um pedido será pago através de boleto bancário.
+2. O gateway entra em contato com o banco para realizar o registro do boleto.
 3. O banco emite o boleto e envia suas informações para o gateway.
 4. O gateway gera o link do boleto e envia para sua loja.
 5. Sua loja envia o link do boleto para seu cliente realizar o pagamento.
 
 Neste momento, o boleto ainda não foi pago pelo cliente.
 
-## Pagamento do Boleto e Conciliação Bancária
+## Pagamento do boleto e conciliação bancária
 
-![Frame 2.1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/meios-e-condições-de-pagamento/boleto/boleto-bancario-registrado-fluxo-basico-de-um-pagamento_2.png)
+O diagrama a seguir mostra o pagamento do boleto e a conciliação bancária, do pagamento feito pelo cliente até a notificação da sua loja:
 
-1. O __Cliente__ paga o boleto diretamente ao __Banco__.
-2. O banco envia para o __Gateway__ os arquivos de [conciliação bancária](/pt/docs/tutorials/conciliacoes-bancarias) com as informações sobre o status de pagamento dos boletos.
-3. O gateway notifica seu __e-Commerce__ sobre os boletos pagos.
+```mermaid
+sequenceDiagram
+    autonumber
+    actor C as Cliente
+    participant B as Banco
+    participant G as Gateway
+    participant L as Sua loja
+    C->>B: Paga o boleto
+    B->>G: Envia os arquivos de conciliação bancária
+    G->>L: Notifica os boletos pagos
+```
 
-Nesta etapa, a entrega do pedido já pode prosseguir normalmente.
+1. O cliente paga o boleto diretamente ao banco.
+2. O banco envia para o gateway os arquivos de [conciliação bancária](/pt/docs/tutorials/conciliacoes-bancarias) com as informações sobre o status de pagamento dos boletos.
+3. O gateway notifica sua loja sobre os boletos pagos.
+
+Com essa notificação, o pagamento é aprovado na VTEX e a entrega do pedido pode prosseguir normalmente. Até lá, o pedido permanece com o status __Pagamento Pendente__, como descrito em [Como é feita a aprovação de pagamento do boleto?](/pt/docs/tutorials/como-e-feita-a-aprovacao-de-pagamento-do-boleto). Se o cliente não pagar o boleto até o vencimento, o pedido é cancelado após os prazos explicados em [Em quanto tempo um pedido de boleto sem pagamento é cancelado?](/pt/docs/tutorials/em-quanto-tempo-um-pedido-de-boleto-sem-pagamento-e-cancelado).

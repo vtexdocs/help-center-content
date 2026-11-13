@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
-A partir da página **Catálogo > Categorias** no Admin VTEX, é possível realizar ações relacionadas às [categorias](/pt/tutorial/cadastrando-categoria) configuradas na sua loja. Confira as seções a seguir para saber como realizar cada ação:
+A partir da página **Catálogo > Categorias** no Admin VTEX, é possível realizar ações relacionadas às [categorias](/pt/docs/tutorials/cadastrar-uma-categoria) configuradas na sua loja. Confira as seções a seguir para saber como realizar cada ação:
 
 * [Inativar uma categoria](#inativar-uma-categoria)
 * [Alterar a ordem de subcategorias](#alterar-a-ordem-de-subcategorias)

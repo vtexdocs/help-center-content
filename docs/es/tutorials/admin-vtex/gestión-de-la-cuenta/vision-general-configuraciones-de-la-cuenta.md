@@ -27,7 +27,7 @@ La sección incluye las siguientes páginas, que pronto se incluirán en el dise
 
 ## Roles de usuario
 
-Esta página define las funcionalidades que el usuario podrá ver y/o modificar dentro de cada módulo de la plataforma. Para más información sobre la página, consulta el artículo [Perfiles de acceso](/es/tutorial/como-criar-perfil-de-acesso/).
+Esta página define las funcionalidades que el usuario podrá ver y/o modificar dentro de cada módulo de la plataforma. Para más información sobre la página, consulta el artículo [Perfiles de acceso](/es/docs/tutorials/roles).
 
 ## Cuenta
 

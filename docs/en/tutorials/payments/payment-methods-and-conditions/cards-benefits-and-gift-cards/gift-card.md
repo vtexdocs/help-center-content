@@ -68,7 +68,7 @@ To create more than one new voucher at the same time (a batch), follow the step 
 
 > ⚠️ The “Number of gift cards”, “Value” and the “Expiration Date” fields are **mandatory**. If you don’t fill them, the purchase vouchers will not be saved.
 
-> ❗ The feature that creates gift cards limited by product collections is not working. More details about this issue are provided in the article [Collection functionality doesn't work on Giftcard](https://help.vtex.com/known-issues/collection-functionality-doesnt-work-on-giftcard).
+> ❗ The feature that creates gift cards limited by product collections is not working. More details about this issue are provided in the article [Collection functionality doesn't work on Giftcard](https://help.vtex.com/en/known-issues/collection-functionality-doesnt-work-on-giftcard).
 
    - **Reloadable**: while these vouchers are available, their balances can be changed.
    - **Reusable**: it will be possible to make new purchases with these vouchers until their values are fully used.
@@ -100,7 +100,7 @@ Follow the steps below to set up the Gift card:
 10. Activate the condition in the **Status** field.
 11. Under **Process with provider**, select the desired giftcard provider.
 12. If you want to use an anti-fraud system, select the option **Use anti-fraud solution**.
-13. If you want, you can also [configure special payment conditions](https://help.vtex.com/docs/tutorials/special-conditions).
+13. If you want, you can also [configure special payment conditions](https://help.vtex.com/en/docs/tutorials/special-conditions).
 14. Click on `Save`.
 
 ## How to manage your voucher

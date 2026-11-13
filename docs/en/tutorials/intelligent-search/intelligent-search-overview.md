@@ -29,7 +29,7 @@ The tool has features such as:
 * Autocorrect: Handles typos and spelling mistakes, such as plural and singular variations and gender variations in words that share the same radical.  
 * Customization: Offers customizable features such as Relevance, Synonyms, and Merchandising Rules, which make it possible to improve the customer experience and meet the store's business needs.
 
-> ℹ️ Learn how to get started with Intelligent Search in the [Getting Started track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ℹ️ Learn how to get started with Intelligent Search in the [Getting Started track](/en/docs/tracks/implementing-the-search-in-your-store-frontend).
 
 In the articles listed below, you will find an overview of Intelligent Search's main features.
 

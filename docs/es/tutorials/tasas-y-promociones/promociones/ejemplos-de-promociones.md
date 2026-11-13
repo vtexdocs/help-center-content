@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Este artículo está dedicado a ilustrar algunos escenarios de promoción comunes y cómo configurarlos en VTEX. Estos escenarios no cubren todas las posibilidades de promociones de VTEX, ya que las capacidades de configuración contemplan diferentes tipos de situaciones. Al final, usted encontrará una lista de artículos relacionados con el menú Promociones. Para una introducción a este menú, consulte nuestra [sección de Promociones](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR).
+Este artículo está dedicado a ilustrar algunos escenarios de promoción comunes y cómo configurarlos en VTEX. Estos escenarios no cubren todas las posibilidades de promociones de VTEX, ya que las capacidades de configuración contemplan diferentes tipos de situaciones. Al final, usted encontrará una lista de artículos relacionados con el menú Promociones. Para una introducción a este menú, consulte nuestra [sección de Promociones](/es/docs/tutorials/promociones).
 
 ## Escenario 1
 

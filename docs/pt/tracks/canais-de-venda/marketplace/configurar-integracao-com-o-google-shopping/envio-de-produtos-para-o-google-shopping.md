@@ -3,7 +3,7 @@ title: 'Envio de produtos para o Google Shopping'
 id: 5L5LnccDCj5lJk8H95GQ82
 status: PUBLISHED
 createdAt: 2021-04-15T14:10:45.645Z
-updatedAt: 2025-09-08T17:53:08.339Z
+updatedAt: 2026-11-04T17:45:00.000Z
 publishedAt: 2025-09-08T17:53:08.339Z
 firstPublishedAt: 2021-04-15T17:41:23.772Z
 contentType: trackArticle
@@ -17,33 +17,6 @@ order: 7
 
 No Google Shopping somente [catálogos](/pt/docs/tracks/catalogo-definicao-de-conceito) são integrados. Ao contrário de outras integrações, **não é necessário mapear os produtos através de planilha**.
 
-## Reindexar base
-
-Após a configuração da integração e autenticação da sua conta, o envio de produtos para o marketplace não é automático, é necessário [reindexar a base](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao). Esse processo prepara os dados dos SKUs e produtos e envia para o marketplace informações gerais sobre catálogo, preço e estoque. 
-
-> ℹ️ Somente o [usuário Titular (owner)](/pt/docs/tracks/o-que-e-o-usuario-master) tem permissão para reindexar a base de uma loja VTEX. Durante o período de reindexação, que é variável, os produtos entram numa fila para atualização de dados, mas seguem disponíveis para venda no site da loja.
-
-Para reindexar a base, copie o endereço abaixo no seu navegador, substituindo `{nomedaloja}` pelo nome da sua loja:
-
-`{nomedaloja}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`
-
-Ao acessar o endereço, clique no botão `Reindexar Base`. O processo pode ser acompanhado pelo Admin VTEX, em **Catálogo > Relatórios**.
-
-### Checar indexação
-
-É possível conferir se um SKU específico foi corretamente indexado à política comercial da integração. Para isso, siga os passos abaixo:
-
-1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**.
-2. Clique no botão menu <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
-3. Clique na opção **Ver informações de indexação.**  
-4. Verifique o status de cada SKU. 
-
-Veja abaixo as mensagens para cada status de indexação:
-
-| Status | Tipo de mensagem |
-|---|---|
-| SKUs indexados | Sku: 70 - variação amarela tênis Sales Channel: 1 Sku: 70 Price: 1740.00 Stock: 1 Quantity Sold last month SalesChannel: 1, Sales: 0 |
-| SKUs não indexados | Sku: 112 - variação azul tênis Sales Channel: 1 Sku: 112 Sku is UNAVAILABLE - check price and stock, Checkout Info: Code: withoutStock \| Status:error \| Message: O item Tênis Action - Masculino - Marinho/prata variação amarela tênis não tem estoque Quantity Sold last month SalesChannel: 1, Sales: -1 |
 ## Aprovação de produtos
 
 A aprovação dos seus produtos pelo Google vai torná-los ativos, e isso imediatamente fará com que eles figurem como anúncios no Google Shopping.

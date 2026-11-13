@@ -21,12 +21,12 @@ Neste guia, confira como configurar as localidades da sua loja.
 
 | Conceito | Descrição |
 | ---- | ---- |
-| **[Estratégias de fallback de localidade](/pt/docs/tutorials/understanding-locale-fallback-rules):** | Define qual conteúdo o sistema exibe quando uma localidade não tem seu próprio conteúdo localizado. |
+| **[Estratégias de fallback de localidade](/pt/docs/tutorials/entendendo-as-regras-de-fallback-de-localidade):** | Define qual conteúdo o sistema exibe quando uma localidade não tem seu próprio conteúdo localizado. |
 | [**Conexão de localidade com bindings:**](#como-as-localidades-se-conectam-aos-bindings)| Explica como o storefront escolhe a localidade correta com base na configuração do binding. |
 
 <!-- * Para storefronts [FastStore](https://developers.vtex.com/docs/guides/faststore): Você deve implementar o recurso de Localização no projeto da loja. Para isso, siga as instruções em Gerenciando a internacionalização com o recurso de Localização. -->
 
-* Certifique-se de que o seguinte [recurso](https://help.vtex.com/pt/docs/tutorials/license-manager-resources) esteja associado ao seu [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/roles):
+* Certifique-se de que o seguinte [recurso](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager) esteja associado ao seu [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso):
 
 | Produto | Categoria | Recurso |
 | ---- | ---- | ---- |
@@ -65,8 +65,8 @@ Para criar uma nova localidade para sua loja, siga estas etapas:
     | **Nome** | Adicione o nome da localidade. | `Inglês (EUA)` |
     | **Ativo** | Selecione esta caixa para tornar a localidade disponível na sua loja após criá-la. | - |
     | **Tornar esta a localidade padrão** | Selecione esta opção para definir a localidade como padrão. A localidade padrão serve como fonte principal de conteúdo e como fallback para outras localidades. Ao criar sua primeira localidade, você deve selecionar esta opção. É possível alterar a localidade padrão posteriormente. | - |
-    | **Idioma** | Selecione os idiomas disponíveis. Para mais informações, consulte a lista de [Idiomas compatíveis](/pt/docs/tutorials/supported-languages-and-regions#idiomas-compativeis). | `Inglês (en)` |
-    | **Região** | Selecione a região disponível. Para mais informações, consulte a lista de [Regiões compatíveis](/pt/docs/tutorials/supported-languages-and-regions#regioes-compativeis). | `Canadá (CA)` |
+    | **Idioma** | Selecione os idiomas disponíveis. Para mais informações, consulte a lista de [Idiomas compatíveis](/pt/docs/tutorials/idiomas-e-regioes-compativeis#idiomas-compativeis). | `Inglês (en)` |
+    | **Região** | Selecione a região disponível. Para mais informações, consulte a lista de [Regiões compatíveis](/pt/docs/tutorials/idiomas-e-regioes-compativeis#regioes-compativeis). | `Canadá (CA)` |
     | **Localidade de fallback** | Selecione a localidade exibida quando o conteúdo não está disponível na localidade. Para criar uma localidade de fallback, siga as instruções em [Definir uma localidade de fallback](#definir-uma-localidade-de-fallback). | `en-US` |
 
 2. Após preencher os campos acima, clique em `Criar`.

@@ -157,4 +157,4 @@ __1-__ Para cambiar el status a __Shipped__, será necesario:
 `invoiceKey`, `invoiceNumber`, `trackingUrl`, `trackingNumber`, `courier`, `issuanceDate`.
 
 __2-__ Para cambiar el pedido con la información de __entregado al cliente__, será necesario:
-`courierStatus`: ese campo puede ser populado de modo automático (vía [actualizaciones de rastreo de las propias transportadoras](/es/faq/quais-transportadoras-disponibilizam-o-rastreio-de-frete)) o manual, vía API o interfaz del Pedidos (en Gestión de pedidos). Cuando el campo devuelve `finished=true`, la integración envía la información al marketplace. Si el campo devuelve `finished=false`, el pedido no se cambia con la información de envío.
+`courierStatus`: ese campo puede ser populado de modo automático (vía [actualizaciones de rastreo de las propias transportadoras](/es/docs/tutorials/que-transportadoras-ponen-a-disposicion-el-rastreo-de-pedido)) o manual, vía API o interfaz del Pedidos (en Gestión de pedidos). Cuando el campo devuelve `finished=true`, la integración envía la información al marketplace. Si el campo devuelve `finished=false`, el pedido no se cambia con la información de envío.

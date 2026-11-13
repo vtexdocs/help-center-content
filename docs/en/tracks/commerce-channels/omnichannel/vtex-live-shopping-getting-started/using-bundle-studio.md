@@ -15,7 +15,7 @@ trackSlugEN: vtex-live-shopping-getting-started
 order: 8
 ---
 
-> ℹ️ If you want to use a studio other than Bundle, see [Using external studios](https://help.vtex.com/docs/tracks/optional-using-external-studios).
+> ℹ️ If you want to use a studio other than Bundle, see [Using external studios](https://help.vtex.com/en/docs/tracks/optional-using-external-studios).
 
 The VTEX broadcast studio is called **Bundle**. In this article, you’ll learn how to configure all the necessary settings in our native studio solution.
 
