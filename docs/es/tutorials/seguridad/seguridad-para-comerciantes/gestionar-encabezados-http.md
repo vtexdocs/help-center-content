@@ -3,7 +3,7 @@ title: 'Gestionar encabezados HTTP'
 id: 2cCTvwQR3Z4ENVKMJU6NK3
 status: PUBLISHED
 createdAt: 2024-06-07T17:58:18.041Z
-updatedAt: 2024-06-07T18:40:52.927Z
+updatedAt: 2026-10-21T17:00:00.000Z
 publishedAt: 2024-06-07T18:40:52.927Z
 firstPublishedAt: 2024-06-07T18:40:52.927Z
 contentType: tutorial
