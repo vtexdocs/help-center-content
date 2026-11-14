@@ -3,7 +3,7 @@ title: 'Mapeo de URL (redirección 301)'
 id: frequentlyAskedQuestions_623
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:57.075Z
-updatedAt: 2023-03-27T13:46:43.143Z
+updatedAt: 2026-10-20T17:00:00.000Z
 publishedAt: 2023-03-27T13:46:43.143Z
 firstPublishedAt: 2019-01-24T22:13:49.408Z
 contentType: tutorial
