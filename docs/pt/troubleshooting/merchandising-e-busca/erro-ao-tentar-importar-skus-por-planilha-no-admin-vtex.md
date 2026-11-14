@@ -3,7 +3,7 @@ title: 'Erro ao tentar importar SKUs por planilha no Admin VTEX'
 id: 1TDF87s7P1UJT1hNDGZsuk
 status: PUBLISHED
 createdAt: 2024-07-01T15:07:50.982Z
-updatedAt: 2025-08-14T22:09:55.424Z
+updatedAt: 2026-11-05T17:25:00.000Z
 publishedAt: 2025-08-14T22:09:55.424Z
 firstPublishedAt: 2024-07-01T18:24:23.096Z
 contentType: tutorial
@@ -20,27 +20,32 @@ symptomFilters:
   - Erro de validação
 ---
 
-Após a definição da árvore de categorias e o cadastro de [especificações de produtos e de SKUs](/pt/docs/tracks/especificacoes-definicao-de-conceito) na sua loja, é necessário preencher os valores das especificações criadas. No Admin VTEX, esse processo pode ser realizado através de uma planilha ou de forma manual no cadastro do [produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto#cadastro-do-produto) e no cadastro do [SKU](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-sku#cadastro-do-sku).
+Após a definição da árvore de categorias e o cadastro de [especificações de produtos e de SKUs](/pt/docs/tracks/especificacoes-definicao-de-conceito) na sua loja, você precisa preencher os valores das especificações criadas. No Admin VTEX, é possível fazer isso por meio de uma planilha ou manualmente, no cadastro do [produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto#cadastro-do-produto) e no cadastro do [SKU](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-sku#cadastro-do-sku).
 
-Se ao realizar a [importação de SKUs por planilha](/pt/tutorial/exportar-e-importar-especificacoes-de-produto-e-de-sku--tutorials_274?&utm_source=autocomplete), aparecer a mensagem 
-`"An error occurred in the data writing process. Make sure your worksheet data is consistent with the instructions and try again."`, pode ser que:
+Se, ao realizar a [importação de SKUs por planilha](/pt/docs/tutorials/importar-e-exportar-especificacoes-de-skus-via-planilha), aparecer a mensagem:
 
-- [Especificações obrigatórias de SKU não estejam preenchidas.](/pt/docs/tracks/especificacoes-definicao-de-conceito)
+`"An error occurred in the data writing process. Make sure your worksheet data is consistent with the instructions and try again."`
+
+Pode ser que:
+
+- [Especificações obrigatórias de SKU](/pt/docs/tracks/especificacoes-definicao-de-conceito) não estejam preenchidas.
 - O arquivo esteja na formatação errada.
 
 ## Solução
 
-Para resolver esse problema, é possível:
+O arquivo precisa seguir regras específicas de formatação e ser salvo no formato `.xls` ou `.xlsx`. Para modificá-lo e importá-lo novamente, siga as instruções abaixo:
 
-[Modificar o arquivo](#solucao-modificar-o-arquivo): O arquivo precisa seguir regras específicas de formatação e ser salvo como uma planilha XML no formato .xls.
+1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite [Produtos e SKUs](/pt/docs/tutorials/produtos-e-skus) na barra de busca no topo da página.
+2. [Exporte as especificações de SKUs](/pt/docs/tutorials/importar-e-exportar-especificacoes-de-skus-via-planilha#exportar-especificacoes-de-skus-via-planilha) para obter o modelo da planilha.
+3. Preencha a planilha conforme a seção [Ver campos da planilha de especificações de SKUs](/pt/docs/tutorials/importar-e-exportar-especificacoes-de-skus-via-planilha#ver-campos-da-planilha-de-especificacoes-de-skus).
 
-### Solução - Modificar o arquivo
+    > ❗ Não modifique o template da importação. Caso contrário, haverá um erro de processamento e a operação não será realizada.
 
-1. Em **Catálogo > Importação e exportação > Todos os produtos > Exportação / Importação**, clique na aba **Importar**.
-2. Clique em `Clique aqui` para fazer o download da planilha de exemplo.
-3. Edite a planilha de exemplo com os SKUs desejados, seguindo todas as recomendações da página [Import and Export](https://cosmetics2.myvtex.com/admin/Site/Relatorio_Skus.aspx)
-4. Salvar a planilha no formato `.xls`.
-5. Na mesma página, em Upload de arquivo para importação, selecione o arquivo esse clique `Importar`.
-6. Confira se a importação foi finalizada.
+4. Salve a planilha no formato `.xls` ou `.xlsx`.
+5. No topo da página **Produtos e SKUs**, clique em `Importar`.
+6. Clique em `Especificações de SKU`.
+7. Adicione a planilha. Você pode arrastar o arquivo e soltá-lo sobre a área indicada, ou clicar sobre a janela e selecionar o arquivo.
+8. Quando o arquivo terminar de carregar, clique em `Importar`.
+9. Confira se a importação foi finalizada.
 
-Caso o erro persista após a modificação do arquivo, entre em contato com o [Nosso Suporte](https://support.vtex.com/hc/pt-br/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fpt-br%2Frequests).
+Caso o erro persista após a modificação do arquivo, entre em contato com o [Suporte VTEX](https://help.vtex.com/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex).
