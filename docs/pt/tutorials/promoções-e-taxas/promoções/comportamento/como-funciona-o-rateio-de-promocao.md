@@ -45,4 +45,4 @@ A diferença aqui é que, após a plataforma passar pela lógica de definir a pr
 
 ## Para saber mais
 
-[Entenda como funciona a concorrência de promoções](/pt/tutorial/entendendo-a-concorrencia-de-promocoes/)
+[Entenda como funciona a concorrência de promoções](/pt/docs/tutorials/como-funciona-a-concorrencia-de-promocoes)

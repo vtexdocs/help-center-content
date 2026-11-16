@@ -3,7 +3,7 @@ title: 'Configurar cadastro do conector da Casas Bahia Marketplace'
 id: 1okse2MybWk04AQoueu88O
 status: PUBLISHED
 createdAt: 2018-09-24T18:45:21.544Z
-updatedAt: 2024-09-13T19:22:23.725Z
+updatedAt: 2026-11-04T17:45:00.000Z
 publishedAt: 2024-09-13T19:22:23.725Z
 firstPublishedAt: 2018-09-27T22:12:25.372Z
 contentType: trackArticle
@@ -29,7 +29,7 @@ O cadastro do conector é feito no Admin da VTEX. Para realizá-lo, siga as inst
 - **CNPJ*:** preencha esse campo com o CNPJ da sua loja. Essa informação é obrigatória para que seja possível faturar os pedidos. Leia o artigo [Fluxo de configuração](/pt/tutorial/como-funciona-a-integracao-da-cnova-via-varejo) da Casas Bahia Marketplace para saber mais.
 - **Nome do campo de Especificação de Produto que contém sua Descrição:** preencha esse campo para utilizar uma descrição diferente da que já está cadastrada no catálogo VTEX. Ao preencher esse campo, você deverá [criar um campo de produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto) do tipo `Texto Grande`. O conector priorizará o envio da descrição contida no campo criado.
 - **Estoque mínimo*:** determina o valor mínimo de estoque de segurança. Se a quantidade de itens de um produto em estoque estiver abaixo do valor escolhido, seu anúncio é pausado para evitar que sejam feitas vendas sem estoque durante o tempo de atualização da Casas Bahia Marketplace pela VTEX. O valor de estoque mínimo é aplicado a todos os produtos, portanto verifique se algum produto deixaria de ser anunciado devido ao seu estoque inicial.
-- **Enviar KIT*:** ao escolher `Não`, SKUs [cadastrados como kit](/pt/docs/tutorials/cadastrar-kit) não são enviados para a Casas Bahia Marketplace. Ao habilitar `Sim`, todos os itens da sua política comercial são enviados para o marketplace, sem filtrar SKUs cadastrados como kit. Mudanças na configuração do conector podem ser feitas a qualquer momento, sendo que isso não afeta SKUs que já tenham sido enviados. Por exemplo, se você mudasse sua configuração de `Sim` para `Não`, SKUs enviados anteriormente para a Casas Bahia Marketplace não seriam removidos ou sofreriam qualquer alteração. Se você mudar sua configuração de `Não` para `Sim`, você precisará [reindexar a base](/pt/docs/tutorials/manutencao-de-base-full-cleanup) para que a configuração seja aplicada.
+- **Enviar KIT*:** ao escolher `Não`, SKUs [cadastrados como kit](/pt/docs/tutorials/cadastrar-kit) não são enviados para a Casas Bahia Marketplace. Ao habilitar `Sim`, todos os itens da sua política comercial são enviados para o marketplace, sem filtrar SKUs cadastrados como kit. Mudanças na configuração do conector podem ser feitas a qualquer momento, sendo que isso não afeta SKUs que já tenham sido enviados. Por exemplo, se você mudasse sua configuração de `Sim` para `Não`, SKUs enviados anteriormente para a Casas Bahia Marketplace não seriam removidos ou sofreriam qualquer alteração.
 
 > ℹ️ Com a opção *Não* ativada, tentativas de envio para a Casas Bahia Marketplace de SKUs cadastrados como kit resultarão no seguinte aviso: *O conector está configurado para não enviar SKUs do tipo Kit*. Esta mensagem pode ser visualizada no Admin, no módulo **MARKETPLACE > Integrações > Produtos**, ao se clicar sobre o SKU.
 

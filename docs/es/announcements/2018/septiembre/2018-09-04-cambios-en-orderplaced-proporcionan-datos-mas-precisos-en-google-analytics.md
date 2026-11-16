@@ -58,7 +58,7 @@ Las mejoras atienden principalmente a escenarios en los que uno mismo pedido tie
 
 
 ## Lo que usted necesita hacer
-Este cambio __no requiere__ ningún tipo de acción. Si su tienda ya usa la __versión 4 del orderPlaced__, que es compatible con todas las funcionalidades de [Omnichannel](/es/announcement/cambie-su-negocio-con-la-experiencia-omnichannel-vtex), el nuevo comportamiento ya se está aplicando.
+Este cambio __no requiere__ ningún tipo de acción. Si su tienda ya usa la __versión 4 del orderPlaced__, que es compatible con todas las funcionalidades de [Omnichannel](/es/announcements/2018-07-26-cambie-su-negocio-con-la-experiencia-omnichannel-vtex), el nuevo comportamiento ya se está aplicando.
 
 
 > ⚠️ Este cambio se llevó a cabo **sólo en la versión 4 del orderPlaced** y no afecta el comportamiento de las versiones anteriores.

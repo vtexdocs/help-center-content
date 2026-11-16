@@ -1,21 +1,15 @@
 ---
 title: 'Configurar pago con Yuno'
-id: h7PS0vDJJokqI9axZPNzE
-status: PUBLISHED
 createdAt: 2023-04-14T12:42:43.736Z
-updatedAt: 2025-11-21T13:28:27.182Z
-publishedAt: 2025-10-24T13:28:27.182Z
-firstPublishedAt: 2023-04-14T13:21:45.782Z
+updatedAt: 2026-11-05T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-yuno
-legacySlug: configurar-pago-con-yuno
 locale: es
-subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+hidden: false
 ---
 
-En VTEX es posible la integración con el proveedor de pagos Yuno. Con este proveedor, su tienda puede realizar ventas a través de tarjetas de (crédito, débito, tienda cobranded, tienda red propia), pagarés, boletos, PIX, PSE, entre otros.
+En VTEX es posible la integración con el proveedor de pagos Yuno. Con este proveedor, su tienda puede realizar ventas a través de tarjetas de (crédito, débito, tienda cobranded, tienda red propia), pagarés, boletos, PIX, PSE, billeteras digitales como Apple Pay, Google Pay, Samsung Pay y Mercado Pago, entre otros.
 
 Para configurar Yuno, siga los pasos a continuación:
 
@@ -31,7 +25,7 @@ Para configurar Yuno, siga los pasos a continuación:
 - **Liquidación automática inmediatamente después del análisis antifraude**: la captura es automática y se realiza inmediatamente después de la autorización y el análisis antifraude (si seleccionas este comportamiento y no tienes análisis antifraude, la captura de pago se realizará de la misma manera que en el comportamiento "Liquidación automática inmediatamente después de la autorización del pago").
 - **Desactivado**: la captura se realiza solo cuando se factura el pedido. Si se opta por este comportamiento de captura, es importante estar atento al tiempo de facturación, ya que puede exceder el tiempo de captura acordado con el proveedor de pagos y provocar la cancelación de la transacción.
 
-8. En **Campos del Proveedor**, seleccione o complete los campos **Affiliation Name**, **Account ID**, **Public API Key**, **Private Secret Key**, **Main Account Name**, **Main Account App key**, **Main Account App token**, **Soft Descriptor**, **Create Customer**, y **VTEX IO orderPlaced page URL** según las instrucciones del proveedor.
+8. En **Campos del Proveedor**, seleccione o complete los campos **Affiliation Name**, **Account ID**, **Public API Key**, **Private Secret Key**, **Main Account Name**, **Main Account App key**, **Main Account App token**, **Soft Descriptor**, **Create Customer**, **VTEX IO orderPlaced page URL**, **Vault Card for Order Modification**, **Enable Network Tokens**, **Use Corporate Buyer Data**, **Payment Mode**, **Headless Payment Handoff**, **Transaction Identification From**, **Antifraud Providers for Split Orders**, **Store Base Path**, **Send Order Sequence as Merchant Reference**, **Sales Channel Domains** y **Delay To Cancel** según las instrucciones del proveedor.
 9. Haga clic en `Guardar`.
 
 Para configurar los métodos de pago a procesar por Yuno, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455#).

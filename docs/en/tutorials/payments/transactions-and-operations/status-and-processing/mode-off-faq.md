@@ -161,7 +161,7 @@ When `delayToCancel` is 1 day or more, retries usually occur every 4 hours.
 
 For more information, see the [Create Payment](https://developers.vtex.com/docs/api-reference/payment-provider-protocol?endpoint=post-/payments) endpoint.
 
-> ℹ️ Although [Pix](https://help.vtex.com/docs/tutorials/setting-up-pix-as-a-payment-method) payments aren't affected by the **Contingency Mode**, meaning that transactions made through this method aren't blocked, other issues may interrupt payment processing. In these cases, when the `delayToCancel` field is set between 5 minutes and 1 hour, retry attempts usually occur every 5 minutes.
+> ℹ️ Although [Pix](https://help.vtex.com/en/docs/tutorials/setting-up-pix-as-a-payment-method) payments aren't affected by the **Contingency Mode**, meaning that transactions made through this method aren't blocked, other issues may interrupt payment processing. In these cases, when the `delayToCancel` field is set between 5 minutes and 1 hour, retry attempts usually occur every 5 minutes.
 
 > ⚠️ The retry time may vary according to the payment method, account settings, and operational conditions. VTEX manages this process automatically to minimize retry intervals and reduce the time transactions spend in the pending queue.
 

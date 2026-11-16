@@ -131,7 +131,7 @@ Actualmente, la plataforma VTEX cuenta con los siguientes marketplaces certifica
 - [Centauro](/es/tracks/integracao-com-a-centauro--D8Qnjbr5lfLkUfMRhsfbj)  
 - [Dafiti](/es/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i)  
 - [Netshoes](/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm)  
-- [Zoom](/es/tutorial/integrando-com-zoom--2OoQjigCVOIEWWkgOqwCK6?&utm_source=autocomplete)  
+- [Zoom](/es/docs/tutorials/integrar-con-zoom?&utm_source=autocomplete)  
 - [CSU (Opte+)](/es/docs/tutorials/integrar-con-csu)  
 - [MadeiraMadeira](/es/docs/tutorials/integracion-con-madeiramadeira)  
 - [Riachuelo](/es/docs/tutorials/integracion-con-riachuelo)  

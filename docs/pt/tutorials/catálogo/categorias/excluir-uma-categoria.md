@@ -40,6 +40,6 @@ Outra opção é [limpar o catálogo](/pt/docs/tutorials/manutencao-de-base-full
 > ⚠️ Por questões de segurança, somente o [usuário Titular](/pt/docs/tutorials/o-que-e-o-usuario-titular) da conta possui acesso à limpeza da base de dados. Caso outro usuário tente acessar esta página, todos os botões estarão inativos.
 
 ### Artigos relacionados
-- [Cadastrar uma categoria](/pt/tutorial/cadastrando-categoria)
+- [Cadastrar uma categoria](/pt/docs/tutorials/cadastrar-uma-categoria)
 - [Cadastrar um produto](/pt/tutorial/cadastrando-produto)
 - [Cadastrar um SKU](/pt/tutorial/cadastrando-sku)

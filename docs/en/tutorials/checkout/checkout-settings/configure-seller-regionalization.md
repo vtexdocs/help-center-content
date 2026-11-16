@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
-**Region** is the functionality responsible for searching the [white label sellers](/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa#) of a marketplace according to delivery regions and defining which of them are able to fulfill the customer's order according to their location. In addition, through it it is also possible to filter prices and the availability of items in stock regionally.
+**Region** is the functionality responsible for searching the [white label sellers](/en/docs/tutorials/white-label-seller#) of a marketplace according to delivery regions and defining which of them are able to fulfill the customer's order according to their location. In addition, through it it is also possible to filter prices and the availability of items in stock regionally.
 
 When the customer accesses the store pages, their location is recorded by the [VTEX Session](/en/tutorial/vtex-session-visao-geral-do-sistema-de-sessoes--6C4Edou6bYqqEAOCAg2MQQ#). This data is forwarded to Checkout, which in turn generates a list of sellers enabled for that delivery region, called regionId.
 

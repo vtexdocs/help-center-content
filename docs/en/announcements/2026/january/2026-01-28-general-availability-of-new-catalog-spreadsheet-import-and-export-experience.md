@@ -36,7 +36,7 @@ No action is required from merchants. By the end of February 2026, VTEX stores i
 
 ### Related documentation
 
-* [Importing and exporting products and SKUs using a spreadsheet](https://help.vtex.com/docs/tutorials/importing-and-exporting-products-and-skus-using-a-spreadsheet-beta)
-* [Importing and exporting product specifications using a spreadsheet](https://help.vtex.com/docs/tutorials/importing-and-exporting-product-specifications-using-a-spreadsheet-beta)
-* [Importing and exporting SKU specifications using a spreadsheet](https://help.vtex.com/docs/tutorials/importing-and-exporting-sku-specifications-using-a-spreadsheet-beta)
-* [Importing and exporting product and SKU images using a spreadsheet](https://help.vtex.com/docs/tutorials/importing-and-exporting-product-and-sku-images-using-a-spreadsheet-beta)
+* [Importing and exporting products and SKUs using a spreadsheet](https://help.vtex.com/en/docs/tutorials/importing-and-exporting-products-and-skus-using-a-spreadsheet-beta)
+* [Importing and exporting product specifications using a spreadsheet](https://help.vtex.com/en/docs/tutorials/importing-and-exporting-product-specifications-using-a-spreadsheet-beta)
+* [Importing and exporting SKU specifications using a spreadsheet](https://help.vtex.com/en/docs/tutorials/importing-and-exporting-sku-specifications-using-a-spreadsheet-beta)
+* [Importing and exporting product and SKU images using a spreadsheet](https://help.vtex.com/en/docs/tutorials/importing-and-exporting-product-and-sku-images-using-a-spreadsheet-beta)
