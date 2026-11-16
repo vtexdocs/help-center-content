@@ -15,7 +15,7 @@ locale: pt
 legacySlug: por-que-nao-consigo-abrir-imagens-que-baixei-diretamente-do-meu-site
 ---
 
-Devido à [compactação de imagens para WebP](/pt/tutorial/compactacao-automatica-de-imagens), é possível que existam dificuldades em abrir arquivos que foram salvos diretamente da loja. Isso ocorre porque os sistemas operacionais (Windows, Mac, Linux) não são compatíveis nativamente com este formato.
+Devido à [compactação de imagens para WebP](/pt/docs/tutorials/compactacao-de-imagens), é possível que existam dificuldades em abrir arquivos que foram salvos diretamente da loja. Isso ocorre porque os sistemas operacionais (Windows, Mac, Linux) não são compatíveis nativamente com este formato.
 
 Mesmo que o nome do arquivo seja algo como "banner.jpg", isto não significa que se trata de uma imagem em formato JPG, pois o navegador não se vale da extensão do arquivo para indicar formato, e sim do seu conteúdo.
 

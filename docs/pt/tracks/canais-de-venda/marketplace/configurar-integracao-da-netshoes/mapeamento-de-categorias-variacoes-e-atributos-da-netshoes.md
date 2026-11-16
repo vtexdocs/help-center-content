@@ -61,7 +61,7 @@ Os campos da **Planilha de Mapeamento** estão detalhados abaixo. Preencha-os de
 
 Existem alguns __outros__ atributos de produtos listados na aba "Atributos" da Planilha de Consulta que são __obrigatórios__, mas que __não__ são enviados através da Planilha de Mapeamento explicada no passo anterior.
 
-Para enviar esses atributos, é necessário ter cadastrado na VTEX as [especificações do produto](/pt/tutorial/criando-um-campo-de-produto) indicadas como obrigatórias na Planilha de Consulta.
+Para enviar esses atributos, é necessário ter cadastrado na VTEX as [especificações do produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto) indicadas como obrigatórias na Planilha de Consulta.
 
 _`Ex:` um produto do Departamento __Basquete__, do Tipo de Produto __Tênis__, deve ter o Atributo `Altura do Cano` cadastrado como especificação de produto na VTEX. Nesse exemplo, os valores permitidos para o atributo são `Cano Alto`, `Cano Médio` e `Cano Baixo`. Se a especificação na VTEX não tiver os valores esperados pela Netshoes, o produto será rejeitado na integração._
 

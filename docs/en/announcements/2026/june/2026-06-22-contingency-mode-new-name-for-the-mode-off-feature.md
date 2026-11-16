@@ -32,4 +32,4 @@ This improvement especially benefits orders with express shipping, which tend to
 
 No action is needed. Activation, connector recovery, and retries of eligible transactions continue to be managed automatically by VTEX.
 
-For more details about this feature, see [Contingency Mode](https://help.vtex.com/docs/tutorials/mode-off-faq).
+For more details about this feature, see [Contingency Mode](https://help.vtex.com/en/docs/tutorials/mode-off-faq).

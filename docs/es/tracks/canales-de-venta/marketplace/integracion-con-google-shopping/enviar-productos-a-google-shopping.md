@@ -3,7 +3,7 @@ title: 'Enviar productos a Google Shopping'
 id: 5L5LnccDCj5lJk8H95GQ82
 status: PUBLISHED
 createdAt: 2021-04-15T14:10:45.645Z
-updatedAt: 2025-09-08T17:53:08.339Z
+updatedAt: 2026-11-04T17:45:00.000Z
 publishedAt: 2025-09-08T17:53:08.339Z
 firstPublishedAt: 2021-04-15T17:41:23.772Z
 contentType: trackArticle
@@ -16,33 +16,6 @@ order: 7
 ---
 
 En Google Shopping, solamente los [catálogos](/es/docs/tracks/catalogo-definicion-de-concepto) se integran. A diferencia de otras integraciones, **no es necesario mapear los productos mediante una plantilla.**
-
-## Reindexar la base
-
-Después de configurar la integración y autenticar su cuenta, el envío de productos al _marketplace_ no es automático sino que será necesario que el _seller_ [reindexe la base](/es/docs/tutorials/entendiendo-el-funcionamento-de-la-indexacion). Este proceso prepara los datos de los SKU y de los productos y envía al _marketplace_ la información general sobre el catálogo, los precios y el _stock_. 
-
-> ℹ️ Solo el [usuario titular (owner)](/es/docs/tracks/que-es-el-usuario-master) tiene permiso para reindexar la base de una tienda VTEX. Durante el periodo de reindexación, que es variable, los productos ingresan en una fila para que se actualicen los datos, pero siguen disponibles para la venta en el sitio web de la tienda.
-
-Para reindexar la base, copia en tu navegador la dirección a continuación y reemplaza {nombredelatienda} por el nombre de tu tienda:  
-`{nombredelatienda}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`
-
-Cuando accedas a esta dirección, haz clic en el botón Reindexar base. Puedes seguir el proceso a través del Admin VTEX, en **Catálogo > Informes.**
-
-### Comprobar la indexación
-
-Puedes verificar si un SKU específico se ha indexado correctamente en la política comercial de la integración. Para definir un límite sigue los pasos a continuación:  
-
-1. En el Admin VTEX, accede a Catálogo > Productos y SKUs.  
-2. En la fila del producto, haz clic en el botón menú <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.  
-3. Selecciona la opción `Ver detalles de indexación`.  
-4. Comprueba el status de cada SKU.  
-
-Consulta a continuación los mensajes de cada status de indexación:  
-
-| Status | Tipo de mensaje |
-|---|---|
-| SKU indexados | Sku: 70 - tenis amarillos variación Sales Channel: 1 Sku: 70 Price: 1740.00 Stock: 1 Quantity Sold last month SalesChannel: 1, Sales: 0 |
-| SKU no indexados | Sku: 112 - tenis azules variación Sales Channel: 1 Sku: 112 Sku is UNAVAILABLE - check price and stock, Checkout Info: Code: withoutStock \| Status:error \| Message: el ítem Tenis Action - Masculino - Marino/plateado tenis amarillos variación sin stock Quantity Sold last month SalesChannel: 1, Sales: -1 |
 
 ## Aprobación de productos
 

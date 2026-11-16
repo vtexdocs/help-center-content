@@ -129,7 +129,7 @@ Nesta seção, serão abordados os seguintes tópicos:
 
 ### Integrar pedido
 
-Os pedidos na SkyHub possuem status próprios, conforme a tabela a seguir. Para saber mais sobre os status de pedidos na VTEX, veja [Fluxo de pedido em Gerenciamento de pedidos](/pt/tutorial/fluxo-de-pedido).
+Os pedidos na SkyHub possuem status próprios, conforme a tabela a seguir. Para saber mais sobre os status de pedidos na VTEX, veja [Fluxo de pedido em Gerenciamento de pedidos](/pt/docs/tutorials/fluxo-e-status-de-pedidos).
 
 | Status na VTEX | Status na SkyHub | Descrição do status na SkyHub |
 | ---------- | ---------- | ---------- |

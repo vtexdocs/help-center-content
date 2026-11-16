@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 7ogirQ8NClawO2X6xdgCKc
 ---
 
-> ⚠️ This tutorial only applies to Store Framework stores. For stores developed with CMS Portal (Legacy), follow the instructions in the guide [Configuring Favicon in your store](https://help.vtex.com/docs/tutorials/configuring-favicon-in-your-store).
+> ⚠️ This tutorial only applies to Store Framework stores. For stores developed with CMS Portal (Legacy), follow the instructions in the guide [Configuring Favicon in your store](https://help.vtex.com/en/docs/tutorials/configuring-favicon-in-your-store).
 
 SEO (Search Engine Optimization) is one of the most important strategies to better position your site on organic search engine results pages. Configuring tags, metatags, and favicons is part of this set of strategies to optimize site performance.
 
@@ -31,7 +31,7 @@ In all stores built with Store Framework, you can configure these parameters nat
 2. Click the **General** tab.
 3. Complete the fields based on the guidelines below:
   - **Store name:** Enter the name of your store.
-  - **Enable configuration by binding:** This option is only valid for stores with multiple [bindings](https://help.vtex.com/docs/tutorials/what-is-binding). When enabled, it allows you to configure specific tags and meta tags for each store binding. For stores with a single binding, leave this option unchecked.
+  - **Enable configuration by binding:** This option is only valid for stores with multiple [bindings](https://help.vtex.com/en/docs/tutorials/what-is-binding). When enabled, it allows you to configure specific tags and meta tags for each store binding. For stores with a single binding, leave this option unchecked.
   - **Default title tag**: Provide a concise description with relevant keywords. The value assigned to this tag is displayed at the top of the browser's title bar when someone visits your site.
   - **Description meta tag**: Provide a brief description of the page content. It should be informative and contain relevant keywords.
   - **Robots meta tag**: Specify how search engines should crawl and index a specific page. The default values are `index, follow`. For additional values compatible with Google, see the [list of valid rules](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag#directives).

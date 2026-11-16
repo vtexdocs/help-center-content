@@ -27,8 +27,8 @@ To configure PaymentezV2, follow the steps below:
 6. In **Payment Control**, select whether you want to activate the provider in a test environment by clicking **Enable test mode**.
 7. Click `Save`.
 
-To configure the payment methods to be processed by PaymentezV2, access [Configuring Payment Conditions](https://help.vtex.com/docs/tutorials/how-to-configure-payment-conditions).
+To configure the payment methods to be processed by PaymentezV2, access [Configuring Payment Conditions](https://help.vtex.com/en/docs/tutorials/how-to-configure-payment-conditions).
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/docs/tutorials/special-conditions).
+To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/en/docs/tutorials/special-conditions).
 
 After following the indicated steps, PaymentezV2 connector may take up to 10 minutes to appear at your store's checkout as a payment option.

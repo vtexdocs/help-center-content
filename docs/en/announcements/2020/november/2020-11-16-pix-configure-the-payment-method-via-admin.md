@@ -33,4 +33,4 @@ Within 15 minutes, Pix can be enabled as a payment method, allowing your custome
 
 Ensure that your payment processing partner is correctly [integrated](https://developers.vtex.com/vtex-developer-docs/docs/pix-instant-payments-in-brazil) using the [Payment Provider Protocol](https://developers.vtex.com/vtex-developer-docs/docs/payment-provider-protocol) - VTEX's integration protocol. 
 
-If so, you can proceed with configuring Pix. The process is similar to that of other payment methods offered. For more details, read our tutorial on [how to configure Pix as a payment method via Admin](/en/tutorial/configurar-pix-como-meio-de-pagamento--5sbNavMSJY4jyLmLKRHiOf?&utm_source=autocomplete).
+If so, you can proceed with configuring Pix. The process is similar to that of other payment methods offered. For more details, read our tutorial on [how to configure Pix as a payment method via Admin](/en/docs/tutorials/setting-up-pix-as-a-payment-method?&utm_source=autocomplete).

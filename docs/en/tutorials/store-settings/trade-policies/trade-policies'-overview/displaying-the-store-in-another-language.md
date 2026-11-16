@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6J3wx7KM4oysymsWuUACyY
 ---
 
-In order to display your website in another language, a [new sales policy](/en/tutorial/configuring-a-marketplace-sales-policy/) must be created and assigned to the intended language through the __Culture Info__ field. 
+In order to display your website in another language, a [new sales policy](/en/docs/tutorials/configuring-a-marketplace-trade-policy) must be created and assigned to the intended language through the __Culture Info__ field. 
 
 ![exibição-loja-idioma-diferente en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/store-settings/trade-policies/trade-policies'-overview/displaying-the-store-in-another-language_1.png)
 

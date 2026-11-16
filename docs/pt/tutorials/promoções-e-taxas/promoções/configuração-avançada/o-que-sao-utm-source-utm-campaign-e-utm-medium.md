@@ -30,7 +30,7 @@ Também é possível associar promoções específicas a determinados valores de
 - **utm_medium:** especifica o meio de divulgação, como banner, CPC (custo por clique) ou newsletter.
 - **utm_campaign:** define o nome da campanha, indicando o contexto de marketing, como natal, lançamento ou promoção.
 
-> ℹ️ Na tela de Gerenciamento de Pedidos, apenas o parâmetro `utm_source` está [disponível para filtro](/pt/tutorial/como-filtrar-pedidos).
+> ℹ️ Na tela de Gerenciamento de Pedidos, apenas o parâmetro `utm_source` está [disponível para filtro](/pt/docs/tutorials/filtrar-todos-pedidos).
 
 > ❗ Não utilize caracteres especiais nos valores de UTM, por exemplo, `utm_source=#fb`. Aceitam-se apenas caracteres alfanuméricos, hífens e underscores.
 

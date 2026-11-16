@@ -30,7 +30,7 @@ La página de Configuración de pagos es donde puedes configurar las condiciones
 En la sección Configuración de pedidos puedes configurar los ajustes generales de pedidos, afiliados, autorización de pedidos y medios de pago de las suscripciones. Incluye las siguientes páginas, que pronto se incluirán en el diseño del Admin v4:
 
 - [Configuración](/es/subcategory/orders-management-settings--1qvm3kIrt6KA6IeGc4EQ6k#)  
-- [Autorización de pedidos](/es/tutorial/how-order-authorization-works--3MBK6CmKHAuUjMBieDU0pn#)  
+- [Autorización de pedidos](/es/docs/tutorials/como-funciona-la-autorizacion-de-pedidos#)  
 - [Pago de suscripciones](/es/docs/tutorials/como-configurar-suscripciones#2-configure-payment-methods)  
 
 ## Plantillas de email
@@ -44,7 +44,7 @@ La sección Envío es donde puedes configurar los ajustes generales de envío, g
 
 - [Configuración](/es/subcategory/inventory-and-shipping-settings--1UL6Q7nUN6SkA2g2SUsECi#)    
 - [Envío por geolocalización](/es/docs/tutorials/gestionar-geolocalizacion)  
-- [Feriados](/es/tutorial/registering-holidays--2ItOthSEAoyAmcwsuiO6Yk#)  
+- [Feriados](/es/docs/tutorials/registrar-feriados#)  
 
 ## Producto
 La sección Producto es donde puedes configurar los ajustes de precios, las condiciones comerciales y las reglas de redondeo de precios para tus productos. Esta sección incluye las siguientes páginas, que pronto se incluirán en el diseño del Admin v4:

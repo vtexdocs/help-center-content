@@ -1,21 +1,15 @@
 ---
 title: 'Configurar a afiliação de gateway Tuna'
-id: 5Db0j4pE76ma9pUvYuAhfF
-status: PUBLISHED
 createdAt: 2021-07-07T14:47:34.162Z
-updatedAt: 2024-01-23T21:47:01.684Z
-publishedAt: 2024-01-23T21:47:01.684Z
-firstPublishedAt: 2021-07-07T14:57:45.358Z
+updatedAt: 2026-11-05T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 13Ue4MX9WNiX9f3SVCUZZW
 slugEN: configuring-tuna-gateway-affiliation
-legacySlug: configurar-a-afiliacao-de-gateway-tuna
 locale: pt
-subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+hidden: false
 ---
 
-Na VTEX, você pode configurar a sua loja com o gateway Tuna para receber pagamentos por meio de boletos, cartões de débito, crédito, PIX, Bitcoin, Privatelabels, Google Pay, Apple Pay, OXXO e opções Pagaleve.
+Na VTEX, você pode configurar a sua loja com o gateway Tuna para receber pagamentos por meio de boletos, cartões de débito, crédito, PIX, Bitcoin, Privatelabels, Google Pay, Apple Pay, OXXO, opções Pagaleve, BoletoParceladoKoin, Pix com Open Finance e Pix Biométrico (Tuna Open Finance).
 
 > ⚠️ A integração da sua loja com a Tuna é feita por meio de uma **Chave de aplicação** e o **Token de aplicação**. Os dados de acesso para obter essas informações e permitir as configurações na VTEX serão enviados após a criação da sua conta. Para isso, preencha [este formulário](https://docs.google.com/forms/d/e/1FAIpQLScWk5fsmkIfGaW2Z6qhdGH-JJ5iU6Fv5TGghUR1Pod5dY5Z2Q/viewform) e aguarde o retorno da Tuna com mais detalhes.
 
