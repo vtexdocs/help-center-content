@@ -21,7 +21,7 @@ Com a **Delivery Promise**, sua loja é capaz de fazer uma “promessa de entreg
 
 ## Funcionalidades disponíveis
 
-Quando o comprador fornece seu endereço, uma seleção inicial é exibida somente com os produtos que podem ser entregues nessa localidade ou retirados em pontos de retirada elegíveis em um [raio configurado](https://help.vtex.com/pt/docs/tutorials/cadastro-de-pontos-de-retirada#campos-de-cadastro) ou [até o limite padrão de 50 km de distância da localidade](https://help.vtex.com/pt/tutorial/pontos-de-retirada#como-funcionam-pontos-de-retirada).
+Quando o comprador fornece seu endereço, uma seleção inicial é exibida somente com os produtos que podem ser entregues nessa localidade ou retirados em pontos de retirada elegíveis dentro do [raio de retirada do Checkout](https://help.vtex.com/pt/docs/tutorials/pontos-de-retirada#como-funcionam-pontos-de-retirada). Esse raio é configurável pelo lojista até o máximo de 50 km (padrão: 50 km).
 
 Além de ter acesso a todos os produtos visualizados, o comprador pode filtrar os produtos na vitrine para visualizar somente os resultados que atendam a determinados critérios. Isso permite ao comprador uma experiência personalizada de navegação de acordo com os próprios objetivos:
 
@@ -38,8 +38,8 @@ A experiência de [filtros](#filtros) por CEP, método de envio, prazo, ponto de
 A **Delivery Promise** permite que os compradores da sua loja filtrem os produtos exibidos na navegação usando os seguintes filtros:
 
 * **Entregar em:** produtos disponíveis para entrega no endereço fornecido.  
-* **Retirada:** produtos disponíveis para retirada em pontos de retirada num [raio configurado](https://help.vtex.com/pt/docs/tutorials/cadastro-de-pontos-de-retirada#campos-de-cadastro) ou até a distância padrão de [50 km](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R?&utm_source=autocomplete#como-funcionam-pontos-de-retirada) do endereço fornecido.  
-* **Retirada em lojas próximas:** produtos disponíveis para retirada em pontos de retirada num raio de até 10 km de distância do endereço fornecido.  
+* **Retirada:** produtos disponíveis para retirada em pontos de retirada dentro do [mesmo raio de retirada do Checkout](https://help.vtex.com/pt/docs/tutorials/pontos-de-retirada#como-funcionam-pontos-de-retirada), que é configurável pelo lojista até o máximo de 50 km (padrão: 50 km).  
+* **Retirada em lojas próximas:** produtos disponíveis para retirada em pontos de retirada num raio fixo de até 10 km de distância do endereço fornecido. Este filtro não usa o raio de retirada do Checkout.  
 * **Retirada em {{nome}}:** produtos disponíveis para retirada no [ponto de retirada](https://help.vtex.com/pt/docs/tutorials/cadastro-de-pontos-de-retirada) de escolha do comprador.  
 * **Prazo de envio ([Opções de envio](https://help.vtex.com/pt/tutorial/opcoes-de-envio))**: produtos disponíveis conforme o prazo, método de envio e zonas geográficas configuradas pelo lojista no módulo de [**Opções de envio**](https://help.vtex.com/pt/tutorial/opcoes-de-envio).  
 * **Prazo de envio dinâmico**: produtos disponíveis definidos por prazos dinâmicos (**Mesmo dia** e **Dia seguinte**), que consideram os horários de navegação do comprador e os prazos cadastrados nas [**Opções de envio**](https://help.vtex.com/pt/docs/tutorials/opcoes-de-envio) da conta principal da loja para a data de entrega e de retirada.
