@@ -60,6 +60,14 @@ Acesse o [painel do VTEX CX Platform](https://dash.weni.ai/). Você pode criar u
 
 Se você recebeu um convite, crie ou acesse a conta associada ao email convidado. Depois de entrar, selecione a organização e o projeto incluídos no convite.
 
+### Login com Okta
+
+Clientes enterprise podem fazer login no VTEX CX Platform com o próprio tenant Okta. Nesse caso, após inserir o email, você é redirecionado automaticamente para o Okta, com a autenticação multifator configurada, e o campo de senha da plataforma não é exibido.
+
+O acesso às organizações continua sendo feito apenas por convite, e o mapeamento de domínio vale somente para a empresa que o configurou.
+
+> ⚠️ Para utilizar o login com o Okta, entre em contato com o [Suporte VTEX](https://help.vtex.com/pt/support) e solicite a configuração do mapeamento do domínio de email e da política da sua organização.
+
 ### Criar uma organização e um projeto
 
 Se você estiver configurando uma nova operação, siga estas etapas:
