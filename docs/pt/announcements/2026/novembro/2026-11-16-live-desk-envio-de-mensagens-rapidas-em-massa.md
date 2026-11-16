@@ -1,10 +1,10 @@
 ---
 title: 'Live Desk: envio de mensagens rápidas em massa'
-createdAt: 2026-11-17T12:00:00.000Z
-updatedAt: 2026-11-17T12:00:00.000Z
+createdAt: 2026-11-16T12:00:00.000Z
+updatedAt: 2026-11-16T12:00:00.000Z
 contentType: updates
 productTeam: VTEX CX Platform
-slugEN: 2026-11-17-live-desk-bulk-quick-messages
+slugEN: 2026-11-16-live-desk-bulk-sending-of-quick-messages
 locale: pt
 tags:
   - Nova funcionalidade
