@@ -25,7 +25,7 @@ Agora, a partir do menu de opções de uma mensagem rápida salva, o atendente p
 - **Revisar antes de enviar**, por meio de um checklist de confirmação que evita envios em massa acidentais.
 - **Acompanhar o envio** com uma barra de progresso em tempo real e receber uma notificação de confirmação com a quantidade de conversas que receberam a mensagem.
 
-A funcionalidade estende as mensagens rápidas já existentes. Para saber mais, consulte a seção [Criar e enviar mensagens rápidas](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk#criar-e-enviar-mensagens-rápidas) do artigo **Visão geral do Live Desk**.
+A funcionalidade também se aplica a mensagens rápidas já existentes. Para saber mais, consulte a seção [Criar e enviar mensagens rápidas](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk#criar-e-enviar-mensagens-rápidas) do artigo **Visão geral do Live Desk**.
 
 ## O que precisa ser feito?
  
