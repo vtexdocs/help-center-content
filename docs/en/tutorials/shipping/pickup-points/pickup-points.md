@@ -37,7 +37,7 @@ It is possible to [set up the limit of pickup points](#how-to-setup-pickup-point
 Keep in mind that:
 
 * The pickup points that become available to the customer at checkout depend on the availability of items and their transportation to the pickup point.
-* VTEX limits the location to a 50km radius between the pickup point and the customer's address.
+* The Checkout pickup radius is configurable by the merchant up to a maximum of 50 km (default: 50 km). The Delivery Promise **Pickup** filter uses this same radius.
 * In cases where transport between the [warehouse](/en/docs/tutorials/warehouse) and the pickup point is required, VTEX also takes into account the existence of this route when choosing the pickup point.
 
 > ℹ️ Through pickup points, VTEX also enables the merchant: <ul> <li>Set up contingency pickup points: pickup points that can supply inventory to other points when needed, allowing the buyer the most convenient choice. To learn more, visit [Contingency Pickup Points.](/en/docs/tutorials/creating-a-contingency-pickup-point-to-guarantee-it-as-an-option-at-checkout)</li> <li>Set up a white label seller as the pickup point. Learn more at [Setting up Seller White Label as a Pickup Point.](/en/tutorial/setting-up-seller-white-label-as-a-pickup-point--6fSUE2O0taaoKieAaiuc4e)</li> </ul>
