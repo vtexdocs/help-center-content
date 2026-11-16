@@ -58200,6 +58200,21 @@
             },
             {
               "name": {
+                "en": "Change Order V2 item removal with compensateShippingChanges + free shipping leaves non-zero price/sellingPrice per item in logisticsInfo",
+                "es": "Modificar pedido V2: eliminación de artículo con compensaciónShippingChanges + envío gratuito deja un precio/precio de venta distinto de cero por artículo en logisticsInfo",
+                "pt": "A remoção do item Change Order V2 com compensationShippingChanges + frete grátis resulta em um preço/preço de venda diferente de zero por item em logisticsInfo."
+              },
+              "slug": {
+                "en": "change-order-v2-item-removal-with-compensateshippingchanges-free-shipping-leaves-nonzero-pricesellingprice-per-item-in-logisticsinfo",
+                "es": "modificar-pedido-v2-eliminacion-de-articulo-con-compensacionshippingchanges-envio-gratuito-deja-un-precioprecio-de-venta-distinto-de-cero-por-articulo-en-logisticsinfo",
+                "pt": "a-remocao-do-item-change-order-v2-com-compensationshippingchanges-frete-gratis-resulta-em-um-precopreco-de-venda-diferente-de-zero-por-item-em-logisticsinfo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Subscriptions simulation returned error when PickupPointID contains special characters",
                 "es": "La simulación de suscripciones devolvió un error cuando PickupPointID contiene caracteres especiales",
                 "pt": "A simulação de assinaturas retornou um erro quando o PickupPointID contém caracteres especiais"
