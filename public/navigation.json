@@ -51003,36 +51003,6 @@
             },
             {
               "name": {
-                "en": "Magazine Luiza Order with error \"Object reference not set to an instance of an object\"",
-                "es": "Magazine Luiza Pedido con error \"La referencia a objeto no está establecida en una instancia de un objeto\"",
-                "pt": "Magazine Luiza Pedido com erro \"Referência de objeto não definida para uma instância de um objeto\""
-              },
-              "slug": {
-                "en": "magazine-luiza-order-with-error-object-reference-not-set-to-an-instance-of-an-object",
-                "es": "magazine-luiza-pedido-con-error-la-referencia-a-objeto-no-esta-establecida-en-una-instancia-de-un-objeto",
-                "pt": "magazine-luiza-pedido-com-erro-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Magazine Luiza Orders pending dispatch authorization even if approved by Marketplace",
-                "es": "Magazine Luiza Pedidos pendientes de autorización de envío, incluso si son aprobados por Marketplace.",
-                "pt": "Magazine Luiza Pedidos aguardando autorização de envio mesmo se aprovados pelo Marketplace"
-              },
-              "slug": {
-                "en": "magazine-luiza-orders-pending-dispatch-authorization-even-if-approved-by-marketplace",
-                "es": "magazine-luiza-pedidos-pendientes-de-autorizacion-de-envio-incluso-si-son-aprobados-por-marketplace",
-                "pt": "magazine-luiza-pedidos-aguardando-autorizacao-de-envio-mesmo-se-aprovados-pelo-marketplace"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Custom Attribute Mapper Mercado Livre",
                 "es": "Mapeador de atributos personalizados de Mercado Livre",
                 "pt": "Mapeador de atributos personalizados do Mercado Livre"
@@ -51251,21 +51221,6 @@
                 "en": "mercado-livre-main-image-not-respected",
                 "es": "mercado-livre-imagen-principal-no-respetada",
                 "pt": "mercado-livre-imagem-principal-nao-respeitada"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Mercado Livre Multi-Origin - orders allocated to inactive stock",
-                "es": "Mercado Livre Multi-Origen - pedidos asignados a stock inactivo",
-                "pt": "Mercado Livre Multi-Origem - pedidos alocados a estoque inativo"
-              },
-              "slug": {
-                "en": "mercado-livre-multiorigin-orders-allocated-to-inactive-stock",
-                "es": "mercado-livre-multiorigen-pedidos-asignados-a-stock-inactivo",
-                "pt": "mercado-livre-multiorigem-pedidos-alocados-a-estoque-inativo"
               },
               "origin": "",
               "type": "markdown",
@@ -69131,6 +69086,21 @@
             },
             {
               "name": {
+                "en": "Custom header with key \"Link\" is not delivered on Store Framework stores",
+                "es": "El encabezado personalizado con la clave \"Link\" no se entrega en las tiendas de Store Framework.",
+                "pt": "O cabeçalho personalizado com a chave \"Link\" não é entregue em lojas com o Store Framework."
+              },
+              "slug": {
+                "en": "custom-header-with-key-link-is-not-delivered-on-store-framework-stores",
+                "es": "el-encabezado-personalizado-con-la-clave-link-no-se-entrega-en-las-tiendas-de-store-framework",
+                "pt": "o-cabecalho-personalizado-com-a-chave-link-nao-e-entregue-em-lojas-com-o-store-framework"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product specification field is not displayed on PDP when its name matches the specification group name",
                 "es": "El campo de especificación del producto no se muestra en PDP cuando su nombre coincide con el nombre del grupo de especificación.",
                 "pt": "O campo de especificação do produto não é exibido na página de detalhes do produto (PDP) quando seu nome corresponde ao nome do grupo de especificações."
@@ -70470,6 +70440,21 @@
             },
             {
               "name": {
+                "en": "Amazon Listing SKU can’t be sent through Product publication after its images are replaced in the catalog",
+                "es": "Amazon Listado El SKU no se puede enviar a través de la publicación del producto después de que sus imágenes se hayan reemplazado en el catálogo.",
+                "pt": "Amazon Listagem O SKU não pode ser enviado através da publicação do produto após a substituição de suas imagens no catálogo."
+              },
+              "slug": {
+                "en": "amazon-listing-sku-cant-be-sent-through-product-publication-after-its-images-are-replaced-in-the-catalog",
+                "es": "amazon-listado-el-sku-no-se-puede-enviar-a-traves-de-la-publicacion-del-producto-despues-de-que-sus-imagenes-se-hayan-reemplazado-en-el-catalogo",
+                "pt": "amazon-listagem-o-sku-nao-pode-ser-enviado-atraves-da-publicacao-do-produto-apos-a-substituicao-de-suas-imagens-no-catalogo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Amazon NF-e for Amazon DBA (Easy Ship) orders rejected when a promotional discount is applied by the buyer",
                 "es": "Amazon Los pedidos NF-e para Amazon DBA (Easy Ship) son rechazados cuando el comprador aplica un descuento promocional.",
                 "pt": "Amazon NF-e para pedidos Amazon DBA (Easy Ship) rejeitados quando um desconto promocional é aplicado pelo comprador"
@@ -70740,6 +70725,36 @@
             },
             {
               "name": {
+                "en": "Magazine Luiza Order with error \"Object reference not set to an instance of an object\"",
+                "es": "Magazine Luiza Pedido con error \"La referencia a objeto no está establecida en una instancia de un objeto\"",
+                "pt": "Magazine Luiza Pedido com erro \"Referência de objeto não definida para uma instância de um objeto\""
+              },
+              "slug": {
+                "en": "magazine-luiza-order-with-error-object-reference-not-set-to-an-instance-of-an-object",
+                "es": "magazine-luiza-pedido-con-error-la-referencia-a-objeto-no-esta-establecida-en-una-instancia-de-un-objeto",
+                "pt": "magazine-luiza-pedido-com-erro-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Magazine Luiza Orders pending dispatch authorization even if approved by Marketplace",
+                "es": "Magazine Luiza Pedidos pendientes de autorización de envío, incluso si son aprobados por Marketplace.",
+                "pt": "Magazine Luiza Pedidos aguardando autorização de envio mesmo se aprovados pelo Marketplace"
+              },
+              "slug": {
+                "en": "magazine-luiza-orders-pending-dispatch-authorization-even-if-approved-by-marketplace",
+                "es": "magazine-luiza-pedidos-pendientes-de-autorizacion-de-envio-incluso-si-son-aprobados-por-marketplace",
+                "pt": "magazine-luiza-pedidos-aguardando-autorizacao-de-envio-mesmo-se-aprovados-pelo-marketplace"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Mercado Livre Ads Incorrectly Re-created as Cross-docking for Full SKUs with Zero Stock",
                 "es": "Mercado Livre Anuncios recreados incorrectamente como cross-docking para SKU completos con stock cero.",
                 "pt": "Mercado Livre Anúncios recriados incorretamente como cross-docking para SKUs completos com estoque zero"
@@ -70793,6 +70808,21 @@
                 "en": "mercado-livre-error-when-reauthenticating-the-integration",
                 "es": "mercado-livre-error-al-volver-a-autenticar-la-integracion",
                 "pt": "mercado-livre-erro-ao-reautenticar-a-integracao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Multi-Origin - orders allocated to inactive stock",
+                "es": "Mercado Livre Multi-Origen - pedidos asignados a stock inactivo",
+                "pt": "Mercado Livre Multi-Origem - pedidos alocados a estoque inativo"
+              },
+              "slug": {
+                "en": "mercado-livre-multiorigin-orders-allocated-to-inactive-stock",
+                "es": "mercado-livre-multiorigen-pedidos-asignados-a-stock-inactivo",
+                "pt": "mercado-livre-multiorigem-pedidos-alocados-a-estoque-inativo"
               },
               "origin": "",
               "type": "markdown",
