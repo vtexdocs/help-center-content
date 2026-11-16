@@ -69162,6 +69162,21 @@
             },
             {
               "name": {
+                "en": "Custom header with key \"Link\" is not delivered on Store Framework stores",
+                "es": "El encabezado personalizado con la clave \"Link\" no se entrega en las tiendas de Store Framework.",
+                "pt": "O cabeçalho personalizado com a chave \"Link\" não é entregue em lojas com o Store Framework."
+              },
+              "slug": {
+                "en": "custom-header-with-key-link-is-not-delivered-on-store-framework-stores",
+                "es": "el-encabezado-personalizado-con-la-clave-link-no-se-entrega-en-las-tiendas-de-store-framework",
+                "pt": "o-cabecalho-personalizado-com-a-chave-link-nao-e-entregue-em-lojas-com-o-store-framework"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product specification field is not displayed on PDP when its name matches the specification group name",
                 "es": "El campo de especificación del producto no se muestra en PDP cuando su nombre coincide con el nombre del grupo de especificación.",
                 "pt": "O campo de especificação do produto não é exibido na página de detalhes do produto (PDP) quando seu nome corresponde ao nome do grupo de especificações."
