@@ -15,9 +15,7 @@ locale: en
 subcategoryId: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
-> ℹ️ Semantic search is available exclusively as part of the Search Optimizer Agent, an additional search optimization service.
-> 
-> This feature is in closed beta, and only participating customers can access it. If you're a VTEX client and want to adopt Search Optimizer Agent for your business, contact our [Commercial Support](https://help.vtex.com/en/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client but are interested in this solution, please complete our [contact form](https://vtex.com/en-us/contact/).
+> ℹ️ This feature is in closed beta, and only participating customers can access it. If you're a VTEX client and want to adopt Semantic Search for your business, contact our [Commercial Support](https://help.vtex.com/en/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client but are interested in this solution, please complete our [contact form](https://vtex.com/en-us/contact/).
 
 Intelligent Search combines the precision of lexical techniques with the intelligence of Semantic search models to provide a relevant and seamless experience that aligns with user intent.
 
