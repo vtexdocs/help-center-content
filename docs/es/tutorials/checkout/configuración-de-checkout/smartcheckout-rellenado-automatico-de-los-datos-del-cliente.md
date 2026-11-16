@@ -51,7 +51,7 @@ El flujo de rellenado automático de los datos del cliente en el Checkout es el 
 3. SmartCheckout verifica que el email ingresado pertenezca a un cliente registrado en la tienda.  
 4. Al verificar el email, los campos de identificación del cliente se completan automáticamente con los datos que se recuperan del Master Data durante el Checkout.
 
-> ⚠️ Para proteger los datos del cliente, la información de identificación se mostrará parcialmente en la pantalla del checkout (parte de los datos están enmascarados de acuerdo con el estándar [PCI-DSS](/es/tutorial/what-is-the-pci-ssc--4jo3Vkox3amSO2w4qIWa0E#) de seguridad de pagos). Este procedimiento le permite al cliente identificar si sus datos son correctos y elegir entre las distintas direcciones registradas para la entrega, en caso de que corresponda.
+> ⚠️ Para proteger los datos del cliente, la información de identificación se mostrará parcialmente en la pantalla del checkout (parte de los datos están enmascarados de acuerdo con el estándar [PCI-DSS](/es/docs/tutorials/que-es-el-pci-ssc#) de seguridad de pagos). Este procedimiento le permite al cliente identificar si sus datos son correctos y elegir entre las distintas direcciones registradas para la entrega, en caso de que corresponda.
 <ul>
 5. El cliente selecciona los medios de entrega y pago, y termina el pedido de compra.
 </ul>
@@ -59,7 +59,7 @@ El flujo de rellenado automático de los datos del cliente en el Checkout es el 
 
 Cualquier modificación en los datos registrados, como la dirección o el teléfono, solo se permitirá una vez que el cliente haya [iniciado sesión en la tienda](/es/docs/tutorials/como-puede-mi-cliente-iniciar-sesion-en-mi-tienda). 
 
-Para más información sobre protección de datos, visita [Seguridad de SmartCheckout](/es/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
+Para más información sobre protección de datos, visita [Seguridad de SmartCheckout](/es/docs/tutorials/seguridad-de-smartcheckout#).
 
 ### Más información
 

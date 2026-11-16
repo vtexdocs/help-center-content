@@ -39,7 +39,7 @@ Hay dos opciones en el menú:
 
 ## Verificación en 2 pasos
 
-Haciendo clic en __Verificación en 2 pasos__, usted tiene acceso a dos opciones, __Código SMS__ y __App Google Autenticador__. Vea cómo configurar la verificación en 2 pasos en nuestro artículo [Habilitar inicio de sesión por autenticación de 2 factores](/es/tutorial/habilitar-login-por-autenticacao-de-2-fatores).
+Haciendo clic en __Verificación en 2 pasos__, usted tiene acceso a dos opciones, __Código SMS__ y __App Google Autenticador__. Vea cómo configurar la verificación en 2 pasos en nuestro artículo [Habilitar inicio de sesión por autenticación de 2 factores](/es/docs/tutorials/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores).
 
 ### Código SMS
 
@@ -51,7 +51,7 @@ Se debe realizar esta configuración nada más si usted desea recibir la clave d
 
 Aquí, usted debe configurar la aplicación que proporcionará la clave de autenticación.
 
-Vea en detalle cómo configurar la aplicación en el artículo [Habilitar inicio de sesión por autenticación de 2 factores](/es/tutorial/habilitar-login-por-autenticacao-de-2-fatores).
+Vea en detalle cómo configurar la aplicación en el artículo [Habilitar inicio de sesión por autenticación de 2 factores](/es/docs/tutorials/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores).
 
 ![Configuração Verificação em 2 passos User Management ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/admin-vtex/gestión-de-la-cuenta/usuarios/configurar-datos-personales-en-la-pantalla-de-usuario_6.png)
 

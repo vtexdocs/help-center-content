@@ -27,5 +27,5 @@ A marketplace can also be understood as a *showcase store*, displaying its own p
 ## Related articles
 
 - [What is a seller?](/en/docs/tutorials/what-is-a-seller)
-- [How to configure a seller](/en/tutorial/configuring-the-seller)
-- [Integrating with marketplaces](/en/tutorial/integrating-with-marketplace)
+- [How to configure a seller](/en/docs/tutorials/adding-a-seller)
+- [Integrating with marketplaces](/en/docs/tutorials/marketplace-strategies-at-vtex)

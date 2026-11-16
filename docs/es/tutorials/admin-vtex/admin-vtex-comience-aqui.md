@@ -49,8 +49,8 @@ Consulta nuestros artículos sobre la vista general de cada menú del Admin VTEX
 - [Apps](/es/docs/tutorials/vision-general-apps)  
 - [Configuración de la tienda](/es/docs/tutorials/vision-general-configuraciones-de-la-tienda)  
 - [Configuración de la cuenta](/es/docs/tutorials/vision-general-configuraciones-de-la-cuenta)  
-- [Configuración del usuario](/es/tutorial/visao-geral-configuracoes-de-usuario--3Qsy4ce1FrWKZPoMeEQY34#)  
-- [Facturas](/es/tutorial/billing-module-overview--6UxfCl4fw4GmyQwoUuIcQs?&utm_source=autocomplete)  
+- [Configuración del usuario](/es/docs/tutorials/vision-general-configuraciones-de-usuario#)  
+- [Facturas](/es/docs/tutorials/vision-general-facturacion?&utm_source=autocomplete)  
 
 > ℹ️ También puedes utilizar la barra de búsqueda en la parte superior del Admin VTEX para encontrar páginas específicas del menú lateral.
 
@@ -96,7 +96,7 @@ Tipo de feedback (marca una o varias casillas):
 
 ![configuraciones de avatar admin SEP2023](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/admin-vtex/admin-vtex-comience-aqui_5.gif)
 
-El avatar de tu perfil reúne todas las configuraciones relacionadas con tu usuario y tu cuenta. A través del avatar, puedes acceder a la [Configuración del usuario](/es/tutorial/visao-geral-configuracoes-de-usuario--3Qsy4ce1FrWKZPoMeEQY34#), a la [Configuración de la cuenta](/es/docs/tutorials/vision-general-configuraciones-de-la-cuenta), y a la información de las [Facturas](/es/tutorial/billing-module-overview--6UxfCl4fw4GmyQwoUuIcQs?&utm_source=autocomplete).  También puedes cambiar el idioma del Admin y cerrar la sesión.
+El avatar de tu perfil reúne todas las configuraciones relacionadas con tu usuario y tu cuenta. A través del avatar, puedes acceder a la [Configuración del usuario](/es/docs/tutorials/vision-general-configuraciones-de-usuario#), a la [Configuración de la cuenta](/es/docs/tutorials/vision-general-configuraciones-de-la-cuenta), y a la información de las [Facturas](/es/docs/tutorials/vision-general-facturacion?&utm_source=autocomplete).  También puedes cambiar el idioma del Admin y cerrar la sesión.
 
 El Admin VTEX ofrece una experiencia localizada, que incluye las siguientes opciones de idioma:
 

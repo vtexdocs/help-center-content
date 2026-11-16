@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 ---
 
-User management for your VTEX store’s administrative environment is done under [Account management](/en/docs/tutorials/visao-geral-configuracoes-da-conta--6USYxLuzNt4uAkvjdPF7I8) on the **Users** page. To access the page, click your **profile avatar** on the VTEX Admin top bar (the circle with the initial of your email) and click **Account settings** > **Users**.
+User management for your VTEX store’s administrative environment is done under [Account management](/en/docs/tutorials/account-settings-overview) on the **Users** page. To access the page, click your **profile avatar** on the VTEX Admin top bar (the circle with the initial of your email) and click **Account settings** > **Users**.
 
 This page allows you to: 
 
@@ -32,7 +32,7 @@ The table on the page shows:
 | ---- | ---- |
 | Email | Email address of the admin user registered in the VTEX Admin. |
 | Roles | Roles associated with the admin user. |
-| MFA | Multi-factor authentication (MFA) configuration. The status can be *Inactive* or show the configured method (*SMS* or *Authenticator*). Learn more in [Enable two-factor authentication login](/en/docs/tutorials/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ). |
+| MFA | Multi-factor authentication (MFA) configuration. The status can be *Inactive* or show the configured method (*SMS* or *Authenticator*). Learn more in [Enable two-factor authentication login](/en/docs/tutorials/enabling-2-factor-authentication-login). |
 
 The search bar lets you search by users’ email addresses and displays results in real time.
 

@@ -13,7 +13,7 @@ tags:
   - VTEX Sales App
 ---
 
-[VTEX Sales App Extensibility](https://help.vtex.com/docs/tutorials/vtex-sales-app-extensibility-en) allows merchants to customize the default sales journey through extensions at predefined extension points in the interface, without having to build solutions from scratch. This feature is available in open beta for everyone using [Sales App](https://help.vtex.com/docs/tracks/what-is-vtex-sales-app) on VTEX.
+[VTEX Sales App Extensibility](https://help.vtex.com/en/docs/tutorials/vtex-sales-app-extensibility-en) allows merchants to customize the default sales journey through extensions at predefined extension points in the interface, without having to build solutions from scratch. This feature is available in open beta for everyone using [Sales App](https://help.vtex.com/en/docs/tracks/what-is-vtex-sales-app) on VTEX.
 
 To support the development and implementation of extensions, merchants can use the [VTEX Sales App Extensions Skill](https://developers.vtex.com/docs/guides/vtex-sales-app-extensions-skill), an AI-powered skill with built-in knowledge of the Sales App and the FastStore monorepo.
 

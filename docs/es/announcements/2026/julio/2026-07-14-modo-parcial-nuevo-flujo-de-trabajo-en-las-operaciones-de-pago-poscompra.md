@@ -18,7 +18,7 @@ Para ofrecer mayor flexibilidad y control sobre las operaciones de pago poscompr
 
 Antes, las operaciones de pago poscompra (liquidaciones, cancelaciones y reembolsos) solo se realizaban en las siguientes modalidades: **total** o **hold**, sin la posibilidad de ejecutar transacciones parciales (con valores inferiores al total del pedido) directamente con el conector del proveedor de pagos.
 
-Con el nuevo **modo parcial** cada solicitud de liquidación, cancelación o reembolso se envía automáticamente al conector, lo que permite mayor agilidad en la gestión financiera, reducción de costos operativos y una mejor experiencia del cliente tras la compra. Este modo no admite operaciones con [split de pagos](https://help.vtex.com/es/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx).
+Con el nuevo **modo parcial** cada solicitud de liquidación, cancelación o reembolso se envía automáticamente al conector, lo que permite mayor agilidad en la gestión financiera, reducción de costos operativos y una mejor experiencia del cliente tras la compra. Este modo no admite operaciones con [split de pagos](https://help.vtex.com/es/docs/tutorials/split-de-pagos).
 
 Para más información sobre el funcionamiento de cada modo, consulta [Operaciones de pago poscompra](https://help.vtex.com/es/docs/tutorials/operaciones-de-pago-poscompra).
 

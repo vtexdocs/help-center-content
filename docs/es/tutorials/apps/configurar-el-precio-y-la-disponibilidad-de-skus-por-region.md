@@ -20,7 +20,7 @@ La función __Región__ permite que los artículos de una tienda (SKU) se muestr
 Para regionalizar los precios y la disponibilidad de SKU, debe:
 
 1. Configure la función Región, conforme descrito en la guía [Enable the Region for SKUs](https://developers.vtex.com/docs/guides/enable-the-region-for-skus).
-2. [Sellers White Label](/es/faq/que-son-cuenta-franquicia-y-seller-white-label) realicen entregas de pedidos hechos en su tienda para determinados rangos de Códigos Postales.
+2. [Sellers White Label](/es/docs/tutorials/seller-white-label) realicen entregas de pedidos hechos en su tienda para determinados rangos de Códigos Postales.
 3. La sesión del usuario navegando por la tienda contiene información sobre su código postal y país de origen.
 
 > ℹ️ Para utilizar esta función, la tienda debe tener el sistema ([VTEX Session](/es/tutorial/vtex-session-visao-geral-do-sistema-de-sessoes--6C4Edou6bYqqEAOCAg2MQQ#)). VTEX Session es nativo de todas las tiendas y usted puede confirmar su instalación por la presencia de las cookies <code>vtex_session<code> y <code>vtex_segment<code> al navegar por la tienda.
@@ -31,15 +31,15 @@ Para regionalizar los precios y la disponibilidad de SKU, debe:
 
 ## Configurar la entrega en la Cuenta Franquicia/Seller White Label
 
-El precio y la disponibilidad de los SKU en cada región se mostrarán en la tienda principal de acuerdo con su configuración de entrega (se indican los rangos de códigos postales). La información de los códigos postales se registra con los transportistas de la [Cuenta de Franquicia](/es/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl#) que actúan como la Seller White Label de la tienda.
+El precio y la disponibilidad de los SKU en cada región se mostrarán en la tienda principal de acuerdo con su configuración de entrega (se indican los rangos de códigos postales). La información de los códigos postales se registra con los transportistas de la [Cuenta de Franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia#) que actúan como la Seller White Label de la tienda.
 
 Para configurar la entrega, siga los pasos a continuación:
 
 1. Ingrese al Admin de la Cuenta Franquicia que actúa como Seller White Label de su tienda. 
 2. En __Envío__, haga click en __Estrategia de envío__.
 3. En __Políticas de envío__, haga clic en el botón `Crear Política de Envío` para registrar una [transportadora](/es/tutorial/gerenciar-transportadora). Los Códigos Postales atendidos por esta transportadora se llevarán en consideración para exhibir el precio y la disponibilidad por región en la tienda principal 
-5. Registre un [muelle](/es/tutorial/how-to-register-a-dock#).
-6. Registre un [inventario](/es/tutorial/gerenciar-estoque--tutorials_137#).
-7. [Agregue stock a los SKUs](/es/tutorial/managing-stock-items) que se entregarán por la ruta configurada.
+5. Registre un [muelle](/es/docs/tutorials/gestionar-el-muelle#).
+6. Registre un [inventario](/es/docs/tutorials/gestionar-almacenes#).
+7. [Agregue stock a los SKUs](/es/docs/tutorials/gestionar-items-en-inventario) que se entregarán por la ruta configurada.
 
 > ℹ️ Para que un SKU aparezca como disponible para la venta, es necesario que tenga stock y precio asociados a este.

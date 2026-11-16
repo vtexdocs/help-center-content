@@ -17,12 +17,12 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 > ⚠️ Esta é uma solução para pagamentos em contextos de marketplace.
 
-Para garantir que nossos clientes de [marketplace](/pt/docs/tutorials/o-que-e-um-marketplace) dividam o pagamento entre todos os [sellers](/pt/tutorial/what-is-a-seller) automaticamente, estabeleçam uma comissão baseada em um percentual fixo e permaneçam atuando conforme as regulamentações em vigor, a VTEX oferece o __Split de pagamentos__.
+Para garantir que nossos clientes de [marketplace](/pt/docs/tutorials/o-que-e-um-marketplace) dividam o pagamento entre todos os [sellers](/pt/docs/tutorials/o-que-e-um-seller) automaticamente, estabeleçam uma comissão baseada em um percentual fixo e permaneçam atuando conforme as regulamentações em vigor, a VTEX oferece o __Split de pagamentos__.
 
 Veja a seguir dois exemplos de cenários de aplicação de split de pagamentos onde um consumidor adiciona produtos de sellers diferentes ao mesmo carrinho:
 
-1. Quando o marketplace é responsável por processar o pagamento da compra, a VTEX divide automaticamente esse pagamento para que cada beneficiário receba a sua parte diretamente na própria conta bancária, realizando assim o [Split de recebíveis](/pt/tutorial/split-payment#split-de-recebiveis).
-2. Quando o carrinho envolve sellers que são responsáveis por processar o seu próprio meio de pagamento (sem depender do marketplace), a VTEX cria diferentes transações de pagamento para o Marketplace e os sellers, efetuando o [Split de transação](/pt/tutorial/split-payment#split-de-transacao).
+1. Quando o marketplace é responsável por processar o pagamento da compra, a VTEX divide automaticamente esse pagamento para que cada beneficiário receba a sua parte diretamente na própria conta bancária, realizando assim o [Split de recebíveis](/pt/docs/tutorials/split-de-pagamento#split-de-recebiveis).
+2. Quando o carrinho envolve sellers que são responsáveis por processar o seu próprio meio de pagamento (sem depender do marketplace), a VTEX cria diferentes transações de pagamento para o Marketplace e os sellers, efetuando o [Split de transação](/pt/docs/tutorials/split-de-pagamento#split-de-transacao).
 
 > ⚠️ A distribuição dos valores de uma compra sempre é realizada conforme os acordos de percentual de comissão pré-definidos entre o marketplace e os sellers.
 

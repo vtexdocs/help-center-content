@@ -23,7 +23,7 @@ symptomFilters:
 
 En algunas situaciones, la transportadora puede que no se muestre como una opción de envío en el checkout al finalizar un pedido en VTEX. Este artículo reúne los principales escenarios que causan este comportamiento y presenta las soluciones recomendadas para cada caso.
 
-> ℹ️ Antes de continuar, asegúrate de que todas las [transportadoras estén registradas](https://help.vtex.com/es/docs/tutorials/transportadoras-na-vtex) correctamente en la plataforma.
+> ℹ️ Antes de continuar, asegúrate de que todas las [transportadoras estén registradas](https://help.vtex.com/es/docs/tutorials/transportadoras-en-vtex) correctamente en la plataforma.
 
 ## Soluciones
 
@@ -56,7 +56,7 @@ Si el peso total de los ítems del pedido excede el peso máximo registrado para
 1. Accede a la configuración de la transportadora en **Configuración de la tienda > Envío > Configuración**.
 2. Comprueba que el peso máximo configurado para la transportadora se corresponde con el límite real que puede transportar.
 3. Cambia los valores en los campos `weightStart` y `weightEnd` en la [plantilla de envío](https://help.vtex.com/es/docs/tutorials/plantilla-de-flete).
-4. Importa la [Plantilla de Envío](https://help.vtex.com/pt/tutorial/importar-planilha-de-frete) nuevamente a la plataforma.
+4. Importa la [Plantilla de Envío](https://help.vtex.com/es/tutorial/importar-planilha-de-frete) nuevamente a la plataforma.
 
 ### División de paquetes no permitida
 

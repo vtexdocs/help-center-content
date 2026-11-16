@@ -41,5 +41,5 @@ La alteración de sellers solo podía ser realizada por marketplaces que no util
 Las afiliaciones con split de pagos ya están capturando pagos con el comportamiento **Utilizar el comportamiento recomendado del procesador de pagos**. Si decide mantener el comportamiento automático en la afiliación que admite split, debe seleccionar el comportamiento deseado en la página de visualización de la afiliación en la que se produce el split.
 
 [1](/es/docs/tutorials/split-de-pagos)
-[2](/es/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete)
+[2](/es/docs/tutorials/change-seller?&utm_source=autocomplete)
 

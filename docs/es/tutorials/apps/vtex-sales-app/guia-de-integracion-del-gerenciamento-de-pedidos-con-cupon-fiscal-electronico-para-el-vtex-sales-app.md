@@ -32,6 +32,6 @@ Cualquier otro dato fiscal que se necesite para tu negocio, por ejemplo, la Cont
 Puedes registrar especificaciones de producto a través de la API o el Admin VTEX:
 
 * **Vía API:** sigue la guía [Specifications](https://developers.vtex.com/docs/guides/specifications).
-* **Vía Admin VTEX:** sigue el tutorial [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto).
+* **Vía Admin VTEX:** sigue el tutorial [Cadastrar especificações ou campos de produto](https://help.vtex.com/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto).
 
 Para consultar los pedidos facturados realizados en **Sales App**, en el Admin VTEX, accede a **Pedidos > Todos los pedidos** y [filtra tus pedidos](https://help.vtex.com/es/docs/tutorials/filtrar-todos-los-pedidos) usando el filtro **Otros > inStore > true**.
