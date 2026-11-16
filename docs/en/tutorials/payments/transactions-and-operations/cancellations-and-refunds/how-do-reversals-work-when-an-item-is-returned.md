@@ -21,7 +21,7 @@ In such cases, VTEX sends the refund to the acquirer when the value has already 
 
 However, if this operation is not successful, an [e-mail notification](/en/docs/tutorials/how-to-configure-notifications/) will be sent, informing the retailer to get in touch with the acquirer in order to make the automatic refund.
 
-For more on this, [click here](/en/faq/why-was-my-cancelled-order-charged-in-the-client-invoice).
+For more on this, [click here](/en/faq/why-was-my-canceled-order-charged-in-the-client-invoice).
 
 ## The exception of the "boleto" (popular Brazilian off-line payment method)
 

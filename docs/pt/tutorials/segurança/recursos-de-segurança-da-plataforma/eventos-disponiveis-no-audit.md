@@ -39,6 +39,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 * [Opções de envio](#opcoes-de-envio)
 * [Agente de Otimização de Busca](#agente-de-otimizacao-de-busca)
 * [Autenticador](#autenticador)
+* [Gestão de Contratos](#gestao-de-contratos)
 
 > ℹ️ Caso você visualize no Audit algum evento que não esteja listado aqui, por favor nos informe usando a [página de feedback de documentação](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
@@ -503,4 +504,33 @@ Na coluna **Ação**, todos os eventos do Headless CMS (Legacy) também apresent
 | DelegationRevoked | Revogação de uma delegação antes da data de término. | ID da delegação. |
 | ImpersonationSuccess | Impersonação bem-sucedida de um usuário por meio de uma troca de token on-behalf-of (OBO). | ID do usuário original, ID do usuário delegado, tipo de impersonação, ID da delegação e ID da unidade organizacional. |
 | ImpersonationFailed | Tentativa de impersonação de um usuário, por meio de uma troca de token on-behalf-of (OBO), que falhou. | ID do usuário original, ID do usuário delegado, tipo de impersonação, ID da delegação, ID da unidade organizacional e motivo da falha. |
+
+## Gestão de Contratos
+
+> ℹ️ Esses eventos cobrem criações, atualizações e exclusões de um contrato e dos registros associados a ele. As mesmas ações incluem alterações feitas na Gestão de Contratos e alterações concluídas pelo Agente de Gerenciamento de Contratos. `DENIED_ATTEMPT` registra uma gravação recusada por falta de permissão. O evento não significa que o registro foi alterado e não inclui os valores dos campos.
+
+| Ação | Descrição do evento | Detalhes do evento |
+|---|---|---|
+| CREATE_CONTRACT | Criação de um contrato. | ID do contrato e os campos salvos no contrato. |
+| UPDATE_CONTRACT | Atualização de um contrato. | ID do contrato e cada campo alterado, com o valor antes e depois da alteração. |
+| DELETE_CONTRACT | Exclusão de um contrato. | ID do contrato e os valores dos campos imediatamente antes da exclusão. |
+| CREATE_ADDRESS | Criação de um endereço em um contrato. | ID do contrato e os campos salvos no endereço. |
+| UPDATE_ADDRESS | Atualização de um endereço de um contrato. | ID do contrato, ID do endereço e cada campo alterado, com o valor antes e depois da alteração. |
+| DELETE_ADDRESS | Exclusão de um endereço de um contrato. | ID do contrato, ID do endereço e os valores dos campos imediatamente antes da exclusão. |
+| CREATE_LOCATION | Criação de um local de entrega em um endereço de contrato. | ID do contrato e os campos salvos no local. |
+| UPDATE_LOCATION | Atualização de um local de entrega de um endereço de contrato. | ID do contrato, ID do local e cada campo alterado, com o valor antes e depois da alteração. |
+| DELETE_LOCATION | Exclusão de um local de entrega de um endereço de contrato. | ID do contrato, ID do local e os valores dos campos imediatamente antes da exclusão. |
+| CREATE_RECIPIENT | Criação de um destinatário em um contrato. | ID do contrato e os campos salvos no destinatário. |
+| UPDATE_RECIPIENT | Atualização de um destinatário de um contrato. | ID do contrato, ID do destinatário e cada campo alterado, com o valor antes e depois da alteração. |
+| DELETE_RECIPIENT | Exclusão de um destinatário de um contrato. | ID do contrato, ID do destinatário e os valores dos campos imediatamente antes da exclusão. |
+| CREATE_PAYMENT_METHOD | Criação de um meio de pagamento ou de um grupo de pagamento em um contrato. | ID do contrato e os campos salvos no registro. |
+| UPDATE_PAYMENT_METHOD | Atualização de um meio de pagamento ou de um grupo de pagamento de um contrato. | ID do contrato, ID do registro e cada campo alterado, com o valor antes e depois da alteração. |
+| DELETE_PAYMENT_METHOD | Exclusão de um meio de pagamento ou de um grupo de pagamento de um contrato. | ID do contrato, ID do registro e os valores dos campos imediatamente antes da exclusão. |
+| CREATE_ASSORTMENT | Criação de um sortimento ou de uma coleção em um contrato. | ID do contrato e os campos salvos no registro. |
+| UPDATE_ASSORTMENT | Atualização de um sortimento ou de uma coleção de um contrato. | ID do contrato, ID do registro e cada campo alterado, com o valor antes e depois da alteração. |
+| DELETE_ASSORTMENT | Exclusão de um sortimento ou de uma coleção de um contrato. | ID do contrato, ID do registro e os valores dos campos imediatamente antes da exclusão. |
+| CREATE_PRICE_TABLE | Criação de uma tabela de preços em um contrato. | ID do contrato e os campos salvos na tabela de preços. |
+| UPDATE_PRICE_TABLE | Atualização de uma tabela de preços de um contrato. | ID do contrato, ID da tabela de preços e cada campo alterado, com o valor antes e depois da alteração. |
+| DELETE_PRICE_TABLE | Exclusão de uma tabela de preços de um contrato. | ID do contrato, ID da tabela de preços e os valores dos campos imediatamente antes da exclusão. |
+| DENIED_ATTEMPT | Tentativa de criar, atualizar ou excluir um registro da Gestão de Contratos recusada por falta de permissão. | ID do contrato, a operação tentada, o motivo da recusa e os nomes dos campos enviados na requisição. Os valores dos campos não são registrados. |
 

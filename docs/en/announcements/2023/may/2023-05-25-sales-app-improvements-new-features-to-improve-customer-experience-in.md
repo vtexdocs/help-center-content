@@ -30,7 +30,7 @@ Aiming to improve customers' shopping experience in physical stores, we have int
 
 The **HTML features in the product description** and **Other offers** will be automatically applied to all VTEX stores that use Sales App.
 
-To implement **Similar product suggestions**, follow the steps in the article [Configuring similar products, suggestions, accessories, and generics](/en/docs/tutorials/setting-up-a-similar-product-suggestions-accessories-and-generics).
+To implement **Similar product suggestions**, follow the steps in the article [Configuring similar products, suggestions, accessories, and generics](/en/docs/tutorials/setting-up-accessories-suggestions-similar-products-and-show-together).
 
 To set up **Local stock sale** in your store, please refer to the article [Enabling Local stock sale in VTEX Sales App](/en/docs/tutorials/enabling-local-stock-sale-in-vtex-sales-app).
 

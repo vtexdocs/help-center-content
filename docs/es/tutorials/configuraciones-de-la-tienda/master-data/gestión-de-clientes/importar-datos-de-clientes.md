@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 42hDtnYXHw5ExG6l19RP1l
 ---
 
-La importación de datos de clientes debe hacerse en el Master Data. Para el envío de datos, use el artículo [Importando datos en el Master Data](/es/tutorial/importar-datos-en-el-master-data).
+La importación de datos de clientes debe hacerse en el Master Data. Para el envío de datos, use el artículo [Importando datos en el Master Data](/es/docs/tutorials/importar-datos-en-master-data-v1).
 
 > ❗ Vea [importar datos de clientes con la API de Master Data v1](https://developers.vtex.com/docs/guides/import-customer-data).
 

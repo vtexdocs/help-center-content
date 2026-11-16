@@ -10,7 +10,7 @@ locale: pt
 
 Um cluster de clientes é uma forma de segmentar clientes em grupos. Isso pode ser feito criando um campo booleano no **Master Data** (ex.: `Revendedores`, `VIP`, `Funcionários`). Clientes marcados como `true` nesse campo pertencem ao cluster, enquanto os demais não. Uma vez criado, você pode usar clusters para direcionar segmentos específicos de clientes com promoções exclusivas, campanhas personalizadas ou experiências diferenciadas.
 
-> ℹ️ Este artigo aborda o Master Data v1. Saiba mais sobre as [versões do Master Data](/pt/docs/tutorials/master-data#versions-available) e o [Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics).
+> ℹ️ Este artigo aborda o Master Data v1. Saiba mais sobre as [versões do Master Data](/pt/docs/tutorials/master-data-pt#versions-available) e o [Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics).
 
 ## Criando o campo de cluster de clientes
 

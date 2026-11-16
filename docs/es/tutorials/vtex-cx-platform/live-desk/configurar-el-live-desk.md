@@ -1,7 +1,7 @@
 ---
 title: 'Configurar Live Desk'
 createdAt: 2026-07-07T10:05:01.763Z
-updatedAt: 2026-07-07T10:20:04.339Z
+updatedAt: 2026-11-10T19:40:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: configure-live-desk
@@ -24,7 +24,7 @@ La sección **Preferencias del proyecto** contiene preferencias generales del so
 
 | Preferencia | Descripción |
 | --- | --- |
-| **Permitir que agentes de IA transfieran conversaciones a soporte humano** | Permite que un agente de IA reenvíe la conversación a un representante humano. Al activar esta opción, describe en el campo de texto los escenarios o criterios que requieren transferencia a soporte humano en hasta 1000 caracteres. |
+| **Permitir que agentes de IA transfieran conversaciones a soporte humano** | Permite que un agente de IA reenvíe la conversación a un representante humano. Al activar esta opción, describe en el campo de texto los escenarios o criterios que requieren transferencia a soporte humano en hasta 1000 caracteres. La cola que recibe la conversación proviene de la descripción que definas para cada cola. |
 | **Permitir interacciones solo para representantes online** | Impide que representantes offline o en pausa respondan a chats en curso. |
 | **Transferir chats en masa a otra cola o representante** | Permite transferir varios chats a la vez a otra cola o a otro representante. |
 | **Bloquear transferencia de chats a representantes offline** | Impide la transferencia de chats a representantes que están offline. |
@@ -109,10 +109,11 @@ Si eliges **Personalizar nuevo departamento**, sigue las instrucciones a continu
 Si eliges **Crear cola personalizada** sigue las instrucciones a continuación:
 
 1. Completa **Nombre de la cola** con un nombre para la cola, como *Pagos* o *Cambios*.
-2. Activa **Limitar chats** para definir un máximo para la cola. Cuando se alcance el límite, no se crearán nuevos chats.
-3. Haz clic en el menú **Seleccionar representante** para buscar y seleccionar los representantes de la cola.
-4. Para agregar más de una cola al departamento, haz clic en `+ Agregar cola` y llena los campos de la misma manera.
-5. Haz clic en `Continuar`.
+2. Describe los tipos de solicitudes que deben ir a esta cola, como preguntas de pago o solicitudes de cambio. La IA usa esta descripción para elegir la cola cuando transfiere la conversación al soporte humano.
+3. Activa **Limitar chats** para definir un máximo para la cola. Cuando se alcance el límite, no se crearán nuevos chats.
+4. Haz clic en el menú **Seleccionar representante** para buscar y seleccionar los representantes de la cola.
+5. Para agregar más de una cola al departamento, haz clic en `+ Agregar cola` y llena los campos de la misma manera.
+6. Haz clic en `Continuar`.
 
 #### Paso 3: Configurar opciones y mensajes
 
@@ -122,18 +123,18 @@ En el paso tres, configura las opciones de chats de soporte, mensajes automatiza
 
 1. En **Opciones adicionales**, activa o desactiva las configuraciones según la necesidad de tu operación:
 
-| Opción | Descripción |
-| --- | --- |
-| **Envío de plantillas de mensajes** | Permite que los representantes envíen plantillas de mensajes preconfiguradas durante el chat de soporte. |
-| **Usar firma** | Agrega automáticamente el nombre del representante en cada mensaje enviado. |
-| **Permitir a los representantes editar campos personalizables** | Permite que los representantes editen campos personalizados del contacto en la sección **Toda la información**. |
+    | Opción | Descripción |
+    | --- | --- |
+    | **Envío de plantillas de mensajes** | Permite que los representantes envíen plantillas de mensajes preconfiguradas durante el chat de soporte. |
+    | **Usar firma** | Agrega automáticamente el nombre del representante en cada mensaje enviado. |
+    | **Permitir a los representantes editar campos personalizables** | Permite que los representantes editen campos personalizados del contacto en la sección **Toda la información**. |
 
 2. En **Mensajes automatizados**, configura el envío automático de mensajes a los contactos:
 
-| Opción | Descripción |
-| --- | --- |
-| **Enviar mensaje automático a contactos en espera** | Envía un mensaje automático a contactos que esperan por un chat de soporte en la cola. El mensaje se muestra como si hubiera sido enviado por el representante asignado. |
-| **Enviar mensaje automático al iniciar el soporte** | Envía un mensaje automático cuando se asigna el chat a un representante. El mensaje se muestra como si hubiera sido enviado por el representante asignado. |
+    | Opción | Descripción |
+    | --- | --- |
+    | **Enviar mensaje automático a contactos en espera** | Envía un mensaje automático a contactos que esperan por un chat de soporte en la cola. El mensaje se muestra como si hubiera sido enviado por el representante asignado. |
+    | **Enviar mensaje automático al iniciar el soporte** | Envía un mensaje automático cuando se asigna el chat a un representante. El mensaje se muestra como si hubiera sido enviado por el representante asignado. |
 
 3. En **Encuesta de satisfacción** activa **Enviar automáticamente una encuesta de satisfacción después de finalizar el chat de soporte en Live Desk** para recopilar feedback de los clientes al final de cada chat de soporte.
 
@@ -154,7 +155,7 @@ En el paso tres, configura las opciones de chats de soporte, mensajes automatiza
 
 ![Etapa 4 do assistente de criação de setor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configurações-vtex-cx-platform/configurar-o-live-desk_4.png)
 
-En el paso cuatro, que es el último, configura mensajes rápidos para el departamento. Los mensajes rápidos son atajos que permiten a los representantes enviar respuestas estandarizadas con más agilidad durante el chat de soporte.
+En el paso cuatro, que es el último, configura mensajes rápidos para el departamento. Los mensajes rápidos son atajos que permiten a los representantes enviar respuestas estandarizadas durante el chat de soporte.
 
 > ℹ️ Este paso es opcional. Puedes omitir la configuración de mensajes rápidos y completarla después en los ajustes del departamento.
 

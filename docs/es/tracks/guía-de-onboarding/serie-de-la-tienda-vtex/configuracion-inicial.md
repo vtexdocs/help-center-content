@@ -74,7 +74,7 @@ Para definir las acciones que un usuario puede realizar en el Admin VTEX, sigue 
 
 Debes configurar el método de [autenticación](/es/docs/tutorials/autenticacion) que los clientes emplearán para iniciar sesión en la tienda y que los usuarios administrativos utilizarán para iniciar sesión en el Admin VTEX. Existen diversas formas de completar la autenticación en el entorno VTEX. Por ejemplo, los métodos de código de acceso y contraseña siempre están disponibles, mientras que la autenticación mediante Google es opcional.
 
-Para iniciar sesión en la tienda, VTEX ofrece la autenticación por código de acceso, contraseña, [Facebook](/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook) y [Google](/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google). Se pueden activar uno o más métodos de autenticación. Las instrucciones para activar las soluciones se detallan en el artículo [Autenticación](/es/docs/tutorials/autenticacion).
+Para iniciar sesión en la tienda, VTEX ofrece la autenticación por código de acceso, contraseña, [Facebook](/es/docs/tutorials/registrar-client-id-y-secreto-del-cliente-para-inicio-de-sesion-con-facebook) y [Google](/es/docs/tutorials/registrar-client-id-y-secreto-del-cliente-para-inicio-de-sesion-con-google). Se pueden activar uno o más métodos de autenticación. Las instrucciones para activar las soluciones se detallan en el artículo [Autenticación](/es/docs/tutorials/autenticacion).
 
 ## Autenticación para integraciones y desarrollo de aplicaciones
 

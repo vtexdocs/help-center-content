@@ -33,7 +33,7 @@ To configure Creditop, follow the steps below:
 2. In the **Payment Conditions** tab, click on the `+` button.
 3. Click on **Creditop**.
 4. Activate the condition in the **Status** field.
-6. If you want, you can also [configure special payment conditions](/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+6. If you want, you can also [configure special payment conditions](/en/docs/tutorials/special-conditions?&utm_source=autocomplete#).
 7. Click `Save`.
 
 After following the indicated steps, Creditop connector may take up to 10 minutes to appear at your store's checkout as a payment option.

@@ -19,7 +19,7 @@ subcategoryId: 5uXA9a0laSLMkfbv6jQRDS
 
 Na VTEX, não é necessário criar uma conta ou fazer login para realizar uma compra. No entanto, caso o cliente queira efetuar alguma alteração nos dados informados durante a primeira compra, é necessário que ele comprove a posse do email em questão.
 
-Nativamente, a plataforma oferece opções de login com email e senha e com código de acesso enviado para o email do cliente. Também oferecemos integrações opcionais nativas com Apple ID, [Google e Facebook](/pt/tutorial/integracao-google-e-facebook-para-login--tutorials_513), que necessitam ser configuradas. Este guia explica as configurações necessárias para habilitar o login com [Apple ID](https://support.apple.com/pt-br/apple-id) na sua loja:
+Nativamente, a plataforma oferece opções de login com email e senha e com código de acesso enviado para o email do cliente. Também oferecemos integrações opcionais nativas com Apple ID, [Google e Facebook](/pt/docs/tutorials/configurar-login-com-facebook-e-google), que necessitam ser configuradas. Este guia explica as configurações necessárias para habilitar o login com [Apple ID](https://support.apple.com/pt-br/apple-id) na sua loja:
 
 * [Pré-requisitos](#pre-requisitos)
 * [Criar um registro na Apple](#criar-um-registro-na-apple)

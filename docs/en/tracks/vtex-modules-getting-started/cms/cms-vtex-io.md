@@ -15,7 +15,7 @@ trackSlugEN: cms
 order: 2
 ---
 
-For stores developed with Store Framework, content management is performed through a [Content Management System - CMS](https://help.vtex.com/docs/tracks/what-is-the-cms) that integrates with [Site Editor](https://help.vtex.com/docs/tutorials/site-editor-overview). Other features, such as page, style, and banner management, are also available.
+For stores developed with Store Framework, content management is performed through a [Content Management System - CMS](https://help.vtex.com/en/docs/tracks/what-is-the-cms) that integrates with [Site Editor](https://help.vtex.com/en/docs/tutorials/site-editor-overview). Other features, such as page, style, and banner management, are also available.
 
 To build and configure your Store Framework website using CMS, you'll use the following features:
 
@@ -35,7 +35,7 @@ With an intuitive interface directly in the VTEX Admin, Site Editor reflects the
 ![site-editor-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/cms-vtex-io_1.png)
 ## Layout - Sites and channels
 
-Stores developed with Store Framework must also configure [store binding](https://help.vtex.com/docs/tutorials/what-is-cms-layout#binding) in the **[Sites and channels](https://help.vtex.com/docs/tutorials/what-is-cms-layout#sites-and-channels)** folder in the **Layout** section of the VTEX Admin.
+Stores developed with Store Framework must also configure [store binding](https://help.vtex.com/en/docs/tutorials/what-is-cms-layout#binding) in the **[Sites and channels](https://help.vtex.com/en/docs/tutorials/what-is-cms-layout#sites-and-channels)** folder in the **Layout** section of the VTEX Admin.
 
 Binding is the process of linking your website to a store. For more details, see the article [Linking a store to a folder structure in CMS (binding)](/en/docs/tutorials/linking-an-account-name-to-a-website-binding).
 
@@ -47,7 +47,7 @@ Binding is the process of linking your website to a store. For more details, see
 
 Banners is the feature that displays banners, like promotional campaigns, on the customer search results page. This is done by associating the words and filters selected in the search with the banner settings in your store.
 
-To learn how to use this module, go to the tutorial [Configuring banners](https://help.vtex.com/docs/tutorials/configuring-banners).
+To learn how to use this module, go to the tutorial [Configuring banners](https://help.vtex.com/en/docs/tutorials/configuring-banners).
 
 ## Pages
 
@@ -59,7 +59,7 @@ This section also includes the **Redirects** page, which allows you to set up re
 
 ![cms-store-framework-redirecionamentos-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/cms-vtex-io_4.png)
 
-To learn more about this module, go to the tutorial [Pages](https://help.vtex.com/docs/tutorials/pages-overview).
+To learn more about this module, go to the tutorial [Pages](https://help.vtex.com/en/docs/tutorials/pages-overview).
 
 ## Styles
 
@@ -67,7 +67,7 @@ This feature allows you to define your store typography and color palette.
 
 > ⚠️ This feature only works in [production workspaces](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-production-workspace).
 
-To learn how to use this module, go to the tutorial [Styles](https://help.vtex.com/docs/tutorials/styles-overview).
+To learn how to use this module, go to the tutorial [Styles](https://help.vtex.com/en/docs/tutorials/styles-overview).
 
 ## Media
 
@@ -75,10 +75,10 @@ Media is the module where you manage store media files, such as images and video
 
 ![cms-store-framework-media-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/cms-vtex-io_5.png)
 
-To learn more about this module, go to [Media - Overview](https://help.vtex.com/docs/tutorials/media-overview).
+To learn more about this module, go to [Media - Overview](https://help.vtex.com/en/docs/tutorials/media-overview).
 
 ## Learn more
 
-- **[Managing page and template content](https://help.vtex.com/docs/tutorials/managing-page-and-template-content):** Build your storefront based on your business needs using a user-friendly interface.
+- **[Managing page and template content](https://help.vtex.com/en/docs/tutorials/managing-page-and-template-content):** Build your storefront based on your business needs using a user-friendly interface.
 
-- **[Managing content by binding](https://help.vtex.com/docs/tutorials/managing-content-per-binding):** Strategically customize your store's appearance according to user location to increase traffic and sales.
+- **[Managing content by binding](https://help.vtex.com/en/docs/tutorials/managing-content-per-binding):** Strategically customize your store's appearance according to user location to increase traffic and sales.

@@ -34,7 +34,7 @@ The seller's registration will only be necessary in __the scenario in which your
 
 Each seller must have a __unique identifier__.
 
-To set up a seller, follow the walkthrough described [in this article](/en/tutorial/configuring-the-seller/).
+To set up a seller, follow the walkthrough described [in this article](/en/docs/tutorials/adding-a-seller).
 
 ## Affiliate
 
@@ -46,10 +46,10 @@ Each marketplace must have a __unique affiliate identifier__.
 
 After creating an [affiliate](/en/docs/tutorials/configuring-affiliates/), you must associate a sales policy with it. The sales policy contains the product assortment, logistics and price information that will be sent to the affiliate.
 
-> ℹ️ If the marketplace configuration is made through the [Bridge](/en/tutorial/configuring-a-marketplace-sales-policy/) module, the affiliate will be automatically created in the OMS.
+> ℹ️ If the marketplace configuration is made through the [Bridge](/en/docs/tutorials/configuring-a-marketplace-trade-policy) module, the affiliate will be automatically created in the OMS.
 
 #### **LEAR MORE**
 
-- [Marketplace strategies at VTEX](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
+- [Marketplace strategies at VTEX](/en/docs/tutorials/marketplace-strategies-at-vtex)
 - [How sales channels work](/en/docs/tutorials/how-trade-policies-work)
 - [Creating a sales channel](/en/docs/tutorials/creating-a-trade-policy)
