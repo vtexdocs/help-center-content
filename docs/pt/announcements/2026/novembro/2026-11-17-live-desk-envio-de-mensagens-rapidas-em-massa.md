@@ -12,7 +12,7 @@ tags:
 announcementSynopsisPT: 'Atendentes agora podem enviar uma mensagem rápida salva para várias conversas de uma vez no Live Desk, com revisão antes do envio e acompanhamento em tempo real.'
 ---
  
-Lançamos no [Live Desk](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk) o **envio de mensagens rápidas em massa**, que permite ao atendente enviar uma mensagem rápida salva para várias conversas de uma só vez, diretamente pelo menu de opções da mensagem. Essa funcionalidade está em disponibilidade geral para as lojas VTEX de todas as regiões.
+Lançamos no [Live Desk](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk) o envio de mensagens rápidas em massa, que permite ao atendente enviar uma mensagem rápida salva para várias conversas de uma só vez, diretamente pelo menu de opções da mensagem. Essa funcionalidade está em disponibilidade geral para as lojas VTEX de todas as regiões.
  
 ## O que mudou?
  
@@ -20,12 +20,12 @@ Antes, para enviar a mesma mensagem rápida a vários contatos, o atendente prec
  
 Agora, a partir do menu de opções de uma mensagem rápida salva, o atendente pode:
  
-- **Enviar para várias conversas ao mesmo tempo**, sem precisar abrir cada uma.
-- **Escolher os contatos** que receberão a mensagem. Por padrão, todos os contatos vêm selecionados.
-- **Revisar antes de enviar**, por meio de um checklist de confirmação que evita envios em massa acidentais.
-- **Acompanhar o envio** com uma barra de progresso em tempo real e receber uma notificação de confirmação com a quantidade de conversas que receberam a mensagem.
+- Enviar para várias conversas ao mesmo tempo, sem precisar abrir cada uma.
+- Escolher os contatos que receberão a mensagem. Por padrão, todos os contatos vêm selecionados.
+- Revisar antes de enviar, por meio de um checklist de confirmação que evita envios em massa acidentais.
+- Acompanhar o envio com uma barra de progresso em tempo real e receber uma notificação de confirmação com a quantidade de conversas que receberam a mensagem.
 
-A funcionalidade também se aplica a mensagens rápidas já existentes. Para saber mais, consulte a seção [Criar e enviar mensagens rápidas](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk#criar-e-enviar-mensagens-rápidas) do artigo **Visão geral do Live Desk**.
+O envio em massa também funciona com mensagens rápidas. Você pode usá-lo com qualquer mensagem rápida já cadastrada, sem criar um novo modelo. Para isso, abra o menu de opções da mensagem e selecione Enviar em massa. Para mais informações, veja [Visão geral do Live Desk](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk).
 
 ## O que precisa ser feito?
  
