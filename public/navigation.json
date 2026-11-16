@@ -25,28 +25,28 @@
           "children": [
             {
               "name": {
-                "en": "November",
-                "es": "Noviembre",
-                "pt": "November"
+                "en": "Novembro",
+                "es": "Novembro",
+                "pt": "Novembro"
               },
               "slug": {
-                "en": "2026-november",
-                "es": "2026-noviembre",
-                "pt": "november"
+                "en": "novembro",
+                "es": "novembro",
+                "pt": "2026-novembro"
               },
               "origin": "",
               "type": "category",
               "children": [
                 {
                   "name": {
-                    "en": "Live Desk: bulk sending of quick messages",
-                    "es": "Live Desk: envío masivo de mensajes rápidos",
-                    "pt": "Live Desk: envio de mensagens rápidas em massa"
+                    "en": "VTEX CX Platform: Okta login for enterprise clients",
+                    "es": "VTEX CX Platform: inicio de sesión con Okta para clientes empresariales",
+                    "pt": "VTEX CX Platform: login com Okta para clientes enterprise"
                   },
                   "slug": {
-                    "en": "2026-11-16-live-desk-bulk-sending-of-quick-messages",
-                    "es": "2026-11-16-live-desk-envio-masivo-de-mensajes-rapidos",
-                    "pt": "2026-11-16-live-desk-envio-de-mensagens-rapidas-em-massa"
+                    "en": "2026-11-16-vtex-cx-platform-enterprise-okta-login",
+                    "es": "2026-11-16-vtex-cx-platform-inicio-de-sesion-con-okta-para-clientes-empresariales",
+                    "pt": "2026-11-16-vtex-cx-platform-login-com-okta-para-clientes-enterprise"
                   },
                   "origin": "",
                   "type": "markdown",
