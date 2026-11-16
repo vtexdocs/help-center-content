@@ -45,7 +45,7 @@ In this section, you can check the basic information of your VTEX account.
 - **Creation date:** The date your account was created.
 - **Account ID:** The unique code that identifies your account.
 - **Go-live date:** The date your account was activated and available for configuration and store implementation.
-- **Account status:** Indicates whether your account is in production or not. An account in production is the first step to [making your store available for customers in a public domain](/en/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM). This status can be either **in production** or **not in production**.
+- **Account status:** Indicates whether your account is in production or not. An account in production is the first step to [making your store available for customers in a public domain](/en/docs/tracks/go-live). This status can be either **in production** or **not in production**.
 - **Admin platform status:** Indicates whether or not your account is active, which means that the VTEX Admin and APIs are available for the configuration and deployment of your store. This status can be **Active** or **Inactive**.
 
 ### Company information
@@ -82,7 +82,7 @@ This section displays the account sponsor details. Each VTEX account has only on
 
 ![Account details page - Sponsor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-admin/account-management/accounts/account-management_5.png)
 
-If you are the sponsor user, you can [transfer store ownership](/en/tutorial/transferencia-de-propriedade-da-loja) in this section. This allows you to transfer the store's ownership to another user.
+If you are the sponsor user, you can [transfer store ownership](/en/docs/tutorials/transferring-store-ownership) in this section. This allows you to transfer the store's ownership to another user.
 
 ## Stores
 
@@ -118,8 +118,8 @@ Follow the steps below to create a store:
 	- **Store name:** Name that will identify your store.
 	- **Trading name:** Business name of your store.
 	- **Locale:** Preset language associated with this store.
-	- **Sales channel:** [Sales channel](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV#) you want to associate with the new store.
-5. If you wish to start the [go-live](/en/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM) process for your store, fill in the **Hosts** field with [your store's domain](/en/tutorial/configurando-dominios-no-license-manager). Otherwise, leave it blank.
+	- **Sales channel:** [Sales channel](/en/docs/tutorials/how-trade-policies-work#) you want to associate with the new store.
+5. If you wish to start the [go-live](/en/docs/tracks/go-live) process for your store, fill in the **Hosts** field with [your store's domain](/en/docs/tutorials/configuring-the-store-domain). Otherwise, leave it blank.
 6. Click the `Create` button.
 
 > ℹ️ To learn more about configuring your store's **Hosts**, read the article [Configure your store domain](/en/docs/tutorials/configuring-the-store-domain).
@@ -155,7 +155,7 @@ The name of the removed store cannot be used again.
 
 - [What is an account name?](/en/docs/tutorials/what-is-an-account-name)
 - [Sponsor user](/en/docs/tutorials/what-is-the-sponsor-user)
-- [Transferring store ownership](/en/tutorial/transferencia-de-propriedade-da-loja)
+- [Transferring store ownership](/en/docs/tutorials/transferring-store-ownership)
 - [Configure your store's domain](/en/docs/tutorials/configuring-the-store-domain)
-- [Go-live](/en/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM)
+- [Go-live](/en/docs/tracks/go-live)
 

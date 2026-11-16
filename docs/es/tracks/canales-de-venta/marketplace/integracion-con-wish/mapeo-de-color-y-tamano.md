@@ -33,7 +33,7 @@ Siga el procedimiento, rellenando los campos de la plantilla de mapeo de la sigu
 
 Dada esta información, continúe completando la plantilla siguiendo las siguientes orientaciones:
 
-  2. **VTEXField**: es el nombre del [campo de SKU](/es/tutorial/criando-campo-de-sku) utilizado en su tienda en VTEX.
+  2. **VTEXField**: es el nombre del [campo de SKU](/es/docs/tutorials/registrar-especificaciones-o-campos-de-sku) utilizado en su tienda en VTEX.
 _Ej.: campos como "Tamaño", "Color"._
 
   3. **WishField**: es el nombre de la especificación en Wish, que corresponde al campo de SKU que usted utilizó en el campo VTEXField.

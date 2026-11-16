@@ -17,7 +17,7 @@ announcementSynopsisES: 'La gestión de las credenciales de autenticación ya no
 
 La agilización de los procesos es fundamental para que las operaciones de comercio digital acompañen el ritmo de la naturaleza dinámica y acelerada de los mercados globales. Sin embargo, ciertas acciones críticas de mantenimiento y autorización se deben gestionar de forma centralizada, dado el potencial impacto negativo de los errores. 
 
-Por eso, cada cuenta VTEX solamente tiene un [usuario titular](/es/tutorial/que-es-el-usuario-patrocinador), el único que tiene acceso completo a todas las secciones del Admin. Si trabaja con nosotros desde hace tiempo, tal vez haya pensado: 
+Por eso, cada cuenta VTEX solamente tiene un [usuario titular](/es/docs/tutorials/que-es-el-usuario-titular), el único que tiene acceso completo a todas las secciones del Admin. Si trabaja con nosotros desde hace tiempo, tal vez haya pensado: 
 
 «_¿Un usuario titular? ¿Acaso no es el <span style="text-decoration:underline;">usuario master</span>?_»
 
@@ -37,6 +37,6 @@ Antes, solo el usuario titular podía crear y gestionar los pares appKey y appTo
 
 ## Más información
 
-* [¿Qué es el usuario titular?](/es/tutorial/que-es-el-usuario-patrocinador)
+* [¿Qué es el usuario titular?](/es/docs/tutorials/que-es-el-usuario-titular)
 * [Transferir la propiedad de la tienda](/es/docs/tutorials/transferir-la-propiedad-de-la-tienda)
 * [Autenticación](/es/docs/tutorials/claves-de-api)

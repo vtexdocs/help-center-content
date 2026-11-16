@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
 ---
 
-[VTEX Sales App](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc) is the solution that enables merchants to integrate physical and digital sales, reduce friction in sales, and optimize operation management.
+[VTEX Sales App](/en/docs/tracks/vtex-sales-app-getting-started-and-setting-up) is the solution that enables merchants to integrate physical and digital sales, reduce friction in sales, and optimize operation management.
 
 This article answers frequently asked questions about **VTEX Sales App**, divided into four main sections:
 
@@ -63,7 +63,7 @@ This article answers frequently asked questions about **VTEX Sales App**, divide
 
   [18 - Does VTEX Sales App support accounts using store cards (private label)?](#18-does-vtex-sales-app-support-accounts-using-store-cards-private-label)
 
-> ℹ️ For more information, see the track [VTEX Sales App - Getting started and setting up](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc) or watch a [demo video](https://www.youtube.com/watch?v=zE8A3SWgP-s).
+> ℹ️ For more information, see the track [VTEX Sales App - Getting started and setting up](/en/docs/tracks/vtex-sales-app-getting-started-and-setting-up) or watch a [demo video](https://www.youtube.com/watch?v=zE8A3SWgP-s).
 
 ## Account architecture
 
@@ -93,7 +93,7 @@ To sell local inventory (on hands), the store must meet the following criteria:
 
 This integration between the VTEX platform and the store system provides customers with a mixed cart experience, allowing them to purchase both local and remote inventory items in a single order and financial transaction.
 
-> ℹ️ To make local inventory available, follow the steps in the article [Enabling local inventory sales in VTEX Sales App](/en/tutorial/habilitar-venda-de-estoque-local-do-vtex-sales-app--54eQN4rOH5yBYPGG2w8v9q?&utm_source=autocomplete).
+> ℹ️ To make local inventory available, follow the steps in the article [Enabling local inventory sales in VTEX Sales App](/en/docs/tutorials/enabling-local-stock-sale-in-vtex-sales-app).
 
 ### 4. Is VTEX Sales App equally strategic for all business models?
 
@@ -165,7 +165,7 @@ If you want to use a payment method configured in your ecommerce website that is
 
 ### 15. What payment connectors act as acquirers for card purchases in VTEX Sales App?
 
-With [acquirer](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG#adquirente) services, stores can offer customers flexible payment options for credit or debit card purchases, including installment payments. This applies to both ecommerce stores and payment terminals in physical stores.
+With [acquirer](/en/docs/tracks/payments#adquirente) services, stores can offer customers flexible payment options for credit or debit card purchases, including installment payments. This applies to both ecommerce stores and payment terminals in physical stores.
 
 **VTEX Sales App** supports the following payment connectors:
 

@@ -30,4 +30,4 @@ Várias configurações do Agent Builder exigiam o uso do CLI ou intervenção t
 
 ## O que precisa ser feito?
 
-Nenhuma ação é necessária. As melhorias já estão disponíveis em todos os projetos. Para saber mais, leia os artigos [Agent Builder - Visão geral](https://help.vtex.com/pt/docs/tutorials/visao-geral-agent-builder), [Atribuir e testar agentes](https://help.vtex.com/pt/docs/tutorials/atribuir-e-testar-agentes) e [Auditoria: Conversas](https://help.vtex.com/pt/tutorial/audit-conversations).
+Nenhuma ação é necessária. As melhorias já estão disponíveis em todos os projetos. Para saber mais, leia os artigos [Agent Builder - Visão geral](https://help.vtex.com/pt/docs/tutorials/visao-geral-agent-builder), [Atribuir e testar agentes](https://help.vtex.com/pt/docs/tutorials/atribuir-e-testar-agentes) e [Auditoria: Conversas](https://help.vtex.com/pt/docs/tutorials/auditoria-conversas).

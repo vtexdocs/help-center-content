@@ -22,7 +22,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 ![overview-listing-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/amazon-listing_1.gif)
 
-> ℹ️ All products must have [Inventory](/en/docs/tutorials/warehouse) and [Price](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configured before being sent to the marketplace.
+> ℹ️ All products must have [Inventory](/en/docs/tutorials/warehouse) and [Price](/en/docs/tracks/prices-101) configured before being sent to the marketplace.
 
 ## Page overview
 

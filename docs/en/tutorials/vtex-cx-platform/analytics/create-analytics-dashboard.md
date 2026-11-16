@@ -15,7 +15,7 @@ The **Analytics** module of the VTEX CX Platform allows you to create custom das
 To create a custom dashboard, follow the instructions below:
 
 1. In the **Analytics** module, click the arrow next to **Live Desk**.
-2. Click <i class="fas fa-plus" aria-hidden="true"></i>`New dashboard`.
+2. Click <i class="fas fa-plus" aria-hidden="true"></i> `New dashboard`.
 3. Enter the dashboard name, select the store currency, and choose a layout.
 4. Click `Save`. The new dashboard will open.
 
@@ -29,9 +29,9 @@ To configure a card widget, follow the instructions below:
 
 1. Click the configuration button of the card you want to configure. The **Widget gallery** will open on the side.
 2. Select the type of widget you want to configure:
-  - [Runs](#runs).
-  - [Flow result](#flow-result).
-  - [Data crossing](#data-crossing).
+    - [Runs](#runs).
+    - [Flow result](#flow-result).
+    - [Data crossing](#data-crossing).
 3. Complete the configuration fields for the selected widget.
 4. Click `Save`.
 
@@ -58,8 +58,8 @@ To configure this widget, complete the fields below:
 2. Select the flow you want to monitor.
 3. In **Flow result**, search for or select the result you want to display.
 4. In **Operation**, select the operations that will apply to the result:
-   - Total or Average.
-   - Highest value or Lowest value.
+    - Total or Average.
+    - Highest value or Lowest value.
 5. To monitor data with a currency symbol, check the **Currency** box.
 6. Choose an emoji for the widget. This step is optional. The emoji displays next to the metric and can help visually identify the widget.
 7. Click `Save`.
@@ -72,18 +72,18 @@ To configure this widget, complete the fields below:
 
 1. In **Enter a name for the card**, enter a name to identify the widget on the dashboard.
 2. In **First value**, select the first flow and the result type:
-   - **Runs:** Uses the number of runs as a value.
-   - **Flow result:** Uses the result of a specific flow step as a value.
-     - If you select **Flow result**, you need to choose a flow result and the type of data you want (sum, average, minimum, or maximum).
+    - **Runs:** Uses the number of runs as a value.
+    - **Flow result:** Uses the result of a specific flow step as a value.
+      - If you select **Flow result**, you need to choose a flow result and the type of data you want (sum, average, minimum, or maximum).
 3. In **Second value**, select the second flow and the result type:
-   - **Runs:** Uses the number of runs as a value.
-   - **Flow result:** Uses the result of a specific flow step as a value.
-     - If you select **Flow result**, you need to choose a flow result and the type of data you want (sum, average, minimum, or maximum).
+    - **Runs:** Uses the number of runs as a value.
+    - **Flow result:** Uses the result of a specific flow step as a value.
+      - If you select **Flow result**, you need to choose a flow result and the type of data you want (sum, average, minimum, or maximum).
 4. In **Operation**, choose how to combine the two values:
-  - **Multiply:** Multiplies the first value by the second.
-  - **Difference:** Calculates the difference between the two values.
-  - **Sum:** Adds the two values.
-  - **Percentage:** Calculates the percentage of the first value relative to the second.
+    - **Multiply:** Multiplies the first value by the second.
+    - **Difference:** Calculates the difference between the two values.
+    - **Sum:** Adds the two values.
+    - **Percentage:** Calculates the percentage of the first value relative to the second.
 5. To monitor data with a currency symbol, check the **Currency** box.
 6. Click `Save`.
 
@@ -95,10 +95,10 @@ To configure a column widget, follow the instructions below:
 
 1. Click the Configure button on the column you want to configure. The **Widget gallery** will open on the side.
 2. Select the type of widget you want to configure:
-  - [Funnel](#funnel).
-  - [Recurrence](#recurrence).
-  - [VTEX](#vtex).
-  - [Template conversion](#template-conversion).
+    - [Funnel](#funnel).
+    - [Recurrence](#recurrence).
+    - [VTEX](#vtex).
+    - [Template conversion](#template-conversion).
 3. Complete the configuration fields for the selected widget.
 4. Click `Save`.
 

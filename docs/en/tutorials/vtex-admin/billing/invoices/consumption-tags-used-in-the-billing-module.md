@@ -27,7 +27,7 @@ This article describes the tags available in the Billing module. Our goal is to 
 
 For an order to be tagged, it must meet the following conditions:
 
-* Have all [order details](/en/docs/tracks/orders) ([incomplete](/en/docs/tutorials/understanding-incomplete-orders) orders do not receive tags).
+* Have all [order details](/en/docs/tutorials/orders-data-pipeline-beta) ([incomplete](/en/docs/tutorials/understanding-incomplete-orders) orders do not receive tags).
 * Have payment information, including the authorization date of the financial transaction.
 
 ## Changing orders and tags

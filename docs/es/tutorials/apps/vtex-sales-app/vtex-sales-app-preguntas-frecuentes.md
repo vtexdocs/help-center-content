@@ -93,7 +93,7 @@ La tienda debe cumplir los siguientes criterios para vender stock local (On Hand
 
 Esta integración entre la plataforma VTEX y el sistema de la tienda es lo que proporciona a los clientes la experiencia de carritos mixtos, conteniendo en un único pedido y transacción financiera tanto ítems del stock local como del remoto.
 
-> ℹ️ Para disponibilizar el stock local, realiza los pasos descritos en [Activar venta de stock local en VTEX Sales App](/es/tutorial/habilitar-venda-de-estoque-local-do-vtex-sales-app--54eQN4rOH5yBYPGG2w8v9q?&utm_source=autocomplete).
+> ℹ️ Para disponibilizar el stock local, realiza los pasos descritos en [Activar venta de stock local en VTEX Sales App](/es/docs/tutorials/habilitar-venta-de-inventario-local-en-vtex-sales-app?&utm_source=autocomplete).
 
 ### 4. ¿Es VTEX Sales App igualmente estratégica para cualquier modelo de negocio?
 

@@ -15,14 +15,14 @@ En el módulo **Auditoría** puedes acceder a la pestaña **Conversaciones**, do
 | Dato | Descripción |
 | --- | --- |
 | **Contacto** | Nombre y número de teléfono del cliente. Las [conversaciones excelentes](#conversaciones-excelentes) se identifican con una tag de estrella en el nombre del contacto. |
-| **Status** | Status actual de la conversación. Los status posibles son: <br> `No atendido`: el agente de IA falló en la resolución del chat de soporte (por ejemplo: proporcionó información incorrecta, ignoró una queja, no ejecutó una acción prometida, entre otros). <br> `Atendido por IA`: el agente de IA resolvió el chat de soporte con éxito. <br> `En progreso`: el chat de soporte aún está en curso. <br> `Enviado a soporte humano`: el agente de IA no pudo resolver el chat de soporte y tuvo que enviarlo a un representante humano. |
-| **Feedback** | Encuesta de satisfacción (CSAT), del 1 al 5, enviada al final del chat de soporte. Las calificaciones posibles son: <br> 😡`Muy insatisfecho / CSAT: 1` <br> 😔`Insatisfecho / CSAT: 2` <br> 😐`Neutro / CSAT: 3` <br> 😃`Satisfecho / CSAT: 4` <br> 🤩`Muy satisfecho / CSAT: 5` <br> Las conversaciones sin calificación se indican con un guion (`-`). |
+| **Status** | Status actual de la conversación. Los status posibles son: <br /> `No atendido`: el agente de IA falló en la resolución del chat de soporte (por ejemplo: proporcionó información incorrecta, ignoró una queja, no ejecutó una acción prometida, entre otros). <br /> `Atendido por IA`: el agente de IA resolvió el chat de soporte con éxito. <br /> `En progreso`: el chat de soporte aún está en curso. <br /> `Enviado a soporte humano`: el agente de IA no pudo resolver el chat de soporte y tuvo que enviarlo a un representante humano. |
+| **Feedback** | Encuesta de satisfacción (CSAT), del 1 al 5, enviada al final del chat de soporte. Las calificaciones posibles son: <br /> 😡`Muy insatisfecho / CSAT: 1` <br /> 😔`Insatisfecho / CSAT: 2` <br /> 😐`Neutro / CSAT: 3` <br /> 😃`Satisfecho / CSAT: 4` <br /> 🤩`Muy satisfecho / CSAT: 5` <br /> Las conversaciones sin calificación se indican con un guion (`-`). |
 | **Fecha** | Fecha de la conversación. |
 | **Hora** | Hora de la conversación. |
 
 ## Conversaciones excelentes
 
-Las **conversaciones excelentes** son conversaciones que muestran el valor de los agentes de IA al resolver una demanda real de forma eficaz. Al hacer un análisis en el **Backlog de mejoras**, estas conversaciones se marcan con una tag de estrella e indican que el agente realizó acciones relevantes como:
+Las **conversaciones excelentes** son conversaciones que muestran el valor de los agentes de IA al resolver una demanda real. Al hacer un análisis en el **Backlog de mejoras**, estas conversaciones se marcan con una tag de estrella e indican que el agente realizó acciones relevantes como:
 
 - Resolver una duda o un problema de forma completa utilizando la [base de conocimiento](https://help.vtex.com/es/docs/tutorials/informacion-general-de-agent-builder#base-de-conocimiento), las herramientas o los colaboradores.
 - Ejecutar un flujo complejo con éxito (de pedido, cambio, cancelación, entre otros).
@@ -56,6 +56,6 @@ El cuerpo del panel muestra la conversación completa, en el orden en que ocurri
 
 ## Consultar los logs de un mensaje
 
-En los mensajes enviados por el agente de IA, puedes consultar los registros técnicos que explican cómo se generó esa respuesta. Los logs ayudan a entender el razonamiento y las acciones del agente detrás de cada respuesta, si buscó información en la [base de conocimiento](https://help.vtex.com/es/docs/tutorials/visao-geral-agent-builder#base-de-conhecimento), si buscó a ese cliente entre los contactos existentes, entre otras acciones.
+En los mensajes enviados por el agente de IA, puedes consultar los registros técnicos que explican cómo se generó esa respuesta. Los logs ayudan a entender el razonamiento y las acciones del agente detrás de cada respuesta, si buscó información en la [base de conocimiento](https://help.vtex.com/es/docs/tutorials/informacion-general-de-agent-builder#base-de-conhecimento), si buscó a ese cliente entre los contactos existentes, entre otras acciones.
 
 Para consultar los logs, haz clic en `Mostrar logs` en el mensaje deseado.

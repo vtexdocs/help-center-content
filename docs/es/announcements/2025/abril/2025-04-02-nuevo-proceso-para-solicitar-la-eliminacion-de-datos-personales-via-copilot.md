@@ -26,7 +26,7 @@ Actualmente, la solicitud de eliminación de datos personales de clientes se rea
 
 ## ¿Qué se necesita hacer?
 
-Solo los retailers autorizados podrán solicitar la eliminación de datos de clientes a través de Copilot. Para otorgar esta autorización, será necessario crear un [rol personalizado](/es/tutorial/criar-perfil-de-acesso) llamado **Ley General de Protección de Datos** con los siguientes recursos de [License Manager](/es/tutorial/license-manager-resources):
+Solo los retailers autorizados podrán solicitar la eliminación de datos de clientes a través de Copilot. Para otorgar esta autorización, será necessario crear un [rol personalizado](/es/docs/tutorials/crear-nuevo-rol) llamado **Ley General de Protección de Datos** con los siguientes recursos de [License Manager](/es/docs/tutorials/recursos-del-license-manager):
 - **Write user rights requests** (del producto **User Rights**).
 - **Open Support Ticket** (del producto **VTEX Support**).
 

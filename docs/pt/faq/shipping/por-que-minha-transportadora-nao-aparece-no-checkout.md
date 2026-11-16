@@ -23,7 +23,7 @@ Vale ressaltar que antes de prosseguir a leitura desse artigo, é preciso garant
 
 ## Concorrência entre transportadoras do mesmo tipo
 
-No momento de cadastro de uma transportadora, é preciso incluir o [método de envio](/pt/tutorial/como-funciona-o-tipo-de-entrega/) desta transportadora. No checkout, são exibidos os _métodos de envio_ e não o nome das transportadoras.
+No momento de cadastro de uma transportadora, é preciso incluir o [método de envio](/pt/docs/tutorials/como-funciona-o-tipo-de-envio) desta transportadora. No checkout, são exibidos os _métodos de envio_ e não o nome das transportadoras.
 
 O checkout exibe sempre a transportadora mais rápida/barata entre as opções de um mesmo métodos de envio. Assim, uma transportadora não aparece no checkout quando outra do mesmo tipo tem menor prazo/custo cadastrado.
 

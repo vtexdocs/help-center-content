@@ -37,7 +37,7 @@ As **[lojas](https://help.vtex.com/pt/docs/tutorials/cms-configurar-lojas)** def
 
 As **[branches](https://help.vtex.com/pt/docs/tutorials/gerenciando-versoes-e-branches)** fornecem um workspace colaborativo onde as equipes podem fazer alterações de conteúdo em um ambiente isolado antes de fazer merge na branch Main, sem impactar no storefront em produção.
 
-Cada branch é uma versão isolada do seu conteúdo, permitindo que vários editores criem, atualizem e refinem páginas, layouts e seções simultaneamente. Todas as alterações são rastreadas por item de conteúdo por meio do [histórico de versões](https://help.vtex.com/docs/tutorials/cms-version-history), facilitando ver quem fez uma alteração, o que foi alterado e quando.
+Cada branch é uma versão isolada do seu conteúdo, permitindo que vários editores criem, atualizem e refinem páginas, layouts e seções simultaneamente. Todas as alterações são rastreadas por item de conteúdo por meio do [histórico de versões](https://help.vtex.com/pt/docs/tutorials/historico-de-versoes), facilitando ver quem fez uma alteração, o que foi alterado e quando.
 
 ![cms-branches](https://vtexhelp.vtexassets.com/assets/docs/src/cms-branches___d4cbb256190ee104d3794e2c812b4c8f.png)
 

@@ -49,4 +49,4 @@ Para que una promoción se aplique correctamente en un marketplace es necesario 
 
 > ℹ️ Comprueba que no hayas creado ningún filtro adicional, como medios de pago, filtros de clúster o restricciones y limitaciones de uso en el carrito.
 
-Para más información, consulta [Configurar promoción para marketplace](/es/tutorial/configurando-promocao-para-marketplace/).
+Para más información, consulta [Configurar promoción para marketplace](/es/docs/tutorials/configurar-promocion-para-marketplace).
