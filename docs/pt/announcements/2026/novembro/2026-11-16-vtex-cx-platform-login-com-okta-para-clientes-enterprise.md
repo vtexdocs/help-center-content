@@ -12,7 +12,7 @@ tags:
 announcementSynopsisPT: 'Clientes enterprise agora podem entrar no VTEX CX Platform com o próprio tenant Okta. A ativação é feita sob demanda, mediante solicitação ao time VTEX.'
 ---
 
-Clientes enterprise agora podem fazer login no VTEX CX Platform usando o Okta. Para atender às exigências de segurança de empresas que centralizam a autenticação no próprio provedor de identidade, disponibilizamos essa funcionalidade para todos os clientes.
+Clientes enterprise agora podem fazer login no [VTEX CX Platform](https://help.vtex.com/pt/docs/tutorials/vtex-cx-platform-visao-geral) usando o Okta. Para atender às exigências de segurança de empresas que centralizam a autenticação no próprio provedor de identidade, disponibilizamos essa funcionalidade para todos os clientes.
 
 Com o login Okta, os usuários entram com as credenciais corporativas e a verificação em duas etapas segue as regras já definidas no Okta do cliente.
 
