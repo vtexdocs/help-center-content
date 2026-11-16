@@ -31,4 +31,4 @@ O log apresenta as seguintes informações para cada ação:
 
 ### Artigos relacionados
 
-- [Limpar base de dados da loja](/pt/tutorial/entendendo-a-manutencao-da-base-de-dados)
+- [Limpar base de dados da loja](/pt/docs/tutorials/manutencao-de-base-full-cleanup)

@@ -19,6 +19,6 @@ En VTEX es posible la integración con el proveedor de pagos CrecosCorp. Con est
 
 Para configurar CrecosCorp, acceda a [Registrar proveedores de pagos y antifraude](https://help.vtex.com/es/docs/tutorials/afiliaciones-de-gateway).
 
-Para configurar el pago con tarjetas private labels, acceda a [Configurar pagos con Private Label](/es/tutorial/configurar-pagamentos-com-cartoes-de-loja-bandeira-propria--428FgVdSGQUeAOoogkaIw4#).
+Para configurar el pago con tarjetas private labels, acceda a [Configurar pagos con Private Label](/es/docs/tutorials/configurar-pagos-con-private-label#).
 
 Después de seguir los pasos indicados, CrecosCorp puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

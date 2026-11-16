@@ -1,37 +1,29 @@
 ---
 title: 'Aprovar pagamento de boleto'
-id: tutorials_184
-status: PUBLISHED
 createdAt: 2017-04-27T22:16:19.919Z
-updatedAt: 2024-06-03T20:36:09.927Z
-publishedAt: 2024-06-03T20:36:09.927Z
-firstPublishedAt: 2017-04-27T23:00:46.699Z
+updatedAt: 2026-10-29T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: authors_84
 slugEN: approving-payment-of-the-bank-payment-slip
-legacySlug: como-aprovar-pagamento
 locale: pt
-subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
+hidden: false
 ---
 
-A aprovação do pagamento é a confirmação de que o valor do pedido foi pago pelo cliente, possibilitando o prosseguimento do pedido. 
+A aprovação do pagamento confirma que o cliente pagou o valor do pedido e permite que o pedido avance no fluxo. Em pedidos pagos com boleto, você pode fazer essa aprovação manualmente no módulo Pedidos ou por API.
 
-Quer o boleto tenha sido realmente pago ou não, o pedido seguirá adiante caso você aprove o pagamento.
+> ⚠️ Ao aprovar o pagamento, o pedido segue adiante mesmo que o boleto não tenha sido pago. Como as [integrações com ERPs](https://developers.vtex.com/docs/guides/erp-integration-guide) seguem o [fluxo de pedidos](/pt/docs/tutorials/fluxo-e-status-de-pedidos), o pedido também é integrado normalmente ao back office da loja. Por isso, recomendamos cautela: confirme o recebimento do valor antes de aprovar cada pagamento. Se um pagamento for aprovado por engano, você pode [cancelar o pedido](/pt/docs/tutorials/como-cancelar-pedido).
 
-Essa aprovação pode ser feita manualmente no módulo Pedidos, conforme abaixo.
+Para aprovar o pagamento manualmente, siga os passos a seguir:
 
-1. Acesse o menu **Pedidos > Transações**.
-2. Clique sobre a transação desejada.
-3. Clique no botão **Notificar Pagamento**.
+1. No Admin VTEX, acesse **Pedidos > Transações**, ou digite **Transações** na barra de busca no topo da página.
+2. Busque a transação pelo e-mail, nome ou documento do cliente, ou por outro dado listado em [Buscar transações no Pagamentos](/pt/docs/tutorials/transacoes-como-buscar), e clique sobre ela. Se você estiver na página de detalhes do pedido, clique em **Detalhes da transação** para abrir a transação diretamente.
+3. No card do pagamento por boleto, clique em `Notificar pagamento`.
 
 ![NotificarPT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/meios-e-condições-de-pagamento/boleto/como-aprovar-pagamento_1.png)
 
 **Após a aprovação do pagamento, o pedido entrará no fluxo normal de compra.**
 
-> ℹ️ No módulo de Gerenciamento da Conta, o usuário precisa ter um perfil de acesso que inclua a permissão `Notify payment` para ser capaz de aprovar pagamentos.
+> ℹ️ Para aprovar pagamentos, você precisa ter um [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) com o [recurso do License Manager](/pt/docs/tutorials/recursos-do-license-manager) `Notify payment`, na categoria `OMS access` do produto **OMS**.
 
-Para aprovar o pagamento por API, veja a [documentação da chamada de notificação de pagamento](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/payments/-paymentId-/payment-notification).
-
-> ⚠️ Como [integrações com ERPs](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) são regidas pelo [fluxo de pedidos](/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196#), a aprovação manual de um pagamento dará continuidade à integração deste pedido com o back office da loja normalmente. Portanto recomenda-se cautela ao aprovar pagamentos manualmente, de modo a garantir o recebimento por cada pedido que é processado e enviado.
+Para aprovar o pagamento por API, veja a documentação do endpoint [Send payment notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/payments/-paymentId-/payment-notification).
 

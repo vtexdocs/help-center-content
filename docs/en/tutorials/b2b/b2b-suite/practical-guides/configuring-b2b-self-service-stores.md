@@ -79,9 +79,9 @@ On VTEX, you can create forms through [Master Data](/en/docs/tutorials/master-da
 
 To create a form, please follow the instructions below:
 
-1. Create a data entity with all the information you want on the form. If you have questions, check out the article on [how to create a data entity in Master Data](/en/tutorial/criando-entidade-de-dados--tutorials_1265?&utm_source=autocomplete).
+1. Create a data entity with all the information you want on the form. If you have questions, check out the article on [how to create a data entity in Master Data](/en/docs/tutorials/data-entity).
 
-2. Create the form using the tutorial [Creating a form in Master Data](/en/tutorial/criando-formulario-no-master-data/).
+2. Create the form using the tutorial [Creating a form in Master Data](/en/docs/tutorials/creating-form-in-master-data).
 
 So when a customer fills out the form, their data will be included in the Master Data customer table.
 
@@ -107,15 +107,15 @@ Like the catalog, logistics must be configured in the sales channel.
 
 You have to associate the sales channel configured for the B2B scenario with the shipping strategies related to ecommerce logistics, including loading docks, warehouses and shipping/carrier strategies.
 
-You can configure loading docks, warehouses and shipping strategies using the [Logistics API](https://developers.vtex.com/vtex-developer-docs/reference/logistics-api-overview) or in the [Admin](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx).
+You can configure loading docks, warehouses and shipping strategies using the [Logistics API](https://developers.vtex.com/vtex-developer-docs/reference/logistics-api-overview) or in the [Admin](/en/docs/tracks/logistics-101).
 
 To configure it in the Admin, you must:
 
-1. **Associate the B2B sales channel with a loading dock:** fill in the field 'Shipping policies and sales channels' on the page for adding/editing loading docks. If there are no docks listed in your store, you must [add a loading dock](/en/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW?&utm_source=autocomplete). In this field, you must enter the sales channel you have configured for the B2B scenario.
+1. **Associate the B2B sales channel with a loading dock:** fill in the field 'Shipping policies and sales channels' on the page for adding/editing loading docks. If there are no docks listed in your store, you must [add a loading dock](/en/docs/tutorials/managing-loading-docks). In this field, you must enter the sales channel you have configured for the B2B scenario.
 
-2. **Associate a carrier with a loading dock**\: fill in the field 'Shipping policies and sales channels' on the page for adding/editing loading docks, in which you must select the sales channel configured for the B2B scenario. If there are no carriers listed in your store, you must [add a carrier](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/55MezrFTw2limlgT7KUg6l).
+2. **Associate a carrier with a loading dock**\: fill in the field 'Shipping policies and sales channels' on the page for adding/editing loading docks, in which you must select the sales channel configured for the B2B scenario. If there are no carriers listed in your store, you must [add a carrier](/en/docs/tracks/inventory).
 
-3. **Define a warehouse and associate it with a loading dock**\: choose a loading dock on the page for adding/editing warehouses. If there are no warehouses listed in your store, you must [add a warehouse](/en/tutorial/gerenciar-estoque).
+3. **Define a warehouse and associate it with a loading dock**\: choose a loading dock on the page for adding/editing warehouses. If there are no warehouses listed in your store, you must [add a warehouse](/en/docs/tutorials/managing-warehouses).
 
 In the configuration via [Logistics API](https://developers.vtex.com/vtex-developer-docs/reference/logistics-api-overview), you must follow these exact instructions. However, you can use the [POST Create/Update Dock](https://developers.vtex.com/vtex-developer-docs/reference/docks#createupdatedock)</code> endpoint to associate a sales channel with a loading dock and a carrier with a loading dock by filling in the `salesChannels` and `freightTableIds` parameters, respectively.
 
@@ -155,7 +155,7 @@ For stores with a simple tax system — in which only one type of tax is applied
 
 - Configuring [price tables](/en/docs/tracks/tabelas-de-preco-definicao-de-conceito). For tax purposes, you must create price tables with full prices since promotional price tables are not applicable in this context.
 
-- Applying [taxes](/en/tutorial/como-criar-taxaimposto/) to SKU prices to prevent them from being displayed in the store window.
+- Applying [taxes](/en/docs/tutorials/creating-surchargestaxes) to SKU prices to prevent them from being displayed in the store window.
 
 ### Complex tax system
 
@@ -172,7 +172,7 @@ For more details on the protocol, check out the documentation below:
 
 ## Additional content: VTEX Intelligent Search
 
-[VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb) is a search application that helps customers during their shopping journey by suggesting products that are related to their profile.
+[VTEX Intelligent Search](/en/docs/tracks/implementing-the-search-in-your-store-frontend) is a search application that helps customers during their shopping journey by suggesting products that are related to their profile.
 
 In the B2B context, VTEX Intelligent Search is an essential feature that can be used to search for items by part number — the code referring to the product model.
 

@@ -63,7 +63,7 @@ Para entender melhor o significado de cada campo do cadastro de categoria, veja 
 - [O que é uma Categoria?](/pt/docs/tutorials/o-que-e-uma-categoria)
 - [O que é um Departamento?](/pt/docs/tutorials/o-que-e-um-departamento)
 - [O que é uma Subcategoria?](/pt/docs/tutorials/o-que-e-uma-subcategoria)
-- [Excluir uma Categoria](/pt/tutorial/entendendo-a-manutencao-da-base-de-dados)
+- [Excluir uma Categoria](/pt/docs/tutorials/manutencao-de-base-full-cleanup)
 - [Cadastrar um Produto](/pt/tutorial/cadastrando-produto)
 - [Cadastrar um SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ?&utm_source=autocomplete)
 
