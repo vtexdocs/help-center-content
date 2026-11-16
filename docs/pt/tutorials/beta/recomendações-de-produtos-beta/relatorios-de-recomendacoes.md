@@ -8,9 +8,9 @@ slugEN: recommendations-reports
 locale: pt
 ---
 
-> ℹ️ Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/docs/tracks/suporte-comercial). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/pt-br/contato/).
+> ℹ️ Essa funcionalidade está na fase Beta fechada, o que significa que somente clientes selecionados têm acesso a ela no momento. Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/docs/tracks/suporte-comercial). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/pt-br/contato/).
 
-A aba **Relatórios**, em **Recomendações**, é uma aba do Admin VTEX que apresenta a listagem de relatórios sobre o desempenho das estratégias de recomendação de produtos da loja. Diferente do [dashboard de recomendações](https://help.vtex.com/pt/docs/tutorials/dashboard-de-recomendacoes), que exibe dados em tempo real e filtráveis, os relatórios são retratos estáticos de um período, que podem ser baixados.
+No Admin VTEX, a aba **Relatórios**, dentro de **Recomendações**, apresenta a listagem de relatórios sobre o desempenho das estratégias de recomendação de produtos da loja. Diferentemente do [dashboard de recomendações](https://help.vtex.com/pt/docs/tutorials/dashboard-de-recomendacoes), que exibe dados em tempo real e filtráveis, os relatórios são retratos estáticos de um período e podem ser baixados.
 
 O recurso está disponível a todos os clientes que já têm [Recomendações de produtos](https://help.vtex.com/pt/docs/tutorials/recomendacoes-de-produtos-beta) habilitada na loja.
 
@@ -37,7 +37,7 @@ Os relatórios são gerados de três formas:
 * **Mensal**: gerado automaticamente no dia 1º de cada mês, cobrindo o mês anterior.
 * **Sob demanda**: gerado manualmente a qualquer momento, para qualquer período personalizado.
 
-Esta aba permite que você realize as seguintes ações:
+Na aba **Relatórios**, você pode realizar as seguintes ações:
 
 * [Criar relatório](#criar-relatorio)
 * [Baixar relatório](#baixar-relatorio)
@@ -96,12 +96,12 @@ Identifica a loja e o período coberto, seguido de um resumo com a receita influ
 | Visualizações | Produtos recomendados vistos. |
 | GMV total da loja | Receita total da loja (canal próprio). |
 | Pedidos totais da loja | Pedidos concluídos no período. |
-| Taxa de visualização | Média geral das prateleiras. |
+| Taxa de visualização | Média da taxa de visualização de todas as prateleiras. |
 | Participação na receita da loja | Receita atribuída sobre o GMV da loja. |
 | Participação nos pedidos da loja | Pedidos influenciados sobre o total da loja. |
 | Cliques | Cliques em produtos recomendados. |
 | Ticket médio da loja | Valor médio por pedido na loja. |
-| Conversão por clique | Média geral das prateleiras. |
+| Conversão por clique | Média da conversão por clique de todas as prateleiras. |
 
 ### Receita por prateleira
 
@@ -117,11 +117,13 @@ Para cada prateleira, os 5 produtos de melhor desempenho no período, com receit
 
 ### Produto estrela do período
 
-Destaque para o produto que aparece entre os mais vendidos de pelo menos duas prateleiras no período, com receita total, número de compras e em quantas prateleiras ele aparece entre os mais vendidos. Essa seção só é exibida quando algum produto atende a esse critério.
+Destaca o produto que aparece entre os mais vendidos de pelo menos duas prateleiras no período, com receita total, número de compras e em quantas prateleiras ele aparece entre os mais vendidos. Essa seção só é exibida quando algum produto atende a esse critério.
 
 ### Insights e recomendações
 
-Cards gerados automaticamente, marcados como **Destaque**, **Atenção** ou **Oportunidade**, com uma breve análise (por exemplo, qual prateleira lidera em receita, qual tem a melhor conversão por clique, ou quais prateleiras têm muitas visualizações mas poucos cliques) e uma sugestão de próximo passo.
+Cards gerados automaticamente, cada um com uma breve análise e uma sugestão de próximo passo. Os cards são marcados como **Destaque**, **Atenção** ou **Oportunidade**.
+
+Exemplos de análises: qual prateleira lidera em receita, qual tem a melhor conversão por clique e quais têm muitas visualizações, mas poucos cliques.
 
 ### Rodapé
 
