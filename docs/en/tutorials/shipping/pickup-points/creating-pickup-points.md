@@ -58,6 +58,8 @@ Select <i class="fas fa-toggle-on"></i> to activate the pickup point.
 * **Pickup instructions:** enter information that will help your customer pick up the packages at the pickup point. For example, at which door the items can be picked up or which documents the customer must present when picking up their order. These instructions will be displayed at checkout, when the customer chooses the pickup point. 
 * **Tags:** add tags to group pickup points. These tags are used to link [shipping policies](/en/docs/tutorials/shipping-policy) to pickup points.  
 
+> ℹ️ The pickup search radius used at Checkout and by the Delivery Promise **Pickup** filter is not a pickup point field. It is the Checkout pickup radius, configurable by the merchant up to a maximum of 50 km (default: 50 km). Learn more in [How Pickup Points work](/en/docs/tutorials/pickup-points#how-pickup-points-work).
+
 #### Business Hours
 
 * **Days of the week:**
