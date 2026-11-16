@@ -24,7 +24,7 @@ symptomFilters:
 
 Cuando un pedido realizado en un marketplace no se integra en VTEX por falta de _stock_, se informa un mensaje de error en cada pedido. Para comprobar los errores, en el Admin VTEX accede a **Marketplace > Conexiones > Pedidos** o ingresa **Pedidos** en la barra de búsqueda.
 
-Para comprobar si el SKU está disponible, haz una [simulación de envío](/es/tutorial/simulacao-de-frete). El simulador muestra las condiciones de entrega del producto sin crear un pedido.
+Para comprobar si el SKU está disponible, haz una [simulación de envío](/es/docs/tutorials/simulador-de-envio). El simulador muestra las condiciones de entrega del producto sin crear un pedido.
 
 Los errores más comunes de falta de _stock_ en la integración de pedidos de marketplace son:
 

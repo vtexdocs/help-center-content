@@ -18,7 +18,7 @@ subcategoryId: 1luKrYptdi8WoMYckakUaM
 Check below some of the most frequently asked questions about Google Analytics for VTEX stores.
 ## How to install Google Analytics in your store
 
-The installation is done via [Google Tag Manager](/en/tutorial/integracao-com-o-google-tag-manager#), as described in the article [Setting up Google Analytics in VTEX stores](/en/tutorial/how-to-setup-google-analytics-in-vtex-store--G2P0rmSrEiqCcmUMyUUwG#).
+The installation is done via [Google Tag Manager](/en/docs/tutorials/integration-with-google-tag-manager#), as described in the article [Setting up Google Analytics in VTEX stores](/en/tutorial/how-to-setup-google-analytics-in-vtex-store--G2P0rmSrEiqCcmUMyUUwG#).
 
 ## Where does the data displayed in Google Analytics come from? What are Google tags?
 
@@ -84,7 +84,7 @@ Whereas Google Analytics provides an automatically generated sales funnel based 
 
 As the funnel views are based on different information, they may differ.
 
-You can configure another sales funnel on Google Analytics, which enables a customized view and better control of the buying journey. Check out this article on how to [set up the sales funnel on Google Analytics](/en/tutorial/configurar-funil-de-vendas-no-google-analytics#).
+You can configure another sales funnel on Google Analytics, which enables a customized view and better control of the buying journey. Check out this article on how to [set up the sales funnel on Google Analytics](/en/docs/tutorials/setting-up-the-sales-funnel-on-google-analytics#).
 
 ## What is the Google Analytics sales funnel?
 

@@ -19,7 +19,7 @@ Ao se integrar com um marketplace, é preciso definir quais produtos serão envi
 
 ## Definição do Sortimento de Produtos
 
-Uma possibilidade é trabalhar todo o catálogo de produtos junto ao marketplace. Para isso, basta associar o ID da política comercial da loja principal, que será sempre a de **ID 1**, [quando solicitado nas configurações](/pt/tutorial/integrando-com-marketplace/).
+Uma possibilidade é trabalhar todo o catálogo de produtos junto ao marketplace. Para isso, basta associar o ID da política comercial da loja principal, que será sempre a de **ID 1**, [quando solicitado nas configurações](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex).
 
 ![ExemploPoliticaComercial](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/produtos/entendendo-a-catalogacao-de-produtos-para-o-marketplace_1.png)
 

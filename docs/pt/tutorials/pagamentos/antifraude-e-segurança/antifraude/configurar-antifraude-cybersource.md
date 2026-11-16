@@ -28,7 +28,7 @@ Se você estiver procurando mais detalhes sobre o __gateway__ CyberSource, leia 
 3. Digite o nome __Cybersource__ na barra de busca e clique sobre o nome do provedor.
 4. Caso deseje modificar o nome de identificação a ser exibido para o antifraude Cybersource na tela do Admin VTEX, insira a informação no campo __Nome__ em __Informações básicas__.
 5. Configure a URL `https://{store}.vtexpayments.com.br/api/pub/cybersource/antifraud/notification` no site da CyberSource, substituindo `{store}` pelo store name da sua loja. Isso vai habilitar as notificações quando houver alteração de status de um pedido.
-6. Configure o device fingerprint no Google Tag Manager usando [este artigo do Help](/pt/faq/como-configurar-o-device-finger-print-para-braspag-cybersource).
+6. Configure o device fingerprint no Google Tag Manager usando [este artigo do Help](/pt/docs/tutorials/como-configurar-o-device-finger-print-para-braspag).
 7. Preencha os campos __ID do comerciante no Cybersource__, __Nome de usuário no CyberSource__ e __Sua senha no Cybersource__ de acordo com os dados fornecidos pela CyberSource.
 8. Em __Nome da sua empresa__, informe a razão social da sua loja.
 9. Em __CNPJ da sua empresa__, insira o número do CNPJ da sua loja.

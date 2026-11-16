@@ -3,7 +3,7 @@ title: 'Configuring a seller on VTEX marketplace'
 id: 6g045OkRSjNpqhkExbQRlP
 status: PUBLISHED
 createdAt: 2022-05-11T16:49:11.747Z
-updatedAt: 2023-04-17T21:46:38.715Z
+updatedAt: 2026-11-04T15:00:00.000Z
 publishedAt: 2023-04-17T21:46:38.715Z
 firstPublishedAt: 2022-05-11T18:35:14.080Z
 contentType: tutorial
@@ -21,7 +21,6 @@ This article shows how to configure your store as a VTEX seller and start sellin
 
 - [Define the sales channel](#defining-the-trade-policy)
 - [Create an affiliate ID](#creating-an-affiliate-id)
-- [Reindex the database](#reindexing-the-database)
 
 To learn about what type of information needs to be exchanged between sellers and marketplaces, please read the article [Shared information](/en/docs/tutorials/shared-information-between-a-marketplace-and-a-seller-on-vtex) between a marketplace and a seller on VTEX. If you want your store to operate as a marketplace, check out the article [Configuring a VTEX marketplace](/en/docs/tutorials/configuring-vtex-marketplace).
 
@@ -29,7 +28,7 @@ To learn about what type of information needs to be exchanged between sellers an
 
 ## Defining the sales channel
 
-On VTEX, the [sales channel](/en/docs/tutorials/how-trade-policies-work) groups the configurations for your catalog, pricing, promotions, logistics, customer segmentation, and payments in a single sales channel. A seller can integrate with the marketplace by using the store's default sales channel or by defining specific settings for the integration, configuring a [sales channel for the marketplace](/en/tutorial/configurando-a-politica-comercial-para-marketplace/).
+On VTEX, the [sales channel](/en/docs/tutorials/how-trade-policies-work) groups the configurations for your catalog, pricing, promotions, logistics, customer segmentation, and payments in a single sales channel. A seller can integrate with the marketplace by using the store's default sales channel or by defining specific settings for the integration, configuring a [sales channel for the marketplace](/en/docs/tutorials/configuring-a-marketplace-trade-policy).
 
 > ℹ️ The same sales channel can be used to integrate with multiple marketplaces. [Requesting additional sales channels](/en/docs/tutorials/requesting-an-additional-trade-policy) to integrate with [native connectors](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-a-native-connector-vtex), certified connectors (partners), or other VTEX stores is free of charge.
 
@@ -45,32 +44,11 @@ On VTEX, the [affiliate](/en/docs/tutorials/what-is-an-affiliate) is the code cr
 
 The seller must follow the steps described in the article [Configuring affiliates](/en/docs/tutorials/configuring-affiliates) and add the identifier code to the marketplace after it has been created. This way, the VTEX marketplace will [add the seller](/en/docs/tutorials/adding-a-seller) and associate it to a sales channel.
 
-## Reindexing the database
-
-The marketplace does not automatically receive the products after integrating with the seller. First, the seller must [reindex the database](/en/tutorial/entendendo-o-funcionamento-da-indexacao). This process prepares the SKU information and products and sends catalog, price, and stock general information to the marketplace.  
-
-> ℹ️ Please note that only the [sponsor user (owner)](/en/docs/tracks/what-is-the-master-user) has permission to reindex a VTEX store database. During reindexing, which may vary in terms of time, the products are queued for updating the information, while still remaining available for sale on the store site.
-
-To reindex the database, paste the link below in your browser, replacing the `{storename}` with the name of your store:
-
-`{storename}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`
-
-Access the link and click the `Reindex database` button. You can track the process in the VTEX Admin, through **Catalog > Reports**.
-
-### Checking the index
-
-You can verify if a specific SKU has been indexed correctly to the integration sales channel. Follow the steps below:
-
-1. In the VTEX Admin, access **Catalog > Products and SKUs**.
-2. Click the <i class="fas fa-angle-down"></i> down arrow, next to the **CHANGE** button.
-3. Select the `Indexed Info` option.
-4. Check if the number of the sales channel used in the integration with the marketplace appears in the SKU information.
-
 ## Marketplace actions
 
 After the seller sends the products, the marketplace needs to [map the product categories, brands, and specifications](/en/docs/tutorials/mapping-categories-and-brands-for-the-marketplace), in order to match its catalog structure to the seller's catalog.
 
-Once the mapping is done, the marketplace must [catalog the seller's SKUs](/en/tutorial/sugerindo-e-aprovando-skus/). After this last step, the seller's products will be available to customers on the marketplace.
+Once the mapping is done, the marketplace must [catalog the seller's SKUs](/en/docs/tutorials/manual-sku-cataloging). After this last step, the seller's products will be available to customers on the marketplace.
 
 ## Learn more
 

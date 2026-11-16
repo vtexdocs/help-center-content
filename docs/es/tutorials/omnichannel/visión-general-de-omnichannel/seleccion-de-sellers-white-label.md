@@ -68,7 +68,7 @@ Los primeros criterios de selección de _sellers white label_ son:
 
 - Menor costo en la [plantilla de flete](/es/docs/tutorials/plantilla-de-flete) de acuerdo con la [política de envío](/es/docs/tutorials/politica-de-envio) del _seller_.
 - Menor tiempo en la plantilla de flete de acuerdo con la política de envío del _seller_.
-- Tener [inventario](/es/tutorial/gerenciar-itens-em-estoque) disponible.
+- Tener [inventario](/es/docs/tutorials/gestionar-items-en-inventario) disponible.
 
 Luego de filtrar a los _sellers_ según los criterios mencionados, se seleccionan hasta seis _sellers_ para cada modalidad de envío:
 

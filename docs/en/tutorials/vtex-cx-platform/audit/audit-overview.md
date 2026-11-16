@@ -1,5 +1,5 @@
 ---
-title: 'Audit: Overview'
+title: 'Audit'
 createdAt: 2026-08-05T00:00:00.000Z
 updatedAt: 2026-08-05T00:00:00.000Z
 contentType: tutorial
@@ -14,6 +14,6 @@ locale: en
 **Audit** has two tabs:
 
 - **Conversations:** Page where you can view the conversations between your agent and your customers via WhatsApp. To learn more, see the article [Audit: Conversations](https://help.vtex.com/en/tutorial/audit-conversations).
-- **Improvement backlog:** Tool that helps diagnose recurring failures and suggests improvements. To learn more, see the [Audit: Improvements Backlog](https://help.vtex.com/docs/tutorials/audit-improvements-backlog) article.
+- **Improvement backlog:** Tool that helps diagnose recurring failures and suggests improvements. To learn more, see the [Audit: Improvements Backlog](https://help.vtex.com/en/docs/tutorials/audit-improvements-backlog) article.
 
-> ⚠️ The Audit module is an analysis tool, not a support tool. If you want to view interactions in real time, go to Live Desk. To learn more about Live Desk, see our article [Live Desk: Overview](https://help.vtex.com/tutorial/live-desk-overview).
+> ⚠️ The Audit module is an analysis tool, not a support tool. If you want to view interactions in real time, go to Live Desk. To learn more about Live Desk, see our article [Live Desk: Overview](https://help.vtex.com/en/docs/tutorials/live-desk-overview).
