@@ -25,18 +25,33 @@
           "children": [
             {
               "name": {
-                "en": "Novembro",
-                "es": "Novembro",
+                "en": "November",
+                "es": "Noviembre",
                 "pt": "Novembro"
               },
               "slug": {
-                "en": "novembro",
-                "es": "novembro",
+                "en": "2026-november",
+                "es": "2026-noviembre",
                 "pt": "2026-novembro"
               },
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Live Desk: bulk sending of quick messages",
+                    "es": "Live Desk: envío masivo de mensajes rápidos",
+                    "pt": "Live Desk: envio de mensagens rápidas em massa"
+                  },
+                  "slug": {
+                    "en": "2026-11-16-live-desk-bulk-sending-of-quick-messages",
+                    "es": "2026-11-16-live-desk-envio-masivo-de-mensajes-rapidos",
+                    "pt": "2026-11-16-live-desk-envio-de-mensagens-rapidas-em-massa"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "VTEX CX Platform: Okta login for enterprise clients",
