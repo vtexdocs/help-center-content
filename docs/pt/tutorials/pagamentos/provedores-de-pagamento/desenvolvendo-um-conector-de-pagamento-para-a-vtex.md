@@ -1,7 +1,7 @@
 ---
 title: "Desenvolvendo um conector de pagamento para a VTEX"
 createdAt: 2025-05-28T10:29:13.599Z
-updatedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-11-12T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
 slugEN: developing-a-payment-connector-for-vtex
@@ -9,7 +9,7 @@ locale: pt
 hidden: false
 ---
 
-Este artigo apresenta os requisitos, as opções de infraestrutura e as boas práticas para parceiros que desejam desenvolver [conectores de pagamentos](/pt/docs/tutorials/o-que-e-conector) compatíveis com a plataforma VTEX. O objetivo é garantir uma integração eficiente e padronizada, que permita usar os conectores em todas as lojas da plataforma.
+Este artigo ajuda parceiros que desejam desenvolver [conectores de pagamentos](/pt/docs/tutorials/o-que-e-conector) compatíveis com a plataforma VTEX a escolher o caminho de integração mais adequado. O artigo explica quando e por que escolher cada opção, apresenta os passos de cada caminho e os requisitos que costumam surpreender os parceiros durante o processo, além de boas práticas para o desenvolvimento.
 
 Este conteúdo é direcionado a:
 
@@ -21,11 +21,27 @@ Este conteúdo é direcionado a:
 
 Na VTEX, um conector de pagamentos é o serviço externo que implementa o [VTEX Payment Provider Protocol (PPP)](https://developers.vtex.com/docs/api-reference/payment-provider-protocol). Este protocolo permite a comunicação entre a plataforma e os provedores de pagamento (como gateways, adquirentes e soluções antifraude), possibilitando que lojistas processem transações de forma integrada e padronizada, sem a necessidade de desenvolver integrações personalizadas.
 
+Para integrar um provedor de pagamento à VTEX, o parceiro toma duas decisões independentes:
+
+1. **Onde o conector é hospedado:** em infraestrutura própria, implementando o PPP diretamente, ou no VTEX IO, usando o [Payment Provider Framework (PPF)](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework). Nas duas opções, o conector implementa o PPP e passa pela homologação da VTEX.
+2. **Como o comprador interage com o pagamento no checkout:** pelo checkout transparente padrão, por um [Payment App](https://developers.vtex.com/docs/guides/payments-integration-payment-app) ou por redirecionamento para uma página externa. Para um meio de pagamento novo, também é possível enviar à VTEX um layout personalizado para exibição no checkout.
+
+> ℹ️ PPP, PPF, Payment App e layout personalizado não são alternativas entre si. O PPP é o protocolo que todo conector implementa. O PPF é uma forma de construir esse conector no VTEX IO. O Payment App e o layout personalizado são complementos de checkout, usados junto com o conector.
+
+| Termo | O que é | É obrigatório? |
+| --- | --- | --- |
+| **PPP** (Payment Provider Protocol) | Protocolo que define as rotas e regras de comunicação entre a VTEX e o provedor de pagamento. | Sim, para todo conector. |
+| **PPF** (Payment Provider Framework) | Boilerplate para criar o conector como um app do VTEX IO, com rotas, tipos e Secure Proxy já configurados. | Não. É a alternativa à infraestrutura própria. |
+| **Payment App** | App do VTEX IO exibido em uma janela modal no checkout para interações adicionais com o comprador, como QR code ou autenticação. | Não, exceto para [3DS 2](/pt/docs/tutorials/configurar-fluxo-de-autenticacao-3ds-2) e para conectores que operam somente em lojas físicas. |
+| **Layout personalizado** | Área informativa em HTML e CSS exibida quando o comprador seleciona um meio de pagamento novo no checkout. | Não. |
+
 Confira as seções que você encontrará neste guia:
 
 - [Requisitos técnicos obrigatórios](#requisitos-tecnicos-obrigatorios)
 - [Benefícios da integração PPP](#beneficios-da-integracao-ppp)
-- [Fases de desenvolvimento do conector](#fases-de-desenvolvimento-do-conector)
+- [Escolha do caminho de integração](#escolha-do-caminho-de-integracao)
+- [Passo a passo de cada caminho](#passo-a-passo-de-cada-caminho)
+- [Pontos de atenção](#pontos-de-atencao)
 - [Escolha da infraestrutura para o conector](#escolha-da-infraestrutura-para-o-conector)
 - [Boas práticas no desenvolvimento de conectores](#boas-praticas-no-desenvolvimento-de-conectores-confiabilidade-e-valor-agregado)
 
@@ -51,9 +67,95 @@ A implementação de conectores desenvolvidos por meio do [VTEX Payment Provider
 - **Maior conversão de vendas:** flexibilidade para adaptar-se às particularidades e necessidades específicas de cada lojista.
 - **Gestão centralizada:** as informações de configuração do conector podem ser administradas diretamente no Admin VTEX.
 
-## Fases de desenvolvimento do conector
+## Escolha do caminho de integração
 
-O guia [Integrating a new payment provider on VTEX](https://developers.vtex.com/docs/guides/integrating-a-new-payment-provider-on-vtex) é a referência para o processo completo de criação de um conector. Em resumo, o parceiro implementa os endpoints do PPP, valida o conector com os [casos de teste do Payment Provider Test Suite](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-homologation) e faz [testes de compra](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework#placing-an-order-with-your-new-connector) em uma loja de teste. Quando todos os casos de teste são aprovados, o parceiro solicita a homologação abrindo um ticket no [Suporte VTEX](https://supporticket.vtex.com/support), o que exige um contrato ativo e nenhuma pendência financeira com a VTEX. Depois que o conector é homologado e publicado, os lojistas podem configurar os [meios de pagamento](/pt/docs/tutorials/afiliacoes-de-gateway) em suas lojas pelo [Admin VTEX](/pt/docs/tutorials/admin-vtex-comece-aqui).
+As tabelas a seguir comparam as opções de cada decisão. O guia [Integrating a new payment provider on VTEX](https://developers.vtex.com/docs/guides/integrating-a-new-payment-provider-on-vtex) traz os detalhes técnicos de todo o processo.
+
+### Decisão 1: onde o conector é hospedado
+
+| Critério | Infraestrutura própria (PPP) | VTEX IO (PPF) |
+| --- | --- | --- |
+| **Quando escolher** | A equipe já mantém infraestrutura própria, precisa receber os dados de cartão diretamente ou quer usar linguagens e ferramentas que o VTEX IO não suporta. | O parceiro não quer manter infraestrutura e quer aproveitar recursos do ecossistema VTEX, como eventos da plataforma, Master Data e componentes de front-end. |
+| **Hospedagem e manutenção** | Responsabilidade do parceiro. | Responsabilidade da VTEX. |
+| **Dados de cartão** | O conector recebe os dados diretamente, se tiver certificação PCI-DSS, ou usa o [Secure Proxy](https://developers.vtex.com/docs/guides/payments-integration-secure-proxy). | O conector usa obrigatoriamente o Secure Proxy e não acessa os dados de cartão. |
+| **Certificação PCI-DSS** | Obrigatória para processar cartões sem o Secure Proxy. O AOC (Attestation of Compliance) é enviado no ticket de homologação. | Não é exigida do conector. Porém, o endpoint de destino, como o do adquirente, precisa ser certificado e liberado no Secure Proxy por meio de um ticket com o AOC. |
+| **Linguagens** | Livres. | Apenas as suportadas pelo VTEX IO, como Node e .NET. |
+| **Ponto de partida** | [Referência da API do PPP](https://developers.vtex.com/docs/api-reference/payment-provider-protocol). | [App de exemplo do PPF](https://github.com/vtex-apps/payment-provider-example), com rotas, tipos e Secure Proxy já configurados. |
+| **Novos meios de pagamento e split** | Alterações solicitadas à VTEX, com prazo de até 30 dias. | Declarados no arquivo de configuração do app e enviados para homologação em uma nova versão. |
+| **Publicação** | Homologação por ticket no Suporte VTEX. | Publicação na [VTEX App Store](https://developers.vtex.com/docs/guides/vtex-io-documentation-submitting-your-app-in-the-vtex-app-store), que tem um processo de homologação próprio, e homologação de pagamentos por ticket no Suporte VTEX. |
+| **Homologação** | Sempre obrigatória. | Obrigatória, exceto quando o app é restrito a contas específicas e usa apenas meios de pagamento já disponíveis na VTEX. |
+| **Prazo de homologação** | Até 30 dias, contados a partir do envio do contrato de parceria (MPA). | Até 30 dias, contados a partir do envio do contrato de parceria (MPA). |
+
+### Decisão 2: experiência de pagamento no checkout
+
+| Opção | Quando usar | O que exige | Aprovação da VTEX |
+| --- | --- | --- | --- |
+| **[Checkout transparente](/pt/docs/tutorials/o-que-e-checkout-transparente)** (padrão) | O comprador informa os dados e finaliza o pagamento no próprio checkout. É o fluxo mais usado. | Apenas o conector. | Apenas a homologação do conector. |
+| **Payment App** | O pagamento exige uma interação adicional sem sair do checkout, como exibir um QR code, realizar o desafio do 3DS 2 ou aguardar a confirmação no app do banco. | Um app do VTEX IO em React, que pode ser separado ou ficar dentro do app do conector PPF. O conector informa qual Payment App abrir na resposta da autorização. | O app não passa pela homologação de pagamentos. Ele é publicado e instalado como qualquer app do VTEX IO, inclusive com a homologação da VTEX App Store, se for distribuído por ela. Se o meio de pagamento for novo, a VTEX precisa cadastrá-lo, mediante ticket. |
+| **Redirect** | O provedor exige que o comprador conclua o pagamento em uma página externa. | O conector retorna a URL de redirecionamento. | Apenas a homologação do conector. É o fluxo menos recomendado, pois tem a menor taxa de conversão. |
+| **Layout personalizado** | Um meio de pagamento novo precisa de identidade visual própria e de instruções para o comprador na lista de meios de pagamento do checkout. | Layout em HTML e CSS desenvolvido com o [Payment Mocker](https://developers.vtex.com/docs/guides/layout-development-guide-for-payment-methods-in-smart-checkout-vtex), seguindo os requisitos da VTEX. | A VTEX revisa e publica o layout após o envio por ticket. |
+
+> ℹ️ O layout personalizado e o Payment App são independentes e podem ser usados juntos. O layout é a área informativa exibida quando o comprador seleciona o meio de pagamento. O Payment App é a janela modal aberta depois que o comprador clica em **Finalizar compra**.
+
+## Passo a passo de cada caminho
+
+Esta seção resume as etapas de cada caminho do ponto de vista do negócio. As instruções técnicas estão no guia indicado ao final de cada caminho.
+
+Antes de começar qualquer caminho, confirme que a empresa tem um contrato de parceria ativo com a VTEX, sem pendências financeiras, e que atende às regulamentações financeiras dos países onde pretende operar.
+
+### Conector em infraestrutura própria
+
+1. A equipe técnica desenvolve o conector seguindo o PPP e define como tratar dados de cartão: com certificação PCI-DSS ou com o Secure Proxy.
+2. A equipe testa o conector com as ferramentas de teste da VTEX até que todos os testes sejam aprovados.
+3. O parceiro solicita a homologação por ticket no [Suporte VTEX](https://supporticket.vtex.com/support).
+4. A VTEX conclui a homologação em até 30 dias após o envio do MPA.
+5. Os lojistas configuram os [meios de pagamento](/pt/docs/tutorials/afiliacoes-de-gateway) do conector no Admin VTEX.
+
+Instruções técnicas: [Integrating a new payment provider on VTEX](https://developers.vtex.com/docs/guides/integrating-a-new-payment-provider-on-vtex).
+
+### Conector no VTEX IO com PPF
+
+1. A equipe técnica desenvolve o conector como um app do VTEX IO. Se o conector processar cartões, o parceiro solicita à VTEX a liberação do endpoint do adquirente no Secure Proxy.
+2. A equipe testa o conector em uma loja de teste e com as ferramentas de teste da VTEX.
+3. O parceiro publica o app na VTEX App Store, o que inclui a homologação da App Store.
+4. O parceiro solicita a homologação de pagamentos por ticket no Suporte VTEX. A VTEX conclui essa homologação em até 30 dias após o envio do MPA.
+5. Os lojistas instalam o app e configuram a nova [afiliação](/pt/docs/tutorials/afiliacoes-de-gateway) no Admin VTEX.
+
+Instruções técnicas: [Payment Provider Framework](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework).
+
+### Payment App
+
+1. Se o meio de pagamento for novo, o parceiro solicita o cadastro dele na VTEX por ticket.
+2. A equipe técnica prepara o conector para indicar qual Payment App abrir e desenvolve o Payment App como um app do VTEX IO.
+3. A equipe testa o fluxo completo de compra em uma loja de teste.
+4. O parceiro publica o app, que os lojistas instalam como qualquer outro app do VTEX IO.
+
+Instruções técnicas: [Payment App](https://developers.vtex.com/docs/guides/payments-integration-payment-app).
+
+### Layout personalizado
+
+1. O parceiro confirma que o conector já está integrado e que o meio de pagamento é novo. Não é possível criar layouts para meios de pagamento já existentes nem para [meios de pagamento customizados](/pt/docs/tracks/configurar-pagamentos-customizados) do lojista, como notas promissórias e cartões de loja.
+2. A equipe desenvolve o layout seguindo os requisitos visuais e de idioma da VTEX.
+3. O parceiro envia o layout por ticket no Suporte VTEX.
+4. A VTEX revisa o layout, solicita ajustes, se necessário, e o publica no checkout.
+
+Instruções técnicas: [Layout development guide for payment methods in VTEX Smart Checkout](https://developers.vtex.com/docs/guides/layout-development-guide-for-payment-methods-in-smart-checkout-vtex).
+
+## Pontos de atenção
+
+Estes são os requisitos que mais costumam surpreender os parceiros durante a integração:
+
+- **Contrato antes do prazo:** o prazo de até 30 dias da homologação só começa depois do envio do contrato de parceria (MPA). Sem ele, a análise pode demorar mais.
+- **Homologação também no VTEX IO:** conectores desenvolvidos com PPF também passam pela homologação de pagamentos, salvo a exceção descrita na [tabela de infraestrutura](#decisao-1-onde-o-conector-e-hospedado).
+- **Duas homologações para apps distribuídos pela App Store:** apps publicados na VTEX App Store passam também pela [homologação da App Store](https://developers.vtex.com/docs/guides/vtex-io-documentation-submitting-your-app-in-the-vtex-app-store), que avalia negócio, experiência do usuário, segurança e desempenho e pode levar até 45 dias. Considere esse prazo no planejamento.
+- **Nome definitivo:** o nome do conector, com até 16 caracteres alfanuméricos, não pode ser alterado depois da publicação.
+- **Payment App sempre no VTEX IO:** mesmo quando o conector é hospedado em infraestrutura própria, o Payment App é um app do VTEX IO. A equipe precisa conhecer o VTEX IO e React para desenvolvê-lo.
+- **3DS 2 e lojas físicas:** o 3DS 2 só pode ser implementado por Payment App. Conectores que operam somente em lojas físicas, pelo [VTEX Sales App](/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes), também precisam usar Payment App.
+- **Lojas headless:** apps do VTEX IO, incluindo Payment Apps, não funcionam em lojas headless. Nesses casos, é preciso usar uma webview do checkout ou uma integração direta com o provedor.
+- **Confirmação da compra:** o Payment App precisa avisar o checkout quando a interação do comprador termina. Caso contrário, o e-mail de confirmação do pedido não é enviado.
+- **Split de transação:** o [split de transação](/pt/docs/tutorials/split-de-pagamento) não é compatível com Payment Apps.
+- **Layout personalizado:** o layout só é aplicado no Checkout v6, não pode ter scripts nem links e precisa ter textos em inglês dos Estados Unidos (en-US), além dos idiomas dos países onde o meio de pagamento será oferecido.
+- **Mudanças em conectores de infraestrutura própria:** adicionar meios de pagamento ou ativar o split exige uma solicitação à VTEX, com prazo de até 30 dias.
 
 ## Escolha da infraestrutura para o conector
 
@@ -93,7 +195,7 @@ Ao implementar os endpoints, o parceiro escolhe se o conector será hospedado em
 
 - **Ausência de manutenção de infraestrutura:** ao desenvolver o conector no VTEX IO, toda a gestão de infraestrutura é automatizada, permitindo que o desenvolvedor concentre-se exclusivamente nas regras de negócio, sem se preocupar com questões técnicas de infraestrutura.
 
-- **Atualização automatizada por versionamento da app:** as atualizações do conector são realizadas de forma automatizada, sem necessidade de intervenção do time da VTEX.
+- **Atualização por versionamento da app:** o próprio parceiro publica as atualizações do conector como novas versões do app. Mudanças de configuração, como novos meios de pagamento, são enviadas para homologação na nova versão.
 
 #### Recursos operacionais
 
@@ -193,6 +295,9 @@ Conectores com funcionalidade de [split de recebíveis](/pt/docs/tutorials/split
 - [Split Payouts on Payment Provider Protocol - Dev. Portal](https://developers.vtex.com/docs/guides/split-payouts-on-payment-provider-protocol)
 - [PCI-DSS - Dev. Portal](https://developers.vtex.com/docs/guides/payments-integration-pci-dss-compliance)
 - [Payment apps - Dev. Portal](https://developers.vtex.com/docs/guides/payments-integration-payment-app)
+- [Integrating a new payment provider on VTEX - Dev. Portal](https://developers.vtex.com/docs/guides/integrating-a-new-payment-provider-on-vtex)
+- [Layout development guide for payment methods in VTEX Smart Checkout - Dev. Portal](https://developers.vtex.com/docs/guides/layout-development-guide-for-payment-methods-in-smart-checkout-vtex)
+- [Submitting your app to the VTEX App Store - Dev. Portal](https://developers.vtex.com/docs/guides/vtex-io-documentation-submitting-your-app-in-the-vtex-app-store)
 - [What is VTEX IO - Dev. Portal](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-io)
 - [Exemplo de integração: payment-provider-example - GitHub](https://github.com/vtex-apps/payment-provider-example)
 - [Developing services on VTEX IO - Learning Center](https://learn.vtex.com/docs/course-service-course-lang-en)
