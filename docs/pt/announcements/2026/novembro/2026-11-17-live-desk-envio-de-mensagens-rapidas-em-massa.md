@@ -12,7 +12,7 @@ tags:
 announcementSynopsisPT: 'Atendentes agora podem enviar uma mensagem rápida salva para várias conversas de uma vez no Live Desk, com revisão antes do envio e acompanhamento em tempo real.'
 ---
  
-Lançamos no [Live Desk](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk) o **envio de mensagens rápidas em massa**, que permite ao atendente enviar uma mensagem rápida salva para vários contatos de uma só vez, diretamente pelo menu de opções da mensagem.
+Lançamos no [Live Desk](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk) o **envio de mensagens rápidas em massa**, que permite ao atendente enviar uma mensagem rápida salva para várias conversas de uma só vez, diretamente pelo menu de opções da mensagem. Essa funcionalidade está em disponibilidade geral para as lojas VTEX de todas as regiões.
  
 ## O que mudou?
  
@@ -29,7 +29,8 @@ A funcionalidade estende as mensagens rápidas já existentes. Para saber mais, 
 
 ## O que precisa ser feito?
  
-A funcionalidade já está disponível para os atendentes nas conversas do Live Desk com mensagens rápidas cadastradas.
+Nenhuma ação é necessária. A funcionalidade já está disponível para todos os usuários do VTEX CX Platform com mensagens rápidas cadastradas.
 
+Para aprender a cadastrar mensagens rápidas, acesse o artigo [Configurar o Live Desk](https://help.vtex.com/pt/docs/tutorials/configurar-o-live-desk#setores).
 
 Para mais informações, acesse o artigo [Visão geral do Live Desk](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk).
