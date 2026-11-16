@@ -39,13 +39,13 @@
               "children": [
                 {
                   "name": {
-                    "en": "VTEX CX Platform: login com Okta para clientes enterprise",
-                    "es": "VTEX CX Platform: login com Okta para clientes enterprise",
+                    "en": "VTEX CX Platform: Okta login for enterprise clients",
+                    "es": "VTEX CX Platform: inicio de sesión con Okta para clientes empresariales",
                     "pt": "VTEX CX Platform: login com Okta para clientes enterprise"
                   },
                   "slug": {
-                    "en": "",
-                    "es": "",
+                    "en": "2026-11-16-vtex-cx-platform-enterprise-okta-login",
+                    "es": "2026-11-16-vtex-cx-platform-inicio-de-sesion-con-okta-para-clientes-empresariales",
                     "pt": "2026-11-16-vtex-cx-platform-login-com-okta-para-clientes-enterprise"
                   },
                   "origin": "",
