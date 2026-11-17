@@ -8,7 +8,7 @@ slugEN: destination-retail
 locale: en
 ---
 
-Your website can receive traffic from offsite campaigns configured by the [VTEX Ads](/en/docs/tracks/retail-media) team in the advertiser account. On the **Destination retail** page, you define which campaigns your website appears in as a destination and how your conversion data is shared.
+Your website can receive traffic from [offsite campaigns](/en/docs/tutorials/vtex-ads-offsite-campaigns) configured by the [VTEX Ads](/en/docs/tracks/retail-media) team in the advertiser account. On the **Destination retail** page, you define which campaigns your website appears in as a destination and how your conversion data is shared.
 
 An offsite campaign displays the ad outside your store and directs the user to it. For the purchase that results from that visit to be attributed to the campaign, VTEX Ads needs to record the user's arrival on your storefront or in your app. The page therefore covers two distinct topics: the decision to participate as a destination and the data capture that records the visit.
 
