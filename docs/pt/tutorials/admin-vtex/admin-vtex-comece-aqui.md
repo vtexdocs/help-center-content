@@ -102,7 +102,7 @@ Tipo de feedback (selecione um ou mais campos):
 
 ![configurações de avatar admin SEP2023](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/admin-vtex/admin-vtex-comece-aqui_5.gif)
 
-Seu avatar de perfil, reúne todas as configurações relacionadas ao seu usuário e à sua conta. Através do avatar, você pode acessar as [Configurações do usuário](/pt/tutorial/visao-geral-configuracoes-de-usuario--3Qsy4ce1FrWKZPoMeEQY34#), [Configurações da conta](/pt/docs/tutorials/visao-geral-configuracoes-da-conta), e [Faturas](/pt/tutorial/billing-module-overview--6UxfCl4fw4GmyQwoUuIcQs?&utm_source=autocomplete), alterar o idioma do seu Admin e encerrar a sessão.
+Seu avatar de perfil, reúne todas as configurações relacionadas ao seu usuário e à sua conta. Através do avatar, você pode acessar as [Configurações do usuário](/pt/tutorial/visao-geral-configuracoes-de-usuario--3Qsy4ce1FrWKZPoMeEQY34#), [Configurações da conta](/pt/docs/tutorials/visao-geral-configuracoes-da-conta), e [Faturas](/pt/docs/tutorials/visao-geral-informacoes-de-faturamento?&utm_source=autocomplete), alterar o idioma do seu Admin e encerrar a sessão.
 
 Separamos as configurações do seu perfil das configurações que afetam a sua loja em si. Dessa forma, você tem mais controle e visibilidade sobre as ações que afetam o seu negócio e as que afetam o perfil de um usuário, como seus [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso).
 

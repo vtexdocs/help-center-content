@@ -118,7 +118,7 @@ O nível de  estoque de um produto é enviado pela primeira vez junto com o prim
 
 Para visualizar o estoque dos produtos enviados, acesse no Admin *MARKETPLACE > Integrações > Estoque*. Utilize o campo de busca e procure pelo código do SKU, caso queira encontrar por um produto específico. 
 
-Em caso de dúvida, veja nossa documentação sobre [Erros de falta de estoque na integração com o Mercado Livre](/pt/docs/tutorials/erros-de-integracao-de-estoque-com-o-mercado-livre) caso tenha alguma dúvida.
+Em caso de dúvida, veja nossa documentação sobre [Erros de falta de estoque na integração com o Mercado Livre](/pt/troubleshooting/erros-de-integracao-de-estoque-com-o-mercado-livre) caso tenha alguma dúvida.
 
 ## 5. Pontos de Retirada
 

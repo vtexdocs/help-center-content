@@ -76,7 +76,7 @@ _Ex: a transportadora X possui em sua tabela de frete o preço de R$ 7,00 para S
 Para indicar qual transportadora da sua loja corresponde às [transportadoras aceitas pela Wish](https://merchant.wish.com/documentation/shippingproviders), será necessário realizar um de/para na configuração.
 
   1. Indique no primeiro seletor (_dropdown_) qual a transportadora na Wish;
-  2. Indique no segundo dropdown qual o [tipo de transportadora](/pt/tutorial/como-funciona-o-tipo-de-entrega) na VTEX corresponderá à transportadora selecionada no passo anterior;
+  2. Indique no segundo dropdown qual o [tipo de transportadora](/pt/docs/tutorials/como-funciona-o-tipo-de-envio) na VTEX corresponderá à transportadora selecionada no passo anterior;
 
   _Ex: Imagine que você usa o Correios (PAC) como transportadora e seu Tipo de Transportadora no painel logístico da VTEX se chama "Convencional". Então, você deve escrever no campo o nome "Convencional". Lembre-se que a palavra deve ser exatamente igual à cadastrada na logística._
 

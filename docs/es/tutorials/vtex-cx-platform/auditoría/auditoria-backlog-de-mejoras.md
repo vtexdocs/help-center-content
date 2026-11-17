@@ -75,8 +75,8 @@ Para crear un análisis personalizado sigue los pasos a continuación:
 1. En la pestaña **Backlog de mejoras** haz clic en `Análisis personalizado`.
 2. Completa los dos campos:
 
-- **Título:** nombre de la mejora identificada.
-- **Definición:** descripción del comportamiento que deseas monitorear.
+    - **Título:** nombre de la mejora identificada.
+    - **Definición:** descripción del comportamiento que deseas monitorear.
 
 3. Haz clic en `Agregar`.
 

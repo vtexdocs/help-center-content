@@ -19,7 +19,7 @@ subcategoryId: 5uXA9a0laSLMkfbv6jQRDS
 
 En VTEX, no es necesario crear una cuenta o iniciar sesión para realizar una compra. Sin embargo, si el cliente desea editar los datos informados durante la primera compra, debe comprobar que el email en cuestión le pertenece.
 
-La funcionalidad nativa de la plataforma ofrece opciones de inicio de sesión con email y contraseña y con código de acceso enviado por email al cliente. También ofrecemos integraciones opcionales nativas con Apple ID, [Google y Facebook](/es/tutorial/integracion-google-y-facebook-en-smartcheckout--tutorials_513) que se pueden utilizar después de configurarlas. Esta guía explica la configuración necesaria para activar el inicio de sesión con [Apple ID](https://support.apple.com/es-mx/apple-id) en tu tienda:
+La funcionalidad nativa de la plataforma ofrece opciones de inicio de sesión con email y contraseña y con código de acceso enviado por email al cliente. También ofrecemos integraciones opcionales nativas con Apple ID, [Google y Facebook](/es/docs/tutorials/configurar-inicio-de-sesion-con-facebook-y-google) que se pueden utilizar después de configurarlas. Esta guía explica la configuración necesaria para activar el inicio de sesión con [Apple ID](https://support.apple.com/es-mx/apple-id) en tu tienda:
 
 - [Prerrequisitos](#prerrequisitos)
 - [Registrarse en Apple](#registrarse-en-apple)

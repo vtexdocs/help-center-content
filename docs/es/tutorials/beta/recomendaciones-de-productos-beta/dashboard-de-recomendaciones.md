@@ -3,7 +3,7 @@ title: 'Dashboard de recomendaciones (beta)'
 id: 2QIexbD2FSXBxELUnFtg7g
 status: PUBLISHED
 createdAt: 2026-02-20T13:01:10.919Z
-updatedAt: 2026-02-20T13:01:10.919Z
+updatedAt: 2026-10-09T15:18:22.000Z
 publishedAt: 2026-02-20T13:01:10.919Z
 firstPublishedAt: 2025-06-27T20:41:49.041Z
 contentType: tutorial
@@ -25,6 +25,15 @@ Para acceder, en el Admin VTEX ve a _Storefront > Recomendaciones_.
 
 - Tener activada la funcionalidad de [Recomendaciones de productos](https://help.vtex.com/es/docs/tutorials/recomendaciones-de-productos-beta) en la tienda.
 - Contar con [estrategias de recomendación](https://help.vtex.com/es/docs/tutorials/recomendaciones-de-productos-beta#estrategias-de-recomendacion) implementadas en la tienda.
+- Tener un [rol](https://help.vtex.com/es/docs/tutorials/roles) con los [recursos de License Manager](https://help.vtex.com/es/docs/tutorials/recursos-del-license-manager) a continuación. Sin el recurso *View Recommendations*, la página **Recomendaciones** no se abre en el Admin VTEX.
+
+  * **Producto:** *Recommendations*
+  * **Categoría:** *Recommendations*
+
+  | Recurso | Clave | Descripción |
+  | --- | --- | --- |
+  | *View Recommendations* | `ViewRecommendations` | Consulte la lista de recomendaciones en el panel de administración. |
+  | *View Recommendations metrics* | `ViewRecommendationsMetrics` | Consulta las métricas de recomendación en el panel de administración. |
 
 ## Información general
 

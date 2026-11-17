@@ -48,7 +48,7 @@ Para criar um campo de produto, siga os passos abaixo:
   **Texto:** descrição sobre o campo.  
   **Tipo:** tipo de campo, que pode variar entre **Texto, Texto Grande, Número, Combo, Radio, CheckBox, Texto Indexado e Texto Grande Indexado.** [Leia a seção Tipos de campo de produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto#tipos-de-campo-de-produto) para mais informações sobre cada opção.  
   **Valor Padrão:** valor de preenchimento já definido na criação do campo.  
-  **Grupo:** nome do [grupo de especificações](/pt/tutorial/criando-grupo-de-categoria) criado anteriormente, do qual esse campo fará parte.  
+  **Grupo:** nome do [grupo de especificações](/pt/docs/tutorials/criando-grupo-de-especificacoes-em-uma-categoria) criado anteriormente, do qual esse campo fará parte.  
   **Filtro:** define se a especificação será utilizada como filtro na navegação do site.  
   **Obrigatório:** define se o valor obrigatoriamente precisa ser preenchido no cadastro do produto ou não. Caso o campo seja obrigatório, o produto só poderá ser ativado após o preenchimento desta especificação.  
   **Exibe Especificação:** define se o campo é mostrado na página de detalhes do produto, na aba **Especificações.**  

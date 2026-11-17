@@ -1,18 +1,12 @@
 ---
 title: 'Configurar pago con StripeV2'
-id: 3XG7Vrb0GGhdN40ICNKQoN
-status: PUBLISHED
 createdAt: 2025-03-07T15:20:58.287Z
-updatedAt: 2025-09-19T19:45:07.908Z
-publishedAt: 2025-09-19T19:45:07.908Z
-firstPublishedAt: 2025-03-07T15:34:55.639Z
+updatedAt: 2026-11-05T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-stripev2
-legacySlug: configurar-pago-con-stripev2
 locale: es
-subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+hidden: false
 ---
 
 En VTEX puedes realizar la integración con el proveedor de pago StripeV2. A través de este proveedor, tu tienda puede ofrecer diversos medios de pago, como Visa, American Express, Diners, Elo, Hipercard, Mastercard, BankInvoice, Stripe, Google Pay, ApplePay, OXXO, Discover, Affirm, Klarna, ZIP, Blik, Ideal, SPEI, MultiBanco, Afterpay, Bancontact, EPS, FPX, giropay y P24.
@@ -79,7 +73,8 @@ Para configurar la integración de StripeV2 en VTEX sigue los pasos a continuaci
 6. En **Información general**, en la opción **Nombre**, ingrese **StripeV2NativeCheckout** para identificar el tipo de integración.
 7. En **Campos del proveedor**, en la opción **Mode**, selecciona **Float**.
 8. En **Test Mode**, seleccione **Falso** si el modo es **Live** o **True** si el modo es **Test**.
-9. Haz clic en `Guardar`.
+9. Si corresponde, complete los campos **SAT_CATEGORY**, **INSURANCE_CATEGORY** y **PRIMARY_WAREHOUSE** según las instrucciones del proveedor.
+10. Haz clic en `Guardar`.
 
 ### Configurar script antifraude
 
@@ -147,8 +142,9 @@ Para configurar la integración de StripeV2 en VTEX sigue los pasos a continuaci
 6. En **Información general**, en la opción **Nombre**, ingrese **StripeV2Elements** para identificar el tipo de integración.  
 7. En **Campos del proveedor**, en la opción **Mode**, selecciona **Embedded**.
 8. En **Test Mode**, seleccione **Falso** si el modo es **Live** o **True** si el modo es **Test**.
-9. Haz clic en `Guardar`.
-10. Agregue claves Stripe en la configuración de la aplicación del proveedor, de la siguiente manera:
+9. Si corresponde, complete los campos **SAT_CATEGORY**, **INSURANCE_CATEGORY** y **PRIMARY_WAREHOUSE** según las instrucciones del proveedor.
+10. Haz clic en `Guardar`.
+11. Agregue claves Stripe en la configuración de la aplicación del proveedor, de la siguiente manera:
 a. Vaya a **Applications > My applications > Stripe Payment Provider**.
 b. Haga clic en **Settings**.
 c. En **Clave publicable**, ingrese su clave comenzando con **pk_**.

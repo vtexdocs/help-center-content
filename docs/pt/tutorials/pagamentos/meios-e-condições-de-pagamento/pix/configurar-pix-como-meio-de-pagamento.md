@@ -33,7 +33,7 @@ Para receber pagamentos por meio do PIX na VTEX, você precisa ter cadastrado um
 4. Preencha o campo __Nome da regra__ com um nome de sua preferência para identificação.
 5. Ative a condição no campo __Status__.
 6. Em __Processar com a afiliação__, escolha o conector que irá processar os pagamentos com o PIX. Somente estarão disponíveis para seleção, os conectores que suportam este meio de pagamento.
-7. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+7. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/docs/tutorials/condicoes-especiais?&utm_source=autocomplete#).
 8. Clique em __Salvar__.
 
 Depois de seguir os passos indicados, o PIX pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 

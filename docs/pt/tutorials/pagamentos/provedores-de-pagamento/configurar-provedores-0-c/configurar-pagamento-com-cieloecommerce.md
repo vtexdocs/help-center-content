@@ -1,21 +1,15 @@
 ---
 title: 'Configurar pagamento com CieloEcommerce'
-id: 6zuELBqEo0QzApbU4l7L4
-status: PUBLISHED
 createdAt: 2023-09-18T14:07:22.540Z
-updatedAt: 2025-04-09T19:25:40.961Z
-publishedAt: 2025-04-09T19:25:40.961Z
-firstPublishedAt: 2023-09-18T15:29:57.321Z
+updatedAt: 2026-11-05T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-cieloecommerce
-legacySlug: configurar-pagamento-com-cieloecommerce
 locale: pt
-subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+hidden: false
 ---
 
-Na VTEX, é possível realizar a integração com o CieloEcommerce. Por meio desta integração, sua loja pode realizar vendas com cartões de crédito, débito, private labels, cobranded, boletos bancário, PIX, entre outros.
+Na VTEX, é possível realizar a integração com o CieloEcommerce. Por meio desta integração, sua loja pode realizar vendas com cartões de crédito, débito, private labels, cobranded, boletos bancário, PIX, Alelo, entre outros.
 
 Para configurar a CieloEcommerce, siga os passos abaixo:
 1. No Admin VTEX, acesse **Configurações da loja > Pagamentos > Provedores**, ou digite **Provedores** na barra de busca no topo da página.
@@ -44,7 +38,7 @@ Para configurar a CieloEcommerce, siga os passos abaixo:
 21. Em **CustomMdds**, selecione as opções conforme informações do antifraude CieloEcommerce.
 22. Em **Captura**, selecione o período em que a captura do pagamento deve ser solicitada. O tempo padrão será realizado quatro dias após a autorização.
 23. Selecione os campos **UseVerifyCard**, **AcceptInternationalCard**, **AcceptPrePaidCard** e **CancelRefundType** de acordo com as suas configurações no CieloEcommerce.
-24. Em **CieloLIOClientId**, preencha conforme informações do provedor CieloEcommerce.
+24. Em **CieloLIOClientId** e **EcAmex**, preencha conforme informações do provedor CieloEcommerce.
 25. Clique em **Salvar**.
 
 Para configurar os métodos de pagamento a serem processados pela CieloEcommerce, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento).

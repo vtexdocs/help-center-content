@@ -46,7 +46,7 @@ VTEX también inicia el proceso de gestión de incidentes de manera proactiva pa
 
 ## 4. Comunicación
 
-Este procedimiento incluye un plan de comunicación integrado que se aplica durante todas las fases de la respuesta. VTEX notificará a los clientes que puedan haberse visto afectados por el incidente dentro de las 24 horas posteriores a su confirmación.
+Este procedimiento incluye un plan de comunicación integrado que se aplica durante todas las fases de la respuesta. VTEX notificará a los clientes que puedan haberse visto afectados por el incidente dentro de las 72 horas posteriores a su confirmación.
 
 ## 5. Actividades posteriores al incidente
 

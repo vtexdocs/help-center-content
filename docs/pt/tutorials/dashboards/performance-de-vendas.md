@@ -29,7 +29,7 @@ Para acessar a página, em seu Admin VTEX vá para __Dashboards > Performance de
 ![Sales Perf Dash PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/dashboards/performance-de-vendas_1.gif)
 
 ## Dados 
-Os dados da página são provenientes do [sistema de Gerenciamento de Pedidos](/pt/tracks/orders--2xkTisx4SXOWXQel8Jg8sa) da VTEX. A Performance de Vendas é uma solução analítica, que usa heurísticas e fórmulas criadas a partir de nossa experiência levando nossos clientes de ecommerce para o próximo nível para calcular suas métricas. A página não deve ser utilizada como substituto para os dados do OMS, mas como ferramenta de análise e insights de negócio.
+Os dados da página são provenientes do [sistema de Gerenciamento de Pedidos](/pt/docs/tutorials/pedidos-data-pipeline-beta) da VTEX. A Performance de Vendas é uma solução analítica, que usa heurísticas e fórmulas criadas a partir de nossa experiência levando nossos clientes de ecommerce para o próximo nível para calcular suas métricas. A página não deve ser utilizada como substituto para os dados do OMS, mas como ferramenta de análise e insights de negócio.
 
 Para garantir que você tenha acesso tanto aos últimos dados atualizados e também a todo seu histórico para análise sem perdas de performance, internamente o painel de Performance de Vendas divide esses dados em grupos separados. 
 

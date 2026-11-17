@@ -1673,22 +1673,6 @@
       "productId": "99"
     },
     {
-      "product": "User Rights",
-      "category": "User Rights",
-      "resource": "View Erasure Request",
-      "key": "user_rights_read_forget_job",
-      "resourceId": "2163605",
-      "productId": "99"
-    },
-    {
-      "product": "User Rights",
-      "category": "User Rights",
-      "resource": "Create Erasure Request",
-      "key": "user_rights_create_forget_job",
-      "resourceId": "2163606",
-      "productId": "99"
-    },
-    {
       "product": "VTEX CX Platform",
       "category": "CX Platform Access",
       "resource": "Access CX Platform",
@@ -1742,6 +1726,54 @@
       "resource": "File Manager Bucket Config",
       "key": "file-manager-bucket-config",
       "resourceId": "2156623",
+      "productId": "66"
+    },
+    {
+      "product": "VTEX IO",
+      "category": "Infrastructure",
+      "resource": "Read workspace routes",
+      "key": "read-workspace-routes",
+      "resourceId": "2167148",
+      "productId": "66"
+    },
+    {
+      "product": "VTEX IO",
+      "category": "Infrastructure",
+      "resource": "Read/write user routes",
+      "key": "read-write-user-routes",
+      "resourceId": "2167149",
+      "productId": "66"
+    },
+    {
+      "product": "VTEX IO",
+      "category": "Infrastructure",
+      "resource": "Read workspace simulated routes",
+      "key": "read-workspace-simulated-routes",
+      "resourceId": "2167150",
+      "productId": "66"
+    },
+    {
+      "product": "VTEX IO",
+      "category": "Infrastructure",
+      "resource": "Read role policies",
+      "key": "read-role-policies",
+      "resourceId": "2167158",
+      "productId": "66"
+    },
+    {
+      "product": "VTEX IO",
+      "category": "Infrastructure",
+      "resource": "Sphinx - Is Admin",
+      "key": "sphinx-is-admin",
+      "resourceId": "2167159",
+      "productId": "66"
+    },
+    {
+      "product": "VTEX IO",
+      "category": "Infrastructure",
+      "resource": "Read workspace apps bundle",
+      "key": "read-workspace-apps-bundle",
+      "resourceId": "2167160",
       "productId": "66"
     },
     {

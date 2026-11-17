@@ -44,7 +44,7 @@ Veja a seguir quais relações de cross-selling e upselling os SKUs podem ter en
 
 A configuração é feita a nível de SKU e pode ser realizada de diferentes maneiras:
 
-- **Via [Admin VTEX](#via-admin-vtex):** manualmente ao [adicionar ou editar um SKU](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-sku), ou por meio de [importação de planilha](https://help.vtex.com/docs/tutorials/importar-e-exportar-produtos-e-skus-via-planilha).
+- **Via [Admin VTEX](#via-admin-vtex):** manualmente ao [adicionar ou editar um SKU](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-sku), ou por meio de [importação de planilha](https://help.vtex.com/pt/docs/tutorials/importar-e-exportar-produtos-e-skus-via-planilha).
 - **Via [API Reference](#via-api-reference):** usando a API de complemento de SKU para criar ou atualizar relações e os endpoints públicos de cross-selling para consulta no storefront.
 
 >ℹ️ A exibição na vitrine ocorre por meio dos controles e templates do CMS Portal (Legado), como `productsCrossSelling` e placeholders específicos. Saiba mais sobre controles para templates em [List of template controls](https://developers.vtex.com/docs/guides/list-of-controls-for-templates).
@@ -62,7 +62,7 @@ Para configurar cross-selling e upselling manualmente no Admin VTEX, siga as ins
 7. Selecione os SKUs desejados. Você pode usar a barra de busca para pesquisar SKUs.
 8. Clique em `Aplicar`.
 
-Saiba mais sobre as configurações de SKUs em [Adicionar ou editar SKU](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-sku). Para saber mais sobre a importação via planilha, veja [Importar e exportar produtos e SKUs via planilha](https://help.vtex.com/docs/tutorials/importar-e-exportar-produtos-e-skus-via-planilha).
+Saiba mais sobre as configurações de SKUs em [Adicionar ou editar SKU](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-sku). Para saber mais sobre a importação via planilha, veja [Importar e exportar produtos e SKUs via planilha](https://help.vtex.com/pt/docs/tutorials/importar-e-exportar-produtos-e-skus-via-planilha).
 
 ### Via API Reference
 

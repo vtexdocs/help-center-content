@@ -29,7 +29,7 @@ Puedes personalizar la visualización de los datos del gráfico y de la lista fi
 ![Sales Perf Dash ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/dashboards/desempeno-de-ventas_1.gif)
 
 ## Datos 
-Los datos de la página proceden del [sistema de Gestión de pedidos](/es/tracks/orders--2xkTisx4SXOWXQel8Jg8sa) de VTEX. El Desempeño de Ventas es una solución analítica, que utiliza heurística y fórmulas creadas a partir de nuestra experiencia, llevando a nuestros clientes de ecommerce al siguiente nivel para calcular sus métricas. La página no debe utilizarse como un sustituto de los datos del OMS, sino como una herramienta de análisis y de insights de negocio.
+Los datos de la página proceden del [sistema de Gestión de pedidos](/es/docs/tutorials/pedidos-data-pipeline-beta) de VTEX. El Desempeño de Ventas es una solución analítica, que utiliza heurística y fórmulas creadas a partir de nuestra experiencia, llevando a nuestros clientes de ecommerce al siguiente nivel para calcular sus métricas. La página no debe utilizarse como un sustituto de los datos del OMS, sino como una herramienta de análisis y de insights de negocio.
 
 Para asegurarte de que tienes acceso tanto a los últimos datos actualizados como a todo tu historial para analizarlo sin perder rendimiento, internamente el panel de Desempeño de Ventas divide estos datos en grupos separados.
 

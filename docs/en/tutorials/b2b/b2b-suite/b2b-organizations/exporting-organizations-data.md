@@ -12,23 +12,23 @@ subcategoryId: 6bSdupUQgvuXjBL9Igawxl
 
 > ⚠️ This documentation applies only to B2B Suite.
 
-Data export allows you to download spreadsheets with information about buyer organizations, cost centers, addresses, and users registered in your store. This allows you to audit these configurations in bulk without reviewing each organization individually in the VTEX Admin. Exporting is useful, for example, to verify that the data was registered correctly after a [bulk import](/docs/tutorials/configuring-bulk-data-import-for-organizations-and-cost-centers).
+Data export allows you to download spreadsheets with information about buyer organizations, cost centers, addresses, and users registered in your store. This allows you to audit these configurations in bulk without reviewing each organization individually in the VTEX Admin. Exporting is useful, for example, to verify that the data was registered correctly after a [bulk import](/en/docs/tutorials/configuring-bulk-data-import-for-organizations-and-cost-centers).
 
 ## Before you begin
 
 To export, you need to have the [B2B Organizations](https://developers.vtex.com/docs/apps/vtex.b2b-organizations) app updated to the latest version.
 
-> ⚠️ Only users with access permission to the **Organizations** menu can export data. Learn more in [Permission management in B2B Suite](/docs/tutorials/permissions-management-in-b2b-suite).
+> ⚠️ Only users with access permission to the **Organizations** menu can export data. Learn more in [Permission management in B2B Suite](/en/docs/tutorials/permissions-management-in-b2b-suite).
 
 ## Exported data
 
 When you start an export, you can choose which of the four data types you want to download:
 
-- **Organizations:** Buyer organizations registered in the store and their configurations, including status, collections, price tables, payment conditions, and sales channels. Learn more in [Managing B2B organizations](/docs/tutorials/managing-b2b-organizations).
+- **Organizations:** Buyer organizations registered in the store and their configurations, including status, collections, price tables, payment conditions, and sales channels. Learn more in [Managing B2B organizations](/en/docs/tutorials/managing-b2b-organizations).
 
-- **Cost centers:** Divisions of each buyer organization. Learn more in [B2B cost center management](/docs/tutorials/b2b-cost-center-management).
+- **Cost centers:** Divisions of each buyer organization. Learn more in [B2B cost center management](/en/docs/tutorials/b2b-cost-center-management).
 
-- **Users:** People authorized to access the platform on behalf of an organization. Learn more in [Managing users in B2B organizations](/docs/tutorials/managing-users-in-b2b-organizations).
+- **Users:** People authorized to access the platform on behalf of an organization. Learn more in [Managing users in B2B organizations](/en/docs/tutorials/managing-users-in-b2b-organizations).
 
 - **Addresses:** Shipping addresses associated with the cost centers.
 
@@ -67,15 +67,15 @@ When the system completes the export, the VTEX Admin displays the message **Expo
 ## Limitations
 
 - This form of data export is available only for stores using B2B Suite.
-- The export feature only allows you to download data. To create new records in bulk, use the [bulk import of data about organizations and cost centers](/docs/tutorials/configuring-bulk-data-import-for-organizations-and-cost-centers).
+- The export feature only allows you to download data. To create new records in bulk, use the [bulk import of data about organizations and cost centers](/en/docs/tutorials/configuring-bulk-data-import-for-organizations-and-cost-centers).
 
 ## Learn more
 
 In this tutorial, you learned how to export data about organizations, cost centers, users, and addresses in B2B Suite. To continue configuring your store, see the following articles:
 
-- [Managing B2B organizations (B2B Suite)](/docs/tutorials/managing-b2b-organizations)
-- [Configuring bulk data import for organizations and cost centers (B2B Suite)](/docs/tutorials/configuring-bulk-data-import-for-organizations-and-cost-centers)
-- [B2B cost center management (B2B Suite)](/docs/tutorials/b2b-cost-center-management)
-- [Managing users in B2B organizations (B2B Suite)](/docs/tutorials/managing-users-in-b2b-organizations)
-- [Permissions management in B2B Suite (B2B Suite)](/docs/tutorials/permissions-management-in-b2b-suite)
-- [B2B Suite - Overview (B2B Suite)](/docs/tutorials/b2b-suite-overview)
+- [Managing B2B organizations (B2B Suite)](/en/docs/tutorials/managing-b2b-organizations)
+- [Configuring bulk data import for organizations and cost centers (B2B Suite)](/en/docs/tutorials/configuring-bulk-data-import-for-organizations-and-cost-centers)
+- [B2B cost center management (B2B Suite)](/en/docs/tutorials/b2b-cost-center-management)
+- [Managing users in B2B organizations (B2B Suite)](/en/docs/tutorials/managing-users-in-b2b-organizations)
+- [Permissions management in B2B Suite (B2B Suite)](/en/docs/tutorials/permissions-management-in-b2b-suite)
+- [B2B Suite - Overview (B2B Suite)](/en/docs/tutorials/b2b-suite-overview)

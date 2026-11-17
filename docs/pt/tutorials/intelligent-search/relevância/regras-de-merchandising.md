@@ -13,6 +13,7 @@ slugEN: merchandising-rules
 legacySlug: regras-de-merchandising
 locale: pt
 subcategoryId: 32zXHBMygA2dB6TbCjQJej
+order: 1
 ---
 
 As regras de merchandising permitem modificar os resultados de busca para priorizar e apresentar produtos mais relevantes aos clientes de acordo com critérios personalizados. Com elas, você pode customizar os produtos listados na busca, adequando os resultados às suas estratégias de venda.

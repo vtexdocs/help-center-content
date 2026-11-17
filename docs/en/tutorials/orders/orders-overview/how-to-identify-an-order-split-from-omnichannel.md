@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-Stores that operate with [Unified Commerce](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) strategies and omnichannel architecture need to manage orders alongside their financial reconciliation. The **Orders** module and the [Split Payment](/en/docs/tutorials/split-payment) solution allow an order to be split among multiple sellers, which is called order splitting.
+Stores that operate with [Unified Commerce](/en/docs/tracks/unified-commerce-strategies) strategies and omnichannel architecture need to manage orders alongside their financial reconciliation. The **Orders** module and the [Split Payment](/en/docs/tutorials/split-payment) solution allow an order to be split among multiple sellers, which is called order splitting.
 
 You can see if an order has been split in the order ID. There are two ID formats for stores acting as a [marketplace](/en/docs/tutorials/configuring-vtex-marketplace):
 

@@ -15,7 +15,7 @@ tags:
   - Promociones
 ---
 
-El módulo Promociones permitirá la creación de [cupones](https://help.vtex.com/es/docs/tutorials/criar-cupom-beta) en masa. Esta actualización amplía el volumen admitido y reduce las operaciones manuales al crear campañas que requieren grandes cantidades de cupones.
+El módulo Promociones permitirá la creación de [cupones](https://help.vtex.com/es/docs/tutorials/crear-cupon-beta) en masa. Esta actualización amplía el volumen admitido y reduce las operaciones manuales al crear campañas que requieren grandes cantidades de cupones.
 
 ## ¿Qué cambió?
 

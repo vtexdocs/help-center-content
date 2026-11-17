@@ -3,7 +3,7 @@ title: 'Integração com Zoom'
 id: 2OoQjigCVOIEWWkgOqwCK6
 status: PUBLISHED
 createdAt: 2017-05-19T17:47:11.266Z
-updatedAt: 2025-08-26T17:51:12.618Z
+updatedAt: 2026-11-04T17:45:00.000Z
 publishedAt: 2025-08-26T17:51:12.618Z
 firstPublishedAt: 2017-05-19T18:04:32.420Z
 contentType: tutorial
@@ -31,7 +31,6 @@ Para integrar com o Zoom, é necessário realizar as seguintes etapas:
 - [Definir política comercial](#definir-politica-comercial)
 - [Criar ID do afiliado](#criar-id-do-afiliado)
 - [Configurar conector](#configurar-conector)
-- [Reindexar base](#reindexar-base)
 
 > ℹ️ Se for do seu interesse consultar a documentação do Zoom, faça o [download do arquivo Integração VTEX.pdf](https://drive.google.com/uc?export=download&id=1hZzqJgyQtozHNJKGBgDZiu6_5eKtHaU5). Em caso de dúvidas, você pode entrar em contato com o Zoom pelo email <i/>integracao@zoom.com.br</i>.
 
@@ -100,17 +99,6 @@ A configuração da integração com o Zoom é feita no Admin. Para realizá-la,
    - **E-mail do afiliado:** notificações sobre a integração serão enviadas para este endereço eletrônico.
    - **Política comercial:** ID da política comercial que será utilizado na integração, determinada na etapa [Definir política comercial](#definir-politica-comercial).
    - **Taxa da Divergência de Preço*:** valor percentual que será aceito na diferença de preço do produto na sua loja VTEX e o preço dele no Zoom. Qualquer pedido que possua uma diferença entre o preço de venda no marketplace e o preço determinado pelo seller será comparado com esse valor percentual. Se a divergência for menor que o valor definido neste campo, o pedido será integrado normalmente. Caso contrário, o [pedido não será integrado](/pt/faq/por-que-o-pedido-foi-fechado-com-um-preco-errado).
-
-### Reindexar base
-
-A indexação é um processo que prepara os dados do SKU e atualiza as informações para servir de base para pesquisas e outras funcionalidades. Ao reindexar a base, você entra em uma fila para iniciar o processo de indexação dos seus produtos. Durante esse período, que varia devido a vários fatores, os produtos da loja seguem disponíveis no site da loja e continuam à venda.
-
-É importante ressaltar que **somente o [usuário Titular da conta (owner)](/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA?&utm_source=autocomplete) tem permissão para reindexar a base.** Para realizar esta ação, siga os passos abaixo:
-
-1. Acesse a página _{nomedaloja}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx_, substituindo `{nomedaloja}` pelo nome da sua loja/ambiente.
-2. Clique no botão `Reindexar Base`.
-
-Feito isso, o processo é iniciado automaticamente e pode ser acompanhado pelo Admin, no módulo _PRODUTOS > Catálogo > Relatórios._ Para mais informações, veja o artigo [Limpar base de dados da loja](/pt/docs/tutorials/manutencao-de-base-full-cleanup).
 
 ## Envio de informações para o Zoom
 

@@ -120,7 +120,7 @@ Para criar uma nova loja, siga os passos:
     - **Nome comercial:** nome utilizado comercialmente.
     - **Localidade:** idioma predefinido associado a esta loja.
     - **Canal de vendas:** [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV#) que deseja associar à nova loja.
-5. Se deseja iniciar o processo de [go-live](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM) da sua loja, preencha o campo **Hosts** com o [domínio da sua loja](/pt/tutorial/configurando-dominios-no-license-manager). Caso contrário, deixe este campo em branco.
+5. Se deseja iniciar o processo de [go-live](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM) da sua loja, preencha o campo **Hosts** com o [domínio da sua loja](/pt/docs/tutorials/configurar-o-dominio-da-loja). Caso contrário, deixe este campo em branco.
 6. Clique no botão `Criar`.
 
 > ℹ️ Para saber mais sobre a configuração de **Hosts** da sua loja, confira o artigo  [Configurando o domínio da sua loja](/pt/docs/tutorials/configurar-o-dominio-da-loja).

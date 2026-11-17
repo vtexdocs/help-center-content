@@ -1,5 +1,5 @@
 ---
-title: 'Distribuição e Roteamento dos atendimentos'
+title: 'Distribuição e roteamento dos atendimentos'
 id: 1vxyqKMo6a5JZZUjVuW6Oj
 status: PUBLISHED
 createdAt: 2025-09-12T16:43:27.944Z
@@ -15,8 +15,6 @@ locale: pt
 subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
 ---
 
-## Regra de distribuição dos atendimentos
-
 As regras atuais de distribuição automática dos atendimentos são:
 
 - Distribuição igualitária e automática entre agentes até chegar no limite de atendimentos simultâneos.
@@ -24,5 +22,4 @@ As regras atuais de distribuição automática dos atendimentos são:
 - Um atendente pode pegar um atendimento manualmente mesmo se estiver com status Offline.
 - Um atendente pode pegar um atendimento manualmente mesmo se estiver no limite de atendimentos simultâneos.
 
-O Live Desk ainda não permite a escolha de diferentes regras de distribuição e
-roteamento dos atendimentos para agentes humanos.
+O Live Desk ainda não permite a escolha de diferentes regras de distribuição e roteamento dos atendimentos para agentes humanos.
