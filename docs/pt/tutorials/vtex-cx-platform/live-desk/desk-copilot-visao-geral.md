@@ -23,7 +23,7 @@ O Desk Copilot funciona como um projeto separado, dentro da mesma organização 
 - Uma **base de conhecimento interna**, para informações confidenciais que só devem aparecer para a equipe.
 - Os mesmos **agentes de comércio oficiais** usados pelos agentes de IA.
 
-Você também pode estender o Desk Copilot com agentes personalizados. Para saber como ativar e configurar o copiloto, consulte [Usando o Desk Copilot para apoiar atendentes no Live Desk](https://help.vtex.com/pt/docs/tutorials/usando-o-desk-copilot-para-apoiar-atendentes-no-live-desk#configurar-o-desk-copilot).
+Você também pode estender o Desk Copilot com agentes personalizados. Para saber como ativar e configurar o copiloto, consulte [Usando o Desk Copilot para apoiar atendentes no Live Desk](https://help.vtex.com/pt/docs/tutorials/usando-o-desk-copilot-para-apoiar-atendentes-no-live-desk).
 
 ## Tipos de sugestão
 

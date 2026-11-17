@@ -4,7 +4,7 @@ createdAt: 2026-11-17T12:00:00.000Z
 updatedAt: 2026-11-17T12:00:00.000Z
 contentType: tutorial
 productTeam: VTEX CX Platform
-slugEN: 2026-11-17-use-desk-copilot-in-live-desk
+slugEN: use-desk-copilot-in-live-desk
 locale: pt
 ---
 
@@ -43,7 +43,7 @@ O Desk Copilot ajuda atendentes humanos no Live Desk a responder clientes com ma
 4. Escolha uma das ações:
    - Clique em **Copiar** para copiar a sugestão para o campo de mensagem e editá-la antes do envio.
    - Clique em **Enviar** para enviar a sugestão sem alterações.
-6. Revise o texto e clique em **Enviar** no campo de mensagem.
+5. Revise o texto e clique em **Enviar** no campo de mensagem.
 
 A cada nova mensagem do cliente, o Desk Copilot atualiza o resumo e as sugestões durante o atendimento.
 
