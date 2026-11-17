@@ -21,7 +21,7 @@ To approve the payment manually, follow the steps below:
 
 ![NotificarEN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-methods-and-conditions/bank-slips/approving-payment-of-the-bank-payment-slip_1.png)
 
-**After the payment is approved, the order enters the normal purchase flow.**
+After the payment is approved, the order enters the normal purchase flow.
 
 > ℹ️ To approve payments, you must have a [role](/en/docs/tutorials/roles) with the `Notify payment` [License Manager resource](/en/docs/tutorials/license-manager-resources) in the `OMS access` category of the **OMS** product.
 

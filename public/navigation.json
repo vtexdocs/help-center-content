@@ -25,18 +25,33 @@
           "children": [
             {
               "name": {
-                "en": "Novembro",
-                "es": "Novembro",
+                "en": "November",
+                "es": "Noviembre",
                 "pt": "Novembro"
               },
               "slug": {
-                "en": "novembro",
-                "es": "novembro",
+                "en": "2026-november",
+                "es": "2026-noviembre",
                 "pt": "2026-novembro"
               },
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Live Desk: bulk sending of quick messages",
+                    "es": "Live Desk: envío masivo de mensajes rápidos",
+                    "pt": "Live Desk: envio de mensagens rápidas em massa"
+                  },
+                  "slug": {
+                    "en": "2026-11-16-live-desk-bulk-sending-of-quick-messages",
+                    "es": "2026-11-16-live-desk-envio-masivo-de-mensajes-rapidos",
+                    "pt": "2026-11-16-live-desk-envio-de-mensagens-rapidas-em-massa"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "VTEX CX Platform: Okta login for enterprise clients",
@@ -303,6 +318,21 @@
                     "en": "2026-10-06-vtex-cx-platform-support-for-bsuid-and-whatsapp-usernames",
                     "es": "2026-10-06-vtex-cx-platform-soporte-para-bsuid-y-nombres-de-usuario-de-whatsapp",
                     "pt": "2026-10-06-vtex-cx-platform-suporte-a-bsuid-e-usernames-do-whatsapp"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "New Destination retail page for publishers",
+                    "es": "Nueva página Retail de destino para publicadores",
+                    "pt": "Nova tela Varejo de destino para publishers"
+                  },
+                  "slug": {
+                    "en": "2026-10-02-destination-retail",
+                    "es": "2026-10-02-retail-de-destino",
+                    "pt": "2026-10-02-varejo-de-destino"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26400,6 +26430,36 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with Almacenessi",
+                        "es": "Configurar pago con Almacenessi",
+                        "pt": "Configurar pagamento com Almacenessi"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-almacenessi",
+                        "es": "configurar-pago-con-almacenessi",
+                        "pt": "configurar-pagamento-com-almacenessi"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with aplazo",
+                        "es": "Configurar pago con aplazo",
+                        "pt": "Configurar pagamento com aplazo"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-aplazo",
+                        "es": "configurar-pago-con-aplazo",
+                        "pt": "configurar-pagamento-com-aplazo"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with Appmax",
                         "es": "Configurar pago con Appmax",
                         "pt": "Configurar pagamento com Appmax"
@@ -26415,6 +26475,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with AppmaxV1",
+                        "es": "Configurar pago con AppmaxV1",
+                        "pt": "Configurar pagamento com AppmaxV1"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-appmaxv1",
+                        "es": "configurar-pago-con-appmaxv1",
+                        "pt": "configurar-pagamento-com-appmaxv1"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with argonPAY",
                         "es": "Configurar pago con argonPAY",
                         "pt": "Configurar pagamento com argonPAY"
@@ -26423,6 +26498,36 @@
                         "en": "setting-up-payments-with-argonpay",
                         "es": "configurar-pago-con-argonpay",
                         "pt": "configurar-pagamento-com-argonpay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with AstroPayOneTouch",
+                        "es": "Configurar pago con AstroPayOneTouch",
+                        "pt": "Configurar pagamento com AstroPayOneTouch"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-astropayonetouch",
+                        "es": "configurar-pago-con-astropayonetouch",
+                        "pt": "configurar-pagamento-com-astropayonetouch"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with Azteca",
+                        "es": "Configurar pago con Azteca",
+                        "pt": "Configurar pagamento com Azteca"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-azteca",
+                        "es": "configurar-pago-con-azteca",
+                        "pt": "configurar-pagamento-com-azteca"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -31653,6 +31758,21 @@
           "children": [
             {
               "name": {
+                "en": "VTEX Ads offsite campaigns",
+                "es": "Campañas offsite en VTEX Ads",
+                "pt": "Campanhas offsite no VTEX Ads"
+              },
+              "slug": {
+                "en": "vtex-ads-offsite-campaigns",
+                "es": "campanas-offsite-en-vtex-ads",
+                "pt": "campanhas-offsite-no-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "VTEX Ads metrics and attribution",
                 "es": "Métricas y atribución de VTEX Ads",
                 "pt": "Métricas e atribuição do VTEX Ads"
@@ -31661,6 +31781,36 @@
                 "en": "vtex-ads-metrics-and-attribution",
                 "es": "metricas-y-atribucion-de-vtex-ads",
                 "pt": "metricas-e-atribuicao-do-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Campaign models and roles in VTEX Ads",
+                "es": "Modelos de campaña y roles en VTEX Ads",
+                "pt": "Modelos de campanha e papéis no VTEX Ads"
+              },
+              "slug": {
+                "en": "vtex-ads-campaign-models-and-roles",
+                "es": "modelos-de-campana-y-roles-en-vtex-ads",
+                "pt": "modelos-de-campanha-e-papeis-no-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Destination retail",
+                "es": "Retail de destino",
+                "pt": "Varejo de destino"
+              },
+              "slug": {
+                "en": "destination-retail",
+                "es": "retail-de-destino",
+                "pt": "varejo-de-destino"
               },
               "origin": "",
               "type": "markdown",
@@ -39816,6 +39966,21 @@
                 "en": "collections-page-in-organization-details-shows-only-20-collections",
                 "es": "la-pagina-colecciones-en-los-detalles-de-la-organizacion-solo-muestra-20-colecciones",
                 "pt": "a-pagina-colecoes-na-secao-detalhes-da-organizacao-mostra-apenas-20-colecoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Top Bar Customization Inactive Organization Message doesn't work",
+                "es": "El mensaje de organización inactiva de personalización de la barra superior no funciona.",
+                "pt": "A personalização da barra superior e a mensagem de organização inativa não funcionam."
+              },
+              "slug": {
+                "en": "top-bar-customization-inactive-organization-message-doesnt-work",
+                "es": "el-mensaje-de-organizacion-inactiva-de-personalizacion-de-la-barra-superior-no-funciona",
+                "pt": "a-personalizacao-da-barra-superior-e-a-mensagem-de-organizacao-inativa-nao-funcionam"
               },
               "origin": "",
               "type": "markdown",
