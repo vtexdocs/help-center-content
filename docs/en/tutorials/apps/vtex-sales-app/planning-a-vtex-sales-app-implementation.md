@@ -31,7 +31,7 @@ The most common **Sales App** use cases are:
 - **Remote support:** Sales associates use Sales App to close assisted sales through digital channels.
 - **Events and pop-up stores:** Sales App can be taken wherever the customer is, such as fairs or temporary kiosks.
 
-> ℹ️ If you have a specific use case or want to expand your assisted sales, open a ticket with [VTEX Support](https://help.vtex.com/support). Our team will help you understand how **Sales App** can meet your business needs.
+> ℹ️ If you have a specific use case or want to expand your assisted sales, open a ticket with [VTEX Support](https://help.vtex.com/en/support). Our team will help you understand how **Sales App** can meet your business needs.
 
 ### Extensibility in Sales App
 

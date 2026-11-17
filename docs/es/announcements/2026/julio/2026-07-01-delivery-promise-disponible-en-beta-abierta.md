@@ -14,7 +14,7 @@ tags:
   - Logística
 ---
 
-VTEX lanza en beta abierta la funcionalidad [Delivery Promise](https://help.vtex.com/es/docs/tutorials/delivery-promise-beta), que permite al comprador ver solo los productos que puede adquirir según el stock disponible y las [opciones de envío](https://help.vtex.com/es/docs/tutorials/opciones-de-envio-beta) válidas para la dirección de entrega indicada.
+VTEX lanza en beta abierta la funcionalidad [Delivery Promise](https://help.vtex.com/es/docs/tutorials/delivery-promise), que permite al comprador ver solo los productos que puede adquirir según el stock disponible y las [opciones de envío](https://help.vtex.com/es/docs/tutorials/opciones-de-envio) válidas para la dirección de entrega indicada.
 
 Al conocer la ubicación del comprador desde el inicio de la jornada, la tienda pasa a mostrar un surtido más preciso y relevante, con información de plazos y métodos de envío disponibles desde las primeras etapas de la compra.
 
@@ -32,11 +32,11 @@ Con Delivery Promise, la experiencia de compra tiene en cuenta la ubicación del
 Por estar en fase beta abierta, los retailers interesados pueden probar la funcionalidad poniéndose en contacto con [nuestro Soporte](https://supporticket.vtex.com/support). Para utilizarla, es necesario:
 
 - Usar [Intelligent Search](https://help.vtex.com/es/docs/tutorials/intelligent-search-vision-general).
-- Utilizar las [Opciones de envío](https://help.vtex.com/es/docs/tutorials/opciones-de-envio-beta) para filtros en la navegación.
+- Utilizar las [Opciones de envío](https://help.vtex.com/es/docs/tutorials/opciones-de-envio) para filtros en la navegación.
 - Garantizar que los sellers externos implementen [Delivery Promise Notification API](https://developers.vtex.com/docs/api-reference/delivery-promise-notification-api).
 - Conocer la ubicación del comprador desde el inicio de la jornada de compra, ya sea mediante la captura automática con un plugin del navegador, la inferencia a partir de la dirección IP del dispositivo o la dirección proporcionada por el comprador.
 
-Para saber más sobre cómo configurar y usar la funcionalidad, consulta el artículo principal [Delivery Promise (Beta)](https://help.vtex.com/es/docs/tutorials/delivery-promise-beta) y los materiales complementarios a continuación:
+Para saber más sobre cómo configurar y usar la funcionalidad, consulta el artículo principal [Delivery Promise (Beta)](https://help.vtex.com/es/docs/tutorials/delivery-promise) y los materiales complementarios a continuación:
 
 - [Delivery Promise: FAQ](https://help.vtex.com/es/docs/tutorials/delivery-promise-faq)
 - [Setting up Delivery Promise components (Beta)](https://developers.vtex.com/docs/guides/setting-up-delivery-promise-components)

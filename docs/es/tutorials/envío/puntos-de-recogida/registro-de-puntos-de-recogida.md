@@ -59,6 +59,8 @@ Selecciona <i class="fas fa-toggle-on"></i> para activar el punto de recogida.
 * **Instrucciones de recogida:** introduce indicaciones para ayudar a tu cliente a recoger sus paquetes en el punto de recogida. Por ejemplo, en qué puerta se recogen los ítems o qué documentos debe presentar el cliente al recoger los pedidos. Estas instrucciones se mostrarán en el _checkout_, al elegir el punto de recogida. 
 * **Tags:** añade etiquetas para agrupar los puntos de recogida. Estas etiquetas son útiles a la hora de relacionar las [políticas de envío](/es/docs/tutorials/politica-de-envio) con los puntos de recogida.  
 
+> ℹ️ El radio de búsqueda de recogida usado en el Checkout y por el filtro **Recogida** de Delivery Promise no es un campo del punto de recogida. Se trata del radio de recogida del Checkout, configurable por el comercio hasta un máximo de 50 km (predeterminado: 50 km). Más información en [Cómo funcionan los puntos de recogida](/es/docs/tutorials/puntos-de-recogida#como-funcionan-puntos-de-recogida).
+
 #### Horas laborables
 
 * **Días de la semana:**

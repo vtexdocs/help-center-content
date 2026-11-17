@@ -29,7 +29,7 @@ This section includes the following information:
 
 |Characteristic|Description|
 | - | - |
-|**Data source**|Obtained from the [Promotions module](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR) in the VTEX Admin.|
+|**Data source**|Obtained from the [Promotions module](/en/docs/tracks/promotions) in the VTEX Admin.|
 |**Availability**|Promotion data can be accessed through the VTEX Admin and also via the [Promotions APIs](https://developers.vtex.com/docs/guides/promotions-overview).|
 |**History**|The data is retained for two years, from 2024 for clients who already use the VTEX platform.|
 |**Minimum update interval**|One hour.|

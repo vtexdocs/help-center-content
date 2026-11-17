@@ -42,5 +42,5 @@ Changing a seller could only be done by marketplaces that did not use affiliatio
 Payment split affiliations are now capturing payments that adhere to the **Use Payment Processor Recommended Behavior**. If you choose to maintain the automatic behavior for the affiliation that supports payment split, you need to select the desired behavior from the affiliation view page where the payment split takes place.
 
 [1](/en/docs/tutorials/split-payment)
-[2](/en/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete)
+[2](/en/docs/tutorials/change-seller?&utm_source=autocomplete)
 

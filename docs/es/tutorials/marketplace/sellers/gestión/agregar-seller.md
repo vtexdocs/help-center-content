@@ -65,7 +65,7 @@ Para agregar un seller no identificable, también conocido como [seller white la
 
 > ℹ️ Con la nueva versión de la página, lanzada el 2022, eliminamos el campo Endpoint del Catálogo porque ya no es necesario para la integración con un nuevo seller. Si es necesario, aún es posible gestionar el campo a través de la API.
 
-Después de rellenar los campos y hacer clic en **Guardar**, el _seller_ será agregado al _marketplace_. Para completar la configuración de tu tienda como _marketplace_ también debes [mapear las marcas, categorías y especificaciones del seller](/es/tutorial/mapeando-categorias-e-marcas-para-marketplace/) y [aprobar los anuncios recibidos](/es/tutorial/sugerindo-e-aprovando-skus/).
+Después de rellenar los campos y hacer clic en **Guardar**, el _seller_ será agregado al _marketplace_. Para completar la configuración de tu tienda como _marketplace_ también debes [mapear las marcas, categorías y especificaciones del seller](/es/docs/tutorials/mapeo-de-categorias-y-marcas-para-marketplace) y [aprobar los anuncios recibidos](/es/docs/tutorials/catalogacion-manual-de-skus).
 
 ## Más información
 

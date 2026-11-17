@@ -1,11 +1,7 @@
 ---
 title: 'Retail Media'
-id: 36ZHI8z0VQjcu5yHeGEvv3
-status: PUBLISHED
 createdAt: 2025-05-29T14:17:24.579Z
-updatedAt: 2025-07-04T15:53:33.192Z
-publishedAt: 2025-07-04T15:53:33.192Z
-firstPublishedAt: 2025-05-29T14:23:22.627Z
+updatedAt: 2026-11-06T00:00:00.000Z
 contentType: trackArticle
 productTeam: Others
 slugEN: retail-media
@@ -15,28 +11,29 @@ trackSlugEN: vtex-ads
 order: 1
 ---
 
-Retail Media é a prática de transformar os canais de venda — como sites, aplicativos e lojas físicas — em espaços publicitários estratégicos. Essa abordagem permite que varejistas e marcas veiculem campanhas direcionadas diretamente nos pontos de contato com o consumidor, durante a jornada de compra.
+Retail Media é a prática de transformar os canais de venda, como sites, aplicativos e lojas físicas, em espaços publicitários estratégicos. Essa abordagem permite que varejistas e marcas veiculem campanhas direcionadas diretamente nos pontos de contato com o consumidor, durante a jornada de compra.
 
 O diferencial do Retail Media está na utilização de dados de comportamento de compra do consumidor para criar campanhas personalizadas, com uma mensuração mais eficiente do que em outros formatos de publicidade.
 
 ## VTEX Ads
 
-O VTEX Ads é a solução de Retail Media da VTEX, criada para operacionalizar e escalar esse tipo de publicidade dentro do ecossistema do varejo. Com ele, varejistas e marcas conseguem criar, gerenciar e mensurar anúncios que aparecem em ambientes próprios (como o ecommerce do varejista), em canais externos e também em pontos de venda físicos.
+O **VTEX Ads** é a solução de Retail Media da VTEX, criada para operacionalizar e escalar esse tipo de publicidade dentro do ecossistema do varejo. Com ele, varejistas e marcas conseguem criar, gerenciar e mensurar anúncios que aparecem em ambientes próprios (como o ecommerce do varejista), em canais externos e também em pontos de venda físicos.
 
-Ao navegar por um ecommerce, abrir um app de compras ou visitar uma loja física, os consumidores podem ser impactados por campanhas ativadas via VTEX Ads — como vitrines de produtos patrocinados ou banners promocionais. Todos esses pontos de contato podem ser utilizados como veículos de mídia.
+Ao navegar por um ecommerce, abrir um app de compras ou visitar uma loja física, os consumidores podem ser impactados por campanhas ativadas via **VTEX Ads**, como vitrines de produtos patrocinados ou banners promocionais. Todos esses pontos de contato podem ser utilizados como veículos de mídia.
 
 ## Estratégias de Retail Media
 
-O VTEX Ads suporta múltiplas estratégias de ativação publicitária, agrupadas em dois formatos principais:
+O **VTEX Ads** suporta três estratégias de ativação publicitária:
 
 * **Onsite**: anúncios exibidos dentro dos canais digitais do varejista, como sites, aplicativos de ecommerce, televendas, etc.  
 * **In-Store**: ativações realizadas nas lojas físicas do varejista, como displays digitais e promoções no ponto de venda.
+* **Offsite**: anúncios exibidos fora da loja que recebe o tráfego, levando o usuário até ela, como explicado em [Campanhas offsite no **VTEX Ads**](/pt/docs/tutorials/campanhas-offsite-no-vtex-ads).
 
 Esses formatos trabalham juntos para engajar os consumidores em diferentes etapas da jornada de compra, desde a conscientização da marca até a conversão final.
 
 ## Tipos de campanha
 
-Com o VTEX Ads, é possível configurar diferentes tipos de campanha para atingir objetivos específicos ao longo da jornada de compra. A seguir, detalhamos cada tipo disponível.
+Com o **VTEX Ads**, é possível configurar diferentes tipos de campanha para atingir objetivos específicos ao longo da jornada de compra. A seguir, detalhamos cada tipo disponível.
 
 ### Produtos patrocinados
 

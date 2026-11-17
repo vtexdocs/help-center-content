@@ -38,6 +38,6 @@ Para configurar o pagamento por cartões de crédito ou débito, acesse [Condiç
 
 Para configurar o pagamento por cartões private labels, acesse [Configurar pagamentos com Cartões de Loja](/pt/tutorial/configurar-pagamentos-com-cartoes-de-loja-bandeira-propria--428FgVdSGQUeAOoogkaIw4#).
 
-Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete).
+Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/docs/tutorials/condicoes-especiais?&utm_source=autocomplete).
 
 Depois de seguir os passos indicados, o conector Dock pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 

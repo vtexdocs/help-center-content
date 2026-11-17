@@ -61,4 +61,4 @@ If your operation uses VTEX IO custom apps that interact with seller data, updat
 ]
 ```
 
-For more information about managing user roles, see the [Roles](https://help.vtex.com/docs/tutorials/roles) documentation.
+For more information about managing user roles, see the [Roles](https://help.vtex.com/en/docs/tutorials/roles) documentation.
