@@ -25,6 +25,37 @@
           "children": [
             {
               "name": {
+                "en": "Novembro",
+                "es": "Novembro",
+                "pt": "Novembro"
+              },
+              "slug": {
+                "en": "novembro",
+                "es": "novembro",
+                "pt": "2026-novembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Desk Copilot: sugestões para atendentes humanos no Live Desk",
+                    "es": "Desk Copilot: sugestões para atendentes humanos no Live Desk",
+                    "pt": "Desk Copilot: sugestões para atendentes humanos no Live Desk"
+                  },
+                  "slug": {
+                    "en": "",
+                    "es": "",
+                    "pt": "2026-11-19-desk-copilot-sugestoes-para-atendentes-humanos-no-live-desk"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "November",
                 "es": "Noviembre",
                 "pt": "Novembro"
@@ -34660,12 +34691,12 @@
                 "pt": "Live Desk"
               },
               "slug": {
-                "en": "live-desk-overview",
-                "es": "informacion-general-de-live-desk",
-                "pt": "visao-geral-do-live-desk"
+                "en": "live-desk-subcategory",
+                "es": "live-desk-subcategoria",
+                "pt": "live-desk-subcategoria"
               },
               "origin": "",
-              "type": "markdown",
+              "type": "category",
               "children": [
                 {
                   "name": {
@@ -34677,6 +34708,21 @@
                     "en": "configure-live-desk",
                     "es": "configurar-el-live-desk",
                     "pt": "configurar-o-live-desk"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Desk Copilot",
+                    "es": "Desk Copilot",
+                    "pt": "Desk Copilot"
+                  },
+                  "slug": {
+                    "en": "",
+                    "es": "",
+                    "pt": "desk-copilot-visao-geral"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -34699,6 +34745,21 @@
                 },
                 {
                   "name": {
+                    "en": "Live Desk",
+                    "es": "Live Desk",
+                    "pt": "Live Desk"
+                  },
+                  "slug": {
+                    "en": "live-desk-overview",
+                    "es": "informacion-general-de-live-desk",
+                    "pt": "visao-geral-do-live-desk"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Using groups to organize human attendance",
                     "es": "Usando grupos para controlar la atención humana",
                     "pt": "Usando grupos para controlar o atendimento humano"
@@ -34707,6 +34768,21 @@
                     "en": "using-groups-to-organize-human-attendance",
                     "es": "usando-grupos-para-controlar-la-atencion-humana",
                     "pt": "usando-grupos-para-controlar-o-atendimento-humano"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Usando o Desk Copilot para apoiar atendentes no Live Desk",
+                    "es": "Usando o Desk Copilot para apoiar atendentes no Live Desk",
+                    "pt": "Usando o Desk Copilot para apoiar atendentes no Live Desk"
+                  },
+                  "slug": {
+                    "en": "",
+                    "es": "",
+                    "pt": "usando-o-desk-copilot-para-apoiar-atendentes-no-live-desk"
                   },
                   "origin": "",
                   "type": "markdown",
