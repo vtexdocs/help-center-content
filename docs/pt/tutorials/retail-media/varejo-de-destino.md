@@ -8,7 +8,7 @@ slugEN: destination-retail
 locale: pt
 ---
 
-Seu site pode receber tráfego de campanhas offsite configuradas pela equipe do [VTEX Ads](/pt/docs/tracks/retail-media) na conta do anunciante. Na tela **Varejo de destino,** você define em quais campanhas seu site aparece como destino e como seus dados de conversão são compartilhados.
+Seu site pode receber tráfego de [campanhas offsite](/pt/docs/tutorials/campanhas-offsite-no-vtex-ads) configuradas pela equipe do [VTEX Ads](/pt/docs/tracks/retail-media) na conta do anunciante. Na tela **Varejo de destino,** você define em quais campanhas seu site aparece como destino e como seus dados de conversão são compartilhados.
 
 Uma campanha offsite exibe o anúncio fora da sua loja e leva o usuário até ela. Para que a compra resultante desse acesso seja atribuída à campanha, o VTEX Ads precisa registrar a chegada do usuário na sua vitrine ou no seu app. A tela trata, portanto, de dois assuntos distintos: a decisão de participar como destino e a coleta de dados que registra o acesso.
 
