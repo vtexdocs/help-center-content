@@ -20836,6 +20836,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configuring SEO via CMS",
+                    "es": "Configurar SEO via CMS",
+                    "pt": "Configurando SEO via CMS"
+                  },
+                  "slug": {
+                    "en": "cms-configuring-seo",
+                    "es": "cms-configurar-seo",
+                    "pt": "cms-configurando-seo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Configuring stores",
                     "es": "Configurar tiendas",
                     "pt": "Configurar lojas"
@@ -20844,21 +20859,6 @@
                     "en": "cms-configuring-stores",
                     "es": "cms-configurar-tiendas",
                     "pt": "cms-configurar-lojas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring SEO via CMS",
-                    "es": "Configuring SEO via CMS",
-                    "pt": "Configuring SEO via CMS"
-                  },
-                  "slug": {
-                    "en": "cms-configuring-seo",
-                    "es": "",
-                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
