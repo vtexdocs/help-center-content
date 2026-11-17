@@ -322,6 +322,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "New Destination retail page for publishers",
+                    "es": "Nueva página Retail de destino para publicadores",
+                    "pt": "Nova tela Varejo de destino para publishers"
+                  },
+                  "slug": {
+                    "en": "2026-10-02-destination-retail",
+                    "es": "2026-10-02-retail-de-destino",
+                    "pt": "2026-10-02-varejo-de-destino"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -31668,6 +31683,21 @@
           "children": [
             {
               "name": {
+                "en": "VTEX Ads offsite campaigns",
+                "es": "Campañas offsite en VTEX Ads",
+                "pt": "Campanhas offsite no VTEX Ads"
+              },
+              "slug": {
+                "en": "vtex-ads-offsite-campaigns",
+                "es": "campanas-offsite-en-vtex-ads",
+                "pt": "campanhas-offsite-no-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "VTEX Ads metrics and attribution",
                 "es": "Métricas y atribución de VTEX Ads",
                 "pt": "Métricas e atribuição do VTEX Ads"
@@ -31676,6 +31706,36 @@
                 "en": "vtex-ads-metrics-and-attribution",
                 "es": "metricas-y-atribucion-de-vtex-ads",
                 "pt": "metricas-e-atribuicao-do-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Campaign models and roles in VTEX Ads",
+                "es": "Modelos de campaña y roles en VTEX Ads",
+                "pt": "Modelos de campanha e papéis no VTEX Ads"
+              },
+              "slug": {
+                "en": "vtex-ads-campaign-models-and-roles",
+                "es": "modelos-de-campana-y-roles-en-vtex-ads",
+                "pt": "modelos-de-campanha-e-papeis-no-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Destination retail",
+                "es": "Retail de destino",
+                "pt": "Varejo de destino"
+              },
+              "slug": {
+                "en": "destination-retail",
+                "es": "retail-de-destino",
+                "pt": "varejo-de-destino"
               },
               "origin": "",
               "type": "markdown",
