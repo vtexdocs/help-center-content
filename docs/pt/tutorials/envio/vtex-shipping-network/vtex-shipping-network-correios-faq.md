@@ -15,8 +15,6 @@ locale: pt
 subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
-> ⚠️ Esta funcionalidade não está disponível para novos clientes.
-
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/). Em caso de dúvidas, entre em contato pelo email *suporte.shipping@lojaintegrada.com.br*.
 
 Este artigo reúne as dúvidas mais comuns sobre o [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/), a solução da VTEX para você integrar sua operação com os serviços PAC e SEDEX dos Correios pelo Admin VTEX, dispor de recursos exclusivos e aproveitar nossas tarifas competitivas.
