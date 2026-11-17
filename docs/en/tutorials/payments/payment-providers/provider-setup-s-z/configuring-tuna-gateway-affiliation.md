@@ -37,4 +37,4 @@ For more details about this configuration, see Tuna’s [documentation](https://
 
 Once you have completed the steps above, Tuna will be ready to be used in your store. It will be available in the **Process with provider** field — provided that the payment method is compatible with **Tuna** — when creating a payment condition.
 
-Learn more in the article [Configuring payment conditions](/en/tutorial/condicoes-de-pagamento).
+Learn more in the article [Configuring payment conditions](/en/docs/tutorials/how-to-configure-payment-conditions).

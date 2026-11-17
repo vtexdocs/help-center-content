@@ -27,7 +27,7 @@ Este artigo apresenta as marcações existentes no módulo de cobranças, com o 
 
 Para que um pedido seja passível de marcação, ele deve atender às seguintes condições:
 
-* Ter todas as [informações que constituem o pedido](/pt/docs/tracks/pedidos) (pedidos [incompletos](/pt/docs/tutorials/entendendo-os-pedidos-incompletos) não recebem marcações).
+* Ter todas as [informações que constituem o pedido](/pt/docs/tutorials/pedidos-data-pipeline-beta) (pedidos [incompletos](/pt/docs/tutorials/entendendo-os-pedidos-incompletos) não recebem marcações).
 * Possuir informação de pagamento com data de autorização da transação financeira.
 
 ## Alteração de pedidos e marcações

@@ -27,7 +27,7 @@ Este artículo describe las tags del módulo de facturación. El objetivo de est
 
 Para que se le puedan asignar tags, un pedido debe cumplir las siguientes condiciones:
 
-* Tener toda la [información que compone un pedido](/es/docs/tracks/pedidos) (no se les asignan tags a pedidos [incompletos](/es/docs/tutorials/como-encontrar-un-pedido)).
+* Tener toda la [información que compone un pedido](/es/docs/tutorials/pedidos-data-pipeline-beta) (no se les asignan tags a pedidos [incompletos](/es/docs/tutorials/como-encontrar-un-pedido)).
 * Tener la información de pago con los datos de autorización de la transacción financiera.
 
 ## Modificación de pedidos y tags

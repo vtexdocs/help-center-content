@@ -19,7 +19,7 @@ La promoción para un clúster de clientes es una promoción que será válida a
 
 Configurar clústeres de clientes le permite crear una variedad de promociones personalizadas para públicos segmentados.
 
-Antes de crear una promoción, debe definir la propiedad que determina si un cliente forma parte o no del clúster. Para ello, puede utilizar campos que ya existen en el perfil del cliente (por ejemplo: `email`) o [crear un grupo de clientes en el módulo de Master Data](/es/tutorial/como-criar-um-cluster-de-clientes#).
+Antes de crear una promoción, debe definir la propiedad que determina si un cliente forma parte o no del clúster. Para ello, puede utilizar campos que ya existen en el perfil del cliente (por ejemplo: `email`) o [crear un grupo de clientes en el módulo de Master Data](/es/docs/tutorials/como-crear-un-cluster-de-cliente#).
 
 Con la propiedad definida, siga las instrucciones que se indican a continuación.
 
@@ -44,13 +44,13 @@ Hay dos criterios posibles para seleccionar un clúster para la promoción y, po
 
 Nótese que en ambas opciones, `{nombredelapropriedad}` debe cambiarse por el nombre del campo en la entidad de datos y `{"valor"}` debe sustituirse por el valor definido en Master Data.
 
-> ℹ️  El uso de las comillas varía en [función del tipo de campo](/es/tutorial/criando-entidade-de-dados--tutorials_1265#) creado en Master Data. 
+> ℹ️  El uso de las comillas varía en [función del tipo de campo](/es/docs/tutorials/entidade-de-datos#) creado en Master Data. 
 
 ### Función de igualdad
 
 La expresión `{nombredelapropriedad}={"valor"}` debe utilizarse en caso de necesidad de que la información contenida en el perfil del cliente para la propiedad en cuestión sea exactamente igual al valor introducido en la expresión.
 
-En la siguiente configuración, por ejemplo, solo los registros de ``empleados`` con el valor `true` (utilizado en un campo **[booleano](/es/tutorial/criando-entidade-de-dados--tutorials_1265#)**, donde los valores son siempre verdaderos o falsos) recibirán la promoción.
+En la siguiente configuración, por ejemplo, solo los registros de ``empleados`` con el valor `true` (utilizado en un campo **[booleano](/es/docs/tutorials/entidade-de-datos#)**, donde los valores son siempre verdaderos o falsos) recibirán la promoción.
 
 De esta manera también se podría establecer `empleado=false`, donde solo los registros de `empleado` con un valor `false` en el campo obtendrían la promoción.
 
@@ -58,7 +58,7 @@ De esta manera también se podría establecer `empleado=false`, donde solo los r
 
 ![Cluster de clientes ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/crear-promociones/creando-promociones-cluster-clientes_2.png)
 
-Dado un campo **[Varchar](/es/tutorial/criando-entidade-de-dados--tutorials_1265#)**, podríamos configurar `empleado="sí"` para que solo los clientes con el valor `"sí"` en el campo recibieran la promoción.
+Dado un campo **[Varchar](/es/docs/tutorials/entidade-de-datos#)**, podríamos configurar `empleado="sí"` para que solo los clientes con el valor `"sí"` en el campo recibieran la promoción.
 
 > ⚠️  Para los campos de tipo **Varchar**, el valor introducido en la sección **Clúster de clientes** de la promoción distingue los caracteres minúsculos de los mayúsculos. Esto significa que si se completa la opción de Clúster de Clientes de forma diferente a la definida para el campo en Master Data, la promoción no se aplicará. 
 

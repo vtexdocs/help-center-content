@@ -31,5 +31,5 @@ la nueva lista de precios está compuesta por: una lista con los productos e su
 
 - [Registrar Tabla de Precio](/es/docs/tracks/registrar-tabla-de-precio)
 - [Regla de Precio](/es/docs/tracks/regla-de-precio-definicion-de-concepto)
-- [Redondeo de Precios](/es/tutorial/precio-psicologico-v2/)
+- [Redondeo de Precios](/es/docs/tutorials/redondeo-de-precios)
 - [Configuración de precios](/es/docs/tutorials/configuracion-de-precios)

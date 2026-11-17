@@ -34,8 +34,8 @@ To configure Pideky Escala, follow the steps below:
 8. In **Provider Fields**, select or complete the **API Key**, **API Token**, and **Production** fields with your Pideky Escala account information.
 9. Click `Save`.
 
-To configure the payment methods to be processed by Pideky Escala, access [Configuring Payment Conditions](https://help.vtex.com/docs/tutorials/how-to-configure-payment-conditions).
+To configure the payment methods to be processed by Pideky Escala, access [Configuring Payment Conditions](https://help.vtex.com/en/docs/tutorials/how-to-configure-payment-conditions).
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/docs/tutorials/special-conditions).
+To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/en/docs/tutorials/special-conditions).
 
 After following the indicated steps, Pideky Escala connector may take up to 10 minutes to appear at your store's checkout as a payment option.

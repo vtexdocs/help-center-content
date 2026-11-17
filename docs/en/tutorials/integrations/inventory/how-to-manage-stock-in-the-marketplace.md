@@ -19,7 +19,7 @@ The stock assigned to the marketplace will always be the one defined by the sell
 
 This stock may be the same used by the main store or another one specific for a marketplace, or for more than one marketplaces, with different rules and prices setup. 
 
-All these configurations are possible to be set in the [commercial policy](/en/tutorial/configuring-a-marketplace-sales-policy/).
+All these configurations are possible to be set in the [commercial policy](/en/docs/tutorials/configuring-a-marketplace-trade-policy).
 
 ## Using the same stock of another store
 
@@ -27,7 +27,7 @@ This option will be chosen if you want to configure the marketplace to use the s
 
 This means that the marketplace doesn't demand a special term or price, then, there is no need for a new configuration.
 
-So, [join the same commercial policy to the new marketplace](/en/tutorial/configuring-a-marketplace-sales-policy).
+So, [join the same commercial policy to the new marketplace](/en/docs/tutorials/configuring-a-marketplace-trade-policy).
 
 ## Using a customized stock
 

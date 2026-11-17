@@ -24,7 +24,7 @@ symptomFilters:
 
 Cuando un pedido de marketplace no se integra en VTEX por un error de SLA, se informa un mensaje de error en cada pedido. Para comprobar los errores, en el Admin VTEX accede a **Marketplace > Conexiones > Pedidos** o ingresa **Pedidos** en la barra de búsqueda.
 
-El SLA es el acuerdo de servicio entre la tienda y el marketplace. El error indica que algún factor está impidiendo la entrega al cliente final. Para identificar la causa, haz una [simulación de envío](/es/tutorial/simulacao-de-frete).
+El SLA es el acuerdo de servicio entre la tienda y el marketplace. El error indica que algún factor está impidiendo la entrega al cliente final. Para identificar la causa, haz una [simulación de envío](/es/docs/tutorials/simulador-de-envio).
 
 Los errores de SLA más comunes en la integración de pedidos de marketplace son:
 

@@ -75,4 +75,4 @@ Esta API devolverá los productos que también se han registrado como __sugerenc
 
 Para obtener más información sobre las llamadas, acceda a nuestra [documentación de APIs](https://developers.vtex.com/docs/api-reference/search-api#get-/api/catalog_system/pub/products/crossselling/whosawalsosaw/-productId-?endpoint=get-/api/catalog_system/pub/products/crossselling/whosawalsosaw/-productId-).
 
-Para más informaciones sobre las modalidades de Cross-selling y Up-Selling descritas arriba, acceda al [artículo del VTEX Help](/es/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos)
+Para más informaciones sobre las modalidades de Cross-selling y Up-Selling descritas arriba, acceda al [artículo del VTEX Help](/es/docs/tutorials/configurar-accesorios-sugerencias-productos-similares-y-mostrar-juntos)

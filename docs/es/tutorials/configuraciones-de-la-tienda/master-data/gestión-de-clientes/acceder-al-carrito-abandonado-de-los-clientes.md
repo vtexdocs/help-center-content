@@ -10,7 +10,7 @@ locale: es
 
 El carrito abandonado es una funcionalidad que se utiliza en la desistencia de compras. En estos casos, la tienda puede configurar un correo electrónico que será enviado al usuario, con el propósito de recordarle sobre los artículos que no se han comprado.
 
-Para la tienda, es posible ver algunas informaciones sobre los ítems "dejados" en ese carrito a través del [Master Data](/es/docs/tutorials/master-data). Por ejemplo:
+Para la tienda, es posible ver algunas informaciones sobre los ítems "dejados" en ese carrito a través del [Master Data](/es/docs/tutorials/master-data-es). Por ejemplo:
 
 - SKUs
 - Cantidad

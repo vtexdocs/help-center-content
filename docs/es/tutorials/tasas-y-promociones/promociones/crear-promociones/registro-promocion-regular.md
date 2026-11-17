@@ -145,14 +145,14 @@ En esta sección puedes definir las condiciones que deben cumplirse para que se 
 
 > ℹ️ Esta condición no se aplica a pagos con boleto, tarjeta de regalo o pedidos con más de un medio de pago.
 
-- **Parámetro UTM:** la promoción se aplicará cuando se acceda a la tienda mediante una URL con parámetros UTM o cuando el cliente use un cupón asociado a dichos parámetros. Usa solo letras, números, guiones y guiones bajos al definir los valores de los campos UTM. Para más detalles, consulta el artículo [Monitoreo de campañas con parámetros UTM](/es/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium).
+- **Parámetro UTM:** la promoción se aplicará cuando se acceda a la tienda mediante una URL con parámetros UTM o cuando el cliente use un cupón asociado a dichos parámetros. Usa solo letras, números, guiones y guiones bajos al definir los valores de los campos UTM. Para más detalles, consulta el artículo [Monitoreo de campañas con parámetros UTM](/es/docs/tutorials/que-son-utm-source-utm-campaign-y-utm-medium).
 
 **Define los siguientes parámetros si es necesario:**
 
 - **Fuente UTM:** el descuento se aplicará al navegar utilizando el parámetro `utm_source` configurado.  
 - **Campaña UTM:** el descuento se aplicará al navegar utilizando el parámetro `utm_campaign` configurado.  
 - **Crear cupón a partir de los parámetros UTM anteriores:** permite generar un cupón con los parámetros UTM ingresados en los campos Fuente UTM y Campaña UTM.  
-- **Utmi_cp:** el descuento se aplicará solo si la navegación incluye el parámetro `utmi_cp` con el valor registrado. Para más detalles, consulta el artículo [Qué son las UTMs internas utmi_cp, utmi_pc y utmi_p](/es/tutorial/what-are-the-internal-utms).  
+- **Utmi_cp:** el descuento se aplicará solo si la navegación incluye el parámetro `utmi_cp` con el valor registrado. Para más detalles, consulta el artículo [Qué son las UTMs internas utmi_cp, utmi_pc y utmi_p](/es/docs/tutorials/que-son-las-utms-internas).  
 - **Ver cupones vinculados:** permite ver los cupones que ya se vincularon a los parámetros UTM definidos.
 
 ## Configurar restricciones de uso de la promoción

@@ -1,11 +1,7 @@
 ---
 title: 'Glossário de Retail Media'
-id: 60HoAleRC38rjrhHeDlDDE
-status: PUBLISHED
 createdAt: 2025-05-29T17:46:57.083Z
-updatedAt: 2025-07-04T16:13:56.687Z
-publishedAt: 2025-07-04T16:13:56.687Z
-firstPublishedAt: 2025-05-29T17:48:06.231Z
+updatedAt: 2026-11-06T00:00:00.000Z
 contentType: trackArticle
 productTeam: Others
 slugEN: retail-media-glossary
@@ -29,6 +25,9 @@ O glossário a seguir reúne os principais termos e conceitos relacionados ao Re
 | **CRM (Customer Relationship Management)** | Ferramentas e processos para gerenciar o relacionamento com clientes. No Retail Media, permite segmentação e comunicação personalizada. |
 | **Cobertura (Fill Rate)** | Proporção entre anúncios entregues e solicitações feitas pelo servidor de anúncios. Fórmula: `(Impressões entregues / Impressões solicitadas) × 100`. |
 | **CAC (Custo de Aquisição de Cliente)** | Valor médio gasto para conquistar um novo cliente. Fórmula: `CAC = (Total investido em marketing e vendas / Número de novos clientes)`. |
+| [**Campanha 1:1**](/pt/docs/tutorials/modelos-de-campanha-e-papeis-no-vtex-ads) | Modelo em que um anunciante veicula anúncios no inventário de um único publisher. |
+| [**Campanha Network**](/pt/docs/tutorials/modelos-de-campanha-e-papeis-no-vtex-ads) | Modelo em que um anunciante veicula anúncios em uma rede formada por vários sub-publishers. |
+| [**Campanha offsite**](/pt/docs/tutorials/campanhas-offsite-no-vtex-ads) | Campanha em que um publisher de mídia exibe anúncios fora dos canais do varejo de destino. |
 | **Churn** | Taxa de cancelamento ou perda de clientes em um período. Fórmula: `(Clientes perdidos / Total de clientes no início do período) × 100`. |
 | **Data Clean Room** | Ambiente seguro onde varejistas e parceiros compartilham dados anonimizados para enriquecer campanhas e garantir privacidade. |
 | **Digital Signage** | Telas digitais usadas em lojas físicas para exibir anúncios ou informações, com possibilidade de veiculação programática. |
@@ -49,5 +48,7 @@ O glossário a seguir reúne os principais termos e conceitos relacionados ao Re
 | **ROI (Return on Investment)** | Retorno sobre investimento geral. Fórmula: `ROI = [(Receita - Custo total) / Custo total] × 100`. |
 | **Share de Busca (Share of Search)** | Participação de uma marca nas buscas feitas em um site. Fórmula: `(Buscas pela marca / Total de buscas na categoria) × 100`. |
 | **Share de Venda (Market Share)** | Participação de uma empresa ou produto nas vendas totais de um setor ou categoria em um período específico. |
+| [**Sub-publisher**](/pt/docs/tutorials/modelos-de-campanha-e-papeis-no-vtex-ads) | Publisher que faz parte de uma rede e pode exibir anúncios de campanhas Network. |
 | **Third-party cookies** | Cookies criados por domínios diferentes do site acessado. Utilizados para rastreamento e anúncios personalizados. |
+| [**Varejo de destino**](/pt/docs/tutorials/campanhas-offsite-no-vtex-ads) | Loja que recebe o tráfego de uma campanha offsite e onde a compra acontece. |
 | **Atribuição por visualização (View attribution)** | Modelo de atribuição que credita uma conversão a um anúncio quando o usuário visualizou o anúncio antes da compra, mesmo sem clicar. Complementa a atribuição por clique, que exige um clique no anúncio. |

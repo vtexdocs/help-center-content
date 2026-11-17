@@ -31,4 +31,4 @@ To download the complemento de pago, follow these steps:
 2. Go to **Billing > Invoices**.
 3. Find the desired invoice and click **Open Invoice**.
 
-To learn more, see the article [Downloading VTEX invoices](https://help.vtex.com/docs/tutorials/downloading-vtex-invoices).
+To learn more, see the article [Downloading VTEX invoices](https://help.vtex.com/en/docs/tutorials/downloading-vtex-invoices).

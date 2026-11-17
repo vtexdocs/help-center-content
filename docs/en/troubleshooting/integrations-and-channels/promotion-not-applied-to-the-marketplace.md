@@ -49,4 +49,4 @@ To ensure a promotion is applied correctly in a marketplace, select the desired 
 
 > ℹ️ Make sure you haven't created any additional promotion filters, such as payment methods, cluster filters, or cart limitations.
 
-Learn more in [Configuring promotions for marketplaces](/en/tutorial/configurando-promocao-para-marketplace/).
+Learn more in [Configuring promotions for marketplaces](/en/docs/tutorials/configuring-promotions-for-marketplaces).

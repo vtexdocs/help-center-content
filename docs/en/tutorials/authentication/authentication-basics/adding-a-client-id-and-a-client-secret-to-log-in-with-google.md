@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 14V5ezEX0cewOMg0o0cYM6
 ---
 
-To activate Google login with OAuth2, you must access the VTEX ID in your admin and fill in the `Client ID` and `Client Secret` fields, as described [in this article](/en/tutorial/configuring-user-id-with-facebook-and-google).
+To activate Google login with OAuth2, you must access the VTEX ID in your admin and fill in the `Client ID` and `Client Secret` fields, as described [in this article](/en/docs/tutorials/configuring-login-with-facebook-and-google).
 
 ![Google OAuth](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/adding-a-client-id-and-a-client-secret-to-log-in-with-google_1.png)
 

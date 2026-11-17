@@ -94,7 +94,7 @@ In the **Set marketing data option**, you can apply discount coupons to specific
 
 ![Set marketing data](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/checkout-settings/configure-cartman_4.PNG)
 
-To learn more about UTMs and UTMIs, go to [What are utm_source, utm_campaign, and utm_medium](/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii#) and [What are the internal UTMs utmi_cp, utmi_pc and utmi_p](/en/tutorial/o-que-sao-as-utms-internas-utmi_cp-utmi_pc-e-utmi_p#).
+To learn more about UTMs and UTMIs, go to [What are utm_source, utm_campaign, and utm_medium](/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii#) and [What are the internal UTMs utmi_cp, utmi_pc and utmi_p](/en/docs/tutorials/what-are-the-internal-utms#).
 
 ## Disable Cartman ##
 

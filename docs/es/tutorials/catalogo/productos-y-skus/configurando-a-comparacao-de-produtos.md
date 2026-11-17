@@ -32,8 +32,8 @@ Sigue los pasos a continuación para configurar la comparación de productos en 
 
 ### Página de comparación
 
-1. [Crea una plantilla de estantería de productos](/es/faq/como-criar-um-template-de-prateleira) para estandarizar la visualización de productos en la página de comparación. En la plantilla, puedes utilizar cualquiera de los [controles disponibles para estanterías de productos](https://developers.vtex.com/docs/guides/shelf-template-controls).
-2. [Crea una plantilla de página](/es/faq/como-criar-um-template-de-pagina) utilizando el control `<vtex.cmc:ProductComparison/>`, que se utiliza para mostrar los productos en paralelo en la página de comparación. Ejemplo de uso del control:  
+1. [Crea una plantilla de estantería de productos](/es/docs/tutorials/como-crear-un-template-de-estante) para estandarizar la visualización de productos en la página de comparación. En la plantilla, puedes utilizar cualquiera de los [controles disponibles para estanterías de productos](https://developers.vtex.com/docs/guides/shelf-template-controls).
+2. [Crea una plantilla de página](/es/docs/tutorials/como-crear-un-template-de-pagina) utilizando el control `<vtex.cmc:ProductComparison/>`, que se utiliza para mostrar los productos en paralelo en la página de comparación. Ejemplo de uso del control:  
 
 ```
 <vtex.cmc:ProductComparison ShelfLayoutId="12343216-4c8e-4cd5-bcd7-e3b062681f2a"/>
