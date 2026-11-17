@@ -46,7 +46,7 @@ The Home page is the main entry point of your store. Use the following fields to
 
 | Field | Description | Example |
 | ----- | ----- | ----- |
-| Path | URL path where the page is accessible. `/` is the main homepage. Another path creates an additional page with the Home layout. | `/` |
+| Path | URL path to access the page. `/` is the main homepage. Another path creates an additional page with the Home layout. | `/` |
 | Page title | Title displayed on the browser tab and used by search engines. | My Store |
 | Meta description | A summarized description of the page, displayed by search engines in search results. | Discover the best deals on electronics |
 | Canonical URL | The main version of the page, used by search engines to avoid duplicate content. | `https://www.mystore.com` |
@@ -55,29 +55,29 @@ The Home page is the main entry point of your store. Use the following fields to
 
 The Home SEO section also has the **Organization** fields, which describe your business to search engines through [Organization structured data](https://developers.google.com/search/docs/appearance/structured-data/organization). To fill them in, click the **Organization** element in the SEO section. A drawer opens with the following fields:
 
-| Field | Description | Example |
-| ----- | ----- | ----- |
-| Organization name | Required. Name of your business. | My Store |
-| Organization legal name | Registered legal name of your business. | My Store Inc. |
-| Organization ID | Unique reference for the organization. It can be a descriptive value or a full URL. | `https://www.mystore.com/#organization` |
-| Organization URL | Required. URL of your business website. | `https://www.mystore.com` |
-| Organization URLs | Other URLs that represent your business, such as social media profiles. Click **Add item** to add each one. | `https://www.instagram.com/mystore` |
-| Organization logo URL | URL of a logo that represents your business. | `https://www.mystore.com/logo.png` |
-| Organization image/logo object | Logo details as an image object. | \- |
-| Organization email | Email address to contact your business. | `contact@mystore.com` |
-| Organization phone | Business phone number, including the country and area codes. | `+1 555 123 4567` |
-| Organization address | Physical address of your business. | \- |
+| Field | Description | Required | Example |
+| ----- | ----- | ----- | ----- |
+| Organization name | Name of your business. | ✅ | My Store |
+| Organization legal name | Registered legal name of your business.| ❌ | My Store Inc. |
+| Organization ID | Unique reference for the organization. It can be a descriptive value or a full URL. | ❌ | `https://www.mystore.com/#organization` |
+| Organization URL | URL of your business website. | ✅ | `https://www.mystore.com` |
+| Organization URLs | Other URLs that represent your business, such as social media profiles. Click **Add item** to add each one. | ❌ | `https://www.instagram.com/mystore` |
+| Organization logo URL | URL of a logo that represents your business. | ❌ | `https://www.mystore.com/logo.png` |
+| Organization image/logo object | Logo details as an image object. | ❌ | \- |
+| Organization email | Email address to contact your business. | ❌ | `contact@mystore.com` |
+| Organization phone | Business phone number, including the country and area codes. | ❌ | `+1 555 123 4567` |
+| Organization address | Physical address of your business. | ❌ | \- |
 
 ### Landing Page
 
 Landing Pages are custom pages, such as campaign or promotional pages, that you create in the CMS. Use the following fields to define their URL and how they appear in search results:
 
-| Field | Description | Example |
-| ----- | ----- | ----- |
-| Slug | Required. URL path where the landing page will be accessible on the site. | `/summer-sale` |
-| Page title | Title displayed on the browser tab and used by search engines. | Summer Sale |
-| Meta description | A summarized description of the page, displayed by search engines in search results. | Up to 50% off on summer products |
-| Canonical URL | The main version of the page, used by search engines to avoid duplicate content. | `https://www.mystore.com/summer-sale` |
+| Field | Description | Required | Example |
+| ----- | ----- | ----- | ----- |
+| Slug | URL path where the landing page will be accessible on the site. | ✅ | `/summer-sale` |
+| Page title | Title displayed on the browser tab and used by search engines. | ❌ | Summer Sale |
+| Meta description | A summarized description of the page, displayed by search engines in search results. | ❌ | Up to 50% off on summer products |
+| Canonical URL | The main version of the page, used by search engines to avoid duplicate content. | ❌ | `https://www.mystore.com/summer-sale` |
 
 ### Product page (PDP)
 
@@ -103,8 +103,7 @@ The search results page has no SEO fields in the CMS. By default, it's configure
 
 #### Canonical URL for filtered PLPs
 
-When shoppers apply filters, FastStore adds them to the PLP URL as query parameters resulting in a long, less SEO-friendly URLs.  
- However, FastStore defines the canonical URL pointing to the unfiltered PLP. This consolidates SEO on the main category page and avoids duplicate content.
+When shoppers apply filters, FastStore adds them to the PLP URL as query parameters, resulting in long, less SEO-friendly URLs. However, FastStore defines the canonical URL pointing to the unfiltered PLP. This consolidates SEO on the main category page and avoids duplicate content.
 
 Example:
 
