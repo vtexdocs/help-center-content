@@ -82,7 +82,7 @@ Para expandir e visualizar a lista completa de tags, clique em `Ver todos`.
 
 #### 6. Volume por canal
 
-Mostra como os atendimentos se distribuem entre os canais usados no projeto. Selecione **Em espera** ou **Em andamento** para ver a quantidade desse status. Cada canal exibe o ícone e o número de atendimentos. Com **Em andamento** selecionado, o rodapé mostra quantos canais têm atendimentos em andamento.
+Mostra como os atendimentos se distribuem entre os canais usados no projeto, como Facebook, Instagram, WhatsApp, entre outros. Selecione **Em espera** ou **Em andamento** para ver a quantidade desse status. Cada canal exibe o ícone e o número de atendimentos. Com **Em andamento** selecionado, o rodapé mostra quantos canais têm atendimentos em andamento.
 
 #### 7. CSAT
 
@@ -110,7 +110,7 @@ Quando uma meta de tempo está configurada, a tabela destaca os atendimentos que
 - **Em espera:** Destaca os atendimentos cujo tempo de espera ultrapassa a meta de tempo médio de espera.
 - **Em andamento:** Destaca os atendimentos que ultrapassam a meta de tempo para a 1ª resposta ou a meta de duração da conversa. Se um atendimento ultrapassa as duas, a linha exibe o alerta de primeira resposta.
 
-As colunas exibem informações como contato, tempo de espera, tempo para a primeira resposta, agente responsável, setor e fila.
+As colunas exibem informações como contato, tempo de espera, tempo para a primeira resposta, agente responsável, setor, fila e canal.
 
 Ao clicar em um dos atendimentos, você será redirecionado à página do Live Desk dentro de **Operações**.
 
@@ -173,6 +173,7 @@ Essa aba contém informações sobre os atendimentos encerrados, com dados de at
 | **Tempo para a 1ª resposta** | Intervalo médio entre o contato entrar no atendimento e receber a primeira mensagem do agente. |
 | **Duração** | Tempo que durou o atendimento do início ao fim. |
 | **Contato** | Nome do cliente que entrou em contato com o atendimento. |
+| **Canal** | Canal onde ocorreu o atendimento (como **WhatsApp** ou **Shopping Assistant**). |
 | **Protocolo** | Número do protocolo do atendimento. |
 | **Nota de CSAT** | Nota de satisfação do cliente a partir da resposta nativa de CSAT daquele atendimento encerrado, quando o contato respondeu à pesquisa. |
 
