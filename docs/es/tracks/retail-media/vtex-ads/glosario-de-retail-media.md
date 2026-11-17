@@ -29,6 +29,9 @@ El glosario a continuación reúne los principales términos y conceptos relacio
 | **CRM (Customer Relationship Management)** | Herramientas y procesos para gestionar las relaciones con los clientes. CRM posibilita la segmentación y la comunicación personalizada. |
 | **Tasa de relleno de anuncios (Fill Rate)** | Proporción entre anuncios entregados y requests hechos por el servidor de anuncios. Fórmula: `(Total de impresiones de anuncios / Total de impresiones de anuncios) × 100`. |
 | **CAC (Costo de Adquisición de Cliente)** | Valor promedio gastado para conquistar un nuevo cliente. Fórmula: `CAC = (Total invertido en marketing y ventas / Número de nuevos clientes)`. |
+| [**Campaña 1:1**](/es/docs/tutorials/modelos-de-campana-y-roles-en-vtex-ads) | Modelo en el que un anunciante publica anuncios en el inventario de un único publicador. |
+| [**Campaña Network**](/es/docs/tutorials/modelos-de-campana-y-roles-en-vtex-ads) | Modelo en el que un anunciante publica anuncios en una red formada por varios sub-publishers. |
+| [**Campaña offsite**](/es/docs/tutorials/campanas-offsite-en-vtex-ads) | Campaña en la que un publicador de medios muestra anuncios fuera de los canales del retail de destino. |
 | **Churn** | Tasa de cancelación o pérdida de clientes en un periodo. Fórmula: `(Clientes perdidos / Total de clientes al inicio del periodo) × 100`. |
 | **Data Clean Room** | Entorno seguro donde tiendas y partners comparten datos anonimizados para enriquecer campañas y garantizar privacidad. |
 | **Cartelería digital** | Pantallas digitales utilizadas en tiendas físicas para mostrar anuncios o información, con posibilidad de activación programática. |
@@ -44,10 +47,12 @@ El glosario a continuación reúne los principales términos y conceptos relacio
 | **Publicidad programática** | Compra automatizada de espacios publicitarios basada en datos e información específica. Utiliza algoritmos para optimizar resultados en tiempo real. |
 | **Omnichannel** | Estrategia que integra canales online y offline, ofreciendo una experiencia unificada al consumidor, independientemente del canal utilizado. |
 | **Productos patrocinados** | Anuncios de productos que se muestran de forma similar a los resultados orgánicos, pero con elementos destacados (como una etiqueta de "patrocinado"). Se activan por palabras clave, categorías o contexto. |
+| [**Retail de destino**](/es/docs/tutorials/campanas-offsite-en-vtex-ads) | Tienda que recibe el tráfico de una campaña offsite y donde ocurre la compra. |
 | **Retail media** | Publicidad realizada dentro de los canales de retailers, utilizando datos del consumidor para una personalización y medición eficiente de los resultados. |
 | **ROAS (Return on Ad Spend)** | Retorno de inversión publicitaria. Fórmula: `ROAS = (Ingresos generados / Inversión en medios publicitarios) × 100`. |
 | **ROI (Return on Investment)** | Retorno de la inversión. Fórmula: `ROI = [(Ingresos - Costo total) / Costo total] × 100`. |
 | **Cuota de búsqueda (Share of Search)** | Participación de una marca en las búsquedas realizadas en un sitio web. Fórmula: `(Búsquedas de una marca / Total de búsquedas en la categoría) × 100`. |
 | **Participación de mercado (Market share)** | Porcentaje que representa una empresa o producto dentro del total de ventas de un sector o categoría durante un periodo específico. |
+| [**Sub-publisher**](/es/docs/tutorials/modelos-de-campana-y-roles-en-vtex-ads) | Publicador que forma parte de una red y puede mostrar anuncios de campañas Network. |
 | **Cookies de terceros** | Cookies creadas por dominios distintos del sitio web accedido, utilizadas para seguimiento y anuncios personalizados. |
 | **Atribución por visualización (View attribution)** | Modelo de atribución que vincula una conversión a un anuncio cuando el usuario visualizó el anuncio antes de la compra, incluso sin hacer clic. Complementa la atribución por clic, que requiere un clic en el anuncio. |
