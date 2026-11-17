@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-17",
   "providers": [
     {
       "name": "55Pay",
@@ -509,7 +509,8 @@
         "PE",
         "PR",
         "SV",
-        "US"
+        "US",
+        "DO"
       ]
     },
     {
@@ -520,7 +521,7 @@
         "en": "https://help.vtex.com/en/tutorial/setting-up-payments-with-cybersource-lac--Hp80vaO9BWAu6hBs4kqfg",
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-cybersource-lac--Hp80vaO9BWAu6hBs4kqfg"
       },
-      "countries": ["DO", "GT"]
+      "countries": ["DO", "GT", "BR"]
     },
     {
       "name": "Deuna",
@@ -670,7 +671,7 @@
         "en": "https://help.vtex.com/en/tutorial/setting-up-payments-with-etpay--1vYO022oVj4MdVKP5fCMNx",
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-etpay--1vYO022oVj4MdVKP5fCMNx"
       },
-      "countries": ["CL"]
+      "countries": ["CL", "AR"]
     },
     {
       "name": "EVO Payments",
@@ -710,7 +711,7 @@
         "en": "https://help.vtex.com/en/tutorial/setting-up-payments-with-fintoc--3TIz2oxbNtzhypWiypqrOZ",
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-fintoc--3TIz2oxbNtzhypWiypqrOZ"
       },
-      "countries": ["CL"]
+      "countries": ["CL", "MX"]
     },
     {
       "name": "FintocMX",
@@ -750,7 +751,7 @@
         "en": "https://help.vtex.com/en/tutorial/setting-up-payments-with-flow--3rKfhZoutpGviUQlQbDSYC",
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-flow--3rKfhZoutpGviUQlQbDSYC"
       },
-      "countries": ["CL"]
+      "countries": ["CL", "PE"]
     },
     {
       "name": "Flywire",
@@ -1063,16 +1064,6 @@
       "countries": ["BR"]
     },
     {
-      "name": "Lyra",
-      "payoutSplit": false,
-      "docs": {
-        "pt": "https://help.vtex.com/pt/tutorial/configurar-pagamento-com-lyra--1FlJmbVEqF8KJ5ueZUpCWM",
-        "en": "https://help.vtex.com/en/tutorial/setting-up-payments-with-lyra--1FlJmbVEqF8KJ5ueZUpCWM",
-        "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-lyra--1FlJmbVEqF8KJ5ueZUpCWM"
-      },
-      "countries": ["AR"]
-    },
-    {
       "name": "MACH",
       "payoutSplit": false,
       "docs": {
@@ -1209,6 +1200,16 @@
         "pt": "https://help.vtex.com/pt/tutorial/configurar-pagamento-com-nupay--4nVjWfJw7PwraBHCoS45tc",
         "en": "https://help.vtex.com/en/tutorial/setting-up-payments-with-nupay--4nVjWfJw7PwraBHCoS45tc",
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-nupay--4nVjWfJw7PwraBHCoS45tc"
+      },
+      "countries": ["BR"]
+    },
+    {
+      "name": "NuPay",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-nupay",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-nupay",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-nupay"
       },
       "countries": ["BR"]
     },
@@ -1660,7 +1661,7 @@
         "en": "https://help.vtex.com/en/tutorial/setting-up-payments-with-redsysexp--7DSQeUbDEgH6yUvtXg4wly",
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-redsysexp--7DSQeUbDEgH6yUvtXg4wly"
       },
-      "countries": ["ES"]
+      "countries": ["ES", "CO"]
     },
     {
       "name": "SafetyPayV2",
@@ -2098,7 +2099,7 @@
         "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-wompi",
         "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-wompi"
       },
-      "countries": ["CO"]
+      "countries": ["CO", "GT"]
     },
     {
       "name": "Wompi-Nequi",
@@ -2211,7 +2212,7 @@
         "en": "https://help.vtex.com/en/tutorial/setting-up-payments-with-yuno--h7PS0vDJJokqI9axZPNzE",
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-yuno--h7PS0vDJJokqI9axZPNzE"
       },
-      "countries": ["BR", "PE"]
+      "countries": ["BR", "PE", "MX"]
     },
     {
       "name": "Zoop",
