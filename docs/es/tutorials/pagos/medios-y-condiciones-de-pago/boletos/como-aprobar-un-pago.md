@@ -21,7 +21,7 @@ Para aprobar el pago manualmente sigue los pasos a continuación:
 
 ![NotificarES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/medios-y-condiciones-de-pago/boletos/como-aprobar-un-pago_1.png)
 
-**Tras la aprobación del pago el pedido entrará en el flujo normal de compra.**
+Tras la aprobación del pago el pedido entrará en el flujo normal de compra.
 
 > ℹ️ Para aprobar pagos necesitas tener un [rol](/es/docs/tutorials/roles) con el [recurso de License Manager](/es/docs/tutorials/recursos-del-license-manager) `Notify payment` en la categoría `OMS access` del producto **OMS**.
 
