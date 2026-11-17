@@ -149,6 +149,16 @@
       "countries": ["US"]
     },
     {
+      "name": "Almacenessi",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-almacenessi",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-almacenessi",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-almacenessi"
+      },
+      "countries": ["CO"]
+    },
+    {
       "name": "AmeDigital",
       "payoutSplit": true,
       "docs": {
@@ -157,6 +167,16 @@
         "es": "https://help.vtex.com/es/tutorial/configur-pago-con-ame-digital--4oEhDjLM4uk95X8omwLEG2"
       },
       "countries": ["BR"]
+    },
+    {
+      "name": "aplazo",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-aplazo",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-aplazo",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-aplazo"
+      },
+      "countries": ["MX"]
     },
     {
       "name": "Appmax",
@@ -169,6 +189,16 @@
       "countries": ["BR"]
     },
     {
+      "name": "AppmaxV1",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-appmaxv1",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-appmaxv1",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-appmaxv1"
+      },
+      "countries": ["BR"]
+    },
+    {
       "name": "argonPAY",
       "payoutSplit": false,
       "docs": {
@@ -177,6 +207,26 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-argonpay--6Pktml6MJpdc7dNvJ4zwzI"
       },
       "countries": ["CO"]
+    },
+    {
+      "name": "AstroPayOneTouch",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-astropayonetouch",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-astropayonetouch",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-astropayonetouch"
+      },
+      "countries": ["GB"]
+    },
+    {
+      "name": "Azteca",
+      "payoutSplit": true,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-azteca",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-azteca",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-azteca"
+      },
+      "countries": ["MX"]
     },
     {
       "name": "Bancard",
