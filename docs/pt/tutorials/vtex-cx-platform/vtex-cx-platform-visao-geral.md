@@ -87,6 +87,16 @@ Adicionar conteúdo durante a configuração é opcional. Você pode atualizar o
 
 Depois de criar o projeto, convide sua equipe e atribua somente as permissões necessárias. Para ver as instruções, consulte [Gerenciar membros do VTEX CX Platform](https://help.vtex.com/pt/docs/tutorials/gerenciar-membros-do-vtex-cx-platform).
 
+### Conectar um projeto existente
+
+Se você já tem projetos no VTEX CX Platform, pode conectá-los ao VTEX Admin.
+
+1. No Admin VTEX, acesse **Storefront > VTEX CX Platform > Dashboard**.
+2. Clique em `Selecionar projeto existente`, no card **Conectar projeto existente**.
+3. Escolha a organização que contém o projeto.
+
+ℹ️ Alguns recursos avançados podem ter edição limitada no CX Dashboard. Para configurações avançadas, use a conexão com projeto existente.
+
 ## Funções e permissões
 
 As permissões podem ser aplicadas a toda a organização ou a um projeto específico.
