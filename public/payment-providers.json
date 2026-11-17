@@ -319,6 +319,16 @@
       "countries": ["BR"]
     },
     {
+      "name": "BellunoPagamentos",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-bellunopagamentos",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-bellunopagamentos",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-bellunopagamentos"
+      },
+      "countries": ["BR"]
+    },
+    {
       "name": "Bizum",
       "payoutSplit": false,
       "docs": {
@@ -397,6 +407,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-brinks-cash-ecommerce--5Zoex6NXtyzUFOCctdGjlZ"
       },
       "countries": ["CO"]
+    },
+    {
+      "name": "Cencosud-Pay-Ar",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-cencosud-pay-ar",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-cencosud-pay-ar",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-cencosud-pay-ar"
+      },
+      "countries": ["AR"]
     },
     {
       "name": "Chase Payment",
@@ -497,6 +517,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-credimarcas--78855lTT6A1vX2wFURmxV"
       },
       "countries": ["CO"]
+    },
+    {
+      "name": "CrediPay",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-credipay",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-credipay",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-credipay"
+      },
+      "countries": ["BR"]
     },
     {
       "name": "Credit Key",
@@ -654,6 +684,26 @@
       "countries": ["BR"]
     },
     {
+      "name": "DripPixParcelado",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-drippixparcelado",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-drippixparcelado",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-drippixparcelado"
+      },
+      "countries": ["BR"]
+    },
+    {
+      "name": "E-fek",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-e-fek",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-e-fek",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-e-fek"
+      },
+      "countries": ["CO"]
+    },
+    {
       "name": "E-Sitef",
       "payoutSplit": false,
       "docs": {
@@ -702,6 +752,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-epago--7CPahJlR1RgwKmTQSps3le"
       },
       "countries": ["PE"]
+    },
+    {
+      "name": "ePayCencosud",
+      "payoutSplit": true,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-epaycencosud",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-epaycencosud",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-epaycencosud"
+      },
+      "countries": ["CL"]
     },
     {
       "name": "ePayco",
