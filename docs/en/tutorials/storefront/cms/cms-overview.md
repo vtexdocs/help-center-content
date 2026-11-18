@@ -16,11 +16,11 @@ The Content Management System (CMS) provides merchants with the flexibility and 
 
 ## Getting started
 
-Every piece of content a shopper sees starts with a developer, who defines what can be edited: the fields, their types, and their names. Once the developer publishes that structure, content operators use the Admin to create, review, and publish pages based on it, without writing code.
+Every piece of content a shopper sees starts with a developer, who defines which fields can be edited, their types, and their names. Once the developer publishes that structure, content operators use the Admin to create, review, and publish pages based on it, without writing code.
 
 ![cms-workflow-overview](https://vtexhelp.vtexassets.com/assets/docs/src/cms-workflow___1051ba6444b1b3aeaf5a5623620dc62f.png)
 
-Before you start, make sure you have:
+Before you begin, make sure you have:
 
 | Requirement | Description |
 | ----------- | ----------- |
