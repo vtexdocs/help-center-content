@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Desk Copilot: sugerencias para representantes humanos en Live Desk'
 createdAt: 2026-11-18T12:00:00.000Z
 updatedAt: 2026-11-18T12:00:00.000Z

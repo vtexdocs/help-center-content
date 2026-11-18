@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Uso de Desk Copilot para apoyar a los agentes en Live Desk'
 createdAt: 2026-11-17T12:00:00.000Z
 updatedAt: 2026-11-17T12:00:00.000Z

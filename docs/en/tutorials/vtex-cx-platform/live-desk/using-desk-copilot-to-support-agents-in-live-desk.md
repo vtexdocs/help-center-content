@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Using Desk Copilot to support agents in Live Desk'
 createdAt: 2026-11-17T12:00:00.000Z
 updatedAt: 2026-11-17T12:00:00.000Z
