@@ -3,7 +3,7 @@ title: 'Retail media roles'
 id: 6uZNA50xAxvloMaVcQAET2
 status: PUBLISHED
 createdAt: 2025-05-29T17:39:53.267Z
-updatedAt: 2026-11-06T00:00:00.000Z
+updatedAt: 2026-11-18T00:00:00.000Z
 publishedAt: 2025-07-04T15:55:48.375Z
 firstPublishedAt: 2025-05-29T17:42:16.097Z
 contentType: trackArticle
@@ -33,4 +33,4 @@ The Network and offsite models add roles that don't exist in the 1:1 campaign:
 | ---- | ---- |
 | [**Network**](/en/docs/tutorials/vtex-ads-campaign-models-and-roles) | Publisher account that brings together several publishers to serve Network campaigns. |
 | [**Sub-publisher**](/en/docs/tutorials/vtex-ads-campaign-models-and-roles) | Publisher that is part of a network and can display ads from Network campaigns. |
-| [**Destination retail**](/en/docs/tutorials/vtex-ads-campaign-models-and-roles) | Store that receives the traffic from an offsite campaign and where the purchase happens. |
+| [**Destination retail**](/en/docs/tutorials/destination-retail) | Store that receives the traffic from an offsite campaign and where the purchase happens. |

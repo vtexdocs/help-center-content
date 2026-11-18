@@ -3,7 +3,7 @@ title: 'Roles en retail media'
 id: 6uZNA50xAxvloMaVcQAET2
 status: PUBLISHED
 createdAt: 2025-05-29T17:39:53.267Z
-updatedAt: 2026-11-06T00:00:00.000Z
+updatedAt: 2026-11-18T00:00:00.000Z
 publishedAt: 2025-07-04T15:55:48.375Z
 firstPublishedAt: 2025-05-29T17:42:16.097Z
 contentType: trackArticle
@@ -33,4 +33,4 @@ Los modelos Network y offsite añaden roles que no existen en la campaña 1:1:
 | ---- | ---- |
 | [**Red**](/es/docs/tutorials/modelos-de-campana-y-roles-en-vtex-ads) | Cuenta de publisher que reúne varios publishers para publicar campañas Network. |
 | [**Sub-publisher**](/es/docs/tutorials/modelos-de-campana-y-roles-en-vtex-ads) | Publisher que forma parte de una red y puede mostrar anuncios de campañas Network. |
-| [**Retail de destino**](/es/docs/tutorials/modelos-de-campana-y-roles-en-vtex-ads) | Tienda que recibe el tráfico de una campaña offsite y donde ocurre la compra. |
+| [**Retail de destino**](/es/docs/tutorials/retail-de-destino) | Tienda que recibe el tráfico de una campaña offsite y donde ocurre la compra. |

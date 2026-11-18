@@ -1,7 +1,7 @@
 ---
 title: 'Papéis e atribuições em Retail Media'
 createdAt: 2025-05-29T17:39:53.267Z
-updatedAt: 2026-11-06T00:00:00.000Z
+updatedAt: 2026-11-18T00:00:00.000Z
 contentType: trackArticle
 productTeam: Others
 slugEN: retail-media-roles
@@ -29,4 +29,4 @@ Os modelos Network e offsite acrescentam papéis que não existem na campanha 1:
 | ---- | ---- |
 | [**Rede**](/pt/docs/tutorials/modelos-de-campanha-e-papeis-no-vtex-ads) | Conta publisher que reúne vários publishers para veicular campanhas Network. |
 | [**Sub-publisher**](/pt/docs/tutorials/modelos-de-campanha-e-papeis-no-vtex-ads) | Publisher que faz parte de uma rede e pode exibir anúncios de campanhas Network. |
-| [**Varejo de destino**](/pt/docs/tutorials/modelos-de-campanha-e-papeis-no-vtex-ads) | Loja que recebe o tráfego de uma campanha offsite e onde a compra acontece. |
+| [**Varejo de destino**](/pt/docs/tutorials/varejo-de-destino) | Loja que recebe o tráfego de uma campanha offsite e onde a compra acontece. |
