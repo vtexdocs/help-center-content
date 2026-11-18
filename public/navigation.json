@@ -34675,28 +34675,13 @@
                 "pt": "Live Desk"
               },
               "slug": {
-                "en": "live-desk-subcategory",
-                "es": "live-desk-subcategoria",
-                "pt": "live-desk-subcategoria"
+                "en": "live-desk-overview",
+                "es": "informacion-general-de-live-desk",
+                "pt": "visao-geral-do-live-desk"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
-                {
-                  "name": {
-                    "en": "Configuring Live Desk",
-                    "es": "Configurar Live Desk",
-                    "pt": "Configurar o Live Desk"
-                  },
-                  "slug": {
-                    "en": "configure-live-desk",
-                    "es": "configurar-el-live-desk",
-                    "pt": "configurar-o-live-desk"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Desk Copilot",
@@ -34707,6 +34692,37 @@
                     "en": "desk-copilot-overview",
                     "es": "informacion-general-de-desk-copilot",
                     "pt": "visao-geral-do-desk-copilot"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Using Desk Copilot to support agents in Live Desk",
+                        "es": "Uso de Desk Copilot para apoyar a los agentes en Live Desk",
+                        "pt": "Usando o Desk Copilot para apoiar atendentes no Live Desk"
+                      },
+                      "slug": {
+                        "en": "using-desk-copilot-to-support-agents-in-live-desk",
+                        "es": "uso-de-desk-copilot-para-apoyar-a-los-agentes-en-live-desk",
+                        "pt": "usando-o-desk-copilot-para-apoiar-atendentes-no-live-desk"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "Configuring Live Desk",
+                    "es": "Configurar Live Desk",
+                    "pt": "Configurar o Live Desk"
+                  },
+                  "slug": {
+                    "en": "configure-live-desk",
+                    "es": "configurar-el-live-desk",
+                    "pt": "configurar-o-live-desk"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -34729,21 +34745,6 @@
                 },
                 {
                   "name": {
-                    "en": "Live Desk",
-                    "es": "Live Desk",
-                    "pt": "Live Desk"
-                  },
-                  "slug": {
-                    "en": "live-desk-overview",
-                    "es": "informacion-general-de-live-desk",
-                    "pt": "visao-geral-do-live-desk"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Using groups to organize human attendance",
                     "es": "Usando grupos para controlar la atención humana",
                     "pt": "Usando grupos para controlar o atendimento humano"
@@ -34752,21 +34753,6 @@
                     "en": "using-groups-to-organize-human-attendance",
                     "es": "usando-grupos-para-controlar-la-atencion-humana",
                     "pt": "usando-grupos-para-controlar-o-atendimento-humano"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Using Desk Copilot to support agents in Live Desk",
-                    "es": "Uso de Desk Copilot para apoyar a los agentes en Live Desk",
-                    "pt": "Usando o Desk Copilot para apoiar atendentes no Live Desk"
-                  },
-                  "slug": {
-                    "en": "using-desk-copilot-to-support-agents-in-live-desk",
-                    "es": "uso-de-desk-copilot-para-apoyar-a-los-agentes-en-live-desk",
-                    "pt": "usando-o-desk-copilot-para-apoiar-atendentes-no-live-desk"
                   },
                   "origin": "",
                   "type": "markdown",
