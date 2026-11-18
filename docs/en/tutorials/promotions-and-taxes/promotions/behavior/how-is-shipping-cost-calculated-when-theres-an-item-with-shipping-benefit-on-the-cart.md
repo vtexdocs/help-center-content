@@ -19,13 +19,13 @@ This article explains how shipping cost is split among cart items when one of th
 
 ## Division of shipping cost between items
 
-The shipping cost takes into account the __weight of the products__ added to a cart. These weights are listed on the [freight worksheet of a carrier](/en/tutorial/building-a-freight-spreadsheet).
+The shipping cost takes into account the __weight of the products__ added to a cart. These weights are listed on the [freight worksheet of a carrier](/en/docs/tutorials/shipping-rate-template).
 
 When there is more than one item in the cart, the shipping cost divided by each item is __proportional to its weight__, based on the total weight of the cart.
 
 Let's look at how the shipping cost would be calculated on a cart with 5 items, with a total shipping cost of 200 currency units:
 
-> ℹ️ To find out the cost of shipping a cart, please make a [shipping simulation](/en/tutorial/freight-simulation). To find out the weight of a SKU, access the **Products and SKU** page in the Catalog menu and look for **Shipping Weight**.
+> ℹ️ To find out the cost of shipping a cart, please make a [shipping simulation](/en/docs/tutorials/shipping-simulation). To find out the weight of a SKU, access the **Products and SKU** page in the Catalog menu and look for **Shipping Weight**.
 
 - __Total Cost of Shipping:__ 200
 - __Product A Weight:__ 20

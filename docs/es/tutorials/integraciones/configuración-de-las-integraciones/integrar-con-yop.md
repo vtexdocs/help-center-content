@@ -51,4 +51,4 @@ Algunos pasos son esenciales para que empecemos las configuraciones de la integr
 
 ## Para conocer más
 
-[Entenda cómo funciona la integración con los marketplaces](/es/tutorial/integrating-with-marketplace/).
+[Entenda cómo funciona la integración con los marketplaces](/es/docs/tutorials/estrategias-de-marketplace-en-vtex).

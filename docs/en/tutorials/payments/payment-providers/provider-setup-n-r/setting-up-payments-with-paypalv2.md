@@ -1,21 +1,15 @@
 ---
 title: 'Setting up payments with PayPalV2'
-id: 2nGiQVk3YKvOAu8Zg4RKFr
-status: PUBLISHED
 createdAt: 2024-03-14T18:53:09.449Z
-updatedAt: 2025-07-16T22:42:18.769Z
-publishedAt: 2025-07-16T22:42:18.769Z
-firstPublishedAt: 2024-03-14T19:02:53.958Z
+updatedAt: 2026-11-05T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-paypalv2
-legacySlug: setting-up-payments-with-paypalv2
 locale: en
-subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+hidden: false
 ---
 
-At VTEX, it is possible to integrate with the payment provider PayPalV2. Through this provider, your store can make sales via PayPalCP, PayPal, PayPalBCDC and PIX.
+At VTEX, it is possible to integrate with the payment provider PayPalV2. Through this provider, your store can make sales via PayPalCP, PayPal, PayPalBCDC, PIX and credit cards (Visa, Mastercard, Elo, American Express and Hipercard).
 
 To configure PayPalV2, follow the steps below:
 

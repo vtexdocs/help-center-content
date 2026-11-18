@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3aExYJkji3NIu9Ks8bxbWx
 ---
 
->⚠️ There are two ways to configure collections, through the CMS Portal (Legacy) or the [Collection module (Beta)](/docs/tutorials/creating-collections-beta). This article is about how to configure collections through the CMS Portal (Legacy).
+>⚠️ There are two ways to configure collections, through the CMS Portal (Legacy) or the [Collection module (Beta)](/en/docs/tutorials/creating-collections-beta). This article is about how to configure collections through the CMS Portal (Legacy).
 
 A product collection allows you to group catalog items based on criteria such as department, category, brand, release period, or specific SKUs, creating themed showcases for campaigns, seasonal events, or store-specific curated collections. This grouping makes it easier to organize and display related products, enhancing navigation and the customer shopping experience.
 
@@ -33,7 +33,7 @@ To create and edit collections in the CMS Portal (Legacy), the user must have th
 - **Write Collections**, in the Collection section of Catalog roles.
 - **CMS Management**, in the Configuration section of Catalog roles.
 
-To create a role, see the **Creating roles** section of the [Roles](/docs/tutorials/roles) tutorial. If you can't access this page, ask your store admin to grant this permission on your role in [License Manager](/docs/tutorials/license-manager-resources).
+To create a role, see the **Creating roles** section of the [Roles](/en/docs/tutorials/roles) tutorial. If you can't access this page, ask your store admin to grant this permission on your role in [License Manager](/en/docs/tutorials/license-manager-resources).
 
 ## Instructions
 
@@ -58,8 +58,8 @@ To create a collection, follow the instructions below:
 
 By default, the access link for a collection follows the format `https://{store}.com/search?fq=H:{collection-ID}`. To use a more user-friendly URL (for example, `https://{store}.com/all-products`), set the collection as searchable and associate it with a CMS folder with Search Context configured:
 
-1. Make the collection display in search results by marking the **Searchable** flag in the collection settings. Learn more in [Making product collections searchable](/docs/tutorials/making-product-collections-searchable).
-2. Create a folder with a custom URL. See the instructions in the [How to create landing pages with custom URLs](/docs/tutorials/how-to-create-landing-pages-with-customized-urls) tutorial.
+1. Make the collection display in search results by marking the **Searchable** flag in the collection settings. Learn more in [Making product collections searchable](/en/docs/tutorials/making-product-collections-searchable).
+2. Create a folder with a custom URL. See the instructions in the [How to create landing pages with custom URLs](/en/docs/tutorials/how-to-create-landing-pages-with-customized-urls) tutorial.
 
 ### Adding groups to the collection
 

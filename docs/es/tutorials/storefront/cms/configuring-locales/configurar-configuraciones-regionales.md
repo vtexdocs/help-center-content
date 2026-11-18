@@ -21,12 +21,12 @@ En esta guía, aprenderás cómo configurar las configuraciones regionales para 
 
 | Concepto | Descripción |
 | ---- | ---- |
-| **[Estrategias de configuración regional de resguardo](/es/docs/tutorials/understanding-locale-fallback-rules):** | Decide qué contenido muestra el sistema cuando una configuración regional no tiene su propio contenido localizado. |
+| **[Estrategias de configuración regional de resguardo](/es/docs/tutorials/estrategias-de-configuracion-regional-de-resguardo):** | Decide qué contenido muestra el sistema cuando una configuración regional no tiene su propio contenido localizado. |
 | [**Conexión de configuración regional con bindings:**](#como-se-conectan-las-configuraciones-regionales-con-los-bindings) | Clarifica cómo el storefront elige la configuración regional correcta según la configuración del binding. |
 
 <!-- * Para storefronts de [FastStore](https://developers.vtex.com/docs/guides/faststore): Debes implementar la función de Localización en el proyecto de la tienda. Para hacerlo, sigue las instrucciones de Manejo de la internacionalización con la función de Localización. -->
 
-* Asegúrate de que el siguiente [recurso](https://help.vtex.com/es/docs/tutorials/license-manager-resources) esté asociado a tu [rol de usuario](https://help.vtex.com/es/docs/tutorials/roles):
+* Asegúrate de que el siguiente [recurso](https://help.vtex.com/es/docs/tutorials/recursos-del-license-manager) esté asociado a tu [rol de usuario](https://help.vtex.com/es/docs/tutorials/roles):
 
 | Producto | Categoría | Recurso |
 | ---- | ---- | ---- |
@@ -65,8 +65,8 @@ Para crear una nueva configuración regional para tu tienda, sigue estos pasos:
     | **Nombre** | Agrega el nombre de la configuración regional. | `Inglés (US)` |
     | **Activo** | Selecciona esta casilla para hacer que la configuración regional esté disponible en tu tienda una vez creada. | - |
     | **Hacer esta la configuración regional predeterminada** | Selecciona esta opción para establecer la configuración regional como predeterminada. La configuración regional predeterminada sirve como fuente principal de contenido y como resguardo para otras configuraciones regionales. Al crear tu primera configuración regional, debes seleccionar esta opción. Puedes cambiar la configuración regional predeterminada más adelante. | - |
-    | **Idioma** | Selecciona los idiomas disponibles. Para más información, consulta la lista de [Idiomas admitidos](/es/docs/tutorials/supported-languages-and-regions#idiomas-admitidos). | `Inglés (en)` |
-    | **Región** | Selecciona la región disponible. Para más información, consulta la lista de [Regiones admitidas](/es/docs/tutorials/supported-languages-and-regions#regiones-admitidas). | `Canadá (CA)` |
+    | **Idioma** | Selecciona los idiomas disponibles. Para más información, consulta la lista de [Idiomas admitidos](/es/docs/tutorials/idiomas-y-regiones-admitidos#idiomas-admitidos). | `Inglés (en)` |
+    | **Región** | Selecciona la región disponible. Para más información, consulta la lista de [Regiones admitidas](/es/docs/tutorials/idiomas-y-regiones-admitidos#regiones-admitidas). | `Canadá (CA)` |
     | **Configuración regional de resguardo** | Selecciona la configuración regional que se muestra cuando el contenido no está disponible en la configuración regional. Para crear una configuración regional de resguardo, sigue las instrucciones en [Establecer una configuración regional de resguardo](#establecer-una-configuración-regional-de-resguardo). | `en-US` |
 
 2. Una vez que hayas completado los campos anteriores, haz clic en `Crear`.

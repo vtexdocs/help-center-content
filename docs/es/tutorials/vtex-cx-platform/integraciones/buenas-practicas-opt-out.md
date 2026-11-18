@@ -3,7 +3,7 @@ title: "Buenas prácticas: Opt-out"
 id: 1jxivj0ahiEpDwWcfYScGk
 status: PUBLISHED
 createdAt: 2025-09-15T15:37:10.459Z
-updatedAt: 2025-10-03T14:20:32.275Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.275Z
 firstPublishedAt: 2025-10-03T14:20:32.275Z
 contentType: tutorial

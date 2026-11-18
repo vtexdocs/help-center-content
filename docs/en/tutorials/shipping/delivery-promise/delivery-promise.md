@@ -21,7 +21,7 @@ With **Delivery Promise**, your store can make a delivery promise to customers f
 
 ## Available features
 
-When customers enter their address, an initial selection is shown with only the products available for delivery to that locale or pickup at eligible points within a [configured radius](https://help.vtex.com/pt/docs/tutorials/cadastro-de-pontos-de-retirada#campos-de-cadastro) or [up tothe default limit of 50 km from the locale](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R?&utm_source=autocomplete#como-funcionam-pontos-de-retirada).
+When customers enter their address, an initial selection is shown with only the products available for delivery to that locale or pickup at eligible points within the [Checkout pickup radius](https://help.vtex.com/en/docs/tutorials/pickup-points#how-pickup-points-work). This radius is configurable by the merchant up to a maximum of 50 km (default: 50 km).
 
 In addition to viewing available products, customers can use filters on the product listing page to view only those that meet specific criteria. This allows customers to tailor their navigation experience to meet their needs:
 
@@ -38,8 +38,8 @@ Filtering by postal code, shipping method, delivery target, pickup point, and ta
 **Delivery Promise** allows your customers to filter the products displayed during navigation using the following filters:
 
 - **Ship to:** Products available for delivery at the provided address.  
-- **Pickup:** Products available at pickup points within a [configured radius](https://help.vtex.com/en/docs/tutorials/creating-pickup-points#fields) or up to the default distance of [50 km](https://help.vtex.com/en/docs/tutorials/pickup-points#how-pickup-points-work) from the address.  
-- **Pickup nearby:** Products available for pickup at pickup points within up to 10 km from the provided address.  
+- **Pickup:** Products available at pickup points within the [same Checkout pickup radius](https://help.vtex.com/en/docs/tutorials/pickup-points#how-pickup-points-work), which is configurable by the merchant up to a maximum of 50 km (default: 50 km).  
+- **Pickup nearby:** Products available for pickup at pickup points within a fixed radius of up to 10 km from the provided address. This filter does not use the Checkout pickup radius.  
 - **Pickup at {{nome}}:** Products available at the selected [pickup point](https://help.vtex.com/en/docs/tutorials/creating-pickup-points).  
 - **Shipping time ([Delivery options](https://help.vtex.com/en/docs/tutorials/delivery-options))**: Products available based on the deadline, shipping method, and geographic zones configured by the merchant in the [**Delivery options**](https://help.vtex.com/en/docs/tutorials/delivery-options) module.  
 - **Dynamic shipping time**: Products available based on dynamic timeframes (**Same day** and **Next day**), which consider the customer browsing time and the timeframes configured in the [**Delivery options**](https://help.vtex.com/en/docs/tutorials/delivery-options) of the store's main account for delivery and pickup.
@@ -76,9 +76,9 @@ To use Delivery Promise, your account must meet the following conditions:
 - Use [Intelligent Search](https://help.vtex.com/en/docs/tracks/overview-intelligent-search).  
 - External sellers must comply with the notification protocol of the [Delivery Promise Notification API](https://developers.vtex.com/docs/api-reference/delivery-promise-notification-api).
 - Don't use VTEX Shipping Network.
-- Don't use [Operational capacity](https://help.vtex.com/docs/tutorials/operational-capacity).
+- Don't use [Operational capacity](https://help.vtex.com/en/docs/tutorials/operational-capacity).
 - Don't use more than 10,000 pickup points.
-- Don't use [Assembly Options](https://help.vtex.com/docs/tutorials/assembly-options) for regular sellers.
+- Don't use [Assembly Options](https://help.vtex.com/en/docs/tutorials/assembly-options) for regular sellers.
 
 If your account meets these conditions, you can activate Delivery Promise directly in the VTEX Admin. Learn how in [Activating Delivery Promise](https://help.vtex.com/en/docs/tutorials/activate-delivery-promise).
 

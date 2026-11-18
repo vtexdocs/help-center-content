@@ -82,7 +82,7 @@ En la sección **Políticas comerciales**, define las políticas comerciales a l
 ## Seleccionar la audiencia de la campaña
 Define las audiencias que tendrán acceso a esta promoción. La promoción solo se aplicará a los usuarios que cumplan con las condiciones configuradas en las audiencias seleccionadas.
 
-> ℹ️ Para crear nuevas audiencias o entender cómo configurarlas, accede al artículo [Crear audiencias de campaña](/es/tutorial/como-criar-campanhas).
+> ℹ️ Para crear nuevas audiencias o entender cómo configurarlas, accede al artículo [Crear audiencias de campaña](/es/docs/tutorials/crear-audiencias-de-campana).
 
 ## Definir ítems para activar la promoción
 

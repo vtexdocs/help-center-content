@@ -34,14 +34,14 @@ Para que un _marketplace_ VTEX se conecte con un _seller_, ya sea un _seller_ VT
 - **Política de privacidad de seguridad:** cuál será la política de seguridad que se aplicará a la venta de los productos del _seller_ en el _marketplace_.
 - **Comisiones:** cuál será el porcentaje de las ventas que se realicen en el _marketplace_ que el _seller_ deberá pagar al _marketplace_. Existen dos tipos de comisiones: la _Comisión sobre los productos_ y la _Comisión sobre el envío_.
 
-Además, para [agregar al seller](/es/tutorial/configurando-seller/) a sus operaciones, el _marketplace_ necesita otra información que dependerá del tipo de _seller_ con el cual se quiera conectar:
+Además, para [agregar al seller](/es/docs/tutorials/agregar-seller) a sus operaciones, el _marketplace_ necesita otra información que dependerá del tipo de _seller_ con el cual se quiera conectar:
 
 - [Conectar un marketplace VTEX con un seller VTEX](#conectar-un-marketplace-vtex-con-un-seller-vtex)
 - [Conectar un marketplace VTEX con un seller externo](#conectar-un-marketplace-vtex-con-un-seller-externo)
 
 El _marketplace_ VTEX se puede integrar tanto con un _seller_ VTEX como con un _seller_ externo, ya sea a través del Admin VTEX o de una API. En ambos casos, los datos que compartirán el _marketplace_ y el _seller_ serán los mismos.
 
-> ℹ️ Para obtener más información sobre cómo conectar un marketplace VTEX con un seller VTEX o con un seller externo a través del Admin VTEX, consulta el artículo [Agregar seller](/es/tutorial/configurando-seller). Para realizar la integración a través de una API, usa la llamada [Configure Seller Account](https://developers.vtex.com/docs/api-reference/marketplace-apis#post-/seller-register/pvt/sellers). Si se trata de un seller externo, consulta la [guía de integración con un *seller* externo](https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide).
+> ℹ️ Para obtener más información sobre cómo conectar un marketplace VTEX con un seller VTEX o con un seller externo a través del Admin VTEX, consulta el artículo [Agregar seller](/es/docs/tutorials/agregar-seller). Para realizar la integración a través de una API, usa la llamada [Configure Seller Account](https://developers.vtex.com/docs/api-reference/marketplace-apis#post-/seller-register/pvt/sellers). Si se trata de un seller externo, consulta la [guía de integración con un *seller* externo](https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide).
 
 ### Conectar un marketplace VTEX con un seller VTEX
 
@@ -86,4 +86,4 @@ El _marketplace_ puede otorgar al _seller_ un acceso parcial a los emails de su 
 
 - [Estrategias de marketplace en VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex)
 - [Acciones para la operación de marketplaces VTEX](/es/docs/tutorials/acciones-para-la-operacion-de-marketplaces-vtex)
-- [Agregar seller](/es/tutorial/configurando-seller/)
+- [Agregar seller](/es/docs/tutorials/agregar-seller)

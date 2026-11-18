@@ -30,13 +30,13 @@ Para saber cómo operar las funcionalidades configuradas, consulte la guía [Có
 
 Antes de iniciar una operación de televentas en su tienda, los operadores de televentas y de servicio al cliente deben estar registrados en **Configuración de la cuenta** con el perfil de acceso «Call Center Operator».
 
-Consulte el tutorial [Crear usuario de televentas](/es/docs/tutorials/como-creo-un-usuario-de-televentas) para obtener más información sobre este proceso.
+Consulte el tutorial [Crear usuario de televentas](/es/docs/tutorials/crear-usuario-de-televentas) para obtener más información sobre este proceso.
 
 Después de la configuración, los usuarios que inicien sesión con un _email_ registrado en el perfil serán redirigidos a la página principal de la tienda donde se mostrará la [Barra de herramientas de televentas](/es/docs/tutorials/barra-de-herramientas-de-televentas).
 
 Los usuarios que tengan el perfil de televentas («Call Center Operator») también pueden ver, dar seguimiento y realizar cambios a los pedidos efectuados en la página [Todos los pedidos](/es/docs/tutorials/todos-los-pedidos).
 
-Para conocer todos los perfiles de acceso disponibles en su tienda, lea el artículo [Perfiles de acceso](/es/tutorial/como-criar-perfil-de-acesso).
+Para conocer todos los perfiles de acceso disponibles en su tienda, lea el artículo [Perfiles de acceso](/es/docs/tutorials/roles).
 
 ## Configurar la barra de herramientas de televentas
 

@@ -78,4 +78,4 @@ Use Restaurar em branch para trazer uma versão anterior para uma branch e conti
 4. Clique em `Restaurar em branch`.  
 5. Selecione a branch de destino.
 
-O CMS duplica a versão selecionada e a adiciona à branch escolhida. O storefront não é afetado até que você faça merge da branch na branch `main`. Para mais informações sobre como fazer merge de uma branch, consulte [Gerenciar versões e branches](https://help.vtex.com/docs/tutorials/managing-versions-and-branches).
+O CMS duplica a versão selecionada e a adiciona à branch escolhida. O storefront não é afetado até que você faça merge da branch na branch `main`. Para mais informações sobre como fazer merge de uma branch, consulte [Gerenciar versões e branches](https://help.vtex.com/pt/docs/tutorials/gerenciando-versoes-e-branches).

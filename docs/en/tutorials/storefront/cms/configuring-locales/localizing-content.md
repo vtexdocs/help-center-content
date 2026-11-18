@@ -8,11 +8,11 @@ slugEN: localizing-content
 locale: en
 ---
 
-When your store has [multiple locales configured](https://help.vtex.com/docs/tutorials/configuring-locales#understanding-how-locales-are-connected-to-bindings), the CMS allows you to create and manage localized versions of your content. This enables you to adapt content such as page titles and descriptions for different languages or regions.
+When your store has [multiple locales configured](https://help.vtex.com/en/docs/tutorials/configuring-locales#understanding-how-locales-are-connected-to-bindings), the CMS allows you to create and manage localized versions of your content. This enables you to adapt content such as page titles and descriptions for different languages or regions.
 
 The CMS provides tools to help you edit content across multiple locales and define how content behaves when a localized version is unavailable.
 
-> ℹ️ Learn more about supported languages and regions in [Configuring locales](https://help.vtex.com/docs/tutorials/configuring-locales).
+> ℹ️ Learn more about supported languages and regions in [Configuring locales](https://help.vtex.com/en/docs/tutorials/configuring-locales).
 
 ## Locale selector
 
@@ -24,7 +24,7 @@ For example, you can edit the English (US) and Portuguese (BR) versions of a pag
 
 ## Managing localized content
 
-Depending on your localization strategy, each field within a component will fallback to a [configured locale](https://help.vtex.com/docs/tutorials/configuring-locales).
+Depending on your localization strategy, each field within a component will fallback to a [configured locale](https://help.vtex.com/en/docs/tutorials/configuring-locales).
 
 When editing content, you can either:
 
@@ -37,7 +37,7 @@ Fallback behavior ensures that content is still displayed even when a localized 
 
 ### How fallback content works
 
-Each locale has a [fallback locale definition](https://help.vtex.com/docs/tutorials/configuring-locales). If a field doesn’t contain content for a specific locale, the CMS automatically uses the fallback locale value.
+Each locale has a [fallback locale definition](https://help.vtex.com/en/docs/tutorials/configuring-locales). If a field doesn’t contain content for a specific locale, the CMS automatically uses the fallback locale value.
 
 For example, suppose the Page title field is localized, and the following locales are configured:
 
@@ -63,7 +63,7 @@ This fallback behavior ensures that content remains available even when a locali
 
 ## Translating content
 
-Within an entry, you can translate either a single field or the entire entry. Content is translated from the [default locale](https://help.vtex.com/docs/tutorials/configuring-locales#creating-the-default-locale) into one or more selected target locales.
+Within an entry, you can translate either a single field or the entire entry. Content is translated from the [default locale](https://help.vtex.com/en/docs/tutorials/configuring-locales#creating-the-default-locale) into one or more selected target locales.
 
 When translating content, the system uses the value from the default locale as the source and generates translated values for the chosen locales. You can select one or multiple locales for translation.
 

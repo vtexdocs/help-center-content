@@ -41,7 +41,7 @@ Além de pesquisar pedidos em **Pedidos > Todos os pedidos**, você pode buscar 
 
 ## Assinaturas
 
-Na plataforma VTEX, você pode criar [assinaturas](/pt/tutorial/how-subscriptions-work--frequentlyAskedQuestions_4453#), ou seja, oferecer aos seus clientes a possibilidade de fazer pedidos recorrentes de forma automática, segundo uma frequência estabelecida.
+Na plataforma VTEX, você pode criar [assinaturas](/pt/docs/tutorials/como-funciona-a-assinatura#), ou seja, oferecer aos seus clientes a possibilidade de fazer pedidos recorrentes de forma automática, segundo uma frequência estabelecida.
 
 Para gerenciar essa funcionalidade na sua loja, esta seção inclui as seguintes páginas:
 

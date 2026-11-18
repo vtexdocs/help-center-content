@@ -55,7 +55,7 @@ Budget Pacing se aplica solo a las campañas elegibles a partir de la fecha de a
 
 ## Status de ritmo
 
-**Budget Pacing** monitorea el ritmo de consumo de cada campaña y asigna un status de ritmo, mostrado en el [informe de consumo de presupuesto](https://help.vtex.com/pt/docs/tutorials/monitorar-consumo-de-orcamento):
+**Budget Pacing** monitorea el ritmo de consumo de cada campaña y asigna un status de ritmo, mostrado en el [informe de consumo de presupuesto](https://help.vtex.com/es/docs/tutorials/monitorear-consumo-de-presupuesto):
 
 | Status | Rango de consumo esperado | Indicador |
 | --- | --- | --- |

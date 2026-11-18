@@ -53,7 +53,7 @@ Después de completar estas verificaciones, abre de nuevo la URL actual y confir
 1. En el Admin VTEX, accede a **Catálogo**, o ingresa **Catálogo** en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en **Productos y SKUs** o **Categorías** para acceder al producto o categoría afectado.
 3. Confirma que el producto o categoría está activo y configurado para mostrarse en la tienda. Para productos, confirma que al menos un SKU esté activo.
-4. Verifica que el producto tenga precio y stock válidos para la [política comercial](https://help.vtex.com/en/docs/tutorials/how-trade-policies-work) usada en la tienda.
+4. Verifica que el producto tenga precio y stock válidos para la [política comercial](https://help.vtex.com/es/docs/tutorials/como-funciona-una-politica-comercial) usada en la tienda.
 5. Si tu operación muestra productos no disponibles, confirma que la configuración de exhibición correspondiente esté habilitada según los criterios de [disponibilidad](https://help.vtex.com/es/docs/tutorials/disponibilidad).
 6. Confirma que el ítem esté asignado a la marca, categoría y estructura comercial esperadas.
 
