@@ -34704,9 +34704,9 @@
                     "pt": "Desk Copilot"
                   },
                   "slug": {
-                    "en": "desk-copilot",
-                    "es": "desk-copilot",
-                    "pt": "desk-copilot-visao-geral"
+                    "en": "desk-copilot-overview",
+                    "es": "informacion-general-de-desk-copilot",
+                    "pt": "visao-geral-do-desk-copilot"
                   },
                   "origin": "",
                   "type": "markdown",
