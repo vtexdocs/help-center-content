@@ -25,37 +25,6 @@
           "children": [
             {
               "name": {
-                "en": "Novembro",
-                "es": "Novembro",
-                "pt": "Novembro"
-              },
-              "slug": {
-                "en": "novembro",
-                "es": "novembro",
-                "pt": "2026-novembro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Desk Copilot: sugestões para atendentes humanos no Live Desk",
-                    "es": "Desk Copilot: sugestões para atendentes humanos no Live Desk",
-                    "pt": "Desk Copilot: sugestões para atendentes humanos no Live Desk"
-                  },
-                  "slug": {
-                    "en": "",
-                    "es": "",
-                    "pt": "2026-11-19-desk-copilot-sugestoes-para-atendentes-humanos-no-live-desk"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "November",
                 "es": "Noviembre",
                 "pt": "Novembro"
@@ -68,6 +37,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Desk Copilot: suggestions for human representatives in Live Desk",
+                    "es": "Desk Copilot: sugerencias para representantes humanos en Live Desk",
+                    "pt": "Desk Copilot: sugestões para atendentes humanos no Live Desk"
+                  },
+                  "slug": {
+                    "en": "2026-11-19-desk-copilot-suggestions-for-human-representatives-in-live-desk",
+                    "es": "2026-11-19-desk-copilot-sugerencias-para-representantes-humanos-en-live-desk",
+                    "pt": "2026-11-19-desk-copilot-sugestoes-para-atendentes-humanos-no-live-desk"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Live Desk: bulk sending of quick messages",
@@ -34720,8 +34704,8 @@
                     "pt": "Desk Copilot"
                   },
                   "slug": {
-                    "en": "",
-                    "es": "",
+                    "en": "desk-copilot",
+                    "es": "desk-copilot",
                     "pt": "desk-copilot-visao-geral"
                   },
                   "origin": "",
@@ -34775,13 +34759,13 @@
                 },
                 {
                   "name": {
-                    "en": "Usando o Desk Copilot para apoiar atendentes no Live Desk",
-                    "es": "Usando o Desk Copilot para apoiar atendentes no Live Desk",
+                    "en": "Using Desk Copilot to support agents in Live Desk",
+                    "es": "Uso de Desk Copilot para apoyar a los agentes en Live Desk",
                     "pt": "Usando o Desk Copilot para apoiar atendentes no Live Desk"
                   },
                   "slug": {
-                    "en": "",
-                    "es": "",
+                    "en": "using-desk-copilot-to-support-agents-in-live-desk",
+                    "es": "uso-de-desk-copilot-para-apoyar-a-los-agentes-en-live-desk",
                     "pt": "usando-o-desk-copilot-para-apoiar-atendentes-no-live-desk"
                   },
                   "origin": "",
