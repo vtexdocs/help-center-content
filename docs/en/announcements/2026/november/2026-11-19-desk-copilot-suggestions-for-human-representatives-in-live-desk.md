@@ -4,7 +4,7 @@ createdAt: 2026-11-19T12:00:00.000Z
 updatedAt: 2026-11-19T12:00:00.000Z
 contentType: updates
 productTeam: VTEX CX Platform
-slugEN: 2026-11-19-desk-copilot-suggestions-for-human-attendance-on-live-desk
+slugEN: 2026-11-19-desk-copilot-suggestions-for-human-representatives-in-live-desk
 locale: en
 tags:
   - New feature
@@ -12,7 +12,7 @@ tags:
 announcementSynopsisEN: 'Desk Copilot suggests replies, product searches, carts, order lookups, and payment links to help human representatives in Live Desk.'
 ---
 
-[Desk Copilot](https://help.vtex.com/en/docs/tutorials/desk-copilot-overview) is a new VTEX CX Platform feature that uses AI to analyze the ongoing conversation in [Live Desk](https://help.vtex.com/en/docs/tutorials/live-desk-overview) and suggest replies and actions for human representatives. Suggestions aren't executed automatically. The representative keeps control over the actions taken during the conversation.
+[Desk Copilot](https://help.vtex.com/en/docs/tutorials/desk-copilot) is a new VTEX CX Platform feature that uses AI to analyze the ongoing conversation in [Live Desk](https://help.vtex.com/en/docs/tutorials/live-desk-overview) and suggest replies and actions for human representatives. Suggestions aren't executed automatically. The representative keeps control over the actions taken during the conversation.
 
 This tool is now available to all VTEX CX Platform customers, in all regions.
 
@@ -36,4 +36,4 @@ The representative can copy the suggestion to the text field, edit it, or send i
 
 No action is required. Desk Copilot is available to all VTEX CX Platform customers.
 
-To learn more, see the [Desk Copilot](https://help.vtex.com/en/docs/tutorials/desk-copilot-overview) article.
+To learn more, see the [Desk Copilot](https://help.vtex.com/en/docs/tutorials/desk-copilot) article.

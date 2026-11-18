@@ -4,12 +4,12 @@ createdAt: 2026-11-17T12:00:00.000Z
 updatedAt: 2026-11-17T12:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-slugEN: desk-copilot-overview
+slugEN: desk-copilot
 locale: en
 hidden: false
 categoryCover: true
 seeAlso:
-  - "/en/docs/tutorials/use-desk-copilot-in-live-desk"
+  - "/en/docs/tutorials/using-desk-copilot-to-support-agents-in-live-desk"
   - "/en/docs/tutorials/live-desk-overview"
 ---
 
@@ -25,7 +25,7 @@ seeAlso:
 
 To generate suggestions, **Desk Copilot** analyzes the context of the conversation, including text messages, transcribed audio, and files shared by the customer, such as PDFs.
 
-You can also use [custom agents](https://help.vtex.com/en/docs/tutorials/assigning-and-testing-agents#assigning-an-agent-to-the-team) in Desk Copilot to extend its features. To learn how to enable and configure Copilot, see [Using Desk Copilot to support agents in Live Desk](https://help.vtex.com/en/docs/tutorials/use-desk-copilot-in-live-desk).
+You can also use [custom agents](https://help.vtex.com/en/docs/tutorials/assigning-and-testing-agents#assigning-an-agent-to-the-team) in Desk Copilot to extend its features. To learn how to enable and configure Copilot, see [Using Desk Copilot to support agents in Live Desk](https://help.vtex.com/en/docs/tutorials/using-desk-copilot-to-support-agents-in-live-desk).
 
 ## Suggestion types
 
@@ -41,7 +41,7 @@ For each customer message, Desk Copilot can propose one of the following actions
 
 - Payment links: suggested links to help customers complete purchases.
 
-To learn how to use and evaluate suggestions in Live Desk, see [Using Desk Copilot to support agents in Live Desk](https://help.vtex.com/en/docs/tutorials/use-desk-copilot-in-live-desk).
+To learn how to use and evaluate suggestions in Live Desk, see [Using Desk Copilot to support agents in Live Desk](https://help.vtex.com/en/docs/tutorials/using-desk-copilot-to-support-agents-in-live-desk).
 
 ## Enabling Desk Copilot
 

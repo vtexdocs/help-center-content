@@ -4,7 +4,7 @@ createdAt: 2026-11-19T12:00:00.000Z
 updatedAt: 2026-11-19T12:00:00.000Z
 contentType: updates
 productTeam: VTEX CX Platform
-slugEN: 2026-11-19-desk-copilot-suggestions-for-human-attendance-on-live-desk
+slugEN: 2026-11-19-desk-copilot-suggestions-for-human-representatives-in-live-desk
 locale: pt
 tags:
   - Nova funcionalidade

@@ -4,7 +4,7 @@ createdAt: 2026-11-17T12:00:00.000Z
 updatedAt: 2026-11-17T12:00:00.000Z
 contentType: tutorial
 productTeam: VTEX CX Platform
-slugEN: use-desk-copilot-in-live-desk
+slugEN: using-desk-copilot-to-support-agents-in-live-desk
 locale: pt
 ---
 

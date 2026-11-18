@@ -4,16 +4,16 @@ createdAt: 2026-11-17T12:00:00.000Z
 updatedAt: 2026-11-17T12:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-slugEN: desk-copilot-overview
+slugEN: desk-copilot
 locale: es
 hidden: false
 categoryCover: true
 seeAlso:
-  - "/es/docs/tutorials/use-desk-copilot-in-live-desk"
-  - "/es/docs/tutorials/live-desk-overview"
+  - "/es/docs/tutorials/uso-de-desk-copilot-para-apoyar-a-los-agentes-en-live-desk"
+  - "/es/docs/tutorials/informacion-general-de-live-desk"
 ---
 
-**Desk Copilot** ayuda a los representantes humanos en [Live Desk](https://help.vtex.com/es/docs/tutorials/live-desk-overview) a responder a los clientes con más rapidez. Lee la conversación activa, reacciona a cada mensaje del cliente y sugiere la siguiente mejor acción. El representante humano mantiene el control: decide si copia, edita o envía cada sugerencia.
+**Desk Copilot** ayuda a los representantes humanos en [Live Desk](https://help.vtex.com/es/docs/tutorials/informacion-general-de-live-desk) a responder a los clientes con más rapidez. Lee la conversación activa, reacciona a cada mensaje del cliente y sugiere la siguiente mejor acción. El representante humano mantiene el control: decide si copia, edita o envía cada sugerencia.
 
 ## Cómo funciona Desk Copilot
 
@@ -25,7 +25,7 @@ seeAlso:
 
 Para generar sugerencias, **Desk Copilot** analiza el contexto de la conversación, incluyendo mensajes de texto, audios transcritos y archivos compartidos por el cliente, como PDFs.
 
-También puedes utilizar [agentes personalizados](https://help.vtex.com/es/docs/tutorials/assigning-and-testing-agents#asignar-un-agente-al-equipo) en Desk Copilot para extender sus funcionalidades. Para saber cómo activar y configurar Copilot, consulta [Uso de Desk Copilot para apoyar a los agentes en Live Desk](https://help.vtex.com/es/docs/tutorials/use-desk-copilot-in-live-desk).
+También puedes utilizar [agentes personalizados](https://help.vtex.com/es/docs/tutorials/asignar-y-probar-agentes#asignar-un-agente-al-equipo) en Desk Copilot para extender sus funcionalidades. Para saber cómo activar y configurar Copilot, consulta [Uso de Desk Copilot para apoyar a los agentes en Live Desk](https://help.vtex.com/es/docs/tutorials/uso-de-desk-copilot-para-apoyar-a-los-agentes-en-live-desk).
 
 ## Tipos de sugerencia
 
@@ -41,7 +41,7 @@ En cada mensaje del cliente, Desk Copilot puede proponer una de las siguientes a
 
 - Enlaces de pago: sugerencias de enlaces para facilitar la finalización de compras.
 
-Para saber cómo usar y evaluar las sugerencias en Live Desk, consulta [Uso de Desk Copilot para apoyar a los agentes en Live Desk](https://help.vtex.com/es/docs/tutorials/use-desk-copilot-in-live-desk).
+Para saber cómo usar y evaluar las sugerencias en Live Desk, consulta [Uso de Desk Copilot para apoyar a los agentes en Live Desk](https://help.vtex.com/es/docs/tutorials/uso-de-desk-copilot-para-apoyar-a-los-agentes-en-live-desk).
 
 ## Activar Desk Copilot
 

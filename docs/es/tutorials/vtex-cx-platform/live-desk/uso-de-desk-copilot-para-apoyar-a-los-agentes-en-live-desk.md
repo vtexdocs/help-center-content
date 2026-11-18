@@ -4,11 +4,11 @@ createdAt: 2026-11-17T12:00:00.000Z
 updatedAt: 2026-11-17T12:00:00.000Z
 contentType: tutorial
 productTeam: VTEX CX Platform
-slugEN: use-desk-copilot-in-live-desk
+slugEN: using-desk-copilot-to-support-agents-in-live-desk
 locale: es
 ---
 
-**Desk Copilot** ofrece sugerencias de respuestas y acciones para apoyar a los representantes humanos durante las conversaciones con los clientes en [Live Desk](https://help.vtex.com/es/docs/tutorials/live-desk-overview). En este artículo, aprenderás a configurar los agentes de **Desk Copilot** y a utilizar sus sugerencias durante la atención.
+**Desk Copilot** ofrece sugerencias de respuestas y acciones para apoyar a los representantes humanos durante las conversaciones con los clientes en [Live Desk](https://help.vtex.com/es/docs/tutorials/informacion-general-de-live-desk). En este artículo, aprenderás a configurar los agentes de **Desk Copilot** y a utilizar sus sugerencias durante la atención.
 
 ## Permitir que los agentes de IA transfieran conversaciones al soporte humano
 
@@ -28,7 +28,7 @@ Puedes asignar agentes al proyecto de **Desk Copilot** para que sus funcionalida
 3. Selecciona los agentes que deseas poner a disposición de **Desk Copilot**.
 4. Configura cada agente.
 
-> ℹ️ Para saber más sobre los agentes, consulta [Mis agentes](https://help.vtex.com/es/docs/tutorials/assigning-and-testing-agents).
+> ℹ️ Para saber más sobre los agentes, consulta [Mis agentes](https://help.vtex.com/es/docs/tutorials/asignar-y-probar-agentes).
 
 ## Usar Desk Copilot durante la atención
 
