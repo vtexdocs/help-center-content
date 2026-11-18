@@ -61232,6 +61232,21 @@
             },
             {
               "name": {
+                "en": "Empty response fields returned as \"null\" for connectors with additional fields enabled",
+                "es": "Los campos de respuesta vacíos se devuelven como \"null\" para los conectores con campos adicionales habilitados.",
+                "pt": "Campos de resposta vazios são retornados como \"nulo\" para conectores com campos adicionais habilitados."
+              },
+              "slug": {
+                "en": "empty-response-fields-returned-as-null-for-connectors-with-additional-fields-enabled",
+                "es": "los-campos-de-respuesta-vacios-se-devuelven-como-null-para-los-conectores-con-campos-adicionales-habilitados",
+                "pt": "campos-de-resposta-vazios-sao-retornados-como-nulo-para-conectores-com-campos-adicionais-habilitados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Payment cancellation delayed over one hour after antifraud rejection in native split transactions",
                 "es": "La cancelación del pago se retrasó más de una hora tras el rechazo por parte del sistema antifraude en transacciones divididas nativas.",
                 "pt": "Cancelamento de pagamento atrasado em mais de uma hora após rejeição antifraude em transações nativas divididas."
