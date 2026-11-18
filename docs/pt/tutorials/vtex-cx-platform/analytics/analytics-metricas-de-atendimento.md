@@ -57,8 +57,8 @@ Moderadores do projeto podem definir uma meta de tempo opcional para qualquer um
 
 As mesmas metas também podem notificar a operação fora do widget:
 
-- Um toast aparece em **Analytics**, em qualquer dashboard aberto, quando o número de atendimentos acima do limite atinge o número configurado. O padrão é 5. O toast volta a aparecer somente depois que essa contagem fica abaixo do limite e o atinge de novo. Enquanto a contagem permanece no limite ou acima dele, o toast não aparece outra vez.
-- Um e-mail pode ser enviado aos moderadores e gerentes selecionados, com uma mensagem por meta (tempo de espera, tempo para a 1ª resposta ou duração da conversa), usando a mesma regra de contagem do toast.
+- Quando o número de atendimentos acima do limite atinge o valor configurado, um aviso aparece na tela. O aviso só reaparece depois que a contagem cair abaixo do limite e atingir o valor configurado novamente.
+- Um e-mail pode ser enviado aos moderadores e gerentes selecionados, com uma mensagem por meta (tempo de espera, tempo para a 1ª resposta ou duração da conversa), seguindo a mesma regra do aviso.
 
 Para definir as metas, o número de atendimentos que devem ultrapassá-las e os destinatários de e-mail, consulte [Analytics: Configurar alertas operacionais](https://help.vtex.com/pt/docs/tutorials/analytics-configurar-alertas-operacionais).
 

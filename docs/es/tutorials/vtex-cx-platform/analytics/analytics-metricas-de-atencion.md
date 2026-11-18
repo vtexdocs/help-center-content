@@ -56,8 +56,8 @@ Los moderadores del proyecto pueden definir una meta de tiempo opcional para cua
 
 Las mismas metas también pueden notificar a la operación fuera del widget:
 
-- Aparece un toast en **Analytics**, en cualquier dashboard abierto, cuando la cantidad de chats de soporte por encima del límite alcanza el número que configuraste. El valor predeterminado es 5. El toast vuelve a aparecer solo después de que esa cantidad baja del límite y lo alcanza otra vez. Mientras la cantidad se mantiene en el límite o por encima, no vuelve a aparecer.
-- Se puede enviar un correo electrónico a los moderadores y gerentes seleccionados, con un mensaje por meta (tiempo de espera, tiempo hasta la primera respuesta o duración del chat), usando la misma regla de conteo del toast.
+- Cuando el número de atenciones por encima del límite alcanza el valor configurado, aparece una notificación en la pantalla. La notificación solo reaparece después de que el recuento caiga por debajo del límite y alcance el valor configurado nuevamente.
+- Se puede enviar un correo electrónico a los moderadores y gerentes seleccionados, con un mensaje por meta (tiempo de espera, tiempo para la 1ª respuesta o duración de la conversación), siguiendo la misma regla que la notificación.
 
 Para definir las metas, la cantidad de chats de soporte que deben superarlas y los destinatarios de correo electrónico, consulta [Analytics: Configurar alertas operativas](https://help.vtex.com/es/docs/tutorials/analytics-configurar-alertas-operativas).
 

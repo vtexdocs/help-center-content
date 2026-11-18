@@ -54,7 +54,10 @@ Each metric also displays the maximum value recorded in the period.
 
 Project moderators can set an optional time limit for any of these metrics. The limits are independent, so you can configure one, some, or all of them, in seconds, minutes, or hours. When chats exceed a limit, the card shows how many chats exceeded it. A metric without a limit doesn't show an alert.
 
-You can also send an email to selected moderators when the number of chats over a limit reaches the number you set. The default is 5. One email is sent for each limit: wait time, time to 1st response, or chat duration.
+The same limits can also notify the operation outside the widget:
+
+- When the number of attendances above the threshold reaches the configured value, a notification appears on screen. The notification only reappears after the count drops below the threshold and reaches the configured value again.
+- An email can be sent to selected moderators and managers, with a message per target (wait time, time to first response, or conversation duration), following the same rule as the notification.
 
 To set the limits and the email, see [Analytics: Configuring operational alerts](https://help.vtex.com/en/docs/tutorials/configuring-operational-alerts).
 
