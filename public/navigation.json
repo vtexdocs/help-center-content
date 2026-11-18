@@ -26910,6 +26910,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with Compraqui",
+                        "es": "Configurar pago con Compraqui",
+                        "pt": "Configurar pagamento com Compraqui"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-compraqui",
+                        "es": "configurar-pago-con-compraqui",
+                        "pt": "configurar-pagamento-com-compraqui"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with Conekta",
                         "es": "Configurar pago con Conekta",
                         "pt": "Configurar pagamento com Conekta"
@@ -27008,6 +27023,21 @@
                         "en": "setting-up-payments-with-creditea",
                         "es": "configurar-pago-con-creditea",
                         "pt": "configurar-pagamento-com-creditea"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with Credito Bodesa",
+                        "es": "Configurar pago con Credito Bodesa",
+                        "pt": "Configurar pagamento com Credito Bodesa"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-credito-bodesa",
+                        "es": "configurar-pago-con-credito-bodesa",
+                        "pt": "configurar-pagamento-com-credito-bodesa"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -27511,6 +27541,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with GangPay",
+                        "es": "Configurar pago con GangPay",
+                        "pt": "Configurar pagamento com GangPay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-gangpay",
+                        "es": "configurar-pago-con-gangpay",
+                        "pt": "configurar-pagamento-com-gangpay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with Geru",
                         "es": "Configurar pago con Geru",
                         "pt": "Configurar pagamento com Geru"
@@ -27790,6 +27835,21 @@
                         "en": "setting-up-payments-with-izipay",
                         "es": "configurar-pago-con-izipay",
                         "pt": "configurar-pagamento-com-izipay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with JumboOneClickTBK",
+                        "es": "Configurar pago con JumboOneClickTBK",
+                        "pt": "Configurar pagamento com JumboOneClickTBK"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-jumbooneclicktbk",
+                        "es": "configurar-pago-con-jumbooneclicktbk",
+                        "pt": "configurar-pagamento-com-jumbooneclicktbk"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -28631,6 +28691,21 @@
                         "en": "setting-up-payments-with-payu-india",
                         "es": "configurar-pago-con-payu-india",
                         "pt": "configurar-pagamento-com-payu-india"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with PayuPaymentOS",
+                        "es": "Configurar pago con PayuPaymentOS",
+                        "pt": "Configurar pagamento com PayuPaymentOS"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-payupaymentos",
+                        "es": "configurar-pago-con-payupaymentos",
+                        "pt": "configurar-pagamento-com-payupaymentos"
                       },
                       "origin": "",
                       "type": "markdown",
