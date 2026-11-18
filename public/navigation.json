@@ -69222,6 +69222,21 @@
             },
             {
               "name": {
+                "en": "region_id outside the Base64 format discards the visitor's region from the session during SSR",
+                "es": "Si region_id no está en formato Base64, se descarta la región del visitante de la sesión durante el SSR.",
+                "pt": "O `region_id` fora do formato Base64 descarta a região do visitante da sessão durante a renderização no servidor (SSR)."
+              },
+              "slug": {
+                "en": "regionid-outside-the-base64-format-discards-the-visitors-region-from-the-session-during-ssr",
+                "es": "si-regionid-no-esta-en-formato-base64-se-descarta-la-region-del-visitante-de-la-sesion-durante-el-ssr",
+                "pt": "o-regionid-fora-do-formato-base64-descarta-a-regiao-do-visitante-da-sessao-durante-a-renderizacao-no-servidor-ssr"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "AB Tester app shows miscalculated information for sessions and conversion",
                 "es": "La aplicación AB Tester muestra información errónea sobre sesiones y conversión",
                 "pt": "O aplicativo AB Tester mostra informações mal calculadas para sessões e conversão"
