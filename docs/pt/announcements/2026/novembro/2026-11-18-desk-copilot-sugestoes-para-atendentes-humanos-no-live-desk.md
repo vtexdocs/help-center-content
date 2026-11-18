@@ -1,10 +1,10 @@
 ---
 title: 'Desk Copilot: sugestões para atendentes humanos no Live Desk'
-createdAt: 2026-11-19T12:00:00.000Z
-updatedAt: 2026-11-19T12:00:00.000Z
+createdAt: 2026-11-18T12:00:00.000Z
+updatedAt: 2026-11-18T12:00:00.000Z
 contentType: updates
 productTeam: VTEX CX Platform
-slugEN: 2026-11-19-desk-copilot-suggestions-for-human-representatives-in-live-desk
+slugEN: 2026-11-18-desk-copilot-suggestions-for-human-representatives-in-live-desk
 locale: pt
 tags:
   - Nova funcionalidade
