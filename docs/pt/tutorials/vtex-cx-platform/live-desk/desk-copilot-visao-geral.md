@@ -13,7 +13,7 @@ seeAlso:
   - "/pt/docs/tutorials/visao-geral-do-live-desk"
 ---
 
-O Desk Copilot ajuda atendentes humanos no [Live Desk](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk) a responder clientes com mais agilidade. Ele lê a conversa ativa, reage a cada mensagem do cliente e sugere a próxima melhor ação. O atendente humano continua no controle: ele decide se copia, edita ou envia cada sugestão.
+O Desk Copilot ajuda atendentes humanos no [Live Desk](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk) a responder a clientes com mais agilidade. Ele lê a conversa ativa, reage a cada mensagem do cliente e sugere a próxima melhor ação. O atendente humano continua no controle: ele decide se copia, edita ou envia cada sugestão.
 
 ## Como o Desk Copilot funciona
 
