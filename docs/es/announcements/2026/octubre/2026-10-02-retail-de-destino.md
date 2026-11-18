@@ -1,7 +1,7 @@
 ---
 title: 'Nueva página Retail de destino para publicadores'
-createdAt: 2026-10-02T00:00:00.000Z
-updatedAt: 2026-10-02T00:00:00.000Z
+createdAt: 2026-11-17T00:00:00.000Z
+updatedAt: 2026-11-18T00:00:00.000Z
 contentType: updates
 productTeam: Ads
 slugEN: 2026-10-02-destination-retail
@@ -12,7 +12,7 @@ tags:
   - VTEX Ads
 ---
 
-VTEX presenta la nueva página [**Retail de destino**](/es/docs/tutorials/retail-de-destino) para cuentas del tipo publicador. En ella, las tiendas pueden declarar que desean recibir tráfico de campañas offsite y monitorear qué anunciantes están dirigiendo tráfico a su sitio web.
+VTEX presenta la nueva página [**Retail de destino**](/es/docs/tutorials/retail-de-destino) para cuentas del tipo publicador. En ella, las tiendas pueden declarar que desean recibir tráfico de [campañas offsite](/es/docs/tutorials/campanas-offsite-en-vtex-ads) y monitorear qué anunciantes están dirigiendo tráfico a su sitio web.
 
 ## ¿Qué cambió?
 

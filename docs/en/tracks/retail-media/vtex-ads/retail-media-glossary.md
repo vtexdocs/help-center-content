@@ -3,7 +3,7 @@ title: 'Retail media glossary'
 id: 60HoAleRC38rjrhHeDlDDE
 status: PUBLISHED
 createdAt: 2025-05-29T17:46:57.083Z
-updatedAt: 2026-11-06T00:00:00.000Z
+updatedAt: 2026-11-18T00:00:00.000Z
 publishedAt: 2025-07-04T16:13:56.687Z
 firstPublishedAt: 2025-05-29T17:48:06.231Z
 contentType: trackArticle
@@ -32,7 +32,7 @@ The following glossary brings together the main terms and concepts related to re
 | **CAC (Customer Acquisition Cost)** | Average amount spent to acquire a new customer. Formula: `CAC = (Total invested in marketing and sales/Number of new customers)`. |
 | **Churn** | Cancellation rate or customer loss over a period. Formula: `(Lost customers/Total customers at the start of the period) × 100`. |
 | **Data clean room** | Secure environment where stores and partners share anonymized information to enrich campaigns and ensure privacy. |
-| [**Destination retail**](/en/docs/tutorials/vtex-ads-offsite-campaigns) | Store that receives the traffic from an offsite campaign and where the purchase happens. |
+| [**Destination retail**](/en/docs/tutorials/destination-retail) | Store that receives the traffic from an offsite campaign and where the purchase happens. |
 | **Digital signage** | Digital screens used in physical stores to display ads or information, optionally supporting programmatic distribution. |
 | **Display** | Type of offer that combines visual elements and text, possibly containing a redirect button to a destination link. |
 | **DMP (Data Management Platform)** | Platform that collects, organizes, and analyzes details to segment audiences and direct campaigns more efficiently. |

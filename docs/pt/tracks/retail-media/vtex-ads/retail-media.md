@@ -1,7 +1,7 @@
 ---
 title: 'Retail Media'
 createdAt: 2025-05-29T14:17:24.579Z
-updatedAt: 2026-11-06T00:00:00.000Z
+updatedAt: 2026-11-18T00:00:00.000Z
 contentType: trackArticle
 productTeam: Others
 slugEN: retail-media
@@ -27,7 +27,7 @@ O **VTEX Ads** suporta três estratégias de ativação publicitária:
 
 * **Onsite**: anúncios exibidos dentro dos canais digitais do varejista, como sites, aplicativos de ecommerce, televendas, etc.  
 * **In-Store**: ativações realizadas nas lojas físicas do varejista, como displays digitais e promoções no ponto de venda.
-* **Offsite**: anúncios exibidos fora da loja que recebe o tráfego, levando o usuário até ela, como explicado em [Campanhas offsite no **VTEX Ads**](/pt/docs/tutorials/campanhas-offsite-no-vtex-ads).
+* **Offsite**: anúncios exibidos fora da loja que recebe o tráfego, levando o usuário até ela, como explicado em [Campanhas offsite no **VTEX Ads**](/pt/docs/tutorials/campanhas-offsite-no-vtex-ads). O publisher opta por participar na tela [Varejo de destino](/pt/docs/tutorials/varejo-de-destino).
 
 Esses formatos trabalham juntos para engajar os consumidores em diferentes etapas da jornada de compra, desde a conscientização da marca até a conversão final.
 

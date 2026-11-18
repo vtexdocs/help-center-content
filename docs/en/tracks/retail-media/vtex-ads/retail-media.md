@@ -3,7 +3,7 @@ title: 'Retail Media'
 id: 36ZHI8z0VQjcu5yHeGEvv3
 status: PUBLISHED
 createdAt: 2025-05-29T14:17:24.579Z
-updatedAt: 2026-11-06T00:00:00.000Z
+updatedAt: 2026-11-18T00:00:00.000Z
 publishedAt: 2025-07-04T15:53:33.192Z
 firstPublishedAt: 2025-05-29T14:23:22.627Z
 contentType: trackArticle
@@ -31,7 +31,7 @@ While browsing an ecommerce site, opening a shopping app, or visiting a physical
 
 * **Onsite**: Ads displayed in digital channels owned by the merchant, like ecommerce websites, apps, telesales, etc.  
 * **In-store**: Activations in the merchant's physical stores, like digital displays and point-of-sale promotions.
-* **Offsite**: Ads displayed outside the store that receives the traffic, taking the user to that store, as explained in [VTEX Ads offsite campaigns](/en/docs/tutorials/vtex-ads-offsite-campaigns).
+* **Offsite**: Ads displayed outside the store that receives the traffic, taking the user to that store, as explained in [VTEX Ads offsite campaigns](/en/docs/tutorials/vtex-ads-offsite-campaigns). Publishers opt in on the [Destination retail](/en/docs/tutorials/destination-retail) page.
 
 These formats engage consumers at different stages of the buying journey, from brand awareness to conversion.
 

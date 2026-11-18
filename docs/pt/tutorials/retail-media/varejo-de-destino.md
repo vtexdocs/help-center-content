@@ -1,7 +1,7 @@
 ---
 title: 'Varejo de destino'
-createdAt: 2026-09-30T00:00:00.000Z
-updatedAt: 2026-09-30T00:00:00.000Z
+createdAt: 2026-11-17T00:00:00.000Z
+updatedAt: 2026-11-18T00:00:00.000Z
 contentType: tutorial
 productTeam: Others
 slugEN: destination-retail
@@ -76,6 +76,7 @@ O card **Anunciantes enviando tráfego de campanhas offsite para seu site** list
 
 ## Saiba mais
 
+- [Campanhas offsite no VTEX Ads](/pt/docs/tutorials/campanhas-offsite-no-vtex-ads)
 - [Métricas e atribuição do VTEX Ads](/pt/docs/tutorials/metricas-e-atribuicao-do-vtex-ads)
 - [Glossário de Retail Media](/pt/docs/tracks/glossario-de-retail-media)
 - [VTEX Ads: primeiros passos](/pt/docs/tracks/vtex-ads-primeiros-passos)

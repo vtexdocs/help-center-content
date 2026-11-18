@@ -3,7 +3,7 @@ title: 'Glosario de Retail Media'
 id: 60HoAleRC38rjrhHeDlDDE
 status: PUBLISHED
 createdAt: 2025-05-29T17:46:57.083Z
-updatedAt: 2026-11-06T00:00:00.000Z
+updatedAt: 2026-11-18T00:00:00.000Z
 publishedAt: 2025-07-04T16:13:56.687Z
 firstPublishedAt: 2025-05-29T17:48:06.231Z
 contentType: trackArticle
@@ -47,7 +47,7 @@ El glosario a continuación reúne los principales términos y conceptos relacio
 | **Publicidad programática** | Compra automatizada de espacios publicitarios basada en datos e información específica. Utiliza algoritmos para optimizar resultados en tiempo real. |
 | **Omnichannel** | Estrategia que integra canales online y offline, ofreciendo una experiencia unificada al consumidor, independientemente del canal utilizado. |
 | **Productos patrocinados** | Anuncios de productos que se muestran de forma similar a los resultados orgánicos, pero con elementos destacados (como una etiqueta de "patrocinado"). Se activan por palabras clave, categorías o contexto. |
-| [**Retail de destino**](/es/docs/tutorials/campanas-offsite-en-vtex-ads) | Tienda que recibe el tráfico de una campaña offsite y donde ocurre la compra. |
+| [**Retail de destino**](/es/docs/tutorials/retail-de-destino) | Tienda que recibe el tráfico de una campaña offsite y donde ocurre la compra. |
 | **Retail media** | Publicidad realizada dentro de los canales de retailers, utilizando datos del consumidor para una personalización y medición eficiente de los resultados. |
 | **ROAS (Return on Ad Spend)** | Retorno de inversión publicitaria. Fórmula: `ROAS = (Ingresos generados / Inversión en medios publicitarios) × 100`. |
 | **ROI (Return on Investment)** | Retorno de la inversión. Fórmula: `ROI = [(Ingresos - Costo total) / Costo total] × 100`. |
