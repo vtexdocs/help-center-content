@@ -8,7 +8,7 @@ slugEN: use-desk-copilot-in-live-desk
 locale: pt
 ---
 
-O Desk Copilot ajuda atendentes humanos no Live Desk a responder clientes com mais agilidade. Ao final deste tutorial, você saberá configurar o Desk Copilot e usar as sugestões durante um atendimento, mantendo o controle de cada mensagem enviada.
+O Desk Copilot ajuda atendentes humanos no Live Desk a responder a clientes com mais agilidade. Ao final deste tutorial, você saberá configurar o Desk Copilot e usar as sugestões durante um atendimento, mantendo o controle de cada mensagem enviada.
 
 ## Permitir que agentes de IA transfiram conversas para atendimento humano
 
