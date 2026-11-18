@@ -17500,7 +17500,7 @@
                       "name": {
                         "en": "Checking credit wallet",
                         "es": "Consultar cartera de crédito",
-                        "pt": "Consultar Carteira de Crédito"
+                        "pt": "Consultar carteira de crédito"
                       },
                       "slug": {
                         "en": "checking-credit-wallet",
@@ -39792,6 +39792,21 @@
             },
             {
               "name": {
+                "en": "Top Bar Customization Inactive Organization Message doesn't work",
+                "es": "El mensaje de organización inactiva de personalización de la barra superior no funciona.",
+                "pt": "A personalização da barra superior e a mensagem de organização inativa não funcionam."
+              },
+              "slug": {
+                "en": "top-bar-customization-inactive-organization-message-doesnt-work",
+                "es": "el-mensaje-de-organizacion-inactiva-de-personalizacion-de-la-barra-superior-no-funciona",
+                "pt": "a-personalizacao-da-barra-superior-e-a-mensagem-de-organizacao-inativa-nao-funcionam"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Search in Users tab in B2B Organization Details doesn't filter when there is no result",
                 "es": "La búsqueda en la pestaña Usuarios en Detalles de la organización B2B no filtra cuando no hay ningún resultado.",
                 "pt": "A pesquisa na guia Usuários em Detalhes da organização B2B não filtra quando não há nenhum resultado"
@@ -51003,36 +51018,6 @@
             },
             {
               "name": {
-                "en": "Magazine Luiza Order with error \"Object reference not set to an instance of an object\"",
-                "es": "Magazine Luiza Pedido con error \"La referencia a objeto no está establecida en una instancia de un objeto\"",
-                "pt": "Magazine Luiza Pedido com erro \"Referência de objeto não definida para uma instância de um objeto\""
-              },
-              "slug": {
-                "en": "magazine-luiza-order-with-error-object-reference-not-set-to-an-instance-of-an-object",
-                "es": "magazine-luiza-pedido-con-error-la-referencia-a-objeto-no-esta-establecida-en-una-instancia-de-un-objeto",
-                "pt": "magazine-luiza-pedido-com-erro-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Magazine Luiza Orders pending dispatch authorization even if approved by Marketplace",
-                "es": "Magazine Luiza Pedidos pendientes de autorización de envío, incluso si son aprobados por Marketplace.",
-                "pt": "Magazine Luiza Pedidos aguardando autorização de envio mesmo se aprovados pelo Marketplace"
-              },
-              "slug": {
-                "en": "magazine-luiza-orders-pending-dispatch-authorization-even-if-approved-by-marketplace",
-                "es": "magazine-luiza-pedidos-pendientes-de-autorizacion-de-envio-incluso-si-son-aprobados-por-marketplace",
-                "pt": "magazine-luiza-pedidos-aguardando-autorizacao-de-envio-mesmo-se-aprovados-pelo-marketplace"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Custom Attribute Mapper Mercado Livre",
                 "es": "Mapeador de atributos personalizados de Mercado Livre",
                 "pt": "Mapeador de atributos personalizados do Mercado Livre"
@@ -51251,21 +51236,6 @@
                 "en": "mercado-livre-main-image-not-respected",
                 "es": "mercado-livre-imagen-principal-no-respetada",
                 "pt": "mercado-livre-imagem-principal-nao-respeitada"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Mercado Livre Multi-Origin - orders allocated to inactive stock",
-                "es": "Mercado Livre Multi-Origen - pedidos asignados a stock inactivo",
-                "pt": "Mercado Livre Multi-Origem - pedidos alocados a estoque inativo"
-              },
-              "slug": {
-                "en": "mercado-livre-multiorigin-orders-allocated-to-inactive-stock",
-                "es": "mercado-livre-multiorigen-pedidos-asignados-a-stock-inactivo",
-                "pt": "mercado-livre-multiorigem-pedidos-alocados-a-estoque-inativo"
               },
               "origin": "",
               "type": "markdown",
@@ -58207,6 +58177,21 @@
                 "en": "new-ui-does-not-show-the-invoiced-value-on-return-items-page",
                 "es": "la-nueva-interfaz-de-usuario-no-muestra-el-valor-facturado-en-la-pagina-de-articulos-devueltos",
                 "pt": "a-nova-iu-nao-mostra-o-valor-faturado-na-pagina-de-itens-de-retorno"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Change Order V2 item removal with compensateShippingChanges + free shipping leaves non-zero price/sellingPrice per item in logisticsInfo",
+                "es": "Modificar pedido V2: eliminación de artículo con compensaciónShippingChanges + envío gratuito deja un precio/precio de venta distinto de cero por artículo en logisticsInfo",
+                "pt": "A remoção do item Change Order V2 com compensationShippingChanges + frete grátis resulta em um preço/preço de venda diferente de zero por item em logisticsInfo."
+              },
+              "slug": {
+                "en": "change-order-v2-item-removal-with-compensateshippingchanges-free-shipping-leaves-nonzero-pricesellingprice-per-item-in-logisticsinfo",
+                "es": "modificar-pedido-v2-eliminacion-de-articulo-con-compensacionshippingchanges-envio-gratuito-deja-un-precioprecio-de-venta-distinto-de-cero-por-articulo-en-logisticsinfo",
+                "pt": "a-remocao-do-item-change-order-v2-com-compensationshippingchanges-frete-gratis-resulta-em-um-precopreco-de-venda-diferente-de-zero-por-item-em-logisticsinfo"
               },
               "origin": "",
               "type": "markdown",
@@ -68486,6 +68471,21 @@
             },
             {
               "name": {
+                "en": "PLP renders blank on Back navigation after pagination, PDP regionalization, and full reload",
+                "es": "La PLP se muestra en blanco en la navegación hacia atrás después de la paginación, la regionalización de PDP y la recarga completa.",
+                "pt": "A página inicial (PLP) fica em branco na navegação para trás após paginação, regionalização da página de detalhes do produto (PDP) e recarregamento completo."
+              },
+              "slug": {
+                "en": "plp-renders-blank-on-back-navigation-after-pagination-pdp-regionalization-and-full-reload",
+                "es": "la-plp-se-muestra-en-blanco-en-la-navegacion-hacia-atras-despues-de-la-paginacion-la-regionalizacion-de-pdp-y-la-recarga-completa",
+                "pt": "a-pagina-inicial-plp-fica-em-branco-na-navegacao-para-tras-apos-paginacao-regionalizacao-da-pagina-de-detalhes-do-produto-pdp-e-recarregamento-completo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Position on selected image on PDP doesn't reset when changing product",
                 "es": "La posición de la imagen seleccionada en la PDP no se restablece al cambiar de producto",
                 "pt": "A posição na imagem selecionada no PDP não é reinicializada ao mudar de produto"
@@ -69056,6 +69056,21 @@
             },
             {
               "name": {
+                "en": "region_id outside the Base64 format discards the visitor's region from the session during SSR",
+                "es": "Si region_id no está en formato Base64, se descarta la región del visitante de la sesión durante el SSR.",
+                "pt": "O `region_id` fora do formato Base64 descarta a região do visitante da sessão durante a renderização no servidor (SSR)."
+              },
+              "slug": {
+                "en": "regionid-outside-the-base64-format-discards-the-visitors-region-from-the-session-during-ssr",
+                "es": "si-regionid-no-esta-en-formato-base64-se-descarta-la-region-del-visitante-de-la-sesion-durante-el-ssr",
+                "pt": "o-regionid-fora-do-formato-base64-descarta-a-regiao-do-visitante-da-sessao-durante-a-renderizacao-no-servidor-ssr"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "AB Tester app shows miscalculated information for sessions and conversion",
                 "es": "La aplicación AB Tester muestra información errónea sobre sesiones y conversión",
                 "pt": "O aplicativo AB Tester mostra informações mal calculadas para sessões e conversão"
@@ -69124,6 +69139,21 @@
                 "en": "breadcrumb-not-being-read-by-crawlers-due-ssr-timeout",
                 "es": "los-rastreadores-no-leen-la-ruta-de-navegacion-debido-a-un-tiempo-de-espera-de-ssr",
                 "pt": "o-breadcrumb-nao-esta-sendo-lido-pelos-rastreadores-devido-ao-tempo-limite-do-ssr"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Custom header with key \"Link\" is not delivered on Store Framework stores",
+                "es": "El encabezado personalizado con la clave \"Link\" no se entrega en las tiendas de Store Framework.",
+                "pt": "O cabeçalho personalizado com a chave \"Link\" não é entregue em lojas com o Store Framework."
+              },
+              "slug": {
+                "en": "custom-header-with-key-link-is-not-delivered-on-store-framework-stores",
+                "es": "el-encabezado-personalizado-con-la-clave-link-no-se-entrega-en-las-tiendas-de-store-framework",
+                "pt": "o-cabecalho-personalizado-com-a-chave-link-nao-e-entregue-em-lojas-com-o-store-framework"
               },
               "origin": "",
               "type": "markdown",
@@ -70470,6 +70500,21 @@
             },
             {
               "name": {
+                "en": "Amazon Listing SKU can’t be sent through Product publication after its images are replaced in the catalog",
+                "es": "Amazon Listado El SKU no se puede enviar a través de la publicación del producto después de que sus imágenes se hayan reemplazado en el catálogo.",
+                "pt": "Amazon Listagem O SKU não pode ser enviado através da publicação do produto após a substituição de suas imagens no catálogo."
+              },
+              "slug": {
+                "en": "amazon-listing-sku-cant-be-sent-through-product-publication-after-its-images-are-replaced-in-the-catalog",
+                "es": "amazon-listado-el-sku-no-se-puede-enviar-a-traves-de-la-publicacion-del-producto-despues-de-que-sus-imagenes-se-hayan-reemplazado-en-el-catalogo",
+                "pt": "amazon-listagem-o-sku-nao-pode-ser-enviado-atraves-da-publicacao-do-produto-apos-a-substituicao-de-suas-imagens-no-catalogo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Amazon NF-e for Amazon DBA (Easy Ship) orders rejected when a promotional discount is applied by the buyer",
                 "es": "Amazon Los pedidos NF-e para Amazon DBA (Easy Ship) son rechazados cuando el comprador aplica un descuento promocional.",
                 "pt": "Amazon NF-e para pedidos Amazon DBA (Easy Ship) rejeitados quando um desconto promocional é aplicado pelo comprador"
@@ -70740,6 +70785,36 @@
             },
             {
               "name": {
+                "en": "Magazine Luiza Order with error \"Object reference not set to an instance of an object\"",
+                "es": "Magazine Luiza Pedido con error \"La referencia a objeto no está establecida en una instancia de un objeto\"",
+                "pt": "Magazine Luiza Pedido com erro \"Referência de objeto não definida para uma instância de um objeto\""
+              },
+              "slug": {
+                "en": "magazine-luiza-order-with-error-object-reference-not-set-to-an-instance-of-an-object",
+                "es": "magazine-luiza-pedido-con-error-la-referencia-a-objeto-no-esta-establecida-en-una-instancia-de-un-objeto",
+                "pt": "magazine-luiza-pedido-com-erro-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Magazine Luiza Orders pending dispatch authorization even if approved by Marketplace",
+                "es": "Magazine Luiza Pedidos pendientes de autorización de envío, incluso si son aprobados por Marketplace.",
+                "pt": "Magazine Luiza Pedidos aguardando autorização de envio mesmo se aprovados pelo Marketplace"
+              },
+              "slug": {
+                "en": "magazine-luiza-orders-pending-dispatch-authorization-even-if-approved-by-marketplace",
+                "es": "magazine-luiza-pedidos-pendientes-de-autorizacion-de-envio-incluso-si-son-aprobados-por-marketplace",
+                "pt": "magazine-luiza-pedidos-aguardando-autorizacao-de-envio-mesmo-se-aprovados-pelo-marketplace"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Mercado Livre Ads Incorrectly Re-created as Cross-docking for Full SKUs with Zero Stock",
                 "es": "Mercado Livre Anuncios recreados incorrectamente como cross-docking para SKU completos con stock cero.",
                 "pt": "Mercado Livre Anúncios recriados incorretamente como cross-docking para SKUs completos com estoque zero"
@@ -70793,6 +70868,21 @@
                 "en": "mercado-livre-error-when-reauthenticating-the-integration",
                 "es": "mercado-livre-error-al-volver-a-autenticar-la-integracion",
                 "pt": "mercado-livre-erro-ao-reautenticar-a-integracao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Multi-Origin - orders allocated to inactive stock",
+                "es": "Mercado Livre Multi-Origen - pedidos asignados a stock inactivo",
+                "pt": "Mercado Livre Multi-Origem - pedidos alocados a estoque inativo"
+              },
+              "slug": {
+                "en": "mercado-livre-multiorigin-orders-allocated-to-inactive-stock",
+                "es": "mercado-livre-multiorigen-pedidos-asignados-a-stock-inactivo",
+                "pt": "mercado-livre-multiorigem-pedidos-alocados-a-estoque-inativo"
               },
               "origin": "",
               "type": "markdown",
