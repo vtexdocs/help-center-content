@@ -54,7 +54,7 @@ Para saber como usar e avaliar as sugestões no Live Desk, consulte [Usando o De
 
 5. Clique em `Criar`.
 
-Após criar o projeto Desk Copilot, você será redirecionado à página  **Analytics**.
+Após criar o projeto Desk Copilot, você será redirecionado à página **Analytics**.
 
 ## Cobrança
 
