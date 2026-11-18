@@ -44,7 +44,7 @@ Você pode atribuir agentes ao projeto do **Desk Copilot** para disponibilizar s
 3. Para pedir algo específico, escreva no campo **Pergunte ao assistente**.
 4. Para utilizar uma sugestão de resposta, escolha uma das opções:
    - **Copiar:** insere a sugestão no campo de mensagem, permitindo que você revise ou edite o texto antes do envio.
-   -**Enviar:** envia a resposta sugerida diretamente ao cliente, sem alterações.
+   - **Enviar:** envia a resposta sugerida diretamente ao cliente, sem alterações.
 
 O Desk Copilot atualiza o resumo e as sugestões conforme o cliente envia novas mensagens durante o atendimento.
 
