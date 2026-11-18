@@ -175,7 +175,7 @@ Essa aba contém informações sobre os atendimentos encerrados, com dados de at
 | **Contato** | Nome do cliente que entrou em contato com o atendimento. |
 | **Canal** | Canal onde ocorreu o atendimento (como **WhatsApp** ou **Shopping Assistant**). |
 | **Protocolo** | Número do protocolo do atendimento. |
-| **Nota de CSAT** | Nota de satisfação do cliente a partir da resposta nativa de CSAT daquele atendimento encerrado, quando o contato respondeu à pesquisa. |
+| **Nota de CSAT** | Nota de satisfação do cliente a partir da resposta nativa de CSAT daquele atendimento encerrado, caso o contato tenha respondido à pesquisa. |
 
 ##### Atendente
 
