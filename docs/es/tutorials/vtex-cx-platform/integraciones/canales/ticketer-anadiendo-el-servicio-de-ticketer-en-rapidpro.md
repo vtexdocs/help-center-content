@@ -3,7 +3,7 @@ title: "Ticketer: Añadiendo el servicio de Ticketer en RapidPro"
 id: 1X3XC7dZqvjeRPL5Ywrzx4
 status: PUBLISHED
 createdAt: 2025-09-15T15:15:18.674Z
-updatedAt: 2026-11-12T12:00:00.000Z
+updatedAt: 2026-11-13T14:40:00.000Z
 publishedAt: 2025-10-03T14:20:32.477Z
 firstPublishedAt: 2025-10-03T14:20:32.477Z
 contentType: tutorial
@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-El Servicio de Ticketer se utiliza para proporcionar asistencia humana a los usuarios que se comunican con tu chatbot. A continuación, te mostraremos paso a paso cómo utilizar este servicio en RapidPro. Los pasos para usar esta solución son:
+El servicio de Ticketer proporciona asistencia humana a los usuarios que se comunican con tu chatbot. Para usar este servicio en RapidPro, sigue las secciones de este artículo:
 
 - **Abrir un ticket usando flujos**
 - **Agregar agentes de servicio**

@@ -3,7 +3,7 @@ title: "WhatsApp message card"
 id: 4IsU6gP2dUx1F1A5AMKN4D
 status: PUBLISHED
 createdAt: 2025-09-17T14:17:04.971Z
-updatedAt: 2026-11-12T12:20:00.000Z
+updatedAt: 2026-11-13T13:42:00.000Z
 publishedAt: 2025-10-03T14:20:03.619Z
 firstPublishedAt: 2025-10-03T14:20:03.619Z
 contentType: tutorial
@@ -13,63 +13,76 @@ slugEN: whatsapp-message-card
 legacySlug: whatsapp-message-card
 locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
+seeAlso:
+  - /en/docs/tutorials/action-cards
 ---
 
-The WhatsApp message card uses features provided by Meta to format interactions with customers. You can import files, request location, and use quick replies or interactive menus with descriptive buttons.
+The WhatsApp message card lets you create WhatsApp-specific interactions in an [automation flow](/en/docs/tutorials/automation-flow-overview). Use it when the flow needs to send a message and give the contact a structured way to respond or continue the conversation. You can send a simple message or configure an interactive message with quick replies, an option list, a location request, or a URL button.
 
-## Add the card to the flow
+## Before you begin
 
-To add the card to the flow, follow the steps below:
+Before adding the card, consider these requirements:
 
-1. Add the **WhatsApp Message** Card to your flow.
+- The contact must have a WhatsApp URN. A URN identifies the contact on a communication channel.
+- For a conversation started by your business, this card does not replace a message template approved by Meta. For more information, see [WhatsApp template messages: Impediments and configurations](/en/docs/tutorials/whatsapp-template-messages-impediments-and-configurations).
 
-The simple message option retains all the features of the send message card, allowing media uploads, text formatting, and emoji insertion.
+## Adding the card to a flow
 
-## Interactive message
+To add the card to a flow, follow these steps:
 
-The interactive message offers **quick replies, option lists, location requests, and URL buttons**.
+1. In your project, go to **Agent Builder > Automation flow**.
+2. Open an existing flow or create a new one.
+3. Click `Create Block`.
+4. Select **WhatsApp Message**.
 
-## Quick replies
+For a simple message, you can upload media, format text, and insert emojis. For media upload instructions and limits, see [Adding Media to the message](/en/docs/tutorials/adding-media-to-the-message). To add an interactive message, configure one of the options in the following sections.
 
-1. In the **header**, choose to send either **media** or **text**.
-2. If you select the text option for the header, write in the field next to it (header text).
-3. If you select the media option for the header, use your media by uploading it from your device or pasting the URL. **Your media can be an image, video, PDF file, or audio.**
+## Configuring an interactive message
 
-4. Fill in the fields with **predefined messages**. At this stage, you can also **add a footer message**.
+Interactive messages support quick replies, option lists, location requests, and URL buttons.
 
-Each quick reply field has a **limit of 20 characters**, and you can include up to 3 text options, according to the rules set by Meta. Additionally, the quick reply options must be different from each other.
+### Adding quick replies
 
-1. After filling in the fields, click the **Confirm** button. Below is an example of how the message will be displayed on WhatsApp:
+Quick replies let contacts select one of up to 3 predefined responses. Each response must be unique and can contain up to 20 characters.
 
-## Option list
+To configure quick replies, follow these steps:
 
-1. In **Interactions**, select the **Option List**. Here, you can configure up to 10 buttons with descriptions. **Fill in the header, body, and footer fields.**
+1. In **Header**, select **Text** or **Media**.
+2. Configure the header according to the option you selected:
+    - For **Text**, enter the header text.
+    - For **Media**, upload a file from your device or enter its URL. The header supports images, videos, PDF files, and audio.
+3. Enter the quick reply responses.
+4. (Optional) Enter a footer message.
+5. Click `Confirm`.
 
-The difference between Quick Replies and the Option List is that the latter offers more variety. Additionally, you can set a title and subtitle for the list. Another distinction is that the Option List does not support media in the header.
+### Adding an option list
 
-1. After that, add **options** and fill in the **title and description fields (optional)** for each added option.
-    **Title**: A clear and concise name for the option, reflecting its content or purpose.
-    **Description (optional)**: Additional details about the option, informative and relevant, to help users better understand it.
+An option list can contain up to 10 options. Each option has a title and can include a description. Unlike quick replies, an option list does not support media in its header.
 
-1. Fill in the **Action Button (optional)** with the text that appears in the message. When the contact clicks this button, the list of available options opens.
+To configure an option list, follow these steps:
 
-1. After completing this step, click **Confirm**. Here’s an example of how the message will be displayed on WhatsApp:
+1. In **Interactions**, select **Option List**.
+2. Complete the **Header**, **Body**, and **Footer** fields.
+3. Add the options and complete the following fields for each one:
+    - **Title:** Enter a short name that identifies the option.
+    - **Description (optional):** Enter details that help the contact understand the option.
+4. (Optional) In **Action Button**, enter the text displayed on the button that opens the list.
+5. Click `Confirm`.
 
-## Request location
+### Requesting the contact's location
 
-Still under **Interactions**, select **Request Location** and fill in the text field (message).
+To request the contact's location, follow these steps:
 
-Here’s an example of how the message will be displayed on WhatsApp:
+1. In **Interactions**, select **Request Location**.
+2. In the message field, enter the text the contact receives with the request.
 
-This card does not replace the sending of a message template.
+### Adding a URL button
 
-## URL button
+A URL button directs the contact to a link. The message can also include custom text in its header and footer.
 
-In the **Interactions** section, you can add a **URL Button**. This allows you to create a button that directs users to any link of your choice. Additionally, this feature offers the option to include customized text headers and footers.
+To add a URL button, follow these steps:
 
-You can add a variable to your URL if needed.
-Here’s an example of how the message will be displayed on WhatsApp:
-
-Use this card **only for URN in WhatsApp**.
-
-The **WhatsApp Send Message card** offers improvements that result in a smoother and more productive user experience.
+1. In **Interactions**, add a **URL Button**.
+2. Enter the destination URL.
+3. (Optional) Add a variable to the URL.
+4. (Optional) Enter text for the header and footer.

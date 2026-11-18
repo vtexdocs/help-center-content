@@ -1,7 +1,7 @@
 ---
 title: 'Agent Builder'
 createdAt: 2025-07-23T12:24:11.906Z
-updatedAt: 2026-11-10T00:00:00.000Z
+updatedAt: 2026-11-12T18:30:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: agent-builder-overview
@@ -82,7 +82,9 @@ In **Agent preview**, there are two possible settings:
 
 - **Multiple message format:** Activate it <i class="fas fa-toggle-on" aria-hidden="true"></i> if you want the agent to send multiple messages, such as quick replies, lists, catalog. Otherwise, leave it deactivated <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
-- **Agent progressive feedback:** Activate it <i class="fas fa-toggle-on" aria-hidden="true"></i> if you want the agent to send real-time updates to the user while drafting the final response. Otherwise, leave it deactivated<i class="fas fa-toggle-off" aria-hidden="true"></i>.
+- **Agent progressive feedback:** Enable it <i class="fas fa-toggle-on" aria-hidden="true"></i> if you want the agent to show short progress updates while preparing the final response. These updates don't change the final response and don't require additional storefront development. Otherwise, leave it disabled <i class="fas fa-toggle-off" aria-hidden="true"></i>.
+
+> ⚠️ **Agent progressive feedback** and **Multiple message format** can't be enabled at the same time.
 
 In **System messages**, you can customize the error message sent to the customer when an API error prevents the agent from generating a response. Each project can have its own message, tailored to the brand's tone of voice.
 
@@ -128,17 +130,17 @@ To create a category, follow these steps:
 
 With **Manager 2.7**, the orchestrator agent can respond using WhatsApp's native interactive components:
 
-| Component | Description |
-| --- | --- |
-| Quick replies (`quick_reply`) | Buttons with predefined options for the customer to choose from. |
-| Call-to-action buttons (`call_to_action`) | Buttons that direct the customer to an external link. |
-| List message (`list_message`) | Menu with a list of selectable options. |
+| Component                                                    | Description                                                                      |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| Quick replies (`quick_reply`)             | Buttons with predefined options for the customer to choose from. |
+| Call-to-action buttons (`call_to_action`) | Buttons that direct the customer to an external link.            |
+| List message (`list_message`)             | Menu with a list of selectable options.                          |
 
-To guide the agent to use a component, reference it directly in a custom instruction. For example: "When asking about order status, use the `quick_reply` component with the options Track order, Cancel order, and Talk to a representative."
+To instruct the agent to use a component, reference it directly in a custom instruction. For example: "When the customer asks about the order status, use the `quick_reply` component with the options Track order, Cancel order, and Talk to a representative."
 
-> ℹ️ For the agent to send interactive components, the **Multiple message format** option must be enabled in **Edit Manager > Engine**.
+> ℹ️ For the agent to send interactive components, activate the **Multiple message format** option in **Edit Manager > Engine**.
 
-> ⚠️ The product catalog is not a native Manager 2.7 component. When a Concierge agent is assigned to the team, the orchestrator triggers Concierge to send the catalog. VTEX's official Concierge agents already have this capability.
+> ⚠️ The product catalog isn't a native component of Manager 2.7. When a concierge agent is assigned to the team, the orchestrator triggers concierge to submit the catalog. VTEX's official concierge agents already have this capability.
 
 ##### Viewing instructions
 

@@ -44,7 +44,7 @@ El acceso y los recursos se organizan en dos niveles:
 Después de abrir un proyecto, usa el menú principal para acceder a los siguientes módulos:
 
 - **Agent Builder:** Configura y prueba agentes de IA, agrega fuentes de conocimiento, define instrucciones y crea flujos de automatización. Consulta [Agent Builder](https://help.vtex.com/es/docs/tutorials/informacion-general-de-agent-builder).
-- **Studio:** Gestiona contactos, mensajes, campañas y disparadores de conversaciones.
+- **Contactos:** Gestiona contactos, mensajes, campañas y disparadores de conversaciones.
 - **Live Desk:** Atiende conversaciones que requieren soporte humano y consulta el historial de soporte. Consulta [Live Desk](https://help.vtex.com/es/docs/tutorials/informacion-general-de-live-desk).
 - **Analytics:** Monitorea el soporte activo y analiza métricas de conversaciones, entrega de mensajes, equipo y operación. Consulta [Analytics: Métricas de atención](https://help.vtex.com/es/docs/tutorials/analytics-metricas-de-atencion).
 - **Auditoría:** Revisa las conversaciones atendidas por agentes de IA, investiga resultados e identifica oportunidades de mejora. Consulta [Auditoría](https://help.vtex.com/es/docs/tutorials/auditoria-overview).
@@ -58,6 +58,14 @@ Después de abrir un proyecto, usa el menú principal para acceder a los siguien
 Accede al [panel de VTEX CX Platform](https://dash.weni.ai/). Puedes crear una cuenta con email y contraseña o continuar con GitHub, Google o Microsoft. Usa el mismo método cuando vuelvas a iniciar sesión.
 
 Si recibiste una invitación, crea o accede a la cuenta asociada con el email invitado. Después de iniciar sesión, selecciona la organización y el proyecto incluidos en la invitación.
+
+### Inicio de sesión con Okta
+
+Los clientes empresariales pueden iniciar sesión en VTEX CX Platform con su propio tenant de Okta. En este caso, después de ingresar tu email, se te redirige automáticamente a Okta, con la autenticación multifactor configurada, y el campo de contraseña de la plataforma no se muestra.
+
+El acceso a las organizaciones sigue haciéndose solo por invitación, y el mapeo de dominio es válido únicamente para la empresa que lo configuró.
+
+> ⚠️ Para usar el inicio de sesión con Okta, ponte en contacto con el [Soporte de VTEX](https://help.vtex.com/es/support) y solicita la configuración del mapeo del dominio de email y de la política de tu organización.
 
 ### Crear una organización y un proyecto
 

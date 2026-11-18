@@ -3,7 +3,7 @@ title: "Opt-in: Obtaining consent for WhatsApp"
 id: 1zqhPT4869IgWgRZ6eJDkv
 status: PUBLISHED
 createdAt: 2025-09-15T15:35:50.207Z
-updatedAt: 2026-11-12T12:00:00.000Z
+updatedAt: 2026-11-13T14:20:00.000Z
 publishedAt: 2025-10-03T14:20:32.308Z
 firstPublishedAt: 2025-10-03T14:20:32.308Z
 contentType: tutorial
@@ -37,18 +37,16 @@ If the collection method meets the above requirements, it will comply with Meta'
 - Phone (IVR): Use interactive voice response flows to obtain consent.
 - In-Person or Physical Document: Collect consent in person or through signed physical forms.
 
-It is highly recommended that businesses constantly optimize the user experience when developing their consent flows.
+### Consent practices
 
-### Tips for improving the consent experience
-
-To ensure a positive and optimized experience, businesses should follow these best practices when obtaining consent:
+When you request consent, follow these practices:
 
 - Set Clear Expectations: Make sure users know what type of messages they will receive and in what contexts.
 - Include Various Message Categories: When requesting consent, include all relevant categories, such as order updates, promotions, and product recommendations.
 - Category-Specific Consent: Obtain specific consents for each type of message, reducing the risk of the user blocking the business for unsolicited messages.
 - Offer Opt-Out Options: Inform users how they can opt out of specific message categories and respect those preferences.
 - Flows: Ensure that the opt-in and opt-out processes are short.
-- Explain the Relevance: Communicate the importance and benefits of receiving information via WhatsApp, ensuring users understand the value of these interactions.
+- Explain the message type: Tell the contact which messages they will receive, such as order updates or promotions.
 - Regularly Monitor Quality: Pay attention to the business’s quality rating, especially when implementing new consent collection methods.
 
 ## Interaction quality

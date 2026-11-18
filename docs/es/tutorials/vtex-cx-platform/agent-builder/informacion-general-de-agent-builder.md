@@ -1,7 +1,7 @@
 ---
 title: 'Agent Builder'
 createdAt: 2025-07-23T12:24:11.906Z
-updatedAt: 2026-11-10T00:00:00.000Z
+updatedAt: 2026-11-12T18:32:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: agent-builder-overview
@@ -81,7 +81,9 @@ En **Vista previa de los agentes**, existen dos configuraciones posibles:
 
 - **Formato de mensaje múltiple:** actívalo <i class="fas fa-toggle-on" aria-hidden="true"></i> si deseas que el agente envíe varios mensajes, como respuestas rápidas, listas, catálogo. De lo contrario, deja el botón de alternancia desactivado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
-- **Feedback progresivo de los agentes:** actívalo <i class="fas fa-toggle-on" aria-hidden="true"></i> si quieres que el agente envíe actualizaciones en tiempo real al usuario mientras redacta la respuesta final. De lo contrario, deja el botón de alternancia desactivado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
+- **Feedback progresivo de los agentes:** actívalo <i class="fas fa-toggle-on" aria-hidden="true"></i> si quieres que el agente muestre actualizaciones breves mientras prepara la respuesta final. Estas actualizaciones no cambian la respuesta final ni requieren desarrollo adicional en la tienda. De lo contrario, deja el botón de alternancia desactivado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
+
+> ⚠️ Las opciones **Feedback progresivo de los agentes** y **Formato de mensaje múltiple** no se pueden activar al mismo tiempo.
 
 En **Mensajes del sistema** puedes personalizar el mensaje de error enviado al cliente cuando un error de API impide al agente generar una respuesta. Cada proyecto puede tener su propio mensaje, adaptado al tono de voz de la marca.
 
@@ -127,17 +129,17 @@ Para crear una categoría, sigue estos pasos:
 
 Con **Manager 2.7**, el agente orquestador puede responder usando componentes interactivos nativos de WhatsApp:
 
-| Componente | Descripción |
-| --- | --- |
-| Respuestas rápidas (`quick_reply`) | Botones con opciones predefinidas para que el cliente elija. |
-| Botones de acción (`call_to_action`) | Botones que dirigen al cliente a un enlace externo. |
-| Mensaje con lista (`list_message`) | Menú con una lista de opciones seleccionables. |
+| Componente                                              | Descripción                                                                     |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Respuestas rápidas (`quick_reply`)   | Botones con opciones predeterminadas para que el cliente elija. |
+| Botones de acción (`call_to_action`) | Botones que dirigen al cliente a un link externo.               |
+| Lista de mensajes (`list_message`)   | Menú con una lista de opciones seleccionables.                  |
 
-Para orientar al agente a usar un componente, menciónalo directamente en una instrucción personalizada. Por ejemplo: "Al preguntar sobre el status del pedido, usa el componente `quick_reply` con las opciones Rastrear pedido, Cancelar pedido y Hablar con un representante".
+Para indicar al agente que use un componente, ingresa su nombre en una instrucción personalizada. Por ejemplo: "Al preguntar sobre el status del pedido, usa el componente `quick_reply` con las opciones Hacer seguimiento de pedido, Cancelar pedido y Hablar con un representante".
 
-> ℹ️ Para que el agente envíe componentes interactivos, la opción **Formato de mensaje múltiple** debe estar activada en **Editar Manager > Motor**.
+> ℹ️ Para que el agente envíe componentes interactivos, la opción **Formato de mensaje múltiple** debe estar activada en **Editar manager > Motor**.
 
-> ⚠️ El catálogo de productos no es un componente nativo de Manager 2.7. Cuando hay un agente Concierge asignado al equipo, el orquestador activa al Concierge para enviar el catálogo. Los agentes Concierge oficiales de VTEX ya tienen esta capacidad.
+> ⚠️ El catálogo de productos no es un componente nativo de Manager 2.7. Cuando hay un agente concierge asignado al equipo, el orquestador llama al concierge para que envíe el catálogo. Los agentes concierge oficiales de VTEX ya tienen esta capacidad.
 
 ##### Visualizar instrucciones
 

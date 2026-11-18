@@ -1,7 +1,7 @@
 ---
 title: 'Live Desk'
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-11-10T21:45:00.000Z
+updatedAt: 2026-11-12T23:30:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
@@ -41,7 +41,7 @@ La lista de conversaciones muestra quién envió el último mensaje de cada sala
 - Un número indica cuántos mensajes del contacto no has leído.
 - Una flecha azul indica que el último mensaje del contacto ya fue leído y todavía necesita respuesta.
 - El prefijo `Tú:` indica que tú enviaste el último mensaje. Se aplica a mensajes de texto y multimedia.
-- Un punto azul indica que la sala fue transferida, devuelta a una cola, tomada de la cola o asignada automáticamente. El punto aparece sin importar quién envió el último mensaje.
+- Un punto azul indica que una sala requiere atención después de ser transferida, devuelta a una cola, tomada de la cola o asignada automáticamente. El punto aparece sin importar quién envió el último mensaje.
 
 Cuando un representante anterior envió el último mensaje de una sala transferida, la vista previa no comienza con `Tú:`. Cuando abres las conversaciones de un representante desde el dashboard, una sala que espera respuesta muestra la flecha azul y la vista previa no incluye el prefijo `Tú:`.
 
@@ -97,6 +97,8 @@ Cada representante de la lista de transferencia muestra un estado: **En línea**
 
 ## Redactar mensajes
 
+El campo de redacción de mensajes tiene una barra de acciones fija debajo del campo de mensaje. Desde esta barra, puedes abrir mensajes rápidos, adjuntar archivos, agregar una nota interna, insertar emojis o grabar audio.
+
 ### Copiar y borrar el mensaje
 
 Al empezar a escribir en el campo de mensaje, aparecen dos acciones:
@@ -128,6 +130,8 @@ Puedes insertar un mensaje rápido de dos formas:
 - **Usando un atajo:** escribe `/` seguido del atajo asignado al mensaje.
 
 En la lista, puedes moverte entre los mensajes con las flechas del teclado y presionar `Enter` para insertar el mensaje seleccionado. También puedes configurar mensajes rápidos específicos de cada departamento al crearlo. Para más información, consulta [Configurar Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk).
+
+Para enviar un mensaje rápido guardado a varias conversaciones, abre el menú de acciones del mensaje y haz clic en `Enviar en masa`. La lista de revisión muestra los contactos que están recibiendo soporte y los selecciona a todos de forma predeterminada. Desmarca la casilla de los contactos que no quieras incluir y confirma el envío. Una barra de progreso muestra el estado del envío en tiempo real. Cuando finaliza el proceso, una notificación de confirmación muestra cuántos mensajes se enviaron.
 
 ### Mejorar una respuesta con IA
 
@@ -170,8 +174,8 @@ Cuando **Usar firma** está activada para el departamento, el nombre del represe
 
 El soporte humano se monitorea en el dashboard de **Live Desk** dentro del módulo **Analytics**. El dashboard tiene dos pestañas:
 
-- **Monitoreo:** muestra datos en tiempo real de los chats de soporte en curso, como estado, tiempos promedio, volumen por cola, tag y canal, y satisfacción del cliente (CSAT). Los moderadores del proyecto pueden definir metas de tiempo para que el dashboard resalte los chats que las superan. Consulta [Analytics: Configurar alertas operativas](https://help.vtex.com/es/docs/tutorials/analytics-configurar-alertas-operativas).
-- **Análisis:** muestra datos históricos de los chats de soporte cerrados en el periodo seleccionado.
+- **En tiempo real:** muestra datos en tiempo real de los chats de soporte en curso, como estado, tiempos promedio, volumen por cola, tag y canal, y satisfacción del cliente (CSAT). Los moderadores del proyecto pueden definir metas de tiempo para que el dashboard resalte los chats que las superan. Consulta [Analytics: Configurar alertas operativas](https://help.vtex.com/es/docs/tutorials/analytics-configurar-alertas-operativas).
+- **Datos históricos:** muestra datos históricos de los chats de soporte cerrados en el periodo seleccionado.
 
 Puedes filtrar los datos por departamento, cola, representante, tag, canal y periodo. Para descargar los datos que se muestran en el dashboard, haz clic en `Exportar datos`.
 

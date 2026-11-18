@@ -25,6 +25,52 @@
           "children": [
             {
               "name": {
+                "en": "November",
+                "es": "Noviembre",
+                "pt": "Novembro"
+              },
+              "slug": {
+                "en": "2026-november",
+                "es": "2026-noviembre",
+                "pt": "2026-novembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Live Desk: bulk sending of quick messages",
+                    "es": "Live Desk: envío masivo de mensajes rápidos",
+                    "pt": "Live Desk: envio de mensagens rápidas em massa"
+                  },
+                  "slug": {
+                    "en": "2026-11-16-live-desk-bulk-sending-of-quick-messages",
+                    "es": "2026-11-16-live-desk-envio-masivo-de-mensajes-rapidos",
+                    "pt": "2026-11-16-live-desk-envio-de-mensagens-rapidas-em-massa"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "VTEX CX Platform: Okta login for enterprise clients",
+                    "es": "VTEX CX Platform: inicio de sesión con Okta para clientes empresariales",
+                    "pt": "VTEX CX Platform: login com Okta para clientes enterprise"
+                  },
+                  "slug": {
+                    "en": "2026-11-16-vtex-cx-platform-enterprise-okta-login",
+                    "es": "2026-11-16-vtex-cx-platform-inicio-de-sesion-con-okta-para-clientes-empresariales",
+                    "pt": "2026-11-16-vtex-cx-platform-login-com-okta-para-clientes-enterprise"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "October",
                 "es": "Octubre",
                 "pt": "Outubro"
@@ -272,6 +318,21 @@
                     "en": "2026-10-06-vtex-cx-platform-support-for-bsuid-and-whatsapp-usernames",
                     "es": "2026-10-06-vtex-cx-platform-soporte-para-bsuid-y-nombres-de-usuario-de-whatsapp",
                     "pt": "2026-10-06-vtex-cx-platform-suporte-a-bsuid-e-usernames-do-whatsapp"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "New Destination retail page for publishers",
+                    "es": "Nueva página Retail de destino para publicadores",
+                    "pt": "Nova tela Varejo de destino para publishers"
+                  },
+                  "slug": {
+                    "en": "2026-10-02-destination-retail",
+                    "es": "2026-10-02-retail-de-destino",
+                    "pt": "2026-10-02-varejo-de-destino"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26721,6 +26782,36 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with Almacenessi",
+                        "es": "Configurar pago con Almacenessi",
+                        "pt": "Configurar pagamento com Almacenessi"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-almacenessi",
+                        "es": "configurar-pago-con-almacenessi",
+                        "pt": "configurar-pagamento-com-almacenessi"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with aplazo",
+                        "es": "Configurar pago con aplazo",
+                        "pt": "Configurar pagamento com aplazo"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-aplazo",
+                        "es": "configurar-pago-con-aplazo",
+                        "pt": "configurar-pagamento-com-aplazo"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with Appmax",
                         "es": "Configurar pago con Appmax",
                         "pt": "Configurar pagamento com Appmax"
@@ -26736,6 +26827,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with AppmaxV1",
+                        "es": "Configurar pago con AppmaxV1",
+                        "pt": "Configurar pagamento com AppmaxV1"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-appmaxv1",
+                        "es": "configurar-pago-con-appmaxv1",
+                        "pt": "configurar-pagamento-com-appmaxv1"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with argonPAY",
                         "es": "Configurar pago con argonPAY",
                         "pt": "Configurar pagamento com argonPAY"
@@ -26744,6 +26850,36 @@
                         "en": "setting-up-payments-with-argonpay",
                         "es": "configurar-pago-con-argonpay",
                         "pt": "configurar-pagamento-com-argonpay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with AstroPayOneTouch",
+                        "es": "Configurar pago con AstroPayOneTouch",
+                        "pt": "Configurar pagamento com AstroPayOneTouch"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-astropayonetouch",
+                        "es": "configurar-pago-con-astropayonetouch",
+                        "pt": "configurar-pagamento-com-astropayonetouch"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with Azteca",
+                        "es": "Configurar pago con Azteca",
+                        "pt": "Configurar pagamento com Azteca"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-azteca",
+                        "es": "configurar-pago-con-azteca",
+                        "pt": "configurar-pagamento-com-azteca"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -26886,6 +27022,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with BellunoPagamentos",
+                        "es": "Configurar pago con BellunoPagamentos",
+                        "pt": "Configurar pagamento com Belluno Pagamentos"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-bellunopagamentos",
+                        "es": "configurar-pago-con-bellunopagamentos",
+                        "pt": "configurar-pagamento-com-bellunopagamentos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with Bizum",
                         "es": "Configurar pago con Bizum",
                         "pt": "Configurar pagamento com Bizum"
@@ -26999,6 +27150,21 @@
                         "en": "setting-up-payments-with-brinks-cash-ecommerce",
                         "es": "configurar-pago-con-brinks-cash-ecommerce",
                         "pt": "configurar-pagamento-com-brinks-cash-ecommerce"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with Cencosud-Pay-Ar",
+                        "es": "Configurar pago con Cencosud-Pay-Ar",
+                        "pt": "Configurar pagamento com Cencosud-Pay-Ar"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-cencosud-pay-ar",
+                        "es": "configurar-pago-con-cencosud-pay-ar",
+                        "pt": "configurar-pagamento-com-cencosud-pay-ar"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -27134,6 +27300,21 @@
                         "en": "setting-up-payments-with-credimarcas",
                         "es": "configurar-pago-con-credimarcas",
                         "pt": "configurar-pagamento-com-credimarcas"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with CrediPay",
+                        "es": "Configurar pago con CrediPay",
+                        "pt": "Configurar pagamento com CrediPay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-credipay",
+                        "es": "configurar-pago-con-credipay",
+                        "pt": "configurar-pagamento-com-credipay"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -27352,6 +27533,36 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with DripPixParcelado",
+                        "es": "Configurar pago con DripPixParcelado",
+                        "pt": "Configurar pagamento com DripPixParcelado"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-drippixparcelado",
+                        "es": "configurar-pago-con-drippixparcelado",
+                        "pt": "configurar-pagamento-com-drippixparcelado"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with E-fek",
+                        "es": "Configurar pago con E-fek",
+                        "pt": "Configurar pagamento com E-fek"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-e-fek",
+                        "es": "configurar-pago-con-e-fek",
+                        "pt": "configurar-pagamento-com-e-fek"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with e-Sitef",
                         "es": "Configurar pago con e-Sitef",
                         "pt": "Configurar pagamento com e-SiTef"
@@ -27450,6 +27661,21 @@
                         "en": "setting-up-payments-with-epago",
                         "es": "configurar-pago-con-epago",
                         "pt": "configurar-pagamento-com-epago"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with ePayCencosud",
+                        "es": "Configurar pago con ePayCencosud",
+                        "pt": "Configurar pagamento com ePayCencosud"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-epaycencosud",
+                        "es": "configurar-pago-con-epaycencosud",
+                        "pt": "configurar-pagamento-com-epaycencosud"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -31974,6 +32200,21 @@
           "children": [
             {
               "name": {
+                "en": "VTEX Ads offsite campaigns",
+                "es": "Campañas offsite en VTEX Ads",
+                "pt": "Campanhas offsite no VTEX Ads"
+              },
+              "slug": {
+                "en": "vtex-ads-offsite-campaigns",
+                "es": "campanas-offsite-en-vtex-ads",
+                "pt": "campanhas-offsite-no-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "VTEX Ads metrics and attribution",
                 "es": "Métricas y atribución de VTEX Ads",
                 "pt": "Métricas e atribuição do VTEX Ads"
@@ -31982,6 +32223,36 @@
                 "en": "vtex-ads-metrics-and-attribution",
                 "es": "metricas-y-atribucion-de-vtex-ads",
                 "pt": "metricas-e-atribuicao-do-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Campaign models and roles in VTEX Ads",
+                "es": "Modelos de campaña y roles en VTEX Ads",
+                "pt": "Modelos de campanha e papéis no VTEX Ads"
+              },
+              "slug": {
+                "en": "vtex-ads-campaign-models-and-roles",
+                "es": "modelos-de-campana-y-roles-en-vtex-ads",
+                "pt": "modelos-de-campanha-e-papeis-no-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Destination retail",
+                "es": "Retail de destino",
+                "pt": "Varejo de destino"
+              },
+              "slug": {
+                "en": "destination-retail",
+                "es": "retail-de-destino",
+                "pt": "varejo-de-destino"
               },
               "origin": "",
               "type": "markdown",
@@ -34052,6 +34323,52 @@
               "children": [
                 {
                   "name": {
+                    "en": "My agents",
+                    "es": "Mis agentes",
+                    "pt": "Meus agentes"
+                  },
+                  "slug": {
+                    "en": "assigning-and-testing-agents-in-agent-builder",
+                    "es": "asignar-y-probar-agentes",
+                    "pt": "atribuir-e-testar-agentes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Official agents from VTEX CX Platform",
+                        "es": "Agentes oficiales de VTEX CX Platform",
+                        "pt": "Agentes oficiais do VTEX CX Platform"
+                      },
+                      "slug": {
+                        "en": "official-agents-from-vtex-cx-platform",
+                        "es": "agentes-oficiales-de-vtex-cx-platform",
+                        "pt": "agentes-oficiais-da-vtex-cx-platform"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring safety guardrails per project",
+                        "es": "Configurar barreras de seguridad por proyecto",
+                        "pt": "Configurar camadas extras de segurança por projeto"
+                      },
+                      "slug": {
+                        "en": "configuring-extra-safety-guardrails-per-project",
+                        "es": "configurar-capas-adicionales-de-seguridad-por-proyecto",
+                        "pt": "configurar-camadas-extras-de-seguranca-por-projeto"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
                     "en": "Automation flow",
                     "es": "Flujo de automatización",
                     "pt": "Fluxo de automação"
@@ -34141,9 +34458,9 @@
                         },
                         {
                           "name": {
-                            "en": "Call webhook: Making requests to external services",
+                            "en": "Call webhooks",
                             "es": "Call webhook: Cómo hacer llamadas a sistemas externos",
-                            "pt": "Call webhook: Making requests to external services"
+                            "pt": "Call webhooks"
                           },
                           "slug": {
                             "en": "call-webhook-making-requests-to-external-services",
@@ -34400,51 +34717,6 @@
                       ]
                     }
                   ]
-                },
-                {
-                  "name": {
-                    "en": "Official agents from VTEX CX Platform",
-                    "es": "Agentes oficiales de VTEX CX Platform",
-                    "pt": "Agentes oficiais do VTEX CX Platform"
-                  },
-                  "slug": {
-                    "en": "official-agents-from-vtex-cx-platform",
-                    "es": "agentes-oficiales-de-vtex-cx-platform",
-                    "pt": "agentes-oficiais-da-vtex-cx-platform"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Assigning and testing agents",
-                    "es": "Asignar y probar agentes",
-                    "pt": "Atribuir e testar agentes"
-                  },
-                  "slug": {
-                    "en": "assigning-and-testing-agents-in-agent-builder",
-                    "es": "asignar-y-probar-agentes",
-                    "pt": "atribuir-e-testar-agentes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring safety guardrails per project",
-                    "es": "Configurar barreras de seguridad por proyecto",
-                    "pt": "Configurar camadas extras de segurança por projeto"
-                  },
-                  "slug": {
-                    "en": "configuring-extra-safety-guardrails-per-project",
-                    "es": "configurar-capas-adicionales-de-seguridad-por-proyecto",
-                    "pt": "configurar-camadas-extras-de-seguranca-por-projeto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -34526,9 +34798,9 @@
             },
             {
               "name": {
-                "en": "Studio",
-                "es": "Estúdio",
-                "pt": "Estúdio"
+                "en": "Contacts",
+                "es": "Contactos",
+                "pt": "Contatos"
               },
               "slug": {
                 "en": "studio-subcategory",
@@ -34554,9 +34826,9 @@
                   "children": [
                     {
                       "name": {
-                        "en": "Select a message to schedule for later",
-                        "es": "Agendando envio de mensajes",
-                        "pt": "Agendando envio de mensagens"
+                        "en": "Scheduling a message",
+                        "es": "Programar un mensaje",
+                        "pt": "Agendar uma mensagem"
                       },
                       "slug": {
                         "en": "select-a-message-to-schedule-for-later",
@@ -34786,6 +35058,98 @@
             },
             {
               "name": {
+                "en": "Audit",
+                "es": "Auditoría",
+                "pt": "Auditoria"
+              },
+              "slug": {
+                "en": "audit-overview",
+                "es": "auditoria-overview",
+                "pt": "auditoria-overview"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": [
+                {
+                  "name": {
+                    "en": "Audit: Improvement backlog",
+                    "es": "Auditoría: Backlog de mejoras",
+                    "pt": "Auditoria: Backlog de melhorias"
+                  },
+                  "slug": {
+                    "en": "audit-improvements-backlog",
+                    "es": "auditoria-backlog-de-mejoras",
+                    "pt": "auditoria-backlog-de-melhorias"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Audit: Conversations",
+                    "es": "Auditoría: Conversaciones",
+                    "pt": "Auditoria: Conversas"
+                  },
+                  "slug": {
+                    "en": "audit-conversations",
+                    "es": "auditoria-conversaciones",
+                    "pt": "auditoria-conversas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Settings",
+                "es": "Configuración",
+                "pt": "Configurações"
+              },
+              "slug": {
+                "en": "vtex-cx-platform-settings-subcategory",
+                "es": "configuraciones-vtex-cx-platform-subcategoria",
+                "pt": "configurações-vtex-cx-platform-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "CX Platform settings: Workspace",
+                    "es": "Configuración de CX Platform: Workspace",
+                    "pt": "Configurações CX Platform: Espaço de trabalho"
+                  },
+                  "slug": {
+                    "en": "cx-platform-settings-workspace",
+                    "es": "configuracion-de-cx-platform-espacio-de-trabajo",
+                    "pt": "configuracoes-cx-platform-espaco-de-trabalho"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Managing VTEX CX Platform members",
+                    "es": "Gestionar miembros de VTEX CX Platform",
+                    "pt": "Gerenciar membros do VTEX CX Platform"
+                  },
+                  "slug": {
+                    "en": "managing-vtex-cx-platform-members",
+                    "es": "administrar-miembros-de-la-plataforma-vtex-cx",
+                    "pt": "gerenciar-membros-do-vtex-cx-platform"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Integrations",
                 "es": "Integraciones",
                 "pt": "Integrações"
@@ -34801,7 +35165,7 @@
                 {
                   "name": {
                     "en": "WhatsApp: Integration with VTEX CX Platform",
-                    "es": "WhatsApp: Integración con VTEX CX Platform",
+                    "es": "WhatsApp: integración con VTEX CX Platform",
                     "pt": "WhatsApp: Integração com o VTEX CX Platform"
                   },
                   "slug": {
@@ -34861,7 +35225,7 @@
                       "name": {
                         "en": "Active message dispatch on WhatsApp",
                         "es": "Envío activo de mensajes en WhatsApp",
-                        "pt": "Disparo Ativo no WhatsApp"
+                        "pt": "Disparo ativo no WhatsApp"
                       },
                       "slug": {
                         "en": "active-message-dispatch-on-whatsapp",
@@ -35227,16 +35591,16 @@
                     "pt": "Shopping Assistant"
                   },
                   "slug": {
-                    "en": "cx-platform-shopping-assistant-subcategory",
-                    "es": "cx-platform-shopping-assistant-subcategoria",
-                    "pt": "cx-platform-shopping-assistant-subcategoria"
+                    "en": "shopping-assistant-overview",
+                    "es": "shopping-assistant-vision-general",
+                    "pt": "visao-geral-do-shopping-assistant"
                   },
                   "origin": "",
-                  "type": "category",
+                  "type": "markdown",
                   "children": [
                     {
                       "name": {
-                        "en": "Configurar o Shopping Assistant",
+                        "en": "Configuring the Shopping Assistant",
                         "es": "Configurar el Shopping Assistant",
                         "pt": "Configurar o Shopping Assistant"
                       },
@@ -35321,98 +35685,6 @@
                     "en": "how-to-use-the-applications-module",
                     "es": "como-utilizar-el-modulo-de-aplicaciones",
                     "pt": "como-utilizar-o-modulo-aplicativos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Settings",
-                "es": "Configuración",
-                "pt": "Configurações"
-              },
-              "slug": {
-                "en": "vtex-cx-platform-settings-subcategory",
-                "es": "configuraciones-vtex-cx-platform-subcategoria",
-                "pt": "configurações-vtex-cx-platform-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "CX Platform settings: Workspace",
-                    "es": "Configuración de CX Platform: Workspace",
-                    "pt": "Configurações CX Platform: Espaço de trabalho"
-                  },
-                  "slug": {
-                    "en": "cx-platform-settings-workspace",
-                    "es": "configuracion-de-cx-platform-espacio-de-trabajo",
-                    "pt": "configuracoes-cx-platform-espaco-de-trabalho"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing VTEX CX Platform members",
-                    "es": "Gestionar miembros de VTEX CX Platform",
-                    "pt": "Gerenciar membros do VTEX CX Platform"
-                  },
-                  "slug": {
-                    "en": "managing-vtex-cx-platform-members",
-                    "es": "administrar-miembros-de-la-plataforma-vtex-cx",
-                    "pt": "gerenciar-membros-do-vtex-cx-platform"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Audit",
-                "es": "Auditoría",
-                "pt": "Auditoria"
-              },
-              "slug": {
-                "en": "audit-overview",
-                "es": "auditoria-overview",
-                "pt": "auditoria-overview"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": [
-                {
-                  "name": {
-                    "en": "Audit: Improvement backlog",
-                    "es": "Auditoría: Backlog de mejoras",
-                    "pt": "Auditoria: Backlog de melhorias"
-                  },
-                  "slug": {
-                    "en": "audit-improvements-backlog",
-                    "es": "auditoria-backlog-de-mejoras",
-                    "pt": "auditoria-backlog-de-melhorias"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Audit: Conversations",
-                    "es": "Auditoría: Conversaciones",
-                    "pt": "Auditoria: Conversas"
-                  },
-                  "slug": {
-                    "en": "audit-conversations",
-                    "es": "auditoria-conversaciones",
-                    "pt": "auditoria-conversas"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -39851,6 +40123,21 @@
                 "en": "collections-page-in-organization-details-shows-only-20-collections",
                 "es": "la-pagina-colecciones-en-los-detalles-de-la-organizacion-solo-muestra-20-colecciones",
                 "pt": "a-pagina-colecoes-na-secao-detalhes-da-organizacao-mostra-apenas-20-colecoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Top Bar Customization Inactive Organization Message doesn't work",
+                "es": "El mensaje de organización inactiva de personalización de la barra superior no funciona.",
+                "pt": "A personalização da barra superior e a mensagem de organização inativa não funcionam."
+              },
+              "slug": {
+                "en": "top-bar-customization-inactive-organization-message-doesnt-work",
+                "es": "el-mensaje-de-organizacion-inactiva-de-personalizacion-de-la-barra-superior-no-funciona",
+                "pt": "a-personalizacao-da-barra-superior-e-a-mensagem-de-organizacao-inativa-nao-funcionam"
               },
               "origin": "",
               "type": "markdown",
@@ -51039,21 +51326,6 @@
             },
             {
               "name": {
-                "en": "Magazine Luiza Order with error \"Object reference not set to an instance of an object\"",
-                "es": "Magazine Luiza Pedido con el error «La referencia al objeto no se ha establecido en una instancia de un objeto»",
-                "pt": "Magazine Luiza Erro no pedido: \"Referência de objeto não definida para uma instância de objeto\""
-              },
-              "slug": {
-                "en": "magazine-luiza-order-with-error-object-reference-not-set-to-an-instance-of-an-object",
-                "es": "magazine-luiza-pedido-con-el-error-la-referencia-al-objeto-no-se-ha-establecido-en-una-instancia-de-un-objeto",
-                "pt": "magazine-luiza-erro-no-pedido-referencia-de-objeto-nao-definida-para-uma-instancia-de-objeto"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Magazine Luiza Orders with APPROVED status on the marketplace are not being approved on VTEX",
                 "es": "Magazine Luiza Los pedidos con el estado «APROBADO» en el marketplace no se están aprobando en VTEX",
                 "pt": "Magazine Luiza Os pedidos com o status \"APROVADO\" no marketplace não estão sendo aprovados no VTEX"
@@ -51077,21 +51349,6 @@
                 "en": "magazine-luiza-order-canceled-on-marketplace-didnt-cancel-on-vtex",
                 "es": "magazine-luiza-el-pedido-cancelado-en-marketplace-no-se-ha-cancelado-en-vtex",
                 "pt": "magazine-luiza-pedido-cancelado-no-marketplace-mas-nao-no-vtex"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Magazine Luiza Orders pending dispatch authorization even if approved by Marketplace",
-                "es": "Magazine Luiza Pedidos pendientes de autorización de envío, incluso si son aprobados por Marketplace.",
-                "pt": "Magazine Luiza Pedidos aguardando autorização de envio mesmo se aprovados pelo Marketplace"
-              },
-              "slug": {
-                "en": "magazine-luiza-orders-pending-dispatch-authorization-even-if-approved-by-marketplace",
-                "es": "magazine-luiza-pedidos-pendientes-de-autorizacion-de-envio-incluso-si-son-aprobados-por-marketplace",
-                "pt": "magazine-luiza-pedidos-aguardando-autorizacao-de-envio-mesmo-se-aprovados-pelo-marketplace"
               },
               "origin": "",
               "type": "markdown",
@@ -51317,21 +51574,6 @@
                 "en": "mercado-livre-main-image-not-respected",
                 "es": "mercado-livre-imagen-principal-no-respetada",
                 "pt": "mercado-livre-imagem-principal-nao-respeitada"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Mercado Livre Multi-Origin - orders allocated to inactive stock",
-                "es": "Mercado Livre Multi-Origen - pedidos asignados a stock inactivo",
-                "pt": "Mercado Livre Multi-Origem - pedidos alocados a estoque inativo"
-              },
-              "slug": {
-                "en": "mercado-livre-multiorigin-orders-allocated-to-inactive-stock",
-                "es": "mercado-livre-multiorigen-pedidos-asignados-a-stock-inactivo",
-                "pt": "mercado-livre-multiorigem-pedidos-alocados-a-estoque-inativo"
               },
               "origin": "",
               "type": "markdown",
@@ -58273,6 +58515,21 @@
                 "en": "new-ui-does-not-show-the-invoiced-value-on-return-items-page",
                 "es": "la-nueva-interfaz-de-usuario-no-muestra-el-valor-facturado-en-la-pagina-de-articulos-devueltos",
                 "pt": "a-nova-iu-nao-mostra-o-valor-faturado-na-pagina-de-itens-de-retorno"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Change Order V2 item removal with compensateShippingChanges + free shipping leaves non-zero price/sellingPrice per item in logisticsInfo",
+                "es": "Modificar pedido V2: eliminación de artículo con compensaciónShippingChanges + envío gratuito deja un precio/precio de venta distinto de cero por artículo en logisticsInfo",
+                "pt": "A remoção do item Change Order V2 com compensationShippingChanges + frete grátis resulta em um preço/preço de venda diferente de zero por item em logisticsInfo."
+              },
+              "slug": {
+                "en": "change-order-v2-item-removal-with-compensateshippingchanges-free-shipping-leaves-nonzero-pricesellingprice-per-item-in-logisticsinfo",
+                "es": "modificar-pedido-v2-eliminacion-de-articulo-con-compensacionshippingchanges-envio-gratuito-deja-un-precioprecio-de-venta-distinto-de-cero-por-articulo-en-logisticsinfo",
+                "pt": "a-remocao-do-item-change-order-v2-com-compensationshippingchanges-frete-gratis-resulta-em-um-precopreco-de-venda-diferente-de-zero-por-item-em-logisticsinfo"
               },
               "origin": "",
               "type": "markdown",
@@ -68552,6 +68809,21 @@
             },
             {
               "name": {
+                "en": "PLP renders blank on Back navigation after pagination, PDP regionalization, and full reload",
+                "es": "La PLP se muestra en blanco en la navegación hacia atrás después de la paginación, la regionalización de PDP y la recarga completa.",
+                "pt": "A página inicial (PLP) fica em branco na navegação para trás após paginação, regionalização da página de detalhes do produto (PDP) e recarregamento completo."
+              },
+              "slug": {
+                "en": "plp-renders-blank-on-back-navigation-after-pagination-pdp-regionalization-and-full-reload",
+                "es": "la-plp-se-muestra-en-blanco-en-la-navegacion-hacia-atras-despues-de-la-paginacion-la-regionalizacion-de-pdp-y-la-recarga-completa",
+                "pt": "a-pagina-inicial-plp-fica-em-branco-na-navegacao-para-tras-apos-paginacao-regionalizacao-da-pagina-de-detalhes-do-produto-pdp-e-recarregamento-completo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Position on selected image on PDP doesn't reset when changing product",
                 "es": "La posición de la imagen seleccionada en la PDP no se restablece al cambiar de producto",
                 "pt": "A posição na imagem selecionada no PDP não é reinicializada ao mudar de produto"
@@ -69122,6 +69394,21 @@
             },
             {
               "name": {
+                "en": "region_id outside the Base64 format discards the visitor's region from the session during SSR",
+                "es": "Si region_id no está en formato Base64, se descarta la región del visitante de la sesión durante el SSR.",
+                "pt": "O `region_id` fora do formato Base64 descarta a região do visitante da sessão durante a renderização no servidor (SSR)."
+              },
+              "slug": {
+                "en": "regionid-outside-the-base64-format-discards-the-visitors-region-from-the-session-during-ssr",
+                "es": "si-regionid-no-esta-en-formato-base64-se-descarta-la-region-del-visitante-de-la-sesion-durante-el-ssr",
+                "pt": "o-regionid-fora-do-formato-base64-descarta-a-regiao-do-visitante-da-sessao-durante-a-renderizacao-no-servidor-ssr"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "AB Tester app shows miscalculated information for sessions and conversion",
                 "es": "La aplicación AB Tester muestra información errónea sobre sesiones y conversión",
                 "pt": "O aplicativo AB Tester mostra informações mal calculadas para sessões e conversão"
@@ -69190,6 +69477,21 @@
                 "en": "breadcrumb-not-being-read-by-crawlers-due-ssr-timeout",
                 "es": "los-rastreadores-no-leen-la-ruta-de-navegacion-debido-a-un-tiempo-de-espera-de-ssr",
                 "pt": "o-breadcrumb-nao-esta-sendo-lido-pelos-rastreadores-devido-ao-tempo-limite-do-ssr"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Custom header with key \"Link\" is not delivered on Store Framework stores",
+                "es": "El encabezado personalizado con la clave \"Link\" no se entrega en las tiendas de Store Framework.",
+                "pt": "O cabeçalho personalizado com a chave \"Link\" não é entregue em lojas com o Store Framework."
+              },
+              "slug": {
+                "en": "custom-header-with-key-link-is-not-delivered-on-store-framework-stores",
+                "es": "el-encabezado-personalizado-con-la-clave-link-no-se-entrega-en-las-tiendas-de-store-framework",
+                "pt": "o-cabecalho-personalizado-com-a-chave-link-nao-e-entregue-em-lojas-com-o-store-framework"
               },
               "origin": "",
               "type": "markdown",
@@ -70536,6 +70838,21 @@
             },
             {
               "name": {
+                "en": "Amazon Listing SKU can’t be sent through Product publication after its images are replaced in the catalog",
+                "es": "Amazon Listado El SKU no se puede enviar a través de la publicación del producto después de que sus imágenes se hayan reemplazado en el catálogo.",
+                "pt": "Amazon Listagem O SKU não pode ser enviado através da publicação do produto após a substituição de suas imagens no catálogo."
+              },
+              "slug": {
+                "en": "amazon-listing-sku-cant-be-sent-through-product-publication-after-its-images-are-replaced-in-the-catalog",
+                "es": "amazon-listado-el-sku-no-se-puede-enviar-a-traves-de-la-publicacion-del-producto-despues-de-que-sus-imagenes-se-hayan-reemplazado-en-el-catalogo",
+                "pt": "amazon-listagem-o-sku-nao-pode-ser-enviado-atraves-da-publicacao-do-produto-apos-a-substituicao-de-suas-imagens-no-catalogo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Amazon NF-e for Amazon DBA (Easy Ship) orders rejected when a promotional discount is applied by the buyer",
                 "es": "Amazon Los pedidos NF-e para Amazon DBA (Easy Ship) son rechazados cuando el comprador aplica un descuento promocional.",
                 "pt": "Amazon NF-e para pedidos Amazon DBA (Easy Ship) rejeitados quando um desconto promocional é aplicado pelo comprador"
@@ -70746,6 +71063,21 @@
             },
             {
               "name": {
+                "en": "Magalu SLA not available in Multilevel architecture",
+                "es": "Magalu SLA no disponible en arquitectura multinivel",
+                "pt": "Magalu SLA não disponível na arquitetura multinível"
+              },
+              "slug": {
+                "en": "magalu-sla-not-available-in-multilevel-architecture",
+                "es": "magalu-sla-no-disponible-en-arquitectura-multinivel",
+                "pt": "magalu-sla-nao-disponivel-na-arquitetura-multinivel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Magazine Luiza - Main Image not respected",
                 "es": "Magazine Luiza - Imagen principal no respetada",
                 "pt": "Magazine Luiza - Imagem principal não respeitada"
@@ -70784,6 +71116,36 @@
                 "en": "magazine-luiza-order-canceled-on-marketplace-didnt-update-status-on-vtex",
                 "es": "magazine-luiza-el-pedido-cancelado-en-el-mercado-no-se-actualizo-en-vtex",
                 "pt": "magazine-luiza-pedido-cancelado-no-marketplace-mas-o-status-nao-foi-atualizado-no-vtex"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Magazine Luiza Order with error \"Object reference not set to an instance of an object\"",
+                "es": "Magazine Luiza Pedido con error \"La referencia a objeto no está establecida en una instancia de un objeto\"",
+                "pt": "Magazine Luiza Pedido com erro \"Referência de objeto não definida para uma instância de um objeto\""
+              },
+              "slug": {
+                "en": "magazine-luiza-order-with-error-object-reference-not-set-to-an-instance-of-an-object",
+                "es": "magazine-luiza-pedido-con-error-la-referencia-a-objeto-no-esta-establecida-en-una-instancia-de-un-objeto",
+                "pt": "magazine-luiza-pedido-com-erro-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Magazine Luiza Orders pending dispatch authorization even if approved by Marketplace",
+                "es": "Magazine Luiza Pedidos pendientes de autorización de envío, incluso si son aprobados por Marketplace.",
+                "pt": "Magazine Luiza Pedidos aguardando autorização de envio mesmo se aprovados pelo Marketplace"
+              },
+              "slug": {
+                "en": "magazine-luiza-orders-pending-dispatch-authorization-even-if-approved-by-marketplace",
+                "es": "magazine-luiza-pedidos-pendientes-de-autorizacion-de-envio-incluso-si-son-aprobados-por-marketplace",
+                "pt": "magazine-luiza-pedidos-aguardando-autorizacao-de-envio-mesmo-se-aprovados-pelo-marketplace"
               },
               "origin": "",
               "type": "markdown",
@@ -70844,6 +71206,21 @@
                 "en": "mercado-livre-error-when-reauthenticating-the-integration",
                 "es": "mercado-livre-error-al-volver-a-autenticar-la-integracion",
                 "pt": "mercado-livre-erro-ao-reautenticar-a-integracao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Multi-Origin - orders allocated to inactive stock",
+                "es": "Mercado Livre Multi-Origen - pedidos asignados a stock inactivo",
+                "pt": "Mercado Livre Multi-Origem - pedidos alocados a estoque inativo"
+              },
+              "slug": {
+                "en": "mercado-livre-multiorigin-orders-allocated-to-inactive-stock",
+                "es": "mercado-livre-multiorigen-pedidos-asignados-a-stock-inactivo",
+                "pt": "mercado-livre-multiorigem-pedidos-alocados-a-estoque-inativo"
               },
               "origin": "",
               "type": "markdown",

@@ -3,7 +3,7 @@ title: "Utilizar el módulo de aplicaciones"
 id: 6Nd01r7zysXn1tvmoq1XHY
 status: PUBLISHED
 createdAt: 2025-09-15T14:55:25.130Z
-updatedAt: 2026-11-12T12:00:00.000Z
+updatedAt: 2026-11-13T14:40:00.000Z
 publishedAt: 2025-10-03T14:20:03.229Z
 firstPublishedAt: 2025-10-03T14:20:03.229Z
 contentType: tutorial
@@ -15,12 +15,12 @@ locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-VTEX CX Platform te permite realizar integraciones con tu chatbot en varios tipos de canales de comunicación, entre ellos:
+VTEX CX Platform permite integrar tu chatbot en varios canales de comunicación, entre ellos:
 
-[WhatsApp Demo](/es/docs/tutorials/como-crear-un-canal-en-whatsapp-demo), en el cual puedes utilizar la mayor aplicación de mensajería del mundo, de forma gratuita, para validar tu proyecto. Con un número compartido gratuito, puedes probar con 200 usuarios mensuales y utilizar todas las funciones disponibles en la plataforma, además de validar el funcionamiento y la atención de tu negocio por este canal.
+[WhatsApp Demo](/es/docs/tutorials/como-crear-un-canal-en-whatsapp-demo): usa un número compartido para probar un proyecto. El número compartido admite hasta 200 usuarios al mes.
 
-[Telegram](/es/docs/tutorials/como-crear-un-canal-en-telegram), puedes conectarte con una de las principales aplicaciones de mensajería para tu audiencia en la VTEX CX Platform. Envía y recibe textos, videos y audios a través de este canal, asegurando la comodidad de tu público, así como los recursos disponibles en la plataforma.
+[Telegram](/es/docs/tutorials/como-crear-un-canal-en-telegram): envía y recibe mensajes de texto, video y audio.
 
-[VTEX CX Platform Web Chat](/es/docs/tutorials/como-crear-un-canal-web), para tener la experiencia de atención humanizada de VTEX CX Platform en tu sitio web o plataforma online. Al integrar el canal, puedes personalizar aspectos como: color, separación entre mensajes, indicadores de mensajes, avatar, ¡y mucho más! Así, garantizas un chatbot con la imagen de tu marca.
+[VTEX CX Platform Web Chat](/es/docs/tutorials/como-crear-un-canal-web): agrega un chat a tu sitio web. Puedes configurar el color, el tiempo entre mensajes, los indicadores de mensaje y el avatar.
 
-También puedes conectarte con **Facebook** y muchos otros canales a través de la sección de **configuraciones**, los cuales están detallados en la documentación sobre cómo crear un canal.
+También puedes conectarte con **Facebook** y muchos otros canales a través de la sección de **configuraciones**, como se describe en la documentación sobre cómo crear un canal.

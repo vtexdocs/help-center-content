@@ -3,7 +3,7 @@ title: "Crear un canal en Instagram"
 id: 2OIxJaBTkfZbTAvGh0Ykuv
 status: PUBLISHED
 createdAt: 2025-09-15T14:18:02.785Z
-updatedAt: 2026-11-12T12:00:00.000Z
+updatedAt: 2026-11-13T14:40:00.000Z
 publishedAt: 2025-10-03T14:20:33.457Z
 firstPublishedAt: 2025-10-03T14:20:33.457Z
 contentType: tutorial
@@ -15,17 +15,11 @@ locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Instagram ha alcanzado el hito de 2.000 millones de usuarios activos, de los cuales más de 500 millones navegan diariamente, no solo buscando interacción, sino también servicios y productos.
-
-Ahora, imagina que tu institución no está presente y activa en este canal. Ya no es una red social para compartir fotos y videos de la vida cotidiana, sino una vitrina para hacer negocios y asociaciones importantes.
-
-Ahora puedes elevar el nivel y potencial de tu atención al cliente integrando tu Instagram con la plataforma VTEX CX Platform.
-
-De esta manera, creas más compromiso e interacción con tus seguidores, clientes potenciales y socios, aumentando las posibilidades de cerrar nuevos proyectos mientras reduces los costos operativos de atención.
+Un canal de Instagram permite que los contactos envíen mensajes a tu cuenta profesional de Instagram desde VTEX CX Platform. Antes de crear el canal, convierte la cuenta de Instagram en una cuenta profesional y conéctala a una página de Facebook.
 
 ## Configurar la cuenta de Instagram
 
-Las configuraciones a continuación son de suma importancia para la creación del canal de Instagram en nuestra plataforma, ya que sin ellas, la creación no será posible. Los siguientes pasos deberán realizarse en la aplicación de Instagram.
+Para crear el canal, la cuenta de Instagram debe ser una cuenta profesional conectada a una página de Facebook. Completa los siguientes pasos en la aplicación de Instagram.
 
 ### Convertir la cuenta en profesional
 

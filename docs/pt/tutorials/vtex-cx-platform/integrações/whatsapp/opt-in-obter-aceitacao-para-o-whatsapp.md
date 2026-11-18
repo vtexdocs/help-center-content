@@ -3,7 +3,7 @@ title: 'Opt-In: Obter aceitação para o WhatsApp'
 id: 1zqhPT4869IgWgRZ6eJDkv
 status: PUBLISHED
 createdAt: 2025-09-15T15:35:50.207Z
-updatedAt: 2026-11-12T12:00:00.000Z
+updatedAt: 2026-11-13T14:30:00.000Z
 publishedAt: 2025-10-03T14:20:32.308Z
 firstPublishedAt: 2025-10-03T14:20:32.308Z
 contentType: tutorial
@@ -37,18 +37,16 @@ Se o método de coleta cumprir os requisitos acima, ele estará conforme as pol�
 - **Telefone (IVR)**: Use fluxos de resposta interativa de voz para obter o consentimento.
 - **Presencial ou Documento Físico**: Colete o consentimento pessoalmente ou por meio de formulários físicos assinados pelo cliente.
 
-É altamente recomendável que as empresas otimizem constantemente a experiência do usuário ao desenvolver seus fluxos de aceitação.
-
 ### Dicas para melhorar a experiência de aceitação
 
-Para garantir uma experiência positiva e otimizada, as empresas devem seguir as boas práticas abaixo ao obter o consentimento:
+Ao solicitar o consentimento, siga estas práticas:
 
 - **Crie Expectativas Claras**: Certifique-se de que os usuários saibam que tipo de mensagens receberão e em quais contextos.
 - **Englobe Diversas Categorias de Mensagens**: Ao solicitar o consentimento, inclua todas as categorias relevantes, como atualizações de pedidos, promoções e recomendações de produtos.
 - **Aceitação por Categoria**: Obtenha consentimentos específicos para cada tipo de mensagem, o que reduz o risco de o usuário bloquear a empresa por mensagens não solicitadas.
 - **Ofereça Opções de Recusa**: Informe como os usuários podem optar por não receber determinadas categorias de mensagens e respeite essas preferências.
 - **Fluxos**: Assegure-se de que os processos de aceitação e recusa sejam curtos.
-- **Explique a Relevância**: Comunique a importância e os benefícios de receber informações pelo WhatsApp, garantindo que os usuários entendam o valor dessas interações.
+- **Explique o tipo de mensagem**: Informe ao contato quais mensagens ele vai receber, como atualizações de pedido ou promoções.
 - **Monitore a Qualidade Regularmente**: Esteja atento à classificação de qualidade da empresa, especialmente ao implantar novos métodos de coleta de consentimento.
 
 ## Qualidade das interações
