@@ -26670,6 +26670,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with BellunoPagamentos",
+                        "es": "Configurar pago con BellunoPagamentos",
+                        "pt": "Configurar pagamento com Belluno Pagamentos"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-bellunopagamentos",
+                        "es": "configurar-pago-con-bellunopagamentos",
+                        "pt": "configurar-pagamento-com-bellunopagamentos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with Bizum",
                         "es": "Configurar pago con Bizum",
                         "pt": "Configurar pagamento com Bizum"
@@ -26783,6 +26798,21 @@
                         "en": "setting-up-payments-with-brinks-cash-ecommerce",
                         "es": "configurar-pago-con-brinks-cash-ecommerce",
                         "pt": "configurar-pagamento-com-brinks-cash-ecommerce"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with Cencosud-Pay-Ar",
+                        "es": "Configurar pago con Cencosud-Pay-Ar",
+                        "pt": "Configurar pagamento com Cencosud-Pay-Ar"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-cencosud-pay-ar",
+                        "es": "configurar-pago-con-cencosud-pay-ar",
+                        "pt": "configurar-pagamento-com-cencosud-pay-ar"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -26918,6 +26948,21 @@
                         "en": "setting-up-payments-with-credimarcas",
                         "es": "configurar-pago-con-credimarcas",
                         "pt": "configurar-pagamento-com-credimarcas"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with CrediPay",
+                        "es": "Configurar pago con CrediPay",
+                        "pt": "Configurar pagamento com CrediPay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-credipay",
+                        "es": "configurar-pago-con-credipay",
+                        "pt": "configurar-pagamento-com-credipay"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -27136,6 +27181,36 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with DripPixParcelado",
+                        "es": "Configurar pago con DripPixParcelado",
+                        "pt": "Configurar pagamento com DripPixParcelado"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-drippixparcelado",
+                        "es": "configurar-pago-con-drippixparcelado",
+                        "pt": "configurar-pagamento-com-drippixparcelado"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with E-fek",
+                        "es": "Configurar pago con E-fek",
+                        "pt": "Configurar pagamento com E-fek"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-e-fek",
+                        "es": "configurar-pago-con-e-fek",
+                        "pt": "configurar-pagamento-com-e-fek"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with e-Sitef",
                         "es": "Configurar pago con e-Sitef",
                         "pt": "Configurar pagamento com e-SiTef"
@@ -27234,6 +27309,21 @@
                         "en": "setting-up-payments-with-epago",
                         "es": "configurar-pago-con-epago",
                         "pt": "configurar-pagamento-com-epago"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with ePayCencosud",
+                        "es": "Configurar pago con ePayCencosud",
+                        "pt": "Configurar pagamento com ePayCencosud"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-epaycencosud",
+                        "es": "configurar-pago-con-epaycencosud",
+                        "pt": "configurar-pagamento-com-epaycencosud"
                       },
                       "origin": "",
                       "type": "markdown",
