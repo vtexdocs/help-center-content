@@ -86,6 +86,16 @@ Adding content during setup is optional. You can update the agent's knowledge la
 
 After creating the project, invite your team and assign only the permissions they need. For instructions, see [Managing VTEX CX Platform members](https://help.vtex.com/en/docs/tutorials/managing-vtex-cx-platform-members).
 
+### Connecting an existing project
+
+If you already have projects in the VTEX CX Platform, you can connect them to the VTEX Admin.
+
+1. In the VTEX Admin, go to **Storefront > VTEX CX Platform > Dashboard**.
+2. Click `Select existing project`, in the **Connect existing project** card.
+3. Choose the organization that contains the project. You're redirected to the VTEX Admin Dashboard.
+
+> ℹ️ Some advanced features may have limitations in the VTEX Admin Dashboard. For advanced settings, use the [VTEX CX Platform](https://dash.weni.ai).
+
 ## Roles and permissions
 
 Permissions can apply to an entire organization or to an individual project.
