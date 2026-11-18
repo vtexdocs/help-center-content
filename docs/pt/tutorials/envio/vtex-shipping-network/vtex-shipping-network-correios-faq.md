@@ -15,15 +15,13 @@ locale: pt
 subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
-> ⚠️ Esta funcionalidade não está disponível para novos clientes.
+> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, envie um email para *suporte.shipping@lojaintegrada.com.br*.
 
-> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/). Em caso de dúvidas, entre em contato pelo email *suporte.shipping@lojaintegrada.com.br*.
-
-Este artigo reúne as dúvidas mais comuns sobre o [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/), a solução da VTEX para você integrar sua operação com os serviços PAC e SEDEX dos Correios pelo Admin VTEX, dispor de recursos exclusivos e aproveitar nossas tarifas competitivas.
+Este artigo reúne as dúvidas mais comuns sobre o VTEX Shipping Network Correios, a solução da VTEX para você integrar sua operação com os serviços PAC e SEDEX dos Correios pelo Admin VTEX, dispor de recursos exclusivos e aproveitar nossas tarifas competitivas.
 
 ## 1. O que é o VTEX Shipping Network Correios?
 
-[VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/) é a solução que permite você contratar e habilitar os serviços PAC e SEDEX dos Correios diretamente pela plataforma VTEX, de forma _Plug and Play_, ou seja, com poucos passos você integra a sua operação e começa a usar o produto. 
+VTEX Shipping Network Correios é a solução que permite você contratar e habilitar os serviços PAC e SEDEX dos Correios diretamente pela plataforma VTEX, de forma _Plug and Play_, ou seja, com poucos passos você integra a sua operação e começa a usar o produto. 
 
 Para as lojas VTEX, as tabelas dos Correios ofertadas têm preços especiais, de forma a reduzir os custos logísticos do seu negócio. Não existe a necessidade de investimento inicial, uso mínimo da solução ou pré-requisitos.
 
@@ -31,7 +29,7 @@ Para as lojas VTEX, as tabelas dos Correios ofertadas têm preços especiais, de
 
 O **VTEX Shipping Network Correios** integra exclusivamente com os serviços PAC e SEDEX dos Correios e você pode contratar a solução pelo seu Admin VTEX. Saiba mais em [Como contratar o VTEX Shipping Network Correios?](#7-como-contratar-o-vtex-shipping-network-correios).
 
-O **VTEX Shipping Network** permite integrar a sua operação com os Correios e com outras transportadoras, sugeridas a partir de uma seleção da nossa equipe para o seu modelo de negócio. O **VTEX Shipping Network** precisa ser implantado pela nossa equipe e, para contratá-la, é necessário entrar em contato pelo [site de vendas](https://vtex.com/br-pt/shipping-network/).
+O **VTEX Shipping Network** permite integrar a sua operação com os Correios e com outras transportadoras, sugeridas a partir de uma seleção da nossa equipe para o seu modelo de negócio. O **VTEX Shipping Network** precisa ser implantado pela nossa equipe e, para contratá-la, é necessário entrar em contato pelo email *suporte.shipping@lojaintegrada.com.br*.
 
 Ou seja, as soluções possuem escopos diferentes, apesar de disponibilizarem as mesmas funcionalidades, descritas abaixo:
 
