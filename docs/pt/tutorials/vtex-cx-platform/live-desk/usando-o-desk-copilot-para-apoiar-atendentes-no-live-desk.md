@@ -43,7 +43,6 @@ O Desk Copilot ajuda atendentes humanos no Live Desk a responder clientes com ma
 4. Escolha uma das ações:
    - Clique em **Copiar** para copiar a sugestão para o campo de mensagem e editá-la antes do envio.
    - Clique em **Enviar** para enviar a sugestão sem alterações.
-5. Revise o texto e clique em **Enviar** no campo de mensagem.
 
 A cada nova mensagem do cliente, o Desk Copilot atualiza o resumo e as sugestões durante o atendimento.
 
