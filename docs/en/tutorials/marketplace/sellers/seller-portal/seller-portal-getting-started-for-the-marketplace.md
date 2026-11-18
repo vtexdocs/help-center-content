@@ -129,8 +129,8 @@ To learn more, check the following articles:
 
 ## Additional information
 
-**Promotions:** only the marketplace can create and manage [promotions](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR). 
+**Promotions:** only the marketplace can create and manage [promotions](/en/docs/tracks/promotions). 
 
-**Payments:** when the marketplace is responsible for processing [payments](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG), the commissioning and transfer of seller billing are done outside the VTEX environment.
+**Payments:** when the marketplace is responsible for processing [payments](/en/docs/tracks/payments), the commissioning and transfer of seller billing are done outside the VTEX environment.
 
 -	[Choosing between standard account, franchise account or Seller Portal](/en/docs/tutorials/choosing-between-standard-account-franchise-account-or-seller-portal)

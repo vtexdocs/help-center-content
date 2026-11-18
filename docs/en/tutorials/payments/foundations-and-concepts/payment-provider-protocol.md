@@ -1,7 +1,7 @@
 ---
 title: 'Payment Provider Protocol'
 createdAt: 2018-01-02T15:40:00.920Z
-updatedAt: 2026-10-13T00:00:00.000Z
+updatedAt: 2026-11-16T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
 slugEN: payment-provider-protocol
@@ -132,8 +132,8 @@ In asynchronous tests, the provider responds to the Create Payment request with 
 | ------------------- | ------------------------------------------------------------------------------------------ | ---------------------------- |
 | Async approved flow | `undefined`                                                                                | `approved`                   |
 | Async denied flow   | `undefined`                                                                                | `denied`                     |
-| Boleto flow         | `undefined`, with the boleto URL entered in the `bankIssueInvoiceUrl` field                | `approved`                   |
-| Redirect flow       | `undefined`, with the URL used to redirect the customer entered in the `redirectUrl` field | `approved`                   |
+| Boleto flow         | `undefined`, with the boleto URL entered in the `paymentUrl` field                         | `approved`                   |
+| Redirect flow       | `undefined`, with the URL used to redirect the customer entered in the `paymentUrl` field  | `approved`                   |
 
 With the integration in production, the call to `callbackUrl` must be authenticated with the partner's [VTEX credentials](#vtex-credentials). You can learn more about the callback flow in the [Payment Authorization](#payment-authorization) section.
 

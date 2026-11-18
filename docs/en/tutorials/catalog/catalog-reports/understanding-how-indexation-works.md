@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6jaCCq5pVL7VxL0WNWV0cF
 ---
 
-> ❗ Due to changes in the platform, the page **Catalog > Reports > Indexed Products** is displaying inaccurate data and metrics and should not be used as a reference for indexing. Learn more about this [known issue](https://help.vtex.com/known-issues/catalog-indexing-report-returning-wrong-stats).
+> ❗ Due to changes in the platform, the page **Catalog > Reports > Indexed Products** is displaying inaccurate data and metrics and should not be used as a reference for indexing. Learn more about this [known issue](https://help.vtex.com/en/known-issues/catalog-indexing-report-returning-wrong-stats).
 
 > ⚠️ This tutorial is valid only for stores using [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal) search. If your store uses [Intelligent Search](/en/docs/tracks/overview-intelligent-search), check [Indexing History ](/en/docs/tutorials/indexing-history) to follow the indexing process.
 

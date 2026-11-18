@@ -21,7 +21,7 @@ Una de las funciones de la política comercial es hacer una diferenciación de _
 
 ![carrefour.1es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/canales-de-venta/marketplace/configurar-integracion-netshoes/configurar-la-politica-comercial-para-marketplace_1.png)
 
-La misma política comercial puede ser utilizada por más de un marketplace o entre tienda principal y marketplace. Para esto, basta con utilizar el mismo ID de política comercial en la [configuración](/es/tutorial/integrando-con-marketplace). Al hacer esto, se utilizará el mismo catálogo y la misma logística para las tiendas o canales que están configurados con la misma política comercial.
+La misma política comercial puede ser utilizada por más de un marketplace o entre tienda principal y marketplace. Para esto, basta con utilizar el mismo ID de política comercial en la [configuración](/es/docs/tutorials/estrategias-de-marketplace-en-vtex). Al hacer esto, se utilizará el mismo catálogo y la misma logística para las tiendas o canales que están configurados con la misma política comercial.
 
 ![carrefour.2es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/canales-de-venta/marketplace/configurar-integracion-netshoes/configurar-la-politica-comercial-para-marketplace_2.png)
 
@@ -48,6 +48,6 @@ Para definir el catálogo de productos que será enviado al marketplace, el admi
 
 La simulación de flete y actualización de stock depende de una previa configuración de la logística que atenderá a la política comercial asociada al marketplace. Las configuraciones necesarias son aquellas estándares para la logística de la tienda. Sin embargo, es en el muelle que usted debe asociar la política comercial vinculada al marketplace.
 
-1. [Cree o edite un muelle](/es/tutorial/como-crear-muelle) asociando a la política comercial.
+1. [Cree o edite un muelle](/es/docs/tutorials/gestionar-el-muelle) asociando a la política comercial.
 2. [Asocie una transportadora](/es/tutorial/gestionar-transportista) a este muelle.
 3. Compruebe si hay algún [stock](/es/tutorial/gerenciar-inventario) que se asocie a este muelle.

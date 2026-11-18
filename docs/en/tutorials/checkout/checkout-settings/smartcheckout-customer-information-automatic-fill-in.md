@@ -57,9 +57,9 @@ At checkout, the customer's information is automatically filled in as follows:
 </ul>
 > ⚠️ If payment with a credit or debit card is chosen, the following additional security criteria will apply: <ul> <li>The CVV (Card Verification Value) will be requested for final validation and completion of the purchase order.</li> <li>The customer won't be able to pay with a debit or credit card if the address is different from the one stored on the profile.</li> </ul>
 
-Changes to the stored data, such as address or phone number, will only be allowed once the customer is [authenticated in the store](/en/tutorial/como-meu-cliente-pode-fazer-login-na-minha-loja--3FCNpwbpZe0U4auiI4CC0C#). 
+Changes to the stored data, such as address or phone number, will only be allowed once the customer is [authenticated in the store](/en/docs/tutorials/how-can-my-customer-login-to-my-store#). 
 
-For more information on data protection, visit [SmartCheckout Security](/en/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
+For more information on data protection, visit [SmartCheckout Security](/en/docs/tutorials/smartcheckout-security#).
 
 ### Learn more
 

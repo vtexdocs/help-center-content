@@ -74,20 +74,20 @@ En el escenario B2B, normalmente se utiliza información básica como nombre, *e
 
 > ❗ El campo utilizado como regla condicional en la política comercial **nunca podrá formar parte del formulario**, ya que el usuario no puede realizar su propia aprobación, esa es una responsabilidad de la tienda.
 
-En VTEX, los formularios se crean a través de [Master Data](/es/docs/tutorials/master-data) —base de datos de la tienda— que almacena la información de la base de clientes de la tienda organizando los datos recibidos a través de los formularios en campos agrupados en diferentes entidades. 
+En VTEX, los formularios se crean a través de [Master Data](/es/docs/tutorials/master-data-es) —base de datos de la tienda— que almacena la información de la base de clientes de la tienda organizando los datos recibidos a través de los formularios en campos agrupados en diferentes entidades. 
 
 Para crear un formulario:
 
-1. Cree una entidad de datos con toda la información que desea que conste en el formulario. En caso de que tenga dudas, consulte el artículo sobre [cómo crear una entidad de datos en Master Data](/es/tutorial/criando-entidade-de-dados--tutorials_1265?&utm_source=autocomplete).
+1. Cree una entidad de datos con toda la información que desea que conste en el formulario. En caso de que tenga dudas, consulte el artículo sobre [cómo crear una entidad de datos en Master Data](/es/docs/tutorials/entidade-de-datos?&utm_source=autocomplete).
 
-2. Cree un formulario utilizando el tutorial para [crear formularios en Master Data](/es/tutorial/criando-formulario-no-master-data/).
+2. Cree un formulario utilizando el tutorial para [crear formularios en Master Data](/es/docs/tutorials/creando-formulario-en-master-data).
 
 De esta forma, cuando un cliente complete el formulario, sus datos se incluirán en la tabla de clientes de Master Data.
 
 > ℹ️ Puede optar por crear un formulario con más recursos, tales como introducción automática del código postal, pestañas múltiples o la validación de la CNAE (Clasificación Nacional de Actividades Económicas). Si opta por este tipo de formulario, revise la documentación técnica de [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-new-custom-page).
 
 ### Aprobación de usuarios
-La aprobación de los usuarios, así como el registro, se realiza en [Master Data](/es/docs/tutorials/master-data). Corresponde a los responsables de la gestión del *ecommerce* aprobar el acceso de los clientes al contenido de la tienda. 
+La aprobación de los usuarios, así como el registro, se realiza en [Master Data](/es/docs/tutorials/master-data-es). Corresponde a los responsables de la gestión del *ecommerce* aprobar el acceso de los clientes al contenido de la tienda. 
 
 Para aprobar el acceso de los clientes a la tienda, es necesario que apruebe cada uno de los clientes que se registraron al completar el formulario. La aprobación se puede realizar a través del Admin o vía API.
 
@@ -109,11 +109,11 @@ Usted puede configurar estrategias de envío, muelles y *stocks* a través de la
 
 Cuando se configura a través del Admin, se necesita:
 
-1. __Asociar la política comercial para B2B a un muelle__\: la asociación se realiza completando el campo Políticas de envío y los canales de venta de la pantalla de registro/edición del muelle —si no hay muelles registrados en su tienda, deberá [registrar un muelle](/es/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW?&utm_source=autocomplete)—. En este campo, debe introducir la política comercial configurada para el escenario B2B.
+1. __Asociar la política comercial para B2B a un muelle__\: la asociación se realiza completando el campo Políticas de envío y los canales de venta de la pantalla de registro/edición del muelle —si no hay muelles registrados en su tienda, deberá [registrar un muelle](/es/docs/tutorials/gestionar-el-muelle?&utm_source=autocomplete)—. En este campo, debe introducir la política comercial configurada para el escenario B2B.
 
 2. __Asociar una transportadora al muelle elegido__\: esta asociación se realiza completando el campo Políticas de envío relacionadas que se muestra en la pantalla de registro/edición del muelle en el cual debe seleccionar la política comercial configurada para el escenario B2B. En caso de que no hayan transportadoras registradas en su tienda, deberá [registrar una transportadora](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/55MezrFTw2limlgT7KUg6l).
 
-3. __Definir un *stock* y asociarlo al muelle__\: esta asociación se realiza a través de la selección del muelle deseado en la pantalla de registro/edición de *stocks.* En caso de que no hayan *stocks* registrados en su tienda, deberá [registrar un *stock*](/es/tutorial/gerenciar-estoque). 
+3. __Definir un *stock* y asociarlo al muelle__\: esta asociación se realiza a través de la selección del muelle deseado en la pantalla de registro/edición de *stocks.* En caso de que no hayan *stocks* registrados en su tienda, deberá [registrar un *stock*](/es/docs/tutorials/gestionar-almacenes). 
 
 Cuando se efectúa la configuración a través de la [API de Logística](https://developers.vtex.com/vtex-developer-docs/reference/logistics-api-overview), se deben realizar los mismos pasos. Por tanto, puede utilizar el endpoint `[Post Create/Update Dock](https://developers.vtex.com/vtex-developer-docs/reference/docks#createupdatedock)` para asociar la política comercial al muelle, así como para asociar la transportadora al muelle completando los parámetros `salesChannels` y `freightTableIds`, respectivamente.  
 
@@ -153,7 +153,7 @@ A las tiendas que trabajan con un sistema de tributación simple en que solo se 
 
 - A través de la configuración de [tablas de precios](/es/docs/tracks/tablas-de-precio-definicion-de-concepto), en el caso de tributación, debe crear tablas que solo usen precios convencionales, ya que las tablas de precios promocionales no se pueden aplicar en este contexto. 
 
-- Através de la aplicación de [tasas](/es/tutorial/como-criar-taxaimposto/) a los precios de los SKUs para que los impuestos no se muestren en el estante de la tienda. 
+- Através de la aplicación de [tasas](/es/docs/tutorials/creando-la-tasaimpuesto) a los precios de los SKUs para que los impuestos no se muestren en el estante de la tienda. 
 
 ### Sistema de tributación complejo
 

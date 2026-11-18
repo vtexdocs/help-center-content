@@ -25,6 +25,52 @@
           "children": [
             {
               "name": {
+                "en": "November",
+                "es": "Noviembre",
+                "pt": "Novembro"
+              },
+              "slug": {
+                "en": "2026-november",
+                "es": "2026-noviembre",
+                "pt": "2026-novembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Live Desk: bulk sending of quick messages",
+                    "es": "Live Desk: envío masivo de mensajes rápidos",
+                    "pt": "Live Desk: envio de mensagens rápidas em massa"
+                  },
+                  "slug": {
+                    "en": "2026-11-16-live-desk-bulk-sending-of-quick-messages",
+                    "es": "2026-11-16-live-desk-envio-masivo-de-mensajes-rapidos",
+                    "pt": "2026-11-16-live-desk-envio-de-mensagens-rapidas-em-massa"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "VTEX CX Platform: Okta login for enterprise clients",
+                    "es": "VTEX CX Platform: inicio de sesión con Okta para clientes empresariales",
+                    "pt": "VTEX CX Platform: login com Okta para clientes enterprise"
+                  },
+                  "slug": {
+                    "en": "2026-11-16-vtex-cx-platform-enterprise-okta-login",
+                    "es": "2026-11-16-vtex-cx-platform-inicio-de-sesion-con-okta-para-clientes-empresariales",
+                    "pt": "2026-11-16-vtex-cx-platform-login-com-okta-para-clientes-enterprise"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "October",
                 "es": "Octubre",
                 "pt": "Outubro"
@@ -272,6 +318,21 @@
                     "en": "2026-10-06-vtex-cx-platform-support-for-bsuid-and-whatsapp-usernames",
                     "es": "2026-10-06-vtex-cx-platform-soporte-para-bsuid-y-nombres-de-usuario-de-whatsapp",
                     "pt": "2026-10-06-vtex-cx-platform-suporte-a-bsuid-e-usernames-do-whatsapp"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "New Destination retail page for publishers",
+                    "es": "Nueva página Retail de destino para publicadores",
+                    "pt": "Nova tela Varejo de destino para publishers"
+                  },
+                  "slug": {
+                    "en": "2026-10-02-destination-retail",
+                    "es": "2026-10-02-retail-de-destino",
+                    "pt": "2026-10-02-varejo-de-destino"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -22133,6 +22194,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Configuring Pix payment recovery",
+                    "es": "Configuración de la recuperación de pagos con Pix",
+                    "pt": "Configurando a recuperação de pagamento via Pix"
+                  },
+                  "slug": {
+                    "en": "configuring-pix-payment-recovery",
+                    "es": "configuracion-de-la-recuperacion-de-pagos-con-pix",
+                    "pt": "configurando-recuperacao-de-pagamento-via-pix"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Creating CX automations",
                     "es": "Crear automatizaciones de CX",
                     "pt": "Criar automações do CX"
@@ -26354,6 +26430,36 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with Almacenessi",
+                        "es": "Configurar pago con Almacenessi",
+                        "pt": "Configurar pagamento com Almacenessi"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-almacenessi",
+                        "es": "configurar-pago-con-almacenessi",
+                        "pt": "configurar-pagamento-com-almacenessi"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with aplazo",
+                        "es": "Configurar pago con aplazo",
+                        "pt": "Configurar pagamento com aplazo"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-aplazo",
+                        "es": "configurar-pago-con-aplazo",
+                        "pt": "configurar-pagamento-com-aplazo"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with Appmax",
                         "es": "Configurar pago con Appmax",
                         "pt": "Configurar pagamento com Appmax"
@@ -26369,6 +26475,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with AppmaxV1",
+                        "es": "Configurar pago con AppmaxV1",
+                        "pt": "Configurar pagamento com AppmaxV1"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-appmaxv1",
+                        "es": "configurar-pago-con-appmaxv1",
+                        "pt": "configurar-pagamento-com-appmaxv1"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with argonPAY",
                         "es": "Configurar pago con argonPAY",
                         "pt": "Configurar pagamento com argonPAY"
@@ -26377,6 +26498,36 @@
                         "en": "setting-up-payments-with-argonpay",
                         "es": "configurar-pago-con-argonpay",
                         "pt": "configurar-pagamento-com-argonpay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with AstroPayOneTouch",
+                        "es": "Configurar pago con AstroPayOneTouch",
+                        "pt": "Configurar pagamento com AstroPayOneTouch"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-astropayonetouch",
+                        "es": "configurar-pago-con-astropayonetouch",
+                        "pt": "configurar-pagamento-com-astropayonetouch"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with Azteca",
+                        "es": "Configurar pago con Azteca",
+                        "pt": "Configurar pagamento com Azteca"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-azteca",
+                        "es": "configurar-pago-con-azteca",
+                        "pt": "configurar-pagamento-com-azteca"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -26519,6 +26670,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with BellunoPagamentos",
+                        "es": "Configurar pago con BellunoPagamentos",
+                        "pt": "Configurar pagamento com Belluno Pagamentos"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-bellunopagamentos",
+                        "es": "configurar-pago-con-bellunopagamentos",
+                        "pt": "configurar-pagamento-com-bellunopagamentos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with Bizum",
                         "es": "Configurar pago con Bizum",
                         "pt": "Configurar pagamento com Bizum"
@@ -26632,6 +26798,21 @@
                         "en": "setting-up-payments-with-brinks-cash-ecommerce",
                         "es": "configurar-pago-con-brinks-cash-ecommerce",
                         "pt": "configurar-pagamento-com-brinks-cash-ecommerce"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with Cencosud-Pay-Ar",
+                        "es": "Configurar pago con Cencosud-Pay-Ar",
+                        "pt": "Configurar pagamento com Cencosud-Pay-Ar"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-cencosud-pay-ar",
+                        "es": "configurar-pago-con-cencosud-pay-ar",
+                        "pt": "configurar-pagamento-com-cencosud-pay-ar"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -26767,6 +26948,21 @@
                         "en": "setting-up-payments-with-credimarcas",
                         "es": "configurar-pago-con-credimarcas",
                         "pt": "configurar-pagamento-com-credimarcas"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with CrediPay",
+                        "es": "Configurar pago con CrediPay",
+                        "pt": "Configurar pagamento com CrediPay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-credipay",
+                        "es": "configurar-pago-con-credipay",
+                        "pt": "configurar-pagamento-com-credipay"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -26985,6 +27181,36 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with DripPixParcelado",
+                        "es": "Configurar pago con DripPixParcelado",
+                        "pt": "Configurar pagamento com DripPixParcelado"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-drippixparcelado",
+                        "es": "configurar-pago-con-drippixparcelado",
+                        "pt": "configurar-pagamento-com-drippixparcelado"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with E-fek",
+                        "es": "Configurar pago con E-fek",
+                        "pt": "Configurar pagamento com E-fek"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-e-fek",
+                        "es": "configurar-pago-con-e-fek",
+                        "pt": "configurar-pagamento-com-e-fek"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with e-Sitef",
                         "es": "Configurar pago con e-Sitef",
                         "pt": "Configurar pagamento com e-SiTef"
@@ -27083,6 +27309,21 @@
                         "en": "setting-up-payments-with-epago",
                         "es": "configurar-pago-con-epago",
                         "pt": "configurar-pagamento-com-epago"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with ePayCencosud",
+                        "es": "Configurar pago con ePayCencosud",
+                        "pt": "Configurar pagamento com ePayCencosud"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-epaycencosud",
+                        "es": "configurar-pago-con-epaycencosud",
+                        "pt": "configurar-pagamento-com-epaycencosud"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -29525,7 +29766,7 @@
                   "children": [
                     {
                       "name": {
-                        "en": "Approving payment of the bank payment slip",
+                        "en": "Approving boleto payments (for stores in Brazil)",
                         "es": "Aprobar pago de boleto",
                         "pt": "Aprovar pagamento de boleto"
                       },
@@ -29540,9 +29781,9 @@
                     },
                     {
                       "name": {
-                        "en": "Registered Ticket - Basic payment flow",
-                        "es": "Boleto Bancario Registrado - Flujo básico de pago",
-                        "pt": "Boleto Bancário Registrado - Fluxo básico de pagamento"
+                        "en": "Registered boleto: Basic payment flow (for stores in Brazil)",
+                        "es": "Boleto registrado (Brasil): flujo básico de pago",
+                        "pt": "Boleto bancário registrado: fluxo básico de pagamento"
                       },
                       "slug": {
                         "en": "registered-ticket-flow",
@@ -29593,21 +29834,6 @@
                         "en": "how-long-does-it-take-to-cancel-an-order-with-an-unpaid-boleto",
                         "es": "en-cuanto-tiempo-un-pedido-de-boleto-sin-pago-se-cancela",
                         "pt": "em-quanto-tempo-um-pedido-de-boleto-sem-pagamento-e-cancelado"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Why does payment with registered Boleto require authentication?",
-                        "es": "¿Por qué el pago por boleto registrado requiere autenticación?",
-                        "pt": "Por que o pagamento por boleto registrado exige autenticação?"
-                      },
-                      "slug": {
-                        "en": "why-does-payment-with-registered-boleto-require-authentication",
-                        "es": "por-que-el-pago-por-boleto-registrado-requiere-autenticacion",
-                        "pt": "por-que-o-pagamento-por-boleto-registado-exige-autenticacao"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -29700,21 +29926,6 @@
                         "en": "adding-bin-information",
                         "es": "registrar-informacion-de-bin",
                         "pt": "cadastrar-informacoes-de-bins"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Credit Card - Basic payment flow",
-                        "es": "Tarjeta de crédito - Flujo básico de un pago",
-                        "pt": "Cartão de crédito - Fluxo básico de um pagamento"
-                      },
-                      "slug": {
-                        "en": "credit-card-basic-payment-flow",
-                        "es": "tarjeta-de-credito-flujo-basico-de-un-pago",
-                        "pt": "cartao-de-credito-fluxo-basico-de-um-pagamento"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -31637,6 +31848,21 @@
           "children": [
             {
               "name": {
+                "en": "VTEX Ads offsite campaigns",
+                "es": "Campañas offsite en VTEX Ads",
+                "pt": "Campanhas offsite no VTEX Ads"
+              },
+              "slug": {
+                "en": "vtex-ads-offsite-campaigns",
+                "es": "campanas-offsite-en-vtex-ads",
+                "pt": "campanhas-offsite-no-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "VTEX Ads metrics and attribution",
                 "es": "Métricas y atribución de VTEX Ads",
                 "pt": "Métricas e atribuição do VTEX Ads"
@@ -31645,6 +31871,36 @@
                 "en": "vtex-ads-metrics-and-attribution",
                 "es": "metricas-y-atribucion-de-vtex-ads",
                 "pt": "metricas-e-atribuicao-do-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Campaign models and roles in VTEX Ads",
+                "es": "Modelos de campaña y roles en VTEX Ads",
+                "pt": "Modelos de campanha e papéis no VTEX Ads"
+              },
+              "slug": {
+                "en": "vtex-ads-campaign-models-and-roles",
+                "es": "modelos-de-campana-y-roles-en-vtex-ads",
+                "pt": "modelos-de-campanha-e-papeis-no-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Destination retail",
+                "es": "Retail de destino",
+                "pt": "Varejo de destino"
+              },
+              "slug": {
+                "en": "destination-retail",
+                "es": "retail-de-destino",
+                "pt": "varejo-de-destino"
               },
               "origin": "",
               "type": "markdown",
@@ -33118,6 +33374,21 @@
                 },
                 {
                   "name": {
+                    "en": "Managing custom storefront roles and permissions",
+                    "es": "Gestionar roles y permisos de storefront personalizados",
+                    "pt": "Gerenciar perfis de acesso e permissões de storefront personalizados"
+                  },
+                  "slug": {
+                    "en": "manage-custom-storefront-roles-and-permissions",
+                    "es": "gestionar-roles-y-permisos-de-storefront-personalizados",
+                    "pt": "gerenciar-perfis-de-acesso-e-permissoes-de-storefront-personalizados"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Login for B2B stores",
                     "es": "Login para tiendas B2B",
                     "pt": "Login em lojas B2B"
@@ -33126,6 +33397,21 @@
                     "en": "login-for-b2b-stores",
                     "es": "login-para-tiendas-b2b",
                     "pt": "login-em-lojas-b2b"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Custom storefront roles and permissions",
+                    "es": "Roles y permisos de storefront personalizados",
+                    "pt": "Perfis de acesso e permissões de storefront personalizados"
+                  },
+                  "slug": {
+                    "en": "custom-storefront-roles-and-permissions-overview",
+                    "es": "roles-y-permisos-de-storefront-personalizados",
+                    "pt": "perfis-de-acesso-e-permissoes-de-storefront-personalizados"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -33901,13 +34187,59 @@
             "pt": "VTEX CX Platform"
           },
           "slug": {
-            "en": "vtex-cx-platform-category",
-            "es": "vtex-cx-platform-categoria",
-            "pt": "vtex-cx-platform-categoria"
+            "en": "vtex-cx-platform-overview",
+            "es": "vtex-cx-platform-vision-de-conjunto",
+            "pt": "vtex-cx-platform-visao-geral"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
+            {
+              "name": {
+                "en": "Analytics",
+                "es": "Analytics",
+                "pt": "Analytics"
+              },
+              "slug": {
+                "en": "analytics-support-metrics",
+                "es": "analytics-metricas-de-atencion",
+                "pt": "analytics-metricas-de-atendimento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": [
+                {
+                  "name": {
+                    "en": "Analytics: Configuring operational alerts",
+                    "es": "Analytics: Configurar alertas operativas",
+                    "pt": "Analytics: Configurar alertas operacionais"
+                  },
+                  "slug": {
+                    "en": "configuring-operational-alerts",
+                    "es": "analytics-configurar-alertas-operativas",
+                    "pt": "analytics-configurar-alertas-operacionais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Analytics: Create custom dashboard",
+                    "es": "Analytics: Crear dashboard personalizado",
+                    "pt": "Analytics: Criar dashboard personalizado"
+                  },
+                  "slug": {
+                    "en": "create-analytics-dashboard",
+                    "es": "crear-dashboard-personalizado",
+                    "pt": "analytics-criar-dashboard-personalizado"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
             {
               "name": {
                 "en": "Agent Builder",
@@ -33915,37 +34247,37 @@
                 "pt": "Agent Builder"
               },
               "slug": {
-                "en": "agent-builder-subcategory",
-                "es": "agent-builder-subcategoria",
-                "pt": "agent-builder-subcategoria"
+                "en": "agent-builder-overview",
+                "es": "informacion-general-de-agent-builder",
+                "pt": "visao-geral-agent-builder"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
-                    "en": "Automation Flow",
-                    "es": "Flujo de automatización",
-                    "pt": "Fluxo de automação"
+                    "en": "My agents",
+                    "es": "Mis agentes",
+                    "pt": "Meus agentes"
                   },
                   "slug": {
-                    "en": "automation-flow-subcategory",
-                    "es": "flujo-de-automatizacion-subcategoria",
-                    "pt": "fluxo-de-automacao-subcategoria"
+                    "en": "assigning-and-testing-agents-in-agent-builder",
+                    "es": "asignar-y-probar-agentes",
+                    "pt": "atribuir-e-testar-agentes"
                   },
                   "origin": "",
-                  "type": "category",
+                  "type": "markdown",
                   "children": [
                     {
                       "name": {
-                        "en": "Adding Media to the message",
-                        "es": "Agregar mídias a su mensaje",
-                        "pt": "Adicionar mídias"
+                        "en": "Official agents from VTEX CX Platform",
+                        "es": "Agentes oficiales de VTEX CX Platform",
+                        "pt": "Agentes oficiais do VTEX CX Platform"
                       },
                       "slug": {
-                        "en": "adding-media-to-the-message",
-                        "es": "agregar-midias-a-su-mensaje",
-                        "pt": "adicionando-midias-ao-cartao-de-enviar-mensagem"
+                        "en": "official-agents-from-vtex-cx-platform",
+                        "es": "agentes-oficiales-de-vtex-cx-platform",
+                        "pt": "agentes-oficiais-da-vtex-cx-platform"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -33953,269 +34285,14 @@
                     },
                     {
                       "name": {
-                        "en": "Call webhook: Making requests to external services",
-                        "es": "Call webhook: Cómo hacer llamadas a sistemas externos",
-                        "pt": "Call webhook: Making requests to external services"
+                        "en": "Configuring safety guardrails per project",
+                        "es": "Configurar barreras de seguridad por proyecto",
+                        "pt": "Configurar camadas extras de segurança por projeto"
                       },
                       "slug": {
-                        "en": "call-webhook-making-requests-to-external-services",
-                        "es": "call-webhook-como-hacer-llamadas-a-sistemas-externos",
-                        "pt": ""
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "WhatsApp message card",
-                        "es": "Tarjeta de mensaje de WhatsApp",
-                        "pt": "Cartão de mensagem do WhatsApp"
-                      },
-                      "slug": {
-                        "en": "whatsapp-message-card",
-                        "es": "tarjeta-de-mensaje-de-whatsapp",
-                        "pt": "cartao-de-mensagem-do-whatsapp"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Action cards",
-                        "es": "Cartas de acción",
-                        "pt": "Cartas de ação"
-                      },
-                      "slug": {
-                        "en": "action-cards",
-                        "es": "cartas-de-accion",
-                        "pt": "cartas-de-acao"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Decision cards",
-                        "es": "Cartas de decisión",
-                        "pt": "Cartas de decisão"
-                      },
-                      "slug": {
-                        "en": "decision-cards",
-                        "es": "cartas-de-decision",
-                        "pt": "cartas-de-decisao"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Construtor de Vendas API-integrated chatbot",
-                        "es": "Chatbot integrado a la API del Constructor de Ventas",
-                        "pt": "Chatbot integrado a API do Construtor de Vendas"
-                      },
-                      "slug": {
-                        "en": "construtor-de-vendas-api-integrated-chatbot",
-                        "es": "chatbot-integrado-a-la-api-del-constructor-de-ventas",
-                        "pt": "chatbot-integrado-a-api-do-construtor-de-vendas"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Chatbot integrado a API Omie",
-                        "es": "Chatbot integrado a API Omie",
-                        "pt": "Chatbot integrado a API Omie"
-                      },
-                      "slug": {
-                        "en": "chatbot-integrado-a-api-omie",
-                        "es": "chatbot-integrado-a-api-omie",
-                        "pt": "chatbot-integrado-a-api-omie"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Sienge API-integrated chatbot",
-                        "es": "Chatbot integrado a la API Sienge",
-                        "pt": "Chatbot integrado a API Sienge"
-                      },
-                      "slug": {
-                        "en": "sienge-api-integrated-chatbot",
-                        "es": "chatbot-integrado-a-la-api-sienge",
-                        "pt": "chatbot-integrado-a-api-sienge"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Zero shot learning",
-                        "es": "Aprendizaje zero shot",
-                        "pt": "Classificação e resposta inteligente"
-                      },
-                      "slug": {
-                        "en": "zero-shot-learning",
-                        "es": "aprendizaje-zero-shot",
-                        "pt": "classificacao-e-resposta-inteligente"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Flows creation",
-                        "es": "Creación de flujos",
-                        "pt": "Criação de fluxos"
-                      },
-                      "slug": {
-                        "en": "flows-creation",
-                        "es": "creacion-de-flujos",
-                        "pt": "criacao-de-fluxos"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Flow editor and tools",
-                        "es": "Editor de flujo y sus herramientas",
-                        "pt": "Editor de fluxo e suas ferramentas"
-                      },
-                      "slug": {
-                        "en": "flow-editor-and-tools",
-                        "es": "editor-de-flujo-y-sus-herramientas",
-                        "pt": "editor-de-fluxo-e-suas-ferramentas"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Expressions glossary",
-                        "es": "Glosario de expresiones",
-                        "pt": "Glossário de expressões"
-                      },
-                      "slug": {
-                        "en": "expressions-glossary",
-                        "es": "glossario-de-expressoes",
-                        "pt": "glossario-de-expressoes"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Variables glossary",
-                        "es": "Glosario de variables",
-                        "pt": "Glossário de variáveis"
-                      },
-                      "slug": {
-                        "en": "variables-glossary",
-                        "es": "glosario-de-variables",
-                        "pt": "glossario-de-variaveis"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Import and export flows",
-                        "es": "Importar y exportar flujos",
-                        "pt": "Importar e exportar fluxos"
-                      },
-                      "slug": {
-                        "en": "import-and-export-flows",
-                        "es": "importar-y-exportar-flujos",
-                        "pt": "importar-e-exportar-fluxos"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Expressions and variables introduction",
-                        "es": "Introducción a expresiones y variables",
-                        "pt": "Introdução a expressões e variáveis"
-                      },
-                      "slug": {
-                        "en": "expressions-and-variables-introduction",
-                        "es": "introduccion-a-expresiones-y-variables",
-                        "pt": "introducao-a-expressoes-e-variaveis"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Route markers",
-                        "es": "Marcadores de ruta",
-                        "pt": "Marcadores de rota"
-                      },
-                      "slug": {
-                        "en": "route-markers",
-                        "es": "marcadores-de-ruta",
-                        "pt": "marcadores-de-rota"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Using expressions to capture the user's location",
-                        "es": "Utilizando expresiones para capturar la ubicación del usuario",
-                        "pt": "Utilizando expressões para captar a localização do usuário"
-                      },
-                      "slug": {
-                        "en": "using-expressions-to-capture-the-users-location",
-                        "es": "utilizando-expresiones-para-capturar-la-ubicacion-del-usuario",
-                        "pt": "utilizando-expressoes-para-captar-a-localizacao-do-usuario"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Automation flow overview",
-                        "es": "Introducción a los flujos",
-                        "pt": "Visão geral Fluxo de automação"
-                      },
-                      "slug": {
-                        "en": "automation-flow-overview",
-                        "es": "introduccion-a-los-flujos",
-                        "pt": "visao-geral-fluxo-de-automacao"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Viewing reports on the platform",
-                        "es": "Visualizando informes en la plataforma",
-                        "pt": "Visualizando relatórios na plataforma"
-                      },
-                      "slug": {
-                        "en": "viewing-reports-on-the-platform",
-                        "es": "visualizando-informes-en-la-plataforma",
-                        "pt": "visualizando-relatorios-na-plataforma"
+                        "en": "configuring-extra-safety-guardrails-per-project",
+                        "es": "configurar-capas-adicionales-de-seguridad-por-proyecto",
+                        "pt": "configurar-camadas-extras-de-seguranca-por-projeto"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -34225,63 +34302,354 @@
                 },
                 {
                   "name": {
-                    "en": "Agent Builder - Overview",
-                    "es": "Información general de Agent Builder",
-                    "pt": "Agent Builder - Visão geral"
+                    "en": "Automation flow",
+                    "es": "Flujo de automatización",
+                    "pt": "Fluxo de automação"
                   },
                   "slug": {
-                    "en": "agent-builder-overview",
-                    "es": "informacion-general-de-agent-builder",
-                    "pt": "visao-geral-agent-builder"
+                    "en": "automation-flow-overview",
+                    "es": "introduccion-a-los-flujos",
+                    "pt": "visao-geral-fluxo-de-automacao"
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Official agents from VTEX CX Platform",
-                    "es": "Agentes oficiales de VTEX CX Platform",
-                    "pt": "Agentes oficiais do VTEX CX Platform"
-                  },
-                  "slug": {
-                    "en": "official-agents-from-vtex-cx-platform",
-                    "es": "agentes-oficiales-de-vtex-cx-platform",
-                    "pt": "agentes-oficiais-da-vtex-cx-platform"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Assigning and testing agents",
-                    "es": "Asignar y probar agentes",
-                    "pt": "Atribuir e testar agentes"
-                  },
-                  "slug": {
-                    "en": "assigning-and-testing-agents-in-agent-builder",
-                    "es": "asignar-y-probar-agentes",
-                    "pt": "atribuir-e-testar-agentes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring safety guardrails per project",
-                    "es": "Configurar barreras de seguridad por proyecto",
-                    "pt": "Configurar camadas extras de segurança por projeto"
-                  },
-                  "slug": {
-                    "en": "configuring-extra-safety-guardrails-per-project",
-                    "es": "configurar-capas-adicionales-de-seguridad-por-proyecto",
-                    "pt": "configurar-camadas-extras-de-seguranca-por-projeto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Creating a flow",
+                        "es": "Crear un flujo",
+                        "pt": "Criar um fluxo"
+                      },
+                      "slug": {
+                        "en": "flows-creation",
+                        "es": "creacion-de-flujos",
+                        "pt": "criacao-de-fluxos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": [
+                        {
+                          "name": {
+                            "en": "Flow editor",
+                            "es": "Editor de flujos",
+                            "pt": "Editor de fluxos"
+                          },
+                          "slug": {
+                            "en": "flow-editor-and-tools",
+                            "es": "editor-de-flujo-y-sus-herramientas",
+                            "pt": "editor-de-fluxo-e-suas-ferramentas"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Import and export flows",
+                            "es": "Importar y exportar flujos",
+                            "pt": "Importar e exportar fluxos"
+                          },
+                          "slug": {
+                            "en": "import-and-export-flows",
+                            "es": "importar-y-exportar-flujos",
+                            "pt": "importar-e-exportar-fluxos"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": {
+                        "en": "Flow cards",
+                        "es": "Cartas del flujo",
+                        "pt": "Cartas do fluxo"
+                      },
+                      "slug": {
+                        "en": "flow-cards-subcategory",
+                        "es": "cartas-del-flujo-subcategoria",
+                        "pt": "cartas-do-fluxo-subcategoria"
+                      },
+                      "origin": "",
+                      "type": "category",
+                      "children": [
+                        {
+                          "name": {
+                            "en": "Adding Media to the message",
+                            "es": "Agregar mídias a su mensaje",
+                            "pt": "Adicionar mídias"
+                          },
+                          "slug": {
+                            "en": "adding-media-to-the-message",
+                            "es": "agregar-midias-a-su-mensaje",
+                            "pt": "adicionando-midias-ao-cartao-de-enviar-mensagem"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Call webhooks",
+                            "es": "Call webhook: Cómo hacer llamadas a sistemas externos",
+                            "pt": "Call webhooks"
+                          },
+                          "slug": {
+                            "en": "call-webhook-making-requests-to-external-services",
+                            "es": "call-webhook-como-hacer-llamadas-a-sistemas-externos",
+                            "pt": ""
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "WhatsApp message card",
+                            "es": "Tarjeta de mensaje de WhatsApp",
+                            "pt": "Cartão de mensagem do WhatsApp"
+                          },
+                          "slug": {
+                            "en": "whatsapp-message-card",
+                            "es": "tarjeta-de-mensaje-de-whatsapp",
+                            "pt": "cartao-de-mensagem-do-whatsapp"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Action cards",
+                            "es": "Cartas de acción",
+                            "pt": "Cartas de ação"
+                          },
+                          "slug": {
+                            "en": "action-cards",
+                            "es": "cartas-de-accion",
+                            "pt": "cartas-de-acao"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Decision cards",
+                            "es": "Cartas de decisión",
+                            "pt": "Cartas de decisão"
+                          },
+                          "slug": {
+                            "en": "decision-cards",
+                            "es": "cartas-de-decision",
+                            "pt": "cartas-de-decisao"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Zero shot learning",
+                            "es": "Aprendizaje zero shot",
+                            "pt": "Classificação e resposta inteligente"
+                          },
+                          "slug": {
+                            "en": "zero-shot-learning",
+                            "es": "aprendizaje-zero-shot",
+                            "pt": "classificacao-e-resposta-inteligente"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": {
+                        "en": "Expressions and variables",
+                        "es": "Expresiones y variables",
+                        "pt": "Expressões e variáveis"
+                      },
+                      "slug": {
+                        "en": "expressions-and-variables-introduction",
+                        "es": "introduccion-a-expresiones-y-variables",
+                        "pt": "introducao-a-expressoes-e-variaveis"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": [
+                        {
+                          "name": {
+                            "en": "Expressions glossary",
+                            "es": "Glosario de expresiones",
+                            "pt": "Glossário de expressões"
+                          },
+                          "slug": {
+                            "en": "expressions-glossary",
+                            "es": "glossario-de-expressoes",
+                            "pt": "glossario-de-expressoes"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Variables glossary",
+                            "es": "Glosario de variables",
+                            "pt": "Glossário de variáveis"
+                          },
+                          "slug": {
+                            "en": "variables-glossary",
+                            "es": "glosario-de-variables",
+                            "pt": "glossario-de-variaveis"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Using expressions to capture the user's location",
+                            "es": "Utilizando expresiones para capturar la ubicación del usuario",
+                            "pt": "Utilizando expressões para captar a localização do usuário"
+                          },
+                          "slug": {
+                            "en": "using-expressions-to-capture-the-users-location",
+                            "es": "utilizando-expresiones-para-capturar-la-ubicacion-del-usuario",
+                            "pt": "utilizando-expressoes-para-captar-a-localizacao-do-usuario"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": {
+                        "en": "Flow analysis",
+                        "es": "Análisis de los flujos",
+                        "pt": "Análise dos fluxos"
+                      },
+                      "slug": {
+                        "en": "flow-analysis-subcategory",
+                        "es": "analisis-de-los-flujos-subcategoria",
+                        "pt": "analise-dos-fluxos-subcategoria"
+                      },
+                      "origin": "",
+                      "type": "category",
+                      "children": [
+                        {
+                          "name": {
+                            "en": "Downloading and extracting archived data",
+                            "es": "Descargar y extraer datos archivados",
+                            "pt": "Baixar, extrair, transformar e combinar os dados arquivados do Fluxo de automação"
+                          },
+                          "slug": {
+                            "en": "how-to-download-and-extract-archived-data",
+                            "es": "como-descargar-y-extraer-datos-archivados",
+                            "pt": "como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-fluxo-de-automacao"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Route markers",
+                            "es": "Marcadores de ruta",
+                            "pt": "Marcadores de rota"
+                          },
+                          "slug": {
+                            "en": "route-markers",
+                            "es": "marcadores-de-ruta",
+                            "pt": "marcadores-de-rota"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Viewing reports on the platform",
+                            "es": "Visualizando informes en la plataforma",
+                            "pt": "Visualizando relatórios na plataforma"
+                          },
+                          "slug": {
+                            "en": "viewing-reports-on-the-platform",
+                            "es": "visualizando-informes-en-la-plataforma",
+                            "pt": "visualizando-relatorios-na-plataforma"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": {
+                        "en": "Ready-made flows",
+                        "es": "Flujos listos",
+                        "pt": "Fluxos prontos"
+                      },
+                      "slug": {
+                        "en": "ready-made-flows-subcategory",
+                        "es": "flujos-listos-subcategoria",
+                        "pt": "fluxos-prontos-subcategoria"
+                      },
+                      "origin": "",
+                      "type": "category",
+                      "children": [
+                        {
+                          "name": {
+                            "en": "Construtor de Vendas API-integrated chatbot",
+                            "es": "Chatbot integrado a la API del Constructor de Ventas",
+                            "pt": "Chatbot integrado a API do Construtor de Vendas"
+                          },
+                          "slug": {
+                            "en": "construtor-de-vendas-api-integrated-chatbot",
+                            "es": "chatbot-integrado-a-la-api-del-constructor-de-ventas",
+                            "pt": "chatbot-integrado-a-api-do-construtor-de-vendas"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Chatbot integrado a API Omie",
+                            "es": "Chatbot integrado a API Omie",
+                            "pt": "Chatbot integrado a API Omie"
+                          },
+                          "slug": {
+                            "en": "chatbot-integrado-a-api-omie",
+                            "es": "chatbot-integrado-a-api-omie",
+                            "pt": "chatbot-integrado-a-api-omie"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        },
+                        {
+                          "name": {
+                            "en": "Sienge API-integrated chatbot",
+                            "es": "Chatbot integrado a la API Sienge",
+                            "pt": "Chatbot integrado a API Sienge"
+                          },
+                          "slug": {
+                            "en": "sienge-api-integrated-chatbot",
+                            "es": "chatbot-integrado-a-la-api-sienge",
+                            "pt": "chatbot-integrado-a-api-sienge"
+                          },
+                          "origin": "",
+                          "type": "markdown",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             },
@@ -34292,12 +34660,12 @@
                 "pt": "Live Desk"
               },
               "slug": {
-                "en": "live-desk-subcategory",
-                "es": "live-desk-subcategoria",
-                "pt": "live-desk-subcategoria"
+                "en": "live-desk-overview",
+                "es": "informacion-general-de-live-desk",
+                "pt": "visao-geral-do-live-desk"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -34318,7 +34686,7 @@
                   "name": {
                     "en": "Attendance distribution rule",
                     "es": "Distribución y enrutamiento de las atenciones",
-                    "pt": "Distribuição e Roteamento dos atendimentos"
+                    "pt": "Distribuição e roteamento dos atendimentos"
                   },
                   "slug": {
                     "en": "attendance-distribution-rule",
@@ -34358,540 +34726,14 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "Live Desk - Overview",
-                    "es": "Información general de Live Desk",
-                    "pt": "Visão geral do Live Desk"
-                  },
-                  "slug": {
-                    "en": "live-desk-overview",
-                    "es": "informacion-general-de-live-desk",
-                    "pt": "visao-geral-do-live-desk"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Integrations",
-                "es": "Integraciones",
-                "pt": "Integrações"
-              },
-              "slug": {
-                "en": "integrations-subcategory",
-                "es": "integraciones-subcategoria",
-                "pt": "integrações-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Adding Discord as a channel",
-                    "es": "Agregar Discord como un canal",
-                    "pt": "Adicionando o Discord como um canal"
-                  },
-                  "slug": {
-                    "en": "adding-discord-as-a-channel",
-                    "es": "agregar-discord-como-un-canal",
-                    "pt": "adicionando-o-discord-como-um-canal"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Adding a Viber channel (RapidPro)",
-                    "es": "Agregando un canal de Viber (RapidPro)",
-                    "pt": "Adicionando um canal Viber (RapidPro)"
-                  },
-                  "slug": {
-                    "en": "adding-a-viber-channel-rapidpro",
-                    "es": "agregando-un-canal-de-viber-rapidpro",
-                    "pt": "adicionando-um-canal-viber-rapidpro"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Good practices: Opt-out",
-                    "es": "Buenas prácticas: Opt-out",
-                    "pt": "Boas práticas: Opt-Out"
-                  },
-                  "slug": {
-                    "en": "good-practices-opt-out",
-                    "es": "buenas-practicas-opt-out",
-                    "pt": "boas-praticas-opt-out"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to connect and talk to the bot through the settings",
-                    "es": "Cómo conectar y hablar con el bot",
-                    "pt": "Como conectar e falar com o bot através das configurações"
-                  },
-                  "slug": {
-                    "en": "how-to-connect-and-talk-to-the-bot-through-the-settings",
-                    "es": "como-conectar-y-hablar-con-el-bot",
-                    "pt": "como-conectar-e-falar-com-o-bot-atraves-das-configuracoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Adding a Facebook channel",
-                    "es": "Cómo crear un canal en Facebook",
-                    "pt": "Como criar um canal no Facebook"
-                  },
-                  "slug": {
-                    "en": "adding-a-facebook-channel",
-                    "es": "como-crear-un-canal-en-facebook",
-                    "pt": "como-criar-um-canal-no-facebook"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to create a channel on Instagram",
-                    "es": "Cómo crear un canal en Instagram",
-                    "pt": "Como criar um canal no Instagram"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-channel-on-instagram",
-                    "es": "como-crear-un-canal-en-instagram",
-                    "pt": "como-criar-um-canal-no-instagram"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Adding a Telegram channel",
-                    "es": "Cómo crear un canal en Telegram",
-                    "pt": "Como criar um canal no Telegram"
-                  },
-                  "slug": {
-                    "en": "adding-a-telegram-channel",
-                    "es": "como-crear-un-canal-en-telegram",
-                    "pt": "como-criar-um-canal-no-telegram"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to create a channel on Twitter",
-                    "es": "Cómo crear un canal en Twitter",
-                    "pt": "Como criar um canal no Twitter"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-channel-on-twitter",
-                    "es": "como-crear-un-canal-en-twitter",
-                    "pt": "como-criar-um-canal-no-twitter"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Adding a Viber channel",
-                    "es": "Cómo crear un canal en Viber",
-                    "pt": "Como criar um canal no Viber"
-                  },
-                  "slug": {
-                    "en": "adding-a-viber-channel",
-                    "es": "como-crear-un-canal-en-viber",
-                    "pt": "como-criar-um-canal-no-viber"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to create a channel with WhatsApp Demo",
-                    "es": "Cómo crear un canal en WhatsApp demo",
-                    "pt": "Como criar um canal no WhatsApp Demo"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-channel-with-whatsapp-demo",
-                    "es": "como-crear-un-canal-en-whatsapp-demo",
-                    "pt": "como-criar-um-canal-no-whatsapp-demo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to create an SMS channel",
-                    "es": "Cómo crear un canal SMS",
-                    "pt": "Como criar um canal SMS"
-                  },
-                  "slug": {
-                    "en": "how-to-create-an-sms-channel",
-                    "es": "como-crear-un-canal-sms",
-                    "pt": "como-criar-um-canal-sms"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to create an SMS channel - for developers (RapidPro)",
-                    "es": "Cómo crear un canal de SMS - para desarrolladores (RapidPro)",
-                    "pt": "Como criar um canal SMS - para desenvolvedores (RapidPro)"
-                  },
-                  "slug": {
-                    "en": "how-to-create-an-sms-channel-for-developers-rapidpro",
-                    "es": "como-crear-un-canal-de-sms-para-desarrolladores-rapidpro",
-                    "pt": "como-criar-um-canal-sms-para-desenvolvedores-rapidpro"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to Create a Web Channel",
-                    "es": "Como crear un canal web",
-                    "pt": "Como criar um canal web"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-web-channel",
-                    "es": "como-crear-un-canal-web",
-                    "pt": "como-criar-um-canal-web"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to use the applications module",
-                    "es": "Como utilizar el módulo de aplicaciones",
-                    "pt": "Como utilizar Canais (em Configurações)"
-                  },
-                  "slug": {
-                    "en": "how-to-use-the-applications-module",
-                    "es": "como-utilizar-el-modulo-de-aplicaciones",
-                    "pt": "como-utilizar-o-modulo-aplicativos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Webhook configuration: Message delivery status",
-                    "es": "Configuración del webhook: Estado del envío de mensajes",
-                    "pt": "Configuração do Webhook: Status de envio das mensagens"
-                  },
-                  "slug": {
-                    "en": "webhook-configuration-message-delivery-status",
-                    "es": "configuracion-del-webhook-estado-del-envio-de-mensajes",
-                    "pt": "configuracao-do-webhook-status-de-envio-das-mensagens"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configurar o Shopping Assistant",
-                    "es": "Configurar o Shopping Assistant",
-                    "pt": "Configurar o Shopping Assistant"
-                  },
-                  "slug": {
-                    "en": "configure-shopping-assistant",
-                    "es": "configurar-el-shopping-assistant",
-                    "pt": "configurar-o-shopping-assistant"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a Slack channel",
-                    "es": "Creando un canal de Slack",
-                    "pt": "Criando um Canal do Slack"
-                  },
-                  "slug": {
-                    "en": "creating-a-slack-channel",
-                    "es": "creando-un-canal-de-slack",
-                    "pt": "criando-um-canal-do-slack"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Active message dispatch on WhatsApp",
-                    "es": "Envío activo de mensajes en WhatsApp",
-                    "pt": "Disparo Ativo no WhatsApp"
-                  },
-                  "slug": {
-                    "en": "active-message-dispatch-on-whatsapp",
-                    "es": "envio-activo-de-mensajes-en-whatsapp",
-                    "pt": "disparo-ativo-no-whatsapp"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Supported media sending - WhatsApp Cloud",
-                    "es": "WhatsApp business API: Envio de mídias",
-                    "pt": "Envio de Mídias Suportadas - WhatsApp Cloud"
-                  },
-                  "slug": {
-                    "en": "supported-media-sending-whatsapp-cloud",
-                    "es": "whatsapp-business-api-envio-de-midias",
-                    "pt": "envio-de-midias-suportadas-whatsapp-cloud"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a Microsoft Teams channel",
-                    "es": "Creación de un canal de Microsoft Teams",
-                    "pt": "Integração com o Microsoft Teams"
-                  },
-                  "slug": {
-                    "en": "creating-a-microsoft-teams-channel",
-                    "es": "creacion-de-un-canal-de-microsoft-teams",
-                    "pt": "integracao-com-o-microsoft-teams"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Native ChatGPT integration",
-                    "es": "Integración nativa ChatGPT",
-                    "pt": "Integração Nativa ChatGPT"
-                  },
-                  "slug": {
-                    "en": "native-chatgpt-integration",
-                    "es": "integracion-nativa-chatgpt",
-                    "pt": "integracao-nativa-chatgpt"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "The basics of integrations",
-                    "es": "Conceptos básicos sobre integraciones",
-                    "pt": "Noções básicas sobre Integrações"
-                  },
-                  "slug": {
-                    "en": "the-basics-of-integrations",
-                    "es": "conceptos-basicos-sobre-integraciones",
-                    "pt": "nocoes-basicas-sobre-integracoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Opt-in: Obtaining consent for WhatsApp",
-                    "es": "Buenas prácticas: Opt-in",
-                    "pt": "Opt-In: Obter aceitação para o WhatsApp"
-                  },
-                  "slug": {
-                    "en": "opt-in-obtaining-consent-for-whatsapp",
-                    "es": "buenas-practicas-opt-in",
-                    "pt": "opt-in-obter-aceitacao-para-o-whatsapp"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "WhatsApp business API pricing",
-                    "es": "Precificación de WhatsApp business API",
-                    "pt": "Precificação do Whatsapp Business API"
-                  },
-                  "slug": {
-                    "en": "whatsapp-business-api-pricing",
-                    "es": "precificacion-de-whatsapp-business-api",
-                    "pt": "precificacao-do-whatsapp-business-api"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Regaining access to Business Manager",
-                    "es": "Recuperando el acceso al Administrador de negocios",
-                    "pt": "Recuperando acesso ao Gerenciador de Negócios"
-                  },
-                  "slug": {
-                    "en": "regaining-access-to-business-manager",
-                    "es": "recuperando-el-acceso-al-administrador-de-negocios",
-                    "pt": "recuperando-acesso-ao-gerenciador-de-negocios"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "External service",
-                    "es": "Servicio externo",
-                    "pt": "Serviço Externo"
-                  },
-                  "slug": {
-                    "en": "external-service",
-                    "es": "servicio-externo",
-                    "pt": "servico-externo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Shopping Assistant: Suggested questions",
-                    "es": "Shopping Assistant: preguntas sugeridas",
-                    "pt": "Shopping Assistant: perguntas sugeridas"
-                  },
-                  "slug": {
-                    "en": "shopping-assistant-suggested-questions",
-                    "es": "shopping-assistant-preguntas-sugeridas",
-                    "pt": "shopping-assistant-perguntas-sugeridas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Ticketer: Ticketer on Rapid Pro",
-                    "es": "Ticketer: Añadiendo el servicio de Ticketer en RapidPro",
-                    "pt": "Ticketer: Adicionando serviço de Ticketer no RapidPro"
-                  },
-                  "slug": {
-                    "en": "ticketer-ticketer-on-rapid-pro",
-                    "es": "ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro",
-                    "pt": "ticketer-adicionando-servico-de-ticketer-no-rapidpro"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "WhatsApp Bussiness API: How to verify my business",
-                    "es": "WhatsApp bussiness API: ¿Cómo verificar mi negocio?",
-                    "pt": "Whatsapp Bussiness API: Como Verificar o meu Negócio"
-                  },
-                  "slug": {
-                    "en": "whatsapp-bussiness-api-how-to-verify-my-business",
-                    "es": "whatsapp-bussiness-api-como-verificar-mi-negocio",
-                    "pt": "whatsapp-bussiness-api-como-verificar-o-meu-negocio"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "WhatsApp Bussiness API: WhatsApp message triggering limitation",
-                    "es": "WhatsApp business API: Limitación de envios masivos en WhatsApp",
-                    "pt": "Whatsapp Bussiness API: Limitação de Disparos em Massa do WhatsApp"
-                  },
-                  "slug": {
-                    "en": "whatsapp-bussiness-api-whatsapp-message-triggering-limitation",
-                    "es": "whatsapp-business-api-limitacion-de-envios-masivos-en-whatsapp",
-                    "pt": "whatsapp-bussiness-api-limitacao-de-disparos-em-massa-do-whatsapp"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "WhatsApp template messages: Impediments and configurations",
-                    "es": "Mensajes de plantilla de WhatsApp: Obstáculos y configuraciones",
-                    "pt": "Whatsapp Template Messages: impedimentos e configurações"
-                  },
-                  "slug": {
-                    "en": "whatsapp-template-messages-impediments-and-configurations",
-                    "es": "mensajes-de-plantilla-de-whatsapp-obstaculos-y-configuraciones",
-                    "pt": "whatsapp-template-messages-impedimentos-e-configuracoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "WhatsApp: How to create template messages",
-                    "es": "WhatsApp: Cómo crear mensajes de plantilla",
-                    "pt": "WhatsApp: Como criar Template Messages"
-                  },
-                  "slug": {
-                    "en": "whatsapp-how-to-create-template-messages",
-                    "es": "whatsapp-como-crear-mensajes-de-plantilla",
-                    "pt": "whatsapp-como-criar-template-messages"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "WhatsApp: Integration with VTEX CX Platform",
-                    "es": "WhatsApp: Integración con VTEX CX Platform",
-                    "pt": "WhatsApp: Integração com o VTEX CX Platform"
-                  },
-                  "slug": {
-                    "en": "whatsapp-vtex-cx-platform-integration",
-                    "es": "whatsapp-integracion-con-vtex-cx-platform",
-                    "pt": "whatsapp-integracao-com-o-vtex-cx-platform"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Studio",
-                "es": "Estúdio",
-                "pt": "Estúdio"
+                "en": "Contacts",
+                "es": "Contactos",
+                "pt": "Contatos"
               },
               "slug": {
                 "en": "studio-subcategory",
@@ -34903,204 +34745,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Select a message to schedule for later",
-                    "es": "Agendando envio de mensajes",
-                    "pt": "Agendando envio de mensagens"
-                  },
-                  "slug": {
-                    "en": "select-a-message-to-schedule-for-later",
-                    "es": "agendando-envio-de-mensajes",
-                    "pt": "agendando-envio-de-mensagens"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Contact fields",
-                    "es": "Campo de contactos",
-                    "pt": "Campos de contato"
-                  },
-                  "slug": {
-                    "en": "contact-fields",
-                    "es": "campo-de-contactos",
-                    "pt": "campos-de-contato"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to download and extract archived data",
-                    "es": "Cómo descargar y extraer datos archivados",
-                    "pt": "Como baixar, extrair, transformar e combinar os dados arquivados do Fluxo de automação"
-                  },
-                  "slug": {
-                    "en": "how-to-download-and-extract-archived-data",
-                    "es": "como-descargar-y-extraer-datos-archivados",
-                    "pt": "como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-fluxo-de-automacao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Adding a trigger",
-                    "es": "Cómo crear un activador",
-                    "pt": "Como criar um disparador"
-                  },
-                  "slug": {
-                    "en": "adding-a-trigger",
-                    "es": "como-crear-un-activador",
-                    "pt": "como-criar-um-disparador"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to create a campaign",
-                    "es": "Cómo crear una campaña",
-                    "pt": "Como criar uma campanha"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-campaign",
-                    "es": "como-crear-una-campana",
-                    "pt": "como-criar-uma-campanha"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Tell a flow to ignore triggers and keywords",
-                    "es": "Cómo ignorar un activador en un flujo",
-                    "pt": "Como ignorar um gatilho em um fluxo"
-                  },
-                  "slug": {
-                    "en": "tell-a-flow-to-ignore-triggers-and-keywords",
-                    "es": "como-ignorar-un-activador-en-un-flujo",
-                    "pt": "como-ignorar-um-gatilho-em-um-fluxo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Importing contacts",
-                    "es": "Cómo importar contactos",
-                    "pt": "Como importar contatos"
-                  },
-                  "slug": {
-                    "en": "importing-contacts",
-                    "es": "como-importar-contactos",
-                    "pt": "como-importar-contatos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating contact from an external webhook",
-                    "es": "Creando contactos con webhooks externos",
-                    "pt": "Criando contatos com Webhooks externos"
-                  },
-                  "slug": {
-                    "en": "creating-contact-from-an-external-webhook",
-                    "es": "creando-contactos-con-webhooks-externos",
-                    "pt": "criando-contatos-com-webhooks-externos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Dynamic groups",
-                    "es": "Grupos dinámicos",
-                    "pt": "Dynamic groups"
-                  },
-                  "slug": {
-                    "en": "dynamic-groups",
-                    "es": "grupos-dinamicos",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Static groups",
-                    "es": "Grupos estáticos",
-                    "pt": "Grupos estáticos e grupos dinâmicos"
-                  },
-                  "slug": {
-                    "en": "static-groups",
-                    "es": "grupos-estaticos",
-                    "pt": "grupos-estaticos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Contact history",
-                    "es": "Historial de contacto",
-                    "pt": "Histórico de Contato"
-                  },
-                  "slug": {
-                    "en": "contact-history",
-                    "es": "historial-de-contacto",
-                    "pt": "historico-de-contato"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Campaign introduction",
-                    "es": "Introducción a campañas",
-                    "pt": "Introdução a Campanhas"
-                  },
-                  "slug": {
-                    "en": "campaign-introduction",
-                    "es": "introduccion-a-campanas",
-                    "pt": "introducao-a-campanhas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Introduction to contacts",
-                    "es": "Introducción a contactos",
-                    "pt": "Introdução a contatos"
-                  },
-                  "slug": {
-                    "en": "introduction-to-contacts",
-                    "es": "introduccion-a-contactos",
-                    "pt": "introducao-a-contatos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Contact's messages",
-                    "es": "Mensajes de contacto",
-                    "pt": "Mensagens do contato"
+                    "en": "Messages",
+                    "es": "Mensajes",
+                    "pt": "Mensagens"
                   },
                   "slug": {
                     "en": "contacts-messages",
@@ -35109,183 +34756,244 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": []
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Scheduling a message",
+                        "es": "Programar un mensaje",
+                        "pt": "Agendar uma mensagem"
+                      },
+                      "slug": {
+                        "en": "select-a-message-to-schedule-for-later",
+                        "es": "agendando-envio-de-mensajes",
+                        "pt": "agendando-envio-de-mensagens"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
                 },
                 {
                   "name": {
-                    "en": "Editing events",
-                    "es": "Modificando eventos",
-                    "pt": "Modificando eventos"
+                    "en": "Contacts",
+                    "es": "Contactos",
+                    "pt": "Contatos"
                   },
                   "slug": {
-                    "en": "editing-events",
-                    "es": "modificando-eventos",
-                    "pt": "modificando-eventos"
+                    "en": "introduction-to-contacts",
+                    "es": "introduccion-a-contactos",
+                    "pt": "introducao-a-contatos"
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": []
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Contact fields",
+                        "es": "Campo de contactos",
+                        "pt": "Campos de contato"
+                      },
+                      "slug": {
+                        "en": "contact-fields",
+                        "es": "campo-de-contactos",
+                        "pt": "campos-de-contato"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating contact from an external webhook",
+                        "es": "Creando contactos con webhooks externos",
+                        "pt": "Criando contatos com Webhooks externos"
+                      },
+                      "slug": {
+                        "en": "creating-contact-from-an-external-webhook",
+                        "es": "creando-contactos-con-webhooks-externos",
+                        "pt": "criando-contatos-com-webhooks-externos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Dynamic groups",
+                        "es": "Grupos dinámicos",
+                        "pt": "Grupos dinâmicos"
+                      },
+                      "slug": {
+                        "en": "dynamic-groups",
+                        "es": "grupos-dinamicos",
+                        "pt": "grupos-dinamicos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Static groups",
+                        "es": "Grupos estáticos",
+                        "pt": "Grupos estáticos"
+                      },
+                      "slug": {
+                        "en": "static-groups",
+                        "es": "grupos-estaticos",
+                        "pt": "grupos-estaticos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Contact history",
+                        "es": "Historial de contacto",
+                        "pt": "Histórico de Contato"
+                      },
+                      "slug": {
+                        "en": "contact-history",
+                        "es": "historial-de-contacto",
+                        "pt": "historico-de-contato"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Importing contacts",
+                        "es": "Importar contactos",
+                        "pt": "Importar contatos"
+                      },
+                      "slug": {
+                        "en": "importing-contacts",
+                        "es": "como-importar-contactos",
+                        "pt": "como-importar-contatos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
                 },
                 {
                   "name": {
-                    "en": "Triggers types",
-                    "es": "Tipos de activadores",
-                    "pt": "Tipos de Gatilho"
+                    "en": "Campaigns",
+                    "es": "Campañas",
+                    "pt": "Campanhas"
                   },
                   "slug": {
-                    "en": "triggers-types",
-                    "es": "tipos-de-activadores",
-                    "pt": "tipos-de-gatilho"
+                    "en": "campaign-introduction",
+                    "es": "introduccion-a-campanas",
+                    "pt": "introducao-a-campanhas"
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": []
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Creating a campaign",
+                        "es": "Crear una campaña",
+                        "pt": "Criar uma campanha"
+                      },
+                      "slug": {
+                        "en": "how-to-create-a-campaign",
+                        "es": "como-crear-una-campana",
+                        "pt": "como-criar-uma-campanha"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Editing events",
+                        "es": "Editar eventos",
+                        "pt": "Editar eventos"
+                      },
+                      "slug": {
+                        "en": "editing-events",
+                        "es": "modificando-eventos",
+                        "pt": "modificando-eventos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "Triggers",
+                    "es": "Triggers",
+                    "pt": "Triggers"
+                  },
+                  "slug": {
+                    "en": "triggers-subcategory",
+                    "es": "triggers-subcategoria",
+                    "pt": "triggers-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Adding a trigger",
+                        "es": "Crear un trigger",
+                        "pt": "Criar um trigger"
+                      },
+                      "slug": {
+                        "en": "adding-a-trigger",
+                        "es": "como-crear-un-activador",
+                        "pt": "como-criar-um-disparador"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Tell a flow to ignore triggers and keywords",
+                        "es": "Ignorar un trigger en un flujo",
+                        "pt": "Ignorar um trigger em um fluxo"
+                      },
+                      "slug": {
+                        "en": "tell-a-flow-to-ignore-triggers-and-keywords",
+                        "es": "como-ignorar-un-activador-en-un-flujo",
+                        "pt": "como-ignorar-um-gatilho-em-um-fluxo"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Triggers types",
+                        "es": "Tipos de triggers",
+                        "pt": "Tipos de Trigger"
+                      },
+                      "slug": {
+                        "en": "triggers-types",
+                        "es": "tipos-de-activadores",
+                        "pt": "tipos-de-gatilho"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
                 }
               ]
             },
             {
               "name": {
-                "en": "VTEX CX Platform - Overview",
-                "es": "Visión de conjunto de VTEX CX Platform",
-                "pt": "Visão geral VTEX CX Platform"
-              },
-              "slug": {
-                "en": "vtex-cx-platform-overview-subcategory",
-                "es": "vision-de-conjunto-de-vtex-cx-platform-subcategoria",
-                "pt": "visão-geral-vtex-cx-platform-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Platform glossary",
-                    "es": "Glosário de la plataforma",
-                    "pt": "Glossário da plataforma"
-                  },
-                  "slug": {
-                    "en": "platform-glossary",
-                    "es": "glosario-de-la-plataforma",
-                    "pt": "glossario-da-plataforma"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX CX Platform: Overview",
-                    "es": "Información general de VTEX CX Platform",
-                    "pt": "Visão geral do VTEX CX Platform"
-                  },
-                  "slug": {
-                    "en": "vtex-cx-platform-overview",
-                    "es": "vtex-cx-platform-vision-de-conjunto",
-                    "pt": "vtex-cx-platform-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "VTEX CX Platform Settings",
-                "es": "Configuraciones VTEX CX Platform",
-                "pt": "Configurações VTEX CX Platform"
-              },
-              "slug": {
-                "en": "vtex-cx-platform-settings-subcategory",
-                "es": "configuraciones-vtex-cx-platform-subcategoria",
-                "pt": "configurações-vtex-cx-platform-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "CX Platform settings: Workspace",
-                    "es": "Configuración de CX Platform: Workspace",
-                    "pt": "Configurações CX Platform: Espaço de trabalho"
-                  },
-                  "slug": {
-                    "en": "cx-platform-settings-workspace",
-                    "es": "configuracion-de-cx-platform-espacio-de-trabajo",
-                    "pt": "configuracoes-cx-platform-espaco-de-trabalho"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing VTEX CX Platform members",
-                    "es": "Gestionar miembros de VTEX CX Platform",
-                    "pt": "Gerenciar membros do VTEX CX Platform"
-                  },
-                  "slug": {
-                    "en": "managing-vtex-cx-platform-members",
-                    "es": "administrar-miembros-de-la-plataforma-vtex-cx",
-                    "pt": "gerenciar-membros-do-vtex-cx-platform"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Analytics",
-                "es": "Analytics",
-                "pt": "Analytics"
-              },
-              "slug": {
-                "en": "analytics",
-                "es": "analytics",
-                "pt": "analytics"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Analytics: Create custom dashboard",
-                    "es": "Analytics: Crear dashboard personalizado",
-                    "pt": "Analytics: Criar dashboard personalizado"
-                  },
-                  "slug": {
-                    "en": "create-analytics-dashboard",
-                    "es": "crear-dashboard-personalizado",
-                    "pt": "analytics-criar-dashboard-personalizado"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Analytics: Support metrics",
-                    "es": "Analytics: Métricas de atención",
-                    "pt": "Analytics: Métricas de atendimento"
-                  },
-                  "slug": {
-                    "en": "analytics-support-metrics",
-                    "es": "analytics-metricas-de-atencion",
-                    "pt": "analytics-metricas-de-atendimento"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Audit: Overview",
-                "es": "Auditoría: Información general",
-                "pt": "Auditoria Overview"
+                "en": "Audit",
+                "es": "Auditoría",
+                "pt": "Auditoria"
               },
               "slug": {
                 "en": "audit-overview",
@@ -35329,14 +35037,634 @@
             },
             {
               "name": {
-                "en": "Code action first steps",
-                "es": "Primeros pasos - Code Action",
-                "pt": "Primeiros passos - Code Action"
+                "en": "Settings",
+                "es": "Configuración",
+                "pt": "Configurações"
+              },
+              "slug": {
+                "en": "vtex-cx-platform-settings-subcategory",
+                "es": "configuraciones-vtex-cx-platform-subcategoria",
+                "pt": "configurações-vtex-cx-platform-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "CX Platform settings: Workspace",
+                    "es": "Configuración de CX Platform: Workspace",
+                    "pt": "Configurações CX Platform: Espaço de trabalho"
+                  },
+                  "slug": {
+                    "en": "cx-platform-settings-workspace",
+                    "es": "configuracion-de-cx-platform-espacio-de-trabajo",
+                    "pt": "configuracoes-cx-platform-espaco-de-trabalho"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Managing VTEX CX Platform members",
+                    "es": "Gestionar miembros de VTEX CX Platform",
+                    "pt": "Gerenciar membros do VTEX CX Platform"
+                  },
+                  "slug": {
+                    "en": "managing-vtex-cx-platform-members",
+                    "es": "administrar-miembros-de-la-plataforma-vtex-cx",
+                    "pt": "gerenciar-membros-do-vtex-cx-platform"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Integrations",
+                "es": "Integraciones",
+                "pt": "Integrações"
+              },
+              "slug": {
+                "en": "the-basics-of-integrations",
+                "es": "conceptos-basicos-sobre-integraciones",
+                "pt": "nocoes-basicas-sobre-integracoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": [
+                {
+                  "name": {
+                    "en": "WhatsApp: Integration with VTEX CX Platform",
+                    "es": "WhatsApp: integración con VTEX CX Platform",
+                    "pt": "WhatsApp: Integração com o VTEX CX Platform"
+                  },
+                  "slug": {
+                    "en": "whatsapp-vtex-cx-platform-integration",
+                    "es": "whatsapp-integracion-con-vtex-cx-platform",
+                    "pt": "whatsapp-integracao-com-o-vtex-cx-platform"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Webhook configuration: Message delivery status",
+                        "es": "Configuración del webhook: Estado del envío de mensajes",
+                        "pt": "Configuração do Webhook: Status de envio das mensagens"
+                      },
+                      "slug": {
+                        "en": "webhook-configuration-message-delivery-status",
+                        "es": "configuracion-del-webhook-estado-del-envio-de-mensajes",
+                        "pt": "configuracao-do-webhook-status-de-envio-das-mensagens"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring back in stock alerts",
+                        "es": "Configurar alertas de disponibilidad de stock",
+                        "pt": "Configurar alertas de volta ao estoque"
+                      },
+                      "slug": {
+                        "en": "configuring-back-in-stock-alerts",
+                        "es": "configurar-alertas-de-disponibilidad-de-stock",
+                        "pt": "configurando-alertas-de-volta-ao-estoque"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a channel with WhatsApp Demo",
+                        "es": "Crear un canal en WhatsApp demo",
+                        "pt": "Criar um canal no WhatsApp Demo"
+                      },
+                      "slug": {
+                        "en": "how-to-create-a-channel-with-whatsapp-demo",
+                        "es": "como-crear-un-canal-en-whatsapp-demo",
+                        "pt": "como-criar-um-canal-no-whatsapp-demo"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Active message dispatch on WhatsApp",
+                        "es": "Envío activo de mensajes en WhatsApp",
+                        "pt": "Disparo ativo no WhatsApp"
+                      },
+                      "slug": {
+                        "en": "active-message-dispatch-on-whatsapp",
+                        "es": "envio-activo-de-mensajes-en-whatsapp",
+                        "pt": "disparo-ativo-no-whatsapp"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Supported media sending - WhatsApp Cloud",
+                        "es": "WhatsApp Business API: Envío de medios",
+                        "pt": "Envio de Mídias Suportadas - WhatsApp Cloud"
+                      },
+                      "slug": {
+                        "en": "supported-media-sending-whatsapp-cloud",
+                        "es": "whatsapp-business-api-envio-de-midias",
+                        "pt": "envio-de-midias-suportadas-whatsapp-cloud"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Opt-in: Obtaining consent for WhatsApp",
+                        "es": "Buenas prácticas: Opt-in",
+                        "pt": "Opt-In: Obter aceitação para o WhatsApp"
+                      },
+                      "slug": {
+                        "en": "opt-in-obtaining-consent-for-whatsapp",
+                        "es": "buenas-practicas-opt-in",
+                        "pt": "opt-in-obter-aceitacao-para-o-whatsapp"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "WhatsApp business API pricing",
+                        "es": "Precios de WhatsApp Business API",
+                        "pt": "Precificação do Whatsapp Business API"
+                      },
+                      "slug": {
+                        "en": "whatsapp-business-api-pricing",
+                        "es": "precificacion-de-whatsapp-business-api",
+                        "pt": "precificacao-do-whatsapp-business-api"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Regaining access to Business Manager",
+                        "es": "Recuperando el acceso al Administrador de negocios",
+                        "pt": "Recuperando acesso ao Gerenciador de Negócios"
+                      },
+                      "slug": {
+                        "en": "regaining-access-to-business-manager",
+                        "es": "recuperando-el-acceso-al-administrador-de-negocios",
+                        "pt": "recuperando-acesso-ao-gerenciador-de-negocios"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "WhatsApp Business API: How to verify my business",
+                        "es": "WhatsApp Business API: ¿Cómo verificar mi negocio?",
+                        "pt": "Whatsapp Bussiness API: Como Verificar o meu Negócio"
+                      },
+                      "slug": {
+                        "en": "whatsapp-bussiness-api-how-to-verify-my-business",
+                        "es": "whatsapp-bussiness-api-como-verificar-mi-negocio",
+                        "pt": "whatsapp-bussiness-api-como-verificar-o-meu-negocio"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "WhatsApp Business API: WhatsApp message triggering limitation",
+                        "es": "WhatsApp Business API: Limitación de envíos masivos en WhatsApp",
+                        "pt": "Whatsapp Bussiness API: Limitação de Disparos em Massa do WhatsApp"
+                      },
+                      "slug": {
+                        "en": "whatsapp-bussiness-api-whatsapp-message-triggering-limitation",
+                        "es": "whatsapp-business-api-limitacion-de-envios-masivos-en-whatsapp",
+                        "pt": "whatsapp-bussiness-api-limitacao-de-disparos-em-massa-do-whatsapp"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "WhatsApp template messages: Impediments and configurations",
+                        "es": "Mensajes de plantilla de WhatsApp: Obstáculos y configuraciones",
+                        "pt": "Whatsapp Template Messages: impedimentos e configurações"
+                      },
+                      "slug": {
+                        "en": "whatsapp-template-messages-impediments-and-configurations",
+                        "es": "mensajes-de-plantilla-de-whatsapp-obstaculos-y-configuraciones",
+                        "pt": "whatsapp-template-messages-impedimentos-e-configuracoes"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "WhatsApp: How to create template messages",
+                        "es": "WhatsApp: Cómo crear mensajes de plantilla",
+                        "pt": "WhatsApp: Como criar Template Messages"
+                      },
+                      "slug": {
+                        "en": "whatsapp-how-to-create-template-messages",
+                        "es": "whatsapp-como-crear-mensajes-de-plantilla",
+                        "pt": "whatsapp-como-criar-template-messages"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "Channels",
+                    "es": "Canales",
+                    "pt": "Canais"
+                  },
+                  "slug": {
+                    "en": "cx-platform-channels-subcategory",
+                    "es": "cx-platform-canales-subcategoria",
+                    "pt": "cx-platform-canais-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Adding Discord as a channel",
+                        "es": "Agregar Discord como un canal",
+                        "pt": "Adicionando o Discord como um canal"
+                      },
+                      "slug": {
+                        "en": "adding-discord-as-a-channel",
+                        "es": "agregar-discord-como-un-canal",
+                        "pt": "adicionando-o-discord-como-um-canal"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Adding a Viber channel (RapidPro)",
+                        "es": "Agregando un canal de Viber (RapidPro)",
+                        "pt": "Adicionando um canal Viber (RapidPro)"
+                      },
+                      "slug": {
+                        "en": "adding-a-viber-channel-rapidpro",
+                        "es": "agregando-un-canal-de-viber-rapidpro",
+                        "pt": "adicionando-um-canal-viber-rapidpro"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a Slack channel",
+                        "es": "Creando un canal de Slack",
+                        "pt": "Criar um canal do Slack"
+                      },
+                      "slug": {
+                        "en": "creating-a-slack-channel",
+                        "es": "creando-un-canal-de-slack",
+                        "pt": "criando-um-canal-do-slack"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Adding a Facebook channel",
+                        "es": "Crear un canal en Facebook",
+                        "pt": "Criar um canal no Facebook"
+                      },
+                      "slug": {
+                        "en": "adding-a-facebook-channel",
+                        "es": "como-crear-un-canal-en-facebook",
+                        "pt": "como-criar-um-canal-no-facebook"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a channel on Instagram",
+                        "es": "Crear un canal en Instagram",
+                        "pt": "Criar um canal no Instagram"
+                      },
+                      "slug": {
+                        "en": "how-to-create-a-channel-on-instagram",
+                        "es": "como-crear-un-canal-en-instagram",
+                        "pt": "como-criar-um-canal-no-instagram"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Adding a Telegram channel",
+                        "es": "Crear un canal en Telegram",
+                        "pt": "Criar um canal no Telegram"
+                      },
+                      "slug": {
+                        "en": "adding-a-telegram-channel",
+                        "es": "como-crear-un-canal-en-telegram",
+                        "pt": "como-criar-um-canal-no-telegram"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a channel on Twitter",
+                        "es": "Crear un canal en Twitter",
+                        "pt": "Criar um canal no Twitter"
+                      },
+                      "slug": {
+                        "en": "how-to-create-a-channel-on-twitter",
+                        "es": "como-crear-un-canal-en-twitter",
+                        "pt": "como-criar-um-canal-no-twitter"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Adding a Viber channel",
+                        "es": "Crear un canal en Viber",
+                        "pt": "Criar um canal no Viber"
+                      },
+                      "slug": {
+                        "en": "adding-a-viber-channel",
+                        "es": "como-crear-un-canal-en-viber",
+                        "pt": "como-criar-um-canal-no-viber"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating an SMS channel",
+                        "es": "Crear un canal SMS",
+                        "pt": "Criar um canal SMS"
+                      },
+                      "slug": {
+                        "en": "how-to-create-an-sms-channel",
+                        "es": "como-crear-un-canal-sms",
+                        "pt": "como-criar-um-canal-sms"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating an SMS channel - for developers (RapidPro)",
+                        "es": "Crear un canal de SMS - para desarrolladores (RapidPro)",
+                        "pt": "Criar um canal SMS - para desenvolvedores (RapidPro)"
+                      },
+                      "slug": {
+                        "en": "how-to-create-an-sms-channel-for-developers-rapidpro",
+                        "es": "como-crear-un-canal-de-sms-para-desarrolladores-rapidpro",
+                        "pt": "como-criar-um-canal-sms-para-desenvolvedores-rapidpro"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a Web Channel",
+                        "es": "Crear un canal web",
+                        "pt": "Criar um canal web"
+                      },
+                      "slug": {
+                        "en": "how-to-create-a-web-channel",
+                        "es": "como-crear-un-canal-web",
+                        "pt": "como-criar-um-canal-web"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Native ChatGPT integration",
+                        "es": "Integración nativa ChatGPT",
+                        "pt": "Integrar com o ChatGPT"
+                      },
+                      "slug": {
+                        "en": "native-chatgpt-integration",
+                        "es": "integracion-nativa-chatgpt",
+                        "pt": "integracao-nativa-chatgpt"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a Microsoft Teams channel",
+                        "es": "Creación de un canal de Microsoft Teams",
+                        "pt": "Integrar com o Microsoft Teams"
+                      },
+                      "slug": {
+                        "en": "creating-a-microsoft-teams-channel",
+                        "es": "creacion-de-un-canal-de-microsoft-teams",
+                        "pt": "integracao-com-o-microsoft-teams"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Ticketer: Ticketer on Rapid Pro",
+                        "es": "Ticketer: Añadiendo el servicio de Ticketer en RapidPro",
+                        "pt": "Ticketer: Adicionando serviço de Ticketer no RapidPro"
+                      },
+                      "slug": {
+                        "en": "ticketer-ticketer-on-rapid-pro",
+                        "es": "ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro",
+                        "pt": "ticketer-adicionando-servico-de-ticketer-no-rapidpro"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "Shopping Assistant",
+                    "es": "Shopping Assistant",
+                    "pt": "Shopping Assistant"
+                  },
+                  "slug": {
+                    "en": "shopping-assistant-overview",
+                    "es": "shopping-assistant-vision-general",
+                    "pt": "visao-geral-do-shopping-assistant"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Configuring the Shopping Assistant",
+                        "es": "Configurar el Shopping Assistant",
+                        "pt": "Configurar o Shopping Assistant"
+                      },
+                      "slug": {
+                        "en": "configure-shopping-assistant",
+                        "es": "configurar-el-shopping-assistant",
+                        "pt": "configurar-o-shopping-assistant"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Shopping Assistant: Suggested questions",
+                        "es": "Shopping Assistant: preguntas sugeridas",
+                        "pt": "Shopping Assistant: perguntas sugeridas"
+                      },
+                      "slug": {
+                        "en": "shopping-assistant-suggested-questions",
+                        "es": "shopping-assistant-preguntas-sugeridas",
+                        "pt": "shopping-assistant-perguntas-sugeridas"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "Good practices: Opt-out",
+                    "es": "Buenas prácticas: Opt-out",
+                    "pt": "Boas práticas: Opt-Out"
+                  },
+                  "slug": {
+                    "en": "good-practices-opt-out",
+                    "es": "buenas-practicas-opt-out",
+                    "pt": "boas-praticas-opt-out"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Connecting and talking to the bot through the settings",
+                    "es": "Conectar y hablar con el bot",
+                    "pt": "Conectar e falar com o bot através das configurações"
+                  },
+                  "slug": {
+                    "en": "how-to-connect-and-talk-to-the-bot-through-the-settings",
+                    "es": "como-conectar-y-hablar-con-el-bot",
+                    "pt": "como-conectar-e-falar-com-o-bot-atraves-das-configuracoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "External service",
+                    "es": "Servicio externo",
+                    "pt": "Serviço Externo"
+                  },
+                  "slug": {
+                    "en": "external-service",
+                    "es": "servicio-externo",
+                    "pt": "servico-externo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Using the applications module",
+                    "es": "Utilizar el módulo de aplicaciones",
+                    "pt": "Utilizar Canais (em Configurações)"
+                  },
+                  "slug": {
+                    "en": "how-to-use-the-applications-module",
+                    "es": "como-utilizar-el-modulo-de-aplicaciones",
+                    "pt": "como-utilizar-o-modulo-aplicativos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Subscribing to a VTEX CX Platform plan",
+                "es": "Suscribirse a un plan de VTEX CX Platform",
+                "pt": "Assinando um plano da VTEX CX Platform"
+              },
+              "slug": {
+                "en": "subscribing-to-a-vtex-cx-platform-plan",
+                "es": "suscribirse-a-un-plan-de-vtex-cx-platform",
+                "pt": "assinando-um-plano-da-vtex-cx-platform"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Code Action",
+                "es": "Code Action",
+                "pt": "Code Action"
               },
               "slug": {
                 "en": "code-action-first-steps",
                 "es": "primeros-pasos-code-action",
                 "pt": "primeiros-passos-code-action"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX CX Platform Glossary",
+                "es": "Glosario de VTEX CX Platform",
+                "pt": "Glossário do VTEX CX Platform"
+              },
+              "slug": {
+                "en": "platform-glossary",
+                "es": "glosario-de-la-plataforma",
+                "pt": "glossario-da-plataforma"
               },
               "origin": "",
               "type": "markdown",
@@ -36334,7 +36662,7 @@
                 {
                   "name": {
                     "en": "Intelligent Search: Semantic search (Beta)",
-                    "es": "Intelligent Search: búsqueda semántica (beta)",
+                    "es": "Intelligent Search: Búsqueda semántica (beta)",
                     "pt": "Intelligent Search: Busca semântica (Beta)"
                   },
                   "slug": {
@@ -39735,6 +40063,21 @@
             },
             {
               "name": {
+                "en": "Top Bar Customization Inactive Organization Message doesn't work",
+                "es": "El mensaje de organización inactiva de personalización de la barra superior no funciona.",
+                "pt": "A personalização da barra superior e a mensagem de organização inativa não funcionam."
+              },
+              "slug": {
+                "en": "top-bar-customization-inactive-organization-message-doesnt-work",
+                "es": "el-mensaje-de-organizacion-inactiva-de-personalizacion-de-la-barra-superior-no-funciona",
+                "pt": "a-personalizacao-da-barra-superior-e-a-mensagem-de-organizacao-inativa-nao-funcionam"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Search in Users tab in B2B Organization Details doesn't filter when there is no result",
                 "es": "La búsqueda en la pestaña Usuarios en Detalles de la organización B2B no filtra cuando no hay ningún resultado.",
                 "pt": "A pesquisa na guia Usuários em Detalhes da organização B2B não filtra quando não há nenhum resultado"
@@ -41334,6 +41677,21 @@
                 "en": "category-trees-specification-navigation-can-return-incorrect-data",
                 "es": "la-navegacion-por-las-especificaciones-del-arbol-de-categorias-puede-devolver-datos-incorrectos",
                 "pt": "a-navegacao-de-especificacao-da-arvore-de-categorias-pode-retornar-dados-incorretos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "ActivateIfPossible set to \"False\" if mandatory specifications are not fully saved on catalog admin",
+                "es": "ActivateIfPossible se establece en \"False\" si las especificaciones obligatorias no se guardan completamente en el administrador del catálogo.",
+                "pt": "A opção ActivateIfPossible deve ser definida como \"False\" se as especificações obrigatórias não estiverem totalmente salvas no painel de administração do catálogo."
+              },
+              "slug": {
+                "en": "activateifpossible-set-to-false-if-mandatory-specifications-are-not-fully-saved-on-catalog-admin",
+                "es": "activateifpossible-se-establece-en-false-si-las-especificaciones-obligatorias-no-se-guardan-completamente-en-el-administrador-del-catalogo",
+                "pt": "a-opcao-activateifpossible-deve-ser-definida-como-false-se-as-especificacoes-obrigatorias-nao-estiverem-totalmente-salvas-no-painel-de-administracao-do-catalogo"
               },
               "origin": "",
               "type": "markdown",
@@ -50901,21 +51259,6 @@
             },
             {
               "name": {
-                "en": "Magazine Luiza Order with error \"Object reference not set to an instance of an object\"",
-                "es": "Magazine Luiza Pedido con el error «La referencia al objeto no se ha establecido en una instancia de un objeto»",
-                "pt": "Magazine Luiza Erro no pedido: \"Referência de objeto não definida para uma instância de objeto\""
-              },
-              "slug": {
-                "en": "magazine-luiza-order-with-error-object-reference-not-set-to-an-instance-of-an-object",
-                "es": "magazine-luiza-pedido-con-el-error-la-referencia-al-objeto-no-se-ha-establecido-en-una-instancia-de-un-objeto",
-                "pt": "magazine-luiza-erro-no-pedido-referencia-de-objeto-nao-definida-para-uma-instancia-de-objeto"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Magazine Luiza Orders with APPROVED status on the marketplace are not being approved on VTEX",
                 "es": "Magazine Luiza Los pedidos con el estado «APROBADO» en el marketplace no se están aprobando en VTEX",
                 "pt": "Magazine Luiza Os pedidos com o status \"APROVADO\" no marketplace não estão sendo aprovados no VTEX"
@@ -50939,21 +51282,6 @@
                 "en": "magazine-luiza-order-canceled-on-marketplace-didnt-cancel-on-vtex",
                 "es": "magazine-luiza-el-pedido-cancelado-en-marketplace-no-se-ha-cancelado-en-vtex",
                 "pt": "magazine-luiza-pedido-cancelado-no-marketplace-mas-nao-no-vtex"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Magazine Luiza Orders pending dispatch authorization even if approved by Marketplace",
-                "es": "Magazine Luiza Pedidos pendientes de autorización de envío, incluso si son aprobados por Marketplace.",
-                "pt": "Magazine Luiza Pedidos aguardando autorização de envio mesmo se aprovados pelo Marketplace"
-              },
-              "slug": {
-                "en": "magazine-luiza-orders-pending-dispatch-authorization-even-if-approved-by-marketplace",
-                "es": "magazine-luiza-pedidos-pendientes-de-autorizacion-de-envio-incluso-si-son-aprobados-por-marketplace",
-                "pt": "magazine-luiza-pedidos-aguardando-autorizacao-de-envio-mesmo-se-aprovados-pelo-marketplace"
               },
               "origin": "",
               "type": "markdown",
@@ -51179,21 +51507,6 @@
                 "en": "mercado-livre-main-image-not-respected",
                 "es": "mercado-livre-imagen-principal-no-respetada",
                 "pt": "mercado-livre-imagem-principal-nao-respeitada"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Mercado Livre Multi-Origin - orders allocated to inactive stock",
-                "es": "Mercado Livre Orígenes múltiples: pedidos asignados a existencias inactivas",
-                "pt": "Mercado Livre Multi-Origem - pedidos alocados ao estoque inativo"
-              },
-              "slug": {
-                "en": "mercado-livre-multiorigin-orders-allocated-to-inactive-stock",
-                "es": "mercado-livre-origenes-multiples-pedidos-asignados-a-existencias-inactivas",
-                "pt": "mercado-livre-multiorigem-pedidos-alocados-ao-estoque-inativo"
               },
               "origin": "",
               "type": "markdown",
@@ -58142,6 +58455,21 @@
             },
             {
               "name": {
+                "en": "Change Order V2 item removal with compensateShippingChanges + free shipping leaves non-zero price/sellingPrice per item in logisticsInfo",
+                "es": "Modificar pedido V2: eliminación de artículo con compensaciónShippingChanges + envío gratuito deja un precio/precio de venta distinto de cero por artículo en logisticsInfo",
+                "pt": "A remoção do item Change Order V2 com compensationShippingChanges + frete grátis resulta em um preço/preço de venda diferente de zero por item em logisticsInfo."
+              },
+              "slug": {
+                "en": "change-order-v2-item-removal-with-compensateshippingchanges-free-shipping-leaves-nonzero-pricesellingprice-per-item-in-logisticsinfo",
+                "es": "modificar-pedido-v2-eliminacion-de-articulo-con-compensacionshippingchanges-envio-gratuito-deja-un-precioprecio-de-venta-distinto-de-cero-por-articulo-en-logisticsinfo",
+                "pt": "a-remocao-do-item-change-order-v2-com-compensationshippingchanges-frete-gratis-resulta-em-um-precopreco-de-venda-diferente-de-zero-por-item-em-logisticsinfo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Subscriptions simulation returned error when PickupPointID contains special characters",
                 "es": "La simulación de suscripciones devolvió un error cuando PickupPointID contiene caracteres especiales",
                 "pt": "A simulação de assinaturas retornou um erro quando o PickupPointID contém caracteres especiais"
@@ -62803,6 +63131,21 @@
                 "en": "same-boleto-number-generated-for-two-distinct-transactions-itau-shopline",
                 "es": "se-genero-el-mismo-numero-de-boleto-para-dos-transacciones-distintas-itau-shopline",
                 "pt": "o-mesmo-numero-de-boleto-foi-gerado-para-duas-transacoes-distintas-itau-shopline"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Saved-card payment uses the BIN of a previously typed card in Checkout (card UI keeps the typed card number after switching to a saved card)",
+                "es": "El pago con tarjeta guardada utiliza el BIN de una tarjeta introducida previamente en el proceso de pago (la interfaz de usuario de la tarjeta conserva el número de tarjeta introducido después de cambiar a una tarjeta guardada).",
+                "pt": "O pagamento com cartão salvo utiliza o BIN de um cartão previamente digitado no Checkout (a interface do cartão mantém o número do cartão digitado após a troca para um cartão salvo)."
+              },
+              "slug": {
+                "en": "savedcard-payment-uses-the-bin-of-a-previously-typed-card-in-checkout-card-ui-keeps-the-typed-card-number-after-switching-to-a-saved-card",
+                "es": "el-pago-con-tarjeta-guardada-utiliza-el-bin-de-una-tarjeta-introducida-previamente-en-el-proceso-de-pago-la-interfaz-de-usuario-de-la-tarjeta-conserva-el-numero-de-tarjeta-introducido-despues-de-cambiar-a-una-tarjeta-guardada",
+                "pt": "o-pagamento-com-cartao-salvo-utiliza-o-bin-de-um-cartao-previamente-digitado-no-checkout-a-interface-do-cartao-mantem-o-numero-do-cartao-digitado-apos-a-troca-para-um-cartao-salvo"
               },
               "origin": "",
               "type": "markdown",
@@ -68969,6 +69312,21 @@
             },
             {
               "name": {
+                "en": "region_id outside the Base64 format discards the visitor's region from the session during SSR",
+                "es": "Si region_id no está en formato Base64, se descarta la región del visitante de la sesión durante el SSR.",
+                "pt": "O `region_id` fora do formato Base64 descarta a região do visitante da sessão durante a renderização no servidor (SSR)."
+              },
+              "slug": {
+                "en": "regionid-outside-the-base64-format-discards-the-visitors-region-from-the-session-during-ssr",
+                "es": "si-regionid-no-esta-en-formato-base64-se-descarta-la-region-del-visitante-de-la-sesion-durante-el-ssr",
+                "pt": "o-regionid-fora-do-formato-base64-descarta-a-regiao-do-visitante-da-sessao-durante-a-renderizacao-no-servidor-ssr"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "AB Tester app shows miscalculated information for sessions and conversion",
                 "es": "La aplicación AB Tester muestra información errónea sobre sesiones y conversión",
                 "pt": "O aplicativo AB Tester mostra informações mal calculadas para sessões e conversão"
@@ -69037,6 +69395,21 @@
                 "en": "breadcrumb-not-being-read-by-crawlers-due-ssr-timeout",
                 "es": "los-rastreadores-no-leen-la-ruta-de-navegacion-debido-a-un-tiempo-de-espera-de-ssr",
                 "pt": "o-breadcrumb-nao-esta-sendo-lido-pelos-rastreadores-devido-ao-tempo-limite-do-ssr"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Custom header with key \"Link\" is not delivered on Store Framework stores",
+                "es": "El encabezado personalizado con la clave \"Link\" no se entrega en las tiendas de Store Framework.",
+                "pt": "O cabeçalho personalizado com a chave \"Link\" não é entregue em lojas com o Store Framework."
+              },
+              "slug": {
+                "en": "custom-header-with-key-link-is-not-delivered-on-store-framework-stores",
+                "es": "el-encabezado-personalizado-con-la-clave-link-no-se-entrega-en-las-tiendas-de-store-framework",
+                "pt": "o-cabecalho-personalizado-com-a-chave-link-nao-e-entregue-em-lojas-com-o-store-framework"
               },
               "origin": "",
               "type": "markdown",
@@ -70136,6 +70509,21 @@
               "origin": "",
               "type": "markdown",
               "children": []
+            },
+            {
+              "name": {
+                "en": "vtex.structured-data App settings are not applied in PDP SSR HTML",
+                "es": "vtex.structured-data La configuración de la aplicación no se aplica en PDP SSR HTML",
+                "pt": "vtex.structured-data As configurações do aplicativo não são aplicadas no PDP SSR HTML"
+              },
+              "slug": {
+                "en": "vtexstructureddata-app-settings-are-not-applied-in-pdp-ssr-html",
+                "es": "vtexstructureddata-la-configuracion-de-la-aplicacion-no-se-aplica-en-pdp-ssr-html",
+                "pt": "vtexstructureddata-as-configuracoes-do-aplicativo-nao-sao-aplicadas-no-pdp-ssr-html"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -70368,6 +70756,21 @@
             },
             {
               "name": {
+                "en": "Amazon Listing SKU can’t be sent through Product publication after its images are replaced in the catalog",
+                "es": "Amazon Listado El SKU no se puede enviar a través de la publicación del producto después de que sus imágenes se hayan reemplazado en el catálogo.",
+                "pt": "Amazon Listagem O SKU não pode ser enviado através da publicação do produto após a substituição de suas imagens no catálogo."
+              },
+              "slug": {
+                "en": "amazon-listing-sku-cant-be-sent-through-product-publication-after-its-images-are-replaced-in-the-catalog",
+                "es": "amazon-listado-el-sku-no-se-puede-enviar-a-traves-de-la-publicacion-del-producto-despues-de-que-sus-imagenes-se-hayan-reemplazado-en-el-catalogo",
+                "pt": "amazon-listagem-o-sku-nao-pode-ser-enviado-atraves-da-publicacao-do-produto-apos-a-substituicao-de-suas-imagens-no-catalogo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Amazon NF-e for Amazon DBA (Easy Ship) orders rejected when a promotional discount is applied by the buyer",
                 "es": "Amazon Los pedidos NF-e para Amazon DBA (Easy Ship) son rechazados cuando el comprador aplica un descuento promocional.",
                 "pt": "Amazon NF-e para pedidos Amazon DBA (Easy Ship) rejeitados quando um desconto promocional é aplicado pelo comprador"
@@ -70451,6 +70854,21 @@
                 "en": "amazonmatch-in-some-cases-sku-reverts-to-pending-review-after-match-confirmation-with-no-indication-of-amazons-rejection-reason",
                 "es": "amazoncoincidencia-en-algunos-casos-el-sku-vuelve-a-estar-en-pendiente-de-revision-despues-de-la-confirmacion-de-la-coincidencia-sin-ninguna-indicacion-del-motivo-del-rechazo-de-amazon",
                 "pt": "amazonmatch-em-alguns-casos-o-sku-volta-para-aguardando-revisao-apos-a-confirmacao-da-correspondencia-sem-nenhuma-indicacao-do-motivo-da-rejeicao-da-amazon"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "APP FBE Store pages wait for an external file to load when Facebook Business Extension is installed",
+                "es": "APP FBE Las páginas de la tienda esperan a que se cargue un archivo externo cuando se instala la extensión de Facebook Business.",
+                "pt": "APP FBE As páginas da loja aguardam o carregamento de um arquivo externo quando a Extensão de Negócios do Facebook está instalada."
+              },
+              "slug": {
+                "en": "app-fbe-store-pages-wait-for-an-external-file-to-load-when-facebook-business-extension-is-installed",
+                "es": "app-fbe-las-paginas-de-la-tienda-esperan-a-que-se-cargue-un-archivo-externo-cuando-se-instala-la-extension-de-facebook-business",
+                "pt": "app-fbe-as-paginas-da-loja-aguardam-o-carregamento-de-um-arquivo-externo-quando-a-extensao-de-negocios-do-facebook-esta-instalada"
               },
               "origin": "",
               "type": "markdown",
@@ -70563,6 +70981,21 @@
             },
             {
               "name": {
+                "en": "Magalu SLA not available in Multilevel architecture",
+                "es": "Magalu SLA no disponible en arquitectura multinivel",
+                "pt": "Magalu SLA não disponível na arquitetura multinível"
+              },
+              "slug": {
+                "en": "magalu-sla-not-available-in-multilevel-architecture",
+                "es": "magalu-sla-no-disponible-en-arquitectura-multinivel",
+                "pt": "magalu-sla-nao-disponivel-na-arquitetura-multinivel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Magazine Luiza - Main Image not respected",
                 "es": "Magazine Luiza - Imagen principal no respetada",
                 "pt": "Magazine Luiza - Imagem principal não respeitada"
@@ -70601,6 +71034,36 @@
                 "en": "magazine-luiza-order-canceled-on-marketplace-didnt-update-status-on-vtex",
                 "es": "magazine-luiza-el-pedido-cancelado-en-el-mercado-no-se-actualizo-en-vtex",
                 "pt": "magazine-luiza-pedido-cancelado-no-marketplace-mas-o-status-nao-foi-atualizado-no-vtex"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Magazine Luiza Order with error \"Object reference not set to an instance of an object\"",
+                "es": "Magazine Luiza Pedido con error \"La referencia a objeto no está establecida en una instancia de un objeto\"",
+                "pt": "Magazine Luiza Pedido com erro \"Referência de objeto não definida para uma instância de um objeto\""
+              },
+              "slug": {
+                "en": "magazine-luiza-order-with-error-object-reference-not-set-to-an-instance-of-an-object",
+                "es": "magazine-luiza-pedido-con-error-la-referencia-a-objeto-no-esta-establecida-en-una-instancia-de-un-objeto",
+                "pt": "magazine-luiza-pedido-com-erro-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Magazine Luiza Orders pending dispatch authorization even if approved by Marketplace",
+                "es": "Magazine Luiza Pedidos pendientes de autorización de envío, incluso si son aprobados por Marketplace.",
+                "pt": "Magazine Luiza Pedidos aguardando autorização de envio mesmo se aprovados pelo Marketplace"
+              },
+              "slug": {
+                "en": "magazine-luiza-orders-pending-dispatch-authorization-even-if-approved-by-marketplace",
+                "es": "magazine-luiza-pedidos-pendientes-de-autorizacion-de-envio-incluso-si-son-aprobados-por-marketplace",
+                "pt": "magazine-luiza-pedidos-aguardando-autorizacao-de-envio-mesmo-se-aprovados-pelo-marketplace"
               },
               "origin": "",
               "type": "markdown",
@@ -70661,6 +71124,21 @@
                 "en": "mercado-livre-error-when-reauthenticating-the-integration",
                 "es": "mercado-livre-error-al-volver-a-autenticar-la-integracion",
                 "pt": "mercado-livre-erro-ao-reautenticar-a-integracao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Multi-Origin - orders allocated to inactive stock",
+                "es": "Mercado Livre Multi-Origen - pedidos asignados a stock inactivo",
+                "pt": "Mercado Livre Multi-Origem - pedidos alocados a estoque inativo"
+              },
+              "slug": {
+                "en": "mercado-livre-multiorigin-orders-allocated-to-inactive-stock",
+                "es": "mercado-livre-multiorigen-pedidos-asignados-a-stock-inactivo",
+                "pt": "mercado-livre-multiorigem-pedidos-alocados-a-estoque-inativo"
               },
               "origin": "",
               "type": "markdown",

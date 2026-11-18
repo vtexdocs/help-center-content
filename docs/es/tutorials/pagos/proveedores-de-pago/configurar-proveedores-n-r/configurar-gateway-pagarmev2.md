@@ -50,4 +50,4 @@ Para configurar PagarMeV2, siga los pasos a continuación:
 
 Después de completar los pasos indicados, PagarMeV2 quedará configurado en su tienda. 
 
-Si desea asociarlo a una condición de pago compatible con PagarMeV2, siga el artículo [Configurar condiciones de pago](/es/tutorial/condicoes-de-pagamento).
+Si desea asociarlo a una condición de pago compatible con PagarMeV2, siga el artículo [Configurar condiciones de pago](/es/docs/tutorials/condiciones-de-pago).

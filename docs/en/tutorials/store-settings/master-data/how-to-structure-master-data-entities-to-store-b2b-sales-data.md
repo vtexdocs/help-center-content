@@ -19,7 +19,7 @@ Through [Master Data](/en/docs/tutorials/master-data) - the VTEX platform’s mo
 - By using a Content Management System (CMS) internal to the store's administrative dashboard.
 - By sending requests to [Master Data’s API](https://developers.vtex.com/docs/api-reference/master-data-api-v2-overview).
 
-The stored data is described by [Data Entities](/en/docs/tutorials/data-entity), which are representative models that allow Master Data to validate the information received and create forms. The system allows the creation of [connections between the data](/en/tutorial/creating-relationships-between-data-entities--6TdIa6Q2IgWYUu2wsYIG48) of different entities, in addition to providing a series of automation possibilities.
+The stored data is described by [Data Entities](/en/docs/tutorials/data-entity), which are representative models that allow Master Data to validate the information received and create forms. The system allows the creation of [connections between the data](/en/docs/tutorials/creating-relationships-between-master-data-entities-using-admin) of different entities, in addition to providing a series of automation possibilities.
 
 An example is the [Triggers](/en/docs/tutorials/creating-trigger-in-master-data) that can be activated by changes in stored data and can have effects such as sending emails and other changes to that data. Learn more about all the possible configurations of this module in [Master Data’s official documentation](/en/subcategory/configuracoes-de-master-data--5tSNDlvmik8gGuKw2goW4q).
 
@@ -51,7 +51,7 @@ Here are some relevant fields you can add to this table:
 
 ### Customers
 
-Every store has a Data Entity that configures the table of customers. You can add fields to that entity by following the walkthrough in the article [Creating a field in Master Data](/en/docs/tutorials/how-can-i-create-a-field-in-master-data). This way, when a customer visits a store, the front-end has access to relevant information regarding their position in the sales structure and can provide a custom experience. In addition, it is possible to limit the access to the store to only approved customers, as explained in the article [Configuring B2B on VTEX](/en/tutorial/configurando-b2b-na-vtex).
+Every store has a Data Entity that configures the table of customers. You can add fields to that entity by following the walkthrough in the article [Creating a field in Master Data](/en/docs/tutorials/how-can-i-create-a-field-in-master-data). This way, when a customer visits a store, the front-end has access to relevant information regarding their position in the sales structure and can provide a custom experience. In addition, it is possible to limit the access to the store to only approved customers, as explained in the article [Configuring B2B on VTEX](/en/docs/tutorials/setting-up-b2b-on-vtex).
 
 Here are some relevant fields you can add to this table:
 - Representative’s ID
@@ -107,10 +107,10 @@ It is also possible to fill tables in bulk by uploading spreadsheets, as explain
 - [What is Master Data](/en/docs/tutorials/master-data)
 - [Master Data API](https://developers.vtex.com/docs/api-reference/master-data-api-v2-overview)
 - [Creating data entities](/en/docs/tutorials/data-entity)
-- [Creating relationships between data entities](/en/tutorial/creating-relationships-between-data-entities--6TdIa6Q2IgWYUu2wsYIG48)
+- [Creating relationships between data entities](/en/docs/tutorials/creating-relationships-between-master-data-entities-using-admin)
 - [How to create a trigger in Master Data v1](/en/docs/tutorials/creating-trigger-in-master-data)
 - [Creating a field in Master Data](/en/docs/tutorials/how-can-i-create-a-field-in-master-data)
-- [How to set up B2B with VTEX](/en/tutorial/configurando-b2b-na-vtex)
+- [How to set up B2B with VTEX](/en/docs/tutorials/setting-up-b2b-on-vtex)
 - [Creating a form in Master Data](/en/docs/tutorials/creating-form-in-master-data)
 - [How to create an application in Master Data](/en/docs/tutorials/creating-an-application-in-master-data)
 - [Creating a Talk to Us form using Master Data](/en/tutorial/criar-formulario-de-fale-conosco-usando-master-data--frequentlyAskedQuestions_614)

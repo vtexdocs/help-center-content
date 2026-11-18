@@ -3,7 +3,7 @@ title: 'Retail Media'
 id: 36ZHI8z0VQjcu5yHeGEvv3
 status: PUBLISHED
 createdAt: 2025-05-29T14:17:24.579Z
-updatedAt: 2025-07-04T15:53:33.192Z
+updatedAt: 2026-11-06T00:00:00.000Z
 publishedAt: 2025-07-04T15:53:33.192Z
 firstPublishedAt: 2025-05-29T14:23:22.627Z
 contentType: trackArticle
@@ -21,22 +21,23 @@ Retail media stands out for leveraging consumer shopping behavior data to create
 
 ## VTEX Ads
 
-VTEX Ads is the VTEX retail media solution, designed to operationalize and scale this type of advertising within the retail ecosystem. It enables merchants and brands to create, manage, and measure ads across their own environments (such as ecommerce websites), external channels, and physical points of sale.
+**VTEX Ads** is the VTEX retail media solution, designed to operationalize and scale this type of advertising within the retail ecosystem. It enables merchants and brands to create, manage, and measure ads across their own environments (such as ecommerce websites), external channels, and physical points of sale.
 
-While browsing an ecommerce site, opening a shopping app, or visiting a physical store, consumers may come across campaigns activated through VTEX Ads, such as sponsored product shelves or promotional banners. All these touchpoints can be used as media vehicles.
+While browsing an ecommerce site, opening a shopping app, or visiting a physical store, consumers may come across campaigns activated through **VTEX Ads**, such as sponsored product shelves or promotional banners. All these touchpoints can be used as media vehicles.
 
 ## Retail media strategies
 
-VTEX Ads supports multiple advertising strategies, grouped into two main formats:
+**VTEX Ads** supports three advertising activation strategies:
 
 * **Onsite**: Ads displayed in digital channels owned by the merchant, like ecommerce websites, apps, telesales, etc.  
 * **In-store**: Activations in the merchant's physical stores, like digital displays and point-of-sale promotions.
+* **Offsite**: Ads displayed outside the store that receives the traffic, taking the user to that store, as explained in [VTEX Ads offsite campaigns](/en/docs/tutorials/vtex-ads-offsite-campaigns).
 
 These formats engage consumers at different stages of the buying journey, from brand awareness to conversion.
 
 ## Campaign types
 
-VTEX Ads allows you to set up different campaign types to achieve specific objectives during the buying journey. We describe each available type below.
+**VTEX Ads** allows you to set up different campaign types to achieve specific objectives during the buying journey. We describe each available type below.
 
 ### Sponsored products
 

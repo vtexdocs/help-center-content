@@ -21,7 +21,7 @@ Con **Delivery Promise**, tu tienda puede hacer una “promesa de entrega” al 
 
 ## Recursos disponibles
 
-Cuando el comprador proporciona su dirección, se muestra una selección inicial solo con los productos que pueden entregarse en esa ubicación o recogerse en puntos de recogida elegibles dentro de un [radio configurado](https://help.vtex.com/es/docs/tutorials/registro-de-puntos-de-recogida) o [hasta el límite predeterminado de 50 km de distancia de la ubicación](https://help.vtex.com/es/docs/tutorials/puntos-de-recogida).
+Cuando el comprador proporciona su dirección, se muestra una selección inicial solo con los productos que pueden entregarse en esa ubicación o recogerse en puntos de recogida elegibles dentro del [radio de recogida del Checkout](https://help.vtex.com/es/docs/tutorials/puntos-de-recogida#como-funcionan-puntos-de-recogida). Este radio es configurable por el comercio hasta un máximo de 50 km (predeterminado: 50 km).
 
 Además de poder comprar todos los productos que se le muestran, el comprador puede filtrar los productos en la vitrina para ver solo los resultados que cumplan determinados criterios. Esto permite al comprador una experiencia de navegación personalizada de acuerdo con sus propios objetivos:
 
@@ -38,8 +38,8 @@ La experiencia de [filtros](#filtros) por código postal, forma de envío, plazo
 **Delivery Promise** ofrece a los compradores de tu tienda la opción de filtrar los productos que se muestran en la navegación usando los siguientes filtros:
 
 * **Envío a:** productos disponibles para envío a la dirección proporcionada.  
-* **Recogida:** productos disponibles para recogida en puntos de recogida dentro de un [radio configurado](https://help.vtex.com/es/docs/tutorials/registro-de-puntos-de-recogida) o hasta la distancia predeterminada de [50 km](https://help.vtex.com/es/docs/tutorials/puntos-de-recogida) de la dirección proporcionada.  
-* **Recogida en tiendas cercanas:** productos disponibles para recoger en puntos de recogida en un radio de hasta 10 km de la dirección proporcionada.  
+* **Recogida:** productos disponibles para recogida en puntos de recogida dentro del [mismo radio de recogida del Checkout](https://help.vtex.com/es/docs/tutorials/puntos-de-recogida#como-funcionan-puntos-de-recogida), que es configurable por el comercio hasta un máximo de 50 km (predeterminado: 50 km).  
+* **Recogida en tiendas cercanas:** productos disponibles para recoger en puntos de recogida en un radio fijo de hasta 10 km de la dirección proporcionada. Este filtro no utiliza el radio de recogida del Checkout.  
 * **Recogida en {{nome}}:** productos disponibles para recogida en el [punto de recogida](https://help.vtex.com/es/docs/tutorials/registro-de-puntos-de-recogida) que elija el comprador.  
 * **Plazo de envío ([Opciones de envío](https://help.vtex.com/es/docs/tutorials/opciones-de-envio))**: productos disponibles según el plazo, la forma de entrega y las zonas geográficas configuradas por retailer en el módulo de [**Opciones de envío**](https://help.vtex.com/es/docs/tutorials/opciones-de-envio).  
 * **Plazo de envío dinámico**: productos disponibles definidos por plazos dinámicos (**Mismo día** y **Día siguiente**), que consideran los horarios de navegación del comprador y los plazos registrados en [**Opciones de envío**](https://help.vtex.com/es/docs/tutorials/opciones-de-envio) de la cuenta principal de la tienda para la fecha de entrega y de recogida.

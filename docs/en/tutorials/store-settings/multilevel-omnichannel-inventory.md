@@ -32,7 +32,7 @@ The [marketplace](/en/docs/tutorials/marketplace-strategies-at-vtex) is the envi
 
 When stores sell their products in a marketplace, we have a two-level relationship between seller and marketplace. But VTEX's architecture allows stores to operate both as marketplaces and sellers, expanding the range of possible combinations. 
 
-A main account seller may act as a marketplace for [white-label](/en/docs/tutorials/white-label-seller) sellers. This is the case of store chains configured as [franchise accounts](/en/tutorial/what-are-franchise-account-and-seller-white-label--5orlGHyDHGAYciQ64oEgKa?&utm_source=help) and physical stores, which are, by definition, sellers in another VTEX store. 
+A main account seller may act as a marketplace for [white-label](/en/docs/tutorials/white-label-seller) sellers. This is the case of store chains configured as [franchise accounts](/en/docs/tutorials/white-label-seller) and physical stores, which are, by definition, sellers in another VTEX store. 
 
 The main seller may also sell its products in a marketplace.
 
@@ -121,7 +121,7 @@ The use of [coupons](/en/docs/tutorials/coupons-beta), [gift cards](/en/docs/tut
 
 ### Orders integrated asynchronously with price divergence
 
-The store is unable to process orders that have been integrated asynchronously with divergent values for Multilevel Omnichannel Inventory. The [Order Authorization](/en/docs/tutorials/how-order-authorization-works) feature does not support [price divergence rules](/en/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW#) for this scenario. 
+The store is unable to process orders that have been integrated asynchronously with divergent values for Multilevel Omnichannel Inventory. The [Order Authorization](/en/docs/tutorials/how-order-authorization-works) feature does not support [price divergence rules](/en/docs/tutorials/price-divergence-rule#) for this scenario. 
 
 ### Price Table
 

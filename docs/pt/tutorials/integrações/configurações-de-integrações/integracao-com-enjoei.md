@@ -115,13 +115,13 @@ Uma vez concluídas as configurações na plataforma VTEX, para dar continuidade
 
 ### Ativar a integração no Enjoei
 
-Você deve enviar os seguintes dados para o Enjoei por meio do seguinte [formulário](https://docs.google.com/forms/d/1DZHeJa622pG0AuNM58B5YxHEoUa-04KXD30B-U44TEg/viewform?edit_requested=true). Todas as informações solicitadas no formulário devem ser preenchidas corretamente e revisadas antes do envio para evitar problemas fiscais, de repasse financeiro, ou no [SLA](/pt/tutorial/o-que-e-o-sla-de-operacao-da-plataforma--2cIFrsY5S8usk84OU4QOKm?&utm_source=autocomplete) de integração com a VTEX. São elas:
+Você deve enviar os seguintes dados para o Enjoei por meio do seguinte [formulário](https://docs.google.com/forms/d/1DZHeJa622pG0AuNM58B5YxHEoUa-04KXD30B-U44TEg/viewform?edit_requested=true). Todas as informações solicitadas no formulário devem ser preenchidas corretamente e revisadas antes do envio para evitar problemas fiscais, de repasse financeiro, ou no [SLA](/pt/docs/tutorials/acordo-de-nivel-de-servico-sla-de-operacao-da-vtex?&utm_source=autocomplete) de integração com a VTEX. São elas:
 
 - **Nome da conta:** identificador da sua empresa no sistema da VTEX. Para encontrá-lo, acesse o Admin no módulo *CONFIGURAÇÕES DA CONTA > Gerenciamento da conta > Conta > Dados da empresa*.
 - **Dados de autenticação do sistema:** token e appKey definidos na etapa [Criar novo access key e secret](#criar-permissao-para-access-key-e-secret).
 - **ID do afiliado:** identificador configurado na etapa Criar ID do afiliado.
 - **Política comercial:** número da política comercial determinada na etapa [Definir política comercial](#definir-a-politica-comercial).
-- **ID do Seller:** se você estiver integrando a partir da sua conta principal, o valor a ser informado é o número 1. Caso sua loja possua [contas franquia](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa?&utm_source=autocomplete#o-que-e-uma-conta-franquia) e você esteja realizando a integração a partir de uma delas, é necessário enviar o ID do Seller dessa conta. Para encontrá-lo, acesse o Admin no módulo *MARKETPLACE > Sellers > Gerenciamento > ID do Seller*.
+- **ID do Seller:** se você estiver integrando a partir da sua conta principal, o valor a ser informado é o número 1. Caso sua loja possua [contas franquia](/pt/docs/tutorials/seller-white-label?&utm_source=autocomplete#o-que-e-uma-conta-franquia) e você esteja realizando a integração a partir de uma delas, é necessário enviar o ID do Seller dessa conta. Para encontrá-lo, acesse o Admin no módulo *MARKETPLACE > Sellers > Gerenciamento > ID do Seller*.
 - **Atributos do produto:** nomes dos atributos Cor e Tamanho como estão cadastrados na VTEX. Para encontrá-lo, acesse o Admin no módulo *PRODUTO > Catálogo > Categorias*. Selecione a categoria do produto, acesse *Ações > Campo do produto*.
 
 Uma vez que você tenha concluído todas as etapas anteriores, sua loja será integrada na plataforma do Enjoei e a integração será concluída pelo parceiro.

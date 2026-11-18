@@ -46,4 +46,4 @@ La diferencia aquí es que, después que la plataforma pasa por la lógica de de
 
 ## Para saber más
 
-[Entienda cómo funciona la competencia de promociones](/es/tutorial/entendiendo-la-competencia-de-las-promociones-2/)
+[Entienda cómo funciona la competencia de promociones](/es/docs/tutorials/como-funciona-la-competencia-de-promociones)

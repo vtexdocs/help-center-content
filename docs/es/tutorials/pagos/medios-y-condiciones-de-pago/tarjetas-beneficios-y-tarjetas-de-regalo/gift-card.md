@@ -20,7 +20,7 @@ Gift card, tarjeta de regalo o vale de compra es uno de los recursos del Módulo
 - Medio de pago para compras.
 - Programa de fidelidad que el administrador de la tienda puede conectar con el sistema VTEX.
 
-Para conocer más detalles sobre la segunda opción de uso, consulte nuestra documentación técnica sobre [cómo integrar con gift card](/es/tutorial/integrando-com-gift-card).
+Para conocer más detalles sobre la segunda opción de uso, consulte nuestra documentación técnica sobre [cómo integrar con gift card](/es/docs/tutorials/como-configurar-pago-con-gift-card).
 
 ## Cómo crear el vale de compra por el Admin
 
@@ -42,7 +42,7 @@ Para crear un nuevo vale de compra, siga los pasos a continuación:
 
 > ⚠️ Los campos “Valor” y “Fecha de vencimiento” deben completarse de forma **obligatoria**. De lo contrario, el vale no se guardará.
 
-> ❗ La funcionalidad de creación de tarjetas de regalo por colecciones de productos no está funcionando. Hay más información sobre este problema en el artículo [Collection functionality doesn't work on Giftcard](https://help.vtex.com/en/known-issues/collection-functionality-doesnt-work-on-giftcard).
+> ❗ La funcionalidad de creación de tarjetas de regalo por colecciones de productos no está funcionando. Hay más información sobre este problema en el artículo [Collection functionality doesn't work on Giftcard](https://help.vtex.com/es/known-issues/collection-functionality-doesnt-work-on-giftcard).
 
 Después de completar los campos correctamente, el usuario puede seleccionar hasta tres opciones de configuración:
    - **Restricto**: solo el cliente que hace referencia al CPF o CNPJ informado anteriormente puede usar este vale.

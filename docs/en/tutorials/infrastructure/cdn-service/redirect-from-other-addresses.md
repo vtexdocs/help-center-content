@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 ---
 
-An online store must have a single main address [pointing to VTEX servers](/docs/tracks/pre-go-live) before the store is officially launched. Check the [Configuring the store domain](/docs/tutorials/configuring-the-store-domain) article to learn the rules the address must follow and the process for adding it.
+An online store must have a single main address [pointing to VTEX servers](/en/docs/tracks/pre-go-live) before the store is officially launched. Check the [Configuring the store domain](/en/docs/tutorials/configuring-the-store-domain) article to learn the rules the address must follow and the process for adding it.
 
 To allow access to the store through other addresses and versions without a subdomain, you need to configure them to redirect to the main store address, which is listed in **Account settings > Account > Stores** in the VTEX Admin. See examples below:
 
@@ -47,7 +47,7 @@ To visit your store from an address without subdomains, such as `www`, you need 
 
 Remove any other A, AAAA or CNAME records for the same name, otherwise some visitors may not be redirected. Once DNS propagates, Redirect-301 automatically provisions an SSL certificate for your domain and the redirect becomes active. For step-by-step screenshots, see the [Redirect-301 configuration guide](https://www.redirect-301.com/en/configuration-guide).
 
-Learn more about these cases in [Best practices for accessing the store without www](/docs/tutorials/best-practices-for-accessing-the-store-without-www).
+Learn more about these cases in [Best practices for accessing the store without www](/en/docs/tutorials/best-practices-for-accessing-the-store-without-www).
 
 Depending on the DNS provider, redirect propagation may take a few minutes to complete.
 

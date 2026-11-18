@@ -28,7 +28,7 @@ VTEX offers different login methods that can be enabled based on your needs:
 
 **Where to configure:** _Account settings > Authentication_
 
-> ℹ️ Learn more in [Authentication](https://help.vtex.com/docs/tutorials/authentication).
+> ℹ️ Learn more in [Authentication](https://help.vtex.com/en/docs/tutorials/authentication).
 
 ## Two-factor authentication (2FA)
 
@@ -43,9 +43,9 @@ The available methods are:
 
 The code is requested every 10 days on the same browser.
 
-> ℹ️ Learn more in [Enabling two-factor authentication login](https://help.vtex.com/docs/tutorials/enabling-2-factor-authentication-login).
+> ℹ️ Learn more in [Enabling two-factor authentication login](https://help.vtex.com/en/docs/tutorials/enabling-2-factor-authentication-login).
 
-> ℹ️ To recover access, see [Resetting VTEX Admin password](https://help.vtex.com/docs/tutorials/resetting-vtex-admin-password).
+> ℹ️ To recover access, see [Resetting VTEX Admin password](https://help.vtex.com/en/docs/tutorials/resetting-vtex-admin-password).
 
 ## Social login (Google and Facebook)
 
@@ -56,7 +56,7 @@ Allow users to log in with Google or Facebook accounts, providing convenience an
 
 **Configuration:** Requires creating credentials (Client ID and Client Secret) with the providers and entering them in the Admin.
 
-> ℹ️ Learn more in [Configuring login with Facebook and Google](https://help.vtex.com/docs/tutorials/configuring-login-with-facebook-and-google).
+> ℹ️ Learn more in [Configuring login with Facebook and Google](https://help.vtex.com/en/docs/tutorials/configuring-login-with-facebook-and-google).
 
 ## Password expiration
 
@@ -86,8 +86,8 @@ Integrate with external providers for customized login experiences.
 
 ## Learn more
 
-- [Authentication](https://help.vtex.com/docs/tutorials/authentication)
-- [Enabling two-factor authentication login](https://help.vtex.com/docs/tutorials/enabling-2-factor-authentication-login)
-- [Configuring login with Facebook and Google](https://help.vtex.com/docs/tutorials/configuring-login-with-facebook-and-google)
-- [Resetting VTEX Admin password](https://help.vtex.com/docs/tutorials/resetting-vtex-admin-password)
-- [Setting up personal data on the user's screen](https://help.vtex.com/docs/tutorials/setting-up-personal-data-on-the-users-screen)
+- [Authentication](https://help.vtex.com/en/docs/tutorials/authentication)
+- [Enabling two-factor authentication login](https://help.vtex.com/en/docs/tutorials/enabling-2-factor-authentication-login)
+- [Configuring login with Facebook and Google](https://help.vtex.com/en/docs/tutorials/configuring-login-with-facebook-and-google)
+- [Resetting VTEX Admin password](https://help.vtex.com/en/docs/tutorials/resetting-vtex-admin-password)
+- [Setting up personal data on the user's screen](https://help.vtex.com/en/docs/tutorials/setting-up-personal-data-on-the-users-screen)

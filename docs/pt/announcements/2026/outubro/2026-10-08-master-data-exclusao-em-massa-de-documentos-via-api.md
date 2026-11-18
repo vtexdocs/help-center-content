@@ -12,7 +12,7 @@ tags:
   - Master Data
 ---
 
-As lojas VTEX agora contam com a exclusão em massa de documentos do [Master Data](/pt/docs/tutorials/master-data) por API. O recurso está em beta aberto. Com o novo recurso, é possível remover de uma só vez todos os documentos de uma [entidade de dados](/pt/docs/tutorials/entidade-de-dados) que atendem a um filtro.
+As lojas VTEX agora contam com a exclusão em massa de documentos do [Master Data](/pt/docs/tutorials/master-data-pt) por API. O recurso está em beta aberto. Com o novo recurso, é possível remover de uma só vez todos os documentos de uma [entidade de dados](/pt/docs/tutorials/entidade-de-dados) que atendem a um filtro.
 
 ## O que mudou?
 
@@ -22,7 +22,7 @@ Antes, a única forma de excluir documentos era percorrer a entidade de dados e 
 
 ## Por que mudou?
 
-O uso de [entidades de dados personalizadas](/pt/docs/tutorials/master-data#entidades-de-dados-personalizadas) é cobrado mensalmente, em faixas que variam conforme o volume total de documentos armazenados. Excluir os documentos pela API é a única forma de reduzir esse volume, já que apagar uma entidade de dados pela interface do Master Data v1 não remove os documentos já armazenados.
+O uso de [entidades de dados personalizadas](/pt/docs/tutorials/master-data-pt#entidades-de-dados-personalizadas) é cobrado mensalmente, em faixas que variam conforme o volume total de documentos armazenados. Excluir os documentos pela API é a única forma de reduzir esse volume, já que apagar uma entidade de dados pela interface do Master Data v1 não remove os documentos já armazenados.
 
 ## O que precisa ser feito?
 
@@ -31,6 +31,6 @@ Nenhuma ação é necessária. Quando você precisar reduzir o volume de documen
 ## Saiba mais
 
 * [Deleting documents in bulk in Master Data](https://developers.vtex.com/docs/guides/deleting-documents-in-bulk-in-master-data)
-* [Master Data](/pt/docs/tutorials/master-data)
+* [Master Data](/pt/docs/tutorials/master-data-pt)
 * [Consultar o uso do Master Data no Admin VTEX](/pt/docs/tutorials/consultar-o-uso-do-master-data-no-admin-vtex)
 * [A cobrança do Master Data não diminuiu depois que excluí uma entidade de dados](/pt/docs/tutorials/a-cobranca-do-master-data-nao-diminuiu-depois-que-exclui-uma-entidade-de-dados)
