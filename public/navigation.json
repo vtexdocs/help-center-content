@@ -68652,6 +68652,21 @@
             },
             {
               "name": {
+                "en": "PLP renders blank on Back navigation after pagination, PDP regionalization, and full reload",
+                "es": "La PLP se muestra en blanco en la navegación hacia atrás después de la paginación, la regionalización de PDP y la recarga completa.",
+                "pt": "A página inicial (PLP) fica em branco na navegação para trás após paginação, regionalização da página de detalhes do produto (PDP) e recarregamento completo."
+              },
+              "slug": {
+                "en": "plp-renders-blank-on-back-navigation-after-pagination-pdp-regionalization-and-full-reload",
+                "es": "la-plp-se-muestra-en-blanco-en-la-navegacion-hacia-atras-despues-de-la-paginacion-la-regionalizacion-de-pdp-y-la-recarga-completa",
+                "pt": "a-pagina-inicial-plp-fica-em-branco-na-navegacao-para-tras-apos-paginacao-regionalizacao-da-pagina-de-detalhes-do-produto-pdp-e-recarregamento-completo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Position on selected image on PDP doesn't reset when changing product",
                 "es": "La posición de la imagen seleccionada en la PDP no se restablece al cambiar de producto",
                 "pt": "A posição na imagem selecionada no PDP não é reinicializada ao mudar de produto"
@@ -69215,6 +69230,21 @@
                 "en": "incorrect-usd-currency-displayed-in-some-locales",
                 "es": "se-muestra-la-moneda-usd-incorrecta-en-algunas-localizaciones",
                 "pt": "moeda-incorreta-em-usd-exibida-em-alguns-locais"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "region_id outside the Base64 format discards the visitor's region from the session during SSR",
+                "es": "Si region_id no está en formato Base64, se descarta la región del visitante de la sesión durante el SSR.",
+                "pt": "O `region_id` fora do formato Base64 descarta a região do visitante da sessão durante a renderização no servidor (SSR)."
+              },
+              "slug": {
+                "en": "regionid-outside-the-base64-format-discards-the-visitors-region-from-the-session-during-ssr",
+                "es": "si-regionid-no-esta-en-formato-base64-se-descarta-la-region-del-visitante-de-la-sesion-durante-el-ssr",
+                "pt": "o-regionid-fora-do-formato-base64-descarta-a-regiao-do-visitante-da-sessao-durante-a-renderizacao-no-servidor-ssr"
               },
               "origin": "",
               "type": "markdown",
