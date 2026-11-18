@@ -4,7 +4,7 @@ createdAt: 2026-11-17T12:00:00.000Z
 updatedAt: 2026-11-17T12:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-slugEN: desk-copilot
+slugEN: desk-copilot-overview
 locale: pt
 hidden: false
 categoryCover: true

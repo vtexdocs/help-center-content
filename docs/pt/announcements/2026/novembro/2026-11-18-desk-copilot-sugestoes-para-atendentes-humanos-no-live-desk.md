@@ -12,7 +12,7 @@ tags:
 announcementSynopsisPT: 'O Desk Copilot sugere respostas, buscas de produtos, carrinhos, consultas de pedidos e links de pagamento para ajudar agentes humanos no Live Desk.'
 ---
 
-O [Desk Copilot](https://help.vtex.com/pt/docs/tutorials/desk-copilot-visao-geral) é uma nova funcionalidade do VTEX CX Platform que utiliza IA para analisar a conversa em andamento no [Live Desk](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk) e sugerir respostas e ações para os atendentes humanos. As sugestões não são executadas automaticamente. O atendente mantém o controle sobre as ações realizadas durante a conversa.
+O [Desk Copilot](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-desk-copilot) é uma nova funcionalidade do VTEX CX Platform que utiliza IA para analisar a conversa em andamento no [Live Desk](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk) e sugerir respostas e ações para os atendentes humanos. As sugestões não são executadas automaticamente. O atendente mantém o controle sobre as ações realizadas durante a conversa.
 
 Essa ferramenta já está disponível para todos os clientes do VTEX CX Platform, em todas as regiões.
 
@@ -36,4 +36,4 @@ O **Desk Copilot** foi desenvolvido para tornar o atendimento humano mais ágil 
 
 Nenhuma ação é necessária. O Desk Copilot está disponível para todos os clientes do VTEX CX Platform.
 
-Para saber mais, acesse o artigo [Desk Copilot](https://help.vtex.com/pt/docs/tutorials/desk-copilot-visao-geral).
+Para saber mais, acesse o artigo [Desk Copilot](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-desk-copilot).
