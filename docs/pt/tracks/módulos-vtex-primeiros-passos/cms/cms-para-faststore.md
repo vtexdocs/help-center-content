@@ -20,6 +20,7 @@ O CMS está organizado com base nas seguintes funcionalidades:
 - [Localidades](#localidades)
 - [Mídia](#midia)
 - [Perfis de acesso e permissões](#perfis-de-acesso-e-permissoes)
+- [Saiba mais](#saiba-mais)
 
 ## Todos os conteúdos
 
