@@ -78,7 +78,7 @@ To expand and view the full list of tags, click `View all`.
 
 #### 6. Volume per channel
 
-Shows how support chats are distributed across the channels used in the project. Select **Waiting** or **In progress** to see the count for that status. Each channel shows its icon and the number of support chats. With **In progress** selected, the footer shows how many channels have chats in progress.
+Shows how support chats are distributed across the channels used in the project, such as Facebook, Instagram, and WhatsApp. Select **Waiting** or **In progress** to see the count for that status. Each channel shows its icon and the number of support chats. With **In progress** selected, the footer shows how many channels have chats in progress.
 
 #### 7. CSAT
 
@@ -108,7 +108,7 @@ When a time limit is configured, the table highlights the support chats that exc
 
 Point to the time to see the limit that chat exceeded.
 
-The columns display information such as contact, wait time, time to first response, representative, department, and queue.
+The columns display information such as contact, wait time, time to first response, representative, department, queue, and channel.
 
 By clicking one of the support chats, you'll be redirected to the Live Desk page under **Operations**.
 
@@ -171,8 +171,9 @@ This tab contains information about completed support chats, including data on r
 | **Time to 1st response** | Average time between the contact entering the support chat and receiving the first message from the representative. |
 | **Duration** | How long the support chat lasted from start to finish. |
 | **Contact** | Name of the customer who reached out for support. |
+| **Channel** | Channel where the support chat took place (such as **WhatsApp** or **Shopping Assistant**). |
 | **Protocol** | Protocol number of the support chat. |
-| **CSAT score** | Customer satisfaction score from the native CSAT response for that closed support chat, when the contact answered the survey. |
+| **CSAT score** | Customer satisfaction score from the native CSAT response for that closed support chat, if the contact responded to the survey. |
 
 ##### Representative
 

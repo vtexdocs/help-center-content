@@ -81,7 +81,7 @@ Para expandir y ver la lista completa de tags, haz clic en `Ver todo`.
 
 #### 6. Volumen por canal
 
-Muestra cómo se distribuyen los chats de soporte entre los canales usados en el proyecto. Selecciona **Esperando** o **En curso** para ver la cantidad de ese estado. Cada canal muestra su ícono y el número de chats de soporte. Con **En curso** seleccionado, el pie de página muestra cuántos canales tienen chats en curso.
+Muestra cómo se distribuyen los chats de soporte entre los canales usados en el proyecto, como Facebook, Instagram, WhatsApp, entre otros. Selecciona **Esperando** o **En curso** para ver la cantidad de ese estado. Cada canal muestra su ícono y el número de chats de soporte. Con **En curso** seleccionado, el pie de página muestra cuántos canales tienen chats en curso.
 
 #### 7. CSAT
 
@@ -109,7 +109,7 @@ Cuando hay una meta de tiempo configurada, la tabla destaca los chats de soporte
 - **Esperando:** destaca los chats cuyo tiempo de espera supera la meta de tiempo de espera promedio.
 - **En curso:** destaca los chats que superan la meta de tiempo hasta la primera respuesta o la meta de duración del chat. Si un chat supera ambas, la fila muestra la alerta de primera respuesta.
 
-Las columnas muestran información como contacto, tiempo de espera, tiempo hasta la primera respuesta, representante responsable, departamento y cola.
+Las columnas muestran información como contacto, tiempo de espera, tiempo hasta la primera respuesta, representante responsable, departamento, cola y canal.
 
 Al hacer clic en uno de los chats de soporte, se te redirigirá a la página de Live Desk en la sección **Operaciones**.
 
@@ -172,8 +172,9 @@ Esta pestaña contiene información sobre los chats de soporte finalizados. Incl
 | **Tiempo hasta la primera respuesta** | Intervalo promedio entre el momento en que el contacto entra en el chat de soporte y el primer mensaje del representante. |
 | **Duración** | Tiempo que duró el chat de soporte del inicio al fin. |
 | **Contacto** | Nombre del cliente que se puso en contacto con el chat de soporte. |
+| **Canal** | Canal donde ocurrió el chat de soporte (como **WhatsApp** o **Shopping Assistant**). |
 | **Protocolo** | Número del protocolo del chat de soporte. |
-| **Puntuación CSAT** | Puntuación de satisfacción del cliente a partir de la respuesta nativa de CSAT de ese chat de soporte finalizado, cuando el contacto respondió la encuesta. |
+| **Puntuación CSAT** | Puntuación de satisfacción del cliente a partir de la respuesta nativa de CSAT de ese chat de soporte cerrado, en caso de que el contacto haya respondido la encuesta. |
 
 ##### Representante
 
