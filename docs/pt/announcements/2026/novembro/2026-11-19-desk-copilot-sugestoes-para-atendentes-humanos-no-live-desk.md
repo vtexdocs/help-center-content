@@ -7,7 +7,7 @@ productTeam: VTEX CX Platform
 slugEN: 2026-11-19-desk-copilot-suggestions-for-human-attendance-on-live-desk
 locale: pt
 tags:
-  - Novidade
+  - Nova funcionalidade
   - VTEX CX Platform
 announcementSynopsisPT: 'O Desk Copilot sugere respostas, buscas de produtos, carrinhos, consultas de pedidos e links de pagamento para ajudar agentes humanos no Live Desk.'
 ---
