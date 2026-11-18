@@ -1,7 +1,7 @@
 ---
 title: 'New Destination retail page for publishers'
-createdAt: 2026-10-02T00:00:00.000Z
-updatedAt: 2026-10-02T00:00:00.000Z
+createdAt: 2026-11-17T00:00:00.000Z
+updatedAt: 2026-11-18T00:00:00.000Z
 contentType: updates
 productTeam: Ads
 slugEN: 2026-10-02-destination-retail
@@ -12,7 +12,7 @@ tags:
   - VTEX Ads
 ---
 
-VTEX introduces the new [**Destination retail**](/en/docs/tutorials/destination-retail) page for publisher accounts. On this page, stores can declare that they want to receive traffic from offsite campaigns and track which advertisers are directing traffic to their website.
+VTEX introduces the new [**Destination retail**](/en/docs/tutorials/destination-retail) page for publisher accounts. On this page, stores can declare that they want to receive traffic from [offsite campaigns](/en/docs/tutorials/vtex-ads-offsite-campaigns) and track which advertisers are directing traffic to their website.
 
 ## What has changed?
 

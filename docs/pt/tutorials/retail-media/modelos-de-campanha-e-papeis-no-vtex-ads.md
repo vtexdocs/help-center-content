@@ -1,7 +1,7 @@
 ---
 title: 'Modelos de campanha e papéis no VTEX Ads'
-createdAt: 2026-10-09T00:00:00.000Z
-updatedAt: 2026-10-09T00:00:00.000Z
+createdAt: 2026-11-17T00:00:00.000Z
+updatedAt: 2026-11-17T00:00:00.000Z
 contentType: tutorial
 productTeam: Others
 slugEN: vtex-ads-campaign-models-and-roles

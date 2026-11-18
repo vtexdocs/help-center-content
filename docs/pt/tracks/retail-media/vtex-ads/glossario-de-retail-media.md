@@ -1,7 +1,7 @@
 ---
 title: 'Glossário de Retail Media'
 createdAt: 2025-05-29T17:46:57.083Z
-updatedAt: 2026-11-06T00:00:00.000Z
+updatedAt: 2026-11-18T00:00:00.000Z
 contentType: trackArticle
 productTeam: Others
 slugEN: retail-media-glossary
@@ -50,5 +50,5 @@ O glossário a seguir reúne os principais termos e conceitos relacionados ao Re
 | **Share de Venda (Market Share)** | Participação de uma empresa ou produto nas vendas totais de um setor ou categoria em um período específico. |
 | [**Sub-publisher**](/pt/docs/tutorials/modelos-de-campanha-e-papeis-no-vtex-ads) | Publisher que faz parte de uma rede e pode exibir anúncios de campanhas Network. |
 | **Third-party cookies** | Cookies criados por domínios diferentes do site acessado. Utilizados para rastreamento e anúncios personalizados. |
-| [**Varejo de destino**](/pt/docs/tutorials/campanhas-offsite-no-vtex-ads) | Loja que recebe o tráfego de uma campanha offsite e onde a compra acontece. |
+| [**Varejo de destino**](/pt/docs/tutorials/varejo-de-destino) | Loja que recebe o tráfego de uma campanha offsite e onde a compra acontece. |
 | **Atribuição por visualização (View attribution)** | Modelo de atribuição que credita uma conversão a um anúncio quando o usuário visualizou o anúncio antes da compra, mesmo sem clicar. Complementa a atribuição por clique, que exige um clique no anúncio. |

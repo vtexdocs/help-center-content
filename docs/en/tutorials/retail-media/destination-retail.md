@@ -1,7 +1,7 @@
 ---
 title: 'Destination retail'
-createdAt: 2026-09-30T00:00:00.000Z
-updatedAt: 2026-09-30T00:00:00.000Z
+createdAt: 2026-11-17T00:00:00.000Z
+updatedAt: 2026-11-18T00:00:00.000Z
 contentType: tutorial
 productTeam: Others
 slugEN: destination-retail
@@ -76,6 +76,7 @@ The **Advertisers sending offsite campaign traffic to your website** card lists 
 
 ## Learn more
 
+- [VTEX Ads offsite campaigns](/en/docs/tutorials/vtex-ads-offsite-campaigns)
 - [VTEX Ads metrics and attribution](/en/docs/tutorials/vtex-ads-metrics-and-attribution)
 - [Retail media glossary](/en/docs/tracks/retail-media-glossary)
 - [VTEX Ads: First steps](/en/docs/tracks/vtex-ads-first-steps)

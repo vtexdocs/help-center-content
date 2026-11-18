@@ -3,7 +3,7 @@ title: 'Retail Media'
 id: 36ZHI8z0VQjcu5yHeGEvv3
 status: PUBLISHED
 createdAt: 2025-05-29T14:17:24.579Z
-updatedAt: 2026-11-06T00:00:00.000Z
+updatedAt: 2026-11-18T00:00:00.000Z
 publishedAt: 2025-07-04T15:53:33.192Z
 firstPublishedAt: 2025-05-29T14:23:22.627Z
 contentType: trackArticle
@@ -31,7 +31,7 @@ Al navegar por una tienda de ecommerce, abrir una aplicación de compras o visit
 
 * **Onsite**: anuncios mostrados dentro de los canales digitales que pertenecen al retailer, como sitios web, aplicaciones de ecommerce, televentas, etc.
 * **En la tienda**: activaciones realizadas en las tiendas físicas del retailer, como pantallas publicitarias digitales y promociones en el PDV.
-* **Offsite**: anuncios mostrados fuera de la tienda que recibe el tráfico y que llevan al usuario hasta ella, como se explica en [Campañas offsite en VTEX Ads](/es/docs/tutorials/campanas-offsite-en-vtex-ads).
+* **Offsite**: anuncios mostrados fuera de la tienda que recibe el tráfico y que llevan al usuario hasta ella, como se explica en [Campañas offsite en VTEX Ads](/es/docs/tutorials/campanas-offsite-en-vtex-ads). El publicador opta por participar en la página [Retail de destino](/es/docs/tutorials/retail-de-destino).
 
 Estos formatos se combinan para atraer a los consumidores en las distintas fases del proceso de compra, desde el reconocimiento de la marca hasta la conversión final.
 

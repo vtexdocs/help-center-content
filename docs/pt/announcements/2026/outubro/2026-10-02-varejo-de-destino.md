@@ -1,7 +1,7 @@
 ---
 title: 'Nova tela Varejo de destino para publishers'
-createdAt: 2026-10-02T00:00:00.000Z
-updatedAt: 2026-10-02T00:00:00.000Z
+createdAt: 2026-11-17T00:00:00.000Z
+updatedAt: 2026-11-18T00:00:00.000Z
 contentType: updates
 productTeam: Ads
 slugEN: 2026-10-02-destination-retail
@@ -12,7 +12,7 @@ tags:
   - VTEX Ads
 ---
 
-A VTEX apresenta a nova tela [**Varejo de destino**](/pt/docs/tutorials/varejo-de-destino) para contas do tipo publisher. Nela, as lojas podem declarar que desejam receber tráfego de campanhas offsite e acompanhar quais anunciantes estão direcionando tráfego para seu site.
+A VTEX apresenta a nova tela [**Varejo de destino**](/pt/docs/tutorials/varejo-de-destino) para contas do tipo publisher. Nela, as lojas podem declarar que desejam receber tráfego de [campanhas offsite](/pt/docs/tutorials/campanhas-offsite-no-vtex-ads) e acompanhar quais anunciantes estão direcionando tráfego para seu site.
 
 ## O que mudou?
 
