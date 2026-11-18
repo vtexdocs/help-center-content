@@ -19,9 +19,9 @@ O Desk Copilot ajuda atendentes humanos no [Live Desk](https://help.vtex.com/pt/
 
 O Desk Copilot funciona como um projeto separado, dentro da mesma organização do seu projeto de atendimento. Esse projeto tem:
 
-- Um **Manager** próprio, já configurado para apoiar atendentes humanos.
-- Uma **base de conhecimento interna**, para informações confidenciais que só devem aparecer para a equipe.
-- Os mesmos **agentes de comércio oficiais** usados pelos agentes de IA.
+- **Manager:** agente configurado para coordenar as sugestões e apoiar os atendentes humanos.
+- **Base de conhecimento interna:** reúne informações de uso exclusivo da equipe de atendimento, que não devem ser compartilhadas diretamente com os clientes.
+- **Agentes comerciais oficiais:** os mesmos agentes utilizados pelos agentes de IA para acessar funcionalidades comerciais.
 
 Você também pode estender o Desk Copilot com agentes personalizados. Para saber como ativar e configurar o copiloto, consulte [Usando o Desk Copilot para apoiar atendentes no Live Desk](https://help.vtex.com/pt/docs/tutorials/usando-o-desk-copilot-para-apoiar-atendentes-no-live-desk).
 
