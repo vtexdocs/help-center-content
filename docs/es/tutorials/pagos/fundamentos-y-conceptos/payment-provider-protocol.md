@@ -1,7 +1,7 @@
 ---
 title: 'Payment Provider Protocol'
 createdAt: 2018-01-02T15:40:00.920Z
-updatedAt: 2026-10-13T00:00:00.000Z
+updatedAt: 2026-11-16T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
 slugEN: payment-provider-protocol
@@ -132,8 +132,8 @@ En las pruebas asíncronas, el proveedor responde a la solicitud Create Payment 
 | ------------------------ | --------------------------------------------------------------------------------------------- | --------------------------------- |
 | Flujo aprobado asíncrono | `undefined`                                                                                   | `approved`                        |
 | Flujo denegado asíncrono | `undefined`                                                                                   | `denied`                          |
-| Flujo de boleto          | `undefined`, con el campo `bankIssueInvoiceUrl` completado con la URL del boleto              | `approved`                        |
-| Flujo de redirección     | `undefined`, con el campo `redirectUrl` completado con la URL usada para redirigir al cliente | `approved`                        |
+| Flujo de boleto          | `undefined`, con el campo `paymentUrl` completado con la URL del boleto                       | `approved`                        |
+| Flujo de redirección     | `undefined`, con el campo `paymentUrl` completado con la URL usada para redirigir al cliente  | `approved`                        |
 
 Con la integración en producción, la llamada a la `callbackUrl` debe autenticarse con las [credenciales VTEX](#credenciales-vtex) del partner. Puedes ver más detalles sobre el flujo de callback en la sección [Autorización de pago](#autorizacion-de-pago).
 
