@@ -38,4 +38,4 @@ Para tornar o atendimento humano mais rápido e consistente, aproveitando os mes
 
 Nenhuma ação é necessária. O Desk Copilot está disponível para todos os clientes do VTEX CX Platform.
 
-Para saber mais, acesse o artigos [Desk Copilot](https://help.vtex.com/pt/docs/tutorials/desk-copilot-visao-geral).
+Para saber mais, acesse o artigo [Desk Copilot](https://help.vtex.com/pt/docs/tutorials/desk-copilot-visao-geral).
