@@ -93,9 +93,9 @@ Se você já tem projetos no VTEX CX Platform, pode conectá-los ao VTEX Admin.
 
 1. No Admin VTEX, acesse **Storefront > VTEX CX Platform > Dashboard**.
 2. Clique em `Selecionar projeto existente`, no card **Conectar projeto existente**.
-3. Escolha a organização que contém o projeto.
+3. Escolha a organização que contém o projeto. Você será redirecionado ao Dashboard do Admin VTEX.
 
-ℹ️ Alguns recursos avançados podem ter edição limitada no CX Dashboard. Para configurações avançadas, use a conexão com projeto existente.
+ℹ️ Alguns recursos avançados podem limitações no Dashboard do Admin VTEX. Para configurações avançadas, use o [VTEX CX Platform](https://dash.weni.ai).
 
 ## Funções e permissões
 
