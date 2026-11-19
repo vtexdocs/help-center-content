@@ -54,6 +54,21 @@
                 },
                 {
                   "name": {
+                    "en": "New Destination retail page for publishers",
+                    "es": "Nueva página Retail de destino para publicadores",
+                    "pt": "Nova tela Varejo de destino para publishers"
+                  },
+                  "slug": {
+                    "en": "2026-11-17-destination-retail",
+                    "es": "2026-11-17-retail-de-destino",
+                    "pt": "2026-11-17-varejo-de-destino"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Live Desk: bulk sending of quick messages",
                     "es": "Live Desk: envío masivo de mensajes rápidos",
                     "pt": "Live Desk: envio de mensagens rápidas em massa"
@@ -333,21 +348,6 @@
                     "en": "2026-10-06-vtex-cx-platform-support-for-bsuid-and-whatsapp-usernames",
                     "es": "2026-10-06-vtex-cx-platform-soporte-para-bsuid-y-nombres-de-usuario-de-whatsapp",
                     "pt": "2026-10-06-vtex-cx-platform-suporte-a-bsuid-e-usernames-do-whatsapp"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "New Destination retail page for publishers",
-                    "es": "Nueva página Retail de destino para publicadores",
-                    "pt": "Nova tela Varejo de destino para publishers"
-                  },
-                  "slug": {
-                    "en": "2026-10-02-destination-retail",
-                    "es": "2026-10-02-retail-de-destino",
-                    "pt": "2026-10-02-varejo-de-destino"
                   },
                   "origin": "",
                   "type": "markdown",
