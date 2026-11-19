@@ -59,13 +59,13 @@ Go to the [VTEX CX Platform dashboard](https://dash.weni.ai/). You can create an
 
 If you received an invitation, create or access the account associated with the invited email address. After logging in, select the organization and project included in the invitation.
 
-### Okta login
+### Logging in with Okta
 
-Enterprise clients can log in to VTEX CX Platform with their own Okta tenant. In this case, after entering your email, you're automatically redirected to Okta, with MFA configured, and the platform's password field isn't displayed.
+Enterprise clients can log in to VTEX CX Platform with their own Okta tenant. In this case, after you enter your email address, you're automatically redirected to Okta with the configured multi-factor authentication, and the platform password field isn't displayed.
 
-Access to organizations is still granted only by invite, and domain mapping applies only to the company that configured it.
+Access to organizations is still by invitation only, and domain mapping applies only to the company that configured it.
 
-> ⚠️ To use Okta login, contact [VTEX Support](https://help.vtex.com/en/support) and request the configuration of your organization's email domain mapping and policy.
+> ⚠️ To use Okta login, contact [VTEX Support](/en/support) and request email domain mapping and policy setup for your organization.
 
 ### Creating an organization and project
 
