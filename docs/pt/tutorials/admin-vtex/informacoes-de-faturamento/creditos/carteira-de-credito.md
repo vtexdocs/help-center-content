@@ -39,7 +39,7 @@ Todo mês, a VTEX soma o valor total pago pela empresa — considerando todas as
 
 O crédito da carteira de crédito é aplicado exclusivamente para abater a cobrança de Master Data na fatura do mês seguinte.
 
-O [consumo de Master Data](/pt/docs/tutorials/consultar-o-uso-do-master-data-no-admin-vtex) acontece dentro de cada conta, mas a VTEX soma o consumo de Master Data de todas as contas de uma empresa para calcular o custo total de Master Data. É sobre este total consolidado que o crédito é abatido.
+O [consumo de Master Data](/pt/docs/tutorials/consultar-o-uso-do-master-data-no-admin-vtex) acontece dentro de cada conta, mas a VTEX soma o consumo de Master Data de todas as contas de uma empresa para calcular o custo total de Master Data. É desse total consolidado que o crédito é abatido.
 
 Se o valor do crédito for maior que a cobrança de Master Data do período, o saldo remanescente permanece disponível para uso em meses futuros. O crédito não utilizado se acumula.
 
