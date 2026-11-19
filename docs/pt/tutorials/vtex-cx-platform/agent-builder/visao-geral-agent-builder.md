@@ -76,13 +76,14 @@ Em **Fonte de motor**, você pode selecionar o modelo de agente nativo do VTEX C
 Se você selecionou o motor nativo da plataforma, poderá escolher, em **Versão do manager**, entre duas opções de agente orquestrador:
 
 - **Manager 2.7** (Recomendado).
+  - No Manager 2.7, os agentes conseguem ler arquivos PDF enviados pelos clientes durante a conversa, com limite de 5 páginas por arquivo.
 - **Manager 2.6** (Modelo legado).
 
 Em **Prévia dos agentes**, existem duas configurações possíveis:
 
 - **Formato de mensagem múltipla:** ative-o <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o agente envie várias mensagens, como respostas rápidas, listas, catálogo. Caso contrário, deixe-o desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
-- **Feedback progressivo dos agentes:** ative-o <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o agente mostre atualizações curtas enquanto prepara a resposta final. Essas atualizações não alteram a resposta final e não exigem desenvolvimento adicional na loja. Caso contrário, deixe-o desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
+- **Feedback progressivo dos agentes (disponível somente para o Shopping Assistant):** ative-o <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o Shopping Assistant mostre atualizações curtas enquanto prepara a resposta final. Essas atualizações não alteram a resposta final e não exigem desenvolvimento adicional na loja. Caso contrário, deixe-o desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
 > ⚠️ As opções **Feedback progressivo dos agentes** e **Formato de mensagem múltipla** não podem ser ativadas ao mesmo tempo.
 
