@@ -81,6 +81,27 @@ To edit a field, follow these steps:
 2. Click the field you want to change.
 3. Enter the new value.
 
+#### Sending quick messages in bulk
+
+You can also send a saved quick message to multiple conversations at once. To do this, follow these steps:
+
+1. In **Live Desk**, click `View options`.
+2. From the options, select `Quick messages`.
+3. In the options menu <i class="fas fa-ellipsis-v" aria-hidden="true"></i> of the message you want, click `Send in bulk`.
+4. Select the contacts who will receive the message.
+
+> ℹ️ By default, all contacts are selected.
+
+5. Select the **I've checked all the fields and I'm ready to send it** checkbox to confirm you've reviewed the bulk send.
+
+> ⚠️ The confirmation checklist is required and helps prevent accidental bulk sends. Review the selected contacts before confirming.
+
+6. Click `Send to all`.
+
+While the message is being sent, a progress bar shows the status in real time. When it's done, a notification confirms how many conversations received the message.
+
+You can also set up department-specific quick messages while you create the department. For more information, see [Configuring Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk).
+
 ### Downloading audio from the contact
 
 You can play an audio message from the contact in the conversation and download the original file. Download the audio when you need to share it with another team, such as logistics or operations, while you escalate a case internally.
