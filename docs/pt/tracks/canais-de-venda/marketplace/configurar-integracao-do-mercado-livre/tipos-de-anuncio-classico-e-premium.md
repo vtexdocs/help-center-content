@@ -15,6 +15,8 @@ trackSlugEN: configurar-integracao-do-mercado-livre
 order: 2
 ---
 
+> ℹ️ Teste o novo agente de onboarding para integrar sua loja ao Mercado Livre e começar a vender mais rápido, com um passo a passo guiado e respostas para todas as suas dúvidas. Para participar dos testes entre em contato com o time de [suporte VTEX](https://supporticket.vtex.com/support).
+
 O Mercado Livre possui dois tipos de anúncio: Clássico e Premium. Você pode ver um [comparativo detalhado entre os tipos de anúncio](https://www.mercadolivre.com.br/ajuda/quanto-custa-vender-um-produto_1338) na Central de Ajuda do Mercado Livre - consulte a tabela a seguir para encontrar o artigo correto para cada país.
 
 Anúncios do tipo Clássico têm como principal vantagem uma menor tarifa por venda. Anúncios do tipo Premium, por outro lado, têm maior exposição no Mercado Livre e oferecem a opção de parcelamento sem acréscimo.

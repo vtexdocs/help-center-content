@@ -15,6 +15,8 @@ trackSlugEN: configurar-integracion-con-mercado-libre
 order: 1
 ---
 
+> ℹ️ Prueba el nuevo agente de onboarding para integrar tu tienda a Mercado Libre y empezar a vender más rápido, con un paso a paso guiado y respuestas a todas tus dudas. Para participar de las pruebas, ponte en contacto con el equipo de [soporte VTEX](https://supporticket.vtex.com/support).
+
 [Mercado Libre](https://mercadolibre.com/) es uno de los líderes del comercio electrónico en América Latina, ofreciendo soluciones de comercio electrónico para que personas y empresas puedan comprar, vender, pagar, publicitar y enviar productos a través de Internet.
 
 Su operación está presente en países: Argentina, Brasil, Chile, Colombia, México, Uruguay y Venezuela.
