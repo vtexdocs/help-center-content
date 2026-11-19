@@ -83,7 +83,7 @@ Em **Prévia dos agentes**, existem duas configurações possíveis:
 
 - **Formato de mensagem múltipla:** ative-o <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o agente envie várias mensagens, como respostas rápidas, listas, catálogo. Caso contrário, deixe-o desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
-- **Feedback progressivo dos agentes:** ative-o <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o agente mostre atualizações curtas enquanto prepara a resposta final. Essas atualizações não alteram a resposta final e não exigem desenvolvimento adicional na loja. Caso contrário, deixe-o desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
+- **Feedback progressivo dos agentes (disponível somente para o Shopping Assistant):** ative-o <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o Shopping Assistant mostre atualizações curtas enquanto prepara a resposta final. Essas atualizações não alteram a resposta final e não exigem desenvolvimento adicional na loja. Caso contrário, deixe-o desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
 > ⚠️ As opções **Feedback progressivo dos agentes** e **Formato de mensagem múltipla** não podem ser ativadas ao mesmo tempo.
 
