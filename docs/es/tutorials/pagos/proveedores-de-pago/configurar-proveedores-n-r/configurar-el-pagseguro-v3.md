@@ -24,7 +24,7 @@ Para configurar PagBankV3, siga los pasos a continuación:
 3. Escriba el nombre **PagBankV3** en la barra de búsqueda y haga clic en el nombre del proveedor.
 4. En **Autorización del proveedor**, haga clic en **Autorizar com OAuth**. En este punto, serás redirigido a la página de PagBank, donde deberás acceder a tu cuenta y autorizar la conexión de VTEX a tu cuenta de PagBank. Luego del proceso de autorización, regresará automáticamente al VTEX Admin.
 5. Si desea modificar el nombre de identificación que se mostrará para el proveedor PagBankV3 en la pantalla VTEX Admin, ingrese la información en el campo **Nombre** en **Información general**.
-6. En **Control de pago**, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en _**Activar modo de prueba**.
+6. En **Control de pago**, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en **Activar modo de prueba**.
 7. En **Liquidación automática**, seleccione una de las siguientes opciones:
 - **Utiliza comportamiento recomendado por el procesador de pagos**: a captura no es automática, sino programada de acuerdo con el plazo especificado por el adquirente que, además de indicar si el pago ha sido autorizado, puede especificar o recomendar un número de días para la captura en el momento de la respuesta a la autorización de pago (este es el comportamiento predeterminado de la plataforma).
 - **Liquidación automática inmediatamente después de la autorización del pago**: la captura es automática y se produce inmediatamente después de la autorización, incluso si la transacción tiene un análisis antifraude.

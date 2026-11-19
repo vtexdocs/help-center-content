@@ -28142,6 +28142,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with MIT-MX",
+                        "es": "Configurar pago con MIT-MX",
+                        "pt": "Configurar pagamento com MIT-MX"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-mit-mx",
+                        "es": "configurar-pago-con-mit-mx",
+                        "pt": "configurar-pagamento-com-mit-mx"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with Mobbex",
                         "es": "Configurar pago con Mobbex",
                         "pt": "Configurar pagamento com Mobbex"
@@ -28278,6 +28293,36 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with Nave",
+                        "es": "Configurar pago con Nave",
+                        "pt": "Configurar pagamento com Nave"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-nave",
+                        "es": "configurar-pago-con-nave",
+                        "pt": "configurar-pagamento-com-nave"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with Nelo",
+                        "es": "Configurar pago con Nelo",
+                        "pt": "Configurar pagamento com Nelo"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-nelo",
+                        "es": "configurar-pago-con-nelo",
+                        "pt": "configurar-pagamento-com-nelo"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with NetPay and NetPay Checkout",
                         "es": "Configurar pago con NetPay y NetPay Checkout",
                         "pt": "Configurar pagamento com NetPay e NetPay Checkout"
@@ -28391,6 +28436,21 @@
                         "en": "setting-up-payments-with-pagaleve",
                         "es": "configurar-pago-con-pagaleve",
                         "pt": "configurar-pagamento-com-pagaleve"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with Pagali",
+                        "es": "Configurar pago con Pagali",
+                        "pt": "Configurar pagamento com Pagali"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-pagali",
+                        "es": "configurar-pago-con-pagali",
+                        "pt": "configurar-pagamento-com-pagali"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -28878,6 +28938,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with PompeiaPay",
+                        "es": "Configurar pago con PompeiaPay",
+                        "pt": "Configurar pagamento com PompeiaPay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-pompeiapay",
+                        "es": "configurar-pago-con-pompeiapay",
+                        "pt": "configurar-pagamento-com-pompeiapay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with PoolPay",
                         "es": "Configurar pago con PoolPay",
                         "pt": "Configurar pagamento com PoolPay"
@@ -29277,6 +29352,21 @@
                         "en": "setting-up-payments-with-sistecredito",
                         "es": "configurar-pago-con-sistecredito",
                         "pt": "configurar-pagamento-com-sistecredito"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with SpinMX",
+                        "es": "Configurar pago con SpinMX",
+                        "pt": "Configurar pagamento com SpinMX"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-spinmx",
+                        "es": "configurar-pago-con-spinmx",
+                        "pt": "configurar-pagamento-com-spinmx"
                       },
                       "origin": "",
                       "type": "markdown",
