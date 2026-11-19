@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Transferir crédito entre empresas do mesmo grupo econômico'
 createdAt: '2026-11-18T00:00:00.000Z'
 updatedAt: '2026-11-19T00:00:00.000Z'
