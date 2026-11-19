@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-18",
   "providers": [
     {
       "name": "55Pay",
@@ -479,6 +479,16 @@
       "countries": ["MX"]
     },
     {
+      "name": "Compraqui",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-compraqui",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-compraqui",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-compraqui"
+      },
+      "countries": ["CL"]
+    },
+    {
       "name": "Conekta",
       "payoutSplit": false,
       "docs": {
@@ -545,6 +555,16 @@
         "pt": "https://help.vtex.com/pt/tutorial/configurar-pagamento-com-creditea--5z2wWlS9kn4XZYeVcyi7pb",
         "en": "https://help.vtex.com/en/tutorial/setting-up-payments-with-creditea--5z2wWlS9kn4XZYeVcyi7pb",
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-creditea--5z2wWlS9kn4XZYeVcyi7pb"
+      },
+      "countries": ["MX"]
+    },
+    {
+      "name": "Credito Bodesa",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-credito-bodesa",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-credito-bodesa",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-credito-bodesa"
       },
       "countries": ["MX"]
     },
@@ -874,6 +894,16 @@
       "countries": ["MX"]
     },
     {
+      "name": "GangPay",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-gangpay",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-gangpay",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-gangpay"
+      },
+      "countries": ["BR"]
+    },
+    {
       "name": "Geru",
       "payoutSplit": false,
       "docs": {
@@ -1042,6 +1072,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-izipay--7bGGw6A9xidRfaOhOU1Ibd"
       },
       "countries": ["PE", "US"]
+    },
+    {
+      "name": "JumboOneClickTBK",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-jumbooneclicktbk",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-jumbooneclicktbk",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-jumbooneclicktbk"
+      },
+      "countries": ["CL"]
     },
     {
       "name": "Kaiowa",
@@ -1562,6 +1602,16 @@
         "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-paymentsway"
       },
       "countries": ["CO"]
+    },
+    {
+      "name": "PayuPaymentOS",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-payupaymentos",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-payupaymentos",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-payupaymentos"
+      },
+      "countries": ["RO", "PL"]
     },
     {
       "name": "Payválida",
