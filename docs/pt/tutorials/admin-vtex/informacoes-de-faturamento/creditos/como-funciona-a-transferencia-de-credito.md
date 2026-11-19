@@ -12,9 +12,9 @@ seeAlso:
   - "/pt/docs/tutorials/consultar-carteira-de-credito"
 ---
 
-A transferência de crédito permite que uma empresa envie parte do saldo da sua [carteira de crédito](/pt/docs/tutorials/carteira-de-credito) para outra empresa do mesmo grupo econômico. Assim, o grupo usa melhor o crédito que já tem.
+A transferência de crédito permite que uma empresa envie parte do saldo da sua [carteira de crédito](/pt/docs/tutorials/carteira-de-credito) para outra empresa do mesmo grupo econômico. Assim, o grupo aproveita melhor o crédito disponível.
 
-O crédito da carteira é gerado e usado no nível da empresa, e abate a cobrança de [Master Data](/pt/docs/tutorials/master-data-pt) dessa mesma empresa. Em muitos grupos econômicos, algumas empresas geram crédito de sobra e outras consomem mais Master Data do que o crédito disponível. A transferência resolve esse desequilíbrio.
+O crédito da carteira é gerado e usado no nível da empresa, e abate a cobrança de [Master Data](/pt/docs/tutorials/master-data-pt) dessa mesma empresa. Em muitos grupos econômicos, algumas empresas geram crédito excedente e outras consomem mais Master Data do que o crédito disponível. A transferência resolve esse desequilíbrio.
 
 Neste artigo, entenda quando a transferência é possível, quais são as suas regras, como ela afeta a fatura e como aparece no extrato. Para fazer uma transferência, veja [Transferir crédito entre empresas do mesmo grupo econômico](/pt/docs/tutorials/transferir-credito-entre-empresas-do-mesmo-grupo-economico).
 
@@ -34,7 +34,7 @@ Você escolhe o valor e não precisa de aprovação, mas só transfere entre emp
 | Visibilidade do saldo | A empresa de origem não vê o saldo da empresa de destino, e vice-versa. |
 | Valor | Você escolhe quanto transferir. Pode ser qualquer valor maior que zero, até o saldo disponível da empresa de origem. |
 | Aprovação | Não há fluxo de aprovação. A transferência é concluída após a confirmação. |
-| Estorno | Não há. Para ter o crédito de volta, a empresa de destino precisa fazer uma nova transferência. |
+| Estorno | Não há. Para recuperar o saldo, a empresa de destino precisa fazer uma nova transferência. |
 | Transferências encadeadas | Permitidas. Por exemplo, a empresa A transfere para a B, e a B transfere para a C. |
 | Validade do crédito recebido | Segue a política de validade da empresa de destino. A política é configurada por empresa, e não por crédito. |
 | Efeito sobre o crédito do grupo | A transferência não cria um conjunto de crédito compartilhado do grupo econômico. Ela também não altera como o crédito é gerado nem como é aplicado à cobrança de Master Data. Para saber como o crédito é calculado e usado, veja [Carteira de crédito](/pt/docs/tutorials/carteira-de-credito). |
@@ -50,7 +50,7 @@ A fatura é gerada no dia 1 do mês seguinte, e o crédito que a empresa tem nes
 - Uma transferência só abate a fatura se o crédito chegar à empresa de destino antes de a fatura ser gerada.
 - Uma transferência feita depois não altera a fatura já gerada. Ela vale a partir da fatura seguinte.
 
-> ℹ️ Quem paga nos últimos dias do mês pode ver o crédito tarde demais para transferi-lo antes da geração da fatura.
+> ℹ️ Quando os clientes realizam pagamentos nos últimos dias do mês, o crédito pode ficar disponível sem tempo hábil para ser transferido antes da geração da fatura.
 
 ## Como a transferência aparece no extrato
 

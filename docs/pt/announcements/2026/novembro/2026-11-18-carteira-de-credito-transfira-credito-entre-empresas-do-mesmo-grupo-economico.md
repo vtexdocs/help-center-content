@@ -12,11 +12,11 @@ tags:
   - Faturamento
 ---
 
-No Admin VTEX, a página **Créditos**, em **Informações de faturamento**, agora permite transferir parte do saldo da [carteira de crédito](/pt/docs/tutorials/carteira-de-credito) de uma empresa para outra empresa do mesmo grupo econômico.
+No Admin VTEX, a página **Créditos**, em **Informações de faturamento**, agora permite transferir parte do saldo da [carteira de crédito](/pt/docs/tutorials/carteira-de-credito) de uma empresa para outra empresa do mesmo grupo econômico, otimizando o uso do crédito disponível entre as empresas do grupo.
 
 ## O que mudou?
 
-Na página **Créditos** do Admin VTEX, o novo botão `Transferir crédito` permite mover parte do saldo da empresa atual para outra empresa do mesmo grupo econômico. Você escolhe a empresa de destino, informa o valor (maior que zero e até o saldo disponível) e confirma a transferência após revisar o resumo.
+Anteriormente, o saldo da carteira de crédito só podia ser usado pela empresa que o gerava. Agora, na página **Créditos** do Admin VTEX, o novo botão `Transferir crédito` permite mover parte do saldo da empresa atual para outra empresa do mesmo grupo econômico. Você escolhe a empresa de destino, informa o valor (maior que zero e até o saldo disponível) e confirma a transferência após revisar o resumo.
 
 Cada transferência gera uma entrada no **Extrato de crédito** da empresa de origem e outra no da empresa de destino. O crédito recebido segue a política de validade da empresa de destino.
 
@@ -26,11 +26,11 @@ Considere as regras a seguir:
 - A transferência é parcial, não tem fluxo de aprovação e não pode ser desfeita.
 - Só a empresa de origem pode iniciar a transferência.
 - Para que a transferência abata a fatura, o crédito precisa chegar à empresa de destino antes de a fatura ser gerada, no dia 1 do mês seguinte.
-- Uma transferência feita depois vale a partir da fatura seguinte.
+- Uma transferência feita depois dessa data vale a partir da fatura seguinte.
 
 ## Por que fizemos essa mudança?
 
-O crédito da carteira de crédito é gerado e usado no nível da empresa e abate a cobrança de Master Data dessa mesma empresa. Em grupos econômicos com gestão financeira centralizada, algumas empresas consomem muito Master Data e geram pouco crédito, e outras geram crédito de sobra. Com a transferência, você usa o crédito disponível no grupo onde ele for necessário.
+O crédito da carteira de crédito é gerado e usado no nível da empresa e abate a cobrança de Master Data dessa mesma empresa. Em grupos econômicos com gestão financeira centralizada, algumas empresas consomem muito Master Data e geram pouco crédito, e outras geram crédito excedente. Com a transferência, você usa o crédito disponível no grupo onde ele for necessário.
 
 ## O que precisa ser feito?
 
