@@ -20,6 +20,7 @@ Estas son las funcionalidades del CMS:
 - [Configuraciones regionales](#configuraciones-regionales)
 - [Multimedia](#multimedia)
 - [Roles y permisos](#roles-y-permisos)
+- [Más información](#mas-informacion)
 
 ## Todos los contenidos
 

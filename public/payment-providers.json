@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04",
+  "updatedAt": "2026-11-18",
   "providers": [
     {
       "name": "55Pay",
@@ -149,6 +149,16 @@
       "countries": ["US"]
     },
     {
+      "name": "Almacenessi",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-almacenessi",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-almacenessi",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-almacenessi"
+      },
+      "countries": ["CO"]
+    },
+    {
       "name": "AmeDigital",
       "payoutSplit": true,
       "docs": {
@@ -157,6 +167,16 @@
         "es": "https://help.vtex.com/es/tutorial/configur-pago-con-ame-digital--4oEhDjLM4uk95X8omwLEG2"
       },
       "countries": ["BR"]
+    },
+    {
+      "name": "aplazo",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-aplazo",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-aplazo",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-aplazo"
+      },
+      "countries": ["MX"]
     },
     {
       "name": "Appmax",
@@ -169,6 +189,16 @@
       "countries": ["BR"]
     },
     {
+      "name": "AppmaxV1",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-appmaxv1",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-appmaxv1",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-appmaxv1"
+      },
+      "countries": ["BR"]
+    },
+    {
       "name": "argonPAY",
       "payoutSplit": false,
       "docs": {
@@ -177,6 +207,26 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-argonpay--6Pktml6MJpdc7dNvJ4zwzI"
       },
       "countries": ["CO"]
+    },
+    {
+      "name": "AstroPayOneTouch",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-astropayonetouch",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-astropayonetouch",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-astropayonetouch"
+      },
+      "countries": ["GB"]
+    },
+    {
+      "name": "Azteca",
+      "payoutSplit": true,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-azteca",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-azteca",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-azteca"
+      },
+      "countries": ["MX"]
     },
     {
       "name": "Bancard",
@@ -269,6 +319,16 @@
       "countries": ["BR"]
     },
     {
+      "name": "BellunoPagamentos",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-bellunopagamentos",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-bellunopagamentos",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-bellunopagamentos"
+      },
+      "countries": ["BR"]
+    },
+    {
       "name": "Bizum",
       "payoutSplit": false,
       "docs": {
@@ -287,6 +347,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-bluepay--26gzpfmEiwgpE8yhkaFS16"
       },
       "countries": ["BR"]
+    },
+    {
+      "name": "Bold",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-bold",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-bold",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-bold"
+      },
+      "countries": ["CO"]
     },
     {
       "name": "BomPraCredito",
@@ -337,6 +407,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-brinks-cash-ecommerce--5Zoex6NXtyzUFOCctdGjlZ"
       },
       "countries": ["CO"]
+    },
+    {
+      "name": "Cencosud-Pay-Ar",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-cencosud-pay-ar",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-cencosud-pay-ar",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-cencosud-pay-ar"
+      },
+      "countries": ["AR"]
     },
     {
       "name": "Chase Payment",
@@ -399,6 +479,16 @@
       "countries": ["MX"]
     },
     {
+      "name": "Compraqui",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-compraqui",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-compraqui",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-compraqui"
+      },
+      "countries": ["CL"]
+    },
+    {
       "name": "Conekta",
       "payoutSplit": false,
       "docs": {
@@ -439,6 +529,16 @@
       "countries": ["CO"]
     },
     {
+      "name": "CrediPay",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-credipay",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-credipay",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-credipay"
+      },
+      "countries": ["BR"]
+    },
+    {
       "name": "Credit Key",
       "payoutSplit": false,
       "docs": {
@@ -455,6 +555,16 @@
         "pt": "https://help.vtex.com/pt/tutorial/configurar-pagamento-com-creditea--5z2wWlS9kn4XZYeVcyi7pb",
         "en": "https://help.vtex.com/en/tutorial/setting-up-payments-with-creditea--5z2wWlS9kn4XZYeVcyi7pb",
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-creditea--5z2wWlS9kn4XZYeVcyi7pb"
+      },
+      "countries": ["MX"]
+    },
+    {
+      "name": "Credito Bodesa",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-credito-bodesa",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-credito-bodesa",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-credito-bodesa"
       },
       "countries": ["MX"]
     },
@@ -499,7 +609,8 @@
         "PE",
         "PR",
         "SV",
-        "US"
+        "US",
+        "DO"
       ]
     },
     {
@@ -510,7 +621,7 @@
         "en": "https://help.vtex.com/en/tutorial/setting-up-payments-with-cybersource-lac--Hp80vaO9BWAu6hBs4kqfg",
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-cybersource-lac--Hp80vaO9BWAu6hBs4kqfg"
       },
-      "countries": ["DO", "GT"]
+      "countries": ["DO", "GT", "BR"]
     },
     {
       "name": "Deuna",
@@ -531,6 +642,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-digital-river-v2--5dlXHutd9Ik6vtN3WP7GRP"
       },
       "countries": ["US"]
+    },
+    {
+      "name": "Dinelco",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-dinelco",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-dinelco",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-dinelco"
+      },
+      "countries": ["PY"]
     },
     {
       "name": "Directa",
@@ -583,6 +704,26 @@
       "countries": ["BR"]
     },
     {
+      "name": "DripPixParcelado",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-drippixparcelado",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-drippixparcelado",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-drippixparcelado"
+      },
+      "countries": ["BR"]
+    },
+    {
+      "name": "E-fek",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-e-fek",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-e-fek",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-e-fek"
+      },
+      "countries": ["CO"]
+    },
+    {
       "name": "E-Sitef",
       "payoutSplit": false,
       "docs": {
@@ -613,16 +754,6 @@
       "countries": ["MX"]
     },
     {
-      "name": "Egetnet",
-      "payoutSplit": false,
-      "docs": {
-        "pt": "https://help.vtex.com/pt/tutorial/configurar-adquirente-getnet-com-o-conector-egetnet--75kwGKPKnK8mwiEmQGYiWq",
-        "en": "https://help.vtex.com/en/tutorial/setting-up-getnet-acquirer-with-egetnet-connector--75kwGKPKnK8mwiEmQGYiWq",
-        "es": "https://help.vtex.com/es/tutorial/configurar-adquirente-getnet-con-el-conector-egetnet--75kwGKPKnK8mwiEmQGYiWq"
-      },
-      "countries": ["AR", "BR", "CL"]
-    },
-    {
       "name": "EgetnetV2",
       "payoutSplit": true,
       "docs": {
@@ -643,6 +774,16 @@
       "countries": ["PE"]
     },
     {
+      "name": "ePayCencosud",
+      "payoutSplit": true,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-epaycencosud",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-epaycencosud",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-epaycencosud"
+      },
+      "countries": ["CL"]
+    },
+    {
       "name": "ePayco",
       "payoutSplit": false,
       "docs": {
@@ -660,7 +801,7 @@
         "en": "https://help.vtex.com/en/tutorial/setting-up-payments-with-etpay--1vYO022oVj4MdVKP5fCMNx",
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-etpay--1vYO022oVj4MdVKP5fCMNx"
       },
-      "countries": ["CL"]
+      "countries": ["CL", "AR"]
     },
     {
       "name": "EVO Payments",
@@ -671,6 +812,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-evopayments--7CxSgoftps0DHsfR8otQMf"
       },
       "countries": ["MX"]
+    },
+    {
+      "name": "FastPayBrasil",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-fastpaybrasil",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-fastpaybrasil",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-fastpaybrasil"
+      },
+      "countries": ["BR"]
     },
     {
       "name": "FCamara",
@@ -690,7 +841,7 @@
         "en": "https://help.vtex.com/en/tutorial/setting-up-payments-with-fintoc--3TIz2oxbNtzhypWiypqrOZ",
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-fintoc--3TIz2oxbNtzhypWiypqrOZ"
       },
-      "countries": ["CL"]
+      "countries": ["CL", "MX"]
     },
     {
       "name": "FintocMX",
@@ -730,7 +881,7 @@
         "en": "https://help.vtex.com/en/tutorial/setting-up-payments-with-flow--3rKfhZoutpGviUQlQbDSYC",
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-flow--3rKfhZoutpGviUQlQbDSYC"
       },
-      "countries": ["CL"]
+      "countries": ["CL", "PE"]
     },
     {
       "name": "Flywire",
@@ -741,6 +892,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-flywire--12nQ0teCWM1UUtd2Fo6lzO"
       },
       "countries": ["MX"]
+    },
+    {
+      "name": "GangPay",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-gangpay",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-gangpay",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-gangpay"
+      },
+      "countries": ["BR"]
     },
     {
       "name": "Geru",
@@ -773,12 +934,32 @@
       "countries": ["CL"]
     },
     {
+      "name": "GlobalPay",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-globalpay",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-globalpay",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-globalpay"
+      },
+      "countries": ["CO"]
+    },
+    {
       "name": "GlobalPay-Redeban",
       "payoutSplit": false,
       "docs": {
         "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-globalpay-redeban",
         "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-globalpay-redeban",
         "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-globalpay-redeban"
+      },
+      "countries": ["CO"]
+    },
+    {
+      "name": "GlobalPayBancolombia",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-globalpaybancolombia",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-globalpaybancolombia",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-globalpaybancolombia"
       },
       "countries": ["CO"]
     },
@@ -793,6 +974,26 @@
       "countries": ["BR"]
     },
     {
+      "name": "GlobalPayNiqui",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-globalpayniqui",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-globalpayniqui",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-globalpayniqui"
+      },
+      "countries": ["CO"]
+    },
+    {
+      "name": "GlobalPayPSE",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-globalpaypse",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-globalpaypse",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-globalpaypse"
+      },
+      "countries": ["CO"]
+    },
+    {
       "name": "GOcuotas",
       "payoutSplit": false,
       "docs": {
@@ -801,6 +1002,36 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-gocuotas--6oGcugCc3pXIJEhbOZ5YmV"
       },
       "countries": ["AR"]
+    },
+    {
+      "name": "HibouPay",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-hiboupay",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-hiboupay",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-hiboupay"
+      },
+      "countries": ["BR"]
+    },
+    {
+      "name": "InstaPago",
+      "payoutSplit": true,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-instapago",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-instapago",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-instapago"
+      },
+      "countries": ["VE"]
+    },
+    {
+      "name": "InstaPagoU",
+      "payoutSplit": true,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-instapagou",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-instapagou",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-instapagou"
+      },
+      "countries": ["VE"]
     },
     {
       "name": "Inswitch",
@@ -841,6 +1072,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-izipay--7bGGw6A9xidRfaOhOU1Ibd"
       },
       "countries": ["PE", "US"]
+    },
+    {
+      "name": "JumboOneClickTBK",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-jumbooneclicktbk",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-jumbooneclicktbk",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-jumbooneclicktbk"
+      },
+      "countries": ["CL"]
     },
     {
       "name": "Kaiowa",
@@ -971,16 +1212,6 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-liquido-payment--1GKtFlkdwLqabKAyK6pa3J"
       },
       "countries": ["BR"]
-    },
-    {
-      "name": "Lyra",
-      "payoutSplit": false,
-      "docs": {
-        "pt": "https://help.vtex.com/pt/tutorial/configurar-pagamento-com-lyra--1FlJmbVEqF8KJ5ueZUpCWM",
-        "en": "https://help.vtex.com/en/tutorial/setting-up-payments-with-lyra--1FlJmbVEqF8KJ5ueZUpCWM",
-        "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-lyra--1FlJmbVEqF8KJ5ueZUpCWM"
-      },
-      "countries": ["AR"]
     },
     {
       "name": "MACH",
@@ -1123,6 +1354,16 @@
       "countries": ["BR"]
     },
     {
+      "name": "NuPay",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-nupay",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-nupay",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-nupay"
+      },
+      "countries": ["BR"]
+    },
+    {
       "name": "Nuvei",
       "payoutSplit": false,
       "docs": {
@@ -1131,6 +1372,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-nuvei--67DjdrpIaZZmhXv9Iwa6Ev"
       },
       "countries": ["BR", "CO", "PE"]
+    },
+    {
+      "name": "OderoPay",
+      "payoutSplit": true,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-oderopay",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-oderopay",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-oderopay"
+      },
+      "countries": ["RO"]
     },
     {
       "name": "Openpay",
@@ -1179,16 +1430,6 @@
         "pt": "https://help.vtex.com/pt/tutorial/configurar-gateway-pagar-me--egFyDkXjfa80wkSkUWsmc",
         "en": "https://help.vtex.com/en/tutorial/setting-up-pagar-me-gateway--egFyDkXjfa80wkSkUWsmc",
         "es": "https://help.vtex.com/es/tutorial/configurar-gateway-pagar-me--egFyDkXjfa80wkSkUWsmc"
-      },
-      "countries": ["BR"]
-    },
-    {
-      "name": "PagarMeV2",
-      "payoutSplit": true,
-      "docs": {
-        "pt": "https://help.vtex.com/pt/tutorial/configurar-gateway-pagarmev2--5TugxXNMOs0Ocyg4uqussM",
-        "en": "https://help.vtex.com/en/tutorial/setting-up-pagarmev2-gateway--5TugxXNMOs0Ocyg4uqussM",
-        "es": "https://help.vtex.com/es/tutorial/configurar-gateway-pagarmev2--5TugxXNMOs0Ocyg4uqussM"
       },
       "countries": ["BR"]
     },
@@ -1353,6 +1594,26 @@
       "countries": ["MX"]
     },
     {
+      "name": "PaymentsWay",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-paymentsway",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-paymentsway",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-paymentsway"
+      },
+      "countries": ["CO"]
+    },
+    {
+      "name": "PayuPaymentOS",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-payupaymentos",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-payupaymentos",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-payupaymentos"
+      },
+      "countries": ["RO", "PL"]
+    },
+    {
       "name": "Payválida",
       "payoutSplit": false,
       "docs": {
@@ -1401,16 +1662,6 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-paypalv2--2nGiQVk3YKvOAu8Zg4RKFr"
       },
       "countries": ["AE", "AT", "BE", "BR", "CA", "GB", "MX", "US"]
-    },
-    {
-      "name": "PayU India",
-      "payoutSplit": false,
-      "docs": {
-        "pt": "https://help.vtex.com/pt/tutorial/configurar-pagamento-com-payu-india--7JFaP3jBukdZHWel9p7dKX",
-        "en": "https://help.vtex.com/en/tutorial/setting-up-payments-with-payu-india--7JFaP3jBukdZHWel9p7dKX",
-        "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-payu-india--7JFaP3jBukdZHWel9p7dKX"
-      },
-      "countries": ["IN"]
     },
     {
       "name": "PayUv2",
@@ -1493,6 +1744,16 @@
       "countries": ["CO"]
     },
     {
+      "name": "PoolPay",
+      "payoutSplit": true,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-poolpay",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-poolpay",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-poolpay"
+      },
+      "countries": ["BR"]
+    },
+    {
       "name": "Powerpay",
       "payoutSplit": false,
       "docs": {
@@ -1533,6 +1794,16 @@
       "countries": ["BO"]
     },
     {
+      "name": "RedebanConnector",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-redebanconnector",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-redebanconnector",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-redebanconnector"
+      },
+      "countries": ["CO"]
+    },
+    {
       "name": "RedPayv2",
       "payoutSplit": false,
       "docs": {
@@ -1550,7 +1821,7 @@
         "en": "https://help.vtex.com/en/tutorial/setting-up-payments-with-redsysexp--7DSQeUbDEgH6yUvtXg4wly",
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-redsysexp--7DSQeUbDEgH6yUvtXg4wly"
       },
-      "countries": ["ES"]
+      "countries": ["ES", "CO"]
     },
     {
       "name": "SafetyPayV2",
@@ -1793,6 +2064,16 @@
       "countries": ["MX"]
     },
     {
+      "name": "Toku",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-toku",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-toku",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-toku"
+      },
+      "countries": ["BR"]
+    },
+    {
       "name": "Transbank Webpay",
       "payoutSplit": false,
       "docs": {
@@ -1978,7 +2259,7 @@
         "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-wompi",
         "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-wompi"
       },
-      "countries": ["CO"]
+      "countries": ["CO", "GT"]
     },
     {
       "name": "Wompi-Nequi",
@@ -2019,6 +2300,16 @@
         "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-wompicov2"
       },
       "countries": ["CO"]
+    },
+    {
+      "name": "Worldline Global Online Pay",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-worldline-global-online-pay",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-worldline-global-online-pay",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-worldline-global-online-pay"
+      },
+      "countries": ["NL", "PT", "ES"]
     },
     {
       "name": "Worldpay-Payments-Via-WPG",
@@ -2081,7 +2372,7 @@
         "en": "https://help.vtex.com/en/tutorial/setting-up-payments-with-yuno--h7PS0vDJJokqI9axZPNzE",
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-yuno--h7PS0vDJJokqI9axZPNzE"
       },
-      "countries": ["BR", "PE"]
+      "countries": ["BR", "PE", "MX"]
     },
     {
       "name": "Zoop",

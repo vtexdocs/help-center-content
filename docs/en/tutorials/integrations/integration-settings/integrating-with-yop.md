@@ -18,7 +18,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ## First steps
 
 Some steps are essential for us to start configuring integration with the YOP marketplace.
-1. Configure the [sales policy](/en/tutorial/configuring-a-marketplace-sales-policy/);
+1. Configure the [sales policy](/en/docs/tutorials/configuring-a-marketplace-trade-policy);
 2. Configure the [logistics](/en/docs/tutorials/configuring-logistics-for-a-marketplace/) for this sales policy;
 3. Contact YOP;
 
@@ -52,5 +52,5 @@ Some steps are essential for us to start configuring integration with the YOP ma
 
 ## Go further
 
-[How integration with the marketplaces works](/en/tutorial/integrating-with-marketplace/).
+[How integration with the marketplaces works](/en/docs/tutorials/marketplace-strategies-at-vtex).
 

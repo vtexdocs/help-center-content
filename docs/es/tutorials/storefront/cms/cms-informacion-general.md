@@ -9,10 +9,35 @@ locale: es
 ---
 
 <div style="background-color:#EBF5FB; border-left: 2px solid #3498DB; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-  El CMS está disponible para tiendas FastStore desde la v3 en adelante y para Headless Stores. Si tu tienda utiliza FastStore v1 o v2, consulta <a href="/es/docs/tutorials/headless-cms-overview">Headless CMS (Legacy)</a>.
+  El CMS está disponible para tiendas FastStore desde la v3 en adelante y para Headless Stores. Si tu tienda utiliza FastStore v1 o v2, consulta <a href="/es/docs/tutorials/headless-cms-vision-general">Headless CMS (Legacy)</a>.
 </div>
 
 El sistema de gestión de contenidos (CMS) ofrece a las empresas la flexibilidad y el control necesarios para gestionar y estructurar el contenido de su storefront de manera independiente permitiendo que los equipos de negocio y editores de contenido creen múltiples versiones, colaboren en detalles, revisen la calidad y programen la publicación. Accede al CMS desde el Admin VTEX en **Storefront > Contenido > Contenido**.
+
+## Primeros pasos
+
+Cada pieza de contenido que ve un comprador comienza con un desarrollador que define qué se puede editar: los campos, sus tipos y sus nombres. Una vez que el desarrollador publica esa estructura, los operadores de contenido usan el Admin para crear, revisar y publicar páginas basadas en ella, sin escribir código.
+
+![cms-workflow-overview](https://vtexhelp.vtexassets.com/assets/docs/src/cms-workflow___1051ba6444b1b3aeaf5a5623620dc62f.png)
+
+Antes de comenzar, asegúrate de tener:
+
+| Requisito | Descripción |
+| --------- | ----------- |
+| Un esquema publicado por un desarrollador | Sin un esquema no hay campos para editar. Los desarrolladores pueden encontrar los pasos de configuración en la guía del Developer Portal [Getting started with CMS](https://developers.vtex.com/docs/guides/getting-started-with-cms). |
+| El rol adecuado | El CMS tiene tres roles: Content Producer, Content Editor y Content Administrator. Consulta [CMS roles y permisos](https://help.vtex.com/es/docs/tutorials/cms-roles-y-permisos). |
+| Una tienda configurada con una URL de vista previa | Una tienda vincula tu storefront con el CMS y contiene su configuración, incluidas las configuraciones regionales y la URL de vista previa usada para previsualizar entradas y ramas antes de publicarlas. Consulta [Configurar tiendas](https://help.vtex.com/es/docs/tutorials/cms-configurar-tiendas). |
+
+Después de asegurarte de que cumples estos requisitos sigue los pasos a continuación para empezar a trabajar con el CMS:
+
+1. **Configura tu tienda.** Define el nombre de la tienda, la URL de vista previa y las configuraciones regionales. Más información en [Configurar tiendas](https://help.vtex.com/es/docs/tutorials/cms-configurar-tiendas).
+2. **Crea una rama y edita el contenido.** Trabaja en una rama aislada, previsualiza tus cambios y haz merge en `main` ahora o en una fecha programada. Más información en [Versiones y ramas](https://help.vtex.com/es/docs/tutorials/gestionando-versiones-y-branches) y [Flujos de trabajo de colaboración](https://help.vtex.com/es/docs/tutorials/flujos-de-trabajo-de-colaboracion).
+3. **Restaura trabajo anterior si es necesario.** Consulta [Historial de versiones](https://help.vtex.com/es/docs/tutorials/historial-de-versiones).
+4. **Traduce tu contenido.** Configura las configuraciones regionales y el comportamiento de resguardo. Más información en [Configurar configuraciones regionales](https://help.vtex.com/es/docs/tutorials/configurar-configuraciones-regionales), [Localización de contenido](https://help.vtex.com/es/docs/tutorials/localizacion-de-contenido) y [Estrategias de configuración regional de resguardo](https://help.vtex.com/es/docs/tutorials/estrategias-de-configuracion-regional-de-resguardo).
+
+> ℹ️ Los desarrolladores pueden encontrar la información técnica del CMS, como la configuración del entorno y las declaraciones de esquemas, en el [Developer Portal](https://developers.vtex.com/docs/guides/getting-started-with-cms).
+
+## Partes principales del CMS
 
 A continuación se describen las principales partes del CMS:
 

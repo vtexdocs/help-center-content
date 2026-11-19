@@ -14,7 +14,7 @@ tags:
   - B2B
 ---
 
-As of August 31, 2026, all stores using [B2B Suite](/docs/tutorials/b2b-suite-overview) in every region can export data on buyer organizations, cost centers, addresses, and users registered in the store to spreadsheets. The feature is in general availability and allows you to audit these configurations in bulk.
+As of August 31, 2026, all stores using [B2B Suite](/en/docs/tutorials/b2b-suite-overview) in every region can export data on buyer organizations, cost centers, addresses, and users registered in the store to spreadsheets. The feature is in general availability and allows you to audit these configurations in bulk.
 
 ## What has changed?
 
@@ -38,12 +38,12 @@ Reviewing the configurations of each organization individually in the VTEX Admin
 ## What needs to be done?
 
 1. Update the B2B Organizations app to the latest version.
-2. Make sure users who will perform the export have access permission to the Organizations tab. Learn more in [Permission management in B2B Suite](/docs/tutorials/permissions-management-in-b2b-suite).
+2. Make sure users who will perform the export have access permission to the Organizations tab. Learn more in [Permission management in B2B Suite](/en/docs/tutorials/permissions-management-in-b2b-suite).
 
-To learn how to export data, check out the article [Exporting organization data](/docs/tutorials/exporting-organization-data).
+To learn how to export data, check out the article [Exporting organization data](/en/docs/tutorials/exporting-organization-data).
 
 ## Learn more
 
 - [Exporting organization data](/en/docs/tutorials/exporting-organization-data)
-- [Configuring bulk data import for organizations and cost centers (B2B Suite)](/docs/tutorials/configuring-bulk-data-import-for-organizations-and-cost-centers)
-- [B2B Suite - Overview (B2B Suite)](/docs/tutorials/b2b-suite-overview)
+- [Configuring bulk data import for organizations and cost centers (B2B Suite)](/en/docs/tutorials/configuring-bulk-data-import-for-organizations-and-cost-centers)
+- [B2B Suite - Overview (B2B Suite)](/en/docs/tutorials/b2b-suite-overview)

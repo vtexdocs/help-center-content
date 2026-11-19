@@ -39,7 +39,7 @@ Al procesar una solicitud de acceso o portabilidad, es importante que garantices
 
 #### Master Data v1
 
-Puedes utilizar la [API de Master Data v1](https://developers.vtex.com/docs/api-reference/masterdata-api#get-/api/dataentities/-acronym-/search) o el Admin VTEX para acceder a y exportar los datos de clientes almacenados en [Master Data v1](/es/docs/tutorials/master-data).
+Puedes utilizar la [API de Master Data v1](https://developers.vtex.com/docs/api-reference/masterdata-api#get-/api/dataentities/-acronym-/search) o el Admin VTEX para acceder a y exportar los datos de clientes almacenados en [Master Data v1](/es/docs/tutorials/master-data-es).
 
 Si deseas utilizar la API, tu equipo de desarrollo debe usar el [endpoint de búsqueda de Master Data v1](https://developers.vtex.com/docs/api-reference/masterdata-api#get-/api/dataentities/-acronym-/search) y buscar en las entidades de datos de clientes (**CL**), direcciones (**AD**) y cualquier otra que hayas configurado para recibir datos personales de tus clientes. Filtra y busca por email del cliente.
 
@@ -109,7 +109,7 @@ De ser necesario, tu equipo de desarrollo puede [ajustar directamente la opción
 
 La plataforma VTEX permite [configurar una automatización de carrito abandonado](/es/docs/tutorials/configurar-carrito-abandonado). En otras palabras, se puede configurar el envío automático de emails a los clientes que hayan accedido a tu tienda y hayan agregado productos al carrito y terminado la sesión sin comprar.
 
-Como buena práctica, recomendamos [configurar tu automatización de carrito abandonado](http://help.vtex.com/es/docs/tutorials/configurar-carrito-abandonado) para habilitar el envío de emails solo a clientes [inscritos en el newsletter de la tienda](#inscripcion-en-el-newsletter), es decir, clientes que tienen el campo `isNewsletterOptIn` configurado como `true` en la entidad **CL** de [Master Data v1](http://help.vtex.com/es/docs/tutorials/master-data). Esta configuración ayuda a alinear esta comunicación con una práctica de consentimiento, pero recomendamos evaluar con tu equipo jurídico cuál es la base legal más adecuada para esta finalidad en tu operación.
+Como buena práctica, recomendamos [configurar tu automatización de carrito abandonado](http://help.vtex.com/es/docs/tutorials/configurar-carrito-abandonado) para habilitar el envío de emails solo a clientes [inscritos en el newsletter de la tienda](#inscripcion-en-el-newsletter), es decir, clientes que tienen el campo `isNewsletterOptIn` configurado como `true` en la entidad **CL** de [Master Data v1](http://help.vtex.com/es/docs/tutorials/master-data-es). Esta configuración ayuda a alinear esta comunicación con una práctica de consentimiento, pero recomendamos evaluar con tu equipo jurídico cuál es la base legal más adecuada para esta finalidad en tu operación.
 
 ### Avísame
 

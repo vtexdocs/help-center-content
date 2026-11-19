@@ -30,4 +30,4 @@ Other important changes:
 
 > ⚠️ VTEX **doesn't recommend** the customization of JavaScript files, because this can damage your checkout. We don't take responsibility for any problems originated from the editing of this code.
 
-To know everything about the SmartCheckout™'s new version, take a look at [this VTEX Help article](/en/tutorial/migrating-to-the-new-version-of-smart-checkout).
+To know everything about the SmartCheckout™'s new version, take a look at [this VTEX Help article](/en/docs/tutorials/smartcheckout-v5-general-characteristics).

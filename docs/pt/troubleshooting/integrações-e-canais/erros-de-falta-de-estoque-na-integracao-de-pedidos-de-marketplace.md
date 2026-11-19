@@ -24,7 +24,7 @@ symptomFilters:
 
 Quando um pedido realizado em um marketplace não é integrado à VTEX por falta de estoque, uma mensagem de erro é informada em cada pedido. Para verificar os erros, no Admin VTEX, acesse **Marketplace > Conexões > Pedidos** ou digite **Pedidos** na barra de busca.
 
-Para conferir se o SKU está disponível, faça uma [simulação de envio](/pt/tutorial/simulacao-de-frete). O simulador mostra as condições de entrega do produto sem abrir um pedido.
+Para conferir se o SKU está disponível, faça uma [simulação de envio](/pt/docs/tutorials/simulador-de-envio). O simulador mostra as condições de entrega do produto sem abrir um pedido.
 
 Os erros mais comuns de falta de estoque na integração de pedidos de marketplace são:
 

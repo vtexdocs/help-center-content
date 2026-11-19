@@ -38,7 +38,7 @@ Es posible [configurar la cantidad de puntos de recogida](#como-configurar-punto
 Es importante observar que:
 
 * Los puntos de recogida que le aparecen al cliente en el _checkout_ dependen de la disponibilidad de los ítems y del transporte hasta el punto de recogida.
-* VTEX limita la ubicación a un radio de 50 km entre el punto de recogida y la dirección del cliente.
+* El radio de recogida del Checkout es configurable por el comercio hasta un máximo de 50 km (predeterminado: 50 km). El filtro **Recogida** de Delivery Promise usa este mismo radio.
 * Cuando hay transporte entre el [stock](/es/docs/tutorials/almacen) y el punto de recogida, VTEX también toma en cuenta la existencia de la ruta a la hora de elegir el punto de recogida.
 
 > ℹ️ Con los puntos de recogida, VTEX también hace posible que el administrador de la tienda: <ul> <li>Configure puntos de recogida de contingencia: puntos de recogida que pueden suministrar stock a otros puntos cuando sea necesario y así permitir la elección más conveniente para el comprador. Para obtener más información, visite [Punto de recogida de contingencia.](/es/docs/tutorials/crear-punto-de-recogida-de-contingencia-como-opcion-en-el-checkout)</li> <li>Configure un seller white label como punto de recogida. Obtenga más información en [Configurar seller white label como punto de recogida (pickup point)](/es/tutorial/setting-up-seller-white-label-as-a-pickup-point--6fSUE2O0taaoKieAaiuc4e).</li> </ul>

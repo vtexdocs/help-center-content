@@ -1,21 +1,15 @@
 ---
 title: 'Configurar pago con PayPalV2'
-id: 2nGiQVk3YKvOAu8Zg4RKFr
-status: PUBLISHED
 createdAt: 2024-03-14T18:53:09.449Z
-updatedAt: 2025-07-16T22:42:18.769Z
-publishedAt: 2025-07-16T22:42:18.769Z
-firstPublishedAt: 2024-03-14T19:02:53.958Z
+updatedAt: 2026-11-05T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-paypalv2
-legacySlug: configurar-pago-con-paypalv2
 locale: es
-subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+hidden: false
 ---
 
-En VTEX es posible la integración con el proveedor de pagos PayPalV2. A través de este proveedor, su tienda puede realizar ventas mediante PayPalCP ,PayPal, PayPalBCDC y PIX.
+En VTEX es posible la integración con el proveedor de pagos PayPalV2. A través de este proveedor, su tienda puede realizar ventas mediante PayPalCP, PayPal, PayPalBCDC, PIX y tarjetas de crédito (Visa, Mastercard, Elo, American Express e Hipercard).
 
 Para configurar PayPalV2, siga los pasos a continuación:
 

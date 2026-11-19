@@ -33,7 +33,7 @@ El registro del seller será necesario sólo en el __escenario en que su tienda 
 
 Cada seller deberá tener un __identificador único__.
 
-Para configurar un seller, siga el paso a paso descrito en [este artículo](/es/tutorial/configuracion-de-seller/).
+Para configurar un seller, siga el paso a paso descrito en [este artículo](/es/docs/tutorials/agregar-seller).
 
 ## Afiliado
 
@@ -49,6 +49,6 @@ Después de crear un [afiliado](/es/docs/tutorials/como-configurar-afiliado/), u
 
 #### **SEPA MÁS**
 
-- [Estrategias de marketplace en VTEX](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
+- [Estrategias de marketplace en VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex?&utm_source=autocomplete)
 - [Como funciona una Política Comercial](/es/docs/tutorials/como-funciona-una-politica-comercial)
 - [Crear una política comercial](/es/docs/tutorials/crear-una-politica-comercial)

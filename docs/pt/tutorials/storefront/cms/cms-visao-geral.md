@@ -10,10 +10,35 @@ categoryCover: true
 ---
 
 <div style="background-color:#EBF5FB; border-left: 2px solid #3498DB; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-  O CMS está disponível para lojas FastStore a partir da v3 e Headless Stores. Se sua loja utiliza FastStore v1 ou v2, consulte o <a href="/pt/docs/tutorials/headless-cms-overview">Headless CMS (Legacy)</a>.
+  O CMS está disponível para lojas FastStore a partir da v3 e Headless Stores. Se sua loja utiliza FastStore v1 ou v2, consulte o <a href="/pt/docs/tutorials/headless-cms-visao-geral">Headless CMS (Legacy)</a>.
 </div>
 
 O Sistema de Gerenciamento de Conteúdo (CMS) oferece aos lojistas a flexibilidade e o controle necessários para gerenciar e estruturar o conteúdo da frente de loja de forma independente, permitindo que equipes de negócios e editores de conteúdo criem múltiplas versões de conteúdo, colaborem nas informações, revisem a qualidade e programem a publicação. Para acessar o CMS, abra o Admin VTEX e acesse **Storefront > Conteúdo > Conteúdo**.
+
+## Primeiros passos
+
+Todo conteúdo que um comprador vê começa com um desenvolvedor, que define o que pode ser editado, como os campos, seus tipos e nomes. Depois que o desenvolvedor publica essa estrutura, os responsáveis pelo conteúdo usam o Admin para criar, revisar e publicar páginas com base nela, sem precisar escrever código.
+
+![cms-workflow-overview](https://vtexhelp.vtexassets.com/assets/docs/src/cms-workflow___1051ba6444b1b3aeaf5a5623620dc62f.png)
+
+Antes de começar, verifique os requisitos:
+
+| Requisito | Descrição |
+| --------- | --------- |
+| Um schema publicado por um desenvolvedor | Sem ele, não há campos para editar. Os desenvolvedores podem encontrar as etapas de configuração no guia do Developer Portal [Getting started with CMS](https://developers.vtex.com/docs/guides/getting-started-with-cms). |
+| O perfil de acesso correto | O CMS tem três perfis de acesso: Content Producer, Content Editor e Content Administrator. Consulte [Perfis de acesso e permissões do CMS](/pt/docs/tutorials/cms-perfis-de-acesso-e-permissoes). |
+| Uma loja configurada com uma URL de pré-visualização | Uma loja associa seu storefront ao CMS e armazena suas configurações, incluindo as localidades e a URL de pré-visualização usada para pré-visualizar entradas e branches antes da publicação. Consulte [Configurar lojas](/pt/docs/tutorials/cms-configurar-lojas). |
+
+Após preencher esses requisitos, siga estas etapas para começar a usar o CMS:
+
+1. **Configure sua loja.** Defina o nome da loja, a URL de pré-visualização e as localidades. Saiba mais em [Configurar lojas](/pt/docs/tutorials/cms-configurar-lojas).
+2. **Crie uma branch e edite o conteúdo.** Trabalhe em uma branch isolada, pré-visualize as alterações realizadas e faça o merge delas na `main` agora ou em uma data agendada. Saiba mais em [Versões e branches](/pt/docs/tutorials/gerenciando-versoes-e-branches) e [Fluxos de trabalho de colaboração](/pt/docs/tutorials/fluxos-de-trabalho-de-colaboracao).
+3. **Restaure versões anteriores, se necessário.** Consulte [Histórico de versões](/pt/docs/tutorials/historico-de-versoes).
+4. **Traduza seu conteúdo.** Configure as localidades e o comportamento de fallback. Saiba mais em [Configurar localidades](/pt/docs/tutorials/configurar-localidades), [Localização de conteúdo](/pt/docs/tutorials/localizacao-de-conteudo) e [Estratégias de fallback de localidade](/pt/docs/tutorials/entendendo-as-regras-de-fallback-de-localidade).
+
+> ℹ️ Os desenvolvedores podem encontrar a parte técnica do CMS, como a configuração do ambiente e a declaração de schemas, no [Developer Portal](https://developers.vtex.com/docs/guides/getting-started-with-cms).
+
+## Principais partes do CMS
 
 Abaixo estão as principais partes do CMS:
 

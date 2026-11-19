@@ -30,7 +30,7 @@ Se pueden utilizar tres tipos de parámetros UTM para monitorear el tráfico:
 - **utm_medium:** especifica el medio de divulgación, como banner, CPC (costo por clic) o newsletter.
 - **utm_campaign:** define el nombre de la campaña, indicando el contexto de marketing, como Navidad, lanzamiento o promoción.
 
-> ℹ️ En la pantalla de gestión de pedidos, solo el parámetro `utm_source` está [disponible para filtrar pedidos](/es/tutorial/como-filtrar-pedidos).
+> ℹ️ En la pantalla de gestión de pedidos, solo el parámetro `utm_source` está [disponible para filtrar pedidos](/es/docs/tutorials/filtrar-todos-los-pedidos).
 
 > ❗ No utilices caracteres especiales en los valores de parámetros UTM, por ejemplo, `utm_source=#fb`. Solo se aceptan caracteres alfanuméricos, guiones y guiones bajos.
 

@@ -39,6 +39,7 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 * [Opciones de envío](#opciones-de-envio)
 * [Agente de Optimización de Búsqueda](#agente-de-optimizacion-de-busqueda)
 * [Autenticador](#autenticador)
+* [Gestión de Contratos](#gestion-de-contratos)
 
 > ℹ️ Si, en Audit, ves algún evento no incluido en esta lista, por favor, envíanos más información a través de la [página de feedback sobre documentación](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
@@ -471,7 +472,7 @@ En la columna **Acción**, todos los eventos de Headless CMS (Legacy) también m
 
 ## Opciones de envío
 
-> ℹ️ [Opciones de envío](/es/docs/tutorials/opciones-de-envio-beta) está en fase de open beta. Estos eventos solo se registran en cuentas que usan Opciones de envío. En las demás cuentas, la búsqueda por esta aplicación no devuelve resultados.
+> ℹ️ [Opciones de envío](/es/docs/tutorials/opciones-de-envio) está en fase de open beta. Estos eventos solo se registran en cuentas que usan Opciones de envío. En las demás cuentas, la búsqueda por esta aplicación no devuelve resultados.
 
 | Acción | Descripción del evento | Detalles del evento |
 |---|---|---|
@@ -503,4 +504,33 @@ En la columna **Acción**, todos los eventos de Headless CMS (Legacy) también m
 | DelegationRevoked | Revocación de una delegación antes de la fecha de finalización. | ID de la delegación. |
 | ImpersonationSuccess | Suplantación exitosa de un usuario mediante un intercambio de token on-behalf-of (OBO). | ID del usuario original, ID del usuario delegado, tipo de suplantación, ID de la delegación e ID de la unidad organizativa. |
 | ImpersonationFailed | Intento fallido de suplantación de un usuario mediante un intercambio de token on-behalf-of (OBO). | ID del usuario original, ID del usuario delegado, tipo de suplantación, ID de la delegación, ID de la unidad organizativa y motivo del fallo. |
+
+## Gestión de Contratos
+
+> ℹ️ Estos eventos cubren creaciones, actualizaciones y eliminaciones de un contrato y de los registros asociados a él. Las mismas acciones incluyen cambios hechos en Gestión de Contratos y cambios confirmados por el Agente de gestión de contratos. `DENIED_ATTEMPT` registra una escritura rechazada por falta de permiso. El evento no significa que el registro haya cambiado y no incluye los valores de los campos.
+
+| Acción | Descripción del evento | Detalles del evento |
+|---|---|---|
+| CREATE_CONTRACT | Creación de un contrato. | ID del contrato y los campos guardados en el contrato. |
+| UPDATE_CONTRACT | Actualización de un contrato. | ID del contrato y cada campo modificado, con el valor antes y después del cambio. |
+| DELETE_CONTRACT | Eliminación de un contrato. | ID del contrato y los valores de los campos inmediatamente antes de la eliminación. |
+| CREATE_ADDRESS | Creación de una dirección en un contrato. | ID del contrato y los campos guardados en la dirección. |
+| UPDATE_ADDRESS | Actualización de una dirección de un contrato. | ID del contrato, ID de la dirección y cada campo modificado, con el valor antes y después del cambio. |
+| DELETE_ADDRESS | Eliminación de una dirección de un contrato. | ID del contrato, ID de la dirección y los valores de los campos inmediatamente antes de la eliminación. |
+| CREATE_LOCATION | Creación de una ubicación de entrega en una dirección de contrato. | ID del contrato y los campos guardados en la ubicación. |
+| UPDATE_LOCATION | Actualización de una ubicación de entrega de una dirección de contrato. | ID del contrato, ID de la ubicación y cada campo modificado, con el valor antes y después del cambio. |
+| DELETE_LOCATION | Eliminación de una ubicación de entrega de una dirección de contrato. | ID del contrato, ID de la ubicación y los valores de los campos inmediatamente antes de la eliminación. |
+| CREATE_RECIPIENT | Creación de un destinatario en un contrato. | ID del contrato y los campos guardados en el destinatario. |
+| UPDATE_RECIPIENT | Actualización de un destinatario de un contrato. | ID del contrato, ID del destinatario y cada campo modificado, con el valor antes y después del cambio. |
+| DELETE_RECIPIENT | Eliminación de un destinatario de un contrato. | ID del contrato, ID del destinatario y los valores de los campos inmediatamente antes de la eliminación. |
+| CREATE_PAYMENT_METHOD | Creación de un medio de pago o de un grupo de pago en un contrato. | ID del contrato y los campos guardados en el registro. |
+| UPDATE_PAYMENT_METHOD | Actualización de un medio de pago o de un grupo de pago de un contrato. | ID del contrato, ID del registro y cada campo modificado, con el valor antes y después del cambio. |
+| DELETE_PAYMENT_METHOD | Eliminación de un medio de pago o de un grupo de pago de un contrato. | ID del contrato, ID del registro y los valores de los campos inmediatamente antes de la eliminación. |
+| CREATE_ASSORTMENT | Creación de un surtido o de una colección en un contrato. | ID del contrato y los campos guardados en el registro. |
+| UPDATE_ASSORTMENT | Actualización de un surtido o de una colección de un contrato. | ID del contrato, ID del registro y cada campo modificado, con el valor antes y después del cambio. |
+| DELETE_ASSORTMENT | Eliminación de un surtido o de una colección de un contrato. | ID del contrato, ID del registro y los valores de los campos inmediatamente antes de la eliminación. |
+| CREATE_PRICE_TABLE | Creación de una tabla de precios en un contrato. | ID del contrato y los campos guardados en la tabla de precios. |
+| UPDATE_PRICE_TABLE | Actualización de una tabla de precios de un contrato. | ID del contrato, ID de la tabla de precios y cada campo modificado, con el valor antes y después del cambio. |
+| DELETE_PRICE_TABLE | Eliminación de una tabla de precios de un contrato. | ID del contrato, ID de la tabla de precios y los valores de los campos inmediatamente antes de la eliminación. |
+| DENIED_ATTEMPT | Intento de crear, actualizar o eliminar un registro de Gestión de Contratos rechazado por falta de permiso. | ID del contrato, la operación intentada, el motivo del rechazo y los nombres de los campos enviados en la solicitud. Los valores de los campos no se registran. |
 

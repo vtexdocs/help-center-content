@@ -33,4 +33,4 @@ To configure shipping policies, warehouses an docks, go to your VTEX Admin, in *
 ### Know more
 
 - [Shipping Simulator](/en/docs/tutorials/shipping-policy)
-- [Checking how an order delivery deadline was calculated](/en/tutorial/verificar-como-o-prazo-de-entrega-de-um-pedido-foi-calculado).
+- [Checking how an order delivery deadline was calculated](/en/docs/tutorials/checking-how-an-order-delivery-deadline-was-calculated).
