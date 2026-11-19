@@ -65842,21 +65842,6 @@
             },
             {
               "name": {
-                "en": "Restrict the default-src of the header Content Security Policy could break the Checkout",
-                "es": "Restringir el valor «default-src» de la Política de Seguridad de Contenidos (CSP) del encabezado podría impedir que se complete el proceso de pago.",
-                "pt": "Restringir o parâmetro `default-src` da Política de Segurança de Conteúdo (CSP) do cabeçalho pode impedir o funcionamento do processo de checkout"
-              },
-              "slug": {
-                "en": "restrict-the-defaultsrc-of-the-header-content-security-policy-could-break-the-checkout",
-                "es": "restringir-el-valor-defaultsrc-de-la-politica-de-seguridad-de-contenidos-csp-del-encabezado-podria-impedir-que-se-complete-el-proceso-de-pago",
-                "pt": "restringir-o-parametro-defaultsrc-da-politica-de-seguranca-de-conteudo-csp-do-cabecalho-pode-impedir-o-funcionamento-do-processo-de-checkout"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Product Rich Snippets not using AggregateOffer format for offers with more than one seller",
                 "es": "Fragmentos enriquecidos de productos que no utilizan el formato «AggregateOffer» para ofertas con más de un vendedor",
                 "pt": "Snippets de produto que não utilizam o formato AggregateOffer para ofertas com mais de um vendedor"
