@@ -208,9 +208,9 @@ O dashboard oferece os seguintes controles:
 - `Atualizar`: recarrega os dados do painel manualmente.
 - `Exportar dados`: permite baixar os dados exibidos no painel.
 
-### Critérios de Atendido por IA 
+### Critérios de Atendido por IA
 
-No fechamento diário, os atendimentos são classificados como **Atendido por IA** ou **Não atendido por IA**, com base em uma série de critérios. Esses critérios pode ser editados clicando no botão de <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
+No fechamento diário, os atendimentos são classificados como **Atendido por IA** ou **Não atendido por IA**, com base em uma série de critérios. Esses critérios podem ser editados clicando no botão de <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
 
 O painel lateral abre com duas seções:
 
@@ -222,7 +222,7 @@ Para adicionar um critério, siga os passos a seguir:
 1. Na tela de **Critérios de Atendido por IA**, clique em `Adicionar critério`.
 2. Escreva seu critério no campo de mensagem e clique em `Validar`.
 
-> ❗ O seu critério não pode conflitar com os critérios-base. 
+> ❗ A IA rejeita critérios vazios, ofensivos, fora de escopo, impossíveis de avaliar a partir de uma conversa ou que contradizem um critério-base. O painel explica por que o critério foi invalidado. Reescreva o critério e tente validar novamente.
 
 3. Quando o seu critério for validado, clique em `Salvar`.
 
