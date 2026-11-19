@@ -20,127 +20,125 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 Follow the steps below to add a new collection:
 
 1. In the VTEX Admin, access **Storefront > Layout**.
-2. In the CMS folder, click on __Product Clusters (Collections)__.
-3. Click on __New Collection__.
-4. Fill out the Collection form fields. For more on the meaning of each one of these fields, read our article on [how to fill out new collection fields](/en/docs/tutorials/filling-out-collection-registration-fields).
-5. Click on __Save Product Cluster__.
+2. In the CMS folder, click **Product Clusters (Collections)**.
+3. Click `new collection`.
+4. Complete the collection form fields. For more on the meaning of each one of these fields, read our article on [how to complete new collection fields](/en/docs/tutorials/filling-out-collection-registration-fields).
+5. Click `Save Product Cluster`.
 
-> ⚠️ When the number of created collections surpasses twenty, those exceeding that number can be found through the search field on the admin interface. Search by the name of the collection you want to find.
+> ⚠️ When more than 20 collections are created, you can use the search field to find collections that aren't displayed in the list. Search this field by the name of the desired collection.
 
-Choosing the products that will make up a collection is done by clicking on __New Group__ in the desired collection, creating a __group__.
+The products in a collection are selected by creating a **group**. To do this, click `new group` within the desired collection.
 
-![new-group-collection en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/adding-collections-cms_1.png)
+![Button to create a new group in the collection.](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/adding-collections-cms_1.png)
 
-Before choosing which products to add to a group, you will need to give it a name and specify which type the created group falls under.
+Before selecting the products to include in the group, you need to name it and specify its type.
 
-## Group Types
+## Group types
 
-There are only two possible values for a group type: __Inclusive__ or __Exclusive__.  An inclusive group includes its products in the collection to which it is linked. Meanwhile, an Exclusive group does the opposite, removing its products from a collection.
+There are only two group types: `Inclusive` and `Exclusive`. An `Inclusive` group includes all its products in the collection it's linked to. Likewise, an `Exclusive` group excludes its products from the collection.
 
-For example, we have a collection called _Cellphones_, comprising two groups: group `A` is an *Inclusive* type while `B` is an *Exclusive* type. The products belonging to this collection will be the result of group A products *minus* group B products.
+For example, consider a collection called Cellphones with two groups: group `A` is `Inclusive`, while group `B` is `Exclusive`. The component products of this collection will be the result of products from group A _minus_ products from group B.
 
-This logic is used for any number of groups created within the same collection. *Exclusive* group products will always be subtracted from any *Inclusive* type groups, as follows:
+This logic is used for any number of groups created within the same collection. Products in `Exclusive` groups are always subtracted from the products in `Inclusive` groups. As a result:
 
-`Products comprising a collection = (A+B) - (C+D)`
+`Collection component products = (A+B) - (C+D)`
 
-Of which:
+Where:
 
-- Groups A and B are type *Inclusive*
-- Groups C and D are type *Exclusive*
+- A and B groups of type `Inclusive`
+- C and D groups of type `Exclusive`
 
-To this end, the first group that is created in any collection must necessarily be type *Inclusive*.
+For this reason, the first group created for any collection must be of type `Inclusive`.
 
-> ⚠️ Be mindful of the set group type. When adding products to an *Exclusive* group type, for example, these **will not** be added to a collection due to the nature of the group.
+> ⚠️ Pay attention to the group type you set. For example, when you add products to an `Exclusive` group, they **won't** be included in the collection because of how this group type works.
 
-## Selecting Products
+## Selecting products
 
-In a group, you can select a product based on the following:
+Within a group, product selection can be based on:
 
-- Department, Category or Subcategory
+- Department, category, or subcategory
 - Brand
 - SKU
-- Launch Date
+- Release date
 
-You can select more than one of the options above to achieve a specific scenario. In such cases, __only products falling within the intersection of both options will be included in the group__.
+You can select more than one of the previous options to achieve a specific scenario. In these cases, **only the products that fall within the intersection of the selected options will be included in the group**.
 
-For example: When selecting a category `A` and a brand `B`, only products pertaining simultaneously to this category and brand will be included in the group. Category `A` products pertaining to brands other than `B` will not be part of the collection. The same applies for brand `B` products of other categories.  
+For example, when you select category `A` and brand `B`, only products that belong to both that category and brand at the same time will be included in the group. For example, products in category `A` from brands other than `B` won't be in the collection, nor will products from brand `B` in other categories.
 
-## Products by Department, Category or Subcategory
+## Products by department, category, or subcategory
 
-To add the products of a specific department to a group, select the desired department and click on __Save Group__, as shown in the image below.
+To add all products from a specific department to a group, select the desired department, along with the categories and subcategories linked to it, since selecting the department **doesn't** automatically select the others. Then, click `Save Group`, as shown in the image below.
 
-![seleção-departamento EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/adding-collections-cms_2.png)
+![Selecting department, categories, and subcategories in a CMS collection.](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/adding-collections-cms_2.png)
 
-The same applies for products of a specific Category or Subcategory.
+Each level is selected independently. To include products from a specific category, also select the subcategories linked to it. To include only the products from a specific subcategory, select only that subcategory.
 
-![seleção-categoria-subcategoria EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/adding-collections-cms_3.png)
+![Selecting a category and subcategory in a CMS collection.](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/adding-collections-cms_3.png)
 
-## Product by Brand
+## Products by brand
 
-To create a group containing products from one or more brands, select the desired brand from the corresponding list.
+To create a group with products from one or more brands, select the desired brand in the corresponding list.
 
-![seleção-marca-coleção en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/adding-collections-cms_4.png)
+![Selecting brands in a CMS collection.](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/adding-collections-cms_4.png)
 
-Brands are displayed in alphabetical order. When clicking on the first letter corresponding to the desired brand, the list expands and displays the existing brands.
+Brands are listed in alphabetical order. Clicking the letter corresponding to the initial of the desired brand expands the list and displays the existing brands.
 
 ## Products by SKU
 
 ### Manually
 
-When adding a SKU to a group, the product to which it is linked is also added. If the product is linked to more than one SKU, adding one SKU would also add all other SKUs to the group.
+When you add a SKU to a group, the product it's linked to will also be added. In a scenario where a product has more than one SKU assigned to it, adding a single SKU will cause all the others to be added to the group as well.
 
-![selecao-sku-manual en & es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/adding-collections-cms_5.png)
+![Manually adding SKUs to a collection group.](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/adding-collections-cms_5.png)
 
-In the __find SKUs__ field, you can type in as many SKU IDs as needed, separating each one by a comma. 
+In the **Find SKUs** field, you can type the ID of as many SKUs as needed, separating the values with a comma. For example: `2000004,2000009,2000005`.
 
-> Ex.: 200004,200009,200005
+To exclude a SKU from the list, click the red button beside it.
 
-To remove an SKU from the list, click on the red button next to it.
-
-> ℹ️ When the number of listed SKUs surpasses ten, a page control becomes available.
+> ℹ️ When the list contains more than 10 SKUs, pagination becomes available.
 
 ### By spreadsheet
 
- > ℹ️ Get the file template for adding SKUs to or removing them from a collection [here](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/en/tutorials/storefront/cms-portal-legacy/layout/Colecao.xls).
+> ℹ️ Download the [spreadsheet template](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/Colecao.xls) to add or remove SKUs from the collection.
 
-#### Bulk Upload
+#### Bulk inclusion
 
-You can __Bulk insert SKUs__ by importing an `.xls` format spreadsheet to list SKUs that will be part of a group.
+In the **Bulk Insert SKUs** field, you can upload a spreadsheet (`.xls` format) containing a list of SKUs to include in the group.
 
-![selecao-sku-planilha-insert en & es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/adding-collections-cms_6.png)
+![Bulk Insert SKUs field for importing a SKU spreadsheet.](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/adding-collections-cms_6.png)
 
-In the imported spreadsheet, all SKU IDs must be listed in the first column, with a header, as shown in the example below:
+In the spreadsheet, all SKU IDs must be listed in the first column, with a header, as shown in the following figure:
 
-![exemplo-planilha-seleção-sku-coleção](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/adding-collections-cms_7.png) 
+![Example spreadsheet with SKU IDs in the first column.](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/adding-collections-cms_7.png)
 
-After selecting the desired spreadsheet, click on the __Import SKUs__ option to sent the information.
+After selecting the desired spreadsheet, click `Import skus` to submit the information.
 
-![Import SKUs](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/adding-collections-cms_8.png)
+![Button to import the SKU spreadsheet.](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/adding-collections-cms_8.png)
 
-#### Bulk remove
+#### Bulk exclusion
 
-To avoid having to remove SKUs one at a time, you can use the import function of a spreadsheet to bulk remove them.
+To avoid removing SKUs one at a time, you can also use the spreadsheet import feature to remove them in bulk.
 
-![exclusao-skus-manualmente-planilha-coleção-cms en & es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/adding-collections-cms_9.png)
+![Excluding SKUs from a group via spreadsheet.](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/adding-collections-cms_9.png)
 
-In this specific case, the SKUs listed in the imported spreadsheet will be excluded from the group. Do this by clicking on __remove SKUs__ after the file has been loaded. 
+In this case, the SKUs listed in the imported spreadsheet will be removed from the group. To do this, click `exclude skus` after the file is uploaded.
 
-> ⚠️ Disabled SKUs will not be removed or added, even if they appear as listed in the spreadsheet.
+> ⚠️ Inactive SKUs won't be excluded or included, even if they're listed in the spreadsheet.
 
-## Products by Market Launch date
+## Products by release date
 
-> ⚠️ In the **Other options** section, the **Pre-sales** and **Launches** options are add-ons to choosing products by Category, Brand or SKU, meaning that these flags will only work if you have previously selected them.
+> ⚠️ In the **Other options** section, the **Pre-sales** and **Launches** options complement the product selection by categories, brands, or SKUs. This means these flags only work if you've already selected categories, brands, or SKUs in the same group.
 
-Note that you can only select one of the two options. Should you want both add-ons, create two groups and configure each one with the respective option.
+Note that you can only select one of the two options. If you want both scenarios covered, create two groups and configure each with the corresponding option.
 
-![other-options-cms-coleções EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/adding-collections-cms_10.png)
+![Selecting the Pre-sales and Launches options in Other options.](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/adding-collections-cms_10.png)
 
 ### Pre-sales
 
-In order to create a product collection that has not been launched yet, select the __Pre-sales__ option. The system considers the launch date of all products to be one day after the present date, according to the _Market launch date_ field in the product file.
+To create a collection of products that haven't been launched in your store yet, select the **Pre-sales** option. The system will consider all products with a release date after the current date, as defined in the **Release date** field when adding a product.
 
 ### Launches
 
-The __Launches__ option allows you to create a recently launched product collection. Upon selecting this option, the system considers all of the products that were launched within a 30-day interval prior to the present date. The launch date taken into account is also the same one set in the _Market launch date_ in the product file.
+The **Launches** option allows you to create a collection of recently launched products. When you select this option, the system will consider all products released within the 30-day range prior to the current date. The release date considered is also the one defined in the **Release date** field in the product registration.
 
-> ℹ️ To know more about how to exclude a product collection, read our article on [how to delete collections](/en/docs/tutorials/how-to-delete-a-collection).
+> ℹ️ To learn how to delete a product collection, go to the article [How to delete a collection](/en/docs/tutorials/how-to-delete-a-collection).
