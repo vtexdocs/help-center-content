@@ -1,14 +1,14 @@
 ---
-title: 'Consultar Carteira de Crédito'
+title: 'Consultar carteira de crédito'
 createdAt: '2026-10-08T00:00:00.000Z'
-updatedAt: '2026-10-08T00:00:00.000Z'
+updatedAt: '2026-11-18T00:00:00.000Z'
 contentType: tutorial
 productTeam: Billing
 slugEN: checking-credit-wallet
 locale: pt
 ---
 
-Para acessar a Carteira de Crédito, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito da tela. Em seguida, clique em **Informações de faturamento > Créditos**.
+Para acessar a carteira de crédito, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito da tela. Em seguida, clique em **Informações de faturamento > Créditos**.
 
 > ⚠️ Somente usuários com o perfil de acesso [Finance](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance), [Finance Full Access](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance-full-access) ou com o recurso `View Credits` de [Billing](/pt/docs/tutorials/perfis-de-acesso-predefinidos#billing) vinculados ao perfil podem acessar a página **Créditos** no Admin VTEX.
 
@@ -16,12 +16,21 @@ Para acessar a Carteira de Crédito, clique no seu avatar — identificado pela 
 
 Na página **Créditos**, você encontra as seguintes informações:
 
-- **Saldo total**: o saldo atual da sua Carteira de Crédito.
+- **Saldo total**: o saldo atual da sua carteira de crédito.
 - **Cobertura estimada para o consumo atual**: estimativa de quantos meses o saldo atual cobriria, mantendo o ritmo de consumo recente. É uma projeção, não uma garantia — muda conforme sua operação cresce ou o consumo varia.
 - **Resumo anual de crédito**: resumo anual do crédito, com dois indicadores:
   - **Entradas e saídas**: total de crédito gerado ("entradas") e efetivamente usado para abater cobranças de Master Data ("saídas") no período. Crédito expirado é contabilizado separadamente (coluna **Expirado** do extrato) e não entra nesse número.
   - **Taxa de consumo**: percentual do crédito acumulado que foi consumido no período. Como o crédito não utilizado continua acumulando para os meses seguintes, quanto mais baixo esse percentual, maior a folga do seu saldo em relação ao consumo de Master Data.
 - **Extrato de crédito**: extrato mês a mês com saldo inicial, crédito gerado, valor usado, valor expirado e saldo final. Clique no ícone `>` de um mês para expandir a linha e ver os lançamentos individuais daquele período (data, descrição, valor de crédito e saldo atualizado). Se houve consumo de Master Data no mês, a linha expandida também exibe a seção **Consumo por add-on** no canto inferior esquerdo da tela, com um card por add-on consumido.
+- `Transferir crédito`: botão para transferir parte do saldo para outra empresa do mesmo grupo econômico. Ele só aparece para quem tem permissão de transferir a partir da empresa atual. Saiba mais em [Transferir crédito entre empresas do mesmo grupo econômico](/pt/docs/tutorials/transferir-credito-entre-empresas-do-mesmo-grupo-economico).
+### Transferências no extrato de crédito
+
+Quando há transferência de crédito entre empresas, o **Extrato de crédito** exibe as seguintes entradas nas linhas expandidas do mês:
+
+- **Empresa de origem**: transferência enviada para a empresa de destino, com valor, data e quem a realizou.
+- **Empresa de destino**: transferência recebida da empresa de origem, com valor, data e quem a realizou. Quando a transferência é feita por uma integração, a chave de aplicação (appKey) aparece no lugar do e-mail.
+
+Cada empresa vê apenas a sua própria entrada e nunca o saldo da outra.
 
 ### Consumo de Master Data
 
@@ -31,8 +40,8 @@ Na página **Créditos**, você encontra as seguintes informações:
 
 Para ver o consumo de Master Data, expanda a linha de um mês no **Extrato de crédito** e, na seção **Consumo por add-on**, no canto inferior esquerdo da tela, clique no card **Master Data**. Isso abre um painel lateral com:
 
-- **Custo estimado para o próximo ciclo**: custo bruto de Master Data no próximo ciclo, calculado com base no volume de documentos armazenados na última atualização do dashboard (semanal) — antes de aplicar o crédito da Carteira de Crédito.
-- **Cobertura pelo crédito**: percentual do custo estimado de Master Data para o próximo ciclo que é coberto pelo saldo atual da Carteira de Crédito. Se for menor que 100%, a diferença é cobrada na fatura.
+- **Custo estimado para o próximo ciclo**: custo bruto de Master Data no próximo ciclo, calculado com base no volume de documentos armazenados na última atualização do dashboard (semanal) — antes de aplicar o crédito da carteira de crédito.
+- **Cobertura pelo crédito**: percentual do custo estimado de Master Data para o próximo ciclo que é coberto pelo saldo atual da carteira de crédito. Se for menor que 100%, a diferença é cobrada na fatura.
 - **Documentos armazenados**: volume atual de documentos e o tier de preço correspondente.
 - **Volume de documentos** (gráfico): volume de documentos armazenados por mês. A barra do mês corrente mostra o acumulado até a última atualização do dashboard (última segunda-feira), não o volume final do mês — diferente das barras de meses já fechados, que mostram o total definitivo daquele mês.
 
