@@ -3,7 +3,7 @@ title: "Buenas prácticas: Opt-in"
 id: 1zqhPT4869IgWgRZ6eJDkv
 status: PUBLISHED
 createdAt: 2025-09-15T15:35:50.207Z
-updatedAt: 2026-11-12T12:00:00.000Z
+updatedAt: 2026-11-19T21:08:52.000Z
 publishedAt: 2025-10-03T14:20:32.308Z
 firstPublishedAt: 2025-10-03T14:20:32.308Z
 contentType: tutorial
