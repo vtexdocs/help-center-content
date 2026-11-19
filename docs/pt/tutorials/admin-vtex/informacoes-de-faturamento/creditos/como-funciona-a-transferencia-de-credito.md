@@ -14,7 +14,7 @@ seeAlso:
 
 A transferência de crédito permite que uma empresa envie parte do saldo da sua [carteira de crédito](/pt/docs/tutorials/carteira-de-credito) para outra empresa do mesmo grupo econômico. Assim, o grupo aproveita melhor o crédito disponível.
 
-O crédito da carteira é gerado e usado no nível da empresa, e abate a cobrança de [Master Data](/pt/docs/tutorials/master-data-pt) dessa mesma empresa. Em muitos grupos econômicos, algumas empresas geram crédito excedente e outras consomem mais Master Data do que o crédito disponível. A transferência resolve esse desequilíbrio.
+O crédito da carteira é gerado e usado no nível da empresa e abate a cobrança de [Master Data](/pt/docs/tutorials/master-data-pt) dessa mesma empresa. Em muitos grupos econômicos, algumas empresas geram crédito excedente e outras consomem mais Master Data do que o crédito disponível. A transferência resolve esse desequilíbrio.
 
 Neste artigo, entenda quando a transferência é possível, quais são as suas regras, como ela afeta a fatura e como aparece no extrato. Para fazer uma transferência, veja [Transferir crédito entre empresas do mesmo grupo econômico](/pt/docs/tutorials/transferir-credito-entre-empresas-do-mesmo-grupo-economico).
 
