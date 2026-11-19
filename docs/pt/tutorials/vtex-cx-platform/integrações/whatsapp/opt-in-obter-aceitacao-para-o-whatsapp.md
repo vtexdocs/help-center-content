@@ -27,6 +27,12 @@ As empresas devem seguir os seguintes requisitos ao coletar a aceitação dos us
 - Informar de maneira visível o nome da empresa para que o cliente saiba com quem está concordando em interagir.
 - Seguir todas as leis e regulamentações locais aplicáveis.
 
+> ⚠️ **Consentimento da Meta x base legal de proteção de dados**  
+>   
+> O consentimento descrito acima é uma exigência de política da Meta para manter a qualidade da conta no WhatsApp Business. Ele não substitui a análise de base legal exigida pela legislação de proteção de dados aplicável (como a LGPD no Brasil, o GDPR na União Europeia, ou outras leis locais equivalentes) para o tratamento de dados pessoais.  
+>   
+> Quando o consentimento for a base legal escolhida, a empresa deve seguir o estabelecido pelas leis de privacidade aplicáveis, incluindo: informar claramente a finalidade do tratamento, manter registro/comprovação do consentimento obtido e permitir a revogação a qualquer momento.
+
 ## Métodos de coleta de aceitação
 
 Se o método de coleta cumprir os requisitos acima, ele estará conforme as políticas da Meta. Abaixo estão exemplos de métodos válidos para obter o consentimento:
