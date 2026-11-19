@@ -19,9 +19,17 @@ Neste artigo, entenda como o crédito da carteira de crédito é calculado, como
 
 > ℹ️ Para saber como consultar as informações da sua carteira de crédito, acesse [Consultar carteira de crédito](/pt/docs/tutorials/consultar-carteira-de-credito).
 
+## Estrutura de faturamento
+
+A estrutura de faturamento da VTEX segue esta hierarquia: **conta → empresa → grupo econômico**.
+
+- **Conta:** uma loja ou ambiente VTEX. Cada conta pertence a uma única empresa. O crédito não fica na conta, e sim na empresa a que ela pertence.
+- **Empresa:** unidade que possui a carteira de crédito, o extrato de crédito e a fatura consolidada. Agrupa uma ou mais contas e tem a sua própria política de validade do crédito.
+- **Grupo econômico:** conjunto de empresas que pertencem ao mesmo cliente.
+
 ## Como o crédito é calculado
 
-Quando uma empresa opera com mais de uma conta na VTEX (por exemplo, [contas franquia](/pt/docs/tutorials/o-que-e-conta-franquia) ou ambientes adicionais), todas são agrupadas em uma empresa para fins de faturamento. É essa empresa que recebe uma fatura consolidada, e é neste nível que o crédito da carteira de crédito é calculado e aplicado, e não por conta individual.
+Quando uma empresa opera com mais de uma conta na VTEX (por exemplo, [contas franquia](/pt/docs/tutorials/o-que-e-conta-franquia) ou ambientes adicionais), todas são agrupadas em uma empresa para fins de faturamento. É essa empresa que recebe uma fatura consolidada, e é neste nível que o crédito da carteira de crédito é calculado e aplicado.
 
 Todo mês, a VTEX soma tudo o que a empresa — ou seja, todas as contas agrupadas sob ela — pagou à VTEX no mês anterior (do dia 1 ao último dia do mês) e concede, no mês seguinte, um crédito equivalente a 2% deste valor total.
 
@@ -39,4 +47,4 @@ Se o valor do crédito for maior que a cobrança de Master Data do período, o s
 
 ## Transferir crédito entre empresas do mesmo grupo econômico
 
-Se o seu grupo econômico tem mais de uma empresa, você pode transferir parte do saldo da carteira de crédito para outra empresa do grupo. Saiba como em [Transferir crédito entre empresas do mesmo grupo econômico](/pt/docs/tutorials/transferir-credito-entre-empresas-do-mesmo-grupo-economico).
+Se o seu grupo econômico tem mais de uma empresa, você pode transferir parte do saldo da carteira de crédito para outra empresa do grupo. Se tem apenas uma, não há empresa de destino e a transferência não é possível. Saiba mais em [Transferir crédito entre empresas do mesmo grupo econômico](/pt/docs/tutorials/transferir-credito-entre-empresas-do-mesmo-grupo-economico).
