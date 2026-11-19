@@ -45,7 +45,7 @@ Você escolhe o valor e não precisa de aprovação, mas só transfere entre emp
 
 O crédito aparece na página **Créditos** conforme os clientes da empresa pagam ao longo do mês, e pode ser transferido assim que aparece.
 
-A fatura é gerada no dia 1 do mês seguinte, e o crédito que a empresa tem nesse momento abate a cobrança de Master Data. Por isso:
+A fatura é gerada no dia 1º do mês seguinte, e o crédito que a empresa tem nesse momento abate a cobrança de Master Data. Por isso:
 
 - Uma transferência só abate a fatura se o crédito chegar à empresa de destino antes de a fatura ser gerada.
 - Uma transferência feita depois não altera a fatura já gerada. Ela vale a partir da fatura seguinte.
