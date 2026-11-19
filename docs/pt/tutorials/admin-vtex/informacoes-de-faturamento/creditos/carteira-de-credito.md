@@ -31,7 +31,7 @@ A estrutura de faturamento da VTEX segue esta hierarquia: **conta → empresa �
 
 Quando uma empresa opera com mais de uma conta na VTEX (por exemplo, [contas franquia](/pt/docs/tutorials/o-que-e-conta-franquia) ou ambientes adicionais), todas são agrupadas em uma empresa para fins de [faturamento](/pt/docs/tutorials/visao-geral-informacoes-de-faturamento). É essa empresa que recebe uma fatura consolidada, e é nesse nível que o crédito da carteira de crédito é calculado e aplicado.
 
-Todo mês, a VTEX soma o valor total pago pela empresa — considerando todas as contas vinculadas a ela — à VTEX no mês anterior (do dia 1 ao último dia do mês) e concede, no mês seguinte, um crédito equivalente a 2% deste valor total.
+Todo mês, a VTEX soma o valor total pago pela empresa — considerando todas as contas vinculadas a ela — à VTEX no mês anterior (do dia 1º ao último dia do mês) e concede, no mês seguinte, um crédito equivalente a 2% desse valor total.
 
 > ⚠️ Pagamentos de Ads, Professional Services e consultorias em geral não entram nesta base de cálculo.
 
