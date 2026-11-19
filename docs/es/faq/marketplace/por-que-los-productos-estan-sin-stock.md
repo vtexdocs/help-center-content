@@ -1,10 +1,10 @@
 ---
 title: '¿Por qué mis productos están sin stock en el marketplace?'
-excerpt: "La política comercial del marketplace necesita muelle, inventario y transportista propios. Después, reindexe el catálogo para enviar el stock."
+excerpt: "La política comercial del marketplace necesita muelle, inventario y transportista propios."
 id: frequentlyAskedQuestions_693
 status: PUBLISHED
 createdAt: 2017-04-27T22:29:36.839Z
-updatedAt: 2023-03-22T21:11:13.467Z
+updatedAt: 2026-11-04T17:45:00.000Z
 publishedAt: 2023-03-22T21:11:13.467Z
 firstPublishedAt: 2017-04-27T23:02:32.909Z
 contentType: frequentlyAskedQuestion

@@ -24,7 +24,7 @@ An **administrative user** is anyone registered with access to your store Admin.
 
 **Where to manage:** _Account settings > Users_
 
-> ℹ️ Learn more in [Managing administrative users](https://help.vtex.com/docs/tutorials/managing-admin-users).
+> ℹ️ Learn more in [Managing administrative users](https://help.vtex.com/en/docs/tutorials/managing-admin-users).
 
 ## Roles
 
@@ -40,8 +40,8 @@ License Manager checks if the user has the necessary resources to perform each a
 
 | Type           | Description                                                                                         | Examples                                                                         | Documentation                                                             |
 | -------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| **Predefined** | Ready-to-use profiles offered by VTEX covering the most common use cases.           | Owner (Admin Super), Call Center Operator, Finance, Logistics | [Predefined roles](https://help.vtex.com/docs/tutorials/predefined-roles) |
-| **Custom**     | Custom roles created by selecting only the necessary resources for each user group. | Role for Catalog team, profile for marketplace operators                         | [Creating roles](https://help.vtex.com/docs/tutorials/creating-roles)     |
+| **Predefined** | Ready-to-use profiles offered by VTEX covering the most common use cases.           | Owner (Admin Super), Call Center Operator, Finance, Logistics | [Predefined roles](https://help.vtex.com/en/docs/tutorials/predefined-roles) |
+| **Custom**     | Custom roles created by selecting only the necessary resources for each user group. | Role for Catalog team, profile for marketplace operators                         | [Creating roles](https://help.vtex.com/en/docs/tutorials/creating-roles)     |
 
 ## Sponsor user
 
@@ -53,7 +53,7 @@ Every VTEX account has a single **Sponsor user**, the main person responsible fo
 
 > ⚠️ Sponsor user ≠ Owner (Admin Super) role. The Sponsor user is unique per account, while Owner is a role that can be assigned to multiple users.
 
-> ℹ️ Learn more in [Sponsor user](https://help.vtex.com/docs/tutorials/what-is-the-sponsor-user).
+> ℹ️ Learn more in [Sponsor user](https://help.vtex.com/en/docs/tutorials/what-is-the-sponsor-user).
 
 ## Principle of least privilege
 
@@ -69,15 +69,15 @@ Always apply the **least required privilege**: Each user should have only the ro
 - Require 2FA for all administrative users
 - Consider using single sign-on (SSO)
 
-> ℹ️ Learn more in [Best practices for store access management](https://help.vtex.com/docs/tutorials/best-practices-for-store-access-management).
+> ℹ️ Learn more in [Best practices for store access management](https://help.vtex.com/en/docs/tutorials/best-practices-for-store-access-management).
 
 ## Learn more
 
 - [Roles](https://help.vtex.com/en/docs/tutorials/roles) - Complete guide to access control
-- [Best practices for store access management](https://help.vtex.com/docs/tutorials/best-practices-for-store-access-management)
-- [Managing administrative users](https://help.vtex.com/docs/tutorials/managing-admin-users)
-- [Creating roles](https://help.vtex.com/docs/tutorials/creating-roles)
-- [Predefined roles](https://help.vtex.com/docs/tutorials/predefined-roles)
+- [Best practices for store access management](https://help.vtex.com/en/docs/tutorials/best-practices-for-store-access-management)
+- [Managing administrative users](https://help.vtex.com/en/docs/tutorials/managing-admin-users)
+- [Creating roles](https://help.vtex.com/en/docs/tutorials/creating-roles)
+- [Predefined roles](https://help.vtex.com/en/docs/tutorials/predefined-roles)
 - [License Manager resources](https://help.vtex.com/en/docs/tutorials/license-manager-resources)
-- [Sponsor user](https://help.vtex.com/docs/tutorials/what-is-the-sponsor-user)
-- [Transferring store ownership](https://help.vtex.com/docs/tutorials/transferring-store-ownership)
+- [Sponsor user](https://help.vtex.com/en/docs/tutorials/what-is-the-sponsor-user)
+- [Transferring store ownership](https://help.vtex.com/en/docs/tutorials/transferring-store-ownership)

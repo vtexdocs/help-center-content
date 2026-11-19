@@ -1,9 +1,9 @@
 ---
-title: "Introducción a los flujos"
+title: "Flujo de automatización"
 id: 5XxzVEJtDzXXEOS0SXANeS
 status: PUBLISHED
 createdAt: 2025-09-16T16:38:04.873Z
-updatedAt: 2025-10-03T14:20:03.960Z
+updatedAt: 2026-11-12T14:20:00.000Z
 publishedAt: 2025-10-03T14:20:03.960Z
 firstPublishedAt: 2025-10-03T14:20:03.960Z
 contentType: tutorial
@@ -13,6 +13,8 @@ slugEN: automation-flow-overview
 legacySlug: introduccion-a-los-flujos
 locale: es
 subcategoryId: hXGU8pFfABVFIg724zWBN
+seeAlso:
+  - "/es/docs/tutorials/creacion-de-flujos"
 ---
 
 Un flujo es un conjunto de pasos organizados en formato de flujograma. Esos pasos son aplicados a sus contactos cuando ellos entran al flujo, osea, cuando comienzan una conversación.
@@ -55,8 +57,4 @@ Esas decisiones son tomadas en cima de las reglas de decisión existentes en su 
 
 Las cartas para comentario permiten la creación de notas, semejantes a posts-its, en nuestros flujos. Pueden ser utilizadas como forma de comunicación entre usted y un colega que también esté trabajando en el mismo proyecto, sea para explicar sobre cómo una parte del flujo funciona, o para alertar de que tal vez sea mejor no alterar esa etapa.
 
-Para crear una carta de comentario, basta con clickear dos veces en un lugar vacío del flujo. Después de eso, usted consigue mover libremente sus notas y posicionarlas en el lugar que guste.
-
-## Y ahora?
-
-Ahora que conocemos mejor el concepto de flujo y entendemos cómo esta formado, podemos profundizar en cada una de las cartas que existen, además de algunas otras configuraciones dentro de nuestra edición.
+Para crear una carta de comentario, haga clic dos veces en un lugar vacío del flujo. Después de eso, usted consigue mover libremente sus notas y posicionarlas en el lugar que guste.

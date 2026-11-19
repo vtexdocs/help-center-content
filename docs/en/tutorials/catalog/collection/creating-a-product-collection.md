@@ -58,8 +58,8 @@ To create a collection, follow the instructions below:
 
 By default, the access link for a collection follows the format `https://{storeName}.com/search?fq=H:{collectionId}`. To use a friendlier URL (for example, `https://{storeName}.com/all-products`), set the collection as searchable and associate it with a CMS folder with Search Context configured:
 
-1. Make the collection display in search results by marking the **Searchable** flag in the collection settings. Learn more in [Making product collections searchable](/docs/tutorials/making-product-collections-searchable).
-2. Create a folder with a custom URL. See the instructions in the [How to create landing pages with custom URLs](/docs/tutorials/how-to-create-landing-pages-with-customized-urls) tutorial.
+1. Make the collection display in search results by marking the **Searchable** flag in the collection settings. Learn more in [Making product collections searchable](/en/docs/tutorials/making-product-collections-searchable).
+2. Create a folder with a custom URL. See the instructions in the [How to create landing pages with custom URLs](/en/docs/tutorials/how-to-create-landing-pages-with-customized-urls) tutorial.
 
 ### Adding groups to the collection
 

@@ -28,7 +28,7 @@ En esta página puedes realizar las siguientes acciones:
 
 Para crear un nuevo presupuesto para la unidad organizativa, debes acceder a la lista de presupuestos y llenar la siguiente información: 
 
-1. En la [pantalla de inicio de Organization Account](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account), haz clic en **Presupuestos**.
+1. En la [pantalla de inicio de Organization Account](https://help.vtex.com/es/docs/tutorials/cuenta-de-la-organizacion#accessing-the-organization-account), haz clic en **Presupuestos**.
 2. En la página **Presupuestos**, haz clic en el botón **`+`** en la esquina superior derecha.  
 3. En el menú lateral Agregar nuevo presupuesto llena los siguientes campos:      
     * **Nombre:** nombre del presupuesto.  

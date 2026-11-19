@@ -85,7 +85,7 @@ De forma predeterminada, la creación de pedidos de suscripción se realiza entr
 Sin embargo, puedes establecer otra hora mediante API utilizando el request [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings). Envía la hora nueva en el campo `executionHourInUtc`.
 
 ### ¿La funcionalidad Suscripciones funciona con el Seller Portal?
-No, Suscripciones no funciona con el [Seller Portal](/es/tutorial/how-to-set-up-your-store-on-seller-portal).
+No, Suscripciones no funciona con el [Seller Portal](/es/docs/tutorials/como-configurar-su-tienda-en-seller-portal).
 
 ### ¿Cómo crear suscripciones a partir de pedidos originales que tienen SKUs con anexos?
 De forma predeterminada, las tiendas no crean pedidos de suscripción incorporando [anexos](/es/docs/tutorials/que-es-un-anexo) de SKUs del pedido original, es decir, los anexos no se consideran en pedidos recurrentes. Esta configuración se puede cambiar, pero solo a través de API utilizando el endpoint [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings). Más información en [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).

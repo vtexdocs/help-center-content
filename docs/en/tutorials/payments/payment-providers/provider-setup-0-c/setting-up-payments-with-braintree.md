@@ -35,6 +35,6 @@ To configure Braintree-DCC, follow the steps below:
 8. In **Provider Fields**, select or complete the **Change Order Single Charge**, **PayPal Client ID (opcional)**, **Merchant Id (Braintree)**, **PayPal Secret (opcional)**, **PayPal Merchant ID (opcional)**, **Send line items?** and **Merchant Account Id (opcional)** fields with your Braintree account information.
 9. Click `Save`.
 
-To set up payment conditions, access [Configure special payment conditions](/en/tutorial/condicoes-de-pagamento).
+To set up payment conditions, access [Configure special payment conditions](/en/docs/tutorials/how-to-configure-payment-conditions).
 
 After following the indicated steps, Braintree-DCC may take up to 10 minutes to appear at your store's checkout as a payment option.

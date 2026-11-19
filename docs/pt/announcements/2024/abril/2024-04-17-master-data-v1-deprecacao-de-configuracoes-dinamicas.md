@@ -20,7 +20,7 @@ tags:
 
 No dia 17 de junho de 2024, vamos desabilitar as seguintes configurações no Master Data v1: **Campo calculado** e ação de ativação (trigger) **Alterar valor do campo**.
 
-Essas opções permitiam alterar valores de documentos no [Master Data](/pt/docs/tutorials/master-data) de forma dinâmica, executando código a partir de um trigger ou da atualização/criação de um documento.
+Essas opções permitiam alterar valores de documentos no [Master Data](/pt/docs/tutorials/master-data-pt) de forma dinâmica, executando código a partir de um trigger ou da atualização/criação de um documento.
 
 Para substituir essas configurações, caso seja necessário atualizar valores de campos de forma dinâmica, recomendamos [criar um app para se comunicar com o Master Data](https://developers.vtex.com/docs/guides/create-master-data-crud-app).
 

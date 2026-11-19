@@ -75,8 +75,8 @@ To create a custom analysis, follow the steps below:
 1. On the **Improvement backlog** tab, click `Custom analysis`.
 2. Complete the two fields:
 
-- **Title:** Name of the improvement identified.
-- **Definition:** Description of the behavior you want to track.
+    - **Title:** Name of the improvement identified.
+    - **Definition:** Description of the behavior you want to track.
 
 3. Click `Add`.
 
