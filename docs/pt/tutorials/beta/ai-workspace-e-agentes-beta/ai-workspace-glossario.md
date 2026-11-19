@@ -1,7 +1,7 @@
 ---
 title: 'AI Workspace e Agentes - Glossário'
-createdAt: 2026-09-28T12:00:00.000Z
-updatedAt: 2026-09-28T12:00:00.000Z
+createdAt: 2026-11-19T12:00:00.000Z
+updatedAt: 2026-11-19T12:00:00.000Z
 contentType: tutorial
 productTeam: AI Workspace
 slugEN: ai-workspace-glossary
@@ -24,11 +24,11 @@ Identidades digitais com habilidades, responsabilidades e escopos de ação bem 
 
 ### Canvas
 
-Interface visual para apoiar [conversas](#conversa). O canvas permite exibir e editar conteúdo estruturado relacionado ao trabalho em andamento, como resultados de [tarefas](#tarefa), tabelas, relatórios, dashboards, páginas, campanhas, diagnósticos e planos de ação. Ele existe independentemente de uma conversa.
+Interface visual para apoiar [conversas](#conversa) de [tarefas](#tarefa). O canvas permite exibir e editar conteúdo estruturado relacionado ao trabalho em andamento, como tabelas, relatórios, dashboards, páginas, campanhas, diagnósticos e planos de ação. Ele existe independentemente de uma conversa.
 
 ### Conversa
 
-Interface de comunicação entre usuários e agentes. Uma conversa permite que os usuários solicitem ações, aprovem decisões e façam perguntas aos agentes. As conversas podem ser iniciadas por um [agente](#agente) ao criar uma [iniciativa](#iniciativa) ou ao iniciar uma [tarefa](#tarefa), ou pelo usuário, por meio da caixa de mensagens ou dos indicadores de desempenho.
+Interface de comunicação entre usuários e agentes. Uma conversa permite que os usuários solicitem ações, aprovem decisões e façam perguntas aos agentes em linguagem natural. As conversas podem ser iniciadas por um [agente](#agente) ao criar uma [iniciativa](#iniciativa) ou ao iniciar uma [tarefa](#tarefa), ou pelo usuário, por meio da caixa de mensagens ou dos indicadores de desempenho.
 
 ## I
 
@@ -47,7 +47,12 @@ Uma iniciativa tem as seguintes características:
 
 ### Líder da iniciativa
 
-O indivíduo que recebe todas as [iniciativas](#iniciativa) relacionadas a um tema específico (por exemplo, Catálogo, Busca, Promoções, Conteúdo). Ele é responsável por revisar iniciativas, delegar [tarefas](#tarefa), autorizar a execução de tarefas e aprovar seus resultados.
+O indivíduo que recebe todas as [iniciativas](#iniciativa) relacionadas a um tema específico (por exemplo, Catálogo, Busca, Promoções, Conteúdo). As responsabilidades do líder são:
+
+- Revisar iniciativas
+- Atribuir [tarefas](#tarefa) a um [responsável](#responsavel-da-tarefa)
+- Realizar tarefas diretamente
+- Aprovar os resultados da iniciativa
 
 ## M
 
@@ -57,7 +62,7 @@ Uma unidade de comunicação enviada por um usuário ou um [agente](#agente) em 
 
 ### Meu Assistente (agente)
 
-O principal assistente de inteligência artificial no [AI Workspace](#ai-workspace) da VTEX. Ele atua como o principal ponto de entrada conversacional para o lojista. O Meu Assistente não trabalha diretamente em [tarefas](#tarefa); ele cria e delega planos e orquestra [agentes](#agente) especializados.
+O principal assistente de inteligência artificial no [AI Workspace](#ai-workspace) da VTEX. Ele atua como o principal ponto de entrada conversacional para o lojista. O Meu Assistente não trabalha diretamente em [tarefas](#tarefa); ele cria e delega planos.
 
 ### Meu assistente (página)
 
@@ -85,6 +90,6 @@ Um prompt predefinido que ajuda o usuário a iniciar uma nova conversa ou contin
 
 ### Tarefa
 
-Ação orientada a um objetivo com escopo, instruções e critérios de sucesso definidos. A tarefa pode ser criada e executada por [agentes](#agente). Uma tarefa pode estar nos seguintes estados: **Aberta**, **Em execução**, **Aguardando ação** ou **Concluída**.
+Ação orientada a um objetivo com escopo, instruções e critérios de sucesso definidos. A tarefa pode ser criada por [agentes](#agente) e seu responsável pode ser um usuário ou um agente. Uma tarefa pode estar nos seguintes estados: **Aberta**, **Em execução**, **Aguardando ação** ou **Concluída**.
 
 Quando um agente executa uma tarefa que requer revisão, aprovação ou decisão do usuário, o agente abre uma [conversa](#conversa) com o resultado da tarefa e solicita a aprovação do usuário.

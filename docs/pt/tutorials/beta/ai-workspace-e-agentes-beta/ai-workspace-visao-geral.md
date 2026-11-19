@@ -1,7 +1,7 @@
 ---
 title: 'AI Workspace e Agentes - Visão geral'
-createdAt: 2026-09-28T12:00:00.000Z
-updatedAt: 2026-09-28T12:00:00.000Z
+createdAt: 2026-11-19T12:00:00.000Z
+updatedAt: 2026-11-19T12:00:00.000Z
 contentType: tutorial
 productTeam: AI Workspace
 slugEN: ai-workspace-overview
@@ -17,9 +17,9 @@ Em um único ambiente, você pode analisar indicadores e recomendações, organi
 
 ## Agentes
 
-Na VTEX, um **agente** é uma entidade baseada em modelos de linguagem de grande escala (LLMs), projetada para executar tarefas específicas de comércio no ecossistema VTEX. Ele funciona como uma camada de interação entre os usuários e os serviços da plataforma, transformando objetivos expressos em linguagem natural em ações concretas do sistema.
+Na VTEX, um **agente** é uma entidade baseada em modelos de linguagem de grande escala (LLMs), projetada para executar tarefas específicas de comércio no ecossistema VTEX. Ele funciona como uma camada de interação entre os usuários e os serviços da plataforma, transformando objetivos expressos em linguagem natural e pontos de melhoria identificados proativamente em ações concretas do sistema.
 
-Os agentes podem conduzir fluxos de trabalho com várias etapas, reconhecer quando uma atividade foi concluída, corrigir suas ações quando necessário e interromper ou delegar o trabalho em caso de falha. Para isso, utilizam ferramentas que permitem interagir com serviços da VTEX e com sistemas externos.
+Os agentes podem conduzir fluxos de trabalho com várias etapas, reconhecer quando uma atividade foi concluída, corrigir suas ações quando necessário e interromper ou delegar o trabalho em caso de falha. Para isso, utilizam ferramentas que permitem interagir com os serviços da VTEX e com sistemas externos.
 
 As principais propriedades de um agente são:
 
@@ -33,7 +33,7 @@ As principais propriedades de um agente são:
 
 O AI Workspace estrutura a colaboração entre pessoas e agentes em três conceitos principais:
 
-- **Iniciativas:** representam objetivos operacionais e agrupam diagnósticos (problemas encontrados) em um contexto compartilhado e propõem uma lista de tarefas. Elas contextualizam os achados e a importância do problema no plano de ação.
+- **Iniciativas:** representam problemas encontrados na loja, com o diagnóstico e as tarefas sugeridas para resolver a questão identificada. Uma iniciativa pode ter uma ou mais tarefas, sempre dentro de um mesmo contexto.
 - **Tarefas:** são unidades de trabalho com objetivo e escopo restritos. Cada tarefa possui um responsável, que pode ser uma pessoa ou um agente.
 - **Conversas:** permitem solicitar informações, delegar atividades, acompanhar execuções, revisar resultados e aprovar ações. Essa estrutura combina a execução autônoma dos agentes com o acompanhamento humano durante o planejamento, a execução e a validação do trabalho.
 
@@ -41,9 +41,9 @@ O AI Workspace estrutura a colaboração entre pessoas e agentes em três concei
 
 Confira os artigos sobre cada área do AI Workspace:
 
-- **[Meu assistente](https://help.vtex.com/pt/docs/tutorials/ai-workspace-inicio):** acompanhe indicadores de desempenho e Iniciativas recomendadas.
-- **[Minhas iniciativas](https://help.vtex.com/pt/docs/tutorials/ai-workspace-iniciativas):** visualize e gerencie os objetivos da operação.
-- **[Tarefas](https://help.vtex.com/pt/docs/tutorials/ai-workspace-tarefas):** acompanhe as unidades de trabalho, seus responsáveis, detalhes e status.
-- **[Conversas](https://help.vtex.com/pt/docs/tutorials/ai-workspace-conversa):** troque mensagens, execute ações rápidas e interaja com os resultados exibidos no canvas.
+- **[Meu assistente](https://help.vtex.com/pt/docs/tutorials/ai-workspace-meu-assistente):** acompanhe os indicadores de desempenho e as iniciativas recomendadas.
+- **[Iniciativas](https://help.vtex.com/pt/docs/tutorials/ai-workspace-iniciativas):** visualize e gerencie os objetivos da operação.
+- **[Tarefas](https://help.vtex.com/pt/docs/tutorials/ai-workspace-tarefas):** acompanhe as unidades de trabalho, seus responsáveis, detalhes e respectivos status.
+- **[Conversa](https://help.vtex.com/pt/docs/tutorials/ai-workspace-conversa):** troque mensagens, execute ações rápidas e interaja com os resultados exibidos no canvas.
 
 Para mais detalhes sobre cada termo, veja [AI Workspace e Agentes - Glossário](https://help.vtex.com/pt/docs/tutorials/ai-workspace-glossario).

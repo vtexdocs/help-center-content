@@ -1,7 +1,7 @@
 ---
 title: 'AI Workspace - Conversa'
-createdAt: 2026-09-28T12:00:00.000Z
-updatedAt: 2026-09-28T12:00:00.000Z
+createdAt: 2026-11-19T12:00:00.000Z
+updatedAt: 2026-11-19T12:00:00.000Z
 contentType: tutorial
 productTeam: AI Workspace
 slugEN: ai-workspace-chat
@@ -14,14 +14,20 @@ A página **Conversa** é onde ocorre a interação entre o usuário e os agente
 
 Uma conversa pode iniciar das seguintes formas:
 
-- Ao enviar uma mensagem na [Caixa de mensagem](https://help.vtex.com/pt/docs/tutorials/ai-workspace-inicio#caixa-de-mensagem)
-- Ao clicar nos [Indicadores de desempenho](https://help.vtex.com/pt/docs/tutorials/ai-workspace-inicio#indicadores-de-desempenho)
+- Ao enviar uma mensagem na [Caixa de mensagem](https://help.vtex.com/pt/docs/tutorials/ai-workspace-meu-assistente#caixa-de-mensagem)
+- Ao clicar nos [Indicadores de desempenho](https://help.vtex.com/pt/docs/tutorials/ai-workspace-meu-assistente#indicadores-de-desempenho)
 - Ao criar uma [iniciativa](https://help.vtex.com/pt/docs/tutorials/ai-workspace-iniciativas)
 - Ao iniciar uma [tarefa](https://help.vtex.com/pt/docs/tutorials/ai-workspace-tarefas)
 
 ![AI Workspace conversa PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-conversa.png)
 
-No topo da página, à direita, aparecem os ícones dos participantes da conversa. Ao passar o mouse sobre um participante, aparece o nome dele.
+## Título da conversa
+
+No topo da página, à esquerda, se encontra o **título da conversa**. Ao clicar na seta ao lado do título, é exibida uma lista de conversas para navegação rápida.
+
+![AI Workspace título conversa PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-titulo-conversa.png)
+
+Quando a conversa se refere a uma tarefa ou uma iniciativa, esta lista exibe apenas as conversas da iniciativa e das tarefas desta iniciativa.
 
 ## Conteúdo da conversa
 
@@ -35,7 +41,7 @@ Durante a conversa, o agente pode apresentar **botões de interação rápida** 
 
 ## Caixa de mensagem
 
-Na parte inferior da página, há a **caixa de mensagem**, igual à do [Início](https://help.vtex.com/pt/docs/tutorials/ai-workspace-inicio). Por meio dela, você envia mensagens ao agente para continuar a conversa.
+Na parte inferior da página, há a **caixa de mensagem**, igual à da [página Meu assistente](https://help.vtex.com/pt/docs/tutorials/ai-workspace-meu-assistente). Por meio dela, você envia mensagens ao agente para continuar a conversa.
 
 ## Canvas
 

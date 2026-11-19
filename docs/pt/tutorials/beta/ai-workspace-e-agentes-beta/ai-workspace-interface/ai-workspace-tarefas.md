@@ -1,7 +1,7 @@
 ---
 title: 'AI Workspace - Tarefas'
-createdAt: 2026-09-28T12:00:00.000Z
-updatedAt: 2026-09-28T12:00:00.000Z
+createdAt: 2026-11-19T12:00:00.000Z
+updatedAt: 2026-11-19T12:00:00.000Z
 contentType: tutorial
 productTeam: AI Workspace
 slugEN: ai-workspace-tasks
@@ -48,17 +48,15 @@ Nos [detalhes da iniciativa no canvas](https://help.vtex.com/pt/docs/tutorials/a
 O canvas da tarefa apresenta as seguintes seções:
 
 - **Título:** nome da tarefa.
-- **Descrição:** explicação do que a tarefa realiza.
 - **Cabeçalho:** informações gerais da tarefa:
-  - **Responsável:** humano ou agente de IA responsável por executar a tarefa.
-  - **Origem:** de onde a tarefa foi originada.
+  - **Atribuída a:** usuário ou agente de IA responsável por executar a tarefa.
   - **Status:** situação atual da tarefa. A exibição do status varia conforme a etapa:
     - **Em aberto:** exibe o botão **Executar task**.
     - **Trabalhando:** exibe uma animação de carregamento acompanhada de **Planejando...**, **Explorando...** ou **Analisando...**.
     - **Aguardando ação:** exibe **🔵 Precisa de atenção**.
     - **Completa:** exibe **✔️ Concluído**.
   - **Output:** resultado gerado pela tarefa.
-- **Objetivo:** finalidade da tarefa.
+- **Descrição:** explicação do que a tarefa realiza.
 - **Escopo:** conjunto de itens sobre os quais a tarefa atua.
 - **Instruções:** orientações que guiam a execução da tarefa.
 - **Resultado esperado:** resultado que se espera obter ao concluir a tarefa.
