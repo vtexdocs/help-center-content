@@ -1,18 +1,12 @@
 ---
 title: 'How are the payments made through Boletos approved?'
-id: frequentlyAskedQuestions_489
-status: PUBLISHED
 createdAt: 2019-01-24T20:45:53.873Z
-updatedAt: 2025-04-28T14:34:42.833Z
-publishedAt: 2025-04-28T14:34:42.833Z
-firstPublishedAt: 2019-01-24T22:11:54.868Z
+updatedAt: 2026-11-19T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: authors_84
 slugEN: how-are-the-payments-made-through-boletos-approved
-legacySlug: how-are-the-payments-made-through-bank-slips-approved
 locale: en
-subcategoryId: 2tEO9ytK1aMO0i2oMayoQq
+hidden: false
 ---
 
 Boleto can be set up in two different ways: banking information may be recorded directly on the Payments section, or it may go through a payment gateway. [See our Boleto creation manual](/en/docs/tutorials/how-to-configure-a-boleto/).
