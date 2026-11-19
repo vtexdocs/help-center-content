@@ -36797,6 +36797,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Search Analytics (Beta)",
+                    "es": "Analytics de la búsqueda (Beta)",
+                    "pt": "Analytics da busca (Beta)"
+                  },
+                  "slug": {
+                    "en": "search-analytics",
+                    "es": "analytics-de-la-busqueda",
+                    "pt": "analytics-da-busca"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Intelligent Search: Semantic search (Beta)",
                     "es": "Intelligent Search: Búsqueda semántica (beta)",
                     "pt": "Intelligent Search: Busca semântica (Beta)"
@@ -65835,21 +65850,6 @@
                 "en": "boolean-videoaudio-html-properties-not-being-validated-on-legacy-cms",
                 "es": "las-propiedades-html-booleanas-de-videoaudio-no-se-validan-en-el-cms-heredado",
                 "pt": "propriedades-booleanas-de-videoaudio-html-nao-validadas-no-cms-legacy"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Restrict the default-src of the header Content Security Policy could break the Checkout",
-                "es": "Restringir el valor «default-src» de la Política de Seguridad de Contenidos (CSP) del encabezado podría impedir que se complete el proceso de pago.",
-                "pt": "Restringir o parâmetro `default-src` da Política de Segurança de Conteúdo (CSP) do cabeçalho pode impedir o funcionamento do processo de checkout"
-              },
-              "slug": {
-                "en": "restrict-the-defaultsrc-of-the-header-content-security-policy-could-break-the-checkout",
-                "es": "restringir-el-valor-defaultsrc-de-la-politica-de-seguridad-de-contenidos-csp-del-encabezado-podria-impedir-que-se-complete-el-proceso-de-pago",
-                "pt": "restringir-o-parametro-defaultsrc-da-politica-de-seguranca-de-conteudo-csp-do-cabecalho-pode-impedir-o-funcionamento-do-processo-de-checkout"
               },
               "origin": "",
               "type": "markdown",
