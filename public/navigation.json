@@ -54,6 +54,36 @@
                 },
                 {
                   "name": {
+                    "en": "Desk Copilot: suggestions for human representatives in Live Desk",
+                    "es": "Desk Copilot: sugerencias para representantes humanos en Live Desk",
+                    "pt": "Desk Copilot: sugestões para atendentes humanos no Live Desk"
+                  },
+                  "slug": {
+                    "en": "2026-11-18-desk-copilot-suggestions-for-human-representatives-in-live-desk",
+                    "es": "2026-11-18-desk-copilot-sugerencias-para-representantes-humanos-en-live-desk",
+                    "pt": "2026-11-18-desk-copilot-sugestoes-para-atendentes-humanos-no-live-desk"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "New Destination retail page for publishers",
+                    "es": "Nueva página Retail de destino para publicadores",
+                    "pt": "Nova tela Varejo de destino para publishers"
+                  },
+                  "slug": {
+                    "en": "2026-11-17-destination-retail",
+                    "es": "2026-11-17-retail-de-destino",
+                    "pt": "2026-11-17-varejo-de-destino"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Live Desk: bulk sending of quick messages",
                     "es": "Live Desk: envío masivo de mensajes rápidos",
                     "pt": "Live Desk: envio de mensagens rápidas em massa"
@@ -333,21 +363,6 @@
                     "en": "2026-10-06-vtex-cx-platform-support-for-bsuid-and-whatsapp-usernames",
                     "es": "2026-10-06-vtex-cx-platform-soporte-para-bsuid-y-nombres-de-usuario-de-whatsapp",
                     "pt": "2026-10-06-vtex-cx-platform-suporte-a-bsuid-e-usernames-do-whatsapp"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "New Destination retail page for publishers",
-                    "es": "Nueva página Retail de destino para publicadores",
-                    "pt": "Nova tela Varejo de destino para publishers"
-                  },
-                  "slug": {
-                    "en": "2026-10-02-destination-retail",
-                    "es": "2026-10-02-retail-de-destino",
-                    "pt": "2026-10-02-varejo-de-destino"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -16606,6 +16621,21 @@
               "origin": "",
               "type": "markdown",
               "children": []
+            },
+            {
+              "name": {
+                "en": "Logged-out users see information in my store with access restriction",
+                "es": "Los usuarios no conectados ven información en mi tienda con restricción de acceso",
+                "pt": "Usuários não logados veem informações na minha loja com restrição de acesso"
+              },
+              "slug": {
+                "en": "logged-out-users-see-information-in-my-store-with-access-restriction",
+                "es": "los-usuarios-no-conectados-ven-informacion-en-mi-tienda-con-restriccion-de-acceso",
+                "pt": "usuarios-nao-logados-veem-informacoes-na-minha-loja-com-restricao-de-acesso"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -21261,7 +21291,7 @@
                     {
                       "name": {
                         "en": "Adding collections CMS",
-                        "es": "Registrar una colección CMS",
+                        "es": "Registro de colecciones CMS",
                         "pt": "Cadastro de Coleções CMS"
                       },
                       "slug": {
@@ -21861,7 +21891,7 @@
                     {
                       "name": {
                         "en": "URL Mapping (301 Redirect)",
-                        "es": "Mapeo de URL (redirección 301)",
+                        "es": "Mapeo de URLs (redirección 301)",
                         "pt": "Mapeamento de URLs (Redirecionamento 301)"
                       },
                       "slug": {
@@ -26925,6 +26955,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with Compraqui",
+                        "es": "Configurar pago con Compraqui",
+                        "pt": "Configurar pagamento com Compraqui"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-compraqui",
+                        "es": "configurar-pago-con-compraqui",
+                        "pt": "configurar-pagamento-com-compraqui"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with Conekta",
                         "es": "Configurar pago con Conekta",
                         "pt": "Configurar pagamento com Conekta"
@@ -27023,6 +27068,21 @@
                         "en": "setting-up-payments-with-creditea",
                         "es": "configurar-pago-con-creditea",
                         "pt": "configurar-pagamento-com-creditea"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with Credito Bodesa",
+                        "es": "Configurar pago con Credito Bodesa",
+                        "pt": "Configurar pagamento com Credito Bodesa"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-credito-bodesa",
+                        "es": "configurar-pago-con-credito-bodesa",
+                        "pt": "configurar-pagamento-com-credito-bodesa"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -27526,6 +27586,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with GangPay",
+                        "es": "Configurar pago con GangPay",
+                        "pt": "Configurar pagamento com GangPay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-gangpay",
+                        "es": "configurar-pago-con-gangpay",
+                        "pt": "configurar-pagamento-com-gangpay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with Geru",
                         "es": "Configurar pago con Geru",
                         "pt": "Configurar pagamento com Geru"
@@ -27805,6 +27880,21 @@
                         "en": "setting-up-payments-with-izipay",
                         "es": "configurar-pago-con-izipay",
                         "pt": "configurar-pagamento-com-izipay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with JumboOneClickTBK",
+                        "es": "Configurar pago con JumboOneClickTBK",
+                        "pt": "Configurar pagamento com JumboOneClickTBK"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-jumbooneclicktbk",
+                        "es": "configurar-pago-con-jumbooneclicktbk",
+                        "pt": "configurar-pagamento-com-jumbooneclicktbk"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -28646,6 +28736,21 @@
                         "en": "setting-up-payments-with-payu-india",
                         "es": "configurar-pago-con-payu-india",
                         "pt": "configurar-pagamento-com-payu-india"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with PayuPaymentOS",
+                        "es": "Configurar pago con PayuPaymentOS",
+                        "pt": "Configurar pagamento com PayuPaymentOS"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-payupaymentos",
+                        "es": "configurar-pago-con-payupaymentos",
+                        "pt": "configurar-pagamento-com-payupaymentos"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -34697,6 +34802,37 @@
               "origin": "",
               "type": "markdown",
               "children": [
+                {
+                  "name": {
+                    "en": "Desk Copilot",
+                    "es": "Desk Copilot",
+                    "pt": "Desk Copilot"
+                  },
+                  "slug": {
+                    "en": "desk-copilot-overview",
+                    "es": "informacion-general-de-desk-copilot",
+                    "pt": "visao-geral-do-desk-copilot"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Using Desk Copilot to support agents in Live Desk",
+                        "es": "Uso de Desk Copilot para apoyar a los agentes en Live Desk",
+                        "pt": "Usando o Desk Copilot para apoiar atendentes no Live Desk"
+                      },
+                      "slug": {
+                        "en": "using-desk-copilot-to-support-agents-in-live-desk",
+                        "es": "uso-de-desk-copilot-para-apoyar-a-los-agentes-en-live-desk",
+                        "pt": "usando-o-desk-copilot-para-apoiar-atendentes-no-live-desk"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
                 {
                   "name": {
                     "en": "Configuring Live Desk",

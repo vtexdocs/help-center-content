@@ -54,7 +54,10 @@ Each metric also displays the maximum value recorded in the period.
 
 Project moderators can set an optional time limit for any of these metrics. The limits are independent, so you can configure one, some, or all of them, in seconds, minutes, or hours. When chats exceed a limit, the card shows how many chats exceeded it. A metric without a limit doesn't show an alert.
 
-You can also send an email to selected moderators when the number of chats over a limit reaches the number you set. The default is 5. One email is sent for each limit: wait time, time to 1st response, or chat duration.
+The same limits can also notify the operation outside the widget:
+
+- When the number of attendances above the threshold reaches the configured value, a notification appears on screen. The notification only reappears after the count drops below the threshold and reaches the configured value again.
+- An email can be sent to selected moderators and managers, with a message per target (wait time, time to first response, or conversation duration), following the same rule as the notification.
 
 To set the limits and the email, see [Analytics: Configuring operational alerts](https://help.vtex.com/en/docs/tutorials/configuring-operational-alerts).
 
@@ -78,7 +81,7 @@ To expand and view the full list of tags, click `View all`.
 
 #### 6. Volume per channel
 
-Shows how support chats are distributed across the channels used in the project. Select **Waiting** or **In progress** to see the count for that status. Each channel shows its icon and the number of support chats. With **In progress** selected, the footer shows how many channels have chats in progress.
+Shows how support chats are distributed across the channels used in the project, such as Facebook, Instagram, and WhatsApp. Select **Waiting** or **In progress** to see the count for that status. Each channel shows its icon and the number of support chats. With **In progress** selected, the footer shows how many channels have chats in progress.
 
 #### 7. CSAT
 
@@ -108,7 +111,7 @@ When a time limit is configured, the table highlights the support chats that exc
 
 Point to the time to see the limit that chat exceeded.
 
-The columns display information such as contact, wait time, time to first response, representative, department, and queue.
+The columns display information such as contact, wait time, time to first response, representative, department, queue, and channel.
 
 By clicking one of the support chats, you'll be redirected to the Live Desk page under **Operations**.
 
@@ -171,8 +174,9 @@ This tab contains information about completed support chats, including data on r
 | **Time to 1st response** | Average time between the contact entering the support chat and receiving the first message from the representative. |
 | **Duration** | How long the support chat lasted from start to finish. |
 | **Contact** | Name of the customer who reached out for support. |
+| **Channel** | Channel where the support chat took place (such as **WhatsApp** or **Shopping Assistant**). |
 | **Protocol** | Protocol number of the support chat. |
-| **CSAT score** | Customer satisfaction score from the native CSAT response for that closed support chat, when the contact answered the survey. |
+| **CSAT score** | Customer satisfaction score from the native CSAT response for that closed support chat, if the contact responded to the survey. |
 
 ##### Representative
 

@@ -4,7 +4,7 @@ createdAt: 2026-11-17T00:00:00.000Z
 updatedAt: 2026-11-18T00:00:00.000Z
 contentType: updates
 productTeam: Ads
-slugEN: 2026-10-02-destination-retail
+slugEN: 2026-11-17-destination-retail
 locale: pt
 announcementSynopsisPT: 'Publishers agora podem declarar participação como destino de campanhas offsite e acompanhar anunciantes que enviam tráfego para sua loja na nova tela Varejo de destino.'
 tags:

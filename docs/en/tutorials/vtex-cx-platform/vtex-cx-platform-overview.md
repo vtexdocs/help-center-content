@@ -59,13 +59,13 @@ Go to the [VTEX CX Platform dashboard](https://dash.weni.ai/). You can create an
 
 If you received an invitation, create or access the account associated with the invited email address. After logging in, select the organization and project included in the invitation.
 
-### Okta login
+### Logging in with Okta
 
-Enterprise clients can log in to VTEX CX Platform with their own Okta tenant. In this case, after entering your email, you're automatically redirected to Okta, with MFA configured, and the platform's password field isn't displayed.
+Enterprise clients can log in to VTEX CX Platform with their own Okta tenant. In this case, after you enter your email address, you're automatically redirected to Okta with the configured multi-factor authentication, and the platform password field isn't displayed.
 
-Access to organizations is still granted only by invite, and domain mapping applies only to the company that configured it.
+Access to organizations is still by invitation only, and domain mapping applies only to the company that configured it.
 
-> ⚠️ To use Okta login, contact [VTEX Support](https://help.vtex.com/en/support) and request the configuration of your organization's email domain mapping and policy.
+> ⚠️ To use Okta login, contact [VTEX Support](/en/support) and request email domain mapping and policy setup for your organization.
 
 ### Creating an organization and project
 
@@ -85,6 +85,16 @@ Adding content during setup is optional. You can update the agent's knowledge la
 > ℹ️ Define a specific goal for the agent, such as "Help customers find products that meet their needs" or "Answer questions about orders." A clear goal helps determine the agent's expected behavior and the content it needs.
 
 After creating the project, invite your team and assign only the permissions they need. For instructions, see [Managing VTEX CX Platform members](https://help.vtex.com/en/docs/tutorials/managing-vtex-cx-platform-members).
+
+### Connecting an existing project
+
+If you already have projects in the VTEX CX Platform, you can connect them to the VTEX Admin.
+
+1. In the VTEX Admin, go to **Storefront > VTEX CX Platform > Dashboard**.
+2. Click `Select existing project`, in the **Connect existing project** card.
+3. Choose the organization that contains the project. You're redirected to the VTEX Admin Dashboard.
+
+> ℹ️ Some advanced features may have limitations in the VTEX Admin Dashboard. For advanced settings, use the [VTEX CX Platform](https://dash.weni.ai).
 
 ## Roles and permissions
 
