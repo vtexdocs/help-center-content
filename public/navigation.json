@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Credit wallet: transfer credit between companies in the same economic group",
+                    "es": "Cartera de crédito: transfiere crédito entre empresas del mismo grupo económico",
+                    "pt": "Carteira de crédito: transfira crédito entre empresas do mesmo grupo econômico"
+                  },
+                  "slug": {
+                    "en": "2026-11-18-credit-wallet-transfer-credit-between-companies-in-the-same-economic-group",
+                    "es": "2026-11-18-cartera-de-credito-transfiere-credito-entre-empresas-del-mismo-grupo-economico",
+                    "pt": "2026-11-18-carteira-de-credito-transfira-credito-entre-empresas-do-mesmo-grupo-economico"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Desk Copilot: suggestions for human representatives in Live Desk",
                     "es": "Desk Copilot: sugerencias para representantes humanos en Live Desk",
                     "pt": "Desk Copilot: sugestões para atendentes humanos no Live Desk"
@@ -17576,12 +17591,27 @@
                       "name": {
                         "en": "Credit wallet",
                         "es": "Cartera de crédito",
-                        "pt": "Carteira de Crédito"
+                        "pt": "Carteira de crédito"
                       },
                       "slug": {
                         "en": "credit-wallet",
                         "es": "cartera-de-credito",
                         "pt": "carteira-de-credito"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How credit transfer between companies works",
+                        "es": "Cómo funciona la transferencia de crédito entre empresas",
+                        "pt": "Como funciona a transferência de crédito entre empresas"
+                      },
+                      "slug": {
+                        "en": "how-credit-transfer-between-companies-works",
+                        "es": "como-funciona-la-transferencia-de-credito-entre-empresas",
+                        "pt": "como-funciona-a-transferencia-de-credito"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -17597,6 +17627,21 @@
                         "en": "checking-credit-wallet",
                         "es": "consultar-cartera-de-credito",
                         "pt": "consultar-carteira-de-credito"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Transferring credit between companies in the same economic group",
+                        "es": "Transferir crédito entre empresas del mismo grupo económico",
+                        "pt": "Transferir crédito entre empresas do mesmo grupo econômico"
+                      },
+                      "slug": {
+                        "en": "transferring-credit-between-companies-in-the-same-economic-group",
+                        "es": "transferir-credito-entre-empresas-del-mismo-grupo-economico",
+                        "pt": "transferir-credito-entre-empresas-do-mesmo-grupo-economico"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -65835,21 +65880,6 @@
                 "en": "boolean-videoaudio-html-properties-not-being-validated-on-legacy-cms",
                 "es": "las-propiedades-html-booleanas-de-videoaudio-no-se-validan-en-el-cms-heredado",
                 "pt": "propriedades-booleanas-de-videoaudio-html-nao-validadas-no-cms-legacy"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Restrict the default-src of the header Content Security Policy could break the Checkout",
-                "es": "Restringir el valor «default-src» de la Política de Seguridad de Contenidos (CSP) del encabezado podría impedir que se complete el proceso de pago.",
-                "pt": "Restringir o parâmetro `default-src` da Política de Segurança de Conteúdo (CSP) do cabeçalho pode impedir o funcionamento do processo de checkout"
-              },
-              "slug": {
-                "en": "restrict-the-defaultsrc-of-the-header-content-security-policy-could-break-the-checkout",
-                "es": "restringir-el-valor-defaultsrc-de-la-politica-de-seguridad-de-contenidos-csp-del-encabezado-podria-impedir-que-se-complete-el-proceso-de-pago",
-                "pt": "restringir-o-parametro-defaultsrc-da-politica-de-seguranca-de-conteudo-csp-do-cabecalho-pode-impedir-o-funcionamento-do-processo-de-checkout"
               },
               "origin": "",
               "type": "markdown",

@@ -20,10 +20,20 @@ Na página **Créditos**, você encontra as seguintes informações:
 
 - **Saldo total**: o saldo atual da sua carteira de crédito.
 - **Cobertura estimada para o consumo atual**: estimativa de quantos meses o saldo atual cobriria, mantendo o ritmo de consumo recente. É uma projeção, não uma garantia — muda conforme sua operação cresce ou o consumo varia.
-- **Resumo anual de crédito**: resumo anual do crédito, com dois indicadores:
-  - **Entradas e saídas**: total de crédito gerado ("entradas") e efetivamente usado para abater cobranças de Master Data ("saídas") no período. Crédito expirado é contabilizado separadamente (coluna **Expirado** do extrato) e não entra nesse número.
+- **Resumo anual de crédito**: exibe dois indicadores do ano:
+  - **Entradas e saídas**: total de crédito gerado ("entradas") e efetivamente usado para abater cobranças de Master Data ("saídas") no período. Crédito expirado aparece separadamente (coluna **Expirado** do extrato) e não entra nesse número.
   - **Taxa de consumo**: percentual do crédito acumulado que foi consumido no período. Como o crédito não utilizado continua acumulando para os meses seguintes, quanto mais baixo esse percentual, maior a folga do seu saldo em relação ao consumo de Master Data.
 - **Extrato de crédito**: extrato mês a mês com saldo inicial, crédito gerado, valor usado, valor expirado e saldo final. Clique no ícone `>` de um mês para expandir a linha e ver os lançamentos individuais daquele período (data, descrição, valor de crédito e saldo atualizado). Se houve consumo de Master Data no mês, a linha expandida também exibe a seção **Consumo por add-on** no canto inferior esquerdo da tela, com um card por add-on consumido.
+- `Transferir crédito`: botão para transferir parte do saldo para outra empresa do mesmo grupo econômico. Ele só aparece para quem tem permissão de transferir a partir da empresa atual. Saiba mais em [Transferir crédito entre empresas do mesmo grupo econômico](/pt/docs/tutorials/transferir-credito-entre-empresas-do-mesmo-grupo-economico).
+
+### Transferências no extrato de crédito
+
+Quando há transferência de crédito entre empresas, o **Extrato de crédito** exibe as seguintes entradas nas linhas expandidas do mês:
+
+- **Empresa de origem**: transferência enviada para a empresa de destino, com valor, data e quem a realizou.
+- **Empresa de destino**: transferência recebida da empresa de origem, com valor, data e quem a realizou. Quando a transferência é feita por uma integração, a chave de aplicação (appKey) aparece no lugar do e-mail.
+
+Cada empresa vê apenas a sua própria entrada e nunca o saldo da outra.
 
 ### Consumo de Master Data
 
