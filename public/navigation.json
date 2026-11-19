@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Credit wallet: transfer credit between companies in the same economic group",
+                    "es": "Cartera de crédito: transfiere crédito entre empresas del mismo grupo económico",
+                    "pt": "Carteira de crédito: transfira crédito entre empresas do mesmo grupo econômico"
+                  },
+                  "slug": {
+                    "en": "2026-11-18-credit-wallet-transfer-credit-between-companies-in-the-same-economic-group",
+                    "es": "2026-11-18-cartera-de-credito-transfiere-credito-entre-empresas-del-mismo-grupo-economico",
+                    "pt": "2026-11-18-carteira-de-credito-transfira-credito-entre-empresas-do-mesmo-grupo-economico"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Live Desk: bulk sending of quick messages",
                     "es": "Live Desk: envío masivo de mensajes rápidos",
                     "pt": "Live Desk: envio de mensagens rápidas em massa"
@@ -17546,7 +17561,7 @@
                       "name": {
                         "en": "Credit wallet",
                         "es": "Cartera de crédito",
-                        "pt": "Carteira de Crédito"
+                        "pt": "Carteira de crédito"
                       },
                       "slug": {
                         "en": "credit-wallet",
@@ -17561,12 +17576,27 @@
                       "name": {
                         "en": "Checking credit wallet",
                         "es": "Consultar cartera de crédito",
-                        "pt": "Consultar Carteira de Crédito"
+                        "pt": "Consultar carteira de crédito"
                       },
                       "slug": {
                         "en": "checking-credit-wallet",
                         "es": "consultar-cartera-de-credito",
                         "pt": "consultar-carteira-de-credito"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Transferring credit between companies in the same economic group",
+                        "es": "Transferir crédito entre empresas del mismo grupo económico",
+                        "pt": "Transferir crédito entre empresas do mesmo grupo econômico"
+                      },
+                      "slug": {
+                        "en": "transferring-credit-between-companies-in-the-same-economic-group",
+                        "es": "transferir-credito-entre-empresas-del-mismo-grupo-economico",
+                        "pt": "transferir-credito-entre-empresas-do-mesmo-grupo-economico"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -61496,6 +61526,21 @@
                 "en": "callback-with-approved-status-not-being-considered-to-proceed-with-the-transaction",
                 "es": "la-devolucion-de-llamada-con-estado-aprobado-no-se-tiene-en-cuenta-para-continuar-con-la-transaccion",
                 "pt": "callback-com-status-aprovado-nao-esta-sendo-considerado-para-prosseguir-com-a-transacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Empty response fields returned as \"null\" for connectors with additional fields enabled",
+                "es": "Los campos de respuesta vacíos se devuelven como \"null\" para los conectores con campos adicionales habilitados.",
+                "pt": "Campos de resposta vazios são retornados como \"nulo\" para conectores com campos adicionais habilitados."
+              },
+              "slug": {
+                "en": "empty-response-fields-returned-as-null-for-connectors-with-additional-fields-enabled",
+                "es": "los-campos-de-respuesta-vacios-se-devuelven-como-null-para-los-conectores-con-campos-adicionales-habilitados",
+                "pt": "campos-de-resposta-vazios-sao-retornados-como-nulo-para-conectores-com-campos-adicionais-habilitados"
               },
               "origin": "",
               "type": "markdown",
