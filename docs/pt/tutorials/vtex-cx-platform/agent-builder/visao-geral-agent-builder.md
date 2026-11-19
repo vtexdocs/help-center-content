@@ -76,6 +76,7 @@ Em **Fonte de motor**, você pode selecionar o modelo de agente nativo do VTEX C
 Se você selecionou o motor nativo da plataforma, poderá escolher, em **Versão do manager**, entre duas opções de agente orquestrador:
 
 - **Manager 2.7** (Recomendado).
+  - No Manager 2.7, os agentes conseguem ler arquivos PDF enviados pelos clientes durante a conversa, com limite de 5 páginas por arquivo.
 - **Manager 2.6** (Modelo legado).
 
 Em **Prévia dos agentes**, existem duas configurações possíveis:
