@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18",
+  "updatedAt": "2026-11-19",
   "providers": [
     {
       "name": "55Pay",
@@ -1274,6 +1274,16 @@
       "countries": ["AR", "BR", "CL", "CO", "MX"]
     },
     {
+      "name": "MIT-MX",
+      "payoutSplit": true,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-mit-mx",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-mit-mx",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-mit-mx"
+      },
+      "countries": ["MX"]
+    },
+    {
       "name": "Mobbex",
       "payoutSplit": false,
       "docs": {
@@ -1312,6 +1322,26 @@
         "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-msc-payment"
       },
       "countries": ["US", "VE"]
+    },
+    {
+      "name": "Nave",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-nave",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-nave",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-nave"
+      },
+      "countries": ["AR"]
+    },
+    {
+      "name": "Nelo",
+      "payoutSplit": true,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-nelo",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-nelo",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-nelo"
+      },
+      "countries": ["MX"]
     },
     {
       "name": "Netopia Marketplace",
@@ -1420,6 +1450,16 @@
         "pt": "https://help.vtex.com/pt/tutorial/configurar-pagamento-com-pagaleve--3ro5eb99noG7T4QpoQaJI5",
         "en": "https://help.vtex.com/en/tutorial/setting-up-payments-with-pagaleve--3ro5eb99noG7T4QpoQaJI5",
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-pagaleve--3ro5eb99noG7T4QpoQaJI5"
+      },
+      "countries": ["BR"]
+    },
+    {
+      "name": "Pagali",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-pagali",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-pagali",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-pagali"
       },
       "countries": ["BR"]
     },
@@ -1744,6 +1784,16 @@
       "countries": ["CO"]
     },
     {
+      "name": "PompeiaPay",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-pompeiapay",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-pompeiapay",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-pompeiapay"
+      },
+      "countries": ["BR"]
+    },
+    {
       "name": "PoolPay",
       "payoutSplit": true,
       "docs": {
@@ -1922,6 +1972,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-sistecredito--2N1CtF4jxJfpY0iJXbfhQj"
       },
       "countries": ["CO"]
+    },
+    {
+      "name": "SpinMX",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-spinmx",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-spinmx",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-spinmx"
+      },
+      "countries": ["MX"]
     },
     {
       "name": "Starkbank",
