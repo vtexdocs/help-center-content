@@ -1,18 +1,12 @@
 ---
 title: 'Setting up Gift cards'
-id: tutorials_995
-status: PUBLISHED
 createdAt: 2017-04-27T21:57:54.816Z
-updatedAt: 2024-10-22T19:25:17.816Z
-publishedAt: 2024-10-22T19:25:17.816Z
-firstPublishedAt: 2017-04-27T23:03:42.674Z
+updatedAt: 2026-11-19T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: authors_84
 slugEN: gift-card
-legacySlug: gift-card
 locale: en
-subcategoryId: 3qWeS7abxCyC0G0GMq42gA
+hidden: false
 ---
 
 The gift card or voucher is one of the features of the Payments module, and it works in two different ways:
