@@ -3,7 +3,7 @@ title: 'Configurar Mercado Pago Offline y Wallet como métodos de pago'
 id: 1oXH6VnfhGcVHdE7RD6cpd
 status: PUBLISHED
 createdAt: 2021-11-30T22:49:18.953Z
-updatedAt: 2023-03-23T15:44:05.324Z
+updatedAt: 2026-11-11T00:00:00.000Z
 publishedAt: 2023-03-23T15:44:05.324Z
 firstPublishedAt: 2021-11-30T23:24:03.450Z
 contentType: tutorial
