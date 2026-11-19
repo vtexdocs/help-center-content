@@ -36887,6 +36887,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Search Analytics (Beta)",
+                    "es": "Analytics de la búsqueda (Beta)",
+                    "pt": "Analytics da busca (Beta)"
+                  },
+                  "slug": {
+                    "en": "search-analytics",
+                    "es": "analytics-de-la-busqueda",
+                    "pt": "analytics-da-busca"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Intelligent Search: Semantic search (Beta)",
                     "es": "Intelligent Search: Búsqueda semántica (beta)",
                     "pt": "Intelligent Search: Busca semântica (Beta)"
