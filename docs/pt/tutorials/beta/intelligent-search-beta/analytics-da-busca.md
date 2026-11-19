@@ -46,7 +46,7 @@ A seção superior da página apresenta o desempenho agregado das buscas realiza
 
 A linha contínua representa o período atual selecionado, enquanto a linha pontilhada representa o período de comparação.
 
-![Métricas gerais da página Analytics da busca](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/intelligent-search-beta/analytics-da-busca_1.gif)
+![metricas-gerais-gif](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/intelligent-search-beta/analytics-da-busca_1.gif)
 
 Clique em cada métrica para visualizar o gráfico correspondente. O gráfico apresenta a evolução da métrica selecionada ao longo do período. Ao passar o mouse sobre o gráfico, em uma data específica, os dados daquela data são exibidos.
 
@@ -71,7 +71,7 @@ As informações apresentadas são:
 
 O valor de um pedido é atribuído ao último termo buscado pelo comprador. A tabela apresenta o desempenho individual de cada termo buscado na loja. Os dados variam de acordo com o [período selecionado](#selecionar-periodo-de-analise) e os [filtros definidos](#filtrar-informacoes).
 
-![Tabela de métricas por termo buscado](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/intelligent-search-beta/analytics-da-busca_2.png)
+![metricas-por-termo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/intelligent-search-beta/analytics-da-busca_2.png)
 
 A página apresenta as seguintes informações sobre cada termo buscado em uma tabela:
 
@@ -107,7 +107,7 @@ Se não for alterado, o período de comparação será automaticamente definido 
 
 Quando o período selecionado é curto o suficiente, o eixo X do gráfico passa a exibir horas em vez de dias.
 
-![Seleção do período de análise e comparação](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/intelligent-search-beta/analytics-da-busca_3.gif)
+![selecionar-periodo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/intelligent-search-beta/analytics-da-busca_3.gif)
 
 ## Filtrar informações
 
@@ -131,7 +131,7 @@ Para aplicar filtros na página, siga os passos abaixo:
 
 Para remover um filtro, repita os passos 1 e 2 e clique em **Limpar**.
 
-![Filtros da página Analytics da busca](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/intelligent-search-beta/analytics-da-busca_4.gif)
+![filtrar-informacoes](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/intelligent-search-beta/analytics-da-busca_4.gif)
 
 ## Resolução de problemas
 
