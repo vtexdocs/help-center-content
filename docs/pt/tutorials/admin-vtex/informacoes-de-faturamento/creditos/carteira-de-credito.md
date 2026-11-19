@@ -33,7 +33,7 @@ Quando uma empresa opera com mais de uma conta na VTEX (por exemplo, [contas fra
 
 Todo mês, a VTEX soma o valor total pago pela empresa — considerando todas as contas vinculadas a ela — à VTEX no mês anterior (do dia 1º ao último dia do mês) e concede, no mês seguinte, um crédito equivalente a 2% desse valor total.
 
-> ⚠️ Pagamentos de Ads, Professional Services e consultorias em geral não entram nesta base de cálculo.
+> ⚠️ Pagamentos de Ads, Professional Services e consultorias em geral não entram nessa base de cálculo.
 
 ## Como o crédito é usado
 
