@@ -43,7 +43,7 @@ Você escolhe o valor e não precisa de aprovação, mas só transfere entre emp
 
 ## Prazo para abater a fatura
 
-O crédito aparece na página **Créditos** conforme os clientes da empresa pagam ao longo do mês, e pode ser transferido assim que aparece.
+O crédito aparece na página **Créditos** conforme os clientes da empresa pagam ao longo do mês e pode ser transferido assim que aparece.
 
 A fatura é gerada no dia 1º do mês seguinte, e o crédito que a empresa tem nesse momento abate a cobrança de Master Data. Por isso:
 
