@@ -3,7 +3,7 @@ title: 'Gestionar encabezados HTTP'
 id: 2cCTvwQR3Z4ENVKMJU6NK3
 status: PUBLISHED
 createdAt: 2024-06-07T17:58:18.041Z
-updatedAt: 2024-06-07T18:40:52.927Z
+updatedAt: 2026-11-19T17:00:00.000Z
 publishedAt: 2024-06-07T18:40:52.927Z
 firstPublishedAt: 2024-06-07T18:40:52.927Z
 contentType: tutorial
@@ -15,39 +15,48 @@ locale: es
 subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn
 ---
 
-El protocolo de comunicación HTTP (Hypertext Transfer Protocol) es fundamental en la transmisión de datos a través de la World Wide Web. Opera con un modelo cliente-servidor en el que clientes como navegadores solicitan recursos como páginas de los servidores web. Las solicitudes se realizan mediante requests que se intercambian en formato de mensaje siguiendo un conjunto de reglas y normas definidas por el protocolo.
+El Protocolo de Transferencia de Hipertexto (HTTP) es un protocolo de comunicación básico usado para transferir datos en la World Wide Web (WWW). Opera con un modelo cliente-servidor, donde los clientes, como los navegadores, solicitan recursos como páginas web a los servidores web. Las solicitudes se intercambian en formato de mensaje siguiendo un conjunto de reglas y estándares definidos por el protocolo.
 
-Los encabezados son clave en la comunicación HTTP, ya que proporcionan información adicional sobre la transacción en curso. Hay dos tipos principales de encabezados:
+Los encabezados desempeñan un papel fundamental en la comunicación HTTP, proporcionando información adicional sobre la operación en curso. Hay dos tipos principales de encabezados:
 
-- __Encabezados de request:__ enviados por el cliente al servidor. Contienen información sobre el request realizado, tal como tipo de método HTTP utilizado, tipo de contenido aceptado, cookies, entre otros.
-- __Encabezados de respuesta:__ enviados por el servidor al cliente. Proporcionan información sobre la respuesta enviada, tal como status de la respuesta, tipo de contenido devuelto, cookies, entre otros.
+- **Encabezados de solicitud:** enviados por el cliente al servidor. Contienen información sobre la solicitud realizada, como el tipo de método HTTP utilizado, el tipo de contenido aceptado, cookies, entre otros.
+- **Encabezados de respuesta:** enviados por el servidor al cliente. Proporcionan información sobre la respuesta enviada, como el status de la respuesta, el tipo de contenido devuelto, cookies, entre otros.
 
-> ℹ️ Para más información, consulta la guía de [MDN HTTP](https://developer.mozilla.org/es/docs/Web/HTTP) y la documentación relacionada.
+> ℹ️ Para más información consulta la guía [HTTP](https://developer.mozilla.org/es/docs/Web/HTTP) de MDN y la documentación relacionada.
 
-En esta guía, aprenderás a gestionar los encabezados de respuestas de seguridad.
+Esta guía explica cómo gestionar los encabezados de respuesta de seguridad en tu tienda desarrollada con Store Framework.
 
-## Encabezados de respuestas de seguridad
+## Encabezados de respuesta de seguridad
 
-Si necesitas cambiar el valor de un encabezado de respuesta de seguridad en una tienda Store Framework, abre un ticket con el [soporte VTEX](https://supporticket.vtex.com/support).
+En las tiendas de Store Framework puedes agregar o cambiar el valor de un encabezado de respuesta de seguridad directamente en el Admin VTEX. Los encabezados que admiten edición son:
 
-A continuación se indican los encabezados que admiten modificación:
-
-- [**X-Frame-Options**](https://developer.mozilla.org/es/docs/Web/HTTP/Headers/X-Frame-Options): permite controlar la incorporación de unos sitios web en otros mediante el uso de frames. Este encabezado es una medida de seguridad para proteger a los usuarios contra ataques de [clickjacking](https://developer.mozilla.org/es/docs/Web/Security/Types_of_attacks), que ocurren cuando un atacante engaña al usuario para que haga clic en algún elemento de una página web sin su consentimiento.
+- [**X-Frame-Options**](https://developer.mozilla.org/es/docs/Web/HTTP/Headers/X-Frame-Options): permite controlar la incorporación de unos sitios web en otros mediante el uso de frames. Este encabezado es una medida de seguridad para proteger a los usuarios contra ataques de [clickjacking](https://developer.mozilla.org/es/docs/Web/Security/Attacks#click-jacking), que ocurren cuando un atacante engaña al usuario para que haga clic en algún elemento de una página web sin que se dé cuenta.
 - [**X-Content-Type-Options**](https://developer.mozilla.org/es/docs/Web/HTTP/Headers/X-Content-Type-Options): protege contra vulnerabilidades de [MIME](https://developer.mozilla.org/es/docs/Web/HTTP/Basics_of_HTTP/MIME_types), que ocurren cuando un sitio web permite que los usuarios carguen contenido.
-- [**Content-Security-Policy (CSP)**](https://developer.mozilla.org/es/docs/Web/HTTP/Headers/Content-Security-Policy): permite controlar los recursos que el agente de usuario puede cargar a una cierta página, lo que ayuda contra ataques de [cross-site scripting](https://developer.mozilla.org/es/docs/Glossary/Cross-site_scripting).
-- [**Strict-Transport-Security (HSTS)**](https://developer.mozilla.org/es/docs/Web/HTTP/Headers/Strict-Transport-Security): les indica a los navegadores que solo se puede acceder al sitio web a través de HTTPS.
-- [**X-XSS-Protection**](https://developer.mozilla.org/es/docs/Web/HTTP/Headers/X-XSS-Protection): indica a los navegadores cómo reaccionar ante ataques de cross-site scripting (XSS), activando el filtro integrado para bloquear la ejecución de scripts maliciosos en el navegador del usuario.
-- [**Referrer-Policy**](https://developer.mozilla.org/es/docs/Web/HTTP/Headers/Referrer-Policy): determina la información de origen de la página que se comparte con la página de destino en requests de HTTP. Es esencial para proteger la privacidad de los usuarios y la seguridad del sitio web.
+- [**Content-Security-Policy (CSP)**](https://developer.mozilla.org/es/docs/Web/HTTP/Headers/Content-Security-Policy): permite controlar los recursos que el usuario puede cargar en una cierta página, lo que evita ataques de [cross-site scripting](https://developer.mozilla.org/es/docs/Glossary/Cross-site_scripting).
+- [**Strict-Transport-Security (HSTS)**](https://developer.mozilla.org/es/docs/Web/HTTP/Headers/Strict-Transport-Security): informa a los navegadores que solo se puede acceder al sitio web a través de HTTPS.
+- [**X-XSS-Protection**](https://developer.mozilla.org/es/docs/Web/HTTP/Headers/X-XSS-Protection): informa a los navegadores cómo reaccionar ante ataques de cross-site scripting (XSS), activando el filtro integrado para bloquear la ejecución de scripts maliciosos en el navegador del usuario.
+- [**Referrer-Policy**](https://developer.mozilla.org/es/docs/Web/HTTP/Headers/Referrer-Policy): determina la información de la página de origen que se comparte con la página de destino en solicitudes HTTP. Esto es fundamental para proteger la privacidad del usuario y la seguridad del sitio web.
 
 ## Encabezados personalizados
 
-Puedes configurar un encabezado personalizado, es decir, un valor que no está estandarizado y que es una adaptación a los requisitos o funcionalidades particulares de las necesidades de la tienda.
+Puedes configurar encabezados personalizados, es decir, valores no predeterminados y específicos para los requisitos o funcionalidades de la tienda. Puedes agregar más de un encabezado personalizado a tu cuenta.
 
-> ⚠️ Solo se puede agregar un encabezado personalizado por cuenta.
+> ℹ️ Eres responsable de la información de los encabezados personalizados. Consulta la documentación de MDN sobre [encabezados](https://developer.mozilla.org/es/docs/Web/HTTP/Reference/Headers).
 
-Si necesitas configurar un encabezado personalizado, abre un ticket con el soporte VTEX y proporciona las claves y valores. Esta información es tu responsabilidad. Puedes utilizar la documentación de [MDN HTTP headers](https://developer.mozilla.org/es/docs/Web/HTTP/Headers) como guía.
+Para configurar un encabezado personalizado sigue las instrucciones a continuación:
 
-A continuación se presenta un ejemplo de encabezado personalizado:
+1. En el Admin VTEX, accede a **Configuración de la tienda > Storefront > Tienda**.
+2. Haz clic en la pestaña **Avanzado**.
+3. Navega hasta la sección **Encabezados personalizados**.
+4. Haz clic en `Agregar`.
+5. Completa los campos **ID del encabezado**, **Clave del encabezado** y **Valor del encabezado** siguiendo los estándares HTTP.
+6. Haz clic en `Aplicar`.
+
+> ℹ️ La actualización puede tardar hasta un día en reflejarse en la tienda debido a la caché.
+
+Para más detalles consulta la guía para desarrolladores [Adding custom headers to your Store Framework store](https://developers.vtex.com/docs/guides/vtex-io-documentation-adding-custom-headers-to-your-store-framework-store).
+
+A continuación se muestra un ejemplo de encabezado personalizado:
 
 ```json
 "customHeader": {
@@ -56,6 +65,6 @@ A continuación se presenta un ejemplo de encabezado personalizado:
  }
 ```
 
-El valor `max-age=31536000; includeSubdomains` en el contexto del encabezado Strict-Transport-Security (HSTS) representa la duración máxima, en segundos, que el navegador debe exigir la aplicación de la política HSTS en un dominio dado y sus subdominios.
+El valor `max-age=31536000; includeSubdomains` en un encabezado Strict-Transport-Security (HSTS) representa la duración máxima, en segundos, durante la cual el navegador debe aplicar la política HSTS a un dominio específico y sus subdominios.
 
-La directriz `preload` indica que se debe incluir el dominio en la lista de carga previa de HSTS para garantizar que los navegadores compatibles solo se conectarán a través de HTTPS, incluso para el request inicial.
+La directriz `preload` indica que el dominio debe incluirse en la lista de precarga de HSTS, lo que garantiza que los navegadores compatibles solo se conecten vía HTTPS, incluso en la solicitud inicial.
