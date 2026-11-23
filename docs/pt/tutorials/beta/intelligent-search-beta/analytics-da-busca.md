@@ -15,16 +15,16 @@ updatedAt: 2026-08-26T00:00:00.000Z
 
 A página **Analytics da busca**, do VTEX Intelligent Search, organiza os dados das buscas realizadas na loja, oferecendo visibilidade sobre o desempenho da busca para que você possa realizar ações de melhoria, como criar redirecionamentos ou cadastrar sinônimos.
 
-Para acessá-la no Admin VTEX, entre em *Storefront > Intelligent Search > Analytics da busca*.
+Você pode acessá-la no Admin VTEX, em *Storefront > Intelligent Search > Analytics da busca*.
 
-## O que mudou?
+## Novidades da página
 
 > ℹ️ A página **Analytics da busca** foi reformulada. Algumas métricas são calculadas de forma diferente da versão anterior, então os números podem não ser comparáveis com períodos anteriores à mudança.
 
 Confira a seguir as mudanças em relação à versão anterior da página:
 
 - **Nova experiência de visualização:** novos gráficos, filtros e formas de analisar os dados. Saiba mais em [Métricas gerais](#metricas-gerais) e [Filtrar informações](#filtrar-informacoes).
-- **Coleta de eventos:** os eventos de busca passam a ser coletados pelo [Activity Flow](https://developers.vtex.com/docs/guides/activity-flow). Lojas headless e apps precisam implementar o rastreamento de eventos de busca via Activity Flow para que as métricas reflitam o comportamento do comprador nesses canais. Confira os [Requisitos](#requisitos) para mais detalhes. Eventos no domínio myvtex não são considerados nas métricas.
+- **Coleta de eventos:** os eventos de busca passam a ser coletados pelo [Activity Flow](https://developers.vtex.com/docs/guides/activity-flow). Lojas headless e apps precisam implementar o rastreamento de eventos de busca via Activity Flow para que as métricas reflitam o comportamento do comprador nesses canais. Confira os [Requisitos](#requisitos) para mais detalhes. Eventos no domínio `myvtex` não são considerados nas métricas.
 
   > ⚠️ Implementar o rastreamento via Activity Flow não ativa a nova página automaticamente. Os eventos coletados via Activity Flow aparecem apenas na nova página **Analytics da busca**, e não na [versão anterior](https://help.vtex.com/pt/docs/tutorials/intelligent-search-analytics). Para ativar a nova página, entre em contato com o suporte.
 
@@ -56,7 +56,7 @@ As informações apresentadas são:
 
 | **Métrica** | **Descrição** | **Considera** | **Não considera** |
 | :-: | :-: | :-: | :-: |
-| **Taxa de conversão** | Percentual de buscas únicas que resultaram em uma compra concluída. Calculado como (total de pedidos ÷ buscas únicas) × 100. | Busca por *tênis*, clique em "Tênis masculino" na PLP, compra concluída. Conta como **1** busca convertida. | Compra feita pela navegação por categoria, sem passar por uma busca. |
+| **Taxa de conversão** | Percentual de buscas únicas que resultaram em uma compra concluída. Calculado como (total de pedidos ÷ buscas únicas) × 100. | Busca por *tênis*, clique em "Tênis masculino" na página de lista de produtos (PLP), compra concluída. Conta como **1** busca convertida. | Compra feita pela navegação por categoria, sem passar por uma busca. |
 | **Posição média dos cliques** | Posição média dos produtos clicados na lista de resultados, ponderada pelo número de cliques (soma das posições de clique ÷ total de cliques). | Busca por *tênis* com clique no produto da posição 1 e no produto da posição 4. A média é **2,5**. | Clique em um banner de campanha exibido acima da lista de resultados. Não é uma posição. |
 | **Taxa de cliques (CTR)** | Percentual de buscas únicas que resultaram em pelo menos um clique em um produto na PLP. Calculado como (buscas únicas com clique ÷ total de buscas únicas) × 100. | Busca por *tênis*, filtro de tamanho e dois cliques em produtos na mesma sessão. Conta como **1** busca e **1** busca com clique. | Busca por *tênis*, filtro de tamanho e ordenação por menor preço, sem nenhum clique em produto. Conta como **1** busca e **0** buscas com clique. |
 | **Receita total** | Soma do preço dos produtos adicionados ao carrinho a partir de um clique em um resultado de busca durante a sessão. Cada receita é atribuída ao termo inicial da busca. | Busca por *tênis*, clique em um produto de R$ 199 e adição ao carrinho. Conta **R$ 199** para o termo *tênis*. | Meia de R$ 30 que já estava no carrinho antes da busca, sem clique em resultado de busca. Não entra na receita. |
@@ -80,13 +80,13 @@ A página apresenta as seguintes informações sobre cada termo buscado em uma t
 | Termo de busca | Termo pesquisado pelo comprador. |
 | Taxa de conversão, Posição média dos cliques, Taxa de cliques, Receita total, Total de buscas, Total de cliques, Total de cliques únicos, Total de pedidos | As mesmas métricas de [Métricas gerais](#metricas-gerais), exibidas por termo buscado. As colunas exibidas seguem a seleção feita em **Alterar**. |
 
-Por padrão, a tabela é ordenada pelo **Total de buscas**, mesmo quando essa coluna não está sendo exibida. É possível ordenar por qualquer outra métrica exibida, um critério de ordenação por vez. Para isso, clique no nome da coluna.
+Por padrão, a tabela é ordenada pelo **Total de buscas**, mesmo quando essa coluna não está sendo exibida. Você pode ordenar por qualquer outra métrica exibida, um critério de ordenação por vez. Para isso, clique no nome da coluna.
 
 Use o campo de busca para encontrar um termo específico. A busca considera todas as páginas da tabela, não apenas as linhas já carregadas. A tabela carrega 30 linhas por vez, e mais linhas são carregadas automaticamente conforme você rola a página.
 
-Os dados da tabela podem ser selecionados e copiados.
+Você pode selecionar e copiar os dados da tabela.
 
-Passe o cursor sobre um indicador de tendência para ver as datas exatas do período atual e do período de comparação.
+Passe o mouse sobre um indicador de tendência para ver as datas exatas do período atual e do período de comparação.
 
 ## Selecionar período de análise
 
@@ -99,7 +99,7 @@ Os dados são atualizados a cada hora. Para definir o período de análise da p�
     - **Últimos 7 dias**
     - **Últimos 28 dias**
     - Datas personalizadas nos campos **Atual** e **Comparação**
-3. Clique em **Aplicar**.
+3. Clique em `Aplicar`.
 
 O período de comparação pode ser alterado manualmente ao preencher uma data diferente no campo **Comparação**. Nesse caso, apenas a duração do período precisa ser a mesma, mas o intervalo de datas em si pode ser ajustado livremente.
 
@@ -111,7 +111,7 @@ Quando o período selecionado é curto o suficiente, o eixo X do gráfico passa 
 
 ## Filtrar informações
 
-É possível filtrar os dados exibidos na página pelos seguintes critérios:
+Você pode filtrar os dados exibidos na página pelos seguintes critérios:
 
 | **Filtro** | **Opções** |
 | :-: | :-: |
@@ -122,14 +122,14 @@ Quando o período selecionado é curto o suficiente, o eixo X do gráfico passa 
 
 Para aplicar filtros na página, siga os passos abaixo:
 
-1. Clique em **Filtrar** no canto superior direito da página.
+1. Clique em `Filtrar` no canto superior direito da página.
 2. Clique no filtro desejado (**Tipo**, **Dispositivo**, **Elemento** ou **Idioma**).
 3. Marque a opção desejada.
-4. Clique em **Aplicar**.
+4. Clique em `Aplicar`.
 
 É possível combinar os filtros disponíveis.
 
-Para remover um filtro, repita os passos 1 e 2 e clique em **Limpar**.
+Para remover um filtro, repita os passos 1 e 2 e clique em `Limpar`.
 
 ![filtrar-informacoes](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/intelligent-search-beta/analytics-da-busca_4.gif)
 
@@ -140,7 +140,7 @@ Se os dados não aparecerem ou parecerem incorretos, verifique os cenários abai
 | **Cenário** | **O que fazer** |
 | :-: | :-: |
 | Não há dados para o período e os filtros selecionados | Verifique se o rastreamento de eventos via [Activity Flow](https://developers.vtex.com/docs/guides/activity-flow) está configurado. Para lojas headless e apps, consulte os [guias de rastreamento](#requisitos). |
-| Alguns números parecem desatualizados | Pode haver um problema temporário no pipeline de dados. O comportamento normal será restabelecido em breve. |
+| Alguns números parecem desatualizados | Os dados podem estar temporariamente atrasados. O comportamento normal será restabelecido em breve. Aguarde e consulte a página novamente mais tarde. |
 | Os dados não incluem um canal da loja, como headless ou apps | As métricas podem não refletir o comportamento do comprador nesse canal. Verifique se o canal envia eventos para o [Activity Flow](https://developers.vtex.com/docs/guides/activity-flow). Veja os [Requisitos](#requisitos). |
 | Implementei o Activity Flow, mas não vejo os dados | Verifique se a nova página foi ativada para sua loja, porque a versão anterior não exibe eventos do [Activity Flow](https://developers.vtex.com/docs/guides/activity-flow). |
 
