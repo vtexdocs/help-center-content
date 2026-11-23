@@ -1,18 +1,12 @@
 ---
 title: 'Operações de pagamentos pós-compra'
-id:
-status: PUBLISHED
 createdAt: 2025-12-15T00:00:00.00Z
-updatedAt: 2025-12-15T00:00:00.00Z
-publishedAt: 2025-12-15T00:00:00.00Z
-firstPublishedAt: 22025-12-15T00:00:00.00Z
+updatedAt: 2026-11-23T00:00:00.00Z
 contentType: tutorial
 productTeam: Financial
-author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: post-purchase-payment-operations
-legacySlug: operacoes-de-pagamentos-pos-compra
 locale: pt
-subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
+hidden: false
 ---
 As operações de pagamento pós-compra acontecem após a aprovação do pedido e podem ser de três tipos: liquidação, cancelamento e reembolso.
 
