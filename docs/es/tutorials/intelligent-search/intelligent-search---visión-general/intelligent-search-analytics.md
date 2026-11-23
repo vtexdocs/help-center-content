@@ -3,7 +3,7 @@ title: 'Intelligent Search - Analytics'
 id: 6qRMAHDL9hvv3oE0bh8mA1
 status: PUBLISHED
 createdAt: 2024-06-27T16:53:32.304Z
-updatedAt: 2024-10-31T20:52:06.594Z
+updatedAt: 2026-11-23T12:00:00.000Z
 publishedAt: 2024-10-31T20:52:06.594Z
 firstPublishedAt: 2024-06-27T16:54:23.587Z
 contentType: tutorial
