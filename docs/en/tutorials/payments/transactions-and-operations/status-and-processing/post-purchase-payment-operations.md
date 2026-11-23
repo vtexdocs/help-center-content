@@ -1,18 +1,12 @@
 ---
 title: 'Post-purchase payment operations'
-id:
-status: PUBLISHED
 createdAt: 2025-12-15T00:00:00.00Z
-updatedAt: 2025-12-15T00:00:00.00Z
-publishedAt: 2025-12-15T00:00:00.00Z
-firstPublishedAt: 22025-12-15T00:00:00.00Z
+updatedAt: 2026-11-23T00:00:00.00Z
 contentType: tutorial
 productTeam: Financial
-author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: post-purchase-payment-operations
-legacySlug: post-purchase-payment-operations
-locale: pt
-subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
+locale: en
+hidden: false
 ---
 Post-purchase payment operations occur after an order is approved and can be of three types: settlement, cancellation, and refund.
  
@@ -29,7 +23,7 @@ The behavior of these operations depends on the processing mode configured for e
 The table below shows the general behavior of each operation in the different modes:
 
 
-| Operation | Total mode | Hold mode | Parcial mode |
+| Operation | Total mode | Hold mode | Partial mode |
 | --- | --- | --- | --- |
 | **Settlement** | Always sends a settlement request to the connector for the order total, even if the merchant requested a lower amount. | Internally holds requests for amounts lower than the total. Sends the settlement request to the connector only when the total amount is reached. | Sends the amount requested in each settlement operation to the connector. |
 | **Cancellation** | Internally holds requests for partial cancellations. Sends the cancellation request to the connector only when the total amount is reached.  | Internally holds requests for partial cancellations. Sends the cancellation request to the connector only when the total amount is reached. | Sends the exact amount requested in each cancellation operation to the connector. |
@@ -41,7 +35,7 @@ The table below shows the general behavior of each operation in the different mo
 
 The following examples and diagrams show how each processing mode works in settlement, cancellation, and refund operations. For simplicity, all the examples use a $100 order.
 
-> ⚠️ The **Total mode** is the default behavior used in VTEX stores. If the **Hold** or **Partial** modes are more suitable for your business strategy, contact [VTEX Support](https://help.vtex.com/en/docs/tutorials/opening-tickets-to-vtex-support#technical-support) para solicitar a alteração da configuração da sua loja.
+> ⚠️ The **Total mode** is the default behavior used in VTEX stores. If the **Hold** or **Partial** modes are more suitable for your business strategy, contact [VTEX Support](https://help.vtex.com/en/docs/tutorials/opening-tickets-to-vtex-support#technical-support) to request a change to your store configuration.
 
 ## Total mode
 
