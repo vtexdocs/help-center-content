@@ -3,7 +3,7 @@ title: 'Configurar promoção com destaque/flag'
 id: tutorials_2295
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:19.949Z
-updatedAt: 2026-03-25T17:45:04.455Z
+updatedAt: 2026-11-11T17:30:00.000Z
 publishedAt: 2025-09-29T17:45:04.455Z
 firstPublishedAt: 2017-04-27T23:03:51.539Z
 contentType: tutorial
@@ -28,8 +28,6 @@ Neste guia, você encontrará as seguintes seções:
 - [Configurar a promoção](#configurar-a-promocao)
 - [Destaque de promoções no Store Framework](#destaque-de-promocoes-no-store-framework)
 - [Destaque de promoções no CMS Portal (Legado)](#destaque-de-promocoes-no-cms-portal-legado)
-     - [Template de página](#template-de-pagina)
-     - [Template de prateleira](#template-de-prateleira)
 
 ## Promoções elegíveis para destaque
 
@@ -73,44 +71,4 @@ Para lojas desenvolvidas com Store Framework, após configurar o destaque da pro
 
 ## Destaque de promoções no CMS Portal (Legado)
 
-Para lojas CMS Portal (Legado), após configurar o destaque da promoção, configure o [template de página](#configurar-o-template-de-pagina) e o [template de prateleira](#configurar-o-template-de-prateleira) no módulo CMS. Além disso, seu CSS deve estar configurado para essa função.
-
-### Template de página
-
-Essa configuração consiste em editar o template de página utilizado para o layout da página de produto e incluir a tag `<vtex.cmc:discountHighLight/>`.
-
-1. No Admin VTEX, acesse **Storefront > Layout**, ou digite **Layout** na barra de busca no topo da página.
-2. Clique em **CMS > Sites and channels**.
-3. Clique no nome do **site** desejado.
-4. Clique em **/ > Produto > @Produto@**.
-5. Clique sobre o layout marcado em com um check vermelho.
-
-    ![template-pagina](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/regras-e-condições/configurando-promocao-com-destaque-flag_2.gif)
-
-6. No campo __Template__, verifique qual o nome do template utilizado:
-
-    ![template-produto](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/regras-e-condições/configurando-promocao-com-destaque-flag_3.png)
-
-7.  No menu lateral, clique em **CMS > HTML Templates**.
-8.  Clique no template encontrado em **@Produto@**.
-
-    ![save-template](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/regras-e-condições/configurando-promocao-com-destaque-flag_4.gif)
-
-9.  Insira o código `<vtex.cmc:discountHightLight/>` de acordo com sua estrutura HTML.
-10.  Clique em **Save Template**.
-
-### Template de prateleira
-
-1.  No Admin VTEX, acesse **Storefront > Layout**, ou digite **Layout** na barra de busca no topo da página.
-2.  Clique em **CMS > Shelves Templates**.
-
-    ![shelves-templates](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/regras-e-condições/configurando-promocao-com-destaque-flag_5.png)
-
-3.  Clique sobre o template desejado.
-4.  Insira o código `$product.DiscountHightLight`.
-5.  Clique em **Save Template**.
-
-Após realizar as configurações no Admin VTEX e adicionar as tags apropriadas nos templates, uma classe CSS com o nome de cada promoção que atenda aos requisitos será automaticamente gerada no HTML. Por exemplo, se a promoção se chama “BlackFriday”, uma classe chamada `.BlackFriday` será gerada no HTML do produto ou prateleira.
-
-Com a classe gerada, você precisa definir seus estilos CSS, customizando um texto ou imagem para a flag diretamente nos templates.
-
+Para lojas CMS Portal (Legado), após configurar o destaque da promoção, é necessário adicionar o controle de destaque aos templates de página e de prateleira no módulo CMS e definir o estilo da flag com CSS. Para ver as instruções, consulte [Configurar destaque de promoção no CMS Portal (Legado)](/pt/docs/tutorials/configurar-destaque-de-promocao-no-cms-portal-legado).

@@ -3,7 +3,7 @@ title: 'Criar promoção Compre Junto'
 id: tutorials_323
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:34.791Z
-updatedAt: 2025-09-30T13:55:10.549Z
+updatedAt: 2026-11-11T17:30:00.000Z
 publishedAt: 2025-09-30T13:55:10.549Z
 firstPublishedAt: 2017-04-27T23:03:15.238Z
 contentType: tutorial
@@ -45,7 +45,7 @@ Neste artigo, detalharemos os passos necessários para criar e configurar uma pr
 - [Informações gerais da promoção](#informacoes-gerais-da-promocao)
   - [Definir sellers participantes da promoção](#definir-sellers-participantes-da-promocao)
   - [Selecionar políticas comerciais para aplicar o desconto](#selecionar-politicas-comerciais-para-aplicar-o-desconto)
-- [Listas de itens do Compre Junto e seus desconto](#listas-de-itens-do-compre-junto-e-seus-descontos)
+- [Listas de itens do Compre Junto e seus descontos](#listas-de-itens-do-compre-junto-e-seus-descontos)
 - [Definir condições para aplicar a promoção](#definir-condicoes-para-aplicar-a-promocao)
 - [Configurar restrições para o uso da promoção](#configurar-restricoes-para-o-uso-da-promocao)
 - [Exibir a promoção na página de produto](#exibir-a-promocao-na-pagina-de-produto)
@@ -79,7 +79,7 @@ Defina se a promoção será aplicada a todos os sellers ou apenas a sellers esp
 - **Diferentes de:** selecione esta opção para excluir sellers específicos da promoção. Após escolher "Diferentes de", você poderá selecionar os sellers que *não deseja incluir* na campanha. Todos os demais sellers estarão incluídos.
 - **Participantes**: com esta configuração, a promoção funciona no modo opt-in, em que a participação dos sellers é gerenciada por meio do [Seller opt-in or opt-out](https://developers.vtex.com/docs/api-reference/promotions-and-taxes-api#post-/api/rnb/pvt/calculatorconfiguration/-promotionId-/seller-opt). Nessa API, você pode definir quais sellers devem participar ou ser removidos da promoção.
 
-Para mais informações, acesse [Seller Opt-in for Promotions](https://developers.vtex.com/docs/guides/seller-opt-in-promotions)
+Para mais informações, acesse [Seller Opt-in for Promotions](https://developers.vtex.com/docs/guides/seller-opt-in-promotions).
 
 ### Selecionar políticas comerciais para aplicar o desconto
 
@@ -118,9 +118,9 @@ Defina as restrições que serão aplicadas à promoção. As condições permit
   - **Valor mínimo do pedido:** defina o valor mínimo necessário para que a promoção seja ativada. Escolha quais itens serão considerados no cálculo: apenas os itens incluídos na promoção, somente os itens fora da promoção ou todos os itens do pedido.
   - **Valor máximo do pedido:** defina o valor máximo permitido para que a promoção seja aplicada. Selecione quais itens serão considerados no cálculo: apenas os itens incluídos na promoção, somente os itens fora da promoção ou todos os itens do pedido.
 
-- **Número do BIN  do cartão:** aplique a promoção apenas quando forem utilizados cartões de bandeiras, bancos ou categorias específicas identificadas por seus códigos BIN. Importe uma lista de BINs salva em um arquivo de texto (.txt) ou (.csv), com cada BIN descrito em uma linha diferente.
+- **Número do BIN do cartão:** aplique a promoção apenas quando forem utilizados cartões de bandeiras, bancos ou categorias específicas identificadas por seus códigos BIN. Importe uma lista de BINs salva em um arquivo de texto (.txt) ou (.csv), com cada BIN descrito em uma linha diferente.
 
-- **Cluster de clientes:** selecione um [cluster de clientes](/pt/docs/tutorials/como-criar-um-cluster-de-clientes) já criado no Master Data, seguindo o formato `field=value` ou `field contains value`. Em seguida escolha uma das seguintes opções:
+- **Cluster de clientes:** selecione um [cluster de clientes](/pt/docs/tutorials/como-criar-um-cluster-de-clientes) já criado no Master Data, seguindo o formato `field=value` ou `field contains value`. Em seguida, escolha uma das seguintes opções:
   - **Todos os seguintes:** aplique a promoção apenas se todos os critérios do cluster forem atendidos.
   - **Pelo menos um dos seguintes:** aplique a promoção se pelo menos um dos critérios do cluster for atendido.
 
@@ -142,7 +142,7 @@ Nesta seção, defina se a promoção poderá ser combinada com outras promoçõ
 
 Destaque a promoção na página de produto e adicione dados personalizados para customizações da loja nesta seção.
 
-- **Destacar nos produtos:** marque esta opção para exibir a promoção diretamente nas páginas de produtos. Lembre-se de [configurar essa exibição no módulo CMS](/pt/docs/tutorials/configurando-promocao-com-destaque-flag).
+- **Destacar nos produtos:** marque esta opção para exibir a promoção diretamente nas páginas de produtos. Lembre-se de [configurar essa exibição de acordo com o frontend da sua loja](/pt/docs/tutorials/configurando-promocao-com-destaque-flag), seja CMS Portal (Legado) ou Store Framework.
 - **Informações adicionais:** clique em **Criar** para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.
 
 Veja abaixo o formulário de criar promoções Compre Junto:

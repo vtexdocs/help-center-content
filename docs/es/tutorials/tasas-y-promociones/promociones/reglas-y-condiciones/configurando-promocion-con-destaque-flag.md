@@ -3,7 +3,7 @@ title: 'Configurar promoción con destaque/flag'
 id: tutorials_2295
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:19.949Z
-updatedAt: 2026-03-25T17:45:04.455Z
+updatedAt: 2026-11-11T17:30:00.000Z
 publishedAt: 2025-09-29T17:45:04.455Z
 firstPublishedAt: 2017-04-27T23:03:51.539Z
 contentType: tutorial
