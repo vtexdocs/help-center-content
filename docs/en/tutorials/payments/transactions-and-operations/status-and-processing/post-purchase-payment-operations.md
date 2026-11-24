@@ -1,7 +1,7 @@
 ---
 title: 'Post-purchase payment operations'
 createdAt: 2025-12-15T00:00:00.00Z
-updatedAt: 2026-11-23T00:00:00.00Z
+updatedAt: 2026-11-24T00:00:00.00Z
 contentType: tutorial
 productTeam: Financial
 slugEN: post-purchase-payment-operations
@@ -114,6 +114,8 @@ The following examples and diagrams show how each processing mode works in settl
 
 ## Partial mode
 
+> ℹ️ Partial settlement in the gateway is in beta.
+
 > ⚠️ For orders paid with multiple payment methods, the system initially processes the operation using the method with the lowest amount assigned to the transaction.
 
 ### Settlement
@@ -158,4 +160,4 @@ Before requesting any changes, assess how each option behaves regarding settleme
 | --- | --- | --- | --- |
 | **Total** | Stores that want to process settlements quickly after order approval. | <ul><li>Reduces the time between approval and fund transfer.</li><li>Ideal for merchants who prefer immediate settlement.</li></ul> | <ul><li>May incur high refund fees if amounts that have been already settled need to be refunded.</li><li>Doesn't support partial settlements.</li></ul> |
 | **Hold** | Stores that wait for multiple confirmations, such as invoices from various sellers, before settling the total amount. | <ul><li>Supports [payment split](https://help.vtex.com/en/docs/tutorials/split-payment), allowing item and amount changes in an order with multiple sellers, if needed.</li><li>Avoids refund costs, as it only settles when the total amount is reached.</li><li>Centralizes information transmission to the connector, reducing intermediary transactions.</li></ul> | <ul><li>For orders involving multiple sellers, settlement takes place only after all invoices have been issued.</li><li>Doesn't support partial settlements.</li></ul> |
-| **Partial** | Stores that operate with frequent settlements, cancellations, or partial refunds. | <ul><li>Allows multiple partial settlement and cancellation operations.</li><li>For orders with multiple sellers, it enables partial settlement without waiting for all sellers.</li><li>May avoid additional refund fees.</li></ul> | <ul><li>Doesn't support [payment split](https://help.vtex.com/en/docs/tutorials/split-payment).</li><li>Requires the connector to support multiple operations.</li><li>Requires greater operational control.</li></ul> |
+| **Partial** | Stores that operate with frequent settlements, cancellations, or partial refunds. | <ul><li>Allows multiple partial settlement and cancellation operations.</li><li>For orders with multiple sellers that don't use payment split, it enables partial settlement without waiting for all sellers, since Partial mode isn't compatible with payment split.</li><li>May avoid additional refund fees.</li></ul> | <ul><li>Doesn't support [payment split](https://help.vtex.com/en/docs/tutorials/split-payment).</li><li>Requires the connector to support multiple operations.</li><li>Requires greater operational control.</li></ul> |
