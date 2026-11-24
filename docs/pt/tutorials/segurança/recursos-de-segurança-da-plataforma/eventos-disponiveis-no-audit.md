@@ -125,6 +125,8 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 | SKU Seller Binding Inactivation | Inativação de vínculo de SKU. | ID do SKU no seller e ID do seller. |
 | GiftCard Create | Criação de um vale-presente nativo. | ID do vale-presente e ID do autor da ação. |
 | GiftCard List All Paged |  Consulta da listagem de vale-presentes. | ID do autor da ação e os IDs dos vale-presentes. |
+| Create Sales Channel | Criação de canal de vendas. | ID do canal de vendas. |
+| Update Sales Channel | Atualização de canal de vendas. | ID do canal de vendas. |
 
 ## Catálogo (Control Plane)
 

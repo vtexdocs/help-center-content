@@ -125,6 +125,8 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 | SKU Seller Binding Inactivation | SKU binding inactivation. | SKU ID in seller and seller ID. |
 | GiftCard Create | Creation of a native gift card. | Gift card ID and action author ID. |
 | GiftCard List All Paged | Query for listing gift cards. | Action author ID and gift card IDs. |
+| Create Sales Channel | Sales channel creation. | Sales channel ID. |
+| Update Sales Channel | Sales channel update. | Sales channel ID. |
 
 ## Catalog (Control Plane)
 
