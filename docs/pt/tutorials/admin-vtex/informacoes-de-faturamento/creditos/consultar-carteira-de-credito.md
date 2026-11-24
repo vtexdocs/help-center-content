@@ -28,7 +28,7 @@ Na página **Créditos**, você encontra as seguintes informações:
 
 ### Transferências no extrato de crédito
 
-Quando há transferência de crédito entre empresas, o **Extrato de crédito** exibe as seguintes entradas nas linhas expandidas do mês:
+Quando há transferência de crédito entre empresas, o **extrato de crédito** exibe as seguintes entradas nas linhas expandidas do mês:
 
 - **Empresa de origem:** transferência enviada para a empresa de destino, com o valor, a data e quem a realizou.
 - **Empresa de destino:** transferência recebida da empresa de origem, com valor, data e quem a realizou. Quando a transferência é feita por meio de uma integração, a chave de aplicação (appKey) aparece no lugar do e-mail.
