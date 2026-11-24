@@ -210,7 +210,7 @@ O dashboard oferece os seguintes controles:
 
 ### Critérios de Atendido por IA
 
-No fechamento diário, os atendimentos são classificados como **Atendido por IA** ou **Não atendido por IA**, com base em uma série de critérios. Esses critérios podem ser editados clicando no botão de <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
+No fechamento diário, os atendimentos são classificados como **Atendido por IA** ou **Não atendido por IA**, com base em uma série de critérios. Você pode editar esses critérios clicando no botão de <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
 
 O painel lateral abre com duas seções:
 
