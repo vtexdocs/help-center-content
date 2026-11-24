@@ -76,24 +76,25 @@ Na prática, se um cliente digita "memória 16GB", por exemplo, a parte léxica 
 
 ### Purchase Signal Reranking (PSR)
 
-Além disso, a Busca semântica se beneficia do histórico de compras da loja. O Purchase Signal Reranking (PSR) identifica, para cada produto, os termos de busca que mais geraram pedidos e monta com eles uma base de termos associados àquele produto. Essa base é usada como entrada do modelo da Busca semântica e atua diretamente no score dela: um produto que costuma ser comprado depois de determinada busca tende a ter um score maior para ela. O PSR é padrão em todas as lojas com Busca semântica, não exige ativação nem configuração e não compete com as regras de relevância da loja, que continuam valendo.
+A Busca semântica se beneficia do histórico de compras da loja. O Purchase Signal Reranking (PSR) identifica, para cada produto, os termos de busca que mais geraram pedidos e monta com eles uma base de termos associados àquele produto. Essa base é usada como entrada do modelo da Busca semântica e atua diretamente no score dela: um produto que costuma ser comprado depois de determinada busca tende a ter um score maior para ela. O PSR é padrão em todas as lojas com Busca semântica, não exige ativação nem configuração e não compete com as [regras de relevância](https://help.vtex.com/pt/docs/tutorials/regras-de-relevancia) padrão.
 
 #### Requisitos
 
-Para alimentar essa base, a loja precisa enviar eventos de busca ao [Activity Flow](https://developers.vtex.com/docs/guides/activity-flow). Em lojas que usam o [Store Framework](https://help.vtex.com/pt/docs/tracks/frontend#store-framework) com componentes nativos, esses eventos já são enviados automaticamente. Em lojas [FastStore](https://help.vtex.com/pt/docs/tracks/frontend#faststore), isso acontece a partir da versão 3.90.0, e versões anteriores precisam ser atualizadas. Em headless e apps mobile, é preciso instalar o Activity Flow e enviar os eventos de busca:
+Para alimentar essa base, a loja precisa enviar eventos de busca ao [Activity Flow](https://developers.vtex.com/docs/guides/activity-flow). O que você precisa fazer depende da tecnologia de frente de loja utilizada:
 
-* Headless: [Installing Activity Flow in headless stores](https://developers.vtex.com/docs/guides/installing-activity-flow-in-headless-stores)
-* App mobile: [Installing Activity Flow in mobile apps](https://developers.vtex.com/docs/guides/installing-activity-flow-in-mobile-apps)
+| Situação | O que fazer |
+|---|---|
+| Loja com [Store Framework](https://help.vtex.com/pt/docs/tracks/frontend#store-framework) e componentes nativos | Nada. Os eventos já são enviados automaticamente. |
+| Loja [FastStore](https://help.vtex.com/pt/docs/tracks/frontend#faststore) na versão 3.90.0 ou superior | Nada. Os eventos já são enviados automaticamente. |
+| Loja FastStore em versão anterior à 3.90.0 | Atualizar a loja para a versão 3.90.0 ou superior. |
+| Loja [headless](https://developers.vtex.com/docs/guides/installing-activity-flow-in-headless-stores) | Instalar o Activity Flow e enviar os eventos de busca. Integrações novas devem usar a [Intelligent Search API v1](https://developers.vtex.com/docs/api-reference/intelligent-search-api-v1). Veja também a [Intelligent Search Events API (headless)](https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless). |
+| [App mobile](https://developers.vtex.com/docs/guides/installing-activity-flow-in-mobile-apps) | Instalar o Activity Flow e enviar os eventos de busca. |
 
 Vale confirmar no Activity Flow se os eventos de busca da loja estão chegando, já que sem eles não há base de termos para o PSR usar.
 
 ### Saiba mais
 
-* [Intelligent Search Events API (headless)](https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless): envio de eventos de busca em lojas headless.
-* [Intelligent Search API v1](https://developers.vtex.com/docs/api-reference/intelligent-search-api-v1): integrações headless novas devem usar a v1.
-* [Implementing the search in your store frontend](https://help.vtex.com/en/docs/tracks/implementing-the-search-in-your-store-frontend): como implementar a busca na frente de loja.
-* [Relevance rules](https://help.vtex.com/en/docs/tutorials/relevance-rules): como criar regras para ajustar a relevância dos resultados de busca.
-* [How search result relevance works](https://help.vtex.com/en/docs/tutorials/intelligent-search-how-search-result-relevance-works): como a relevância dos resultados de busca é definida.
+* [Implementar a busca no frontend da loja](https://help.vtex.com/pt/docs/tracks/implementar-a-busca-no-frontend-da-loja): componentes do Intelligent Search para Store Framework e FastStore.
 
 ## Vantagens
 
