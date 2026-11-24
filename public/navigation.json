@@ -25,6 +25,37 @@
           "children": [
             {
               "name": {
+                "en": "Novembro",
+                "es": "Novembro",
+                "pt": "Novembro"
+              },
+              "slug": {
+                "en": "novembro",
+                "es": "novembro",
+                "pt": "2026-novembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Carteira de crédito: transfira crédito entre empresas do mesmo grupo econômico",
+                    "es": "Carteira de crédito: transfira crédito entre empresas do mesmo grupo econômico",
+                    "pt": "Carteira de crédito: transfira crédito entre empresas do mesmo grupo econômico"
+                  },
+                  "slug": {
+                    "en": "",
+                    "es": "",
+                    "pt": "2026-11-30-carteira-de-credito-transfira-credito-entre-empresas-do-mesmo-grupo-economico"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "November",
                 "es": "Noviembre",
                 "pt": "Novembro"
@@ -41,12 +72,12 @@
                   "name": {
                     "en": "Credit wallet: transfer credit between companies in the same economic group",
                     "es": "Cartera de crédito: transfiere crédito entre empresas del mismo grupo económico",
-                    "pt": "Carteira de crédito: transfira crédito entre empresas do mesmo grupo econômico"
+                    "pt": "Credit wallet: transfer credit between companies in the same economic group"
                   },
                   "slug": {
                     "en": "2026-11-18-credit-wallet-transfer-credit-between-companies-in-the-same-economic-group",
                     "es": "2026-11-18-cartera-de-credito-transfiere-credito-entre-empresas-del-mismo-grupo-economico",
-                    "pt": "2026-11-18-carteira-de-credito-transfira-credito-entre-empresas-do-mesmo-grupo-economico"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
