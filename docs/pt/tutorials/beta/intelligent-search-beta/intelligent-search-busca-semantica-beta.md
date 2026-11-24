@@ -74,6 +74,27 @@ Exemplo: um ecommerce de informática recebe tanto buscas específicas por "SSD 
 
 Na prática, se um cliente digita "memória 16GB", por exemplo, a parte léxica identifica a capacidade exata (16GB) enquanto o componente semântico entende que "memória" pode se referir tanto a RAM quanto a cartões de memória, apresentando ambas as categorias com prioridade para os produtos mais relevantes baseados no comportamento anterior do usuário.
 
+### Purchase Signal Reranking (PSR)
+
+Além disso, a Busca semântica se beneficia do histórico de compras da loja. O Purchase Signal Reranking (PSR) identifica, para cada produto, os termos de busca que mais geraram pedidos e monta com eles uma base de termos associados àquele produto. Essa base é usada como entrada do modelo da Busca semântica e atua diretamente no score dela: um produto que costuma ser comprado depois de determinada busca tende a ter um score maior para ela. O PSR é padrão em todas as lojas com Busca semântica, não exige ativação nem configuração e não compete com as regras de relevância da loja, que continuam valendo.
+
+#### Requisitos
+
+Para alimentar essa base, a loja precisa enviar eventos de busca ao [Activity Flow](https://developers.vtex.com/docs/guides/activity-flow). Em lojas que usam o [Store Framework](https://help.vtex.com/pt/docs/tracks/frontend#store-framework) com componentes nativos, esses eventos já são enviados automaticamente. Em lojas [FastStore](https://help.vtex.com/pt/docs/tracks/frontend#faststore), isso acontece a partir da versão 3.90.0, e versões anteriores precisam ser atualizadas. Em headless e apps mobile, é preciso instalar o Activity Flow e enviar os eventos de busca:
+
+* Headless: [Installing Activity Flow in headless stores](https://developers.vtex.com/docs/guides/installing-activity-flow-in-headless-stores)
+* App mobile: [Installing Activity Flow in mobile apps](https://developers.vtex.com/docs/guides/installing-activity-flow-in-mobile-apps)
+
+Vale confirmar no Activity Flow se os eventos de busca da loja estão chegando, já que sem eles não há base de termos para o PSR usar.
+
+### Saiba mais
+
+* [Intelligent Search Events API (headless)](https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless): envio de eventos de busca em lojas headless.
+* [Intelligent Search API v1](https://developers.vtex.com/docs/api-reference/intelligent-search-api-v1): integrações headless novas devem usar a v1.
+* [Implementing the search in your store frontend](https://help.vtex.com/en/docs/tracks/implementing-the-search-in-your-store-frontend): como implementar a busca na frente de loja.
+* [Relevance rules](https://help.vtex.com/en/docs/tutorials/relevance-rules): como criar regras para ajustar a relevância dos resultados de busca.
+* [How search result relevance works](https://help.vtex.com/en/docs/tutorials/intelligent-search-how-search-result-relevance-works): como a relevância dos resultados de busca é definida.
+
 ## Vantagens
 
 A seguir, destacamos as principais vantagens dessa solução para a experiência do consumidor e a performance da loja:
@@ -114,4 +135,3 @@ Como o parâmetro é adicionado apenas na URL da chamada de teste, ele não alte
 ### Ativação direta em produção
 
 Também é possível ativar a Busca semântica diretamente para todas as chamadas feitas à API, sem a necessidade de incluir o parâmetro `semanticRatio` em cada requisição. Essa ativação deve ser solicitada ao [Suporte](https://help.vtex.com/pt/docs/tutorials/como-funciona-o-suporte-da-vtex) e, como aplica a mudança para todos os clientes da loja em produção, não é recomendada como forma de teste.
-
