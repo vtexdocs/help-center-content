@@ -80,21 +80,17 @@ A Busca semântica se beneficia do histórico de compras da loja. O Purchase Sig
 
 #### Requisitos
 
-Para alimentar essa base, a loja precisa enviar eventos de busca ao [Activity Flow](https://developers.vtex.com/docs/guides/activity-flow). O que você precisa fazer depende da tecnologia de frente de loja utilizada:
+Para alimentar essa base, a loja precisa enviar eventos de busca ao [Activity Flow](https://developers.vtex.com/docs/guides/activity-flow). O que você precisa fazer depende da tecnologia de frente de loja utilizada. Para implementar os componentes de busca em lojas Store Framework e FastStore, consulte [Implementar a busca no frontend da loja](https://help.vtex.com/pt/docs/tracks/implementar-a-busca-no-frontend-da-loja):
 
 | Situação | O que fazer |
 |---|---|
 | Loja com [Store Framework](https://help.vtex.com/pt/docs/tracks/frontend#store-framework) e componentes nativos | Nada. Os eventos já são enviados automaticamente. |
 | Loja [FastStore](https://help.vtex.com/pt/docs/tracks/frontend#faststore) na versão 3.90.0 ou superior | Nada. Os eventos já são enviados automaticamente. |
 | Loja FastStore em versão anterior à 3.90.0 | Atualizar a loja para a versão 3.90.0 ou superior. |
-| Loja [headless](https://developers.vtex.com/docs/guides/installing-activity-flow-in-headless-stores) | Instalar o Activity Flow e enviar os eventos de busca. Integrações novas devem usar a [Intelligent Search API v1](https://developers.vtex.com/docs/api-reference/intelligent-search-api-v1). Veja também a [Intelligent Search Events API (headless)](https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless). |
-| [App mobile](https://developers.vtex.com/docs/guides/installing-activity-flow-in-mobile-apps) | Instalar o Activity Flow e enviar os eventos de busca. |
+| Loja headless | [Instalar o Activity Flow em lojas headless](https://developers.vtex.com/docs/guides/installing-activity-flow-in-headless-stores) e enviar os eventos de busca. Integrações novas devem usar a [Intelligent Search API v1](https://developers.vtex.com/docs/api-reference/intelligent-search-api-v1). Veja também a [Intelligent Search Events API (headless)](https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless). |
+| App mobile | [Instalar o Activity Flow em apps mobile](https://developers.vtex.com/docs/guides/installing-activity-flow-in-mobile-apps) e enviar os eventos de busca. |
 
-Vale confirmar no Activity Flow se os eventos de busca da loja estão chegando, já que sem eles não há base de termos para o PSR usar.
-
-### Saiba mais
-
-* [Implementar a busca no frontend da loja](https://help.vtex.com/pt/docs/tracks/implementar-a-busca-no-frontend-da-loja): componentes do Intelligent Search para Store Framework e FastStore.
+Em lojas headless, confirme a instalação conforme o passo de validação do guia [Instalar o Activity Flow em lojas headless](https://developers.vtex.com/docs/guides/installing-activity-flow-in-headless-stores). Sem eventos de busca chegando, não há base de termos para o PSR usar.
 
 ## Vantagens
 
