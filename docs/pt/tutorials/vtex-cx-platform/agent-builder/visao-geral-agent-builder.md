@@ -11,7 +11,9 @@ categoryCover: true
 
 O **Agent Builder** é uma ferramenta de conversação com o cliente baseada em inteligência artificial. Usando essa funcionalidade, você pode customizar agentes para interagir com seus clientes, permitindo que eles solicitem informações sobre um pedido em andamento, o catálogo da sua loja e o cancelamento de um pedido, por exemplo.
 
-A funcionalidade se concentra em um agente orquestrador (ou manager), que é o ponto de contato com o cliente e assume o controle do chat. Esse orquestrador aciona agentes colaboradores que retornam dados e informações conforme as necessidades do usuário.
+A funcionalidade se concentra em um agente orquestrador (ou manager), que é o ponto de contato com o cliente e assume o controle do chat. Esse orquestrador obtém informações da conversa com o cliente, de mensagens de texto, PDFs e imagens, e aciona agentes colaboradores específicos para as necessidades do usuário.
+
+> ⚠️ Os agentes orquestradores conseguem ler PDFs enviados por clientes de até 5 páginas.
 
 > ℹ️ Para saber mais sobre os agentes colaboradores, leia o artigo [Agentes oficiais do VTEX CX Platform](https://help.vtex.com/pt/docs/tutorials/agentes-oficiais-da-vtex-cx-platform).
 
@@ -75,9 +77,8 @@ Em **Fonte de motor**, você pode selecionar o modelo de agente nativo do VTEX C
 
 Se você selecionou o motor nativo da plataforma, poderá escolher, em **Versão do manager**, entre duas opções de agente orquestrador:
 
-- **Manager 2.7** (Recomendado).
-  - No Manager 2.7, os agentes conseguem ler arquivos PDF enviados pelos clientes durante a conversa, com limite de 5 páginas por arquivo.
-- **Manager 2.6** (Modelo legado).
+- **Manager 2.8** (Recomendado).
+- **Manager 2.7** (Modelo legado).
 
 Em **Prévia dos agentes**, existem duas configurações possíveis:
 
