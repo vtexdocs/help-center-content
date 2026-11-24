@@ -125,6 +125,8 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 | SKU Seller Binding Inactivation | Inactivación de vinculación de SKU. |  ID del SKU en seller y ID del seller. |
 | GiftCard Create | Creación de una tarjeta de regalo nativa. | ID de la tarjeta de regalo e ID del autor de la acción. |
 | GiftCard List All Paged | Consulta del listado de tarjetas de regalo. | ID del autor de la acción y los IDs de las tarjetas de regalo. |
+| Create Sales Channel | Creación de canal de ventas. | ID del canal de ventas. |
+| Update Sales Channel | Actualización de canal de ventas. | ID del canal de ventas. |
 
 ## Catálogo (Control Plane)
 
