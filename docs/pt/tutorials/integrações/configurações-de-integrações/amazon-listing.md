@@ -1,10 +1,10 @@
 ---
 title: 'Amazon Listing'
 id: 5HIhbnYzJWkl2yM0o72WrL
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2025-01-31T15:04:46.985Z
-updatedAt: 2025-03-19T14:41:51.711Z
-publishedAt: 2025-03-19T14:41:51.711Z
+updatedAt: 2026-09-17T11:29:00.000Z
+publishedAt: 
 firstPublishedAt: 2025-01-31T15:23:33.368Z
 contentType: tutorial
 productTeam: Channels

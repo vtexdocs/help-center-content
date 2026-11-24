@@ -1,7 +1,7 @@
 ---
 title: 'Criar lista de recomendações (Beta)'
 createdAt: 2026-03-17T13:01:10.919Z
-updatedAt: 2026-03-17T13:01:10.919Z
+updatedAt: 2026-10-09T13:49:12.000Z
 publishedAt: 2026-03-17T13:01:10.919Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -9,7 +9,7 @@ slugEN: creating-recommendation-lists
 locale: pt
 ---
 
-> ℹ️ Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o [Suporte Comercial](http:///pt/docs/tracks/suporte-comercial). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
+> ℹ️ Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/docs/tracks/suporte-comercial). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
 
 A criação de listas de recomendações permite definir diferentes estratégias para exibir produtos relevantes aos consumidores. Cada lista utiliza uma estratégia de recomendação e é exibida em uma posição específica na loja.
 
@@ -17,9 +17,18 @@ Este guia descreve como criar uma nova lista de recomendações pelo Admin VTEX.
 
 > ⚠️ Não recomendamos reutilizar a mesma lista em múltiplas posições no frontend. Crie uma lista para cada posição para acompanhar as métricas de desempenho de forma separada e com mais granularidade.
 
-## Requisito
+## Requisitos
 
-Ter a funcionalidade de [Recomendações de produtos](https://help.vtex.com/pt/docs/tutorials/recomendacoes-de-produtos-beta) habilitada na loja.
+* Ter a funcionalidade de [Recomendações de produtos](https://help.vtex.com/pt/docs/tutorials/recomendacoes-de-produtos-beta) habilitada na loja.
+* Ter um [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) com os [recursos do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager) abaixo. Sem o recurso *View Recommendations*, a página **Recomendações** não abre no Admin VTEX.
+
+  * **Produto:** *Recommendations*
+  * **Categoria:** *Recommendations*
+
+  | Recurso | Chave | Descrição |
+  | --- | --- | --- |
+  | *View Recommendations* | `ViewRecommendations` | Visualizar listagem de recomendações no Admin. |
+  | *Edit Recommendations* | `EditRecommendations` | Editar recomendações no Admin. |
 
 ## Criar lista de recomendações
 

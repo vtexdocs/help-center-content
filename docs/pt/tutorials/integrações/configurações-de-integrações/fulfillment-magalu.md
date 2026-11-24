@@ -62,8 +62,8 @@ __3. Cadastre um Estoque:__ o estoque dos produtos disponibilizados com a opçã
 
 Para disponibilizar produtos com Fulfillment Magalu, você deve aplicar uma especificação de produto. Siga o tutorial [Cadastrar especificações ou campos de produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto#tipos-de-campo-de-produto) e preencha as informações conforme a tabela abaixo.
 
-| **Campo** | **Como preencher** |
-|:---:|:---:|
+| Campo | Como preencher |
+|---|---|
 | **Nome*** | `magalu_fulfillment` |
 | **Texto*** | Para produtos que serão ofertados via Fulfillment Magalu. |
 | **Tipo*** | É obrigatório que o tipo dessa especificação seja __Texto.__ |

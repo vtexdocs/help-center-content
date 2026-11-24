@@ -27,7 +27,7 @@ En esta sección puedes consultar la siguiente información:
 
 ## Características de los datos
 
-|**Característica**|**Descripción**|
+|Característica|Descripción|
 | - | - |
 |**Origen**|Proceden del [módulo Promociones](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR) en el Admin VTEX.|
 |**Disponibilidad**|Se puede acceder a los datos de promociones a través del Admin VTEX y también a través de las [API de Promotions](https://developers.vtex.com/docs/guides/promotions-overview).|

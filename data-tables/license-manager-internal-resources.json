@@ -1,6 +1,22 @@
 {
   "rows": [
     {
+      "product": "AI Workspace",
+      "category": "Settings",
+      "resource": "View Instructions",
+      "key": "ai_workspace.settings.view_instructions",
+      "resourceId": "2165644",
+      "productId": "134"
+    },
+    {
+      "product": "AI Workspace",
+      "category": "Settings",
+      "resource": "Edit Instructions",
+      "key": "ai_workspace.settings.edit_instructions",
+      "resourceId": "2165645",
+      "productId": "134"
+    },
+    {
       "product": "Audit",
       "category": "Product",
       "resource": "Export Job",
@@ -153,6 +169,22 @@
       "productId": "43"
     },
     {
+      "product": "Billing",
+      "category": "Credit",
+      "resource": "Edit Credit",
+      "key": "billing.credit.edit",
+      "resourceId": "2165313",
+      "productId": "43"
+    },
+    {
+      "product": "Billing",
+      "category": "Credit",
+      "resource": "Edit Credit Settings",
+      "key": "billing.credit.edit_settings",
+      "resourceId": "2165314",
+      "productId": "43"
+    },
+    {
       "product": "CDN API",
       "category": "CDN API Internal",
       "resource": "Update WafControl Config",
@@ -289,6 +321,14 @@
       "productId": "5"
     },
     {
+      "product": "Checkout",
+      "category": "CheckoutResources",
+      "resource": "Configure Order Form Expiration",
+      "key": "ConfigureOrderFormExpiration",
+      "resourceId": "2161483",
+      "productId": "5"
+    },
+    {
       "product": "Commerce Content",
       "category": "Branch",
       "resource": "Save to main branch",
@@ -342,6 +382,14 @@
       "resource": "Create Branch",
       "key": "CreateBranch",
       "resourceId": "2153204",
+      "productId": "115"
+    },
+    {
+      "product": "Commerce Content",
+      "category": "Branch",
+      "resource": "Manage Dev Branch",
+      "key": "ManageDevBranch",
+      "resourceId": "2158137",
       "productId": "115"
     },
     {
@@ -486,6 +534,22 @@
       "resource": "Delivery Promises ReprocessItem",
       "key": "DeliveryPromisesReprocessItem",
       "resourceId": "2118039",
+      "productId": "111"
+    },
+    {
+      "product": "Delivery Promises",
+      "category": "Activation",
+      "resource": "Activate Delivery Promise",
+      "key": "ActivateDeliveryPromise",
+      "resourceId": "2160552",
+      "productId": "111"
+    },
+    {
+      "product": "Delivery Promises",
+      "category": "Activation",
+      "resource": "View Delivery Promise Status",
+      "key": "ViewDeliveryPromiseStatus",
+      "resourceId": "2160553",
       "productId": "111"
     },
     {
@@ -1225,6 +1289,22 @@
       "productId": "114"
     },
     {
+      "product": "Payments",
+      "category": "Payments Fraud Protection",
+      "resource": "View Defense Mode",
+      "key": "ViewDefenseMode",
+      "resourceId": "2160773",
+      "productId": "114"
+    },
+    {
+      "product": "Payments",
+      "category": "Payments Fraud Protection",
+      "resource": "Manage Defense Mode",
+      "key": "ManageDefenseMode",
+      "resourceId": "2160774",
+      "productId": "114"
+    },
+    {
       "product": "Payments Forget Me",
       "category": "Payments Services Management",
       "resource": "Registers Payments Service",
@@ -1585,6 +1665,14 @@
       "productId": "99"
     },
     {
+      "product": "User Rights",
+      "category": "User Rights",
+      "resource": "View User Rights Configuration",
+      "key": "user_rights_read_configuration",
+      "resourceId": "2163604",
+      "productId": "99"
+    },
+    {
       "product": "VTEX CX Platform",
       "category": "CX Platform Access",
       "resource": "Access CX Platform",
@@ -1638,6 +1726,54 @@
       "resource": "File Manager Bucket Config",
       "key": "file-manager-bucket-config",
       "resourceId": "2156623",
+      "productId": "66"
+    },
+    {
+      "product": "VTEX IO",
+      "category": "Infrastructure",
+      "resource": "Read workspace routes",
+      "key": "read-workspace-routes",
+      "resourceId": "2167148",
+      "productId": "66"
+    },
+    {
+      "product": "VTEX IO",
+      "category": "Infrastructure",
+      "resource": "Read/write user routes",
+      "key": "read-write-user-routes",
+      "resourceId": "2167149",
+      "productId": "66"
+    },
+    {
+      "product": "VTEX IO",
+      "category": "Infrastructure",
+      "resource": "Read workspace simulated routes",
+      "key": "read-workspace-simulated-routes",
+      "resourceId": "2167150",
+      "productId": "66"
+    },
+    {
+      "product": "VTEX IO",
+      "category": "Infrastructure",
+      "resource": "Read role policies",
+      "key": "read-role-policies",
+      "resourceId": "2167158",
+      "productId": "66"
+    },
+    {
+      "product": "VTEX IO",
+      "category": "Infrastructure",
+      "resource": "Sphinx - Is Admin",
+      "key": "sphinx-is-admin",
+      "resourceId": "2167159",
+      "productId": "66"
+    },
+    {
+      "product": "VTEX IO",
+      "category": "Infrastructure",
+      "resource": "Read workspace apps bundle",
+      "key": "read-workspace-apps-bundle",
+      "resourceId": "2167160",
       "productId": "66"
     },
     {

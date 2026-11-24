@@ -1,5 +1,5 @@
 ---
-title: 'Configurar XML'
+title: 'Integração XML'
 id: tutorials_242
 status: PUBLISHED
 createdAt: 2017-04-27T22:12:41.700Z
@@ -13,6 +13,7 @@ slugEN: configuring-xml
 legacySlug: xml-de-produtos
 locale: pt
 subcategoryId: 2OCA7SVfWoMSiAi0GEGwKo
+categoryCover: true
 ---
 
 XML é uma linguagem de marcação que permite a comunicação entre computadores e aplicações. Sua principal característica é a estrutura hierarquicamente organizada para a criação de textos, banco de dados ou desenhos vetoriais. 

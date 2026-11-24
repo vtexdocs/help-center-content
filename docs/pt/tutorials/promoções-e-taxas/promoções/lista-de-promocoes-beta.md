@@ -1,5 +1,5 @@
 ---
-title: 'Lista de Promoções'
+title: 'Promoções'
 id: 4yB7nNdliiFxBTXE19GCIi
 status: PUBLISHED
 createdAt: 2022-05-05T13:39:53.273Z
@@ -13,6 +13,9 @@ slugEN: promotion-list-beta
 legacySlug: lista-de-promocoes-beta
 locale: pt
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
+categoryCover: true
+seeAlso:
+  - /pt/docs/tutorials/o-que-sao-utm-source-utm-campaign-e-utm-medium
 ---
 
 A plataforma VTEX disponibiliza uma forma otimizada e prática de cadastrar diversos tipos de promoção que se adequam a diferentes cenários. Por meio de uma interface centralizada para gerenciamento de promoções, sua loja pode oferecer mais benefícios focados na atração e fidelização de clientes.
@@ -23,7 +26,7 @@ Acesse este módulo no Admin VTEX pelo menu <i class="fas fa-bullhorn"></i> **Pr
 
 A página apresenta a lista com as promoções cadastradas na sua loja e suas informações básicas:
 
-| **Nome do campo** | **Descrição** |
+| Nome do campo | Descrição |
 |---|---|
 | `Nome` | Nome dado à promoção. |
 | `De` | Data de início da promoção. |
@@ -71,7 +74,7 @@ Você pode fazer download de um arquivo CSV com as promoções cadastradas na su
 
 O arquivo contém as seguintes informações sobre cada promoção:
 
-| **Coluna** | **Descrição** |
+| Coluna | Descrição |
 |---|---|
 | `ID` | ID da promoção. |
 | `Nome` | Nome da promoção. |
@@ -110,6 +113,3 @@ Ao clicar no ícone <i class="fas fa-ellipsis-v"></i> de uma promoção, você p
 - <i class="far fa-check-circle"></i> __Ativar:__ ativar a promoção.
 - <i class="far fa-clone"></i> __Duplicar:__ criar uma cópia da promoção.
 - <i class="fas fa-archive"></i> __Arquivar:__ arquivar a promoção. A promoção será movida automaticamente para a página *[Promoções arquivadas](#promocoes-arquivadas)*.
-
-#### Saiba mais
-- [O que são utm_source, utm_campaign e utm_medium](/pt/docs/tutorials/o-que-sao-utm-source-utm-campaign-e-utm-medium)

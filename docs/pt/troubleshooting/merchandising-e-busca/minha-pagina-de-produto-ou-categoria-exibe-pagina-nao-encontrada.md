@@ -72,7 +72,7 @@ Uma vez finalizado o processo de indexação, teste novamente a URL afetada e co
 
 ### Atualize a geração de rotas
 
-1. Verifique se a rota esperada consta na [configuração do rewriter](https://help.vtex.com/troubleshooting/i-cant-view-the-product-in-the-search-results).
+1. Verifique se a rota esperada consta na [configuração do rewriter](https://help.vtex.com/pt/troubleshooting/nao-consigo-visualizar-o-produto-na-busca-do-site).
 2. Confirme se a rota aponta para o caminho correto de produto, categoria ou subcategoria.
 3. Se a rota estiver desatualizada ou inconsistente, atualize a geração de rotas conforme seu procedimento interno.
 4. Se sua equipe usa versionamento de rotas, incremente a versão da rota e aguarde o storefront reconstruir as rotas.

@@ -42,4 +42,4 @@ Currently, this feature is only available in certain regions. If you have any qu
 
 ## How to get access
 
-If you are already a client and want to adopt VTEX Shield for your business, please contact [Sales Support](/en/docs/tracks/commercial-support). Additional fees may apply. If you are not yet a client but are interested in this solution, please complete the [contact form](https://vtex.com/us-en/contact/).
+If you are already a client and want to adopt VTEX Shield for your business, please contact [Sales Support](/en/docs/tracks/commercial-support). Additional fees may apply. If you are not yet a client but are interested in this solution, please complete the [contact form](https://www.vtex.com/en-us/get-started/).

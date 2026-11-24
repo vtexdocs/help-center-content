@@ -13,7 +13,7 @@ tags:
   - VTEX Sales App
 ---
 
-[VTEX Sales App Extensibility](https://help.vtex.com/docs/tutorials/vtex-sales-app-extensibility-en) allows merchants to customize the default sales journey through extensions at predefined extension points in the interface, without having to build solutions from scratch. This feature is available in open beta for everyone using [Sales App](https://help.vtex.com/docs/tracks/what-is-vtex-sales-app) on VTEX.
+[VTEX Sales App Extensibility](https://help.vtex.com/en/docs/tutorials/vtex-sales-app-extensibility-en) allows merchants to customize the default sales journey through extensions at predefined extension points in the interface, without having to build solutions from scratch. This feature is available in open beta for everyone using [Sales App](https://help.vtex.com/en/docs/tracks/what-is-vtex-sales-app) on VTEX.
 
 To support the development and implementation of extensions, merchants can use the [VTEX Sales App Extensions Skill](https://developers.vtex.com/docs/guides/vtex-sales-app-extensions-skill), an AI-powered skill with built-in knowledge of the Sales App and the FastStore monorepo.
 
@@ -31,17 +31,17 @@ The images below show the extension points in the sales journey:
 
 - Shopping cart (`cart.cart-item.after`, `cart.cart-list.after`) and checkout (`cart.order-summary.after`):
 
-  ![extensibilidade_vtex_sales_app_1_cart_checkout_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_1_cart_checkout_PT.png)
+  ![extensibilidade_vtex_sales_app_1_cart_checkout_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/apps/vtex-sales-app/extensibilidade_vtex_sales_app_1_cart_checkout_PT.png)
 
 - Product details page (`pdp.sidebar.before`, `pdp.sidebar.after`, `pdp.content.after`):
 
-  ![extensibilidade_vtex_sales_app_4_pdp_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_4_pdp_PT.png)
+  ![extensibilidade_vtex_sales_app_4_pdp_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/apps/vtex-sales-app/extensibilidade_vtex_sales_app_4_pdp_PT.png)
 
 - Menu (`menu.item`) and side modal (`menu.drawer-content`):
 
-  ![extensibilidade_vtex_sales_app_2_menu_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_2_menu_PT.png)
+  ![extensibilidade_vtex_sales_app_2_menu_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/apps/vtex-sales-app/extensibilidade_vtex_sales_app_2_menu_PT.png)
 
-  ![extensibilidade_vtex_sales_app_3_drawer_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_3_drawer_PT.png)
+  ![extensibilidade_vtex_sales_app_3_drawer_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/apps/vtex-sales-app/extensibilidade_vtex_sales_app_3_drawer_PT.png)
 
 ## What needs to be done?
 

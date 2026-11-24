@@ -1,5 +1,5 @@
 ---
-title: 'Configurações da Loja - Visão geral'
+title: 'Configurações da Loja'
 id: 6VtlMoid6iM9dP14X1CopT
 status: PUBLISHED
 createdAt: 2023-03-29T23:00:51.439Z
@@ -13,7 +13,7 @@ slugEN: store-settings-overview
 legacySlug: visao-geral-configuracoes-da-loja
 locale: pt
 subcategoryId: 5RAUzLD6X9Wa1maenj1eGA
-order: 1
+categoryCover: true
 ---
 
 **Configurações da Loja** são as configurações aplicadas à sua loja, o que inclui o seu storefront. Elas estão agrupadas na seção __Configurações da Loja__, no menu de navegação esquerdo do Admin VTEX. Aqui, você pode acessar as configurações aplicadas às seguintes seções: Pagamentos, Pedidos, Templates de Email, Produtos, Storefront, Canais e Intelligent Search.
@@ -31,7 +31,7 @@ Na página de Pagamentos, você pode configurar condições de pagamento, pagame
 Na seção de Pedidos, você pode definir as configurações gerais de pedidos, afiliados, autorização de pedidos e métodos de pagamento para assinaturas. Ela inclui as páginas abaixo, que em breve serão incluídas no Admin v4.
 
 -	[Configurações](/pt/subcategory/orders-management-settings--1qvm3kIrt6KA6IeGc4EQ6k#)  
--	[Autorização de Pedidos](/pt/tutorial/how-order-authorization-works--3MBK6CmKHAuUjMBieDU0pn#)  
+-	[Autorização de Pedidos](/pt/docs/tutorials/como-funciona-a-autorizacao-de-pedidos#)  
 -	[Pagamento de Assinaturas](/pt/docs/tutorials/como-configurar-assinaturas#2-configure-payment-methods)  
 
 ## Templates de Email
@@ -45,7 +45,7 @@ Na seção Envio, você pode definir as configurações gerais de envio, geoloca
 
 -	[Configurações](/pt/subcategory/inventory-and-shipping-settings--1UL6Q7nUN6SkA2g2SUsECi#)  
 -	[Envio por Geolocalização](/pt/docs/tutorials/gerenciar-geolocalizacao)  
--	[Feriados](/pt/tutorial/registering-holidays--2ItOthSEAoyAmcwsuiO6Yk#)  
+-	[Feriados](/pt/docs/tutorials/cadastrar-feriados#)  
 
 ## Produtos
 Na seção Produtos, você pode configurar preços, condições comerciais e regras de arredondamento de preços para os seus produtos. Essa seção inclui as páginas abaixo, que em breve serão incluídas no Admin v4.

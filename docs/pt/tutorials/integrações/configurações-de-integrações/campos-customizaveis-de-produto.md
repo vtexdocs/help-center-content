@@ -22,8 +22,8 @@ Nessa documentação você encontra **quais campos podem ser customizados**, **c
 
 Veja na tabela abaixo quais campos podem ser customizados e qual a descrição do campo:
 
-| **Nome do campo** | **Descrição** |
-|:---:|:---:|
+| Nome do campo | Descrição |
+|---|---|
 | meli_title | Envia o nome cadastrado neste campo ao invés do nome que consta no campo `title`. |
 | meli_shipping_mode | Define o [tipo logístico](/pt/docs/tracks/configurar-logistica-para-o-mercado-livre) utilizado pelo seller: [me1](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy#mercado-envios-1-me1) ou [me2](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy#mercado-envios-2-me2). |
 | officialstoreid_meli | Define qual a loja oficial do seller no Mercado Livre. |
@@ -48,7 +48,7 @@ Para criar um campo de produto, siga os passos abaixo:
   **Texto:** descrição sobre o campo.  
   **Tipo:** tipo de campo, que pode variar entre **Texto, Texto Grande, Número, Combo, Radio, CheckBox, Texto Indexado e Texto Grande Indexado.** [Leia a seção Tipos de campo de produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto#tipos-de-campo-de-produto) para mais informações sobre cada opção.  
   **Valor Padrão:** valor de preenchimento já definido na criação do campo.  
-  **Grupo:** nome do [grupo de especificações](/pt/tutorial/criando-grupo-de-categoria) criado anteriormente, do qual esse campo fará parte.  
+  **Grupo:** nome do [grupo de especificações](/pt/docs/tutorials/criando-grupo-de-especificacoes-em-uma-categoria) criado anteriormente, do qual esse campo fará parte.  
   **Filtro:** define se a especificação será utilizada como filtro na navegação do site.  
   **Obrigatório:** define se o valor obrigatoriamente precisa ser preenchido no cadastro do produto ou não. Caso o campo seja obrigatório, o produto só poderá ser ativado após o preenchimento desta especificação.  
   **Exibe Especificação:** define se o campo é mostrado na página de detalhes do produto, na aba **Especificações.**  
@@ -63,8 +63,8 @@ Os valores dos campos de produto irão variar conforme o tipo do campo. Para os 
 
 Já para os campos de tipo **Combo**, **Radio** e **CheckBox**, é necessário cadastrar valores pré-definidos para seleção durante o cadastro do produto. Confira na tabela abaixo os valores aceitos para cada campo customizável:  
 
-| **Nome do campo** | **Tipo do campo** | **Descrição do tipo de campo** | **Valor do campo** |
-|:-:|:--:|:----:|:--:|
+| Nome do campo | Tipo do campo | Descrição do tipo de campo | Valor do campo |
+|-|--|----|--|
 | meli_title | Texto grande | Preenchimento do conteúdo como texto livre, indicado para grandes estruturas de HTML. | Texto livre |
 | meli_shipping_mode | Combo | Conteúdo com dois ou mais valores pré-definidos, para seleção de uma opção em uma lista suspensa (dropdown). | me1 e me2 |
 | officialstoreid_meli | Texto | Preenchimento do conteúdo como texto livre, indicado para textos pequenos e de formatação simples. Não é indicado para grandes estruturas de HTML. | Texto alfanumérico. Ex: 8457 |

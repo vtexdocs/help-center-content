@@ -19,7 +19,7 @@ The inventory contains information about the products available in a store and i
 
 This article contains instructions for accessing the inventory update history in the VTEX Admin.
 
-> ℹ️ Don't forget the difference between warehouse and inventory: **[Warehouse:**](/en/docs/tutorials/warehouse) Name given to the store's storage locations. **Inventory:** List of SKUs and warehouses in which they are stored.
+> ℹ️ Don't forget the difference between warehouse and inventory: [**Warehouse:**](/en/docs/tutorials/warehouse) Name given to the store's storage locations. **Inventory:** List of SKUs and warehouses in which they are stored.
 
 To view the update history of a SKU, follow the steps below:
 

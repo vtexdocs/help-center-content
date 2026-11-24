@@ -1,5 +1,5 @@
 ---
-title: 'Llenar campos de registro de Marca'
+title: 'Llenando campos de registro de Marca'
 id: 37Ky7lTbEkiWIAYA80EMyI
 status: PUBLISHED
 createdAt: 2017-09-20T19:37:34.070Z
@@ -33,7 +33,7 @@ Para entender mejor el significado de los campos de registro de Marca, vea a con
 
 - __Score (usado para el orden de la búsqueda)__: valor utilizado para definir la prioridad de la marca en la página de resultados de búsqueda. Para entender más sobre el campo y el orden de la búsqueda, acceda a nuestro artículo sobre [cómo funciona el campo Score](/es/docs/tutorials/como-funciona-el-campo-puntuacion)
 
-- __Exhibir en el menú del Home__: al seleccionar esta caja, la marca aparecerá en el menú de su tienda a través del control *Menú de Departamentos* (<vtex.cmc:departmentNavigator/>). Para entender más sobre el uso de controles, acceda a nuestro artículo con la [lista de controles](/es/tutorial/--tutorials_563) para las páginas de su tienda.
+- __Exhibir en el menú del Home__: al seleccionar esta caja, la marca aparecerá en el menú de su tienda a través del control *Menú de Departamentos* (`<vtex.cmc:departmentNavigator/>`). Para entender más sobre el uso de controles, acceda a nuestro artículo con la [lista de controles](/es/tutorial/--tutorials_563) para las páginas de su tienda.
 
 - __Activar la marca__: al seleccionar esa caja, la marca queda visible y lista para el uso en los productos registrados.
 

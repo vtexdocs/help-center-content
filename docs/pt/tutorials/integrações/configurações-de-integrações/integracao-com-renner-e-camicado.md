@@ -99,7 +99,7 @@ Você deve informar os contatos pelos quais será feita a comunicação da sua e
 - Operacional
 - Financeira
 
-| **Exemplo** | |
+| Exemplo | |
 | ---------- | ---------- |
 | Área | comercial |
 | Telefone | (61) 3551-5678 |

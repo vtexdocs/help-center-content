@@ -1,5 +1,5 @@
 ---
-title: 'Funcionalidades de televendas'
+title: 'Televendas e atendimento ao cliente'
 id: UqhiccIRIK2KD0OqkzJaS
 status: PUBLISHED
 createdAt: 2021-05-13T18:26:51.189Z
@@ -13,6 +13,7 @@ slugEN: telesales-features
 legacySlug: funcionalidades-de-televendas
 locale: pt
 subcategoryId: 6SEjoixhY5LlA7G15W6oZS
+categoryCover: true
 ---
 
 Os recursos de televendas permitem que a equipe de atendimento da sua loja tenha autonomia para apoiar os clientes na compra, no acompanhamento e na alteração de pedidos e assinaturas.
@@ -27,7 +28,7 @@ As funcionalidades de televendas disponíveis na VTEX são:
 - [Inserir preço manual](#inserir-preco-manual)
 - [Gerenciamento de pedidos](#gerenciamento-de-pedidos)
 
-> ⚠️ Para ter acesso à toolbar de televendas, à inserção de preço manual e à página [**Todos os pedidos**](/pt/docs/tutorials/todos-os-pedidos), o usuário precisa ser cadastrado na loja com o [perfil de acesso Call Center operator](/pt/docs/tutorials/como-criar-um-usuario-de-televendas).
+> ⚠️ Para ter acesso à toolbar de televendas, à inserção de preço manual e à página [**Todos os pedidos**](/pt/docs/tutorials/todos-os-pedidos), o usuário precisa ser cadastrado na loja com o [perfil de acesso Call Center operator](/pt/docs/tutorials/criar-usuario-de-televendas).
 
 É necessário configurar as funcionalidades listadas acima previamente, seguindo os passos do tutorial [Como configurar as funcionalidades de televendas](/pt/docs/tutorials/como-configurar-as-funcionalidades-de-televendas).
 

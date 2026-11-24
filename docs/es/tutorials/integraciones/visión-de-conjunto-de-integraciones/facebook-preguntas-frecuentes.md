@@ -92,8 +92,8 @@ De forma nativa, la plataforma ofrece opciones de inicio de sesión con email y 
 #### Realice el registro con sus proveedores
 Antes de configurar nuestra integración de inicio de sesión con Google y Facebook, se debe crear credenciales OAuth 2.0 (protocolo utilizado para la integración) en estos servicios. Para eso, realice los pasos detallados en los siguientes artículos:
 
-- [Facebook](/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook)
-- [Google](/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google)
+- [Facebook](/es/docs/tutorials/registrar-client-id-y-secreto-del-cliente-para-inicio-de-sesion-con-facebook)
+- [Google](/es/docs/tutorials/registrar-client-id-y-secreto-del-cliente-para-inicio-de-sesion-con-google)
 
 #### Configure en su tienda
 Después de realizar la configuración en Facebook y/o Google, debe configurar la opción de iniciar sesión a través de estos proveedores en su tienda. En ambos casos, deberá tener a mano el `Client ID` y `Client Secret` que se registraron.

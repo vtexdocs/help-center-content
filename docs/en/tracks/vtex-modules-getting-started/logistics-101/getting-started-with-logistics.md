@@ -20,7 +20,7 @@ The **Inventory & shipping** module is where you set up the logistics of your VT
 
 This article is the first in a series of five articles for getting started with logistics in your store. The series contains essential information to help you understand logistics in VTEX stores and how settings are structured on the platform.
 
-> ❗ Before setting up your store logistics, please configure the following: <body> <ol> <li>[Sales channel</li>](/en/docs/tutorials/creating-a-trade-policy) <li>[Catalog</li>](/en/docs/tracks/catalog-concept-definition) <li>[Prices</li>](/en/docs/tracks/prices-module-overview) </ol> </body>
+>❗ Before setting up your store logistics, please configure the following: <ol> <li>[Sales channel</li>](/en/docs/tutorials/creating-a-trade-policy) <li>[Catalog</li>](/en/docs/tracks/catalog-concept-definition) <li>[Prices</li>](/en/docs/tracks/prices-module-overview) </ol>
 
 This walkthrough brings together the following articles:
 
@@ -37,7 +37,7 @@ Basically, the **Inventory & shipping** module is divided into the following sec
 * **[Shipping strategy](/en/docs/tutorials/shipping-strategy)**: Basic settings for the store's shipping structure.  
 * **[Delivery capacity](/en/docs/tutorials/managing-delivery-capacity)**: For tracking the capacity of scheduled deliveries.
 * **[Inventory management:](/en/docs/tutorials/managing-stock-items)** To check the availability of items and track stock reservation and sold items.
-* **[Shipping rates:](/en/docs/tutorials/shipping-rates)</span>** For adding and checking the shipping rates offered to customers.
+* **[Shipping rates:](/en/docs/tutorials/shipping-rates)** For adding and checking the shipping rates offered to customers.
 * **[Shipping simulator](/en/docs/tutorials/shipping-simulation)**: Delivery simulation tool that allows retailers to validate the delivery scenarios available for each region and product.
 * **[Geolocation shipping](/en/docs/tutorials/registering-geolocation)**: Feature to add delivery locations without using postal codes.
 * **[Holidays:](/en/docs/tutorials/registering-holidays)** For registering holidays that affect your store's delivery operations. 

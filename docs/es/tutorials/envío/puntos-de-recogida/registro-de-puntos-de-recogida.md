@@ -59,11 +59,14 @@ Selecciona <i class="fas fa-toggle-on"></i> para activar el punto de recogida.
 * **Instrucciones de recogida:** introduce indicaciones para ayudar a tu cliente a recoger sus paquetes en el punto de recogida. Por ejemplo, en qué puerta se recogen los ítems o qué documentos debe presentar el cliente al recoger los pedidos. Estas instrucciones se mostrarán en el _checkout_, al elegir el punto de recogida. 
 * **Tags:** añade etiquetas para agrupar los puntos de recogida. Estas etiquetas son útiles a la hora de relacionar las [políticas de envío](/es/docs/tutorials/politica-de-envio) con los puntos de recogida.  
 
+> ℹ️ El radio de búsqueda de recogida usado en el Checkout y por el filtro **Recogida** de Delivery Promise no es un campo del punto de recogida. Se trata del radio de recogida del Checkout, configurable por el comercio hasta un máximo de 50 km (predeterminado: 50 km). Más información en [Cómo funcionan los puntos de recogida](/es/docs/tutorials/puntos-de-recogida#como-funcionan-puntos-de-recogida).
+
 #### Horas laborables
 
 * **Días de la semana:**
     1. Marca las casillas de los días en que el punto de recogida estará disponible para que tus clientes recojan sus pedidos. 
-    2. Selecciona también las horas labolables del punto de recogida para cada día. > ℹ️ Si este campo no se rellena, la plataforma considerará que el punto de recogida funciona las 24 horas del día.
+    2. Selecciona también las horas labolables del punto de recogida para cada día.
+      > ℹ️ Si este campo no se rellena, la plataforma considerará que el punto de recogida funciona las 24 horas del día.
 * **Excepciones o feriados**: para añadir días específicos en los que el punto de recogida no funcionará, sigue los pasos a continuación:
     1. Haz clic en `Agregar excepción`.
     2. Rellena el **día** y la **hora**;
@@ -80,7 +83,8 @@ Es posible registrar los puntos de recogida mediante la importación de una plan
 1. En el Admin VTEX, accede a **Envío > Puntos de recogida**, o escribe *Puntos de recogida* en la barra de búsqueda en la parte superior de la página.  
 2. Haz clic en <i class="fas fa-upload"></i> `Cargar un XLS`.
 3. Descarga la plantilla y rellena los 
-[campos](#campos-de-la-plantilla).> ℹ️ Ten en cuenta que la plantilla viene con valores de ejemplo, que debes sustituir por los datos de los puntos de recogida de tu tienda.
+[campos](#campos-de-la-plantilla).
+> ℹ️ Ten en cuenta que la plantilla viene con valores de ejemplo, que debes sustituir por los datos de los puntos de recogida de tu tienda.
 4. Tras cargar la plantilla, haz clic en `OK`. Se habrán registrado los puntos de recogida. 
 
 ### Campos de la plantilla
@@ -90,7 +94,7 @@ Rellena la plantilla de acuerdo con la información de la siguiente tabla:
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 2px; border-collapse: collapse;">
     <thead class="w-100 center mv7 bb b--gray" style="border-spacing: 2px; border-collapse: collapse;">
   <tr class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
-            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">**Columna de la plantilla **
+            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">**Columna de la plantilla**
    </th>
    <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">**Descripción**
    </th>

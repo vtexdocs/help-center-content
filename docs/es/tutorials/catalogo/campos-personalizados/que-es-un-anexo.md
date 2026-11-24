@@ -1,5 +1,5 @@
 ---
-title: '¿Qué es un Anexo?'
+title: 'Anexos'
 id: aGICk0RVbqKg6GYmQcWUm
 status: PUBLISHED
 createdAt: 2018-02-16T17:46:46.045Z
@@ -28,4 +28,4 @@ Si su artículo comprado es una Camisa de la Selección Brasileña, el nombre de
 ### Artículos relacionados
 - [Registrar un anexo](/es/docs/tutorials/registrar-un-anexo)
 - [¿Qué es un servicio?](/es/docs/tutorials/que-es-un-servicio)
-- [Crear servicio para un SKU](/es/tutorial/criando-servico-para-um-sku)
+- [Crear servicio para un SKU](/es/docs/tutorials/crear-servicio-para-un-sku)

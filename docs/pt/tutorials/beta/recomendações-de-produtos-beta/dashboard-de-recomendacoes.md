@@ -3,7 +3,7 @@ title: 'Dashboard de recomendações (Beta)'
 id: 2QIexbD2FSXBxELUnFtg7g
 status: PUBLISHED
 createdAt: 2026-02-20T13:01:10.919Z
-updatedAt: 2026-02-20T13:01:10.919Z
+updatedAt: 2026-10-09T15:13:22.000Z
 publishedAt: 2026-02-20T13:01:10.919Z
 firstPublishedAt: 2025-06-27T20:41:49.041Z
 contentType: tutorial
@@ -23,8 +23,17 @@ Para acessá-la no Admin VTEX, entre em *Storefront > Recomendações*.
 
 ## Requisitos
 
-* Ter a funcionalidade de [Recomendações de produtos](https://help.vtex.com/pt/docs/tutorials/recomendacoes-de-produtos-beta) habilitada na loja.  
+* Ter a funcionalidade de [Recomendações de produtos](https://help.vtex.com/pt/docs/tutorials/recomendacoes-de-produtos-beta) habilitada na loja.
 * Ter [estratégias de recomendação](https://help.vtex.com/pt/docs/tutorials/recomendacoes-de-produtos-beta#estrategias-de-recomendacao) implementadas na loja.
+* Ter um [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) com os [recursos do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager) abaixo. Sem o recurso *View Recommendations*, a página **Recomendações** não abre no Admin VTEX.
+
+  * **Produto:** *Recommendations*
+  * **Categoria:** *Recommendations*
+
+  | Recurso | Chave | Descrição |
+  | --- | --- | --- |
+  | *View Recommendations* | `ViewRecommendations` | Visualizar listagem de recomendações no Admin. |
+  | *View Recommendations metrics* | `ViewRecommendationsMetrics` | Visualizar métricas de recomendações no Admin. |
 
 ## Informações gerais
 
@@ -39,7 +48,7 @@ Clique em cada métrica para visualizar o gráfico correspondente. O gráfico ap
 As informações apresentadas são:
 
 | Métrica | Descrição | Informações disponíveis ao passar o mouse sobre uma data |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | **Conversão por clique** | Percentual de cliques em recomendações que resultaram em pedidos. | Cliques <br /> Pedidos <br /> Conversão por click |
 | **Taxa de visualização** | Percentual de visualizações de prateleiras de recomendação em relação ao total de visualizações de página. A cada vez que a página é carregada, a estratégia é gerada e ela pode ou não ser visualizada. | Visualizações <br /> Impressões <br /> Taxa de visualização |
 | **Taxa de cliques** | Taxa média de cliques (CTR) nas recomendações. | Cliques <br /> Visualizações <br /> Taxa de cliques |
@@ -54,7 +63,7 @@ A tabela apresenta o desempenho individual de cada prateleira de recomendação 
 A página apresenta as seguintes informações sobre cada prateleira em uma tabela:
 
 | Coluna | Descrição |
-| :---- | :---- |
+| ---- | ---- |
 | Prateleira | Nome da prateleira de recomendação e sua respectiva estratégia e contexto de exibição (por exemplo, *home*, *pdp*, *cart*, *footer*). |
 | Taxa de visualização | Percentual de visualizações da prateleira em relação às visualizações da página em que ela está inserida. |
 | Taxa de cliques | Percentual de cliques nos produtos da prateleira em relação ao número de visualizações. |

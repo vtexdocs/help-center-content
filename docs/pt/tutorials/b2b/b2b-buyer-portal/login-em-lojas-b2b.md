@@ -68,7 +68,7 @@ O nome de usuário deve seguir as seguintes regras:
 Em ambientes B2B, o email não é obrigatório como identificador de login. Usuários podem possuir dois tipos de email com finalidades diferentes: email de recuperação de acesso e email transacional.
 
 | Tipo de email | Uso | Regras |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Email de recuperação de acesso | Utilizado para ações relacionadas à autenticação, como recuperação ou redefinição de senha. | Deve ser único na loja. Pode ser opcional. Pode ser igual ao email transacional, mas não precisa ser. |
 | Email transacional | Utilizado para comunicações da loja, como confirmações de pedido e notificações de status. | Não precisa ser único e pode ser compartilhado por múltiplos usuários. Também pode ser opcional. |
 
@@ -127,7 +127,7 @@ A recuperação de senha utiliza códigos de verificação enviados para os cana
 O comportamento varia de acordo com as informações de contato cadastradas:
 
 | Situação do usuário | Como o código de acesso é enviado | Observações |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Usuário possui email | Código enviado por email | Segue as mesmas regras de códigos de acesso em lojas B2C. |
 | Usuário possui email e telefone | Código enviado por email | - |
 | Usuário não possui email nem telefone | Código gerado por administrador da organização | O administrador gera e compartilha o código com o usuário. Os códigos de acesso gerados por administradores da organização possuem validade de 12 horas. Saiba mais em [Adicionar usuários à organização compradora](https://help.vtex.com/pt/docs/tutorials/adicionar-usuarios-a-organizacao-compradora#gerar-codigo-de-acesso-para-usuarios-sem-email). |

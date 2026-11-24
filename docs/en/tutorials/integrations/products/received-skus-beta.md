@@ -17,7 +17,7 @@ subcategoryId: 4HBbKdnwneGew2qGGykSM8
 
 The Received SKUs page provides a way for [marketplaces](/en/docs/tutorials/marketplace-overview) to view, prioritize, and catalog items sent by the sellers. This way, they can create new products and link them to existing SKUs or products to make them available for sale. You can access this page on the VTEX Admin by going to Marketplace > Received SKUs or typing Received SKUs in the Admin search bar.  
 
-Cataloging can be done manually or automatically [using one or more matchers](/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher) or [autoApprove](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions/#put-/suggestions/configuration/autoapproval/toggle). You can also use third-party tools to do this.  
+Cataloging can be done manually or automatically [using one or more matchers](/en/docs/tutorials/understanding-vtex-matcher-scoring) or [autoApprove](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions/#put-/suggestions/configuration/autoapproval/toggle). You can also use third-party tools to do this.  
 
 This article provides an overview in the sections [Page structure](#page-structure), [Cataloging priority](#cataloging-priority), and [Cataloging items](#cataloging-items).  
 
@@ -58,7 +58,7 @@ The **Issues** tab contains all the offers that haven't been approved because th
 
 > ℹ️ The **Issues** tab doesn't have the option to request a correction.  
 
-To identify the issue of an offer, simply click the name of the product. This will open a window with the product information, an error message, and the offer reviewer.  
+To identify the issue of an offer, click the name of the product. This will open a window with the product information, an error message, and the offer reviewer.  
 
 ![received-skus-problems-tab](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/products/received-skus-beta_3.png)
 

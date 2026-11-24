@@ -1,5 +1,5 @@
 ---
-title: 'Shipping strategy'
+title: 'Shipping Strategy'
 id: 58vLBDbjYVQzJ6rRc5QNz3
 status: PUBLISHED
 createdAt: 2021-07-15T17:04:23.563Z
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-The shipping strategy refers to the relationship between inventory, loading dock and shipping policy. The way they communicate will define the structure combination for shipping your customers’ orders. 
+The shipping strategy is the relationship between inventory, loading dock, and shipping policy. The way they communicate will define the structure combination for delivering store orders.
 
 ![shipping_strategy_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/shipping-strategy/shipping-strategy_1.png)
 
@@ -43,12 +43,16 @@ The shipping strategy refers to the relationship between inventory, loading dock
     </tr>
 </table>
 
+> ℹ️ VTEX supports up to 10,000 shipping routes per account. A route represents each possible combination of loading dock, inventory, shipping policy, and [sales channel](/en/docs/tutorials/how-trade-policies-work) in your store. The total number of routes is calculated by multiplying the number of these four entities. When this threshold is exceeded, the available number of items may be displayed inconsistently in the store. Therefore, when setting up your shipping strategy, avoid creating combinations that won't be used.
+
 ## Initial logistics settings
 
 You can configure initial settings through the VTEX Admin or via API. If you are starting to configure your shipping strategy, we recommend the following order:
 
-| **Topic** | **Configuration via VTEX Admin** | **Configuration via API** |
-| :--- | :--- | :--- |
+| Topic | Configuration via VTEX Admin | Configuration via API |
+| --- | --- | --- |
 | 1. [Shipping policy](/en/docs/tutorials/shipping-policy) | [Creating a shipping policy](/en/docs/tutorials/creating-a-shipping-policy) | [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) |
 | 2. [Loading dock](/en/docs/tutorials/loading-dock) | [Managing loading docks](/en/docs/tutorials/managing-loading-docks) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
 | 3. [Warehouse](/en/docs/tutorials/warehouse) | [Managing warehouses](/en/docs/tutorials/managing-warehouses) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |
+
+> ⚠️ Changes to logistics settings (inventory, loading dock, and shipping policy) don't automatically trigger a new catalog indexing. Even after fixing your shipping strategy, products may remain unavailable on the website until the catalog is indexed again. You can track the process on the [Indexing history](https://help.vtex.com/en/docs/tutorials/indexing-history) page. If products are still unavailable after that, [open a ticket with VTEX Support](https://help.vtex.com/en/docs/tutorials/opening-tickets-to-vtex-support).

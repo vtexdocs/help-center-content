@@ -17,7 +17,7 @@ subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 
 In VTEX Admin, you can register a similar category at product level or category level, as shown in the next sections.  
 
-> ℹ️ To register a similar category at via Catalog API, use the [Add similar category](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/similarcategory/-categoryId-) endpoint.
+> ℹ️ To register a similar category via the Catalog API, use the [Add similar category](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/similarcategory/-categoryId-) endpoint.
 
 ## Configuring similar category at product level
 
@@ -30,7 +30,7 @@ Similarly, if you filter for __Glass Cups__ in the __Jars__ category, you will n
 To configure a similar category at product level, follow the steps below:
 
 1. In the VTEX Admin, go to **Catalog > Products and SKUs**, or type [Products and SKUs](/en/docs/tutorials/products-and-skus) in the search bar at the top of the page.
-2. Click on the desired product line, or click on the product three-dot menu > `Edit product`. If you are creating the product, check out the article [Adding or editing products](/en/docs/tutorials/adding-or-editing-products).
+2. Click on the desired product line, or click on the product's three-dot menu > `Edit product`. If you are creating the product, check out the article [Adding or editing products](/en/docs/tutorials/adding-or-editing-products).
 3. In the **Storefront** section, add the desired categories in the **Similar Categories** field.
 4. Click `Save`.
 
@@ -38,7 +38,7 @@ To configure a similar category at product level, follow the steps below:
 
 > ⚠️ This setting is only compatible with stores using [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal).
 
-When editing a category, you can set up its like category. When you complete this kind of configuration at category level, the navigation menu will display a link to the similar category at the original category level.
+When editing a category, you can set up its similar category. When you complete this kind of configuration at category level, the navigation menu will display a link to the similar category at the original category level.
 
 To configure a similar category at category level, follow the steps below:
 

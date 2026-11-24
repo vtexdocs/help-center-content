@@ -1,5 +1,6 @@
 ---
 title: "I received an invoice and I'm not a VTEX client. Why?"
+excerpt: "Invoices issued under the VTEX tax ID can belong to other brands VTEX operates. Use the support channel for the platform you actually use."
 id: 2xW1boWieUC40KQgIaugGG
 status: PUBLISHED
 createdAt: 2018-03-28T18:35:49.057Z
@@ -14,7 +15,7 @@ locale: en
 legacySlug: i-received-an-invoice-and-im-not-a-vtex-client
 ---
 
-VTEX currently operates with different platforms: VTEX, Loja Integrada, Integrando.se, Xtech, Biggy, CIA SHOP, and UniteU. If you do not use the VTEX ecommerce platform but are a client of one of the others, the services provided to them will also have their invoices issued under VTEX CNPJ (Tax ID).
+VTEX currently operates with different platforms: VTEX, Loja Integrada, Integrando.se, Xtech, Biggy, CIA SHOP, and UniteU. If you do not use the VTEX ecommerce platform but are a client of one of the others, the services provided to them will also have their invoices issued under the VTEX CNPJ (Tax ID).
 
 However, your financial support is still separated by brands. If you need to contact us, please use the corresponding channel:
 

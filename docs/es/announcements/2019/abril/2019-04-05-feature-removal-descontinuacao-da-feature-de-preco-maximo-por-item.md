@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Haz uso de la nueva funcionalidad Promociones por Tabla de Precio para atender a los escenarios de la discontinuada.'
 ---
 
-Anunciamos la descontinuación de __Precio Máximo por Ítem__, del módulo de Tasas y Promociones, a partir del día 17 de junio de 2019. Después de esta fecha, no será posible crear nuevas promociones de este tipo. __ Las promociones que todavía existen no serán impactadas, trabajando normalmente hasta sus fechas de expiración__. Además, el upload masivo para promociones de este tipo no estará disponible a partir de esta fecha. 
+Anunciamos la descontinuación de __Precio Máximo por Ítem__, del módulo de Tasas y Promociones, a partir del día 17 de junio de 2019. Después de esta fecha, no será posible crear nuevas promociones de este tipo. __Las promociones que todavía existen no serán impactadas, trabajando normalmente hasta sus fechas de expiración__. Además, el upload masivo para promociones de este tipo no estará disponible a partir de esta fecha. 
 Cómo workround, recomendamos el uso de las __Promociones por Tabla de Precio__ .
 
 ## Lo que esto significa?

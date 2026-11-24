@@ -38,7 +38,7 @@ También es posible que este _seller_ principal venda sus productos en un _marke
 
 Cuando esto ocurre, tenemos una arquitectura de tres niveles entre el _marketplace_, el _seller_ principal y sus _sellers white label_, como se ilustra en la imagen de abajo.
 
-![Arquitetura Multilevel omichannel inventory](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/visión-general-de-configuraciones-de-la-tienda/multilevel-omnichannel-inventory_1.png)
+![Arquitetura Multilevel omichannel inventory](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/configuraciones-de-la-tienda/multilevel-omnichannel-inventory_1.png)
 
 De forma predeterminada, los productos de las tiendas físicas, o _sellers white label_ (nivel 3 en la imagen), no están disponibles para ser vendidos por el _marketplace_ de nivel 1, pero con la funcionalidad _Multilevel Omnichannel Inventory_ puedes disponibilizarlos.
 
@@ -73,7 +73,7 @@ La funcionalidad Multilevel Omnichannel Inventory está disponible únicamente p
 
 No es posible distribuir las cuentas por cobrar en toda la cadena (_marketplace, seller directo y sellers white label_). Los pagos de los pedidos de _Multilevel Omnichannel Inventory_ solo pueden realizarse en el _marketplace._ La conciliación y la transferencia de valores a los _sellers_ de nivel 3 deben realizarse fuera de VTEX, ya que no hay soporte nativo para esta etapa.
 
-Puedes utilizar la solución de [split de pagos](/es/docs/tutorials/split-de-pagos) solo para dividir las cuentas por cobrar entre los niveles _marketplace_ y _seller directo_ (nivel 2). En este caso, se recomienda utilizar el [split de cobros](/es/tutorial/split-payment#split-de-recebiveis).
+Puedes utilizar la solución de [split de pagos](/es/docs/tutorials/split-de-pagos) solo para dividir las cuentas por cobrar entre los niveles _marketplace_ y _seller directo_ (nivel 2). En este caso, se recomienda utilizar el [split de cobros](/es/docs/tutorials/split-de-pagos#split-de-recebiveis).
 
 En estos casos, el _seller_ directo se convierte en receptor de los ítems de sus _sellers white label_ y de sus propios ítems, eliminando las comisiones establecidas en la relación con el _marketplace_.
 
@@ -157,7 +157,7 @@ Actualmente, el valor del campo _Fulfillment endpoint_ del _seller_ tiene el sig
 
 `https://storeabc.vtexcommercestable.com.br/api/fulfillment?affiliateId=mkp&sc=2`
 
-Para habilitar la funcionalidad Multilevel omnichannel inventory, el nuevo valor del campo debe contener el _endpoint_ de **_checkout_, **en lugar del _endpoint_ de _fulfillment_:  
+Para habilitar la funcionalidad Multilevel omnichannel inventory, el nuevo valor del campo debe contener el _endpoint_ de **_checkout_,** en lugar del _endpoint_ de _fulfillment_:  
 
 `https://storeabc.vtexcommercestable.com.br/api/checkout?affiliateid=mkp&sc=2`
 

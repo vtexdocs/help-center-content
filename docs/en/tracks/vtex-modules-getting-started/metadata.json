@@ -2,5 +2,6 @@
   "id": "vtex-modules-getting-started",
   "name": "VTEX Modules: Getting Started",
   "slug": "vtex-modules-getting-started",
-  "order": 2
+  "order": 2,
+  "type": "divider"
 }

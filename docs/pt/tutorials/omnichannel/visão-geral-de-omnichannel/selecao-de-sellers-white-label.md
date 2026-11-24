@@ -169,7 +169,7 @@ Um cliente adiciona ao carrinho seis SKUs e existem oito sellers capazes de envi
 
 Os valores de cada seller foram comparados na tabela a seguir:
 
-| **Sellers** | **Disponibilidade de SKUs do total de 6 itens** | **Distância entre endereço do cliente e ponto de retirada** | **Custo para retirada** | **Tempo de preparo para a retirada** |
+| Sellers | Disponibilidade de SKUs do total de 6 itens | Distância entre endereço do cliente e ponto de retirada | Custo para retirada | Tempo de preparo para a retirada |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
 |  Seller 1 | 5 | 1 km | 10 reais | 1 dia |
 |  Seller 2 | 4 | 1 km | 0 | 1 dia |
@@ -191,7 +191,7 @@ Para definir os sellers para retirada mais barata, os seguintes critérios são 
 
 O resultado da seleção de até três sellers para retirada mais barata é apresentado na tabela a seguir:
 
-| **Posição na seleção** | **Sellers** | **Disponibilidade de SKUs do total de 6 itens** | **Distância entre endereço do cliente e ponto de retirada** | **Custo para retirada** | **Tempo de preparo para a retirada** |
+| Posição na seleção | Sellers | Disponibilidade de SKUs do total de 6 itens | Distância entre endereço do cliente e ponto de retirada | Custo para retirada | Tempo de preparo para a retirada |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | 1º |  Seller 1 | 5 | 1 km | 10 reais | 1 dia |
 | 2º |  Seller 4 | 5 | 5 km | 0 | 0 |
@@ -215,7 +215,7 @@ Em paralelo, a plataforma VTEX realiza a seleção de sellers com a retirada mai
 
 O resultado da seleção de até três sellers para a retirada mais rápida é apresentado na tabela a seguir:
 
-| **Posição na seleção** | **Sellers** | **Disponibilidade de SKUs do total de 6 itens** | **Distância entre endereço do cliente e ponto de retirada** | **Tempo de preparo para a retirada** | **Custo para retirada** |
+| Posição na seleção | Sellers | Disponibilidade de SKUs do total de 6 itens | Distância entre endereço do cliente e ponto de retirada | Tempo de preparo para a retirada | Custo para retirada |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | 1º |  Seller 1 | 5 | 1 km | 1 dia | 10 reais |
 | 2º |  Seller 4 | 5 | 5 km | 0 | 0 |

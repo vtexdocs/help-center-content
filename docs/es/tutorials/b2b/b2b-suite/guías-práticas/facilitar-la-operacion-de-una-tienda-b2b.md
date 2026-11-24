@@ -53,15 +53,15 @@ Tomemos como ejemplo un producto que tiene el valor unitario de USD 100 y que es
 
 Este es un recurso que se adapta a las necesidades de los clientes mayoristas. Actualmente existen tres formas de establecer un precio fijo en VTEX. Acceda al artículo sobre [cómo registrar precios fijos](/es/docs/tracks/registrar-precio-fijo) para conocer todas las formas de configuración.
 
-> ℹ️ Antes de proceder con su lectura, lea el artículo sobre[ las promociones más usadas para el escenario B2B](/es/tutorial/as-promocoes-mais-comuns-em-b2b--XoM951AzUIvfaH71UdANf?&utm_source=autocomplete).
+> ℹ️ Antes de proceder con su lectura, lea el artículo sobre[ las promociones más usadas para el escenario B2B](/es/docs/tutorials/promociones-mas-comunes-para-b2b?&utm_source=autocomplete).
 
 ### Kit de productos
 
-En VTEX, todas las tiendas cuentan con el recurso [kit de productos](/es/tutorial/kit-registration), a través del cual se puede vender un conjunto de ítems por un precio determinado. 
+En VTEX, todas las tiendas cuentan con el recurso [kit de productos](/es/docs/tutorials/registrar-kit), a través del cual se puede vender un conjunto de ítems por un precio determinado. 
 
 > ℹ️ En el contexto B2B, el kit de productos, generalmente, se cita como "Bundle". Es decir, los términos "kit de productos" y "bundle" se refieren a la misma herramienta.
 
-Para registrar un [kit de productos](/es/tutorial/cadastrando-kit/), vea la documentación en el Centro de Ayuda. 
+Para registrar un [kit de productos](/es/docs/tutorials/registrar-kit), vea la documentación en el Centro de Ayuda. 
 
 ### Product Assembly Options o Product Customizer
 
@@ -93,7 +93,7 @@ VTEX cuenta con [My account](/es/docs/tutorials/como-funciona-mi-cuenta), una he
 
 Esta herramienta permite al consumidor seguir el status de su pedido en el flujo de posventa, así como realizar algunas operaciones. Entre estas, «Pedir nuevamente» para volver a realizar un pedido que se efectuó anteriormente.  
 
-![reorder ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/guías-práticas/facilitar-la-operacion-de-una-tienda-b2b_1.png)
+![reorder ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/b2b-suite/guías-práticas/facilitar-la-operacion-de-una-tienda-b2b_1.png)
 
 Para saber más detalles de My Account, lea el tutorial sobre [cómo configurar esta funcionalidad](/es/docs/tutorials/configuracion-de-my-account).
 

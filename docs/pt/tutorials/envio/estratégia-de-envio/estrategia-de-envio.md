@@ -13,9 +13,10 @@ slugEN: shipping-strategy
 legacySlug: estrategia-de-envio, qual-a-diferenca-entre-estoque-e-doca
 locale: pt
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
+categoryCover: true
 ---
 
-Estratégia de envio é a relação entre estoque, doca e política de envio. A forma que   estoque, doca e política de envio se comunicam definirá a combinação de estrutura para entrega dos pedidos da loja.
+Estratégia de envio é a relação entre estoque, doca e política de envio. A forma como estoque, doca e política de envio se comunicam definirá a combinação de estrutura para entrega dos pedidos da loja.
 
 ![shipping_strategy_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estratégia-de-envio/estrategia-de-envio_1.png)
 
@@ -29,7 +30,7 @@ Estratégia de envio é a relação entre estoque, doca e política de envio. A 
     </tr>
     <tr class="bb b--muted-3">
             <td class="t-body pa5" style="min-width: 15rem;">
-                **[Doca**](/pt/docs/tutorials/doca)
+                **[Doca](/pt/docs/tutorials/doca)**
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">Local de distribuição do estoque. Funciona como uma área de armazenamento de produtos para entrega.
             </td>
@@ -43,13 +44,16 @@ Estratégia de envio é a relação entre estoque, doca e política de envio. A 
     </tr>
 </table>
 
+> ℹ️ A VTEX suporta até 10.000 rotas de envio por conta. Uma rota é cada combinação possível entre doca, estoque, política de envio e [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) cadastrados na sua loja, ou seja, o número de rotas é o resultado da multiplicação dessas quatro entidades. Quando esse limite é ultrapassado, a quantidade disponível dos itens pode ser exibida de forma inconsistente na loja. Por isso, ao montar a sua estratégia de envio, evite criar combinações que não serão utilizadas.
+
 ## Primeiras configurações logísticas
 
 As configurações podem ser realizadas pelo Admin VTEX ou por API. Se você está começando a configurar sua estratégia de envio, a ordem de cadastro sugerida é a seguinte:
 
-| **Assunto** | **Configuração via Admin VTEX** | **Configuração via API** |
-| :--- | :--- | :--- |
+| Assunto | Configuração via Admin VTEX | Configuração via API |
+| --- | --- | --- |
 | 1. [Política de envio](/pt/docs/tutorials/politica-de-envio) | [Criar uma política de envio](/pt/docs/tutorials/criar-uma-politica-de-envio) | [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) |
 | 2. [Doca](/pt/docs/tutorials/doca) | [Gerenciar doca](/pt/docs/tutorials/gerenciar-doca) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
 | 3. [Estoque](/pt/docs/tutorials/estoque) | [Gerenciar estoque](/pt/docs/tutorials/gerenciar-estoque) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |
 
+> ⚠️ Alterações nas configurações logísticas (estoque, doca e política de envio) não acionam automaticamente uma nova indexação do catálogo. Por isso, mesmo depois de corrigir a estratégia de envio, os produtos podem continuar indisponíveis no site até que o catálogo seja indexado novamente. Você pode acompanhar o processo na página [Histórico da indexação](/pt/docs/tutorials/historico-da-indexacao) e, caso os produtos permaneçam indisponíveis, [abrir um chamado para o Suporte VTEX](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex).

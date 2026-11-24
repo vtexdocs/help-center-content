@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
 
-Na VTEX, o [afiliado](/pt/docs/tutorials/o-que-e-afiliado) é um código que identifica o marketplace para o seller. O [seller VTEX](/pt/tutorial/integrating-with-marketplace/#sendo-seller-vtex) precisa configurar um código de afiliado para poder integrar com um [marketplace VTEX](/pt/tutorial/integrating-with-marketplace/#ser-um-marketplace-vtex), e essa configuração só é necessária quando o marketplace e o seller integrados são ambos lojas VTEX. 
+Na VTEX, o [afiliado](/pt/docs/tutorials/o-que-e-afiliado) é um código que identifica o marketplace para o seller. O [seller VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#sendo-seller-vtex) precisa configurar um código de afiliado para poder integrar com um [marketplace VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#ser-um-marketplace-vtex), e essa configuração só é necessária quando o marketplace e o seller integrados são ambos lojas VTEX. 
 
 Quando o marketplace não é uma loja VTEX (como em [integrações externas](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-marketplace-externo)), ou quando a loja integra com um [marketplace certificado](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-marketplaces-certificados) (como Amazon ou Mercado Livre), o código do afiliado é criado automaticamente pela plataforma.
 

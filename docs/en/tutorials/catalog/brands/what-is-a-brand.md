@@ -1,5 +1,5 @@
 ---
-title: 'What is a Brand?'
+title: 'Brands'
 id: QU07yhHoaWcEYseEucOQW
 status: PUBLISHED
 createdAt: 2018-01-25T21:48:56.054Z
@@ -13,11 +13,10 @@ slugEN: what-is-a-brand
 legacySlug: what-is-a-brand
 locale: en
 subcategoryId: fUHfjTEwyOcIQuyeUsIIu
-order: 1
 ---
 
 __The Brand is one of the attributes of a product__, as well as its name and description. 
 
 It is essential that you make your brand name available in your store. It can help your customers find what they are looking for faster, and you can categorize your store by grouping together different types of products under one brand.
 
-On VTEX platform, there's a specific section for you to register the brands of products available in your store.
+On the VTEX platform, there's a specific section for you to register the brands of products available in your store.

@@ -35,7 +35,7 @@ Será posible interactuar en ésta para validar informaciones como el Afiliado u
 
 ## Emails intercambiados con el cliente
 
-El **Historial de pedidos** está directamente relacionado al [Conversation Tracker](/es/tutorial/conversation-tracker), que es utilizado para unificar toda la comunicación hecha con un cliente durante el flujo de un pedido. Esta comunicación también incluye los mensajes enviados por cualquier otro sistema integrado.
+El **Historial de pedidos** está directamente relacionado al [Conversation Tracker](/es/docs/tutorials/comprendiendo-el-conversation-tracker), que es utilizado para unificar toda la comunicación hecha con un cliente durante el flujo de un pedido. Esta comunicación también incluye los mensajes enviados por cualquier otro sistema integrado.
 
 Esto es, en toda interacción como pago aprobado, preparando entrega, facturación, despacho y entrega será comunicado junto al cliente por email. Estos emails se inscribirán en el **Historial de pedidos** del pedido en cuestión.
 

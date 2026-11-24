@@ -3,7 +3,7 @@ title: 'Add-on products'
 id: 1t2QBZvrOBSLgvHaAV9fYm
 status: PUBLISHED
 createdAt: 2024-02-20T20:29:42.983Z
-updatedAt: 2025-05-13T20:19:47.676Z
+updatedAt: 2026-09-22T00:00:00.000Z
 publishedAt: 2025-05-13T20:19:47.676Z
 firstPublishedAt: 2024-02-22T14:09:28.506Z
 contentType: trackArticle
@@ -30,19 +30,13 @@ VTEX Live Shopping allows creating online broadcasts for live demos of store pro
 
 ![live-shopping-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_2.JPG)
 
-## VTEX Personal Shopper
-
-VTEX Personal Shopper allows offering a direct, personalized service between the customer and the sales associate, bringing the physical store shopping experience to the digital environment. The sales associate can show products, make recommendations, and answer customers' questions through this app. They can also add items to the shopping cart during a video call.
-
-![personal-shopper-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_3.JPG)
-
 ## VTEX Pick and Pack
 
 VTEX Pick and Pack is a solution for managing and ensuring complete visibility throughout the fulfillment process, from picking and packing products in physical stores or warehouses to their delivery at pickup points or customer locations.
 
 **VTEX Pick and Pack** consists of: 
 
-- [Pick and Pack app](/en/docs/tutorials/vtex-pick-and-pack-fulfillment): Manages orders in the store or warehouse, allowing you to customize the order picking method, select packaging types per product, and remove or add products according to the store's inventory.
+- [Pick and Pack app](/en/docs/tutorials/vtex-pick-and-pack): Manages orders in stores or warehouses, allowing you to customize the order picking method, select packaging types for each product, and add or remove products based on store inventory.
 
 - [Last Mile app](/en/docs/tutorials/vtex-pick-and-pack-last-mile): Coordinates the shipping of packages from warehouses or stores to the customer's address by creating efficient delivery routes, selecting available drivers, and tracking the exact location of the order.
 

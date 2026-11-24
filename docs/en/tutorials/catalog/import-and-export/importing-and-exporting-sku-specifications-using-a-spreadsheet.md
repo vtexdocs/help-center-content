@@ -53,7 +53,7 @@ Once the export is complete, you'll receive an email with a link to download the
 The following table describes and includes an example of each field in the SKU specification import spreadsheet. Required fields are marked with an asterisk (*).
 
 | Field | Description | Example |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | SKU ID* | Unique numeric code that identifies the SKU. | 310119261 |
 | SKU Name | SKU name, which identifies the product variation. | M |
 | SKU Reference Code | Unique SKU reference code, created to facilitate catalog management. Once this code is created, it can't be edited through the spreadsheet. This field is required unless the EAN/UPC field has a value. | shirt-color |

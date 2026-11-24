@@ -4,7 +4,7 @@ createdAt: 2026-03-31T15:01:05.207Z
 updatedAt: 2026-06-15T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-slugEN: manage-vtex-cx-platform-members
+slugEN: managing-vtex-cx-platform-members
 locale: pt
 ---
 
@@ -31,7 +31,6 @@ Para remover um membro de uma organização, siga os passos abaixo:
 4. Ao lado do nome da pessoa que você deseja remover, clique em `Remover da organização`.
 5. Clique em `Remover membro`.
 
-
 ## Gerenciar membros do projeto
 
 Para adicionar membros a um projeto, siga os passos abaixo:
@@ -54,5 +53,3 @@ Para remover um membro de um projeto, siga os passos abaixo:
 4. Clique em `Gerenciar membros`.
 5. Ao lado do nome da pessoa que você deseja remover, clique em `Remover do projeto`.
 6. Clique em `Remover do projeto`.
-
-

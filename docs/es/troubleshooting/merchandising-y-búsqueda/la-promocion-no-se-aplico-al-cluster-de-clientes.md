@@ -19,7 +19,7 @@ symptomFilters:
   - Configuración incorrecta
 ---
 
-Puedes configurar una [promoción personalizada](/es/tutorial/criando-promocao-para-um-cluster-de-clientes) para aplicarla a un grupo específico de usuarios de tu tienda, lo que se denomina como un [clúster de clientes](/es/docs/tutorials/como-crear-un-cluster-de-cliente). Sin embargo, en algunos casos la promoción no se muestra correctamente a ese subconjunto de clientes. Las principales causas son:
+Puedes configurar una [promoción personalizada](/es/docs/tutorials/creando-promociones-cluster-clientes) para aplicarla a un grupo específico de usuarios de tu tienda, lo que se denomina como un [clúster de clientes](/es/docs/tutorials/como-crear-un-cluster-de-cliente). Sin embargo, en algunos casos la promoción no se muestra correctamente a ese subconjunto de clientes. Las principales causas son:
 
 - Ausencia o registro incorrecto del valor del clúster durante la configuración de la promoción.
 - Diferencia entre los valores registrados en la promoción y los valores asignados en los perfiles de los clientes.
@@ -38,7 +38,7 @@ Para comprobar si un clúster de clientes está asociado a una promoción, sigue
 
 3. En la sección **“¿Cuáles son las condiciones para que la promoción sea válida?”**, verifica que la opción **Clúster de clientes** esté marcada y si el campo tiene el [valor correcto del clúster deseado](/es/docs/tutorials/creando-promociones-cluster-clientes#como-completar-el-campo-cluster-de-clientes).
 
-![Cluster_es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/merchandising-y-busqueda/la-promocion-no-se-aplico-al-cluster-de-clientes_1.png)
+![Cluster_es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/merchandising-y-búsqueda/la-promocion-no-se-aplico-al-cluster-de-clientes_1.png)
 
  > ⚠️ El valor ingresado en el campo debe ser exactamente igual al valor previamente asignado al clúster de clientes teniendo en cuenta que el sistema distingue entre mayúsculas y minúsculas (case sensitive). Por ejemplo, si el valor utilizado para un determinado identificador de clúster es `empleado=true` y en la promoción se ingresó `Empleado=true` o `empleado=True`, la promoción no se mostrará a los usuarios de ese clúster.
 
@@ -58,6 +58,6 @@ Para resolver esta situación, puedes realizar una de las siguientes acciones:
 
 - Cambiar la opción __Clúster de clientes__ a la condición __Al menos uno de los siguientes__, lo que permite acceso a la promoción tanto a los clientes identificados como __empleado__ como a los que tienen el código __platinum__.
 
-- Mantener la opción __Clúster de clientes__ con la condición __Todos los siguientes__ y actualizar los registros de los clientes deseados en [Master Data](/es/docs/tutorials/master-data) para que incluyan ambos criterios: ser __empleado__ y ser de la categoría __platinum__.
+- Mantener la opción __Clúster de clientes__ con la condición __Todos los siguientes__ y actualizar los registros de los clientes deseados en [Master Data](/es/docs/tutorials/master-data-es) para que incluyan ambos criterios: ser __empleado__ y ser de la categoría __platinum__.
 
 - Mantener la opción __Clúster de clientes__ con la condición __Todos los siguientes__ y utilizar otros valores que sean comunes a los clientes a los que deseas mostrar la promoción.

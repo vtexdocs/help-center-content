@@ -89,7 +89,7 @@ Após a conclusão da operação, a janela apresentará as seguintes mudanças:
 A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campos da planilha de importação de produtos e SKUs. Campos obrigatórios estão marcados com um asterisco (*).
 
 | Campo | Descrição | Exemplo |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | ID Produto | Número único identificador do produto. Você pode preencher um ID próprio ou deixar o campo vazio, de forma que a plataforma gere o ID automaticamente. Caso esse campo já esteja preenchido, não é possível alterá-lo. | 310117603 |
 | Nome Produto* | Nome do produto apresentado para os clientes na experiência de navegação, podendo ter até 150 caracteres. Por questões de [SEO](/pt/docs/tutorials/melhorando-o-seo-das-paginas-de-lista-de-produtos), recomendamos:<ul><li>✅ Usar palavras simples</li><li>❌ Evitar outros idiomas</li><li>❌ Evitar escrita complexa</li></ul> | Corebiz camiseta |
 | Produto ativo | Informa se o [status do produto](/pt/docs/tutorials/produtos-e-skus#filtrar-por-status) será ativo ou inativo. Este campo não é editável pela planilha, deve ser deixado vazio. | |
@@ -136,10 +136,10 @@ A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campo
 | Valor fidelidade | Crédito que o cliente recebe ao concluir uma compra de 1 unidade de determinado SKU. Por exemplo, preenchendo este campo com o valor R$1,00, o cliente que adquirir este SKU vai obter um crédito de R$1,00 na loja para compras futuras. Esse campo deve ser preenchido com valores decimais da moeda padrão da loja. | 49,90 |
 | Data de pré-venda | Data de pré-venda atribuída ao SKU, ou seja, a data prevista para a chegada do item nas lojas e sua disponibilização para venda. Para realizar essa configuração, é preciso considerar tanto a data de lançamento do item quanto o [cálculo do envio](/pt/docs/tutorials/como-funciona-o-calculo-de-envio) do item para os clientes. O formato aceito é `AAAA-MM-DD`. | 2025-10-30 |
 | Anexos | Nome do [anexo](/pt/docs/tutorials/o-que-e-um-anexo) que pode ser selecionado pelo cliente como customização do SKU. | Customizar nome |
-| Acessórios | Itens sugeridos como opções complementares para a venda. Para adicionar um item [acessório](/pt/docs/tutorials/configurando-produto-similar-sugestoes-acessorios-e-genericos), inclua o ID do SKU. Se quiser incluir diversos SKUs, separe-os usando vírgula sem espaço. | 320221270 |
-| Sugestões | Itens apresentados como sugestões de compra. Para adicionar um item de [sugestão](/pt/docs/tutorials/configurando-produto-similar-sugestoes-acessorios-e-genericos), inclua o ID do SKU. Se quiser incluir diversos SKUs, separe-os usando vírgula sem espaço. | 320221279,320221280 |
-| Produtos similares | Itens ofertados como uma alternativa de compra ou simplesmente algo similar. Para adicionar um item [similar](/pt/docs/tutorials/configurando-produto-similar-sugestoes-acessorios-e-genericos), inclua o ID do SKU. Se quiser incluir diversos SKUs, separe-os usando vírgula sem espaço. | 320221284 |
-| Mostrar junto | Itens sugeridos para serem adquiridos conjuntamente. Para adicionar um item para [mostrar junto](/pt/docs/tutorials/configurando-produto-similar-sugestoes-acessorios-e-genericos), inclua o ID do SKU. Se quiser incluir diversos SKUs, separe-os usando vírgula sem espaço. | 320221293,320221294 |
+| Acessórios | Itens sugeridos como opções complementares para a venda. Para adicionar um item [acessório](/pt/docs/tutorials/configurar-acessorios-sugestoes-produtos-similares-e-mostrar-junto), inclua o ID do SKU. Se quiser incluir diversos SKUs, separe-os usando vírgula sem espaço. | 320221270 |
+| Sugestões | Itens apresentados como sugestões de compra. Para adicionar um item de [sugestão](/pt/docs/tutorials/configurar-acessorios-sugestoes-produtos-similares-e-mostrar-junto), inclua o ID do SKU. Se quiser incluir diversos SKUs, separe-os usando vírgula sem espaço. | 320221279,320221280 |
+| Produtos similares | Itens ofertados como uma alternativa de compra ou simplesmente algo similar. Para adicionar um item [similar](/pt/docs/tutorials/configurar-acessorios-sugestoes-produtos-similares-e-mostrar-junto), inclua o ID do SKU. Se quiser incluir diversos SKUs, separe-os usando vírgula sem espaço. | 320221284 |
+| Mostrar junto | Itens sugeridos para serem adquiridos conjuntamente. Para adicionar um item para [mostrar junto](/pt/docs/tutorials/configurar-acessorios-sugestoes-produtos-similares-e-mostrar-junto), inclua o ID do SKU. Se quiser incluir diversos SKUs, separe-os usando vírgula sem espaço. | 320221293,320221294 |
 
 ## Saiba mais
 

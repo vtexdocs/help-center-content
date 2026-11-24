@@ -25,7 +25,7 @@ De agora em diante, **desenvolva componentes customizados de *front* de loja no 
 
 Antes, desenvolvedores interessados em criar componentes customizados usando o VTEX Store Framework tinham que solicitar a nossa autorização. Era preciso preencher um formulário de candidatura compartilhando os detalhes do projeto e esperar pela aprovação para o uso do *builder* de React.  
 
-Esse processo se tornou dispensável, uma vez que **o *builder* de React está oficialmente em *open beta***. Você agora pode se beneficiar da autonomia  para customizar e melhorar a experiência do *front* da sua loja usando a tecnologia VTEX Store Framework e React.
+Esse processo se tornou dispensável, uma vez que o *builder* de React está oficialmente em *open beta*. Você agora pode se beneficiar da autonomia  para customizar e melhorar a experiência do* front* da sua loja usando a tecnologia VTEX Store Framework e React.
 
 > ⚠️ <bold>Essa mudança se aplica somente ao *builder* de React.</bold> A VTEX ainda exige que você preencha o [formulário de candidatura para desenvolvimento](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io) e espere pela nossa aprovação caso o seu projeto dependa de outros *builders* ainda em *closed beta*. Isso inclui, por exemplo, integrações de *back-end* usando Node.js e GraphQL.
 

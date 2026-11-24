@@ -127,7 +127,7 @@ Para exportar as descobertas para um arquivo no formato CSV, siga os passos abai
 O arquivo CSV exportado contém as informações a seguir sobre cada descoberta:
 
 | Coluna | Descrição |
-| :---- | :---- |
+| ---- | ---- |
 | *Id* | ID da descoberta. |
 | *Type* | Tipo de descoberta detectada. |
 | *Finding* | Email de usuário ou chave de API relacionada à descoberta. |

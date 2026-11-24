@@ -13,20 +13,20 @@ tags:
   - Storefront
 ---
 
-A partir de **30 de março de 2026**, a VTEX começará a atualizar automaticamente as contas de [Headless CMS (Legacy) (Legado)](https://developers.vtex.com/docs/guides/faststore/headless-cms-overview) para a nova experiência [VTEX CMS](https://help.vtex.com/docs/tutorials/cms-overview). 
+A partir de **30 de março de 2026**, a VTEX começará a atualizar automaticamente as contas de [Headless CMS (Legacy) (Legado)](https://developers.vtex.com/docs/guides/faststore/headless-cms-overview) para a nova experiência [VTEX CMS](https://help.vtex.com/pt/docs/tutorials/cms-visao-geral). 
 
 Esta atualização introduz um sistema de gerenciamento de conteúdo moderno e mais robusto, desenvolvido para melhorar como as equipes criam, colaboram e distribuem conteúdo, permitindo fluxos de trabalho mais rápidos, melhor colaboração e maior escalabilidade.
 
 | ![Todos os conteúdos](https://vtexhelp.vtexassets.com/assets/docs/src/cms-conteudo-pt___0073aa95aa1b4f68a49ffcb635ea66ea.gif) |
-|:---:|
+|---|
 | **Todos os conteúdos:** Crie, gerencie e publique todas as páginas, layouts, templates e seções globais do seu storefront a partir de um único dashboard. |
 
 | ![Branches](https://vtexhelp.vtexassets.com/assets/docs/src/cms-branches-pt___dff883f3564a889019d09e2e63be7e6e.gif) |
-|:---:|
+|---|
 | **Branches:** Trabalhe em alterações de conteúdo em ambientes isolados e faça merge para o storefront em produção somente quando estiver pronto, sem impactar sua loja. |
 
 | ![Lojas](https://vtexhelp.vtexassets.com/assets/docs/src/cms-lojas-pt___bc5511d01dded18f5ae1acd1bff4569b.gif) |
-|:---:|
+|---|
 | **Lojas:** Vincule e gerencie múltiplos storefronts em um só lugar, configurando URLs de pré-visualização, integrações de repositório e configurações de idioma para cada um. |
 
 > ℹ️ Saiba mais sobre o [VTEX CMS](https://help.vtex.com/pt/docs/tutorials/cms-visao-geral).
@@ -58,11 +58,11 @@ Essas melhorias permitem que sua equipe crie e gerencie conteúdo de forma mais 
 Nenhuma ação é necessária para iniciar a atualização. No entanto, recomendamos o seguinte para ajudar durante a transição:
 
 * **Revise a documentação para se familiarizar com o novo CMS:**  
-  * Guia do usuário: [Visão geral do CMS](https://help.vtex.com/docs/tutorials/cms-overview)   
+  * Guia do usuário: [Visão geral do CMS](https://help.vtex.com/pt/docs/tutorials/cms-visao-geral)   
   * Guia do desenvolvedor: [Upgrading from Headless CMS (Legacy) (legacy) to CMS](https://developers.vtex.com/docs/guides/upgrading-from-headless-cms-legacy-to-cms-overview) (em inglês)
 
 * **Valide seu conteúdo após a migração:**  
   * No Admin VTEX, acesse **Storefront\> Content** e verifique se o conteúdo da sua loja está sendo exibido conforme esperado.
 
 * **Entre em contato com o Suporte se necessário:**  
-  * Caso tenha dúvidas ou precise de assistência durante a atualização, nosso time de suporte está pronto para ajudar. Abra um ticket para o [Suporte VTEX](https://help.vtex.com/en/support).
+  * Caso tenha dúvidas ou precise de assistência durante a atualização, nosso time de suporte está pronto para ajudar. Abra um ticket para o [Suporte VTEX](https://help.vtex.com/pt/support).

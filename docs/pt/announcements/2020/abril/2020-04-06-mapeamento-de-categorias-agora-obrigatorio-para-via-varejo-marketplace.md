@@ -21,7 +21,7 @@ O fluxo de integração de produtos no Via Varejo Marketplace foi [modificado na
 
 Antes não era necessário fazer nenhum mapeamento para ativar a Integração com a Via Varejo. Agora o mapeamento de categorias, variações e atributos se tornou __obrigatório__.
 
-> ⚠️ **Atenção:** Produtos criados ou atualizados após esta mudança somente serão enviados se sua categoria, variações e atributos estiverem mapeados.
+> ⚠️ Produtos criados ou atualizados após esta mudança somente serão enviados se sua categoria, variações e atributos estiverem mapeados.
 
 ## Por que realizamos esta mudança?
 

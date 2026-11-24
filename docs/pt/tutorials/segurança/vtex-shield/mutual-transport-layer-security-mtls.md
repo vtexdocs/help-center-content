@@ -59,7 +59,7 @@ O diagrama abaixo representa o fluxo de autenticação mútua utilizando mTLS, n
 Entenda a seguir como o fluxo se aplica à comunicação entre os sistemas da VTEX e o os sistemas do lojista. Em alguns casos, a VTEX atua como cliente, e em outros como servidor.
 
 | Sentido da requisição | Explicação |
-| :---- | :---- |
+| ---- | ---- |
 | **Loja headless ou ERP/WMS → VTEX** | Quando uma requisição parte da loja para a VTEX, ela é roteada para um **proxy mTLS de entrada** localizado dentro da nossa VPC.<br><br>Esse proxy valida o certificado que acompanha a requisição, verificando se foi emitido pela CA da VTEX.<br><br>Somente após essa validação com sucesso a chamada é encaminhada aos microsserviços internos. |
 | **VTEX → Loja headless ou ERP/WMS** | No caso da VTEX enviando uma requisição para a loja, o tráfego passa por um **proxy mTLS de saída** dentro da nossa VPC, que injeta o certificado emitido pela CA do lojista.<br><br>Isso permite que o ambiente do lojista verifique a autenticidade da requisição e aceite apenas conexões legítimas e seguras. |
 

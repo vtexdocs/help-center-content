@@ -17,7 +17,7 @@ subcategoryId: 5yDQmr18K4GgQAeGwq8USa
 
 > ⚠️ This article applies only to the **Notify me** feature in stores that use [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal). For stores using [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), it is necessary to follow the instructions on the [Availability Notify](https://developers.vtex.com/docs/apps/vtex.availability-notify) guide.
 
-To export the data of customers who registered on the availability notification option ([Notify me](/en/docs/tutorials/setting-up-the-notify-me-option)), follow the steps below:
+To export the data of customers who registered for the availability notification option ([Notify me](/en/docs/tutorials/setting-up-the-notify-me-option)), follow the steps below:
 
 1. In the VTEX Admin, go to **Catalog**, or type **Catalog** in the search bar at the top of the page.
 2. Click on **Reports**.

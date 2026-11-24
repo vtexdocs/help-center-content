@@ -1,0 +1,40 @@
+---
+title: 'Contratación de políticas comerciales adicionales'
+id: 61vuFOw4yGh6nwSmkLJL1X
+status: PUBLISHED
+createdAt: 2021-12-06T23:25:42.650Z
+updatedAt: 2025-08-27T17:01:03.348Z
+publishedAt: 2025-08-27T17:01:03.348Z
+firstPublishedAt: 2021-12-06T23:51:25.043Z
+contentType: tutorial
+productTeam: Channels
+author: 5l9ZQjiivHzkEVjafL4O6v
+slugEN: requesting-an-additional-trade-policy
+legacySlug: contratacion-de-politicas-comerciales-adicionales
+locale: es
+subcategoryId: 6J3wx7KM4oysymsWuUACyY
+---
+
+En VTEX, el concepto de [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) existe para definir las condiciones y estrategias de venta en un canal de venta, ya sea el un _ecommerce_ propio, un _marketplace_, una tienda física o una tienda B2B, por ejemplo.
+
+Mediante las políticas comerciales se determinan las configuraciones de catálogo, precios, promociones, pagos, _stock_, logística y segmentación del público en los canales de venta. Sin embargo, no es necesario [crear una política comercial](/es/docs/tutorials/crear-una-politica-comercial) diferente para cada canal. La misma política comercial puede utilizarse en múltiples canales de venta.
+
+Para adquirir una política comercial destinada a un canal de ventas externo al ecosistema VTEX, como un _marketplace_ para el que no existe un [conector nativo](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-conector-nativo-vtex), siga el flujo [Contratar una política comercial](#contratar-una-politica-comercial).
+
+## Agregar una política comercial
+Para agregar una nueva política comercial, accede al Admin de VTEX. Los usuarios con el rol Owner (admin) pueden realizar esta acción directamente desde la interfaz.
+
+Para más información, consulta el artículo [Crear una política comercial](https://help.vtex.com/es/docs/tutorials/crear-una-politica-comercial).
+
+## Reglas de costos
+
+Cada cliente VTEX tiene valores definidos en su contrato para la compra de políticas comerciales adicionales, y estas tienen un costo. Tenga en cuenta que cada cuenta VTEX ya cuenta con una [póliza comercial nativa](/es/docs/tutorials/como-funciona-una-politica-comercial?&amp;utm_source=autocomplete), que no se rige por estas normas de facturación.
+
+Se cobra una tarifa mensual por cada política comercial adicional, independientemente de si se utiliza para la integración con marketplaces certificados, partners, externos o VTEX. 
+
+## Más información
+
+- [Como funciona una Política Comercial](/es/docs/tutorials/como-funciona-una-politica-comercial)
+- [Crear una política comercial](/es/docs/tutorials/crear-una-politica-comercial)
+- [Configurar política comercial para marketplace](/es/docs/tutorials/configurar-politica-comercial-para-marketplace)
+- [Estrategias de marketplace en VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex)

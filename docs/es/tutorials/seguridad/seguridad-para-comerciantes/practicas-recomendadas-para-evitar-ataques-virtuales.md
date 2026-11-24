@@ -28,7 +28,7 @@ VTEX cuenta con varias protecciones contra posibles ataques a las tiendas. Sin e
 
 Los sistemas de antifraude se especializan en analizar compras de tiendas online para identificar transacciones fraudulentas. También analizan los datos de comportamiento de los compradores con el fin de evitar compras sospechosas.
 
-Aprende más sobre [sistemas antifraude](https://help.vtex.com/es/docs/tutorials/que-es-antifraude) y cómo utilizarlos en VTEX.
+Consulta más información sobre los [sistemas antifraude](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#antifraude) y cómo usarlos en VTEX.
 
 > ⚠️ Para mayor seguridad, configura tu antifraude en todos los medios de pago disponibles en la tienda.
 
@@ -36,7 +36,7 @@ Aprende más sobre [sistemas antifraude](https://help.vtex.com/es/docs/tutorials
 
 Para acceder a la documentación, ingrese su [nombre de cuenta](https://help.vtex.com/es/docs/tutorials/que-es-account-name) VTEX a continuación, haz clic en el botón e inicia sesión en el Admin.
 
-<InsertAccountName id="5t6HaGHiHFVrCIvePJKkV6" />
+<InsertAccountName id="62oQBmi7UZlYlgb0Ha1hZ3" />
 
 ## reCAPTCHA v3 en el checkout
 

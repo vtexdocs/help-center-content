@@ -35,7 +35,7 @@ Você verá os seguintes elementos:
   - **Promoções aplicadas ao carrinho**: descontos de frete e outros descontos no nível do carrinho.
 - **Preço riscado:** o preço de tabela original aparece riscado ao lado do preço efetivo (com desconto).
 
-> ℹ️ O Admin de Pedidos exibe o resultado das promoções que já foram aplicadas durante o checkout. Ele não cria nem gerencia promoções. Para configurar promoções, use o módulo [Promoções](https://help.vtex.com/pt/docs/tutorials/how-promotions-work--tutorials_2298).
+> ℹ️ O Admin de Pedidos exibe o resultado das promoções que já foram aplicadas durante o checkout. Ele não cria nem gerencia promoções. Para configurar promoções, use o módulo [Promoções](https://help.vtex.com/pt/docs/tracks/como-funcionam-as-promocoes).
 
 ## Por que fizemos essa mudança?
 
@@ -47,4 +47,4 @@ As principais vantagens da visibilidade completa de como os descontos afetam um 
 
 ## O que precisa ser feito?
 
-Esse recurso já está disponível em beta aberto. Para testá-lo, abra um chamado com o [Suporte VTEX](https://help.vtex.com/pt/docs/tutorials/opening-tickets-to-vtex-support) solicitando acesso.
+Esse recurso já está disponível em beta aberto. Para testá-lo, abra um chamado com o [Suporte VTEX](https://help.vtex.com/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex) solicitando acesso.

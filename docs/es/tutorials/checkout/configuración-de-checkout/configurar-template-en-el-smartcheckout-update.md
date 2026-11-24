@@ -100,7 +100,7 @@ El código HTML completado en el template corresponde a lo que aparecerá en las
 
 De templates disponibles, los únicos que no se pueden cambiar son __vtex-checkout__ y __vtex-orderPlaced__. Estos corresponden al funcionamiento nativo de la plataforma, presentando el contenido principal de las páginas de __checkout__ y __order placed__.
 
-> ⚠️ La plataforma ignorará los Javascripts incluidos directamente en cualquier template del Portal. Es decir, en el momento de renderizar la página, la plataforma la eliminará. Esto se debe a que [SmartCheckout](/es/tutorial/smartcheckout-preenchimento-automatico-de-dados-do-cliente--2Nuu3xAFzdhIzJIldAdtan#) solo acepta scripts originados en Google Tag Manager. Por lo tanto, siempre que sea necesario realizar alguna personalización (o incluso la inserción de etiquetas específicas) a través de javascript, utilice [Google Tag Manager](/es/tutorial/integration-with-google-tag%20-%20gerente--frequentlyAskedQuestions_616#).
+> ⚠️ La plataforma ignorará los Javascripts incluidos directamente en cualquier template del Portal. Es decir, en el momento de renderizar la página, la plataforma la eliminará. Esto se debe a que [SmartCheckout](/es/docs/tutorials/smartcheckout-rellenado-automatico-de-los-datos-del-cliente#) solo acepta scripts originados en Google Tag Manager. Por lo tanto, siempre que sea necesario realizar alguna personalización (o incluso la inserción de etiquetas específicas) a través de javascript, utilice [Google Tag Manager](/es/docs/tutorials/integracion-con-google-tag-manager#).
 
 ### Ejemplos de cómo rellenar templates 
 

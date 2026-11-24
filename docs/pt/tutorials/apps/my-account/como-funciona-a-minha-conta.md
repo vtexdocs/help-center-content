@@ -1,5 +1,5 @@
 ---
-title: 'Como funciona a Minha Conta'
+title: 'Minha Conta'
 id: 2BQ3GiqhqGJTXsWVuio3Xh
 status: PUBLISHED
 createdAt: 2019-04-11T21:14:26.117Z
@@ -13,6 +13,7 @@ slugEN: how-my-account-works
 legacySlug: como-funciona-o-my-account
 locale: pt
 subcategoryId: 1RWR7qSyaREbD5RfgCjdYG
+categoryCover: true
 ---
 
 A página __Minha Conta__ (__My Account__) oferece autonomia aos seus clientes para a gestão de pedidos e dados pessoais em uma única página. Esse recurso facilita a operação do seu negócio, reduzindo custos operacionais com serviços de atendimento ao cliente.
@@ -141,7 +142,7 @@ Contudo, existem limitações que precisam ser consideradas pelas lojas que util
 
 * Se o cartão de crédito salvo na aba **Cartões** estiver com a data de validade expirada, será necessário removê-lo e realizar uma nova compra para salvá-lo, pois devido à autenticação **3DS**, não é possível atualizar e confirmar os dados do cartão sem ter realizado uma transação na loja.
 
-* Em casos de Marketplace, a opção `Salvar cartão` na aba **Cartões** não será possível para casos em que a condição de pagamento relativa ao cartão de crédito esteja associada apenas ao [seller white label](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa?&utm_source=autocomplete#o-que-e-um-seller-white-label). Isso acontece porque a validação do cartão é feita diretamente na conta principal, por meio de uma transação teste, no valor de R$1,50, que logo seguida é reembolsável.
+* Em casos de Marketplace, a opção `Salvar cartão` na aba **Cartões** não será possível para casos em que a condição de pagamento relativa ao cartão de crédito esteja associada apenas ao [seller white label](/pt/docs/tutorials/seller-white-label?&utm_source=autocomplete#o-que-e-um-seller-white-label). Isso acontece porque a validação do cartão é feita diretamente na conta principal, por meio de uma transação teste, no valor de R$1,50, que logo seguida é reembolsável.
 
     Em outras palavras, para que seja possível salvar o cartão, a [condição de pagamento](/pt/docs/tracks/configurar-uma-condicao-de-pagamento) de cartão de crédito precisa estar também na conta principal, neste caso, no Marketplace.
 

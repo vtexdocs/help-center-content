@@ -57,11 +57,11 @@ Esse é um recurso que se adequa às necessidades de negócios atacadistas e hoj
 
 ### Kit de produtos
 
-Na VTEX, todas as lojas contam com o recurso de [kit de produtos](/pt/tutorial/kit-registration), no qual um conjunto de itens pode ser vendido por um determinado preço. 
+Na VTEX, todas as lojas contam com o recurso de [kit de produtos](/pt/docs/tutorials/cadastrar-kit), no qual um conjunto de itens pode ser vendido por um determinado preço. 
 
 > ℹ️ No contexto B2B, o kit de produtos geralmente é citado como “bundle”. Ou seja, os termos “kit de produtos” e “bundle” referem-se à mesma ferramenta.
 
-Para [cadastrar um kit de produtos](/pt/tutorial/cadastrando-kit/), confira a documentação no Help Center.
+Para [cadastrar um kit de produtos](/pt/docs/tutorials/cadastrar-kit), confira a documentação no Help Center.
 
 ### Product Assembly Options ou Product Customizer
 
@@ -93,7 +93,7 @@ Todas as lojas VTEX contam com o [My account](/pt/docs/tutorials/como-funciona-a
 
 Essa ferramenta permite que o cliente acompanhe o status do seu pedido no fluxo do pós-venda, bem como faça algumas operações. Uma delas é a de “Pedir novamente”, na qual é possível repetir um pedido feito previamente.  
 
-![Pedir novamente reorder](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/guias-práticos/facilitar-a-operacao-da-loja-b2b_1.png)
+![Pedir novamente reorder](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/b2b-suite/guias-práticos/facilitar-a-operacao-da-loja-b2b_1.png)
 
 Para saber mais detalhes sobre o My Account, confira o tutorial sobre [como configurar esta funcionalidade](/pt/docs/tutorials/configurar-o-my-account).
 

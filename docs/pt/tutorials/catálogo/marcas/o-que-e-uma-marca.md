@@ -1,5 +1,5 @@
 ---
-title: 'O que é uma Marca?'
+title: 'Marcas'
 id: QU07yhHoaWcEYseEucOQW
 status: PUBLISHED
 createdAt: 2018-01-25T21:48:56.054Z
@@ -13,7 +13,7 @@ slugEN: what-is-a-brand
 legacySlug: o-que-e-uma-marca
 locale: pt
 subcategoryId: fUHfjTEwyOcIQuyeUsIIu
-order: 1
+categoryCover: true
 ---
 
 __A Marca é um dos atributos de um produto__, assim como nome e descrição. 

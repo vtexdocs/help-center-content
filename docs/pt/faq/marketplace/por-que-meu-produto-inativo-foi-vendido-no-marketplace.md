@@ -1,0 +1,23 @@
+---
+title: 'Por que meu produto inativo foi vendido no marketplace?'
+excerpt: "Desativar o SKU na VTEX não o desativa no marketplace. Fale com o marketplace e, em seguida, aceite ou recuse o pedido."
+id: frequentlyAskedQuestions_1763
+status: PUBLISHED
+createdAt: 2017-04-27T22:26:50.444Z
+updatedAt: 2019-12-31T14:24:19.357Z
+publishedAt: 2019-12-31T14:24:19.357Z
+firstPublishedAt: 2017-04-27T23:02:35.791Z
+contentType: frequentlyAskedQuestion
+productTeam: Marketplace
+author: authors_3
+slugEN: why-was-an-inactive-product-sold-on-the-marketplace
+locale: pt
+legacySlug: por-que-meu-produto-inativo-foi-vendido-no-marketplace
+---
+
+Este cenário pode ocorrer pela [impossibilidade de inativação de um item no marketplace](/pt/faq/por-que-meu-produto-nao-inativa-no-marketplace/). Isto porque o processo de inativação não passa pela integração. Ou seja, a inativação só ocorre na VTEX.
+
+Para que o SKU seja inativo no parceiro, é necessário que essa configuração seja realizada no marketplace, entrando em contato diretamente com eles.
+
+Como a compra já foi realizada, é possível aceitá-la, ativando-se o item para a integração do pedido, ou negar a integração.
+

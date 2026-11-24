@@ -32,11 +32,11 @@ To access the page in the VTEX Admin, go to *Promotions > Promotion Alert*. You 
 The table below shows the column descriptions for the promotion list:
 
 | Column | Description | 
-| ------ |:-------------:|
+| ------ |-------------|
 | Name | Promotion alert name. |
 | Alert | Condition set to trigger the alert. |
 | Preemptive Action | Actions that will be performed when the alert is triggered. |
-| Status | Promotion status, which can be: ** Active:** when the alert is active.   **Inactive:** when the alert is inactive.  |
+| Status | Promotion status, which can be: **Active:** when the alert is active.   **Inactive:** when the alert is inactive.  |
 
 The Promotion Alerts page allows you to:
 
@@ -94,4 +94,4 @@ Then, the alert will have been successfully duplicated.
 ## Learn more
 
 - [Promotion Alert: How to create a promotion alert](/en/docs/tutorials/promotion-alerts-how-to-create-an-alert-beta)
-- [How promotions work](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR)
+- [How promotions work](/en/docs/tracks/promotions)

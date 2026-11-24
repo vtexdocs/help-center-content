@@ -74,7 +74,7 @@ Una vez que el proceso de catalogación es finalizado en Netshoes, la integraci�
 
 Una vez que los productos reciben la primera carga de inventario, la actualización se realiza SKU por SKU cada vez que se produce algún cambio de stock en VTEX.
 
-> ⚠️ **Nota:** los datos de inventario enviados a Netshoes quedan registrados en nuestro sistema por sólo **3 meses**.
+> ⚠️ **Nota:**los datos de inventario enviados a Netshoes quedan registrados en nuestro sistema por sólo** 3 meses**.
 
 ## 3 - Precios
 
@@ -141,7 +141,7 @@ En el momento del pedido, Netshoes no consulta el precio del producto y tampoco 
 
 ### 2º - Integrando el pedido
 
-Los pedidos en Netshoes disponen de los propios estatus. Sigue una explicación de ellos comparando con los estatus dentro de VTEX. [Entienda más sobre el status de los pedidos de VTEX aquí.](/es/tutorial/flujo-de-pedido-en-el-oms#flujo-del-pedido-del-seller)
+Los pedidos en Netshoes disponen de los propios estatus. Sigue una explicación de ellos comparando con los estatus dentro de VTEX. [Entienda más sobre el status de los pedidos de VTEX aquí.](/es/docs/tutorials/flujo-y-status-de-pedidos#flujo-del-pedido-del-seller)
 <br />
 
 | Status VTEX | Status Netshoes | Descripción del status Netshoes |
@@ -191,4 +191,4 @@ Al facturar el pedido en VTEX, la integración actualiza el status en Netshoes a
   - `trackingNumber`, `trackingUrl` y `courier`
 
 - Para cambiar el status a __delivered__ será necesario:
-  - `courierStatus`: este es un campo que puede ser populado automáticamente (vía [actualizaciones de rastreo de los propios transportistas](/es/tutorial/quais-transportadoras-disponibilizam-o-rastreio-de-frete)) o manualmente (vía API o interfaz del OMS).
+  - `courierStatus`: este es un campo que puede ser populado automáticamente (vía [actualizaciones de rastreo de los propios transportistas](/es/docs/tutorials/que-transportadoras-ponen-a-disposicion-el-rastreo-de-pedido)) o manualmente (vía API o interfaz del OMS).

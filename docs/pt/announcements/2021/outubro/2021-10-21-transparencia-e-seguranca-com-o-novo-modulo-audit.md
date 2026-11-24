@@ -27,5 +27,5 @@ Devido a esta flexibilidade, o Audit vem com uma aba de Guias mostrando mais exe
 
 ## **Saiba mais**
 
-* [Como encontrar eventos no Audit](/pt/tutorial/como-encontrar-eventos-no-audit)
+* [Como encontrar eventos no Audit](/pt/docs/tutorials/audit)
 * [Eventos disponíveis no Audit](/pt/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ#)

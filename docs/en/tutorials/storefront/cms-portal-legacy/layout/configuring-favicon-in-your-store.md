@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ This tutorial is only applicable to CMS Portal (Legacy) stores. For stores developed using Store Framework, follow the instructions in the **Favicons** section in the guide [Configuring SEO in your Store Framework store](/docs/tutorials/configuring-seo-in-your-store#favicons).
+> ⚠️ This tutorial is only applicable to CMS Portal (Legacy) stores. For stores developed using Store Framework, follow the instructions in the **Favicons** section in the guide [Configuring SEO in your Store Framework store](/en/docs/tutorials/configuring-seo-in-your-store#favicons).
 
 Favicon is a small icon associated with a website, displayed on the browser tab next to the page title, in bookmarks, browsing histories, and other places where the website address appears, such as search results pages.
 
@@ -35,7 +35,7 @@ To configure the favicon in Legacy Portal CMS stores, follow the instructions be
 
 3. Click `Browse for file` to add the image file in the `.ico` format.
 
-    > ⚠️ The file name should follow the pattern ***{storeName}**-favicon.ico*. Replace the variable **{storeName}** with the store name in [Account management](/en/docs/tutorials/account-management).
+    > ⚠️ The file name should follow the pattern `{storeName}-favicon.ico`. Replace `{storeName}` with the store name in [Account management](/en/docs/tutorials/account-management).
 
     ![store-name-favicon](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/configuring-favicon-in-your-store_4.png)
 

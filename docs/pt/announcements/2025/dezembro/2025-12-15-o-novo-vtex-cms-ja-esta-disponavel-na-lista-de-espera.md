@@ -14,18 +14,18 @@ tags:
   - Storefront
 ---
 
-Está aberta a lista de espera para o novo [VTEX CMS](https://help.vtex.com/en/docs/tutorials/cms-overview), um sistema de gerenciamento de conteúdo moderno e escalável, projetado para ajudar os lojistas a criar, colaborar e distribuir conteúdos de storefront de forma mais eficiente.
+Está aberta a lista de espera para o novo [VTEX CMS](https://help.vtex.com/pt/docs/tutorials/cms-visao-geral), um sistema de gerenciamento de conteúdo moderno e escalável, projetado para ajudar os lojistas a criar, colaborar e distribuir conteúdos de storefront de forma mais eficiente.
 
 | ![Todos os conteúdos](https://vtexhelp.vtexassets.com/assets/docs/src/cms-conteudo-pt___0073aa95aa1b4f68a49ffcb635ea66ea.gif) |
-|:---:|
+|---|
 | **Todos os conteúdos:** crie, gerencie e publique todas as suas páginas, layouts, templates e seções globais do storefront a partir de um único dashboard. |
 
 | ![Branches](https://vtexhelp.vtexassets.com/assets/docs/src/cms-branches-pt___dff883f3564a889019d09e2e63be7e6e.gif) |
-|:---:|
+|---|
 | **Branches:** trabalhe em alterações de conteúdo em ambientes isolados e publique-as no storefront apenas quando estiver tudo pronto, sem interromper sua loja em produção. |
 
 | ![Lojas](https://vtexhelp.vtexassets.com/assets/docs/src/cms-lojas-pt___bc5511d01dded18f5ae1acd1bff4569b.gif) |
-|:---:|
+|---|
 | **Lojas:** vincule e gerencie múltiplos storefronts em um só lugar, configurando URLs de pré-visualização, integrações de repositório e configurações de localidade para cada loja. |
 
 ## O que mudou?
@@ -57,4 +57,4 @@ Essas melhorias permitem que as equipes avancem mais rápido, reduzam erros e en
 
 ## O que precisa ser feito?
 
-Para começar a usar o novo CMS, abra um ticket para o [Suporte VTEX](https://help.vtex.com/en/support) solicitando a instalação do VTEX CMS ou uma demonstração dele. Assim que o novo CMS estiver habilitado, sua equipe poderá começar a criar, gerenciar e publicar conteúdo diretamente no Admin VTEX, em **Storefront > Conteúdo**.
+Para começar a usar o novo CMS, abra um ticket para o [Suporte VTEX](https://help.vtex.com/pt/support) solicitando a instalação do VTEX CMS ou uma demonstração dele. Assim que o novo CMS estiver habilitado, sua equipe poderá começar a criar, gerenciar e publicar conteúdo diretamente no Admin VTEX, em **Storefront > Conteúdo**.

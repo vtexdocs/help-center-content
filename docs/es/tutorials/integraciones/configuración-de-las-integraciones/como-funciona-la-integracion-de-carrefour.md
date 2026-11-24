@@ -44,8 +44,8 @@ Para que los productos se muestren en Carrefour, la integración envía los sigu
 | - | Imágenes* (hay límite de 5 imágenes por SKU) |
 | - | Especificaciones |
 
-_Leyenda: _
-`*` Campos obligatorios.<br />
+_Leyenda:_
+`*` Campos obligatorios
 
 > ⚠️ Carrefour no acepta productos con variación (más de uno SKU).
 
@@ -89,7 +89,7 @@ _`Ejemplo 1:` una promoción que ofrece un 10% de descuento para una determinada
 
 _`Ejemplo 2:` En la política comercial utilizada en Carrefour, un SKU tiene un precio de $ 10 y un precio fijo de $ 15. El valor que la integración envía al marketplace es $ 15._
 
-> ⚠️ **Atención:** como la forma de pago se da en el marketplace, las reglas de pago también se determinan por él. A causa de ello, la integración no consigue enviar precios diferenciados de acuerdo con la forma de pago. <br/ > *Ejemplo: si en VTEX está configurada la incidencia de interés para pagos parcelados, el precio enviado seguirá siendo el que fue devuelto por la simulación de fulfillment.*
+> ⚠️ Como la forma de pago se da en el marketplace, las reglas de pago también se determinan por él. A causa de ello, la integración no consigue enviar precios diferenciados de acuerdo con la forma de pago. <br/ > *Ejemplo: si en VTEX está configurada la incidencia de interés para pagos parcelados, el precio enviado seguirá siendo el que fue devuelto por la simulación de fulfillment.*
 
 ## 4. Promociones
 A diferencia de una promoción que se utiliza para el sitio web de su tienda, una promoción para el marketplace sólo descuenta el valor del producto, pero sin indicar que es una promoción. Es decir, el precio enviado ya está modificado y no hay un sello de promoción.
@@ -157,4 +157,4 @@ __1-__ Para cambiar el status a __Shipped__, será necesario:
 `invoiceKey`, `invoiceNumber`, `trackingUrl`, `trackingNumber`, `courier`, `issuanceDate`.
 
 __2-__ Para cambiar el pedido con la información de __entregado al cliente__, será necesario:
-`courierStatus`: ese campo puede ser populado de modo automático (vía [actualizaciones de rastreo de las propias transportadoras](/es/faq/quais-transportadoras-disponibilizam-o-rastreio-de-frete)) o manual, vía API o interfaz del Pedidos (en Gestión de pedidos). Cuando el campo devuelve `finished=true`, la integración envía la información al marketplace. Si el campo devuelve `finished=false`, el pedido no se cambia con la información de envío.
+`courierStatus`: ese campo puede ser populado de modo automático (vía [actualizaciones de rastreo de las propias transportadoras](/es/docs/tutorials/que-transportadoras-ponen-a-disposicion-el-rastreo-de-pedido)) o manual, vía API o interfaz del Pedidos (en Gestión de pedidos). Cuando el campo devuelve `finished=true`, la integración envía la información al marketplace. Si el campo devuelve `finished=false`, el pedido no se cambia con la información de envío.

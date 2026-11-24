@@ -73,7 +73,7 @@ Na parte superior da página **Status dos anúncios**, há uma apresentação do
 
 Na lista de anúncios, existem colunas com as seguintes informações:  
 
-| **Coluna** | **Descrição** |
+| Coluna | Descrição |
 |---|---|
 | **Nome** | Apresenta a imagem do SKU, o título do anúncio no canal de venda e o ID do SKU na VTEX. |
 | **Marketplace** | Canal de venda para onde o anúncio foi enviado. |
@@ -126,7 +126,7 @@ No topo direito da página, existe uma barra de busca com o ícone lupa <i class
 Além disso, é possível filtrar o resultado da busca pelos seguintes critérios:
 
 - **Marketplace:** canal de venda para o qual o anúncio foi enviado.  
-- **Envio:** períodos pré-definidos de *hoje***,** *últimos 7 dias* e *último mês* em que o anúncio foi enviado ao marketplace.  
+- **Envio:** períodos pré-definidos de *hoje*, *últimos 7 dias* e *último mês* em que o anúncio foi enviado ao marketplace.  
 - **Estoque:** quantidade de estoque de um produto:  
 - `Mínimo:` número mínimo de itens em estoque de um produto.  
 - `Máximo:` número máximo de itens em estoque de um produto.  
@@ -145,7 +145,7 @@ Você pode utilizar um único filtro ou combiná-los em uma mesma busca. Por pad
 
 Na aba **Problemas**, a lista de anúncios é apresentada com as seguintes informações em colunas:
 
-| **Coluna** | **Descrição** |
+| Coluna | Descrição |
 |---|---|
 | **Nome** | Apresenta a imagem do SKU, o título do anúncio no canal de venda e o ID do SKU na VTEX. |
 | **Marketplace** | Canal de venda para onde o anúncio foi enviado. |
@@ -207,7 +207,7 @@ Você pode utilizar um único filtro ou combiná-los em uma mesma busca. Por pad
 
 Na aba **Aguardando conclusão,** a lista de anúncios é apresentada com as seguintes informações em colunas:  
 
-| **Coluna** | **Descrição** |
+| Coluna | Descrição |
 |---|---|
 | **Nome** | Apresenta a imagem do SKU, o título do anúncio no canal de venda e o ID do SKU na VTEX. |
 | **Marketplace** | Canal de venda para onde o anúncio foi enviado. |

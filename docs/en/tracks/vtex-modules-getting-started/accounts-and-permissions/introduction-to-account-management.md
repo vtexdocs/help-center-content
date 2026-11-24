@@ -14,7 +14,7 @@ When you start using VTEX, your company receives an **account** that gives acces
 
 ## Access the VTEX Admin
 
-You can access the Admin via browser at the following URL, where `{accountName}` should be replaced by [your account name](https://help.vtex.com/docs/tutorials/what-is-account-name):
+You can access the Admin via browser at the following URL, where `{accountName}` should be replaced by [your account name](https://help.vtex.com/en/docs/tutorials/what-is-account-name):
 
 ```
 {storename}.myvtex.com/admin
@@ -26,7 +26,7 @@ After logging in, you'll have access to your store's exclusive admin dashboard, 
 
 To access **Account settings**, click your profile avatar — indicated by your email initial letter — in the upper right corner of the Admin, and then click **Account settings**.
 
-![Admin v4 account settings menu](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/account-settings-overview_1.jpg)
+![Admin v4 account settings menu](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-admin/account-management/account-settings-overview_1.jpg)
 
 In this section, you'll find the main pages to manage your account:
 
@@ -39,7 +39,7 @@ Page where you can view and manage your VTEX account details, including:
 - Store and multistore management
 - Domain configuration
 
-> ℹ️ See [Account management](https://help.vtex.com/docs/tutorials/account-management) for more details.
+> ℹ️ See [Account management](https://help.vtex.com/en/docs/tutorials/account-management) for more details.
 
 ### Users
 
@@ -50,13 +50,13 @@ Page to create and manage administrative users who have access to your store's A
 - Delete users
 - Export user list
 
-> ℹ️ Learn more in [Managing administrative users](https://help.vtex.com/docs/tutorials/managing-admin-users).
+> ℹ️ Learn more in [Managing administrative users](https://help.vtex.com/en/docs/tutorials/managing-admin-users).
 
 ### User roles
 
 Page to create and manage user roles, which determine which features each user group can view and edit on the platform.
 
-> ℹ️ Learn more in [Roles](https://help.vtex.com/docs/tutorials/roles).
+> ℹ️ Learn more in [Roles](https://help.vtex.com/en/docs/tutorials/roles).
 
 ### Authentication
 
@@ -85,6 +85,6 @@ Now that you know the structure of Account Management, we recommend following th
 
 ## Learn more
 
-- [Account settings - Overview](https://help.vtex.com/docs/tutorials/account-settings-overview)
-- [What is an account name?](https://help.vtex.com/docs/tutorials/what-is-an-account-name)
-- [Sponsor user](https://help.vtex.com/docs/tutorials/what-is-the-sponsor-user)
+- [Account settings - Overview](https://help.vtex.com/en/docs/tutorials/account-settings-overview)
+- [What is an account name?](https://help.vtex.com/en/docs/tutorials/what-is-an-account-name)
+- [Sponsor user](https://help.vtex.com/en/docs/tutorials/what-is-the-sponsor-user)

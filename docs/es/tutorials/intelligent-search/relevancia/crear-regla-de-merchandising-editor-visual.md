@@ -17,7 +17,7 @@ subcategoryId: 32zXHBMygA2dB6TbCjQJej
 
 Para configurar una [regla de merchandising](/es/docs/tutorials/reglas-de-merchandising) de VTEX Intelligent Search utilizando el [Editor visual](/es/docs/tutorials/reglas-de-merchandising#tipos-de-edicao), sigue los pasos a continuación.
 
-1. En el Admin VTEX, accede a **Storefront**, o ingresa **Storefront **en la barra de búsqueda.
+1. En el Admin VTEX, accede a **Storefront**, o ingresa **Storefront** en la barra de búsqueda.
 2. En **Intelligent Search**, haz clic en **Reglas de merchandising**.
 3. Haz clic en el botón `+ Agregar`.
 4. Rellena los siguientes campos:
@@ -67,7 +67,7 @@ El Editor visual de reglas de merchandising de VTEX Intelligent Search permite r
 			<li class="t-body c-on-base mb5 lh-copy">**Fecha de lanzamiento:** fecha de lanzamiento del producto.</li> 
 			<li class="t-body c-on-base mb5 lh-copy">**Promoción:** indica si el producto forma parte o no de una promoción.</li>
 			<li class="t-body c-on-base mb5 lh-copy">**Descuento:** descuento aplicado sobre el producto.</li>
-			<li class="t-body c-on-base mb5 lh-copy">**Variedad de matriz disponible: **representa el porcentaje de SKU disponibles del producto. Por ejemplo, si un producto tiene cinco SKU y solo hay tres disponibles, la variedad de matriz disponible será del 60 %, representada como 0.6 en este campo. Si todos los SKU están disponibles, el valor del campo será 1.</li>
+			<li class="t-body c-on-base mb5 lh-copy">**Variedad de matriz disponible:** representa el porcentaje de SKU disponibles del producto. Por ejemplo, si un producto tiene cinco SKU y solo hay tres disponibles, la variedad de matriz disponible será del 60 %, representada como 0.6 en este campo. Si todos los SKU están disponibles, el valor del campo será 1.</li>
 	   </ul>
     </li>
     <li class="t-body c-on-base mb5 lh-copy">Arrastrar producto anclado a la posición deseada en los resultados de búsqueda. Solo pueden arrastrarse productos que hayan sido anclados (acción **IX** de esta lista).</li>

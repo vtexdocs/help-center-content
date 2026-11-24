@@ -19,8 +19,8 @@ The __Marketplaces and Integrations__ page facilitates the connection and commun
 
 Among the marketplaces available, there are VTEX marketplaces and external marketplaces. Learn more about the difference between each terminology displayed in the Integration Type column.  
 
-| **Integration Type** | **Description** |
-|:---:|:---:|
+| Integration Type | Description |
+|---|---|
 | **VTEX** | These are the profiles of VTEX clients that chose to make their environment available for sellers to sell products. |
 | **External** | Marketplaces that are not VTEX clients and did the integration, whether certified or partner. |  
 
@@ -34,8 +34,8 @@ To access the page, in the VTEX Admin, click __Marketplace > Connections > Marke
 
 The table listing the marketplaces has the following columns:  
 
-| **Column** | **Description** |
-|:---:|:---:|
+| Column | Description |
+|---|---|
 | Marketplace | Name of the marketplace available for integration. The  icon <i class="fas fa-check-circle" style="color: #3c75d7;"></i> will be displayed next to the names of the marketplaces certified by VTEX. |
 | Industry | Indicates in which industry the marketplace operates. |
 | Country | Indicates in which countries that marketplace operates. |
@@ -94,18 +94,18 @@ Once connected to a marketplace, you can edit the connection by following these 
 
 See the list of tutorials available for marketplace integration:  
 
-- [Amazon](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP)  
-- [Mercado Livre](/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq)  
-- [Magazine Luiza](/en/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y)  
-- [Carrefour](/en/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2)  
-- [Centauro](/en/tracks/integracao-com-a-centauro--D8Qnjbr5lfLkUfMRhsfbj)  
-- [Facebook](/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc)  
-- [Google Shopping](/en/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw)  
-- [Google Shopping Ads](/en/tracks/como-fazer-campanhas-atraves-do-google-ads--47kz5PRQPK0IEaqGqiIuA)  
-- [Dafiti](/en/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i)  
-- [Netshoes](/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm)  
-- [Tik Tok](/en/tracks/integracao-com-o-tiktok--1r0yJSO11nrer1YVu3WTFd)  
-- [Zoom](/en/tutorial/integrando-com-zoom--2OoQjigCVOIEWWkgOqwCK6?&utm_source=autocomplete)  
+- [Amazon](/en/docs/tracks/amazon-integration)  
+- [Mercado Livre](/en/docs/tracks/mercado-libre-integration-set-up)  
+- [Magazine Luiza](/en/docs/tracks/magazine-luiza-integration-set-up)  
+- [Carrefour](/en/docs/tracks/carrefour-integration-set-up)  
+- [Centauro](/en/docs/tracks/centauro-integration)  
+- [Facebook](/en/docs/tracks/facebook-integration)  
+- [Google Shopping](/en/docs/tracks/integrating-with-google-shopping)  
+- [Google Shopping Ads](/en/docs/tracks/how-to-campaign-through-google-ads)  
+- [Dafiti](/en/docs/tracks/dafiti-integration-setup)  
+- [Netshoes](/en/docs/tracks/netshoes-integration-set-up)  
+- [Tik Tok](/en/docs/tracks/tiktok-integration)  
+- [Zoom](/en/docs/tutorials/integrating-with-zoom)  
 - [CSU (Opte+)](/en/docs/tutorials/integrating-with-csu-opte-2)  
 - [Kabum](/en/docs/tutorials/kabum-integration)  
 - [MadeiraMadeira](/en/docs/tutorials/integrating-with-madeiramadeira)  
@@ -118,5 +118,5 @@ See the list of tutorials available for marketplace integration:
 - [Enjoei](/en/docs/tutorials/integrating-with-enjoei)  
 - [Farmácias App](/en/docs/tutorials/integrating-with-farmacias-app)    
 - [Shopee](/en/tutorial/integracao-com-a-shopee-beta--5OV9idUY6fHu3P8grnCnqj)  
-- [Wish ](/en/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4) 
+- [Wish ](/en/docs/tracks/wish-integration) 
 
