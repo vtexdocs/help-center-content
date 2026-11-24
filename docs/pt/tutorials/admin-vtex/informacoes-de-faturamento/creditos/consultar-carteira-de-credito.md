@@ -1,14 +1,14 @@
 ---
 title: 'Consultar carteira de crédito'
 createdAt: '2026-10-08T00:00:00.000Z'
-updatedAt: '2026-11-18T00:00:00.000Z'
+updatedAt: '2026-11-24T00:00:00.000Z'
 contentType: tutorial
 productTeam: Billing
 slugEN: checking-credit-wallet
 locale: pt
 ---
 
-Para acessar a carteira de crédito, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito da tela. Em seguida, clique em **Informações de faturamento > Créditos**.
+Para acessar a carteira de crédito, clique no seu avatar — identificado pela inicial do seu email — no canto superior direito da tela. Em seguida, clique em **Informações de faturamento > Créditos**.
 
 > ⚠️ Somente usuários com o perfil de acesso [Finance](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance), [Finance Full Access](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance-full-access) ou com o recurso `View Credits` de [Billing](/pt/docs/tutorials/perfis-de-acesso-predefinidos#billing) vinculado ao perfil podem acessar a página **Créditos** no Admin VTEX.
 
@@ -24,6 +24,8 @@ Na página **Créditos**, você encontra as seguintes informações:
   - **Entradas e saídas**: total de crédito gerado ("entradas") e efetivamente usado para abater cobranças de Master Data ("saídas") no período. Crédito expirado é contabilizado separadamente (coluna **Expirado** do extrato) e não entra nesse número.
   - **Taxa de consumo**: percentual do crédito acumulado que foi consumido no período. Como o crédito não utilizado continua acumulando para os meses seguintes, quanto mais baixo esse percentual, maior a folga do seu saldo em relação ao consumo de Master Data.
 - **Extrato de crédito**: extrato mês a mês com saldo inicial, crédito gerado, valor usado, valor expirado e saldo final. Clique no ícone `>` de um mês para expandir a linha e ver os lançamentos individuais daquele período (data, descrição, valor de crédito e saldo atualizado). Se houve consumo de Master Data no mês, a linha expandida também exibe a seção **Consumo por add-on** no canto inferior esquerdo da tela, com um card por add-on consumido.
+
+No canto superior direito da página, o botão `Transferir crédito` permite transferir parte do saldo para outra empresa do mesmo grupo econômico. Ele só aparece para usuários com a permissão necessária para transferir a partir da empresa atual. Saiba mais em [Transferir crédito entre empresas do mesmo grupo econômico](/pt/docs/tutorials/transferir-credito-entre-empresas-do-mesmo-grupo-economico).
 
 ### Consumo de Master Data
 

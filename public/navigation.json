@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Credit wallet: transfer credit between companies in the same economic group",
+                    "es": "Cartera de crédito: transfiere crédito entre empresas del mismo grupo económico",
+                    "pt": "Carteira de crédito: transfira crédito entre empresas do mesmo grupo econômico"
+                  },
+                  "slug": {
+                    "en": "2026-11-30-credit-wallet-transfer-credit-between-companies-in-the-same-economic-group",
+                    "es": "2026-11-30-cartera-de-credito-transfiere-credito-entre-empresas-del-mismo-grupo-economico",
+                    "pt": "2026-11-30-carteira-de-credito-transfira-credito-entre-empresas-do-mesmo-grupo-economico"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Desk Copilot: suggestions for human representatives in Live Desk",
                     "es": "Desk Copilot: sugerencias para representantes humanos en Live Desk",
                     "pt": "Desk Copilot: sugestões para atendentes humanos no Live Desk"
@@ -17576,12 +17591,27 @@
                       "name": {
                         "en": "Credit wallet",
                         "es": "Cartera de crédito",
-                        "pt": "Carteira de Crédito"
+                        "pt": "Carteira de crédito"
                       },
                       "slug": {
                         "en": "credit-wallet",
                         "es": "cartera-de-credito",
                         "pt": "carteira-de-credito"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How credit transfer between companies works",
+                        "es": "Cómo funciona la transferencia de crédito entre empresas",
+                        "pt": "Como funciona a transferência de crédito entre empresas"
+                      },
+                      "slug": {
+                        "en": "how-credit-transfer-between-companies-works",
+                        "es": "como-funciona-la-transferencia-de-credito-entre-empresas",
+                        "pt": "como-funciona-a-transferencia-de-credito"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -17597,6 +17627,21 @@
                         "en": "checking-credit-wallet",
                         "es": "consultar-cartera-de-credito",
                         "pt": "consultar-carteira-de-credito"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Transferring credit between companies in the same economic group",
+                        "es": "Transferir crédito entre empresas del mismo grupo económico",
+                        "pt": "Transferir crédito entre empresas do mesmo grupo econômico"
+                      },
+                      "slug": {
+                        "en": "transferring-credit-between-companies-in-the-same-economic-group",
+                        "es": "transferir-credito-entre-empresas-del-mismo-grupo-economico",
+                        "pt": "transferir-credito-entre-empresas-do-mesmo-grupo-economico"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -48837,6 +48882,21 @@
                 "en": "delivery-method-selector-does-not-appear-in-some-scenarios",
                 "es": "el-selector-de-metodo-de-entrega-no-aparece-en-algunos-escenarios",
                 "pt": "o-seletor-do-metodo-de-entrega-nao-aparece-em-alguns-cenarios"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Tax Service getting different values from Marketplace and Fullfilment when a More for Less promotion is used.",
+                "es": "El servicio de impuestos obtiene valores diferentes de Marketplace y Fulfillment cuando se utiliza una promoción de \"Más por menos\".",
+                "pt": "O Serviço de Impostos obtém valores diferentes do Marketplace e do Fulfillment quando uma promoção \"Mais por Menos\" é utilizada."
+              },
+              "slug": {
+                "en": "tax-service-getting-different-values-from-marketplace-and-fullfilment-when-a-more-for-less-promotion-is-used",
+                "es": "el-servicio-de-impuestos-obtiene-valores-diferentes-de-marketplace-y-fulfillment-cuando-se-utiliza-una-promocion-de-mas-por-menos",
+                "pt": "o-servico-de-impostos-obtem-valores-diferentes-do-marketplace-e-do-fulfillment-quando-uma-promocao-mais-por-menos-e-utilizada"
               },
               "origin": "",
               "type": "markdown",

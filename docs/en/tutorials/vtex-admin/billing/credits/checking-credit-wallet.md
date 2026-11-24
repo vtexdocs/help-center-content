@@ -1,7 +1,7 @@
 ---
 title: 'Checking credit wallet'
 createdAt: '2026-10-08T00:00:00.000Z'
-updatedAt: '2026-11-18T00:00:00.000Z'
+updatedAt: '2026-11-24T00:00:00.000Z'
 contentType: tutorial
 productTeam: Billing
 slugEN: checking-credit-wallet
@@ -25,6 +25,8 @@ On the **Credits** page, you'll find the following information:
   - **Inflow and outflow**: Total credit generated ("inflow") and actually used to offset Master Data charges ("outflow") in the period. Expired credit is accounted for separately (in the **Expired** column of the statement) and isn't included in this number.
   - **Consumption rate**: Percentage of accumulated credit that was consumed in the period. Since unused credit continues to accumulate over the following months, the lower this percentage is, the greater your balance cushion relative to Master Data consumption.
 - **Credit statement**: Month-by-month statement with opening balance, credit generated, amount used, amount expired, and closing balance. Click the `>` icon next to a month to expand the row and view its individual entries, including the date, description, credit amount, and updated balance. If there was Master Data consumption in the month, the expanded row also displays the **Consumption by add-on** section in the lower-left corner of the screen, with one card per consumed add-on.
+
+In the top right corner of the page, the `Transfer credit` button lets you transfer part of the balance to another company in the same economic group. It only appears if you have the permission required to transfer from the current company. Learn more in [Transferring credit between companies in the same economic group](/en/docs/tutorials/transferring-credit-between-companies-in-the-same-economic-group).
 
 ### Master Data consumption
 

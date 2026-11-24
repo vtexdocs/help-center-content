@@ -1,7 +1,7 @@
 ---
 title: 'Consultar cartera de crédito'
 createdAt: '2026-10-08T00:00:00.000Z'
-updatedAt: '2026-11-18T00:00:00.000Z'
+updatedAt: '2026-11-24T00:00:00.000Z'
 contentType: tutorial
 productTeam: Billing
 slugEN: checking-credit-wallet
@@ -25,6 +25,8 @@ En la página **Créditos** puedes consultar la siguiente información:
   - **Entradas y salidas**: el crédito generado ("entradas") y el crédito usado para descontar el cobro de Master Data ("salidas") en el periodo. El crédito vencido se contabiliza por separado (columna **Vencido** del estado de cuenta) y no se incluye en este número.
   - **Tasa de consumo**: porcentaje del crédito acumulado consumido en el periodo. Como el crédito no utilizado continúa acumulándose para los meses siguientes, cuanto más bajo sea este porcentaje mayor será el margen de tu saldo con relación al consumo de Master Data.
 - **Estado de cuenta de créditos**: estado de cuenta mes a mes con saldo inicial, crédito generado, valor usado, valor vencido y saldo final. Haz clic en el ícono `>` de un mes para expandir la fila y ver los movimientos individuales de ese periodo (fecha, descripción, valor de crédito y saldo actualizado). Si hubo consumo de Master Data en el mes, la fila expandida también muestra la sección **Consumo por add-on** en la esquina inferior izquierda de la pantalla, con una tarjeta por cada add-on con consumo.
+
+En la esquina superior derecha de la página, el botón `Transferir crédito` te permite transferir parte del saldo a otra empresa del mismo grupo económico. Solo aparece si tienes el permiso necesario para transferir desde la empresa actual. Obtén más información en [Transferir crédito entre empresas del mismo grupo económico](/es/docs/tutorials/transferir-credito-entre-empresas-del-mismo-grupo-economico).
 
 ### Consumo de Master Data
 
