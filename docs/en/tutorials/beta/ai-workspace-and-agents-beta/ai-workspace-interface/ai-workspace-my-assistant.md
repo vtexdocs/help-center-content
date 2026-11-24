@@ -1,7 +1,7 @@
 ---
 title: 'AI Workspace - My assistant'
 createdAt: 2026-11-24T12:00:00.000Z
-updatedAt: 2026-11-24T12:00:00.000Z
+updatedAt: 2026-12-07T12:00:00.000Z
 contentType: tutorial
 productTeam: AI Workspace
 slugEN: ai-workspace-my-assistant
