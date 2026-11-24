@@ -31,7 +31,7 @@ Before configuring the display of the pay-in-full price, create or verify the pr
 - The sales channels.
 - The scope of eligible products, such as SKUs, collections, or other promotion criteria.
 
-Learn more in [Creating promotions](https://help.vtex.com/docs/tutorials/creating-promotions).
+Learn more in [Creating promotions](https://help.vtex.com/en/docs/tutorials/creating-promotions).
 
 ## Instructions
 

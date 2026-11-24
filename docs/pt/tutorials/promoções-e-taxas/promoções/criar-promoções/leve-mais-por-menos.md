@@ -117,7 +117,7 @@ Para adicionar uma condição para a promoção, siga as instruções abaixo:
     - **Criar cupom a partir dos parâmetros UTM acima:** gere um cupom com base nos parâmetros UTM inseridos nos campos `UTM_source` e `UTM_campaign`.
     - **Ver cupons vinculados:** permite visualizar os cupons que já foram associados aos parâmetros UTM definidos.
 - **Preço de lista:** permite restringir a promoção com base na presença ou ausência de preço de lista nos produtos selecionados. Escolha uma das opções abaixo:
-    - **Não têm preço de lista definido:** aplica a promoção apenas para itens em que os valores "de" e "por" são iguais, indicando que não há [preço de lista](/pt/tutorial/precos-v2) configurado. 
+    - **Não têm preço de lista definido:** aplica a promoção apenas para itens em que os valores "de" e "por" são iguais, indicando que não há [preço de lista](/pt/docs/tutorials/precos) configurado. 
     - **Têm preço de lista definido:** aplica a promoção apenas para itens em que os valores "de" e "por" são diferentes, indicando a existência de um preço de lista.
 
 ## Configurar restrições para o uso da promoção

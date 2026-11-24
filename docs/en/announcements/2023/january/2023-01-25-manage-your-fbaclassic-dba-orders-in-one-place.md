@@ -23,7 +23,7 @@ Before this feature was released, the VTEX–Amazon integration could not receiv
 
 Now, sellers using FBA Classic can perform the following actions in the VTEX Admin:
 
--	Configure new products in FBA Classic via [product specification](/en/tutorial/importacao-de-pedidos-amazon-fba-dba--2MJZgBen3hpK4xkXqcv8TO?&utm_source=autocomplete#1-criar-especificacao-de-produto).
+-	Configure new products in FBA Classic via [product specification](/en/docs/tutorials/importing-amazon-classic-fba-orders?&utm_source=autocomplete#1-criar-especificacao-de-produto).
 -	Track order progress.  
 
 Sellers using DBA have access to the following features:
@@ -42,6 +42,6 @@ We have improved the integration with Amazon to allow VTEX sellers to:
 
 ## What needs to be done?
 
-Every seller using the [native](/en/tutorial/integrando-com-marketplace/) VTEX–Amazon [integration](/en/tutorial/integrando-com-marketplace/) can benefit from this improvement with no additional cost associated with VTEX. To enable the VTEX Admin feature, you have to register and configure one of the options in Amazon [Seller Central](https://sellercentral.amazon.com/). Then follow the instructions on the [FBA Classic or DBA Order Import](/en/tutorial/importacao-de-pedidos-amazon-fba-dba) page.
+Every seller using the [native](/en/docs/tutorials/marketplace-strategies-at-vtex) VTEX–Amazon [integration](/en/docs/tutorials/marketplace-strategies-at-vtex) can benefit from this improvement with no additional cost associated with VTEX. To enable the VTEX Admin feature, you have to register and configure one of the options in Amazon [Seller Central](https://sellercentral.amazon.com/). Then follow the instructions on the [FBA Classic or DBA Order Import](/en/tutorial/importacao-de-pedidos-amazon-fba-dba) page.
 
 > ℹ️ The DBA order import feature is available for VTEX stores in Brazil.

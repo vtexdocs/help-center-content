@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-CyberSource is a company that offers several solutions to help you manage your store's payments. These include a [gateway](/en/docs/tutorials/what-is-a-payment-gateway) and an [antifraud](/en/docs/tutorials/what-is-anti-fraud) system, both with integrations available at VTEX.
+Cybersource is a company that offers several solutions to help manage payments in your store. These include a [gateway](/en/docs/tutorials/financial-agents-in-the-payment-flow#gateway) and an [anti-fraud solution](/en/docs/tutorials/financial-agents-in-the-payment-flow#anti-fraud-solution), both of which have integrations available on VTEX.
 
 If you are looking for more details about __gateway__ CyberSource, read [this Help article](/en/docs/tutorials/setting-up-cybersource-gateway). To configure CyberSource __antifraude__, follow the steps below:
 
@@ -28,7 +28,7 @@ If you are looking for more details about __gateway__ CyberSource, read [this He
 3. Type __Cybersource__ in the search bar and click on the provider's name.
 4. If you wish to modify the identification name to be displayed for the Cybersource anti-fraud on the VTEX Admin screen, enter the information in the __Name__ field in __Basic Information__.
 5. Set the `https://{store}.vtexpayments.com.br/api/pub/cybersource/antifraud/notification` URL on the CyberSource website, replacing `{store}` with your store name. This will enable notifications when the status of an order changes.
-6. Set up the device fingerprint in Google Tag Manager using [this Help article](/en/faq/how-to-set-up-the-device-fingerprint-for-braspagcybersource).
+6. Set up the device fingerprint in Google Tag Manager using [this Help article](/en/docs/tutorials/how-to-set-up-the-device-fingerprint-for-braspag).
 7. Fill in the __Merchant ID on Cybersource__, __Your CyberSource username__, and __Your Cybersource password__ fields according to data provided by CyberSource.
 8. In __Your company's name__, enter the business name of your store.
 9. In __Your company's registration number__, inform the tax id number of your store.

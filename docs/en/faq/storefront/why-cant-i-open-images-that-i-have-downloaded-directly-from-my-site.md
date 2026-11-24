@@ -15,7 +15,7 @@ locale: en
 legacySlug: why-cant-i-open-images-that-i-have-downloaded-directly-from-my-site
 ---
 
-Due to the [compacting of images to WebP](/en/tutorial/how-the-automatic-compacting-of-images-works), there may be difficulty in opening files saved directly from the store. This happens because the operating systems (Windows, Mac, Linux) are not natively compatible with this format.
+Due to the [compacting of images to WebP](/en/docs/tutorials/image-compression), there may be difficulty in opening files saved directly from the store. This happens because the operating systems (Windows, Mac, Linux) are not natively compatible with this format.
 
 Even if the name of the file is something like "banner.jpg", this does not mean that it is an image in JPG format, since the browser does not use the file extension to indicate format, but rather its content.
 

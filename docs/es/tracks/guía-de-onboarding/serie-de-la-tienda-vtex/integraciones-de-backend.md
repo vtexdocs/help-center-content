@@ -230,9 +230,9 @@ Para más información sobre la importación de stock al back office, consulta [
 
  ### Datos de clientes
 
-La importación de datos de clientes permite integrar los datos de los clientes de otros sistemas, como aplicaciones de CRM, con VTEX. De forma predeterminada, VTEX almacena los datos de los clientes en [Master Data V1](/es/docs/tutorials/master-data).
+La importación de datos de clientes permite integrar los datos de los clientes de otros sistemas, como aplicaciones de CRM, con VTEX. De forma predeterminada, VTEX almacena los datos de los clientes en [Master Data V1](/es/docs/tutorials/master-data-es).
 
-Los datos de Master Data se organizan en [entidades de datos](/es/docs/tutorials/master-data#entidades-de-dados) análogas a tablas en otros sistemas de bases de datos, cuyos [documentos](/es/docs/tutorials/master-data#documentos) son el equivalente de filas o registros. Los datos de perfil de los clientes se almacenan en la entidad `CL` y sus direcciones en la entidad `AD`.
+Los datos de Master Data se organizan en [entidades de datos](/es/docs/tutorials/master-data-es#entidades-de-dados) análogas a tablas en otros sistemas de bases de datos, cuyos [documentos](/es/docs/tutorials/master-data-es#documentos) son el equivalente de filas o registros. Los datos de perfil de los clientes se almacenan en la entidad `CL` y sus direcciones en la entidad `AD`.
 
 Los pasos para importar los datos de clientes son:
 
@@ -312,7 +312,7 @@ Los sistemas de [Pago](/es/docs/tracks/modulos-de-vtex-ii#pagos) de VTEX ofrecen
 Se pueden agregar medios de pago en una tienda VTEX de dos maneras:
 
 - **Proveedor de pago con soporte nativo:** si VTEX ofrece integración con el proveedor de pago deseado, es necesario tener un contrato con el mismo y configurar las opciones de pago a través del Admin VTEX. Consulta los detalles de configuración en [Pagos](/es/docs/tracks/modulos-de-vtex-ii#pagos) y los proveedores de pago que tienen soporte en VTEX en la [Lista de proveedores de pago por país](/es/docs/tutorials/lista-de-proveedores-de-pago-por-pais).
-- **Proveedor de pago personalizado:** Si el proveedor de pago deseado no tiene una integración con VTEX, es necesario implementar un proveedor de pago independiente utilizando el [Payment Provider Protocol](/es/docs/tutorials/payment-provider-protocol) con los [endpoints de la API](https://developers.vtex.com/docs/api-reference/payment-provider-protocol) para conectarse con nuestro [gateway de pagos](/es/docs/tutorials/que-es-un-gateway-de-pagos). El proveedor puede implementarlo una [agencia partner de VTEX](https://vtex.com/es-mx/partners//) (el Partner Portal está disponible solamente en portugués). Para disponibilizar el proveedor en VTEX, es necesario probarlo y pasar el [proceso de homologación](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-homologation).
+- **Proveedor de pagos personalizado:** si el proveedor de pagos que deseas no tiene una integración con VTEX, tienes que crear una integración de pago con el [Payment Provider Protocol](/es/docs/tutorials/payment-provider-protocol) que incluya los [endpoints de la API](https://developers.vtex.com/docs/api-reference/payment-provider-protocol) para conectarte con nuestro [gateway de pagos](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#gateway). El conector puede implementarlo una [agencia partner de VTEX](https://www.vtex.com/es-mx/partners). Para que el proveedor esté disponible en VTEX es necesario probar la integración creada y pasar por el [proceso de homologación](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-homologation).
 
 Para más información sobre cómo integrar un nuevo proveedor de pago, consulta el artículo [Integrating a new payment provider on VTEX](https://developers.vtex.com/docs/guides/integrating-a-new-payment-provider-on-vtex).
 
@@ -331,7 +331,7 @@ Un antifraude es un sistema especializado en analizar las compras realizadas en 
 
 Se puede agregar un sistema antifraude a los pagos de una tienda VTEX de dos maneras:
 
-- **Sistema antifraude con soporte nativo:** si el sistema antifraude deseado ya tiene una integración con VTEX, es necesario tener un contrato con una de las empresas partner y realizar la configuración en el Admin VTEX. Para más información, consulta los artículos [Configurar el antifraude](/es/docs/tutorials/como-configurar-antifraude) y [¿Qué es antifraude?](/es/docs/tutorials/que-es-antifraude).
+- **Sistema de antifraude con soporte nativo:** si ya existe una integración con el sistema de antifraude que deseas en VTEX, debes tener un contrato con una de las empresas partners y hacer la configuración en el Admin VTEX. Más información en los artículos [Configurar el antifraude](/es/docs/tutorials/como-configurar-antifraude) y [¿Qué es el antifraude?](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago#antifraude).
 - **Sistema antifraude personalizado:** si el sistema antifraude deseado no tiene una integración con VTEX, es necesario implementar una integración independiente utilizando el [Antifraud Provider Protocol](https://developers.vtex.com/docs/guides/how-the-integration-protocol-between-vtex-and-antifraud-companies-works) con los endpoints de la [Antifraud Provider API](https://developers.vtex.com/docs/api-reference/antifraud-provider-protocol).
 
 ## Extensiones y aplicaciones

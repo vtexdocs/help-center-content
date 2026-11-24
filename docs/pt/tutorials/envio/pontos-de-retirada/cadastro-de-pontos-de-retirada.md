@@ -59,6 +59,8 @@ Selecione <i class="fas fa-toggle-on"></i> para que o ponto de retirada fique at
 * **Instruções de retirada:** insira informações que ajudarão seu cliente na retirada dos pacotes no ponto de retirada. Como, por exemplo, em qual portão a retirada dos itens é feita, ou quais documentos o cliente deve apresentar na retirada dos pedidos. Essas instruções serão exibidas no checkout, no momento da escolha do ponto de retirada. 
 * **Tags:** adicione _tags_ para agrupar pontos de retirada. Estas _tags_ são úteis no momento de relacionar as [políticas de envio](/pt/docs/tutorials/politica-de-envio) com os pontos de retirada.  
 
+> ℹ️ O raio de busca de retirada usado no Checkout e pelo filtro **Retirada** da Delivery Promise não é um campo do ponto de retirada. Trata-se do raio de retirada do Checkout, configurável pelo lojista até o máximo de 50 km (padrão: 50 km). Saiba mais em [Como funcionam pontos de retirada](/pt/docs/tutorials/pontos-de-retirada#como-funcionam-pontos-de-retirada).
+
 #### Horário de funcionamento
 
 * **Dias da semana:**

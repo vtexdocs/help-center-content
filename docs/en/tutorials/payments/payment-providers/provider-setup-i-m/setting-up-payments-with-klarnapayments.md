@@ -34,7 +34,7 @@ To configure KlarnaPayments, follow the steps below:
 3. Click **Klarna** option.
 4. On the configuration page, activate the condition by clicking **Status**.
 5. If you want to use an anti-fraud system, check the **Use anti-fraud solution** option.
-6. If necessary, you can also [configure special payment conditions](https://help.vtex.com/docs/tutorials/special-conditions).
+6. If necessary, you can also [configure special payment conditions](https://help.vtex.com/en/docs/tutorials/special-conditions).
 7. Click `Save`.
 
 After following the indicated steps, KlarnaPayments connector may take up to 10 minutes to appear at your store's checkout as a payment option.

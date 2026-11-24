@@ -1,9 +1,9 @@
 ---
-title: 'Noções básicas sobre Integrações'
+title: 'Integrações'
 id: 5x9gjiQTdD6lrQLJziRozj
 status: PUBLISHED
 createdAt: 2025-09-15T15:52:46.844Z
-updatedAt: 2025-10-03T14:20:32.177Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:32.177Z
 firstPublishedAt: 2025-10-03T14:20:32.177Z
 contentType: tutorial
@@ -13,18 +13,17 @@ slugEN: the-basics-of-integrations
 legacySlug: nocoes-basicas-sobre-integracoes
 locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
+categoryCover: true
 ---
-
-## Integração via API
 
 Integração é a ação realizar busca, modificar ou enviar informações para um serviço. As integrações se subdividem em duas:
 
-- **Nativa**: O VTEX CX Platforme integrar com APIs que tem formato REST/Json através de um **cartão Webhook** ou através de uma aplicação pré-existente no menu de Integrações.
-- **Não-nativa**: Fazemos integrações não nativas para API's que não são REST/Json. Porém, nesse caso, devemos analisar o esforço e escopo da solicitação, visto que usamos serviços externos para consumir e modelar a API, por exemplo [Back4app](https://www.back4app.com/#) e [Pipedream](https://pipedream.com/).
+- **Nativa**: O VTEX CX Platform consegue integrar com APIs que tem formato REST/Json através de um **cartão Webhook** ou através de uma aplicação pré-existente no menu de Integrações.
+- **Não-nativa**: Fazemos integrações não nativas para APIs que não são REST/Json. Porém, nesse caso, devemos analisar o esforço e escopo da solicitação, visto que usamos serviços externos para consumir e modelar a API, por exemplo [Back4app](https://www.back4app.com/#) e [Pipedream](https://pipedream.com/).
 
 ## O que é API?
 
-É uma forma de comunicação entre sistemas, em que um deles fornece informações e serviços que podem ser utilizados pelo outro (VTEX CX Platformlmente uma API possui:
+É uma forma de comunicação entre sistemas, em que um deles fornece informações e serviços que podem ser utilizados pelo outro (VTEX CX Platform). Normalmente uma API possui:
 
 - URL
 - Documentação explicando como ela pode ser utilizada
@@ -33,7 +32,7 @@ Integração é a ação realizar busca, modificar ou enviar informações para 
 
 ## O que é Webhook?
 
-Webhook é uma tecnologia utilizada para permitir a comunicação entre duas aplicações em tempo real. No VTEX CX Platform buscar e até mesmo atualizar informações em outros sistemas através do cartão **Chamar Webhook**. Isso quer dizer que, para consumir uma API, você irá utilizar um cartão Webhook:
+Webhook é uma tecnologia utilizada para permitir a comunicação entre duas aplicações em tempo real. No VTEX CX Platform podemos buscar e até mesmo atualizar informações em outros sistemas através do cartão **Chamar Webhook**. Isso quer dizer que, para consumir uma API, você irá utilizar um cartão Webhook:
 
 Para passar informações para um sistema usando API você deve usar o corpo da requisição (body) ou passar diretamente na URL (query). A documentação da API vai dizer como deve ser feito.
 
@@ -41,7 +40,7 @@ Para passar informações para um sistema usando API você deve usar o corpo da 
 
 ## Como saber se a API pode ser integrada nativamente?
 
-A documentação da API funciona como um manual que nos ajuda a entender como integrar. Nela será informado se as requisições são na arquitetura nativa do VTEX CX Platformson.
+A documentação da API funciona como um manual que nos ajuda a entender como integrar. Nela será informado se as requisições são na arquitetura nativa do VTEX CX Platform: REST/Json.
 
 > Se a arquitetura da sua API não for REST/Json, ainda é possível fazer a integração, porém será necessário modelar essa API.
 
@@ -49,4 +48,4 @@ A documentação da API funciona como um manual que nos ajuda a entender como in
 
 Para visualizar o retorno da API, acesse o log de Webhooks em **Fluxo de automação**:
 
-Tem mais dúvidas sobre API? Joga na nossa [comunidade](https://comunidade.weni.ai/) 😉 Temos uma equipe especialista para tirar suas dúvidas.
+Em caso de dúvidas sobre API, acesse a [comunidade](https://comunidade.weni.ai/).

@@ -12,7 +12,7 @@ tags:
   - Master Data
 ---
 
-A desta data, lojistas VTEX passam a contar com o dashboard **Master Data usage** no Admin VTEX. A nova tela ajuda a acompanhar o volume de documentos armazenados em [entidades personalizadas](/pt/docs/tutorials/master-data#entidades-de-dados-personalizadas) do [Master Data](/pt/docs/tutorials/master-data) antes de decisões sobre armazenamento ou limpeza de dados.
+A desta data, lojistas VTEX passam a contar com o dashboard **Master Data usage** no Admin VTEX. A nova tela ajuda a acompanhar o volume de documentos armazenados em [entidades personalizadas](/pt/docs/tutorials/master-data-pt#entidades-de-dados-personalizadas) do [Master Data](/pt/docs/tutorials/master-data-pt) antes de decisões sobre armazenamento ou limpeza de dados.
 
 ## O que mudou?
 
@@ -22,7 +22,7 @@ O dashboard centraliza informações sobre o uso de entidades personalizadas do 
 * **Last updated**: data da última atualização dos dados exibidos. As informações são atualizadas semanalmente.
 * **Entities**: tabela listando cada entidade personalizada e sua quantidade de documentos em ordem decrescente de volume, com as de maior quantidade no topo.
 
-O dashboard considera apenas entidades personalizadas e não inclui as [entidades nativas do Master Data](/pt/docs/tutorials/master-data#entidades-nativas-do-master-data), usadas por funcionalidades padrão da plataforma.
+O dashboard considera apenas entidades personalizadas e não inclui as [entidades nativas do Master Data](/pt/docs/tutorials/master-data-pt#entidades-nativas-do-master-data), usadas por funcionalidades padrão da plataforma.
 
 ## O que precisa ser feito?
 
@@ -31,4 +31,4 @@ Nenhuma ação é necessária. O recurso já está disponível no Admin VTEX par
 ## Saiba mais
 
 * [Consultar o uso do Master Data no Admin VTEX](/pt/docs/tutorials/consultar-o-uso-do-master-data-no-admin-vtex)
-* [Master Data](/pt/docs/tutorials/master-data)
+* [Master Data](/pt/docs/tutorials/master-data-pt)

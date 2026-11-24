@@ -8,11 +8,11 @@ slugEN: vtex-ads-metrics-and-attribution
 locale: en
 ---
 
-[VTEX Ads](/docs/tracks/retail-media) provides a set of metrics to help advertisers, publishers, and marketing agencies measure campaign performance and return on advertising investment. Metrics are available across all VTEX Ads dashboards as **metric cards** at the top of each screen and as **columns** in the corresponding tables.
+[VTEX Ads](/en/docs/tracks/retail-media) provides a set of metrics to help advertisers, publishers, and marketing agencies measure campaign performance and return on advertising investment. Metrics are available across all VTEX Ads dashboards as **metric cards** at the top of each screen and as **columns** in the corresponding tables.
 
 This article describes the available metrics and the attribution model that determines how the platform credits conversions to ads.
 
-> ℹ️ For broader retail media terminology, see the [Retail Media Glossary](https://help.vtex.com/docs/tracks/retail-media-glossary).
+> ℹ️ For broader retail media terminology, see the [Retail Media Glossary](https://help.vtex.com/en/docs/tracks/retail-media-glossary).
 
 ## Performance metrics
 

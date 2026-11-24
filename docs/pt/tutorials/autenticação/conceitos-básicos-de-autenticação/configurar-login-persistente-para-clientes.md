@@ -23,7 +23,7 @@ Alguns pontos importantes sobre o funcionamento dessa configuração:
 * Ao habilitar o login persistente pela primeira vez, a duração padrão é de **1 dia**. Você pode alterá-la a qualquer momento.
 * Alterações na configuração (incluindo desabilitar o login persistente) valem apenas para os novos logins realizados após a mudança. Sessões já ativas continuam se comportando como estavam antes da alteração.
 * Se você desabilitar o login persistente e depois o habilitar novamente, a última duração salva é restaurada (a configuração não volta automaticamente para 1 dia).
-* Em lojas com [Store Framework](https://developers.vtex.com/docs/guides/store-framework) ou [CMS Portal (Legado)](https://help.vtex.com/pt/docs/tracks/cms-portal-legado), a renovação do acesso do cliente é automática. Em lojas headless, é necessário implementar a renovação do token por conta própria, exceto quando o storefront usa o [FastStore SDK](https://developers.vtex.com/docs/guides/faststore/sdk-overview). Para implementar a renovação de sessão em uma loja headless, consulte o guia para desenvolvedores [Refresh token flow for headless implementations](https://developers.vtex.com/docs/guides/refresh-token-flow-for-headless-implementations). Se a sua loja usa FastStore, consulte também o guia [Enabling refresh token on FastStore](https://developers.vtex.com/docs/guides/faststore/session-enabling-refresh-token).
+* A forma como o acesso do cliente é renovado depende da tecnologia do storefront. Em lojas headless e FastStore, são necessárias etapas adicionais, descritas em [Etapas adicionais por tipo de loja](#etapas-adicionais-por-tipo-de-loja).
 
 ## Pré-requisitos
 
@@ -40,6 +40,16 @@ Para começar a usar o login persistente, habilite a funcionalidade no card corr
     ![Card Login persistente na aba Loja virtual](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autenticação/conceitos-básicos-de-autenticação/configurar-login-persistente-para-clientes_1.png)
 
 Ao habilitar, uma notificação confirma a ativação e informa a duração que passa a valer para os novos logins (1 dia, no primeiro uso, ou a última duração salva, em uma reativação).
+
+## Etapas adicionais por tipo de loja
+
+Depois de habilitar o login persistente, confira se a sua loja precisa de alguma etapa adicional. O que muda é a forma como o acesso do cliente é renovado, que depende da tecnologia do storefront.
+
+Em lojas com [Store Framework](https://developers.vtex.com/docs/guides/store-framework) ou [CMS Portal (Legado)](https://help.vtex.com/pt/docs/tracks/cms-portal-legado), basta habilitar o login persistente no Admin VTEX, pois a renovação do acesso do cliente na loja é automática.
+
+Em lojas headless, além de habilitar o login persistente no Admin VTEX, é necessário implementar a renovação do acesso do cliente por meio das APIs do VTEX ID. O guia para desenvolvedores [Refresh token flow for headless implementations](https://developers.vtex.com/docs/guides/refresh-token-flow-for-headless-implementations) explica como fazer essa implementação.
+
+Se a sua loja usa FastStore, além de habilitar o login persistente no Admin VTEX, é necessário habilitar o refresh token no projeto, conforme o guia [Enabling refresh token on FastStore](https://developers.vtex.com/docs/guides/faststore/session-enabling-refresh-token).
 
 ## Configurar a duração do login persistente
 
@@ -71,5 +81,6 @@ A partir desse momento, os novos logins de clientes deixam de receber o token de
 ## Saiba mais
 
 - [Refresh token flow for headless implementations](https://developers.vtex.com/docs/guides/refresh-token-flow-for-headless-implementations)
+- [Enabling refresh token on FastStore](https://developers.vtex.com/docs/guides/faststore/session-enabling-refresh-token)
 - [Autenticação](https://help.vtex.com/pt/docs/tutorials/autenticacao)
 

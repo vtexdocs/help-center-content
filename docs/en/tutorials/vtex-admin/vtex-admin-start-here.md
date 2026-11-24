@@ -41,7 +41,7 @@ Check out our articles for an overview of each menu in your VTEX Admin to learn 
 
 - [Dashboards](/en/docs/tutorials/dashboards-overview)   
 - [Orders](/en/docs/tutorials/orders-overview)
-- [Products](/en/tutorial/visao-geral-catalogo--FFrumKPYFpvIWKRXfhQYp)   
+- [Products](/en/docs/tutorials/catalog-overview)   
 - [Promotions](/en/docs/tutorials/promotions-overview)  
 - [Storefront](/en/docs/tutorials/storefront-overview)  
 - [Shipping](/en/docs/tutorials/shipping-overview)  
@@ -49,7 +49,7 @@ Check out our articles for an overview of each menu in your VTEX Admin to learn 
 - [Apps](/en/docs/tutorials/apps-overview)  
 - [Store Settings](/en/docs/tutorials/store-settings-overview)  
 - [Account Settings](/en/docs/tutorials/account-settings-overview)  
-- [User Settings](/tutorial/visao-geral-configuracoes-de-usuario--3Qsy4ce1FrWKZPoMeEQY34#)  
+- [User Settings](/en/docs/tutorials/user-settings-overview#)  
 - [Billing](/en/tutorial/billing-module-overview--6UxfCl4fw4GmyQwoUuIcQs?&utm_source=autocomplete)  
 
 > ℹ️ You can also use the search bar at the top of the VTEX Admin to find specific pages from the side menu.
@@ -96,7 +96,7 @@ Feedback type (select one or more options):
 
 ![avatar settings admin SEP2023](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-admin/vtex-admin-start-here_5.gif)
 
-Your profile avatar is a central hub for all your user and account settings. By clicking it, you can access your [User settings](/tutorial/visao-geral-configuracoes-de-usuario--3Qsy4ce1FrWKZPoMeEQY34#), [Account settings](/en/docs/tutorials/account-settings-overview), and [Billing](/en/tutorial/billing-module-overview--6UxfCl4fw4GmyQwoUuIcQs?&utm_source=autocomplete) information, as well as change the language of your Admin, and log out.
+Your profile avatar is a central hub for all your user and account settings. By clicking it, you can access your [User settings](/en/docs/tutorials/user-settings-overview#), [Account settings](/en/docs/tutorials/account-settings-overview), and [Billing](/en/tutorial/billing-module-overview--6UxfCl4fw4GmyQwoUuIcQs?&utm_source=autocomplete) information, as well as change the language of your Admin, and log out.
 
 Your profile settings are separate from the store-related settings. This gives you greater control and visibility over the actions that affect your business and the ones that impact a user's profile, such as [roles](/en/docs/tutorials/roles).
 The VTEX Admin offers a localized experience in the following language options:

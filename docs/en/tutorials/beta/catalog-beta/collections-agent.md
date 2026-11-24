@@ -12,13 +12,13 @@ locale: en
 
 The **Collections Agent** is an artificial intelligence agent that allows you to create and manage collections and assortments through a conversational experience in the VTEX Admin. This article explains how the agent works and shows which actions you can take on collections and assortments conversationally.
 
-A [collection](https://help.vtex.com/docs/tutorials/collection-types) is a grouping of products, while an assortment is the entity that groups collections in scenarios that use [B2B Buyer Portal](https://help.vtex.com/docs/tutorials/b2b-buyer-portal). With **Collections Agent**, you provide an instruction (prompt) in natural language through a conversational interface, and the agent turns it into a collection or assortment.
+A [collection](https://help.vtex.com/en/docs/tutorials/collection-types) is a grouping of products, while an assortment is the entity that groups collections in scenarios that use [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal). With **Collections Agent**, you provide an instruction (prompt) in natural language through a conversational interface, and the agent turns it into a collection or assortment.
 
-> ⚠️ Assortments are currently available only to stores using the [B2B Buyer Portal](https://help.vtex.com/docs/tutorials/b2b-buyer-portal).
+> ⚠️ Assortments are currently available only to stores using the [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal).
 
 ## Difference between the agent and the legacy interface
 
-In addition to all [legacy interface](https://help.vtex.com/docs/tutorials/creating-a-product-collection) features, the **Collections Agent** offers other advantages:
+In addition to all [legacy interface](https://help.vtex.com/en/docs/tutorials/creating-a-product-collection) features, the **Collections Agent** offers other advantages:
 
 - An intuitive conversational experience
 - The ability to create and manage assortments
@@ -40,7 +40,7 @@ The **Collections Agent** is in beta. During this phase, the feature has the fol
 
 ## Prerequisites
 
-In addition to using the [B2B Buyer Portal](https://help.vtex.com/docs/tutorials/b2b-buyer-portal), as the **Collections Agent** works on collections and assortments, the store must have existing [brands](https://help.vtex.com/docs/tutorials/what-is-a-brand), [categories](https://help.vtex.com/docs/tutorials/registering-a-category), [products](https://help.vtex.com/docs/tutorials/adding-or-editing-products), and [SKUs](https://help.vtex.com/docs/tutorials/adding-or-editing-skus), since these are the items the creation rules apply to.
+In addition to using the [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal), as the **Collections Agent** works on collections and assortments, the store must have existing [brands](https://help.vtex.com/en/docs/tutorials/what-is-a-brand), [categories](https://help.vtex.com/en/docs/tutorials/registering-a-category), [products](https://help.vtex.com/en/docs/tutorials/adding-or-editing-products), and [SKUs](https://help.vtex.com/en/docs/tutorials/adding-or-editing-skus), since these are the items the creation rules apply to.
 
 ## Accessing the agent
 
@@ -214,7 +214,7 @@ There's currently no automatic way to include all products from the catalog in a
 
 Common points to watch out for with these options:
 
-- **Inactive** categories, brands, or specifications are added to the collection, but their products won't appear in navigation while they're inactive. If they're activated later, the products start appearing (rule of [Intelligent Search](https://help.vtex.com/docs/tutorials/intelligent-search-overview)).
+- **Inactive** categories, brands, or specifications are added to the collection, but their products won't appear in navigation while they're inactive. If they're activated later, the products start appearing (rule of [Intelligent Search](https://help.vtex.com/en/docs/tutorials/intelligent-search-overview)).
 - If a category, brand, or specification is **deactivated** after the collection is created, its products remain in the collection but stop appearing in navigation (rule of **Intelligent Search**).
 - Categories and brands **created after** the collection aren't automatically included.
 - A category, brand, or specification **removed** from the catalog after the collection is created removes its products from the collection.

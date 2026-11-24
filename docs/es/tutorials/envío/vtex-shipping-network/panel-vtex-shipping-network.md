@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
-> ⚠️ Esta funcionalidad no está disponible para nuevos clientes.
+> ⚠️ Actualmente, la solución VTEX Shipping Network se encuentra disponible exclusivamente en Brasil. Por lo tanto, este contenido solo se encuentra a disposición en portugués.
 
 > ⚠️ Atención: Esta funcionalidad se encuentra en fase beta abierta
 

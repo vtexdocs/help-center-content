@@ -3,7 +3,7 @@ title: 'Gerenciamento de atributos'
 id: 2fdw5tfuj3YfAfOgWYRaKw
 status: PUBLISHED
 createdAt: 2024-10-08T22:00:21.393Z
-updatedAt: 2024-10-16T18:25:56.096Z
+updatedAt: 2026-11-04T17:45:00.000Z
 publishedAt: 2024-10-16T18:25:56.096Z
 firstPublishedAt: 2024-10-08T22:03:21.862Z
 contentType: trackArticle
@@ -36,9 +36,5 @@ Para habilitar ou desabilitar um atributo, siga os passos abaixo:
 3. Habilite <i class="fas fa-toggle-on" aria-hidden="true"></i> ou desabilite <i class="fas fa-toggle-off" aria-hidden="true"></i> o atributo desejado.  
 4. Clique no botão `Salvar Alterações`.  
 
-> ℹ️ Por padrão, todos os atributos de produtos e SKUs ativos no catálogo VTEX estão habilitados para envio ao marketplace.  
-
-Após configurar o **Gerenciamento de Atributos,** é necessário [reindexar a base](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao) para que as alterações reflitam no marketplace. Durante o período de reindexação, os produtos entram em uma fila para atualização dos dados, mas seguem disponíveis para venda.  
-
-> ℹ️ Somente o [usuário Titular (owner)](/pt/docs/tracks/o-que-e-o-usuario-master) tem permissão para reindexar a base de uma loja VTEX.
+> ℹ️ Por padrão, todos os atributos de produtos e SKUs ativos no catálogo VTEX estão habilitados para envio ao marketplace.
 

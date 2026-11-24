@@ -76,7 +76,7 @@ Para analizar errores de pago, realice el siguiente procedimiento.
 3. En la sección de **Pedidos de suscripción**, haga clic en la pestaña **Error de pago**.
 4. Identifique el pedido deseado y haga clic en el ID del pedido. Será dirigido a la página de detalles del pedido en el módulo de **Todos los pedidos**. 
 5. Una vez en la página de detalles del pedido, haga clic en **Ver detalles de la transacción**, en la opción **Pago**. Será dirigido a la página de Transacciones en el módulo **Pagos**. 
-6. En la página de **Transacciones**, puede visualizar y analizar los eventos de transacción del pedido. Lea el artículo [Ver detalles de la transacción en Pagos](/es/tutorial/como-visualizar-detalhes-do-pedido) para obtener más información.
+6. En la página de **Transacciones**, puede visualizar y analizar los eventos de transacción del pedido. Lea el artículo [Ver detalles de la transacción en Pagos](/es/docs/tutorials/como-visualizar-detalle-del-pedido) para obtener más información.
 
 Los pedidos con errores de pago pasan por 5 reintentos automáticos en un periodo de 12 horas, de acuerdo con  el flujo del gateway. No es posible realizar reintentos manuales para corregir errores de pago en el Admin. 
 

@@ -11,7 +11,7 @@ hidden: false
 
 > ℹ️ If you're interested in adopting this feature for your business, complete our [form](https://www.vtex.com/en-us/get-started/) and enter the desired product name in the `Comments` field.
 
-**Last Mile** is the VTEX Admin page that tracks the final fulfillment stage of orders processed by [VTEX Pick and Pack](/docs/tutorials/vtex-pick-and-pack): shipping to the customer by integrated carriers and in-store pickup.
+**Last Mile** is the VTEX Admin page that tracks the final fulfillment stage of orders processed by [VTEX Pick and Pack](/en/docs/tutorials/vtex-pick-and-pack): shipping to the customer by integrated carriers and in-store pickup.
 
 Each movement is represented by a **service**, the record that brings together the origin, destination, packages, and status history of one or more orders. The page is organized into two tabs, one for each service type:
 
@@ -33,7 +33,7 @@ The module also has the following configuration sections:
 
 The **Deliveries** tab lists services assigned to carriers, along with the status updates they return until the order is delivered to the customer.
 
-![vtex-pick-and-pack-last-mile_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_1.png)
+![vtex-pick-and-pack-last-mile_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_en_1.png)
 
 The table displays the following information:
 
@@ -52,7 +52,7 @@ To find a specific service, use the search bar at the top of the page. You can a
 - **Carrier:** Carrier handling the delivery.
 - **Status:** Current stage of the service. You can select more than one status.
 - **Fulfillment locations:** Store or distribution center where the service originates.
-- **Payment methods:** [Payment method](/docs/tutorials/difference-between-payment-methods-and-payment-conditions) used for the order.
+- **Payment methods:** [Payment method](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions) used for the order.
 
 To deselect a filter, open it and click `Clear`.
 
@@ -80,7 +80,7 @@ The available statuses depend on the carrier integration configuration. The foll
 
 The In-store pickup tab lists orders that customers will pick up in-store, and pickup is confirmed there.
 
-![vtex-pick-and-pack-last-mile_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_2.png)
+![vtex-pick-and-pack-last-mile_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_en_2.png)
 
 The table displays the following information:
 
@@ -113,7 +113,7 @@ To create a service manually, follow the steps below:
 
 4. Click `Continue`.
 
-   ![vtex-pick-and-pack-last-mile_3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_3.png)
+   ![vtex-pick-and-pack-last-mile_3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_en_3.png)
 
 5. Select the orders that will be part of the service. The list displays only the orders that are eligible for the selected service type, and it includes the following information:
 
@@ -125,13 +125,13 @@ To create a service manually, follow the steps below:
 
    The selected orders appear under **Selected orders**, and the **Summary** block consolidates the number of orders, items, and fulfillment locations. To find an order, use the search bar or the **Status**, **Fulfillment locations**, and date filters — which correspond to **Delivery date** for shipping services and **Pickup date** for pickup services.
 
-   ![vtex-pick-and-pack-last-mile_4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_4.png)
+   ![vtex-pick-and-pack-last-mile_4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_en_4.png)
 
 6. Click `Continue`.
 
 7. Check the packages for every order, with the items, quantity, and dimensions of each.
 
-   ![vtex-pick-and-pack-last-mile_5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_5.png)
+   ![vtex-pick-and-pack-last-mile_5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_en_5.png)
 
 8. Click `Continue`.
 
@@ -149,7 +149,7 @@ For pickup services:
 2. Click `Continue`.
 3. Click `Create service`.
 
-![vtex-pick-and-pack-last-mile_6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_6.png)
+![vtex-pick-and-pack-last-mile_6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_en_6.png)
 
 > ⚠️ In-store pickup doesn't use external carriers or transportation management systems (TMS), since the customer picks up the order directly at the store. These services use the `Manual` integration, which records the movement without sending a request to a carrier. If the `Manual` integration isn't active, you can't complete the creation of a pickup service.
 
@@ -159,13 +159,13 @@ In shipping services:
 
 1. In **Pickup information**, select the **Fulfillment location** and enter the **Expected pickup date**. The `Create from order` option sets the origin using the order's information.
 
-   ![vtex-pick-and-pack-last-mile_7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_7.png)
+   ![vtex-pick-and-pack-last-mile_7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_en_7.png)
 
 2. Click `Continue`.
 
 3. In **Shipping information**, check the destination and enter the **Expected delivery date**. The destination address appears in the side summary, under **Ship to**.
 
-   ![vtex-pick-and-pack-last-mile_8](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_8.png)
+   ![vtex-pick-and-pack-last-mile_8](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_en_8.png)
 
 4. Click `Continue`.
 
@@ -177,7 +177,7 @@ In shipping services:
 
 To view more information about a service, click the corresponding row in the table. Details are displayed in a panel, organized in the **Details**, **Tracking**, **Attachments**, and **Notes** tabs.
 
-![vtex-pick-and-pack-last-mile_9](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_9.png)
+![vtex-pick-and-pack-last-mile_9](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_en_9.png)
 
 At the top of the panel, the order identifier and the current service status are displayed. The vertical ellipsis menu on the right allows you to download the tracking label generated by Last Mile. The label template is standard and can't be customized.
 
@@ -226,11 +226,11 @@ To send a new code, follow the steps below:
 
 The `New code sent to customer email` message confirms that the new code was sent to the customer's email.
 
-![vtex-pick-and-pack-last-mile_10](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_10.png)
+![vtex-pick-and-pack-last-mile_10](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_en_10.png)
 
 There's a minimum interval between codes. The option is unavailable until the end of the interval, and the footer displays a count in seconds until the next send is allowed, formatted as `Retry in {second}s`. This restriction can't be bypassed and it's meant to prevent sending excessive messages to the customer.
 
-![vtex-pick-and-pack-last-mile_11](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_11.png)
+![vtex-pick-and-pack-last-mile_11](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_en_11.png)
 
 ### Validating the code and completing the pickup
 
@@ -246,7 +246,7 @@ To confirm order pickup, follow the steps below:
 
 5. On the **Enter pickup code** screen, enter the six-digit code provided by the customer.
 
-   ![vtex-pick-and-pack-last-mile_12](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_12.png)
+   ![vtex-pick-and-pack-last-mile_12](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_en_12.png)
 
 6. Click `Complete handoff`.
 
@@ -267,7 +267,7 @@ In **Shipping > Last Mile > Integrations**, you add and activate the companies t
 
 Each card displays the company name, the countries served, and the integration status, which can be `Active` or `Inactive`. Only active integrations can be selected when creating a service.
 
-![vtex-pick-and-pack-last-mile_14](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_14.png)
+![vtex-pick-and-pack-last-mile_14](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_en_14.png)
 
 To add an integration, follow these steps:
 
@@ -277,7 +277,7 @@ To add an integration, follow these steps:
 
 3. In the **Add Integration** window, select the desired company. Companies with an existing integration in the account show as unavailable for selection.
 
-   ![vtex-pick-and-pack-last-mile_15](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_15.png)
+   ![vtex-pick-and-pack-last-mile_15](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_en_15.png)
 
 4. Click `Continue`.
 
@@ -285,9 +285,9 @@ To add an integration, follow these steps:
 
    > ℹ️ Each company has its own configuration fields, and some information must be obtained directly from the company. If needed, contact the carrier's support.
 
-   > ℹ️ Some integrations require sending credentials to VTEX. In such cases, contact [VTEX Support](https://help.vtex.com/docs/tutorials/opening-tickets-to-vtex-support) to receive guidance on how to submit the required information.
+   > ℹ️ Some integrations require sending credentials to VTEX. In such cases, contact [VTEX Support](https://help.vtex.com/en/docs/tutorials/opening-tickets-to-vtex-support) to receive guidance on how to submit the required information.
 
-   ![vtex-pick-and-pack-last-mile_16](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_16.png)
+   ![vtex-pick-and-pack-last-mile_16](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_en_16.png)
 
 6. Click `Create`.
 
@@ -299,7 +299,7 @@ To edit an existing integration, click the corresponding card, make the desired 
 
 In **Shipping > Last Mile > Settings**, under the **Information > General** section, you define the store location and contact information used in shipping services.
 
-![vtex-pick-and-pack-last-mile_17](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_17.png)
+![vtex-pick-and-pack-last-mile_17](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-last-mile_en_17.png)
 
 In **Store location**, enter the country, state, city, postal code, street, and time zone of the store. You can also use the **Find an address** field to locate the address and complete the fields automatically, including the latitude and longitude. In **Contact information**, enter the name and phone number of the assigned contact. Click `Save` to save the changes.
 
@@ -308,7 +308,7 @@ In **Store location**, enter the country, state, city, postal code, street, and 
 ## Learn more
 
 - [VTEX Pick and Pack](/en/docs/tutorials/vtex-pick-and-pack)
-- [VTEX Pick and Pack: Orders](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-orders)
+- [VTEX Pick and Pack: Orders](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-orders)
 - [VTEX Pick and Pack: Service orders](/en/docs/tutorials/vtex-pick-and-pack-worksheets)
 - [VTEX Pick and Pack: Settings](/en/docs/tutorials/vtex-pick-and-pack-settings)
 - [VTEX Pick and Pack: Insights](/en/docs/tutorials/vtex-pick-and-pack-insights)
