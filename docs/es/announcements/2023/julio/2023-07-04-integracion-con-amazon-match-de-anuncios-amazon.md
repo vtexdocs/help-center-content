@@ -15,6 +15,8 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'El proceso de matching de anuncios Amazon es ahora manual. Conoce la nueva página.'
 ---
 
+> ℹ️ **Match de anuncios Amazon** fue reemplazado por [Publicación de productos Amazon](/es/docs/tutorials/publicacion-de-productos-amazon).
+
 La [integración](/es/tracks/configurar-integracao-com-a-amazon)  entre las tiendas VTEX y Amazon permite a los sellers enviar su catálogo de productos al marketplace, lo que amplía sus canales de venta. Con el objetivo de ofrecer mayor calidad a los anuncios que se muestran en Amazon, hemos desarrollado una nueva página para que los sellers de VTEX hagan el proceso de matching de productos.
 
 ## ¿Qué cambió?
