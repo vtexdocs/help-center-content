@@ -8,7 +8,6 @@ slugEN: credit-wallet
 locale: pt
 seeAlso:
   - "/pt/docs/tutorials/visao-geral-informacoes-de-faturamento"
-  - "/pt/docs/tutorials/master-data-pt"
   - "/pt/docs/tutorials/consultar-o-uso-do-master-data-no-admin-vtex"
   - "/pt/docs/tutorials/transferir-credito-entre-empresas-do-mesmo-grupo-economico"
 ---
