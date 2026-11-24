@@ -1,7 +1,7 @@
 ---
 title: 'AI Workspace - Navigation menu'
-createdAt: 2026-11-19T12:00:00.000Z
-updatedAt: 2026-11-19T12:00:00.000Z
+createdAt: 2026-11-24T12:00:00.000Z
+updatedAt: 2026-11-24T12:00:00.000Z
 contentType: tutorial
 productTeam: AI Workspace
 slugEN: ai-workspace-navigation-menu
@@ -12,7 +12,7 @@ locale: en
 
 The **Navigation menu** is a side panel on the left of the screen that groups the main areas of AI Workspace, helping you find what you need quickly and in an organized way.
 
-![Navigation menu](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-menu-navegacao.png)
+![Navigation menu EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/ai-workspace-and-agents-beta/ai-workspace-interface/ai-workspace-navigation-menu.png)
 
 At the top of the menu, you'll find the **Store title**, which identifies the account in use.
 

@@ -1,7 +1,7 @@
 ---
 title: 'AI Workspace - Tarefas'
-createdAt: 2026-11-19T12:00:00.000Z
-updatedAt: 2026-11-19T12:00:00.000Z
+createdAt: 2026-11-24T12:00:00.000Z
+updatedAt: 2026-11-24T12:00:00.000Z
 contentType: tutorial
 productTeam: AI Workspace
 slugEN: ai-workspace-tasks
@@ -17,7 +17,7 @@ Cada tarefa possui um **responsável** que a executa, podendo ser um humano ou u
 As tarefas existem apenas dentro de iniciativas e podem ser criadas de duas formas:
 
 - Junto com a criação de uma iniciativa.
-- Interagindo com um agente de IA em uma conversa.
+- Interagindo com um agente de IA em um [chat](https://help.vtex.com/pt/docs/tutorials/ai-workspace-chat).
 
 ## Página Tarefas
 
@@ -55,14 +55,12 @@ O canvas da tarefa apresenta as seguintes seções:
     - **Trabalhando:** exibe uma animação de carregamento acompanhada de **Planejando...**, **Explorando...** ou **Analisando...**.
     - **Aguardando ação:** exibe **🔵 Precisa de atenção**.
     - **Completa:** exibe **✔️ Concluído**.
-  - **Output:** resultado gerado pela tarefa.
 - **Descrição:** explicação do que a tarefa realiza.
 - **Escopo:** conjunto de itens sobre os quais a tarefa atua.
-- **Instruções:** orientações que guiam a execução da tarefa.
-- **Resultado esperado:** resultado que se espera obter ao concluir a tarefa.
+- **Processo manual:** ações que um usuário deve realizar na tarefa. Esta seção não aparece em tarefas atribuídas a agentes de IA.
 
-## Conversa da tarefa
+## Chat da tarefa
 
-Toda tarefa possui uma **conversa**, na qual é possível interagir com agentes de IA para obter informações e executar ações relacionadas à tarefa. Para saber mais sobre como funciona a interação com os agentes, consulte o artigo [AI Workspace - Conversa](http://help.vtex.com/pt/docs/tutorials/ai-workspace-conversa).
+Toda tarefa possui um **chat**, na qual é possível interagir com agentes de IA para obter informações e executar ações relacionadas à tarefa. Para saber mais sobre como funciona a interação com os agentes, consulte o artigo [AI Workspace - Chat](http://help.vtex.com/pt/docs/tutorials/ai-workspace-chat).
 
-![AI Workspace conversa da tarefa PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-tarefa-conversa.png)
+![AI Workspace chat da tarefa PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-tarefa-chat.png)

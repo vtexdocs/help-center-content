@@ -1,7 +1,7 @@
 ---
 title: 'AI Workspace - Meu assistente'
-createdAt: 2026-11-19T12:00:00.000Z
-updatedAt: 2026-11-19T12:00:00.000Z
+createdAt: 2026-11-24T12:00:00.000Z
+updatedAt: 2026-11-24T12:00:00.000Z
 contentType: tutorial
 productTeam: AI Workspace
 slugEN: ai-workspace-my-assistant
@@ -12,13 +12,13 @@ locale: pt
 
 O AI Workspace é o ambiente de trabalho com inteligência artificial da VTEX, no qual os comerciantes acompanham o desempenho da loja, recebem recomendações e operam o negócio em conjunto com agentes de IA. A partir de uma única tela, você monitora os principais indicadores, age sobre as iniciativas sugeridas e conversa com o seu assistente para executar tarefas do dia a dia.
 
-![AI Workspace Início PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-inicio.png)
+![AI Workspace Início PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-meu-assistente.png)
 
 As seções a seguir descrevem cada parte da página **Meu assistente** do AI Workspace.
 
 ## Indicadores de desempenho
 
-Este quadro exibe as principais métricas de desempenho da loja, permitindo acompanhar rapidamente a evolução do negócio e oferecer um panorama completo da operação. Ao clicar no quadro, o [Data Insights Agent](https://help.vtex.com/pt/docs/tutorials/data-insights-agent) gera um relatório de desempenho e abre uma conversa, na qual o usuário pode interagir com o agente sobre o relatório. Você pode ajustar a visualização para intervalos de 7, 30 e 90 dias.
+Este quadro exibe as principais métricas de desempenho da loja, permitindo acompanhar rapidamente a evolução do negócio e oferecer um panorama completo da operação. Ao clicar no quadro, o [Data Insights Agent](https://help.vtex.com/pt/docs/tutorials/data-insights-agent) gera um relatório de desempenho e abre um chat, na qual o usuário pode interagir com o agente sobre o relatório. Você pode ajustar a visualização para intervalos de 7, 30 e 90 dias.
 
 As métricas disponíveis são:
 
@@ -40,5 +40,5 @@ Esta seção destaca as iniciativas propostas para melhorar o desempenho da loja
 Na parte inferior da página, a caixa de mensagem é o ponto central de interação com o seu assistente de IA e apresenta os seguintes elementos:
 
 - **Campo de texto:** digite uma solicitação ou pergunta para o assistente.
-- **Adicionar imagens e arquivos:** insira imagens e arquivos no contexto da conversa, junto com o texto enviado ao assistente.
-- **Seleção de agente:** seleciona um dos agentes de IA instalados para iniciar uma conversa.
+- **Adicionar imagens e arquivos:** insira imagens e arquivos no contexto do chat, junto com o texto enviado ao assistente.
+- **Seleção de agente:** seleciona um dos agentes de IA instalados para iniciar um chat.

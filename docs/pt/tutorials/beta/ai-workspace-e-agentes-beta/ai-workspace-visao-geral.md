@@ -1,7 +1,7 @@
 ---
 title: 'AI Workspace e Agentes - Visão geral'
-createdAt: 2026-11-19T12:00:00.000Z
-updatedAt: 2026-11-19T12:00:00.000Z
+createdAt: 2026-11-24T12:00:00.000Z
+updatedAt: 2026-11-24T12:00:00.000Z
 contentType: tutorial
 productTeam: AI Workspace
 slugEN: ai-workspace-overview
@@ -24,7 +24,7 @@ Os agentes podem conduzir fluxos de trabalho com várias etapas, reconhecer quan
 As principais propriedades de um agente são:
 
 - **Foco em resultados:** atua sobre tarefas e objetivos claramente definidos.
-- **Acionamento e interação:** pode ser acionado por conversas em linguagem natural ou por tarefas, executando as operações correspondentes nos serviços da VTEX.
+- **Acionamento e interação:** pode ser acionado por chats em linguagem natural ou por tarefas, executando as operações correspondentes nos serviços da VTEX.
 - **Autonomia:** conduz fluxos de trabalho de várias etapas, condicionados ao aval humano, e ajusta suas ações conforme os resultados obtidos.
 - **Uso de ferramentas:** seleciona os recursos mais adequados para cada etapa do fluxo.
 - **Operação controlada:** segue as diretrizes de comportamento e de segurança da plataforma.
@@ -35,7 +35,7 @@ O AI Workspace estrutura a colaboração entre pessoas e agentes em três concei
 
 - **Iniciativas:** representam problemas encontrados na loja, com o diagnóstico e as tarefas sugeridas para resolver a questão identificada. Uma iniciativa pode ter uma ou mais tarefas, sempre dentro de um mesmo contexto.
 - **Tarefas:** são unidades de trabalho com objetivo e escopo restritos. Cada tarefa possui um responsável, que pode ser uma pessoa ou um agente.
-- **Conversas:** permitem solicitar informações, delegar atividades, acompanhar execuções, revisar resultados e aprovar ações. Essa estrutura combina a execução autônoma dos agentes com o acompanhamento humano durante o planejamento, a execução e a validação do trabalho.
+- **Chats:** permitem solicitar informações, delegar atividades, acompanhar execuções, revisar resultados e aprovar ações. Essa estrutura combina a execução autônoma dos agentes com o acompanhamento humano durante o planejamento, a execução e a validação do trabalho.
 
 ## Recursos do AI Workspace
 
@@ -44,6 +44,6 @@ Confira os artigos sobre cada área do AI Workspace:
 - **[Meu assistente](https://help.vtex.com/pt/docs/tutorials/ai-workspace-meu-assistente):** acompanhe os indicadores de desempenho e as iniciativas recomendadas.
 - **[Iniciativas](https://help.vtex.com/pt/docs/tutorials/ai-workspace-iniciativas):** visualize e gerencie os objetivos da operação.
 - **[Tarefas](https://help.vtex.com/pt/docs/tutorials/ai-workspace-tarefas):** acompanhe as unidades de trabalho, seus responsáveis, detalhes e respectivos status.
-- **[Conversa](https://help.vtex.com/pt/docs/tutorials/ai-workspace-conversa):** troque mensagens, execute ações rápidas e interaja com os resultados exibidos no canvas.
+- **[Chat](https://help.vtex.com/pt/docs/tutorials/ai-workspace-chat):** troque mensagens, execute ações rápidas e interaja com os resultados exibidos no canvas.
 
 Para mais detalhes sobre cada termo, veja [AI Workspace e Agentes - Glossário](https://help.vtex.com/pt/docs/tutorials/ai-workspace-glossario).

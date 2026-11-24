@@ -1,7 +1,7 @@
 ---
 title: 'AI Workspace - Chat'
-createdAt: 2026-11-19T12:00:00.000Z
-updatedAt: 2026-11-19T12:00:00.000Z
+createdAt: 2026-11-24T12:00:00.000Z
+updatedAt: 2026-11-24T12:00:00.000Z
 contentType: tutorial
 productTeam: AI Workspace
 slugEN: ai-workspace-chat
@@ -19,19 +19,19 @@ A chat can start in the following ways:
 - By creating an [initiative](https://help.vtex.com/en/docs/tutorials/ai-workspace-initiatives)
 - By starting a [task](https://help.vtex.com/en/docs/tutorials/ai-workspace-tasks)
 
-![AI Workspace chat](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-conversa.png)
+![AI Workspace chat EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/ai-workspace-and-agents-beta/ai-workspace-interface/ai-workspace-task-chat.png)
 
 ## Chat title
 
 At the top left of the page is the **chat title**. Clicking the arrow next to the title displays a list of chats for quick navigation.
 
-![AI Workspace chat title](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-titulo-conversa.png)
+![AI Workspace chat title EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/ai-workspace-and-agents-beta/ai-workspace-interface/ai-workspace-title-chat.png)
 
 When the chat refers to a task or an initiative, this list only displays the chats for that initiative and its tasks.
 
 ## Chat content
 
-The center of the page displays the chat history, with the agent's and user's messages in chronological order. Throughout the chat, the agent can present **canvas cards** with specific content, such as data, results, or generated samples. In the example image, there are two cards: **Task executed** and **Task output**.
+The center of the page displays the chat content, with the agent's and user's messages in chronological order. Throughout the chat, the agent can present **canvas cards** with specific content, such as data, results, or generated samples.
 
 ### Quick interaction buttons
 
@@ -47,11 +47,8 @@ At the bottom of the page is the **message box**, the same one available on the 
 
 When you click a **canvas card**, the **canvas** opens on the right side of the page, displaying the content related to that card.
 
-![AI Workspace chat canvas](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-conversa-canvas.png)
+![AI Workspace chat canvas EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/ai-workspace-and-agents-beta/ai-workspace-interface/ai-workspace-chat-canvas.png)
 
-The ways you can interact with the canvas vary according to the type of content presented. In the example image, the canvas displays 10 samples of changes to product descriptions, and the user can:
-
-- **View the comparison** of product details between the suggested change and the original version.
-- **View more suggestions**. Clicking the **View more n suggestions** button (n between 1 and 10) displays additional suggested changes. The button remains visible as long as there are more suggestions to display.
+The ways you can interact with the canvas vary according to the type of content presented. In the image, the canvas shows the proposed changes to the 5% discount promotion, including the affected SKUs.
 
 > ℹ️ The canvas content and the ways you can interact with it depend on the context in which it's used.

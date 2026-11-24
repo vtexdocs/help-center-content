@@ -1,7 +1,7 @@
 ---
 title: 'AI Workspace e Agentes - Glossário'
-createdAt: 2026-11-19T12:00:00.000Z
-updatedAt: 2026-11-19T12:00:00.000Z
+createdAt: 2026-11-24T12:00:00.000Z
+updatedAt: 2026-11-24T12:00:00.000Z
 contentType: tutorial
 productTeam: AI Workspace
 slugEN: ai-workspace-glossary
@@ -24,11 +24,11 @@ Identidades digitais com habilidades, responsabilidades e escopos de ação bem 
 
 ### Canvas
 
-Interface visual para apoiar [conversas](#conversa) de [tarefas](#tarefa). O canvas permite exibir e editar conteúdo estruturado relacionado ao trabalho em andamento, como tabelas, relatórios, dashboards, páginas, campanhas, diagnósticos e planos de ação. Ele existe independentemente de uma conversa.
+Interface visual para apoiar [chats](#chat) de [tarefas](#tarefa). O canvas permite exibir e editar conteúdo estruturado relacionado ao trabalho em andamento, como tabelas, relatórios, dashboards, páginas, campanhas, diagnósticos e planos de ação. Ele existe independentemente de um chat.
 
-### Conversa
+### Chat
 
-Interface de comunicação entre usuários e agentes. Uma conversa permite que os usuários solicitem ações, aprovem decisões e façam perguntas aos agentes em linguagem natural. As conversas podem ser iniciadas por um [agente](#agente) ao criar uma [iniciativa](#iniciativa) ou ao iniciar uma [tarefa](#tarefa), ou pelo usuário, por meio da caixa de mensagens ou dos indicadores de desempenho.
+Interface de comunicação entre usuários e agentes. Um chat permite que os usuários solicitem ações, aprovem decisões e façam perguntas aos agentes em linguagem natural. Os chats podem ser iniciadas por um [agente](#agente) ao criar uma [iniciativa](#iniciativa) ou ao iniciar uma [tarefa](#tarefa), ou pelo usuário, por meio da caixa de mensagens ou dos indicadores de desempenho.
 
 ## I
 
@@ -58,7 +58,7 @@ O indivíduo que recebe todas as [iniciativas](#iniciativa) relacionadas a um te
 
 ### Mensagem
 
-Uma unidade de comunicação enviada por um usuário ou um [agente](#agente) em uma [conversa](#conversa).
+Uma unidade de comunicação enviada por um usuário ou um [agente](#agente) em um [chat](#chat).
 
 ### Meu Assistente (agente)
 
@@ -66,7 +66,7 @@ O principal assistente de inteligência artificial no [AI Workspace](#ai-workspa
 
 ### Meu assistente (página)
 
-Página inicial do AI Workspace. Nesta página se encontram os indicadores de desempenho da loja, as iniciativas recomendadas, as iniciativas em andamento e a caixa de mensagens para iniciar uma conversa com um agente.
+Página inicial do AI Workspace. Nesta página se encontram os indicadores de desempenho da loja, as iniciativas recomendadas, as iniciativas em andamento e a caixa de mensagens para iniciar um chat com um agente.
 
 ## P
 
@@ -84,7 +84,7 @@ A entidade — humana ou [agente](#agente) — que realiza o trabalho em uma [ta
 
 ### Sugestão
 
-Um prompt predefinido que ajuda o usuário a iniciar uma nova conversa ou continuar uma existente.
+Um prompt predefinido que ajuda o usuário a iniciar um novo chat ou continuar uma existente.
 
 ## T
 
@@ -92,4 +92,4 @@ Um prompt predefinido que ajuda o usuário a iniciar uma nova conversa ou contin
 
 Ação orientada a um objetivo com escopo, instruções e critérios de sucesso definidos. A tarefa pode ser criada por [agentes](#agente) e seu responsável pode ser um usuário ou um agente. Uma tarefa pode estar nos seguintes estados: **Aberta**, **Em execução**, **Aguardando ação** ou **Concluída**.
 
-Quando um agente executa uma tarefa que requer revisão, aprovação ou decisão do usuário, o agente abre uma [conversa](#conversa) com o resultado da tarefa e solicita a aprovação do usuário.
+Quando um agente executa uma tarefa que requer revisão, aprovação ou decisão do usuário, o agente abre um [chat](#chat) com o resultado da tarefa e solicita a aprovação do usuário.

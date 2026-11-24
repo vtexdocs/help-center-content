@@ -1,7 +1,7 @@
 ---
 title: 'AI Workspace - Initiatives'
-createdAt: 2026-11-19T12:00:00.000Z
-updatedAt: 2026-11-19T12:00:00.000Z
+createdAt: 2026-11-24T12:00:00.000Z
+updatedAt: 2026-11-24T12:00:00.000Z
 contentType: tutorial
 productTeam: AI Workspace
 slugEN: ai-workspace-initiatives
@@ -18,7 +18,7 @@ You can access the **My initiatives** page through the **My initiatives** item i
 
 ## Initiatives table
 
-![AI Workspace initiatives table](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-iniciativas-tabela-iniciativas.png)
+![AI Workspace initiatives table EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/ai-workspace-and-agents-beta/ai-workspace-interface/ai-workspace-initiatives-table.png)
 
 The initiatives table shows the details of each initiative in the following columns:
 
@@ -43,7 +43,9 @@ When you click the arrow to the left of an initiative, it expands and displays i
 
 When you click an initiative, in any view mode, the [**canvas**](https://help.vtex.com/en/docs/tutorials/ai-workspace-glossary#canvas) opens on the right with the full initiative details.
 
-![AI Workspace initiative canvas](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-iniciativa-canvas.png)
+![AI Workspace initiative canvas EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/ai-workspace-and-agents-beta/ai-workspace-interface/ai-workspace-initiative-canvas.png)
+
+At the top of the canvas, the **Open chat** button allows you to open a [chat](https://help.vtex.com/en/docs/tutorials/ai-workspace-chat) related to the initiative.
 
 The canvas is organized into the following sections:
 
@@ -65,5 +67,3 @@ The canvas is organized into the following sections:
   - **"↳ View chat" button:** Available when the task requires interaction. The button opens the task chat.
   - **Assignee:** Displayed as a dropdown before execution, allowing you to define who will perform the task (user or agent). After the task starts, only the assignee's image is displayed.
 - **Activity:** History of the actions taken in the initiative, recording who performed the action, the action performed, the recipient (if any), and the date and time.
-
-At the top of the canvas, the **Open chat** button allows you to start a chat related to the initiative.

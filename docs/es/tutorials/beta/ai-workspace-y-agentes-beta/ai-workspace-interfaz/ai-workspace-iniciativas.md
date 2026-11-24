@@ -1,7 +1,7 @@
 ---
 title: 'AI Workspace - Iniciativas'
-createdAt: 2026-11-19T12:00:00.000Z
-updatedAt: 2026-11-19T12:00:00.000Z
+createdAt: 2026-11-24T12:00:00.000Z
+updatedAt: 2026-11-24T12:00:00.000Z
 contentType: tutorial
 productTeam: AI Workspace
 slugEN: ai-workspace-initiatives
@@ -18,7 +18,7 @@ Puedes acceder a la página **Mis iniciativas** a través del ítem **Mis inicia
 
 ## Tabla de iniciativas
 
-![AI Workspace tabla de iniciativas](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-iniciativas-tabela-iniciativas.png)
+![AI Workspace tabla de iniciativas ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/ai-workspace-y-agentes-beta/ai-workspace-interfaz/ai-workspace-tabla-iniciativas.png)
 
 La tabla de iniciativas muestra los detalles de cada iniciativa con las siguientes columnas:
 
@@ -43,7 +43,9 @@ Al hacer clic en la flecha a la izquierda de una iniciativa, esta se expande y m
 
 Al hacer clic en una iniciativa, en cualquier modo de visualización, se abre el [**canvas**](https://help.vtex.com/es/docs/tutorials/ai-workspace-glosario#canvas) a la derecha con los detalles completos de la iniciativa.
 
-![AI Workspace canvas de la iniciativa](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-iniciativa-canvas.png)
+![AI Workspace canvas de la iniciativa ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/ai-workspace-y-agentes-beta/ai-workspace-interfaz/ai-workspace-iniciativa-canvas.png)
+
+En la parte superior del canvas, el botón **Abrir chat** permite abrir un [chat](https://help.vtex.com/es/docs/tutorials/ai-workspace-chat) relacionado con la iniciativa.
 
 El canvas se organiza en las siguientes secciones:
 
@@ -62,8 +64,6 @@ El canvas se organiza en las siguientes secciones:
     - **Esperando acción:** muestra el ícono 🔵, que indica que la tarea espera una interacción del usuario para continuar.
     - **Completada:** muestra el ícono ✔️, que indica que la tarea se completó.
   - **Título:** nombre de la tarea.
-  - **Botón "↳ Ver conversación":** disponible cuando la tarea requiere interacción. El botón abre la conversación de la tarea.
+  - **Botón "↳ Ver conversación":** disponible cuando la tarea requiere interacción. El botón abre el chat de la tarea.
   - **Responsable:** se muestra como un menú desplegable antes de la ejecución, lo que permite definir quién ejecutará la tarea (usuario o agente). Después de iniciar la tarea, solo se muestra la imagen del responsable.
 - **Actividad:** historial de las acciones realizadas en la iniciativa, que registra el responsable de la acción, la acción ejecutada, el receptor (cuando lo haya) y la fecha y hora.
-
-En la parte superior del canvas, el botón **Abrir chat** permite iniciar una conversación relacionada con la iniciativa.

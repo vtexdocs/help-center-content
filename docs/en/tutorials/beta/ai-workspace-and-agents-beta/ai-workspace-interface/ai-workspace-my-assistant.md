@@ -1,7 +1,7 @@
 ---
 title: 'AI Workspace - My assistant'
-createdAt: 2026-11-19T12:00:00.000Z
-updatedAt: 2026-11-19T12:00:00.000Z
+createdAt: 2026-11-24T12:00:00.000Z
+updatedAt: 2026-11-24T12:00:00.000Z
 contentType: tutorial
 productTeam: AI Workspace
 slugEN: ai-workspace-my-assistant
@@ -12,7 +12,7 @@ locale: en
 
 AI Workspace is the VTEX AI-powered work environment, where merchants track store performance, receive recommendations, and run their business together with AI agents. From a single screen, you can monitor key indicators, act on suggested initiatives, and chat with your assistant to perform day-to-day tasks.
 
-![AI Workspace Home](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-inicio.png)
+![AI Workspace Home EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/ai-workspace-and-agents-beta/ai-workspace-interface/ai-workspace-my-assistant.png)
 
 The following sections describe each part of the AI Workspace **My assistant** page.
 

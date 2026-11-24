@@ -1,7 +1,7 @@
 ---
 title: 'AI Workspace - Menu de navegação'
-createdAt: 2026-11-19T12:00:00.000Z
-updatedAt: 2026-11-19T12:00:00.000Z
+createdAt: 2026-11-24T12:00:00.000Z
+updatedAt: 2026-11-24T12:00:00.000Z
 contentType: tutorial
 productTeam: AI Workspace
 slugEN: ai-workspace-navigation-menu
@@ -21,11 +21,11 @@ Logo abaixo, estão as seguintes seções de navegação:
 - **Meu assistente:** acesso à página inicial.
 - **Minhas iniciativas:** visualização e gestão das iniciativas recomendadas e em andamento.
 - **Tarefas:** visualização e gestão das tarefas.
-- **Chats:** seção com a lista de conversas com os agentes. Cada item abaixo é um botão que dá acesso à respectiva conversa.
+- **Chats:** seção com a lista de chats com os agentes. Cada item abaixo é um botão que dá acesso ao respectivo chat.
 
 Na parte inferior do menu lateral, estão disponíveis os seguintes itens:
 
-- **🔍 Busca**: abre a barra de busca, que permite buscar em conversas e iniciativas.
+- **🔍 Busca**: abre a barra de busca, que permite buscar em chats e iniciativas.
 - **🔔 Notificações**: abre um componente com a lista de notificações.
 - **Perfil:** ícone circular com sua foto de perfil. Este componente também é um botão com as seguintes opções:
   - **Meu perfil:** abre o painel de configurações do perfil.

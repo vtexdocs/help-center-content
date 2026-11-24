@@ -1,7 +1,7 @@
 ---
 title: 'AI Workspace - Iniciativas'
-createdAt: 2026-11-19T12:00:00.000Z
-updatedAt: 2026-11-19T12:00:00.000Z
+createdAt: 2026-11-24T12:00:00.000Z
+updatedAt: 2026-11-24T12:00:00.000Z
 contentType: tutorial
 productTeam: AI Workspace
 slugEN: ai-workspace-initiatives
@@ -18,7 +18,7 @@ A página **Minhas iniciativas** é acessada pelo item **Minhas iniciativas** no
 
 ## Tabela de iniciativas
 
-![AI Workspace tabela de iniciativas PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-iniciativas-tabela-iniciativas.png)
+![AI Workspace tabela de iniciativas PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-tabela-iniciativas.png)
 
 A tabela de iniciativas mostra os detalhes de cada iniciativa com as seguintes colunas:
 
@@ -45,6 +45,8 @@ Ao clicar em uma iniciativa, em qualquer modo de visualização, abre-se o [**ca
 
 ![AI Workspace iniciativa canvas PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/ai-workspace-interface/ai-workspace-iniciativa-canvas.png)
 
+No topo do canvas, o botão **Abrir chat** permite abrir um [chat](https://help.vtex.com/pt/docs/tutorials/ai-workspace-chat) relacionado à iniciativa.
+
 O canvas é organizado nas seguintes seções:
 
 - **Título:** nome da iniciativa.
@@ -53,17 +55,15 @@ O canvas é organizado nas seguintes seções:
   - **Severidade:** nível de prioridade da iniciativa.
   - **Líder da iniciativa:** responsável pela condução da iniciativa.
   - **Participantes:** demais pessoas envolvidas na iniciativa.
-  - **Reportado por:** agente que reportou a iniciativa, com data e hora.
+  - **Reportada por:** agente que reportou a iniciativa, com data e hora.
 - **Diagnóstico:** análise da situação que originou a iniciativa, detalhando o problema ou a oportunidade identificada.
 - **Tarefas:** lista de tarefas que compõem a iniciativa. Cada tarefa apresenta:
   - **Status de execução:** um ícone ou botão que representa o estado atual da tarefa. Os possíveis status são:
     - **Aberta:** exibe o botão 🔼 para iniciar a tarefa.
-    - **Em execução:** exibe o ícone de spinner 🔁 de carregamento, indicando que a tarefa está sendo processada por um agente.
+    - **Em execução:** exibe o ícone de spinner 🔁, indicando que a tarefa está sendo processada por um agente.
     - **Aguardando ação:** exibe o ícone 🔵, indicando que a tarefa aguarda uma interação do usuário para prosseguir.
     - **Concluída:** exibe o ícone ✔️, indicando que a tarefa foi finalizada.
   - **Título:** nome da tarefa.
-  - **Botão "↳ Ver conversa":** disponível quando a tarefa exige interação. O botão abre a conversa da tarefa.
+  - **Botão "↳ Ver conversa":** disponível quando a tarefa exige interação. O botão abre o chat da tarefa.
   - **Responsável:** exibido como dropdown antes da execução, permitindo definir quem executará a tarefa (usuário ou agente). Após iniciar a tarefa, apenas a imagem do responsável é exibida.
 - **Atividade:** histórico das ações realizadas na iniciativa, registrando o responsável pela ação, a ação executada, o receptor (quando houver) e a data/hora.
-
-No topo do canvas, o botão **Abrir chat** permite iniciar uma conversa relacionada à iniciativa.
