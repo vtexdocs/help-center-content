@@ -8,13 +8,15 @@ slugEN: managing-user-access-to-ai-workspace
 locale: pt
 ---
 
+> ℹ️ O AI Workspace está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ele no momento. Se já é cliente da VTEX e deseja adotar o AI Workspace em seu negócio, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/docs/tracks/suporte-comercial).
+
 > ℹ️ Esta funcionalidade está disponível apenas para contas que utilizam o AI Workspace. Caso contrário, consulte [Gerenciar usuários administrativos](https://help.vtex.com/pt/docs/tutorials/gerenciar-usuarios-administrativos).
 
-Agentes do AI Workspace atuam em nome dos usuários e podem encadear chamadas a múltiplos serviços, com permissões que variam conforme quem os aciona. Por isso, definir quais agentes cada usuário pode acessar é fundamental para a governança da conta.
+Agentes do [AI Workspace](https://help.vtex.com/pt/docs/tutorials/ai-workspace-visao-geral) atuam em nome dos usuários e podem encadear chamadas a múltiplos serviços, com permissões que variam conforme quem os aciona. Por isso, definir quais agentes cada usuário pode acessar é fundamental para a governança da conta. Para conhecer os agentes disponíveis, consulte a [Lista de Agentes da VTEX](https://help.vtex.com/pt/docs/tutorials/lista-agentes).
 
 Para contas com AI Workspace, a página **Usuários** no Admin VTEX lista todos os usuários administrativos e os agentes aos quais cada um tem acesso, além de permitir a gestão individual de acesso. Isso garante que cada pessoa interaja apenas com os agentes relevantes ao seu papel.
 
-![Página de usuários administradores com as colunas Email, Perfis de acesso, Agentes e MFA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-beta/gerenciar-acesso-de-usuarios-ao-ai-workspace_1.png)
+![Página de usuários administradores com as colunas Email, Perfis de acesso, Agentes e MFA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/gerenciar-acesso-de-usuarios-ao-ai-workspace_1.png)
 
 A página apresenta as seguintes informações em uma tabela:
 
@@ -47,7 +49,7 @@ Para adicionar um novo usuário e definir seu acesso ao AI Workspace, siga os pa
    > ℹ️ Para ver quais recursos cada agente utiliza em nome do usuário, passe o cursor sobre **Recursos** ao lado do agente.
 6. Clique em **Criar**.
 
-![Tela de criação de um novo usuário com a aba AI Workspace selecionada e agentes marcados](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-beta/gerenciar-acesso-de-usuarios-ao-ai-workspace_2.png)
+![Tela de criação de um novo usuário com a aba AI Workspace selecionada e agentes marcados](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/gerenciar-acesso-de-usuarios-ao-ai-workspace_2.png)
 
 ## Editar o acesso de um usuário existente
 
@@ -61,6 +63,6 @@ Se for necessário ajustar os agentes disponíveis para um usuário já cadastra
    > ℹ️ Para ver quais recursos cada agente utiliza em nome do usuário, passe o cursor sobre **Recursos** ao lado do agente.
 5. Clique em **Salvar**.
 
-![Tela de edição de um usuário existente com a aba AI Workspace selecionada](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-beta/gerenciar-acesso-de-usuarios-ao-ai-workspace_3.png)
+![Tela de edição de um usuário existente com a aba AI Workspace selecionada](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/ai-workspace-e-agentes-beta/gerenciar-acesso-de-usuarios-ao-ai-workspace_3.png)
 
 > ℹ️ Para excluir usuários, exportar a lista de usuários ou gerenciar o acesso a recursos do Admin VTEX, consulte [Gerenciar usuários administrativos](https://help.vtex.com/pt/docs/tutorials/gerenciar-usuarios-administrativos).
