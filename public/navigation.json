@@ -35452,9 +35452,9 @@
           "children": [
             {
               "name": {
-                "en": "AI Workspace e Agentes - Overview",
-                "es": "AI Workspace e Agentes - Visión general",
-                "pt": "AI Workspace e Agentes - Visão geral"
+                "en": "AI Workspace and Agents",
+                "es": "AI Workspace y Agentes",
+                "pt": "AI Workspace e Agentes"
               },
               "slug": {
                 "en": "ai-workspace-overview",
@@ -35557,8 +35557,8 @@
                 },
                 {
                   "name": {
-                    "en": "AI Workspace e Agentes - Glossary",
-                    "es": "AI Workspace e Agentes - Glosario",
+                    "en": "AI Workspace and Agents - Glossary",
+                    "es": "AI Workspace y Agentes - Glosario",
                     "pt": "AI Workspace e Agentes - Glossário"
                   },
                   "slug": {
