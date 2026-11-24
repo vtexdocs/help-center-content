@@ -77,7 +77,7 @@ El proceso logístico debe configurarse según las necesidades de tu tienda. Est
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Tarifas de envío](/es/docs/tutorials/tarifas-de-envio)</span>
+            <td class="t-body pa5" style="min-width: 15rem;">[Tarifas de envío](/es/docs/tutorials/tarifas-de-envio)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Gestión de los costos de envío de tu tienda.
 <body>
@@ -90,7 +90,7 @@ El proceso logístico debe configurarse según las necesidades de tu tienda. Est
    </td>
   </tr>
   <tr class="bb b--muted-3">
-<td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Gestión del stock](/es/docs/tutorials/gestionar-items-en-inventario)</span>
+<td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Gestión del stock](/es/docs/tutorials/gestionar-items-en-inventario)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">
      Gestión de la disponibilidad de los ítems registrados en el *stock*. Puedes seguir el movimiento y las reservas de ítems.
@@ -103,20 +103,20 @@ El proceso logístico debe configurarse según las necesidades de tu tienda. Est
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Simulador de envío](/es/docs/tutorials/simulador-de-envio)</span>
+            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Simulador de envío](/es/docs/tutorials/simulador-de-envio)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Herramienta de simulación de envíos, que permite reproducir escenarios de envío (disponibilidad de ítems, tipos de entrega y recogida). 
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Envío por geolocalización](/es/docs/tutorials/gestionar-geolocalizacion)</span>
+            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Envío por geolocalización](/es/docs/tutorials/gestionar-geolocalizacion)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Registro de los lugares de entrega mediante la latitud y la longitud de las direcciones.
 Esta funcionalidad se utiliza normalmente en direcciones de zonas rurales e industriales o en zonas de riesgo (donde es necesario eliminar ciertos lugares de entrega dentro de una región).
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Feriados](/es/docs/tutorials/registrar-feriados)</span>
+            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Feriados](/es/docs/tutorials/registrar-feriados)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Registro de los días que no se considerarán hábiles en tu tienda. 
 Los días registrados como feriados no se contabilizan en el plazo de entrega de los pedidos.
@@ -143,7 +143,7 @@ Los días registrados como feriados no se contabilizan en el plazo de entrega de
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Puntos de recogida](/es/docs/tutorials/puntos-de-recogida)</span>
+            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Puntos de recogida](/es/docs/tutorials/puntos-de-recogida)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Gestión de los puntos de recogida. Esta funcionalidad permite a la tienda ofrecer a los clientes la opción de recoger pedidos en puntos físicos.
 <body>

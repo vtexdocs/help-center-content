@@ -19,13 +19,13 @@ Al integrarse con un marketplace, es necesario definir qué productos serán env
 
 ## Definición del surtido de productos
 
-Una posibilidad es trabajar todo el catálogo de productos junto al marketplace. Para ello, basta con asociar el ID de la política comercial de la tienda principal, que será siempre la de **ID 1**, [cuando solicitado en la configuración](/es/tutorial/integrando-con-marketplace).
+Una posibilidad es trabajar todo el catálogo de productos junto al marketplace. Para ello, basta con asociar el ID de la política comercial de la tienda principal, que será siempre la de **ID 1**, [cuando solicitado en la configuración](/es/docs/tutorials/estrategias-de-marketplace-en-vtex).
 
 ![ExemploPoliticaComercial](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/productos/catalogacion-de-productos-para-marketplace_1.png)
 
 Esta política comercial no demanda una colección de productos configurada, porque el sistema ya entiende que se refiere a todos los productos.
 
-Otra posibilidad es trabajar con un surtido específico por alguna política comercial diferenciada. Para eso, será necesario crear y definir una nueva colección de productos y [asociarla a una nueva política comercial](/es/tutorial/configuring-a-marketplace-sales-policy/).
+Otra posibilidad es trabajar con un surtido específico por alguna política comercial diferenciada. Para eso, será necesario crear y definir una nueva colección de productos y [asociarla a una nueva política comercial](/es/docs/tutorials/configurar-politica-comercial-para-marketplace).
 
 1. En el menú del Admin, acceda al __Catálogo__.
 2. Haga clic en **Productos y SKU**.
@@ -58,6 +58,6 @@ Para comprobar si el producto se ha indexado realmente en la política comercial
 
 Después de la indexación es necesario que los productos sean catalogados en el markerplace. El tiempo para que esta acción se complete depende del proceso interno del markerplace.
 
-Si el markerplace es una tienda VTEX, basta con hacer el [mapeo de marcas y categorías](/es/docs/tutorials/mapeo-de-categorias-y-marcas-para-marketplace/) y la [aprobación de SKUs](/es/tutorial/aprobacion-de-sugerencias-de-skus).
+Si el markerplace es una tienda VTEX, basta con hacer el [mapeo de marcas y categorías](/es/docs/tutorials/mapeo-de-categorias-y-marcas-para-marketplace/) y la [aprobación de SKUs](/es/docs/tutorials/catalogacion-manual-de-skus).
 
 El seguimiento de toda esta comunicación se registrará en el VTEX Bridge.

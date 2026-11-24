@@ -3,7 +3,7 @@ title: 'Autenticação'
 id: 21CkKHLKP1o41lUpGhuRUs
 status: PUBLISHED
 createdAt: 2021-10-25T19:06:37.982Z
-updatedAt: 2024-12-12T14:23:17.290Z
+updatedAt: 2026-11-09T17:44:34.000Z
 publishedAt: 2024-12-12T14:23:17.290Z
 firstPublishedAt: 2021-11-08T18:39:50.432Z
 contentType: tutorial
@@ -71,12 +71,17 @@ Se a opção de login com senha estiver habilitada, é possível determinar que 
 
 Após o período definido, ao realizar uma tentativa de login, o usuário precisará redefinir a senha.
 
+### Configurar a duração da sessão do cliente
+
+Além de gerenciar os métodos de login e a expiração de senha, você pode configurar por quanto tempo um cliente permanece autenticado na sua loja virtual. Por padrão, as sessões expiram após 24 horas, mas você pode estender esse período até 365 dias usando a funcionalidade de login persistente. Para mais detalhes, consulte o guia [Configurar login persistente para clientes](/pt/docs/tutorials/configurar-login-persistente-para-clientes).
+
 ## Desenvolvimento de integrações
 
 Ao desenvolver integrações utilizando as [APIs](https://developers.vtex.com/docs/guides/getting-started) da VTEX, é preciso fornecer parâmetros de autenticação para realizar as operações desejadas. Veja a seguir os métodos disponíveis:
 
 * **Chaves de aplicação (appKeys):** as [chaves de aplicação](/pt/docs/tutorials/chaves-de-api) são utilizadas para autenticar solicitações às APIs da VTEX. Os administradores da loja podem criar chaves e associá-las a [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete), com permissão para utilizar determinados [recursos](/pt/docs/tutorials/recursos-do-license-manager) da plataforma. Mais informações estão disponíveis no guia para desenvolvedores [API authentication using application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys).
 * **Tokens de usuário:** os tokens de usuário são usados para autenticar solicitações de API, especialmente para aplicativos [frontend](/pt/docs/tracks/frontend) desenvolvidos com VTEX IO. Veja como usar no guia para desenvolvedores [API authentication using user tokens](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens).
+* **VTEX OAuth provider:** permite que aplicativos e agentes de IA acessem a VTEX em nome de um usuário, usando o fluxo padrão do OAuth. Veja como usar no guia para desenvolvedores [VTEX OAuth provider](https://developers.vtex.com/docs/guides/vtex-oauth-provider).
 
 ## Desenvolvimento de apps
 

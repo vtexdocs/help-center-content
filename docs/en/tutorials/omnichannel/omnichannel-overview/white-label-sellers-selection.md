@@ -68,7 +68,7 @@ The main criteria for the white label seller selection are:
 
 - Cheapest cost in the [shipping rate template](/en/docs/tutorials/shipping-rate-template) of the seller's [shipping policy](/en/docs/tutorials/shipping-policy).
 - Shortest time in the shipping rate template of the seller's shipping policy.
-- Having available [inventory](/en/tutorial/gerenciar-itens-em-estoque).
+- Having available [inventory](/en/docs/tutorials/managing-stock-items).
 
 After filtering all sellers based on the criteria above, up to six sellers will be selected for each shipping method:
 

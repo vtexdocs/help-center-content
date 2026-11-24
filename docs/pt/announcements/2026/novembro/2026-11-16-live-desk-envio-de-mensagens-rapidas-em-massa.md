@@ -1,0 +1,36 @@
+---
+title: 'Live Desk: envio de mensagens rápidas em massa'
+createdAt: 2026-11-16T12:00:00.000Z
+updatedAt: 2026-11-16T12:00:00.000Z
+contentType: updates
+productTeam: VTEX CX Platform
+slugEN: 2026-11-16-live-desk-bulk-sending-of-quick-messages
+locale: pt
+tags:
+  - Nova funcionalidade
+  - VTEX CX Platform
+announcementSynopsisPT: 'Atendentes agora podem enviar uma mensagem rápida salva para várias conversas de uma vez no Live Desk, com revisão antes do envio e acompanhamento em tempo real.'
+---
+ 
+Lançamos no [Live Desk](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk) o envio de mensagens rápidas em massa, que permite ao atendente enviar uma mensagem rápida salva para várias conversas de uma só vez, diretamente pelo menu de opções da mensagem. Essa funcionalidade está em disponibilidade geral para as lojas VTEX de todas as regiões.
+ 
+## O que mudou?
+ 
+Antes, para enviar a mesma mensagem rápida a vários contatos, o atendente precisava abrir cada conversa e enviá-la uma a uma, o que tornava a comunicação mais lenta em períodos de alto volume e dificultava a padronização das mensagens.
+ 
+Agora, a partir do menu de opções de uma mensagem rápida salva, o atendente pode:
+ 
+- Enviar para várias conversas ao mesmo tempo, sem precisar abrir cada uma.
+- Escolher os contatos que receberão a mensagem. Por padrão, todos os contatos vêm selecionados.
+- Revisar antes de enviar, por meio de um checklist de confirmação que evita envios em massa acidentais.
+- Acompanhar o envio com uma barra de progresso em tempo real e receber uma notificação de confirmação com a quantidade de conversas que receberam a mensagem.
+
+O envio em massa também funciona com mensagens rápidas. Você pode usá-lo com qualquer mensagem rápida já cadastrada, sem criar um novo modelo. Para isso, abra o menu de opções da mensagem e selecione Enviar em massa. Para mais informações, veja [Visão geral do Live Desk](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk).
+
+## O que precisa ser feito?
+ 
+Nenhuma ação é necessária. A funcionalidade já está disponível para todos os usuários do VTEX CX Platform com mensagens rápidas cadastradas.
+
+Para aprender a cadastrar mensagens rápidas, acesse o artigo [Configurar o Live Desk](https://help.vtex.com/pt/docs/tutorials/configurar-o-live-desk#setores).
+
+Para mais informações, acesse o artigo [Visão geral do Live Desk](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk).

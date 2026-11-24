@@ -13,6 +13,9 @@ slugEN: coupons-beta
 legacySlug: cupones-beta
 locale: es
 subcategoryId: 1TXh7VjDSIGA2eSI0CmUsi
+seeAlso:
+  - /es/docs/tutorials/lista-de-cupones-beta
+  - /es/docs/tutorials/crear-cupon-beta
 ---
 
 Un cupón es un código promocional formado por una secuencia de letras y números. Puedes proporcionar cupones para que los clientes apliquen promociones sobre el valor del carrito. De esta manera, al informar el código de un cupón válido al momento de la compra, tus clientes pueden obtener descuentos sobre el valor del pedido.
@@ -53,8 +56,3 @@ La plataforma genera códigos automáticamente a partir del número de prefijo, 
 Puedes generar hasta 1000 códigos asociados a un lote. Para generar más de un código vinculado a un cupón, debes activar la opción **Generando cupones en lote** al crear el cupón e informar la cantidad deseada de cupones. Para obtener más información sobre esta configuración, consulta [Crear cupón](/es/docs/tutorials/crear-cupon-beta).
 
 Al crear el lote de cupones, podrás configurar el número de veces que se puede utilizar cada código en **Restricciones**.
-
-## Más información
-
-* [Lista de cupones](/es/docs/tutorials/lista-de-cupones-beta)
-* [Crear cupón](/es/docs/tutorials/crear-cupon-beta)

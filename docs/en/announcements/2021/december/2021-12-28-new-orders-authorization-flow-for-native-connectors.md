@@ -44,7 +44,7 @@ Mandatory fields for setting up order processing with price divergence error had
 
 These fields were removed from the connector registers and the following message was added: 
 
-> Note: Orders with price divergence between the marketplace and VTEX will only be integrated after [configuring a Price Divergence rule](/en/docs/tutorials/configuring-price-divergence-rule).
+> Orders with price divergence between the marketplace and VTEX will only be integrated after [configuring a Price Divergence rule](/en/docs/tutorials/configuring-price-divergence-rule).
 
 > ℹ️ When first integrating with a native connector, it is recommended that the seller create the Price Divergence rule before configuring the integration. Not following the recommendation does not prevent the integration from being completed.
 

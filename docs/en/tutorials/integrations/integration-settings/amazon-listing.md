@@ -1,10 +1,10 @@
 ---
 title: 'Amazon Listing'
 id: 5HIhbnYzJWkl2yM0o72WrL
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2025-01-31T15:04:46.985Z
-updatedAt: 2025-03-19T14:41:51.711Z
-publishedAt: 2025-03-19T14:41:51.711Z
+updatedAt: 2026-09-17T11:29:00.000Z
+publishedAt: 
 firstPublishedAt: 2025-01-31T15:23:33.368Z
 contentType: tutorial
 productTeam: Channels
@@ -22,7 +22,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 ![overview-listing-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/amazon-listing_1.gif)
 
-> ℹ️ All products must have [Inventory](/en/docs/tutorials/warehouse) and [Price](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configured before being sent to the marketplace.
+> ℹ️ All products must have [Inventory](/en/docs/tutorials/warehouse) and [Price](/en/docs/tracks/prices-101) configured before being sent to the marketplace.
 
 ## Page overview
 

@@ -14,8 +14,7 @@ legacySlug: vtex-log-dashboard
 locale: en
 subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 ---
-
-> ⚠️ This feature is not available for new customers.
+> ⚠️ This is a regional exclusive content not applicable to English speaking countries.
 
 > ⚠️ This feature is in Open Beta stage.
 

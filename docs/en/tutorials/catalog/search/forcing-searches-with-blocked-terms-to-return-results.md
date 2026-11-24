@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 ---
 
-> ⚠️ VTEX has two search options - VTEX Search (Legacy) and VTEX Intelligent Search. This article refers to the VTEX Search (Legacy). To learn more about VTEX Intelligent Search, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ VTEX has two search options - VTEX Search (Legacy) and VTEX Intelligent Search. This article refers to the VTEX Search (Legacy). To learn more about VTEX Intelligent Search, see [this track](/en/docs/tracks/implementing-the-search-in-your-store-frontend).
 
 To make customer searches more accurate, VTEX Search (Legacy) engine ignores some terms that are very common. Some examples are the words "com" and "todo", from Portuguese, "that" and "with", from English, and "hace" and "uno", from Spanish. [See here the complete list of blocked terms](/en/faq/why-vtex-search-legacy-engine-ignores-some-terms).
 
@@ -47,6 +47,6 @@ This will bring the user to this folder. All you need to do then is point it to 
 
 Another alternative to force searches with blocked terms to return relevant search results is through a __redirect__ procedure.
 
-Again following our example, you can create a 301 redirect from the `{AccountName}.com.br/Uno` URL to the product page.
+Again following our example, you can create a 301 redirect from the `{accountName}.com.br/Uno` URL to the product page.
 
 Whenever someone searches for "Uno", the URL that will be created is the previous one, and the user will be automatically taken to the product page.

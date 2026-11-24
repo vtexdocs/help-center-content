@@ -24,6 +24,7 @@ Below is the complete list of supported languages and regions.
 You can configure locales using the following languages:
 
 * Bulgarian (bg)
+* Chinese (zh)
 * Croatian (hr)
 * Czech (cs)
 * Danish (da)
@@ -37,6 +38,8 @@ You can configure locales using the following languages:
 * Hungarian (hu)
 * Irish (ga)
 * Italian (it)
+* Japanese (ja)
+* Korean (ko)
 * Latvian (lv)
 * Lithuanian (lt)
 * Maltese (mt)
@@ -51,21 +54,13 @@ You can configure locales using the following languages:
 
 ## Supported regions
 
-### North America
+### Asia
 
-* Canada (CA)
-* Mexico (MX)
-* United States (US)
-
-### Central America
-
-* Belize (BZ)
-* Costa Rica (CR)
-* El Salvador (SV)
-* Guatemala (GT)
-* Honduras (HN)
-* Nicaragua (NI)
-* Panama (PA)
+* China (CN)
+* Hong Kong (HK)
+* Japan (JP)
+* South Korea (KR)
+* Taiwan (TW)
 
 ### Caribbean
 
@@ -82,6 +77,16 @@ You can configure locales using the following languages:
 * Saint Lucia (LC)
 * Saint Vincent and the Grenadines (VC)
 * Trinidad and Tobago (TT)
+
+### Central America
+
+* Belize (BZ)
+* Costa Rica (CR)
+* El Salvador (SV)
+* Guatemala (GT)
+* Honduras (HN)
+* Nicaragua (NI)
+* Panama (PA)
 
 ### Europe
 
@@ -113,6 +118,12 @@ You can configure locales using the following languages:
 * Spain (ES)
 * Sweden (SE)
 * United Kingdom (GB)
+
+### North America
+
+* Canada (CA)
+* Mexico (MX)
+* United States (US)
 
 ### South America
 

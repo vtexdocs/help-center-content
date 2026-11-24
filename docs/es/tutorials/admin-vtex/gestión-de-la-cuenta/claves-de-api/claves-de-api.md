@@ -67,6 +67,6 @@ Aprende más sobre cada recurso en [Recursos de License Manager](/es/docs/tutori
 ## Más información
 
 * [Configurar alerta para renovar tokens de API](/es/docs/tutorials/configurar-alerta-para-renovar-tokens-de-api)  
-* [Claves externas](/es/tutorial/chaves-externas)  
-* [Claves generadas](/es/tutorial/chaves-geradas)  
+* [Claves externas](/es/docs/tutorials/claves-externas)  
+* [Claves generadas](/es/docs/tutorials/claves-generadas)  
 * [Renovar token de API](/es/docs/tutorials/renovar-token-de-api)

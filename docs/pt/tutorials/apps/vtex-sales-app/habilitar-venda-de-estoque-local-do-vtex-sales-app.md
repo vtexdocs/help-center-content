@@ -3,7 +3,7 @@ title: 'Habilitar Venda de estoque local do VTEX Sales App'
 id: 54eQN4rOH5yBYPGG2w8v9q
 status: PUBLISHED
 createdAt: 2023-05-19T17:30:02.393Z
-updatedAt: 2026-04-09T21:09:14.115Z
+updatedAt: 2026-09-24T21:09:14.115Z
 publishedAt: 2024-11-04T21:09:14.115Z
 firstPublishedAt: 2023-05-22T23:31:37.597Z
 contentType: tutorial
@@ -66,9 +66,14 @@ Você pode [habilitar venda de item sem estoque](#habilitar-venda-de-item-sem-es
 
 ## Conectar conta franquia a loja física
 
-Para garantir que os vendedores da sua loja física tenham acesso correto ao estoque da loja em que trabalham, é importante conectar a conta franquia ao perfil dos vendedores. Para fazer isso, crie um [registro de loja física](https://help.vtex.com/pt/docs/tracks/gerenciar-lojas-fisicas-no-vtex-sales-app) no VTEX Sales App.
+Conectar a conta franquia à loja física significa informar, no cadastro da loja física no VTEX Sales App, o **nome da conta franquia** e o **ID do ponto de retirada**. Essa associação garante que os vendedores tenham acesso ao estoque da loja em que trabalham.
 
-Para isso, escolha um vendedor cadastrado na loja em que deseja testar a Venda em Mãos e siga os passos descritos abaixo.
+Para fazer isso, crie ou edite um [registro de loja física](https://help.vtex.com/pt/docs/tracks/gerenciar-lojas-fisicas-no-vtex-sales-app) no VTEX Sales App e preencha os campos em **Informações técnicas**:
+
+- **Conta franquia:** nome da [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia) criada na etapa [Criar uma conta franquia](#criar-uma-conta-franquia).
+- **Ponto de retirada:** ID do [ponto de retirada](/pt/docs/tutorials/pontos-de-retirada) cadastrado na etapa [Configurar o ponto de retirada](#configurar-o-ponto-de-retirada).
+
+Depois de conectar a conta franquia à loja física, escolha um vendedor cadastrado na loja em que deseja testar a Venda de estoque local e siga os passos descritos abaixo.
 
 1. Com [o registro do vendedor escolhido](https://help.vtex.com/pt/docs/tracks/gerenciar-vendedores-no-vtex-sales-app), acesse a aplicação do VTEX Sales App e faça o login.
    ![instore-login-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/apps/vtex-sales-app/habilitar-venda-de-estoque-local-do-vtex-sales-app_1.png)

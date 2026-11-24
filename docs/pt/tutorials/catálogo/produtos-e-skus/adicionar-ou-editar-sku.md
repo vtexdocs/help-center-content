@@ -199,7 +199,7 @@ Para vincular uma customização ao SKU, clique no ícone adicionar +, selecione
 
 ## Recomendações de cross-sell e up-sell
 
-Esta seção permite à loja configurar para o novo SKU opções de [cross selling](/pt/docs/tutorials/configurando-produto-similar-sugestoes-acessorios-e-genericos#o-que-e-cross-selling) e/ou [up selling](/pt/docs/tutorials/configurando-produto-similar-sugestoes-acessorios-e-genericos#o-que-e-up-selling), que serão refletidas na vitrine da loja e na experiência de navegação dos clientes.
+Esta seção permite à loja configurar para o novo SKU opções de [cross selling](/pt/docs/tutorials/configurar-acessorios-sugestoes-produtos-similares-e-mostrar-junto#o-que-e-cross-selling) e/ou [up selling](/pt/docs/tutorials/configurar-acessorios-sugestoes-produtos-similares-e-mostrar-junto#o-que-e-up-selling), que serão refletidas na vitrine da loja e na experiência de navegação dos clientes.
 
 Para configurar um opção de cross-sell ou up-sell, siga os passos abaixo:
 
@@ -215,7 +215,7 @@ Para configurar um opção de cross-sell ou up-sell, siga os passos abaixo:
 4. Selecione os SKUs desejados. Você pode usar a barra de busca se desejar.
 5. Clique em `Aplicar`.
 
-> ℹ️ Para mais informações, veja o artigo [Configurar produto similar, sugestões, acessórios e genéricos](/pt/docs/tutorials/configurando-produto-similar-sugestoes-acessorios-e-genericos).
+> ℹ️ Para mais informações, veja o artigo [Configurar produto similar, sugestões, acessórios e genéricos](/pt/docs/tutorials/configurar-acessorios-sugestoes-produtos-similares-e-mostrar-junto).
 
 ## Atributos
 

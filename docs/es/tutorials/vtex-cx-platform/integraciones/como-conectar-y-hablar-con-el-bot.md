@@ -1,9 +1,9 @@
 ---
-title: "Cómo conectar y hablar con el bot"
+title: "Conectar y hablar con el bot"
 id: 2bL4YkQxhUVZcRuyWRcTNs
 status: PUBLISHED
 createdAt: 2025-09-15T14:00:06.153Z
-updatedAt: 2025-10-03T14:20:33.859Z
+updatedAt: 2026-11-12T12:00:00.000Z
 publishedAt: 2025-10-03T14:20:33.859Z
 firstPublishedAt: 2025-10-03T14:20:33.859Z
 contentType: tutorial
@@ -23,6 +23,6 @@ Para agregar canales a tu cuenta, debes:
 2. Dentro de **Aplicaciones** encontrarás un menú con los canales compatibles con la VTEX CX Platform.
 3. Haz clic en el lugar indicado y sigue las instrucciones que aparecen en la ventana según el canal que hayas elegido.
 
-4. Otra forma de agregar canales es haciendo clic en **Aplicaciones > Otras Aplicaciones > Botón Agregar Canal** y luego eligiendo el canal de tu preferencia.
+4. Otra forma de agregar canales es hacer clic en **Aplicaciones > Otras Aplicaciones > Botón Agregar Canal** y luego elegir el canal de tu preferencia.
 
 Ofrecemos un tratamiento estandarizado para todos los canales, es decir, incluso si eliges más de una opción, la plataforma tratará a los contactos de la misma manera.

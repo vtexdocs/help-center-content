@@ -29,7 +29,7 @@ To activate **Price suggestions,** follow the steps below:
 2. In the **Price suggestions** section, click the <i class="ph ph-play-circle"></i> button. A confirmation pop-up will appear.
 3. Click the `Confirm` button.
 
-After activating the feature, the seller must track the suggestions in the [Price module](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP). To do so, go to **Marketplace > Connections > Price** in the VTEX Admin.
+After activating the feature, the seller must track the suggestions in the [Price module](/en/docs/tracks/prices-101). To do so, go to **Marketplace > Connections > Price** in the VTEX Admin.
 
 You can identify all price suggestions in the Price module by their **ID** following this structure: `186-Automation`, as shown in the image below:
 

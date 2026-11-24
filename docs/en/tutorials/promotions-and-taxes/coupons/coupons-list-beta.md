@@ -13,6 +13,9 @@ slugEN: coupons-list-beta
 legacySlug: coupons-list-beta
 locale: en
 subcategoryId: 1TXh7VjDSIGA2eSI0CmUsi
+seeAlso:
+  - /en/docs/tutorials/coupons-beta
+  - /en/docs/tutorials/creating-a-coupon-beta
 ---
 
 On the **Coupons** page, you can see all the [coupons](/en/docs/tutorials/coupons-beta) created in your store, manage their details and analyze how many times and in which orders they were used.
@@ -162,8 +165,4 @@ The **View usage details** modal presents information on how each coupon was use
    This section also displays the list of codes in the coupon batch and allows you to search for a specific code. When you click on a code, you have access to the list of orders where the code has been used and you can search by an order number. Clicking on an order number will take you to the order details page in **Orders management**.
 
 ![select-the-code-coupon-batch](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/coupons/coupons-list-beta_6.PNG)
-
-## Learn more
-* [Coupons](/en/docs/tutorials/coupons-beta)
-* [Creating a coupon](/en/docs/tutorials/creating-a-coupon-beta)
 

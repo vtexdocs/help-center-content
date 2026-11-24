@@ -1,0 +1,6 @@
+{
+  "id": "bank-slips",
+  "name": "Boleto",
+  "slug": "boleto",
+  "order": 1
+}

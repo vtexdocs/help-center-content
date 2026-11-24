@@ -74,7 +74,7 @@ The logistics process must be configured according to your store needs. These co
    </td>
   </tr>
    <tr class="bb b--muted-3">
-   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Shipping rates](/en/docs/tutorials/shipping-rates)</span>
+   <td class="t-body pa5" style="min-width: 15rem;">[Shipping rates](/en/docs/tutorials/shipping-rates)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Manage your store's shipping costs.
 <body>
@@ -87,7 +87,7 @@ The logistics process must be configured according to your store needs. These co
    </td>
   </tr>
    <tr class="bb b--muted-3">
-   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Inventory management](/en/docs/tutorials/managing-stock-items)</span>
+   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Inventory management](/en/docs/tutorials/managing-stock-items)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Manage the availability of the items in the inventory. You can track item activity and reservations.
 <body>
@@ -100,13 +100,13 @@ The logistics process must be configured according to your store needs. These co
    </td>
   </tr>
    <tr class="bb b--muted-3">
-   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Shipping simulator](/en/docs/tutorials/shipping-simulation)</span>
+   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Shipping simulator](/en/docs/tutorials/shipping-simulation)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Shipping simulation tool that allows you to reproduce shipping scenarios (item availability, types of delivery and pickup). 
    </td>
   </tr>
    <tr class="bb b--muted-3">
-   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Geolocation shipping](/en/docs/tutorials/registering-geolocation)</span>
+   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Geolocation shipping](/en/docs/tutorials/registering-geolocation)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Add delivery addresses using latitude and longitude information.
 
@@ -114,7 +114,7 @@ This feature is typically used for addresses in rural and industrial areas or in
    </td>
   </tr>
    <tr class="bb b--muted-3">
-   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Holidays](/en/docs/tutorials/registering-holidays)</span>
+   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Holidays](/en/docs/tutorials/registering-holidays)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Add days that will not be considered business days in your store. 
 
@@ -132,22 +132,22 @@ Days registered as holidays are not considered in the delivery time of orders.
    <td class="t-body pa5" style="min-width: 15rem;">Manage specific configurations of logistics routes. These configurations allow you to detail the delivery conditions that will be available to the customer. The possible configurations in this section are:
 <body>
 <ul>
-<li>[Additional shipping cost](/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV?&utm_source=autocomplete#adicional-de-frete): extra cost charged on top of the [shipping rate](/en/docs/tutorials/shipping-rates);</li>
-<li>[Shipment group](/en/tutorial/como-funciona-a-remessa): a group of bundled packages shipped together.</li>
-<li>[Modality](/en/tutorial/como-funciona-o-modal): type of items accepted for delivery.</li>
-<li>[Cargo splitting](/en/tutorial/como-funciona-a-divisao-de-carga): how products must be split for delivery.</li>
-<li>[Critical inventory level alert](/en/tutorial/configurar-o-alerta-de-estoque-critico): an alert for when the quantity of items is below the expected level.</li>
+<li>[Additional shipping cost](/en/docs/tutorials/additional-shipping-costs#adicional-de-frete): extra cost charged on top of the [shipping rate](/en/docs/tutorials/shipping-rates);</li>
+<li>[Shipment group](/en/docs/tutorials/setting-up-shipment): a group of bundled packages shipped together.</li>
+<li>[Modality](/en/docs/tutorials/how-does-the-modal-work): type of items accepted for delivery.</li>
+<li>[Cargo splitting](/en/docs/tutorials/configuring-cargo-splitting): how products must be split for delivery.</li>
+<li>[Critical inventory level alert](/en/docs/tutorials/setting-up-the-critical-stock-alert): an alert for when the quantity of items is below the expected level.</li>
 </body>
 </ul>
    </td>
   </tr>
    <tr class="bb b--muted-3">
-   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Pickup points](/en/docs/tutorials/pickup-points)</span>
+   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Pickup points](/en/docs/tutorials/pickup-points)
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Manage pickup points. With this feature, stores can allow customers to pick up their orders at physical pickup points.
 <body>
 <ul>
-<li>[Configuring pickup points](/en/tutorial/configurar-pontos-de-retirada-pickup-points)</li>
+<li>[Configuring pickup points](/en/docs/tutorials/2017-10-30-vtex-releases-new-pickup-points-feature)</li>
 </body>
 </ul>
    </td>

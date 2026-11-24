@@ -13,6 +13,10 @@ slugEN: creating-a-campaign-audience
 legacySlug: creating-campaigns
 locale: en
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
+seeAlso:
+  - /en/docs/tutorials/campaign-audiences
+  - /en/docs/tutorials/campaign-audiences-list
+  - /en/docs/tutorials/creating-a-campaign-audience
 ---
 
 Campaign audiences let you segment promotions by defining [target audiences](/en/docs/tutorials/campaign-audiences#target-audience) that meet specific criteria. For more information on this feature, check out [Campaign audiences](/en/docs/tutorials/campaign-audiences).
@@ -107,9 +111,3 @@ For example: The target audience includes items whose brand is **Nike**, as illu
 * **Payment system:** Allows selecting the payment methods that will be included in the target audience. The campaign audience will be activated if the payment method selected by the customer is the one configured for this target audience.
 
   > ⚠️ Campaign audiences defined by **Payment system** or **Maximum number of installments** will not apply to orders paid using two credit cards or vouchers.
-
-## Learn more
-
-- [Campaign audiences](/en/docs/tutorials/campaign-audiences)
-- [List of campaign audiences](/en/docs/tutorials/campaign-audiences-list)
-- [Creating a campaign audience](/en/docs/tutorials/creating-a-campaign-audience)

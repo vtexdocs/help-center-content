@@ -19,10 +19,10 @@ announcementSynopsisES: 'El email con el código de acceso ahora contendrá info
 
 Al intentar acceder al Admin de una tienda utilizando una dirección de correo electrónico, usted tendrá la opción de recibir un email con un código de acceso para iniciar su sesión. La parte final del mismo ahora contendrá la siguiente información sobre el dispositivo del cual se solicitó el acceso:
 
-•	Navegador web.
-•	Sistema operativo.
-•	Dirección IP.
-•	Datos de Geolocalización de la dirección IP (ciudad, estado y país).
+- Navegador web.
+- Sistema operativo.
+- Dirección IP.
+- Datos de Geolocalización de la dirección IP (ciudad, estado y país).
 
 ## ¿Por qué se hizo esto?
 

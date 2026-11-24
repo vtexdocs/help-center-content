@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-> ℹ️ **Procedimento destinado a todas filiais VTEX, exceto Brasil.**
+> ℹ️ Procedimento destinado a todas filiais VTEX, exceto Brasil.
 
 Para garantir a conformidade em todos os pagamentos realizados fora do Brasil, é preciso seguir os seguintes procedimentos:
 

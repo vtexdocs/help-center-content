@@ -15,8 +15,8 @@ No módulo **Auditoria**, você pode acessar a aba de **Conversas**, onde ficam 
 | Dado | Descrição |
 | --- | --- |
 | **Contato** | Nome e número de telefone do cliente atendido. As [Conversas incríveis](#conversas-incríveis) são identificadas com uma tag de estrela no nome do contato. |
-| **Status** | Situação atual da conversa. Os status possíveis são: <br> `Não atendido`: O atendimento não foi resolvido por falha do agente de IA (por exemplo: forneceu informação errada, ignorou reclamação, não executou uma ação prometida, entre outros). <br> `Atendido por IA`: O atendimento foi resolvido com sucesso pelo agente de IA. <br> `Em progresso`: O atendimento ainda está em andamento. <br> `Encaminhado para suporte humano`: O atendimento não pôde ser resolvido pelo agente de IA e precisou ser encaminhado para um atendente humano. |
-| **Feedback** | Avaliação de satisfação (CSAT), de 1 a 5, enviada ao final do atendimento. As notas possíveis são: <br> 😡`Muito insatisfeito / CSAT: 1` <br> 😔`Insatisfeito / CSAT: 2` <br> 😐`Neutro / CSAT: 3` <br> 😃`Satisfeito / CSAT: 4` <br> 🤩`Muito satisfeito / CSAT: 5` <br> Conversas não avaliadas recebem um traço (`-`). |
+| **Status** | Situação atual da conversa. Os status possíveis são: <br /> `Não atendido`: O atendimento não foi resolvido por falha do agente de IA (por exemplo: forneceu informação errada, ignorou reclamação, não executou uma ação prometida, entre outros). <br /> `Atendido por IA`: O atendimento foi resolvido com sucesso pelo agente de IA. <br /> `Em progresso`: O atendimento ainda está em andamento. <br /> `Encaminhado para suporte humano`: O atendimento não pôde ser resolvido pelo agente de IA e precisou ser encaminhado para um atendente humano. |
+| **Feedback** | Avaliação de satisfação (CSAT), de 1 a 5, enviada ao final do atendimento. As notas possíveis são: <br /> 😡`Muito insatisfeito / CSAT: 1` <br /> 😔`Insatisfeito / CSAT: 2` <br /> 😐`Neutro / CSAT: 3` <br /> 😃`Satisfeito / CSAT: 4` <br /> 🤩`Muito satisfeito / CSAT: 5` <br /> Conversas não avaliadas recebem um traço (`-`). |
 | **Data** | Data da conversa. |
 | **Hora** | Hora da conversa. |
 
@@ -31,7 +31,7 @@ As **Conversas incríveis** são conversas que mostram o valor dos agentes de IA
 
 Receber uma nota CSAT alta e uma mensagem de satisfação do cliente também conta ao determinar uma **Conversa incrível**.
 
-> ℹ️ Para saber mais, consulte nosso artigo [Auditoria: Backlog de melhorias](https://help.vtex.com/pt/tutorial/audit-improvements-backlog).
+> ℹ️ Para saber mais, consulte nosso artigo [Auditoria: Backlog de melhorias](https://help.vtex.com/pt/docs/tutorials/auditoria-backlog-de-melhorias).
 
 ## Buscar e filtrar conversas
 
@@ -39,6 +39,7 @@ Para encontrar atendimentos específicos, você pode utilizar os recursos de bus
 
 - Para localizar um atendimento por contato, digite o nome do contato no campo **Buscar**.
 - Para filtrar a lista por critérios como intervalo de tempo, status, CSAT, tópico ou tipo de conversa, clique em `Filtrar conversas` e selecione as opções desejadas. Ao final, clique em `Aplicar filtros`.
+- Para encontrar conversas que não receberam nenhuma classificação de tópico, clique em `Filtrar conversas` e, em **Tópico**, selecione a opção **Nenhum tópico correspondente**. Esse filtro ajuda a identificar assuntos que os clientes trazem e que ainda não foram mapeados nos tópicos do seu agente.
 
 ## Abrir e ler uma conversa
 

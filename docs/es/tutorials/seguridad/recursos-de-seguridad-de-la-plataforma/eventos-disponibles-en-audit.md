@@ -1,7 +1,7 @@
 ---
 title: 'Eventos disponibles en Audit'
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2026-09-09T00:00:00.000Z
+updatedAt: 2026-09-17T00:00:00.000Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
@@ -30,6 +30,7 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 * [VTEX ID](#vtex-id)
 * [Master Data](#master-data)
 * [Headless CMS (Legacy)](#headless-cms)
+* [CMS](#cms)
 * [Gestión de sellers](#gestion-de-sellers)
 * [Site Editor](#site-editor)
 * [Ad Network](#ad-network)
@@ -37,6 +38,8 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 * [Unidades organizativas](#unidades-organizativas)
 * [Opciones de envío](#opciones-de-envio)
 * [Agente de Optimización de Búsqueda](#agente-de-optimizacion-de-busqueda)
+* [Autenticador](#autenticador)
+* [Gestión de Contratos](#gestion-de-contratos)
 
 > ℹ️ Si, en Audit, ves algún evento no incluido en esta lista, por favor, envíanos más información a través de la [página de feedback sobre documentación](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
@@ -389,6 +392,29 @@ En la columna **Acción**, todos los eventos de Headless CMS (Legacy) también m
 * **VARIANT_ID:** código identificador único de la versión del contenido.
 * **WORKSPACE**: workspace en el que se realizó el cambio.
 
+## CMS
+
+| Acción | Descripción del evento | Detalles del evento |
+|---|---|---|
+| entry.delete | Eliminación de una entry en Content Platform. | ID de la entry. |
+| branch.create | Creación de un branch en Content Platform. | ID del branch. |
+| branch.update | Actualización de un branch en Content Platform. | ID del branch. |
+| branch.delete | Eliminación de un branch en Content Platform. | ID del branch. |
+| branch.merge | Merge de un branch en Content Platform. | ID del branch. |
+| branch.merge_scheduled | Programación del merge de un branch en Content Platform. | ID del branch. |
+| branch.merge_unscheduled | Cancelación del merge programado de un branch en Content Platform. | ID del branch. |
+| store.create | Creación de una store en Content Platform. | ID de la store. |
+| store.update | Actualización de una store en Content Platform. | ID de la store. |
+| store.default_locale_change | Cambio del locale predeterminado de una store en Content Platform. | ID de la store y locale. |
+| store.locale.create | Creación de un locale en una store de Content Platform. | ID de la store y locale. |
+| store.locale.update | Actualización de un locale en una store de Content Platform. | ID de la store y locale. |
+| store.locale.activate | Activación de un locale en una store de Content Platform. | ID de la store y locale. |
+| store.locale.deactivate | Desactivación de un locale en una store de Content Platform. | ID de la store y locale. |
+| media.upload | Carga de un archivo multimedia en Content Platform. | ID del archivo multimedia. |
+| media.create | Creación de un asset multimedia en Content Platform. | ID del archivo multimedia. |
+| media.delete | Eliminación de un asset multimedia en Content Platform. | ID del archivo multimedia. |
+| schema.publish | Publicación de un schema en el Schema Registry de Content Platform. | ID del schema. |
+
 ## Gestión de sellers
 
 | Acción | Descripción | Detalles del evento |
@@ -446,17 +472,17 @@ En la columna **Acción**, todos los eventos de Headless CMS (Legacy) también m
 
 ## Opciones de envío
 
-> ℹ️ [Opciones de envío](/es/docs/tutorials/opciones-de-envio-beta) está en fase de open beta. Estos eventos solo se registran en cuentas que usan Opciones de envío. En las demás cuentas, la búsqueda por esta aplicación no devuelve resultados.
+> ℹ️ [Opciones de envío](/es/docs/tutorials/opciones-de-envio) está en fase de open beta. Estos eventos solo se registran en cuentas que usan Opciones de envío. En las demás cuentas, la búsqueda por esta aplicación no devuelve resultados.
 
 | Acción | Descripción del evento | Detalles del evento |
 |---|---|---|
-| DELIVERY_OPTION_CREATE | Creación de una opción de envío. | ID de la opción de envío. |
-| DELIVERY_OPTION_UPDATE | Actualización de una opción de envío. | ID de la opción de envío. |
-| DELIVERY_OPTION_DELETE | Eliminación de una opción de envío. | ID de la opción de envío. |
-| DELIVERY_OPTION_UPDATE_ACCOUNT_CONFIG | Actualización de la configuración de cuenta de Opciones de envío, como las preferencias de visualización en la vitrina. | Nombre de la cuenta. |
+| DELIVERY_OPTION_CREATE | Creación manual de una opción de envío. No hay estado anterior de la opción de envío. | ID de la opción de envío. |
+| DELIVERY_OPTION_UPDATE | Actualización de una opción de envío existente, ya sea por la edición de campos o por su activación o desactivación. La activación y la desactivación solo se registran cuando el estado cambia efectivamente. | ID de la opción de envío. |
+| DELIVERY_OPTION_DELETE | Eliminación de una opción de envío. El evento registra el estado de la opción de envío inmediatamente antes de la eliminación. | ID de la opción de envío. |
+| DELIVERY_OPTION_UPDATE_ACCOUNT_CONFIG | Actualización de la configuración de cuenta de Opciones de envío, como el filtro en la página de listado de productos y las preferencias de visualización en la vitrina. La entidad auditada es la configuración de la cuenta, no una opción de envío individual. | Nombre de la cuenta. |
 | DELIVERY_OPTION_CHANGED_FILTER | Cambio en las opciones de envío usadas como filtro en la vitrina. | ID de la opción de envío. |
-| DELIVERY_OPTION_AUTOGENERATE_CREATE | Creación automática de una opción de envío a partir de una sugerencia. | ID de la opción de envío. |
-| DELIVERY_OPTION_AUTOGENERATE_UPDATE | Edición manual de una opción de envío generada automáticamente, que deja de tratarse como generada por la plataforma. | ID de la opción de envío. |
+| DELIVERY_OPTION_AUTOGENERATE_CREATE | Creación de una opción de envío mediante el flujo de generación automática, a partir de una sugerencia. Las opciones de envío generadas automáticamente siempre se crean como inactivas, a la espera de revisión manual. | ID de la opción de envío. |
+| DELIVERY_OPTION_AUTOGENERATE_UPDATE | Edición manual de una opción de envío generada automáticamente en un campo distinto del estado, que deja de tratarse como generada por la plataforma. Cambiar solo el estado no genera este evento. | ID de la opción de envío. |
 
 ## Agente de Optimización de Búsqueda
 
@@ -467,4 +493,44 @@ En la columna **Acción**, todos los eventos de Headless CMS (Legacy) también m
 | DeleteSynonymRule | Eliminación de una regla de sinónimo. | ID de la regla. |
 | ActivateSynonymRule | Activación de una regla de sinónimo. | ID de la regla. |
 | DeactivateSynonymRule | Desactivación de una regla de sinónimo. | ID de la regla. |
+| CreateRedirect | Creación de una regla de redireccionamiento de búsqueda. | ID del redireccionamiento, términos de origen, ruta de destino, conjunción, modo de coincidencia, locales y si el redireccionamiento está activo. |
+
+## Autenticador
+
+| Acción | Descripción del evento | Detalles del evento |
+|---|---|---|
+| DelegationCreated | Creación de una delegación que otorga a un usuario permiso para actuar en nombre de otro usuario de la misma unidad organizativa, durante un período determinado. | ID de la delegación, ID de la unidad organizativa, ID del usuario original, ID del usuario delegado y período. |
+| DelegationUpdated | Actualización del período de una delegación. | ID de la delegación y período. |
+| DelegationRevoked | Revocación de una delegación antes de la fecha de finalización. | ID de la delegación. |
+| ImpersonationSuccess | Suplantación exitosa de un usuario mediante un intercambio de token on-behalf-of (OBO). | ID del usuario original, ID del usuario delegado, tipo de suplantación, ID de la delegación e ID de la unidad organizativa. |
+| ImpersonationFailed | Intento fallido de suplantación de un usuario mediante un intercambio de token on-behalf-of (OBO). | ID del usuario original, ID del usuario delegado, tipo de suplantación, ID de la delegación, ID de la unidad organizativa y motivo del fallo. |
+
+## Gestión de Contratos
+
+> ℹ️ Estos eventos cubren creaciones, actualizaciones y eliminaciones de un contrato y de los registros asociados a él. Las mismas acciones incluyen cambios hechos en Gestión de Contratos y cambios confirmados por el Agente de gestión de contratos. `DENIED_ATTEMPT` registra una escritura rechazada por falta de permiso. El evento no significa que el registro haya cambiado y no incluye los valores de los campos.
+
+| Acción | Descripción del evento | Detalles del evento |
+|---|---|---|
+| CREATE_CONTRACT | Creación de un contrato. | ID del contrato y los campos guardados en el contrato. |
+| UPDATE_CONTRACT | Actualización de un contrato. | ID del contrato y cada campo modificado, con el valor antes y después del cambio. |
+| DELETE_CONTRACT | Eliminación de un contrato. | ID del contrato y los valores de los campos inmediatamente antes de la eliminación. |
+| CREATE_ADDRESS | Creación de una dirección en un contrato. | ID del contrato y los campos guardados en la dirección. |
+| UPDATE_ADDRESS | Actualización de una dirección de un contrato. | ID del contrato, ID de la dirección y cada campo modificado, con el valor antes y después del cambio. |
+| DELETE_ADDRESS | Eliminación de una dirección de un contrato. | ID del contrato, ID de la dirección y los valores de los campos inmediatamente antes de la eliminación. |
+| CREATE_LOCATION | Creación de una ubicación de entrega en una dirección de contrato. | ID del contrato y los campos guardados en la ubicación. |
+| UPDATE_LOCATION | Actualización de una ubicación de entrega de una dirección de contrato. | ID del contrato, ID de la ubicación y cada campo modificado, con el valor antes y después del cambio. |
+| DELETE_LOCATION | Eliminación de una ubicación de entrega de una dirección de contrato. | ID del contrato, ID de la ubicación y los valores de los campos inmediatamente antes de la eliminación. |
+| CREATE_RECIPIENT | Creación de un destinatario en un contrato. | ID del contrato y los campos guardados en el destinatario. |
+| UPDATE_RECIPIENT | Actualización de un destinatario de un contrato. | ID del contrato, ID del destinatario y cada campo modificado, con el valor antes y después del cambio. |
+| DELETE_RECIPIENT | Eliminación de un destinatario de un contrato. | ID del contrato, ID del destinatario y los valores de los campos inmediatamente antes de la eliminación. |
+| CREATE_PAYMENT_METHOD | Creación de un medio de pago o de un grupo de pago en un contrato. | ID del contrato y los campos guardados en el registro. |
+| UPDATE_PAYMENT_METHOD | Actualización de un medio de pago o de un grupo de pago de un contrato. | ID del contrato, ID del registro y cada campo modificado, con el valor antes y después del cambio. |
+| DELETE_PAYMENT_METHOD | Eliminación de un medio de pago o de un grupo de pago de un contrato. | ID del contrato, ID del registro y los valores de los campos inmediatamente antes de la eliminación. |
+| CREATE_ASSORTMENT | Creación de un surtido o de una colección en un contrato. | ID del contrato y los campos guardados en el registro. |
+| UPDATE_ASSORTMENT | Actualización de un surtido o de una colección de un contrato. | ID del contrato, ID del registro y cada campo modificado, con el valor antes y después del cambio. |
+| DELETE_ASSORTMENT | Eliminación de un surtido o de una colección de un contrato. | ID del contrato, ID del registro y los valores de los campos inmediatamente antes de la eliminación. |
+| CREATE_PRICE_TABLE | Creación de una tabla de precios en un contrato. | ID del contrato y los campos guardados en la tabla de precios. |
+| UPDATE_PRICE_TABLE | Actualización de una tabla de precios de un contrato. | ID del contrato, ID de la tabla de precios y cada campo modificado, con el valor antes y después del cambio. |
+| DELETE_PRICE_TABLE | Eliminación de una tabla de precios de un contrato. | ID del contrato, ID de la tabla de precios y los valores de los campos inmediatamente antes de la eliminación. |
+| DENIED_ATTEMPT | Intento de crear, actualizar o eliminar un registro de Gestión de Contratos rechazado por falta de permiso. | ID del contrato, la operación intentada, el motivo del rechazo y los nombres de los campos enviados en la solicitud. Los valores de los campos no se registran. |
 

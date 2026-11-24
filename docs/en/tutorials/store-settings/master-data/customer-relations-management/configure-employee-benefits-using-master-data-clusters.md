@@ -30,7 +30,7 @@ Here, the common property of the clients will be that they are also employees of
 
 This article assumes that the employees are properly registered with a boolean field `isEmployee` set to true in their respective documents for the CL data entity, as shown in the figure below. 
 
-If they are not, check the article [Creating a field in Master Data](/en/tutorial/how-can-i-create-field-in-master-data) to create a field that identifies the employees and properly configure it for each document corresponding to the employees.
+If they are not, check the article [Creating a field in Master Data](/en/docs/tutorials/how-can-i-create-a-field-in-master-data) to create a field that identifies the employees and properly configure it for each document corresponding to the employees.
 ![Employee field](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/store-settings/master-data/customer-relations-management/configure-employee-benefits-using-master-data-clusters_1.png)
 
 > ℹ️ There are many details to completely configure a benefit. If you need additional information on this matter, check out the article [Creating promotions](/en/tutorial/creating-promotions-2).

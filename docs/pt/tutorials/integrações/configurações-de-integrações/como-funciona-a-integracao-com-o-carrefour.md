@@ -65,7 +65,7 @@ Ao serem enviados com sucesso pela primeira vez, os produtos passam por um proce
 
 Por exemplo, se a descrição do produto for alterada, a integração não vai atualizá-la no marketplace. Para fazer algum tipo de alteração, você vai precisar entrar em contato direto com o Carrefour.
 
-> ⚠️ **OBS:** o produto não pode ser apagado no painel do Carrefour. Se isso acontecer, a integração não vai conseguir enviá-lo novamente.
+> ⚠️ O produto não pode ser apagado no painel do Carrefour. Se isso acontecer, a integração não vai conseguir enviá-lo novamente.
 
 ## 2. Estoque
 Quando um produto é enviado pela primeira vez, o estoque também é enviado. No entanto, ele é descartado pelo Carrefour, pois eles só aceitam receber os estoques para produtos já catalogados. Essa política existe para que o estoque disponível no marketplace seja sempre o mais atualizado.
@@ -112,7 +112,7 @@ Os detalhes do pedido são influenciados diretamente por fatores como entrega, p
 #### Frete
 O Carrefour consulta, no momento do pedido, a tabela de frete cadastrada na VTEX. Nossa plataforma retorna para eles as opções de frete disponíveis, de acordo com o mapeamento preenchido na configuração da integração. É importante ter em mente que a consulta só é possível se a [API de Frete](/pt/docs/tracks/enviar-produtos-para-carrefour) for cadastrada no painel do Carrefour.
 
-> ⚠️ OBS: caso nenhum dos campos do mapeamento seja preenchido corretamente, não será possível simular o frete na VTEX. Consequentemente, os pedidos feitos no Carrefour não serão integrados.
+> ⚠️ Caso nenhum dos campos do mapeamento seja preenchido corretamente, não será possível simular o frete na VTEX. Consequentemente, os pedidos feitos no Carrefour não serão integrados.
 
 Se a API de Frete não for cadastrada, o Carrefour vai usar uma __tabela de contingência__ para fazer o cálculo. Nesse caso, o Carrefour envia as informações do pedido e a integração tenta fazer um _match_ do frete calculado com a transportadora que mais se adequa dentro da VTEX (usamos o __tipo__ de transportadora como parâmetro). Caso não haja uma correspondência, haverá um erro na integração do pedido. Para solucionar isso, você precisará fazer primeiro o mapeamento de frete e, depois, reprocessar o pedido.
 
@@ -137,7 +137,7 @@ Durante o processo, pode ser que o pedido não seja integrado por algum motivo. 
 
 Depois que a integração acontece, os pedidos continuam sendo tratados com o mesmo ID usado no Carrefour.
 
-> ⚠️ **OBS:** pedidos com algum tipo de incidente não são integrados. Caso o incidente ocorra depois da integração do pedido, um aviso vai ser exibido na aba de Rastreamento no Admin da VTEX.
+> ⚠️ Pedidos com algum tipo de incidente não são integrados. Caso o incidente ocorra depois da integração do pedido, um aviso vai ser exibido na aba de Rastreamento no Admin da VTEX.
 
 ### 5.3 Interação do pedido
 Depois que o pedido foi integrado com sucesso, você pode interagir com ele tanto pelo Admin da VTEX quanto pelo painel de administrador do Carrefour. No entanto, algumas ações podem ou não ser aplicadas nos dois lados.

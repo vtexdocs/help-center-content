@@ -17,7 +17,7 @@ tags:
 
 Redesenhamos a página de configurações de pedido e checkout no Admin da VTEX. As configurações agora estão disponíveis em uma nova experiência independente, com uma interface mais moderna e carregamento mais rápido, mantendo as mesmas opções de configuração que você já utiliza.
 
-O acesso à página continua exigindo os recursos do [License Manager](https://help.vtex.com/en/announcements/2025-10-21-new-license-manager-resources-order-configurations): `Save Order Configuration` e `Save OrderForm Configuration`.
+O acesso à página continua exigindo os recursos do [License Manager](https://help.vtex.com/pt/announcements/2025-10-21-novos-recursos-do-license-manager-configuracoes-pedidos): `Save Order Configuration` e `Save OrderForm Configuration`.
 
 ## Por que fizemos essa mudança?
 

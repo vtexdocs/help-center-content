@@ -27,5 +27,5 @@ Un marketplace también puede ser entendido como una *tienda vitrina*, que exhib
 ## Artículos relacionados
 
 - [¿Qué es un seller?](/es/docs/tutorials/que-es-un-seller)
-- [Configurar seller](/es/tutorial/configuracion-de-seller)
-- [Integrar con marketplace](/es/tutorial/integrando-con-marketplace)
+- [Configurar seller](/es/docs/tutorials/agregar-seller)
+- [Integrar con marketplace](/es/docs/tutorials/estrategias-de-marketplace-en-vtex)

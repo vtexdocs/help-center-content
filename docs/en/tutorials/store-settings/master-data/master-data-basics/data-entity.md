@@ -1,18 +1,13 @@
 ---
 title: 'Data entity'
-id: tutorials_1265
-status: PUBLISHED
 createdAt: 2017-04-27T21:56:57.118Z
-updatedAt: 2026-07-08T18:37:00.000Z
-publishedAt: 2024-10-23T23:39:13.110Z
-firstPublishedAt: 2017-04-27T23:03:49.803Z
+updatedAt: 2026-11-11T00:00:00.000Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_3
 slugEN: data-entity
 legacySlug: creating-data-entity
 locale: en
-subcategoryId: 1l3IVVYwrrG5YOtdt7R2SN
 ---
 
 A data entity is a representation of a set of information about a given concept. Each entity includes fields with information that makes up the entity.
@@ -23,11 +18,11 @@ For example, imagine a system that controls a library. This system controls book
 
 With these concepts in mind, you can set up several data control scenarios in Master Data. By default, the following data entities are considered: customer, address, stores, etc. You can create as many data entities as you want to develop a customized environment tailored to your store's needs.
 
-> ℹ️ Data entities created by your operation are considered custom entities and are subject to a monthly charge. Learn more in [Custom data entities](/docs/tutorials/master-data).
+> ℹ️ Data entities created by your operation are considered custom entities and are subject to a monthly charge. Learn more in [Custom data entities](/en/docs/tutorials/master-data).
 
 > ⚠️ This article outlines the Master Data v1 operation. You should evaluate which Master Data version meets your needs or is in use in your operation. Learn more: <ul> <li>[Master Data version features](/en/docs/tutorials/master-data#available-versions)</li> <li>[Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics)</li> </ul>
 
-> ⚠️ Deleting a data entity through the Master Data v1 interface **doesn't** remove the documents (records) already stored. The billed volume remains unchanged until the records are removed via the API. To delete documents and reduce billing, see the [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) guide on the developer portal. See the [guide to fix](/docs/tutorials/master-data-billing-did-not-decrease-after-deleting-a-data-entity) this issue.
+> ⚠️ Deleting a data entity through the Master Data v1 interface **doesn't** remove the documents (records) already stored. The billed volume remains unchanged until the records are removed via the API. To delete documents and reduce billing, see the [Deleting documents in bulk in Master Data](https://developers.vtex.com/docs/guides/deleting-documents-in-bulk-in-master-data) guide on the developer portal. See the [guide to fix](/en/troubleshooting/master-data-billing-did-not-decrease-after-deleting-a-data-entity) this issue.
 
 ## Data types
 
@@ -62,6 +57,8 @@ When creating a field, the following types are displayed:
 | **Varchar 50** | Stores numbers, letters, and special characters, limited to 50 characters. |
 | **Varchar 750** | Stores numbers, letters, and special characters, limited to 750 characters. |
 
+> ⚠️ **Text** and **Varchar** fields accept only plain text, not objects or other structured values. If one of these fields has the **Is searchable?** or **Is filterable?** option checked and receives an object (for example, `{}`), the document containing that value is left out of the index. The other documents in the entity continue to be indexed normally. The affected document remains stored and is returned in queries by ID, but it doesn't appear in API searches (`/search`) or in the Master Data interface. To fix this, send the value as text or uncheck the **Is searchable?** and **Is filterable?** options for the field. Then reindex the entity.
+
 ## Creating data entities
 
 Follow the steps below to configure a new data entity.
@@ -80,7 +77,7 @@ Follow the steps below to configure a new data entity.
 9.  Complete the **Fields** tab with the fields you want to include in the new data entity, indicated as follows.
 10. Complete the **Name** column with the field's identification value. Do not insert spaces or special characters. Example: CustomerName.
 11. Complete the **Display Name** column with the name that will be displayed on the form. Example: Customer name.
-12. Select the field type based on the options described in the [Data types](#data-typed) section.
+12. Select the field type based on the options described in the [Data types](#data-types) section.
 13. Click the <i class="fas fa-cog"></i> gear icon to open the field configuration options.
 14. Complete the **General settings**:
 
@@ -93,6 +90,9 @@ Follow the steps below to configure a new data entity.
 
 	- **Is searchable?**: If this field is used for searching in the form and via API.
 	- **Is filterable?:** If this field is used to filter the form and via API.
+
+	For **Text** and **Varchar** fields with these options checked, see the warning about accepted values in the [Data types](#data-types) section.
+
 16. Add a field description.
 17. To add more fields, click the `New Field` button and repeat steps 10 to 16.
 18. At the end of the field definition, click the `Save` button to complete or `Save and New` to create a new data entity.

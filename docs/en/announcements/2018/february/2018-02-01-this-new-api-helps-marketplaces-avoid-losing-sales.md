@@ -23,4 +23,4 @@ With this new status, marketplaces can recover sales that would be otherwise los
 
 This new feature allows marketplaces to have a more efficient quality control on the overall buying experience because they can also choose a different seller when the order status is "__Pending payment__" or "__Awaiting authorization__". Another possibility is for those stores that have white label sellers: now they're able to change the seller responsible for an order.
 
-To know more about the Change Seller API, read this [VTEX Help article](/en/tutorial/how-to-use-the-change-seller). 
+To know more about the Change Seller API, read this [VTEX Help article](/en/docs/tutorials/change-seller). 

@@ -13,6 +13,9 @@ slugEN: coupons-beta
 legacySlug: coupons-beta
 locale: en
 subcategoryId: 1TXh7VjDSIGA2eSI0CmUsi
+seeAlso:
+  - /en/docs/tutorials/coupons-list-beta
+  - /en/docs/tutorials/creating-a-coupon-beta
 ---
 
 A coupon consists of a promotional code composed of a sequence of letters and numbers. Coupons may be used to apply promotions to the shopping cart price. By entering a coupon code at checkout, your customers may get discounts on the order price.
@@ -53,8 +56,3 @@ The platform automatically generates codes based on the prefix, followed by a da
 You can generate up to 1000 codes associated with a batch. To generate more than one code attached to a coupon, you must enable the **Generating coupons in a batch** option during setup and specify the desired quantity of codes. Please refer to [Creating a coupon](/en/docs/tutorials/creating-a-coupon-beta) for more information on this configuration.
 
 You can configure the number of times each code can be used in **Restrictions** when creating the coupon.
-
-## Learn more
-
-* [Coupon list](/en/docs/tutorials/coupons-list-beta)
-* [Creating a coupon](/en/docs/tutorials/creating-a-coupon-beta)

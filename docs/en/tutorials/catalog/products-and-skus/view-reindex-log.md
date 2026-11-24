@@ -17,7 +17,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 You may consult the log of when and who reindexed the database using the Full Clean Up tool, accessible through the following URL:
 
-`https://{AccountName}.vtexcommercestable.com.br/admin/Site/fullcleanup.aspx`
+`https://{accountName}.vtexcommercestable.com.br/admin/Site/fullcleanup.aspx`
 
 In fact, any action taken on Full Clean Up is recorded on this page.
 
@@ -31,4 +31,4 @@ The log displays the following information for each action:
 
 ### Related articles
 
-- [Cleaning store's database](/en/tutorial/understanding-how-to-maintain-a-database)
+- [Cleaning store's database](/en/docs/tutorials/database-maintenance-full-cleanup)

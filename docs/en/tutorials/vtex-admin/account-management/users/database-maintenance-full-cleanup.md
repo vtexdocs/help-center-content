@@ -17,7 +17,7 @@ subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 
 At the beginning of a VTEX store operation, it is often necessary to test the platform functions and to get used to the tools, processes, and possible results. To revert the results of some of these operations, we provide the following URL to clean up the store database:
 
-`https://{AccountName}.myvtex.com/admin/Site/fullcleanup.aspx`
+`https://{accountName}.myvtex.com/admin/Site/fullcleanup.aspx`
 
 On this page, you can clean up the catalog and restart the indexer, removing all products from your store.
 

@@ -80,7 +80,7 @@ This setting allows you to activate the desired sharing channels in the cart sha
 
 ## Customization (optional)
 
-You can change the button colors on your store's cart sharing interface through [Checkout customization](/en/tutorial/configurar-template-no-smartcheckout--frequentlyAskedQuestions_599). 
+You can change the button colors on your store's cart sharing interface through [Checkout customization](/en/docs/tutorials/configure-template-in-smartcheckout-update). 
 
 In the image below, option A shows the original colors and option B shows one possible customization.
 
@@ -265,7 +265,7 @@ The custom sales query page would be developed using [VTEX APIs](https://develop
 
 ### How do I change a cart that has already been shared? 
 
-Simply open the shared link to load the cart and make the necessary changes. All users with access to the link can see items, add and remove products, and even pay for the order.  
+Open the shared link to load the cart and make the necessary changes. All users with access to the link can see items, add and remove products, and even pay for the order.  
 
 ### If I change cart items or information, does it affect other previously shared carts?
 

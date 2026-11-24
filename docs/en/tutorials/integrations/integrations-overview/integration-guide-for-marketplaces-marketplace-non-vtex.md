@@ -49,11 +49,9 @@ In this article, you get an overview of the process of integrating both blocks, 
 
 ### API REST - Actions pursuant to Catalog updates
 
-1) Marketplace receives notifications on price, inventory or catalog changes.  
-
-2) Marketplace searches for Seller's SKU data using the Catalog's API.   
-
-3) Marketplace searches for SKU price, inventory and shipping data using the Fulfillment API.  
+1. Marketplace receives notifications on price, inventory or catalog changes.  
+2. Marketplace searches for Seller's SKU data using the Catalog's API.   
+3. Marketplace searches for SKU price, inventory and shipping data using the Fulfillment API.  
 
 > ℹ️ For more information, see the documentation for developers [External Marketplace](https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-guide).
 
@@ -66,7 +64,7 @@ The integrations flow referring to the shipping and processing of orders can be 
 
 - **Marketplace** needs to simulate the cart to check the *Seller's* price and inventory. 
 
-> OBS: when the client proceed to checkout, another cart simulation must be made.  
+> When the client proceed to checkout, another cart simulation must be made.  
 
 ### Order sending and shipping authorization
 - Order is closed in **Marketplace**.    
@@ -83,11 +81,11 @@ The integrations flow referring to the shipping and processing of orders can be 
 
 ### API REST - Actions referring to Order shipping and processing
 
-1) Cart simulation.  
-2) Place order with the Seller.  
-3) Authorize order dispatch with the Seller.  
-4) Report Invoice.  
-5) Report carrier tracking.  
-6) Submit cancellation request.  
+1. Cart simulation.  
+2. Place order with the Seller.  
+3. Authorize order dispatch with the Seller.  
+4. Report Invoice.  
+5. Report carrier tracking.  
+6. Submit cancellation request.  
 
 > ℹ️ For more information, see the documentation for developers [External Marketplace](https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-guide).

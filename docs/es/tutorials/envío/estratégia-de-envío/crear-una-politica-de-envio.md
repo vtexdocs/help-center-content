@@ -10,60 +10,64 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: creating-a-shipping-policy
-legacySlug: crear-una-politica-de-envio
+legacySlug: criar-uma-politica-de-envio
 locale: es
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-La [política de envío](/es/docs/tutorials/politica-de-envio) es un conjunto de reglas y ajustes que definen las opciones de envío que se mostrarán a los clientes en el checkout. La relación entre la política de envío, [almacén](/es/docs/tutorials/almacen) y [muelle](/es/docs/tutorials/muelles) es lo que conforma la [estrategia de envío](/es/docs/tutorials/estrategia-de-envio) en VTEX.
+Una [política de envío](https://help.vtex.com/es/docs/tutorials/politica-de-envio) es un conjunto de reglas y ajustes que definen las opciones y condiciones de envío que se mostrarán a los clientes en el checkout. La relación entre **política de envío**, [almacén](https://help.vtex.com/es/docs/tutorials/almacen) y [muelle](https://help.vtex.com/es/docs/tutorials/muelles) establece tu [estrategia de envío](https://help.vtex.com/es/docs/tutorials/estrategia-de-envio) en VTEX.
 
-Este artículo presenta cómo se crea una política de envío a través de VTEX Admin. Si desea gestionar sus políticas, consulte el artículo [Gestionar políticas de envío](/es/docs/tutorials/gestionar-politicas-de-envio).
+Este artículo explica cómo crear una política de envío en el Admin VTEX. Si deseas monitorear y gestionar tus políticas, consulta el artículo [Gestionar políticas de envío](https://help.vtex.com/es/docs/tutorials/gestionar-politicas-de-envio).
 
-Para crear una nueva política de envío, siga los pasos a continuación:
+Para crear una nueva política de envío sigue los pasos a continuación:
 
-1. En el Admin VTEX, accede a **Envío > Estrategia de Envío > Políticas de Envío**, o escribe **Estrategia de Envío** en la barra de búsqueda en la parte superior de la página.  
-2. Haga clic en e`Crear Política de Envío`.
-3. Complete los campos que se muestran y, al terminar, haga clic en `Guardar`.
+1. En el Admin VTEX, ve a **Envío > Estrategia de envío > Políticas de envío** o escribe **Estrategia de envío** en la barra de búsqueda en la parte superior de la página.
+2. Haz clic en el botón `Crear política de envío`.
+3. Llena los campos de la pantalla que se describen a continuación y luego haz clic en `Guardar cambios`.
 
-*   **Nombre:** nombre interno de la política de envío.
-*   **ID:** identificador interno y para integradores. Debe rellenarse solo con letras y números, no utiliza espacio. Si no se rellena, se creará un ID automáticamente.
-*   **[Método de envío](/es/docs/tutorials/como-se-maneja-el-tipo-de-entrega):** nombre del tipo de entrega. Sirve para separar los diferentes servicios de entrega. Es el nombre que se mostrará al cliente al finalizar la compra. Por ejemplo, expreso vs. regular. 
-*   **Cargar [tarifas de envío](/es/docs/tutorials/plantilla-de-flete):** tabla con los valores y plazos de envío asumidos por la política de envío.
-*   **[Dimensiones del paquete](/es/docs/tutorials/como-se-maneja-el-apilamiento):**
-    *   **Suma de dimensiones:** límites máximos de las aristas del paquete, aceptados. Al llegar a este valor, la entrega se divide en paquetes o no se realiza por esta política de envío. Son datos que se pasan al cerrar el contrato con la política de envío. 
-    *   **Longitud máxima:** máxima medida aceptada. Cuando se alcanza este valor, la entrega se divide en paquetes o no se realiza por esta política de envío. Si un ítem tiene una arista con un tamaño superior a la longitud máxima, nunca se entregará por la política de envío.
-    *   **[Factor de peso volumétrico](/es/docs/tutorials/como-se-calcula-el-peso-cubico):** factor que se utilizará para calcular el peso volumétrico. Suma de las medidas, dividida por el factor de conversión. 
-    *   **Factor de peso mínimo:** utilice el peso volumétrico solo si supera este valor. Límite de peso donde, a partir de este, se considerará el cálculo del peso volumétrico para el envío.
-    *   **Fines de semana y feriados:** días de la semana para las entregas. Marque los flags para activar la entrega en los siguientes escenarios: `entrega sábados`, `entrega domingos`, `entrega feriados`.
-*   **Fines de semana y feriados:**  para entregas en fines de semana o feriados. Marque los flags para habilitar la entrega en los siguientes escenarios: `entrega sábados`, `entrega domingos`, `entrega feriados`.
-*   **[Modalidades activas](/es/docs/tutorials/como-se-maneja-el-modal):** especificaciones de productos que requieren una entrega especial. Estas son las limitaciones de envío del producto que permite la política de envío. Entender más sobre las modalidades. Marque los flags para habilitar la entrega en los siguientes escenarios: `productos químicos`, `electrónicos`, `muebles`, `vidrio`, `líquidos`, `colchones`, `productos refrigerados`, `llantas`, `electrodomésticos` y `armas de fuego`.
-*   **Ítems del paquete:** cantidad mínima de ítems aceptados por envío, de acuerdo con la política de envío.
-    *   **Valor mínimo:** valor mínimo aceptado por la política de envío para realizar el servicio.
-    *   **Mínimo de ítems:** múltiplo mínimo de la cantidad de ítems aceptados por la transportadora. Por ejemplo, si se rellena con el valor **3**, significa que la transportadora solo hace entregas con cantidades de ítems múltiplos de tres (3, 6, 9, 21...).
-    *   **Valor máximo:** valor máximo aceptado por la política de envío para realizar el servicio.
-*   **Relacionar puntos de recogida:** marque este flag, para abrir la opción de Puntos de Recogida. Haga clic en el menú desplegable y seleccione entre `Tags de los puntos de recogida`, `Nombres de los puntos de recogida` y `Importar puntos de recogida de los sellers` previamente registrados.
-*   **Configuración de tiempo:** seleccione el día y la hora de apertura y cierre en los siguientes escenarios. Puede añadir más de un plazo por escenario.
-*   **[Horario laboral:](/es/docs/tutorials/horario-de-atencion-de-las-transportadoras)** horarios en los que la política de envío hace recolecciones o los ventanas de envío en los que envía los ítems a los clientes. Estos ajustes influyen en el cálculo del plazo de entrega:
-    *   **Ventana de envío:** es donde se registran los periodos laboral de la política de envío, es decir, los horarios en los es posible recibir pedidos. Para configurar, seleccione la opción `Ventana de envío`:
-        *   Habilite `Aceptar compras fuera del horario laboral` si la política de envío acepta compras fuera del horario laboral. Ahora bien, aunque la política de envío acepte pedidos fuera del horario laboral, el tiempo hasta el próximo periodo disponible se añadirá al SLA final.
-        *   Seleccione `Día de la semana`, y rellene la hora de `Hora de inicio` y `Hora de fin`.
-        *   Para añadir más días de la semana, haga clic en `Agregar ventana deb envío`.
-    *   **Hora de recogida:** es donde se registran los horarios en que la política de envío recolecta los paquetes en su almacén o centro de distribución, para luego enviarlos a los clientes finales. Es importante destacar que si el pedido se realiza antes de la hora de recolección del mismo día, no se agregará tiempo adicional al SLA final, si se realiza después de la hora de recolección, el tiempo hasta el próximo horario de recolección se agregará al SLA.  
-        *   Seleccione `Día de la semana` y rellene el `Hora de recogida`. 
-        *   Para añadir más días de la semana, haga clic en `Agregar hora de recogida`.
+- **Activo:** activa o desactiva la política de envío.
+- **Nombre:** nombre interno de la política de envío.
+- **ID:** identificador interno y para integradores. Debe completarse solo con letras y números, y no debe contener espacios. Si lo dejas en blanco, se creará un ID automáticamente.
+- **[Método de envío](https://help.vtex.com/es/docs/tutorials/como-se-maneja-el-tipo-de-entrega):** nombre del tipo de envío. Sirve para separar los diferentes servicios de envío. Es el nombre que se mostrará en el checkout al cliente. Ejemplo: Express vs. Estándar.
+- **[Cargar tarifas de envío](https://help.vtex.com/es/docs/tutorials/plantilla-de-flete):** la tabla con los valores y plazos de envío asumidos por la política de envío.
+- **[Dimensiones del paquete](https://help.vtex.com/es/docs/tutorials/como-se-maneja-el-apilamiento):**
+  - **Suma de dimensiones:** límite de dimensión del paquete que toma en cuenta la suma de la medida de todas las aristas del paquete. Al alcanzar este valor, el envío se divide en paquetes o no se realiza. La transportadora proporciona estos datos al firmar un contrato.
+  - **Longitud máxima:** límite de tamaño de la arista mayor del paquete. Al alcanzar este valor, el envío se divide en paquetes o no se realiza.
+  - **[Factor de peso volumétrico](https://help.vtex.com/es/docs/tutorials/como-se-calcula-el-peso-cubico):** factor que se utilizará para el cálculo del peso volumétrico. Suma de las medidas, dividida por el factor volumétrico.
+  - **Factor de peso mínimo:** usa el peso volumétrico solo si supera este valor. Límite de peso a partir del cual se considerará el cálculo del peso volumétrico para el envío.
+- **Fines de semana y feriados:** los días de la semana para envíos. Marca las opciones para activar el envío en los siguientes casos: `Entrega sábados`, `Entrega domingos`, `Entrega feriados`.
 
-> ⚠️ La **Ventana de envío** y la **Hora de recogida** son opciones que se excluyen entre sí, ya que no se puede asignar el mismo período simultáneamente a acciones distintas. 
+> ⚠️ Para ofrecer envíos en fines de semana, debes marcar las opciones `Entrega sábados` y `Entrega domingos` e incluir el sábado y el domingo en la configuración de [horario laboral](https://help.vtex.com/es/docs/tutorials/horario-de-atencion-de-las-transportadoras) de la política de envío. Si el día está registrado en el horario laboral, pero la opción correspondiente no está activa, el envío en fin de semana no se ofrecerá al cliente en el checkout.
 
-*   **[Entrega programada](/es/docs/tutorials/entrega-programada)**: esta funcionalidad puede habilitarse si la política de envío ofrece un servicio de entrega programada. Aquí es donde debe añadir las ventanas de entrega que estarán disponibles para el cliente al final de la compra. Para utilizarla, habilite `entrega programada` y rellene:
-    *   **Tiempo máximo de entrega:** define el tiempo máximo de entrega, debe ser completado con el tiempo en días.
-    *   **Periodo de entrega:** define las ventanas de entrega de la política de entrega. Debe añadir los días de la semana, las horas de `inicio` y `fin` de la ventana de entrega y el valor adicional. Haga clic en `Nuevo periodo de entrega` para añadir más ventanas de entrega. 
-    *   **Capacidad de entrega:** le permite limitar el número de ítems/pedidos que pueden entregarse para cada ventana de entrega. Esta funcionalidad puede habilitarse o no. El uso o no de esta funcionalidad no interfiere con el funcionamiento de la plataforma. Para saber más sobre estos recursos, consulte [Entrega programada](/es/docs/tutorials/entrega-programada) y [Gestionar capacidad de entrega](/es/docs/tutorials/gestionar-capacidad-de-entrega). Si está habilitada debe: 
-        *   Elija la unidad de la capacidad de entrega entre `ítems` y `pedidos`.
-        *   Verifique las ventanas de entrega.
-        *   Definir el número de la `capacidad de entrega`. Recomendamos tener especial cuidado a la hora de elegir la unidad de capacidad de entrega porque el sistema no calcula la disponibilidad de la capacidad de entrega teniendo en cuenta la cantidad de ítems que se compran. Así, si la ventana de entrega todavía tiene capacidad para 2 ítems y su cliente está comprando 4 ítems, aún tendrá la opción de seleccionar la ventana de entrega disponible.
+- **[Modalidades activas](https://help.vtex.com/es/docs/tutorials/como-se-maneja-el-modal):** especificaciones de productos que requieren un envío especial. Son las limitaciones de envío del producto que la política de envío permite. Marca las opciones para activar el envío en los siguientes casos: `químicos`, `electrónicos`, `muebles`, `vidrio`, `líquidos`, `colchones`, `refrigerados`, `llantas`, `línea blanca` y `armas de fuego`.
+- **Ítems del paquete:** descripción del valor y número de ítems del paquete:
+  - **Valor mínimo:** valor mínimo aceptado por la política para realizar el envío.
+  - **Mínimo de ítems:** múltiplo mínimo de la cantidad de ítems aceptado por la transportadora. Por ejemplo, si lo llenas con el valor **3**, la transportadora solo realiza envíos que tienen cantidades de ítems múltiplos de tres (3, 6, 9, 21…).
+  - **Valor máximo:** valor máximo aceptado por la política para realizar el envío.
+- **Asociar puntos de recogida:** marca esta opción para abrir la sección de Puntos de recogida. Haz clic en la lista desplegable y selecciona entre `Tags de los puntos de recogida`, `Nombres de los puntos de recogida` e `Importar punto de recogida de los sellers` previamente registrados.
+- **[Horario laboral](https://help.vtex.com/es/docs/tutorials/horario-de-atencion-de-las-transportadoras):** los horarios en que la transportadora realiza recogidas y las ventanas de tiempo en que envía los ítems a los clientes. Estas configuraciones influyen en el cálculo del tiempo de entrega:
+  - **Ventana de envío:** registra los periodos de atención de la transportadora, es decir, los horarios en que recibe pedidos. Para configurar los periodos, selecciona `Ventana de envío`:
+    - `Aceptar compras fuera del horario laboral`: activa o desactiva la recepción de compras fuera del horario laboral. Cuando esta opción está activa, el intervalo de tiempo desde el momento del pedido hasta el inicio del horario se sumará al tiempo total de entrega.
+    - Selecciona el `Día de la semana` y completa la `Hora de inicio` y la `Hora de fin`.
+    - Para agregar más días de la semana, haz clic en `Agregar ventana de envío`.
+  - **Hora de recogida:** registra los horarios en que la transportadora recolecta paquetes en tu almacén o centro de distribución para luego enviarlos a los clientes finales. Si el pedido se realiza antes del inicio del horario de recogida, no se agregará ningún tiempo al tiempo total de entrega. Sin embargo, si se realiza después del horario de recogida, el intervalo de tiempo desde el momento del pedido hasta el inicio del horario se sumará al tiempo total de entrega.
+    - Selecciona el `Día de la semana` y la `Hora de recogida`.
+    - Para agregar más días de la semana, haz clic en `Agregar hora de recogida`.
 
-### Sepa más
+> ⚠️ La **Ventana de envío** y la **Hora de recogida** son opciones excluyentes, ya que un mismo periodo no puede destinarse simultáneamente a acciones diferentes.
 
-* [Política de envío](/es/docs/tutorials/politica-de-envio)
-* [Gestionar políticas de envío](/es/docs/tutorials/gestionar-politicas-de-envio)
-* [Estrategia de envío](/es/docs/tutorials/estrategia-de-envio)
+- **[Entrega programada](https://help.vtex.com/es/docs/tutorials/entrega-programada):** esta funcionalidad puede activarse si la política de envío ofrece el servicio de entrega programada. Aquí debes agregar las ventanas de entrega que estarán disponibles para el cliente al final de la compra. Para usarla, activa `Entrega programada` y llena los siguientes campos:
+  - **Tiempo máximo de entrega:** define el tiempo máximo de entrega, que debe llenarse con el tiempo en días.
+  - **Periodo de entrega:** define las ventanas de entrega que realiza la política de envío. Debes agregar los días de la semana, los horarios de `Inicio` y `Fin` de la ventana de entrega y el valor adicional. Haz clic en `Agregar ventana de entrega` para agregar más ventanas de entrega.
+  - **Capacidad de entrega:** permite limitar cuántos ítems/pedidos pueden enviarse en cada ventana de entrega. Activar esta funcionalidad es opcional. Su uso u omisión no afecta el funcionamiento de la plataforma. Para más información sobre estos recursos, consulta [Entrega programada](https://help.vtex.com/es/docs/tutorials/entrega-programada) y [Gestionar capacidad de entrega](https://help.vtex.com/es/docs/tutorials/gestionar-capacidad-de-entrega). Si la activas, debes:
+    - Elegir la unidad de capacidad de entrega entre `ítems` y `pedidos`.
+    - Revisar las ventanas de entrega.
+    - Definir el valor de capacidad de entrega. Elige la unidad y la cantidad de capacidad de entrega con cuidado, ya que el sistema no calcula la disponibilidad de la `capacidad de entrega` tomando en cuenta la cantidad de ítems que se están comprando. Si la ventana de entrega aún tiene capacidad para 2 ítems y tu cliente está comprando 4 ítems, podrá seleccionar la ventana de entrega disponible.
+
+      Es importante recordar que las ventanas de entrega dejan de estar disponibles para los clientes si ya han alcanzado el límite de la `capacidad de entrega`. Para que una ventana vuelva a estar disponible para los clientes, es necesario aumentar la cantidad de ítems/pedidos de la capacidad de entrega de la ventana.
+
+### Más información
+
+- [Política de envío](https://help.vtex.com/es/docs/tutorials/politica-de-envio)
+- [Gestionar políticas de envío](https://help.vtex.com/es/docs/tutorials/gestionar-politicas-de-envio)
+- [Estrategia de envío](https://help.vtex.com/es/docs/tutorials/estrategia-de-envio)

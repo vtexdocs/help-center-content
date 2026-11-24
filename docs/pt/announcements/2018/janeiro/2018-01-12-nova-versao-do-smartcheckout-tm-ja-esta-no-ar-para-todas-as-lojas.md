@@ -30,4 +30,4 @@ Veja mais mudanças importantes:
 
 > ⚠️ Mas lembre-se: a VTEX **não recomenda** a alteração dos arquivos de JavaScript, porque isso pode causar danos de segurança ao seu checkout. Por isso, não nos responsabilizamos por qualquer problema gerado na edição desse código.
 
-Para saber todos os detalhes sobre a nova versão do SmartCheckout™, veja o [artigo do VTEX Help](/pt/tutorial/mudando-para-nova-versao-do-smart-checkout).
+Para saber todos os detalhes sobre a nova versão do SmartCheckout™, veja o [artigo do VTEX Help](/pt/docs/tutorials/caracteristicas-gerais-smartcheckout-v5).
