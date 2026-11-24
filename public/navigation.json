@@ -48844,6 +48844,21 @@
             },
             {
               "name": {
+                "en": "Tax Service getting different values from Marketplace and Fullfilment when a More for Less promotion is used.",
+                "es": "El servicio de impuestos obtiene valores diferentes de Marketplace y Fulfillment cuando se utiliza una promoción de \"Más por menos\".",
+                "pt": "O Serviço de Impostos obtém valores diferentes do Marketplace e do Fulfillment quando uma promoção \"Mais por Menos\" é utilizada."
+              },
+              "slug": {
+                "en": "tax-service-getting-different-values-from-marketplace-and-fullfilment-when-a-more-for-less-promotion-is-used",
+                "es": "el-servicio-de-impuestos-obtiene-valores-diferentes-de-marketplace-y-fulfillment-cuando-se-utiliza-una-promocion-de-mas-por-menos",
+                "pt": "o-servico-de-impostos-obtem-valores-diferentes-do-marketplace-e-do-fulfillment-quando-uma-promocao-mais-por-menos-e-utilizada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Tax service uses document data instead of customer email",
                 "es": "El servicio fiscal utiliza los datos del documento en lugar del correo electrónico del cliente",
                 "pt": "O serviço de impostos usa dados de documentos em vez de e-mail do cliente"
