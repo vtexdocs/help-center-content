@@ -21,8 +21,7 @@ This article explains how credit from the credit wallet is calculated, how it's 
 
 ## Billing structure
 
-The VTEX billing structure follows this hierarchy: **account → company → economic group**. The following list describes each level:
-
+The VTEX billing structure follows this hierarchy: **account → company → economic group**.
 - **Account:** A VTEX store or environment. Each account belongs to a single company. Credit is stored in the company that owns the account, not in the account itself.
 - **Company:** The unit that owns the credit wallet, the **Credit statement**, and the consolidated invoice. It groups one or more accounts and has its own credit expiration policy.
 - **Economic group:** Groups the companies that belong to the same customer.

@@ -40,6 +40,8 @@ You choose the amount and don't need approval. However, you can only transfer be
 | Expiration of received credit | Follows the expiration policy of the destination company. Each company configures its own policy, not each credit. |
 | Effect on group credit | The transfer doesn't create a shared credit pool for the economic group. It also doesn't change how credit is generated or how VTEX applies credit to Master Data charges. To learn how the system calculates and uses credit, see [Credit wallet](/en/docs/tutorials/credit-wallet). |
 
+> ⚠️ A transfer can't be undone.
+
 ## Deadline to offset the invoice
 
 Credit appears on the **Credits** page as customers of the company make payments throughout the month. You can transfer it as soon as it appears.

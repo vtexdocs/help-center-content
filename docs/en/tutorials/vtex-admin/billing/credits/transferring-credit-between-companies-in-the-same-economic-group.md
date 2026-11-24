@@ -13,9 +13,7 @@ seeAlso:
   - "/en/docs/tutorials/checking-credit-wallet"
 ---
 
-You can transfer part of the balance of the [credit wallet](/en/docs/tutorials/credit-wallet) of a company to another company in the same economic group on the **Credits** page in the VTEX Admin.
-
-This is useful when some companies in the group have surplus credit and others use more [Master Data](/en/docs/tutorials/master-data) than the credit they have available. To understand the difference between account, company, and economic group, see [Credit wallet](/en/docs/tutorials/credit-wallet).
+You can transfer part of the balance of the [credit wallet](/en/docs/tutorials/credit-wallet) of a company to another company in the same economic group on the **Credits** page in the VTEX Admin. This is useful when some companies in the group have surplus credit and others use more [Master Data](/en/docs/tutorials/master-data) than the credit they have available. To understand the difference between account, company, and economic group, see [Credit wallet](/en/docs/tutorials/credit-wallet).
 
 In this article, you'll learn how to transfer credit between companies and how to find the destination company by account name. To understand the transfer rules and the deadline to offset the invoice, see [How credit transfer between companies works](/en/docs/tutorials/how-credit-transfer-between-companies-works).
 
@@ -53,9 +51,7 @@ To transfer credit from the source company to another company in the economic gr
 
    > ⚠️ You can't undo the transfer after confirming it. Before confirming, check the destination company and the amount.
 
-7. Click `Yes, transfer {amount}` to confirm the transfer.
-
-   > ℹ️ The button shows the amount you entered. For example, if you entered **USD 500**, the button shows `Yes, transfer USD 500`.
+7. Click `Yes, transfer {amount}` to confirm the transfer. For example, if you entered **500 USD** in the **Amount** field, the button shows `Yes, transfer 500 USD`.
 
 The transfer is only sent after you confirm it. When the transfer is complete, the modal shows the transfer ID, the destination company, and the amount transferred. When you close the modal, the system updates the **Credit statement** and the balance of the source company.
 
