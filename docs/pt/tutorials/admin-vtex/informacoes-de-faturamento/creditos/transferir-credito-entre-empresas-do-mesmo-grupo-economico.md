@@ -67,11 +67,7 @@ Se o sistema não concluir a transferência, a tela exibe uma mensagem com o mot
 - **Falta de permissão:** verifique se o seu perfil tem o recurso `Transfer Credit` habilitado na empresa de origem.
 - **Transferência duplicada:** a mensagem descreve a transferência já realizada. Consulte o **Extrato de crédito** antes de tentar novamente.
 
-## Resumo e próximos passos
-
-Neste artigo, você aprendeu a transferir saldo da carteira de crédito entre empresas do mesmo grupo econômico e a identificar possíveis erros durante o processo.
-
-Para continuar, consulte os seguintes artigos:
+## Saiba mais
 
 - [Como funciona a transferência de crédito entre empresas](/pt/docs/tutorials/como-funciona-a-transferencia-de-credito)
 - [Carteira de crédito](/pt/docs/tutorials/carteira-de-credito)
