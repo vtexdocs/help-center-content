@@ -1,7 +1,7 @@
 ---
 title: 'Operaciones de pago poscompra'
 createdAt: 2025-12-15T00:00:00.00Z
-updatedAt: 2026-11-23T00:00:00.00Z
+updatedAt: 2026-11-24T00:00:00.00Z
 contentType: tutorial
 productTeam: Financial
 slugEN: post-purchase-payment-operations
@@ -114,6 +114,8 @@ Los siguientes ejemplos y diagramas demuestran cómo cada modo de procesamiento 
 
 ## Modo Parcial
 
+> ℹ️ La liquidación parcial en el gateway se encuentra en versión beta.
+
 > ⚠️ En pedidos pagados con múltiples medios de pago, el sistema procesa la operación inicialmente en el medio de pago con el menor valor asignado de la transacción.
 
 ### Liquidación
@@ -158,4 +160,4 @@ Antes de solicitar cualquier cambio, evalúa cómo se comporta cada opción resp
 | --- | --- | --- | --- |
 | **Total** | Tiendas que desean procesar rápidamente la liquidación después de la aprobación del pedido. | <ul><li>Reduce el tiempo entre la aprobación y la transferencia de los valores.</li><li>Ideal para retailers que prefieren una liquidación inmediata.</li></ul> | <ul><li>Puede generar altos costos de tarifas de reembolso si es necesario devolver valores ya liquidados.</li><li>No es compatible con liquidaciones parciales.</li></ul> |
 | **Hold** | Tiendas que esperan múltiples confirmaciones (como emisión de facturas de varios sellers) antes de liquidar el valor total. | <ul><li>Admite [split de pagos](https://help.vtex.com/es/docs/tutorials/split-de-pagos), permitiendo modificaciones de ítems y valores en un pedido con múltiples sellers (si es necesario).</li><li>Evita costos de reembolso, ya que solo liquida cuando se alcanza el valor total.</li><li>Centraliza el envío de información al conector, reduciendo transacciones intermedias.</li></ul> | <ul><li>En pedidos con múltiples sellers, la liquidación solo ocurre después de que todos emitan las facturas.</li><li>No admite liquidaciones parciales.</li></ul> |
-| **Parcial** | Evita costos de reembolso, ya que la liquidación solo se realiza cuando se alcanza el valor total. | <ul><li>Permite múltiples operaciones parciales de liquidación y cancelación.</li><li>En pedidos con múltiples sellers, permite la liquidación parcial sin necesidad de esperar a todos los sellers.</li><li>Puede evitar costos adicionales de tarifas de reembolso.</li></ul> | <ul><li>No admite [split de pagos](https://help.vtex.com/es/docs/tutorials/split-de-pagos).</li><li>Exige que el conector admita múltiples operaciones.</li><li>Requiere mayor control operativo.</li></ul> |
+| **Parcial** | Tiendas que realizan con frecuencia liquidaciones, cancelaciones o reembolsos parciales. | <ul><li>Permite múltiples operaciones parciales de liquidación y cancelación.</li><li>En pedidos con múltiples sellers, el Modo Parcial te permite procesar liquidaciones parciales sin esperar a todos los sellers, siempre que el pedido no utilice split de pagos.</li><li>Puede evitar costos adicionales de tarifas de reembolso.</li></ul> | <ul><li>No admite [split de pagos](https://help.vtex.com/es/docs/tutorials/split-de-pagos).</li><li>Exige que el conector admita múltiples operaciones.</li><li>Requiere mayor control operativo.</li></ul> |
