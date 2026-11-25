@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Bid Monitor now available in Open Beta in VTEX Ads",
+                    "es": "Bid Monitor disponible en Open Beta en VTEX Ads",
+                    "pt": "Bid Monitor disponível em Open Beta no VTEX Ads"
+                  },
+                  "slug": {
+                    "en": "2026-11-25-bid-monitor-now-available-in-open-beta-in-vtex-ads",
+                    "es": "2026-11-25-bid-monitor-disponible-en-open-beta-en-vtex-ads",
+                    "pt": "2026-11-25-bid-monitor-disponivel-em-open-beta-no-vtex-ads"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Desk Copilot: suggestions for human representatives in Live Desk",
                     "es": "Desk Copilot: sugerencias para representantes humanos en Live Desk",
                     "pt": "Desk Copilot: sugestões para atendentes humanos no Live Desk"
@@ -39823,6 +39838,21 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Bid Monitor (bid competitiveness)",
+                "es": "Bid Monitor (competitividad de ofertas)",
+                "pt": "Bid Monitor (competitividade de lances)"
+              },
+              "slug": {
+                "en": "bid-monitor-bid-competitiveness",
+                "es": "bid-monitor-competitividad-de-ofertas",
+                "pt": "bid-monitor-competitividade-de-lances"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
