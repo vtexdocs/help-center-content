@@ -15,6 +15,8 @@ locale: en
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
+> ⚠️ The Checkout UI Custom app is no longer maintained by VTEX. This means support and maintenance are no longer provided.
+
 The Checkout customizations covered in this article are made using the Checkout UI Custom app. Before configuring it in your app, check if the app is installed in your store or install it as explained in the[ Checkout UI Custom](https://developers.vtex.com/docs/apps/vtex.checkout-ui-custom) article.
 
 ## Customizing the Checkout
