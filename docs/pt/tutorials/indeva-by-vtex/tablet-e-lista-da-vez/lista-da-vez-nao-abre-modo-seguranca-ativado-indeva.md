@@ -3,7 +3,7 @@ title: 'Lista da Vez não abre por modo de segurança ativado'
 id: 1toTht0HtSbXMZwL2xqCg6
 status: PUBLISHED
 createdAt: 2025-09-11T16:37:29.922Z
-updatedAt: 2025-10-03T17:11:09.989Z
+updatedAt: 2026-11-25T16:05:00.000Z
 publishedAt: 2025-10-03T17:11:09.989Z
 firstPublishedAt: 2025-09-11T16:55:15.474Z
 contentType: tutorial
@@ -14,6 +14,8 @@ legacySlug: lista-da-vez-nao-abre-modo-seguranca-ativado-indeva
 locale: pt
 subcategoryId: 78bsG4YLzz1TR7eUzFSf4F
 ---
+
+> ⚠️ O aplicativo **Indeva – Lista da Vez** foi descontinuado. A Lista da Vez agora está disponível no VTEX Sales App. Para saber mais, consulte [Lista da Vez (Beta)](https://help.vtex.com/pt/docs/tutorials/lista-da-vez).
 
 Na maioria dos casos, o aplicativo **Lista da Vez** não abre porque o **modo de segurança** do tablet está ativado.
 

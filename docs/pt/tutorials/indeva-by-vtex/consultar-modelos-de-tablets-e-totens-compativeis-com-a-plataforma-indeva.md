@@ -3,7 +3,7 @@ title: 'Consultar modelos de tablets e totens compatíveis com a plataforma Inde
 id: 1FpN7tgpmg2kIg35DsiA7A
 status: PUBLISHED
 createdAt: 2025-10-01T11:41:20.173Z
-updatedAt: 2025-10-17T16:35:24.137Z
+updatedAt: 2026-11-25T16:05:00.000Z
 publishedAt: 2025-10-17T16:35:24.137Z
 firstPublishedAt: 2025-10-01T11:49:35.189Z
 contentType: tutorial
@@ -14,6 +14,8 @@ legacySlug: consultar-modelos-de-tablets-e-totens-compativeis-com-a-plataforma-i
 locale: pt
 subcategoryId: 4dnEsUKLcKwtXi4VwWTH1L
 ---
+
+> ⚠️ O aplicativo **Indeva – Lista da Vez** foi descontinuado. A Lista da Vez agora está disponível no VTEX Sales App. Para saber mais, consulte [Lista da Vez (Beta)](https://help.vtex.com/pt/docs/tutorials/lista-da-vez).
 
 Este documento apresenta os modelos de tablets recomendados para uso com os aplicativos da **Indeva**, além das orientações para utilização de suportes físicos (**totens**) no salão de vendas.
 

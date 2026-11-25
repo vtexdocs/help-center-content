@@ -3,7 +3,7 @@ title: 'Escolher totens compatíveis com a Indeva'
 id: 3dnTd05aVJXmPN2tAfepiD
 status: PUBLISHED
 createdAt: 2025-09-11T18:02:53.196Z
-updatedAt: 2025-10-03T14:33:30.773Z
+updatedAt: 2026-11-25T16:05:00.000Z
 publishedAt: 2025-10-03T14:33:30.773Z
 firstPublishedAt: 2025-10-01T18:46:59.993Z
 contentType: tutorial
@@ -14,6 +14,8 @@ legacySlug: escolher-totens-compativeis-indeva
 locale: pt
 subcategoryId: 78bsG4YLzz1TR7eUzFSf4F
 ---
+
+> ⚠️ O aplicativo **Indeva – Lista da Vez** foi descontinuado. A Lista da Vez agora está disponível no VTEX Sales App. Para saber mais, consulte [Lista da Vez (Beta)](https://help.vtex.com/pt/docs/tutorials/lista-da-vez).
 
 Totens são suportes físicos utilizados com tablets nas lojas para facilitar o uso dos aplicativos da Indeva, como o **Lista da Vez**.
 

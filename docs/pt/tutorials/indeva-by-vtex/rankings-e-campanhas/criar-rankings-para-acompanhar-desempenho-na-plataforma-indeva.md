@@ -3,7 +3,7 @@ title: 'Criar rankings para acompanhar desempenho na plataforma Indeva'
 id: 4RvFFupPtvjKmV8eviDzk5
 status: PUBLISHED
 createdAt: 2025-09-18T15:43:16.790Z
-updatedAt: 2025-10-17T12:53:31.966Z
+updatedAt: 2026-11-25T16:05:00.000Z
 publishedAt: 2025-10-17T12:53:31.966Z
 firstPublishedAt: 2025-09-18T15:55:08.369Z
 contentType: tutorial
@@ -14,6 +14,8 @@ legacySlug: criar-rankings-para-acompanhar-desempenho-na-plataforma-indeva
 locale: pt
 subcategoryId: 2basvwwwR3pbjG1BxlHqrc
 ---
+
+> ⚠️ O aplicativo **Indeva – Lista da Vez** foi descontinuado. A Lista da Vez agora está disponível no VTEX Sales App. Para saber mais, consulte [Lista da Vez (Beta)](https://help.vtex.com/pt/docs/tutorials/lista-da-vez).
 
 O recurso de **Rankings** permite criar competições entre vendedores ou lojas, estimulando a performance em um ambiente saudável.
 

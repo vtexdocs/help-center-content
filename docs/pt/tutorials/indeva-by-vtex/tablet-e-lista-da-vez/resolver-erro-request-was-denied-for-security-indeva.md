@@ -3,7 +3,7 @@ title: 'Como resolver erro “Request was denied for security” no Indeva'
 id: sFfVIk5VfXpj5xhCDOf0L
 status: PUBLISHED
 createdAt: 2025-09-12T12:58:02.751Z
-updatedAt: 2025-10-03T15:30:32.781Z
+updatedAt: 2026-11-25T16:05:00.000Z
 publishedAt: 2025-10-03T15:30:32.781Z
 firstPublishedAt: 2025-09-12T13:06:49.622Z
 contentType: tutorial
@@ -14,6 +14,8 @@ legacySlug: resolver-erro-request-was-denied-for-security-indeva
 locale: pt
 subcategoryId: 78bsG4YLzz1TR7eUzFSf4F
 ---
+
+> ⚠️ O aplicativo **Indeva – Lista da Vez** foi descontinuado. A Lista da Vez agora está disponível no VTEX Sales App. Para saber mais, consulte [Lista da Vez (Beta)](https://help.vtex.com/pt/docs/tutorials/lista-da-vez).
 
 Identificamos um cenário não mapeado em dispositivos antigos, que afeta o funcionamento do app **Indeva – Lista da Vez**.
 

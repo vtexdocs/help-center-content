@@ -3,7 +3,7 @@ title: 'Visualizar feedback no app Indeva'
 id: 7EK0IQFQtK3NNyYBuWJRuf
 status: PUBLISHED
 createdAt: 2025-09-18T13:21:02.967Z
-updatedAt: 2025-10-17T12:40:07.414Z
+updatedAt: 2026-11-25T15:54:00.000Z
 publishedAt: 2025-10-17T12:40:07.414Z
 firstPublishedAt: 2025-09-18T13:30:10.037Z
 contentType: tutorial
@@ -15,20 +15,4 @@ locale: pt
 subcategoryId: 
 ---
 
-No app **Indeva – Lista da Vez**, o vendedor pode acessar os feedbacks registrados para ele, incluindo elogios e orientações baseadas nos resultados de desempenho.
-
-## Visualizar feedback
-
-Siga as etapas abaixo para acessar o feedback no aplicativo:
-
-1. Abra o app **Indeva – Lista da Vez**.  
-2. Clique na aba **Metas**.  
-3. Selecione o nome do vendedor.  
-4. Digite a senha para acessar as informações.  
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/feedback-do-vendedor/visualizar-feedback-no-app-indeva_1.gif)
-
-> ⚠️ O feedback fica disponível apenas no período seguinte. A data de registro é exibida logo abaixo do comentário.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/feedback-do-vendedor/visualizar-feedback-no-app-indeva_2.png)
-
+> ⚠️ O aplicativo **Indeva – Lista da Vez** foi descontinuado. A Lista da Vez agora está disponível no VTEX Sales App. Para saber mais, consulte [Lista da Vez (Beta)](https://help.vtex.com/pt/docs/tutorials/lista-da-vez).
