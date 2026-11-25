@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Indeva: Deprecation of the Lista da Vez app",
+                    "es": "Indeva: Descontinuación de la aplicación Lista da Vez",
+                    "pt": "Indeva: Descontinuação do aplicativo Lista da Vez"
+                  },
+                  "slug": {
+                    "en": "2026-11-25-indeva-lista-da-vez-app-deprecation",
+                    "es": "2026-11-25-descontinuacion-de-la-aplicacion-indeva-lista-da-vez",
+                    "pt": "2026-11-25-descontinuacao-do-aplicativo-indeva-lista-da-vez"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Desk Copilot: suggestions for human representatives in Live Desk",
                     "es": "Desk Copilot: sugerencias para representantes humanos en Live Desk",
                     "pt": "Desk Copilot: sugestões para atendentes humanos no Live Desk"
@@ -38745,21 +38760,6 @@
                     "en": "offline-operation-lista-da-vez-app",
                     "es": "operacion-offline-aplicacion-lista-da-vez",
                     "pt": "operacao-offline-aplicativo-lista-da-vez"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Approved tablets and kiosk usage with the Indeva app",
-                    "es": "Tablets homologados y uso de tótems con la app Indeva",
-                    "pt": "Tablets homologados e uso de totens com o aplicativo Indeva"
-                  },
-                  "slug": {
-                    "en": "approved-tablets-use-totems-indeva-app",
-                    "es": "tablets-homologadas-uso-totems-aplicacion-indeva",
-                    "pt": "tablets-homologados-uso-totens-aplicativo-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
