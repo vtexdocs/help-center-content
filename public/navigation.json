@@ -41296,12 +41296,12 @@
             {
               "name": {
                 "en": "Insert SKU File API doesnt accept URLs from servers that require \"User-Agent\" header",
-                "es": "La API de inserción de archivos SKU no acepta URL de servidores que requieran el encabezado \"User-Agent\".",
-                "pt": "A API Insert SKU File não aceita URLs de servidores que exigem o cabeçalho \"User-Agent\""
+                "es": "La API Insertar archivo SKU no acepta URL de servidores que requieren el encabezado \"User-Agent\".",
+                "pt": "A API Insert SKU File não aceita URLs de servidores que exigem o cabeçalho \"User-Agent\"."
               },
               "slug": {
                 "en": "insert-sku-file-api-doesnt-accept-urls-from-servers-that-require-useragent-header",
-                "es": "la-api-de-insercion-de-archivos-sku-no-acepta-url-de-servidores-que-requieran-el-encabezado-useragent",
+                "es": "la-api-insertar-archivo-sku-no-acepta-url-de-servidores-que-requieren-el-encabezado-useragent",
                 "pt": "a-api-insert-sku-file-nao-aceita-urls-de-servidores-que-exigem-o-cabecalho-useragent"
               },
               "origin": "",
@@ -48700,6 +48700,21 @@
                 "en": "delivery-method-selector-does-not-appear-in-some-scenarios",
                 "es": "el-selector-de-metodo-de-entrega-no-aparece-en-algunos-escenarios",
                 "pt": "o-seletor-do-metodo-de-entrega-nao-aparece-em-alguns-cenarios"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Tax Service getting different values from Marketplace and Fullfilment when a More for Less promotion is used.",
+                "es": "El servicio de impuestos obtiene valores diferentes de Marketplace y Fulfillment cuando se utiliza una promoción de \"Más por menos\".",
+                "pt": "O Serviço de Impostos obtém valores diferentes do Marketplace e do Fulfillment quando uma promoção \"Mais por Menos\" é utilizada."
+              },
+              "slug": {
+                "en": "tax-service-getting-different-values-from-marketplace-and-fullfilment-when-a-more-for-less-promotion-is-used",
+                "es": "el-servicio-de-impuestos-obtiene-valores-diferentes-de-marketplace-y-fulfillment-cuando-se-utiliza-una-promocion-de-mas-por-menos",
+                "pt": "o-servico-de-impostos-obtem-valores-diferentes-do-marketplace-e-do-fulfillment-quando-uma-promocao-mais-por-menos-e-utilizada"
               },
               "origin": "",
               "type": "markdown",
@@ -58831,14 +58846,14 @@
             },
             {
               "name": {
-                "en": "Wrong warehouse assigned to item added via ChangeOrderV2 (FFM/SOS ShippingEnricher ignores Logistics’ DeliveryIds)",
-                "es": "Se asignó un almacén incorrecto al artículo agregado mediante ChangeOrderV2 (FFM/SOS ShippingEnricher ignora los DeliveryIds de Logística).",
-                "pt": "Armazém incorreto atribuído ao item adicionado via ChangeOrderV2 (FFM/SOS ShippingEnricher ignora os DeliveryIds da Logística)"
+                "en": "Wrong warehouse assigned to items in multi-warehouse orders after a ChangeOrderV2 (add, remove or reduce quantity)",
+                "es": "Se asignó un almacén incorrecto a los artículos en pedidos de varios almacenes después de un ChangeOrderV2 (agregar, eliminar o reducir la cantidad).",
+                "pt": "Armazém incorreto atribuído a itens em pedidos com vários armazéns após uma alteração de pedido (ChangeOrderV2) (adicionar, remover ou reduzir quantidade)."
               },
               "slug": {
-                "en": "wrong-warehouse-assigned-to-item-added-via-changeorderv2-ffmsos-shippingenricher-ignores-logistics-deliveryids",
-                "es": "se-asigno-un-almacen-incorrecto-al-articulo-agregado-mediante-changeorderv2-ffmsos-shippingenricher-ignora-los-deliveryids-de-logistica",
-                "pt": "armazem-incorreto-atribuido-ao-item-adicionado-via-changeorderv2-ffmsos-shippingenricher-ignora-os-deliveryids-da-logistica"
+                "en": "wrong-warehouse-assigned-to-items-in-multiwarehouse-orders-after-a-changeorderv2-add-remove-or-reduce-quantity",
+                "es": "se-asigno-un-almacen-incorrecto-a-los-articulos-en-pedidos-de-varios-almacenes-despues-de-un-changeorderv2-agregar-eliminar-o-reducir-la-cantidad",
+                "pt": "armazem-incorreto-atribuido-a-itens-em-pedidos-com-varios-armazens-apos-uma-alteracao-de-pedido-changeorderv2-adicionar-remover-ou-reduzir-quantidade"
               },
               "origin": "",
               "type": "markdown",
@@ -61632,21 +61647,6 @@
                 "en": "transactions-remain-stuck-in-pending-authorization-despite-connector-approval",
                 "es": "las-transacciones-permanecen-en-estado-de-autorizacion-pendiente-a-pesar-de-la-aprobacion-del-conector",
                 "pt": "as-transacoes-permanecem-presas-no-status-autorizacao-pendente-apesar-da-aprovacao-do-conector"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Transactions made with PayU do not change from cancelling status",
-                "es": "Las transacciones realizadas con PayU no pasan del estado de cancelación",
-                "pt": "As transações realizadas com o PayU não mudam de status após o cancelamento"
-              },
-              "slug": {
-                "en": "transactions-made-with-payu-do-not-change-from-cancelling-status",
-                "es": "las-transacciones-realizadas-con-payu-no-pasan-del-estado-de-cancelacion",
-                "pt": "as-transacoes-realizadas-com-o-payu-nao-mudam-de-status-apos-o-cancelamento"
               },
               "origin": "",
               "type": "markdown",
@@ -64557,21 +64557,6 @@
                 "en": "transaction-stuck-in-settling-after-capture-fails-due-to-recipientssplitremainvalue-mismatch",
                 "es": "transaccion-bloqueada-en-liquidacion-tras-fallo-de-captura-debido-a-una-falta-de-coincidencia-de-recipientssplitremainvalue",
                 "pt": "transacao-presa-na-liquidacao-apos-falha-na-captura-devido-a-incompatibilidade-entre-recipientssplitremainvalue"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Transaction stuck in cancelling and cancel/refund return “Object reference not set to an instance of an object”",
-                "es": "Transacción bloqueada en la cancelación y devolución de cancelación/reembolso «Referencia de objeto no establecida en una instancia de un objeto».",
-                "pt": "Transação presa no cancelamento e cancelamento/reembolso da devolução “Referência de objeto não definida para uma instância de um objeto”"
-              },
-              "slug": {
-                "en": "transaction-stuck-in-cancelling-and-cancelrefund-return-object-reference-not-set-to-an-instance-of-an-object",
-                "es": "transaccion-bloqueada-en-la-cancelacion-y-devolucion-de-cancelacionreembolso-referencia-de-objeto-no-establecida-en-una-instancia-de-un-objeto",
-                "pt": "transacao-presa-no-cancelamento-e-cancelamentoreembolso-da-devolucao-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto"
               },
               "origin": "",
               "type": "markdown",
