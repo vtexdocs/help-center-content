@@ -36916,6 +36916,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Catalog Agent",
+                    "es": "Agente de Catálogo",
+                    "pt": "Agente de Catálogo"
+                  },
+                  "slug": {
+                    "en": "catalog-agent",
+                    "es": "agente-de-catalogo",
+                    "pt": "agente-de-catalogo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Collections Agent",
                     "es": "Agente de Colecciones",
                     "pt": "Agente de Coleções"
