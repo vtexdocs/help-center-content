@@ -4,7 +4,7 @@ createdAt: 2026-11-25T00:00:00.000Z
 updatedAt: 2026-11-25T00:00:00.000Z
 contentType: updates
 productTeam: Others
-slugEN: 2026-11-18-bid-monitor-now-available-in-open-beta-in-vtex-ads
+slugEN: 2026-11-25-bid-monitor-now-available-in-open-beta-in-vtex-ads
 locale: pt
 announcementSynopsisPT: 'O Bid Monitor está em Open Beta para todas as contas do VTEX Ads e mostra, em campanhas 1:1, um anel que indica a competitividade do lance e sugere valores.'
 tags:
