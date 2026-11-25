@@ -27,6 +27,12 @@ Businesses must follow these requirements when collecting user consent:
 - Visibly display the company's name so that the customer knows who they are agreeing to interact with.
 - Comply with all applicable local laws and regulations.
 
+> ⚠️ **Meta consent vs. data protection legal basis**
+>
+> The consent described above is required by Meta's policies to maintain WhatsApp Business account quality. It doesn't replace the legal basis analysis required by applicable data protection legislation (such as the LGPD in Brazil, the GDPR in the European Union, or other equivalent local laws) for processing personal data.
+>
+> When consent is the chosen legal basis, the company must comply with applicable privacy laws, including clearly stating the purpose of data processing, keeping a record or proof of the consent obtained, and allowing consent to be withdrawn at any time.
+
 ## Methods for collecting consent
 
 If the collection method meets the above requirements, it will comply with Meta's policies. Below are examples of valid methods for obtaining consent:
