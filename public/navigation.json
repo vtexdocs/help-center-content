@@ -26070,9 +26070,9 @@
             },
             {
               "name": {
-                "en": "Creating an OAuth2 authentication",
-                "es": "Crear autenticación OAuth2",
-                "pt": "Criar autenticação OAuth2"
+                "en": "Creating a login with an OAuth2 identity provider",
+                "es": "Crear inicio de sesión con proveedor de identidad OAuth2",
+                "pt": "Criar login com provedor de identidade OAuth2"
               },
               "slug": {
                 "en": "creating-an-oauth2-authentication",
@@ -36763,6 +36763,143 @@
           "origin": "",
           "type": "category",
           "children": [
+            {
+              "name": {
+                "en": "AI Workspace and Agents - Overview",
+                "es": "AI Workspace y Agentes - Visión general",
+                "pt": "AI Workspace e Agentes - Visão geral"
+              },
+              "slug": {
+                "en": "ai-workspace-overview",
+                "es": "ai-workspace-vision-general",
+                "pt": "ai-workspace-visao-geral"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": [
+                {
+                  "name": {
+                    "en": "AI Workspace interface",
+                    "es": "Interface del AI Workspace",
+                    "pt": "Interface do AI Workspace"
+                  },
+                  "slug": {
+                    "en": "ai-workspace-interface-subcategory",
+                    "es": "ai-workspace-interface-subcategoria",
+                    "pt": "ai-workspace-interface-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "AI Workspace - Chat",
+                        "es": "AI Workspace - Chat",
+                        "pt": "AI Workspace - Chat"
+                      },
+                      "slug": {
+                        "en": "ai-workspace-chat",
+                        "es": "ai-workspace-chat",
+                        "pt": "ai-workspace-chat"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "AI Workspace - Initiatives",
+                        "es": "AI Workspace - Iniciativas",
+                        "pt": "AI Workspace - Iniciativas"
+                      },
+                      "slug": {
+                        "en": "ai-workspace-initiatives",
+                        "es": "ai-workspace-iniciativas",
+                        "pt": "ai-workspace-iniciativas"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "AI Workspace - Navigation menu",
+                        "es": "AI Workspace - Menú de navegación",
+                        "pt": "AI Workspace - Menu de navegação"
+                      },
+                      "slug": {
+                        "en": "ai-workspace-navigation-menu",
+                        "es": "ai-workspace-menu-navegacion",
+                        "pt": "ai-workspace-menu-navegacao"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "AI Workspace - My assistant",
+                        "es": "AI Workspace - Mi asistente",
+                        "pt": "AI Workspace - Meu assistente"
+                      },
+                      "slug": {
+                        "en": "ai-workspace-my-assistant",
+                        "es": "ai-workspace-mi-asistente",
+                        "pt": "ai-workspace-meu-assistente"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "AI Workspace - Tasks",
+                        "es": "AI Workspace - Tareas",
+                        "pt": "AI Workspace - Tarefas"
+                      },
+                      "slug": {
+                        "en": "ai-workspace-tasks",
+                        "es": "ai-workspace-tareas",
+                        "pt": "ai-workspace-tarefas"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "AI Workspace and Agents - Glossary",
+                    "es": "AI Workspace y Agentes - Glosario",
+                    "pt": "AI Workspace e Agentes - Glossário"
+                  },
+                  "slug": {
+                    "en": "ai-workspace-glossary",
+                    "es": "ai-workspace-glosario",
+                    "pt": "ai-workspace-glossario"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "VTEX Agents list",
+                    "es": "Lista de Agentes de VTEX",
+                    "pt": "Lista de Agentes da VTEX"
+                  },
+                  "slug": {
+                    "en": "agents-list",
+                    "es": "lista-agentes",
+                    "pt": "lista-agentes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
             {
               "name": {
                 "en": "Catalog Beta",
@@ -48722,6 +48859,21 @@
             },
             {
               "name": {
+                "en": "Tax Service getting different values from Marketplace and Fullfilment when a More for Less promotion is used.",
+                "es": "El servicio de impuestos obtiene valores diferentes de Marketplace y Fulfillment cuando se utiliza una promoción de \"Más por menos\".",
+                "pt": "O Serviço de Impostos obtém valores diferentes do Marketplace e do Fulfillment quando uma promoção \"Mais por Menos\" é utilizada."
+              },
+              "slug": {
+                "en": "tax-service-getting-different-values-from-marketplace-and-fullfilment-when-a-more-for-less-promotion-is-used",
+                "es": "el-servicio-de-impuestos-obtiene-valores-diferentes-de-marketplace-y-fulfillment-cuando-se-utiliza-una-promocion-de-mas-por-menos",
+                "pt": "o-servico-de-impostos-obtem-valores-diferentes-do-marketplace-e-do-fulfillment-quando-uma-promocao-mais-por-menos-e-utilizada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Tax service uses document data instead of customer email",
                 "es": "El servicio fiscal utiliza los datos del documento en lugar del correo electrónico del cliente",
                 "pt": "O serviço de impostos usa dados de documentos em vez de e-mail do cliente"
@@ -58846,14 +58998,14 @@
             },
             {
               "name": {
-                "en": "Wrong warehouse assigned to item added via ChangeOrderV2 (FFM/SOS ShippingEnricher ignores Logistics’ DeliveryIds)",
-                "es": "Se asignó un almacén incorrecto al artículo agregado mediante ChangeOrderV2 (FFM/SOS ShippingEnricher ignora los DeliveryIds de Logística).",
-                "pt": "Armazém incorreto atribuído ao item adicionado via ChangeOrderV2 (FFM/SOS ShippingEnricher ignora os DeliveryIds da Logística)"
+                "en": "Wrong warehouse assigned to items in multi-warehouse orders after a ChangeOrderV2 (add, remove or reduce quantity)",
+                "es": "Se asignó un almacén incorrecto a los artículos en pedidos de varios almacenes después de un ChangeOrderV2 (agregar, eliminar o reducir la cantidad).",
+                "pt": "Armazém incorreto atribuído a itens em pedidos com vários armazéns após uma alteração de pedido (ChangeOrderV2) (adicionar, remover ou reduzir quantidade)."
               },
               "slug": {
-                "en": "wrong-warehouse-assigned-to-item-added-via-changeorderv2-ffmsos-shippingenricher-ignores-logistics-deliveryids",
-                "es": "se-asigno-un-almacen-incorrecto-al-articulo-agregado-mediante-changeorderv2-ffmsos-shippingenricher-ignora-los-deliveryids-de-logistica",
-                "pt": "armazem-incorreto-atribuido-ao-item-adicionado-via-changeorderv2-ffmsos-shippingenricher-ignora-os-deliveryids-da-logistica"
+                "en": "wrong-warehouse-assigned-to-items-in-multiwarehouse-orders-after-a-changeorderv2-add-remove-or-reduce-quantity",
+                "es": "se-asigno-un-almacen-incorrecto-a-los-articulos-en-pedidos-de-varios-almacenes-despues-de-un-changeorderv2-agregar-eliminar-o-reducir-la-cantidad",
+                "pt": "armazem-incorreto-atribuido-a-itens-em-pedidos-com-varios-armazens-apos-uma-alteracao-de-pedido-changeorderv2-adicionar-remover-ou-reduzir-quantidade"
               },
               "origin": "",
               "type": "markdown",
