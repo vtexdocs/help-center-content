@@ -17,7 +17,7 @@ subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 
 O Site Editor reflete nativamente o aplicativo Store Theme, permitindo que você sobrescreva as configurações predefinidas para blocos e crie um novo conteúdo para as páginas e *templates* da sua loja.
 
-> ℹ️ O Site Editor não permite que você adicione um novo bloco a um *template* ou página específica, apenas sobrescrever as configurações de bloco existentes do Store Theme.
+> ℹ️ O Site Editor não permite que você adicione um novo bloco a um *template* ou página específica. Ele também não permite remover, reordenar ou ocultar blocos. Ele apenas altera a configuração de blocos já declarados no aplicativo Store Theme. Alterar a estrutura da página exige uma mudança no código do tema por um desenvolvedor.
 
 Exercite sua autonomia sobre o código e construa o cenário de loja desejado de acordo com as necessidades de seu negócio, usando uma interface amigável a seu favor!
 

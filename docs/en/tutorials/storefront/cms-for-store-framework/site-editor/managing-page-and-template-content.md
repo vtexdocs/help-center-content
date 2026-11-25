@@ -17,7 +17,7 @@ subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 
 The Site Editor natively reflects the Store Theme app, enabling you to overwrite the predefined configurations for blocks and create new content for your store pages and templates.
 
-> ℹ️ The Site Editor does not allow you to add a new block to a template or specific page, only overwrite existing block configurations from the Store Theme app.
+> ℹ️ The Site Editor does not allow you to add a new block to a template or specific page. It also cannot remove, reorder, or hide blocks. It only changes the configuration of blocks already declared in the Store Theme app. Changing the page structure requires a change to the theme code by a developer.
 
 Exercise your autonomy over code and build the desired storefront scenario according to your business needs using a friendly interface in your favor!
 
