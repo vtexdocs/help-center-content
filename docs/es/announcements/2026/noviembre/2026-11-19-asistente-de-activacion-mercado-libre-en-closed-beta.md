@@ -4,7 +4,7 @@ createdAt: 2026-11-19T12:00:00.000Z
 updatedAt: 2026-11-19T12:00:00.000Z
 contentType: updates
 productTeam: Channels
-slugEN: 2026-11-19-mercado-livre-onboarding-agent-enters-closed-beta
+slugEN: 2026-11-19-channel-activation-assistant-for-mercado-libre-in-closed-beta
 locale: es
 announcementSynopsisES: 'El Channel Activation Assistant guía a los retailers en la activación del canal Mercado Libre, directamente en el Admin VTEX, y está disponible en closed beta.'
 tags:
@@ -16,12 +16,11 @@ Lanzamos el closed beta del **Asistente de activación de canal**, el asistente 
 
 ## ¿Por qué desarrollamos el asistente?
 
-El asistente conduce la activación del canal en el Admin VTEX y, después de la configuración, muestra la salud del canal. Es posible realizar las siguientes acciones:
+El asistente conduce la activación del canal en el Admin VTEX. Es posible realizar las siguientes acciones:
 
 - **Configuración guiada:** conduce la activación en cinco pasos, integración de Mercado Libre activa, política comercial, preferencias de anuncio (título y descripción), estrategia de stock y estrategia de envío.
 - **Orden claro:** muestra lo que está bloqueado y libera cada paso cuando el anterior queda validado.
 - **Mapeo de categorías:** asocia las categorías de tu tienda con las categorías de Mercado Libre y pide confirmación antes de enviar cualquier dato al marketplace.
-- **Salud del canal:** después de la activación, muestra anuncios activos, GMV, errores y alertas de sincronización.
 - **Dudas en tiempo real:** responde preguntas sobre la configuración a partir de la documentación oficial de VTEX.
 
 ## ¿Qué se necesita hacer?

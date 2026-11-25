@@ -15,7 +15,7 @@ trackSlugEN: configurar-integracion-con-mercado-libre
 order: 10
 ---
 
-> ℹ️ Prueba el nuevo agente de onboarding para integrar tu tienda a Mercado Libre y empezar a vender más rápido, con un paso a paso guiado y respuestas a todas tus dudas. Para participar de las pruebas, ponte en contacto con el equipo de [soporte VTEX](https://supporticket.vtex.com/support).
+> ℹ️ Prueba el nuevo agente de activación de canales para integrar tu tienda a Mercado Libre y empezar a vender más rápido, con un paso a paso guiado y respuestas a todas tus dudas. Para participar de las pruebas, ponte en contacto con el equipo de [soporte VTEX](https://supporticket.vtex.com/support).
 
 Antes de iniciar la lectura de este artículo consulta la tabla a continuación para familiarizarte con los términos específicos de la funcionalidad **Publicación de productos Mercado Libre**.
 

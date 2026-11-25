@@ -15,7 +15,7 @@ trackSlugEN: configurar-integracao-do-mercado-livre
 order: 4
 ---
 
-> ℹ️ Teste o novo agente de onboarding para integrar sua loja ao Mercado Livre e começar a vender mais rápido, com um passo a passo guiado e respostas para todas as suas dúvidas. Para participar dos testes entre em contato com o time de [suporte VTEX](https://supporticket.vtex.com/support).
+> ℹ️ Teste o novo agente de ativação de canais para integrar sua loja ao Mercado Livre e começar a vender mais rápido, com um passo a passo guiado e respostas para todas as suas dúvidas. Para participar dos testes entre em contato com o time de [suporte VTEX](https://supporticket.vtex.com/support).
 
 Para vender seus produtos no Mercado Livre é preciso determinar uma [Estratégia de Envio](/pt/docs/tutorials/estrategia-de-envio), ou seja, informar qual será a operação de entrega dos seus produtos. A Estratégia de Envio é composta de três etapas logísticas: [Política de Envio](/pt/docs/tutorials/politica-de-envio), [Estoque](/pt/docs/tutorials/estoque) e [Doca](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj?&utm_source=autocomplete). 
 

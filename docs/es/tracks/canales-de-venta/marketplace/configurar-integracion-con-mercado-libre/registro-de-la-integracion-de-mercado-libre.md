@@ -15,7 +15,7 @@ trackSlugEN: configurar-integracion-con-mercado-libre
 order: 6
 ---
 
-> ℹ️ Prueba el nuevo agente de onboarding para integrar tu tienda a Mercado Libre y empezar a vender más rápido, con un paso a paso guiado y respuestas a todas tus dudas. Para participar de las pruebas, ponte en contacto con el equipo de [soporte VTEX](https://supporticket.vtex.com/support).
+> ℹ️ Prueba el nuevo agente de activación de canales para integrar tu tienda a Mercado Libre y empezar a vender más rápido, con un paso a paso guiado y respuestas a todas tus dudas. Para participar de las pruebas, ponte en contacto con el equipo de [soporte VTEX](https://supporticket.vtex.com/support).
 
 1.	Vaya al Admin.
 2.	En el módulo *MARKETPLACE*, haga clic en **Integraciones**.

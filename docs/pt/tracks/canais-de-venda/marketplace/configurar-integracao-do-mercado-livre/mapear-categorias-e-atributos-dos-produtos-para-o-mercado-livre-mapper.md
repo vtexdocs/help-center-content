@@ -15,7 +15,7 @@ trackSlugEN: configurar-integracao-do-mercado-livre
 order: 9
 ---
 
-> ℹ️ Teste o novo agente de onboarding para integrar sua loja ao Mercado Livre e começar a vender mais rápido, com um passo a passo guiado e respostas para todas as suas dúvidas. Para participar dos testes entre em contato com o time de [suporte VTEX](https://supporticket.vtex.com/support).
+> ℹ️ Teste o novo agente de ativação de canais para integrar sua loja ao Mercado Livre e começar a vender mais rápido, com um passo a passo guiado e respostas para todas as suas dúvidas. Para participar dos testes entre em contato com o time de [suporte VTEX](https://supporticket.vtex.com/support).
 
 Feita a integração entre a sua loja e o Mercado Livre, é possível enviar os produtos para o catálogo do marketplace. Para agilizar o processo de catalogação dos seus produtos e permitir que eles fiquem disponíveis para venda em menos tempo, você precisará realizar o mapeamento entre as características dos produtos na sua loja VTEX e as características dos mesmos produtos na sua loja no marketplace.
 
