@@ -39750,6 +39750,21 @@
             },
             {
               "name": {
+                "en": "Top Bar Customization Inactive Organization Message doesn't work",
+                "es": "El mensaje de organización inactiva de personalización de la barra superior no funciona.",
+                "pt": "A personalização da barra superior e a mensagem de organização inativa não funcionam."
+              },
+              "slug": {
+                "en": "top-bar-customization-inactive-organization-message-doesnt-work",
+                "es": "el-mensaje-de-organizacion-inactiva-de-personalizacion-de-la-barra-superior-no-funciona",
+                "pt": "a-personalizacao-da-barra-superior-e-a-mensagem-de-organizacao-inativa-nao-funcionam"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Search in Users tab in B2B Organization Details doesn't filter when there is no result",
                 "es": "La búsqueda en la pestaña Usuarios en Detalles de la organización B2B no filtra cuando no hay ningún resultado.",
                 "pt": "A pesquisa na guia Usuários em Detalhes da organização B2B não filtra quando não há nenhum resultado"
@@ -40103,6 +40118,21 @@
                 "en": "search-organization-filter-not-applying-after-changing-organization-in-store-frontend",
                 "es": "el-filtro-de-organizacion-de-busqueda-no-se-aplica-despues-de-cambiar-la-organizacion-en-el-frontend-de-la-tienda",
                 "pt": "o-filtro-search-organization-nao-esta-sendo-aplicado-apos-a-alteracao-da-organizacao-no-frontend-da-loja"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order Again flow in B2B Suite can lead to orders placed with wrong marketing data",
+                "es": "El flujo de \"Volver a pedir\" en B2B Suite puede dar lugar a pedidos realizados con datos de marketing incorrectos.",
+                "pt": "O fluxo \"Fazer novo pedido\" no B2B Suite pode levar a pedidos feitos com dados de marketing incorretos."
+              },
+              "slug": {
+                "en": "order-again-flow-in-b2b-suite-can-lead-to-orders-placed-with-wrong-marketing-data",
+                "es": "el-flujo-de-volver-a-pedir-en-b2b-suite-puede-dar-lugar-a-pedidos-realizados-con-datos-de-marketing-incorrectos",
+                "pt": "o-fluxo-fazer-novo-pedido-no-b2b-suite-pode-levar-a-pedidos-feitos-com-dados-de-marketing-incorretos"
               },
               "origin": "",
               "type": "markdown",
@@ -40727,12 +40757,12 @@
             {
               "name": {
                 "en": "Insert SKU File API doesnt accept URLs from servers that require \"User-Agent\" header",
-                "es": "La API de inserción de archivos SKU no acepta URL de servidores que requieran el encabezado \"User-Agent\".",
-                "pt": "A API Insert SKU File não aceita URLs de servidores que exigem o cabeçalho \"User-Agent\""
+                "es": "La API Insertar archivo SKU no acepta URL de servidores que requieren el encabezado \"User-Agent\".",
+                "pt": "A API Insert SKU File não aceita URLs de servidores que exigem o cabeçalho \"User-Agent\"."
               },
               "slug": {
                 "en": "insert-sku-file-api-doesnt-accept-urls-from-servers-that-require-useragent-header",
-                "es": "la-api-de-insercion-de-archivos-sku-no-acepta-url-de-servidores-que-requieran-el-encabezado-useragent",
+                "es": "la-api-insertar-archivo-sku-no-acepta-url-de-servidores-que-requieren-el-encabezado-useragent",
                 "pt": "a-api-insert-sku-file-nao-aceita-urls-de-servidores-que-exigem-o-cabecalho-useragent"
               },
               "origin": "",
@@ -41334,6 +41364,21 @@
                 "en": "category-trees-specification-navigation-can-return-incorrect-data",
                 "es": "la-navegacion-por-las-especificaciones-del-arbol-de-categorias-puede-devolver-datos-incorrectos",
                 "pt": "a-navegacao-de-especificacao-da-arvore-de-categorias-pode-retornar-dados-incorretos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "ActivateIfPossible set to \"False\" if mandatory specifications are not fully saved on catalog admin",
+                "es": "ActivateIfPossible se establece en \"False\" si las especificaciones obligatorias no se guardan completamente en el administrador del catálogo.",
+                "pt": "A opção ActivateIfPossible deve ser definida como \"False\" se as especificações obrigatórias não estiverem totalmente salvas no painel de administração do catálogo."
+              },
+              "slug": {
+                "en": "activateifpossible-set-to-false-if-mandatory-specifications-are-not-fully-saved-on-catalog-admin",
+                "es": "activateifpossible-se-establece-en-false-si-las-especificaciones-obligatorias-no-se-guardan-completamente-en-el-administrador-del-catalogo",
+                "pt": "a-opcao-activateifpossible-deve-ser-definida-como-false-se-as-especificacoes-obrigatorias-nao-estiverem-totalmente-salvas-no-painel-de-administracao-do-catalogo"
               },
               "origin": "",
               "type": "markdown",
@@ -45078,6 +45123,21 @@
             },
             {
               "name": {
+                "en": "Checkout payment step doesn't work if Apple Pay is the first payment method",
+                "es": "El paso de pago al finalizar la compra no funciona si Apple Pay es el primer método de pago.",
+                "pt": "A etapa de pagamento no checkout não funciona se o Apple Pay for o primeiro método de pagamento."
+              },
+              "slug": {
+                "en": "checkout-payment-step-doesnt-work-if-apple-pay-is-the-first-payment-method",
+                "es": "el-paso-de-pago-al-finalizar-la-compra-no-funciona-si-apple-pay-es-el-primer-metodo-de-pago",
+                "pt": "a-etapa-de-pagamento-no-checkout-nao-funciona-se-o-apple-pay-for-o-primeiro-metodo-de-pagamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Impersonation is ignored after one purchase is completed",
                 "es": "La suplantación de identidad se ignora después de completar una compra",
                 "pt": "A falsificação de identidade é ignorada após a conclusão de uma compra"
@@ -46421,21 +46481,6 @@
                 "en": "checkout-incorrectly-sending-item-details-to-transaction",
                 "es": "el-pago-envia-incorrectamente-los-detalles-del-articulo-a-la-transaccion",
                 "pt": "checkout-incorretamente-enviando-detalhes-do-item-para-a-transacao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Checkout payment step doesn't work if Apple Pay is the first payment method",
-                "es": "Checkout payment step doesn't work if Apple Pay is the first payment method",
-                "pt": "Checkout payment step doesn't work if Apple Pay is the first payment method"
-              },
-              "slug": {
-                "en": "checkout-payment-step-doesnt-work-if-apple-pay-is-the-first-payment-method",
-                "es": "checkout-payment-step-doesnt-work-if-apple-pay-is-the-first-payment-method",
-                "pt": "checkout-payment-step-doesnt-work-if-apple-pay-is-the-first-payment-method"
               },
               "origin": "",
               "type": "markdown",
@@ -48116,6 +48161,21 @@
                 "en": "delivery-method-selector-does-not-appear-in-some-scenarios",
                 "es": "el-selector-de-metodo-de-entrega-no-aparece-en-algunos-escenarios",
                 "pt": "o-seletor-do-metodo-de-entrega-nao-aparece-em-alguns-cenarios"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Tax Service getting different values from Marketplace and Fullfilment when a More for Less promotion is used.",
+                "es": "El servicio de impuestos obtiene valores diferentes de Marketplace y Fulfillment cuando se utiliza una promoción de \"Más por menos\".",
+                "pt": "O Serviço de Impostos obtém valores diferentes do Marketplace e do Fulfillment quando uma promoção \"Mais por Menos\" é utilizada."
+              },
+              "slug": {
+                "en": "tax-service-getting-different-values-from-marketplace-and-fullfilment-when-a-more-for-less-promotion-is-used",
+                "es": "el-servicio-de-impuestos-obtiene-valores-diferentes-de-marketplace-y-fulfillment-cuando-se-utiliza-una-promocion-de-mas-por-menos",
+                "pt": "o-servico-de-impostos-obtem-valores-diferentes-do-marketplace-e-do-fulfillment-quando-uma-promocao-mais-por-menos-e-utilizada"
               },
               "origin": "",
               "type": "markdown",
@@ -50901,21 +50961,6 @@
             },
             {
               "name": {
-                "en": "Magazine Luiza Order with error \"Object reference not set to an instance of an object\"",
-                "es": "Magazine Luiza Pedido con el error «La referencia al objeto no se ha establecido en una instancia de un objeto»",
-                "pt": "Magazine Luiza Erro no pedido: \"Referência de objeto não definida para uma instância de objeto\""
-              },
-              "slug": {
-                "en": "magazine-luiza-order-with-error-object-reference-not-set-to-an-instance-of-an-object",
-                "es": "magazine-luiza-pedido-con-el-error-la-referencia-al-objeto-no-se-ha-establecido-en-una-instancia-de-un-objeto",
-                "pt": "magazine-luiza-erro-no-pedido-referencia-de-objeto-nao-definida-para-uma-instancia-de-objeto"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Magazine Luiza Orders with APPROVED status on the marketplace are not being approved on VTEX",
                 "es": "Magazine Luiza Los pedidos con el estado «APROBADO» en el marketplace no se están aprobando en VTEX",
                 "pt": "Magazine Luiza Os pedidos com o status \"APROVADO\" no marketplace não estão sendo aprovados no VTEX"
@@ -50939,21 +50984,6 @@
                 "en": "magazine-luiza-order-canceled-on-marketplace-didnt-cancel-on-vtex",
                 "es": "magazine-luiza-el-pedido-cancelado-en-marketplace-no-se-ha-cancelado-en-vtex",
                 "pt": "magazine-luiza-pedido-cancelado-no-marketplace-mas-nao-no-vtex"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Magazine Luiza Orders pending dispatch authorization even if approved by Marketplace",
-                "es": "Revista Luiza Pedidos pendientes de autorización de envío aunque estén aprobados por Marketplace",
-                "pt": "Magazine Luiza Pedidos pendentes de autorização de despacho mesmo que aprovados pelo Marketplace"
-              },
-              "slug": {
-                "en": "magazine-luiza-orders-pending-dispatch-authorization-even-if-approved-by-marketplace",
-                "es": "revista-luiza-pedidos-pendientes-de-autorizacion-de-envio-aunque-esten-aprobados-por-marketplace",
-                "pt": "magazine-luiza-pedidos-pendentes-de-autorizacao-de-despacho-mesmo-que-aprovados-pelo-marketplace"
               },
               "origin": "",
               "type": "markdown",
@@ -51156,21 +51186,6 @@
             },
             {
               "name": {
-                "en": "Mercado Livre Error when accepting Buybox/ME2 suggestion: BRAND attribute required",
-                "es": "Mercado Livre Error al aceptar la sugerencia de Buybox/ME2: se requiere el atributo BRAND",
-                "pt": "Mercado Livre Erro ao aceitar a sugestão da Buybox/ME2: atributo BRAND obrigatório"
-              },
-              "slug": {
-                "en": "mercado-livre-error-when-accepting-buyboxme2-suggestion-brand-attribute-required",
-                "es": "mercado-livre-error-al-aceptar-la-sugerencia-de-buyboxme2-se-requiere-el-atributo-brand",
-                "pt": "mercado-livre-erro-ao-aceitar-a-sugestao-da-buyboxme2-atributo-brand-obrigatorio"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Mercado Livre First-load failure in Mercado Libre Promotions Admin (data only loads after navigating away/back)",
                 "es": "Mercado Livre Fallo en la primera carga en la administración de promociones de Mercado Libre (los datos sólo se cargan después de navegar hacia atrás/atrás).",
                 "pt": "Mercado Livre Falha no primeiro carregamento na administração de promoções do Mercado Livre (os dados só são carregados depois de navegar para fora/voltar)"
@@ -51194,21 +51209,6 @@
                 "en": "mercado-livre-main-image-not-respected",
                 "es": "mercado-livre-imagen-principal-no-respetada",
                 "pt": "mercado-livre-imagem-principal-nao-respeitada"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Mercado Livre Multi-Origin - orders allocated to inactive stock",
-                "es": "Mercado Livre Orígenes múltiples: pedidos asignados a existencias inactivas",
-                "pt": "Mercado Livre Multi-Origem - pedidos alocados ao estoque inativo"
-              },
-              "slug": {
-                "en": "mercado-livre-multiorigin-orders-allocated-to-inactive-stock",
-                "es": "mercado-livre-origenes-multiples-pedidos-asignados-a-existencias-inactivas",
-                "pt": "mercado-livre-multiorigem-pedidos-alocados-ao-estoque-inativo"
               },
               "origin": "",
               "type": "markdown",
@@ -53890,6 +53890,21 @@
             },
             {
               "name": {
+                "en": "Deleted product may still appears in Intelligent Search after a concurrent update",
+                "es": "Es posible que el producto eliminado siga apareciendo en la Búsqueda inteligente después de una actualización simultánea.",
+                "pt": "O produto excluído ainda pode aparecer na Busca Inteligente após uma atualização simultânea."
+              },
+              "slug": {
+                "en": "deleted-product-may-still-appears-in-intelligent-search-after-a-concurrent-update",
+                "es": "es-posible-que-el-producto-eliminado-siga-apareciendo-en-la-busqueda-inteligente-despues-de-una-actualizacion-simultanea",
+                "pt": "o-produto-excluido-ainda-pode-aparecer-na-busca-inteligente-apos-uma-atualizacao-simultanea"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Autocomplete does not display Search Suggestions during the first interaction after PLP renders",
                 "es": "La función de autocompletar no muestra sugerencias de búsqueda durante la primera interacción después de que se renderiza la página de perfil de usuario (PLP).",
                 "pt": "O recurso de autocompletar não exibe sugestões de pesquisa durante a primeira interação após a renderização do PLP."
@@ -54146,8 +54161,8 @@
             {
               "name": {
                 "en": "Search results may not display products from the synonyms",
-                "es": "Es posible que los resultados de la búsqueda no muestren productos de los sinónimos",
-                "pt": "Os resultados da pesquisa podem não exibir produtos dos sinônimos"
+                "es": "Es posible que los resultados de la búsqueda no muestren productos de los sinónimos.",
+                "pt": "Os resultados da pesquisa podem não exibir produtos dos sinônimos."
               },
               "slug": {
                 "en": "search-results-may-not-display-products-from-the-synonyms",
@@ -58142,6 +58157,21 @@
             },
             {
               "name": {
+                "en": "Change Order V2 item removal with compensateShippingChanges + free shipping leaves non-zero price/sellingPrice per item in logisticsInfo",
+                "es": "Modificar pedido V2: eliminación de artículo con compensaciónShippingChanges + envío gratuito deja un precio/precio de venta distinto de cero por artículo en logisticsInfo",
+                "pt": "A remoção do item Change Order V2 com compensationShippingChanges + frete grátis resulta em um preço/preço de venda diferente de zero por item em logisticsInfo."
+              },
+              "slug": {
+                "en": "change-order-v2-item-removal-with-compensateshippingchanges-free-shipping-leaves-nonzero-pricesellingprice-per-item-in-logisticsinfo",
+                "es": "modificar-pedido-v2-eliminacion-de-articulo-con-compensacionshippingchanges-envio-gratuito-deja-un-precioprecio-de-venta-distinto-de-cero-por-articulo-en-logisticsinfo",
+                "pt": "a-remocao-do-item-change-order-v2-com-compensationshippingchanges-frete-gratis-resulta-em-um-precopreco-de-venda-diferente-de-zero-por-item-em-logisticsinfo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Subscriptions simulation returned error when PickupPointID contains special characters",
                 "es": "La simulación de suscripciones devolvió un error cuando PickupPointID contiene caracteres especiales",
                 "pt": "A simulação de assinaturas retornou um erro quando o PickupPointID contém caracteres especiais"
@@ -58277,14 +58307,14 @@
             },
             {
               "name": {
-                "en": "Wrong warehouse assigned to item added via ChangeOrderV2 (FFM/SOS ShippingEnricher ignores Logistics’ DeliveryIds)",
-                "es": "Se asignó un almacén incorrecto al artículo agregado mediante ChangeOrderV2 (FFM/SOS ShippingEnricher ignora los DeliveryIds de Logística).",
-                "pt": "Armazém incorreto atribuído ao item adicionado via ChangeOrderV2 (FFM/SOS ShippingEnricher ignora os DeliveryIds da Logística)"
+                "en": "Wrong warehouse assigned to items in multi-warehouse orders after a ChangeOrderV2 (add, remove or reduce quantity)",
+                "es": "Se asignó un almacén incorrecto a los artículos en pedidos de varios almacenes después de un ChangeOrderV2 (agregar, eliminar o reducir la cantidad).",
+                "pt": "Armazém incorreto atribuído a itens em pedidos com vários armazéns após uma alteração de pedido (ChangeOrderV2) (adicionar, remover ou reduzir quantidade)."
               },
               "slug": {
-                "en": "wrong-warehouse-assigned-to-item-added-via-changeorderv2-ffmsos-shippingenricher-ignores-logistics-deliveryids",
-                "es": "se-asigno-un-almacen-incorrecto-al-articulo-agregado-mediante-changeorderv2-ffmsos-shippingenricher-ignora-los-deliveryids-de-logistica",
-                "pt": "armazem-incorreto-atribuido-ao-item-adicionado-via-changeorderv2-ffmsos-shippingenricher-ignora-os-deliveryids-da-logistica"
+                "en": "wrong-warehouse-assigned-to-items-in-multiwarehouse-orders-after-a-changeorderv2-add-remove-or-reduce-quantity",
+                "es": "se-asigno-un-almacen-incorrecto-a-los-articulos-en-pedidos-de-varios-almacenes-despues-de-un-changeorderv2-agregar-eliminar-o-reducir-la-cantidad",
+                "pt": "armazem-incorreto-atribuido-a-itens-em-pedidos-com-varios-armazens-apos-uma-alteracao-de-pedido-changeorderv2-adicionar-remover-ou-reduzir-quantidade"
               },
               "origin": "",
               "type": "markdown",
@@ -61085,21 +61115,6 @@
             },
             {
               "name": {
-                "en": "Transactions made with PayU do not change from cancelling status",
-                "es": "Las transacciones realizadas con PayU no pasan del estado de cancelación",
-                "pt": "As transações realizadas com o PayU não mudam de status após o cancelamento"
-              },
-              "slug": {
-                "en": "transactions-made-with-payu-do-not-change-from-cancelling-status",
-                "es": "las-transacciones-realizadas-con-payu-no-pasan-del-estado-de-cancelacion",
-                "pt": "as-transacoes-realizadas-com-o-payu-nao-mudam-de-status-apos-o-cancelamento"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Cabal's Regex update",
                 "es": "Actualización del Regex de Cabal",
                 "pt": "Atualização Regex da Cabal"
@@ -61168,6 +61183,21 @@
                 "en": "callback-with-approved-status-not-being-considered-to-proceed-with-the-transaction",
                 "es": "la-devolucion-de-llamada-con-estado-aprobado-no-se-tiene-en-cuenta-para-continuar-con-la-transaccion",
                 "pt": "callback-com-status-aprovado-nao-esta-sendo-considerado-para-prosseguir-com-a-transacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Empty response fields returned as \"null\" for connectors with additional fields enabled",
+                "es": "Los campos de respuesta vacíos se devuelven como \"null\" para los conectores con campos adicionales habilitados.",
+                "pt": "Campos de resposta vazios são retornados como \"nulo\" para conectores com campos adicionais habilitados."
+              },
+              "slug": {
+                "en": "empty-response-fields-returned-as-null-for-connectors-with-additional-fields-enabled",
+                "es": "los-campos-de-respuesta-vacios-se-devuelven-como-null-para-los-conectores-con-campos-adicionales-habilitados",
+                "pt": "campos-de-resposta-vazios-sao-retornados-como-nulo-para-conectores-com-campos-adicionais-habilitados"
               },
               "origin": "",
               "type": "markdown",
@@ -62810,6 +62840,21 @@
             },
             {
               "name": {
+                "en": "Saved-card payment uses the BIN of a previously typed card in Checkout (card UI keeps the typed card number after switching to a saved card)",
+                "es": "El pago con tarjeta guardada utiliza el BIN de una tarjeta introducida previamente en el proceso de pago (la interfaz de usuario de la tarjeta conserva el número de tarjeta introducido después de cambiar a una tarjeta guardada).",
+                "pt": "O pagamento com cartão salvo utiliza o BIN de um cartão previamente digitado no Checkout (a interface do cartão mantém o número do cartão digitado após a troca para um cartão salvo)."
+              },
+              "slug": {
+                "en": "savedcard-payment-uses-the-bin-of-a-previously-typed-card-in-checkout-card-ui-keeps-the-typed-card-number-after-switching-to-a-saved-card",
+                "es": "el-pago-con-tarjeta-guardada-utiliza-el-bin-de-una-tarjeta-introducida-previamente-en-el-proceso-de-pago-la-interfaz-de-usuario-de-la-tarjeta-conserva-el-numero-de-tarjeta-introducido-despues-de-cambiar-a-una-tarjeta-guardada",
+                "pt": "o-pagamento-com-cartao-salvo-utiliza-o-bin-de-um-cartao-previamente-digitado-no-checkout-a-interface-do-cartao-mantem-o-numero-do-cartao-digitado-apos-a-troca-para-um-cartao-salvo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Payment created without connector leads to canceled transaction",
                 "es": "El pago creado sin conector provoca la cancelación de la transacción",
                 "pt": "O pagamento criado sem conector leva ao cancelamento da transação"
@@ -63973,21 +64018,6 @@
                 "en": "transaction-stuck-in-settling-after-capture-fails-due-to-recipientssplitremainvalue-mismatch",
                 "es": "transaccion-bloqueada-en-liquidacion-tras-fallo-de-captura-debido-a-una-falta-de-coincidencia-de-recipientssplitremainvalue",
                 "pt": "transacao-presa-na-liquidacao-apos-falha-na-captura-devido-a-incompatibilidade-entre-recipientssplitremainvalue"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Transaction stuck in cancelling and cancel/refund return “Object reference not set to an instance of an object”",
-                "es": "Transacción bloqueada en la cancelación y devolución de cancelación/reembolso «Referencia de objeto no establecida en una instancia de un objeto».",
-                "pt": "Transação presa no cancelamento e cancelamento/reembolso da devolução “Referência de objeto não definida para uma instância de um objeto”"
-              },
-              "slug": {
-                "en": "transaction-stuck-in-cancelling-and-cancelrefund-return-object-reference-not-set-to-an-instance-of-an-object",
-                "es": "transaccion-bloqueada-en-la-cancelacion-y-devolucion-de-cancelacionreembolso-referencia-de-objeto-no-establecida-en-una-instancia-de-un-objeto",
-                "pt": "transacao-presa-no-cancelamento-e-cancelamentoreembolso-da-devolucao-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto"
               },
               "origin": "",
               "type": "markdown",
@@ -65341,21 +65371,6 @@
                 "en": "boolean-videoaudio-html-properties-not-being-validated-on-legacy-cms",
                 "es": "las-propiedades-html-booleanas-de-videoaudio-no-se-validan-en-el-cms-heredado",
                 "pt": "propriedades-booleanas-de-videoaudio-html-nao-validadas-no-cms-legacy"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Restrict the default-src of the header Content Security Policy could break the Checkout",
-                "es": "Restringir el valor «default-src» de la Política de Seguridad de Contenidos (CSP) del encabezado podría impedir que se complete el proceso de pago.",
-                "pt": "Restringir o parâmetro `default-src` da Política de Segurança de Conteúdo (CSP) do cabeçalho pode impedir o funcionamento do processo de checkout"
-              },
-              "slug": {
-                "en": "restrict-the-defaultsrc-of-the-header-content-security-policy-could-break-the-checkout",
-                "es": "restringir-el-valor-defaultsrc-de-la-politica-de-seguridad-de-contenidos-csp-del-encabezado-podria-impedir-que-se-complete-el-proceso-de-pago",
-                "pt": "restringir-o-parametro-defaultsrc-da-politica-de-seguranca-de-conteudo-csp-do-cabecalho-pode-impedir-o-funcionamento-do-processo-de-checkout"
               },
               "origin": "",
               "type": "markdown",
@@ -68399,6 +68414,21 @@
             },
             {
               "name": {
+                "en": "PLP renders blank on Back navigation after pagination, PDP regionalization, and full reload",
+                "es": "La PLP se muestra en blanco en la navegación hacia atrás después de la paginación, la regionalización de PDP y la recarga completa.",
+                "pt": "A página inicial (PLP) fica em branco na navegação para trás após paginação, regionalização da página de detalhes do produto (PDP) e recarregamento completo."
+              },
+              "slug": {
+                "en": "plp-renders-blank-on-back-navigation-after-pagination-pdp-regionalization-and-full-reload",
+                "es": "la-plp-se-muestra-en-blanco-en-la-navegacion-hacia-atras-despues-de-la-paginacion-la-regionalizacion-de-pdp-y-la-recarga-completa",
+                "pt": "a-pagina-inicial-plp-fica-em-branco-na-navegacao-para-tras-apos-paginacao-regionalizacao-da-pagina-de-detalhes-do-produto-pdp-e-recarregamento-completo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Position on selected image on PDP doesn't reset when changing product",
                 "es": "La posición de la imagen seleccionada en la PDP no se restablece al cambiar de producto",
                 "pt": "A posição na imagem selecionada no PDP não é reinicializada ao mudar de produto"
@@ -68969,6 +68999,21 @@
             },
             {
               "name": {
+                "en": "region_id outside the Base64 format discards the visitor's region from the session during SSR",
+                "es": "Si region_id no está en formato Base64, se descarta la región del visitante de la sesión durante el SSR.",
+                "pt": "O `region_id` fora do formato Base64 descarta a região do visitante da sessão durante a renderização no servidor (SSR)."
+              },
+              "slug": {
+                "en": "regionid-outside-the-base64-format-discards-the-visitors-region-from-the-session-during-ssr",
+                "es": "si-regionid-no-esta-en-formato-base64-se-descarta-la-region-del-visitante-de-la-sesion-durante-el-ssr",
+                "pt": "o-regionid-fora-do-formato-base64-descarta-a-regiao-do-visitante-da-sessao-durante-a-renderizacao-no-servidor-ssr"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "AB Tester app shows miscalculated information for sessions and conversion",
                 "es": "La aplicación AB Tester muestra información errónea sobre sesiones y conversión",
                 "pt": "O aplicativo AB Tester mostra informações mal calculadas para sessões e conversão"
@@ -69037,6 +69082,21 @@
                 "en": "breadcrumb-not-being-read-by-crawlers-due-ssr-timeout",
                 "es": "los-rastreadores-no-leen-la-ruta-de-navegacion-debido-a-un-tiempo-de-espera-de-ssr",
                 "pt": "o-breadcrumb-nao-esta-sendo-lido-pelos-rastreadores-devido-ao-tempo-limite-do-ssr"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Custom header with key \"Link\" is not delivered on Store Framework stores",
+                "es": "El encabezado personalizado con la clave \"Link\" no se entrega en las tiendas de Store Framework.",
+                "pt": "O cabeçalho personalizado com a chave \"Link\" não é entregue em lojas com o Store Framework."
+              },
+              "slug": {
+                "en": "custom-header-with-key-link-is-not-delivered-on-store-framework-stores",
+                "es": "el-encabezado-personalizado-con-la-clave-link-no-se-entrega-en-las-tiendas-de-store-framework",
+                "pt": "o-cabecalho-personalizado-com-a-chave-link-nao-e-entregue-em-lojas-com-o-store-framework"
               },
               "origin": "",
               "type": "markdown",
@@ -70121,6 +70181,36 @@
               "origin": "",
               "type": "markdown",
               "children": []
+            },
+            {
+              "name": {
+                "en": "vtex.structured-data Settings page shows GTIN Value “EAN” as default, but the app uses the SKU ID until the setting is saved",
+                "es": "vtex.structured-data La página de configuración muestra el valor GTIN \"EAN\" como predeterminado, pero la aplicación utiliza el ID de SKU hasta que se guarda la configuración.",
+                "pt": "vtex.structured-data A página de configurações mostra o valor GTIN “EAN” como padrão, mas o aplicativo usa o ID SKU até que a configuração seja salva."
+              },
+              "slug": {
+                "en": "vtexstructureddata-settings-page-shows-gtin-value-ean-as-default-but-the-app-uses-the-sku-id-until-the-setting-is-saved",
+                "es": "vtexstructureddata-la-pagina-de-configuracion-muestra-el-valor-gtin-ean-como-predeterminado-pero-la-aplicacion-utiliza-el-id-de-sku-hasta-que-se-guarda-la-configuracion",
+                "pt": "vtexstructureddata-a-pagina-de-configuracoes-mostra-o-valor-gtin-ean-como-padrao-mas-o-aplicativo-usa-o-id-sku-ate-que-a-configuracao-seja-salva"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "vtex.structured-data App settings are not applied in PDP SSR HTML",
+                "es": "vtex.structured-data La configuración de la aplicación no se aplica en PDP SSR HTML",
+                "pt": "vtex.structured-data As configurações do aplicativo não são aplicadas no PDP SSR HTML"
+              },
+              "slug": {
+                "en": "vtexstructureddata-app-settings-are-not-applied-in-pdp-ssr-html",
+                "es": "vtexstructureddata-la-configuracion-de-la-aplicacion-no-se-aplica-en-pdp-ssr-html",
+                "pt": "vtexstructureddata-as-configuracoes-do-aplicativo-nao-sao-aplicadas-no-pdp-ssr-html"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -70293,6 +70383,21 @@
           "children": [
             {
               "name": {
+                "en": "Amazon tracking failure is not displayed in Bridge when the invoice items don’t match the order items",
+                "es": "Amazon El error de seguimiento no se muestra en Bridge cuando los artículos de la factura no coinciden con los artículos del pedido.",
+                "pt": "A falha de rastreamento da Amazon não é exibida no Bridge quando os itens da fatura não correspondem aos itens do pedido."
+              },
+              "slug": {
+                "en": "amazon-tracking-failure-is-not-displayed-in-bridge-when-the-invoice-items-dont-match-the-order-items",
+                "es": "amazon-el-error-de-seguimiento-no-se-muestra-en-bridge-cuando-los-articulos-de-la-factura-no-coinciden-con-los-articulos-del-pedido",
+                "pt": "a-falha-de-rastreamento-da-amazon-nao-e-exibida-no-bridge-quando-os-itens-da-fatura-nao-correspondem-aos-itens-do-pedido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Amazon In some cases, a SKU may be published successfully on Amazon, but the stock is not updated and remains at zero.",
                 "es": "Amazon En algunos casos, un SKU puede publicarse correctamente en Amazon, pero el stock no se actualiza y permanece en cero.",
                 "pt": "Amazon Em alguns casos, um SKU pode ser publicado com sucesso na Amazon, mas o estoque não é atualizado e permanece zerado."
@@ -70331,6 +70436,21 @@
                 "en": "amazon-order-cancellation-flow",
                 "es": "amazon-proceso-de-cancelacion-de-pedidos",
                 "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon Listing SKU can’t be sent through Product publication after its images are replaced in the catalog",
+                "es": "Amazon Listado El SKU no se puede enviar a través de la publicación del producto después de que sus imágenes se hayan reemplazado en el catálogo.",
+                "pt": "Amazon Listagem O SKU não pode ser enviado através da publicação do produto após a substituição de suas imagens no catálogo."
+              },
+              "slug": {
+                "en": "amazon-listing-sku-cant-be-sent-through-product-publication-after-its-images-are-replaced-in-the-catalog",
+                "es": "amazon-listado-el-sku-no-se-puede-enviar-a-traves-de-la-publicacion-del-producto-despues-de-que-sus-imagenes-se-hayan-reemplazado-en-el-catalogo",
+                "pt": "amazon-listagem-o-sku-nao-pode-ser-enviado-atraves-da-publicacao-do-produto-apos-a-substituicao-de-suas-imagens-no-catalogo"
               },
               "origin": "",
               "type": "markdown",
@@ -70421,6 +70541,21 @@
                 "en": "amazonmatch-in-some-cases-sku-reverts-to-pending-review-after-match-confirmation-with-no-indication-of-amazons-rejection-reason",
                 "es": "amazoncoincidencia-en-algunos-casos-el-sku-vuelve-a-estar-en-pendiente-de-revision-despues-de-la-confirmacion-de-la-coincidencia-sin-ninguna-indicacion-del-motivo-del-rechazo-de-amazon",
                 "pt": "amazonmatch-em-alguns-casos-o-sku-volta-para-aguardando-revisao-apos-a-confirmacao-da-correspondencia-sem-nenhuma-indicacao-do-motivo-da-rejeicao-da-amazon"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "APP FBE Store pages wait for an external file to load when Facebook Business Extension is installed",
+                "es": "APP FBE Las páginas de la tienda esperan a que se cargue un archivo externo cuando se instala la extensión de Facebook Business.",
+                "pt": "APP FBE As páginas da loja aguardam o carregamento de um arquivo externo quando a Extensão de Negócios do Facebook está instalada."
+              },
+              "slug": {
+                "en": "app-fbe-store-pages-wait-for-an-external-file-to-load-when-facebook-business-extension-is-installed",
+                "es": "app-fbe-las-paginas-de-la-tienda-esperan-a-que-se-cargue-un-archivo-externo-cuando-se-instala-la-extension-de-facebook-business",
+                "pt": "app-fbe-as-paginas-da-loja-aguardam-o-carregamento-de-um-arquivo-externo-quando-a-extensao-de-negocios-do-facebook-esta-instalada"
               },
               "origin": "",
               "type": "markdown",
@@ -70533,6 +70668,21 @@
             },
             {
               "name": {
+                "en": "Magalu SLA not available in Multilevel architecture",
+                "es": "Magalu SLA no disponible en arquitectura multinivel",
+                "pt": "Magalu SLA não disponível na arquitetura multinível"
+              },
+              "slug": {
+                "en": "magalu-sla-not-available-in-multilevel-architecture",
+                "es": "magalu-sla-no-disponible-en-arquitectura-multinivel",
+                "pt": "magalu-sla-nao-disponivel-na-arquitetura-multinivel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Magazine Luiza - Main Image not respected",
                 "es": "Magazine Luiza - Imagen principal no respetada",
                 "pt": "Magazine Luiza - Imagem principal não respeitada"
@@ -70578,6 +70728,36 @@
             },
             {
               "name": {
+                "en": "Magazine Luiza Order with error \"Object reference not set to an instance of an object\"",
+                "es": "Magazine Luiza Pedido con error \"La referencia a objeto no está establecida en una instancia de un objeto\"",
+                "pt": "Magazine Luiza Pedido com erro \"Referência de objeto não definida para uma instância de um objeto\""
+              },
+              "slug": {
+                "en": "magazine-luiza-order-with-error-object-reference-not-set-to-an-instance-of-an-object",
+                "es": "magazine-luiza-pedido-con-error-la-referencia-a-objeto-no-esta-establecida-en-una-instancia-de-un-objeto",
+                "pt": "magazine-luiza-pedido-com-erro-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Magazine Luiza Orders pending dispatch authorization even if approved by Marketplace",
+                "es": "Magazine Luiza Pedidos pendientes de autorización de envío, incluso si son aprobados por Marketplace.",
+                "pt": "Magazine Luiza Pedidos aguardando autorização de envio mesmo se aprovados pelo Marketplace"
+              },
+              "slug": {
+                "en": "magazine-luiza-orders-pending-dispatch-authorization-even-if-approved-by-marketplace",
+                "es": "magazine-luiza-pedidos-pendientes-de-autorizacion-de-envio-incluso-si-son-aprobados-por-marketplace",
+                "pt": "magazine-luiza-pedidos-aguardando-autorizacao-de-envio-mesmo-se-aprovados-pelo-marketplace"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Mercado Livre Ads Incorrectly Re-created as Cross-docking for Full SKUs with Zero Stock",
                 "es": "Mercado Livre Anuncios recreados incorrectamente como cross-docking para SKU completos con stock cero.",
                 "pt": "Mercado Livre Anúncios recriados incorretamente como cross-docking para SKUs completos com estoque zero"
@@ -70608,6 +70788,21 @@
             },
             {
               "name": {
+                "en": "Mercado Livre Error when accepting Buybox/ME2 suggestion: BRAND attribute required",
+                "es": "Mercado Livre Error al aceptar la sugerencia de Buybox/ME2: Se requiere el atributo BRAND",
+                "pt": "Mercado Livre Erro ao aceitar a sugestão Buybox/ME2: Atributo BRAND obrigatório"
+              },
+              "slug": {
+                "en": "mercado-livre-error-when-accepting-buyboxme2-suggestion-brand-attribute-required",
+                "es": "mercado-livre-error-al-aceptar-la-sugerencia-de-buyboxme2-se-requiere-el-atributo-brand",
+                "pt": "mercado-livre-erro-ao-aceitar-a-sugestao-buyboxme2-atributo-brand-obrigatorio"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Mercado Livre Error when re-authenticating the integration",
                 "es": "Mercado Livre Error al volver a autenticar la integración",
                 "pt": "Mercado Livre Erro ao reautenticar a integração"
@@ -70616,6 +70811,21 @@
                 "en": "mercado-livre-error-when-reauthenticating-the-integration",
                 "es": "mercado-livre-error-al-volver-a-autenticar-la-integracion",
                 "pt": "mercado-livre-erro-ao-reautenticar-a-integracao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Multi-Origin - orders allocated to inactive stock",
+                "es": "Mercado Livre Multi-Origen - pedidos asignados a stock inactivo",
+                "pt": "Mercado Livre Multi-Origem - pedidos alocados a estoque inativo"
+              },
+              "slug": {
+                "en": "mercado-livre-multiorigin-orders-allocated-to-inactive-stock",
+                "es": "mercado-livre-multiorigen-pedidos-asignados-a-stock-inactivo",
+                "pt": "mercado-livre-multiorigem-pedidos-alocados-a-estoque-inativo"
               },
               "origin": "",
               "type": "markdown",
