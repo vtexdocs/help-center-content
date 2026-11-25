@@ -23439,507 +23439,6 @@
           "children": [
             {
               "name": {
-                "en": "Sellers",
-                "es": "Sellers",
-                "pt": "Sellers"
-              },
-              "slug": {
-                "en": "sellers-category",
-                "es": "sellers-categoria",
-                "pt": "sellers-categoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Categories and brands",
-                    "es": "Categorías y marcas",
-                    "pt": "Categorias e marcas"
-                  },
-                  "slug": {
-                    "en": "categories-and-brands-subcategory",
-                    "es": "categorias-y-marcas-subcategoria",
-                    "pt": "categorias-e-marcas-subcategoria"
-                  },
-                  "origin": "",
-                  "type": "category",
-                  "children": [
-                    {
-                      "name": {
-                        "en": "Mapping categories and brands for the marketplace (Beta)",
-                        "es": "Mapeo de categorías y marcas para marketplace (Beta)",
-                        "pt": "Mapeamento de categorias e marcas para marketplace VTEX (Beta)"
-                      },
-                      "slug": {
-                        "en": "mapping-categories-and-brands-for-the-marketplace-beta",
-                        "es": "mapeo-de-categorias-y-marcas-para-marketplace-beta",
-                        "pt": "mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Mapping categories, brands and specifications for the marketplace",
-                        "es": "Mapeo de categorías, marcas y especificaciones para marketplace",
-                        "pt": "Mapeamento de categorias, marcas e especificações para marketplace"
-                      },
-                      "slug": {
-                        "en": "mapping-categories-and-brands-for-the-marketplace",
-                        "es": "mapeo-de-categorias-y-marcas-para-marketplace",
-                        "pt": "mapeando-categorias-e-marcas-para-marketplace"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": {
-                    "en": "Seller Management",
-                    "es": "Gestión de Sellers",
-                    "pt": "Gerenciamento de Sellers"
-                  },
-                  "slug": {
-                    "en": "seller-management",
-                    "es": "gestion-de-sellers",
-                    "pt": "gerenciamento-de-sellers"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": [
-                    {
-                      "name": {
-                        "en": "Adding a seller",
-                        "es": "Agregar seller",
-                        "pt": "Adicionar seller"
-                      },
-                      "slug": {
-                        "en": "adding-a-seller",
-                        "es": "agregar-seller",
-                        "pt": "adicionar-seller"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Configuring a marketplace between VTEX stores",
-                        "es": "Configurando marketplace entre tiendas VTEX",
-                        "pt": "Configurando marketplace entre lojas VTEX"
-                      },
-                      "slug": {
-                        "en": "configuring-the-marketplace-between-vtex-stores",
-                        "es": "configurando-marketplace-entre-tiendas-vtex",
-                        "pt": "configurando-marketplace-entre-lojas-vtex"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": {
-                    "en": "Seller Portal",
-                    "es": "Seller Portal",
-                    "pt": "Seller Portal"
-                  },
-                  "slug": {
-                    "en": "seller-portal-subcategory",
-                    "es": "seller-portal-subcategoria",
-                    "pt": "seller-portal-subcategoria"
-                  },
-                  "origin": "",
-                  "type": "category",
-                  "children": [
-                    {
-                      "name": {
-                        "en": "Marketplace: Seller Invite",
-                        "es": "Marketplace: Invitación de Sellers",
-                        "pt": "Marketplace: Convite de Sellers"
-                      },
-                      "slug": {
-                        "en": "marketplace-invited-sellers",
-                        "es": "marketplace-sellers-invitados",
-                        "pt": "marketplace-convite-de-sellers"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Seller Portal: Offers and Sending Products to the Marketplace",
-                        "es": "Seller Portal: Anuncios y Envío de Productos al Marketplace",
-                        "pt": "Seller Portal: Anúncios e o Envio de Produtos para o Marketplace"
-                      },
-                      "slug": {
-                        "en": "offers-and-sending-products-to-the-marketplace",
-                        "es": "anuncios-y-envio-de-productos-al-marketplace",
-                        "pt": "seller-portal-anuncios-e-o-envio-de-produtos-para-o-marketplace"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Seller Portal: Categories",
-                        "es": "Seller Portal: Categorías",
-                        "pt": "Seller Portal: Categorias"
-                      },
-                      "slug": {
-                        "en": "seller-portal-categories",
-                        "es": "seller-portal-categorias",
-                        "pt": "seller-portal-categorias"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Seller Portal: How to create a product",
-                        "es": "Seller Portal: Cómo crear un producto",
-                        "pt": "Seller Portal: Como criar um produto"
-                      },
-                      "slug": {
-                        "en": "how-to-create-a-product",
-                        "es": "como-crear-un-producto",
-                        "pt": "como-criar-um-produto"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Seller Portal: How Catalog works",
-                        "es": "Seller Portal: Cómo funciona el Catálogo",
-                        "pt": "Seller Portal: Como Funciona o Catálogo"
-                      },
-                      "slug": {
-                        "en": "how-the-seller-portal-catalog-works",
-                        "es": "como-funciona-el-catalogo-del-seller-portal",
-                        "pt": "seller-portal-como-funciona-o-catalogo"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Seller Portal: Creating a promotion",
-                        "es": "Seller portal: crear una promoción",
-                        "pt": "Seller Portal: Criar uma promoção"
-                      },
-                      "slug": {
-                        "en": "seller-portal-creating-a-promotion",
-                        "es": "seller-portal-crear-una-promocion",
-                        "pt": "seller-portal-criar-uma-promocao"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Seller Portal: Product details",
-                        "es": "Seller Portal: Detalles del producto",
-                        "pt": "Seller Portal: Detalhes do produto"
-                      },
-                      "slug": {
-                        "en": "seller-portal-product-details",
-                        "es": "seller-portal-detalles-del-producto",
-                        "pt": "seller-portal-detalhes-do-produto"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Seller Portal: Brands",
-                        "es": "Seller Portal: Marcas",
-                        "pt": "Seller Portal: Marcas"
-                      },
-                      "slug": {
-                        "en": "seller-portal-brands",
-                        "es": "seller-portal-marcas",
-                        "pt": "seller-portal-marcas"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Seller Portal: First Steps for the Seller",
-                        "es": "Seller Portal: primeros pasos del seller",
-                        "pt": "Seller Portal: Primeiros Passos do seller"
-                      },
-                      "slug": {
-                        "en": "how-to-set-up-your-store-on-seller-portal",
-                        "es": "como-configurar-su-tienda-en-seller-portal",
-                        "pt": "seller-portal-primeiros-passos"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Seller Portal: Getting started for the marketplace",
-                        "es": "Seller Portal: Primeros pasos para el marketplace",
-                        "pt": "Seller Portal: Primeiros passos para o marketplace"
-                      },
-                      "slug": {
-                        "en": "seller-portal-getting-started-for-the-marketplace",
-                        "es": "seller-portal-primeros-pasos-para-el-marketplace",
-                        "pt": "seller-portal-primeiros-passos-para-o-marketplace"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Seller Portal: Products",
-                        "es": "Seller Portal: Productos",
-                        "pt": "Seller Portal: Produtos"
-                      },
-                      "slug": {
-                        "en": "product-list",
-                        "es": "lista-de-productos",
-                        "pt": "lista-de-produtos"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Seller Portal: Shared Products",
-                        "es": "Seller Portal: Productos Compartidos",
-                        "pt": "Seller Portal: Produtos Compartilhados"
-                      },
-                      "slug": {
-                        "en": "seller-portal-shared-products",
-                        "es": "seller-portal-productos-compartidos",
-                        "pt": "seller-portal-produtos-compartilhados"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "​​Seller Portal: Promotions",
-                        "es": "Seller Portal: Promociones",
-                        "pt": "Seller Portal: Promoções"
-                      },
-                      "slug": {
-                        "en": "seller-portal-promotions",
-                        "es": "seller-portal-promociones",
-                        "pt": "seller-portal-promocoes"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Seller: creating an account in the Seller Portal",
-                        "es": "Sellers: crear una cuenta en el Seller Portal",
-                        "pt": "Seller: criar conta no Seller Portal"
-                      },
-                      "slug": {
-                        "en": "seller-creating-an-account-in-the-seller-portal",
-                        "es": "sellers-crear-una-cuenta-en-el-seller-portal",
-                        "pt": "seller-criar-conta-no-seller-portal"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": {
-                    "en": "Sellers",
-                    "es": "Sellers",
-                    "pt": "Sellers"
-                  },
-                  "slug": {
-                    "en": "what-is-a-seller",
-                    "es": "que-es-un-seller",
-                    "pt": "o-que-e-um-seller"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": [
-                    {
-                      "name": {
-                        "en": "Actions for a VTEX marketplace operation",
-                        "es": "Acciones para la operación de marketplaces VTEX",
-                        "pt": "Ações para a operação de marketplaces VTEX"
-                      },
-                      "slug": {
-                        "en": "actions-for-vtex-marketplace-operation",
-                        "es": "acciones-para-la-operacion-de-marketplaces-vtex",
-                        "pt": "acoes-para-a-operacao-de-marketplaces-vtex"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Offers sent from the same VTEX sellers and marketplaces",
-                        "es": "Anuncios enviados entre los mismos sellers y marketplaces VTEX",
-                        "pt": "Anúncios enviados entre os mesmos sellers e marketplaces VTEX"
-                      },
-                      "slug": {
-                        "en": "offers-sent-from-the-same-vtex-sellers-and-marketplaces",
-                        "es": "anuncios-enviados-entre-los-mismos-sellers-y-marketplaces-vtex",
-                        "pt": "anuncios-enviados-entre-os-mesmos-sellers-e-marketplaces-vtex"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Configuring a VTEX marketplace",
-                        "es": "Configurar marketplaces VTEX",
-                        "pt": "Configurar marketplace VTEX"
-                      },
-                      "slug": {
-                        "en": "configuring-vtex-marketplace",
-                        "es": "configurar-marketplaces-vtex",
-                        "pt": "configurar-marketplace-vtex"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Configuring a seller on VTEX marketplace",
-                        "es": "Cómo configurar el seller para vender en un marketplace VTEX",
-                        "pt": "Configurar seller para vender em marketplace VTEX"
-                      },
-                      "slug": {
-                        "en": "configuring-a-seller-on-vtex-marketplace",
-                        "es": "como-configurar-el-seller-para-vender-en-un-marketplace-vtex",
-                        "pt": "configurar-seller-para-vender-em-marketplace-vtex"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Choosing between standard account, franchise account or Seller Portal",
-                        "es": "Elegir entre cuenta estándar, cuenta franquicia o Seller Portal",
-                        "pt": "Escolher entre conta padrão, conta franquia ou Seller Portal"
-                      },
-                      "slug": {
-                        "en": "choosing-between-standard-account-franchise-account-or-seller-portal",
-                        "es": "elegir-entre-cuenta-estandar-cuenta-franquicia-o-seller-portal",
-                        "pt": "escolher-entre-conta-padrao-conta-franquia-ou-seller-portal"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Shared information between a marketplace and a seller on VTEX",
-                        "es": "Información compartida entre el marketplace y el seller en VTEX",
-                        "pt": "Informações compartilhadas entre marketplace e seller na VTEX"
-                      },
-                      "slug": {
-                        "en": "shared-information-between-a-marketplace-and-a-seller-on-vtex",
-                        "es": "informacion-compartida-entre-el-marketplace-y-el-seller-en-vtex",
-                        "pt": "informacoes-compartilhadas-entre-marketplace-e-seller-na-vtex"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Comprehensive seller",
-                        "es": "Seller de extensa cobertura",
-                        "pt": "Seller abrangente"
-                      },
-                      "slug": {
-                        "en": "comprehensive-seller",
-                        "es": "seller-de-extensa-cobertura",
-                        "pt": "seller-abrangente"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": {
-                    "en": "SKU Bindings",
-                    "es": "Vínculos de SKU",
-                    "pt": "Vínculos de SKU"
-                  },
-                  "slug": {
-                    "en": "sku-bindings",
-                    "es": "vinculos-de-sku",
-                    "pt": "vinculos-de-sku"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": [
-                    {
-                      "name": {
-                        "en": "What is the difference between unbinding and removing a seller SKU?",
-                        "es": "¿Cuál es la diferencia entre desvincular y remover un SKU Seller?",
-                        "pt": "Qual é a diferença entre desvincular e remover um SKU do seller?"
-                      },
-                      "slug": {
-                        "en": "what-is-the-difference-between-unbinding-and-removing-seller-sku",
-                        "es": "cual-es-la-diferencia-entre-desvincular-y-remover-un-sku-seller",
-                        "pt": "qual-a-diferenca-entre-desvincular-e-remover-um-sku-seller"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": {
-                    "en": "Cataloging received SKUs",
-                    "es": "Catalogación de SKUs recibidos",
-                    "pt": "Catalogação de SKUs recebidos"
-                  },
-                  "slug": {
-                    "en": "manual-sku-cataloging",
-                    "es": "catalogacion-manual-de-skus",
-                    "pt": "sugerindo-e-aprovando-skus"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Integrations",
                 "es": "Integraciones",
                 "pt": "Integrações"
@@ -24543,6 +24042,1339 @@
                       ]
                     }
                   ]
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Integration Settings",
+                "es": "Configuración de las Integraciones",
+                "pt": "Configurações de integrações"
+              },
+              "slug": {
+                "en": "integration-settings-subcategory",
+                "es": "configuracion-de-las-integraciones-subcategoria",
+                "pt": "configurações-de-integrações-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Google integration warnings",
+                    "es": "Avisos de integración de Google",
+                    "pt": "Avisos de integração com o Google"
+                  },
+                  "slug": {
+                    "en": "google-integration-warnings",
+                    "es": "avisos-de-integracion-de-google",
+                    "pt": "avisos-de-integracao-com-o-google"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How the integration with Carrefour works",
+                    "es": "Cómo funciona la integración con Carrefour",
+                    "pt": "Como funciona a integração com o Carrefour"
+                  },
+                  "slug": {
+                    "en": "how-the-carrefour-integration-works",
+                    "es": "como-funciona-la-integracion-de-carrefour",
+                    "pt": "como-funciona-a-integracao-com-o-carrefour"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How does Netshoes integration work?",
+                    "es": "¿Cómo funciona la integración de Netshoes?",
+                    "pt": "Como funciona a integração da Netshoes?"
+                  },
+                  "slug": {
+                    "en": "como-funciona-a-integracao-da-netshoes",
+                    "es": "como-funciona-a-integracao-da-netshoes",
+                    "pt": "como-funciona-a-integracao-da-netshoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How the SkyHub/B2W integration works",
+                    "es": "Cómo funciona la integración de SkyHub/B2W",
+                    "pt": "Como funciona a integração da SkyHub/B2W"
+                  },
+                  "slug": {
+                    "en": "how-the-skyhub-integration-works",
+                    "es": "como-funciona-la-integracion-de-skyhub",
+                    "pt": "como-funciona-a-integracao-da-skyhub"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Configuring physical stores integration with B2W",
+                    "es": "Configurar la integración de tiendas físicas con B2W",
+                    "pt": "Configurar integração de lojas físicas com a B2W"
+                  },
+                  "slug": {
+                    "en": "configuring-physical-stores-integration-with-b2w",
+                    "es": "configurar-la-integracion-de-tiendas-fisicas-con-b2w",
+                    "pt": "configurar-integracao-de-lojas-fisicas-com-a-b2w"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Minimum stock control for integrations",
+                    "es": "Control de stock mínimo para integraciones",
+                    "pt": "Controle de estoque mínimo para integrações"
+                  },
+                  "slug": {
+                    "en": "minimum-stock-control-for-integrations",
+                    "es": "control-de-stock-minimo-para-integraciones",
+                    "pt": "controle-de-estoque-minimo-para-integracoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Marketplace strategies at VTEX",
+                    "es": "Estrategias de marketplace en VTEX",
+                    "pt": "Estratégias de marketplace na VTEX"
+                  },
+                  "slug": {
+                    "en": "marketplace-strategies-at-vtex",
+                    "es": "estrategias-de-marketplace-en-vtex",
+                    "pt": "estrategias-de-marketplace-na-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Fulfillment Magalu",
+                    "es": "Fulfillment Magalu",
+                    "pt": "Fulfillment Magalu"
+                  },
+                  "slug": {
+                    "en": "fulfillment-magalu",
+                    "es": "fulfillment-magalu",
+                    "pt": "fulfillment-magalu"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Importing Amazon DBA orders",
+                    "es": "Importación de pedidos de Amazon DBA",
+                    "pt": "Importação de Pedidos Amazon DBA"
+                  },
+                  "slug": {
+                    "en": "importing-amazon-dba-orders",
+                    "es": "importacion-de-pedidos-de-amazon-dba",
+                    "pt": "importacao-de-pedidos-amazon-dba"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Importing Amazon FBA Classic orders",
+                    "es": "Importación de pedidos de Amazon FBA Classic",
+                    "pt": "Importação de Pedidos Amazon FBA Classic"
+                  },
+                  "slug": {
+                    "en": "importing-amazon-classic-fba-orders",
+                    "es": "importacion-de-pedidos-classic-de-amazon-fba",
+                    "pt": "importacao-de-pedidos-amazon-fba-classic"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "AMARO Integration",
+                    "es": "Integración con AMARO",
+                    "pt": "Integração com a AMARO"
+                  },
+                  "slug": {
+                    "en": "amaro-integration",
+                    "es": "integracion-con-amaro",
+                    "pt": "integracao-com-a-amaro"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Integrating with Enjoei",
+                    "es": "Integración con Enjoei",
+                    "pt": "Integração com Enjoei"
+                  },
+                  "slug": {
+                    "en": "integrating-with-enjoei",
+                    "es": "integracion-con-enjoei",
+                    "pt": "integracao-com-enjoei"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Integrating with MadeiraMadeira",
+                    "es": "Integración con MadeiraMadeira",
+                    "pt": "Integração com MadeiraMadeira"
+                  },
+                  "slug": {
+                    "en": "integrating-with-madeiramadeira",
+                    "es": "integracion-con-madeiramadeira",
+                    "pt": "integracao-com-madeiramadeira"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Integrating with Renner and Camicado",
+                    "es": "Integración con Renner y Camicado",
+                    "pt": "Integração com Renner e Camicado"
+                  },
+                  "slug": {
+                    "en": "integrating-with-renner-and-camicado",
+                    "es": "integracion-con-renner-y-camicado",
+                    "pt": "integracao-com-renner-e-camicado"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Integrating with Riachuelo",
+                    "es": "Integración con Riachuelo",
+                    "pt": "Integração com Riachuelo"
+                  },
+                  "slug": {
+                    "en": "integrating-with-riachuelo",
+                    "es": "integracion-con-riachuelo",
+                    "pt": "integracao-com-riachuelo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Integrating with Zoom",
+                    "es": "Integración con Zoom",
+                    "pt": "Integração com Zoom"
+                  },
+                  "slug": {
+                    "en": "integrating-with-zoom",
+                    "es": "integrar-con-zoom",
+                    "pt": "integrando-com-zoom"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Shopping Feed Integration",
+                    "es": "Shopping Feed integración",
+                    "pt": "Integração Shopping Feed"
+                  },
+                  "slug": {
+                    "en": "shopping-feed-integration",
+                    "es": "shopping-feed-integracion",
+                    "pt": "integracao-shopping-feed"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How to integrate with Farmácias App",
+                    "es": "Integrar con Farmácias App",
+                    "pt": "Integrar com Farmácias App"
+                  },
+                  "slug": {
+                    "en": "integrating-with-farmacias-app",
+                    "es": "integrar-con-farmacias-app",
+                    "pt": "integrando-com-farmacias-app"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How to integrate with YOP",
+                    "es": "Integrar con YOP",
+                    "pt": "Integrar com YOP"
+                  },
+                  "slug": {
+                    "en": "integrating-with-yop",
+                    "es": "integrar-con-yop",
+                    "pt": "integrando-com-yop"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Marketplaces and Integrations",
+                    "es": "Marketplaces e integraciones",
+                    "pt": "Marketplaces e Integrações"
+                  },
+                  "slug": {
+                    "en": "marketplaces-and-integrations",
+                    "es": "marketplaces-e-integraciones",
+                    "pt": "marketplaces-e-integracoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Direct Migration Magazine Luiza",
+                    "es": "Migración Directa Magazine Luiza",
+                    "pt": "Migração Direta Magazine Luiza"
+                  },
+                  "slug": {
+                    "en": "direct-migration-magazine-luiza",
+                    "es": "migracion-directa-magazine-luiza",
+                    "pt": "migracao-direta-magazine-luiza"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "FBA order invoices",
+                    "es": "Facturas de pedidos FBA",
+                    "pt": "Notas Fiscais de pedidos FBA"
+                  },
+                  "slug": {
+                    "en": "fba-order-invoices",
+                    "es": "facturas-de-pedidos-fba",
+                    "pt": "notas-fiscais-de-pedidos-fba"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Amazon Product Publishing",
+                    "es": "Publicacíon de Productos Amazon",
+                    "pt": "Publicação de produtos Amazon"
+                  },
+                  "slug": {
+                    "en": "amazon-product-publishing",
+                    "es": "publicacion-de-productos-amazon",
+                    "pt": "publicacao-de-produtos-amazon"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Google Shopping regionalization",
+                    "es": "Regionalización de Google Shopping",
+                    "pt": "Regionalização do Google Shopping"
+                  },
+                  "slug": {
+                    "en": "google-shopping-regionalization",
+                    "es": "regionalizacion-de-google-shopping",
+                    "pt": "regionalizacao-do-google-shopping"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Price suggestion in Amazon integration",
+                    "es": "Sugerencia de precios en la integración con Amazon",
+                    "pt": "Sugestão de preços na integração com a Amazon"
+                  },
+                  "slug": {
+                    "en": "amazon-price-suggestion",
+                    "es": "sugerencia-de-precios-amazon",
+                    "pt": "sugestao-de-precos-amazon"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Inventory",
+                "es": "Valores",
+                "pt": "Estoque"
+              },
+              "slug": {
+                "en": "inventory-subcategory",
+                "es": "valores-subcategoria",
+                "pt": "estoque-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "How the minimum availability rule works",
+                    "es": "Cómo funciona la regla de disponibilidad mínima",
+                    "pt": "Como funciona a regra de disponibilidade mínima"
+                  },
+                  "slug": {
+                    "en": "understanding-the-minimum-availability-rule",
+                    "es": "como-funciona-la-regla-de-disponibilidad-minima",
+                    "pt": "entendendo-a-regra-de-disponibilidade-minima"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How to manage stock in the marketplace",
+                    "es": "¿Cómo gestionar stock en el marketplace?",
+                    "pt": "Como gerenciar estoque no marketplace?"
+                  },
+                  "slug": {
+                    "en": "how-to-manage-stock-in-the-marketplace",
+                    "es": "como-gestionar-stock-en-el-marketplace",
+                    "pt": "como-gerenciar-estoque-no-marketplace"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Customized inventory in the marketplace",
+                    "es": "Inventario personalizado en el marketplace",
+                    "pt": "Estoque personalizado no marketplace"
+                  },
+                  "slug": {
+                    "en": "can-i-use-a-customized-stock-in-the-marketplace",
+                    "es": "puedo-usar-un-stock-personalizado-en-el-marketplace",
+                    "pt": "posso-usar-estoque-personalizado-no-marketplace"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Offer management",
+                "es": "Gestión de anuncios",
+                "pt": "Gerenciamento de anúncios"
+              },
+              "slug": {
+                "en": "offer-management-subcategory",
+                "es": "gestion-de-anuncios-subcategoria",
+                "pt": "gerenciamento-de-anúncios-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Offer Quality Filters",
+                    "es": "Filtros de calidad de anuncios",
+                    "pt": "Filtros de qualidade dos anúncios"
+                  },
+                  "slug": {
+                    "en": "offer-quality-filters",
+                    "es": "calidad-de-anuncios",
+                    "pt": "filtros-de-qualidade-dos-anuncios"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Offer Status",
+                    "es": "Status de los anuncios",
+                    "pt": "Status dos anúncios"
+                  },
+                  "slug": {
+                    "en": "offer-status",
+                    "es": "status-de-los-anuncios",
+                    "pt": "status-dos-anuncios"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Integrations - Overview",
+                "es": "Visión de conjunto de Integraciones",
+                "pt": "Integrações - Visão geral"
+              },
+              "slug": {
+                "en": "integrations-overview-subcategory",
+                "es": "vision-de-conjunto-de-integraciones-subcategoria",
+                "pt": "visão-geral-de-integrações-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "What is a marketplace?",
+                    "es": "¿Qué es un marketplace?",
+                    "pt": "O que é um marketplace?"
+                  },
+                  "slug": {
+                    "en": "what-is-a-marketplace",
+                    "es": "que-es-un-marketplace",
+                    "pt": "o-que-e-um-marketplace"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Find Sellers",
+                    "es": "Encontrar sellers",
+                    "pt": "Encontrar Sellers"
+                  },
+                  "slug": {
+                    "en": "find-sellers",
+                    "es": "encontrar-sellers",
+                    "pt": "encontrar-sellers"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Facebook: FAQ",
+                    "es": "Facebook: preguntas frecuentes",
+                    "pt": "Facebook: FAQ"
+                  },
+                  "slug": {
+                    "en": "facebook-faq",
+                    "es": "facebook-preguntas-frecuentes",
+                    "pt": "facebook-faq"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Integration Guide - Consuming catalog information for use in an External Service",
+                    "es": "Guía de Integración - Consumir información del catálogo para utilizar en un Servicio Externo",
+                    "pt": "Guia de Integração - Consumir as informações do catálogo para utilizar em um Serviço Externo"
+                  },
+                  "slug": {
+                    "en": "integration-guide-consuming-catalog-information-for-use-in-an-external-service",
+                    "es": "guia-de-integracion-consumir-informacion-del-catalogo-para-utilizar-en-un-servicio-externo",
+                    "pt": "guia-de-integracao-consumir-as-informacoes-do-catalogo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Integration Guide for non-VTEX platform-hosted Marketplaces",
+                    "es": "Guía de integración para Marketplace no alojada en la plataforma VTEX",
+                    "pt": "Guia de integração para Marketplace não hospedado na plataforma VTEX"
+                  },
+                  "slug": {
+                    "en": "integration-guide-for-marketplaces-marketplace-non-vtex",
+                    "es": "guia-de-integracion-para-marketplaces-marketplace-non-vtex",
+                    "pt": "guia-de-integracao-para-marketplaces-marketplace-nao-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Integration guide for marketplaces",
+                    "es": "Guía de integración para marketplaces",
+                    "pt": "Guia de integração para marketplaces"
+                  },
+                  "slug": {
+                    "en": "integration-guide-for-marketplaces",
+                    "es": "guia-de-integracion-para-marketplaces",
+                    "pt": "guia-de-integracao-para-marketplaces"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "KaBuM! Integration",
+                    "es": "Integración de KaBuM!",
+                    "pt": "Integração com o KaBuM!"
+                  },
+                  "slug": {
+                    "en": "kabum-integration",
+                    "es": "integracion-de-kabum",
+                    "pt": "integracao-com-o-kabum"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Store Profile",
+                    "es": "Perfil de la tienda",
+                    "pt": "Perfil da Loja"
+                  },
+                  "slug": {
+                    "en": "store-profile",
+                    "es": "perfil-de-la-tienda",
+                    "pt": "perfil-da-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Integration status",
+                    "es": "Status de integraciones",
+                    "pt": "Status de integrações"
+                  },
+                  "slug": {
+                    "en": "checking-integrations-in-bridge",
+                    "es": "como-verificar-la-integracion-en-bridge",
+                    "pt": "verificando-integracao-no-bridge"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Become a certified connector (partner)",
+                    "es": "Convertirse en un conector certificado (partner)",
+                    "pt": "Tornar-se um conector certificado (parceiro)"
+                  },
+                  "slug": {
+                    "en": "become-a-certified-connector-partner",
+                    "es": "convertirse-en-un-conector-certificado-partner",
+                    "pt": "tornar-se-um-conector-certificado-parceiro"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Orders",
+                "es": "Pedidos",
+                "pt": "Pedidos"
+              },
+              "slug": {
+                "en": "orders-subcategory",
+                "es": "pedidos-subcategoria",
+                "pt": "pedidos-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Change Seller",
+                    "es": "Change Seller",
+                    "pt": "Change Seller"
+                  },
+                  "slug": {
+                    "en": "change-seller",
+                    "es": "change-seller",
+                    "pt": "change-seller"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How shipping works when delivery is done by the marketplace (FOB)",
+                    "es": "Cómo funciona el flete cuando la entrega es hecha por el marketplace (FOB)",
+                    "pt": "Como funciona o frete quando a entrega é feita pelo marketplace (FOB)"
+                  },
+                  "slug": {
+                    "en": "how-shipping-works-when-delivery-is-done-by-the-marketplace",
+                    "es": "como-funciona-el-flete-cuando-la-entrega-es-hecha-por-el-marketplace",
+                    "pt": "como-funciona-o-frete-quando-o-marketplace-faz-a-entrega"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Price",
+                "es": "Precio",
+                "pt": "Preço"
+              },
+              "slug": {
+                "en": "price-subcategory",
+                "es": "precio-subcategoria",
+                "pt": "preço-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Configuring a pay-in-full discount",
+                    "es": "Configurar descuento de precio al contado",
+                    "pt": "Configurar desconto de preço à vista"
+                  },
+                  "slug": {
+                    "en": "configuring-a-pay-in-full-discount",
+                    "es": "configurar-descuento-de-precio-al-contado",
+                    "pt": "configurar-desconto-de-preco-a-vista"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Configuring discounts for orders paid in full on Google Shopping",
+                    "es": "Configurar descuento de precio al contado para Google Shopping",
+                    "pt": "Configurar desconto de preço à vista para Google Shopping"
+                  },
+                  "slug": {
+                    "en": "configuring-discounts-for-orders-prepaid-in-full-on-google-shopping",
+                    "es": "configurar-descuento-de-precio-al-contado-para-google-shopping",
+                    "pt": "configurar-desconto-de-preco-a-vista-para-google-shopping"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Prices",
+                    "es": "Precios",
+                    "pt": "Preços"
+                  },
+                  "slug": {
+                    "en": "prices",
+                    "es": "precios",
+                    "pt": "precos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Products",
+                "es": "Productos",
+                "pt": "Produtos"
+              },
+              "slug": {
+                "en": "products-subcategory",
+                "es": "productos-subcategoria",
+                "pt": "produtos-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Sending products to the marketplace",
+                    "es": "Enviar productos para marketplace",
+                    "pt": "Enviar produtos para o marketplace"
+                  },
+                  "slug": {
+                    "en": "sending-products-to-the-marketplace",
+                    "es": "catalogacion-de-productos-para-marketplace",
+                    "pt": "entendendo-a-catalogacao-de-produtos-para-o-marketplace"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Products errors in the Amazon integration",
+                    "es": "Errores de integración de productos de Amazon",
+                    "pt": "Erros de integração de produtos com a Amazon"
+                  },
+                  "slug": {
+                    "en": "products-errors-in-the-amazon-integration",
+                    "es": "errores-de-integracion-de-productos-de-amazon",
+                    "pt": "erros-de-integracao-de-produtos-com-a-amazon"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Received SKUs",
+                    "es": "SKUs recebidos",
+                    "pt": "SKUs recebidos"
+                  },
+                  "slug": {
+                    "en": "received-skus-beta",
+                    "es": "skus-recebidos-beta",
+                    "pt": "skus-recebidos-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Sellers",
+                "es": "Sellers",
+                "pt": "Sellers"
+              },
+              "slug": {
+                "en": "sellers-category",
+                "es": "sellers-categoria",
+                "pt": "sellers-categoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Categories and brands",
+                    "es": "Categorías y marcas",
+                    "pt": "Categorias e marcas"
+                  },
+                  "slug": {
+                    "en": "categories-and-brands-subcategory",
+                    "es": "categorias-y-marcas-subcategoria",
+                    "pt": "categorias-e-marcas-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Mapping categories and brands for the marketplace (Beta)",
+                        "es": "Mapeo de categorías y marcas para marketplace (Beta)",
+                        "pt": "Mapeamento de categorias e marcas para marketplace VTEX (Beta)"
+                      },
+                      "slug": {
+                        "en": "mapping-categories-and-brands-for-the-marketplace-beta",
+                        "es": "mapeo-de-categorias-y-marcas-para-marketplace-beta",
+                        "pt": "mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Mapping categories, brands and specifications for the marketplace",
+                        "es": "Mapeo de categorías, marcas y especificaciones para marketplace",
+                        "pt": "Mapeamento de categorias, marcas e especificações para marketplace"
+                      },
+                      "slug": {
+                        "en": "mapping-categories-and-brands-for-the-marketplace",
+                        "es": "mapeo-de-categorias-y-marcas-para-marketplace",
+                        "pt": "mapeando-categorias-e-marcas-para-marketplace"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "Seller Management",
+                    "es": "Gestión de Sellers",
+                    "pt": "Gerenciamento de Sellers"
+                  },
+                  "slug": {
+                    "en": "seller-management",
+                    "es": "gestion-de-sellers",
+                    "pt": "gerenciamento-de-sellers"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Adding a seller",
+                        "es": "Agregar seller",
+                        "pt": "Adicionar seller"
+                      },
+                      "slug": {
+                        "en": "adding-a-seller",
+                        "es": "agregar-seller",
+                        "pt": "adicionar-seller"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring a marketplace between VTEX stores",
+                        "es": "Configurando marketplace entre tiendas VTEX",
+                        "pt": "Configurando marketplace entre lojas VTEX"
+                      },
+                      "slug": {
+                        "en": "configuring-the-marketplace-between-vtex-stores",
+                        "es": "configurando-marketplace-entre-tiendas-vtex",
+                        "pt": "configurando-marketplace-entre-lojas-vtex"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "Seller Portal",
+                    "es": "Seller Portal",
+                    "pt": "Seller Portal"
+                  },
+                  "slug": {
+                    "en": "seller-portal-subcategory",
+                    "es": "seller-portal-subcategoria",
+                    "pt": "seller-portal-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Marketplace: Seller Invite",
+                        "es": "Marketplace: Invitación de Sellers",
+                        "pt": "Marketplace: Convite de Sellers"
+                      },
+                      "slug": {
+                        "en": "marketplace-invited-sellers",
+                        "es": "marketplace-sellers-invitados",
+                        "pt": "marketplace-convite-de-sellers"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Seller Portal: Offers and Sending Products to the Marketplace",
+                        "es": "Seller Portal: Anuncios y Envío de Productos al Marketplace",
+                        "pt": "Seller Portal: Anúncios e o Envio de Produtos para o Marketplace"
+                      },
+                      "slug": {
+                        "en": "offers-and-sending-products-to-the-marketplace",
+                        "es": "anuncios-y-envio-de-productos-al-marketplace",
+                        "pt": "seller-portal-anuncios-e-o-envio-de-produtos-para-o-marketplace"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Seller Portal: Categories",
+                        "es": "Seller Portal: Categorías",
+                        "pt": "Seller Portal: Categorias"
+                      },
+                      "slug": {
+                        "en": "seller-portal-categories",
+                        "es": "seller-portal-categorias",
+                        "pt": "seller-portal-categorias"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Seller Portal: How to create a product",
+                        "es": "Seller Portal: Cómo crear un producto",
+                        "pt": "Seller Portal: Como criar um produto"
+                      },
+                      "slug": {
+                        "en": "how-to-create-a-product",
+                        "es": "como-crear-un-producto",
+                        "pt": "como-criar-um-produto"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Seller Portal: How Catalog works",
+                        "es": "Seller Portal: Cómo funciona el Catálogo",
+                        "pt": "Seller Portal: Como Funciona o Catálogo"
+                      },
+                      "slug": {
+                        "en": "how-the-seller-portal-catalog-works",
+                        "es": "como-funciona-el-catalogo-del-seller-portal",
+                        "pt": "seller-portal-como-funciona-o-catalogo"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Seller Portal: Creating a promotion",
+                        "es": "Seller portal: crear una promoción",
+                        "pt": "Seller Portal: Criar uma promoção"
+                      },
+                      "slug": {
+                        "en": "seller-portal-creating-a-promotion",
+                        "es": "seller-portal-crear-una-promocion",
+                        "pt": "seller-portal-criar-uma-promocao"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Seller Portal: Product details",
+                        "es": "Seller Portal: Detalles del producto",
+                        "pt": "Seller Portal: Detalhes do produto"
+                      },
+                      "slug": {
+                        "en": "seller-portal-product-details",
+                        "es": "seller-portal-detalles-del-producto",
+                        "pt": "seller-portal-detalhes-do-produto"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Seller Portal: Brands",
+                        "es": "Seller Portal: Marcas",
+                        "pt": "Seller Portal: Marcas"
+                      },
+                      "slug": {
+                        "en": "seller-portal-brands",
+                        "es": "seller-portal-marcas",
+                        "pt": "seller-portal-marcas"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Seller Portal: First Steps for the Seller",
+                        "es": "Seller Portal: primeros pasos del seller",
+                        "pt": "Seller Portal: Primeiros Passos do seller"
+                      },
+                      "slug": {
+                        "en": "how-to-set-up-your-store-on-seller-portal",
+                        "es": "como-configurar-su-tienda-en-seller-portal",
+                        "pt": "seller-portal-primeiros-passos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Seller Portal: Getting started for the marketplace",
+                        "es": "Seller Portal: Primeros pasos para el marketplace",
+                        "pt": "Seller Portal: Primeiros passos para o marketplace"
+                      },
+                      "slug": {
+                        "en": "seller-portal-getting-started-for-the-marketplace",
+                        "es": "seller-portal-primeros-pasos-para-el-marketplace",
+                        "pt": "seller-portal-primeiros-passos-para-o-marketplace"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Seller Portal: Products",
+                        "es": "Seller Portal: Productos",
+                        "pt": "Seller Portal: Produtos"
+                      },
+                      "slug": {
+                        "en": "product-list",
+                        "es": "lista-de-productos",
+                        "pt": "lista-de-produtos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Seller Portal: Shared Products",
+                        "es": "Seller Portal: Productos Compartidos",
+                        "pt": "Seller Portal: Produtos Compartilhados"
+                      },
+                      "slug": {
+                        "en": "seller-portal-shared-products",
+                        "es": "seller-portal-productos-compartidos",
+                        "pt": "seller-portal-produtos-compartilhados"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "​​Seller Portal: Promotions",
+                        "es": "Seller Portal: Promociones",
+                        "pt": "Seller Portal: Promoções"
+                      },
+                      "slug": {
+                        "en": "seller-portal-promotions",
+                        "es": "seller-portal-promociones",
+                        "pt": "seller-portal-promocoes"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Seller: creating an account in the Seller Portal",
+                        "es": "Sellers: crear una cuenta en el Seller Portal",
+                        "pt": "Seller: criar conta no Seller Portal"
+                      },
+                      "slug": {
+                        "en": "seller-creating-an-account-in-the-seller-portal",
+                        "es": "sellers-crear-una-cuenta-en-el-seller-portal",
+                        "pt": "seller-criar-conta-no-seller-portal"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "Sellers",
+                    "es": "Sellers",
+                    "pt": "Sellers"
+                  },
+                  "slug": {
+                    "en": "what-is-a-seller",
+                    "es": "que-es-un-seller",
+                    "pt": "o-que-e-um-seller"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Actions for a VTEX marketplace operation",
+                        "es": "Acciones para la operación de marketplaces VTEX",
+                        "pt": "Ações para a operação de marketplaces VTEX"
+                      },
+                      "slug": {
+                        "en": "actions-for-vtex-marketplace-operation",
+                        "es": "acciones-para-la-operacion-de-marketplaces-vtex",
+                        "pt": "acoes-para-a-operacao-de-marketplaces-vtex"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Offers sent from the same VTEX sellers and marketplaces",
+                        "es": "Anuncios enviados entre los mismos sellers y marketplaces VTEX",
+                        "pt": "Anúncios enviados entre os mesmos sellers e marketplaces VTEX"
+                      },
+                      "slug": {
+                        "en": "offers-sent-from-the-same-vtex-sellers-and-marketplaces",
+                        "es": "anuncios-enviados-entre-los-mismos-sellers-y-marketplaces-vtex",
+                        "pt": "anuncios-enviados-entre-os-mesmos-sellers-e-marketplaces-vtex"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring a VTEX marketplace",
+                        "es": "Configurar marketplaces VTEX",
+                        "pt": "Configurar marketplace VTEX"
+                      },
+                      "slug": {
+                        "en": "configuring-vtex-marketplace",
+                        "es": "configurar-marketplaces-vtex",
+                        "pt": "configurar-marketplace-vtex"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring a seller on VTEX marketplace",
+                        "es": "Cómo configurar el seller para vender en un marketplace VTEX",
+                        "pt": "Configurar seller para vender em marketplace VTEX"
+                      },
+                      "slug": {
+                        "en": "configuring-a-seller-on-vtex-marketplace",
+                        "es": "como-configurar-el-seller-para-vender-en-un-marketplace-vtex",
+                        "pt": "configurar-seller-para-vender-em-marketplace-vtex"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Choosing between standard account, franchise account or Seller Portal",
+                        "es": "Elegir entre cuenta estándar, cuenta franquicia o Seller Portal",
+                        "pt": "Escolher entre conta padrão, conta franquia ou Seller Portal"
+                      },
+                      "slug": {
+                        "en": "choosing-between-standard-account-franchise-account-or-seller-portal",
+                        "es": "elegir-entre-cuenta-estandar-cuenta-franquicia-o-seller-portal",
+                        "pt": "escolher-entre-conta-padrao-conta-franquia-ou-seller-portal"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Shared information between a marketplace and a seller on VTEX",
+                        "es": "Información compartida entre el marketplace y el seller en VTEX",
+                        "pt": "Informações compartilhadas entre marketplace e seller na VTEX"
+                      },
+                      "slug": {
+                        "en": "shared-information-between-a-marketplace-and-a-seller-on-vtex",
+                        "es": "informacion-compartida-entre-el-marketplace-y-el-seller-en-vtex",
+                        "pt": "informacoes-compartilhadas-entre-marketplace-e-seller-na-vtex"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Comprehensive seller",
+                        "es": "Seller de extensa cobertura",
+                        "pt": "Seller abrangente"
+                      },
+                      "slug": {
+                        "en": "comprehensive-seller",
+                        "es": "seller-de-extensa-cobertura",
+                        "pt": "seller-abrangente"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "SKU Bindings",
+                    "es": "Vínculos de SKU",
+                    "pt": "Vínculos de SKU"
+                  },
+                  "slug": {
+                    "en": "sku-bindings",
+                    "es": "vinculos-de-sku",
+                    "pt": "vinculos-de-sku"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "What is the difference between unbinding and removing a seller SKU?",
+                        "es": "¿Cuál es la diferencia entre desvincular y remover un SKU Seller?",
+                        "pt": "Qual é a diferença entre desvincular e remover um SKU do seller?"
+                      },
+                      "slug": {
+                        "en": "what-is-the-difference-between-unbinding-and-removing-seller-sku",
+                        "es": "cual-es-la-diferencia-entre-desvincular-y-remover-un-sku-seller",
+                        "pt": "qual-a-diferenca-entre-desvincular-e-remover-um-sku-seller"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "Cataloging received SKUs",
+                    "es": "Catalogación de SKUs recibidos",
+                    "pt": "Catalogação de SKUs recebidos"
+                  },
+                  "slug": {
+                    "en": "manual-sku-cataloging",
+                    "es": "catalogacion-manual-de-skus",
+                    "pt": "sugerindo-e-aprovando-skus"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -32467,854 +33299,6 @@
               "origin": "",
               "type": "markdown",
               "children": []
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "Integrations",
-            "es": "Integraciones",
-            "pt": "Integrações"
-          },
-          "slug": {
-            "en": "integrations-category",
-            "es": "integraciones-categoria",
-            "pt": "integrações-categoria"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Integration Settings",
-                "es": "Configuración de las Integraciones",
-                "pt": "Configurações de integrações"
-              },
-              "slug": {
-                "en": "integration-settings-subcategory",
-                "es": "configuracion-de-las-integraciones-subcategoria",
-                "pt": "configurações-de-integrações-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Google integration warnings",
-                    "es": "Avisos de integración de Google",
-                    "pt": "Avisos de integração com o Google"
-                  },
-                  "slug": {
-                    "en": "google-integration-warnings",
-                    "es": "avisos-de-integracion-de-google",
-                    "pt": "avisos-de-integracao-com-o-google"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How the integration with Carrefour works",
-                    "es": "Cómo funciona la integración con Carrefour",
-                    "pt": "Como funciona a integração com o Carrefour"
-                  },
-                  "slug": {
-                    "en": "how-the-carrefour-integration-works",
-                    "es": "como-funciona-la-integracion-de-carrefour",
-                    "pt": "como-funciona-a-integracao-com-o-carrefour"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How does Netshoes integration work?",
-                    "es": "¿Cómo funciona la integración de Netshoes?",
-                    "pt": "Como funciona a integração da Netshoes?"
-                  },
-                  "slug": {
-                    "en": "como-funciona-a-integracao-da-netshoes",
-                    "es": "como-funciona-a-integracao-da-netshoes",
-                    "pt": "como-funciona-a-integracao-da-netshoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How the SkyHub/B2W integration works",
-                    "es": "Cómo funciona la integración de SkyHub/B2W",
-                    "pt": "Como funciona a integração da SkyHub/B2W"
-                  },
-                  "slug": {
-                    "en": "how-the-skyhub-integration-works",
-                    "es": "como-funciona-la-integracion-de-skyhub",
-                    "pt": "como-funciona-a-integracao-da-skyhub"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring physical stores integration with B2W",
-                    "es": "Configurar la integración de tiendas físicas con B2W",
-                    "pt": "Configurar integração de lojas físicas com a B2W"
-                  },
-                  "slug": {
-                    "en": "configuring-physical-stores-integration-with-b2w",
-                    "es": "configurar-la-integracion-de-tiendas-fisicas-con-b2w",
-                    "pt": "configurar-integracao-de-lojas-fisicas-com-a-b2w"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Minimum stock control for integrations",
-                    "es": "Control de stock mínimo para integraciones",
-                    "pt": "Controle de estoque mínimo para integrações"
-                  },
-                  "slug": {
-                    "en": "minimum-stock-control-for-integrations",
-                    "es": "control-de-stock-minimo-para-integraciones",
-                    "pt": "controle-de-estoque-minimo-para-integracoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Marketplace strategies at VTEX",
-                    "es": "Estrategias de marketplace en VTEX",
-                    "pt": "Estratégias de marketplace na VTEX"
-                  },
-                  "slug": {
-                    "en": "marketplace-strategies-at-vtex",
-                    "es": "estrategias-de-marketplace-en-vtex",
-                    "pt": "estrategias-de-marketplace-na-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Fulfillment Magalu",
-                    "es": "Fulfillment Magalu",
-                    "pt": "Fulfillment Magalu"
-                  },
-                  "slug": {
-                    "en": "fulfillment-magalu",
-                    "es": "fulfillment-magalu",
-                    "pt": "fulfillment-magalu"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Importing Amazon DBA orders",
-                    "es": "Importación de pedidos de Amazon DBA",
-                    "pt": "Importação de Pedidos Amazon DBA"
-                  },
-                  "slug": {
-                    "en": "importing-amazon-dba-orders",
-                    "es": "importacion-de-pedidos-de-amazon-dba",
-                    "pt": "importacao-de-pedidos-amazon-dba"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Importing Amazon FBA Classic orders",
-                    "es": "Importación de pedidos de Amazon FBA Classic",
-                    "pt": "Importação de Pedidos Amazon FBA Classic"
-                  },
-                  "slug": {
-                    "en": "importing-amazon-classic-fba-orders",
-                    "es": "importacion-de-pedidos-classic-de-amazon-fba",
-                    "pt": "importacao-de-pedidos-amazon-fba-classic"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "AMARO Integration",
-                    "es": "Integración con AMARO",
-                    "pt": "Integração com a AMARO"
-                  },
-                  "slug": {
-                    "en": "amaro-integration",
-                    "es": "integracion-con-amaro",
-                    "pt": "integracao-com-a-amaro"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Integrating with Enjoei",
-                    "es": "Integración con Enjoei",
-                    "pt": "Integração com Enjoei"
-                  },
-                  "slug": {
-                    "en": "integrating-with-enjoei",
-                    "es": "integracion-con-enjoei",
-                    "pt": "integracao-com-enjoei"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Integrating with MadeiraMadeira",
-                    "es": "Integración con MadeiraMadeira",
-                    "pt": "Integração com MadeiraMadeira"
-                  },
-                  "slug": {
-                    "en": "integrating-with-madeiramadeira",
-                    "es": "integracion-con-madeiramadeira",
-                    "pt": "integracao-com-madeiramadeira"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Integrating with Renner and Camicado",
-                    "es": "Integración con Renner y Camicado",
-                    "pt": "Integração com Renner e Camicado"
-                  },
-                  "slug": {
-                    "en": "integrating-with-renner-and-camicado",
-                    "es": "integracion-con-renner-y-camicado",
-                    "pt": "integracao-com-renner-e-camicado"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Integrating with Riachuelo",
-                    "es": "Integración con Riachuelo",
-                    "pt": "Integração com Riachuelo"
-                  },
-                  "slug": {
-                    "en": "integrating-with-riachuelo",
-                    "es": "integracion-con-riachuelo",
-                    "pt": "integracao-com-riachuelo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Integrating with Zoom",
-                    "es": "Integración con Zoom",
-                    "pt": "Integração com Zoom"
-                  },
-                  "slug": {
-                    "en": "integrating-with-zoom",
-                    "es": "integrar-con-zoom",
-                    "pt": "integrando-com-zoom"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Shopping Feed Integration",
-                    "es": "Shopping Feed integración",
-                    "pt": "Integração Shopping Feed"
-                  },
-                  "slug": {
-                    "en": "shopping-feed-integration",
-                    "es": "shopping-feed-integracion",
-                    "pt": "integracao-shopping-feed"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to integrate with Farmácias App",
-                    "es": "Integrar con Farmácias App",
-                    "pt": "Integrar com Farmácias App"
-                  },
-                  "slug": {
-                    "en": "integrating-with-farmacias-app",
-                    "es": "integrar-con-farmacias-app",
-                    "pt": "integrando-com-farmacias-app"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to integrate with YOP",
-                    "es": "Integrar con YOP",
-                    "pt": "Integrar com YOP"
-                  },
-                  "slug": {
-                    "en": "integrating-with-yop",
-                    "es": "integrar-con-yop",
-                    "pt": "integrando-com-yop"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Marketplaces and Integrations",
-                    "es": "Marketplaces e integraciones",
-                    "pt": "Marketplaces e Integrações"
-                  },
-                  "slug": {
-                    "en": "marketplaces-and-integrations",
-                    "es": "marketplaces-e-integraciones",
-                    "pt": "marketplaces-e-integracoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Direct Migration Magazine Luiza",
-                    "es": "Migración Directa Magazine Luiza",
-                    "pt": "Migração Direta Magazine Luiza"
-                  },
-                  "slug": {
-                    "en": "direct-migration-magazine-luiza",
-                    "es": "migracion-directa-magazine-luiza",
-                    "pt": "migracao-direta-magazine-luiza"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "FBA order invoices",
-                    "es": "Facturas de pedidos FBA",
-                    "pt": "Notas Fiscais de pedidos FBA"
-                  },
-                  "slug": {
-                    "en": "fba-order-invoices",
-                    "es": "facturas-de-pedidos-fba",
-                    "pt": "notas-fiscais-de-pedidos-fba"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Amazon Product Publishing",
-                    "es": "Publicacíon de Productos Amazon",
-                    "pt": "Publicação de produtos Amazon"
-                  },
-                  "slug": {
-                    "en": "amazon-product-publishing",
-                    "es": "publicacion-de-productos-amazon",
-                    "pt": "publicacao-de-produtos-amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Google Shopping regionalization",
-                    "es": "Regionalización de Google Shopping",
-                    "pt": "Regionalização do Google Shopping"
-                  },
-                  "slug": {
-                    "en": "google-shopping-regionalization",
-                    "es": "regionalizacion-de-google-shopping",
-                    "pt": "regionalizacao-do-google-shopping"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Price suggestion in Amazon integration",
-                    "es": "Sugerencia de precios en la integración con Amazon",
-                    "pt": "Sugestão de preços na integração com a Amazon"
-                  },
-                  "slug": {
-                    "en": "amazon-price-suggestion",
-                    "es": "sugerencia-de-precios-amazon",
-                    "pt": "sugestao-de-precos-amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Integrations - Overview",
-                "es": "Visión de conjunto de Integraciones",
-                "pt": "Integrações - Visão geral"
-              },
-              "slug": {
-                "en": "integrations-overview-subcategory",
-                "es": "vision-de-conjunto-de-integraciones-subcategoria",
-                "pt": "visão-geral-de-integrações-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "What is a marketplace?",
-                    "es": "¿Qué es un marketplace?",
-                    "pt": "O que é um marketplace?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-marketplace",
-                    "es": "que-es-un-marketplace",
-                    "pt": "o-que-e-um-marketplace"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Find Sellers",
-                    "es": "Encontrar sellers",
-                    "pt": "Encontrar Sellers"
-                  },
-                  "slug": {
-                    "en": "find-sellers",
-                    "es": "encontrar-sellers",
-                    "pt": "encontrar-sellers"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Facebook: FAQ",
-                    "es": "Facebook: preguntas frecuentes",
-                    "pt": "Facebook: FAQ"
-                  },
-                  "slug": {
-                    "en": "facebook-faq",
-                    "es": "facebook-preguntas-frecuentes",
-                    "pt": "facebook-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Integration Guide - Consuming catalog information for use in an External Service",
-                    "es": "Guía de Integración - Consumir información del catálogo para utilizar en un Servicio Externo",
-                    "pt": "Guia de Integração - Consumir as informações do catálogo para utilizar em um Serviço Externo"
-                  },
-                  "slug": {
-                    "en": "integration-guide-consuming-catalog-information-for-use-in-an-external-service",
-                    "es": "guia-de-integracion-consumir-informacion-del-catalogo-para-utilizar-en-un-servicio-externo",
-                    "pt": "guia-de-integracao-consumir-as-informacoes-do-catalogo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Integration Guide for non-VTEX platform-hosted Marketplaces",
-                    "es": "Guía de integración para Marketplace no alojada en la plataforma VTEX",
-                    "pt": "Guia de integração para Marketplace não hospedado na plataforma VTEX"
-                  },
-                  "slug": {
-                    "en": "integration-guide-for-marketplaces-marketplace-non-vtex",
-                    "es": "guia-de-integracion-para-marketplaces-marketplace-non-vtex",
-                    "pt": "guia-de-integracao-para-marketplaces-marketplace-nao-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Integration guide for marketplaces",
-                    "es": "Guía de integración para marketplaces",
-                    "pt": "Guia de integração para marketplaces"
-                  },
-                  "slug": {
-                    "en": "integration-guide-for-marketplaces",
-                    "es": "guia-de-integracion-para-marketplaces",
-                    "pt": "guia-de-integracao-para-marketplaces"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "KaBuM! Integration",
-                    "es": "Integración de KaBuM!",
-                    "pt": "Integração com o KaBuM!"
-                  },
-                  "slug": {
-                    "en": "kabum-integration",
-                    "es": "integracion-de-kabum",
-                    "pt": "integracao-com-o-kabum"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Store Profile",
-                    "es": "Perfil de la tienda",
-                    "pt": "Perfil da Loja"
-                  },
-                  "slug": {
-                    "en": "store-profile",
-                    "es": "perfil-de-la-tienda",
-                    "pt": "perfil-da-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Integration status",
-                    "es": "Status de integraciones",
-                    "pt": "Status de integrações"
-                  },
-                  "slug": {
-                    "en": "checking-integrations-in-bridge",
-                    "es": "como-verificar-la-integracion-en-bridge",
-                    "pt": "verificando-integracao-no-bridge"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Become a certified connector (partner)",
-                    "es": "Convertirse en un conector certificado (partner)",
-                    "pt": "Tornar-se um conector certificado (parceiro)"
-                  },
-                  "slug": {
-                    "en": "become-a-certified-connector-partner",
-                    "es": "convertirse-en-un-conector-certificado-partner",
-                    "pt": "tornar-se-um-conector-certificado-parceiro"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Inventory",
-                "es": "Valores",
-                "pt": "Estoque"
-              },
-              "slug": {
-                "en": "inventory-subcategory",
-                "es": "valores-subcategoria",
-                "pt": "estoque-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "How the minimum availability rule works",
-                    "es": "Cómo funciona la regla de disponibilidad mínima",
-                    "pt": "Como funciona a regra de disponibilidade mínima"
-                  },
-                  "slug": {
-                    "en": "understanding-the-minimum-availability-rule",
-                    "es": "como-funciona-la-regla-de-disponibilidad-minima",
-                    "pt": "entendendo-a-regra-de-disponibilidade-minima"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to manage stock in the marketplace",
-                    "es": "¿Cómo gestionar stock en el marketplace?",
-                    "pt": "Como gerenciar estoque no marketplace?"
-                  },
-                  "slug": {
-                    "en": "how-to-manage-stock-in-the-marketplace",
-                    "es": "como-gestionar-stock-en-el-marketplace",
-                    "pt": "como-gerenciar-estoque-no-marketplace"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Customized inventory in the marketplace",
-                    "es": "Inventario personalizado en el marketplace",
-                    "pt": "Estoque personalizado no marketplace"
-                  },
-                  "slug": {
-                    "en": "can-i-use-a-customized-stock-in-the-marketplace",
-                    "es": "puedo-usar-un-stock-personalizado-en-el-marketplace",
-                    "pt": "posso-usar-estoque-personalizado-no-marketplace"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Offer management",
-                "es": "Gestión de anuncios",
-                "pt": "Gerenciamento de anúncios"
-              },
-              "slug": {
-                "en": "offer-management-subcategory",
-                "es": "gestion-de-anuncios-subcategoria",
-                "pt": "gerenciamento-de-anúncios-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Offer Quality Filters",
-                    "es": "Filtros de calidad de anuncios",
-                    "pt": "Filtros de qualidade dos anúncios"
-                  },
-                  "slug": {
-                    "en": "offer-quality-filters",
-                    "es": "calidad-de-anuncios",
-                    "pt": "filtros-de-qualidade-dos-anuncios"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Offer Status",
-                    "es": "Status de los anuncios",
-                    "pt": "Status dos anúncios"
-                  },
-                  "slug": {
-                    "en": "offer-status",
-                    "es": "status-de-los-anuncios",
-                    "pt": "status-dos-anuncios"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Orders",
-                "es": "Pedidos",
-                "pt": "Pedidos"
-              },
-              "slug": {
-                "en": "orders-subcategory",
-                "es": "pedidos-subcategoria",
-                "pt": "pedidos-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Change Seller",
-                    "es": "Change Seller",
-                    "pt": "Change Seller"
-                  },
-                  "slug": {
-                    "en": "change-seller",
-                    "es": "change-seller",
-                    "pt": "change-seller"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How shipping works when delivery is done by the marketplace (FOB)",
-                    "es": "Cómo funciona el flete cuando la entrega es hecha por el marketplace (FOB)",
-                    "pt": "Como funciona o frete quando a entrega é feita pelo marketplace (FOB)"
-                  },
-                  "slug": {
-                    "en": "how-shipping-works-when-delivery-is-done-by-the-marketplace",
-                    "es": "como-funciona-el-flete-cuando-la-entrega-es-hecha-por-el-marketplace",
-                    "pt": "como-funciona-o-frete-quando-o-marketplace-faz-a-entrega"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Price",
-                "es": "Precio",
-                "pt": "Preço"
-              },
-              "slug": {
-                "en": "price-subcategory",
-                "es": "precio-subcategoria",
-                "pt": "preço-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Configuring a pay-in-full discount",
-                    "es": "Configurar descuento de precio al contado",
-                    "pt": "Configurar desconto de preço à vista"
-                  },
-                  "slug": {
-                    "en": "configuring-a-pay-in-full-discount",
-                    "es": "configurar-descuento-de-precio-al-contado",
-                    "pt": "configurar-desconto-de-preco-a-vista"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring discounts for orders paid in full on Google Shopping",
-                    "es": "Configurar descuento de precio al contado para Google Shopping",
-                    "pt": "Configurar desconto de preço à vista para Google Shopping"
-                  },
-                  "slug": {
-                    "en": "configuring-discounts-for-orders-prepaid-in-full-on-google-shopping",
-                    "es": "configurar-descuento-de-precio-al-contado-para-google-shopping",
-                    "pt": "configurar-desconto-de-preco-a-vista-para-google-shopping"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Prices",
-                    "es": "Precios",
-                    "pt": "Preços"
-                  },
-                  "slug": {
-                    "en": "prices",
-                    "es": "precios",
-                    "pt": "precos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Products",
-                "es": "Productos",
-                "pt": "Produtos"
-              },
-              "slug": {
-                "en": "products-subcategory",
-                "es": "productos-subcategoria",
-                "pt": "produtos-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Sending products to the marketplace",
-                    "es": "Enviar productos para marketplace",
-                    "pt": "Enviar produtos para o marketplace"
-                  },
-                  "slug": {
-                    "en": "sending-products-to-the-marketplace",
-                    "es": "catalogacion-de-productos-para-marketplace",
-                    "pt": "entendendo-a-catalogacao-de-produtos-para-o-marketplace"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Products errors in the Amazon integration",
-                    "es": "Errores de integración de productos de Amazon",
-                    "pt": "Erros de integração de produtos com a Amazon"
-                  },
-                  "slug": {
-                    "en": "products-errors-in-the-amazon-integration",
-                    "es": "errores-de-integracion-de-productos-de-amazon",
-                    "pt": "erros-de-integracao-de-produtos-com-a-amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Received SKUs",
-                    "es": "SKUs recebidos",
-                    "pt": "SKUs recebidos"
-                  },
-                  "slug": {
-                    "en": "received-skus-beta",
-                    "es": "skus-recebidos-beta",
-                    "pt": "skus-recebidos-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
             }
           ]
         },
