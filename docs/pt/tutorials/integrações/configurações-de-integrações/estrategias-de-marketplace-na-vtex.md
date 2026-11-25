@@ -124,7 +124,7 @@ Para cada política comercial adicional, é cobrado um valor mensal, seja ela ut
 Atualmente, na plataforma VTEX você encontra os seguintes marketplaces:  
 
 - [Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP)  
-- [Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq)  
+- [Mercado Livre](/pt/docs/tutorials/mercado-livre)  
 - [Magazine Luiza](/pt/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y)  
 - [Carrefour](/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2)  
 - [Centauro](/pt/tracks/integracao-com-a-centauro--D8Qnjbr5lfLkUfMRhsfbj)  

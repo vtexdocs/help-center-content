@@ -25,7 +25,7 @@ Esa configuración está disponible en las siguientes integraciones:
 - [Centauro](/es/docs/tracks/registro-de-la-integracion-de-centauro)
 - [Dafiti](/es/docs/tracks/dafiti-marketplace)
 - [Magazine Luiza](/es/docs/tracks/registro-de-la-integracion-de-magazine-luiza)
-- [Mercado Livre](/es/docs/tracks/registro-de-la-integracion-de-mercado-libre)
+- [Mercado Livre](/es/docs/tutorials/registro-de-la-integracion-de-mercado-libre)
 - [Netshoes](/es/docs/tracks/registro-de-la-integracion-de-netshoes)
 - [Casas Bahia](/es/docs/tracks/casas-bahia-marketplace)    
 
