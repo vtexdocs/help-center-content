@@ -24,8 +24,6 @@ Utilice la autonomía que tiene sobre el código y cree el escenario de *storefr
 1. En el Admin VTEX, acceda a **Storefront > Site Editor**.
 2. Utilice el campo URL en la parte superior para navegar a la página que muestra el bloque cuyo contenido desea sobrescribir. 
 
-> ℹ️ Site Editor no le permite agregar un nuevo bloque a un *template* o a una página específica, solo puede sobrescribir las configuraciones de bloques existentes de la aplicación Store Theme.
-
 ## Crear contenido
 
 1. Seleccione el bloque para el que desea crear nuevo contenido. Puede seleccionarlo utilizando la lista en la esquina derecha o a través de la interfaz:
