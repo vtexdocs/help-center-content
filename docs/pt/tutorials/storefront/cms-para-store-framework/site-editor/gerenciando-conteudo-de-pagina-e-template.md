@@ -75,9 +75,7 @@ Cada configuração realizada no Site Editor sobrescreve aquela definida por mei
 
 Na prática, isso significa que o conteúdo recém-criado ou atualizado por meio do módulo do admin é majoritariamente classificado automaticamente como ativo, a depender se alguma data de início ou fim foi predefinida.
 
-Observe que ao clicar no menu kebab de um determinado conteúdo (três pontos), a única ação disponível é excluí-lo ou redefini-lo - não há botão para a sua ativação.
+Para ativar um conteúdo, clique em `Versões`, escolha o conteúdo e clique em `Mais opções` > **Ativar**. Apenas um conteúdo fica ativo por vez. Para mais informações, acesse [Gerenciando versões de conteúdo](/pt/docs/tutorials/gerenciando-versoes-de-conteudo#ativando-versões).
 
-O caminho para definir qual conteúdo deve estar ativo e inativo é excluir ou redefinir o conteúdo ativo vigente para permitir que o primeiro da fila dos inativos seja, então, ativado.
-
-> ℹ️ A fila para conteúdos inativos começa do conteúdo mais recente ao mais antigo. Lembre-se de que os conteúdos criados por meio do Site Editor *sempre* prevalecem sobre o que foi definido no código.
+> ℹ️ Ao excluir ou redefinir o conteúdo ativo, o primeiro conteúdo da fila de inativos é ativado. A fila para conteúdos inativos começa do conteúdo mais recente ao mais antigo. Lembre-se de que os conteúdos criados por meio do Site Editor *sempre* prevalecem sobre o que foi definido no código.
 

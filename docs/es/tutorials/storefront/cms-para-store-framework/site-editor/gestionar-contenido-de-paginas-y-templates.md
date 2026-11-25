@@ -76,8 +76,6 @@ Toda configuración realizada en Site Editor de forma nativa sobrescribe la que 
 
 En la práctica, esto significa que el contenido recién creado o actualizado a través del módulo en su mayoría se clasifica automáticamente como activo, dependiendo de si se predefinió una fecha de inicio y/o final.
 
-Tenga en cuenta que al hacer clic en el menú del contenido (tres puntos verticales), las únicas acciones disponibles son *eliminar* o *restaurar*, no hay ningún botón para *activar*.
+Para activar un contenido, haga clic en `Versiones`, elija el contenido y haga clic en `Más opciones` > **Activar**. Solo un contenido está activo a la vez. Para más información, consulte [Gestión de versiones de contenido](/es/docs/tutorials/gestion-de-versiones-de-contenido#activar-versiones).
 
-La manera correcta de definir qué contenido debe estar activo e inactivo es eliminar o restaurar el contenido activo y dejar que el primer contenido de la fila inactiva se active. 
-
-> ℹ️ La fila de contenido inactivo comienza del contenido más reciente hasta el más antiguo. Tenga en cuenta que el contenido creado a través de Site Editor siempre prevalece sobre lo que se definió en el código fuente.
+> ℹ️ Cuando elimina o restablece el contenido activo, el primer contenido de la fila de contenido inactivo se activa. La fila de contenido inactivo comienza del contenido más reciente hasta el más antiguo. Tenga en cuenta que el contenido creado a través de Site Editor siempre prevalece sobre lo que se definió en el código fuente.
