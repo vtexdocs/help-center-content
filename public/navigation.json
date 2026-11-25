@@ -25,37 +25,6 @@
           "children": [
             {
               "name": {
-                "en": "Novembro",
-                "es": "Novembro",
-                "pt": "Novembro"
-              },
-              "slug": {
-                "en": "novembro",
-                "es": "novembro",
-                "pt": "2026-novembro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Bid Monitor disponível em Open Beta no VTEX Ads",
-                    "es": "Bid Monitor disponível em Open Beta no VTEX Ads",
-                    "pt": "Bid Monitor disponível em Open Beta no VTEX Ads"
-                  },
-                  "slug": {
-                    "en": "",
-                    "es": "",
-                    "pt": "2026-11-25-bid-monitor-disponivel-em-open-beta-no-vtex-ads"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "November",
                 "es": "Noviembre",
                 "pt": "Novembro"
@@ -68,6 +37,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Bid Monitor now available in Open Beta in VTEX Ads",
+                    "es": "Bid Monitor disponible en Open Beta en VTEX Ads",
+                    "pt": "Bid Monitor disponível em Open Beta no VTEX Ads"
+                  },
+                  "slug": {
+                    "en": "2026-11-25-bid-monitor-now-available-in-open-beta-in-vtex-ads",
+                    "es": "2026-11-25-bid-monitor-disponible-en-open-beta-en-vtex-ads",
+                    "pt": "2026-11-25-bid-monitor-disponivel-em-open-beta-no-vtex-ads"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Desk Copilot: suggestions for human representatives in Live Desk",
