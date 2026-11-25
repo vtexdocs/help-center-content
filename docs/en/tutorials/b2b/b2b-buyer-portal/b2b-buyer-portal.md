@@ -26,6 +26,7 @@ This article summarizes the main **B2B Buyer Portal** features and redirects to 
 - [Address and payment management](#address-and-payment-management)
 - [Organization account](#organization-account)
 - [Punchout](#punchout)
+- [AI Quick Order](#ai-quick-order)
 
 ## Contracts
 
@@ -129,6 +130,10 @@ Punchout allows integration with external procurement systems, enabling purchasi
 This feature serves organizations that use centralized procurement software and need their suppliers' storefronts integrated into existing purchasing workflows.
 
 > ℹ️ This feature is exclusively supported by the [Punchout API](https://developers.vtex.com/docs/api-reference/punchout-api#overview). Learn more in the [Punchout integration guide](https://developers.vtex.com/docs/guides/punchout).
+
+## AI Quick Order
+
+Buyers can quickly create a cart by uploading a file with the items. After the upload, the **Order Entry Agent** creates the order, and the buyer can complete the purchase immediately. This feature is only available to select accounts among stores that use B2B Buyer Portal. Learn more in [AI Quick Order](https://help.vtex.com/en/docs/tutorials/ai-quick-order).
 
 ## Learn more
 
