@@ -1,6 +1,6 @@
 ---
 title: 'Bid Monitor (competitividad de ofertas)'
-createdAt: 2026-10-16T00:00:00.000Z
+createdAt: 2026-11-25T00:00:00.000Z
 updatedAt: 2026-11-25T00:00:00.000Z
 contentType: tutorial
 productTeam: Others
