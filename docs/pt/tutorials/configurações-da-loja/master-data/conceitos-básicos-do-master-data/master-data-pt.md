@@ -3,7 +3,7 @@ title: 'Master Data'
 id: 4otjBnR27u4WUIciQsmkAw
 status: PUBLISHED
 createdAt: 2018-04-02T19:01:38.026Z
-updatedAt: 2026-10-08T00:00:00.000Z
+updatedAt: 2026-11-24T00:00:00.000Z
 publishedAt: 2025-08-29T14:19:54.707Z
 firstPublishedAt: 2018-04-02T20:54:18.272Z
 contentType: tutorial
@@ -267,6 +267,8 @@ Algumas entidades de dados são criadas automaticamente pela VTEX para suportar 
 | `views` | Sales Performance GraphQL |
 | `vtex_admin_cms_graphql_content` | Admin CMS GraphQL (declares this v2 native) |
 | `vtex_admin_cms_graphql_contentVariant` | Admin CMS GraphQL (declares this v2 native) |
+| `vtex_b2b_core_buyerorgconfiguration` | VTEX B2B Core |
+| `vtex_b2b_core_buyerorgmember` | VTEX B2B Core |
 | `vtex_orders_graphql_onboardingusers` | Orders GraphQL onboarding users |
 | `wishlist` | Wishlist (legacy .NET) |
 | `wishlistitems` | Wishlist IO |

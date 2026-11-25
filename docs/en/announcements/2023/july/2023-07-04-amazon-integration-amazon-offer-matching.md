@@ -15,6 +15,8 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Amazon offer matching is now manual. Learn more about the new page.'
 ---
 
+> ℹ️ **Amazon Offer Matching** has been replaced by [Amazon Product Publishing](/en/docs/tutorials/amazon-product-publishing).
+
 The [integration](/en/tracks/configurar-integracao-com-a-amazon) between VTEX stores and Amazon allows sellers to send their product catalog to the marketplace, which expands their sales channels. To increase the quality of offers shown on Amazon, we created a new page for VTEX sellers to do the product matching.
 
 ## What has changed?
