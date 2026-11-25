@@ -3,7 +3,7 @@ title: 'Lista da Vez (Beta)'
 id: 1VbFY9QTTOKgv7hvvQXgdg
 status: PUBLISHED
 createdAt: 2022-03-04T17:25:54.588Z
-updatedAt: 2023-05-31T15:47:34.959Z
+updatedAt: 2026-11-25T15:54:00.000Z
 publishedAt: 2023-05-31T15:47:34.959Z
 firstPublishedAt: 2022-03-04T20:10:52.259Z
 contentType: tutorial
@@ -17,7 +17,7 @@ subcategoryId: 5SE2asHiQtHKfbnFru8RWH
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).  
 
-O aplicativo **Lista da Vez** permite organizar a fila de atendimento dos vendedores e consultar campanhas, rankings e metas já cadastradas pela plataforma Indeva. Nele, é possível encontrar as seguintes abas:
+A capacidade **Lista da Vez** no VTEX Sales App permite organizar a fila de atendimento dos vendedores e consultar campanhas, rankings e metas já cadastradas pela plataforma Indeva. Nela, é possível encontrar as seguintes abas:
 
 - [Lista da Vez](#lista-da-vez)
 - [Campanhas](#campanhas)
@@ -99,6 +99,6 @@ Nesta página você pode visualizar as seguintes informações:
 - **Taxa de conversão:** percentagem de atendimentos convertidos em compras.
 - **Peças por atendimento:** quantidade média de produtos vendidos por atendimento.
 - **Ticket médio:** valor médio das vendas realizadas pelo vendedor.
-- **Usabilidade:** percentual de atendimentos de venda registrados pelo aplicativo da Lista da Vez em comparação aos registrados no PDV (ponto de venda).
+- **Usabilidade:** percentual de atendimentos de venda registrados pela capacidade Lista da Vez no VTEX Sales App em comparação aos registrados no PDV (ponto de venda).
 - **Seu desempenho:** percentual de desempenho do vendedor até o dia atual representado como **Vendas acumuladas** dividido pelo valor de **Metas acumuladas**.
 - **Períodos:** detalhes de um período anterior de atendimento, apresentando as metas do período e a lista de vendas realizadas.

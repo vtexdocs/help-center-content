@@ -3,7 +3,7 @@ title: 'Corrigir erro de data e hora no aplicativo Indeva'
 id: 7wwWzw7J3Pmz9ImN11awtN
 status: PUBLISHED
 createdAt: 2025-09-12T12:14:36.385Z
-updatedAt: 2025-10-03T14:12:44.160Z
+updatedAt: 2026-11-25T16:05:00.000Z
 publishedAt: 2025-10-03T14:12:44.160Z
 firstPublishedAt: 2025-09-12T12:27:36.899Z
 contentType: tutorial
@@ -14,6 +14,8 @@ legacySlug: corrigir-erro-data-hora-aplicativo-indeva
 locale: pt
 subcategoryId: 78bsG4YLzz1TR7eUzFSf4F
 ---
+
+> ⚠️ O aplicativo **Indeva – Lista da Vez** foi descontinuado. A Lista da Vez agora está disponível no VTEX Sales App. Para saber mais, consulte [Lista da Vez (Beta)](https://help.vtex.com/pt/docs/tutorials/lista-da-vez).
 
 Alguns tablets podem apresentar mensagens incorretas de data e hora devido à ativação automática do horário de verão.
 

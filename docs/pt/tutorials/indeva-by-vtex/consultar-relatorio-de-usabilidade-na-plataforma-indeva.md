@@ -3,7 +3,7 @@ title: 'Consultar relatório de usabilidade na plataforma Indeva'
 id: LlYRv5SokNHuQGNUauqtd
 status: PUBLISHED
 createdAt: 2025-10-01T13:04:41.981Z
-updatedAt: 2025-10-17T16:43:19.070Z
+updatedAt: 2026-11-25T16:05:00.000Z
 publishedAt: 2025-10-17T16:43:19.070Z
 firstPublishedAt: 2025-10-01T13:16:40.700Z
 contentType: tutorial
@@ -14,6 +14,8 @@ legacySlug: consultar-relatorio-de-usabilidade-na-plataforma-indeva
 locale: pt
 subcategoryId: 28FNnk5j9BdyzEExn889Fz
 ---
+
+> ⚠️ O aplicativo **Indeva – Lista da Vez** foi descontinuado. A Lista da Vez agora está disponível no VTEX Sales App. Para saber mais, consulte [Lista da Vez (Beta)](https://help.vtex.com/pt/docs/tutorials/lista-da-vez).
 
 A **usabilidade** é uma métrica criada pela Indeva para avaliar se os registros de **sucessos** realizados pelos vendedores na **Lista da Vez** estão consistentes com as vendas efetivadas no ponto de venda (PDV).
 

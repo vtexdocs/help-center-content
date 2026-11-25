@@ -3,7 +3,7 @@ title: 'Marcações no aplicativo Lista da Vez'
 id: 4oLt70pEOkY8uYTrhhTlEJ
 status: PUBLISHED
 createdAt: 2025-09-12T13:08:14.598Z
-updatedAt: 2025-10-03T14:52:11.527Z
+updatedAt: 2026-11-25T16:05:00.000Z
 publishedAt: 2025-10-03T14:52:11.527Z
 firstPublishedAt: 2025-09-12T13:18:03.819Z
 contentType: tutorial
@@ -14,6 +14,8 @@ legacySlug: marcacoes-aplicativo-lista-da-vez
 locale: pt
 subcategoryId: 78bsG4YLzz1TR7eUzFSf4F
 ---
+
+> ⚠️ O aplicativo **Indeva – Lista da Vez** foi descontinuado. A Lista da Vez agora está disponível no VTEX Sales App. Para saber mais, consulte [Lista da Vez (Beta)](https://help.vtex.com/pt/docs/tutorials/lista-da-vez).
 
 As marcações representam as ações que o vendedor pode registrar no aplicativo **Lista da Vez** para indicar como foi o atendimento realizado.
 

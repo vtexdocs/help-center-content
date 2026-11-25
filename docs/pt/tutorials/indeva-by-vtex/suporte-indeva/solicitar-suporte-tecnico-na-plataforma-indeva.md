@@ -3,7 +3,7 @@ title: 'Solicitar suporte técnico na plataforma Indeva'
 id: 4KKfILzcWbxZzKaVlgGREf
 status: PUBLISHED
 createdAt: 2025-10-01T13:57:35.180Z
-updatedAt: 2025-10-17T16:53:37.803Z
+updatedAt: 2026-11-25T16:05:00.000Z
 publishedAt: 2025-10-17T16:53:37.803Z
 firstPublishedAt: 2025-10-01T14:12:07.182Z
 contentType: tutorial
@@ -14,6 +14,8 @@ legacySlug: solicitar-suporte-tecnico-na-plataforma-indeva
 locale: pt
 subcategoryId: 43f3IRjn9begSh9Tgpa923
 ---
+
+> ⚠️ O aplicativo **Indeva – Lista da Vez** foi descontinuado. A Lista da Vez agora está disponível no VTEX Sales App. Para saber mais, consulte [Lista da Vez (Beta)](https://help.vtex.com/pt/docs/tutorials/lista-da-vez).
 
 Usuários com permissão para acessar o ambiente web da **Indeva** contam com atendimento especializado oferecido pelo time de suporte.
 

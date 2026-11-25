@@ -3,7 +3,7 @@ title: 'Acessar painel de vendedor'
 id: 1Jc73QVv6PnJxwUbrcFBNA
 status: PUBLISHED
 createdAt: 2025-09-16T16:31:16.935Z
-updatedAt: 2025-10-03T18:15:56.371Z
+updatedAt: 2026-11-25T16:05:00.000Z
 publishedAt: 2025-10-03T18:15:56.371Z
 firstPublishedAt: 2025-09-16T16:39:42.010Z
 contentType: tutorial
@@ -15,6 +15,7 @@ locale: pt
 subcategoryId: 1acPW0OHXq4PjbQUFVrNrY
 ---
 
+> ⚠️ O aplicativo **Indeva – Lista da Vez** foi descontinuado. A Lista da Vez agora está disponível no VTEX Sales App. Para saber mais, consulte [Lista da Vez (Beta)](https://help.vtex.com/pt/docs/tutorials/lista-da-vez).
 
 Para acessar o painel do vendedor, clique na **foto do vendedor** desejado, localizada na coluna **Vendedores**, no lado direito da tela.
 

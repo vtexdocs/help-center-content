@@ -3,7 +3,7 @@ title: 'Corrigir ausência de vendedor no aplicativo Lista da Vez'
 id: 3TLFRGiS9TwvDT5f1qDvof
 status: PUBLISHED
 createdAt: 2025-09-11T17:14:43.579Z
-updatedAt: 2025-10-03T16:28:37.635Z
+updatedAt: 2026-11-25T16:05:00.000Z
 publishedAt: 2025-10-03T16:28:37.635Z
 firstPublishedAt: 2025-09-11T17:58:36.336Z
 contentType: tutorial
@@ -14,6 +14,8 @@ legacySlug: corrigir-ausencia-vendedor-aplicativo-lista-da-vez
 locale: pt
 subcategoryId: 78bsG4YLzz1TR7eUzFSf4F
 ---
+
+> ⚠️ O aplicativo **Indeva – Lista da Vez** foi descontinuado. A Lista da Vez agora está disponível no VTEX Sales App. Para saber mais, consulte [Lista da Vez (Beta)](https://help.vtex.com/pt/docs/tutorials/lista-da-vez).
 
 Antes de prosseguir, verifique se o cadastro do vendedor já foi inativado. Para inativar um vendedor, acesse: 
 
