@@ -33681,6 +33681,21 @@
                 },
                 {
                   "name": {
+                    "en": "AI Quick Order",
+                    "es": "Pedido rápido con IA",
+                    "pt": "Pedido rápido com IA"
+                  },
+                  "slug": {
+                    "en": "ai-quick-order",
+                    "es": "pedido-rapido-con-ia",
+                    "pt": "pedido-rapido-com-ia"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Custom storefront roles and permissions",
                     "es": "Roles y permisos de storefront personalizados",
                     "pt": "Perfis de acesso e permissões de storefront personalizados"
