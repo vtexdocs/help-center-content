@@ -36,4 +36,4 @@ Al abrir un log de sugerencia, se muestra la siguiente información:
 
 Consulta el ejemplo en la imagen a continuación:
 
-![Ejemplo de lectura de sugerencia de precios Amazon](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/sugestao-de-precos-amazon_1.png)
+![Ejemplo de lectura de sugerencia de precios Amazon](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/configurações-de-integrações/sugestao-de-precos-amazon_1.png)

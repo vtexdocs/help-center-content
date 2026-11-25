@@ -55,7 +55,7 @@ Nessa aba, o seller revisa e confirma ou recusa as sugestões de vínculo entre 
 
 Na listagem, é possível usar o campo **Buscar SKU ou produto** para pesquisar por nome do SKU ou da oferta no catálogo VTEX, e o filtro **Status** para refinar pela situação atual da sugestão de vínculo.
 
-![Aba Prontos para vincular](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/publicacao-de-produtos-amazon_1.png)
+![Aba Prontos para vincular](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/configurações-de-integrações/publicacao-de-produtos-amazon_1.png)
 
 O EAN cadastrado na VTEX é utilizado para fazer a equivalência com os ASINs correspondentes na Amazon. A correspondência entre EAN e ASIN precisa ser confirmada pelo seller para que os anúncios sejam vinculados corretamente.
 
@@ -86,9 +86,9 @@ Ao clicar em uma linha da tabela, o seller é direcionado à página **Detalhes 
 
 Quando a Amazon não retorna nenhuma outra opção de anúncio para vincular ao SKU, o painel **Outras sugestões de vínculos** exibe a seguinte mensagem: *Nenhuma outra sugestão disponível. A Amazon não retornou outras opções para este SKU.*
 
-![Detalhes da sugestão com revisão pendente](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/publicacao-de-produtos-amazon_2.png)
+![Detalhes da sugestão com revisão pendente](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/configurações-de-integrações/publicacao-de-produtos-amazon_2.png)
 
-![Detalhes da sugestão enviada](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/publicacao-de-produtos-amazon_3.png)
+![Detalhes da sugestão enviada](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/configurações-de-integrações/publicacao-de-produtos-amazon_3.png)
 
 ### Confirmar um vínculo
 
@@ -147,7 +147,7 @@ Nessa aba, o seller cadastra e envia SKUs que ainda não possuem correspondênci
 
 Na listagem, cada SKU apresenta **nome do SKU**, **SKU ID**, **Categoria Amazon** e **Status**. É possível usar o campo **Buscar** para pesquisar por nome do SKU ou por SKU ID, e filtrar por **Categoria VTEX**, **Categoria Amazon**, **Marca** e **Status**. Os filtros podem ser utilizados individualmente ou combinados, de acordo com a estratégia de cada seller.
 
-![Aba Prontos para criar e enviar](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/publicacao-de-produtos-amazon_4.png)
+![Aba Prontos para criar e enviar](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/configurações-de-integrações/publicacao-de-produtos-amazon_4.png)
 
 O cadastro dos produtos apresentados nesta aba é realizado manualmente, um a um, ou utilizando [templates](#template-de-cadastro-de-produtos) criados pelo seller.
 
@@ -174,7 +174,7 @@ Para cadastrar um novo SKU, siga os passos abaixo:
 
 O botão `Salvar e enviar` permanece desabilitado até que todos os atributos necessários estejam preenchidos.
 
-![Cadastro de SKU na Publicação de produtos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/publicacao-de-produtos-amazon_5.png)
+![Cadastro de SKU na Publicação de produtos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/configurações-de-integrações/publicacao-de-produtos-amazon_5.png)
 
 Ao finalizar o cadastro e enviar o SKU, ele entra em uma fila de processamento. O status muda para **Enviado**, aguardando a Amazon concluir o processamento. Quando aceito, o SKU tem seu status alterado para **Publicado**; se rejeitado, o status é alterado para **Devolvido com erro** para correção do seller.
 
@@ -192,7 +192,7 @@ Na tela de cadastro, o seller pode usar o botão `Sugerir` nos campos **Título*
 
 Ao clicar em `Sugerir` no campo **Descrição**, um card **Sugestão de descrição** é exibido com o texto gerado. O seller pode aplicar a sugestão, regenerá-la ou fechá-la.
 
-![Sugestão de descrição por IA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/publicacao-de-produtos-amazon_6.png)
+![Sugestão de descrição por IA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/configurações-de-integrações/publicacao-de-produtos-amazon_6.png)
 
 > ℹ️ Verifique as informações geradas antes de aplicar.
 
@@ -202,7 +202,7 @@ Ao abrir o formulário de cadastro, a IA sugere e aplica automaticamente uma cat
 
 Com a categoria aplicada, os atributos correspondentes são carregados automaticamente no formulário. O seller precisa preencher todos os campos obrigatórios. O botão `Carregar mais atributos` só é habilitado quando os campos exibidos estiverem completos, e o botão `Salvar e enviar` fica disponível somente após o preenchimento de todos os atributos obrigatórios.
 
-![Carregar mais atributos desabilitado](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/publicacao-de-produtos-amazon_10.png)
+![Carregar mais atributos desabilitado](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/configurações-de-integrações/publicacao-de-produtos-amazon_10.png)
 
 ### Template de cadastro de produtos
 
@@ -238,7 +238,7 @@ Ao realizar a edição de um template, é possível adicionar novos atributos e 
 
 Quando alguma edição é feita no template, será apresentado no rodapé da página a opção de visualizar as alterações, como na imagem a seguir.
 
-![Gerenciar template](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/publicacao-de-produtos-amazon_7.jpg)
+![Gerenciar template](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/configurações-de-integrações/publicacao-de-produtos-amazon_7.jpg)
 
 > ℹ️ Todas as alterações realizadas no template serão refletidas nos SKUs da categoria que ainda não foram enviados.
 

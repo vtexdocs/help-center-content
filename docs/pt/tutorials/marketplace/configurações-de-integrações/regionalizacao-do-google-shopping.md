@@ -26,7 +26,7 @@ Para enviar preço, disponibilidade, frete e SLA regionalizados, configure as fu
 3. [Ativar Google Shipping](#ativar-o-google-shipping)
 4. [Ativar RAAP](#ativar-o-raap)
 
-![Preferências do Google Shopping](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/regionalizacao-do-google-shopping_1.png)
+![Preferências do Google Shopping](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/configurações-de-integrações/regionalizacao-do-google-shopping_1.png)
 
 ## Regionalização
 
@@ -65,7 +65,7 @@ Na página **Configurar regiões**, é possível testar a disponibilidade de um 
 
 Na coluna **Disponibilidade** será mostrado o status de Disponível <i class="far fa-check-circle" aria-hidden="true"></i> ou Indisponível <i class="far fa-minus-circle" aria-hidden="true"></i> em cada região ativa. Para ver o resultado de uma zona específica, use o filtro País e a busca por nome ou CEP.
 
-![Configurar regiões com Ativar regiões](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/regionalizacao-do-google-shopping_3.png)
+![Configurar regiões com Ativar regiões](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/configurações-de-integrações/regionalizacao-do-google-shopping_3.png)
 
 ## Ativar o Google Shipping
 

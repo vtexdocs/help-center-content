@@ -40,4 +40,4 @@ Ao abrir um log de sugestão, o seller encontra as seguintes informações:
 
 Veja o exemplo na imagem abaixo:
 
-![Exemplo de leitura de sugestão de preços Amazon](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/sugestao-de-precos-amazon_1.png)
+![Exemplo de leitura de sugestão de preços Amazon](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/configurações-de-integrações/sugestao-de-precos-amazon_1.png)

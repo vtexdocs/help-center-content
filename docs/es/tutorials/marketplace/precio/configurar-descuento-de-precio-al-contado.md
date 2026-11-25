@@ -41,7 +41,7 @@ Utiliza el endpoint de configuración del `orderForm` para llenar la propiedad `
 
 Puedes obtener el ID en el Admin VTEX, en **Configuración de la tienda > Pagos > Configuración > Condiciones de pago**.
 
-![id-pagamentos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/preço/id-pagamentos.png)
+![id-pagamentos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/preço/id-pagamentos.png)
 
 Después de actualizar la configuración, [simula un carrito](https://developers.vtex.com/docs/guides/simulate-a-shopping-cart) para verificar si el descuento se aplicó a la opción de pago al contado en `paymentData.installmentOptions`.
 
@@ -68,7 +68,7 @@ En las tiendas CMS Portal (Legado) es necesario indicar en la plantilla de la p�
 3. Haz clic en la plantilla de tu página de producto en la lista de plantillas.
 4. En la propiedad `skuPrice`, agrega la variable `paymentSystemId` con el ID del medio de pago deseado.
 
-   ![Screenshot 2020-12-18 Criar preço à vista](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/precio/configurar-descuento-de-precio-al-contado_1.png)
+   ![Screenshot 2020-12-18 Criar preço à vista](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/marketplace/precio/configurar-descuento-de-precio-al-contado_1.png)
 
 5. Haz clic en **Save Template** en el campo superior para guardar.
 

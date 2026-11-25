@@ -17,7 +17,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 Un marketplace es una plataforma virtual en la que diferentes vendedores anuncian sus productos. Estos vendedores se denominan sellers y, además, de ser propietarios de los productos, muchas veces también son los responsables del [proceso de fulfillment del producto](/es/docs/tutorials/fulfillment-logistica-vtex).  
 
-![Estrategias de marketplace](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuración-de-las-integraciones/estrategias-de-marketplace-en-vtex_1.png)
+![Estrategias de marketplace](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/marketplace/configuración-de-las-integraciones/estrategias-de-marketplace-en-vtex_1.png)
 
 [VTEX promueve la colaboración digital](https://vtex.com/ar-es/marketplace/) en diferentes escenarios: no solo tienes la posibilidad de vender tus productos en otros marketplaces, sino que también puedes ofrecer los productos de otros sellers en tu propio entorno, convirtiéndote así en un marketplace.  
 
@@ -69,7 +69,7 @@ Es posible que un seller que no está integrado con VTEX quiera vender productos
 La configuración para [convertirse en un marketplace VTEX](/es/docs/tutorials/configurar-marketplaces-vtex) elimina algunos de los pasos requeridos en otras integraciones. Una vez configurado tu marketplace, consulta las [acciones para la operación de marketplaces VTEX](/es/docs/tutorials/acciones-para-la-operacion-de-marketplaces-vtex).  
 
 A continuación, se presentan los principales marketplaces VTEX:  
-![mkt br](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuración-de-las-integraciones/estrategias-de-marketplace-en-vtex_2.png)
+![mkt br](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/marketplace/configuración-de-las-integraciones/estrategias-de-marketplace-en-vtex_2.png)
 
 Además, la página __Marketplaces e integraciones__ promueve y facilita el contacto entre marketplaces VTEX y marketplace certificados con sellers VTEX interesados en colaboraciones.  
 

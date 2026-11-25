@@ -19,7 +19,7 @@ A página **SKUs recebidos** permite que o [marketplace](/pt/docs/tutorials/visa
 
 A catalogação pode ser feita manualmente ou automaticamente, [por meio de um ou mais matchers](/pt/docs/tutorials/entendendo-a-pontuacao-do-vtex-matcher), e também pelo [autoApprove](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions/#put-/suggestions/configuration/autoapproval/toggle). Além disso, também existe a possibilidade de usar ferramentas externas para realizar essa operação.  
 
-![Apresentação Anúncios Recebidos-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/produtos/skus-recebidos-beta_1.gif)  
+![Apresentação Anúncios Recebidos-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/produtos/skus-recebidos-beta_1.gif)  
 
 Neste artigo você encontrará uma visão geral sobre a [Estrutura da página](#estrutura-da-pagina), [Priorizando a catalogação](#priorizando-a-catalogacao) e [Catalogação de itens](#catalogacao-de-itens).  
 
@@ -50,7 +50,7 @@ Cada linha da lista representa um produto com as seguintes informações:
 
 Para verificar todas as especificações de um produto, clique sobre o nome do produto desejado e uma nova janela abrirá com todas as informações daquele produto.  
 
-![pendentes-info-produto-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/produtos/skus-recebidos-beta_2.png)  
+![pendentes-info-produto-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/produtos/skus-recebidos-beta_2.png)  
 
 ### Problemas
 
@@ -60,7 +60,7 @@ Na seção **Problemas,** estão disponíveis todos os anúncios que ainda não 
 
 Para identificar qual o problema de um anúncio, basta clicar no nome do produto desejado. Uma nova janela será exibida com as informações referentes ao produto, a mensagem de erro e o revisor do anúncio.  
 
-![skus-recebidos-janela-problemas-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/produtos/skus-recebidos-beta_3.png)
+![skus-recebidos-janela-problemas-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/produtos/skus-recebidos-beta_3.png)
 
 ### Aprovados
 
@@ -117,7 +117,7 @@ Por padrão, os itens com envios mais recentes são os primeiros a serem listado
 
 Nesse caso, os itens serão ordenados de forma crescente ou decrescente ao clicar em **"Preço"** ou **"Estoque"** no cabeçalho.  
 
-![ordenacao-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/produtos/skus-recebidos-beta_4.png)  
+![ordenacao-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/produtos/skus-recebidos-beta_4.png)  
 
 ## Catalogação de itens
 
@@ -154,7 +154,7 @@ Cria um SKU novo no catálogo e, consequentemente, um novo produto. Recomenda-se
   3. Preencha os campos **Categoria** e **Marca** para cada produto. Caso o mapeamento tenha sido realizado previamente, esses campos já estarão preenchidos.  
   4. Clique em `Aprovar`.  
 
-![criar-novos-produtos-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/produtos/skus-recebidos-beta_5.png)  
+![criar-novos-produtos-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/produtos/skus-recebidos-beta_5.png)  
 
 > ℹ️ Esta ação pode ser realizada nas seções de anúncios **Pendentes** e **Problemas**.  
 
@@ -167,7 +167,7 @@ Cria uma relação entre o produto do seller e um produto que já existe no cat�
   3. Preencha o ID do produto ao qual será associado.  
   4. Clique em `Aprovar`.  
 
-![associar-a-produto-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/produtos/skus-recebidos-beta_6.png)  
+![associar-a-produto-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/produtos/skus-recebidos-beta_6.png)  
 
 **Caso de uso**
 
@@ -186,7 +186,7 @@ Cria uma relação entre o novo SKU do seller e um SKU que já existe no catálo
   3. Preencha o **ID do SKU** a associar para cada SKU que está sendo aprovado.  
   4. Clique em `Aprovar`.  
 
-![associar-a-sku-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/produtos/skus-recebidos-beta_7.png)  
+![associar-a-sku-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/produtos/skus-recebidos-beta_7.png)  
 
 **Caso de uso**
 
@@ -205,7 +205,7 @@ Bloqueia os anúncios selecionados e estes não serão mais reprocessados automa
   3. Preencha o campo **Motivo de bloqueio.** O preenchimento é opcional.  
   4. Clique em `Recusar`.  
 
-![recusar-e-bloquear-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/produtos/skus-recebidos-beta_8.png)  
+![recusar-e-bloquear-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/produtos/skus-recebidos-beta_8.png)  
 
 Quando um SKU é bloqueado pelo marketplace, significa que na próxima vez que o seller enviar seus produtos, aqueles que foram bloqueados não estarão mais em meio aos enviados. É possível desbloquear um SKU por API REST, se o marketplace deseja voltar a recebê-lo como sugestão do seller.  
 
@@ -222,7 +222,7 @@ Rejeita o anúncio e envia para o seller a solicitação de correção de inform
   3. Preencha o campo **correções** com a informação a ser corrigida pelo seller.  
   4. Clique em `Recusar`.  
 
-![recusar-e-corrigir-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/produtos/skus-recebidos-beta_9.png)  
+![recusar-e-corrigir-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/produtos/skus-recebidos-beta_9.png)  
 
 > ℹ️ Esta ação pode ser realizada nas seções de anúncios **Pendentes**. Os anúncios para correção serão exibidos na seção **Problemas**.  
 

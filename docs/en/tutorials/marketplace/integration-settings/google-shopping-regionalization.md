@@ -26,7 +26,7 @@ To submit regionalized price, availability, shipping, and SLA, configure the fea
 3. [Activate Google Shipping](#activate-google-shipping)
 4. [Activate RAAP](#activate-raap)
 
-![Google Shopping preferences](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/regionalizacao-do-google-shopping_1.png)
+![Google Shopping preferences](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/configurações-de-integrações/regionalizacao-do-google-shopping_1.png)
 
 ## Regionalization
 
@@ -65,7 +65,7 @@ On the **Configure regions** page, you can test a product's availability based o
 
 The **Availability** column shows the Available <i class="far fa-check-circle" aria-hidden="true"></i> or Unavailable <i class="far fa-minus-circle" aria-hidden="true"></i> status for each active region. To view the results for a specific zone, use the Country filter and search by name or postal code.
 
-![Configure regions page with the Activate regions button](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/regionalizacao-do-google-shopping_3.png)
+![Configure regions page with the Activate regions button](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/configurações-de-integrações/regionalizacao-do-google-shopping_3.png)
 
 ## Activate Google Shipping
 

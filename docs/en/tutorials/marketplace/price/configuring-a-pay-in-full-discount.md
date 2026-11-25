@@ -41,7 +41,7 @@ Use the `orderForm` configuration endpoint to complete the `paymentSystemToCheck
 
 You can fetch this ID in the VTEX Admin, under **Store Settings > Payment > Settings > Payment conditions**.
 
-![id-pagamentos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/preço/id-pagamentos.png)
+![id-pagamentos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/preço/id-pagamentos.png)
 
 After updating the setting, [simulate a shopping cart](https://developers.vtex.com/docs/guides/simulate-a-shopping-cart) to check whether the pay-in-full discount was applied correctly in `paymentData.installmentOptions`.
 
@@ -68,7 +68,7 @@ In CMS Portal (Legacy) stores, you must specify in the product page template whi
 3. Click your product page template in the template list.
 4. In the `skuPrice` property, add the `paymentSystemId` variable with the ID of the desired payment method.
 
-   ![Screenshot 2020-12-18 Criar preço à vista](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/price/configuring-a-discount-for-orders-prepaid-in-full_1.png)
+   ![Screenshot 2020-12-18 Criar preço à vista](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/marketplace/price/configuring-a-discount-for-orders-prepaid-in-full_1.png)
 
 5. Click **Save template** in the top right corner to save.
 

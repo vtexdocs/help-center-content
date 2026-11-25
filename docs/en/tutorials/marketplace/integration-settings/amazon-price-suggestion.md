@@ -36,4 +36,4 @@ When you open a suggestion log, you'll find the following information:
 
 See the example in the image below:
 
-![select-period](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/sugestao-de-precos-amazon_1.png)
+![select-period](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/configurações-de-integrações/sugestao-de-precos-amazon_1.png)

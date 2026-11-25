@@ -41,7 +41,7 @@ Use o endpoint de configuração do `orderForm` para preencher a propriedade `pa
 
 Você pode obter esse ID no Admin VTEX, em **Configurações da loja > Pagamentos > Configurações > Condições de pagamento**.
 
-![id-pagamentos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/preço/id-pagamentos.png)
+![id-pagamentos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/preço/id-pagamentos.png)
 
 Depois de atualizar a configuração, [simule um carrinho](https://developers.vtex.com/docs/guides/simulate-a-shopping-cart) para verificar se o desconto foi aplicado à opção de pagamento à vista em `paymentData.installmentOptions`.
 
@@ -68,7 +68,7 @@ Em lojas CMS Portal (Legado), é necessário informar no template da página de 
 3. Clique no template da sua página de produto na lista de templates.
 4. Na propriedade `skuPrice`, adicione a variável `paymentSystemId` com o ID do meio de pagamento desejado.
 
-    ![Screenshot 2020-12-18 Criar preço à vista](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/preço/configurar-desconto-de-preco-a-vista_1.png)
+    ![Screenshot 2020-12-18 Criar preço à vista](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/marketplace/preço/configurar-desconto-de-preco-a-vista_1.png)
 
 5. Clique em **Save Template** no campo superior para salvar.
 
