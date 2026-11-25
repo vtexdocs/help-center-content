@@ -80,6 +80,27 @@ Para editar un campo, sigue estos pasos:
 2. Haz clic en el campo que quieres cambiar.
 3. Escribe el nuevo valor.
 
+#### Enviar mensajes rápidos en masa
+
+También puedes enviar un mensaje rápido guardado a varias conversaciones a la vez. Para hacerlo, sigue estos pasos:
+
+1. En **Live Desk**, haz clic en `Ver opciones`.
+2. Selecciona `Mensajes rápidos`.
+3. En el menú de opciones <i class="fas fa-ellipsis-v" aria-hidden="true"></i> del mensaje deseado, haz clic en `Enviar en masa`.
+4. Selecciona los contactos que recibirán el mensaje.
+
+> ℹ️ Todos los contactos están seleccionados de forma predeterminada.
+
+5. Haz clic en la casilla de selección de **He revisado todos los campos y quiero enviar el mensaje** para confirmar la revisión del envío en masa.
+
+> ⚠️ La lista de verificación de confirmación es obligatoria y ayuda a evitar envíos en masa accidentales. Revisa los contactos seleccionados antes de confirmar.
+
+6. Haz clic en `Enviar a todos`.
+
+Durante el envío, una barra de progreso muestra el avance en tiempo real. Al final, una notificación confirma cuántas conversaciones recibieron el mensaje.
+
+También puedes configurar mensajes rápidos específicos por departamento al crearlo. Para más información, consulta [Configurar Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk).
+
 ### Descargar audio del contacto
 
 Puedes reproducir un mensaje de audio del contacto en la conversación y descargar el archivo original. Descarga el audio cuando necesites compartirlo con otro equipo, como logística u operaciones, mientras escalas un caso internamente.

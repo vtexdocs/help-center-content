@@ -1,9 +1,9 @@
 ---
-title: 'Mapeo de URL (redirección 301)'
+title: 'Mapeo de URLs (redirección 301)'
 id: frequentlyAskedQuestions_623
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:57.075Z
-updatedAt: 2023-03-27T13:46:43.143Z
+updatedAt: 2026-11-19T15:38:00.000Z
 publishedAt: 2023-03-27T13:46:43.143Z
 firstPublishedAt: 2019-01-24T22:13:49.408Z
 contentType: tutorial
@@ -15,53 +15,87 @@ locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ Este tutorial es para tiendas en el CMS legado. Para otras tiendas, esta configuración se realiza a través de [Páginas](/es/docs/tutorials/paginas-vision-general). Acceda a la documentación [Gestión de redirecciones de URL](/es/docs/tutorials/gestion-de-redirecciones-de-url) para obtener más información.
+> ⚠️ Este tutorial es para tiendas en CMS Portal (Legado). Para otras tiendas, esta configuración se realiza a través de [Páginas](/es/docs/tutorials/paginas-vision-general). Accede a la documentación [Gestión de redirecciones de URL](/es/docs/tutorials/gestion-de-redirecciones-de-url) para obtener más información.
 
-Los mapeos de URL se utilizan para redirigir URL específicas a otras URL. Este recurso es muy útil cuando la tienda ya tiene URL indexadas en los buscadores y se quiere redirigirlas a otras más atractivas, manteniendo el SEO y evitando errores de indexación.
+Los mapeos de URLs se utilizan para redirigir URL específicas a otras. Este recurso es muy útil cuando la tienda ya tiene URLs indexadas en los buscadores y deseas redirigirlas a otras más atractivas, manteniendo el SEO y evitando errores de indexación.
 
-Todos los mapeos registrados se ejecutarán en el tipo 301. Una redirección 301, también conocida como redirección permanente, transfiere todos los datos importantes de su URL original (**PageRank**, **Popularidad de Enlaces**) a la nueva URL.
+Todos los mapeos registrados se ejecutarán en el tipo 301. La redirección 301, también conocida como redirección permanente, transfiere todos los datos importantes de la URL original (PageRank, popularidad de links) a la nueva URL.
 
-Hay dos maneras de añadir y cambiar un Mapeo de URL:
+Hay dos formas de agregar y editar un mapeo de URL:
 
-- [Manualmente](#manualmente)
-- [Importación por plantilla](#importacion-por-plantilla)
+- [Agregar o editar manualmente](#agregar-o-editar-manualmente)
+- [Importar vía plantilla](#importar-via-plantilla)
 
-## Manualmente
+Para eliminar mapeos existentes, consulta la sección [Eliminar URLs mapeadas](#eliminar-urls-mapeadas).
 
-1. En el VTEX Admin, acceda a **Storefront > Layout**.
-2. Haga clic en la carpeta **CMS** para abrir el directorio.
-3. Haga clic en la carpeta **URL Builder**.
-4. Haga clic en el botón `Add` para incluir un nuevo mapeo o en el botón `Update` para editar un mapeo existente.
-5. Rellene los [campos del URL Builder](#campos-del-url-builder).
-6. Haga clic en el botón `Save URL` para guardar.
+## Agregar o editar manualmente
 
-### Campos del URL Builder
+Para agregar o editar un mapeo manualmente sigue estos pasos:
 
-- **Url from:** la URL que será redirigida. Esta URL no debe contener el dominio. Campo obligatorio.
-- **Url to:** la URL a la que se redirigirá la navegación. Esta URL no debe contener el dominio. Campo obligatorio.
-- **Start date:** fecha y hora en que se empezará a considerar el mapeo. Campo obligatorio.
+1. En el Admin VTEX, accede a **Storefront > Layout**.
+2. Haz clic en la carpeta **CMS** para abrir el directorio.
+3. Haz clic en la carpeta **URL Builder**.
+4. Haz clic en el botón `Add` para agregar un nuevo mapeo o en el botón `Update` para editar un mapeo existente.
+5. Completa los [campos de URL Builder](#campos-de-url-builder).
+6. Haz clic en el botón `Save URL` para guardar.
+
+### Campos de URL Builder
+
+- **Url from:** la URL que será redirigida. Esta URL no debe contener el dominio de la tienda. Campo obligatorio.
+- **Url to:** URL a la que se redirigirá la navegación. Esta URL no debe contener el dominio de la tienda. Campo obligatorio.
+- **Start date:** fecha y hora en que el mapeo comenzará a considerarse. Campo obligatorio.
 - **End date:** fecha y hora en que se dejará de considerar el mapeo.
-- **Active:** opción para determinar si el mapeo está activo o inactivo.
+- **Active:** indica si el mapeo está activo o inactivo.
 
-> ℹ️ Para crear un mapeo para la home (directorio raíz), rellene el campo **Url to** con una barra `/`.
+> ℹ️ Para crear un mapeo a home (directorio raíz) ingresa una barra `/` en el campo **Url to**.
 
-## Importación por plantilla
+## Importar vía plantilla
 
-1. En el VTEX Admin, acceda a **Storefront > Layout**.
-2. Haga clic en la carpeta **CMS** para abrir el directorio.
-3. Haga clic en la carpeta **URL Builder**.
-4. Haga clic en el botón `Import` para importar la plantilla.
-5. Descargue el modelo de plantilla que se ilustra a continuación haciendo clic en el botón `Click here`.
-![exemplo-planilha](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/cms-portal-legado/layout/mapeo-de-url-redireccion-301_1.png)
-6. Rellene los [campos de la plantilla](#campos-de-la-plantilla).
-7. Después de rellenar la plantilla, haga clic en el botón `Browse for file` en la página de importación.
-8. Seleccione el archivo que desea importar desde su ordenador. El archivo debe tener la extensión `.xls` en formato `Excel 97-2003 Workbook`.
-9. Haga clic en el botón `Save File` para finalizar. Después de guardar el archivo, un mensaje mostrará la cantidad de URL añadidas.
+Para importar mapeos vía plantilla sigue los pasos a continuación:
+
+1. En el Admin VTEX, accede a **Storefront > Layout**.
+2. Haz clic en la carpeta **CMS** para abrir el directorio.
+3. Haz clic en la carpeta **URL Builder**.
+4. Haz clic en el botón `Import` para importar la plantilla.
+5. Descarga la plantilla ilustrada a continuación haciendo clic en el botón `Click here`.
+
+   ![ejemplo-plantilla](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/cms-portal-legado/layout/mapeo-de-url-redireccion-301_1.png)
+
+6. Completa los [campos de la plantilla](#campos-de-la-plantilla).
+7. Después de llenar la plantilla haz clic en el botón `Browse for file` en la pantalla de importación.
+8. Selecciona el archivo que deseas importar desde tu computadora. El archivo debe tener la extensión `.xls` y el formato `Excel 97-2003 Workbook`.
+9. Haz clic en el botón `Guardar archivo` para finalizar. Al guardar, un mensaje mostrará la cantidad de URLs agregadas.
 
 ### Campos de la plantilla
 
-- **Url from:** la URL que será redirigida. Esta URL no debe contener el dominio de la tienda. Ejemplo de cómo rellenarlo: `/ruta_en_mi_sitio_web_antiguo.html`.
-- **Url to:** la URL a la que se redirigirá la navegación. Esta URL no debe contener el dominio de la tienda. Ejemplo de cómo rellenarlo: `/ruta_en_mi_sitio_web_antiguo.html`.
-- **Active:** opción para determinar si el mapeo está activo o inactivo. Introduzca el valor `1` para activar y `0` para desactivar.
+- **Url from:** URL que será redirigida. Esta URL no debe contener el dominio de la tienda. Ejemplo de cómo completarlo: `/ruta_en_mi_sitio_web_antiguo.html`.
+- **Url to:** URL a la que se redirigirá la navegación. Esta URL no debe contener el dominio de la tienda. Ejemplo de cómo completarlo: `/ruta_en_mi_sitio_web_nuevo.html`.
+- **Active:** indica si el mapeo está activo o inactivo. Ingresa el valor `1` para activar y `0` para inactivar.
 - **Start date:** fecha en que se empezará a considerar el mapeo. El formato de la fecha debe ser `dd/mm/aaaa`.
 - **End date:** fecha en que se dejará de considerar el mapeo. El formato de la fecha debe ser `dd/mm/aaaa`.
+- **Remove:** opción para eliminar el mapeo. Ingresa el valor `1` para eliminar la URL.
+
+## Eliminar URLs mapeadas
+
+Puedes eliminar mapeos existentes [manualmente](#eliminar-manualmente) o [vía plantilla](#eliminar-via-plantilla).
+
+### Eliminar manualmente
+
+Para eliminar URLs manualmente sigue estos pasos:
+
+1. En el Admin VTEX, accede a **Storefront > Layout**.
+2. Haz clic en la carpeta **CMS** para abrir el directorio.
+3. Haz clic en la carpeta **URL Builder**.
+4. Selecciona la fila del mapeo que deseas eliminar.
+5. En el menú superior de URL Builder, haz clic en `Delete`.
+
+### Eliminar vía plantilla
+
+Para eliminar URLs vía plantilla sigue estos pasos:
+
+1. En el Admin VTEX, accede a **Storefront > Layout**.
+2. Haz clic en la carpeta **CMS** para abrir el directorio.
+3. Haz clic en la carpeta **URL Builder**.
+4. En el menú superior, haz clic en el botón `Export` para descargar la plantilla con las URLs existentes.
+5. En la columna **Remove** ingresa el valor `1` en las filas que deseas eliminar.
+6. Importa la plantilla en URL Builder siguiendo los pasos de la sección [Importar vía plantilla](#importar-via-plantilla).
