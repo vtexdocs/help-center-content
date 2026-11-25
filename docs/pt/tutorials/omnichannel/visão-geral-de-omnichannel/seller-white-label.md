@@ -37,7 +37,7 @@ Utilizar a conta franquia é estratégico para operações que desejam expandir 
 - **Conta:** pode ser do tipo conta franquia ou conta padrão.
 - **Seller:** pode ser do tipo comum ou white label.
 
-> ℹ️ Para adicionar um seller white label é necessário ter esse modelo previsto no contrato com a VTEX. Uma vez ajustado o contrato com o representante comercial da VTEX responsável por seu marketplace, solicite a adição de uma conta franquia por meio do nosso Suporte. Toda conta franquia é criada como seller white label e não é possível mudar o tipo de seller após a sua criação.
+> ℹ️ Para adicionar um seller white label, é necessário que esse modelo esteja previsto no contrato com a VTEX. Uma vez ajustado o contrato com o representante comercial da VTEX responsável pelo seu marketplace, solicite a adição de uma conta franquia por meio do nosso Suporte. Toda conta franquia é criada como seller white label e não é possível mudar o tipo de seller após a sua criação.
 
 ### Saiba mais
 

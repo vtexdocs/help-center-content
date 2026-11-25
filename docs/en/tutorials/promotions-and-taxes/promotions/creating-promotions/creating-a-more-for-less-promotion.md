@@ -70,7 +70,7 @@ For more information, see [Seller Opt-in for Promotions](https://developers.vtex
 ### Selecting sales channels for the discount
 
 Select the sales channels valid for the discount. You can offer discounts for sales channels where  
-[your store acts as a marketplace](/en/faq/o-que-e-um-marketplace) (My Store) or a seller (Third Party Stores - Fulfillment).
+[your store acts as a marketplace](/en/docs/tutorials/what-is-a-marketplace) (My Store) or a seller (Third Party Stores - Fulfillment).
 
 Choose from the following options:
 
@@ -170,7 +170,7 @@ To add a condition, follow the instructions below:
 
 - **Price list:** Restrict the promotion based on the presence or absence of a list price on the selected products.  
   Choose one of the options below:
-  - **Price list not defined:** Apply the promotion only to items with equal "full" and "discounted" values, which indicates that they don't have a [price list](/en/tutorial/precos-v2) configured.
+  - **Price list not defined:** Apply the promotion only to items with equal "full" and "discounted" values, which indicates that they don't have a [price list](/en/docs/tutorials/prices) configured.
   - **Price list defined:** Apply the promotion only to items with different "full" and "discounted" values, which indicates that they have a price list.
 
 ## Setting usage restrictions

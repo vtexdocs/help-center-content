@@ -21,7 +21,7 @@ O Mercado Pago has some exclusive payment methods, among which we can highlight 
 
 To use Mercado Pago's solutions, contact VTEX and request the installation of the “Mercado Pago Payment APP” application. If the application is not installed, your customer will not see the popup to complete the purchase at the end of the transaction.
 
-Likewise, make sure that sub-acquirers [MercadoPagoV1](/en/tutorial/configurar-o-subadquirente-mercadopagov1#) or [MercadoPagoV2](/en/tutorial/configurar-o-subadquirente-mercadopagov2) are registered in your store.
+Likewise, make sure that sub-acquirers [MercadoPagoV1](/en/tutorial/configurar-o-subadquirente-mercadopagov1#) or [MercadoPagoV2](/en/docs/tutorials/setting-up-mercadopagov2-sub-acquirer) are registered in your store.
 
 ## Setting up Mercado Pago Offline
 
@@ -45,7 +45,7 @@ To configure Mercado Pago Offline, follow these steps:
 <br>
   <li>If you choose to use antifraud, enable the **Use antifraud solution** option and choose one of the available antifraud options.</li>
   <br>
-  <li>You can also [configure payment special conditions](/en/tutorial/condicoes-especiais).</li>
+  <li>You can also [configure payment special conditions](/en/docs/tutorials/special-conditions).</li>
    <br> 
   <br>Click on **Save**.</li>
 </ol>
@@ -62,7 +62,7 @@ To configure Mercado Pago Wallet, follow these steps:
 5. Below, click on the __Status__ button to activate the rule.
 6. In __Process with affiliation__, select one of the options: MercadoPagoV1 or MercadoPagoV2.
 7. If you choose to use antifraud, enable the __Use antifraud solution__ option and choose one of the available antifraud options.
-8. You can also [configure payment special conditions](/en/tutorial/condicoes-especiais#).
+8. You can also [configure payment special conditions](/en/docs/tutorials/special-conditions#).
 9. Click on __Save__.
 
 After all settings are complete, wait up to 10 minutes for the MercadoPagoWallet option to be available at checkout.

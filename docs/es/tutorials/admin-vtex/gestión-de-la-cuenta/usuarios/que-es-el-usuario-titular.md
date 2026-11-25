@@ -36,9 +36,9 @@ Solo el usuario titular puede realizar estas acciones críticas de mantenimiento
 * Autenticar la cuenta en nuestros conectores nativos, como:
     * [Facebook](/es/docs/tracks/configuracion-del-conector-facebook)
     * [Google Shopping](/es/docs/tracks/autenticar-la-cuenta-google-shopping)
-    * [Mercado Libre](/es/docs/tracks/autorizar-la-integracion-de-mercado-libre-en-el-panel-de-vtex)
+    * [Mercado Libre](/es/docs/tutorials/autorizar-la-integracion-de-mercado-libre-en-el-panel-de-vtex)
 * [Aprobar solicitudes de cancelación de pedidos](/es/docs/tutorials/cancelacion-de-pedido-solicitada-por-el-cliente)
 
 Además, cuando VTEX necesita comunicar información importante sobre la tienda, como cambios de roles, dicha comunicación se lleva a cabo directa y exclusivamente con el usuario titular.
 
-> ℹ️ La creación de [credenciales de autenticación](/es/docs/tutorials/claves-de-api) (appKey/appToken) para integraciones de API ya no está restringida al usuario titular. Vea este [anuncio](/es/announcements/changes-in-the-name-and-restricted-actions-available-to-the-master-user) para saber más detalles sobre este cambio.
+> ℹ️ La creación de [credenciales de autenticación](/es/docs/tutorials/claves-de-api) (appKey/appToken) para integraciones de API ya no está restringida al usuario titular. Vea este [anuncio](/es/announcements/2021-11-08-cambios-en-el-nombre-y-acciones-restringidas-disponibles-para-el-usuario) para saber más detalles sobre este cambio.

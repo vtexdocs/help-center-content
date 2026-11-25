@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Este artigo busca ilustrar alguns cenários comuns de promoções e como configurá-los na VTEX. Estes cenários não contemplam todas as possibilidades de promoções da VTEX, pois as capacidades de configuração atendem a diversos tipos de situação. No fim do texto, você encontra uma lista de artigos relacionados ao menu de Promoções. Para conhecer esse menu, confira a nossa [trilha de Promoções](/pt/tracks/promotions--6asfF1vFYiZgTQtOzwJchR).
+Este artigo busca ilustrar alguns cenários comuns de promoções e como configurá-los na VTEX. Estes cenários não contemplam todas as possibilidades de promoções da VTEX, pois as capacidades de configuração atendem a diversos tipos de situação. No fim do texto, você encontra uma lista de artigos relacionados ao menu de Promoções. Para conhecer esse menu, confira a nossa [trilha de Promoções](/pt/docs/tutorials/promocoes-data-pipeline-beta).
 
 ## Cenário 1
 

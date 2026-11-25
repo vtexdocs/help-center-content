@@ -78,4 +78,4 @@ En resumen, la casilla **Aplique el descuento solo cuando el cliente seleccione 
 
 Durante la configuración en el módulo **Tasas y Promociones**, usted puede habilitar más de una transportadora para la misma promoción. Sin embargo, su cliente solo podrá seleccionar una transportadora al finalizar la compra.
 
-Otra posibilidad es configurar una promoción de flete creando una promoción de campaña. Para conocer las especificidades de flete en esta modalidad de descuento, [lea nuestro artículo](/es/tutorial/crear-promocion-de-campana--1ChYXhK2AQGuS6wAqS8Ume#).
+Otra posibilidad es configurar una promoción de flete creando una promoción de campaña. Para conocer las especificidades de flete en esta modalidad de descuento, [lea nuestro artículo](/es/docs/tutorials/promocion-de-campana#).

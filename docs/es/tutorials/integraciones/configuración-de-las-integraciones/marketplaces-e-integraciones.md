@@ -95,7 +95,7 @@ Una vez te hayas conectado a un marketplace, puedes editar la conexión siguiend
 Consulta la lista de tutoriales disponibles para la integración con los siguientes marketplaces:
 
 - [Amazon](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP)  
-- [Mercado Livre](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq)  
+- [Mercado Livre](/es/docs/tutorials/mercado-libre)  
 - [Facebook](/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc)  
 - [Google Shopping](/es/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw)  
 - [Google Shopping Ads](/es/tracks/como-fazer-campanhas-atraves-do-google-ads--47kz5PRQPK0IEaqGqiIuA)  

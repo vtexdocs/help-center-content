@@ -62,7 +62,7 @@ For more information, see [Seller Opt-in for Promotions](https://developers.vtex
 
 ### Sales channels
 
-In the right-hand corner of the page, in the section **Sales channels**, select the sales channels valid for the discount. You can give discounts for sales channels when [your store acts as a marketplace](/en/faq/o-que-e-um-marketplace) (**My store**) or as a seller (**Third-party stores - Fulfillment**).
+In the right-hand corner of the page, in the section **Sales channels**, select the sales channels valid for the discount. You can give discounts for sales channels when [your store acts as a marketplace](/en/docs/tutorials/what-is-a-marketplace) (**My store**) or as a seller (**Third-party stores - Fulfillment**).
 
 You can choose from the following options:
 
@@ -89,7 +89,7 @@ Determine the conditions and discount percentages to be applied. See the availab
 Conditions allow the promotion to activate under specific circumstances based on the selected criteria. To add a condition, follow the instructions below:
 
 - **Card BIN:** Apply this promotion when the customer uses cards from specific networks, banks, or categories identified by their BIN codes. Import a list of BINs saved in a TXT or CSV file, with each BIN on a separate row.
-- **Customer cluster:** select an already created [customer cluster](/en/tutorial/como-criar-um-cluster-de-clientes) in Master Data, following the field=value or field contains value format. Select one of the following options:
+- **Customer cluster:** select an already created [customer cluster](/en/docs/tutorials/how-can-i-create-cluster-of-customers) in Master Data, following the field=value or field contains value format. Select one of the following options:
   - **All of the following:** Apply the promotion only if all cluster criteria are met.
   - **At least one of the following:** Apply the promotion if at least one of the cluster criteria is met.
 - **Shipping location:** Apply the promotion based on the shipping address associated with the order. Conditions can be configured using the following criteria:

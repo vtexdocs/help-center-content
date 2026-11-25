@@ -10,7 +10,7 @@ locale: en
 
 In the VTEX Admin, you can define the default dimensions and maximum size (in KB) of files used in your store, primarily catalog product images. These settings affect image upload validation in the VTEX Admin and, in **CMS Portal (Legacy)** stores, also storefront features like zoom and thumbnails.
 
-> ⚠️ The **Maximum size in KB** validation on product/SKU image uploads in the catalog applies to [CMS Portal (Legacy)](https://help.vtex.com/docs/tracks/legacy-cms-portal) and [Store Framework](https://help.vtex.com/docs/tracks/frontend-implementation#store-framework) stores. Learn more in [Configuring zoom and thumbnails in CMS Portal (Legacy) stores](/docs/tutorials/configuring-zoom-and-thumbnails-in-cms-portal-legacy-stores).
+> ⚠️ The **Maximum size in KB** validation on product/SKU image uploads in the catalog applies to [CMS Portal (Legacy)](https://help.vtex.com/en/docs/tracks/legacy-cms-portal) and [Store Framework](https://help.vtex.com/en/docs/tracks/frontend-implementation#store-framework) stores. Learn more in [Configuring zoom and thumbnails in CMS Portal (Legacy) stores](/en/docs/tutorials/configuring-zoom-and-thumbnails-in-cms-portal-legacy-stores).
 
 ![List of file types in the Admin](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/store-settings---storefront/settings-file-types.png)
 
@@ -50,7 +50,7 @@ If the value is **0 KB** or too low, the Admin may reject the upload even when:
 
 - The file opens normally on the computer.
 - The same image uploads without errors in another account or environment.
-- The file follows the [general best practices for images in the catalog](/docs/tutorials/best-practices-for-using-images-in-the-catalog).
+- The file follows the [general best practices for images in the catalog](/en/docs/tutorials/best-practices-for-using-images-in-the-catalog).
 
 To fix blocked uploads, follow these steps:
 

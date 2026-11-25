@@ -37,11 +37,11 @@ In the case of __apps running on Webview__ on Android and iOS systems, we unders
 
 ### Progressive Web Apps
 
-With the __PWA__ solution, __you also don't need your own PCI certificate__. The [PWA](/en/tutorial/como-transformar-o-site-da-minha-loja-em-um-pwa) is a web application that is created on the mobile device using cached website data. That is, all that the end user sees is information obtained and executed in your store, which is in a safe and certified environment.
+With the __PWA__ solution, __you also don't need your own PCI certificate__. The [PWA](/en/docs/tutorials/how-to-turn-my-store-website-into-a-pwa) is a web application that is created on the mobile device using cached website data. That is, all that the end user sees is information obtained and executed in your store, which is in a safe and certified environment.
 
 
 ## VTEX Certification
 
 VTEX is certified by the __PCI DSS__ (Payment Card Industry Data Security Standard), which ensures that the data entered on the platform is secure. Our infrastructure, front-end, and back-end development processes undergo annual assessments for the renewal of the PCI DSS Certificate.
 
-See more details on the VTEX PCI certificate and how to add the PCI seal to the footer of your store [here](/en/tutorial/como-adicionar-o-selo-pci-ssc-a-minha-loja).
+See more details on the VTEX PCI certificate and how to add the PCI seal to the footer of your store [here](/en/docs/tutorials/how-do-i-add-the-pci-ssc-certificate).

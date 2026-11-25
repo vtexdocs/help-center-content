@@ -41,7 +41,7 @@ Los _sellers_ son las tiendas que tienen los productos y son responsables del _f
 - **_Seller_ VTEX:** tienda hospedada en la plataforma VTEX.  
 - **_Seller_ externo:** tienda hospedada en otra plataforma de _ecommerce_, o que aún no está hospedada en ninguna plataforma.  
 
-Para agregar _sellers_ a tu _marketplace_ por el Admin VTEX, sigue las instrucciones en [Agregar seller](/es/tutorial/adding-a-seller--tutorials_392/). También puedes realizar este proceso a través de la integración de la API. Para ello, siga las instrucciones en [External seller integration guide](https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide). Si el _seller_ que deseas agregar aún no tiene una cuenta VTEX o no está hospedado en ninguna plataforma, te sugerimos que lo agregues a través del [Seller Portal](#seller-portal)
+Para agregar _sellers_ a tu _marketplace_ por el Admin VTEX, sigue las instrucciones en [Agregar seller](/es/docs/tutorials/agregar-seller). También puedes realizar este proceso a través de la integración de la API. Para ello, siga las instrucciones en [External seller integration guide](https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide). Si el _seller_ que deseas agregar aún no tiene una cuenta VTEX o no está hospedado en ninguna plataforma, te sugerimos que lo agregues a través del [Seller Portal](#seller-portal)
 
 ### Seller Portal
 
@@ -60,7 +60,7 @@ El [catálogo](/es/docs/tracks/arquitectura-del-catalogo) de los _sellers_ que v
 
 Esto permite introducir los productos enviados por un _seller_ con la información equivalente en el catálogo del _marketplace_ VTEX. 
 
-Para realizar este paso, sigue las instrucciones en [Mapeo de categorías, marcas y especificaciones para marketplace](/es/tutorial/mapeando-categorias-e-marcas-para-marketplace/). 
+Para realizar este paso, sigue las instrucciones en [Mapeo de categorías, marcas y especificaciones para marketplace](/es/docs/tutorials/mapeo-de-categorias-y-marcas-para-marketplace). 
 
 ## Configurar la selección de sellers en el storefront y en el checkout
 
@@ -132,5 +132,5 @@ Ahora que has configurado la plataforma VTEX para convertirla en un marketplace,
 
 ## Sepa más
 
-- [Aprobar anuncios recibidos](/es/tutorial/sugerindo-e-aprovando-skus/)
+- [Aprobar anuncios recibidos](/es/docs/tutorials/catalogacion-manual-de-skus)
 - [Información compartida entre el marketplace y el seller en VTEX](/es/docs/tutorials/informacion-compartida-entre-el-marketplace-y-el-seller-en-vtex)

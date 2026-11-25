@@ -29,4 +29,4 @@ Atente-se às seguintes informações, para garantir que o faturamento foi feito
 
 ### Integração com marketplace
 
-Caso um pedido tenha sido faturado com sucesso no seu ERP, mas continue parado no status `Preparando Entrega`, pode ser que o produto esteja indisponível na API do marketplace. Neste caso, veja o artigo [O pedido foi faturado no ERP mas continua no status "Preparando Entrega". O que fazer?](/pt/faq/the-order-was-billed-in-the-erp-but-remains-in-the-preparing-delivery-status).
+Caso um pedido tenha sido faturado com sucesso no seu ERP, mas continue parado no status `Preparando Entrega`, pode ser que o produto esteja indisponível na API do marketplace. Neste caso, veja o artigo [O pedido foi faturado no ERP mas continua no status "Preparando Entrega". O que fazer?](/pt/faq/o-pedido-foi-faturado-no-erp-mas-continua-no-status-preparando-entrega).

@@ -18,7 +18,7 @@ Now, you can offer **Apple Pay Express Checkout V6** in your VTEX store. This pa
 
 ## What has changed?
 
-[Apple Pay](https://www.apple.com/apple-pay/) was previously available only for [FastCheckout](https://help.vtex.com/announcements/2024-04-03-fastcheckout-boost-your-conversion-with-the-new-checkout) stores. Now stores using Checkout V6 can also use it.
+[Apple Pay](https://www.apple.com/apple-pay/) was previously available only for [FastCheckout](https://help.vtex.com/en/announcements/2024-04-03-fastcheckout-boost-your-conversion-with-the-new-checkout) stores. Now stores using Checkout V6 can also use it.
 
 With this update, customers can use an express checkout experience without having to manually complete their information. When you select Apple Pay, your purchase can be confirmed in just a few clicks.
 
@@ -32,11 +32,11 @@ Payment authentication is done directly on the customer device, using Face ID, T
 **Apple Pay Express Checkout V6** has the following limitations in this version:
 
 - There is no support for installments or promotions from card networks.
-- It's not available for scheduled delivery or [pickup points](https://help.vtex.com/docs/tutorials/creating-pickup-points). In these cases, customers have to use other payment methods at checkout.
+- It's not available for scheduled delivery or [pickup points](https://help.vtex.com/en/docs/tutorials/creating-pickup-points). In these cases, customers have to use other payment methods at checkout.
 
 ## What needs to be done?
 
 The **Apple Pay Express Checkout V6** is currently in testing (closed beta). If you want to enable this payment method in your store, follow the steps below:
 
-1. Check with your chosen payment provider to see if they support credit card transactions using the [Device Primary Account Number (DPAN)](https://help.vtex.com/docs/tutorials/dpan-and-fpan-understanding-security-in-the-online-tokenized-payment-flow). Specific support for Apple Pay is not required. The only requirement is that the provider can process transactions with DPAN.
+1. Check with your chosen payment provider to see if they support credit card transactions using the [Device Primary Account Number (DPAN)](https://help.vtex.com/en/docs/tutorials/dpan-and-fpan-understanding-security-in-the-online-tokenized-payment-flow). Specific support for Apple Pay is not required. The only requirement is that the provider can process transactions with DPAN.
 2. Contact [VTEX Support](https://support.vtex.com/) to request the activation of **Apple Pay Express Checkout V6** in your store.

@@ -38,5 +38,5 @@ Para más detalles sobre esta configuración, consulte la [documentación](https
 
 Cuando haya completado los pasos indicados, Tuna estará configurado en su tienda. Así, cuando registre una condición de pago, esta estará disponible en el campo **Procesar con proveedor** (siempre y cuando el método de pago sea compatible con **Tuna**).
 
-Para ver cómo configurar condiciones de pago, acceda al artículo [Configurar condiciones de pago](/es/tutorial/condicoes-de-pagamento).
+Para ver cómo configurar condiciones de pago, acceda al artículo [Configurar condiciones de pago](/es/docs/tutorials/condiciones-de-pago).
 

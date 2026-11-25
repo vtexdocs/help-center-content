@@ -30,13 +30,13 @@ Para saber como operar as funcionalidades configuradas, confira o guia [Como uti
 
 Antes de iniciar uma operação de televendas na sua loja, operadores de televendas e atendimento ao cliente precisam ser cadastrados no **Configurações da conta** com o perfil de acesso Call Center Operator.
 
-Confira o tutorial [Como criar um usuário de televendas](/pt/docs/tutorials/como-criar-um-usuario-de-televendas) para saber mais sobre esse processo.
+Confira o tutorial [Como criar um usuário de televendas](/pt/docs/tutorials/criar-usuario-de-televendas) para saber mais sobre esse processo.
 
 Após essa configuração, usuários que fizerem login com um email cadastrado nesse perfil serão redirecionados para a página inicial da loja, onde a [Toolbar de televendas](/pt/docs/tutorials/toolbar-de-televendas) será exibida.
 
 Usuários com o perfil de televendas (Call Center operator) também podem visualizar, acompanhar e realizar alterações nos pedidos realizados na loja a partir do Admin, na página [Todos os pedidos](/pt/docs/tutorials/todos-os-pedidos).
 
-Para entender todos os perfis de acesso disponíveis na sua loja, leia o artigo [Perfis de acesso](/pt/tutorial/como-criar-perfil-de-acesso).
+Para entender todos os perfis de acesso disponíveis na sua loja, leia o artigo [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso).
 
 ## Configurar a Toolbar de televendas
 
