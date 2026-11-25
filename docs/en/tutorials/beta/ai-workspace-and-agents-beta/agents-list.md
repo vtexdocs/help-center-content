@@ -1,7 +1,7 @@
 ---
 title: 'VTEX Agents list'
 createdAt: 2026-11-24T12:00:00.000Z
-updatedAt: 2026-11-24T12:00:00.000Z
+updatedAt: 2026-11-25T00:00:00.000Z
 contentType: tutorial
 productTeam: AI Workspace
 slugEN: agents-list
@@ -18,7 +18,7 @@ This is a list of VTEX [AI agents](https://help.vtex.com/en/docs/tutorials/ai-wo
 | [Contract Manager Agent](https://help.vtex.com/en/docs/tutorials/contract-manager-agent) | Admin |
 | Buyer Organization Agent | Admin |
 | Promotions Agent | AI Workspace |
-| Catalog Agent | AI Workspace |
+| [Catalog Agent](https://help.vtex.com/en/docs/tutorials/catalog-agent) | AI Workspace |
 | [Data Insights Agent](https://help.vtex.com/en/docs/tutorials/data-insights-agent) | AI Workspace |
 | Search Optimization Agent | Admin, AI Workspace |
 | Storefront Insights Agent | AI Workspace |
