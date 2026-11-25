@@ -17,7 +17,7 @@ subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 
 > ⚠️ This documentation applies to B2B Suite only.
 
-The [price tables](/en/tutorial/criar-tabelas-de-precos) in a VTEX B2B operation are essential for customizing the commercial conditions offered to different organizations. They allow you to:
+The [price tables](/en/docs/tutorials/creating-price-tables) in a VTEX B2B operation are essential for customizing the commercial conditions offered to different organizations. They allow you to:
 
 - Define specific prices for products.
 - Create and manage multiple price tables.

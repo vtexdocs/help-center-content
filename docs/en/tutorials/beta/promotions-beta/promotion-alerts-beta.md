@@ -94,4 +94,4 @@ Then, the alert will have been successfully duplicated.
 ## Learn more
 
 - [Promotion Alert: How to create a promotion alert](/en/docs/tutorials/promotion-alerts-how-to-create-an-alert-beta)
-- [How promotions work](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR)
+- [How promotions work](/en/docs/tracks/promotions)

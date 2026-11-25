@@ -63,6 +63,6 @@ To better understand the meaning of each category registration field, see the fu
 - [What is a Category?](/en/docs/tutorials/what-is-a-category)
 - [What is a Department?](/en/docs/tutorials/what-is-a-department)
 - [What is a Subcategory?](/en/docs/tutorials/what-is-a-subcategory)
-- [Cleaning store's data base](/en/tutorial/understanding-how-to-maintain-a-database)
+- [Cleaning store's data base](/en/docs/tutorials/database-maintenance-full-cleanup)
 - [Registering a product](/en/tutorial/registering-a-product)
 - [Registering an SKU](/en/docs/tracks/adding-skus)

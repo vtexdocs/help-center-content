@@ -68,7 +68,7 @@ To add an unidentifiable seller, aka [white label seller](/en/docs/tutorials/whi
 
 > ℹ️ In the new version of the page, released on 2022, we have removed the Catalog Endpoint field from the screen, as it is no longer needed for integration with new sellers. If necessary, it is still possible to manage the fields via API.
 
-Once you have filled out the form and clicked **Save**, your seller will be added to the marketplace. To complete your store's configuration as a marketplace, you must also [map brands, categories, and specifications from the seller's catalog](/en/tutorial/mapeando-categorias-e-marcas-para-marketplace/) and [approve the ads added](/en/tutorial/sugerindo-e-aprovando-skus/).
+Once you have filled out the form and clicked **Save**, your seller will be added to the marketplace. To complete your store's configuration as a marketplace, you must also [map brands, categories, and specifications from the seller's catalog](/en/docs/tutorials/mapping-categories-and-brands-for-the-marketplace) and [approve the ads added](/en/docs/tutorials/manual-sku-cataloging).
 
 ## Learn more
 

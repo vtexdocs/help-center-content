@@ -3,7 +3,7 @@ title: '¿Cómo funciona el reintento del gateway de pagos?'
 id: 2JaHsjQIs0ceks0e2Mkwgu
 status: PUBLISHED
 createdAt: 2019-01-24T21:38:42.128Z
-updatedAt: 2019-12-31T15:27:07.836Z
+updatedAt: 2026-09-24T19:30:00.000Z
 publishedAt: 2019-12-31T15:27:07.836Z
 firstPublishedAt: 2019-01-24T21:38:42.460Z
 contentType: tutorial
@@ -28,6 +28,5 @@ A continuación, siguen los casos en que el gateway de VTEX realiza los reintent
 
 ## Artículos relacionados
 
-- [¿Qué es un gateway de pagos?](/es/docs/tutorials/que-es-un-gateway-de-pagos)
+- [Agentes financieros en el flujo de pago](/es/docs/tutorials/agentes-financieros-en-el-flujo-de-pago)
 - [Diferencia entre medios de pago y condiciones de pago](/es/docs/tutorials/diferencia-entre-medios-de-pago-y-condiciones-de-pago)
-- [¿Qué es un adquirente?](/es/docs/tutorials/que-es-un-adquirente)

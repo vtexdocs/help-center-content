@@ -30,4 +30,4 @@ Aprimoramos a configuração de promoções por assinatura para tornar sua cria�
 ## O que precisa ser feito? 
 Nenhuma ação é necessária, a alteração é automática para todas as lojas VTEX. Promoções criadas anteriormente, no formato sem valor numérico, continuam funcionando com a configuração original.
 
-Para saber mais, leia os artigos [Criar uma promoção por assinatura](/pt/docs/tutorials/como-criar-uma-promocao-por-assinatura) e [Plano de assinatura](/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC?&utm_source=autocomplete).
+Para saber mais, leia os artigos [Criar uma promoção por assinatura](/pt/docs/tutorials/como-criar-uma-promocao-por-assinatura) e [Plano de assinatura](/pt/docs/tutorials/como-criar-um-plano-de-assinatura?&utm_source=autocomplete).

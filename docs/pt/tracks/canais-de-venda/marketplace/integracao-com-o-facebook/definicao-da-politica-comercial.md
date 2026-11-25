@@ -3,7 +3,7 @@ title: 'Definição da política comercial'
 id: 747gwmk5oMkyb6FtwLo17B
 status: PUBLISHED
 createdAt: 2021-02-08T19:01:29.489Z
-updatedAt: 2025-01-09T15:49:24.916Z
+updatedAt: 2026-09-28T20:45:00.000Z
 publishedAt: 2025-01-09T15:49:24.916Z
 firstPublishedAt: 2021-02-08T20:10:25.219Z
 contentType: trackArticle
@@ -22,6 +22,6 @@ Uma mesma política comercial pode ser compartilhada entre sua loja VTEX e um ou
 - Oferecer uma seleção diferente de produtos no Facebook.
 - Enviar preços diferentes para o Facebook.
 
-Para [contratar políticas comerciais adicionais](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional), basta solicitar via ticket em nosso [Suporte](https://supporticket.vtex.com/support) selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
+Você pode [criar uma nova política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) diretamente pelo Admin VTEX, sem precisar abrir um ticket de suporte. Em caso de dúvidas, abra um chamado para o [Suporte VTEX](https://supporticket.vtex.com/support) selecionando a opção **Comercial**.
 
-Para cada política comercial adicional, é cobrado um valor mensal, seja ela utilizada para integração com marketplaces certificados, parceiros, externos ou VTEX. 
+Para cada política comercial adicional, é cobrado um valor mensal, seja ela utilizada para integração com marketplaces certificados, parceiros, externos ou VTEX. Saiba mais sobre custos e condições em [Contratação de política comercial adicional](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional).

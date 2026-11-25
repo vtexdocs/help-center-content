@@ -1,12 +1,12 @@
 ---
 title: 'Configurar pagamentos com Promissória'
 createdAt: 2018-06-21T20:20:24.484Z
-updatedAt: 2025-02-26T18:35:04.108Z
+updatedAt: 2026-11-23T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 245tA425AIeioKAk2eaiwS
 slugEN: setting-up-payments-with-notes-payable
 locale: pt
+hidden: false
 ---
 
 Na VTEX, sua loja pode receber pagamentos por meio de promissórias customizadas. Para isso, você deve seguir os seguintes passos:
@@ -40,9 +40,12 @@ Após cadastrar o provedor de pagamento, siga os passos abaixo:
 - **Autorizar automaticamente:** Autorize ou não os pagamentos de forma automática. Recomendamos essa opção somente para casos em que o pagamento é feito na entrega ou retirada do pedido na loja. Ao escolher Yes, o status do pedido muda automaticamente para Preparando Entrega, sem passar por nenhuma verificação de pagamento.
 - **Modificar margem:** Margem percentual permitida para alteração no valor do pagamento realizado com promissória. Para alguns clientes, pode ser importante autorizar mudanças nos pedidos ([change order](https://help.vtex.com/pt/docs/tutorials/como-funciona-a-alterar-pedido)). Nesse caso, o campo **Modificar margem** deve ser preenchido para determinar a margem percentual de alteração permitida.
 - **Ativar divisão de pagamento:** Escolha se utilizará a solução de [split de pagamentos](/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx?&utm_source=autocomplete). Caso opte por essa opção, quando a venda envolver lojas do marketplace, a promissória será dividida entre os sellers e o marketplace.
-- **Faturamento automático:** Quantidade de dias para faturamento automático da promissória após autorização. Promissórias são faturadas no momento da autorização do pagamento. Ao configurar esse campo, o faturamento deixará de acontecer na autorização e passará a ser feito após o número de dias definido pelo cliente.
+- **Faturamento automático:** Quantidade de dias para faturamento automático da promissória após autorização. Por padrão, esse campo vem configurado com 15 dias, ou seja, as promissórias são faturadas 15 dias após a autorização do pagamento. Você pode alterar esse valor para definir um número de dias diferente, de 1 a 30.
 
 5. Clique em `Salvar`.
+
+> ⚠️ O Admin VTEX permite configurar até 20 promissórias customizadas por padrão. Para ampliar esse limite (máximo de 100 por conta), abra um ticket no [Suporte VTEX](https://supporticket.vtex.com/support).
+
 
 
 ## Configurar condição de pagamento

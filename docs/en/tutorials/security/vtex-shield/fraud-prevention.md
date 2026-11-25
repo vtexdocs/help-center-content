@@ -1,16 +1,16 @@
 ---
-title: 'Fraud Prevention (Beta)'
+title: 'Fraud Prevention'
 createdAt: 2026-03-27T00:00:00.000Z
-updatedAt: 2026-03-27T00:00:00.000Z
+updatedAt: 2026-10-13T20:27:00.000Z
 contentType: tutorial
 productTeam: Others
 slugEN: fraud-prevention
 locale: en
 ---
 
->ℹ️ This feature is part of [VTEX Shield](https://help.vtex.com/en/docs/tutorials/vtex-shield). If you're a VTEX client and would like to adopt VTEX Shield for your business, please contact [Commercial Support](https://help.vtex.com/en/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client yet but are interested in this solution, please complete our [contact form](https://vtex.com/en-us/contact-us/).
+**Fraud Prevention** is a security feature that is part of [VTEX Shield](https://help.vtex.com/en/docs/tutorials/vtex-shield) and is available to all accounts. It protects your store against card testing attacks.
 
-**Fraud Prevention** is a feature of **VTEX Shield** that protects your store against card testing attacks.
+>ℹ️ To learn about the other [VTEX Shield](https://help.vtex.com/en/docs/tutorials/vtex-shield) features, please contact [Commercial Support](https://help.vtex.com/en/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client yet but are interested in this solution, please complete our [contact form](https://vtex.com/en-us/contact-us/).
 
 Card testing attacks happen when fraudsters try several combinations of stolen cards in a short period of time to identify which ones are active. This can lead to a high volume of failed payment attempts, additional costs with acquirers and anti-fraud solutions, and negative impact on store operations.
 
@@ -48,19 +48,13 @@ The **Detection history** table displays the details of the analyzed attempts:
 | Suggested action | Action recommended by the fraud analysis system for the transaction attempt, based on the identified risk. By default, for a score of 0.9 or higher, the suggested action is to block the transaction. However, this setting can be modified when you add the feature or by contacting [Support](https://help.vtex.com/en/docs/tutorials/opening-tickets-to-vtex-support). |
 | Fraud score | Score from 0 to 1 indicating the probability of fraud. The closer to 1, the higher the probability. |
 
-This page allows you to do the following:
-
-* [Filter transaction attempts by period](#filter-transaction-attempts-by-period)
-* [Activate blocking](#activating-blocking)
-* [Deactivate blocking](#deactivating-blocking)
-
 ## Required permissions
 
-To access and manage the Fraud Prevention feature, the user must have a [role](https://help.vtex.com/en/docs/tutorials/roles) with the [License Manager features](https://help.vtex.com/en/docs/tutorials/license-manager-resources) listed below:
+To access the Fraud Prevention feature, the user must have a [role](https://help.vtex.com/en/docs/tutorials/roles) with the [License Manager resource](https://help.vtex.com/en/docs/tutorials/license-manager-resources) listed below:
 
 * **Product:** *Fraud Prevention*
 * **Category:** *Transaction Attempts*
-* **Resources:** *View transaction attempts* and *Edit transaction attempt action settings*
+* **Resource:** *View transaction attempts*
 
 ## Filter transaction attempts by period
 
@@ -74,25 +68,6 @@ To change the period, click the current period and then select the desired optio
 * Custom: Select the start date and end date, then click Apply.
 
 The list will be automatically updated with the transaction attempts in the selected period.
-
-## Activating blocking
-
-To activate automatic blocking of high-risk transactions:
-
-1. Click the **⋮** menu.
-2. Click **Activate blocking**.
-
-After that, any transaction considered suspicious may be automatically blocked based on the algorithm configuration.
-
-## Deactivating blocking
-
-To deactivate automatic blocking:
-
-1. Click the **⋮** menu.
-2. Click **Deactivate blocking**.
-3. Click **Confirm**.
-
-Attempts will continue to be analyzed and displayed in the history but won't be blocked automatically. When automatic blocking is deactivated, the feature operates in watch mode, recording and analyzing attempts without preventing checkout.
 
 ## Learn more
 

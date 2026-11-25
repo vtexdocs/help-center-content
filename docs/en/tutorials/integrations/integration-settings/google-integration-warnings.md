@@ -38,7 +38,7 @@ When a product has the status **Processed with error or Processed with warning**
 Below are the required fields and how to complete them:  
 
 **Price:** Required field that must be completed by entering the price type you want to display in Google Shopping.
-To identify the SKU price integration error with Google, see the documentation [Checking integrations](/en/tutorial/verificando-integracao-no-bridge/#preco).  
+To identify the SKU price integration error with Google, see the documentation [Checking integrations](/en/docs/tutorials/checking-integrations-in-bridge#preco).  
 
 **Availability:** Required field. If the integration of a SKU shows an error, see [Inventory management](/en/docs/tutorials/managing-stock-items) and [Warehouse](/en/docs/tutorials/warehouse).   
 
