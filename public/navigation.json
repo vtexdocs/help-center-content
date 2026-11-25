@@ -39858,12 +39858,12 @@
             {
               "name": {
                 "en": "Bid Monitor (bid competitiveness)",
-                "es": "Bid Monitor (competitividad de pujas)",
+                "es": "Bid Monitor (competitividad de ofertas)",
                 "pt": "Bid Monitor (competitividade de lances)"
               },
               "slug": {
                 "en": "bid-monitor-bid-competitiveness",
-                "es": "bid-monitor-competitividad-de-pujas",
+                "es": "bid-monitor-competitividad-de-ofertas",
                 "pt": "bid-monitor-competitividade-de-lances"
               },
               "origin": "",
@@ -41479,12 +41479,12 @@
             {
               "name": {
                 "en": "Insert SKU File API doesnt accept URLs from servers that require \"User-Agent\" header",
-                "es": "La API de inserción de archivos SKU no acepta URL de servidores que requieran el encabezado \"User-Agent\".",
-                "pt": "A API Insert SKU File não aceita URLs de servidores que exigem o cabeçalho \"User-Agent\""
+                "es": "La API Insertar archivo SKU no acepta URL de servidores que requieren el encabezado \"User-Agent\".",
+                "pt": "A API Insert SKU File não aceita URLs de servidores que exigem o cabeçalho \"User-Agent\"."
               },
               "slug": {
                 "en": "insert-sku-file-api-doesnt-accept-urls-from-servers-that-require-useragent-header",
-                "es": "la-api-de-insercion-de-archivos-sku-no-acepta-url-de-servidores-que-requieran-el-encabezado-useragent",
+                "es": "la-api-insertar-archivo-sku-no-acepta-url-de-servidores-que-requieren-el-encabezado-useragent",
                 "pt": "a-api-insert-sku-file-nao-aceita-urls-de-servidores-que-exigem-o-cabecalho-useragent"
               },
               "origin": "",
