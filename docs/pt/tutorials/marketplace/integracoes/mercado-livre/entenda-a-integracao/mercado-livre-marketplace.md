@@ -15,6 +15,8 @@ trackSlugEN: configurar-integracao-do-mercado-livre
 order: 1
 ---
 
+> ℹ️ Teste o novo agente de ativação de canais para integrar sua loja ao Mercado Livre e começar a vender mais rápido, com um passo a passo guiado e respostas para todas as suas dúvidas. Para participar dos testes entre em contato com o time de [suporte VTEX](https://supporticket.vtex.com/support).
+
 O [Mercado Livre](https://www.mercadolivre.com.br/) é um dos líderes do e-commerce na América Latina, oferecendo soluções de comércio eletrônico para que pessoas e empresas possam comprar, vender, pagar, anunciar e enviar produtos por meio da internet. 
 
 Sua operação está presente nos países: Argentina, Brasil, Chile, Colômbia,  México, Uruguai e Venezuela.

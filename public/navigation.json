@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Channel Activation Assistant for Mercado Libre in Closed Beta",
+                    "es": "Asistente de activación Mercado Libre en closed beta",
+                    "pt": "Assistente de ativação Mercado Livre em closed beta"
+                  },
+                  "slug": {
+                    "en": "2026-11-19-agente-de-onboarding-mercado-livre-em-closed-beta",
+                    "es": "2026-11-19-agente-de-onboarding-mercado-livre-em-closed-beta",
+                    "pt": "2026-11-19-agente-de-onboarding-mercado-livre-em-closed-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Bid Monitor now available in Open Beta in VTEX Ads",
                     "es": "Bid Monitor disponible en Open Beta en VTEX Ads",
                     "pt": "Bid Monitor disponível em Open Beta no VTEX Ads"

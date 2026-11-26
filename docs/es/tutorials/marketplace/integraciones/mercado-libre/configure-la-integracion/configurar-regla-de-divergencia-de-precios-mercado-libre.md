@@ -15,6 +15,8 @@ trackSlugEN: configurar-integracion-con-mercado-libre
 order: 5
 ---
 
+> ℹ️ Prueba el nuevo agente de activación de canales para integrar tu tienda a Mercado Libre y empezar a vender más rápido, con un paso a paso guiado y respuestas a todas tus dudas. Para participar de las pruebas, ponte en contacto con el equipo de [soporte VTEX](https://supporticket.vtex.com/support).
+
 Cuando se utiliza una integración con _marketplaces_ como Mercado Libre, a veces se produce una variación entre el precio fijado por el vendedor y el ofrecido por el _marketplace_, lo que resulta en pedidos con valores diferentes a los esperados. Esto puede resultar en pedidos con errores de divergencia de precios.
 
 En el Admin VTEX, en **Configuración de la tienda > Pedidos > Autorización de pedidos**, la [regla de Divergencia de precios](/es/docs/tutorials/regla-de-divergencia-de-precios) permite controlar los pedidos con divergencia de valores. Solo usuarios con los [roles](/es/docs/tutorials/roles) Admin Super (_Owner_) o OMS Full pueden configurar esta funcionalidad, siguiendo las instrucciones descritas en [Configuración de regla de Divergencia de precios](/es/docs/tutorials/configuracion-de-regla-de-divergencia-de-valores).

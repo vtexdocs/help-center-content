@@ -15,6 +15,8 @@ trackSlugEN: configurar-integracao-do-mercado-livre
 order: 11
 ---
 
+> ℹ️ Teste o novo agente de ativação de canais para integrar sua loja ao Mercado Livre e começar a vender mais rápido, com um passo a passo guiado e respostas para todas as suas dúvidas. Para participar dos testes entre em contato com o time de [suporte VTEX](https://supporticket.vtex.com/support).
+
 Antes de iniciar a leitura deste artigo, confira a tabela abaixo para compreender os termos específicos da funcionalidade **Publicação de produtos Mercado Livre**.
 
 | Termo | Significado |

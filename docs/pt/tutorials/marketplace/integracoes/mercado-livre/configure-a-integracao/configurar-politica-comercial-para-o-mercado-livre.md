@@ -15,6 +15,8 @@ trackSlugEN: configurar-integracao-do-mercado-livre
 order: 4
 ---
 
+> ℹ️ Teste o novo agente de ativação de canais para integrar sua loja ao Mercado Livre e começar a vender mais rápido, com um passo a passo guiado e respostas para todas as suas dúvidas. Para participar dos testes entre em contato com o time de [suporte VTEX](https://supporticket.vtex.com/support).
+
 Na VTEX, uma [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) é o que determina o sortimento de produtos, preços e estratégia de envio em um canal de venda. Ou seja, é por meio da política comercial que você define as configurações que serão aplicadas aos seus produtos no Mercado Livre. Na integração com o Mercado Livre, é necessário ter uma política comercial diferente para cada [tipo de anúncio](/pt/docs/tutorials/tipos-de-anuncio-classico-e-premium).
 
 Se as mesmas configurações de catálogo, preço e estratégia de envio da sua loja VTEX forem utilizadas no Mercado Livre, não é preciso [criar uma política](/pt/docs/tutorials/criar-uma-politica-comercial) comercial nova, porque uma mesma política comercial pode ser usada para diferentes canais de venda.
