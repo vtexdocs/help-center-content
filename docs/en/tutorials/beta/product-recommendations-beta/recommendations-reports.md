@@ -16,7 +16,7 @@ The feature is available to all clients who already have [Product recommendation
 
 To access it in the VTEX Admin, go to _Storefront > Recommendations_ and click the **Reports** tab.
 
-![recommendation-reports](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/recomendações-de-produtos-beta/relatorios-de-recomendacoes_1.png)
+![recommendation-reports](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/product-recommendations-beta/recommendations-reports_1.png)
 
 ## Requirements
 
@@ -61,7 +61,7 @@ You can create a report for a custom period.
 3. Click **Create report**.
 4. In the **Create report** modal, select one of the predefined periods (**Yesterday**, **Last 7 days**, or **Last 28 days**) or define a custom range in **Start date**.
 
-   ![create-report](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/recomendações-de-produtos-beta/relatorios-de-recomendacoes_2.png)
+   ![create-report](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/product-recommendations-beta/recommendations-reports_2.png)
 
 5. Click `Create`.
 

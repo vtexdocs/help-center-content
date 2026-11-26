@@ -16,7 +16,7 @@ El recurso está disponible para todos los clientes con las [Recomendaciones de 
 
 Para acceder en el Admin VTEX, navega a _Storefront > Recomendaciones_ y haz clic en la pestaña **Informes**.
 
-![informes-de-recomendaciones](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/recomendações-de-produtos-beta/relatorios-de-recomendacoes_1.png)
+![informes-de-recomendaciones](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/recomendaciones-de-productos-beta/informes-de-recomendaciones_1.png)
 
 ## Requisitos
 
@@ -61,7 +61,7 @@ Puedes crear un informe para un periodo personalizado.
 3. Haz clic en **Crear informe**.
 4. En la ventana **Crear informe**, selecciona uno de los periodos predefinidos (**Ayer**, **Últimos 7 días** o **Últimos 28 días**) o define un rango personalizado en **Fecha de inicio**.
 
-   ![crear-informe](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/recomendações-de-produtos-beta/relatorios-de-recomendacoes_2.png)
+   ![crear-informe](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/recomendaciones-de-productos-beta/informes-de-recomendaciones_2.png)
 
 5. Haz clic en `Crear`.
 
