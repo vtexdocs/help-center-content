@@ -31,14 +31,58 @@ Para ver o passo a passo completo de como realizar cada ação, veja a documenta
 
 ## Alterações pelo Admin VTEX e API
 
-Existem duas vias pelas quais um pedido pode ser alterado, veja os detalhes na tabela a seguir:
+Existem duas vias pelas quais um pedido pode ser alterado:
 
-| Como alterar | Descrição | Status que admite alteração |
-|---|--- |--- |
-| Via Admin VTEX | A alteração é feita pela [página de detalhes do pedido](/pt/docs/tutorials/pagina-de-detalhes-do-pedido), que pode ser acessada em **Pedidos > Todos os pedidos**, selecionando o pedido desejado.Também é possível acessar o pedido usando a barra de busca no topo do Admin VTEX. Para isso, clique sobre a barra, selecione a opção **Pedidos** e utilize algum dos seguintes critérios:<ul><li>ID do pedido</li><li>Nome do cliente</li><li>Email do cliente</li><li>Documento do cliente</li></ul>**Artigo no Help Center:** [Como alterar pedidos](/pt/docs/tutorials/como-alterar-pedidos) | <ul><li>`preparando entrega`</li></ul> |
-| Via API | Altera pelos endpoints:<ul><li>[Create order modifications](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes)</li><li>[Preview order modifications](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/preview)</li><li>[Get order modifications detail](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-)</li><li>[Get order modifications history](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/-changeOrderId-/changes)</li><li>[Retry order modifications](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-/retry)</li><li>[Cancel order modifications](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-/cancel)</li><li>[Get Order modifications settings](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/changes/settings)</li><li>[Update Order modifications settings](https://developers.vtex.com/docs/api-reference/orders-api#put-/api/order-system/orders/changes/settings)</li></ul> | <ul><li>`handling`</li><li>`waiting-for-fulfillment`</li><li>`ready for invoicing`</li></ul> |
+- [Pelo Admin VTEX](#pelo-admin-vtex)
+- [Por API](por-api)
+
+### Pelo Admin VTEX
+
+> ⚠️ Apenas pedidos com status `preparando entrega` podem ser alterados pelo Admin VTEX.
+
+Essa alteração no Admin VTEX é feita pela [página de detalhes do pedido](/pt/docs/tutorials/pagina-de-detalhes-do-pedido), que pode ser acessada em **Pedidos > Todos os pedidos**, selecionando o pedido desejado.
+
+Também é possível acessar o pedido usando a barra de busca no topo do Admin VTEX. Para isso, siga os passos a seguir:
+
+1. Clique sobre a barra.
+2. Selecione a opção **Pedidos**.
+3. Escreva na barra de busca utilizando algum dos seguintes critérios:
+  - ID do pedido
+  - Nome do cliente
+  - Email do cliente
+  - Documento do cliente
+
+Para mais informações, leia o artigo [Como alterar pedidos](/pt/docs/tutorials/como-alterar-pedidos).
+
+### Por API
+
+> ℹ️ Por API, a alteração de pedidos não é bloqueada pelo status do pedido. A solicitação é validada de acordo com a alteração, conforme descrito na seção [Restrições](#restrições). Por isso, um pedido em qualquer status pode ser modificado, desde que não se enquadre em nenhuma das restrições.
+
+Para alterar pedidos, visualizar alterações feitas ou ajustar as configurações de alteração de pedidos por API, você pode usar os endpoints a seguir.
+
+- [Create order modifications](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes).
+- [Preview order modifications](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/preview).
+- [Get order modifications detail](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-).
+- [Get order modifications history](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/-changeOrderId-/changes).
+- [Retry order modifications](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-/retry).
+- [Cancel order modifications](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-/cancel).
+- [Get Order modifications settings](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/changes/settings).
+- [Update Order modifications settings](https://developers.vtex.com/docs/api-reference/orders-api#put-/api/order-system/orders/changes/settings).
 
 O histórico de alterações do pedido fica registrado na sua [página de detalhes](/pt/docs/tutorials/pagina-de-detalhes-do-pedido), na seção **Histórico de itens alterados**. Para consultar essa informação por API, utilize o endpoint [Get order modifications history](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/-changeOrderId-/changes).
+
+#### Restrições
+
+Não é possível modificar um pedido que se enquadre em um dos cenários abaixo:
+
+| Restrição | Descrição |
+|---|---|
+| Pagamento já liquidado | **[CONFIRMAR]** Pedidos com o pagamento já liquidado não podem ser modificados. Verificar se isso invalida o cenário atual do artigo (cartão de crédito + Adyen com reembolso parcial). |
+| Pedidos sem workflow | Pedidos que não têm workflow associado não podem ser modificados. |
+| Chain orders | Pedidos do tipo *chain order* não podem ser modificados. |
+| Pagamento dividido (*split payment*) | **[CONFIRMAR]** Pedidos com [pagamento dividido](/pt/docs/tutorials/split-payment) não podem ser modificados. Isso contradiz a linha atual do artigo sobre marketplaces com mais de um seller e pagamento. |
+| Múltiplos docks | Pedidos com itens em mais de um dock não podem ser modificados. |
+| Pedidos incompletos | Não é possível modificar [pedidos incompletos](/pt/docs/tutorials/understanding-incomplete-orders). |
 
 ## Características gerais
 
@@ -71,5 +115,5 @@ Veja na tabela abaixo mais informações sobre pagamento e fatura na alteração
 | Alteração de pedido liquidado | No [fluxo de transação](/pt/docs/tracks/fluxo-de-uma-transacao), o pedido pode ser alterado no status `settled` (liquidado), desde que cumpra as seguintes condições:<ul><li>O pedido foi feito com um cartão de crédito.</li><li>A liquidação do pagamento ocorre antes do pedido ser faturado.</li><li>O conector de pagamento está configurado para permitir reembolsos parciais. Atualmente, a [Adyen](/pt/tutorial/configuring-payment-with-adyenv3--7xAz67E2Eg63LWCQNjVdwv) é o único conector de pagamento que suporta essa operação.</li></ul>Pedidos em que a transação se encontra com status `finished` (concluído) não podem ser alterados. |
 | Transação compartilhada entre sellers e marketplace | É possível alterar pedidos que envolvem mais um de seller e pagamentos no ambiente do marketplace, ou seja, cenários com [split de pagamento](/pt/docs/tutorials/split-de-pagamento). |
 | Descontos | Não é possível alterar o pedido aplicando descontos maiores ou iguais ao valor total do pedido original. |
-| Fatura | Com relação à [fatura](/pt/docs/tracks/faturar-um-pedido), a alteração de pedidos se comporta da seguinte forma:<ul><li>Se o pedido já foi [faturado](/pt/docs/tutorials/faturar-um-pedido-manualmente) por completo, ele não pode mais ser alterado.</li><li>Pedidos ainda não faturados ou apenas [parcialmente faturados](/pt/docs/tracks/faturas-parciais) podem sim ser alterados.</li><li>O valor das faturas parciais do pedido alterado precisa ser igual ou maior que o valor de uma fatura já emitida.</li><li>Se o valor total do pedido alterado for menor do que o valor de uma fatura já emitida, ele não pode ser alterado.</li></ul>Em geral, é o faturamento do pedido que deflagra a liquidação do pagamento. Este comportamento é diferente para lojas que configuraram a [liquidação automática](/pt/docs/tutorials/configurar-tempo-maximo-para-liquidacao-automatica). |
+| Fatura | Com relação à [fatura](/pt/docs/tracks/faturar-um-pedido), a alteração de pedidos se comporta da seguinte forma:<ul><li>Pedidos ainda não faturados ou apenas [parcialmente faturados](/pt/docs/tracks/faturas-parciais) podem ser alterados.</li><li>O valor das faturas parciais do pedido alterado precisa ser igual ou maior que o valor de uma fatura já emitida.</li><li>Se o valor total do pedido alterado for menor do que o valor de uma fatura já emitida, ele não pode ser alterado.</li></ul>Em geral, é o faturamento do pedido que deflagra a liquidação do pagamento. Este comportamento é diferente para lojas que configuraram a [liquidação automática](/pt/docs/tutorials/configurar-tempo-maximo-para-liquidacao-automatica). |
 
