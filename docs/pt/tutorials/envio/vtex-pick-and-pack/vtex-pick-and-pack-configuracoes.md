@@ -1,7 +1,7 @@
 ---
 title: 'VTEX Pick and Pack: Configurações'
 createdAt: 2024-01-05T20:43:38.480Z
-updatedAt: 2026-10-26T00:00:00.000Z
+updatedAt: 2026-11-26T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: vtex-pick-and-pack-settings
@@ -501,11 +501,14 @@ Para criar um novo webhook, siga os passos abaixo:
      * `ORDER_STATUS`: mudança no status do pedido.
      * `WORKSHEET_STATUS`: mudança no status da ordem de serviço.
      * `RETURN_STATUS`: atualização no status da devolução.
+     * `SHIPPING_SERVICE_STATUS`: mudança no status do serviço de envio.
    * **URL**: URL do webhook.
    * **Cabeçalhos**: cabeçalhos do webhook.
    * **Parâmetros**: parâmetros do webhook.
    * **Onde se aplicará (instalações)**: instalação que o webhook será aplicado.
 5. Clique em `Criar`.
+
+Os avisos são enviados por uma regra de [automação](#automacao) com a ação **Disparar webhook**. Crie a regra na aba correspondente ao tipo do webhook: **Pedidos** para `INVOICING` e `ORDER_STATUS`, **Ordens de serviço** para `WORKSHEET_STATUS` e **Serviços de envio** para `SHIPPING_SERVICE_STATUS`. Nas condições da regra, selecione os status que disparam o aviso. Mudanças de status que não atendem à regra não geram avisos.
 
 Para editar ou excluir um webhook, siga os passos abaixo:
 
