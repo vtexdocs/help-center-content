@@ -51,7 +51,7 @@ Os clientes finais não escolhem e não têm visibilidade da existência dos Sel
 
 ## Configurações da conta franquia
 
-Você pode acessar e realizar configurações nos módulos de **[Logística](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/7k4SWtm3EIvLQ3aGXWC07#)**, **[Gerenciamento de pedidos](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa#)**, **[Preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP#)**, **[Pagamentos ](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG#)** e **[Promoções & Taxas](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR#)** diretamente no Admin de cada uma das contas franquias ou utilizando as [APIs da VTEX](https://developers.vtex.com/vtex-rest-api/reference/get-to-know-vtex-apis).
+Você pode acessar e realizar configurações nos módulos de **[Logística](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/7k4SWtm3EIvLQ3aGXWC07#)**, **[Gerenciamento de pedidos](/pt/docs/tutorials/pedidos-data-pipeline-beta#)**, **[Preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP#)**, **[Pagamentos ](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG#)** e **[Promoções & Taxas](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR#)** diretamente no Admin de cada uma das contas franquias ou utilizando as [APIs da VTEX](https://developers.vtex.com/vtex-rest-api/reference/get-to-know-vtex-apis).
 
 Para acessar o Admin de cada conta franquia, entre na URL `{{nomedacontafranquia}}.myvtex.com/admin`, substituindo `{{nomedacontafranquia}}` pelo nome da conta franquia que você deseja gerenciar.
 

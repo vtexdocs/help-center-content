@@ -21,7 +21,7 @@ Uma das funções da política comercial é fazer uma diferenciação de __catá
 
 ![marketplace-v2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/canais-de-venda/marketplace/configurar-integracao-da-netshoes/configurar-politica-comercial-para-marketplace_1.png)
 
-Uma única política comercial pode ser compartilhada por mais de um marketplace ou entre loja principal e marketplace. Para isso, basta que se use o mesmo ID de política comercial nas [configurações](/pt/tutorial/integrando-com-marketplace). Fazendo isso, o mesmo catálogo e a mesma logística vão ser usados para as lojas ou canais que estão configurados com a mesma política comercial.
+Uma única política comercial pode ser compartilhada por mais de um marketplace ou entre loja principal e marketplace. Para isso, basta que se use o mesmo ID de política comercial nas [configurações](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex). Fazendo isso, o mesmo catálogo e a mesma logística vão ser usados para as lojas ou canais que estão configurados com a mesma política comercial.
 
 ![marketplace-politica-compartilhada](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/canais-de-venda/marketplace/configurar-integracao-da-netshoes/configurar-politica-comercial-para-marketplace_2.png)
 
@@ -48,6 +48,6 @@ Para definir o catálogo de produtos que vai ser enviado ao marketplace, o lojis
 
 A simulação de frete e atualização de estoques depende de uma prévia configuração da logística que vai atender à política comercial associada ao marketplace. As configurações necessárias são as padrão para a logística da loja. Porém, é na doca que você deve associar a política comercial vinculada ao marketplace.
 
-1. [Crie ou edite uma doca](/pt/tutorial/como-cadastrar-doca) associando à política comercial.
+1. [Crie ou edite uma doca](/pt/docs/tutorials/gerenciar-doca) associando à política comercial.
 2. Associe uma [transportadora](/pt/tutorial/gerenciar-transportadora) a essa doca.
 3. Verifique se existe algum [estoque](/pt/docs/tutorials/gerenciar-estoque) que se associe a essa doca.

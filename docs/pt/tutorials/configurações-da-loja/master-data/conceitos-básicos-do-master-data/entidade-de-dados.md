@@ -18,9 +18,9 @@ Para exemplificar, imagine um sistema de controle de uma biblioteca. Esse sistem
 
 Com esses conceitos, é possível configurar os mais diversos cenários de controle de dados pelo Master Data. Por padrão, são inseridas as seguintes entidades de dados: Cliente, Endereço, Stores etc. É possível criar quantas mais entidades de dados desejar, possibilitando um ambiente personalizado, voltado às necessidade de cada loja.
 
-> ℹ️ Entidades de dados criadas pela sua operação são consideradas entidades personalizadas e estão sujeitas a cobrança mensal. Saiba mais em [Entidades de dados personalizadas](/pt/docs/tutorials/master-data#entidades-de-dados-personalizadas).
+> ℹ️ Entidades de dados criadas pela sua operação são consideradas entidades personalizadas e estão sujeitas a cobrança mensal. Saiba mais em [Entidades de dados personalizadas](/pt/docs/tutorials/master-data-pt#entidades-de-dados-personalizadas).
 
-> ⚠️ Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais: <ul> <li>[Características das versões do Master Data](/pt/docs/tutorials/master-data#versoes-disponiveis)</li> <li>[Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics)</li> </ul>
+> ⚠️ Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais: <ul> <li>[Características das versões do Master Data](/pt/docs/tutorials/master-data-pt#versoes-disponiveis)</li> <li>[Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics)</li> </ul>
 
 > ⚠️ Excluir uma entidade de dados pela interface do Master Data v1 **não** remove os documentos (registros) já armazenados. O volume faturado permanece inalterado até que os registros sejam removidos pela API. Para excluir documentos e reduzir a cobrança, consulte o guia [Deleting documents in bulk in Master Data](https://developers.vtex.com/docs/guides/deleting-documents-in-bulk-in-master-data) no portal de desenvolvedores. Veja o [guia para resolver](/pt/docs/tutorials/a-cobranca-do-master-data-nao-diminuiu-depois-que-exclui-uma-entidade-de-dados) esse problema.
 

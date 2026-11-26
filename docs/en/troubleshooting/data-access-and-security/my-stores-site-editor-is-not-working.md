@@ -98,7 +98,7 @@ Another possible reason for this error is that the account's sales channel isn't
 
 1. In the VTEX Admin, go to **Store Settings > Channels > Sales channels**.
 2. Check whether there's a sales channel associated with your account and whether it's correctly configured for the store catalog.
-3. If no sales channel is configured, or if it isn't correctly associated with the store catalog, [configure a sales channel](/docs/tutorials/creating-a-trade-policy) for the account.
+3. If no sales channel is configured, or if it isn't correctly associated with the store catalog, [configure a sales channel](/en/docs/tutorials/creating-a-trade-policy) for the account.
 4. If the sales channel is already configured and the problem persists, open a ticket with [VTEX Support](https://supporticket.vtex.com/support) to verify the association between the sales channel and the catalog.
 
 If you still can't manage content, see the next section: [Check the domain's main locale](#checking-the-domains-main-locale).
@@ -151,7 +151,7 @@ Open a ticket with [VTEX Support](https://supporticket.vtex.com/support) to inve
 
 To avoid losing content stored in Site Editor when changing the peer dependencies of the Store Theme app, follow the steps in the guide [Migrating CMS settings after a major theme update](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-cms-settings-after-major-update).
 
-> ⚠️ In cases where content stored in Site Editor is lost, restoration is only possible if the loss is related to the known issue of [Intermittent Site Editor content loss](/known-issues/intermitent-site-editor-content-loss). In this case, open a ticket with [VTEX Support](https://supporticket.vtex.com/support) with `urgent` priority.
+> ⚠️ In cases where content stored in Site Editor is lost, restoration is only possible if the loss is related to the known issue of [Intermittent Site Editor content loss](/en/known-issues/intermitent-site-editor-content-loss). In this case, open a ticket with [VTEX Support](https://supporticket.vtex.com/support) with `urgent` priority.
 
 ## I'm still experiencing issues with Site Editor
 

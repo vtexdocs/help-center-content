@@ -74,7 +74,7 @@ We will map the seller's categories, trying to find the best possible match with
 > ℹ️ Note that more than one category in the seller's catalog fell in the same marketplace category (Women / Jeans). In that case, duplicate the row in **Marketplace categories** and paste the values from *Unmapped categories sent by seller* into each duplicated row.
 
 ## Mapping Brands
-After the seller [sends the products to the marketplace](/en/tutorial/entendendo-a-catalogacao-de-produtos-para-o-marketplace), the marketplace has to map the brands. Matching between marketplace and seller brands is done through a template.  
+After the seller [sends the products to the marketplace](/en/docs/tutorials/sending-products-to-the-marketplace), the marketplace has to map the brands. Matching between marketplace and seller brands is done through a template.  
 
 ### Using the template
 You can download the updated template by clicking the Download current mapping table button in the seller you added to the *Categories and brands* page. The template contains the following columns: 
@@ -142,7 +142,7 @@ We will map the seller's specifications by matching the existing marketplace spe
 
 ### Specifications and received SKUs approval
 
-Specification mapping is applied on the marketplace website in different ways, depending on the actions done in the [Received SKUs](/en/tutorial/entendendo-a-catalogacao-de-produtos-para-o-marketplace) module when approving seller SKUs:
+Specification mapping is applied on the marketplace website in different ways, depending on the actions done in the [Received SKUs](/en/docs/tutorials/sending-products-to-the-marketplace) module when approving seller SKUs:
 
 - __Link to existing SKU:__ the specification mapping is ignored by the marketplace system because the SKU already exists in the marketplace with the same specifications.    
 - __Link to an existing product:__ the specification mapping is only considered for SKU specifications because the product specifications already exist in the marketplace.    
@@ -150,7 +150,7 @@ Specification mapping is applied on the marketplace website in different ways, d
 
 ## Learn more
 
-- [Approving products](/en/tutorial/sugerindo-e-aprovando-skus/)  
+- [Approving products](/en/docs/tutorials/manual-sku-cataloging)  
 - [Creating a sales channel](/en/docs/tutorials/creating-a-trade-policy)    
 - [Sales channel for marketplaces](/en/docs/tutorials/configuring-a-marketplace-trade-policy)  
 

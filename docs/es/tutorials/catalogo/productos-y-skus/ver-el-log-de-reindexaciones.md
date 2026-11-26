@@ -31,4 +31,4 @@ El registro muestra la siguiente información para cada acción:
 
 ### Artículos relacionados
 
-- [Limpiar base de datos de la tienda](/es/tutorial/limpiar-base-de-datos-de-la-tienda)
+- [Limpiar base de datos de la tienda](/es/docs/tutorials/mantenimiento-de-base-de-datos-full-cleanup)

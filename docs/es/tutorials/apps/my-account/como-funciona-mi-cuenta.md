@@ -94,9 +94,9 @@ En `Hacer pedido de nuevo`, el carrito del pedido seleccionado será duplicado. 
 
 ### Solicitar cancelación
 
-El cliente puede solicitar la cancelación de su pedido en cualquier momento. Si se solicita durante el [periodo de espera](/es/tutorial/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido--jYFdnPDtNm4WCEkYWqqC#), no es necesaria la aprobación de la tienda para que la misma surta efecto.
+El cliente puede solicitar la cancelación de su pedido en cualquier momento. Si se solicita durante el [periodo de espera](/es/docs/tutorials/configurar-el-tiempo-de-espera-para-cancelar-el-pedido#), no es necesaria la aprobación de la tienda para que la misma surta efecto.
 
-Obtén más información en el artículo sobre [cómo funciona la cancelación de pedido solicitada por el cliente](/es/tutorial/como-funciona-o-cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo#).
+Obtén más información en el artículo sobre [cómo funciona la cancelación de pedido solicitada por el cliente](/es/docs/tutorials/cancelacion-de-pedido-solicitada-por-el-cliente#).
 
 ### Ver detalles del pedido
 

@@ -41,7 +41,7 @@ This configuration is performed for Buy One Get One promotions, where you can se
 1. In the VTEX Admin, go to *Promotions > Promotions*, or type *Promotions* in the search bar at the top of the page.
 2. Click on `Create Promotion`.
 3. Click on **Buy One Get One**.
-4. Fill out the fields according to the documentation on [How the Buy One Get One (BoGo) promotion works](/en/tutorial/como-criar-promocoes).
+4. Fill out the fields according to the documentation on [How the Buy One Get One (BoGo) promotion works](/en/docs/tutorials/promotion-alerts-how-to-create-an-alert-beta).
 5. In **What type and value of discount**, select the **Gift** option, and enter the ID of the SKU you want to give as a gift.
 6. In **SKUs**, select the SKU to which the promotion will be applied.
 7. Click on `Save`.

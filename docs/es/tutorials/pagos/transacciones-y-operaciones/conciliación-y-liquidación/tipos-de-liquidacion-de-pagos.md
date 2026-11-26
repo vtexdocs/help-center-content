@@ -46,7 +46,7 @@ A medida que se agregan nuevas facturas, el gateway liquida los valores restante
 
 > ⚠️ En pedidos pagados con múltiples medios de pago, el sistema procesa la operación inicialmente en el medio de pago con el menor valor asignado de la transacción.
 
-> ⚠️ Solo el flujo de liquidación **Total** está activado en todas las cuentas VTEX de forma predeterminada. Si deseas utilizar los flujos de liquidación **Retenida** o **Parcial** en tu tienda, ponte en contacto con el [Soporte VTEX](https://help.vtex.com/pt).
+> ⚠️ Solo el flujo de liquidación **Total** está activado en todas las cuentas VTEX de forma predeterminada. Si deseas utilizar los flujos de liquidación **Retenida** o **Parcial** en tu tienda, ponte en contacto con el [Soporte VTEX](https://help.vtex.com/es).
 
 ## Cómo identificar la liquidación parcial de un pedido
 

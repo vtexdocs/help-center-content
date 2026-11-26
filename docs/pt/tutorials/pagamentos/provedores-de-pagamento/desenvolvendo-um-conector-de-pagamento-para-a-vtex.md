@@ -87,7 +87,7 @@ Ao implementar os endpoints, o parceiro escolhe se o conector será hospedado em
 
 - **Acesso a eventos em tempo real:** apps do VTEX IO podem [receber e tratar eventos](https://developers.vtex.com/docs/guides/services-2-handling-and-receiving-events) disparados por ações realizadas na plataforma.
 
-- **Integração simplificada com Banco de Dados como Serviço:** conecta-se facilmente a bancos de dados como VBase e [Master data](/pt/docs/tutorials/master-data) para gerenciar dados de maneira eficiente na sua aplicação.
+- **Integração simplificada com Banco de Dados como Serviço:** conecta-se facilmente a bancos de dados como VBase e [Master data](/pt/docs/tutorials/master-data-pt) para gerenciar dados de maneira eficiente na sua aplicação.
 
 - **Tratamento de dados de cartão pelo Secure Proxy:** conectores criados no VTEX IO usam obrigatoriamente o [Secure Proxy](https://developers.vtex.com/docs/guides/payments-integration-secure-proxy) para tratar dados de cartão, de modo que o conector não acessa diretamente os dados sensíveis. Como usam o Secure Proxy, esses conectores não exigem certificação [PCI-DSS](https://developers.vtex.com/docs/guides/payments-integration-pci-dss-compliance) do parceiro.
 
@@ -187,7 +187,7 @@ Conectores com funcionalidade de [split de recebíveis](/pt/docs/tutorials/split
 
 - [VTEX Payment Provider Protocol - Help Center](/pt/docs/tutorials/payment-provider-protocol)
 - [Secure Proxy - Dev. Portal](https://developers.vtex.com/docs/guides/payments-integration-secure-proxy#custom-supported-operators)
-- [VTEX Master Data - Help Center](/pt/docs/tutorials/master-data)
+- [VTEX Master Data - Help Center](/pt/docs/tutorials/master-data-pt)
 - [Implementing a Payment Provider - Dev. Portal](https://developers.vtex.com/docs/guides/payments-integration-implementing-a-payment-provider)
 - [Payment Provider Framework - Dev. Portal](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework)
 - [Split Payouts on Payment Provider Protocol - Dev. Portal](https://developers.vtex.com/docs/guides/split-payouts-on-payment-provider-protocol)

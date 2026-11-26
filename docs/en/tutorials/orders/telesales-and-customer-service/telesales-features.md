@@ -27,7 +27,7 @@ Here are the telesales features available on VTEX:
 - [Manual pricing](#manual-pricing)
 - [Orders management](#orders-management)
 
-> ⚠️ To access the telesales toolbar, manual pricing, and the **[All Orders](/en/docs/tutorials/all-orders)** page, the user must have a [Call Center operator role](/en/docs/tutorials/how-can-i-create-callcenter-user). 
+> ⚠️ To access the telesales toolbar, manual pricing, and the **[All Orders](/en/docs/tutorials/all-orders)** page, the user must have a [Call Center operator role](/en/docs/tutorials/creating-a-telesales-user). 
 
 You must configure the features listed above beforehand, following the steps in the tutorial [Configuring telesales features](/en/docs/tutorials/configuring-telesales-features). 
 

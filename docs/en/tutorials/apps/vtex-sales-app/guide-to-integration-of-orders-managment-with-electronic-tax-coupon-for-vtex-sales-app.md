@@ -21,9 +21,9 @@ By using **Sales App**, sales associates in physical stores can provide customer
 
 Below, you'll find out how to manage tax coupons for orders placed in **Sales App**.
 
-In Brazil, every product price includes state and federal taxes. This information must be registered as product [specification](https://help.vtex.com/docs/tracks/specifications-concept-definition) in your store. By doing so, VTEX Sales App sends the product specification to the definitive order, in which an integration middleware — a software that bridges the gaps among the components of an ecommerce platform — can be used to issue the invoice.
+In Brazil, every product price includes state and federal taxes. This information must be registered as product [specification](https://help.vtex.com/en/docs/tracks/specifications-concept-definition) in your store. By doing so, VTEX Sales App sends the product specification to the definitive order, in which an integration middleware — a software that bridges the gaps among the components of an ecommerce platform — can be used to issue the invoice.
 
-An example of this is the Mercosur Common Nomenclature (NCM), which defines the tax rate applicable to member countries. During product registration in the ecommerce platform, you can find [this field in the Catalog as **Tax code**](https://help.vtex.com/docs/tutorials/adding-or-editing-products). Nevertheless, VTEX Sales App searches for that information as a product specification called NCM.
+An example of this is the Mercosur Common Nomenclature (NCM), which defines the tax rate applicable to member countries. During product registration in the ecommerce platform, you can find [this field in the Catalog as **Tax code**](https://help.vtex.com/en/docs/tutorials/adding-or-editing-products). Nevertheless, VTEX Sales App searches for that information as a product specification called NCM.
 
 In Brazil, if you want to sell products in physical stores, you need to add the Tax on the Circulation of Goods and Services (ICMS) from each state to the product to be sold. This information can be registered as a specification field for each product (ICMS_RJ, ICMS_SP). Just remember that this setting is only necessary if the physical store operates with **Sales App** in that state.
 
@@ -32,6 +32,6 @@ Any other tax collected from your business activity, e. g. the Contribution to t
 You can register product specifications via API or VTEX Admin:
 
 * **Via API:** See [Specifications](https://developers.vtex.com/docs/guides/specifications).
-* **Via VTEX Admin:** See [Adding product specifications or fields](https://help.vtex.com/docs/tutorials/adding-specifications-or-product-fields).
+* **Via VTEX Admin:** See [Adding product specifications or fields](https://help.vtex.com/en/docs/tutorials/adding-specifications-or-product-fields).
 
-To get invoiced orders placed in the **Sales App**, in the VTEX Admin, go to **Orders > All Orders** and [filter your orders](https://help.vtex.com/docs/tutorials/filtering-all-orders) using the filter **Other > inStore > true**.
+To get invoiced orders placed in the **Sales App**, in the VTEX Admin, go to **Orders > All Orders** and [filter your orders](https://help.vtex.com/en/docs/tutorials/filtering-all-orders) using the filter **Other > inStore > true**.

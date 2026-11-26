@@ -22,7 +22,7 @@ A [integração](/pt/tracks/configurar-integracao-com-a-amazon) entre lojas VTEX
 Antes do lançamento da funcionalidade, a integração VTEX - Amazon não estava apta a receber pedidos que viessem dos programas FBA Classic e DBA. A partir do dia 25 de janeiro de 2023, sellers VTEX que participam de pelo menos um dos programas da Amazon podem ter visibilidade dos pedidos tanto do FBA Classic quanto do DBA no Admin VTEX, em **Gerenciamento de pedidos (Pedidos > Todos os pedidos).**
 
 Agora, sellers que utilizam o FBA Classic podem fazer as seguintes ações pelo Admin VTEX:
-- Configurar novos produtos no FBA Classic via [especificação de produto](/pt/tutorial/importacao-de-pedidos-amazon-fba-dba--2MJZgBen3hpK4xkXqcv8TO?&utm_source=autocomplete#1-criar-especificacao-de-produto).
+- Configurar novos produtos no FBA Classic via [especificação de produto](/pt/docs/tutorials/importacao-de-pedidos-amazon-fba-classic?&utm_source=autocomplete#1-criar-especificacao-de-produto).
 - Acompanhar o progresso dos pedidos.  
 
 Sellers que utilizam o DBA têm acesso às seguintes funcionalidades:
@@ -41,6 +41,6 @@ Aprimoramos a integração com a Amazon para permitir que sellers VTEX
 
 ## O que precisa ser feito?
 
-Todo seller que utilize a [integração nativa](/pt/tutorial/integrando-com-marketplace/) VTEX - Amazon poderá se beneficiar dessa melhoria sem custo adicional atrelado à VTEX. Para ativar a funcionalidade no Admin VTEX, é necessário registrar e configurar uma das opções no [Seller Central](https://sellercentral.amazon.com/) da Amazon e seguir as instruções na página de [Importação dos pedidos do FBA Classic ou DBA](/pt/tutorial/importacao-de-pedidos-amazon-fba-dba).
+Todo seller que utilize a [integração nativa](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex) VTEX - Amazon poderá se beneficiar dessa melhoria sem custo adicional atrelado à VTEX. Para ativar a funcionalidade no Admin VTEX, é necessário registrar e configurar uma das opções no [Seller Central](https://sellercentral.amazon.com/) da Amazon e seguir as instruções na página de [Importação dos pedidos do FBA Classic ou DBA](/pt/tutorial/importacao-de-pedidos-amazon-fba-dba).
 
 > ℹ️ A funcionalidade Importação dos pedidos do DBA está disponível para lojas VTEX no Brasil.

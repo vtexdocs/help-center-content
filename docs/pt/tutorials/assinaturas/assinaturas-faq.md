@@ -85,7 +85,7 @@ Por padrão, o horário para criação de pedidos de assinatura ocorre entre 6:0
 No entanto, você pode estabelecer outro horário via API, com a requisição [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings), enviando o horário novo no campo `executionHourInUtc`.
 
 ### A funcionalidade Assinaturas funciona com o Seller Portal?
-Não, Assinaturas não funciona com o [Seller Portal](/pt/tutorial/how-to-set-up-your-store-on-seller-portal).
+Não, Assinaturas não funciona com o [Seller Portal](/pt/docs/tutorials/seller-portal-primeiros-passos).
 
 ### Como funciona a criação de assinaturas a partir de pedidos originais que possuem SKUs com anexos? 
 Por padrão, as lojas não criam pedidos de assinatura incorporando [anexos](/pt/docs/tutorials/o-que-e-um-anexo) de SKUs do pedido original, ou seja, os anexos são desconsiderados nos pedidos recorrentes. No entanto, é possível habilitar essa configuração para a loja, o que só pode ser feito via API usando o endpoint [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings). Saiba mais em [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).

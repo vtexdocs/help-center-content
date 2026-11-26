@@ -3,7 +3,7 @@ title: 'Verificar erros ou problemas em uma transação'
 id: 3QecZEdmzumGKe8WGmeI8a
 status: PUBLISHED
 createdAt: 2019-01-24T21:38:42.709Z
-updatedAt: 2023-03-29T01:18:23.081Z
+updatedAt: 2026-11-11T15:07:00.000Z
 publishedAt: 2023-03-29T01:18:23.081Z
 firstPublishedAt: 2019-01-24T21:38:43.264Z
 contentType: tutorial
@@ -21,7 +21,7 @@ Os logs de uma transação ficam registrados numa linha do tempo, com as intera�
 
 O gateway da VTEX pode se comunicar com adquirentes, subadquirentes, antifraudes e com outros gateways. As __mudanças de status na transação__ e as __mensagens de resposta dos parceiros__ estão exibidas em caixas na tela dos detalhes da transação.
 
-> ℹ️ Você pode [clicar aqui](/pt/docs/tutorials/cartao-de-credito-fluxo-basico-de-um-pagamento) para saber como funciona o fluxo básico de uma transação de cartão de crédito. Acesse também [nosso artigo](/pt/docs/tutorials/boleto-bancario-registrado-fluxo-basico-de-um-pagamento) com o esquema básico de uma transação via boleto bancário.
+> ℹ️ O fluxo básico de uma transação de cartão de crédito está em [Fluxo de um pagamento por cartão de crédito](/pt/docs/tracks/fluxo-de-um-pagamento-por-cartao-de-credito). Acesse também [Boleto Bancário Registrado - Fluxo básico de pagamento](/pt/docs/tutorials/boleto-bancario-registrado-fluxo-basico-de-um-pagamento) para o esquema básico de uma transação via boleto bancário.
 
 ## Verificar status da transação
 

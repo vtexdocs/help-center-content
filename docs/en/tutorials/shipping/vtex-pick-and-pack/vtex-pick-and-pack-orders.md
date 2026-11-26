@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-**Orders** is the page that displays information about orders created and managed by [VTEX Pick and Pack](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack). To access it, in the VTEX Admin, go to **Shipping > Pick and Pack > Orders**. On this page, you can do the following:
+**Orders** is the page that displays information about orders created and managed by [VTEX Pick and Pack](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack). To access it, in the VTEX Admin, go to **Shipping > Pick and Pack > Orders**. On this page, you can do the following:
 
 - [View orders](#view-orders)
 - [Search orders](#search-orders)

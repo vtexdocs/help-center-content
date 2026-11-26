@@ -21,7 +21,7 @@ O envio de produtos para o marketplace passa por dois grandes processos: o proce
 
 O item Integrações é o primeiro local que deve ser considerado para entender o cenário. [Acesse e verifique o status de integração de cada produto](/pt/docs/tutorials/verificando-integracao-no-bridge).
 
-Caso não tenha nenhum registro, pode significar que as configurações não foram realizadas corretamente, portanto [revalide as configurações de marketplace](/pt/tutorial/integrando-com-marketplace/).
+Caso não tenha nenhum registro, pode significar que as configurações não foram realizadas corretamente, portanto [revalide as configurações de marketplace](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex).
 
 Nos registros da Integração, os cenários mais comuns são:
 - Produto inativo.

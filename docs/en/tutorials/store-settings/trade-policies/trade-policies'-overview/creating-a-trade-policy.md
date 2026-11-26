@@ -15,13 +15,13 @@ locale: en
 subcategoryId: 6J3wx7KM4oysymsWuUACyY
 ---
 
-[Sales channels (sales channels)](https://help.vtex.com/pt/docs/tutorials/como-funciona-uma-politica-comercial) are used on VTEX to group catalog, pricing, promotion, inventory, logistics, customer segmentation, and payment settings. Channels can include marketplaces, your own ecommerce site, physical stores, or B2B stores.
+[Sales channels (sales channels)](https://help.vtex.com/en/docs/tutorials/how-trade-policies-work) are used on VTEX to group catalog, pricing, promotion, inventory, logistics, customer segmentation, and payment settings. Channels can include marketplaces, your own ecommerce site, physical stores, or B2B stores.
 
 Managing sales channels
 
 The Sales channels section of your Admin displays a table with all existing sales channels. You can also filter results, search by keyword, and sort all sales channels in the table. The sales channel ID is automatically determined by the system based on the chronological order in which new sales channels are created.
 
-To define the logistics settings applied to this sales channel, you need to [create or edit a loading dock](https://help.vtex.com/docs/tutorials/managing-loading-docks) related to the desired carriers and enter the sales channel ID in the form.
+To define the logistics settings applied to this sales channel, you need to [create or edit a loading dock](https://help.vtex.com/en/docs/tutorials/managing-loading-docks) related to the desired carriers and enter the sales channel ID in the form.
 
 To use the same catalog in more than one sales channel, see the [Associate product with sales channel](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/salespolicy/-tradepolicyId-) documentation.
 
@@ -29,7 +29,7 @@ To use the same catalog in more than one sales channel, see the [Associate produ
 
 To add a new sales channel, go to the VTEX Admin. If you have the Owner (admin) role, you can create new sales channels directly in the interface.
 
-All create actions are logged in the Admin audit logs, which allows you to identify who performed the action. For more information, see [Understanding the Security report](https://help.vtex.com/docs/tutorials/understanding-the-security-report).
+All create actions are logged in the Admin audit logs, which allows you to identify who performed the action. For more information, see [Understanding the Security report](https://help.vtex.com/en/docs/tutorials/understanding-the-security-report).
 
 > ℹ️ Creating a new sales channel may generate additional costs as stipulated in the client contract. If you have any questions, check your contract or contact [VTEX Support](https://supporticket.vtex.com/support).
 

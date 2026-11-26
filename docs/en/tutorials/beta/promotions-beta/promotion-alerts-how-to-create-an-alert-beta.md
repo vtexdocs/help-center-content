@@ -78,4 +78,4 @@ If you enable this option and do not select any promotions, the alert will not b
 ## Learn more
 
 - [Promotion alerts](/en/docs/tutorials/promotion-alerts-beta)
-- [How promotions work](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR)
+- [How promotions work](/en/docs/tracks/promotions)
