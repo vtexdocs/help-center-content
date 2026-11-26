@@ -37,6 +37,8 @@ This behavior can occur due to the following reasons:
 
 3. Internal route redirecting the search result to a brand page.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate why a product isn't being displayed in search results. Provide the search term and product ID, and VTEX Copilot will run the same search as your customers and check the product's brand and visibility.
+
 ## Solutions
 
 To enable the searched products to be displayed correctly in the site's search results, consider the following solutions:

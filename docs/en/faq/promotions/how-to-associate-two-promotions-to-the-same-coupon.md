@@ -43,3 +43,5 @@ Check below how to perform this process:
   ![Sincronizar promoções no mesmo cupom - 2 - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/promotions/how-to-associate-two-promotions-to-the-same-coupon_2.png)
 
 With this, the customer can get a full discount of both values before closing the purchase.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can help you review this configuration. It checks the promotions and coupons involved, including their conditions, discounts, and validity periods, and can create or update the coupon after you confirm the changes.

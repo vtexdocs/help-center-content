@@ -23,6 +23,8 @@ symptomFilters:
 
 Al configurar promociones para marketplaces los usuarios pueden experimentar dificultades debido a ajustes incorrectos en la política comercial o en el campo de afiliados. Este artículo ofrece directrices para garantizar que la promoción se configure y aplique correctamente.
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX revisa la promoción por ti: ingresa el nombre de la promoción y Copilot verifica las fechas, condiciones, políticas comerciales y afiliados seleccionados, además de filtros adicionales que pudieran impedir su aplicación en el marketplace.
+
 ## Solución
 Para solucionar el problema de promociones que no se aplican en los marketplaces, es importante consultar la casilla de selección de la [política comercial](#seleccionar-política-comercial) y la de [afiliados](#seleccionar-afiliados).
 

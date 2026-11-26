@@ -22,6 +22,8 @@ symptomFilters:
 
 When [exporting a report with data from Master Data v1](/en/docs/tutorials/exporting-data), the report is sent to the email address entered during the export. However, the email may take longer than expected to arrive in your inbox.
 
+> ℹ️ If the report doesn't appear in Exports either, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) in the VTEX Admin can check whether VTEX has recorded any recent service disruptions and open a ticket with VTEX Support that already includes the export details.
+
 ## Solution
 
 You can access the report in Master Data by following the steps below:

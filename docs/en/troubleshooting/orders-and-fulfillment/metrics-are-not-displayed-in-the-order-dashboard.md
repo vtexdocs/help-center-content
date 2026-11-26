@@ -28,6 +28,8 @@ When accessing the Admin dashboard, it may fail to load metrics in the **Overvie
 
 ![Visão geral - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/orders-and-fulfillment/metrics-are-not-displayed-in-the-order-dashboard_1.png)
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check whether your user has the Insights Metrics resource in their roles and explain how to use the dashboard's period comparison feature. Provide your email address for the verification.
+
 ## Solution
 To solve inconsistencies in the initial dashboard of the Admin, you can try the following:
 

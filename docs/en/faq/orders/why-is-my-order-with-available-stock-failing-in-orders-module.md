@@ -22,3 +22,5 @@ The reserved status has an expiration period. If payment is not confirmed by thi
 In that particular case, since your stock was down and you did not have SKUs for both orders, one of them could not be delivered, causing the error in the order's workflow. It's as if the sale that happened in the middle of the reservation process took its inventory by surprise.
 
 The solution here is to add stock to this SKU, or to cancel the order, since your reservation has expired, your SKU has been directed to another order and there was no actual available stock.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate the order. Provide the order number, and VTEX Copilot will identify the step where the flow stopped. With the SKU ID, it also shows how much of the inventory is reserved and how much is available.

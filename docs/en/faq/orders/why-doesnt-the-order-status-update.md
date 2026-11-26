@@ -17,6 +17,8 @@ legacySlug: why-doesnt-the-order-status-update
 
 This can happen in the statuses below.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate the order. Provide the order number, and VTEX Copilot will identify the stage where the flow stopped (payment, invoicing, handling, or ERP) and explain what to do next.
+
 ## Waiting for authorization to dispatch
 
 This status means the marketplace has not confirmed payment yet. The order moves forward only after the marketplace confirms payment.

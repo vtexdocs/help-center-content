@@ -25,6 +25,8 @@ When creating a trigger to notify changes to a data entity in Master Data v2, so
 
 This issue may result from an incorrect trigger configuration or problems with permissions and authentication. Follow the instructions in this guide to identify and resolve the issue.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate the trigger. Provide the data entity, and VTEX Copilot will check whether it exists in Master Data v2 and review the schema where the trigger is defined, including its required fields.
+
 ## Solution
 
 Here are a few approaches to address the issue:

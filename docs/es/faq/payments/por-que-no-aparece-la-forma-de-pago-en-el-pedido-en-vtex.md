@@ -19,3 +19,5 @@ Cuando tiene lugar una compra en el marketplace, [para la mayoría de las integr
 
 Por eso, cuando se integra el pedido, no se repasa para VTEX la información de la forma de pago, pues no es algo que impactará el flujo del en el Admin.
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX verifica este pedido: envíale el número del pedido y Copilot muestra los datos de pago registrados y si la compra se pagó en el marketplace, lo que explica la ausencia de la forma de pago.
+

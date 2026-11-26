@@ -27,4 +27,6 @@ La no realización de esa asociación no impide que los Productos sean exportado
 
 ___ADVERTENCIA__: Si el canal de ventas está configurado con una colección, debe comprobar que el artículo pertenece a la colección. En caso contrario, ninguna información del elemento se actualizará en el parcero.
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) investiga este escenario en el Admin VTEX: envíale el ID del SKU y Copilot verifica el stock por almacén, si el muelle está asociado a la política comercial del marketplace y si el producto está en esa política comercial.
+
 ___ADVERTENCIA__: Si la tienda no utiliza la colección en el canal de ventas y la configuración está definida de forma específica en el producto, es necesario comprobar si el producto está registrado para venta en el canal deseado. En caso contrario, ninguna información del elemento se actualizará en el parcero.

@@ -30,3 +30,5 @@ Before that, the reservation is still active and another item will be removed, [
 So, when an order moves to the `Preparing Delivery` status, a notification to the stock becomes necessary, so that this item leaves the reserved status and is removed from the stock. 
 
 To do that, update the __Quantity__ field with the number of items available in your stock, ignoring the item related to the purchase.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the SKU's inventory in each warehouse. Provide the SKU ID, and VTEX Copilot will show the reserved and available quantities and update the inventory quantity after you confirm the numbers. Enter the SKU ID.

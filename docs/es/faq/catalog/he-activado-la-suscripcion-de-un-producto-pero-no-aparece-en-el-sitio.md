@@ -33,3 +33,5 @@ __Para hacer la inclusión manual de SKUs específicos, siga el paso a paso abaj
 ![recurrence-specific-skus](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/catalog/he-activado-la-suscripcion-de-un-producto-pero-no-aparece-en-el-sitio_1.png)
 
 Por fin, dé un nombre al __Grupo__ de su Colección y haga clic en __Save Group__.
+
+> ℹ️ Si el producto sigue estando fuera del sitio web después de la reindexación, pide a [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX que verifique el ID del producto. Copilot listará todas las configuraciones del catálogo que lo mantienen fuera de la vitrina.

@@ -26,3 +26,5 @@ Para confirmar que el problema es este, en la [página de detalles del pedido](/
 Si hay un error como "La reserva solicitada *00-abc* no pudo ser garantizada para el pedido *00-xyz*", es porque algun de los SKUs incluidos en el carrito no tiene stock disponible, lo que inviabiliza que la compra sea aprobada. En este caso, corregir el inventario debe permitir que el pedido siga su flujo.
 
 Sepa más en [Verificar detalles de errores en los pedidos](/es/docs/tutorials/como-verificar-detalles-de-errores-en-los-pedidos).
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) investiga este error en el Admin VTEX: envíale el número del pedido y Copilot identifica en qué etapa se detuvo el flujo y verifica el stock disponible de los SKUs del pedido en cada almacén.

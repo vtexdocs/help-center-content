@@ -26,3 +26,5 @@ Normalmente, este error se produce porque la autenticación de usuario ha caduca
 El sistema probablemente solicitará su login. En este caso, realice la autenticación e inténtelo de nuevo a Gestión de pedidos.
 
 Si esto no resuelve su problema, puede que el módulo **Pedidos** se enfrente a una indisponibilidad temporal, lo que se puede comprobar en nuestra [página de status](http://status.vtex.com/).
+
+> ℹ️ Si el error continúa después de iniciar sesión nuevamente pregunta a [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX si ha ocurrido un incidente en VTEX: consulta el status de la plataforma en tiempo real e informa sobre inestabilidades recientes.

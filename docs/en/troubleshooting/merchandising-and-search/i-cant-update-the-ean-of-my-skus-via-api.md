@@ -22,6 +22,8 @@ symptomFilters:
 
 When trying to update the EAN (European Article Number), which contains the barcode information for a SKU, you may face issues with catalog synchronization between the VTEX Admin and API. This can impact inventory management and customer experience.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can help you with this update. It can find the SKU using either the current or new EAN to confirm which code is associated with it and explain the Catalog API endpoints mentioned below.
+
 ## Solution
 
 To solve this issue, consider [deleting the SKU EAN](#deleting-the-sku-ean) and then [adding a new EAN](#step-1-add-a-new-ean-to-the-sku).

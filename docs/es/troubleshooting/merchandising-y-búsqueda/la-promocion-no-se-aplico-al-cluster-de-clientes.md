@@ -24,6 +24,8 @@ Puedes configurar una [promoción personalizada](/es/tutorial/criando-promocao-p
 - Ausencia o registro incorrecto del valor del clúster durante la configuración de la promoción.
 - Diferencia entre los valores registrados en la promoción y los valores asignados en los perfiles de los clientes.
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX compara los dos lados de este problema: ingresa el nombre de la promoción y el email de un cliente del clúster y Copilot verifica la condición de clúster configurada y los valores en el registro de ese cliente en Master Data.
+
 ## Solución
 
 A continuación se describen algunas soluciones para asegurarte de que la promoción se muestre al clúster deseado.

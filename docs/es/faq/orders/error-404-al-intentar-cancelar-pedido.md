@@ -20,6 +20,8 @@ Al intentar cancelar un pedido en el módulo **Pedidos**, a veces el sistema dev
 - Cómo identificar el error
 - Qué hacer cuando ocurre este error
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) verifica el pedido en el Admin VTEX: envíale el número del pedido y Copilot identifica si hay un error en el flujo o una cancelación en curso. Así confirmas el escenario antes de contactar al servicio externo.
+
 ### Cómo identificar el error
 
 Como se explica en el artículo [Verificar detalles de errores en los pedidos](/es/docs/tutorials/como-verificar-detalles-de-errores-en-los-pedidos), usted debe entrar en el pedido, conforme descrito abajo:

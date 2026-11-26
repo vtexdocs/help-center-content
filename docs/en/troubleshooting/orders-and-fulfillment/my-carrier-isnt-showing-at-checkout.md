@@ -24,6 +24,8 @@ In some situations, the carrier may not be displayed as a shipping option at che
 
 > ℹ️ Before proceeding, make sure that all [carriers are properly configured](https://help.vtex.com/docs/tutorials/carriers-on-vtex) on the platform.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate why a carrier isn't being displayed as an option. Provide the SKU ID and postal code, and VTEX Copilot will run a shipping simulation and review shipping policies, postal code ranges, docks, and warehouses to identify the cause.
+
 ## Solutions
 
 ### Competition between carriers of the same type

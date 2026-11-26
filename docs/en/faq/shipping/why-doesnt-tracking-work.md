@@ -30,3 +30,5 @@ After you add them, check the following:
 - The carrier is on the [list of carriers that support tracking](/en/docs/tutorials/which-carriers-allow-delivery-tracking).
 
 Fix any issue and follow the transactional emails in the order Timeline.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can verify the tracking information. Provide the order number, and VTEX Copilot will check the tracking number, URL, and carrier listed on the invoice and can help correct this information after you confirm the changes.

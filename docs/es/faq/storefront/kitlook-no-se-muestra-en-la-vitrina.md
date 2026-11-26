@@ -38,3 +38,5 @@ __Llene el campo Label__
 6. Haga clic en __Guardar__.
 
 Listo! Su Lookbook debe mostrar todas las imágenes correctamente después de ese paso a paso. No olvide guardar el código de la Label. De lo contrario, la configuración no se actualizará.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX verifica las imágenes del producto: envíale el ID del SKU y Copilot revisa las imágenes registradas, incluyendo el campo `Label`, y las ajusta después de tu confirmación.

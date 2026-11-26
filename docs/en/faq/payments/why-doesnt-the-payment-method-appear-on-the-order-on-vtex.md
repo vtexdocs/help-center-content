@@ -19,3 +19,5 @@ In [most marketplace integrations](/en/docs/tutorials/payments-in-vtex-marketpla
 
 When the order is integrated, the payment method is not sent to VTEX, because it does not change the order flow on VTEX.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the order. Provide the order number, and VTEX Copilot will show the registered payment information and whether the purchase was paid for on the marketplace, which would explain why the payment method isn't displayed.
+

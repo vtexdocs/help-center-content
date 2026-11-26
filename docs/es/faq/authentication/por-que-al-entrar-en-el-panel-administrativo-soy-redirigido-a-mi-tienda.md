@@ -20,3 +20,5 @@ Este escenario ocurre cuando el email utilizado para entrar en el panel administ
 Los perfiles de televenta bloquean el acceso al __Catálogo__, es decir, el usuario no puede acceder al registro de productos, por ejemplo. Si es necesario acceder a este módulo, el usuario debe trabajar con dos logins diferentes.
 
 Si el perfil de acceso tiene permiso para televenta y otros módulos, el acceso debe ser hecho directamente por la URL del módulo, por ejemplo, para Gestión de pedidos: `https://{accountName}.myvtex.com/admin/checkout`
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) verifica los roles del usuario en el Admin VTEX: envíale el email usado en el inicio de sesión y Copilot identifica si un rol incluye recursos de televentas, lo que causa la redirección a la tienda.

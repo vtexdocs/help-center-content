@@ -28,3 +28,5 @@ In the VTEX Admin, go to **Orders > All orders** and open an order. On the order
 - The customer's email server may fail to acknowledge that it received the message.
 
    If the SMTP server that sends transactional emails does not receive an OK from the destination server, it keeps resending the email from the **Orders** module.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate the order. Provide the order number, and VTEX Copilot will check whether the registered invoice covers the total order amount. If it doesn't, the ERP may resend the invoice and trigger duplicate emails.

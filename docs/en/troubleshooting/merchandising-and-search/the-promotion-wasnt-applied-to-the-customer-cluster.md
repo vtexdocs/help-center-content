@@ -24,6 +24,8 @@ A [custom promotion](/en/docs/tutorials/creating-promotion-for-a-customer-cluste
 - The cluster value is missing or incorrectly configured in the promotion.
 - Inconsistency between the values added to the promotion and those in the customer profiles.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can help investigate this issue by comparing the promotion's cluster configuration with customer data. Provide the promotion name and the email address of a customer in the cluster, and VTEX Copilot will check the configured cluster condition against the values in that customer's profile in Master Data.
+
 ## Solution
 
 Below are some solutions that can help ensure the promotion is displayed to the desired customer cluster.

@@ -26,3 +26,5 @@ In these scenarios, it is common to see the following error message: `Error conn
 If your SKUs have been uploaded to VTEX via integration, check with your integrator if the fields are filled with the correct values. To know the values expected by VTEX, [access our article](/en/tutorial/integration-guide-for-erps-full-catalog) about integrations with the Catalog.
 
 If your product has reached the limit of registered SKUs, we suggest reviewing your product categorization. We allow a maximum of 50 SKUs per product.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate the issue. Provide the product ID, and VTEX Copilot will list the added SKUs and their configurations, helping you determine whether the product has reached the 50-SKU limit.

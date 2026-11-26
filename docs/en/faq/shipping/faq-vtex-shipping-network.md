@@ -15,4 +15,6 @@ locale: en
 legacySlug: faq-vtex-log
 ---
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check VTEX Shipping Network in your store. Using the SKU ID and postal code, it simulates shipping, displays the available shipping options, and reviews your docks, warehouses, and shipping policies.
+
 > ⚠️ Content under translation.

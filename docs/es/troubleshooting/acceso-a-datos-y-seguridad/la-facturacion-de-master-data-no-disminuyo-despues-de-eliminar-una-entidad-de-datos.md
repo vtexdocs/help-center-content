@@ -18,6 +18,8 @@ Después de eliminar una [entidad de datos](/es/docs/tutorials/entidade-de-datos
 
 Este problema ocurre porque la eliminación de una entidad de datos mediante la interfaz no elimina los documentos (registros) ya almacenados en ella. Esos documentos siguen siendo contabilizados en la facturación mensual hasta que se eliminan mediante la API.
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX ayuda en esta limpieza: ingresa la entidad de datos y Copilot busca los documentos que todavía están almacenados en la entidad y los elimina siempre después de pedir tu confirmación antes de remover cualquier registro.
+
 ## Solución
 
 Para resolver este problema, sigue los pasos que se detallan a continuación:

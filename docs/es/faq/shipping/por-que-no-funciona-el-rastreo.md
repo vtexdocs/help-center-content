@@ -30,3 +30,5 @@ Después de su registro, analice los siguientes elementos, que son los principal
 - Verifique si la transportadora está en el [lista de transportadoras registradas para rastreo](/es/faq/cuales-transportistas-ponen-a-disposicion-el-rastreo-de-flete).
 
 _Ajuste esos ítems y acompañe el disparo de los correos electrónicos por la Línea de Tiempo en el pedido._
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX verifica el seguimiento: envíale el número del pedido y Copilot comprueba el número, la URL y la transportadora indicados en la factura, y puede ayudar a corregir estos datos después de tu confirmación.

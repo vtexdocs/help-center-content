@@ -40,3 +40,5 @@ Or put only the extra detail in the SKU name:
 - If the **Product name** is Porta Canetas
 - and the **SKU name** is Azul
 - The storefront shows: Porta Canetas - Azul
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can help you identify discrepancies. Provide the product ID, and VTEX Copilot will list the SKUs and their names, allowing you to compare them with the product name and update the catalog information as needed.

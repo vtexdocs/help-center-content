@@ -32,6 +32,8 @@ Cuando se producen errores de integración de pedidos entre un marketplace y tu 
 
 Comprueba tanto el status de la integración de pedidos como los mensajes accediendo al Admin VTEX. **Marketplace > Conexiones > Pedidos** o ingresa **Pedidos** en la barra de búsqueda.
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga los errores de integración del lado de tu tienda: envíale el ID del SKU y el código postal de envío y Copilot detecta si hay un problema de precio, stock o envío que bloquea el pedido.
+
 ## Solución
 
 Consulta la tabla a continuación para comprender el significado del error y corregirlo:

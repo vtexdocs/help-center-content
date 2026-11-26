@@ -31,3 +31,5 @@ That is, even if a gift has a registered price (a necessary condition for it to 
 Apart from this, it's worth pointing out that cases exist in which a gift is __removed__ from the cart without any apparent reason. The reasons are the same as those that make this SKU appear as "unavailable": price or inventory not being registered, as well as registration not being activated.
 
 To get around this, just check the three items on the platform, the same way you would do for an "unavailable" gift.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the gift SKU. Provide the SKU ID, and VTEX Copilot will verify its status, price, inventory, and images to identify what's preventing it from being displayed.

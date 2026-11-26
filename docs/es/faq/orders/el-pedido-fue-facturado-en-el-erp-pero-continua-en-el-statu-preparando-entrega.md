@@ -30,3 +30,5 @@ El comportamiento normal del sistema, en los casos en que el marketplace devuelv
 Pero si el mensaje indica que `la llamada al recurso del servicio devolvió el estado HTTP '404 (not found)'`, esto significa que no se encontró la ruta - o sea - el producto no se encontró en el marketplace.
 
 En este caso, es necesario ponerse en contacto con el marketplace para que verifique el servicio de integración.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) investiga este pedido en el Admin VTEX: envíale el número del pedido y Copilot identifica dónde se detuvo el flujo (pago, factura, preparación o ERP) y si la factura registrada cubre el valor total.

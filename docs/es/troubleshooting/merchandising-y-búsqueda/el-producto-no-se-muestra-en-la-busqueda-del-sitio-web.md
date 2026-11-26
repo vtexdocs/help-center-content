@@ -37,6 +37,8 @@ Este comportamiento puede ocurrir debido a los siguientes escenarios:
 
 3. Rota interna redirecionando o resultado da pesquisa para uma página de marca (brand).
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga por qué el producto no se muestra en la búsqueda: envíale el término buscado y el ID del producto y Copilot realiza la misma búsqueda que tus clientes y verifica la marca y la visibilidad del producto.
+
 ## Soluciones
 
 Para que los productos buscados se muestren correctamente en los resultados de búsqueda del sitio web, consulta las siguientes soluciones:

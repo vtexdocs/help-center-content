@@ -21,3 +21,5 @@ Esto se debe a que la plataforma VTEX suma las unidades negativas de los SKU de 
 
 Obtén más información sobre el _stock_ negativo en el artículo [Gestión del stock](/es/docs/tutorials/gestionar-items-en-inventario#actualizar-stock).
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga este SKU: envíale el ID del SKU y Copilot consulta el stock en cada almacén, incluyendo cantidades reservadas y disponibles, e indica qué está causando que el ítem no esté disponible para la venta.
+

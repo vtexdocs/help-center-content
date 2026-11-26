@@ -17,6 +17,8 @@ legacySlug: por-que-mi-transportadora-calculo-flete-para-un-peso-menor-que-el-mi
 
 El cálculo del flete considera siempre dos parámetros, el peso y el volumen del producto. La prioridad de cálculo es siempre para el peso mínimo o cúbico, vale el mayor. Sin embargo, caso el peso del producto sea menor que el mínimo catastrado para el transportista, será considerado el volumen.
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX ayuda a entender este cálculo: usando el ID del SKU y el código postal, Copilot simula el envío y verifica el peso y las dimensiones registrados en el SKU.
+
 ## Ejemplos
 
 - El transportista atiende el rango de peso de 30 a 100 kg y un volumen máximo de 1000 m³;

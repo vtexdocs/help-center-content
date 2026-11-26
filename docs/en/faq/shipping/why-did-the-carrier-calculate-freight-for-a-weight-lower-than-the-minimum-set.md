@@ -17,6 +17,8 @@ legacySlug: why-did-the-carrier-calculate-freight-for-a-weight-lower-than-the-mi
 
 Freight calculation always considers two parameters: product weight and volume. The priority in calculation is always given to the minimum weight or cubed weight &#8211; the one with the highest value. However, if the weight of a product is lower than the minimum registered for a carrier, volume will be considered.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can help you understand this calculation. Using the SKU ID and postal code, it simulates shipping and checks the weight and dimensions set for the SKU.
+
 ## Examples
 
 - The carrier specifies a weight range of 30 to 100 kg, and a maximum volume of 1000 m³.

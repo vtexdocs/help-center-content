@@ -22,6 +22,8 @@ symptomFilters:
 
 Cuando se [exporta un informe con datos de Master Data v1](/es/docs/tutorials/exportacion-de-datos), dicho informe se envía al email ingresado durante la exportación. Sin embargo, es posible que el email tarde más de lo previsto en llegar a la bandeja de entrada.
 
+> ℹ️ Si el informe tampoco se muestra en Exportaciones, [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX verifica si la plataforma registra alguna inestabilidad reciente y abre un ticket con el Soporte VTEX que ya incluye los detalles de la exportación.
+
 ## Solución
 
 Se puede acceder al informe en Master Data siguiendo los pasos que se indican a continuación:

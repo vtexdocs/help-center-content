@@ -29,3 +29,5 @@ If you have incoherent deadlines or a disagreement between the promised date and
 4. Click `Save`.
 
 For more information, see the article [Registering Holidays](/en/docs/tutorials/registering-holidays).
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate discrepancies in the delivery time. Provide the order number, and VTEX Copilot will check the estimated delivery date and review the holidays configured in your shipping settings.

@@ -32,3 +32,5 @@ You can also activate the __Apply selected discount only when one of the above c
 ### Related articles
 - [Promotions, taxes and coupons - Overview](/en/docs/tutorials/overview-pricing-module)
 - [Creating benefits](/en/tutorial/creating-promotions-2)
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can review the promotion. Provide the promotion name, and VTEX Copilot will check the configured conditions, including shipping types, to identify why free shipping doesn't apply to all shipping options.

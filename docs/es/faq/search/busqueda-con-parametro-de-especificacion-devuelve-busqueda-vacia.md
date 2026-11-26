@@ -29,3 +29,5 @@ Para resolver el problema, siga estos pasos:
 6. En la especificación deseada, haga clic en __Alterar__.
 7. Marque la flag __Filtro__.
 8. Haga clic en __Guardar__.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX verifica el campo de especificación: ingresa la categoría y el nombre del campo y Copilot comprueba cómo está registrado en el catálogo y explica cómo activar la opción `Filtro`.

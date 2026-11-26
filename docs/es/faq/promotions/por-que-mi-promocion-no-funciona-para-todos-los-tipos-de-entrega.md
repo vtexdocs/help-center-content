@@ -32,3 +32,5 @@ Usted también puede activar la flag __Aplique el descuento solo cuando el clien
 ### Artículos relacionados
 - [Promociones, impuestos y cupones - Información general](/es/docs/tutorials/pantalla-inicial-del-modulo-de-pricing-promociones)
 - [Crear promociones](/es/tutorial/como-crear-promociones)
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX verifica esta promoción: ingresa el nombre de la promoción y Copilot revisa las condiciones configuradas, incluidos los tipos de envío, para identificar por qué el envío gratis no se aplica a todas las opciones de envío.

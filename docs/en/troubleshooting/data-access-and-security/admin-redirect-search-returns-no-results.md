@@ -22,6 +22,8 @@ symptomFilters:
 
 When the number of redirects is too high, the Redirects page in the Admin can't process the search. This results in no returned results when the search is run. For more details on the Redirects page, see [Managing URL redirects by binding](/en/docs/tutorials/managing-redirects-per-binding).
 
+> ℹ️ If the redirect search continues to return no results, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) in the VTEX Admin can guide you through the GraphQL IDE queries described below and, if necessary, open a ticket with VTEX Support that already includes the case details.
+
 ## Solution
 
 Follow these steps to get the redirects:

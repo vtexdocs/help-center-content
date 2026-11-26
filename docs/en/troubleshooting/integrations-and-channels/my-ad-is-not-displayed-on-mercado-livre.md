@@ -22,4 +22,6 @@ symptomFilters:
   - Misconfiguration
 ---
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate this issue on the VTEX side. Provide the product ID, and VTEX Copilot will check whether the product is listed in the Mercado Libre sales channel and verify its available inventory. VTEX Copilot can't access the Mercado Libre panel.
+
 > ⚠️ This is a regional exclusive content not applicable to English speaking countries.

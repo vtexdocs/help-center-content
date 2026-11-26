@@ -37,3 +37,5 @@ Finalmente, regrese al panel inicial.
 6. Confirme que la __Price Table__ tiene el precio registrado.
 
 Para saber más sobre este tema, leia o artigo [Configuración de Tablas de Precios para usuarios específicos](/es/docs/tutorials/configuracion-de-tablas-de-precios-para-usuarios-especificos).
+
+> ℹ️ [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex) realiza estas verificaciones en el Admin VTEX: usando el ID del SKU y el email del cliente Copilot valida si el producto está activo, si el registro del cliente está asociado a la tabla de precios y si el SKU tiene un precio en la tabla.

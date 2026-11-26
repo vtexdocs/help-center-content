@@ -32,6 +32,8 @@ After [importing a price table](/en/docs/tracks/exporting-and-importing-via-a-pr
 
 If you encounter error messages, incorrect price values, or other difficulties importing a table, check out the possible solutions below.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate import errors. Provide the SKU ID, and VTEX Copilot will show the configured base price, list price, and fixed prices so you can verify what was imported.
+
 ## Solution
 
 To address any issues when importing a price table, consider the following solutions:
