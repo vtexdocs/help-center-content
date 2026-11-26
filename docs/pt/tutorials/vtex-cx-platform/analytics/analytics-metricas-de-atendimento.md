@@ -204,7 +204,7 @@ O dashboard **Conversacional** oferece dados sobre as conversas gerenciadas por 
 
 O dashboard oferece os seguintes controles:
 
-- `Seletor de período:` Define o intervalo de datas para a exibição dos dados.
+- `Seletor de período`: Define o intervalo de datas para a exibição dos dados.
 - `Atualizar`: recarrega os dados do painel manualmente.
 - `Exportar dados`: permite baixar os dados exibidos no painel.
 
