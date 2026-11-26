@@ -8,11 +8,11 @@ slugEN: recommendations-reports
 locale: en
 ---
 
-> ℹ️ This feature is in closed beta and only available to selected clients. If you're a VTEX client and want to adopt this feature for your business, contact our [Commercial Support](/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client but are interested in this solution, complete the [contact form](https://www.vtex.com/en-us/contact-us/).
+> ℹ️ This feature is in closed beta and only available to selected clients. If you're a VTEX client and want to adopt this feature for your business, contact our [Commercial Support](https://help.vtex.com/en/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client but are interested in this solution, complete the [contact form](https://www.vtex.com/en-us/contact-us/).
 
-In the VTEX Admin, the **Reports** tab within **Recommendations** displays a list of performance reports for the store's product recommendation strategies. Unlike the [recommendations dashboard](https://help.vtex.com/docs/tutorials/recommendations-dashboard), which displays real-time, filterable data, reports provide static snapshots of data for a specific period and can be downloaded.
+In the VTEX Admin, the **Reports** tab within **Recommendations** displays a list of performance reports for the store's product recommendation strategies. Unlike the [recommendations dashboard](https://help.vtex.com/en/docs/tutorials/recommendations-dashboard), which displays real-time, filterable data, reports provide static snapshots of data for a specific period and can be downloaded.
 
-The feature is available to all clients who already have [Product recommendations](https://help.vtex.com/docs/tutorials/product-recommendations-beta) activated in their store.
+The feature is available to all clients who already have [Product recommendations](https://help.vtex.com/en/docs/tutorials/product-recommendations-beta) activated in their store.
 
 To access it in the VTEX Admin, go to _Storefront > Recommendations_ and click the **Reports** tab.
 
@@ -20,9 +20,9 @@ To access it in the VTEX Admin, go to _Storefront > Recommendations_ and click t
 
 ## Requirements
 
-- Have [Product recommendations](https://help.vtex.com/docs/tutorials/product-recommendations-beta) activated in your store.
-- Have [recommendation strategies](https://help.vtex.com/docs/tutorials/product-recommendations-beta#recommendation-strategies) implemented in your store.
-- Have a [role](https://help.vtex.com/docs/tutorials/roles) with the following [License Manager resources](https://help.vtex.com/docs/tutorials/license-manager-resources):
+- Have [Product recommendations](https://help.vtex.com/en/docs/tutorials/product-recommendations-beta) activated in your store.
+- Have [recommendation strategies](https://help.vtex.com/en/docs/tutorials/product-recommendations-beta#recommendation-strategies) implemented in your store.
+- Have a [role](https://help.vtex.com/en/docs/tutorials/roles) with the following [License Manager resources](https://help.vtex.com/en/docs/tutorials/license-manager-resources):
 
   | Resource name                | Resource key (resource_key)  | Description                                                                    |
   | :--------------------------- | :--------------------------- | :----------------------------------------------------------------------------- |
@@ -79,7 +79,7 @@ When a scheduled report (weekly or monthly) is generated, VTEX sends an email no
 
 ## Report structure
 
-The report is generated in PDF. The language, currency, and email notification recipients are defined during feature activation in the store. To change these preferences, contact [Commercial Support](https://help.vtex.com/docs/tracks/commercial-support).
+The report is generated in PDF. The language, currency, and email notification recipients are defined during feature activation in the store. To change these preferences, contact [Commercial Support](https://help.vtex.com/en/docs/tracks/commercial-support).
 
 The report includes the following sections:
 
@@ -131,6 +131,6 @@ Indicates the period covered, the report generation date, and a confidentiality 
 
 ## Learn more
 
-- [Product recommendations](https://help.vtex.com/docs/tutorials/product-recommendations-beta)
-- [Recommendations dashboard (Beta)](https://help.vtex.com/docs/tutorials/recommendations-dashboard)
+- [Product recommendations](https://help.vtex.com/en/docs/tutorials/product-recommendations-beta)
+- [Recommendations dashboard (Beta)](https://help.vtex.com/en/docs/tutorials/recommendations-dashboard)
 - [Creating recommendation lists (Beta)](https://help.vtex.com/en/docs/tutorials/creating-recommendation-lists)
