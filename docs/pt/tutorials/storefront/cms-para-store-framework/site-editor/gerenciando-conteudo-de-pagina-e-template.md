@@ -29,7 +29,7 @@ Para acessar o bloco cujo conteúdo você deseja gerenciar, siga os passos abaix
 2. Use o campo `URL` para navegar até a página que exibe o bloco.
 3. Selecione o bloco. Você pode selecioná-lo de duas maneiras:
     - Por meio da lista de blocos disponível no lado direito da tela.
-    - Por meio do ícone <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/EDU-20472-20469-site-editor-managing-content/docs/pt/tutorials/storefront/cms-para-store-framework/site-editor/icone-inspecionar-transparente.png" alt="Ícone de inspecionar" width="25" style="vertical-align: middle;"/> ao lado do campo `URL`, que permite selecionar o bloco diretamente na interface.
+    - Por meio do ícone <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/EDU-20472-20469-site-editor-managing-content/docs/pt/tutorials/storefront/cms-para-store-framework/site-editor/inspect-icon.png" alt="Ícone de inspecionar" width="25" style="vertical-align: middle;"/> ao lado do campo `URL`, que permite selecionar o bloco diretamente na interface.
 
     > ℹ️ O conteúdo que você vê ao clicar em um bloco é o que está ativo no momento.
 
