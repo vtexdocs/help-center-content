@@ -19,7 +19,7 @@ O Site Editor reflete nativamente o aplicativo Store Theme, permitindo que você
 
 Neste guia, aprenda a acessar um bloco no Site Editor e a criar, editar, excluir ou redefinir seu conteúdo. Saiba também como configurar quais conteúdos ficam ativos ou inativos na sua loja.
 
- ℹ️ O Site Editor não permite adicionar um novo bloco a um template ou a uma página específica, nem remover, reordenar ou ocultar blocos. Ele apenas altera a configuração de blocos já declarados no aplicativo [Store Theme](https://developers.vtex.com/docs/guides/vtex-io-documentation-store-theme). Alterar a estrutura da página exige modificações no código do tema. Para mais informações, acesse o guia para desenvolvedores [Configuring templates](https://developers.vtex.com/docs/guides/vtex-io-documentation-4-configuringtemplates).
+> ℹ️ O Site Editor não permite adicionar um novo bloco a um template ou a uma página específica, nem remover, reordenar ou ocultar blocos. Ele apenas altera a configuração de blocos já declarados no aplicativo [Store Theme](https://developers.vtex.com/docs/guides/vtex-io-documentation-store-theme). Alterar a estrutura da página exige modificações no código do tema. Para mais informações, acesse o guia para desenvolvedores [Configuring templates](https://developers.vtex.com/docs/guides/vtex-io-documentation-4-configuringtemplates).
 
 ## Acessar o bloco
 
