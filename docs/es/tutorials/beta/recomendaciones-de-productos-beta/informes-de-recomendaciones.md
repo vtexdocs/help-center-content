@@ -6,6 +6,7 @@ contentType: tutorial
 productTeam: Intelligent Search
 slugEN: recommendations-reports
 locale: es
+hidden: true
 ---
 
 > ℹ️ Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si ya eres cliente de VTEX y deseas adoptar esta funcionalidad en tu negocio, ponte en contacto con nuestro [Soporte comercial](https://help.vtex.com/es/docs/tracks/soporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente, pero te interesa esta solución, llena el [formulario de contacto](https://vtex.com/es-mx/contacto/).
