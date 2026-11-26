@@ -26070,9 +26070,9 @@
             },
             {
               "name": {
-                "en": "Creating an OAuth2 authentication",
-                "es": "Crear autenticación OAuth2",
-                "pt": "Criar autenticação OAuth2"
+                "en": "Creating a login with an OAuth2 identity provider",
+                "es": "Crear inicio de sesión con proveedor de identidad OAuth2",
+                "pt": "Criar login com provedor de identidade OAuth2"
               },
               "slug": {
                 "en": "creating-an-oauth2-authentication",
@@ -28142,6 +28142,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with MIT-MX",
+                        "es": "Configurar pago con MIT-MX",
+                        "pt": "Configurar pagamento com MIT-MX"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-mit-mx",
+                        "es": "configurar-pago-con-mit-mx",
+                        "pt": "configurar-pagamento-com-mit-mx"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with Mobbex",
                         "es": "Configurar pago con Mobbex",
                         "pt": "Configurar pagamento com Mobbex"
@@ -28278,6 +28293,36 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with Nave",
+                        "es": "Configurar pago con Nave",
+                        "pt": "Configurar pagamento com Nave"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-nave",
+                        "es": "configurar-pago-con-nave",
+                        "pt": "configurar-pagamento-com-nave"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with Nelo",
+                        "es": "Configurar pago con Nelo",
+                        "pt": "Configurar pagamento com Nelo"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-nelo",
+                        "es": "configurar-pago-con-nelo",
+                        "pt": "configurar-pagamento-com-nelo"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with NetPay and NetPay Checkout",
                         "es": "Configurar pago con NetPay y NetPay Checkout",
                         "pt": "Configurar pagamento com NetPay e NetPay Checkout"
@@ -28391,6 +28436,21 @@
                         "en": "setting-up-payments-with-pagaleve",
                         "es": "configurar-pago-con-pagaleve",
                         "pt": "configurar-pagamento-com-pagaleve"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with Pagali",
+                        "es": "Configurar pago con Pagali",
+                        "pt": "Configurar pagamento com Pagali"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-pagali",
+                        "es": "configurar-pago-con-pagali",
+                        "pt": "configurar-pagamento-com-pagali"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -28878,6 +28938,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with PompeiaPay",
+                        "es": "Configurar pago con PompeiaPay",
+                        "pt": "Configurar pagamento com PompeiaPay"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-pompeiapay",
+                        "es": "configurar-pago-con-pompeiapay",
+                        "pt": "configurar-pagamento-com-pompeiapay"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with PoolPay",
                         "es": "Configurar pago con PoolPay",
                         "pt": "Configurar pagamento com PoolPay"
@@ -29277,6 +29352,21 @@
                         "en": "setting-up-payments-with-sistecredito",
                         "es": "configurar-pago-con-sistecredito",
                         "pt": "configurar-pagamento-com-sistecredito"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with SpinMX",
+                        "es": "Configurar pago con SpinMX",
+                        "pt": "Configurar pagamento com SpinMX"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-spinmx",
+                        "es": "configurar-pago-con-spinmx",
+                        "pt": "configurar-pagamento-com-spinmx"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -41206,12 +41296,12 @@
             {
               "name": {
                 "en": "Insert SKU File API doesnt accept URLs from servers that require \"User-Agent\" header",
-                "es": "La API de inserción de archivos SKU no acepta URL de servidores que requieran el encabezado \"User-Agent\".",
-                "pt": "A API Insert SKU File não aceita URLs de servidores que exigem o cabeçalho \"User-Agent\""
+                "es": "La API Insertar archivo SKU no acepta URL de servidores que requieren el encabezado \"User-Agent\".",
+                "pt": "A API Insert SKU File não aceita URLs de servidores que exigem o cabeçalho \"User-Agent\"."
               },
               "slug": {
                 "en": "insert-sku-file-api-doesnt-accept-urls-from-servers-that-require-useragent-header",
-                "es": "la-api-de-insercion-de-archivos-sku-no-acepta-url-de-servidores-que-requieran-el-encabezado-useragent",
+                "es": "la-api-insertar-archivo-sku-no-acepta-url-de-servidores-que-requieren-el-encabezado-useragent",
                 "pt": "a-api-insert-sku-file-nao-aceita-urls-de-servidores-que-exigem-o-cabecalho-useragent"
               },
               "origin": "",
@@ -48610,6 +48700,21 @@
                 "en": "delivery-method-selector-does-not-appear-in-some-scenarios",
                 "es": "el-selector-de-metodo-de-entrega-no-aparece-en-algunos-escenarios",
                 "pt": "o-seletor-do-metodo-de-entrega-nao-aparece-em-alguns-cenarios"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Tax Service getting different values from Marketplace and Fullfilment when a More for Less promotion is used.",
+                "es": "El servicio de impuestos obtiene valores diferentes de Marketplace y Fulfillment cuando se utiliza una promoción de \"Más por menos\".",
+                "pt": "O Serviço de Impostos obtém valores diferentes do Marketplace e do Fulfillment quando uma promoção \"Mais por Menos\" é utilizada."
+              },
+              "slug": {
+                "en": "tax-service-getting-different-values-from-marketplace-and-fullfilment-when-a-more-for-less-promotion-is-used",
+                "es": "el-servicio-de-impuestos-obtiene-valores-diferentes-de-marketplace-y-fulfillment-cuando-se-utiliza-una-promocion-de-mas-por-menos",
+                "pt": "o-servico-de-impostos-obtem-valores-diferentes-do-marketplace-e-do-fulfillment-quando-uma-promocao-mais-por-menos-e-utilizada"
               },
               "origin": "",
               "type": "markdown",
@@ -58741,14 +58846,14 @@
             },
             {
               "name": {
-                "en": "Wrong warehouse assigned to item added via ChangeOrderV2 (FFM/SOS ShippingEnricher ignores Logistics’ DeliveryIds)",
-                "es": "Se asignó un almacén incorrecto al artículo agregado mediante ChangeOrderV2 (FFM/SOS ShippingEnricher ignora los DeliveryIds de Logística).",
-                "pt": "Armazém incorreto atribuído ao item adicionado via ChangeOrderV2 (FFM/SOS ShippingEnricher ignora os DeliveryIds da Logística)"
+                "en": "Wrong warehouse assigned to items in multi-warehouse orders after a ChangeOrderV2 (add, remove or reduce quantity)",
+                "es": "Se asignó un almacén incorrecto a los artículos en pedidos de varios almacenes después de un ChangeOrderV2 (agregar, eliminar o reducir la cantidad).",
+                "pt": "Armazém incorreto atribuído a itens em pedidos com vários armazéns após uma alteração de pedido (ChangeOrderV2) (adicionar, remover ou reduzir quantidade)."
               },
               "slug": {
-                "en": "wrong-warehouse-assigned-to-item-added-via-changeorderv2-ffmsos-shippingenricher-ignores-logistics-deliveryids",
-                "es": "se-asigno-un-almacen-incorrecto-al-articulo-agregado-mediante-changeorderv2-ffmsos-shippingenricher-ignora-los-deliveryids-de-logistica",
-                "pt": "armazem-incorreto-atribuido-ao-item-adicionado-via-changeorderv2-ffmsos-shippingenricher-ignora-os-deliveryids-da-logistica"
+                "en": "wrong-warehouse-assigned-to-items-in-multiwarehouse-orders-after-a-changeorderv2-add-remove-or-reduce-quantity",
+                "es": "se-asigno-un-almacen-incorrecto-a-los-articulos-en-pedidos-de-varios-almacenes-despues-de-un-changeorderv2-agregar-eliminar-o-reducir-la-cantidad",
+                "pt": "armazem-incorreto-atribuido-a-itens-em-pedidos-com-varios-armazens-apos-uma-alteracao-de-pedido-changeorderv2-adicionar-remover-ou-reduzir-quantidade"
               },
               "origin": "",
               "type": "markdown",
@@ -61542,21 +61647,6 @@
                 "en": "transactions-remain-stuck-in-pending-authorization-despite-connector-approval",
                 "es": "las-transacciones-permanecen-en-estado-de-autorizacion-pendiente-a-pesar-de-la-aprobacion-del-conector",
                 "pt": "as-transacoes-permanecem-presas-no-status-autorizacao-pendente-apesar-da-aprovacao-do-conector"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Transactions made with PayU do not change from cancelling status",
-                "es": "Las transacciones realizadas con PayU no pasan del estado de cancelación",
-                "pt": "As transações realizadas com o PayU não mudam de status após o cancelamento"
-              },
-              "slug": {
-                "en": "transactions-made-with-payu-do-not-change-from-cancelling-status",
-                "es": "las-transacciones-realizadas-con-payu-no-pasan-del-estado-de-cancelacion",
-                "pt": "as-transacoes-realizadas-com-o-payu-nao-mudam-de-status-apos-o-cancelamento"
               },
               "origin": "",
               "type": "markdown",
@@ -64474,21 +64564,6 @@
             },
             {
               "name": {
-                "en": "Transaction stuck in cancelling and cancel/refund return “Object reference not set to an instance of an object”",
-                "es": "Transacción bloqueada en la cancelación y devolución de cancelación/reembolso «Referencia de objeto no establecida en una instancia de un objeto».",
-                "pt": "Transação presa no cancelamento e cancelamento/reembolso da devolução “Referência de objeto não definida para uma instância de um objeto”"
-              },
-              "slug": {
-                "en": "transaction-stuck-in-cancelling-and-cancelrefund-return-object-reference-not-set-to-an-instance-of-an-object",
-                "es": "transaccion-bloqueada-en-la-cancelacion-y-devolucion-de-cancelacionreembolso-referencia-de-objeto-no-establecida-en-una-instancia-de-un-objeto",
-                "pt": "transacao-presa-no-cancelamento-e-cancelamentoreembolso-da-devolucao-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Transaction stuck in status approved with payment canceled",
                 "es": "Transacción bloqueada en estado aprobado con pago cancelado",
                 "pt": "Transação presa no status aprovado com pagamento cancelado"
@@ -65835,21 +65910,6 @@
                 "en": "boolean-videoaudio-html-properties-not-being-validated-on-legacy-cms",
                 "es": "las-propiedades-html-booleanas-de-videoaudio-no-se-validan-en-el-cms-heredado",
                 "pt": "propriedades-booleanas-de-videoaudio-html-nao-validadas-no-cms-legacy"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Restrict the default-src of the header Content Security Policy could break the Checkout",
-                "es": "Restringir el valor «default-src» de la Política de Seguridad de Contenidos (CSP) del encabezado podría impedir que se complete el proceso de pago.",
-                "pt": "Restringir o parâmetro `default-src` da Política de Segurança de Conteúdo (CSP) do cabeçalho pode impedir o funcionamento do processo de checkout"
-              },
-              "slug": {
-                "en": "restrict-the-defaultsrc-of-the-header-content-security-policy-could-break-the-checkout",
-                "es": "restringir-el-valor-defaultsrc-de-la-politica-de-seguridad-de-contenidos-csp-del-encabezado-podria-impedir-que-se-complete-el-proceso-de-pago",
-                "pt": "restringir-o-parametro-defaultsrc-da-politica-de-seguranca-de-conteudo-csp-do-cabecalho-pode-impedir-o-funcionamento-do-processo-de-checkout"
               },
               "origin": "",
               "type": "markdown",
