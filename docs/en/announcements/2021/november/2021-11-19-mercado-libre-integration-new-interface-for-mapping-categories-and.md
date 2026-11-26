@@ -23,7 +23,7 @@ Prior to certification, sellers had to fill out the [mapping template](/en/tutor
 
 ## What has changed?
 
-To improve the experience of all our clients who use the [Mercado Libre integration](/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), we have developed an interface that simplifies the mapping of categories and attributes.
+To improve the experience of all our clients who use the [Mercado Libre integration](/en/docs/tutorials/mercado-libre), we have developed an interface that simplifies the mapping of categories and attributes.
 
 Using the [mapping template](/en/tutorial/mapeamento-de-categorias-variacoes-e-atributos-do-mercado-libre--4xNFUZZmboCSUVdLCFo6eA) to send products from your VTEX catalog to Mercado Libre will no longer be necessary. The template will be discontinued once the interface is available to all clients.
 
@@ -41,5 +41,5 @@ The new interface is already available for all our clients who use the Mercado L
 
 All clients who were using the mapping template to submit their products will no longer need to use it, and the template will be discontinued at the end of November 2021. The products that have already been mapped using the template will continue to be displayed on Mercado Libre. To submit new products, you will have to use the new mapping interface. 
 
-To learn more about how to use the new interface, please refer to our article [Sending products to Mercado Libre](/en/docs/tracks/mapping-product-categories-and-attributes-to-mercado-libre).
+To learn more about how to use the new interface, please refer to our article [Sending products to Mercado Libre](/en/docs/tutorials/mapping-product-categories-and-attributes-to-mercado-libre).
 

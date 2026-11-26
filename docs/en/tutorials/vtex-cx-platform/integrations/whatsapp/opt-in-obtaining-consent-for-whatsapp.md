@@ -3,7 +3,7 @@ title: "Opt-in: Obtaining consent for WhatsApp"
 id: 1zqhPT4869IgWgRZ6eJDkv
 status: PUBLISHED
 createdAt: 2025-09-15T15:35:50.207Z
-updatedAt: 2026-11-13T14:20:00.000Z
+updatedAt: 2026-11-19T21:08:52.000Z
 publishedAt: 2025-10-03T14:20:32.308Z
 firstPublishedAt: 2025-10-03T14:20:32.308Z
 contentType: tutorial
@@ -26,6 +26,12 @@ Businesses must follow these requirements when collecting user consent:
 - State that the user is consenting to receive messages from the business via WhatsApp.
 - Visibly display the company's name so that the customer knows who they are agreeing to interact with.
 - Comply with all applicable local laws and regulations.
+
+> ⚠️ **Meta consent vs. data protection legal basis**
+>
+> The consent described above is required by Meta's policies to maintain WhatsApp Business account quality. It doesn't replace the legal basis analysis required by applicable data protection legislation (such as the LGPD in Brazil, the GDPR in the European Union, or other equivalent local laws) for processing personal data.
+>
+> When consent is the chosen legal basis, the company must comply with applicable privacy laws, including clearly stating the purpose of data processing, keeping a record or proof of the consent obtained, and allowing consent to be withdrawn at any time.
 
 ## Methods for collecting consent
 
