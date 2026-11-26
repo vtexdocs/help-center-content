@@ -1,9 +1,9 @@
 ---
-title: 'Gerenciando conteúdo de página e template'
+title: 'Gerenciar conteúdo de página e template'
 id: 3tMbx6HXy4Fy5r9EhboG37
 status: PUBLISHED
 createdAt: 2021-05-07T03:32:03.808Z
-updatedAt: 2023-03-24T22:17:48.424Z
+updatedAt: 2026-11-26T14:16:47.344Z
 publishedAt: 2023-03-24T22:17:48.424Z
 firstPublishedAt: 2021-05-07T06:03:50.121Z
 contentType: tutorial
@@ -15,67 +15,83 @@ locale: pt
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 ---
 
-O Site Editor reflete nativamente o aplicativo Store Theme, permitindo que você sobrescreva as configurações predefinidas para blocos e crie um novo conteúdo para as páginas e *templates* da sua loja.
+O Site Editor reflete nativamente o aplicativo Store Theme, permitindo que você sobrescreva as configurações predefinidas para blocos e crie um novo conteúdo para as páginas e [templates](/pt/docs/tutorials/o-que-sao-templates) da sua loja.
 
-> ℹ️ O Site Editor não permite que você adicione um novo bloco a um *template* ou página específica. Ele também não permite remover, reordenar ou ocultar blocos. Ele apenas altera a configuração de blocos já declarados no aplicativo Store Theme. Alterar a estrutura da página exige uma mudança no código do tema por um desenvolvedor.
+> ℹ️ O Site Editor não permite adicionar um novo bloco a um template ou página específica, nem remover, reordenar ou ocultar blocos. Ele apenas altera a configuração de blocos já declarados no aplicativo [Store Theme](https://developers.vtex.com/docs/guides/vtex-io-documentation-store-theme). Alterar a estrutura da página exige uma mudança no código do tema. Para mais informações, acesse o guia para desenvolvedores [Configuring templates](https://developers.vtex.com/docs/guides/vtex-io-documentation-4-configuringtemplates).
 
-Exercite sua autonomia sobre o código e construa o cenário de loja desejado de acordo com as necessidades de seu negócio, usando uma interface amigável a seu favor!
+Neste guia, aprenda a usar o Site Editor para:
 
-1. Acesse **Storefront > Site Editor**.
-2. Use o campo URL no canto superior para navegar até a página que exibe o bloco cujo conteúdo será sobrescrito.
+- [Acessar o bloco](#acessar-o-bloco)
+- [Criar conteúdo](#criar-conteúdo)
+- [Editar conteúdo](#editar-conteúdo)
+- [Excluir conteúdo](#excluir-conteúdo)
+- [Restaurar conteúdo](#restaurar-conteúdo)
+- [Configurar conteúdo ativo e inativo](#configurar-conteúdo-ativo-e-inativo)
 
-## Criando conteúdo
+## Acessar o bloco
 
-1. Selecione o bloco para o qual deseja criar um novo conteúdo. Você pode selecioná-lo usando a lista no canto direito ou através da interface:
+Para acessar o bloco cujo conteúdo você deseja gerenciar, siga os passos abaixo:
 
-![seta-interface-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/cms-para-store-framework/site-editor/gerenciando-conteudo-de-pagina-e-template_1.png)
+1. No Admin VTEX, acesse **Storefront > Site Editor**.
+2. Use o campo `URL` para navegar até a página que exibe o bloco.
+3. Selecione o bloco. Você pode selecioná-lo de duas maneiras:
+  - Por meio da lista de blocos disponível no lado direito da tela.
+  - Por meio do ícone <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/cms-para-store-framework/site-editor/icone-inspecionar-transparente.png" alt="Ícone de inspecionar" width="25"/> ao lado do campo `URL`, que permite selecionar o bloco diretamente na interface.
 
-2. Clique em `Versões` no canto superior direito.
+  > ℹ️ O conteúdo que você vê ao clicar em um bloco é o que está ativo no momento.
 
-> ℹ️ O conteúdo que você vê ao clicar em um bloco é o que está ativo no momento. Para mais informações sobre o recurso **Versões**, acesse [Gerenciando versões de conteúdo](/pt/docs/tutorials/gerenciando-versoes-de-conteudo) e [Agendando atualizações de conteúdo](/pt/docs/tutorials/agendando-atualizacoes-de-conteudo)
+## Criar conteúdo
 
-3. Clique no botão `Novo conteúdo`.
-4. Faça as alterações desejadas de acordo com as configurações disponíveis para o bloco.
-5. Defina se o conteúdo será ativado assim que for salvo clicando no campo `Ative agora`. É possível também definir uma data de início e uma data de término, se desejar. Para fazer isso, selecione os respectivos botões e escolha a data adequada no calendário.
+Com o bloco selecionado, siga os passos abaixo para criar um novo conteúdo:
 
-  > ⚠️ Depois que o campo `esta URL` estiver marcado, o conteúdo só ficará visível na URL específico em que você salvou suas alterações. Portanto, tome cuidado com os parâmetros e outros componentes de URL que podem afetar a exibição do conteúdo - quanto mais específica for a seu URL, isto é, com mais parâmetros e *querystrings*, mais restrito será o novo conteúdo.
+1. Clique em **Versões** no canto superior direito da tela.
 
-  > ℹ️ O Site Editor aplica configurações de conteúdo de acordo com a hierarquia de parâmetros da URL. Reproduza o conteúdo de forma nativa para todas as páginas sob o mesmo parâmetro pai, criando apenas conteúdo para a URL com o mesmo. Considere uma determinada URL de categoria, por exemplo. Ao criar conteúdo para ela, todas as URLs das páginas de produto cujo parâmetro pai é a categoria também serão atualizadas.
+  > ℹ️ Saiba mais sobre o recurso **Versões** em [Gerenciando versões de conteúdo](/pt/docs/tutorials/gerenciando-versoes-de-conteudo).
 
-6. Ainda na seção `Visibilidade`, verifique se o conteúdo será criado apenas na URL para a qual você navegou inicialmente ou em todo o *template* —  incluindo a URL que você está atualmente e todas as outras do *template*.
+2. Clique no botão `NOVA VERSÃO`.
+3. Faça as alterações desejadas de acordo com as configurações disponíveis para o bloco.
+4. No final das configurações do bloco, na seção **Visibilidade**, defina quando o conteúdo ficará disponível:
+    - Para disponibilizar o conteúdo logo após salvar as alterações, marque `Ativar agora`.
+    - Para agendar a exibição, marque `Definir uma data de início`, `Definir uma data de término` ou as duas opções e escolha as datas no calendário.
 
-7. Salve suas alterações.
+    > ℹ️ Você pode definir apenas uma data de início, sem data de término, ou definir as duas datas. Se você marcar somente `Definir uma data de término`, a opção `Ativar agora` é marcada automaticamente. Saiba mais sobre o recurso **Visibilidade** em [Agendando atualizações de conteúdo](/pt/docs/tutorials/agendando-atualizacoes-de-conteudo).
 
-## Editando conteúdo
+5. Em **Aplicar para**, selecione onde o conteúdo será exibido:
+    - `esta URL`: o conteúdo fica visível apenas na URL em que você salvou as alterações. Quanto mais específica for a URL, ou seja, quanto mais parâmetros e *querystrings* ela tiver, mais restrita será a exibição do conteúdo.
+    - `este template`: o conteúdo fica visível em todas as páginas do template, incluindo a URL em que você está.
 
-1. Selecione o bloco desejado cujo conteúdo será sobrescrito. Você pode selecioná-lo usando a lista no canto direito ou através da interface:
+  > ℹ️ O Site Editor aplica configurações de conteúdo de acordo com a hierarquia de parâmetros da URL. Ao criar conteúdo para uma URL, o Site Editor o aplica a todas as páginas sob o mesmo parâmetro pai. Considere uma determinada URL de categoria, por exemplo. Ao criar conteúdo para ela, todas as URLs das páginas de produto cujo parâmetro pai é a categoria também serão atualizadas.
 
-![seta-interface-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/cms-para-store-framework/site-editor/gerenciando-conteudo-de-pagina-e-template_2.png)
+6. Clique em `SALVAR` para salvar suas alterações.
 
-2. O conteúdo disponível é o ativo vigente. Edite os campos com os novos valores ou clique em `Versões` para editar as configurações de outros conteúdos.
-3. Salve suas alterações.
+## Editar conteúdo
 
-  > ⚠️ Os conteúdos derivados do Store Theme não podem ter sua visibilidade atualizada por você por meio do Site Editor. Independentemente de suas ações, eles são sempre exibidos por *template* e não por URL. Os conteúdos criados manualmente no Site Editor, por sua vez, podem ter sua visibilidade alterada para URL ou *template*, de acordo com a sua necessidade.
+Com o bloco selecionado, siga os passos abaixo para editar um conteúdo:
 
-## Excluindo e redefinindo conteúdo
+1. Edite os campos do conteúdo ativo com os novos valores. Para editar outra versão de conteúdo do bloco, clique em **Versões** e escolha a versão desejada.
 
-1. Selecione o bloco desejado cujo conteúdo será excluído ou redefinido. Você pode selecioná-lo usando a lista no canto direito ou através da interface:
+  > ℹ️ Saiba mais sobre o recurso **Versões** em [Gerenciando versões de conteúdo](/pt/docs/tutorials/gerenciando-versoes-de-conteudo).
 
-![seta-interface-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/cms-para-store-framework/site-editor/gerenciando-conteudo-de-pagina-e-template_3.png)
+2. Clique em `SALVAR` para salvar suas alterações.
 
-2. Clique em `Versões` no canto superior direito.
-3. Clique no menu kebab do conteúdo desejado (três pontos).
-4. Clique em `Excluir` ou` Redefinir` e confirme sua ação.
+> ⚠️ Ao editar um conteúdo do Store Theme, não é possível alterar a opção **Aplicar para**. Esse conteúdo sempre vale para todo o template, e não para uma URL específica. Somente nos conteúdos que você criou no Site Editor é possível escolher entre `esta URL` e `este template`.
 
-> ⚠️ As ações `Excluir` e `Redefinir` dependem do tipo de conteúdo. O conteúdo nativo, ou seja, o conteúdo criado diretamente no código, não pode ser excluído pelo admin, apenas *resetado* (caso tenha sido sobrescrito). Você só pode excluir o conteúdo que criou manualmente pelo Site Editor.
+## Excluir ou redefinir conteúdo
 
-## Configurando conteúdo ativo e inativo
+Para excluir ou redefinir um conteúdo, [acesse o bloco](#acessar-o-bloco) no Site Editor e siga os passos abaixo:
+
+1. Clique em **Versões**. A versão ativa aparece no topo da lista.
+2. Clique no ícone `⋮` da versão que você quer excluir ou redefinir.
+3. Clique em `Excluir` ou `Redefinir` e confirme sua ação.
+
+> ⚠️ A ação disponível depende do tipo de conteúdo. Os conteúdos nativos, criados diretamente no código, só podem ser redefinidos, e apenas se tiverem sido sobrescritos. Somente os conteúdos criados manualmente no Site Editor podem ser excluídos.
+
+## Configurar conteúdo ativo e inativo
 
 Cada configuração realizada no Site Editor sobrescreve aquela definida por meio do aplicativo Store Theme.
 
-Na prática, isso significa que o conteúdo recém-criado ou atualizado por meio do módulo do admin é majoritariamente classificado automaticamente como ativo, a depender se alguma data de início ou fim foi predefinida.
+Na prática, o conteúdo que você cria ou atualiza no Site Editor fica ativo automaticamente. A exceção é quando você define uma data de início ou de término, caso em que a ativação segue essas datas.
 
-Para ativar um conteúdo, clique em `Versões`, escolha o conteúdo e clique em `Mais opções` > **Ativar**. Apenas um conteúdo fica ativo por vez. Para mais informações, acesse [Gerenciando versões de conteúdo](/pt/docs/tutorials/gerenciando-versoes-de-conteudo#ativando-versões).
+Para ativar um conteúdo, clique em **Versões**, clique no ícone `⋮` da versão inativa que deseja ativar e selecione `Ativar`. Apenas um conteúdo fica ativo por vez. Saiba mais em [Gerenciando versões de conteúdo](/pt/docs/tutorials/gerenciando-versoes-de-conteudo#ativando-versoes).
 
-> ℹ️ Ao excluir ou redefinir o conteúdo ativo, o primeiro conteúdo da fila de inativos é ativado. A fila para conteúdos inativos começa do conteúdo mais recente ao mais antigo. Lembre-se de que os conteúdos criados por meio do Site Editor *sempre* prevalecem sobre o que foi definido no código.
-
+> ℹ️ Ao excluir o conteúdo ativo, o primeiro conteúdo da fila de inativos é ativado. A fila para conteúdos inativos começa do conteúdo mais recente ao mais antigo. Os conteúdos criados por meio do Site Editor *sempre* prevalecem sobre o que foi definido no código.
