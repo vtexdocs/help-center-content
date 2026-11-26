@@ -1,7 +1,7 @@
 ---
 title: 'VTEX Pick and Pack: Settings'
 createdAt: 2024-01-05T20:43:38.480Z
-updatedAt: 2026-10-26T00:00:00.000Z
+updatedAt: 2026-11-26T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: vtex-pick-and-pack-settings
@@ -502,11 +502,14 @@ To create a new webhook, follow the steps below:
      - `ORDER_STATUS`: The order status changes.
      - `WORKSHEET_STATUS`: The worksheet status changes.
      - `RETURN_STATUS`: The return status changes.
+     - `SHIPPING_SERVICE_STATUS`: The shipping service status changes.
    - **URL**: Webhook URL.
    - **Headers**: Webhook headers.
    - **Params**: Webhook parameters.
    - **Where will this apply (fulfillment locations)**: Fulfillment locations the webhook will apply to.
 5. Click `Create`.
+
+Notifications are sent by an [automation](#automation) rule with the **Trigger Webhook** action. Create the rule in the tab that matches the webhook type: **Orders** for `INVOICING` and `ORDER_STATUS`, **Worksheets** for `WORKSHEET_STATUS`, and **Shipping services** for `SHIPPING_SERVICE_STATUS`. In the rule conditions, select the statuses that trigger the notification. Status changes that don't match the rule don't send notifications.
 
 To edit or delete a webhook, follow the steps below:
 
