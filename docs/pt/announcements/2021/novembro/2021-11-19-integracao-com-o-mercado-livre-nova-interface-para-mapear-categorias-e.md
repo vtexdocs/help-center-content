@@ -23,7 +23,7 @@ Antes da certificação, os sellers precisavam preencher a [planilha de mapeamen
 
 ## O que mudou?
 
-Buscando melhorar a experiência de todos os nossos clientes que utilizam a [integração do Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), desenvolvemos uma interface que simplifica o mapeamento de categorias e atributos. 
+Buscando melhorar a experiência de todos os nossos clientes que utilizam a [integração do Mercado Livre](/pt/docs/tutorials/mercado-livre), desenvolvemos uma interface que simplifica o mapeamento de categorias e atributos. 
 
 Agora não será mais necessário mapear os produtos utilizando a [planilha de mapeamento](/pt/tutorial/mapeamento-de-categorias-variacoes-e-atributos-do-mercado-libre--4xNFUZZmboCSUVdLCFo6eA) para enviar os produtos do seu catálogo VTEX para o Mercado Livre. A Planilha será descontinuada após a interface ser disponibilizada para todos os clientes.
 
@@ -41,4 +41,4 @@ A nova interface já está disponível para toda nossa base de clientes que util
 
 Todos os clientes que utilizavam a planilha de mapeamento para enviar seus produtos não precisarão utilizá-la mais, e a planilha será descontinuada até o fim de novembro de 2021. Os produtos que já foram mapeados pela planilha continuam sendo anunciados pelo Mercado Livre. Apenas os novos produtos que serão enviados terão que ser mapeados utilizando a nova interface. 
 
-Para saber mais sobre como utilizar a nova interface, leia o artigo [Enviar produtos para o Mercado Livre](/pt/docs/tracks/mapear-categorias-e-atributos-dos-produtos-para-o-mercado-livre-mapper).
+Para saber mais sobre como utilizar a nova interface, leia o artigo [Enviar produtos para o Mercado Livre](/pt/docs/tutorials/mapear-categorias-e-atributos-dos-produtos-para-o-mercado-livre-mapper).
