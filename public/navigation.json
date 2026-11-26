@@ -20761,21 +20761,6 @@
                     },
                     {
                       "name": {
-                        "en": "Managing page and template content",
-                        "es": "Gestionar contenido de páginas y templates",
-                        "pt": "Gerenciando conteúdo de página e template"
-                      },
-                      "slug": {
-                        "en": "managing-page-and-template-content",
-                        "es": "gestionar-contenido-de-paginas-y-templates",
-                        "pt": "gerenciando-conteudo-de-pagina-e-template"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
                         "en": "Managing content per binding",
                         "es": "Gestionar el contenido según el binding",
                         "pt": "Gerenciando conteúdo por binding"
@@ -20799,6 +20784,21 @@
                         "en": "managing-content-versions",
                         "es": "gestion-de-versiones-de-contenido",
                         "pt": "gerenciando-versoes-de-conteudo"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Managing page and template content",
+                        "es": "Gestionar contenido de páginas y templates",
+                        "pt": "Gerenciar conteúdo de página e template"
+                      },
+                      "slug": {
+                        "en": "managing-page-and-template-content",
+                        "es": "gestionar-contenido-de-paginas-y-templates",
+                        "pt": "gerenciando-conteudo-de-pagina-e-template"
                       },
                       "origin": "",
                       "type": "markdown",

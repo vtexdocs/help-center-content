@@ -17,7 +17,7 @@ subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 
 The Site Editor natively reflects the Store Theme app, enabling you to overwrite the predefined configurations for blocks and create new content for your store pages and templates.
 
-> ℹ️ The Site Editor does not allow you to add a new block to a template or specific page. It also cannot remove, reorder, or hide blocks. It only changes the configuration of blocks already declared in the Store Theme app. Changing the page structure requires a change to the theme code by a developer.
+> ℹ️ The Site Editor does not allow you to add a new block to a template or specific page, only overwrite existing block configurations from the Store Theme app.
 
 Exercise your autonomy over code and build the desired storefront scenario according to your business needs using a friendly interface in your favor!
 
@@ -76,7 +76,9 @@ Every configuration performed on Site Editor natively overwrites the one set thr
 
 In practice, this means that the newly created or updated content through the module is mostly classified as active automatically, depending on if a start and/or end date was predefined.
 
-To activate a content, click `Versions`, choose the content, and click `More options` > **Activate**. Only one content is active at a time. For more information, see [Managing content versions](/en/docs/tutorials/managing-content-versions#activating-versions).
+Notice that by clicking on a given content's kebab menu (three dots), the only available action is to delete or reset it — there is no button regarding its activation.
 
-> ℹ️ When you delete or reset the active content, the first content in the line of inactive contents is activated. The line for inactive contents starts from the newest content to the oldest. Keep in mind that the contents created through Site Editor always prevail over what was defined in the Store Theme.
+The successful path to define which content should be active and inactive is to delete or reset the current active content to let the first inactive inline become activated instead. 
+
+> ℹ️ The line for inactive contents starts from the newest content to the oldest. Keep in mind that the contents created through Site Editor always prevail over what was defined in the Store Theme.
 
