@@ -210,7 +210,7 @@ O dashboard oferece os seguintes controles:
 
 ### Critérios de Atendido por IA
 
-No fechamento diário, os atendimentos são classificados como **Atendido por IA** ou **Não atendido por IA**, com base em uma série de critérios. Você pode editar esses critérios clicando no botão de <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
+No fechamento diário das [Conversas](#conversas), os atendimentos são classificados como **Atendido por IA** ou **Não atendido por IA**, com base em uma série de critérios. Esses critérios podem ser editados clicando no botão de <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
 
 Para visualizar e gerenciar os critérios, clique no ícone de três pontos (<i class="fas fa-ellipsis-v" aria-hidden="true"></i>). O painel lateral **Critérios de Atendido por IA** apresenta duas seções:
 
@@ -220,7 +220,7 @@ Para visualizar e gerenciar os critérios, clique no ícone de três pontos (<i 
 Para adicionar um critério, siga os passos a seguir:
 
 1. Na tela de **Critérios de Atendido por IA**, clique em `Adicionar critério`.
-2. Escreva seu critério no campo de mensagem e clique em `Validar`.
+2. Escreva seu critério no campo de mensagem e clique em `Validar`. (Por exemplo: "Caso o problema do cliente não consiga ou não possa ser resolvido virtualmente, considere que um atendimento foi atendido pela IA quando o cliente tem informações suficientes sobre o procedimento correto a seguir e/ou sabe o que fazer para resolver seu problema".)
 
     > ❗ A IA rejeita critérios vazios, ofensivos, fora de escopo, impossíveis de avaliar a partir de uma conversa ou que contradizem um critério-base. O painel explica por que o critério foi invalidado. Reescreva o critério e tente validar novamente.
 
