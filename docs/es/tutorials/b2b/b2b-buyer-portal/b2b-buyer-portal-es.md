@@ -26,6 +26,7 @@ Este artículo resume las principales funcionalidades de **B2B Buyer Portal** y 
 - [Direcciones y gestión de pagos](#direcciones-y-gestion-de-pagos)
 - [Cuenta de la organización](#cuenta-de-la-organizacion)
 - [Punchout](#punchout)
+- [Pedido rápido con IA](#pedido-rapido-con-ia)
 
 ## Contratos
 
@@ -129,6 +130,10 @@ Punchout permite la integración con sistemas externos de procurement, posibilit
 Esta funcionalidad está diseñada para organizaciones que utilizan software de procurement centralizado y necesitan que las vitrinas de sus proveedores estén integradas a los flujos de compra existentes.
 
 > ℹ️ Esta funcionalidad funciona exclusivamente por la [API de Punchout](https://developers.vtex.com/docs/api-reference/punchout-api#overview). Consulta más información en la [guía de integración de Punchout](https://developers.vtex.com/docs/guides/punchout).
+
+## Pedido rápido con IA
+
+Los compradores pueden crear un carrito rápidamente enviando un archivo con los ítems que desean. Tras el envío, el **Agente de creación de pedidos** monta el pedido y el comprador puede finalizar la compra a continuación. Esta funcionalidad se encuentra disponible solo para cuentas seleccionadas entre las tiendas que usan B2B Buyer Portal. Más información en [Pedido rápido con IA](https://help.vtex.com/es/docs/tutorials/pedido-rapido-con-ia).
 
 ## Más información
 
