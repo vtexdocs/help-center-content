@@ -36,7 +36,7 @@ Only the Sponsor user can perform these critical maintenance and authorization a
 * Authenticating your account in our native connectors, including:
     * [Facebook](/en/docs/tracks/configuring-the-connector-facebook)
     * [Google Shopping](/en/docs/tracks/authenticating-your-google-shopping-account)
-    * [Mercado Libre](/en/docs/tracks/authorizing-mercado-livre-integration-in-vtex-panel)
+    * [Mercado Libre](/en/docs/tutorials/authorizing-mercado-livre-integration-in-vtex-panel)
 * [Approve order cancellation requests](/en/docs/tutorials/order-cancellation-requested-by-the-customer)
 
 In addition, when VTEX needs to communicate store-sensitive information, such as changes in roles, such communication is done directly and exclusively with the Sponsor user.
