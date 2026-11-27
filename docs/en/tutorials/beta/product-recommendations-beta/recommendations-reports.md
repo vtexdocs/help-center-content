@@ -6,6 +6,7 @@ contentType: tutorial
 productTeam: Intelligent Search
 slugEN: recommendations-reports
 locale: en
+hidden: true
 ---
 
 > ℹ️ This feature is in closed beta and only available to selected clients. If you're a VTEX client and want to adopt this feature for your business, contact our [Commercial Support](https://help.vtex.com/en/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client but are interested in this solution, complete the [contact form](https://www.vtex.com/en-us/contact-us/).

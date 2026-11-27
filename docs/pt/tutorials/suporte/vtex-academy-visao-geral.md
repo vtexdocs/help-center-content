@@ -1,5 +1,5 @@
 ---
-title: 'VTEX Academy - Visão geral'
+title: 'VTEX Academy'
 id: 5Leoe6Bh2CxG9DdJI5MzE8
 status: PUBLISHED
 createdAt: 2025-01-10T13:39:02.734Z
