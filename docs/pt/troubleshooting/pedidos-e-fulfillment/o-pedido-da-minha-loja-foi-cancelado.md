@@ -3,7 +3,7 @@ title: 'O pedido da minha loja foi cancelado'
 id: 6qOCSBno1vS9TmHWWveOc
 status: PUBLISHED
 createdAt: 2025-02-04T13:04:34.645Z
-updatedAt: 2026-10-07T00:00:00.000Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-02-04T13:30:15.393Z
 firstPublishedAt: 2025-02-04T13:30:15.393Z
 contentType: tutorial

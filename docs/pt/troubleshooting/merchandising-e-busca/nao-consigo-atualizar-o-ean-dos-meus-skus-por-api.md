@@ -3,7 +3,7 @@ title: 'Não consigo atualizar o EAN dos meus SKUs por API'
 id: 1gHfGo3TpSTHqb5ZNzwq3m
 status: PUBLISHED
 createdAt: 2024-06-18T16:50:42.770Z
-updatedAt: 2026-10-07T00:00:00.000Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2024-11-08T18:51:55.033Z
 firstPublishedAt: 2024-06-18T17:28:22.909Z
 contentType: tutorial

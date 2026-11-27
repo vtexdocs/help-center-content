@@ -4,7 +4,7 @@ excerpt: "Se o conector de pagamento falha nas validações iniciais, o pedido �
 id: 5zznO7GMtUYKCkIKyc84II
 status: PUBLISHED
 createdAt: 2018-02-16T15:50:02.020Z
-updatedAt: 2026-10-07T00:00:00.000Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:25:21.793Z
 firstPublishedAt: 2018-02-16T16:16:00.358Z
 contentType: frequentlyAskedQuestion

@@ -3,7 +3,7 @@ title: 'Não recebi o email com o relatório exportado do Master Data v1'
 id: 1zUBgmgkgMZyHyy0veR7Oj
 status: PUBLISHED
 createdAt: 2022-10-17T19:56:25.618Z
-updatedAt: 2026-10-07T00:00:00.000Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2024-11-08T19:24:55.587Z
 firstPublishedAt: 2022-10-17T19:59:15.174Z
 contentType: tutorial

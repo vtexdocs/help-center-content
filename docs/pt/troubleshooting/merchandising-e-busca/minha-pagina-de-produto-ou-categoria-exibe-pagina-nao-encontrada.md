@@ -3,7 +3,7 @@ title: "Minha página de produto ou categoria exibe 'Página não encontrada'"
 id:
 status: PUBLISHED
 createdAt: 2026-04-30T00:00:00.000Z
-updatedAt: 2026-10-07T00:00:00.000Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt:
 firstPublishedAt:
 contentType: tutorial

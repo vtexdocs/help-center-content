@@ -3,7 +3,7 @@ title: 'Pedidos com a Amazon apresentam erros de integração'
 id: 1ukX1Gw4fVUs62IIpGgsZF
 status: PUBLISHED
 createdAt: 2024-09-12T16:05:45.774Z
-updatedAt: 2026-10-07T00:00:00.000Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2024-11-08T18:29:42.178Z
 firstPublishedAt: 2024-09-12T16:24:22.283Z
 contentType: tutorial

@@ -4,7 +4,7 @@ excerpt: "Um 404 no cancelamento em geral significa falha na API de um parceiro.
 id: 7re22Xm5MswgmkgKiyiygE
 status: PUBLISHED
 createdAt: 2018-02-19T19:22:21.391Z
-updatedAt: 2026-10-07T00:00:00.000Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-03-22T20:05:41.355Z
 firstPublishedAt: 2018-02-19T19:36:07.899Z
 contentType: frequentlyAskedQuestion

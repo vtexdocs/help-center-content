@@ -1,7 +1,7 @@
 ---
 title: 'A cobrança do Master Data não diminuiu depois que excluí uma entidade de dados'
 createdAt: '2026-08-07T00:00:00.000Z'
-updatedAt: 2026-10-07T00:00:00.000Z
+updatedAt: 2026-11-27T00:00:00.000Z
 contentType: tutorial
 productTeam: Master Data
 slugEN: master-data-billing-did-not-decrease-after-deleting-a-data-entity

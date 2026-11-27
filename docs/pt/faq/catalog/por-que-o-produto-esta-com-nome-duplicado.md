@@ -4,7 +4,7 @@ excerpt: "A vitrine mostra os dois nomes quando o nome do produto e o do SKU nã
 id: frequentlyAskedQuestions_380
 status: PUBLISHED
 createdAt: 2017-04-27T22:36:22.480Z
-updatedAt: 2026-10-07T00:00:00.000Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:30.306Z
 firstPublishedAt: 2017-04-27T23:01:46.393Z
 contentType: frequentlyAskedQuestion

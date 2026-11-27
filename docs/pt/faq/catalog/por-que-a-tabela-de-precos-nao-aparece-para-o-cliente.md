@@ -4,7 +4,7 @@ excerpt: "O SKU precisa estar ativo, e o cadastro do cliente no Master Data deve
 id: 2F1RtrQzy9J4fUKxu2X57e
 status: PUBLISHED
 createdAt: 2019-02-25T22:12:13.228Z
-updatedAt: 2026-10-07T00:00:00.000Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2021-04-09T18:29:32.683Z
 firstPublishedAt: 2019-02-25T22:13:55.736Z
 contentType: frequentlyAskedQuestion

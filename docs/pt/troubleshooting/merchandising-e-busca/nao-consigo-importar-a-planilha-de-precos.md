@@ -3,7 +3,7 @@ title: 'Não consigo importar a planilha de preços'
 id: bglrzs7gLKWf97q8qRdRm
 status: PUBLISHED
 createdAt: 2024-06-10T15:11:02.787Z
-updatedAt: 2026-10-07T00:00:00.000Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2024-11-08T18:50:45.313Z
 firstPublishedAt: 2024-06-10T17:28:51.238Z
 contentType: tutorial

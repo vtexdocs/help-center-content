@@ -4,7 +4,7 @@ excerpt: "Aprovado significa que a cobrança foi autorizada e capturada. Finaliz
 id: 5kOSpUYvTyuUKOOws2A8Me
 status: PUBLISHED
 createdAt: 2017-05-22T17:47:40.705Z
-updatedAt: 2026-10-07T00:00:00.000Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-03-31T18:32:08.359Z
 firstPublishedAt: 2017-06-13T15:25:12.427Z
 contentType: frequentlyAskedQuestion

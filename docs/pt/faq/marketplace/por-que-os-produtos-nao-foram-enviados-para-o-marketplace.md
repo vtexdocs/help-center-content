@@ -4,7 +4,7 @@ excerpt: "O envio de produtos depende das Integrações e da catalogação no ma
 id: frequentlyAskedQuestions_727
 status: PUBLISHED
 createdAt: 2017-04-27T22:27:52.318Z
-updatedAt: 2026-10-07T00:00:00.000Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:53.255Z
 firstPublishedAt: 2017-04-27T23:02:34.481Z
 contentType: frequentlyAskedQuestion

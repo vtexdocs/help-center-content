@@ -4,7 +4,7 @@ excerpt: "Um preço fixo no SKU sobrescreve o preço de lista. Remova ou ajuste 
 id: 7zB1S10crK6QXiWcDTUFtE
 status: PUBLISHED
 createdAt: 2019-03-25T20:41:57.520Z
-updatedAt: 2026-10-07T00:00:00.000Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:12.007Z
 firstPublishedAt: 2019-03-25T20:46:55.655Z
 contentType: frequentlyAskedQuestion
