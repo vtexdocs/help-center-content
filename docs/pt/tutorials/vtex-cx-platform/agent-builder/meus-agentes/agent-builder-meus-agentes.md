@@ -1,0 +1,167 @@
+---
+title: 'Meus agentes'
+createdAt: 2026-11-27T00:00:00.000Z
+updatedAt: 2026-11-27T00:00:00.000Z
+contentType: tutorial
+productTeam: Post-purchase
+slugEN: agent-builder-my-agents
+locale: pt
+categoryCover: true
+---
+
+Na seção de **Meus agentes** do [Agent Builder](https://help.vtex.com/pt/docs/tutorials/visao-geral-agent-builder), você pode editar o manager, que é o agente orquestrador da sua operação, e as instruções que ele deve seguir. Nessa página, você também consegue testar e atribuir cada um dos agentes colaboradores.
+
+Para entender como atribuir agentes, leia o artigo [Atribuir e testar um agente](https://help.vtex.com/pt/docs/tutorials/atribuir-e-testar-agentes).
+
+### Tipos de conteúdos suportados
+
+O agente orquestrador usa as informações fornecidas pelos clientes na conversa para entender o contexto do atendimento e saber quais colaboradores acionar. O agente orquestrador consegue interpretar diferentes tipos de conteúdo:
+
+- Mensagens de texto.
+- Imagens.
+- Arquivos PDF.
+
+> ⚠️ A leitura de arquivos PDF pelo agente orquestrador está limitada a documentos de até cinco páginas.
+
+## Editar manager
+
+A opção **Editar Manager** do agente orquestrador tem as seguintes abas:
+
+- [Perfil](#perfil)
+- [Motor](#motor)
+
+### Perfil
+
+Nessa aba, você encontra campos customizáveis para personalizar a identidade e o comportamento do seu agente orquestrador.
+
+Para customizar o seu agente, preencha os campos a seguir:
+
+- **Qual nome o agente usa para se apresentar?:** nome do agente que será exibido aos clientes.
+- **Qual é a função principal do agente?:** função principal do agente para os usuários entenderem a sua especialidade (por exemplo: atendente).
+- **Qual é o objetivo principal do agente?:** objetivo principal do agente (por exemplo: ajudar a tirar dúvidas).
+- **Qual é o tom de voz do agente?:** tom de voz que o agente vai usar para se comunicar com os usuários. Selecione um dos tons de voz predefinidos.
+
+Leia a seguir a descrição detalhada de cada tom de voz:
+
+| Tom de voz do agente | Descrição |
+| --- | --- |
+| Amigável | Interage de forma calorosa e acolhedora, fazendo o cliente se sentir confortável e bem-vindo, estabelecendo uma conexão com empatia e compreensão. |
+| Sistemático | Com um método claro e bem estruturado, segue passos definidos para resolver problemas. Usa uma abordagem lógica e ordenada, com consistência e precisão na comunicação e no suporte ao cliente. |
+| Analítico | Garante que todas as informações estejam dispostas de forma clara e acessível. Ele é lógico e objetivo, guiando o cliente por cada etapa de maneira metodológica, para que nenhum detalhe seja perdido. |
+| Criativo | Utiliza a imaginação para se comunicar, priorizando soluções originais. Ele é capaz de oferecer respostas diferenciadas e adaptar a linguagem para tornar o conteúdo mais relevante e cativante para o cliente. |
+| Informal | É leve, energético e informal. Mantém um tom mais acessível e humano. |
+
+### Motor
+
+Em **Fonte de motor**, você pode selecionar o modelo de agente nativo do VTEX CX Platform ou um modelo de LLM no qual você possua uma Chave API cadastrada. Caso deseje utilizar o modelo externo, selecione a opção **Chave API própria** e preencha os campos abaixo:
+
+- **Provedor**: empresa proprietária do modelo.
+- **Modelo**: versão disponível do modelo.
+- **API Key**: sua chave de API cadastrada no provedor do modelo.
+
+> ℹ️ Para ativar qualquer modificação realizada nas informações das abas **Perfil** ou **Motor**, é necessário clicar em `Salvar alterações`.
+
+Se você selecionou o motor nativo da plataforma, poderá escolher, em **Versão do manager**, entre duas opções de agente orquestrador:
+
+- **Manager 2.8** (Recomendado).
+- **Manager 2.7** (Modelo legado).
+
+Em **Prévia dos agentes**, existem duas configurações possíveis:
+
+- **Formato de mensagem múltipla:** ative-o <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o agente envie várias mensagens, como respostas rápidas, listas, catálogo. Caso contrário, deixe-o desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
+
+- **Feedback progressivo dos agentes (disponível somente para o Shopping Assistant):** ative-o <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o Shopping Assistant mostre atualizações curtas enquanto prepara a resposta final. Essas atualizações não alteram a resposta final e não exigem desenvolvimento adicional na loja. Caso contrário, deixe-o desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
+
+> ⚠️ As opções **Feedback progressivo dos agentes** e **Formato de mensagem múltipla** não podem ser ativadas ao mesmo tempo.
+
+Em **Mensagens do sistema**, você pode personalizar a mensagem de erro enviada ao cliente quando um erro de API impede o agente de gerar uma resposta. Cada projeto pode ter a sua própria mensagem, adaptada ao tom de voz da marca.
+
+> ⚠️ A mensagem de erro é enviada exatamente como configurada e não é traduzida automaticamente. Escreva o texto no idioma em que o seu agente atende os clientes.
+
+Para salvar seus ajustes, clique em `Salvar alterações`.
+
+## Editar instruções
+
+Ao clicar no botão `Editar instruções` do agente orquestrador, você acessa a página **Instruções**, onde pode adicionar instruções diretas para determinar como seu agente se comporta. Não há limite para a quantidade de instruções que podem ser criadas.
+
+Toda instrução personalizada é revisada por IA antes de ser salva. A revisão analisa a instrução em busca de problemas, sugere uma reescrita quando necessário e atribui uma categoria para que você possa organizar instruções relacionadas.
+
+### Criar uma instrução
+
+Para criar uma instrução personalizada, siga os passos a seguir:
+
+1. Na página **Instruções**, clique em `Nova instrução`.
+2. Digite a instrução.
+3. Clique em `Validar`.
+4. Em **Categoria sugerida**, mantenha a categoria atribuída pela IA, selecione outra opção em **Outras categorias** ou selecione **Sem categoria**.
+5. Clique em `Salvar`.
+
+> ℹ️ O botão `Salvar` fica disponível após a conclusão da revisão por IA. Quando nenhum problema é encontrado, o campo **Problemas encontrados** exibe **Tudo certo. Nenhum problema encontrado.** Para adicionar uma categoria antes de salvar, confira [Criar uma categoria](#criar-uma-categoria).
+
+> ⚠️ Se o campo **Problemas encontrados** listar algum problema, atualize a instrução ou clique em `Aplicar` em **Sugestão de reescrita**. Clique em `Desfazer` para restaurar o texto anterior. Depois de alterar o texto, clique em `Re-validar` e, em seguida, em `Salvar`.
+
+### Criar uma categoria
+
+Você pode criar uma categoria durante a criação ou edição de uma instrução e depois reutilizá-la em outras instruções.
+
+Para criar uma categoria, siga os passos a seguir:
+
+1. No painel lateral da instrução, abra **Categoria** ou **Categoria sugerida**.
+2. Clique em `Nova categoria`.
+3. Em **Nome da categoria**, digite um nome.
+4. Clique em `Criar`.
+5. Clique em `Salvar` para armazenar a instrução nessa categoria.
+
+> ℹ️ O nome da categoria pode ter até 50 caracteres e incluir letras, números, espaços e hifens. Use um nome exclusivo. A opção **Sem categoria** é reservada para instruções sem categoria. Uma categoria criada no painel lateral fica marcada com a tag **Novo** até que você salve a instrução.
+
+### Componentes interativos
+
+O agente orquestrador pode responder usando componentes interativos nativos do WhatsApp:
+
+| Componente | Descrição |
+| --- | --- |
+| Respostas rápidas (`quick_reply`) | Botões com opções predefinidas para o cliente escolher. |
+| Botões de ação (`call_to_action`) | Botões que direcionam o cliente para um link externo. |
+| Lista de mensagens (`list_message`) | Menu com uma lista de opções selecionáveis. |
+
+Para orientar o agente a usar um componente, cite-o diretamente em uma instrução personalizada. Por exemplo: "Ao perguntar sobre o status do pedido, use o componente `quick_reply` com as opções Rastrear pedido, Cancelar pedido e Falar com atendente".
+
+> ℹ️ Para que o agente envie componentes interativos, a opção **Formato de mensagem múltipla** deve estar ativada em **Editar Manager > Motor**.
+
+> ⚠️ O catálogo de produtos não é um componente nativo do agente orquestrador. Para enviar um catálogo, você precisa ter algum agente de Concierge atribuído ao time. Os agentes Concierge oficiais da VTEX já têm essa capacidade.
+
+### Visualizar instruções
+
+Selecione `Categorias` ou `Lista` para alterar o modo de exibição das instruções:
+
+- **Categorias:** agrupa as instruções por categoria. Uma categoria personalizada sem instruções permanece visível e exibe **Nenhuma instrução nesta categoria ainda**.
+
+- **Lista:** exibe cada instrução existente com a sua respectiva categoria.
+
+Use o campo de busca para encontrar uma instrução. Para baixar as instruções, clique em `Exportar instruções`.
+
+A página inclui os seguintes grupos:
+
+- **Sem categoria:** instruções personalizadas que não possuem uma categoria. Você pode editá-las e excluí-las. Este grupo não pode ser removido.
+
+- **Instruções padrão:** comportamentos definidos pela plataforma. Essas instruções não podem ser editadas ou removidas.
+
+Para editar ou excluir uma instrução personalizada, siga os passos a seguir:
+
+1. Clique no botão de três pontos <i class="fas fa-ellipsis-v" aria-hidden="true"></i> ao lado da instrução.
+2. Para editá-la, clique em `Editar instrução`, altere o texto ou a categoria e clique em `Salvar`.
+3. Para excluí-la, clique em `Excluir instrução` e confirme a exclusão.
+
+> ℹ️ O campo **Categoria** fica disponível assim que você abre a instrução. Clique em `Re-validar` para revisar o texto novamente. A revalidação mantém a categoria já selecionada.
+
+> ⚠️ A exclusão de uma instrução é permanente, e o agente deixa de segui-la.
+
+Para excluir uma categoria personalizada, siga os passos a seguir:
+
+1. Selecione `Categorias`.
+2. Abra o menu de ações da categoria.
+3. Clique em `Excluir categoria` e confirme a exclusão.
+
+> ℹ️ As instruções de uma categoria excluída são movidas para **Sem categoria**. Uma categoria vazia é removida da lista.
+
+Para escolher quais tópicos sensíveis o agente deve recusar, confira [Configurar camadas extras de segurança por projeto](https://help.vtex.com/pt/docs/tutorials/configurar-camadas-extras-de-seguranca-por-projeto).

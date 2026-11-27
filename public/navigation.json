@@ -34567,12 +34567,12 @@
                     "pt": "Meus agentes"
                   },
                   "slug": {
-                    "en": "assigning-and-testing-agents-in-agent-builder",
-                    "es": "asignar-y-probar-agentes",
-                    "pt": "atribuir-e-testar-agentes"
+                    "en": "my-agents-subcategory",
+                    "es": "mis-agentes-subcategoria",
+                    "pt": "meus-agentes-subcategoria"
                   },
                   "origin": "",
-                  "type": "markdown",
+                  "type": "category",
                   "children": [
                     {
                       "name": {
@@ -34603,8 +34603,38 @@
                       "origin": "",
                       "type": "markdown",
                       "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "My agents",
+                        "es": "Mis agentes",
+                        "pt": "Meus agentes"
+                      },
+                      "slug": {
+                        "en": "assigning-and-testing-agents-in-agent-builder",
+                        "es": "asignar-y-probar-agentes",
+                        "pt": "atribuir-e-testar-agentes"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
                     }
                   ]
+                },
+                {
+                  "name": {
+                    "en": "Meus agentes",
+                    "es": "Meus agentes",
+                    "pt": "Meus agentes"
+                  },
+                  "slug": {
+                    "en": "",
+                    "es": "",
+                    "pt": "agent-builder-meus-agentes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 },
                 {
                   "name": {
@@ -34956,6 +34986,21 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "name": {
+                    "en": "Base de conhecimento",
+                    "es": "Base de conhecimento",
+                    "pt": "Base de conhecimento"
+                  },
+                  "slug": {
+                    "en": "",
+                    "es": "",
+                    "pt": "base-de-conhecimento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
