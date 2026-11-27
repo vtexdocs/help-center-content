@@ -34591,6 +34591,21 @@
                 },
                 {
                   "name": {
+                    "en": "Analytics: Configuring Handled by AI criteria",
+                    "es": "Analytics: Configurar criterios de Atendido por IA",
+                    "pt": "Analytics: Configurar critérios de Atendido por IA"
+                  },
+                  "slug": {
+                    "en": "analytics-configuring-handled-by-ai-criteria",
+                    "es": "analytics-configurar-criterios-de-atendido-por-ia",
+                    "pt": "analytics-configurar-criterios-de-atendido-por-ia"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Analytics: Create custom dashboard",
                     "es": "Analytics: Crear dashboard personalizado",
                     "pt": "Analytics: Criar dashboard personalizado"
