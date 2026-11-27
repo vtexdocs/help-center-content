@@ -34608,6 +34608,21 @@
                 },
                 {
                   "name": {
+                    "en": "Meus agentes",
+                    "es": "Meus agentes",
+                    "pt": "Meus agentes"
+                  },
+                  "slug": {
+                    "en": "",
+                    "es": "",
+                    "pt": "meus-agentes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Automation flow",
                     "es": "Flujo de automatización",
                     "pt": "Fluxo de automação"
@@ -34956,6 +34971,21 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "name": {
+                    "en": "Base de conhecimento",
+                    "es": "Base de conhecimento",
+                    "pt": "Base de conhecimento"
+                  },
+                  "slug": {
+                    "en": "",
+                    "es": "",
+                    "pt": "base-de-conhecimento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
