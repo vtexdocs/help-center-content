@@ -3,7 +3,7 @@ title: 'How to customize the Checkout UI Custom in the Admin'
 id: 548aDBJciQu97Vh0BhEiWx
 status: PUBLISHED
 createdAt: 2024-01-04T13:27:04.734Z
-updatedAt: 2024-01-04T18:28:45.989Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2024-01-04T18:28:45.989Z
 firstPublishedAt: 2024-01-04T18:28:45.989Z
 contentType: tutorial
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
-> ⚠️ The Checkout UI Custom app is no longer maintained by VTEX. This means support and maintenance are no longer provided.
+> ⚠️ VTEX no longer maintains the Checkout UI Custom app. This means VTEX no longer provides support or maintenance.
 
 The Checkout customizations covered in this article are made using the Checkout UI Custom app. Before configuring it in your app, check if the app is installed in your store or install it as explained in the[ Checkout UI Custom](https://developers.vtex.com/docs/apps/vtex.checkout-ui-custom) article.
 
