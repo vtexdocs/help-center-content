@@ -28395,6 +28395,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with Dimo",
+                        "es": "Configurar pago con Dimo",
+                        "pt": "Configurar pagamento com Dimo"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-dimo",
+                        "es": "configurar-pago-con-dimo",
+                        "pt": "configurar-pagamento-com-dimo"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with Dinelco",
                         "es": "Configurar pago con Dinelco",
                         "pt": "Configurar pagamento com Dinelco"
@@ -30272,6 +30287,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with QPayPro",
+                        "es": "Configurar pago con QPayPro",
+                        "pt": "Configurar pagamento com QPayPro"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-qpaypro",
+                        "es": "configurar-pago-con-qpaypro",
+                        "pt": "configurar-pagamento-com-qpaypro"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with RedebanConnector",
                         "es": "Configurar pago con RedebanConnector",
                         "pt": "Configurar pagamento com RedebanConnector"
@@ -30626,6 +30656,21 @@
                         "en": "setting-up-payments-with-stripev2",
                         "es": "configurar-pago-con-stripev2",
                         "pt": "configurar-pagamento-com-stripev2"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with sumas",
+                        "es": "Configurar pago con sumas",
+                        "pt": "Configurar pagamento com sumas"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-sumas",
+                        "es": "configurar-pago-con-sumas",
+                        "pt": "configurar-pagamento-com-sumas"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -31001,6 +31046,21 @@
                         "en": "setting-up-payments-with-wompibancoltrans",
                         "es": "configurar-pago-con-wompibancoltrans",
                         "pt": "configurar-pagamento-com-wompibancoltrans"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with WompiCo",
+                        "es": "Configurar pago con WompiCo",
+                        "pt": "Configurar pagamento com WompiCo"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-wompico",
+                        "es": "configurar-pago-con-wompico",
+                        "pt": "configurar-pagamento-com-wompico"
                       },
                       "origin": "",
                       "type": "markdown",
