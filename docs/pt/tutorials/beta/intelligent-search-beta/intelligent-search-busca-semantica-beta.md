@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
-> ℹ️ Essa funcionalidade está na fase Beta fechada, o que significa que somente clientes selecionados têm acesso a ela no momento. Se já é cliente da VTEX e deseja adotar a Busca semântica no seu negócio, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/docs/tracks/suporte-comercial). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
+> ℹ️ Essa funcionalidade está na fase Beta aberta, o que significa que somente clientes selecionados têm acesso a ela no momento. Se já é cliente da VTEX e deseja adotá-la em seu negócio, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/docs/tracks/suporte-comercial). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
 
 O Intelligent Search combina a precisão das técnicas lexicais com a inteligência dos modelos semânticos de busca para oferecer uma experiência relevante, fluida e adaptada à intenção do usuário.
 
@@ -25,7 +25,7 @@ Essa estratégia melhora a descoberta de produtos, aumenta a conversão e reduz 
 
 O Intelligent Search une dois conceitos principais:
 
-* **Busca lexical**: baseada na correspondência direta de palavras-chave.  
+* **Busca lexical**: baseada na correspondência direta de palavras-chave.
 * **Busca semântica**: focada na interpretação do significado e da intenção por trás da consulta.
 
 Saiba mais sobre cada um a seguir.
@@ -36,9 +36,9 @@ A camada lexical da busca opera com base na correspondência direta entre os ter
 
 **Exemplo:**
 
-* **Consulta:** `Tênis Nike Air Max 90`  
+* **Consulta:** `Tênis Nike Air Max 90`
 
-   * A busca lexical retorna exatamente os produtos com esse nome no catálogo.
+  * A busca lexical retorna exatamente os produtos com esse nome no catálogo.
 
 ### Busca semântica
 
@@ -46,14 +46,14 @@ Já a camada semântica, baseada em **Processamento de Linguagem Natural (NLP)**
 
 **Exemplo:**
 
-* **Consulta**: `tênis para correr maratona`  
+* **Consulta**: `tênis para correr maratona`
 
-   * A busca semântica entende que o usuário procura um tênis com foco em performance de longa distância, e prioriza produtos voltados para corrida de resistência, mesmo que não usem “maratona” na descrição.
+  * A busca semântica entende que o usuário procura um tênis com foco em performance de longa distância, e prioriza produtos voltados para corrida de resistência, mesmo que não usem “maratona” na descrição.
 
 * **Consulta**: `roupas para treino no frio`
 
-   * **Lexical**: pode não encontrar correspondência direta com “treino no frio”.  
-   * **Semântica**: entende que o usuário procura por vestuário esportivo com proteção térmica, e prioriza peças como calças térmicas e blusas de manga longa.
+  * **Lexical**: pode não encontrar correspondência direta com “treino no frio”.
+  * **Semântica**: entende que o usuário procura por vestuário esportivo com proteção térmica, e prioriza peças como calças térmicas e blusas de manga longa.
 
 ## Abordagem do Intelligent Search
 
@@ -61,9 +61,9 @@ O Intelligent Search combina essas duas estratégias de forma dinâmica. A plata
 
 Esse modelo considera:
 
-* Campos estruturados do catálogo (lexical)  
-* Relações entre termos e sinônimos (semântica)  
-* Contexto da busca e comportamento do usuário  
+* Campos estruturados do catálogo (lexical)
+* Relações entre termos e sinônimos (semântica)
+* Contexto da busca e comportamento do usuário
 * Relevância estatística e aprendizado de máquina
 
 O resultado é um sistema de busca que oferece resultados mais alinhados ao que os consumidores realmente querem encontrar, mesmo quando usam linguagem natural ou ambígua.
@@ -72,17 +72,39 @@ Exemplo: um ecommerce de informática recebe tanto buscas específicas por "SSD 
 
 Na prática, se um cliente digita "memória 16GB", por exemplo, a parte léxica identifica a capacidade exata (16GB) enquanto o componente semântico entende que "memória" pode se referir tanto a RAM quanto a cartões de memória, apresentando ambas as categorias com prioridade para os produtos mais relevantes baseados no comportamento anterior do usuário.
 
+### Purchase Signal Reranking (PSR)
+
+A Busca semântica se beneficia do histórico de compras da loja. O Purchase Signal Reranking (PSR) identifica, para cada produto, os termos de busca que mais geraram pedidos e monta com eles uma base de termos associados àquele produto.
+
+Essa base é usada como entrada do modelo da Busca semântica e atua diretamente no score dela: um produto que costuma ser comprado depois de determinada busca tende a ter um score maior para ela.
+
+O PSR é padrão em todas as lojas com Busca semântica, não exige ativação nem configuração e não compete com as [regras de relevância](https://help.vtex.com/pt/docs/tutorials/regras-de-relevancia) padrão.
+
+#### Requisitos
+
+Para alimentar essa base, a loja precisa enviar eventos de busca ao [Activity Flow](https://developers.vtex.com/docs/guides/activity-flow). As ações necessárias dependem da tecnologia de frente de loja utilizada:
+
+| Situação | O que fazer |
+| :---- | :---- |
+| Loja com [Store Framework](https://help.vtex.com/pt/docs/tracks/frontend#store-framework) e componentes nativos | Nada. Os eventos já são enviados automaticamente. Para implementar os componentes de busca em lojas Store Framework, consulte [Implementar a busca no frontend da loja](https://help.vtex.com/pt/docs/tracks/implementar-a-busca-no-frontend-da-loja). |
+| Loja [FastStore](https://help.vtex.com/pt/docs/tracks/frontend#faststore) na versão 3.90.0 ou superior | Nada. Os eventos já são enviados automaticamente. Para implementar os componentes de busca em lojas FastStore, consulte [Implementing search features](https://developers.vtex.com/docs/guides/faststore/storefront-features-implementing-search-features). |
+| Loja [FastStore](https://help.vtex.com/pt/docs/tracks/frontend#faststore) em versão anterior à 3.90.0 | Atualizar a loja para a versão 3.90.0 ou superior. |
+| Loja headless | [Instalar o Activity Flow em lojas headless](https://developers.vtex.com/docs/guides/installing-activity-flow-in-headless-stores) e enviar os eventos de busca. Integrações novas devem usar a [Intelligent Search API v1](https://developers.vtex.com/docs/api-reference/intelligent-search-api-v1). Confirmar a instalação e o funcionamento dos eventos de busca seguindo o passo de validação do guia [Instalar o Activity Flow em lojas headless](https://developers.vtex.com/docs/guides/installing-activity-flow-in-headless-stores). |
+| App mobile | [Instalar o Activity Flow em apps mobile](https://developers.vtex.com/docs/guides/installing-activity-flow-in-mobile-apps) e enviar os eventos de busca. |
+
 ## Vantagens
 
 A seguir, destacamos as principais vantagens dessa solução para a experiência do consumidor e a performance da loja:
 
-* **Aumento na conversão:** a entrega de resultados mais relevantes reduz o tempo até a descoberta de um produto, o que pode acelerar decisões de compra.  
-* **Entendimento de linguagem natural:** clientes podem buscar como falam: com perguntas completas, termos vagos ou linguagem informal. Por exemplo, é possível fazer uma consulta `qual é o melhor tênis para trilha?` e a busca entende que o cliente procura calçados com características específicas, como solado tratorado e resistência à água.  
+* **Aumento na conversão:** a entrega de resultados mais relevantes reduz o tempo até a descoberta de um produto, o que pode acelerar decisões de compra.
+* **Entendimento de linguagem natural:** clientes podem buscar como falam: com perguntas completas, termos vagos ou linguagem informal. Por exemplo, é possível fazer uma consulta `qual é o melhor tênis para trilha?` e a busca entende que o cliente procura calçados com características específicas, como solado tratorado e resistência à água.
 * **Suporte a casos complexos de descoberta:** ideal para catálogos com produtos com descrições mais subjetivas (ex: moda, beleza, decoração), onde o atributo exato pode não estar explicitamente presente, mas a intenção do usuário pode ser inferida.
 
 ## Como testar a Busca semântica
 
 Antes de aplicar a Busca semântica para todos os clientes da loja, é possível testá-la para comparar os resultados com e sem essa funcionalidade. A forma de teste depende da arquitetura da loja.
+
+Para que o PSR influencie os resultados durante o teste, a loja precisa estar enviando eventos de busca ao Activity Flow. Veja os [requisitos](#requisitos) do PSR.
 
 ### Lojas Store Framework
 
@@ -102,14 +124,11 @@ Para testar a Busca semântica em uma chamada específica, adicione o parâmetro
 
 **Exemplo:**
 
-* Sem Busca semântica:
-   `https://{accountName}.vtexcommercestable.com.br/api/intelligent-search/v1/product-search?query=leite%20para%20bebe`
-* Com Busca semântica:
-   `https://{accountName}.vtexcommercestable.com.br/api/intelligent-search/v1/product-search?query=leite%20para%20bebe&semanticRatio=0.5`
+* Sem Busca semântica: `https://{accountName}.vtexcommercestable.com.br/api/intelligent-search/v1/product-search?query=leite%20para%20bebe`
+* Com Busca semântica: `https://{accountName}.vtexcommercestable.com.br/api/intelligent-search/v1/product-search?query=leite%20para%20bebe&semanticRatio=0.5`
 
 Como o parâmetro é adicionado apenas na URL da chamada de teste, ele não altera a configuração da loja nem afeta outras chamadas. Isso permite comparar as duas versões lado a lado ou usar essa URL em uma ferramenta própria de teste A/B para direcionar parte do tráfego para a versão com Busca semântica.
 
 ### Ativação direta em produção
 
 Também é possível ativar a Busca semântica diretamente para todas as chamadas feitas à API, sem a necessidade de incluir o parâmetro `semanticRatio` em cada requisição. Essa ativação deve ser solicitada ao [Suporte](https://help.vtex.com/pt/docs/tutorials/como-funciona-o-suporte-da-vtex) e, como aplica a mudança para todos os clientes da loja em produção, não é recomendada como forma de teste.
-
