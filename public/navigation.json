@@ -34627,12 +34627,12 @@
                     "pt": "Meus agentes"
                   },
                   "slug": {
-                    "en": "my-agents-subcategory",
-                    "es": "mis-agentes-subcategoria",
-                    "pt": "meus-agentes-subcategoria"
+                    "en": "agent-builder-my-agents",
+                    "es": "agent-builder-mis-agentes",
+                    "pt": "agent-builder-meus-agentes"
                   },
                   "origin": "",
-                  "type": "category",
+                  "type": "markdown",
                   "children": [
                     {
                       "name": {
@@ -34644,6 +34644,21 @@
                         "en": "official-agents-from-vtex-cx-platform",
                         "es": "agentes-oficiales-de-vtex-cx-platform",
                         "pt": "agentes-oficiais-da-vtex-cx-platform"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Assigning and testing agents in Agent Builder",
+                        "es": "Asignar y probar agentes en Agent Builder",
+                        "pt": "Atribuir e testar agentes no Agent Builder"
+                      },
+                      "slug": {
+                        "en": "assigning-and-testing-agents-in-agent-builder",
+                        "es": "asignar-y-probar-agentes",
+                        "pt": "atribuir-e-testar-agentes-no-agent-builder"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -34663,38 +34678,8 @@
                       "origin": "",
                       "type": "markdown",
                       "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "My agents",
-                        "es": "Mis agentes",
-                        "pt": "Meus agentes"
-                      },
-                      "slug": {
-                        "en": "assigning-and-testing-agents-in-agent-builder",
-                        "es": "asignar-y-probar-agentes",
-                        "pt": "atribuir-e-testar-agentes"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
                     }
                   ]
-                },
-                {
-                  "name": {
-                    "en": "Meus agentes",
-                    "es": "Meus agentes",
-                    "pt": "Meus agentes"
-                  },
-                  "slug": {
-                    "en": "",
-                    "es": "",
-                    "pt": "agent-builder-meus-agentes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 },
                 {
                   "name": {
