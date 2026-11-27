@@ -29,3 +29,5 @@ Por lo tanto, si tiene problemas relacionados con plazos incoherentes o divergen
 5. Haz clic en `Guardar`.
 
 Para saper más, consulte el artículo [Registrar Feriados](/es/docs/tutorials/registrar-feriados).
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga la divergencia de plazo: envíale el número del pedido y Copilot verifica la fecha de envío estimada y revisa los feriados registrados en tu configuración de envío.

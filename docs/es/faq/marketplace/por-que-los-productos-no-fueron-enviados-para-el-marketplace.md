@@ -17,6 +17,8 @@ legacySlug: por-que-los-productos-no-fueron-enviados-para-el-marketplace
 
 El envío de productos para el marketplace pasa por dos grandes procesos: el proceso de integración en sí, que puede ser acompañado por el Integraciones y el proceso de catalogación, que es realizado por el marketplace. Vea más detalles sobre cada uno de estos procesos a continuación.
 
+> ℹ️ Para descartar las causas más comunes del lado de la plataforma pide a [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) verificar en el Admin VTEX: usando el ID del SKU Copilot verifica si el producto está activo y en la política comercial del marketplace y si tiene precio y stock.
+
 ## Verifique el Integraciones
 
 Integraciones es el primer lugar que se debe considerar para entender el escenario. [Acceda y verifique el status de integración de cada producto](/es/docs/tutorials/como-verificar-la-integracion-en-bridge).

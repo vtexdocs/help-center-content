@@ -28,3 +28,5 @@ This means that if a purchase was made on __4/15__, the credit card settlement w
 
 On the other hand, the voucher settlement will be done automatically as soon as the payment is approved.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the settlement status of each payment. Provide the transaction ID, and VTEX Copilot will display the settlement history and the payment conditions configured in your store.
+

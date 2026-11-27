@@ -17,6 +17,8 @@ legacySlug: por-que-el-pedido-no-actualiza-el-status
 
 Ese escenario puede ocurrir con 3 status, 2 en VTEX y 1 en marketplace. Sigue la descripción abajo.
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) investiga el pedido en el Admin VTEX: envíale el número del pedido y Copilot identifica en qué etapa el flujo se detuvo (pago, factura, preparación o ERP) y qué acciones se deben realizar.
+
 ## En espera de la autorización para despachar
 
 Ese status ocurre cuando el marketplace todavía no informó la confirmación de pago. Sólo se modifica el status cuando se actualiza esa información en el marketplace, o sea, sólo cuando se confirme el pago.

@@ -29,6 +29,8 @@ Before considering complex causes for errors with orders that were not created, 
 * The item was not available in the [inventory](/en/docs/tutorials/managing-stock-items), and the store was not configured to sell _out-of-stock_ products.
 * The XML integration was not configured to send information about _out-of-stock_ products.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate why the order wasn't created. Provide the SKU ID and the customer's postal code, and VTEX Copilot will determine whether the issue is related to pricing, inventory, or shipping.
+
 ## Solutions
 
 Consider the following troubleshooting processes for order creation errors:

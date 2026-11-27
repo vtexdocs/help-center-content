@@ -22,3 +22,5 @@ En este caso, es necesario entrar en contacto con el conector de pagos para ve
 En el mail de alerta enviado por el sistema, se incluyen informaciones útiles referentes a la autorización de la transacción que deberán ser informadas al equipo de soporte del conector.
 
 _Importante: En el caso de que desee alterar el mail de la persona que recibe las notificaciones del PCI Gateway, [clique aqui](/es/tutorial/como-configurar-notificacoes/) para saber cómo hcerlo._
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX verifica esta liquidación: envíale el número del pedido o el ID de la transacción y Copilot consulta el historial de liquidación en el módulo Pago y reúne los datos para que los valides con el proveedor.

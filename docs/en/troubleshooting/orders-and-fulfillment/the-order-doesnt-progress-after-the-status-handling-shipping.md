@@ -26,6 +26,8 @@ The status `Handling shipping` occurs in the [order flow](/en/docs/tutorials/ord
 
 An order remaining in the status `Handling shipping` longer than expected may be due to the invoices not being registered on VTEX.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate this order. Provide the order number, and VTEX Copilot will check whether the registered invoices cover the total order amount and recommend the next step. VTEX Copilot sees the order in VTEX, not in your ERP.
+
 ## Solution
 
 ### Checking invoices in ERP integrations

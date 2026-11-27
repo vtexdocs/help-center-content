@@ -25,6 +25,8 @@ En algunas situaciones, la transportadora puede que no se muestre como una opci�
 
 > ℹ️ Antes de continuar, asegúrate de que todas las [transportadoras estén registradas](https://help.vtex.com/es/docs/tutorials/transportadoras-na-vtex) correctamente en la plataforma.
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga por qué la transportadora no se muestra: envíale el ID del SKU y el código postal y Copilot simula el envío y revisa las políticas de envío, rangos de código postal, muelles y almacenes para identificar la causa.
+
 ## Soluciones
 
 ### Competencia entre transportadoras del mismo tipo

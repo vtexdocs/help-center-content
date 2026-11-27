@@ -24,3 +24,5 @@ Cuando el módulo de pago envía un email informando que es necesario el extorno
 Source Message: `The e-mail with subject gateway-extorno-manual-requerido has been successfully sent to usuario@tienda.com`.
 
 Cuando surge ese mensaje en la interacción, después de un intento de cancelación y extorno, de una transacción que ya tuvo el pago aprobado y/o liquidado, significa que no fue posible hacer el extorno en línea de forma automática junto al conector y será necesario efectuar el extorno manualmente.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga este caso: envíale el número del pedido y Copilot verifica el status de la transacción y si la cancelación o el reembolso se completó en el gateway, indicando si es necesario solicitar un reembolso manual al proveedor.

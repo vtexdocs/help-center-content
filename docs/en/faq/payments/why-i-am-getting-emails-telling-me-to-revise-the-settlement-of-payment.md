@@ -22,3 +22,5 @@ In this case, contact the connector and confirm whether the payment was settled 
 The alert email includes authorization details that you should share with the connector's support team.
 
 > ⚠️ To change the email address that receives PCI notifications, see [How to set up payment notifications](/en/docs/tutorials/how-to-configure-notifications).
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the settlement. Provide the order number or transaction ID, and VTEX Copilot will retrieve the settlement history from Payments, gathering the information you need to verify with the payment provider.

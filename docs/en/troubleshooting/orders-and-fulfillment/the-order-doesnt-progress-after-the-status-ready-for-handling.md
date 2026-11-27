@@ -26,6 +26,8 @@ The `Ready for handling` status occurs in the [order flow](/en/docs/tutorials/or
 
 Until VTEX receives this confirmation, the order remains in the `Ready for handling` status.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate this order. Provide the order number, and VTEX Copilot will check whether the order flow stopped while waiting for the ERP to release the order for handling and recommend the next steps. VTEX Copilot sees the order in VTEX, not in your ERP.
+
 ## Solution
 
 The first required action is to contact the person in charge of your [ERP integration](https://developers.vtex.com/docs/guides/erp-integration-guide) and confirm that the order has been released via the [Start handling order](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/start-handling) endpoint. Once this is confirmed, follow the steps below:

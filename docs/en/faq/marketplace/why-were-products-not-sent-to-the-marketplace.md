@@ -17,6 +17,8 @@ legacySlug: why-were-products-not-sent-to-the-marketplace
 
 Products reach the marketplace through two processes: the integration itself, which you can monitor in Integrations, and cataloging, which the marketplace owns.
 
+> ℹ️ To rule out the most common causes on the VTEX side, ask [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) in the VTEX Admin to perform the checks. Using the SKU ID, it verifies whether the product is active, whether it's associated with the marketplace sales channel, and whether it has a price and available inventory.
+
 ## Check integrations
 
 Start in Integrations. [Check the integration status of each product](/en/docs/tutorials/checking-integrations-in-bridge).

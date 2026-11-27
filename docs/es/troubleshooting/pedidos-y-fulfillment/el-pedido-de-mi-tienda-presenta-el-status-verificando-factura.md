@@ -27,6 +27,8 @@ Cuando el pedido permanece con el status `Verificando factura`, suele ser por lo
 * Hubo un problema con la [liquidación del pago](/es/docs/tutorials/configurar-tiempo-maximo-para-la-liquidacion-automatica).
 * La factura no se incluyó correctamente en el pedido, o la [factura](/es/docs/tutorials/como-facturar-manualmente-un-pedido) se realizó solo parcialmente.
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) investiga este pedido en el Admin VTEX: envíale el número del pedido y Copilot identifica si el bloqueo es causado por la liquidación del pago o la factura y qué acciones se deben realizar.
+
 ## Solución
 
 En cuanto a la liquidación del pago, el pedido permanece en `Verificando factura` hasta que el [gateway](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#gateway) confirma la liquidación del mismo, lo que se señala mediante el status `Settled` del [flujo de transacciones](/es/docs/tracks/flujo-de-una-transaccion). Pasado un tiempo, si la liquidación no se produce tendrás que crear otro pedido, ya que se trata de un problema de gateway y no de la plataforma.

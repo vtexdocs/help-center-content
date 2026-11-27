@@ -21,6 +21,8 @@ Sin embargo, hay casos en que esta promoción no es visualizada por algunos comp
 
 Separamos algunos escenarios en los que este error puede ocurrir y una resolución para cada uno de ellos. Todos están relacionados con el valor del clúster que se debe insertar en la plataforma.
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga este caso: ingresa el nombre de la promoción y el email de un cliente afectado y Copilot compara los valores de clúster de la promoción con el registro del cliente en Master Data.
+
 ## Ausencia del valor
 
 Esto puede suceder si la promoción se aplica a más de un clúster y se olvida alguna aplicación de su valor.

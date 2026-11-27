@@ -26,6 +26,8 @@ Cuando se remueve o desactiva un producto de la política comercial utilizada en
 
 Otro caso es cuando la cantidad del producto cae por debajo del [stock mínimo](/es/docs/tutorials/control-de-stock-minimo-para-integraciones) establecido en la configuración de la integración con el marketplace. Si el stock de un producto es menor que el valor configurado, se pausa el anuncio para evitar la venta de productos sin stock.
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga este problema del lado de la plataforma: envíale el ID del producto y Copilot verifica si el producto está en la política comercial de Mercado Libre y el stock disponible. El dashboard de Mercado Libre está fuera de su alcance.
+
 ## Solución
 
 Hay dos posibles soluciones para resolver este problema: [verificar la política comercial del producto](#verificar-la-politica-comercial-del-producto) y [verificar la configuración del stock mínimo](#verificar-el-stock-minimo).

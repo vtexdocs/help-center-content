@@ -29,3 +29,5 @@ You can monitor indexing and inventory integration in the [Index Report](/en/doc
 > ⚠️ If the sales channel uses a collection, confirm that the item belongs to that collection. Otherwise, the partner will not receive item updates.
 
 > ⚠️ If the sales channel does not use a collection and the setting is on the product, confirm that the product is enabled for that sales channel. Otherwise, the partner will not receive item updates.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate this issue. Provide the SKU ID, and VTEX Copilot will check inventory levels by warehouse, whether the loading dock is associated with the marketplace sales channel, and whether the product is included in that sales channel.

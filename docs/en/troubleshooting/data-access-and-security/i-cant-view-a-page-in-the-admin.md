@@ -25,6 +25,8 @@ When using the Admin, some users may experience *Error 403 - We're sorry, but yo
 
 These issues usually occur due to conflicts between admin user [roles](/en/docs/tutorials/roles) or specific browser settings.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate the 403 error. Provide the user's email address, and VTEX Copilot will compare their roles with the permissions granted by each role to identify whether a required role is missing or a role combination is conflicting.
+
 ## Solution
 
 Here are a few approaches to address these issues:

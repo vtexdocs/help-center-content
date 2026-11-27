@@ -27,6 +27,8 @@ If you get the message `"An error occurred in the data writing process. Make sur
 - [Incomplete mandatory SKU specifications.](/en/docs/tracks/specifications-concept-definition)
 - Incorrect file formatting.
 
+> ℹ️ If the error persists, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) in the VTEX Admin can check the required specifications for the category of the SKUs you're importing and, if necessary, open a ticket with VTEX Support that already includes the relevant details and screenshots as attachments.
+
 ## Solution
 
 You can solve this problem by:

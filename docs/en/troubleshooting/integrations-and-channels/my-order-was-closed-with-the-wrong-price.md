@@ -33,6 +33,8 @@ There are three possible causes for an order to be closed with the wrong price:
 
 > ℹ️ See other marketplace order integration errors [in this article](/en/troubleshooting/why-dont-marketplace-orders-integrate-with-my-store).
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can help identify the cause of the price discrepancy. Provide the SKU ID, and VTEX Copilot will show the price configured for each sales channel so you can compare it with the final price on the marketplace.
+
 ## Product price assumed by the marketplace
 
 This occurs when there's an issue sending the price from VTEX to the marketplace. This can happen for two reasons:

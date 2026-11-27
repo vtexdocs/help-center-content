@@ -29,6 +29,8 @@ This scenario occurs if the requested page or feature contains a cookie with spe
 
 Per [IETF](https://www.ietf.org/) (Internet Engineering Task Force) standards, the institution that documents the standards used on the internet, cookies should not contain special characters (non-ASCII). For more information on the characters accepted in cookies and headers, see [IETF - Request for Comments 7230 - Section 3.2.6 - Field Value Components](https://datatracker.ietf.org/doc/html/rfc7230#section-3.2.6).
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can help you identify the cookie containing special characters and, if the error persists, open a ticket with VTEX Support that already includes the relevant details and your screenshots as attachments.
+
 ## Solutions
 
 To remove the error message and allow the page or feature to be accessed again, you need to do the following:

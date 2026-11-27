@@ -28,3 +28,5 @@ Esto significa que, si una compra fue realizada el __15/04__, la liquidación de
 
 Y por su parte, la liquidación de la tarjeta de regalo se realizará automáticamente, tan pronto como se apruebe el pago.
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX verifica la liquidación de cada pago: envíale la transacción y Copilot muestra el historial de liquidación además de las condiciones de pago configuradas en tu tienda.
+

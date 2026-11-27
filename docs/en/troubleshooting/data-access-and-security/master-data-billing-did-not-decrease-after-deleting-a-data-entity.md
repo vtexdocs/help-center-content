@@ -18,6 +18,8 @@ After deleting a [data entity](/docs/tutorials/data-entity) via the Master Data 
 
 This issue occurs because deleting a data entity through the interface doesn't remove the documents (records) already stored in it. These documents continue to be counted toward the monthly billing until they are deleted through the API.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can help with this cleanup. Provide the data entity, and VTEX Copilot will identify the documents still stored in it and delete them after asking for your confirmation.
+
 ## Solution
 
 To solve this problem, follow the steps below:

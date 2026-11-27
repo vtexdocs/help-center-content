@@ -33,6 +33,8 @@ Hay tres posibles causas por las que se finaliza un pedido con precio incorrecto
 
 > ℹ️ Consulta otros errores de integración de pedidos de marketplace en [¿Por qué los pedidos del marketplace no se integran con mi tienda?](/es/troubleshooting/por-que-los-pedidos-del-marketplace-no-se-integran-con-mi-tienda).
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX identifica la causa de la divergencia: envíale el ID del SKU y muestra el precio configurado en cada política comercial para que lo compares con el valor fijado en el marketplace.
+
 ## Precio del producto asumido por el marketplace
 
 Esto ocurre cuando hay algún problema al enviar el precio de VTEX al marketplace por dos posibles motivos:

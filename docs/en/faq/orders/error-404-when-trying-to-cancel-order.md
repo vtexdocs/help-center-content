@@ -20,6 +20,8 @@ When attempting to cancel an order in the **Orders** module, sometimes the syste
 - How to identify the error
 - What to do when this error happens
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the order. Provide the order number, and VTEX Copilot will determine whether there's an error in the flow or a cancellation in progress, confirming the situation before you contact the external service.
+
 ### How to identify the error
 
 As explained in the article [Checking error details in the orders](/en/docs/tutorials/how-to-check-error-details-in-the-orders), you access the order, as shown below:

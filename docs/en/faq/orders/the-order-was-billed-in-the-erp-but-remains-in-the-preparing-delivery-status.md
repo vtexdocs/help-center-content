@@ -30,3 +30,5 @@ The normal behavior of the system, in cases where the marketplace returns an err
 But if the message informs you that `the request to the service resource returned HTTP status '404 (not found)'`, it means that the route was not found - that is - the product was not found in the marketplace.
 
 In this case, you should contact the marketplace and ask that they check the integration service.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate the order. Provide the order number, and VTEX Copilot will identify where the flow stopped (payment, invoicing, handling, or ERP) and check whether the registered invoice covers the total order amount.

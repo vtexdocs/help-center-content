@@ -29,3 +29,5 @@ To resolve the issue, follow the steps below:
 6. In the specification you want, click __Change__.
 7. Check the __Filter__ flag.
 8. Click __Save__.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the specification field. Provide the category and field name, and VTEX Copilot will verify how the field is configured in the catalog and explain how to activate the `Filter` option.

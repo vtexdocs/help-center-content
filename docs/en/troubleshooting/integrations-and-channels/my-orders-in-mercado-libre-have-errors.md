@@ -21,4 +21,6 @@ symptomFilters:
   - Misconfiguration
 ---
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can explain the error message for your Mercado Libre order, walk you through the steps in this article, and, if necessary, open a ticket with VTEX Support that already includes the relevant details and your screenshots as attachments.
+
 > ⚠️ This is a regional exclusive content not applicable to English speaking countries.

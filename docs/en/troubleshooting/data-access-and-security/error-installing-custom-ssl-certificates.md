@@ -22,6 +22,8 @@ symptomFilters:
 
 Some errors may occur during the installation of [custom SSL certificates](/en/docs/tutorials/custom-ssl-certificates), a feature available in [VTEX Shield](/en/docs/tutorials/vtex-shield). See below the possible errors and how to solve them.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate these errors. Provide your email address, and VTEX Copilot will check the domains added to your account, verify whether you have the required role, and, if necessary, open a ticket with VTEX Support with all the relevant details already included.
+
 ## Solution
 
 To identify the meaning of each error message and its corrective action, see the table below:

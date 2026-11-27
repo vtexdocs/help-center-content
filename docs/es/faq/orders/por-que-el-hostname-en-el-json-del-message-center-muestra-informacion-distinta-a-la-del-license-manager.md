@@ -22,3 +22,5 @@ Al visualizar la variable `hostName` en el JSON del Centro de mensajes, puede ap
 ![VTEX - License Manager](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/orders/por-que-el-hostname-en-el-json-del-message-center-muestra-informacion-distinta-a-la-del-license-manager_1.png)
 
 O sea, o será cargado el valor insertado en el área de Hosts, sino que, conforme a la imagen arriba, será cargado para el template de email el valor registrado en **Nombre de la Tienda**.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX explica las variables de las plantillas del Centro de mensajes, como `hostName`, y consulta los datos de tu cuenta para mostrar el nombre de la tienda registrado.

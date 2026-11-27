@@ -23,6 +23,8 @@ symptomFilters:
 
 Users may experience difficulties when configuring promotions for marketplaces due to incorrect settings in the sales channel or affiliate field. This document provides guidelines to ensure the promotion is configured and applied correctly.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can review the promotion's configuration. Provide the promotion name, and VTEX Copilot will check its dates, conditions, sales channels, selected affiliates, and any additional filters that might prevent the promotion from being applied in the marketplace.
+
 ## Solution
 To solve the problem of promotions not being applied to marketplaces, review the [sales channel](#selecting-trade-policies) and the [affiliate selection](#selecting-affiliates).
 

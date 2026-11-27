@@ -17,6 +17,8 @@ legacySlug: por-que-esta-mi-pedido-parado-en-listo-para-preparar
 
 En el status `Listo para preparar`, ele flujo del pedido espera el catastro de la nota fiscal para la factura. El pedido quedará en ese status hasta que se realice su [factura](/es/docs/tracks/facturar-un-pedido), o sea, hasta que la nota fiscal sea insertada en el pedido.
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) investiga este pedido en el Admin VTEX: envíale el número del pedido y Copilot verifica si hay una factura registrada y si el valor facturado cubre el total del pedido. Además, indica qué falta para continuar.
+
 ## Facturación en el módulo Pedidos
 
 Para cambiar el status, debes agregar la factura a través de la API de [Order Invoice Notification](https://developers.vtex.com/vtex-rest-api/reference/invoicenotification) o [manualmente](/es/docs/tracks/facturas-parciales) en el Admin VTEX. 

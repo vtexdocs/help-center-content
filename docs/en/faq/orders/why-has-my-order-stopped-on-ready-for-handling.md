@@ -17,6 +17,8 @@ legacySlug: why-has-my-order-stopped-on-ready-for-handling
 
 `Ready for Handling` is an order flow status that awaits the registration of the tax receipt in order to invoice it. The order will remain in this status until it is [invoiced](/en/docs/tracks/invoicing-an-order), which means the invoice has been added to the order.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate the order. Provide the order number, and VTEX Copilot will check whether an invoice has been registered and whether the invoiced amount covers the order total, indicating what's needed to proceed.
+
 ## Invoicing in the Orders module
 
 To change the order status, you need to add the invoice via the [Order Invoice Notification](https://developers.vtex.com/vtex-rest-api/reference/invoicenotification) API or [manually](/en/docs/tracks/partial-invoices) through the VTEX Admin.

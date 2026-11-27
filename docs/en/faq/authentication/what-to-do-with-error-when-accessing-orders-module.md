@@ -26,3 +26,5 @@ Usually, this error occurs when the user authentication has expired. Go to the s
 The system will probably request your login. In such a case, authenticate and try to access Orders management once again.
 
 If that doesn't solve your problem, it may be that the **Orders** module is experiencing a temporary unavailability, which may be confirmed on our [status page](http://status.vtex.com/).
+
+> ℹ️ If the error persists after logging in again, ask [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) in the VTEX Admin to check for ongoing incidents. VTEX Copilot monitors platform status in real time and reports on recent service disruptions.

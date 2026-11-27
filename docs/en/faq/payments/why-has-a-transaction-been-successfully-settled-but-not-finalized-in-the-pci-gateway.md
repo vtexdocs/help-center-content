@@ -20,3 +20,5 @@ To answer this question, we have to understand the difference between the `Appro
 After approval, the amount of the transaction is settled. However, the status of the transaction does not then automatically change to `Finished`. For this to happen, the Tax Receipt for the order has to be entered in the **Orders** module.
 
 After this has been done, the **Orders** module communicates with Payments, which alters the status to `Finished`.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the order. Provide the order number, and VTEX Copilot will verify the transaction status in Payments and check whether an invoice has already been registered, a required step for the transaction to reach the `Finished` status.

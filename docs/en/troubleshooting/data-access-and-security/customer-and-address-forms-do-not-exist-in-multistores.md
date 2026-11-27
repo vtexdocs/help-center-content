@@ -24,6 +24,8 @@ In Master Data v1, the Customer and Address forms are, by default, only created 
 
 > ⚠️ This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use. <ul> <li> [ Master Data version characteristics ](/en/docs/tutorials/master-data#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/docs/guides/master-data-v2-basics) </li> </ul>
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check whether the Customer (CL) and Address (AD) entities already exist in your multistore's Master Data and guide you through the steps below if they're missing.
+
 ## Solution
 
 Follow the instructions below for each multistore where you want to create the Customer and Address forms:

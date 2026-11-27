@@ -27,6 +27,8 @@ The status `Verifying invoice` usually indicates the following reasons:
 * There was a problem with the [payment settlement](/en/docs/tutorials/configuring-maximum-automatic-payment-settlement-time-frame).
 * The invoice was not correctly added to the order, or the [invoice](/en/docs/tutorials/how-to-manually-invoice-an-order) was only partially processed.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate this order. Provide the order number, and VTEX Copilot will determine whether the issue is related to payment settlement or invoicing and recommend the next steps.
+
 ## Solution
 
 Regarding payment settlement, the order remains with the `Verifying invoice` status until the [gateway](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#gateway) confirms the payment, which is indicated by the status `Settled` in the [transaction flow](/en/docs/tracks/the-transaction-flow). If the settlement isn’t completed after a while, a new order must be created, as the issue is related to the gateway and not the platform.

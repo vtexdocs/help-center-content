@@ -26,3 +26,5 @@ En estos escenarios, es común que aparezca en la pantalla el siguiente mensaje 
 Si sus SKUs han subido a VTEX a través de una integración, compruebe con su integrador si los campos se rellenan con los valores correctos. Para saber los valores esperados por VTEX, [acceda a nuestro artículo](/es/tutorial/guia-de-integracion-de-erps-catalogo-completo) sobre integraciones con el Catálogo.
 
 Si su producto ha alcanzado el límite de SKUs registrados, sugerimos revisar su categorización de productos. Permitimos, como máximo, 50 SKUs por producto.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga el problema: envíale el ID del producto y Copilot lista los SKUs registrados y la configuración de cada uno, lo que ayuda a identificar si el producto alcanzó el límite de 50 SKUs.

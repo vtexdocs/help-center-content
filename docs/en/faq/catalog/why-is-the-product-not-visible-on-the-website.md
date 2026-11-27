@@ -39,6 +39,8 @@ This article explains how to investigate and fix product unavailability errors o
 
 There are cases in which the product is displayed on the product listing page but becomes unavailable when added to the cart. This may be due to different logistics configurations. Learn more in the article [Which logistics settings can impact the product availability in the cart?](/en/docs/tutorials/which-logistics-settings-can-impact-the-product-availability-in-the-cart).
 
+> ℹ️ Before following the steps below, ask [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) in the VTEX Admin to investigate the issue. Using the product ID, it lists the catalog settings preventing the product from being displayed on the product listing page. Using the SKU ID and a postal code, it identifies whether the issue is related to pricing, inventory, or shipping.
+
 ## Catalog
 
 We recommend beginning the investigation with **Catalog**. To check the **Catalog** settings, follow the steps below.

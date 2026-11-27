@@ -38,3 +38,5 @@ Finally, return to the initial panel and follow the steps below.
 6. Confirm that the __price table__ has the price registered.
 
 To learn more, read the article [Setting up Price Tables for specific users](/en/docs/tutorials/setting-up-price-tables-for-specific-users).
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can perform these checks using the SKU ID and the customer's email address. It verifies whether the product is active, whether the customer's record is associated with the price table, and whether the SKU has a price configured in that table.

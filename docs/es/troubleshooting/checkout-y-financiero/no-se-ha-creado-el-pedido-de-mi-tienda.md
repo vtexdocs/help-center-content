@@ -29,6 +29,8 @@ Antes de considerar razones complejas para errores en pedidos no creados, aplica
 * El ítem no estaba disponible en el [stock](/es/docs/tutorials/gestionar-items-en-inventario) y la tienda no estaba configurada para vender productos sin stock (agotados).
 * La integración XML no estaba configurada para enviar información sobre productos sin stock (agotados).
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga por qué no se creó el pedido: envíale el ID del SKU y el código postal del cliente y Copilot identifica si el bloqueo es por el precio, el stock o el envío.
+
 ## Soluciones
 
 Considera los siguientes procesos de solución de problemas para errores en la creación de pedidos:

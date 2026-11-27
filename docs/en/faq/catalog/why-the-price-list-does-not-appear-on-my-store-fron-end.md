@@ -42,3 +42,5 @@ Continue with the process:
 
 Done! Your SKU will be once again displayed on your store page.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the SKU's price configuration. Provide the SKU ID, and VTEX Copilot will display the base price, list price, markup, and fixed prices, indicating whether a fixed price is overriding the list price.
+
