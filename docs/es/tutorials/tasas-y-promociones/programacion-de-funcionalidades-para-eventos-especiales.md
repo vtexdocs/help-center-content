@@ -1,5 +1,5 @@
 ---
-title: 'Programación de funcionalidades para eventos especiales'
+title: 'Programar funcionalidades para eventos especiales'
 id: 2nd50tPWdKK4waXRZLg0JI
 status: PUBLISHED
 createdAt: 2021-08-05T20:48:01.843Z
@@ -68,7 +68,7 @@ Para programar un contenido, siga los pasos a continuación:
 3. Utilice el campo de la URL en la esquina superior para navegar a la página que muestra el bloque cuyo contenido será sobrescrito.
 4. Seleccione el bloque para el que desea crear un nuevo contenido. Puede seleccionarlo en lista de la derecha o en la interfaz:
 
-![seta-interface](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/otros/programacion-de-funcionalidades-para-eventos-especiales_1.png)
+![seta-interface](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/programacion-de-funcionalidades-para-eventos-especiales_1.png)
 
 5. Haga clic en `Configuración` en la esquina superior derecha.
 6. Haga clic en el botón `Nuevo contenido`.
