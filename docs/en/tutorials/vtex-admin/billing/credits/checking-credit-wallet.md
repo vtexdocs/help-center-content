@@ -1,7 +1,7 @@
 ---
 title: 'Checking credit wallet'
 createdAt: '2026-10-08T00:00:00.000Z'
-updatedAt: '2026-11-03T00:00:00.000Z'
+updatedAt: '2026-11-05T00:00:00.000Z'
 contentType: tutorial
 productTeam: Billing
 slugEN: checking-credit-wallet
@@ -15,7 +15,7 @@ To access the credit wallet, click your avatar — identified by your email init
 
 ![credits-en](https://cdn.jsdelivr.net/gh/vtexdocs/help-center-content@main/docs/en/tutorials/vtex-admin/billing/credits/credits-en.png)
 
-> ⚠️ If your store uses a customized edition, that is, one different from VTEX editions (`vtex.edition-business@0.x` or `vtex.edition-store@5.x`), the **Credits** page might not be available in the VTEX Admin. If needed, [open a ticket with VTEX Support](/en/docs/tutorials/how-to-open-a-ticket-with-vtex-support) and request the installation of the Billing app (`[APP-NAME-TO-BE-CONFIRMED]`), which displays the **Billing Information** pages, including **Credits**.
+> ⚠️ If your store uses a custom edition other than the VTEX editions (`vtex.edition-business@0.x` or `vtex.edition-store@5.x`), the **Credits** page might not be available in the VTEX Admin. If needed, [open a ticket with VTEX Support](/en/docs/tutorials/opening-tickets-to-vtex-support) to request the installation of the Billing app (`[APP-NAME-TO-BE-CONFIRMED]`), which displays the **Billing** pages, including **Credits**.
 
 On the **Credits** page, you'll find the following information:
 
