@@ -3,7 +3,7 @@ title: 'Gestionar contenido de páginas y templates'
 id: 3tMbx6HXy4Fy5r9EhboG37
 status: PUBLISHED
 createdAt: 2021-05-07T03:32:03.808Z
-updatedAt: 2023-03-24T22:17:48.424Z
+updatedAt: 2026-11-26T18:29:26.086Z
 publishedAt: 2023-03-24T22:17:48.424Z
 firstPublishedAt: 2021-05-07T06:03:50.121Z
 contentType: tutorial
