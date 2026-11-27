@@ -3,7 +3,7 @@ title: "Buenas prácticas: Opt-in"
 id: 1zqhPT4869IgWgRZ6eJDkv
 status: PUBLISHED
 createdAt: 2025-09-15T15:35:50.207Z
-updatedAt: 2026-11-12T12:00:00.000Z
+updatedAt: 2026-11-19T21:08:52.000Z
 publishedAt: 2025-10-03T14:20:32.308Z
 firstPublishedAt: 2025-10-03T14:20:32.308Z
 contentType: tutorial
@@ -30,6 +30,12 @@ Para obtener el Opt-In, es necesario cumplir con algunos requisitos:
 - Aclarar que la persona está aceptando recibir mensajes de tu empresa a través de WhatsApp.
 - Exponer el nombre de la empresa a la persona que está aceptando recibir los mensajes.
 - Cumplir con la **LGPD** (Ley General de Protección de Datos Personales).
+
+> ⚠️ **Consentimiento de Meta y base legal de protección de datos**
+>
+> El consentimiento descrito anteriormente es un requisito de la política de Meta para mantener la calidad de la cuenta en WhatsApp Business. No reemplaza el análisis de base legal exigido por la legislación de protección de datos aplicable (como la LGPD en Brasil, el RGPD en la Unión Europea u otras leyes locales equivalentes) para el tratamiento de datos personales.
+>
+> Cuando el consentimiento sea la base legal elegida, la empresa debe cumplir lo establecido por las leyes de privacidad aplicables, incluyendo: informar claramente la finalidad del tratamiento, mantener registro/comprobación del consentimiento obtenido y permitir su revocación en cualquier momento.
 
 ## Métodos de recolección de la aceptación
 

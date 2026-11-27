@@ -1,7 +1,7 @@
 ---
 title: 'Setting up payments with Notes Payable'
 createdAt: 2018-06-21T20:20:24.484Z
-updatedAt: 2026-10-22T00:00:00.000Z
+updatedAt: 2026-11-23T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
 slugEN: setting-up-payments-with-notes-payable
@@ -39,7 +39,7 @@ After registering the payment provider, follow the steps below:
 - **Automatic authorization:** select whether you want to authorize payments automatically. We recommend enabling this option only for payments on delivery or in-store pickup. By choosing Yes, the order status will automatically change to Handling shipping without requiring payment verification.
 - **Change margin range:** percentage margin range allowed for changes in the value of the Note Payable. Some customers may want to authorize [changes to orders](https://help.vtex.com/en/docs/tutorials/how-order-modification-works). In this case, please fill in the **Change margin range** field to determine the percentage margin allowed for changes.
 - **Split payment:** choose whether to use the [split payment solution](/en/docs/tutorials/split-payment). If you opt to use it, the Note Payable will be split between the sellers and the marketplace, when applicable.
-- **Automatic invoicing:** number of days for the system to invoice the Note Payable after payment authorization. By default, Notes Payable are invoiced upon payment authorization. By configuring this field, billing will no longer occur upon authorization and will begin after the number of days defined by the customer.
+- **Automatic invoicing:** number of days for the system to invoice the Note Payable after payment authorization. By default, this field is set to 15 days, so Notes Payable are invoiced 15 days after payment authorization. You can change this value to set a different number of days, from 1 to 30.
 
 5. Click on `Save`.
 
